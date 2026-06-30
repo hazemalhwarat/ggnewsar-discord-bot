@@ -990,7 +990,26 @@
     "https://blog.counter-strike.net/2022/12/40708/",
     "https://gamingph.com/2026/06/wemades-legend-of-ymir-global-opens-its-first-seasonal-growth-server-bootcamp-on-june-30/",
     "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-30-june-2026",
-    "https://www.gamesindustry.biz/ndreams-founder-launches-new-studio-atmospheric-to-create-original-ip-across-games-and-music"
+    "https://www.gamesindustry.biz/ndreams-founder-launches-new-studio-atmospheric-to-create-original-ip-across-games-and-music",
+    "https://www.hltv.org/news/45025/esl-announces-switch-to-cache",
+    "https://www.vlr.gg/707882/bilibili-brings-anaks-back-to-china-promotes-ft-from-xlb",
+    "https://www.vlr.gg/707876/smoggy-to-miss-ewc-coach-signed-to-step-in",
+    "https://dotesports.com/valorant/news/all-weapon-skin-bundles-in-valorant",
+    "https://dotesports.com/call-of-duty/guides/bo7-executioners-duet-camo-challenges",
+    "https://dotesports.com/valorant/news/all-valorant-knife-skins-and-how-to-get-them",
+    "https://esportsinsider.com/2026/06/team-vitality-nicolas-maurer-paris-esports-world-cup-2026",
+    "https://insider-gaming.com/team-liquid-eliminate-karmine-corp-at-msi/",
+    "https://insider-gaming.com/todays-contexto-hints-answer-for-june-30-2026/",
+    "https://www.techradar.com/audio/i-visited-elite-head-fi-brand-audeze-and-found-out-exactly-why-planar-magnetic-headphones-are-better-for-gaming-audio-than-regular-dynamic-drivers",
+    "https://www.techradar.com/gaming/60fps-feels-like-a-bridge-too-far-gta-6-is-likely-to-only-run-at-30fps-on-ps5-consoles-due-to-cpu-limitations-tech-analysts-say-but-theres-hope-that-a-40fps-mode-would-be-a-good-option-if-60-is-off-the-table",
+    "https://www.techradar.com/gaming/if-you-kill-every-fable-npc-playground-games-says-the-world-will-stay-empty-for-some-time-before-being-repopulated-by-full-npcs",
+    "https://www.pcgamesn.com/minecraft/biomes",
+    "https://www.pcgamesn.com/minecraft/apparently-illegal-servers",
+    "https://www.pcgamesn.com/arc-raiders/cheap-fanatical",
+    "https://www.pcgamesn.com/steam-machine/valve-killed-the-companion-cube",
+    "https://www.gamesindustry.biz/ubisoft-barcelona-staff-go-on-strike-over-51-staff-being-laid-off",
+    "https://www.gamesindustry.biz/griffin-gaming-partners-invests-in-tinybuild",
+    "https://www.gamesindustry.biz/cwa-union-says-xbox-workers-are-not-disposable-as-layoffs-loom"
   ],
   "title_hashes": [
     "b56ce8453a4825a6b4c02a0e604147ad",
@@ -1983,7 +2002,26 @@
     "3c55f9e9fe89c99e1d8645f838596dda",
     "66717761378b6f7db7f0213b7b269519",
     "54170c57d85fbed171fb3a1023d641a2",
-    "3a1da25381a80168b1d42a276647542a"
+    "3a1da25381a80168b1d42a276647542a",
+    "d986e858beca1a555a6553abfe7bc98e",
+    "83e647c4a869f1e1151c804fc8011f39",
+    "2d79f2c56d95857565573889c8ec92c8",
+    "868c8e2dc7d5961c8c7f4ee195917797",
+    "172c70300d63b01742a5d5009e86d04b",
+    "280deb497da5d974d4485bc64cf10c3e",
+    "f4052728cf7b09813a6bd283ead38876",
+    "4e4201fe643643499b996a1b49152ecf",
+    "3cfe220283d6e1fc86bd19b4bda98de7",
+    "8fbf3aa354fdc8a46ff4c7e21f6cdc94",
+    "ea5679a61c46647db28b0746468a426e",
+    "b0a26fd9b5641eab467c851e3deaca78",
+    "8e78288d7eadea03f82f6e4479d43635",
+    "3fa443aa7fa240bc9ef4bd019e1ea81f",
+    "745e082b1c592a4063d0e21b452d3cb6",
+    "cc87135fe49ca4d7210425bb64eec2ba",
+    "97bf94c7cf28d66136fc4a57b9e8d66a",
+    "74e2c368a176fcbf653002359f55e971",
+    "595d89fc7979a83a24fe61fc3df9f807"
   ],
   "liquipedia": {
     "counterstrike:Astralis": {
@@ -2144,9 +2182,10 @@
     },
     "valorant:Esports World Cup/2026": {
       "revids": [
-        "1303254"
+        "1303254",
+        "1303272"
       ],
-      "size": 18709
+      "size": 19038
     },
     "valorant:Fnatic": {
       "revids": [
@@ -2372,7 +2411,8 @@
     },
     "rainbowsix:Virtus.pro": {
       "revids": [
-        "868502"
+        "868502",
+        "874188"
       ],
       "size": 2036
     },
@@ -2480,9 +2520,10 @@
     },
     "mobilelegends:MSC/2026": {
       "revids": [
-        "287975"
+        "287975",
+        "288026"
       ],
-      "size": 25476
+      "size": 25576
     },
     "mobilelegends:RRQ Hoshi": {
       "revids": [
