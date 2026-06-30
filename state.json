@@ -1068,7 +1068,28 @@
     "https://www.hotspawn.com/counter-strike/news/best-ultraviolet-knife-glove-combos-in-cs2/",
     "https://www.hotspawn.com/other/news/the-hidden-psychological-burdens-in-esports/",
     "https://www.hotspawn.com/counter-strike/news/what-teams-could-broky-join-after-his-second-faze-benching/",
-    "https://www.hotspawn.com/world-of-warcraft/news/wow-classic-season-of-discovery-fresh/"
+    "https://www.hotspawn.com/world-of-warcraft/news/wow-classic-season-of-discovery-fresh/",
+    "https://www.hltv.org/news/45026/sources-saw-locked-in-talks-with-former-quartet",
+    "https://www.hltv.org/news/45032/legacy-bid-lux-farewell",
+    "https://www.hltv.org/news/45006/katkame-on-joining-vitality-how-he-became-an-awper-hopes-of-reaching-the-main-team",
+    "https://dotesports.com/general/news/john-romero-notch-sandy-petersen-piracy",
+    "https://esports-news.co.uk/2026/06/30/coinpoker-coinrewards-four-part-update/",
+    "https://insider-gaming.com/wwe-2k26-locker-codes-all-active-codes/",
+    "https://insider-gaming.com/nba-2k26-locker-codes-all-active-codes/",
+    "https://insider-gaming.com/as-cuts-loom-xbox-says-its-not-reducing-games-investment/",
+    "https://insider-gaming.com/hideo-kojimas-od-is-reportedly-safe-from-planned-xbox-cuts/",
+    "https://esports.gg/guides/overwatch/overwatch-community-crafted-patch-notes-2026/",
+    "https://esports.gg/guides/overwatch/overwatch-yoasobi-event-guide-2026/",
+    "https://esports.gg/news/league-of-legends/lol-msi-2026-format-teams-schedule-results/",
+    "https://esports.gg/news/honkai-star-rail/ugreen-yao-guang/",
+    "https://esports.gg/guides/call-of-duty/full-call-of-duty-league-schedule-for-2025-2026/",
+    "https://esports.gg/guides/gaming/all-free-games-included-in-xbox-game-pass-starter-edition-full-game-list/",
+    "https://esports.gg/news/overwatch/overwatch-2-shop-rotation-and-shop-reset-countdown/",
+    "https://esports.gg/news/league-of-legends/tlaw-josedeodo-msi-2026-interview/",
+    "https://www.techradar.com/gaming/control-resonants-ray-tracing-is-a-heavy-demand-on-the-rtx-5090-but-its-an-absolute-delight-to-the-eyes",
+    "https://www.hotspawn.com/dota2/news/esports-world-cup-dota-2-2026-power-rankings/",
+    "https://www.hotspawn.com/rainbow-six/news/rainbow-six-sieges-marketplace-stays-dead/",
+    "https://www.hotspawn.com/fortnite/news/rarest-sprite-in-fortnite/"
   ],
   "title_hashes": [
     "b56ce8453a4825a6b4c02a0e604147ad",
@@ -2139,7 +2160,28 @@
     "6c2850de90492ae0e11fefbc4cfcb9eb",
     "ec3f529502c7528147da031cade5fbe3",
     "c056d0ce178698c36775f8423ffed46d",
-    "f2a9fcbb7fb807e8425284e9a5760e5d"
+    "f2a9fcbb7fb807e8425284e9a5760e5d",
+    "f2ab5fb218da8b84623f45579aa4ba11",
+    "4c72fdd11a0f3ae97b33ef5736b142b8",
+    "42ab80142f448f342769a48ade2ac72a",
+    "4313ff38ff113006e300d9e7dea295d2",
+    "0326d16c8e26ceb40ec29af1d1b7f6e4",
+    "4f508142dff3acdf75aeb67e273426af",
+    "3cd5290f419332891ced4222f2aaf9e3",
+    "401a4b9533f41e3fe09fb93134b811b7",
+    "a4518e41c18b613e66670fbaba49f3eb",
+    "c9a0d58c0ad01a5a71d035537ddcc4bb",
+    "acf5f0f96cdc15cd6e646a2b51ff490e",
+    "f324693000d06eee4f44dac39ba677c3",
+    "d78b3f317ca5f0faca8a249a32763ac4",
+    "905e8628af928ef4d44d4712be224e8c",
+    "f4b4ee08a116af1da636722429170819",
+    "9accacdb98f19526cf501dea37e10351",
+    "5fc79fba94d04359d073a303d59da106",
+    "b76c0e616c13f889122a1a17d75a3c77",
+    "161debb461b9759371e3b2c7f8d7a24d",
+    "36fbb0f638ab646be7d52d1cb8e7bdc9",
+    "622cc7f0b0f3fbb9082c80def1e7a17d"
   ],
   "liquipedia": {
     "counterstrike:Astralis": {
@@ -2304,9 +2346,10 @@
     "valorant:Esports World Cup/2026": {
       "revids": [
         "1303254",
-        "1303272"
+        "1303272",
+        "1303461"
       ],
-      "size": 19038
+      "size": 19149
     },
     "valorant:Fnatic": {
       "revids": [
@@ -2474,9 +2517,10 @@
     "rainbowsix:Esports World Cup/2026": {
       "revids": [
         "874052",
-        "874272"
+        "874272",
+        "874323"
       ],
-      "size": 8011
+      "size": 8403
     },
     "rainbowsix:FaZe Clan": {
       "revids": [
@@ -2699,9 +2743,10 @@
     },
     "fighters:Esports World Cup/2026/T8": {
       "revids": [
-        "420831"
+        "420831",
+        "421111"
       ],
-      "size": 6826
+      "size": 6783
     },
     "fighters:Street Fighter 6": {
       "revids": [
