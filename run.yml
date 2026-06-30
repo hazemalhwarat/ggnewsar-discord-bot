@@ -1,0 +1,45 @@
+name: GGNewsAR Discord Bot
+
+on:
+  schedule:
+    - cron: "13 */4 * * *"  # every 4 hours, offset minute to avoid GitHub's high-load congestion times
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ggnewsar-discord-bot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10  # safety net: force-kill the job if anything hangs,
+                         # so a stuck run can never block future scheduled runs
+                         # via the concurrency lock again
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python bot.py
+
+      - name: Commit state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main || true
+          git add state.json
+          git diff --cached --quiet || git commit -m "chore: update state.json [skip ci]"
+          git push
