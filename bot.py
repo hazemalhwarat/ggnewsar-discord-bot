@@ -114,7 +114,7 @@ def _clip(text: str, limit: int) -> str:
     return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
 
 
-def send_discord(title: str, link: str = "", source: str = "", summary: str = "") -> bool:
+def send_discord(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "") -> bool:
     """Send one news item to Discord as an embed. Returns True on success."""
     if not DISCORD_WEBHOOK_URL:
         log.error("Discord webhook missing")
@@ -130,6 +130,8 @@ def send_discord(title: str, link: str = "", source: str = "", summary: str = ""
         embed["description"] = _clip(summary, DESC_MAX)
     if source:
         embed["footer"] = {"text": _clip(source, 2048)}
+    if image_url:
+        embed["image"] = {"url": image_url}
 
     payload = {"embeds": [embed]}
 
@@ -182,6 +184,46 @@ def strip_html(text: str) -> str:
         return ""
     text = re.sub(r"<[^>]+>", " ", text)
     return re.sub(r"\s+", " ", text).strip()
+
+
+IMG_TAG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.IGNORECASE)
+
+
+def extract_image(entry) -> str:
+    """Best-effort image extraction from an RSS/Atom entry. Returns '' if none found."""
+    # 1) media:content (most common for news feeds)
+    media_content = entry.get("media_content")
+    if media_content:
+        for m in media_content:
+            url = m.get("url")
+            if url:
+                return url
+
+    # 2) media:thumbnail
+    media_thumb = entry.get("media_thumbnail")
+    if media_thumb:
+        for m in media_thumb:
+            url = m.get("url")
+            if url:
+                return url
+
+    # 3) enclosure links (type=image/*)
+    for link_obj in entry.get("links", []):
+        if str(link_obj.get("type", "")).startswith("image/"):
+            href = link_obj.get("href")
+            if href:
+                return href
+
+    # 4) first <img> tag inside summary/content HTML
+    raw_html = entry.get("summary") or entry.get("description") or ""
+    content_list = entry.get("content")
+    if content_list:
+        raw_html = content_list[0].get("value", raw_html)
+    match = IMG_TAG_RE.search(raw_html)
+    if match:
+        return match.group(1)
+
+    return ""
 
 
 def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
@@ -266,6 +308,7 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                 link=link,
                 source=name,
                 summary=strip_html(summary)[:280],
+                image_url=extract_image(entry),
             )
             if ok:
                 sent += 1
