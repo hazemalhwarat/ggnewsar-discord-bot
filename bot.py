@@ -4,8 +4,13 @@ GGNewsAR Discord Bot — unified RSS + Liquipedia pipeline.
 مشروع مستقل تماماً عن بوت تيليقرام. نفس المنطق بالضبط (RSS + Liquipedia +
 dedup + state)، لكن الإرسال يروح لروم Discord عبر Webhook بدل تيليقرام.
 
+كل خبر RSS يمر أولاً على Qwen (عبر OpenRouter) اللي يحلله ويطلع عنوان رئيسي
+وعنوان فرعي وملخص قصير بالفصحى البيضاء حسب ستايل GGNewsAR، بدل إرسال
+عنوان/ملخص RSS الخام. لو التحليل فشل، يرجع البوت تلقائياً للنص الأصلي.
+
 Pipeline (per cycle):
-  1. RSS phase: fetch all feeds in feeds.py, filter freshness + dedup, send.
+  1. RSS phase: fetch all feeds in feeds.py, filter freshness + dedup,
+     analyze via Qwen, send.
   2. Liquipedia phase: poll watchlist pages, filter bot/minor/tiny edits, send.
 
 State is unified in state.json with three collections:
@@ -14,7 +19,7 @@ State is unified in state.json with three collections:
   - liquipedia: per-page seen revids + last seen size
 
 Configuration sources: feeds.py (RSS_FEEDS), watchlist.py (WATCHLIST).
-Secrets: DISCORD_WEBHOOK_URL in environment.
+Secrets: DISCORD_WEBHOOK_URL, OPENROUTER_API_KEY in environment.
 """
 
 import os
@@ -37,6 +42,7 @@ from watchlist import WATCHLIST
 # Configuration
 # ============================================================
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
+OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY", "").strip()
 
 STATE_FILE = Path("state.json")
 
@@ -66,6 +72,87 @@ DESC_MAX = 600
 
 # Strip "Source - Article Title" patterns from RSS titles for dedup
 SOURCE_SUFFIX_RE = re.compile(r"\s*[\-\|\u2013\u2014:]\s*[^\-\|\u2013\u2014:]{1,40}$")
+
+# ------------------------------------------------------------
+# Qwen (via OpenRouter) — news analysis
+# ------------------------------------------------------------
+OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+QWEN_MODEL = "qwen/qwen3-235b-a22b:free"
+QWEN_TIMEOUT_SECONDS = 20
+QWEN_MAX_RETRIES = 2
+QWEN_MAX_TOKENS = 500
+
+QWEN_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGNewsAR، تكتب بالعربية الفصحى البيضاء (لغة يومية مثقفة، مو لغة أدبية أو مترجمة حرفياً).
+
+مهمتك: تحليل خبر إسبورت وإخراج ثلاثة عناصر: عنوان رئيسي، عنوان فرعي، وملخص قصير.
+
+قواعد صارمة:
+- العنوان الرئيسي: لازم يحتوي اسم اللعبة، يبدأ بأهم معلومة (رقم/إنجاز/حدث)، وينتهي بعلامة استفهام أو تعجب حسب نوع الخبر. لو الخبر عن شراكة أو اتفاق أو تحالف، افتح بكلمة صادمة زي "شراكة!" أو "اتفاق رسمي!" أو "تحالف ضخم!".
+- العنوان الفرعي: جملة واحدة قصيرة تضيف تفصيل أو سياق إضافي لم يُذكر بالعنوان الرئيسي، مش تكرار له.
+- الملخص: جملتين أو ثلاث قصيرة ومتتالية، تبدأ بفعل مباشر (تأهل، حسم، أنهى، خطف)، أرقام وأسماء بالمقدمة، بدون نقاط أو عناوين فرعية.
+- ممنوع أي عبارات حشو أو توحي بالذكاء الاصطناعي مثل: "يأتي ذلك في إطار"، "في خطوة لافتة"، "يُعد علامة فارقة"، "تجدر الإشارة إلى"، "من الجدير بالذكر"، "وفي سياق متصل"، "يُشكل نقلة نوعية"، وصفات فارغة مثل "كبيرة" أو "بارزة" بدون وزن فعلي.
+- أسماء اللاعبين: اللقب فقط (Nickname)، بدون الاسم الحقيقي الكامل.
+- الأرقام المالية: أرقام كاملة مع فواصل الآلاف (مثال: 1,000,000)، ما تكتبها بالحروف.
+- لو فيه أكثر من فريق عربي بنفس الخبر، لا تبرز فريق واحد بالعنوان دون مبرر واضح من الخبر نفسه.
+- لو المصدر ما فيه معلومات كافية لتأكيد تفصيل معين، لا تختلقه.
+
+رد بصيغة JSON فقط، بدون أي نص أو شرح إضافي قبله أو بعده، بالشكل التالي بالضبط:
+{"headline": "...", "subheadline": "...", "summary": "..."}"""
+
+
+def analyze_with_qwen(title: str, summary: str, link: str) -> dict | None:
+    """
+    Analyze one news item via Qwen (OpenRouter free tier).
+    Returns {"headline": ..., "subheadline": ..., "summary": ...} or None on failure.
+    """
+    if not OPENROUTER_API_KEY:
+        return None
+
+    user_content = (
+        f"العنوان الأصلي: {title}\n\n"
+        f"محتوى/ملخص الخبر: {summary or 'غير متوفر'}\n\n"
+        f"رابط المصدر: {link}"
+    )
+
+    payload = {
+        "model": QWEN_MODEL,
+        "messages": [
+            {"role": "system", "content": QWEN_SYSTEM_PROMPT},
+            {"role": "user", "content": user_content},
+        ],
+        "temperature": 0.4,
+        "max_tokens": QWEN_MAX_TOKENS,
+    }
+    headers = {
+        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "Content-Type": "application/json",
+        "HTTP-Referer": "https://ggnewsar.com",
+        "X-Title": "GGNewsAR Bot",
+    }
+
+    for attempt in range(QWEN_MAX_RETRIES):
+        try:
+            r = requests.post(
+                OPENROUTER_URL, json=payload, headers=headers, timeout=QWEN_TIMEOUT_SECONDS
+            )
+            if r.status_code == 429:
+                time.sleep(2)
+                continue
+            r.raise_for_status()
+            data = r.json()
+            content = data["choices"][0]["message"]["content"].strip()
+            content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.MULTILINE).strip()
+            parsed = json.loads(content)
+            if all(k in parsed and parsed[k] for k in ("headline", "subheadline", "summary")):
+                return parsed
+            log.warning(f"Qwen response missing/empty keys: {content[:200]}")
+            return None
+        except (requests.RequestException, ValueError, KeyError, json.JSONDecodeError) as e:
+            log.warning(f"Qwen analysis failed (attempt {attempt + 1}/{QWEN_MAX_RETRIES}): {e}")
+            time.sleep(1)
+
+    return None
+
 
 logging.basicConfig(
     level=logging.INFO,
@@ -191,7 +278,6 @@ IMG_TAG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.IGNORECASE)
 
 def extract_image(entry) -> str:
     """Best-effort image extraction from an RSS/Atom entry. Returns '' if none found."""
-    # 1) media:content (most common for news feeds)
     media_content = entry.get("media_content")
     if media_content:
         for m in media_content:
@@ -199,7 +285,6 @@ def extract_image(entry) -> str:
             if url:
                 return url
 
-    # 2) media:thumbnail
     media_thumb = entry.get("media_thumbnail")
     if media_thumb:
         for m in media_thumb:
@@ -207,14 +292,12 @@ def extract_image(entry) -> str:
             if url:
                 return url
 
-    # 3) enclosure links (type=image/*)
     for link_obj in entry.get("links", []):
         if str(link_obj.get("type", "")).startswith("image/"):
             href = link_obj.get("href")
             if href:
                 return href
 
-    # 4) first <img> tag inside summary/content HTML
     raw_html = entry.get("summary") or entry.get("description") or ""
     content_list = entry.get("content")
     if content_list:
@@ -303,11 +386,23 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                 seen_titles.discard(t_hash)
                 continue
 
+            clean_summary = strip_html(summary)
+
+            analysis = analyze_with_qwen(title, clean_summary, link)
+            if analysis:
+                stats["qwen_analyzed"] += 1
+                send_title = analysis["headline"]
+                send_desc = f"**{analysis['subheadline']}**\n\n{analysis['summary']}"
+            else:
+                stats["qwen_fallback"] += 1
+                send_title = title
+                send_desc = clean_summary[:280]
+
             ok = send_discord(
-                title=title,
+                title=send_title,
                 link=link,
                 source=name,
-                summary=strip_html(summary)[:280],
+                summary=send_desc,
                 image_url=extract_image(entry),
             )
             if ok:
@@ -329,7 +424,7 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
 
 
 # ============================================================
-# Liquipedia phase
+# Liquipedia phase  (unchanged — no Qwen analysis here)
 # ============================================================
 def fetch_liquipedia_revisions(wiki: str, pages: list, session: requests.Session) -> list:
     """Fetch latest revision for each page on a Liquipedia wiki."""
@@ -503,6 +598,9 @@ def main():
     if not DISCORD_WEBHOOK_URL:
         log.error("Missing DISCORD_WEBHOOK_URL env var")
         return
+
+    if not OPENROUTER_API_KEY:
+        log.warning("Missing OPENROUTER_API_KEY — Qwen analysis disabled, will fall back to raw RSS titles/summaries.")
 
     state = load_state()
 
