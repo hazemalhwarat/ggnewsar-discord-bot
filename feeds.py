@@ -1,6 +1,6 @@
 """
 GGNewsAR Bot — RSS Feed Configuration
-105 English-language esports sources. No Arabic sources by design.
+125 English-language esports sources. No Arabic sources by design.
 
 IMPORTANT: bot.py does NOT filter by "verified". Every source in this list
 is attempted on every run, with no exception. "verified" is documentation
@@ -154,11 +154,41 @@ RSS_FEEDS = [
     {"name": "F1 Esports", "url": "https://f1esports.com/news/feed", "verified": False},
     {"name": "NESTHQ", "url": "https://nesthq.ca/feed", "verified": False},
     {"name": "Esports Charts News", "url": "https://escharts.com/news/feed", "verified": False},
+
+    # ============================================================
+    # Added 2026-07-01 per Hazem's request.
+    # Not yet tested in a live run — verified stays False until the
+    # next Actions run confirms it, same as every other new addition.
+    # ============================================================
+    {"name": "Sheep Esports", "url": "https://www.sheepesports.com/rss", "verified": False},
+    # ============================================================
+    # Added 2026-07-01, batch 2 — high-value additions per Hazem's
+    # request: (a) confirmed business/regional RSS from the Feedspot
+    # esports directory review, (b) official game-publisher esports
+    # sites bridged via Google News (none of them publish native RSS
+    # — confirmed via their own user forums complaining about this),
+    # (c) a Google News keyword bridge that pulls esports business/
+    # sponsorship coverage from general (non-esports-specialized)
+    # press like Bloomberg/Forbes/Reuters/SBJ whenever they publish
+    # something relevant — this is the "non-specialized site" bridge
+    # Hazem asked for. All verified=False until the next live run.
+    # ============================================================
+    {"name": "Esports Marketing Blog", "url": "https://esports-marketing-blog.com/feed/", "verified": False},
+    {"name": "European Gaming Media", "url": "https://europeangaming.eu/portal/feed/", "verified": False},
+    {"name": "Esports Africa News", "url": "https://esportsafricanews.com/feed/", "verified": False},
+    {"name": "LoL Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:lolesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "VALORANT Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:valorantesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Esports World Cup (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:esportsworldcup.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Rocket League Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:rocketleagueesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "PUBG Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:pubgesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "ALGS - Apex Legends (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:algs.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Call of Duty League (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:callofdutyleague.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Esports Business & Sponsorships (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(sponsorship+OR+partnership+OR+investment+OR+acquisition+OR+revenue)&hl=en&gl=US&ceid=US:en", "verified": False},
 ]
+
 
 
 if __name__ == "__main__":
     print(f"Total feeds: {len(RSS_FEEDS)}")
     print(f"Currently working: {sum(1 for f in RSS_FEEDS if f.get('verified'))}")
     print(f"Currently failing (retried every run): {sum(1 for f in RSS_FEEDS if not f.get('verified'))}")
-
