@@ -1,6 +1,6 @@
 """
 GGNewsAR Bot — RSS Feed Configuration
-125 English-language esports sources. No Arabic sources by design.
+119 English-language esports sources. No Arabic sources by design.
 
 IMPORTANT: bot.py does NOT filter by "verified". Every source in this list
 is attempted on every run, with no exception. "verified" is documentation
@@ -66,12 +66,8 @@ RSS_FEEDS = [
     {"name": "GRID Esports Data Blog", "url": "https://blog.grid.gg/feed", "verified": True},
     {"name": "Traxion.gg Esports", "url": "https://traxion.gg/category/esports/feed", "verified": True},
     {"name": "Esports Inquirer", "url": "https://esports.inquirer.net/feed", "verified": True},
-    {"name": "GamingPH", "url": "https://gamingph.com/feed", "verified": True},
-    {"name": "RealSport101", "url": "https://realsport101.com/feed.xml", "verified": True},
-    {"name": "TechRadar Gaming", "url": "https://www.techradar.com/feeds/tag/gaming", "verified": True},
-    {"name": "Mobile Gaming Hub", "url": "https://mobilegaminghub.com/feed", "verified": True},
-    {"name": "PC Games N Esports", "url": "https://www.pcgamesn.com/feed", "verified": True},
-
+        {"name": "RealSport101", "url": "https://realsport101.com/feed.xml", "verified": True},
+            
     # ============================================================
     # Failed in run #49 — kept in the list, retried every run.
     # Will start working automatically if the URL becomes valid again.
@@ -85,8 +81,7 @@ RSS_FEEDS = [
     {"name": "Fragster", "url": "https://fragster.com/feed", "verified": False},
     {"name": "Hotspawn", "url": "https://www.hotspawn.com/feed", "verified": False},
     {"name": "G2G News Esports", "url": "https://g2g.news/feed", "verified": False},
-    {"name": "GamingOnPhone", "url": "https://gamingonphone.com/feed", "verified": False},
-    {"name": "ONE Esports", "url": "https://www.oneesports.gg/feed", "verified": False},
+        {"name": "ONE Esports", "url": "https://www.oneesports.gg/feed", "verified": False},
     {"name": "Way to Smurf", "url": "https://www.waytosmurf.com/feed", "verified": False},
     {"name": "UKCSGO", "url": "https://ukcsgo.com/feed", "verified": False},
     {"name": "CSGO2ASIA", "url": "https://csgo2asia.com/feed", "verified": False},
@@ -115,14 +110,12 @@ RSS_FEEDS = [
     {"name": "Dot Esports PUBG", "url": "https://dotesports.com/pubg/feed", "verified": False},
     {"name": "Esports Talk PUBG Mobile", "url": "https://esportstalk.com/news/pubg-mobile/feed", "verified": False},
     {"name": "DBLTap PUBG", "url": "https://www.dbltap.com/leagues/pubg/feed", "verified": False},
-    {"name": "GamingOnPhone News", "url": "https://gamingonphone.com/category/news/feed", "verified": False},
-    {"name": "Esports.net Mobile Games", "url": "https://www.esports.net/news/mobile-games/feed", "verified": False},
+        {"name": "Esports.net Mobile Games", "url": "https://www.esports.net/news/mobile-games/feed", "verified": False},
     {"name": "RLRSS", "url": "https://rlrss.qrivi.dev/feed", "verified": False},
     {"name": "EventHubs", "url": "https://www.eventhubs.com/feed/", "verified": False},
     {"name": "AFK Gaming Alt", "url": "https://afkgaming.com/feed", "verified": False},
     {"name": "InsideSport Esports", "url": "https://insidesport.in/topic/esports/feed", "verified": False},
-    {"name": "India Today Gaming", "url": "https://www.indiatodaygaming.com/feed", "verified": False},
-    {"name": "Esports Insider (alt path)", "url": "https://esportsinsider.com/news/feed", "verified": False},
+        {"name": "Esports Insider (alt path)", "url": "https://esportsinsider.com/news/feed", "verified": False},
     {"name": "The Esports Observer Archive", "url": "https://esportsobserver.com/feed", "verified": False},
     {"name": "Esports.net Rainbow Six", "url": "https://www.esports.net/news/rainbow-six/feed", "verified": False},
     {"name": "Strafe Valorant", "url": "https://www.strafe.com/news/valorant/feed", "verified": False},
@@ -161,6 +154,17 @@ RSS_FEEDS = [
     # next Actions run confirms it, same as every other new addition.
     # ============================================================
     {"name": "Sheep Esports", "url": "https://www.sheepesports.com/rss", "verified": False},
+
+    # ============================================================
+    # 2026-07-01, batch 3 — cleanup pass. Removed 5 sources confirmed
+    # (via live site inspection) to be general gaming/hardware/guide
+    # sites with only incidental esports content: TechRadar Gaming,
+    # PC Games N Esports, Mobile Gaming Hub, India Today Gaming,
+    # GamingPH. Replaced GamingOnPhone + GamingOnPhone News (both
+    # pointed at general/mixed feeds) with their dedicated esports-
+    # only category feed below.
+    # ============================================================
+    {"name": "GamingOnPhone Esports", "url": "https://gamingonphone.com/category/esports/feed", "verified": False},
     # ============================================================
     # Added 2026-07-01, batch 2 — high-value additions per Hazem's
     # request: (a) confirmed business/regional RSS from the Feedspot
