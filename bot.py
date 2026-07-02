@@ -81,7 +81,7 @@ GEMINI_MODEL = "gemini-2.5-flash"
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 GEMINI_TIMEOUT_SECONDS = 20
 GEMINI_MAX_RETRIES = 2
-GEMINI_MAX_TOKENS = 500
+GEMINI_MAX_TOKENS = 800
 
 GEMINI_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGNewsAR، تكتب بالعربية الفصحى البيضاء (لغة يومية مثقفة، مو لغة أدبية أو مترجمة حرفياً).
 
@@ -122,6 +122,7 @@ def analyze_with_gemini(title: str, summary: str, link: str) -> dict | None:
             "temperature": 0.4,
             "maxOutputTokens": GEMINI_MAX_TOKENS,
             "responseMimeType": "application/json",
+            "thinkingConfig": {"thinkingBudget": 0},
         },
     }
     headers = {
