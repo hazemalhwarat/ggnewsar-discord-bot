@@ -77,7 +77,7 @@ SOURCE_SUFFIX_RE = re.compile(r"\s*[\-\|\u2013\u2014:]\s*[^\-\|\u2013\u2014:]{1,
 # Qwen (via OpenRouter) — news analysis
 # ------------------------------------------------------------
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-QWEN_MODEL = "openrouter/free"
+QWEN_MODEL = "qwen/qwen3-235b-a22b-2507:free"
 QWEN_TIMEOUT_SECONDS = 20
 QWEN_MAX_RETRIES = 2
 QWEN_MAX_TOKENS = 500
@@ -140,14 +140,19 @@ def analyze_with_qwen(title: str, summary: str, link: str) -> dict | None:
                 continue
             r.raise_for_status()
             data = r.json()
-            content = data["choices"][0]["message"]["content"].strip()
+            content = data.get("choices", [{}])[0].get("message", {}).get("content")
+            if not content or not str(content).strip():
+                log.warning(f"Qwen returned empty/None content (attempt {attempt + 1}/{QWEN_MAX_RETRIES})")
+                time.sleep(1)
+                continue
+            content = content.strip()
             content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.MULTILINE).strip()
             parsed = json.loads(content)
             if all(k in parsed and parsed[k] for k in ("headline", "subheadline", "summary")):
                 return parsed
             log.warning(f"Qwen response missing/empty keys: {content[:200]}")
             return None
-        except (requests.RequestException, ValueError, KeyError, json.JSONDecodeError) as e:
+        except (requests.RequestException, ValueError, KeyError, AttributeError, json.JSONDecodeError) as e:
             log.warning(f"Qwen analysis failed (attempt {attempt + 1}/{QWEN_MAX_RETRIES}): {e}")
             time.sleep(1)
 
