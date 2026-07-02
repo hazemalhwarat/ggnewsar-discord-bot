@@ -4,13 +4,14 @@ GGNewsAR Discord Bot — unified RSS + Liquipedia pipeline.
 مشروع مستقل تماماً عن بوت تيليقرام. نفس المنطق بالضبط (RSS + Liquipedia +
 dedup + state)، لكن الإرسال يروح لروم Discord عبر Webhook بدل تيليقرام.
 
-كل خبر RSS يمر أولاً على Qwen (عبر OpenRouter) اللي يحلله ويطلع عنوان رئيسي
-وعنوان فرعي وملخص قصير بالفصحى البيضاء حسب ستايل GGNewsAR، بدل إرسال
-عنوان/ملخص RSS الخام. لو التحليل فشل، يرجع البوت تلقائياً للنص الأصلي.
+كل خبر RSS يمر أولاً على Gemini (مباشرة عبر Google AI Studio) اللي يحلله
+ويطلع عنوان رئيسي وعنوان فرعي وملخص قصير بالفصحى البيضاء حسب ستايل
+GGNewsAR، بدل إرسال عنوان/ملخص RSS الخام. لو التحليل فشل، يرجع البوت
+تلقائياً للنص الأصلي.
 
 Pipeline (per cycle):
   1. RSS phase: fetch all feeds in feeds.py, filter freshness + dedup,
-     analyze via Qwen, send.
+     analyze via Gemini, send.
   2. Liquipedia phase: poll watchlist pages, filter bot/minor/tiny edits, send.
 
 State is unified in state.json with three collections:
@@ -19,7 +20,7 @@ State is unified in state.json with three collections:
   - liquipedia: per-page seen revids + last seen size
 
 Configuration sources: feeds.py (RSS_FEEDS), watchlist.py (WATCHLIST).
-Secrets: DISCORD_WEBHOOK_URL, OPENROUTER_API_KEY in environment.
+Secrets: DISCORD_WEBHOOK_URL, GEMINI_API_KEY in environment.
 """
 
 import os
@@ -42,7 +43,7 @@ from watchlist import WATCHLIST
 # Configuration
 # ============================================================
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
-OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY", "").strip()
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 
 STATE_FILE = Path("state.json")
 
@@ -74,15 +75,15 @@ DESC_MAX = 600
 SOURCE_SUFFIX_RE = re.compile(r"\s*[\-\|\u2013\u2014:]\s*[^\-\|\u2013\u2014:]{1,40}$")
 
 # ------------------------------------------------------------
-# Qwen (via OpenRouter) — news analysis
+# Gemini (direct via Google AI Studio) — news analysis
 # ------------------------------------------------------------
-OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-QWEN_MODEL = "qwen/qwen3-235b-a22b-2507:free"
-QWEN_TIMEOUT_SECONDS = 20
-QWEN_MAX_RETRIES = 2
-QWEN_MAX_TOKENS = 500
+GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+GEMINI_TIMEOUT_SECONDS = 20
+GEMINI_MAX_RETRIES = 2
+GEMINI_MAX_TOKENS = 500
 
-QWEN_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGNewsAR، تكتب بالعربية الفصحى البيضاء (لغة يومية مثقفة، مو لغة أدبية أو مترجمة حرفياً).
+GEMINI_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGNewsAR، تكتب بالعربية الفصحى البيضاء (لغة يومية مثقفة، مو لغة أدبية أو مترجمة حرفياً).
 
 مهمتك: تحليل خبر إسبورت وإخراج ثلاثة عناصر: عنوان رئيسي، عنوان فرعي، وملخص قصير.
 
@@ -100,12 +101,12 @@ QWEN_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGNew
 {"headline": "...", "subheadline": "...", "summary": "..."}"""
 
 
-def analyze_with_qwen(title: str, summary: str, link: str) -> dict | None:
+def analyze_with_gemini(title: str, summary: str, link: str) -> dict | None:
     """
-    Analyze one news item via Qwen (OpenRouter free tier).
+    Analyze one news item via Gemini (Google AI Studio free tier, direct API).
     Returns {"headline": ..., "subheadline": ..., "summary": ...} or None on failure.
     """
-    if not OPENROUTER_API_KEY:
+    if not GEMINI_API_KEY:
         return None
 
     user_content = (
@@ -115,34 +116,38 @@ def analyze_with_qwen(title: str, summary: str, link: str) -> dict | None:
     )
 
     payload = {
-        "model": QWEN_MODEL,
-        "messages": [
-            {"role": "system", "content": QWEN_SYSTEM_PROMPT},
-            {"role": "user", "content": user_content},
-        ],
-        "temperature": 0.4,
-        "max_tokens": QWEN_MAX_TOKENS,
+        "system_instruction": {"parts": [{"text": GEMINI_SYSTEM_PROMPT}]},
+        "contents": [{"role": "user", "parts": [{"text": user_content}]}],
+        "generationConfig": {
+            "temperature": 0.4,
+            "maxOutputTokens": GEMINI_MAX_TOKENS,
+            "responseMimeType": "application/json",
+        },
     }
     headers = {
-        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "x-goog-api-key": GEMINI_API_KEY,
         "Content-Type": "application/json",
-        "HTTP-Referer": "https://ggnewsar.com",
-        "X-Title": "GGNewsAR Bot",
     }
 
-    for attempt in range(QWEN_MAX_RETRIES):
+    for attempt in range(GEMINI_MAX_RETRIES):
         try:
             r = requests.post(
-                OPENROUTER_URL, json=payload, headers=headers, timeout=QWEN_TIMEOUT_SECONDS
+                GEMINI_URL, json=payload, headers=headers, timeout=GEMINI_TIMEOUT_SECONDS
             )
             if r.status_code == 429:
                 time.sleep(2)
                 continue
             r.raise_for_status()
             data = r.json()
-            content = data.get("choices", [{}])[0].get("message", {}).get("content")
+            candidates = data.get("candidates", [])
+            if not candidates:
+                log.warning(f"Gemini returned no candidates (attempt {attempt + 1}/{GEMINI_MAX_RETRIES}): {data}")
+                time.sleep(1)
+                continue
+            parts = candidates[0].get("content", {}).get("parts", [])
+            content = parts[0].get("text") if parts else None
             if not content or not str(content).strip():
-                log.warning(f"Qwen returned empty/None content (attempt {attempt + 1}/{QWEN_MAX_RETRIES})")
+                log.warning(f"Gemini returned empty/None content (attempt {attempt + 1}/{GEMINI_MAX_RETRIES})")
                 time.sleep(1)
                 continue
             content = content.strip()
@@ -150,10 +155,10 @@ def analyze_with_qwen(title: str, summary: str, link: str) -> dict | None:
             parsed = json.loads(content)
             if all(k in parsed and parsed[k] for k in ("headline", "subheadline", "summary")):
                 return parsed
-            log.warning(f"Qwen response missing/empty keys: {content[:200]}")
+            log.warning(f"Gemini response missing/empty keys: {content[:200]}")
             return None
         except (requests.RequestException, ValueError, KeyError, AttributeError, json.JSONDecodeError) as e:
-            log.warning(f"Qwen analysis failed (attempt {attempt + 1}/{QWEN_MAX_RETRIES}): {e}")
+            log.warning(f"Gemini analysis failed (attempt {attempt + 1}/{GEMINI_MAX_RETRIES}): {e}")
             time.sleep(1)
 
     return None
@@ -393,13 +398,13 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
 
             clean_summary = strip_html(summary)
 
-            analysis = analyze_with_qwen(title, clean_summary, link)
+            analysis = analyze_with_gemini(title, clean_summary, link)
             if analysis:
-                stats["qwen_analyzed"] += 1
+                stats["gemini_analyzed"] += 1
                 send_title = analysis["headline"]
                 send_desc = f"**{analysis['subheadline']}**\n\n{analysis['summary']}"
             else:
-                stats["qwen_fallback"] += 1
+                stats["gemini_fallback"] += 1
                 send_title = title
                 send_desc = clean_summary[:280]
 
@@ -429,7 +434,7 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
 
 
 # ============================================================
-# Liquipedia phase  (unchanged — no Qwen analysis here)
+# Liquipedia phase  (unchanged — no Gemini analysis here)
 # ============================================================
 def fetch_liquipedia_revisions(wiki: str, pages: list, session: requests.Session) -> list:
     """Fetch latest revision for each page on a Liquipedia wiki."""
@@ -604,8 +609,8 @@ def main():
         log.error("Missing DISCORD_WEBHOOK_URL env var")
         return
 
-    if not OPENROUTER_API_KEY:
-        log.warning("Missing OPENROUTER_API_KEY — Qwen analysis disabled, will fall back to raw RSS titles/summaries.")
+    if not GEMINI_API_KEY:
+        log.warning("Missing GEMINI_API_KEY — Gemini analysis disabled, will fall back to raw RSS titles/summaries.")
 
     state = load_state()
 
