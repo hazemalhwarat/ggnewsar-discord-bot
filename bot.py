@@ -77,7 +77,7 @@ SOURCE_SUFFIX_RE = re.compile(r"\s*[\-\|\u2013\u2014:]\s*[^\-\|\u2013\u2014:]{1,
 # Qwen (via OpenRouter) — news analysis
 # ------------------------------------------------------------
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-QWEN_MODEL = "qwen/qwen3-235b-a22b:free"
+QWEN_MODEL = "openrouter/free"
 QWEN_TIMEOUT_SECONDS = 20
 QWEN_MAX_RETRIES = 2
 QWEN_MAX_TOKENS = 500
