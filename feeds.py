@@ -66,8 +66,8 @@ RSS_FEEDS = [
     {"name": "GRID Esports Data Blog", "url": "https://blog.grid.gg/feed", "verified": True},
     {"name": "Traxion.gg Esports", "url": "https://traxion.gg/category/esports/feed", "verified": True},
     {"name": "Esports Inquirer", "url": "https://esports.inquirer.net/feed", "verified": True},
-        {"name": "RealSport101", "url": "https://realsport101.com/feed.xml", "verified": True},
-            
+    {"name": "RealSport101", "url": "https://realsport101.com/feed.xml", "verified": True},
+
     # ============================================================
     # Failed in run #49 — kept in the list, retried every run.
     # Will start working automatically if the URL becomes valid again.
@@ -81,7 +81,7 @@ RSS_FEEDS = [
     {"name": "Fragster", "url": "https://fragster.com/feed", "verified": False},
     {"name": "Hotspawn", "url": "https://www.hotspawn.com/feed", "verified": False},
     {"name": "G2G News Esports", "url": "https://g2g.news/feed", "verified": False},
-        {"name": "ONE Esports", "url": "https://www.oneesports.gg/feed", "verified": False},
+    {"name": "ONE Esports", "url": "https://www.oneesports.gg/feed", "verified": False},
     {"name": "Way to Smurf", "url": "https://www.waytosmurf.com/feed", "verified": False},
     {"name": "UKCSGO", "url": "https://ukcsgo.com/feed", "verified": False},
     {"name": "CSGO2ASIA", "url": "https://csgo2asia.com/feed", "verified": False},
@@ -110,12 +110,12 @@ RSS_FEEDS = [
     {"name": "Dot Esports PUBG", "url": "https://dotesports.com/pubg/feed", "verified": False},
     {"name": "Esports Talk PUBG Mobile", "url": "https://esportstalk.com/news/pubg-mobile/feed", "verified": False},
     {"name": "DBLTap PUBG", "url": "https://www.dbltap.com/leagues/pubg/feed", "verified": False},
-        {"name": "Esports.net Mobile Games", "url": "https://www.esports.net/news/mobile-games/feed", "verified": False},
+    {"name": "Esports.net Mobile Games", "url": "https://www.esports.net/news/mobile-games/feed", "verified": False},
     {"name": "RLRSS", "url": "https://rlrss.qrivi.dev/feed", "verified": False},
     {"name": "EventHubs", "url": "https://www.eventhubs.com/feed/", "verified": False},
     {"name": "AFK Gaming Alt", "url": "https://afkgaming.com/feed", "verified": False},
     {"name": "InsideSport Esports", "url": "https://insidesport.in/topic/esports/feed", "verified": False},
-        {"name": "Esports Insider (alt path)", "url": "https://esportsinsider.com/news/feed", "verified": False},
+    {"name": "Esports Insider (alt path)", "url": "https://esportsinsider.com/news/feed", "verified": False},
     {"name": "The Esports Observer Archive", "url": "https://esportsobserver.com/feed", "verified": False},
     {"name": "Esports.net Rainbow Six", "url": "https://www.esports.net/news/rainbow-six/feed", "verified": False},
     {"name": "Strafe Valorant", "url": "https://www.strafe.com/news/valorant/feed", "verified": False},
@@ -188,8 +188,76 @@ RSS_FEEDS = [
     {"name": "ALGS - Apex Legends (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:algs.com&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Call of Duty League (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:callofdutyleague.com&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Esports Business & Sponsorships (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(sponsorship+OR+partnership+OR+investment+OR+acquisition+OR+revenue)&hl=en&gl=US&ceid=US:en", "verified": False},
-]
 
+    # ============================================================
+    # Added 2026-07-04 — X (Twitter) accounts via RSSHub public
+    # instance (rsshub.app), no API key/paid tier needed.
+    #
+    # ⚠️ IMPORTANT HONESTY NOTE (applies to this entire section):
+    # X has aggressively restricted unauthenticated scraping recently,
+    # so these routes are NOT reliably working right now even on
+    # RSSHub's official public instance — some days they'll return
+    # real tweets, other days they'll silently fail. Same handling as
+    # every other "verified: False" source in this file: retried
+    # automatically every cycle, zero cost to keep, will start working
+    # the moment RSSHub's instance (or X's blocking) changes.
+    #
+    # CONFIDENCE LEVELS (Hazem asked for "every esports account" —
+    # that's not realistically verifiable one by one, so being
+    # transparent about how sure I am of each handle):
+    #   [checked]  = confirmed via live web search just now, 2026-07-04
+    #   [likely]   = well-established public account, not individually
+    #                re-verified today — small chance handle changed
+    #   [unsure]   = lower confidence, worth you double-checking
+    # A wrong/dead handle here is harmless (same as a dead RSS URL
+    # above) — it just fails quietly and gets retried forever.
+    # ============================================================
+
+    # --- Arab teams you cover (all [checked] 2026-07-04) ---
+    {"name": "X: Team Falcons (@FalconsEsport)", "url": "https://rsshub.app/twitter/user/FalconsEsport", "verified": False},
+    {"name": "X: Twisted Minds (@TwisMinds)", "url": "https://rsshub.app/twitter/user/TwisMinds", "verified": False},
+    {"name": "X: Nigma Galaxy (@NigmaGalaxy)", "url": "https://rsshub.app/twitter/user/NigmaGalaxy", "verified": False},
+    {"name": "X: Geekay Esports (@geekay_esports)", "url": "https://rsshub.app/twitter/user/geekay_esports", "verified": False},
+    {"name": "X: FATE Esports (@EsportsFate)", "url": "https://rsshub.app/twitter/user/EsportsFate", "verified": False},
+
+    # --- Tournament organizers & official league/event accounts ---
+    {"name": "X: Esports World Cup (@EWC_EN) [checked]", "url": "https://rsshub.app/twitter/user/EWC_EN", "verified": False},
+    {"name": "X: ESL (@ESL) [likely]", "url": "https://rsshub.app/twitter/user/ESL", "verified": False},
+    {"name": "X: ESL CS (@ESLCS) [likely]", "url": "https://rsshub.app/twitter/user/ESLCS", "verified": False},
+    {"name": "X: BLAST (@BLASTPremier) [likely]", "url": "https://rsshub.app/twitter/user/BLASTPremier", "verified": False},
+    {"name": "X: PGL (@pglesports) [likely]", "url": "https://rsshub.app/twitter/user/pglesports", "verified": False},
+    {"name": "X: IEM (@IEM) [likely]", "url": "https://rsshub.app/twitter/user/IEM", "verified": False},
+
+    # --- Official per-game esports accounts (publisher-run) ---
+    {"name": "X: Counter-Strike (@CounterStrike) [likely]", "url": "https://rsshub.app/twitter/user/CounterStrike", "verified": False},
+    {"name": "X: VALORANT Esports (@ValorantEsports) [likely]", "url": "https://rsshub.app/twitter/user/ValorantEsports", "verified": False},
+    {"name": "X: LoL Esports (@LoLEsports) [likely]", "url": "https://rsshub.app/twitter/user/LoLEsports", "verified": False},
+    {"name": "X: DOTA2 (@DOTA2) [likely]", "url": "https://rsshub.app/twitter/user/DOTA2", "verified": False},
+    {"name": "X: Rainbow Six Esports (@Rainbow6Esports) [unsure]", "url": "https://rsshub.app/twitter/user/Rainbow6Esports", "verified": False},
+    {"name": "X: Rocket League Esports (@RLEsports) [unsure]", "url": "https://rsshub.app/twitter/user/RLEsports", "verified": False},
+    {"name": "X: PUBG Esports (@PUBGEsports) [unsure]", "url": "https://rsshub.app/twitter/user/PUBGEsports", "verified": False},
+    {"name": "X: Mobile Legends Bang Bang (@MobileLegends) [unsure]", "url": "https://rsshub.app/twitter/user/MobileLegends", "verified": False},
+    {"name": "X: EA Sports FC (@EASPORTSFC) [unsure]", "url": "https://rsshub.app/twitter/user/EASPORTSFC", "verified": False},
+
+    # --- Well-known cross-game journalists / insiders (breaking news
+    #     often lands here before any official RSS picks it up) ---
+    {"name": "X: Rod Breslau (@Slasher) [likely]", "url": "https://rsshub.app/twitter/user/Slasher", "verified": False},
+    {"name": "X: Richard Lewis (@RLewisReports) [likely]", "url": "https://rsshub.app/twitter/user/RLewisReports", "verified": False},
+    {"name": "X: Travis Gafford (@TravisGafford) [likely]", "url": "https://rsshub.app/twitter/user/TravisGafford", "verified": False},
+
+    # ============================================================
+    # NOT INCLUDED, needs your input: I deliberately did NOT guess
+    # handles for (a) every top international team per game — your
+    # watchlist.py already tracks those directly via Liquipedia,
+    # which is more reliable than X scraping anyway; (b) niche/
+    # per-game specialist journalists (Valorant, Dota2, mobile
+    # titles...) — too many to verify responsibly in one pass;
+    # (c) individual player accounts — Liquipedia watchlist already
+    # covers roster/transfer news for your priority players.
+    # Send me your actual priority list for any of these three and
+    # I'll add them here in the same format, verified where I can.
+    # ============================================================
+]
 
 
 if __name__ == "__main__":
