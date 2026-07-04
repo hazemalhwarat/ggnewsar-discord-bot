@@ -2939,7 +2939,9 @@
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yMzlPeFN2M21oWi1hbEV6cmQxQ2QyQmh3VkFrbnJGRDh2MjRfRm5DNlpMQkJ2OWtCODJMQWh1R1VHTnZ4RGtWMjNqN3B0RzNNTS1vNkJ1WnJvTEYySU92aFRvS2V4WHhN?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiaTk4TGVtdkdrcFNhcEJxSUJQZE11TXczZ0VOd0ljZ0VfbTJCODFrN25PMTRGRld4N1VzdmxuTUdxVWRua0lJMnozQ2UtdWRNQnNlR3NseU5GRDJyNkFRVnVObVJMRmly?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0d0J3THlsLTJXN29ZZTV5emRSSkI2QmFoNnNOQk50dEVHX0t4dVNHSGc5dHNLdUZFUXBMQWd5SnVCcTV1Y1ZGMWxXUXJlSGtUcVVWY25OMWs0SGpMUEVCX3FUdFZKbVpV?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53M0JFcWtKa0pHSUlFTzM4WFhvT0YwZ3JpRnN1XzVXelU2LTFFWm53Vl9SVVF1Unl4c2lhNC1nS1dJUEUydzZUdm9OSS1wbXVKYU1JWXNXYXYtR0hnQlVVVE5BOWtCZjhf?oc=5"
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53M0JFcWtKa0pHSUlFTzM4WFhvT0YwZ3JpRnN1XzVXelU2LTFFWm53Vl9SVVF1Unl4c2lhNC1nS1dJUEUydzZUdm9OSS1wbXVKYU1JWXNXYXYtR0hnQlVVVE5BOWtCZjhf?oc=5",
+    "https://www.hotspawn.com/counter-strike/news/iem-cologne-2026-broke-every-record/",
+    "https://www.hotspawn.com/apex-legends/news/jan-neumeister-on-brand-partnerships-that-work/"
   ],
   "title_hashes": [
     "b56ce8453a4825a6b4c02a0e604147ad",
@@ -5863,7 +5865,9 @@
     "b9cc639f406399e9ed4e481d210719ba",
     "78afc791903aeec034ead52663cd5a8d",
     "c88dea514700064728eafe7910fda53c",
-    "110596692cfa2456395346f6db40cf16"
+    "110596692cfa2456395346f6db40cf16",
+    "51e6bac75a4d89bee5bbdc30d6f22967",
+    "a7e61462e3cbf325f11a382e74c0fcab"
   ],
   "liquipedia": {
     "counterstrike:Astralis": {
@@ -6048,9 +6052,10 @@
         "1304053",
         "1304116",
         "1304454",
-        "1304945"
+        "1304945",
+        "1305006"
       ],
-      "size": 20213
+      "size": 20215
     },
     "valorant:Fnatic": {
       "revids": [
