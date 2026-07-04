@@ -1,5 +1,5 @@
 """
-GGNewsAR Discord Bot — unified RSS + Liquipedia pipeline.
+GGNewsAR Discord Bot — unified RSS + Liquipedia pipeline (continuous-loop edition).
 
 مشروع مستقل تماماً عن بوت تيليقرام. نفس المنطق بالضبط (RSS + Liquipedia +
 dedup + state)، لكن الإرسال يروح لروم Discord عبر Webhook بدل تيليقرام.
@@ -9,10 +9,28 @@ dedup + state)، لكن الإرسال يروح لروم Discord عبر Webhook 
 GGNewsAR، بدل إرسال عنوان/ملخص RSS الخام. لو التحليل فشل، يرجع البوت
 تلقائياً للنص الأصلي.
 
-Pipeline (per cycle):
-  1. RSS phase: fetch all feeds in feeds.py, filter freshness + dedup,
-     analyze via Gemini, send.
-  2. Liquipedia phase: poll watchlist pages, filter bot/minor/tiny edits, send.
+=== ARCHITECTURE CHANGE (2026-07-04) ===
+البوت القديم كان يفحص مرة وحدة كل استدعاء وينتهي (GitHub Actions cron كل
+4 ساعات). هذا الإصدار يشغّل حلقة داخلية مستمرة تفحص كل ~75 ثانية لمدة
+تقارب 5 ساعات و45 دقيقة، والـ cron بالـ workflow يعيد تشغيل الجوب كل 6
+ساعات فيعيد الحلقة من جديد. النتيجة: فحص شبه فوري على مدار الساعة، بدون
+أي سيرفر خارجي، ضمن حدود GitHub Actions المجانية (job واحد أقصاه 6 ساعات).
+
+تغييرات رئيسية:
+  1. جلب كل مصادر RSS بالتوازي (ThreadPoolExecutor) بدل التسلسلي — لأن
+     140 مصدر لو فُحصوا واحد ورا الثاني، مصدر واحد بطيء/معطّل بمهلة 10
+     ثوان يقدر يأخر الدورة كلها. بالتوازي، الدورة كلها تخلص خلال ثواني.
+  2. Liquipedia يفحص كل 5 دورات فقط (~6-7 دقايق) بدل كل دورة — احتراماً
+     لحدود استخدام الـ API عندهم وتجنباً لأي حظر، بينما RSS (مصدر الأخبار
+     العاجلة الحقيقي) يفحص كل دورة (~75 ثانية).
+  3. commit لـ state.json يصير كل 4 دورات (~5 دقايق) بدل كل دورة، لتجنب
+     إغراق المستودع بمئات الـ commits الصغيرة على مدار 6 ساعات.
+
+Pipeline (per cycle, every ~75 seconds):
+  1. RSS phase: fetch all feeds in feeds.py IN PARALLEL, filter freshness +
+     dedup, analyze via Gemini, send.
+  2. Liquipedia phase (every 5th cycle only): poll watchlist pages, filter
+     bot/minor/tiny edits, send.
 
 State is unified in state.json with three collections:
   - urls: seen RSS URLs (ring of last 8000)
@@ -29,6 +47,8 @@ import json
 import time
 import hashlib
 import logging
+import subprocess
+import concurrent.futures
 from collections import defaultdict
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -47,7 +67,8 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 
 STATE_FILE = Path("state.json")
 
-# Cap to prevent flooding if many fresh items appear at once
+# Cap to prevent flooding if many fresh items appear at once (per cycle now,
+# not per whole run, since a "run" is now a ~5h45m loop of many cycles)
 MAX_MESSAGES_PER_RUN = 50
 
 # Discord webhook rate limit safety margin
@@ -60,6 +81,18 @@ MAX_AGE_HOURS = 24
 SEEN_URLS_RING = 8000
 SEEN_TITLES_RING = 8000
 SEEN_REVS_PER_PAGE = 20
+
+# ------------------------------------------------------------
+# Continuous-loop settings
+# ------------------------------------------------------------
+LOOP_DURATION_MINUTES = 345          # ~5h45m of active work per job invocation
+CYCLE_SLEEP_SECONDS = 75             # target time between cycle starts
+LIQUIPEDIA_EVERY_N_CYCLES = 5        # Liquipedia phase runs on cycle 1, 6, 11, ...
+COMMIT_EVERY_N_CYCLES = 4            # git commit+push every ~5 minutes
+
+# RSS parallel fetch settings
+RSS_FETCH_WORKERS = 40
+RSS_FETCH_TIMEOUT_SECONDS = 10       # kept short since fetch is now parallel
 
 # Liquipedia API
 LIQUIPEDIA_USER_AGENT = "GGNewsAR Bot/2.0 (https://ggnewsar.com; hazem@ggnewsar.com)"
@@ -202,6 +235,34 @@ def save_state(state: dict) -> None:
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 
+def git_commit_push(reason: str = "") -> None:
+    """Commit + push state.json if it changed. Safe to call often — no-ops
+    cleanly if there's nothing staged. Never raises: a failed push here
+    should not crash the loop, just gets retried on the next call."""
+    try:
+        subprocess.run(["git", "config", "user.name", "github-actions[bot]"],
+                        check=True, capture_output=True)
+        subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"],
+                        check=True, capture_output=True)
+        subprocess.run(["git", "add", "state.json"], check=True, capture_output=True)
+
+        diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
+        if diff.returncode == 0:
+            return  # nothing changed, nothing to commit
+
+        msg = "chore: update state.json [skip ci]"
+        if reason:
+            msg += f" ({reason})"
+        subprocess.run(["git", "commit", "-m", msg], check=True, capture_output=True)
+        subprocess.run(["git", "pull", "--rebase", "origin", "main"], capture_output=True)
+
+        r = subprocess.run(["git", "push"], capture_output=True, text=True)
+        if r.returncode != 0:
+            log.warning(f"git push failed, will retry next commit cycle: {r.stderr[:300]}")
+    except subprocess.CalledProcessError as e:
+        log.warning(f"git commit/push step failed, will retry next commit cycle: {e}")
+
+
 # ============================================================
 # Discord
 # ============================================================
@@ -320,8 +381,34 @@ def extract_image(entry) -> str:
     return ""
 
 
+def fetch_one_feed(feed_info: dict):
+    """Fetch + parse a single feed. Never raises — returns (name, entries_or_None, error_or_None).
+    Designed to be called from a thread pool so 140 sources can be fetched
+    concurrently instead of one-by-one (which is what made every-few-minutes
+    checking impractical with a slow/dead source mixed in)."""
+    name = feed_info["name"]
+    url = feed_info["url"]
+    try:
+        resp = requests.get(
+            url,
+            timeout=RSS_FETCH_TIMEOUT_SECONDS,
+            headers={"User-Agent": "Mozilla/5.0 (compatible; GGNewsARBot/1.0)"},
+        )
+        resp.raise_for_status()
+        d = feedparser.parse(resp.content)
+        if d.bozo and not d.entries:
+            raise RuntimeError(f"bozo={d.bozo_exception or d.bozo}")
+        if not d.entries:
+            raise RuntimeError("no entries")
+        return name, d.entries, None
+    except Exception as e:
+        return name, None, str(e)
+
+
 def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
-    """Run RSS collection. Returns number of messages sent."""
+    """Run RSS collection. Fetches all sources in parallel, then processes
+    (dedup + Gemini + send) sequentially so Discord rate limiting and the
+    per-cycle send budget stay predictable. Returns number of messages sent."""
     seen_urls = set(state["urls"])
     seen_titles = set(state["title_hashes"])
 
@@ -329,31 +416,22 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
     failed = []
     sent = 0
 
-    log.info(f"RSS phase: {len(RSS_FEEDS)} sources, freshness={MAX_AGE_HOURS}h")
+    log.info(f"RSS phase: {len(RSS_FEEDS)} sources, {RSS_FETCH_WORKERS} parallel workers, freshness={MAX_AGE_HOURS}h")
 
-    for feed_info in RSS_FEEDS:
-        name = feed_info["name"]
-        url = feed_info["url"]
+    fetch_results = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=RSS_FETCH_WORKERS) as executor:
+        futures = {executor.submit(fetch_one_feed, fi): fi for fi in RSS_FEEDS}
+        for future in concurrent.futures.as_completed(futures):
+            fetch_results.append(future.result())
 
-        try:
-            resp = requests.get(
-                url,
-                timeout=15,
-                headers={"User-Agent": "Mozilla/5.0 (compatible; GGNewsARBot/1.0)"},
-            )
-            resp.raise_for_status()
-            d = feedparser.parse(resp.content)
-            if d.bozo and not d.entries:
-                raise RuntimeError(f"bozo={d.bozo_exception or d.bozo}")
-            if not d.entries:
-                raise RuntimeError("no entries")
-            stats["sources_ok"] += 1
-        except Exception as e:
+    for name, entries, error in fetch_results:
+        if error:
             stats["sources_failed"] += 1
-            failed.append(f"{name}: {e}")
+            failed.append(f"{name}: {error}")
             continue
+        stats["sources_ok"] += 1
 
-        for entry in d.entries:
+        for entry in entries:
             stats["entries_total"] += 1
 
             link = (entry.get("link") or "").strip()
@@ -603,7 +681,7 @@ def liquipedia_phase(state: dict, first_run: bool, sent_budget: int) -> int:
 
 
 # ============================================================
-# Main
+# Main — continuous loop
 # ============================================================
 def main():
     if not DISCORD_WEBHOOK_URL:
@@ -613,24 +691,53 @@ def main():
     if not GEMINI_API_KEY:
         log.warning("Missing GEMINI_API_KEY — Gemini analysis disabled, will fall back to raw RSS titles/summaries.")
 
-    state = load_state()
-
+    initial_state = load_state()
     first_run = (
-        len(state["urls"]) == 0
-        and len(state["title_hashes"]) == 0
-        and len(state["liquipedia"]) == 0
+        len(initial_state["urls"]) == 0
+        and len(initial_state["title_hashes"]) == 0
+        and len(initial_state["liquipedia"]) == 0
     )
-
     if first_run:
-        log.info("FIRST RUN: indexing baseline, no messages will be sent.")
+        log.info("FIRST RUN: indexing baseline, no messages will be sent (this cycle only).")
 
-    rss_sent = rss_phase(state, first_run, MAX_MESSAGES_PER_RUN)
-    remaining = MAX_MESSAGES_PER_RUN - rss_sent
-    lp_sent = liquipedia_phase(state, first_run, remaining)
+    loop_deadline = time.monotonic() + LOOP_DURATION_MINUTES * 60
+    cycle = 0
 
-    save_state(state)
+    while True:
+        cycle += 1
+        cycle_start = time.monotonic()
+        log.info(f"=== Cycle {cycle} start ===")
 
-    log.info(f"=== Done. RSS sent: {rss_sent}, Liquipedia sent: {lp_sent} ===")
+        state = load_state()
+
+        rss_sent = rss_phase(state, first_run, MAX_MESSAGES_PER_RUN)
+        remaining = MAX_MESSAGES_PER_RUN - rss_sent
+
+        lp_sent = 0
+        if cycle % LIQUIPEDIA_EVERY_N_CYCLES == 1:
+            lp_sent = liquipedia_phase(state, first_run, remaining)
+        else:
+            log.info(f"Liquipedia phase skipped this cycle (runs every {LIQUIPEDIA_EVERY_N_CYCLES} cycles)")
+
+        save_state(state)
+
+        if cycle % COMMIT_EVERY_N_CYCLES == 0:
+            git_commit_push(f"cycle {cycle}")
+
+        if first_run:
+            first_run = False  # baseline indexing only ever happens once
+
+        log.info(f"=== Cycle {cycle} done. RSS sent: {rss_sent}, Liquipedia sent: {lp_sent} ===")
+
+        if time.monotonic() >= loop_deadline:
+            log.info("Loop budget exhausted — exiting cleanly, next scheduled run picks up from here.")
+            break
+
+        elapsed_cycle = time.monotonic() - cycle_start
+        sleep_for = max(5.0, CYCLE_SLEEP_SECONDS - elapsed_cycle)
+        time.sleep(sleep_for)
+
+    git_commit_push("final commit before loop exit")
 
 
 if __name__ == "__main__":
