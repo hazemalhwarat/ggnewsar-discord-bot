@@ -2924,7 +2924,11 @@
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwQnNWTmxhbWY3a3NUWGtyZEJrY3Z1S2lKNHYySjRHZGlVY0piN1ZWcFc2cWtaUVJQR2sxbTk5VWc3V1FmbG5xa09LanpJalQ4TmRLMmJSRUtnbzlDNGc?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CUHBXRWYxbU9tTUhPVjFuSkpTMUFKYkR5T0dXamtzQTFLOWxyTmZGdUQyTndaWnA0ekdya1lvWmZDajZwOTBmY0pveFpqMi1PaXRYcHhGcXRIMzQ?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdEtBdXRlMXU4amFGOHJlaVU3dnZoblBodE9rQVU1cGVUaFppb1ZhbDEzSWJKZE9JcEQ3MXcydm9zc09wcjJGZVJEX3Nqenh3LUVyUmY1MnFlSURSTnlEWml1eTZqUkRjaG01QUhFWjB2NzhVakJVRVVieGw3clZGQmNOellJaFBCb3VR?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWQThBN2NCZzlfeUtOVzRYUUFhZ3pQcm5RbnA1OWFJNDFPWHVZbzdCckJ3VnA1UUd2bkJyemxsMEtqMGNCbllZSHNzTjFUdWNBSlRKekNIeGN0UWp2dHdxT1JYVjNfNnc4?oc=5"
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWQThBN2NCZzlfeUtOVzRYUUFhZ3pQcm5RbnA1OWFJNDFPWHVZbzdCckJ3VnA1UUd2bkJyemxsMEtqMGNCbllZSHNzTjFUdWNBSlRKekNIeGN0UWp2dHdxT1JYVjNfNnc4?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MYTZSa2RtOWw3aU1SMlVyRS1aNDcyVzJEU1gtbnlLcC1kRGhaZFVHU0ZPNUJybmVRQ3JPcTh2Qy04V2ZsaXAzWHNmamRKRVIxeXBmelBvUDJ0OU1nWENlaXpHOVJOdHpjZUE?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fNW52LVB0bjloaGJSQ0lSYTdMMDZ5S2dHTXA0R2hSSUl1T3BkNjQwa0ppR2dzNy02OXJRSVMxMTh4d3NSaS1lNjEyZU9YS3NpNnpReVlrUzBObEFrNTRUVGpzeXNVYTQyX2k4elF5QWFvVVBFa1JJZjdB?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoaE5McDJJSjgtUkZ2SFZCQ3ptbDcwTnJpNVB0R0wwbUdGVGhTbEp3Y3BiZDJ5TlhhaGNSUE82SF85aks0UFVyV0RDS3NCTHptTjBSRlBQR2dxNWdmWl9ELVByblk2dmJLS3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fT0s4R1dUZkJvWEpxV1FFX1NzN0VlcVJlWngyTUlFM2ZibmZNbFRucjB5TEdxSWFXRm9IbWRvNEZ6bVV1emNfYTNDTGdXRXcyM09hZGh0Z2NmQ1o0MkNydkRB?oc=5"
   ],
   "title_hashes": [
     "b56ce8453a4825a6b4c02a0e604147ad",
@@ -5833,7 +5837,11 @@
     "4fc86ebde11b441949c5eb8a9bb45ade",
     "850d1d695ede7a8ff8904a779f7082ca",
     "4615fb18a55f300e1e7f3e48ef85f3de",
-    "1e01b0c26168fdb965c28fe7bc51870c"
+    "1e01b0c26168fdb965c28fe7bc51870c",
+    "17b79ff14e8b24422d2b04be83541a6f",
+    "893df9f995c0c2636b23c5dd853d9593",
+    "df72cf0895f8b331373dbf81eaf6a179",
+    "3b7e52ddc3fda48f46c4e8eba3292242"
   ],
   "liquipedia": {
     "counterstrike:Astralis": {
@@ -6429,7 +6437,8 @@
         "377923",
         "377956",
         "377981",
-        "378011"
+        "378011",
+        "378417"
       ],
       "size": 26157
     },
