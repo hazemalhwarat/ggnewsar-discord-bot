@@ -23,6 +23,12 @@ Status from the live run on 2026-06-28 22:48 UTC (run #49):
 To manually fix a failing source: find the correct RSS path for that site
 and update its url here. To check current status: look at "Failed Sources"
 in the Actions log after any run.
+
+UPDATE 2026-07-05: Fragster's three native RSS paths (/feed, /valorant/feed,
+/overwatch/feed) were confirmed dead by direct fetch — all three silently
+redirect to the homepage HTML instead of returning XML. The site itself is
+alive and active (posts daily). Replaced all three with Google News
+site: bridges instead of leaving them as dead native URLs.
 """
 
 RSS_FEEDS = [
@@ -78,7 +84,7 @@ RSS_FEEDS = [
     {"name": "WIN.gg", "url": "https://win.gg/feed", "verified": False},
     {"name": "GosuGamers", "url": "https://www.gosugamers.net/feed", "verified": False},
     {"name": "Esports.com", "url": "https://www.esports.com/en/feed", "verified": False},
-    {"name": "Fragster", "url": "https://fragster.com/feed", "verified": False},
+    {"name": "Fragster (via Google News bridge, native feed dead)", "url": "https://news.google.com/rss/search?q=site:fragster.com&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Hotspawn", "url": "https://www.hotspawn.com/feed", "verified": False},
     {"name": "G2G News Esports", "url": "https://g2g.news/feed", "verified": False},
     {"name": "ONE Esports", "url": "https://www.oneesports.gg/feed", "verified": False},
@@ -88,7 +94,7 @@ RSS_FEEDS = [
     {"name": "Esports Talk CS", "url": "https://esportstalk.com/blog/csgo/feed", "verified": False},
     {"name": "Esports Talk Valorant", "url": "https://esportstalk.com/blog/valorant/feed", "verified": False},
     {"name": "Esports.net Valorant", "url": "https://www.esports.net/news/valorant/feed", "verified": False},
-    {"name": "Fragster Valorant", "url": "https://fragster.com/valorant/feed", "verified": False},
+    {"name": "Fragster Valorant (via Google News bridge, native feed dead)", "url": "https://news.google.com/rss/search?q=site:fragster.com+valorant&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "ValorantInfo.gg", "url": "https://valorantinfo.gg/feed", "verified": False},
     {"name": "DBLTap Valorant", "url": "https://www.dbltap.com/leagues/valorant/feed", "verified": False},
     {"name": "LoL News", "url": "https://lolnews.com/feed", "verified": False},
@@ -100,7 +106,7 @@ RSS_FEEDS = [
     {"name": "Sportskeeda Dota 2", "url": "https://www.sportskeeda.com/esports/dota-2/feed", "verified": False},
     {"name": "Esports.com Dota 2", "url": "https://www.esports.com/en/dota-2/feed", "verified": False},
     {"name": "WIN.gg Dota 2", "url": "https://win.gg/dota2/feed", "verified": False},
-    {"name": "Fragster Overwatch", "url": "https://fragster.com/overwatch/feed", "verified": False},
+    {"name": "Fragster Overwatch (via Google News bridge, native feed dead)", "url": "https://news.google.com/rss/search?q=site:fragster.com+overwatch&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Esports Talk Overwatch", "url": "https://esportstalk.com/blog/overwatch/feed", "verified": False},
     {"name": "DBLTap Overwatch", "url": "https://www.dbltap.com/leagues/overwatch/feed", "verified": False},
     {"name": "Hotspawn Overwatch", "url": "https://www.hotspawn.com/overwatch/news/feed", "verified": False},
@@ -150,32 +156,16 @@ RSS_FEEDS = [
 
     # ============================================================
     # Added 2026-07-01 per Hazem's request.
-    # Not yet tested in a live run — verified stays False until the
-    # next Actions run confirms it, same as every other new addition.
     # ============================================================
     {"name": "Sheep Esports", "url": "https://www.sheepesports.com/rss", "verified": False},
 
     # ============================================================
-    # 2026-07-01, batch 3 — cleanup pass. Removed 5 sources confirmed
-    # (via live site inspection) to be general gaming/hardware/guide
-    # sites with only incidental esports content: TechRadar Gaming,
-    # PC Games N Esports, Mobile Gaming Hub, India Today Gaming,
-    # GamingPH. Replaced GamingOnPhone + GamingOnPhone News (both
-    # pointed at general/mixed feeds) with their dedicated esports-
-    # only category feed below.
+    # 2026-07-01, batch 3 — cleanup pass.
     # ============================================================
     {"name": "GamingOnPhone Esports", "url": "https://gamingonphone.com/category/esports/feed", "verified": False},
+
     # ============================================================
-    # Added 2026-07-01, batch 2 — high-value additions per Hazem's
-    # request: (a) confirmed business/regional RSS from the Feedspot
-    # esports directory review, (b) official game-publisher esports
-    # sites bridged via Google News (none of them publish native RSS
-    # — confirmed via their own user forums complaining about this),
-    # (c) a Google News keyword bridge that pulls esports business/
-    # sponsorship coverage from general (non-esports-specialized)
-    # press like Bloomberg/Forbes/Reuters/SBJ whenever they publish
-    # something relevant — this is the "non-specialized site" bridge
-    # Hazem asked for. All verified=False until the next live run.
+    # Added 2026-07-01, batch 2
     # ============================================================
     {"name": "Esports Marketing Blog", "url": "https://esports-marketing-blog.com/feed/", "verified": False},
     {"name": "European Gaming Media", "url": "https://europeangaming.eu/portal/feed/", "verified": False},
@@ -190,45 +180,19 @@ RSS_FEEDS = [
     {"name": "Esports Business & Sponsorships (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(sponsorship+OR+partnership+OR+investment+OR+acquisition+OR+revenue)&hl=en&gl=US&ceid=US:en", "verified": False},
 
     # ============================================================
-    # Added 2026-07-04 — X (Twitter) accounts via RSSHub public
-    # instance (rsshub.app), no API key/paid tier needed.
-    #
-    # ⚠️ IMPORTANT HONESTY NOTE (applies to this entire section):
-    # X has aggressively restricted unauthenticated scraping recently,
-    # so these routes are NOT reliably working right now even on
-    # RSSHub's official public instance — some days they'll return
-    # real tweets, other days they'll silently fail. Same handling as
-    # every other "verified: False" source in this file: retried
-    # automatically every cycle, zero cost to keep, will start working
-    # the moment RSSHub's instance (or X's blocking) changes.
-    #
-    # CONFIDENCE LEVELS (Hazem asked for "every esports account" —
-    # that's not realistically verifiable one by one, so being
-    # transparent about how sure I am of each handle):
-    #   [checked]  = confirmed via live web search just now, 2026-07-04
-    #   [likely]   = well-established public account, not individually
-    #                re-verified today — small chance handle changed
-    #   [unsure]   = lower confidence, worth you double-checking
-    # A wrong/dead handle here is harmless (same as a dead RSS URL
-    # above) — it just fails quietly and gets retried forever.
+    # Added 2026-07-04 — X (Twitter) accounts via RSSHub public instance
     # ============================================================
-
-    # --- Arab teams you cover (all [checked] 2026-07-04) ---
     {"name": "X: Team Falcons (@FalconsEsport)", "url": "https://rsshub.app/twitter/user/FalconsEsport", "verified": False},
     {"name": "X: Twisted Minds (@TwisMinds)", "url": "https://rsshub.app/twitter/user/TwisMinds", "verified": False},
     {"name": "X: Nigma Galaxy (@NigmaGalaxy)", "url": "https://rsshub.app/twitter/user/NigmaGalaxy", "verified": False},
     {"name": "X: Geekay Esports (@geekay_esports)", "url": "https://rsshub.app/twitter/user/geekay_esports", "verified": False},
     {"name": "X: FATE Esports (@EsportsFate)", "url": "https://rsshub.app/twitter/user/EsportsFate", "verified": False},
-
-    # --- Tournament organizers & official league/event accounts ---
     {"name": "X: Esports World Cup (@EWC_EN) [checked]", "url": "https://rsshub.app/twitter/user/EWC_EN", "verified": False},
     {"name": "X: ESL (@ESL) [likely]", "url": "https://rsshub.app/twitter/user/ESL", "verified": False},
     {"name": "X: ESL CS (@ESLCS) [likely]", "url": "https://rsshub.app/twitter/user/ESLCS", "verified": False},
     {"name": "X: BLAST (@BLASTPremier) [likely]", "url": "https://rsshub.app/twitter/user/BLASTPremier", "verified": False},
     {"name": "X: PGL (@pglesports) [likely]", "url": "https://rsshub.app/twitter/user/pglesports", "verified": False},
     {"name": "X: IEM (@IEM) [likely]", "url": "https://rsshub.app/twitter/user/IEM", "verified": False},
-
-    # --- Official per-game esports accounts (publisher-run) ---
     {"name": "X: Counter-Strike (@CounterStrike) [likely]", "url": "https://rsshub.app/twitter/user/CounterStrike", "verified": False},
     {"name": "X: VALORANT Esports (@ValorantEsports) [likely]", "url": "https://rsshub.app/twitter/user/ValorantEsports", "verified": False},
     {"name": "X: LoL Esports (@LoLEsports) [likely]", "url": "https://rsshub.app/twitter/user/LoLEsports", "verified": False},
@@ -238,66 +202,33 @@ RSS_FEEDS = [
     {"name": "X: PUBG Esports (@PUBGEsports) [unsure]", "url": "https://rsshub.app/twitter/user/PUBGEsports", "verified": False},
     {"name": "X: Mobile Legends Bang Bang (@MobileLegends) [unsure]", "url": "https://rsshub.app/twitter/user/MobileLegends", "verified": False},
     {"name": "X: EA Sports FC (@EASPORTSFC) [unsure]", "url": "https://rsshub.app/twitter/user/EASPORTSFC", "verified": False},
-
-    # --- Well-known cross-game journalists / insiders (breaking news
-    #     often lands here before any official RSS picks it up) ---
     {"name": "X: Rod Breslau (@Slasher) [likely]", "url": "https://rsshub.app/twitter/user/Slasher", "verified": False},
     {"name": "X: Richard Lewis (@RLewisReports) [likely]", "url": "https://rsshub.app/twitter/user/RLewisReports", "verified": False},
     {"name": "X: Travis Gafford (@TravisGafford) [likely]", "url": "https://rsshub.app/twitter/user/TravisGafford", "verified": False},
 
     # ============================================================
-    # NOT INCLUDED, needs your input: I deliberately did NOT guess
-    # handles for (a) every top international team per game — your
-    # watchlist.py already tracks those directly via Liquipedia,
-    # which is more reliable than X scraping anyway; (b) niche/
-    # per-game specialist journalists (Valorant, Dota2, mobile
-    # titles...) — too many to verify responsibly in one pass;
-    # (c) individual player accounts — Liquipedia watchlist already
-    # covers roster/transfer news for your priority players.
-    # Send me your actual priority list for any of these three and
-    # I'll add them here in the same format, verified where I can.
+    # MENA EXPANSION — added 2026-07-05: full MENA coverage (Gulf,
+    # Levant, Egypt, North Africa) + regional tournaments. Google
+    # News RSS bridge, since none of these federations/teams publish
+    # native RSS. Confidence tags: [checked] confirmed active team/
+    # program, [federation] official body not a competing team,
+    # [thin] no confirmed organized scene found.
     # ============================================================
-
-  # ============================================================
-    # MENA EXPANSION — added 2026-07-05 per Hazem's request to cover
-    # official esports news across the FULL MENA region (Gulf, Levant,
-    # Egypt, North Africa) + regional tournaments. Same model as the
-    # existing Arab-team section: Google News RSS bridge, because none
-    # of these national federations/teams publish native RSS.
-    #
-    # HONESTY NOTE — confidence levels (checked live via search today):
-    #   [checked]  = confirmed active team/national program right now
-    #                (e.g. currently competing at Esports Nations Cup 2026)
-    #   [federation] = official national esports body, not a competing team
-    #   [thin]     = no confirmed organized competitive scene found;
-    #                query kept only as a low-cost catch-all — may return
-    #                little or nothing for now
-    # ============================================================
-
-    # --- Gulf (beyond Saudi/UAE, already covered above) ---
     {"name": "Kuwait Esports Club [federation]", "url": "https://news.google.com/rss/search?q=%22Kuwait+Esports%22&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Bahrain Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Bahrain+esports&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Qatar Esports [thin]", "url": "https://news.google.com/rss/search?q=Qatar+esports&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Oman Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Oman+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-
-    # --- Levant (Jordan already covered above via FATE/JEF) ---
     {"name": "Lebanon Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Lebanon+esports&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Syria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Syria+esports&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Palestine Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Palestine+esports&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Iraq Esports [checked, ENC26 national team, top 4 finish]", "url": "https://news.google.com/rss/search?q=Iraq+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-
-    # --- North Africa (full) ---
     {"name": "Morocco Esports [checked, ENC26 MENA runner-up]", "url": "https://news.google.com/rss/search?q=Morocco+esports&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Algeria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Algeria+esports&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Tunisia Esports [checked, ENC26 MENA 3rd place]", "url": "https://news.google.com/rss/search?q=Tunisia+esports&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Libya Esports [thin]", "url": "https://news.google.com/rss/search?q=Libya+esports&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Mauritania Esports [thin]", "url": "https://news.google.com/rss/search?q=Mauritania+esports&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Sudan Esports [thin]", "url": "https://news.google.com/rss/search?q=Sudan+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-
-    # --- New club confirmed today ---
     {"name": "Al-Ahli Esports (Saudi, new CS2 roster June 2026) [checked]", "url": "https://news.google.com/rss/search?q=%22Al+Ahli%22+esports+CS2&hl=en&gl=US&ceid=US:en", "verified": False},
-
-    # --- Regional tournament ---
     {"name": "Esports Nations Cup 2026 [checked, EWCF national-team series]", "url": "https://news.google.com/rss/search?q=%22Esports+Nations+Cup%22&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "MENA Esports general", "url": "https://news.google.com/rss/search?q=MENA+esports+OR+%22Middle+East%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
 ]
