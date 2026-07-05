@@ -129,9 +129,10 @@ GEMINI_MAX_TOKENS = 800
 
 GEMINI_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGNewsAR، تكتب بالعربية الفصحى البيضاء (لغة يومية مثقفة، مو لغة أدبية أو مترجمة حرفياً).
 
-مهمتك: تحليل خبر إسبورت وإخراج ثلاثة عناصر: عنوان رئيسي، عنوان فرعي، وملخص قصير.
+مهمتك: تحليل خبر إسبورت وإخراج أربعة عناصر: نوع الخبر، عنوان رئيسي، عنوان فرعي، وملخص قصير.
 
 قواعد صارمة:
+- نوع الخبر (type): كلمة واحدة بالإنجليزي فقط من هذي القائمة بالضبط: "official" (إعلان رسمي من فريق/منظم/لاعب، توقيع، تشكيلة جديدة)، "result" (نتيجة مباراة، تأهل، بطولة)، "rumor" (خبر غير مؤكد، شائعة، تسريب)، "analysis" (تحليل، رأي، خلفية، تقرير غير عاجل)، "other" (أي شي غير هذول).
 - العنوان الرئيسي: لازم يحتوي اسم اللعبة، يبدأ بأهم معلومة (رقم/إنجاز/حدث)، وينتهي بعلامة استفهام أو تعجب حسب نوع الخبر. لو الخبر عن شراكة أو اتفاق أو تحالف، افتح بكلمة صادمة زي "شراكة!" أو "اتفاق رسمي!" أو "تحالف ضخم!".
 - العنوان الفرعي: جملة واحدة قصيرة تضيف تفصيل أو سياق إضافي لم يُذكر بالعنوان الرئيسي، مش تكرار له.
 - الملخص: جملتين أو ثلاث قصيرة ومتتالية، تبدأ بفعل مباشر (تأهل، حسم، أنهى، خطف)، أرقام وأسماء بالمقدمة، بدون نقاط أو عناوين فرعية.
@@ -142,7 +143,19 @@ GEMINI_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGN
 - لو المصدر ما فيه معلومات كافية لتأكيد تفصيل معين، لا تختلقه.
 
 رد بصيغة JSON فقط، بدون أي نص أو شرح إضافي قبله أو بعده، بالشكل التالي بالضبط:
-{"headline": "...", "subheadline": "...", "summary": "..."}"""
+{"type": "...", "headline": "...", "subheadline": "...", "summary": "..."}"""
+
+# Arabic tag prefixed to the headline based on Gemini's "type" classification,
+# so the reader knows the news category before opening the message (same
+# pattern as wire accounts like @esports using "ANNOUNCEMENT:"/"OFFICIAL:").
+TYPE_LABELS = {
+    "official": "🟢 رسمي",
+    "result": "🏆 نتيجة",
+    "rumor": "🟡 غير مؤكد",
+    "analysis": "🔵 تحليل",
+    "other": "",
+}
+
 
 
 def analyze_with_gemini(title: str, summary: str, link: str) -> dict | None:
@@ -199,6 +212,8 @@ def analyze_with_gemini(title: str, summary: str, link: str) -> dict | None:
             content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.MULTILINE).strip()
             parsed = json.loads(content)
             if all(k in parsed and parsed[k] for k in ("headline", "subheadline", "summary")):
+                if parsed.get("type") not in TYPE_LABELS:
+                    parsed["type"] = "other"
                 return parsed
             log.warning(f"Gemini response missing/empty keys: {content[:200]}")
             return None
@@ -394,6 +409,14 @@ def extract_image(entry) -> str:
     return ""
 
 
+# Source-level priority (set per feed in feeds.py via "priority": "high").
+# Feeds with no "priority" key default to "normal". High-priority sources
+# (e.g. official team/organizer X accounts bridged through RSSHub) get
+# processed and sent before normal sources in the same pass.
+FEED_PRIORITY = {fi["name"]: fi.get("priority", "normal") for fi in RSS_FEEDS}
+PRIORITY_RANK = {"high": 0, "normal": 1, "low": 2}
+
+
 def fetch_one_feed(feed_info: dict):
     """Fetch + parse a single feed. Never raises — returns (name, entries_or_None, error_or_None).
     Called from a thread pool so ~159 sources are fetched concurrently
@@ -418,16 +441,37 @@ def fetch_one_feed(feed_info: dict):
         return name, None, str(e)
 
 
+def entry_published_dt(entry):
+    """Best-effort publish datetime for latency measurement. None if unknown."""
+    pub = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
+    if not pub:
+        return None
+    try:
+        return datetime(*pub[:6], tzinfo=timezone.utc)
+    except (TypeError, ValueError):
+        return None
+
+
 def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
-    """Run RSS collection. Fetches all sources in parallel, then processes
-    (dedup + Gemini + send) sequentially so Discord rate limiting and the
-    send budget stay predictable. Returns number of messages sent."""
+    """Run RSS collection in two passes:
+
+    Pass 1 — fetch all sources in parallel, apply freshness/dedup gates,
+    and collect every item that should be sent into a candidate list
+    (no Gemini call yet, no sending yet).
+
+    Pass 2 — sort candidates by source priority (feeds.py "priority": "high"
+    go first, e.g. official team/organizer accounts) so the most important
+    sources get first claim on the per-run send budget, then analyze via
+    Gemini + send in that order. Latency (publish time -> send time) is
+    logged per item and averaged in the summary so slow sources are visible.
+    """
     seen_urls = set(state["urls"])
     seen_titles = set(state["title_hashes"])
 
     stats = defaultdict(int)
     failed = []
     sent = 0
+    latencies = []
 
     log.info(f"RSS phase: {len(RSS_FEEDS)} sources, {RSS_FETCH_WORKERS} parallel workers, freshness={MAX_AGE_HOURS}h")
 
@@ -437,6 +481,8 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
         for future in concurrent.futures.as_completed(futures):
             fetch_results.append(future.result())
 
+    # --- Pass 1: gate + collect candidates (no Gemini, no sending yet) ---
+    candidates = []
     for name, entries, error in fetch_results:
         if error:
             stats["sources_failed"] += 1
@@ -480,43 +526,73 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                 stats["baseline_recorded"] += 1
                 continue
 
-            if sent >= sent_budget:
-                stats["skip_cap"] += 1
-                state["urls"].pop()
-                state["title_hashes"].pop()
-                seen_urls.discard(link)
-                seen_titles.discard(t_hash)
-                continue
+            candidates.append({
+                "name": name,
+                "priority": FEED_PRIORITY.get(name, "normal"),
+                "entry": entry,
+                "link": link,
+                "title": title,
+                "summary": summary,
+                "t_hash": t_hash,
+                "published_dt": entry_published_dt(entry),
+            })
 
-            clean_summary = strip_html(summary)
+    # --- Pass 2: sort by source priority, then analyze + send in order ---
+    candidates.sort(key=lambda c: PRIORITY_RANK.get(c["priority"], 1))
 
-            analysis = analyze_with_gemini(title, clean_summary, link)
-            if analysis:
-                stats["gemini_analyzed"] += 1
-                send_title = analysis["headline"]
-                send_desc = f"**{analysis['subheadline']}**\n\n{analysis['summary']}"
-            else:
-                stats["gemini_fallback"] += 1
-                send_title = title
-                send_desc = clean_summary[:280]
+    for cand in candidates:
+        if sent >= sent_budget:
+            stats["skip_cap"] += 1
+            if cand["link"] in state["urls"]:
+                state["urls"].remove(cand["link"])
+            if cand["t_hash"] in state["title_hashes"]:
+                state["title_hashes"].remove(cand["t_hash"])
+            continue
 
-            ok = send_discord(
-                title=send_title,
-                link=link,
-                source=name,
-                summary=send_desc,
-                image_url=extract_image(entry),
-            )
-            if ok:
-                sent += 1
-                stats["sent"] += 1
-                time.sleep(MESSAGE_DELAY_SECONDS)
-            else:
-                stats["send_failures"] += 1
+        name = cand["name"]
+        entry = cand["entry"]
+        link = cand["link"]
+        title = cand["title"]
+        clean_summary = strip_html(cand["summary"])
+
+        analysis = analyze_with_gemini(title, clean_summary, link)
+        if analysis:
+            stats["gemini_analyzed"] += 1
+            stats[f"type_{analysis.get('type', 'other')}"] += 1
+            label = TYPE_LABELS.get(analysis.get("type", "other"), "")
+            send_title = f"{label}: {analysis['headline']}" if label else analysis["headline"]
+            send_desc = f"**{analysis['subheadline']}**\n\n{analysis['summary']}"
+        else:
+            stats["gemini_fallback"] += 1
+            send_title = title
+            send_desc = clean_summary[:280]
+
+        ok = send_discord(
+            title=send_title,
+            link=link,
+            source=name,
+            summary=send_desc,
+            image_url=extract_image(entry),
+        )
+        if ok:
+            sent += 1
+            stats["sent"] += 1
+            if cand["published_dt"]:
+                lag = (datetime.now(timezone.utc) - cand["published_dt"]).total_seconds()
+                latencies.append(lag)
+                log.info(f"  sent '{title[:60]}' — latency {lag/60:.1f} min (source: {name})")
+            time.sleep(MESSAGE_DELAY_SECONDS)
+        else:
+            stats["send_failures"] += 1
 
     log.info("--- RSS Summary ---")
     for k in sorted(stats.keys()):
         log.info(f"  {k:30s} {stats[k]}")
+    if latencies:
+        avg_min = sum(latencies) / len(latencies) / 60
+        max_min = max(latencies) / 60
+        log.info(f"  {'avg_latency_min':30s} {avg_min:.1f}")
+        log.info(f"  {'max_latency_min':30s} {max_min:.1f}")
     if failed:
         log.info(f"--- Failed Sources ({len(failed)}) ---")
         for line in failed:
