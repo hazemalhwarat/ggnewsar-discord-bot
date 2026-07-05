@@ -1,5 +1,5 @@
 """
-GGNewsAR Discord Bot — unified RSS + Liquipedia pipeline (continuous-loop edition).
+GGNewsAR Discord Bot — unified RSS + Liquipedia pipeline (single-pass edition).
 
 مشروع مستقل تماماً عن بوت تيليقرام. نفس المنطق بالضبط (RSS + Liquipedia +
 dedup + state)، لكن الإرسال يروح لروم Discord عبر Webhook بدل تيليقرام.
@@ -9,36 +9,48 @@ dedup + state)، لكن الإرسال يروح لروم Discord عبر Webhook 
 GGNewsAR، بدل إرسال عنوان/ملخص RSS الخام. لو التحليل فشل، يرجع البوت
 تلقائياً للنص الأصلي.
 
-=== ARCHITECTURE CHANGE (2026-07-04) ===
-البوت القديم كان يفحص مرة وحدة كل استدعاء وينتهي (GitHub Actions cron كل
-4 ساعات). هذا الإصدار يشغّل حلقة داخلية مستمرة تفحص كل ~75 ثانية لمدة
-تقارب 5 ساعات و45 دقيقة، والـ cron بالـ workflow يعيد تشغيل الجوب كل 6
-ساعات فيعيد الحلقة من جديد. النتيجة: فحص شبه فوري على مدار الساعة، بدون
-أي سيرفر خارجي، ضمن حدود GitHub Actions المجانية (job واحد أقصاه 6 ساعات).
+=== ARCHITECTURE CHANGE (2026-07-05) ===
+رجعنا لنمط single pass: كل استدعاء يفحص كل المصادر مرة وحدة ويطلع.
+الاستمرارية (الفحص كل 10-15 دقيقة) تجيها من GitHub Actions schedule
+(cron) في run.yml، مو من حلقة داخلية. هذا هو الاستخدام الصحيح لـ
+GitHub Actions: جوب قصير يشتغل ثواني، مو جوب طويل يشغل ساعات.
 
-تغييرات رئيسية:
-  1. جلب كل مصادر RSS بالتوازي (ThreadPoolExecutor) بدل التسلسلي — لأن
-     140 مصدر لو فُحصوا واحد ورا الثاني، مصدر واحد بطيء/معطّل بمهلة 10
-     ثوان يقدر يأخر الدورة كلها. بالتوازي، الدورة كلها تخلص خلال ثواني.
-  2. Liquipedia يفحص كل 5 دورات فقط (~6-7 دقايق) بدل كل دورة — احتراماً
-     لحدود استخدام الـ API عندهم وتجنباً لأي حظر، بينما RSS (مصدر الأخبار
-     العاجلة الحقيقي) يفحص كل دورة (~75 ثانية).
-  3. commit لـ state.json يصير كل 4 دورات (~5 دقايق) بدل كل دورة، لتجنب
-     إغراق المستودع بمئات الـ commits الصغيرة على مدار 6 ساعات.
+السبب: الحلقة المستمرة (5h45m لكل استدعاء) كانت بتستهلك حصة الدقائق
+المجانية (~2000 دقيقة/شهر على private repo) خلال يوم ونص تقريباً لو
+اتربطت بـ cron كل 6 ساعات. النمط الحالي (فحص خاطف كل 10-15 دقيقة)
+يعطي نفس التغطية الزمنية تقريباً باستهلاك أقل بعشرات المرات.
 
-Pipeline (per cycle, every ~75 seconds):
+تغييرات رئيسية عن نسخة الحلقة:
+  1. لا يوجد loop داخلي — main() يعمل دورة واحدة (RSS + احتمال Liquipedia)
+     ثم يطلع.
+  2. Liquipedia يفحص فقط لو مرت مدة كافية منذ آخر فحص محفوظة بالـ state
+     (بدل "كل 5 دورات" لأنه ما فيه دورات متعددة بالاستدعاء الواحد).
+  3. commit لـ state.json يصير مرة وحدة في نهاية كل استدعاء (بدل كل 4
+     دورات) لأن كل استدعاء أصلاً قصير.
+  4. جلب كل مصادر RSS بالتوازي (ThreadPoolExecutor) — نفس المنطق القديم،
+     محتفظ به لأنه يخلي الاستدعاء الواحد يخلص خلال ثواني بدل دقائق.
+
+Pipeline (once per invocation):
   1. RSS phase: fetch all feeds in feeds.py IN PARALLEL, filter freshness +
      dedup, analyze via Gemini, send.
-  2. Liquipedia phase (every 5th cycle only): poll watchlist pages, filter
+  2. Liquipedia phase (only if LIQUIPEDIA_MIN_INTERVAL_MINUTES have passed
+     since last Liquipedia check): poll watchlist pages, filter
      bot/minor/tiny edits, send.
 
-State is unified in state.json with three collections:
+State is unified in state.json with four collections:
   - urls: seen RSS URLs (ring of last 8000)
   - title_hashes: normalized title hashes (ring of last 8000)
   - liquipedia: per-page seen revids + last seen size
+  - last_liquipedia_check: ISO timestamp of last Liquipedia phase run
 
 Configuration sources: feeds.py (RSS_FEEDS), watchlist.py (WATCHLIST).
 Secrets: DISCORD_WEBHOOK_URL, GEMINI_API_KEY in environment.
+
+GitHub Actions workflow (run.yml) should trigger this via:
+  on:
+    workflow_dispatch:
+    schedule:
+      - cron: "*/15 * * * *"   # every 15 minutes
 """
 
 import os
@@ -67,8 +79,7 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 
 STATE_FILE = Path("state.json")
 
-# Cap to prevent flooding if many fresh items appear at once (per cycle now,
-# not per whole run, since a "run" is now a ~5h45m loop of many cycles)
+# Cap to prevent flooding if many fresh items appear at once in one pass
 MAX_MESSAGES_PER_RUN = 50
 
 # Discord webhook rate limit safety margin
@@ -83,16 +94,16 @@ SEEN_TITLES_RING = 8000
 SEEN_REVS_PER_PAGE = 20
 
 # ------------------------------------------------------------
-# Continuous-loop settings
+# Single-pass settings
 # ------------------------------------------------------------
-LOOP_DURATION_MINUTES = 345          # ~5h45m of active work per job invocation
-CYCLE_SLEEP_SECONDS = 75             # target time between cycle starts
-LIQUIPEDIA_EVERY_N_CYCLES = 5        # Liquipedia phase runs on cycle 1, 6, 11, ...
-COMMIT_EVERY_N_CYCLES = 4            # git commit+push every ~5 minutes
+# Liquipedia is checked at most once every N minutes, tracked via
+# state["last_liquipedia_check"], since each invocation is now a single
+# short pass rather than one cycle among many inside a long-lived loop.
+LIQUIPEDIA_MIN_INTERVAL_MINUTES = 10
 
 # RSS parallel fetch settings
 RSS_FETCH_WORKERS = 40
-RSS_FETCH_TIMEOUT_SECONDS = 10       # kept short since fetch is now parallel
+RSS_FETCH_TIMEOUT_SECONDS = 10
 
 # Liquipedia API
 LIQUIPEDIA_USER_AGENT = "GGNewsAR Bot/2.0 (https://ggnewsar.com; hazem@ggnewsar.com)"
@@ -214,17 +225,19 @@ def load_state() -> dict:
             "urls": [],
             "title_hashes": [],
             "liquipedia": {},  # "wiki:page" -> {"revids": [...], "size": int}
+            "last_liquipedia_check": None,  # ISO timestamp string or None
         }
     try:
         with open(STATE_FILE, "r", encoding="utf-8") as f:
             data = json.load(f)
     except (json.JSONDecodeError, OSError) as e:
         log.error(f"state.json corrupted, starting fresh: {e}")
-        return {"urls": [], "title_hashes": [], "liquipedia": {}}
+        return {"urls": [], "title_hashes": [], "liquipedia": {}, "last_liquipedia_check": None}
 
     data.setdefault("urls", [])
     data.setdefault("title_hashes", [])
     data.setdefault("liquipedia", {})
+    data.setdefault("last_liquipedia_check", None)
     return data
 
 
@@ -236,9 +249,9 @@ def save_state(state: dict) -> None:
 
 
 def git_commit_push(reason: str = "") -> None:
-    """Commit + push state.json if it changed. Safe to call often — no-ops
-    cleanly if there's nothing staged. Never raises: a failed push here
-    should not crash the loop, just gets retried on the next call."""
+    """Commit + push state.json if it changed. Safe to call even when
+    nothing changed — no-ops cleanly. Never raises: a failed push here
+    should not crash the run, just gets retried on the next invocation."""
     try:
         subprocess.run(["git", "config", "user.name", "github-actions[bot]"],
                         check=True, capture_output=True)
@@ -258,9 +271,9 @@ def git_commit_push(reason: str = "") -> None:
 
         r = subprocess.run(["git", "push"], capture_output=True, text=True)
         if r.returncode != 0:
-            log.warning(f"git push failed, will retry next commit cycle: {r.stderr[:300]}")
+            log.warning(f"git push failed: {r.stderr[:300]}")
     except subprocess.CalledProcessError as e:
-        log.warning(f"git commit/push step failed, will retry next commit cycle: {e}")
+        log.warning(f"git commit/push step failed: {e}")
 
 
 # ============================================================
@@ -383,9 +396,9 @@ def extract_image(entry) -> str:
 
 def fetch_one_feed(feed_info: dict):
     """Fetch + parse a single feed. Never raises — returns (name, entries_or_None, error_or_None).
-    Designed to be called from a thread pool so 140 sources can be fetched
-    concurrently instead of one-by-one (which is what made every-few-minutes
-    checking impractical with a slow/dead source mixed in)."""
+    Called from a thread pool so ~159 sources are fetched concurrently
+    instead of one-by-one, keeping each single-pass invocation fast
+    (seconds, not minutes) even with a slow/dead source mixed in."""
     name = feed_info["name"]
     url = feed_info["url"]
     try:
@@ -408,7 +421,7 @@ def fetch_one_feed(feed_info: dict):
 def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
     """Run RSS collection. Fetches all sources in parallel, then processes
     (dedup + Gemini + send) sequentially so Discord rate limiting and the
-    per-cycle send budget stay predictable. Returns number of messages sent."""
+    send budget stay predictable. Returns number of messages sent."""
     seen_urls = set(state["urls"])
     seen_titles = set(state["title_hashes"])
 
@@ -513,7 +526,7 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
 
 
 # ============================================================
-# Liquipedia phase  (unchanged — no Gemini analysis here)
+# Liquipedia phase  (unchanged internals — no Gemini analysis here)
 # ============================================================
 def fetch_liquipedia_revisions(wiki: str, pages: list, session: requests.Session) -> list:
     """Fetch latest revision for each page on a Liquipedia wiki."""
@@ -680,8 +693,23 @@ def liquipedia_phase(state: dict, first_run: bool, sent_budget: int) -> int:
     return sent
 
 
+def should_run_liquipedia(state: dict) -> bool:
+    """True on first run, if no prior check is recorded, or if enough time
+    has passed since the last Liquipedia check. Since each invocation is a
+    single short pass now (no cycles), this replaces the old 'every 5th
+    cycle' rule with a wall-clock interval stored in state."""
+    last = state.get("last_liquipedia_check")
+    if not last:
+        return True
+    try:
+        last_dt = datetime.fromisoformat(last)
+    except ValueError:
+        return True
+    return (datetime.now(timezone.utc) - last_dt) >= timedelta(minutes=LIQUIPEDIA_MIN_INTERVAL_MINUTES)
+
+
 # ============================================================
-# Main — continuous loop
+# Main — single pass
 # ============================================================
 def main():
     if not DISCORD_WEBHOOK_URL:
@@ -691,53 +719,29 @@ def main():
     if not GEMINI_API_KEY:
         log.warning("Missing GEMINI_API_KEY — Gemini analysis disabled, will fall back to raw RSS titles/summaries.")
 
-    initial_state = load_state()
+    state = load_state()
     first_run = (
-        len(initial_state["urls"]) == 0
-        and len(initial_state["title_hashes"]) == 0
-        and len(initial_state["liquipedia"]) == 0
+        len(state["urls"]) == 0
+        and len(state["title_hashes"]) == 0
+        and len(state["liquipedia"]) == 0
     )
     if first_run:
-        log.info("FIRST RUN: indexing baseline, no messages will be sent (this cycle only).")
+        log.info("FIRST RUN: indexing baseline, no messages will be sent this pass.")
 
-    loop_deadline = time.monotonic() + LOOP_DURATION_MINUTES * 60
-    cycle = 0
+    rss_sent = rss_phase(state, first_run, MAX_MESSAGES_PER_RUN)
+    remaining = MAX_MESSAGES_PER_RUN - rss_sent
 
-    while True:
-        cycle += 1
-        cycle_start = time.monotonic()
-        log.info(f"=== Cycle {cycle} start ===")
+    lp_sent = 0
+    if should_run_liquipedia(state):
+        lp_sent = liquipedia_phase(state, first_run, remaining)
+        state["last_liquipedia_check"] = datetime.now(timezone.utc).isoformat()
+    else:
+        log.info(f"Liquipedia phase skipped (last check within {LIQUIPEDIA_MIN_INTERVAL_MINUTES} min)")
 
-        state = load_state()
+    save_state(state)
+    git_commit_push("single pass")
 
-        rss_sent = rss_phase(state, first_run, MAX_MESSAGES_PER_RUN)
-        remaining = MAX_MESSAGES_PER_RUN - rss_sent
-
-        lp_sent = 0
-        if cycle % LIQUIPEDIA_EVERY_N_CYCLES == 1:
-            lp_sent = liquipedia_phase(state, first_run, remaining)
-        else:
-            log.info(f"Liquipedia phase skipped this cycle (runs every {LIQUIPEDIA_EVERY_N_CYCLES} cycles)")
-
-        save_state(state)
-
-        if cycle % COMMIT_EVERY_N_CYCLES == 0:
-            git_commit_push(f"cycle {cycle}")
-
-        if first_run:
-            first_run = False  # baseline indexing only ever happens once
-
-        log.info(f"=== Cycle {cycle} done. RSS sent: {rss_sent}, Liquipedia sent: {lp_sent} ===")
-
-        if time.monotonic() >= loop_deadline:
-            log.info("Loop budget exhausted — exiting cleanly, next scheduled run picks up from here.")
-            break
-
-        elapsed_cycle = time.monotonic() - cycle_start
-        sleep_for = max(5.0, CYCLE_SLEEP_SECONDS - elapsed_cycle)
-        time.sleep(sleep_for)
-
-    git_commit_push("final commit before loop exit")
+    log.info(f"=== Pass done. RSS sent: {rss_sent}, Liquipedia sent: {lp_sent} ===")
 
 
 if __name__ == "__main__":
