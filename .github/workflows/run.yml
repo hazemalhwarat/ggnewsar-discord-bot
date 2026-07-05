@@ -1,57 +1,33 @@
 name: GGNewsAR Discord Bot
 
 on:
-  schedule:
-    # Every 6 hours. bot.py itself now runs a continuous internal loop for
-    # ~5h45m (checking every ~75 seconds), so this cron just makes sure a
-    # fresh job picks up the moment the previous one's loop budget ends.
-    # Minute offset (7) avoids GitHub's top-of-hour high-load congestion.
-    - cron: "7 */6 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"   # كل 15 دقيقة — عدّل الرقم لو تبي أسرع أو أبطأ
 
 permissions:
-  contents: write
+  contents: write   # مطلوب عشان يقدر يعمل commit/push لـ state.json
 
 concurrency:
   group: ggnewsar-discord-bot
-  # false on purpose: if a new scheduled run fires while the previous one's
-  # 5h45m loop is still finishing up, it queues and starts right after —
-  # no gap in coverage, and we never kill a run mid-cycle.
-  cancel-in-progress: false
+  cancel-in-progress: false   # ما نبي نلغي رن شغال لو الجديد بدأ قبل ما يخلص القديم
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    # 5h45m internal loop budget + buffer for setup/final commit/push.
-    # Must stay under GitHub's hard 6-hour per-job ceiling.
-    timeout-minutes: 355
+    timeout-minutes: 10   # حماية إضافية: أي تعليق غير متوقع يوقف تلقائي بدل ما يفضل شغال لساعات
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run bot (continuous loop, ~5h45m)
+      - name: Run bot (single pass)
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python bot.py
-
-      - name: Final safety-net commit
-        # bot.py already commits+pushes state.json every ~5 minutes and once
-        # more right before exiting. This step is just a safety net in case
-        # the job got killed (timeout, runner issue) before that last commit.
-        if: always()
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main || true
-          git add state.json
-          git diff --cached --quiet || git commit -m "chore: update state.json [skip ci] (safety-net commit)"
-          git push || true
