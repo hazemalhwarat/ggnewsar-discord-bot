@@ -732,11 +732,7 @@ def main():
     remaining = MAX_MESSAGES_PER_RUN - rss_sent
 
     lp_sent = 0
-    if should_run_liquipedia(state):
-        lp_sent = liquipedia_phase(state, first_run, remaining)
-        state["last_liquipedia_check"] = datetime.now(timezone.utc).isoformat()
-    else:
-        log.info(f"Liquipedia phase skipped (last check within {LIQUIPEDIA_MIN_INTERVAL_MINUTES} min)")
+    log.info("Liquipedia phase disabled — RSS only.")
 
     save_state(state)
     git_commit_push("single pass")
