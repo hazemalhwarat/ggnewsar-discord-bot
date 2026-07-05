@@ -257,6 +257,49 @@ RSS_FEEDS = [
     # Send me your actual priority list for any of these three and
     # I'll add them here in the same format, verified where I can.
     # ============================================================
+
+  # ============================================================
+    # MENA EXPANSION — added 2026-07-05 per Hazem's request to cover
+    # official esports news across the FULL MENA region (Gulf, Levant,
+    # Egypt, North Africa) + regional tournaments. Same model as the
+    # existing Arab-team section: Google News RSS bridge, because none
+    # of these national federations/teams publish native RSS.
+    #
+    # HONESTY NOTE — confidence levels (checked live via search today):
+    #   [checked]  = confirmed active team/national program right now
+    #                (e.g. currently competing at Esports Nations Cup 2026)
+    #   [federation] = official national esports body, not a competing team
+    #   [thin]     = no confirmed organized competitive scene found;
+    #                query kept only as a low-cost catch-all — may return
+    #                little or nothing for now
+    # ============================================================
+
+    # --- Gulf (beyond Saudi/UAE, already covered above) ---
+    {"name": "Kuwait Esports Club [federation]", "url": "https://news.google.com/rss/search?q=%22Kuwait+Esports%22&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Bahrain Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Bahrain+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Qatar Esports [thin]", "url": "https://news.google.com/rss/search?q=Qatar+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Oman Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Oman+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+
+    # --- Levant (Jordan already covered above via FATE/JEF) ---
+    {"name": "Lebanon Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Lebanon+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Syria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Syria+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Palestine Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Palestine+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Iraq Esports [checked, ENC26 national team, top 4 finish]", "url": "https://news.google.com/rss/search?q=Iraq+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+
+    # --- North Africa (full) ---
+    {"name": "Morocco Esports [checked, ENC26 MENA runner-up]", "url": "https://news.google.com/rss/search?q=Morocco+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Algeria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Algeria+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Tunisia Esports [checked, ENC26 MENA 3rd place]", "url": "https://news.google.com/rss/search?q=Tunisia+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Libya Esports [thin]", "url": "https://news.google.com/rss/search?q=Libya+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Mauritania Esports [thin]", "url": "https://news.google.com/rss/search?q=Mauritania+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Sudan Esports [thin]", "url": "https://news.google.com/rss/search?q=Sudan+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+
+    # --- New club confirmed today ---
+    {"name": "Al-Ahli Esports (Saudi, new CS2 roster June 2026) [checked]", "url": "https://news.google.com/rss/search?q=%22Al+Ahli%22+esports+CS2&hl=en&gl=US&ceid=US:en", "verified": False},
+
+    # --- Regional tournament ---
+    {"name": "Esports Nations Cup 2026 [checked, EWCF national-team series]", "url": "https://news.google.com/rss/search?q=%22Esports+Nations+Cup%22&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "MENA Esports general", "url": "https://news.google.com/rss/search?q=MENA+esports+OR+%22Middle+East%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
 ]
 
 
