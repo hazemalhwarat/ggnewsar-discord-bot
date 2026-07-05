@@ -29,6 +29,23 @@ UPDATE 2026-07-05: Fragster's three native RSS paths (/feed, /valorant/feed,
 redirect to the homepage HTML instead of returning XML. The site itself is
 alive and active (posts daily). Replaced all three with Google News
 site: bridges instead of leaving them as dead native URLs.
+
+UPDATE 2026-07-05 (priority field): each feed dict may include an optional
+"priority" key: "high", "normal" (default if omitted), or "low". bot.py
+processes and sends "high" priority sources first in every pass, before
+"normal"/"low" ones -- so if the per-run send cap (MAX_MESSAGES_PER_RUN) is
+ever hit, the important sources still get through. Mark a source "high"
+when it's a primary/official account you want surfaced first: tournament
+organizers, official team accounts, HLTV/VLR/Liquipedia-tier sources, etc.
+
+To add an X (Twitter) account as a source (e.g. official team or organizer
+accounts, matching how wire-style accounts like @esports break news first):
+X has no public RSS anymore, so bridge it through a self-hosted RSSHub
+instance (the public rsshub.app is heavily rate-limited/blocked, not
+reliable for production -- self-host one on Railway/Render/a small VPS,
+it's free-tier friendly). Once you have your RSSHub URL, add entries like:
+  {"name": "HLTV (X)", "url": "https://YOUR-RSSHUB-INSTANCE/twitter/user/HLTV",
+   "verified": False, "priority": "high"}
 """
 
 RSS_FEEDS = [
