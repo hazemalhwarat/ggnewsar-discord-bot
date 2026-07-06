@@ -170,6 +170,7 @@ RSS_FEEDS = [
     {"name": "F1 Esports", "url": "https://f1esports.com/news/feed", "verified": False},
     {"name": "NESTHQ", "url": "https://nesthq.ca/feed", "verified": False},
     {"name": "Esports Charts News", "url": "https://escharts.com/news/feed", "verified": False},
+    {"name": "Esports Charts (via Google News bridge, backup)", "url": "https://news.google.com/rss/search?q=site:escharts.com/news&hl=en&gl=US&ceid=US:en", "verified": False},
 
     # ============================================================
     # Added 2026-07-01 per Hazem's request.
