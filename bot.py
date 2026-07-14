@@ -348,6 +348,40 @@ def extract_image(entry) -> str:
 # (e.g. official team/organizer X accounts bridged through RSSHub) get
 # processed and sent before normal sources in the same pass.
 FEED_PRIORITY = {fi["name"]: fi.get("priority", "normal") for fi in RSS_FEEDS}
+
+# ------------------------------------------------------------
+# Keyword guard  (added 2026-07-14 after a Google News bridge pushed a
+# story about intercepted ballistic missiles into the Discord channel)
+# ------------------------------------------------------------
+# A Google News "site:X keyword" bridge does NOT actually constrain results
+# to the keyword — Google returns whatever that site published. Any feed
+# that is not natively an esports feed MUST therefore carry a "require"
+# list in feeds.py: the item is dropped unless its title or summary
+# contains at least one of those words. This is a hard gate, not a hint.
+FEED_REQUIRE = {fi["name"]: [w.lower() for w in fi.get("require", [])] for fi in RSS_FEEDS}
+
+# Applies to every feed, always. Affiliate/casino spam and general
+# world-news bleed have no place in an esports channel.
+GLOBAL_REJECT = [
+    "casino", "sportsbook", "betting bonus", "best odds", "free bets",
+    "horoscope", "missile", "airstrike", "houthi", "ceasefire",
+]
+
+
+def passes_keyword_guard(name: str, title: str, summary: str) -> tuple:
+    """(ok, reason). Applies the global reject list, then the per-feed
+    require list if that feed declares one."""
+    blob = f"{title} {summary}".lower()
+
+    for bad in GLOBAL_REJECT:
+        if bad in blob:
+            return False, f"rejected keyword: {bad}"
+
+    required = FEED_REQUIRE.get(name) or []
+    if required and not any(w in blob for w in required):
+        return False, "no required keyword"
+
+    return True, ""
 PRIORITY_RANK = {"high": 0, "normal": 1, "low": 2}
 
 
@@ -451,6 +485,13 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
             if t_hash in seen_titles:
                 stats["skip_dup_title"] += 1
                 seen_urls.add(link); state["urls"].append(link)
+                continue
+
+            ok_kw, kw_reason = passes_keyword_guard(name, title, summary)
+            if not ok_kw:
+                stats["skip_keyword_guard"] += 1
+                seen_urls.add(link); state["urls"].append(link)
+                seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
                 continue
 
             # Passes all gates. Mark seen regardless of send outcome.
