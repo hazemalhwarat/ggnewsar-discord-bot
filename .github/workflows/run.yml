@@ -29,5 +29,8 @@ jobs:
       - name: Run bot (single pass)
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          # اختياري: ويبهوك مستقل لقناة #transfers. لو ما ضفته، الانتقالات
+          # بتنزل بنفس قناة الأخبار.
+          TRANSFERS_WEBHOOK_URL: ${{ secrets.TRANSFERS_WEBHOOK_URL }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python bot.py
