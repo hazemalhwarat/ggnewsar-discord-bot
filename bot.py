@@ -71,11 +71,33 @@ import requests
 
 from feeds import RSS_FEEDS
 from watchlist import WATCHLIST
+from transfers import (
+    TRANSFER_WIKIS,
+    TRANSFER_PAGE_PATTERNS,
+    TRANSFERS_MODE,
+    TRANSFERS_MAX_PER_RUN,
+    TRANSFERS_MIN_INTERVAL_MINUTES,
+    extract_transfer_templates,
+    parse_transfer,
+    classify,
+    row_key,
+    format_headline,
+)
 
 # ============================================================
 # Configuration
 # ============================================================
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
+
+# Optional: a dedicated #transfers channel. If unset, transfer messages go
+# to the main webhook alongside the news feed.
+TRANSFERS_WEBHOOK_URL = (
+    os.environ.get("TRANSFERS_WEBHOOK_URL", "").strip() or DISCORD_WEBHOOK_URL
+)
+
+# Distinct embed colour so transfers are visually separable from news
+TRANSFER_EMBED_COLOR = 0x16A34A   # green
+MENA_EMBED_COLOR = 0xF59E0B       # amber — Arab/MENA org involved
 
 STATE_FILE = Path("state.json")
 
@@ -92,6 +114,7 @@ MAX_AGE_HOURS = 24
 SEEN_URLS_RING = 8000
 SEEN_TITLES_RING = 8000
 SEEN_REVS_PER_PAGE = 20
+SEEN_TRANSFERS_RING = 6000
 
 # ------------------------------------------------------------
 # Single-pass settings
@@ -140,6 +163,7 @@ def load_state() -> dict:
             "title_hashes": [],
             "liquipedia": {},  # "wiki:page" -> {"revids": [...], "size": int}
             "last_liquipedia_check": None,  # ISO timestamp string or None
+            "transfers": {"pages": {}, "seen": [], "last_check": None},
         }
     try:
         with open(STATE_FILE, "r", encoding="utf-8") as f:
@@ -152,12 +176,18 @@ def load_state() -> dict:
     data.setdefault("title_hashes", [])
     data.setdefault("liquipedia", {})
     data.setdefault("last_liquipedia_check", None)
+    data.setdefault("transfers", {"pages": {}, "seen": [], "last_check": None})
+    data["transfers"].setdefault("pages", {})
+    data["transfers"].setdefault("seen", [])
+    data["transfers"].setdefault("last_check", None)
     return data
 
 
 def save_state(state: dict) -> None:
     state["urls"] = state["urls"][-SEEN_URLS_RING:]
     state["title_hashes"] = state["title_hashes"][-SEEN_TITLES_RING:]
+    if "transfers" in state:
+        state["transfers"]["seen"] = state["transfers"]["seen"][-SEEN_TRANSFERS_RING:]
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
 
@@ -200,10 +230,10 @@ def _clip(text: str, limit: int) -> str:
     return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
 
 
-def _build_embed(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "") -> dict:
+def _build_embed(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "", color: int = None) -> dict:
     embed = {
         "title": _clip(title, 256),
-        "color": EMBED_COLOR,
+        "color": color if color is not None else EMBED_COLOR,
     }
     if link:
         embed["url"] = link
@@ -216,17 +246,19 @@ def _build_embed(title: str, link: str = "", source: str = "", summary: str = ""
     return embed
 
 
-def send_discord(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "") -> bool:
+def send_discord(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "",
+                 webhook: str = "", color: int = None) -> bool:
     """Send one news item to Discord as an embed. Returns True on success."""
-    if not DISCORD_WEBHOOK_URL:
+    hook = webhook or DISCORD_WEBHOOK_URL
+    if not hook:
         log.error("Discord webhook missing")
         return False
 
-    payload = {"embeds": [_build_embed(title, link, source, summary, image_url)]}
+    payload = {"embeds": [_build_embed(title, link, source, summary, image_url, color)]}
 
     for attempt in range(3):
         try:
-            r = requests.post(DISCORD_WEBHOOK_URL, json=payload, timeout=15)
+            r = requests.post(hook, json=payload, timeout=15)
             if r.status_code in (200, 204):
                 return True
             if r.status_code == 429:
@@ -681,6 +713,230 @@ def should_run_liquipedia(state: dict) -> bool:
     return (datetime.now(timezone.utc) - last_dt) >= timedelta(minutes=LIQUIPEDIA_MIN_INTERVAL_MINUTES)
 
 
+
+# ============================================================
+# Transfers phase — Liquipedia Player Transfers pages
+# ============================================================
+# This is the source of truth for roster moves. Reading it directly means
+# GGNewsAR gets the move when it is logged, not when someone writes it up
+# hours later. Bench moves, coach changes, stand-ins and releases never
+# become RSS articles at all, so this phase is the ONLY way they arrive.
+MONTHS = ["January", "February", "March", "April", "May", "June", "July",
+          "August", "September", "October", "November", "December"]
+
+
+def _lp_session() -> requests.Session:
+    s = requests.Session()
+    s.headers.update({
+        "User-Agent": LIQUIPEDIA_USER_AGENT,
+        "Accept-Encoding": "gzip",
+    })
+    return s
+
+
+def _lp_get(session, wiki: str, params: dict) -> dict:
+    """One rate-limited Liquipedia API call. Returns {} on failure."""
+    url = f"https://liquipedia.net/{wiki}/api.php"
+    params = {**params, "format": "json", "maxlag": 5}
+    try:
+        time.sleep(LIQUIPEDIA_RATE_LIMIT_SEC)
+        r = session.get(url, params=params, timeout=30)
+        if r.status_code != 200:
+            log.warning(f"Liquipedia {wiki} HTTP {r.status_code}")
+            return {}
+        return r.json()
+    except (requests.RequestException, ValueError) as e:
+        log.warning(f"Liquipedia {wiki} request failed: {e}")
+        return {}
+
+
+def resolve_transfer_page(session, wiki: str) -> str:
+    """Find the current transfer page title for this wiki.
+
+    Tries the monthly page first, then quarterly, then the yearly page.
+    Returns "" if the wiki has no transfer page under any known pattern
+    (that is fine — it just gets skipped).
+    """
+    now = datetime.now(timezone.utc)
+    quarter = ["1st", "2nd", "3rd", "4th"][(now.month - 1) // 3]
+    candidates = [
+        pat.format(y=now.year, m=MONTHS[now.month - 1], q=quarter)
+        for pat in TRANSFER_PAGE_PATTERNS
+    ]
+
+    data = _lp_get(session, wiki, {
+        "action": "query",
+        "titles": "|".join(candidates),
+        "prop": "info",
+        "redirects": 1,
+    })
+    pages = (data.get("query", {}) or {}).get("pages", {}) or {}
+    existing = {
+        p.get("title", "").replace(" ", "_")
+        for pid, p in pages.items()
+        if int(pid) > 0 and "missing" not in p
+    }
+    for cand in candidates:                 # keep pattern preference order
+        if cand in existing:
+            return cand
+    return ""
+
+
+def fetch_page_revid(session, wiki: str, title: str) -> int:
+    data = _lp_get(session, wiki, {
+        "action": "query", "titles": title,
+        "prop": "revisions", "rvprop": "ids",
+    })
+    pages = (data.get("query", {}) or {}).get("pages", {}) or {}
+    for pid, p in pages.items():
+        revs = p.get("revisions") or []
+        if revs:
+            return int(revs[0].get("revid", 0))
+    return 0
+
+
+def fetch_page_wikitext(session, wiki: str, title: str) -> str:
+    data = _lp_get(session, wiki, {
+        "action": "query", "titles": title,
+        "prop": "revisions", "rvprop": "content", "rvslots": "main",
+    })
+    pages = (data.get("query", {}) or {}).get("pages", {}) or {}
+    for pid, p in pages.items():
+        revs = p.get("revisions") or []
+        if not revs:
+            continue
+        slots = revs[0].get("slots", {})
+        if slots:
+            return slots.get("main", {}).get("*", "") or ""
+        return revs[0].get("*", "") or ""
+    return ""
+
+
+def should_run_transfers(state: dict) -> bool:
+    last = state["transfers"].get("last_check")
+    if not last:
+        return True
+    try:
+        last_dt = datetime.fromisoformat(last)
+    except ValueError:
+        return True
+    return (datetime.now(timezone.utc) - last_dt) >= timedelta(minutes=TRANSFERS_MIN_INTERVAL_MINUTES)
+
+
+def transfers_phase(state: dict, first_run: bool, sent_budget: int) -> int:
+    """Poll every transfer page, send new rows. Returns messages sent."""
+    tstate = state["transfers"]
+    seen = set(tstate["seen"])
+    stats = defaultdict(int)
+    sent = 0
+    budget = min(sent_budget, TRANSFERS_MAX_PER_RUN)
+
+    log.info(f"Transfers phase: {len(TRANSFER_WIKIS)} wikis, mode={TRANSFERS_MODE}, budget={budget}")
+    session = _lp_session()
+    candidates = []
+
+    for wiki, game in TRANSFER_WIKIS.items():
+        entry = tstate["pages"].get(wiki, {})
+        title = entry.get("title", "")
+        month_tag = datetime.now(timezone.utc).strftime("%Y-%m")
+
+        # Re-resolve the page whenever the month rolls over (or first time)
+        if not title or entry.get("month") != month_tag:
+            title = resolve_transfer_page(session, wiki)
+            if not title:
+                stats["wikis_no_page"] += 1
+                tstate["pages"][wiki] = {"title": "", "month": month_tag, "revid": 0}
+                continue
+            entry = {"title": title, "month": month_tag, "revid": 0}
+            tstate["pages"][wiki] = entry
+            log.info(f"  {wiki}: transfer page -> {title}")
+
+        # Cheap change check: skip the page entirely if nothing was edited
+        revid = fetch_page_revid(session, wiki, title)
+        if revid and revid == entry.get("revid"):
+            stats["wikis_unchanged"] += 1
+            continue
+
+        wikitext = fetch_page_wikitext(session, wiki, title)
+        if not wikitext:
+            stats["wikis_empty"] += 1
+            continue
+
+        entry["revid"] = revid
+        stats["wikis_scanned"] += 1
+
+        for tpl in extract_transfer_templates(wikitext):
+            row = parse_transfer(tpl)
+            if not row.get("players"):
+                continue
+            stats["rows_total"] += 1
+
+            key = row_key(wiki, row)
+            if key in seen:
+                stats["rows_seen"] += 1
+                continue
+            seen.add(key)
+            tstate["seen"].append(key)
+
+            if first_run:
+                stats["rows_baseline"] += 1
+                continue
+
+            send, tag = classify(row)
+            if not send:
+                stats["rows_filtered_out"] += 1
+                continue
+
+            candidates.append({"wiki": wiki, "game": game, "row": row, "tag": tag})
+
+    # MENA rows first — if the budget is tight, they are the ones that must
+    # get through. Then newest date first.
+    candidates.sort(key=lambda c: (0 if c["tag"] == "MENA" else 1,
+                                   c["row"].get("date", "")), reverse=False)
+    to_send = candidates[:budget]
+    stats["rows_over_cap"] = max(0, len(candidates) - len(to_send))
+
+    for c in to_send:
+        row, game, tag = c["row"], c["game"], c["tag"]
+        headline = format_headline(game, row)
+        if tag == "MENA":
+            headline = f"[MENA] {headline}"
+
+        bits = []
+        if row.get("date"):
+            bits.append(f"**التاريخ:** {row['date']}")
+        bits.append(f"**من:** {row.get('from') or 'Free Agent'}"
+                    + (f" ({row['role_from']})" if row.get("role_from") else ""))
+        bits.append(f"**إلى:** {row.get('to') or 'Free Agent'}"
+                    + (f" ({row['role_to']})" if row.get("role_to") else ""))
+        page_url = f"https://liquipedia.net/{c['wiki']}/{tstate['pages'][c['wiki']]['title']}"
+
+        ok = send_discord(
+            title=headline,
+            link=page_url,
+            source=f"Liquipedia Transfers · {game}",
+            summary="\n".join(bits),
+            webhook=TRANSFERS_WEBHOOK_URL,
+            color=MENA_EMBED_COLOR if tag == "MENA" else TRANSFER_EMBED_COLOR,
+        )
+        if ok:
+            sent += 1
+            stats["sent"] += 1
+            if tag == "MENA":
+                stats["sent_mena"] += 1
+        else:
+            stats["send_failures"] += 1
+        time.sleep(MESSAGE_DELAY_SECONDS)
+
+    tstate["last_check"] = datetime.now(timezone.utc).isoformat()
+
+    log.info("--- Transfers Summary ---")
+    for k in sorted(stats.keys()):
+        log.info(f"  {k:22s} {stats[k]}")
+
+    return sent
+
+
 # ============================================================
 # Main — single pass
 # ============================================================
@@ -695,6 +951,10 @@ def main():
         and len(state["title_hashes"]) == 0
         and len(state["liquipedia"]) == 0
     )
+    # A pre-existing state.json with no transfer history means the transfers
+    # feature is new: baseline it silently instead of dumping a whole month
+    # of back-catalogue moves into Discord on the first run.
+    transfers_first_run = first_run or len(state["transfers"]["seen"]) == 0
     if first_run:
         log.info("FIRST RUN: indexing baseline, no messages will be sent this pass.")
 
@@ -702,12 +962,21 @@ def main():
     remaining = MAX_MESSAGES_PER_RUN - rss_sent
 
     lp_sent = 0
-    log.info("Liquipedia phase disabled — RSS only.")
+    log.info("Liquipedia watchlist phase disabled — RSS + Transfers only.")
+
+    # Transfers get their OWN budget, deliberately not shared with RSS.
+    # A busy news day must never be allowed to starve the transfer feed —
+    # transfers are the highest-value stream GGNewsAR publishes.
+    tr_sent = 0
+    if should_run_transfers(state):
+        tr_sent = transfers_phase(state, transfers_first_run, TRANSFERS_MAX_PER_RUN)
+    else:
+        log.info(f"Transfers phase skipped (interval < {TRANSFERS_MIN_INTERVAL_MINUTES} min).")
 
     save_state(state)
     git_commit_push("single pass")
 
-    log.info(f"=== Pass done. RSS sent: {rss_sent}, Liquipedia sent: {lp_sent} ===")
+    log.info(f"=== Pass done. RSS: {rss_sent}, Liquipedia: {lp_sent}, Transfers: {tr_sent} ===")
 
 
 if __name__ == "__main__":
