@@ -1,0 +1,882 @@
+diff --git a/.github/workflows/run.yml b/.github/workflows/run.yml
+index d7fbe11..2a5cfcd 100644
+--- a/.github/workflows/run.yml
++++ b/.github/workflows/run.yml
+@@ -29,5 +29,8 @@ jobs:
+       - name: Run bot (single pass)
+         env:
+           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
++          # اختياري: ويبهوك مستقل لقناة #transfers. لو ما ضفته، الانتقالات
++          # بتنزل بنفس قناة الأخبار.
++          TRANSFERS_WEBHOOK_URL: ${{ secrets.TRANSFERS_WEBHOOK_URL }}
+           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+         run: python bot.py
+diff --git a/bot.py b/bot.py
+index 997534c..8d7764a 100644
+--- a/bot.py
++++ b/bot.py
+@@ -71,12 +71,34 @@ import requests
+ 
+ from feeds import RSS_FEEDS
+ from watchlist import WATCHLIST
++from transfers import (
++    TRANSFER_WIKIS,
++    TRANSFER_PAGE_PATTERNS,
++    TRANSFERS_MODE,
++    TRANSFERS_MAX_PER_RUN,
++    TRANSFERS_MIN_INTERVAL_MINUTES,
++    extract_transfer_templates,
++    parse_transfer,
++    classify,
++    row_key,
++    format_headline,
++)
+ 
+ # ============================================================
+ # Configuration
+ # ============================================================
+ DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
+ 
++# Optional: a dedicated #transfers channel. If unset, transfer messages go
++# to the main webhook alongside the news feed.
++TRANSFERS_WEBHOOK_URL = (
++    os.environ.get("TRANSFERS_WEBHOOK_URL", "").strip() or DISCORD_WEBHOOK_URL
++)
++
++# Distinct embed colour so transfers are visually separable from news
++TRANSFER_EMBED_COLOR = 0x16A34A   # green
++MENA_EMBED_COLOR = 0xF59E0B       # amber — Arab/MENA org involved
++
+ STATE_FILE = Path("state.json")
+ 
+ # Cap to prevent flooding if many fresh items appear at once in one pass
+@@ -92,6 +114,7 @@ MAX_AGE_HOURS = 24
+ SEEN_URLS_RING = 8000
+ SEEN_TITLES_RING = 8000
+ SEEN_REVS_PER_PAGE = 20
++SEEN_TRANSFERS_RING = 6000
+ 
+ # ------------------------------------------------------------
+ # Single-pass settings
+@@ -140,6 +163,7 @@ def load_state() -> dict:
+             "title_hashes": [],
+             "liquipedia": {},  # "wiki:page" -> {"revids": [...], "size": int}
+             "last_liquipedia_check": None,  # ISO timestamp string or None
++            "transfers": {"pages": {}, "seen": [], "last_check": None},
+         }
+     try:
+         with open(STATE_FILE, "r", encoding="utf-8") as f:
+@@ -152,12 +176,18 @@ def load_state() -> dict:
+     data.setdefault("title_hashes", [])
+     data.setdefault("liquipedia", {})
+     data.setdefault("last_liquipedia_check", None)
++    data.setdefault("transfers", {"pages": {}, "seen": [], "last_check": None})
++    data["transfers"].setdefault("pages", {})
++    data["transfers"].setdefault("seen", [])
++    data["transfers"].setdefault("last_check", None)
+     return data
+ 
+ 
+ def save_state(state: dict) -> None:
+     state["urls"] = state["urls"][-SEEN_URLS_RING:]
+     state["title_hashes"] = state["title_hashes"][-SEEN_TITLES_RING:]
++    if "transfers" in state:
++        state["transfers"]["seen"] = state["transfers"]["seen"][-SEEN_TRANSFERS_RING:]
+     with open(STATE_FILE, "w", encoding="utf-8") as f:
+         json.dump(state, f, ensure_ascii=False, indent=2)
+ 
+@@ -200,10 +230,10 @@ def _clip(text: str, limit: int) -> str:
+     return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
+ 
+ 
+-def _build_embed(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "") -> dict:
++def _build_embed(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "", color: int = None) -> dict:
+     embed = {
+         "title": _clip(title, 256),
+-        "color": EMBED_COLOR,
++        "color": color if color is not None else EMBED_COLOR,
+     }
+     if link:
+         embed["url"] = link
+@@ -216,17 +246,19 @@ def _build_embed(title: str, link: str = "", source: str = "", summary: str = ""
+     return embed
+ 
+ 
+-def send_discord(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "") -> bool:
++def send_discord(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "",
++                 webhook: str = "", color: int = None) -> bool:
+     """Send one news item to Discord as an embed. Returns True on success."""
+-    if not DISCORD_WEBHOOK_URL:
++    hook = webhook or DISCORD_WEBHOOK_URL
++    if not hook:
+         log.error("Discord webhook missing")
+         return False
+ 
+-    payload = {"embeds": [_build_embed(title, link, source, summary, image_url)]}
++    payload = {"embeds": [_build_embed(title, link, source, summary, image_url, color)]}
+ 
+     for attempt in range(3):
+         try:
+-            r = requests.post(DISCORD_WEBHOOK_URL, json=payload, timeout=15)
++            r = requests.post(hook, json=payload, timeout=15)
+             if r.status_code in (200, 204):
+                 return True
+             if r.status_code == 429:
+@@ -681,6 +713,230 @@ def should_run_liquipedia(state: dict) -> bool:
+     return (datetime.now(timezone.utc) - last_dt) >= timedelta(minutes=LIQUIPEDIA_MIN_INTERVAL_MINUTES)
+ 
+ 
++
++# ============================================================
++# Transfers phase — Liquipedia Player Transfers pages
++# ============================================================
++# This is the source of truth for roster moves. Reading it directly means
++# GGNewsAR gets the move when it is logged, not when someone writes it up
++# hours later. Bench moves, coach changes, stand-ins and releases never
++# become RSS articles at all, so this phase is the ONLY way they arrive.
++MONTHS = ["January", "February", "March", "April", "May", "June", "July",
++          "August", "September", "October", "November", "December"]
++
++
++def _lp_session() -> requests.Session:
++    s = requests.Session()
++    s.headers.update({
++        "User-Agent": LIQUIPEDIA_USER_AGENT,
++        "Accept-Encoding": "gzip",
++    })
++    return s
++
++
++def _lp_get(session, wiki: str, params: dict) -> dict:
++    """One rate-limited Liquipedia API call. Returns {} on failure."""
++    url = f"https://liquipedia.net/{wiki}/api.php"
++    params = {**params, "format": "json", "maxlag": 5}
++    try:
++        time.sleep(LIQUIPEDIA_RATE_LIMIT_SEC)
++        r = session.get(url, params=params, timeout=30)
++        if r.status_code != 200:
++            log.warning(f"Liquipedia {wiki} HTTP {r.status_code}")
++            return {}
++        return r.json()
++    except (requests.RequestException, ValueError) as e:
++        log.warning(f"Liquipedia {wiki} request failed: {e}")
++        return {}
++
++
++def resolve_transfer_page(session, wiki: str) -> str:
++    """Find the current transfer page title for this wiki.
++
++    Tries the monthly page first, then quarterly, then the yearly page.
++    Returns "" if the wiki has no transfer page under any known pattern
++    (that is fine — it just gets skipped).
++    """
++    now = datetime.now(timezone.utc)
++    quarter = ["1st", "2nd", "3rd", "4th"][(now.month - 1) // 3]
++    candidates = [
++        pat.format(y=now.year, m=MONTHS[now.month - 1], q=quarter)
++        for pat in TRANSFER_PAGE_PATTERNS
++    ]
++
++    data = _lp_get(session, wiki, {
++        "action": "query",
++        "titles": "|".join(candidates),
++        "prop": "info",
++        "redirects": 1,
++    })
++    pages = (data.get("query", {}) or {}).get("pages", {}) or {}
++    existing = {
++        p.get("title", "").replace(" ", "_")
++        for pid, p in pages.items()
++        if int(pid) > 0 and "missing" not in p
++    }
++    for cand in candidates:                 # keep pattern preference order
++        if cand in existing:
++            return cand
++    return ""
++
++
++def fetch_page_revid(session, wiki: str, title: str) -> int:
++    data = _lp_get(session, wiki, {
++        "action": "query", "titles": title,
++        "prop": "revisions", "rvprop": "ids",
++    })
++    pages = (data.get("query", {}) or {}).get("pages", {}) or {}
++    for pid, p in pages.items():
++        revs = p.get("revisions") or []
++        if revs:
++            return int(revs[0].get("revid", 0))
++    return 0
++
++
++def fetch_page_wikitext(session, wiki: str, title: str) -> str:
++    data = _lp_get(session, wiki, {
++        "action": "query", "titles": title,
++        "prop": "revisions", "rvprop": "content", "rvslots": "main",
++    })
++    pages = (data.get("query", {}) or {}).get("pages", {}) or {}
++    for pid, p in pages.items():
++        revs = p.get("revisions") or []
++        if not revs:
++            continue
++        slots = revs[0].get("slots", {})
++        if slots:
++            return slots.get("main", {}).get("*", "") or ""
++        return revs[0].get("*", "") or ""
++    return ""
++
++
++def should_run_transfers(state: dict) -> bool:
++    last = state["transfers"].get("last_check")
++    if not last:
++        return True
++    try:
++        last_dt = datetime.fromisoformat(last)
++    except ValueError:
++        return True
++    return (datetime.now(timezone.utc) - last_dt) >= timedelta(minutes=TRANSFERS_MIN_INTERVAL_MINUTES)
++
++
++def transfers_phase(state: dict, first_run: bool, sent_budget: int) -> int:
++    """Poll every transfer page, send new rows. Returns messages sent."""
++    tstate = state["transfers"]
++    seen = set(tstate["seen"])
++    stats = defaultdict(int)
++    sent = 0
++    budget = min(sent_budget, TRANSFERS_MAX_PER_RUN)
++
++    log.info(f"Transfers phase: {len(TRANSFER_WIKIS)} wikis, mode={TRANSFERS_MODE}, budget={budget}")
++    session = _lp_session()
++    candidates = []
++
++    for wiki, game in TRANSFER_WIKIS.items():
++        entry = tstate["pages"].get(wiki, {})
++        title = entry.get("title", "")
++        month_tag = datetime.now(timezone.utc).strftime("%Y-%m")
++
++        # Re-resolve the page whenever the month rolls over (or first time)
++        if not title or entry.get("month") != month_tag:
++            title = resolve_transfer_page(session, wiki)
++            if not title:
++                stats["wikis_no_page"] += 1
++                tstate["pages"][wiki] = {"title": "", "month": month_tag, "revid": 0}
++                continue
++            entry = {"title": title, "month": month_tag, "revid": 0}
++            tstate["pages"][wiki] = entry
++            log.info(f"  {wiki}: transfer page -> {title}")
++
++        # Cheap change check: skip the page entirely if nothing was edited
++        revid = fetch_page_revid(session, wiki, title)
++        if revid and revid == entry.get("revid"):
++            stats["wikis_unchanged"] += 1
++            continue
++
++        wikitext = fetch_page_wikitext(session, wiki, title)
++        if not wikitext:
++            stats["wikis_empty"] += 1
++            continue
++
++        entry["revid"] = revid
++        stats["wikis_scanned"] += 1
++
++        for tpl in extract_transfer_templates(wikitext):
++            row = parse_transfer(tpl)
++            if not row.get("players"):
++                continue
++            stats["rows_total"] += 1
++
++            key = row_key(wiki, row)
++            if key in seen:
++                stats["rows_seen"] += 1
++                continue
++            seen.add(key)
++            tstate["seen"].append(key)
++
++            if first_run:
++                stats["rows_baseline"] += 1
++                continue
++
++            send, tag = classify(row)
++            if not send:
++                stats["rows_filtered_out"] += 1
++                continue
++
++            candidates.append({"wiki": wiki, "game": game, "row": row, "tag": tag})
++
++    # MENA rows first — if the budget is tight, they are the ones that must
++    # get through. Then newest date first.
++    candidates.sort(key=lambda c: (0 if c["tag"] == "MENA" else 1,
++                                   c["row"].get("date", "")), reverse=False)
++    to_send = candidates[:budget]
++    stats["rows_over_cap"] = max(0, len(candidates) - len(to_send))
++
++    for c in to_send:
++        row, game, tag = c["row"], c["game"], c["tag"]
++        headline = format_headline(game, row)
++        if tag == "MENA":
++            headline = f"[MENA] {headline}"
++
++        bits = []
++        if row.get("date"):
++            bits.append(f"**التاريخ:** {row['date']}")
++        bits.append(f"**من:** {row.get('from') or 'Free Agent'}"
++                    + (f" ({row['role_from']})" if row.get("role_from") else ""))
++        bits.append(f"**إلى:** {row.get('to') or 'Free Agent'}"
++                    + (f" ({row['role_to']})" if row.get("role_to") else ""))
++        page_url = f"https://liquipedia.net/{c['wiki']}/{tstate['pages'][c['wiki']]['title']}"
++
++        ok = send_discord(
++            title=headline,
++            link=page_url,
++            source=f"Liquipedia Transfers · {game}",
++            summary="\n".join(bits),
++            webhook=TRANSFERS_WEBHOOK_URL,
++            color=MENA_EMBED_COLOR if tag == "MENA" else TRANSFER_EMBED_COLOR,
++        )
++        if ok:
++            sent += 1
++            stats["sent"] += 1
++            if tag == "MENA":
++                stats["sent_mena"] += 1
++        else:
++            stats["send_failures"] += 1
++        time.sleep(MESSAGE_DELAY_SECONDS)
++
++    tstate["last_check"] = datetime.now(timezone.utc).isoformat()
++
++    log.info("--- Transfers Summary ---")
++    for k in sorted(stats.keys()):
++        log.info(f"  {k:22s} {stats[k]}")
++
++    return sent
++
++
+ # ============================================================
+ # Main — single pass
+ # ============================================================
+@@ -695,6 +951,10 @@ def main():
+         and len(state["title_hashes"]) == 0
+         and len(state["liquipedia"]) == 0
+     )
++    # A pre-existing state.json with no transfer history means the transfers
++    # feature is new: baseline it silently instead of dumping a whole month
++    # of back-catalogue moves into Discord on the first run.
++    transfers_first_run = first_run or len(state["transfers"]["seen"]) == 0
+     if first_run:
+         log.info("FIRST RUN: indexing baseline, no messages will be sent this pass.")
+ 
+@@ -702,12 +962,21 @@ def main():
+     remaining = MAX_MESSAGES_PER_RUN - rss_sent
+ 
+     lp_sent = 0
+-    log.info("Liquipedia phase disabled — RSS only.")
++    log.info("Liquipedia watchlist phase disabled — RSS + Transfers only.")
++
++    # Transfers get their OWN budget, deliberately not shared with RSS.
++    # A busy news day must never be allowed to starve the transfer feed —
++    # transfers are the highest-value stream GGNewsAR publishes.
++    tr_sent = 0
++    if should_run_transfers(state):
++        tr_sent = transfers_phase(state, transfers_first_run, TRANSFERS_MAX_PER_RUN)
++    else:
++        log.info(f"Transfers phase skipped (interval < {TRANSFERS_MIN_INTERVAL_MINUTES} min).")
+ 
+     save_state(state)
+     git_commit_push("single pass")
+ 
+-    log.info(f"=== Pass done. RSS sent: {rss_sent}, Liquipedia sent: {lp_sent} ===")
++    log.info(f"=== Pass done. RSS: {rss_sent}, Liquipedia: {lp_sent}, Transfers: {tr_sent} ===")
+ 
+ 
+ if __name__ == "__main__":
+diff --git a/feeds.py b/feeds.py
+index ecc8fcf..3da28dd 100644
+--- a/feeds.py
++++ b/feeds.py
+@@ -1,6 +1,12 @@
+ """
+ GGNewsAR Bot — RSS Feed Configuration
+-119 English-language esports sources. No Arabic sources by design.
++216 English-language esports sources. No Arabic sources by design.
++
++2026-07-14: added a dedicated PLAYER TRANSFERS block and an English-language
++MENA block (see the two banner comments further down). Note that RSS is the
++*second* layer for transfers — the primary one is the Liquipedia transfers
++phase in bot.py + transfers.py, which catches moves that never become
++articles at all (bench, stand-in, coach, release).
+ 
+ IMPORTANT: bot.py does NOT filter by "verified". Every source in this list
+ is attempted on every run, with no exception. "verified" is documentation
+@@ -250,9 +256,102 @@ RSS_FEEDS = [
+     {"name": "Esports Nations Cup 2026 [checked, EWCF national-team series]", "url": "https://news.google.com/rss/search?q=%22Esports+Nations+Cup%22&hl=en&gl=US&ceid=US:en", "verified": False},
+     {"name": "MENA Esports general", "url": "https://news.google.com/rss/search?q=MENA+esports+OR+%22Middle+East%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+     {"name": "EGamersWorld", "url": "https://egamersworld.com/rss", "verified": False},
++
++    # ============================================================
++    # PLAYER TRANSFERS / ROSTER MOVES  (added 2026-07-14)
++    # ------------------------------------------------------------
++    # The RSS layer only ever catches transfers that someone wrote an
++    # article about. transfers.py + the Liquipedia transfers phase in bot.py
++    # is what actually catches every move at source. THESE feeds are the
++    # second layer: the outlets that break moves before Liquipedia logs them
++    # (scoops, leaks, "sources say"), plus Google News keyword bridges that
++    # sweep the whole web for transfer language.
++    #
++    # All marked priority=high: a transfer is the most valuable news type
++    # GGNewsAR publishes, so it must survive the per-run send cap.
++    # ============================================================
++
++    # --- Outlets that live on roster scoops ---
++    {"name": "BLIX.GG (transfers/leaks)", "url": "https://blix.gg/feed/", "verified": False, "priority": "high"},
++    {"name": "BLIX.GG (Google News bridge, backup)", "url": "https://news.google.com/rss/search?q=site:blix.gg&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Sheep Esports Transfers (bridge)", "url": "https://news.google.com/rss/search?q=site:sheepesports.com+(transfer+OR+roster+OR+signs+OR+leak)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Jaxon.gg", "url": "https://jaxon.gg/feed/", "verified": False, "priority": "high"},
++    {"name": "theSpike.gg (VALORANT roster)", "url": "https://www.thespike.gg/rss", "verified": False, "priority": "high"},
++    {"name": "theSpike.gg (Google News bridge)", "url": "https://news.google.com/rss/search?q=site:thespike.gg+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Dust2.us (CS roster)", "url": "https://www.dust2.us/feed", "verified": False, "priority": "high"},
++    {"name": "Escorenews Transfers", "url": "https://escorenews.com/en/news/feed", "verified": False, "priority": "normal"},
++    {"name": "HLTV Transfers (bridge)", "url": "https://news.google.com/rss/search?q=site:hltv.org+(transfer+OR+roster+OR+%22join%22+OR+benched)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "VLR.gg Roster Moves (bridge)", "url": "https://news.google.com/rss/search?q=site:vlr.gg+(roster+OR+transfer+OR+signs+OR+parts+ways)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++
++    # --- Google News keyword sweeps: generic transfer language ---
++    {"name": "Transfers: general esports", "url": "https://news.google.com/rss/search?q=esports+(%22roster+move%22+OR+%22parts+ways%22+OR+%22steps+down%22+OR+%22free+agent%22+OR+benched+OR+%22officially+signs%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: CS2", "url": "https://news.google.com/rss/search?q=(CS2+OR+%22Counter-Strike%22)+esports+(roster+OR+transfer+OR+signs+OR+benched+OR+%22parts+ways%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: VALORANT", "url": "https://news.google.com/rss/search?q=VALORANT+(roster+OR+transfer+OR+signs+OR+benched+OR+%22parts+ways%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: Dota 2", "url": "https://news.google.com/rss/search?q=%22Dota+2%22+(roster+OR+transfer+OR+signs+OR+%22parts+ways%22+OR+shuffle)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: League of Legends", "url": "https://news.google.com/rss/search?q=%22League+of+Legends%22+(roster+OR+transfer+OR+signs+OR+benched+OR+%22parts+ways%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: Rainbow Six Siege", "url": "https://news.google.com/rss/search?q=%22Rainbow+Six%22+(roster+OR+transfer+OR+signs+OR+benched)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: Rocket League", "url": "https://news.google.com/rss/search?q=%22Rocket+League%22+(roster+OR+transfer+OR+signs+OR+benched)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: Mobile Legends", "url": "https://news.google.com/rss/search?q=%22Mobile+Legends%22+(roster+OR+transfer+OR+signs+OR+benched)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: PUBG Mobile", "url": "https://news.google.com/rss/search?q=%22PUBG+Mobile%22+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: Apex Legends", "url": "https://news.google.com/rss/search?q=%22Apex+Legends%22+esports+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: Call of Duty", "url": "https://news.google.com/rss/search?q=%22Call+of+Duty%22+esports+(roster+OR+transfer+OR+signs+OR+benched)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: Honor of Kings", "url": "https://news.google.com/rss/search?q=%22Honor+of+Kings%22+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++    {"name": "Transfers: EA Sports FC", "url": "https://news.google.com/rss/search?q=%22EA+Sports+FC%22+esports+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++    {"name": "Transfers: Fortnite", "url": "https://news.google.com/rss/search?q=Fortnite+esports+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++
++    # --- Google News sweeps: MENA orgs specifically (transfer language) ---
++    {"name": "Transfers: Team Falcons", "url": "https://news.google.com/rss/search?q=%22Team+Falcons%22+(roster+OR+transfer+OR+signs+OR+joins+OR+%22parts+ways%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: Twisted Minds", "url": "https://news.google.com/rss/search?q=%22Twisted+Minds%22+(roster+OR+transfer+OR+signs+OR+joins+OR+%22parts+ways%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: Nigma Galaxy", "url": "https://news.google.com/rss/search?q=%22Nigma+Galaxy%22+(roster+OR+transfer+OR+signs+OR+joins)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: Geekay Esports", "url": "https://news.google.com/rss/search?q=%22Geekay%22+esports+(roster+OR+transfer+OR+signs+OR+joins)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: FATE Esports", "url": "https://news.google.com/rss/search?q=%22FATE+Esports%22+(roster+OR+transfer+OR+signs+OR+joins)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: Anubis Gaming (Egypt)", "url": "https://news.google.com/rss/search?q=%22Anubis+Gaming%22+(roster+OR+transfer+OR+signs+OR+joins)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: NASR / YaLLa (UAE)", "url": "https://news.google.com/rss/search?q=(%22NASR+Esports%22+OR+%22YaLLa+Esports%22)+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Transfers: Saudi football clubs in esports", "url": "https://news.google.com/rss/search?q=(%22Al+Ahli%22+OR+%22Al+Qadsiah%22+OR+%22Al+Hilal%22+OR+%22Al+Nassr%22)+esports+(roster+OR+signs+OR+transfer)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++
++    # ============================================================
++    # MENA COVERAGE — ENGLISH-LANGUAGE ONLY  (added 2026-07-14)
++    # ------------------------------------------------------------
++    # No Arabic-language sites, by design. These are English outlets that
++    # cover the region: regional business press (which breaks the money and
++    # sponsorship stories months before the esports press does), plus the
++    # region tags of the international esports trades.
++    # ============================================================
++    {"name": "Esports Insider — Middle East region", "url": "https://esportsinsider.com/news-by-region/middle-east/feed", "verified": False, "priority": "high"},
++    {"name": "Arab News — E-sport (English, bridge)", "url": "https://news.google.com/rss/search?q=site:arabnews.com+esports&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Arabian Business — esports (bridge)", "url": "https://news.google.com/rss/search?q=site:arabianbusiness.com+esports&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++    {"name": "The National (UAE) — esports (bridge)", "url": "https://news.google.com/rss/search?q=site:thenationalnews.com+esports&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++    {"name": "Gulf News — esports (bridge)", "url": "https://news.google.com/rss/search?q=site:gulfnews.com+esports&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++    {"name": "Khaleej Times — esports (bridge)", "url": "https://news.google.com/rss/search?q=site:khaleejtimes.com+esports&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++    {"name": "Zawya / Gulf business wire — esports (bridge)", "url": "https://news.google.com/rss/search?q=site:zawya.com+esports&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++    {"name": "SportsPro — Middle East (bridge)", "url": "https://news.google.com/rss/search?q=site:sportspromedia.com+esports+(Saudi+OR+%22Middle+East%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++
++    # --- Regional bodies / ecosystem owners (English) ---
++    {"name": "Saudi Esports Federation", "url": "https://news.google.com/rss/search?q=%22Saudi+Esports+Federation%22&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Savvy Games Group", "url": "https://news.google.com/rss/search?q=%22Savvy+Games+Group%22&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Qiddiya / gaming district", "url": "https://news.google.com/rss/search?q=Qiddiya+(gaming+OR+esports)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++    {"name": "Esports World Cup Foundation", "url": "https://news.google.com/rss/search?q=%22Esports+World+Cup+Foundation%22+OR+%22EWC+Foundation%22&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Arab Esports Federation", "url": "https://news.google.com/rss/search?q=%22Arab+Esports+Federation%22&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Dubai Esports & Games Festival", "url": "https://news.google.com/rss/search?q=%22Dubai+Esports%22+OR+%22Dubai+Esports+and+Games+Festival%22&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++
++    # --- National scenes that were missing from the country sweep ---
++    {"name": "Jordan Esports [home scene]", "url": "https://news.google.com/rss/search?q=Jordan+esports&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "Saudi Esports [scene]", "url": "https://news.google.com/rss/search?q=Saudi+esports&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high"},
++    {"name": "UAE Esports [scene]", "url": "https://news.google.com/rss/search?q=UAE+esports+OR+%22Emirates+esports%22&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++    {"name": "Egypt Esports [scene]", "url": "https://news.google.com/rss/search?q=Egypt+esports&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal"},
++
++    # --- X accounts that break transfers first (needs self-hosted RSSHub) ---
++    # These are the reporters whose tweet IS the news; the article follows an
++    # hour later. Handles marked [unverified] were not confirmed live.
++    {"name": "X: Sheep Esports (@SheepEsports) [unverified]", "url": "https://rsshub.app/twitter/user/SheepEsports", "verified": False, "priority": "high"},
++    {"name": "X: BLIX.GG (@blixgg) [unverified]", "url": "https://rsshub.app/twitter/user/blixgg", "verified": False, "priority": "high"},
++    {"name": "X: HLTV (@HLTVorg)", "url": "https://rsshub.app/twitter/user/HLTVorg", "verified": False, "priority": "high"},
++    {"name": "X: VLR.gg (@ValorantEsport) [unverified]", "url": "https://rsshub.app/twitter/user/vlrgg", "verified": False, "priority": "high"},
++    {"name": "X: Dexerto Esports (@DexertoEsports) [unverified]", "url": "https://rsshub.app/twitter/user/DexertoEsports", "verified": False, "priority": "normal"},
+ ]
+ 
+ 
++
+ if __name__ == "__main__":
+     print(f"Total feeds: {len(RSS_FEEDS)}")
+     print(f"Currently working: {sum(1 for f in RSS_FEEDS if f.get('verified'))}")
+diff --git a/transfers.py b/transfers.py
+new file mode 100644
+index 0000000..7555530
+--- /dev/null
++++ b/transfers.py
+@@ -0,0 +1,365 @@
++"""
++GGNewsAR Bot — Player Transfers module
++======================================
++
++Why this exists
++---------------
++The RSS phase only sees transfers that someone wrote an *article* about.
++Most roster moves never become articles: bench moves, stand-ins, coach
++changes, analysts, free-agent releases, academy promotions. Those are the
++ones that break first and that nobody in Arabic is covering.
++
++Liquipedia's "Player Transfers" pages are the primary ledger for every
++roster move in every game — HLTV, VLR, Dot Esports and everyone else read
++them too. This module reads them directly, so GGNewsAR gets the move at
++source, minutes after it is logged, not hours after someone writes it up.
++
++How it works (no API key needed)
++--------------------------------
++1. For each wiki, resolve the current month's transfer page
++   (e.g. counterstrike/Player_Transfers/2026/July).
++2. Cheap check: one batched API call per wiki for the latest revid.
++   If the revid did not change since last run, skip the page entirely.
++3. If it changed, fetch the page wikitext, extract every {{transfer}}
++   template with a brace-balanced scanner (refs contain nested templates,
++   so a plain regex is not safe here).
++4. Hash each row (date + players + from + to + role). New hashes = new
++   transfers. Send them.
++
++Filtering (TRANSFERS_MODE)
++--------------------------
++  "priority" — only MENA / Arab orgs + Arab players. Lowest volume.
++  "watched"  — MENA orgs + the tracked top international orgs and stars.
++               (default: this is the GGNewsAR sweet spot)
++  "all"      — literally every transfer on every watched wiki. This is a
++               firehose: CS2 alone logs dozens a day. Use with a dedicated
++               Discord channel only.
++
++MENA rows are always sent regardless of mode, and are marked so you can
++spot them instantly in Discord.
++"""
++
++# ============================================================
++# Behaviour
++# ============================================================
++TRANSFERS_MODE = "watched"      # "priority" | "watched" | "all"
++TRANSFERS_MAX_PER_RUN = 20      # cap so a mass roster shuffle can't flood
++TRANSFERS_MIN_INTERVAL_MINUTES = 15
++
++
++# ============================================================
++# Wikis to track
++# ============================================================
++# key = Liquipedia wiki path, value = display name used in the Discord embed.
++# Add or remove freely — an unsupported wiki just logs "no transfer page".
++TRANSFER_WIKIS = {
++    "counterstrike":   "CS2",
++    "valorant":        "VALORANT",
++    "dota2":           "Dota 2",
++    "leagueoflegends": "League of Legends",
++    "rainbowsix":      "Rainbow Six Siege",
++    "rocketleague":    "Rocket League",
++    "mobilelegends":   "Mobile Legends",
++    "pubgmobile":      "PUBG Mobile",
++    "honorofkings":    "Honor of Kings",
++    "apexlegends":     "Apex Legends",
++    "callofduty":      "Call of Duty",
++    "overwatch":       "Overwatch",
++    "easportsfc":      "EA Sports FC",
++    "fighters":        "Fighting Games",
++    "freefire":        "Free Fire",
++    "fortnite":        "Fortnite",
++    "starcraft2":      "StarCraft II",
++}
++
++# Page-title candidates, tried in order. Liquipedia is not consistent:
++# most wikis use monthly pages, some only yearly, CrossFire-style wikis
++# use quarters. {y} = year, {m} = month name, {q} = quarter (1st/2nd/...).
++TRANSFER_PAGE_PATTERNS = [
++    "Player_Transfers/{y}/{m}",
++    "Player_Transfers/{y}/{q}_Quarter",
++    "Player_Transfers/{y}",
++    "Transfers/{y}/{m}",
++    "Transfers/{y}",
++]
++
++
++# ============================================================
++# Entities
++# ============================================================
++# MENA / Arab orgs — ALWAYS sent, in every mode, and flagged in Discord.
++# Match is case-insensitive substring on both the old and new team fields.
++PRIORITY_ORGS = [
++    # Saudi
++    "Team Falcons", "Falcons", "Twisted Minds", "Al-Ahli", "Al Ahli",
++    "Al-Qadsiah", "Al Qadsiah", "Al-Hilal", "Al Hilal", "Al-Nassr", "Al Nassr",
++    "Team Vitality Saudi", "Powerhouse", "Vega Squadron KSA",
++    # UAE / Gulf
++    "Geekay", "Geekay Esports", "FATE Esports", "FATE", "NASR Esports", "NASR",
++    "YaLLa Esports", "YaLLa", "Emirates", "Qatar Esports", "Zain Esports",
++    # Levant / Egypt / North Africa
++    "Nigma Galaxy", "Nigma", "Anubis Gaming", "Anubis", "Vendetta Esports",
++    "Sandstorm", "Villain Esports", "Onyx Esports", "Tunisia", "Morocco",
++    # National teams (ENC / Asian Games rows use country names)
++    "Saudi Arabia", "Jordan", "Egypt", "Iraq", "Kuwait", "Bahrain", "Oman",
++    "Lebanon", "Palestine", "Syria", "Algeria", "Libya", "Sudan", "Yemen",
++    "United Arab Emirates",
++]
++
++# Arab / MENA players worth flagging even when moving between non-Arab orgs.
++PRIORITY_PLAYERS = [
++    "GeneRaL", "Miracle-", "Miracle", "w1lla", "Anas", "Skiter", "Ahmed",
++    "Yousef", "Mohammed", "Karim", "Ziad", "MoHaMeDoV",
++]
++
++# Top international orgs — sent in "watched" and "all" modes.
++# Keep this roughly in sync with watchlist.py; it is the same universe of
++# teams whose moves are worth an Arabic story.
++TRACKED_ORGS = [
++    # CS2
++    "Vitality", "Team Spirit", "Spirit", "FaZe", "MOUZ", "G2", "Natus Vincere",
++    "NAVI", "FURIA", "Astralis", "Team Liquid", "Liquid", "Eternal Fire",
++    "The MongolZ", "MongolZ", "Virtus.pro", "Heroic", "3DMAX", "PARIVISION",
++    "9z", "paiN", "Complexity", "NRG", "BC.Game", "Aurora", "GamerLegion",
++    "Ninjas in Pyjamas", "TYLOO", "Lynn Vision", "B8", "Passion UA",
++    # VALORANT
++    "Sentinels", "Fnatic", "Paper Rex", "Team Heretics", "Heretics",
++    "EDward Gaming", "DRX", "Gen.G", "100 Thieves", "LOUD", "Karmine Corp",
++    "T1", "NRG", "G2 Esports", "Rex Regum Qeon", "BBL Esports", "BBL",
++    "Wolves Esports", "Trace Esports", "Xi Lai Gaming", "Gentle Mates",
++    # LoL
++    "JD Gaming", "Bilibili Gaming", "Hanwha Life", "Dplus", "KT Rolster",
++    "Weibo Gaming", "Top Esports", "Movistar KOI", "KOI", "Fnatic",
++    # Dota 2
++    "Gaimin Gladiators", "Tundra", "PSG Quest", "BetBoom", "Xtreme Gaming",
++    "Team Falcons", "Yakult Brothers", "Nouns",
++    # R6 / RL / mobile
++    "DarkZero", "Shifters", "w7m", "Spacestation", "M80",
++    "Karmine Corp", "Team BDS", "Dignitas", "Gen.G Mobil1",
++    "ONIC", "RRQ", "EVOS", "Blacklist International", "Selangor Red Giants",
++    "Team Vitality", "Alliance", "Cloud9", "Evil Geniuses", "Team Secret",
++    "TSM", "Luminosity", "OpTic", "Team Falcons", "Twisted Minds",
++]
++
++# Star players — a bench/free-agent move by these is a story on its own,
++# even if the destination is an org nobody tracks.
++TRACKED_PLAYERS = [
++    "s1mple", "ZywOo", "donk", "m0NESY", "NiKo", "device", "ropz", "frozen",
++    "b1t", "Magisk", "kyousuke", "TeSeS", "karrigan", "sh1ro", "Ax1Le",
++    "TenZ", "aspas", "Derke", "Chronicle", "Boaster", "f0rsakeN", "Jinggg",
++    "yay", "Zekken", "Demon1", "something",
++    "Faker", "Chovy", "Zeus", "Ruler", "Keria", "Caps", "Knight", "Bin",
++    "Yatoro", "Collapse", "Miracle-", "N0tail", "Ame", "Nisha", "SumaiL",
++    "ATK", "skc", "Cryn",
++]
++
++
++# ============================================================
++# Parsing helpers (pure, unit-testable, no network)
++# ============================================================
++PARAM_ALIASES = {
++    "date":    ["date", "date1"],
++    "players": ["players", "player", "name", "name1", "player1", "p1"],
++    "from":    ["team1", "from", "from1", "oldteam", "team_old", "old"],
++    "to":      ["team2", "to", "to1", "newteam", "team_new", "new"],
++    "role_from": ["pos1", "role1", "position1"],
++    "role_to":   ["pos2", "role2", "position2"],
++    "ref":     ["ref", "ref1", "source"],
++}
++
++
++def extract_transfer_templates(wikitext: str) -> list:
++    """Brace-balanced scan for {{transfer ...}} blocks.
++
++    A regex is NOT safe here: the |ref= field routinely contains nested
++    templates ({{cite web|...}}), and a lazy regex stops at the first }}
++    inside the ref, silently truncating the row.
++    """
++    out = []
++    lowered = wikitext.lower()
++    i = 0
++    while True:
++        start = lowered.find("{{transfer", i)
++        if start == -1:
++            break
++        # Reject {{transferrow-lite}} style false hits only if followed by
++        # a letter that makes it a *different* template name. Liquipedia
++        # uses {{transfer}} and {{TransferRow}}; both are wanted.
++        depth = 0
++        j = start
++        n = len(wikitext)
++        while j < n - 1:
++            pair = wikitext[j:j + 2]
++            if pair == "{{":
++                depth += 1
++                j += 2
++                continue
++            if pair == "}}":
++                depth -= 1
++                j += 2
++                if depth == 0:
++                    out.append(wikitext[start:j])
++                    break
++                continue
++            j += 1
++        else:
++            break
++        i = j
++    return out
++
++
++def split_params(template: str) -> dict:
++    """Split a template body on top-level pipes only (depth-0), so that
++    nested templates and [[links|with pipes]] don't corrupt the fields."""
++    body = template[2:-2]  # strip {{ }}
++    parts = []
++    buf = []
++    depth_brace = 0
++    depth_brack = 0
++    k = 0
++    n = len(body)
++    while k < n:
++        two = body[k:k + 2]
++        if two == "{{":
++            depth_brace += 1
++            buf.append(two); k += 2; continue
++        if two == "}}":
++            depth_brace -= 1
++            buf.append(two); k += 2; continue
++        if two == "[[":
++            depth_brack += 1
++            buf.append(two); k += 2; continue
++        if two == "]]":
++            depth_brack -= 1
++            buf.append(two); k += 2; continue
++        ch = body[k]
++        if ch == "|" and depth_brace == 0 and depth_brack == 0:
++            parts.append("".join(buf))
++            buf = []
++            k += 1
++            continue
++        buf.append(ch)
++        k += 1
++    parts.append("".join(buf))
++
++    params = {}
++    for part in parts[1:]:  # parts[0] is the template name
++        if "=" not in part:
++            continue
++        key, _, val = part.partition("=")
++        params[key.strip().lower()] = val.strip()
++    return params
++
++
++def _first(params: dict, keys: list) -> str:
++    for k in keys:
++        v = params.get(k, "").strip()
++        if v:
++            return v
++    return ""
++
++
++def _clean(value: str) -> str:
++    """Strip wiki markup down to plain text."""
++    if not value:
++        return ""
++    import re as _re
++    v = _re.sub(r"\{\{[^{}]*\}\}", "", value)          # nested templates
++    v = _re.sub(r"\[\[([^\[\]|]*\|)?([^\[\]]*)\]\]", r"\2", v)  # [[a|b]] -> b
++    v = _re.sub(r"<[^>]+>", "", v)                     # html/ref tags
++    v = _re.sub(r"'{2,}", "", v)                       # bold/italic
++    v = _re.sub(r"\s+", " ", v)
++    return v.strip()
++
++
++def parse_transfer(template: str) -> dict:
++    """Turn one {{transfer}} template into a normalized dict."""
++    p = split_params(template)
++    row = {
++        "date":      _clean(_first(p, PARAM_ALIASES["date"])),
++        "players":   _clean(_first(p, PARAM_ALIASES["players"])),
++        "from":      _clean(_first(p, PARAM_ALIASES["from"])),
++        "to":        _clean(_first(p, PARAM_ALIASES["to"])),
++        "role_from": _clean(_first(p, PARAM_ALIASES["role_from"])),
++        "role_to":   _clean(_first(p, PARAM_ALIASES["role_to"])),
++        "ref":       _first(p, PARAM_ALIASES["ref"]),
++    }
++    # Some wikis number players: name1..name5 / player1..player5
++    if not row["players"]:
++        names = [_clean(p[k]) for k in sorted(p) if k.startswith(("name", "player", "p")) and p[k]]
++        row["players"] = ", ".join(n for n in names if n)
++    return row
++
++
++def _hit(haystack: str, needles: list) -> str:
++    """Return the first needle found (case-insensitive substring), else ''."""
++    h = (haystack or "").lower()
++    for n in needles:
++        if n.lower() in h:
++            return n
++    return ""
++
++
++def classify(row: dict) -> tuple:
++    """Decide whether to send this row, and how to tag it.
++
++    Returns (should_send: bool, tag: str). tag is "" for a normal row,
++    "MENA" for an Arab org/player row.
++    """
++    blob = " | ".join([row.get("from", ""), row.get("to", ""), row.get("players", "")])
++    teams = " | ".join([row.get("from", ""), row.get("to", "")])
++    players = row.get("players", "")
++
++    if _hit(teams, PRIORITY_ORGS) or _hit(players, PRIORITY_PLAYERS):
++        return True, "MENA"
++
++    if TRANSFERS_MODE == "all":
++        return True, ""
++
++    if TRANSFERS_MODE == "watched":
++        if _hit(teams, TRACKED_ORGS) or _hit(players, TRACKED_PLAYERS):
++            return True, ""
++        return False, ""
++
++    return False, ""  # "priority" mode: MENA only
++
++
++def row_key(wiki: str, row: dict) -> str:
++    """Stable identity for a transfer, used for dedup across runs."""
++    import hashlib
++    raw = "|".join([
++        wiki,
++        row.get("date", ""),
++        row.get("players", ""),
++        row.get("from", ""),
++        row.get("to", ""),
++        row.get("role_to", ""),
++    ]).lower()
++    return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:16]
++
++
++def format_headline(game: str, row: dict) -> str:
++    """Short, scannable Discord title."""
++    players = row.get("players") or "?"
++    old = row.get("from") or "Free Agent"
++    new = row.get("to") or "Free Agent"
++    if row.get("role_to"):
++        new = f"{new} ({row['role_to']})"
++    return f"{game}: {players} — {old} → {new}"
++
++
++if __name__ == "__main__":
++    sample = """
++{{transfer
++|players=NiKo
++|team1=G2 Esports |pos1= |team2=Team Falcons |pos2=
++|date=2026-07-14
++|ref={{cite web|url=https://www.hltv.org/news/12345|title=Official: NiKo joins Falcons}}
++}}
++{{transfer|players=some_guy|team1=|team2=Vitality|date=2026-07-14|pos2=Coach}}
++{{transfer|players=nobody|team1=Tiny Org|team2=|date=2026-07-14}}
++"""
++    for t in extract_transfer_templates(sample):
++        r = parse_transfer(t)
++        send, tag = classify(r)
++        print(f"send={send!s:5s} tag={tag:5s} {format_headline('CS2', r)}")
