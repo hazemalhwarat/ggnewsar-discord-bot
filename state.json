@@ -1,35 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EZXRtakg3MnJFZlpRcnZWWFppS2VFZ1FYMUxjc1VJd0ZfMXI5VFloZnV6Qkc3WHRuQzlCUTV5RDZDbUZKWHhSQ0ZPTnF1QjFSOTB2bldPbUNqT2dRLTFHVVUtOHh4SjBGMmI2VVZUWGhGVGwwWVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XOHMtbXVvcWViZTVwVkU0NmQ4YkJBT1NaNFpWeUp0MEd6VXhKY3JDQi1KWWRjYnlfeFBCal9YY0lsb2lWMENRU3c4R0xyLW4xeFVaLWRUT0Y5bGFDcERsV1hPNmZZbmlu?oc=5",
-    "https://europeangaming.eu/portal/guides/2026/07/07/208953/igaming-software-development/",
-    "https://europeangaming.eu/portal/latest-news/2026/07/07/208944/behind-the-gloves-midnight-mayhem-ice-barcelona-2027/",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSU1adDdpNllodkV1OVFVbzJid2xfNmVMMEw5TmZGSzRoclVUS2tDZFJiMW1qaWR6dEZkZEVkdk1rMmhxTERBWGFQSXVUVUVwd1FkMXd0c0dXdS1IMVpKRXpXZFFvMFVwVXVPWl9wWTktcTZFUEZrSUI2eWdTMXRKVHZCUFh0VW9RbHRYVmpON0ljQTI3R0VKVmVaLVRIUTcxWmNuU21nV2NzMzJqQk1nWVhXTGlvakt4NXF5NnB2LTJwNUpzSk9zLUFzQUNIa1liZzA2ajNn?oc=5",
-    "https://www.gamesindustry.biz/bethesda-pivots-to-franchise-centric-planning-model-amid-xbox-restructure",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYUGdBckJvRFRoeXphWUtLS3VCSHl4MllSblFfc1Ntckxuay1JQVI0M1RqUHJjQW11MGJ0MDB6SU1oMnQ5ZWJSMjBiTkJjQ2lGZnpuT0NnVlVWMUk?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbkdBMGxwNjlOTmJ6YXM5bVNwWDNQcnVtelpRTmZJcUlIRFR0dXlxNnZKSjJZZ0ZjVzBjZHMtYWVGNzdhaExud2U3a0RkX2RZMnQ3NmMxYzZYOGphb09wRUwwYXlaRWZaZmpwaC1aa2tIUDM5bWlyTW5STENSVlRpa2JVcGZDWWRoSC1fZ2RLR1BmLXhaQWlKa1RCd2hBUXlXQVRxQVU3eEdYdUktYVdZQVJaQ1U?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEVZdXExaDZKTmpkNTFfRWFleV82VmVpVEJiUHVLRk5rbmt4R0g4VFF1WF9iV2ROWUN4YkJHaDM2aUQ1amNPeDVmWklRdXp6Y2d0RHVpSmw0dkt6a0xsei11OHBhb25oTWVGYWJTSzZGd3JnN3BOTExXd3FHRDlOMjB1dE8tZWpmdlU0MVZSUmphcEZ1TkRLSUlRcGl2cEE?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyNEtpUWNiVXhPcVVuUi1pVnoteF8wVHp0bFdJeTZLNWUtNVhEWlY2aGoxVUxtNDhBTjF4amZwQ2gtM0d0azRWMHc3MXktZmwzNE5KNjAxVm82X1FfRVNwTVl4cw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGp0X0hjUEwzRDVjOS1KbkFJTGJmUHNWRnZzZU96NEF4c3o0VFpUc1N0MjFGM0hmSUVDRE1ZLVlyYVd3eUd0ZXhQalY5SmlTRnhET3BoYlMtWjZTR29TTTkzYUhnUTNEdmRuZDR3M2tsYmdweUpGMXI4V3NXUjZBOHJwOHdvS0R0QTVBRHM0TWc3aVVheTZ6RXcyYUtqWnhleE9VbG9sMTFEZw?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LT3JENnR4c1piR0RzU2tZaC1oWl9adWNIb1dFZWpXVnJxTXQwTFFpU3FHdExZU1VyV0ZtUGZZZjNYUklhclpCdmU4MTZrV0gxRzJDTFo3cmZJVEdERFVMSDZrTXpweDB6dGtlZ2dYTVI?oc=5",
-    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS0VENE9mMlN2Z0Vsc0F0aFhDdFJsLVF6OV9sZzBwbDI2SDBaMjBBaE5QbjNiXzIzemxXaFVBUnhvSkRSMVlmMHItR3M4OTBhUUZUZWRfLUlMTG5McVdGSU5BdEN2cFlUOVhCZ3ZxUnp6VGYxNDBHaF9CakdpRkVVZHBiQW1GVDZGcURJUkJYbVRnbVZhYlFPRDFYaXBQaXpJaFM5QUJIaE9sZ29BdXNEdjZBNV82YnJwZlFBUm9wQ3N1N3Q4TVRjY0luOVZyNkpxRUJkU2VuZUxBWWJZVjNrdWdERE91bmZXa3I1NFFn?oc=5",
-    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNekxWbXpwMWRQUVhPYmtxQldsVmNTNjZEaGRWRTRDWVpGLWJVNmE4M2gzU2VYZThidmhpSWRfQnRvSXdpcTVJeEZMUUFQdVcycUEwSXM2UUpjVDlSQjk1ekJIU1REZXVvakJKbXJXRDNqU2dyS0tNMVlhN0FSWlJyMTktUzQxU3ZjbWlkd21QeHdkMnlYODBSa2d0dmt5dVBOUmR0TjdNZVJkaHR5VHRjTUZ2R3hDcmJfZXo3RE1pMmlZYUhCN1hNYUFpR1gwOU9BU3RlcjNMRjVFTHp4djNhN2lZZ1Zta25RTUpvMi1QazFFaWFrQWc?oc=5",
-    "https://www.hltv.org/news/45077/official-heroic-unveil-martinezsa",
-    "https://www.hltv.org/news/45076/brollan-departs-mouz",
-    "https://www.dotabuff.com/blog/2026-07-07-getting-the-most-out-of-the-dark-carnival",
-    "https://esports.gg/news/fighting-game-community-history/",
-    "https://insider-gaming.com/roblox-8-ball-x-codes/",
-    "https://insider-gaming.com/roblox-muscle-military-codes/",
-    "https://insider-gaming.com/io-interactive-regains-ownership-of-project-fantasy/",
-    "https://insider-gaming.com/roblox-car-flipper-codes/",
-    "https://insider-gaming.com/sign-dont-kill-the-disc-petition-sony-playstation/",
-    "https://insider-gaming.com/steam-refund-policy-questioned-after-people-refund-highly-reviewed-2-hour-game/",
-    "https://www.hotspawn.com/fortnite/news/fortnite-pro-am-2026-preview/",
-    "https://www.hotspawn.com/league-of-legends/news/lyon-vs-tsw-msi-2026/",
-    "https://realsport101.com/article/fc-26-selhurst-samurai-evolution-guide-best-players-is-it-worth-220k-coins",
-    "https://realsport101.com/article/when-is-futties-in-fc-26-expected-date-everything-to-know",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nVUtLQWttVjNMNl9QeUxEZWFkS2p5QjlJNUVZeGZEc2pldzNLWGkycU5ZNS1WNThTb2FvTUszMGVSZW9QUmFPRUVjZlE1R0UzTXdzZjl4U1RRX2tMV2VvZzdUVHJ2blExME9UQWh5Vk52MXZtTVZ3T0VB?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFFNQm9jdG5jY1FDTUxvU0VQUzh0dWJRRlFBaDJVSTJOUU9HMU5KOHlsQkVCWmYwQXZCZnVRTFc2NmcySWduVkZuTXVmdEVTSzJHSFZFZkdWVG9oeE0xakc0bENXUm1mbDBGLVNfYUhTN0RMYkx5YVZFUExnRjk2S3p5TVgxUHJCS0E?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE14NGtkNGxKVGJZb0dKbFBpMk8taGJCaE92SmdTRHltUy1UcmRRZ283Qm05WWVzaWFHaDRZTG1KRjFPZldmTmxfWm5MWkUtSTB1T05VeG9PUmZyUGdMVllLbS1TODF4NFZvR3BfcXBOS1RIZUh2OEl0Q0VlbXBlZw?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGpGRk1nbmhILUdFcW41QXRfR0ZWYnU3TGRtcGc4MlAzb3lrYXRiMjR1SUJ4c2dvQnEzR1Z3N19jcUh0NVFZZDl0M1dLZGN2VkQ4d1prdWZwSHRnbjhvTE1taVVKamg2bW1pQjg1MlJ3OS1uRGtDamQxZ3NmdUhITDdzV1hpdG5heUFhSEhRbVBFLXc4Nmtxag?oc=5",
     "https://europeangaming.eu/portal/latest-news/2026/07/07/208961/ukgc-stages-financial-risk-checks-defers-enforcement/",
@@ -7999,38 +7969,39 @@
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkwzcXE4NEVKNnhjLS1fb3JDbGF5ZjhNMFREU3VRa1BNR1pUd0lyWlNUWE5sWVB2TnFLQjhaZ2tGTVNLcHpKWUc2NWREbnl6VUpvTW4yWG1YRkZQVlZ5QUJiNDY0a0ZPSEFtTS1BTklTQVY4UlhDM2pSdkhvNFpTejU1eWk2a0VYQjhyMkVRVjFVeXd5UVRwbzNHRlh1cHRSQ2xVQS0xcS1DMEUxZEdJMFctN3p1TzM4aHBpMQ?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUDQwbnhEcDNRR05BQjF2LVgxeTZlamFneVp3dDN1MWNUTGZ1VFNGWExzeUVoeC11RHcxTlAtak5CYW02aU9xdGlKMDVvWE5ZLUxpc1FVeC14di1USTh1bTNlaGdYN0g3UE5Xb2pqNUtfWnpXY1VnbHFrTnhhanlaZEd1NGFpMllEY2ZMdlNGN0wzQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWdENlTFRMeS0yUGhEdXRyRUYxZDNEOVFwbGE1MFVnN2R6RFJKYm1WWEdzRmFPUlNIRElFWEliOGxVWDd0Y01oX1N6VURHQ0E?oc=5",
-    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcDI1RnE5OVlobW45SmlyWTlZMUM1eEtpYUVCZTRXVV9RalJvQUQtT3l3VzZiam9uMEJheFY0U1lCYmR0ZmxETmhBbE5qeUFQRlppSXRkajduX0pOc2Jja1duYm5EcXlaWTRLQ3p6YTQyMEpiRlJ2dml0eFctSFJhcEhjLS0zc2ExcHZzc0lkY2Q4UXFjSFQySk9fWUdKdU1EMEhPc25FSk9xcHVVRnBYZzhwdjlwQjBBckdMOVRoNnVrOVJOYkxodTdxZEhIa1NHZ3lXcXU4R05TTVRzM0hOZy1KbDFtcEdXMUpqaHQ4NA?oc=5"
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcDI1RnE5OVlobW45SmlyWTlZMUM1eEtpYUVCZTRXVV9RalJvQUQtT3l3VzZiam9uMEJheFY0U1lCYmR0ZmxETmhBbE5qeUFQRlppSXRkajduX0pOc2Jja1duYm5EcXlaWTRLQ3p6YTQyMEpiRlJ2dml0eFctSFJhcEhjLS0zc2ExcHZzc0lkY2Q4UXFjSFQySk9fWUdKdU1EMEhPc25FSk9xcHVVRnBYZzhwdjlwQjBBckdMOVRoNnVrOVJOYkxodTdxZEhIa1NHZ3lXcXU4R05TTVRzM0hOZy1KbDFtcEdXMUpqaHQ4NA?oc=5",
+    "https://www.hltv.org/news/45139/mibr-dismiss-academy-player-stormzyn-over-controversial-in-game-interaction",
+    "https://www.hltv.org/news/45138/new-phantom-surprise-pain-to-end-stake-ranked-day-one",
+    "https://www.vlr.gg/715867/envy-makes-nightz-official",
+    "https://www.vlr.gg/715868/giantx-brings-on-jesse-to-stand-in-for-musz3kk",
+    "https://insider-gaming.com/gunnar-launch-tomb-raider-theme-frames-croft/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-july-16-1231/",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X3dETXp5YndMblBRdEVPZFBVcWh2VnlMOHlRbDFnT0JtRWl2Vy1ERmFUM1paaVNXUHhKZ3pwY29NdU1FQm93bERSa0tSeXBqUHJNNEZVWWh1WldBT3RFT09uVWUtSVRxajNncS1mRnBtTWxJcUZOR0FiWjc?oc=5",
+    "https://mp1st.com/news/modern-warfare-4-kill-block-revealed-slabs-result-over-500-map-combinations",
+    "https://www.gamesindustry.biz/original-switch-console-lineup-to-be-discontinued-in-europe-by-mid-february-2027",
+    "https://www.gamesindustry.biz/sony-leadership-says-ai-tools-are-an-important-foundational-technology-supporting-our-strategy",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX2IwclM1OWtiQzhudUpmVmJFaWY4QnRnbm1jNnAzRndvY3BZUmVTUzdaaWVlZVhCSnZCUUdVaXJTT2N4QU9oRXUtdGg3YjU2eWpyaUJlak92MU4zV01xMGludlBRTlJKYkkyTFpiclo5MWw2eHJ0VmRCZkJEOGkyS3h0VnAzWlBFdjFsMy1ydDNDWWR1dGpDUUYyVGgtSE0?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY1dxQzN5dHpQdFNrWU1INkNhUjhzWG1HVXVDLWZSWmJiSWRhRHZiOEYyX3p5dTc4c3BFN0otc21OYnRmbDFwSXIwcUdIYUpZZmNmTkMtalJldjF0MmNCSTNncGU2MXN3XzMzcUxPMmFFa2hzOUVrNU9pM3AzZVR6SDNndk1CLTVWU2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KQklnYUF0emt0STU1NWVPTDl0aEJwZHAzakJ1Z1hvQ0Z2RzdXem9IRWZLSnVWZHNDaGZXTnUtaHM5X2d6cU1MWTZhb3YxYkhjc2hN?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkSkkxanhMQkttSlo0MkVCd2Z2aEtRVmFsUVE3Mk1jQ013eHhrejBjaFVPdVdUYUNkUWJiOGFhVklwM2N4VE4ySTFXTHgxRHB4NHhFOG9YWEZ5cFJfbmx1cExIVVY1N3ZNWEc2aVg2MEhsZ0NlM2FNNVZ6ZXYyZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CTllUOVh4SllYQV9TRUZLUXdOdkJrRUVsR2RuM3ByV294VXg2QWNYR2gtVXFoTTZUdjFxSlhyTENTcWdLUDdiWHhWSWFZeklNRlR0a3pUNGpWWEltb2h4dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qVG0xOXMxeS1uQXRZWk9sOWZub3hzTk1nY201anVqdFJmY1l2VGNrUXViU0U4X0I1T0RMakZvTy1OMDFPY0MxYzhKa1NybWxEMGcwSGp3NlFJZ042MENxNnYzNA?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zT29DTzFReG5EZUF0QjVfRkk3YzZXYVI0aUxNM3NpaFhCQXZDVE1QT2MwUjV3REtQZFpjZ0RDcGp5N09uUGhQN0pfd2ZObGtPU2ZnN1pkUnJNbEZVUHRGZ3VuTEFVc0ZKVmdiT2FJMzloOTdlT3hJ?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zbmZ3elYwNVJFdTlhQmFFdzZsaklMMVV2NlJEVkZkRko1WF9Ra0hDVVdNc0pRM1cwM2RiSEVYaTBqWkRFakxDd1F2UGFMbWtKVmh3?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOVXp2MjRMY3VMSzZNWDZVSGY1SUtYYlNNTGtUb05ZTmNUSEY5bmxPOUlLcTNRUDRlSi1CNDR4Q3FqYi1EZmw5UG55eElfUlY0NHhRanpmMXdXQnJmQ1F3ZG4xbVpneHZtZVJpMWJMRkc2Q2p3UkR4QW1YeEdrRE5COU9Kc2k5S1RPWHZvLWpWczFXaEVpZFhHTjV0ajE4UFFtOXhpbnMxWlhTdFNZZGlNQ3NFeHBzUFlEb1lmMFU4R3NtUEFybExHMGFkWVBxMnVNSnNYUkNsRV8xeGRaOW9ONnZWNW1TYlVOeTRLWEtENlFFLWxKTDh0X1UzakFzTGVZWkRjSE95TkFRZE9sVXhPN3IyenFRYnJiVUdSXzFQTzhMZ251MXdCMWhHQ2JYekJmYnJQLVBzZ05jX3NVNjFoWWlZZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYjFRUDllWVdBMV9ZRkI5VlFpdDNkR2ZTSWxDNDRvN2ZiNXFHMTdnTDZ5cFJGbnJ2TzRadU5fcEw1QWVVMGY5R29QV3lVbXFBbk5XcXo1QUt0bUtXT3VlLXMyRF82RmlPN3BnLS1NUVlFTUxBelJsVXl3MUduWkN6UjNndFNKTHVpMldaOFlDdDhSd0Z6MjU5MjlLak1ETHRoVWZmXzljZE9zaWpESG55WFgyZHh0WFQtS2tn?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3VpSS1haENGNWRlT2VNTG1LSFZsM3Rhc3dMT3NFX2l4cmtHNFZOZjVqMGRqMHJMM2pXSFpoOFUzQ3RSaEtGZjYySUhWZHhkMEJtZTNfWTJ0TlA2T3psMnBuRW9ITF91OHlwdHlDSHNtT282NXNhbmdaNnRBVDdHanhMdC1jejhldWxjeExR?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQem1HTzRsdEJOanFWMk1rSTRnRkxhZ2NfWGQwMW5zOExCM2g2MXZCQ1RycTdtM0xpQld0TzVXQVQtaWlHenJaTUJnazZObU5hMTdKamdzN3JSM0FTdUR1VEkyVDJmUU83WDdGRnRobnNCbXNMaTAzamU4bkF3YVBfLXdQQl9JdDdNb25GeUdhVFcwckQwOU42MGxmSEZqd196UkYtcERSOXdzaUhwR1kwNF9IdVBtMkNmaVV6a9IBwgFBVV95cUxOWUZKNnNfcDBEUGduVzJ1UDRQejY0X3VsUzJfemd2NUVjdVpvX2JvLTR4Wmc2aXc4NmVaWHZuWVZEc0F5UFZjeTZyRWtRc3dTZDF2amJoS3lOTmkwRV9IYWZSamJlY2kxTUpBa19BZXYydk9JYVhkQlpEMTRUT3llTmlGczBNVUdoZGh1a2RfTjNybHFpSFRlSXJYT3ZmZnlPd0Q0Snh3TlVWNk51QkFzMGVob0QxQlByWVFEbUc2MzJWUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFFzNl9IYTdfNElvQnBaUm1CNDBvSTJ0aEhhUXF5b0hDYkdGdFQxR3hPSEYyM1FTSFFyMGY2azFGSkp2Z1djVzdpNnR1MVJMcVFmbWJUOWJ1ZDBPNHpWVlFtUWRCYVJ4bWpWQlZHUUJxTERhT0RVVkp4OGR5ZTZRbzNTXzR2SXlleDA3U0JRZkl4RzA2WWppMlBfRUZMNUlvTExjSUk4RUktWURXM0s1REFIX0E4aXFnZ3RpNktIR3hZUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMXdTMnhTcF9ndWg1QmlTbDRZelVGR2Q5R2dHeWZQVVRxNTk2ZzFvUzJ2cExPMU50MEhHSDBWRktHaTg3WXhFWWRqeDNadXpzUGd1SjE5dU9Va3NRb3ZORFFPcnNRcmhjSEs5THBrLVYzS09qQ0szcWxmdGxqcnRUaXlSNmNYY01ERzZlYWt6TGwtdXA0elp3clFUcXU1dVZwOHZuQ0NfQUFwbktBaWJjTENySDhVeWpvLU03TnFkenZaWTlqbnliOWd0OHJRWlZKbDBkMlZUeW9TdjNBUG5UenBGeUlBVWR1aEJOSGFoY0JaRHVwTFHSAfwBQVVfeXFMT1l5T0ZDRVFQYmFtLVdSdVM1MTlxR25ZQ0lyMnc2VmVwU1ZPdjFJY1RkWlM1OENJaVRvNl93MW1oQWVFN0pVNkxyWk41M1dNMG1LUFh1MVFrSjhpdThlZDR3d1M2TFNCS2toMFV2Y0RWdDdoRVJCOEVqVnZXdTNabXlmbF90elJSTnFkazJBWmtBWTFHTVZOTGFTamNrSEJaSTNHQXZFUGFFenVFOHdXdllmTm1BSGx4Z2tVRVhvVnBlWGE2OEdBZnE2dU1jTll4ZjhlT08tYk53VzZBaXk3WHhhSno3aFVsVVN5T2E1Vm8zeFo4bm9Yb0Uzek1T?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUHo5b1dhQ3dCdWthTGtaUkxVZkQ3VlVIUWx6UXVHU09sSkszRGdiTGxTMEpsS0tTVWN5Y0kwUmI0RGhLajdhLTR4a19CUWh1TzhYbFBwWUhsV3JjMk1OSy1XODF3ZDhmQjNDTlYyaFdmVGhmZ2hZQ1NxMjh0cUVJWEhZOA?oc=5",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQNzNnQ0pVUGtmcjF2bURJb1ZLdEtwRllwQk10UjM3eEFQTnMzTWRhUnM5Y3NrUkVwTDBDMWRjSldiUDJLeHhGWDgtOUlob2ZYQkVEeTFUckg?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb2dwZGpMYUJvSHVXU0laZ043SER4clY4cWNsYmxDdE1fZ0l2akRLNHRNNi03MlBmaVc2ZTl5ajhHdTN4SFVncXk3YkpLZWdZSHJLSkppOHU1Z21zRWYxSVNobWx2bWJQUzJfNnlsQjNfTFZ2dlVDTzVJVGMwU0gteTNoUnNaM1A2WGJuMmMxY1EwX3pTcGQySmJ4bDJLajZxaVRRTmFzVXVDMW55SXc1UnVJUTdkLUVkZ2FtZHk4VlI2Q2Y1RUHSAcwBQVVfeXFMTWhFN0FDVWZqS2tldVl5NFE0Ykp1cHljMDBncThmTDR2SU1EZXVCdUlzYjBkNm1XWVFRY2UwWUttTkR2SnprZF81Nzg0NWpZVkstSXR6YjI1eHIzTlljVVZ1Q013ZDMzWXE3OGV3TzBobXNsNzVKQ3pkNlUwclVkMzBOMHFnOXpPZ05LMUt0cHFtclJPNFFHRXQ0c3dYZVlRSWRnMl9hNk9CaXpYTDVoa0VCWXVwWklFa1VGZE03bU1mWjZ4dEltakx0R1FB?oc=5",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaGJQWF96dmpmdXFmbUJoeHk4eHJqZWdSMHlCdlZodUl5eXllMEp1Z014NDRQcEVhWDY0VXFFdDVjd1d6Rk9RQ29iRHA0ZGp0dUhXV3pKeDlLaGNaczZmSTVFc09iVExHZTMwWk5TTlVnSlJXX2NjOTZ1WEF2eXhNYU1XM0RVRmNOWWhYX2pyeVlvc3hOQVZzNzI5aTJvbU5rb0w5ajZHc09ILTM3aHZpMXJiQVd4ajA4Wldic3BCYWprdnZuS2NydWVFX3lPT1U1MFBya3lnZmRLQWhjYjl2bmZXbEtOVTc4?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeExBWkpjSER4ZVRBTEExaTF5UnlGYzRfWVoxb2Z0eGVWM3JyaHJwR2RDaHE1OVV2NmRWVTNvYWVoQ2xZUzAyMGJwbXZLZ2ZtbDhLYUUxMXh5TDI4Y3V1YXV3WGk5b3dqaWpXTlFfbkRkckVVVmRSMkpZVmlFeGVpM3paZENvQUt1OHJz?oc=5",
+    "https://news.google.com/rss/articles/CBMinAJBVV95cUxOSkdXU0R2c1B0NHlwcFIyTmw4c05rWkcycjdRcTRaZkE1djVtalljS2VlUmcybkdQRkE3aExIUG54ODlMLWE3NzhuU1FTeTdObDh2bVRQMmlJZDlHSXIyNmNvV0dUNDU2a0ZqUHdwUjBaNXVuZW02cllrZUs3ZVk0bERUam9ZYVZpWm50QTh6UnAybmt5eThiN2pvcTExX0Q1R2VrNWhXUk1XeER6U2lpQVE2c1A0ZmV6QXVUY2dWcTJITHl2R2F1by1IUWdMV1RhSlZJYURkNFk2eHlFZFNCNTA2YnJKaUUtYWxWcEI1RHAtWm9jbDA4d19TSWZpWk93cC1iOG45a3lSWi1FcXFveHlrWmFRZEZYS3lKUQ?oc=5"
   ],
   "title_hashes": [
-    "fcce144015a395e498ca2811f433d2a4",
-    "d13c9bc620019552dbbdedc4fcde79a1",
-    "6f1528e10bb2f40ebce3d996219096ec",
-    "988ea926283983f504a178e00f6c11fb",
-    "39badf0415bae4f7e8645c705a64d221",
-    "09b79ce02eab310b4b876e7eb3b1a771",
-    "d0ea2749e5b8fe1dff9173c076844f70",
-    "44d66556526aec5ad10eef631544e277",
-    "1a812027ae52ac5eb88b72d382f75548",
-    "4e917927ac7648f1d56e277cfd5e6fa5",
-    "dd59f07e39d3d8d0f65d55fa04cb7736",
-    "d4a8575c0ba330029e412a1ea866e363",
-    "4c172de283ab3d8b2d2d5ee88d359b8f",
-    "67980fed81bfdd7569d16ae75fcaf378",
-    "26be6f30df2190d67ac9380ec24f2787",
-    "dab59f23557c44ae15e37b1d87f7b859",
-    "8277b91bf0525c60b4099666f35a2ef4",
-    "3438da74179ddba3db869d271518a8ec",
-    "6293a7f169688a297d1dd7946c005c2b",
-    "9ae9dab13f48ec2e0c43b13560bbe13b",
-    "f14cd90ad4cd5ba6d775348fd4d89deb",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "5e35581f60ddafb63697f701fe79faa6",
-    "dc8c478220bc0ba436ea6cdccf2bc47d",
-    "f8cd28a753ac39a2aa5376209438ee5e",
-    "630f9e6355c1e75fc0c77d4f4026b0f0",
-    "f556623850ad52afe691e43280e1cbe2",
-    "431d88353b2012d7845e3af06f0292bb",
-    "12560f9cda8aa13c047b693f4c9b71bc",
     "8d83f11faec051b9b3bb4fe8830186a5",
     "9926792e84bc01ebac8dd3b8cc8c0ceb",
     "ea297e9d33b596f660e4a1bb65e3ece9",
@@ -16001,7 +15972,36 @@
     "718294c11f4ec79e159c97c36bb79356",
     "3830c3475fa8ec8461165d595b07982a",
     "051381fc2490b87af48581061b37aa5f",
-    "19542632536c83065280abf9318186a4"
+    "19542632536c83065280abf9318186a4",
+    "372deb4c07bc0953d1adb30b8422ba11",
+    "e0335b1579e12bbabc03cc5814931820",
+    "da2d68aa2503ab452d2f2f5365fddcf3",
+    "fedf3d2f6c83c99f5720c3824a22d2df",
+    "d560b884f2327ec36bb76f759709db4c",
+    "9829944c19b5eef437d804bbdcff3ad6",
+    "7e75a3a8c61a77d768dd8af77ec2b783",
+    "98fda2ec6caa41462aebec40a24f4a57",
+    "dc83f8e808b7786d5cb8030a803e8904",
+    "40e87981dcab3bb153bb907f970e2006",
+    "99baa75b5b511a30d5ed7e3617fd4f00",
+    "d4d4f95ddb6dcf4c791c4dacac11f8ea",
+    "8f17bd7fda061062866b7a6e1dbd22ce",
+    "4b7229383842470749c1061430e93729",
+    "fcb0dacc3a85d740a635bf74535cd21c",
+    "2b0ccc8e098dec7049b9f927380a893a",
+    "67b9c7862b95f8a047ab914292fd42b2",
+    "957b1720a6b655765287a4f85ed37072",
+    "c4ee1439f311195d21186a8d235ef7e2",
+    "333e80e378f31ecdc92e360e0a513c2e",
+    "ca66b939e9e6360288997ff235ab3c10",
+    "df85b3affe630dd8e22c8f02c8ce5ada",
+    "e0ffba1d6d5149c84d65da7c4fc83de7",
+    "94152a8e4756b360ad49f0e606025590",
+    "5a308652f51ed2ce651598fb7313b84f",
+    "7925af2423ccba488f3b8eb2b6ac676a",
+    "dff653d3d4dd1049796bdf52547cb665",
+    "c6dad97574390a690e30df56c511258c",
+    "c76ba99428c9d3f16f9d7b1f8fd9914e"
   ],
   "liquipedia": {
     "counterstrike:Astralis": {
@@ -16678,12 +16678,12 @@
       "counterstrike": {
         "title": "Player_Transfers/2026/July",
         "month": "2026-07",
-        "revid": 3414816
+        "revid": 3414905
       },
       "valorant": {
         "title": "Player_Transfers/2026/July",
         "month": "2026-07",
-        "revid": 1308636
+        "revid": 1308645
       },
       "dota2": {
         "title": "",
@@ -16693,7 +16693,7 @@
       "leagueoflegends": {
         "title": "Player_Transfers/2026/July",
         "month": "2026-07",
-        "revid": 1035107
+        "revid": 1035144
       },
       "rainbowsix": {
         "title": "Player_Transfers/2026/July",
@@ -16708,7 +16708,7 @@
       "mobilelegends": {
         "title": "Player_Transfers/2026/July",
         "month": "2026-07",
-        "revid": 289588
+        "revid": 289701
       },
       "pubgmobile": {
         "title": "Player_Transfers/2026/July",
@@ -16723,7 +16723,7 @@
       "apexlegends": {
         "title": "Player_Transfers/2026/3rd_Quarter",
         "month": "2026-07",
-        "revid": 611113
+        "revid": 611117
       },
       "callofduty": {
         "title": "Player_Transfers/2026/3rd_Quarter",
@@ -16743,7 +16743,7 @@
       "fighters": {
         "title": "Player_Transfers/2026",
         "month": "2026-07",
-        "revid": 423510
+        "revid": 423544
       },
       "freefire": {
         "title": "Player_Transfers/2026/3rd_Quarter",
@@ -17906,8 +17906,20 @@
       "749e912e46934280",
       "0e4b1bf4ea1c6461",
       "385b12f43e6e0859",
-      "408bbae42b25a5df"
+      "408bbae42b25a5df",
+      "d07c219e64017199",
+      "e82cd384316132ae",
+      "228313e3e86110a2",
+      "28e1362a2cf8d518",
+      "b3cac9371c015870",
+      "7faf2a23d8a44666",
+      "19cbb398903e3673",
+      "4f47a0e9c1d67368",
+      "862e15e7f7346174",
+      "15e19dfe2c30cb91",
+      "cb6a3b2994f66e7e",
+      "3de9729648fb68cb"
     ],
-    "last_check": "2026-07-15T20:46:55.303767+00:00"
+    "last_check": "2026-07-15T21:40:54.815408+00:00"
   }
 }
