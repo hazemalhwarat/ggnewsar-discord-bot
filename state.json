@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4MkdzaVF2UkpVWHpiOEhDaHVNa3pUZElwOVRmZkx4MWpMVmgxdGh3NzdiQVNuQVBuNUJqbXZLc3JjWTN4UHlEYVd4bmtEZjFZWkZnaTVQQkwtUzhEWDN3eWMtV1hZcnVocnBXeFQ3Mm5mN2s?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EdEZsSk9scFJCOXBHc09QcHlBTDhycHFUM2ItVXprLW9xaDV5VmFyMzNRRHR6ZnlUUC0zSmxjbEo5ekRpTncwTnJ3akRKWnB4YlFOT0dMUS15LW1TU0g0MzZQMlpMV2x4bEdWYXV3a0FtZ3hTcWRaZWZUb0EtdWs?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PRUNHYXZvcVdad0k1VDdORmdkamkxUkhsRlg2NWtGY09Sa3VyamdGVXN3Q21CVzNCQ1VtSUt0MEk1b3h6YXRNVGh0YVU?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lOTdVSDQ2ZWkyUWp0YzNQbjN1RVJzRFVFblV6WVZsUzhxS2x0bGNuUjBHSi1LR083YUdtaTRsd1NqOTU3N2tsanlFbHpHazh0UmVHOWFPQUdCQXJ0bDhOY0xDSFBHZnRw?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVm5CdS1BOHh3SjJjOHhYWVFkUkwwQmZ4YUhvQ1VOdms0MzhFWF9fRWZIVHpvRWw5WEpGS2ZhUG1vcUNZd28tczlIcHVLN2NiTmR0MXduZUhXNENFd0hrUmE4OTNuekR1cmtnbmhxSEgzazJqV0M0Nm5raGJ4Nl9EQVBoeDFxeHdPS0xaWXN5WFd5ZjBaNUhLOXk2YnRNZlA1YmxV?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EblNjLWdid2Y0U19nYkNDaEtmRmNZVDJ0RGdmUVF2ZVJfNDJwMzF1WnVuMVl5RzVETnBnWnZWTkdVRTMzRGt4eEdFbnNpWlNab29Db2NiR1lkM2hUdGFN?oc=5",
     "http://www.nerfplz.com/2026/07/best-champions-ban-tier-list-for-ranked.html",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMzFmdkFLY1pGY0NoQndlUC1iUjIxdlM3UVRrcHBmOTZNT2l3Qld2ZHZGYjZUOGRmSXp5d3JzOWJoNzZ3eW15VkZyWE5IUE9TR09lWUlCY3ZCcHpzQ3FRZGhnaVlmcFpabS1CblNySk44WUdFc0ZxNUNTaWJHeWlMY3FvaDRSQmZ5M1BOT2YtMGlTQS05R1N2a2RLOVFmMktjSnliY1VTLUJBeG5XSUw0bHl2b0Q0eDZlWGhqVm1MVWFkbW9KeEMtSFRMVkVaMENDdVNTTFB3?oc=5",
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWE5kbG9MdzViR0ItMTU0TS1iU2xDXzBMcTU3Wnc5SUJabXMzY0VnQUtiRmxTOXRLeVNLNFF3ODU2YjI2eURKa1c4N05SQkVhOW8wUTF3SzlFTnBDR1pJVnNySTJRVmozc3dmN3dINjNYUUttMlBGTU8zZUpDTkVmeTRldi0wd0lJVnVoZXpDTmFXcUh1NFpPOEk4YWpLa0RHWXR3ZV9mZkhhNE1XcUdITmVFWE85WVgzX1dVcjVqbld6bHp0dnQ2ZmZ1aVZIVS1hRU1wbUhScXRSaTVqRFE?oc=5",
@@ -7999,13 +7993,15 @@
     "http://www.nerfplz.com/2026/07/official-patch-2613-notes-released.html",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4REppdmhRRkdBRXRjSmE2Q29qcTdyZzJtd1Y3SjZYSjdWTUhtcmxRemJUQ0ZmUG9WUWs0YkoySUZ6WXlLNGtDVXNrZ1kzQVBPbmFNMnM2N0Z0bGZl?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVENxa2xkVzB5aGp3LWl4X09Zd0drSHJMQmpvT2gxYXl0dGFQQXhoMWQ1bUo1d1hWYTUwZHJPRjVBSU5kTEk5Rkk5YnF0UUIxWTBqYWJPSEJWc1BNSVpfSElkZmp1R2lnbG54OHNIcG54ZnNnY1N1SlZMNlo5Q0duRmtRNG16R2FJY0NzdHhMMWsxYkk3Vkl5N2ZRSjdvNWZNaVp1UGNXNA?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBha2h5Ym85TjNqcEdIU3VMaDdXcXozMjNaeTFPVGVOMUlZdlBrV0dZUlJTU0Q2a2szU1JnWVZ6cUZZRXo4VGlsUmNkQVc5SzZWUTcwejBOVVp6RnZSajZkbS13WFY1NkV0RUIwWW9BUDQ3VzQ?oc=5"
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBha2h5Ym85TjNqcEdIU3VMaDdXcXozMjNaeTFPVGVOMUlZdlBrV0dZUlJTU0Q2a2szU1JnWVZ6cUZZRXo4VGlsUmNkQVc5SzZWUTcwejBOVVp6RnZSajZkbS13WFY1NkV0RUIwWW9BUDQ3VzQ?oc=5",
+    "https://www.gamesindustry.biz/developbrighton-showed-the-uk-games-industry-is-done-with-hand-wringing-and-is-determined-to-save-itself-opinion",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yNUZuMWt2SWxrQ0hWVVJjOXE1ajVpSmg2MklILUx4QjhNcDUySE9XRnN3V2tUbE9YZXRtYjk3NHZpU0ZCU0tqLVN2U1ZNOHhVbE93cThKSnFQLWM3eE9WM001MVB3dnRvdGNBS003UUUxemNNUm1NOVVha3g?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCTFByeHRJcDBwSmVnMjhRc1FXVzVlM1hublk0dG50TXo3VEhxb0JiaWxMQ0gtOFJaOVNBdG03UWJHT1NjVGhUa2pUU1lRMVAteDVuOXhCSUthWjZmamc?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUxpOUppNW9hZHZsU2VxRkY0eExZNVlEdFEyeHhJSVE1VGluLThrLWdCc1JHZVQxSEpQeHJXelFSbVZpWUZtRkd6SlpZT3hCbllHWkp1UGdKVS1oNlJPNk5kNWlWT3lUT0g4R2tqQ2JiUnBKbnAycVh3TVFmOFBCY3VLYThyQ2hJdTNSNTl5MWp3cTJ5ZGNv?oc=5",
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lTUVMQmc4cjN0emsyNWpieUMyd3hPMk90YzNRWkdSTWRhNXRhNVNNVUVJNk50QVF3RXRRaUVicXdtNDVUMUdtSFIxTU5SWGJs?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQNmFuYmVoMlQ3ZkZFXzFmRWNQRXNTV0EzdGhGcm1OWWUzU0ROTlVaUlBWQzJyNVcwQ0RKdjFWZTZ3VzdOZzdoZHhTWndvdWh3SGZ5dXVLc1hWZElyR3ZQamxnTHpOUDVFV0E?oc=5"
   ],
   "title_hashes": [
-    "ca7b15ed0bc22074f71ac971b764e45f",
-    "70e8d368cf6975786606b093416bb474",
-    "b0be34d1e0ceb47e62fbc4a79c4398a1",
-    "7da45ae2f995787160a384cbdc63ce9c",
     "e8fdda8d3656f215f5c2884a34cec85f",
     "d939908ac37625ac31a67c0d1bb48ef8",
     "b855563c833b36e156bbd785eef73a51",
@@ -16001,7 +15997,11 @@
     "660d24f1fca0d93ebb37934e5488ef51",
     "641a4f17460dd9886041b25eae00e4f6",
     "0035ceef44742b4df22726db8cdff343",
-    "9e307ba1009049a27b2939e01af4b286"
+    "9e307ba1009049a27b2939e01af4b286",
+    "f25d8e69af9af2910a174405993b6c31",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "b7e6d98f8409ace94296b73031e32dbf",
+    "ae6fe28c81f2fbc57c0ca4290ff160c0"
   ],
   "liquipedia": {
     "counterstrike:Astralis": {
@@ -16703,7 +16703,7 @@
       "size": 8794
     }
   },
-  "last_liquipedia_check": "2026-07-17T10:20:19.228072+00:00",
+  "last_liquipedia_check": "2026-07-17T10:42:50.443216+00:00",
   "transfers": {
     "pages": {
       "counterstrike": {
@@ -18014,6 +18014,6 @@
   },
   "gemini_quota": {
     "date": "2026-07-17",
-    "calls": 7
+    "calls": 8
   }
 }
