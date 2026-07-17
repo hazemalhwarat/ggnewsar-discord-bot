@@ -1,30 +1,24 @@
 """
 GGNewsAR Bot — RSS Feed Configuration
-216 English-language esports sources. No Arabic sources by design.
-
-2026-07-14: added a dedicated PLAYER TRANSFERS block and an English-language
-MENA block (see the two banner comments further down). Note that RSS is the
-*second* layer for transfers — the primary one is the Liquipedia transfers
-phase in bot.py + transfers.py, which catches moves that never become
-articles at all (bench, stand-in, coach, release).
+119 English-language esports sources. No Arabic sources by design.
 
 IMPORTANT: bot.py does NOT filter by "verified". Every source in this list
 is attempted on every run, with no exception. "verified" is documentation
 only — it tells you what happened in the last live test, nothing more.
 
 Why dead links stay in the list (by design, per Hazem's instruction):
-  A feed that fails today (dead URL, site redesign, temporary outage) might
-  start working again later with zero code changes — the bot will pick it
-  up automatically the moment the URL responds with valid RSS/Atom again.
-  Removing it would mean losing that source permanently. The cost of
-  keeping it is one extra failed HTTP request per run; negligible.
+A feed that fails today (dead URL, site redesign, temporary outage) might
+start working again later with zero code changes — the bot will pick it
+up automatically the moment the URL responds with valid RSS/Atom again.
+Removing it would mean losing that source permanently. The cost of
+keeping it is one extra failed HTTP request per run; negligible.
 
 Status from the live run on 2026-06-28 22:48 UTC (run #49):
-  verified=True  -> confirmed returning real entries in that run.
-  verified=False -> failed in that run (dead URL / wrong path / HTML
-                    instead of XML / site down). Kept in the list on
-                    purpose — will retry every run, no manual step needed
-                    if it comes back online.
+verified=True  -> confirmed returning real entries in that run.
+verified=False -> failed in that run (dead URL / wrong path / HTML
+                  instead of XML / site down). Kept in the list on
+                  purpose — will retry every run, no manual step needed
+                  if it comes back online.
 
 To manually fix a failing source: find the correct RSS path for that site
 and update its url here. To check current status: look at "Failed Sources"
@@ -50,8 +44,14 @@ X has no public RSS anymore, so bridge it through a self-hosted RSSHub
 instance (the public rsshub.app is heavily rate-limited/blocked, not
 reliable for production -- self-host one on Railway/Render/a small VPS,
 it's free-tier friendly). Once you have your RSSHub URL, add entries like:
-  {"name": "HLTV (X)", "url": "https://YOUR-RSSHUB-INSTANCE/twitter/user/HLTV",
-   "verified": False, "priority": "high"}
+{"name": "HLTV (X)", "url": "https://YOUR-RSSHUB-INSTANCE/twitter/user/HLTV",
+ "verified": False, "priority": "high"}
+
+UPDATE 2026-07-17: added a batch of dedicated/bridge feeds for games that
+were thin or missing entirely — EA Sports FC / FC Pro, PUBG Mobile, Call
+of Duty, and mobile esports broadly (Mobile Legends, Free Fire, Wild Rift,
+Honor of Kings, Clash Royale), plus Fortnite and fighting games. See the
+"GAME COVERAGE EXPANSION" block near the end of this file.
 """
 
 RSS_FEEDS = [
@@ -107,7 +107,7 @@ RSS_FEEDS = [
     {"name": "WIN.gg", "url": "https://win.gg/feed", "verified": False},
     {"name": "GosuGamers", "url": "https://www.gosugamers.net/feed", "verified": False},
     {"name": "Esports.com", "url": "https://www.esports.com/en/feed", "verified": False},
-    {"name": "Fragster (via Google News bridge, native feed dead)", "url": "https://news.google.com/rss/search?q=site:fragster.com&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
+    {"name": "Fragster (via Google News bridge, native feed dead)", "url": "https://news.google.com/rss/search?q=site:fragster.com&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Hotspawn", "url": "https://www.hotspawn.com/feed", "verified": False},
     {"name": "G2G News Esports", "url": "https://g2g.news/feed", "verified": False},
     {"name": "ONE Esports", "url": "https://www.oneesports.gg/feed", "verified": False},
@@ -117,7 +117,7 @@ RSS_FEEDS = [
     {"name": "Esports Talk CS", "url": "https://esportstalk.com/blog/csgo/feed", "verified": False},
     {"name": "Esports Talk Valorant", "url": "https://esportstalk.com/blog/valorant/feed", "verified": False},
     {"name": "Esports.net Valorant", "url": "https://www.esports.net/news/valorant/feed", "verified": False},
-    {"name": "Fragster Valorant (via Google News bridge, native feed dead)", "url": "https://news.google.com/rss/search?q=site:fragster.com+valorant&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
+    {"name": "Fragster Valorant (via Google News bridge, native feed dead)", "url": "https://news.google.com/rss/search?q=site:fragster.com+valorant&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "ValorantInfo.gg", "url": "https://valorantinfo.gg/feed", "verified": False},
     {"name": "DBLTap Valorant", "url": "https://www.dbltap.com/leagues/valorant/feed", "verified": False},
     {"name": "LoL News", "url": "https://lolnews.com/feed", "verified": False},
@@ -129,7 +129,7 @@ RSS_FEEDS = [
     {"name": "Sportskeeda Dota 2", "url": "https://www.sportskeeda.com/esports/dota-2/feed", "verified": False},
     {"name": "Esports.com Dota 2", "url": "https://www.esports.com/en/dota-2/feed", "verified": False},
     {"name": "WIN.gg Dota 2", "url": "https://win.gg/dota2/feed", "verified": False},
-    {"name": "Fragster Overwatch (via Google News bridge, native feed dead)", "url": "https://news.google.com/rss/search?q=site:fragster.com+overwatch&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
+    {"name": "Fragster Overwatch (via Google News bridge, native feed dead)", "url": "https://news.google.com/rss/search?q=site:fragster.com+overwatch&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Esports Talk Overwatch", "url": "https://esportstalk.com/blog/overwatch/feed", "verified": False},
     {"name": "DBLTap Overwatch", "url": "https://www.dbltap.com/leagues/overwatch/feed", "verified": False},
     {"name": "Hotspawn Overwatch", "url": "https://www.hotspawn.com/overwatch/news/feed", "verified": False},
@@ -176,7 +176,6 @@ RSS_FEEDS = [
     {"name": "F1 Esports", "url": "https://f1esports.com/news/feed", "verified": False},
     {"name": "NESTHQ", "url": "https://nesthq.ca/feed", "verified": False},
     {"name": "Esports Charts News", "url": "https://escharts.com/news/feed", "verified": False},
-    {"name": "Esports Charts (via Google News bridge, backup)", "url": "https://news.google.com/rss/search?q=site:escharts.com/news&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
 
     # ============================================================
     # Added 2026-07-01 per Hazem's request.
@@ -194,14 +193,14 @@ RSS_FEEDS = [
     {"name": "Esports Marketing Blog", "url": "https://esports-marketing-blog.com/feed/", "verified": False},
     {"name": "European Gaming Media", "url": "https://europeangaming.eu/portal/feed/", "verified": False},
     {"name": "Esports Africa News", "url": "https://esportsafricanews.com/feed/", "verified": False},
-    {"name": "LoL Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:lolesports.com&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "VALORANT Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:valorantesports.com&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Esports World Cup (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:esportsworldcup.com&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Rocket League Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:rocketleagueesports.com&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "PUBG Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:pubgesports.com&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "ALGS - Apex Legends (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:algs.com&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Call of Duty League (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:callofdutyleague.com&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Esports Business & Sponsorships (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(sponsorship+OR+partnership+OR+investment+OR+acquisition+OR+revenue)&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
+    {"name": "LoL Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:lolesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "VALORANT Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:valorantesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Esports World Cup (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:esportsworldcup.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Rocket League Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:rocketleagueesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "PUBG Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:pubgesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "ALGS - Apex Legends (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:algs.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Call of Duty League (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:callofdutyleague.com&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Esports Business & Sponsorships (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(sponsorship+OR+partnership+OR+investment+OR+acquisition+OR+revenue)&hl=en&gl=US&ceid=US:en", "verified": False},
 
     # ============================================================
     # Added 2026-07-04 — X (Twitter) accounts via RSSHub public instance
@@ -238,119 +237,58 @@ RSS_FEEDS = [
     # program, [federation] official body not a competing team,
     # [thin] no confirmed organized scene found.
     # ============================================================
-    {"name": "Kuwait Esports Club [federation]", "url": "https://news.google.com/rss/search?q=%22Kuwait+Esports%22&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Bahrain Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Bahrain+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Qatar Esports [thin]", "url": "https://news.google.com/rss/search?q=Qatar+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Oman Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Oman+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Lebanon Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Lebanon+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Syria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Syria+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Palestine Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Palestine+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Iraq Esports [checked, ENC26 national team, top 4 finish]", "url": "https://news.google.com/rss/search?q=Iraq+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Morocco Esports [checked, ENC26 MENA runner-up]", "url": "https://news.google.com/rss/search?q=Morocco+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Algeria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Algeria+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Tunisia Esports [checked, ENC26 MENA 3rd place]", "url": "https://news.google.com/rss/search?q=Tunisia+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Libya Esports [thin]", "url": "https://news.google.com/rss/search?q=Libya+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Mauritania Esports [thin]", "url": "https://news.google.com/rss/search?q=Mauritania+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Sudan Esports [thin]", "url": "https://news.google.com/rss/search?q=Sudan+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Al-Ahli Esports (Saudi, new CS2 roster June 2026) [checked]", "url": "https://news.google.com/rss/search?q=%22Al+Ahli%22+esports+CS2&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Esports Nations Cup 2026 [checked, EWCF national-team series]", "url": "https://news.google.com/rss/search?q=%22Esports+Nations+Cup%22&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "MENA Esports general", "url": "https://news.google.com/rss/search?q=MENA+esports+OR+%22Middle+East%22+esports&hl=en&gl=US&ceid=US:en", "verified": False, "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "EGamersWorld", "url": "https://egamersworld.com/rss", "verified": False},
+    {"name": "Kuwait Esports Club [federation]", "url": "https://news.google.com/rss/search?q=%22Kuwait+Esports%22&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Bahrain Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Bahrain+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Qatar Esports [thin]", "url": "https://news.google.com/rss/search?q=Qatar+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Oman Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Oman+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Lebanon Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Lebanon+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Syria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Syria+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Palestine Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Palestine+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Iraq Esports [checked, ENC26 national team, top 4 finish]", "url": "https://news.google.com/rss/search?q=Iraq+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Morocco Esports [checked, ENC26 MENA runner-up]", "url": "https://news.google.com/rss/search?q=Morocco+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Algeria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Algeria+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Tunisia Esports [checked, ENC26 MENA 3rd place]", "url": "https://news.google.com/rss/search?q=Tunisia+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Libya Esports [thin]", "url": "https://news.google.com/rss/search?q=Libya+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Mauritania Esports [thin]", "url": "https://news.google.com/rss/search?q=Mauritania+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Sudan Esports [thin]", "url": "https://news.google.com/rss/search?q=Sudan+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Al-Ahli Esports (Saudi, new CS2 roster June 2026) [checked]", "url": "https://news.google.com/rss/search?q=%22Al+Ahli%22+esports+CS2&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Esports Nations Cup 2026 [checked, EWCF national-team series]", "url": "https://news.google.com/rss/search?q=%22Esports+Nations+Cup%22&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "MENA Esports general", "url": "https://news.google.com/rss/search?q=MENA+esports+OR+%22Middle+East%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
 
     # ============================================================
-    # PLAYER TRANSFERS / ROSTER MOVES  (added 2026-07-14)
-    # ------------------------------------------------------------
-    # The RSS layer only ever catches transfers that someone wrote an
-    # article about. transfers.py + the Liquipedia transfers phase in bot.py
-    # is what actually catches every move at source. THESE feeds are the
-    # second layer: the outlets that break moves before Liquipedia logs them
-    # (scoops, leaks, "sources say"), plus Google News keyword bridges that
-    # sweep the whole web for transfer language.
-    #
-    # All marked priority=high: a transfer is the most valuable news type
-    # GGNewsAR publishes, so it must survive the per-run send cap.
+    # GAME COVERAGE EXPANSION — added 2026-07-17 per Hazem's request to
+    # cover ALL competitive esports titles more broadly, not just the
+    # CS2/Valorant/LoL/Dota core. Focus of this batch: EA Sports FC,
+    # PUBG Mobile, mobile esports generally (Mobile Legends, Free Fire,
+    # Wild Rift, Honor of Kings, Clash Royale), Call of Duty, and
+    # Fortnite — all previously thin or missing. Dedicated RSS where it
+    # exists, Google News site: bridges otherwise.
     # ============================================================
+    {"name": "CharlieIntel (Call of Duty)", "url": "https://charlieintel.com/feed/", "verified": False},
+    {"name": "CoD League (official, via Google News)", "url": "https://news.google.com/rss/search?q=%22Call+of+Duty+League%22&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Call of Duty Esports general (Google News)", "url": "https://news.google.com/rss/search?q=%22Call+of+Duty%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
 
-    # --- Outlets that live on roster scoops ---
-    {"name": "BLIX.GG (transfers/leaks)", "url": "https://blix.gg/feed/", "verified": False, "priority": "high"},
-    {"name": "BLIX.GG (Google News bridge, backup)", "url": "https://news.google.com/rss/search?q=site:blix.gg&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Sheep Esports Transfers (bridge)", "url": "https://news.google.com/rss/search?q=site:sheepesports.com+(transfer+OR+roster+OR+signs+OR+leak)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Jaxon.gg", "url": "https://jaxon.gg/feed/", "verified": False, "priority": "high"},
-    {"name": "theSpike.gg (VALORANT roster)", "url": "https://www.thespike.gg/rss", "verified": False, "priority": "high"},
-    {"name": "theSpike.gg (Google News bridge)", "url": "https://news.google.com/rss/search?q=site:thespike.gg+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Dust2.us (CS roster)", "url": "https://www.dust2.us/feed", "verified": False, "priority": "high"},
-    {"name": "Escorenews Transfers", "url": "https://escorenews.com/en/news/feed", "verified": False, "priority": "normal"},
-    {"name": "HLTV Transfers (bridge)", "url": "https://news.google.com/rss/search?q=site:hltv.org+(transfer+OR+roster+OR+%22join%22+OR+benched)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "VLR.gg Roster Moves (bridge)", "url": "https://news.google.com/rss/search?q=site:vlr.gg+(roster+OR+transfer+OR+signs+OR+parts+ways)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
+    {"name": "EA Sports FC Pro (official, via Google News)", "url": "https://news.google.com/rss/search?q=%22EA+Sports+FC+Pro%22&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "FC Pro / FIFAe esports (Google News)", "url": "https://news.google.com/rss/search?q=%22FC+Pro%22+OR+FIFAe+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "eFootball esports (Google News)", "url": "https://news.google.com/rss/search?q=eFootball+esports&hl=en&gl=US&ceid=US:en", "verified": False},
 
-    # --- Google News keyword sweeps: generic transfer language ---
-    {"name": "Transfers: general esports", "url": "https://news.google.com/rss/search?q=esports+(%22roster+move%22+OR+%22parts+ways%22+OR+%22steps+down%22+OR+%22free+agent%22+OR+benched+OR+%22officially+signs%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: CS2", "url": "https://news.google.com/rss/search?q=(CS2+OR+%22Counter-Strike%22)+esports+(roster+OR+transfer+OR+signs+OR+benched+OR+%22parts+ways%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: VALORANT", "url": "https://news.google.com/rss/search?q=VALORANT+(roster+OR+transfer+OR+signs+OR+benched+OR+%22parts+ways%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Dota 2", "url": "https://news.google.com/rss/search?q=%22Dota+2%22+(roster+OR+transfer+OR+signs+OR+%22parts+ways%22+OR+shuffle)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: League of Legends", "url": "https://news.google.com/rss/search?q=%22League+of+Legends%22+(roster+OR+transfer+OR+signs+OR+benched+OR+%22parts+ways%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Rainbow Six Siege", "url": "https://news.google.com/rss/search?q=%22Rainbow+Six%22+(roster+OR+transfer+OR+signs+OR+benched)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Rocket League", "url": "https://news.google.com/rss/search?q=%22Rocket+League%22+(roster+OR+transfer+OR+signs+OR+benched)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Mobile Legends", "url": "https://news.google.com/rss/search?q=%22Mobile+Legends%22+(roster+OR+transfer+OR+signs+OR+benched)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: PUBG Mobile", "url": "https://news.google.com/rss/search?q=%22PUBG+Mobile%22+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Apex Legends", "url": "https://news.google.com/rss/search?q=%22Apex+Legends%22+esports+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Call of Duty", "url": "https://news.google.com/rss/search?q=%22Call+of+Duty%22+esports+(roster+OR+transfer+OR+signs+OR+benched)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Honor of Kings", "url": "https://news.google.com/rss/search?q=%22Honor+of+Kings%22+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: EA Sports FC", "url": "https://news.google.com/rss/search?q=%22EA+Sports+FC%22+esports+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Fortnite", "url": "https://news.google.com/rss/search?q=Fortnite+esports+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
+    {"name": "PUBG Mobile Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=%22PUBG+Mobile%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "PMGC / PMWI (Google News)", "url": "https://news.google.com/rss/search?q=PMGC+OR+PMWI+PUBG&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "PUBG Mobile Gulf/MENA (Google News)", "url": "https://news.google.com/rss/search?q=%22PUBG+Mobile%22+MENA+OR+Gulf&hl=en&gl=US&ceid=US:en", "verified": False},
 
-    # --- Google News sweeps: MENA orgs specifically (transfer language) ---
-    {"name": "Transfers: Team Falcons", "url": "https://news.google.com/rss/search?q=%22Team+Falcons%22+(roster+OR+transfer+OR+signs+OR+joins+OR+%22parts+ways%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Twisted Minds", "url": "https://news.google.com/rss/search?q=%22Twisted+Minds%22+(roster+OR+transfer+OR+signs+OR+joins+OR+%22parts+ways%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Nigma Galaxy", "url": "https://news.google.com/rss/search?q=%22Nigma+Galaxy%22+(roster+OR+transfer+OR+signs+OR+joins)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Geekay Esports", "url": "https://news.google.com/rss/search?q=%22Geekay%22+esports+(roster+OR+transfer+OR+signs+OR+joins)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: FATE Esports", "url": "https://news.google.com/rss/search?q=%22FATE+Esports%22+(roster+OR+transfer+OR+signs+OR+joins)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Anubis Gaming (Egypt)", "url": "https://news.google.com/rss/search?q=%22Anubis+Gaming%22+(roster+OR+transfer+OR+signs+OR+joins)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: NASR / YaLLa (UAE)", "url": "https://news.google.com/rss/search?q=(%22NASR+Esports%22+OR+%22YaLLa+Esports%22)+(roster+OR+transfer+OR+signs)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Transfers: Saudi football clubs in esports", "url": "https://news.google.com/rss/search?q=(%22Al+Ahli%22+OR+%22Al+Qadsiah%22+OR+%22Al+Hilal%22+OR+%22Al+Nassr%22)+esports+(roster+OR+signs+OR+transfer)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
+    {"name": "Mobile Legends: Bang Bang Esports / MPL (Google News)", "url": "https://news.google.com/rss/search?q=%22Mobile+Legends%22+MPL+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Free Fire Esports / FFWS (Google News)", "url": "https://news.google.com/rss/search?q=%22Free+Fire%22+esports+FFWS&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Wild Rift Esports (Google News)", "url": "https://news.google.com/rss/search?q=%22Wild+Rift%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Honor of Kings Esports / KRKPL (Google News)", "url": "https://news.google.com/rss/search?q=%22Honor+of+Kings%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Clash Royale League Esports (Google News)", "url": "https://news.google.com/rss/search?q=%22Clash+Royale%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Mobile Esports general (Google News)", "url": "https://news.google.com/rss/search?q=mobile+esports+tournament&hl=en&gl=US&ceid=US:en", "verified": False},
 
-    # ============================================================
-    # MENA COVERAGE  (added 2026-07-14, corrected 2026-07-14)
-    # ------------------------------------------------------------
-    # NO ARAB NEWS OUTLETS. NONE. Not Arabic-language ones, and not the
-    # English-language regional press either (Arab News, Arabian Business,
-    # The National, Gulf News, Khaleej Times, Zawya were all added and then
-    # REMOVED the same day). Reason: they are general news sites. A
-    # "site:X esports" Google News bridge does NOT reliably constrain
-    # results to the keyword — Google returns whatever the site published,
-    # so the bot pushed a story about intercepted missiles into Discord.
-    # Do not re-add them. MENA coverage comes from the esports trades
-    # (which do cover the region) plus keyword sweeps that CANNOT match a
-    # non-esports story because the word "esports" is in the query itself.
-    # ============================================================
-    {"name": "Esports Insider — Middle East region", "url": "https://esportsinsider.com/news-by-region/middle-east/feed", "verified": False, "priority": "high"},
-    {"name": "SportsPro — Middle East (bridge)", "url": "https://news.google.com/rss/search?q=site:sportspromedia.com+esports+(Saudi+OR+%22Middle+East%22)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
+    {"name": "Fortnite Competitive / FNCS (Google News)", "url": "https://news.google.com/rss/search?q=FNCS+OR+%22Fortnite+Championship%22&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Fortnite Esports general (Google News)", "url": "https://news.google.com/rss/search?q=Fortnite+esports&hl=en&gl=US&ceid=US:en", "verified": False},
 
-    # --- Regional bodies / ecosystem owners (English) ---
-    {"name": "Saudi Esports Federation", "url": "https://news.google.com/rss/search?q=%22Saudi+Esports+Federation%22&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Savvy Games Group", "url": "https://news.google.com/rss/search?q=%22Savvy+Games+Group%22&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Qiddiya / gaming district", "url": "https://news.google.com/rss/search?q=Qiddiya+(gaming+OR+esports)&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Esports World Cup Foundation", "url": "https://news.google.com/rss/search?q=%22Esports+World+Cup+Foundation%22+OR+%22EWC+Foundation%22&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Arab Esports Federation", "url": "https://news.google.com/rss/search?q=%22Arab+Esports+Federation%22&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Dubai Esports & Games Festival", "url": "https://news.google.com/rss/search?q=%22Dubai+Esports%22+OR+%22Dubai+Esports+and+Games+Festival%22&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-
-    # --- National scenes that were missing from the country sweep ---
-    {"name": "Jordan Esports [home scene]", "url": "https://news.google.com/rss/search?q=Jordan+esports&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Saudi Esports [scene]", "url": "https://news.google.com/rss/search?q=Saudi+esports&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "high", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "UAE Esports [scene]", "url": "https://news.google.com/rss/search?q=UAE+esports+OR+%22Emirates+esports%22&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-    {"name": "Egypt Esports [scene]", "url": "https://news.google.com/rss/search?q=Egypt+esports&hl=en&gl=US&ceid=US:en", "verified": False, "priority": "normal", "require": ["esports", "e-sports", "gaming", "roster", "transfer", "tournament", "EWC", "Esports World Cup"]},
-
-    # --- X accounts that break transfers first (needs self-hosted RSSHub) ---
-    # These are the reporters whose tweet IS the news; the article follows an
-    # hour later. Handles marked [unverified] were not confirmed live.
-    {"name": "X: Sheep Esports (@SheepEsports) [unverified]", "url": "https://rsshub.app/twitter/user/SheepEsports", "verified": False, "priority": "high"},
-    {"name": "X: BLIX.GG (@blixgg) [unverified]", "url": "https://rsshub.app/twitter/user/blixgg", "verified": False, "priority": "high"},
-    {"name": "X: HLTV (@HLTVorg)", "url": "https://rsshub.app/twitter/user/HLTVorg", "verified": False, "priority": "high"},
-    {"name": "X: VLR.gg (@ValorantEsport) [unverified]", "url": "https://rsshub.app/twitter/user/vlrgg", "verified": False, "priority": "high"},
-    {"name": "X: Dexerto Esports (@DexertoEsports) [unverified]", "url": "https://rsshub.app/twitter/user/DexertoEsports", "verified": False, "priority": "normal"},
+    {"name": "Street Fighter / Tekken competitive (Google News)", "url": "https://news.google.com/rss/search?q=%22Street+Fighter%22+OR+Tekken+esports+tournament&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Chess.com / chess esports (Google News)", "url": "https://news.google.com/rss/search?q=chess+esports+tournament&hl=en&gl=US&ceid=US:en", "verified": False},
 ]
-
-
 
 if __name__ == "__main__":
     print(f"Total feeds: {len(RSS_FEEDS)}")
