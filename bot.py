@@ -1,57 +1,53 @@
 """
-GGNewsAR Discord Bot — unified RSS + Liquipedia pipeline (single-pass edition).
+GGNewsAR Discord Bot — unified RSS + Liquipedia pipeline (AI-for-everything edition).
 
 مشروع مستقل تماماً عن بوت تيليقرام. نفس المنطق بالضبط (RSS + Liquipedia +
 dedup + state)، لكن الإرسال يروح لروم Discord عبر Webhook بدل تيليقرام.
 
-=== تحديث (2026-07-07): إلغاء تحليل Gemini ===
-البوت يرسل الآن عنوان/ملخص RSS الخام مباشرة بدون أي تحليل أو ترجمة أو
-تصنيف عبر Gemini. القرار: السرعة واكتمال الخبر أولوية، وأي طبقة تحليل
-إضافية (حتى لو موازية) تبقى نقطة فشل محتملة وتأخير غير ضروري. الخبر يوصل
-لروم Discord فور اكتشافه بنفس دورة الفحص، بدون أي انتظار.
+كل خبر RSS وكل تعديل Liquipedia يمر أولاً على Gemini (مباشرة عبر Google AI
+Studio) اللي يترجمه ويلخصه بالفصحى البيضاء حسب ستايل GGNewsAR، ويطلع معه
+تصنيف أهمية (عاجل / مهم / عادي) عشان تقدر تفرز بسرعة وش يستاهل وقتك الحين.
+لو التحليل فشل أو تجاوزنا الحصة اليومية المجانية، يرجع البوت تلقائياً للنص
+الأصلي مع وسم يوضح إنه غير مُحلَّل.
 
-=== ARCHITECTURE CHANGE (2026-07-05) ===
-رجعنا لنمط single pass: كل استدعاء يفحص كل المصادر مرة وحدة ويطلع.
-الاستمرارية (الفحص كل 10-15 دقيقة) تجيها من GitHub Actions schedule
-(cron) في run.yml، مو من حلقة داخلية. هذا هو الاستخدام الصحيح لـ
-GitHub Actions: جوب قصير يشتغل ثواني، مو جوب طويل يشغل ساعات.
+=== ARCHITECTURE CHANGE (2026-07-17): AI للجميع + batching + حصة يومية ===
+1. مرحلة Liquipedia صارت تمر بنفس محرك Gemini اللي تمر فيه RSS (كانت قبل
+   كذا توصل خام بالإنجليزي بدون أي ترجمة أو تلخيص).
+2. بدل استدعاء Gemini مرة لكل خبر، صرنا نجمع عدة عناصر (GEMINI_BATCH_SIZE)
+   بطلب واحد، عشان نقلل عدد الطلبات اليومية بشكل كبير ونحمي الحصة المجانية.
+3. عداد حصة يومي محفوظ بـ state.json (gemini_quota: {date, calls}). لو
+   قاربنا الحد (GEMINI_DAILY_QUOTA)، نوقف استدعاء Gemini تلقائياً لبقية
+   اليوم بدل ما نضرب أخطاء 429 بلا فايدة، ونرسل نسخة احتياطية بدل التحليل.
+4. الموديل الافتراضي صار gemini-2.5-flash-lite (حصة يومية أعلى من Flash
+   العادي)، قابل للتغيير عبر GEMINI_MODEL لو احتجت جودة أعلى لاحقاً.
 
-السبب: الحلقة المستمرة (5h45m لكل استدعاء) كانت بتستهلك حصة الدقائق
-المجانية (~2000 دقيقة/شهر على private repo) خلال يوم ونص تقريباً لو
-اتربطت بـ cron كل 6 ساعات. النمط الحالي (فحص خاطف كل 10-15 دقيقة)
-يعطي نفس التغطية الزمنية تقريباً باستهلاك أقل بعشرات المرات.
-
-تغييرات رئيسية عن نسخة الحلقة:
-  1. لا يوجد loop داخلي — main() يعمل دورة واحدة (RSS + احتمال Liquipedia)
-     ثم يطلع.
-  2. Liquipedia يفحص فقط لو مرت مدة كافية منذ آخر فحص محفوظة بالـ state
-     (بدل "كل 5 دورات" لأنه ما فيه دورات متعددة بالاستدعاء الواحد).
-  3. commit لـ state.json يصير مرة وحدة في نهاية كل استدعاء (بدل كل 4
-     دورات) لأن كل استدعاء أصلاً قصير.
-  4. جلب كل مصادر RSS بالتوازي (ThreadPoolExecutor) — نفس المنطق القديم،
-     محتفظ به لأنه يخلي الاستدعاء الواحد يخلص خلال ثواني بدل دقائق.
+=== ARCHITECTURE CHANGE (2026-07-05): single pass ===
+كل استدعاء يفحص كل المصادر مرة وحدة ويطلع. الاستمرارية (كل 10-15 دقيقة)
+تجيها من GitHub Actions schedule (cron) في run.yml، مو من حلقة داخلية.
 
 Pipeline (once per invocation):
-  1. RSS phase: fetch all feeds in feeds.py IN PARALLEL, filter freshness +
-     dedup, send raw title/summary immediately (no analysis step).
-  2. Liquipedia phase (only if LIQUIPEDIA_MIN_INTERVAL_MINUTES have passed
-     since last Liquipedia check): poll watchlist pages, filter
-     bot/minor/tiny edits, send.
+1. RSS phase: fetch all feeds in feeds.py IN PARALLEL, filter freshness +
+   dedup, collect eligible items, analyze via Gemini IN BATCHES, send.
+2. Liquipedia phase (only if LIQUIPEDIA_MIN_INTERVAL_MINUTES have passed
+   since last Liquipedia check): poll watchlist pages, filter
+   bot/minor/tiny edits, collect meaningful edits, analyze via Gemini IN
+   BATCHES, send.
 
-State is unified in state.json with four collections:
-  - urls: seen RSS URLs (ring of last 8000)
-  - title_hashes: normalized title hashes (ring of last 8000)
-  - liquipedia: per-page seen revids + last seen size
-  - last_liquipedia_check: ISO timestamp of last Liquipedia phase run
+State is unified in state.json with these collections:
+- urls: seen RSS URLs (ring of last 8000)
+- title_hashes: normalized title hashes (ring of last 8000)
+- liquipedia: per-page seen revids + last seen size
+- last_liquipedia_check: ISO timestamp of last Liquipedia phase run
+- gemini_quota: {"date": "YYYY-MM-DD", "calls": int} daily call counter
 
 Configuration sources: feeds.py (RSS_FEEDS), watchlist.py (WATCHLIST).
-Secrets: DISCORD_WEBHOOK_URL in environment.
+Secrets: DISCORD_WEBHOOK_URL, GEMINI_API_KEY in environment.
 
 GitHub Actions workflow (run.yml) should trigger this via:
-  on:
-    workflow_dispatch:
-    schedule:
-      - cron: "*/15 * * * *"   # every 15 minutes
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"  # every 15 minutes
 """
 
 import os
@@ -71,33 +67,13 @@ import requests
 
 from feeds import RSS_FEEDS
 from watchlist import WATCHLIST
-from transfers import (
-    TRANSFER_WIKIS,
-    TRANSFER_PAGE_PATTERNS,
-    TRANSFERS_MODE,
-    TRANSFERS_MAX_PER_RUN,
-    TRANSFERS_MIN_INTERVAL_MINUTES,
-    extract_transfer_templates,
-    parse_transfer,
-    classify,
-    row_key,
-    format_headline,
-)
 
 # ============================================================
 # Configuration
 # ============================================================
+
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
-
-# Optional: a dedicated #transfers channel. If unset, transfer messages go
-# to the main webhook alongside the news feed.
-TRANSFERS_WEBHOOK_URL = (
-    os.environ.get("TRANSFERS_WEBHOOK_URL", "").strip() or DISCORD_WEBHOOK_URL
-)
-
-# Distinct embed colour so transfers are visually separable from news
-TRANSFER_EMBED_COLOR = 0x16A34A   # green
-MENA_EMBED_COLOR = 0xF59E0B       # amber — Arab/MENA org involved
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 
 STATE_FILE = Path("state.json")
 
@@ -114,7 +90,6 @@ MAX_AGE_HOURS = 24
 SEEN_URLS_RING = 8000
 SEEN_TITLES_RING = 8000
 SEEN_REVS_PER_PAGE = 20
-SEEN_TRANSFERS_RING = 6000
 
 # ------------------------------------------------------------
 # Single-pass settings
@@ -136,15 +111,123 @@ LIQUIPEDIA_MIN_BYTES_CHANGE = 100  # ignore edits smaller than this
 
 # Discord embed color
 EMBED_COLOR = 0x7C3AED
-# Discord embed description hard limit is 4096 chars — use nearly all of it
-# since summaries are now sent raw/complete (no Gemini summarization step).
-DESC_MAX = 4000
+DESC_MAX = 600
 
 # Strip "Source - Article Title" patterns from RSS titles for dedup
 SOURCE_SUFFIX_RE = re.compile(r"\s*[\-\|\u2013\u2014:]\s*[^\-\|\u2013\u2014:]{1,40}$")
 
 # ------------------------------------------------------------
+# Gemini (direct via Google AI Studio) — translation + summary + importance
+# ------------------------------------------------------------
+# Flash-Lite carries a noticeably higher free daily quota than full Flash,
+# which matters here because EVERY item (RSS + Liquipedia edits) now goes
+# through the model instead of just RSS. Override via env var if you ever
+# want to trade quota for quality.
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite").strip()
+GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+GEMINI_TIMEOUT_SECONDS = 30
+GEMINI_MAX_RETRIES = 2
+GEMINI_CALL_DELAY_SECONDS = 1.0  # spacing between batch calls, RPM safety
 
+# How many items go into a single Gemini call. Fewer calls/day = safer
+# against the daily quota; keep low enough that output tokens stay sane.
+GEMINI_BATCH_SIZE = int(os.environ.get("GEMINI_BATCH_SIZE", "6"))
+GEMINI_TOKENS_PER_ITEM = 300
+GEMINI_TOKENS_OVERHEAD = 200
+
+# Daily call counter safety margin. Set conservatively below the published
+# free-tier ceiling so we stop BEFORE hitting 429s, not after.
+GEMINI_DAILY_QUOTA = int(os.environ.get("GEMINI_DAILY_QUOTA", "900"))
+
+NO_ANALYSIS_NOTE = "⚠ لم تتم الترجمة الآلية لهذا الخبر (تجاوزنا الحصة اليومية المجانية أو فشل التحليل). النص الأصلي أدناه:"
+
+IMPORTANCE_LABELS = {"عاجل", "مهم", "عادي"}
+IMPORTANCE_RANK = {"عادي": 0, "مهم": 1, "عاجل": 2}
+
+# ------------------------------------------------------------
+# Importance safety net — the model's judgment alone can miss things
+# (vague edit comments, no notion of which orgs matter to you). These two
+# layers act as a FLOOR on top of whatever Gemini decides: they can only
+# raise the importance, never lower it below the model's own call.
+# ------------------------------------------------------------
+
+# MENA/Arab orgs you cover closely. Edit this list any time — any item
+# mentioning one of these gets bumped to at least "مهم" regardless of what
+# the model or keyword floor decided.
+MENA_PRIORITY_ORGS = [
+    "Team Falcons", "Falcons",
+    "Twisted Minds",
+    "Geekay Esports", "Geekay",
+    "Nigma Galaxy", "Nigma",
+    "Team Vision",
+    "PSG Esports",
+    "Anubis Gaming",
+    "NASR Esports",
+]
+
+# Words that, if present (English or Arabic, raw or translated), force a
+# minimum importance level even if the model under-rated the item. This
+# guards against a big story slipping through as "عادي" because the raw
+# edit comment or RSS snippet was too terse for the model to judge well.
+URGENT_KEYWORDS = [
+    "wins", "champion", "championship", "signs", "signed", "parts ways",
+    "released", "eliminated", "trophy", "grand final", "title win",
+    "يفوز", "بطل", "تعاقد", "استغناء", "إقصاء", "لقب", "النهائي",
+]
+IMPORTANT_KEYWORDS = [
+    "roster", "lineup", "transfer", "joins", "benched", "coach", "captain",
+    "qualifies", "qualified", "playoffs", "bracket", "announcement",
+    "روستر", "تشكيلة", "انتقال", "ينضم", "مدرب", "كابتن", "تأهل", "تأهلت",
+]
+
+
+def keyword_floor(text: str) -> str:
+    """Minimum importance implied by raw keywords in the text (any language)."""
+    t = (text or "").lower()
+    for kw in URGENT_KEYWORDS:
+        if kw.lower() in t:
+            return "عاجل"
+    for kw in IMPORTANT_KEYWORDS:
+        if kw.lower() in t:
+            return "مهم"
+    return "عادي"
+
+
+def is_priority_org(text: str) -> bool:
+    t = (text or "").lower()
+    return any(org.lower() in t for org in MENA_PRIORITY_ORGS)
+
+
+def apply_importance_floor(model_importance: str, raw_text: str) -> str:
+    """Combine the model's importance call with the keyword/org floors and
+    return whichever is highest. Never lowers what the model decided."""
+    candidates = [model_importance or "عادي", keyword_floor(raw_text)]
+    if is_priority_org(raw_text):
+        candidates.append("مهم")
+    return max(candidates, key=lambda x: IMPORTANCE_RANK.get(x, 0))
+
+GEMINI_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGNewsAR، تكتب بالعربية الفصحى البيضاء (لغة يومية مثقفة، مو لغة أدبية أو مترجمة حرفياً).
+
+راح توصلك دفعة عناصر (items) بصيغة JSON. كل عنصر له "id" و"kind":
+- kind = "news": خبر RSS، فيه "title" (عنوان أصلي، غالباً إنجليزي) و"context" (ملخص/مقتطف الخبر).
+- kind = "wiki_edit": تعديل صفحة على Liquipedia، فيه "title" (اسم الصفحة) و"context" (معلومات: اللعبة، اسم المحرر، وتعليق التعديل الخام غالباً إنجليزي مختصر جداً).
+
+مهمتك لكل عنصر: ترجمة/تحليل المحتوى وإخراج أربعة عناصر: عنوان رئيسي، عنوان فرعي، ملخص قصير، وتصنيف أهمية.
+
+قواعد صارمة تنطبق على كل عنصر:
+- العنوان الرئيسي: يحتوي اسم اللعبة إن وجد، يبدأ بأهم معلومة، وينتهي بعلامة استفهام أو تعجب حسب نوع الخبر.
+- العنوان الفرعي: جملة واحدة قصيرة تضيف تفصيل أو سياق إضافي، مش تكرار للعنوان الرئيسي.
+- الملخص: جملتين أو ثلاث قصيرة ومتتالية، تبدأ بفعل مباشر (تأهل، حسم، أنهى، خطف، عدّل)، بدون نقاط أو عناوين فرعية. لعناصر kind="wiki_edit" اشرح بوضوح إيش تغيّر بالصفحة وليش قد يهمّ (تغيير روستر، نتيجة ماتش، تعاقد، معلومة جديدة... إلخ)، لا تكتفِ بترجمة حرفية للتعليق الخام لو كان غامضاً — استنتج المعنى من اسم الصفحة والسياق المعطى.
+- تصنيف الأهمية: قيمة واحدة فقط من ["عاجل", "مهم", "عادي"]. "عاجل" للأخبار الكبيرة (نتائج نهائيات، تعاقدات/انتقالات مؤكدة، انسحابات، قرارات رسمية كبرى). "مهم" لتحديثات مفيدة لكن غير طارئة (نتائج جولات عادية، تفاصيل تنظيمية، تعديلات روستر ثانوية). "عادي" لتعديلات نصية/تدقيقية بسيطة أو أخبار خلفية لا تستدعي أولوية.
+- ممنوع أي عبارات حشو مثل: "يأتي ذلك في إطار"، "في خطوة لافتة"، "يُعد علامة فارقة"، "تجدر الإشارة إلى"، "من الجدير بالذكر"، "وفي سياق متصل"، "يُشكل نقلة نوعية"، وصفات فارغة مثل "كبيرة" أو "بارزة" بدون وزن فعلي.
+- أسماء اللاعبين تبقى بالإنجليزية كما هي: اللقب فقط (Nickname)، بدون الاسم الحقيقي الكامل (لا Nikola "NiKo" Kovač، فقط NiKo).
+- أسماء الفرق والمنظمات والبطولات وأسماء الألعاب تبقى بالإنجليزية كما هي (Team Falcons, IEM Cologne, CS2...)، لا تُعرَّب أبداً. أسماء المدن والدول تُكتب بالعربية.
+- الأرقام المالية: أرقام كاملة مع فواصل الآلاف (مثال: 1,000,000)، ما تكتبها بالحروف.
+- لو المعطيات ما فيها معلومات كافية لتأكيد تفصيل معين، لا تختلقه — التزم بما هو مذكور فقط.
+
+رد بصيغة JSON فقط، بدون أي نص أو شرح إضافي قبله أو بعده، بالشكل التالي بالضبط:
+{"items": [{"id": "...", "headline": "...", "subheadline": "...", "summary": "...", "importance": "..."}]}
+لازم عدد العناصر بالرد يطابق عدد العناصر المُرسلة بالضبط، بنفس قيم "id"."""
 
 logging.basicConfig(
     level=logging.INFO,
@@ -153,9 +236,145 @@ logging.basicConfig(
 log = logging.getLogger("ggnewsar-discord")
 
 
+def batch_analyze_with_gemini(items: list) -> dict:
+    """Analyze a batch of items (news or wiki_edit) via Gemini in ONE call.
+
+    items: list of {"id": str, "kind": "news"|"wiki_edit", "title": str, "context": str}
+    Returns: dict mapping id -> {"headline","subheadline","summary","importance"}
+    for items the model successfully analyzed. Missing ids mean fallback
+    to raw content should be used by the caller. Returns {} entirely on
+    hard failure (network, parse error, etc.) — never raises.
+    """
+    if not GEMINI_API_KEY or not items:
+        return {}
+
+    user_payload = {
+        "items": [
+            {
+                "id": it["id"],
+                "kind": it["kind"],
+                "title": it["title"],
+                "context": it.get("context") or "غير متوفر",
+            }
+            for it in items
+        ]
+    }
+    max_tokens = GEMINI_TOKENS_OVERHEAD + GEMINI_TOKENS_PER_ITEM * len(items)
+
+    payload = {
+        "system_instruction": {"parts": [{"text": GEMINI_SYSTEM_PROMPT}]},
+        "contents": [{"role": "user", "parts": [{"text": json.dumps(user_payload, ensure_ascii=False)}]}],
+        "generationConfig": {
+            "temperature": 0.4,
+            "maxOutputTokens": max_tokens,
+            "responseMimeType": "application/json",
+            "thinkingConfig": {"thinkingBudget": 0},
+        },
+    }
+    headers = {
+        "x-goog-api-key": GEMINI_API_KEY,
+        "Content-Type": "application/json",
+    }
+
+    for attempt in range(GEMINI_MAX_RETRIES):
+        try:
+            r = requests.post(GEMINI_URL, json=payload, headers=headers, timeout=GEMINI_TIMEOUT_SECONDS)
+            if r.status_code == 429:
+                log.warning("Gemini 429 (rate limited), backing off")
+                time.sleep(3)
+                continue
+            r.raise_for_status()
+            data = r.json()
+            candidates = data.get("candidates", [])
+            if not candidates:
+                log.warning(f"Gemini returned no candidates (attempt {attempt + 1}/{GEMINI_MAX_RETRIES}): {data}")
+                time.sleep(1)
+                continue
+            parts = candidates[0].get("content", {}).get("parts", [])
+            content = parts[0].get("text") if parts else None
+            if not content or not str(content).strip():
+                log.warning(f"Gemini returned empty content (attempt {attempt + 1}/{GEMINI_MAX_RETRIES})")
+                time.sleep(1)
+                continue
+            content = content.strip()
+            content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.MULTILINE).strip()
+            parsed = json.loads(content)
+            results = {}
+            for entry in parsed.get("items", []):
+                eid = entry.get("id")
+                if not eid:
+                    continue
+                if all(k in entry and entry[k] for k in ("headline", "subheadline", "summary", "importance")):
+                    imp = entry["importance"].strip()
+                    if imp not in IMPORTANCE_LABELS:
+                        imp = "عادي"
+                    results[eid] = {
+                        "headline": entry["headline"],
+                        "subheadline": entry["subheadline"],
+                        "summary": entry["summary"],
+                        "importance": imp,
+                    }
+            return results
+        except (requests.RequestException, ValueError, KeyError, AttributeError, json.JSONDecodeError) as e:
+            log.warning(f"Gemini batch analysis failed (attempt {attempt + 1}/{GEMINI_MAX_RETRIES}): {e}")
+            time.sleep(1)
+    return {}
+
+
+def chunked(seq: list, size: int):
+    for i in range(0, len(seq), size):
+        yield seq[i:i + size]
+
+
+# ============================================================
+# Gemini daily quota tracking (persisted in state.json)
+# ============================================================
+
+def _today_str() -> str:
+    return datetime.now(timezone.utc).date().isoformat()
+
+
+def get_quota_remaining(state: dict) -> int:
+    q = state.setdefault("gemini_quota", {"date": _today_str(), "calls": 0})
+    if q.get("date") != _today_str():
+        q["date"] = _today_str()
+        q["calls"] = 0
+    return max(0, GEMINI_DAILY_QUOTA - q.get("calls", 0))
+
+
+def record_gemini_calls(state: dict, n: int) -> None:
+    q = state.setdefault("gemini_quota", {"date": _today_str(), "calls": 0})
+    if q.get("date") != _today_str():
+        q["date"] = _today_str()
+        q["calls"] = 0
+    q["calls"] = q.get("calls", 0) + n
+
+
+def analyze_items_in_batches(state: dict, items: list) -> dict:
+    """Chunk items into GEMINI_BATCH_SIZE groups, respecting the daily
+    quota (one Gemini call = one unit of quota per chunk). Returns a
+    combined dict of id -> analysis for whatever succeeded. Items beyond
+    the remaining quota are simply skipped (caller falls back to raw)."""
+    if not items:
+        return {}
+    results = {}
+    chunks = list(chunked(items, GEMINI_BATCH_SIZE))
+    for chunk in chunks:
+        remaining = get_quota_remaining(state)
+        if remaining <= 0:
+            log.warning("Gemini daily quota exhausted — remaining items will use raw fallback.")
+            break
+        analyzed = batch_analyze_with_gemini(chunk)
+        record_gemini_calls(state, 1)
+        results.update(analyzed)
+        time.sleep(GEMINI_CALL_DELAY_SECONDS)
+    return results
+
+
 # ============================================================
 # State persistence
 # ============================================================
+
 def load_state() -> dict:
     if not STATE_FILE.exists():
         return {
@@ -163,31 +382,26 @@ def load_state() -> dict:
             "title_hashes": [],
             "liquipedia": {},  # "wiki:page" -> {"revids": [...], "size": int}
             "last_liquipedia_check": None,  # ISO timestamp string or None
-            "transfers": {"pages": {}, "seen": [], "last_check": None},
+            "gemini_quota": {"date": _today_str(), "calls": 0},
         }
     try:
         with open(STATE_FILE, "r", encoding="utf-8") as f:
             data = json.load(f)
     except (json.JSONDecodeError, OSError) as e:
         log.error(f"state.json corrupted, starting fresh: {e}")
-        return {"urls": [], "title_hashes": [], "liquipedia": {}, "last_liquipedia_check": None}
-
+        return {"urls": [], "title_hashes": [], "liquipedia": {}, "last_liquipedia_check": None,
+                 "gemini_quota": {"date": _today_str(), "calls": 0}}
     data.setdefault("urls", [])
     data.setdefault("title_hashes", [])
     data.setdefault("liquipedia", {})
     data.setdefault("last_liquipedia_check", None)
-    data.setdefault("transfers", {"pages": {}, "seen": [], "last_check": None})
-    data["transfers"].setdefault("pages", {})
-    data["transfers"].setdefault("seen", [])
-    data["transfers"].setdefault("last_check", None)
+    data.setdefault("gemini_quota", {"date": _today_str(), "calls": 0})
     return data
 
 
 def save_state(state: dict) -> None:
     state["urls"] = state["urls"][-SEEN_URLS_RING:]
     state["title_hashes"] = state["title_hashes"][-SEEN_TITLES_RING:]
-    if "transfers" in state:
-        state["transfers"]["seen"] = state["transfers"]["seen"][-SEEN_TRANSFERS_RING:]
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
 
@@ -202,17 +416,14 @@ def git_commit_push(reason: str = "") -> None:
         subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"],
                         check=True, capture_output=True)
         subprocess.run(["git", "add", "state.json"], check=True, capture_output=True)
-
         diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
         if diff.returncode == 0:
             return  # nothing changed, nothing to commit
-
         msg = "chore: update state.json [skip ci]"
         if reason:
             msg += f" ({reason})"
         subprocess.run(["git", "commit", "-m", msg], check=True, capture_output=True)
         subprocess.run(["git", "pull", "--rebase", "origin", "main"], capture_output=True)
-
         r = subprocess.run(["git", "push"], capture_output=True, text=True)
         if r.returncode != 0:
             log.warning(f"git push failed: {r.stderr[:300]}")
@@ -223,6 +434,7 @@ def git_commit_push(reason: str = "") -> None:
 # ============================================================
 # Discord
 # ============================================================
+
 def _clip(text: str, limit: int) -> str:
     if not text:
         return ""
@@ -230,10 +442,16 @@ def _clip(text: str, limit: int) -> str:
     return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
 
 
-def _build_embed(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "", color: int = None) -> dict:
+def send_discord(title: str, link: str = "", source: str = "", summary: str = "",
+                  image_url: str = "", importance: str = "") -> bool:
+    """Send one news item to Discord as an embed. Returns True on success."""
+    if not DISCORD_WEBHOOK_URL:
+        log.error("Discord webhook missing")
+        return False
+
     embed = {
         "title": _clip(title, 256),
-        "color": color if color is not None else EMBED_COLOR,
+        "color": EMBED_COLOR,
     }
     if link:
         embed["url"] = link
@@ -243,22 +461,13 @@ def _build_embed(title: str, link: str = "", source: str = "", summary: str = ""
         embed["footer"] = {"text": _clip(source, 2048)}
     if image_url:
         embed["image"] = {"url": image_url}
-    return embed
+    if importance:
+        embed["fields"] = [{"name": "الأهمية", "value": importance, "inline": True}]
 
-
-def send_discord(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "",
-                 webhook: str = "", color: int = None) -> bool:
-    """Send one news item to Discord as an embed. Returns True on success."""
-    hook = webhook or DISCORD_WEBHOOK_URL
-    if not hook:
-        log.error("Discord webhook missing")
-        return False
-
-    payload = {"embeds": [_build_embed(title, link, source, summary, image_url, color)]}
-
+    payload = {"embeds": [embed]}
     for attempt in range(3):
         try:
-            r = requests.post(hook, json=payload, timeout=15)
+            r = requests.post(DISCORD_WEBHOOK_URL, json=payload, timeout=15)
             if r.status_code in (200, 204):
                 return True
             if r.status_code == 429:
@@ -270,13 +479,13 @@ def send_discord(title: str, link: str = "", source: str = "", summary: str = ""
         except requests.RequestException as e:
             log.error(f"Discord request failed (attempt {attempt + 1}): {e}")
             time.sleep(2)
-
     return False
 
 
 # ============================================================
 # RSS phase
 # ============================================================
+
 def normalize_title(title: str) -> str:
     t = title.lower().strip()
     t = SOURCE_SUFFIX_RE.sub("", t).strip()
@@ -318,20 +527,17 @@ def extract_image(entry) -> str:
             url = m.get("url")
             if url:
                 return url
-
     media_thumb = entry.get("media_thumbnail")
     if media_thumb:
         for m in media_thumb:
             url = m.get("url")
             if url:
                 return url
-
     for link_obj in entry.get("links", []):
         if str(link_obj.get("type", "")).startswith("image/"):
             href = link_obj.get("href")
             if href:
                 return href
-
     raw_html = entry.get("summary") or entry.get("description") or ""
     content_list = entry.get("content")
     if content_list:
@@ -339,55 +545,12 @@ def extract_image(entry) -> str:
     match = IMG_TAG_RE.search(raw_html)
     if match:
         return match.group(1)
-
     return ""
-
-
-# Source-level priority (set per feed in feeds.py via "priority": "high").
-# Feeds with no "priority" key default to "normal". High-priority sources
-# (e.g. official team/organizer X accounts bridged through RSSHub) get
-# processed and sent before normal sources in the same pass.
-FEED_PRIORITY = {fi["name"]: fi.get("priority", "normal") for fi in RSS_FEEDS}
-
-# ------------------------------------------------------------
-# Keyword guard  (added 2026-07-14 after a Google News bridge pushed a
-# story about intercepted ballistic missiles into the Discord channel)
-# ------------------------------------------------------------
-# A Google News "site:X keyword" bridge does NOT actually constrain results
-# to the keyword — Google returns whatever that site published. Any feed
-# that is not natively an esports feed MUST therefore carry a "require"
-# list in feeds.py: the item is dropped unless its title or summary
-# contains at least one of those words. This is a hard gate, not a hint.
-FEED_REQUIRE = {fi["name"]: [w.lower() for w in fi.get("require", [])] for fi in RSS_FEEDS}
-
-# Applies to every feed, always. Affiliate/casino spam and general
-# world-news bleed have no place in an esports channel.
-GLOBAL_REJECT = [
-    "casino", "sportsbook", "betting bonus", "best odds", "free bets",
-    "horoscope", "missile", "airstrike", "houthi", "ceasefire",
-]
-
-
-def passes_keyword_guard(name: str, title: str, summary: str) -> tuple:
-    """(ok, reason). Applies the global reject list, then the per-feed
-    require list if that feed declares one."""
-    blob = f"{title} {summary}".lower()
-
-    for bad in GLOBAL_REJECT:
-        if bad in blob:
-            return False, f"rejected keyword: {bad}"
-
-    required = FEED_REQUIRE.get(name) or []
-    if required and not any(w in blob for w in required):
-        return False, "no required keyword"
-
-    return True, ""
-PRIORITY_RANK = {"high": 0, "normal": 1, "low": 2}
 
 
 def fetch_one_feed(feed_info: dict):
     """Fetch + parse a single feed. Never raises — returns (name, entries_or_None, error_or_None).
-    Called from a thread pool so ~159 sources are fetched concurrently
+    Called from a thread pool so all sources are fetched concurrently
     instead of one-by-one, keeping each single-pass invocation fast
     (seconds, not minutes) even with a slow/dead source mixed in."""
     name = feed_info["name"]
@@ -409,38 +572,16 @@ def fetch_one_feed(feed_info: dict):
         return name, None, str(e)
 
 
-def entry_published_dt(entry):
-    """Best-effort publish datetime for latency measurement. None if unknown."""
-    pub = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
-    if not pub:
-        return None
-    try:
-        return datetime(*pub[:6], tzinfo=timezone.utc)
-    except (TypeError, ValueError):
-        return None
-
-
 def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
-    """Run RSS collection in two passes:
-
-    Pass 1 — fetch all sources in parallel, apply freshness/dedup gates,
-    and collect every item that should be sent into a candidate list
-    (no sending yet).
-
-    Pass 2 — sort candidates by source priority (feeds.py "priority": "high"
-    go first, e.g. official team/organizer accounts) so the most important
-    sources get first claim on the per-run send budget, then send the raw
-    RSS title/summary immediately, in that order. Latency (publish time ->
-    send time) is logged per item and averaged in the summary so slow
-    sources are visible.
-    """
+    """Run RSS collection. Fetches all sources in parallel, dedups, then
+    batch-analyzes eligible items via Gemini before sending sequentially
+    (so Discord rate limiting and the send budget stay predictable).
+    Returns number of messages sent."""
     seen_urls = set(state["urls"])
     seen_titles = set(state["title_hashes"])
-
     stats = defaultdict(int)
     failed = []
     sent = 0
-    latencies = []
 
     log.info(f"RSS phase: {len(RSS_FEEDS)} sources, {RSS_FETCH_WORKERS} parallel workers, freshness={MAX_AGE_HOURS}h")
 
@@ -450,48 +591,35 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
         for future in concurrent.futures.as_completed(futures):
             fetch_results.append(future.result())
 
-    # --- Pass 1: gate + collect candidates (no sending yet) ---
-    candidates = []
+    # --- Pass 1: dedup gate, collect eligible items (no sending yet) ---
+    candidates = []  # list of dicts: id, name, link, title, clean_summary, image
     for name, entries, error in fetch_results:
         if error:
             stats["sources_failed"] += 1
             failed.append(f"{name}: {error}")
             continue
         stats["sources_ok"] += 1
-
         for entry in entries:
             stats["entries_total"] += 1
-
             link = (entry.get("link") or "").strip()
             title = (entry.get("title") or "").strip()
             summary = entry.get("summary") or entry.get("description") or ""
-
             if not link or not title:
                 stats["skip_no_link_or_title"] += 1
                 continue
-
             if link in seen_urls:
                 stats["skip_seen_url"] += 1
                 continue
 
             t_hash = title_hash(title)
-
             if not is_fresh(entry, MAX_AGE_HOURS):
                 stats["skip_old"] += 1
                 seen_urls.add(link); state["urls"].append(link)
                 seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
                 continue
-
             if t_hash in seen_titles:
                 stats["skip_dup_title"] += 1
                 seen_urls.add(link); state["urls"].append(link)
-                continue
-
-            ok_kw, kw_reason = passes_keyword_guard(name, title, summary)
-            if not ok_kw:
-                stats["skip_keyword_guard"] += 1
-                seen_urls.add(link); state["urls"].append(link)
-                seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
                 continue
 
             # Passes all gates. Mark seen regardless of send outcome.
@@ -502,55 +630,61 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                 stats["baseline_recorded"] += 1
                 continue
 
+            if len(candidates) >= sent_budget:
+                stats["skip_cap"] += 1
+                state["urls"].pop()
+                state["title_hashes"].pop()
+                seen_urls.discard(link)
+                seen_titles.discard(t_hash)
+                continue
+
             candidates.append({
+                "id": f"rss-{len(candidates)}",
                 "name": name,
-                "priority": FEED_PRIORITY.get(name, "normal"),
-                "entry": entry,
                 "link": link,
                 "title": title,
-                "summary": summary,
-                "t_hash": t_hash,
-                "published_dt": entry_published_dt(entry),
+                "clean_summary": strip_html(summary),
+                "image": extract_image(entry),
             })
 
-    # --- Pass 2: sort by source priority, trim to budget, send raw RSS
-    # title/summary to Discord immediately. No analysis step of any kind —
-    # this is intentional: fewer moving parts means fewer ways for a news
-    # item to be delayed, altered, or dropped. Sending is sequential with
-    # MESSAGE_DELAY_SECONDS between messages to stay under Discord's
-    # webhook rate limit.
-    candidates.sort(key=lambda c: PRIORITY_RANK.get(c["priority"], 1))
+    # --- Pass 2: batch-analyze all eligible items via Gemini ---
+    gemini_items = [
+        {"id": c["id"], "kind": "news", "title": c["title"], "context": c["clean_summary"]}
+        for c in candidates
+    ]
+    analysis_map = analyze_items_in_batches(state, gemini_items)
 
-    to_process = candidates[:sent_budget]
-    overflow = candidates[sent_budget:]
-    for cand in overflow:
-        stats["skip_cap"] += 1
-        if cand["link"] in state["urls"]:
-            state["urls"].remove(cand["link"])
-        if cand["t_hash"] in state["title_hashes"]:
-            state["title_hashes"].remove(cand["t_hash"])
+    # --- Pass 3: send sequentially, respecting Discord rate limits ---
+    for c in candidates:
+        analysis = analysis_map.get(c["id"])
+        if analysis:
+            stats["gemini_analyzed"] += 1
+            send_title = analysis["headline"]
+            send_desc = f"**{analysis['subheadline']}**\n\n{analysis['summary']}"
+            model_importance = analysis["importance"]
+        else:
+            stats["gemini_fallback"] += 1
+            send_title = c["title"]
+            send_desc = f"{NO_ANALYSIS_NOTE}\n\n{c['clean_summary'][:280]}"
+            model_importance = "عادي"
 
-    for cand in to_process:
-        entry = cand["entry"]
-        title = cand["title"]
-        link = cand["link"]
-        name = cand["name"]
-        clean_summary = strip_html(cand["summary"])
+        # Safety net: raw title/summary (English) + translated output
+        # (Arabic) both get scanned, so keyword/org matches in either
+        # language can raise the floor even if the model under-rated it.
+        floor_text = f"{c['title']} {c['clean_summary']} {send_title} {send_desc}"
+        importance = apply_importance_floor(model_importance, floor_text)
 
         ok = send_discord(
-            title=title,
-            link=link,
-            source=name,
-            summary=clean_summary,
-            image_url=extract_image(entry),
+            title=send_title,
+            link=c["link"],
+            source=c["name"],
+            summary=send_desc,
+            image_url=c["image"],
+            importance=importance,
         )
         if ok:
             sent += 1
             stats["sent"] += 1
-            if cand["published_dt"]:
-                lag = (datetime.now(timezone.utc) - cand["published_dt"]).total_seconds()
-                latencies.append(lag)
-                log.info(f"  sent '{title[:60]}' — latency {lag/60:.1f} min (source: {name})")
             time.sleep(MESSAGE_DELAY_SECONDS)
         else:
             stats["send_failures"] += 1
@@ -558,11 +692,6 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
     log.info("--- RSS Summary ---")
     for k in sorted(stats.keys()):
         log.info(f"  {k:30s} {stats[k]}")
-    if latencies:
-        avg_min = sum(latencies) / len(latencies) / 60
-        max_min = max(latencies) / 60
-        log.info(f"  {'avg_latency_min':30s} {avg_min:.1f}")
-        log.info(f"  {'max_latency_min':30s} {max_min:.1f}")
     if failed:
         log.info(f"--- Failed Sources ({len(failed)}) ---")
         for line in failed:
@@ -572,19 +701,17 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
 
 
 # ============================================================
-# Liquipedia phase  (unchanged internals — no Gemini analysis here)
+# Liquipedia phase
 # ============================================================
+
 def fetch_liquipedia_revisions(wiki: str, pages: list, session: requests.Session) -> list:
     """Fetch latest revision for each page on a Liquipedia wiki."""
     if not pages:
         return []
-
     url = f"https://liquipedia.net/{wiki}/api.php"
     all_revs = []
-
     for i in range(0, len(pages), LIQUIPEDIA_BATCH_SIZE):
         batch = pages[i:i + LIQUIPEDIA_BATCH_SIZE]
-
         params = {
             "action": "query",
             "format": "json",
@@ -594,31 +721,24 @@ def fetch_liquipedia_revisions(wiki: str, pages: list, session: requests.Session
             "maxlag": 5,
             "redirects": 1,
         }
-
         try:
             time.sleep(LIQUIPEDIA_RATE_LIMIT_SEC)
             r = session.get(url, params=params, timeout=30)
-
             if r.status_code == 503 or "X-Database-Lag" in r.headers:
                 wait = int(r.headers.get("Retry-After", 60))
                 log.warning(f"Liquipedia maxlag on {wiki}, waiting {wait}s")
                 time.sleep(wait)
                 continue
-
             r.raise_for_status()
             data = r.json()
-
             if "error" in data:
                 log.error(f"Liquipedia API error on {wiki}: {data['error']}")
                 continue
-
             for page_id, page_info in data.get("query", {}).get("pages", {}).items():
                 if page_id == "-1" or "missing" in page_info:
                     continue
-
                 page_title = page_info.get("title", "")
                 slug = page_title.replace(" ", "_")
-
                 for rev in page_info.get("revisions", []):
                     rev["page_title"] = page_title
                     rev["wiki"] = wiki
@@ -628,28 +748,29 @@ def fetch_liquipedia_revisions(wiki: str, pages: list, session: requests.Session
                         f"title={slug}&diff={rev['revid']}&oldid={rev.get('parentid', 0)}"
                     )
                     all_revs.append(rev)
-
         except requests.RequestException as e:
             log.error(f"Liquipedia fetch failed on {wiki}: {e}")
         except ValueError as e:
             log.error(f"Liquipedia JSON parse failed on {wiki}: {e}")
-
     return all_revs
 
 
-def is_meaningful_edit(rev: dict, prev_size: int) -> tuple[bool, str]:
-    """Structural filter only — no keyword check. Drops bot/minor/tiny edits."""
+def is_meaningful_edit(rev: dict, prev_size: int) -> tuple:
+    """Structural filter only — no keyword check. Drops bot/minor/tiny edits.
+    Returns (keep: bool, reason: str, delta: int) — delta is always the raw
+    byte change, useful downstream even when keep=True, to give Gemini a
+    concrete signal of how big the edit was."""
     user = (rev.get("user") or "").lower()
     new_size = rev.get("size", 0)
     delta = abs(new_size - prev_size) if prev_size else new_size
 
     if "bot" in user:
-        return False, "bot edit"
+        return False, "bot edit", delta
     if rev.get("minor"):
-        return False, "marked minor"
+        return False, "marked minor", delta
     if delta < LIQUIPEDIA_MIN_BYTES_CHANGE:
-        return False, f"tiny change ({delta} bytes)"
-    return True, f"{delta} bytes changed"
+        return False, f"tiny change ({delta} bytes)", delta
+    return True, f"{delta} bytes changed", delta
 
 
 GAME_NAMES = {
@@ -663,7 +784,9 @@ GAME_NAMES = {
 
 
 def liquipedia_phase(state: dict, first_run: bool, sent_budget: int) -> int:
-    """Run Liquipedia collection. Returns number of messages sent."""
+    """Run Liquipedia collection. Collects meaningful edits, batch-analyzes
+    them via Gemini (translation + importance), then sends. Returns number
+    of messages sent."""
     lp_state = state["liquipedia"]
     sent = 0
     stats = defaultdict(int)
@@ -677,23 +800,22 @@ def liquipedia_phase(state: dict, first_run: bool, sent_budget: int) -> int:
         "Accept-Encoding": "gzip",
     })
 
+    # --- Pass 1: fetch revisions, filter meaningful edits ---
+    candidates = []  # list of dicts: id, page_title, page_url, game, user, comment
     for wiki, pages in WATCHLIST.items():
         if not pages:
             continue
-
         revisions = fetch_liquipedia_revisions(wiki, pages, session)
         stats[f"fetched_{wiki}"] = len(revisions)
 
         for rev in revisions:
             page_key = f"{wiki}:{rev['page_title']}"
             revid = str(rev.get("revid"))
-
             page_state = lp_state.setdefault(page_key, {"revids": [], "size": 0})
 
             if revid in page_state["revids"]:
                 stats["skip_seen_rev"] += 1
                 continue
-
             page_state["revids"].append(revid)
             page_state["revids"] = page_state["revids"][-SEEN_REVS_PER_PAGE:]
 
@@ -703,14 +825,13 @@ def liquipedia_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                 continue
 
             prev_size = page_state.get("size", 0)
-            keep, reason = is_meaningful_edit(rev, prev_size)
+            keep, reason, delta = is_meaningful_edit(rev, prev_size)
             page_state["size"] = rev.get("size", 0)
-
             if not keep:
                 stats[f"drop_{reason.split()[0]}"] += 1
                 continue
 
-            if sent >= sent_budget:
+            if len(candidates) >= sent_budget:
                 stats["skip_cap"] += 1
                 page_state["revids"].pop()
                 continue
@@ -719,18 +840,61 @@ def liquipedia_phase(state: dict, first_run: bool, sent_budget: int) -> int:
             comment = (rev.get("comment") or "").strip()[:200] or "بدون ملاحظة"
             user = rev.get("user") or "?"
 
-            ok = send_discord(
-                title=rev["page_title"],
-                link=rev["page_url"],
-                source=f"Liquipedia · {game} · المحرر: {user}",
-                summary=comment,
-            )
-            if ok:
-                sent += 1
-                stats["sent"] += 1
-                time.sleep(MESSAGE_DELAY_SECONDS)
-            else:
-                stats["send_failures"] += 1
+            candidates.append({
+                "id": f"lp-{len(candidates)}",
+                "page_title": rev["page_title"],
+                "page_url": rev["page_url"],
+                "game": game,
+                "user": user,
+                "comment": comment,
+                "delta": delta,
+            })
+
+    # --- Pass 2: batch-analyze all eligible edits via Gemini ---
+    gemini_items = [
+        {
+            "id": c["id"],
+            "kind": "wiki_edit",
+            "title": c["page_title"],
+            "context": (
+                f"اللعبة: {c['game']} | المحرر: {c['user']} | "
+                f"حجم التغيير: {c['delta']} بايت | تعليق التعديل: {c['comment']}"
+            ),
+        }
+        for c in candidates
+    ]
+    analysis_map = analyze_items_in_batches(state, gemini_items)
+
+    # --- Pass 3: send sequentially ---
+    for c in candidates:
+        analysis = analysis_map.get(c["id"])
+        if analysis:
+            stats["gemini_analyzed"] += 1
+            send_title = analysis["headline"]
+            send_desc = f"**{analysis['subheadline']}**\n\n{analysis['summary']}"
+            model_importance = analysis["importance"]
+        else:
+            stats["gemini_fallback"] += 1
+            send_title = c["page_title"]
+            send_desc = f"{NO_ANALYSIS_NOTE}\n\n{c['comment']}"
+            model_importance = "عادي"
+
+        floor_text = f"{c['page_title']} {c['comment']} {send_title} {send_desc}"
+        importance = apply_importance_floor(model_importance, floor_text)
+
+        ok = send_discord(
+            title=send_title,
+            link=c["page_url"],
+            source=f"Liquipedia · {c['game']} · المحرر: {c['user']}",
+            summary=send_desc,
+            importance=importance,
+        )
+        if ok:
+            sent += 1
+            stats["sent"] += 1
+            time.sleep(MESSAGE_DELAY_SECONDS)
+        else:
+            stats["send_failures"] += 1
 
     log.info("--- Liquipedia Summary ---")
     for k in sorted(stats.keys()):
@@ -741,9 +905,7 @@ def liquipedia_phase(state: dict, first_run: bool, sent_budget: int) -> int:
 
 def should_run_liquipedia(state: dict) -> bool:
     """True on first run, if no prior check is recorded, or if enough time
-    has passed since the last Liquipedia check. Since each invocation is a
-    single short pass now (no cycles), this replaces the old 'every 5th
-    cycle' rule with a wall-clock interval stored in state."""
+    has passed since the last Liquipedia check."""
     last = state.get("last_liquipedia_check")
     if not last:
         return True
@@ -754,237 +916,16 @@ def should_run_liquipedia(state: dict) -> bool:
     return (datetime.now(timezone.utc) - last_dt) >= timedelta(minutes=LIQUIPEDIA_MIN_INTERVAL_MINUTES)
 
 
-
-# ============================================================
-# Transfers phase — Liquipedia Player Transfers pages
-# ============================================================
-# This is the source of truth for roster moves. Reading it directly means
-# GGNewsAR gets the move when it is logged, not when someone writes it up
-# hours later. Bench moves, coach changes, stand-ins and releases never
-# become RSS articles at all, so this phase is the ONLY way they arrive.
-MONTHS = ["January", "February", "March", "April", "May", "June", "July",
-          "August", "September", "October", "November", "December"]
-
-
-def _lp_session() -> requests.Session:
-    s = requests.Session()
-    s.headers.update({
-        "User-Agent": LIQUIPEDIA_USER_AGENT,
-        "Accept-Encoding": "gzip",
-    })
-    return s
-
-
-def _lp_get(session, wiki: str, params: dict) -> dict:
-    """One rate-limited Liquipedia API call. Returns {} on failure."""
-    url = f"https://liquipedia.net/{wiki}/api.php"
-    params = {**params, "format": "json", "maxlag": 5}
-    try:
-        time.sleep(LIQUIPEDIA_RATE_LIMIT_SEC)
-        r = session.get(url, params=params, timeout=30)
-        if r.status_code != 200:
-            log.warning(f"Liquipedia {wiki} HTTP {r.status_code}")
-            return {}
-        return r.json()
-    except (requests.RequestException, ValueError) as e:
-        log.warning(f"Liquipedia {wiki} request failed: {e}")
-        return {}
-
-
-def resolve_transfer_page(session, wiki: str) -> str:
-    """Find the current transfer page title for this wiki.
-
-    Tries the monthly page first, then quarterly, then the yearly page.
-    Returns "" if the wiki has no transfer page under any known pattern
-    (that is fine — it just gets skipped).
-    """
-    now = datetime.now(timezone.utc)
-    quarter = ["1st", "2nd", "3rd", "4th"][(now.month - 1) // 3]
-    candidates = [
-        pat.format(y=now.year, m=MONTHS[now.month - 1], q=quarter)
-        for pat in TRANSFER_PAGE_PATTERNS
-    ]
-
-    data = _lp_get(session, wiki, {
-        "action": "query",
-        "titles": "|".join(candidates),
-        "prop": "info",
-        "redirects": 1,
-    })
-    pages = (data.get("query", {}) or {}).get("pages", {}) or {}
-    existing = {
-        p.get("title", "").replace(" ", "_")
-        for pid, p in pages.items()
-        if int(pid) > 0 and "missing" not in p
-    }
-    for cand in candidates:                 # keep pattern preference order
-        if cand in existing:
-            return cand
-    return ""
-
-
-def fetch_page_revid(session, wiki: str, title: str) -> int:
-    data = _lp_get(session, wiki, {
-        "action": "query", "titles": title,
-        "prop": "revisions", "rvprop": "ids",
-    })
-    pages = (data.get("query", {}) or {}).get("pages", {}) or {}
-    for pid, p in pages.items():
-        revs = p.get("revisions") or []
-        if revs:
-            return int(revs[0].get("revid", 0))
-    return 0
-
-
-def fetch_page_wikitext(session, wiki: str, title: str) -> str:
-    data = _lp_get(session, wiki, {
-        "action": "query", "titles": title,
-        "prop": "revisions", "rvprop": "content", "rvslots": "main",
-    })
-    pages = (data.get("query", {}) or {}).get("pages", {}) or {}
-    for pid, p in pages.items():
-        revs = p.get("revisions") or []
-        if not revs:
-            continue
-        slots = revs[0].get("slots", {})
-        if slots:
-            return slots.get("main", {}).get("*", "") or ""
-        return revs[0].get("*", "") or ""
-    return ""
-
-
-def should_run_transfers(state: dict) -> bool:
-    last = state["transfers"].get("last_check")
-    if not last:
-        return True
-    try:
-        last_dt = datetime.fromisoformat(last)
-    except ValueError:
-        return True
-    return (datetime.now(timezone.utc) - last_dt) >= timedelta(minutes=TRANSFERS_MIN_INTERVAL_MINUTES)
-
-
-def transfers_phase(state: dict, first_run: bool, sent_budget: int) -> int:
-    """Poll every transfer page, send new rows. Returns messages sent."""
-    tstate = state["transfers"]
-    seen = set(tstate["seen"])
-    stats = defaultdict(int)
-    sent = 0
-    budget = min(sent_budget, TRANSFERS_MAX_PER_RUN)
-
-    log.info(f"Transfers phase: {len(TRANSFER_WIKIS)} wikis, mode={TRANSFERS_MODE}, budget={budget}")
-    session = _lp_session()
-    candidates = []
-
-    for wiki, game in TRANSFER_WIKIS.items():
-        entry = tstate["pages"].get(wiki, {})
-        title = entry.get("title", "")
-        month_tag = datetime.now(timezone.utc).strftime("%Y-%m")
-
-        # Re-resolve the page whenever the month rolls over (or first time)
-        if not title or entry.get("month") != month_tag:
-            title = resolve_transfer_page(session, wiki)
-            if not title:
-                stats["wikis_no_page"] += 1
-                tstate["pages"][wiki] = {"title": "", "month": month_tag, "revid": 0}
-                continue
-            entry = {"title": title, "month": month_tag, "revid": 0}
-            tstate["pages"][wiki] = entry
-            log.info(f"  {wiki}: transfer page -> {title}")
-
-        # Cheap change check: skip the page entirely if nothing was edited
-        revid = fetch_page_revid(session, wiki, title)
-        if revid and revid == entry.get("revid"):
-            stats["wikis_unchanged"] += 1
-            continue
-
-        wikitext = fetch_page_wikitext(session, wiki, title)
-        if not wikitext:
-            stats["wikis_empty"] += 1
-            continue
-
-        entry["revid"] = revid
-        stats["wikis_scanned"] += 1
-
-        for tpl in extract_transfer_templates(wikitext):
-            row = parse_transfer(tpl)
-            if not row.get("players"):
-                continue
-            stats["rows_total"] += 1
-
-            key = row_key(wiki, row)
-            if key in seen:
-                stats["rows_seen"] += 1
-                continue
-            seen.add(key)
-            tstate["seen"].append(key)
-
-            if first_run:
-                stats["rows_baseline"] += 1
-                continue
-
-            send, tag = classify(row)
-            if not send:
-                stats["rows_filtered_out"] += 1
-                continue
-
-            candidates.append({"wiki": wiki, "game": game, "row": row, "tag": tag})
-
-    # MENA rows first — if the budget is tight, they are the ones that must
-    # get through. Then newest date first.
-    candidates.sort(key=lambda c: (0 if c["tag"] == "MENA" else 1,
-                                   c["row"].get("date", "")), reverse=False)
-    to_send = candidates[:budget]
-    stats["rows_over_cap"] = max(0, len(candidates) - len(to_send))
-
-    for c in to_send:
-        row, game, tag = c["row"], c["game"], c["tag"]
-        headline = format_headline(game, row)
-        if tag == "MENA":
-            headline = f"[MENA] {headline}"
-
-        bits = []
-        if row.get("date"):
-            bits.append(f"**التاريخ:** {row['date']}")
-        bits.append(f"**من:** {row.get('from') or 'Free Agent'}"
-                    + (f" ({row['role_from']})" if row.get("role_from") else ""))
-        bits.append(f"**إلى:** {row.get('to') or 'Free Agent'}"
-                    + (f" ({row['role_to']})" if row.get("role_to") else ""))
-        page_url = f"https://liquipedia.net/{c['wiki']}/{tstate['pages'][c['wiki']]['title']}"
-
-        ok = send_discord(
-            title=headline,
-            link=page_url,
-            source=f"Liquipedia Transfers · {game}",
-            summary="\n".join(bits),
-            webhook=TRANSFERS_WEBHOOK_URL,
-            color=MENA_EMBED_COLOR if tag == "MENA" else TRANSFER_EMBED_COLOR,
-        )
-        if ok:
-            sent += 1
-            stats["sent"] += 1
-            if tag == "MENA":
-                stats["sent_mena"] += 1
-        else:
-            stats["send_failures"] += 1
-        time.sleep(MESSAGE_DELAY_SECONDS)
-
-    tstate["last_check"] = datetime.now(timezone.utc).isoformat()
-
-    log.info("--- Transfers Summary ---")
-    for k in sorted(stats.keys()):
-        log.info(f"  {k:22s} {stats[k]}")
-
-    return sent
-
-
 # ============================================================
 # Main — single pass
 # ============================================================
+
 def main():
     if not DISCORD_WEBHOOK_URL:
         log.error("Missing DISCORD_WEBHOOK_URL env var")
         return
+    if not GEMINI_API_KEY:
+        log.warning("Missing GEMINI_API_KEY — Gemini analysis disabled, will fall back to raw RSS/Liquipedia content.")
 
     state = load_state()
     first_run = (
@@ -992,32 +933,26 @@ def main():
         and len(state["title_hashes"]) == 0
         and len(state["liquipedia"]) == 0
     )
-    # A pre-existing state.json with no transfer history means the transfers
-    # feature is new: baseline it silently instead of dumping a whole month
-    # of back-catalogue moves into Discord on the first run.
-    transfers_first_run = first_run or len(state["transfers"]["seen"]) == 0
     if first_run:
         log.info("FIRST RUN: indexing baseline, no messages will be sent this pass.")
 
+    log.info(f"Gemini quota remaining today: {get_quota_remaining(state)}/{GEMINI_DAILY_QUOTA} (model={GEMINI_MODEL})")
+
     rss_sent = rss_phase(state, first_run, MAX_MESSAGES_PER_RUN)
-    remaining = MAX_MESSAGES_PER_RUN - rss_sent
+    remaining_budget = MAX_MESSAGES_PER_RUN - rss_sent
 
     lp_sent = 0
-    log.info("Liquipedia watchlist phase disabled — RSS + Transfers only.")
-
-    # Transfers get their OWN budget, deliberately not shared with RSS.
-    # A busy news day must never be allowed to starve the transfer feed —
-    # transfers are the highest-value stream GGNewsAR publishes.
-    tr_sent = 0
-    if should_run_transfers(state):
-        tr_sent = transfers_phase(state, transfers_first_run, TRANSFERS_MAX_PER_RUN)
+    if should_run_liquipedia(state):
+        lp_sent = liquipedia_phase(state, first_run, remaining_budget)
+        state["last_liquipedia_check"] = datetime.now(timezone.utc).isoformat()
     else:
-        log.info(f"Transfers phase skipped (interval < {TRANSFERS_MIN_INTERVAL_MINUTES} min).")
+        log.info(f"Liquipedia phase skipped (last check within {LIQUIPEDIA_MIN_INTERVAL_MINUTES} min)")
 
     save_state(state)
-    git_commit_push("single pass")
+    git_commit_push("single pass + AI batching")
 
-    log.info(f"=== Pass done. RSS: {rss_sent}, Liquipedia: {lp_sent}, Transfers: {tr_sent} ===")
+    log.info(f"=== Pass done. RSS sent: {rss_sent}, Liquipedia sent: {lp_sent}, "
+              f"Gemini quota used today: {state['gemini_quota']['calls']}/{GEMINI_DAILY_QUOTA} ===")
 
 
 if __name__ == "__main__":
