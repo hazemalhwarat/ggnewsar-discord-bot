@@ -1,15 +1,19 @@
 """
-GGNewsAR Discord Bot — unified RSS + Liquipedia pipeline, raw (no AI) edition.
+GGNewsAR Discord Bot — RSS-only pipeline, raw (no AI) edition.
 
-مشروع مستقل تماماً عن بوت تيليقرام. نفس المنطق بالضبط (RSS + Liquipedia +
-dedup + state)، لكن الإرسال يروح لروم Discord عبر Webhook بدل تيليقرام.
+مشروع مستقل تماماً عن بوت تيليقرام. الإرسال يروح لروم Discord عبر Webhook.
+
+=== ARCHITECTURE CHANGE (2026-07-18): إزالة Liquipedia بالكامل ===
+تم حذف مرحلة Liquipedia نهائياً. البوت الحين يعتمد على RSS فقط. ما عاد
+يرسل أي تعديلات صفحات من Liquipedia (لا watchlist ولا مراقبة revisions).
+ملف watchlist.py صار غير مستخدم من bot.py.
 
 === ARCHITECTURE CHANGE (2026-07-17, v2): إزالة الترجمة الآلية بالكامل ===
 جربنا تمرير كل خبر عبر Gemini للترجمة والتلخيص، لكن قرار حازم إيقاف هذا
-تماماً. الحين كل خبر RSS وكل تعديل Liquipedia يترسل كما هو بالضبط (العنوان
-والملخص الأصليين، بدون أي ترجمة أو استدعاء API خارجي). هذا يلغي أي اعتماد
-على حصة Gemini المجانية أو جودة الترجمة، ويسمح برفع سقف عدد الرسائل بكل
-تشغيلة (MAX_MESSAGES_PER_RUN) لأن ما فيه قيد API يوقفنا.
+تماماً. الحين كل خبر RSS يترسل كما هو بالضبط (العنوان والملخص الأصليين،
+بدون أي ترجمة أو استدعاء API خارجي). هذا يلغي أي اعتماد على حصة Gemini
+المجانية أو جودة الترجمة، ويسمح برفع سقف عدد الرسائل بكل تشغيلة
+(MAX_MESSAGES_PER_RUN) لأن ما فيه قيد API يوقفنا.
 
 تصنيف "الأهمية" (عاجل / مهم / عادي) لسا موجود، لكن الحين مبني بالكامل على
 كلمات مفتاحية + قائمة فرق MENA ذات أولوية (بدون أي نموذج ذكاء اصطناعي) —
@@ -22,17 +26,12 @@ dedup + state)، لكن الإرسال يروح لروم Discord عبر Webhook 
 Pipeline (once per invocation):
 1. RSS phase: fetch all feeds in feeds.py IN PARALLEL, filter freshness +
    dedup, send raw title/summary/image as-is.
-2. Liquipedia phase (only if LIQUIPEDIA_MIN_INTERVAL_MINUTES have passed
-   since last Liquipedia check): poll watchlist pages, filter
-   bot/minor/tiny edits, send raw page title + edit comment as-is.
 
-State is unified in state.json with these collections:
+State is stored in state.json with these collections:
 - urls: seen RSS URLs (ring of last 8000)
 - title_hashes: normalized title hashes (ring of last 8000)
-- liquipedia: per-page seen revids + last seen size
-- last_liquipedia_check: ISO timestamp of last Liquipedia phase run
 
-Configuration sources: feeds.py (RSS_FEEDS), watchlist.py (WATCHLIST).
+Configuration source: feeds.py (RSS_FEEDS).
 Secrets: DISCORD_WEBHOOK_URL in environment.
 
 GitHub Actions workflow (run.yml) should trigger this via:
@@ -58,7 +57,6 @@ import feedparser
 import requests
 
 from feeds import RSS_FEEDS
-from watchlist import WATCHLIST
 
 # ============================================================
 # Configuration
@@ -83,25 +81,10 @@ MAX_AGE_HOURS = 24
 # State ring sizes
 SEEN_URLS_RING = 8000
 SEEN_TITLES_RING = 8000
-SEEN_REVS_PER_PAGE = 20
-
-# ------------------------------------------------------------
-# Single-pass settings
-# ------------------------------------------------------------
-# Liquipedia is checked at most once every N minutes, tracked via
-# state["last_liquipedia_check"], since each invocation is now a single
-# short pass rather than one cycle among many inside a long-lived loop.
-LIQUIPEDIA_MIN_INTERVAL_MINUTES = 10
 
 # RSS parallel fetch settings
 RSS_FETCH_WORKERS = 40
 RSS_FETCH_TIMEOUT_SECONDS = 10
-
-# Liquipedia API
-LIQUIPEDIA_USER_AGENT = "GGNewsAR Bot/2.0 (https://ggnewsar.com; hazem@ggnewsar.com)"
-LIQUIPEDIA_RATE_LIMIT_SEC = 2.5
-LIQUIPEDIA_BATCH_SIZE = 50
-LIQUIPEDIA_MIN_BYTES_CHANGE = 100  # ignore edits smaller than this
 
 # Discord embed color
 EMBED_COLOR = 0x7C3AED
@@ -188,19 +171,18 @@ def load_state() -> dict:
         return {
             "urls": [],
             "title_hashes": [],
-            "liquipedia": {},  # "wiki:page" -> {"revids": [...], "size": int}
-            "last_liquipedia_check": None,  # ISO timestamp string or None
         }
     try:
         with open(STATE_FILE, "r", encoding="utf-8") as f:
             data = json.load(f)
     except (json.JSONDecodeError, OSError) as e:
         log.error(f"state.json corrupted, starting fresh: {e}")
-        return {"urls": [], "title_hashes": [], "liquipedia": {}, "last_liquipedia_check": None}
+        return {"urls": [], "title_hashes": []}
     data.setdefault("urls", [])
     data.setdefault("title_hashes", [])
-    data.setdefault("liquipedia", {})
-    data.setdefault("last_liquipedia_check", None)
+    # Drop any leftover Liquipedia state from older versions of the bot.
+    data.pop("liquipedia", None)
+    data.pop("last_liquipedia_check", None)
     return data
 
 
@@ -467,175 +449,6 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
 
 
 # ============================================================
-# Liquipedia phase
-# ============================================================
-
-def fetch_liquipedia_revisions(wiki: str, pages: list, session: requests.Session) -> list:
-    """Fetch latest revision for each page on a Liquipedia wiki."""
-    if not pages:
-        return []
-    url = f"https://liquipedia.net/{wiki}/api.php"
-    all_revs = []
-    for i in range(0, len(pages), LIQUIPEDIA_BATCH_SIZE):
-        batch = pages[i:i + LIQUIPEDIA_BATCH_SIZE]
-        params = {
-            "action": "query",
-            "format": "json",
-            "prop": "revisions",
-            "titles": "|".join(batch),
-            "rvprop": "ids|timestamp|user|comment|size|flags",
-            "maxlag": 5,
-            "redirects": 1,
-        }
-        try:
-            time.sleep(LIQUIPEDIA_RATE_LIMIT_SEC)
-            r = session.get(url, params=params, timeout=30)
-            if r.status_code == 503 or "X-Database-Lag" in r.headers:
-                wait = int(r.headers.get("Retry-After", 60))
-                log.warning(f"Liquipedia maxlag on {wiki}, waiting {wait}s")
-                time.sleep(wait)
-                continue
-            r.raise_for_status()
-            data = r.json()
-            if "error" in data:
-                log.error(f"Liquipedia API error on {wiki}: {data['error']}")
-                continue
-            for page_id, page_info in data.get("query", {}).get("pages", {}).items():
-                if page_id == "-1" or "missing" in page_info:
-                    continue
-                page_title = page_info.get("title", "")
-                slug = page_title.replace(" ", "_")
-                for rev in page_info.get("revisions", []):
-                    rev["page_title"] = page_title
-                    rev["wiki"] = wiki
-                    rev["page_url"] = f"https://liquipedia.net/{wiki}/{slug}"
-                    rev["diff_url"] = (
-                        f"https://liquipedia.net/{wiki}/index.php?"
-                        f"title={slug}&diff={rev['revid']}&oldid={rev.get('parentid', 0)}"
-                    )
-                    all_revs.append(rev)
-        except requests.RequestException as e:
-            log.error(f"Liquipedia fetch failed on {wiki}: {e}")
-        except ValueError as e:
-            log.error(f"Liquipedia JSON parse failed on {wiki}: {e}")
-    return all_revs
-
-
-def is_meaningful_edit(rev: dict, prev_size: int) -> tuple:
-    """Structural filter only — no keyword check. Drops bot/minor/tiny edits.
-    Returns (keep: bool, reason: str, delta: int)."""
-    user = (rev.get("user") or "").lower()
-    new_size = rev.get("size", 0)
-    delta = abs(new_size - prev_size) if prev_size else new_size
-
-    if "bot" in user:
-        return False, "bot edit", delta
-    if rev.get("minor"):
-        return False, "marked minor", delta
-    if delta < LIQUIPEDIA_MIN_BYTES_CHANGE:
-        return False, f"tiny change ({delta} bytes)", delta
-    return True, f"{delta} bytes changed", delta
-
-
-GAME_NAMES = {
-    "counterstrike": "Counter Strike 2", "valorant": "VALORANT",
-    "leagueoflegends": "League of Legends", "dota2": "Dota 2",
-    "rainbowsix": "Rainbow Six Siege", "rocketleague": "Rocket League",
-    "mobilelegends": "Mobile Legends", "honorofkings": "Honor of Kings",
-    "pubgmobile": "PUBG Mobile", "fighters": "Fighting Games",
-    "easportsfc": "EA Sports FC",
-}
-
-
-def liquipedia_phase(state: dict, first_run: bool, sent_budget: int) -> int:
-    """Run Liquipedia collection. Sends each meaningful edit AS-IS (raw page
-    title + raw edit comment, no translation). Returns number of messages sent."""
-    lp_state = state["liquipedia"]
-    sent = 0
-    stats = defaultdict(int)
-
-    total_pages = sum(len(p) for p in WATCHLIST.values())
-    log.info(f"Liquipedia phase: {total_pages} pages across {len(WATCHLIST)} wikis")
-
-    session = requests.Session()
-    session.headers.update({
-        "User-Agent": LIQUIPEDIA_USER_AGENT,
-        "Accept-Encoding": "gzip",
-    })
-
-    for wiki, pages in WATCHLIST.items():
-        if not pages:
-            continue
-        revisions = fetch_liquipedia_revisions(wiki, pages, session)
-        stats[f"fetched_{wiki}"] = len(revisions)
-
-        for rev in revisions:
-            page_key = f"{wiki}:{rev['page_title']}"
-            revid = str(rev.get("revid"))
-            page_state = lp_state.setdefault(page_key, {"revids": [], "size": 0})
-
-            if revid in page_state["revids"]:
-                stats["skip_seen_rev"] += 1
-                continue
-            page_state["revids"].append(revid)
-            page_state["revids"] = page_state["revids"][-SEEN_REVS_PER_PAGE:]
-
-            if first_run:
-                page_state["size"] = rev.get("size", 0)
-                stats["baseline_recorded"] += 1
-                continue
-
-            prev_size = page_state.get("size", 0)
-            keep, reason, delta = is_meaningful_edit(rev, prev_size)
-            page_state["size"] = rev.get("size", 0)
-            if not keep:
-                stats[f"drop_{reason.split()[0]}"] += 1
-                continue
-
-            if sent >= sent_budget:
-                stats["skip_cap"] += 1
-                continue
-
-            game = GAME_NAMES.get(rev["wiki"], rev["wiki"])
-            comment = (rev.get("comment") or "").strip()[:200] or "بدون ملاحظة"
-            user = rev.get("user") or "?"
-            importance = compute_importance(f"{rev['page_title']} {comment}")
-
-            ok = send_discord(
-                title=rev["page_title"],
-                link=rev["page_url"],
-                source=f"Liquipedia · {game} · المحرر: {user} · {delta} بايت",
-                summary=comment,
-                importance=importance,
-            )
-            if ok:
-                sent += 1
-                stats["sent"] += 1
-                time.sleep(MESSAGE_DELAY_SECONDS)
-            else:
-                stats["send_failures"] += 1
-
-    log.info("--- Liquipedia Summary ---")
-    for k in sorted(stats.keys()):
-        log.info(f"  {k:30s} {stats[k]}")
-
-    return sent
-
-
-def should_run_liquipedia(state: dict) -> bool:
-    """True on first run, if no prior check is recorded, or if enough time
-    has passed since the last Liquipedia check."""
-    last = state.get("last_liquipedia_check")
-    if not last:
-        return True
-    try:
-        last_dt = datetime.fromisoformat(last)
-    except ValueError:
-        return True
-    return (datetime.now(timezone.utc) - last_dt) >= timedelta(minutes=LIQUIPEDIA_MIN_INTERVAL_MINUTES)
-
-
-# ============================================================
 # Main — single pass
 # ============================================================
 
@@ -648,25 +461,16 @@ def main():
     first_run = (
         len(state["urls"]) == 0
         and len(state["title_hashes"]) == 0
-        and len(state["liquipedia"]) == 0
     )
     if first_run:
         log.info("FIRST RUN: indexing baseline, no messages will be sent this pass.")
 
     rss_sent = rss_phase(state, first_run, MAX_MESSAGES_PER_RUN)
-    remaining_budget = MAX_MESSAGES_PER_RUN - rss_sent
-
-    lp_sent = 0
-    if should_run_liquipedia(state):
-        lp_sent = liquipedia_phase(state, first_run, remaining_budget)
-        state["last_liquipedia_check"] = datetime.now(timezone.utc).isoformat()
-    else:
-        log.info(f"Liquipedia phase skipped (last check within {LIQUIPEDIA_MIN_INTERVAL_MINUTES} min)")
 
     save_state(state)
     git_commit_push("single pass, raw content")
 
-    log.info(f"=== Pass done. RSS sent: {rss_sent}, Liquipedia sent: {lp_sent} ===")
+    log.info(f"=== Pass done. RSS sent: {rss_sent} ===")
 
 
 if __name__ == "__main__":
