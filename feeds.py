@@ -288,6 +288,44 @@ RSS_FEEDS = [
 
     {"name": "Street Fighter / Tekken competitive (Google News)", "url": "https://news.google.com/rss/search?q=%22Street+Fighter%22+OR+Tekken+esports+tournament&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Chess.com / chess esports (Google News)", "url": "https://news.google.com/rss/search?q=chess+esports+tournament&hl=en&gl=US&ceid=US:en", "verified": False},
+
+    # ============================================================
+    # REDDIT — added 2026-07-18. New source category (was absent).
+    # Native Reddit RSS: append .rss to any subreddit URL. Uses the
+    # /new/.rss path so the bot sees newest posts, not "hot". Reddit
+    # .rss is rate-limited, so an occasional empty pull is expected and
+    # fine -- retried next run like any other feed.
+    # ============================================================
+    {"name": "Reddit: r/esports", "url": "https://www.reddit.com/r/esports/new/.rss", "verified": False},
+    {"name": "Reddit: r/GlobalOffensive (CS2)", "url": "https://www.reddit.com/r/GlobalOffensive/new/.rss", "verified": False},
+    {"name": "Reddit: r/cs2", "url": "https://www.reddit.com/r/cs2/new/.rss", "verified": False},
+    {"name": "Reddit: r/ValorantCompetitive", "url": "https://www.reddit.com/r/ValorantCompetitive/new/.rss", "verified": False},
+    {"name": "Reddit: r/VALORANT", "url": "https://www.reddit.com/r/VALORANT/new/.rss", "verified": False},
+    {"name": "Reddit: r/DotA2", "url": "https://www.reddit.com/r/DotA2/new/.rss", "verified": False},
+    {"name": "Reddit: r/leagueoflegends", "url": "https://www.reddit.com/r/leagueoflegends/new/.rss", "verified": False},
+    {"name": "Reddit: r/Competitiveoverwatch", "url": "https://www.reddit.com/r/Competitiveoverwatch/new/.rss", "verified": False},
+    {"name": "Reddit: r/RocketLeagueEsports", "url": "https://www.reddit.com/r/RocketLeagueEsports/new/.rss", "verified": False},
+    {"name": "Reddit: r/CoDCompetitive", "url": "https://www.reddit.com/r/CoDCompetitive/new/.rss", "verified": False},
+    {"name": "Reddit: r/R6ProLeague (Rainbow Six)", "url": "https://www.reddit.com/r/R6ProLeague/new/.rss", "verified": False},
+    {"name": "Reddit: r/Rainbow6", "url": "https://www.reddit.com/r/Rainbow6/new/.rss", "verified": False},
+    {"name": "Reddit: r/CompetitiveApex", "url": "https://www.reddit.com/r/CompetitiveApex/new/.rss", "verified": False},
+    {"name": "Reddit: r/PUBGMobile", "url": "https://www.reddit.com/r/PUBGMobile/new/.rss", "verified": False},
+    {"name": "Reddit: r/MobileLegendsGame", "url": "https://www.reddit.com/r/MobileLegendsGame/new/.rss", "verified": False},
+    {"name": "Reddit: r/FortniteCompetitive", "url": "https://www.reddit.com/r/FortniteCompetitive/new/.rss", "verified": False},
+    {"name": "Reddit: r/StreetFighter", "url": "https://www.reddit.com/r/StreetFighter/new/.rss", "verified": False},
+    {"name": "Reddit: r/Tekken", "url": "https://www.reddit.com/r/Tekken/new/.rss", "verified": False},
+    {"name": "Reddit: r/freefire", "url": "https://www.reddit.com/r/freefire/new/.rss", "verified": False},
+
+    # ============================================================
+    # NEWS SITES — added 2026-07-18. English esports outlets not
+    # already covered above. Native /feed where the site is WordPress,
+    # Google News site: bridge otherwise (matches the Fragster pattern).
+    # ============================================================
+    {"name": "Jaxon.gg", "url": "https://jaxon.gg/feed/", "verified": False},
+    {"name": "Blix.gg", "url": "https://blix.gg/feed/", "verified": False},
+    {"name": "THESPIKE.gg (Valorant, via Google News)", "url": "https://news.google.com/rss/search?q=site:thespike.gg&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "bo3.gg (CS2, via Google News)", "url": "https://news.google.com/rss/search?q=site:bo3.gg&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Run It Back (via Google News)", "url": "https://news.google.com/rss/search?q=site:runitback.gg&hl=en&gl=US&ceid=US:en", "verified": False},
 ]
 
 if __name__ == "__main__":
