@@ -1,0 +1,58 @@
+name: GGNewsAR Player Birthdays
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "شغّل يدوياً: refresh (يعيد بناء قائمة اللاعبين، بطيء) أو check (يفحص عيد ميلاد اليوم فقط)"
+        required: true
+        default: "check"
+        type: choice
+        options:
+          - check
+          - refresh
+  schedule:
+    # الفحص اليومي — خفيف وسريع، يقرأ من players_birthdays.json المخزّن فقط
+    - cron: "0 5 * * *"    # 05:00 UTC = 08:00 عمّان (بدون توقيت صيفي)، عدّل لو تبي وقت غيره
+    # إعادة بناء القائمة الكاملة أسبوعياً — يوم الأحد بدري
+    - cron: "0 3 * * 0"    # 03:00 UTC يوم الأحد
+
+permissions:
+  contents: write   # مطلوب عشان يقدر يعمل commit/push للملفات
+
+concurrency:
+  group: ggnewsar-birthdays
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45   # الـ refresh يمر على مئات صفحات Liquipedia، يحتاج وقت أطول من الفحص اليومي
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Decide mode (cron vs manual dispatch)
+        id: pick_mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "0 3 * * 0" ]; then
+            echo "mode=refresh" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=check" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run birthdays (${{ steps.pick_mode.outputs.mode }})
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          # اختياري: ويبهوك مستقل لقناة #birthdays. لو ما ضفته، تنبيهات
+          # الميلاد بتنزل بنفس قناة الأخبار.
+          BIRTHDAYS_WEBHOOK_URL: ${{ secrets.BIRTHDAYS_WEBHOOK_URL }}
+        run: python birthdays.py ${{ steps.pick_mode.outputs.mode }}
