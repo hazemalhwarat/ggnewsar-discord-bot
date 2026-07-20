@@ -3,6 +3,14 @@ GGNewsAR Discord Bot — RSS-only pipeline, raw (no AI) edition.
 
 مشروع مستقل تماماً عن بوت تيليقرام. الإرسال يروح لروم Discord عبر Webhook.
 
+=== ARCHITECTURE CHANGE (2026-07-20): قناة مستقلة لأخبار الرعايات والبزنس ===
+أي خبر يُصنَّف "رعاية/بزنس" (إما لأنه جاء من مصدر مُعلَّم بـ
+"category": "sponsorship" في feeds.py، أو لأن عنوانه/ملخصه يحتوي كلمة
+مفتاحية من SPONSORSHIP_KEYWORDS أدناه) يروح لقناة Discord مستقلة عبر
+SPONSORSHIP_WEBHOOK_URL بدل القناة العامة. لو السيكرت هذا غير موجود
+بالبيئة، يرجع تلقائياً يرسل بنفس القناة العامة (DISCORD_WEBHOOK_URL) بدون
+أي كسر بالتشغيل. راجع is_sponsorship_news() تحت.
+
 === ARCHITECTURE CHANGE (2026-07-18): إزالة Liquipedia بالكامل ===
 تم حذف مرحلة Liquipedia نهائياً. البوت الحين يعتمد على RSS فقط. ما عاد
 يرسل أي تعديلات صفحات من Liquipedia (لا watchlist ولا مراقبة revisions).
@@ -63,6 +71,12 @@ from feeds import RSS_FEEDS
 # ============================================================
 
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
+
+# Dedicated channel for sponsorship/business news (deals, partnerships,
+# investment, acquisitions). Optional: if not set, sponsorship items fall
+# back to DISCORD_WEBHOOK_URL automatically — nothing breaks, they just
+# won't be split out until this secret is added.
+SPONSORSHIP_WEBHOOK_URL = os.environ.get("SPONSORSHIP_WEBHOOK_URL", "").strip()
 
 STATE_FILE = Path("state.json")
 
@@ -155,6 +169,48 @@ def compute_importance(raw_text: str) -> str:
     return importance
 
 
+# ------------------------------------------------------------
+# Sponsorship / business routing — pure source-tag + keyword matching,
+# no AI involved. Any source tagged "category": "sponsorship" in
+# feeds.py routes there automatically; any item from a GENERAL source
+# that happens to be a sponsorship/deal/investment story also gets
+# caught by the keyword scan below and redirected the same way, so a
+# business story doesn't get stuck in the general news channel just
+# because it came from HLTV/Dot Esports/etc. instead of a business-only
+# source.
+# ------------------------------------------------------------
+
+SPONSORSHIP_SOURCE_NAMES = {
+    f["name"] for f in RSS_FEEDS if f.get("category") == "sponsorship"
+}
+
+SPONSORSHIP_KEYWORDS = [
+    # English
+    "sponsor", "sponsors", "sponsored", "sponsorship",
+    "partners with", "partnership", "multi-year deal", "multi-year partnership",
+    "signs deal", "signs sponsorship", "signs partnership", "naming rights",
+    "title sponsor", "jersey sponsor", "brand deal", "brand partnership",
+    "investment", "invests in", "invests", "funding round", "raises $",
+    "raises funding", "series a", "series b", "acquisition", "acquires",
+    "acquired", "stake in", "valuation", "ipo", "revenue", "franchise slot",
+    "media rights", "broadcast deal", "streaming deal", "front office",
+    # Arabic
+    "رعاية", "راعي", "يرعى", "شراكة", "يستثمر", "استثمار",
+    "تمويل", "جولة تمويل", "استحواذ", "يستحوذ", "حصة", "صفقة",
+    "عقد رعاية", "حقوق البث", "حقوق تسمية",
+]
+
+
+def is_sponsorship_news(source_name: str, raw_text: str) -> bool:
+    """True if this item belongs in the sponsorship/business channel:
+    either the source itself is a dedicated business source, or the
+    title/summary text matches a sponsorship/deal/investment keyword."""
+    if source_name in SPONSORSHIP_SOURCE_NAMES:
+        return True
+    t = (raw_text or "").lower()
+    return any(kw.lower() in t for kw in SPONSORSHIP_KEYWORDS)
+
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
@@ -230,9 +286,13 @@ def _clip(text: str, limit: int) -> str:
 
 
 def send_discord(title: str, link: str = "", source: str = "", summary: str = "",
-                  image_url: str = "", importance: str = "") -> bool:
-    """Send one news item to Discord as an embed. Returns True on success."""
-    if not DISCORD_WEBHOOK_URL:
+                  image_url: str = "", importance: str = "", webhook_url: str = "") -> bool:
+    """Send one news item to Discord as an embed. Returns True on success.
+    webhook_url lets callers route to a specific channel (e.g. the
+    sponsorship channel); if omitted, falls back to the main
+    DISCORD_WEBHOOK_URL."""
+    target = webhook_url or DISCORD_WEBHOOK_URL
+    if not target:
         log.error("Discord webhook missing")
         return False
 
@@ -254,7 +314,7 @@ def send_discord(title: str, link: str = "", source: str = "", summary: str = ""
     payload = {"embeds": [embed]}
     for attempt in range(3):
         try:
-            r = requests.post(DISCORD_WEBHOOK_URL, json=payload, timeout=15)
+            r = requests.post(target, json=payload, timeout=15)
             if r.status_code in (200, 204):
                 return True
             if r.status_code == 429:
@@ -420,7 +480,10 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
 
             clean_summary = strip_html(summary)
             image = extract_image(entry)
-            importance = compute_importance(f"{title} {clean_summary}")
+            combined_text = f"{title} {clean_summary}"
+            importance = compute_importance(combined_text)
+            sponsorship = is_sponsorship_news(name, combined_text)
+            target_webhook = SPONSORSHIP_WEBHOOK_URL if (sponsorship and SPONSORSHIP_WEBHOOK_URL) else DISCORD_WEBHOOK_URL
 
             ok = send_discord(
                 title=title,
@@ -429,10 +492,12 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                 summary=clean_summary[:DESC_MAX],
                 image_url=image,
                 importance=importance,
+                webhook_url=target_webhook,
             )
             if ok:
                 sent += 1
                 stats["sent"] += 1
+                stats["sent_sponsorship" if sponsorship else "sent_general"] += 1
                 time.sleep(MESSAGE_DELAY_SECONDS)
             else:
                 stats["send_failures"] += 1
@@ -456,6 +521,10 @@ def main():
     if not DISCORD_WEBHOOK_URL:
         log.error("Missing DISCORD_WEBHOOK_URL env var")
         return
+    if SPONSORSHIP_WEBHOOK_URL:
+        log.info("Sponsorship/business channel routing ENABLED (SPONSORSHIP_WEBHOOK_URL set).")
+    else:
+        log.info("SPONSORSHIP_WEBHOOK_URL not set — sponsorship items will fall back to the main channel.")
 
     state = load_state()
     first_run = (
