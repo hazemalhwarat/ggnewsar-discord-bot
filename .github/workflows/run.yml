@@ -32,5 +32,8 @@ jobs:
           # اختياري: ويبهوك مستقل لقناة #transfers. لو ما ضفته، الانتقالات
           # بتنزل بنفس قناة الأخبار.
           TRANSFERS_WEBHOOK_URL: ${{ secrets.TRANSFERS_WEBHOOK_URL }}
+          # اختياري: ويبهوك مستقل لقناة الرعايات والبزنس. لو ما ضفته، أخبار
+          # الرعايات/الشراكات/الاستثمار بتنزل بنفس قناة الأخبار العامة.
+          SPONSORSHIP_WEBHOOK_URL: ${{ secrets.SPONSORSHIP_WEBHOOK_URL }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python bot.py
