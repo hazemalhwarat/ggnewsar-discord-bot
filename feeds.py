@@ -52,6 +52,19 @@ were thin or missing entirely — EA Sports FC / FC Pro, PUBG Mobile, Call
 of Duty, and mobile esports broadly (Mobile Legends, Free Fire, Wild Rift,
 Honor of Kings, Clash Royale), plus Fortnite and fighting games. See the
 "GAME COVERAGE EXPANSION" block near the end of this file.
+
+UPDATE 2026-07-20 (sponsorship/business routing): each feed dict may now
+include an optional "category" key set to "sponsorship". bot.py uses this
+(plus a keyword scan applied to every item regardless of source) to route
+sponsorship/partnership/investment/acquisition news to a dedicated Discord
+channel via the SPONSORSHIP_WEBHOOK_URL secret, separate from the main
+news channel. See the "SPONSORSHIP & BUSINESS EXPANSION" block near the
+end of this file for the dedicated sources and company/brand watchlist
+queries added for this. Existing trade-press sources that were already in
+the list (GamesIndustry.biz, SportsPro Esports, Esportstower, Esports
+Marketing Blog, European Gaming Media, NESTHQ, Esports Advocate, and the
+general sponsorship Google News bridge) were retagged with
+"category": "sponsorship" rather than duplicated.
 """
 
 RSS_FEEDS = [
@@ -90,7 +103,7 @@ RSS_FEEDS = [
     {"name": "Esports Wizard Apex", "url": "https://esportswizard.com/news/tag/apex-legends/feed", "verified": True},
     {"name": "Dexerto Apex", "url": "https://www.dexerto.com/apex-legends/feed", "verified": True},
     {"name": "The Loadout PUBG", "url": "https://www.theloadout.com/pubg/feed", "verified": True},
-    {"name": "Esports Advocate", "url": "https://esportsadvocate.net/feed", "verified": True},
+    {"name": "Esports Advocate", "url": "https://esportsadvocate.net/feed", "verified": True, "category": "sponsorship"},
     {"name": "Esports Wales", "url": "https://esportswales.org/feed", "verified": True},
     {"name": "GRID Esports Data Blog", "url": "https://blog.grid.gg/feed", "verified": True},
     {"name": "Traxion.gg Esports", "url": "https://traxion.gg/category/esports/feed", "verified": True},
@@ -168,13 +181,13 @@ RSS_FEEDS = [
     # (deals, sponsorships, investment) from specialized and general
     # industry trade press, not just match/tournament news.
     # ============================================================
-    {"name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/rss/gamesindustry_news_feed.rss", "verified": False},
+    {"name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/rss/gamesindustry_news_feed.rss", "verified": False, "category": "sponsorship"},
     {"name": "SK Gaming", "url": "https://sk-gaming.com/news/rss.xml", "verified": False},
-    {"name": "Esportstower", "url": "https://esportstower.com/feed", "verified": False},
-    {"name": "SportsPro Esports", "url": "https://www.sportspromedia.com/tag/esports/feed", "verified": False},
+    {"name": "Esportstower", "url": "https://esportstower.com/feed", "verified": False, "category": "sponsorship"},
+    {"name": "SportsPro Esports", "url": "https://www.sportspromedia.com/tag/esports/feed", "verified": False, "category": "sponsorship"},
     {"name": "Challengermode Blog", "url": "https://blog.challengermode.com/feed", "verified": False},
     {"name": "F1 Esports", "url": "https://f1esports.com/news/feed", "verified": False},
-    {"name": "NESTHQ", "url": "https://nesthq.ca/feed", "verified": False},
+    {"name": "NESTHQ", "url": "https://nesthq.ca/feed", "verified": False, "category": "sponsorship"},
     {"name": "Esports Charts News", "url": "https://escharts.com/news/feed", "verified": False},
 
     # ============================================================
@@ -190,8 +203,8 @@ RSS_FEEDS = [
     # ============================================================
     # Added 2026-07-01, batch 2
     # ============================================================
-    {"name": "Esports Marketing Blog", "url": "https://esports-marketing-blog.com/feed/", "verified": False},
-    {"name": "European Gaming Media", "url": "https://europeangaming.eu/portal/feed/", "verified": False},
+    {"name": "Esports Marketing Blog", "url": "https://esports-marketing-blog.com/feed/", "verified": False, "category": "sponsorship"},
+    {"name": "European Gaming Media", "url": "https://europeangaming.eu/portal/feed/", "verified": False, "category": "sponsorship"},
     {"name": "Esports Africa News", "url": "https://esportsafricanews.com/feed/", "verified": False},
     {"name": "LoL Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:lolesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "VALORANT Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:valorantesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
@@ -200,7 +213,7 @@ RSS_FEEDS = [
     {"name": "PUBG Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:pubgesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "ALGS - Apex Legends (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:algs.com&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Call of Duty League (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:callofdutyleague.com&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Esports Business & Sponsorships (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(sponsorship+OR+partnership+OR+investment+OR+acquisition+OR+revenue)&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Esports Business & Sponsorships (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(sponsorship+OR+partnership+OR+investment+OR+acquisition+OR+revenue)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
 
     # ============================================================
     # Added 2026-07-04 — X (Twitter) accounts via RSSHub public instance
@@ -299,9 +312,54 @@ RSS_FEEDS = [
     {"name": "THESPIKE.gg (Valorant, via Google News)", "url": "https://news.google.com/rss/search?q=site:thespike.gg&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "bo3.gg (CS2, via Google News)", "url": "https://news.google.com/rss/search?q=site:bo3.gg&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Run It Back (via Google News)", "url": "https://news.google.com/rss/search?q=site:runitback.gg&hl=en&gl=US&ceid=US:en", "verified": False},
+
+    # ============================================================
+    # SPONSORSHIP & BUSINESS EXPANSION — added 2026-07-20 per Hazem's
+    # request for a dedicated sponsorship/business feed (same type of
+    # coverage as esportsradar.gg — sponsorship deals, partnerships,
+    # investment, acquisitions — not that site itself). Every entry here
+    # is tagged "category": "sponsorship" so bot.py can route it to the
+    # dedicated Discord channel instead of the general news channel.
+    # Split into: (a) general trade press not already covered above,
+    # (b) Arab/Gulf sponsorship & investment watchlist, (c) named Arab
+    # org sponsorship watchlist, (d) global sponsor-brand watchlist.
+    # ============================================================
+
+    # -- (a) General trade press --
+    {"name": "Front Office Sports Esports (Google News bridge)", "url": "https://news.google.com/rss/search?q=site:frontofficesports.com+esports&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Sportico Esports (Google News bridge)", "url": "https://news.google.com/rss/search?q=site:sportico.com+esports&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Esports Insider Business tag", "url": "https://esportsinsider.com/tag/business/feed", "verified": False, "category": "sponsorship"},
+    {"name": "Esports Investment & Funding (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+OR+gaming+(%22funding+round%22+OR+%22raises+%24%22+OR+%22series+a%22+OR+%22series+b%22)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Esports Naming Rights & Media Deals (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(%22naming+rights%22+OR+%22media+rights%22+OR+%22broadcast+deal%22)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+
+    # -- (b) Arab/Gulf sponsorship & investment watchlist --
+    {"name": "Savvy Games Group Investment (Google News)", "url": "https://news.google.com/rss/search?q=%22Savvy+Games+Group%22+OR+%22Savvy+Games%22+esports&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "PIF Esports Investment (Google News)", "url": "https://news.google.com/rss/search?q=%22Public+Investment+Fund%22+esports+OR+gaming&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Qiddiya Esports (Google News)", "url": "https://news.google.com/rss/search?q=Qiddiya+esports&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "stc / stc Play Esports Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22stc%22+esports+sponsorship+OR+%22stc+Play%22&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Riyadh Season Esports (Google News)", "url": "https://news.google.com/rss/search?q=%22Riyadh+Season%22+esports&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Esports World Cup Foundation Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Esports+World+Cup+Foundation%22+sponsor+OR+partnership&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "NEOM Esports (Google News)", "url": "https://news.google.com/rss/search?q=NEOM+esports&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "MENA/Gulf Esports Sponsorship general (Google News)", "url": "https://news.google.com/rss/search?q=(MENA+OR+Gulf+OR+%22Middle+East%22)+esports+(sponsorship+OR+partnership+OR+investment)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+
+    # -- (c) Named Arab org sponsorship watchlist --
+    {"name": "Team Falcons Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Team+Falcons%22+(sponsor+OR+partnership+OR+deal)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Twisted Minds Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Twisted+Minds%22+(sponsor+OR+partnership+OR+deal)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Nigma Galaxy Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Nigma+Galaxy%22+(sponsor+OR+partnership+OR+deal)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Geekay Esports Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Geekay+Esports%22+(sponsor+OR+partnership+OR+deal)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+
+    # -- (d) Global sponsor-brand watchlist --
+    {"name": "Red Bull Esports Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Red+Bull%22+esports+(sponsorship+OR+partnership)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Monster Energy Esports Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Monster+Energy%22+esports+sponsorship&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Logitech G Esports Partnership (Google News)", "url": "https://news.google.com/rss/search?q=%22Logitech+G%22+esports+partnership&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "HyperX Esports Partnership (Google News)", "url": "https://news.google.com/rss/search?q=HyperX+esports+(partnership+OR+sponsorship)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Mastercard Esports Partnership (Google News)", "url": "https://news.google.com/rss/search?q=Mastercard+esports+(partnership+OR+sponsorship)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Prime Video / Amazon Esports Rights (Google News)", "url": "https://news.google.com/rss/search?q=(%22Prime+Video%22+OR+Amazon)+esports+(rights+OR+broadcast)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Kick Esports Deal (Google News)", "url": "https://news.google.com/rss/search?q=Kick.com+esports+(deal+OR+sponsorship+OR+partnership)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
 ]
 
 if __name__ == "__main__":
     print(f"Total feeds: {len(RSS_FEEDS)}")
     print(f"Currently working: {sum(1 for f in RSS_FEEDS if f.get('verified'))}")
     print(f"Currently failing (retried every run): {sum(1 for f in RSS_FEEDS if not f.get('verified'))}")
+    print(f"Sponsorship/business-tagged sources: {sum(1 for f in RSS_FEEDS if f.get('category') == 'sponsorship')}")
