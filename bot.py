@@ -1,7 +1,23 @@
 """
-GGNewsAR Discord Bot — RSS-only pipeline, raw (no AI) edition.
+GGNewsAR Discord Bot — RSS + Reddit pipeline, raw (no AI) edition, with a
+keyword-based relevance filter (no external API/model calls).
 
 مشروع مستقل تماماً عن بوت تيليقرام. الإرسال يروح لروم Discord عبر Webhook.
+
+=== ARCHITECTURE CHANGE (2026-07-26): مصدر Reddit + فلتر ملاءمة بالكلمات ===
+أضيف مصدر ثالث (reddit_sources.py) يجيب أحدث البوستات من مجموعة subreddits
+مختصة بالإيسبورتس (r/esports, r/GlobalOffensive, r/VALORANT, إلخ) عبر
+Reddit JSON العام (بدون مفتاح API). بالإضافة لذلك، أضيفت وحدة جديدة
+(relevance.py) تفحص كل خبر/بوست وتقرر هل هو فعلاً عن إيسبورتس تنافسي أو
+لا (كلمات ألعاب تنافسية + كلمات سياق + أسماء فرق/بطولات معروفة + قائمة
+استبعاد لألعاب القصص والهاردوير). هذا الفلتر:
+  - يُطبَّق دائماً على كل بوستات Reddit (لأنها مصادر عامة غير منسّقة).
+  - يُطبَّق على مصادر RSS فقط لو كانت "جسر بحث" من Google News
+    (news.google.com/rss/search) — لأن هذي النوعية هي مصدر الضجيج
+    الفعلي (بحث بكلمة/دولة عريضة ممكن يجيب نتائج غير متعلقة).
+  - لا يُطبَّق على مواقع الإيسبورتس المخصصة (HLTV, Dot Esports, إلخ) ولا
+    حسابات X الرسمية (Falcons, EWC, إلخ) لأنها موثوقة أصلاً بحكم طبيعتها.
+كل هذا بدون أي استدعاء API خارجي أو نموذج ذكاء اصطناعي — مجاني 100%.
 
 === ARCHITECTURE CHANGE (2026-07-20): قناة مستقلة لأخبار الرعايات والبزنس ===
 أي خبر يُصنَّف "رعاية/بزنس" (إما لأنه جاء من مصدر مُعلَّم بـ
@@ -65,6 +81,13 @@ import feedparser
 import requests
 
 from feeds import RSS_FEEDS
+from relevance import is_relevant_esports
+from reddit_sources import SUBREDDITS, fetch_subreddit
+
+# Lookup so the per-entry loop in rss_phase can check the ORIGINAL feed
+# dict (url, category) for a given entry's source name without having to
+# thread that info through fetch_one_feed's return value.
+FEEDS_BY_NAME = {f["name"]: f for f in RSS_FEEDS}
 
 # ============================================================
 # Configuration
@@ -99,6 +122,24 @@ SEEN_TITLES_RING = 8000
 # RSS parallel fetch settings
 RSS_FETCH_WORKERS = 40
 RSS_FETCH_TIMEOUT_SECONDS = 10
+
+# ------------------------------------------------------------
+# Relevance filtering (2026-07-26): dedicated esports-site RSS feeds and
+# official team/tournament X (Twitter) accounts are inherently on-topic —
+# a site like HLTV or an account like @FalconsEsport never posts
+# unrelated content, so those are "trusted" and skip the relevance check.
+# Google News keyword-search bridges (news.google.com/rss/search) pull
+# from anywhere on the web matching a broad query (e.g. "Bahrain esports",
+# "MENA esports general") and are the actual source of noise/spam/
+# non-competitive content, so every item from those goes through
+# is_relevant_esports() from relevance.py before it's allowed to send.
+# Reddit posts (reddit_sources.py) are ALWAYS run through the same filter
+# — subreddits are community feeds, never automatically trusted.
+# ------------------------------------------------------------
+SEARCH_BRIDGE_MARKER = "news.google.com/rss/search"
+
+# Reddit fetch settings (mirrors the RSS ones)
+REDDIT_FETCH_WORKERS = 10
 
 # Discord embed color
 EMBED_COLOR = 0x7C3AED
@@ -481,6 +522,16 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
             clean_summary = strip_html(summary)
             image = extract_image(entry)
             combined_text = f"{title} {clean_summary}"
+
+            # Relevance gate: only applied to broad keyword-search bridges.
+            # Dedicated site feeds and X/Twitter account feeds are trusted
+            # by construction (see comment near SEARCH_BRIDGE_MARKER above).
+            source_url = FEEDS_BY_NAME.get(name, {}).get("url", "")
+            is_bridge = SEARCH_BRIDGE_MARKER in source_url
+            if is_bridge and not is_relevant_esports(combined_text):
+                stats["skip_not_relevant"] += 1
+                continue
+
             importance = compute_importance(combined_text)
             sponsorship = is_sponsorship_news(name, combined_text)
             target_webhook = SPONSORSHIP_WEBHOOK_URL if (sponsorship and SPONSORSHIP_WEBHOOK_URL) else DISCORD_WEBHOOK_URL
@@ -514,6 +565,124 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
 
 
 # ============================================================
+# Reddit phase
+# ============================================================
+
+def reddit_is_fresh(published_ts, max_age_hours: int) -> bool:
+    """Same freshness rule as RSS, but Reddit gives a unix timestamp
+    directly instead of a parsed struct."""
+    if not published_ts:
+        return True
+    try:
+        pub_time = datetime.fromtimestamp(float(published_ts), tz=timezone.utc)
+    except (TypeError, ValueError, OSError):
+        return True
+    return (datetime.now(timezone.utc) - pub_time) <= timedelta(hours=max_age_hours)
+
+
+def reddit_phase(state: dict, first_run: bool, sent_budget: int) -> int:
+    """Fetch newest posts from every subreddit in reddit_sources.py,
+    dedup + freshness-filter the same way as RSS, run EVERY post through
+    is_relevant_esports() (Reddit is never "trusted"), then send eligible
+    items. Shares state (seen urls/title hashes) with rss_phase so the
+    same story never gets sent twice just because it showed up in both a
+    news feed and a subreddit.
+    """
+    seen_urls = set(state["urls"])
+    seen_titles = set(state["title_hashes"])
+    stats = defaultdict(int)
+    failed = []
+    sent = 0
+
+    log.info(f"Reddit phase: {len(SUBREDDITS)} subreddits, {REDDIT_FETCH_WORKERS} parallel workers")
+
+    fetch_results = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=REDDIT_FETCH_WORKERS) as executor:
+        futures = {executor.submit(fetch_subreddit, s): s for s in SUBREDDITS}
+        for future in concurrent.futures.as_completed(futures):
+            fetch_results.append(future.result())
+
+    for name, posts, error in fetch_results:
+        if error:
+            stats["subs_failed"] += 1
+            failed.append(f"r/{name}: {error}")
+            continue
+        stats["subs_ok"] += 1
+        for post in posts:
+            stats["posts_total"] += 1
+            link = (post.get("link") or "").strip()
+            title = (post.get("title") or "").strip()
+            summary = post.get("summary") or ""
+            if not link or not title:
+                stats["skip_no_link_or_title"] += 1
+                continue
+            if link in seen_urls:
+                stats["skip_seen_url"] += 1
+                continue
+
+            t_hash = title_hash(title)
+            if not reddit_is_fresh(post.get("published_ts"), MAX_AGE_HOURS):
+                stats["skip_old"] += 1
+                seen_urls.add(link); state["urls"].append(link)
+                seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
+                continue
+            if t_hash in seen_titles:
+                stats["skip_dup_title"] += 1
+                seen_urls.add(link); state["urls"].append(link)
+                continue
+
+            # Mark seen regardless of what happens next.
+            seen_urls.add(link); state["urls"].append(link)
+            seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
+
+            if first_run:
+                stats["baseline_recorded"] += 1
+                continue
+
+            combined_text = f"{title} {summary}"
+            # Reddit is NEVER trusted — always run the relevance filter.
+            if not is_relevant_esports(combined_text):
+                stats["skip_not_relevant"] += 1
+                continue
+
+            if sent >= sent_budget:
+                stats["skip_cap"] += 1
+                continue
+
+            importance = compute_importance(combined_text)
+            source_label = f"r/{name}"
+            sponsorship = is_sponsorship_news(source_label, combined_text)
+            target_webhook = SPONSORSHIP_WEBHOOK_URL if (sponsorship and SPONSORSHIP_WEBHOOK_URL) else DISCORD_WEBHOOK_URL
+
+            ok = send_discord(
+                title=title,
+                link=link,
+                source=source_label,
+                summary=summary[:DESC_MAX],
+                image_url=post.get("image", ""),
+                importance=importance,
+                webhook_url=target_webhook,
+            )
+            if ok:
+                sent += 1
+                stats["sent"] += 1
+                stats["sent_sponsorship" if sponsorship else "sent_general"] += 1
+                time.sleep(MESSAGE_DELAY_SECONDS)
+            else:
+                stats["send_failures"] += 1
+
+    log.info("--- Reddit Summary ---")
+    for k in sorted(stats.keys()):
+        log.info(f"  {k:30s} {stats[k]}")
+    if failed:
+        log.info(f"--- Failed Subreddits ({len(failed)}) ---")
+        for line in failed:
+            log.info(f"  - {line}")
+
+    return sent
+
+
+# ============================================================
 # Main — single pass
 # ============================================================
 
@@ -536,10 +705,13 @@ def main():
 
     rss_sent = rss_phase(state, first_run, MAX_MESSAGES_PER_RUN)
 
-    save_state(state)
-    git_commit_push("single pass, raw content")
+    remaining_budget = max(0, MAX_MESSAGES_PER_RUN - rss_sent)
+    reddit_sent = reddit_phase(state, first_run, remaining_budget)
 
-    log.info(f"=== Pass done. RSS sent: {rss_sent} ===")
+    save_state(state)
+    git_commit_push("single pass, RSS + Reddit, keyword relevance filter")
+
+    log.info(f"=== Pass done. RSS sent: {rss_sent} | Reddit sent: {reddit_sent} ===")
 
 
 if __name__ == "__main__":
