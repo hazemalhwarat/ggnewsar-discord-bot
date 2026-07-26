@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T19:00:10.094950+03:00",
+  "generated_at": "2026-07-26T09:41:50.062374+03:00",
   "count": 619,
   "players": [
     {
@@ -311,26 +311,6 @@
       "month": 11,
       "day": 3,
       "url": "https://liquipedia.net/counterstrike/HAdji"
-    },
-    {
-      "name": "Nivera",
-      "wiki": "counterstrike",
-      "game": "CS2",
-      "country": "المغرب",
-      "year": 2001,
-      "month": 6,
-      "day": 10,
-      "url": "https://liquipedia.net/counterstrike/Nivera"
-    },
-    {
-      "name": "ScreaM (Belgian player)",
-      "wiki": "counterstrike",
-      "game": "CS2",
-      "country": "المغرب",
-      "year": 1994,
-      "month": 7,
-      "day": 2,
-      "url": "https://liquipedia.net/counterstrike/ScreaM (Belgian player)"
     },
     {
       "name": "Subroza",
@@ -2513,6 +2493,16 @@
       "url": "https://liquipedia.net/leagueoflegends/San (Egyptian player)"
     },
     {
+      "name": "Santa (Egyptian player)",
+      "wiki": "leagueoflegends",
+      "game": "League of Legends",
+      "country": "مصر",
+      "year": 2004,
+      "month": 3,
+      "day": 31,
+      "url": "https://liquipedia.net/leagueoflegends/Santa (Egyptian player)"
+    },
+    {
       "name": "VAEII",
       "wiki": "leagueoflegends",
       "game": "League of Legends",
@@ -4103,6 +4093,16 @@
       "url": "https://liquipedia.net/rocketleague/Bustanji"
     },
     {
+      "name": "Jello",
+      "wiki": "rocketleague",
+      "game": "Rocket League",
+      "country": "الأردن",
+      "year": 2010,
+      "month": 4,
+      "day": 17,
+      "url": "https://liquipedia.net/rocketleague/Jello"
+    },
+    {
       "name": "BxRw",
       "wiki": "rocketleague",
       "game": "Rocket League",
@@ -4153,14 +4153,14 @@
       "url": "https://liquipedia.net/rocketleague/MD974"
     },
     {
-      "name": "Yagami",
+      "name": "N0VA",
       "wiki": "rocketleague",
       "game": "Rocket League",
       "country": "البحرين",
       "year": 2007,
       "month": 10,
       "day": 20,
-      "url": "https://liquipedia.net/rocketleague/Yagami"
+      "url": "https://liquipedia.net/rocketleague/N0VA"
     },
     {
       "name": "Abdullah (Omani Player)",
