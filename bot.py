@@ -81,8 +81,9 @@ import feedparser
 import requests
 
 from feeds import RSS_FEEDS
-from relevance import is_relevant_esports
+from relevance import classify_keyword
 from reddit_sources import SUBREDDITS, fetch_subreddit
+from ai_classifier import GeminiBudget, classify_relevance, DAILY_QUOTA_CAP, GEMINI_API_KEY
 
 # Lookup so the per-entry loop in rss_phase can check the ORIGINAL feed
 # dict (url, category) for a given entry's source name without having to
@@ -460,7 +461,7 @@ def fetch_one_feed(feed_info: dict):
         return name, None, str(e)
 
 
-def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
+def rss_phase(state: dict, first_run: bool, sent_budget: int, ai_budget: GeminiBudget) -> int:
     """Run RSS collection. Fetches all sources in parallel, dedups, then
     sends each eligible item AS-IS (raw title + raw summary, no
     translation/analysis). Returns number of messages sent."""
@@ -528,9 +529,20 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
             # by construction (see comment near SEARCH_BRIDGE_MARKER above).
             source_url = FEEDS_BY_NAME.get(name, {}).get("url", "")
             is_bridge = SEARCH_BRIDGE_MARKER in source_url
-            if is_bridge and not is_relevant_esports(combined_text):
-                stats["skip_not_relevant"] += 1
-                continue
+            if is_bridge:
+                verdict = classify_keyword(combined_text)
+                if verdict == "reject_hard":
+                    stats["skip_not_relevant"] += 1
+                    continue
+                if verdict == "ambiguous":
+                    ai_verdict = classify_relevance(title, clean_summary, ai_budget)
+                    if ai_verdict is True:
+                        stats["accepted_by_ai"] += 1
+                    else:
+                        # None (no quota/unavailable) or False -> stay rejected,
+                        # same as pre-AI behavior. Never crashes either way.
+                        stats["skip_not_relevant"] += 1
+                        continue
 
             importance = compute_importance(combined_text)
             sponsorship = is_sponsorship_news(name, combined_text)
@@ -580,7 +592,7 @@ def reddit_is_fresh(published_ts, max_age_hours: int) -> bool:
     return (datetime.now(timezone.utc) - pub_time) <= timedelta(hours=max_age_hours)
 
 
-def reddit_phase(state: dict, first_run: bool, sent_budget: int) -> int:
+def reddit_phase(state: dict, first_run: bool, sent_budget: int, ai_budget: GeminiBudget) -> int:
     """Fetch newest posts from every subreddit in reddit_sources.py,
     dedup + freshness-filter the same way as RSS, run EVERY post through
     is_relevant_esports() (Reddit is never "trusted"), then send eligible
@@ -640,10 +652,19 @@ def reddit_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                 continue
 
             combined_text = f"{title} {summary}"
-            # Reddit is NEVER trusted — always run the relevance filter.
-            if not is_relevant_esports(combined_text):
+            # Reddit is NEVER trusted — always run the keyword filter, with
+            # the same AI second-opinion fallback for ambiguous cases.
+            verdict = classify_keyword(combined_text)
+            if verdict == "reject_hard":
                 stats["skip_not_relevant"] += 1
                 continue
+            if verdict == "ambiguous":
+                ai_verdict = classify_relevance(title, summary, ai_budget)
+                if ai_verdict is True:
+                    stats["accepted_by_ai"] += 1
+                else:
+                    stats["skip_not_relevant"] += 1
+                    continue
 
             if sent >= sent_budget:
                 stats["skip_cap"] += 1
@@ -703,15 +724,26 @@ def main():
     if first_run:
         log.info("FIRST RUN: indexing baseline, no messages will be sent this pass.")
 
-    rss_sent = rss_phase(state, first_run, MAX_MESSAGES_PER_RUN)
+    ai_budget = GeminiBudget(state.get("gemini_quota"))
+    if GEMINI_API_KEY:
+        log.info(f"AI second-opinion ENABLED (Gemini). Used today so far: {ai_budget.calls_today}/{DAILY_QUOTA_CAP}")
+    else:
+        log.info("GEMINI_API_KEY not set — ambiguous items fall back to keyword-only (reject).")
+
+    rss_sent = rss_phase(state, first_run, MAX_MESSAGES_PER_RUN, ai_budget)
 
     remaining_budget = max(0, MAX_MESSAGES_PER_RUN - rss_sent)
-    reddit_sent = reddit_phase(state, first_run, remaining_budget)
+    reddit_sent = reddit_phase(state, first_run, remaining_budget, ai_budget)
+
+    state["gemini_quota"] = ai_budget.to_state()
 
     save_state(state)
-    git_commit_push("single pass, RSS + Reddit, keyword relevance filter")
+    git_commit_push("single pass, RSS + Reddit, keyword + AI second-opinion filter")
 
-    log.info(f"=== Pass done. RSS sent: {rss_sent} | Reddit sent: {reddit_sent} ===")
+    log.info(
+        f"=== Pass done. RSS sent: {rss_sent} | Reddit sent: {reddit_sent} | "
+        f"AI calls this run: {ai_budget.calls_this_run} | AI calls today: {ai_budget.calls_today} ==="
+    )
 
 
 if __name__ == "__main__":

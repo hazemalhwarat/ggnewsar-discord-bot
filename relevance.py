@@ -173,6 +173,35 @@ def is_relevant_esports(text: str) -> bool:
     return False
 
 
+def is_hard_excluded(text: str) -> bool:
+    """True if the text matches a hard-exclusion phrase (non-competitive
+    game, hardware deal, unrelated media) AND has no known entity to
+    override it. Exposed separately from is_relevant_esports so callers
+    (bot.py) can tell "definitely not esports" apart from "just
+    ambiguous, no signal either way" — the AI second-opinion check
+    (ai_classifier.py) is only worth spending quota on the ambiguous
+    case, never the definitely-excluded one.
+    """
+    t = _norm(text)
+    if any(e in t for e in _KNOWN_ENTITIES):
+        return False
+    return any(x in t for x in _HARD_EXCLUDE_TERMS)
+
+
+def classify_keyword(text: str) -> str:
+    """Three-way keyword verdict: "accept" (send it, no AI needed),
+    "reject_hard" (definitely not esports, no AI needed), or "ambiguous"
+    (no signal either way — worth a cheap AI second opinion before
+    rejecting, since this is exactly the bucket where a real story about
+    an unlisted team/player/tournament falls through the keyword net).
+    """
+    if is_relevant_esports(text):
+        return "accept"
+    if is_hard_excluded(text):
+        return "reject_hard"
+    return "ambiguous"
+
+
 if __name__ == "__main__":
     # Quick manual sanity checks
     tests = [
