@@ -1,17 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXBMWmdmZndRV05kZU1yODg0TVdFMmtjNGZUNmJabWU4dHJZMTdGRGp3NHZHbXBFNlFHaERZNHVSME1pMFp4cW90UGxCMUxJM2N3T2doeXJDcEQ2a21lSU9fMmVrenRsdzFLSmFBRndVaXdpd3I0Sng3OFp2Q3dEMkZOMzZyTnBC?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5Z0YwcWVXTHp5d1lNbGM3NU5QRkZxZmdzbjZCNGFMZzRxUllsYlBxU2stNVFYX0tFLXBwRFNLUExxVWxyWEREek1pbXRsVDllSThBUGRReWNWOWVxTTJTb21GMDZQMURE?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81aERWU1MycmN6ODhGcWdKUWNhNVc0cFg0TllQM0FTN2JuQ0dfVlgzUGRFeHlGQ0lhdEoxZXNSX3ZObXlMVTR5a20yN3gxbmItX01oZDZqdUp0dTQ?oc=5",
-    "https://europeangaming.eu/portal/latest-news/2026/07/31/210217/court-of-appeal-refuses-tnlc-national-lottery-licence-appeal/",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlJlNEdYZHhMaDlOMFdsc0ZuM1hMbHZYQVl6LVdWai1MaDFFYW9reUNNSnNHUWptV01vTUgyRFQ1eUxJWEJmT0k5THVOWmRGeS1BXzk4WWpwWlM5bFBtZm5VSHJzTjVKd1M4RGtNaUNHanJHYWYtOEZEQjZSNFJVeDB2ZjRKNzNiZnNkYnloaGRMOTA?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VX0daN043aXlGNzZQTWhTOW9fRzZlYmRhU2ZveDgzN2dvdzQxTVFTVEw4eUNUMEtDcF9WOU8yVmNWUXpGWmdqQnBjcGc3VVRvdG5LZUJIckVIUWZ1RzFYZm14YzVTSmlQNXYw?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkVFdzdTeDJENURGX3RheUsyZGJ3a2FTS1ZHV2RUZ204Y0xNajQ4VTBwbjQ0SHRYM3BQcU9PMmM5dTBvNWVDcEF1bWZXZU81WjZfSlI1c3VGNUJtZjh4a01tSG90Qy1scnlQcDF0MVB2UGIzaGNaX1FWTVFVSngxS0R2bFl2Wk11NGRTOQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZTNlem05Z0xBQU90UDFvcDdCc0lqRVo1NFVYYnNUcG5OSG4xZC1ROWxOdFdBZ1VTWE5JbWNQc1o3VHNONXZXQ2ctbEN5MDlHRm9yZ2UxUXlWT1VhMVlyTTE5VVo0SVF2d2FuSGdBTWFvS19wOEhjQXdDZXNvaHZHeVdRUjBKRXctbzMwcm5TTFpWaW9GSThz?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXlkZ3YtVGYwVEZuX3YxVzB0RGZfZGxLaG1DMHdFU0JaZmJBY0I2RTFla2hfMlpjb3RkcTdNa01DQVFaUzItVjZ3ank5enFXaUFOTmRuQUU3RnZnbkhENUc5MHJrb182ZTgzU0FLTzhoSFViMjV2eWxycFA2LVcyUk05bHFvLVB0REFYaE9pQkdfdGpIQnZpM1pOdGVzcTUyZEZpRERWMTIwMUdXMlhkRHlISExucDhCUDZiMlNn?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQSWt6SzZWeEw0ZmhSV0ZwZ2hIM2xJUkpUeDZiTjVLQ19xTkV0amFENmU3MjdUeGk1b05RbGJPaTBWeUhlU0gwODNncHRWT2xneXZnNkN3?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaWNIRnFDWTVoM2ZuTy1QZkhCSDVPaVZEc3VTQUtWU0diNlQ2Qm9IU1FqYjFLR0VQRmxoRThmVE5ESG81VEw2Xzctc0t6UUI2dThUYQ?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoM0M5ZkRIWmg4T0JDc1M3eVNBVUF6WHJRdXVNaFprZnlmWFdyWDJDd3YxOWRETkdoa2lNdzczRDZ2MlNOZ3IxaFNQd2FxRVVJbDRTWVlNLXVPb3FKcU1ZT0hrVG5LSTVSSlJOdw?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xd3JRVVgydUZ2ZjEyeElXOGJMb01ZdFdBYXRZYUdVSk1FZFQtZGI2LXcyNDViaG1yVG1wcktpaldWdFQ1YjJrRDVKWU9JWE9iV20tUXQ2aTlvVHlJZ0FGRS1LaG15TUtfTWVCdkU1WVNDc0xvNWRfbENBSF8?oc=5",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMUd0SjdRRHlJWHJmeVMwa3R3bzRZQTF2OTJ3UWNvcjg3UTZiZzlaVHFTVEpzbnlLSUhCYjkwX0l4aHlEWXFRejFpbnVXbTUzWWZqQUNubWFRbGdmck1nS2t0ZHhyRkozNFhfbkNPd0lrMU42YUJzZDB3cjFFYzVYNUcxSDdGMVlaMTZTNHU0cTFDWnk1OVN6Ykd6MDYtbmhEc2I4Rm1OdTh6WEE5aFNjOURaYlVBUmtFcDQ2blFrLURUT09KZ0NWSXh1Nk5ieVRrXzk4b3FkOHVqNlJZ?oc=5",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0s2WjJEUUZGT3BZMTVTRldRVWowRFNTZE5acF95b2l4MUpXNzZhZEZIYm8yU2pJLXlPOHo4QkxnRGVMYTlNSHlTZUlFbEotdWRfbTYwa0kza21rOGdkcjY5cFAzTFhBN193RW5hcVp3SE12WVp2c1ZwYTVDekZYRFpuVl9acEQ0eVRjSXhRTkJIQmd4ZE1vZEtIMDJNTkdyRXZSTzlER04xVlhJMVpxdWhkVklJMUdsSGpiaHpLQjRsNmVsbGxRSQ?oc=5",
@@ -7999,21 +7987,21 @@
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXpoaFo4amdGQjc1UEI2S0pDMTV2S2dYbm5kcUFXYWx5UkZTQkx1aEVWWk1pM3FBcWpXdlM5WGpVLXFyS0RqOWNaYjN2N25tWEtUX25XMWFsVkczUUtMSENZRk9USEVrUXJuS2RpOWNCNTNEdzBwVk1CTVRPQmRyN2lHalZYeWs?oc=5",
     "https://mp1st.com/news/modern-warfare-4-new-multiplayer-map-design-feels-homage-to-titanfall-2",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DbWltVUNTM25CbmswNEtuczAzNGVNTmlGdkkxVDBVUXN3dlZxcGFMekNaZ0c1UWRUODgyZnQ3ekhwdHhRa0ZSTU55MHhIYnF1NHAtdDhGSjk0Ym5QMVBUNFVHYjJqdUZzelFBbEN5YUJ1SE0tN2Y0?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEhWWkZmd1BDZ2tmMzdGRURCUFRDMGg4NGNyMGF4dU0zX0F6WUN0U19Ja3pObkE2OHRfZEhONXZOa0hVNzc5MUpTOW10SHBoNmxTaXo4amt3bjljQUI3UHhrVW1LTHh3VTBMS3lkNmRrbXpGX1g2T01tampRR2tPV0lld3NkWllhRzBobFA0YmtYSzN5SGtzOWQ2ZnU4aTd0aDJBR1dnOW9SaU9PQlVHOTdxY21Xckhz?oc=5"
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEhWWkZmd1BDZ2tmMzdGRURCUFRDMGg4NGNyMGF4dU0zX0F6WUN0U19Ja3pObkE2OHRfZEhONXZOa0hVNzc5MUpTOW10SHBoNmxTaXo4amt3bjljQUI3UHhrVW1LTHh3VTBMS3lkNmRrbXpGX1g2T01tampRR2tPV0lld3NkWllhRzBobFA0YmtYSzN5SGtzOWQ2ZnU4aTd0aDJBR1dnOW9SaU9PQlVHOTdxY21Xckhz?oc=5",
+    "https://www.gamesindustry.biz/playstation-reports-flat-q1-sales-says-its-cautiously-moving-forward-with-halting-physical-disc-production",
+    "https://www.gamesindustry.biz/uk-games-growth-package-driving-exceptional-demand-one-year-on-from-launch",
+    "https://www.gamesindustry.biz/the-gamesindustrybiz-summer-party-2026-in-photos",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvVnRpOTdITk5RcjVJUGlLQ3pibmFRTVZTNXpXRmwzLXJFQjJNTGRZR3l5RzkyTW1UVFA2amN5WDgtUklFS3ZmR2s2QWZsS3ZYZFRSdGt5bGNzc3FCMGRtTHVCUlViUWpPZzdJV3JPZGpDRFc3?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEJQZTQ0dE5ScEl5dkVDUzhTbzRpa1Vhc2pKbHE2WFZxTmwxcXA4UzYybENYdUZ5OVhQZ1NuZ2JvNTBQdVIxb3RNZWpWOVdCeXJPS1EwM1Y3Sjg1c0Nad1dqcm5pSDNGTUgtb3lMVE0zLVByUUxiNS1jLUxGdTJmVVNqdFlmemExekNkTThTd1V5dnBqUzkw?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LZHhmTnVtOUxzRnVaTXhIaWNOWU9aVmE0WTgtN3NtZjZVRDl2cm5RVUVpdU8td3IwUWV2d0tVUno1M2J6X3ZLTjhRM09KRF95Z3JLUlVXbVRWRm9xMDZ2SWoxejFoUW85SDdZX0liVW40cHlVVDNCXw?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbE84YjFQOXh0V0tHQWRRc0QwVkVvbC0zckVSaEhQMG5GN2NiUGhpWnJHRGtKSS0tSXFobmtGUlVRSWZWNmJhbkZGVVJ2cWt6YU5xQWpRUUNNS3ZoNXBzS21DTXV2WE1qOUt6MEFUcHFtejF6bThGenVSajdJTmZ3a3FhSzQ4U1FTdXJMSmFQTzVLdHR2aTk5TVl2NWF6Tk90M3Q5MW9fWDdnSkV3Q0ZfY1JEdFpTOXBzTWpJLVhESk5MZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2ljb19XOWRJOUVVa2FodVNTeWZpelQzdnBOdzA4VTFyaC13ZFFiOWxJbDZzbWptblNQVVVrSTFKSFRwbGhRVF82STJBUHhDYUdnb0FrMGRZdTBKbnBPVlJiX0o4OHJMVkNlUWZzaVFpTk84RGgtQzVRbE9qelR0RTF1SE1DRFJ2WV9v?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TcTBUYmpCYU5ZMlNqZjB3cXNfZnM4RXdrU1Rzc3NlZWVsZ3ljMUdvSjZfa2ZkV2JsdjB4WVlMeHJOUFFoRmRWQ2ZwZi15OGVvYUIwNkF2Zzh4QmQ2Y2RNblcwNDJTYlhDQUZv?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SVlh3Ym04aFZzQTdBTml6bC0wNEJKSDJmZE0zWGZjdjJmVjBDR1JRV29KbFpDYlZHZ2FuS3BzMl9iV1lyOXoxbVA0dzliU1QxWmF3YmFjLXRoWWtieUhka2JNT1pqZng3ZGVZ?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE54anBwc0JQR3YwY09SdTYwT3pVYTJ2WFlCN1VoelRpRUZlYTZ5WTA1ZjE5cWtuMGUxaElVSnMxUjlmaTctWFFYYVprS0JVQVBiMmtZemJqX3dLSFdLeElqakZWbUh4Y1AxZWtz?oc=5",
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVkZHcXB0X0lBTmFFSHAtQl91QXotQ3pIUzhneVUxYnMwUmxSSV9xMGhueEZDa1VKa202ZFJmRExtVEJGRWpCZUhtZVA4VC11Z2t0dFJfazQwWlItV3I1d1dJZmhWV0hUbGJjQkYxTGlEbVZTTFY1TTZia1R4Ymd5cTB2SXl1Mk9FUDNyNHpHZnZUQUZvSWxqZU5mMC16YncyaU5kRWx6aWNETVhCdnhRaFdOWkdVNVh6Qlo1dVRZSDVRWlNmYVA0MjVpYjF6b0p2SXhEaEF2dzVvR05QRVhWeWF2dE0ta2M5YkhHY0NNemdBZFpKcHA0X3ZOVGrSAYICQVVfeXFMTkxROWlaX0xsLVU5RVlVa0M4SnBwbTZsbFotUF81cExuMlAtSmp3clE0R0FZYXV3bkRnSjZhLUQ3TThSQUtnUzdtdGJOU0lWZERiT0k1MVh6WExQZ2RVMjNucTUzQzBGSHRyaHNoZUJFWXBZT1BMa2JVVU5DeFZMVnJEZWJYUG9nNlJMRUp5bDNvYktHbFR4bGlwWmVROU5ncEV6ZU03dDhRYTZTOHlDdlNyWlJIX3VIdk9QdmdSOWRSRFJqLXNGWFU4WlYwdmQzeUNQTVhaVFZqa0dFWnF4Sjlua2F4NzNDWFVLMV9CV2pDZDhCbzIyM0pwalJ4bGFMdVlB?oc=5"
   ],
   "title_hashes": [
-    "af9d43f18e6468bc11122456d9c8d089",
-    "1fe1b474b50be2bdcb39bcb07f23a094",
-    "e396fe2ac5d77e60ad6317248566f383",
-    "0fe04cbce3b7aa57d9aff03fa68ef03f",
-    "67e16fa79b287a1fad4726d1a46ffb38",
-    "c9801bb69c62f2972d550f9d30aae861",
-    "af2e0389025573997c87456fe0b1abbd",
-    "08ca236e14585cb5de5fe7760c0846b5",
-    "f00fe51391960ce2f231324871789153",
-    "bf5d2fddb9b5eea1d8e72876b723cc1c",
-    "3e023013178d806deafd21dd0b224249",
-    "39166625858d65682065d6a1c458dd4a",
     "50222cbe441e571567c0013d830a3b86",
     "e0646b17842c62423e81aeb0b3673690",
     "8c1c5b5057acded4d2b24ca2a468bbd9",
@@ -16001,7 +15989,19 @@
     "966156e705c37e7531a46d80bb438ed6",
     "a050bf07ae91a782d00e55161007f8ed",
     "3ddf5f6d4644d08bfb5382293569ffd0",
-    "811e5bb2d54d16139b59b49c6c9ffe12"
+    "811e5bb2d54d16139b59b49c6c9ffe12",
+    "542ba3ef5cd5ea6922903c878a74e043",
+    "3ea7c0072e1929a7d311791cc83fd206",
+    "b360a87aa1e82f97c368a91795d0c84a",
+    "db6761346e7ab891836e7fe8669c6b58",
+    "4e87e3551b1a5aa2dd00713687fa73bb",
+    "0cfd84474a0185c7378a2694e40e8560",
+    "b98adbc35b91b99498fbf93284da0276",
+    "92715d7fbf829e431caf9fc064200196",
+    "23c7311c5e47f7c1d0130d3eb70255ca",
+    "8955c361ff9319673c977022e2f3d8ea",
+    "a876d25b0ef918a03f4046677fc512ef",
+    "d70e1c6a457c59317bb0733622cb2cf3"
   ],
   "transfers": {
     "pages": {
@@ -17313,6 +17313,6 @@
   },
   "gemini_quota": {
     "date": "2026-08-08",
-    "calls_today": 5
+    "calls_today": 6
   }
 }
