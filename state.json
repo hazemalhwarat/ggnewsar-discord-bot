@@ -1,19 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5dVY0M29HaGZOekRsVnhwX0RtWFMxS3dQNWRkWG1RdW5XZ1pqUXNVSnh0ZTVMa1FSY21JVVZpTlhCaXBFUEJUMmppdUxKODZBZWcwbFl6eWV5Y2l4dF83TFhtUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmtJSHlOUkJBTDNCWW1GMkpRVXphWVJzRlBTeE9vMG5jRzg1eXBac1RoX2d1dUh2bmRqZjRwNjFnbjhLajBOYXRIMWZ1Uk96dm1vLW1xYmFEalhWQ3NubmlCLUNUTXJZVkRQcnNuODlPOU96dG1mWkExcENraTM5bHhScTVMUHpXbkFRZ3pOUnpiMHdyZkdJazBvSjYzeVZaQ0QyYUYzbWZQQQ?oc=5",
-    "https://realsport101.com/article/fc-27-career-mode-dynamic-ovr-how-the-new-ratings-system-works",
-    "https://realsport101.com/article/fc-27-career-mode-transfer-market-overhaul-explained",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE00WDZDczY1cW8yM0VHOGlwcWh6bmdQU0FXUHJrcGExdXpuc0cxWmV5dFVpeXBJYjA1aERweldQbHRqOUhSaWx5STZsdElGQU5WVTlCZHhCWVNNeDhvMHlsOUVxTnJELTNta1BQSkNfZFZQQXRTMXgxV1FWQWJGR28?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IbGxQSzBfaGItOHQ0SVZES3JyWkFwTms3d2pnbk4zdWhlaXlhQWgyWmthd2dBRFo3cjU3Ul9sdDFpTF9Wc1J0cjVIdGVRTVpVN1RSVU1FWE9TQm8xNnktNTZ3MWJGU0ZGSEdSMTNrUzIxY0QtSXdB?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vYXR1MTRkZmViaWhqS3FTcVdhUXg0cVRaTnRYNjJCenFPZjBJRmMxLVdaUXVENHdYeWdPT2k0ZWhyODMwZ1o2aEVKUXoxX1lHcmowdFNlMEV3RTBkOWhKTHhTaGVzRUZyZ09lVS1yTjNkclR2?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNNVZncnJCY1hlbm1nWWhmZk5wT1ZBdS1hbGFHTHFQZnB5RmRnVkc3Zk10cXk0MlBhS2UtSlltZ0NfZUxhZGlEX2RyM1ZCYlQybnJPd09lSTRoeVhDVXpSTnBqWnFiOTY5M29sdw?oc=5",
-    "https://news.google.com/rss/articles/CBMipgJBVV95cUxObVFJUE5tMVFzSlpoSGpMMU9fS29KaDVxa1czTVJmRmVOdFNHcGZYckVjMFVzWG9zMWV6d0lBeklXeEl6MjNPOHdrMFhmcE9tNG1YWms1cU1vM3FaVE5OQTBYcDBLTnMtNTFWSjFsRFQzaHg3bGJ5a1JIMGcySWhxUy02UlAwdjlqcmNIdjBTTTFuNFdRTThOajZUYk9fNDlYX21pTHJuUFVLT0lvV1ZURTZXTDNPZUNrMzIxWmh6Sm1McnlvelVIeGh1akFQdUFIWmxuN2dUVzVKVGdiWHUzSmZjX2dvaVBmWkg2QmdGOXNwOVk0b0NVUExuaG9zNEViVkFONUJESFRqdERRRWtFc1Y4dlRmNlV0TzlXTnEyWkh0NklTV2c?oc=5",
-    "https://www.gamesindustry.biz/xbox-is-probably-not-for-sale-opinion",
-    "https://www.gamesindustry.biz/amazon-clarifies-stance-on-007-first-light-sequel-given-the-success-of-this-one-i-think-you-probably-want-ioi-developing-it",
-    "https://www.gamesindustry.biz/esa-foundation-awards-31-university-students-scholarships-to-support-careers-in-games-and-esports",
-    "https://www.gamesindustry.biz/amazon-luna-cloud-gaming-platform-now-added-to-prime-video-in-the-us-and-uk",
-    "https://www.gamesindustry.biz/now-luna-is-integrated-into-prime-video-amazon-sees-potential-for-gaming-to-expand-beyond-pc-and-console-that-pie-isnt-really-growing",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TaWdOcFZ4dVc3UnJtZkczeGxWbzBBVGEtVEdIZXl5SGFZS0hvNGlhdVBWSlNEWXRWZjh3d2ZkaUpBdERRcFNZenRFZnRmckxFUzRRS1FDWnpoa3lfbTRaQmwzdUZjaVEySmEw?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE80Y0podml3ZlRqeG5MNUhfMm1TMnZvbWlTQklic2pnMFNFRkhXbFhuNWdfOTZPcFNzYV9WMjYyTFkzYlhobmQ3OS1jNVkwLUdaUFJzNEkxOWRuRzI5cXluMWxPQWhVTnJCbDBYamVORDZFYW15QlBkNnpQWQ?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHJEbVd1cWJreHk5XzRQQm9weHhyTDFoUE9oN2w3WUI4UThSOEQyQ3lsMDF3OUlKbHRERkZKUUM1cEFlUktEdXB5b01NQmh0b3QybmR6TVd5MTJ0Ym8tZU5wbzBITnp4ZkJBWHNYX181RXM2YU1aa1NhMGhtV1lZWm96dUs3RkdreG5QUTJxaXBxeUZU?oc=5",
@@ -7999,23 +7985,23 @@
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU0dKUm5PYmI2dGtpSWh2MjVRU1UwcFRXQlFVaGY3YWZ2dW9XZ1E4dVdtblJvMW1SQkM1OGVnSFIyWFBSdFN6RTJCLTFiSWtoWU9KT0xsdUFDSmRDemlDUnA4MlZZSTVFd01aU1lfZTFaQnNWRTdPWHFRQjJfeUFzcVJ3?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSEtVOWhZSDRyZFo4T1NhRmktQkxhOWhNaTU4S2FiZmxwaWJBblVrWGJ5b0c1bl8zM3JtdndEaGZzYmhzMmVfLVZFV2RVeG5ESFdPcTlteENxYkNyTHJza0k4VkhNVkl1a1E3N3JidzNlRElZQXA5TkFlZ0dVMjFyNHlJS29mWkgxdFE?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2ZvamlaTlkya3hGeXpaODBRQ3phMVY2OHVqakJsZnlJdUdxdXF5a0l1UGhkNDZvVFF2OWxVYkxHXzNub1QxaDdaLUZuOVJDT2ZUc1duOEgtN3N2V0Jydnk5U0RvTzdlZmMxQ3VjMlNnSWZ0ZW92WlZhdHJzWTl1dHRsREFGeXdOdDRQOWtjWFdIcW02OURqSG50NDQ4UFdMdUE?oc=5",
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUpFNURUbDBGWmhnM21KR0VFRmpHb1BCZHpJdUQ3YzY2dkVfeUI3bFByMFZybHNnQlBTUUhXWHBCOW9BUUQ4RFdaNmNjbHFJUkU2MXNwS3VwTEEwcXhDYTRUV2NuUkItOUlSRE1ONGlQSnZDSnFxdGVQc2p1cTZnaEs1VW1MU2NjMndaNFJ0ck9uLXRxSkhHQkVEM2FON3piMWFmV2NxcW4tWVdncXNtZDFkWWRwZUEzU1BScms5QUlJeVNBb0RMX3VhYkV1dw?oc=5"
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUpFNURUbDBGWmhnM21KR0VFRmpHb1BCZHpJdUQ3YzY2dkVfeUI3bFByMFZybHNnQlBTUUhXWHBCOW9BUUQ4RFdaNmNjbHFJUkU2MXNwS3VwTEEwcXhDYTRUV2NuUkItOUlSRE1ONGlQSnZDSnFxdGVQc2p1cTZnaEs1VW1MU2NjMndaNFJ0ck9uLXRxSkhHQkVEM2FON3piMWFmV2NxcW4tWVdncXNtZDFkWWRwZUEzU1BScms5QUlJeVNBb0RMX3VhYkV1dw?oc=5",
+    "https://www.hltv.org/news/45250/gizmy-i-would-only-be-happy-with-qualifying-for-ewc",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LRzlnWGowajVrNWpaZnNqR09hRWs1bTRabjdlRENiOHpxbU9JcFlNY2pOOEJoRTloQjFVR2RMc3A2Z1hXLUR1UzVHMjVFdw?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxONEdKcVh2bm5LQ0paRTE5d0tPMHVpbkdhQ1NOcndEZjAzcElQTXRGTi14Y29UVVA1aEc5RFhybXY4Uy1leVM5ai1rZXVST2FUaDZDYUJTY2UwakVXQTVRQXNUU2pxaUtNQWpxdkE1MlBlNW5PRG56THVHY2o2Ym1raWY5SF83UWtLZUhqTW9CTzVzUC1G?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IZkdpTzJBMDJKVEI4blloN0FJd3Itc0dOeUFjSTBtQThuUndxX2J5Z0F6dnJhOHdMT3Y2NnNOY1ZackpsaDczVWxZOEV1bWFFSk1SWA?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGV0LWxfTnQydHBYRGozS0VnUHNkQi14UWJTYmticE1pZjFXaWRWX2lXZ3JSbExxSE55aVZmMUJpRWtwMkMtdk0xbVNVSjNOWl9UNndxMlhRSXR4M1BDTGtPN1RfZW5WeHdjQWZwSlJBU2xPeDlKa3hjU0FMNEZIb1FOX25kUG9GNFpENm9RWjhqZHVGQnRUaG9ET3BDd2hla09BWTVB?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV3pxeXFzMG5KckM5RURKMmRGMW9WMU41djE3Y3RRd0pud3VUcEJ4YlBZaDhtTWNnbmpOMm1HM0p0ZE93N3dPeG1fWWg1dVRFQzBZN0thY1ZuLVdBVmRrUzg2RXhrVy14SDY4WDBtOHlueG4yUWV0d1ZlNTAwR1BUTWJrVlJEc0hEeTJKRHdaMV9Jc3dfZlhnWA?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa2JESzNfSkZaTTdOc01RMnQ3XzRsR0RiM2xEOWRTVGw4ZGd4Uy1QcGllMmRfNTV4a2NBNHItUEdyR2Jad3ZyRFNPNXczNXhIalQtX19EQTFBcm9xNzlHd2xEd1kwZkdSMTZQRmR4V1VBZXVFN3RBb0YzNHh3RWJ5TE8zeXZSRnNLSlNfYjZsUEZuZ3BzRWd4Zjhvdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTndBRW82aGZDSVpzWi1nQjlsSDlWNVhndUNWUEdWRFR5a0pVLVI1Z2t6RjZPOF91b0J0M1puM2ltZnpGc0MzMWo1R21rR3hudFRmNVB3ZzNNNnNCU0NBa1hJOS1iTXZnSXNLeWZzZkRJLXhialE5RmVHUE5SakZsLWFQN2E3dG1CbmVqTjlqQm1PMm84bGoxbUowcGpfRm9hN0tNcHNhZUVkSnFjOE96TG00ZUNyRXh5ZVE?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSE8ybWlxcEhpakxXbzVqeXZEUDBIWXdscS1RVUtTSXRfNUo0aGRIdHV2a3Z6T0RUX0JtR0IwTEpDVkREZXBZSjF6a1lwUWNtUG12VEpMbDhFTUxiUXlNdHNnc3FCbDM2Zm9HNzEzUFIzcm56NGszRlA2cFlvREo3Qk9CX2hJUWpqb3Y1SllERFI2Mk5vYzBEQUpPc2c3OWRtaFN4RDQzNWpablhveFNF0gG2AUFVX3lxTE9YaVYwLXFvUEdOMndPdUN4a0puVUNwVjlQUGRrWmxyckZnbmF1S1dsbGsyUWNHUWo5cUY4S0I1d001NmVwRm5abjAzVTJEelZLVFlNN2ZyNnBkZkxjRldlTHNscnluWU9JRVkwY29MRUg4MHVEX1hFeWJuVnlnRkFUeXFCc1h3bGVPVVhRaUZsUHNUUm9BUXRGXzRXcF9MWXBzVmRiTHQwRXlhM0phdFFMSDlyblVR?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbmpMN0VJOXR4NTdrakV1WHRTcXMxUVRvYjM1d0FEeXdSc1UyWFVFSTRwOUFjUFAtWU1UVHQtd0xSQ3BIMnNDcm9rWnJ1aVVZRHRxUmJ1STlvSWppS1hCNjJhanZmRW54bmx6N21EMWFqSnV3Ujl0dnRSU0hQUS03QUhYVk9kTko3aE40a2FsNmpDSXhrR0JJM0VHV3RUTjFXOEtWS2VaWjRhSVBFalBQNUFlOTFnV1AydEF2dmZUTFJMMDdFYVg3QWVnUDdrT1N2?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWUh1el9vbURpcnliQ0ZLVFZrRExKNkxjZUFNN2V0Q19WazBwZlFwOEUzLWhXMkpScE4yaEs2Q0t4eUdPempFS3pDdWFja25hcWczdDVOOGJ1MVZVTGg2RFk0aUY5Y3JTYUIyRGgxSGcxeVZpbjBzMnRkc0hKNDlwUXo1anJCT19uU1FrYmFubEdvdlh0M0R3TTFkaFd3X3Q5MEh2WlZpTG9YZw?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OdUtZVWU1dHB1OG9rWG9Yck5pVmUtRTF5ZDNLdXdyNlllRG1nMGREcVBfQTZwQW9jU3ktZWhIQ3BqTjNBR2sweFdkUzJhTVVMRnoyR2VUWGxLTXViRHMtVE9keVNRRERpZXNPeXhOMEQ5czFSZWFWYU5qX21OUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUm1sZ3hROVFFSWZQRXdCVWg0SFozeldmdkxTX2JZRGpndS1ONS1uTkN4US1oeV93VS04YnlsVFVNUXVyZG80YXpaNGw2eGlHV3hoNmF5VzM0Yml6aGJXeHVUMXBPaXA2RkwwRWlZbDN0bWpkZlBVVVJ4R0NzdGhGMkNYYWRBODBtZU1jOTJLeWFVa3VHaGxSV2RHUVBjczd3TS1LejEya0lET3RWOFRocWNoN25JUVNRT0xGbTJwR3BnLXlkMF8zY0tLSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtZndQVGdOX2RKRGwzMWZtVlhyMUxoZTZBaFltT1E3Yi1TOE5YTXNTYTNEVEpvbWRFSm1wT2xOLU9FNW9KVENsZHRKaFc0RFl0MkU1SVhhUnNDaF85bDFpckhld0R0Zl9WTTBGU1dmTy1lVVBBZlA4Mndn?oc=5"
   ],
   "title_hashes": [
-    "38163b076e77e6e4c406dfa8eede937f",
-    "d9811275284f03d78b52c03b24f64dfd",
-    "53d4fc64440108e07a4188f742f00d64",
-    "966156e705c37e7531a46d80bb438ed6",
-    "a050bf07ae91a782d00e55161007f8ed",
-    "542ba3ef5cd5ea6922903c878a74e043",
-    "3ea7c0072e1929a7d311791cc83fd206",
-    "b360a87aa1e82f97c368a91795d0c84a",
-    "db6761346e7ab891836e7fe8669c6b58",
-    "4e87e3551b1a5aa2dd00713687fa73bb",
-    "d8f672246d92081e829839498365c250",
-    "5334b3625f0a28d24241185b121998c2",
-    "7abd53779c299630a19568d3411f8efb",
-    "ab28078ef3994ebdecb4e0615351da5c",
     "d6f7dc65534392c777ce83aa0b903de3",
     "5990ed895508610f1a204ebe690359dd",
     "aaaf603c31e003a99bdf72d7c6fadd33",
@@ -16001,7 +15987,21 @@
     "6ea8e92d6c140c660c051f0bc5bfb9fc",
     "f79ea39b02de4c06dba72906333d35bd",
     "7e634d197d991ad0bd257156092e0499",
-    "8624cf3046cb712744ca5dcccbdc348a"
+    "8624cf3046cb712744ca5dcccbdc348a",
+    "fa81bcec501d6878466879c006e620b1",
+    "f6fbd1a84a9ee8ec6e5e224efb9b7d3f",
+    "00cb1c90e948bf9ddadd4b7df461695f",
+    "d3ee4ca23f9b0e26fd273947e6474bf2",
+    "ddcab321884da9be9b4e33cd135b22b5",
+    "8a6d04c6dda4777ec85f9c7a4de78630",
+    "184c2a9db9031fa3001453c5b6f4c99e",
+    "c6892ed44d06055fb3dfa8602bf93de4",
+    "7d1419574d1b4a557aae00cdecf545f0",
+    "8844d26c9eb0ff93dbaed697eeff11a2",
+    "9794ed1b404bb94474cc71343739f307",
+    "e880f4744381f1ba1cc568beed288317",
+    "5ef24067b25a9903dfda8639a5150bbb",
+    "05458948d9b9407a52756b1e850348c9"
   ],
   "transfers": {
     "pages": {
@@ -17313,6 +17313,6 @@
   },
   "gemini_quota": {
     "date": "2026-08-08",
-    "calls_today": 6
+    "calls_today": 7
   }
 }
