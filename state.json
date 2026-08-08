@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/asha-sharma-shares-four-priorities-for-xbox-over-the-next-year/",
-    "https://esportsinsider.com/2026/07/ai-vs-expert-claude-chatgpt-and-gemini-take-on-our-lec-week-two-predictions",
-    "https://esportsinsider.com/2026/07/ewc-2026-viewership-recap",
-    "https://www.hotspawn.com/fortnite/news/fncs-major-2-leaderboard",
-    "https://esportsradar.gg/efg-esports-president-weighs-in-on-the-future-of-free-and-premium-broadcast-models/",
-    "https://esportsradar.gg/irish-prime-minister-sends-best-wishes-to-national-team-ahead-of-esports-nations-cup/",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05WWFmV2VpMnJEVWtieUw0clB3cUVfV2dQRXFPTG9jaEw3eUtWd1RzRGxhS0lIMUlFU0pPSzhTdlJyRDZmNkRER2hYelJ5Q3BjMlotVVdqUnBfZWc2bVg3MEdJeEZQbTY5?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdE1PVUtRcXVRd2lCbFFFeXRZcV9tTjZyak9mQmFkVGg1Nlp6bVM5ejNJSXIzU1NXMTVXcXZ6SXUtM1IzTE11Q2h5M1VDcGZ5X2hWb3V3NHBfVDZvZ21CR19wU2V4cm9IanRuREtTWnZ4ZGcwb2lUeHRjOVVnQXByMnJjS1g1Vk9pR1V4cllrdERwcl96ZDZr?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXpoaFo4amdGQjc1UEI2S0pDMTV2S2dYbm5kcUFXYWx5UkZTQkx1aEVWWk1pM3FBcWpXdlM5WGpVLXFyS0RqOWNaYjN2N25tWEtUX25XMWFsVkczUUtMSENZRk9USEVrUXJuS2RpOWNCNTNEdzBwVk1CTVRPQmRyN2lHalZYeWs?oc=5",
-    "https://mp1st.com/news/modern-warfare-4-new-multiplayer-map-design-feels-homage-to-titanfall-2",
     "https://www.gamesindustry.biz/playstation-reports-flat-q1-sales-says-its-cautiously-moving-forward-with-halting-physical-disc-production",
     "https://www.gamesindustry.biz/uk-games-growth-package-driving-exceptional-demand-one-year-on-from-launch",
     "https://www.gamesindustry.biz/the-gamesindustrybiz-summer-party-2026-in-photos",
@@ -7999,18 +7989,19 @@
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EU0owOW9pUGpkYjBTZ0VMMkxOaVgxaS1aVVplWXE2UmdhaFpyeEdFZFFTT3B0R3lBN25GLS1IV2luUS1LRlpWOTZUSDM?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeFlfcDMyYXZtc1lPZF9mcnEwSDdEZUpROWU3dGZRRkx5by1Jd2tCYnAyUlBHVmhwUkJMdHpQaTNxcmVVZFlVMnFuWl9QamtKU2ZTaGk5NzVFVUk4OEFwcXIzM3FiOV9PVDROVGlYRy1HQXc0RF9ZOE56UHc4cVRtaGV1eUNIVmJEYWV2UXNzRVRxN3oyM2FyeGxBazB1ejFueUFzZHFGdDFvQzE3clNTZU85eVpCTUQzYWhsUFhIRzYyVTJT?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVFqLVFteENSU2w1ZmdpY1U1OFZ5eDFVT0hIME41WXZFbTl6eTZHTkZjdWlqTmd4WXNjbkU1Y1NwMEtkYWc0VDJRMDh2QWxlMkhKX3BLLXhJa0o4WTFIeERRQko5YVZDcnM2MU9vcHFkUUQ0NlRxOXpJTE1vRmJUY1g5b2ttTk9mZlZLejZnMENDRE85TXhzTVVTdUNET3FwaFNOejZnS3dZSFhXYWRQNFFrRWcydw?oc=5",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLURPdjVvMGJLV19ycDFpOXprWE5jSjhkZld1VkNXX0k4LV9Lb3lob0I1SWZtQWRPUi1rdFZwdzhqcTBRRTIyV1RVbHFmeWN5cUJKa1Q5SmU0LUtTbGVzRl9ocm9yY1Z2RlRIRTk0Yzl3ZlpaTTZWSzg4NGJkWHF0engwcWwtLTE4bmJlTll1SGg0Z2lLOTdOUFU2TDRtNmgyVXdOTVJBTm0zNE9SaWozU3lzT19ITnhmN3lCZzN3YlNMZUJuSnIxX3J5Y2xEU0Rz?oc=5"
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLURPdjVvMGJLV19ycDFpOXprWE5jSjhkZld1VkNXX0k4LV9Lb3lob0I1SWZtQWRPUi1rdFZwdzhqcTBRRTIyV1RVbHFmeWN5cUJKa1Q5SmU0LUtTbGVzRl9ocm9yY1Z2RlRIRTk0Yzl3ZlpaTTZWSzg4NGJkWHF0engwcWwtLTE4bmJlTll1SGg0Z2lLOTdOUFU2TDRtNmgyVXdOTVJBTm0zNE9SaWozU3lzT19ITnhmN3lCZzN3YlNMZUJuSnIxX3J5Y2xEU0Rz?oc=5",
+    "https://esports-news.co.uk/2026/07/31/lec-summer-2026-week-2-preview/",
+    "https://www.dotabuff.com/blog/2026-08-08-the-international-2026-preview-the-underdogs",
+    "https://www.hotspawn.com/dota2/news/best-carry-players-at-ti15",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYQWlZVW1GOXgwZ0QyRzgwNVRwX3dGQXZzZ0JJaS1OWV9tNE1hYnlTNnh6T1VOV09LQXJsVlB6b3pGVm5KRXgxZHprZmplWEtvZXJKLTNoSVJjTm85S1laSjZCV1RMWXR3LVBj?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLWZYcEpaY2JxMHRZX1hEMnNwejAzYWN5dHlpTDAxSzN6UG5LcGU3OVFJOHd2N1UyYkJrajlXZFNpMXRWTEdPWkt6OC02X1RnS0V4UHdVRk5EQlplTmQ0Rk8zdG1FaWpxZFFHVjVoa0ViZ1NkVWZBVWc5SnBRcXlIRGRjNWJURzEtdE9tRmxZOVN4NUtLdmszQk9ENnFBV0hSdDNWTmZiMERYcmtCcTNjeG5JY0RuZ1NmdDdHdUQxTnNSZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZk5fY3NBMXEwSzBQWk41UGF4bUN0YlpkREVra3RUZGdvM1FxbWhtY1ROVUJvUDFZNnRIcTg5bkxhSEpWemdicVZod19Ib2pmRFdpbExmQVU3aXNxMmxkTnZEODZrMnZCMHNhb09ocHBVMHRkWDh5ZUlFUWlzMS1WNVl6OGZ5M0l6TGZ2eWxCY3RYWGlNVk9Sei01bGotaG4zeUE?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iLTFrQTB3ZUFQMnNseFpadWVDNWExWnVNeTVDc2lETm90Tlp1aUVMbzUzd01BalR0ZmQwRlhHaVJYRmxpUHdQbDhkSlYxX184dWFFcU80enFVYUVaLXpVQi1WZ2gtamdvT1Q3b3JrMjJ3ZXl3T2tZcnQ3MG5hazg?oc=5",
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUC1acGhOOTg1QzVqeUVXYnJldC1VWWI5dVV1SUZ1SEdQRUlCMDBDZVNCRm9CQTZmSlNQMFFVUXVQVUJxbXFxb0xManlmZFhLdWxsLW5uSHYzNVJ5YXFLTm9sT0hQSDJrV0JPMGgyQ2xrYWxja3p1dkI3bmNfdzVvTmxPV0s1SUl2NWtfQ3QtY3Bnc0pEZGd1aW9EUC1nMG80QW5KQWl2LWpWb3JKRDR6MXZhRW9mNENtYXdKcjVzMmZTTlFLTEtsTm16UnJhX1hmaUdISS12TEFnaExQLXVNelppOVg4ZFh0OFY4bnVUZExBUdIB9wFBVV95cUxNWW1Gc0s2QjF1TTUwMlhkYXVoVV9pblN2aV9wa3hFS1VmNTNIRDZOcDhuLW5ndlVoaDdKcEIwZzM4T0RzbnlQOVF4d2Z6NkZQMzluX2RqRVA2WGZad2t5eFRiN3ZxNkk2dFlzV2loWlBKM2VOZTJWOF9MdFo0djN0M2ZKbkhQT3Exa0d1NGxicHhRLXN1Z1NveVRoaHB3dEtxRkpiU3Z1TjBLemlRYzRzT2oxOXlvT3g3V3lLWnF4M3lFQVpkWl9NV2R1Zm5wdFdwd1RtLWZkX2o2Rnl3N1pSVW01cjI3amFQdXB6aDFfNC1ncTc1OUNF?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CNTFnWnFHWFJTWGZGU213TVNQSEtwZG93R3BIRDdhZ0otM0tmZ0FOV3B1bHY5UG9rR1d4aGlVSVUtazRzTDVsQUx4cVkwdU1lM1MxREFETWJIdkVEVXFj?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1N09KS1phcVNNSVJmcVF4Slk3bjhDcGRVMS1hYjljTzZ3dFdkUGotaWVEd0ZVVHN3aUZWb1g4QllSZTM0S3BkRzRLZGRvU25aOTBIZjV6V1FsTVk3Y0VwOFF2WUdFRWFVX1VHOWhwcw?oc=5"
   ],
   "title_hashes": [
-    "2ca6ea399a17f85407a0c74865494f26",
-    "4d6d429b93a1cb45f9ab34cdd2576a33",
-    "af74f64f3ff3e4f58940fa2b0919bd01",
-    "3fa4c913a7051df17291f42fbe5fc26e",
-    "6aac8a94b3ebc4c02d56aa9bc1d88820",
-    "177d9dadf92e64c62fdea5e9922d141a",
-    "dd04c4e8b30ef442cb8482bbdd53e89c",
-    "e425bb61d361a337dc958395f08e09ca",
-    "875279f108a32e517cac676df2caf4c0",
     "09127ae460373e58a5a02f2710d72296",
     "c69499eb3f20e4879ca9d6bc35cdd45d",
     "aca2804c11abdb3f5ffc17c672044aca",
@@ -16001,7 +15992,16 @@
     "ae160860f797c1d32611d74ad34238c7",
     "739616f1e3de3278485258917d1f8056",
     "55363b6e3aadd22a16847ae310f3a6b5",
-    "9d994ec72b473cfb9219b1071f971a9f"
+    "9d994ec72b473cfb9219b1071f971a9f",
+    "4ea065906206acf29284f9062d310c14",
+    "3506dd1dcf27ea30d4cc93230a6cbad5",
+    "48101dfb046934d1c02d4faadd5052a5",
+    "92446a4852145a7834884cb05be2ebe1",
+    "75b8369cb2c8de143fc848d1ea132f4f",
+    "123b9675ef0b3162701db30f09e3d3e3",
+    "7ebe2fb3e49219bacfe63d26d28776e1",
+    "b46b5a8c684940bd24ec8bbe1970310b",
+    "b7503c78b491b6baffdc2cf3ee9a4682"
   ],
   "transfers": {
     "pages": {
@@ -17313,6 +17313,6 @@
   },
   "gemini_quota": {
     "date": "2026-08-08",
-    "calls_today": 4
+    "calls_today": 5
   }
 }
