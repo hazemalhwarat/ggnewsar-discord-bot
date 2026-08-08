@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OX0tZUjVxMXFkYXREN2MzblJGZVZraGVZS2UtRzJwd3BQU3hQZEREcHFoT29welJkSDRfaE9tdU1MZHI3UkxjVWw4MDBiQ1VkemprTG92bU4zUmVmRW14LQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNGZ0bG04cGRVNnlvaDlZQzB0N0NtMXVvME9SSTNOaFhuZ2hyd1hybWtDLTZqbUVQSlEwUV96ejIzQkMwMS11RDZjalBCTEpHZXA1OGZEeTdjSlo5dDNqRkVGUFcxUXM2NnRQU3JnbXZXbUNRZzZfVnZmbkRVaDVlSlRCTmlzRXVzaHhvblBjZVJDMlRvTmVZbzJ2X0wyaEE5Vl9VOW9odTJFYzNTTVRrenlabm1HamE4c1I3NTZHc2ZWMzhWZW1iWXMtcFBqNExtLWZkanJRMkFsSy1qVFZnWFRYbkFESk5Kc0pNQWdrRkJQejJCZGZzOGhtNzBuMENvMjQ4cTZTdVdJOXE3WUFtVlZoSGZHX2ttTTJSTDZDYjd3QTg?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU3BOR2dKUUtOakJqWTk3cFFKa09XNEtKeU9ldFQtQldoSVQ2clByX1J6eG5lbUM0bDJ1MDlXMmR1MTNvX2ZKY0hpb2xVU1RpRTltemdrU0VJN0czNVJxSjM4WkFkQXM3TGZBblpCT0RzQUxMUWh5c2h1VVU0bGZsSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZlY0RDFjdkluRGg2Q0VnVmlDZTJobHlxQlpGbXNKcC1DdHNXUzd5RFVzOUVEcG9WYlFiTnQ4UlRXRmxzdFFkeHl5ZFVFX3JMcC1fSncwd051LVh0UTU1bkxfOWxLdUxZVXA0ejEwbG85TU5KUi13VXZsT3lZRVNmVHp3U0wzVFdCYmlhcV8yTlBFOUcwdU0xcERVVQ?oc=5",
-    "https://esports-news.co.uk/2026/07/31/why-is-competitive-chess-suddenly-booming-in-the-uk-esports-plays-a-part-in-it/",
-    "https://esports-news.co.uk/2026/07/31/riot-seems-aware-that-classical-pro-strategies-like-lane-swaps-could-come-back/",
-    "https://insider-gaming.com/last-sentinel-most-likely-canceled-layoffs-millions/",
-    "https://insider-gaming.com/ea-sports-fc-26-reportedly-peaked-at-nearly-10-million-daily-active-users-recently/",
     "https://esportsadvocate.net/2026/07/how-esports-events-became-live-entertainment-platforms/",
     "https://realsport101.com/article/fc-27-career-mode-details-unveiled-transfer-market-overhaul-dynamic-ovrs",
     "https://realsport101.com/article/fc-27-editions-guide-standard-ultimate-ultimate-plus-pre-order-bonuses",
@@ -7999,17 +7991,17 @@
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXdXWFdCdzl5ODhPdDRYcEVuYnFlM0tBUWd3cy1KcjJKWW5DQkJFRG1hT3RhamJFVWcwanpGYU1QZklhVktUY0hGbHp3b1RxdjJKUm1aY1BoRnlXWmJaMjdtdlplSVhMTTN6Y2tIdF85TmlSY1M0N1BHTzJiRTNFVDhRT2dRVjQ0dVZKeVQtakw1RXBCdEozSC1BcC1GWnVSbUNoYUxKWUhiUjlPSUVyY2x5UGN6bkxaVFhmR0R3?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IT2N6bzZBd2s1RXk0Ykk3bV9faTlScnpXQk4yNHdwNnd3alM1M3pnaEhJcXJyMWdNaHAtMFg4WXNtdU1Ic0psM0xzckVNOWh2ZU9Jc01uNkdwWHZQOV9VU1BaaVpVa0tzRWRHQktsSENHQWpyMndzY0FpZw?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDE4TUoyTHpuN3d4OVZsTzFqUnNkYU5DRnlVWmpkakx0Y2NLdm95Zkt2WmR3THQwU0ZaMlhoeVBSM0sxalBhWHRwNXdRMXpEdk04YjNPa2piZ0R5QTJBYUpYLTI3NFM1ZGdMOXptU29LWWVUT2U5OUtyYkM3ZzlSdmN0NXZJdEtGeWpWVEFhYnEwd2NlSE5z?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdk5qZjdnX3V4SGZyZlF5SVIwN1hRMkNOQXFCejJyZi0tTGxZRVdZOEJObzVaTm1SXzUwU0UtX1ZkWGJremc3bEFKbzA3UFhWdzR0RGlJRTc2VEFpWGhXQ0NaMHJEZ1RXX043M0FvaEFZeFJPVlRwNDFqMWxScWViTHlGWFpIcXJaSlJIS0wyOGdCUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdk5qZjdnX3V4SGZyZlF5SVIwN1hRMkNOQXFCejJyZi0tTGxZRVdZOEJObzVaTm1SXzUwU0UtX1ZkWGJremc3bEFKbzA3UFhWdzR0RGlJRTc2VEFpWGhXQ0NaMHJEZ1RXX043M0FvaEFZeFJPVlRwNDFqMWxScWViTHlGWFpIcXJaSlJIS0wyOGdCUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UZWMxUFVOYXQwVTQyWVk3WlU3aVdoSTU1MW9ZNTVkbnBpaC1va2llY09QMThDMUZvRDN6NktFSG5DY21NbDhJaTBNX2c0RjJhaWt3U1FwTEpuMDA5TF96c2kxaEpQa2hY?oc=5",
+    "https://www.gamesindustry.biz/union-accuses-bethesda-of-violating-labour-laws-in-canada-following-layoffs-at-montreal-studio",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeWRpNHNYcVdWWmdweVJPQlR5bTE3U2FsMGoySzRTX0JFcm0yWTRFQV9zTGJycFZ1aWF6NzR6aHZDcFFTMDVUUHp3MTZKMkxJdm5kX3hBZDJOZ29KUTVxQlRMNk5HVks0LXBocUk2TzVibVV3UWxr?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMEFpeFQ5ajVNaUNXZzc5ZHUzZ0ZOaHNlckxlSTN2R0JxT1RrUTJQblZFVVpCRFRvemFMcTFLNWxpOUZ5X3RrT2YxNFB1dWpSV0tQaENpZ0ZVNDI2ZHVHQ2NoWTR5RlV3OGNRVGpJZU1YLXVzSE4wZzVraElfM3dzQ3M4dnJDYmxyN1FsQ2Zqc3BEWXppam1obGVZRFo1VmZI?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzZLMGlOY0pMNHZvTjZuWldzY29pTElsLTZQdmEwb3ZrMVZFT1BsUHBOQVFVcHRrMHNGRnE2dFFsRjFzTU8tNS1KQ1drWUdxMU10RVdCS21BWlhzTFlSTHBQcDdUUEZaMHZ6X1RoWkZwOUNnM19XcUxlZFhlcVAyOTBneDRaY1ZDWnA2QU91RzZ5dFJKTkVpa01xVS1fSHYxZHBmbG5fb1VPM2s?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTU1fcVBxR1dXTFhDVE9vOVRmNVVQUUNHRHJtb3BpQ0tQRDZtaHM5LTV5azc1NlRiYS1NOFBwLUlva2xNaGJKRmxWeUFIbHpwdTJ5ay1aUkdTbHh5bmFvUV9DZXB6TGNFS2tZLXR1MC1hSkVnSi1QNGtuYVpIVmZyOG0tMEd0X1RQMHdGTk5pSFp1MnkzTWxtWE9CUzVaUHBTQnZkd0NKa3JlZ19tMTNvOWNWdktLZW5jV1UzN2pTVlA3V0ZVT3pZVUZ0YjhGRmpxT29pOUd3?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdVEyY3NReGdpd0RmQ0w5MEtFQVJuS2ZGQXpNUmJkdHBqYjcyQnR6d2MtbkhPTHdjT0ZCdXVGSFFCYmlvRC1LZ2NpdGd0RVE3RWpQR3FKWUVNZ2VlWVhlMDZlTktWSU5xbTRhS0FVNThGYVhYdjQtMXhZSF9IMG5PY0tCNlpmcXcxVXNuNzBtM1ZnMTVFUDZEMF84UFowWkFEOTdUZ0JGNkRZNGpBZV9GUjN0RTBPSnN5cEtWMTdFMEk?oc=5",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50SmUzbXBXOW54elZiTmlDUmFPcUFOU0xqcEtPVGNRSWJSVG02SEFPU2szVzQycDV4QjlybF95VVVhRkpiN3ZrQ3FxM0tHeHhoZnRfV0xOZzU?oc=5"
   ],
   "title_hashes": [
-    "0a392a6b7920290914e65f8f315d9e1f",
-    "25571ca16df7871a7e404eafde28e2d5",
-    "951ae0e8ed61ef7c8387a793ab0d42ad",
-    "810128cf4b7cff22d9593944ce55a959",
-    "88c2fc4271835643a5b29e8a97c1f885",
-    "c2c5bcc0f7a66c2489ace23353eb354d",
-    "0aca5f511fe9c7da69fc46901f89961b",
-    "f028b8bf49ed7c19f09317eb4053c542",
     "2a9ca63ce09187c352cbe16cfd4695cd",
     "7a9ba3d474ef1e6e5925d4f757a5c631",
     "aafd8b042c69d490b4d805a76796c8a5",
@@ -16001,7 +15993,15 @@
     "e930b89687ad5ac79d9b4ff1e0eeec0b",
     "b968b2bb89f3d050bc3e9e86a1ebea58",
     "bc26e416e0a388df8ad7e82facaa2e3a",
-    "8bb6e3751cbaa499d4718396598090a5"
+    "8bb6e3751cbaa499d4718396598090a5",
+    "155b1ae2142c80a9eda90179b3df23ca",
+    "c3c274f3ace4088491ab3b6cf71011f8",
+    "4b49e7fb7ea6c6ad06e08072fa1def1a",
+    "57934de969d0a9be54d6c3a45345ed01",
+    "50159e4fa5531a07c530a466d3976d9f",
+    "c1805f3c58b47b363668a9d71ff3c024",
+    "8d08b5374d1bcb87f9ba9ec6a089d4db",
+    "fb2418c1c2704e9340df468e5737a36f"
   ],
   "transfers": {
     "pages": {
