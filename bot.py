@@ -493,6 +493,17 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int, ai_budget: GeminiB
             if not link or not title:
                 stats["skip_no_link_or_title"] += 1
                 continue
+
+            # Per-source URL-pattern exclusion (e.g. Sheep Esports match
+            # pages, which often carry no reliable pubDate and can slip
+            # past is_fresh() regardless of how old they are). Checked
+            # before dedup so excluded links never enter seen_urls/
+            # title_hashes and don't bloat state.json.
+            exclude_patterns = FEEDS_BY_NAME.get(name, {}).get("exclude_link_contains") or []
+            if any(pattern in link for pattern in exclude_patterns):
+                stats["skip_excluded_pattern"] += 1
+                continue
+
             if link in seen_urls:
                 stats["skip_seen_url"] += 1
                 continue
