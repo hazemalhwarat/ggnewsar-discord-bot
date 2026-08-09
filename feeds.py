@@ -318,7 +318,7 @@ RSS_FEEDS = [
     {"name": "Jaxon.gg", "url": "https://jaxon.gg/feed/", "verified": False},
     {"name": "Blix.gg", "url": "https://blix.gg/feed/", "verified": False},
     {"name": "THESPIKE.gg (Valorant, via Google News)", "url": "https://news.google.com/rss/search?q=site:thespike.gg&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "bo3.gg (CS2, via Google News)", "url": "https://news.google.com/rss/search?q=site:bo3.gg&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "bo3.gg (CS2, via Google News)", "url": "https://news.google.com/rss/search?q=site:bo3.gg&hl=en&gl=US&ceid=US:en", "verified": False, "exclude_link_contains": ["/matches/"]},
     {"name": "Run It Back (via Google News)", "url": "https://news.google.com/rss/search?q=site:runitback.gg&hl=en&gl=US&ceid=US:en", "verified": False},
 
     # ============================================================
