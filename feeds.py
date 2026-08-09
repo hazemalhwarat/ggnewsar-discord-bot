@@ -191,9 +191,17 @@ RSS_FEEDS = [
     {"name": "Esports Charts News", "url": "https://escharts.com/news/feed", "verified": False},
 
     # ============================================================
-    # Added 2026-07-01 per Hazem's request.
+    # Sheep Esports — re-added 2026-08-09. Its /rss feed mixes real
+    # news articles with individual match-result pages (URL pattern
+    # /matches/...), and the match pages often carry no reliable
+    # pubDate, so old ones (e.g. a 2022 RLCS MENA qualifier) were
+    # slipping past the freshness filter as if new. Kept the source
+    # for its actual news coverage, excluded the match-page pattern
+    # via "exclude_link_contains" (see bot.py rss_phase). If future
+    # spam shows a different URL pattern, extend this list rather
+    # than removing the source again.
     # ============================================================
-    {"name": "Sheep Esports", "url": "https://www.sheepesports.com/rss", "verified": False},
+    {"name": "Sheep Esports", "url": "https://www.sheepesports.com/rss", "verified": False, "exclude_link_contains": ["/matches/"]},
 
     # ============================================================
     # 2026-07-01, batch 3 — cleanup pass.
