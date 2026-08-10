@@ -1,28 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0IyQ0lhQnBrM0VvUk10dm02NFl4UlM0WW85bDlJNE1fSmtpcnBQZU9OY0lSXzJzVkwwOTl2eGtUVHNQZFRQeHVOVXNpcXROeEJQaUk0blZ6R251ek5nbW84ajh0YXlseWp3YlNpcTBaYXZsRXM0UzdQOTQ1d1hsX3YyMWtZeXNEbHdqZTFUUUd0UFBIQkE?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yNFZjZzlpM2VHV2pxdFZzZXJlMWlDSWpCdlVJcDl2Vld4Y0VNMjNuN2h3VDQ2T2NVLVNEOE1nWEhBT19rUWt3VHJxbEFsWklDSFpPZnEtMkE4TDdJSlRhVGFqMV94cXJGbmI2WkVIUzlDcDNLUEE?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemp4a3lHX1pZMC1BLXR6ZkdVOWdzVHc5VW1YV0lxakZIaUI1WHZwUDNVV3RlUVpZSjhteUd4NE9GRmNSMHViZzJoRWJOZms2Z1BrOHctRTBoQlU3SUNOMVZZV01WLXBUcWJKXzBJb2VHb3BXdG1abXAwQlJjbjRNaDB3aXo3a2RrTVR0VmFqNDBtTHlaS3NmaVFEZ3NuN0JWVGgxSmZ4Ulg3UTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3NqYnBFT1ZaYnVPUEFwNWZZZnp5bzN0Q1NCVXR2RjQxSHZBYk9EM1pBNzN5d1ZNYjFtLTBRRUU1MEZBQWZZdVBjQTJ6cEJKYmtkanNwSWZIbVY5NUduSVI3N2xHYk1XN1BDVGFObDZKT3ZLdUtjRkJqQkZEeDVDT05HeW5ZZ0dUWlF3OXpJRWhoQmhsa2h0cldQX2RMVDk3bE9US1A0WWM1Q1lTclllbVRtVDk?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qUkRLMlBoek92cGFsbXRBQWI2ZGtyNWljRUQ5aHp4OUVkU0Nna2RLenBicUZ4TWpFLXBmVm9SbGFkejRqaEJrNC1ZNkRCcXA5ZkRiVWpQeDZJQlNsRnhHd09Fc1FrdTBaN0N0TnlkZEFRdmxaQUdn?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN0V6Nmt5NDV4ay01MmhaWTdzUDIxWkVQNE42T0dzQ1BvMUlZTTFwMTN2UEtYWHdrXzEzVnM5N195ZmVLN0h5RmV4S3ViMFZFclF2dVI1S09DOEVLeFU0dFJOZFJZZS1RQXNqWTZQc29UZ2kwN0xzTmRfREp5b215YW1seGpuNFRfNEJLaERGUWR1aENUMWhra2pJMndiOVlHa1IzeWVfeUFMQkJVWEE?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdW9Qc09HRWFVZFB2QVVNMWI4Tmo3QXBva3psUFV0em1rRXlpSWYtcVZFX1VMMUk5V3Y3OXphd1FqTERZX0FJWXA3cG9hSnAxdDVmOFpvd0x3S2lpYUY2Sk9NVzJiZUo1N3dMLU1HSXg2bWRrNXNPTElLZ3pqUkppLUJLNWxnTjVNdGtKa2RzVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZzE2eFpYcVNOOTVqVzNlM2NVZXlIRnBfOTNRMldqbDA5eVE0d2pRdjNHUUNJdlpocVV2TGRiM0VBTDlYa3dZTUhxaC1fRG91WnNzcXBYTUpsTy1URHJVTXNGeVJ2QXdxTDdoY2h2SW1YMlMxQWpiMWY4Qlg0akFHNjhRY2lnMnhtUHFR?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXhTMk1ONko0U3hVei1MVER0SW9vY0s3Q1JKT2JtOGhpc2FmWnZhOUp0ZGQ4SjlRVkN2VUhDVnM5QmE2WDhOLXd3TUN5eElFM042ZVVYMXM3NEdKTjFuTDZsT3dEUGNBUXYtOXNuTEh6MU52RFpES0d5MlB6cjVxY1J4Yko?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1FpSEFmcFN3Wnk0ZEJOeFVFMWMyQjlfaHhabTZCVTNPS2tFSTJfZUJpeGhteWd4YUNJQjNzZ2dMUGdGQVk2REtGV0U0SHZSUXpjLWlCeHM0b25NaUFYZmJPMlpuemh3bXZHbFpTOHdhNWNHVHkwM0xYeXh6UHA2MWxIZV9hcW84ZHE1aFVTZXlDcXdlUVVSTC1KVDBPNmd2TTJRa1RrenFQR0Jucmd1b0tsUE1Ibk13SVZhSDZ0WUpkNTMz0gHLAUFVX3lxTE9TQTQ1cmNLSFhFY0FsenZTUmNwQk9acDBhS19KOEJGTVg3VEVMTUxDVFpMQjJDbExiQkZQLXpLcDNrZzJRdXFILXhrYlBBWXFWLU1vaVF5WmVkUGlYNnJmbmxRREVzLVRfSUdremlkQWtKNEtxVlFtY3dWMjJ5NjhuTEJPR1dxeFNCRFBDeGJRWmJxdFFSM205YUlReWZqd0U1ZlJMdmhtTXBDSVFBc3pVT213cDFHRHhiQWxBTmJUZFdkd1RYQlYzRGVR?oc=5",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYOTZlVDYzYVNLdHZVV0VvYlp2T29LWG53N0FzZUtuRDA2amNpSWN6QlBxZFVydVk2bjFCc1h6V2x0Zkk1c1RhREJ4Q1dzN0lFTlllMENqUTJsZ0FUeDlwYmxCNEc?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSy1VY0k0WTNGVVlpWlJfSnQ3aUcyREVxMWFOUC13SFNwa3B4VFBBaHRQa1lhNGFRZ003ZFlFUFU4cXhQSjMxenByY25KaDNEcWxRY0p0dTczNjdSM29zcU9TcVFIQjQ4aW5oRGltZ2J1YnhCOWxqd2wyR2ZGME83V0o3aWtibWc?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWS03dFg3WXdITFdxQ3F6NEotOVhTdm1MQy1jWTdSTUFNb1g2MHNCTGRXZDJvdG9ieGs0WkpLT1Y2eTBSUkhHS3F4cERhWnNvVFhKNkZyMlZEX2hIV2JuVE9Ib3FxOUp3WHdXMVFheEhURDM1UVlSYW5NNUlCUW5wZnpuUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2N6LVVodDhzOEViN3VSNWVfcV9oc0VoSEJfQ0ZaSkZzUEpGZVk0ZUFLTldNLUFrYWNNM1hkcTdIZXhGTEk2YVY5WWdZLWdUbHlHSzJPREdtdmkyUGx1Q3FpdGdxMUVyUGl3bjFiQXZBaG1pd1V0Y0MzdUxzd3o1Sm5YSjZnUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xQzh0RDEyV1ZPZnBDaUR4dnlLWXhPZVlWVUZfMlBXYlVhOVgza25VWUw0dWFqbUpUT1JtTkV3bDQxanZEdmRjaW1rWUhHWDVsMTBn?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yTTRNQ0RpbmdsS2cxcUlhT1RDR3IxZ2RHcVBXYXdsbndyd1U3MkZveXRNaGtHVDQ4ZjFuUV9Ld2dpajNiVFhieHFfeUlvemZPeGgyRE9MRUZhY3pkM04wQUpsMlo0Qk0?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11RERPSzZUdWJWZGQ2SEZiS0lUNzZVdVI4NVF1YkV1MzNLYTM1akN0UkNwZ2lBT0YxekMtMUVDVGc0R2pvSjEtcnJZS29pTVRrWGhaSUtvVXV2U0U?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85NDB4UnJtMk1HZ1E4SGZub2tBVDNOempmU2RUMk1FcHpGSUtETkJ3dVpHdFlHUEEyUUFPb2RSVndtSC1YSjNhUmE1Wm53ZW11LWI5RExDbWJDaU9BSXMxWFg0SEpCbjZv?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xQmI1TjZqOFhzTzBXRF9OaVpxekV2dVdVOEk3a1QtckRRTHZvU01GMk5XMHkweTFpbmJIQ1JYWmZpVzZreWwteERQcThPTDNpUE93V2tUQlZrVGxvWDNqVUVBcmd2M0VC?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE43eXUwYjFNajByWHRSMlpuYTJCYlR0X0ZseVZSTzFDVmdwTURVWkFKem83ckFVcW0yMVRPbDBvaDhySlZiS3ljdnVkblV6ZGtzNHQ2WUhnYmx4QTZ4NjYzTEZ1OU53bVZobU1TYk9iTjRwdzFYYXF0N1AwYw?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUlyTkRUWHk1bzZSSnAxX0RWVmh4LUEzcS1hdjk3UHppM3JNMExPZFVISXJuM1N2R0c2eGRCNkgycmtVYTJtQzliZHRuVlBRbjlhdlowcTN0TEpIUTNLWEJ2RzVKQ3U3aDl4eEVWYTlrZkxJVlBGbkxWUDNSejlkX0VadVcwM2Vo?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4UHJqLU9SYUZqVmZ1RC05U1NwU1Q2Z2dCamVyb1I5ZHNxbm9pcG0yV0ZveU4zb1hPMllsdGJiNGk3TDhJdmI5Yy1uS3NJT1ZCbkh4d2VxVlhwWGo1Z2NtM2pJejVtSDhNRDlQbWZCT243cUU?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmV6NXJtUVNjeTBlZVNPUkhJWWRkd1p4TXN2MHNlUGFVR3FhVlJzYV96SG1WT01TU1RWMzVDQ2JTYWd4bWZHenUzbUJ1TFhEQ2t3dGY4LUhISGE0WVBpd0VRSGozUkdudGZraXNwUDVPZS1sS1hDTGRSU0hybEhoVHpaUGlNNGJZNjRyWlVHVmJSNVBEcW5HYXY1QWlHSm95WWo3dHI1OA?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45cTdJNGk1Y0hWd2c1SXJRaGtfQlVkOU1nZ1FoSWlxd2l0cVJsYXNJOTRMb2E2dTdCeVo5cHZfTXFuMmVmUlc4eFZUZ2M?oc=5",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vRmpYVnJTWVFGYVU4bEFzdXNubzB3dWZPVXNCY0FkWElkVnpFdDRYYlZJbnh1MnFMNlVPT2pxWjRlT1VCNlY1WWpBa21fMXBFdVNXclhheW54cEhqM2xxNWhFQQ?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOajdjM3lMQl9fN0trTDZDSjd1dGxZY0phZmNPeEhIVzVIQkNtQ1N0Z3d5RXBlbE9jeHRISEN5WjVjMnBob01ZWVhZOW5HaFhObjM3a0tsdTZhbkdsc252U0FVWU5Yb05EYzFFYnVneF80UVpvLW52WmVFWG9sandnUEctejk1aHZwdFE0SGY2LWMzN2lVZ0ptYkFvNkVxUTdpS0YtcDNnS1dGcVRSa0E?oc=5",
@@ -7999,32 +7976,32 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EVXFhRC12Q0VqaU4zYllCQTc3ODFhbkNKcTdpS0tCd0Vzb3dTR3VmblJDWXFIWkZPOXlOcjY0SVlWakNvekRYT1JhZzlZSHFWMURsYkRoU3VJcjk4MVI2Y1p5MkpESWI3c0E?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxObmk2U1VxVFhFNk5lQ24zZnRCS00tWEtQaVQ3ejQ1NlNEckxsM3dWRFluTVJKcHBqeV96aF9LN25vS1BfS0lXNXJyMy1ZMnY2SGFrM05fVWtMcVc4d3h1MXZQUHIyY0s0STcxclE0c1NhaktYRVY3NVlJd3Y2VnFmRjFfQ20zZXBKNnc1b211S21oTDVxcnZ2TFlDM0FjZHZEVnVKMm5mTlluaFZpNThoVzhrUEhpLW14RXNfd3M2d1RMWV9PZmxGYzVxbmQ2Vnc?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6c1MtSkFtMjdOcEFobHMtYWhlQU5nTDZTSnRzRUthSlpUa3Via3MzbG85ZUE2dW1KUHBvN3U2dHJsNXZ6OUZMdjVPYTBfU1U1Y2ZHRFBaMEJRenI3empBOU14aHF4eC04MXJXQ1FaQUVtb2ZuOHc?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3lnMnFtT2RFV2FDaFFSNHVUdE9uOEMySHlIWm5rc3IxOEJpZGtSS19fdTNTY1JpaHRLZC1RN1hWX01zR0MwMG5STXpuTG1ZLXBjVTU1dU51TG9qUUdNSkpZUFI1LW9ZZERDVmxyakhZSHVLZWc3ek5ObGRtQThOTzZrOWxHeE91RFlCM3l1RFM2VTQ?oc=5"
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3lnMnFtT2RFV2FDaFFSNHVUdE9uOEMySHlIWm5rc3IxOEJpZGtSS19fdTNTY1JpaHRLZC1RN1hWX01zR0MwMG5STXpuTG1ZLXBjVTU1dU51TG9qUUdNSkpZUFI1LW9ZZERDVmxyakhZSHVLZWc3ek5ObGRtQThOTzZrOWxHeE91RFlCM3l1RFM2VTQ?oc=5",
+    "https://insider-gaming.com/ps5-most-downloaded-games-july-2026/",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kVmhXTWpqbkJONjdVSmJUWmVPU0ZRdi0yUjVuTXZhc3lzRzkxRjVYSnRYR3hxTFpYM0RpZkdMaDRDUkswMmNXaHdnWFhYWUN3UzhjbzVwUVNmSkl1dklvdHZBQlE?oc=5",
+    "https://www.nerfplz.com/2026/09/critical-strike-explained-how-crit.html",
+    "https://www.nerfplz.com/2026/08/league-of-legends-rank-distribution.html",
+    "https://www.hotspawn.com/valorant/news/nrg-skuba-interview-vct-americas-stage-2",
+    "https://www.hotspawn.com/fortnite/news/fortnite-c7-s4-battle-pass-leaks",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mb09WeklLR3BkOGo3V0U1QXVGclBjcWxHV21TMllEWVloRld2RW1zRmxocnowX25PM0NtNjJuOWpSV0szcE9mRjdHTDg?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jTWwzbjY2eTFkQ2dwTTdoSkFTYmhzTnlLRVVXWGstYUo5cXByTmJYYUR3RlhiNjl4d2NzcGlETG9DcDd1TksxaUlxZUxmd2ZaYnNLMk83V19yamhlTE5rUnE4WXBpa0U?oc=5",
+    "https://news.google.com/rss/articles/CBMitgJBVV95cUxQMWpnRWVhcE91Sm9CSHdlSHNURnRnaU43aVJWVWI1bHlCRkZ4dy12NTNjdm1yemN4Y3l6MlZOQ2dhRVBsNVl3cE15TUNZZ1hxUVNCeGQ2R2EzVENOdU5RQUxNUXlmRVRaeXJiNEM0c05hdzdXbFFNbUhOcEhZeHQwM0J2anQ1MFJqTHprQkZJR09GUEo2cnI4UFVQYmZjMXBvOUVlYTFiRFNRYnFhRVIyRlV2c25sZ2ljSWU2TGFUbGlqTTM5bGVEWWpiWWpBX2FYVjBGZHlaYmdYcDl4dkRPMVZyNUFsVy1xdDB2R0xVVmRRTlhxeG5UVUZGcDdFR2Fkb2RlaG0yQzVFdTZGd0I2dzgxSV9hZFdyN2VsZFRKMnBkVzlyR2Y0YmpsV25aSlFJX2hDMXBn?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR25zaEhBcFloYVJMSkp6SnR4TmNRVldXT3JGWGx4NW5GX1YyRDR4OFR1TFZGMndaa2RhOU1BQ3R3Z1B0RVU2ZzBkNFQtd1h2NHdGcXoyLVdXOVdaSGRnbFV3djhNSzZtQVZLNFlsaDhmYl9iZkxIYVVkb1F3c3JRVi1uM2R5R21wdVVJWThpSVJtanFUS3dLYURneGFIQkVlMy1JUXgyUFBnUmMzRGlBMTRqNXMzYzBMcEhMVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jYzVjeHdtd2pXSW53NXV5T3VhMEhZNENjRXE4a25wOGpuVXpjd1Z5MmhyTTFsZWE3cTZzLUJBaS1uemZ0QnkwVl9HenVEUnh1SlpoVEh5czFMSkFIX01XUmVmWWhSSWhxWWhkMk93ejhxYng4cFhKRw?oc=5",
+    "https://news.google.com/rss/articles/CBMiN0FVX3lxTE80T045VFBkRmxhN1RIWWotOU1JMkJpWmJ3cDJwcDBsZ0xXWkFZYl9oZm1PN0xvc0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiNkFVX3lxTE9CQ1AzendzdE1VM0dhWHNwd2FoLURPeVJxUWNBTVJyZGRZTzZ3QXAxbnBheHhoQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zV1BiaDZoRkhHT0NhUVgwMFdpdmtfb1RqQWJEN2JkcVZIY0xaVjFUeEIyV2YyVjdvemVDWjl0aWJId1FPV2lqcFFDeGZaVEU?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRVhXT3RxenNxRm5SdFBydG9wTFR1WTd5dF9TYlRMQnZzV1RHc3hPREJWU194TDZMQkpqbFNZNWZzYTlxSEJFbUxzT3VTRmM0dWlNbTFmbGV5WGxDUGNvNXdfTnV6YlBJZ0tuemJ1TGI4aEtuSTZDM05LY29nN2ljaWJ3?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkNJVi02T0lmb2V6S2N2ZE43MFFHcTU4Q09Rb1RNemxxZVJnY1hFZ2YwOGVqbmpWT0pIYVFTNjNycFVzU0xhVHNyZjBheDdXRjgtdFF2VllxaFJBZElFMGhNVEExLTVaNGdLb21IVmJOa2JISW9ydHA2VWk1WW8ydWdienBLa0lmVVEwMzBkaS1uS19tZzVVdDBCT29KU2ZmZkhxZjB5RmdNOUYzOUFPbGtZMDdZY2RUQkJkWUxOcXZYUklLcVE?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE94V2FWUVZydVdxUnJsMjBWc2VPc3RQa04wdHVjdnhDczRSb0hBV2x0LVhydURnVThlanFNdmhNZ1YyZkZ5blBneEhkSDI1REc3OW5lWkROVjlMV2tUUGVkamNVVmNNTE9sVmoxbUJBSC1ua2c?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb1BGQ0h5M0dpT1h6OTk1OXppYnhtNnhPLS13MDVpRk5hZHprbk5Bbkg5SkZrbEhjc2ZVMllUdW0zNGVaWEo5Q210aWdfWC1LNXVSQVpzaFVidGgyem41R2h4ZGhraFNwQVpFR1NTQ1dEcGRRVkxOSWFNdWRsdnN1NGZDUGVnaVRvTTYxYkdOeWI2SGRXVXR4ZDBFYzNTZlRy?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vNXFpZ2JVZkhyQkw2cWtoV3BVZUdIOTlMeXdqRUtQSkZQZ29hX0Q5V2lUMzdOLUlWSmhaZVV5Q0pYbUg3Qm9GcWRPN2s?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42WEZRNEJPc3BZa28ybjlwYTU0aE54dll3eXpDRDd4U1h4S0s5X0o3OHBRLVVjNnVxZ2ktSXdaLXA2WTdEengtaERRMldqLW1lU0VkY1h5VGp5c2lORVg5VEZn?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQjd0OVpXd3YzWk16R19lbHhLZG1ZWklaVXlrdDFLLURfRjJrX2EzY0FjQy1OdXBDWC1qdHVnRDZhdFNXbmdYWmxSU1NJYkI0RzlqT2JvbUZ5NEt3Rzc4TkhYel9USzJMLWlhM0hTQVE3bmp6M2ZrdHBUaWU3ckRuYkNSMlFfQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0RmSTExcC1pTktfNWZhbGlPSmFwTFRqYnRuOF9ldnp6T3Awdy1YY2J0VG9oWTZiMFlJWmVJWnV4WXJVTXVwUjFmN3RDc2JUU3VBR3VONTJKUFRIbC0yMmdPZDB5bUN5V25PdE1GRW94UmtwYVpnZGxmTVdzRWlxRDVXeGhxRlNkandVb01ZX0lJam9RdVVhT0pJOEJPQ1gzSVZqLWtRQXVtZ1RVZ0s4cWlEUzFycTNkRU90RlcyWjR0clNmU1JTRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1U1I4azdPZFF1U1hOZUtNdnpGa1lLR0hyUnFfUllPRDRlaW5NR3hlUkxibUFPNEVacXhxZTNPeHVkX3RkVDlVeHBDbVlPV25yWkRhVTJUOWtYUUVTWTE4aVdERnEwOUlpZndHSUp2X3BaZVhObmVaSERoUnpkUQ?oc=5"
   ],
   "title_hashes": [
-    "2a91bcbe20559d288f353edc5b0a9356",
-    "b28a6dacfe54286b1f804b79b43ad8e9",
-    "5b9c1db657eedf1b904b67aecc18fdf0",
-    "2baaf8620a47a97b80b904f90d6ed1cc",
-    "13cd483a015307f92ad7831b0ae946c7",
-    "36b803e95d54b02d3e55430730aeb09e",
-    "10c1d1f222d827f017f358c84d1cbb4b",
-    "01ace296acfe74df41190d5cf1bbb4a6",
-    "fabd50898885f68da64459eb9f0f0613",
-    "4f64f0effea11d78358c3a17ffb6a315",
-    "9827f490863603674bc635c4a4bea06c",
-    "a49d2ae31e1d0d2e505e47ab0997dd31",
-    "8a8eb2fe6b26271ec7f6c4f574698a45",
-    "12157dc9f58e11fd7c387ca1d6a3a6bc",
-    "dec75aa30c159097b77e36674768a136",
-    "1860dbdaf8ae670da7d722acf7673311",
-    "38bbc61f5d75ac6c3ed3d323b3e698b4",
-    "c52450312da011651aeb70a5b04cd99c",
-    "4e610507a32ef6ad682507f3313c0aa9",
-    "068dc9eb4161205fc0d4e2ecd505253d",
-    "1bd6b92dbcb9551a6addf6eda675c615",
-    "68cb0ecc3142e3fc612a876b468a165b",
-    "1db38ed39e1fa7fb93f662d817c6e123",
     "a80edf6caa65d68b0f50c2f08d3b05eb",
     "4268318ac492dcb2e44733b3b87f2994",
     "1e7ff813a497c1d1d706abd34006209c",
@@ -16001,7 +15978,30 @@
     "3dc7cd09e12faa83490817abe4d657eb",
     "24eaf49c85a0bf9231ec85ea01fb9c33",
     "19ba35db94b11a64152beaceb38ee1cf",
-    "2da10a418f96cdd26a4f3cc29b41026d"
+    "2da10a418f96cdd26a4f3cc29b41026d",
+    "9f6be47e8477a5fffec744a59b486d83",
+    "9a2fa412ec74e65a45a4fdb50588ef40",
+    "d7cbc24b5003a1d846f1dabc96fff29d",
+    "21e74bfeeff605a90cf558e5c57c638f",
+    "c2ddc98969de079c7db3d2eddb544d4f",
+    "acb6f97c78321cda209bc7c9121b1f17",
+    "d101338f63f104b8294cf57b5b312d49",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "aca32cc0027ceabd36483114a598b50d",
+    "f175247408fcf67662c53bd35068b7ef",
+    "8ede725d89623035eb6cbad3f8488729",
+    "703d1c4bbb3f4543df75bf4ff27a31ce",
+    "be1adf214a01e1cff726c655ce269165",
+    "c1bbf435edaf70554e7e3c9fbdcf1db4",
+    "60faef37b2ecce566d0b2946163d151b",
+    "e5068138551c194a458576c3a2b6ea91",
+    "ca476910c71fe175584a831d7f209ebd",
+    "cdcaf00c7c858ed3f2f10499e554047c",
+    "e5068138551c194a458576c3a2b6ea91",
+    "c561418dffb54d37fc4b03f7d4500c51",
+    "436869dfaf5f5943036ff12f92bdfe0f",
+    "850afda79480214c042b9f8e148aea24",
+    "b0f3c26734a781894ab28294b3e90c3c"
   ],
   "transfers": {
     "pages": {
@@ -17314,5 +17314,571 @@
   "gemini_quota": {
     "date": "2026-08-10",
     "calls_today": 8
-  }
+  },
+  "liquipedia": {
+    "counterstrike:Astralis": {
+      "revids": [
+        "3415281"
+      ],
+      "size": 58084
+    },
+    "counterstrike:B1t": {
+      "revids": [
+        "3409760"
+      ],
+      "size": 5547
+    },
+    "counterstrike:Donk": {
+      "revids": [
+        "3397797"
+      ],
+      "size": 29430
+    },
+    "counterstrike:Eternal Fire": {
+      "revids": [
+        "3410826"
+      ],
+      "size": 35014
+    },
+    "counterstrike:FURIA": {
+      "revids": [
+        "3417874"
+      ],
+      "size": 32611
+    },
+    "counterstrike:Frozen": {
+      "revids": [
+        "3423657"
+      ],
+      "size": 13739
+    },
+    "counterstrike:G2 Esports": {
+      "revids": [
+        "3406277"
+      ],
+      "size": 54088
+    },
+    "counterstrike:M0NESY": {
+      "revids": [
+        "3420943"
+      ],
+      "size": 18435
+    },
+    "counterstrike:MOUZ": {
+      "revids": [
+        "3424497"
+      ],
+      "size": 94487
+    },
+    "counterstrike:Magisk": {
+      "revids": [
+        "3426881"
+      ],
+      "size": 16853
+    },
+    "counterstrike:Natus Vincere": {
+      "revids": [
+        "3420624"
+      ],
+      "size": 46248
+    },
+    "counterstrike:NiKo": {
+      "revids": [
+        "3421042"
+      ],
+      "size": 70130
+    },
+    "counterstrike:Nigma Galaxy": {
+      "revids": [
+        "3186552"
+      ],
+      "size": 7023
+    },
+    "counterstrike:Ropz": {
+      "revids": [
+        "3390162"
+      ],
+      "size": 35777
+    },
+    "counterstrike:S1mple": {
+      "revids": [
+        "3427738"
+      ],
+      "size": 68740
+    },
+    "counterstrike:Spirit": {
+      "revids": [
+        "3290514"
+      ],
+      "size": 1671
+    },
+    "counterstrike:Team Falcons": {
+      "revids": [
+        "3422540"
+      ],
+      "size": 32254
+    },
+    "counterstrike:Team Liquid": {
+      "revids": [
+        "3422057"
+      ],
+      "size": 56355
+    },
+    "counterstrike:Twisted Minds": {
+      "revids": [
+        "3187429"
+      ],
+      "size": 3317
+    },
+    "counterstrike:ZywOo": {
+      "revids": [
+        "3373095"
+      ],
+      "size": 36281
+    },
+    "counterstrike:FaZe Clan": {
+      "revids": [
+        "3428958"
+      ],
+      "size": 50094
+    },
+    "counterstrike:Team Vitality": {
+      "revids": [
+        "3427944"
+      ],
+      "size": 39239
+    },
+    "valorant:100 Thieves": {
+      "revids": [
+        "1266409"
+      ],
+      "size": 7136
+    },
+    "valorant:DRX": {
+      "revids": [
+        "1314662"
+      ],
+      "size": 7572
+    },
+    "valorant:EDward Gaming": {
+      "revids": [
+        "1303902"
+      ],
+      "size": 7342
+    },
+    "valorant:Esports Nations Cup/2026": {
+      "revids": [
+        "1314188"
+      ],
+      "size": 32053
+    },
+    "valorant:Esports World Cup/2026": {
+      "revids": [
+        "1315062"
+      ],
+      "size": 21117
+    },
+    "valorant:Fnatic": {
+      "revids": [
+        "1291261"
+      ],
+      "size": 15205
+    },
+    "valorant:Paper Rex": {
+      "revids": [
+        "1266397"
+      ],
+      "size": 8864
+    },
+    "valorant:Sentinels": {
+      "revids": [
+        "1270177"
+      ],
+      "size": 11568
+    },
+    "valorant:Team Falcons": {
+      "revids": [
+        "1101643"
+      ],
+      "size": 2963
+    },
+    "valorant:Team Heretics": {
+      "revids": [
+        "1315061"
+      ],
+      "size": 8803
+    },
+    "valorant:Team Liquid": {
+      "revids": [
+        "1294157"
+      ],
+      "size": 12056
+    },
+    "valorant:Twisted Minds": {
+      "revids": [
+        "1218396"
+      ],
+      "size": 2493
+    },
+    "valorant:VCT/2026/Champions": {
+      "revids": [
+        "1314181"
+      ],
+      "size": 11490
+    },
+    "valorant:Portal:Rumours": {
+      "revids": [
+        "1217208"
+      ],
+      "size": 1131
+    },
+    "valorant:Gen.G Esports": {
+      "revids": [
+        "1308724"
+      ],
+      "size": 6864
+    },
+    "leagueoflegends:Bilibili Gaming": {
+      "revids": [
+        "1033580"
+      ],
+      "size": 4854
+    },
+    "leagueoflegends:Fnatic": {
+      "revids": [
+        "1006355"
+      ],
+      "size": 7880
+    },
+    "leagueoflegends:G2 Esports": {
+      "revids": [
+        "1033407"
+      ],
+      "size": 12234
+    },
+    "leagueoflegends:Hanwha Life Esports": {
+      "revids": [
+        "1033577"
+      ],
+      "size": 8141
+    },
+    "leagueoflegends:JD Gaming": {
+      "revids": [
+        "1006541"
+      ],
+      "size": 4412
+    },
+    "leagueoflegends:LCK/2026": {
+      "revids": [
+        "1040888"
+      ],
+      "size": 15558
+    },
+    "leagueoflegends:T1": {
+      "revids": [
+        "1035193"
+      ],
+      "size": 26743
+    },
+    "leagueoflegends:Portal:Rumours": {
+      "revids": [
+        "994618"
+      ],
+      "size": 1252
+    },
+    "leagueoflegends:Gen.G Esports": {
+      "revids": [
+        "1006562"
+      ],
+      "size": 12439
+    },
+    "dota2:Gaimin Gladiators": {
+      "revids": [
+        "2352630"
+      ],
+      "size": 20342
+    },
+    "dota2:Nigma Galaxy": {
+      "revids": [
+        "2402683"
+      ],
+      "size": 36064
+    },
+    "dota2:PSG Quest": {
+      "revids": [
+        "2375818"
+      ],
+      "size": 16034
+    },
+    "dota2:Team Falcons": {
+      "revids": [],
+      "size": 11731
+    },
+    "dota2:Team Liquid": {
+      "revids": [],
+      "size": 68139
+    },
+    "dota2:Team Spirit": {
+      "revids": [],
+      "size": 51854
+    },
+    "dota2:The International/2026": {
+      "revids": [],
+      "size": 24235
+    },
+    "dota2:Tundra Esports": {
+      "revids": [],
+      "size": 37232
+    },
+    "rainbowsix:DarkZero": {
+      "revids": [],
+      "size": 1418
+    },
+    "rainbowsix:Esports Nations Cup/2026": {
+      "revids": [],
+      "size": 79165
+    },
+    "rainbowsix:Esports World Cup/2026": {
+      "revids": [],
+      "size": 74879
+    },
+    "rainbowsix:FaZe Clan": {
+      "revids": [],
+      "size": 3400
+    },
+    "rainbowsix:G2 Esports": {
+      "revids": [],
+      "size": 4869
+    },
+    "rainbowsix:Ninjas in Pyjamas": {
+      "revids": [],
+      "size": 3701
+    },
+    "rainbowsix:Shifters": {
+      "revids": [],
+      "size": 2380
+    },
+    "rainbowsix:Six Invitational/2026": {
+      "revids": [],
+      "size": 79143
+    },
+    "rainbowsix:Spacestation Gaming": {
+      "revids": [],
+      "size": 2777
+    },
+    "rainbowsix:Team Falcons": {
+      "revids": [],
+      "size": 2483
+    },
+    "rainbowsix:Team Liquid": {
+      "revids": [],
+      "size": 3904
+    },
+    "rainbowsix:Twisted Minds": {
+      "revids": [],
+      "size": 2677
+    },
+    "rainbowsix:Virtus.pro": {
+      "revids": [],
+      "size": 2137
+    },
+    "rainbowsix:W7m esports": {
+      "revids": [],
+      "size": 2037
+    },
+    "rainbowsix:Wolves Esports": {
+      "revids": [],
+      "size": 2054
+    },
+    "rainbowsix:Portal:Rumours": {
+      "revids": [],
+      "size": 1250
+    },
+    "rocketleague:Dignitas": {
+      "revids": [],
+      "size": 9487
+    },
+    "rocketleague:Esports World Cup/2026": {
+      "revids": [],
+      "size": 35400
+    },
+    "rocketleague:FIFAe World Cup/2026": {
+      "revids": [],
+      "size": 12669
+    },
+    "rocketleague:FURIA": {
+      "revids": [],
+      "size": 3906
+    },
+    "rocketleague:Gen.G Mobil1 Racing": {
+      "revids": [],
+      "size": 4645
+    },
+    "rocketleague:Gentle Mates": {
+      "revids": [],
+      "size": 3636
+    },
+    "rocketleague:Karmine Corp": {
+      "revids": [],
+      "size": 5516
+    },
+    "rocketleague:NRG": {
+      "revids": [],
+      "size": 29842
+    },
+    "rocketleague:Spacestation Gaming": {
+      "revids": [],
+      "size": 10144
+    },
+    "rocketleague:Team BDS": {
+      "revids": [],
+      "size": 5932
+    },
+    "rocketleague:Team Falcons": {
+      "revids": [],
+      "size": 16344
+    },
+    "rocketleague:Twisted Minds": {
+      "revids": [],
+      "size": 4151
+    },
+    "rocketleague:Rocket League Championship Series/2026": {
+      "revids": [],
+      "size": 46996
+    },
+    "rocketleague:Rumours": {
+      "revids": [],
+      "size": 1158
+    },
+    "rocketleague:Team Vitality": {
+      "revids": [],
+      "size": 9890
+    },
+    "mobilelegends:Blacklist International": {
+      "revids": [],
+      "size": 4076
+    },
+    "mobilelegends:MSC/2026": {
+      "revids": [],
+      "size": 36707
+    },
+    "mobilelegends:RRQ Hoshi": {
+      "revids": [],
+      "size": 4750
+    },
+    "mobilelegends:Selangor Red Giants": {
+      "revids": [],
+      "size": 6226
+    },
+    "mobilelegends:EVOS": {
+      "revids": [],
+      "size": 3022
+    },
+    "mobilelegends:ONIC": {
+      "revids": [],
+      "size": 4533
+    },
+    "honorofkings:Honor of Kings World Cup/2026": {
+      "revids": [],
+      "size": 32108
+    },
+    "pubgmobile:Team Falcons": {
+      "revids": [],
+      "size": 2127
+    },
+    "pubgmobile:Portal:Rumours": {
+      "revids": [],
+      "size": 1250
+    },
+    "fighters:Capcom Cup/12": {
+      "revids": [],
+      "size": 13546
+    },
+    "fighters:Esports World Cup/2026/SF6": {
+      "revids": [],
+      "size": 8652
+    },
+    "fighters:Esports World Cup/2026/T8": {
+      "revids": [],
+      "size": 8628
+    },
+    "fighters:Street Fighter 6": {
+      "revids": [],
+      "size": 12299
+    },
+    "fighters:Tekken": {
+      "revids": [],
+      "size": 4209
+    },
+    "fighters:Tekken World Tour/2026": {
+      "revids": [],
+      "size": 5199
+    },
+    "easportsfc:EChampions League/2026": {
+      "revids": [],
+      "size": 7605
+    },
+    "easportsfc:Team Falcons": {
+      "revids": [],
+      "size": 1060
+    },
+    "easportsfc:FC Pro 26/World Championship": {
+      "revids": [],
+      "size": 9580
+    },
+    "overwatch:Crazy Raccoon": {
+      "revids": [],
+      "size": 8598
+    },
+    "overwatch:Spacestation Gaming": {
+      "revids": [],
+      "size": 7752
+    },
+    "overwatch:Team Falcons": {
+      "revids": [],
+      "size": 12051
+    },
+    "overwatch:Portal:Rumours": {
+      "revids": [],
+      "size": 1207
+    },
+    "tft:Esports World Cup/2026": {
+      "revids": [],
+      "size": 11428
+    },
+    "callofduty:Portal:Rumours": {
+      "revids": [],
+      "size": 1139
+    },
+    "apexlegends:Alliance": {
+      "revids": [],
+      "size": 22942
+    },
+    "apexlegends:FURIA": {
+      "revids": [],
+      "size": 16214
+    },
+    "apexlegends:Team Falcons": {
+      "revids": [],
+      "size": 7030
+    },
+    "apexlegends:Portal:Rumours": {
+      "revids": [],
+      "size": 1179
+    },
+    "freefire:Esports World Cup/2026": {
+      "revids": [],
+      "size": 29281
+    },
+    "freefire:Free Fire World Series/2026": {
+      "revids": [],
+      "size": 11485
+    },
+    "freefire:Team Falcons": {
+      "revids": [],
+      "size": 3321
+    }
+  },
+  "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
+  "last_health_alert": "2026-08-10T21:49:20.902061+00:00"
 }
