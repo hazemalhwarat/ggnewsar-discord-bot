@@ -65,6 +65,29 @@ UPDATE 2026-08-11 (region + source_type fields, comprehensive coverage pass):
     "Portal:Rumours" page (community-maintained, with its own
     Unlikely/Possible/Likely/Certain confidence scale per rumor).
 
+UPDATE 2026-08-11 (round 2) — Liquipedia removed entirely, leaks rebuilt,
+broader coverage:
+  - watchlist.py and everything Liquipedia-related is gone from bot.py per
+    Hazem's explicit instruction (no Liquipedia content at all anymore).
+    The "Portal:Rumours" leak mechanism mentioned in the note above no
+    longer exists — delete watchlist.py from the repo, it's dead code now.
+  - Leaks/rumors replacement: added one Google News bridge per major game
+    that searches specifically for rumor-language keywords (rumor,
+    reportedly, "in talks", leaked) rather than just general news. This is
+    source-agnostic — it catches whichever outlet breaks a rumor first —
+    instead of depending on a fixed list of named accounts. All tagged
+    source_type="leak". Combined with the individual insider accounts
+    already tagged the same way (Sheep Esports, Slasher, RLewisReports,
+    TravisGafford, KRL).
+  - Broader coverage: five more general sources added (Business of
+    Esports, G2 Esports' own blog, Blog of Legends, Esports One Blog,
+    Gamer Style Mexico) for more industry/analysis/regional breadth, on
+    top of the existing 160+ sources.
+  - The bot's run interval also changed from every 15 minutes to every 5
+    hours (see bot.py's docstring) — this doesn't require any change in
+    this file, but it does mean MAX_MESSAGES_PER_RUN in bot.py was raised
+    since each pass now covers a much bigger accumulation window.
+
 To add an X (Twitter) account as a source (e.g. official team or organizer
 accounts, matching how wire-style accounts like @esports break news first):
 X has no public RSS anymore, so bridge it through a self-hosted RSSHub
@@ -303,6 +326,47 @@ RSS_FEEDS = [
     {"name": "Jordan Esports Federation (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:jef.jo&hl=en&gl=US&ceid=US:en", "verified": False, "region": "jordan", "priority": "high"},
     {"name": "Jordan Esports general", "url": "https://news.google.com/rss/search?q=%22Jordan+Esports%22+OR+%22Jordan+Esports+Federation%22&hl=en&gl=US&ceid=US:en", "verified": False, "region": "jordan", "priority": "high"},
     {"name": "X: Jordan Esports Federation (@Jordan_Esports)", "url": "https://rsshub.app/twitter/user/Jordan_Esports", "verified": False, "region": "jordan", "priority": "high"},
+
+    # ============================================================
+    # BROADER COVERAGE — added 2026-08-11 per Hazem's request for more
+    # expansive coverage: additional general sources (more RSS across
+    # existing games/regions) plus outlets covering industry/business/
+    # analysis rather than just breaking match news. Sourced from
+    # FeedSpot's esports RSS directory, cross-checked against the list
+    # already above to avoid duplicates.
+    # ============================================================
+    {"name": "Business of Esports", "url": "https://thebusinessofesports.com/feed/", "verified": False},
+    {"name": "G2 Esports (official team blog)", "url": "https://g2esports.com/blogs/news.atom", "verified": False, "priority": "high"},
+    {"name": "Blog of Legends (LoL news, rumors, updates)", "url": "https://blogoflegends.com/league-of-legends-esports/feed/", "verified": False},
+    {"name": "Esports One Blog", "url": "https://blog.esportsone.com/feed/", "verified": False},
+    {"name": "Gamer Style Mexico (Esports, LatAm)", "url": "https://gamerstyle.com.mx/category/esports/feed/", "verified": False},
+
+    # ============================================================
+    # LEAKS/RUMORS — REBUILT 2026-08-11 after removing Liquipedia
+    # entirely (its "Portal:Rumours" pages, which used to cover this,
+    # are gone along with the rest of the Liquipedia integration).
+    # Replacement approach: targeted Google News bridges per game,
+    # searching specifically for rumor-language keywords (rumor,
+    # reportedly, in talks, leaked) rather than just general news, using
+    # the same Google News bridge pattern already proven elsewhere in
+    # this file. This is source-agnostic (catches whichever outlet
+    # breaks a given rumor first) instead of depending on one or two
+    # named accounts. Combined with the insider accounts already tagged
+    # source_type="leak" above (Sheep Esports, Slasher, RLewisReports,
+    # TravisGafford, KRL).
+    # ============================================================
+    {"name": "CS2 rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=(%22Counter-Strike+2%22+OR+CS2)+(rumor+OR+rumour+OR+reportedly+OR+%22in+talks%22+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
+    {"name": "VALORANT rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=VALORANT+esports+(rumor+OR+rumour+OR+reportedly+OR+%22in+talks%22+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
+    {"name": "League of Legends rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=%22League+of+Legends%22+esports+(rumor+OR+rumour+OR+reportedly+OR+%22in+talks%22+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
+    {"name": "Dota 2 rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=%22Dota+2%22+(rumor+OR+rumour+OR+reportedly+OR+%22in+talks%22+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
+    {"name": "Mobile Legends rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=%22Mobile+Legends%22+(rumor+OR+rumour+OR+reportedly+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
+    {"name": "PUBG Mobile rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=%22PUBG+Mobile%22+esports+(rumor+OR+rumour+OR+reportedly+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
+    {"name": "Rainbow Six rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=%22Rainbow+Six%22+esports+(rumor+OR+rumour+OR+reportedly+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
+    {"name": "Rocket League rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=%22Rocket+League%22+esports+(rumor+OR+rumour+OR+reportedly+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
+    {"name": "Overwatch rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=Overwatch+esports+(rumor+OR+rumour+OR+reportedly+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
+    {"name": "Call of Duty rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=%22Call+of+Duty%22+esports+(rumor+OR+rumour+OR+reportedly+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
+    {"name": "MENA esports transfer rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=(%22Team+Falcons%22+OR+%22Twisted+Minds%22+OR+%22Nigma+Galaxy%22+OR+%22Geekay+Esports%22+OR+MENA+esports)+(rumor+OR+rumour+OR+reportedly+OR+%22in+talks%22+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak", "region": "mena"},
+    {"name": "General esports transfer rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(rumor+OR+rumour+OR+%22reportedly+joining%22+OR+%22linked+with%22+OR+%22set+to+join%22)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
 ]
 
 if __name__ == "__main__":
@@ -312,3 +376,8 @@ if __name__ == "__main__":
     print(f"Jordan-tagged: {sum(1 for f in RSS_FEEDS if f.get('region') == 'jordan')}")
     print(f"MENA-tagged: {sum(1 for f in RSS_FEEDS if f.get('region') == 'mena')}")
     print(f"Leak/rumor sources: {sum(1 for f in RSS_FEEDS if f.get('source_type') == 'leak')}")
+    print(f"High priority: {sum(1 for f in RSS_FEEDS if f.get('priority') == 'high')}")
+
+    names = [f['name'] for f in RSS_FEEDS]
+    dupes = {n for n in names if names.count(n) > 1}
+    print(f"Duplicate names: {dupes if dupes else 'none'}")
