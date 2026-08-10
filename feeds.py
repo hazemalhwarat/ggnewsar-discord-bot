@@ -1,6 +1,7 @@
 """
 GGNewsAR Bot — RSS Feed Configuration
-119 English-language esports sources. No Arabic sources by design.
+
+131 English-language sources. No Arabic sources by design.
 
 IMPORTANT: bot.py does NOT filter by "verified". Every source in this list
 is attempted on every run, with no exception. "verified" is documentation
@@ -14,11 +15,11 @@ Removing it would mean losing that source permanently. The cost of
 keeping it is one extra failed HTTP request per run; negligible.
 
 Status from the live run on 2026-06-28 22:48 UTC (run #49):
-verified=True  -> confirmed returning real entries in that run.
-verified=False -> failed in that run (dead URL / wrong path / HTML
-                  instead of XML / site down). Kept in the list on
-                  purpose — will retry every run, no manual step needed
-                  if it comes back online.
+  verified=True  -> confirmed returning real entries in that run.
+  verified=False -> failed in that run (dead URL / wrong path / HTML
+                     instead of XML / site down). Kept in the list on
+                     purpose — will retry every run, no manual step needed
+                     if it comes back online.
 
 To manually fix a failing source: find the correct RSS path for that site
 and update its url here. To check current status: look at "Failed Sources"
@@ -34,9 +35,35 @@ UPDATE 2026-07-05 (priority field): each feed dict may include an optional
 "priority" key: "high", "normal" (default if omitted), or "low". bot.py
 processes and sends "high" priority sources first in every pass, before
 "normal"/"low" ones -- so if the per-run send cap (MAX_MESSAGES_PER_RUN) is
-ever hit, the important sources still get through. Mark a source "high"
-when it's a primary/official account you want surfaced first: tournament
-organizers, official team accounts, HLTV/VLR/Liquipedia-tier sources, etc.
+ever hit, the important sources still get through.
+NOTE (2026-08-11): this field was documented here since 2026-07-05 but
+bot.py never actually sorted by it until today's update — it was a no-op
+before. It is now genuinely applied. Mark a source "high" when it's a
+primary/official account you want surfaced first: tournament organizers,
+official team accounts, HLTV/VLR/Liquipedia-tier sources, etc.
+
+UPDATE 2026-08-11 (region + source_type fields, comprehensive coverage pass):
+  - "region": optional, "jordan" or "mena". Omit for global sources. This is
+    only a starting hint passed to Gemini — the final region tag shown on
+    each message is decided from the article's actual content, and Gemini
+    is explicitly told to override the hint if the story doesn't match it.
+  - "source_type": optional, "leak" for accounts/outlets that specialize in
+    unconfirmed transfer rumors and insider reports rather than official
+    announcements. Omit for normal confirmed-news sources (this is the
+    default). Same override rule applies — a "leak" source publishing an
+    official confirmed statement is still tagged "مؤكد", not "تسريب".
+  - Added a dedicated Jordan section (was completely absent before, despite
+    being GGNewsAR's home market — the MENA expansion block below covers
+    every other Arab country but not Jordan itself).
+  - Retagged known insider/rumor accounts already in this file (Sheep
+    Esports, Slasher, RLewisReports, TravisGafford) as source_type="leak",
+    and added KRL, a Counter-Strike-specific insider account with a strong
+    public track record (accurately reported the karrigan-to-Falcons move
+    ahead of IEM Cologne 2026, among others).
+  - For a more structured, higher-signal leaks feed per game, see
+    watchlist.py: every wiki now also watches that game's Liquipedia
+    "Portal:Rumours" page (community-maintained, with its own
+    Unlikely/Possible/Likely/Certain confidence scale per rumor).
 
 To add an X (Twitter) account as a source (e.g. official team or organizer
 accounts, matching how wire-style accounts like @esports break news first):
@@ -46,25 +73,11 @@ reliable for production -- self-host one on Railway/Render/a small VPS,
 it's free-tier friendly). Once you have your RSSHub URL, add entries like:
 {"name": "HLTV (X)", "url": "https://YOUR-RSSHUB-INSTANCE/twitter/user/HLTV",
  "verified": False, "priority": "high"}
-
-UPDATE 2026-07-17: added a batch of dedicated/bridge feeds for games that
-were thin or missing entirely — EA Sports FC / FC Pro, PUBG Mobile, Call
-of Duty, and mobile esports broadly (Mobile Legends, Free Fire, Wild Rift,
-Honor of Kings, Clash Royale), plus Fortnite and fighting games. See the
-"GAME COVERAGE EXPANSION" block near the end of this file.
-
-UPDATE 2026-07-20 (sponsorship/business routing): each feed dict may now
-include an optional "category" key set to "sponsorship". bot.py uses this
-(plus a keyword scan applied to every item regardless of source) to route
-sponsorship/partnership/investment/acquisition news to a dedicated Discord
-channel via the SPONSORSHIP_WEBHOOK_URL secret, separate from the main
-news channel. See the "SPONSORSHIP & BUSINESS EXPANSION" block near the
-end of this file for the dedicated sources and company/brand watchlist
-queries added for this. Existing trade-press sources that were already in
-the list (GamesIndustry.biz, SportsPro Esports, Esportstower, Esports
-Marketing Blog, European Gaming Media, NESTHQ, Esports Advocate, and the
-general sponsorship Google News bridge) were retagged with
-"category": "sponsorship" rather than duplicated.
+NOTE (2026-08-11): every X/Twitter entry below still points at the public
+rsshub.app instance, which this same docstring has warned against since
+2026-07-04. This is very likely why star-signing/transfer news (which
+usually breaks on X first) has been under-covered — worth actually
+self-hosting an RSSHub instance and swapping these URLs over.
 """
 
 RSS_FEEDS = [
@@ -103,7 +116,7 @@ RSS_FEEDS = [
     {"name": "Esports Wizard Apex", "url": "https://esportswizard.com/news/tag/apex-legends/feed", "verified": True},
     {"name": "Dexerto Apex", "url": "https://www.dexerto.com/apex-legends/feed", "verified": True},
     {"name": "The Loadout PUBG", "url": "https://www.theloadout.com/pubg/feed", "verified": True},
-    {"name": "Esports Advocate", "url": "https://esportsadvocate.net/feed", "verified": True, "category": "sponsorship"},
+    {"name": "Esports Advocate", "url": "https://esportsadvocate.net/feed", "verified": True},
     {"name": "Esports Wales", "url": "https://esportswales.org/feed", "verified": True},
     {"name": "GRID Esports Data Blog", "url": "https://blog.grid.gg/feed", "verified": True},
     {"name": "Traxion.gg Esports", "url": "https://traxion.gg/category/esports/feed", "verified": True},
@@ -181,27 +194,21 @@ RSS_FEEDS = [
     # (deals, sponsorships, investment) from specialized and general
     # industry trade press, not just match/tournament news.
     # ============================================================
-    {"name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/rss/gamesindustry_news_feed.rss", "verified": False, "category": "sponsorship"},
+    {"name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/rss/gamesindustry_news_feed.rss", "verified": False},
     {"name": "SK Gaming", "url": "https://sk-gaming.com/news/rss.xml", "verified": False},
-    {"name": "Esportstower", "url": "https://esportstower.com/feed", "verified": False, "category": "sponsorship"},
-    {"name": "SportsPro Esports", "url": "https://www.sportspromedia.com/tag/esports/feed", "verified": False, "category": "sponsorship"},
+    {"name": "Esportstower", "url": "https://esportstower.com/feed", "verified": False},
+    {"name": "SportsPro Esports", "url": "https://www.sportspromedia.com/tag/esports/feed", "verified": False},
     {"name": "Challengermode Blog", "url": "https://blog.challengermode.com/feed", "verified": False},
     {"name": "F1 Esports", "url": "https://f1esports.com/news/feed", "verified": False},
-    {"name": "NESTHQ", "url": "https://nesthq.ca/feed", "verified": False, "category": "sponsorship"},
+    {"name": "NESTHQ", "url": "https://nesthq.ca/feed", "verified": False},
     {"name": "Esports Charts News", "url": "https://escharts.com/news/feed", "verified": False},
 
     # ============================================================
-    # Sheep Esports — re-added 2026-08-09. Its /rss feed mixes real
-    # news articles with individual match-result pages (URL pattern
-    # /matches/...), and the match pages often carry no reliable
-    # pubDate, so old ones (e.g. a 2022 RLCS MENA qualifier) were
-    # slipping past the freshness filter as if new. Kept the source
-    # for its actual news coverage, excluded the match-page pattern
-    # via "exclude_link_contains" (see bot.py rss_phase). If future
-    # spam shows a different URL pattern, extend this list rather
-    # than removing the source again.
+    # Added 2026-07-01 per Hazem's request.
+    # Sheep Esports is explicitly a leaks/rumors outlet (LoL, VALORANT,
+    # CS2, Rocket League) — retagged 2026-08-11.
     # ============================================================
-    {"name": "Sheep Esports", "url": "https://www.sheepesports.com/rss", "verified": False, "exclude_link_contains": ["/matches/"]},
+    {"name": "Sheep Esports", "url": "https://www.sheepesports.com/rss", "verified": False, "source_type": "leak"},
 
     # ============================================================
     # 2026-07-01, batch 3 — cleanup pass.
@@ -211,8 +218,8 @@ RSS_FEEDS = [
     # ============================================================
     # Added 2026-07-01, batch 2
     # ============================================================
-    {"name": "Esports Marketing Blog", "url": "https://esports-marketing-blog.com/feed/", "verified": False, "category": "sponsorship"},
-    {"name": "European Gaming Media", "url": "https://europeangaming.eu/portal/feed/", "verified": False, "category": "sponsorship"},
+    {"name": "Esports Marketing Blog", "url": "https://esports-marketing-blog.com/feed/", "verified": False},
+    {"name": "European Gaming Media", "url": "https://europeangaming.eu/portal/feed/", "verified": False},
     {"name": "Esports Africa News", "url": "https://esportsafricanews.com/feed/", "verified": False},
     {"name": "LoL Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:lolesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "VALORANT Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:valorantesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
@@ -221,17 +228,18 @@ RSS_FEEDS = [
     {"name": "PUBG Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:pubgesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "ALGS - Apex Legends (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:algs.com&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Call of Duty League (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:callofdutyleague.com&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Esports Business & Sponsorships (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(sponsorship+OR+partnership+OR+investment+OR+acquisition+OR+revenue)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Esports Business & Sponsorships (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(sponsorship+OR+partnership+OR+investment+OR+acquisition+OR+revenue)&hl=en&gl=US&ceid=US:en", "verified": False},
 
     # ============================================================
     # Added 2026-07-04 — X (Twitter) accounts via RSSHub public instance
+    # See docstring warning at top of file re: self-hosting RSSHub.
     # ============================================================
-    {"name": "X: Team Falcons (@FalconsEsport)", "url": "https://rsshub.app/twitter/user/FalconsEsport", "verified": False},
-    {"name": "X: Twisted Minds (@TwisMinds)", "url": "https://rsshub.app/twitter/user/TwisMinds", "verified": False},
-    {"name": "X: Nigma Galaxy (@NigmaGalaxy)", "url": "https://rsshub.app/twitter/user/NigmaGalaxy", "verified": False},
-    {"name": "X: Geekay Esports (@geekay_esports)", "url": "https://rsshub.app/twitter/user/geekay_esports", "verified": False},
-    {"name": "X: FATE Esports (@EsportsFate)", "url": "https://rsshub.app/twitter/user/EsportsFate", "verified": False},
-    {"name": "X: Esports World Cup (@EWC_EN) [checked]", "url": "https://rsshub.app/twitter/user/EWC_EN", "verified": False},
+    {"name": "X: Team Falcons (@FalconsEsport)", "url": "https://rsshub.app/twitter/user/FalconsEsport", "verified": False, "region": "mena"},
+    {"name": "X: Twisted Minds (@TwisMinds)", "url": "https://rsshub.app/twitter/user/TwisMinds", "verified": False, "region": "mena"},
+    {"name": "X: Nigma Galaxy (@NigmaGalaxy)", "url": "https://rsshub.app/twitter/user/NigmaGalaxy", "verified": False, "region": "mena"},
+    {"name": "X: Geekay Esports (@geekay_esports)", "url": "https://rsshub.app/twitter/user/geekay_esports", "verified": False, "region": "mena"},
+    {"name": "X: FATE Esports (@EsportsFate)", "url": "https://rsshub.app/twitter/user/EsportsFate", "verified": False, "region": "mena"},
+    {"name": "X: Esports World Cup (@EWC_EN) [checked]", "url": "https://rsshub.app/twitter/user/EWC_EN", "verified": False, "priority": "high"},
     {"name": "X: ESL (@ESL) [likely]", "url": "https://rsshub.app/twitter/user/ESL", "verified": False},
     {"name": "X: ESL CS (@ESLCS) [likely]", "url": "https://rsshub.app/twitter/user/ESLCS", "verified": False},
     {"name": "X: BLAST (@BLASTPremier) [likely]", "url": "https://rsshub.app/twitter/user/BLASTPremier", "verified": False},
@@ -246,9 +254,16 @@ RSS_FEEDS = [
     {"name": "X: PUBG Esports (@PUBGEsports) [unsure]", "url": "https://rsshub.app/twitter/user/PUBGEsports", "verified": False},
     {"name": "X: Mobile Legends Bang Bang (@MobileLegends) [unsure]", "url": "https://rsshub.app/twitter/user/MobileLegends", "verified": False},
     {"name": "X: EA Sports FC (@EASPORTSFC) [unsure]", "url": "https://rsshub.app/twitter/user/EASPORTSFC", "verified": False},
-    {"name": "X: Rod Breslau (@Slasher) [likely]", "url": "https://rsshub.app/twitter/user/Slasher", "verified": False},
-    {"name": "X: Richard Lewis (@RLewisReports) [likely]", "url": "https://rsshub.app/twitter/user/RLewisReports", "verified": False},
-    {"name": "X: Travis Gafford (@TravisGafford) [likely]", "url": "https://rsshub.app/twitter/user/TravisGafford", "verified": False},
+    # Insider / rumor accounts — retagged source_type="leak" 2026-08-11,
+    # these three are well known for breaking transfer rumors ahead of
+    # official announcements, not for publishing confirmed news first.
+    {"name": "X: Rod Breslau (@Slasher) [likely]", "url": "https://rsshub.app/twitter/user/Slasher", "verified": False, "source_type": "leak"},
+    {"name": "X: Richard Lewis (@RLewisReports) [likely]", "url": "https://rsshub.app/twitter/user/RLewisReports", "verified": False, "source_type": "leak"},
+    {"name": "X: Travis Gafford (@TravisGafford) [likely]", "url": "https://rsshub.app/twitter/user/TravisGafford", "verified": False, "source_type": "leak"},
+    # Added 2026-08-11 — CS2-specific insider account with a strong public
+    # track record (correctly reported karrigan's move to Falcons ahead of
+    # IEM Cologne 2026, among other transfers later confirmed as described).
+    {"name": "X: KRL (@KRL_STREAM) [insider, CS2]", "url": "https://rsshub.app/twitter/user/KRL_STREAM", "verified": False, "source_type": "leak"},
 
     # ============================================================
     # MENA EXPANSION — added 2026-07-05: full MENA coverage (Gulf,
@@ -257,117 +272,43 @@ RSS_FEEDS = [
     # native RSS. Confidence tags: [checked] confirmed active team/
     # program, [federation] official body not a competing team,
     # [thin] no confirmed organized scene found.
+    # All entries below tagged region="mena" (2026-08-11).
     # ============================================================
-    {"name": "Kuwait Esports Club [federation]", "url": "https://news.google.com/rss/search?q=%22Kuwait+Esports%22&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Bahrain Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Bahrain+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Qatar Esports [thin]", "url": "https://news.google.com/rss/search?q=Qatar+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Oman Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Oman+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Lebanon Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Lebanon+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Syria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Syria+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Palestine Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Palestine+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Iraq Esports [checked, ENC26 national team, top 4 finish]", "url": "https://news.google.com/rss/search?q=Iraq+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Morocco Esports [checked, ENC26 MENA runner-up]", "url": "https://news.google.com/rss/search?q=Morocco+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Algeria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Algeria+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Tunisia Esports [checked, ENC26 MENA 3rd place]", "url": "https://news.google.com/rss/search?q=Tunisia+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Libya Esports [thin]", "url": "https://news.google.com/rss/search?q=Libya+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Mauritania Esports [thin]", "url": "https://news.google.com/rss/search?q=Mauritania+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Sudan Esports [thin]", "url": "https://news.google.com/rss/search?q=Sudan+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Al-Ahli Esports (Saudi, new CS2 roster June 2026) [checked]", "url": "https://news.google.com/rss/search?q=%22Al+Ahli%22+esports+CS2&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Esports Nations Cup 2026 [checked, EWCF national-team series]", "url": "https://news.google.com/rss/search?q=%22Esports+Nations+Cup%22&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "MENA Esports general", "url": "https://news.google.com/rss/search?q=MENA+esports+OR+%22Middle+East%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-
-    # ============================================================
-    # GAME COVERAGE EXPANSION — added 2026-07-17 per Hazem's request to
-    # cover ALL competitive esports titles more broadly, not just the
-    # CS2/Valorant/LoL/Dota core. Focus of this batch: EA Sports FC,
-    # PUBG Mobile, mobile esports generally (Mobile Legends, Free Fire,
-    # Wild Rift, Honor of Kings, Clash Royale), Call of Duty, and
-    # Fortnite — all previously thin or missing. Dedicated RSS where it
-    # exists, Google News site: bridges otherwise.
-    # ============================================================
-    {"name": "CharlieIntel (Call of Duty)", "url": "https://charlieintel.com/feed/", "verified": False},
-    {"name": "CoD League (official, via Google News)", "url": "https://news.google.com/rss/search?q=%22Call+of+Duty+League%22&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Call of Duty Esports general (Google News)", "url": "https://news.google.com/rss/search?q=%22Call+of+Duty%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-
-    {"name": "EA Sports FC Pro (official, via Google News)", "url": "https://news.google.com/rss/search?q=%22EA+Sports+FC+Pro%22&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "FC Pro / FIFAe esports (Google News)", "url": "https://news.google.com/rss/search?q=%22FC+Pro%22+OR+FIFAe+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "eFootball esports (Google News)", "url": "https://news.google.com/rss/search?q=eFootball+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-
-    {"name": "PUBG Mobile Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=%22PUBG+Mobile%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "PMGC / PMWI (Google News)", "url": "https://news.google.com/rss/search?q=PMGC+OR+PMWI+PUBG&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "PUBG Mobile Gulf/MENA (Google News)", "url": "https://news.google.com/rss/search?q=%22PUBG+Mobile%22+MENA+OR+Gulf&hl=en&gl=US&ceid=US:en", "verified": False},
-
-    {"name": "Mobile Legends: Bang Bang Esports / MPL (Google News)", "url": "https://news.google.com/rss/search?q=%22Mobile+Legends%22+MPL+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Free Fire Esports / FFWS (Google News)", "url": "https://news.google.com/rss/search?q=%22Free+Fire%22+esports+FFWS&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Wild Rift Esports (Google News)", "url": "https://news.google.com/rss/search?q=%22Wild+Rift%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Honor of Kings Esports / KRKPL (Google News)", "url": "https://news.google.com/rss/search?q=%22Honor+of+Kings%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Clash Royale League Esports (Google News)", "url": "https://news.google.com/rss/search?q=%22Clash+Royale%22+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Mobile Esports general (Google News)", "url": "https://news.google.com/rss/search?q=mobile+esports+tournament&hl=en&gl=US&ceid=US:en", "verified": False},
-
-    {"name": "Fortnite Competitive / FNCS (Google News)", "url": "https://news.google.com/rss/search?q=FNCS+OR+%22Fortnite+Championship%22&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Fortnite Esports general (Google News)", "url": "https://news.google.com/rss/search?q=Fortnite+esports&hl=en&gl=US&ceid=US:en", "verified": False},
-
-    {"name": "Street Fighter / Tekken competitive (Google News)", "url": "https://news.google.com/rss/search?q=%22Street+Fighter%22+OR+Tekken+esports+tournament&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Chess.com / chess esports (Google News)", "url": "https://news.google.com/rss/search?q=chess+esports+tournament&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Kuwait Esports Club [federation]", "url": "https://news.google.com/rss/search?q=%22Kuwait+Esports%22&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Bahrain Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Bahrain+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Qatar Esports [thin]", "url": "https://news.google.com/rss/search?q=Qatar+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Oman Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Oman+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Lebanon Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Lebanon+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Syria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Syria+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Palestine Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Palestine+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Iraq Esports [checked, ENC26 national team, top 4 finish]", "url": "https://news.google.com/rss/search?q=Iraq+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Morocco Esports [checked, ENC26 MENA runner-up]", "url": "https://news.google.com/rss/search?q=Morocco+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Algeria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Algeria+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Tunisia Esports [checked, ENC26 MENA 3rd place]", "url": "https://news.google.com/rss/search?q=Tunisia+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Libya Esports [thin]", "url": "https://news.google.com/rss/search?q=Libya+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Mauritania Esports [thin]", "url": "https://news.google.com/rss/search?q=Mauritania+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Sudan Esports [thin]", "url": "https://news.google.com/rss/search?q=Sudan+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Al-Ahli Esports (Saudi, new CS2 roster June 2026) [checked]", "url": "https://news.google.com/rss/search?q=%22Al+Ahli%22+esports+CS2&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Esports Nations Cup 2026 [checked, EWCF national-team series]", "url": "https://news.google.com/rss/search?q=%22Esports+Nations+Cup%22&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "MENA Esports general", "url": "https://news.google.com/rss/search?q=MENA+esports+OR+%22Middle+East%22+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
 
     # ============================================================
-    # NEWS SITES — added 2026-07-18. English esports outlets not
-    # already covered above. Native /feed where the site is WordPress,
-    # Google News site: bridge otherwise (matches the Fragster pattern).
+    # JORDAN — added 2026-08-11. Was completely missing before despite
+    # being GGNewsAR's home market; the MENA expansion block above covers
+    # every other Arab country but never included Jordan itself. Official
+    # body is the Jordan Esports Federation (JEF, jef.jo, X: @Jordan_Esports,
+    # est. as a federation August 2023). No native RSS from JEF's own site,
+    # so bridged the same way as the rest of the MENA block.
     # ============================================================
-    {"name": "Jaxon.gg", "url": "https://jaxon.gg/feed/", "verified": False},
-    {"name": "Blix.gg", "url": "https://blix.gg/feed/", "verified": False},
-    {"name": "THESPIKE.gg (Valorant, via Google News)", "url": "https://news.google.com/rss/search?q=site:thespike.gg&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "bo3.gg (CS2, via Google News)", "url": "https://news.google.com/rss/search?q=site:bo3.gg&hl=en&gl=US&ceid=US:en", "verified": False, "exclude_link_contains": ["/matches/"]},
-    {"name": "Run It Back (via Google News)", "url": "https://news.google.com/rss/search?q=site:runitback.gg&hl=en&gl=US&ceid=US:en", "verified": False},
-
-    # ============================================================
-    # SPONSORSHIP & BUSINESS EXPANSION — added 2026-07-20 per Hazem's
-    # request for a dedicated sponsorship/business feed (same type of
-    # coverage as esportsradar.gg — sponsorship deals, partnerships,
-    # investment, acquisitions — not that site itself). Every entry here
-    # is tagged "category": "sponsorship" so bot.py can route it to the
-    # dedicated Discord channel instead of the general news channel.
-    # Split into: (a) general trade press not already covered above,
-    # (b) Arab/Gulf sponsorship & investment watchlist, (c) named Arab
-    # org sponsorship watchlist, (d) global sponsor-brand watchlist.
-    # ============================================================
-
-    # -- (a) General trade press --
-    {"name": "Front Office Sports Esports (Google News bridge)", "url": "https://news.google.com/rss/search?q=site:frontofficesports.com+esports&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Sportico Esports (Google News bridge)", "url": "https://news.google.com/rss/search?q=site:sportico.com+esports&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Esports Insider Business tag", "url": "https://esportsinsider.com/tag/business/feed", "verified": False, "category": "sponsorship"},
-    {"name": "Esports Investment & Funding (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+OR+gaming+(%22funding+round%22+OR+%22raises+%24%22+OR+%22series+a%22+OR+%22series+b%22)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Esports Naming Rights & Media Deals (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(%22naming+rights%22+OR+%22media+rights%22+OR+%22broadcast+deal%22)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-
-    # -- (b) Arab/Gulf sponsorship & investment watchlist --
-    {"name": "Savvy Games Group Investment (Google News)", "url": "https://news.google.com/rss/search?q=%22Savvy+Games+Group%22+OR+%22Savvy+Games%22+esports&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "PIF Esports Investment (Google News)", "url": "https://news.google.com/rss/search?q=%22Public+Investment+Fund%22+esports+OR+gaming&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Qiddiya Esports (Google News)", "url": "https://news.google.com/rss/search?q=Qiddiya+esports&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "stc / stc Play Esports Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22stc%22+esports+sponsorship+OR+%22stc+Play%22&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Riyadh Season Esports (Google News)", "url": "https://news.google.com/rss/search?q=%22Riyadh+Season%22+esports&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Esports World Cup Foundation Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Esports+World+Cup+Foundation%22+sponsor+OR+partnership&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "NEOM Esports (Google News)", "url": "https://news.google.com/rss/search?q=NEOM+esports&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "MENA/Gulf Esports Sponsorship general (Google News)", "url": "https://news.google.com/rss/search?q=(MENA+OR+Gulf+OR+%22Middle+East%22)+esports+(sponsorship+OR+partnership+OR+investment)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-
-    # -- (c) Named Arab org sponsorship watchlist --
-    {"name": "Team Falcons Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Team+Falcons%22+(sponsor+OR+partnership+OR+deal)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Twisted Minds Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Twisted+Minds%22+(sponsor+OR+partnership+OR+deal)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Nigma Galaxy Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Nigma+Galaxy%22+(sponsor+OR+partnership+OR+deal)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Geekay Esports Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Geekay+Esports%22+(sponsor+OR+partnership+OR+deal)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-
-    # -- (d) Global sponsor-brand watchlist --
-    {"name": "Red Bull Esports Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Red+Bull%22+esports+(sponsorship+OR+partnership)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Monster Energy Esports Sponsorship (Google News)", "url": "https://news.google.com/rss/search?q=%22Monster+Energy%22+esports+sponsorship&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Logitech G Esports Partnership (Google News)", "url": "https://news.google.com/rss/search?q=%22Logitech+G%22+esports+partnership&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "HyperX Esports Partnership (Google News)", "url": "https://news.google.com/rss/search?q=HyperX+esports+(partnership+OR+sponsorship)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Mastercard Esports Partnership (Google News)", "url": "https://news.google.com/rss/search?q=Mastercard+esports+(partnership+OR+sponsorship)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Prime Video / Amazon Esports Rights (Google News)", "url": "https://news.google.com/rss/search?q=(%22Prime+Video%22+OR+Amazon)+esports+(rights+OR+broadcast)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
-    {"name": "Kick Esports Deal (Google News)", "url": "https://news.google.com/rss/search?q=Kick.com+esports+(deal+OR+sponsorship+OR+partnership)&hl=en&gl=US&ceid=US:en", "verified": False, "category": "sponsorship"},
+    {"name": "Jordan Esports Federation (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:jef.jo&hl=en&gl=US&ceid=US:en", "verified": False, "region": "jordan", "priority": "high"},
+    {"name": "Jordan Esports general", "url": "https://news.google.com/rss/search?q=%22Jordan+Esports%22+OR+%22Jordan+Esports+Federation%22&hl=en&gl=US&ceid=US:en", "verified": False, "region": "jordan", "priority": "high"},
+    {"name": "X: Jordan Esports Federation (@Jordan_Esports)", "url": "https://rsshub.app/twitter/user/Jordan_Esports", "verified": False, "region": "jordan", "priority": "high"},
 ]
 
 if __name__ == "__main__":
     print(f"Total feeds: {len(RSS_FEEDS)}")
     print(f"Currently working: {sum(1 for f in RSS_FEEDS if f.get('verified'))}")
     print(f"Currently failing (retried every run): {sum(1 for f in RSS_FEEDS if not f.get('verified'))}")
-    print(f"Sponsorship/business-tagged sources: {sum(1 for f in RSS_FEEDS if f.get('category') == 'sponsorship')}")
+    print(f"Jordan-tagged: {sum(1 for f in RSS_FEEDS if f.get('region') == 'jordan')}")
+    print(f"MENA-tagged: {sum(1 for f in RSS_FEEDS if f.get('region') == 'mena')}")
+    print(f"Leak/rumor sources: {sum(1 for f in RSS_FEEDS if f.get('source_type') == 'leak')}")
