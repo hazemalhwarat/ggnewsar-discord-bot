@@ -1,70 +1,69 @@
 """
-GGNewsAR Discord Bot — unified RSS + Liquipedia pipeline (single-pass edition).
-
-مشروع مستقل تماماً عن بوت تيليقرام. نفس المنطق بالضبط (RSS + Liquipedia +
-dedup + state)، لكن الإرسال يروح لروم Discord عبر Webhook بدل تيليقرام.
+GGNewsAR Discord Bot — RSS-only pipeline (single-pass edition).
 
 كل خبر RSS يمر أولاً على Gemini (مباشرة عبر Google AI Studio) اللي يحلله
 ويطلع عنوان رئيسي وعنوان فرعي وملخص قصير بالفصحى البيضاء حسب ستايل
 GGNewsAR، بدل إرسال عنوان/ملخص RSS الخام. لو التحليل فشل، يرجع البوت
-تلقائياً للنص الأصلي.
+تلقائياً للنص الأصلي. الصور تترفق تلقائياً مع كل رسالة لو المصدر فيه صورة
+(extract_image()، موجودة من الأول وما تغيرت).
 
 === ARCHITECTURE CHANGE (2026-07-05) ===
 رجعنا لنمط single pass: كل استدعاء يفحص كل المصادر مرة وحدة ويطلع.
-الاستمرارية (الفحص كل 10-15 دقيقة) تجيها من GitHub Actions schedule
-(cron) في run.yml، مو من حلقة داخلية.
+الاستمرارية تجيها من GitHub Actions schedule (cron) في run.yml، مو من
+حلقة داخلية.
 
-=== FEATURE UPDATE (2026-08-11) — روم واحد، تصنيف شامل، تحقق مزدوج ===
-بناءً على طلب حازم بتطوير شامل للبوت. التغييرات الرئيسية:
+=== FEATURE UPDATE (2026-08-11، الجولة الأولى) — روم واحد، تصنيف شامل ===
+تصنيف كامل بكل رسالة (المنطقة، اللعبة، الأهمية، نوع الخبر) يطلع من Gemini
+بنفس الاستدعاء، لون الإطار يتغير حسب الأهمية، وتحقق من مصدر ثاني.
 
-1. تصنيف كامل بكل رسالة: المنطقة (محلي/مينا/عالمي) + اللعبة + الأهمية
-   (عاجل/مهم/عادي) + نوع الخبر (مؤكد/تسريب/شائعة)، كلها تطلع من Gemini
-   نفسه بنفس الاستدعاء (ما فيه استدعاء إضافي)، مع تلميح مبدئي من نوع
-   المصدر بـ feeds.py (region / source_type) يقدر Gemini يتجاوزه لو
-   مضمون الخبر يقول عكسه.
-2. لون إطار الرسالة يتغير حسب الأهمية (أحمر عاجل، برتقالي مهم، بنفسجي
-   عادي، افتراضي لو التحليل فشل).
-3. تحقق من مصدر ثاني: كل الأخبار الجديدة بنفس الدورة تتجمع أول شي قبل
-   الإرسال، وتنقارن عناوينها ببعض (تشابه كلمات دالة، بدون أي استدعاء
-   شبكة إضافي) عشان نعرف لو نفس الخبر مذكور بأكثر من مصدر. النتيجة
-   توسم بالرسالة نفسها ("مؤكد من أكثر من مصدر" أو "مصدر واحد فقط")،
-   ما توقف ولا تأخر الإرسال أبداً — البوت ما يفلتر ولا يحجب أي خبر.
-4. ترتيب الإرسال حسب أولوية المصدر (high/normal/low من feeds.py) صار
-   فعلياً مطبق هنا لأول مرة — كان موثق بس مو منفذ فعلياً بالكود القديم.
-5. صفحات "Portal:Rumours" (أو "Rumours" لـ Call of Duty) المضافة
-   لـ watchlist.py تتعامل كتسريبات تلقائياً، برسالة توضح إنها من قسم
-   التسريبات المجتمعي في Liquipedia (اللي أصلاً يصنف كل تسريب بمستوى
-   ثقة: Unlikely/Possible/Likely/Certain) وتحوّل القارئ للصفحة نفسها
-   للتفاصيل، بدل ما Gemini يحاول يعيد صياغة تسريب ما شافه كامل.
-6. تنبيه صحة النظام: لو أكثر من نص مصادر RSS فشلت بدورة وحدة، أو
-   Gemini فشل بكل محاولاته، أو مفتاح Gemini مفقود، يترسل تنبيه واضح
-   بنفس الروم (بلون مختلف تماماً)، بحد أقصى تنبيه كل 6 ساعات عشان ما
-   يصير فيضان تنبيهات لو المشكلة استمرت.
+=== FEATURE UPDATE (2026-08-11، الجولة الثانية) — حذف Liquipedia نهائياً،
+    تحقق عبر نافذة 24 ساعة، فاصل 5 ساعات ===
+بناءً على طلب حازم، ثلاث تغييرات جوهرية:
+
+1. حذف Liquipedia بالكامل. البوت الآن RSS فقط — ما فيه أي استدعاء لـ
+   Liquipedia API ولا أي رسالة مصدرها Liquipedia. watchlist.py ما عاد
+   مستورد ولا مستخدم إطلاقاً (احذفه من الريبو، صار ملف ميت).
+2. التحقق من مصدر ثاني صار عبر نافذة متجددة مدتها 24 ساعة، محفوظة في
+   state.json (state["recent_titles"])، مو بس مقارنة داخل نفس الدورة.
+   بما إن البوت صار يشتغل كل 5 ساعات بدل كل 15 دقيقة، خبر ينشره مصدر
+   الساعة 9 وينشره مصدر ثاني الساعة 12 لازم ينلقطوا مع بعض حتى لو كل
+   وحدة بدورة تشغيل منفصلة — نافذة الـ24 ساعة (تقريباً 4-5 دورات) هي
+   اللي تحقق هذا. كل خبر جديد يتقارن مع كل خبر شافه البوت بآخر 24 ساعة
+   (من مصدر مختلف)، بنفس منطق تشابه الكلمات الدالة، بدون أي استدعاء
+   شبكة إضافي.
+3. الفاصل الزمني صار كل 5 ساعات بدل كل 15 دقيقة (لازم تعدل cron بـ
+   run.yml يدوياً، راجع الأسفل). بما إن كل دورة صارت تغطي فترة أطول
+   بكثير، رفعت MAX_MESSAGES_PER_RUN من 50 لـ150 عشان ما ينحجز خبر
+   بسبب سقف قديم مبني على فاصل 15 دقيقة.
+
+نتيجة لحذف Liquipedia، ميزة التسريبات المبنية على صفحات Portal:Rumours
+انحذفت معها بالكامل. عوضتها بمصادر تسريبات بديلة في feeds.py: حسابات
+مسربين إضافية + قنوات Google News مخصصة لكل لعبة تبحث تحديداً عن كلمات
+دالة على شائعة/تسريب (rumor, reportedly, in talks, leaked)، بالإضافة
+لتوسعة عامة بمصادر صناعة وتحليلات وتغطية إقليمية إضافية.
 
 Pipeline (once per invocation):
-1. RSS phase: fetch all feeds in feeds.py IN PARALLEL, filter freshness +
-   dedup, correlate across sources, analyze via Gemini (with region/type
-   hints), sort by priority, send within budget.
-2. Liquipedia phase (only if LIQUIPEDIA_MIN_INTERVAL_MINUTES have passed
-   since last Liquipedia check): poll watchlist pages, filter
-   bot/minor/tiny edits, classify (rumour page vs team page, Arab org
-   or not), send.
+RSS phase only: fetch all feeds in feeds.py IN PARALLEL, filter freshness
++ dedup, correlate across sources (same-pass AND against the persisted
+24h window), analyze via Gemini (with region/type hints), sort by
+priority, send within budget.
 
-State is unified in state.json with five collections:
+State is unified in state.json:
 - urls: seen RSS URLs (ring of last 8000)
 - title_hashes: normalized title hashes (ring of last 8000)
-- liquipedia: per-page seen revids + last seen size
-- last_liquipedia_check: ISO timestamp of last Liquipedia phase run
+- recent_titles: rolling 24h window of {words, source, at} used for
+  cross-source verification across runs (pruned automatically)
 - last_health_alert: ISO timestamp of last system-health alert sent
 
-Configuration sources: feeds.py (RSS_FEEDS), watchlist.py (WATCHLIST).
+Configuration source: feeds.py (RSS_FEEDS) only.
 Secrets: DISCORD_WEBHOOK_URL, GEMINI_API_KEY in environment.
 
 GitHub Actions workflow (run.yml) should trigger this via:
   on:
     workflow_dispatch:
     schedule:
-      - cron: "*/15 * * * *"   # every 15 minutes
+      - cron: "0 */5 * * *"   # every 5 hours
+  (this line needs updating by hand in run.yml — it isn't part of this file)
 """
 
 import os
@@ -83,7 +82,6 @@ import feedparser
 import requests
 
 from feeds import RSS_FEEDS
-from watchlist import WATCHLIST
 
 # ============================================================
 # Configuration
@@ -94,8 +92,12 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 
 STATE_FILE = Path("state.json")
 
-# Cap to prevent flooding if many fresh items appear at once in one pass
-MAX_MESSAGES_PER_RUN = 50
+# Cap to prevent flooding if many fresh items appear at once in one pass.
+# Raised from 50 -> 150 on 2026-08-11 when the run interval moved from
+# every 15 minutes to every 5 hours — each pass now covers a much wider
+# accumulation window, so the old cap (sized for 15-minute passes) would
+# have started silently deferring real news to the next run.
+MAX_MESSAGES_PER_RUN = 150
 
 # Discord webhook rate limit safety margin
 MESSAGE_DELAY_SECONDS = 1.0
@@ -106,22 +108,10 @@ MAX_AGE_HOURS = 24
 # State ring sizes
 SEEN_URLS_RING = 8000
 SEEN_TITLES_RING = 8000
-SEEN_REVS_PER_PAGE = 20
-
-# ------------------------------------------------------------
-# Single-pass settings
-# ------------------------------------------------------------
-LIQUIPEDIA_MIN_INTERVAL_MINUTES = 10
 
 # RSS parallel fetch settings
 RSS_FETCH_WORKERS = 40
 RSS_FETCH_TIMEOUT_SECONDS = 10
-
-# Liquipedia API
-LIQUIPEDIA_USER_AGENT = "GGNewsAR Bot/2.0 (https://ggnewsar.com; hazem@ggnewsar.com)"
-LIQUIPEDIA_RATE_LIMIT_SEC = 2.5
-LIQUIPEDIA_BATCH_SIZE = 50
-LIQUIPEDIA_MIN_BYTES_CHANGE = 100  # ignore edits smaller than this
 
 # Discord embed color — default/fallback (used when analysis fails or
 # importance is "عادي")
@@ -141,8 +131,17 @@ EMBED_COLOR_ALERT = 0x374151
 DESC_MAX = 700
 
 # Health-alert cooldown so a persistent problem doesn't flood the room
-# with a repeat alert every single 15-minute pass.
+# with a repeat alert every single pass.
 ALERT_COOLDOWN_HOURS = 6
+
+# Cross-source verification now spans a rolling 24h window persisted in
+# state.json, not just the current pass — needed because the bot only
+# runs every 5 hours, so a second source confirming a story usually shows
+# up in a *different* run, not the same one.
+CROSS_SOURCE_WINDOW_HOURS = 24
+# Defensive cap on how many recent-title entries we keep, on top of the
+# 24h age-based pruning, in case of an unexpectedly huge single pass.
+RECENT_TITLES_MAX = 4000
 
 # Priority order used to sort candidates before applying the per-run send
 # cap. "high" sources (official accounts, tournament organizers, etc.)
@@ -193,7 +192,13 @@ def titles_match(words_a: set, words_b: set) -> bool:
     if len(shared) < 2:
         return False
     overlap = len(shared) / min(len(words_a), len(words_b))
-    return overlap >= 0.5
+    # 0.4 tuned empirically: two headlines about the same transfer/result
+    # often only share 2 real anchor words (a player name + a team name)
+    # once stopwords and each outlet's own framing words are stripped out.
+    # This is a soft, informational tag only — it never blocks or delays
+    # sending — so erring slightly toward catching more real matches is
+    # the right trade-off versus a stricter threshold that misses them.
+    return overlap >= 0.4
 
 
 # ------------------------------------------------------------
@@ -331,7 +336,7 @@ log = logging.getLogger("ggnewsar-discord")
 
 
 # ============================================================
-# Classification line — shared by RSS phase and Liquipedia phase
+# Classification line — built from each RSS item's Gemini analysis
 # ============================================================
 def build_classification_line(
     region: str,
@@ -370,8 +375,7 @@ def load_state() -> dict:
         return {
             "urls": [],
             "title_hashes": [],
-            "liquipedia": {},  # "wiki:page" -> {"revids": [...], "size": int}
-            "last_liquipedia_check": None,  # ISO timestamp string or None
+            "recent_titles": [],  # rolling 24h window: [{"words": [...], "source": ..., "at": iso}, ...]
             "last_health_alert": None,  # ISO timestamp string or None
         }
     try:
@@ -379,18 +383,20 @@ def load_state() -> dict:
             data = json.load(f)
     except (json.JSONDecodeError, OSError) as e:
         log.error(f"state.json corrupted, starting fresh: {e}")
-        return {"urls": [], "title_hashes": [], "liquipedia": {}, "last_liquipedia_check": None, "last_health_alert": None}
+        return {"urls": [], "title_hashes": [], "recent_titles": [], "last_health_alert": None}
     data.setdefault("urls", [])
     data.setdefault("title_hashes", [])
-    data.setdefault("liquipedia", {})
-    data.setdefault("last_liquipedia_check", None)
+    data.setdefault("recent_titles", [])
     data.setdefault("last_health_alert", None)
+    # Old keys from the Liquipedia-era state file (removed 2026-08-11) are
+    # left untouched if present — harmless, just unused going forward.
     return data
 
 
 def save_state(state: dict) -> None:
     state["urls"] = state["urls"][-SEEN_URLS_RING:]
     state["title_hashes"] = state["title_hashes"][-SEEN_TITLES_RING:]
+    state["recent_titles"] = state["recent_titles"][-RECENT_TITLES_MAX:]
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
 
@@ -665,6 +671,23 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             })
 
     # ---- Phase B: cross-source correlation (no network calls) ----
+    # Two layers: (1) same-pass — candidates fetched together this run,
+    # and (2) persisted 24h history — candidates seen in earlier runs.
+    # Layer 2 matters a lot now that the bot only runs every 5 hours: a
+    # second source confirming a story usually lands in a *different*
+    # pass, not this one.
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=CROSS_SOURCE_WINDOW_HOURS)
+    history = []
+    for h in state.get("recent_titles", []):
+        try:
+            h_at = datetime.fromisoformat(h["at"])
+        except (KeyError, ValueError):
+            continue
+        if h_at >= cutoff:
+            history.append({"words": set(h["words"]), "source": h["source"]})
+    stats["history_window_size"] = len(history)
+
     for i in range(len(candidates)):
         if candidates[i]["multi_source"]:
             continue
@@ -674,6 +697,37 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             if titles_match(candidates[i]["sig_words"], candidates[j]["sig_words"]):
                 candidates[i]["multi_source"] = True
                 candidates[j]["multi_source"] = True
+
+    for c in candidates:
+        if c["multi_source"]:
+            continue
+        for h in history:
+            if h["source"] == c["name"]:
+                continue
+            if titles_match(c["sig_words"], h["words"]):
+                c["multi_source"] = True
+                break
+
+    # Record every candidate seen this pass into the persisted window,
+    # regardless of whether it ends up sent or cap-skipped — the signal
+    # we're storing is "a source reported this story at this time", which
+    # is true either way. Also re-prune here (not just at load time)
+    # since this save happens at the very end of a potentially long run.
+    pruned_history = []
+    for h in state.get("recent_titles", []):
+        try:
+            h_at = datetime.fromisoformat(h["at"])
+        except (KeyError, ValueError):
+            continue
+        if h_at >= cutoff:
+            pruned_history.append(h)
+    for c in candidates:
+        pruned_history.append({
+            "words": sorted(c["sig_words"]),
+            "source": c["name"],
+            "at": now.isoformat(),
+        })
+    state["recent_titles"] = pruned_history
 
     # ---- Phase C: sort by source priority, then analyze + send within budget ----
     candidates.sort(key=lambda c: PRIORITY_ORDER.get(c["feed_info"].get("priority", "normal"), 1))
@@ -741,216 +795,6 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
 
 
 # ============================================================
-# Liquipedia phase
-# ============================================================
-def fetch_liquipedia_revisions(wiki: str, pages: list, session: requests.Session) -> list:
-    """Fetch latest revision for each page on a Liquipedia wiki."""
-    if not pages:
-        return []
-    url = f"https://liquipedia.net/{wiki}/api.php"
-    all_revs = []
-    for i in range(0, len(pages), LIQUIPEDIA_BATCH_SIZE):
-        batch = pages[i:i + LIQUIPEDIA_BATCH_SIZE]
-        params = {
-            "action": "query",
-            "format": "json",
-            "prop": "revisions",
-            "titles": "|".join(batch),
-            "rvprop": "ids|timestamp|user|comment|size|flags",
-            "maxlag": 5,
-            "redirects": 1,
-        }
-        try:
-            time.sleep(LIQUIPEDIA_RATE_LIMIT_SEC)
-            r = session.get(url, params=params, timeout=30)
-            if r.status_code == 503 or "X-Database-Lag" in r.headers:
-                wait = int(r.headers.get("Retry-After", 60))
-                log.warning(f"Liquipedia maxlag on {wiki}, waiting {wait}s")
-                time.sleep(wait)
-                continue
-            r.raise_for_status()
-            data = r.json()
-            if "error" in data:
-                log.error(f"Liquipedia API error on {wiki}: {data['error']}")
-                continue
-            for page_id, page_info in data.get("query", {}).get("pages", {}).items():
-                if page_id == "-1" or "missing" in page_info:
-                    continue
-                page_title = page_info.get("title", "")
-                slug = page_title.replace(" ", "_")
-                for rev in page_info.get("revisions", []):
-                    rev["page_title"] = page_title
-                    rev["wiki"] = wiki
-                    rev["page_url"] = f"https://liquipedia.net/{wiki}/{slug}"
-                    rev["diff_url"] = (
-                        f"https://liquipedia.net/{wiki}/index.php?"
-                        f"title={slug}&diff={rev['revid']}&oldid={rev.get('parentid', 0)}"
-                    )
-                    all_revs.append(rev)
-        except requests.RequestException as e:
-            log.error(f"Liquipedia fetch failed on {wiki}: {e}")
-        except ValueError as e:
-            log.error(f"Liquipedia JSON parse failed on {wiki}: {e}")
-    return all_revs
-
-
-def is_meaningful_edit(rev: dict, prev_size: int) -> tuple[bool, str]:
-    """Structural filter only — no keyword check. Drops bot/minor/tiny edits."""
-    user = (rev.get("user") or "").lower()
-    new_size = rev.get("size", 0)
-    delta = abs(new_size - prev_size) if prev_size else new_size
-
-    if "bot" in user:
-        return False, "bot edit"
-    if rev.get("minor"):
-        return False, "marked minor"
-    if delta < LIQUIPEDIA_MIN_BYTES_CHANGE:
-        return False, f"tiny change ({delta} bytes)"
-    return True, f"{delta} bytes changed"
-
-
-GAME_NAMES = {
-    "counterstrike": "Counter-Strike 2", "valorant": "VALORANT",
-    "leagueoflegends": "League of Legends", "dota2": "Dota 2",
-    "rainbowsix": "Rainbow Six Siege", "rocketleague": "Rocket League",
-    "mobilelegends": "Mobile Legends", "honorofkings": "Honor of Kings",
-    "pubgmobile": "PUBG Mobile", "fighters": "Fighting Games",
-    "easportsfc": "EA Sports FC",
-    # Added 2026-08-11 to cover EWC 2026 titles that had zero
-    # Liquipedia tracking before.
-    "overwatch": "Overwatch", "tft": "Teamfight Tactics",
-    "callofduty": "Call of Duty", "apexlegends": "Apex Legends",
-    "freefire": "Free Fire",
-}
-
-# Team-page titles (as they appear on Liquipedia) recognized as Arab
-# organizations, used to bump region -> "مينا" and importance -> "عاجل"
-# for their page edits. Matched as a substring of the page title so
-# both "Team_Falcons" and any sub-page still match.
-ARAB_ORG_TITLES = (
-    "Team_Falcons", "Falcons", "Twisted_Minds", "Nigma_Galaxy", "Nigma",
-    "Geekay_Esports", "Geekay", "FATE_Esports", "FATE", "Team_Vision",
-)
-
-# Page titles that represent a wiki's community-tracked rumor/transfer
-# mill rather than an official team/tournament page. Added to
-# watchlist.py for every wiki on 2026-08-11.
-RUMOUR_PAGE_TITLES = ("Portal:Rumours", "Rumours")
-
-
-def liquipedia_phase(state: dict, first_run: bool, sent_budget: int) -> int:
-    """Run Liquipedia collection. Returns number of messages sent."""
-    lp_state = state["liquipedia"]
-    sent = 0
-    stats = defaultdict(int)
-
-    total_pages = sum(len(p) for p in WATCHLIST.values())
-    log.info(f"Liquipedia phase: {total_pages} pages across {len(WATCHLIST)} wikis")
-
-    session = requests.Session()
-    session.headers.update({
-        "User-Agent": LIQUIPEDIA_USER_AGENT,
-        "Accept-Encoding": "gzip",
-    })
-
-    for wiki, pages in WATCHLIST.items():
-        if not pages:
-            continue
-        revisions = fetch_liquipedia_revisions(wiki, pages, session)
-        stats[f"fetched_{wiki}"] = len(revisions)
-
-        for rev in revisions:
-            page_key = f"{wiki}:{rev['page_title']}"
-            revid = str(rev.get("revid"))
-            page_state = lp_state.setdefault(page_key, {"revids": [], "size": 0})
-
-            if revid in page_state["revids"]:
-                stats["skip_seen_rev"] += 1
-                continue
-            page_state["revids"].append(revid)
-            page_state["revids"] = page_state["revids"][-SEEN_REVS_PER_PAGE:]
-
-            if first_run:
-                page_state["size"] = rev.get("size", 0)
-                stats["baseline_recorded"] += 1
-                continue
-
-            prev_size = page_state.get("size", 0)
-            keep, reason = is_meaningful_edit(rev, prev_size)
-            page_state["size"] = rev.get("size", 0)
-            if not keep:
-                stats[f"drop_{reason.split()[0]}"] += 1
-                continue
-
-            if sent >= sent_budget:
-                stats["skip_cap"] += 1
-                page_state["revids"].pop()
-                continue
-
-            game = GAME_NAMES.get(rev["wiki"], rev["wiki"])
-            comment = (rev.get("comment") or "").strip()[:200] or "بدون ملاحظة"
-            user = rev.get("user") or "?"
-
-            is_rumour_page = rev["page_title"] in RUMOUR_PAGE_TITLES
-            is_arab = any(tok in rev["page_title"] for tok in ARAB_ORG_TITLES)
-
-            news_type = "تسريب" if is_rumour_page else "مؤكد"
-            region = "مينا" if is_arab else "عالمي"
-            importance = "عاجل" if (is_arab and not is_rumour_page) else "مهم"
-            reliability = "تصنيف Liquipedia المجتمعي بمستويات ثقة (محتمل/مرجّح/شبه مؤكد)، راجع الرابط" if is_rumour_page else ""
-
-            classification = build_classification_line(
-                region, game, importance, news_type, reliability, multi_source=None,
-            )
-
-            if is_rumour_page:
-                send_title = f"تحديث تسريبات: {game}"
-                send_desc = (
-                    f"{classification}\n\n"
-                    f"تحديث جديد على صفحة تسريبات الانتقالات لـ{game} على Liquipedia. "
-                    f"راجع الرابط لتفاصيل التسريب ومستوى الثقة فيه.\n\n"
-                    f"ملاحظة المحرر: {comment}"
-                )
-            else:
-                send_title = rev["page_title"].replace("_", " ")
-                send_desc = f"{classification}\n\n{comment}"
-
-            color = IMPORTANCE_COLORS.get(importance, EMBED_COLOR)
-
-            ok = send_discord(
-                title=send_title,
-                link=rev["page_url"],
-                source=f"Liquipedia · {game} · المحرر: {user}",
-                summary=send_desc,
-                color=color,
-            )
-            if ok:
-                sent += 1
-                stats["sent"] += 1
-                time.sleep(MESSAGE_DELAY_SECONDS)
-            else:
-                stats["send_failures"] += 1
-
-    log.info("--- Liquipedia Summary ---")
-    for k in sorted(stats.keys()):
-        log.info(f"  {k:30s} {stats[k]}")
-    return sent
-
-
-def should_run_liquipedia(state: dict) -> bool:
-    """True on first run, if no prior check is recorded, or if enough time
-    has passed since the last Liquipedia check."""
-    last = state.get("last_liquipedia_check")
-    if not last:
-        return True
-    try:
-        last_dt = datetime.fromisoformat(last)
-    except ValueError:
-        return True
-    return (datetime.now(timezone.utc) - last_dt) >= timedelta(minutes=LIQUIPEDIA_MIN_INTERVAL_MINUTES)
-
-
-# ============================================================
 # Main — single pass
 # ============================================================
 def main():
@@ -964,20 +808,11 @@ def main():
     first_run = (
         len(state["urls"]) == 0
         and len(state["title_hashes"]) == 0
-        and len(state["liquipedia"]) == 0
     )
     if first_run:
         log.info("FIRST RUN: indexing baseline, no messages will be sent this pass.")
 
     rss_sent, rss_stats = rss_phase(state, first_run, MAX_MESSAGES_PER_RUN)
-    remaining = MAX_MESSAGES_PER_RUN - rss_sent
-
-    lp_sent = 0
-    if should_run_liquipedia(state):
-        lp_sent = liquipedia_phase(state, first_run, remaining)
-        state["last_liquipedia_check"] = datetime.now(timezone.utc).isoformat()
-    else:
-        log.info(f"Liquipedia phase skipped (last check within {LIQUIPEDIA_MIN_INTERVAL_MINUTES} min)")
 
     # ---- System health check ----
     if not first_run:
@@ -1005,7 +840,7 @@ def main():
 
     save_state(state)
     git_commit_push("single pass")
-    log.info(f"=== Pass done. RSS sent: {rss_sent}, Liquipedia sent: {lp_sent} ===")
+    log.info(f"=== Pass done. RSS sent: {rss_sent} ===")
 
 
 if __name__ == "__main__":
