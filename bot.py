@@ -59,6 +59,26 @@ edit_discord_message) ويضيف سطر "تأكيد إضافي من: [المصد
 دالة على شائعة/تسريب (rumor, reportedly, in talks, leaked)، بالإضافة
 لتوسعة عامة بمصادر صناعة وتحليلات وتغطية إقليمية إضافية.
 
+=== FEATURE UPDATE (2026-08-11، الجولة الرابعة) — تحقق من صلة الخبر
+    بالإسبورت فعلياً (is_esports) ===
+سبب التغيير: مصدر "Syria Esports" في feeds.py (بحث Google News بكلمة
+Syria+esports بدون تقييد على موقع) رجّع خبر عن حريق بإسبانيا لأن Google
+News، لما ما يلقى نتائج كافية مطابقة فعلياً، يعبّي النتائج بأخبار مرتبطة
+بشكل ضعيف (هنا مجرد ذكر اسم الدولة). الخبر طلع خام بدون أي صياغة لأن
+Gemini فشل يطلّع الحقول المطلوبة لخبر مش إسبورت أصلاً، فرجع البوت
+تلقائياً للنص الخام (fallback القديم) وأرسله زي ما هو.
+
+الحل، تغييرين مترابطين:
+1. Gemini الآن يرجّع حقل is_esports أولاً قبل أي تحليل تحريري. لو false،
+   البوت يتجاهل الخبر تماماً (لا يُرسل، ولا يرجع للنص الخام).
+2. feeds.py: أضيف حقل "loose_query": True على كل مصدر هو بحث Google News
+   بكلمة مفتاحية عامة بدون "site:" (قائمة الدول بمنطقة مينا، بحث الأردن
+   العام، بحث الرعايات/الأعمال). لهذه المصادر تحديداً، لو استدعاء Gemini
+   نفسه فشل تقنياً (timeout، JSON غير صالح، إلخ)، البوت يتجاهل الخبر
+   بدل الرجوع للنص الخام — لأن هذي بالضبط المصادر اللي بدون فحص، ممكن
+   ترجّع محتوى مالوش أي علاقة بالإسبورت. المصادر التانية (RSS مخصص أو
+   site: مقيّد) ما تغيرت، fallback النص الخام لسا آمن فيها.
+
 Pipeline (once per invocation):
 RSS phase only: fetch all feeds in feeds.py IN PARALLEL, filter freshness
 + dedup, correlate across sources (same-pass AND against the persisted
@@ -252,7 +272,9 @@ GEMINI_MAX_TOKENS = 900
 
 GEMINI_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGNewsAR، تكتب بالعربية الفصحى البيضاء (لغة يومية مثقفة، مو لغة أدبية أو مترجمة حرفياً).
 
-مهمتك: تحليل خبر إسبورت وإخراج ثمانية عناصر: عنوان رئيسي، عنوان فرعي، ملخص قصير، اسم اللعبة، تصنيف المنطقة، تصنيف الأهمية، نوع الخبر، ومستوى موثوقية (لو تسريب أو شائعة).
+مهمتك أولاً: التأكد إن الخبر فعلاً عن الرياضات الإلكترونية (منافسات ألعاب فيديو، فرق، لاعبين، بطولات، رعايات، قرارات صناعة الإسبورت). بعض المصادر هي بحث Google News بكلمة مفتاحية عامة (مثال: اسم دولة + "esports") بدون أي قيد على الموقع، وأحياناً يرجّع بحث زي هذا أخبار مالها أي علاقة بالإسبورت (كارثة طبيعية، سياسة، رياضة تقليدية) لمجرد إنها تحتوي اسم الدولة. لو الخبر مش عن الإسبورت فعلاً رغم إنه طلع من مصدر بحث بكلمة "esports"، رجّع is_esports: false واترك باقي الحقول نصوص فاضية "". لا تحاول "تأويل" خبر غير متعلق بالإسبورت وصياغته كأنه خبر إسبورت.
+
+لو الخبر فعلاً عن الإسبورت، رجّع is_esports: true وكمّل باقي المهمة: إخراج ثمانية عناصر إضافية: عنوان رئيسي، عنوان فرعي، ملخص قصير، اسم اللعبة، تصنيف المنطقة، تصنيف الأهمية، نوع الخبر، ومستوى موثوقية (لو تسريب أو شائعة).
 
 قواعد صارمة للعنوان والملخص:
 - العنوان الرئيسي: لازم يحتوي اسم اللعبة، يبدأ بأهم معلومة (رقم/إنجاز/حدث)، وينتهي بعلامة استفهام أو تعجب حسب نوع الخبر. لو الخبر عن شراكة أو اتفاق أو تحالف، افتح بكلمة صادمة زي "شراكة!" أو "اتفاق رسمي!" أو "تحالف ضخم!". ممنوع استخدام أي شرطة أو علامة "-" بين الكلمات، بالعنوان أو الملخص أو أي حقل.
@@ -275,7 +297,9 @@ GEMINI_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGN
 - reliability: فقط لو news_type مو "مؤكد"، اكتب جملة قصيرة توضح قوة الإسناد (مثال: "مصدر واحد غير مؤكد"، "تأكيد من مصدرين مستقلين"، "تسريب من داخل الفريق"). لو news_type يساوي "مؤكد"، خله نص فاضي "".
 
 رد بصيغة JSON فقط، بدون أي نص أو شرح إضافي قبله أو بعده، بالشكل التالي بالضبط:
-{"headline": "...", "subheadline": "...", "summary": "...", "game": "...", "region": "...", "importance": "...", "news_type": "...", "reliability": "..."}"""
+{"is_esports": true, "headline": "...", "subheadline": "...", "summary": "...", "game": "...", "region": "...", "importance": "...", "news_type": "...", "reliability": "..."}
+
+لو الخبر مش عن الإسبورت: {"is_esports": false, "headline": "", "subheadline": "", "summary": "", "game": "", "region": "", "importance": "", "news_type": "", "reliability": ""}"""
 
 VALID_REGIONS = ("محلي", "مينا", "عالمي")
 VALID_IMPORTANCE = ("عاجل", "مهم", "عادي")
@@ -288,22 +312,36 @@ def analyze_with_gemini(
     link: str,
     region_hint: str = "عالمي",
     source_type_hint: str = "مؤكد",
+    loose_query: bool = False,
 ) -> dict | None:
     """
     Analyze one news item via Gemini (Google AI Studio free tier, direct API).
     region_hint / source_type_hint come from the source's metadata in
     feeds.py and are passed in as a starting assumption only — Gemini is
     instructed to override them based on the actual content.
-    Returns a dict with headline/subheadline/summary/game/region/
-    importance/news_type/reliability, or None on failure.
+    loose_query=True means this source is a bare Google News keyword
+    search with no site: restriction (feeds.py "loose_query" flag) —
+    passed through so Gemini applies extra scrutiny to relevance, since
+    these are the sources most likely to surface something that only
+    matched on a keyword (e.g. a country name) and isn't esports news
+    at all.
+    Returns a dict with is_esports/headline/subheadline/summary/game/
+    region/importance/news_type/reliability, or None on failure.
     """
     if not GEMINI_API_KEY:
         return None
 
+    source_note = (
+        "هذا المصدر بحث Google News بكلمة مفتاحية عامة بدون تقييد على موقع معين "
+        "(loose_query) — افحص العلاقة بالإسبورت بعناية إضافية قبل القبول."
+        if loose_query else
+        "هذا المصدر RSS مخصص أو مقيّد بموقع/حساب معروف بالإسبورت."
+    )
     user_content = (
         f"العنوان الأصلي: {title}\n\n"
         f"محتوى/ملخص الخبر: {summary or 'غير متوفر'}\n\n"
         f"رابط المصدر: {link}\n\n"
+        f"ملاحظة عن المصدر: {source_note}\n\n"
         f"تلميح المصدر (مبدئي فقط، اعتمد على مضمون الخبر لو يختلف): "
         f"المنطقة المتوقعة = {region_hint}، نوع المصدر المتوقع = {source_type_hint}"
     )
@@ -347,6 +385,22 @@ def analyze_with_gemini(
             content = content.strip()
             content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content, flags=re.MULTILINE).strip()
             parsed = json.loads(content)
+
+            if "is_esports" not in parsed:
+                log.warning(f"Gemini response missing is_esports key: {content[:200]}")
+                return None
+
+            is_esports = parsed["is_esports"]
+            if isinstance(is_esports, str):
+                is_esports = is_esports.strip().lower() == "true"
+            parsed["is_esports"] = bool(is_esports)
+
+            if not parsed["is_esports"]:
+                # Not esports content — the item matched a keyword search
+                # but isn't real esports news (e.g. a wildfire article that
+                # matched "Syria esports"). Editorial fields are expected
+                # to be empty in this case; nothing else to validate.
+                return parsed
 
             required = ("headline", "subheadline", "summary", "game", "region", "importance", "news_type")
             if not all(k in parsed and parsed[k] for k in required):
@@ -950,8 +1004,21 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
         clean_summary = strip_html(c["summary"])
         region_hint = REGION_HINT_MAP.get(c["feed_info"].get("region"), "عالمي")
         type_hint = "تسريب" if c["feed_info"].get("source_type") == "leak" else "مؤكد"
+        is_loose_source = bool(c["feed_info"].get("loose_query"))
 
-        analysis = analyze_with_gemini(c["title"], clean_summary, c["link"], region_hint, type_hint)
+        analysis = analyze_with_gemini(
+            c["title"], clean_summary, c["link"], region_hint, type_hint,
+            loose_query=is_loose_source,
+        )
+
+        if analysis and not analysis.get("is_esports", True):
+            # Gemini confirmed this isn't actually esports content (e.g.
+            # a keyword-search false match). Mark seen, don't send, never
+            # fall back to the raw item — that raw fallback is exactly
+            # what let the Huelva wildfire article through under "Syria
+            # Esports" before this check existed.
+            stats["skip_not_esports"] += 1
+            continue
 
         if analysis:
             stats["gemini_analyzed"] += 1
@@ -962,7 +1029,17 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             send_title = analysis["headline"]
             send_desc = f"{classification}\n\n**{analysis['subheadline']}**\n\n{analysis['summary']}"
             color = IMPORTANCE_COLORS.get(analysis["importance"], EMBED_COLOR)
+        elif is_loose_source:
+            # Gemini call itself failed (timeout/malformed output/etc) for
+            # a source with no topical restriction. Sending the raw item
+            # unchecked here is exactly the risk this whole fix targets —
+            # skip rather than trust an un-vetted item from a loose query.
+            stats["skip_loose_unverified"] += 1
+            continue
         else:
+            # Gemini call failed, but this source is inherently on-topic
+            # (a dedicated esports RSS feed, a site: restricted bridge, a
+            # named esports account) — raw fallback stays safe here.
             stats["gemini_fallback"] += 1
             send_title = c["title"]
             send_desc = clean_summary[:280]
