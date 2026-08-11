@@ -88,6 +88,7 @@ GitHub Actions workflow (run.yml) should trigger this via:
 
 import os
 import re
+import html as html_lib
 import json
 import time
 import hashlib
@@ -614,6 +615,20 @@ def title_hash(title: str) -> str:
     return hashlib.md5(normalize_title(title).encode("utf-8")).hexdigest()
 
 
+FEED_NAME_NOTE_RE = re.compile(r"\s*\[[^\]]*\]\s*$")
+
+
+def clean_source_name(name: str) -> str:
+    """Strip trailing bracketed notes from a feeds.py entry name before
+    using it as the public-facing Discord footer. feeds.py names carry
+    internal documentation tags for Hazem's own reference — "[checked,
+    EWCF national-team series]", "[unsure]", "[likely]", "[federation]",
+    "[thin]" — never meant to be shown to readers. Was previously passed
+    through as-is, so these notes were leaking straight into the footer
+    of every message from that source."""
+    return FEED_NAME_NOTE_RE.sub("", name).strip() or name
+
+
 def is_fresh(entry, max_age_hours: int) -> bool:
     """True if entry has no timestamp or is within freshness window."""
     pub = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
@@ -627,9 +642,16 @@ def is_fresh(entry, max_age_hours: int) -> bool:
 
 
 def strip_html(text: str) -> str:
+    """Strip HTML tags AND decode HTML entities (&nbsp;, &#8217;, &amp;,
+    etc.). Previously only stripped tags, so raw RSS summaries used as a
+    Gemini-fallback (when Gemini analysis fails/is unavailable) showed
+    literal entity codes like "Today&#8217;s" or "&nbsp;&nbsp;" instead
+    of readable text. This was always latent here, just invisible while
+    Gemini analysis was succeeding and rewriting the text anyway."""
     if not text:
         return ""
     text = re.sub(r"<[^>]+>", " ", text)
+    text = html_lib.unescape(text)
     return re.sub(r"\s+", " ", text).strip()
 
 
@@ -802,13 +824,13 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
                 break
 
         if match is not None:
-            if c["name"] in match["sources"]:
+            if clean_source_name(c["name"]) in match["sources"]:
                 # Same source re-reporting the same story it already
                 # posted (reworded headline, follow-up blurb, etc.) —
                 # nothing new to say, skip silently.
                 stats["skip_dup_story"] += 1
                 continue
-            match["sources"].append(c["name"])
+            match["sources"].append(clean_source_name(c["name"]))
             new_embed = render_confirmed_embed(match)
             if edit_discord_message(match["webhook_url"], match["message_id"], new_embed):
                 stats["confirmed_edit"] += 1
@@ -857,7 +879,7 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
         ok, message_id = send_discord(
             title=send_title,
             link=c["link"],
-            source=c["name"],
+            source=clean_source_name(c["name"]),
             summary=send_desc,
             image_url=img_url,
             color=color,
@@ -870,7 +892,7 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
                 "at": now.isoformat(),
                 "message_id": message_id,
                 "webhook_url": DISCORD_WEBHOOK_URL,
-                "sources": [c["name"]],
+                "sources": [clean_source_name(c["name"])],
                 "title": send_title,
                 "link": c["link"],
                 "color": color,
