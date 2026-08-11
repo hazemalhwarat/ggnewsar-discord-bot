@@ -36,6 +36,23 @@ GGNewsAR، بدل إرسال عنوان/ملخص RSS الخام. لو التحل
    بكثير، رفعت MAX_MESSAGES_PER_RUN من 50 لـ150 عشان ما ينحجز خبر
    بسبب سقف قديم مبني على فاصل 15 دقيقة.
 
+=== FEATURE UPDATE (2026-08-11، الجولة الثالثة) — لا تكرار: تعديل
+    الرسالة الأصلية بدل نشر نسخة ثانية ===
+المطابقة بين المصادر (نفس منطق كلمات دالة + نافذة 24 ساعة أعلاه) كانت
+بس تضيف ملاحظة "مؤكد من أكثر من مصدر" على رسالة جديدة منفصلة — يعني
+القصة الوحدة كانت تطلع مرتين أو أكتر بصياغات مختلفة من مصادر مختلفة.
+هذا كان مصدر التكرار اللي حازم لاحظه.
+
+الحل: state["sent_stories"] صار يخزن، لكل خبر انبعت فعلياً، الـ
+message_id تبعه على Discord (عبر ?wait=true بالـ webhook). لما خبر جديد
+يتطابق مع قصة سبق إرسالها (بنفس الدورة أو بآخر 24 ساعة)، البوت ما يرسل
+رسالة جديدة إطلاقاً — يعمل PATCH على الرسالة الأصلية نفسها (عبر
+edit_discord_message) ويضيف سطر "تأكيد إضافي من: [المصدر]" وتحديث
+الفوتر بقائمة كل المصادر اللي غطت القصة. لو نفس المصدر رجع غطى نفس
+القصة (تحديث بصياغة تانية)، يتجاهل تماماً بدون أي رسالة أو تعديل.
+التعديلات (confirmed_edit) ما تُحسب من سقف MAX_MESSAGES_PER_RUN إطلاقاً
+— السقف يطبّق فقط على الأخبار الجديدة فعلياً.
+
 نتيجة لحذف Liquipedia، ميزة التسريبات المبنية على صفحات Portal:Rumours
 انحذفت معها بالكامل. عوضتها بمصادر تسريبات بديلة في feeds.py: حسابات
 مسربين إضافية + قنوات Google News مخصصة لكل لعبة تبحث تحديداً عن كلمات
@@ -51,8 +68,11 @@ priority, send within budget.
 State is unified in state.json:
 - urls: seen RSS URLs (ring of last 8000)
 - title_hashes: normalized title hashes (ring of last 8000)
-- recent_titles: rolling 24h window of {words, source, at} used for
-  cross-source verification across runs (pruned automatically)
+- sent_stories: rolling 24h window of stories actually sent to Discord —
+  {words, at, message_id, webhook_url, sources, title, link, color,
+  image_url, base_description} — used to PATCH the original message
+  (via edit_discord_message) instead of posting a duplicate when another
+  source confirms the same story (pruned automatically)
 - last_health_alert: ISO timestamp of last system-health alert sent
 
 Configuration source: feeds.py (RSS_FEEDS) only.
@@ -159,10 +179,13 @@ SOURCE_SUFFIX_RE = re.compile(r"\s*[\-\|\u2013\u2014:]\s*[^\-\|\u2013\u2014:]{1,
 # ------------------------------------------------------------
 # Cross-source correlation (lightweight, no extra network calls)
 # ------------------------------------------------------------
-# Used only to decide whether to tag a message "مؤكد من أكثر من مصدر" or
-# "مصدر واحد فقط" — never to block or delay sending. Purely a soft
-# informational signal, so a heuristic word-overlap check is good enough;
-# false positives/negatives here don't affect whether news gets through.
+# Used to decide whether a new RSS entry is actually the same story as
+# something already sent to Discord in the last 24h. A match suppresses
+# the duplicate send and instead edits the original message (see
+# render_confirmed_embed / edit_discord_message, used from rss_phase). A
+# false positive here means a real second story silently gets folded
+# into an edit instead of getting its own message, so treat the 0.4
+# overlap threshold below as a real gate now, not just a soft label.
 STOPWORDS = {
     "the", "a", "an", "of", "in", "on", "to", "for", "and", "is", "are",
     "was", "were", "with", "at", "by", "from", "as", "it", "its", "this",
@@ -375,7 +398,13 @@ def load_state() -> dict:
         return {
             "urls": [],
             "title_hashes": [],
-            "recent_titles": [],  # rolling 24h window: [{"words": [...], "source": ..., "at": iso}, ...]
+            # rolling 24h window of stories actually SENT to Discord:
+            # [{"words": [...], "at": iso, "message_id": ..., "webhook_url": ...,
+            #   "sources": [...], "title": ..., "link": ..., "color": ...,
+            #   "image_url": ..., "base_description": ...}, ...]
+            # Used to PATCH the original message instead of re-sending a
+            # duplicate when another source confirms the same story.
+            "sent_stories": [],
             "last_health_alert": None,  # ISO timestamp string or None
         }
     try:
@@ -383,20 +412,21 @@ def load_state() -> dict:
             data = json.load(f)
     except (json.JSONDecodeError, OSError) as e:
         log.error(f"state.json corrupted, starting fresh: {e}")
-        return {"urls": [], "title_hashes": [], "recent_titles": [], "last_health_alert": None}
+        return {"urls": [], "title_hashes": [], "sent_stories": [], "last_health_alert": None}
     data.setdefault("urls", [])
     data.setdefault("title_hashes", [])
-    data.setdefault("recent_titles", [])
+    data.setdefault("sent_stories", [])
     data.setdefault("last_health_alert", None)
-    # Old keys from the Liquipedia-era state file (removed 2026-08-11) are
-    # left untouched if present — harmless, just unused going forward.
+    # Old keys ("recent_titles" from the pre-edit-in-place design, and
+    # Liquipedia-era keys removed 2026-08-11) are left untouched if
+    # present — harmless, just unused going forward.
     return data
 
 
 def save_state(state: dict) -> None:
     state["urls"] = state["urls"][-SEEN_URLS_RING:]
     state["title_hashes"] = state["title_hashes"][-SEEN_TITLES_RING:]
-    state["recent_titles"] = state["recent_titles"][-RECENT_TITLES_MAX:]
+    state["sent_stories"] = state["sent_stories"][-RECENT_TITLES_MAX:]
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
 
@@ -443,11 +473,16 @@ def send_discord(
     summary: str = "",
     image_url: str = "",
     color: int = EMBED_COLOR,
-) -> bool:
-    """Send one news item to Discord as an embed. Returns True on success."""
+) -> tuple[bool, str | None]:
+    """Send one news item to Discord as an embed. Returns (ok, message_id).
+    message_id (via ?wait=true on the webhook call) lets us PATCH this
+    exact message later if a second source confirms the same story
+    within 24h, instead of posting a duplicate — see edit_discord_message()
+    and render_confirmed_embed(). message_id is None if the send failed
+    or Discord didn't return one."""
     if not DISCORD_WEBHOOK_URL:
         log.error("Discord webhook missing")
-        return False
+        return False, None
 
     embed = {
         "title": _clip(title, 256),
@@ -463,22 +498,79 @@ def send_discord(
         embed["image"] = {"url": image_url}
 
     payload = {"embeds": [embed]}
+    sep = "&" if "?" in DISCORD_WEBHOOK_URL else "?"
+    post_url = f"{DISCORD_WEBHOOK_URL}{sep}wait=true"
 
     for attempt in range(3):
         try:
-            r = requests.post(DISCORD_WEBHOOK_URL, json=payload, timeout=15)
+            r = requests.post(post_url, json=payload, timeout=15)
+            if r.status_code in (200, 201):
+                try:
+                    return True, r.json().get("id")
+                except ValueError:
+                    return True, None
+            if r.status_code == 204:
+                return True, None
+            if r.status_code == 429:
+                retry_after = r.json().get("retry_after", 1)
+                time.sleep(float(retry_after) + 0.5)
+                continue
+            log.error(f"Discord {r.status_code}: {r.text[:200]}")
+            return False, None
+        except requests.RequestException as e:
+            log.error(f"Discord request failed (attempt {attempt + 1}): {e}")
+            time.sleep(2)
+    return False, None
+
+
+def edit_discord_message(webhook_url: str, message_id: str, embed: dict) -> bool:
+    """PATCH a previously-sent webhook message's embed. Used instead of
+    posting a duplicate when a second (or third...) source confirms a
+    story that was already sent to Discord within the last 24h."""
+    if not webhook_url or not message_id:
+        return False
+    url = f"{webhook_url.rstrip('/')}/messages/{message_id}"
+    payload = {"embeds": [embed]}
+    for attempt in range(3):
+        try:
+            r = requests.patch(url, json=payload, timeout=15)
             if r.status_code in (200, 204):
                 return True
             if r.status_code == 429:
                 retry_after = r.json().get("retry_after", 1)
                 time.sleep(float(retry_after) + 0.5)
                 continue
-            log.error(f"Discord {r.status_code}: {r.text[:200]}")
+            log.error(f"Discord edit {r.status_code}: {r.text[:200]}")
             return False
         except requests.RequestException as e:
-            log.error(f"Discord request failed (attempt {attempt + 1}): {e}")
+            log.error(f"Discord edit request failed (attempt {attempt + 1}): {e}")
             time.sleep(2)
     return False
+
+
+def render_confirmed_embed(entry: dict) -> dict:
+    """Rebuild the embed for a story that just got confirmed by an
+    additional source, from the stored entry in state["sent_stories"].
+    Keeps the original title/link/color/image untouched and appends a
+    'confirmed by' note plus an updated footer listing every source that
+    has now reported the story."""
+    sources = entry["sources"]
+    desc = entry.get("base_description") or ""
+    if len(sources) > 1:
+        note = "تأكيد إضافي من: " + "، ".join(sources[1:])
+        desc = f"{desc}\n\n{note}" if desc else note
+    embed = {
+        "title": _clip(entry["title"], 256),
+        "color": entry["color"],
+    }
+    if entry.get("link"):
+        embed["url"] = entry["link"]
+    if desc:
+        embed["description"] = _clip(desc, DESC_MAX)
+    embed["footer"] = {"text": _clip(" · ".join(sources), 2048)}
+    if entry.get("image_url"):
+        embed["image"] = {"url": entry["image_url"]}
+    return embed
 
 
 def send_system_alert(state: dict, reason: str) -> None:
@@ -495,7 +587,7 @@ def send_system_alert(state: dict, reason: str) -> None:
         except ValueError:
             pass
 
-    ok = send_discord(
+    ok, _ = send_discord(
         title="تنبيه النظام: البوت محتاج مراجعة",
         summary=reason,
         source="GGNewsAR Bot · صحة النظام",
@@ -667,72 +759,65 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
                 "t_hash": t_hash,
                 "sig_words": significant_words(normalize_title(title)),
                 "feed_info": feed_lookup.get(name, {}),
-                "multi_source": False,
             })
 
-    # ---- Phase B: cross-source correlation (no network calls) ----
-    # Two layers: (1) same-pass — candidates fetched together this run,
-    # and (2) persisted 24h history — candidates seen in earlier runs.
-    # Layer 2 matters a lot now that the bot only runs every 5 hours: a
-    # second source confirming a story usually lands in a *different*
-    # pass, not this one.
+    # ---- Phase B: load the active-stories pool (no network calls) ----
+    # "active_stories" holds every story already SENT to Discord — either
+    # earlier in this very pass, or in an earlier run within the last 24h
+    # (state["sent_stories"], persisted). Phase C checks each new
+    # candidate against this pool *before* sending anything: a real match
+    # means the story was already posted, so instead of posting a
+    # duplicate we PATCH the original Discord message to note the
+    # additional source. Entries here are the same dict objects stored in
+    # state["sent_stories"], so appending a confirming source to one of
+    # them below mutates state in place — no separate merge step needed
+    # at save time beyond re-pruning by the 24h cutoff.
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=CROSS_SOURCE_WINDOW_HOURS)
     history = []
-    for h in state.get("recent_titles", []):
+    for h in state.get("sent_stories", []):
         try:
             h_at = datetime.fromisoformat(h["at"])
         except (KeyError, ValueError):
             continue
         if h_at >= cutoff:
-            history.append({"words": set(h["words"]), "source": h["source"]})
+            history.append(h)
     stats["history_window_size"] = len(history)
+    active_stories = list(history)
+    newly_created = []
 
-    for i in range(len(candidates)):
-        if candidates[i]["multi_source"]:
-            continue
-        for j in range(i + 1, len(candidates)):
-            if candidates[i]["name"] == candidates[j]["name"]:
-                continue
-            if titles_match(candidates[i]["sig_words"], candidates[j]["sig_words"]):
-                candidates[i]["multi_source"] = True
-                candidates[j]["multi_source"] = True
-
-    for c in candidates:
-        if c["multi_source"]:
-            continue
-        for h in history:
-            if h["source"] == c["name"]:
-                continue
-            if titles_match(c["sig_words"], h["words"]):
-                c["multi_source"] = True
-                break
-
-    # Record every candidate seen this pass into the persisted window,
-    # regardless of whether it ends up sent or cap-skipped — the signal
-    # we're storing is "a source reported this story at this time", which
-    # is true either way. Also re-prune here (not just at load time)
-    # since this save happens at the very end of a potentially long run.
-    pruned_history = []
-    for h in state.get("recent_titles", []):
-        try:
-            h_at = datetime.fromisoformat(h["at"])
-        except (KeyError, ValueError):
-            continue
-        if h_at >= cutoff:
-            pruned_history.append(h)
-    for c in candidates:
-        pruned_history.append({
-            "words": sorted(c["sig_words"]),
-            "source": c["name"],
-            "at": now.isoformat(),
-        })
-    state["recent_titles"] = pruned_history
-
-    # ---- Phase C: sort by source priority, then analyze + send within budget ----
+    # ---- Phase C: sort by source priority, then match/edit or analyze + send ----
     candidates.sort(key=lambda c: PRIORITY_ORDER.get(c["feed_info"].get("priority", "normal"), 1))
 
     for c in candidates:
+        # ---- Match check FIRST, before budget/analysis: does this story
+        # (by content similarity, not exact URL/title) already have a
+        # message on Discord from the last 24h? Matching against
+        # active_stories never consumes the send budget — an edit is
+        # cheap and shouldn't compete with genuinely new news for the cap.
+        match = None
+        for st in active_stories:
+            if titles_match(c["sig_words"], set(st["words"])):
+                match = st
+                break
+
+        if match is not None:
+            if c["name"] in match["sources"]:
+                # Same source re-reporting the same story it already
+                # posted (reworded headline, follow-up blurb, etc.) —
+                # nothing new to say, skip silently.
+                stats["skip_dup_story"] += 1
+                continue
+            match["sources"].append(c["name"])
+            new_embed = render_confirmed_embed(match)
+            if edit_discord_message(match["webhook_url"], match["message_id"], new_embed):
+                stats["confirmed_edit"] += 1
+            else:
+                stats["confirmed_edit_failed"] += 1
+            time.sleep(MESSAGE_DELAY_SECONDS)
+            continue
+
+        # ---- Genuinely new story: budget cap applies here only ----
         if sent >= sent_budget:
             stats["skip_cap"] += 1
             try:
@@ -757,7 +842,7 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             stats["gemini_analyzed"] += 1
             classification = build_classification_line(
                 analysis["region"], analysis["game"], analysis["importance"],
-                analysis["news_type"], analysis.get("reliability", ""), c["multi_source"],
+                analysis["news_type"], analysis.get("reliability", ""),
             )
             send_title = analysis["headline"]
             send_desc = f"{classification}\n\n**{analysis['subheadline']}**\n\n{analysis['summary']}"
@@ -768,20 +853,58 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             send_desc = clean_summary[:280]
             color = EMBED_COLOR
 
-        ok = send_discord(
+        img_url = extract_image(c["entry"])
+        ok, message_id = send_discord(
             title=send_title,
             link=c["link"],
             source=c["name"],
             summary=send_desc,
-            image_url=extract_image(c["entry"]),
+            image_url=img_url,
             color=color,
         )
         if ok:
             sent += 1
             stats["sent"] += 1
+            new_entry = {
+                "words": sorted(c["sig_words"]),
+                "at": now.isoformat(),
+                "message_id": message_id,
+                "webhook_url": DISCORD_WEBHOOK_URL,
+                "sources": [c["name"]],
+                "title": send_title,
+                "link": c["link"],
+                "color": color,
+                "image_url": img_url or "",
+                "base_description": send_desc,
+            }
+            # Only usable for future edits if Discord actually gave us a
+            # message_id (needs wait=true to have succeeded); still counts
+            # as sent either way, it just won't get a confirmation edit
+            # later — a same-story duplicate send is still far better
+            # than the old always-send behavior.
+            active_stories.append(new_entry)
+            newly_created.append(new_entry)
             time.sleep(MESSAGE_DELAY_SECONDS)
         else:
             stats["send_failures"] += 1
+
+    # ---- Persist active_stories pool: re-prune by 24h cutoff, fold in
+    # this pass's new sends. Entries carried over from `history` are the
+    # same dict objects as in state["sent_stories"], so any confirmations
+    # appended to their "sources" list above are already reflected here —
+    # this step only needs to drop stale entries and add new ones.
+    pruned = []
+    for entry in state.get("sent_stories", []):
+        try:
+            e_at = datetime.fromisoformat(entry["at"])
+        except (KeyError, ValueError):
+            continue
+        if e_at >= cutoff:
+            pruned.append(entry)
+    for entry in newly_created:
+        if entry not in pruned:
+            pruned.append(entry)
+    state["sent_stories"] = pruned[-RECENT_TITLES_MAX:]
 
     log.info("--- RSS Summary ---")
     for k in sorted(stats.keys()):
