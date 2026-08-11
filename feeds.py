@@ -65,6 +65,24 @@ UPDATE 2026-08-11 (region + source_type fields, comprehensive coverage pass):
     "Portal:Rumours" page (community-maintained, with its own
     Unlikely/Possible/Likely/Certain confidence scale per rumor).
 
+UPDATE 2026-08-11 (round 3) — "loose_query" flag added after an unrelated
+article slipped through:
+  A bare Google News keyword bridge with no "site:" restriction and no
+  quoted multi-word phrase (e.g. q=Syria+esports) is not a real esports
+  feed — it is Google News's own relevance ranking, and for a "thin"
+  scene with little genuine esports coverage it will pad the results
+  with loosely related items that just happen to mention the country
+  (a wildfire in Spain showed up under "Syria Esports" this way, since
+  the query is really just "Syria" OR "esports" in practice, not an AND).
+  "loose_query": True marks every source in this file built this way (the
+  MENA per-country block, the general MENA/Jordan bridges, and the
+  business/sponsorship keyword bridge). bot.py's Gemini relevance check
+  (is_esports field) applies to every source regardless of this flag, but
+  for "loose_query" sources specifically, a failed/unparseable Gemini
+  call no longer falls back to sending the raw RSS item — it is dropped
+  instead. For all other (already topic-restricted) sources, a raw
+  fallback stays safe and is unchanged.
+
 UPDATE 2026-08-11 (round 2) — Liquipedia removed entirely, leaks rebuilt,
 broader coverage:
   - watchlist.py and everything Liquipedia-related is gone from bot.py per
@@ -251,7 +269,7 @@ RSS_FEEDS = [
     {"name": "PUBG Esports (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:pubgesports.com&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "ALGS - Apex Legends (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:algs.com&hl=en&gl=US&ceid=US:en", "verified": False},
     {"name": "Call of Duty League (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:callofdutyleague.com&hl=en&gl=US&ceid=US:en", "verified": False},
-    {"name": "Esports Business & Sponsorships (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(sponsorship+OR+partnership+OR+investment+OR+acquisition+OR+revenue)&hl=en&gl=US&ceid=US:en", "verified": False},
+    {"name": "Esports Business & Sponsorships (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(sponsorship+OR+partnership+OR+investment+OR+acquisition+OR+revenue)&hl=en&gl=US&ceid=US:en", "verified": False, "loose_query": True},
 
     # ============================================================
     # Added 2026-07-04 — X (Twitter) accounts via RSSHub public instance
@@ -297,23 +315,23 @@ RSS_FEEDS = [
     # [thin] no confirmed organized scene found.
     # All entries below tagged region="mena" (2026-08-11).
     # ============================================================
-    {"name": "Kuwait Esports Club [federation]", "url": "https://news.google.com/rss/search?q=%22Kuwait+Esports%22&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Bahrain Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Bahrain+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Qatar Esports [thin]", "url": "https://news.google.com/rss/search?q=Qatar+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Oman Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Oman+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Lebanon Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Lebanon+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Syria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Syria+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Palestine Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Palestine+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Iraq Esports [checked, ENC26 national team, top 4 finish]", "url": "https://news.google.com/rss/search?q=Iraq+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Morocco Esports [checked, ENC26 MENA runner-up]", "url": "https://news.google.com/rss/search?q=Morocco+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Algeria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Algeria+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Tunisia Esports [checked, ENC26 MENA 3rd place]", "url": "https://news.google.com/rss/search?q=Tunisia+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Libya Esports [thin]", "url": "https://news.google.com/rss/search?q=Libya+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Mauritania Esports [thin]", "url": "https://news.google.com/rss/search?q=Mauritania+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Sudan Esports [thin]", "url": "https://news.google.com/rss/search?q=Sudan+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Al-Ahli Esports (Saudi, new CS2 roster June 2026) [checked]", "url": "https://news.google.com/rss/search?q=%22Al+Ahli%22+esports+CS2&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "Esports Nations Cup 2026 [checked, EWCF national-team series]", "url": "https://news.google.com/rss/search?q=%22Esports+Nations+Cup%22&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
-    {"name": "MENA Esports general", "url": "https://news.google.com/rss/search?q=MENA+esports+OR+%22Middle+East%22+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena"},
+    {"name": "Kuwait Esports Club [federation]", "url": "https://news.google.com/rss/search?q=%22Kuwait+Esports%22&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Bahrain Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Bahrain+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Qatar Esports [thin]", "url": "https://news.google.com/rss/search?q=Qatar+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Oman Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Oman+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Lebanon Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Lebanon+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Syria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Syria+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Palestine Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Palestine+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Iraq Esports [checked, ENC26 national team, top 4 finish]", "url": "https://news.google.com/rss/search?q=Iraq+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Morocco Esports [checked, ENC26 MENA runner-up]", "url": "https://news.google.com/rss/search?q=Morocco+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Algeria Esports [checked, ENC26 national team]", "url": "https://news.google.com/rss/search?q=Algeria+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Tunisia Esports [checked, ENC26 MENA 3rd place]", "url": "https://news.google.com/rss/search?q=Tunisia+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Libya Esports [thin]", "url": "https://news.google.com/rss/search?q=Libya+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Mauritania Esports [thin]", "url": "https://news.google.com/rss/search?q=Mauritania+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Sudan Esports [thin]", "url": "https://news.google.com/rss/search?q=Sudan+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Al-Ahli Esports (Saudi, new CS2 roster June 2026) [checked]", "url": "https://news.google.com/rss/search?q=%22Al+Ahli%22+esports+CS2&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "Esports Nations Cup 2026 [checked, EWCF national-team series]", "url": "https://news.google.com/rss/search?q=%22Esports+Nations+Cup%22&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
+    {"name": "MENA Esports general", "url": "https://news.google.com/rss/search?q=MENA+esports+OR+%22Middle+East%22+esports&hl=en&gl=US&ceid=US:en", "verified": False, "region": "mena", "loose_query": True},
 
     # ============================================================
     # JORDAN — added 2026-08-11. Was completely missing before despite
@@ -324,7 +342,7 @@ RSS_FEEDS = [
     # so bridged the same way as the rest of the MENA block.
     # ============================================================
     {"name": "Jordan Esports Federation (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:jef.jo&hl=en&gl=US&ceid=US:en", "verified": False, "region": "jordan", "priority": "high"},
-    {"name": "Jordan Esports general", "url": "https://news.google.com/rss/search?q=%22Jordan+Esports%22+OR+%22Jordan+Esports+Federation%22&hl=en&gl=US&ceid=US:en", "verified": False, "region": "jordan", "priority": "high"},
+    {"name": "Jordan Esports general", "url": "https://news.google.com/rss/search?q=%22Jordan+Esports%22+OR+%22Jordan+Esports+Federation%22&hl=en&gl=US&ceid=US:en", "verified": False, "region": "jordan", "priority": "high", "loose_query": True},
     {"name": "X: Jordan Esports Federation (@Jordan_Esports)", "url": "https://rsshub.app/twitter/user/Jordan_Esports", "verified": False, "region": "jordan", "priority": "high"},
 
     # ============================================================
