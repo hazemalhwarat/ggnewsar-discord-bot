@@ -113,12 +113,28 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 
 STATE_FILE = Path("state.json")
 
-# Cap to prevent flooding if many fresh items appear at once in one pass.
-# Raised from 50 -> 150 on 2026-08-11 when the run interval moved from
-# every 15 minutes to every 5 hours — each pass now covers a much wider
-# accumulation window, so the old cap (sized for 15-minute passes) would
-# have started silently deferring real news to the next run.
-MAX_MESSAGES_PER_RUN = 150
+# No cap on messages per run — per Hazem's instruction (2026-08-11):
+# send literally everything esports-related that passes the freshness
+# and dedup gates below, no artificial ceiling. Kept as a named constant
+# (rather than removing the check entirely) so the safety valve is one
+# edit away if a future pathological case ever needs it, but set high
+# enough that it will never realistically trigger under normal volume.
+#
+# Real-world ceiling to be aware of: this is NOT actually unlimited in
+# practice. run.yml's job timeout is 10 minutes, and Phase C below
+# analyzes+sends candidates one at a time (each Gemini call can take up
+# to ~20s with retries, plus MESSAGE_DELAY_SECONDS between sends) — so a
+# very large burst (e.g. a heavy EWC 2026 news day) could still get cut
+# off mid-run by the Actions timeout before everything sends. Worse,
+# state.json is only saved/committed at the very end of main(), so a
+# timeout-killed run loses that run's dedup progress entirely and the
+# same items would be re-fetched (and likely re-sent) next run. If large
+# bursts become common, worth revisiting: parallelize the Gemini calls in
+# Phase C (like RSS fetching already is), or raise timeout-minutes in
+# run.yml, or save_state()/commit incrementally instead of only at the
+# end. Not changed here since it wasn't asked for — flagging so a burst
+# doesn't look like another "broken bot" surprise later.
+MAX_MESSAGES_PER_RUN = 100000
 
 # Discord webhook rate limit safety margin
 MESSAGE_DELAY_SECONDS = 1.0
@@ -711,6 +727,75 @@ def fetch_one_feed(feed_info: dict):
         return name, None, str(e)
 
 
+# ------------------------------------------------------------
+# Live/direct match-result filter (added 2026-08-11 per Hazem)
+# ------------------------------------------------------------
+# Hazem wants literally everything esports-related EXCEPT raw match
+# results straight off the sites — both flavors:
+#   1) "bare result" articles: a site auto-publishing just the outcome
+#      of a single match with no real news value (e.g. "Falcons defeat
+#      Vitality 2-0", "Team A beat Team B 16-9").
+#   2) live score-ticker content: round-by-round / map-by-map updates
+#      published while a match is still in progress ("LIVE", "Map 2:
+#      13-11", "Round 14 update").
+# This is a heuristic on the title text (cheap, no extra network calls,
+# runs in Phase A alongside freshness/dedup). It is intentionally NOT
+# applied to Gemini's own output — a headline Gemini writes has already
+# been through editorial judgment, so this only filters incoming raw
+# RSS titles before they become candidates. Genuine news that happens to
+# mention a score in passing (a transfer, a sponsorship, a tournament
+# announcement) should not match these patterns; if real news starts
+# getting caught, tighten SCORE_RESULT_VERBS_RE / TEAM_VS_SCORE_RE below
+# rather than the freshness/dedup gates.
+_SCORE_NUM = r"\d{1,2}"
+_SCORE_SEP = r"[-:–—]"
+SCORE_PATTERN_RE = re.compile(rf"\b{_SCORE_NUM}\s*{_SCORE_SEP}\s*{_SCORE_NUM}\b")
+
+LIVE_TICKER_RE = re.compile(
+    r"(?:^live\b|\blive[:\-]|\blive score|\blive updates?\b|\blive thread\b|"
+    r"\bmap\s*\d+\b.{0,20}\b(?:score|update)\b|"
+    r"\bround\s*\d+\b.{0,20}\b(?:score|update)\b|"
+    r"\bgame\s*\d+\b.{0,20}\b(?:score|update)\b)",
+    re.IGNORECASE,
+)
+
+RESULT_VERBS_RE = re.compile(
+    r"\b(?:def\.?|defeats?|defeated|beats?|beaten|tops?|topped|downs?|downed|"
+    r"edges?|edged|outlasts?|outlasted|sweeps?|swept|stuns?|stunned|upsets?|"
+    r"thrash(?:es|ed)?|routs?|routed|crush(?:es|ed)?|wins?\s+(?:over|against)|"
+    r"advances?\s+past|clinch(?:es|ed)?\s+(?:win|victory))\b",
+    re.IGNORECASE,
+)
+
+# "Team Name 2-0 Team Name" shape — a capitalized word/phrase, a score,
+# then another capitalized word/phrase, with nothing else meaningful
+# around it. Deliberately narrow (short segments only) to avoid matching
+# a real headline that merely contains a number near a proper noun.
+TEAM_VS_SCORE_RE = re.compile(
+    rf"^[A-Z][\w.'’]*(?:\s+[A-Z][\w.'’]*){{0,3}}\s+{_SCORE_NUM}\s*{_SCORE_SEP}\s*{_SCORE_NUM}"
+    rf"\s+[A-Z][\w.'’]*(?:\s+[A-Z][\w.'’]*){{0,3}}$"
+)
+
+RESULT_PREFIX_RE = re.compile(
+    r"^\s*(?:result|results|final score|ft|recap)\s*:", re.IGNORECASE
+)
+
+
+def looks_like_live_result(title: str) -> bool:
+    """True if this title looks like a bare match-result report or a
+    live in-match score update, per Hazem's exclusion rule — not a
+    perfect classifier, just a fast text heuristic."""
+    if LIVE_TICKER_RE.search(title):
+        return True
+    if RESULT_PREFIX_RE.search(title):
+        return True
+    if RESULT_VERBS_RE.search(title) and SCORE_PATTERN_RE.search(title):
+        return True
+    if TEAM_VS_SCORE_RE.match(title.strip()):
+        return True
+    return False
+
+
 def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict]:
     """Run RSS collection. Fetches all sources in parallel, gates for
     freshness/dedup, correlates matching stories across different
@@ -762,6 +847,14 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             if t_hash in seen_titles:
                 stats["skip_dup_title"] += 1
                 seen_urls.add(link); state["urls"].append(link)
+                continue
+
+            if looks_like_live_result(title):
+                stats["skip_live_result"] += 1
+                seen_urls.add(link); state["urls"].append(link)
+                seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
+                if stats["skip_live_result"] <= 15:
+                    log.info(f"  filtered as live/direct result: {title!r} ({name})")
                 continue
 
             # Passes all gates. Mark seen regardless of send outcome.
