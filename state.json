@@ -8102,7 +8102,11 @@
     "https://epicstream.com/article/fc-26-pre-season-all-fc-27-carryover-rewards-delivery-dates",
     "https://epicstream.com/article/fc-27-pre-order-icons-confirmed-list-champions-upgrades-more",
     "https://epicstream.com/article/madden-27-review-a-step-forward-for-franchise-mode-but-gameplay-still-fumbles",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPczRIUzVlcnhCNzMyWUQ5ZmNZLVk4RWdNUTF1bl95dEJmZnloMURMLWlmM09UTXpJQm45dmUxcG9vNE11djV3aDJ0cUpRLVAwNTNkeG9oX251V2dPblE2N3RyZXdnSzllWlRkY2U0MUpQbUpBTFNPb0o3am9JWlA3SF9SVzhaV0JBQTVwbDJR?oc=5"
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPczRIUzVlcnhCNzMyWUQ5ZmNZLVk4RWdNUTF1bl95dEJmZnloMURMLWlmM09UTXpJQm45dmUxcG9vNE11djV3aDJ0cUpRLVAwNTNkeG9oX251V2dPblE2N3RyZXdnSzllWlRkY2U0MUpQbUpBTFNPb0o3am9JWlA3SF9SVzhaV0JBQTVwbDJR?oc=5",
+    "https://dotesports.com/overwatch/news/best-crosshair-for-each-overwatch-2-character",
+    "https://gameriv.com/apex-legends-controller-aim-assist-nerfed-as-accuracy-drops-2-4/",
+    "https://www.hotspawn.com/valorant/news/can-team-heretics-qualify-for-valorant-champions",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEVXdU93c1hOc3JzX0tPVXkyUk5pVFJaX0JmVnJmNXM5MGZtVzRZXzRlb0pkYmhVNDV0OFhkSktwZlZId0NSMVBGdTk0Znd3M2dqVl9lYWxxdmlJaEpwWll0c0hpOEhuMHJCOHZNWGN2Q0I2eDRERGtGZmdqZUdKbmtNOW5UX2xFUi1VV253?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16193,7 +16197,11 @@
     "78ed6695dd4dd37ca25b73c48ee0bd10",
     "06f55405c3fe4d41c01bbcb39496b9d5",
     "e2f1d074a38dcc4ba33f8c1c2cfe2b8e",
-    "b54d9f14a40c7dfde6531d793d25adab"
+    "b54d9f14a40c7dfde6531d793d25adab",
+    "85c040b190d2ea36e07838c7c24c0dcf",
+    "32825fb3262474ade48c0c6e1c207082",
+    "55e9384c29f580d1de742bf79fba6da2",
+    "11da319625f954547f3b3cd4a63f6ea7"
   ],
   "transfers": {
     "pages": {
@@ -20388,112 +20396,6 @@
   "sent_stories": [
     {
       "words": [
-        "bracket",
-        "ewc",
-        "falcons",
-        "playoff",
-        "same",
-        "side",
-        "spirit",
-        "vitality"
-      ],
-      "at": "2026-08-16T20:58:50.712553+00:00",
-      "message_id": "1538653298595471391",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Vitality, Falcons, Spirit on same side of EWC playoff bracket",
-      "link": "https://www.hltv.org/news/45326/vitality-falcons-spirit-on-same-side-of-ewc-playoff-bracket",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/OGFXI-i8QGIT9GDVSkpPSr.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=19eed2c776195d45df16ebdea5db8092",
-      "base_description": "A stacked bottom half of the bracket has arisen as a result of the group stage upsets."
-    },
-    {
-      "words": [
-        "legacy"
-      ],
-      "at": "2026-08-16T20:58:50.712553+00:00",
-      "message_id": "1538653313074077730",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Legacy 2-0 MIBR to claim last EWC playoff spot",
-      "link": "https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/6YT_bZ8UKvO0Of458FhO0Y.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=2cb7b7fda448651c080b6bd30e713510",
-      "base_description": "Legacy allowed MIBR to get their foot in the door on both maps, but were ultimately in control of the series."
-    },
-    {
-      "words": [
-        "2025",
-        "bit",
-        "broke",
-        "confidence",
-        "get",
-        "little",
-        "massive",
-        "think",
-        "trophies",
-        "what",
-        "winning",
-        "xertion",
-        "you"
-      ],
-      "at": "2026-08-16T21:18:26.496005+00:00",
-      "message_id": "1538658229440217202",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "xertioN: \"The confidence you get from winning trophies is massive; I think this is a little bit of what broke us in 2025\"",
-      "link": "https://www.hltv.org/news/45322/xertion-the-confidence-you-get-from-winning-trophies-is-massive-i-think-this-is-a-little-bit-of-what-broke-us-in-2025",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/P5q2_Sq4RD2r7Arv0HUvbI.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=2edbfc6bee7c2b486df47bcd536f49f6",
-      "base_description": "The Israeli player opened up on winning his first title as an IGL."
-    },
-    {
-      "words": [
-        "short"
-      ],
-      "at": "2026-08-16T21:18:26.496005+00:00",
-      "message_id": "1538658245520920648",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Short news: Week 32",
-      "link": "https://www.hltv.org/news/45272/short-news-week-32",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Catch up with more Counter-Strike news in bite-sized pieces."
-    },
-    {
-      "words": [
-        "analyst",
-        "away",
-        "inevitable",
-        "move",
-        "physical",
-        "playstation",
-        "says",
-        "sony"
-      ],
-      "at": "2026-08-16T21:18:26.496005+00:00",
-      "message_id": "1538658259924418611",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GameRiv"
-      ],
-      "title": "Analyst Says Sony’s Move Away From Physical PlayStation Games Was Inevitable",
-      "link": "https://gameriv.com/analyst-says-sonys-move-away-from-physical-playstation-games-was-inevitable/",
-      "color": 8141549,
-      "image_url": "https://gameriv.com/wp-content/uploads/2026/04/Playstation-6-early-leaks.jpg",
-      "base_description": "Sony’s decision to stop producing physical discs for new PlayStation games may be controversial, but Ampere Analysis senior games research analyst Piers Harding-Rolls believes the shift was probably unavoidable. With next-generation hardware costs rising, he argues Sony must find"
-    },
-    {
-      "words": [
         "2026",
         "best",
         "casinos",
@@ -22732,6 +22634,92 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1164)—Answers for Tuesday, August 18 appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "best",
+        "character",
+        "crosshair",
+        "each",
+        "overwatch"
+      ],
+      "at": "2026-08-17T21:20:21.541840+00:00",
+      "message_id": "1539021100682575944",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "Best crosshair for each Overwatch character",
+      "link": "https://dotesports.com/overwatch/news/best-crosshair-for-each-overwatch-2-character",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2023/03/overwatch-2-heroes-crosshair.jpg",
+      "base_description": "They could give you the edge in a fight."
+    },
+    {
+      "words": [
+        "accuracy",
+        "aim",
+        "apex",
+        "assist",
+        "controller",
+        "drops",
+        "legends",
+        "nerfed"
+      ],
+      "at": "2026-08-17T21:20:21.541840+00:00",
+      "message_id": "1539021115974877185",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "Apex Legends Controller Aim Assist Nerfed as Accuracy Drops 2–4%",
+      "link": "https://gameriv.com/apex-legends-controller-aim-assist-nerfed-as-accuracy-drops-2-4/",
+      "color": 8141549,
+      "image_url": "https://gameriv.com/wp-content/uploads/2026/05/Apex-Legends-Controller-RC-FIlter-Exploit.jpg",
+      "base_description": "Apex Legends controller players have officially been dealing with weaker aim assist behavior following a major anti-cheat update, with Respawn confirming that controller accuracy has dropped by roughly 2–4% since the changes were introduced. Respawn says the difference is a side "
+    },
+    {
+      "words": [
+        "can",
+        "champions",
+        "heretics",
+        "qualify",
+        "valorant"
+      ],
+      "at": "2026-08-17T21:20:21.541840+00:00",
+      "message_id": "1539021131024175146",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "Can Team Heretics Qualify for VALORANT Champions?",
+      "link": "https://www.hotspawn.com/valorant/news/can-team-heretics-qualify-for-valorant-champions",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Team-Heretics-at-VCT-EMEA-Stage-2.jpg",
+      "base_description": "Team Heretics’ Stage 2 campaign is already over. The reigning Stage 1 champions fell to Eintracht Frankfurt in the Play-Ins lower bracket, a result that leaves them finishing 8th and completely locked out of the playoffs bracket. That would normally end any hope of reaching VALOR"
+    },
+    {
+      "words": [
+        "arrest",
+        "calls",
+        "cs2",
+        "out",
+        "over",
+        "polymarket",
+        "post",
+        "ropz"
+      ],
+      "at": "2026-08-17T21:20:21.541840+00:00",
+      "message_id": "1539021146434052129",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "CS2 rumors (Google News bridge)"
+      ],
+      "title": "ropz Calls Out Polymarket CS2 Over AI Arrest Post - Skin.Club Community",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEVXdU93c1hOc3JzX0tPVXkyUk5pVFJaX0JmVnJmNXM5MGZtVzRZXzRlb0pkYmhVNDV0OFhkSktwZlZId0NSMVBGdTk0Znd3M2dqVl9lYWxxdmlJaEpwWll0c0hpOEhuMHJCOHZNWGN2Q0I2eDRERGtGZmdqZUdKbmtNOW5UX2xFUi1VV253?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "ropz Calls Out Polymarket CS2 Over AI Arrest Post Skin.Club Community"
     }
   ]
 }
