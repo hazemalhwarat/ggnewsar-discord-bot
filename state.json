@@ -8071,7 +8071,11 @@
     "https://insider-gaming.com/1666-amsterdam-early-access-consoles-platforms/",
     "https://www.hotspawn.com/league-of-legends/news/g2-brokenblade-interview",
     "https://esports.gg/news/teamfight-tactics/tft-set-18-enchanted-wilds-release-date-champions-traits-and-more/",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHVBRy0wV1p0eVVTWHZCUUJ1c0wyMjdBSDM1RnEydTJRbUp6aDVUcmVXNk10MklwZlJ3WjJYcy1mMm9FVjNSa2N6N2tJQVo4VGxmY3YxQk55NGlodnJDSm8zQjZycTRFcGFDLXpVUDRRa0kyQWZ0ZTB3YjdidjY3alpOTlJ6YXhoLUFWMF9FVjhVMjFVUVRXTXpxMA?oc=5"
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHVBRy0wV1p0eVVTWHZCUUJ1c0wyMjdBSDM1RnEydTJRbUp6aDVUcmVXNk10MklwZlJ3WjJYcy1mMm9FVjNSa2N6N2tJQVo4VGxmY3YxQk55NGlodnJDSm8zQjZycTRFcGFDLXpVUDRRa0kyQWZ0ZTB3YjdidjY3alpOTlJ6YXhoLUFWMF9FVjhVMjFVUVRXTXpxMA?oc=5",
+    "https://dotesports.com/valorant/news/vct-emea-stage-2-challengers-play-ins",
+    "https://esports.gg/guides/rainbow-six-siege/r6-y11s3-split-fire-noor-legends/",
+    "https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVVTS3NJUTE0VnpRMjI2al9zNmp2YkZrR204NUE1NXFrbEwxX3liQXI0Z2VXVy1RSVEwb29hV2diTk92TTNRZzhYU0hmSWF3RzY1aUltS2ZxMklzZ2lvTTRYNVVLaml0OW9EbzRqd1VKZlFwTGp0MWNPTnhYTUdVcFhnSXlPR1FVVmtOS0tESGFYYWp6OVBuMDhXY0ZqQUR6VGtNM0RJMmtQUllZM0J4V01sUENRWXFSajRWNUtfT1MtRDlEb1Rj?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16139,7 +16143,11 @@
     "23701b5d4d43ec5ccf9d358c259a5674",
     "8db74044d29137c5fd74b4c473228fb9",
     "5174aba6af419b013a97486326ea14af",
-    "f7d6bd10021001ab6651afd274640ddb"
+    "f7d6bd10021001ab6651afd274640ddb",
+    "3bc0346759eadf74911788c63d11c397",
+    "7a5aa27a1ce61c65a402ecc7ada85394",
+    "f4ebbf959fe832287d0486f298eba18e",
+    "6620ff5bc1d4d30b49b424b1e6567e1d"
   ],
   "transfers": {
     "pages": {
@@ -22012,7 +22020,8 @@
       "message_id": "1538899678332977243",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "RealSport101"
+        "RealSport101",
+        "Esports.gg"
       ],
       "title": "FC 26 Pre-Season Token Store Guide: Rewards, New Weekly Limit & More",
       "link": "https://realsport101.com/article/fc-26-pre-season-token-store-guide-rewards-new-weekly-limit-more",
@@ -22462,6 +22471,48 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "Here's what to expect from TFT Set 18 when it arrives with patch 18.1."
+    },
+    {
+      "words": [
+        "advance",
+        "challenger",
+        "emea",
+        "playoffs",
+        "stage",
+        "vct"
+      ],
+      "at": "2026-08-17T17:54:41.306090+00:00",
+      "message_id": "1538969342501191701",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "3 of 4 Challenger teams advance to VCT EMEA Stage 2 Playoffs",
+      "link": "https://dotesports.com/valorant/news/vct-emea-stage-2-challengers-play-ins",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/vct-emea-barcelona.webp",
+      "base_description": "Their eyes are set on Barcelona and Champions."
+    },
+    {
+      "words": [
+        "disruptors",
+        "hollywood",
+        "large",
+        "making",
+        "person",
+        "scale"
+      ],
+      "at": "2026-08-17T17:54:41.306090+00:00",
+      "message_id": "1538969363854401537",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "The Hollywood disruptors making a large-scale game with a 12-person team – and no generative AI",
+      "link": "https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/JoinUs_WolfHausGames_KeyArtClean1080_082225.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "You might recall the trailer for Join Us being featured in the Xbox Showcase back in June. It depicts a darkly comic co-op cult simulator, with robed cult members riding around on pigs and loosing off machine guns, before ending on an image of Cthulu-like giant tentacles. Not sho"
     }
   ]
 }
