@@ -8090,7 +8090,8 @@
     "https://esportsinsider.com/2026/08/china-dota-2-teams-dead",
     "https://esportsinsider.com/2026/08/hungrybox-pop-off-situation",
     "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet-2/",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oVFFlSEt2WHVHeVdFNllzV1Y5c2Vkb21EVXNlbVIyQ0ZzUWtvNlZ2U25TcnFHenJWcUNBejNiTnR5QTNPUDZjMk5SR2JkME5aVGc0dTVXaGhQdXM?oc=5"
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oVFFlSEt2WHVHeVdFNllzV1Y5c2Vkb21EVXNlbVIyQ0ZzUWtvNlZ2U25TcnFHenJWcUNBejNiTnR5QTNPUDZjMk5SR2JkME5aVGc0dTVXaGhQdXM?oc=5",
+    "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet-3/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -20368,22 +20369,6 @@
     }
   ],
   "sent_stories": [
-    {
-      "words": [
-        "legacy"
-      ],
-      "at": "2026-08-16T19:54:59.941655+00:00",
-      "message_id": "1538637231395176620",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Legacy 2-0 MIBR to claim last EWC playoff spot",
-      "link": "https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/6YT_bZ8UKvO0Of458FhO0Y.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=2cb7b7fda448651c080b6bd30e713510",
-      "base_description": "Legacy allowed MIBR to get their foot in the door on both maps, but were ultimately in control of the series."
-    },
     {
       "words": [
         "short"
