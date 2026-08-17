@@ -8075,7 +8075,12 @@
     "https://dotesports.com/valorant/news/vct-emea-stage-2-challengers-play-ins",
     "https://esports.gg/guides/rainbow-six-siege/r6-y11s3-split-fire-noor-legends/",
     "https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVVTS3NJUTE0VnpRMjI2al9zNmp2YkZrR204NUE1NXFrbEwxX3liQXI0Z2VXVy1RSVEwb29hV2diTk92TTNRZzhYU0hmSWF3RzY1aUltS2ZxMklzZ2lvTTRYNVVLaml0OW9EbzRqd1VKZlFwTGp0MWNPTnhYTUdVcFhnSXlPR1FVVmtOS0tESGFYYWp6OVBuMDhXY0ZqQUR6VGtNM0RJMmtQUllZM0J4V01sUENRWXFSajRWNUtfT1MtRDlEb1Rj?oc=5"
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVVTS3NJUTE0VnpRMjI2al9zNmp2YkZrR204NUE1NXFrbEwxX3liQXI0Z2VXVy1RSVEwb29hV2diTk92TTNRZzhYU0hmSWF3RzY1aUltS2ZxMklzZ2lvTTRYNVVLaml0OW9EbzRqd1VKZlFwTGp0MWNPTnhYTUdVcFhnSXlPR1FVVmtOS0tESGFYYWp6OVBuMDhXY0ZqQUR6VGtNM0RJMmtQUllZM0J4V01sUENRWXFSajRWNUtfT1MtRDlEb1Rj?oc=5",
+    "https://dotesports.com/general/news/enc-2026-invited-nations",
+    "https://www.hltv.org/news/45329/furia-fe-depart-counter-strike-for-valorant",
+    "https://insider-gaming.com/fallout-4-update-august-mess-with-game-bethesda/",
+    "https://insider-gaming.com/armao-leaves-lyon-with-inspired-expected-to-make-lcs-return/",
+    "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16147,7 +16152,12 @@
     "3bc0346759eadf74911788c63d11c397",
     "7a5aa27a1ce61c65a402ecc7ada85394",
     "f4ebbf959fe832287d0486f298eba18e",
-    "6620ff5bc1d4d30b49b424b1e6567e1d"
+    "6620ff5bc1d4d30b49b424b1e6567e1d",
+    "513b4d843b7b713a3d99cdfa23706905",
+    "86a2620c307435ced6cd42e593c0fc71",
+    "41790d5d9466f9cead189be9827e438a",
+    "e625473455888c67d112ef23664b7d1b",
+    "201730d4278e576b25515bd90c6072d3"
   ],
   "transfers": {
     "pages": {
@@ -20342,134 +20352,6 @@
   "sent_stories": [
     {
       "words": [
-        "short"
-      ],
-      "at": "2026-08-16T17:56:01.355629+00:00",
-      "message_id": "1538607289941102603",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Short news: Week 32",
-      "link": "https://www.hltv.org/news/45272/short-news-week-32",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Catch up with more Counter-Strike news in bite-sized pieces."
-    },
-    {
-      "words": [
-        "big",
-        "ewc",
-        "into",
-        "labour",
-        "past",
-        "playoffs",
-        "spirit"
-      ],
-      "at": "2026-08-16T17:56:01.355629+00:00",
-      "message_id": "1538607304709111882",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV",
-        "Insider Gaming"
-      ],
-      "title": "Spirit labour past BIG into EWC playoffs",
-      "link": "https://www.hltv.org/news/45316/spirit-labour-past-big-into-ewc-playoffs",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/F8wpaCrZa-tkYD9H9fzVFX.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=d9ec6761a29113af8d31661c535ddc50",
-      "base_description": "It was far from convincing, but Spirit have kept their EWC campaign alive."
-    },
-    {
-      "words": [
-        "confirms",
-        "hearts",
-        "kingdom",
-        "mickey",
-        "mouse",
-        "playable",
-        "trailer"
-      ],
-      "at": "2026-08-16T17:56:01.355629+00:00",
-      "message_id": "1538607320228176003",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Kingdom Hearts 4 Trailer Confirms Playable Mickey Mouse",
-      "link": "https://insider-gaming.com/kingdom-hearts-4-playable-mickey-mouse/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "The extended trailer for Kingdom Hearts 4, which also revealed the world based on Pixar's Coco, shows new footage of Mickey Mouse as a playable character in the forthcoming title. The post Kingdom Hearts 4 Trailer Confirms Playable Mickey Mouse appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "battle",
-        "chapter",
-        "fortnite",
-        "overdrive",
-        "pass",
-        "season"
-      ],
-      "at": "2026-08-16T17:56:01.355629+00:00",
-      "message_id": "1538607336145293466",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg",
-        "Insider Gaming",
-        "Dot Esports"
-      ],
-      "title": "Fortnite Chapter 7 Season 4 Overdrive Battle Pass: All confirmed skins",
-      "link": "https://esports.gg/news/fortnite/fortnite-chapter-7-season-4-battle-pass/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Fortnite leakers have revealed what they believe to be the confirmed Battle Pass lineup for the Overdrive season. Here's what they said!"
-    },
-    {
-      "words": [
-        "already",
-        "but",
-        "clock",
-        "entire",
-        "mafia",
-        "saga",
-        "sale",
-        "ticking"
-      ],
-      "at": "2026-08-16T18:18:31.177926+00:00",
-      "message_id": "1538612950946811987",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "Entire Mafia Saga is on sale but the clock is already ticking",
-      "link": "https://dotesports.com/general/news/mafia-saga-sale-august-2026",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/mafia.webp",
-      "base_description": "Grab the offer before prices go up."
-    },
-    {
-      "words": [
-        "dogs",
-        "gives",
-        "liu",
-        "movie",
-        "simu",
-        "sleeping"
-      ],
-      "at": "2026-08-16T18:18:31.177926+00:00",
-      "message_id": "1538612966013014058",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Simu Liu Gives New Update on Sleeping Dogs Movie",
-      "link": "https://insider-gaming.com/simu-liu-gives-new-update-on-sleeping-dogs-movie/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Simu Liu says the Sleeping Dogs film has a “real path forward” and that the team is working toward a deal with Square Enix. The post Simu Liu Gives New Update on Sleeping Dogs Movie appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "astralis",
         "beat",
         "ewc",
@@ -22513,6 +22395,115 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/JoinUs_WolfHausGames_KeyArtClean1080_082225.jpg?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "You might recall the trailer for Join Us being featured in the Xbox Showcase back in June. It depicts a darkly comic co-op cult simulator, with robed cult members riding around on pigs and loosing off machine guns, before ending on an image of Cthulu-like giant tentacles. Not sho"
+    },
+    {
+      "words": [
+        "2026",
+        "all",
+        "countries",
+        "cup",
+        "every",
+        "invited",
+        "nations",
+        "rosters",
+        "their",
+        "title"
+      ],
+      "at": "2026-08-17T18:28:28.153520+00:00",
+      "message_id": "1538977843088986364",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "All countries invited to Esports Nations Cup 2026 for every title and their rosters",
+      "link": "https://dotesports.com/general/news/enc-2026-invited-nations",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/07/enc-2026.webp",
+      "base_description": "Every country's representative."
+    },
+    {
+      "words": [
+        "counter",
+        "depart",
+        "furia",
+        "strike",
+        "valorant"
+      ],
+      "at": "2026-08-17T18:28:28.153520+00:00",
+      "message_id": "1538977858079170573",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "FURIA fe depart Counter-Strike for VALORANT",
+      "link": "https://www.hltv.org/news/45329/furia-fe-depart-counter-strike-for-valorant",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/h858NrgRZ2eSeaw2V2PVwp.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=a5e8b54015dd12471c7ea79cd0932313",
+      "base_description": "The women's CS scene suffers another setback."
+    },
+    {
+      "words": [
+        "bethesda",
+        "could",
+        "fallout",
+        "mess",
+        "warns",
+        "your"
+      ],
+      "at": "2026-08-17T18:28:28.153520+00:00",
+      "message_id": "1538977872587399253",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "This Fallout 4 Update Could Mess With Your Game, Bethesda Warns",
+      "link": "https://insider-gaming.com/fallout-4-update-august-mess-with-game-bethesda/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Bethesda Game Studios has advised that tomorrow's big Fallout 4 update could mess with your mod load order, so you should take steps first! The post This Fallout 4 Update Could Mess With Your Game, Bethesda Warns appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "armao",
+        "expected",
+        "inspired",
+        "lcs",
+        "leaves",
+        "lyon",
+        "make",
+        "return"
+      ],
+      "at": "2026-08-17T18:28:28.153520+00:00",
+      "message_id": "1538977887649144833",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Armao Leaves LYON With Inspired Expected To Make LCS Return",
+      "link": "https://insider-gaming.com/armao-leaves-lyon-with-inspired-expected-to-make-lcs-return/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "LYON has confirmed that Armao has left the LCS organisation with Polish jungler Inspired expected to return to the League of Legends roster The post Armao Leaves LYON With Inspired Expected To Make LCS Return appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "amet",
+        "dolor",
+        "ipsum",
+        "lorem",
+        "sit"
+      ],
+      "at": "2026-08-17T18:28:28.153520+00:00",
+      "message_id": "1538977902333526037",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "The Esports Radar"
+      ],
+      "title": "Lorem ipsum dolor sit amet",
+      "link": "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa"
     }
   ]
 }
