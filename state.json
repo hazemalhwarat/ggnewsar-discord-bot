@@ -20406,22 +20406,6 @@
   "sent_stories": [
     {
       "words": [
-        "legacy"
-      ],
-      "at": "2026-08-16T23:56:36.644036+00:00",
-      "message_id": "1538698034337026161",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Legacy 2-0 MIBR to claim last EWC playoff spot",
-      "link": "https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/6YT_bZ8UKvO0Of458FhO0Y.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=2cb7b7fda448651c080b6bd30e713510",
-      "base_description": "Legacy allowed MIBR to get their foot in the door on both maps, but were ultimately in control of the series."
-    },
-    {
-      "words": [
         "short"
       ],
       "at": "2026-08-17T00:48:47.704943+00:00",
