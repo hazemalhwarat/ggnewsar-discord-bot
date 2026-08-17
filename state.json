@@ -8106,7 +8106,8 @@
     "https://dotesports.com/overwatch/news/best-crosshair-for-each-overwatch-2-character",
     "https://gameriv.com/apex-legends-controller-aim-assist-nerfed-as-accuracy-drops-2-4/",
     "https://www.hotspawn.com/valorant/news/can-team-heretics-qualify-for-valorant-champions",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEVXdU93c1hOc3JzX0tPVXkyUk5pVFJaX0JmVnJmNXM5MGZtVzRZXzRlb0pkYmhVNDV0OFhkSktwZlZId0NSMVBGdTk0Znd3M2dqVl9lYWxxdmlJaEpwWll0c0hpOEhuMHJCOHZNWGN2Q0I2eDRERGtGZmdqZUdKbmtNOW5UX2xFUi1VV253?oc=5"
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEVXdU93c1hOc3JzX0tPVXkyUk5pVFJaX0JmVnJmNXM5MGZtVzRZXzRlb0pkYmhVNDV0OFhkSktwZlZId0NSMVBGdTk0Znd3M2dqVl9lYWxxdmlJaEpwWll0c0hpOEhuMHJCOHZNWGN2Q0I2eDRERGtGZmdqZUdKbmtNOW5UX2xFUi1VV253?oc=5",
+    "https://gameriv.com/marathons-ordnance-heist-event-introduces-firestorm-a-six-shot-explosive-rifle/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16201,7 +16202,8 @@
     "85c040b190d2ea36e07838c7c24c0dcf",
     "32825fb3262474ade48c0c6e1c207082",
     "55e9384c29f580d1de742bf79fba6da2",
-    "11da319625f954547f3b3cd4a63f6ea7"
+    "11da319625f954547f3b3cd4a63f6ea7",
+    "8d1c53b334a99bfac866c6c1796ce58d"
   ],
   "transfers": {
     "pages": {
@@ -18080,7 +18082,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-17T15:49:13.719826+00:00",
+  "last_health_alert": "2026-08-17T21:49:42.005588+00:00",
   "recent_titles": [
     {
       "words": [
@@ -20396,26 +20398,6 @@
   "sent_stories": [
     {
       "words": [
-        "2026",
-        "best",
-        "casinos",
-        "offshore"
-      ],
-      "at": "2026-08-16T21:43:35.576430+00:00",
-      "message_id": "1538664559659847701",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg",
-        "Hotspawn"
-      ],
-      "title": "Best Offshore Casinos in 2026: Top Sites for US Players",
-      "link": "https://esports.gg/guides/betting/best-offshore-casinos/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": ""
-    },
-    {
-      "words": [
         "legacy"
       ],
       "at": "2026-08-16T21:57:20.662155+00:00",
@@ -22720,6 +22702,31 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "ropz Calls Out Polymarket CS2 Over AI Arrest Post Skin.Club Community"
+    },
+    {
+      "words": [
+        "event",
+        "explosive",
+        "firestorm",
+        "heist",
+        "introduces",
+        "marathon",
+        "ordnance",
+        "rifle",
+        "shot",
+        "six"
+      ],
+      "at": "2026-08-17T21:49:37.992038+00:00",
+      "message_id": "1539028467671244903",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "Marathon’s Ordnance Heist Event Introduces Firestorm, a Six-Shot Explosive Rifle",
+      "link": "https://gameriv.com/marathons-ordnance-heist-event-introduces-firestorm-a-six-shot-explosive-rifle/",
+      "color": 8141549,
+      "image_url": "https://gameriv.com/wp-content/uploads/2026/08/Marathon-Game-new-Weapon-and-new-experiment-and-more-generiou-Loot.jpg",
+      "base_description": "Bungie is launching a new limited-time event in Marathon tomorrow, giving Runners a multi-run PvPvE hunt built around one particularly destructive prize. Called Ordnance Heist, the event begins on August 18 at 10 AM PT and challenges players to collect keys, fight through multipl"
     }
   ]
 }
