@@ -8080,7 +8080,12 @@
     "https://www.hltv.org/news/45329/furia-fe-depart-counter-strike-for-valorant",
     "https://insider-gaming.com/fallout-4-update-august-mess-with-game-bethesda/",
     "https://insider-gaming.com/armao-leaves-lyon-with-inspired-expected-to-make-lcs-return/",
-    "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet/"
+    "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet/",
+    "https://www.hltv.org/news/45269/as-passion-ua-crumbles-players-and-staff-are-owed-significant-sums",
+    "https://insider-gaming.com/will-lol-hall-of-legends-keep-rotating-regions/",
+    "https://insider-gaming.com/win-a-call-of-duty-modern-warfare-4-beta-key-from-insider-gaming/",
+    "https://esports.gg/news/overwatch/overwatch-x-mcdonalds-collab-gets-kiriko-donut-emote/",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE91WnJYenQxN1N6SHgtbjdtLVlWYVd0ZkJ1U0x2d205d2dQbXFHRjA2eXlhbFFBbWExNTJLSmNWSFduWDB0alZRVkN6Vi0yZVljTk00NnVQOGxMMHJNNnJNdlZRUkw0aHVtcWJr?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16157,7 +16162,12 @@
     "86a2620c307435ced6cd42e593c0fc71",
     "41790d5d9466f9cead189be9827e438a",
     "e625473455888c67d112ef23664b7d1b",
-    "201730d4278e576b25515bd90c6072d3"
+    "201730d4278e576b25515bd90c6072d3",
+    "0541789557f78b6caaa617c7c8465892",
+    "2cb7f4b204df3863f7b2574d14224385",
+    "298edff6b631723c821906580bc4f7a3",
+    "e157a328b50fbc7e5d1e5ce315197090",
+    "523611b2d6cf39f0e5456c0a9c346bbd"
   ],
   "transfers": {
     "pages": {
@@ -20363,7 +20373,8 @@
       "message_id": "1538627608957157528",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "HLTV"
+        "HLTV",
+        "Fragster (via Google News bridge, native feed dead)"
       ],
       "title": "Astralis beat NIP to make EWC playoffs",
       "link": "https://www.hltv.org/news/45324/astralis-beat-nip-to-make-ewc-playoffs",
@@ -22504,6 +22515,96 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa"
+    },
+    {
+      "words": [
+        "crumbles",
+        "owed",
+        "passion",
+        "players",
+        "significant",
+        "staff",
+        "sums"
+      ],
+      "at": "2026-08-17T19:08:43.028194+00:00",
+      "message_id": "1538987971942944800",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "As Passion UA crumbles, players and staff are owed significant sums",
+      "link": "https://www.hltv.org/news/45269/as-passion-ua-crumbles-players-and-staff-are-owed-significant-sums",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/FCarisN2x6h1bZ_DSgWQlQ.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=7d3a1b6d2d1e9ecf7a97b8f6cc464217",
+      "base_description": "The Ukrainian organization is allegedly headed for liquidation just a year after signing Complexity's core."
+    },
+    {
+      "words": [
+        "continue",
+        "hall",
+        "legends",
+        "lol",
+        "regions",
+        "rotate",
+        "will"
+      ],
+      "at": "2026-08-17T19:08:43.028194+00:00",
+      "message_id": "1538987987470127255",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Will LoL Hall of Legends Continue to Rotate Regions?",
+      "link": "https://insider-gaming.com/will-lol-hall-of-legends-keep-rotating-regions/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "After Caps joined Faker and Uzi in the LoL Hall of Legends, many expect an LCS legend like Doublelift or Bjergsen to be next The post Will LoL Hall of Legends Continue to Rotate Regions? appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "beta",
+        "call",
+        "duty",
+        "gaming",
+        "insider",
+        "key",
+        "modern",
+        "warfare",
+        "win"
+      ],
+      "at": "2026-08-17T19:08:43.028194+00:00",
+      "message_id": "1538988002670284912",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Win A Call of Duty: Modern Warfare 4 Beta Key From Insider Gaming",
+      "link": "https://insider-gaming.com/win-a-call-of-duty-modern-warfare-4-beta-key-from-insider-gaming/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Insider Gaming is giving away keys to enter the Call of Duty: Modern Warfare 4 Beta from August 21 through August 25. The post Win A Call of Duty: Modern Warfare 4 Beta Key From Insider Gaming appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "collab",
+        "donut",
+        "emote",
+        "gets",
+        "kiriko",
+        "mcdonald",
+        "overwatch"
+      ],
+      "at": "2026-08-17T19:08:43.028194+00:00",
+      "message_id": "1538988017539354681",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Overwatch x McDonald’s collab gets Kiriko donut emote",
+      "link": "https://esports.gg/news/overwatch/overwatch-x-mcdonalds-collab-gets-kiriko-donut-emote/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "The Kiriko Donut Break emote in Overwatch can be unlocked through a new McDonald's promotion."
     }
   ]
 }
