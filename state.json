@@ -8069,7 +8069,9 @@
     "https://dotesports.com/valorant/guides/valorant-aeris-bundle",
     "https://www.hltv.org/news/45327/blast-open-porto-opening-matchups-set",
     "https://insider-gaming.com/1666-amsterdam-early-access-consoles-platforms/",
-    "https://www.hotspawn.com/league-of-legends/news/g2-brokenblade-interview"
+    "https://www.hotspawn.com/league-of-legends/news/g2-brokenblade-interview",
+    "https://esports.gg/news/teamfight-tactics/tft-set-18-enchanted-wilds-release-date-champions-traits-and-more/",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHVBRy0wV1p0eVVTWHZCUUJ1c0wyMjdBSDM1RnEydTJRbUp6aDVUcmVXNk10MklwZlJ3WjJYcy1mMm9FVjNSa2N6N2tJQVo4VGxmY3YxQk55NGlodnJDSm8zQjZycTRFcGFDLXpVUDRRa0kyQWZ0ZTB3YjdidjY3alpOTlJ6YXhoLUFWMF9FVjhVMjFVUVRXTXpxMA?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16135,7 +16137,9 @@
     "7a472751a4063593aa886015e3b9d301",
     "c310790f716b82c30ee51cc545c5b843",
     "23701b5d4d43ec5ccf9d358c259a5674",
-    "8db74044d29137c5fd74b4c473228fb9"
+    "8db74044d29137c5fd74b4c473228fb9",
+    "5174aba6af419b013a97486326ea14af",
+    "f7d6bd10021001ab6651afd274640ddb"
   ],
   "transfers": {
     "pages": {
@@ -20330,30 +20334,6 @@
   "sent_stories": [
     {
       "words": [
-        "beta",
-        "code",
-        "free",
-        "giveaway",
-        "modern",
-        "mp1st",
-        "score",
-        "via",
-        "warfare"
-      ],
-      "at": "2026-08-16T17:14:46.107534+00:00",
-      "message_id": "1538596907465576591",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "MP1st CoD"
-      ],
-      "title": "Score a Modern Warfare 4 Beta Code for Free via the MP1st Giveaway",
-      "link": "https://mp1st.com/news/score-a-modern-warfare-4-beta-code-for-free-via-the-mp1st-giveaway",
-      "color": 8141549,
-      "image_url": "https://mp1st.com/wp-content/uploads/2026/08/ps-store-no-refunds-600x338.png",
-      "base_description": "Having trouble viewing the text? You can always read the original article here: Score a Modern Warfare 4 Beta Code for Free via the MP1st Giveaway If you’ve been a reader and follower of MP1st throughout the years, you should have noticed that we usually give away a ton of Call o"
-    },
-    {
-      "words": [
         "short"
       ],
       "at": "2026-08-16T17:56:01.355629+00:00",
@@ -22458,6 +22438,30 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/brokenblade-lec-interview-1125x633.webp",
       "base_description": "G2 Esports are now locked in for playoffs. Even though the team dropped a surprising loss to Fnatic in their second match of the week, G2 earned a key win against Shifters to guarantee themselves a place in the top 6. At the end of the match against SHFT, we spoke to G2 top laner"
+    },
+    {
+      "words": [
+        "champions",
+        "date",
+        "enchanted",
+        "more",
+        "release",
+        "set",
+        "tft",
+        "traits",
+        "wilds"
+      ],
+      "at": "2026-08-17T17:21:27.824607+00:00",
+      "message_id": "1538960980195938366",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "TFT Set 18 Enchanted Wilds: Release date, champions, traits, and more",
+      "link": "https://esports.gg/news/teamfight-tactics/tft-set-18-enchanted-wilds-release-date-champions-traits-and-more/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Here's what to expect from TFT Set 18 when it arrives with patch 18.1."
     }
   ]
 }
