@@ -8091,7 +8091,10 @@
     "https://esportsinsider.com/2026/08/hungrybox-pop-off-situation",
     "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet-2/",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oVFFlSEt2WHVHeVdFNllzV1Y5c2Vkb21EVXNlbVIyQ0ZzUWtvNlZ2U25TcnFHenJWcUNBejNiTnR5QTNPUDZjMk5SR2JkME5aVGc0dTVXaGhQdXM?oc=5",
-    "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet-3/"
+    "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet-3/",
+    "https://www.hltv.org/news/45330/liquid-b8-and-gamerlegion-among-logitech-g-play-connect-team-list",
+    "https://insider-gaming.com/esports-nations-cup-ea-sports-fc-special-qualifiers-confirmed/",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1Z6S09laUxrWHZUOTRKT0xvcmRuWTQwUGtjX3R6Y2VtQTJYYnRzQ1ZRTlo4UkdCNzM3WG8xRXQtZkQ1SnFzX1l5dUpycmdhWTFEYkk5cUZvLWN4QURMZEU3bDRZTHF1NzgtOENCcmhPX2g2cVJrdWdxRU5ZX3hjYWRoMWVQMFUwQ1hxOWpkOGw5NU0?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16176,7 +16179,9 @@
     "523611b2d6cf39f0e5456c0a9c346bbd",
     "747f6857b21b04880863fb4bfb543042",
     "1370b3043c90d7e255e8db2abbc2a960",
-    "9e16df0ad1d1487303be19ec657ec57e"
+    "9e16df0ad1d1487303be19ec657ec57e",
+    "1ca5415507edb3a7516049fbe1ef6525",
+    "86b26f9cf7010cbffb610f474f5abfcb"
   ],
   "transfers": {
     "pages": {
@@ -20371,22 +20376,6 @@
   "sent_stories": [
     {
       "words": [
-        "short"
-      ],
-      "at": "2026-08-16T20:15:02.131931+00:00",
-      "message_id": "1538642273691107412",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Short news: Week 32",
-      "link": "https://www.hltv.org/news/45272/short-news-week-32",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Catch up with more Counter-Strike news in bite-sized pieces."
-    },
-    {
-      "words": [
         "bracket",
         "ewc",
         "falcons",
@@ -22636,6 +22625,49 @@
       "color": 8141549,
       "image_url": "https://esportsinsider.com/wp-content/uploads/2025/06/hungrybox-pop-off-large.jpeg",
       "base_description": "The art of the pop-off has been perfected in Super Smash Bros. Melee. A grassroots scene known for its grit and passion, the sets can get quite intense, leading to some intense celebrations once someone beats a longtime rival or wins an incredibly difficult match. One of the most"
+    },
+    {
+      "words": [
+        "among",
+        "connect",
+        "gamerlegion",
+        "liquid",
+        "list",
+        "logitech",
+        "play"
+      ],
+      "at": "2026-08-17T20:25:18.965050+00:00",
+      "message_id": "1539007248221741128",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "Liquid, B8, and GamerLegion among Logitech G Play Connect team list",
+      "link": "https://www.hltv.org/news/45330/liquid-b8-and-gamerlegion-among-logitech-g-play-connect-team-list",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/s4cj60y8AHVE0O3jZ_sbeg.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=1165ed82f0ec3adb7c518985750849bd",
+      "base_description": "10 of the 12 teams that will compete at the $100,000 LAN in Warsaw in September are now known."
+    },
+    {
+      "words": [
+        "confirmed",
+        "cup",
+        "nations",
+        "qualifiers",
+        "special",
+        "sports"
+      ],
+      "at": "2026-08-17T20:25:18.965050+00:00",
+      "message_id": "1539007262629302403",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Esports Nations Cup: EA Sports FC Special Qualifiers Confirmed",
+      "link": "https://insider-gaming.com/esports-nations-cup-ea-sports-fc-special-qualifiers-confirmed/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Special qualifiers have confirmed five more players for the EA Sports FC tournament at the Esports Nations Cup later this year The post Esports Nations Cup: EA Sports FC Special Qualifiers Confirmed appeared first on Insider Gaming ."
     }
   ]
 }
