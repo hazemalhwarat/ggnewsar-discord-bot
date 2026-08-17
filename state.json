@@ -8094,7 +8094,15 @@
     "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet-3/",
     "https://www.hltv.org/news/45330/liquid-b8-and-gamerlegion-among-logitech-g-play-connect-team-list",
     "https://insider-gaming.com/esports-nations-cup-ea-sports-fc-special-qualifiers-confirmed/",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1Z6S09laUxrWHZUOTRKT0xvcmRuWTQwUGtjX3R6Y2VtQTJYYnRzQ1ZRTlo4UkdCNzM3WG8xRXQtZkQ1SnFzX1l5dUpycmdhWTFEYkk5cUZvLWN4QURMZEU3bDRZTHF1NzgtOENCcmhPX2g2cVJrdWdxRU5ZX3hjYWRoMWVQMFUwQ1hxOWpkOGw5NU0?oc=5"
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1Z6S09laUxrWHZUOTRKT0xvcmRuWTQwUGtjX3R6Y2VtQTJYYnRzQ1ZRTlo4UkdCNzM3WG8xRXQtZkQ1SnFzX1l5dUpycmdhWTFEYkk5cUZvLWN4QURMZEU3bDRZTHF1NzgtOENCcmhPX2g2cVJrdWdxRU5ZX3hjYWRoMWVQMFUwQ1hxOWpkOGw5NU0?oc=5",
+    "https://www.hltv.org/news/45328/try-its-been-a-really-tough-few-years-for-me-this-is-the-first-team-where-ill-have-the-chance-to-prove-myself-in-tier-1",
+    "https://esports.gg/guides/call-of-duty/modern-warfare-4-beta-all-playable-maps-and-game-modes/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-august-18-1164/",
+    "https://epicstream.com/article/fc-26-pre-season-token-store-guide-rewards-new-weekly-limit-more",
+    "https://epicstream.com/article/fc-26-pre-season-all-fc-27-carryover-rewards-delivery-dates",
+    "https://epicstream.com/article/fc-27-pre-order-icons-confirmed-list-champions-upgrades-more",
+    "https://epicstream.com/article/madden-27-review-a-step-forward-for-franchise-mode-but-gameplay-still-fumbles",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPczRIUzVlcnhCNzMyWUQ5ZmNZLVk4RWdNUTF1bl95dEJmZnloMURMLWlmM09UTXpJQm45dmUxcG9vNE11djV3aDJ0cUpRLVAwNTNkeG9oX251V2dPblE2N3RyZXdnSzllWlRkY2U0MUpQbUpBTFNPb0o3am9JWlA3SF9SVzhaV0JBQTVwbDJR?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16181,7 +16189,11 @@
     "1370b3043c90d7e255e8db2abbc2a960",
     "9e16df0ad1d1487303be19ec657ec57e",
     "1ca5415507edb3a7516049fbe1ef6525",
-    "86b26f9cf7010cbffb610f474f5abfcb"
+    "86b26f9cf7010cbffb610f474f5abfcb",
+    "78ed6695dd4dd37ca25b73c48ee0bd10",
+    "06f55405c3fe4d41c01bbcb39496b9d5",
+    "e2f1d074a38dcc4ba33f8c1c2cfe2b8e",
+    "b54d9f14a40c7dfde6531d793d25adab"
   ],
   "transfers": {
     "pages": {
@@ -22520,7 +22532,8 @@
       "message_id": "1538988002670284912",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Esports.gg"
       ],
       "title": "Win A Call of Duty: Modern Warfare 4 Beta Key From Insider Gaming",
       "link": "https://insider-gaming.com/win-a-call-of-duty-modern-warfare-4-beta-key-from-insider-gaming/",
@@ -22668,6 +22681,57 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Special qualifiers have confirmed five more players for the EA Sports FC tournament at the Esports Nations Cup later this year The post Esports Nations Cup: EA Sports FC Special Qualifiers Confirmed appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "been",
+        "chance",
+        "few",
+        "first",
+        "have",
+        "myself",
+        "prove",
+        "really",
+        "tier",
+        "tough",
+        "try",
+        "where",
+        "years"
+      ],
+      "at": "2026-08-17T20:53:06.103382+00:00",
+      "message_id": "1539014241296719893",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "try: \"It’s been a really tough few years for me; this is the first team where I'll have the chance to prove myself in tier-1\"",
+      "link": "https://www.hltv.org/news/45328/try-its-been-a-really-tough-few-years-for-me-this-is-the-first-team-where-ill-have-the-chance-to-prove-myself-in-tier-1",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/IhZzz3-mJDBb9xB097IF3D.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=344960c8f899835efb5b782a7569b343",
+      "base_description": "The Argentinian AWPer is enjoying life with Legacy."
+    },
+    {
+      "words": [
+        "1164",
+        "answers",
+        "august",
+        "connections",
+        "hints",
+        "nyt",
+        "today",
+        "tuesday"
+      ],
+      "at": "2026-08-17T20:53:06.103382+00:00",
+      "message_id": "1539014261827960954",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "NYT Connections Hints Today (#1164)—Answers for Tuesday, August 18",
+      "link": "https://insider-gaming.com/nyt-connections-hints-solutions-august-18-1164/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1164)—Answers for Tuesday, August 18 appeared first on Insider Gaming ."
     }
   ]
 }
