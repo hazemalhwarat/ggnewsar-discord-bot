@@ -89,6 +89,8 @@ broader coverage:
     Hazem's explicit instruction (no Liquipedia content at all anymore).
     The "Portal:Rumours" leak mechanism mentioned in the note above no
     longer exists — delete watchlist.py from the repo, it's dead code now.
+    [DONE 2026-08-17: watchlist.py and the stray leftover ggnewsar-transfers.patch
+    file were both deleted from the repo during the spam-bug cleanup pass.]
   - Leaks/rumors replacement: added one Google News bridge per major game
     that searches specifically for rumor-language keywords (rumor,
     reportedly, "in talks", leaked) rather than just general news. This is
@@ -385,6 +387,19 @@ RSS_FEEDS = [
     {"name": "Call of Duty rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=%22Call+of+Duty%22+esports+(rumor+OR+rumour+OR+reportedly+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
     {"name": "MENA esports transfer rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=(%22Team+Falcons%22+OR+%22Twisted+Minds%22+OR+%22Nigma+Galaxy%22+OR+%22Geekay+Esports%22+OR+MENA+esports)+(rumor+OR+rumour+OR+reportedly+OR+%22in+talks%22+OR+leaked)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak", "region": "mena"},
     {"name": "General esports transfer rumors (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(rumor+OR+rumour+OR+%22reportedly+joining%22+OR+%22linked+with%22+OR+%22set+to+join%22)&hl=en&gl=US&ceid=US:en", "verified": False, "source_type": "leak"},
+
+    # ============================================================
+    # ADDED 2026-08-17 (spam-bug cleanup pass) — two more general
+    # sources, both live-fetched and confirmed returning real, current
+    # entries before being added here (not just copied from a
+    # directory listing like most of the "verified": False block
+    # above). Inven Global in particular is a strong add: very high
+    # volume, very fast LCK/LPL match coverage (their English-language
+    # feed), which nothing else in this file currently covers at that
+    # depth.
+    # ============================================================
+    {"name": "Upcomer", "url": "https://upcomer.com/feed", "verified": True},
+    {"name": "Inven Global (English)", "url": "https://www.invenglobal.com/feed/atom", "verified": True, "priority": "high"},
 ]
 
 if __name__ == "__main__":
