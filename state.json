@@ -8065,7 +8065,11 @@
     "https://stealthoptional.com/article/fc-26-pre-season-token-store-guide-rewards-new-weekly-limit-more",
     "https://stealthoptional.com/article/fc-26-pre-season-all-fc-27-carryover-rewards-delivery-dates",
     "https://stealthoptional.com/article/fc-27-pre-order-icons-confirmed-list-champions-upgrades-more",
-    "https://stealthoptional.com/article/madden-27-review-a-step-forward-for-franchise-mode-but-gameplay-still-fumbles"
+    "https://stealthoptional.com/article/madden-27-review-a-step-forward-for-franchise-mode-but-gameplay-still-fumbles",
+    "https://dotesports.com/valorant/guides/valorant-aeris-bundle",
+    "https://www.hltv.org/news/45327/blast-open-porto-opening-matchups-set",
+    "https://insider-gaming.com/1666-amsterdam-early-access-consoles-platforms/",
+    "https://www.hotspawn.com/league-of-legends/news/g2-brokenblade-interview"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16127,7 +16131,11 @@
     "a4dee1e0feb1eb09532af76188ad405c",
     "6a6b67075f89e746bfcfca6f96e4daaa",
     "5192b5c1205323bd59798c5ff42c8862",
-    "1dbf580c4bc0807ba0bcbe6ebe527920"
+    "1dbf580c4bc0807ba0bcbe6ebe527920",
+    "7a472751a4063593aa886015e3b9d301",
+    "c310790f716b82c30ee51cc545c5b843",
+    "23701b5d4d43ec5ccf9d358c259a5674",
+    "8db74044d29137c5fd74b4c473228fb9"
   ],
   "transfers": {
     "pages": {
@@ -20322,70 +20330,6 @@
   "sent_stories": [
     {
       "words": [
-        "short"
-      ],
-      "at": "2026-08-16T16:49:54.738602+00:00",
-      "message_id": "1538590652743557242",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Short news: Week 32",
-      "link": "https://www.hltv.org/news/45272/short-news-week-32",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Catch up with more Counter-Strike news in bite-sized pieces."
-    },
-    {
-      "words": [
-        "all",
-        "china",
-        "elimination",
-        "first",
-        "gamers",
-        "matches",
-        "nova",
-        "playoffs",
-        "win"
-      ],
-      "at": "2026-08-16T16:49:54.738602+00:00",
-      "message_id": "1538590667180216382",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg"
-      ],
-      "title": "Nova and All Gamers win first elimination matches of China playoffs",
-      "link": "https://www.vlr.gg/738335/nova-and-all-gamers-win-first-elimination-matches-of-china-playoffs",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Nova and AG knock TEC and Trace out of the tournament."
-    },
-    {
-      "words": [
-        "apologized",
-        "ceo",
-        "former",
-        "rideshare",
-        "saber",
-        "says",
-        "stimulator",
-        "writer"
-      ],
-      "at": "2026-08-16T16:49:54.738602+00:00",
-      "message_id": "1538590681826725922",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "GamesIndustry.biz"
-      ],
-      "title": "Former Rideshare Stimulator Writer Says Saber CEO Apologized",
-      "link": "https://insider-gaming.com/saber-ceo-apology-former-rideshare-lead-writer/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Former Rideshare Stimulator lead writer Stella Sacco says Saber CEO Matt Karch apologized privately for the way he spoke about her in the press. The post Former Rideshare Stimulator Writer Says Saber CEO Apologized appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "beta",
         "code",
         "free",
@@ -22183,7 +22127,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "Insider Gaming",
-        "GameRiv"
+        "GameRiv",
+        "Dot Esports"
       ],
       "title": "VALORANT ‘Aeris Collection’ Unveiled by Riot Games",
       "link": "https://insider-gaming.com/valorant-aeris-collection-revealed-riot-games/",
@@ -22445,6 +22390,74 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "The Esports World Cup's sixth week of action saw emphatic victories that reinforced the dominance of teams and individuals. The post Esports World Cup Week 6 Recap: Magnificent Magnus, FaZe Dynasty Grows, and dralii’s EWC Threepeat appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "blast",
+        "matchups",
+        "open",
+        "opening",
+        "porto",
+        "set"
+      ],
+      "at": "2026-08-17T16:54:37.415106+00:00",
+      "message_id": "1538954231380185250",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "BLAST Open Porto opening matchups set",
+      "link": "https://www.hltv.org/news/45327/blast-open-porto-opening-matchups-set",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/w6lPmJKV6P-7c33fQ6azjh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=eb0730b4c4949730b733cbd49316eb85",
+      "base_description": "jL will debut as a stand-in for Vitality against Inner Circle in Group B."
+    },
+    {
+      "words": [
+        "1666",
+        "access",
+        "all",
+        "amsterdam",
+        "consoles",
+        "early",
+        "nintendo",
+        "platforms",
+        "playstation",
+        "switch",
+        "xbox"
+      ],
+      "at": "2026-08-17T16:54:37.415106+00:00",
+      "message_id": "1538954245770973367",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Is 1666: Amsterdam Early Access on Xbox, PlayStation, or Nintendo Switch? All Consoles & Platforms",
+      "link": "https://insider-gaming.com/1666-amsterdam-early-access-consoles-platforms/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "1666: Amsterdam is an ambitious action title that steps into history with supernatural surprises, so see if its early access is on console. The post Is 1666: Amsterdam Early Access on Xbox, PlayStation, or Nintendo Switch? All Consoles & Platforms appeared first on Insider Gaming"
+    },
+    {
+      "words": [
+        "brokenblade",
+        "caps",
+        "makes",
+        "reveals",
+        "special",
+        "what"
+      ],
+      "at": "2026-08-17T16:54:37.415106+00:00",
+      "message_id": "1538954261277179986",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "G2 BrokenBlade Reveals What Makes Caps So Special – LEC Interview",
+      "link": "https://www.hotspawn.com/league-of-legends/news/g2-brokenblade-interview",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/brokenblade-lec-interview-1125x633.webp",
+      "base_description": "G2 Esports are now locked in for playoffs. Even though the team dropped a surprising loss to Fnatic in their second match of the week, G2 earned a key win against Shifters to guarantee themselves a place in the top 6. At the end of the match against SHFT, we spoke to G2 top laner"
     }
   ]
 }
