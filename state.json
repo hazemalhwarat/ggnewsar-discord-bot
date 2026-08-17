@@ -8059,7 +8059,8 @@
     "https://gameriv.com/arc-raiders-ermal-offers-rotation-all-weekly-trades/",
     "https://esports.gg/news/ea-sports-fc-25/light-defeats-jm-2026-fsl-summer/",
     "https://traxion.gg/dtm-esports-2026-tim-jarschel-wins-championship-with-supreme-performance-at-lan-final/",
-    "https://traxion.gg/gt-omega-confirms-simracing-expo-frankfurt-attendance/"
+    "https://traxion.gg/gt-omega-confirms-simracing-expo-frankfurt-attendance/",
+    "https://insider-gaming.com/top-50-highest-rated-players-in-ea-fc-27-ultimate-team/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16119,7 +16120,8 @@
     "2f26be5267c40ff9d099d66c10d68443",
     "0d6b272fd73248c1fe626022b415cd03",
     "a4dee1e0feb1eb09532af76188ad405c",
-    "6a6b67075f89e746bfcfca6f96e4daaa"
+    "6a6b67075f89e746bfcfca6f96e4daaa",
+    "5192b5c1205323bd59798c5ff42c8862"
   ],
   "transfers": {
     "pages": {
@@ -17998,7 +18000,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-17T09:43:43.075163+00:00",
+  "last_health_alert": "2026-08-17T15:49:13.719826+00:00",
   "recent_titles": [
     {
       "words": [
@@ -20314,45 +20316,6 @@
   "sent_stories": [
     {
       "words": [
-        "comeback",
-        "deny",
-        "ewc",
-        "inferno",
-        "mouz",
-        "parivision",
-        "playoffs",
-        "secure"
-      ],
-      "at": "2026-08-16T15:37:26.843820+00:00",
-      "message_id": "1538572415838322780",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "MOUZ deny PARIVISION Inferno comeback to secure playoffs at EWC",
-      "link": "https://www.hltv.org/news/45321/mouz-deny-parivision-inferno-comeback-to-secure-playoffs-at-ewc",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/BwHkV8Be-YM7CpsESV4PfN.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=52ff3521445f0b266ee30536f0dc7b3c",
-      "base_description": "The Russian squad worked to bring back a 10-2 deficit on the second map of the series, but were shut down in the 23rd round."
-    },
-    {
-      "words": [
-        "short"
-      ],
-      "at": "2026-08-16T15:37:26.843820+00:00",
-      "message_id": "1538572430795087953",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Short news: Week 32",
-      "link": "https://www.hltv.org/news/45272/short-news-week-32",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Catch up with more Counter-Strike news in bite-sized pieces."
-    },
-    {
-      "words": [
         "balance",
         "cs2",
         "falcons",
@@ -22450,6 +22413,26 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Scottish sim racing supplier GT Omega has confirmed it will be exhibiting its products at this year's SimRacing Expo Frankfurt, 16th-18th October. The post GT Omega confirms SimRacing Expo Frankfurt attendance appeared first on Traxion.GG ."
+    },
+    {
+      "words": [
+        "highest",
+        "players",
+        "rated",
+        "top",
+        "ultimate"
+      ],
+      "at": "2026-08-17T15:49:09.763980+00:00",
+      "message_id": "1538937752060436552",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Top 50 Highest-Rated Players In EA FC 27 Ultimate Team",
+      "link": "https://insider-gaming.com/top-50-highest-rated-players-in-ea-fc-27-ultimate-team/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The top 50 players in EA FC 27 have been revealed, and it's full of footballers you'll be desperate to add to your Ultimate Team. The post Top 50 Highest-Rated Players In EA FC 27 Ultimate Team appeared first on Insider Gaming ."
     }
   ]
 }
