@@ -8049,7 +8049,11 @@
     "https://insider-gaming.com/valorant-aeris-collection-revealed-riot-games/",
     "https://insider-gaming.com/hecz-offers-to-buy-dopest-pcs-in-world-cod-league/",
     "https://www.hotspawn.com/fortnite/news/fortnite-sprite-spree",
-    "https://esports-news.co.uk/2026/08/17/esports-weekend-review-aug-17/"
+    "https://esports-news.co.uk/2026/08/17/esports-weekend-review-aug-17/",
+    "https://gameriv.com/apex-legends-season-31-could-introduce-a-new-ring-system/",
+    "https://gameriv.com/valorant-aeris-skin-bundle/",
+    "https://insider-gaming.com/phantom-blade-zero-state-of-play-start-time-date-how-to-watch/",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaWQ0X0VZaVdRLU9hV0VOYy1GRk15cUFlVGdON3NEc2stck1XMjdneWVtNFU5eFI0MEdXUFU0N3h5M0lEZkdXOEJKTk52czlQQUpPTzY2aWJvclZmakY2ZFpyZFAxeHJoRkpZZXhlYnpRZ0s3NmJIQ0dUYzNYYTdZc1RVdHk3aThkMkR5OURVSEVUUkQ2dGMtODhqbUlfX0xIM3kxVUZWU2p4c1J6WTNfRmc5UWpXWktNbmozc19RMVR2YWdScF9v?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16100,7 +16104,10 @@
     "7cd1d40a16064382686a4ad29ddd4fe0",
     "528a3f36239840b8d6e5346b5b11fbc3",
     "d11ec32dc6614d9ef9c6aa76c4255a8a",
-    "bf5dc21cbac434d39e3b3b4577fde85b"
+    "bf5dc21cbac434d39e3b3b4577fde85b",
+    "e2570563e5b72d8add60a4c105f04ce3",
+    "c99cbd2dede8f55516750889f48b210a",
+    "85cad7a4b519a6f3bf4a1ee2f67a3e7f"
   ],
   "transfers": {
     "pages": {
@@ -20295,67 +20302,6 @@
   "sent_stories": [
     {
       "words": [
-        "short"
-      ],
-      "at": "2026-08-16T14:27:54.575049+00:00",
-      "message_id": "1538554916170113077",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Short news: Week 32",
-      "link": "https://www.hltv.org/news/45272/short-news-week-32",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Catch up with more Counter-Strike news in bite-sized pieces."
-    },
-    {
-      "words": [
-        "apex",
-        "entire",
-        "has",
-        "identity",
-        "imperialhal",
-        "legends",
-        "lost",
-        "says"
-      ],
-      "at": "2026-08-16T14:27:54.575049+00:00",
-      "message_id": "1538554930640584765",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GameRiv",
-        "Dexerto Apex"
-      ],
-      "title": "ImperialHal Says Apex Legends Has “Lost Its Entire Identity”",
-      "link": "https://gameriv.com/imperialhal-says-apex-legends-has-lost-its-entire-identity/",
-      "color": 8141549,
-      "image_url": "https://gameriv.com/wp-content/uploads/2026/05/Imperialhal-Axle-Apex-Legends.jpg",
-      "base_description": "Apex Legends pro Phillip “ImperialHal” Dosen has delivered a harsh assessment of the current state of Respawn Entertainment’s battle royale, claiming the game has lost sight of what originally made Apex feel like Apex. The outspoken Team Falcons star responded directly to the off"
-    },
-    {
-      "words": [
-        "cup",
-        "gran",
-        "nations",
-        "series",
-        "turismo",
-        "world"
-      ],
-      "at": "2026-08-16T14:48:35.109789+00:00",
-      "message_id": "1538560119397290069",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Traxion.gg Esports"
-      ],
-      "title": "Gran Turismo World Series Nations Cup: Drumont leads France to Round 2 victory",
-      "link": "https://traxion.gg/gran-turismo-world-series-nations-cup-drumont-leads-france-to-round-2-victory/",
-      "color": 8141549,
-      "image_url": "https://www.youtube.com/embed/p1FmX3f6NMw",
-      "base_description": "Kylian Drumont has won the second round of the 2026 Gran Turismo World Series Nations Cup for France. The post Gran Turismo World Series Nations Cup: Drumont leads France to Round 2 victory appeared first on Traxion.GG ."
-    },
-    {
-      "words": [
         "biggest",
         "caps",
         "hall",
@@ -22301,7 +22247,8 @@
       "message_id": "1538909332207444021",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "GameRiv"
       ],
       "title": "VALORANT ‘Aeris Collection’ Unveiled by Riot Games",
       "link": "https://insider-gaming.com/valorant-aeris-collection-revealed-riot-games/",
@@ -22377,6 +22324,53 @@
       "color": 8141549,
       "image_url": "https://esports-news.co.uk/wp-content/uploads/2026/08/HPyc3QLWoAAuSKS-300x200.jpg",
       "base_description": "Even past the mid-point of August, the esports world is still rife with high-profile tournaments entering their decisive phases. Over the weekend, FaZe Clan dominated Rainbow Six Siege to claim the Esports World Cup (EWC 2026) title, while Team Vision tore through opponents in Th"
+    },
+    {
+      "words": [
+        "apex",
+        "could",
+        "introduce",
+        "legends",
+        "ring",
+        "season",
+        "system"
+      ],
+      "at": "2026-08-17T14:53:59.322469+00:00",
+      "message_id": "1538923867672678451",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "Apex Legends Season 31 Could Introduce a New Ring System",
+      "link": "https://gameriv.com/apex-legends-season-31-could-introduce-a-new-ring-system/",
+      "color": 8141549,
+      "image_url": "https://gameriv.com/wp-content/uploads/2022/10/s-15-00-moon.png.adapt_.1920w-1-1024x621.jpg",
+      "base_description": "Apex Legends Season 31 could introduce a major change to one of the battle royale’s oldest systems. Respawn has already confirmed that a new Battle Royale feature is planned for Season 31, and the imagery attached to it has sparked speculation that the Ring could finally be getti"
+    },
+    {
+      "words": [
+        "blade",
+        "date",
+        "how",
+        "phantom",
+        "play",
+        "start",
+        "state",
+        "time",
+        "watch",
+        "zero"
+      ],
+      "at": "2026-08-17T14:53:59.322469+00:00",
+      "message_id": "1538923888526762097",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Phantom Blade Zero State Of Play—Start Time, Date & How To Watch",
+      "link": "https://insider-gaming.com/phantom-blade-zero-state-of-play-start-time-date-how-to-watch/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Here are all the details you'll need for the Phantom Blade Zero State of Play, including when and where to watch. The post Phantom Blade Zero State Of Play—Start Time, Date & How To Watch appeared first on Insider Gaming ."
     }
   ]
 }
