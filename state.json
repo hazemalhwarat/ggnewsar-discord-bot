@@ -8110,7 +8110,8 @@
     "https://gameriv.com/marathons-ordnance-heist-event-introduces-firestorm-a-six-shot-explosive-rifle/",
     "https://esports.gg/guides/call-of-duty/how-to-redeem-your-modern-warfare-4-beta-code/",
     "https://gameriv.com/valorant-season-2026-act-5-battle-pass-all-skins-free-rewards-price-and-more/",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1cndVOF9IMHd2TTlQNDhaM3NJakhuNGhnQlgwWTI0ZUFCTDRSSVY1SEtIRUhWUjJuTWlEcDJHUkxCU1lTdklQYV80YXF4bkJHeDFN?oc=5"
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1cndVOF9IMHd2TTlQNDhaM3NJakhuNGhnQlgwWTI0ZUFCTDRSSVY1SEtIRUhWUjJuTWlEcDJHUkxCU1lTdklQYV80YXF4bkJHeDFN?oc=5",
+    "https://www.hotspawn.com/counter-strike/news/best-amphibious-gloves-knife-combos-in-cs2"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16209,7 +16210,8 @@
     "8d1c53b334a99bfac866c6c1796ce58d",
     "7ac127b0607f3d41b619ef18d4022282",
     "32f009252066757d946f329129ef84a3",
-    "cb64e562fe1117b8650c86132b5c1211"
+    "cb64e562fe1117b8650c86132b5c1211",
+    "e49dfc9eca759a581f7bf9b880c063e2"
   ],
   "transfers": {
     "pages": {
@@ -22690,6 +22692,27 @@
       "color": 8141549,
       "image_url": "https://gameriv.com/wp-content/uploads/2026/08/VALORANT-GOURMAND-Skin-.jpg",
       "base_description": "Riot Games has revealed the VALORANT Season 2026 Act 5 Battle Pass, giving players their first proper look at the new weapon skins, free rewards, player cards, sprays, buddies, and more. The new Battle Pass arrives alongside Act 5 on August 18, 2026. This time around, Riot is lea"
+    },
+    {
+      "words": [
+        "amphibious",
+        "best",
+        "combos",
+        "cs2",
+        "gloves",
+        "knife"
+      ],
+      "at": "2026-08-17T23:41:33.793852+00:00",
+      "message_id": "1539056635694162042",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "Best Amphibious Gloves Knife Combos in CS2",
+      "link": "https://www.hotspawn.com/counter-strike/news/best-amphibious-gloves-knife-combos-in-cs2",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Sport-Gloves-Amphibious-M9-Bayonet-Doppler-Sapphire.jpg",
+      "base_description": "Counter-Strike players looking for premium blue gloves rarely look beyond the Sport Gloves Amphibious. This pair goes well with lots of knives in CS2, so you’re spoilt for choice. I’ve taken a look at some of the best Amphibious gloves knife combos in CS2 to see which ones are wo"
     }
   ]
 }
