@@ -8043,7 +8043,12 @@
     "https://www.invenglobal.com/articles/24836/son-dae-young-a-first-generation-leader-returns-to-chase-an-unfulfilled-dream",
     "https://www.invenglobal.com/articles/24835/both-alliances-score-a-win-key-highlights-of-the-9th-siege-war",
     "https://www.invenglobal.com/articles/24834/teddy-i-used-to-get-overexcited-against-kiwoom-but-today-we-stayed-composed",
-    "https://www.invenglobal.com/articles/24833/hanjin-brion-secures-first-win-against-kiwoom-clinches-play-in-spot"
+    "https://www.invenglobal.com/articles/24833/hanjin-brion-secures-first-win-against-kiwoom-clinches-play-in-spot",
+    "https://insider-gaming.com/biggest-goty-contenders-2026/",
+    "https://insider-gaming.com/complete-star-wars-zero-company-trophy-list-how-to-get-all-achievements-trophies/",
+    "https://insider-gaming.com/valorant-aeris-collection-revealed-riot-games/",
+    "https://insider-gaming.com/hecz-offers-to-buy-dopest-pcs-in-world-cod-league/",
+    "https://www.hotspawn.com/fortnite/news/fortnite-sprite-spree"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16088,7 +16093,12 @@
     "2e41137873d5ae164d6082f044fbd566",
     "3b62965a40a8a65189693787241bb728",
     "9bf58f387a0a8c5049bdbcb4b6fe7c3a",
-    "dc3f79cba225dd5bc4ed1c9082957269"
+    "dc3f79cba225dd5bc4ed1c9082957269",
+    "3d999a49575ad43b593263811de20ceb",
+    "16c20ba156e098266a5c10982d0850ab",
+    "7cd1d40a16064382686a4ad29ddd4fe0",
+    "528a3f36239840b8d6e5346b5b11fbc3",
+    "d11ec32dc6614d9ef9c6aa76c4255a8a"
   ],
   "transfers": {
     "pages": {
@@ -22274,6 +22284,118 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/roblox1.png?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "The US Senate Judiciary Subcommittee on Crime and Counterterrorism has launched an investigation into Roblox, saying the platform \"appears to prioritise revenue and engagement metrics\" over child safety. Read more"
+    },
+    {
+      "words": [
+        "2026",
+        "biggest",
+        "contenders",
+        "goty",
+        "release",
+        "still"
+      ],
+      "at": "2026-08-17T13:56:06.373106+00:00",
+      "message_id": "1538909301060407438",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "11 Biggest GOTY Contenders Still to Release in 2026",
+      "link": "https://insider-gaming.com/biggest-goty-contenders-2026/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "2026 has delivered some exceptional releases, and it's only set to continue toward the end of 2026 with more GOTY contenders. The post 11 Biggest GOTY Contenders Still to Release in 2026 appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "achievements",
+        "all",
+        "company",
+        "complete",
+        "get",
+        "how",
+        "list",
+        "star",
+        "trophies",
+        "trophy",
+        "wars",
+        "zero"
+      ],
+      "at": "2026-08-17T13:56:06.373106+00:00",
+      "message_id": "1538909316831256638",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Complete Star Wars Zero Company Trophy List—How To Get All Achievements & Trophies",
+      "link": "https://insider-gaming.com/complete-star-wars-zero-company-trophy-list-how-to-get-all-achievements-trophies/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The trophy list for Star Wars Zero Company is here, so check it out if you want to work towards getting 100% completion. The post Complete Star Wars Zero Company Trophy List—How To Get All Achievements & Trophies appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "aeris",
+        "collection",
+        "riot",
+        "unveiled",
+        "valorant"
+      ],
+      "at": "2026-08-17T13:56:06.373106+00:00",
+      "message_id": "1538909332207444021",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "VALORANT ‘Aeris Collection’ Unveiled by Riot Games",
+      "link": "https://insider-gaming.com/valorant-aeris-collection-revealed-riot-games/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Riot Games has lifted the lid on VALORANT's new Aeris Collection, landing with Act 5 on August 18, and it looks sweet. The post VALORANT ‘Aeris Collection’ Unveiled by Riot Games appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "buy",
+        "call",
+        "dopest",
+        "duty",
+        "hecz",
+        "league",
+        "offers",
+        "pcs",
+        "world"
+      ],
+      "at": "2026-08-17T13:56:06.373106+00:00",
+      "message_id": "1538909347084632185",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "HECZ Offers To Buy ‘Dopest PCs in the World’ For Call of Duty League",
+      "link": "https://insider-gaming.com/hecz-offers-to-buy-dopest-pcs-in-world-cod-league/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Hector 'HECZ' Rodriguez has offered to buy the Call of Duty League an array of incredible PCs to account for constant technical issues. The post HECZ Offers To Buy ‘Dopest PCs in the World’ For Call of Duty League appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "event",
+        "fortnite",
+        "spree",
+        "sprite",
+        "what"
+      ],
+      "at": "2026-08-17T13:56:06.373106+00:00",
+      "message_id": "1538909361831805090",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "What is the Fortnite Sprite Spree Event?",
+      "link": "https://www.hotspawn.com/fortnite/news/fortnite-sprite-spree",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/06/Holofoil-Sprites-Fortnite1.webp",
+      "base_description": "To close out C7 S3, we’re getting a brand-new event. The Fortnite Sprite Spree. It’s the equivalent of a new Sprite day or Power Hour like we’ve seen all season. But the big difference is that it’s happening every day of the week. This should help players finish off those final f"
     }
   ]
 }
