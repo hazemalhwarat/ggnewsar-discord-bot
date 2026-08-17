@@ -162,9 +162,12 @@ MESSAGE_DELAY_SECONDS = 1.0
 # RSS freshness window: ignore items older than this
 MAX_AGE_HOURS = 24
 
-# State ring sizes
-SEEN_URLS_RING = 8000
-SEEN_TITLES_RING = 8000
+# State ring sizes. Raised from 8000 (2026-08-17): with ~200 feeds now
+# configured (see feeds.py), plus the skip_old fix above already cutting
+# churn a lot, this is extra headroom so a real fresh/relevant link can't
+# get pushed out before it naturally ages past MAX_AGE_HOURS.
+SEEN_URLS_RING = 30000
+SEEN_TITLES_RING = 30000
 
 # RSS parallel fetch settings
 RSS_FETCH_WORKERS = 40
@@ -210,8 +213,28 @@ PRIORITY_ORDER = {"high": 0, "normal": 1, "low": 2}
 # defaults to "عالمي".
 REGION_HINT_MAP = {"jordan": "محلي", "mena": "مينا"}
 
-# Strip "Source - Article Title" patterns from RSS titles for dedup
-SOURCE_SUFFIX_RE = re.compile(r"\s*[\-\|\u2013\u2014:]\s*[^\-\|\u2013\u2014:]{1,40}$")
+# Strip "Article Title - Source" trailing patterns from RSS titles for
+# dedup (e.g. "Falcons win IEM Cologne - HLTV.org" -> "Falcons win IEM
+# Cologne"). FIX (2026-08-17): the previous version used `\s*` (zero or
+# more spaces) around the hyphen/pipe/dash separator, which meant it also
+# matched the bare hyphen INSIDE a match score with no surrounding spaces
+# ("Legacy 2-0 MIBR to claim last EWC playoff spot" -> everything from
+# "-0" onward got deleted, leaving just "legacy 2"). Since esports
+# headlines constantly contain scores like this, that one bug silently
+# gutted normalize_title()/title_hash()/significant_words() for a huge
+# share of real headlines down to 0-1 meaningful words, which in turn
+# broke titles_match()'s "same story, different source/run" fallback
+# (it requires >= 2 shared words) and let already-sent stories be
+# re-sent as if new. Requiring a real space on both sides of the
+# hyphen/pipe/dash (scores never have one: "2-0", never "2 - 0") fixes
+# this while still stripping genuine "Title - Source"/"Title | Source"
+# suffixes. Colon suffixes ("Recap: Falcons Advance") keep the looser
+# "optional space before, required space after" rule since that matches
+# how colons are actually used in headlines.
+SOURCE_SUFFIX_RE = re.compile(
+    r"\s+[\-\|\u2013\u2014]\s+[^\-\|\u2013\u2014:]{1,40}$"
+    r"|\s*:\s+[^\-\|\u2013\u2014:]{1,40}$"
+)
 
 # ------------------------------------------------------------
 # Cross-source correlation (lightweight, no extra network calls)
@@ -894,9 +917,21 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
 
             t_hash = title_hash(title)
             if not is_fresh(entry, MAX_AGE_HOURS):
+                # FIX (2026-08-17): don't spend ring capacity on stale
+                # items. An item's age only ever increases, so anything
+                # that fails freshness now will fail it again on every
+                # future run regardless of whether it's "seen" — tracking
+                # it here bought nothing but ate ring slots. With ~180
+                # feeds (many broad Google News searches returning lots
+                # of old/irrelevant entries every run) this was silently
+                # cycling ~40% of the entire 8000-slot ring on a single
+                # run, which evicted still-fresh, still-relevant links
+                # (like a same-day HLTV article) long before they aged
+                # out of the real MAX_AGE_HOURS window — making the bot
+                # treat a link it already sent hours earlier as brand
+                # new again. See also SEEN_URLS_RING/SEEN_TITLES_RING
+                # below, raised as extra headroom on top of this fix.
                 stats["skip_old"] += 1
-                seen_urls.add(link); state["urls"].append(link)
-                seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
                 continue
             if t_hash in seen_titles:
                 stats["skip_dup_title"] += 1
