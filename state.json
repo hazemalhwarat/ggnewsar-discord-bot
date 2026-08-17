@@ -8085,7 +8085,12 @@
     "https://insider-gaming.com/will-lol-hall-of-legends-keep-rotating-regions/",
     "https://insider-gaming.com/win-a-call-of-duty-modern-warfare-4-beta-key-from-insider-gaming/",
     "https://esports.gg/news/overwatch/overwatch-x-mcdonalds-collab-gets-kiriko-donut-emote/",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE91WnJYenQxN1N6SHgtbjdtLVlWYVd0ZkJ1U0x2d205d2dQbXFHRjA2eXlhbFFBbWExNTJLSmNWSFduWDB0alZRVkN6Vi0yZVljTk00NnVQOGxMMHJNNnJNdlZRUkw0aHVtcWJr?oc=5"
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE91WnJYenQxN1N6SHgtbjdtLVlWYVd0ZkJ1U0x2d205d2dQbXFHRjA2eXlhbFFBbWExNTJLSmNWSFduWDB0alZRVkN6Vi0yZVljTk00NnVQOGxMMHJNNnJNdlZRUkw0aHVtcWJr?oc=5",
+    "https://insider-gaming.com/how-to-pre-order-t1-worlds-2025-winner-riftbound-cards/",
+    "https://esportsinsider.com/2026/08/china-dota-2-teams-dead",
+    "https://esportsinsider.com/2026/08/hungrybox-pop-off-situation",
+    "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet-2/",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oVFFlSEt2WHVHeVdFNllzV1Y5c2Vkb21EVXNlbVIyQ0ZzUWtvNlZ2U25TcnFHenJWcUNBejNiTnR5QTNPUDZjMk5SR2JkME5aVGc0dTVXaGhQdXM?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16167,7 +16172,10 @@
     "2cb7f4b204df3863f7b2574d14224385",
     "298edff6b631723c821906580bc4f7a3",
     "e157a328b50fbc7e5d1e5ce315197090",
-    "523611b2d6cf39f0e5456c0a9c346bbd"
+    "523611b2d6cf39f0e5456c0a9c346bbd",
+    "747f6857b21b04880863fb4bfb543042",
+    "1370b3043c90d7e255e8db2abbc2a960",
+    "9e16df0ad1d1487303be19ec657ec57e"
   ],
   "transfers": {
     "pages": {
@@ -20362,44 +20370,6 @@
   "sent_stories": [
     {
       "words": [
-        "astralis",
-        "beat",
-        "ewc",
-        "make",
-        "nip",
-        "playoffs"
-      ],
-      "at": "2026-08-16T19:16:45.853281+00:00",
-      "message_id": "1538627608957157528",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV",
-        "Fragster (via Google News bridge, native feed dead)"
-      ],
-      "title": "Astralis beat NIP to make EWC playoffs",
-      "link": "https://www.hltv.org/news/45324/astralis-beat-nip-to-make-ewc-playoffs",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/wBjegJTb-Cb4_IXuPYuYcv.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=d635f893437c06824a53bcd3d6e7092b",
-      "base_description": "HooXi's men bounced back from a loss to Falcons to secure the penultimate spot in the bracket stage."
-    },
-    {
-      "words": [
-        "short"
-      ],
-      "at": "2026-08-16T19:16:45.853281+00:00",
-      "message_id": "1538627624958689382",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Short news: Week 32",
-      "link": "https://www.hltv.org/news/45272/short-news-week-32",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Catch up with more Counter-Strike news in bite-sized pieces."
-    },
-    {
-      "words": [
         "legacy"
       ],
       "at": "2026-08-16T19:54:59.941655+00:00",
@@ -22605,6 +22575,82 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "The Kiriko Donut Break emote in Overwatch can be unlocked through a new McDonald's promotion."
+    },
+    {
+      "words": [
+        "2025",
+        "cards",
+        "how",
+        "order",
+        "pre",
+        "riftbound",
+        "winner",
+        "worlds"
+      ],
+      "at": "2026-08-17T19:41:38.353790+00:00",
+      "message_id": "1538996257161351250",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "How to Pre-Order T1 Worlds 2025 Winner Riftbound Cards",
+      "link": "https://insider-gaming.com/how-to-pre-order-t1-worlds-2025-winner-riftbound-cards/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "It’s not long now until Riot releases the highly anticipated T1 set for League of Legends card game, Riftbound. To commemorate T1’s LoL Worlds 2025 win, the T1 players are getting their in-game Worlds skins made into rare Riftbound cards. There will be two sets released: a playab"
+    },
+    {
+      "words": [
+        "care",
+        "china",
+        "don",
+        "dota",
+        "eliminated",
+        "even",
+        "seem",
+        "they",
+        "ti15",
+        "worse"
+      ],
+      "at": "2026-08-17T19:41:38.353790+00:00",
+      "message_id": "1538996272134881412",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Insider"
+      ],
+      "title": "China’s Dota 2 teams are eliminated from TI15, and even worse, they don’t seem to care",
+      "link": "https://esportsinsider.com/2026/08/china-dota-2-teams-dead",
+      "color": 8141549,
+      "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/55467142269_bae5a1851f_k-large.jpg",
+      "base_description": "For the first time in Dota 2 history, zero Chinese teams have qualified for the top eight of The International, with Xtreme Gaming, Vici Gaming, and Team Resilience exiting TI15 in the group stage. This stings even more, as this year’s iteration is being hosted in Shanghai – thei"
+    },
+    {
+      "words": [
+        "2026",
+        "ceo",
+        "distracting",
+        "fainting",
+        "far",
+        "gone",
+        "have",
+        "hungrybox",
+        "offs",
+        "opponents",
+        "pop",
+        "supernova",
+        "too"
+      ],
+      "at": "2026-08-17T19:41:38.353790+00:00",
+      "message_id": "1538996287159140365",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Insider"
+      ],
+      "title": "Fainting at Supernova, distracting opponents at CEO 2026: Have Hungrybox’s pop-offs gone too far? No",
+      "link": "https://esportsinsider.com/2026/08/hungrybox-pop-off-situation",
+      "color": 8141549,
+      "image_url": "https://esportsinsider.com/wp-content/uploads/2025/06/hungrybox-pop-off-large.jpeg",
+      "base_description": "The art of the pop-off has been perfected in Super Smash Bros. Melee. A grassroots scene known for its grit and passion, the sets can get quite intense, leading to some intense celebrations once someone beats a longtime rival or wins an incredibly difficult match. One of the most"
     }
   ]
 }
