@@ -8048,7 +8048,8 @@
     "https://insider-gaming.com/complete-star-wars-zero-company-trophy-list-how-to-get-all-achievements-trophies/",
     "https://insider-gaming.com/valorant-aeris-collection-revealed-riot-games/",
     "https://insider-gaming.com/hecz-offers-to-buy-dopest-pcs-in-world-cod-league/",
-    "https://www.hotspawn.com/fortnite/news/fortnite-sprite-spree"
+    "https://www.hotspawn.com/fortnite/news/fortnite-sprite-spree",
+    "https://esports-news.co.uk/2026/08/17/esports-weekend-review-aug-17/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16098,7 +16099,8 @@
     "16c20ba156e098266a5c10982d0850ab",
     "7cd1d40a16064382686a4ad29ddd4fe0",
     "528a3f36239840b8d6e5346b5b11fbc3",
-    "d11ec32dc6614d9ef9c6aa76c4255a8a"
+    "d11ec32dc6614d9ef9c6aa76c4255a8a",
+    "bf5dc21cbac434d39e3b3b4577fde85b"
   ],
   "transfers": {
     "pages": {
@@ -20293,52 +20295,6 @@
   "sent_stories": [
     {
       "words": [
-        "all",
-        "eliminated",
-        "group",
-        "stage",
-        "ti15"
-      ],
-      "at": "2026-08-16T14:01:17.415359+00:00",
-      "message_id": "1538548218046976011",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "All Teams Eliminated from TI15 Group Stage",
-      "link": "https://www.hotspawn.com/dota2/news/all-teams-eliminated-from-ti15-group-stage",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/55466960691_ecf1b38a33_k-1.jpg",
-      "base_description": "Unfortunately, not everyone can be a winner at Dota 2’s The International 2026 (TI15) tournament, and that was made apparent when eight teams were sent packing in the Group Stage. Before we head into the playoffs, let’s check out the eight teams who were already eliminated from t"
-    },
-    {
-      "words": [
-        "cup",
-        "fall",
-        "food",
-        "ill",
-        "mobile",
-        "players",
-        "poisoning",
-        "pubg",
-        "suspected",
-        "world"
-      ],
-      "at": "2026-08-16T14:01:17.415359+00:00",
-      "message_id": "1538548232706072628",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "PUBG Mobile rumors (Google News bridge)",
-        "Esports Nations Cup 2026"
-      ],
-      "title": "20 PUBG Mobile Players Fall Ill with Suspected Food Poisoning at Esports World Cup - hypefresh.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmV4WXljOHZWMFM2a3pndFpGZy1fMUpmZHRpalE2N2VJM0RQWGhnR0gzQXdPT0MxVGFkM3FqQkhuc3ptOENxUnhaUUtWRW1kYmYxSXBReW5QY2pBbXFOS1NJcFFoNDJEUVhHSlQ2RURIaTJLT2ViQ1dSdUpfUjEyS2hUbXd1WW9oeElGSWlvbWhScWdMUWlldEkyUXFCaVM3aVBMeHNPdjJwWTRTcHc?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "20 PUBG Mobile Players Fall Ill with Suspected Food Poisoning at Esports World Cup hypefresh.com"
-    },
-    {
-      "words": [
         "short"
       ],
       "at": "2026-08-16T14:27:54.575049+00:00",
@@ -22396,6 +22352,31 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/06/Holofoil-Sprites-Fortnite1.webp",
       "base_description": "To close out C7 S3, we’re getting a brand-new event. The Fortnite Sprite Spree. It’s the equivalent of a new Sprite day or Power Hour like we’ve seen all season. But the big difference is that it’s happening every day of the week. This should help players finish off those final f"
+    },
+    {
+      "words": [
+        "cs2",
+        "ewc",
+        "faze",
+        "groups",
+        "heats",
+        "review",
+        "unbeaten",
+        "vision",
+        "weekend",
+        "win"
+      ],
+      "at": "2026-08-17T14:21:38.195833+00:00",
+      "message_id": "1538915725736157245",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports News UK"
+      ],
+      "title": "Esports Weekend Review: FaZe win R6 EWC, Team Vision go unbeaten in TI Groups, CS2 EWC Heats Up",
+      "link": "https://esports-news.co.uk/2026/08/17/esports-weekend-review-aug-17/",
+      "color": 8141549,
+      "image_url": "https://esports-news.co.uk/wp-content/uploads/2026/08/HPyc3QLWoAAuSKS-300x200.jpg",
+      "base_description": "Even past the mid-point of August, the esports world is still rife with high-profile tournaments entering their decisive phases. Over the weekend, FaZe Clan dominated Rainbow Six Siege to claim the Esports World Cup (EWC 2026) title, while Team Vision tore through opponents in Th"
     }
   ]
 }
