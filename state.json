@@ -8107,7 +8107,8 @@
     "https://gameriv.com/apex-legends-controller-aim-assist-nerfed-as-accuracy-drops-2-4/",
     "https://www.hotspawn.com/valorant/news/can-team-heretics-qualify-for-valorant-champions",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEVXdU93c1hOc3JzX0tPVXkyUk5pVFJaX0JmVnJmNXM5MGZtVzRZXzRlb0pkYmhVNDV0OFhkSktwZlZId0NSMVBGdTk0Znd3M2dqVl9lYWxxdmlJaEpwWll0c0hpOEhuMHJCOHZNWGN2Q0I2eDRERGtGZmdqZUdKbmtNOW5UX2xFUi1VV253?oc=5",
-    "https://gameriv.com/marathons-ordnance-heist-event-introduces-firestorm-a-six-shot-explosive-rifle/"
+    "https://gameriv.com/marathons-ordnance-heist-event-introduces-firestorm-a-six-shot-explosive-rifle/",
+    "https://esports.gg/guides/call-of-duty/how-to-redeem-your-modern-warfare-4-beta-code/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16203,7 +16204,8 @@
     "32825fb3262474ade48c0c6e1c207082",
     "55e9384c29f580d1de742bf79fba6da2",
     "11da319625f954547f3b3cd4a63f6ea7",
-    "8d1c53b334a99bfac866c6c1796ce58d"
+    "8d1c53b334a99bfac866c6c1796ce58d",
+    "7ac127b0607f3d41b619ef18d4022282"
   ],
   "transfers": {
     "pages": {
@@ -20396,38 +20398,6 @@
     }
   ],
   "sent_stories": [
-    {
-      "words": [
-        "legacy"
-      ],
-      "at": "2026-08-16T21:57:20.662155+00:00",
-      "message_id": "1538668020086341644",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Legacy 2-0 MIBR to claim last EWC playoff spot",
-      "link": "https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/6YT_bZ8UKvO0Of458FhO0Y.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=2cb7b7fda448651c080b6bd30e713510",
-      "base_description": "Legacy allowed MIBR to get their foot in the door on both maps, but were ultimately in control of the series."
-    },
-    {
-      "words": [
-        "short"
-      ],
-      "at": "2026-08-16T22:14:45.794403+00:00",
-      "message_id": "1538672403494735964",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Short news: Week 32",
-      "link": "https://www.hltv.org/news/45272/short-news-week-32",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Catch up with more Counter-Strike news in bite-sized pieces."
-    },
     {
       "words": [
         "legacy"
