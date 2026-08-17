@@ -8053,7 +8053,13 @@
     "https://gameriv.com/apex-legends-season-31-could-introduce-a-new-ring-system/",
     "https://gameriv.com/valorant-aeris-skin-bundle/",
     "https://insider-gaming.com/phantom-blade-zero-state-of-play-start-time-date-how-to-watch/",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaWQ0X0VZaVdRLU9hV0VOYy1GRk15cUFlVGdON3NEc2stck1XMjdneWVtNFU5eFI0MEdXUFU0N3h5M0lEZkdXOEJKTk52czlQQUpPTzY2aWJvclZmakY2ZFpyZFAxeHJoRkpZZXhlYnpRZ0s3NmJIQ0dUYzNYYTdZc1RVdHk3aThkMkR5OURVSEVUUkQ2dGMtODhqbUlfX0xIM3kxVUZWU2p4c1J6WTNfRmc5UWpXWktNbmozc19RMVR2YWdScF9v?oc=5"
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaWQ0X0VZaVdRLU9hV0VOYy1GRk15cUFlVGdON3NEc2stck1XMjdneWVtNFU5eFI0MEdXUFU0N3h5M0lEZkdXOEJKTk52czlQQUpPTzY2aWJvclZmakY2ZFpyZFAxeHJoRkpZZXhlYnpRZ0s3NmJIQ0dUYzNYYTdZc1RVdHk3aThkMkR5OURVSEVUUkQ2dGMtODhqbUlfX0xIM3kxVUZWU2p4c1J6WTNfRmc5UWpXWktNbmozc19RMVR2YWdScF9v?oc=5",
+    "https://dotesports.com/general/news/esports-leaders-paris-agenda-speakers",
+    "https://insider-gaming.com/cod-next-2026-showcase-date-time/",
+    "https://gameriv.com/arc-raiders-ermal-offers-rotation-all-weekly-trades/",
+    "https://esports.gg/news/ea-sports-fc-25/light-defeats-jm-2026-fsl-summer/",
+    "https://traxion.gg/dtm-esports-2026-tim-jarschel-wins-championship-with-supreme-performance-at-lan-final/",
+    "https://traxion.gg/gt-omega-confirms-simracing-expo-frankfurt-attendance/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16107,7 +16113,13 @@
     "bf5dc21cbac434d39e3b3b4577fde85b",
     "e2570563e5b72d8add60a4c105f04ce3",
     "c99cbd2dede8f55516750889f48b210a",
-    "85cad7a4b519a6f3bf4a1ee2f67a3e7f"
+    "85cad7a4b519a6f3bf4a1ee2f67a3e7f",
+    "67c1f60e15b8c55b99d2532a953dfedc",
+    "32faefb80fc424b967026edf45402c7d",
+    "2f26be5267c40ff9d099d66c10d68443",
+    "0d6b272fd73248c1fe626022b415cd03",
+    "a4dee1e0feb1eb09532af76188ad405c",
+    "6a6b67075f89e746bfcfca6f96e4daaa"
   ],
   "transfers": {
     "pages": {
@@ -20302,32 +20314,6 @@
   "sent_stories": [
     {
       "words": [
-        "biggest",
-        "caps",
-        "hall",
-        "highlights",
-        "induction",
-        "legends",
-        "problem"
-      ],
-      "at": "2026-08-16T15:15:16.692112+00:00",
-      "message_id": "1538566843290099815",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn",
-        "Esports.gg",
-        "Dot Esports",
-        "Insider Gaming",
-        "The Esports Radar"
-      ],
-      "title": "Caps’ Induction Highlights Hall of Legends’ Biggest Problem",
-      "link": "https://www.hotspawn.com/league-of-legends/news/caps-hall-of-legends-debate",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Hotspawn-Caps-Hall-of-Legends-system-debate-1125x633.webp",
-      "base_description": "Rasmus “Caps” Borregaard Winther has officially become the third player inducted into the League of Legends Hall of Legends, joining Lee “Faker” Sang-hyeok and Jian “Uzi” Zi-Hao as its first Western representative. Caps’ selection has inevitably sparked debate, but his individual"
-    },
-    {
-      "words": [
         "comeback",
         "deny",
         "ewc",
@@ -21656,7 +21642,8 @@
       "message_id": "1538877646874746931",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "The Esports Radar"
+        "The Esports Radar",
+        "Dot Esports"
       ],
       "title": "Esports Leaders Paris finalises agenda and line up",
       "link": "https://esportsradar.gg/esports-leaders-paris-finalises-agenda-and-line-up/",
@@ -22371,6 +22358,98 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Here are all the details you'll need for the Phantom Blade Zero State of Play, including when and where to watch. The post Phantom Blade Zero State Of Play—Start Time, Date & How To Watch appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "arc",
+        "ermal",
+        "offers",
+        "raiders",
+        "rotation"
+      ],
+      "at": "2026-08-17T15:20:13.020288+00:00",
+      "message_id": "1538930480609624137",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "ARC Raiders Ermal Offers Rotation: All Weekly Trades",
+      "link": "https://gameriv.com/arc-raiders-ermal-offers-rotation-all-weekly-trades/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Ermal is back with another ARC Raiders weekly offers rotation, bringing several useful trades for Raiders between August 17 and August 23, 2026. This week’s selection includes the Pocket Radar backpack charm, the Photoelectric Cloak gadget, and the highly useful Extended Medium M"
+    },
+    {
+      "words": [
+        "2026",
+        "bids",
+        "bracket",
+        "comeback",
+        "fsl",
+        "into",
+        "light",
+        "storms",
+        "summer",
+        "survives",
+        "winner"
+      ],
+      "at": "2026-08-17T15:20:13.020288+00:00",
+      "message_id": "1538930495063199838",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Light survives JM’s comeback bids, storms into 2026 FSL Summer winner’s bracket",
+      "link": "https://esports.gg/news/ea-sports-fc-25/light-defeats-jm-2026-fsl-summer/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Kim Sun-jae's 'Light' survives two comeback attempts from JM to book a winner's bracket spot at the Jamsil DN Coliseum."
+    },
+    {
+      "words": [
+        "2026",
+        "championship",
+        "dtm",
+        "final",
+        "jarschel",
+        "lan",
+        "performance",
+        "supreme",
+        "tim",
+        "wins"
+      ],
+      "at": "2026-08-17T15:20:13.020288+00:00",
+      "message_id": "1538930509852188694",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Traxion.gg Esports"
+      ],
+      "title": "DTM Esports 2026: Tim Jarschel wins championship with supreme performance at LAN final",
+      "link": "https://traxion.gg/dtm-esports-2026-tim-jarschel-wins-championship-with-supreme-performance-at-lan-final/",
+      "color": 8141549,
+      "image_url": "https://www.youtube.com/embed/5Se0NMZONPQ",
+      "base_description": "Four podiums in four races secured him the title by 22 points, with the prize of a guest start in the M2 Cup at the Hockenheimring to come. The post DTM Esports 2026: Tim Jarschel wins championship with supreme performance at LAN final appeared first on Traxion.GG ."
+    },
+    {
+      "words": [
+        "attendance",
+        "confirms",
+        "expo",
+        "frankfurt",
+        "omega",
+        "simracing"
+      ],
+      "at": "2026-08-17T15:20:13.020288+00:00",
+      "message_id": "1538930524868055102",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Traxion.gg Esports"
+      ],
+      "title": "GT Omega confirms SimRacing Expo Frankfurt attendance",
+      "link": "https://traxion.gg/gt-omega-confirms-simracing-expo-frankfurt-attendance/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Scottish sim racing supplier GT Omega has confirmed it will be exhibiting its products at this year's SimRacing Expo Frankfurt, 16th-18th October. The post GT Omega confirms SimRacing Expo Frankfurt attendance appeared first on Traxion.GG ."
     }
   ]
 }
