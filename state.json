@@ -8316,7 +8316,8 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE05cFdwZWtJeko4SmltdF9mck1hd2c4QWJaSGRXMXpST1d2SERjME9RbHVfU1pHQXFLYmlaMEl4a3BpNlQzdkVjT05ERTl2ZEhPZUZqcmpuQVVOY1FqSlVCT0k4OWtnbk5Fdnc?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzVvMDhaYzhoLWJKd3JfeVVzTmNXLTJCV1BUMU5IeUR0MzFHNlNac3RQN09UOUlTMHFTb2VnX2pKNEd4VGpoYVM4NWxnNk9YSVNlS2xoYzBZNFhqbkpPUGVGd242d19HbG9LMUQ1anJpWVNCdGpURlphWmNEZUVseTFVbGlCbVI5LXNGZzhuODBWeU0?oc=5",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12WGt6b2E2Tkw0d1dkR2VyRk5rWEhnQi1FU2huYkNEdGNXalVBck5RYlRldGlJcGhhamtQcEV4eEoxWUV4MmpMQmI5bDhYakxSd014Yg?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYTlFczl2N1ZXak9BRWNsWjI0SDNBTWR4eERQTHZVaHp5VFRPajZ3VTRIR3IydDJJOWhTNngxaUhOajFSYzY4M1M5eTNQVW5iSjJMYlNDbHdFVS00SXZucDJCLXN1NnlHNmZZZlR3a0RHemhOSkdjemRSWk9TNFpFV2FoQk1EN2NkdWM4Ty1MTdIBlgFBVV95cUxPUHYwOUtiZF9SV2hrQklGRFJiX0d4SEhIek9zOXYybUZ1eEZHT3BsLUt5dXVONEZxWWhmRENveGN0Q0ZDQTJHQ3kyYmZJTlJoRWdmZlBlQVJoRDlXZzB3Y0poZm42VmN1MzA0SURvMTJHZG5MY0R1eFo0bW10Tk5LQUhETWNUSDJaY1M3enA3T0JpbHh4eUE?oc=5"
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYTlFczl2N1ZXak9BRWNsWjI0SDNBTWR4eERQTHZVaHp5VFRPajZ3VTRIR3IydDJJOWhTNngxaUhOajFSYzY4M1M5eTNQVW5iSjJMYlNDbHdFVS00SXZucDJCLXN1NnlHNmZZZlR3a0RHemhOSkdjemRSWk9TNFpFV2FoQk1EN2NkdWM4Ty1MTdIBlgFBVV95cUxPUHYwOUtiZF9SV2hrQklGRFJiX0d4SEhIek9zOXYybUZ1eEZHT3BsLUt5dXVONEZxWWhmRENveGN0Q0ZDQTJHQ3kyYmZJTlJoRWdmZlBlQVJoRDlXZzB3Y0poZm42VmN1MzA0SURvMTJHZG5MY0R1eFo0bW10Tk5LQUhETWNUSDJaY1M3enA3T0JpbHh4eUE?oc=5",
+    "https://esportsinsider.com/2026/08/esports-world-cup-fgc-reaction"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16577,7 +16578,8 @@
     "d16a8b602bdb7fda0792ecd8d313a625",
     "40c87c2528540ac3c7187415c44e2114",
     "fece42698bba9617663fe88f45b94b2d",
-    "9e2611b002cfe5439d3a1ebe1d3c395d"
+    "9e2611b002cfe5439d3a1ebe1d3c395d",
+    "31050715b320aa45673f0a347c4f6483"
   ],
   "transfers": {
     "pages": {
@@ -20772,92 +20774,6 @@
   "sent_stories": [
     {
       "words": [
-        "best",
-        "character",
-        "crosshair",
-        "each",
-        "overwatch"
-      ],
-      "at": "2026-08-17T21:20:21.541840+00:00",
-      "message_id": "1539021100682575944",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "Best crosshair for each Overwatch character",
-      "link": "https://dotesports.com/overwatch/news/best-crosshair-for-each-overwatch-2-character",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2023/03/overwatch-2-heroes-crosshair.jpg",
-      "base_description": "They could give you the edge in a fight."
-    },
-    {
-      "words": [
-        "accuracy",
-        "aim",
-        "apex",
-        "assist",
-        "controller",
-        "drops",
-        "legends",
-        "nerfed"
-      ],
-      "at": "2026-08-17T21:20:21.541840+00:00",
-      "message_id": "1539021115974877185",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GameRiv"
-      ],
-      "title": "Apex Legends Controller Aim Assist Nerfed as Accuracy Drops 2–4%",
-      "link": "https://gameriv.com/apex-legends-controller-aim-assist-nerfed-as-accuracy-drops-2-4/",
-      "color": 8141549,
-      "image_url": "https://gameriv.com/wp-content/uploads/2026/05/Apex-Legends-Controller-RC-FIlter-Exploit.jpg",
-      "base_description": "Apex Legends controller players have officially been dealing with weaker aim assist behavior following a major anti-cheat update, with Respawn confirming that controller accuracy has dropped by roughly 2–4% since the changes were introduced. Respawn says the difference is a side "
-    },
-    {
-      "words": [
-        "can",
-        "champions",
-        "heretics",
-        "qualify",
-        "valorant"
-      ],
-      "at": "2026-08-17T21:20:21.541840+00:00",
-      "message_id": "1539021131024175146",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "Can Team Heretics Qualify for VALORANT Champions?",
-      "link": "https://www.hotspawn.com/valorant/news/can-team-heretics-qualify-for-valorant-champions",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Team-Heretics-at-VCT-EMEA-Stage-2.jpg",
-      "base_description": "Team Heretics’ Stage 2 campaign is already over. The reigning Stage 1 champions fell to Eintracht Frankfurt in the Play-Ins lower bracket, a result that leaves them finishing 8th and completely locked out of the playoffs bracket. That would normally end any hope of reaching VALOR"
-    },
-    {
-      "words": [
-        "arrest",
-        "calls",
-        "cs2",
-        "out",
-        "over",
-        "polymarket",
-        "post",
-        "ropz"
-      ],
-      "at": "2026-08-17T21:20:21.541840+00:00",
-      "message_id": "1539021146434052129",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "CS2 rumors (Google News bridge)"
-      ],
-      "title": "ropz Calls Out Polymarket CS2 Over AI Arrest Post - Skin.Club Community",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEVXdU93c1hOc3JzX0tPVXkyUk5pVFJaX0JmVnJmNXM5MGZtVzRZXzRlb0pkYmhVNDV0OFhkSktwZlZId0NSMVBGdTk0Znd3M2dqVl9lYWxxdmlJaEpwWll0c0hpOEhuMHJCOHZNWGN2Q0I2eDRERGtGZmdqZUdKbmtNOW5UX2xFUi1VV253?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "ropz Calls Out Polymarket CS2 Over AI Arrest Post Skin.Club Community"
-    },
-    {
-      "words": [
         "event",
         "explosive",
         "firestorm",
@@ -23075,6 +22991,29 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "Here's how much the new Jetpack Cat items cost and where you can pre-order them."
+    },
+    {
+      "words": [
+        "asking",
+        "bad",
+        "cup",
+        "fgc",
+        "question",
+        "real",
+        "some",
+        "world"
+      ],
+      "at": "2026-08-18T21:46:47.873744+00:00",
+      "message_id": "1539390141804838954",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Insider"
+      ],
+      "title": "Some are asking, is the Esports World Cup bad for the FGC? The real question: Does it even matter?",
+      "link": "https://esportsinsider.com/2026/08/esports-world-cup-fgc-reaction",
+      "color": 8141549,
+      "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/street-fighter-6-ewc-large.webp",
+      "base_description": "The Esports World Cup has been a heavily debated event within the FGC. A segment of the esports scene that’s allergic to cringe and intoxicated by raw passion, the FGC has been largely against the EWC for quite some time. But is it actually a good thing for the fighting game scen"
     }
   ]
 }
