@@ -8127,7 +8127,9 @@
     "https://www.invenglobal.com/articles/24851/honkai-star-rail-version-45-a-gamble-cast-to-fate-updates-august-26",
     "https://www.invenglobal.com/articles/24850/nexus-partners-with-krwq-won-pegged-stablecoin-for-ai-and-global-game-payments",
     "https://www.invenglobal.com/articles/24849/eworldgame-selects-actor-park-ji-hwan-as-official-model-for-aqualand-crazy-survival",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcF9XWkZkSGhSYks3anNTbWt6eHY0VTlvUE9KaDk5N3piSXhlRTNrWHNZV0NSWDFWa1pJQnU0SVhlUVd5MERXV0ZqWWV6OFp4NDc5cnFzUUdxc1BuVklyUERWdXQ0SUdsNU9wZk52VmlGX0VFYUZhYzUzNDZwTmVqWmY5R2xremczOWJteFV1bw?oc=5"
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcF9XWkZkSGhSYks3anNTbWt6eHY0VTlvUE9KaDk5N3piSXhlRTNrWHNZV0NSWDFWa1pJQnU0SVhlUVd5MERXV0ZqWWV6OFp4NDc5cnFzUUdxc1BuVklyUERWdXQ0SUdsNU9wZk52VmlGX0VFYUZhYzUzNDZwTmVqWmY5R2xremczOWJteFV1bw?oc=5",
+    "https://dotesports.com/disney/guides/kingdom-hearts-4-everything-we-know",
+    "https://www.invenglobal.com/articles/24855/phantom-blade-zero-a-flashy-and-sophisticated-kung-fu-punk-experience"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16239,7 +16241,9 @@
     "082233aec66fce5435533025b4dcb440",
     "8e0786101a3d3fd576f1d3acfe2de88d",
     "34f4e71dd42fdc5add921cdf7694c379",
-    "ad6f765da3988177c7529604411af7ec"
+    "ad6f765da3988177c7529604411af7ec",
+    "311bbc17ccf3391db7034d748cbe3ea3",
+    "96c3ae968f7cce001115b6cf94df9d9a"
   ],
   "transfers": {
     "pages": {
@@ -18118,7 +18122,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-17T21:49:42.005588+00:00",
+  "last_health_alert": "2026-08-18T04:00:47.171457+00:00",
   "recent_titles": [
     {
       "words": [
@@ -20432,69 +20436,6 @@
     }
   ],
   "sent_stories": [
-    {
-      "words": [
-        "legacy"
-      ],
-      "at": "2026-08-17T03:27:44.889474+00:00",
-      "message_id": "1538751168954638359",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Legacy 2-0 MIBR to claim last EWC playoff spot",
-      "link": "https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/6YT_bZ8UKvO0Of458FhO0Y.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=2cb7b7fda448651c080b6bd30e713510",
-      "base_description": "Legacy allowed MIBR to get their foot in the door on both maps, but were ultimately in control of the series."
-    },
-    {
-      "words": [
-        "about",
-        "animals",
-        "date",
-        "editions",
-        "everything",
-        "know",
-        "more",
-        "planet",
-        "release",
-        "zoo"
-      ],
-      "at": "2026-08-17T03:27:44.889474+00:00",
-      "message_id": "1538751183831826434",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "Everything we know about Planet Zoo 2: Release date, editions, new animals, and more",
-      "link": "https://dotesports.com/planet-zoo/news/planet-zoo-2-release-date-editions-dlc-animals-price",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/planet-zoo-2-elephant-animals-habitat-detail.webp",
-      "base_description": "Get wild this fall."
-    },
-    {
-      "words": [
-        "cookie",
-        "explained",
-        "kingdom",
-        "legendary",
-        "run",
-        "tarts",
-        "topping"
-      ],
-      "at": "2026-08-17T03:27:44.889474+00:00",
-      "message_id": "1538751199073800208",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "Cookie Run Kingdom Legendary Topping Tarts Explained: How to get, upgrades, and more",
-      "link": "https://esports.gg/guides/cookie-run-kingdom/crk-legendary-topping-tart-guide/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Here's what you need to know about the Legendary Topping Tarts in Cookie Run Kingdom, including upgrading, bonus effects, rerolling, and more"
-    },
     {
       "words": [
         "short"
@@ -22896,6 +22837,50 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Linebacker Von Miller has agreed to a one-year deal to sign with the Dallas Cowboys, according to ESPN’s Ian Rapoport. Miller’s deal is worth $5.5 million and has a maximum value of $7.5 million. He’s is entering his 15th season in the league and currently has more sacks (138.5) "
+    },
+    {
+      "words": [
+        "blade",
+        "experience",
+        "flashy",
+        "kung",
+        "phantom",
+        "punk",
+        "sophisticated",
+        "zero"
+      ],
+      "at": "2026-08-18T04:00:39.475128+00:00",
+      "message_id": "1539121838905499763",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'Phantom Blade Zero': A Flashy and Sophisticated Kung Fu Punk Experience",
+      "link": "https://www.invenglobal.com/articles/24855/phantom-blade-zero-a-flashy-and-sophisticated-kung-fu-punk-experience",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "S-Game's Kung Fu Punk action RPG, Phantom Blade Zero, unveiled a 20-minute deep-dive video during the State of Play broadcast on the 18th.The video featured Soulframe, the director......"
+    },
+    {
+      "words": [
+        "about",
+        "everything",
+        "hearts",
+        "kingdom",
+        "know",
+        "series"
+      ],
+      "at": "2026-08-18T04:00:39.475128+00:00",
+      "message_id": "1539121854168698973",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "Everything we know about Kingdom Hearts 4 and the new TV series",
+      "link": "https://dotesports.com/disney/guides/kingdom-hearts-4-everything-we-know",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/KH4_D23_4K_6.jpg",
+      "base_description": "Sora returns alongside a new animated series."
     }
   ]
 }
