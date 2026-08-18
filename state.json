@@ -8140,7 +8140,8 @@
     "https://www.nerfplz.com/2026/08/patch-2616-tier-list-analysis-whats.html",
     "https://www.invenglobal.com/articles/24856/intense-ranking-battle-as-2026-lck-regular-season-nears-finish-line",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDhHdmN0SVp6U2pQTDExN3ktTzVfcXAxMkVxaEFTN0VhMHpTWFNPQzh0dld6NHhNQ1VEdFctQVVSYlBPbldSVlNkdFpFeG8yeFFGSkQ1VWpIX3N5WWduUEpWdGVvRTFfazFaeXNLNVhWaC1pZmhrRlB0YlVhNy1fMHAyNXhjeXNEcGRWWTR4a3dCcGVzV3FNcVJ4UnZpRDA?oc=5",
-    "https://www.invenglobal.com/articles/24857/2k-officially-launches-man-of-honor-expansion-for-mafia-the-old-country"
+    "https://www.invenglobal.com/articles/24857/2k-officially-launches-man-of-honor-expansion-for-mafia-the-old-country",
+    "https://www.invenglobal.com/articles/24858/the-first-descendant-invasion-update-features-battle-against-arch-nemesis-karel"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16261,7 +16262,8 @@
     "061c1d65ed1fea75019fca5299f9503b",
     "cebd0238720d6d317d4df37d9910a7c9",
     "7b89cc03e76fa8d9a61e73792364b4ee",
-    "6d86ddb59b2a31f6c758012df0f3e5da"
+    "6d86ddb59b2a31f6c758012df0f3e5da",
+    "20e33b42a545a9eae6e3db91f0a527aa"
   ],
   "transfers": {
     "pages": {
@@ -20456,22 +20458,6 @@
   "sent_stories": [
     {
       "words": [
-        "short"
-      ],
-      "at": "2026-08-17T06:02:20.062620+00:00",
-      "message_id": "1538790071887593485",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Short news: Week 32",
-      "link": "https://www.hltv.org/news/45272/short-news-week-32",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Catch up with more Counter-Strike news in bite-sized pieces."
-    },
-    {
-      "words": [
         "aged",
         "dawn",
         "died",
@@ -22958,6 +22944,30 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "©2KOn the 18th, 2K announced the official release of 'Man of Honor,' a new expansion for Mafia: The Old Country developed by Hangar 13...."
+    },
+    {
+      "words": [
+        "against",
+        "arch",
+        "battle",
+        "descendant",
+        "features",
+        "first",
+        "invasion",
+        "karel",
+        "nemesis"
+      ],
+      "at": "2026-08-18T06:03:58.995551+00:00",
+      "message_id": "1539152874448101409",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "The First Descendant 'Invasion' Update Features Battle Against Arch-Nemesis Karel",
+      "link": "https://www.invenglobal.com/articles/24858/the-first-descendant-invasion-update-features-battle-against-arch-nemesis-karel",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Nexon has announced that 'Invasion' will be coming to The First Descendant on the 20th.On the 18th, Nexon released a trailer on The First Descendant's official YouTube channel summ......"
     }
   ]
 }
