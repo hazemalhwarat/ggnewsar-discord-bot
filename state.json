@@ -8287,7 +8287,11 @@
     "https://insider-gaming.com/veqaj-set-to-return-to-pro-play/",
     "https://insider-gaming.com/former-playstation-boss-shuhei-yoshida-unsure-losing-discs-is-a-big-issue/",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUFxaUR5M3ZxVnBUUnpmVUx1V0ljMDZLN2FBV3p4eUVtSDhjM1BvR2RiSHhOYXNKRkxTcEtxYVdmZlJiNnl6VEtaZ2JLaWppaDAwdWQ2ODZDekQtcmZadUsybzVnQk10UXdQVHR2aXBmMW5KRW9SUXJFLUQ2S1lJUE82dTgzMkVrelRONVEtRGdZTC1lc3Nr0gGXAUFVX3lxTE9ZQXFpRHkzdnFWcFRSemZVTHVXSWMwNks3YUFXenh5RW1IOGMzUG9HZGJIeE5hc0pGTFNwS3FhV2ZmUmI2eXpUS1pnYktpamloMDB1ZDY4NkN6RC1yZlp1SzJvNWdCTXRRd1BUdHZpcGYxbkpFb1JRckUtRDZLWUlQTzZ1ODMyRWt6VE41US1EZ1lMLWVzc2s?oc=5",
-    "https://www.invenglobal.com/articles/24873/nexus-partners-with-krwq-to-bring-korean-won-stablecoin-to-game-payments"
+    "https://www.invenglobal.com/articles/24873/nexus-partners-with-krwq-to-bring-korean-won-stablecoin-to-game-payments",
+    "https://insider-gaming.com/furia-cs2-womens-team-swap-valorant-game-changers/",
+    "https://esports.gg/news/overwatch/overwatch-2-shop-rotation-and-shop-reset-countdown/",
+    "https://realsport101.com/article/fc-27-premier-league-wsl-ratings-revealed-haaland-shaw-biggest-upgrades",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhcDdva05KZ1Bydzh2WUhrREtoalB3bjFqQjlyeXlkQTg5WmJ3TU9kd243TU1oQjJwYlFOYmxzeHU3eUp4VWZ1TFRR?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16527,7 +16531,10 @@
     "bfe6c8ff954d40797f6dc5dab6698757",
     "e5da4894310f9c4f14fad34db8f3b957",
     "56c471ee94da25b35e8f0d1b225a10bf",
-    "fe431f56868c6dfb556b1a670635c653"
+    "fe431f56868c6dfb556b1a670635c653",
+    "2e28109640a4a8f1e2afd8c9e97ca8a7",
+    "9accacdb98f19526cf501dea37e10351",
+    "1be310b7019a7bdb5ad3d19e44f82931"
   ],
   "transfers": {
     "pages": {
@@ -20722,48 +20729,6 @@
   "sent_stories": [
     {
       "words": [
-        "advance",
-        "challenger",
-        "emea",
-        "playoffs",
-        "stage",
-        "vct"
-      ],
-      "at": "2026-08-17T17:54:41.306090+00:00",
-      "message_id": "1538969342501191701",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "3 of 4 Challenger teams advance to VCT EMEA Stage 2 Playoffs",
-      "link": "https://dotesports.com/valorant/news/vct-emea-stage-2-challengers-play-ins",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/vct-emea-barcelona.webp",
-      "base_description": "Their eyes are set on Barcelona and Champions."
-    },
-    {
-      "words": [
-        "disruptors",
-        "hollywood",
-        "large",
-        "making",
-        "person",
-        "scale"
-      ],
-      "at": "2026-08-17T17:54:41.306090+00:00",
-      "message_id": "1538969363854401537",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "title": "The Hollywood disruptors making a large-scale game with a 12-person team – and no generative AI",
-      "link": "https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai",
-      "color": 8141549,
-      "image_url": "https://assetsio.gnwcdn.com/JoinUs_WolfHausGames_KeyArtClean1080_082225.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "base_description": "You might recall the trailer for Join Us being featured in the Xbox Showcase back in June. It depicts a darkly comic co-op cult simulator, with robed cult members riding around on pigs and loosing off machine guns, before ending on an image of Cthulu-like giant tentacles. Not sho"
-    },
-    {
-      "words": [
         "2026",
         "all",
         "countries",
@@ -23210,6 +23175,46 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Shuhei Yoshida has stated that he doesn't understand if losing discs is \"such a big issue\". Here are more details. The post Former PlayStation Boss Shuhei Yoshida Unsure Losing Discs is A Big Issue appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "countdown",
+        "overwatch",
+        "reset",
+        "rotation",
+        "shop"
+      ],
+      "at": "2026-08-18T18:27:06.591324+00:00",
+      "message_id": "1539339888569098322",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Overwatch shop rotation and shop reset countdown",
+      "link": "https://esports.gg/news/overwatch/overwatch-2-shop-rotation-and-shop-reset-countdown/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Here is everything that's currently available through the in-game shop!"
+    },
+    {
+      "words": [
+        "league",
+        "premier",
+        "ratings",
+        "revealed",
+        "wsl"
+      ],
+      "at": "2026-08-18T18:27:06.591324+00:00",
+      "message_id": "1539339903957995533",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "RealSport101"
+      ],
+      "title": "FC 27 Premier League & WSL Ratings Revealed: Haaland, Shaw & Biggest Upgrades",
+      "link": "https://realsport101.com/article/fc-27-premier-league-wsl-ratings-revealed-haaland-shaw-biggest-upgrades",
+      "color": 8141549,
+      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/07555660-hqa1k11wwaae5zy-1920x1080.webp",
+      "base_description": "Check out the official FC 27 player ratings for the Premier League and WSL! See upgrades, downgrades, and stats for top stars."
     }
   ]
 }
