@@ -8301,7 +8301,9 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWpBMUxzWjJrck1FZ19VOEZBTWlJbEU2S1p1X0FaRlpuQlFHVzVTQU1jYncteE9fSHpnSmNpQmhzOTgwNVlXcTZPUGw4MDZQVndpVDZFTk4yRWFzWVNoWUZPTnFTTXJiek5mNHhBQ0p4dWxVMXp2Zk9GckdSZ1pBcnZRS3RyakFDQmt6SnY3ZU5JODV2OXlsU0lfMWxJXzVKYXhGa3hIRmpBdkZQSlE?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZDMyU2YtZk82MmdTQzdkczJVeWczZ25ldlpFTGJyYWdWY0FpRS1sUk02Z0xWZE9IWmhxbnFRVXEtS0hZbkMyMGwzcDdkOE9ISEtyY25ONVk5UmZmNlIwX0J4TGdOcGNueXFmeFhEVm96ei1odkVTN1IxUmFvSGlCVmJOMzlGYnIzWVBB?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWpuTHk2R1JveVh6ODNMNktuRmcyM015SEw4dTJGZ1BDUEFMc0NuVnZwcE85THZkWnZjT0tMYldHb0hPckNLRDZwRUdSNHdZV3VrazlrNkZUS1J4ZUx0SG85NGRTRVBud010YjZZZDk1TWd4VnVnY19HUWVRYWl1azctTTk3eHQtXzRjYmUzUzdpUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTBWaWkwZkFqWVhhVzZ0eFc5ZHZObGlPaWxrd0xGdE50VmVCSklTR3Q5VkNDQTlEUEQ2MGJuNlFiZEF0T2EzSU91eHBWZlVoSlNCYWZkYzdXVHhPdXNXTUJ3WWZHOEZzdjBDcHJpeGdKaEtqU0hjQ0poSEpxVTY4MHZsRjk?oc=5"
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTBWaWkwZkFqWVhhVzZ0eFc5ZHZObGlPaWxrd0xGdE50VmVCSklTR3Q5VkNDQTlEUEQ2MGJuNlFiZEF0T2EzSU91eHBWZlVoSlNCYWZkYzdXVHhPdXNXTUJ3WWZHOEZzdjBDcHJpeGdKaEtqU0hjQ0poSEpxVTY4MHZsRjk?oc=5",
+    "https://insider-gaming.com/lol-patch-26-17-preview-yasuo-buffs-thresh-nerfs/",
+    "https://esports.gg/news/grand-theft-auto-6/the-full-gta-6-map-has-been-leaked-and-fans-arent-thrilled-with-it/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16550,7 +16552,9 @@
     "14b2d2bb8e0cca220718be66ae50d9db",
     "2a16f89e182ecf0bc403170e40f7445a",
     "e382a840110a3238ecb9f5c850c233b0",
-    "a7c5b210cc3a64e96e2ddcbbe547a6c2"
+    "a7c5b210cc3a64e96e2ddcbbe547a6c2",
+    "3ebb50ad19ba608c79999a72573034b1",
+    "81c55467cda7672881d79eab8e38faae"
   ],
   "transfers": {
     "pages": {
@@ -20745,82 +20749,6 @@
   "sent_stories": [
     {
       "words": [
-        "2025",
-        "cards",
-        "how",
-        "order",
-        "pre",
-        "riftbound",
-        "winner",
-        "worlds"
-      ],
-      "at": "2026-08-17T19:41:38.353790+00:00",
-      "message_id": "1538996257161351250",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "How to Pre-Order T1 Worlds 2025 Winner Riftbound Cards",
-      "link": "https://insider-gaming.com/how-to-pre-order-t1-worlds-2025-winner-riftbound-cards/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "It’s not long now until Riot releases the highly anticipated T1 set for League of Legends card game, Riftbound. To commemorate T1’s LoL Worlds 2025 win, the T1 players are getting their in-game Worlds skins made into rare Riftbound cards. There will be two sets released: a playab"
-    },
-    {
-      "words": [
-        "care",
-        "china",
-        "don",
-        "dota",
-        "eliminated",
-        "even",
-        "seem",
-        "they",
-        "ti15",
-        "worse"
-      ],
-      "at": "2026-08-17T19:41:38.353790+00:00",
-      "message_id": "1538996272134881412",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Insider"
-      ],
-      "title": "China’s Dota 2 teams are eliminated from TI15, and even worse, they don’t seem to care",
-      "link": "https://esportsinsider.com/2026/08/china-dota-2-teams-dead",
-      "color": 8141549,
-      "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/55467142269_bae5a1851f_k-large.jpg",
-      "base_description": "For the first time in Dota 2 history, zero Chinese teams have qualified for the top eight of The International, with Xtreme Gaming, Vici Gaming, and Team Resilience exiting TI15 in the group stage. This stings even more, as this year’s iteration is being hosted in Shanghai – thei"
-    },
-    {
-      "words": [
-        "2026",
-        "ceo",
-        "distracting",
-        "fainting",
-        "far",
-        "gone",
-        "have",
-        "hungrybox",
-        "offs",
-        "opponents",
-        "pop",
-        "supernova",
-        "too"
-      ],
-      "at": "2026-08-17T19:41:38.353790+00:00",
-      "message_id": "1538996287159140365",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Insider"
-      ],
-      "title": "Fainting at Supernova, distracting opponents at CEO 2026: Have Hungrybox’s pop-offs gone too far? No",
-      "link": "https://esportsinsider.com/2026/08/hungrybox-pop-off-situation",
-      "color": 8141549,
-      "image_url": "https://esportsinsider.com/wp-content/uploads/2025/06/hungrybox-pop-off-large.jpeg",
-      "base_description": "The art of the pop-off has been perfected in Super Smash Bros. Melee. A grassroots scene known for its grit and passion, the sets can get quite intense, leading to some intense celebrations once someone beats a longtime rival or wins an incredibly difficult match. One of the most"
-    },
-    {
-      "words": [
         "among",
         "connect",
         "gamerlegion",
@@ -23084,6 +23012,48 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Fortnite-Override-Battle-Pass1.webp",
       "base_description": "This week, Epic has been heavily teasing the new content that’s coming to the game like the Fortnite Override Battle Pass. We had some early confirmation of various skins and a ton of collabs that are coming. But with item shop and Battle Pass collabs getting announced together, "
+    },
+    {
+      "words": [
+        "lol",
+        "patch",
+        "preview"
+      ],
+      "at": "2026-08-18T19:57:54.159784+00:00",
+      "message_id": "1539362737736515605",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "LoL Patch 26.17 Preview: Yasuo Buffs and Thresh Nerfs",
+      "link": "https://insider-gaming.com/lol-patch-26-17-preview-yasuo-buffs-thresh-nerfs/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "LoL Patch 26.17 is looking to be rather polarising with nerfs to Thresh and buffs to LeBlanc, Yasuo, and Yone already creating controversy The post LoL Patch 26.17 Preview: Yasuo Buffs and Thresh Nerfs appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "aren",
+        "been",
+        "fans",
+        "full",
+        "gta",
+        "has",
+        "leaked",
+        "map",
+        "thrilled"
+      ],
+      "at": "2026-08-18T19:57:54.159784+00:00",
+      "message_id": "1539362752982814846",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "The full GTA 6 map has been leaked, and fans aren’t thrilled with it",
+      "link": "https://esports.gg/news/grand-theft-auto-6/the-full-gta-6-map-has-been-leaked-and-fans-arent-thrilled-with-it/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "A new GTA 6 leak has revealed what appears to be the entire map, but the player base isn't too excited."
     }
   ]
 }
