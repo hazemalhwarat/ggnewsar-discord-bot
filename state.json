@@ -8303,7 +8303,10 @@
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWpuTHk2R1JveVh6ODNMNktuRmcyM015SEw4dTJGZ1BDUEFMc0NuVnZwcE85THZkWnZjT0tMYldHb0hPckNLRDZwRUdSNHdZV3VrazlrNkZUS1J4ZUx0SG85NGRTRVBud010YjZZZDk1TWd4VnVnY19HUWVRYWl1azctTTk3eHQtXzRjYmUzUzdpUQ?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTBWaWkwZkFqWVhhVzZ0eFc5ZHZObGlPaWxrd0xGdE50VmVCSklTR3Q5VkNDQTlEUEQ2MGJuNlFiZEF0T2EzSU91eHBWZlVoSlNCYWZkYzdXVHhPdXNXTUJ3WWZHOEZzdjBDcHJpeGdKaEtqU0hjQ0poSEpxVTY4MHZsRjk?oc=5",
     "https://insider-gaming.com/lol-patch-26-17-preview-yasuo-buffs-thresh-nerfs/",
-    "https://esports.gg/news/grand-theft-auto-6/the-full-gta-6-map-has-been-leaked-and-fans-arent-thrilled-with-it/"
+    "https://esports.gg/news/grand-theft-auto-6/the-full-gta-6-map-has-been-leaked-and-fans-arent-thrilled-with-it/",
+    "https://insider-gaming.com/gta-6-leaker-threatens-rockstar-and-other-major-publishers-with-further-action/",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sYnJFNHpla1c0XzlwYmZERm9fR1NSUHRDeUZybVl3NlFscXRBSnd4UHFLTTFURFNsc0xFNERtVGF3YmNWaEs2amRwdzkteXNMN1pnaHVXS2tKYnRBM1RhZjBWZXZFN1ZqZ205TW5EbWpPc2s?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWk5iSEx4VTdGNXRsc2E4dkxnVUs3OV9JbklRT1lBOGJUdWFEUHNpUmVOYloxT3ZTNWVFRFZiU1ZPcnEzWHczU2R4RExoWGpSOERkVVRvT1VabWVid1VxcFhwSkJvVDREXzEyeWlxcXV3c1BRVVVvZ0hZVXFkSW5SVmxXY3BOWXcxbUxveg?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16554,7 +16557,10 @@
     "e382a840110a3238ecb9f5c850c233b0",
     "a7c5b210cc3a64e96e2ddcbbe547a6c2",
     "3ebb50ad19ba608c79999a72573034b1",
-    "81c55467cda7672881d79eab8e38faae"
+    "81c55467cda7672881d79eab8e38faae",
+    "7be0a6e9ef6612a1f2f4bfda056ca4ea",
+    "9c5cedb1dc2ec7127a6cc3c82672278a",
+    "8d9bda055d99091fa1849971b81462e7"
   ],
   "transfers": {
     "pages": {
@@ -23054,6 +23060,52 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "A new GTA 6 leak has revealed what appears to be the entire map, but the player base isn't too excited."
+    },
+    {
+      "words": [
+        "action",
+        "further",
+        "gta",
+        "leaker",
+        "major",
+        "other",
+        "publishers",
+        "rockstar",
+        "threatens"
+      ],
+      "at": "2026-08-18T20:17:41.581254+00:00",
+      "message_id": "1539367717470208166",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "GTA 6 Leaker Threatens Rockstar And Other Major Publishers With Further Action",
+      "link": "https://insider-gaming.com/gta-6-leaker-threatens-rockstar-and-other-major-publishers-with-further-action/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The August 2026 GTA 6 leaks could be just the beginning, as a leaker has threatened major publishers with more leaks and action. The post GTA 6 Leaker Threatens Rockstar And Other Major Publishers With Further Action appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "elite",
+        "ewc",
+        "fortnite",
+        "guide",
+        "reload",
+        "series",
+        "survival"
+      ],
+      "at": "2026-08-18T20:17:41.581254+00:00",
+      "message_id": "1539367732808515605",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports World Cup (official, via Google News)"
+      ],
+      "title": "Fortnite Reload Elite Series at EWC 26 Survival Guide - Esports World Cup",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sYnJFNHpla1c0XzlwYmZERm9fR1NSUHRDeUZybVl3NlFscXRBSnd4UHFLTTFURFNsc0xFNERtVGF3YmNWaEs2amRwdzkteXNMN1pnaHVXS2tKYnRBM1RhZjBWZXZFN1ZqZ205TW5EbWpPc2s?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Fortnite Reload Elite Series at EWC 26 Survival Guide Esports World Cup"
     }
   ]
 }
