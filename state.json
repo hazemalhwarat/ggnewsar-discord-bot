@@ -8318,7 +8318,9 @@
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12WGt6b2E2Tkw0d1dkR2VyRk5rWEhnQi1FU2huYkNEdGNXalVBck5RYlRldGlJcGhhamtQcEV4eEoxWUV4MmpMQmI5bDhYakxSd014Yg?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYTlFczl2N1ZXak9BRWNsWjI0SDNBTWR4eERQTHZVaHp5VFRPajZ3VTRIR3IydDJJOWhTNngxaUhOajFSYzY4M1M5eTNQVW5iSjJMYlNDbHdFVS00SXZucDJCLXN1NnlHNmZZZlR3a0RHemhOSkdjemRSWk9TNFpFV2FoQk1EN2NkdWM4Ty1MTdIBlgFBVV95cUxPUHYwOUtiZF9SV2hrQklGRFJiX0d4SEhIek9zOXYybUZ1eEZHT3BsLUt5dXVONEZxWWhmRENveGN0Q0ZDQTJHQ3kyYmZJTlJoRWdmZlBlQVJoRDlXZzB3Y0poZm42VmN1MzA0SURvMTJHZG5MY0R1eFo0bW10Tk5LQUhETWNUSDJaY1M3enA3T0JpbHh4eUE?oc=5",
     "https://esportsinsider.com/2026/08/esports-world-cup-fgc-reaction",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1cxUUpUOU8xZ1BoM3JQc0ROMnl4aFVHUjl6b0hBZjd2dW04anVlSnJ4UTQ1YnBQSHJvekU4SWRyUncwT2FsbXFtV1VTVEVpTzN0ZUVMd1A4eUtyX2FZQlVERGRsdDdXWDBNaEhZOGpGeFN5N0ZnZURuOTNKNGVULU5tREs1bjNyazBIMi1xbkJnX09SQjZOSjYxdDk2TXJNRTNoSURsRG1hUDN2WWJNTG16RHE1MEJVMzdwZVozYndVWm8?oc=5"
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1cxUUpUOU8xZ1BoM3JQc0ROMnl4aFVHUjl6b0hBZjd2dW04anVlSnJ4UTQ1YnBQSHJvekU4SWRyUncwT2FsbXFtV1VTVEVpTzN0ZUVMd1A4eUtyX2FZQlVERGRsdDdXWDBNaEhZOGpGeFN5N0ZnZURuOTNKNGVULU5tREs1bjNyazBIMi1xbkJnX09SQjZOSjYxdDk2TXJNRTNoSURsRG1hUDN2WWJNTG16RHE1MEJVMzdwZVozYndVWm8?oc=5",
+    "https://esports.gg/news/overwatch/overwatch-owwc-2026-schedule-results/",
+    "https://esports.gg/guides/call-of-duty/all-modern-warfare-4-beta-rewards-how-to-earn-them/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16580,7 +16582,9 @@
     "40c87c2528540ac3c7187415c44e2114",
     "fece42698bba9617663fe88f45b94b2d",
     "9e2611b002cfe5439d3a1ebe1d3c395d",
-    "31050715b320aa45673f0a347c4f6483"
+    "31050715b320aa45673f0a347c4f6483",
+    "80205f11d62862b580d6d954459477ad",
+    "8c71f77b4c48c629a86f2571e8727815"
   ],
   "transfers": {
     "pages": {
@@ -22439,7 +22443,8 @@
       "message_id": "1539302031657803848",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Hotspawn"
+        "Hotspawn",
+        "Esports.gg"
       ],
       "title": "How to Watch The Venomous Abyss Race to World First",
       "link": "https://www.hotspawn.com/world-of-warcraft/news/how-to-watch-the-venomous-abyss-race-to-world-first",
@@ -22968,6 +22973,29 @@
       "color": 8141549,
       "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/street-fighter-6-ewc-large.webp",
       "base_description": "The Esports World Cup has been a heavily debated event within the FGC. A segment of the esports scene that’s allergic to cringe and intoxicated by raw passion, the FGC has been largely against the EWC for quite some time. But is it actually a good thing for the fighting game scen"
+    },
+    {
+      "words": [
+        "all",
+        "beta",
+        "earn",
+        "how",
+        "modern",
+        "rewards",
+        "them",
+        "warfare"
+      ],
+      "at": "2026-08-18T23:16:35.274965+00:00",
+      "message_id": "1539412743768252447",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "All Modern Warfare 4 Beta rewards & how to earn them",
+      "link": "https://esports.gg/guides/call-of-duty/all-modern-warfare-4-beta-rewards-how-to-earn-them/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Modern Warfare 4 has an exclusive set of rewards that you can only earn during the Beta, so let's see what they are."
     }
   ]
 }
