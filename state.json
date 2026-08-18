@@ -8146,7 +8146,12 @@
     "https://esports.gg/guides/roblox/emberlight-pet-in-adopt-me-trading-value/",
     "https://www.gamesindustry.biz/gyld-closes-oversubscribed-1m-seed-round-to-fund-proprietary-games-research-system",
     "https://europeangaming.eu/portal/press-releases/2026/08/18/212820/creedroomz-crypto-market-live-dealer-game/",
-    "https://www.invenglobal.com/articles/24859/alice-the-city-god-a-unique-folk-rpg-based-on-taiwans-city-god-temples"
+    "https://www.invenglobal.com/articles/24859/alice-the-city-god-a-unique-folk-rpg-based-on-taiwans-city-god-temples",
+    "https://www.hotspawn.com/league-of-legends/news/navi-maynter-lec-interview",
+    "https://www.invenglobal.com/articles/24863/segas-sonic-frontiers-surpasses-5-million-units-sold",
+    "https://www.invenglobal.com/articles/24862/sega-launches-publisher-sale-on-steam",
+    "https://www.invenglobal.com/articles/24861/samsung-electronics-partners-with-modern-warfare-4",
+    "https://www.invenglobal.com/articles/24860/smilegate-16-global-teams-converge-for-crossfire-at-ewc-2026"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16273,7 +16278,12 @@
     "83b33b943669fe07f3324ebafdf0c102",
     "11a06df0469a04497eef5eef36a0a77f",
     "3d635902147cfaaccc6b79ef63adcb1b",
-    "42e8c441ce2dd01e359d154760cd765a"
+    "42e8c441ce2dd01e359d154760cd765a",
+    "8813ee01ebb788c256717788df601f4f",
+    "d3bd0ed9637e339e4808423f4857eca9",
+    "38876c35f091de0ec3c97fa3fe812db4",
+    "c71cf2d16bd1b27a7d0224606a7745d8",
+    "1e6cb53dca6af20b97f56d48fd047cb9"
   ],
   "transfers": {
     "pages": {
@@ -20468,55 +20478,6 @@
   "sent_stories": [
     {
       "words": [
-        "aged",
-        "dawn",
-        "died",
-        "has",
-        "hayden",
-        "hearts",
-        "just",
-        "kingdom",
-        "panettiere",
-        "star",
-        "until"
-      ],
-      "at": "2026-08-17T07:15:45.060985+00:00",
-      "message_id": "1538808553949896756",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Until Dawn, Kingdom Hearts Star Hayden Panettiere Has Died Aged Just 36",
-      "link": "https://insider-gaming.com/hayden-panettiere-passes-away-aged-36/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Hayden Panettiere, a veteran actor with notable credits in Until Dawn and Kingdom Hearts, has died aged just 36 years old. The post Until Dawn, Kingdom Hearts Star Hayden Panettiere Has Died Aged Just 36 appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "153",
-        "gambling",
-        "hits",
-        "lithuanian",
-        "remote",
-        "revenue",
-        "rises",
-        "share"
-      ],
-      "at": "2026-08-17T07:15:45.060985+00:00",
-      "message_id": "1538808574493327371",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "Lithuanian gambling revenue rises to €153.6m as remote share hits 78%",
-      "link": "https://europeangaming.eu/portal/latest-news/2026/08/17/212777/lithuania-gambling-revenue-h1-2026/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Lithuanian-gambling-revenue-rises-to-E153.6m-as-remote-share-hits-78.jpg",
-      "base_description": "Remote gambling revenue grew almost 25% while land-based venues took 5% less, extending a shift the regulator has… The post Lithuanian gambling revenue rises to €153.6m as remote share hits 78% appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
         "legacy"
       ],
       "at": "2026-08-17T08:02:30.579517+00:00",
@@ -22216,7 +22177,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "Insider Gaming",
-        "Esports.gg"
+        "Esports.gg",
+        "Inven Global (English)"
       ],
       "title": "Win A Call of Duty: Modern Warfare 4 Beta Key From Insider Gaming",
       "link": "https://insider-gaming.com/win-a-call-of-duty-modern-warfare-4-beta-key-from-insider-gaming/",
@@ -23069,6 +23031,94 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/gyld-critical-compass.jpg?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "Games publishing and investment agency GYLD has closed an oversubscribed $1 million seed round to support its proprietary games research system, Critical Compass. Read more"
+    },
+    {
+      "words": [
+        "frontiers",
+        "million",
+        "sega",
+        "sold",
+        "sonic",
+        "surpasses",
+        "units"
+      ],
+      "at": "2026-08-18T07:53:19.027904+00:00",
+      "message_id": "1539180390923763793",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "SEGA's 'Sonic Frontiers' Surpasses 5 Million Units Sold",
+      "link": "https://www.invenglobal.com/articles/24863/segas-sonic-frontiers-surpasses-5-million-units-sold",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©SEGASEGA Publishing Korea (CEO Ko Saito, hereafter SEGA) announced on the 17th that its flagship action-adventure game, Sonic Frontiers, has surpassed 5 million units in cumulative global sales...."
+    },
+    {
+      "words": [
+        "launches",
+        "publisher",
+        "sale",
+        "sega",
+        "steam"
+      ],
+      "at": "2026-08-18T07:53:19.027904+00:00",
+      "message_id": "1539180406614794261",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "SEGA Launches Publisher Sale on Steam",
+      "link": "https://www.invenglobal.com/articles/24862/sega-launches-publisher-sale-on-steam",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©SEGASEGA Publishing Korea (CEO Saito Go) announced on the 18th that it will hold a 'SEGA Publisher Sale' on the Steam platform, offering select PC titles at special prices for a limited time until Thursday, August 27, 2026...."
+    },
+    {
+      "words": [
+        "2026",
+        "converge",
+        "crossfire",
+        "ewc",
+        "global",
+        "smilegate"
+      ],
+      "at": "2026-08-18T07:53:19.027904+00:00",
+      "message_id": "1539180427393368065",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Smilegate: 16 Global Teams Converge for CrossFire at EWC 2026",
+      "link": "https://www.invenglobal.com/articles/24860/smilegate-16-global-teams-converge-for-crossfire-at-ewc-2026",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©SmilegateSmilegate's online FPS, CrossFire, officially kicked off its 'Group Stage' on the 18th as part of the Esports World Cup 2026 (EWC 2026), featuring a total prize pool of $2 million (approximately KRW 2.83 billion)...."
+    },
+    {
+      "words": [
+        "all",
+        "been",
+        "caps",
+        "committed",
+        "crazy",
+        "has",
+        "how",
+        "maynter",
+        "these",
+        "years"
+      ],
+      "at": "2026-08-18T07:53:19.027904+00:00",
+      "message_id": "1539180442580820071",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "Maynter on Caps: “It’s Crazy How Committed He Has Been All These Years.”",
+      "link": "https://www.hotspawn.com/league-of-legends/news/navi-maynter-lec-interview",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/navi-maynter-1-1125x633.webp",
+      "base_description": "After suffering a defeat to Movistar KOI yesterday, Natus Vincere (NAVI) bounced back at the end of Week 4 of the League of Legends EMEA Championship (LEC) Summer Split with a 2-0 victory over Team Heretics on Monday. With this result, the team are fourth in the standings at 3-3 "
     }
   ]
 }
