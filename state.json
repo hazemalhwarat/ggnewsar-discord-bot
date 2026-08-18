@@ -8151,7 +8151,11 @@
     "https://www.invenglobal.com/articles/24863/segas-sonic-frontiers-surpasses-5-million-units-sold",
     "https://www.invenglobal.com/articles/24862/sega-launches-publisher-sale-on-steam",
     "https://www.invenglobal.com/articles/24861/samsung-electronics-partners-with-modern-warfare-4",
-    "https://www.invenglobal.com/articles/24860/smilegate-16-global-teams-converge-for-crossfire-at-ewc-2026"
+    "https://www.invenglobal.com/articles/24860/smilegate-16-global-teams-converge-for-crossfire-at-ewc-2026",
+    "https://europeangaming.eu/portal/press-releases/2026/08/18/212831/evoplay-wealth-bells-40-slot/",
+    "https://europeangaming.eu/portal/latest-news/2026/08/18/212825/evoke-shareholders-approve-ballys-intralot-takeover/",
+    "https://www.invenglobal.com/articles/24865/nexpace-hosts-maplestory-vibe-camp-season-2-with-15k-in-total-prizes",
+    "https://www.invenglobal.com/articles/24864/the-ai-basic-act-is-in-effect-how-much-should-the-gaming-industry-prepare"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16283,7 +16287,11 @@
     "d3bd0ed9637e339e4808423f4857eca9",
     "38876c35f091de0ec3c97fa3fe812db4",
     "c71cf2d16bd1b27a7d0224606a7745d8",
-    "1e6cb53dca6af20b97f56d48fd047cb9"
+    "1e6cb53dca6af20b97f56d48fd047cb9",
+    "4e4f44e70c9e96ea06f74800d9b0fcbc",
+    "e19f95a30d096cffb1b861253266f952",
+    "250bf1a94f1447e5eb4443e78d673b64",
+    "d93f2543638880dcb5410fa823b47b31"
   ],
   "transfers": {
     "pages": {
@@ -20478,69 +20486,6 @@
   "sent_stories": [
     {
       "words": [
-        "legacy"
-      ],
-      "at": "2026-08-17T08:02:30.579517+00:00",
-      "message_id": "1538820315017256991",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Legacy 2-0 MIBR to claim last EWC playoff spot",
-      "link": "https://www.hltv.org/news/45325/legacy-2-0-mibr-to-claim-last-ewc-playoff-spot",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/6YT_bZ8UKvO0Of458FhO0Y.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=2cb7b7fda448651c080b6bd30e713510",
-      "base_description": "Legacy allowed MIBR to get their foot in the door on both maps, but were ultimately in control of the series."
-    },
-    {
-      "words": [
-        "ahead",
-        "devs",
-        "free",
-        "gamescom",
-        "launches",
-        "matchmaking",
-        "platform",
-        "sail",
-        "tier"
-      ],
-      "at": "2026-08-17T08:02:30.579517+00:00",
-      "message_id": "1538820334890000498",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "title": "Matchmaking platform Sail.game launches free tier for devs ahead of Gamescom",
-      "link": "https://www.gamesindustry.biz/matchmaking-platform-sailgame-launches-free-tier-for-devs-ahead-of-gamescom",
-      "color": 8141549,
-      "image_url": "https://assetsio.gnwcdn.com/sail-game.png?width=690&quality=85&format=jpg&auto=webp",
-      "base_description": "Matchmaking platform Sail.game is introducing a free tier for PC and console game developers ahead of Gamescom. Read more"
-    },
-    {
-      "words": [
-        "396bn",
-        "casinos",
-        "gaming",
-        "ggr",
-        "hits",
-        "online",
-        "overtakes",
-        "philippine"
-      ],
-      "at": "2026-08-17T08:02:30.579517+00:00",
-      "message_id": "1538820350152937473",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "Philippine online gaming overtakes casinos as GGR hits ₱396bn",
-      "link": "https://europeangaming.eu/portal/press-releases/2026/08/17/212780/philippines-ggr-2025-online-overtakes-casinos/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Philippine-online-gaming-overtakes-casinos-as-GGR-hits-₱396bn.jpg",
-      "base_description": "Tax reforms and the POGO shutdown cleared the path for domestic digital operators to claim majority share of… The post Philippine online gaming overtakes casinos as GGR hits ₱396bn appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
         "short"
       ],
       "at": "2026-08-17T09:00:27.024069+00:00",
@@ -23119,6 +23064,101 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/navi-maynter-1-1125x633.webp",
       "base_description": "After suffering a defeat to Movistar KOI yesterday, Natus Vincere (NAVI) bounced back at the end of Week 4 of the League of Legends EMEA Championship (LEC) Summer Split with a 2-0 victory over Team Heretics on Monday. With this result, the team are fourth in the standings at 3-3 "
+    },
+    {
+      "words": [
+        "15k",
+        "camp",
+        "hosts",
+        "maplestory",
+        "nexpace",
+        "prizes",
+        "season",
+        "total",
+        "vibe"
+      ],
+      "at": "2026-08-18T08:28:06.046478+00:00",
+      "message_id": "1539189142871609356",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "NEXPACE Hosts MapleStory Vibe Camp Season 2 with $15k in Total Prizes",
+      "link": "https://www.invenglobal.com/articles/24865/nexpace-hosts-maplestory-vibe-camp-season-2-with-15k-in-total-prizes",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "NEXPACE announced on the 18th that it will host the game development event 'MapleStory Vibe Camp Season 2' through September 15...."
+    },
+    {
+      "words": [
+        "act",
+        "basic",
+        "effect",
+        "gaming",
+        "how",
+        "industry",
+        "much",
+        "prepare",
+        "should"
+      ],
+      "at": "2026-08-18T08:28:06.046478+00:00",
+      "message_id": "1539189157807661159",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "The AI Basic Act is in Effect: How Much Should the Gaming Industry Prepare",
+      "link": "https://www.invenglobal.com/articles/24864/the-ai-basic-act-is-in-effect-how-much-should-the-gaming-industry-prepare",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©INVENOn the 18th, YOON & YANG LLC hosted the '14th YOON & YANG Game Seminar' at the Asem Tower in Gangnam-gu, Seoul...."
+    },
+    {
+      "words": [
+        "bells",
+        "evoplay",
+        "fixed",
+        "four",
+        "fruit",
+        "jackpots",
+        "launches",
+        "slot",
+        "wealth"
+      ],
+      "at": "2026-08-18T08:28:06.046478+00:00",
+      "message_id": "1539189173091700737",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "Evoplay launches Wealth Bells 40 fruit slot with four fixed jackpots",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/08/18/212831/evoplay-wealth-bells-40-slot/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Evoplay-launches-Wealth-Bells-40-fruit-slot-with-four-fixed-jackpots.jpg",
+      "base_description": "The title extends Evoplay’s run of jackpot-structured slot releases in 2026, pairing classic fruit iconography with a multi-tier… The post Evoplay launches Wealth Bells 40 fruit slot with four fixed jackpots appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "approve",
+        "bally",
+        "evoke",
+        "intralot",
+        "margin",
+        "shareholders",
+        "takeover",
+        "wide"
+      ],
+      "at": "2026-08-18T08:28:06.046478+00:00",
+      "message_id": "1539189187360722995",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "Evoke shareholders approve Bally’s Intralot takeover by wide margin",
+      "link": "https://europeangaming.eu/portal/latest-news/2026/08/18/212825/evoke-shareholders-approve-ballys-intralot-takeover/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Evoke-shareholders-approve-Ballys-Intralot-takeover-by-wide-margin.jpg",
+      "base_description": "The scheme cleared both required majorities by wide margins, leaving court sanction and the outstanding regulatory approvals as… The post Evoke shareholders approve Bally’s Intralot takeover by wide margin appeared first on European Gaming Industry News ."
     }
   ]
 }
