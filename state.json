@@ -8119,7 +8119,14 @@
     "https://esportsafricanews.com/paris-puts-africa-in-focus-inside-the-rise-of-african-esports/",
     "https://www.invenglobal.com/articles/24848/nc-successfully-concludes-astrae-oratio-showcase-at-comiket-teaser-artbook-sold-out",
     "https://www.invenglobal.com/articles/24847/digimon-masters-introduces-overclock-update-to-expand-u-grade-growth-limits",
-    "https://www.invenglobal.com/articles/24846/director-kim-su-yeon-i-dream-of-a-heart-pounding-brown-dust-2"
+    "https://www.invenglobal.com/articles/24846/director-kim-su-yeon-i-dream-of-a-heart-pounding-brown-dust-2",
+    "https://thegamehaus.com/nfl/von-miller-agrees-to-one-year-deal-with-dallas-cowboys/2026/08/17/",
+    "https://www.invenglobal.com/articles/24854/riot-games-to-debut-riftbound-starter-pack-proving-grounds-at-upcoming-event",
+    "https://www.invenglobal.com/articles/24853/pearl-abyss-releases-crimson-desert-post-launch-update-infographic",
+    "https://www.invenglobal.com/articles/24852/tokyo-game-show-2026-special-website-launched-and-event-lineup-announced",
+    "https://www.invenglobal.com/articles/24851/honkai-star-rail-version-45-a-gamble-cast-to-fate-updates-august-26",
+    "https://www.invenglobal.com/articles/24850/nexus-partners-with-krwq-won-pegged-stablecoin-for-ai-and-global-game-payments",
+    "https://www.invenglobal.com/articles/24849/eworldgame-selects-actor-park-ji-hwan-as-official-model-for-aqualand-crazy-survival"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16223,7 +16230,14 @@
     "57758a385b5d3c8cdb99d2d778a452f8",
     "b4466fd08ffe5b00ba66ace10e5bb9f0",
     "cfc1d297d9023324fd8c3b251e724d01",
-    "16fd6dee3480f3a4d74658f9431d777d"
+    "16fd6dee3480f3a4d74658f9431d777d",
+    "b4c6a9e126366e49d69a7df73178c866",
+    "720bfdfc2772ec6c200c375c96bd8f34",
+    "448c5186a424b1417e515a40cd1c3457",
+    "6f6c68e19ec5553bf504bfb5d7b3d6c8",
+    "082233aec66fce5435533025b4dcb440",
+    "8e0786101a3d3fd576f1d3acfe2de88d",
+    "34f4e71dd42fdc5add921cdf7694c379"
   ],
   "transfers": {
     "pages": {
@@ -20418,71 +20432,6 @@
   "sent_stories": [
     {
       "words": [
-        "eintracht",
-        "final",
-        "fire",
-        "flux",
-        "frankfurt",
-        "playoff",
-        "secure",
-        "spots",
-        "two"
-      ],
-      "at": "2026-08-17T02:17:30.521859+00:00",
-      "message_id": "1538733492618137601",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg",
-        "Dot Esports"
-      ],
-      "title": "Eintracht Frankfurt & Fire Flux Esports secure final two playoff spots",
-      "link": "https://www.vlr.gg/738391/eintracht-frankfurt-amp-fire-flux-esports-secure-final-two-playoff-spots",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Eintracht Frankfurt and Fire Flux Esports round out the VCT EMEA Stage 2 playoffs."
-    },
-    {
-      "words": [
-        "busan",
-        "details",
-        "finals",
-        "pacific",
-        "revealed",
-        "stage",
-        "vct"
-      ],
-      "at": "2026-08-17T02:17:30.521859+00:00",
-      "message_id": "1538733506992283669",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "Details revealed for VCT Pacific Stage 2 finals in Busan",
-      "link": "https://www.hotspawn.com/valorant/news/details-revealed-for-vct-pacific-stage-2-finals-in-busan",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/06/Paper-Rex-at-VCT-Masters-London.jpg",
-      "base_description": "The final VCT Pacific roadshow of the season is almost here. From September 4 to 6, the region’s best teams head to Busan’s Sajik Indoor Gymnasium to settle the VCT Pacific championship, and Riot has built out a full weekend of fan activities to go with it. Here’s everything on o"
-    },
-    {
-      "words": [
-        "ewc",
-        "leaderboards",
-        "play"
-      ],
-      "at": "2026-08-17T02:17:30.521859+00:00",
-      "message_id": "1538733521521344524",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports World Cup (official, via Google News)"
-      ],
-      "title": "EWC Play | Leaderboards - Esports World Cup",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQazBBeGJzRWtheVc3bnZ3V2NwN1JNYWQyUlhqTGF2ZHJiOTY0bUk1TTB5U1NUY1I5bmtTT2tJT3hKWE1VVi1MN05pVnFRU0l6QmdmdEVXc0VQZTZjSHgxQW5TVXZzaUFJZ3kxQnkwZWxKeWQwR0t2ekltLV9JT2Jfb0JzLVgxSEZjRXJSUFE4UFM5YlRjTmE0VFlnRXNaYmFwd2lOZ19IaWtIUTI0bm90aHRKUURhMjdZb0xiQ1VoSVFtTlNWZHVlXzNTZW5jM3pJTUpIOWZ0RXQ?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "EWC Play | Leaderboards Esports World Cup"
-    },
-    {
-      "words": [
         "legacy"
       ],
       "at": "2026-08-17T03:27:44.889474+00:00",
@@ -22783,6 +22732,168 @@
       "color": 8141549,
       "image_url": "https://esportsafricanews.com/wp-content/uploads/2026/08/1786636805542.jpeg",
       "base_description": "Paris will become a focal point for the global esports industry this week as executives,..."
+    },
+    {
+      "words": [
+        "debut",
+        "event",
+        "grounds",
+        "pack",
+        "proving",
+        "riftbound",
+        "riot",
+        "starter",
+        "upcoming"
+      ],
+      "at": "2026-08-18T02:22:16.390601+00:00",
+      "message_id": "1539097079585050709",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Riot Games to Debut 'Riftbound' Starter Pack 'Proving Grounds' at Upcoming Event",
+      "link": "https://www.invenglobal.com/articles/24854/riot-games-to-debut-riftbound-starter-pack-proving-grounds-at-upcoming-event",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©Riot GamesAhead of the official domestic launch of its new trading card game (TCG) Riftbound this September, Riot Games is offering players a chance to preview and purchase t......"
+    },
+    {
+      "words": [
+        "abyss",
+        "crimson",
+        "desert",
+        "infographic",
+        "launch",
+        "pearl",
+        "post",
+        "releases"
+      ],
+      "at": "2026-08-18T02:22:16.390601+00:00",
+      "message_id": "1539097095062036491",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Pearl Abyss Releases Crimson Desert Post-Launch Update Infographic",
+      "link": "https://www.invenglobal.com/articles/24853/pearl-abyss-releases-crimson-desert-post-launch-update-infographic",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©Pearl AbyssPearl Abyss has published an 'Updates So Far' infographic on its official website, detailing the patches and system improvements implemented since the global launc......"
+    },
+    {
+      "words": [
+        "2026",
+        "announced",
+        "event",
+        "launched",
+        "lineup",
+        "show",
+        "special",
+        "tokyo",
+        "website"
+      ],
+      "at": "2026-08-18T02:22:16.390601+00:00",
+      "message_id": "1539097109427523695",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Tokyo Game Show 2026: Special Website Launched and Event Lineup Announced",
+      "link": "https://www.invenglobal.com/articles/24852/tokyo-game-show-2026-special-website-launched-and-event-lineup-announced",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©TGSTokyo Game Show (TGS), which celebrates its 30th anniversary this year since its inception in 1996, has launched a special website and unveiled details for its most ambiti......"
+    },
+    {
+      "words": [
+        "august",
+        "cast",
+        "fate",
+        "gamble",
+        "honkai",
+        "rail",
+        "star",
+        "version"
+      ],
+      "at": "2026-08-18T02:22:16.390601+00:00",
+      "message_id": "1539097123759587429",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Honkai: Star Rail Version 4.5 'A Gamble Cast to Fate' Updates August 26",
+      "link": "https://www.invenglobal.com/articles/24851/honkai-star-rail-version-45-a-gamble-cast-to-fate-updates-august-26",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©HoYoverseGlobal interactive entertainment brand HoYoverse will introduce two new 5-star characters and a variety of summer vacation-themed content in the Version 4.5 update f......"
+    },
+    {
+      "words": [
+        "global",
+        "krwq",
+        "nexus",
+        "partners",
+        "payments",
+        "pegged",
+        "stablecoin",
+        "won"
+      ],
+      "at": "2026-08-18T02:22:16.390601+00:00",
+      "message_id": "1539097138213159027",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "NEXUS Partners with KRWQ Won-Pegged Stablecoin for AI and Global Game Payments",
+      "link": "https://www.invenglobal.com/articles/24850/nexus-partners-with-krwq-won-pegged-stablecoin-for-ai-and-global-game-payments",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Source: NEXUS ©NEXUSNEXUS (CEO Jang Hyun-guk) announced on Tuesday the 18th that it has signed a strategic memorandum of understanding (MOU) with the KRWQ won-pegged stablecoi......"
+    },
+    {
+      "words": [
+        "actor",
+        "aqualand",
+        "eworldgame",
+        "hwan",
+        "model",
+        "park",
+        "selects"
+      ],
+      "at": "2026-08-18T02:22:16.390601+00:00",
+      "message_id": "1539097152687439966",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "EWORLDGAME Selects Actor Park Ji-hwan as Official Model for 'AquaLand: Crazy Survival'",
+      "link": "https://www.invenglobal.com/articles/24849/eworldgame-selects-actor-park-ji-hwan-as-official-model-for-aqualand-crazy-survival",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Source: EWORLDGAME ©EWORLDGAMEEWORLDGAME announced on the 18th that it has selected actor Park Ji-hwan as the official model for its upcoming maritime post-apocalyptic surviva......"
+    },
+    {
+      "words": [
+        "agrees",
+        "cowboys",
+        "dallas",
+        "deal",
+        "miller",
+        "one",
+        "von",
+        "year"
+      ],
+      "at": "2026-08-18T02:22:16.390601+00:00",
+      "message_id": "1539097166809800706",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "The Game Haus"
+      ],
+      "title": "Von Miller Agrees to One-Year Deal with Dallas Cowboys",
+      "link": "https://thegamehaus.com/nfl/von-miller-agrees-to-one-year-deal-with-dallas-cowboys/2026/08/17/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Linebacker Von Miller has agreed to a one-year deal to sign with the Dallas Cowboys, according to ESPN’s Ian Rapoport. Miller’s deal is worth $5.5 million and has a maximum value of $7.5 million. He’s is entering his 15th season in the league and currently has more sacks (138.5) "
     }
   ]
 }
