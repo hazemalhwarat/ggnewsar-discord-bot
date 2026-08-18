@@ -8291,7 +8291,10 @@
     "https://insider-gaming.com/furia-cs2-womens-team-swap-valorant-game-changers/",
     "https://esports.gg/news/overwatch/overwatch-2-shop-rotation-and-shop-reset-countdown/",
     "https://realsport101.com/article/fc-27-premier-league-wsl-ratings-revealed-haaland-shaw-biggest-upgrades",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhcDdva05KZ1Bydzh2WUhrREtoalB3bjFqQjlyeXlkQTg5WmJ3TU9kd243TU1oQjJwYlFOYmxzeHU3eUp4VWZ1TFRR?oc=5"
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhcDdva05KZ1Bydzh2WUhrREtoalB3bjFqQjlyeXlkQTg5WmJ3TU9kd243TU1oQjJwYlFOYmxzeHU3eUp4VWZ1TFRR?oc=5",
+    "https://insider-gaming.com/alleged-gta-6-gameplay-footage-leaks-online/",
+    "https://www.hotspawn.com/fortnite/news/watch-ewc-fortnite-2026",
+    "https://www.nerfplz.com/2026/08/red-post-roundup-3-patch-2617-preview.html"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16534,7 +16537,10 @@
     "fe431f56868c6dfb556b1a670635c653",
     "2e28109640a4a8f1e2afd8c9e97ca8a7",
     "9accacdb98f19526cf501dea37e10351",
-    "1be310b7019a7bdb5ad3d19e44f82931"
+    "1be310b7019a7bdb5ad3d19e44f82931",
+    "885904f264fdb329ac05454948b03b98",
+    "369098188bd564c86c8a7908a2c1e775",
+    "14b2d2bb8e0cca220718be66ae50d9db"
   ],
   "transfers": {
     "pages": {
@@ -20729,123 +20735,6 @@
   "sent_stories": [
     {
       "words": [
-        "2026",
-        "all",
-        "countries",
-        "cup",
-        "every",
-        "invited",
-        "nations",
-        "rosters",
-        "their",
-        "title"
-      ],
-      "at": "2026-08-17T18:28:28.153520+00:00",
-      "message_id": "1538977843088986364",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports",
-        "HLTV",
-        "Insider Gaming",
-        "Esports Nations Cup 2026"
-      ],
-      "title": "All countries invited to Esports Nations Cup 2026 for every title and their rosters",
-      "link": "https://dotesports.com/general/news/enc-2026-invited-nations",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/07/enc-2026.webp",
-      "base_description": "Every country's representative."
-    },
-    {
-      "words": [
-        "counter",
-        "depart",
-        "furia",
-        "strike",
-        "valorant"
-      ],
-      "at": "2026-08-17T18:28:28.153520+00:00",
-      "message_id": "1538977858079170573",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV",
-        "Dot Esports",
-        "VLR.gg",
-        "Insider Gaming",
-        "Esports.gg",
-        "Hotspawn"
-      ],
-      "title": "FURIA fe depart Counter-Strike for VALORANT",
-      "link": "https://www.hltv.org/news/45329/furia-fe-depart-counter-strike-for-valorant",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/h858NrgRZ2eSeaw2V2PVwp.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=a5e8b54015dd12471c7ea79cd0932313",
-      "base_description": "The women's CS scene suffers another setback."
-    },
-    {
-      "words": [
-        "bethesda",
-        "could",
-        "fallout",
-        "mess",
-        "warns",
-        "your"
-      ],
-      "at": "2026-08-17T18:28:28.153520+00:00",
-      "message_id": "1538977872587399253",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "This Fallout 4 Update Could Mess With Your Game, Bethesda Warns",
-      "link": "https://insider-gaming.com/fallout-4-update-august-mess-with-game-bethesda/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Bethesda Game Studios has advised that tomorrow's big Fallout 4 update could mess with your mod load order, so you should take steps first! The post This Fallout 4 Update Could Mess With Your Game, Bethesda Warns appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "armao",
-        "expected",
-        "inspired",
-        "lcs",
-        "leaves",
-        "lyon",
-        "make",
-        "return"
-      ],
-      "at": "2026-08-17T18:28:28.153520+00:00",
-      "message_id": "1538977887649144833",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Armao Leaves LYON With Inspired Expected To Make LCS Return",
-      "link": "https://insider-gaming.com/armao-leaves-lyon-with-inspired-expected-to-make-lcs-return/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "LYON has confirmed that Armao has left the LCS organisation with Polish jungler Inspired expected to return to the League of Legends roster The post Armao Leaves LYON With Inspired Expected To Make LCS Return appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "amet",
-        "dolor",
-        "ipsum",
-        "lorem",
-        "sit"
-      ],
-      "at": "2026-08-17T18:28:28.153520+00:00",
-      "message_id": "1538977902333526037",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "The Esports Radar"
-      ],
-      "title": "Lorem ipsum dolor sit amet",
-      "link": "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa"
-    },
-    {
-      "words": [
         "crumbles",
         "owed",
         "passion",
@@ -21818,7 +21707,8 @@
       "sources": [
         "Inven Global (English)",
         "Esports.gg",
-        "Dexerto Esports"
+        "Dexerto Esports",
+        "Hotspawn"
       ],
       "title": "Smilegate: 16 Global Teams Converge for CrossFire at EWC 2026",
       "link": "https://www.invenglobal.com/articles/24860/smilegate-16-global-teams-converge-for-crossfire-at-ewc-2026",
@@ -23215,6 +23105,45 @@
       "color": 8141549,
       "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/07555660-hqa1k11wwaae5zy-1920x1080.webp",
       "base_description": "Check out the official FC 27 player ratings for the Premier League and WSL! See upgrades, downgrades, and stats for top stars."
+    },
+    {
+      "words": [
+        "alleged",
+        "footage",
+        "gameplay",
+        "gta",
+        "leaks",
+        "online"
+      ],
+      "at": "2026-08-18T19:07:48.263478+00:00",
+      "message_id": "1539350129784660019",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Alleged GTA 6 Gameplay Footage Leaks Online",
+      "link": "https://insider-gaming.com/alleged-gta-6-gameplay-footage-leaks-online/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "GTA 6 has suffered a fresh leak at the hands of a disgruntled fan, it has been claimed. Gameplay has seemingly appeared online. The post Alleged GTA 6 Gameplay Footage Leaks Online appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "post",
+        "red",
+        "roundup"
+      ],
+      "at": "2026-08-18T19:07:48.263478+00:00",
+      "message_id": "1539350149657133207",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Nerfplz"
+      ],
+      "title": "Red Post Roundup #3: Patch 26.17 Preview and Permabans",
+      "link": "https://www.nerfplz.com/2026/08/red-post-roundup-3-patch-2617-preview.html",
+      "color": 8141549,
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2jtobQB1nxGiub1uBzXZk7w7Au_eevVWeTPkAVNe-lfQI4TmgpHJLIWHOuOWzR-z46Q1W3uNyIOZU_E9TlLcn-amFjN2BWwLa6BMlvQtdKQNm4BO95LonjiUEy71kpsn2tQ2ZaYPPARJJjObbnyANCOvfxCuFE__pHanuyZG0BNigVY9-wxP_M5gT41c/s72-c-rw/nami.png",
+      "base_description": "26.17 is a stabilization patch, and a player who admitted abusing the ward bug asked for their ban back in public. The 26.17 preview landed, Sundered Sky is getting hit again, and Riot spent the weekend explaining exactly where cheating starts. Red Post Roundup August 15 to 18 Is"
     }
   ]
 }
