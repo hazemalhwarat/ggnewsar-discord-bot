@@ -8111,7 +8111,15 @@
     "https://esports.gg/guides/call-of-duty/how-to-redeem-your-modern-warfare-4-beta-code/",
     "https://gameriv.com/valorant-season-2026-act-5-battle-pass-all-skins-free-rewards-price-and-more/",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1cndVOF9IMHd2TTlQNDhaM3NJakhuNGhnQlgwWTI0ZUFCTDRSSVY1SEtIRUhWUjJuTWlEcDJHUkxCU1lTdklQYV80YXF4bkJHeDFN?oc=5",
-    "https://www.hotspawn.com/counter-strike/news/best-amphibious-gloves-knife-combos-in-cs2"
+    "https://www.hotspawn.com/counter-strike/news/best-amphibious-gloves-knife-combos-in-cs2",
+    "https://www.gfinityesports.com/article/fc-26-pre-season-token-store-guide-rewards-new-weekly-limit-more",
+    "https://www.gfinityesports.com/article/fc-26-pre-season-all-fc-27-carryover-rewards-delivery-dates",
+    "https://www.gfinityesports.com/article/fc-27-pre-order-icons-confirmed-list-champions-upgrades-more",
+    "https://www.gfinityesports.com/article/madden-27-review-a-step-forward-for-franchise-mode-but-gameplay-still-fumbles",
+    "https://esportsafricanews.com/paris-puts-africa-in-focus-inside-the-rise-of-african-esports/",
+    "https://www.invenglobal.com/articles/24848/nc-successfully-concludes-astrae-oratio-showcase-at-comiket-teaser-artbook-sold-out",
+    "https://www.invenglobal.com/articles/24847/digimon-masters-introduces-overclock-update-to-expand-u-grade-growth-limits",
+    "https://www.invenglobal.com/articles/24846/director-kim-su-yeon-i-dream-of-a-heart-pounding-brown-dust-2"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16211,7 +16219,11 @@
     "7ac127b0607f3d41b619ef18d4022282",
     "32f009252066757d946f329129ef84a3",
     "cb64e562fe1117b8650c86132b5c1211",
-    "e49dfc9eca759a581f7bf9b880c063e2"
+    "e49dfc9eca759a581f7bf9b880c063e2",
+    "57758a385b5d3c8cdb99d2d778a452f8",
+    "b4466fd08ffe5b00ba66ace10e5bb9f0",
+    "cfc1d297d9023324fd8c3b251e724d01",
+    "16fd6dee3480f3a4d74658f9431d777d"
   ],
   "transfers": {
     "pages": {
@@ -20406,22 +20418,6 @@
   "sent_stories": [
     {
       "words": [
-        "short"
-      ],
-      "at": "2026-08-17T00:48:47.704943+00:00",
-      "message_id": "1538711172025417760",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Short news: Week 32",
-      "link": "https://www.hltv.org/news/45272/short-news-week-32",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Catch up with more Counter-Strike news in bite-sized pieces."
-    },
-    {
-      "words": [
         "eintracht",
         "final",
         "fire",
@@ -22697,6 +22693,96 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Sport-Gloves-Amphibious-M9-Bayonet-Doppler-Sapphire.jpg",
       "base_description": "Counter-Strike players looking for premium blue gloves rarely look beyond the Sport Gloves Amphibious. This pair goes well with lots of knives in CS2, so you’re spoilt for choice. I’ve taken a look at some of the best Amphibious gloves knife combos in CS2 to see which ones are wo"
+    },
+    {
+      "words": [
+        "artbook",
+        "astrae",
+        "comiket",
+        "concludes",
+        "oratio",
+        "out",
+        "showcase",
+        "sold",
+        "successfully",
+        "teaser"
+      ],
+      "at": "2026-08-18T01:02:18.944261+00:00",
+      "message_id": "1539076958145740911",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "NC Successfully Concludes 'Astrae Oratio' Showcase at Comiket... Teaser Artbook Sold Out",
+      "link": "https://www.invenglobal.com/articles/24848/nc-successfully-concludes-astrae-oratio-showcase-at-comiket-teaser-artbook-sold-out",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Source: NC ©NCNC (co-CEOs Kim Taek-jin and Park Byung-moo) announced on the 18th that its new subculture RPG, 'Astrae Oratio' (developed by Dynamis One), successfully conclude......"
+    },
+    {
+      "words": [
+        "digimon",
+        "expand",
+        "grade",
+        "growth",
+        "introduces",
+        "limits",
+        "masters",
+        "overclock"
+      ],
+      "at": "2026-08-18T01:02:18.944261+00:00",
+      "message_id": "1539076973484048527",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Digimon Masters Introduces 'Overclock' Update to Expand U-Grade Growth Limits",
+      "link": "https://www.invenglobal.com/articles/24847/digimon-masters-introduces-overclock-update-to-expand-u-grade-growth-limits",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Data provided by Move Interactive ©Move InteractiveMove Interactive (CEO Kim Dong-sung) announced that it has updated its self-developed and serviced online game, 'Digimon Mas......"
+    },
+    {
+      "words": [
+        "brown",
+        "director",
+        "dream",
+        "dust",
+        "heart",
+        "kim",
+        "pounding",
+        "yeon"
+      ],
+      "at": "2026-08-18T01:02:18.944261+00:00",
+      "message_id": "1539076989682712708",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Director Kim Su-yeon: \"I Dream of a Heart-Pounding Brown Dust 2\"",
+      "link": "https://www.invenglobal.com/articles/24846/director-kim-su-yeon-i-dream-of-a-heart-pounding-brown-dust-2",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Brown Dust 2 Director Kim Su-yeon ©INVENOn the 23rd, an unexpected figure appeared on the official Brown Dust 2 broadcast: Kim Su-yeon, a producer previously known for pushing......"
+    },
+    {
+      "words": [
+        "africa",
+        "focus",
+        "paris",
+        "puts"
+      ],
+      "at": "2026-08-18T01:02:18.944261+00:00",
+      "message_id": "1539077004744466443",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Africa News"
+      ],
+      "title": "Paris Puts Africa in Focus: Inside the Rise of African Esports",
+      "link": "https://esportsafricanews.com/paris-puts-africa-in-focus-inside-the-rise-of-african-esports/",
+      "color": 8141549,
+      "image_url": "https://esportsafricanews.com/wp-content/uploads/2026/08/1786636805542.jpeg",
+      "base_description": "Paris will become a focal point for the global esports industry this week as executives,..."
     }
   ]
 }
