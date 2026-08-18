@@ -8255,7 +8255,13 @@
     "https://esports.gg/news/fortnite/fortnite-kernel-hearts/",
     "https://insider-gaming.com/exclusive-star-wars-galactic-racer-dev-confident-of-living-up-to-prestige-of-the-franchise/",
     "https://insider-gaming.com/exclusive-why-rewarding-failure-is-crucial-to-star-wars-galactic-racer/",
-    "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet-4/"
+    "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet-4/",
+    "https://insider-gaming.com/control-resonant-goes-gold-but-physical-edition-delayed/",
+    "https://insider-gaming.com/the-blood-of-dawnwalker-game-length-hours/",
+    "https://esports.gg/news/esports/ewc-club-championship-2026-leaderboard-all-rankings-and-winners/",
+    "https://www.hotspawn.com/world-of-warcraft/news/how-to-watch-the-venomous-abyss-race-to-world-first",
+    "https://esportsradar.gg/lorem-ipsum-dolor-sit-amet-5/",
+    "https://realsport101.com/article/fc-27-player-ratings-top-10-highest-rated-mens-womens-stars"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16471,7 +16477,12 @@
     "9adc1889eaf61b69bbfa95dc506cc537",
     "29f73e75f5bee15c3431b25a18e6000c",
     "8f921cf588fe17e34ac2173d54a75d40",
-    "a540af73345aa96fac7c347ec1503fde"
+    "a540af73345aa96fac7c347ec1503fde",
+    "bdfecdebaef6547f9a36c0c9d4887113",
+    "87cc18edac994af69ea196910564ea58",
+    "c1deb8bb590f8cefa9aa6dc092798526",
+    "5328e319901d15846529a5fef7dbb0a0",
+    "7b02a706e8f2bb385a41fb0f7e32ec26"
   ],
   "transfers": {
     "pages": {
@@ -20666,26 +20677,6 @@
   "sent_stories": [
     {
       "words": [
-        "highest",
-        "players",
-        "rated",
-        "top",
-        "ultimate"
-      ],
-      "at": "2026-08-17T15:49:09.763980+00:00",
-      "message_id": "1538937752060436552",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Top 50 Highest-Rated Players In EA FC 27 Ultimate Team",
-      "link": "https://insider-gaming.com/top-50-highest-rated-players-in-ea-fc-27-ultimate-team/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "The top 50 players in EA FC 27 have been revealed, and it's full of footballers you'll be desperate to add to your Ultimate Team. The post Top 50 Highest-Rated Players In EA FC 27 Ultimate Team appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "cup",
         "dralii",
         "dynasty",
@@ -22961,6 +22952,96 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Speaking to Insider Gaming, Star Wars: Galactic Racer creative director Kieran Crimmins expressed confidence of living up to the franchise prestige. The post EXCLUSIVE: Star Wars: Galactic Racer Dev Confident of Living Up to ‘Prestige’ of The Franchise appeared first on Insider G"
+    },
+    {
+      "words": [
+        "but",
+        "control",
+        "delayed",
+        "edition",
+        "goes",
+        "gold",
+        "physical",
+        "resonant"
+      ],
+      "at": "2026-08-18T15:56:32.979079+00:00",
+      "message_id": "1539302000016105575",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "CONTROL Resonant Goes Gold, But Physical Edition Delayed",
+      "link": "https://insider-gaming.com/control-resonant-goes-gold-but-physical-edition-delayed/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "CONTROL Resonant has gone gold over a month ahead of it's release, however, the physical version has been delayed. The post CONTROL Resonant Goes Gold, But Physical Edition Delayed appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "blood",
+        "dawnwalker",
+        "hours",
+        "how",
+        "length",
+        "long",
+        "total"
+      ],
+      "at": "2026-08-18T15:56:32.979079+00:00",
+      "message_id": "1539302015832952833",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "How Long Is The Blood of Dawnwalker? Game Length & Total Hours",
+      "link": "https://insider-gaming.com/the-blood-of-dawnwalker-game-length-hours/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "While the game has a special timer, find out how long The Blood of Dawnwalker actually is if you're settling down for a playthrough. The post How Long Is The Blood of Dawnwalker? Game Length & Total Hours appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "abyss",
+        "first",
+        "how",
+        "race",
+        "venomous",
+        "watch",
+        "world"
+      ],
+      "at": "2026-08-18T15:56:32.979079+00:00",
+      "message_id": "1539302031657803848",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "How to Watch The Venomous Abyss Race to World First",
+      "link": "https://www.hotspawn.com/world-of-warcraft/news/how-to-watch-the-venomous-abyss-race-to-world-first",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Wow-Venemous-Abyss-Race2.webp",
+      "base_description": "Venomous Abyss Race to World First is the closest thing WoW has to a Grand Final, and it’s back for Midnight Season 2. The world’s best raiding guilds are about to throw themselves at The Venomous Abyss, grinding 12- to 16-hour days to be the first on the planet to kill the final"
+    },
+    {
+      "words": [
+        "highest",
+        "men",
+        "player",
+        "rated",
+        "ratings",
+        "stars",
+        "top",
+        "women"
+      ],
+      "at": "2026-08-18T15:56:32.979079+00:00",
+      "message_id": "1539302046975660104",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "RealSport101"
+      ],
+      "title": "FC 27 Player Ratings: Top 10 Highest-Rated Men's & Women's Stars",
+      "link": "https://realsport101.com/article/fc-27-player-ratings-top-10-highest-rated-mens-womens-stars",
+      "color": 8141549,
+      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/f00211e3-copy-of-1x1_slide-2-1920x1080.webp",
+      "base_description": "Check out the official FC 27 player ratings! See who made the Top 10 men's and women's lists, major upgrades, and full database release dates."
     }
   ]
 }
