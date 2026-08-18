@@ -8133,7 +8133,13 @@
     "https://siege.gg/ea-sports-fc/fc-26-pre-season-token-store-guide-rewards-new-weekly-limit-more",
     "https://siege.gg/ea-sports-fc/fc-26-pre-season-all-fc-27-carryover-rewards-delivery-dates",
     "https://siege.gg/ea-sports-fc/fc-27-pre-order-icons-confirmed-list-champions-upgrades-more",
-    "https://siege.gg/reviews/madden-27-review-a-step-forward-for-franchise-mode-but-gameplay-still-fumbles"
+    "https://siege.gg/reviews/madden-27-review-a-step-forward-for-franchise-mode-but-gameplay-still-fumbles",
+    "https://dotesports.com/the-first-descendant/news/tfd-mega-dungeon-conquest-event",
+    "https://esports.gg/interviews/mobile/sam-turkbas-interview-fc-pro-mobile-community-passion/",
+    "https://esports.gg/news/dota-2/the-international-2026-playoffs-schedule-results/",
+    "https://www.nerfplz.com/2026/08/patch-2616-tier-list-analysis-whats.html",
+    "https://www.invenglobal.com/articles/24856/intense-ranking-battle-as-2026-lck-regular-season-nears-finish-line",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDhHdmN0SVp6U2pQTDExN3ktTzVfcXAxMkVxaEFTN0VhMHpTWFNPQzh0dld6NHhNQ1VEdFctQVVSYlBPbldSVlNkdFpFeG8yeFFGSkQ1VWpIX3N5WWduUEpWdGVvRTFfazFaeXNLNVhWaC1pZmhrRlB0YlVhNy1fMHAyNXhjeXNEcGRWWTR4a3dCcGVzV3FNcVJ4UnZpRDA?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16247,7 +16253,13 @@
     "34f4e71dd42fdc5add921cdf7694c379",
     "ad6f765da3988177c7529604411af7ec",
     "311bbc17ccf3391db7034d748cbe3ea3",
-    "96c3ae968f7cce001115b6cf94df9d9a"
+    "96c3ae968f7cce001115b6cf94df9d9a",
+    "50b7f9dff56b65f47cf6d93de25c90e3",
+    "beef116a1aa93d0baaba2cdbe41fad73",
+    "14d4702b044279255c70849d1493ef15",
+    "061c1d65ed1fea75019fca5299f9503b",
+    "cebd0238720d6d317d4df37d9910a7c9",
+    "7b89cc03e76fa8d9a61e73792364b4ee"
   ],
   "transfers": {
     "pages": {
@@ -21478,7 +21490,8 @@
       "message_id": "1538899614126571582",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Esports.gg"
       ],
       "title": "European Elite Prepare for The International Playoffs as Chinese Teams Suffer Disappointing Home Event",
       "link": "https://insider-gaming.com/the-international-2026-ti-15-playoff-preview/",
@@ -22545,7 +22558,8 @@
       "message_id": "1539043473829929024",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "GameRiv"
+        "GameRiv",
+        "Inven Global (English)"
       ],
       "title": "VALORANT Season 2026 Act 5 Battle Pass: All Skins, Free Rewards, Price, and More",
       "link": "https://gameriv.com/valorant-season-2026-act-5-battle-pass-all-skins-free-rewards-price-and-more/",
@@ -22869,6 +22883,74 @@
       "color": 8141549,
       "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/KH4_D23_4K_6.jpg",
       "base_description": "Sora returns alongside a new animated series."
+    },
+    {
+      "words": [
+        "conquest",
+        "descendant",
+        "dungeon",
+        "event",
+        "first",
+        "into",
+        "leaderboard",
+        "mega",
+        "race",
+        "turns",
+        "upcoming"
+      ],
+      "at": "2026-08-18T05:08:37.050460+00:00",
+      "message_id": "1539138946737643611",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "The First Descendant’s Conquest event turns the upcoming Mega Dungeon into a leaderboard race",
+      "link": "https://dotesports.com/the-first-descendant/news/tfd-mega-dungeon-conquest-event",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/tfd-season-4-karel.webp",
+      "base_description": "Conquest launches two weeks after Season 4 launch."
+    },
+    {
+      "words": [
+        "community",
+        "happy",
+        "mobile",
+        "passion",
+        "pro",
+        "sam",
+        "sports",
+        "turkbas"
+      ],
+      "at": "2026-08-18T05:08:37.050460+00:00",
+      "message_id": "1539138961153327197",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Sam Turkbas: EA Sports happy with FC Pro Mobile, community passion",
+      "link": "https://esports.gg/interviews/mobile/sam-turkbas-interview-fc-pro-mobile-community-passion/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "The debut year of EA Sports FC Pro Mobile esports is going strong, and Senior Director Sam Turkbas calls the passion 'amazing.'"
+    },
+    {
+      "words": [
+        "analysis",
+        "list",
+        "patch",
+        "tier"
+      ],
+      "at": "2026-08-18T05:08:37.050460+00:00",
+      "message_id": "1539138981726261269",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Nerfplz"
+      ],
+      "title": "Patch 26.16 Tier List Analysis: What's Moved So Far",
+      "link": "https://www.nerfplz.com/2026/08/patch-2616-tier-list-analysis-whats.html",
+      "color": 8141549,
+      "image_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjQJSoT-qCG-azJLjli_W5a9kkIIPe-Xo1dzwNDaswcIBxB_Ahz8ZbGBhHc022oLMPuFKAcNRlyTuyOhQ0uiF3l2TK-NxSX3FeL477gxjm0CAUR2DcaGTgU9aqeTtX77ejl7swvE2PUCelDUzU1DAGf2yb_cZ-7pC-d7cFbqtAj2PN9b34ZZDaZf6H9uog=s72-c-rw",
+      "base_description": "Patch 26.16 Tier List Analysis: We're a week into Patch 26.16 and the forecast is mostly holding up. Nasus is taking top lane exactly as called, the mages are coming out of bot lane exactly as called, and support hasn't moved an inch. This is where 26.16 stands right now, how our"
     }
   ]
 }
