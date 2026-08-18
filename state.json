@@ -8306,7 +8306,11 @@
     "https://esports.gg/news/grand-theft-auto-6/the-full-gta-6-map-has-been-leaked-and-fans-arent-thrilled-with-it/",
     "https://insider-gaming.com/gta-6-leaker-threatens-rockstar-and-other-major-publishers-with-further-action/",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sYnJFNHpla1c0XzlwYmZERm9fR1NSUHRDeUZybVl3NlFscXRBSnd4UHFLTTFURFNsc0xFNERtVGF3YmNWaEs2amRwdzkteXNMN1pnaHVXS2tKYnRBM1RhZjBWZXZFN1ZqZ205TW5EbWpPc2s?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWk5iSEx4VTdGNXRsc2E4dkxnVUs3OV9JbklRT1lBOGJUdWFEUHNpUmVOYloxT3ZTNWVFRFZiU1ZPcnEzWHczU2R4RExoWGpSOERkVVRvT1VabWVid1VxcFhwSkJvVDREXzEyeWlxcXV3c1BRVVVvZ0hZVXFkSW5SVmxXY3BOWXcxbUxveg?oc=5"
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWk5iSEx4VTdGNXRsc2E4dkxnVUs3OV9JbklRT1lBOGJUdWFEUHNpUmVOYloxT3ZTNWVFRFZiU1ZPcnEzWHczU2R4RExoWGpSOERkVVRvT1VabWVid1VxcFhwSkJvVDREXzEyeWlxcXV3c1BRVVVvZ0hZVXFkSW5SVmxXY3BOWXcxbUxveg?oc=5",
+    "https://gameriv.com/lol-patch-26-17-preview/",
+    "https://insider-gaming.com/gta-6-leaked-footage-is-from-2024-or-earlier-metadata-suggests/",
+    "https://esportsadvocate.net/2026/08/esports-foundation-postpones-nations-cup-2027/",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeUlmWnYxUDhJQWtjX3JvYlVJbHhVLVBBMlFtaFl6bEZDUjNLVXFwdFAwaThPZUtyNDhjRTlOYkZ1a1kzelR4SGlCXzQtdWZINTNDQXl3QWhnYXAxVUVVSjdidlhkemwxSlNtQW9TR3JEVGp5RTNiSDN6Mm05WEZDMmdZRlVrWFUzaUE?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16560,7 +16564,11 @@
     "81c55467cda7672881d79eab8e38faae",
     "7be0a6e9ef6612a1f2f4bfda056ca4ea",
     "9c5cedb1dc2ec7127a6cc3c82672278a",
-    "8d9bda055d99091fa1849971b81462e7"
+    "8d9bda055d99091fa1849971b81462e7",
+    "cfe102c2c9dbafccf9219e9e498dfccc",
+    "7cfb31f3c374bf4cfddebc69d8f15f69",
+    "4a58bd381e979ff421ee09469b4e8697",
+    "d16a8b602bdb7fda0792ecd8d313a625"
   ],
   "transfers": {
     "pages": {
@@ -20755,49 +20763,6 @@
   "sent_stories": [
     {
       "words": [
-        "among",
-        "connect",
-        "gamerlegion",
-        "liquid",
-        "list",
-        "logitech",
-        "play"
-      ],
-      "at": "2026-08-17T20:25:18.965050+00:00",
-      "message_id": "1539007248221741128",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Liquid, B8, and GamerLegion among Logitech G Play Connect team list",
-      "link": "https://www.hltv.org/news/45330/liquid-b8-and-gamerlegion-among-logitech-g-play-connect-team-list",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/s4cj60y8AHVE0O3jZ_sbeg.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=1165ed82f0ec3adb7c518985750849bd",
-      "base_description": "10 of the 12 teams that will compete at the $100,000 LAN in Warsaw in September are now known."
-    },
-    {
-      "words": [
-        "confirmed",
-        "cup",
-        "nations",
-        "qualifiers",
-        "special",
-        "sports"
-      ],
-      "at": "2026-08-17T20:25:18.965050+00:00",
-      "message_id": "1539007262629302403",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Esports Nations Cup: EA Sports FC Special Qualifiers Confirmed",
-      "link": "https://insider-gaming.com/esports-nations-cup-ea-sports-fc-special-qualifiers-confirmed/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Special qualifiers have confirmed five more players for the EA Sports FC tournament at the Esports Nations Cup later this year The post Esports Nations Cup: EA Sports FC Special Qualifiers Confirmed appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "been",
         "chance",
         "few",
@@ -21729,7 +21694,8 @@
         "Dot Esports",
         "Esports.gg",
         "The Esports Radar",
-        "Esports Nations Cup 2026"
+        "Esports Nations Cup 2026",
+        "Esports Advocate"
       ],
       "title": "Esports Nations Cup inaugural edition postponed to 2027 amid uncertainty in Middle East",
       "link": "https://dotesports.com/general/news/esports-nations-cup-postponed",
@@ -23029,7 +22995,8 @@
       "message_id": "1539362737736515605",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "GameRiv"
       ],
       "title": "LoL Patch 26.17 Preview: Yasuo Buffs and Thresh Nerfs",
       "link": "https://insider-gaming.com/lol-patch-26-17-preview-yasuo-buffs-thresh-nerfs/",
@@ -23106,6 +23073,28 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Fortnite Reload Elite Series at EWC 26 Survival Guide Esports World Cup"
+    },
+    {
+      "words": [
+        "2024",
+        "earlier",
+        "footage",
+        "gta",
+        "leaked",
+        "metadata",
+        "suggests"
+      ],
+      "at": "2026-08-18T20:48:21.838008+00:00",
+      "message_id": "1539375441679360191",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "GTA 6 Leaked Footage is From 2024 or Earlier, Metadata Suggests",
+      "link": "https://insider-gaming.com/gta-6-leaked-footage-is-from-2024-or-earlier-metadata-suggests/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The vast GTA 6 leak might not be new footage, as Metadata suggests the footage and screenshots are from 2024 or even before then. The post GTA 6 Leaked Footage is From 2024 or Earlier, Metadata Suggests appeared first on Insider Gaming ."
     }
   ]
 }
