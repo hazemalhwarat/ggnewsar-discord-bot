@@ -8141,7 +8141,12 @@
     "https://www.invenglobal.com/articles/24856/intense-ranking-battle-as-2026-lck-regular-season-nears-finish-line",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDhHdmN0SVp6U2pQTDExN3ktTzVfcXAxMkVxaEFTN0VhMHpTWFNPQzh0dld6NHhNQ1VEdFctQVVSYlBPbldSVlNkdFpFeG8yeFFGSkQ1VWpIX3N5WWduUEpWdGVvRTFfazFaeXNLNVhWaC1pZmhrRlB0YlVhNy1fMHAyNXhjeXNEcGRWWTR4a3dCcGVzV3FNcVJ4UnZpRDA?oc=5",
     "https://www.invenglobal.com/articles/24857/2k-officially-launches-man-of-honor-expansion-for-mafia-the-old-country",
-    "https://www.invenglobal.com/articles/24858/the-first-descendant-invasion-update-features-battle-against-arch-nemesis-karel"
+    "https://www.invenglobal.com/articles/24858/the-first-descendant-invasion-update-features-battle-against-arch-nemesis-karel",
+    "https://dotesports.com/the-first-descendant/news/the-first-descendant-2026-roadmap",
+    "https://esports.gg/guides/roblox/emberlight-pet-in-adopt-me-trading-value/",
+    "https://www.gamesindustry.biz/gyld-closes-oversubscribed-1m-seed-round-to-fund-proprietary-games-research-system",
+    "https://europeangaming.eu/portal/press-releases/2026/08/18/212820/creedroomz-crypto-market-live-dealer-game/",
+    "https://www.invenglobal.com/articles/24859/alice-the-city-god-a-unique-folk-rpg-based-on-taiwans-city-god-temples"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16263,7 +16268,12 @@
     "cebd0238720d6d317d4df37d9910a7c9",
     "7b89cc03e76fa8d9a61e73792364b4ee",
     "6d86ddb59b2a31f6c758012df0f3e5da",
-    "20e33b42a545a9eae6e3db91f0a527aa"
+    "20e33b42a545a9eae6e3db91f0a527aa",
+    "44a87e770d07fbd86bc278ccdebf6c45",
+    "83b33b943669fe07f3324ebafdf0c102",
+    "11a06df0469a04497eef5eef36a0a77f",
+    "3d635902147cfaaccc6b79ef63adcb1b",
+    "42e8c441ce2dd01e359d154760cd765a"
   ],
   "transfers": {
     "pages": {
@@ -22968,6 +22978,97 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Nexon has announced that 'Invasion' will be coming to The First Descendant on the 20th.On the 18th, Nexon released a trailer on The First Descendant's official YouTube channel summ......"
+    },
+    {
+      "words": [
+        "alice",
+        "based",
+        "city",
+        "folk",
+        "god",
+        "rpg",
+        "taiwan",
+        "temples",
+        "unique"
+      ],
+      "at": "2026-08-18T07:03:24.914867+00:00",
+      "message_id": "1539167831374045185",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'Alice the City God,' a unique folk RPG based on Taiwan's City God temples'",
+      "link": "https://www.invenglobal.com/articles/24859/alice-the-city-god-a-unique-folk-rpg-based-on-taiwans-city-god-temples",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Huang Wei-cheng, Producer at Five Dogs, ©INVENWhen people think of Taiwanese indie games, they often recall a distinct Taoist aesthetic...."
+    },
+    {
+      "words": [
+        "2026",
+        "descendant",
+        "first",
+        "mode",
+        "more",
+        "pvevp",
+        "raven",
+        "roadmap",
+        "transcendent",
+        "weapons"
+      ],
+      "at": "2026-08-18T07:03:24.914867+00:00",
+      "message_id": "1539167847215923272",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "The First Descendant 2026 roadmap: Raven, PvEvP mode, Transcendent weapons, and more",
+      "link": "https://dotesports.com/the-first-descendant/news/the-first-descendant-2026-roadmap",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2025/12/tfd-yujin-dungeon.jpg",
+      "base_description": "A busy year ahead."
+    },
+    {
+      "words": [
+        "adopt",
+        "emberlight",
+        "pet"
+      ],
+      "at": "2026-08-18T07:03:24.914867+00:00",
+      "message_id": "1539167861908709410",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Emberlight pet in Adopt Me: How to get and trading value",
+      "link": "https://esports.gg/guides/roblox/emberlight-pet-in-adopt-me-trading-value/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Are you looking for this cute piece of light? Learn its current trading value now!"
+    },
+    {
+      "words": [
+        "closes",
+        "fund",
+        "gyld",
+        "oversubscribed",
+        "proprietary",
+        "research",
+        "round",
+        "seed",
+        "system"
+      ],
+      "at": "2026-08-18T07:03:24.914867+00:00",
+      "message_id": "1539167876823654545",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "GYLD closes oversubscribed $1m seed round to fund proprietary games research system",
+      "link": "https://www.gamesindustry.biz/gyld-closes-oversubscribed-1m-seed-round-to-fund-proprietary-games-research-system",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/gyld-critical-compass.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "Games publishing and investment agency GYLD has closed an oversubscribed $1 million seed round to support its proprietary games research system, Critical Compass. Read more"
     }
   ]
 }
