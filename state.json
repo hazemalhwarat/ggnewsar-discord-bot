@@ -8200,7 +8200,13 @@
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVM3bmhkZTcxVzBRWVFVMGFUUUdpd2E0YkpKbTZ4cVdqQnp0OXZrRWtyWnNqV3FGZXJ5VzlYUjZjY2xCOGlvc2JuNVUwNG5xMDJDTzBJV2NZMlNybXFBUTdrajE4bXY3aVpMSzFsTUQ1WUF0d2phMHlGbDNWOHFJRg?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZGZHejhkdEtVcVFlQVRGM3pndWdNUUVGQlZkeWFRVXg5QUg0ajRSSmFJVXZKdkdMaDQ2VHBEbUplak1LejNfUm5Qa19wTXBJenhsb3BnY0NGazZNSzI2UTF6TTRjc1BXN1ZYWFV1MEhrUXZCOWNlcXh2TXZGLW5rNTQycWpya0h1VmdpV0VQNXFlc210Z1VTeTFYSGpZMHZHR2duTWY3dVNTM0V6N0ZYU1Npcw?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVlvSW5HSmFtaUJyT3hkdlEtRlVYcXFwTjd3TWtlOW13bUh1eV9FeTdPUXo2N2NEQ1hfaVI1Z0c2a3V5RUNsald2UHl0MlloSTd5NHY3aGEtbHoyN1dhTUtDUDU2d094ekl4LW9nT1ZRYXVzUERuMTRvZmtCbmlwYWJMeWQ3X0Jf?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGFRaGdNMUhubnZzakxvYTZxUjB5UEwzNFdoYkQ2SUQ5ZmVwcTd6S3FfLVphZ0hJTnlzWE5wRjVMQVZBTFh4MXJwcURvQUhZWFlxTkluaklEMFlRMDl4anUwWEJSUmc4MEZLR3ptSjR5X0dUWWF5VWxqWTRFYjdYWElidk9DMkJHcklNQ2NocDZPYmZXRmNNM0tDb29LajJTVmpJZHFyMHl3VkszRXdVOHhR?oc=5"
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGFRaGdNMUhubnZzakxvYTZxUjB5UEwzNFdoYkQ2SUQ5ZmVwcTd6S3FfLVphZ0hJTnlzWE5wRjVMQVZBTFh4MXJwcURvQUhZWFlxTkluaklEMFlRMDl4anUwWEJSUmc4MEZLR3ptSjR5X0dUWWF5VWxqWTRFYjdYWElidk9DMkJHcklNQ2NocDZPYmZXRmNNM0tDb29LajJTVmpJZHFyMHl3VkszRXdVOHhR?oc=5",
+    "https://esports-news.co.uk/2026/08/18/esports-nations-cup-postponed-2027-team-gb/",
+    "https://esports-news.co.uk/2026/08/18/coinpoker-daily-dollar-tournament-5000-sunday-guarantee/",
+    "https://insider-gaming.com/warren-spector-retirement/",
+    "https://www.nerfplz.com/2026/08/top-team-comps-134-all-gas-no-brakes.html",
+    "https://europeangaming.eu/portal/press-releases/2026/08/18/212850/playnetic-light-and-wonder-opengaming-deal/",
+    "https://www.gamesindustry.biz/gyld-raises-1m-to-fund-proprietary-games-research-system-that-marked-clair-obscur-as-a-potential-hit"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16369,7 +16375,12 @@
     "cd623df009dee0b8052a2e2cb7f05ddd",
     "8b6bf935b04620009eb4197deb1fd14d",
     "a2f5a449e1bce1dedfc261baa3dfd49c",
-    "ce2235656f1076d5b9dc70d03c784e7b"
+    "ce2235656f1076d5b9dc70d03c784e7b",
+    "ecf7dc4e45fb294270b3e23f7f60d2ba",
+    "81c0469602a958b962d665012667f529",
+    "be953b4fcc021cddafe6c5897d967490",
+    "ce43e046c3cd9da8f1f928cf26b40875",
+    "187f4efbac70f543bd985a960f39cb54"
   ],
   "transfers": {
     "pages": {
@@ -23272,6 +23283,100 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "©Kohei Ikeda(Nakatsu)@nkt_dreamerKohei Ikeda, who left Bandai Namco Entertainment on June 1, announced via social media today (the 18th) that he has joined VS Studio, founded ......"
+    },
+    {
+      "words": [
+        "000",
+        "coinpoker",
+        "daily",
+        "dollar",
+        "guarantee",
+        "launches",
+        "raised",
+        "sunday",
+        "tournament"
+      ],
+      "at": "2026-08-18T11:19:28.706153+00:00",
+      "message_id": "1539232271318392906",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports News UK"
+      ],
+      "title": "CoinPoker launches $1 Daily Dollar tournament with Sunday guarantee raised to $5,000",
+      "link": "https://esports-news.co.uk/2026/08/18/coinpoker-daily-dollar-tournament-5000-sunday-guarantee/",
+      "color": 8141549,
+      "image_url": "https://esports-news.co.uk/wp-content/uploads/2026/08/daily-dollar-pr-300x172.png",
+      "base_description": "CoinPoker has launched a new daily $1 poker tournament, and increased the guarantee for its weekly Sunday edition following its opening weekend. The Daily Dollar debuted on 13 August and runs at 17:00 UTC from Monday to Saturday, carrying a $1 buy-in and a guaranteed $1,000 prize"
+    },
+    {
+      "words": [
+        "creator",
+        "deus",
+        "developer",
+        "retiring",
+        "spector",
+        "warren"
+      ],
+      "at": "2026-08-18T11:19:28.706153+00:00",
+      "message_id": "1539232287198150717",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Deus Ex Creator Warren Spector is Retiring From Game Developer",
+      "link": "https://insider-gaming.com/warren-spector-retirement/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Deus Ex creator Warren Spector has announced that he is retiring from game development... Or at the very least, he thinks he is. The post Deus Ex Creator Warren Spector is Retiring From Game Developer appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "134",
+        "all",
+        "ambessa",
+        "brakes",
+        "briar",
+        "comps",
+        "fizz",
+        "gas",
+        "glasc",
+        "nilah",
+        "renata",
+        "top"
+      ],
+      "at": "2026-08-18T11:19:28.706153+00:00",
+      "message_id": "1539232302373146675",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Nerfplz"
+      ],
+      "title": "Top Team Comps #134: All Gas, No Brakes (Ambessa, Briar, Fizz, Nilah & Renata Glasc)",
+      "link": "https://www.nerfplz.com/2026/08/top-team-comps-134-all-gas-no-brakes.html",
+      "color": 8141549,
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9ZZrddDX4yxUnpQ3F7sCvZgV5BNBVhuOyDH963UHbYfKtO3mgDE6H7_XSs-jZrnwBZRVmzh0q0iROKS5esZMSBTZoHmL_8qlHhcOlIJclL76cxcZ0e2uevvvYPHijbvMyuSSZ-OKUlN4/s72-c-rw/topteamcompsmall.png",
+      "base_description": "Nobody on this team owns a reverse gear. Every button these five champions have points forward, and one of them hands out extra lives when that goes wrong. Top Team Comps All Gas, No Brakes Ambessa · Briar · Fizz · Nilah · Renata Glasc Nobody on this team owns a reverse gear. Eve"
+    },
+    {
+      "words": [
+        "content",
+        "goes",
+        "light",
+        "live",
+        "marketplace",
+        "playnetic",
+        "wonder"
+      ],
+      "at": "2026-08-18T11:19:28.706153+00:00",
+      "message_id": "1539232316692500591",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "Playnetic goes live with Light & Wonder content marketplace",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/08/18/212850/playnetic-light-and-wonder-opengaming-deal/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Playnetic-goes-live-with-Light-Wonder-content-marketplace.jpg",
+      "base_description": "The deal extends Playnetic’s distribution reach as the studio pursues a multi-aggregator strategy across European regulated markets. Independent… The post Playnetic goes live with Light & Wonder content marketplace appeared first on European Gaming Industry News ."
     }
   ]
 }
