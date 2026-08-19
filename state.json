@@ -8531,7 +8531,9 @@
     "https://insider-gaming.com/gta-6-cyberleek-monetizes-gameplay-leaks/",
     "https://esports.gg/news/hearthstone/hearthstone-tavern-brawl-the-great-amalgamation-decks/",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YamxXVWZ6ejNpZkZpVUlTS1V4VEkzbHpMRkt2aVRnZWx4NTN1d1dmVVZGaEZWbWVnZ2trZXlORTVOTDZFemc1UFFkbFdJeVRSYUVnZEd3Sk5pQU00cmRLZGpZbw?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2d0M3VmbS1hTGpiajhiYjB5MlhQYlBkaXJ0aG92ODVsOS13UTJDcUZ2cW9RZml1UkhvR3VXQk1BSmQ4aWlvMkhiOVdXVndHNTJJc3ZvYnBIN1MzYVEyOVJWbzQ2RnljOTluTzJMOUp5UjZvbGNISjVkd1NNdWJjSldXV1BYZTZyblhUNE9iWXViTjg2a05jRTNHQmlpZ2tiaEtCSm9GSUZiUlhvQVVMcUZMVl9NQ2RiY1JyQzFn?oc=5"
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2d0M3VmbS1hTGpiajhiYjB5MlhQYlBkaXJ0aG92ODVsOS13UTJDcUZ2cW9RZml1UkhvR3VXQk1BSmQ4aWlvMkhiOVdXVndHNTJJc3ZvYnBIN1MzYVEyOVJWbzQ2RnljOTluTzJMOUp5UjZvbGNISjVkd1NNdWJjSldXV1BYZTZyblhUNE9iWXViTjg2a05jRTNHQmlpZ2tiaEtCSm9GSUZiUlhvQVVMcUZMVl9NQ2RiY1JyQzFn?oc=5",
+    "https://gameriv.com/skyrim-special-edition-august-20-update-increases-console-mod-storage-limits/",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0l4U21VdzV0b0pneWFIN0lyOE1WTVpkbjlDWUVVbEJlcHBVWkNYREtJQW53Y2xpQlQ1WEt6TGplUlNjNVBWOHBsYW5QckJycGNIRk1IQ2FydlpTeEgyTW1Od2dmbVVsaHJJNFE5WDdaU1NNUDNaRzM2MzREWmhoNDdJNThnTW9taU5WWENRMXRYcmNIYTBidmtOMmxuaVBpOFJtNg?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16979,7 +16981,9 @@
     "5c572b05499ab79a9d778f6915f3d549",
     "17b5b7755db9899bf4c8c74a36b10ded",
     "73541ec300ff72690e77bdd1f6e76944",
-    "51fcf420907364453865348ac9821a98"
+    "51fcf420907364453865348ac9821a98",
+    "d8097582918350403769840bf23a401c",
+    "33090967ff4c2bb0acad8c4a3d264bfe"
   ],
   "transfers": {
     "pages": {
@@ -23887,6 +23891,30 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "Here's how to win in The Great Amalgamation, which is this week's Hearthstone Tavern Brawl."
+    },
+    {
+      "words": [
+        "august",
+        "console",
+        "edition",
+        "increases",
+        "limits",
+        "mod",
+        "skyrim",
+        "special",
+        "storage"
+      ],
+      "at": "2026-08-19T23:46:02.173319+00:00",
+      "message_id": "1539782537306579057",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "Skyrim Special Edition August 20 Update Increases Console Mod Storage Limits",
+      "link": "https://gameriv.com/skyrim-special-edition-august-20-update-increases-console-mod-storage-limits/",
+      "color": 8141549,
+      "image_url": "https://gameriv.com/wp-content/uploads/2026/07/creation-engine.jpg",
+      "base_description": "Bethesda Game Studios is rolling out a new update for The Elder Scrolls V: Skyrim Special Edition on Thursday, August 20, with console modders getting one of the most notable improvements. The upcoming patch will increase console mod storage limits while also introducing addition"
     }
   ]
 }
