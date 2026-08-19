@@ -8459,7 +8459,11 @@
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tMDNOX2lWdDdqVnRHMi1IeUEyU2Z3a2RZWnF1Y2NDSjFiMGdCdkQ3TlZHMGFjeG9TaXlrV09DSEczZF9BZUptbkJCeWZBRWM?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIU2pBM3UxdmVKT21MUjVFWHI1SGpLSk1DT3R5VVVod0FyeUQ2T3FIX2dlU2tjV05UX25FejBwWVZSZDE4UXZMaDhHNDR6V0pTUmh3?oc=5",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXJWT2tkZ3FvNTdFQUFUUTJxcTNNQ25TWHN1NVQ4Z3JkOVgwZ28temxkbjFyVmpDWjYtN25WYzhuRTBWbEU5bzBCRGRGWWdJS3hOT2VoU0lTdVNhT1lNZ3hXNDhtM1l1QVZWVjhMam5KN1NzR2tVbXpJamhfYlh4SU1mcjhGQ0tlV2s5V1BOZ0ZTb1RqRDVHdmZpQ0FnWWJrUFZYVlJFWU9QNVNHbnMzOVg1dGRybnNSLXdF?oc=5",
-    "https://www.gamesindustry.biz/as-more-people-play-games-even-the-tiniest-niches-find-a-bigger-audience-why-matt-webster-is-convinced-people-want-star-wars-galactic-racer"
+    "https://www.gamesindustry.biz/as-more-people-play-games-even-the-tiniest-niches-find-a-bigger-audience-why-matt-webster-is-convinced-people-want-star-wars-galactic-racer",
+    "https://esports-news.co.uk/2026/08/19/team-gb-statement-esports-nations-cup-postponement/",
+    "https://realsport101.com/article/ufl-update-v0740-revamped-gameplay-new-team-pass-ui-redesign",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXFaTUhPSFJ1R0NzTTB4OFU3ZThndVpQNGFyYWZzbGxTRGE5U3JhejZoajZVSUlNT18wX1I5UGJQZFVraFRwUGdadnRHVjJmRFhRMXBTeDNGV210Zk9XZEVTaVRXdElSTEFvOVVyVk92TTNLLV91UXFGTlZqdEFhRG9wLXFhRkxpUHpyUTRfYUxpMWV5NG9DT25jMDZzaGxHcVVVaS1QMmkxbnB2eE03T2pQSmNtVHVXS1RSQl94ZzRWZw?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQczhyX1h0al9jcW1DVVRpSUdIcXNaN0tNZkhWU096NmJreTdrQmFjOVpkaHRuaHZ1Y1EwZGlOblFQUkVILW02SzlKTXdXc1VkQVZtSlhFWHd2b3MzbEF1LVYyem9pX0tqcVdXTkJXcFVhdG1MUENUckE4RE5YdWs4QThuOTA3Z2Y1ZFEybVRXam9fbkE?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16846,7 +16850,10 @@
     "90e8e2c774c58ecf52df5efa03a5a708",
     "ea94c9b1cf54c0d19a9545e4d08dedc5",
     "f00ea829509d35ac47e6e8fe2e69cabc",
-    "ca66f17a7d0a35a1669abf68330cceb2"
+    "ca66f17a7d0a35a1669abf68330cceb2",
+    "cb854d86fdba83bef505f2126b5c4611",
+    "3344f51964690b14571e804e16fedd0a",
+    "2ebcd10f60467e6f924debfddc1249d6"
   ],
   "transfers": {
     "pages": {
@@ -21041,145 +21048,6 @@
   "sent_stories": [
     {
       "words": [
-        "fortnite",
-        "has",
-        "hearts",
-        "kernel",
-        "skin",
-        "storm",
-        "taken",
-        "world"
-      ],
-      "at": "2026-08-18T15:24:55.144368+00:00",
-      "message_id": "1539294038728122369",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "The Fortnite Kernel Hearts skin has taken the world by storm: Here’s how you can get it",
-      "link": "https://esports.gg/news/fortnite/fortnite-kernel-hearts/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "The latest Fortnite collab welcomes the character Fernet from the upcoming game Kernel Hearts to the roster. Here's why it went viral!"
-    },
-    {
-      "words": [
-        "confident",
-        "dev",
-        "exclusive",
-        "franchise",
-        "galactic",
-        "living",
-        "prestige",
-        "racer",
-        "star",
-        "wars"
-      ],
-      "at": "2026-08-18T15:24:55.144368+00:00",
-      "message_id": "1539294053441740821",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "EXCLUSIVE: Star Wars: Galactic Racer Dev Confident of Living Up to ‘Prestige’ of The Franchise",
-      "link": "https://insider-gaming.com/exclusive-star-wars-galactic-racer-dev-confident-of-living-up-to-prestige-of-the-franchise/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Speaking to Insider Gaming, Star Wars: Galactic Racer creative director Kieran Crimmins expressed confidence of living up to the franchise prestige. The post EXCLUSIVE: Star Wars: Galactic Racer Dev Confident of Living Up to ‘Prestige’ of The Franchise appeared first on Insider G"
-    },
-    {
-      "words": [
-        "but",
-        "control",
-        "delayed",
-        "edition",
-        "goes",
-        "gold",
-        "physical",
-        "resonant"
-      ],
-      "at": "2026-08-18T15:56:32.979079+00:00",
-      "message_id": "1539302000016105575",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "CONTROL Resonant Goes Gold, But Physical Edition Delayed",
-      "link": "https://insider-gaming.com/control-resonant-goes-gold-but-physical-edition-delayed/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "CONTROL Resonant has gone gold over a month ahead of it's release, however, the physical version has been delayed. The post CONTROL Resonant Goes Gold, But Physical Edition Delayed appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "blood",
-        "dawnwalker",
-        "hours",
-        "how",
-        "length",
-        "long",
-        "total"
-      ],
-      "at": "2026-08-18T15:56:32.979079+00:00",
-      "message_id": "1539302015832952833",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "How Long Is The Blood of Dawnwalker? Game Length & Total Hours",
-      "link": "https://insider-gaming.com/the-blood-of-dawnwalker-game-length-hours/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "While the game has a special timer, find out how long The Blood of Dawnwalker actually is if you're settling down for a playthrough. The post How Long Is The Blood of Dawnwalker? Game Length & Total Hours appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "abyss",
-        "first",
-        "how",
-        "race",
-        "venomous",
-        "watch",
-        "world"
-      ],
-      "at": "2026-08-18T15:56:32.979079+00:00",
-      "message_id": "1539302031657803848",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn",
-        "Esports.gg"
-      ],
-      "title": "How to Watch The Venomous Abyss Race to World First",
-      "link": "https://www.hotspawn.com/world-of-warcraft/news/how-to-watch-the-venomous-abyss-race-to-world-first",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Wow-Venemous-Abyss-Race2.webp",
-      "base_description": "Venomous Abyss Race to World First is the closest thing WoW has to a Grand Final, and it’s back for Midnight Season 2. The world’s best raiding guilds are about to throw themselves at The Venomous Abyss, grinding 12- to 16-hour days to be the first on the planet to kill the final"
-    },
-    {
-      "words": [
-        "highest",
-        "men",
-        "player",
-        "rated",
-        "ratings",
-        "stars",
-        "top",
-        "women"
-      ],
-      "at": "2026-08-18T15:56:32.979079+00:00",
-      "message_id": "1539302046975660104",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "RealSport101"
-      ],
-      "title": "FC 27 Player Ratings: Top 10 Highest-Rated Men's & Women's Stars",
-      "link": "https://realsport101.com/article/fc-27-player-ratings-top-10-highest-rated-mens-womens-stars",
-      "color": 8141549,
-      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/f00211e3-copy-of-1x1_slide-2-1920x1080.webp",
-      "base_description": "Check out the official FC 27 player ratings! See who made the Top 10 men's and women's lists, major upgrades, and full database release dates."
-    },
-    {
-      "words": [
         "international",
         "move",
         "woxic"
@@ -23671,6 +23539,50 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/SWGR_PR_10.jpg?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "Matt Webster looked set to be a lifer at Electronic Arts. He joined the firm way back in 1990, and spent nearly two decades working at Burnout and Need for Speed maker Criterion, which EA bought in 2004. Read more"
+    },
+    {
+      "words": [
+        "cup",
+        "issues",
+        "nations",
+        "over",
+        "postponement",
+        "questions",
+        "remain",
+        "rosters",
+        "statement"
+      ],
+      "at": "2026-08-19T15:56:45.697309+00:00",
+      "message_id": "1539664441254346846",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports News UK"
+      ],
+      "title": "Team GB issues statement on Esports Nations Cup postponement as questions remain over rosters",
+      "link": "https://esports-news.co.uk/2026/08/19/team-gb-statement-esports-nations-cup-postponement/",
+      "color": 8141549,
+      "image_url": "https://esports-news.co.uk/wp-content/uploads/2021/02/british-esports-association-300x143.jpg",
+      "base_description": "British Esports has issued a statement following the postponement of the inaugural Esports Nations Cup (ENC), with questions remaining over what the year-long delay means for Team GB’s existing player selections. The statement, published yesterday on the British Esports website, "
+    },
+    {
+      "words": [
+        "gameplay",
+        "pass",
+        "redesign",
+        "revamped",
+        "ufl"
+      ],
+      "at": "2026-08-19T15:56:45.697309+00:00",
+      "message_id": "1539664458509455433",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "RealSport101"
+      ],
+      "title": "UFL Update v0.74.0: Revamped Gameplay, New Team Pass & UI Redesign",
+      "link": "https://realsport101.com/article/ufl-update-v0740-revamped-gameplay-new-team-pass-ui-redesign",
+      "color": 8141549,
+      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/18f9a758-ufl-new-season-teaser-1920x1080.webp",
+      "base_description": "Discover all key changes in UFL Update v0.74.0, including gameplay overhauls, manual defense fixes, the Urban Style Team Pass, and redesigned menus."
     }
   ]
 }
