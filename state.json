@@ -8468,7 +8468,10 @@
     "https://insider-gaming.com/boaster-seems-to-confirm-crashies-fnatic-departure-in-social-media-post/",
     "https://www.hotspawn.com/counter-strike/news/best-scarlet-shamagh-gloves-knife-combos-in-cs2",
     "https://realsport101.com/article/nba-2k27-mycareer-revealed-historic-eras-co-op-mode-new-story-arc",
-    "https://www.nerfplz.com/2026/10/baron-nashor-guide-spawn-timers-three.html"
+    "https://www.nerfplz.com/2026/10/baron-nashor-guide-spawn-timers-three.html",
+    "https://www.vlr.gg/739655/jd-gaming-and-bilibili-gaming-continue-its-playoff-runs",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MaXN0N3QtMEF2QjRzOW9mWmkzdm5KQlFQbENkVUJNbEtSamI2NFBTQTNueWthcUVnV0tTTklHNzBlOWJSY2xWTnJVTWtlUUMzNFBmUlV5VFN2d00?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rQkdjY2N0SW4tNFNhQW9fMGRjZzVPUVM0MGQwc2NfUm1ac2lGVVl2Uk11cDFDRUIxT3pvMExMSVNDQmtndElnTFdjR1IwQzNGbjlRdnI2RGVrbTNfanc?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16863,7 +16866,9 @@
     "efff4bc50f22c21222bdfc98eaa0e2f9",
     "f9016e083a9cf1b030a6b4806269160f",
     "1248795b9451d9117bb8cae1a3fe61be",
-    "292a758babefb6ec1ee42748e04cdbf9"
+    "292a758babefb6ec1ee42748e04cdbf9",
+    "a8d6db34adbe822d914a9a7281ef7187",
+    "3f3c2e1a9abcd27ef5f819c1ac817a5f"
   ],
   "transfers": {
     "pages": {
@@ -18742,7 +18747,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-19T10:55:18.623226+00:00",
+  "last_health_alert": "2026-08-19T16:56:24.089896+00:00",
   "recent_titles": [
     {
       "words": [
@@ -23557,6 +23562,26 @@
       "color": 8141549,
       "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.12,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg",
       "base_description": "Baron is not a health bar with a timer on it. He picks a form, rebuilds his own pit, decides which of your five he's soft on, and hands out a buff that belongs to your minions more than it belongs to you. Here's the whole objective, start to finish. League of Legends Guide Baron "
+    },
+    {
+      "words": [
+        "bilibili",
+        "continue",
+        "gaming",
+        "playoff",
+        "runs"
+      ],
+      "at": "2026-08-19T16:56:16.131758+00:00",
+      "message_id": "1539679415422812202",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "JD Gaming and Bilibili Gaming continue its playoff runs",
+      "link": "https://www.vlr.gg/739655/jd-gaming-and-bilibili-gaming-continue-its-playoff-runs",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "JD Gaming and Bilibili Gaming will face each other in Stage 2 Playoffs upper final."
     }
   ]
 }
