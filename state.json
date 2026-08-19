@@ -8463,7 +8463,12 @@
     "https://esports-news.co.uk/2026/08/19/team-gb-statement-esports-nations-cup-postponement/",
     "https://realsport101.com/article/ufl-update-v0740-revamped-gameplay-new-team-pass-ui-redesign",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXFaTUhPSFJ1R0NzTTB4OFU3ZThndVpQNGFyYWZzbGxTRGE5U3JhejZoajZVSUlNT18wX1I5UGJQZFVraFRwUGdadnRHVjJmRFhRMXBTeDNGV210Zk9XZEVTaVRXdElSTEFvOVVyVk92TTNLLV91UXFGTlZqdEFhRG9wLXFhRkxpUHpyUTRfYUxpMWV5NG9DT25jMDZzaGxHcVVVaS1QMmkxbnB2eE03T2pQSmNtVHVXS1RSQl94ZzRWZw?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQczhyX1h0al9jcW1DVVRpSUdIcXNaN0tNZkhWU096NmJreTdrQmFjOVpkaHRuaHZ1Y1EwZGlOblFQUkVILW02SzlKTXdXc1VkQVZtSlhFWHd2b3MzbEF1LVYyem9pX0tqcVdXTkJXcFVhdG1MUENUckE4RE5YdWs4QThuOTA3Z2Y1ZFEybVRXam9fbkE?oc=5"
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQczhyX1h0al9jcW1DVVRpSUdIcXNaN0tNZkhWU096NmJreTdrQmFjOVpkaHRuaHZ1Y1EwZGlOblFQUkVILW02SzlKTXdXc1VkQVZtSlhFWHd2b3MzbEF1LVYyem9pX0tqcVdXTkJXcFVhdG1MUENUckE4RE5YdWs4QThuOTA3Z2Y1ZFEybVRXam9fbkE?oc=5",
+    "https://insider-gaming.com/xbox-and-ikea-tease-new-gaming-themed-furniture/",
+    "https://insider-gaming.com/boaster-seems-to-confirm-crashies-fnatic-departure-in-social-media-post/",
+    "https://www.hotspawn.com/counter-strike/news/best-scarlet-shamagh-gloves-knife-combos-in-cs2",
+    "https://realsport101.com/article/nba-2k27-mycareer-revealed-historic-eras-co-op-mode-new-story-arc",
+    "https://www.nerfplz.com/2026/10/baron-nashor-guide-spawn-timers-three.html"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16853,7 +16858,12 @@
     "ca66f17a7d0a35a1669abf68330cceb2",
     "cb854d86fdba83bef505f2126b5c4611",
     "3344f51964690b14571e804e16fedd0a",
-    "2ebcd10f60467e6f924debfddc1249d6"
+    "2ebcd10f60467e6f924debfddc1249d6",
+    "c762edbabaaadc2e0a75c4a146a5d5d4",
+    "efff4bc50f22c21222bdfc98eaa0e2f9",
+    "f9016e083a9cf1b030a6b4806269160f",
+    "1248795b9451d9117bb8cae1a3fe61be",
+    "292a758babefb6ec1ee42748e04cdbf9"
   ],
   "transfers": {
     "pages": {
@@ -21048,134 +21058,6 @@
   "sent_stories": [
     {
       "words": [
-        "international",
-        "move",
-        "woxic"
-      ],
-      "at": "2026-08-18T16:23:17.355073+00:00",
-      "message_id": "1539308729827336223",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "woxic on international move: \"I forgot the feeling\"",
-      "link": "https://www.hltv.org/news/45314/woxic-on-international-move-i-forgot-the-feeling",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/fRFhzbCJVraE9k8ah6pobD.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=2f2672a159b82ede59f624ab96c4b820",
-      "base_description": "The Turkish sniper admitted the transition to speaking English was hard at first, but the team is starting to get a better handle on it."
-    },
-    {
-      "words": [
-        "2026",
-        "best",
-        "betting",
-        "call",
-        "duty",
-        "sites"
-      ],
-      "at": "2026-08-18T16:23:17.355073+00:00",
-      "message_id": "1539308745622954095",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg",
-        "Esports Insider"
-      ],
-      "title": "Best Call of Duty Betting Sites in 2026: Bet on CoD",
-      "link": "https://esports.gg/guides/betting/call-of-duty-betting-sites/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": ""
-    },
-    {
-      "words": [
-        "all",
-        "explained",
-        "maps",
-        "valorant"
-      ],
-      "at": "2026-08-18T16:23:17.355073+00:00",
-      "message_id": "1539308761309642915",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg",
-        "Dot Esports"
-      ],
-      "title": "All VALORANT Maps explained: From Ascent to Summit",
-      "link": "https://esports.gg/news/valorant/valorant-maps/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "What's your favorite map feature?"
-    },
-    {
-      "words": [
-        "abyss",
-        "breeze",
-        "competitive",
-        "leaves",
-        "notes",
-        "patch",
-        "returns",
-        "valorant"
-      ],
-      "at": "2026-08-18T16:23:17.355073+00:00",
-      "message_id": "1539308782708854807",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GameRiv"
-      ],
-      "title": "VALORANT Patch Notes 13.04: Abyss Returns as Breeze Leaves Competitive",
-      "link": "https://gameriv.com/valorant-patch-notes-13-04/",
-      "color": 8141549,
-      "image_url": "https://gameriv.com/wp-content/uploads/2026/03/VALORANT-patch-12.05.jpg",
-      "base_description": "Riot Games has released VALORANT Patch 13.04 alongside the start of Act 5, bringing a refreshed map rotation, several Agent bug fixes, Premier changes, and a fix for transforming melee skins. Unlike some recent updates, Patch 13.04 does not introduce any direct Agent or weapon bu"
-    },
-    {
-      "words": [
-        "collection",
-        "forces",
-        "join",
-        "pokémon",
-        "polaroid",
-        "special"
-      ],
-      "at": "2026-08-18T16:23:17.355073+00:00",
-      "message_id": "1539308798202613831",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Polaroid and Pokémon Join Forces for Special Collection",
-      "link": "https://insider-gaming.com/pokemon-x-polaroid-collection-announced/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Polaroid and Pokémon have teamed up on a limited-edition collection of cameras, film, and accessories. The post Polaroid and Pokémon Join Forces for Special Collection appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "arc",
-        "changed",
-        "embark",
-        "just",
-        "raiders",
-        "snitches",
-        "studios",
-        "way",
-        "worst"
-      ],
-      "at": "2026-08-18T16:23:17.355073+00:00",
-      "message_id": "1539308813579059311",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Embark Studios Just Changed ARC Raiders’ Snitches In The Worst Way",
-      "link": "https://insider-gaming.com/embark-studios-change-arc-raiders-snitch-worst/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Embark Studios changes ARC Raiders' Snitch in the newest update, but not everyone is approving of the alteration. The post Embark Studios Just Changed ARC Raiders’ Snitches In The Worst Way appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "blood",
         "dawnwalker",
         "file",
@@ -23583,6 +23465,98 @@
       "color": 8141549,
       "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/18f9a758-ufl-new-season-teaser-1920x1080.webp",
       "base_description": "Discover all key changes in UFL Update v0.74.0, including gameplay overhauls, manual defense fixes, the Urban Style Team Pass, and redesigned menus."
+    },
+    {
+      "words": [
+        "furniture",
+        "gaming",
+        "ikea",
+        "tease",
+        "themed",
+        "xbox"
+      ],
+      "at": "2026-08-19T16:23:35.144183+00:00",
+      "message_id": "1539671190577225750",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "XBOX and IKEA Tease New Gaming-Themed Furniture",
+      "link": "https://insider-gaming.com/xbox-and-ikea-tease-new-gaming-themed-furniture/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "XBOX and IKEA have announced a new collaboration, teasing different types of gaming-themed furniture. Here are more details. The post XBOX and IKEA Tease New Gaming-Themed Furniture appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "boaster",
+        "confirm",
+        "crashies",
+        "departure",
+        "fnatic",
+        "media",
+        "post",
+        "seems",
+        "social"
+      ],
+      "at": "2026-08-19T16:23:35.144183+00:00",
+      "message_id": "1539671205660069909",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Boaster Seems to Confirm crashies Fnatic Departure in Social Media Post",
+      "link": "https://insider-gaming.com/boaster-seems-to-confirm-crashies-fnatic-departure-in-social-media-post/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "An Instagram post by Fnatic In-Game Leader Boaster has seemingly confirmed the departure of crashies from the Fnatic Valorant roster. The post Boaster Seems to Confirm crashies Fnatic Departure in Social Media Post appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "2k27",
+        "arc",
+        "eras",
+        "historic",
+        "mode",
+        "mycareer",
+        "nba",
+        "revealed",
+        "story"
+      ],
+      "at": "2026-08-19T16:23:35.144183+00:00",
+      "message_id": "1539671220184944645",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "RealSport101"
+      ],
+      "title": "NBA 2K27 MyCAREER Revealed: Historic Eras, Co-Op Mode, & New Story Arc",
+      "link": "https://realsport101.com/article/nba-2k27-mycareer-revealed-historic-eras-co-op-mode-new-story-arc",
+      "color": 8141549,
+      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/bec2272e-nba2k27_csr-mycareer_lebron-era_1920x1080.webp",
+      "base_description": "Explore all major MyCAREER changes in NBA 2K27! Breakdown of 5 historical Eras, the 11-chapter story, flexible draft rules, and co-op mechanics."
+    },
+    {
+      "words": [
+        "baron",
+        "buff",
+        "forms",
+        "guide",
+        "nashor",
+        "spawn",
+        "three",
+        "timers"
+      ],
+      "at": "2026-08-19T16:23:35.144183+00:00",
+      "message_id": "1539671234973802579",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Nerfplz"
+      ],
+      "title": "Baron Nashor Guide: Spawn Timers, the Three Forms and the Buff",
+      "link": "https://www.nerfplz.com/2026/10/baron-nashor-guide-spawn-timers-three.html",
+      "color": 8141549,
+      "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.12,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg",
+      "base_description": "Baron is not a health bar with a timer on it. He picks a form, rebuilds his own pit, decides which of your five he's soft on, and hands out a buff that belongs to your minions more than it belongs to you. Here's the whole objective, start to finish. League of Legends Guide Baron "
     }
   ]
 }
