@@ -8519,7 +8519,13 @@
     "https://www.gfinityesports.com/article/ufl-update-v0740-revamped-gameplay-new-team-pass-ui-redesign",
     "https://www.gfinityesports.com/article/nba-2k27-gameplay-revealed-dunk-meter-defense-overhaul-new-takeover-system",
     "https://www.gfinityesports.com/article/fc-27-bundesliga-frauen-bundesliga-ratings-kane-olise-bayern-stars-lead",
-    "https://www.gfinityesports.com/article/fc-27-destined-for-glory-guide-voting-dates-promo-schedule-upgrades"
+    "https://www.gfinityesports.com/article/fc-27-destined-for-glory-guide-voting-dates-promo-schedule-upgrades",
+    "https://esports-news.co.uk/2026/08/19/cs2-at-ewc-2026-playoffs-preview/",
+    "https://dotesports.com/gta/news/gta-6-military-enlistment-incentive-day-one-army",
+    "https://www.hltv.org/news/45343/furia-mount-comeback-against-aurora-to-reach-ewc-quarter-finals",
+    "https://insider-gaming.com/mattel-original-xbox-set-collectors/",
+    "https://www.hotspawn.com/counter-strike/news/esports-world-cup-2026-round-of-16-day-1",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZnlISDJpVUVyWEZBZk5Kelcyc0JEYWtCYzl1Zm9yNFpWbHY1X29QTHRGNE8zQVlfb0MzSUwxQVNYWEdQR2pIR0hNdW45LXlLRmNkYk54enlSY2EwNEJpeFRtOFZRLWk0WE5VWDB0RHduSUpWOFlQNExCX0Q0b1hOVzh1Wi1Yb1JaRUhUU054UjBqTk5FcW5CLUx2SmduLU9GLWZBSFAyZk9hYkEtcHNMMFVRUFlzeXgzNmZjS9IBvAFBVV95cUxOZnlISDJpVUVyWEZBZk5Kelcyc0JEYWtCYzl1Zm9yNFpWbHY1X29QTHRGNE8zQVlfb0MzSUwxQVNYWEdQR2pIR0hNdW45LXlLRmNkYk54enlSY2EwNEJpeFRtOFZRLWk0WE5VWDB0RHduSUpWOFlQNExCX0Q0b1hOVzh1Wi1Yb1JaRUhUU054UjBqTk5FcW5CLUx2SmduLU9GLWZBSFAyZk9hYkEtcHNMMFVRUFlzeXgzNmZjSw?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16957,7 +16963,12 @@
     "a5a0634557aec24b7ae2c115a3d2c754",
     "85138329c3adf51cd8ddfc9f390630e6",
     "3d0c8a5e6508c4d36704af3833721007",
-    "4f692839c574095cfc69ddf49d81b46d"
+    "4f692839c574095cfc69ddf49d81b46d",
+    "15c356cf2462791ac94fb981085afda0",
+    "a4e765f58fc7c53ec5d43238466b66aa",
+    "c3db994239a8e494d67a40843c487a66",
+    "66084c58833925c7572d8b4e8db276a2",
+    "62eff3161cad6265204d7cde3438f48a"
   ],
   "transfers": {
     "pages": {
@@ -21152,29 +21163,6 @@
   "sent_stories": [
     {
       "words": [
-        "asking",
-        "bad",
-        "cup",
-        "fgc",
-        "question",
-        "real",
-        "some",
-        "world"
-      ],
-      "at": "2026-08-18T21:46:47.873744+00:00",
-      "message_id": "1539390141804838954",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Insider"
-      ],
-      "title": "Some are asking, is the Esports World Cup bad for the FGC? The real question: Does it even matter?",
-      "link": "https://esportsinsider.com/2026/08/esports-world-cup-fgc-reaction",
-      "color": 8141549,
-      "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/street-fighter-6-ewc-large.webp",
-      "base_description": "The Esports World Cup has been a heavily debated event within the FGC. A segment of the esports scene that’s allergic to cringe and intoxicated by raw passion, the FGC has been largely against the EWC for quite some time. But is it actually a good thing for the fighting game scen"
-    },
-    {
-      "words": [
         "all",
         "beta",
         "earn",
@@ -22023,7 +22011,8 @@
       "message_id": "1539535294678695959",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Dotabuff Blog"
+        "Dotabuff Blog",
+        "Esports News UK"
       ],
       "title": "Playoff Predictions",
       "link": "https://www.dotabuff.com/blog/2026-08-19-playoff-predictions",
@@ -22663,7 +22652,8 @@
       "message_id": "1539612643742973963",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "HLTV"
+        "HLTV",
+        "Hotspawn"
       ],
       "title": "FURIA, 9z and G2 among final invites for FPG 3",
       "link": "https://www.hltv.org/news/45337/furia-9z-and-g2-among-final-invites-for-fpg-3",
@@ -23816,6 +23806,54 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "A Fort Stewart Army battalion is offering eligible soldiers a four-day GTA 6 pass in exchange for reenlisting for at least two more years of service. The post Army Battalion Uses Time Off for GTA 6 as Reenlistment Incentive appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "day",
+        "enlistment",
+        "exchange",
+        "further",
+        "gta",
+        "military",
+        "one",
+        "play",
+        "soldiers"
+      ],
+      "at": "2026-08-19T21:50:01.234763+00:00",
+      "message_id": "1539753346632523869",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "Soldiers exchange further military enlistment to play GTA 6 day one",
+      "link": "https://dotesports.com/gta/news/gta-6-military-enlistment-incentive-day-one-army",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/lucia-and-jason-gta-6-cover-art-scaled.jpg",
+      "base_description": "Do the virtual crime, do the real-life time."
+    },
+    {
+      "words": [
+        "brick",
+        "life",
+        "mattel",
+        "original",
+        "reveals",
+        "set",
+        "shop",
+        "size",
+        "xbox"
+      ],
+      "at": "2026-08-19T21:50:01.234763+00:00",
+      "message_id": "1539753362092859424",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Mattel Brick Shop Reveals Life-Size Original XBOX Set",
+      "link": "https://insider-gaming.com/mattel-original-xbox-set-collectors/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Mattel Brick Shop’s new 3,509-piece kit recreates the original XBOX and Duke controller at full scale, with lights, sounds and game dioramas. The post Mattel Brick Shop Reveals Life-Size Original XBOX Set appeared first on Insider Gaming ."
     }
   ]
 }
