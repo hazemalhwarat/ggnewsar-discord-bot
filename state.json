@@ -8320,7 +8320,14 @@
     "https://esportsinsider.com/2026/08/esports-world-cup-fgc-reaction",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1cxUUpUOU8xZ1BoM3JQc0ROMnl4aFVHUjl6b0hBZjd2dW04anVlSnJ4UTQ1YnBQSHJvekU4SWRyUncwT2FsbXFtV1VTVEVpTzN0ZUVMd1A4eUtyX2FZQlVERGRsdDdXWDBNaEhZOGpGeFN5N0ZnZURuOTNKNGVULU5tREs1bjNyazBIMi1xbkJnX09SQjZOSjYxdDk2TXJNRTNoSURsRG1hUDN2WWJNTG16RHE1MEJVMzdwZVozYndVWm8?oc=5",
     "https://esports.gg/news/overwatch/overwatch-owwc-2026-schedule-results/",
-    "https://esports.gg/guides/call-of-duty/all-modern-warfare-4-beta-rewards-how-to-earn-them/"
+    "https://esports.gg/guides/call-of-duty/all-modern-warfare-4-beta-rewards-how-to-earn-them/",
+    "https://esports.gg/guides/cookie-run-kingdom/asphodel-cookie-build-guide-best-toppings-beascuit-team-comps/",
+    "https://esports.gg/guides/cookie-run-kingdom/nether-queen-cookie-build-guide-best-toppings-beascuit-team-comps/",
+    "https://www.invenglobal.com/articles/24877/neptune-opens-global-pre-registration-for-new-wuxia-rpg-sword-hero-zero",
+    "https://www.invenglobal.com/articles/24876/apple-overhauls-eu-app-fees-and-distribution-eligibility-changes-effective-october-1",
+    "https://www.invenglobal.com/articles/24875/farlight-games-opens-pre-registration-for-doodle-pets-survival",
+    "https://www.invenglobal.com/articles/24874/gamescom-2026-to-be-held-at-record-scale-featuring-participants-from-67-countries",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVlpBT3FuMG1ZcnFSLTBDelM2LXdZT3JQZ0dmV0lvU18zSTNsOFpDVVdOcmlUdGJHUFJEODV2N1BjNjF5dEdPLTM4czJ2NndkUWVxclpJMDFsZjVfN0Q0UTVNT01pSmh3ZzA1MnhNUk1QbWdKMEgydUJHSHFqcGxScEN4T0F0QW8?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16584,7 +16591,13 @@
     "9e2611b002cfe5439d3a1ebe1d3c395d",
     "31050715b320aa45673f0a347c4f6483",
     "80205f11d62862b580d6d954459477ad",
-    "8c71f77b4c48c629a86f2571e8727815"
+    "8c71f77b4c48c629a86f2571e8727815",
+    "f600d16d87dbcb45b1d11f75399fe62e",
+    "acfcb8bdfe23b51b7e85aab7fd217ba1",
+    "8a1b0658ae3dd4393946eb75de7e365f",
+    "5558c64d06313357acf594f9aa1c5640",
+    "d1b63c237451b1a0d0c606a71f1c58d8",
+    "e3d5e6350ad831527f8fabd1dde1d02a"
   ],
   "transfers": {
     "pages": {
@@ -22975,6 +22988,100 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "Modern Warfare 4 has an exclusive set of rewards that you can only earn during the Beta, so let's see what they are."
+    },
+    {
+      "words": [
+        "global",
+        "hero",
+        "neptune",
+        "opens",
+        "pre",
+        "registration",
+        "rpg",
+        "sword",
+        "wuxia",
+        "zero"
+      ],
+      "at": "2026-08-19T00:58:46.698550+00:00",
+      "message_id": "1539438455392833647",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Neptune Opens Global Pre-registration for New Wuxia RPG 'Sword Hero Zero'",
+      "link": "https://www.invenglobal.com/articles/24877/neptune-opens-global-pre-registration-for-new-wuxia-rpg-sword-hero-zero",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©NeptuneNeptune (CEO Kang Yul-bin) has officially begun the launch process for its new multiverse Wuxia RPG, 'Sword Hero Zero,' developed by global game developer Han-Squirrel......"
+    },
+    {
+      "words": [
+        "app",
+        "apple",
+        "changes",
+        "distribution",
+        "effective",
+        "eligibility",
+        "fees",
+        "october",
+        "overhauls"
+      ],
+      "at": "2026-08-19T00:58:46.698550+00:00",
+      "message_id": "1539438470458511383",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Apple Overhauls EU App Fees and Distribution Eligibility; Changes Effective October 1",
+      "link": "https://www.invenglobal.com/articles/24876/apple-overhauls-eu-app-fees-and-distribution-eligibility-changes-effective-october-1",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©AppleOn the 18th, Apple announced changes to its business terms for apps in the European Union following consultations with the European Commission (EC)...."
+    },
+    {
+      "words": [
+        "2026",
+        "countries",
+        "featuring",
+        "gamescom",
+        "held",
+        "participants",
+        "record",
+        "scale"
+      ],
+      "at": "2026-08-19T00:58:46.698550+00:00",
+      "message_id": "1539438485239369729",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Gamescom 2026 to Be Held at Record Scale, Featuring Participants from 67 Countries",
+      "link": "https://www.invenglobal.com/articles/24874/gamescom-2026-to-be-held-at-record-scale-featuring-participants-from-67-countries",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©INVENGamescom 2026 is set to strengthen its global market position with its largest edition to date, bringing together over 1600 exhibitors from 67 countries and fully bookin......"
+    },
+    {
+      "words": [
+        "asphodel",
+        "best",
+        "build",
+        "cookie",
+        "kingdom",
+        "run",
+        "toppings"
+      ],
+      "at": "2026-08-19T00:58:46.698550+00:00",
+      "message_id": "1539438500074491976",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Best Asphodel Cookie build and toppings in Cookie Run Kingdom",
+      "link": "https://esports.gg/guides/cookie-run-kingdom/asphodel-cookie-build-guide-best-toppings-beascuit-team-comps/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Get the best Asphodel Cookie build in CRK, including top toppings, Beascuit stats, and team compositions for PvE."
     }
   ]
 }
