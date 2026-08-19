@@ -8501,7 +8501,9 @@
     "https://dotesports.com/general/news/sony-reportedly-strips-live-service-elements-from-horizon-multiplayer-game",
     "https://insider-gaming.com/marvel-rivals-patch-adds-cyclops-phoenix-and-daredevil-skins/",
     "https://esports.gg/news/fortnite/all-fortnite-sidekicks-list/",
-    "https://www.hotspawn.com/fortnite/news/fortnite-downtime-end-c7-s4"
+    "https://www.hotspawn.com/fortnite/news/fortnite-downtime-end-c7-s4",
+    "https://insider-gaming.com/more-gta-6-gameplay-leaks-online/",
+    "https://insider-gaming.com/lfl-set-to-have-new-organisers-next-year-with-talks-ongoing/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16927,7 +16929,9 @@
     "33356442fe5407890a73898f446d0d7e",
     "9ba0a080657110ebfeb94372c8a6798d",
     "6c629a32f9f817fe96193c90828419d9",
-    "4397a64970c70ad38b65836f5745843a"
+    "4397a64970c70ad38b65836f5745843a",
+    "df613d7bb86477829223090e7c30c5cd",
+    "d0184acc76906fb72125cfd3a676de52"
   ],
   "transfers": {
     "pages": {
@@ -21122,73 +21126,6 @@
   "sent_stories": [
     {
       "words": [
-        "all",
-        "battle",
-        "confirmed",
-        "fortnite",
-        "override",
-        "pass",
-        "skins"
-      ],
-      "at": "2026-08-18T19:39:54.664623+00:00",
-      "message_id": "1539358215236616213",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn",
-        "Esports.gg"
-      ],
-      "title": "All Fortnite Override Battle Pass Skins Confirmed",
-      "link": "https://www.hotspawn.com/fortnite/news/fortnite-override-battle-pass-skins",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Fortnite-Override-Battle-Pass1.webp",
-      "base_description": "This week, Epic has been heavily teasing the new content that’s coming to the game like the Fortnite Override Battle Pass. We had some early confirmation of various skins and a ton of collabs that are coming. But with item shop and Battle Pass collabs getting announced together, "
-    },
-    {
-      "words": [
-        "lol",
-        "patch",
-        "preview"
-      ],
-      "at": "2026-08-18T19:57:54.159784+00:00",
-      "message_id": "1539362737736515605",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "GameRiv",
-        "Dot Esports"
-      ],
-      "title": "LoL Patch 26.17 Preview: Yasuo Buffs and Thresh Nerfs",
-      "link": "https://insider-gaming.com/lol-patch-26-17-preview-yasuo-buffs-thresh-nerfs/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "LoL Patch 26.17 is looking to be rather polarising with nerfs to Thresh and buffs to LeBlanc, Yasuo, and Yone already creating controversy The post LoL Patch 26.17 Preview: Yasuo Buffs and Thresh Nerfs appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "aren",
-        "been",
-        "fans",
-        "full",
-        "gta",
-        "has",
-        "leaked",
-        "map",
-        "thrilled"
-      ],
-      "at": "2026-08-18T19:57:54.159784+00:00",
-      "message_id": "1539362752982814846",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "The full GTA 6 map has been leaked, and fans aren’t thrilled with it",
-      "link": "https://esports.gg/news/grand-theft-auto-6/the-full-gta-6-map-has-been-leaked-and-fans-arent-thrilled-with-it/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "A new GTA 6 leak has revealed what appears to be the entire map, but the player base isn't too excited."
-    },
-    {
-      "words": [
         "action",
         "further",
         "gta",
@@ -23764,6 +23701,50 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Fortnite-Override-Battle-Pass2.webp",
       "base_description": "When does the Fortnite downtime end? The current season has come to an end, players will have to wait through a brief bit of downtime before the game comes back. We aren’t expecting the current Fortnite season to take things offline for a whole day like the black hole event back "
+    },
+    {
+      "words": [
+        "features",
+        "gameplay",
+        "gta",
+        "leaks",
+        "more",
+        "show"
+      ],
+      "at": "2026-08-19T19:59:16.320397+00:00",
+      "message_id": "1539725469950152825",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "More GTA 6 Gameplay Leaks Show New Features",
+      "link": "https://insider-gaming.com/more-gta-6-gameplay-leaks-online/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "New alleged GTA 6 gameplay clips have surfaced online, The gameplay shows new interactions and more combat. The wanted system is also shown off as is the weapon wheel. The post More GTA 6 Gameplay Leaks Show New Features appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "have",
+        "lfl",
+        "next",
+        "ongoing",
+        "organisers",
+        "set",
+        "talks",
+        "year"
+      ],
+      "at": "2026-08-19T19:59:16.320397+00:00",
+      "message_id": "1539725484563234827",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "LFL Set to Have New Organisers Next Year With Talks Ongoing",
+      "link": "https://insider-gaming.com/lfl-set-to-have-new-organisers-next-year-with-talks-ongoing/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Reports claim that N.E.O will be the new organisers of the LFL in 2027 with Webedia set to step down after seven years in charge. The post LFL Set to Have New Organisers Next Year With Talks Ongoing appeared first on Insider Gaming ."
     }
   ]
 }
