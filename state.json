@@ -8344,7 +8344,9 @@
     "https://www.invenglobal.com/articles/24891/9-days-until-gta-6-netflix-reveal-leak-occurs-hacking-group-demands-apology-instead",
     "https://www.invenglobal.com/articles/24890/reduce-arrow-weight-with-quivers-but-watch-your-maintenance-costs",
     "https://www.invenglobal.com/articles/24889/nba-2k27-unveils-revamped-systems-and-new-modes",
-    "https://www.invenglobal.com/articles/24888/blade-soul-neo-launches-yulgang-collaboration-update"
+    "https://www.invenglobal.com/articles/24888/blade-soul-neo-launches-yulgang-collaboration-update",
+    "https://www.invenglobal.com/articles/24894/ninja-baseball-batman-basis-loaded-to-launch-in-korean-for-ps5-and-nintendo-switch-2",
+    "https://www.invenglobal.com/articles/24893/infinite-potion-redistribution-and-doubled-nine-duration-announced-august-19-wed-patch-summary"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16631,7 +16633,9 @@
     "c51ea71dbffa586af485fdf1b0a884bb",
     "56c7d2146a2a97c2382b1366c34140f2",
     "aa3f92ca685c6457cb747645589adbb5",
-    "6f7e902cd233a10b50a16c03cfb43f6a"
+    "6f7e902cd233a10b50a16c03cfb43f6a",
+    "f14dd5fa8a443b506b34980eaa68e540",
+    "1b5e37c1503276a423538346668546d6"
   ],
   "transfers": {
     "pages": {
@@ -20826,50 +20830,6 @@
   "sent_stories": [
     {
       "words": [
-        "blade",
-        "experience",
-        "flashy",
-        "kung",
-        "phantom",
-        "punk",
-        "sophisticated",
-        "zero"
-      ],
-      "at": "2026-08-18T04:00:39.475128+00:00",
-      "message_id": "1539121838905499763",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "'Phantom Blade Zero': A Flashy and Sophisticated Kung Fu Punk Experience",
-      "link": "https://www.invenglobal.com/articles/24855/phantom-blade-zero-a-flashy-and-sophisticated-kung-fu-punk-experience",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "S-Game's Kung Fu Punk action RPG, Phantom Blade Zero, unveiled a 20-minute deep-dive video during the State of Play broadcast on the 18th.The video featured Soulframe, the director......"
-    },
-    {
-      "words": [
-        "about",
-        "everything",
-        "hearts",
-        "kingdom",
-        "know",
-        "series"
-      ],
-      "at": "2026-08-18T04:00:39.475128+00:00",
-      "message_id": "1539121854168698973",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "Everything we know about Kingdom Hearts 4 and the new TV series",
-      "link": "https://dotesports.com/disney/guides/kingdom-hearts-4-everything-we-know",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/KH4_D23_4K_6.jpg",
-      "base_description": "Sora returns alongside a new animated series."
-    },
-    {
-      "words": [
         "conquest",
         "descendant",
         "dungeon",
@@ -23223,6 +23183,57 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "Find out what will happen if you keep giving Barney his favorite drink."
+    },
+    {
+      "words": [
+        "baseball",
+        "basis",
+        "batman",
+        "korean",
+        "launch",
+        "loaded",
+        "ninja",
+        "nintendo",
+        "ps5",
+        "switch"
+      ],
+      "at": "2026-08-19T04:07:23.340239+00:00",
+      "message_id": "1539485920238239768",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Ninja Baseball Batman: Basis Loaded to Launch in Korean for PS5 and Nintendo Switch 2",
+      "link": "https://www.invenglobal.com/articles/24894/ninja-baseball-batman-basis-loaded-to-launch-in-korean-for-ps5-and-nintendo-switch-2",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©CITY CONNECTION, IREMH2 Interactive (CEO Heo Jun-ha) announced that the Korean version of the belt scroller action game Ninja Baseball Batman: Basis Loaded, developed in coll......"
+    },
+    {
+      "words": [
+        "announced",
+        "august",
+        "doubled",
+        "duration",
+        "infinite",
+        "nine",
+        "patch",
+        "potion",
+        "redistribution",
+        "summary",
+        "wed"
+      ],
+      "at": "2026-08-19T04:07:23.340239+00:00",
+      "message_id": "1539485936650428438",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Infinite Potion Redistribution and Doubled 'Nine' Duration Announced! August 19 (Wed) Patch Summary",
+      "link": "https://www.invenglobal.com/articles/24893/infinite-potion-redistribution-and-doubled-nine-duration-announced-august-19-wed-patch-summary",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Sol: Enchantment (hereinafter 'Sol') released an update on Wednesday, August 19, featuring dungeon revamps and additional level-up benefits...."
     }
   ]
 }
