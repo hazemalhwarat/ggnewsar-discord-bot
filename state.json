@@ -8527,7 +8527,11 @@
     "https://www.hotspawn.com/counter-strike/news/esports-world-cup-2026-round-of-16-day-1",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZnlISDJpVUVyWEZBZk5Kelcyc0JEYWtCYzl1Zm9yNFpWbHY1X29QTHRGNE8zQVlfb0MzSUwxQVNYWEdQR2pIR0hNdW45LXlLRmNkYk54enlSY2EwNEJpeFRtOFZRLWk0WE5VWDB0RHduSUpWOFlQNExCX0Q0b1hOVzh1Wi1Yb1JaRUhUU054UjBqTk5FcW5CLUx2SmduLU9GLWZBSFAyZk9hYkEtcHNMMFVRUFlzeXgzNmZjS9IBvAFBVV95cUxOZnlISDJpVUVyWEZBZk5Kelcyc0JEYWtCYzl1Zm9yNFpWbHY1X29QTHRGNE8zQVlfb0MzSUwxQVNYWEdQR2pIR0hNdW45LXlLRmNkYk54enlSY2EwNEJpeFRtOFZRLWk0WE5VWDB0RHduSUpWOFlQNExCX0Q0b1hOVzh1Wi1Yb1JaRUhUU054UjBqTk5FcW5CLUx2SmduLU9GLWZBSFAyZk9hYkEtcHNMMFVRUFlzeXgzNmZjSw?oc=5",
     "https://www.hltv.org/news/45344/xelex-goes-from-zero-to-hero-in-mouz-comeback-to-make-ewc-quarters-over-gamerlegion",
-    "https://esportsafricanews.com/nigeria-at-gamescom-2026-from-gaming-market-to-games-industry/"
+    "https://esportsafricanews.com/nigeria-at-gamescom-2026-from-gaming-market-to-games-industry/",
+    "https://insider-gaming.com/gta-6-cyberleek-monetizes-gameplay-leaks/",
+    "https://esports.gg/news/hearthstone/hearthstone-tavern-brawl-the-great-amalgamation-decks/",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YamxXVWZ6ejNpZkZpVUlTS1V4VEkzbHpMRkt2aVRnZWx4NTN1d1dmVVZGaEZWbWVnZ2trZXlORTVOTDZFemc1UFFkbFdJeVRSYUVnZEd3Sk5pQU00cmRLZGpZbw?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2d0M3VmbS1hTGpiajhiYjB5MlhQYlBkaXJ0aG92ODVsOS13UTJDcUZ2cW9RZml1UkhvR3VXQk1BSmQ4aWlvMkhiOVdXVndHNTJJc3ZvYnBIN1MzYVEyOVJWbzQ2RnljOTluTzJMOUp5UjZvbGNISjVkd1NNdWJjSldXV1BYZTZyblhUNE9iWXViTjg2a05jRTNHQmlpZ2tiaEtCSm9GSUZiUlhvQVVMcUZMVl9NQ2RiY1JyQzFn?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16972,7 +16976,10 @@
     "66084c58833925c7572d8b4e8db276a2",
     "62eff3161cad6265204d7cde3438f48a",
     "370906f799b5d4ef07496296286d2ef4",
-    "5c572b05499ab79a9d778f6915f3d549"
+    "5c572b05499ab79a9d778f6915f3d549",
+    "17b5b7755db9899bf4c8c74a36b10ded",
+    "73541ec300ff72690e77bdd1f6e76944",
+    "51fcf420907364453865348ac9821a98"
   ],
   "transfers": {
     "pages": {
@@ -18851,7 +18858,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-19T16:56:24.089896+00:00",
+  "last_health_alert": "2026-08-19T23:17:55.078148+00:00",
   "recent_titles": [
     {
       "words": [
@@ -21165,31 +21172,6 @@
     }
   ],
   "sent_stories": [
-    {
-      "words": [
-        "all",
-        "beta",
-        "earn",
-        "how",
-        "modern",
-        "rewards",
-        "them",
-        "warfare"
-      ],
-      "at": "2026-08-18T23:16:35.274965+00:00",
-      "message_id": "1539412743768252447",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg",
-        "Insider Gaming",
-        "Dot Esports"
-      ],
-      "title": "All Modern Warfare 4 Beta rewards & how to earn them",
-      "link": "https://esports.gg/guides/call-of-duty/all-modern-warfare-4-beta-rewards-how-to-earn-them/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Modern Warfare 4 has an exclusive set of rewards that you can only earn during the Beta, so let's see what they are."
-    },
     {
       "words": [
         "global",
@@ -23859,6 +23841,52 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Mattel Brick Shop’s new 3,509-piece kit recreates the original XBOX and Duke controller at full scale, with lights, sounds and game dioramas. The post Mattel Brick Shop Reveals Life-Size Original XBOX Set appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "cyberleek",
+        "gameplay",
+        "gta",
+        "leaker",
+        "making",
+        "money",
+        "now",
+        "videos"
+      ],
+      "at": "2026-08-19T23:17:45.385896+00:00",
+      "message_id": "1539775420201697311",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "GTA 6 Leaker CYBERLEEK Is Now Making Money From Gameplay Videos",
+      "link": "https://insider-gaming.com/gta-6-cyberleek-monetizes-gameplay-leaks/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "CYBERLEEK is using a paid poll to choose their next GTA 6 leak. The post GTA 6 Leaker CYBERLEEK Is Now Making Money From Gameplay Videos appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "amalgamation",
+        "brawl",
+        "codes",
+        "deck",
+        "decks",
+        "great",
+        "hearthstone",
+        "tavern"
+      ],
+      "at": "2026-08-19T23:17:45.385896+00:00",
+      "message_id": "1539775434768523315",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Hearthstone Tavern Brawl: The Great Amalgamation decks and deck codes",
+      "link": "https://esports.gg/news/hearthstone/hearthstone-tavern-brawl-the-great-amalgamation-decks/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Here's how to win in The Great Amalgamation, which is this week's Hearthstone Tavern Brawl."
     }
   ]
 }
