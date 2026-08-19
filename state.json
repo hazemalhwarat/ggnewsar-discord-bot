@@ -8496,7 +8496,12 @@
     "https://insider-gaming.com/astralis-hooxi-interview-esports-world-cup-2026/",
     "https://insider-gaming.com/lol-patch-26-17-every-change-vayne-nerfs/",
     "https://esports.gg/guides/fortnite/fortnite-sonic-skins/",
-    "https://www.hotspawn.com/fortnite/news/ewc-fortnite-leaderboard"
+    "https://www.hotspawn.com/fortnite/news/ewc-fortnite-leaderboard",
+    "https://www.vlr.gg/739655/jd-gaming-and-bilibili-gaming-continue-playoff-runs",
+    "https://dotesports.com/general/news/sony-reportedly-strips-live-service-elements-from-horizon-multiplayer-game",
+    "https://insider-gaming.com/marvel-rivals-patch-adds-cyclops-phoenix-and-daredevil-skins/",
+    "https://esports.gg/news/fortnite/all-fortnite-sidekicks-list/",
+    "https://www.hotspawn.com/fortnite/news/fortnite-downtime-end-c7-s4"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16917,7 +16922,12 @@
     "26f78b68c60546d091a7dec9a9675d02",
     "19eecd1eb487c442065c1c015765fea0",
     "0bfe3c51d09bf4b99e203330e39d6845",
-    "d1c7f24d5dfc44cebe1051f3e09f0e9c"
+    "d1c7f24d5dfc44cebe1051f3e09f0e9c",
+    "a2650e6226ac5833ccb987340220e3f3",
+    "33356442fe5407890a73898f446d0d7e",
+    "9ba0a080657110ebfeb94372c8a6798d",
+    "6c629a32f9f817fe96193c90828419d9",
+    "4397a64970c70ad38b65836f5745843a"
   ],
   "transfers": {
     "pages": {
@@ -21112,46 +21122,6 @@
   "sent_stories": [
     {
       "words": [
-        "alleged",
-        "footage",
-        "gameplay",
-        "gta",
-        "leaks",
-        "online"
-      ],
-      "at": "2026-08-18T19:07:48.263478+00:00",
-      "message_id": "1539350129784660019",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "Dot Esports"
-      ],
-      "title": "Alleged GTA 6 Gameplay Footage Leaks Online",
-      "link": "https://insider-gaming.com/alleged-gta-6-gameplay-footage-leaks-online/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "GTA 6 has suffered a fresh leak at the hands of a disgruntled fan, it has been claimed. Gameplay has seemingly appeared online. The post Alleged GTA 6 Gameplay Footage Leaks Online appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "post",
-        "red",
-        "roundup"
-      ],
-      "at": "2026-08-18T19:07:48.263478+00:00",
-      "message_id": "1539350149657133207",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Nerfplz"
-      ],
-      "title": "Red Post Roundup #3: Patch 26.17 Preview and Permabans",
-      "link": "https://www.nerfplz.com/2026/08/red-post-roundup-3-patch-2617-preview.html",
-      "color": 8141549,
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2jtobQB1nxGiub1uBzXZk7w7Au_eevVWeTPkAVNe-lfQI4TmgpHJLIWHOuOWzR-z46Q1W3uNyIOZU_E9TlLcn-amFjN2BWwLa6BMlvQtdKQNm4BO95LonjiUEy71kpsn2tQ2ZaYPPARJJjObbnyANCOvfxCuFE__pHanuyZG0BNigVY9-wxP_M5gT41c/s72-c-rw/nami.png",
-      "base_description": "26.17 is a stabilization patch, and a player who admitted abusing the ward bug asked for their ban back in public. The 26.17 preview landed, Sundered Sky is getting hit again, and Riot spent the weekend explaining exactly where cheating starts. Red Post Roundup August 15 to 18 Is"
-    },
-    {
-      "words": [
         "all",
         "battle",
         "confirmed",
@@ -21164,7 +21134,8 @@
       "message_id": "1539358215236616213",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Hotspawn"
+        "Hotspawn",
+        "Esports.gg"
       ],
       "title": "All Fortnite Override Battle Pass Skins Confirmed",
       "link": "https://www.hotspawn.com/fortnite/news/fortnite-override-battle-pass-skins",
@@ -23749,6 +23720,50 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "Sonic, Shadow, Knuckles, and Eggman skins all invade Fortnite on Aug. 20!"
+    },
+    {
+      "words": [
+        "adds",
+        "cyclops",
+        "daredevil",
+        "marvel",
+        "patch",
+        "phoenix",
+        "rivals",
+        "skins"
+      ],
+      "at": "2026-08-19T19:37:58.689064+00:00",
+      "message_id": "1539720111655620679",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Marvel Rivals Patch Adds Cyclops, Phoenix and Daredevil Skins",
+      "link": "https://insider-gaming.com/marvel-rivals-patch-adds-cyclops-phoenix-and-daredevil-skins/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Marvel Rivals’ upcoming update on August 20 adds Cyclops, Phoenix, and Daredevil bundles, while fixing Lady Loki animation issues and a Hela movement bug. The post Marvel Rivals Patch Adds Cyclops, Phoenix and Daredevil Skins appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "does",
+        "downtime",
+        "end",
+        "fortnite",
+        "today",
+        "when"
+      ],
+      "at": "2026-08-19T19:37:58.689064+00:00",
+      "message_id": "1539720134136963173",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "When Does the Fortnite Downtime End Today?",
+      "link": "https://www.hotspawn.com/fortnite/news/fortnite-downtime-end-c7-s4",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Fortnite-Override-Battle-Pass2.webp",
+      "base_description": "When does the Fortnite downtime end? The current season has come to an end, players will have to wait through a brief bit of downtime before the game comes back. We aren’t expecting the current Fortnite season to take things offline for a whole day like the black hole event back "
     }
   ]
 }
