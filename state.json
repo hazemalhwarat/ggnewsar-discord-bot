@@ -8403,7 +8403,13 @@
     "https://www.gamesindustry.biz/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games-with-funding-from-arknights-developer-hypergraph",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWdvTmxNdEpMZWRyeWhrcERhSGc0RjdLS3VsczdFNWhVcHJoeVdxemVESVpzUHNYeU84TzV1aGl6ckxxTElReUFkaW1SMlAtSmgyS01pb3ZpcnBxd1ZyX0Rkc3lVSTBISHI0U1MzNVBuSDZZTlFEYUtCdEJjNDJla0lvVkVFY0Uwejd3UG5iZnpfUUg2U2MxSmRhMkkydmFDUkVIVlRGaWExN2JBRlNXYzltQ0pGMElqY3lWQjI0V0dDdw?oc=5",
     "https://www.invenglobal.com/articles/24908/d-war-surges-on-netflix-after-19-years-shim-hyung-rae-says-d-war-2-production-complete-game-also-coming",
-    "https://www.invenglobal.com/articles/24907/lineage-m-week-3-of-august-limited-and-weekend-crafting-info"
+    "https://www.invenglobal.com/articles/24907/lineage-m-week-3-of-august-limited-and-weekend-crafting-info",
+    "https://esports.gg/guides/roblox/hammer-99-nights-in-the-forest/",
+    "https://esportsradar.gg/team-liquid-and-alienware-extend-partnership-through-2031/",
+    "https://realsport101.com/article/fc-27-bundesliga-frauen-bundesliga-ratings-kane-olise-bayern-stars-lead",
+    "https://europeangaming.eu/portal/press-releases/2026/08/19/212916/exalogic-fast-track-agentic-crm-italy/",
+    "https://www.invenglobal.com/articles/24909/geng-secures-playoff-round-2-spot-with-hard-fought-win-over-kt-rolster",
+    "https://www.invenglobal.com/articles/24908/shim-hyung-rae-d-war-2-production-complete-video-game-also-coming"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16743,7 +16749,13 @@
     "3257e4541c68fca30181d5aa635d82c4",
     "0de94e8e7886c6f8a6ebca9f72afdb1e",
     "e5fa34449be0238d586fd32068056e1d",
-    "0c3969e8b6f5e0097ac75ec928eea4ad"
+    "0c3969e8b6f5e0097ac75ec928eea4ad",
+    "368a88605f57c8f063cd9cc7d80abcb9",
+    "6e78292abfb15b145f97d97a0b6b4668",
+    "7318e73be68e4320294272a7b9c93da9",
+    "3e1145b53bc55abf6120914996e9ea05",
+    "04399da2d329e08b8527e343e76b300a",
+    "8981329e026d7c7e51c333650c11f42b"
   ],
   "transfers": {
     "pages": {
@@ -18622,7 +18634,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-19T04:51:30.124433+00:00",
+  "last_health_alert": "2026-08-19T10:55:18.623226+00:00",
   "recent_titles": [
     {
       "words": [
@@ -23372,6 +23384,115 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/Pretty-Cool---Red.jpg?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "Pretty Cool Games has been co-founded by Human: Fall Flat veterans Sitara Shefta (CEO) and Will Dudley (CCO) with the aim of building a sustainable studio that's fair to its employees and rewards them for their success. Read more"
+    },
+    {
+      "words": [
+        "fought",
+        "gen",
+        "hard",
+        "over",
+        "playoff",
+        "rolster",
+        "round",
+        "secures",
+        "spot",
+        "win"
+      ],
+      "at": "2026-08-19T10:55:00.160699+00:00",
+      "message_id": "1539588500288962581",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Gen.G Secures Playoff Round 2 Spot with Hard-Fought Win Over KT Rolster",
+      "link": "https://www.invenglobal.com/articles/24909/geng-secures-playoff-round-2-spot-with-hard-fought-win-over-kt-rolster",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©LCKOn the 19th, at Chizzick LoL Park in Jongno, Gen.G Esports defeated kt Rolster 2-1 in the 2026 LoL Champions Korea (LCK) Regular Season Round 4 Legend Group match...."
+    },
+    {
+      "words": [
+        "forest",
+        "get",
+        "hammer",
+        "how",
+        "nights"
+      ],
+      "at": "2026-08-19T10:55:00.160699+00:00",
+      "message_id": "1539588517020180531",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "How to get a Hammer in 99 Nights in the Forest",
+      "link": "https://esports.gg/guides/roblox/hammer-99-nights-in-the-forest/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Never tried redesigning your campsite before? Try getting a Hammer!"
+    },
+    {
+      "words": [
+        "2031",
+        "alienware",
+        "extend",
+        "liquid",
+        "partnership",
+        "through"
+      ],
+      "at": "2026-08-19T10:55:00.160699+00:00",
+      "message_id": "1539588531482001430",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "The Esports Radar"
+      ],
+      "title": "Team Liquid and Alienware extend partnership through 2031",
+      "link": "https://esportsradar.gg/team-liquid-and-alienware-extend-partnership-through-2031/",
+      "color": 8141549,
+      "image_url": "https://esportsradar.gg/wp-content/uploads/2026/07/EL_Paris-Twitter-Banner-1.0-1024x341.jpg",
+      "base_description": "Esports organisation Team Liquid and Dell’s gaming brand Alienware have signed a new five-year extension of their partnership agreement, keeping the two companies working together through 2031. The renewed agreement is linked with the launch of Race to World First, a live competi"
+    },
+    {
+      "words": [
+        "bundesliga",
+        "frauen",
+        "ratings"
+      ],
+      "at": "2026-08-19T10:55:00.160699+00:00",
+      "message_id": "1539588546942345267",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "RealSport101"
+      ],
+      "title": "FC 27 Bundesliga & Frauen-Bundesliga Ratings: Kane, Olise & Bayern Stars Lead",
+      "link": "https://realsport101.com/article/fc-27-bundesliga-frauen-bundesliga-ratings-kane-olise-bayern-stars-lead",
+      "color": 8141549,
+      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/3fc94afd-fc-27-bundesliga-rating.webp",
+      "base_description": "Explore official FC 27 player ratings for the Bundesliga and Frauen-Bundesliga! Check out Harry Kane at 90 and the top women's stars."
+    },
+    {
+      "words": [
+        "across",
+        "agentic",
+        "crm",
+        "exalogic",
+        "fast",
+        "integrates",
+        "italian",
+        "network",
+        "operator",
+        "track"
+      ],
+      "at": "2026-08-19T10:55:00.160699+00:00",
+      "message_id": "1539588561681125467",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "Exalogic integrates Fast Track’s agentic CRM across Italian operator network",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/08/19/212916/exalogic-fast-track-agentic-crm-italy/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Exalogic-integrates-Fast-Tracks-agentic-CRM-across-Italian-operator-network.jpg",
+      "base_description": "The deal gives more than 20 Italian licensed operators a compliant path to deploying AI-driven CRM automation, with… The post Exalogic integrates Fast Track’s agentic CRM across Italian operator network appeared first on European Gaming Industry News ."
     }
   ]
 }
