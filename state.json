@@ -8409,7 +8409,11 @@
     "https://realsport101.com/article/fc-27-bundesliga-frauen-bundesliga-ratings-kane-olise-bayern-stars-lead",
     "https://europeangaming.eu/portal/press-releases/2026/08/19/212916/exalogic-fast-track-agentic-crm-italy/",
     "https://www.invenglobal.com/articles/24909/geng-secures-playoff-round-2-spot-with-hard-fought-win-over-kt-rolster",
-    "https://www.invenglobal.com/articles/24908/shim-hyung-rae-d-war-2-production-complete-video-game-also-coming"
+    "https://www.invenglobal.com/articles/24908/shim-hyung-rae-d-war-2-production-complete-video-game-also-coming",
+    "https://insider-gaming.com/stop-killing-games-movement-opposes-gta-6-leaker-actions/",
+    "https://www.nerfplz.com/2026/08/weird-pick-164-jungle-milio.html",
+    "https://europeangaming.eu/portal/press-releases/2026/08/19/212924/allwyn-uk-phil-walker-interim-ceo/",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JMktrOVBNZER1MUpvZzc0STBBTlFjYktQTWxoeXpUem1kdWVJeVFBNkVQaXVVeVRfcW95REtYLXJIN195VVhZTkhzVU5Cdw?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16755,7 +16759,10 @@
     "7318e73be68e4320294272a7b9c93da9",
     "3e1145b53bc55abf6120914996e9ea05",
     "04399da2d329e08b8527e343e76b300a",
-    "8981329e026d7c7e51c333650c11f42b"
+    "8981329e026d7c7e51c333650c11f42b",
+    "bfe894bf66e0cf947ca86b68ec4b4920",
+    "7e9cfc97a9fe011e3f1104bd01bdaf4a",
+    "7c93817b702c215f28d0a313b3092da8"
   ],
   "transfers": {
     "pages": {
@@ -20950,101 +20957,6 @@
   "sent_stories": [
     {
       "words": [
-        "000",
-        "coinpoker",
-        "daily",
-        "dollar",
-        "guarantee",
-        "launches",
-        "raised",
-        "sunday",
-        "tournament"
-      ],
-      "at": "2026-08-18T11:19:28.706153+00:00",
-      "message_id": "1539232271318392906",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports News UK"
-      ],
-      "title": "CoinPoker launches $1 Daily Dollar tournament with Sunday guarantee raised to $5,000",
-      "link": "https://esports-news.co.uk/2026/08/18/coinpoker-daily-dollar-tournament-5000-sunday-guarantee/",
-      "color": 8141549,
-      "image_url": "https://esports-news.co.uk/wp-content/uploads/2026/08/daily-dollar-pr-300x172.png",
-      "base_description": "CoinPoker has launched a new daily $1 poker tournament, and increased the guarantee for its weekly Sunday edition following its opening weekend. The Daily Dollar debuted on 13 August and runs at 17:00 UTC from Monday to Saturday, carrying a $1 buy-in and a guaranteed $1,000 prize"
-    },
-    {
-      "words": [
-        "creator",
-        "deus",
-        "developer",
-        "retiring",
-        "spector",
-        "warren"
-      ],
-      "at": "2026-08-18T11:19:28.706153+00:00",
-      "message_id": "1539232287198150717",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "GamesIndustry.biz"
-      ],
-      "title": "Deus Ex Creator Warren Spector is Retiring From Game Developer",
-      "link": "https://insider-gaming.com/warren-spector-retirement/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Deus Ex creator Warren Spector has announced that he is retiring from game development... Or at the very least, he thinks he is. The post Deus Ex Creator Warren Spector is Retiring From Game Developer appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "134",
-        "all",
-        "ambessa",
-        "brakes",
-        "briar",
-        "comps",
-        "fizz",
-        "gas",
-        "glasc",
-        "nilah",
-        "renata",
-        "top"
-      ],
-      "at": "2026-08-18T11:19:28.706153+00:00",
-      "message_id": "1539232302373146675",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Nerfplz"
-      ],
-      "title": "Top Team Comps #134: All Gas, No Brakes (Ambessa, Briar, Fizz, Nilah & Renata Glasc)",
-      "link": "https://www.nerfplz.com/2026/08/top-team-comps-134-all-gas-no-brakes.html",
-      "color": 8141549,
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9ZZrddDX4yxUnpQ3F7sCvZgV5BNBVhuOyDH963UHbYfKtO3mgDE6H7_XSs-jZrnwBZRVmzh0q0iROKS5esZMSBTZoHmL_8qlHhcOlIJclL76cxcZ0e2uevvvYPHijbvMyuSSZ-OKUlN4/s72-c-rw/topteamcompsmall.png",
-      "base_description": "Nobody on this team owns a reverse gear. Every button these five champions have points forward, and one of them hands out extra lives when that goes wrong. Top Team Comps All Gas, No Brakes Ambessa · Briar · Fizz · Nilah · Renata Glasc Nobody on this team owns a reverse gear. Eve"
-    },
-    {
-      "words": [
-        "content",
-        "goes",
-        "light",
-        "live",
-        "marketplace",
-        "playnetic",
-        "wonder"
-      ],
-      "at": "2026-08-18T11:19:28.706153+00:00",
-      "message_id": "1539232316692500591",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "Playnetic goes live with Light & Wonder content marketplace",
-      "link": "https://europeangaming.eu/portal/press-releases/2026/08/18/212850/playnetic-light-and-wonder-opengaming-deal/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Playnetic-goes-live-with-Light-Wonder-content-marketplace.jpg",
-      "base_description": "The deal extends Playnetic’s distribution reach as the studio pursues a multi-aggregator strategy across European regulated markets. Independent… The post Playnetic goes live with Light & Wonder content marketplace appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
         "become",
         "cs2",
         "dangerous",
@@ -23493,6 +23405,71 @@
       "color": 8141549,
       "image_url": "https://media.europeangaming.eu/uploads/2026/08/Exalogic-integrates-Fast-Tracks-agentic-CRM-across-Italian-operator-network.jpg",
       "base_description": "The deal gives more than 20 Italian licensed operators a compliant path to deploying AI-driven CRM automation, with… The post Exalogic integrates Fast Track’s agentic CRM across Italian operator network appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "actions",
+        "gta",
+        "killing",
+        "leaker",
+        "movement",
+        "opposes",
+        "stop"
+      ],
+      "at": "2026-08-19T11:19:52.952141+00:00",
+      "message_id": "1539594763018313749",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Stop Killing Games Movement Opposes GTA 6 Leaker Actions",
+      "link": "https://insider-gaming.com/stop-killing-games-movement-opposes-gta-6-leaker-actions/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Known for campaigning for consumer rights with video games, Stop Killing Games has publicly voiced its displeasure over the GTA 6 leaks. The post Stop Killing Games Movement Opposes GTA 6 Leaker Actions appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "164",
+        "pick",
+        "weird"
+      ],
+      "at": "2026-08-19T11:19:52.952141+00:00",
+      "message_id": "1539594791199838251",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Nerfplz"
+      ],
+      "title": "Weird Pick #164: Jungle Milio",
+      "link": "https://www.nerfplz.com/2026/08/weird-pick-164-jungle-milio.html",
+      "color": 8141549,
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYWpjmyCUA2PrDsZQBoV588XXUV6-tOn8p030mK8mNr1o9CDE5UnN3Qgcw0noIuFnjvjctcFTliskLSFL5TgNIbdL5l62AqR1wXxUUA9dNWA1_tL-AWA3mABxWQuaYUk8JjkJt3iSxjrYOnjBde6bsb6CjsKoJwc5Ut_M0U2YPptzuNbd_RcjvW7T-aBk/s72-c-rw/milio-preview-300.jpg",
+      "base_description": "An enchanter with a Smite, clearing camps out of a campfire instead of a jungle item's raw damage. Jungle Milio is exactly as risky as it sounds, and exactly as fun when it works. Jungle Milio is a pick nobody has actually tried in Ranked Solo/Duo, and for a very honest reason: h"
+    },
+    {
+      "words": [
+        "allwyn",
+        "andria",
+        "appoints",
+        "ceo",
+        "down",
+        "interim",
+        "phil",
+        "steps",
+        "vidler",
+        "walker"
+      ],
+      "at": "2026-08-19T11:19:52.952141+00:00",
+      "message_id": "1539594806236282932",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "Allwyn UK appoints Phil Walker as interim CEO as Andria Vidler steps down",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/08/19/212924/allwyn-uk-phil-walker-interim-ceo/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Allwyn-UK-appoints-Phil-Walker-as-interim-CEO-as-Andria-Vidler-steps-down.jpg",
+      "base_description": "The leadership change marks the end of the Fourth Licence’s initial infrastructure phase and the start of a… The post Allwyn UK appoints Phil Walker as interim CEO as Andria Vidler steps down appeared first on European Gaming Industry News ."
     }
   ]
 }
