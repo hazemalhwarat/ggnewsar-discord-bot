@@ -8490,7 +8490,13 @@
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUx4SHU0bzBJNkRhQkNTb1JmenY3RFViSm1oWVBqdDJRN21hMmxpdHdNRlIwbDZYWWlRY3dFS3JEZlBvbmJZR2NwNmF3bzlpTnhPSTRZS29uY0RaNVpXeHQ3Wmg3aHkyUWJrc0g4d255NWtWeHgxcnF1YkZobXhqOUZwN1F0QnpnbzRFY0RFNEd1WUJBalF6UzM4QjRCaXPSAZ8BQVVfeXFMTS1MeEh1NG8wSTZEYUJDU29SZnp2N0RVYkptaFlQanQyUTdtYTJsaXR3TUZSMGw2WFlpUWN3RUtyRGZQb25iWUdjcDZhd285aU54T0k0WUtvbmNEWjVaV3h0N1poN2h5MlFia3NIOHdueTVrVnh4MXJxdWJGaG14ajlGcDdRdEJ6Z280RWNERTRHdVlCQWpRelMzOEI0Qmlz?oc=5",
     "https://gameriv.com/horizon-hunters-gathering-drops-live-service-plans-after-poor-playtests-report-says/",
     "https://gameriv.com/gta-6-leak-claims-players-can-trade-in-game-currency-for-real-money/",
-    "https://esports.gg/news/overwatch/overwatch-x-opera-gx-collab-gets-21-rewards-skins-loot-boxes-sprays/"
+    "https://esports.gg/news/overwatch/overwatch-x-opera-gx-collab-gets-21-rewards-skins-loot-boxes-sprays/",
+    "https://dotesports.com/league-of-legends/guides/lol-patch-26-17-patch-notes",
+    "https://www.hltv.org/news/45342/r1nkle-life-is-good",
+    "https://insider-gaming.com/astralis-hooxi-interview-esports-world-cup-2026/",
+    "https://insider-gaming.com/lol-patch-26-17-every-change-vayne-nerfs/",
+    "https://esports.gg/guides/fortnite/fortnite-sonic-skins/",
+    "https://www.hotspawn.com/fortnite/news/ewc-fortnite-leaderboard"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16905,7 +16911,13 @@
     "aa01e9dbddd4f254f87cb39a65ed43e5",
     "3d35e89d94451d16aa8bb313d60bb478",
     "d5024548c0e8e360674b4e8d8dca51c0",
-    "a4bb22b204e13e7577c58336423c4096"
+    "a4bb22b204e13e7577c58336423c4096",
+    "8425d4f790bcab17f40fa8ae949a4a72",
+    "733aa066c9fb35a78087913841f0ea10",
+    "26f78b68c60546d091a7dec9a9675d02",
+    "19eecd1eb487c442065c1c015765fea0",
+    "0bfe3c51d09bf4b99e203330e39d6845",
+    "d1c7f24d5dfc44cebe1051f3e09f0e9c"
   ],
   "transfers": {
     "pages": {
@@ -21100,46 +21112,6 @@
   "sent_stories": [
     {
       "words": [
-        "countdown",
-        "overwatch",
-        "reset",
-        "rotation",
-        "shop"
-      ],
-      "at": "2026-08-18T18:27:06.591324+00:00",
-      "message_id": "1539339888569098322",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "Overwatch shop rotation and shop reset countdown",
-      "link": "https://esports.gg/news/overwatch/overwatch-2-shop-rotation-and-shop-reset-countdown/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Here is everything that's currently available through the in-game shop!"
-    },
-    {
-      "words": [
-        "league",
-        "premier",
-        "ratings",
-        "revealed",
-        "wsl"
-      ],
-      "at": "2026-08-18T18:27:06.591324+00:00",
-      "message_id": "1539339903957995533",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "RealSport101"
-      ],
-      "title": "FC 27 Premier League & WSL Ratings Revealed: Haaland, Shaw & Biggest Upgrades",
-      "link": "https://realsport101.com/article/fc-27-premier-league-wsl-ratings-revealed-haaland-shaw-biggest-upgrades",
-      "color": 8141549,
-      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/07555660-hqa1k11wwaae5zy-1920x1080.webp",
-      "base_description": "Check out the official FC 27 player ratings for the Premier League and WSL! See upgrades, downgrades, and stats for top stars."
-    },
-    {
-      "words": [
         "alleged",
         "footage",
         "gameplay",
@@ -21211,7 +21183,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "Insider Gaming",
-        "GameRiv"
+        "GameRiv",
+        "Dot Esports"
       ],
       "title": "LoL Patch 26.17 Preview: Yasuo Buffs and Thresh Nerfs",
       "link": "https://insider-gaming.com/lol-patch-26-17-preview-yasuo-buffs-thresh-nerfs/",
@@ -21282,7 +21255,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "Esports World Cup (official, via Google News)",
-        "Al-Ahli Esports (Saudi, new CS2 roster June 2026)"
+        "Al-Ahli Esports (Saudi, new CS2 roster June 2026)",
+        "Hotspawn"
       ],
       "title": "Fortnite Reload Elite Series at EWC 26 Survival Guide - Esports World Cup",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sYnJFNHpla1c0XzlwYmZERm9fR1NSUHRDeUZybVl3NlFscXRBSnd4UHFLTTFURFNsc0xFNERtVGF3YmNWaEs2amRwdzkteXNMN1pnaHVXS2tKYnRBM1RhZjBWZXZFN1ZqZ205TW5EbWpPc2s?oc=5",
@@ -23712,6 +23686,69 @@
       "color": 8141549,
       "image_url": "https://gameriv.com/wp-content/uploads/2025/01/roblox-games.jpg",
       "base_description": "A new GTA 6 leak is making a particularly surprising claim about Rockstar Games’ upcoming title. The person or group operating under the name Cyberleek claims Grand Theft Auto VI contains a form of currency that can potentially be exchanged for real-world money, comparing the sys"
+    },
+    {
+      "words": [
+        "r1nkle"
+      ],
+      "at": "2026-08-19T19:02:35.979568+00:00",
+      "message_id": "1539711213192089641",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "r1nkle: \"Life is good\"",
+      "link": "https://www.hltv.org/news/45342/r1nkle-life-is-good",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/G9B63dbfqOl6miu9LDaoat.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=95f57da0e6058062f21656770e22d56f",
+      "base_description": "The Ukrainian AWPer is over the moon to be playing tier-1 Counter-Strike after a rough time with NIP."
+    },
+    {
+      "words": [
+        "adding",
+        "astralis",
+        "fell",
+        "hole",
+        "hooxi",
+        "influence",
+        "into",
+        "more",
+        "neo",
+        "structure",
+        "struggles"
+      ],
+      "at": "2026-08-19T19:02:35.979568+00:00",
+      "message_id": "1539711227868221583",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "“We fell into a hole of adding more and more structure” – HooXi on Astralis’ Struggles and NEO’s Influence",
+      "link": "https://insider-gaming.com/astralis-hooxi-interview-esports-world-cup-2026/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Insider Gaming spoke to Astralis IGL HooXi following Astralis' Round of 16 exit to G2 at EWC 2026's Counter-Strike 2 tournament. The post “We fell into a hole of adding more and more structure” – HooXi on Astralis’ Struggles and NEO’s Influence appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "eggman",
+        "fortnite",
+        "knuckles",
+        "shadow",
+        "skins",
+        "sonic"
+      ],
+      "at": "2026-08-19T19:02:35.979568+00:00",
+      "message_id": "1539711242753810533",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Sonic, Shadow, Knuckles, and Eggman Fortnite skins: How to get all of them",
+      "link": "https://esports.gg/guides/fortnite/fortnite-sonic-skins/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Sonic, Shadow, Knuckles, and Eggman skins all invade Fortnite on Aug. 20!"
     }
   ]
 }
