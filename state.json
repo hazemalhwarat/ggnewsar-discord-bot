@@ -8481,7 +8481,13 @@
     "https://insider-gaming.com/call-of-duty-modern-warfare-4-twitch-drops/",
     "https://insider-gaming.com/all-call-of-duty-modern-warfare-4-beta-rewards/",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSWYzanMtb0NDWWthVGNlT3dGeThLV01NLXFQUXY0NmRPSVIycFd2aC14Y285bEU1alFRaEpsTFRnZlNPcEtMZW1vM01qd19vUVh6b0wzNll6ZEpTaFFJMGZlRkVmUmR6QkE3QVlhajBPTUFXaHdfaFRnU3M2aDRFYjRpajBJYXZrQzgtTDlyaTlOUlM3S1JFRUdn?oc=5",
-    "https://www.invenglobal.com/articles/24914/nexus-launches-ai-labs-portal-with-11-in-house-ai-solutions"
+    "https://www.invenglobal.com/articles/24914/nexus-launches-ai-labs-portal-with-11-in-house-ai-solutions",
+    "https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters",
+    "https://esports.gg/news/hearthstone/hearthstone-gets-hilarious-naraka-bladepoint-collab-wow/",
+    "https://insider-gaming.com/bin-returns-blg-lpl-flandre-benched/",
+    "https://www.hotspawn.com/mlbb/news/the-mpl-franchise-regions-have-fallen-and-that-might-be-exactly-what-they-need",
+    "https://esportsradar.gg/neo-in-discussions-with-riot-over-lfl-following-webedia-exit-reports/",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUx4SHU0bzBJNkRhQkNTb1JmenY3RFViSm1oWVBqdDJRN21hMmxpdHdNRlIwbDZYWWlRY3dFS3JEZlBvbmJZR2NwNmF3bzlpTnhPSTRZS29uY0RaNVpXeHQ3Wmg3aHkyUWJrc0g4d255NWtWeHgxcnF1YkZobXhqOUZwN1F0QnpnbzRFY0RFNEd1WUJBalF6UzM4QjRCaXPSAZ8BQVVfeXFMTS1MeEh1NG8wSTZEYUJDU29SZnp2N0RVYkptaFlQanQyUTdtYTJsaXR3TUZSMGw2WFlpUWN3RUtyRGZQb25iWUdjcDZhd285aU54T0k0WUtvbmNEWjVaV3h0N1poN2h5MlFia3NIOHdueTVrVnh4MXJxdWJGaG14ajlGcDdRdEJ6Z280RWNERTRHdVlCQWpRelMzOEI0Qmlz?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16888,7 +16894,12 @@
     "c7421ea31822ef553d4b32a4d988f517",
     "e0647d58524fe31cfa4fc8a245f2d35c",
     "0bfdb0cacf5890c68c268694de6d7c3a",
-    "307f7696e3ccdfc771bf65bd643fa24e"
+    "307f7696e3ccdfc771bf65bd643fa24e",
+    "20fa99fad4b6d7e19f2dcc193def9592",
+    "c87f512e267cb321ec7650d633043a9c",
+    "35fce7b01f0069c728528ec241296d1f",
+    "46e285da2e51fca41ef50fb3e18974d8",
+    "aa01e9dbddd4f254f87cb39a65ed43e5"
   ],
   "transfers": {
     "pages": {
@@ -23629,6 +23640,97 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "If you're tired of the Call of Duty HQ being used to house and launch all CoD titles, then you should know the MW4 beta isn't doing this. The post Modern Warfare 4 Beta Doesn’t Need Call of Duty HQ Hub appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "ewc",
+        "fut",
+        "magic",
+        "make",
+        "quarters",
+        "reverse",
+        "sweep"
+      ],
+      "at": "2026-08-19T17:49:57.598803+00:00",
+      "message_id": "1539692927478009857",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "FUT reverse-sweep magic to make EWC quarters",
+      "link": "https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/6ex2rYT5rw5So9YvMnWUK8.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=2f088116398622152b9909104af37bf0",
+      "base_description": "magic won several clutches throughout the series to make it a battle, but couldn't overcome a better overall showing from FUT on Anubis and Mirage."
+    },
+    {
+      "words": [
+        "bladepoint",
+        "collab",
+        "gets",
+        "hearthstone",
+        "hilarious",
+        "naraka"
+      ],
+      "at": "2026-08-19T17:49:57.598803+00:00",
+      "message_id": "1539692942653132821",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Hearthstone gets hilarious Naraka Bladepoint collab: “Wow!”",
+      "link": "https://esports.gg/news/hearthstone/hearthstone-gets-hilarious-naraka-bladepoint-collab-wow/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "The Naraka Bladepoint x Hearthstone collaboration includes a Baby Murloc hat, the \"Wow\" voice bubble, and more."
+    },
+    {
+      "words": [
+        "benches",
+        "bin",
+        "blg",
+        "flandre",
+        "lgd",
+        "lpl",
+        "match",
+        "returns"
+      ],
+      "at": "2026-08-19T17:49:57.598803+00:00",
+      "message_id": "1539692958050418730",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Bin Returns to BLG and Benches Flandre For LPL Match vs LGD",
+      "link": "https://insider-gaming.com/bin-returns-blg-lpl-flandre-benched/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The LPL has confirmed that Bin will return to competitive play and start for BLG against LDG Gaming with Flandre dropped after just 10 days. The post Bin Returns to BLG and Benches Flandre For LPL Match vs LGD appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "exactly",
+        "fallen",
+        "franchise",
+        "have",
+        "might",
+        "mpl",
+        "need",
+        "regions",
+        "they",
+        "what"
+      ],
+      "at": "2026-08-19T17:49:57.598803+00:00",
+      "message_id": "1539692973015433338",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "The MPL Franchise Regions Have Fallen And That Might Be Exactly What They Need",
+      "link": "https://www.hotspawn.com/mlbb/news/the-mpl-franchise-regions-have-fallen-and-that-might-be-exactly-what-they-need",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/ll-e1787160338579.jpg",
+      "base_description": "For years, Mobile Legends: Bang Bang has revolved around three MPL franchise regions: the Philippines, Indonesia, and Malaysia. The MPL regions have produced some of the game’s greatest teams, players, and champions, creating a dynasty in their own rights that has often placed So"
     }
   ]
 }
