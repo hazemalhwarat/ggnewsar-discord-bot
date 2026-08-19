@@ -8394,7 +8394,16 @@
     "https://insider-gaming.com/nip-leave-brazilian-rainbow-six-siege-ecosystem/",
     "https://insider-gaming.com/gta-6-gameplay-dmca/",
     "https://esportsinsider.com/2026/08/the-international-2026-main-event-predictions",
-    "https://www.hotspawn.com/valorant/news/the-best-rookies-in-vct-history"
+    "https://www.hotspawn.com/valorant/news/the-best-rookies-in-vct-history",
+    "https://insider-gaming.com/gta-6-leaker-reveals-countdown-to-next-leaks/",
+    "https://stealthoptional.com/article/fc-27-premier-league-wsl-ratings-revealed-haaland-shaw-biggest-upgrades",
+    "https://stealthoptional.com/article/fc-27-player-ratings-top-10-highest-rated-mens-womens-stars",
+    "https://stealthoptional.com/article/fc-26-pre-season-wilson-objective-guide-how-to-complete-it-fast-all-rewards",
+    "https://stealthoptional.com/article/fc-27-destined-for-glory-guide-voting-dates-promo-schedule-upgrades",
+    "https://www.gamesindustry.biz/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games-with-funding-from-arknights-developer-hypergraph",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWdvTmxNdEpMZWRyeWhrcERhSGc0RjdLS3VsczdFNWhVcHJoeVdxemVESVpzUHNYeU84TzV1aGl6ckxxTElReUFkaW1SMlAtSmgyS01pb3ZpcnBxd1ZyX0Rkc3lVSTBISHI0U1MzNVBuSDZZTlFEYUtCdEJjNDJla0lvVkVFY0Uwejd3UG5iZnpfUUg2U2MxSmRhMkkydmFDUkVIVlRGaWExN2JBRlNXYzltQ0pGMElqY3lWQjI0V0dDdw?oc=5",
+    "https://www.invenglobal.com/articles/24908/d-war-surges-on-netflix-after-19-years-shim-hyung-rae-says-d-war-2-production-complete-game-also-coming",
+    "https://www.invenglobal.com/articles/24907/lineage-m-week-3-of-august-limited-and-weekend-crafting-info"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16729,7 +16738,12 @@
     "b4b9d21702a4369260eb13dafd17ee1c",
     "f67537d50f5e1569349b7888de9ec186",
     "59d7f5dc8ae25ee216e43c2ec5a42da8",
-    "a17520a3c13375233d6d342965f2c887"
+    "a17520a3c13375233d6d342965f2c887",
+    "7a00e71a86a50ce77e753ac2eed6c9b4",
+    "3257e4541c68fca30181d5aa635d82c4",
+    "0de94e8e7886c6f8a6ebca9f72afdb1e",
+    "e5fa34449be0238d586fd32068056e1d",
+    "0c3969e8b6f5e0097ac75ec928eea4ad"
   ],
   "transfers": {
     "pages": {
@@ -20924,29 +20938,6 @@
   "sent_stories": [
     {
       "words": [
-        "assemble",
-        "harada",
-        "ikeda",
-        "joins",
-        "katsuhiro",
-        "kohei",
-        "studio"
-      ],
-      "at": "2026-08-18T10:21:22.576474+00:00",
-      "message_id": "1539217650704719955",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)",
-        "GamesIndustry.biz"
-      ],
-      "title": "Assemble? Kohei Ikeda Joins Katsuhiro Harada's VS Studio",
-      "link": "https://www.invenglobal.com/articles/24869/assemble-kohei-ikeda-joins-katsuhiro-haradas-vs-studio",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©Kohei Ikeda(Nakatsu)@nkt_dreamerKohei Ikeda, who left Bandai Namco Entertainment on June 1, announced via social media today (the 18th) that he has joined VS Studio, founded ......"
-    },
-    {
-      "words": [
         "000",
         "coinpoker",
         "daily",
@@ -23306,6 +23297,81 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Demon1-at-VALORANT-Champions-2023.jpg",
       "base_description": "Every year, a handful of players walk into the VALORANT Champions Tour (VCT) with almost no track record and immediately look like they belong. Some get pulled straight out of ranked lobbies, some grind through years of regional Challengers before their break finally comes, and a"
+    },
+    {
+      "words": [
+        "also",
+        "coming",
+        "complete",
+        "hyung",
+        "netflix",
+        "production",
+        "rae",
+        "says",
+        "shim",
+        "surges",
+        "war",
+        "years"
+      ],
+      "at": "2026-08-19T10:24:16.358202+00:00",
+      "message_id": "1539580766579859499",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'D-War' Surges on Netflix After 19 Years... Shim Hyung-rae Says \"D-War 2 Production Complete, Game Also Coming\"",
+      "link": "https://www.invenglobal.com/articles/24908/d-war-surges-on-netflix-after-19-years-shim-hyung-rae-says-d-war-2-production-complete-game-also-coming",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©Younggu TVAs director Shim Hyung-rae's 'D-War'—released on Netflix on August 7—is making an unexpected surge 19 years after its original theatrical release, Director Shim has draw......"
+    },
+    {
+      "words": [
+        "countdown",
+        "gta",
+        "leaker",
+        "leaks",
+        "next",
+        "reveals"
+      ],
+      "at": "2026-08-19T10:24:16.358202+00:00",
+      "message_id": "1539580780966060034",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "GTA 6 Leaker Reveals Countdown To Next Leaks",
+      "link": "https://insider-gaming.com/gta-6-leaker-reveals-countdown-to-next-leaks/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "If you thought the recent GTA 6 leaks were shocking, we apparently haven't seen anything yet, with more content set to be revealed. The post GTA 6 Leaker Reveals Countdown To Next Leaks appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "arknights",
+        "cool",
+        "developer",
+        "fall",
+        "flat",
+        "funding",
+        "human",
+        "hypergraph",
+        "launch",
+        "pretty",
+        "studio",
+        "veterans"
+      ],
+      "at": "2026-08-19T10:24:16.358202+00:00",
+      "message_id": "1539580795054719078",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "Human: Fall Flat veterans launch new UK studio Pretty Cool Games with funding from Arknights developer Hypergraph",
+      "link": "https://www.gamesindustry.biz/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games-with-funding-from-arknights-developer-hypergraph",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/Pretty-Cool---Red.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "Pretty Cool Games has been co-founded by Human: Fall Flat veterans Sitara Shefta (CEO) and Will Dudley (CCO) with the aim of building a sustainable studio that's fair to its employees and rewards them for their success. Read more"
     }
   ]
 }
