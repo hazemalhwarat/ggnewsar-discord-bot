@@ -8451,7 +8451,14 @@
     "https://www.gamesindustry.biz/report-live-service-removed-from-horizon-hunters-gathering-following-negative-player-feedback",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT05GMV9saW1LLUNzNXYtaU5XNjVVc2NOM1p1N3plS0paeEk5RFY4US1EQ1lvT0dJMm1vN21sVGJBRXpYOHpEekJvV2RNR1pibmt5NzQ5UHpBM0R5NlhIbG1pZlJVemtKb3g2ZVdSdjl2RkVDY2c3eHh3MUJMbXhCbzBFZHJDZkdHUnoyUXlTbWNwQWNSN251RGkzLUh5VUlidzNaTkhmdUdzeElma3Y1R0NIb05LMGduTEViZUYydnU?oc=5",
     "https://europeangaming.eu/portal/latest-news/2026/08/19/212929/ukgc-fine-holland-park-leisure-self-exclusion/",
-    "https://www.invenglobal.com/articles/24913/speed-and-weight-bob-returns-in-tekken-8"
+    "https://www.invenglobal.com/articles/24913/speed-and-weight-bob-returns-in-tekken-8",
+    "https://insider-gaming.com/marvels-wolverine-director-says-online-backlash-is-a-good-problem-to-have/",
+    "https://insider-gaming.com/zywoo-apex-team-vitality-extension-2028/",
+    "https://insider-gaming.com/latest-gta-6-leak-could-be-from-2025-or-later/",
+    "https://www.global-esports.news/call-of-duty/modern-warfare-4-beta-activision-releases-pc-guide-for-strict-anti-cheat-rules/",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tMDNOX2lWdDdqVnRHMi1IeUEyU2Z3a2RZWnF1Y2NDSjFiMGdCdkQ3TlZHMGFjeG9TaXlrV09DSEczZF9BZUptbkJCeWZBRWM?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIU2pBM3UxdmVKT21MUjVFWHI1SGpLSk1DT3R5VVVod0FyeUQ2T3FIX2dlU2tjV05UX25FejBwWVZSZDE4UXZMaDhHNDR6V0pTUmh3?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXJWT2tkZ3FvNTdFQUFUUTJxcTNNQ25TWHN1NVQ4Z3JkOVgwZ28temxkbjFyVmpDWjYtN25WYzhuRTBWbEU5bzBCRGRGWWdJS3hOT2VoU0lTdVNhT1lNZ3hXNDhtM1l1QVZWVjhMam5KN1NzR2tVbXpJamhfYlh4SU1mcjhGQ0tlV2s5V1BOZ0ZTb1RqRDVHdmZpQ0FnWWJrUFZYVlJFWU9QNVNHbnMzOVg1dGRybnNSLXdF?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -16832,7 +16839,12 @@
     "2a341c17bdbc885cd8bf235ad14fe4bf",
     "6eafac68cdbcf972024f9a1127105fc7",
     "9986458f3360b2f54cfb220cc4206e01",
-    "9abc465b4338508bc7458d42ff638ae0"
+    "9abc465b4338508bc7458d42ff638ae0",
+    "20c7bf12ee9636c3d8ef9da2ce720e50",
+    "4b4b0f8ed117a9a37609bcaa57d270ae",
+    "90e8e2c774c58ecf52df5efa03a5a708",
+    "ea94c9b1cf54c0d19a9545e4d08dedc5",
+    "f00ea829509d35ac47e6e8fe2e69cabc"
   ],
   "transfers": {
     "pages": {
@@ -21027,87 +21039,6 @@
   "sent_stories": [
     {
       "words": [
-        "awards",
-        "dev",
-        "gamescom"
-      ],
-      "at": "2026-08-18T14:52:13.883832+00:00",
-      "message_id": "1539285812938547284",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Gamescom Dev Awards: Korean Indie 'NAMMO' Vies for Two Titles",
-      "link": "https://www.invenglobal.com/articles/24872/gamescom-dev-awards-korean-indie-nammo-vies-for-two-titles",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Guild Studio's 2D Soulslike 'NAMMO' has secured two of the 12 nomination spots in the indie category for the Gamescom Dev Awards.©Guild StudioThe Gamescom Dev secretariat anno......"
-    },
-    {
-      "words": [
-        "fallout",
-        "food",
-        "mcdonald",
-        "offer",
-        "preparing",
-        "themed"
-      ],
-      "at": "2026-08-18T14:52:13.883832+00:00",
-      "message_id": "1539285829099192411",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "McDonald’s is Preparing To Offer Fallout-Themed Food",
-      "link": "https://insider-gaming.com/mcdonalds-offering-fallout-themed-food-promo-side-missions/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "McDonald's is partnering with XBOX to celebrate a huge anniversary, and by doing that, it will offer Fallout themed items, and other stuff. The post McDonald’s is Preparing To Offer Fallout-Themed Food appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "map",
-        "pool",
-        "valorant"
-      ],
-      "at": "2026-08-18T14:52:13.883832+00:00",
-      "message_id": "1539285849546563626",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn",
-        "Dot Esports"
-      ],
-      "title": "VALORANT Map Pool – The 7 maps in rotation right now",
-      "link": "https://www.hotspawn.com/valorant/news/valorant-map-pool",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2025/06/Best-Agents-on-Split.jpg",
-      "base_description": "Riot keeps gameplay and the competitive scene fresh by regularly shuffling the VALORANT map pool, introducing new challenges and bringing back familiar terrain. The rotation always features seven maps, which appear in Unrated, Competitive, and professional matches. Here’s a full "
-    },
-    {
-      "words": [
-        "2026",
-        "country",
-        "gamescom",
-        "increases",
-        "number",
-        "pavilions",
-        "record",
-        "sets"
-      ],
-      "at": "2026-08-18T14:52:13.883832+00:00",
-      "message_id": "1539285864943845468",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "title": "Gamescom 2026 sets new record as number of country pavilions increases by 25%",
-      "link": "https://www.gamesindustry.biz/gamescom-2026-sets-new-record-as-number-of-country-pavilions-increases-by-25",
-      "color": 8141549,
-      "image_url": "https://assetsio.gnwcdn.com/gamescom_25_032_024-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-      "base_description": "With Gamescom 2026 less than a week away, the event will host nearly 50 pavilions from 40 countries, up 25% and 14% over 2025, respectively. Read more"
-    },
-    {
-      "words": [
         "fortnite",
         "has",
         "hearts",
@@ -23491,7 +23422,8 @@
       "message_id": "1539636754137481339",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "HLTV"
+        "HLTV",
+        "Insider Gaming"
       ],
       "title": "ZywOo and apEX talk Vitality contract extensions, legacy, and the season ahead",
       "link": "https://www.hltv.org/news/45267/zywoo-and-apex-talk-vitality-contract-extensions-legacy-and-the-season-ahead",
@@ -23636,6 +23568,76 @@
       "color": 8141549,
       "image_url": "https://media.europeangaming.eu/uploads/2026/08/UKGC-fines-Holland-Park-Leisure-150k-for-self-exclusion-breach.jpg",
       "base_description": "Commission officials had already flagged the non-compliance, and the operator gave misleading information before its licence was suspended… The post UKGC fines Holland Park Leisure £150k for self-exclusion breach appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "backlash",
+        "director",
+        "good",
+        "have",
+        "marvel",
+        "online",
+        "problem",
+        "says",
+        "wolverine"
+      ],
+      "at": "2026-08-19T14:53:04.740267+00:00",
+      "message_id": "1539648414147416075",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Marvel’s Wolverine Director Says Online Backlash is a ‘Good Problem to Have’",
+      "link": "https://insider-gaming.com/marvels-wolverine-director-says-online-backlash-is-a-good-problem-to-have/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Marvel's Wolverine director has stated that he is pretty used to the online backlash and that it comes with the territory. The post Marvel’s Wolverine Director Says Online Backlash is a ‘Good Problem to Have’ appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "2025",
+        "could",
+        "gta",
+        "later",
+        "latest",
+        "leak"
+      ],
+      "at": "2026-08-19T14:53:04.740267+00:00",
+      "message_id": "1539648434238267524",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Latest GTA 6 Leak Could Be From 2025 Or Later",
+      "link": "https://insider-gaming.com/latest-gta-6-leak-could-be-from-2025-or-later/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Another Grand Theft Auto 6 leak has been shared online by CYBERLEEK, and it gives us a closer look at driving and melee combat. The post Latest GTA 6 Leak Could Be From 2025 Or Later appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "activision",
+        "anti",
+        "beta",
+        "cheat",
+        "guide",
+        "modern",
+        "releases",
+        "rules",
+        "strict",
+        "warfare"
+      ],
+      "at": "2026-08-19T14:53:04.740267+00:00",
+      "message_id": "1539648449081770016",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Global Esports News CoD"
+      ],
+      "title": "Modern Warfare 4 Beta: Activision Releases PC Guide for Strict Anti-Cheat Rules",
+      "link": "https://www.global-esports.news/call-of-duty/modern-warfare-4-beta-activision-releases-pc-guide-for-strict-anti-cheat-rules/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "To play the new shooter on a PC, TPM 2.0 and Secure Boot are required. An official tool is available to help with setup. Shortly beforethe first beta weekend for Call of Duty: Modern Warfare 4, Activision’s Ricochet anti-cheat team has spoken out. The developers havepublished a d"
     }
   ]
 }
