@@ -8685,7 +8685,15 @@
     "https://www.nerfplz.com/2026/10/lol-dragons-explained-10-things-pit.html",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVW12QTUxc3ZQa3YyYVFmZm5RWkZnRUd4ZUVKRzJTcUlpUVlLNzhXalY3Z0tGTFZPc3NoU3EwXzc5TjBFSnJmdkZKSGZ3NE1XZm50ejNpanAzQ3VxSkc2RWVPOXVLNFhUSWRLLUVzOXA5Wk9zRl84T3pwZHBjZHFUbHFrYmFLRFBHTDI3c0VDTGJ0RXFNa3NIdllhS2xYMHE1?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU0pnZkhuX3Y4RDY4LUllcVQyVGVHR3JGUlRqaEU1b2pzaDhfTU9zOFptc1IyTTlEc0x5T2xST1FFZWgtQmMyTUt1SHN1b1k3bzEzQ2pSNF94S29xa1dKdUc3aWxLVURvRnJJc0thTFh0b3Fic1lhQ3JFWERMS1pOcDdkckNicWxTbjJKS0x2dmpycTZrR3NJTU9QQVFSUk9ENFE?oc=5",
-    "https://www.invenglobal.com/articles/24965/gta-6-leakers-claim-gamers-rights-stop-killing-games-opposes-support"
+    "https://www.invenglobal.com/articles/24965/gta-6-leakers-claim-gamers-rights-stop-killing-games-opposes-support",
+    "https://insider-gaming.com/esports-world-cup-cs2-round-of-16-roundup/",
+    "https://insider-gaming.com/crimson-desert-changes-might-point-to-first-dlc/",
+    "https://insider-gaming.com/sonys-new-ai-patent-lets-you-buy-other-peoples-playing-habits/",
+    "https://www.hotspawn.com/league-of-legends/news/bin-returns-blg-wins-lgd",
+    "https://stealthoptional.com/article/fc-27-la-liga-liga-f-ratings-revealed-mbapp-yamal-and-top-players-confirmed",
+    "https://stealthoptional.com/article/fc-26-rewind-promo-leaks-release-date-leaked-player-list-overview",
+    "https://stealthoptional.com/article/nba-2k27-myplayer-builder-revealed-female-myplayers-badge-tokens-synergy",
+    "https://www.invenglobal.com/articles/24966/io-interactives-007-first-light-surpasses-4-million-copies-sold"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17287,7 +17295,12 @@
     "1095669c80c083f192787c8b671049ed",
     "673d257d21fd35533093a5df584412fc",
     "66b0a681fca41618ce3ab3bd8d6614a2",
-    "b871fcf884f7cfc2aaccfa9d99d4edd9"
+    "b871fcf884f7cfc2aaccfa9d99d4edd9",
+    "b913ddcce91ad8e4b75e4245dd9d436c",
+    "b7298953e7431174520e8aea8d264e09",
+    "15623903cf2d67e916b5e8ff58f75cb4",
+    "d340ea02f0c849d2793358a4256c055c",
+    "6d621a5172c54e31dd74574afeb506c9"
   ],
   "transfers": {
     "pages": {
@@ -19166,7 +19179,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-20T11:28:48.923961+00:00",
+  "last_health_alert": "2026-08-20T17:33:41.622557+00:00",
   "recent_titles": [
     {
       "words": [
@@ -21480,98 +21493,6 @@
     }
   ],
   "sent_stories": [
-    {
-      "words": [
-        "house",
-        "labs",
-        "launches",
-        "nexus",
-        "portal",
-        "solutions"
-      ],
-      "at": "2026-08-19T17:21:34.725444+00:00",
-      "message_id": "1539685785542852639",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "NEXUS launches AI Labs portal with 11 in-house AI solutions",
-      "link": "https://www.invenglobal.com/articles/24914/nexus-launches-ai-labs-portal-with-11-in-house-ai-solutions",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "NEXUS has launched its NEXUS AI Labs portal, bringing together 11 artificial intelligence solutions that the company said were developed using its autonomous AI development platform. According to a re..."
-    },
-    {
-      "words": [
-        "astralis",
-        "defeat",
-        "ewc",
-        "finals",
-        "quarter",
-        "reach"
-      ],
-      "at": "2026-08-19T17:21:34.725444+00:00",
-      "message_id": "1539685801082884128",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "G2 defeat Astralis to reach EWC quarter-finals",
-      "link": "https://www.hltv.org/news/45339/g2-defeat-astralis-to-reach-ewc-quarter-finals",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/glV_Ejf8ynuFRJYvpcwBIf.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=505e63dce5f5c0f3c244eb4e6acfea96",
-      "base_description": "huNter- crushed Astralis' key after eliminating them from the tournament."
-    },
-    {
-      "words": [
-        "coinpoker",
-        "day",
-        "high",
-        "live",
-        "named",
-        "poker",
-        "pokergo",
-        "presenting",
-        "run",
-        "seven",
-        "sponsor",
-        "stakes"
-      ],
-      "at": "2026-08-19T17:21:34.725444+00:00",
-      "message_id": "1539685816459337729",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports News UK"
-      ],
-      "title": "CoinPoker named presenting sponsor of seven-day PokerGO High Stakes Poker live run",
-      "link": "https://esports-news.co.uk/2026/08/19/coinpoker-presenting-sponsor-high-stakes-poker-live-week/",
-      "color": 8141549,
-      "image_url": "https://esports-news.co.uk/wp-content/uploads/2026/08/cp1-300x200.jpg",
-      "base_description": "CoinPoker has been named the presenting sponsor of a seven-day run of High Stakes Poker livestreams set to air on PokerGO from August 25-31. The broadcasts will take place at the PokerGO Studio in Las Vegas, with PokerGO planning seven consecutive days of live high-stakes cash ga"
-    },
-    {
-      "words": [
-        "beta",
-        "call",
-        "doesn",
-        "duty",
-        "hub",
-        "modern",
-        "need",
-        "warfare"
-      ],
-      "at": "2026-08-19T17:21:34.725444+00:00",
-      "message_id": "1539685831479009312",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Modern Warfare 4 Beta Doesn’t Need Call of Duty HQ Hub",
-      "link": "https://insider-gaming.com/modern-warfare-4-beta-doesnt-need-call-of-duty-hq-hub/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "If you're tired of the Call of Duty HQ being used to house and launch all CoD titles, then you should know the MW4 beta isn't doing this. The post Modern Warfare 4 Beta Doesn’t Need Call of Duty HQ Hub appeared first on Insider Gaming ."
-    },
     {
       "words": [
         "ewc",
@@ -24633,6 +24554,122 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "©Rockstar Games, NetflixStop Killing Games, a consumer advocacy movement for gamers' rights, has drawn attention by urging gamers not to support the hackers behind the recent high-......"
+    },
+    {
+      "words": [
+        "007",
+        "copies",
+        "first",
+        "interactive",
+        "light",
+        "million",
+        "sold",
+        "surpasses"
+      ],
+      "at": "2026-08-20T17:33:21.857786+00:00",
+      "message_id": "1540051139259539637",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "IO Interactive's '007 First Light' Surpasses 4 Million Copies Sold",
+      "link": "https://www.invenglobal.com/articles/24966/io-interactives-007-first-light-surpasses-4-million-copies-sold",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "© IO InteractiveIO Interactive's new spy action game, '007 First Light', has surpassed 4 million copies in total global sales.On August 20, IO Interactive announced via its officia......"
+    },
+    {
+      "words": [
+        "concludes",
+        "cs2",
+        "donk",
+        "ewc",
+        "falcons",
+        "round",
+        "shine",
+        "vitality"
+      ],
+      "at": "2026-08-20T17:33:21.857786+00:00",
+      "message_id": "1540051156842192960",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Vitality, Falcons, and donk Shine as EWC CS2 Round of 16 Concludes",
+      "link": "https://insider-gaming.com/esports-world-cup-cs2-round-of-16-roundup/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The EWC CS2 tournament has moved to its quarter-finals after the Round of 16 saw some teams impress and others severely falter. The post Vitality, Falcons, and donk Shine as EWC CS2 Round of 16 Concludes appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "changes",
+        "crimson",
+        "desert",
+        "dlc",
+        "first",
+        "might",
+        "point"
+      ],
+      "at": "2026-08-20T17:33:21.857786+00:00",
+      "message_id": "1540051171455017042",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Crimson Desert Changes Might Point to First DLC",
+      "link": "https://insider-gaming.com/crimson-desert-changes-might-point-to-first-dlc/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "A Crimson Desert player has spotted several changes to the map which could be related to the upcoming DLC. The post Crimson Desert Changes Might Point to First DLC appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "buy",
+        "habits",
+        "lets",
+        "other",
+        "patent",
+        "people",
+        "playing",
+        "sony",
+        "you"
+      ],
+      "at": "2026-08-20T17:33:21.857786+00:00",
+      "message_id": "1540051188555321376",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Sony’s New AI Patent Lets You ‘Buy’ Other People’s Playing Habits",
+      "link": "https://insider-gaming.com/sonys-new-ai-patent-lets-you-buy-other-peoples-playing-habits/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "A new Sony AI patent has surfaced online that describes players being able to purchase other people's playing habits. The post Sony’s New AI Patent Lets You ‘Buy’ Other People’s Playing Habits appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "bin",
+        "blg",
+        "but",
+        "clear",
+        "his",
+        "messy",
+        "remains",
+        "return",
+        "value"
+      ],
+      "at": "2026-08-20T17:33:21.857786+00:00",
+      "message_id": "1540051204686487785",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "Bin’s BLG Return Was Messy, but His Value Remains Clear",
+      "link": "https://www.hotspawn.com/league-of-legends/news/bin-returns-blg-wins-lgd",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/blg-bin-returns-1058x633.webp",
+      "base_description": "Chen “Bin” Ze-Bin’s first series back with Bilibili Gaming wasn’t easy, as they had to make a comeback against the rising LGD Gaming. Following a rough start in Game 1, the team was able to pick up a win, the first one since the end of the Esports World Cup. While the result was "
     }
   ]
 }
