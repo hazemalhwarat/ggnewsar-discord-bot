@@ -8727,7 +8727,10 @@
     "https://insider-gaming.com/survival-rpg-scavland-early-access-september/",
     "https://mp1st.com/title-updates-and-patches/black-ops-7-warzone-season-5-reloaded-update-1-105-fires-out-on-aug-20",
     "https://gameriv.com/fortnite-ahri-collab-leaked-with-new-league-of-legends-mythic-cyberpunk-weapons-and-midas-pistol/",
-    "https://gameriv.com/god-of-war-tv-show-officially-casts-dave-bautista-as-new-kratos/"
+    "https://gameriv.com/god-of-war-tv-show-officially-casts-dave-bautista-as-new-kratos/",
+    "https://insider-gaming.com/dave-bautista-cast-kratos-god-of-war/",
+    "https://www.hotspawn.com/fortnite/news/is-fnaf-coming-to-fortnite",
+    "https://www.invenglobal.com/articles/24967/riot-to-end-active-development-of-2xko-in-december"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17368,7 +17371,10 @@
     "e9fce65c9844976d469732cf37eee3f1",
     "9f1f500144c39dee9e4017e0b2cc4e8b",
     "64c06f33c4a6e88f29f03e92730159ea",
-    "b472e9f89f377cf3493f153116077ae1"
+    "b472e9f89f377cf3493f153116077ae1",
+    "2c25c494d49274eb477ae847acd21cc6",
+    "80ac63543014ce1016eb3ae09d5d72cc",
+    "7106da4365d0fec233480ebfaf057e12"
   ],
   "transfers": {
     "pages": {
@@ -21563,52 +21569,6 @@
   "sent_stories": [
     {
       "words": [
-        "cyberleek",
-        "gameplay",
-        "gta",
-        "leaker",
-        "making",
-        "money",
-        "now",
-        "videos"
-      ],
-      "at": "2026-08-19T23:17:45.385896+00:00",
-      "message_id": "1539775420201697311",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "GTA 6 Leaker CYBERLEEK Is Now Making Money From Gameplay Videos",
-      "link": "https://insider-gaming.com/gta-6-cyberleek-monetizes-gameplay-leaks/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "CYBERLEEK is using a paid poll to choose their next GTA 6 leak. The post GTA 6 Leaker CYBERLEEK Is Now Making Money From Gameplay Videos appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "amalgamation",
-        "brawl",
-        "codes",
-        "deck",
-        "decks",
-        "great",
-        "hearthstone",
-        "tavern"
-      ],
-      "at": "2026-08-19T23:17:45.385896+00:00",
-      "message_id": "1539775434768523315",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "Hearthstone Tavern Brawl: The Great Amalgamation decks and deck codes",
-      "link": "https://esports.gg/news/hearthstone/hearthstone-tavern-brawl-the-great-amalgamation-decks/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Here's how to win in The Great Amalgamation, which is this week's Hearthstone Tavern Brawl."
-    },
-    {
-      "words": [
         "august",
         "console",
         "edition",
@@ -24325,7 +24285,8 @@
       "message_id": "1540072607603237055",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Hotspawn"
       ],
       "title": "Ahri Joining Fortnite is Another Hint That K/DA Might Be Back",
       "link": "https://insider-gaming.com/ahri-joining-fortnite-is-another-hint-that-k-da-might-be-back/",
@@ -24530,7 +24491,8 @@
       "sources": [
         "Dot Esports",
         "Insider Gaming",
-        "GameRiv"
+        "GameRiv",
+        "Inven Global (English)"
       ],
       "title": "Riot is ending active development on 2XKO less than a year after console launch",
       "link": "https://dotesports.com/2xko/news/2xko-riot-ends-development-december-2026",
@@ -24734,7 +24696,8 @@
       "message_id": "1540131830286516325",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "GameRiv"
+        "GameRiv",
+        "Insider Gaming"
       ],
       "title": "God of War TV Show Officially Casts Dave Bautista as New Kratos",
       "link": "https://gameriv.com/god-of-war-tv-show-officially-casts-dave-bautista-as-new-kratos/",
