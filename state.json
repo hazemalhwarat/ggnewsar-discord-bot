@@ -8730,7 +8730,8 @@
     "https://gameriv.com/god-of-war-tv-show-officially-casts-dave-bautista-as-new-kratos/",
     "https://insider-gaming.com/dave-bautista-cast-kratos-god-of-war/",
     "https://www.hotspawn.com/fortnite/news/is-fnaf-coming-to-fortnite",
-    "https://www.invenglobal.com/articles/24967/riot-to-end-active-development-of-2xko-in-december"
+    "https://www.invenglobal.com/articles/24967/riot-to-end-active-development-of-2xko-in-december",
+    "https://dotesports.com/gow/news/dave-bautista-cast-as-kratos-in-god-of-war"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17374,7 +17375,8 @@
     "b472e9f89f377cf3493f153116077ae1",
     "2c25c494d49274eb477ae847acd21cc6",
     "80ac63543014ce1016eb3ae09d5d72cc",
-    "7106da4365d0fec233480ebfaf057e12"
+    "7106da4365d0fec233480ebfaf057e12",
+    "9393f70711ee32642e10a81afa147076"
   ],
   "transfers": {
     "pages": {
@@ -19253,7 +19255,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-20T17:33:41.622557+00:00",
+  "last_health_alert": "2026-08-20T23:49:46.353723+00:00",
   "recent_titles": [
     {
       "words": [
@@ -21567,30 +21569,6 @@
     }
   ],
   "sent_stories": [
-    {
-      "words": [
-        "august",
-        "console",
-        "edition",
-        "increases",
-        "limits",
-        "mod",
-        "skyrim",
-        "special",
-        "storage"
-      ],
-      "at": "2026-08-19T23:46:02.173319+00:00",
-      "message_id": "1539782537306579057",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GameRiv"
-      ],
-      "title": "Skyrim Special Edition August 20 Update Increases Console Mod Storage Limits",
-      "link": "https://gameriv.com/skyrim-special-edition-august-20-update-increases-console-mod-storage-limits/",
-      "color": 8141549,
-      "image_url": "https://gameriv.com/wp-content/uploads/2026/07/creation-engine.jpg",
-      "base_description": "Bethesda Game Studios is rolling out a new update for The Elder Scrolls V: Skyrim Special Edition on Thursday, August 20, with console modders getting one of the most notable improvements. The upcoming patch will increase console mod storage limits while also introducing addition"
-    },
     {
       "words": [
         "breeze",
@@ -24697,7 +24675,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "GameRiv",
-        "Insider Gaming"
+        "Insider Gaming",
+        "Dot Esports"
       ],
       "title": "God of War TV Show Officially Casts Dave Bautista as New Kratos",
       "link": "https://gameriv.com/god-of-war-tv-show-officially-casts-dave-bautista-as-new-kratos/",
