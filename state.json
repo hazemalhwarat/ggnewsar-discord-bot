@@ -8714,7 +8714,10 @@
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSURabDg4WENvSklITWxvYzF2U2xQbmFWZ2NOTlpYdDc3VjVXSjRKRUh0NWUzbVdCX2g0ZWJETGRHREZmZEdMdTlDeHNqc2RKYTNleTFybkxMVUwzYUhxbzM5VVBWY3E2Z2tXTDVyRHFqRThuZlo3ZlROcWNoX1lQT0FfdnBxMjhOWDZldUZDaXVxNjNBSzdYaEJobWJYZmZwVXlEWVU3cVFRZDJo0gGsAUFVX3lxTE5JRFpsODhYQ29KSUhNbG9jMXZTbFBuYVZnY05OWlh0NzdWNVdKNEpFSHQ1ZTNtV0JfaDRlYkRMZEdERmZkR0x1OUN4c2pzZEphM2V5MXJuTExVTDNhSHFvMzlVUFZjcTZna1dMNXJEcWpFOG5mWjdmVE5xY2hfWVBPQV92cHEyOE5YNmV1RkNpdXE2M0FLN1hoQmhtYlhmZnBVeURZVTdxUVFkMmg?oc=5",
     "https://insider-gaming.com/007-first-light-surpasses-4-million-copies-sold/",
     "https://insider-gaming.com/emea-masters-summer-seeding-and-invites-for-past-winners/",
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zZlNnbVlGQUw1ai14WlJPQ3hjZ2Jfc0V1ZW4xaFFlLVFzLWVjekJUaVVPTFpaRTZuOE1LN1d5WkY1cXdqaFp2N3pIdlZOa1lmeWxqSHpzSkZqblVJTlpYdQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zZlNnbVlGQUw1ai14WlJPQ3hjZ2Jfc0V1ZW4xaFFlLVFzLWVjekJUaVVPTFpaRTZuOE1LN1d5WkY1cXdqaFp2N3pIdlZOa1lmeWxqSHpzSkZqblVJTlpYdQ?oc=5",
+    "https://www.hltv.org/news/45351/art-we-know-the-level-of-cs-and-the-potential-we-have",
+    "https://dotesports.com/call-of-duty/news/warzone-zodiac-resurgence-map-first-look",
+    "https://insider-gaming.com/lux-and-samira-are-coming-to-2xko-before-development-ends/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17342,7 +17345,10 @@
     "0ac17b3684e17776c7117d84ae84910e",
     "84ac0a3dab60c521a5409230674b319f",
     "28c5bd4880a61f6b7197149523023d10",
-    "088aa7519732425f3aa5135127fa97ec"
+    "088aa7519732425f3aa5135127fa97ec",
+    "97de3fc4d3a2990af5d8e85edb93a0cd",
+    "947e3ade61a09a7b28eaae279116d3ab",
+    "08c9258bcf7050d6f744d841de4619c3"
   ],
   "transfers": {
     "pages": {
@@ -21537,98 +21543,6 @@
   "sent_stories": [
     {
       "words": [
-        "energy",
-        "fut",
-        "keeping",
-        "krabeni",
-        "launx",
-        "losing",
-        "scream",
-        "sometimes",
-        "try"
-      ],
-      "at": "2026-08-19T20:25:30.834981+00:00",
-      "message_id": "1539732081226027109",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "“I’ll try to scream sometimes” – Krabeni on Keeping Up FUT’s Energy After Losing lauNX",
-      "link": "https://insider-gaming.com/fut-krabeni-interview-esports-world-cup-2026/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Insider Gaming spoke to FUT IGL Krabeni after their EWC 2026 victory over magic in the Round of 16 of the Counter-Strike tournament. The post “I’ll try to scream sometimes” – Krabeni on Keeping Up FUT’s Energy After Losing lauNX appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "battle",
-        "down",
-        "hearthstone",
-        "more",
-        "net",
-        "overwatch",
-        "server",
-        "status",
-        "wow"
-      ],
-      "at": "2026-08-19T20:25:30.834981+00:00",
-      "message_id": "1539732096048693289",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "Is Battle.net down? Server status for Overwatch, WoW, Hearthstone, and more",
-      "link": "https://esports.gg/news/gaming/battle-net-server-status-is-battle-net-down/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Here is what's happening with Battle.net logins."
-    },
-    {
-      "words": [
-        "45m",
-        "debt",
-        "default",
-        "ebitda",
-        "enthusiast",
-        "filings",
-        "gaming",
-        "growth",
-        "show"
-      ],
-      "at": "2026-08-19T20:53:46.210317+00:00",
-      "message_id": "1539739184565321739",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Advocate"
-      ],
-      "title": "Enthusiast Gaming Reports EBITDA Growth as Filings Show C$45M Debt in Default",
-      "link": "https://esportsadvocate.net/2026/08/enthusiast-gaming-debt-default-going-concern/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Enthusiast Gaming reported a fourth consecutive quarter of positive adjusted EBITDA on Aug. 12, the same day it filed interim financial statements disclosing that all C$45 million CAD ($32.4 million USD) of its debt sits in default and that its cash cannot fund operations for the"
-    },
-    {
-      "words": [
-        "beyond",
-        "ewc",
-        "pickem",
-        "play",
-        "spectating"
-      ],
-      "at": "2026-08-19T20:53:46.210317+00:00",
-      "message_id": "1539739198733553698",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports World Cup (official, via Google News)"
-      ],
-      "title": "EWC Play Pickem Go Beyond Spectating - Esports World Cup",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GWWlCTTdrWDZvTXlwajEzMjZuSkdYZEVQRXdNUGRwdlpZanl4ZFJoQVVnZXBBREE3Mm56aTNXUlhMYjBuMVNqT0UyVXBTYUYzdV9qUUNKTWtnaVYtbi15aA?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "EWC Play Pickem Go Beyond Spectating Esports World Cup"
-    },
-    {
-      "words": [
         "gold",
         "gugli",
         "rebellion",
@@ -24738,6 +24652,71 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Riot Games has confirmed the ERL slot distribution for EMEA Masters Summer 2026 including the first-ever invites for previous winners The post EMEA Masters Summer Slots and Invites Confirmed appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "art",
+        "have",
+        "know",
+        "level",
+        "potential"
+      ],
+      "at": "2026-08-20T20:55:47.058175+00:00",
+      "message_id": "1540102079710765167",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "arT: \"We know the [level of] CS and the potential we have\"",
+      "link": "https://www.hltv.org/news/45351/art-we-know-the-level-of-cs-and-the-potential-we-have",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/Smj0v_cksS5XaEsIly-7Fo.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=5ddbfa6e8bd859b0103a058901b88372",
+      "base_description": "\"Our job is just to do what we know how to do and always strive for better results,\" Legacy's captain said after the 2-0 thrashing of NAVI."
+    },
+    {
+      "words": [
+        "call",
+        "duty",
+        "first",
+        "look",
+        "map",
+        "resurgence",
+        "reveals",
+        "warzone",
+        "zodiac"
+      ],
+      "at": "2026-08-20T20:55:47.058175+00:00",
+      "message_id": "1540102094558859275",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "Call of Duty reveals first look at Warzone’s new Zodiac Resurgence map",
+      "link": "https://dotesports.com/call-of-duty/news/warzone-zodiac-resurgence-map-first-look",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/Warzone-Zodiac-Resurgence-map-reveal.webp",
+      "base_description": "Grab a first look at Warzone's new Resurgence map."
+    },
+    {
+      "words": [
+        "2xko",
+        "coming",
+        "development",
+        "ends",
+        "lux",
+        "samira"
+      ],
+      "at": "2026-08-20T20:55:47.058175+00:00",
+      "message_id": "1540102108890669161",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Lux and Samira Are Coming to 2XKO Before Development Ends",
+      "link": "https://insider-gaming.com/lux-and-samira-are-coming-to-2xko-before-development-ends/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Lux and Samira will be the last-ever champions added to 2XKO as Riot will end development of the game in December of this year. The post Lux and Samira Are Coming to 2XKO Before Development Ends appeared first on Insider Gaming ."
     }
   ]
 }
