@@ -8612,7 +8612,13 @@
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkxuV25IM0RDVDVrYTdGNUZhNkhiZHZCRTE2RVhMVnJPU1lsZnFpX2pETTVHdE43RmFSNTZwbU5DaUhOUEpibEtfanJ2bmt5Qjk5UUVsSk1YM2VjOWtmWkdBZU5QUW9EcVFhckFrX2tzYU5qTjBpSDJ4d0ZKdnRxcE04bWFOakVZU240VjgySTdXQmFl?oc=5",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jc1dORF9hdW5ZdjRiY0VlUF9Cczh3Mzh6eWw3djA2YnFVTl96T0hhS1NiVkNNTVFFM2JTS3ZzMUQ5WlZWWWVBQ05yMTlmT2dTT0FzSnRnTU9pbzFQTlEyOFBSdXFiSmZpQUtVMUx0RWxHMy1E?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQi1PVTc3WXdpOE14MjJPM3diN0FLQ1k5SjhFV1dVX2s5aGM0ZHRySDc2bEVGRV91QWw2NjZTUVR3bm9Lck1oWERfZjJxMHkwLWhrOXVpUG9IajZLcDBUYmFQNGxLMVVKd0hackU5Mmk0OXYxYkpua1YyeS1ESWl6YkdESnhnVm5seWVqajI4cElIamtIUjRMZ1QyU0FDQk9u?oc=5",
-    "https://www.invenglobal.com/articles/24958/dk-head-coach-kim-dae-ho-lost-0-2-but-it-was-a-good-match"
+    "https://www.invenglobal.com/articles/24958/dk-head-coach-kim-dae-ho-lost-0-2-but-it-was-a-good-match",
+    "https://insider-gaming.com/call-of-duty-modern-warfare-4-beta-matchmaking-will-use-new-system/",
+    "https://insider-gaming.com/mouz-torzsi-interview-esports-world-cup-2026/",
+    "https://www.hotspawn.com/valorant/news/jawgemo-discusses-g2s-run-towards-vct-americas-playoffs",
+    "https://esports.gg/guides/fortnite/fortnite-chapter-7-season-4-weapons/",
+    "https://www.gamesindustry.biz/rockstar-hit-with-more-leaks-as-gta-6-gameplay-and-assets-appear-to-circulate-on-social-media",
+    "https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17141,7 +17147,13 @@
     "48b101cd1bcc5553eb0e58f7fbc9c369",
     "7c6b857f46a877c689a33394d1fe8eb7",
     "91bf37f5fc11f124c0b74e3b5310b000",
-    "aa354bb2aa77930545475aec2e794d90"
+    "aa354bb2aa77930545475aec2e794d90",
+    "2352580946fef172b110e13e0bde58db",
+    "0973aee7d6b2dfebed1c369511d3e3b8",
+    "9d79cc626044ff3234e02ebee6b20faf",
+    "2b50b0b1cc434ef8b09526324f3f1b74",
+    "c81005fc2c929c1841c05559af8ec8fe",
+    "a7703584b4c812f65b0f34b921593b5c"
   ],
   "transfers": {
     "pages": {
@@ -19020,7 +19032,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-20T05:24:41.853254+00:00",
+  "last_health_alert": "2026-08-20T11:28:48.923961+00:00",
   "recent_titles": [
     {
       "words": [
@@ -21336,71 +21348,6 @@
   "sent_stories": [
     {
       "words": [
-        "actions",
-        "gta",
-        "killing",
-        "leaker",
-        "movement",
-        "opposes",
-        "stop"
-      ],
-      "at": "2026-08-19T11:19:52.952141+00:00",
-      "message_id": "1539594763018313749",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Stop Killing Games Movement Opposes GTA 6 Leaker Actions",
-      "link": "https://insider-gaming.com/stop-killing-games-movement-opposes-gta-6-leaker-actions/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Known for campaigning for consumer rights with video games, Stop Killing Games has publicly voiced its displeasure over the GTA 6 leaks. The post Stop Killing Games Movement Opposes GTA 6 Leaker Actions appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "164",
-        "pick",
-        "weird"
-      ],
-      "at": "2026-08-19T11:19:52.952141+00:00",
-      "message_id": "1539594791199838251",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Nerfplz"
-      ],
-      "title": "Weird Pick #164: Jungle Milio",
-      "link": "https://www.nerfplz.com/2026/08/weird-pick-164-jungle-milio.html",
-      "color": 8141549,
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYWpjmyCUA2PrDsZQBoV588XXUV6-tOn8p030mK8mNr1o9CDE5UnN3Qgcw0noIuFnjvjctcFTliskLSFL5TgNIbdL5l62AqR1wXxUUA9dNWA1_tL-AWA3mABxWQuaYUk8JjkJt3iSxjrYOnjBde6bsb6CjsKoJwc5Ut_M0U2YPptzuNbd_RcjvW7T-aBk/s72-c-rw/milio-preview-300.jpg",
-      "base_description": "An enchanter with a Smite, clearing camps out of a campfire instead of a jungle item's raw damage. Jungle Milio is exactly as risky as it sounds, and exactly as fun when it works. Jungle Milio is a pick nobody has actually tried in Ranked Solo/Duo, and for a very honest reason: h"
-    },
-    {
-      "words": [
-        "allwyn",
-        "andria",
-        "appoints",
-        "ceo",
-        "down",
-        "interim",
-        "phil",
-        "steps",
-        "vidler",
-        "walker"
-      ],
-      "at": "2026-08-19T11:19:52.952141+00:00",
-      "message_id": "1539594806236282932",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "Allwyn UK appoints Phil Walker as interim CEO as Andria Vidler steps down",
-      "link": "https://europeangaming.eu/portal/press-releases/2026/08/19/212924/allwyn-uk-phil-walker-interim-ceo/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Allwyn-UK-appoints-Phil-Walker-as-interim-CEO-as-Andria-Vidler-steps-down.jpg",
-      "base_description": "The leadership change marks the end of the Fourth Licence’s initial infrastructure phase and the start of a… The post Allwyn UK appoints Phil Walker as interim CEO as Andria Vidler steps down appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
         "despite",
         "expresses",
         "kiin",
@@ -22460,7 +22407,8 @@
       "message_id": "1539725469950152825",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "GamesIndustry.biz"
       ],
       "title": "More GTA 6 Gameplay Leaks Show New Features",
       "link": "https://insider-gaming.com/more-gta-6-gameplay-leaks-online/",
@@ -23882,7 +23830,8 @@
       "message_id": "1539921078216818739",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Esports.gg"
       ],
       "title": "Fortnite Chapter 7 Season 4 Weapons—All New & Unvaulted Weapons",
       "link": "https://insider-gaming.com/fortnite-chapter-7-season-4-new-unvaulted-weapons/",
@@ -24210,6 +24159,78 @@
       "color": 8141549,
       "image_url": "https://media.europeangaming.eu/uploads/2026/08/Denmark-blocks-Polymarket-and-97-other-sites-in-unlicensed-gambling-sweep.jpg",
       "base_description": "The Frederiksberg court approved the DNS blocks on 8 July, telecoms operators enforced them on 6 August, and… The post Denmark blocks Polymarket and 97 other sites in unlicensed gambling sweep appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "break",
+        "can",
+        "doesn",
+        "easily",
+        "good",
+        "have",
+        "really",
+        "when",
+        "zone"
+      ],
+      "at": "2026-08-20T11:28:35.344454+00:00",
+      "message_id": "1539959340386222193",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "“When he’s in the zone, he is really good… If he doesn’t have a good game, he can break easily” – torzsi on PR",
+      "link": "https://insider-gaming.com/mouz-torzsi-interview-esports-world-cup-2026/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Insider Gaming spoke to Ádám 'torzsi' Torzsás after MOUZ's dramatic 2-1 victory over GamerLegion at the Esports World Cup CS2 tournament. The post “When he’s in the zone, he is really good… If he doesn’t have a good game, he can break easily” – torzsi on PR appeared first on Insi"
+    },
+    {
+      "words": [
+        "americas",
+        "discusses",
+        "jawgemo",
+        "playoffs",
+        "run",
+        "towards",
+        "vct"
+      ],
+      "at": "2026-08-20T11:28:35.344454+00:00",
+      "message_id": "1539959355057774603",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "Jawgemo discusses G2’s run towards VCT Americas playoffs",
+      "link": "https://www.hotspawn.com/valorant/news/jawgemo-discusses-g2s-run-towards-vct-americas-playoffs",
+      "color": 8141549,
+      "image_url": "https://www.youtube.com/embed/yHiY76FPAtk",
+      "base_description": "G2 Esports needed overtime to get past Challengers side M80 in their VCT Americas Stage 2 Play-Ins opener, leaning on a Breeze composition the team had only put together the day before. It’s the latest step in a bounce back after a rocky group stage that saw G2 stumble against LO"
+    },
+    {
+      "words": [
+        "dollars",
+        "gamescom",
+        "heard",
+        "millions",
+        "not",
+        "presence",
+        "probably",
+        "publisher",
+        "spending",
+        "why",
+        "you"
+      ],
+      "at": "2026-08-20T11:28:35.344454+00:00",
+      "message_id": "1539959380412342348",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "Why a publisher you've probably not heard of is spending millions of dollars on its Gamescom presence",
+      "link": "https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/scf5pu.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "Walking the halls of Gamescom, the biggest, most elaborate booths you'll see will generally have an equally big, familiar name attached. Here's Capcom, Xbox, Sega, EA, Ubisoft, and so on. But at this year's event, a significant chunk of Halls 6 and 7 will be taken up by a name yo"
     }
   ]
 }
