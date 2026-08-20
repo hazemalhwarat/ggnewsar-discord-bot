@@ -8571,7 +8571,12 @@
     "https://www.invenglobal.com/articles/24942/ai-agent-introduced-supercats-next-gen-mmorpg-dokkaebi-world",
     "https://www.invenglobal.com/articles/24941/tim-sweeney-in-the-unreal-engine-6-era-we-expect-great-things-from-korean-developers",
     "https://www.invenglobal.com/articles/24940/how-to-use-yukiko-amagi-that-even-crown-level-commanders-can-understand",
-    "https://www.invenglobal.com/articles/24944/legend-of-ymir-updates-seasonal-3v3-pvp-arena-ranked-match"
+    "https://www.invenglobal.com/articles/24944/legend-of-ymir-updates-seasonal-3v3-pvp-arena-ranked-match",
+    "https://www.invenglobal.com/articles/24949/yungun-joins-trude-balance-adjustments-total-war-and-guild-war-improvements",
+    "https://www.invenglobal.com/articles/24948/epic-seven-teases-update-showcase-video-for-8th-official-anniversary",
+    "https://www.invenglobal.com/articles/24947/wemade-unveils-major-update-roadmap-for-night-crows-in-second-half-of-2026",
+    "https://www.invenglobal.com/articles/24946/higan-eruthyll-updates-new-sun-moon-character-yu-qing",
+    "https://www.invenglobal.com/articles/24945/police-shields-and-k2-featured-modern-warfare-4-multiplayer-trailer-revealed"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17059,7 +17064,12 @@
     "d80707a646a9317fd5f0e27dfa284e5b",
     "a11f6ef2ebf0556de9eb1e0c97473455",
     "597fcac3b31752159d12facb3f4fe036",
-    "f136332ece235d84918b1075a17147e4"
+    "f136332ece235d84918b1075a17147e4",
+    "6bb6a1f0a5e0d5eb28b3eea4e3fa867a",
+    "34efffb7efc1412efbe9db138519df80",
+    "a770f92630718a415f006b5e1f3e71aa",
+    "ce5b828f8b623243376e3f5ea73939a6",
+    "4e61498cba6e8ea71d50103e69946984"
   ],
   "transfers": {
     "pages": {
@@ -21254,146 +21264,6 @@
   "sent_stories": [
     {
       "words": [
-        "change",
-        "digital",
-        "dlc",
-        "first",
-        "hell",
-        "keian",
-        "nioh",
-        "releases",
-        "today",
-        "touch"
-      ],
-      "at": "2026-08-19T05:55:13.927568+00:00",
-      "message_id": "1539513059813359618",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Digital Touch Releases First Nioh 3 DLC, 'The Keian Hell-Change', Today",
-      "link": "https://www.invenglobal.com/articles/24900/digital-touch-releases-first-nioh-3-dlc-the-keian-hell-change-today",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©Digital TouchDigital Touch (CEO Jung Sung-hun) has officially released the first DLC for Koei Tecmo Games' dark Sengoku action RPG, Nioh 3 (PlayStation 5 and Steam), titled '......"
-    },
-    {
-      "words": [
-        "carnival",
-        "dungeon",
-        "event",
-        "launches",
-        "lionheart",
-        "studio",
-        "survival",
-        "valhalla"
-      ],
-      "at": "2026-08-19T05:55:13.927568+00:00",
-      "message_id": "1539513075705712642",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Lionheart Studio Launches 'Valhalla Survival' Carnival Dungeon Event",
-      "link": "https://www.invenglobal.com/articles/24899/lionheart-studio-launches-valhalla-survival-carnival-dungeon-event",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Source: Lionheart Studio ©Lionheart StudioLionheart Studio (Chairman Kim Jae-young) announced on the 19th that it has added a Carnival Dungeon to 'Valhalla Survival,' a hack-a......"
-    },
-    {
-      "words": [
-        "derby",
-        "event",
-        "kakao",
-        "launches",
-        "musume",
-        "pretty",
-        "story",
-        "uma"
-      ],
-      "at": "2026-08-19T05:55:13.927568+00:00",
-      "message_id": "1539513090549223465",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Kakao Games Launches New Story Event for 'Uma Musume Pretty Derby'",
-      "link": "https://www.invenglobal.com/articles/24898/kakao-games-launches-new-story-event-for-uma-musume-pretty-derby",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Source: Kakao Games ©Kakao GamesOn August 19, Kakao Games (co-CEOs Kim Tae-hwan and Lee Si-woo) announced an update for the popular game 'Uma Musume Pretty Derby,' developed by Cygames (CEO Koichi Watanabe)...."
-    },
-    {
-      "words": [
-        "appreciation",
-        "battle",
-        "festival",
-        "force",
-        "netmarble",
-        "raven",
-        "season",
-        "special",
-        "task",
-        "world"
-      ],
-      "at": "2026-08-19T05:55:13.927568+00:00",
-      "message_id": "1539513104889544726",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Netmarble Updates 'Raven 2' with 'Special Task Force Appreciation Festival' and 'Battle World Season 2'",
-      "link": "https://www.invenglobal.com/articles/24897/netmarble-updates-raven-2-with-special-task-force-appreciation-festival-and-battle-world-season-2",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Source: Netmarble ©NetmarbleNetmarble (CEO Kim Byung-kyu) announced on the 19th that it has rolled out various updates for its MMORPG 'Raven 2' (developed by Netmarble Monster......"
-    },
-    {
-      "words": [
-        "combat",
-        "into",
-        "lordnine",
-        "mastery",
-        "overhauls",
-        "smilegate",
-        "unarmed"
-      ],
-      "at": "2026-08-19T05:55:13.927568+00:00",
-      "message_id": "1539513119489921026",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Smilegate's LORDNINE Overhauls Unarmed Mastery into 'Combat Mastery'",
-      "link": "https://www.invenglobal.com/articles/24896/smilegates-lordnine-overhauls-unarmed-mastery-into-combat-mastery",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Source: Smilegate ©SmilegateSmilegate announced on Wednesday (the 19th) that it has released a major update for its ALL CLASS MMORPG 'LORDNINE' (developed by NX3 Games), headl......"
-    },
-    {
-      "words": [
-        "astrae",
-        "cbt",
-        "opens",
-        "oratio",
-        "registration",
-        "subculture",
-        "title"
-      ],
-      "at": "2026-08-19T05:55:13.927568+00:00",
-      "message_id": "1539513134094483467",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "NC Opens CBT Registration for New Subculture Title 'Astrae Oratio'",
-      "link": "https://www.invenglobal.com/articles/24895/nc-opens-cbt-registration-for-new-subculture-title-astrae-oratio",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©NCNC (co-CEOs Kim Taek-jin, Park Byung-moo) has officially opened registration for the Closed Beta Test (CBT) of its new subculture role-playing game (RPG), Astrae Oratio (developed by Dynamis One)...."
-    },
-    {
-      "words": [
         "agency",
         "association",
         "content",
@@ -24338,6 +24208,120 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Provided by Wemade © WemadeWemade (CEO Park Kwan-ho) updated its MMORPG \"Legend of Ymir\" today (20th) with new PvP (player vs...."
+    },
+    {
+      "words": [
+        "adjustments",
+        "balance",
+        "guild",
+        "improvements",
+        "joins",
+        "total",
+        "trude",
+        "war",
+        "yungun"
+      ],
+      "at": "2026-08-20T05:56:07.014074+00:00",
+      "message_id": "1539875670803611779",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Yungun Joins! Trude Balance Adjustments, Total War and Guild War Improvements",
+      "link": "https://www.invenglobal.com/articles/24949/yungun-joins-trude-balance-adjustments-total-war-and-guild-war-improvements",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "New Magic-Type Hero Yungun AddedKey lies in utilizing Aura and HP ConversionA new Legendary hero, Yungun of the Hidden Masters, has been added to Seven Knights Re:Birth...."
+    },
+    {
+      "words": [
+        "8th",
+        "anniversary",
+        "epic",
+        "seven",
+        "showcase",
+        "teases",
+        "video"
+      ],
+      "at": "2026-08-20T05:56:07.014074+00:00",
+      "message_id": "1539875685550788631",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Epic Seven Teases Update Showcase Video for 8th Official Anniversary",
+      "link": "https://www.invenglobal.com/articles/24948/epic-seven-teases-update-showcase-video-for-8th-official-anniversary",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by Smilegate ©SmilegateSmilegate announced on Wednesday, August 20, that Epic Seven, the mobile turn-based strategic RPG developed by Super Creative, will release an updat......"
+    },
+    {
+      "words": [
+        "2026",
+        "crows",
+        "half",
+        "major",
+        "night",
+        "roadmap",
+        "second",
+        "unveils",
+        "wemade"
+      ],
+      "at": "2026-08-20T05:56:07.014074+00:00",
+      "message_id": "1539875700146839614",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Wemade Unveils Major Update Roadmap for 'Night Crows' in Second Half of 2026",
+      "link": "https://www.invenglobal.com/articles/24947/wemade-unveils-major-update-roadmap-for-night-crows-in-second-half-of-2026",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by Wemade ©WemadeNight Crows, the blockbuster MMORPG published by Wemade (CEO Park Kwan-ho) and developed by Madngine (Co-CEOs Son Myeon-seok, Lee Jung-wook), has unveiled......"
+    },
+    {
+      "words": [
+        "character",
+        "eruthyll",
+        "higan",
+        "moon",
+        "qing",
+        "sun"
+      ],
+      "at": "2026-08-20T05:56:07.014074+00:00",
+      "message_id": "1539875714533433386",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Higan: Eruthyll Updates New Sun & Moon Character Yu Qing",
+      "link": "https://www.invenglobal.com/articles/24946/higan-eruthyll-updates-new-sun-moon-character-yu-qing",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by Nexon ©NexonNexon (Co-CEOs Dae-hyun Kang and Jung-wook Kim) announced on August 20 that its publishing brand 'select all' has updated subculture hero-collector RPG 'Hig......"
+    },
+    {
+      "words": [
+        "featured",
+        "modern",
+        "multiplayer",
+        "police",
+        "revealed",
+        "shields",
+        "trailer",
+        "warfare"
+      ],
+      "at": "2026-08-20T05:56:07.014074+00:00",
+      "message_id": "1539875728957636690",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Police Shields and K2 Featured! Modern Warfare 4 Multiplayer Trailer Revealed",
+      "link": "https://www.invenglobal.com/articles/24945/police-shields-and-k2-featured-modern-warfare-4-multiplayer-trailer-revealed",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Infinity Ward has released a multiplayer trailer ahead of the Modern Warfare 4 beta test.On the 20th, a three-minute trailer released on the official Call of Duty YouTube channel showcased overall gameplay footage of the multiplayer mode...."
     }
   ]
 }
