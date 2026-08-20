@@ -8717,7 +8717,13 @@
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zZlNnbVlGQUw1ai14WlJPQ3hjZ2Jfc0V1ZW4xaFFlLVFzLWVjekJUaVVPTFpaRTZuOE1LN1d5WkY1cXdqaFp2N3pIdlZOa1lmeWxqSHpzSkZqblVJTlpYdQ?oc=5",
     "https://www.hltv.org/news/45351/art-we-know-the-level-of-cs-and-the-potential-we-have",
     "https://dotesports.com/call-of-duty/news/warzone-zodiac-resurgence-map-first-look",
-    "https://insider-gaming.com/lux-and-samira-are-coming-to-2xko-before-development-ends/"
+    "https://insider-gaming.com/lux-and-samira-are-coming-to-2xko-before-development-ends/",
+    "https://gameriv.com/riot-says-2xko-costs-more-to-operate-than-it-makes-ends-active-development/",
+    "https://esports.gg/news/2xko/riot-ends-2xko-development-refunds-all-money-spent/",
+    "https://esports.gg/news/fortnite/fortnite-fnaf-collab-teasers/",
+    "https://insider-gaming.com/dying-light-2-renaissance-restore-original-vision/",
+    "https://mp1st.com/title-updates-and-patches/black-ops-7-update-2-04-delivers-season-5-reloaded-on-aug-20",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEs3U1c3VVB5U3NXWUx2TEtqVWlVTFUyZS1MRWw4Mkt5MUZMd21EeVpnZXE5ZFotMEVUbWZxOW9CX1RUa3UyQ3BvLVRxTW9MWDNRQkhlTmw0ZnhKZEN1b1c4TC1XU09RZWNuOWdyX1M5U3RxWHZYOVVPbDk2OVFfQlFJN1dOeXp3OXFjanBGMDZOOTFhS0l3?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17348,7 +17354,13 @@
     "088aa7519732425f3aa5135127fa97ec",
     "97de3fc4d3a2990af5d8e85edb93a0cd",
     "947e3ade61a09a7b28eaae279116d3ab",
-    "08c9258bcf7050d6f744d841de4619c3"
+    "08c9258bcf7050d6f744d841de4619c3",
+    "d73de52cdfab433dcb7d4e1e4fc8285f",
+    "a614b9b1ca39d78aae98be8696b77653",
+    "b923b0b99874aabd3e068b5107d91824",
+    "cfed6c5538efb7a6cc056532444ca449",
+    "03448f3209a8ab61b93d03591a3588dd",
+    "0cb8d26e5410b51b8e0eeb97088df0df"
   ],
   "transfers": {
     "pages": {
@@ -21543,50 +21555,6 @@
   "sent_stories": [
     {
       "words": [
-        "gold",
-        "gugli",
-        "rebellion",
-        "releases",
-        "shopify"
-      ],
-      "at": "2026-08-19T21:19:42.875307+00:00",
-      "message_id": "1539745713955803218",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg",
-        "European Gaming Media"
-      ],
-      "title": "Shopify Rebellion Gold releases GUGLi",
-      "link": "https://www.vlr.gg/739728/shopify-rebellion-gold-releases-gugli",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Shopify Rebellion Gold looks for a new head coach to replace GUGLi ahead of the Stage 2 playoffs."
-    },
-    {
-      "words": [
-        "army",
-        "battalion",
-        "gta",
-        "incentive",
-        "off",
-        "reenlistment",
-        "time",
-        "uses"
-      ],
-      "at": "2026-08-19T21:19:42.875307+00:00",
-      "message_id": "1539745729369612372",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Army Battalion Uses Time Off for GTA 6 as Reenlistment Incentive",
-      "link": "https://insider-gaming.com/army-gta-6-reenlistment-incentive/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "A Fort Stewart Army battalion is offering eligible soldiers a four-day GTA 6 pass in exchange for reenlisting for at least two more years of service. The post Army Battalion Uses Time Off for GTA 6 as Reenlistment Incentive appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "day",
         "enlistment",
         "exchange",
@@ -24167,7 +24135,8 @@
       "message_id": "1540034376744575068",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Dot Esports"
+        "Dot Esports",
+        "Esports.gg"
       ],
       "title": "Five Nights at Freddy’s teasers have appeared in Fortnite",
       "link": "https://dotesports.com/fnaf/news/five-nights-at-freddys-fnaf-fortnite-teaser-building-map-restaurant-fazbear",
@@ -24599,7 +24568,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "Dot Esports",
-        "Insider Gaming"
+        "Insider Gaming",
+        "GameRiv"
       ],
       "title": "Riot is ending active development on 2XKO less than a year after console launch",
       "link": "https://dotesports.com/2xko/news/2xko-riot-ends-development-december-2026",
@@ -24710,13 +24680,57 @@
       "message_id": "1540102108890669161",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Esports.gg"
       ],
       "title": "Lux and Samira Are Coming to 2XKO Before Development Ends",
       "link": "https://insider-gaming.com/lux-and-samira-are-coming-to-2xko-before-development-ends/",
       "color": 8141549,
       "image_url": "",
       "base_description": "Lux and Samira will be the last-ever champions added to 2XKO as Riot will end development of the game in December of this year. The post Lux and Samira Are Coming to 2XKO Before Development Ends appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "dying",
+        "light",
+        "original",
+        "renaissance",
+        "restore",
+        "vision",
+        "will"
+      ],
+      "at": "2026-08-20T21:21:46.690637+00:00",
+      "message_id": "1540108636897026200",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Dying Light 2: Renaissance Will ‘Restore Original Vision’ For The Game",
+      "link": "https://insider-gaming.com/dying-light-2-renaissance-restore-original-vision/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Dying Light 2: Renaissance is an ambitious fan project that promises to rebuild the original pre-2022 vision for the game. The post Dying Light 2: Renaissance Will ‘Restore Original Vision’ For The Game appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "aug",
+        "black",
+        "delivers",
+        "ops",
+        "reloaded",
+        "season"
+      ],
+      "at": "2026-08-20T21:21:46.690637+00:00",
+      "message_id": "1540108651648262185",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "MP1st CoD"
+      ],
+      "title": "Black Ops 7 Update 2.04 Delivers Season 5 Reloaded on Aug. 20",
+      "link": "https://mp1st.com/title-updates-and-patches/black-ops-7-update-2-04-delivers-season-5-reloaded-on-aug-20",
+      "color": 8141549,
+      "image_url": "https://mp1st.com/wp-content/uploads/2026/06/Intergalactic-The-Heretic-Prophet-600x338.png",
+      "base_description": "Having trouble viewing the text? You can always read the original article here: Black Ops 7 Update 2.04 Delivers Season 5 Reloaded on Aug. 20 Treyarch has dropped Season 5 Reloaded on Call of Duty: Black Ops 7, and this adds a new map, weapon and more. Console gamers will see thi"
     }
   ]
 }
