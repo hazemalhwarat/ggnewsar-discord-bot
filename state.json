@@ -8694,7 +8694,13 @@
     "https://stealthoptional.com/article/fc-26-rewind-promo-leaks-release-date-leaked-player-list-overview",
     "https://stealthoptional.com/article/nba-2k27-myplayer-builder-revealed-female-myplayers-badge-tokens-synergy",
     "https://www.invenglobal.com/articles/24966/io-interactives-007-first-light-surpasses-4-million-copies-sold",
-    "https://www.hotspawn.com/dota2/news/the-international-15-playoffs-day-2-preview"
+    "https://www.hotspawn.com/dota2/news/the-international-15-playoffs-day-2-preview",
+    "https://dotesports.com/destiny/news/all-destiny-2-dlcs-and-expansions",
+    "https://insider-gaming.com/ahri-joining-fortnite-is-another-hint-that-k-da-might-be-back/",
+    "https://insider-gaming.com/compulsion-games-independent/",
+    "https://insider-gaming.com/resonance-a-plague-tale-legacy-seemingly-leaked-a-week-ahead-of-release/",
+    "https://esports.gg/guides/fortnite/how-to-unlock-the-klombo-sprite-in-fortnite/",
+    "https://esportsadvocate.net/2026/08/mbc-extends-lck-finals-broadcast-through-2027/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17302,7 +17308,13 @@
     "15623903cf2d67e916b5e8ff58f75cb4",
     "d340ea02f0c849d2793358a4256c055c",
     "6d621a5172c54e31dd74574afeb506c9",
-    "472f6d6b06a0c84fc1befc357dd904ea"
+    "472f6d6b06a0c84fc1befc357dd904ea",
+    "dfe086c1e1e0ff8322a4c591901517a0",
+    "d5aeaa1d8a9bb18e3ba1774ad8f26e50",
+    "ee4b2836625fa00004aedd7f8cada212",
+    "53f18ce339e73c0d92cd75a82c25724d",
+    "1f045a85eb53a2eb498d1edaf352fdf7",
+    "69cc701d4248911fa01c6f141fd3ae46"
   ],
   "transfers": {
     "pages": {
@@ -21497,30 +21509,6 @@
   "sent_stories": [
     {
       "words": [
-        "can",
-        "claims",
-        "currency",
-        "gta",
-        "leak",
-        "money",
-        "players",
-        "real",
-        "trade"
-      ],
-      "at": "2026-08-19T18:23:35.199654+00:00",
-      "message_id": "1539701389922402318",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GameRiv"
-      ],
-      "title": "GTA 6 Leak Claims Players Can Trade In-Game Currency for Real Money",
-      "link": "https://gameriv.com/gta-6-leak-claims-players-can-trade-in-game-currency-for-real-money/",
-      "color": 8141549,
-      "image_url": "https://gameriv.com/wp-content/uploads/2025/01/roblox-games.jpg",
-      "base_description": "A new GTA 6 leak is making a particularly surprising claim about Rockstar Games’ upcoming title. The person or group operating under the name Cyberleek claims Grand Theft Auto VI contains a form of currency that can potentially be exchanged for real-world money, comparing the sys"
-    },
-    {
-      "words": [
         "r1nkle"
       ],
       "at": "2026-08-19T19:02:35.979568+00:00",
@@ -24581,6 +24569,138 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/blg-bin-returns-1058x633.webp",
       "base_description": "Chen “Bin” Ze-Bin’s first series back with Bilibili Gaming wasn’t easy, as they had to make a comeback against the rising LGD Gaming. Following a rough start in Game 1, the team was able to pick up a win, the first one since the end of the Esports World Cup. While the result was "
+    },
+    {
+      "words": [
+        "all",
+        "campaigns",
+        "destiny",
+        "expansions",
+        "order",
+        "release"
+      ],
+      "at": "2026-08-20T18:58:36.573339+00:00",
+      "message_id": "1540072591900024876",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "All Destiny 2 campaigns and expansions in the release order",
+      "link": "https://dotesports.com/destiny/news/all-destiny-2-dlcs-and-expansions",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2024/05/2024_TFS_Dev_Preview_Press_Kit_Prism_COMPRESSED_005.jpg",
+      "base_description": "All of the game's major post-release content."
+    },
+    {
+      "words": [
+        "ahri",
+        "another",
+        "back",
+        "fortnite",
+        "hint",
+        "joining",
+        "might"
+      ],
+      "at": "2026-08-20T18:58:36.573339+00:00",
+      "message_id": "1540072607603237055",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Ahri Joining Fortnite is Another Hint That K/DA Might Be Back",
+      "link": "https://insider-gaming.com/ahri-joining-fortnite-is-another-hint-that-k-da-might-be-back/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Ahri is set to be the latest League of Legends champion added to Fortnite which suggests that K/DA really will make a 2026 comeback The post Ahri Joining Fortnite is Another Hint That K/DA Might Be Back appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "compulsion",
+        "has",
+        "now",
+        "officially",
+        "separated",
+        "xbox"
+      ],
+      "at": "2026-08-20T18:58:36.573339+00:00",
+      "message_id": "1540072622287618100",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Compulsion Games Has Now Officially Separated From Xbox",
+      "link": "https://insider-gaming.com/compulsion-games-independent/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Compulsion Games has successfully completed a management buyout, becoming fully separated from Xbox. The post Compulsion Games Has Now Officially Separated From Xbox appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "ahead",
+        "leaked",
+        "legacy",
+        "plague",
+        "release",
+        "resonance",
+        "seemingly",
+        "tale",
+        "week"
+      ],
+      "at": "2026-08-20T18:58:36.573339+00:00",
+      "message_id": "1540072637131399169",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Resonance: A Plague Tale Legacy Seemingly Leaked a Week Ahead of Release",
+      "link": "https://insider-gaming.com/resonance-a-plague-tale-legacy-seemingly-leaked-a-week-ahead-of-release/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Players are warning that the PC version of Resonance: A Plague Tale Legacy has leaked online a week ahead of release. The post Resonance: A Plague Tale Legacy Seemingly Leaked a Week Ahead of Release appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "fortnite",
+        "how",
+        "klombo",
+        "sprite",
+        "unlock"
+      ],
+      "at": "2026-08-20T18:58:36.573339+00:00",
+      "message_id": "1540072652205465622",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "How to unlock the Klombo Sprite in Fortnite",
+      "link": "https://esports.gg/guides/fortnite/how-to-unlock-the-klombo-sprite-in-fortnite/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Unlock the Klombo Sprite in Fortnite Override to get random items at each level."
+    },
+    {
+      "words": [
+        "2027",
+        "broadcast",
+        "debut",
+        "extends",
+        "finals",
+        "lck",
+        "mbc",
+        "rating",
+        "through"
+      ],
+      "at": "2026-08-20T18:58:36.573339+00:00",
+      "message_id": "1540072666743181314",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Advocate"
+      ],
+      "title": "MBC Extends LCK Finals Broadcast Through 2027 After 0.4% Debut Rating",
+      "link": "https://esportsadvocate.net/2026/08/mbc-extends-lck-finals-broadcast-through-2027/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Riot Games has extended its broadcast agreement with MBC to carry the League of Legends Champions Korea Finals live on South Korean terrestrial television through 2027, taking the country’s premier League of Legends competition to a third consecutive year on national TV. Accordin"
     }
   ]
 }
