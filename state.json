@@ -8683,7 +8683,9 @@
     "https://www.vlr.gg/740251/tyloo-nova-will-face-each-other-in-playoff-lowers",
     "https://esports.gg/news/overwatch/blizzcon-2026-welcomes-t-pain-deadmau5-yoasobi-le-sserafim-and-more/",
     "https://www.nerfplz.com/2026/10/lol-dragons-explained-10-things-pit.html",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVW12QTUxc3ZQa3YyYVFmZm5RWkZnRUd4ZUVKRzJTcUlpUVlLNzhXalY3Z0tGTFZPc3NoU3EwXzc5TjBFSnJmdkZKSGZ3NE1XZm50ejNpanAzQ3VxSkc2RWVPOXVLNFhUSWRLLUVzOXA5Wk9zRl84T3pwZHBjZHFUbHFrYmFLRFBHTDI3c0VDTGJ0RXFNa3NIdllhS2xYMHE1?oc=5"
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVW12QTUxc3ZQa3YyYVFmZm5RWkZnRUd4ZUVKRzJTcUlpUVlLNzhXalY3Z0tGTFZPc3NoU3EwXzc5TjBFSnJmdkZKSGZ3NE1XZm50ejNpanAzQ3VxSkc2RWVPOXVLNFhUSWRLLUVzOXA5Wk9zRl84T3pwZHBjZHFUbHFrYmFLRFBHTDI3c0VDTGJ0RXFNa3NIdllhS2xYMHE1?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU0pnZkhuX3Y4RDY4LUllcVQyVGVHR3JGUlRqaEU1b2pzaDhfTU9zOFptc1IyTTlEc0x5T2xST1FFZWgtQmMyTUt1SHN1b1k3bzEzQ2pSNF94S29xa1dKdUc3aWxLVURvRnJJc0thTFh0b3Fic1lhQ3JFWERMS1pOcDdkckNicWxTbjJKS0x2dmpycTZrR3NJTU9QQVFSUk9ENFE?oc=5",
+    "https://www.invenglobal.com/articles/24965/gta-6-leakers-claim-gamers-rights-stop-killing-games-opposes-support"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17283,7 +17285,9 @@
     "ce43f6f7617d750f2b41c39bd05ed6b0",
     "ffee99bd1b5f8ea716efae62d77d90c9",
     "1095669c80c083f192787c8b671049ed",
-    "673d257d21fd35533093a5df584412fc"
+    "673d257d21fd35533093a5df584412fc",
+    "66b0a681fca41618ce3ab3bd8d6614a2",
+    "b871fcf884f7cfc2aaccfa9d99d4edd9"
   ],
   "transfers": {
     "pages": {
@@ -21478,26 +21482,6 @@
   "sent_stories": [
     {
       "words": [
-        "bilibili",
-        "continue",
-        "gaming",
-        "playoff",
-        "runs"
-      ],
-      "at": "2026-08-19T16:56:16.131758+00:00",
-      "message_id": "1539679415422812202",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg"
-      ],
-      "title": "JD Gaming and Bilibili Gaming continue its playoff runs",
-      "link": "https://www.vlr.gg/739655/jd-gaming-and-bilibili-gaming-continue-its-playoff-runs",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "JD Gaming and Bilibili Gaming will face each other in Stage 2 Playoffs upper final."
-    },
-    {
-      "words": [
         "house",
         "labs",
         "launches",
@@ -24625,6 +24609,30 @@
       "color": 8141549,
       "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.14,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_4.jpg",
       "base_description": "Dragons are two objectives wearing one health bar: a buff race everyone watches, and a map editor that fires twice and then locks. Here's every element, every soul, and what the pit is really asking you to do. League of Legends Guide Dragons & Elemental Rifts Summoner's Rift Obje"
+    },
+    {
+      "words": [
+        "claim",
+        "gamers",
+        "gta",
+        "killing",
+        "leakers",
+        "opposes",
+        "rights",
+        "stop",
+        "support"
+      ],
+      "at": "2026-08-20T17:00:59.099323+00:00",
+      "message_id": "1540042991048073217",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "GTA 6 Leakers Claim 'Gamers' Rights', Stop Killing Games Opposes Support",
+      "link": "https://www.invenglobal.com/articles/24965/gta-6-leakers-claim-gamers-rights-stop-killing-games-opposes-support",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©Rockstar Games, NetflixStop Killing Games, a consumer advocacy movement for gamers' rights, has drawn attention by urging gamers not to support the hackers behind the recent high-......"
     }
   ]
 }
