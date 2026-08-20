@@ -8700,7 +8700,13 @@
     "https://insider-gaming.com/compulsion-games-independent/",
     "https://insider-gaming.com/resonance-a-plague-tale-legacy-seemingly-leaked-a-week-ahead-of-release/",
     "https://esports.gg/guides/fortnite/how-to-unlock-the-klombo-sprite-in-fortnite/",
-    "https://esportsadvocate.net/2026/08/mbc-extends-lck-finals-broadcast-through-2027/"
+    "https://esportsadvocate.net/2026/08/mbc-extends-lck-finals-broadcast-through-2027/",
+    "https://www.hltv.org/news/45352/furia-romp-past-g2-into-ewc-semi-finals",
+    "https://gameriv.com/gta-6-leaker-apparently-has-the-actual-game-build-and-the-situation-is-getting-worse/",
+    "https://insider-gaming.com/golden-axe-animated-series-paramount-plus-trailer/",
+    "https://www.vlr.gg/740467/monsi-joins-shopify-rebellion-gold-as-head-coach",
+    "https://realsport101.com/article/nba-2k27-early-access-start-date-times-how-to-play-early",
+    "https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17314,7 +17320,13 @@
     "ee4b2836625fa00004aedd7f8cada212",
     "53f18ce339e73c0d92cd75a82c25724d",
     "1f045a85eb53a2eb498d1edaf352fdf7",
-    "69cc701d4248911fa01c6f141fd3ae46"
+    "69cc701d4248911fa01c6f141fd3ae46",
+    "82c4cf15cddd743eedb3767fabb2e2cc",
+    "3e81ab48a2329cd6d12198553279f08e",
+    "b599a9cc0b64ad664617c7fe038e6b9f",
+    "141da937f1dd5671638b090e8b548fc8",
+    "48206ab50ad9236280f0e3dd591eb9bd",
+    "306ed6c458a1d594c05766dbbd870a7d"
   ],
   "transfers": {
     "pages": {
@@ -21509,69 +21521,6 @@
   "sent_stories": [
     {
       "words": [
-        "r1nkle"
-      ],
-      "at": "2026-08-19T19:02:35.979568+00:00",
-      "message_id": "1539711213192089641",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "r1nkle: \"Life is good\"",
-      "link": "https://www.hltv.org/news/45342/r1nkle-life-is-good",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/G9B63dbfqOl6miu9LDaoat.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=95f57da0e6058062f21656770e22d56f",
-      "base_description": "The Ukrainian AWPer is over the moon to be playing tier-1 Counter-Strike after a rough time with NIP."
-    },
-    {
-      "words": [
-        "adding",
-        "astralis",
-        "fell",
-        "hole",
-        "hooxi",
-        "influence",
-        "into",
-        "more",
-        "neo",
-        "structure",
-        "struggles"
-      ],
-      "at": "2026-08-19T19:02:35.979568+00:00",
-      "message_id": "1539711227868221583",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "“We fell into a hole of adding more and more structure” – HooXi on Astralis’ Struggles and NEO’s Influence",
-      "link": "https://insider-gaming.com/astralis-hooxi-interview-esports-world-cup-2026/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Insider Gaming spoke to Astralis IGL HooXi following Astralis' Round of 16 exit to G2 at EWC 2026's Counter-Strike 2 tournament. The post “We fell into a hole of adding more and more structure” – HooXi on Astralis’ Struggles and NEO’s Influence appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "eggman",
-        "fortnite",
-        "knuckles",
-        "shadow",
-        "skins",
-        "sonic"
-      ],
-      "at": "2026-08-19T19:02:35.979568+00:00",
-      "message_id": "1539711242753810533",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "Sonic, Shadow, Knuckles, and Eggman Fortnite skins: How to get all of them",
-      "link": "https://esports.gg/guides/fortnite/fortnite-sonic-skins/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Sonic, Shadow, Knuckles, and Eggman skins all invade Fortnite on Aug. 20!"
-    },
-    {
-      "words": [
         "adds",
         "cyclops",
         "daredevil",
@@ -23280,7 +23229,8 @@
       "message_id": "1539945102905053375",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "GameRiv"
       ],
       "title": "GTA 6 Leaker ‘Proves’ They Have Build Access",
       "link": "https://insider-gaming.com/gta-6-leaker-proves-they-have-build-access/",
@@ -24701,6 +24651,94 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Riot Games has extended its broadcast agreement with MBC to carry the League of Legends Champions Korea Finals live on South Korean terrestrial television through 2027, taking the country’s premier League of Legends competition to a third consecutive year on national TV. Accordin"
+    },
+    {
+      "words": [
+        "ewc",
+        "finals",
+        "furia",
+        "into",
+        "past",
+        "romp",
+        "semi"
+      ],
+      "at": "2026-08-20T19:28:29.339844+00:00",
+      "message_id": "1540080111095914538",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "FURIA romp past G2 into EWC semi-finals",
+      "link": "https://www.hltv.org/news/45352/furia-romp-past-g2-into-ewc-semi-finals",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/8Ct9_lSMxJhD4t2pZC0Cse.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=37b88535a1c96409c9355d6a7a7cf1cf",
+      "base_description": "Despite a slightly risky veto, one G2 coach sAw admitted surprised him, FURIA came out on top to make top-four at Esports World Cup."
+    },
+    {
+      "words": [
+        "animated",
+        "axe",
+        "comedy",
+        "golden",
+        "paramount",
+        "premieres",
+        "september"
+      ],
+      "at": "2026-08-20T19:28:29.339844+00:00",
+      "message_id": "1540080132562354217",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Golden Axe Animated Comedy Premieres on Paramount+ in September",
+      "link": "https://insider-gaming.com/golden-axe-animated-series-paramount-plus-trailer/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Golden Axe’s first trailer shows the Sega fantasy game reborn as an animated comedy. The post Golden Axe Animated Comedy Premieres on Paramount+ in September appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "2k27",
+        "access",
+        "early",
+        "nba"
+      ],
+      "at": "2026-08-20T19:28:29.339844+00:00",
+      "message_id": "1540080148496523275",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "RealSport101"
+      ],
+      "title": "NBA 2K27 Early Access: Start Date, Times, & How to Play Early",
+      "link": "https://realsport101.com/article/nba-2k27-early-access-start-date-times-how-to-play-early",
+      "color": 8141549,
+      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/596d076b-nba-2k27-ss.webp",
+      "base_description": "Find out when NBA 2K27 early access starts! Check regional unlock times, edition perks, and how to jump into the game early."
+    },
+    {
+      "words": [
+        "clarifies",
+        "gamescom",
+        "geoff",
+        "how",
+        "keighley",
+        "live",
+        "night",
+        "opening",
+        "selected",
+        "trailers"
+      ],
+      "at": "2026-08-20T19:28:29.339844+00:00",
+      "message_id": "1540080164774608896",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live",
+      "link": "https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/gamescome_opening_night_live_2025.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "In a press pre-briefing ahead of next week's Gamescom conference, Geoff Keighley has shed some light on the process of how trailers are selected for the Opening Night Live digital showcase, which will take place on Tuesday. Read more"
     }
   ]
 }
