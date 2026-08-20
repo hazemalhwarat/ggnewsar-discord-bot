@@ -8723,7 +8723,9 @@
     "https://esports.gg/news/fortnite/fortnite-fnaf-collab-teasers/",
     "https://insider-gaming.com/dying-light-2-renaissance-restore-original-vision/",
     "https://mp1st.com/title-updates-and-patches/black-ops-7-update-2-04-delivers-season-5-reloaded-on-aug-20",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEs3U1c3VVB5U3NXWUx2TEtqVWlVTFUyZS1MRWw4Mkt5MUZMd21EeVpnZXE5ZFotMEVUbWZxOW9CX1RUa3UyQ3BvLVRxTW9MWDNRQkhlTmw0ZnhKZEN1b1c4TC1XU09RZWNuOWdyX1M5U3RxWHZYOVVPbDk2OVFfQlFJN1dOeXp3OXFjanBGMDZOOTFhS0l3?oc=5"
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEs3U1c3VVB5U3NXWUx2TEtqVWlVTFUyZS1MRWw4Mkt5MUZMd21EeVpnZXE5ZFotMEVUbWZxOW9CX1RUa3UyQ3BvLVRxTW9MWDNRQkhlTmw0ZnhKZEN1b1c4TC1XU09RZWNuOWdyX1M5U3RxWHZYOVVPbDk2OVFfQlFJN1dOeXp3OXFjanBGMDZOOTFhS0l3?oc=5",
+    "https://insider-gaming.com/survival-rpg-scavland-early-access-september/",
+    "https://mp1st.com/title-updates-and-patches/black-ops-7-warzone-season-5-reloaded-update-1-105-fires-out-on-aug-20"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17360,7 +17362,9 @@
     "b923b0b99874aabd3e068b5107d91824",
     "cfed6c5538efb7a6cc056532444ca449",
     "03448f3209a8ab61b93d03591a3588dd",
-    "0cb8d26e5410b51b8e0eeb97088df0df"
+    "0cb8d26e5410b51b8e0eeb97088df0df",
+    "e9fce65c9844976d469732cf37eee3f1",
+    "9f1f500144c39dee9e4017e0b2cc4e8b"
   ],
   "transfers": {
     "pages": {
@@ -21555,54 +21559,6 @@
   "sent_stories": [
     {
       "words": [
-        "day",
-        "enlistment",
-        "exchange",
-        "further",
-        "gta",
-        "military",
-        "one",
-        "play",
-        "soldiers"
-      ],
-      "at": "2026-08-19T21:50:01.234763+00:00",
-      "message_id": "1539753346632523869",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "Soldiers exchange further military enlistment to play GTA 6 day one",
-      "link": "https://dotesports.com/gta/news/gta-6-military-enlistment-incentive-day-one-army",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/lucia-and-jason-gta-6-cover-art-scaled.jpg",
-      "base_description": "Do the virtual crime, do the real-life time."
-    },
-    {
-      "words": [
-        "brick",
-        "life",
-        "mattel",
-        "original",
-        "reveals",
-        "set",
-        "shop",
-        "size",
-        "xbox"
-      ],
-      "at": "2026-08-19T21:50:01.234763+00:00",
-      "message_id": "1539753362092859424",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Mattel Brick Shop Reveals Life-Size Original XBOX Set",
-      "link": "https://insider-gaming.com/mattel-original-xbox-set-collectors/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Mattel Brick Shop’s new 3,509-piece kit recreates the original XBOX and Duke controller at full scale, with lights, sounds and game dioramas. The post Mattel Brick Shop Reveals Life-Size Original XBOX Set appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "cyberleek",
         "gameplay",
         "gta",
@@ -24517,7 +24473,8 @@
       "message_id": "1540080148496523275",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "RealSport101"
+        "RealSport101",
+        "Insider Gaming"
       ],
       "title": "NBA 2K27 Early Access: Start Date, Times, & How to Play Early",
       "link": "https://realsport101.com/article/nba-2k27-early-access-start-date-times-how-to-play-early",
