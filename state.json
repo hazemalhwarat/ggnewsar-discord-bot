@@ -8582,7 +8582,16 @@
     "https://www.invenglobal.com/articles/24951/new-boss-bellona-to-master-label-rework-august-20-update-summary",
     "https://www.invenglobal.com/articles/24950/next-gen-engine-unreal-engine-6-will-bring-a-shift-in-the-development-ecosystem",
     "https://dotesports.com/gta/news/gta-6-extended-preview-netflix-youtube",
-    "https://europeangaming.eu/portal/europe-gambling-cities-igaming-hubs/"
+    "https://europeangaming.eu/portal/europe-gambling-cities-igaming-hubs/",
+    "https://www.hltv.org/news/45341/krabeni-on-frustrating-magic-match-it-was-hard-to-control-emotions-for-everyone",
+    "https://insider-gaming.com/fortnite-chapter-7-season-4-new-unvaulted-weapons/",
+    "https://insider-gaming.com/fortnite-chapter-7-season-4-v42-00-patch-notes/",
+    "https://esportsradar.gg/blast-programme-director-opens-up-about-the-challenges-women-face-in-esports/",
+    "https://europeangaming.eu/portal/press-releases/2026/08/20/212956/evoplay-olympus-gold-rush-slot/",
+    "https://europeangaming.eu/portal/press-releases/2026/08/20/212951/games-global-alchemy-gaming-bass-cash-1000-slot/",
+    "https://europeangaming.eu/portal/press-releases/2026/08/20/212947/playson-4-supercharged-clovers-super-wheel-slot/",
+    "https://www.invenglobal.com/articles/24954/return-of-absolute-god-collection-genesis-just-around-the-corner",
+    "https://www.invenglobal.com/articles/24953/from-10-quadrillion-to-100-million-fc-online-applies-currency-unit-adjustment"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17081,7 +17090,16 @@
     "9951bb175fe4d923563b075805a822af",
     "f5d20f88e0a6526cf57d1b72dd483011",
     "e8bbdde40112bb002f9464d4d9b5d9ce",
-    "ec0944dd921bdd74e6a99c21f3a0fcfb"
+    "ec0944dd921bdd74e6a99c21f3a0fcfb",
+    "0adbebd6af397795bd13733706ad040c",
+    "75d93aa7b7eefea119c90a5ac81c2efc",
+    "f7e7080fae7c7f95a4cfd0dea98a38e9",
+    "b21a66a3f47139ba31f24e29651457a7",
+    "cde6a414a423bde17106a79c60cabe86",
+    "8f90e412ad00624076fda6fe7c1691b4",
+    "15b51ec08b0188327f83bba38cb77aa3",
+    "f97622d1c7d1919d79242f6252cc66fc",
+    "6cf68b4ba3edd550e99f6814b2d08dd2"
   ],
   "transfers": {
     "pages": {
@@ -21276,29 +21294,6 @@
   "sent_stories": [
     {
       "words": [
-        "how",
-        "indonesia",
-        "mpl",
-        "results",
-        "schedule",
-        "season",
-        "standings",
-        "watch"
-      ],
-      "at": "2026-08-19T08:45:16.342330+00:00",
-      "message_id": "1539555852929728645",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "MPL Indonesia Season 18: Schedule, results, standings, teams, and how to watch",
-      "link": "https://dotesports.com/mobile-legends/news/mpl-id-season-18-schedule-results-standings",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/mpl-id-season-18-team-banners.webp",
-      "base_description": "Fighting for the two seats at the world championships."
-    },
-    {
-      "words": [
         "best",
         "combos",
         "cs2",
@@ -22872,7 +22867,8 @@
       "message_id": "1539745713955803218",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "VLR.gg"
+        "VLR.gg",
+        "European Gaming Media"
       ],
       "title": "Shopify Rebellion Gold releases GUGLi",
       "link": "https://www.vlr.gg/739728/shopify-rebellion-gold-releases-gugli",
@@ -24075,6 +24071,166 @@
       "color": 8141549,
       "image_url": "https://media.europeangaming.eu/uploads/2026/08/Europes-Gambling-Cities-2026_-The-iGaming-Hubs-Powering-the-Industry.jpg",
       "base_description": "European gambling is synonymous with several cities: Malta is recognised for its large concentration of operators, Barcelona is… The post Europe’s Gambling Cities 2026: The iGaming Hubs Powering the Industry appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "absolute",
+        "around",
+        "collection",
+        "corner",
+        "genesis",
+        "god",
+        "just",
+        "return"
+      ],
+      "at": "2026-08-20T08:56:21.542225+00:00",
+      "message_id": "1539921031039549461",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Return of Absolute God Collection! GENESIS Just Around the Corner",
+      "link": "https://www.invenglobal.com/articles/24954/return-of-absolute-god-collection-genesis-just-around-the-corner",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Less than a week remains until the massive update, EPISODE 01 - GENESIS, which arrives alongside the new Healer class...."
+    },
+    {
+      "words": [
+        "100",
+        "adjustment",
+        "applies",
+        "currency",
+        "million",
+        "online",
+        "quadrillion",
+        "unit"
+      ],
+      "at": "2026-08-20T08:56:21.542225+00:00",
+      "message_id": "1539921047552393247",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "From 10 Quadrillion to 100 Million: FC Online Applies Currency Unit Adjustment",
+      "link": "https://www.invenglobal.com/articles/24953/from-10-quadrillion-to-100-million-fc-online-applies-currency-unit-adjustment",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "A currency unit adjustment was applied to FC Online during regular maintenance on Thursday, August 20...."
+    },
+    {
+      "words": [
+        "control",
+        "emotions",
+        "everyone",
+        "frustrating",
+        "hard",
+        "krabeni",
+        "magic",
+        "match"
+      ],
+      "at": "2026-08-20T08:56:21.542225+00:00",
+      "message_id": "1539921062874062889",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "Krabeni on \"frustrating\" magic match: \"It was hard to control emotions for everyone\"",
+      "link": "https://www.hltv.org/news/45341/krabeni-on-frustrating-magic-match-it-was-hard-to-control-emotions-for-everyone",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/Gbk3BIaHtYUbLaqTgcCpmE.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=cc9077449322e26656ee15194bab27bb",
+      "base_description": "FUT's in-game leader is hoping that more playoff exposure will help reduce the team's nerves in later stages at events."
+    },
+    {
+      "words": [
+        "all",
+        "chapter",
+        "fortnite",
+        "season",
+        "unvaulted",
+        "weapons"
+      ],
+      "at": "2026-08-20T08:56:21.542225+00:00",
+      "message_id": "1539921078216818739",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Fortnite Chapter 7 Season 4 Weapons—All New & Unvaulted Weapons",
+      "link": "https://insider-gaming.com/fortnite-chapter-7-season-4-new-unvaulted-weapons/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Full details on the loot pool in Fortnite Chapter 7 Season 4, including all of the new and unvaulted weapons available. The post Fortnite Chapter 7 Season 4 Weapons—All New & Unvaulted Weapons appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "about",
+        "blast",
+        "challenges",
+        "director",
+        "face",
+        "opens",
+        "programme",
+        "women"
+      ],
+      "at": "2026-08-20T08:56:21.542225+00:00",
+      "message_id": "1539921093127569449",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "The Esports Radar"
+      ],
+      "title": "BLAST Programme Director opens up about the challenges women face in esports",
+      "link": "https://esportsradar.gg/blast-programme-director-opens-up-about-the-challenges-women-face-in-esports/",
+      "color": 8141549,
+      "image_url": "https://esportsradar.gg/wp-content/uploads/2026/07/EL_Paris-Twitter-Banner-1.0-1024x341.jpg",
+      "base_description": "Esports is undoubtedly a booming industry right now, with huge prize pools, packed arenas, and millions of fans watching online. But behind all that growth, gender equity remains a complex and persistent issue. Whether in competitive esports or industry roles, very few women make"
+    },
+    {
+      "words": [
+        "000x",
+        "1000",
+        "alchemy",
+        "bass",
+        "cash",
+        "gaming",
+        "global",
+        "launch",
+        "multipliers"
+      ],
+      "at": "2026-08-20T08:56:21.542225+00:00",
+      "message_id": "1539921113474273332",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "Games Global and Alchemy Gaming launch Bass Cash 1000 with 1,000x multipliers",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/08/20/212951/games-global-alchemy-gaming-bass-cash-1000-slot/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Games-Global-and-Alchemy-Gaming-launch-Bass-Cash-1000-with-1000x-multipliers.jpg",
+      "base_description": "The latest entry in the Bass Cash series introduces a 1,000x multiplier across base and bonus play, alongside… The post Games Global and Alchemy Gaming launch Bass Cash 1000 with 1,000x multipliers appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "adds",
+        "clovers",
+        "mechanic",
+        "playson",
+        "series",
+        "super",
+        "supercharged",
+        "wheel"
+      ],
+      "at": "2026-08-20T08:56:21.542225+00:00",
+      "message_id": "1539921129555099649",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "Playson adds Super Wheel mechanic to 4 Supercharged Clovers series",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/08/20/212947/playson-4-supercharged-clovers-super-wheel-slot/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Playson-adds-Super-Wheel-mechanic-to-4-Supercharged-Clovers-series.jpg",
+      "base_description": "The Super Wheel mechanic, first introduced in 4 Pots Riches: Super Wheel in June 2026, now extends into… The post Playson adds Super Wheel mechanic to 4 Supercharged Clovers series appeared first on European Gaming Industry News ."
     }
   ]
 }
