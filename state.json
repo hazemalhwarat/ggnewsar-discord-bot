@@ -8563,7 +8563,14 @@
     "https://www.invenglobal.com/articles/24939/star-savior-launches-metabasis-of-ashen-embers-update",
     "https://www.invenglobal.com/articles/24938/kakao-games-holds-media-showcase-for-new-title-dokkaebi-world-pre-registration-begins-today",
     "https://www.invenglobal.com/articles/24937/startou-unveils-new-idol-group-and-first-gameplay",
-    "https://www.invenglobal.com/articles/24895/nc-begins-cbt-recruitment-for-new-subculture-rpg-astrae-oratio"
+    "https://www.invenglobal.com/articles/24895/nc-begins-cbt-recruitment-for-new-subculture-rpg-astrae-oratio",
+    "https://dotesports.com/call-of-duty/news/mw4-beta-matchmaking-disbanding-lobbies-criticized",
+    "https://esports.gg/news/gaming/above-average-tenz-daisy/",
+    "https://gameriv.com/bungie-had-up-to-six-games-in-development-before-sony-acquizition-report-says/",
+    "https://www.invenglobal.com/articles/24943/dokkaebi-world-features-combat-without-class-restrictions",
+    "https://www.invenglobal.com/articles/24942/ai-agent-introduced-supercats-next-gen-mmorpg-dokkaebi-world",
+    "https://www.invenglobal.com/articles/24941/tim-sweeney-in-the-unreal-engine-6-era-we-expect-great-things-from-korean-developers",
+    "https://www.invenglobal.com/articles/24940/how-to-use-yukiko-amagi-that-even-crown-level-commanders-can-understand"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17043,7 +17050,14 @@
     "5da2e7de15190eb2dae4d58df17fc5e9",
     "5f3f1fa328bff3debee98ab9b1d5f79d",
     "5865751d17cfc52d6b7b66faa42615cc",
-    "7515e6ac970e0497f63865303b8b1a3c"
+    "7515e6ac970e0497f63865303b8b1a3c",
+    "03e14878f04154afe4c1612d86a435cf",
+    "7b509fe5f83cad2d691bea70c7557293",
+    "fb6e7ab3b2864356d1bf6db59c0a718e",
+    "9e2575a25e0e7895ccd2c29ec40d5a4b",
+    "d80707a646a9317fd5f0e27dfa284e5b",
+    "a11f6ef2ebf0556de9eb1e0c97473455",
+    "597fcac3b31752159d12facb3f4fe036"
   ],
   "transfers": {
     "pages": {
@@ -24133,6 +24147,172 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Provided by StarToU©ElementaGlobal game developer and publisher Elementa announced that it has rebranded its upcoming immersive empathy 3D idol game, 'V Project', to 'StarToU', whi......"
+    },
+    {
+      "words": [
+        "class",
+        "combat",
+        "dokkaebi",
+        "features",
+        "restrictions",
+        "without",
+        "world"
+      ],
+      "at": "2026-08-20T04:52:39.306990+00:00",
+      "message_id": "1539859700043223041",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'Dokkaebi World' \"Features Combat Without Class Restrictions\"",
+      "link": "https://www.invenglobal.com/articles/24943/dokkaebi-world-features-combat-without-class-restrictions",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "'Dokkaebi World' is a 2.5D MMORPG built on the foundation of traditional Korean folklore. It places 2D pixel characters on 3D backgrounds, applying 3D lighting and shadows to the pixel characters as well...."
+    },
+    {
+      "words": [
+        "agent",
+        "dokkaebi",
+        "gen",
+        "introduced",
+        "mmorpg",
+        "next",
+        "supercat",
+        "world"
+      ],
+      "at": "2026-08-20T04:52:39.306990+00:00",
+      "message_id": "1539859714307923971",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "AI Agent Introduced! Supercat's Next-Gen MMORPG 'Dokkaebi World'",
+      "link": "https://www.invenglobal.com/articles/24942/ai-agent-introduced-supercats-next-gen-mmorpg-dokkaebi-world",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©Kakao GamesThe details of Kakao Games' new MMORPG 'Dokkaebi World' have been revealed.On August 20, Kakao Games held a media showcase in Seoul featuring a presentation of the game and a joint interview with the developers...."
+    },
+    {
+      "words": [
+        "developers",
+        "engine",
+        "era",
+        "expect",
+        "great",
+        "korean",
+        "sweeney",
+        "things",
+        "tim",
+        "unreal"
+      ],
+      "at": "2026-08-20T04:52:39.306990+00:00",
+      "message_id": "1539859729042641017",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Tim Sweeney: \"In the Unreal Engine 6 era, we expect great things from Korean developers\"",
+      "link": "https://www.invenglobal.com/articles/24941/tim-sweeney-in-the-unreal-engine-6-era-we-expect-great-things-from-korean-developers",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Epic Games Korea CEO Park Sung-chul (left) and Epic Games CEO Tim Sweeney (right) ©INVENEpic Games hosted Unreal Fest Seoul 2026 at the Westin Seoul Parnas on August 20 and 21...."
+    },
+    {
+      "words": [
+        "amagi",
+        "can",
+        "commanders",
+        "crown",
+        "even",
+        "how",
+        "level",
+        "understand",
+        "use",
+        "yukiko"
+      ],
+      "at": "2026-08-20T04:52:39.306990+00:00",
+      "message_id": "1539859744221831199",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "How to Use Yukiko Amagi That Even Crown-Level Commanders Can Understand",
+      "link": "https://www.invenglobal.com/articles/24940/how-to-use-yukiko-amagi-that-even-crown-level-commanders-can-understand",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "GODDESS OF VICTORY: NIKKE Begins Pick-Up Recruitment for New Nikke Yukiko AmagiA New Tier-1 Attacker Added to Fire-Code DPS? With Stability on Top?A Simple Guide From New Nikke Evaluation to Usage TipsTier 1 When Paired with Queen!..."
+    },
+    {
+      "words": [
+        "beta",
+        "cod",
+        "criticize",
+        "disbanding",
+        "lobbies",
+        "matchmaking",
+        "modern",
+        "players",
+        "system",
+        "warfare"
+      ],
+      "at": "2026-08-20T04:52:39.306990+00:00",
+      "message_id": "1539859765658656860",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "CoD players criticize Modern Warfare 4 Beta matchmaking system and disbanding lobbies",
+      "link": "https://dotesports.com/call-of-duty/news/mw4-beta-matchmaking-disbanding-lobbies-criticized",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/mw4-kill-block-operators.webp",
+      "base_description": "The MW4 Beta seems to have started on the wrong foot."
+    },
+    {
+      "words": [
+        "above",
+        "average",
+        "content",
+        "daisy",
+        "establish",
+        "group",
+        "momoland",
+        "more",
+        "tenz"
+      ],
+      "at": "2026-08-20T04:52:39.306990+00:00",
+      "message_id": "1539859780003168289",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "TenZ, MOMOLAND’s Daisy, and more establish Above Average content group",
+      "link": "https://esports.gg/news/gaming/above-average-tenz-daisy/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "TenZ got friends."
+    },
+    {
+      "words": [
+        "acquizition",
+        "bungie",
+        "development",
+        "had",
+        "says",
+        "six",
+        "sony"
+      ],
+      "at": "2026-08-20T04:52:39.306990+00:00",
+      "message_id": "1539859795274768385",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "Bungie Had Up to Six Games in Development Before Sony Acquizition, Report Says",
+      "link": "https://gameriv.com/bungie-had-up-to-six-games-in-development-before-sony-acquizition-report-says/",
+      "color": 8141549,
+      "image_url": "https://gameriv.com/wp-content/uploads/2026/06/Jason-Schreier-Destiny-3.jpg",
+      "base_description": "Bungie reportedly had as many as five or six games in development during its ambitious expansion period, but most of those projects eventually fell apart following Sony’s acquisition of the Destiny developer. According to Bloomberg reporter Jason Schreier, Bungie had “five or six"
     }
   ]
 }
