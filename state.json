@@ -8661,7 +8661,14 @@
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZEFhcTJWc1puSHRlQy1KYWdsNi1HbVJGTTFFZmpvM3R4bGFvWkc2NU1RRHFQSHRXUGE5UTFsNkV4X2ZQUXoyN09xb2RNTEEtekFkQ0xTSWRuSGtmMExLcWkwNmJURk1iMFVyVGk3QWFJeVhvWE43ejI2c1FuR0dnbWVPNm56V1dLX1VURnhjZGl0YU9Zb2k3eHhlQzJIa1k?oc=5",
     "https://www.invenglobal.com/articles/24964/the-duskbloods-no-death-penalty-no-stress-in-8-player-pvpve",
     "https://www.invenglobal.com/articles/24963/vampires-accumulating-virtue-in-pvpve-the-duskbloods",
-    "https://www.invenglobal.com/articles/24962/unrelated-to-bloodborne-fromsoftware-president-miyazaki-reveals-everything-about-the-duskbloods"
+    "https://www.invenglobal.com/articles/24962/unrelated-to-bloodborne-fromsoftware-president-miyazaki-reveals-everything-about-the-duskbloods",
+    "https://esports-news.co.uk/2026/08/20/bfbs-pro-league-grand-final-raf-museum-london/",
+    "https://www.hltv.org/news/45348/aleksib-just-need-to-be-twice-as-good-twice-as-prepared-not-lose-hope-and-keep-grinding",
+    "https://insider-gaming.com/take-two-loses-2-billion-in-value-following-gta-6-leaks/",
+    "https://www.vlr.gg/740208/vlad-to-miss-match-against-team-liquid-due-to-ban",
+    "https://www.hotspawn.com/rainbow-six/news/operation-vaknan",
+    "https://realsport101.com/article/fc-27-la-liga-liga-f-ratings-revealed-mbapp-yamal-and-top-players-confirmed",
+    "https://www.gamesindustry.biz/gamesindustrybiz-hr-summit-reveals-new-people-and-workplace-focus-dedicated-to-shaping-the-future-of-games-workplaces"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17239,7 +17246,14 @@
     "2ef07d5f9356cb36d51480890b7f8ca8",
     "179ebf0be65318e9f13c54626bbbfdfb",
     "cead1b6799f9dceda724dd14a949f860",
-    "3c352cbc724dd74fac1f6e0deece1ea6"
+    "3c352cbc724dd74fac1f6e0deece1ea6",
+    "1e8361dd6996da6fdea0d77e16bedd10",
+    "a1f52b9bae0398d1077d0e0c91580d26",
+    "6d4e1eb5f42cf4534e58c755e97f8c08",
+    "5d38529042add401f2d461c0b5a10e9f",
+    "d0f75e33a76c61afc6604f71dac19088",
+    "b9b3845e6f1239e16173f77a3d30dc69",
+    "04e2ac2e518600d063ed00bf1bb9577b"
   ],
   "transfers": {
     "pages": {
@@ -21434,76 +21448,6 @@
   "sent_stories": [
     {
       "words": [
-        "backlash",
-        "director",
-        "good",
-        "have",
-        "marvel",
-        "online",
-        "problem",
-        "says",
-        "wolverine"
-      ],
-      "at": "2026-08-19T14:53:04.740267+00:00",
-      "message_id": "1539648414147416075",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Marvel’s Wolverine Director Says Online Backlash is a ‘Good Problem to Have’",
-      "link": "https://insider-gaming.com/marvels-wolverine-director-says-online-backlash-is-a-good-problem-to-have/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Marvel's Wolverine director has stated that he is pretty used to the online backlash and that it comes with the territory. The post Marvel’s Wolverine Director Says Online Backlash is a ‘Good Problem to Have’ appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "2025",
-        "could",
-        "gta",
-        "later",
-        "latest",
-        "leak"
-      ],
-      "at": "2026-08-19T14:53:04.740267+00:00",
-      "message_id": "1539648434238267524",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Latest GTA 6 Leak Could Be From 2025 Or Later",
-      "link": "https://insider-gaming.com/latest-gta-6-leak-could-be-from-2025-or-later/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Another Grand Theft Auto 6 leak has been shared online by CYBERLEEK, and it gives us a closer look at driving and melee combat. The post Latest GTA 6 Leak Could Be From 2025 Or Later appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "activision",
-        "anti",
-        "beta",
-        "cheat",
-        "guide",
-        "modern",
-        "releases",
-        "rules",
-        "strict",
-        "warfare"
-      ],
-      "at": "2026-08-19T14:53:04.740267+00:00",
-      "message_id": "1539648449081770016",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Global Esports News CoD"
-      ],
-      "title": "Modern Warfare 4 Beta: Activision Releases PC Guide for Strict Anti-Cheat Rules",
-      "link": "https://www.global-esports.news/call-of-duty/modern-warfare-4-beta-activision-releases-pc-guide-for-strict-anti-cheat-rules/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "To play the new shooter on a PC, TPM 2.0 and Secure Boot are required. An official tool is available to help with setup. Shortly beforethe first beta weekend for Call of Duty: Modern Warfare 4, Activision’s Ricochet anti-cheat team has spoken out. The developers havepublished a d"
-    },
-    {
-      "words": [
         "audience",
         "bigger",
         "convinced",
@@ -24452,6 +24396,167 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Team Rocket are set to take over in the newest set coming to Pokémon TCG Pocket, debuting Owner's Pokémon. The post New Pokémon TCG Pocket Set Focuses On Team Rocket appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "bfbs",
+        "final",
+        "grand",
+        "heads",
+        "league",
+        "london",
+        "museum",
+        "pro",
+        "raf"
+      ],
+      "at": "2026-08-20T15:04:34.097753+00:00",
+      "message_id": "1540013693558071309",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports News UK"
+      ],
+      "title": "BFBS Pro League Grand Final heads to RAF Museum London",
+      "link": "https://esports-news.co.uk/2026/08/20/bfbs-pro-league-grand-final-raf-museum-london/",
+      "color": 8141549,
+      "image_url": "https://esports-news.co.uk/wp-content/uploads/2026/08/image001-300x169.jpg",
+      "base_description": "The BFBS Pro League Grand Final will take place at the Royal Air Force Museum, London, on 27 September 2026. Organised by the British Forces Broadcasting Service (BFBS), the Pro League is an esports competition for the UK Armed Forces community. Eligible participants include serv"
+    },
+    {
+      "words": [
+        "aleksib",
+        "good",
+        "grinding",
+        "hope",
+        "just",
+        "keep",
+        "lose",
+        "need",
+        "not",
+        "prepared",
+        "twice"
+      ],
+      "at": "2026-08-20T15:04:34.097753+00:00",
+      "message_id": "1540013709248823347",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "Aleksib: \"Just need to be twice as good, twice as prepared, not lose hope and keep grinding\"",
+      "link": "https://www.hltv.org/news/45348/aleksib-just-need-to-be-twice-as-good-twice-as-prepared-not-lose-hope-and-keep-grinding",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/RejPCLg3NPVuXFLRWbR85r.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=37361ec422b018ec7fe0dd3702609689",
+      "base_description": "The Finnish captain rued his team's slow starts to both games."
+    },
+    {
+      "words": [
+        "billion",
+        "following",
+        "gta",
+        "leaks",
+        "loses",
+        "take",
+        "two",
+        "value"
+      ],
+      "at": "2026-08-20T15:04:34.097753+00:00",
+      "message_id": "1540013725422059584",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Take-Two Loses $2 Billion In Value Following GTA 6 Leaks",
+      "link": "https://insider-gaming.com/take-two-loses-2-billion-in-value-following-gta-6-leaks/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "It may not shock you to learn that Take-Two Interactive's stock has taken a sizable hit from the GTA 6 leaks, as it stands. The post Take-Two Loses $2 Billion In Value Following GTA 6 Leaks appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "against",
+        "ban",
+        "due",
+        "liquid",
+        "match",
+        "miss",
+        "vlad"
+      ],
+      "at": "2026-08-20T15:04:34.097753+00:00",
+      "message_id": "1540013741016490096",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "Vlad to miss match against Team Liquid due to ban",
+      "link": "https://www.vlr.gg/740208/vlad-to-miss-match-against-team-liquid-due-to-ban",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "FUT's Head Coach has been barred from participating in today's playoff match against Team Liquid."
+    },
+    {
+      "words": [
+        "announced",
+        "nordic",
+        "operation",
+        "siege",
+        "tier",
+        "tournament",
+        "vaknan"
+      ],
+      "at": "2026-08-20T15:04:34.097753+00:00",
+      "message_id": "1540013756942123091",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "Operation Vaknan Announced as New Nordic Siege Tier 2 Tournament",
+      "link": "https://www.hotspawn.com/rainbow-six/news/operation-vaknan",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/image-4-e1787236333680.png",
+      "base_description": "The Nordic Rainbow Six Siege community is about to get its own dedicated tournament in Operation Vaknan. Set to start in August, it will feature rising teams from across the Nordics, Europe, and MENA. The event will offer up high-stakes competition, prize money, and competitive c"
+    },
+    {
+      "words": [
+        "liga",
+        "ratings",
+        "revealed"
+      ],
+      "at": "2026-08-20T15:04:34.097753+00:00",
+      "message_id": "1540013772503130155",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "RealSport101"
+      ],
+      "title": "FC 27 La Liga & Liga F Ratings Revealed: Mbappé, Yamal, and Top Players Confirmed",
+      "link": "https://realsport101.com/article/fc-27-la-liga-liga-f-ratings-revealed-mbapp-yamal-and-top-players-confirmed",
+      "color": 8141549,
+      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/691ae7e1-la-liga-rating-fc-27.webp",
+      "base_description": "Explore official FC 27 player ratings for La Liga and Liga F! See who got upgraded or downgraded among Mbappé, Bonmatí, Yamal, and Clàudia Pina."
+    },
+    {
+      "words": [
+        "biz",
+        "dedicated",
+        "focus",
+        "future",
+        "gamesindustry",
+        "people",
+        "reveals",
+        "shaping",
+        "summit",
+        "workplace",
+        "workplaces"
+      ],
+      "at": "2026-08-20T15:04:34.097753+00:00",
+      "message_id": "1540013789448118407",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "GamesIndustry.biz HR Summit reveals new People and Workplace focus, dedicated to shaping the future of games workplaces",
+      "link": "https://www.gamesindustry.biz/gamesindustrybiz-hr-summit-reveals-new-people-and-workplace-focus-dedicated-to-shaping-the-future-of-games-workplaces",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/hr-summit-2025.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "This year's GamesIndustry.biz HR Summit, returning to the Royal Institution on October 1 , will have a new focus on People and Workplaces, with a series of sessions featuring, and speaking to, both HR professionals and business leaders on what the modern games workplace needs to "
     }
   ]
 }
