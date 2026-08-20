@@ -8602,7 +8602,10 @@
     "https://insider-gaming.com/first-the-duskbloods-gameplay-leaks-during-network-test/",
     "https://insider-gaming.com/fortnite-infiltrator-grace-crowne-style/",
     "https://europeangaming.eu/portal/latest-news/2026/08/20/212961/quinnbet-ukgc-regulatory-settlement/",
-    "https://www.invenglobal.com/articles/24956/hanwha-lifes-focus-shines-in-teamfights-sweeps-dk-2-0"
+    "https://www.invenglobal.com/articles/24956/hanwha-lifes-focus-shines-in-teamfights-sweeps-dk-2-0",
+    "https://insider-gaming.com/gta-6-leaker-proves-they-have-build-access/",
+    "https://www.gamesindustry.biz/inner-pocket-publishing-is-building-a-quiet-corner-for-people-who-love-thoughtful-single-player-games",
+    "https://www.invenglobal.com/articles/24957/this-is-the-worlds-shortest-horror-game"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17121,7 +17124,10 @@
     "871b582448c1189dee94394afc6c41ff",
     "158c49eea03c185c767456a96081e02e",
     "24c8c9903698f7880ee98d0e4989b7a6",
-    "9e204540e00e4f5acd12a34bfb83f2bd"
+    "9e204540e00e4f5acd12a34bfb83f2bd",
+    "a36fe3738d8ccc772adca99db13a77fe",
+    "bb9e9431ccd6a7cdc0f3d0a8e93ba617",
+    "acdf1e35ebe55a24555d4a425accdb62"
   ],
   "transfers": {
     "pages": {
@@ -21316,81 +21322,6 @@
   "sent_stories": [
     {
       "words": [
-        "also",
-        "coming",
-        "complete",
-        "hyung",
-        "netflix",
-        "production",
-        "rae",
-        "says",
-        "shim",
-        "surges",
-        "war",
-        "years"
-      ],
-      "at": "2026-08-19T10:24:16.358202+00:00",
-      "message_id": "1539580766579859499",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "'D-War' Surges on Netflix After 19 Years... Shim Hyung-rae Says \"D-War 2 Production Complete, Game Also Coming\"",
-      "link": "https://www.invenglobal.com/articles/24908/d-war-surges-on-netflix-after-19-years-shim-hyung-rae-says-d-war-2-production-complete-game-also-coming",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©Younggu TVAs director Shim Hyung-rae's 'D-War'—released on Netflix on August 7—is making an unexpected surge 19 years after its original theatrical release, Director Shim has draw......"
-    },
-    {
-      "words": [
-        "countdown",
-        "gta",
-        "leaker",
-        "leaks",
-        "next",
-        "reveals"
-      ],
-      "at": "2026-08-19T10:24:16.358202+00:00",
-      "message_id": "1539580780966060034",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "GTA 6 Leaker Reveals Countdown To Next Leaks",
-      "link": "https://insider-gaming.com/gta-6-leaker-reveals-countdown-to-next-leaks/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "If you thought the recent GTA 6 leaks were shocking, we apparently haven't seen anything yet, with more content set to be revealed. The post GTA 6 Leaker Reveals Countdown To Next Leaks appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "arknights",
-        "cool",
-        "developer",
-        "fall",
-        "flat",
-        "funding",
-        "human",
-        "hypergraph",
-        "launch",
-        "pretty",
-        "studio",
-        "veterans"
-      ],
-      "at": "2026-08-19T10:24:16.358202+00:00",
-      "message_id": "1539580795054719078",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "title": "Human: Fall Flat veterans launch new UK studio Pretty Cool Games with funding from Arknights developer Hypergraph",
-      "link": "https://www.gamesindustry.biz/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games-with-funding-from-arknights-developer-hypergraph",
-      "color": 8141549,
-      "image_url": "https://assetsio.gnwcdn.com/Pretty-Cool---Red.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "base_description": "Pretty Cool Games has been co-founded by Human: Fall Flat veterans Sitara Shefta (CEO) and Will Dudley (CCO) with the aim of building a sustainable studio that's fair to its employees and rewards them for their success. Read more"
-    },
-    {
-      "words": [
         "fought",
         "gen",
         "hard",
@@ -24239,6 +24170,73 @@
       "color": 8141549,
       "image_url": "https://media.europeangaming.eu/uploads/2026/08/QuinnBet-to-pay-609104-over-AML-and-customer-interaction-failings.jpg",
       "base_description": "The settlement includes a £193,118 disgorgement, and the Commission traced part of the failings to a platform migration… The post QuinnBet to pay £609,104 over AML and customer interaction failings appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "horror",
+        "shortest",
+        "world"
+      ],
+      "at": "2026-08-20T10:31:57.035286+00:00",
+      "message_id": "1539945087172087819",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "This Is the World's Shortest Horror Game",
+      "link": "https://www.invenglobal.com/articles/24957/this-is-the-worlds-shortest-horror-game",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "A game claiming to be the world's shortest horror game has made its debut...."
+    },
+    {
+      "words": [
+        "access",
+        "build",
+        "gta",
+        "have",
+        "leaker",
+        "proves",
+        "they"
+      ],
+      "at": "2026-08-20T10:31:57.035286+00:00",
+      "message_id": "1539945102905053375",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "GTA 6 Leaker ‘Proves’ They Have Build Access",
+      "link": "https://insider-gaming.com/gta-6-leaker-proves-they-have-build-access/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "In the fifth GTA 6 leak by CYBERLEEK, it appears that the user may have access to a build of the game due to some specific gameplay. The post GTA 6 Leaker ‘Proves’ They Have Build Access appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "building",
+        "corner",
+        "inner",
+        "love",
+        "people",
+        "player",
+        "pocket",
+        "publishing",
+        "quiet",
+        "single",
+        "thoughtful",
+        "who"
+      ],
+      "at": "2026-08-20T10:31:57.035286+00:00",
+      "message_id": "1539945117874393241",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "Inner Pocket Publishing is \"building a quiet corner for people who love thoughtful single-player games\"",
+      "link": "https://www.gamesindustry.biz/inner-pocket-publishing-is-building-a-quiet-corner-for-people-who-love-thoughtful-single-player-games",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/inner-pocket_LDEXKqN.png?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "A team of industry veterans from Critical Reflex, Gaijin Entertainment, and Nozomu Games has established the indie label Inner Pocket Publishing. Read more"
     }
   ]
 }
