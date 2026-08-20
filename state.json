@@ -8570,7 +8570,8 @@
     "https://www.invenglobal.com/articles/24943/dokkaebi-world-features-combat-without-class-restrictions",
     "https://www.invenglobal.com/articles/24942/ai-agent-introduced-supercats-next-gen-mmorpg-dokkaebi-world",
     "https://www.invenglobal.com/articles/24941/tim-sweeney-in-the-unreal-engine-6-era-we-expect-great-things-from-korean-developers",
-    "https://www.invenglobal.com/articles/24940/how-to-use-yukiko-amagi-that-even-crown-level-commanders-can-understand"
+    "https://www.invenglobal.com/articles/24940/how-to-use-yukiko-amagi-that-even-crown-level-commanders-can-understand",
+    "https://www.invenglobal.com/articles/24944/legend-of-ymir-updates-seasonal-3v3-pvp-arena-ranked-match"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17057,7 +17058,8 @@
     "9e2575a25e0e7895ccd2c29ec40d5a4b",
     "d80707a646a9317fd5f0e27dfa284e5b",
     "a11f6ef2ebf0556de9eb1e0c97473455",
-    "597fcac3b31752159d12facb3f4fe036"
+    "597fcac3b31752159d12facb3f4fe036",
+    "f136332ece235d84918b1075a17147e4"
   ],
   "transfers": {
     "pages": {
@@ -18936,7 +18938,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-19T23:17:55.078148+00:00",
+  "last_health_alert": "2026-08-20T05:24:41.853254+00:00",
   "recent_titles": [
     {
       "words": [
@@ -24313,6 +24315,29 @@
       "color": 8141549,
       "image_url": "https://gameriv.com/wp-content/uploads/2026/06/Jason-Schreier-Destiny-3.jpg",
       "base_description": "Bungie reportedly had as many as five or six games in development during its ambitious expansion period, but most of those projects eventually fell apart following Sony’s acquisition of the Destiny developer. According to Bloomberg reporter Jason Schreier, Bungie had “five or six"
+    },
+    {
+      "words": [
+        "3v3",
+        "arena",
+        "legend",
+        "match",
+        "pvp",
+        "ranked",
+        "seasonal",
+        "ymir"
+      ],
+      "at": "2026-08-20T05:24:37.756949+00:00",
+      "message_id": "1539867746664325232",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Legend of Ymir Updates Seasonal 3v3 PvP Arena Ranked Match",
+      "link": "https://www.invenglobal.com/articles/24944/legend-of-ymir-updates-seasonal-3v3-pvp-arena-ranked-match",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by Wemade © WemadeWemade (CEO Park Kwan-ho) updated its MMORPG \"Legend of Ymir\" today (20th) with new PvP (player vs...."
     }
   ]
 }
