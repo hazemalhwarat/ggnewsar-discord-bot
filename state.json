@@ -8559,7 +8559,11 @@
     "https://www.invenglobal.com/articles/24935/moonton-officially-launches-watcher-of-realms-assassins-creed-collaboration",
     "https://www.invenglobal.com/articles/24933/chaos-zero-nightmare-galactic-disaster-season-4-new-story-the-black-panther-left-uncared-for-update",
     "https://www.invenglobal.com/articles/24932/black-myth-zhong-kui-reveals-new-gameplay-video",
-    "https://www.invenglobal.com/articles/24934/head-coach-kim-sang-soo-we-identified-chavel-as-dnss-core-and-sought-to-neutralize-him"
+    "https://www.invenglobal.com/articles/24934/head-coach-kim-sang-soo-we-identified-chavel-as-dnss-core-and-sought-to-neutralize-him",
+    "https://www.invenglobal.com/articles/24939/star-savior-launches-metabasis-of-ashen-embers-update",
+    "https://www.invenglobal.com/articles/24938/kakao-games-holds-media-showcase-for-new-title-dokkaebi-world-pre-registration-begins-today",
+    "https://www.invenglobal.com/articles/24937/startou-unveils-new-idol-group-and-first-gameplay",
+    "https://www.invenglobal.com/articles/24895/nc-begins-cbt-recruitment-for-new-subculture-rpg-astrae-oratio"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17035,7 +17039,11 @@
     "8b267f0137147a56369b9973c314fa05",
     "ad31d248e35a9f6a30abaf5c2ce61b51",
     "2f7122dd9ab314896f55f1b1bbae1d24",
-    "de92f85b4c2ebb604c526680316b3e66"
+    "de92f85b4c2ebb604c526680316b3e66",
+    "5da2e7de15190eb2dae4d58df17fc5e9",
+    "5f3f1fa328bff3debee98ab9b1d5f79d",
+    "5865751d17cfc52d6b7b66faa42615cc",
+    "7515e6ac970e0497f63865303b8b1a3c"
   ],
   "transfers": {
     "pages": {
@@ -21230,57 +21238,6 @@
   "sent_stories": [
     {
       "words": [
-        "baseball",
-        "basis",
-        "batman",
-        "korean",
-        "launch",
-        "loaded",
-        "ninja",
-        "nintendo",
-        "ps5",
-        "switch"
-      ],
-      "at": "2026-08-19T04:07:23.340239+00:00",
-      "message_id": "1539485920238239768",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Ninja Baseball Batman: Basis Loaded to Launch in Korean for PS5 and Nintendo Switch 2",
-      "link": "https://www.invenglobal.com/articles/24894/ninja-baseball-batman-basis-loaded-to-launch-in-korean-for-ps5-and-nintendo-switch-2",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©CITY CONNECTION, IREMH2 Interactive (CEO Heo Jun-ha) announced that the Korean version of the belt scroller action game Ninja Baseball Batman: Basis Loaded, developed in coll......"
-    },
-    {
-      "words": [
-        "announced",
-        "august",
-        "doubled",
-        "duration",
-        "infinite",
-        "nine",
-        "patch",
-        "potion",
-        "redistribution",
-        "summary",
-        "wed"
-      ],
-      "at": "2026-08-19T04:07:23.340239+00:00",
-      "message_id": "1539485936650428438",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Infinite Potion Redistribution and Doubled 'Nine' Duration Announced! August 19 (Wed) Patch Summary",
-      "link": "https://www.invenglobal.com/articles/24893/infinite-potion-redistribution-and-doubled-nine-duration-announced-august-19-wed-patch-summary",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Sol: Enchantment (hereinafter 'Sol') released an update on Wednesday, August 19, featuring dungeon revamps and additional level-up benefits...."
-    },
-    {
-      "words": [
         "change",
         "digital",
         "dlc",
@@ -24108,6 +24065,74 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "TFT 4v4 is back! Here's how the TFT Tactician's Superbrawl works and why Riot Games is featuring the 4v4 format in an official esports tournament."
+    },
+    {
+      "words": [
+        "ashen",
+        "embers",
+        "launches",
+        "metabasis",
+        "savior",
+        "star"
+      ],
+      "at": "2026-08-20T04:09:42.718487+00:00",
+      "message_id": "1539848893326688287",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'Star Savior' Launches 'Metabasis of Ashen Embers' Update",
+      "link": "https://www.invenglobal.com/articles/24939/star-savior-launches-metabasis-of-ashen-embers-update",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by STUDIOBSIDE ©STUDIOBSIDESTUDIOBSIDE (CEO Ryu Geum-tae) announced today (August 20) that it has released the new event story update 'Metabasis of Ashen Embers' for its c......"
+    },
+    {
+      "words": [
+        "begins",
+        "dokkaebi",
+        "holds",
+        "kakao",
+        "media",
+        "pre",
+        "registration",
+        "showcase",
+        "title",
+        "today",
+        "world"
+      ],
+      "at": "2026-08-20T04:09:42.718487+00:00",
+      "message_id": "1539848907935326292",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Kakao Games Holds Media Showcase for New Title 'Dokkaebi World'... Pre-registration Begins Today",
+      "link": "https://www.invenglobal.com/articles/24938/kakao-games-holds-media-showcase-for-new-title-dokkaebi-world-pre-registration-begins-today",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by Kakao Games © Kakao GamesOn August 20, Kakao Games (co-CEOs Kim Tae-hwan and Lee Si-woo) held a media showcase for \"Dokkaebi World,\" a new 2.5D MMORPG currently under d......"
+    },
+    {
+      "words": [
+        "first",
+        "gameplay",
+        "group",
+        "idol",
+        "startou",
+        "unveils"
+      ],
+      "at": "2026-08-20T04:09:42.718487+00:00",
+      "message_id": "1539848923257118831",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'StarToU' Unveils New Idol Group and First Gameplay",
+      "link": "https://www.invenglobal.com/articles/24937/startou-unveils-new-idol-group-and-first-gameplay",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by StarToU©ElementaGlobal game developer and publisher Elementa announced that it has rebranded its upcoming immersive empathy 3D idol game, 'V Project', to 'StarToU', whi......"
     }
   ]
 }
