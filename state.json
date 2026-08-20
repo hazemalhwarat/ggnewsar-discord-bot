@@ -8725,7 +8725,8 @@
     "https://mp1st.com/title-updates-and-patches/black-ops-7-update-2-04-delivers-season-5-reloaded-on-aug-20",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEs3U1c3VVB5U3NXWUx2TEtqVWlVTFUyZS1MRWw4Mkt5MUZMd21EeVpnZXE5ZFotMEVUbWZxOW9CX1RUa3UyQ3BvLVRxTW9MWDNRQkhlTmw0ZnhKZEN1b1c4TC1XU09RZWNuOWdyX1M5U3RxWHZYOVVPbDk2OVFfQlFJN1dOeXp3OXFjanBGMDZOOTFhS0l3?oc=5",
     "https://insider-gaming.com/survival-rpg-scavland-early-access-september/",
-    "https://mp1st.com/title-updates-and-patches/black-ops-7-warzone-season-5-reloaded-update-1-105-fires-out-on-aug-20"
+    "https://mp1st.com/title-updates-and-patches/black-ops-7-warzone-season-5-reloaded-update-1-105-fires-out-on-aug-20",
+    "https://gameriv.com/fortnite-ahri-collab-leaked-with-new-league-of-legends-mythic-cyberpunk-weapons-and-midas-pistol/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17364,7 +17365,8 @@
     "03448f3209a8ab61b93d03591a3588dd",
     "0cb8d26e5410b51b8e0eeb97088df0df",
     "e9fce65c9844976d469732cf37eee3f1",
-    "9f1f500144c39dee9e4017e0b2cc4e8b"
+    "9f1f500144c39dee9e4017e0b2cc4e8b",
+    "64c06f33c4a6e88f29f03e92730159ea"
   ],
   "transfers": {
     "pages": {
@@ -24688,6 +24690,32 @@
       "color": 8141549,
       "image_url": "https://mp1st.com/wp-content/uploads/2026/06/Intergalactic-The-Heretic-Prophet-600x338.png",
       "base_description": "Having trouble viewing the text? You can always read the original article here: Black Ops 7 Update 2.04 Delivers Season 5 Reloaded on Aug. 20 Treyarch has dropped Season 5 Reloaded on Call of Duty: Black Ops 7, and this adds a new map, weapon and more. Console gamers will see thi"
+    },
+    {
+      "words": [
+        "ahri",
+        "collab",
+        "cyberpunk",
+        "fortnite",
+        "league",
+        "leaked",
+        "legends",
+        "midas",
+        "mythic",
+        "pistol",
+        "weapons"
+      ],
+      "at": "2026-08-20T22:20:14.071667+00:00",
+      "message_id": "1540123332299456515",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "Fortnite Ahri Collab Leaked With New League of Legends Mythic, Cyberpunk Weapons, and Midas Pistol",
+      "link": "https://gameriv.com/fortnite-ahri-collab-leaked-with-new-league-of-legends-mythic-cyberpunk-weapons-and-midas-pistol/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Fortnite Chapter 7 Season 4: Override is already packed with gaming crossovers, but Epic Games may have even more surprises lined up. Fresh leaks from prominent Fortnite dataminer HYPEX have revealed an upcoming League of Legends collaboration featuring Ahri, while new Cyberpunk:"
     }
   ]
 }
