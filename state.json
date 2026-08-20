@@ -8726,7 +8726,8 @@
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEs3U1c3VVB5U3NXWUx2TEtqVWlVTFUyZS1MRWw4Mkt5MUZMd21EeVpnZXE5ZFotMEVUbWZxOW9CX1RUa3UyQ3BvLVRxTW9MWDNRQkhlTmw0ZnhKZEN1b1c4TC1XU09RZWNuOWdyX1M5U3RxWHZYOVVPbDk2OVFfQlFJN1dOeXp3OXFjanBGMDZOOTFhS0l3?oc=5",
     "https://insider-gaming.com/survival-rpg-scavland-early-access-september/",
     "https://mp1st.com/title-updates-and-patches/black-ops-7-warzone-season-5-reloaded-update-1-105-fires-out-on-aug-20",
-    "https://gameriv.com/fortnite-ahri-collab-leaked-with-new-league-of-legends-mythic-cyberpunk-weapons-and-midas-pistol/"
+    "https://gameriv.com/fortnite-ahri-collab-leaked-with-new-league-of-legends-mythic-cyberpunk-weapons-and-midas-pistol/",
+    "https://gameriv.com/god-of-war-tv-show-officially-casts-dave-bautista-as-new-kratos/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17366,7 +17367,8 @@
     "0cb8d26e5410b51b8e0eeb97088df0df",
     "e9fce65c9844976d469732cf37eee3f1",
     "9f1f500144c39dee9e4017e0b2cc4e8b",
-    "64c06f33c4a6e88f29f03e92730159ea"
+    "64c06f33c4a6e88f29f03e92730159ea",
+    "b472e9f89f377cf3493f153116077ae1"
   ],
   "transfers": {
     "pages": {
@@ -24716,6 +24718,29 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Fortnite Chapter 7 Season 4: Override is already packed with gaming crossovers, but Epic Games may have even more surprises lined up. Fresh leaks from prominent Fortnite dataminer HYPEX have revealed an upcoming League of Legends collaboration featuring Ahri, while new Cyberpunk:"
+    },
+    {
+      "words": [
+        "bautista",
+        "casts",
+        "dave",
+        "god",
+        "kratos",
+        "officially",
+        "show",
+        "war"
+      ],
+      "at": "2026-08-20T22:54:00.093810+00:00",
+      "message_id": "1540131830286516325",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "God of War TV Show Officially Casts Dave Bautista as New Kratos",
+      "link": "https://gameriv.com/god-of-war-tv-show-officially-casts-dave-bautista-as-new-kratos/",
+      "color": 8141549,
+      "image_url": "https://gameriv.com/wp-content/uploads/2022/11/God-of-war-Ragnarok-Shields-1-1-1.jpg",
+      "base_description": "Dave Bautista is officially stepping into the role of Kratos in Prime Video’s upcoming live-action God of War series. The former WWE star and Guardians of the Galaxy actor will replace Ryan Hurst, who was forced to leave the production after suffering a serious injury while filmi"
     }
   ]
 }
