@@ -8693,7 +8693,8 @@
     "https://stealthoptional.com/article/fc-27-la-liga-liga-f-ratings-revealed-mbapp-yamal-and-top-players-confirmed",
     "https://stealthoptional.com/article/fc-26-rewind-promo-leaks-release-date-leaked-player-list-overview",
     "https://stealthoptional.com/article/nba-2k27-myplayer-builder-revealed-female-myplayers-badge-tokens-synergy",
-    "https://www.invenglobal.com/articles/24966/io-interactives-007-first-light-surpasses-4-million-copies-sold"
+    "https://www.invenglobal.com/articles/24966/io-interactives-007-first-light-surpasses-4-million-copies-sold",
+    "https://www.hotspawn.com/dota2/news/the-international-15-playoffs-day-2-preview"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17300,7 +17301,8 @@
     "b7298953e7431174520e8aea8d264e09",
     "15623903cf2d67e916b5e8ff58f75cb4",
     "d340ea02f0c849d2793358a4256c055c",
-    "6d621a5172c54e31dd74574afeb506c9"
+    "6d621a5172c54e31dd74574afeb506c9",
+    "472f6d6b06a0c84fc1befc357dd904ea"
   ],
   "transfers": {
     "pages": {
@@ -21493,97 +21495,6 @@
     }
   ],
   "sent_stories": [
-    {
-      "words": [
-        "ewc",
-        "fut",
-        "magic",
-        "make",
-        "quarters",
-        "reverse",
-        "sweep"
-      ],
-      "at": "2026-08-19T17:49:57.598803+00:00",
-      "message_id": "1539692927478009857",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "FUT reverse-sweep magic to make EWC quarters",
-      "link": "https://www.hltv.org/news/45340/fut-reverse-sweep-magic-to-make-ewc-quarters",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/6ex2rYT5rw5So9YvMnWUK8.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=2f088116398622152b9909104af37bf0",
-      "base_description": "magic won several clutches throughout the series to make it a battle, but couldn't overcome a better overall showing from FUT on Anubis and Mirage."
-    },
-    {
-      "words": [
-        "bladepoint",
-        "collab",
-        "gets",
-        "hearthstone",
-        "hilarious",
-        "naraka"
-      ],
-      "at": "2026-08-19T17:49:57.598803+00:00",
-      "message_id": "1539692942653132821",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "Hearthstone gets hilarious Naraka Bladepoint collab: “Wow!”",
-      "link": "https://esports.gg/news/hearthstone/hearthstone-gets-hilarious-naraka-bladepoint-collab-wow/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "The Naraka Bladepoint x Hearthstone collaboration includes a Baby Murloc hat, the \"Wow\" voice bubble, and more."
-    },
-    {
-      "words": [
-        "benches",
-        "bin",
-        "blg",
-        "flandre",
-        "lgd",
-        "lpl",
-        "match",
-        "returns"
-      ],
-      "at": "2026-08-19T17:49:57.598803+00:00",
-      "message_id": "1539692958050418730",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Bin Returns to BLG and Benches Flandre For LPL Match vs LGD",
-      "link": "https://insider-gaming.com/bin-returns-blg-lpl-flandre-benched/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "The LPL has confirmed that Bin will return to competitive play and start for BLG against LDG Gaming with Flandre dropped after just 10 days. The post Bin Returns to BLG and Benches Flandre For LPL Match vs LGD appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "exactly",
-        "fallen",
-        "franchise",
-        "have",
-        "might",
-        "mpl",
-        "need",
-        "regions",
-        "they",
-        "what"
-      ],
-      "at": "2026-08-19T17:49:57.598803+00:00",
-      "message_id": "1539692973015433338",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "The MPL Franchise Regions Have Fallen And That Might Be Exactly What They Need",
-      "link": "https://www.hotspawn.com/mlbb/news/the-mpl-franchise-regions-have-fallen-and-that-might-be-exactly-what-they-need",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/ll-e1787160338579.jpg",
-      "base_description": "For years, Mobile Legends: Bang Bang has revolved around three MPL franchise regions: the Philippines, Indonesia, and Malaysia. The MPL regions have produced some of the game’s greatest teams, players, and champions, creating a dynasty in their own rights that has often placed So"
-    },
     {
       "words": [
         "can",
