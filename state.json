@@ -8677,7 +8677,13 @@
     "https://www.hotspawn.com/counter-strike/news/esports-world-cup-2026-round-of-16-day-2",
     "https://www.hotspawn.com/fortnite/news/fortnite-c7-s4-loot-pool",
     "https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYnFIQTdyTnlYdXo5WmRTdmI4VUJOaC1ILUlMQjhnUExqSVRRMjZfVUZFbHdiUUhfZVFfSW9Rd2pUcGFmT2FTWWlrSzNNLVVPV1RhZEo1V0lwUmJFUTBmbFNhdzN2d2hqVS12eVhkaTJfNi1lTTZGejFZNmc3RE0?oc=5"
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYnFIQTdyTnlYdXo5WmRTdmI4VUJOaC1ILUlMQjhnUExqSVRRMjZfVUZFbHdiUUhfZVFfSW9Rd2pUcGFmT2FTWWlrSzNNLVVPV1RhZEo1V0lwUmJFUTBmbFNhdzN2d2hqVS12eVhkaTJfNi1lTTZGejFZNmc3RE0?oc=5",
+    "https://dotesports.com/hardware/reviews/razer-huntsman-v3-pro-low-profile-review",
+    "https://dotesports.com/fnaf/news/five-nights-at-freddys-fnaf-fortnite-teaser-building-map-restaurant-fazbear",
+    "https://www.vlr.gg/740251/tyloo-nova-will-face-each-other-in-playoff-lowers",
+    "https://esports.gg/news/overwatch/blizzcon-2026-welcomes-t-pain-deadmau5-yoasobi-le-sserafim-and-more/",
+    "https://www.nerfplz.com/2026/10/lol-dragons-explained-10-things-pit.html",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVW12QTUxc3ZQa3YyYVFmZm5RWkZnRUd4ZUVKRzJTcUlpUVlLNzhXalY3Z0tGTFZPc3NoU3EwXzc5TjBFSnJmdkZKSGZ3NE1XZm50ejNpanAzQ3VxSkc2RWVPOXVLNFhUSWRLLUVzOXA5Wk9zRl84T3pwZHBjZHFUbHFrYmFLRFBHTDI3c0VDTGJ0RXFNa3NIdllhS2xYMHE1?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17271,7 +17277,13 @@
     "a17f97198e2aed25db702d8674485c1f",
     "cdf8bb30e9539a6dd876655477626ae0",
     "bf89ce3d38d2437cf2b504f24055f394",
-    "f0c1594173f22537a3a1d1c989e45f40"
+    "f0c1594173f22537a3a1d1c989e45f40",
+    "0e970d7a75f13f8aa35a6255bb832ee4",
+    "0593aa1753e62061137727039536b71b",
+    "ce43f6f7617d750f2b41c39bd05ed6b0",
+    "ffee99bd1b5f8ea716efae62d77d90c9",
+    "1095669c80c083f192787c8b671049ed",
+    "673d257d21fd35533093a5df584412fc"
   ],
   "transfers": {
     "pages": {
@@ -21466,143 +21478,6 @@
   "sent_stories": [
     {
       "words": [
-        "cup",
-        "issues",
-        "nations",
-        "over",
-        "postponement",
-        "questions",
-        "remain",
-        "rosters",
-        "statement"
-      ],
-      "at": "2026-08-19T15:56:45.697309+00:00",
-      "message_id": "1539664441254346846",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports News UK"
-      ],
-      "title": "Team GB issues statement on Esports Nations Cup postponement as questions remain over rosters",
-      "link": "https://esports-news.co.uk/2026/08/19/team-gb-statement-esports-nations-cup-postponement/",
-      "color": 8141549,
-      "image_url": "https://esports-news.co.uk/wp-content/uploads/2021/02/british-esports-association-300x143.jpg",
-      "base_description": "British Esports has issued a statement following the postponement of the inaugural Esports Nations Cup (ENC), with questions remaining over what the year-long delay means for Team GB’s existing player selections. The statement, published yesterday on the British Esports website, "
-    },
-    {
-      "words": [
-        "gameplay",
-        "pass",
-        "redesign",
-        "revamped",
-        "ufl"
-      ],
-      "at": "2026-08-19T15:56:45.697309+00:00",
-      "message_id": "1539664458509455433",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "RealSport101"
-      ],
-      "title": "UFL Update v0.74.0: Revamped Gameplay, New Team Pass & UI Redesign",
-      "link": "https://realsport101.com/article/ufl-update-v0740-revamped-gameplay-new-team-pass-ui-redesign",
-      "color": 8141549,
-      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/18f9a758-ufl-new-season-teaser-1920x1080.webp",
-      "base_description": "Discover all key changes in UFL Update v0.74.0, including gameplay overhauls, manual defense fixes, the Urban Style Team Pass, and redesigned menus."
-    },
-    {
-      "words": [
-        "furniture",
-        "gaming",
-        "ikea",
-        "tease",
-        "themed",
-        "xbox"
-      ],
-      "at": "2026-08-19T16:23:35.144183+00:00",
-      "message_id": "1539671190577225750",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "Inven Global (English)"
-      ],
-      "title": "XBOX and IKEA Tease New Gaming-Themed Furniture",
-      "link": "https://insider-gaming.com/xbox-and-ikea-tease-new-gaming-themed-furniture/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "XBOX and IKEA have announced a new collaboration, teasing different types of gaming-themed furniture. Here are more details. The post XBOX and IKEA Tease New Gaming-Themed Furniture appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "boaster",
-        "confirm",
-        "crashies",
-        "departure",
-        "fnatic",
-        "media",
-        "post",
-        "seems",
-        "social"
-      ],
-      "at": "2026-08-19T16:23:35.144183+00:00",
-      "message_id": "1539671205660069909",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Boaster Seems to Confirm crashies Fnatic Departure in Social Media Post",
-      "link": "https://insider-gaming.com/boaster-seems-to-confirm-crashies-fnatic-departure-in-social-media-post/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "An Instagram post by Fnatic In-Game Leader Boaster has seemingly confirmed the departure of crashies from the Fnatic Valorant roster. The post Boaster Seems to Confirm crashies Fnatic Departure in Social Media Post appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "2k27",
-        "arc",
-        "eras",
-        "historic",
-        "mode",
-        "mycareer",
-        "nba",
-        "revealed",
-        "story"
-      ],
-      "at": "2026-08-19T16:23:35.144183+00:00",
-      "message_id": "1539671220184944645",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "RealSport101"
-      ],
-      "title": "NBA 2K27 MyCAREER Revealed: Historic Eras, Co-Op Mode, & New Story Arc",
-      "link": "https://realsport101.com/article/nba-2k27-mycareer-revealed-historic-eras-co-op-mode-new-story-arc",
-      "color": 8141549,
-      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/bec2272e-nba2k27_csr-mycareer_lebron-era_1920x1080.webp",
-      "base_description": "Explore all major MyCAREER changes in NBA 2K27! Breakdown of 5 historical Eras, the 11-chapter story, flexible draft rules, and co-op mechanics."
-    },
-    {
-      "words": [
-        "baron",
-        "buff",
-        "forms",
-        "guide",
-        "nashor",
-        "spawn",
-        "three",
-        "timers"
-      ],
-      "at": "2026-08-19T16:23:35.144183+00:00",
-      "message_id": "1539671234973802579",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Nerfplz"
-      ],
-      "title": "Baron Nashor Guide: Spawn Timers, the Three Forms and the Buff",
-      "link": "https://www.nerfplz.com/2026/10/baron-nashor-guide-spawn-timers-three.html",
-      "color": 8141549,
-      "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.12,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg",
-      "base_description": "Baron is not a health bar with a timer on it. He picks a form, rebuilds his own pit, decides which of your five he's soft on, and hands out a buff that belongs to your minions more than it belongs to you. Here's the whole objective, start to finish. League of Legends Guide Baron "
-    },
-    {
-      "words": [
         "bilibili",
         "continue",
         "gaming",
@@ -24662,6 +24537,94 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/physical-games-storefont.jpg?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "US physical software sales fell to $85 million in July, the lowest monthly total since Circana began tracking in 1995. Read more"
+    },
+    {
+      "words": [
+        "huntsman",
+        "low",
+        "pro",
+        "profile",
+        "razer",
+        "review"
+      ],
+      "at": "2026-08-20T16:26:41.685479+00:00",
+      "message_id": "1540034361112404051",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "Razer Huntsman V3 Pro Low Profile review: For the Pros",
+      "link": "https://dotesports.com/hardware/reviews/razer-huntsman-v3-pro-low-profile-review",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/huntsman-low-profile-on-table.webp",
+      "base_description": "The Huntsman's first foray into the Low Profile form factor."
+    },
+    {
+      "words": [
+        "appeared",
+        "five",
+        "fortnite",
+        "freddy",
+        "have",
+        "nights",
+        "teasers"
+      ],
+      "at": "2026-08-20T16:26:41.685479+00:00",
+      "message_id": "1540034376744575068",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "Five Nights at Freddy’s teasers have appeared in Fortnite",
+      "link": "https://dotesports.com/fnaf/news/five-nights-at-freddys-fnaf-fortnite-teaser-building-map-restaurant-fazbear",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2023/09/Five-Nights-at-Freddys.jpg",
+      "base_description": "One pizzeria hints towards a collab."
+    },
+    {
+      "words": [
+        "2026",
+        "blizzcon",
+        "deadmau5",
+        "more",
+        "pain",
+        "sserafim",
+        "welcomes",
+        "yoasobi"
+      ],
+      "at": "2026-08-20T16:26:41.685479+00:00",
+      "message_id": "1540034391806582826",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "BlizzCon 2026 welcomes T-Pain, deadmau5, YOASOBI, LE SSERAFIM, and more",
+      "link": "https://esports.gg/news/overwatch/blizzcon-2026-welcomes-t-pain-deadmau5-yoasobi-le-sserafim-and-more/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "BlizzCon 2026's celebrity lineup features T-Pain, Simu Liu, deadmau5, Duke Dennis, and Khleo Thomas. The event also includes performances by YOASOBI and LE SSERAFIM."
+    },
+    {
+      "words": [
+        "dragon",
+        "elder",
+        "elemental",
+        "guide",
+        "lol",
+        "rifts",
+        "soul"
+      ],
+      "at": "2026-08-20T16:26:41.685479+00:00",
+      "message_id": "1540034407069388891",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Nerfplz"
+      ],
+      "title": "LoL Dragon Guide: Elemental Rifts, Dragon Soul and Elder Dragon",
+      "link": "https://www.nerfplz.com/2026/10/lol-dragons-explained-10-things-pit.html",
+      "color": 8141549,
+      "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.14,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_4.jpg",
+      "base_description": "Dragons are two objectives wearing one health bar: a buff race everyone watches, and a map editor that fires twice and then locks. Here's every element, every soul, and what the pit is really asking you to do. League of Legends Guide Dragons & Elemental Rifts Summoner's Rift Obje"
     }
   ]
 }
