@@ -8706,7 +8706,12 @@
     "https://insider-gaming.com/golden-axe-animated-series-paramount-plus-trailer/",
     "https://www.vlr.gg/740467/monsi-joins-shopify-rebellion-gold-as-head-coach",
     "https://realsport101.com/article/nba-2k27-early-access-start-date-times-how-to-play-early",
-    "https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live"
+    "https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live",
+    "https://dotesports.com/2xko/news/2xko-riot-ends-development-december-2026",
+    "https://insider-gaming.com/riot-ends-2xko-development-servers-online/",
+    "https://esports.gg/guides/fortnite/how-to-get-the-crown-sprite-in-fortnite-override/",
+    "https://realsport101.com/article/fc-26-rewind-promo-leaked-sbc-players-card-upgrades-pre-season-details",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSURabDg4WENvSklITWxvYzF2U2xQbmFWZ2NOTlpYdDc3VjVXSjRKRUh0NWUzbVdCX2g0ZWJETGRHREZmZEdMdTlDeHNqc2RKYTNleTFybkxMVUwzYUhxbzM5VVBWY3E2Z2tXTDVyRHFqRThuZlo3ZlROcWNoX1lQT0FfdnBxMjhOWDZldUZDaXVxNjNBSzdYaEJobWJYZmZwVXlEWVU3cVFRZDJo0gGsAUFVX3lxTE5JRFpsODhYQ29KSUhNbG9jMXZTbFBuYVZnY05OWlh0NzdWNVdKNEpFSHQ1ZTNtV0JfaDRlYkRMZEdERmZkR0x1OUN4c2pzZEphM2V5MXJuTExVTDNhSHFvMzlVUFZjcTZna1dMNXJEcWpFOG5mWjdmVE5xY2hfWVBPQV92cHEyOE5YNmV1RkNpdXE2M0FLN1hoQmhtYlhmZnBVeURZVTdxUVFkMmg?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17326,7 +17331,12 @@
     "b599a9cc0b64ad664617c7fe038e6b9f",
     "141da937f1dd5671638b090e8b548fc8",
     "48206ab50ad9236280f0e3dd591eb9bd",
-    "306ed6c458a1d594c05766dbbd870a7d"
+    "306ed6c458a1d594c05766dbbd870a7d",
+    "e7b601bffe0fa49bb389bc90fb47b06c",
+    "4a6f2e8b699546bd14e439d6d60eea2f",
+    "9020d57a02ffa32b5dd8a0ef732592e6",
+    "b870fc542deb4c5f006c06a01e2e5449",
+    "0ac17b3684e17776c7117d84ae84910e"
   ],
   "transfers": {
     "pages": {
@@ -21521,51 +21531,6 @@
   "sent_stories": [
     {
       "words": [
-        "adds",
-        "cyclops",
-        "daredevil",
-        "marvel",
-        "patch",
-        "phoenix",
-        "rivals",
-        "skins"
-      ],
-      "at": "2026-08-19T19:37:58.689064+00:00",
-      "message_id": "1539720111655620679",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Marvel Rivals Patch Adds Cyclops, Phoenix and Daredevil Skins",
-      "link": "https://insider-gaming.com/marvel-rivals-patch-adds-cyclops-phoenix-and-daredevil-skins/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Marvel Rivals’ upcoming update on August 20 adds Cyclops, Phoenix, and Daredevil bundles, while fixing Lady Loki animation issues and a Hela movement bug. The post Marvel Rivals Patch Adds Cyclops, Phoenix and Daredevil Skins appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "does",
-        "downtime",
-        "end",
-        "fortnite",
-        "today",
-        "when"
-      ],
-      "at": "2026-08-19T19:37:58.689064+00:00",
-      "message_id": "1539720134136963173",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn",
-        "Insider Gaming"
-      ],
-      "title": "When Does the Fortnite Downtime End Today?",
-      "link": "https://www.hotspawn.com/fortnite/news/fortnite-downtime-end-c7-s4",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Fortnite-Override-Battle-Pass2.webp",
-      "base_description": "When does the Fortnite downtime end? The current season has come to an end, players will have to wait through a brief bit of downtime before the game comes back. We aren’t expecting the current Fortnite season to take things offline for a whole day like the black hole event back "
-    },
-    {
-      "words": [
         "features",
         "gameplay",
         "gta",
@@ -24739,6 +24704,57 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/gamescome_opening_night_live_2025.jpg?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "In a press pre-briefing ahead of next week's Gamescom conference, Geoff Keighley has shed some light on the process of how trailers are selected for the Opening Night Live digital showcase, which will take place on Tuesday. Read more"
+    },
+    {
+      "words": [
+        "2xko",
+        "active",
+        "console",
+        "development",
+        "ending",
+        "launch",
+        "less",
+        "riot",
+        "than",
+        "year"
+      ],
+      "at": "2026-08-20T19:56:21.361881+00:00",
+      "message_id": "1540087124446019656",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports",
+        "Insider Gaming"
+      ],
+      "title": "Riot is ending active development on 2XKO less than a year after console launch",
+      "link": "https://dotesports.com/2xko/news/2xko-riot-ends-development-december-2026",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/01/Unlock-Jinx-2XKO.jpg",
+      "base_description": "Riot Games sunsets its fighting game."
+    },
+    {
+      "words": [
+        "card",
+        "details",
+        "leaked",
+        "players",
+        "pre",
+        "promo",
+        "rewind",
+        "sbc",
+        "season",
+        "upgrades"
+      ],
+      "at": "2026-08-20T19:56:21.361881+00:00",
+      "message_id": "1540087145207701516",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "RealSport101"
+      ],
+      "title": "FC 26 Rewind Promo: Leaked SBC Players, Card Upgrades, & Pre-Season Details",
+      "link": "https://realsport101.com/article/fc-26-rewind-promo-leaked-sbc-players-card-upgrades-pre-season-details",
+      "color": 8141549,
+      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/1bc3fc0e-fc-26-rewind-sbc-&-objective.webp",
+      "base_description": "Discover leaked FC 26 Rewind SBC and Objective players! Check out the rumored roster featuring Rafael Leão and Trent Alexander-Arnold."
     }
   ]
 }
