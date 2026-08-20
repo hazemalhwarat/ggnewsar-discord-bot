@@ -8668,7 +8668,16 @@
     "https://www.vlr.gg/740208/vlad-to-miss-match-against-team-liquid-due-to-ban",
     "https://www.hotspawn.com/rainbow-six/news/operation-vaknan",
     "https://realsport101.com/article/fc-27-la-liga-liga-f-ratings-revealed-mbapp-yamal-and-top-players-confirmed",
-    "https://www.gamesindustry.biz/gamesindustrybiz-hr-summit-reveals-new-people-and-workplace-focus-dedicated-to-shaping-the-future-of-games-workplaces"
+    "https://www.gamesindustry.biz/gamesindustrybiz-hr-summit-reveals-new-people-and-workplace-focus-dedicated-to-shaping-the-future-of-games-workplaces",
+    "https://www.hltv.org/news/45350/vitality-send-faze-home-from-ewc-to-secure-matchup-with-spirit",
+    "https://www.hltv.org/news/45349/spirit-move-past-b8-at-ewc",
+    "https://www.vlr.gg/740251/tyloo-nova-will-face-each-other-next-in-playoff-lowers",
+    "https://insider-gaming.com/navi-b1ad3-interview-esports-world-c/",
+    "https://insider-gaming.com/the-duskbloods-release-date-might-have-accidentally-been-revealed/",
+    "https://www.hotspawn.com/counter-strike/news/esports-world-cup-2026-round-of-16-day-2",
+    "https://www.hotspawn.com/fortnite/news/fortnite-c7-s4-loot-pool",
+    "https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYnFIQTdyTnlYdXo5WmRTdmI4VUJOaC1ILUlMQjhnUExqSVRRMjZfVUZFbHdiUUhfZVFfSW9Rd2pUcGFmT2FTWWlrSzNNLVVPV1RhZEo1V0lwUmJFUTBmbFNhdzN2d2hqVS12eVhkaTJfNi1lTTZGejFZNmc3RE0?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17253,7 +17262,16 @@
     "5d38529042add401f2d461c0b5a10e9f",
     "d0f75e33a76c61afc6604f71dac19088",
     "b9b3845e6f1239e16173f77a3d30dc69",
-    "04e2ac2e518600d063ed00bf1bb9577b"
+    "04e2ac2e518600d063ed00bf1bb9577b",
+    "7f22eaf03b32e601493e3c3a88cb0215",
+    "fa2a06d3301b3cdd36327aad56856cc4",
+    "3c5639792c97ea7171fe661ebb57a795",
+    "5c995582f9bb859653e4c325b86c0b04",
+    "b8c2ab8a97285184ae8d18c620383f90",
+    "a17f97198e2aed25db702d8674485c1f",
+    "cdf8bb30e9539a6dd876655477626ae0",
+    "bf89ce3d38d2437cf2b504f24055f394",
+    "f0c1594173f22537a3a1d1c989e45f40"
   ],
   "transfers": {
     "pages": {
@@ -21448,37 +21466,6 @@
   "sent_stories": [
     {
       "words": [
-        "audience",
-        "bigger",
-        "convinced",
-        "even",
-        "find",
-        "matt",
-        "more",
-        "niches",
-        "people",
-        "play",
-        "star",
-        "tiniest",
-        "want",
-        "wars",
-        "webster",
-        "why"
-      ],
-      "at": "2026-08-19T15:24:44.604331+00:00",
-      "message_id": "1539656382717108327",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "title": "\"As more people play games, even the tiniest niches find a bigger audience\" – Why Matt Webster is convinced people want Star Wars: Galactic Racer",
-      "link": "https://www.gamesindustry.biz/as-more-people-play-games-even-the-tiniest-niches-find-a-bigger-audience-why-matt-webster-is-convinced-people-want-star-wars-galactic-racer",
-      "color": 8141549,
-      "image_url": "https://assetsio.gnwcdn.com/SWGR_PR_10.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "base_description": "Matt Webster looked set to be a lifer at Electronic Arts. He joined the firm way back in 1990, and spent nearly two decades working at Burnout and Need for Speed maker Criterion, which EA bought in 2004. Read more"
-    },
-    {
-      "words": [
         "cup",
         "issues",
         "nations",
@@ -24074,7 +24061,9 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "Dot Esports",
-        "Esports Nations Cup 2026"
+        "Esports Nations Cup 2026",
+        "Hotspawn",
+        "Al-Ahli Esports (Saudi, new CS2 roster June 2026)"
       ],
       "title": "Overwatch World Cup 2026: Schedule, results, teams, and format",
       "link": "https://dotesports.com/overwatch/news/overwatch-world-cup-2026-results",
@@ -24557,6 +24546,122 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/hr-summit-2025.jpg?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "This year's GamesIndustry.biz HR Summit, returning to the Royal Institution on October 1 , will have a new focus on People and Workplaces, with a series of sessions featuring, and speaking to, both HR professionals and business leaders on what the modern games workplace needs to "
+    },
+    {
+      "words": [
+        "ewc",
+        "faze",
+        "home",
+        "matchup",
+        "secure",
+        "send",
+        "spirit",
+        "vitality"
+      ],
+      "at": "2026-08-20T15:48:57.608503+00:00",
+      "message_id": "1540024864746905713",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "Vitality send FaZe home from EWC to secure matchup with Spirit",
+      "link": "https://www.hltv.org/news/45350/vitality-send-faze-home-from-ewc-to-secure-matchup-with-spirit",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/sR2y6O24ZOQk4EgiwwyauP.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=1f6a49767ed2d88580bf4ef45b479c71",
+      "base_description": "A statement win on Cache, a map FaZe have been successful early adopters of, sends Vitality through to the quarter-finals."
+    },
+    {
+      "words": [
+        "each",
+        "face",
+        "lowers",
+        "next",
+        "nova",
+        "other",
+        "playoff",
+        "tyloo",
+        "will"
+      ],
+      "at": "2026-08-20T15:48:57.608503+00:00",
+      "message_id": "1540024879645065349",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "TYLOO, Nova will face each other next in playoff lowers",
+      "link": "https://www.vlr.gg/740251/tyloo-nova-will-face-each-other-next-in-playoff-lowers",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "TYLOO and Nova Esports won their respective matches against All Gamers and Xi Lai Gaming in the VCT China 2026 Stage 2 playoffs, eliminating both teams from the tournament."
+    },
+    {
+      "words": [
+        "cannot",
+        "like",
+        "never",
+        "play",
+        "today",
+        "win",
+        "you"
+      ],
+      "at": "2026-08-20T15:48:57.608503+00:00",
+      "message_id": "1540024894295642245",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "“You cannot win if you play like today. You cannot. Never.” – B1ad3 on NAVI EWC Loss to Legacy",
+      "link": "https://insider-gaming.com/navi-b1ad3-interview-esports-world-c/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Insider Gaming spoke to NAVI Head Coach Andrii 'B1ad3' Horodenskyi after NAVI's harrowing 9-13, 2-13 EWC 2026 defeat to Legacy. The post “You cannot win if you play like today. You cannot. Never.” – B1ad3 on NAVI EWC Loss to Legacy appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "accidentally",
+        "been",
+        "date",
+        "debunked",
+        "duskbloods",
+        "have",
+        "might",
+        "release",
+        "revealed"
+      ],
+      "at": "2026-08-20T15:48:57.608503+00:00",
+      "message_id": "1540024909474963469",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "[DEBUNKED] The Duskbloods Release Date Might Have Accidentally Been Revealed",
+      "link": "https://insider-gaming.com/the-duskbloods-release-date-might-have-accidentally-been-revealed/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The Duskbloods release date has seemingly been revealed ahead of schedule, as September looks to get even more packed. The post [DEBUNKED] The Duskbloods Release Date Might Have Accidentally Been Revealed appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "1995",
+        "drop",
+        "lowest",
+        "monthly",
+        "physical",
+        "sales",
+        "since",
+        "total"
+      ],
+      "at": "2026-08-20T15:48:57.608503+00:00",
+      "message_id": "1540024929771200523",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "US physical game sales drop to lowest monthly total since 1995 | US Monthly Charts",
+      "link": "https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/physical-games-storefont.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "US physical software sales fell to $85 million in July, the lowest monthly total since Circana began tracking in 1995. Read more"
     }
   ]
 }
