@@ -8623,7 +8623,16 @@
     "https://insider-gaming.com/black-myth-zhong-kui-15-minute-trailer-revealed-by-game-science/",
     "https://www.hotspawn.com/fortnite/news/fortnite-c7-season-4-patch-notes",
     "https://esportsradar.gg/g2-esports-partners-with-team-falcons-for-no-refunds-collection/",
-    "https://realsport101.com/article/fc-26-rewind-promo-leaks-release-date-leaked-player-list-overview"
+    "https://realsport101.com/article/fc-26-rewind-promo-leaks-release-date-leaked-player-list-overview",
+    "https://dotesports.com/mobile-legends/news/mpl-ph-season-18-rosters-teams-players",
+    "https://insider-gaming.com/modern-warfare-4-pre-orders-being-advertised-for-wrong-platforms/",
+    "https://www.hotspawn.com/counter-strike/news/best-mogul-gloves-knife-combos-in-cs2",
+    "https://esports.gg/news/valorant/vct-2026-emea-stage-2-playoffs-champions-qualification/",
+    "https://esports.gg/news/dplus-kia-coach-kim-positives-loss-hle/",
+    "https://esports.gg/guides/fortnite/fortnite-chapter-7-season-4-sprites/",
+    "https://esportsradar.gg/hamilton-day-joins-mega-advanced-as-partnerships-director/",
+    "https://www.nerfplz.com/2026/08/top-10-champions-who-carry-without.html",
+    "https://www.invenglobal.com/articles/24959/nongshim-defeats-krx-2-0-to-advance-to-play-ins"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17163,7 +17172,16 @@
     "ab4b3be78aff65d0afbc594e94023c32",
     "b326ecb11e11702fd31359702bc2c49d",
     "90759e85775d86bb51c5fb06ad8e7447",
-    "c8a913f99e02d7139c0cde3b75fd7f37"
+    "c8a913f99e02d7139c0cde3b75fd7f37",
+    "bb86a683def407183954296c5c3d84fe",
+    "411c3e89e361e03cdf27d3e0fb3ae29d",
+    "4e16a642fa2a9b05c2f89417e1396283",
+    "17b8f5fec27b28d36cc8df1aac1008c9",
+    "56200184a0fcba647cbe29336716ec06",
+    "84c61f38c72df60cb85d30997b651c21",
+    "1a6ae04cf8b79b34126d92e101625b7d",
+    "ab41beb6ee50090b09344ceecacd091c",
+    "c11a66d956d1427c1b6d3a432610b8b5"
   ],
   "transfers": {
     "pages": {
@@ -21358,97 +21376,6 @@
   "sent_stories": [
     {
       "words": [
-        "among",
-        "final",
-        "fpg",
-        "furia",
-        "invites"
-      ],
-      "at": "2026-08-19T12:30:56.434354+00:00",
-      "message_id": "1539612643742973963",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV",
-        "Hotspawn"
-      ],
-      "title": "FURIA, 9z and G2 among final invites for FPG 3",
-      "link": "https://www.hltv.org/news/45337/furia-9z-and-g2-among-final-invites-for-fpg-3",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/DTAm8_Mrf3mLPG0xWT0x0O.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=9d30357d17b70b40028ff1c15b0f0dd2",
-      "base_description": "The team list for FISSURE Playground 3 has been bolstered by some big-name additions."
-    },
-    {
-      "words": [
-        "access",
-        "beta",
-        "date",
-        "early",
-        "exact",
-        "modern",
-        "preload",
-        "start",
-        "time",
-        "warfare"
-      ],
-      "at": "2026-08-19T12:30:56.434354+00:00",
-      "message_id": "1539612658628829335",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports",
-        "Insider Gaming"
-      ],
-      "title": "Modern Warfare 4 Early Access Beta preload start date and exact time",
-      "link": "https://dotesports.com/call-of-duty/guides/mw4-early-access-beta-preload-date-time",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/mw4-kill-block.webp",
-      "base_description": "Get ready to jump into early MW4 action."
-    },
-    {
-      "words": [
-        "haaland",
-        "lead",
-        "mbappé",
-        "players",
-        "putellas",
-        "ratings",
-        "top"
-      ],
-      "at": "2026-08-19T12:30:56.434354+00:00",
-      "message_id": "1539612678329466971",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "EA FC 27 Ratings: Mbappé, Haaland and Putellas Lead the Top 27 Players",
-      "link": "https://www.hotspawn.com/ea-fc-27/news/ea-fc-27-ratings",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/ea-fc-27-ratings-1125x633.webp",
-      "base_description": "EA Sports has officially revealed the top 27 players with the highest EA FC 27 Ratings. Kylian Mbappé and Erling Haaland share first place in the men’s rankings with a 91 OVR, while for women, the top rating has been given to Spanish player Alexia Putellas. Mbappé retains his rat"
-    },
-    {
-      "words": [
-        "exit",
-        "france",
-        "lfl",
-        "operator",
-        "set",
-        "tournament",
-        "webedia"
-      ],
-      "at": "2026-08-19T12:30:56.434354+00:00",
-      "message_id": "1539612692694966306",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "The Esports Radar"
-      ],
-      "title": "Webedia reportedly set to exit as operator of France’s LFL tournament",
-      "link": "https://esportsradar.gg/webedia-reportedly-set-to-exit-as-operator-of-frances-lfl-tournament/",
-      "color": 8141549,
-      "image_url": "https://esportsradar.gg/wp-content/uploads/2026/07/EL_Paris-Twitter-Banner-1.0-1024x341.jpg",
-      "base_description": "Webedia, the company that has operated France’s top League of Legends (LoL) league, the LFL, is reportedly stepping away from that role starting in 2027. The news was revealed during an episode of On Refait Le Nash, a French esports show on Winamax TV. According to the LoL creato"
-    },
-    {
-      "words": [
         "about",
         "adaptation",
         "days",
@@ -24060,7 +23987,8 @@
       "message_id": "1539952208743763999",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Inven Global (English)"
+        "Inven Global (English)",
+        "Esports.gg"
       ],
       "title": "DK Head Coach Kim Dae-ho: \"Lost 0-2, but it was a good match\"",
       "link": "https://www.invenglobal.com/articles/24958/dk-head-coach-kim-dae-ho-lost-0-2-but-it-was-a-good-match",
@@ -24252,6 +24180,134 @@
       "color": 8141549,
       "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/8d8bb0da-fc-26-rewind.webp",
       "base_description": "Check out the latest FC 26 Rewind promo leaks! See the rumored player list featuring Dembélé and Fernandes, release times, and more."
+    },
+    {
+      "words": [
+        "full",
+        "list",
+        "mpl",
+        "rosters",
+        "season"
+      ],
+      "at": "2026-08-20T12:32:45.505157+00:00",
+      "message_id": "1539975488796098644",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "Full list of MPL PH Season 18 rosters: All players and coaching staff",
+      "link": "https://dotesports.com/mobile-legends/news/mpl-ph-season-18-rosters-teams-players",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/mlbb-mpl-ph-season-18-star-players.webp",
+      "base_description": "The Filipino squads are all hungry to reclaim international glory at M8."
+    },
+    {
+      "words": [
+        "advertised",
+        "being",
+        "modern",
+        "orders",
+        "platforms",
+        "pre",
+        "warfare",
+        "wrong"
+      ],
+      "at": "2026-08-20T12:32:45.505157+00:00",
+      "message_id": "1539975503484551240",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Modern Warfare 4 Pre-Orders Being Advertised For Wrong Platforms",
+      "link": "https://insider-gaming.com/modern-warfare-4-pre-orders-being-advertised-for-wrong-platforms/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Weirdly, PlayStation 4 owners of the Black Ops 2 port are being misadvertised the upcoming Modern Warfare 4 release. The post Modern Warfare 4 Pre-Orders Being Advertised For Wrong Platforms appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "best",
+        "combos",
+        "cs2",
+        "gloves",
+        "knife",
+        "mogul"
+      ],
+      "at": "2026-08-20T12:32:45.505157+00:00",
+      "message_id": "1539975518777253960",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "Best Mogul Gloves Knife Combos in CS2",
+      "link": "https://www.hotspawn.com/counter-strike/news/best-mogul-gloves-knife-combos-in-cs2",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Specialist-Gloves-Mogul-Falchion-Knife-Doppler-Phase-3.jpg",
+      "base_description": "The patterns and various blue hues on the Specialist Gloves Mogul have made these gloves seriously iconic in the CS2 community. They don’t work alone, though – you need a Mogul gloves knife combo to really make them pop. I’ve found a bunch of the best in-game; check them out belo"
+    },
+    {
+      "words": [
+        "2026",
+        "battles",
+        "champions",
+        "emea",
+        "qualification"
+      ],
+      "at": "2026-08-20T12:32:45.505157+00:00",
+      "message_id": "1539975534807621685",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Battles for Champions 2026 qualification in EMEA: Stage 2 playoff matchups and results",
+      "link": "https://esports.gg/news/valorant/vct-2026-emea-stage-2-playoffs-champions-qualification/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Through tough groups and play-in matches, eight VALORANT teams reached the playoffs in EMEA. From this point, the battles become even more fierce — and more exciting to watch."
+    },
+    {
+      "words": [
+        "advanced",
+        "day",
+        "director",
+        "hamilton",
+        "joins",
+        "mega",
+        "partnerships"
+      ],
+      "at": "2026-08-20T12:32:45.505157+00:00",
+      "message_id": "1539975554852454421",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "The Esports Radar"
+      ],
+      "title": "Hamilton Day joins MEGA Advanced as Partnerships Director",
+      "link": "https://esportsradar.gg/hamilton-day-joins-mega-advanced-as-partnerships-director/",
+      "color": 8141549,
+      "image_url": "https://esportsradar.gg/wp-content/uploads/2026/07/EL_Paris-Twitter-Banner-1.0-1024x341.jpg",
+      "base_description": "The Mobile, Esports and Gaming Alliance (MEGA Advanced), the company behind the Esports Awards, has appointed Hamilton Day as its new Partnership Director. Day shared the news on LinkedIn, saying he had joined the team behind the show, which he noted has grown from 80,000 viewers"
+    },
+    {
+      "words": [
+        "carry",
+        "champions",
+        "damage",
+        "dealing",
+        "top",
+        "who",
+        "without"
+      ],
+      "at": "2026-08-20T12:32:45.505157+00:00",
+      "message_id": "1539975569439981640",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Nerfplz"
+      ],
+      "title": "Top 10 Champions Who Carry Without Dealing Damage",
+      "link": "https://www.nerfplz.com/2026/08/top-10-champions-who-carry-without.html",
+      "color": 8141549,
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtaFflTO1YGsoVWhkhI-Y62R7C8YyqpzRHIRIr0-LyC5c8v_X3LgagTZ7IcMZKrVa60w3Y1WD6_zlu_5wG9qeHPWjv5_gVB8vWSUnWcRDlVQjg2TBtph1pn5biH_ccQXNAdqcwOgIW-3p56J3oqqR4PMlVN1BBPBdx88T0PM9y37bH1NfIQNtPQMJwa2Q/s72-c-rw/preview-300.jpg",
+      "base_description": "Some of the most game deciding champions in League finish with the worst damage number on the scoreboard. That isn't a failure. For these ten it's the job description. There are two ways to win a game without out damaging anyone. You can make someone else's damage matter more tha"
     }
   ]
 }
