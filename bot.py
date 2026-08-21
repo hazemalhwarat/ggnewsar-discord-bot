@@ -290,8 +290,26 @@ def titles_match(words_a: set, words_b: set) -> bool:
 GEMINI_MODEL = "gemini-2.5-flash"
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 GEMINI_TIMEOUT_SECONDS = 20
-GEMINI_MAX_RETRIES = 2
+# FIX (2026-08-21): raised from 2. The free tier for gemini-2.5-flash is
+# only ~10 requests/minute. On a heavy news day (EWC volume) a single
+# 15-minute run can generate far more than 10 new candidates, so a burst
+# of 429s is expected and normal, not a real outage. 2 quick retries at a
+# flat 2s often weren't enough to survive that burst, causing the
+# health-alert condition (analyzed==0 for the whole run) to fire even
+# though Gemini itself was fine — it was just temporarily saturated.
+# Kept at 3 rather than pushing higher: the real defense against a big
+# burst is now the cross-run retry below (an item that still fails here
+# gets picked up again next run, ~15 min later, in a fresh rate-limit
+# window), not making one single call fight the limit harder — that would
+# risk the run itself blowing past the 10-minute GitHub Actions timeout.
+GEMINI_MAX_RETRIES = 3
 GEMINI_MAX_TOKENS = 900
+# Base/cap for exponential backoff on 429 when the API doesn't tell us
+# how long to wait (see analyze_with_gemini): 3s, 6s, 12s (capped at
+# GEMINI_429_MAX_BACKOFF) across attempts. A real retryDelay from the
+# API response is always preferred when present.
+GEMINI_429_BASE_BACKOFF = 3
+GEMINI_429_MAX_BACKOFF = 15
 
 GEMINI_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGNewsAR، تكتب بالعربية الفصحى البيضاء (لغة يومية مثقفة، مو لغة أدبية أو مترجمة حرفياً).
 
@@ -336,6 +354,7 @@ def analyze_with_gemini(
     region_hint: str = "عالمي",
     source_type_hint: str = "مؤكد",
     loose_query: bool = False,
+    stats: dict | None = None,
 ) -> dict | None:
     """
     Analyze one news item via Gemini (Google AI Studio free tier, direct API).
@@ -390,7 +409,30 @@ def analyze_with_gemini(
                 GEMINI_URL, json=payload, headers=headers, timeout=GEMINI_TIMEOUT_SECONDS
             )
             if r.status_code == 429:
-                time.sleep(2)
+                if stats is not None:
+                    stats["gemini_429"] = stats.get("gemini_429", 0) + 1
+                # FIX (2026-08-21): honor the API's own retryDelay when it
+                # gives one (Gemini's 429 body usually includes
+                # error.details[].retryDelay, e.g. "23s") instead of
+                # always sleeping a flat 2s — a flat sleep that's shorter
+                # than the real quota window just burns through all our
+                # retries without ever actually waiting long enough.
+                # Falls back to exponential backoff (3s/6s/12s, capped at
+                # GEMINI_429_MAX_BACKOFF) if no retryDelay is present in
+                # the response.
+                wait = None
+                try:
+                    err_body = r.json()
+                    for detail in err_body.get("error", {}).get("details", []):
+                        delay = detail.get("retryDelay")
+                        if delay:
+                            wait = float(str(delay).rstrip("s"))
+                            break
+                except (ValueError, TypeError, AttributeError):
+                    pass
+                if wait is None:
+                    wait = GEMINI_429_BASE_BACKOFF * (2 ** attempt)
+                time.sleep(min(wait, GEMINI_429_MAX_BACKOFF))
                 continue
             r.raise_for_status()
             data = r.json()
@@ -1043,7 +1085,7 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
 
         analysis = analyze_with_gemini(
             c["title"], clean_summary, c["link"], region_hint, type_hint,
-            loose_query=is_loose_source,
+            loose_query=is_loose_source, stats=stats,
         )
 
         if analysis and not analysis.get("is_esports", True):
@@ -1065,11 +1107,40 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             send_desc = f"{classification}\n\n**{analysis['subheadline']}**\n\n{analysis['summary']}"
             color = IMPORTANCE_COLORS.get(analysis["importance"], EMBED_COLOR)
         elif is_loose_source:
-            # Gemini call itself failed (timeout/malformed output/etc) for
-            # a source with no topical restriction. Sending the raw item
-            # unchecked here is exactly the risk this whole fix targets —
-            # skip rather than trust an un-vetted item from a loose query.
+            # Gemini call itself failed (timeout/malformed output/rate
+            # limit/etc) for a source with no topical restriction.
+            # Sending the raw item unchecked here is exactly the risk
+            # this whole fix targets — skip rather than trust an
+            # un-vetted item from a loose query.
+            #
+            # BUG FIX (2026-08-21): this item was already added to
+            # seen_urls/state["urls"] etc. earlier in the loop ("Passes
+            # all gates. Mark seen regardless of send outcome."), before
+            # Gemini was ever called. That meant a single Gemini failure
+            # — a timeout, a 429 during a busy news day, a malformed
+            # response — permanently and silently discarded the story:
+            # it would never be retried, because next run it's already
+            # "seen". This is exactly the failure mode Hazem reported
+            # ("stopped sending business news") — the single business
+            # bridge feed and every MENA-country bridge are all
+            # loose_query, so ANY Gemini hiccup on any of them meant
+            # that story was gone for good with zero fallback and zero
+            # visibility. Un-marking it as seen here means the next run
+            # (~15 min later) gets another shot at it via Gemini, up to
+            # the normal MAX_AGE_HOURS freshness window — same safety
+            # net as skip_cap below, just triggered by a failed analysis
+            # instead of a full send budget.
             stats["skip_loose_unverified"] += 1
+            try:
+                state["urls"].remove(c["link"])
+            except ValueError:
+                pass
+            try:
+                state["title_hashes"].remove(c["t_hash"])
+            except ValueError:
+                pass
+            seen_urls.discard(c["link"])
+            seen_titles.discard(c["t_hash"])
             continue
         else:
             # Gemini call failed, but this source is inherently on-topic
@@ -1171,6 +1242,8 @@ def main():
         total_sources = ok_sources + failed_sources
         analyzed = rss_stats.get("gemini_analyzed", 0)
         fallback = rss_stats.get("gemini_fallback", 0)
+        rate_limited = rss_stats.get("gemini_429", 0)
+        deferred = rss_stats.get("skip_loose_unverified", 0)
 
         reasons = []
         if total_sources > 0 and failed_sources / total_sources > 0.5:
@@ -1184,6 +1257,22 @@ def main():
             reasons.append(
                 "كل محاولات تحليل Gemini فشلت هذه الدورة، البوت يرسل النصوص الخام بدون صياغة أو تصنيف. "
                 "تأكد من صلاحية GEMINI_API_KEY أو حصة الاستخدام اليومية."
+            )
+        # ADDED (2026-08-21): these two used to be invisible — a bad
+        # Gemini stretch or a pile of deferred business/MENA items never
+        # showed up anywhere. Now they surface here (still respecting the
+        # normal alert cooldown), so a heavy news day reads as "Gemini is
+        # rate-limited, retrying automatically" instead of looking like
+        # the bot silently stopped covering business/MENA news.
+        if rate_limited >= 5:
+            reasons.append(
+                f"Gemini ارتطم بحد التقييد (429) {rate_limited} مرة هذه الدورة — الأغلب بسبب حجم أخبار "
+                f"مرتفع (يوم كبير زي EWC)، مو عطل دائم. الأخبار المتأثرة بتُعاد محاولتها تلقائياً بالتشغيلة الجاية."
+            )
+        if deferred >= 5:
+            reasons.append(
+                f"{deferred} خبر من مصادر بحث عام (بزنس/رعايات أو دول MENA) اتأجّل هذه الدورة لحد ما يتحلّل "
+                f"عبر Gemini بنجاح — ما انحذف نهائياً، بس تأخر."
             )
         if reasons:
             send_system_alert(state, " | ".join(reasons))
