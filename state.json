@@ -8907,7 +8907,10 @@
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URjBkMHpNSG5Xal9rdmR5MWNweVVCcmltTm83QnVJMkZSNE96eUVBUk1sTHFhWE1pbWVyWV8tVk10UTFwRXh3OGVGMmRkZWhsWXllVGxLdE5QVGc?oc=5",
     "https://www.hltv.org/news/45360/spirit-snap-six-match-losing-streak-vs-vitality-to-reach-ewc-semis",
     "https://insider-gaming.com/modern-warfare-4-mastery-camos/",
-    "https://realsport101.com/article/fc-27-evolutions-changes-pathways-chain-preview-playstyles-lab"
+    "https://realsport101.com/article/fc-27-evolutions-changes-pathways-chain-preview-playstyles-lab",
+    "https://insider-gaming.com/expert-mobility-course-modern-warfare-4-clockwork-weapon-charm/",
+    "https://insider-gaming.com/spirit-defeat-vitality-ewc-2026/",
+    "https://realsport101.com/article/nba-2k27-crossplay-pc-requirements-specs-platforms-details"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17718,7 +17721,10 @@
     "99cc02ce8a03706f19e530d093d95eb7",
     "bee5fc70dd05a9681e331e19f9889d26",
     "3b892aff7af9a8ce873b9e5a49317a58",
-    "46b104e391fc559a426447c593d44e44"
+    "46b104e391fc559a426447c593d44e44",
+    "42f44c09e8e2c42272bf822cab08c6db",
+    "6f47324d2ec4b8b76bff5c4223174e05",
+    "879f670c5196569458baf4a8064a4d5d"
   ],
   "transfers": {
     "pages": {
@@ -21913,27 +21919,6 @@
   "sent_stories": [
     {
       "words": [
-        "confirmed",
-        "emea",
-        "invites",
-        "masters",
-        "slots",
-        "summer"
-      ],
-      "at": "2026-08-20T20:21:22.282490+00:00",
-      "message_id": "1540093424710193273",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "EMEA Masters Summer Slots and Invites Confirmed",
-      "link": "https://insider-gaming.com/emea-masters-summer-seeding-and-invites-for-past-winners/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Riot Games has confirmed the ERL slot distribution for EMEA Masters Summer 2026 including the first-ever invites for previous winners The post EMEA Masters Summer Slots and Invites Confirmed appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "art",
         "have",
         "know",
@@ -24223,7 +24208,8 @@
       "message_id": "1540413582548668428",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Esports.gg"
+        "Esports.gg",
+        "Insider Gaming"
       ],
       "title": "How to get the Tactical Nuke killstreak in Modern Warfare 4",
       "link": "https://esports.gg/guides/call-of-duty/how-to-get-the-tactical-nuke-killstreak-in-modern-warfare-4/",
@@ -24604,6 +24590,47 @@
       "color": 8141549,
       "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/ee122ff5-evo-chain.webp",
       "base_description": "Discover how Evolutions are changing in EA FC 27! Explore the new branching Pathways system, Chain Preview planning tools, and PlayStyles Lab updates."
+    },
+    {
+      "words": [
+        "cup",
+        "dismantles",
+        "donk",
+        "prevail",
+        "spirit",
+        "vitality",
+        "world"
+      ],
+      "at": "2026-08-21T20:29:47.518533+00:00",
+      "message_id": "1540457936290058253",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "donk Dismantles Vitality as Spirit Prevail at the Esports World Cup",
+      "link": "https://insider-gaming.com/spirit-defeat-vitality-ewc-2026/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Team Spirit has taken their place as favorites for the Esports World Cup CS2 tournament after a 2-1 victory over Vitality in Paris. The post donk Dismantles Vitality as Spirit Prevail at the Esports World Cup appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "2k27",
+        "crossplay",
+        "nba",
+        "requirements"
+      ],
+      "at": "2026-08-21T20:29:47.518533+00:00",
+      "message_id": "1540457956468981852",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "RealSport101"
+      ],
+      "title": "NBA 2K27 Crossplay & PC Requirements: Specs, Platforms, Details",
+      "link": "https://realsport101.com/article/nba-2k27-crossplay-pc-requirements-specs-platforms-details",
+      "color": 8141549,
+      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/7a8b9f18-nba2k27_csr-mycareer_magic-bird-era_1920x1080.webp",
+      "base_description": "Check NBA 2K27 cross-play platforms, cross-progression limits, and official PC minimum and recommended specs ahead of the August 26 early access."
     }
   ]
 }
