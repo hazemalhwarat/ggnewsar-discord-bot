@@ -8899,7 +8899,12 @@
     "https://traxion.gg/raceroom-to-showcase-at-the-simracing-expo-frankfurt/",
     "https://www.global-esports.news/call-of-duty/cod-modern-warfare-4-beta-start-time-codes-maps-modes-all-the-info-at-a-glance/",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EQV9QbGlaOExydUJhdTIyVDFDYWFmeVFzcXZjdjhjRVN6VHR2cXI3aWFMbzlUekZBczhHTk1yX0FnTVpZZUdUcnpoX3VtaXNWbXdvZHNxNjYydkk?oc=5",
-    "https://realsport101.com/article/fc-26-futties-finale-evolution-guide-best-players-stat-upgrades"
+    "https://realsport101.com/article/fc-26-futties-finale-evolution-guide-best-players-stat-upgrades",
+    "https://esportsinsider.com/2026/08/esports-prediction-market-polymarket",
+    "https://insider-gaming.com/dota-2-the-internationals-35m-prize-decrease-signals-that-mobas-are-aging-out/",
+    "https://esports.gg/guides/fgc/brawlhalla-qinghua-baobao-guide/",
+    "https://realsport101.com/article/fc-27-top-100-player-ratings-haaland-mbapp-putellas-lead-list",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URjBkMHpNSG5Xal9rdmR5MWNweVVCcmltTm83QnVJMkZSNE96eUVBUk1sTHFhWE1pbWVyWV8tVk10UTFwRXh3OGVGMmRkZWhsWXllVGxLdE5QVGc?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17703,7 +17708,11 @@
     "96fb16e3f71a4a1c1e27a787925f65ca",
     "dc354bec9b61b63a5f395606359bc3c7",
     "70433f826361c78658a98c19f4f4a820",
-    "9ef18018a8423b76195bd3cfbd150c41"
+    "9ef18018a8423b76195bd3cfbd150c41",
+    "7900321eaa0c962732e9cb74e6f34070",
+    "8702d43e1f4cc4ca6de82ea547640253",
+    "ac3af9245117a052ef936d7aa28f17a8",
+    "99cc02ce8a03706f19e530d093d95eb7"
   ],
   "transfers": {
     "pages": {
@@ -21898,96 +21907,6 @@
   "sent_stories": [
     {
       "words": [
-        "ewc",
-        "finals",
-        "furia",
-        "into",
-        "past",
-        "romp",
-        "semi"
-      ],
-      "at": "2026-08-20T19:28:29.339844+00:00",
-      "message_id": "1540080111095914538",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "FURIA romp past G2 into EWC semi-finals",
-      "link": "https://www.hltv.org/news/45352/furia-romp-past-g2-into-ewc-semi-finals",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/8Ct9_lSMxJhD4t2pZC0Cse.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=37b88535a1c96409c9355d6a7a7cf1cf",
-      "base_description": "Despite a slightly risky veto, one G2 coach sAw admitted surprised him, FURIA came out on top to make top-four at Esports World Cup."
-    },
-    {
-      "words": [
-        "animated",
-        "axe",
-        "comedy",
-        "golden",
-        "paramount",
-        "premieres",
-        "september"
-      ],
-      "at": "2026-08-20T19:28:29.339844+00:00",
-      "message_id": "1540080132562354217",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Golden Axe Animated Comedy Premieres on Paramount+ in September",
-      "link": "https://insider-gaming.com/golden-axe-animated-series-paramount-plus-trailer/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Golden Axe’s first trailer shows the Sega fantasy game reborn as an animated comedy. The post Golden Axe Animated Comedy Premieres on Paramount+ in September appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "2k27",
-        "access",
-        "early",
-        "nba"
-      ],
-      "at": "2026-08-20T19:28:29.339844+00:00",
-      "message_id": "1540080148496523275",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "RealSport101",
-        "Insider Gaming"
-      ],
-      "title": "NBA 2K27 Early Access: Start Date, Times, & How to Play Early",
-      "link": "https://realsport101.com/article/nba-2k27-early-access-start-date-times-how-to-play-early",
-      "color": 8141549,
-      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/596d076b-nba-2k27-ss.webp",
-      "base_description": "Find out when NBA 2K27 early access starts! Check regional unlock times, edition perks, and how to jump into the game early."
-    },
-    {
-      "words": [
-        "clarifies",
-        "gamescom",
-        "geoff",
-        "how",
-        "keighley",
-        "live",
-        "night",
-        "opening",
-        "selected",
-        "trailers"
-      ],
-      "at": "2026-08-20T19:28:29.339844+00:00",
-      "message_id": "1540080164774608896",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GamesIndustry.biz",
-        "Insider Gaming"
-      ],
-      "title": "Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live",
-      "link": "https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live",
-      "color": 8141549,
-      "image_url": "https://assetsio.gnwcdn.com/gamescome_opening_night_live_2025.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "base_description": "In a press pre-briefing ahead of next week's Gamescom conference, Geoff Keighley has shed some light on the process of how trailers are selected for the Opening Night Live digital showcase, which will take place on Tuesday. Read more"
-    },
-    {
-      "words": [
         "2xko",
         "active",
         "console",
@@ -24604,6 +24523,93 @@
       "color": 8141549,
       "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/9f12d02d-evolution-feature-futties-finale.webp",
       "base_description": "Discover the best players for the FC 26 FUTTIES Finale Evolution! Check out top picks like Alex Scott, Ramires, and Ronaldo, plus all upgrades."
+    },
+    {
+      "words": [
+        "catching",
+        "league",
+        "major",
+        "market",
+        "prediction",
+        "sports",
+        "volume"
+      ],
+      "at": "2026-08-21T19:47:05.718059+00:00",
+      "message_id": "1540447186633105511",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Insider"
+      ],
+      "title": "Esports catching major league sports in prediction market volume",
+      "link": "https://esportsinsider.com/2026/08/esports-prediction-market-polymarket",
+      "color": 8141549,
+      "image_url": "https://esportsinsider.com/wp-content/uploads/2025/09/MSI-Finals-Playoffs-2025-LoL.jpg",
+      "base_description": "League of Legends and Counter-Strike 2 matches are seeing trading volumes that are nearing those of major league sports at prediction markets. An analysis of Polymarket trading over the past year found an average of over $1 million was traded on LoL matches, with the highest matc"
+    },
+    {
+      "words": [
+        "35m",
+        "aging",
+        "decrease",
+        "dota",
+        "international",
+        "mobas",
+        "out",
+        "prize",
+        "signals"
+      ],
+      "at": "2026-08-21T19:47:05.718059+00:00",
+      "message_id": "1540447207050846340",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Dota 2 The International’s $35m+ Prize Decrease Signals That MOBAs Are Aging Out",
+      "link": "https://insider-gaming.com/dota-2-the-internationals-35m-prize-decrease-signals-that-mobas-are-aging-out/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Dota 2's The International 2026 (TI15) will feature a prize pool of $3.25m, a drop of almost $37m since five years ago. Are MOBAs in trouble? The post Dota 2 The International’s $35m+ Prize Decrease Signals That MOBAs Are Aging Out appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "baobao",
+        "brawlhalla",
+        "fun",
+        "massive",
+        "play",
+        "qinghua",
+        "sigs"
+      ],
+      "at": "2026-08-21T19:47:05.718059+00:00",
+      "message_id": "1540447227410124911",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Fun play and massive Sigs of Qinghua & Baobao in Brawlhalla: Guide, Orb and Cannon combos",
+      "link": "https://esports.gg/guides/fgc/brawlhalla-qinghua-baobao-guide/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "The developers went above and beyond with the design of this legend (character). The weapon set may feel somewhat niche, but the signatures make Qinghua & Baobao an awesome competitive pick."
+    },
+    {
+      "words": [
+        "100",
+        "player",
+        "ratings",
+        "top"
+      ],
+      "at": "2026-08-21T19:47:05.718059+00:00",
+      "message_id": "1540447248347828375",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "RealSport101"
+      ],
+      "title": "FC 27 Top 100 Player Ratings: Haaland, Mbappé & Putellas Lead List",
+      "link": "https://realsport101.com/article/fc-27-top-100-player-ratings-haaland-mbapp-putellas-lead-list",
+      "color": 8141549,
+      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/a620a7b5-fc-27-top-100.webp",
+      "base_description": "Explore the official EA Sports FC 27 Top 100 player ratings! Check stats, upgrades, and overalls for Haaland, Mbappé, Putellas, and top gold cards."
     }
   ]
 }
