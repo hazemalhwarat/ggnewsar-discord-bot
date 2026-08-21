@@ -8813,7 +8813,14 @@
     "https://www.hotspawn.com/mlbb/news/mpl-weekly-watch-key-matches-for-mpl-s18-week-1-2",
     "https://esportsradar.gg/riot-games-to-end-2xko-development-as-operating-costs-exceed-revenue/",
     "https://www.hltv.org/news/45354/live-updates-from-ewc-quarter-finals",
-    "https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source"
+    "https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source",
+    "https://www.hltv.org/news/45336/rebels-sign-aragornn-arrozdoce-and-shr",
+    "https://www.hotspawn.com/league-of-legends/news/league-classic-patch-2",
+    "https://esportsradar.gg/soop-launches-starcrafts-asl-season-22-with-google-play-sponsoring/",
+    "https://www.gamesindustry.biz/why-xboxs-console-ads-could-be-a-good-thing-for-gaming-opinion",
+    "https://www.invenglobal.com/articles/25008/raptor-we-need-to-play-much-better-in-the-play-in-and-playoffs-than-we-are-right-now",
+    "https://www.invenglobal.com/articles/25007/how-neverness-to-everness-mastered-high-density-open-world-and-pcmobile-optimization",
+    "https://www.invenglobal.com/articles/25006/bnk-fearx-defeat-hanjin-brion-all-that-remains-is-holding-first-place"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17538,7 +17545,14 @@
     "e732ecb738146345caaef2cf5eadba08",
     "66369790b0475aecb5df9709db4d5d87",
     "8542e0e1ed1535244feea950770d066f",
-    "bb4d4dfadb95547d186ddc64f2fa223c"
+    "bb4d4dfadb95547d186ddc64f2fa223c",
+    "23bde517e9c4c54fce4e436af23c27a3",
+    "14de32124420a03b27b01f5851218efc",
+    "60d3234f377704903a5c13c813f5bddf",
+    "246a002ce3275b9ac0b399e0bdc97d01",
+    "863f34ea437e7aeb468b7cd1e8ff1ef1",
+    "045b08e265d13f0ff139402f7287377b",
+    "f3e060a4f7f7a969f7dbd0d1d2d33c1e"
   ],
   "transfers": {
     "pages": {
@@ -21733,76 +21747,6 @@
   "sent_stories": [
     {
       "words": [
-        "but",
-        "coach",
-        "dae",
-        "good",
-        "head",
-        "kim",
-        "lost",
-        "match"
-      ],
-      "at": "2026-08-20T11:00:14.976474+00:00",
-      "message_id": "1539952208743763999",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)",
-        "Esports.gg"
-      ],
-      "title": "DK Head Coach Kim Dae-ho: \"Lost 0-2, but it was a good match\"",
-      "link": "https://www.invenglobal.com/articles/24958/dk-head-coach-kim-dae-ho-lost-0-2-but-it-was-a-good-match",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Dplus KIA lost 0-2 against Hanwha Life Esports in Round 4 of the '2026 LoL Champions Korea (LCK)' held at the ChZZK LoL PARK in Jonggak on the 20th...."
-    },
-    {
-      "words": [
-        "2026",
-        "about",
-        "all",
-        "healing",
-        "international",
-        "late",
-        "meta",
-        "tanks"
-      ],
-      "at": "2026-08-20T11:00:14.976474+00:00",
-      "message_id": "1539952224443179011",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Insider"
-      ],
-      "title": "The International 2026 meta: It’s all about tanks, healing, and late games",
-      "link": "https://esportsinsider.com/2026/08/the-international-2026-meta",
-      "color": 8141549,
-      "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/image-33.png",
-      "base_description": "The International 2026 (TI 2026) is currently underway in Shanghai — and if you’re a true Dota 2 fan, this is definitely an event you don’t want to miss. After 109 games in the group stage, we’ve already witnessed plenty of upsets, pocket strats, and unorthodox picks. More import"
-    },
-    {
-      "words": [
-        "blocks",
-        "denmark",
-        "gambling",
-        "other",
-        "polymarket",
-        "sites",
-        "sweep",
-        "unlicensed"
-      ],
-      "at": "2026-08-20T11:00:14.976474+00:00",
-      "message_id": "1539952239299534940",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "Denmark blocks Polymarket and 97 other sites in unlicensed gambling sweep",
-      "link": "https://europeangaming.eu/portal/latest-news/2026/08/20/212965/denmark-blocks-polymarket-and-97-other-sites/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Denmark-blocks-Polymarket-and-97-other-sites-in-unlicensed-gambling-sweep.jpg",
-      "base_description": "The Frederiksberg court approved the DNS blocks on 8 July, telecoms operators enforced them on 6 August, and… The post Denmark blocks Polymarket and 97 other sites in unlicensed gambling sweep appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
         "break",
         "can",
         "doesn",
@@ -23853,7 +23797,8 @@
       "message_id": "1540201321980887071",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Inven Global (English)"
+        "Inven Global (English)",
+        "The Esports Radar"
       ],
       "title": "SOOP Hosts Week 2 of Google Play ASL Season 22 Round of 24",
       "link": "https://www.invenglobal.com/articles/24989/soop-hosts-week-2-of-google-play-asl-season-22-round-of-24",
@@ -24626,6 +24571,147 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/roblox-phone.png?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "Roblox is open-sourcing three of its AI safety models via the Robust Open Online Safety Tools Model Community (ROOST). Read more"
+    },
+    {
+      "words": [
+        "better",
+        "much",
+        "need",
+        "now",
+        "play",
+        "playoffs",
+        "raptor",
+        "right",
+        "than"
+      ],
+      "at": "2026-08-21T11:05:49.187747+00:00",
+      "message_id": "1540316004490674259",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Raptor: \"We need to play much better in the Play-In and Playoffs than we are right now\"",
+      "link": "https://www.invenglobal.com/articles/25008/raptor-we-need-to-play-much-better-in-the-play-in-and-playoffs-than-we-are-right-now",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "BNK FearX defeated Hanjin BRION 2-1 in the 2026 LoL Champions Korea (LCK) Regular Season Round 4 Rise Group match held at Chzzk LoL Park in Jongno on August 20...."
+    },
+    {
+      "words": [
+        "density",
+        "everness",
+        "high",
+        "how",
+        "mastered",
+        "mobile",
+        "neverness",
+        "open",
+        "optimization",
+        "world"
+      ],
+      "at": "2026-08-21T11:05:49.187747+00:00",
+      "message_id": "1540316027752026124",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "How 'Neverness to Everness' Mastered High-Density Open World and PC/Mobile Optimization",
+      "link": "https://www.invenglobal.com/articles/25007/how-neverness-to-everness-mastered-high-density-open-world-and-pcmobile-optimization",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©InvenNeverness to Everness, an anime urban open-world RPG released by Perfect World on April 29, has been receiving consistent praise for its portrayal of a modern city, supernatural anomalies, and charming characters...."
+    },
+    {
+      "words": [
+        "all",
+        "bnk",
+        "brion",
+        "defeat",
+        "fearx",
+        "first",
+        "hanjin",
+        "holding",
+        "place",
+        "remains"
+      ],
+      "at": "2026-08-21T11:05:49.187747+00:00",
+      "message_id": "1540316049436581929",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "BNK FEARX Defeat Hanjin BRION... All That Remains Is Holding First Place",
+      "link": "https://www.invenglobal.com/articles/25006/bnk-fearx-defeat-hanjin-brion-all-that-remains-is-holding-first-place",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©LCKOn the 20th, in the 2026 LoL Champions Korea (LCK) Regular Season Round 4 Rise Group match between Hanjin BRION and BNK FEARX held at Chzzk LoL Park in Jongno, BNK FEARX claimed a 2-1 victory...."
+    },
+    {
+      "words": [
+        "aragornn",
+        "arrozdoce",
+        "rebels",
+        "shr",
+        "sign"
+      ],
+      "at": "2026-08-21T11:05:49.187747+00:00",
+      "message_id": "1540316072048328715",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "Rebels sign aragornN, arrozdoce and Shr",
+      "link": "https://www.hltv.org/news/45336/rebels-sign-aragornn-arrozdoce-and-shr",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/2_lcSwKS5VQ1apkPcGpy6Q.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=60e57549f9a98c5d7a3fcbd8b16d38be",
+      "base_description": "aragornN and arrozdoce return to their national scene after a stints on international rosters."
+    },
+    {
+      "words": [
+        "2013",
+        "brings",
+        "classic",
+        "council",
+        "first",
+        "league",
+        "map",
+        "patch",
+        "vote"
+      ],
+      "at": "2026-08-21T11:05:49.187747+00:00",
+      "message_id": "1540316093573496833",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "League Classic Patch 2 Brings 2013 Map Update and the First Council Vote",
+      "link": "https://www.hotspawn.com/league-of-legends/news/league-classic-patch-2",
+      "color": 8141549,
+      "image_url": "https://www.youtube.com/embed/niXmkJ5rZqM",
+      "base_description": "After the introduction of new champions in the first update, League Classic Patch 2 will look to improve some of the mode’s biggest complaints, including faster rune progression, a close version of Summoner’s Rift from 2013, and the first round of voting through The Council. Whil"
+    },
+    {
+      "words": [
+        "ads",
+        "console",
+        "could",
+        "gaming",
+        "good",
+        "thing",
+        "why",
+        "xbox"
+      ],
+      "at": "2026-08-21T11:05:49.187747+00:00",
+      "message_id": "1540316137831800855",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "Why Xbox's console ads could be a good thing for gaming | Opinion",
+      "link": "https://www.gamesindustry.biz/why-xboxs-console-ads-could-be-a-good-thing-for-gaming-opinion",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/FresnoUX_CommsSocial.png?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "Virginie Chesnais is CMO at the ad tech analytics platform Happydemics . Read more"
     }
   ]
 }
