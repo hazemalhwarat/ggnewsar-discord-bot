@@ -8876,7 +8876,10 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xMU54bWFLUUgyc0RGZnY2S1ExS3FBVGY4TTYtbGlHMWlzVTBpVVBEd3I1UEFvSGhCN28tdDdZeXV4WjgzYkdfN3EzbHdRLXVDalptbDNJaUMtdUlZU29nUDU0ZEV2VHlzVmc?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMdzhSWkhBWWRxY3EtZ2dGbTBtQWo5Qmk4MG1iTEw2Y1BGQXJmMkJCMGpjMnhrM09NeFBFOS1hVEtjX3V4V3c1V2E5djhNcG02RWRLV1BzUHNvTEdEWDNHeV9wZVMzMnVuWnc?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fSlpDZ1Y3Y1QwRlo2ZDZJTEtzaWNwa2RLT2JHREpfTTdpRmpjVHQ5Q2dRQVkwenhyMkNWUENCeHA2cnJYOXByY1dnTXNiLXhGaDFnMWRJMFRGMWZEOVlwbTlTcmFiNFJ6M0E?oc=5",
-    "https://www.nerfplz.com/2026/10/lol-jungle-camps-explained-10-rules.html"
+    "https://www.nerfplz.com/2026/10/lol-jungle-camps-explained-10-rules.html",
+    "https://insider-gaming.com/hajin-arrives-in-warzone-modern-warfare-4-season-1/",
+    "https://insider-gaming.com/hell-let-loose-vietnam-2026-roadmap/",
+    "https://insider-gaming.com/marvels-wolverine-has-gone-gold-over-3-weeks-ahead-of-release/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17659,7 +17662,10 @@
     "327d3b963d64c499f6fc7891ae1fe75e",
     "94899621d9498fd01e4cdffe1dd065ad",
     "650b9e97520015f8f38957a9171edb22",
-    "f25ed516f510d5970480757a9bfbd10e"
+    "f25ed516f510d5970480757a9bfbd10e",
+    "8d51867d079d7ddbf44aef55bef5153e",
+    "0aa39e89256cc85a178a857479f5bfde",
+    "0ac4bc6b2e7ecbeb72e2a494f689e886"
   ],
   "transfers": {
     "pages": {
@@ -21854,121 +21860,6 @@
   "sent_stories": [
     {
       "words": [
-        "huntsman",
-        "low",
-        "pro",
-        "profile",
-        "razer",
-        "review"
-      ],
-      "at": "2026-08-20T16:26:41.685479+00:00",
-      "message_id": "1540034361112404051",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "Razer Huntsman V3 Pro Low Profile review: For the Pros",
-      "link": "https://dotesports.com/hardware/reviews/razer-huntsman-v3-pro-low-profile-review",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/huntsman-low-profile-on-table.webp",
-      "base_description": "The Huntsman's first foray into the Low Profile form factor."
-    },
-    {
-      "words": [
-        "appeared",
-        "five",
-        "fortnite",
-        "freddy",
-        "have",
-        "nights",
-        "teasers"
-      ],
-      "at": "2026-08-20T16:26:41.685479+00:00",
-      "message_id": "1540034376744575068",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports",
-        "Esports.gg",
-        "Insider Gaming"
-      ],
-      "title": "Five Nights at Freddy’s teasers have appeared in Fortnite",
-      "link": "https://dotesports.com/fnaf/news/five-nights-at-freddys-fnaf-fortnite-teaser-building-map-restaurant-fazbear",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2023/09/Five-Nights-at-Freddys.jpg",
-      "base_description": "One pizzeria hints towards a collab."
-    },
-    {
-      "words": [
-        "2026",
-        "blizzcon",
-        "deadmau5",
-        "more",
-        "pain",
-        "sserafim",
-        "welcomes",
-        "yoasobi"
-      ],
-      "at": "2026-08-20T16:26:41.685479+00:00",
-      "message_id": "1540034391806582826",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg",
-        "Inven Global (English)"
-      ],
-      "title": "BlizzCon 2026 welcomes T-Pain, deadmau5, YOASOBI, LE SSERAFIM, and more",
-      "link": "https://esports.gg/news/overwatch/blizzcon-2026-welcomes-t-pain-deadmau5-yoasobi-le-sserafim-and-more/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "BlizzCon 2026's celebrity lineup features T-Pain, Simu Liu, deadmau5, Duke Dennis, and Khleo Thomas. The event also includes performances by YOASOBI and LE SSERAFIM."
-    },
-    {
-      "words": [
-        "dragon",
-        "elder",
-        "elemental",
-        "guide",
-        "lol",
-        "rifts",
-        "soul"
-      ],
-      "at": "2026-08-20T16:26:41.685479+00:00",
-      "message_id": "1540034407069388891",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Nerfplz"
-      ],
-      "title": "LoL Dragon Guide: Elemental Rifts, Dragon Soul and Elder Dragon",
-      "link": "https://www.nerfplz.com/2026/10/lol-dragons-explained-10-things-pit.html",
-      "color": 8141549,
-      "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.14,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_4.jpg",
-      "base_description": "Dragons are two objectives wearing one health bar: a buff race everyone watches, and a map editor that fires twice and then locks. Here's every element, every soul, and what the pit is really asking you to do. League of Legends Guide Dragons & Elemental Rifts Summoner's Rift Obje"
-    },
-    {
-      "words": [
-        "claim",
-        "gamers",
-        "gta",
-        "killing",
-        "leakers",
-        "opposes",
-        "rights",
-        "stop",
-        "support"
-      ],
-      "at": "2026-08-20T17:00:59.099323+00:00",
-      "message_id": "1540042991048073217",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "GTA 6 Leakers Claim 'Gamers' Rights', Stop Killing Games Opposes Support",
-      "link": "https://www.invenglobal.com/articles/24965/gta-6-leakers-claim-gamers-rights-stop-killing-games-opposes-support",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©Rockstar Games, NetflixStop Killing Games, a consumer advocacy movement for gamers' rights, has drawn attention by urging gamers not to support the hackers behind the recent high-......"
-    },
-    {
-      "words": [
         "007",
         "copies",
         "first",
@@ -24579,6 +24470,69 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "KRU VS FX VALORANT Esports"
+    },
+    {
+      "words": [
+        "arrives",
+        "hajin",
+        "modern",
+        "season",
+        "warfare",
+        "warzone"
+      ],
+      "at": "2026-08-21T17:01:16.502117+00:00",
+      "message_id": "1540405457146093699",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Hajin Arrives In Warzone & Modern Warfare 4 Season 1",
+      "link": "https://insider-gaming.com/hajin-arrives-in-warzone-modern-warfare-4-season-1/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Hajin has been announced as the map for Call of Duty Warzone Season 01, with the Battle Royale sharing the same map as MW4's DMZ. The post Hajin Arrives In Warzone & Modern Warfare 4 Season 1 appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "hell",
+        "let",
+        "loose"
+      ],
+      "at": "2026-08-21T17:01:16.502117+00:00",
+      "message_id": "1540405476955525254",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Hell Let Loose: Vietnam 2026 Roadmap Revealed",
+      "link": "https://insider-gaming.com/hell-let-loose-vietnam-2026-roadmap/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The 2026 roadmap for Hell Let Loose: Vietnam has been revealed, showing what content is still to come for the rest of the year. The post Hell Let Loose: Vietnam 2026 Roadmap Revealed appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "ahead",
+        "gold",
+        "gone",
+        "has",
+        "marvel",
+        "over",
+        "release",
+        "weeks",
+        "wolverine"
+      ],
+      "at": "2026-08-21T17:01:16.502117+00:00",
+      "message_id": "1540405497365274857",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Marvel’s Wolverine Has Gone Gold Over 3 Weeks Ahead of Release",
+      "link": "https://insider-gaming.com/marvels-wolverine-has-gone-gold-over-3-weeks-ahead-of-release/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Insomniac Games announces Marvel's Wolverine has gone gold while revealing new gold claws. Here are more details. The post Marvel’s Wolverine Has Gone Gold Over 3 Weeks Ahead of Release appeared first on Insider Gaming ."
     }
   ]
 }
