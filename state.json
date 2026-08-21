@@ -8840,7 +8840,15 @@
     "https://www.hotspawn.com/counter-strike/news/fut-smash-mouz-and-reach-esports-world-cup-2026-semi-finals",
     "https://www.nerfplz.com/2026/08/fotm-report-nocturne-jungle-patch-2616.html",
     "https://www.nerfplz.com/2026/08/nocturne-counters-best-counter-picks.html",
-    "https://www.gamesindustry.biz/rovers-tale-developer-observer-interactive-parts-ways-with-team17-as-it-moves-to-self-publishing"
+    "https://www.gamesindustry.biz/rovers-tale-developer-observer-interactive-parts-ways-with-team17-as-it-moves-to-self-publishing",
+    "https://insider-gaming.com/kt-rolster-t1-lck-play-ins/",
+    "https://www.hotspawn.com/valorant/news/2game-robbed-vct-americas-stage-2",
+    "https://esportsradar.gg/heat-map-the-ewc-passed-its-biggest-stress-test/",
+    "https://www.gamesindustry.biz/the-opportunity-cost-of-sonys-live-service-pivot-is-enormous-opinion",
+    "https://www.gamesindustry.biz/ign-entertainment-brings-women-in-gaming-networking-event-to-gamescom",
+    "https://www.gamesindustry.biz/compulsion-games-officially-separates-from-xbox-the-team-told-me-we-would-rather-eat-rocks-and-drink-gasoline-than-be-split-up",
+    "https://www.invenglobal.com/articles/25010/peyz-ill-definitely-beat-hanwha-life-and-finish-in-2nd-place",
+    "https://www.invenglobal.com/articles/25009/t1-keeps-hope-for-2nd-place-alive-with-win-over-kt-kt-rolster-locked-into-5th-headed-to-play-in"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17590,7 +17598,15 @@
     "27b0ae9f6ced58958c6eef7e95103d21",
     "0a56d32e46f71f13b4388e7b357bf6e8",
     "f4e57444a7df69d8cbe6c65f1414ccb7",
-    "b1dd0848d9338fa741bd9d9ae7338704"
+    "b1dd0848d9338fa741bd9d9ae7338704",
+    "93892b9b95c525c32d85638cb1ff308b",
+    "0c8c8e48d36243fa7bc8eda1b774600b",
+    "ecaf7adef27ad44a30882c9e1e6d28ff",
+    "73f8063a5a274111244b1bcff7ada1f4",
+    "505824bfcb6794c9807e558c6fe446df",
+    "7182300207682b9c9d0485007e7a1b2f",
+    "10725ed7abcd8dcf2017f49edaae930d",
+    "e658485646680c30d0f55cc7426e203a"
   ],
   "transfers": {
     "pages": {
@@ -22439,7 +22455,8 @@
       "message_id": "1540072622287618100",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "GamesIndustry.biz"
       ],
       "title": "Compulsion Games Has Now Officially Separated From Xbox",
       "link": "https://insider-gaming.com/compulsion-games-independent/",
@@ -24422,6 +24439,164 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/rovers-tale-1.jpg?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "Team17 is no longer publishing Observer Interactive's debut title Rover's Tale . Read more"
+    },
+    {
+      "words": [
+        "2nd",
+        "beat",
+        "definitely",
+        "finish",
+        "hanwha",
+        "life",
+        "peyz",
+        "place"
+      ],
+      "at": "2026-08-21T14:19:35.456350+00:00",
+      "message_id": "1540364767418519593",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Peyz: \"I'll definitely beat Hanwha Life and finish in 2nd place\"",
+      "link": "https://www.invenglobal.com/articles/25010/peyz-ill-definitely-beat-hanwha-life-and-finish-in-2nd-place",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©LCKOn August 20, T1 secured a 2-1 victory over kt Rolster in Round 4 of the Legend Group in the 2026 LoL Champions Korea (LCK) Regular Season, held at Chzzk LoL Park in Jongno...."
+    },
+    {
+      "words": [
+        "2nd",
+        "5th",
+        "alive",
+        "headed",
+        "hope",
+        "into",
+        "keeps",
+        "locked",
+        "over",
+        "place",
+        "play",
+        "rolster",
+        "win"
+      ],
+      "at": "2026-08-21T14:19:35.456350+00:00",
+      "message_id": "1540364787723276421",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "T1 Keeps Hope for 2nd Place Alive with Win Over KT... kt Rolster Locked into 5th, Headed to Play-In",
+      "link": "https://www.invenglobal.com/articles/25009/t1-keeps-hope-for-2nd-place-alive-with-win-over-kt-kt-rolster-locked-into-5th-headed-to-play-in",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©LCKIn the 2026 LoL Champions Korea (LCK) Regular Season Round 4 Legend Group match held at the Chzzk LoL Park in Jongno on the 20th, T1 defeated kt Rolster 2-1, keeping their hopes for second place alive...."
+    },
+    {
+      "words": [
+        "condemn",
+        "ins",
+        "lck",
+        "play",
+        "rolster",
+        "telecom",
+        "war",
+        "win"
+      ],
+      "at": "2026-08-21T14:19:35.456350+00:00",
+      "message_id": "1540364807398760551",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "T1 Condemn KT Rolster to LCK Play-Ins after Telecom War Win",
+      "link": "https://insider-gaming.com/kt-rolster-t1-lck-play-ins/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "KT Rolster has been condemned to the LCK Play-Ins after a 1-2 loss to T1 in the LCK Regular Season in the Telecom War contest. The post T1 Condemn KT Rolster to LCK Play-Ins after Telecom War Win appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "2game",
+        "ahead",
+        "americas",
+        "clash",
+        "robbed",
+        "sentinels",
+        "vct"
+      ],
+      "at": "2026-08-21T14:19:35.456350+00:00",
+      "message_id": "1540364829427109929",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "2GAME Esports robbed ahead of VCT Americas Sentinels clash",
+      "link": "https://www.hotspawn.com/valorant/news/2game-robbed-vct-americas-stage-2",
+      "color": 8141549,
+      "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png",
+      "base_description": "Hours before a win-or-go-home match at VCT Americas Stage 2 Play-Ins that would decide if the team would still have a chance to qualify for VALORANT Champions Shanghai, 2GAME Esports had to deal with something no team should have to face on match day. The Brazilian organization r"
+    },
+    {
+      "words": [
+        "heat",
+        "map"
+      ],
+      "at": "2026-08-21T14:19:35.456350+00:00",
+      "message_id": "1540364849635266571",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "The Esports Radar"
+      ],
+      "title": "Heat Map: The EWC passed its biggest stress test",
+      "link": "https://esportsradar.gg/heat-map-the-ewc-passed-its-biggest-stress-test/",
+      "color": 8141549,
+      "image_url": "http://esportsradar.gg/wp-content/uploads/2026/08/image__14_.avif",
+      "base_description": "The Esports Radar travelled to the French capital at the invitation of the Esports Foundation to cover the first week of the Esports World Cup (EWC) 2026. When the event relocation from Riyadh, Saudi Arabia, was announced only two months ahead of the tournament, it felt reasonabl"
+    },
+    {
+      "words": [
+        "cost",
+        "enormous",
+        "live",
+        "opportunity",
+        "pivot",
+        "service",
+        "sony"
+      ],
+      "at": "2026-08-21T14:19:35.456350+00:00",
+      "message_id": "1540364870048817163",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "The opportunity cost of Sony's live service pivot is enormous | Opinion",
+      "link": "https://www.gamesindustry.biz/the-opportunity-cost-of-sonys-live-service-pivot-is-enormous-opinion",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/horizon-hunters-gathering_HXrTa3p.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "The folly of the live service mania that consumed the games business for much of the past decade is pretty well documented by this point . The idea that every game should be a live service game – the absolute madness of thinking that every game could be a live service game – cons"
+    },
+    {
+      "words": [
+        "brings",
+        "entertainment",
+        "event",
+        "gamescom",
+        "gaming",
+        "ign",
+        "networking",
+        "women"
+      ],
+      "at": "2026-08-21T14:19:35.456350+00:00",
+      "message_id": "1540364889808310304",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "IGN Entertainment brings Women In Gaming networking event to Gamescom",
+      "link": "https://www.gamesindustry.biz/ign-entertainment-brings-women-in-gaming-networking-event-to-gamescom",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/women-in-gaming-gamescom-2026.png?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "IGN Entertainment is hosting a Women in Gaming networking breakfast at Gamescom, on the morning of Wednesday 26th August. The event is supported by GamesIndustry.biz , and will take place in the Dorint Hotel am Heumarkt Köln from 8.30-10.30. Read more"
     }
   ]
 }
