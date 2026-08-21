@@ -8731,7 +8731,11 @@
     "https://insider-gaming.com/dave-bautista-cast-kratos-god-of-war/",
     "https://www.hotspawn.com/fortnite/news/is-fnaf-coming-to-fortnite",
     "https://www.invenglobal.com/articles/24967/riot-to-end-active-development-of-2xko-in-december",
-    "https://dotesports.com/gow/news/dave-bautista-cast-as-kratos-in-god-of-war"
+    "https://dotesports.com/gow/news/dave-bautista-cast-as-kratos-in-god-of-war",
+    "https://www.vlr.gg/740687/enterprise-fut-draw-first-blood-in-emea-playoffs",
+    "https://www.invenglobal.com/articles/24970/xgimi-elfin-flip-4k-surpasses-1-billion-won-on-wadiz",
+    "https://www.invenglobal.com/articles/24969/pok%C3%A9mon-tcg-pocket-launches-new-themed-booster-pack-team-rockets-ambition-on-august-27",
+    "https://www.invenglobal.com/articles/24968/everything-you-expected-from-wolverine-marvels-wolverine"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17376,7 +17380,11 @@
     "2c25c494d49274eb477ae847acd21cc6",
     "80ac63543014ce1016eb3ae09d5d72cc",
     "7106da4365d0fec233480ebfaf057e12",
-    "9393f70711ee32642e10a81afa147076"
+    "9393f70711ee32642e10a81afa147076",
+    "89a24524eed6103e96c40a8dfefbf18b",
+    "c523ee30af986c68e0162e89d24868d1",
+    "e3a9a12424472c0bbb34f938529ce988",
+    "d798a88ef11cca1422c34aefff55aa4e"
   ],
   "transfers": {
     "pages": {
@@ -23713,7 +23721,8 @@
       "message_id": "1540002772961853461",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Inven Global (English)"
       ],
       "title": "New Pokémon TCG Pocket Set Focuses On Team Rocket",
       "link": "https://insider-gaming.com/new-pokemon-tcg-pocket-set-focuses-on-team-rocket/",
@@ -24683,6 +24692,69 @@
       "color": 8141549,
       "image_url": "https://gameriv.com/wp-content/uploads/2022/11/God-of-war-Ragnarok-Shields-1-1-1.jpg",
       "base_description": "Dave Bautista is officially stepping into the role of Kratos in Prime Video’s upcoming live-action God of War series. The former WWE star and Guardians of the Galaxy actor will replace Ryan Hurst, who was forced to leave the production after suffering a serious injury while filmi"
+    },
+    {
+      "words": [
+        "billion",
+        "elfin",
+        "flip",
+        "surpasses",
+        "wadiz",
+        "won",
+        "xgimi"
+      ],
+      "at": "2026-08-21T00:52:31.322257+00:00",
+      "message_id": "1540161656662007810",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "XGIMI 'Elfin Flip 4K' Surpasses 1 Billion Won on Wadiz",
+      "link": "https://www.invenglobal.com/articles/24970/xgimi-elfin-flip-4k-surpasses-1-billion-won-on-wadiz",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by Wadiz©wadizWadiz (CEO Shin Hye-sung, www.wadiz.kr) announced on the 20th that approximately 30,000 supporters participated in the crowdfunding project for global smart ......"
+    },
+    {
+      "words": [
+        "everything",
+        "expected",
+        "wolverine",
+        "you"
+      ],
+      "at": "2026-08-21T00:52:31.322257+00:00",
+      "message_id": "1540161676639342645",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Everything You Expected from Wolverine: 'Marvel's Wolverine'",
+      "link": "https://www.invenglobal.com/articles/24968/everything-you-expected-from-wolverine-marvels-wolverine",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©INVENInsomniac Games, which has firmly established itself as one of PlayStation's flagship developers through the Marvel's Spider-Man series, has returned with a new Marvel hero: ......"
+    },
+    {
+      "words": [
+        "blood",
+        "draw",
+        "emea",
+        "enterprise",
+        "first",
+        "fut",
+        "playoffs"
+      ],
+      "at": "2026-08-21T00:52:31.322257+00:00",
+      "message_id": "1540161691180994563",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "Enterprise, FUT draw first blood in EMEA playoffs",
+      "link": "https://www.vlr.gg/740687/enterprise-fut-draw-first-blood-in-emea-playoffs",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The play-ins teams move forward in the upper bracket."
     }
   ]
 }
