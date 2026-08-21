@@ -8904,7 +8904,10 @@
     "https://insider-gaming.com/dota-2-the-internationals-35m-prize-decrease-signals-that-mobas-are-aging-out/",
     "https://esports.gg/guides/fgc/brawlhalla-qinghua-baobao-guide/",
     "https://realsport101.com/article/fc-27-top-100-player-ratings-haaland-mbapp-putellas-lead-list",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URjBkMHpNSG5Xal9rdmR5MWNweVVCcmltTm83QnVJMkZSNE96eUVBUk1sTHFhWE1pbWVyWV8tVk10UTFwRXh3OGVGMmRkZWhsWXllVGxLdE5QVGc?oc=5"
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URjBkMHpNSG5Xal9rdmR5MWNweVVCcmltTm83QnVJMkZSNE96eUVBUk1sTHFhWE1pbWVyWV8tVk10UTFwRXh3OGVGMmRkZWhsWXllVGxLdE5QVGc?oc=5",
+    "https://www.hltv.org/news/45360/spirit-snap-six-match-losing-streak-vs-vitality-to-reach-ewc-semis",
+    "https://insider-gaming.com/modern-warfare-4-mastery-camos/",
+    "https://realsport101.com/article/fc-27-evolutions-changes-pathways-chain-preview-playstyles-lab"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17712,7 +17715,10 @@
     "7900321eaa0c962732e9cb74e6f34070",
     "8702d43e1f4cc4ca6de82ea547640253",
     "ac3af9245117a052ef936d7aa28f17a8",
-    "99cc02ce8a03706f19e530d093d95eb7"
+    "99cc02ce8a03706f19e530d093d95eb7",
+    "bee5fc70dd05a9681e331e19f9889d26",
+    "3b892aff7af9a8ce873b9e5a49317a58",
+    "46b104e391fc559a426447c593d44e44"
   ],
   "transfers": {
     "pages": {
@@ -21907,60 +21913,6 @@
   "sent_stories": [
     {
       "words": [
-        "2xko",
-        "active",
-        "console",
-        "development",
-        "ending",
-        "launch",
-        "less",
-        "riot",
-        "than",
-        "year"
-      ],
-      "at": "2026-08-20T19:56:21.361881+00:00",
-      "message_id": "1540087124446019656",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports",
-        "Insider Gaming",
-        "GameRiv",
-        "Inven Global (English)",
-        "GamesIndustry.biz"
-      ],
-      "title": "Riot is ending active development on 2XKO less than a year after console launch",
-      "link": "https://dotesports.com/2xko/news/2xko-riot-ends-development-december-2026",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/01/Unlock-Jinx-2XKO.jpg",
-      "base_description": "Riot Games sunsets its fighting game."
-    },
-    {
-      "words": [
-        "card",
-        "details",
-        "leaked",
-        "players",
-        "pre",
-        "promo",
-        "rewind",
-        "sbc",
-        "season",
-        "upgrades"
-      ],
-      "at": "2026-08-20T19:56:21.361881+00:00",
-      "message_id": "1540087145207701516",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "RealSport101"
-      ],
-      "title": "FC 26 Rewind Promo: Leaked SBC Players, Card Upgrades, & Pre-Season Details",
-      "link": "https://realsport101.com/article/fc-26-rewind-promo-leaked-sbc-players-card-upgrades-pre-season-details",
-      "color": 8141549,
-      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/1bc3fc0e-fc-26-rewind-sbc-&-objective.webp",
-      "base_description": "Discover leaked FC 26 Rewind SBC and Objective players! Check out the rumored roster featuring Rafael Leão and Trent Alexander-Arnold."
-    },
-    {
-      "words": [
         "confirmed",
         "emea",
         "invites",
@@ -24610,6 +24562,48 @@
       "color": 8141549,
       "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/a620a7b5-fc-27-top-100.webp",
       "base_description": "Explore the official EA Sports FC 27 Top 100 player ratings! Check stats, upgrades, and overalls for Haaland, Mbappé, Putellas, and top gold cards."
+    },
+    {
+      "words": [
+        "ewc",
+        "losing",
+        "match",
+        "reach",
+        "semis",
+        "six",
+        "snap",
+        "spirit",
+        "streak",
+        "vitality"
+      ],
+      "at": "2026-08-21T20:00:56.181815+00:00",
+      "message_id": "1540450669566234665",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "Spirit snap six-match losing streak vs Vitality to reach EWC semis",
+      "link": "https://www.hltv.org/news/45360/spirit-snap-six-match-losing-streak-vs-vitality-to-reach-ewc-semis",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/7QaZoMkc_h7BbG1GuuEPOs.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=e418fa0a85b3061c0207fa8d5c56d823",
+      "base_description": "The Russian side marches into the top-four stage with an important win in three maps."
+    },
+    {
+      "words": [
+        "changes",
+        "evolutions"
+      ],
+      "at": "2026-08-21T20:00:56.181815+00:00",
+      "message_id": "1540450689711603834",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "RealSport101"
+      ],
+      "title": "FC 27 Evolutions Changes: Pathways, Chain Preview & PlayStyles Lab",
+      "link": "https://realsport101.com/article/fc-27-evolutions-changes-pathways-chain-preview-playstyles-lab",
+      "color": 8141549,
+      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/ee122ff5-evo-chain.webp",
+      "base_description": "Discover how Evolutions are changing in EA FC 27! Explore the new branching Pathways system, Chain Preview planning tools, and PlayStyles Lab updates."
     }
   ]
 }
