@@ -128,6 +128,244 @@ usually breaks on X first) has been under-covered — worth actually
 self-hosting an RSSHub instance and swapping these URLs over.
 """
 
+# ============================================================
+# Scraper support (added 2026-08-22)
+#
+# Some sources don't expose a working RSS/Atom feed at all, so
+# feedparser (XML-only) can never read them no matter what URL is
+# tried. Sheep Esports is the first case: its old /rss endpoint is
+# permanently dead (confirmed by fetching the site directly — it's
+# JS-rendered HTML with no XML route since their Next.js relaunch),
+# so it's scraped here instead.
+#
+# A source that needs this sets "fetch_type": "scraper" and
+# "scraper": "<key>" in its RSS_FEEDS entry below (see the Sheep
+# Esports entry). bot.py's fetch_one_feed() checks for that flag and
+# calls SCRAPERS[<key>] instead of doing a normal RSS fetch — see the
+# dispatch there for the exact contract.
+#
+# Every scraper function here must return the same 3-tuple
+# fetch_one_feed() does: (name, entries_or_None, error_or_None). Never
+# raise. Entries must be feedparser.FeedParserDict objects (or support
+# the same .get()/getattr() access) so the rest of bot.py's pipeline —
+# is_fresh(), extract_image(), Phase A/B/C — needs zero changes to
+# consume them; that's the whole point of returning this exact shape
+# instead of some new custom dict.
+#
+# IMPORTANT: this was written and unit-tested against synthetic HTML,
+# but NOT run against the live site — the environment that built this
+# has no network route to sheepesports.com. Run
+# `python3 feeds.py --test-sheep` once after deploying to confirm it's
+# actually pulling real entries (see the __main__ block at the bottom
+# of this file).
+# ============================================================
+import re as _re
+import json as _json
+import html as _html_lib
+from datetime import datetime as _datetime, timedelta as _timedelta, timezone as _timezone
+
+import requests as _requests
+import feedparser as _feedparser  # only used for FeedParserDict here, not .parse()
+
+_SHEEP_BASE = "https://www.sheepesports.com"
+# "Más recientes" / most-recent-first article listing (not the busy
+# homepage, which mixes trending/interviews/leaks sections together).
+_SHEEP_URL = f"{_SHEEP_BASE}/es/all/articles"
+
+_NEXT_DATA_RE = _re.compile(
+    r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', _re.DOTALL
+)
+_ARTICLE_HREF_RE = _re.compile(
+    r'href="(/[a-z]{2}/all/articles/[a-z0-9\-]+(?:/[a-z]{2})?)"', _re.IGNORECASE
+)
+
+# Recent items show relative ages ("59m", "2h", "1d", "1w"); older ones
+# show absolute dates ("17.08.2026" = DD.MM.YYYY). Handle both.
+_REL_TIME_RE = _re.compile(r'^(\d+)\s*(m|h|d|w)$')
+_ABS_DATE_RE = _re.compile(r'^(\d{1,2})\.(\d{1,2})\.(\d{4})$')
+
+
+def _sheep_parse_date(text: str):
+    """Best-effort parse into a time.struct_time (what feedparser puts
+    in published_parsed). Returns None on anything unrecognized —
+    bot.py's is_fresh() treats a missing date as always-fresh, so this
+    fails safe rather than dropping an entry."""
+    text = (text or "").strip().lower()
+    m = _REL_TIME_RE.match(text)
+    if m:
+        n, unit = int(m.group(1)), m.group(2)
+        delta = {
+            "m": _timedelta(minutes=n),
+            "h": _timedelta(hours=n),
+            "d": _timedelta(days=n),
+            "w": _timedelta(weeks=n),
+        }[unit]
+        return (_datetime.now(_timezone.utc) - delta).timetuple()
+    m = _ABS_DATE_RE.match(text)
+    if m:
+        day, month, year = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        try:
+            return _datetime(year, month, day, tzinfo=_timezone.utc).timetuple()
+        except ValueError:
+            return None
+    return None
+
+
+def _sheep_make_entry(title: str, link: str, summary: str = "", date_text: str = "", image: str = ""):
+    e = _feedparser.FeedParserDict()
+    e["title"] = title.strip()
+    e["link"] = link
+    e["summary"] = summary
+    pub = _sheep_parse_date(date_text)
+    if pub:
+        e["published_parsed"] = pub
+    if image:
+        e["media_content"] = [{"url": image}]
+    return e
+
+
+def _sheep_looks_like_article(d) -> bool:
+    if not isinstance(d, dict):
+        return False
+    keys = {k.lower() for k in d.keys()}
+    has_title = any(k in keys for k in ("title", "headline", "name"))
+    has_link = any(k in keys for k in ("slug", "url", "href", "path"))
+    return has_title and has_link
+
+
+def _sheep_find_article_list(node, depth: int = 0):
+    """Walk the __NEXT_DATA__ props tree looking for the first list of
+    dicts that looks like articles. Shallow depth cap so this can't
+    loop on a pathological/circular structure."""
+    if depth > 6:
+        return None
+    if isinstance(node, list) and node and all(_sheep_looks_like_article(i) for i in node[:3]):
+        return node
+    if isinstance(node, dict):
+        for v in node.values():
+            found = _sheep_find_article_list(v, depth + 1)
+            if found:
+                return found
+    return None
+
+
+def _sheep_from_next_data(html_text: str):
+    """Preferred path: pull the exact article list Next.js used to
+    server-render the page out of the __NEXT_DATA__ JSON blob, instead
+    of trying to re-derive it from rendered/linearized text."""
+    m = _NEXT_DATA_RE.search(html_text)
+    if not m:
+        return None
+    try:
+        data = _json.loads(m.group(1))
+    except _json.JSONDecodeError:
+        return None
+
+    page_props = data.get("props", {}).get("pageProps", {}) if isinstance(data, dict) else {}
+    articles = _sheep_find_article_list(page_props)
+    if not articles:
+        return None
+
+    entries = []
+    for a in articles:
+        title = a.get("title") or a.get("headline") or a.get("name") or ""
+        slug = a.get("slug") or a.get("url") or a.get("href") or a.get("path") or ""
+        if not title or not slug:
+            continue
+        link = slug if str(slug).startswith("http") else f"{_SHEEP_BASE}{slug if str(slug).startswith('/') else '/' + slug}"
+        summary = a.get("excerpt") or a.get("description") or a.get("summary") or ""
+        date_text = str(a.get("publishedAt") or a.get("date") or a.get("createdAt") or "")
+        image = a.get("image") or a.get("thumbnail") or ""
+        if isinstance(image, dict):
+            image = image.get("url", "")
+        entries.append(_sheep_make_entry(title, link, summary, date_text, image))
+    return entries or None
+
+
+def _sheep_from_html_fallback(html_text: str):
+    """Fallback if __NEXT_DATA__ isn't found or doesn't match the
+    expected shape: regex out every /all/articles/ link and recover a
+    title from the anchor's own text. Cruder — rendered text on this
+    site mixes image credit lines, tag pills, and the real headline
+    together, so titles from this path can be noisy. Last resort."""
+    seen_links = set()
+    entries = []
+    for href_match in _ARTICLE_HREF_RE.finditer(html_text):
+        href = href_match.group(1)
+        link = f"{_SHEEP_BASE}{href}"
+        if link in seen_links:
+            continue
+        seen_links.add(link)
+
+        tail = html_text[href_match.end():]
+        tag_end = tail.find(">")  # rest of the <a ...> tag's other attrs, if any
+        if tag_end == -1:
+            continue
+        tail = tail[tag_end + 1:]
+        close = tail.find("</a>")
+        if close == -1:
+            continue
+        inner_html = tail[:close]
+        inner_text = _html_lib.unescape(_re.sub(r"<[^>]+>", " ", inner_html))
+        inner_text = _re.sub(r"\s+", " ", inner_text).strip()
+
+        slug_title = href.rstrip("/").split("/")[-1]
+        if slug_title in ("en", "es", "fr"):
+            slug_title = href.rstrip("/").split("/")[-2]
+        fallback_title = slug_title.replace("-", " ").capitalize()
+
+        title = inner_text if len(inner_text) > 8 else fallback_title
+        entries.append(_sheep_make_entry(title, link))
+    return entries
+
+
+def fetch_sheep_esports(feed_info: dict):
+    """Same return contract as bot.py's fetch_one_feed:
+    (name, entries_or_None, error_or_None). Never raises."""
+    name = feed_info["name"]
+    url = feed_info.get("url") or _SHEEP_URL
+    try:
+        resp = _requests.get(
+            url,
+            timeout=15,
+            headers={
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/124.0.0.0 Safari/537.36"
+                ),
+                "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+            },
+        )
+        resp.raise_for_status()
+        html_text = resp.text
+
+        entries = _sheep_from_next_data(html_text)
+        source = "next_data"
+        if not entries:
+            entries = _sheep_from_html_fallback(html_text)
+            source = "html_fallback"
+
+        if not entries:
+            raise RuntimeError("no entries (checked __NEXT_DATA__ and HTML fallback)")
+
+        for e in entries:
+            e["_sheep_scrape_source"] = source  # debug only, harmless downstream
+
+        return name, entries, None
+    except Exception as e:
+        return name, None, str(e)
+
+
+# Registry bot.py's fetch_one_feed() dispatches into for any source
+# marked "fetch_type": "scraper". Add new scraped sources here as they
+# come up — key is whatever string you put in that source's "scraper"
+# field below.
+SCRAPERS = {
+    "sheep_esports": fetch_sheep_esports,
+}
+
+
 RSS_FEEDS = [
     # ============================================================
     # Confirmed working (live run #49, 2026-06-28)
@@ -252,11 +490,27 @@ RSS_FEEDS = [
     {"name": "Esports Charts News", "url": "https://escharts.com/news/feed", "verified": False},
 
     # ============================================================
-    # Added 2026-07-01 per Hazem's request.
-    # Sheep Esports is explicitly a leaks/rumors outlet (LoL, VALORANT,
-    # CS2, Rocket League) — retagged 2026-08-11.
+    # Added 2026-07-01 per Hazem's request. Sheep Esports is explicitly
+    # a leaks/rumors outlet (LoL, VALORANT, CS2, Rocket League) —
+    # retagged 2026-08-11.
+    #
+    # UPDATE 2026-08-22: /rss above was confirmed permanently dead, not
+    # just temporarily down — the site relaunched on Next.js at some
+    # point and no longer exposes any RSS/Atom route at all (confirmed
+    # by fetching the page directly: it's JS-rendered HTML, not XML,
+    # so feedparser always returns 0 entries no matter which path is
+    # tried). Switched this source to a scraper (sheep_scraper.py)
+    # instead of an RSS url — see fetch_type/scraper below. bot.py's
+    # fetch_one_feed() dispatches to it automatically.
     # ============================================================
-    {"name": "Sheep Esports", "url": "https://www.sheepesports.com/rss", "verified": False, "source_type": "leak"},
+    {
+        "name": "Sheep Esports",
+        "url": "https://www.sheepesports.com/es/all/articles",
+        "verified": False,
+        "source_type": "leak",
+        "fetch_type": "scraper",
+        "scraper": "sheep_esports",
+    },
 
     # ============================================================
     # 2026-07-01, batch 3 — cleanup pass.
@@ -408,6 +662,24 @@ RSS_FEEDS = [
 ]
 
 if __name__ == "__main__":
+    import sys
+    if "--test-sheep" in sys.argv:
+        # Quick manual check: `python3 feeds.py --test-sheep`
+        # Run this once after deploying, from an environment that can
+        # actually reach sheepesports.com.
+        name, entries, error = fetch_sheep_esports({"name": "Sheep Esports", "url": _SHEEP_URL})
+        if error:
+            print(f"FAILED: {error}")
+        else:
+            print(f"OK: {len(entries)} entries found\n")
+            for e in entries[:10]:
+                print(f"[{e.get('_sheep_scrape_source')}] {e.get('title')}")
+                print(f"   {e.get('link')}")
+                if e.get("published_parsed"):
+                    print(f"   date: {_datetime(*e['published_parsed'][:6])}")
+                print()
+        sys.exit(0)
+
     print(f"Total feeds: {len(RSS_FEEDS)}")
     print(f"Currently working: {sum(1 for f in RSS_FEEDS if f.get('verified'))}")
     print(f"Currently failing (retried every run): {sum(1 for f in RSS_FEEDS if not f.get('verified'))}")
