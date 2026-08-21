@@ -8886,7 +8886,12 @@
     "https://insider-gaming.com/league-classic-patch-2-nerfs-map-updates-first-council-vote/",
     "https://insider-gaming.com/arc-raiders-cancels-expeditions-until-early-2027/",
     "https://insider-gaming.com/blood-of-dawnwalker-doesnt-feature-a-60-fps-performance-mode-on-consoles/",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ocnlWOGJhdEZ1OENINzlOTTFNYUllUmkzVXJsaXBZYko3eHNCbFluSHFIRkp4VzZPbWdrYzAySVM3X29TMGkwMWlZZnVvUFl2dkFQTTdCNzRxZDg?oc=5"
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ocnlWOGJhdEZ1OENINzlOTTFNYUllUmkzVXJsaXBZYko3eHNCbFluSHFIRkp4VzZPbWdrYzAySVM3X29TMGkwMWlZZnVvUFl2dkFQTTdCNzRxZDg?oc=5",
+    "https://www.hltv.org/news/45358/niko-i-dont-remember-the-last-time-we-got-destroyed-like-this",
+    "https://www.hotspawn.com/valorant/news/the-best-womens-counter-strike-players-are-moving-to-valorant-game-changers",
+    "https://esports.gg/news/all-mastery-camos-in-modern-warfare-4-how-to-earn-them/",
+    "https://esports.gg/guides/fortnite/how-to-get-sprite-dust-upgrade-loot-hacks-in-fortnite-season-4/",
+    "https://www.invenglobal.com/articles/25012/why-roblox-code-lists-go-stale-and-how-to-spot-a-maintained-one"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17678,7 +17683,12 @@
     "fd0fb370c23dc90447f565642f72c30b",
     "ed5cb405268f46052df5a02289fb058e",
     "6a9d0c673a981f898280c2c88263f116",
-    "3ad3484435b7ea0bec5f24e286318a68"
+    "3ad3484435b7ea0bec5f24e286318a68",
+    "ee377f3c9b97bf57d2a45ac34a3b949d",
+    "8fef025f1e078dd1ec914c58248e48e1",
+    "53d755c38340e5023ac0605922061734",
+    "e8cd3fbec3e767612727756f0653cef6",
+    "7c9a8fbeabd05d34cf2d4dee9d7cee72"
   ],
   "transfers": {
     "pages": {
@@ -19557,7 +19567,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-21T12:01:59.513596+00:00",
+  "last_health_alert": "2026-08-21T18:03:38.793324+00:00",
   "recent_titles": [
     {
       "words": [
@@ -24514,6 +24524,72 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "A new video has revealed that Blood of Dawnwalker doesn't feature a 60 FPS performance mode on consoles. Here are more details. The post Blood of Dawnwalker Doesn’t Feature a 60 FPS Performance Mode on Consoles appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "code",
+        "lists",
+        "roblox",
+        "stale",
+        "why"
+      ],
+      "at": "2026-08-21T18:03:14.067936+00:00",
+      "message_id": "1540421049043263499",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Why Roblox Code Lists Go Stale — And How to Spot a Maintained One",
+      "link": "https://www.invenglobal.com/articles/25012/why-roblox-code-lists-go-stale-and-how-to-spot-a-maintained-one",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Roblox has an information problem that competitive players will find familiar. The guides ranking highest are frequently the oldest, and age is not the same thing as accuracy. Search for asset IDs or..."
+    },
+    {
+      "words": [
+        "destroyed",
+        "don",
+        "got",
+        "last",
+        "like",
+        "niko",
+        "remember",
+        "time"
+      ],
+      "at": "2026-08-21T18:03:14.067936+00:00",
+      "message_id": "1540421069360468110",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "NiKo: \"I don't remember the last time we got destroyed like this\"",
+      "link": "https://www.hltv.org/news/45358/niko-i-dont-remember-the-last-time-we-got-destroyed-like-this",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/-c4ixXSoI4IfxDYBQGI87B.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=3760734a2313291da0ef7ec0fee01ff3",
+      "base_description": "NiKo reflected on Falcons' tough loss to Legacy and shock elimination from the Esports World Cup."
+    },
+    {
+      "words": [
+        "best",
+        "changers",
+        "counter",
+        "moving",
+        "players",
+        "strike",
+        "valorant",
+        "women"
+      ],
+      "at": "2026-08-21T18:03:14.067936+00:00",
+      "message_id": "1540421088704725124",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "The best women’s Counter-Strike players are moving to VALORANT Game Changers",
+      "link": "https://www.hotspawn.com/valorant/news/the-best-womens-counter-strike-players-are-moving-to-valorant-game-changers",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Mayline-Joy-_ASTRA_-Champliaud-switched-to-VALORANT-Game-Changers.jpg",
+      "base_description": "FURIA has spent more than six years building one of Brazil’s most respected women’s Counter-Strike rosters. But on August 17, the org confirmed that entire chapter is closing, with the full active lineup making the jump to VALORANT’s Game Changers circuit under the new name FURIA"
     }
   ]
 }
