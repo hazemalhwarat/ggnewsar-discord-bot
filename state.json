@@ -8777,7 +8777,12 @@
     "https://europeangaming.eu/portal/press-releases/2026/08/21/212989/betby-watch-and-bet-live-streaming-feature/",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUY3ekRwLURqRk4xNTRoVDJfcTlsWXFwRThmUjhGT1FQZWRaUE04a0N3SmhreVdJRVc5YmVwV0J1WVB4VFpPOC12eXdONkFnaEoxNE1PUzhtZnBNbUZ4TEVjV2tHYXR0dHNiYkRoSE45TF9zNnlSTnh3cFpZVmtWbnhSbjR5VWlydnRpZWZ6blZaMmtNY1YyWDJBWHJpel9ySFZ2aw?oc=5",
     "https://www.invenglobal.com/articles/24998/inzoi-to-participate-in-chinas-taptap-game-fest-2026",
-    "https://www.invenglobal.com/articles/24997/k-games-holds-on-site-communication-exchange-for-jeonbuk-region-game-industry"
+    "https://www.invenglobal.com/articles/24997/k-games-holds-on-site-communication-exchange-for-jeonbuk-region-game-industry",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-august-21-1167/",
+    "https://www.hotspawn.com/dota2/news/carry-io-is-back-at-ti15-how-to-make-it-work-in-your-pubs",
+    "https://www.invenglobal.com/articles/25001/first-in-game-footage-of-woochi-the-wayfarer-revealed",
+    "https://www.invenglobal.com/articles/25000/chinas-bilibili-accelerates-global-expansion-begins-hiring-in-tokyo-la-and-more",
+    "https://www.invenglobal.com/articles/24999/gamescom-2026-preview-indisputably-one-of-the-worlds-top-two-game-shows"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17467,7 +17472,12 @@
     "21265cf97f00788c8ab1f1226fde36a1",
     "08a73659522db65bbf2490387aa4af3f",
     "74065ffe95b4dada9fd18be282fba0b7",
-    "0e77fddd056b58e5637328a0a5d9f280"
+    "0e77fddd056b58e5637328a0a5d9f280",
+    "b8502b674ecaefa7a3a941cc92425862",
+    "77bc1285fefd971da7e1374b2729a65e",
+    "ffb35b83e163bc6901ff997d27ef5fd4",
+    "f0c717a3525df644a726fa6e2cd58642",
+    "e8e3c8bac8d697f1ac9d5f05ef8d1f6f"
   ],
   "transfers": {
     "pages": {
@@ -21662,50 +21672,6 @@
   "sent_stories": [
     {
       "words": [
-        "bellona",
-        "boss",
-        "label",
-        "master",
-        "rework"
-      ],
-      "at": "2026-08-20T07:27:45.021807+00:00",
-      "message_id": "1539898736694796390",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "New Boss Bellona to Master Label Rework: August 20 Update Summary",
-      "link": "https://www.invenglobal.com/articles/24951/new-boss-bellona-to-master-label-rework-august-20-update-summary",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "The 3rd Summer Season Update has been applied on Thursday, August 20!The update featuring new boss Bellona and various events is now liveHere is a summary of key changes and essent......"
-    },
-    {
-      "words": [
-        "bring",
-        "development",
-        "ecosystem",
-        "engine",
-        "gen",
-        "next",
-        "shift",
-        "unreal",
-        "will"
-      ],
-      "at": "2026-08-20T07:27:45.021807+00:00",
-      "message_id": "1539898751341035664",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Next-Gen Engine 'Unreal Engine 6' \"Will Bring a Shift in the Development Ecosystem\"",
-      "link": "https://www.invenglobal.com/articles/24950/next-gen-engine-unreal-engine-6-will-bring-a-shift-in-the-development-ecosystem",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©INVENEpic Games hosted 'Unreal Fest Seoul 2026' for two days from today (the 20th) to the 21st at Westin Seoul Parnas...."
-    },
-    {
-      "words": [
         "expect",
         "extended",
         "global",
@@ -22522,7 +22488,8 @@
         "Esports Nations Cup 2026",
         "Hotspawn",
         "Al-Ahli Esports (Saudi, new CS2 roster June 2026)",
-        "Syria Esports"
+        "Syria Esports",
+        "Inven Global (English)"
       ],
       "title": "Overwatch World Cup 2026: Schedule, results, teams, and format",
       "link": "https://dotesports.com/overwatch/news/overwatch-world-cup-2026-results",
@@ -24537,6 +24504,91 @@
       "color": 8141549,
       "image_url": "https://media.europeangaming.eu/uploads/2026/08/BETBY-adds-integrated-Watch-Bet-feature-to-live-sportsbook-experience.jpg",
       "base_description": "The launch comes backed by BETBY’s own World Cup data showing streaming access drove a 44.79% GGR-per-player uplift,… The post BETBY adds integrated Watch & Bet feature to live sportsbook experience appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "first",
+        "footage",
+        "revealed",
+        "wayfarer",
+        "woochi"
+      ],
+      "at": "2026-08-21T07:29:18.394750+00:00",
+      "message_id": "1540261511291998278",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "First In-Game Footage of Woochi the Wayfarer Revealed",
+      "link": "https://www.invenglobal.com/articles/25001/first-in-game-footage-of-woochi-the-wayfarer-revealed",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The first in-game footage of Woochi the Wayfarer has been revealed.At Unreal Fest Seoul 2026 held on August 21, Mok Young-mi, art director of Woochi the Wayfarer, delivered a prese......"
+    },
+    {
+      "words": [
+        "accelerates",
+        "begins",
+        "bilibili",
+        "china",
+        "expansion",
+        "global",
+        "hiring",
+        "more",
+        "tokyo"
+      ],
+      "at": "2026-08-21T07:29:18.394750+00:00",
+      "message_id": "1540261526576042075",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "China's Bilibili Accelerates Global Expansion, Begins Hiring in Tokyo, LA, and More",
+      "link": "https://www.invenglobal.com/articles/25000/chinas-bilibili-accelerates-global-expansion-begins-hiring-in-tokyo-la-and-more",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©bilibili Creator HubBilibili, China's largest video community platform, has set out to expand into the global market.U.S...."
+    },
+    {
+      "words": [
+        "1167",
+        "answers",
+        "august",
+        "connections",
+        "friday",
+        "hints",
+        "nyt",
+        "today"
+      ],
+      "at": "2026-08-21T07:29:18.394750+00:00",
+      "message_id": "1540261547522129922",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "NYT Connections Hints Today (#1167)—Answers for Friday, August 21",
+      "link": "https://insider-gaming.com/nyt-connections-hints-solutions-august-21-1167/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1167)—Answers for Friday, August 21 appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "back",
+        "carry",
+        "ti15"
+      ],
+      "at": "2026-08-21T07:29:18.394750+00:00",
+      "message_id": "1540261563141849182",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "Carry Io is back at TI15 – How to make it work in your pubs",
+      "link": "https://www.hotspawn.com/dota2/news/carry-io-is-back-at-ti15-how-to-make-it-work-in-your-pubs",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/55467153524_b48c0662b7_k-1.jpg",
+      "base_description": "If you’re watching the TI15 playoffs, you may have noticed this Io hero making several appearances, and as a carry, at that. However, these professional players aren’t trolling, as this is a very real and viable pick even if players like Ame and Pure struggled to make it work on "
     }
   ]
 }
