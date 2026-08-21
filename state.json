@@ -8820,7 +8820,10 @@
     "https://www.gamesindustry.biz/why-xboxs-console-ads-could-be-a-good-thing-for-gaming-opinion",
     "https://www.invenglobal.com/articles/25008/raptor-we-need-to-play-much-better-in-the-play-in-and-playoffs-than-we-are-right-now",
     "https://www.invenglobal.com/articles/25007/how-neverness-to-everness-mastered-high-density-open-world-and-pcmobile-optimization",
-    "https://www.invenglobal.com/articles/25006/bnk-fearx-defeat-hanjin-brion-all-that-remains-is-holding-first-place"
+    "https://www.invenglobal.com/articles/25006/bnk-fearx-defeat-hanjin-brion-all-that-remains-is-holding-first-place",
+    "https://insider-gaming.com/fortnites-new-season-hints-at-five-nights-at-freddys-collab/",
+    "https://www.hotspawn.com/dota2/news/johnxfire-on-chinese-dota-at-ti15-i-feel-like-theres-always-a-way-to-bounce-back-right",
+    "https://europeangaming.eu/portal/press-releases/2026/08/21/213016/hub88-gametimetec-showtime-slots-integration/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17552,7 +17555,10 @@
     "246a002ce3275b9ac0b399e0bdc97d01",
     "863f34ea437e7aeb468b7cd1e8ff1ef1",
     "045b08e265d13f0ff139402f7287377b",
-    "f3e060a4f7f7a969f7dbd0d1d2d33c1e"
+    "f3e060a4f7f7a969f7dbd0d1d2d33c1e",
+    "047054993142d680b41b4b92b6eef738",
+    "a75f3ba719186af6be0ba5ae30533826",
+    "6ab75223c2e079ceac880234b87af1c7"
   ],
   "transfers": {
     "pages": {
@@ -21747,78 +21753,6 @@
   "sent_stories": [
     {
       "words": [
-        "break",
-        "can",
-        "doesn",
-        "easily",
-        "good",
-        "have",
-        "really",
-        "when",
-        "zone"
-      ],
-      "at": "2026-08-20T11:28:35.344454+00:00",
-      "message_id": "1539959340386222193",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "“When he’s in the zone, he is really good… If he doesn’t have a good game, he can break easily” – torzsi on PR",
-      "link": "https://insider-gaming.com/mouz-torzsi-interview-esports-world-cup-2026/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Insider Gaming spoke to Ádám 'torzsi' Torzsás after MOUZ's dramatic 2-1 victory over GamerLegion at the Esports World Cup CS2 tournament. The post “When he’s in the zone, he is really good… If he doesn’t have a good game, he can break easily” – torzsi on PR appeared first on Insi"
-    },
-    {
-      "words": [
-        "americas",
-        "discusses",
-        "jawgemo",
-        "playoffs",
-        "run",
-        "towards",
-        "vct"
-      ],
-      "at": "2026-08-20T11:28:35.344454+00:00",
-      "message_id": "1539959355057774603",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "Jawgemo discusses G2’s run towards VCT Americas playoffs",
-      "link": "https://www.hotspawn.com/valorant/news/jawgemo-discusses-g2s-run-towards-vct-americas-playoffs",
-      "color": 8141549,
-      "image_url": "https://www.youtube.com/embed/yHiY76FPAtk",
-      "base_description": "G2 Esports needed overtime to get past Challengers side M80 in their VCT Americas Stage 2 Play-Ins opener, leaning on a Breeze composition the team had only put together the day before. It’s the latest step in a bounce back after a rocky group stage that saw G2 stumble against LO"
-    },
-    {
-      "words": [
-        "dollars",
-        "gamescom",
-        "heard",
-        "millions",
-        "not",
-        "presence",
-        "probably",
-        "publisher",
-        "spending",
-        "why",
-        "you"
-      ],
-      "at": "2026-08-20T11:28:35.344454+00:00",
-      "message_id": "1539959380412342348",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "title": "Why a publisher you've probably not heard of is spending millions of dollars on its Gamescom presence",
-      "link": "https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence",
-      "color": 8141549,
-      "image_url": "https://assetsio.gnwcdn.com/scf5pu.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "base_description": "Walking the halls of Gamescom, the biggest, most elaborate booths you'll see will generally have an equally big, familiar name attached. Here's Capcom, Xbox, Sega, EA, Ubisoft, and so on. But at this year's event, a significant chunk of Halls 6 and 7 will be taken up by a name yo"
-    },
-    {
-      "words": [
         "already",
         "destinations",
         "destiny",
@@ -22741,7 +22675,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "Dot Esports",
-        "Esports.gg"
+        "Esports.gg",
+        "Insider Gaming"
       ],
       "title": "Five Nights at Freddy’s teasers have appeared in Fortnite",
       "link": "https://dotesports.com/fnaf/news/five-nights-at-freddys-fnaf-fortnite-teaser-building-map-restaurant-fazbear",
@@ -24712,6 +24647,30 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/FresnoUX_CommsSocial.png?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "Virginie Chesnais is CMO at the ad tech analytics platform Happydemics . Read more"
+    },
+    {
+      "words": [
+        "api",
+        "gametimetec",
+        "hub88",
+        "integrates",
+        "portfolio",
+        "showtime",
+        "single",
+        "slots",
+        "via"
+      ],
+      "at": "2026-08-21T11:40:34.533993+00:00",
+      "message_id": "1540324756434452501",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "Hub88 integrates Gametimetec’s Showtime Slots portfolio via single API",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/08/21/213016/hub88-gametimetec-showtime-slots-integration/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Hub88-integrates-Gametimetecs-Showtime-Slots-portfolio-via-single-API.jpg",
+      "base_description": "The deal is the latest in a series of studio integrations by Hub88 as the Tallinn-based aggregator expands… The post Hub88 integrates Gametimetec’s Showtime Slots portfolio via single API appeared first on European Gaming Industry News ."
     }
   ]
 }
