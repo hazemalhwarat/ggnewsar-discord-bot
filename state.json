@@ -8928,7 +8928,8 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PRjFVWmdNdlRVZmF0cDI3WlVhb3o0LTVkQ2ZTbmFSVHpSMWRIV0MzV3VmaXlWWVVuWmhxNktVOHBvMXU1WEVxdlgxMzJURzdub3doeGhNUjF1aDhqT3RZcjA5QzMxN3JNRlE?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE11MFZRWHB0OUZ1LUd5b29lanlhLUluSDNoRVBkNnlaT0ltRklPQjMwS0R5M3VDbVhUaElSZmJXQkRmQ3JSV0ktUXRwVm9XdmN5ZXc0OEtZYXhrN1JLTWpkd0doTjd4UHBEbWc?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmRIblQxUFFiRk5iSW1ibU1CQzVQX0dTcURGRmd1emRscUgxMkd1bjJ4NUhVT3B5UzZiWmVXdDdqMWtaVjRpakQ0MTh1S19NNEtUa3ZUWDFuSHBmMlp5X2t5SGc5VEtaT3BMZ2VuX1FHWTRYRi1abFVtajAzc2ZXMk5YS0d4SGhQdUhDaWIwMjIxRG9UY3RHYm9DcjFfbVlKRFAyZGRWTnQ3dEJaMndhclo5aVJtTWdRTXQyMFZEbVBVY0lkZ3pJ?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelVJS1dzMjBOaFZESl9DczhBNmdQSDhHMVlEdW5BaDY5bno5M09pTEZjcHh4NlpLUEQ2WGxwcG5wVEZHSkZUbFM2V1JVVy15NWVUVHlpaU96QnhpRWFWVW9mSG95c1gyYjZENXRLZjVndXBpRmh3NTdSMHg5dzBscWtuQXF5R1NrY0QwM1g2bm5uU3RRTTJObmxGYjdTUm5RdHVIbV9wZjN4RG9tZF9B?oc=5"
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelVJS1dzMjBOaFZESl9DczhBNmdQSDhHMVlEdW5BaDY5bno5M09pTEZjcHh4NlpLUEQ2WGxwcG5wVEZHSkZUbFM2V1JVVy15NWVUVHlpaU96QnhpRWFWVW9mSG95c1gyYjZENXRLZjVndXBpRmh3NTdSMHg5dzBscWtuQXF5R1NrY0QwM1g2bm5uU3RRTTJObmxGYjdTUm5RdHVIbV9wZjN4RG9tZF9B?oc=5",
+    "https://www.hotspawn.com/call-of-duty/news/new-cdl-game-mode-modern-warfare-4-beta"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17755,7 +17756,8 @@
     "5970c75104f642e5af1b2529f0e3b682",
     "0cfd36dfe5b0ca343025995805fa9af8",
     "5bfdef78f8739433244373b8276f0955",
-    "13d4deae434c00076355bc109b2fd29d"
+    "13d4deae434c00076355bc109b2fd29d",
+    "2c31987543f7ed46cc0f1fe4a0bb0572"
   ],
   "transfers": {
     "pages": {
@@ -24751,6 +24753,27 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "KC VS EP VALORANT Esports"
+    },
+    {
+      "words": [
+        "cdl",
+        "hijack",
+        "mode",
+        "mw4",
+        "off",
+        "shows"
+      ],
+      "at": "2026-08-21T22:16:37.038689+00:00",
+      "message_id": "1540484814690455615",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "MW4 Shows Off New CDL Game Mode Hijack",
+      "link": "https://www.hotspawn.com/call-of-duty/news/new-cdl-game-mode-modern-warfare-4-beta",
+      "color": 8141549,
+      "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f440.png",
+      "base_description": "The Modern Warfare 4 Beta is well and truly underway, and amid all of the chaos and new shiny toys, a new CDL game mode has stolen the show, as Hijack arrives as a modern-day Uplink alternative. Each year, a new Call of Duty brings new game modes that fly under the radar. But ver"
     }
   ]
 }
