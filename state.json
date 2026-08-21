@@ -8894,7 +8894,12 @@
     "https://www.invenglobal.com/articles/25012/why-roblox-code-lists-go-stale-and-how-to-spot-a-maintained-one",
     "https://dotesports.com/call-of-duty/news/mw4-apex-attachments-reveal",
     "https://insider-gaming.com/why-cant-i-play-modern-warfare-4-beta-right-now-server-status-explained/",
-    "https://esports.gg/news/overwatch/lifeweaver-disabled-across-all-overwatch-game-modes/"
+    "https://esports.gg/news/overwatch/lifeweaver-disabled-across-all-overwatch-game-modes/",
+    "https://www.hltv.org/news/45359/latto-we-respect-falcons-a-lot-but-were-not-afraid",
+    "https://traxion.gg/raceroom-to-showcase-at-the-simracing-expo-frankfurt/",
+    "https://www.global-esports.news/call-of-duty/cod-modern-warfare-4-beta-start-time-codes-maps-modes-all-the-info-at-a-glance/",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EQV9QbGlaOExydUJhdTIyVDFDYWFmeVFzcXZjdjhjRVN6VHR2cXI3aWFMbzlUekZBczhHTk1yX0FnTVpZZUdUcnpoX3VtaXNWbXdvZHNxNjYydkk?oc=5",
+    "https://realsport101.com/article/fc-26-futties-finale-evolution-guide-best-players-stat-upgrades"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17694,7 +17699,11 @@
     "7c9a8fbeabd05d34cf2d4dee9d7cee72",
     "71822cb5af99b359635ec58f44721ec9",
     "f680cac05cd11dc8db77a47f4f176d94",
-    "c3409baffc80d690505d29b1b6a9bf0c"
+    "c3409baffc80d690505d29b1b6a9bf0c",
+    "96fb16e3f71a4a1c1e27a787925f65ca",
+    "dc354bec9b61b63a5f395606359bc3c7",
+    "70433f826361c78658a98c19f4f4a820",
+    "9ef18018a8423b76195bd3cfbd150c41"
   ],
   "transfers": {
     "pages": {
@@ -21889,142 +21898,6 @@
   "sent_stories": [
     {
       "words": [
-        "all",
-        "campaigns",
-        "destiny",
-        "expansions",
-        "order",
-        "release"
-      ],
-      "at": "2026-08-20T18:58:36.573339+00:00",
-      "message_id": "1540072591900024876",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "All Destiny 2 campaigns and expansions in the release order",
-      "link": "https://dotesports.com/destiny/news/all-destiny-2-dlcs-and-expansions",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2024/05/2024_TFS_Dev_Preview_Press_Kit_Prism_COMPRESSED_005.jpg",
-      "base_description": "All of the game's major post-release content."
-    },
-    {
-      "words": [
-        "ahri",
-        "another",
-        "back",
-        "fortnite",
-        "hint",
-        "joining",
-        "might"
-      ],
-      "at": "2026-08-20T18:58:36.573339+00:00",
-      "message_id": "1540072607603237055",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "Hotspawn"
-      ],
-      "title": "Ahri Joining Fortnite is Another Hint That K/DA Might Be Back",
-      "link": "https://insider-gaming.com/ahri-joining-fortnite-is-another-hint-that-k-da-might-be-back/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Ahri is set to be the latest League of Legends champion added to Fortnite which suggests that K/DA really will make a 2026 comeback The post Ahri Joining Fortnite is Another Hint That K/DA Might Be Back appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "compulsion",
-        "has",
-        "now",
-        "officially",
-        "separated",
-        "xbox"
-      ],
-      "at": "2026-08-20T18:58:36.573339+00:00",
-      "message_id": "1540072622287618100",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "GamesIndustry.biz"
-      ],
-      "title": "Compulsion Games Has Now Officially Separated From Xbox",
-      "link": "https://insider-gaming.com/compulsion-games-independent/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Compulsion Games has successfully completed a management buyout, becoming fully separated from Xbox. The post Compulsion Games Has Now Officially Separated From Xbox appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "ahead",
-        "leaked",
-        "legacy",
-        "plague",
-        "release",
-        "resonance",
-        "seemingly",
-        "tale",
-        "week"
-      ],
-      "at": "2026-08-20T18:58:36.573339+00:00",
-      "message_id": "1540072637131399169",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Resonance: A Plague Tale Legacy Seemingly Leaked a Week Ahead of Release",
-      "link": "https://insider-gaming.com/resonance-a-plague-tale-legacy-seemingly-leaked-a-week-ahead-of-release/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Players are warning that the PC version of Resonance: A Plague Tale Legacy has leaked online a week ahead of release. The post Resonance: A Plague Tale Legacy Seemingly Leaked a Week Ahead of Release appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "fortnite",
-        "how",
-        "klombo",
-        "sprite",
-        "unlock"
-      ],
-      "at": "2026-08-20T18:58:36.573339+00:00",
-      "message_id": "1540072652205465622",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg",
-        "Insider Gaming",
-        "Dot Esports"
-      ],
-      "title": "How to unlock the Klombo Sprite in Fortnite",
-      "link": "https://esports.gg/guides/fortnite/how-to-unlock-the-klombo-sprite-in-fortnite/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Unlock the Klombo Sprite in Fortnite Override to get random items at each level."
-    },
-    {
-      "words": [
-        "2027",
-        "broadcast",
-        "debut",
-        "extends",
-        "finals",
-        "lck",
-        "mbc",
-        "rating",
-        "through"
-      ],
-      "at": "2026-08-20T18:58:36.573339+00:00",
-      "message_id": "1540072666743181314",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Advocate"
-      ],
-      "title": "MBC Extends LCK Finals Broadcast Through 2027 After 0.4% Debut Rating",
-      "link": "https://esportsadvocate.net/2026/08/mbc-extends-lck-finals-broadcast-through-2027/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Riot Games has extended its broadcast agreement with MBC to carry the League of Legends Champions Korea Finals live on South Korean terrestrial television through 2027, taking the country’s premier League of Legends competition to a third consecutive year on national TV. Accordin"
-    },
-    {
-      "words": [
         "ewc",
         "finals",
         "furia",
@@ -23344,7 +23217,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "Dot Esports",
-        "Esports.gg"
+        "Esports.gg",
+        "Global Esports News CoD"
       ],
       "title": "Modern Warfare 4 Beta patch notes: Campaign mission, MP maps, modes, and more",
       "link": "https://dotesports.com/call-of-duty/news/modern-warfare-4-beta-patch-notes",
@@ -24669,6 +24543,67 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "Lifeweaver is currently missing from Overwatch's hero selection screen. However, this is temporary."
+    },
+    {
+      "words": [
+        "afraid",
+        "but",
+        "falcons",
+        "latto",
+        "lot",
+        "not",
+        "respect"
+      ],
+      "at": "2026-08-21T19:21:47.499860+00:00",
+      "message_id": "1540440818807083182",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "latto: \"We respect Falcons a lot but we're not afraid\"",
+      "link": "https://www.hltv.org/news/45359/latto-we-respect-falcons-a-lot-but-were-not-afraid",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/lrkALzMauIIYCteyKDv0Dk.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=8ab2939afc9bd5195101bb433f290e80",
+      "base_description": "latto reflected on Legacy's stunning win over Falcons and another tough match ahead at the Esports World Cup."
+    },
+    {
+      "words": [
+        "expo",
+        "frankfurt",
+        "raceroom",
+        "showcase",
+        "simracing"
+      ],
+      "at": "2026-08-21T19:21:47.499860+00:00",
+      "message_id": "1540440839036346479",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Traxion.gg Esports"
+      ],
+      "title": "RaceRoom to showcase at the SimRacing Expo Frankfurt",
+      "link": "https://traxion.gg/raceroom-to-showcase-at-the-simracing-expo-frankfurt/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The free-to-enter sim racing platform will have a dedicated booth at the German event. The post RaceRoom to showcase at the SimRacing Expo Frankfurt appeared first on Traxion.GG ."
+    },
+    {
+      "words": [
+        "evolution",
+        "finale",
+        "futties",
+        "guide"
+      ],
+      "at": "2026-08-21T19:21:47.499860+00:00",
+      "message_id": "1540440864310956203",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "RealSport101"
+      ],
+      "title": "FC 26 FUTTIES Finale Evolution Guide: Best Players & Stat Upgrades",
+      "link": "https://realsport101.com/article/fc-26-futties-finale-evolution-guide-best-players-stat-upgrades",
+      "color": 8141549,
+      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/9f12d02d-evolution-feature-futties-finale.webp",
+      "base_description": "Discover the best players for the FC 26 FUTTIES Finale Evolution! Check out top picks like Alex Scott, Ramires, and Ronaldo, plus all upgrades."
     }
   ]
 }
