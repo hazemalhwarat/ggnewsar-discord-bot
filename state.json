@@ -8910,7 +8910,9 @@
     "https://realsport101.com/article/fc-27-evolutions-changes-pathways-chain-preview-playstyles-lab",
     "https://insider-gaming.com/expert-mobility-course-modern-warfare-4-clockwork-weapon-charm/",
     "https://insider-gaming.com/spirit-defeat-vitality-ewc-2026/",
-    "https://realsport101.com/article/nba-2k27-crossplay-pc-requirements-specs-platforms-details"
+    "https://realsport101.com/article/nba-2k27-crossplay-pc-requirements-specs-platforms-details",
+    "https://insider-gaming.com/rockstar-has-not-identified-gta-6-leaker/",
+    "https://esports.gg/guides/call-of-duty/best-m4-loadout-in-modern-warfare-4-beta/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17724,7 +17726,9 @@
     "46b104e391fc559a426447c593d44e44",
     "42f44c09e8e2c42272bf822cab08c6db",
     "6f47324d2ec4b8b76bff5c4223174e05",
-    "879f670c5196569458baf4a8064a4d5d"
+    "879f670c5196569458baf4a8064a4d5d",
+    "8f8e9f18dcd7379e86201bfe03966d71",
+    "9eaf8e62d3f2a51d9b19400cda1d5851"
   ],
   "transfers": {
     "pages": {
@@ -24631,6 +24635,28 @@
       "color": 8141549,
       "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/7a8b9f18-nba2k27_csr-mycareer_magic-bird-era_1920x1080.webp",
       "base_description": "Check NBA 2K27 cross-play platforms, cross-progression limits, and official PC minimum and recommended specs ahead of the August 26 early access."
+    },
+    {
+      "words": [
+        "delay",
+        "gameplay",
+        "gta",
+        "leaks",
+        "reveal",
+        "rockstar",
+        "won"
+      ],
+      "at": "2026-08-21T20:51:47.837308+00:00",
+      "message_id": "1540463469206442045",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Rockstar Won’t Delay GTA 6 Gameplay Reveal After Leaks",
+      "link": "https://insider-gaming.com/rockstar-has-not-identified-gta-6-leaker/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Rockstar reportedly has not identified the GTA 6 leaker, but it does not plan to move its gameplay premiere or change its marketing strategy. The post Rockstar Won’t Delay GTA 6 Gameplay Reveal After Leaks appeared first on Insider Gaming ."
     }
   ]
 }
