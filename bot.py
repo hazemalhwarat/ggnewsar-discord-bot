@@ -122,7 +122,13 @@ from pathlib import Path
 import feedparser
 import requests
 
-from feeds import RSS_FEEDS
+from feeds import RSS_FEEDS, SCRAPERS
+
+# Sources that can't be fetched as RSS/Atom (feedparser needs XML; some
+# sites, like Sheep Esports post-2026-relaunch, don't expose any XML
+# route) are marked "fetch_type": "scraper" in feeds.py, which is also
+# where SCRAPERS (name -> function) and the scraper functions
+# themselves live. fetch_one_feed() below just dispatches into it.
 
 # ============================================================
 # Configuration
@@ -854,6 +860,13 @@ def fetch_one_feed(feed_info: dict):
     instead of one-by-one, keeping each single-pass invocation fast
     (seconds, not minutes) even with a slow/dead source mixed in."""
     name = feed_info["name"]
+
+    if feed_info.get("fetch_type") == "scraper":
+        scraper_fn = SCRAPERS.get(feed_info.get("scraper"))
+        if not scraper_fn:
+            return name, None, f"no scraper registered for {feed_info.get('scraper')!r}"
+        return scraper_fn(feed_info)
+
     url = feed_info["url"]
     try:
         resp = requests.get(
