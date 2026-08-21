@@ -8930,7 +8930,8 @@
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmRIblQxUFFiRk5iSW1ibU1CQzVQX0dTcURGRmd1emRscUgxMkd1bjJ4NUhVT3B5UzZiWmVXdDdqMWtaVjRpakQ0MTh1S19NNEtUa3ZUWDFuSHBmMlp5X2t5SGc5VEtaT3BMZ2VuX1FHWTRYRi1abFVtajAzc2ZXMk5YS0d4SGhQdUhDaWIwMjIxRG9UY3RHYm9DcjFfbVlKRFAyZGRWTnQ3dEJaMndhclo5aVJtTWdRTXQyMFZEbVBVY0lkZ3pJ?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelVJS1dzMjBOaFZESl9DczhBNmdQSDhHMVlEdW5BaDY5bno5M09pTEZjcHh4NlpLUEQ2WGxwcG5wVEZHSkZUbFM2V1JVVy15NWVUVHlpaU96QnhpRWFWVW9mSG95c1gyYjZENXRLZjVndXBpRmh3NTdSMHg5dzBscWtuQXF5R1NrY0QwM1g2bm5uU3RRTTJObmxGYjdTUm5RdHVIbV9wZjN4RG9tZF9B?oc=5",
     "https://www.hotspawn.com/call-of-duty/news/new-cdl-game-mode-modern-warfare-4-beta",
-    "https://insider-gaming.com/xbox-helping-rockstar-protect-gta-6-ip/"
+    "https://insider-gaming.com/xbox-helping-rockstar-protect-gta-6-ip/",
+    "https://gameriv.com/arc-raiders-expeditions-are-going-away-until-early-2027/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17759,7 +17760,8 @@
     "5bfdef78f8739433244373b8276f0955",
     "13d4deae434c00076355bc109b2fd29d",
     "2c31987543f7ed46cc0f1fe4a0bb0572",
-    "8e1574404dcb928b7c284289a26d528a"
+    "8e1574404dcb928b7c284289a26d528a",
+    "9b90623f083d73b2fef46b4bf70fedf2"
   ],
   "transfers": {
     "pages": {
@@ -24107,7 +24109,8 @@
       "message_id": "1540413607945314376",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "GameRiv"
       ],
       "title": "ARC Raiders Cancels Expeditions Until Early 2027",
       "link": "https://insider-gaming.com/arc-raiders-cancels-expeditions-until-early-2027/",
