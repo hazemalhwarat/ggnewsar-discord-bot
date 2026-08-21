@@ -8848,7 +8848,15 @@
     "https://www.gamesindustry.biz/ign-entertainment-brings-women-in-gaming-networking-event-to-gamescom",
     "https://www.gamesindustry.biz/compulsion-games-officially-separates-from-xbox-the-team-told-me-we-would-rather-eat-rocks-and-drink-gasoline-than-be-split-up",
     "https://www.invenglobal.com/articles/25010/peyz-ill-definitely-beat-hanwha-life-and-finish-in-2nd-place",
-    "https://www.invenglobal.com/articles/25009/t1-keeps-hope-for-2nd-place-alive-with-win-over-kt-kt-rolster-locked-into-5th-headed-to-play-in"
+    "https://www.invenglobal.com/articles/25009/t1-keeps-hope-for-2nd-place-alive-with-win-over-kt-kt-rolster-locked-into-5th-headed-to-play-in",
+    "https://esportsinsider.com/2026/08/ai-vs-expert-lec-week-five-predictions",
+    "https://esportsinsider.com/2026/08/valorant-champions-shanghai-preview",
+    "https://www.vlr.gg/740957/jd-gaming-qualifies-for-champions-tyloo-stays-alive",
+    "https://insider-gaming.com/pokemon-tcg-pocket-players-can-become-honorary-team-rocket-members-in-new-event/",
+    "https://www.gfinityesports.com/article/fc-26-rewind-promo-leaked-sbc-players-card-upgrades-pre-season-details",
+    "https://www.gfinityesports.com/article/nba-2k27-early-access-start-date-times-how-to-play-early",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CdjR5VV90OVVsTkVRREV1LXgzZTNjX21OOFBoNzVqQVFqaUFkOE5Rb3FDYnpkbi1qMTZsc3N1ZGVIV1IzZWtWTEViYVI5a2ZiWFItdjg0cEJ1dG8?oc=5",
+    "https://www.hltv.org/news/45356/mibr-chief-insani-has-a-good-offer-from-us-on-the-table-hes-thinking-it-over"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17606,7 +17614,12 @@
     "505824bfcb6794c9807e558c6fe446df",
     "7182300207682b9c9d0485007e7a1b2f",
     "10725ed7abcd8dcf2017f49edaae930d",
-    "e658485646680c30d0f55cc7426e203a"
+    "e658485646680c30d0f55cc7426e203a",
+    "aa5b551bf876d40f03f8cafd002c6ead",
+    "7f1360b637893beea9f6ebd2a34d9cd5",
+    "4594a90c5ac484c00c1acf192a3fcfea",
+    "901404abfcf5a51dd30f77b5f715ca69",
+    "4a29f4f4b7a451fe4b6ffff1245a41dd"
   ],
   "transfers": {
     "pages": {
@@ -21801,96 +21814,6 @@
   "sent_stories": [
     {
       "words": [
-        "death",
-        "duskbloods",
-        "penalty",
-        "player",
-        "pvpve",
-        "stress"
-      ],
-      "at": "2026-08-20T14:20:59.653717+00:00",
-      "message_id": "1540002727596400731",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "'The Duskbloods': No Death Penalty, No Stress in 8-Player PvPvE",
-      "link": "https://www.invenglobal.com/articles/24964/the-duskbloods-no-death-penalty-no-stress-in-8-player-pvpve",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "FromSoftware's new title 'The Duskbloods' will make its debut to players on August 21 through a network test. Extremely little is known about 'The Duskbloods' so far...."
-    },
-    {
-      "words": [
-        "about",
-        "bloodborne",
-        "duskbloods",
-        "everything",
-        "fromsoftware",
-        "miyazaki",
-        "president",
-        "reveals",
-        "unrelated"
-      ],
-      "at": "2026-08-20T14:20:59.653717+00:00",
-      "message_id": "1540002742360211457",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "\"Unrelated to Bloodborne\": FromSoftware President Miyazaki Reveals Everything About 'The Duskbloods'",
-      "link": "https://www.invenglobal.com/articles/24962/unrelated-to-bloodborne-fromsoftware-president-miyazaki-reveals-everything-about-the-duskbloods",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©Nintendo KoreaLooking back, FromSoftware has always been like this. They have always made the games they wanted to make...."
-    },
-    {
-      "words": [
-        "decade",
-        "first",
-        "mega",
-        "pokémon",
-        "rayquaza",
-        "returns",
-        "tcg",
-        "time"
-      ],
-      "at": "2026-08-20T14:20:59.653717+00:00",
-      "message_id": "1540002757531144393",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Mega Rayquaza Returns To Pokémon TCG For First Time In A Decade",
-      "link": "https://insider-gaming.com/mega-rayquaza-returns-to-pokemon-tcg-for-first-time-in-a-decade/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Mega Rayquaza makes a triumphant return to the Pokémon TCG in the upcoming Delta Reign expansion. The post Mega Rayquaza Returns To Pokémon TCG For First Time In A Decade appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "focuses",
-        "pocket",
-        "pokémon",
-        "rocket",
-        "set",
-        "tcg"
-      ],
-      "at": "2026-08-20T14:20:59.653717+00:00",
-      "message_id": "1540002772961853461",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "Inven Global (English)"
-      ],
-      "title": "New Pokémon TCG Pocket Set Focuses On Team Rocket",
-      "link": "https://insider-gaming.com/new-pokemon-tcg-pocket-set-focuses-on-team-rocket/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Team Rocket are set to take over in the newest set coming to Pokémon TCG Pocket, debuting Owner's Pokémon. The post New Pokémon TCG Pocket Set Focuses On Team Rocket appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "bfbs",
         "final",
         "grand",
@@ -23757,7 +23680,8 @@
       "message_id": "1540271021523730445",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Hotspawn"
+        "Hotspawn",
+        "Esports Insider"
       ],
       "title": "EDG replace Jieni7 with stew ahead of VALORANT Champions Shanghai",
       "link": "https://www.hotspawn.com/valorant/news/edg-replace-jieni7-with-stew-ahead-of-valorant-champions-shanghai",
@@ -24597,6 +24521,102 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/women-in-gaming-gamescom-2026.png?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "IGN Entertainment is hosting a Women in Gaming networking breakfast at Gamescom, on the morning of Wednesday 26th August. The event is supported by GamesIndustry.biz , and will take place in the Dorint Hotel am Heumarkt Köln from 8.30-10.30. Read more"
+    },
+    {
+      "words": [
+        "bots",
+        "chases",
+        "expert",
+        "five",
+        "hat",
+        "humanity",
+        "lec",
+        "malfunction",
+        "trick",
+        "week",
+        "while"
+      ],
+      "at": "2026-08-21T15:03:31.296229+00:00",
+      "message_id": "1540375823432032308",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Insider"
+      ],
+      "title": "AI vs expert: Humanity chases a hat-trick in LEC week five, while the bots malfunction",
+      "link": "https://esportsinsider.com/2026/08/ai-vs-expert-lec-week-five-predictions",
+      "color": 8141549,
+      "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/55470277896_7fdeee3c68_c.jpg",
+      "base_description": "He’s only gone and done it. Our expert, Craig, has gone back-to-back after firing blanks in the opening two weeks to take the lead in the epic battle of human versus robot. Humanity’s on a roll as we head into LEC Summer Split week five, with robots everywhere dreaming of an uptu"
+    },
+    {
+      "words": [
+        "alive",
+        "champions",
+        "gaming",
+        "qualifies",
+        "stays",
+        "tyloo"
+      ],
+      "at": "2026-08-21T15:03:31.296229+00:00",
+      "message_id": "1540375850770239599",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "JD Gaming qualifies for Champions, TYLOO stays alive",
+      "link": "https://www.vlr.gg/740957/jd-gaming-qualifies-for-champions-tyloo-stays-alive",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "JD Gaming swept Bilibili Gaming in the VCT China 2026 Stage 2 playoffs to earn the team its first international appearance at Champions in Shanghai, while TYLOO eliminated Nova Esports in the lower bracket."
+    },
+    {
+      "words": [
+        "become",
+        "can",
+        "event",
+        "honorary",
+        "members",
+        "players",
+        "pocket",
+        "pokémon",
+        "rocket",
+        "tcg"
+      ],
+      "at": "2026-08-21T15:03:31.296229+00:00",
+      "message_id": "1540375871997878324",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Pokémon TCG Pocket Players Can Become Honorary Team Rocket Members in New Event",
+      "link": "https://insider-gaming.com/pokemon-tcg-pocket-players-can-become-honorary-team-rocket-members-in-new-event/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "A limited-time event for Pokémon TCG Pocket players has been revealed ahead of the launch of the Team Rocket's Ambition expansion. The post Pokémon TCG Pocket Players Can Become Honorary Team Rocket Members in New Event appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "chief",
+        "good",
+        "has",
+        "insani",
+        "mibr",
+        "offer",
+        "over",
+        "table",
+        "thinking"
+      ],
+      "at": "2026-08-21T15:03:31.296229+00:00",
+      "message_id": "1540375892780392560",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "MIBR chief: \"insani has a good offer from us on the table; he's thinking it over\"",
+      "link": "https://www.hltv.org/news/45356/mibr-chief-insani-has-a-good-offer-from-us-on-the-table-hes-thinking-it-over",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/d0RP0W_Y6OKi17PEvkULjg.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=147f29aba98b1426f709cc4808589c0a",
+      "base_description": "The Brazilian organization is preparing for a potential future without the team’s star player."
     }
   ]
 }
