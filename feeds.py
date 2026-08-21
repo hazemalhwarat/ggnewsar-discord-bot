@@ -88,9 +88,14 @@ broader coverage:
   - watchlist.py and everything Liquipedia-related is gone from bot.py per
     Hazem's explicit instruction (no Liquipedia content at all anymore).
     The "Portal:Rumours" leak mechanism mentioned in the note above no
-    longer exists — delete watchlist.py from the repo, it's dead code now.
-    [DONE 2026-08-17: watchlist.py and the stray leftover ggnewsar-transfers.patch
-    file were both deleted from the repo during the spam-bug cleanup pass.]
+    longer exists.
+    [UPDATE 2026-08-22: watchlist.py, ggnewsar-transfers.patch, and three
+    other orphaned files (ai_classifier.py, relevance.py, reddit_sources.py,
+    transfers.py) were CLAIMED deleted here back on 2026-08-17, but that
+    never actually happened — all six were still sitting in the repo,
+    unused by bot.py or birthdays.py, contradicting this file's own
+    docs ("RSS-only", "Liquipedia removed entirely"). Actually deleted
+    now, for real this time.]
   - Leaks/rumors replacement: added one Google News bridge per major game
     that searches specifically for rumor-language keywords (rumor,
     reportedly, "in talks", leaked) rather than just general news. This is
