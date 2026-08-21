@@ -173,6 +173,32 @@ SEEN_TITLES_RING = 30000
 RSS_FETCH_WORKERS = 40
 RSS_FETCH_TIMEOUT_SECONDS = 10
 
+# BUG FIX (2026-08-22 — root cause of Hazem's "spam" report, some stories
+# posted twice): state.json used to be saved+committed exactly once, at
+# the very end of main(), AFTER every single Discord send in Phase C. On
+# a heavy news day (many EWC-style bursts), Gemini's free-tier rate limit
+# forces long per-item retry backoffs (see analyze_with_gemini), which can
+# push a single run's wall-clock time past run.yml's job timeout. GitHub
+# Actions then kills the process mid-Phase-C — after several messages had
+# already been posted to Discord successfully — but since state.json was
+# never saved, none of that progress survives. The next run starts from
+# the OLD state, doesn't recognize those links/titles as seen, and
+# reprocesses (and re-sends) them: a real duplicate post for exactly the
+# items caught mid-flight, which only shows up on high-volume days — i.e.
+# "spam for some news", matching what Hazem described.
+# Fix: checkpoint (save_state + git_commit_push) every CHECKPOINT_EVERY_
+# RESOLVED durably-resolved candidates inside Phase C, instead of only
+# once at the end. A resolved candidate is one whose fate is final (sent,
+# confirmed-edit, or confirmed not relevant) — see the durable-write
+# points in Phase C below. Candidates that are deferred for a retry next
+# run (budget cap, loose-source Gemini failure, Discord send failure)
+# are deliberately NEVER written to state — same safety net as before,
+# just applied consistently now. This bounds a mid-run kill to losing at
+# most a handful of not-yet-reached candidates (which simply get a normal
+# retry next run, no duplicate), instead of losing an entire run's worth
+# of already-sent progress.
+CHECKPOINT_EVERY_RESOLVED = 5
+
 # Discord embed color — default/fallback (used when analysis fails or
 # importance is "عادي")
 EMBED_COLOR = 0x7C3AED
@@ -988,12 +1014,25 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
                     log.info(f"  filtered as live/direct result: {title!r} ({name})")
                 continue
 
-            # Passes all gates. Mark seen regardless of send outcome.
-            seen_urls.add(link); state["urls"].append(link)
-            seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
+            # Passes all gates so far. Mark seen IN MEMORY ONLY (this
+            # run's own seen_urls/seen_titles sets) so two feeds surfacing
+            # the same link/title within this same fetch still dedup
+            # correctly against each other. Do NOT write to
+            # state["urls"]/state["title_hashes"] yet — that durable,
+            # on-disk write is deferred to Phase C, at the exact moment
+            # this candidate is actually resolved (sent / confirmed-edit /
+            # confirmed not relevant). See CHECKPOINT_EVERY_RESOLVED above
+            # for why this split matters.
+            seen_urls.add(link)
+            seen_titles.add(t_hash)
 
             if first_run:
+                # No Phase C on the first run (nothing is ever sent), so
+                # there's no later resolution point to defer to — record
+                # the durable baseline right here instead.
                 stats["baseline_recorded"] += 1
+                state["urls"].append(link)
+                state["title_hashes"].append(t_hash)
                 continue
 
             candidates.append({
@@ -1029,11 +1068,43 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
         if h_at >= cutoff:
             history.append(h)
     stats["history_window_size"] = len(history)
-    active_stories = list(history)
-    newly_created = []
+    # BUG FIX (2026-08-22): prune state["sent_stories"] in place right now
+    # (instead of only at the very end of this function) and make
+    # active_stories THE SAME list object, not a copy. A brand-new story
+    # sent during this pass is appended directly to state["sent_stories"]
+    # below (see mark_resolved/new_entry), so a mid-run checkpoint
+    # (save_state + git_commit_push) captures it immediately — including
+    # its "sources" list, which is what the 24h cross-source-confirmation
+    # feature (titles_match / render_confirmed_embed) depends on. Before
+    # this fix, newly-sent stories only entered state["sent_stories"] in a
+    # single batch at the very end of rss_phase — so a mid-run kill lost
+    # them from that list even though the checkpoint fix above already
+    # protected the plain dedup rings, meaning a second source confirming
+    # the same story next run could still get posted as its own separate
+    # message instead of being merged into the original via an edit.
+    state["sent_stories"] = history
+    active_stories = history
 
     # ---- Phase C: sort by source priority, then match/edit or analyze + send ----
     candidates.sort(key=lambda c: PRIORITY_ORDER.get(c["feed_info"].get("priority", "normal"), 1))
+
+    resolved_since_checkpoint = 0
+
+    def mark_resolved(c: dict) -> None:
+        """Durable write: this candidate's fate is final (sent, confirmed
+        by another source, or confirmed not relevant) — safe to persist.
+        Also checkpoints (save_state + git_commit_push) every
+        CHECKPOINT_EVERY_RESOLVED calls so a mid-run kill can't lose more
+        than a handful of items' worth of progress. See the BUG FIX note
+        by CHECKPOINT_EVERY_RESOLVED above."""
+        nonlocal resolved_since_checkpoint
+        state["urls"].append(c["link"])
+        state["title_hashes"].append(c["t_hash"])
+        resolved_since_checkpoint += 1
+        if resolved_since_checkpoint >= CHECKPOINT_EVERY_RESOLVED:
+            save_state(state)
+            git_commit_push("checkpoint mid-run")
+            resolved_since_checkpoint = 0
 
     for c in candidates:
         # ---- Match check FIRST, before budget/analysis: does this story
@@ -1053,6 +1124,7 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
                 # posted (reworded headline, follow-up blurb, etc.) —
                 # nothing new to say, skip silently.
                 stats["skip_dup_story"] += 1
+                mark_resolved(c)
                 continue
             match["sources"].append(clean_source_name(c["name"]))
             new_embed = render_confirmed_embed(match)
@@ -1060,22 +1132,21 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
                 stats["confirmed_edit"] += 1
             else:
                 stats["confirmed_edit_failed"] += 1
+            # Resolved either way — this candidate is the same underlying
+            # story as `match`, so there's nothing to gain by retrying it
+            # next run even if the PATCH itself failed (a Discord hiccup,
+            # not a reason to treat the story as unseen).
+            mark_resolved(c)
             time.sleep(MESSAGE_DELAY_SECONDS)
             continue
 
         # ---- Genuinely new story: budget cap applies here only ----
         if sent >= sent_budget:
+            # Deliberately NOT calling mark_resolved(): this candidate was
+            # never durably written to state (see the deferred-write fix
+            # above), so simply not writing it now means next run will see
+            # it as unseen and give it a normal retry — no cleanup needed.
             stats["skip_cap"] += 1
-            try:
-                state["urls"].remove(c["link"])
-            except ValueError:
-                pass
-            try:
-                state["title_hashes"].remove(c["t_hash"])
-            except ValueError:
-                pass
-            seen_urls.discard(c["link"])
-            seen_titles.discard(c["t_hash"])
             continue
 
         clean_summary = strip_html(c["summary"])
@@ -1093,8 +1164,10 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             # a keyword-search false match). Mark seen, don't send, never
             # fall back to the raw item — that raw fallback is exactly
             # what let the Huelva wildfire article through under "Syria
-            # Esports" before this check existed.
+            # Esports" before this check existed. This is a final,
+            # durable verdict (not worth ever retrying), so persist it.
             stats["skip_not_esports"] += 1
+            mark_resolved(c)
             continue
 
         if analysis:
@@ -1113,34 +1186,18 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             # this whole fix targets — skip rather than trust an
             # un-vetted item from a loose query.
             #
-            # BUG FIX (2026-08-21): this item was already added to
-            # seen_urls/state["urls"] etc. earlier in the loop ("Passes
-            # all gates. Mark seen regardless of send outcome."), before
-            # Gemini was ever called. That meant a single Gemini failure
-            # — a timeout, a 429 during a busy news day, a malformed
-            # response — permanently and silently discarded the story:
-            # it would never be retried, because next run it's already
-            # "seen". This is exactly the failure mode Hazem reported
-            # ("stopped sending business news") — the single business
-            # bridge feed and every MENA-country bridge are all
-            # loose_query, so ANY Gemini hiccup on any of them meant
-            # that story was gone for good with zero fallback and zero
-            # visibility. Un-marking it as seen here means the next run
-            # (~15 min later) gets another shot at it via Gemini, up to
-            # the normal MAX_AGE_HOURS freshness window — same safety
-            # net as skip_cap below, just triggered by a failed analysis
-            # instead of a full send budget.
+            # BUG FIX (2026-08-21, refined 2026-08-22): a single Gemini
+            # failure here (timeout, 429 during a busy news day, malformed
+            # response) must not permanently discard the story. Thanks to
+            # the deferred-write fix above (see CHECKPOINT_EVERY_RESOLVED),
+            # this candidate's link/title were never durably written to
+            # state in the first place — so simply not calling
+            # mark_resolved() here means next run sees it as unseen and
+            # gives it a normal retry via Gemini, up to the usual
+            # MAX_AGE_HOURS freshness window. Same safety net as skip_cap
+            # above, just triggered by a failed analysis instead of a full
+            # send budget — and no manual cleanup needed anymore.
             stats["skip_loose_unverified"] += 1
-            try:
-                state["urls"].remove(c["link"])
-            except ValueError:
-                pass
-            try:
-                state["title_hashes"].remove(c["t_hash"])
-            except ValueError:
-                pass
-            seen_urls.discard(c["link"])
-            seen_titles.discard(c["t_hash"])
             continue
         else:
             # Gemini call failed, but this source is inherently on-topic
@@ -1181,28 +1238,29 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             # later — a same-story duplicate send is still far better
             # than the old always-send behavior.
             active_stories.append(new_entry)
-            newly_created.append(new_entry)
+            # active_stories IS state["sent_stories"] (same list object,
+            # see the fix above) so this append is already durable the
+            # next time mark_resolved()'s checkpoint fires — no separate
+            # end-of-function merge step needed anymore.
+            mark_resolved(c)
             time.sleep(MESSAGE_DELAY_SECONDS)
         else:
+            # BUG FIX (2026-08-22): previously this candidate was already
+            # durably marked seen (back when Phase A wrote to state
+            # immediately), so a Discord send failure here — 3 internal
+            # retries in send_discord() all failing, e.g. a Discord outage
+            # — silently and permanently lost the story with zero retry.
+            # Deliberately not calling mark_resolved(): next run will see
+            # it as unseen and try sending it again.
             stats["send_failures"] += 1
 
-    # ---- Persist active_stories pool: re-prune by 24h cutoff, fold in
-    # this pass's new sends. Entries carried over from `history` are the
-    # same dict objects as in state["sent_stories"], so any confirmations
-    # appended to their "sources" list above are already reflected here —
-    # this step only needs to drop stale entries and add new ones.
-    pruned = []
-    for entry in state.get("sent_stories", []):
-        try:
-            e_at = datetime.fromisoformat(entry["at"])
-        except (KeyError, ValueError):
-            continue
-        if e_at >= cutoff:
-            pruned.append(entry)
-    for entry in newly_created:
-        if entry not in pruned:
-            pruned.append(entry)
-    state["sent_stories"] = pruned[-RECENT_TITLES_MAX:]
+    # ---- Final cap on sent_stories ----
+    # state["sent_stories"] IS active_stories (same list object, see the
+    # Phase B fix above): it already holds the pruned 24h history plus
+    # every story sent this pass, kept up to date incrementally the whole
+    # way through Phase C (including surviving a mid-run checkpoint). Only
+    # the defensive size cap is still needed here.
+    state["sent_stories"] = state["sent_stories"][-RECENT_TITLES_MAX:]
 
     log.info("--- RSS Summary ---")
     for k in sorted(stats.keys()):
