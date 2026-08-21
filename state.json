@@ -8789,7 +8789,11 @@
     "https://www.invenglobal.com/articles/25003/free-play-and-cool-merch-scenes-from-neverness-to-everness-pc-cafe-vacance-at-geng-ggx",
     "https://www.invenglobal.com/articles/25002/looks-familiar-dog-starring-soulslike-stray-dog-announced",
     "https://www.invenglobal.com/articles/24976/neverness-to-everness-hosts-offline-event-neverness-to-everness-pc-cafe-vacation-starting-august-21",
-    "https://www.invenglobal.com/articles/24975/le-sserafim-closing-performance-blizzcon-2026-unveils-lineup"
+    "https://www.invenglobal.com/articles/24975/le-sserafim-closing-performance-blizzcon-2026-unveils-lineup",
+    "https://europeangaming.eu/portal/latest-news/2026/08/21/212995/netherlands-18-year-olds-online-gambling-accounts-ksa/",
+    "https://www.gamesindustry.biz/riot-games-sunsets-active-development-on-2xko-as-it-costs-substantially-more-to-operate-than-it-brings-in",
+    "https://www.invenglobal.com/articles/25004/chairman-bang-jun-hyuk-acquires-134-stake-in-netmarble-owned-by-tencent-affiliate",
+    "https://www.invenglobal.com/articles/24964/no-death-penalty-stress-free-8-player-pvpve-the-duskbloods"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17491,7 +17495,11 @@
     "e8b4a8803e0dae37583257b0a1c49253",
     "aa0a4978eff2c8f2678833b3f1d5b0f1",
     "0a5355d420115054dc1910ae52beaba0",
-    "5bef7e40d36126ccfb134b961637d7f3"
+    "5bef7e40d36126ccfb134b961637d7f3",
+    "abcf58a96edcd6864c518ae1cc98ed05",
+    "c9d820952c2082e033a20a72156d8546",
+    "4cc2ff2b69a346b305a4bd322c912c49",
+    "aa616f44c6084845530fb5fbbfa0cc89"
   ],
   "transfers": {
     "pages": {
@@ -23532,7 +23540,8 @@
         "Dot Esports",
         "Insider Gaming",
         "GameRiv",
-        "Inven Global (English)"
+        "Inven Global (English)",
+        "GamesIndustry.biz"
       ],
       "title": "Riot is ending active development on 2XKO less than a year after console launch",
       "link": "https://dotesports.com/2xko/news/2xko-riot-ends-development-december-2026",
@@ -24650,6 +24659,53 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/stew-joining-EDward-Gaming-ahead-of-VALORANT-Champions.jpg",
       "base_description": "EDward Gaming (EDG) is reshuffling its lineup once again ahead of the biggest event of the year. Park “stew” Young-chan, most recently of JD Gaming, is set to join the 2024 world champions, taking over the fifth starting spot from Zhang “Jieni7” Juntai just weeks before VALORANT "
+    },
+    {
+      "words": [
+        "acquires",
+        "affiliate",
+        "bang",
+        "chairman",
+        "hyuk",
+        "jun",
+        "netmarble",
+        "owned",
+        "stake",
+        "tencent"
+      ],
+      "at": "2026-08-21T08:37:11.278624+00:00",
+      "message_id": "1540278598022340660",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Chairman Bang Jun-hyuk Acquires 13.4% Stake in Netmarble Owned by Tencent Affiliate",
+      "link": "https://www.invenglobal.com/articles/25004/chairman-bang-jun-hyuk-acquires-134-stake-in-netmarble-owned-by-tencent-affiliate",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by NetmarbleNetmarble announced on August 21 that Bang Jun-hyuk, Chairman of Netmarble and Coway, has agreed to acquire 13.4% of Netmarble's total shares out of the 18.1% ......"
+    },
+    {
+      "words": [
+        "accounts",
+        "adult",
+        "gambling",
+        "olds",
+        "open",
+        "year",
+        "young"
+      ],
+      "at": "2026-08-21T08:37:11.278624+00:00",
+      "message_id": "1540278617567789067",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "18-year-olds open 41% of new young adult gambling accounts: KSA study",
+      "link": "https://europeangaming.eu/portal/latest-news/2026/08/21/212995/netherlands-18-year-olds-online-gambling-accounts-ksa/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/18-year-olds-open-41-of-new-young-adult-gambling-accounts_-KSA-study.jpg",
+      "base_description": "Account-level data shows 18-year-olds gambling on more days than older young adults while staking less, and disproves the… The post 18-year-olds open 41% of new young adult gambling accounts: KSA study appeared first on European Gaming Industry News ."
     }
   ]
 }
