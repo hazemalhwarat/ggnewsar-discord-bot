@@ -8772,7 +8772,12 @@
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa2oyNVI1am5raXhkTTF5TjFqal9qa1hxYlVpc1BKSnk2cG5uZFlHWkNOQXlBLXA4NkIzaDlPRmluZWZvaTB6YWV2eGx5ZW1oVThnQTA0OFdFTlh2QjZXQWZEcmdiRkNUOWpjYzd4UV9DeXMtc1NnQUxCWmJJcW5ZNU5zb0N0bTQ4aS12WVg3YnRYSEMtaG1wYzJRaVdvNmgxT0EyM3ZCMmJGU1RoeEpGRldzbTAtekpyM21oRQ?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZUNXN3h6YldCdnVocDg0T0NhcVlhWS00cDh1WVdCSFBabktNY3RTRGd6cjFaZ2VVUVE5bDZjZkp3WVRzbGdYOUtubkNHSG5xYjBoTVpybzgyNXUwRzltTndLN2N4Yy11Vjd1MUdNejdUT1JzaE9mdGxIdjMzdXhGYWRDbDAyN0RkWDNEX2o2OGdYMWRQa0EyWktOaEdPVml5S0VBWWJVdzlnMHRBYmZQRVQ0STI?oc=5",
     "https://www.invenglobal.com/articles/24996/kespa-signs-official-partnership-with-jeju-samdasoo-for-national-esports-team",
-    "https://www.invenglobal.com/articles/24995/com2us-to-host-com2us-pro-baseball-v-club-championship-finals-on-august-29"
+    "https://www.invenglobal.com/articles/24995/com2us-to-host-com2us-pro-baseball-v-club-championship-finals-on-august-29",
+    "https://www.vlr.gg/740759/edward-gaming-cooks-with-stew",
+    "https://europeangaming.eu/portal/press-releases/2026/08/21/212989/betby-watch-and-bet-live-streaming-feature/",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUY3ekRwLURqRk4xNTRoVDJfcTlsWXFwRThmUjhGT1FQZWRaUE04a0N3SmhreVdJRVc5YmVwV0J1WVB4VFpPOC12eXdONkFnaEoxNE1PUzhtZnBNbUZ4TEVjV2tHYXR0dHNiYkRoSE45TF9zNnlSTnh3cFpZVmtWbnhSbjR5VWlydnRpZWZ6blZaMmtNY1YyWDJBWHJpel9ySFZ2aw?oc=5",
+    "https://www.invenglobal.com/articles/24998/inzoi-to-participate-in-chinas-taptap-game-fest-2026",
+    "https://www.invenglobal.com/articles/24997/k-games-holds-on-site-communication-exchange-for-jeonbuk-region-game-industry"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17457,7 +17462,12 @@
     "b7ea2a995e5747c6936b6905655bd11d",
     "2231fbb40da411b5a18940ce75e50df1",
     "7ee2e1224b619542c1eaa3d83eef4eec",
-    "65546a32b3e800be0b3671191f286630"
+    "65546a32b3e800be0b3671191f286630",
+    "354d48a5928eadda05d64ba9ee80aa25",
+    "21265cf97f00788c8ab1f1226fde36a1",
+    "08a73659522db65bbf2490387aa4af3f",
+    "74065ffe95b4dada9fd18be282fba0b7",
+    "0e77fddd056b58e5637328a0a5d9f280"
   ],
   "transfers": {
     "pages": {
@@ -24441,6 +24451,92 @@
       "color": 8141549,
       "image_url": "https://www.youtube.com/embed/FqScT6eie1I",
       "base_description": "The 360-degree activation unifies Betway’s extensive sponsorship portfolio under a single brand platform for the first time, timed… The post Betway launches Clubhouse global campaign with 27 sports and entertainment icons appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "2026",
+        "china",
+        "fest",
+        "inzoi",
+        "participate",
+        "taptap"
+      ],
+      "at": "2026-08-21T06:36:45.530545+00:00",
+      "message_id": "1540248287049682965",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "inZOI to Participate in China's 'TapTap Game Fest 2026'",
+      "link": "https://www.invenglobal.com/articles/24998/inzoi-to-participate-in-chinas-taptap-game-fest-2026",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by KRAFTON© KRAFTONinZOI, a life simulation game by KRAFTON (CEO Changhan Kim), will participate in 'TapTap Game Fest 2026,' held in Shanghai, China, from September 12 to ......"
+    },
+    {
+      "words": [
+        "communication",
+        "exchange",
+        "holds",
+        "industry",
+        "jeonbuk",
+        "region",
+        "site"
+      ],
+      "at": "2026-08-21T06:36:45.530545+00:00",
+      "message_id": "1540248302837170258",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "K-GAMES Holds On-Site Communication Exchange for Jeonbuk Region Game Industry",
+      "link": "https://www.invenglobal.com/articles/24997/k-games-holds-on-site-communication-exchange-for-jeonbuk-region-game-industry",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by the Korea Association of Game Industry© Korea Association of Game IndustryThe Korea Association of Game Industry (Chairman Cho Young-gi, hereinafter K-GAMES) is continu......"
+    },
+    {
+      "words": [
+        "cooks",
+        "edward",
+        "gaming",
+        "stew"
+      ],
+      "at": "2026-08-21T06:36:45.530545+00:00",
+      "message_id": "1540248317085229068",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "EDward Gaming cooks with stew",
+      "link": "https://www.vlr.gg/740759/edward-gaming-cooks-with-stew",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "At the eleventh hour of the year, EDG seems to have assembled a serious superteam."
+    },
+    {
+      "words": [
+        "adds",
+        "bet",
+        "betby",
+        "experience",
+        "feature",
+        "integrated",
+        "live",
+        "sportsbook",
+        "watch"
+      ],
+      "at": "2026-08-21T06:36:45.530545+00:00",
+      "message_id": "1540248332180652073",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "BETBY adds integrated Watch & Bet feature to live sportsbook experience",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/08/21/212989/betby-watch-and-bet-live-streaming-feature/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/BETBY-adds-integrated-Watch-Bet-feature-to-live-sportsbook-experience.jpg",
+      "base_description": "The launch comes backed by BETBY’s own World Cup data showing streaming access drove a 44.79% GGR-per-player uplift,… The post BETBY adds integrated Watch & Bet feature to live sportsbook experience appeared first on European Gaming Industry News ."
     }
   ]
 }
