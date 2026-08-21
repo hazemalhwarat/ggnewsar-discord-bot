@@ -8891,7 +8891,10 @@
     "https://www.hotspawn.com/valorant/news/the-best-womens-counter-strike-players-are-moving-to-valorant-game-changers",
     "https://esports.gg/news/all-mastery-camos-in-modern-warfare-4-how-to-earn-them/",
     "https://esports.gg/guides/fortnite/how-to-get-sprite-dust-upgrade-loot-hacks-in-fortnite-season-4/",
-    "https://www.invenglobal.com/articles/25012/why-roblox-code-lists-go-stale-and-how-to-spot-a-maintained-one"
+    "https://www.invenglobal.com/articles/25012/why-roblox-code-lists-go-stale-and-how-to-spot-a-maintained-one",
+    "https://dotesports.com/call-of-duty/news/mw4-apex-attachments-reveal",
+    "https://insider-gaming.com/why-cant-i-play-modern-warfare-4-beta-right-now-server-status-explained/",
+    "https://esports.gg/news/overwatch/lifeweaver-disabled-across-all-overwatch-game-modes/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17688,7 +17691,10 @@
     "8fef025f1e078dd1ec914c58248e48e1",
     "53d755c38340e5023ac0605922061734",
     "e8cd3fbec3e767612727756f0653cef6",
-    "7c9a8fbeabd05d34cf2d4dee9d7cee72"
+    "7c9a8fbeabd05d34cf2d4dee9d7cee72",
+    "71822cb5af99b359635ec58f44721ec9",
+    "f680cac05cd11dc8db77a47f4f176d94",
+    "c3409baffc80d690505d29b1b6a9bf0c"
   ],
   "transfers": {
     "pages": {
@@ -24590,6 +24596,79 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Mayline-Joy-_ASTRA_-Champliaud-switched-to-VALORANT-Game-Changers.jpg",
       "base_description": "FURIA has spent more than six years building one of Brazil’s most respected women’s Counter-Strike rosters. But on August 17, the org confirmed that entire chapter is closing, with the full active lineup making the jump to VALORANT’s Game Changers circuit under the new name FURIA"
+    },
+    {
+      "words": [
+        "apex",
+        "attachments",
+        "gives",
+        "knives",
+        "modern",
+        "more",
+        "shotguns",
+        "throwing",
+        "underbarrel",
+        "warfare",
+        "weapons"
+      ],
+      "at": "2026-08-21T18:55:13.520024+00:00",
+      "message_id": "1540434133023588363",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "Modern Warfare 4 gives weapons underbarrel shotguns, throwing knives, and more with Apex Attachments",
+      "link": "https://dotesports.com/call-of-duty/news/mw4-apex-attachments-reveal",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/mw4-reveal.webp",
+      "base_description": "Without affecting your core build."
+    },
+    {
+      "words": [
+        "beta",
+        "can",
+        "explained",
+        "modern",
+        "now",
+        "play",
+        "right",
+        "server",
+        "status",
+        "warfare",
+        "why"
+      ],
+      "at": "2026-08-21T18:55:13.520024+00:00",
+      "message_id": "1540434153323892788",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Why Can’t I Play Modern Warfare 4 Beta Right Now? Server Status, Explained",
+      "link": "https://insider-gaming.com/why-cant-i-play-modern-warfare-4-beta-right-now-server-status-explained/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "If you're having trouble logging in and playing the Modern Warfare 4 Beta, there might be a couple of reasons as to why. The post Why Can’t I Play Modern Warfare 4 Beta Right Now? Server Status, Explained appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "across",
+        "all",
+        "disabled",
+        "lifeweaver",
+        "modes",
+        "overwatch"
+      ],
+      "at": "2026-08-21T18:55:13.520024+00:00",
+      "message_id": "1540434173318267002",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Lifeweaver disabled across all Overwatch game modes",
+      "link": "https://esports.gg/news/overwatch/lifeweaver-disabled-across-all-overwatch-game-modes/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Lifeweaver is currently missing from Overwatch's hero selection screen. However, this is temporary."
     }
   ]
 }
