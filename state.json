@@ -8940,7 +8940,12 @@
     "https://www.invenglobal.com/articles/25014/second-overwatch-day-opens-in-busan-on-august-22",
     "https://www.invenglobal.com/articles/25013/previewing-the-modern-warfare-4-campaign-through-the-trench-mission",
     "https://gameriv.com/apex-legends-announce-major-axle-nerfs-bloodhound-buffs-and-seer-change/",
-    "https://insider-gaming.com/take-two-subpoenas-microsoft-discord-gta-6-leaks/"
+    "https://insider-gaming.com/take-two-subpoenas-microsoft-discord-gta-6-leaks/",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU3hkT1NKMXlDaTlFdF9DVElyeTYzWmw3b0NSbUF5d2Q2SkNHcE9VSlRkNGNpVGF3TFBRbUxFOWVjZlBOR0JUYmU0YUxxWm9peWZsaGU4dmY1UGoxcTRJVU1FbFlKV2JxZms4OWF6THlES1NRMjNoN0o0dE03WVJoYXBOR0VYelRnZEpzMXEyNTZuVkd0R3ZNUi1R?oc=5",
+    "https://www.invenglobal.com/articles/25013/previewing-the-modern-warfare-4-campaign-via-the-entrenched-mission",
+    "https://gameriv.com/gta-6-leaker-reportedly-charges-164000-to-discuss-advertising-deals/",
+    "https://www.vlr.gg/741679/krx-and-nongshim-stand-tall-to-claim-playoff-spots",
+    "https://www.vlr.gg/741547/mibr-and-furia-punch-their-way-into-the-playoffs"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17778,7 +17783,11 @@
     "c4b104b81051a0a330368c7f5cee2763",
     "25632bee34a075d859509a8e73a4a302",
     "35bc1495623a32734cea92b5d4fd1cc2",
-    "a844ff5727e026594982bac22586cf8c"
+    "a844ff5727e026594982bac22586cf8c",
+    "7519c3d954b818c3b360bcf1a4c46363",
+    "afd4007934452140314dbc30ae0b867f",
+    "1b4d8627dcfeda3478ccf3826346145f",
+    "888a8bae2f13e4451accc5b30962b7d9"
   ],
   "transfers": {
     "pages": {
@@ -24522,6 +24531,73 @@
       "color": 8141549,
       "image_url": "https://gameriv.com/wp-content/uploads/2026/05/Axle-Nerf-Apex-Legends.jpg",
       "base_description": "Respawn is taking an unusual approach to its next round of Apex Legends balance changes, announcing several adjustments ahead of their planned release early next week. The developers are currently targeting Tuesday morning for the update, with Axle receiving another substantial s"
+    },
+    {
+      "words": [
+        "000",
+        "164",
+        "advertising",
+        "charges",
+        "deals",
+        "discuss",
+        "gta",
+        "leaker"
+      ],
+      "at": "2026-08-22T03:14:51.056444+00:00",
+      "message_id": "1540559867868090460",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "GTA 6 Leaker Reportedly Charges $164,000 to Discuss Advertising Deals",
+      "link": "https://gameriv.com/gta-6-leaker-reportedly-charges-164000-to-discuss-advertising-deals/",
+      "color": 8141549,
+      "image_url": "https://gameriv.com/wp-content/uploads/2026/08/GTA-6-real-money-trading-leak.jpg",
+      "base_description": "The person or group behind the recent GTA 6 leaks, known online as Cyberleek, has taken another unusual step by adding a new contact and advertising section to its website. The page claims Cyberleek is now open to paid advertising deals and even custom-made GTA 6 gameplay footage"
+    },
+    {
+      "words": [
+        "claim",
+        "krx",
+        "nongshim",
+        "playoff",
+        "spots",
+        "stand",
+        "tall"
+      ],
+      "at": "2026-08-22T03:14:51.056444+00:00",
+      "message_id": "1540559887560347742",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "KRX and Nongshim stand tall to claim playoff spots",
+      "link": "https://www.vlr.gg/741679/krx-and-nongshim-stand-tall-to-claim-playoff-spots",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": ""
+    },
+    {
+      "words": [
+        "furia",
+        "into",
+        "mibr",
+        "playoffs",
+        "punch",
+        "their",
+        "way"
+      ],
+      "at": "2026-08-22T03:14:51.056444+00:00",
+      "message_id": "1540559908649574532",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "MIBR and FURIA punch their way into the playoffs",
+      "link": "https://www.vlr.gg/741547/mibr-and-furia-punch-their-way-into-the-playoffs",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "After both going through three-map series, the Brazilian squads will continue their path to São Paulo in the upper bracket of the playoffs."
     }
   ]
 }
