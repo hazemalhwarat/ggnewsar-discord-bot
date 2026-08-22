@@ -8952,7 +8952,9 @@
     "https://www.invenglobal.com/articles/25017/you-are-our-inspiration-meeting-the-overwatch-developers-in-busan",
     "https://europeangaming.eu/portal/latest-news/2026/08/22/213021/eu-igaming-weekly-polymarket-block-ireland-aml/",
     "https://www.invenglobal.com/articles/25019/heroes-gather-in-busan-nexon-overwatch-day-day1",
-    "https://www.invenglobal.com/articles/25014/second-overwatch-day-in-busan-kicks-off-on-august-22"
+    "https://www.invenglobal.com/articles/25014/second-overwatch-day-in-busan-kicks-off-on-august-22",
+    "https://insider-gaming.com/escape-from-tarkov-nikita-lowering-entry-barrier/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-august-22-1168/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17801,7 +17803,9 @@
     "2682cb82fcd0b748760dffa8fb7c14e1",
     "5332745a5dfae1204fb476c8082cc14d",
     "a6252c615f0c6d75874d0e1c10958ac4",
-    "fcae96e08405a00af41d7e2871ec56e1"
+    "fcae96e08405a00af41d7e2871ec56e1",
+    "eeae784ad56bc463da27bb6ce265fd6b",
+    "ee7f5556851173eff09a155c4448fdc4"
   ],
   "transfers": {
     "pages": {
@@ -19680,7 +19684,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-22T01:12:28.375664+00:00",
+  "last_health_alert": "2026-08-22T07:46:09.089219+00:00",
   "recent_titles": [
     {
       "words": [
@@ -21996,91 +22000,6 @@
   "sent_stories": [
     {
       "words": [
-        "first",
-        "footage",
-        "revealed",
-        "wayfarer",
-        "woochi"
-      ],
-      "at": "2026-08-21T07:29:18.394750+00:00",
-      "message_id": "1540261511291998278",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "First In-Game Footage of Woochi the Wayfarer Revealed",
-      "link": "https://www.invenglobal.com/articles/25001/first-in-game-footage-of-woochi-the-wayfarer-revealed",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "The first in-game footage of Woochi the Wayfarer has been revealed.At Unreal Fest Seoul 2026 held on August 21, Mok Young-mi, art director of Woochi the Wayfarer, delivered a prese......"
-    },
-    {
-      "words": [
-        "accelerates",
-        "begins",
-        "bilibili",
-        "china",
-        "expansion",
-        "global",
-        "hiring",
-        "more",
-        "tokyo"
-      ],
-      "at": "2026-08-21T07:29:18.394750+00:00",
-      "message_id": "1540261526576042075",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "China's Bilibili Accelerates Global Expansion, Begins Hiring in Tokyo, LA, and More",
-      "link": "https://www.invenglobal.com/articles/25000/chinas-bilibili-accelerates-global-expansion-begins-hiring-in-tokyo-la-and-more",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©bilibili Creator HubBilibili, China's largest video community platform, has set out to expand into the global market.U.S...."
-    },
-    {
-      "words": [
-        "1167",
-        "answers",
-        "august",
-        "connections",
-        "friday",
-        "hints",
-        "nyt",
-        "today"
-      ],
-      "at": "2026-08-21T07:29:18.394750+00:00",
-      "message_id": "1540261547522129922",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "NYT Connections Hints Today (#1167)—Answers for Friday, August 21",
-      "link": "https://insider-gaming.com/nyt-connections-hints-solutions-august-21-1167/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1167)—Answers for Friday, August 21 appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "back",
-        "carry",
-        "ti15"
-      ],
-      "at": "2026-08-21T07:29:18.394750+00:00",
-      "message_id": "1540261563141849182",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "Carry Io is back at TI15 – How to make it work in your pubs",
-      "link": "https://www.hotspawn.com/dota2/news/carry-io-is-back-at-ti15-how-to-make-it-work-in-your-pubs",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/55467153524_b48c0662b7_k-1.jpg",
-      "base_description": "If you’re watching the TI15 playoffs, you may have noticed this Io hero making several appearances, and as a carry, at that. However, these professional players aren’t trolling, as this is a very real and viable pick even if players like Ame and Pure struggled to make it work on "
-    },
-    {
-      "words": [
         "cafe",
         "cool",
         "everness",
@@ -24359,6 +24278,52 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "'Overwatch Day' held in BusanKorean Overwatch fans gathered in Busan for 'Overwatch Day,' held over two days on the 22nd and 23rd at BEXCO. Overwatch Day is a large-scale event hosted by Nexon to celebrate taking over domestic service for Overwatch...."
+    },
+    {
+      "words": [
+        "about",
+        "barrier",
+        "entry",
+        "escape",
+        "lowering",
+        "nikita",
+        "talks",
+        "tarkov"
+      ],
+      "at": "2026-08-22T07:45:52.646106+00:00",
+      "message_id": "1540628073215565925",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Escape from Tarkov’s Nikita Talks About ‘Lowering The Entry Barrier’ To The Game",
+      "link": "https://insider-gaming.com/escape-from-tarkov-nikita-lowering-entry-barrier/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Escape from Tarkov is getting easier, that much is clear. But recently, Battlestate Games' Nikita Buyanov explained why that is. The post Escape from Tarkov’s Nikita Talks About ‘Lowering The Entry Barrier’ To The Game appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "1168",
+        "answers",
+        "august",
+        "connections",
+        "hints",
+        "nyt",
+        "saturday",
+        "today"
+      ],
+      "at": "2026-08-22T07:45:52.646106+00:00",
+      "message_id": "1540628092568080506",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "NYT Connections Hints Today (#1168)—Answers for Saturday, August 22",
+      "link": "https://insider-gaming.com/nyt-connections-hints-solutions-august-22-1168/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1168)—Answers for Saturday, August 22 appeared first on Insider Gaming ."
     }
   ]
 }
