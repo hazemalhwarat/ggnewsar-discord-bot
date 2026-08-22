@@ -9023,7 +9023,9 @@
     "https://www.hotspawn.com/counter-strike/news/spirit-reach-esports-world-cup-2026-grand-final",
     "https://gameriv.com/sonys-licensed-not-sold-playstation-terms-email-arrive-at-the-worst-possible-time/",
     "https://gameriv.com/apex-legends-devs-call-octane-their-biggest-balancing-headache/",
-    "https://www.vlr.gg/742394/liquid-and-fire-flux-stay-alive-in-emea-lower-bracket"
+    "https://www.vlr.gg/742394/liquid-and-fire-flux-stay-alive-in-emea-lower-bracket",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95RTN0TXJ3c2RHU2ZkNU1GTDdYSEZPMHNGMm4wZUtiYmhXUVUzM1NnZldxM3lZSlRQc0prQjFPdkdocE1zdVRtdnkzUEc3RHoyZFZuVGpzQU51TzA?oc=5",
+    "https://dotesports.com/the-first-descendant/news/all-encrypted-vault-locations-in-the-first-descendant"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17935,7 +17937,8 @@
     "cb31d6feae6e943091c42928c27957da",
     "21e3aa2a32ca847b94e16f3b7a60090a",
     "7442e338e778db42496fe3b32329daef",
-    "02caf34ad8ca084e41ad433ce535bc19"
+    "02caf34ad8ca084e41ad433ce535bc19",
+    "7174c725523e4276ee7c420a8de0c552"
   ],
   "transfers": {
     "pages": {
@@ -23580,6 +23583,28 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Liquid and Fire Flux take down Eintracht Frankfurt and Vitality in the EMEA lower bracket."
+    },
+    {
+      "words": [
+        "descendant",
+        "encrypted",
+        "find",
+        "first",
+        "how",
+        "open",
+        "vaults"
+      ],
+      "at": "2026-08-22T23:59:05.958350+00:00",
+      "message_id": "1540872993134215312",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "How to find and open Encrypted Vaults in The First Descendant",
+      "link": "https://dotesports.com/the-first-descendant/news/all-encrypted-vault-locations-in-the-first-descendant",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2024/07/First-Descendant-Vault-1.jpg",
+      "base_description": "All the spots you need."
     }
   ]
 }
