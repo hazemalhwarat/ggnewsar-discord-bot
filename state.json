@@ -9014,7 +9014,9 @@
     "https://esports.gg/guides/tekken-8/tier-list-tekken-8/",
     "https://insider-gaming.com/wwe-2k26-update-1-15-patch-notes/",
     "https://esports.gg/news/valorant/crws-retires/",
-    "https://www.hltv.org/news/45369/spirit-outclass-legacy-to-make-ewc-grand-final"
+    "https://www.hltv.org/news/45369/spirit-outclass-legacy-to-make-ewc-grand-final",
+    "https://www.hltv.org/news/45365/ewc-semi-finals-as-they-happened",
+    "https://insider-gaming.com/ewc-club-championship-2026-winner/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17917,7 +17919,9 @@
     "0fabbf455da617c8e7b83b80be520084",
     "66aaeb1448ccda621f94ecc142ebbe85",
     "43250d963a0e8abb5acab3237cdf4e4f",
-    "75a30145ffcd19e54fe214e692b6ac98"
+    "75a30145ffcd19e54fe214e692b6ac98",
+    "45e61552b9ca5456f9a91625febad0b2",
+    "35fae158d3e925fbc43e0cea3d63eec2"
   ],
   "transfers": {
     "pages": {
@@ -22112,48 +22116,6 @@
   "sent_stories": [
     {
       "words": [
-        "cup",
-        "dismantles",
-        "donk",
-        "prevail",
-        "spirit",
-        "vitality",
-        "world"
-      ],
-      "at": "2026-08-21T20:29:47.518533+00:00",
-      "message_id": "1540457936290058253",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "Syria Esports"
-      ],
-      "title": "donk Dismantles Vitality as Spirit Prevail at the Esports World Cup",
-      "link": "https://insider-gaming.com/spirit-defeat-vitality-ewc-2026/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Team Spirit has taken their place as favorites for the Esports World Cup CS2 tournament after a 2-1 victory over Vitality in Paris. The post donk Dismantles Vitality as Spirit Prevail at the Esports World Cup appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "2k27",
-        "crossplay",
-        "nba",
-        "requirements"
-      ],
-      "at": "2026-08-21T20:29:47.518533+00:00",
-      "message_id": "1540457956468981852",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "RealSport101"
-      ],
-      "title": "NBA 2K27 Crossplay & PC Requirements: Specs, Platforms, Details",
-      "link": "https://realsport101.com/article/nba-2k27-crossplay-pc-requirements-specs-platforms-details",
-      "color": 8141549,
-      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/7a8b9f18-nba2k27_csr-mycareer_magic-bird-era_1920x1080.webp",
-      "base_description": "Check NBA 2K27 cross-play platforms, cross-progression limits, and official PC minimum and recommended specs ahead of the August 26 early access."
-    },
-    {
-      "words": [
         "delay",
         "gameplay",
         "gta",
@@ -23682,6 +23644,31 @@
       "color": 8141549,
       "image_url": "https://img-cdn.hltv.org/gallerypicture/_FBO5CmT3Yot67tjqXMFZ-.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=f0214c746820c334376d7792a1d5393a",
       "base_description": "FUT and Spirit will face off for the first time in a best-of-five grand final."
+    },
+    {
+      "words": [
+        "2026",
+        "championship",
+        "claiming",
+        "club",
+        "cup",
+        "first",
+        "million",
+        "prize",
+        "wins",
+        "world"
+      ],
+      "at": "2026-08-22T20:47:55.558168+00:00",
+      "message_id": "1540824882278043749",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "AG.AL Wins the Esports World Cup 2026 Club Championship, Claiming $7 Million First Prize",
+      "link": "https://insider-gaming.com/ewc-club-championship-2026-winner/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "After seven weeks of competition, the winner of the $30 million EWC Club Championship has been decided, banking the organization $7 million. The post AG.AL Wins the Esports World Cup 2026 Club Championship, Claiming $7 Million First Prize appeared first on Insider Gaming ."
     }
   ]
 }
