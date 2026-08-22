@@ -8998,7 +8998,13 @@
     "https://www.hotspawn.com/dota2/news/ti15-final-day-predictions",
     "https://www.nerfplz.com/2026/10/minions-in-lol-10-rules-wave-plays-by.html",
     "https://dotesports.com/neverness-to-everness/news/all-current-future-banners-in-neverness-to-everness",
-    "https://insider-gaming.com/big-vic0-and-malibuca-win-fortnite-reload-series-ewc/"
+    "https://insider-gaming.com/big-vic0-and-malibuca-win-fortnite-reload-series-ewc/",
+    "https://stealthoptional.com/article/nba-2k27-crossplay-pc-requirements-specs-platforms-details",
+    "https://stealthoptional.com/article/fc-27-evolutions-changes-pathways-chain-preview-playstyles-lab",
+    "https://stealthoptional.com/article/fc-27-top-100-player-ratings-haaland-mbapp-putellas-lead-list",
+    "https://stealthoptional.com/article/fc-26-futties-finale-evolution-guide-best-players-stat-upgrades",
+    "https://www.hltv.org/news/45367/fut-outlast-furia-to-secure-first-big-event-grand-final-appearance",
+    "https://www.hotspawn.com/counter-strike/news/fut-reach-esports-world-cup-2026-grand-final"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17889,7 +17895,9 @@
     "48d92ab196013729c66067b17080d3ef",
     "6626e974f96b2fc9578b9f1fc303136c",
     "f383f22a7cf9de1d1b962a94783d68da",
-    "43d575bdf679b3e843108e622d3e6245"
+    "43d575bdf679b3e843108e622d3e6245",
+    "5a71fc74394921f177c968788d699ee5",
+    "be68216a86f4be8df5db54196ab03d7a"
   ],
   "transfers": {
     "pages": {
@@ -22084,92 +22092,6 @@
   "sent_stories": [
     {
       "words": [
-        "mpl",
-        "season"
-      ],
-      "at": "2026-08-21T17:33:28.030593+00:00",
-      "message_id": "1540413562646954016",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "MPL-PH Season 18: Schedule, results, where to watch",
-      "link": "https://esports.gg/news/mobile-legends-bang-bang/mpl-ph-season-18-schedule-live-match-results/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Find match schedules and live results for MPL PH Season 18 here."
-    },
-    {
-      "words": [
-        "get",
-        "how",
-        "killstreak",
-        "modern",
-        "nuke",
-        "tactical",
-        "warfare"
-      ],
-      "at": "2026-08-21T17:33:28.030593+00:00",
-      "message_id": "1540413582548668428",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg",
-        "Insider Gaming"
-      ],
-      "title": "How to get the Tactical Nuke killstreak in Modern Warfare 4",
-      "link": "https://esports.gg/guides/call-of-duty/how-to-get-the-tactical-nuke-killstreak-in-modern-warfare-4/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "The Tactical Nuke has returned in Modern Warfare 4, so here's how to earn this iconic killstreak."
-    },
-    {
-      "words": [
-        "2027",
-        "arc",
-        "cancels",
-        "early",
-        "expeditions",
-        "raiders",
-        "until"
-      ],
-      "at": "2026-08-21T17:33:28.030593+00:00",
-      "message_id": "1540413607945314376",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "GameRiv"
-      ],
-      "title": "ARC Raiders Cancels Expeditions Until Early 2027",
-      "link": "https://insider-gaming.com/arc-raiders-cancels-expeditions-until-early-2027/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Embark Studios has announced that the fifth Expedition coming to ARC Raiders will be the last until at least early 2027. The post ARC Raiders Cancels Expeditions Until Early 2027 appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "blood",
-        "consoles",
-        "dawnwalker",
-        "doesn",
-        "feature",
-        "fps",
-        "mode",
-        "performance"
-      ],
-      "at": "2026-08-21T17:33:28.030593+00:00",
-      "message_id": "1540413627604144179",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Blood of Dawnwalker Doesn’t Feature a 60 FPS Performance Mode on Consoles",
-      "link": "https://insider-gaming.com/blood-of-dawnwalker-doesnt-feature-a-60-fps-performance-mode-on-consoles/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "A new video has revealed that Blood of Dawnwalker doesn't feature a 60 FPS performance mode on consoles. Here are more details. The post Blood of Dawnwalker Doesn’t Feature a 60 FPS Performance Mode on Consoles appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "code",
         "lists",
         "roblox",
@@ -23853,6 +23775,32 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "vic0 and Malibuca produced Fortnite esports history by winning the inaugural Fortnite Reload Elite Series at EWC 2026. The post BIG Duo vic0 and Malibuca Prevail in Inaugural Fortnite Reload Elite Series appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "appearance",
+        "big",
+        "event",
+        "final",
+        "first",
+        "furia",
+        "fut",
+        "grand",
+        "outlast",
+        "secure"
+      ],
+      "at": "2026-08-22T17:37:18.915689+00:00",
+      "message_id": "1540776913973547104",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV",
+        "Hotspawn"
+      ],
+      "title": "FUT outlast FURIA to secure first Big Event grand final appearance",
+      "link": "https://www.hltv.org/news/45367/fut-outlast-furia-to-secure-first-big-event-grand-final-appearance",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/WxB-h38EioWA3k9AeyQYlQ.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=32a90b35b06484dc0ccab4bacf7737b1",
+      "base_description": "The youngsters showed resilience under pressure as they pulled back several disadvantages on the overtime Dust2 decider."
     }
   ]
 }
