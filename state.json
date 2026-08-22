@@ -8960,7 +8960,8 @@
     "https://insider-gaming.com/wardogs-soars-on-steam-twitch-challenges-modern-warfare/",
     "https://www.dotabuff.com/blog/2026-08-22-the-first-four-to-go",
     "https://insider-gaming.com/playstation-blackout-starts-tomorrow-taking-part/",
-    "https://www.hotspawn.com/counter-strike/news/esports-world-cup-2026-semi-finals-preview"
+    "https://www.hotspawn.com/counter-strike/news/esports-world-cup-2026-semi-finals-preview",
+    "https://upcomer.com/halo-reachs-bleakest-moment-came-out-of-bungie-studying-call-of-duty/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17817,7 +17818,8 @@
     "cb37e48312fda50001101bd85bb56003",
     "8e81c4ace6f89b3cc319b53910cf1562",
     "65246b1af1bd86dd8b340b74ef19122d",
-    "18513c4e65457258df06856765cf23d1"
+    "18513c4e65457258df06856765cf23d1",
+    "8413ac67795bf65a3bf7c347b442f5c0"
   ],
   "transfers": {
     "pages": {
@@ -24311,6 +24313,31 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "The #PSBlackout social action kicks off tomorrow, but who is taking part, and will it have the effect participants desire? Probably not. The post PlayStation Blackout Starts Tomorrow, But Are You Taking Part? appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "bleakest",
+        "bungie",
+        "call",
+        "came",
+        "duty",
+        "halo",
+        "moment",
+        "out",
+        "reach",
+        "studying"
+      ],
+      "at": "2026-08-22T09:20:53.527758+00:00",
+      "message_id": "1540652014134890527",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Upcomer"
+      ],
+      "title": "Halo: Reach’s bleakest moment came out of Bungie studying Call of Duty",
+      "link": "https://upcomer.com/halo-reachs-bleakest-moment-came-out-of-bungie-studying-call-of-duty/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Designer Niles Sankey says Infinity Ward's campaigns were a major influence on Reach, and that its closing objective was built as an answer to the nuke sequence."
     }
   ]
 }
