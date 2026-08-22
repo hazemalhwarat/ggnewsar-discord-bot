@@ -8980,7 +8980,10 @@
     "https://www.hotspawn.com/fortnite/news/rarest-sprite-in-fortnite",
     "https://www.invenglobal.com/articles/25025/dns-sweeps-krx-2-0-to-end-season-on-high-note",
     "https://www.hotspawn.com/dota2/news/team-vision-through-to-ti15-grand-final",
-    "https://www.nerfplz.com/2026/08/ability-haste-explained-how-much.html"
+    "https://www.nerfplz.com/2026/08/ability-haste-explained-how-much.html",
+    "https://www.invenglobal.com/articles/25027/dns-sharvel-ends-season-on-high-note-not-bad-results-will-prepare-for-next-year",
+    "https://www.invenglobal.com/articles/25026/krx-head-coach-cho-jae-eup-i-take-the-greatest-responsibility-most-apologetic-to-the-fans",
+    "https://dotesports.com/dota-2/news/sumail-hints-at-retirement-ti-2026"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17857,7 +17860,10 @@
     "622cc7f0b0f3fbb9082c80def1e7a17d",
     "8d3c48435dbbf56d9f4502881ef977b5",
     "e7f63fa1faae09f08d45b4f6555dcbd4",
-    "444f9f52dcadf3c246adaa3f0b0dd752"
+    "444f9f52dcadf3c246adaa3f0b0dd752",
+    "6affb956411438119f26d3d8173c839f",
+    "d87c37f7c689a0c50a0307043a721e7a",
+    "286497b37b667c456c63d18246fc31a1"
   ],
   "transfers": {
     "pages": {
@@ -19736,7 +19742,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-22T07:46:09.089219+00:00",
+  "last_health_alert": "2026-08-22T13:51:58.312175+00:00",
   "recent_titles": [
     {
       "words": [
@@ -22052,134 +22058,6 @@
   "sent_stories": [
     {
       "words": [
-        "ewc",
-        "fut",
-        "make",
-        "mouz",
-        "semis",
-        "sweep"
-      ],
-      "at": "2026-08-21T13:40:41.347107+00:00",
-      "message_id": "1540354977640226860",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "FUT sweep MOUZ to make EWC semis",
-      "link": "https://www.hltv.org/news/45355/fut-sweep-mouz-to-make-ewc-semis",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/ia3k4w5rzkkNpRqP1kuDwy.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=a094456ca84d1df29e59272cccfea19c",
-      "base_description": "FUT were firmly the better team as MOUZ exit EWC with a whimper."
-    },
-    {
-      "words": [
-        "gta",
-        "hour",
-        "hypercar",
-        "leaker",
-        "returns",
-        "silence",
-        "video"
-      ],
-      "at": "2026-08-21T13:40:41.347107+00:00",
-      "message_id": "1540354998100299890",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "GTA 6 Leaker Returns After 24-Hour Silence With New ‘Hypercar’ Video",
-      "link": "https://insider-gaming.com/gta-6-leaker-returns-after-24-hour-silence-with-new-hypercar-video/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Just when you thought the GTA 6 leaks could be over, CYBERLEEK returns with a new video, this time showing off hypercars. The post GTA 6 Leaker Returns After 24-Hour Silence With New ‘Hypercar’ Video appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "2026",
-        "cup",
-        "finals",
-        "fut",
-        "mouz",
-        "reach",
-        "semi",
-        "smash",
-        "world"
-      ],
-      "at": "2026-08-21T13:40:41.347107+00:00",
-      "message_id": "1540355019663212675",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "FUT smash MOUZ and reach Esports World Cup 2026 Semi-Finals",
-      "link": "https://www.hotspawn.com/counter-strike/news/fut-smash-mouz-and-reach-esports-world-cup-2026-semi-finals",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/xfl0ud-Esports-World-Cup-2026.jpg",
-      "base_description": "What could have been a total brawl between FUT and MOUZ eventually descended into a demolition job, as the squad of young guns demolished the recent BLAST Bounty champions. After coming into the Esports World Cup 2026 Playoffs on what was theoretically the “easy” side of the brac"
-    },
-    {
-      "words": [
-        "fotm",
-        "jungle",
-        "nocturne"
-      ],
-      "at": "2026-08-21T13:40:41.347107+00:00",
-      "message_id": "1540355040013848641",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Nerfplz"
-      ],
-      "title": "FOTM Report: Nocturne Jungle | Patch 26.16 Build and Runes",
-      "link": "https://www.nerfplz.com/2026/08/fotm-report-nocturne-jungle-patch-2616.html",
-      "color": 8141549,
-      "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.30,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_5.jpg",
-      "base_description": "Nocturne isn't anywhere in the 26.16 patch notes. He's God Tier anyway, and Riot has already put him on the list for 26.17. Read the 26.16 patch notes end to end and his name never comes up. No buff, no adjustment, not even a line item. He's holding the top of the jungle on our s"
-    },
-    {
-      "words": [
-        "counters",
-        "nocturne"
-      ],
-      "at": "2026-08-21T13:40:41.347107+00:00",
-      "message_id": "1540355061501137017",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Nerfplz"
-      ],
-      "title": "Nocturne Counters: Best Counter Picks and Tips",
-      "link": "https://www.nerfplz.com/2026/08/nocturne-counters-best-counter-picks.html",
-      "color": 8141549,
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxk9fDRAgS837gpuzeN2fTZoo752-tawRPEOgtEzW5leITGJ-hMZD_Vvu1iQzm5TrXzzoPvADKYWcL2ZlDK6JtAGjy18e93DUzQB4FaQs7GpFWFNYKxAVKbxTxbTRP60aYaO7wDR9eAGpIH-LymGuLnoVtMGF9Ew_Azr3JnKDVQoAhaK-pZ1hK8dTrNbM/s72-c-rw/cs-nocturne-preview-300.jpg",
-      "base_description": "Paranoia [R] is the only ability in the game that turns your monitor off, and the reason it feels unfair is that it mostly is. Losing to Nocturne rarely feels like losing a fight. The screen darkens, you lose your team, and then a champion arrives from a direction you had no way "
-    },
-    {
-      "words": [
-        "developer",
-        "interactive",
-        "moves",
-        "observer",
-        "parts",
-        "publishing",
-        "rover",
-        "self",
-        "tale",
-        "team17",
-        "ways"
-      ],
-      "at": "2026-08-21T13:40:41.347107+00:00",
-      "message_id": "1540355083143745567",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "title": "Rover's Tale developer Observer Interactive parts ways with Team17 as it moves to self-publishing",
-      "link": "https://www.gamesindustry.biz/rovers-tale-developer-observer-interactive-parts-ways-with-team17-as-it-moves-to-self-publishing",
-      "color": 8141549,
-      "image_url": "https://assetsio.gnwcdn.com/rovers-tale-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "base_description": "Team17 is no longer publishing Observer Interactive's debut title Rover's Tale . Read more"
-    },
-    {
-      "words": [
         "2nd",
         "beat",
         "definitely",
@@ -24170,6 +24048,84 @@
       "color": 8141549,
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnYYgdBlklOoTK-saQUbKijhB_LS4MhQZYYcsenjzQEX__0QmDZNqDuRHv1B1vorNarEoAwudtPB6DXeXaKyl6yuGZNEWlKM20fcttH3V1kKRfr_V9UGs9gqlSOpdVZtRp3rpLJ7eHau8V-7isuN6HVO12hX4S0jKUkt7ihzMsG1cdiEBz_-CwjVTbbb8/s72-c-rw/evergreen-05-ability-haste-preview.jpg",
       "base_description": "100 Ability Haste isn't 100% cooldown reduction, and 500 Ability Haste doesn't give you free spells. The stat is genuinely simple once you see the one formula behind it, and understanding it tells you exactly when the next haste item stops being worth buying. League of Legends Gu"
+    },
+    {
+      "words": [
+        "bad",
+        "dns",
+        "ends",
+        "high",
+        "next",
+        "not",
+        "note",
+        "prepare",
+        "results",
+        "season",
+        "sharvel",
+        "will",
+        "year"
+      ],
+      "at": "2026-08-22T13:51:40.636044+00:00",
+      "message_id": "1540720129787166791",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "DNS 'Sharvel' Ends Season on High Note: \"Not Bad Results, Will Prepare for Next Year\"",
+      "link": "https://www.invenglobal.com/articles/25027/dns-sharvel-ends-season-on-high-note-not-bad-results-will-prepare-for-next-year",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "DN SOOPers finished their season on a high note by defeating Kiwoom DRX 2-0 in their final Round 4 match of the 2026 LoL Champions Korea (LCK), held at CHZZK LoL Park in Jonggak on August 22...."
+    },
+    {
+      "words": [
+        "apologetic",
+        "cho",
+        "coach",
+        "eup",
+        "fans",
+        "greatest",
+        "head",
+        "jae",
+        "krx",
+        "most",
+        "responsibility",
+        "take"
+      ],
+      "at": "2026-08-22T13:51:40.636044+00:00",
+      "message_id": "1540720150599176244",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "KRX Head Coach Cho Jae-eup: \"I Take the Greatest Responsibility... Most Apologetic to the Fans\"",
+      "link": "https://www.invenglobal.com/articles/25026/krx-head-coach-cho-jae-eup-i-take-the-greatest-responsibility-most-apologetic-to-the-fans",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Kiwoom DRX has concluded all of their regular season matches for the year.On August 22, KRX lost 0-2 in their final match against DNS in Round 4 of the '2026 LoL Champions Korea (L......"
+    },
+    {
+      "words": [
+        "2026",
+        "finish",
+        "galaxy",
+        "hints",
+        "nigma",
+        "retirement",
+        "sumail",
+        "top"
+      ],
+      "at": "2026-08-22T13:51:40.636044+00:00",
+      "message_id": "1540720169611952209",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "SumaiL hints at retirement after Nigma Galaxy’s top 6 finish at TI 2026: ‘This is probably my last event’",
+      "link": "https://dotesports.com/dota-2/news/sumail-hints-at-retirement-ti-2026",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/dota-2-sumail-nigma-galaxy-ti-2026.webp",
+      "base_description": "We might have seen the last game of the King."
     }
   ]
 }
