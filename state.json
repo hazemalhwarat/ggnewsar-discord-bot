@@ -9020,7 +9020,8 @@
     "https://dotesports.com/call-of-duty/guides/best-m4-loadout-mw4",
     "https://insider-gaming.com/mewgenics-xbox-store-listing-release-near/",
     "https://insider-gaming.com/jackbox-announces-two-new-party-games-for-fall-2026/",
-    "https://www.hotspawn.com/counter-strike/news/spirit-reach-esports-world-cup-2026-grand-final"
+    "https://www.hotspawn.com/counter-strike/news/spirit-reach-esports-world-cup-2026-grand-final",
+    "https://gameriv.com/sonys-licensed-not-sold-playstation-terms-email-arrive-at-the-worst-possible-time/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17929,7 +17930,8 @@
     "bfc86f76a0d7c21d949808601240a36d",
     "eb52a9730f085a0e751f98d80d044196",
     "4e1b7cb88d925739ca384e5dd7a5d193",
-    "cb31d6feae6e943091c42928c27957da"
+    "cb31d6feae6e943091c42928c27957da",
+    "21e3aa2a32ca847b94e16f3b7a60090a"
   ],
   "transfers": {
     "pages": {
@@ -23503,6 +23505,30 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Jackbox Games will launch Trivia Murder Party 3 in September and The Jackbox Party Pack 12 in October, with new multiplayer games. The post Jackbox Announces Two New Party Games for Fall 2026 appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "begins",
+        "licensed",
+        "not",
+        "players",
+        "playstation",
+        "psblackout",
+        "reminds",
+        "sold",
+        "sony"
+      ],
+      "at": "2026-08-22T22:42:34.120402+00:00",
+      "message_id": "1540853734022578177",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "Sony Reminds PlayStation Players Games Are “Licensed, Not Sold” as #PSBlackout Begins",
+      "link": "https://gameriv.com/sonys-licensed-not-sold-playstation-terms-email-arrive-at-the-worst-possible-time/",
+      "color": 8141549,
+      "image_url": "https://gameriv.com/wp-content/uploads/2026/07/Sony-physical-media-petition.jpg",
+      "base_description": "Sony has found itself at the center of another PlayStation ownership debate after users began receiving lengthy emails containing copies of the platform’s Terms of Service, Code of Conduct, End User License Agreement, and Privacy Policy. The emails arrive at an awkward moment, wi"
     }
   ]
 }
