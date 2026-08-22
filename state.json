@@ -9006,7 +9006,10 @@
     "https://www.hltv.org/news/45367/fut-outlast-furia-to-secure-first-big-event-grand-final-appearance",
     "https://www.hotspawn.com/counter-strike/news/fut-reach-esports-world-cup-2026-grand-final",
     "https://insider-gaming.com/amazon-twitch-class-action-ai-training-data/",
-    "https://www.hotspawn.com/fortnite/news/fortnite-ewc-2026-results"
+    "https://www.hotspawn.com/fortnite/news/fortnite-ewc-2026-results",
+    "https://www.hltv.org/news/45368/dziugss-winning-ewc-would-mean-a-lot-a-lot-of-people-were-saying-pgl-bucharest-was-a-mickey-mouse-tournament",
+    "https://insider-gaming.com/modern-warfare-4-patch-ttk-footstep-audio/",
+    "https://esports.gg/news/fortnite/how-fortnite-battle-pass-works/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17901,7 +17904,10 @@
     "5a71fc74394921f177c968788d699ee5",
     "be68216a86f4be8df5db54196ab03d7a",
     "cb7958810d365eeafc10e5575c732caf",
-    "cc0eb15d1fb9b4057b889c2b5d4d46cd"
+    "cc0eb15d1fb9b4057b889c2b5d4d46cd",
+    "b7938d0d0320a5d39552379469f47645",
+    "1976137a5f7b6c36ac11dd3586c445a7",
+    "916076bbde93c226df30e45372eccead"
   ],
   "transfers": {
     "pages": {
@@ -22096,79 +22102,6 @@
   "sent_stories": [
     {
       "words": [
-        "apex",
-        "attachments",
-        "gives",
-        "knives",
-        "modern",
-        "more",
-        "shotguns",
-        "throwing",
-        "underbarrel",
-        "warfare",
-        "weapons"
-      ],
-      "at": "2026-08-21T18:55:13.520024+00:00",
-      "message_id": "1540434133023588363",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "Modern Warfare 4 gives weapons underbarrel shotguns, throwing knives, and more with Apex Attachments",
-      "link": "https://dotesports.com/call-of-duty/news/mw4-apex-attachments-reveal",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/mw4-reveal.webp",
-      "base_description": "Without affecting your core build."
-    },
-    {
-      "words": [
-        "beta",
-        "can",
-        "explained",
-        "modern",
-        "now",
-        "play",
-        "right",
-        "server",
-        "status",
-        "warfare",
-        "why"
-      ],
-      "at": "2026-08-21T18:55:13.520024+00:00",
-      "message_id": "1540434153323892788",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Why Can’t I Play Modern Warfare 4 Beta Right Now? Server Status, Explained",
-      "link": "https://insider-gaming.com/why-cant-i-play-modern-warfare-4-beta-right-now-server-status-explained/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "If you're having trouble logging in and playing the Modern Warfare 4 Beta, there might be a couple of reasons as to why. The post Why Can’t I Play Modern Warfare 4 Beta Right Now? Server Status, Explained appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "across",
-        "all",
-        "disabled",
-        "lifeweaver",
-        "modes",
-        "overwatch"
-      ],
-      "at": "2026-08-21T18:55:13.520024+00:00",
-      "message_id": "1540434173318267002",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "Lifeweaver disabled across all Overwatch game modes",
-      "link": "https://esports.gg/news/overwatch/lifeweaver-disabled-across-all-overwatch-game-modes/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Lifeweaver is currently missing from Overwatch's hero selection screen. However, this is temporary."
-    },
-    {
-      "words": [
         "afraid",
         "but",
         "falcons",
@@ -23764,6 +23697,80 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Twitch streamer Warren Pandiscia alleges Amazon and Twitch used creator videos to train generative AI without permission or compensation. Learn more. The post Amazon, Twitch Face Class Action Lawsuit Over Generative AI Training appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "bucharest",
+        "dziugss",
+        "ewc",
+        "lot",
+        "mean",
+        "mickey",
+        "mouse",
+        "people",
+        "pgl",
+        "saying",
+        "tournament",
+        "winning",
+        "would"
+      ],
+      "at": "2026-08-22T18:57:39.769071+00:00",
+      "message_id": "1540797134063013992",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "dziugss: \"Winning EWC would mean a lot. A lot of people were saying PGL Bucharest was a Mickey Mouse tournament\"",
+      "link": "https://www.hltv.org/news/45368/dziugss-winning-ewc-would-mean-a-lot-a-lot-of-people-were-saying-pgl-bucharest-was-a-mickey-mouse-tournament",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/Rq-afw3Wzi6oWfSHm0seEn.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=79573a7834ecb91f44b5163140e10b05",
+      "base_description": "The Lithuanian star echoed xfl0ud's sentiment that FUT can be a top-five team in the near future."
+    },
+    {
+      "words": [
+        "adjusts",
+        "audio",
+        "beta",
+        "footstep",
+        "modern",
+        "patch",
+        "ttk",
+        "warfare"
+      ],
+      "at": "2026-08-22T18:57:39.769071+00:00",
+      "message_id": "1540797154006802604",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Modern Warfare 4 Beta Patch Adjusts TTK and Footstep Audio",
+      "link": "https://insider-gaming.com/modern-warfare-4-patch-ttk-footstep-audio/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The Call of Duty: Modern Warfare 4 beta is generating substantial player feedback, and Infinity Ward is adjusting the game accordingly. The post Modern Warfare 4 Beta Patch Adjusts TTK and Footstep Audio appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "battle",
+        "cost",
+        "fortnite",
+        "how",
+        "levels",
+        "pass",
+        "rewards",
+        "works"
+      ],
+      "at": "2026-08-22T18:57:39.769071+00:00",
+      "message_id": "1540797174349045791",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "How the Fortnite Battle Pass works (Rewards, Cost, and Levels)",
+      "link": "https://esports.gg/news/fortnite/how-fortnite-battle-pass-works/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Looking for clarification about the Fortnite Battle Pass and what it entails? We have everything you need to know!"
     }
   ]
 }
