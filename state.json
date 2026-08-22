@@ -8983,7 +8983,8 @@
     "https://www.nerfplz.com/2026/08/ability-haste-explained-how-much.html",
     "https://www.invenglobal.com/articles/25027/dns-sharvel-ends-season-on-high-note-not-bad-results-will-prepare-for-next-year",
     "https://www.invenglobal.com/articles/25026/krx-head-coach-cho-jae-eup-i-take-the-greatest-responsibility-most-apologetic-to-the-fans",
-    "https://dotesports.com/dota-2/news/sumail-hints-at-retirement-ti-2026"
+    "https://dotesports.com/dota-2/news/sumail-hints-at-retirement-ti-2026",
+    "https://insider-gaming.com/gta-6-leaker-threatens-give-build-millions-gamers/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17863,7 +17864,8 @@
     "444f9f52dcadf3c246adaa3f0b0dd752",
     "6affb956411438119f26d3d8173c839f",
     "d87c37f7c689a0c50a0307043a721e7a",
-    "286497b37b667c456c63d18246fc31a1"
+    "286497b37b667c456c63d18246fc31a1",
+    "d5fb75f0fafa6bec9fd503c846435634"
   ],
   "transfers": {
     "pages": {
@@ -24126,6 +24128,30 @@
       "color": 8141549,
       "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/dota-2-sumail-nigma-galaxy-ti-2026.webp",
       "base_description": "We might have seen the last game of the King."
+    },
+    {
+      "words": [
+        "around",
+        "build",
+        "gamers",
+        "give",
+        "globe",
+        "gta",
+        "leaker",
+        "millions",
+        "threatens"
+      ],
+      "at": "2026-08-22T14:15:05.705287+00:00",
+      "message_id": "1540726023312908289",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "GTA 6 Leaker Threatens To Give Build to ‘Millions of Gamers Around the Globe’",
+      "link": "https://insider-gaming.com/gta-6-leaker-threatens-give-build-millions-gamers/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "CYBERLEEK, the entity behind all the recent GTA 6 leaks, has threatened to make a build publicly available if Rockstar doesn't back off. The post GTA 6 Leaker Threatens To Give Build to ‘Millions of Gamers Around the Globe’ appeared first on Insider Gaming ."
     }
   ]
 }
