@@ -8962,7 +8962,9 @@
     "https://insider-gaming.com/playstation-blackout-starts-tomorrow-taking-part/",
     "https://www.hotspawn.com/counter-strike/news/esports-world-cup-2026-semi-finals-preview",
     "https://upcomer.com/halo-reachs-bleakest-moment-came-out-of-bungie-studying-call-of-duty/",
-    "https://www.hltv.org/news/45364/cybershoke-sign-nota-and-h4san4tor"
+    "https://www.hltv.org/news/45364/cybershoke-sign-nota-and-h4san4tor",
+    "https://www.invenglobal.com/articles/25021/dk-in-incredible-form-defeats-geng-2-1",
+    "https://www.hltv.org/news/45363/flamez-sometimes-you-have-to-respect-individual-brilliance-today-donk-took-the-show-on-mirage"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17821,7 +17823,9 @@
     "65246b1af1bd86dd8b340b74ef19122d",
     "18513c4e65457258df06856765cf23d1",
     "8413ac67795bf65a3bf7c347b442f5c0",
-    "a305bcb8ce780c81954a927def73f300"
+    "a305bcb8ce780c81954a927def73f300",
+    "0dbc8132919e9d2bed355cfcf66eacf6",
+    "9d61cc63310e566be8bd06a890776c78"
   ],
   "transfers": {
     "pages": {
@@ -24222,6 +24226,33 @@
       "color": 8141549,
       "image_url": "https://img-cdn.hltv.org/gallerypicture/WBehQN-RLOos4chLQEA4pj.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=9547fd1790e589a47373fe5b2e79b4c5",
       "base_description": "CYBERSHOKE have added notable tier-one experience in the form of nota."
+    },
+    {
+      "words": [
+        "brilliance",
+        "donk",
+        "flamez",
+        "have",
+        "individual",
+        "mirage",
+        "respect",
+        "show",
+        "sometimes",
+        "today",
+        "took",
+        "you"
+      ],
+      "at": "2026-08-22T10:43:18.058767+00:00",
+      "message_id": "1540672723452428311",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "flameZ: \"Sometimes you have to respect individual brilliance; today donk took the show on Mirage\"",
+      "link": "https://www.hltv.org/news/45363/flamez-sometimes-you-have-to-respect-individual-brilliance-today-donk-took-the-show-on-mirage",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/jHn6-IynvPw_9HjXbqe27k.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=415366ecc7ac3f32fa7538697a7cf1c2",
+      "base_description": "flameZ tipped his hat to donk after Spirit eliminated Vitality in the quarter-finals of the Esports World Cup."
     }
   ]
 }
