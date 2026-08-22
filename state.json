@@ -8946,7 +8946,11 @@
     "https://gameriv.com/gta-6-leaker-reportedly-charges-164000-to-discuss-advertising-deals/",
     "https://www.vlr.gg/741679/krx-and-nongshim-stand-tall-to-claim-playoff-spots",
     "https://www.vlr.gg/741547/mibr-and-furia-punch-their-way-into-the-playoffs",
-    "https://dotesports.com/tekken/guides/tekken-8-patch-3-02-01-notes"
+    "https://dotesports.com/tekken/guides/tekken-8-patch-3-02-01-notes",
+    "https://www.invenglobal.com/articles/25016/artist-bobby-kim-the-father-of-jetpack-cat-and-dmon",
+    "https://www.invenglobal.com/articles/25018/most-of-the-best-skins-come-from-blizzard-korea-studio",
+    "https://www.invenglobal.com/articles/25017/you-are-our-inspiration-meeting-the-overwatch-developers-in-busan",
+    "https://europeangaming.eu/portal/latest-news/2026/08/22/213021/eu-igaming-weekly-polymarket-block-ireland-aml/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17789,7 +17793,11 @@
     "afd4007934452140314dbc30ae0b867f",
     "1b4d8627dcfeda3478ccf3826346145f",
     "888a8bae2f13e4451accc5b30962b7d9",
-    "95bb47ebaf124c10259e6424d26ccb80"
+    "95bb47ebaf124c10259e6424d26ccb80",
+    "9fc9b06b8da38b77d587d2a6d6ffa874",
+    "b7f75688b07e6306bcc56288dd361049",
+    "2682cb82fcd0b748760dffa8fb7c14e1",
+    "5332745a5dfae1204fb476c8082cc14d"
   ],
   "transfers": {
     "pages": {
@@ -21984,52 +21992,6 @@
   "sent_stories": [
     {
       "words": [
-        "august",
-        "baseball",
-        "championship",
-        "club",
-        "com2us",
-        "finals",
-        "host",
-        "pro"
-      ],
-      "at": "2026-08-21T05:57:46.444400+00:00",
-      "message_id": "1540238476337741916",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Com2uS to Host 'Com2uS Pro Baseball V Club Championship' Finals on August 29",
-      "link": "https://www.invenglobal.com/articles/24995/com2us-to-host-com2us-pro-baseball-v-club-championship-finals-on-august-29",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Press Release - Com2uS© Com2uSCom2uS (CEO Jae-kwan Nam) announced that it will host the finals of the \"Com2uS Pro Baseball V Club Championship,\" the official tournament for its No......."
-    },
-    {
-      "words": [
-        "betway",
-        "campaign",
-        "clubhouse",
-        "entertainment",
-        "global",
-        "icons",
-        "launches",
-        "sports"
-      ],
-      "at": "2026-08-21T05:57:46.444400+00:00",
-      "message_id": "1540238491508805705",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "Betway launches Clubhouse global campaign with 27 sports and entertainment icons",
-      "link": "https://europeangaming.eu/portal/press-releases/2026/08/21/212979/betway-clubhouse-global-campaign/",
-      "color": 8141549,
-      "image_url": "https://www.youtube.com/embed/FqScT6eie1I",
-      "base_description": "The 360-degree activation unifies Betway’s extensive sponsorship portfolio under a single brand platform for the first time, timed… The post Betway launches Clubhouse global campaign with 27 sports and entertainment icons appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
         "2026",
         "china",
         "fest",
@@ -24369,6 +24331,98 @@
       "color": 8141549,
       "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/desktop-Tekken-8-Patch-Notes-3-02.jpg",
       "base_description": "Health, Quick Recovery, and move condition changes."
+    },
+    {
+      "words": [
+        "artist",
+        "bobby",
+        "cat",
+        "father",
+        "jetpack",
+        "kim",
+        "mon"
+      ],
+      "at": "2026-08-22T06:27:01.301069+00:00",
+      "message_id": "1540608229334323251",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Artist Bobby Kim, the Father of Jetpack Cat and D.Mon",
+      "link": "https://www.invenglobal.com/articles/25016/artist-bobby-kim-the-father-of-jetpack-cat-and-dmon",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©INVENBobby Kim, Lead Concept Artist at Blizzard Korea Studio, revealed the creation process behind Overwatch's new heroes Jetpack Cat and D.Mon...."
+    },
+    {
+      "words": [
+        "best",
+        "blizzard",
+        "come",
+        "korea",
+        "most",
+        "skins",
+        "studio"
+      ],
+      "at": "2026-08-22T06:27:01.301069+00:00",
+      "message_id": "1540608249357799465",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Most of the Best Skins Come From 'Blizzard Korea Studio'",
+      "link": "https://www.invenglobal.com/articles/25018/most-of-the-best-skins-come-from-blizzard-korea-studio",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "From left: Dospi Jin, Head of Blizzard Korea Studio, and Bobby Kim, Lead Concept Artist ©INVENBehind the eye-catching skins and collaboration content in 'Overwatch' is a development team working in Seoul...."
+    },
+    {
+      "words": [
+        "busan",
+        "developers",
+        "inspiration",
+        "meeting",
+        "our",
+        "overwatch",
+        "you"
+      ],
+      "at": "2026-08-22T06:27:01.301069+00:00",
+      "message_id": "1540608269297524797",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "\"You Are Our Inspiration\": Meeting the 'Overwatch' Developers in Busan",
+      "link": "https://www.invenglobal.com/articles/25017/you-are-our-inspiration-meeting-the-overwatch-developers-in-busan",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Developer Talk held at 2026 Overwatch Day ©INVENAt 'Overwatch Day' held in Busan on the 22nd, following opening remarks from Nexon officials, Blizzard developers took the stage to ......"
+    },
+    {
+      "words": [
+        "aml",
+        "block",
+        "data",
+        "denmark",
+        "igaming",
+        "ireland",
+        "netherlands",
+        "plan",
+        "polymarket",
+        "weekly",
+        "youth"
+      ],
+      "at": "2026-08-22T06:27:01.301069+00:00",
+      "message_id": "1540608288692109386",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "EU iGaming weekly: Denmark’s Polymarket block, Ireland’s AML plan, Netherlands youth data",
+      "link": "https://europeangaming.eu/portal/latest-news/2026/08/22/213021/eu-igaming-weekly-polymarket-block-ireland-aml/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/EU-igaming-weekly-August-17-23.jpg",
+      "base_description": "Denmark blocked 98 domains with Polymarket among them, four AML actions dated Q2 2027 for Ireland’s regulator, a… The post EU iGaming weekly: Denmark’s Polymarket block, Ireland’s AML plan, Netherlands youth data appeared first on European Gaming Industry News ."
     }
   ]
 }
