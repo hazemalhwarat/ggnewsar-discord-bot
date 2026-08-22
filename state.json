@@ -9004,7 +9004,8 @@
     "https://stealthoptional.com/article/fc-27-top-100-player-ratings-haaland-mbapp-putellas-lead-list",
     "https://stealthoptional.com/article/fc-26-futties-finale-evolution-guide-best-players-stat-upgrades",
     "https://www.hltv.org/news/45367/fut-outlast-furia-to-secure-first-big-event-grand-final-appearance",
-    "https://www.hotspawn.com/counter-strike/news/fut-reach-esports-world-cup-2026-grand-final"
+    "https://www.hotspawn.com/counter-strike/news/fut-reach-esports-world-cup-2026-grand-final",
+    "https://insider-gaming.com/amazon-twitch-class-action-ai-training-data/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17897,7 +17898,8 @@
     "f383f22a7cf9de1d1b962a94783d68da",
     "43d575bdf679b3e843108e622d3e6245",
     "5a71fc74394921f177c968788d699ee5",
-    "be68216a86f4be8df5db54196ab03d7a"
+    "be68216a86f4be8df5db54196ab03d7a",
+    "cb7958810d365eeafc10e5575c732caf"
   ],
   "transfers": {
     "pages": {
@@ -23801,6 +23803,30 @@
       "color": 8141549,
       "image_url": "https://img-cdn.hltv.org/gallerypicture/WxB-h38EioWA3k9AeyQYlQ.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=32a90b35b06484dc0ccab4bacf7737b1",
       "base_description": "The youngsters showed resilience under pressure as they pulled back several disadvantages on the overtime Dust2 decider."
+    },
+    {
+      "words": [
+        "action",
+        "amazon",
+        "class",
+        "face",
+        "generative",
+        "lawsuit",
+        "over",
+        "training",
+        "twitch"
+      ],
+      "at": "2026-08-22T17:58:24.703865+00:00",
+      "message_id": "1540782223307972639",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Amazon, Twitch Face Class Action Lawsuit Over Generative AI Training",
+      "link": "https://insider-gaming.com/amazon-twitch-class-action-ai-training-data/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Twitch streamer Warren Pandiscia alleges Amazon and Twitch used creator videos to train generative AI without permission or compensation. Learn more. The post Amazon, Twitch Face Class Action Lawsuit Over Generative AI Training appeared first on Insider Gaming ."
     }
   ]
 }
