@@ -21982,27 +21982,6 @@
   "sent_stories": [
     {
       "words": [
-        "flood",
-        "gear",
-        "hero",
-        "marketplace",
-        "overview",
-        "price"
-      ],
-      "at": "2026-08-21T04:10:53.191938+00:00",
-      "message_id": "1540211577263759460",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "A Flood of Hero Gear? Marketplace Price Overview",
-      "link": "https://www.invenglobal.com/articles/24992/a-flood-of-hero-gear-marketplace-price-overview",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "On Wednesday, August 21, SOL: enchant (hereafter SOL) released an update featuring existing dungeon revamps and new enhancement events...."
-    },
-    {
-      "words": [
         "behind",
         "black",
         "developer",
