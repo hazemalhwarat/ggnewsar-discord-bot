@@ -8933,7 +8933,9 @@
     "https://insider-gaming.com/xbox-helping-rockstar-protect-gta-6-ip/",
     "https://gameriv.com/arc-raiders-expeditions-are-going-away-until-early-2027/",
     "https://dotesports.com/apex-legends/news/algs-year-6-split-2-playoffs-group-stage-results-teams-stream-standings",
-    "https://insider-gaming.com/game-freak-says-pokemon-champions-protects-classic-turn-based-battles/"
+    "https://insider-gaming.com/game-freak-says-pokemon-champions-protects-classic-turn-based-battles/",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjQ5UlNZTVVGVjc0WHA3VmdnNDRWaF9XVXhnd2d1SGdNT0p3eTBBcGoyZ01LdkdmYTgxN0w1UkY3RXNxT1AzYVNpM3llMXVBX0NzM0lYWFlrVkVCYlhKbmJyY3pQX3Nsb1c1cTRFOEZEcGVXeGRyekhkY2hCQVZ2czJIWUxpNXp3cnItcGwxVUhYbWJaQ0Y5ZzFtTTVja0VH?oc=5",
+    "https://www.vlr.gg/741516/karmine-corp-gets-to-within-one-win-of-shanghai-as-fut-qualifies"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17765,7 +17767,8 @@
     "8e1574404dcb928b7c284289a26d528a",
     "9b90623f083d73b2fef46b4bf70fedf2",
     "12d8e3dd33263a1d383d660ab13ddc13",
-    "50d916f08526120df489343a69d61015"
+    "50d916f08526120df489343a69d61015",
+    "485ebc1f96fce6c0182853e4bb5df667"
   ],
   "transfers": {
     "pages": {
@@ -19644,7 +19647,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-21T18:03:38.793324+00:00",
+  "last_health_alert": "2026-08-22T01:12:28.375664+00:00",
   "recent_titles": [
     {
       "words": [
@@ -21958,70 +21961,6 @@
     }
   ],
   "sent_stories": [
-    {
-      "words": [
-        "billion",
-        "elfin",
-        "flip",
-        "surpasses",
-        "wadiz",
-        "won",
-        "xgimi"
-      ],
-      "at": "2026-08-21T00:52:31.322257+00:00",
-      "message_id": "1540161656662007810",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "XGIMI 'Elfin Flip 4K' Surpasses 1 Billion Won on Wadiz",
-      "link": "https://www.invenglobal.com/articles/24970/xgimi-elfin-flip-4k-surpasses-1-billion-won-on-wadiz",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by Wadiz©wadizWadiz (CEO Shin Hye-sung, www.wadiz.kr) announced on the 20th that approximately 30,000 supporters participated in the crowdfunding project for global smart ......"
-    },
-    {
-      "words": [
-        "everything",
-        "expected",
-        "wolverine",
-        "you"
-      ],
-      "at": "2026-08-21T00:52:31.322257+00:00",
-      "message_id": "1540161676639342645",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)",
-        "VALORANT Esports (official, via Google News)"
-      ],
-      "title": "Everything You Expected from Wolverine: 'Marvel's Wolverine'",
-      "link": "https://www.invenglobal.com/articles/24968/everything-you-expected-from-wolverine-marvels-wolverine",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©INVENInsomniac Games, which has firmly established itself as one of PlayStation's flagship developers through the Marvel's Spider-Man series, has returned with a new Marvel hero: ......"
-    },
-    {
-      "words": [
-        "blood",
-        "draw",
-        "emea",
-        "enterprise",
-        "first",
-        "fut",
-        "playoffs"
-      ],
-      "at": "2026-08-21T00:52:31.322257+00:00",
-      "message_id": "1540161691180994563",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg"
-      ],
-      "title": "Enterprise, FUT draw first blood in EMEA playoffs",
-      "link": "https://www.vlr.gg/740687/enterprise-fut-draw-first-blood-in-emea-playoffs",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "The play-ins teams move forward in the upper bracket."
-    },
     {
       "words": [
         "astrae",
@@ -24782,6 +24721,30 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Game Freak discussed the importance of Pokémon Champions in preserving the traditional format of Pokémon battles. The post Game Freak Says Pokémon Champions Protects Classic Turn-Based Battles appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "corp",
+        "fut",
+        "gets",
+        "karmine",
+        "one",
+        "qualifies",
+        "shanghai",
+        "win",
+        "within"
+      ],
+      "at": "2026-08-22T01:12:01.836774+00:00",
+      "message_id": "1540528959551316001",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "Karmine Corp gets to within one win of Shanghai as FUT qualifies",
+      "link": "https://www.vlr.gg/741516/karmine-corp-gets-to-within-one-win-of-shanghai-as-fut-qualifies",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "FUT punches its Shanghai ticket, while KC gets one step closer."
     }
   ]
 }
