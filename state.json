@@ -8966,7 +8966,10 @@
     "https://www.invenglobal.com/articles/25021/dk-in-incredible-form-defeats-geng-2-1",
     "https://www.hltv.org/news/45363/flamez-sometimes-you-have-to-respect-individual-brilliance-today-donk-took-the-show-on-mirage",
     "https://insider-gaming.com/spirit-donk-interview-esports-world-cup-2026/",
-    "https://www.invenglobal.com/articles/25022/geng-head-coach-ryu-glad-to-take-1st-but-disappointed-by-final-match-loss"
+    "https://www.invenglobal.com/articles/25022/geng-head-coach-ryu-glad-to-take-1st-but-disappointed-by-final-match-loss",
+    "https://dotesports.com/call-of-duty/guides/best-cod-mw4-pc-graphics-settings",
+    "https://www.vlr.gg/741958/crws-retires-from-competitive-play",
+    "https://www.hotspawn.com/valorant/news/vct-stage-2-isnt-on-the-same-patch-worldwide-why-is-it-an-issue"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17829,7 +17832,10 @@
     "0dbc8132919e9d2bed355cfcf66eacf6",
     "9d61cc63310e566be8bd06a890776c78",
     "00ec4a25f75c54cb6933be1dd7da08e6",
-    "1c04d3122a5f28e35672a1173c18cfaa"
+    "1c04d3122a5f28e35672a1173c18cfaa",
+    "06a0ba6a4510c807c764c8cb69600449",
+    "2f1e8e8dee4f073aef8933f0262b6ee7",
+    "bd223849e6835e8c883e646c9fd71a1a"
   ],
   "transfers": {
     "pages": {
@@ -22024,30 +22030,6 @@
   "sent_stories": [
     {
       "words": [
-        "api",
-        "gametimetec",
-        "hub88",
-        "integrates",
-        "portfolio",
-        "showtime",
-        "single",
-        "slots",
-        "via"
-      ],
-      "at": "2026-08-21T11:40:34.533993+00:00",
-      "message_id": "1540324756434452501",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "Hub88 integrates Gametimetec’s Showtime Slots portfolio via single API",
-      "link": "https://europeangaming.eu/portal/press-releases/2026/08/21/213016/hub88-gametimetec-showtime-slots-integration/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Hub88-integrates-Gametimetecs-Showtime-Slots-portfolio-via-single-API.jpg",
-      "base_description": "The deal is the latest in a series of studio integrations by Hub88 as the Tallinn-based aggregator expands… The post Hub88 integrates Gametimetec’s Showtime Slots portfolio via single API appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
         "discusses",
         "great",
         "jerrwin",
@@ -23359,7 +23341,8 @@
       "message_id": "1540470028556566549",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Esports.gg"
+        "Esports.gg",
+        "Dot Esports"
       ],
       "title": "Best controller settings to use in Modern Warfare 4 – Sensitivity, movement, & more",
       "link": "https://esports.gg/news/best-controller-settings-to-use-in-modern-warfare-4-sensitivity-movement-more/",
@@ -24069,6 +24052,46 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Gen.G lost 1-2 to Dplus KIA in the final Round 4 match of the 2026 LoL Champions Korea (LCK), held at Chzzk LoL Park in Jonggak on August 22. The battle between the two teams was fiercely contested...."
+    },
+    {
+      "words": [
+        "competitive",
+        "crws",
+        "play",
+        "retires"
+      ],
+      "at": "2026-08-22T11:44:49.600629+00:00",
+      "message_id": "1540688212614455338",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "Crws retires from competitive play",
+      "link": "https://www.vlr.gg/741958/crws-retires-from-competitive-play",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The IGL made it clear that Saturday's match was the last of his pro career."
+    },
+    {
+      "words": [
+        "isn",
+        "patch",
+        "same",
+        "stage",
+        "vct",
+        "worldwide"
+      ],
+      "at": "2026-08-22T11:44:49.600629+00:00",
+      "message_id": "1540688232914624613",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "VCT Stage 2 Isn’t on the Same Patch Worldwide: Why is it an Issue?",
+      "link": "https://www.hotspawn.com/valorant/news/vct-stage-2-isnt-on-the-same-patch-worldwide-why-is-it-an-issue",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2025/03/Waylay-Valorant.jpg",
+      "base_description": "Patch 13.04 finished its rollout this week, bringing Abyss back into the competitive map pool and rotating Breeze out. Under normal circumstances, a map pool swap like this takes roughly two weeks to actually show up in professional play, giving teams time to adjust before it aff"
     }
   ]
 }
