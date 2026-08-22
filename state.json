@@ -9005,7 +9005,8 @@
     "https://stealthoptional.com/article/fc-26-futties-finale-evolution-guide-best-players-stat-upgrades",
     "https://www.hltv.org/news/45367/fut-outlast-furia-to-secure-first-big-event-grand-final-appearance",
     "https://www.hotspawn.com/counter-strike/news/fut-reach-esports-world-cup-2026-grand-final",
-    "https://insider-gaming.com/amazon-twitch-class-action-ai-training-data/"
+    "https://insider-gaming.com/amazon-twitch-class-action-ai-training-data/",
+    "https://www.hotspawn.com/fortnite/news/fortnite-ewc-2026-results"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17899,7 +17900,8 @@
     "43d575bdf679b3e843108e622d3e6245",
     "5a71fc74394921f177c968788d699ee5",
     "be68216a86f4be8df5db54196ab03d7a",
-    "cb7958810d365eeafc10e5575c732caf"
+    "cb7958810d365eeafc10e5575c732caf",
+    "cc0eb15d1fb9b4057b889c2b5d4d46cd"
   ],
   "transfers": {
     "pages": {
@@ -22094,72 +22096,6 @@
   "sent_stories": [
     {
       "words": [
-        "code",
-        "lists",
-        "roblox",
-        "stale",
-        "why"
-      ],
-      "at": "2026-08-21T18:03:14.067936+00:00",
-      "message_id": "1540421049043263499",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Why Roblox Code Lists Go Stale — And How to Spot a Maintained One",
-      "link": "https://www.invenglobal.com/articles/25012/why-roblox-code-lists-go-stale-and-how-to-spot-a-maintained-one",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Roblox has an information problem that competitive players will find familiar. The guides ranking highest are frequently the oldest, and age is not the same thing as accuracy. Search for asset IDs or..."
-    },
-    {
-      "words": [
-        "destroyed",
-        "don",
-        "got",
-        "last",
-        "like",
-        "niko",
-        "remember",
-        "time"
-      ],
-      "at": "2026-08-21T18:03:14.067936+00:00",
-      "message_id": "1540421069360468110",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "NiKo: \"I don't remember the last time we got destroyed like this\"",
-      "link": "https://www.hltv.org/news/45358/niko-i-dont-remember-the-last-time-we-got-destroyed-like-this",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/-c4ixXSoI4IfxDYBQGI87B.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=3760734a2313291da0ef7ec0fee01ff3",
-      "base_description": "NiKo reflected on Falcons' tough loss to Legacy and shock elimination from the Esports World Cup."
-    },
-    {
-      "words": [
-        "best",
-        "changers",
-        "counter",
-        "moving",
-        "players",
-        "strike",
-        "valorant",
-        "women"
-      ],
-      "at": "2026-08-21T18:03:14.067936+00:00",
-      "message_id": "1540421088704725124",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "The best women’s Counter-Strike players are moving to VALORANT Game Changers",
-      "link": "https://www.hotspawn.com/valorant/news/the-best-womens-counter-strike-players-are-moving-to-valorant-game-changers",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Mayline-Joy-_ASTRA_-Champliaud-switched-to-VALORANT-Game-Changers.jpg",
-      "base_description": "FURIA has spent more than six years building one of Brazil’s most respected women’s Counter-Strike rosters. But on August 17, the org confirmed that entire chapter is closing, with the full active lineup making the jump to VALORANT’s Game Changers circuit under the new name FURIA"
-    },
-    {
-      "words": [
         "apex",
         "attachments",
         "gives",
@@ -23770,7 +23706,8 @@
       "message_id": "1540771333103816785",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Hotspawn"
       ],
       "title": "BIG Duo vic0 and Malibuca Prevail in Inaugural Fortnite Reload Elite Series",
       "link": "https://insider-gaming.com/big-vic0-and-malibuca-win-fortnite-reload-series-ewc/",
