@@ -8957,7 +8957,10 @@
     "https://insider-gaming.com/nyt-connections-hints-solutions-august-22-1168/",
     "https://www.invenglobal.com/articles/25020/chaos-zero-nightmare-collaboration-kicks-off-in-september-epic-seven-unveils-8th-anniversary-showcase",
     "https://insider-gaming.com/infinity-ward-mw4-beta-problems-tackling-first/",
-    "https://insider-gaming.com/wardogs-soars-on-steam-twitch-challenges-modern-warfare/"
+    "https://insider-gaming.com/wardogs-soars-on-steam-twitch-challenges-modern-warfare/",
+    "https://www.dotabuff.com/blog/2026-08-22-the-first-four-to-go",
+    "https://insider-gaming.com/playstation-blackout-starts-tomorrow-taking-part/",
+    "https://www.hotspawn.com/counter-strike/news/esports-world-cup-2026-semi-finals-preview"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17811,7 +17814,10 @@
     "ee7f5556851173eff09a155c4448fdc4",
     "6059aaa18e247e1e12341564a5e74fad",
     "76becd6e1ad9a8323311905189ab4be5",
-    "cb37e48312fda50001101bd85bb56003"
+    "cb37e48312fda50001101bd85bb56003",
+    "8e81c4ace6f89b3cc319b53910cf1562",
+    "65246b1af1bd86dd8b340b74ef19122d",
+    "18513c4e65457258df06856765cf23d1"
   ],
   "transfers": {
     "pages": {
@@ -22006,146 +22012,6 @@
   "sent_stories": [
     {
       "words": [
-        "cafe",
-        "cool",
-        "everness",
-        "free",
-        "gen",
-        "ggx",
-        "merch",
-        "neverness",
-        "play",
-        "scenes",
-        "vacance"
-      ],
-      "at": "2026-08-21T08:06:55.026056+00:00",
-      "message_id": "1540270975894036552",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Free Play and Cool Merch! Scenes from 'Neverness to Everness PC Cafe Vacance' at Gen.G GGX",
-      "link": "https://www.invenglobal.com/articles/25003/free-play-and-cool-merch-scenes-from-neverness-to-everness-pc-cafe-vacance-at-geng-ggx",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©Neverness to EvernessToday (August 21), Neverness to Everness kicked off its offline event, \"NTE PC Cafe Vacance.\" The event runs for five days from August 21 to August 25 across two locations: Gen.G GGX and T1 Base Camp Hongdae...."
-    },
-    {
-      "words": [
-        "announced",
-        "dog",
-        "familiar",
-        "looks",
-        "soulslike",
-        "starring",
-        "stray"
-      ],
-      "at": "2026-08-21T08:06:55.026056+00:00",
-      "message_id": "1540270990863507457",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Looks Familiar... Dog-Starring Soulslike 'Stray Dog' Announced",
-      "link": "https://www.invenglobal.com/articles/25002/looks-familiar-dog-starring-soulslike-stray-dog-announced",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Indie developer Parry Frames Studio has officially announced its new Soulslike action-adventure title, 'Stray Dog: nobody cares'.©Parry Frames StudioThe protagonist of this game is a dog, not a human...."
-    },
-    {
-      "words": [
-        "best",
-        "bet",
-        "betting",
-        "guide",
-        "how",
-        "sites"
-      ],
-      "at": "2026-08-21T08:06:55.026056+00:00",
-      "message_id": "1540271006348738671",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Esports Betting Guide—Best Sites, Games, and How to Bet on Esports",
-      "link": "https://insider-gaming.com/esports-betting-guide-best-sites-games-how-to/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "In this esports betting guide, learn everything you need to know about the best esports betting sites and how to take advantage of them. The post Esports Betting Guide—Best Sites, Games, and How to Bet on Esports appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "ahead",
-        "champions",
-        "edg",
-        "jieni7",
-        "replace",
-        "shanghai",
-        "stew",
-        "valorant"
-      ],
-      "at": "2026-08-21T08:06:55.026056+00:00",
-      "message_id": "1540271021523730445",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn",
-        "Esports Insider"
-      ],
-      "title": "EDG replace Jieni7 with stew ahead of VALORANT Champions Shanghai",
-      "link": "https://www.hotspawn.com/valorant/news/edg-replace-jieni7-with-stew-ahead-of-valorant-champions-shanghai",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/stew-joining-EDward-Gaming-ahead-of-VALORANT-Champions.jpg",
-      "base_description": "EDward Gaming (EDG) is reshuffling its lineup once again ahead of the biggest event of the year. Park “stew” Young-chan, most recently of JD Gaming, is set to join the 2024 world champions, taking over the fifth starting spot from Zhang “Jieni7” Juntai just weeks before VALORANT "
-    },
-    {
-      "words": [
-        "acquires",
-        "affiliate",
-        "bang",
-        "chairman",
-        "hyuk",
-        "jun",
-        "netmarble",
-        "owned",
-        "stake",
-        "tencent"
-      ],
-      "at": "2026-08-21T08:37:11.278624+00:00",
-      "message_id": "1540278598022340660",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Chairman Bang Jun-hyuk Acquires 13.4% Stake in Netmarble Owned by Tencent Affiliate",
-      "link": "https://www.invenglobal.com/articles/25004/chairman-bang-jun-hyuk-acquires-134-stake-in-netmarble-owned-by-tencent-affiliate",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by NetmarbleNetmarble announced on August 21 that Bang Jun-hyuk, Chairman of Netmarble and Coway, has agreed to acquire 13.4% of Netmarble's total shares out of the 18.1% ......"
-    },
-    {
-      "words": [
-        "accounts",
-        "adult",
-        "gambling",
-        "olds",
-        "open",
-        "year",
-        "young"
-      ],
-      "at": "2026-08-21T08:37:11.278624+00:00",
-      "message_id": "1540278617567789067",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "18-year-olds open 41% of new young adult gambling accounts: KSA study",
-      "link": "https://europeangaming.eu/portal/latest-news/2026/08/21/212995/netherlands-18-year-olds-online-gambling-accounts-ksa/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/18-year-olds-open-41-of-new-young-adult-gambling-accounts_-KSA-study.jpg",
-      "base_description": "Account-level data shows 18-year-olds gambling on more days than older young adults while staking less, and disproves the… The post 18-year-olds open 41% of new young adult gambling accounts: KSA study appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
         "forgot",
         "guess",
         "has",
@@ -24405,6 +24271,46 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "WARDOGS, an all-new first-person shooter with ambition, is soaring in its most major playtest yet, challenging the likes of Call of Duty. The post WARDOGS Playtest Soars on Steam and Twitch, Challenging Modern Warfare 4 Beta appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "first",
+        "four"
+      ],
+      "at": "2026-08-22T08:47:30.241184+00:00",
+      "message_id": "1540643582279553105",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dotabuff Blog"
+      ],
+      "title": "The First Four to Go",
+      "link": "https://www.dotabuff.com/blog/2026-08-22-the-first-four-to-go",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The stage is set for the final day of the International. This tournament is Dota at its best, with heavy heartbreaks and unexpected victories. We are grateful to all the participating teams for giving us these emotions and would like to spend some time highlighting and thanking t"
+    },
+    {
+      "words": [
+        "blackout",
+        "but",
+        "part",
+        "playstation",
+        "starts",
+        "taking",
+        "tomorrow",
+        "you"
+      ],
+      "at": "2026-08-22T08:47:30.241184+00:00",
+      "message_id": "1540643601682534472",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "PlayStation Blackout Starts Tomorrow, But Are You Taking Part?",
+      "link": "https://insider-gaming.com/playstation-blackout-starts-tomorrow-taking-part/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The #PSBlackout social action kicks off tomorrow, but who is taking part, and will it have the effect participants desire? Probably not. The post PlayStation Blackout Starts Tomorrow, But Are You Taking Part? appeared first on Insider Gaming ."
     }
   ]
 }
