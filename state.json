@@ -8996,7 +8996,8 @@
     "https://siege.gg/ea-sports-fc/fc-26-futties-finale-evolution-guide-best-players-stat-upgrades",
     "https://insider-gaming.com/baisha-gaming-win-the-esports-world-cup-crossfire-tournament/",
     "https://www.hotspawn.com/dota2/news/ti15-final-day-predictions",
-    "https://www.nerfplz.com/2026/10/minions-in-lol-10-rules-wave-plays-by.html"
+    "https://www.nerfplz.com/2026/10/minions-in-lol-10-rules-wave-plays-by.html",
+    "https://dotesports.com/neverness-to-everness/news/all-current-future-banners-in-neverness-to-everness"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17885,7 +17886,8 @@
     "c5bcaf10f1424273e0b91167546da1a3",
     "00e44d3a6cc4c3bb404ece799c2d20d2",
     "48d92ab196013729c66067b17080d3ef",
-    "6626e974f96b2fc9578b9f1fc303136c"
+    "6626e974f96b2fc9578b9f1fc303136c",
+    "f383f22a7cf9de1d1b962a94783d68da"
   ],
   "transfers": {
     "pages": {
@@ -22080,141 +22082,6 @@
   "sent_stories": [
     {
       "words": [
-        "ewc",
-        "falcons",
-        "finals",
-        "legacy",
-        "quarter",
-        "upset"
-      ],
-      "at": "2026-08-21T16:24:22.063267+00:00",
-      "message_id": "1540396173787926579",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Legacy Upset Team Falcons in EWC Quarter-Finals",
-      "link": "https://insider-gaming.com/legacy-beat-falcons-ewc-2026/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Legacy upset IEM Cologne 2026 Major winners, Team Falcons, to progress to the semi-finals of the Esports World Cup 2026. The post Legacy Upset Team Falcons in EWC Quarter-Finals appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "blg",
-        "jdg"
-      ],
-      "at": "2026-08-21T16:24:22.063267+00:00",
-      "message_id": "1540396194457722952",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VALORANT Esports (official, via Google News)"
-      ],
-      "title": "BLG VS JDG - VALORANT Esports",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SdWZJWHJCeU4wUU53bjBMZ3FfS1FiYUVPTjZWbHgzcVROc0NLeUFQMk5nZXZzR1diMWp3TDYyckg5QVZxUHZjN2ZZZ2NLRTB2di0yd1hOMTdwV0xWdHA2QWR6eV9JODZ3anc?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "BLG VS JDG VALORANT Esports"
-    },
-    {
-      "words": [
-        "vit"
-      ],
-      "at": "2026-08-21T16:24:22.063267+00:00",
-      "message_id": "1540396214741106820",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VALORANT Esports (official, via Google News)"
-      ],
-      "title": "VIT VS EP - VALORANT Esports",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xOFVsVURMSHdDZTB5TmxLLVpOVGdYYzlidmhQemhVdDF5ekNmcHlzR1c1ZUwtMEs0cFNtT05EdGgtMjFlNk53TDExMFl2OGVYM0ZoT1hUeDBmamdZX0xHU1B1ZU83UllEbkE?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "VIT VS EP VALORANT Esports"
-    },
-    {
-      "words": [
-        "sen"
-      ],
-      "at": "2026-08-21T16:24:22.063267+00:00",
-      "message_id": "1540396234915717232",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VALORANT Esports (official, via Google News)"
-      ],
-      "title": "2G VS SEN - VALORANT Esports",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WdGR6M0pUb0I5WldPV29JSDlYNkZSR24zQXV0VE5ibDFSdHQwdXJlMWpQTTZEM3NwS3RRaGpEeDZBdV9zUWlNZGtMQkVDT0E1aEQwX1oxT29qZjE0UkVaZGhPX0VhMkhWRFE?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "2G VS SEN VALORANT Esports"
-    },
-    {
-      "words": [
-        "krx"
-      ],
-      "at": "2026-08-21T16:24:22.063267+00:00",
-      "message_id": "1540396264569569432",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VALORANT Esports (official, via Google News)"
-      ],
-      "title": "KRX VS SP - VALORANT Esports",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsSl8zZWkyaWhLRFNfOTFPQjFEQ19qdFNUQTlwaEVhVFo1cFVGcXRGVDRHM1JKalgtdmVoNmhsMXNVVFAyTkpJcWtBSzg4UHlxRFdYX24zNVgyMXluVTYzbHRJYnpXX3hzMnc?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "KRX VS SP VALORANT Esports"
-    },
-    {
-      "words": [
-        "fut"
-      ],
-      "at": "2026-08-21T16:24:22.063267+00:00",
-      "message_id": "1540396284815351829",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VALORANT Esports (official, via Google News)"
-      ],
-      "title": "TL VS FUT - VALORANT Esports",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xMU54bWFLUUgyc0RGZnY2S1ExS3FBVGY4TTYtbGlHMWlzVTBpVVBEd3I1UEFvSGhCN28tdDdZeXV4WjgzYkdfN3EzbHdRLXVDalptbDNJaUMtdUlZU29nUDU0ZEV2VHlzVmc?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "TL VS FUT VALORANT Esports"
-    },
-    {
-      "words": [
-        "nova",
-        "tyl"
-      ],
-      "at": "2026-08-21T16:24:22.063267+00:00",
-      "message_id": "1540396305073836076",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VALORANT Esports (official, via Google News)"
-      ],
-      "title": "TYL VS NOVA - VALORANT Esports",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMdzhSWkhBWWRxY3EtZ2dGbTBtQWo5Qmk4MG1iTEw2Y1BGQXJmMkJCMGpjMnhrM09NeFBFOS1hVEtjX3V4V3c1V2E5djhNcG02RWRLV1BzUHNvTEdEWDNHeV9wZVMzMnVuWnc?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "TYL VS NOVA VALORANT Esports"
-    },
-    {
-      "words": [
-        "kru"
-      ],
-      "at": "2026-08-21T16:24:22.063267+00:00",
-      "message_id": "1540396325890424943",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VALORANT Esports (official, via Google News)"
-      ],
-      "title": "KRU VS FX - VALORANT Esports",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fSlpDZ1Y3Y1QwRlo2ZDZJTEtzaWNwa2RLT2JHREpfTTdpRmpjVHQ5Q2dRQVkwenhyMkNWUENCeHA2cnJYOXByY1dnTXNiLXhGaDFnMWRJMFRGMWZEOVlwbTlTcmFiNFJ6M0E?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "KRU VS FX VALORANT Esports"
-    },
-    {
-      "words": [
         "arrives",
         "hajin",
         "modern",
@@ -24001,6 +23868,27 @@
       "color": 8141549,
       "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.25,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_9.jpg",
       "base_description": "Minions are the thing you interact with most in League and understand least. They arrive on a clock that changes twice, they carry a target priority list, they have two aggro ranges, and one undisturbed wave is worth more gold than almost anyone guesses. League of Legends Guide M"
+    },
+    {
+      "words": [
+        "all",
+        "banners",
+        "current",
+        "everness",
+        "future",
+        "neverness"
+      ],
+      "at": "2026-08-22T16:49:15.511124+00:00",
+      "message_id": "1540764819840565299",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "All current and future banners in Neverness to Everness",
+      "link": "https://dotesports.com/neverness-to-everness/news/all-current-future-banners-in-neverness-to-everness",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/05/ntecharacters.jpg",
+      "base_description": "Save up Annulith and prepare for Neverness to Everness' all current and upcoming character and weapon banners."
     }
   ]
 }
