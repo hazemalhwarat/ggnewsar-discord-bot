@@ -9009,7 +9009,10 @@
     "https://www.hotspawn.com/fortnite/news/fortnite-ewc-2026-results",
     "https://www.hltv.org/news/45368/dziugss-winning-ewc-would-mean-a-lot-a-lot-of-people-were-saying-pgl-bucharest-was-a-mickey-mouse-tournament",
     "https://insider-gaming.com/modern-warfare-4-patch-ttk-footstep-audio/",
-    "https://esports.gg/news/fortnite/how-fortnite-battle-pass-works/"
+    "https://esports.gg/news/fortnite/how-fortnite-battle-pass-works/",
+    "https://dotesports.com/apex-legends/news/apex-legends-nerf-axle-bloodhound-seer-abilities-season-30",
+    "https://esports.gg/guides/tekken-8/tier-list-tekken-8/",
+    "https://insider-gaming.com/wwe-2k26-update-1-15-patch-notes/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17907,7 +17910,10 @@
     "cc0eb15d1fb9b4057b889c2b5d4d46cd",
     "b7938d0d0320a5d39552379469f47645",
     "1976137a5f7b6c36ac11dd3586c445a7",
-    "916076bbde93c226df30e45372eccead"
+    "916076bbde93c226df30e45372eccead",
+    "0ff29d7ec7071b744628207c9e475164",
+    "0fabbf455da617c8e7b83b80be520084",
+    "66aaeb1448ccda621f94ecc142ebbe85"
   ],
   "transfers": {
     "pages": {
@@ -22662,7 +22668,8 @@
       "message_id": "1540546688257753202",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "GameRiv"
+        "GameRiv",
+        "Dot Esports"
       ],
       "title": "Apex Legends Announce Major Axle Nerfs, Bloodhound Buffs, and Seer Change",
       "link": "https://gameriv.com/apex-legends-announce-major-axle-nerfs-bloodhound-buffs-and-seer-change/",
@@ -23771,6 +23778,54 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "Looking for clarification about the Fortnite Battle Pass and what it entails? We have everything you need to know!"
+    },
+    {
+      "words": [
+        "2026",
+        "best",
+        "ceo",
+        "characters",
+        "competitive",
+        "edition",
+        "list",
+        "post",
+        "tekken",
+        "tier"
+      ],
+      "at": "2026-08-22T19:19:43.790069+00:00",
+      "message_id": "1540802692195024957",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "TEKKEN 8 esports tier list: Best competitive characters (post-CEO 2026 edition)",
+      "link": "https://esports.gg/guides/tekken-8/tier-list-tekken-8/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "We rank fighting characters for their presence and placements at top-tier TEKKEN 8 tournaments."
+    },
+    {
+      "words": [
+        "2k26",
+        "entrance",
+        "issues",
+        "key",
+        "match",
+        "patch",
+        "repairs",
+        "wwe"
+      ],
+      "at": "2026-08-22T19:19:43.790069+00:00",
+      "message_id": "1540802711308599308",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "WWE 2K26 Patch 1.15 Repairs Key Entrance and Match Issues",
+      "link": "https://insider-gaming.com/wwe-2k26-update-1-15-patch-notes/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "WWE 2K26 Patch 1.15 adds Finn Balor’s theme, fixes Universe Gauntlet Eliminator matches and resolves entrance and cutscene issues. The post WWE 2K26 Patch 1.15 Repairs Key Entrance and Match Issues appeared first on Insider Gaming ."
     }
   ]
 }
