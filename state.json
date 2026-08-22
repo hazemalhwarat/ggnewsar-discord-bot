@@ -19794,7 +19794,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-22T13:51:58.312175+00:00",
+  "last_health_alert": "2026-08-22T19:58:42.829968+00:00",
   "recent_titles": [
     {
       "words": [
@@ -22108,93 +22108,6 @@
     }
   ],
   "sent_stories": [
-    {
-      "words": [
-        "catching",
-        "league",
-        "major",
-        "market",
-        "prediction",
-        "sports",
-        "volume"
-      ],
-      "at": "2026-08-21T19:47:05.718059+00:00",
-      "message_id": "1540447186633105511",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Insider"
-      ],
-      "title": "Esports catching major league sports in prediction market volume",
-      "link": "https://esportsinsider.com/2026/08/esports-prediction-market-polymarket",
-      "color": 8141549,
-      "image_url": "https://esportsinsider.com/wp-content/uploads/2025/09/MSI-Finals-Playoffs-2025-LoL.jpg",
-      "base_description": "League of Legends and Counter-Strike 2 matches are seeing trading volumes that are nearing those of major league sports at prediction markets. An analysis of Polymarket trading over the past year found an average of over $1 million was traded on LoL matches, with the highest matc"
-    },
-    {
-      "words": [
-        "35m",
-        "aging",
-        "decrease",
-        "dota",
-        "international",
-        "mobas",
-        "out",
-        "prize",
-        "signals"
-      ],
-      "at": "2026-08-21T19:47:05.718059+00:00",
-      "message_id": "1540447207050846340",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Dota 2 The International’s $35m+ Prize Decrease Signals That MOBAs Are Aging Out",
-      "link": "https://insider-gaming.com/dota-2-the-internationals-35m-prize-decrease-signals-that-mobas-are-aging-out/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Dota 2's The International 2026 (TI15) will feature a prize pool of $3.25m, a drop of almost $37m since five years ago. Are MOBAs in trouble? The post Dota 2 The International’s $35m+ Prize Decrease Signals That MOBAs Are Aging Out appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "baobao",
-        "brawlhalla",
-        "fun",
-        "massive",
-        "play",
-        "qinghua",
-        "sigs"
-      ],
-      "at": "2026-08-21T19:47:05.718059+00:00",
-      "message_id": "1540447227410124911",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "Fun play and massive Sigs of Qinghua & Baobao in Brawlhalla: Guide, Orb and Cannon combos",
-      "link": "https://esports.gg/guides/fgc/brawlhalla-qinghua-baobao-guide/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "The developers went above and beyond with the design of this legend (character). The weapon set may feel somewhat niche, but the signatures make Qinghua & Baobao an awesome competitive pick."
-    },
-    {
-      "words": [
-        "100",
-        "player",
-        "ratings",
-        "top"
-      ],
-      "at": "2026-08-21T19:47:05.718059+00:00",
-      "message_id": "1540447248347828375",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "RealSport101"
-      ],
-      "title": "FC 27 Top 100 Player Ratings: Haaland, Mbappé & Putellas Lead List",
-      "link": "https://realsport101.com/article/fc-27-top-100-player-ratings-haaland-mbapp-putellas-lead-list",
-      "color": 8141549,
-      "image_url": "https://gdm-universal-media.b-cdn.net/realsport-production/a620a7b5-fc-27-top-100.webp",
-      "base_description": "Explore the official EA Sports FC 27 Top 100 player ratings! Check stats, upgrades, and overalls for Haaland, Mbappé, Putellas, and top gold cards."
-    },
     {
       "words": [
         "ewc",
