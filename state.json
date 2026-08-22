@@ -8961,7 +8961,8 @@
     "https://www.dotabuff.com/blog/2026-08-22-the-first-four-to-go",
     "https://insider-gaming.com/playstation-blackout-starts-tomorrow-taking-part/",
     "https://www.hotspawn.com/counter-strike/news/esports-world-cup-2026-semi-finals-preview",
-    "https://upcomer.com/halo-reachs-bleakest-moment-came-out-of-bungie-studying-call-of-duty/"
+    "https://upcomer.com/halo-reachs-bleakest-moment-came-out-of-bungie-studying-call-of-duty/",
+    "https://www.hltv.org/news/45364/cybershoke-sign-nota-and-h4san4tor"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17819,7 +17820,8 @@
     "8e81c4ace6f89b3cc319b53910cf1562",
     "65246b1af1bd86dd8b340b74ef19122d",
     "18513c4e65457258df06856765cf23d1",
-    "8413ac67795bf65a3bf7c347b442f5c0"
+    "8413ac67795bf65a3bf7c347b442f5c0",
+    "a305bcb8ce780c81954a927def73f300"
   ],
   "transfers": {
     "pages": {
@@ -22014,30 +22016,6 @@
   "sent_stories": [
     {
       "words": [
-        "forgot",
-        "guess",
-        "has",
-        "many",
-        "options",
-        "saw",
-        "somebody",
-        "tell",
-        "yekindar"
-      ],
-      "at": "2026-08-21T09:31:28.445415+00:00",
-      "message_id": "1540292262687408169",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "YEKINDAR: \"I saw news that 'YEKINDAR has many options.' Somebody forgot to tell me, I guess\"",
-      "link": "https://www.hltv.org/news/45353/yekindar-i-saw-news-that-yekindar-has-many-options-somebody-forgot-to-tell-me-i-guess",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/SDFss988kqoESM4gmCe7SH.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=896bc07eaa4d56f3fbfcaa454a9ba36c",
-      "base_description": "YEKINDAR addressed rumors around FURIA as FalleN's retirement date is closing in in an interview with HLTV at Esports World Cup."
-    },
-    {
-      "words": [
         "beta",
         "campaign",
         "maps",
@@ -24338,6 +24316,25 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Designer Niles Sankey says Infinity Ward's campaigns were a major influence on Reach, and that its closing objective was built as an answer to the nuke sequence."
+    },
+    {
+      "words": [
+        "cybershoke",
+        "h4san4tor",
+        "nota",
+        "sign"
+      ],
+      "at": "2026-08-22T09:50:55.507490+00:00",
+      "message_id": "1540659543170883615",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "CYBERSHOKE sign nota and H4SAN4TOR",
+      "link": "https://www.hltv.org/news/45364/cybershoke-sign-nota-and-h4san4tor",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/WBehQN-RLOos4chLQEA4pj.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=9547fd1790e589a47373fe5b2e79b4c5",
+      "base_description": "CYBERSHOKE have added notable tier-one experience in the form of nota."
     }
   ]
 }
