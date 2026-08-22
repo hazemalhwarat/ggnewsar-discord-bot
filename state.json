@@ -8950,7 +8950,9 @@
     "https://www.invenglobal.com/articles/25016/artist-bobby-kim-the-father-of-jetpack-cat-and-dmon",
     "https://www.invenglobal.com/articles/25018/most-of-the-best-skins-come-from-blizzard-korea-studio",
     "https://www.invenglobal.com/articles/25017/you-are-our-inspiration-meeting-the-overwatch-developers-in-busan",
-    "https://europeangaming.eu/portal/latest-news/2026/08/22/213021/eu-igaming-weekly-polymarket-block-ireland-aml/"
+    "https://europeangaming.eu/portal/latest-news/2026/08/22/213021/eu-igaming-weekly-polymarket-block-ireland-aml/",
+    "https://www.invenglobal.com/articles/25019/heroes-gather-in-busan-nexon-overwatch-day-day1",
+    "https://www.invenglobal.com/articles/25014/second-overwatch-day-in-busan-kicks-off-on-august-22"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17797,7 +17799,9 @@
     "9fc9b06b8da38b77d587d2a6d6ffa874",
     "b7f75688b07e6306bcc56288dd361049",
     "2682cb82fcd0b748760dffa8fb7c14e1",
-    "5332745a5dfae1204fb476c8082cc14d"
+    "5332745a5dfae1204fb476c8082cc14d",
+    "a6252c615f0c6d75874d0e1c10958ac4",
+    "fcae96e08405a00af41d7e2871ec56e1"
   ],
   "transfers": {
     "pages": {
@@ -21992,92 +21996,6 @@
   "sent_stories": [
     {
       "words": [
-        "2026",
-        "china",
-        "fest",
-        "inzoi",
-        "participate",
-        "taptap"
-      ],
-      "at": "2026-08-21T06:36:45.530545+00:00",
-      "message_id": "1540248287049682965",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "inZOI to Participate in China's 'TapTap Game Fest 2026'",
-      "link": "https://www.invenglobal.com/articles/24998/inzoi-to-participate-in-chinas-taptap-game-fest-2026",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by KRAFTON© KRAFTONinZOI, a life simulation game by KRAFTON (CEO Changhan Kim), will participate in 'TapTap Game Fest 2026,' held in Shanghai, China, from September 12 to ......"
-    },
-    {
-      "words": [
-        "communication",
-        "exchange",
-        "holds",
-        "industry",
-        "jeonbuk",
-        "region",
-        "site"
-      ],
-      "at": "2026-08-21T06:36:45.530545+00:00",
-      "message_id": "1540248302837170258",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "K-GAMES Holds On-Site Communication Exchange for Jeonbuk Region Game Industry",
-      "link": "https://www.invenglobal.com/articles/24997/k-games-holds-on-site-communication-exchange-for-jeonbuk-region-game-industry",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by the Korea Association of Game Industry© Korea Association of Game IndustryThe Korea Association of Game Industry (Chairman Cho Young-gi, hereinafter K-GAMES) is continu......"
-    },
-    {
-      "words": [
-        "cooks",
-        "edward",
-        "gaming",
-        "stew"
-      ],
-      "at": "2026-08-21T06:36:45.530545+00:00",
-      "message_id": "1540248317085229068",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg"
-      ],
-      "title": "EDward Gaming cooks with stew",
-      "link": "https://www.vlr.gg/740759/edward-gaming-cooks-with-stew",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "At the eleventh hour of the year, EDG seems to have assembled a serious superteam."
-    },
-    {
-      "words": [
-        "adds",
-        "bet",
-        "betby",
-        "experience",
-        "feature",
-        "integrated",
-        "live",
-        "sportsbook",
-        "watch"
-      ],
-      "at": "2026-08-21T06:36:45.530545+00:00",
-      "message_id": "1540248332180652073",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "BETBY adds integrated Watch & Bet feature to live sportsbook experience",
-      "link": "https://europeangaming.eu/portal/press-releases/2026/08/21/212989/betby-watch-and-bet-live-streaming-feature/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/BETBY-adds-integrated-Watch-Bet-feature-to-live-sportsbook-experience.jpg",
-      "base_description": "The launch comes backed by BETBY’s own World Cup data showing streaming access drove a 44.79% GGR-per-player uplift,… The post BETBY adds integrated Watch & Bet feature to live sportsbook experience appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
         "first",
         "footage",
         "revealed",
@@ -24423,6 +24341,24 @@
       "color": 8141549,
       "image_url": "https://media.europeangaming.eu/uploads/2026/08/EU-igaming-weekly-August-17-23.jpg",
       "base_description": "Denmark blocked 98 domains with Polymarket among them, four AML actions dated Q2 2027 for Ireland’s regulator, a… The post EU iGaming weekly: Denmark’s Polymarket block, Ireland’s AML plan, Netherlands youth data appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "busan",
+        "gather",
+        "heroes"
+      ],
+      "at": "2026-08-22T07:10:04.334298+00:00",
+      "message_id": "1540619063477141525",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Heroes gather in Busan: Nexon 'Overwatch Day' #Day1",
+      "link": "https://www.invenglobal.com/articles/25019/heroes-gather-in-busan-nexon-overwatch-day-day1",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "'Overwatch Day' held in BusanKorean Overwatch fans gathered in Busan for 'Overwatch Day,' held over two days on the 22nd and 23rd at BEXCO. Overwatch Day is a large-scale event hosted by Nexon to celebrate taking over domestic service for Overwatch...."
     }
   ]
 }
