@@ -8971,7 +8971,13 @@
     "https://www.vlr.gg/741958/crws-retires-from-competitive-play",
     "https://www.hotspawn.com/valorant/news/vct-stage-2-isnt-on-the-same-patch-worldwide-why-is-it-an-issue",
     "https://www.invenglobal.com/articles/25023/siwoo-when-i-visualize-head-coach-kim-dae-hos-feedback-it-always-paints-a-positive-picture",
-    "https://www.hotspawn.com/valorant/news/jonahp-reveals-sentinels-practice-shift-amid-vct-americas-play-ins-run"
+    "https://www.hotspawn.com/valorant/news/jonahp-reveals-sentinels-practice-shift-amid-vct-americas-play-ins-run",
+    "https://www.hltv.org/news/45365/live-updates-from-ewc-semi-finals",
+    "https://www.invenglobal.com/articles/25024/world-exchange-opening-imminent-factions-go-all-out-for-the-4th-god-election",
+    "https://www.dexerto.com/esports/10-year-old-street-fighter-player-goes-viral-after-incredible-tournament-performance-3401122/",
+    "https://insider-gaming.com/gta-6-strip-club-gameplay/",
+    "https://www.vlr.gg/741998/tyloo-sweeps-bilibili-to-seal-spot-at-champions-shanghai",
+    "https://www.hotspawn.com/fortnite/news/rarest-sprite-in-fortnite"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17839,7 +17845,13 @@
     "2f1e8e8dee4f073aef8933f0262b6ee7",
     "bd223849e6835e8c883e646c9fd71a1a",
     "f7793126cf6155140f60edec15ca51cd",
-    "a38ff720ef76221b2a6556c520c6ead0"
+    "a38ff720ef76221b2a6556c520c6ead0",
+    "0e44a109906e93b3cad829094fbb874a",
+    "be2ebcd4a2d8eb11553a079138ac86fe",
+    "a28b238927403fdf1361a1265c1765db",
+    "b19b6ab0fd89a983a011d346171a16a5",
+    "1e3aa29cb9fd26733e8fc371b4c7ca56",
+    "622cc7f0b0f3fbb9082c80def1e7a17d"
   ],
   "transfers": {
     "pages": {
@@ -22034,46 +22046,6 @@
   "sent_stories": [
     {
       "words": [
-        "discusses",
-        "great",
-        "jerrwin",
-        "sentinels",
-        "vibes"
-      ],
-      "at": "2026-08-21T12:01:44.873363+00:00",
-      "message_id": "1540330083221373002",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "Jerrwin discusses Sentinels’ great vibes",
-      "link": "https://www.hotspawn.com/valorant/news/jerrwin-discusses-sentinels-great-vibes",
-      "color": 8141549,
-      "image_url": "https://www.youtube.com/embed/d9icOPn3VyY",
-      "base_description": "Sentinels moved on in the Play-Ins lower bracket with a dominant win over Challengers side 2Game Esports, closing out the series without much resistance despite a scare on map two. It’s the latest step forward for a roster that’s taken time to find its footing since a rebuild and"
-    },
-    {
-      "words": [
-        "bob",
-        "crash",
-        "power",
-        "speed",
-        "tekken"
-      ],
-      "at": "2026-08-21T12:01:44.873363+00:00",
-      "message_id": "1540330103152574464",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "Bob to crash TEKKEN 8 with speed and power: Learn to play, master combos",
-      "link": "https://esports.gg/guides/tekken-8/bob-guide-tekken-8-combos/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "The character uses his massive body to hit opponents with impressive strength. Bob also has good speed and many mixup options. Perfect input is a gatekeeper of the maximum damage."
-    },
-    {
-      "words": [
         "apex",
         "changing",
         "healing",
@@ -24123,6 +24095,97 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "On August 22, in the final match of Round 4 of the 2026 LCK regular season, Dplus KIA (DK) defeated Gen.G 2-1...."
+    },
+    {
+      "words": [
+        "4th",
+        "all",
+        "election",
+        "exchange",
+        "factions",
+        "god",
+        "imminent",
+        "opening",
+        "out",
+        "world"
+      ],
+      "at": "2026-08-22T12:36:59.170587+00:00",
+      "message_id": "1540701333735342243",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "World Exchange Opening Imminent! Factions Go All-Out for the 4th God Election",
+      "link": "https://www.invenglobal.com/articles/25024/world-exchange-opening-imminent-factions-go-all-out-for-the-4th-god-election",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "SOL: enchant concludes its fourth God ElectionOn Saturday, August 22 at 20:00, SOL: enchant held its fourth God Election...."
+    },
+    {
+      "words": [
+        "fighter",
+        "goes",
+        "incredible",
+        "old",
+        "performance",
+        "player",
+        "street",
+        "tournament",
+        "viral",
+        "year"
+      ],
+      "at": "2026-08-22T12:36:59.170587+00:00",
+      "message_id": "1540701353523814402",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dexerto Esports"
+      ],
+      "title": "10-year-old Street Fighter player goes viral after incredible tournament performance",
+      "link": "https://www.dexerto.com/esports/10-year-old-street-fighter-player-goes-viral-after-incredible-tournament-performance-3401122/",
+      "color": 8141549,
+      "image_url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/05/16/Street-fighter-6-1.jpg?width=1080&quality=75&format=auto",
+      "base_description": "A 10-year-old Chilean boy has gone viral because of his exceptional Street Fighter ability and tournament success."
+    },
+    {
+      "words": [
+        "bilibili",
+        "champions",
+        "seal",
+        "shanghai",
+        "spot",
+        "sweeps",
+        "tyloo"
+      ],
+      "at": "2026-08-22T12:36:59.170587+00:00",
+      "message_id": "1540701373513990286",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "TYLOO sweeps Bilibili to seal spot at Champions Shanghai",
+      "link": "https://www.vlr.gg/741998/tyloo-sweeps-bilibili-to-seal-spot-at-champions-shanghai",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "TYLOO will be making its international debut at home at Champions Shanghai."
+    },
+    {
+      "words": [
+        "fortnite",
+        "rarest",
+        "sprite",
+        "what"
+      ],
+      "at": "2026-08-22T12:36:59.170587+00:00",
+      "message_id": "1540701392749076575",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "What is the Rarest Sprite in Fortnite?",
+      "link": "https://www.hotspawn.com/fortnite/news/rarest-sprite-in-fortnite",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Klombo-Fortnite-Sprites1.webp",
+      "base_description": "The current Fortnite season is focusing on sprites, you can collect them, use them in gameplay, but what’s the rarest sprite in Fortnite? This new type of gameplay for the Battle Royale is introducing a ton of different elements we haven’t seen before. That’s including some Pokem"
     }
   ]
 }
