@@ -8994,7 +8994,9 @@
     "https://siege.gg/ea-sports-fc/fc-27-evolutions-changes-pathways-chain-preview-playstyles-lab",
     "https://siege.gg/ea-sports-fc/fc-27-top-100-player-ratings-haaland-mbapp-putellas-lead-list",
     "https://siege.gg/ea-sports-fc/fc-26-futties-finale-evolution-guide-best-players-stat-upgrades",
-    "https://insider-gaming.com/baisha-gaming-win-the-esports-world-cup-crossfire-tournament/"
+    "https://insider-gaming.com/baisha-gaming-win-the-esports-world-cup-crossfire-tournament/",
+    "https://www.hotspawn.com/dota2/news/ti15-final-day-predictions",
+    "https://www.nerfplz.com/2026/10/minions-in-lol-10-rules-wave-plays-by.html"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17881,7 +17883,9 @@
     "126a96680f27577ec8c8b36890b9c42b",
     "ef8700be0a4b13377368ef1da7272d1f",
     "c5bcaf10f1424273e0b91167546da1a3",
-    "00e44d3a6cc4c3bb404ece799c2d20d2"
+    "00e44d3a6cc4c3bb404ece799c2d20d2",
+    "48d92ab196013729c66067b17080d3ef",
+    "6626e974f96b2fc9578b9f1fc303136c"
   ],
   "transfers": {
     "pages": {
@@ -23954,6 +23958,49 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Chinese roster BaiSha Gaming captured the Esports World Cup 2026 CrossFire tournament, winning $750,000 in the process. The post BaiSha Gaming win the Esports World Cup CrossFire Tournament appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "aegis",
+        "claim",
+        "day",
+        "final",
+        "maiden",
+        "predictions",
+        "their",
+        "ti15",
+        "vision",
+        "will"
+      ],
+      "at": "2026-08-22T16:21:46.575046+00:00",
+      "message_id": "1540757902980288634",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "TI15 Final Day Predictions: Will TEAM VISION Claim Their Maiden Aegis?",
+      "link": "https://www.hotspawn.com/dota2/news/ti15-final-day-predictions",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Spirit-The-International-2026.jpg",
+      "base_description": "We’re down to the final three teams in Shanghai, but only one will lift the Aegis at The International 2026 (TI15). If you’re looking to tune in to the event’s finale, here is my T115 final day preview. From 16, Down to Three After two weeks of intense Dota 2 action, the squads t"
+    },
+    {
+      "words": [
+        "guide",
+        "lol",
+        "minions"
+      ],
+      "at": "2026-08-22T16:21:46.575046+00:00",
+      "message_id": "1540757922869547101",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Nerfplz"
+      ],
+      "title": "LoL Minions Guide: Wave Timings, Aggro Rules and Gold Value",
+      "link": "https://www.nerfplz.com/2026/10/minions-in-lol-10-rules-wave-plays-by.html",
+      "color": 8141549,
+      "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.25,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_9.jpg",
+      "base_description": "Minions are the thing you interact with most in League and understand least. They arrive on a clock that changes twice, they carry a target priority list, they have two aggro ranges, and one undisturbed wave is worth more gold than almost anyone guesses. League of Legends Guide M"
     }
   ]
 }
