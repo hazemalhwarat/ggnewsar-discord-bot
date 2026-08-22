@@ -9016,7 +9016,9 @@
     "https://esports.gg/news/valorant/crws-retires/",
     "https://www.hltv.org/news/45369/spirit-outclass-legacy-to-make-ewc-grand-final",
     "https://www.hltv.org/news/45365/ewc-semi-finals-as-they-happened",
-    "https://insider-gaming.com/ewc-club-championship-2026-winner/"
+    "https://insider-gaming.com/ewc-club-championship-2026-winner/",
+    "https://dotesports.com/call-of-duty/guides/best-m4-loadout-mw4",
+    "https://insider-gaming.com/mewgenics-xbox-store-listing-release-near/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17921,7 +17923,9 @@
     "43250d963a0e8abb5acab3237cdf4e4f",
     "75a30145ffcd19e54fe214e692b6ac98",
     "45e61552b9ca5456f9a91625febad0b2",
-    "35fae158d3e925fbc43e0cea3d63eec2"
+    "35fae158d3e925fbc43e0cea3d63eec2",
+    "bfc86f76a0d7c21d949808601240a36d",
+    "eb52a9730f085a0e751f98d80d044196"
   ],
   "transfers": {
     "pages": {
@@ -22116,28 +22120,6 @@
   "sent_stories": [
     {
       "words": [
-        "delay",
-        "gameplay",
-        "gta",
-        "leaks",
-        "reveal",
-        "rockstar",
-        "won"
-      ],
-      "at": "2026-08-21T20:51:47.837308+00:00",
-      "message_id": "1540463469206442045",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Rockstar Won’t Delay GTA 6 Gameplay Reveal After Leaks",
-      "link": "https://insider-gaming.com/rockstar-has-not-identified-gta-6-leaker/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Rockstar reportedly has not identified the GTA 6 leaker, but it does not plan to move its gameplay premiere or change its marketing strategy. The post Rockstar Won’t Delay GTA 6 Gameplay Reveal After Leaks appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "dropping",
         "hes",
         "magixx",
@@ -23669,6 +23651,29 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "After seven weeks of competition, the winner of the $30 million EWC Club Championship has been decided, banking the organization $7 million. The post AG.AL Wins the Esports World Cup 2026 Club Championship, Claiming $7 Million First Prize appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "ahead",
+        "gamescom",
+        "goes",
+        "live",
+        "mewgenics",
+        "page",
+        "store",
+        "xbox"
+      ],
+      "at": "2026-08-22T21:15:48.102135+00:00",
+      "message_id": "1540831897754800262",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Mewgenics XBOX Store Page Goes Live Ahead of Gamescom",
+      "link": "https://insider-gaming.com/mewgenics-xbox-store-listing-release-near/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "An official XBOX Store page for Mewgenics has surfaced before Gamescom. The post Mewgenics XBOX Store Page Goes Live Ahead of Gamescom appeared first on Insider Gaming ."
     }
   ]
 }
