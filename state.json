@@ -9032,7 +9032,8 @@
     "https://www.invenglobal.com/articles/25017/you-are-our-inspiration-meeting-overwatch-developers-in-busan",
     "https://esports.gg/guides/roblox/liz-house-animal-hospital-roblox/",
     "https://insider-gaming.com/roblox-heavyweight-fishing-codes/",
-    "https://insider-gaming.com/roblox-runaways-codes/"
+    "https://insider-gaming.com/roblox-runaways-codes/",
+    "https://www.vlr.gg/742635/g2-and-kr-send-bestia-and-sentinels-home"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17952,7 +17953,8 @@
     "e7a8dd934ca6bc5d428dc270f7c5840e",
     "63a6dcb86de6b0c00d2c880b2dacbc90",
     "62510f9b5361f1afda1425b21ef37a5f",
-    "4a3ce2795bebf98323fae852fda65628"
+    "4a3ce2795bebf98323fae852fda65628",
+    "d66a467d2ed9c162a537240c057ba56b"
   ],
   "transfers": {
     "pages": {
@@ -22147,28 +22149,6 @@
   "sent_stories": [
     {
       "words": [
-        "moves",
-        "overperforming",
-        "patch",
-        "quick",
-        "recovery",
-        "targets",
-        "tekken"
-      ],
-      "at": "2026-08-22T05:01:11.213346+00:00",
-      "message_id": "1540586628647616593",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "Tekken 8 patch 3.02.01 targets Quick Recovery and overperforming moves",
-      "link": "https://dotesports.com/tekken/guides/tekken-8-patch-3-02-01-notes",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/desktop-Tekken-8-Patch-Notes-3-02.jpg",
-      "base_description": "Health, Quick Recovery, and move condition changes."
-    },
-    {
-      "words": [
         "artist",
         "bobby",
         "cat",
@@ -23486,6 +23466,26 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Use these monthly Heavyweight Fishing redeem codes to get your hands on free rewards like Cash, Tickets, Trait Rerolls, and more. The post Heavyweight Fishing Codes (August 2026) appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "bestia",
+        "home",
+        "krü",
+        "send",
+        "sentinels"
+      ],
+      "at": "2026-08-23T05:01:33.173026+00:00",
+      "message_id": "1540949108599291988",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "G2 and KRÜ send BESTIA and Sentinels home",
+      "link": "https://www.vlr.gg/742635/g2-and-kr-send-bestia-and-sentinels-home",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "G2 and KRÜ keep their playoff hopes alive."
     }
   ]
 }
