@@ -9044,7 +9044,8 @@
     "https://insider-gaming.com/redacted-gta-6-leaker-report-build-release/",
     "https://insider-gaming.com/nyt-connections-hints-solutions-august-23-1169/",
     "https://gameriv.com/take-two-targets-x-and-google-in-growing-hunt-for-gta-6-leaker-cyberleek/",
-    "https://www.hotspawn.com/counter-strike/news/ewc-2026-grand-final-preview"
+    "https://www.hotspawn.com/counter-strike/news/ewc-2026-grand-final-preview",
+    "https://www.hotspawn.com/league-of-legends/news/vitality-lyncas-interview"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17976,7 +17977,8 @@
     "7bb6de969d6eeb8bf0945793cb7a4954",
     "d737dc1bbbcceade761548a3d4973161",
     "7f2f5349550bf8bd506f4352f9488ed5",
-    "1e207ec939859ac9a1565317c9e1b142"
+    "1e207ec939859ac9a1565317c9e1b142",
+    "ae280825e14e40f7718f42c061821891"
   ],
   "transfers": {
     "pages": {
@@ -19855,7 +19857,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-23T02:38:48.563897+00:00",
+  "last_health_alert": "2026-08-23T09:04:11.688003+00:00",
   "recent_titles": [
     {
       "words": [
@@ -22171,46 +22173,6 @@
   "sent_stories": [
     {
       "words": [
-        "first",
-        "four"
-      ],
-      "at": "2026-08-22T08:47:30.241184+00:00",
-      "message_id": "1540643582279553105",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dotabuff Blog"
-      ],
-      "title": "The First Four to Go",
-      "link": "https://www.dotabuff.com/blog/2026-08-22-the-first-four-to-go",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "The stage is set for the final day of the International. This tournament is Dota at its best, with heavy heartbreaks and unexpected victories. We are grateful to all the participating teams for giving us these emotions and would like to spend some time highlighting and thanking t"
-    },
-    {
-      "words": [
-        "blackout",
-        "but",
-        "part",
-        "playstation",
-        "starts",
-        "taking",
-        "tomorrow",
-        "you"
-      ],
-      "at": "2026-08-22T08:47:30.241184+00:00",
-      "message_id": "1540643601682534472",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "PlayStation Blackout Starts Tomorrow, But Are You Taking Part?",
-      "link": "https://insider-gaming.com/playstation-blackout-starts-tomorrow-taking-part/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "The #PSBlackout social action kicks off tomorrow, but who is taking part, and will it have the effect participants desire? Probably not. The post PlayStation Blackout Starts Tomorrow, But Are You Taking Part? appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "bleakest",
         "bungie",
         "call",
@@ -23414,6 +23376,38 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/FUT-Esports-World-Cup-2026.jpg",
       "base_description": "FUT and Spirit. Out of CS2’s modern-day giants like Vitality, Falcons, FURIA, NAVI, and FaZe, these are the last two teams remaining, set to take the stage in the Grand Final of the Esports World Cup 2026. Their runs have been phenomenal: Spirit took down Vitality en route to the"
+    },
+    {
+      "words": [
+        "but",
+        "europe",
+        "future",
+        "good",
+        "highly",
+        "his",
+        "jungle",
+        "lyncas",
+        "myself",
+        "need",
+        "quite",
+        "results",
+        "role",
+        "see",
+        "show",
+        "still",
+        "vitality"
+      ],
+      "at": "2026-08-23T09:03:52.656513+00:00",
+      "message_id": "1541010091283714125",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "Vitality Lyncas on his future: “I see myself quite highly in the jungle role in Europe, but I still need to show good results” – LEC Summer Interview",
+      "link": "https://www.hotspawn.com/league-of-legends/news/vitality-lyncas-interview",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Carzzy-X-Lyncas.webp",
+      "base_description": "With Team Vitality‘s victory over Natus Vincere this Friday, the Bees move into third place in the standings at 4-2 and have now 98% locked in a spot for the Madrid road trip, where they will only need to win a single BO5 to qualify for Worlds. Following their 2-1 victory over th"
     }
   ]
 }
