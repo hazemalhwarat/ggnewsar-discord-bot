@@ -9056,7 +9056,12 @@
     "https://insider-gaming.com/hle-t1-lck-2026-playoff-seeds/",
     "https://www.invenglobal.com/articles/25032/nexon-to-build-grassroots-overwatch-esports-ecosystem",
     "https://www.invenglobal.com/articles/25031/from-on-site-experiences-to-stage-events-nexon-overwatch-day",
-    "https://www.hltv.org/news/45371/legacy-take-third-place-at-ewc-over-furia"
+    "https://www.hltv.org/news/45371/legacy-take-third-place-at-ewc-over-furia",
+    "https://esports.gg/news/fgc/brawlhalla-legends-tier-list/",
+    "https://www.invenglobal.com/articles/25034/a-minor-flaw-in-a-solid-foundation-call-of-duty-modern-warfare-4-multiplayer-beta",
+    "https://www.invenglobal.com/articles/25033/nongshim-redforce-reverse-sweep-bnk-fearx-to-secure-2nd-place-in-rise-group",
+    "https://www.vlr.gg/742697/onside-and-t1-qualify-for-korea-heavy-stage-2-playoffs",
+    "https://www.nerfplz.com/2026/08/red-post-roundup-4-riot-explains-duo.html"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18000,7 +18005,12 @@
     "27460c191b50c2f2f946dbab9a7244a5",
     "c9318d12aa86e2e137aafb5cb5ae8c49",
     "3cce0dc930dbef164cf345ad0ff6edcc",
-    "c7b7ecc674895a2e108939de64edde17"
+    "c7b7ecc674895a2e108939de64edde17",
+    "fee3d794d62fbb039b19b90a6f15afc4",
+    "656c4b7b9ebd067053c8bfc2039ad999",
+    "d3ee7fec2f6811698d5658ca56120124",
+    "3111216880d5527fd181cf6a7ae82ccd",
+    "72ab4d4b944420c1a1dee36a90761dea"
   ],
   "transfers": {
     "pages": {
@@ -22195,97 +22205,6 @@
   "sent_stories": [
     {
       "words": [
-        "4th",
-        "all",
-        "election",
-        "exchange",
-        "factions",
-        "god",
-        "imminent",
-        "opening",
-        "out",
-        "world"
-      ],
-      "at": "2026-08-22T12:36:59.170587+00:00",
-      "message_id": "1540701333735342243",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "World Exchange Opening Imminent! Factions Go All-Out for the 4th God Election",
-      "link": "https://www.invenglobal.com/articles/25024/world-exchange-opening-imminent-factions-go-all-out-for-the-4th-god-election",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "SOL: enchant concludes its fourth God ElectionOn Saturday, August 22 at 20:00, SOL: enchant held its fourth God Election...."
-    },
-    {
-      "words": [
-        "fighter",
-        "goes",
-        "incredible",
-        "old",
-        "performance",
-        "player",
-        "street",
-        "tournament",
-        "viral",
-        "year"
-      ],
-      "at": "2026-08-22T12:36:59.170587+00:00",
-      "message_id": "1540701353523814402",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dexerto Esports"
-      ],
-      "title": "10-year-old Street Fighter player goes viral after incredible tournament performance",
-      "link": "https://www.dexerto.com/esports/10-year-old-street-fighter-player-goes-viral-after-incredible-tournament-performance-3401122/",
-      "color": 8141549,
-      "image_url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/05/16/Street-fighter-6-1.jpg?width=1080&quality=75&format=auto",
-      "base_description": "A 10-year-old Chilean boy has gone viral because of his exceptional Street Fighter ability and tournament success."
-    },
-    {
-      "words": [
-        "bilibili",
-        "champions",
-        "seal",
-        "shanghai",
-        "spot",
-        "sweeps",
-        "tyloo"
-      ],
-      "at": "2026-08-22T12:36:59.170587+00:00",
-      "message_id": "1540701373513990286",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg"
-      ],
-      "title": "TYLOO sweeps Bilibili to seal spot at Champions Shanghai",
-      "link": "https://www.vlr.gg/741998/tyloo-sweeps-bilibili-to-seal-spot-at-champions-shanghai",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "TYLOO will be making its international debut at home at Champions Shanghai."
-    },
-    {
-      "words": [
-        "fortnite",
-        "rarest",
-        "sprite",
-        "what"
-      ],
-      "at": "2026-08-22T12:36:59.170587+00:00",
-      "message_id": "1540701392749076575",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "What is the Rarest Sprite in Fortnite?",
-      "link": "https://www.hotspawn.com/fortnite/news/rarest-sprite-in-fortnite",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Klombo-Fortnite-Sprites1.webp",
-      "base_description": "The current Fortnite season is focusing on sprites, you can collect them, use them in gameplay, but what’s the rarest sprite in Fortnite? This new type of gameplay for the Battle Royale is introducing a ton of different elements we haven’t seen before. That’s including some Pokem"
-    },
-    {
-      "words": [
         "final",
         "first",
         "grand",
@@ -23449,6 +23368,92 @@
       "color": 8141549,
       "image_url": "https://img-cdn.hltv.org/gallerypicture/fXH0-087S0VoRNi5ofl0Zn.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=da173eec855270141aae238b5c620b3c",
       "base_description": "Legacy won the keyless clash after giving up their map pick."
+    },
+    {
+      "words": [
+        "call",
+        "duty",
+        "flaw",
+        "foundation",
+        "minor",
+        "solid"
+      ],
+      "at": "2026-08-23T13:11:20.688745+00:00",
+      "message_id": "1541072396415672381",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "A Minor Flaw in a Solid Foundation: Call of Duty: Modern Warfare 4 Multiplayer Beta",
+      "link": "https://www.invenglobal.com/articles/25034/a-minor-flaw-in-a-solid-foundation-call-of-duty-modern-warfare-4-multiplayer-beta",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©INVENPlaying the multiplayer beta for Modern Warfare 4 naturally brings a four-character idiom to mind: \"Baekbyeokmiha,\" or \"a minor flaw in an otherwise flawless jade.\" The core ......"
+    },
+    {
+      "words": [
+        "2nd",
+        "bnk",
+        "fearx",
+        "group",
+        "nongshim",
+        "place",
+        "redforce",
+        "reverse",
+        "rise",
+        "secure",
+        "sweep"
+      ],
+      "at": "2026-08-23T13:11:20.688745+00:00",
+      "message_id": "1541072401805086922",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Nongshim RedForce Reverse Sweep BNK FearX to Secure 2nd Place in Rise Group",
+      "link": "https://www.invenglobal.com/articles/25033/nongshim-redforce-reverse-sweep-bnk-fearx-to-secure-2nd-place-in-rise-group",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©LCKIn the final match of the 2026 LoL Champions Korea (LCK) regular season held at the Chzzk LoL Park in Jongno on August 23, Nongshim RedForce defeated BNK FearX 2-1...."
+    },
+    {
+      "words": [
+        "heavy",
+        "korea",
+        "onside",
+        "playoffs",
+        "qualify",
+        "stage"
+      ],
+      "at": "2026-08-23T13:11:20.688745+00:00",
+      "message_id": "1541072406695780427",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "ONSIDE and T1 qualify for Korea-heavy Stage 2 playoffs",
+      "link": "https://www.vlr.gg/742697/onside-and-t1-qualify-for-korea-heavy-stage-2-playoffs",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "After downing Sharper and DetonatioN FocusMe, ONSIDE and T1 will see out their seasons in the playoffs."
+    },
+    {
+      "words": [
+        "post",
+        "red",
+        "roundup"
+      ],
+      "at": "2026-08-23T13:11:20.688745+00:00",
+      "message_id": "1541072412580384769",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Nerfplz"
+      ],
+      "title": "Red Post Roundup #4: Riot Explains Duo Queue MMR",
+      "link": "https://www.nerfplz.com/2026/08/red-post-roundup-4-riot-explains-duo.html",
+      "color": 8141549,
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioK-SdUQmmmzAyJUWgJvUczWrlf9s9Q7RT3Lyi7N4dpKyomnCTGIhZq7SIspq8AmiymGJkw0y2SohCgibfH-D5Om6VBJeEDG-0wpb7ftxoLkzxaZl8Y1Gjq06bLAJrenpnXUVBd1ouHJRovO_QufbcAg7g6MiHn9_d3MQ47wr7QKPFq9U6NBrFr9Y4mZw/s72-c-rw/leblanc.png",
+      "base_description": "Riot spent five days explaining what duoing does to your lobby, and above Emerald the answer is that it costs you. Matt Leung-Harrison put the duo penalty in rank order, Drew Levin defended it for four straight days, and the full 26.17 preview finally named its champions. Red Pos"
     }
   ]
 }
