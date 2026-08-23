@@ -9026,7 +9026,10 @@
     "https://www.vlr.gg/742394/liquid-and-fire-flux-stay-alive-in-emea-lower-bracket",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95RTN0TXJ3c2RHU2ZkNU1GTDdYSEZPMHNGMm4wZUtiYmhXUVUzM1NnZldxM3lZSlRQc0prQjFPdkdocE1zdVRtdnkzUEc3RHoyZFZuVGpzQU51TzA?oc=5",
     "https://dotesports.com/the-first-descendant/news/all-encrypted-vault-locations-in-the-first-descendant",
-    "https://esports.gg/news/roblox/animal-hospital-even-more-lore-update-patch-notes/"
+    "https://esports.gg/news/roblox/animal-hospital-even-more-lore-update-patch-notes/",
+    "https://www.invenglobal.com/articles/25028/closer-to-korean-fans-why-overwatch-chose-nexon",
+    "https://www.invenglobal.com/articles/25019/heroes-gather-in-busan-for-nexons-overwatch-day-day1",
+    "https://www.invenglobal.com/articles/25017/you-are-our-inspiration-meeting-overwatch-developers-in-busan"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17940,7 +17943,10 @@
     "7442e338e778db42496fe3b32329daef",
     "02caf34ad8ca084e41ad433ce535bc19",
     "7174c725523e4276ee7c420a8de0c552",
-    "8cb72138bfbadffe99e24d0f0c63a7f0"
+    "8cb72138bfbadffe99e24d0f0c63a7f0",
+    "7549e215c0e3d7c9345e8953521e51bf",
+    "26404ede2c9b667cb0e78c43146a6c78",
+    "e7a8dd934ca6bc5d428dc270f7c5840e"
   ],
   "transfers": {
     "pages": {
@@ -22135,73 +22141,6 @@
   "sent_stories": [
     {
       "words": [
-        "000",
-        "164",
-        "advertising",
-        "charges",
-        "deals",
-        "discuss",
-        "gta",
-        "leaker"
-      ],
-      "at": "2026-08-22T03:14:51.056444+00:00",
-      "message_id": "1540559867868090460",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GameRiv"
-      ],
-      "title": "GTA 6 Leaker Reportedly Charges $164,000 to Discuss Advertising Deals",
-      "link": "https://gameriv.com/gta-6-leaker-reportedly-charges-164000-to-discuss-advertising-deals/",
-      "color": 8141549,
-      "image_url": "https://gameriv.com/wp-content/uploads/2026/08/GTA-6-real-money-trading-leak.jpg",
-      "base_description": "The person or group behind the recent GTA 6 leaks, known online as Cyberleek, has taken another unusual step by adding a new contact and advertising section to its website. The page claims Cyberleek is now open to paid advertising deals and even custom-made GTA 6 gameplay footage"
-    },
-    {
-      "words": [
-        "claim",
-        "krx",
-        "nongshim",
-        "playoff",
-        "spots",
-        "stand",
-        "tall"
-      ],
-      "at": "2026-08-22T03:14:51.056444+00:00",
-      "message_id": "1540559887560347742",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg"
-      ],
-      "title": "KRX and Nongshim stand tall to claim playoff spots",
-      "link": "https://www.vlr.gg/741679/krx-and-nongshim-stand-tall-to-claim-playoff-spots",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": ""
-    },
-    {
-      "words": [
-        "furia",
-        "into",
-        "mibr",
-        "playoffs",
-        "punch",
-        "their",
-        "way"
-      ],
-      "at": "2026-08-22T03:14:51.056444+00:00",
-      "message_id": "1540559908649574532",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg"
-      ],
-      "title": "MIBR and FURIA punch their way into the playoffs",
-      "link": "https://www.vlr.gg/741547/mibr-and-furia-punch-their-way-into-the-playoffs",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "After both going through three-map series, the Brazilian squads will continue their path to São Paulo in the upper bracket of the playoffs."
-    },
-    {
-      "words": [
         "moves",
         "overperforming",
         "patch",
@@ -23503,6 +23442,24 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "Animal Hospital releases more lore for us to discover as we investigate what is actually happening within the Animal Corporation."
+    },
+    {
+      "words": [
+        "closer",
+        "fans",
+        "korean"
+      ],
+      "at": "2026-08-23T03:36:00.931464+00:00",
+      "message_id": "1540927582403432460",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "\"Closer to Korean Fans\": Why Overwatch Chose Nexon",
+      "link": "https://www.invenglobal.com/articles/25028/closer-to-korean-fans-why-overwatch-chose-nexon",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©INVENThe 'Overwatch' development team evaluated Korean players not merely as a large user base, but as a community that directly influences the game's meta and balance...."
     }
   ]
 }
