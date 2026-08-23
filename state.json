@@ -9062,7 +9062,12 @@
     "https://www.invenglobal.com/articles/25033/nongshim-redforce-reverse-sweep-bnk-fearx-to-secure-2nd-place-in-rise-group",
     "https://www.vlr.gg/742697/onside-and-t1-qualify-for-korea-heavy-stage-2-playoffs",
     "https://www.nerfplz.com/2026/08/red-post-roundup-4-riot-explains-duo.html",
-    "https://www.nerfplz.com/2026/08/irelia-counters-best-counter-picks-and.html"
+    "https://www.nerfplz.com/2026/08/irelia-counters-best-counter-picks-and.html",
+    "https://www.dotabuff.com/blog/2026-08-23-the-international-2026-champions",
+    "https://insider-gaming.com/team-spirit-win-historic-third-ti-at-the-international-2026-in-thrilling-grand-final/",
+    "https://esports.gg/opinion/street-fighter-6/sf6-tier-list-competitive-casual/",
+    "https://www.hotspawn.com/dota2/news/team-spirit-wins-the-international-2026-full-ti15-grand-finals-breakdown",
+    "https://www.invenglobal.com/articles/25037/head-coach-choi-in-kyu-an-eventful-season-well-make-the-bo5-worth-cheering-for"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18012,7 +18017,12 @@
     "d3ee7fec2f6811698d5658ca56120124",
     "3111216880d5527fd181cf6a7ae82ccd",
     "72ab4d4b944420c1a1dee36a90761dea",
-    "adfb1b39cc2eb51c42a6cce293bfa905"
+    "adfb1b39cc2eb51c42a6cce293bfa905",
+    "397f13f2ff712ddd42882c38045ff918",
+    "aa9abf739f0fba7557d054a988def592",
+    "f21aaaeb80e51e984dfc7ea5bea942b1",
+    "6e6b32f18f8529fb7450d9abd7906e9e",
+    "7a38645d831f1ebe1e1181a9c700a3a5"
   ],
   "transfers": {
     "pages": {
@@ -22207,55 +22217,6 @@
   "sent_stories": [
     {
       "words": [
-        "final",
-        "first",
-        "grand",
-        "over",
-        "through",
-        "ti15",
-        "vision",
-        "win",
-        "yandex"
-      ],
-      "at": "2026-08-22T13:19:35.394385+00:00",
-      "message_id": "1540712056007958559",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "TEAM VISION First Through to TI15 Grand Final After Win Over Team Yandex",
-      "link": "https://www.hotspawn.com/dota2/news/team-vision-through-to-ti15-grand-final",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/9Class-The-International-2026.jpg",
-      "base_description": "TEAM VISION are officially the first squad to book a spot in the TI15 grand final, where they are a single series from rewriting history. Puppey and his boys took down rivals Team Yandex 2-1 in the upper bracket final and are looking poised to lift the trophy. Undefeated in Shang"
-    },
-    {
-      "words": [
-        "ability",
-        "actually",
-        "cooldown",
-        "explained",
-        "get",
-        "haste",
-        "how",
-        "much",
-        "reduction",
-        "you"
-      ],
-      "at": "2026-08-22T13:19:35.394385+00:00",
-      "message_id": "1540712075934830643",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Nerfplz"
-      ],
-      "title": "Ability Haste Explained: How Much Cooldown Reduction You Actually Get",
-      "link": "https://www.nerfplz.com/2026/08/ability-haste-explained-how-much.html",
-      "color": 8141549,
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnYYgdBlklOoTK-saQUbKijhB_LS4MhQZYYcsenjzQEX__0QmDZNqDuRHv1B1vorNarEoAwudtPB6DXeXaKyl6yuGZNEWlKM20fcttH3V1kKRfr_V9UGs9gqlSOpdVZtRp3rpLJ7eHau8V-7isuN6HVO12hX4S0jKUkt7ihzMsG1cdiEBz_-CwjVTbbb8/s72-c-rw/evergreen-05-ability-haste-preview.jpg",
-      "base_description": "100 Ability Haste isn't 100% cooldown reduction, and 500 Ability Haste doesn't give you free spells. The stat is genuinely simple once you see the one formula behind it, and understanding it tells you exactly when the next haste item stops being worth buying. League of Legends Gu"
-    },
-    {
-      "words": [
         "bad",
         "dns",
         "ends",
@@ -22758,7 +22719,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "HLTV",
-        "Hotspawn"
+        "Hotspawn",
+        "Insider Gaming"
       ],
       "title": "Spirit outclass Legacy to make EWC grand final",
       "link": "https://www.hltv.org/news/45369/spirit-outclass-legacy-to-make-ewc-grand-final",
@@ -22783,7 +22745,8 @@
       "message_id": "1540824882278043749",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Hotspawn"
       ],
       "title": "AG.AL Wins the Esports World Cup 2026 Club Championship, Claiming $7 Million First Prize",
       "link": "https://insider-gaming.com/ewc-club-championship-2026-winner/",
@@ -23017,7 +22980,8 @@
       "message_id": "1540979023365279805",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Hotspawn"
+        "Hotspawn",
+        "Dotabuff Blog"
       ],
       "title": "TI15 Prize Pool Tracker – How Much is The International 2026 Prize Pool?",
       "link": "https://www.hotspawn.com/dota2/news/ti15-prize-pool-tracker-how-much-is-the-international-2026-prize-pool",
@@ -23456,6 +23420,31 @@
       "color": 8141549,
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioK-SdUQmmmzAyJUWgJvUczWrlf9s9Q7RT3Lyi7N4dpKyomnCTGIhZq7SIspq8AmiymGJkw0y2SohCgibfH-D5Om6VBJeEDG-0wpb7ftxoLkzxaZl8Y1Gjq06bLAJrenpnXUVBd1ouHJRovO_QufbcAg7g6MiHn9_d3MQ47wr7QKPFq9U6NBrFr9Y4mZw/s72-c-rw/leblanc.png",
       "base_description": "Riot spent five days explaining what duoing does to your lobby, and above Emerald the answer is that it costs you. Matt Leung-Harrison put the duo penalty in rank order, Drew Levin defended it for four straight days, and the full 26.17 preview finally named its champions. Red Pos"
+    },
+    {
+      "words": [
+        "bo5",
+        "cheering",
+        "choi",
+        "coach",
+        "eventful",
+        "head",
+        "kyu",
+        "make",
+        "season",
+        "worth"
+      ],
+      "at": "2026-08-23T13:45:51.944837+00:00",
+      "message_id": "1541081057388929126",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Head Coach Choi In-kyu: \"An Eventful Season... We'll Make the BO5 Worth Cheering For\"",
+      "link": "https://www.invenglobal.com/articles/25037/head-coach-choi-in-kyu-an-eventful-season-well-make-the-bo5-worth-cheering-for",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Nongshim RedForce defeated BNK FearX 2-1 on August 23 in the final regular season match of the 2026 LoL Champions Korea (LCK), held at CHZZK LoL PARK in Jongno...."
     }
   ]
 }
