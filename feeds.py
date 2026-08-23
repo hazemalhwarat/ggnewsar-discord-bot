@@ -533,39 +533,42 @@ RSS_FEEDS = [
     {"name": "Esports Business & Sponsorships (Google News bridge)", "url": "https://news.google.com/rss/search?q=esports+(sponsorship+OR+partnership+OR+investment+OR+acquisition+OR+revenue)&hl=en&gl=US&ceid=US:en", "verified": False, "loose_query": True},
 
     # ============================================================
-    # Added 2026-07-04 — X (Twitter) accounts via RSSHub public instance
-    # See docstring warning at top of file re: self-hosting RSSHub.
-    # ============================================================
-    {"name": "X: Team Falcons (@FalconsEsport)", "url": "https://rsshub.app/twitter/user/FalconsEsport", "verified": False, "region": "mena"},
-    {"name": "X: Twisted Minds (@TwisMinds)", "url": "https://rsshub.app/twitter/user/TwisMinds", "verified": False, "region": "mena"},
-    {"name": "X: Nigma Galaxy (@NigmaGalaxy)", "url": "https://rsshub.app/twitter/user/NigmaGalaxy", "verified": False, "region": "mena"},
-    {"name": "X: Geekay Esports (@geekay_esports)", "url": "https://rsshub.app/twitter/user/geekay_esports", "verified": False, "region": "mena"},
-    {"name": "X: FATE Esports (@EsportsFate)", "url": "https://rsshub.app/twitter/user/EsportsFate", "verified": False, "region": "mena"},
-    {"name": "X: Esports World Cup (@EWC_EN) [checked]", "url": "https://rsshub.app/twitter/user/EWC_EN", "verified": False, "priority": "high"},
-    {"name": "X: ESL (@ESL) [likely]", "url": "https://rsshub.app/twitter/user/ESL", "verified": False},
-    {"name": "X: ESL CS (@ESLCS) [likely]", "url": "https://rsshub.app/twitter/user/ESLCS", "verified": False},
-    {"name": "X: BLAST (@BLASTPremier) [likely]", "url": "https://rsshub.app/twitter/user/BLASTPremier", "verified": False},
-    {"name": "X: PGL (@pglesports) [likely]", "url": "https://rsshub.app/twitter/user/pglesports", "verified": False},
-    {"name": "X: IEM (@IEM) [likely]", "url": "https://rsshub.app/twitter/user/IEM", "verified": False},
-    {"name": "X: Counter-Strike (@CounterStrike) [likely]", "url": "https://rsshub.app/twitter/user/CounterStrike", "verified": False},
-    {"name": "X: VALORANT Esports (@ValorantEsports) [likely]", "url": "https://rsshub.app/twitter/user/ValorantEsports", "verified": False},
-    {"name": "X: LoL Esports (@LoLEsports) [likely]", "url": "https://rsshub.app/twitter/user/LoLEsports", "verified": False},
-    {"name": "X: DOTA2 (@DOTA2) [likely]", "url": "https://rsshub.app/twitter/user/DOTA2", "verified": False},
-    {"name": "X: Rainbow Six Esports (@Rainbow6Esports) [unsure]", "url": "https://rsshub.app/twitter/user/Rainbow6Esports", "verified": False},
-    {"name": "X: Rocket League Esports (@RLEsports) [unsure]", "url": "https://rsshub.app/twitter/user/RLEsports", "verified": False},
-    {"name": "X: PUBG Esports (@PUBGEsports) [unsure]", "url": "https://rsshub.app/twitter/user/PUBGEsports", "verified": False},
-    {"name": "X: Mobile Legends Bang Bang (@MobileLegends) [unsure]", "url": "https://rsshub.app/twitter/user/MobileLegends", "verified": False},
-    {"name": "X: EA Sports FC (@EASPORTSFC) [unsure]", "url": "https://rsshub.app/twitter/user/EASPORTSFC", "verified": False},
-    # Insider / rumor accounts — retagged source_type="leak" 2026-08-11,
-    # these three are well known for breaking transfer rumors ahead of
-    # official announcements, not for publishing confirmed news first.
-    {"name": "X: Rod Breslau (@Slasher) [likely]", "url": "https://rsshub.app/twitter/user/Slasher", "verified": False, "source_type": "leak"},
-    {"name": "X: Richard Lewis (@RLewisReports) [likely]", "url": "https://rsshub.app/twitter/user/RLewisReports", "verified": False, "source_type": "leak"},
-    {"name": "X: Travis Gafford (@TravisGafford) [likely]", "url": "https://rsshub.app/twitter/user/TravisGafford", "verified": False, "source_type": "leak"},
-    # Added 2026-08-11 — CS2-specific insider account with a strong public
-    # track record (correctly reported karrigan's move to Falcons ahead of
-    # IEM Cologne 2026, among other transfers later confirmed as described).
-    {"name": "X: KRL (@KRL_STREAM) [insider, CS2]", "url": "https://rsshub.app/twitter/user/KRL_STREAM", "verified": False, "source_type": "leak"},
+    # REMOVED 2026-08-23 — the entire "X via public rsshub.app" block
+    # (24 entries: Team Falcons, Twisted Minds, Nigma Galaxy, Geekay,
+    # FATE, EWC, ESL, BLAST, PGL, IEM, CS, VALORANT, LoL, Dota, R6,
+    # Rocket League, PUBG, MLBB, EA FC, plus the insider/leak accounts
+    # Slasher, RLewisReports, TravisGafford, KRL_STREAM).
+    #
+    # Why: Hazem reported the news-bot Discord channel posting unrelated
+    # spam — a "join our Telegram channel" ad for a bot called
+    # "A-TOOLS X" — with the exact formatting of a Discord auto-unfurled
+    # link preview (i.e. the message that produced it was a bare t.me
+    # URL, not anything this codebase's Arabic package generator or
+    # Gemini prompt ever produces — grepped the whole repo, that string
+    # exists nowhere in the source). This file's own docstring has warned
+    # since 2026-07-04 that "the public rsshub.app is heavily
+    # rate-limited/blocked, not reliable for production" — a shared free
+    # demo proxy is also the one place in this pipeline where the actual
+    # HTTP response body is entirely outside our control, since it's a
+    # live third party passing through whatever it returns for a broken
+    # route (ad-injected error page, hijacked/expired route, etc.), not a
+    # dedicated RSS/Atom feed we've inspected. It's also the single
+    # biggest reliability drag on this list: "verified" was False for
+    # every single one of these 24 entries, meaning by this file's own
+    # tracking none of them were confirmed actually returning real
+    # content as of the last live test — 24 dead-weight fetches per run
+    # for zero delivered news, on top of the spam risk.
+    #
+    # Net effect of removing them: no loss of real coverage (they weren't
+    # verified as working anyway), one less unvetted third-party proxy in
+    # the pipeline, and no more plausible entry point for this kind of ad
+    # content to reach Discord.
+    #
+    # To get these accounts back safely: self-host a private RSSHub
+    # instance (Railway/Render free tier works) so the response is one
+    # you control, then re-add entries pointing at your own instance —
+    # see the "To add an X (Twitter) account" note in this file's
+    # top docstring for the exact entry shape.
 
     # ============================================================
     # MENA EXPANSION — added 2026-07-05: full MENA coverage (Gulf,
@@ -604,7 +607,9 @@ RSS_FEEDS = [
     # ============================================================
     {"name": "Jordan Esports Federation (official, via Google News)", "url": "https://news.google.com/rss/search?q=site:jef.jo&hl=en&gl=US&ceid=US:en", "verified": False, "region": "jordan", "priority": "high"},
     {"name": "Jordan Esports general", "url": "https://news.google.com/rss/search?q=%22Jordan+Esports%22+OR+%22Jordan+Esports+Federation%22&hl=en&gl=US&ceid=US:en", "verified": False, "region": "jordan", "priority": "high", "loose_query": True},
-    {"name": "X: Jordan Esports Federation (@Jordan_Esports)", "url": "https://rsshub.app/twitter/user/Jordan_Esports", "verified": False, "region": "jordan", "priority": "high"},
+    # REMOVED 2026-08-23 — same public-rsshub.app removal as above; see
+    # that block's note for why. High-priority Jordan coverage still
+    # comes through the two Google News bridges right above.
 
     # ============================================================
     # BROADER COVERAGE — added 2026-08-11 per Hazem's request for more
