@@ -9105,7 +9105,12 @@
     "https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp",
     "https://insider-gaming.com/gamescom-gta-6-wont-overshadow-showcase/",
     "https://esports.gg/news/counter-strike-2/schedule-cs2-events-2026/",
-    "https://www.hotspawn.com/valorant/news/tyloo-wins-vct-cn-stage-2"
+    "https://www.hotspawn.com/valorant/news/tyloo-wins-vct-cn-stage-2",
+    "https://www.hltv.org/news/45370/esports-world-cup-grand-final-as-it-happened",
+    "https://www.hltv.org/news/45379/donk-i-still-see-a-lot-of-things-that-i-can-improve",
+    "https://www.vlr.gg/742967/liquid-downs-ep-and-fire-flux-shocks-bbl-to-seal-barcelona-field",
+    "https://insider-gaming.com/denshattack-300000-players-worldwide/",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemoyZlN6aFVoOHFIV1E3N3JOQlRUUlo5TXdqdjFvM2ZfZjR6SUNFejJ1ai1tM0ljOG5UMXFxc1FpczZNNHZ3VWdTRUM5SFFieEpXSHJubkVqbWpmX043Uml6eWc5WjdYczJJaERhRnNqaDNCZndlMmxQT0N5ZXNER2cyRG03V0FmZXE3WEhxREpXTEU3amQ1b3pYem5ULU9jT2xlQ1FHbnFIVlU?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18096,7 +18101,12 @@
     "e1a3ef42e5ccff52405cb87c30538f15",
     "77afee2d1f1a5ec4d407d74584b47f50",
     "c63864bc159e4c700c298db11de50a07",
-    "b21de5105bb64eb5ef8a862a4f3ef76c"
+    "b21de5105bb64eb5ef8a862a4f3ef76c",
+    "447a9b1e18a3e1a4832651fc88d9ffdc",
+    "5ac75c1dd99648f0a7ea4121482ff61a",
+    "b3ec333cde87c071eedeaa61fd249474",
+    "5819c918febc8acc5537200e629794c1",
+    "b23c10893bdda0540d8b623f6e37cfa9"
   ],
   "transfers": {
     "pages": {
@@ -23408,6 +23418,97 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/TYLOO-SiuFatBB-at-VCT-China-Stage-2.jpg",
       "base_description": "TYLOO is finally a champion. The organization defeated JD Gaming 3-1 in the VCT CN 2026 Stage 2 grand final, securing not just its first regional title but its first-ever trip to VALORANT Champions, arriving in Shanghai on home soil no less. For a team that had never finished bet"
+    },
+    {
+      "words": [
+        "can",
+        "donk",
+        "improve",
+        "lot",
+        "see",
+        "still",
+        "things"
+      ],
+      "at": "2026-08-23T18:56:56.862603+00:00",
+      "message_id": "1541159327056920650",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "donk: \"I still see a lot of things that I can improve\"",
+      "link": "https://www.hltv.org/news/45379/donk-i-still-see-a-lot-of-things-that-i-can-improve",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/hqiBMQHofp3PjjTiJnfrOP.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=ea9c866b6daff88ce2d49ad3b7928507",
+      "base_description": "Despite his MVP-winning form and Spirit winning the Esports World Cup title, donk still feels like both have ways to go."
+    },
+    {
+      "words": [
+        "barcelona",
+        "bbl",
+        "downs",
+        "field",
+        "fire",
+        "flux",
+        "liquid",
+        "seal",
+        "shocks"
+      ],
+      "at": "2026-08-23T18:56:56.862603+00:00",
+      "message_id": "1541159332463513671",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "Liquid downs EP and Fire Flux shocks BBL to seal Barcelona field",
+      "link": "https://www.vlr.gg/742967/liquid-downs-ep-and-fire-flux-shocks-bbl-to-seal-barcelona-field",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Fire Flux is Tier 2's last stand, and what a force it has been."
+    },
+    {
+      "words": [
+        "000",
+        "150",
+        "300",
+        "copies",
+        "denshattack",
+        "hits",
+        "players",
+        "sells"
+      ],
+      "at": "2026-08-23T18:56:56.862603+00:00",
+      "message_id": "1541159337735753759",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Denshattack! Sells 150,000 Copies, Hits 300,000 Players",
+      "link": "https://insider-gaming.com/denshattack-300000-players-worldwide/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Denshattack! has reached more than 300,000 players and sold over 150,000 copies worldwide after its July release on PC and consoles. The post Denshattack! Sells 150,000 Copies, Hits 300,000 Players appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "2026",
+        "australia",
+        "fifae",
+        "finals",
+        "jordan",
+        "oman",
+        "qualify"
+      ],
+      "at": "2026-08-23T18:56:56.862603+00:00",
+      "message_id": "1541159342764462091",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Oman Esports"
+      ],
+      "title": "Australia, Jordan, and Oman qualify for the FIFAe Finals 2026 - Sheep Esports",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemoyZlN6aFVoOHFIV1E3N3JOQlRUUlo5TXdqdjFvM2ZfZjR6SUNFejJ1ai1tM0ljOG5UMXFxc1FpczZNNHZ3VWdTRUM5SFFieEpXSHJubkVqbWpmX043Uml6eWc5WjdYczJJaERhRnNqaDNCZndlMmxQT0N5ZXNER2cyRG03V0FmZXE3WEhxREpXTEU3amQ1b3pYem5ULU9jT2xlQ1FHbnFIVlU?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Australia, Jordan, and Oman qualify for the FIFAe Finals 2026 Sheep Esports"
     }
   ]
 }
