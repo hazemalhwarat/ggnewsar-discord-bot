@@ -9115,7 +9115,12 @@
     "https://insider-gaming.com/evercade-banjo-games-quality-of-life-features/",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1RMQ0k5RlU3UXZEZWpVbktsTkVVTnBwTElEMkF4SlpjX0hzbElzR01HSUVZQ3VFbmNoN3owS3hRQ0FCd1A2b2Y0RUE5b291Ukk0Y1FUbzVkdnd0N0l5OHlmNU1ONHlLRjdncmNUSnZ5LUtmMW00SURGU0lHMlZlSm5EejRVa2lxZWl0cGF3RzFLd0J1aVk0dHAteE5YSkNTaUo3ODJYN3I4eVU?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXpqUS1QVV9nZUlWTjJBVlVPS2V2N3lzdUl4QVdhNzRCbzQ2VEZkOE9wQVpHcW9tS0lFNDdJaTZ5NExDRFBFNk51WldMN0VfQ3hpRlZKYnpLaGNZZmFsSjNUekczOVlRU2dzaXF1WnJuNGtQODh5MGc2REtWQjhkZlNpRXZVWUNZaHRPT0YtUlBtZTMyanVzSHR1VENLZklMWHhFb2ZR?oc=5",
-    "https://insider-gaming.com/double-fine-amnesia-fortnight-xbox-split/"
+    "https://insider-gaming.com/double-fine-amnesia-fortnight-xbox-split/",
+    "https://insider-gaming.com/nyt-strands-903-hints-spangram-answers-august-23/",
+    "https://dotesports.com/indies/news/how-to-fish-game-sales-friendslop-steam-indie-coop",
+    "https://insider-gaming.com/spirit-tn1r-ewc-2026-interview/",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUpKNVJ0WWxGb1JyWE5tMVJqMFE1TW9BMVE5ejNUM1ktZ0VFZTl3UFI1NzQzZEo0dUVFSGRYeFh1Z3NEaFN0R0xLZnAxNVRoQUhyRlNzRXFtLWZrNURrLXhfeUpYUUVIWl9vd2tIQlYwSzVCaU52RGM0Vk9rR0d2UXBWU1diMFRORGtiSjRsVFUtVUthUEd0NEpSd3pwbDNJWkF1ZjBtbXhSRzZHaEh3bA?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXTUR6TjlkUDJram1JbDk5V1lIaDI4cTI0UmhfUGJSQXlyVHY0NkFDQVRZMmI3X19sVzd5SjNzN3gxSVpzX0xNR2xoYjBncElvcnVkNFV2bll5eFVoM1JQOUNMYkdsUnBJ?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18115,7 +18120,12 @@
     "e1d69c416e186ea097bdf9a55d9a0368",
     "e84adcbfe1dda7a7e00f30fd508ea870",
     "eb9384535f63378062d1ee47a313353a",
-    "6dd9fe18ebf9b9d17e634364686f1b1c"
+    "6dd9fe18ebf9b9d17e634364686f1b1c",
+    "ee97cf13a9ba52572b7dc0f458441be4",
+    "0090e983da002c87bb4788060955444d",
+    "418512adbb481da4f57e4b17ab6009e2",
+    "23f1ec13a31190fbc69a93b86d2ad51a",
+    "d08569d534540d7c421ac213c70ac637"
   ],
   "transfers": {
     "pages": {
@@ -22310,31 +22320,6 @@
   "sent_stories": [
     {
       "words": [
-        "ewc",
-        "final",
-        "grand",
-        "legacy",
-        "make",
-        "outclass",
-        "spirit"
-      ],
-      "at": "2026-08-22T20:19:07.782009+00:00",
-      "message_id": "1540817635577561133",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV",
-        "Hotspawn",
-        "Insider Gaming",
-        "Dot Esports"
-      ],
-      "title": "Spirit outclass Legacy to make EWC grand final",
-      "link": "https://www.hltv.org/news/45369/spirit-outclass-legacy-to-make-ewc-grand-final",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/_FBO5CmT3Yot67tjqXMFZ-.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=f0214c746820c334376d7792a1d5393a",
-      "base_description": "FUT and Spirit will face off for the first time in a best-of-five grand final."
-    },
-    {
-      "words": [
         "2026",
         "championship",
         "claiming",
@@ -23443,6 +23428,95 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "After splitting from XBOX, Double Fine is bringing back Amnesia Fortnight as a live Kickstarter game jam where backers will choose its next release. The post Double Fine Revives Amnesia Fortnight After XBOX Split appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "copies",
+        "days",
+        "fish",
+        "friendslop",
+        "how",
+        "million",
+        "newest",
+        "sells",
+        "two",
+        "viral"
+      ],
+      "at": "2026-08-23T20:47:53.281575+00:00",
+      "message_id": "1541187246462345389",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "How to Fish, the newest viral friendslop game, sells 1 million copies in two days",
+      "link": "https://dotesports.com/indies/news/how-to-fish-game-sales-friendslop-steam-indie-coop",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/how-to-fish-indie-friendslop-pistol.webp",
+      "base_description": "Trickshotting fish has never been so fun."
+    },
+    {
+      "words": [
+        "goal",
+        "grand",
+        "main",
+        "slam",
+        "win"
+      ],
+      "at": "2026-08-23T20:47:53.281575+00:00",
+      "message_id": "1541187251973922919",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "“My main goal is to win the Grand Slam” – tN1R",
+      "link": "https://insider-gaming.com/spirit-tn1r-ewc-2026-interview/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Insider Gaming spoke to Andrey 'tN1R' Tatarinovich after Team Spirit's 3-1 Grand Final victory at the Esports World Cup over FUT. The post “My main goal is to win the Grand Slam” – tN1R appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "center",
+        "damascus",
+        "embassy",
+        "opens",
+        "saudi",
+        "syria",
+        "tasheer"
+      ],
+      "at": "2026-08-23T20:47:53.281575+00:00",
+      "message_id": "1541187257006821507",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Syria Esports"
+      ],
+      "title": "Saudi Embassy in Syria opens Tasheer Center in Damascus - Saudi Gazette",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUpKNVJ0WWxGb1JyWE5tMVJqMFE1TW9BMVE5ejNUM1ktZ0VFZTl3UFI1NzQzZEo0dUVFSGRYeFh1Z3NEaFN0R0xLZnAxNVRoQUhyRlNzRXFtLWZrNURrLXhfeUpYUUVIWl9vd2tIQlYwSzVCaU52RGM0Vk9rR0d2UXBWU1diMFRORGtiSjRsVFUtVUthUEd0NEpSd3pwbDNJWkF1ZjBtbXhSRzZHaEh3bA?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Saudi Embassy in Syria opens Tasheer Center in Damascus Saudi Gazette"
+    },
+    {
+      "words": [
+        "dragons",
+        "future",
+        "molodoy",
+        "rumor",
+        "spirit",
+        "stats",
+        "transfer"
+      ],
+      "at": "2026-08-23T20:47:53.281575+00:00",
+      "message_id": "1541187262887231540",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "General esports transfer rumors (Google News bridge)"
+      ],
+      "title": "molodoy to Team Spirit: transfer rumor, stats, and the future of the Dragons - VPEsports",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXTUR6TjlkUDJram1JbDk5V1lIaDI4cTI0UmhfUGJSQXlyVHY0NkFDQVRZMmI3X19sVzd5SjNzN3gxSVpzX0xNR2xoYjBncElvcnVkNFV2bll5eFVoM1JQOUNMYkdsUnBJ?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "molodoy to Team Spirit: transfer rumor, stats, and the future of the Dragons VPEsports"
     }
   ]
 }
