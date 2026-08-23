@@ -9040,7 +9040,8 @@
     "https://insider-gaming.com/roblox-my-dino-life-codes/",
     "https://www.hotspawn.com/dota2/news/ti15-prize-pool-tracker-how-much-is-the-international-2026-prize-pool",
     "https://europeangaming.eu/portal/interviews/2026/08/23/213012/giorgi-tsutskiridze-spribe-interview/",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3E5ZHNudFFsMG94UkxnSk1DYXVRVTNNZjhmX21OZTl1bXg3c2J6NldZYVRBNGVIX3cyZFVOUEMzN0Z6RkxaQ3N3R2NCUDZZQ2FEcUc5QmY2Q0lra1FscVBOQUc4Mkp5M0N3MlYxWWt4RnZWbk1GYzZDX2ZyaHVzWFluQXJ3ZS1RTzdsY3d4dWdidw?oc=5"
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3E5ZHNudFFsMG94UkxnSk1DYXVRVTNNZjhmX21OZTl1bXg3c2J6NldZYVRBNGVIX3cyZFVOUEMzN0Z6RkxaQ3N3R2NCUDZZQ2FEcUc5QmY2Q0lra1FscVBOQUc4Mkp5M0N3MlYxWWt4RnZWbk1GYzZDX2ZyaHVzWFluQXJ3ZS1RTzdsY3d4dWdidw?oc=5",
+    "https://insider-gaming.com/redacted-gta-6-leaker-report-build-release/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17968,7 +17969,8 @@
     "bd3f94bb5771611a82c39e5814e4af3b",
     "c523e26e22cac19b3a5ee7774a8e1f38",
     "c23af1505e16d9d3453406c8f4d5672c",
-    "af327c5b5f204654125bcfaa0d4e4ecd"
+    "af327c5b5f204654125bcfaa0d4e4ecd",
+    "7bb6de969d6eeb8bf0945793cb7a4954"
   ],
   "transfers": {
     "pages": {
@@ -22163,24 +22165,6 @@
   "sent_stories": [
     {
       "words": [
-        "busan",
-        "gather",
-        "heroes"
-      ],
-      "at": "2026-08-22T07:10:04.334298+00:00",
-      "message_id": "1540619063477141525",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Heroes gather in Busan: Nexon 'Overwatch Day' #Day1",
-      "link": "https://www.invenglobal.com/articles/25019/heroes-gather-in-busan-nexon-overwatch-day-day1",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "'Overwatch Day' held in BusanKorean Overwatch fans gathered in Busan for 'Overwatch Day,' held over two days on the 22nd and 23rd at BEXCO. Overwatch Day is a large-scale event hosted by Nexon to celebrate taking over domestic service for Overwatch...."
-    },
-    {
-      "words": [
         "about",
         "barrier",
         "entry",
@@ -23456,6 +23440,30 @@
       "color": 8141549,
       "image_url": "https://media.europeangaming.eu/uploads/2026/08/Giorgi-Tsutskiridze-SPRIBE.jpg",
       "base_description": "In an interview with European Gaming, Giorgi Tsutskiridze, chief commercial officer at SPRIBE, explains what keeps operators choosing… The post Giorgi Tsutskiridze, SPRIBE, on brand defence and life beyond one title appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "been",
+        "build",
+        "concerning",
+        "gta",
+        "has",
+        "leaker",
+        "redacted",
+        "releasing",
+        "removed"
+      ],
+      "at": "2026-08-23T07:35:18.025982+00:00",
+      "message_id": "1540987799531028501",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "REDACTED: GTA 6 Leaker Report Concerning ‘Releasing The Build’ Has Been Removed",
+      "link": "https://insider-gaming.com/redacted-gta-6-leaker-report-build-release/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "We recently published a report talking about a GTA 6 leaker releasing a build of the game. This has since been proven false. The post REDACTED: GTA 6 Leaker Report Concerning ‘Releasing The Build’ Has Been Removed appeared first on Insider Gaming ."
     }
   ]
 }
