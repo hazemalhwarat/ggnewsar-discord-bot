@@ -9051,7 +9051,8 @@
     "https://insider-gaming.com/sentinels-vct-americas-stage-2-exit/",
     "https://esports.gg/guides/roblox/third-person-camera-animal-hospital/",
     "https://traxion.gg/rennsport-confirms-dedicated-simracing-expo-frankfurt-booth/",
-    "https://www.invenglobal.com/articles/25030/faker-after-finishing-regular-season-failed-to-improve-i-feel-my-own-shortcomings"
+    "https://www.invenglobal.com/articles/25030/faker-after-finishing-regular-season-failed-to-improve-i-feel-my-own-shortcomings",
+    "https://www.hltv.org/news/45372/eternal-fire-bench-br0"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17990,7 +17991,8 @@
     "d706e3f6643a26be5aa4b81b9e1218e0",
     "9e5c143f21207571f5571de1988de9ac",
     "91f04e0a4b47cb7aee9fdb14838c13c5",
-    "320ba9fc1facd7c534e283afac583cde"
+    "320ba9fc1facd7c534e283afac583cde",
+    "943fbffa0f09f1c8244b21c3a6ac0b62"
   ],
   "transfers": {
     "pages": {
@@ -22185,33 +22187,6 @@
   "sent_stories": [
     {
       "words": [
-        "brilliance",
-        "donk",
-        "flamez",
-        "have",
-        "individual",
-        "mirage",
-        "respect",
-        "show",
-        "sometimes",
-        "today",
-        "took",
-        "you"
-      ],
-      "at": "2026-08-22T10:43:18.058767+00:00",
-      "message_id": "1540672723452428311",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "flameZ: \"Sometimes you have to respect individual brilliance; today donk took the show on Mirage\"",
-      "link": "https://www.hltv.org/news/45363/flamez-sometimes-you-have-to-respect-individual-brilliance-today-donk-took-the-show-on-mirage",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/jHn6-IynvPw_9HjXbqe27k.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=415366ecc7ac3f32fa7538697a7cf1c2",
-      "base_description": "flameZ tipped his hat to donk after Spirit eliminated Vitality in the quarter-finals of the Esports World Cup."
-    },
-    {
-      "words": [
         "didn",
         "much"
       ],
@@ -23469,6 +23444,25 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "©INVENOn the 23rd, T1 fell to Hanwha Life Esports in their final regular season match of '2026 LoL Champions Korea (LCK)' held at Chzzk LoL Park in Jongno, securing 3rd place...."
+    },
+    {
+      "words": [
+        "bench",
+        "br0",
+        "eternal",
+        "fire"
+      ],
+      "at": "2026-08-23T10:49:42.847005+00:00",
+      "message_id": "1541036728662499409",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "Eternal Fire bench br0",
+      "link": "https://www.hltv.org/news/45372/eternal-fire-bench-br0",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/wQuJYTxTX1m4lpSbQizgC_.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=e4e8d79c2ebc4985c7739eb3c72e2693",
+      "base_description": "The Dane played fewer than ten matches since joining the team in July."
     }
   ]
 }
