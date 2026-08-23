@@ -123,6 +123,7 @@ import feedparser
 import requests
 
 from feeds import RSS_FEEDS, SCRAPERS
+from relevance import is_hard_excluded
 
 # Sources that can't be fetched as RSS/Atom (feedparser needs XML; some
 # sites, like Sheep Esports post-2026-relaunch, don't expose any XML
@@ -343,27 +344,13 @@ GEMINI_MAX_TOKENS = 900
 GEMINI_429_BASE_BACKOFF = 3
 GEMINI_429_MAX_BACKOFF = 15
 
-# Phase C used to call analyze_with_gemini() one candidate at a time —
-# each call up to ~20s (GEMINI_TIMEOUT_SECONDS) plus up to ~21s more in
-# 429 backoff across 3 retries (see GEMINI_429_*). On a heavy news day
-# (EWC/TI-style burst, hundreds of fresh candidates in one run) that
-# serial cost adds up fast and can run past run.yml's job timeout before
-# most candidates are ever reached — exactly the risk this file's own
-# comment by MAX_MESSAGES_PER_RUN already flagged ("worth revisiting:
-# parallelize the Gemini calls in Phase C"). Candidates that never get
-# reached aren't lost outright (they're simply not marked resolved, see
-# mark_resolved()), but if the backlog keeps outrunning the timeout run
-# after run, they eventually age past MAX_AGE_HOURS and expire unsent —
-# which is what "the bot only sends a tiny fraction of what's out there"
-# looks like from Discord, even though every one of those stories really
-# was fetched and queued.
-# FIX (2026-08-23): Phase C now analyzes all of a run's genuinely-new
-# candidates (post match-check, pre-send) concurrently via a thread pool
-# instead of one by one — see the ThreadPoolExecutor use below. Kept
-# modest (well under Gemini free-tier RPM ceilings) so this speeds up
-# wall-clock time without just trading one rate-limit problem for a
-# worse one.
-GEMINI_PARALLEL_WORKERS = 6
+# DISABLED 2026-08-23 per Hazem's explicit instruction: no AI step in the
+# pipeline anymore. analyze_with_gemini() below is kept in the file
+# (unused, never called) purely so it's a one-line change to bring back
+# if ever wanted later — Phase C now sends every genuinely-new candidate
+# directly, with only relevance.is_hard_excluded() (plain keyword
+# matching, no API calls) guarding the "loose_query" sources. See the
+# Phase C comment further down for the full reasoning.
 
 GEMINI_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGNewsAR، تكتب بالعربية الفصحى البيضاء (لغة يومية مثقفة، مو لغة أدبية أو مترجمة حرفياً).
 
@@ -1179,38 +1166,23 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
 
         new_candidates.append(c)
 
-    # ---- Phase C, step 2: analyze every genuinely-new candidate via
-    # Gemini CONCURRENTLY (this is the slow, network-bound part — see
-    # GEMINI_PARALLEL_WORKERS above for why). Order doesn't matter here;
-    # results are collected keyed by each candidate's position in
-    # new_candidates so step 3 can consume them back in the original
-    # priority order. ----
-    analyses = [None] * len(new_candidates)
-
-    def _analyze_one(i: int, c: dict):
-        clean_summary = strip_html(c["summary"])
-        region_hint = REGION_HINT_MAP.get(c["feed_info"].get("region"), "عالمي")
-        type_hint = "تسريب" if c["feed_info"].get("source_type") == "leak" else "مؤكد"
-        is_loose_source = bool(c["feed_info"].get("loose_query"))
-        result = analyze_with_gemini(
-            c["title"], clean_summary, c["link"], region_hint, type_hint,
-            loose_query=is_loose_source, stats=stats,
-        )
-        return i, clean_summary, is_loose_source, result
-
-    if new_candidates:
-        with concurrent.futures.ThreadPoolExecutor(max_workers=GEMINI_PARALLEL_WORKERS) as executor:
-            futures = [executor.submit(_analyze_one, i, c) for i, c in enumerate(new_candidates)]
-            for future in concurrent.futures.as_completed(futures):
-                i, clean_summary, is_loose_source, result = future.result()
-                analyses[i] = (clean_summary, is_loose_source, result)
-
-    # ---- Phase C, step 3: walk new_candidates in original (priority)
-    # order, applying the budget cap and sending — same sequential logic
-    # as before, just consuming the analysis each candidate already has
-    # instead of calling Gemini here. ----
-    for c, (clean_summary, is_loose_source, analysis) in zip(new_candidates, analyses):
-        # ---- Budget cap applies here only ----
+    # ---- Phase C, step 2: no AI step anymore (removed 2026-08-23 per
+    # Hazem's explicit instruction — Gemini was the whole reason so much
+    # esports news never made it through: free-tier rate limits + slow
+    # sequential calls were causing real stories to time out and expire
+    # unsent, exactly the "sends almost nothing" complaint). Every
+    # genuinely-new candidate now sends directly. The ONLY check left is
+    # relevance.is_hard_excluded() — a fast, free, keyword-only guard —
+    # and ONLY for "loose_query" sources (bare Google News keyword
+    # searches with no site: restriction, e.g. "Syria esports"), since
+    # those are the one category that can otherwise pull in something
+    # totally unrelated that merely matched a country name (a wildfire
+    # article matching "Syria esports", a hardware sale matching "gaming
+    # deal"). Every other source here (dedicated esports RSS feeds,
+    # site:-restricted bridges, named team/org accounts) is already
+    # topic-restricted by construction and sends unconditionally — no
+    # keyword gate needed or wanted, per "خل البوت يرسل كل شي ايسبورتس".
+    for c in new_candidates:
         if sent >= sent_budget:
             # Deliberately NOT calling mark_resolved(): this candidate was
             # never durably written to state (see the deferred-write fix
@@ -1219,54 +1191,22 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             stats["skip_cap"] += 1
             continue
 
-        if analysis and not analysis.get("is_esports", True):
-            # Gemini confirmed this isn't actually esports content (e.g.
-            # a keyword-search false match). Mark seen, don't send, never
-            # fall back to the raw item — that raw fallback is exactly
-            # what let the Huelva wildfire article through under "Syria
-            # Esports" before this check existed. This is a final,
-            # durable verdict (not worth ever retrying), so persist it.
+        clean_summary = strip_html(c["summary"])
+        is_loose_source = bool(c["feed_info"].get("loose_query"))
+
+        if is_loose_source and is_hard_excluded(f"{c['title']} {clean_summary}"):
+            # Clearly not esports (story-game walkthrough, hardware deal,
+            # unrelated media, etc.) AND no known esports team/org/
+            # tournament name overrides it — see relevance.py. Final,
+            # durable verdict, never worth retrying.
             stats["skip_not_esports"] += 1
             mark_resolved(c)
             continue
 
-        if analysis:
-            stats["gemini_analyzed"] += 1
-            classification = build_classification_line(
-                analysis["region"], analysis["game"], analysis["importance"],
-                analysis["news_type"], analysis.get("reliability", ""),
-            )
-            send_title = analysis["headline"]
-            send_desc = f"{classification}\n\n**{analysis['subheadline']}**\n\n{analysis['summary']}"
-            color = IMPORTANCE_COLORS.get(analysis["importance"], EMBED_COLOR)
-        elif is_loose_source:
-            # Gemini call itself failed (timeout/malformed output/rate
-            # limit/etc) for a source with no topical restriction.
-            # Sending the raw item unchecked here is exactly the risk
-            # this whole fix targets — skip rather than trust an
-            # un-vetted item from a loose query.
-            #
-            # BUG FIX (2026-08-21, refined 2026-08-22): a single Gemini
-            # failure here (timeout, 429 during a busy news day, malformed
-            # response) must not permanently discard the story. Thanks to
-            # the deferred-write fix above (see CHECKPOINT_EVERY_RESOLVED),
-            # this candidate's link/title were never durably written to
-            # state in the first place — so simply not calling
-            # mark_resolved() here means next run sees it as unseen and
-            # gives it a normal retry via Gemini, up to the usual
-            # MAX_AGE_HOURS freshness window. Same safety net as skip_cap
-            # above, just triggered by a failed analysis instead of a full
-            # send budget — and no manual cleanup needed anymore.
-            stats["skip_loose_unverified"] += 1
-            continue
-        else:
-            # Gemini call failed, but this source is inherently on-topic
-            # (a dedicated esports RSS feed, a site: restricted bridge, a
-            # named esports account) — raw fallback stays safe here.
-            stats["gemini_fallback"] += 1
-            send_title = c["title"]
-            send_desc = clean_summary[:280]
-            color = EMBED_COLOR
+        stats["sent_raw"] += 1
+        send_title = c["title"]
+        send_desc = clean_summary[:280]
+        color = EMBED_COLOR
 
         img_url = extract_image(c["entry"])
         ok, message_id = send_discord(
@@ -1340,8 +1280,6 @@ def main():
     if not DISCORD_WEBHOOK_URL:
         log.error("Missing DISCORD_WEBHOOK_URL env var")
         return
-    if not GEMINI_API_KEY:
-        log.warning("Missing GEMINI_API_KEY — Gemini analysis disabled, will fall back to raw RSS titles/summaries.")
 
     state = load_state()
     first_run = (
@@ -1358,39 +1296,12 @@ def main():
         ok_sources = rss_stats.get("sources_ok", 0)
         failed_sources = rss_stats.get("sources_failed", 0)
         total_sources = ok_sources + failed_sources
-        analyzed = rss_stats.get("gemini_analyzed", 0)
-        fallback = rss_stats.get("gemini_fallback", 0)
-        rate_limited = rss_stats.get("gemini_429", 0)
-        deferred = rss_stats.get("skip_loose_unverified", 0)
 
         reasons = []
         if total_sources > 0 and failed_sources / total_sources > 0.5:
             reasons.append(
                 f"أكثر من نص مصادر RSS فشلت هذه الدورة ({failed_sources} من {total_sources})، "
                 f"ممكن يكون فيه مشكلة اتصال عامة."
-            )
-        if not GEMINI_API_KEY:
-            reasons.append("متغير GEMINI_API_KEY غير موجود، البوت يرسل كل الأخبار بدون تحليل أو تصنيف.")
-        elif (analyzed + fallback) > 0 and analyzed == 0:
-            reasons.append(
-                "كل محاولات تحليل Gemini فشلت هذه الدورة، البوت يرسل النصوص الخام بدون صياغة أو تصنيف. "
-                "تأكد من صلاحية GEMINI_API_KEY أو حصة الاستخدام اليومية."
-            )
-        # ADDED (2026-08-21): these two used to be invisible — a bad
-        # Gemini stretch or a pile of deferred business/MENA items never
-        # showed up anywhere. Now they surface here (still respecting the
-        # normal alert cooldown), so a heavy news day reads as "Gemini is
-        # rate-limited, retrying automatically" instead of looking like
-        # the bot silently stopped covering business/MENA news.
-        if rate_limited >= 5:
-            reasons.append(
-                f"Gemini ارتطم بحد التقييد (429) {rate_limited} مرة هذه الدورة — الأغلب بسبب حجم أخبار "
-                f"مرتفع (يوم كبير زي EWC)، مو عطل دائم. الأخبار المتأثرة بتُعاد محاولتها تلقائياً بالتشغيلة الجاية."
-            )
-        if deferred >= 5:
-            reasons.append(
-                f"{deferred} خبر من مصادر بحث عام (بزنس/رعايات أو دول MENA) اتأجّل هذه الدورة لحد ما يتحلّل "
-                f"عبر Gemini بنجاح — ما انحذف نهائياً، بس تأخر."
             )
         if reasons:
             send_system_alert(state, " | ".join(reasons))
