@@ -22133,56 +22133,6 @@
   "sent_stories": [
     {
       "words": [
-        "algs",
-        "group",
-        "how",
-        "playoffs",
-        "results",
-        "schedule",
-        "split",
-        "stage",
-        "standings",
-        "watch",
-        "year"
-      ],
-      "at": "2026-08-21T23:59:51.079810+00:00",
-      "message_id": "1540510794566074389",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "ALGS Year 6 Split 2 Playoffs Group Stage: Schedule, results, standings, teams, and how to watch",
-      "link": "https://dotesports.com/apex-legends/news/algs-year-6-split-2-playoffs-group-stage-results-teams-stream-standings",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/01/apex-legends-changes-bloodhound.png",
-      "base_description": "Only 40 teams will advance to the Playoffs."
-    },
-    {
-      "words": [
-        "based",
-        "battles",
-        "champions",
-        "classic",
-        "freak",
-        "pokémon",
-        "protects",
-        "says",
-        "turn"
-      ],
-      "at": "2026-08-21T23:59:51.079810+00:00",
-      "message_id": "1540510814568579104",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Game Freak Says Pokémon Champions Protects Classic Turn-Based Battles",
-      "link": "https://insider-gaming.com/game-freak-says-pokemon-champions-protects-classic-turn-based-battles/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Game Freak discussed the importance of Pokémon Champions in preserving the traditional format of Pokémon battles. The post Game Freak Says Pokémon Champions Protects Classic Turn-Based Battles appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "corp",
         "fut",
         "gets",
