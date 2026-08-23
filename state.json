@@ -9110,7 +9110,9 @@
     "https://www.hltv.org/news/45379/donk-i-still-see-a-lot-of-things-that-i-can-improve",
     "https://www.vlr.gg/742967/liquid-downs-ep-and-fire-flux-shocks-bbl-to-seal-barcelona-field",
     "https://insider-gaming.com/denshattack-300000-players-worldwide/",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemoyZlN6aFVoOHFIV1E3N3JOQlRUUlo5TXdqdjFvM2ZfZjR6SUNFejJ1ai1tM0ljOG5UMXFxc1FpczZNNHZ3VWdTRUM5SFFieEpXSHJubkVqbWpmX043Uml6eWc5WjdYczJJaERhRnNqaDNCZndlMmxQT0N5ZXNER2cyRG03V0FmZXE3WEhxREpXTEU3amQ1b3pYem5ULU9jT2xlQ1FHbnFIVlU?oc=5"
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemoyZlN6aFVoOHFIV1E3N3JOQlRUUlo5TXdqdjFvM2ZfZjR6SUNFejJ1ai1tM0ljOG5UMXFxc1FpczZNNHZ3VWdTRUM5SFFieEpXSHJubkVqbWpmX043Uml6eWc5WjdYczJJaERhRnNqaDNCZndlMmxQT0N5ZXNER2cyRG03V0FmZXE3WEhxREpXTEU3amQ1b3pYem5ULU9jT2xlQ1FHbnFIVlU?oc=5",
+    "https://dotesports.com/news/news/ewc-standings-ag-al-win",
+    "https://insider-gaming.com/evercade-banjo-games-quality-of-life-features/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18106,7 +18108,9 @@
     "5ac75c1dd99648f0a7ea4121482ff61a",
     "b3ec333cde87c071eedeaa61fd249474",
     "5819c918febc8acc5537200e629794c1",
-    "b23c10893bdda0540d8b623f6e37cfa9"
+    "b23c10893bdda0540d8b623f6e37cfa9",
+    "e1d69c416e186ea097bdf9a55d9a0368",
+    "e84adcbfe1dda7a7e00f30fd508ea870"
   ],
   "transfers": {
     "pages": {
@@ -22301,80 +22305,6 @@
   "sent_stories": [
     {
       "words": [
-        "bucharest",
-        "dziugss",
-        "ewc",
-        "lot",
-        "mean",
-        "mickey",
-        "mouse",
-        "people",
-        "pgl",
-        "saying",
-        "tournament",
-        "winning",
-        "would"
-      ],
-      "at": "2026-08-22T18:57:39.769071+00:00",
-      "message_id": "1540797134063013992",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "dziugss: \"Winning EWC would mean a lot. A lot of people were saying PGL Bucharest was a Mickey Mouse tournament\"",
-      "link": "https://www.hltv.org/news/45368/dziugss-winning-ewc-would-mean-a-lot-a-lot-of-people-were-saying-pgl-bucharest-was-a-mickey-mouse-tournament",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/Rq-afw3Wzi6oWfSHm0seEn.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=79573a7834ecb91f44b5163140e10b05",
-      "base_description": "The Lithuanian star echoed xfl0ud's sentiment that FUT can be a top-five team in the near future."
-    },
-    {
-      "words": [
-        "adjusts",
-        "audio",
-        "beta",
-        "footstep",
-        "modern",
-        "patch",
-        "ttk",
-        "warfare"
-      ],
-      "at": "2026-08-22T18:57:39.769071+00:00",
-      "message_id": "1540797154006802604",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Modern Warfare 4 Beta Patch Adjusts TTK and Footstep Audio",
-      "link": "https://insider-gaming.com/modern-warfare-4-patch-ttk-footstep-audio/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "The Call of Duty: Modern Warfare 4 beta is generating substantial player feedback, and Infinity Ward is adjusting the game accordingly. The post Modern Warfare 4 Beta Patch Adjusts TTK and Footstep Audio appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "battle",
-        "cost",
-        "fortnite",
-        "how",
-        "levels",
-        "pass",
-        "rewards",
-        "works"
-      ],
-      "at": "2026-08-22T18:57:39.769071+00:00",
-      "message_id": "1540797174349045791",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "How the Fortnite Battle Pass works (Rewards, Cost, and Levels)",
-      "link": "https://esports.gg/news/fortnite/how-fortnite-battle-pass-works/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Looking for clarification about the Fortnite Battle Pass and what it entails? We have everything you need to know!"
-    },
-    {
-      "words": [
         "2026",
         "best",
         "ceo",
@@ -22486,7 +22416,8 @@
         "Insider Gaming",
         "Hotspawn",
         "Esports.gg",
-        "HLTV"
+        "HLTV",
+        "Dot Esports"
       ],
       "title": "AG.AL Wins the Esports World Cup 2026 Club Championship, Claiming $7 Million First Prize",
       "link": "https://insider-gaming.com/ewc-club-championship-2026-winner/",
@@ -23509,6 +23440,28 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Australia, Jordan, and Oman qualify for the FIFAe Finals 2026 Sheep Esports"
+    },
+    {
+      "words": [
+        "banjo",
+        "details",
+        "evercade",
+        "how",
+        "kazooie",
+        "modernized",
+        "tooie"
+      ],
+      "at": "2026-08-23T19:19:06.514137+00:00",
+      "message_id": "1541164908995936297",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Evercade Details How It Modernized Banjo-Kazooie and Tooie",
+      "link": "https://insider-gaming.com/evercade-banjo-games-quality-of-life-features/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Evercade explains how native Banjo-Kazooie and Banjo-Tooie ports add widescreen, smoother frame rates and new quality-of-life features. The post Evercade Details How It Modernized Banjo-Kazooie and Tooie appeared first on Insider Gaming ."
     }
   ]
 }
