@@ -9041,7 +9041,9 @@
     "https://www.hotspawn.com/dota2/news/ti15-prize-pool-tracker-how-much-is-the-international-2026-prize-pool",
     "https://europeangaming.eu/portal/interviews/2026/08/23/213012/giorgi-tsutskiridze-spribe-interview/",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3E5ZHNudFFsMG94UkxnSk1DYXVRVTNNZjhmX21OZTl1bXg3c2J6NldZYVRBNGVIX3cyZFVOUEMzN0Z6RkxaQ3N3R2NCUDZZQ2FEcUc5QmY2Q0lra1FscVBOQUc4Mkp5M0N3MlYxWWt4RnZWbk1GYzZDX2ZyaHVzWFluQXJ3ZS1RTzdsY3d4dWdidw?oc=5",
-    "https://insider-gaming.com/redacted-gta-6-leaker-report-build-release/"
+    "https://insider-gaming.com/redacted-gta-6-leaker-report-build-release/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-august-23-1169/",
+    "https://gameriv.com/take-two-targets-x-and-google-in-growing-hunt-for-gta-6-leaker-cyberleek/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17970,7 +17972,9 @@
     "c523e26e22cac19b3a5ee7774a8e1f38",
     "c23af1505e16d9d3453406c8f4d5672c",
     "af327c5b5f204654125bcfaa0d4e4ecd",
-    "7bb6de969d6eeb8bf0945793cb7a4954"
+    "7bb6de969d6eeb8bf0945793cb7a4954",
+    "d737dc1bbbcceade761548a3d4973161",
+    "7f2f5349550bf8bd506f4352f9488ed5"
   ],
   "transfers": {
     "pages": {
@@ -22165,52 +22169,6 @@
   "sent_stories": [
     {
       "words": [
-        "about",
-        "barrier",
-        "entry",
-        "escape",
-        "lowering",
-        "nikita",
-        "talks",
-        "tarkov"
-      ],
-      "at": "2026-08-22T07:45:52.646106+00:00",
-      "message_id": "1540628073215565925",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Escape from Tarkov’s Nikita Talks About ‘Lowering The Entry Barrier’ To The Game",
-      "link": "https://insider-gaming.com/escape-from-tarkov-nikita-lowering-entry-barrier/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Escape from Tarkov is getting easier, that much is clear. But recently, Battlestate Games' Nikita Buyanov explained why that is. The post Escape from Tarkov’s Nikita Talks About ‘Lowering The Entry Barrier’ To The Game appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "1168",
-        "answers",
-        "august",
-        "connections",
-        "hints",
-        "nyt",
-        "saturday",
-        "today"
-      ],
-      "at": "2026-08-22T07:45:52.646106+00:00",
-      "message_id": "1540628092568080506",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "NYT Connections Hints Today (#1168)—Answers for Saturday, August 22",
-      "link": "https://insider-gaming.com/nyt-connections-hints-solutions-august-22-1168/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1168)—Answers for Saturday, August 22 appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "8th",
         "anniversary",
         "chaos",
@@ -23464,6 +23422,53 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "We recently published a report talking about a GTA 6 leaker releasing a build of the game. This has since been proven false. The post REDACTED: GTA 6 Leaker Report Concerning ‘Releasing The Build’ Has Been Removed appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "1169",
+        "answers",
+        "august",
+        "connections",
+        "hints",
+        "nyt",
+        "sunday",
+        "today"
+      ],
+      "at": "2026-08-23T08:01:35.250479+00:00",
+      "message_id": "1540994416762687500",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "NYT Connections Hints Today (#1169)—Answers for Sunday, August 23",
+      "link": "https://insider-gaming.com/nyt-connections-hints-solutions-august-23-1169/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1169)—Answers for Sunday, August 23 appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "cyberleek",
+        "google",
+        "growing",
+        "gta",
+        "hunt",
+        "leaker",
+        "take",
+        "targets",
+        "two"
+      ],
+      "at": "2026-08-23T08:01:35.250479+00:00",
+      "message_id": "1540994437927403623",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "Take-Two Targets X and Google in Growing Hunt for GTA 6 Leaker CyberLeek",
+      "link": "https://gameriv.com/take-two-targets-x-and-google-in-growing-hunt-for-gta-6-leaker-cyberleek/",
+      "color": 8141549,
+      "image_url": "https://gameriv.com/wp-content/uploads/2026/08/GTA-6-CYBERLEEK-offers-advertisements.jpg",
+      "base_description": "The GTA 6 leak situation has taken another major legal turn. Take-Two Interactive has filed new requests in the Southern District of New York seeking DMCA subpoenas aimed at uncovering identifying information connected to the people behind the recent Grand Theft Auto VI leaks. Th"
     }
   ]
 }
