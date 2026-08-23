@@ -9124,7 +9124,10 @@
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Wb2MzblhDQW15SE5JcDh1MDQxVXFINXdoZ0FqcHNwbmhnUkt4UktjMHN2QTA3bm5EVkZWQ29sbG5OVHJjMEdaQUhoUWU5OExHTXB4RQ?oc=5",
     "https://www.hltv.org/news/45378/coolio-we-ran-out-of-energy-and-you-could-see-on-the-guys-that-the-ancient-loss-hit-them-hard",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUDJhai1ZTnpUcnZKNnl5Q2p3QkxDWUlfTGxiTnBNcTBaZzlUOEE2SG15YlBVMUhrRWFobGdnQWc4YnU2WURLS1lBUDNTT1RUZ1lMRThuZGhMOElSeUgtcGh4VWRlTVEzWkpZODBadmFUc1BWblBhTVd3dmdvM0dOYU90YXdDMkdlR1VXYmh5ck9tbEM0OWdJQkp5bmEzRXctRzRYVlIyUHZGdXhhY0xHWWhTOVY0MmV3YUJxT2ZZYjAtNFlZMTI3eHk5N2UxT2JLXzlj?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1BzVmRpS3E4aEZTWmFIdDdHeHc5TWlLX0pYazJHRWJPUUZLT1c2cG0wV29YTjkxVGtqSTNJenF0NmpNdlF6Z1JZOUpMalYxVWpUZ0lKQ3h2eGdCWWF6WnRiYllvYUFyZU04M29Hb2FmTU5RcHpTRllVMnY3VDVzc0J0U3l2Zndfak11STFtU1NxU2JIbjdISS15Q19iaFBoVC1fQWZEckdneVk?oc=5"
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1BzVmRpS3E4aEZTWmFIdDdHeHc5TWlLX0pYazJHRWJPUUZLT1c2cG0wV29YTjkxVGtqSTNJenF0NmpNdlF6Z1JZOUpMalYxVWpUZ0lKQ3h2eGdCWWF6WnRiYllvYUFyZU04M29Hb2FmTU5RcHpTRllVMnY3VDVzc0J0U3l2Zndfak11STFtU1NxU2JIbjdISS15Q19iaFBoVC1fQWZEckdneVk?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYjU5c252dFlGLTM5dHQ4cl9LdkZBbTFSWUxybWJwRVBjb1hkdmRzNFlKMDJ5RHYzUjRrOGsxNV9aTFlPemRXMGdMVnd0ZVVCanBpcVVWTFlmTm1MYV94am1sWm91UDNpRU1YVjlXS2VCNWtMbkMyc1BWRDVrUXpmZVFzWUMtRW85cHJmVU1XUkZVdnVXU0VleXQ3NGo2MEFHelgySVg4cl9pQQ?oc=5",
+    "https://www.invenglobal.com/articles/25039/we-came-to-gamescom-so-we-have-to-go-humanly-ethically-confucianly-historically-ideologically-educationally-literarily-philosophically",
+    "https://insider-gaming.com/ori-director-says-ori-3-rumors-are-nonsense/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18131,7 +18134,9 @@
     "23f1ec13a31190fbc69a93b86d2ad51a",
     "d08569d534540d7c421ac213c70ac637",
     "d655c69147b68b8265b49eb9879f79b1",
-    "da9b9cb6c1880669f5fe0b587ee6c7ab"
+    "da9b9cb6c1880669f5fe0b587ee6c7ab",
+    "fa54e6f151488191a34712332c20cd13",
+    "f27c74af7a610a76a212f9c3a6ca4c11"
   ],
   "transfers": {
     "pages": {
@@ -23502,6 +23507,52 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Israeli strikes kill three, including child, in Gaza Strip France 24"
+    },
+    {
+      "words": [
+        "came",
+        "confucianly",
+        "educationally",
+        "ethically",
+        "gamescom",
+        "have",
+        "historically",
+        "humanly",
+        "ideologically",
+        "literarily",
+        "philosophically"
+      ],
+      "at": "2026-08-23T22:16:02.087252+00:00",
+      "message_id": "1541209429343473747",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "We Came to Gamescom, So We Have to Go: Humanly, Ethically, Confucianly, Historically, Ideologically, Educationally, Literarily, Philosophically",
+      "link": "https://www.invenglobal.com/articles/25039/we-came-to-gamescom-so-we-have-to-go-humanly-ethically-confucianly-historically-ideologically-educationally-literarily-philosophically",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "🕊German Carrier Pigeon #1 For the week of global gaming event Gamescom, we bring you a glimpse behind the scenes and stories you can only find on location...."
+    },
+    {
+      "words": [
+        "director",
+        "nonsense",
+        "ori",
+        "rumors",
+        "says"
+      ],
+      "at": "2026-08-23T22:16:02.087252+00:00",
+      "message_id": "1541209435018371173",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Ori Director Says Ori 3 Rumors Are ‘Nonsense’",
+      "link": "https://insider-gaming.com/ori-director-says-ori-3-rumors-are-nonsense/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Ori director Thomas Mahler says reports of a third Ori game are false and reveals that Moon Studios has discussed acquiring the series IP. The post Ori Director Says Ori 3 Rumors Are ‘Nonsense’ appeared first on Insider Gaming ."
     }
   ]
 }
