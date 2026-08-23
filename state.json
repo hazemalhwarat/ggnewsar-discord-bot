@@ -9101,7 +9101,9 @@
     "https://www.hotspawn.com/counter-strike/news/spirit-win-esports-world-cup-2026",
     "https://esports.gg/news/esports/ag-al-2026-ewc-club-champions/",
     "https://www.hltv.org/news/45377/spirit-beat-fut-3-1-to-win-esports-world-cup",
-    "https://dotesports.com/call-of-duty/guides/best-iso-nightshade-loadout-mw4"
+    "https://dotesports.com/call-of-duty/guides/best-iso-nightshade-loadout-mw4",
+    "https://www.hltv.org/news/45376/donk-earns-esports-world-cup-mvp",
+    "https://insider-gaming.com/gamescom-gta-6-wont-overshadow-showcase/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18088,7 +18090,9 @@
     "747ad5beac51cd10cc024fcdb6d2bf57",
     "505cf9e25c001199c382c68cc6d1d06b",
     "37560346d8cea242c2ea4ad830d4aa69",
-    "2c2bbecc31f852e3cbe81cb7570c568e"
+    "2c2bbecc31f852e3cbe81cb7570c568e",
+    "e1a3ef42e5ccff52405cb87c30538f15",
+    "77afee2d1f1a5ec4d407d74584b47f50"
   ],
   "transfers": {
     "pages": {
@@ -22283,32 +22287,6 @@
   "sent_stories": [
     {
       "words": [
-        "appearance",
-        "big",
-        "event",
-        "final",
-        "first",
-        "furia",
-        "fut",
-        "grand",
-        "outlast",
-        "secure"
-      ],
-      "at": "2026-08-22T17:37:18.915689+00:00",
-      "message_id": "1540776913973547104",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV",
-        "Hotspawn"
-      ],
-      "title": "FUT outlast FURIA to secure first Big Event grand final appearance",
-      "link": "https://www.hltv.org/news/45367/fut-outlast-furia-to-secure-first-big-event-grand-final-appearance",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/WxB-h38EioWA3k9AeyQYlQ.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=32a90b35b06484dc0ccab4bacf7737b1",
-      "base_description": "The youngsters showed resilience under pressure as they pulled back several disadvantages on the overtime Dust2 decider."
-    },
-    {
-      "words": [
         "action",
         "amazon",
         "class",
@@ -22517,7 +22495,8 @@
       "sources": [
         "Insider Gaming",
         "Hotspawn",
-        "Esports.gg"
+        "Esports.gg",
+        "HLTV"
       ],
       "title": "AG.AL Wins the Esports World Cup 2026 Club Championship, Claiming $7 Million First Prize",
       "link": "https://insider-gaming.com/ewc-club-championship-2026-winner/",
@@ -23384,6 +23363,27 @@
       "color": 8141549,
       "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/Best_Iso_Nightshade_loadout_MW4.webp",
       "base_description": "One of the best close-range weapons."
+    },
+    {
+      "words": [
+        "address",
+        "competition",
+        "directors",
+        "gamescom",
+        "gta",
+        "netflix"
+      ],
+      "at": "2026-08-23T17:57:15.033071+00:00",
+      "message_id": "1541144309116440617",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Gamescom Directors Address GTA 6 Netflix Competition",
+      "link": "https://insider-gaming.com/gamescom-gta-6-wont-overshadow-showcase/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Gamescom executives expect GTA 6 to pull some digital attention, but say the event’s hundreds of games and world premieres set it apart. The post Gamescom Directors Address GTA 6 Netflix Competition appeared first on Insider Gaming ."
     }
   ]
 }
