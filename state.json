@@ -9052,7 +9052,8 @@
     "https://esports.gg/guides/roblox/third-person-camera-animal-hospital/",
     "https://traxion.gg/rennsport-confirms-dedicated-simracing-expo-frankfurt-booth/",
     "https://www.invenglobal.com/articles/25030/faker-after-finishing-regular-season-failed-to-improve-i-feel-my-own-shortcomings",
-    "https://www.hltv.org/news/45372/eternal-fire-bench-br0"
+    "https://www.hltv.org/news/45372/eternal-fire-bench-br0",
+    "https://insider-gaming.com/hle-t1-lck-2026-playoff-seeds/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17992,7 +17993,8 @@
     "9e5c143f21207571f5571de1988de9ac",
     "91f04e0a4b47cb7aee9fdb14838c13c5",
     "320ba9fc1facd7c534e283afac583cde",
-    "943fbffa0f09f1c8244b21c3a6ac0b62"
+    "943fbffa0f09f1c8244b21c3a6ac0b62",
+    "27460c191b50c2f2f946dbab9a7244a5"
   ],
   "transfers": {
     "pages": {
@@ -22187,23 +22189,6 @@
   "sent_stories": [
     {
       "words": [
-        "didn",
-        "much"
-      ],
-      "at": "2026-08-22T11:00:34.896367+00:00",
-      "message_id": "1540677072454819954",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "“I didn’t do much” – donk on Destroying Vitality at EWC 2026",
-      "link": "https://insider-gaming.com/spirit-donk-interview-esports-world-cup-2026/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Insider Gaming spoke to Danil ‘donk’ Kryshkovets after Team Spirit's victory over Vitality in the EWC Counter-Strike 2 quarter-finals. The post “I didn’t do much” – donk on Destroying Vitality at EWC 2026 appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "1st",
         "but",
         "coach",
@@ -23463,6 +23448,31 @@
       "color": 8141549,
       "image_url": "https://img-cdn.hltv.org/gallerypicture/wQuJYTxTX1m4lpSbQizgC_.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=e4e8d79c2ebc4985c7739eb3c72e2693",
       "base_description": "The Dane played fewer than ten matches since joining the team in July."
+    },
+    {
+      "words": [
+        "beat",
+        "claim",
+        "concern",
+        "fans",
+        "form",
+        "hle",
+        "lck",
+        "second",
+        "seed",
+        "show"
+      ],
+      "at": "2026-08-23T11:15:53.065563+00:00",
+      "message_id": "1541043326868783246",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "HLE Beat T1 to Claim LCK Second Seed as T1 Fans Show Concern for Team’s Form",
+      "link": "https://insider-gaming.com/hle-t1-lck-2026-playoff-seeds/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Hanwha Life Esports defeated T1 2-0 to guarantee they are the second seed in the LCK Playoffs. The loss was another blow to the T1 roster. The post HLE Beat T1 to Claim LCK Second Seed as T1 Fans Show Concern for Team’s Form appeared first on Insider Gaming ."
     }
   ]
 }
