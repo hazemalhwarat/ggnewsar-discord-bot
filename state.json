@@ -9123,7 +9123,8 @@
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXTUR6TjlkUDJram1JbDk5V1lIaDI4cTI0UmhfUGJSQXlyVHY0NkFDQVRZMmI3X19sVzd5SjNzN3gxSVpzX0xNR2xoYjBncElvcnVkNFV2bll5eFVoM1JQOUNMYkdsUnBJ?oc=5",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Wb2MzblhDQW15SE5JcDh1MDQxVXFINXdoZ0FqcHNwbmhnUkt4UktjMHN2QTA3bm5EVkZWQ29sbG5OVHJjMEdaQUhoUWU5OExHTXB4RQ?oc=5",
     "https://www.hltv.org/news/45378/coolio-we-ran-out-of-energy-and-you-could-see-on-the-guys-that-the-ancient-loss-hit-them-hard",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUDJhai1ZTnpUcnZKNnl5Q2p3QkxDWUlfTGxiTnBNcTBaZzlUOEE2SG15YlBVMUhrRWFobGdnQWc4YnU2WURLS1lBUDNTT1RUZ1lMRThuZGhMOElSeUgtcGh4VWRlTVEzWkpZODBadmFUc1BWblBhTVd3dmdvM0dOYU90YXdDMkdlR1VXYmh5ck9tbEM0OWdJQkp5bmEzRXctRzRYVlIyUHZGdXhhY0xHWWhTOVY0MmV3YUJxT2ZZYjAtNFlZMTI3eHk5N2UxT2JLXzlj?oc=5"
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUDJhai1ZTnpUcnZKNnl5Q2p3QkxDWUlfTGxiTnBNcTBaZzlUOEE2SG15YlBVMUhrRWFobGdnQWc4YnU2WURLS1lBUDNTT1RUZ1lMRThuZGhMOElSeUgtcGh4VWRlTVEzWkpZODBadmFUc1BWblBhTVd3dmdvM0dOYU90YXdDMkdlR1VXYmh5ck9tbEM0OWdJQkp5bmEzRXctRzRYVlIyUHZGdXhhY0xHWWhTOVY0MmV3YUJxT2ZZYjAtNFlZMTI3eHk5N2UxT2JLXzlj?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1BzVmRpS3E4aEZTWmFIdDdHeHc5TWlLX0pYazJHRWJPUUZLT1c2cG0wV29YTjkxVGtqSTNJenF0NmpNdlF6Z1JZOUpMalYxVWpUZ0lKQ3h2eGdCWWF6WnRiYllvYUFyZU04M29Hb2FmTU5RcHpTRllVMnY3VDVzc0J0U3l2Zndfak11STFtU1NxU2JIbjdISS15Q19iaFBoVC1fQWZEckdneVk?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -22323,26 +22324,6 @@
     }
   ],
   "sent_stories": [
-    {
-      "words": [
-        "2026",
-        "fall",
-        "jackbox",
-        "party",
-        "two"
-      ],
-      "at": "2026-08-22T21:37:45.189188+00:00",
-      "message_id": "1540837423263518893",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Jackbox Announces Two New Party Games for Fall 2026",
-      "link": "https://insider-gaming.com/jackbox-announces-two-new-party-games-for-fall-2026/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Jackbox Games will launch Trivia Murder Party 3 in September and The Jackbox Party Pack 12 in October, with new multiplayer games. The post Jackbox Announces Two New Party Games for Fall 2026 appeared first on Insider Gaming ."
-    },
     {
       "words": [
         "begins",
