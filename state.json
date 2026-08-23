@@ -9085,7 +9085,10 @@
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94QmJFRlNNQjNPMHZ1cXNwT1RKeTA4TjZ4Z0dEdXJDR2tKa3RZX1dTa3hZUzdONFA5MWNPUTlkTzJJQzlxQVAyVWpiRWhtSEFzeUxz?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xTmxud1pSS3dFZWw4MUVDano3eGxDclNyd1JFaXVPZVk0LUU1d2ZkTTNqUFRuNXhGWi1xYlJsNXdTeHJFem5wWV8xa0JsM2NQdU1WNmdaYkdQU2tVcGxVODUzSTNfWk5vNm5V?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTkc2UHN6NUhMNnh1Qm1mX3BNVTdJQmE4UWwxcGNKQi1Qdi0yUWpBcWJFZUd1VjU1MXZoWEdPeVhsd3c5M21jSXdqRmhLZ0ZNVGRDcHdIbXNGSmZuOGNyczRSRnBCWXBVZFFqVWlkRlB6YVVxb0FYbG1vRE8xbE05Znl1aVJZOEpHLUJQM3EzZ1dvVnlzakxLRkhucElBRXNWTWJmbjRkcWxqem5DdFE?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVRZSVFGZnZYaXZmYnNqRVFIcWdWZk83MWNnRGcwRWVNTUZ3RjRFbHp6YmZiTktSWlJvOC1BRXByMFRBaWcyRzAyVXVfNXdYTEFBV05uczJpZ0h4bjBLNldZVW5MeUgyTDZkSVg0dXVkb3RPVkNZRDh1aW1JcVdlcHMzY3ZnNHNkSUN0LVptUjFMUjdlaXVuSzVnd2ZYMjVINzFvSFZlT0RBdnFSek5kbzZLYV9GTHVzMllHTzF5ODZpdWk0cGc?oc=5"
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVRZSVFGZnZYaXZmYnNqRVFIcWdWZk83MWNnRGcwRWVNTUZ3RjRFbHp6YmZiTktSWlJvOC1BRXByMFRBaWcyRzAyVXVfNXdYTEFBV05uczJpZ0h4bjBLNldZVW5MeUgyTDZkSVg0dXVkb3RPVkNZRDh1aW1JcVdlcHMzY3ZnNHNkSUN0LVptUjFMUjdlaXVuSzVnd2ZYMjVINzFvSFZlT0RBdnFSek5kbzZLYV9GTHVzMllHTzF5ODZpdWk0cGc?oc=5",
+    "https://dotesports.com/dota-2/news/team-spirit-champions-ti-2026",
+    "https://esports.gg/news/valorant/vct-2026-pacific-stage-2-playoffs/",
+    "https://esports.gg/news/dota-2/team-spirit-third-ti-trophy-after-winning-the-international-2026/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18057,7 +18060,10 @@
     "110af61a21b3ccc051b29bd10abf09ad",
     "988f6a7b807252defd2815ec02a15ea7",
     "3c0e8ee043e2980b1bc4b0bcefe85b53",
-    "36ca3268ee25266fa5f9fcacdd641b36"
+    "36ca3268ee25266fa5f9fcacdd641b36",
+    "ded87f5cacf2714037a0d9d94170a8f3",
+    "024633903c05d61089d4a0dc71e602ab",
+    "f979d710cf6454ca6e9db1ad76c462a3"
   ],
   "transfers": {
     "pages": {
@@ -22653,7 +22659,8 @@
       "sources": [
         "HLTV",
         "Hotspawn",
-        "Insider Gaming"
+        "Insider Gaming",
+        "Dot Esports"
       ],
       "title": "Spirit outclass Legacy to make EWC grand final",
       "link": "https://www.hltv.org/news/45369/spirit-outclass-legacy-to-make-ewc-grand-final",
@@ -23425,6 +23432,56 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Saudi Arabia asserts its dominance over Esports as MBS arrives in Paris for 'World Cup' Inbox.lv"
+    },
+    {
+      "words": [
+        "2026",
+        "champions",
+        "clash",
+        "drx",
+        "gen",
+        "pacific",
+        "paper",
+        "playoffs",
+        "rex",
+        "spots",
+        "stage",
+        "vct"
+      ],
+      "at": "2026-08-23T14:52:31.190151+00:00",
+      "message_id": "1541097820252282882",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Paper Rex, Gen.G, and DRX clash for Champions 2026 spots in VCT Pacific Stage 2 playoffs",
+      "link": "https://esports.gg/news/valorant/vct-2026-pacific-stage-2-playoffs/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Some of the strongest VALORANT teams in the world come from the Pacific region. Only three can qualify for the main event of the year: two top teams at Stage 2 and one from the regional leaderboard."
+    },
+    {
+      "words": [
+        "2026",
+        "history",
+        "international",
+        "makes",
+        "spirit",
+        "third",
+        "trophy",
+        "winning"
+      ],
+      "at": "2026-08-23T14:52:31.190151+00:00",
+      "message_id": "1541097825973313638",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Team Spirit makes history with third TI trophy after winning The International 2026",
+      "link": "https://esports.gg/news/dota-2/team-spirit-third-ti-trophy-after-winning-the-international-2026/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "The kings of the CIS region cemented their legacy with a third TI title."
     }
   ]
 }
