@@ -343,6 +343,28 @@ GEMINI_MAX_TOKENS = 900
 GEMINI_429_BASE_BACKOFF = 3
 GEMINI_429_MAX_BACKOFF = 15
 
+# Phase C used to call analyze_with_gemini() one candidate at a time —
+# each call up to ~20s (GEMINI_TIMEOUT_SECONDS) plus up to ~21s more in
+# 429 backoff across 3 retries (see GEMINI_429_*). On a heavy news day
+# (EWC/TI-style burst, hundreds of fresh candidates in one run) that
+# serial cost adds up fast and can run past run.yml's job timeout before
+# most candidates are ever reached — exactly the risk this file's own
+# comment by MAX_MESSAGES_PER_RUN already flagged ("worth revisiting:
+# parallelize the Gemini calls in Phase C"). Candidates that never get
+# reached aren't lost outright (they're simply not marked resolved, see
+# mark_resolved()), but if the backlog keeps outrunning the timeout run
+# after run, they eventually age past MAX_AGE_HOURS and expire unsent —
+# which is what "the bot only sends a tiny fraction of what's out there"
+# looks like from Discord, even though every one of those stories really
+# was fetched and queued.
+# FIX (2026-08-23): Phase C now analyzes all of a run's genuinely-new
+# candidates (post match-check, pre-send) concurrently via a thread pool
+# instead of one by one — see the ThreadPoolExecutor use below. Kept
+# modest (well under Gemini free-tier RPM ceilings) so this speeds up
+# wall-clock time without just trading one rate-limit problem for a
+# worse one.
+GEMINI_PARALLEL_WORKERS = 6
+
 GEMINI_SYSTEM_PROMPT = """أنت محرر أخبار إسبورت لمنصة GGNewsAR، تكتب بالعربية الفصحى البيضاء (لغة يومية مثقفة، مو لغة أدبية أو مترجمة حرفياً).
 
 مهمتك أولاً: التأكد إن الخبر فعلاً عن الرياضات الإلكترونية (منافسات ألعاب فيديو، فرق، لاعبين، بطولات، رعايات، قرارات صناعة الإسبورت). بعض المصادر هي بحث Google News بكلمة مفتاحية عامة (مثال: اسم دولة + "esports") بدون أي قيد على الموقع، وأحياناً يرجّع بحث زي هذا أخبار مالها أي علاقة بالإسبورت (كارثة طبيعية، سياسة، رياضة تقليدية) لمجرد إنها تحتوي اسم الدولة. لو الخبر مش عن الإسبورت فعلاً رغم إنه طلع من مصدر بحث بكلمة "esports"، رجّع is_esports: false واترك باقي الحقول نصوص فاضية "". لا تحاول "تأويل" خبر غير متعلق بالإسبورت وصياغته كأنه خبر إسبورت.
@@ -1119,12 +1141,14 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             git_commit_push("checkpoint mid-run")
             resolved_since_checkpoint = 0
 
+    # ---- Phase C, step 1: match-check every candidate against
+    # active_stories, in order (cheap, no network — this must stay
+    # sequential since a send in this same pass can grow active_stories
+    # and affect a later candidate's match check). Matches are resolved
+    # immediately (edit or skip-dup); anything left over is a genuinely
+    # new story and goes into new_candidates for step 2. ----
+    new_candidates = []
     for c in candidates:
-        # ---- Match check FIRST, before budget/analysis: does this story
-        # (by content similarity, not exact URL/title) already have a
-        # message on Discord from the last 24h? Matching against
-        # active_stories never consumes the send budget — an edit is
-        # cheap and shouldn't compete with genuinely new news for the cap.
         match = None
         for st in active_stories:
             if titles_match(c["sig_words"], set(st["words"])):
@@ -1153,7 +1177,40 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             time.sleep(MESSAGE_DELAY_SECONDS)
             continue
 
-        # ---- Genuinely new story: budget cap applies here only ----
+        new_candidates.append(c)
+
+    # ---- Phase C, step 2: analyze every genuinely-new candidate via
+    # Gemini CONCURRENTLY (this is the slow, network-bound part — see
+    # GEMINI_PARALLEL_WORKERS above for why). Order doesn't matter here;
+    # results are collected keyed by each candidate's position in
+    # new_candidates so step 3 can consume them back in the original
+    # priority order. ----
+    analyses = [None] * len(new_candidates)
+
+    def _analyze_one(i: int, c: dict):
+        clean_summary = strip_html(c["summary"])
+        region_hint = REGION_HINT_MAP.get(c["feed_info"].get("region"), "عالمي")
+        type_hint = "تسريب" if c["feed_info"].get("source_type") == "leak" else "مؤكد"
+        is_loose_source = bool(c["feed_info"].get("loose_query"))
+        result = analyze_with_gemini(
+            c["title"], clean_summary, c["link"], region_hint, type_hint,
+            loose_query=is_loose_source, stats=stats,
+        )
+        return i, clean_summary, is_loose_source, result
+
+    if new_candidates:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=GEMINI_PARALLEL_WORKERS) as executor:
+            futures = [executor.submit(_analyze_one, i, c) for i, c in enumerate(new_candidates)]
+            for future in concurrent.futures.as_completed(futures):
+                i, clean_summary, is_loose_source, result = future.result()
+                analyses[i] = (clean_summary, is_loose_source, result)
+
+    # ---- Phase C, step 3: walk new_candidates in original (priority)
+    # order, applying the budget cap and sending — same sequential logic
+    # as before, just consuming the analysis each candidate already has
+    # instead of calling Gemini here. ----
+    for c, (clean_summary, is_loose_source, analysis) in zip(new_candidates, analyses):
+        # ---- Budget cap applies here only ----
         if sent >= sent_budget:
             # Deliberately NOT calling mark_resolved(): this candidate was
             # never durably written to state (see the deferred-write fix
@@ -1161,16 +1218,6 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             # it as unseen and give it a normal retry — no cleanup needed.
             stats["skip_cap"] += 1
             continue
-
-        clean_summary = strip_html(c["summary"])
-        region_hint = REGION_HINT_MAP.get(c["feed_info"].get("region"), "عالمي")
-        type_hint = "تسريب" if c["feed_info"].get("source_type") == "leak" else "مؤكد"
-        is_loose_source = bool(c["feed_info"].get("loose_query"))
-
-        analysis = analyze_with_gemini(
-            c["title"], clean_summary, c["link"], region_hint, type_hint,
-            loose_query=is_loose_source, stats=stats,
-        )
 
         if analysis and not analysis.get("is_esports", True):
             # Gemini confirmed this isn't actually esports content (e.g.
