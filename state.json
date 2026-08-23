@@ -9096,7 +9096,10 @@
     "https://www.vlr.gg/742950/tyloo-earns-stage-2-title-defeats-jd-gaming-3-1",
     "https://www.nerfplz.com/2026/10/lol-turrets-explained-10-things-towers.html",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWJ3SzdtOTNJSHk2NVhhVE96b2xqX2ZLWmtVWks4TUxVQ1pQNjhFLXBrWVZRcVpreDZuczYyXzJfcC01OV8yaUV2MTRPaXhXZEllbGxjaG9od1hZVnBSV3gyeXIxRkZvbkdncG5Yb3VvNWowZ0F4bDhNM1BHX096cmVsN2RIdUpMcGN4bWJVR3hCOU55MlFNWUlLM0NQQkZwbmVFVW9DQnFaQ1Ezank0ZVpKUjljVmZ20gG-AUFVX3lxTFA0SHFTdVR6TEJjaGFGZ0xTbGVlc3Npd2J0NUhKcXhfLVhxd1RVREV1NVlNdXI1VHBYUllxd0VkNGxzcnZxQm1LamVEemRzX0daeGlDZDg1WGo0ZURyamphUmxEYXktcUhTcFZjc3lUc2ZtZTczb2NlejlKSy05S3M5bWJtVUppVDI0eHhteE5SdjVyTXptZ1NzNUs0b1oyR2tkODNoRDBIeVhzSEtmUTlESTdEcmVTcFBmV2J5Nnc?oc=5",
-    "https://www.vlr.gg/742950/tyloo-slowly-scales-to-regional-title-defeats-jdg-3-1"
+    "https://www.vlr.gg/742950/tyloo-slowly-scales-to-regional-title-defeats-jdg-3-1",
+    "https://insider-gaming.com/team-spirit-claim-the-esports-world-cup-cs2-trophy/",
+    "https://www.hotspawn.com/counter-strike/news/spirit-win-esports-world-cup-2026",
+    "https://esports.gg/news/esports/ag-al-2026-ewc-club-champions/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18078,7 +18081,10 @@
     "1925ebc53152bfcca24da33405e7f7d3",
     "86752e22e6559eca3f4fd379787bda17",
     "13de62fdab49798e9bcd3ae3a696fd48",
-    "0a2b047b808b91ebf6484bbc3a1e0675"
+    "0a2b047b808b91ebf6484bbc3a1e0675",
+    "bd07442f56aac06c1ea1f74837b68cc9",
+    "747ad5beac51cd10cc024fcdb6d2bf57",
+    "505cf9e25c001199c382c68cc6d1d06b"
   ],
   "transfers": {
     "pages": {
@@ -22273,32 +22279,6 @@
   "sent_stories": [
     {
       "words": [
-        "big",
-        "duo",
-        "elite",
-        "fortnite",
-        "inaugural",
-        "malibuca",
-        "prevail",
-        "reload",
-        "series",
-        "vic0"
-      ],
-      "at": "2026-08-22T17:15:08.168248+00:00",
-      "message_id": "1540771333103816785",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "Hotspawn"
-      ],
-      "title": "BIG Duo vic0 and Malibuca Prevail in Inaugural Fortnite Reload Elite Series",
-      "link": "https://insider-gaming.com/big-vic0-and-malibuca-win-fortnite-reload-series-ewc/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "vic0 and Malibuca produced Fortnite esports history by winning the inaugural Fortnite Reload Elite Series at EWC 2026. The post BIG Duo vic0 and Malibuca Prevail in Inaugural Fortnite Reload Elite Series appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "appearance",
         "big",
         "event",
@@ -22532,7 +22512,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "Insider Gaming",
-        "Hotspawn"
+        "Hotspawn",
+        "Esports.gg"
       ],
       "title": "AG.AL Wins the Esports World Cup 2026 Club Championship, Claiming $7 Million First Prize",
       "link": "https://insider-gaming.com/ewc-club-championship-2026-winner/",
@@ -23246,7 +23227,9 @@
       "message_id": "1541085162857697331",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Syria Esports"
+        "Syria Esports",
+        "Insider Gaming",
+        "Hotspawn"
       ],
       "title": "Team Spirit, FUT set to play for CS:GO crown at Esports World Cup - Big News Network.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTkc2UHN6NUhMNnh1Qm1mX3BNVTdJQmE4UWwxcGNKQi1Qdi0yUWpBcWJFZUd1VjU1MXZoWEdPeVhsd3c5M21jSXdqRmhLZ0ZNVGRDcHdIbXNGSmZuOGNyczRSRnBCWXBVZFFqVWlkRlB6YVVxb0FYbG1vRE8xbE05Znl1aVJZOEpHLUJQM3EzZ1dvVnlzakxLRkhucElBRXNWTWJmbjRkcWxqem5DdFE?oc=5",
