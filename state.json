@@ -9120,7 +9120,10 @@
     "https://dotesports.com/indies/news/how-to-fish-game-sales-friendslop-steam-indie-coop",
     "https://insider-gaming.com/spirit-tn1r-ewc-2026-interview/",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUpKNVJ0WWxGb1JyWE5tMVJqMFE1TW9BMVE5ejNUM1ktZ0VFZTl3UFI1NzQzZEo0dUVFSGRYeFh1Z3NEaFN0R0xLZnAxNVRoQUhyRlNzRXFtLWZrNURrLXhfeUpYUUVIWl9vd2tIQlYwSzVCaU52RGM0Vk9rR0d2UXBWU1diMFRORGtiSjRsVFUtVUthUEd0NEpSd3pwbDNJWkF1ZjBtbXhSRzZHaEh3bA?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXTUR6TjlkUDJram1JbDk5V1lIaDI4cTI0UmhfUGJSQXlyVHY0NkFDQVRZMmI3X19sVzd5SjNzN3gxSVpzX0xNR2xoYjBncElvcnVkNFV2bll5eFVoM1JQOUNMYkdsUnBJ?oc=5"
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXTUR6TjlkUDJram1JbDk5V1lIaDI4cTI0UmhfUGJSQXlyVHY0NkFDQVRZMmI3X19sVzd5SjNzN3gxSVpzX0xNR2xoYjBncElvcnVkNFV2bll5eFVoM1JQOUNMYkdsUnBJ?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Wb2MzblhDQW15SE5JcDh1MDQxVXFINXdoZ0FqcHNwbmhnUkt4UktjMHN2QTA3bm5EVkZWQ29sbG5OVHJjMEdaQUhoUWU5OExHTXB4RQ?oc=5",
+    "https://www.hltv.org/news/45378/coolio-we-ran-out-of-energy-and-you-could-see-on-the-guys-that-the-ancient-loss-hit-them-hard",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUDJhai1ZTnpUcnZKNnl5Q2p3QkxDWUlfTGxiTnBNcTBaZzlUOEE2SG15YlBVMUhrRWFobGdnQWc4YnU2WURLS1lBUDNTT1RUZ1lMRThuZGhMOElSeUgtcGh4VWRlTVEzWkpZODBadmFUc1BWblBhTVd3dmdvM0dOYU90YXdDMkdlR1VXYmh5ck9tbEM0OWdJQkp5bmEzRXctRzRYVlIyUHZGdXhhY0xHWWhTOVY0MmV3YUJxT2ZZYjAtNFlZMTI3eHk5N2UxT2JLXzlj?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18125,7 +18128,9 @@
     "0090e983da002c87bb4788060955444d",
     "418512adbb481da4f57e4b17ab6009e2",
     "23f1ec13a31190fbc69a93b86d2ad51a",
-    "d08569d534540d7c421ac213c70ac637"
+    "d08569d534540d7c421ac213c70ac637",
+    "d655c69147b68b8265b49eb9879f79b1",
+    "da9b9cb6c1880669f5fe0b587ee6c7ab"
   ],
   "transfers": {
     "pages": {
@@ -22320,29 +22325,6 @@
   "sent_stories": [
     {
       "words": [
-        "ahead",
-        "gamescom",
-        "goes",
-        "live",
-        "mewgenics",
-        "page",
-        "store",
-        "xbox"
-      ],
-      "at": "2026-08-22T21:15:48.102135+00:00",
-      "message_id": "1540831897754800262",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Mewgenics XBOX Store Page Goes Live Ahead of Gamescom",
-      "link": "https://insider-gaming.com/mewgenics-xbox-store-listing-release-near/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "An official XBOX Store page for Mewgenics has surfaced before Gamescom. The post Mewgenics XBOX Store Page Goes Live Ahead of Gamescom appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "2026",
         "fall",
         "jackbox",
@@ -23488,6 +23470,57 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "molodoy to Team Spirit: transfer rumor, stats, and the future of the Dragons VPEsports"
+    },
+    {
+      "words": [
+        "ancient",
+        "coolio",
+        "could",
+        "energy",
+        "guys",
+        "hard",
+        "hit",
+        "loss",
+        "out",
+        "ran",
+        "see",
+        "them",
+        "you"
+      ],
+      "at": "2026-08-23T21:37:16.770561+00:00",
+      "message_id": "1541199676060213329",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "coolio: \"We ran out of energy, and you could see on the guys that the Ancient loss hit them hard\"",
+      "link": "https://www.hltv.org/news/45378/coolio-we-ran-out-of-energy-and-you-could-see-on-the-guys-that-the-ancient-loss-hit-them-hard",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/X5Bi7WveSl0YpjNaS0Q1SF.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=a9f18c1772783fb7211cc6db58298c71",
+      "base_description": "The Hungarian coach said he is \"really proud\" of what his players achieved in Paris."
+    },
+    {
+      "words": [
+        "child",
+        "gaza",
+        "including",
+        "israeli",
+        "kill",
+        "strikes",
+        "strip",
+        "three"
+      ],
+      "at": "2026-08-23T21:37:16.770561+00:00",
+      "message_id": "1541199682498207786",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Syria Esports"
+      ],
+      "title": "Israeli strikes kill three, including child, in Gaza Strip - France 24",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUDJhai1ZTnpUcnZKNnl5Q2p3QkxDWUlfTGxiTnBNcTBaZzlUOEE2SG15YlBVMUhrRWFobGdnQWc4YnU2WURLS1lBUDNTT1RUZ1lMRThuZGhMOElSeUgtcGh4VWRlTVEzWkpZODBadmFUc1BWblBhTVd3dmdvM0dOYU90YXdDMkdlR1VXYmh5ck9tbEM0OWdJQkp5bmEzRXctRzRYVlIyUHZGdXhhY0xHWWhTOVY0MmV3YUJxT2ZZYjAtNFlZMTI3eHk5N2UxT2JLXzlj?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Israeli strikes kill three, including child, in Gaza Strip France 24"
     }
   ]
 }
