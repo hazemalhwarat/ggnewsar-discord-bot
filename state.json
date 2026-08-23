@@ -9025,7 +9025,8 @@
     "https://gameriv.com/apex-legends-devs-call-octane-their-biggest-balancing-headache/",
     "https://www.vlr.gg/742394/liquid-and-fire-flux-stay-alive-in-emea-lower-bracket",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95RTN0TXJ3c2RHU2ZkNU1GTDdYSEZPMHNGMm4wZUtiYmhXUVUzM1NnZldxM3lZSlRQc0prQjFPdkdocE1zdVRtdnkzUEc3RHoyZFZuVGpzQU51TzA?oc=5",
-    "https://dotesports.com/the-first-descendant/news/all-encrypted-vault-locations-in-the-first-descendant"
+    "https://dotesports.com/the-first-descendant/news/all-encrypted-vault-locations-in-the-first-descendant",
+    "https://esports.gg/news/roblox/animal-hospital-even-more-lore-update-patch-notes/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -17938,7 +17939,8 @@
     "21e3aa2a32ca847b94e16f3b7a60090a",
     "7442e338e778db42496fe3b32329daef",
     "02caf34ad8ca084e41ad433ce535bc19",
-    "7174c725523e4276ee7c420a8de0c552"
+    "7174c725523e4276ee7c420a8de0c552",
+    "8cb72138bfbadffe99e24d0f0c63a7f0"
   ],
   "transfers": {
     "pages": {
@@ -19817,7 +19819,7 @@
     }
   },
   "last_liquipedia_check": "2026-08-10T21:49:20.544651+00:00",
-  "last_health_alert": "2026-08-22T19:58:42.829968+00:00",
+  "last_health_alert": "2026-08-23T02:38:48.563897+00:00",
   "recent_titles": [
     {
       "words": [
@@ -22133,77 +22135,6 @@
   "sent_stories": [
     {
       "words": [
-        "corp",
-        "fut",
-        "gets",
-        "karmine",
-        "one",
-        "qualifies",
-        "shanghai",
-        "win",
-        "within"
-      ],
-      "at": "2026-08-22T01:12:01.836774+00:00",
-      "message_id": "1540528959551316001",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg"
-      ],
-      "title": "Karmine Corp gets to within one win of Shanghai as FUT qualifies",
-      "link": "https://www.vlr.gg/741516/karmine-corp-gets-to-within-one-win-of-shanghai-as-fut-qualifies",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "FUT punches its Shanghai ticket, while KC gets one step closer."
-    },
-    {
-      "words": [
-        "august",
-        "busan",
-        "day",
-        "opens",
-        "overwatch",
-        "second"
-      ],
-      "at": "2026-08-22T02:22:21.260544+00:00",
-      "message_id": "1540546662492012617",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Second 'Overwatch Day' Opens in Busan on August 22",
-      "link": "https://www.invenglobal.com/articles/25014/second-overwatch-day-opens-in-busan-on-august-22",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©INVEN'Overwatch Day,' an offline event for domestic Overwatch players, kicked off at 11:00 AM on August 22 at BEXCO in Busan...."
-    },
-    {
-      "words": [
-        "announce",
-        "apex",
-        "axle",
-        "bloodhound",
-        "buffs",
-        "change",
-        "legends",
-        "major",
-        "nerfs",
-        "seer"
-      ],
-      "at": "2026-08-22T02:22:21.260544+00:00",
-      "message_id": "1540546688257753202",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GameRiv",
-        "Dot Esports"
-      ],
-      "title": "Apex Legends Announce Major Axle Nerfs, Bloodhound Buffs, and Seer Change",
-      "link": "https://gameriv.com/apex-legends-announce-major-axle-nerfs-bloodhound-buffs-and-seer-change/",
-      "color": 8141549,
-      "image_url": "https://gameriv.com/wp-content/uploads/2026/05/Axle-Nerf-Apex-Legends.jpg",
-      "base_description": "Respawn is taking an unusual approach to its next round of Apex Legends balance changes, announcing several adjustments ahead of their planned release early next week. The developers are currently targeting Tuesday morning for the update, with Axle receiving another substantial s"
-    },
-    {
-      "words": [
         "000",
         "164",
         "advertising",
@@ -23555,6 +23486,23 @@
       "color": 8141549,
       "image_url": "https://media.dotesports.com/wp-content/uploads/2024/07/First-Descendant-Vault-1.jpg",
       "base_description": "All the spots you need."
+    },
+    {
+      "words": [
+        "animal",
+        "hospital"
+      ],
+      "at": "2026-08-23T02:38:32.482228+00:00",
+      "message_id": "1540913118194962513",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Animal Hospital: Even More Lore Update patch notes",
+      "link": "https://esports.gg/news/roblox/animal-hospital-even-more-lore-update-patch-notes/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Animal Hospital releases more lore for us to discover as we investigate what is actually happening within the Animal Corporation."
     }
   ]
 }
