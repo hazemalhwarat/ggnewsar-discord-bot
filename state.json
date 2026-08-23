@@ -9092,7 +9092,10 @@
     "https://www.hltv.org/news/45375/eternal-fire-sign-soulfly-make-jottaaas-loan-permanent",
     "https://esports.gg/opinion/fgc/competitive-tier-list-fatal-fury-cotw/",
     "https://www.invenglobal.com/articles/25038/balance-maintained-amidst-fierce-battles-key-highlights-of-the-10th-castle-siege",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE95WG5tUTJqa3Y4RWpCTnBZb3hQSUc3eEpXMTdRTmE0RFZMc1VobW5wME1LRDY3WnpjYWlydnJwakQzeEJnQ0lHamFlSVBoMldlSGxoemZ2dUJ6VVpHNTZfR0pnZk4yNm1VTTNz?oc=5"
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE95WG5tUTJqa3Y4RWpCTnBZb3hQSUc3eEpXMTdRTmE0RFZMc1VobW5wME1LRDY3WnpjYWlydnJwakQzeEJnQ0lHamFlSVBoMldlSGxoemZ2dUJ6VVpHNTZfR0pnZk4yNm1VTTNz?oc=5",
+    "https://www.vlr.gg/742950/tyloo-earns-stage-2-title-defeats-jd-gaming-3-1",
+    "https://www.nerfplz.com/2026/10/lol-turrets-explained-10-things-towers.html",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWJ3SzdtOTNJSHk2NVhhVE96b2xqX2ZLWmtVWks4TUxVQ1pQNjhFLXBrWVZRcVpreDZuczYyXzJfcC01OV8yaUV2MTRPaXhXZEllbGxjaG9od1hZVnBSV3gyeXIxRkZvbkdncG5Yb3VvNWowZ0F4bDhNM1BHX096cmVsN2RIdUpMcGN4bWJVR3hCOU55MlFNWUlLM0NQQkZwbmVFVW9DQnFaQ1Ezank0ZVpKUjljVmZ20gG-AUFVX3lxTFA0SHFTdVR6TEJjaGFGZ0xTbGVlc3Npd2J0NUhKcXhfLVhxd1RVREV1NVlNdXI1VHBYUllxd0VkNGxzcnZxQm1LamVEemRzX0daeGlDZDg1WGo0ZURyamphUmxEYXktcUhTcFZjc3lUc2ZtZTczb2NlejlKSy05S3M5bWJtVUppVDI0eHhteE5SdjVyTXptZ1NzNUs0b1oyR2tkODNoRDBIeVhzSEtmUTlESTdEcmVTcFBmV2J5Nnc?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18070,7 +18073,10 @@
     "f979d710cf6454ca6e9db1ad76c462a3",
     "2a1393cf44a10847175787eba658f51f",
     "f48cd24253d25ea60306b60a007357b1",
-    "467660cbf53353b25caaf78ce16800e3"
+    "467660cbf53353b25caaf78ce16800e3",
+    "1925ebc53152bfcca24da33405e7f7d3",
+    "86752e22e6559eca3f4fd379787bda17",
+    "13de62fdab49798e9bcd3ae3a696fd48"
   ],
   "transfers": {
     "pages": {
@@ -22265,29 +22271,6 @@
   "sent_stories": [
     {
       "words": [
-        "baisha",
-        "crossfire",
-        "cup",
-        "gaming",
-        "tournament",
-        "win",
-        "world"
-      ],
-      "at": "2026-08-22T15:59:06.192468+00:00",
-      "message_id": "1540752197556641833",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "Syria Esports"
-      ],
-      "title": "BaiSha Gaming win the Esports World Cup CrossFire Tournament",
-      "link": "https://insider-gaming.com/baisha-gaming-win-the-esports-world-cup-crossfire-tournament/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Chinese roster BaiSha Gaming captured the Esports World Cup 2026 CrossFire tournament, winning $750,000 in the process. The post BaiSha Gaming win the Esports World Cup CrossFire Tournament appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "aegis",
         "claim",
         "day",
@@ -23427,6 +23410,31 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "In the August 23 siege battle, the overall castle count distribution remained the same across all three major battlegrounds...."
+    },
+    {
+      "words": [
+        "crown",
+        "french",
+        "host",
+        "macron",
+        "mbs",
+        "paris",
+        "president",
+        "prince",
+        "saudi",
+        "talks"
+      ],
+      "at": "2026-08-23T16:19:44.728248+00:00",
+      "message_id": "1541119766708887573",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Sudan Esports"
+      ],
+      "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWJ3SzdtOTNJSHk2NVhhVE96b2xqX2ZLWmtVWks4TUxVQ1pQNjhFLXBrWVZRcVpreDZuczYyXzJfcC01OV8yaUV2MTRPaXhXZEllbGxjaG9od1hZVnBSV3gyeXIxRkZvbkdncG5Yb3VvNWowZ0F4bDhNM1BHX096cmVsN2RIdUpMcGN4bWJVR3hCOU55MlFNWUlLM0NQQkZwbmVFVW9DQnFaQ1Ezank0ZVpKUjljVmZ20gG-AUFVX3lxTFA0SHFTdVR6TEJjaGFGZ0xTbGVlc3Npd2J0NUhKcXhfLVhxd1RVREV1NVlNdXI1VHBYUllxd0VkNGxzcnZxQm1LamVEemRzX0daeGlDZDg1WGo0ZURyamphUmxEYXktcUhTcFZjc3lUc2ZtZTczb2NlejlKSy05S3M5bWJtVUppVDI0eHhteE5SdjVyTXptZ1NzNUs0b1oyR2tkODNoRDBIeVhzSEtmUTlESTdEcmVTcFBmV2J5Nnc?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "French President Macron to host Saudi Crown Prince MBS in Paris for talks Al Jazeera"
     }
   ]
 }
