@@ -9090,7 +9090,8 @@
     "https://esports.gg/news/valorant/vct-2026-pacific-stage-2-playoffs/",
     "https://esports.gg/news/dota-2/team-spirit-third-ti-trophy-after-winning-the-international-2026/",
     "https://www.hltv.org/news/45375/eternal-fire-sign-soulfly-make-jottaaas-loan-permanent",
-    "https://esports.gg/opinion/fgc/competitive-tier-list-fatal-fury-cotw/"
+    "https://esports.gg/opinion/fgc/competitive-tier-list-fatal-fury-cotw/",
+    "https://www.invenglobal.com/articles/25038/balance-maintained-amidst-fierce-battles-key-highlights-of-the-10th-castle-siege"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18067,7 +18068,8 @@
     "024633903c05d61089d4a0dc71e602ab",
     "f979d710cf6454ca6e9db1ad76c462a3",
     "2a1393cf44a10847175787eba658f51f",
-    "f48cd24253d25ea60306b60a007357b1"
+    "f48cd24253d25ea60306b60a007357b1",
+    "467660cbf53353b25caaf78ce16800e3"
   ],
   "transfers": {
     "pages": {
@@ -22262,88 +22264,6 @@
   "sent_stories": [
     {
       "words": [
-        "media"
-      ],
-      "at": "2026-08-22T15:18:23.798595+00:00",
-      "message_id": "1540741953568641148",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Media: MIBR to bring in tomaszin",
-      "link": "https://www.hltv.org/news/45366/media-mibr-to-bring-in-tomaszin",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/HwG1EYYJuGCSm9Qh59aH2o.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=00fe2694786ca866cf5d531430ef7a16",
-      "base_description": "After a failed approach from Legacy, tomaszin is set to join another Brazilian organization, after all."
-    },
-    {
-      "words": [
-        "envy",
-        "mibr"
-      ],
-      "at": "2026-08-22T15:18:23.798595+00:00",
-      "message_id": "1540741973516755005",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VALORANT Esports (official, via Google News)"
-      ],
-      "title": "MIBR VS ENVY - VALORANT Esports",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hUGRGdzJaM3VoTDV6X3hGbFpzUmdyenBJSzUyZTFWOUVTVTR2MzFCb0JzdGh3VFNsRlAwbTJhd29NRkhhUjdMYVRKeHI2eFVmaVg4dG00R0ltYndpMGJ1YlZhVGh4aU5mZXc?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "MIBR VS ENVY VALORANT Esports"
-    },
-    {
-      "words": [
-        "ong"
-      ],
-      "at": "2026-08-22T15:18:23.798595+00:00",
-      "message_id": "1540741993230246032",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VALORANT Esports (official, via Google News)"
-      ],
-      "title": "ONG VS FS - VALORANT Esports",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NZGJmSThieTM3Y20weEZndEh5R013UVoyZEw2R3licV9WVk9hekZaZnhLWmhZTmJZb2kyRkJ6by02RzM4SUI2MzlWalJsQWV3dlhJOU5vZGpSS2ktUktqWWsyczRfQmZOYUE?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "ONG VS FS VALORANT Esports"
-    },
-    {
-      "words": [
-        "blg",
-        "tyl"
-      ],
-      "at": "2026-08-22T15:18:23.798595+00:00",
-      "message_id": "1540742012863651882",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VALORANT Esports (official, via Google News)"
-      ],
-      "title": "TYL VS BLG - VALORANT Esports",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oUmFPUmpqU3JrenU5MjA5SThGTE9rOXlxOWRYWTFJZ0EwTm90Y0prN3Ytc28wbXdzd1JodGhsOFRqUEhXUUIxNV9hV3F6ZDJEeGpWSXBQSlA2MVkzMnllUndJdTU1cE1NaEE?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "TYL VS BLG VALORANT Esports"
-    },
-    {
-      "words": [
-        "fur"
-      ],
-      "at": "2026-08-22T15:18:23.798595+00:00",
-      "message_id": "1540742032681869473",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VALORANT Esports (official, via Google News)"
-      ],
-      "title": "FUR VS EG - VALORANT Esports",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84T1FNbzJBYkVycnFSUktKb2c1b1pOQ2FTWFJ0SjU5ZS0zRmhFLXdYdS1MbHRQV0lMQm9OR1Y5RzlSTl9veTlXTUpsQVhLXzdUdnNkZHJrNzB6QTRHQ1JxbVBCNmpNT1dKdVE?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "FUR VS EG VALORANT Esports"
-    },
-    {
-      "words": [
         "baisha",
         "crossfire",
         "cup",
@@ -23486,6 +23406,26 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "The kings of the CIS region cemented their legacy with a third TI title."
+    },
+    {
+      "words": [
+        "amidst",
+        "balance",
+        "battles",
+        "fierce",
+        "maintained"
+      ],
+      "at": "2026-08-23T15:40:05.192319+00:00",
+      "message_id": "1541109785955405945",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Balance Maintained Amidst Fierce Battles: Key Highlights of the 10th Castle Siege",
+      "link": "https://www.invenglobal.com/articles/25038/balance-maintained-amidst-fierce-battles-key-highlights-of-the-10th-castle-siege",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "In the August 23 siege battle, the overall castle count distribution remained the same across all three major battlegrounds...."
     }
   ]
 }
