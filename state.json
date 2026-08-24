@@ -9276,7 +9276,9 @@
     "https://www.invenglobal.com/articles/25083/principles-of-game-narrative-design-according-to-a-30-year-veteran",
     "https://www.hltv.org/news/45382/eternal-fire-among-teams-to-make-iem-beijing-closed-qualifier",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVMTE3eUN3RkdYVDN2YjRkSDMyejhNakdnbmpERTFlaTVJRUNCOXlOU3VJVUh1XzY4VXBCbTZqbzZtcmhiN0hrZ0dneHlQXzNmZGgyOVk5RmFNSHMtc0U4ZFVfQWJNMjZDNWs4?oc=5",
-    "https://esports.gg/news/overwatch/overwatch-unvaulted-battle-pass-skins-arrive-soon/"
+    "https://esports.gg/news/overwatch/overwatch-unvaulted-battle-pass-skins-arrive-soon/",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lN3JBOFpnN2NWX21RbklZdXFXeFZkSzhVZGxzc0N0cG1oVmkyMnk4bHM0LUxqYnI4RGd1eFNSVzNqdU1wOWs3dkZWeXhKZ1lfZmxJV1NvbkZUeTg?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fVnUzaG1nanMtX0Y2eG14M1EydlJQRVlEVGNfQmhCZk42ZGZLdGpUdW1zcV9WNUlZZ0E2ZURBZ2thRzJaWjV3MF9OcDlmRG9yNnc4TUZDcW9BeWVzeDJxejJZUldqNEpOOUlv?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18429,7 +18431,8 @@
     "04aafffa0fad87fac108d8cc7aa14745",
     "181c9f6ceb65f93e199be9ec284fb824",
     "3091d836a78e8ebc0524afe4dd126292",
-    "21ae4bb6c571ec19a66818a21bdb9e35"
+    "21ae4bb6c571ec19a66818a21bdb9e35",
+    "afff156fc544fed554b99dd009b5552e"
   ],
   "transfers": {
     "pages": {
@@ -22622,52 +22625,6 @@
     }
   ],
   "sent_stories": [
-    {
-      "words": [
-        "came",
-        "confucianly",
-        "educationally",
-        "ethically",
-        "gamescom",
-        "have",
-        "historically",
-        "humanly",
-        "ideologically",
-        "literarily",
-        "philosophically"
-      ],
-      "at": "2026-08-23T22:16:02.087252+00:00",
-      "message_id": "1541209429343473747",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "We Came to Gamescom, So We Have to Go: Humanly, Ethically, Confucianly, Historically, Ideologically, Educationally, Literarily, Philosophically",
-      "link": "https://www.invenglobal.com/articles/25039/we-came-to-gamescom-so-we-have-to-go-humanly-ethically-confucianly-historically-ideologically-educationally-literarily-philosophically",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "🕊German Carrier Pigeon #1 For the week of global gaming event Gamescom, we bring you a glimpse behind the scenes and stories you can only find on location...."
-    },
-    {
-      "words": [
-        "director",
-        "nonsense",
-        "ori",
-        "rumors",
-        "says"
-      ],
-      "at": "2026-08-23T22:16:02.087252+00:00",
-      "message_id": "1541209435018371173",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Ori Director Says Ori 3 Rumors Are ‘Nonsense’",
-      "link": "https://insider-gaming.com/ori-director-says-ori-3-rumors-are-nonsense/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Ori director Thomas Mahler says reports of a third Ori game are false and reveals that Moon Studios has discussed acquiring the series IP. The post Ori Director Says Ori 3 Rumors Are ‘Nonsense’ appeared first on Insider Gaming ."
-    },
     {
       "words": [
         "choose",
