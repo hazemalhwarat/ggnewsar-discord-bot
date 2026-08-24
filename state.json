@@ -9227,7 +9227,12 @@
     "https://www.invenglobal.com/articles/25073/when-is-a-games-world-complete",
     "https://www.dotabuff.com/blog/2026-08-24-dotabuff-is-partnering-with-statlocker",
     "https://realsport101.com/article/fastest-players-in-fc-27-top-50-pace-ratings-ranking",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE42bk9QNTFGZ0VjbDNXWnRydDF5Rm5sdjVHMUFrWXNhazZMY2hJdVd5dFlRalN0WHlmdnVyVXozUUxDTk1rcXhrclNoTWZmX1VNdTJ0R2pfN2gxdDRfbWlnNXNWSzJBaW45cUVn?oc=5"
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE42bk9QNTFGZ0VjbDNXWnRydDF5Rm5sdjVHMUFrWXNhazZMY2hJdVd5dFlRalN0WHlmdnVyVXozUUxDTk1rcXhrclNoTWZmX1VNdTJ0R2pfN2gxdDRfbWlnNXNWSzJBaW45cUVn?oc=5",
+    "https://www.invenglobal.com/articles/25077/pearl-abyss-crimson-desert-nominated-in-two-categories-at-gamescom-awards",
+    "https://dotesports.com/general/news/esports-world-cup-2026-championship",
+    "https://www.hotspawn.com/counter-strike/news/blast-open-porto-2026-power-rankings",
+    "https://esports-news.co.uk/2026/08/24/the-university-of-roehampton-esports-scholarship-women-in-esports/",
+    "https://www.hotspawn.com/valorant/news/sideshow-interview-vct-emea-stage-2"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18334,7 +18339,12 @@
     "297ce78454547c90b2945dcd743fab3a",
     "8c62f0c94298c5dffe7daf8f4d90c613",
     "73a15174f03d492ab2231d687325874b",
-    "ec9600bdcdb73733a3193bf6698177b6"
+    "ec9600bdcdb73733a3193bf6698177b6",
+    "046a8297edf7e7aa1c9d7d7b52e0ac5d",
+    "5a70d45ac97e17b7d512bff4427a53cf",
+    "71054951faf7adc18c50a3a4659fbccb",
+    "5d9b182e814c4a4b9c896d9fe11caa68",
+    "ad46287d6b3b5c8df3756d7e04f60533"
   ],
   "transfers": {
     "pages": {
@@ -22529,56 +22539,6 @@
   "sent_stories": [
     {
       "words": [
-        "bo5",
-        "cheering",
-        "choi",
-        "coach",
-        "eventful",
-        "head",
-        "kyu",
-        "make",
-        "season",
-        "worth"
-      ],
-      "at": "2026-08-23T13:45:51.944837+00:00",
-      "message_id": "1541081057388929126",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Head Coach Choi In-kyu: \"An Eventful Season... We'll Make the BO5 Worth Cheering For\"",
-      "link": "https://www.invenglobal.com/articles/25037/head-coach-choi-in-kyu-an-eventful-season-well-make-the-bo5-worth-cheering-for",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Nongshim RedForce defeated BNK FearX 2-1 on August 23 in the final regular season match of the 2026 LoL Champions Korea (LCK), held at CHZZK LoL PARK in Jongno...."
-    },
-    {
-      "words": [
-        "crown",
-        "cup",
-        "fut",
-        "play",
-        "set",
-        "spirit",
-        "world"
-      ],
-      "at": "2026-08-23T14:02:14.641436+00:00",
-      "message_id": "1541085162857697331",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Syria Esports",
-        "Insider Gaming",
-        "Hotspawn",
-        "Lebanon Esports"
-      ],
-      "title": "Team Spirit, FUT set to play for CS:GO crown at Esports World Cup - Big News Network.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTkc2UHN6NUhMNnh1Qm1mX3BNVTdJQmE4UWwxcGNKQi1Qdi0yUWpBcWJFZUd1VjU1MXZoWEdPeVhsd3c5M21jSXdqRmhLZ0ZNVGRDcHdIbXNGSmZuOGNyczRSRnBCWXBVZFFqVWlkRlB6YVVxb0FYbG1vRE8xbE05Znl1aVJZOEpHLUJQM3EzZ1dvVnlzakxLRkhucElBRXNWTWJmbjRkcWxqem5DdFE?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Team Spirit, FUT set to play for CS:GO crown at Esports World Cup Big News Network.com"
-    },
-    {
-      "words": [
         "arabia",
         "arrives",
         "asserts",
@@ -24277,7 +24237,8 @@
       "message_id": "1541415038059946057",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Esports Nations Cup 2026"
+        "Esports Nations Cup 2026",
+        "Dot Esports"
       ],
       "title": "Esports World Cup: AG.AL wins tournament in surprise victory - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2T1U4RnhjVFRmWE5MNjQ4TVkxOTI5eFFuZ1FhSXdvNFBSTlh1Tk1PWVMzN0lKel9YeXBCQjRyRlFwbGY4a2o1QVdHOXl4SUZpS1BrdXZZTXRQZw?oc=5",
@@ -24330,7 +24291,8 @@
       "message_id": "1541425260463792149",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Esports.gg"
+        "Esports.gg",
+        "Hotspawn"
       ],
       "title": "Fresh whirl of CS2 top-tier competition in Groups of BLAST Open Fall 2026: Stream, matchups, results",
       "link": "https://esports.gg/news/counter-strike-2/groups-blast-open-fall-2026-full-results/",
@@ -24433,6 +24395,54 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "\"Creating a setting and building a world (World Building) are two different things.\"At gamescom dev, Jarory de Jesus filled an hour-long presentation on this single premise...."
+    },
+    {
+      "words": [
+        "000",
+        "adds",
+        "increases",
+        "roehampton",
+        "scholarship",
+        "university",
+        "women"
+      ],
+      "at": "2026-08-24T14:26:18.467012+00:00",
+      "message_id": "1541453617024864287",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports News UK"
+      ],
+      "title": "The University of Roehampton increases esports scholarship to £2,000, adds new Women in Esports Scholarship",
+      "link": "https://esports-news.co.uk/2026/08/24/the-university-of-roehampton-esports-scholarship-women-in-esports/",
+      "color": 8141549,
+      "image_url": "https://esports-news.co.uk/wp-content/uploads/2026/08/University-of-Roehampton-Esports-Scholarship-300x169.jpg",
+      "base_description": "The University of Roehampton has increased its esports scholarship from £1,500 to £2,000 per year and introduced a new Women in Esports Scholarship. The university reveals its updated scholarship policy after founding its original £1,500 scholarship in 2018. It is also timed well"
+    },
+    {
+      "words": [
+        "action",
+        "americas",
+        "emea",
+        "favourites",
+        "his",
+        "into",
+        "principles",
+        "prodigies",
+        "sideshow",
+        "teenage",
+        "turning"
+      ],
+      "at": "2026-08-24T14:26:18.467012+00:00",
+      "message_id": "1541453622422929459",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "Sideshow on EMEA’s teenage prodigies, his Americas favourites, and turning principles into action",
+      "link": "https://www.hotspawn.com/valorant/news/sideshow-interview-vct-emea-stage-2",
+      "color": 8141549,
+      "image_url": "https://www.youtube.com/embed/U0lQ1j95bCM",
+      "base_description": "Usually a fixture of the Americas desk, Josh “Sideshow” Wilkinson made his first trip to EMEA this stage for a guest spot on the playoffs broadcast. Hotspawn caught up with him on site to talk about the region’s tier two takeover, the teenage prodigies showing up, and his outspok"
     }
   ]
 }
