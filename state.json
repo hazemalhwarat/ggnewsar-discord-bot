@@ -9274,7 +9274,9 @@
     "https://dotesports.com/general/news/castlevania-belmonts-curse-voice-cast",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2F6SDJNUEFsNkh6UzdPVW5vamNraE80akdNcEZhMVZNMGNobWFKNnQ4dm1QVjY2M3o2U1JJQW9UZ0g5SVJnU2phZzFtM3dZQ1F0WG51ek1lZFBZX3hnTnhOdUpFSzVrdnkzUkI1aFBwdzlzOElnTHU2X2lZWWR6Q3Zya1JFb3c3WnllMXpPRlE1RXhTN0pFb0I2TmxmNHQxcW94YzR3TkplaEllYW5vLURhNVlHMDhldDBnR2xfVTF4b1VOWVE?oc=5",
     "https://www.invenglobal.com/articles/25083/principles-of-game-narrative-design-according-to-a-30-year-veteran",
-    "https://www.hltv.org/news/45382/eternal-fire-among-teams-to-make-iem-beijing-closed-qualifier"
+    "https://www.hltv.org/news/45382/eternal-fire-among-teams-to-make-iem-beijing-closed-qualifier",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVMTE3eUN3RkdYVDN2YjRkSDMyejhNakdnbmpERTFlaTVJRUNCOXlOU3VJVUh1XzY4VXBCbTZqbzZtcmhiN0hrZ0dneHlQXzNmZGgyOVk5RmFNSHMtc0U4ZFVfQWJNMjZDNWs4?oc=5",
+    "https://esports.gg/news/overwatch/overwatch-unvaulted-battle-pass-skins-arrive-soon/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18425,7 +18427,9 @@
     "42acb79a48c4b8191f1c490fa2ccd80e",
     "e9afd6478483aaa3968a9d75bcf72ec1",
     "04aafffa0fad87fac108d8cc7aa14745",
-    "181c9f6ceb65f93e199be9ec284fb824"
+    "181c9f6ceb65f93e199be9ec284fb824",
+    "3091d836a78e8ebc0524afe4dd126292",
+    "21ae4bb6c571ec19a66818a21bdb9e35"
   ],
   "transfers": {
     "pages": {
@@ -22620,58 +22624,6 @@
   "sent_stories": [
     {
       "words": [
-        "ancient",
-        "coolio",
-        "could",
-        "energy",
-        "guys",
-        "hard",
-        "hit",
-        "loss",
-        "out",
-        "ran",
-        "see",
-        "them",
-        "you"
-      ],
-      "at": "2026-08-23T21:37:16.770561+00:00",
-      "message_id": "1541199676060213329",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "coolio: \"We ran out of energy, and you could see on the guys that the Ancient loss hit them hard\"",
-      "link": "https://www.hltv.org/news/45378/coolio-we-ran-out-of-energy-and-you-could-see-on-the-guys-that-the-ancient-loss-hit-them-hard",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/X5Bi7WveSl0YpjNaS0Q1SF.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=a9f18c1772783fb7211cc6db58298c71",
-      "base_description": "The Hungarian coach said he is \"really proud\" of what his players achieved in Paris."
-    },
-    {
-      "words": [
-        "child",
-        "gaza",
-        "including",
-        "israeli",
-        "kill",
-        "strikes",
-        "strip",
-        "three"
-      ],
-      "at": "2026-08-23T21:37:16.770561+00:00",
-      "message_id": "1541199682498207786",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Syria Esports",
-        "Palestine Esports"
-      ],
-      "title": "Israeli strikes kill three, including child, in Gaza Strip - France 24",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUDJhai1ZTnpUcnZKNnl5Q2p3QkxDWUlfTGxiTnBNcTBaZzlUOEE2SG15YlBVMUhrRWFobGdnQWc4YnU2WURLS1lBUDNTT1RUZ1lMRThuZGhMOElSeUgtcGh4VWRlTVEzWkpZODBadmFUc1BWblBhTVd3dmdvM0dOYU90YXdDMkdlR1VXYmh5ck9tbEM0OWdJQkp5bmEzRXctRzRYVlIyUHZGdXhhY0xHWWhTOVY0MmV3YUJxT2ZZYjAtNFlZMTI3eHk5N2UxT2JLXzlj?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Israeli strikes kill three, including child, in Gaza Strip France 24"
-    },
-    {
-      "words": [
         "came",
         "confucianly",
         "educationally",
@@ -24496,7 +24448,8 @@
       "message_id": "1541536681675595837",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Tunisia Esports"
+        "Tunisia Esports",
+        "Morocco Esports"
       ],
       "title": "Team Côte d'Ivoire vs Team Tunisia — FIFAe Continental Championship 2026 Africa by FRMF/FRMJE - Sheep Esports",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zOGxPN05HUXRpcTI4ekNDT3FtalRfUF9mNWFtVVREX2ZBOEtuTXpJOGpuMmJTbjRQTW4yZlJ6cGdMSkJCaEFTQlYxcGZGN0hqT0J3YmFMbTl6ck9nTTFibllKT2NkWEx3WGxr?oc=5",
