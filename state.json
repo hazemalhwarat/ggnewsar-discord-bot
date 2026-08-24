@@ -9213,7 +9213,10 @@
     "https://www.invenglobal.com/articles/25072/bfx-light-defeats-t1-hoseok-mental-coaching-helped",
     "https://insider-gaming.com/blood-of-dawnwalker-devs-confirm-60-fps-performance-mode-for-launch/",
     "https://www.nerfplz.com/2026/08/formerly-op-11-old-darius.html",
-    "https://realsport101.com/article/fastest-way-to-complete-the-pre-season-catarina-macrio-objective-in-fc-26"
+    "https://realsport101.com/article/fastest-way-to-complete-the-pre-season-catarina-macrio-objective-in-fc-26",
+    "https://www.hotspawn.com/valorant/news/valorant-champions-shanghai-teams",
+    "https://www.hotspawn.com/league-of-legends/news/t1-kk9r-donation-stray-dog-rescue",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2T1U4RnhjVFRmWE5MNjQ4TVkxOTI5eFFuZ1FhSXdvNFBSTlh1Tk1PWVMzN0lKel9YeXBCQjRyRlFwbGY4a2o1QVdHOXl4SUZpS1BrdXZZTXRQZw?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18306,7 +18309,10 @@
     "e9698653369826aac525e9e34c5ef734",
     "93135b489f9dcdcf1c7e47550d0c5e79",
     "f81ecbf042ab1bddbb6d56446e36699e",
-    "7fb1205c9489c0952c8da3444be06bde"
+    "7fb1205c9489c0952c8da3444be06bde",
+    "642d2cbac44a869b9046cc8d5f4ebc36",
+    "07cbc9a749d0cf4ebafa1df40c0d6ad4",
+    "d4c2c0559007f1c997a40a656187c888"
   ],
   "transfers": {
     "pages": {
@@ -24363,6 +24369,48 @@
       "color": 8141549,
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCJZRD3QDF5CiQn5RAtrcAu7rTvYIt5pfQHW6FSRhOBaqqnYJdDGxvPlgCb30oNri_d1QOTjsLpSVJtHuN2EW_qTGuuQDBIUPjoVOSL1BjhSL0VKWYvG2oIGqwJxSpssr3sgb_4BW1rySTIZdzv0dJRsXtxQ3D4lZWCSanrwf1hTYO1s9OjPSWUHEaY1Q/s72-c-rw/2026-08-24-darius-preview.jpg",
       "base_description": "Riot rewrote one sentence of one tooltip five separate times across three years, and it still wasn't enough. Dunkmaster Darius, designed by Riot CertainlyT, was the first champion that designer released, and the one that made him notorious in the community for creating overpowere"
+    },
+    {
+      "words": [
+        "campaign",
+        "dog",
+        "donates",
+        "million",
+        "rescue",
+        "stray"
+      ],
+      "at": "2026-08-24T11:53:01.853937+00:00",
+      "message_id": "1541415032825581641",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "T1 Donates ₩20 Million After Stray Dog Rescue Campaign",
+      "link": "https://www.hotspawn.com/league-of-legends/news/t1-kk9r-donation-stray-dog-rescue",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/t1-kk9r-stray-dog-campaign-1125x633.webp",
+      "base_description": "Korean esports team T1 has donated ₩20 million (~$14,300) to the animal protection organization Korean K9 Rescue (KK9R), completing the “Find Their Way Home” stray dog rescue campaign. The campaign also helped two of its featured dogs, Pumpkin and Sio, find permanent homes. Remai"
+    },
+    {
+      "words": [
+        "cup",
+        "surprise",
+        "tournament",
+        "victory",
+        "wins",
+        "world"
+      ],
+      "at": "2026-08-24T11:53:01.853937+00:00",
+      "message_id": "1541415038059946057",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Nations Cup 2026"
+      ],
+      "title": "Esports World Cup: AG.AL wins tournament in surprise victory - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2T1U4RnhjVFRmWE5MNjQ4TVkxOTI5eFFuZ1FhSXdvNFBSTlh1Tk1PWVMzN0lKel9YeXBCQjRyRlFwbGY4a2o1QVdHOXl4SUZpS1BrdXZZTXRQZw?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Esports World Cup: AG.AL wins tournament in surprise victory BBC"
     }
   ]
 }
