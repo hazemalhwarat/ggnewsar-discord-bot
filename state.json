@@ -9192,7 +9192,12 @@
     "https://www.hotspawn.com/other/news/agal-win-ewc-2026-club-championship",
     "https://europeangaming.eu/portal/press-releases/2026/08/24/213046/games-global-rewards-burst-network-promotion/",
     "https://europeangaming.eu/portal/latest-news/2026/08/24/213039/gambling-stocks-weekly-17-21-august-european-market-analysis-trends/",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUFJJM2J4V2JWUC12T3UzUUhrSmtPOWFIQ1BzQTRzRWdUc2YtX0N2WUkyRmxfYzZFX2dxeTlmaFB0amNIb24telRKWFotSk5pMlBrWjVpcUlyVkVadzViNVBUd193Wlp0YUx1a1IzZFRsTXlVRWxya3J6ZDJUSlhLWGc3MEd1aE82VXZHLS1kMVV3akxMOV9FcXU4N1RsUlhfaUZOcFJMblpTYTBScC1KbjNDNmdRUHU0ektNTHpGUElkZ0Vw?oc=5"
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUFJJM2J4V2JWUC12T3UzUUhrSmtPOWFIQ1BzQTRzRWdUc2YtX0N2WUkyRmxfYzZFX2dxeTlmaFB0amNIb24telRKWFotSk5pMlBrWjVpcUlyVkVadzViNVBUd193Wlp0YUx1a1IzZFRsTXlVRWxya3J6ZDJUSlhLWGc3MEd1aE82VXZHLS1kMVV3akxMOV9FcXU4N1RsUlhfaUZOcFJMblpTYTBScC1KbjNDNmdRUHU0ektNTHpGUElkZ0Vw?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0VqdEx0REZCSHk5M2lUbmRMY1R5WEYxYUJZNWVGVElFbWtQWGY5VGZzN0JJYUY1ajVYelNUYWdOQjJVRUZjNGNsanotSmM3TWJxRzY0VHVjb0NlSnFqY1JKblhxbTdjcnJWMU54ZW9BVGdseDFLQm90MElDSHZEMm9SUk5oRTljb21sdWpETGpQazdncEtORHJwUEZYNmc?oc=5",
+    "https://www.invenglobal.com/articles/25069/jungler-forced-into-adc-kiwoom-drx-caught-in-a-dilemma",
+    "https://dotesports.com/general/news/g2-eg-vct-americas-stage-2-playoffs",
+    "https://insider-gaming.com/fortnite-star-wars-droid-tycoon-fusion-crafting-recipes/",
+    "https://europeangaming.eu/portal/press-releases/2026/08/24/213051/pragmatic-play-collect-and-win-enhance/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18264,7 +18269,12 @@
     "3789a4ab2cda455c18bfd93a890de5e0",
     "e8f90e27d472f9c9767b783100154c17",
     "2110d4d405f53f23fb9997891c2caf7d",
-    "7ee87c7ff6bc7164f9bbcdeab3c06b77"
+    "7ee87c7ff6bc7164f9bbcdeab3c06b77",
+    "e3dcbd7b18f0a04b3e9b84f8c5beafce",
+    "97682f6e56a4fdb42c582fa364fe07e9",
+    "3308c378e99568885803e4f67c392558",
+    "dd3aa748a99566e424b2fedf6befcc20",
+    "339ce9fa6371b24c8e31fa23bcd71868"
   ],
   "transfers": {
     "pages": {
@@ -22459,75 +22469,6 @@
   "sent_stories": [
     {
       "words": [
-        "2nd",
-        "advances",
-        "battle",
-        "directly",
-        "hanwha",
-        "life",
-        "place",
-        "round",
-        "sweeps"
-      ],
-      "at": "2026-08-23T09:42:26.000271+00:00",
-      "message_id": "1541019793317044246",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Hanwha Life Esports Sweeps T1 in Battle for 2nd Place... Advances Directly to PO Round 2",
-      "link": "https://www.invenglobal.com/articles/25029/hanwha-life-esports-sweeps-t1-in-battle-for-2nd-place-advances-directly-to-po-round-2",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©LCKOn August 23, the final matchday of the 2026 LoL Champions Korea (LCK) regular season took place at Chzzk LoL Park in Jongno...."
-    },
-    {
-      "words": [
-        "americas",
-        "early",
-        "end",
-        "nightmare",
-        "sentinels",
-        "suffer",
-        "vct",
-        "year"
-      ],
-      "at": "2026-08-23T09:42:26.000271+00:00",
-      "message_id": "1541019812392734763",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Sentinels Suffer Early in VCT Americas to End to Nightmare Year",
-      "link": "https://insider-gaming.com/sentinels-vct-americas-stage-2-exit/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Sentinels have suffered an early exit in VCT Americas Stage 2, falling 0-2 to KRÜ Esports in the Play-In stage of the event. The post Sentinels Suffer Early in VCT Americas to End to Nightmare Year appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "booth",
-        "confirms",
-        "dedicated",
-        "expo",
-        "frankfurt",
-        "rennsport",
-        "simracing"
-      ],
-      "at": "2026-08-23T09:42:26.000271+00:00",
-      "message_id": "1541019832034529401",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Traxion.gg Esports"
-      ],
-      "title": "Rennsport confirms dedicated SimRacing Expo Frankfurt booth",
-      "link": "https://traxion.gg/rennsport-confirms-dedicated-simracing-expo-frankfurt-booth/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "The SimRacing Expo Frankfurt will also host the final round of Rennsport's R1 competition in October. The post Rennsport confirms dedicated SimRacing Expo Frankfurt booth appeared first on Traxion.GG ."
-    },
-    {
-      "words": [
         "failed",
         "faker",
         "feel",
@@ -23296,7 +23237,8 @@
       "message_id": "1541199682498207786",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Syria Esports"
+        "Syria Esports",
+        "Palestine Esports"
       ],
       "title": "Israeli strikes kill three, including child, in Gaza Strip - France 24",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUDJhai1ZTnpUcnZKNnl5Q2p3QkxDWUlfTGxiTnBNcTBaZzlUOEE2SG15YlBVMUhrRWFobGdnQWc4YnU2WURLS1lBUDNTT1RUZ1lMRThuZGhMOElSeUgtcGh4VWRlTVEzWkpZODBadmFUc1BWblBhTVd3dmdvM0dOYU90YXdDMkdlR1VXYmh5ck9tbEM0OWdJQkp5bmEzRXctRzRYVlIyUHZGdXhhY0xHWWhTOVY0MmV3YUJxT2ZZYjAtNFlZMTI3eHk5N2UxT2JLXzlj?oc=5",
@@ -24195,6 +24137,104 @@
       "color": 8141549,
       "image_url": "https://media.europeangaming.eu/uploads/2026/08/Games-Global-launches-Rewards-BURST-annual-network-promotion-with-E5m-prize-pool.jpg",
       "base_description": "The annual promotion builds on Games Global’s existing Cash Splash toolset, scaling both prize drops and tournaments to… The post Games Global launches Rewards BURST! annual network promotion with €5m prize pool appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "adc",
+        "caught",
+        "dilemma",
+        "drx",
+        "forced",
+        "into",
+        "jungler",
+        "kiwoom"
+      ],
+      "at": "2026-08-24T10:05:00.943454+00:00",
+      "message_id": "1541387855702532148",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Jungler Forced into ADC... Kiwoom DRX Caught in a Dilemma",
+      "link": "https://www.invenglobal.com/articles/25069/jungler-forced-into-adc-kiwoom-drx-caught-in-a-dilemma",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The nightmare season for Kiwoom DRX (KRX), who disappointingly finished the 2026 LCK regular season in 9th place, is now continuing into the secondary league, LCK CL.©LCK CLIn the ......"
+    },
+    {
+      "words": [
+        "americas",
+        "closing",
+        "evil",
+        "field",
+        "geniuses",
+        "out",
+        "playoff",
+        "punch",
+        "stage",
+        "their",
+        "tickets",
+        "vct"
+      ],
+      "at": "2026-08-24T10:05:00.943454+00:00",
+      "message_id": "1541387861176356925",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "G2 and Evil Geniuses punch their tickets, closing out the VCT Americas Stage 2 playoff field",
+      "link": "https://dotesports.com/general/news/g2-eg-vct-americas-stage-2-playoffs",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/g2-and-evil-geniuses-punch-their-tickets-closing-out-the-vct-a775269c8ebe6d51.webp",
+      "base_description": "G2 Esports and Evil Geniuses locked up the final two playoff spots in VCT 2026 Americas Stage 2 play-ins, sending ENVY and KRÜ Esports home on the tournament's last day."
+    },
+    {
+      "words": [
+        "all",
+        "crafting",
+        "droid",
+        "fortnite",
+        "fusion",
+        "recipes",
+        "star",
+        "tycoon",
+        "wars"
+      ],
+      "at": "2026-08-24T10:05:00.943454+00:00",
+      "message_id": "1541387867635453953",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "All Fortnite Star Wars: Droid Tycoon Fusion Droid Crafting Recipes",
+      "link": "https://insider-gaming.com/fortnite-star-wars-droid-tycoon-fusion-crafting-recipes/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "All the recipes required to craft the new fusion-exclusive droids in Star Wars: Droid Tycoon. The post All Fortnite Star Wars: Droid Tycoon Fusion Droid Crafting Recipes appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "adds",
+        "collect",
+        "enhance",
+        "gamification",
+        "mechanics",
+        "play",
+        "pragmatic",
+        "suite",
+        "win"
+      ],
+      "at": "2026-08-24T10:05:00.943454+00:00",
+      "message_id": "1541387873851543584",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "Pragmatic Play adds Collect & Win mechanics to Enhance gamification suite",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/08/24/213051/pragmatic-play-collect-and-win-enhance/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Pragmatic-Play-adds-Collect-Win-mechanics-to-Enhance-gamification-suite.jpg",
+      "base_description": "The update brings collection-based player mechanics to Enhance for the first time, extending a gamification suite Pragmatic Play… The post Pragmatic Play adds Collect & Win mechanics to Enhance gamification suite appeared first on European Gaming Industry News ."
     }
   ]
 }
