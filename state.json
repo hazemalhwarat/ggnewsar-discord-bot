@@ -9246,7 +9246,9 @@
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYW9Dd3NQLU50V0ZBZnpRQmFNV0wyaGVWQ196QTlZYVFkdlJ0NGRYWExYRngxT3BtRE9VRVU1RjZRTW1kYnc0U3Q4M2JBbU5QanhUbWJ3MFE5M0FWQ2JYWGpqbGtFSnBMZ1R2TnJUTklKY0xtd0p5SURjbERZYThKXzNHZzEwTVJNTXo2a3dHNmNUcDAwVnhXa0QzU2MxYkpPZFVfaUMxLWtwOFNoS3c4dW03Z05xT3BwNWRNampsS2JKOFpsaGJfZVU4bjh4TWFWMi1PRnNwYlZaZw?oc=5",
     "https://www.invenglobal.com/articles/25079/how-the-james-bond-of-first-light-was-created",
     "https://www.hotspawn.com/league-of-legends/news/caps-hall-of-legends-skins",
-    "https://www.nerfplz.com/2026/10/lol-gold-explained-10-ways-you-get-paid.html"
+    "https://www.nerfplz.com/2026/10/lol-gold-explained-10-ways-you-get-paid.html",
+    "https://www.vlr.gg/743747/riot-unveils-gc-pacific-format-and-bracket",
+    "https://www.hltv.org/news/45374/hall-of-fame-map-gets-an-update-for-the-class-of-2025"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18371,7 +18373,9 @@
     "ec5c30216ebf6f2cca7308ede55e34f4",
     "b7fb1244986b68bc3b3754f9d0ee4325",
     "4a1f2e5597b666ecfb2381ab5dff211d",
-    "7d950dc5716d677ed5480cb651e39666"
+    "7d950dc5716d677ed5480cb651e39666",
+    "5af3ff03375507ca9b088d6debfe4bd5",
+    "619b8010f38a03fcb387e1d5cf8926c4"
   ],
   "transfers": {
     "pages": {
@@ -24531,6 +24535,47 @@
       "color": 8141549,
       "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.18,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_9.jpg",
       "base_description": "Everything in League is bought with the same currency, and most players know two of the ways to earn it. Here's every source of gold, who each one pays, and the rule about spending it that decides more games than any of them. League of Legends Guide Gold Where the Money Comes Fro"
+    },
+    {
+      "words": [
+        "bracket",
+        "format",
+        "pacific",
+        "riot",
+        "unveils"
+      ],
+      "at": "2026-08-24T17:05:48.251645+00:00",
+      "message_id": "1541493744539406338",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "Riot unveils GC Pacific format and bracket",
+      "link": "https://www.vlr.gg/743747/riot-unveils-gc-pacific-format-and-bracket",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "GC Pacific in Bali is just around the corner!"
+    },
+    {
+      "words": [
+        "2025",
+        "class",
+        "fame",
+        "gets",
+        "hall",
+        "map"
+      ],
+      "at": "2026-08-24T17:05:48.251645+00:00",
+      "message_id": "1541493749966704764",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "Hall of Fame map gets an update for the Class of 2025",
+      "link": "https://www.hltv.org/news/45374/hall-of-fame-map-gets-an-update-for-the-class-of-2025",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/Y3M8iZONpUSZ9TUucZyHCW.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=155664db03036ba7deab623f47e6b994",
+      "base_description": "The map now has three new challenges for the players inducted into the Hall in 2025."
     }
   ]
 }
