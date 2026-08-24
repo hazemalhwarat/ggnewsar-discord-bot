@@ -123,7 +123,7 @@ import feedparser
 import requests
 
 from feeds import RSS_FEEDS, SCRAPERS
-from relevance import is_hard_excluded
+from relevance import is_hard_excluded, is_game_content_noise
 
 # Sources that can't be fetched as RSS/Atom (feedparser needs XML; some
 # sites, like Sheep Esports post-2026-relaunch, don't expose any XML
@@ -1259,6 +1259,21 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
             # tournament name overrides it — see relevance.py. Final,
             # durable verdict, never worth retrying.
             stats["skip_not_esports"] += 1
+            mark_resolved(c)
+            continue
+
+        # Game-content gate (2026-08-24) — applies to ALL sources, not
+        # just loose ones. GGNewsAR is an esports wire: drop items about
+        # the game itself (patch/meta/skins/launch/review/guide/cosplay)
+        # UNLESS they tie to the pro scene, a tournament, an org, or a
+        # person's org move. This is the one filter that intentionally
+        # runs on trusted esports RSS feeds too, because those feeds
+        # (Dexerto, GameRiv, etc.) mix game-content posts in with real
+        # esports news. is_game_content_noise() only fires when a
+        # game-content term is present AND no esports/pro/business signal
+        # is — so genuine esports stories always pass. See relevance.py.
+        if is_game_content_noise(f"{c['title']} {clean_summary}"):
+            stats["skip_game_content"] += 1
             mark_resolved(c)
             continue
 
