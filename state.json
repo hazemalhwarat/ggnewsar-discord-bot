@@ -9269,7 +9269,10 @@
     "https://www.invenglobal.com/articles/25079/behind-the-character-design-of-james-bond-in-007-first-light",
     "https://www.invenglobal.com/articles/25082/lol-aram-mayhem-reveals-the-secrets-of-augment-development",
     "https://www.hltv.org/news/45380/yxngstxr-departs-heroic",
-    "https://insider-gaming.com/caps-hall-of-legends-tristana-and-orianna-skins-revealed/"
+    "https://insider-gaming.com/caps-hall-of-legends-tristana-and-orianna-skins-revealed/",
+    "https://www.hltv.org/news/45381/luminosity-bench-bymas",
+    "https://dotesports.com/general/news/castlevania-belmonts-curse-voice-cast",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2F6SDJNUEFsNkh6UzdPVW5vamNraE80akdNcEZhMVZNMGNobWFKNnQ4dm1QVjY2M3o2U1JJQW9UZ0g5SVJnU2phZzFtM3dZQ1F0WG51ek1lZFBZX3hnTnhOdUpFSzVrdnkzUkI1aFBwdzlzOElnTHU2X2lZWWR6Q3Zya1JFb3c3WnllMXpPRlE1RXhTN0pFb0I2TmxmNHQxcW94YzR3TkplaEllYW5vLURhNVlHMDhldDBnR2xfVTF4b1VOWVE?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18415,7 +18418,10 @@
     "d9fdaffaed00f65f6510e6cef61d78b3",
     "e38ae46415dd7e9bcb039eb93353586d",
     "a595d708b7653e5dba563f64c5f3560a",
-    "c726df76e83ee937193fbcf14ebf273b"
+    "c726df76e83ee937193fbcf14ebf273b",
+    "1e56da3c3ec4739013704f7d1c041c28",
+    "42acb79a48c4b8191f1c490fa2ccd80e",
+    "e9afd6478483aaa3968a9d75bcf72ec1"
   ],
   "transfers": {
     "pages": {
@@ -22610,95 +22616,6 @@
   "sent_stories": [
     {
       "words": [
-        "copies",
-        "days",
-        "fish",
-        "friendslop",
-        "how",
-        "million",
-        "newest",
-        "sells",
-        "two",
-        "viral"
-      ],
-      "at": "2026-08-23T20:47:53.281575+00:00",
-      "message_id": "1541187246462345389",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "How to Fish, the newest viral friendslop game, sells 1 million copies in two days",
-      "link": "https://dotesports.com/indies/news/how-to-fish-game-sales-friendslop-steam-indie-coop",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/how-to-fish-indie-friendslop-pistol.webp",
-      "base_description": "Trickshotting fish has never been so fun."
-    },
-    {
-      "words": [
-        "goal",
-        "grand",
-        "main",
-        "slam",
-        "win"
-      ],
-      "at": "2026-08-23T20:47:53.281575+00:00",
-      "message_id": "1541187251973922919",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "“My main goal is to win the Grand Slam” – tN1R",
-      "link": "https://insider-gaming.com/spirit-tn1r-ewc-2026-interview/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Insider Gaming spoke to Andrey 'tN1R' Tatarinovich after Team Spirit's 3-1 Grand Final victory at the Esports World Cup over FUT. The post “My main goal is to win the Grand Slam” – tN1R appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "center",
-        "damascus",
-        "embassy",
-        "opens",
-        "saudi",
-        "syria",
-        "tasheer"
-      ],
-      "at": "2026-08-23T20:47:53.281575+00:00",
-      "message_id": "1541187257006821507",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Syria Esports"
-      ],
-      "title": "Saudi Embassy in Syria opens Tasheer Center in Damascus - Saudi Gazette",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUpKNVJ0WWxGb1JyWE5tMVJqMFE1TW9BMVE5ejNUM1ktZ0VFZTl3UFI1NzQzZEo0dUVFSGRYeFh1Z3NEaFN0R0xLZnAxNVRoQUhyRlNzRXFtLWZrNURrLXhfeUpYUUVIWl9vd2tIQlYwSzVCaU52RGM0Vk9rR0d2UXBWU1diMFRORGtiSjRsVFUtVUthUEd0NEpSd3pwbDNJWkF1ZjBtbXhSRzZHaEh3bA?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Saudi Embassy in Syria opens Tasheer Center in Damascus Saudi Gazette"
-    },
-    {
-      "words": [
-        "dragons",
-        "future",
-        "molodoy",
-        "rumor",
-        "spirit",
-        "stats",
-        "transfer"
-      ],
-      "at": "2026-08-23T20:47:53.281575+00:00",
-      "message_id": "1541187262887231540",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "General esports transfer rumors (Google News bridge)"
-      ],
-      "title": "molodoy to Team Spirit: transfer rumor, stats, and the future of the Dragons - VPEsports",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXTUR6TjlkUDJram1JbDk5V1lIaDI4cTI0UmhfUGJSQXlyVHY0NkFDQVRZMmI3X19sVzd5SjNzN3gxSVpzX0xNR2xoYjBncElvcnVkNFV2bll5eFVoM1JQOUNMYkdsUnBJ?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "molodoy to Team Spirit: transfer rumor, stats, and the future of the Dragons VPEsports"
-    },
-    {
-      "words": [
         "ancient",
         "coolio",
         "could",
@@ -24622,6 +24539,69 @@
       "color": 8141549,
       "image_url": "https://img-cdn.hltv.org/gallerypicture/z61gs--hWrtl7Cziy6r9af.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=8cf518ca9088295f806a0bbd1747faa4",
       "base_description": "The Swede leaves the organization \"as he sets off on a new journey.\""
+    },
+    {
+      "words": [
+        "bench",
+        "bymas",
+        "luminosity"
+      ],
+      "at": "2026-08-24T20:58:08.539446+00:00",
+      "message_id": "1541552214647119923",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "Luminosity bench Bymas",
+      "link": "https://www.hltv.org/news/45381/luminosity-bench-bymas",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/f6nBChxqxZCSb-KHJa7dC3.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=79f7659df555bccfbd78c17bf39f2d43",
+      "base_description": "The Lithuanian rifler moves to the inactive roster just a month after joining."
+    },
+    {
+      "words": [
+        "castlevania",
+        "dracula",
+        "graham",
+        "mctavish",
+        "reprises",
+        "role"
+      ],
+      "at": "2026-08-24T20:58:08.539446+00:00",
+      "message_id": "1541552219541999639",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "Graham McTavish reprises Dracula role in Castlevania: Belmont’s Curse voice cast",
+      "link": "https://dotesports.com/general/news/castlevania-belmonts-curse-voice-cast",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/ar6ccd.jpg",
+      "base_description": "Dracula and Sypha voice actors reprise their Netflix roles."
+    },
+    {
+      "words": [
+        "49ers",
+        "charges",
+        "contest",
+        "jed",
+        "misdemeanor",
+        "ohio",
+        "owner",
+        "pleads",
+        "york"
+      ],
+      "at": "2026-08-24T20:58:08.539446+00:00",
+      "message_id": "1541552224990269492",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Palestine Esports"
+      ],
+      "title": "49ers owner Jed York pleads no contest to 2 misdemeanor charges in Ohio - kcentv.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2F6SDJNUEFsNkh6UzdPVW5vamNraE80akdNcEZhMVZNMGNobWFKNnQ4dm1QVjY2M3o2U1JJQW9UZ0g5SVJnU2phZzFtM3dZQ1F0WG51ek1lZFBZX3hnTnhOdUpFSzVrdnkzUkI1aFBwdzlzOElnTHU2X2lZWWR6Q3Zya1JFb3c3WnllMXpPRlE1RXhTN0pFb0I2TmxmNHQxcW94YzR3TkplaEllYW5vLURhNVlHMDhldDBnR2xfVTF4b1VOWVE?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "49ers owner Jed York pleads no contest to 2 misdemeanor charges in Ohio kcentv.com"
     }
   ]
 }
