@@ -9265,7 +9265,11 @@
     "https://esports.gg/guides/call-of-duty/best-kg-7-vulcan-loadout-in-modern-warfare-4-beta/",
     "https://www.invenglobal.com/articles/25081/marvels-spider-man-the-ideas-that-changed-the-game",
     "https://esportsinsider.com/2026/08/women-counter-strike-2-scene-struggling",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zOGxPN05HUXRpcTI4ekNDT3FtalRfUF9mNWFtVVREX2ZBOEtuTXpJOGpuMmJTbjRQTW4yZlJ6cGdMSkJCaEFTQlYxcGZGN0hqT0J3YmFMbTl6ck9nTTFibllKT2NkWEx3WGxr?oc=5"
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zOGxPN05HUXRpcTI4ekNDT3FtalRfUF9mNWFtVVREX2ZBOEtuTXpJOGpuMmJTbjRQTW4yZlJ6cGdMSkJCaEFTQlYxcGZGN0hqT0J3YmFMbTl6ck9nTTFibllKT2NkWEx3WGxr?oc=5",
+    "https://www.invenglobal.com/articles/25079/behind-the-character-design-of-james-bond-in-007-first-light",
+    "https://www.invenglobal.com/articles/25082/lol-aram-mayhem-reveals-the-secrets-of-augment-development",
+    "https://www.hltv.org/news/45380/yxngstxr-departs-heroic",
+    "https://insider-gaming.com/caps-hall-of-legends-tristana-and-orianna-skins-revealed/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18407,7 +18411,11 @@
     "55d209e2e395a96f8bf3bf8a7a7bb933",
     "473258b8288c880a39a6a7760f6c63d1",
     "9a8c3947434106d38cc214d8fe15d567",
-    "5518da1a1c36e0228a8e14b8f6dfdd3b"
+    "5518da1a1c36e0228a8e14b8f6dfdd3b",
+    "d9fdaffaed00f65f6510e6cef61d78b3",
+    "e38ae46415dd7e9bcb039eb93353586d",
+    "a595d708b7653e5dba563f64c5f3560a",
+    "c726df76e83ee937193fbcf14ebf273b"
   ],
   "transfers": {
     "pages": {
@@ -22602,29 +22610,6 @@
   "sent_stories": [
     {
       "words": [
-        "amnesia",
-        "double",
-        "fine",
-        "fortnight",
-        "revives",
-        "split",
-        "xbox"
-      ],
-      "at": "2026-08-23T20:17:43.069634+00:00",
-      "message_id": "1541179653476323471",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "GamesIndustry.biz"
-      ],
-      "title": "Double Fine Revives Amnesia Fortnight After XBOX Split",
-      "link": "https://insider-gaming.com/double-fine-amnesia-fortnight-xbox-split/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "After splitting from XBOX, Double Fine is bringing back Amnesia Fortnight as a live Kickstarter game jam where backers will choose its next release. The post Double Fine Revives Amnesia Fortnight After XBOX Split appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "copies",
         "days",
         "fish",
@@ -24597,6 +24582,46 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Team Côte d'Ivoire vs Team Tunisia — FIFAe Continental Championship 2026 Africa by FRMF/FRMJE Sheep Esports"
+    },
+    {
+      "words": [
+        "aram",
+        "augment",
+        "development",
+        "lol",
+        "mayhem",
+        "reveals",
+        "secrets"
+      ],
+      "at": "2026-08-24T20:22:43.070213+00:00",
+      "message_id": "1541543300299882568",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "LoL 'ARAM: Mayhem' Reveals the Secrets of Augment Development",
+      "link": "https://www.invenglobal.com/articles/25082/lol-aram-mayhem-reveals-the-secrets-of-augment-development",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "What if a neuroscientist who used to help amputees regain movement in their hands ended up designing unique Augments in League of Legends one day? That is the story of Noor Amin, Senior Game Designer at Riot Games...."
+    },
+    {
+      "words": [
+        "departs",
+        "heroic",
+        "yxngstxr"
+      ],
+      "at": "2026-08-24T20:22:43.070213+00:00",
+      "message_id": "1541543306352394403",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "yxngstxr departs HEROIC",
+      "link": "https://www.hltv.org/news/45380/yxngstxr-departs-heroic",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/z61gs--hWrtl7Cziy6r9af.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=8cf518ca9088295f806a0bbd1747faa4",
+      "base_description": "The Swede leaves the organization \"as he sets off on a new journey.\""
     }
   ]
 }
