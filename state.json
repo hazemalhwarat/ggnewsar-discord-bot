@@ -9279,7 +9279,11 @@
     "https://esports.gg/news/overwatch/overwatch-unvaulted-battle-pass-skins-arrive-soon/",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lN3JBOFpnN2NWX21RbklZdXFXeFZkSzhVZGxzc0N0cG1oVmkyMnk4bHM0LUxqYnI4RGd1eFNSVzNqdU1wOWs3dkZWeXhKZ1lfZmxJV1NvbkZUeTg?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fVnUzaG1nanMtX0Y2eG14M1EydlJQRVlEVGNfQmhCZk42ZGZLdGpUdW1zcV9WNUlZZ0E2ZURBZ2thRzJaWjV3MF9OcDlmRG9yNnc4TUZDcW9BeWVzeDJxejJZUldqNEpOOUlv?oc=5",
-    "https://gameriv.com/marathon-drops-below-1000-concurrent-steam-players-for-the-first-time/"
+    "https://gameriv.com/marathon-drops-below-1000-concurrent-steam-players-for-the-first-time/",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZm5uM0VkeWtYVkFJeHVQc1hTQTNsMVd4bDZuWi1RSGJGSlRGNmhKNFplZTFld29lbmdDTHlKMndyVHZ3NjNtczFlVVBZZ0ZVSHBPNnJNaXUyZk51UUc3WVRLN2JOR1Z5N0hzYnhpTWpWRHo2a0JoLUViM0M2OTRiWVVIUGRwQktJQTZmbVNxd2ZaWkE?oc=5",
+    "https://dotesports.com/league-of-legends/news/caedrel-defends-faker-after-orianna-loss",
+    "https://gameriv.com/lol-hall-of-legends-2026-caps-skins-splash-arts-prices-and-release-date/",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnhiUTdjMEhDUDhZREpfc0JidzVLYkpBT2NPc2lSZENUNk9vNWh5dUk3Yko3UWdsOEY4bW92NE1BMkNDY2NYTWZsVDYxTTVRQVRINWR4bVNFM0NGVFdPZkUwU0lRU19FWkJlcndUUW50Vk9MMTVVanRpQ3c2MkJIVWhidzFaUnVtaWlyT1gwMA?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18434,7 +18438,10 @@
     "3091d836a78e8ebc0524afe4dd126292",
     "21ae4bb6c571ec19a66818a21bdb9e35",
     "afff156fc544fed554b99dd009b5552e",
-    "db1e426a17642f920fb6913d79562038"
+    "db1e426a17642f920fb6913d79562038",
+    "093f239ba96d4dd375de25e70f2880a1",
+    "ad88b5c49b0942358b18ae7baefbfbad",
+    "276a8a8e920d05b05991b487604f4148"
   ],
   "transfers": {
     "pages": {
@@ -24561,6 +24568,47 @@
       "color": 8141549,
       "image_url": "https://gameriv.com/wp-content/uploads/2026/06/Marathon-Season-2-Free-Week.jpg",
       "base_description": "Bungie’s Marathon has reached another uncomfortable milestone on Steam, with its concurrent player count falling below 1,000 for the first time since launch. According to a Steam chart on August 24, Marathon dropped to 987 concurrent players. Community tracking later suggested th"
+    },
+    {
+      "words": [
+        "just",
+        "larp",
+        "people"
+      ],
+      "at": "2026-08-24T23:17:26.792573+00:00",
+      "message_id": "1541587272020008981",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "‘People just larp’: Caedrel fires back at Faker’s critics",
+      "link": "https://dotesports.com/league-of-legends/news/caedrel-defends-faker-after-orianna-loss",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/Caedrel-Faker-Cover.webp",
+      "base_description": "Put respect on GOAT."
+    },
+    {
+      "words": [
+        "anxiety",
+        "franco",
+        "glitz",
+        "hormuz",
+        "mbs",
+        "pact",
+        "paris",
+        "saudi"
+      ],
+      "at": "2026-08-24T23:17:26.792573+00:00",
+      "message_id": "1541587277447434374",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Lebanon Esports"
+      ],
+      "title": "‎MBS In Paris: Esports Glitz, Hormuz Anxiety, And A New Franco-Saudi Pact ‎ - Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnhiUTdjMEhDUDhZREpfc0JidzVLYkpBT2NPc2lSZENUNk9vNWh5dUk3Yko3UWdsOEY4bW92NE1BMkNDY2NYTWZsVDYxTTVRQVRINWR4bVNFM0NGVFdPZkUwU0lRU19FWkJlcndUUW50Vk9MMTVVanRpQ3c2MkJIVWhidzFaUnVtaWlyT1gwMA?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "‎MBS In Paris: Esports Glitz, Hormuz Anxiety, And A New Franco-Saudi Pact ‎ Modern Ghana"
     }
   ]
 }
