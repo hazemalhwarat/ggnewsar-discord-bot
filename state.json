@@ -9152,7 +9152,12 @@
     "https://www.invenglobal.com/articles/25046/team42-to-release-steam-demo-for-new-title-world-of-slime-on-august-26",
     "https://www.invenglobal.com/articles/25045/arknights-endfield-updates-new-version-dreamscape-of-wind-and-snow-on-september-2",
     "https://esports.gg/interviews/mobile-legends-bang-bang/mlbb-team-vitality-fumi-interview/",
-    "https://esports.gg/news/fortnite/all-fortnite-season-start-and-end-dates/"
+    "https://esports.gg/news/fortnite/all-fortnite-season-start-and-end-dates/",
+    "https://www.invenglobal.com/articles/25042/the-blood-of-dawnwalker-console-graphics-modes-confirmed-max-frame-rate-capped-at-40-fps",
+    "https://esports.gg/news/valorant/tyloo-vct-china-stage-2-champions/",
+    "https://www.invenglobal.com/articles/25055/hoyoverse-korea-to-launch-genshin-impact-forest-project-creating-a-forest-from-travelers-steps",
+    "https://www.invenglobal.com/articles/25054/kakao-games-enhances-shareholder-value-through-executive-stock-buybacks-and-corporate-initiatives",
+    "https://www.invenglobal.com/articles/25053/can-zeus-god-of-arrogance-become-a-competitive-mmorpg-for-everyone"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18186,7 +18191,12 @@
     "abe4e07375bc6208b777f77e4c6ff711",
     "b84e8b2b6ae76abf03fa20a582d8a680",
     "a1c8ad9e060ad4df418f62cce85a0826",
-    "3a5f898b8f23fb845186597d033f9fa8"
+    "3a5f898b8f23fb845186597d033f9fa8",
+    "6c229424a88ab6d405b6679eaa8b5745",
+    "1da0be5162f0d4424d2c2662ee75aa91",
+    "a8f54151801e0fd07e4dd9ba9aaff454",
+    "89a24d6e4aafd359fbef9fac274e15ed",
+    "7a0341de5a3974fe64b39eff726dc68b"
   ],
   "transfers": {
     "pages": {
@@ -22381,41 +22391,6 @@
   "sent_stories": [
     {
       "words": [
-        "animal",
-        "hospital"
-      ],
-      "at": "2026-08-23T02:38:32.482228+00:00",
-      "message_id": "1540913118194962513",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "Animal Hospital: Even More Lore Update patch notes",
-      "link": "https://esports.gg/news/roblox/animal-hospital-even-more-lore-update-patch-notes/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Animal Hospital releases more lore for us to discover as we investigate what is actually happening within the Animal Corporation."
-    },
-    {
-      "words": [
-        "closer",
-        "fans",
-        "korean"
-      ],
-      "at": "2026-08-23T03:36:00.931464+00:00",
-      "message_id": "1540927582403432460",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "\"Closer to Korean Fans\": Why Overwatch Chose Nexon",
-      "link": "https://www.invenglobal.com/articles/25028/closer-to-korean-fans-why-overwatch-chose-nexon",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©INVENThe 'Overwatch' development team evaluated Korean players not merely as a large user base, but as a community that directly influences the game's meta and balance...."
-    },
-    {
-      "words": [
         "2026",
         "august",
         "codes",
@@ -23851,6 +23826,79 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Astraea Oratio Art Director In Kim © NCSoftNCSoft's new anime-style RPG Astraea Oratio successfully wrapped up its appearance at Comic Market in Japan...."
+    },
+    {
+      "words": [
+        "creating",
+        "forest",
+        "genshin",
+        "hoyoverse",
+        "impact",
+        "korea",
+        "launch",
+        "project",
+        "steps",
+        "travelers"
+      ],
+      "at": "2026-08-24T03:38:22.801508+00:00",
+      "message_id": "1541290549976240200",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "HoYoverse Korea to Launch 'Genshin Impact Forest Project'... Creating a Forest from Travelers' Steps",
+      "link": "https://www.invenglobal.com/articles/25055/hoyoverse-korea-to-launch-genshin-impact-forest-project-creating-a-forest-from-travelers-steps",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Press Release - HoYoverse©HoYoVerseHoYoverse Korea announced on August 24 that it is launching the 'Genshin Impact Forest Project' in the open-world RPG 'Genshin Impact,' partnerin......"
+    },
+    {
+      "words": [
+        "buybacks",
+        "corporate",
+        "enhances",
+        "executive",
+        "initiatives",
+        "kakao",
+        "shareholder",
+        "stock",
+        "through",
+        "value"
+      ],
+      "at": "2026-08-24T03:38:22.801508+00:00",
+      "message_id": "1541290554959204443",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Kakao Games Enhances Shareholder Value Through Executive Stock Buybacks and Corporate Initiatives",
+      "link": "https://www.invenglobal.com/articles/25054/kakao-games-enhances-shareholder-value-through-executive-stock-buybacks-and-corporate-initiatives",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by Kakao Games © Kakao GamesKakao Games (Co-CEOs Kim Tae-hwan and Lee Si-woo) announced on August 24 that, following an extraordinary general meeting of shareholders that ......"
+    },
+    {
+      "words": [
+        "arrogance",
+        "become",
+        "can",
+        "competitive",
+        "everyone",
+        "god",
+        "mmorpg",
+        "zeus"
+      ],
+      "at": "2026-08-24T03:38:22.801508+00:00",
+      "message_id": "1541290560227246141",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Can 'Zeus: God of Arrogance' Become a Competitive MMORPG for Everyone?",
+      "link": "https://www.invenglobal.com/articles/25053/can-zeus-god-of-arrogance-become-a-competitive-mmorpg-for-everyone",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©Com2uS“Is it possible to make a competitive MMORPG that everyone can enjoy?”The new MMORPG 'Zeus: God of Arrogance' (hereafter 'Zeus'), published by Com2uS and developed by AButton, reportedly began with this very question...."
     }
   ]
 }
