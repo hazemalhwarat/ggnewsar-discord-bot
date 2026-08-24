@@ -9272,7 +9272,9 @@
     "https://insider-gaming.com/caps-hall-of-legends-tristana-and-orianna-skins-revealed/",
     "https://www.hltv.org/news/45381/luminosity-bench-bymas",
     "https://dotesports.com/general/news/castlevania-belmonts-curse-voice-cast",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2F6SDJNUEFsNkh6UzdPVW5vamNraE80akdNcEZhMVZNMGNobWFKNnQ4dm1QVjY2M3o2U1JJQW9UZ0g5SVJnU2phZzFtM3dZQ1F0WG51ek1lZFBZX3hnTnhOdUpFSzVrdnkzUkI1aFBwdzlzOElnTHU2X2lZWWR6Q3Zya1JFb3c3WnllMXpPRlE1RXhTN0pFb0I2TmxmNHQxcW94YzR3TkplaEllYW5vLURhNVlHMDhldDBnR2xfVTF4b1VOWVE?oc=5"
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2F6SDJNUEFsNkh6UzdPVW5vamNraE80akdNcEZhMVZNMGNobWFKNnQ4dm1QVjY2M3o2U1JJQW9UZ0g5SVJnU2phZzFtM3dZQ1F0WG51ek1lZFBZX3hnTnhOdUpFSzVrdnkzUkI1aFBwdzlzOElnTHU2X2lZWWR6Q3Zya1JFb3c3WnllMXpPRlE1RXhTN0pFb0I2TmxmNHQxcW94YzR3TkplaEllYW5vLURhNVlHMDhldDBnR2xfVTF4b1VOWVE?oc=5",
+    "https://www.invenglobal.com/articles/25083/principles-of-game-narrative-design-according-to-a-30-year-veteran",
+    "https://www.hltv.org/news/45382/eternal-fire-among-teams-to-make-iem-beijing-closed-qualifier"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18421,7 +18423,9 @@
     "c726df76e83ee937193fbcf14ebf273b",
     "1e56da3c3ec4739013704f7d1c041c28",
     "42acb79a48c4b8191f1c490fa2ccd80e",
-    "e9afd6478483aaa3968a9d75bcf72ec1"
+    "e9afd6478483aaa3968a9d75bcf72ec1",
+    "04aafffa0fad87fac108d8cc7aa14745",
+    "181c9f6ceb65f93e199be9ec284fb824"
   ],
   "transfers": {
     "pages": {
@@ -24602,6 +24606,50 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "49ers owner Jed York pleads no contest to 2 misdemeanor charges in Ohio kcentv.com"
+    },
+    {
+      "words": [
+        "according",
+        "design",
+        "narrative",
+        "principles",
+        "veteran",
+        "year"
+      ],
+      "at": "2026-08-24T21:25:06.137419+00:00",
+      "message_id": "1541558999659319489",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Principles of Game Narrative Design, According to a 30-Year Veteran",
+      "link": "https://www.invenglobal.com/articles/25083/principles-of-game-narrative-design-according-to-a-30-year-veteran",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Gamers love stories just as much as movies or TV shows. In fact, beloved games share many commonalities with stories that people love...."
+    },
+    {
+      "words": [
+        "among",
+        "beijing",
+        "closed",
+        "eternal",
+        "fire",
+        "iem",
+        "make",
+        "qualifier"
+      ],
+      "at": "2026-08-24T21:25:06.137419+00:00",
+      "message_id": "1541559005061840990",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "Eternal Fire among teams to make IEM Beijing closed qualifier",
+      "link": "https://www.hltv.org/news/45382/eternal-fire-among-teams-to-make-iem-beijing-closed-qualifier",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/v8QpzjF5IvIncEV_P7buaB.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=5e91c2fb498d94c059c2d12a8e1fd813",
+      "base_description": "The international squad got the better of 100 Thieves in the qualification match."
     }
   ]
 }
