@@ -9208,7 +9208,12 @@
     "https://www.hotspawn.com/league-of-legends/news/movistar-koi-roadshow-ibai",
     "https://www.hotspawn.com/other/news/ewc-2026-paris-debut-breaks-records",
     "https://europeangaming.eu/portal/press-releases/2026/08/24/213062/digitain-silkbet-uk-turnkey-deal/",
-    "https://europeangaming.eu/portal/latest-news/2026/08/24/213055/evolution-board-rejects-candle-lake-sek-695-offer/"
+    "https://europeangaming.eu/portal/latest-news/2026/08/24/213055/evolution-board-rejects-candle-lake-sek-695-offer/",
+    "https://www.gamesindustry.biz/double-fine-productions-regains-ownership-of-ip-and-publishing-rights-following-independence-from-xbox",
+    "https://www.invenglobal.com/articles/25072/bfx-light-defeats-t1-hoseok-mental-coaching-helped",
+    "https://insider-gaming.com/blood-of-dawnwalker-devs-confirm-60-fps-performance-mode-for-launch/",
+    "https://www.nerfplz.com/2026/08/formerly-op-11-old-darius.html",
+    "https://realsport101.com/article/fastest-way-to-complete-the-pre-season-catarina-macrio-objective-in-fc-26"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18296,7 +18301,12 @@
     "ab7ff5347d1050f2c8fdbef0754f6cfb",
     "101624fe2e7cd0967d403a6d8f464097",
     "9947d4bb5418eb0c8e6b89dd5d402780",
-    "9a7fd36f58549d10d1b4dd7e81efad72"
+    "9a7fd36f58549d10d1b4dd7e81efad72",
+    "51241c518a9a08129629d76e86d6e8c8",
+    "e9698653369826aac525e9e34c5ef734",
+    "93135b489f9dcdcf1c7e47550d0c5e79",
+    "f81ecbf042ab1bddbb6d56446e36699e",
+    "7fb1205c9489c0952c8da3444be06bde"
   ],
   "transfers": {
     "pages": {
@@ -22491,31 +22501,6 @@
   "sent_stories": [
     {
       "words": [
-        "beat",
-        "claim",
-        "concern",
-        "fans",
-        "form",
-        "hle",
-        "lck",
-        "second",
-        "seed",
-        "show"
-      ],
-      "at": "2026-08-23T11:15:53.065563+00:00",
-      "message_id": "1541043326868783246",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "HLE Beat T1 to Claim LCK Second Seed as T1 Fans Show Concern for Team’s Form",
-      "link": "https://insider-gaming.com/hle-t1-lck-2026-playoff-seeds/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Hanwha Life Esports defeated T1 2-0 to guarantee they are the second seed in the LCK Playoffs. The loss was another blow to the T1 roster. The post HLE Beat T1 to Claim LCK Second Seed as T1 Fans Show Concern for Team’s Form appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "build",
         "ecosystem",
         "grassroots",
@@ -23076,7 +23061,8 @@
       "message_id": "1541179653476323471",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "GamesIndustry.biz"
       ],
       "title": "Double Fine Revives Amnesia Fortnight After XBOX Split",
       "link": "https://insider-gaming.com/double-fine-amnesia-fortnight-xbox-split/",
@@ -24319,6 +24305,64 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/EWC-2026-Totem-949x633.webp",
       "base_description": "The 2026 Esports World Cup (EWC), the first one hosted outside Riyadh, reported record viewership and attendance numbers. Hosted in Paris throughout July and August across seven weeks of competition, EWC 2026 reached over 850 million viewers, with 440 million hours watched, an in"
+    },
+    {
+      "words": [
+        "bfx",
+        "defeats",
+        "hoseok",
+        "light"
+      ],
+      "at": "2026-08-24T11:21:41.423782+00:00",
+      "message_id": "1541407150973124680",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "BFX 'Light' Defeats T1 'Hoseok': \"Mental Coaching Helped\"",
+      "link": "https://www.invenglobal.com/articles/25072/bfx-light-defeats-t1-hoseok-mental-coaching-helped",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "BNK FearX 'Light' Kim Seon-jae defeated T1 'Hoseok' Choi Ho-seok with a set score of 3-1 in the 2026 FSL Summer Round 3 Final Stage on August 24 at the Jamsil DN Colosseum...."
+    },
+    {
+      "words": [
+        "blood",
+        "confirm",
+        "dawnwalker",
+        "devs",
+        "fps",
+        "launch",
+        "mode",
+        "performance"
+      ],
+      "at": "2026-08-24T11:21:41.423782+00:00",
+      "message_id": "1541407156044042281",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Blood of Dawnwalker Devs Confirm 60 FPS Performance Mode for Launch",
+      "link": "https://insider-gaming.com/blood-of-dawnwalker-devs-confirm-60-fps-performance-mode-for-launch/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Rebel Wolves have now confirmed that Blood of Dawnwalker will have a 60 FPS performance mode on launch day. The post Blood of Dawnwalker Devs Confirm 60 FPS Performance Mode for Launch appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "formerly"
+      ],
+      "at": "2026-08-24T11:21:41.423782+00:00",
+      "message_id": "1541407160729215082",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Nerfplz"
+      ],
+      "title": "Formerly OP #11: Old Darius",
+      "link": "https://www.nerfplz.com/2026/08/formerly-op-11-old-darius.html",
+      "color": 8141549,
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCJZRD3QDF5CiQn5RAtrcAu7rTvYIt5pfQHW6FSRhOBaqqnYJdDGxvPlgCb30oNri_d1QOTjsLpSVJtHuN2EW_qTGuuQDBIUPjoVOSL1BjhSL0VKWYvG2oIGqwJxSpssr3sgb_4BW1rySTIZdzv0dJRsXtxQ3D4lZWCSanrwf1hTYO1s9OjPSWUHEaY1Q/s72-c-rw/2026-08-24-darius-preview.jpg",
+      "base_description": "Riot rewrote one sentence of one tooltip five separate times across three years, and it still wasn't enough. Dunkmaster Darius, designed by Riot CertainlyT, was the first champion that designer released, and the one that made him notorious in the community for creating overpowere"
     }
   ]
 }
