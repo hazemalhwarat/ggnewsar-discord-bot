@@ -9157,7 +9157,8 @@
     "https://esports.gg/news/valorant/tyloo-vct-china-stage-2-champions/",
     "https://www.invenglobal.com/articles/25055/hoyoverse-korea-to-launch-genshin-impact-forest-project-creating-a-forest-from-travelers-steps",
     "https://www.invenglobal.com/articles/25054/kakao-games-enhances-shareholder-value-through-executive-stock-buybacks-and-corporate-initiatives",
-    "https://www.invenglobal.com/articles/25053/can-zeus-god-of-arrogance-become-a-competitive-mmorpg-for-everyone"
+    "https://www.invenglobal.com/articles/25053/can-zeus-god-of-arrogance-become-a-competitive-mmorpg-for-everyone",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFSTBKQ2puSkpNd0lnRmZoLXVKUzcwenY2UURRY0pOb2F4RUllaFlodUNHbXctUW1CMVMtQ1VmczJWMWFUOHMzaUZ3?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18196,7 +18197,8 @@
     "1da0be5162f0d4424d2c2662ee75aa91",
     "a8f54151801e0fd07e4dd9ba9aaff454",
     "89a24d6e4aafd359fbef9fac274e15ed",
-    "7a0341de5a3974fe64b39eff726dc68b"
+    "7a0341de5a3974fe64b39eff726dc68b",
+    "d4a5d32d5114d8b22358ac316c247acf"
   ],
   "transfers": {
     "pages": {
@@ -23899,6 +23901,29 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "©Com2uS“Is it possible to make a competitive MMORPG that everyone can enjoy?”The new MMORPG 'Zeus: God of Arrogance' (hereafter 'Zeus'), published by Com2uS and developed by AButton, reportedly began with this very question...."
+    },
+    {
+      "words": [
+        "attend",
+        "bin",
+        "cup",
+        "final",
+        "macron",
+        "mohammad",
+        "salman",
+        "world"
+      ],
+      "at": "2026-08-24T04:04:59.631594+00:00",
+      "message_id": "1541297247663296574",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Tunisia Esports"
+      ],
+      "title": "Mohammad Bin Salman, Macron attend Esports World Cup final - Roya News",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFSTBKQ2puSkpNd0lnRmZoLXVKUzcwenY2UURRY0pOb2F4RUllaFlodUNHbXctUW1CMVMtQ1VmczJWMWFUOHMzaUZ3?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Mohammad Bin Salman, Macron attend Esports World Cup final Roya News"
     }
   ]
 }
