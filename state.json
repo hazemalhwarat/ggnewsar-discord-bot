@@ -9158,7 +9158,9 @@
     "https://www.invenglobal.com/articles/25055/hoyoverse-korea-to-launch-genshin-impact-forest-project-creating-a-forest-from-travelers-steps",
     "https://www.invenglobal.com/articles/25054/kakao-games-enhances-shareholder-value-through-executive-stock-buybacks-and-corporate-initiatives",
     "https://www.invenglobal.com/articles/25053/can-zeus-god-of-arrogance-become-a-competitive-mmorpg-for-everyone",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFSTBKQ2puSkpNd0lnRmZoLXVKUzcwenY2UURRY0pOb2F4RUllaFlodUNHbXctUW1CMVMtQ1VmczJWMWFUOHMzaUZ3?oc=5"
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFSTBKQ2puSkpNd0lnRmZoLXVKUzcwenY2UURRY0pOb2F4RUllaFlodUNHbXctUW1CMVMtQ1VmczJWMWFUOHMzaUZ3?oc=5",
+    "https://www.invenglobal.com/articles/25056/valofe-ceo-purchases-additional-treasury-shares-as-executives-and-employees-join-in",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEZUOHIyWGhlMjdrRVJuV25hM0ZGbFMtNVVrVWxJa0FmdHdwdUlZZF92UnU3ZDlpR3BXNnF5TzJRenlCQnltUndSWngyNTJIUFpTRVdibVdzNVhxNEp2TXFMVEVLbjBnVHRLU3pDTW84elVDVEJjVGQwQlk0QnZkT19ELWlRV1dZZW1GZmhvM2J1cjN1ektF?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18198,7 +18200,9 @@
     "a8f54151801e0fd07e4dd9ba9aaff454",
     "89a24d6e4aafd359fbef9fac274e15ed",
     "7a0341de5a3974fe64b39eff726dc68b",
-    "d4a5d32d5114d8b22358ac316c247acf"
+    "d4a5d32d5114d8b22358ac316c247acf",
+    "d01584ed4bb2d4905d442dbd2875acc1",
+    "2972f8b1979c3721916db0b571b5701c"
   ],
   "transfers": {
     "pages": {
@@ -22393,26 +22397,6 @@
   "sent_stories": [
     {
       "words": [
-        "bestia",
-        "home",
-        "krü",
-        "send",
-        "sentinels"
-      ],
-      "at": "2026-08-23T05:01:33.173026+00:00",
-      "message_id": "1540949108599291988",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg"
-      ],
-      "title": "G2 and KRÜ send BESTIA and Sentinels home",
-      "link": "https://www.vlr.gg/742635/g2-and-kr-send-bestia-and-sentinels-home",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "G2 and KRÜ keep their playoff hopes alive."
-    },
-    {
-      "words": [
         "2026",
         "how",
         "international",
@@ -23904,6 +23888,53 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Mohammad Bin Salman, Macron attend Esports World Cup final Roya News"
+    },
+    {
+      "words": [
+        "additional",
+        "ceo",
+        "employees",
+        "executives",
+        "join",
+        "purchases",
+        "shares",
+        "treasury",
+        "valofe"
+      ],
+      "at": "2026-08-24T05:12:32.310412+00:00",
+      "message_id": "1541314245856075828",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "VALOFE CEO Purchases Additional Treasury Shares as Executives and Employees Join In",
+      "link": "https://www.invenglobal.com/articles/25056/valofe-ceo-purchases-additional-treasury-shares-as-executives-and-employees-join-in",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by VALOFE© VALOFEGlobal game publisher VALOFE (CEO Shin Jae-myung) announced on the 24th that following an earnings surprise in Q2, key executives and employees, including......"
+    },
+    {
+      "words": [
+        "2026",
+        "africa",
+        "classificació",
+        "cup",
+        "knockout",
+        "nations",
+        "qualifier",
+        "resultats"
+      ],
+      "at": "2026-08-24T05:12:32.310412+00:00",
+      "message_id": "1541314251346681937",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Nations Cup 2026"
+      ],
+      "title": "Resultats i classificació - Esports Nations Cup 2026 | Qualifier 1 - Africa - Knockout - Chess.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEZUOHIyWGhlMjdrRVJuV25hM0ZGbFMtNVVrVWxJa0FmdHdwdUlZZF92UnU3ZDlpR3BXNnF5TzJRenlCQnltUndSWngyNTJIUFpTRVdibVdzNVhxNEp2TXFMVEVLbjBnVHRLU3pDTW84elVDVEJjVGQwQlk0QnZkT19ELWlRV1dZZW1GZmhvM2J1cjN1ektF?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Resultats i classificació - Esports Nations Cup 2026 | Qualifier 1 - Africa - Knockout Chess.com"
     }
   ]
 }
