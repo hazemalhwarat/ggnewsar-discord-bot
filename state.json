@@ -9239,7 +9239,10 @@
     "https://europeangaming.eu/portal/biggest-gambling-brands-italy/",
     "https://dotesports.com/general/news/project-rx-fareidolia-reveal",
     "https://www.hotspawn.com/league-of-legends/news/lpl-split-3-playoffs-2026-preview",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGpBWDRDeEdWUGZJdF96OTU3Nk5Lc2dpbHZ2MzZOcXpPdklIQ1NXSC1aNlJQV1ZwdTZtOC1SLUdmc0NXeU84WnR2YmR0SE1uTzZKUi13TEctR0MzbTRhV0JMNnIyWG8zenF4Z3Y2QnFDX3BrMGZSNWtzYkJWQWRFcEFQWURaQjdELWZOX09B?oc=5"
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGpBWDRDeEdWUGZJdF96OTU3Nk5Lc2dpbHZ2MzZOcXpPdklIQ1NXSC1aNlJQV1ZwdTZtOC1SLUdmc0NXeU84WnR2YmR0SE1uTzZKUi13TEctR0MzbTRhV0JMNnIyWG8zenF4Z3Y2QnFDX3BrMGZSNWtzYkJWQWRFcEFQWURaQjdELWZOX09B?oc=5",
+    "https://www.invenglobal.com/articles/25078/how-perfectly-fitting-game-logos-are-made",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVJib1hkUmtCaVVRYlRvclV6QTNMUG5aemVRVW1reXpGVEVHY2diWGdUSTEyVlBxMWk4ZEVrQTVac2k4cjI5Q1ZUQUVpV1NYVHFsbGRiTVFkYW5wbWVLLWlrczBxOG9vc25aeEZuQnJRRzNDZVBIZ3MxRHZTMThpX1l3bUZxRWRWSUhUVlp5bzdoaVA1?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkOHRIWHNTREstVm9SdjVOSnBPQjhhM0lCVHN0alQxNFREQ3JXUEtESmhjbkZFRU5wWXF3Mi1jc3FSaVVKMjV0S3dLYkJVUDl4NUtISWlJVGRWSlkxTVlmUjJkeUZaRXh2VTRHSk1OajM2U18tcWc?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18358,7 +18361,10 @@
     "d1663ddfd79f07a0ba64bb540a8a0873",
     "28d3ef65f967b37e539a721d33935c5a",
     "d2d3792015d274477e36c475f927a4dd",
-    "9bb4127adfde40c006b08b7466d8f197"
+    "9bb4127adfde40c006b08b7466d8f197",
+    "49b68de0a829a911cf6f4d5d7373fc81",
+    "beb10ea4cb6059dff1a22560cc3e3ad4",
+    "ec5c30216ebf6f2cca7308ede55e34f4"
   ],
   "transfers": {
     "pages": {
@@ -22553,26 +22559,6 @@
   "sent_stories": [
     {
       "words": [
-        "amidst",
-        "balance",
-        "battles",
-        "fierce",
-        "maintained"
-      ],
-      "at": "2026-08-23T15:40:05.192319+00:00",
-      "message_id": "1541109785955405945",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Balance Maintained Amidst Fierce Battles: Key Highlights of the 10th Castle Siege",
-      "link": "https://www.invenglobal.com/articles/25038/balance-maintained-amidst-fierce-battles-key-highlights-of-the-10th-castle-siege",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "In the August 23 siege battle, the overall castle count distribution remained the same across all three major battlegrounds...."
-    },
-    {
-      "words": [
         "crown",
         "french",
         "host",
@@ -24452,6 +24438,74 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "PURE VS Misa Esports: 24.08.2026 at 19:30. Counter-Strike (CS2) ➥ Betting Tips, Stream, LiveScore, Results on EGW☕ EGamersWorld"
+    },
+    {
+      "words": [
+        "fitting",
+        "how",
+        "logos",
+        "made",
+        "perfectly"
+      ],
+      "at": "2026-08-24T15:55:15.404748+00:00",
+      "message_id": "1541475991036235829",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "How Perfectly Fitting Game Logos Are Made",
+      "link": "https://www.invenglobal.com/articles/25078/how-perfectly-fitting-game-logos-are-made",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©INVENWhere does a game's \"first impression\" come from?Naturally, the first things that come to mind are the logo representing the title and the key art encountered in storefronts......."
+    },
+    {
+      "words": [
+        "about",
+        "arabia",
+        "concerns",
+        "cup",
+        "gulf",
+        "intensifies",
+        "nations",
+        "postponement",
+        "saudi",
+        "sport"
+      ],
+      "at": "2026-08-24T15:55:15.404748+00:00",
+      "message_id": "1541475996622913539",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Nations Cup 2026"
+      ],
+      "title": "Postponement Of Saudi Arabia’s Esports Nations Cup Intensifies Concerns About Gulf Sport - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVJib1hkUmtCaVVRYlRvclV6QTNMUG5aemVRVW1reXpGVEVHY2diWGdUSTEyVlBxMWk4ZEVrQTVac2k4cjI5Q1ZUQUVpV1NYVHFsbGRiTVFkYW5wbWVLLWlrczBxOG9vc25aeEZuQnJRRzNDZVBIZ3MxRHZTMThpX1l3bUZxRWRWSUhUVlp5bzdoaVA1?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Postponement Of Saudi Arabia’s Esports Nations Cup Intensifies Concerns About Gulf Sport Yahoo Sports"
+    },
+    {
+      "words": [
+        "2026",
+        "cup",
+        "flcm0nesy",
+        "named",
+        "player",
+        "rated",
+        "top",
+        "world"
+      ],
+      "at": "2026-08-24T15:55:15.404748+00:00",
+      "message_id": "1541476001803145232",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "MENA esports transfer rumors (Google News bridge)"
+      ],
+      "title": "FLCm0NESY named top-rated player at Esports World Cup 2026 - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkOHRIWHNTREstVm9SdjVOSnBPQjhhM0lCVHN0alQxNFREQ3JXUEtESmhjbkZFRU5wWXF3Mi1jc3FSaVVKMjV0S3dLYkJVUDl4NUtISWlJVGRWSlkxTVlmUjJkeUZaRXh2VTRHSk1OajM2U18tcWc?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "FLCm0NESY named top-rated player at Esports World Cup 2026 Crypto Briefing"
     }
   ]
 }
