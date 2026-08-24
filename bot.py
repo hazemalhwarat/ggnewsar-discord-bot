@@ -963,6 +963,57 @@ def looks_like_live_result(title: str) -> bool:
     return False
 
 
+# ------------------------------------------------------------------
+# Contentless "TEAM VS TEAM" fixture stubs — added 2026-08-24.
+#
+# The official-site Google News bridges (valorantesports.com,
+# lolesports.com, ...) publish one page per scheduled match. Google News
+# treats each as an article, but the body is empty: the description just
+# repeats the matchup title. In Discord these show up as an endless wall
+# of "JDG VS TYL - VALORANT Esports / JDG VS TYL VALORANT Esports", with
+# zero actual news in them.
+#
+# looks_like_live_result() above only catches matchups that carry a
+# SCORE ("T1 2-0 DFM"). These score-less schedule/VOD stubs have no
+# number, so they walked straight through every gate. This helper closes
+# that hole WITHOUT risking real stories: it fires only when BOTH
+#   (1) the title, after stripping a trailing " - <Game> Esports" tail,
+#       is a bare "X vs Y" matchup and nothing else, AND
+#   (2) the description adds no real word beyond the title (only the game
+#       name / "esports" / feed boilerplate).
+# A real match writeup fails (1) (its title says more than "X vs Y") or
+# fails (2) (its description carries actual prose), so it is never
+# dropped here. Validated against the exact screenshot junk plus a set of
+# real-article cases before shipping.
+# ------------------------------------------------------------------
+_MATCHUP_TAIL_RE = re.compile(
+    r"\s*[-–—|:]\s*[\w .'’&]+?\be-?sports?\b\s*$", re.IGNORECASE
+)
+_MATCHUP_CORE_RE = re.compile(
+    r"^[\w.'’&]{1,20}(?:\s+[\w.'’&]{1,20}){0,2}\s+vs\.?\s+"
+    r"[\w.'’&]{1,20}(?:\s+[\w.'’&]{1,20}){0,2}$",
+    re.IGNORECASE,
+)
+_STUB_WORD_RE = re.compile(r"[a-z0-9\u0600-\u06ff]+")
+_STUB_FILLER_WORDS = {
+    "vs", "esports", "esport", "valorant", "cs2", "csgo", "lol", "league",
+    "of", "legends", "dota", "dota2", "rocket", "pubg", "mobile",
+    "overwatch", "the", "official", "via", "google", "news", "match",
+    "vod", "watch", "highlights", "game",
+}
+
+
+def is_contentless_matchup_stub(title: str, summary: str) -> bool:
+    """True for a bare 'TEAM VS TEAM' fixture page whose description adds
+    no real content beyond the title — a schedule/VOD stub, not news."""
+    core = _MATCHUP_TAIL_RE.sub("", (title or "").strip())
+    if not _MATCHUP_CORE_RE.match(core):
+        return False
+    title_words = set(_STUB_WORD_RE.findall((title or "").lower()))
+    summ_words = set(_STUB_WORD_RE.findall((summary or "").lower()))
+    return len(summ_words - title_words - _STUB_FILLER_WORDS) == 0
+
+
 def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict]:
     """Run RSS collection. Fetches all sources in parallel, gates for
     freshness/dedup, correlates matching stories across different
@@ -1034,6 +1085,14 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
                 seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
                 if stats["skip_live_result"] <= 15:
                     log.info(f"  filtered as live/direct result: {title!r} ({name})")
+                continue
+
+            if is_contentless_matchup_stub(title, summary):
+                stats["skip_matchup_stub"] += 1
+                seen_urls.add(link); state["urls"].append(link)
+                seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
+                if stats["skip_matchup_stub"] <= 15:
+                    log.info(f"  filtered as contentless matchup stub: {title!r} ({name})")
                 continue
 
             # Passes all gates so far. Mark seen IN MEMORY ONLY (this
