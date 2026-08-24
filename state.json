@@ -9254,7 +9254,12 @@
     "https://www.invenglobal.com/articles/25080/cd-projekt-red-officially-targets-2028-release-for-the-witcher-4",
     "https://dotesports.com/the-witcher/news/the-witcher-4-release-date-2028",
     "https://esports.gg/news/league-of-legends/first-look-at-caps-hall-of-legends-orianna-and-tristana-skins/",
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQU5GcHNUTmx5cGFzVXNBY2pHZGEtVDBaaGFrVUtOUTVDQzRqWFhLUFphZU5SSGowbzJvT1ZvZjNqd3ZjUDNyNVRROWZERUFZTzdHclJoV055Y0Zja2Y0dGNnOU9BX3RIdmlNUWZYYm5NZjdKZVJHSVl1X0lxeTJRRVNUVkQzeTY5ZEg5dUJsU3RvNjBJZ2s0dklYcVQtbUFhTXI5OHUzSHMwZlVYb1l4MlRSQzI3R3d5ckhQY2M3el9KLWM0VnZZTjFUU2k0VVBvaUF5UVV4eVA1aDh0TGxWck5sUVN3QkNQV2c?oc=5"
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQU5GcHNUTmx5cGFzVXNBY2pHZGEtVDBaaGFrVUtOUTVDQzRqWFhLUFphZU5SSGowbzJvT1ZvZjNqd3ZjUDNyNVRROWZERUFZTzdHclJoV055Y0Zja2Y0dGNnOU9BX3RIdmlNUWZYYm5NZjdKZVJHSVl1X0lxeTJRRVNUVkQzeTY5ZEg5dUJsU3RvNjBJZ2s0dklYcVQtbUFhTXI5OHUzSHMwZlVYb1l4MlRSQzI3R3d5ckhQY2M3el9KLWM0VnZZTjFUU2k0VVBvaUF5UVV4eVA1aDh0TGxWck5sUVN3QkNQV2c?oc=5",
+    "https://dotesports.com/rainbow-6/news/rainbow-6-operation-split-fire-release-date-content",
+    "https://esports.gg/guides/apex-legends/apex-legends-tier-list/",
+    "https://esportsinsider.com/2026/08/valorant-tier-2-exposed-vct-tier-1-teams-vulnerability",
+    "https://www.global-esports.news/call-of-duty/call-of-duty-modern-warfare-4-beta-puts-an-end-to-annoying-shader-compilation-on-pc/",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnE4MG9ubzVUc2k0MUhPXy15Ui13ZEdIMlFmbGhoR2NRM0VsT1E2S183VWVoY3pfOGZTVDlVNlFTeXFYcE1KX240NmlRbHVUdkItb19UVzh5aWhlYmp0V2V4RTNYU3c1ZzU1RzRXVlNpREFxMkVOd0J2dS01QjQ1RGZnZ2pKRnlNV2dZODBR?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18385,7 +18390,12 @@
     "ab01e2277ad1e899dfa00e90edf7249f",
     "ade26727a283a959fe4116688f1baedb",
     "df8ae5662d99fce7b72f27c4095a9a93",
-    "ce8849ad8eacb044b14153b8bc212cb0"
+    "ce8849ad8eacb044b14153b8bc212cb0",
+    "00d75f773170800986c1afac8734ca9e",
+    "d59e3ede84bc2553b2e752e2cc5ed010",
+    "355689840da6d09d208987ce37d96bf9",
+    "ccce5d29acf65d3463828e8606edcec4",
+    "8a5c28e330c9327574d2d7515fc51d97"
   ],
   "transfers": {
     "pages": {
@@ -22580,141 +22590,6 @@
   "sent_stories": [
     {
       "words": [
-        "2026",
-        "all",
-        "cs2",
-        "dates",
-        "major",
-        "tournaments"
-      ],
-      "at": "2026-08-23T18:19:18.905539+00:00",
-      "message_id": "1541149856570150995",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "All CS2 tournaments and Major dates in 2026",
-      "link": "https://esports.gg/news/counter-strike-2/schedule-cs2-events-2026/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Many great tournaments happen this year! Check out the competitive calendar and not miss big Counter-Strike 2 events."
-    },
-    {
-      "words": [
-        "champions",
-        "reaches",
-        "shanghai",
-        "stage",
-        "tyloo",
-        "valorant",
-        "vct",
-        "wins"
-      ],
-      "at": "2026-08-23T18:19:18.905539+00:00",
-      "message_id": "1541149861804773499",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "TYLOO wins VCT CN Stage 2, reaches VALORANT Champions Shanghai",
-      "link": "https://www.hotspawn.com/valorant/news/tyloo-wins-vct-cn-stage-2",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/TYLOO-SiuFatBB-at-VCT-China-Stage-2.jpg",
-      "base_description": "TYLOO is finally a champion. The organization defeated JD Gaming 3-1 in the VCT CN 2026 Stage 2 grand final, securing not just its first regional title but its first-ever trip to VALORANT Champions, arriving in Shanghai on home soil no less. For a team that had never finished bet"
-    },
-    {
-      "words": [
-        "can",
-        "donk",
-        "improve",
-        "lot",
-        "see",
-        "still",
-        "things"
-      ],
-      "at": "2026-08-23T18:56:56.862603+00:00",
-      "message_id": "1541159327056920650",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "donk: \"I still see a lot of things that I can improve\"",
-      "link": "https://www.hltv.org/news/45379/donk-i-still-see-a-lot-of-things-that-i-can-improve",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/hqiBMQHofp3PjjTiJnfrOP.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=ea9c866b6daff88ce2d49ad3b7928507",
-      "base_description": "Despite his MVP-winning form and Spirit winning the Esports World Cup title, donk still feels like both have ways to go."
-    },
-    {
-      "words": [
-        "barcelona",
-        "bbl",
-        "downs",
-        "field",
-        "fire",
-        "flux",
-        "liquid",
-        "seal",
-        "shocks"
-      ],
-      "at": "2026-08-23T18:56:56.862603+00:00",
-      "message_id": "1541159332463513671",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg"
-      ],
-      "title": "Liquid downs EP and Fire Flux shocks BBL to seal Barcelona field",
-      "link": "https://www.vlr.gg/742967/liquid-downs-ep-and-fire-flux-shocks-bbl-to-seal-barcelona-field",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Fire Flux is Tier 2's last stand, and what a force it has been."
-    },
-    {
-      "words": [
-        "000",
-        "150",
-        "300",
-        "copies",
-        "denshattack",
-        "hits",
-        "players",
-        "sells"
-      ],
-      "at": "2026-08-23T18:56:56.862603+00:00",
-      "message_id": "1541159337735753759",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Denshattack! Sells 150,000 Copies, Hits 300,000 Players",
-      "link": "https://insider-gaming.com/denshattack-300000-players-worldwide/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Denshattack! has reached more than 300,000 players and sold over 150,000 copies worldwide after its July release on PC and consoles. The post Denshattack! Sells 150,000 Copies, Hits 300,000 Players appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "2026",
-        "australia",
-        "fifae",
-        "finals",
-        "jordan",
-        "oman",
-        "qualify"
-      ],
-      "at": "2026-08-23T18:56:56.862603+00:00",
-      "message_id": "1541159342764462091",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Oman Esports"
-      ],
-      "title": "Australia, Jordan, and Oman qualify for the FIFAe Finals 2026 - Sheep Esports",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemoyZlN6aFVoOHFIV1E3N3JOQlRUUlo5TXdqdjFvM2ZfZjR6SUNFejJ1ai1tM0ljOG5UMXFxc1FpczZNNHZ3VWdTRUM5SFFieEpXSHJubkVqbWpmX043Uml6eWc5WjdYczJJaERhRnNqaDNCZndlMmxQT0N5ZXNER2cyRG03V0FmZXE3WEhxREpXTEU3amQ1b3pYem5ULU9jT2xlQ1FHbnFIVlU?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Australia, Jordan, and Oman qualify for the FIFAe Finals 2026 Sheep Esports"
-    },
-    {
-      "words": [
         "banjo",
         "details",
         "evercade",
@@ -24589,6 +24464,97 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Macron Welcomes Saudi Crown Prince Mohammed bin Salman to Paris for Talks on Regional Security NewsCord"
+    },
+    {
+      "words": [
+        "apex",
+        "legends",
+        "list",
+        "season",
+        "tier"
+      ],
+      "at": "2026-08-24T18:59:16.166387+00:00",
+      "message_id": "1541522299746910309",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Apex Legends Season 30 tier list: Every legend ranked S to D",
+      "link": "https://esports.gg/guides/apex-legends/apex-legends-tier-list/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Here's what Apex Legends players should select based on whether they're duking it out in general matches or competitive play."
+    },
+    {
+      "words": [
+        "chance",
+        "exposed",
+        "gave",
+        "riot",
+        "tier",
+        "valorant",
+        "vct",
+        "vulnerability"
+      ],
+      "at": "2026-08-24T18:59:16.166387+00:00",
+      "message_id": "1541522305308434555",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Insider"
+      ],
+      "title": "Riot gave Tier 2 VALORANT a chance and it exposed VCT Tier 1 teams’ vulnerability",
+      "link": "https://esportsinsider.com/2026/08/valorant-tier-2-exposed-vct-tier-1-teams-vulnerability",
+      "color": 8141549,
+      "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/55477365490_ae44427281_6k-large.jpg",
+      "base_description": "Ever since Riot Games introduced the partnership system in VALORANT esports, Tier 2 has existed in an uncomfortable position. It was important enough to be called the foundation of Tier 1, but it rarely received enough spotlight, investment, or care to sustain itself. As a result"
+    },
+    {
+      "words": [
+        "annoying",
+        "beta",
+        "call",
+        "compilation",
+        "duty",
+        "end",
+        "modern",
+        "puts",
+        "shader",
+        "warfare"
+      ],
+      "at": "2026-08-24T18:59:16.166387+00:00",
+      "message_id": "1541522310677401652",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Global Esports News CoD"
+      ],
+      "title": "Call of Duty: Modern Warfare 4 – Beta Puts an End to Annoying Shader Compilation on PC",
+      "link": "https://www.global-esports.news/call-of-duty/call-of-duty-modern-warfare-4-beta-puts-an-end-to-annoying-shader-compilation-on-pc/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Infinity Ward resolves two long-standing PC issues in CoD MW4. The beta preloads shaders in the background and drastically reduces annoying restarts after updates. The developers of Call of Duty: Modern Warfare 4—Infinity Ward and co-developer Beenox—have revealed the remaining d"
+    },
+    {
+      "words": [
+        "dazn",
+        "korea",
+        "lebanon",
+        "live",
+        "online",
+        "republic",
+        "stream",
+        "watch"
+      ],
+      "at": "2026-08-24T18:59:16.166387+00:00",
+      "message_id": "1541522316612083814",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Lebanon Esports"
+      ],
+      "title": "Watch Lebanon vs. Korea Republic Live Stream Online | DAZN US - DAZN",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnE4MG9ubzVUc2k0MUhPXy15Ui13ZEdIMlFmbGhoR2NRM0VsT1E2S183VWVoY3pfOGZTVDlVNlFTeXFYcE1KX240NmlRbHVUdkItb19UVzh5aWhlYmp0V2V4RTNYU3c1ZzU1RzRXVlNpREFxMkVOd0J2dS01QjQ1RGZnZ2pKRnlNV2dZODBR?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Watch Lebanon vs. Korea Republic Live Stream Online | DAZN US DAZN"
     }
   ]
 }
