@@ -9248,7 +9248,13 @@
     "https://www.hotspawn.com/league-of-legends/news/caps-hall-of-legends-skins",
     "https://www.nerfplz.com/2026/10/lol-gold-explained-10-ways-you-get-paid.html",
     "https://www.vlr.gg/743747/riot-unveils-gc-pacific-format-and-bracket",
-    "https://www.hltv.org/news/45374/hall-of-fame-map-gets-an-update-for-the-class-of-2025"
+    "https://www.hltv.org/news/45374/hall-of-fame-map-gets-an-update-for-the-class-of-2025",
+    "https://stealthoptional.com/article/fastest-players-in-fc-27-top-50-pace-ratings-ranking",
+    "https://stealthoptional.com/article/fastest-way-to-complete-the-pre-season-catarina-macrio-objective-in-fc-26",
+    "https://www.invenglobal.com/articles/25080/cd-projekt-red-officially-targets-2028-release-for-the-witcher-4",
+    "https://dotesports.com/the-witcher/news/the-witcher-4-release-date-2028",
+    "https://esports.gg/news/league-of-legends/first-look-at-caps-hall-of-legends-orianna-and-tristana-skins/",
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQU5GcHNUTmx5cGFzVXNBY2pHZGEtVDBaaGFrVUtOUTVDQzRqWFhLUFphZU5SSGowbzJvT1ZvZjNqd3ZjUDNyNVRROWZERUFZTzdHclJoV055Y0Zja2Y0dGNnOU9BX3RIdmlNUWZYYm5NZjdKZVJHSVl1X0lxeTJRRVNUVkQzeTY5ZEg5dUJsU3RvNjBJZ2s0dklYcVQtbUFhTXI5OHUzSHMwZlVYb1l4MlRSQzI3R3d5ckhQY2M3el9KLWM0VnZZTjFUU2k0VVBvaUF5UVV4eVA1aDh0TGxWck5sUVN3QkNQV2c?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18375,7 +18381,11 @@
     "4a1f2e5597b666ecfb2381ab5dff211d",
     "7d950dc5716d677ed5480cb651e39666",
     "5af3ff03375507ca9b088d6debfe4bd5",
-    "619b8010f38a03fcb387e1d5cf8926c4"
+    "619b8010f38a03fcb387e1d5cf8926c4",
+    "ab01e2277ad1e899dfa00e90edf7249f",
+    "ade26727a283a959fe4116688f1baedb",
+    "df8ae5662d99fce7b72f27c4095a9a93",
+    "ce8849ad8eacb044b14153b8bc212cb0"
   ],
   "transfers": {
     "pages": {
@@ -22570,30 +22580,6 @@
   "sent_stories": [
     {
       "words": [
-        "best",
-        "close",
-        "combat",
-        "iso",
-        "loadout",
-        "modern",
-        "nightshade",
-        "range",
-        "warfare"
-      ],
-      "at": "2026-08-23T17:36:27.935616+00:00",
-      "message_id": "1541139073463492720",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "Best ISO Nightshade loadout in Modern Warfare 4 for close-range combat",
-      "link": "https://dotesports.com/call-of-duty/guides/best-iso-nightshade-loadout-mw4",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/Best_Iso_Nightshade_loadout_MW4.webp",
-      "base_description": "One of the best close-range weapons."
-    },
-    {
-      "words": [
         "address",
         "competition",
         "directors",
@@ -24576,6 +24562,54 @@
       "color": 8141549,
       "image_url": "https://img-cdn.hltv.org/gallerypicture/Y3M8iZONpUSZ9TUucZyHCW.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=155664db03036ba7deab623f47e6b994",
       "base_description": "The map now has three new challenges for the players inducted into the Hall in 2025."
+    },
+    {
+      "words": [
+        "2028",
+        "looking",
+        "projekt",
+        "red",
+        "release",
+        "witcher"
+      ],
+      "at": "2026-08-24T17:46:22.395225+00:00",
+      "message_id": "1541503954998005784",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "CD Projekt RED is looking to release The Witcher 4 in 2028",
+      "link": "https://dotesports.com/the-witcher/news/the-witcher-4-release-date-2028",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/sfasfasf.png",
+      "base_description": "Ciri’s new saga is still two years away."
+    },
+    {
+      "words": [
+        "bin",
+        "crown",
+        "macron",
+        "mohammed",
+        "paris",
+        "prince",
+        "regional",
+        "salman",
+        "saudi",
+        "security",
+        "talks",
+        "welcomes"
+      ],
+      "at": "2026-08-24T17:46:22.395225+00:00",
+      "message_id": "1541503960999927932",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Syria Esports"
+      ],
+      "title": "Macron Welcomes Saudi Crown Prince Mohammed bin Salman to Paris for Talks on Regional Security - NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQU5GcHNUTmx5cGFzVXNBY2pHZGEtVDBaaGFrVUtOUTVDQzRqWFhLUFphZU5SSGowbzJvT1ZvZjNqd3ZjUDNyNVRROWZERUFZTzdHclJoV055Y0Zja2Y0dGNnOU9BX3RIdmlNUWZYYm5NZjdKZVJHSVl1X0lxeTJRRVNUVkQzeTY5ZEg5dUJsU3RvNjBJZ2s0dklYcVQtbUFhTXI5OHUzSHMwZlVYb1l4MlRSQzI3R3d5ckhQY2M3el9KLWM0VnZZTjFUU2k0VVBvaUF5UVV4eVA1aDh0TGxWck5sUVN3QkNQV2c?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Macron Welcomes Saudi Crown Prince Mohammed bin Salman to Paris for Talks on Regional Security NewsCord"
     }
   ]
 }
