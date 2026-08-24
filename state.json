@@ -9178,7 +9178,13 @@
     "https://www.invenglobal.com/articles/25065/shift-up-unveils-stellar-blade-switch-2-trailer",
     "https://www.invenglobal.com/articles/25063/olympus-opens-its-gates-zeus-god-of-arrogance-launches-on-august-26",
     "https://esports.gg/guides/roblox/crane-steal-an-egg/",
-    "https://europeangaming.eu/portal/press-releases/2026/08/24/213025/bf-games-raiders-of-the-east-slot/"
+    "https://europeangaming.eu/portal/press-releases/2026/08/24/213025/bf-games-raiders-of-the-east-slot/",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNm1OMlVGQVRnTElrNEpkMFI4a1ZTN0NRZV9iOGUycmt2ME5teFcxSkU2bWVSR1hjS2xnd1ZDRDlqTjdWNzlxZFhmMUNnZW1JakZDc2RJV2dqVlJ2ODBMSzd5aEZ5YjdIa1BabEx3MVZyRXVld09Ec1Q0UzZ6SUo5SlN0dXpwbFQ3R1VMWEYtNEhWRmFSbmNqQVJ6UllzYkU5NG9yTy0yd3h6cFE?oc=5",
+    "https://www.invenglobal.com/articles/25066/2026-vct-pacific-stage-2-krx-ns-and-t1-join-playoffs",
+    "https://www.invenglobal.com/articles/25067/nexon-unveils-season-4-moonrise-plans-at-sudden-attack-21st-anniversary-showcase",
+    "https://dotesports.com/call-of-duty/guides/level-up-weapons-fast-modern-warfare-4",
+    "https://gameriv.com/gta-6-leak-predictor-asking-for-crypto-donations-sparks-claims-the-whole-thing-was-staged/",
+    "https://esports.gg/guides/roblox/mini-tusks-blox-fruits/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18237,7 +18243,12 @@
     "7c550ebadc42b839b9b8926e15561bac",
     "48c1c3ad1185a557fcb79af1cb4ac1f6",
     "6aa3b4b1197eff760bcf6c2d04b00fab",
-    "b6a504072faa6353c551aeb609e5f066"
+    "b6a504072faa6353c551aeb609e5f066",
+    "f6da468b522451a845c66c42ad130346",
+    "0eafcf5aadcd26bd5e46f2e720111f61",
+    "6e5d095fe4d1c3626188bf3e276d9972",
+    "06322ac561a043990103b81cea639287",
+    "c4a08317ec0bc81fb2c6a388e167adbb"
   ],
   "transfers": {
     "pages": {
@@ -22432,53 +22443,6 @@
   "sent_stories": [
     {
       "words": [
-        "1169",
-        "answers",
-        "august",
-        "connections",
-        "hints",
-        "nyt",
-        "sunday",
-        "today"
-      ],
-      "at": "2026-08-23T08:01:35.250479+00:00",
-      "message_id": "1540994416762687500",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "NYT Connections Hints Today (#1169)—Answers for Sunday, August 23",
-      "link": "https://insider-gaming.com/nyt-connections-hints-solutions-august-23-1169/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Welcome to another NYT Connections guide! In this handy walkthrough, you'll find the best NYT Connections hints, answers, and tips anywhere. The post NYT Connections Hints Today (#1169)—Answers for Sunday, August 23 appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "cyberleek",
-        "google",
-        "growing",
-        "gta",
-        "hunt",
-        "leaker",
-        "take",
-        "targets",
-        "two"
-      ],
-      "at": "2026-08-23T08:01:35.250479+00:00",
-      "message_id": "1540994437927403623",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GameRiv"
-      ],
-      "title": "Take-Two Targets X and Google in Growing Hunt for GTA 6 Leaker CyberLeek",
-      "link": "https://gameriv.com/take-two-targets-x-and-google-in-growing-hunt-for-gta-6-leaker-cyberleek/",
-      "color": 8141549,
-      "image_url": "https://gameriv.com/wp-content/uploads/2026/08/GTA-6-CYBERLEEK-offers-advertisements.jpg",
-      "base_description": "The GTA 6 leak situation has taken another major legal turn. Take-Two Interactive has filed new requests in the Southern District of New York seeking DMCA subpoenas aimed at uncovering identifying information connected to the people behind the recent Grand Theft Auto VI leaks. Th"
-    },
-    {
-      "words": [
         "donk",
         "hungry",
         "win"
@@ -22909,7 +22873,8 @@
       "message_id": "1541097820252282882",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Esports.gg"
+        "Esports.gg",
+        "Inven Global (English)"
       ],
       "title": "Paper Rex, Gen.G, and DRX clash for Champions 2026 spots in VCT Pacific Stage 2 playoffs",
       "link": "https://esports.gg/news/valorant/vct-2026-pacific-stage-2-playoffs/",
@@ -24079,6 +24044,99 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Weekly TOP Game Rankingsi1Genshin Impact▲22Zeus: God of Arrogance–3Onimusha: Way of the Sword▲14Marvel's WolverineNEW5Dragon Sword: Awakening–6Nioh 3 - Keian HellwardNEW7NBA 2K27NE......"
+    },
+    {
+      "words": [
+        "21st",
+        "anniversary",
+        "attack",
+        "moonrise",
+        "nexon",
+        "plans",
+        "season",
+        "showcase",
+        "sudden",
+        "unveils"
+      ],
+      "at": "2026-08-24T08:28:27.145942+00:00",
+      "message_id": "1541363554156937218",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Nexon Unveils Season 4 'Moonrise' Plans at Sudden Attack 21st Anniversary Showcase",
+      "link": "https://www.invenglobal.com/articles/25067/nexon-unveils-season-4-moonrise-plans-at-sudden-attack-21st-anniversary-showcase",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Press Release - Nexon © NexonNexon (Co-CEOs Dae-hyun Kang and Jung-wook Kim) announced on August 24 that it held a Director Showcase and birthday party on August 23 to celebrate th......"
+    },
+    {
+      "words": [
+        "beta",
+        "fast",
+        "how",
+        "level",
+        "mw4",
+        "weapons"
+      ],
+      "at": "2026-08-24T08:28:27.145942+00:00",
+      "message_id": "1541363559823577179",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "How to level up weapons fast in MW4 beta",
+      "link": "https://dotesports.com/call-of-duty/guides/level-up-weapons-fast-modern-warfare-4",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/level-up-weapons-fast-MW4.webp",
+      "base_description": "Ideal methods listed here."
+    },
+    {
+      "words": [
+        "asking",
+        "claims",
+        "crypto",
+        "donations",
+        "gta",
+        "leak",
+        "predictor",
+        "sparks",
+        "staged",
+        "thing",
+        "whole"
+      ],
+      "at": "2026-08-24T08:28:27.145942+00:00",
+      "message_id": "1541363565338820678",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "GTA 6 ‘Leak Predictor’ Asking for Crypto Donations Sparks Claims the Whole Thing Was Staged",
+      "link": "https://gameriv.com/gta-6-leak-predictor-asking-for-crypto-donations-sparks-claims-the-whole-thing-was-staged/",
+      "color": 8141549,
+      "image_url": "https://gameriv.com/wp-content/uploads/2026/08/GTA-6-leak-take-two-lawsuit.jpg",
+      "base_description": "The strange story surrounding a Reddit user who appeared to predict the latest GTA 6 leaks has taken another turn. The person now identifying themselves as Reddit user PilotX1970 is promoting cryptocurrency addresses and asking followers for donations, adding fresh skepticism to "
+    },
+    {
+      "words": [
+        "blox",
+        "farm",
+        "fruits",
+        "how",
+        "mini",
+        "tusks"
+      ],
+      "at": "2026-08-24T08:28:27.145942+00:00",
+      "message_id": "1541363570930094163",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "How to farm Mini Tusks in Blox Fruits",
+      "link": "https://esports.gg/guides/roblox/mini-tusks-blox-fruits/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Mini Tusks are Third Sea items required for crafting several swords in the game."
     }
   ]
 }
