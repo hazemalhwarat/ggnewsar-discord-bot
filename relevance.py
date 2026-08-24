@@ -202,6 +202,85 @@ def classify_keyword(text: str) -> str:
     return "ambiguous"
 
 
+# ------------------------------------------------------------
+# 6) GAME-CONTENT noise — added 2026-08-24 per Hazem's rule:
+#    GGNewsAR is an ESPORTS wire, not a games wire. Content about the
+#    game itself (patch notes, meta/balance changes, new skins/agents,
+#    battle passes, release dates, reviews, guides, tier lists, cosplay,
+#    fan art) is NOT wanted — UNLESS the item also ties to the
+#    competitive/pro scene, a tournament, an org, or a person's move
+#    (incl. streamers/creators signing with an org). Those exceptions are
+#    exactly the KNOWN_ENTITIES / WEAK_CONTEXT / business-signal lists.
+#
+#    Design notes (kept deliberately conservative per "when borderline,
+#    lean toward coverage"):
+#      - The term list is only UNAMBIGUOUS game-content wording. Words
+#        that overlap with competitive news (leak, season, new map,
+#        collab/crossover, bare "update"/"event") are intentionally
+#        EXCLUDED so roster leaks, competitive seasons, map-pool changes
+#        and brand collabs are never caught here.
+#      - The gate fires ONLY when a game-content term is present AND no
+#        pro/competitive/business/person-org signal is present. So a
+#        normal esports story (which always carries an org, tournament,
+#        roster, transfer or sponsorship signal) is never dropped.
+# ------------------------------------------------------------
+GAME_CONTENT_TERMS = [
+    "patch notes", "patch note", " patch ", "hotfix", "balance change",
+    "balance patch", "buff", "nerf", "new agent", "new champion",
+    "new hero", "new operator", "new legend", "new skin", "skins",
+    "skin bundle", "cosmetic", "battle pass", "battlepass", "season pass",
+    "gameplay trailer", "launch trailer", "reveal trailer",
+    "cinematic trailer", "release date", "launch date", "early access",
+    "open beta", "closed beta", "playtest", "game review", "tier list",
+    "best settings", "best sensitivity", "best loadout", "best build",
+    "settings for", "max fps", "fps boost", "boost fps", "graphics settings",
+    "config guide", "sensitivity settings", "beginner guide",
+    "beginner's guide", "how to unlock", "how to get", "how to complete",
+    "walkthrough", "dlc", "expansion pack", "new game mode",
+    "limited time mode", "microtransaction", "wallpaper", "fan art",
+    "fanart", "cosplay",
+    # Arabic
+    "باتش", "تحديث اللعبة", "تغييرات التوازن", "بطل جديد", "عميل جديد",
+    "شخصية جديدة", "سكن", "سكنات", "بطاقة الموسم", "بطاقة القتال",
+    "عرض الجيمبلاي", "العرض الدعائي", "موعد الإصدار", "تاريخ الإصدار",
+    "النسخة التجريبية", "مراجعة اللعبة", "دليل المبتدئين", "أفضل إعدادات",
+    "وضع لعب جديد", "توسعة", "حزمة سكنات", "خلفية", "كوسبلاي",
+]
+
+# Extra "keep" signals beyond KNOWN_ENTITIES + WEAK_CONTEXT: business
+# (sponsorship/investment) and person-org ties (incl. streamers signing
+# with an org — Hazem: "anyone signed with an esports org is in scope").
+EXTRA_KEEP_SIGNAL = [
+    "sponsor", "sponsorship", "partnership", "partner with", "brand ambassador",
+    "investment", "acquisition", "acquires", "signs with", "joins", "joining",
+    "parts ways", "academy", "competitive", "scrim", "pro player", "pro scene",
+    "رعاية", "رعايات", "شراكة", "شراكات", "راعي", "استثمار", "صفقة", "سفير",
+    "انضم", "انضمام", "أكاديمية", "احتراف", "تنافسي",
+]
+
+_GAME_CONTENT_TERMS = [t.lower() for t in GAME_CONTENT_TERMS]
+_KEEP_SIGNAL = _KNOWN_ENTITIES + _WEAK_CONTEXT_TERMS + [t.lower() for t in EXTRA_KEEP_SIGNAL]
+
+
+def is_game_content_noise(text: str) -> bool:
+    """True if the item is about the GAME itself (patch/meta/skins/launch/
+    review/guide/cosplay) with NO tie to the competitive scene, a
+    tournament, an org, or a person's org move. Such items are outside
+    GGNewsAR's esports-only scope and should be dropped.
+
+    Returns False (i.e. keep) for anything that isn't game content, and
+    for game content that DOES carry a pro/competitive/business/person-org
+    signal (e.g. a patch that shifts the VCT meta, an agent banned from
+    pro play, a streamer signing with an org).
+    """
+    t = _norm(text)
+    if not any(g in t for g in _GAME_CONTENT_TERMS):
+        return False  # not game content — never our business to drop here
+    if any(k in t for k in _KEEP_SIGNAL):
+        return False  # game content, but tied to the pro/esports scene — keep
+    return True       # pure game content, no esports tie — drop
+
+
 if __name__ == "__main__":
     # Quick manual sanity checks
     tests = [
