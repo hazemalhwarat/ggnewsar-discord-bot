@@ -9167,7 +9167,11 @@
     "https://www.invenglobal.com/articles/25060/kakao-games-officially-launches-casual-brain-training-game-ohneulduhodoo",
     "https://www.invenglobal.com/articles/25059/ncs-time-takers-to-run-steam-playtest-starting-september-5",
     "https://www.invenglobal.com/articles/25058/nexon-games-confirms-official-title-of-project-rx-as-pareidolia",
-    "https://www.invenglobal.com/articles/25057/our-protagonist-has-changed-fable-gamescom-2026-teaser-trailer-released"
+    "https://www.invenglobal.com/articles/25057/our-protagonist-has-changed-fable-gamescom-2026-teaser-trailer-released",
+    "https://www.invenglobal.com/articles/25062/ponos-launches-crowdfunding-for-the-battle-cats-13th-anniversary-merch-in-korea",
+    "https://www.invenglobal.com/articles/25061/taiwans-july-game-market-heated-up-by-classic-boom-and-subculture-festival",
+    "https://www.vlr.gg/743646/g2-and-eg-earn-playoff-spots-over-envy-and-kr",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2Z5R2ItOXB3OVNjRENrUmFJaE5tQUphMVI1RHMzTTBZNTBhRWptWGVNSmVhdVN1cFU1THVGcVNHeTcwa3o3WUNPVnAtdEhxUHBFam1nek12cGVXbmpGYkw2ckw1WWdZN2k0NkZOSlJsNjVjRFo0c2JFZkh1dEhEQVVHMWwtMkI2dzdkd0VhZ0trNXF4blQ2cWxpT2Y3enVMdFRaWVU3clJ1SEdiT0sw?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18216,7 +18220,11 @@
     "b3968bdebb9fcb4bd803bc7b224a6ebe",
     "2c9312086207bc9f35b5539bc3a11dae",
     "95b5088834e2c6e55e4dc6862f498688",
-    "409259c4105002398d8a56dfe29d78ce"
+    "409259c4105002398d8a56dfe29d78ce",
+    "ad70fa034ce7829027161c04ef7e1a6f",
+    "bd104422092badd43324fab272fc6807",
+    "a8eae26878668cb5af041fcdb32901f7",
+    "48ee6dc1bdba65e0c7c847188c6e1ff5"
   ],
   "transfers": {
     "pages": {
@@ -23996,6 +24004,99 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "©NCNC (co-CEOs Kim Taek-jin, Park Byung-moo) announced on August 24 that its time survival shooter TIME TAKERS will run a playtest on the global gaming platform Steam for a total of 72 hours, from 2:00 a.m...."
+    },
+    {
+      "words": [
+        "13th",
+        "anniversary",
+        "battle",
+        "cats",
+        "crowdfunding",
+        "korea",
+        "launches",
+        "merch",
+        "ponos"
+      ],
+      "at": "2026-08-24T06:41:17.502233+00:00",
+      "message_id": "1541336581401743401",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Ponos Launches Crowdfunding for The Battle Cats 13th Anniversary Merch in Korea",
+      "link": "https://www.invenglobal.com/articles/25062/ponos-launches-crowdfunding-for-the-battle-cats-13th-anniversary-merch-in-korea",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©PonosPonos (CEO Yorikatsu Tsujiko) has launched an original merchandise crowdfunding project dedicated to Korean fans to celebrate the 13th anniversary of its mobile tower defense......"
+    },
+    {
+      "words": [
+        "boom",
+        "classic",
+        "festival",
+        "heated",
+        "july",
+        "market",
+        "subculture",
+        "taiwan"
+      ],
+      "at": "2026-08-24T06:41:17.502233+00:00",
+      "message_id": "1541336586296369244",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Taiwan's July Game Market Heated Up by Classic Boom and Subculture Festival",
+      "link": "https://www.invenglobal.com/articles/25061/taiwans-july-game-market-heated-up-by-classic-boom-and-subculture-festival",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "※ Inven delivers a monthly Taiwan game market report. Take a look at the latest news from the increasingly important Taiwanese gaming market at a glance...."
+    },
+    {
+      "words": [
+        "earn",
+        "envy",
+        "krü",
+        "over",
+        "playoff",
+        "spots"
+      ],
+      "at": "2026-08-24T06:41:17.502233+00:00",
+      "message_id": "1541336591518269482",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "VLR.gg"
+      ],
+      "title": "G2 and EG earn playoff spots over ENVY and KRÜ",
+      "link": "https://www.vlr.gg/743646/g2-and-eg-earn-playoff-spots-over-envy-and-kr",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "G2 and EG seize the final playoff slots in Americas."
+    },
+    {
+      "words": [
+        "2026",
+        "cup",
+        "group",
+        "overview",
+        "partnership",
+        "saudi",
+        "shares",
+        "stc",
+        "successful",
+        "world"
+      ],
+      "at": "2026-08-24T06:41:17.502233+00:00",
+      "message_id": "1541336596559699989",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Business & Sponsorships (Google News bridge)"
+      ],
+      "title": "Saudi’s stc group shares overview of successful partnership with Esports World Cup 2026 - Campaign Middle East",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2Z5R2ItOXB3OVNjRENrUmFJaE5tQUphMVI1RHMzTTBZNTBhRWptWGVNSmVhdVN1cFU1THVGcVNHeTcwa3o3WUNPVnAtdEhxUHBFam1nek12cGVXbmpGYkw2ckw1WWdZN2k0NkZOSlJsNjVjRFo0c2JFZkh1dEhEQVVHMWwtMkI2dzdkd0VhZ0trNXF4blQ2cWxpT2Y3enVMdFRaWVU3clJ1SEdiT0sw?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Saudi’s stc group shares overview of successful partnership with Esports World Cup 2026 Campaign Middle East"
     }
   ]
 }
