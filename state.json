@@ -9356,7 +9356,13 @@
     "https://insider-gaming.com/rog-xbox-ally-x20-releases-october-preorders-now/",
     "https://insider-gaming.com/bohemia-arma-reforger-failure-disappointed-them/",
     "https://gameriv.com/arc-raiders-warns-players-your-account-can-be-banned-if-someone-else-cheats-on-it/",
-    "https://europeangaming.eu/portal/press-releases/2026/08/25/213142/hub88-delulu-gaming-content-deal/"
+    "https://europeangaming.eu/portal/press-releases/2026/08/25/213142/hub88-delulu-gaming-content-deal/",
+    "https://www.hltv.org/news/45383/short-news-week-34",
+    "https://insider-gaming.com/arma-4-bohemia-single-player-dna/",
+    "https://www.invenglobal.com/articles/25107/how-to-revive-a-franchise-keep-what-you-must-protect-and-change-everything-else",
+    "https://www.invenglobal.com/articles/25106/subnautica-2-developers-reveal-the-rule-of-thirds-for-sequels",
+    "https://www.hltv.org/news/45384/blast-open-porto-teams-format-schedule-prizes-talent-fantasy",
+    "https://insider-gaming.com/gta-6-discord-subpoena/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18586,7 +18592,12 @@
     "a6df9d91d722ecf8bdb7102ba363fc9c",
     "e1a512fa8a8a6e35451a927b2cebd34f",
     "5d0df08a340b0c1aa9d9ee4a75226dd0",
-    "8cee6678fbbe972fd513951c06c727ed"
+    "8cee6678fbbe972fd513951c06c727ed",
+    "a874be037452e802fee3d31365a684d0",
+    "9a256c4e2430e562b8063c78932e4d20",
+    "53dadad29958203fe821a28b31b32711",
+    "f5ee1f7d69d26299f28a39302b3278ff",
+    "af3814e7e787340e8a3610afd68b772a"
   ],
   "transfers": {
     "pages": {
@@ -24593,6 +24604,100 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Bohemia Interactive took to a stage at Gamescom to address the recovery of Arma Reforger after the notoriously terrible launch. The post Bohemia Addresses Arma Reforger ‘Failure’: “We Really Disappointed Them” appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "change",
+        "else",
+        "everything",
+        "franchise",
+        "how",
+        "keep",
+        "must",
+        "protect",
+        "revive",
+        "what",
+        "you"
+      ],
+      "at": "2026-08-25T13:34:50.627994+00:00",
+      "message_id": "1541803043031617667",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "How to Revive a Franchise: Keep What You Must Protect and Change Everything Else",
+      "link": "https://www.invenglobal.com/articles/25107/how-to-revive-a-franchise-keep-what-you-must-protect-and-change-everything-else",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "On August 25, Natalia Agafonova, Executive Producer at Bohemia Interactive, gave a presentation at the developer conference devcom in Cologne, Germany, on the topic of \"Restarting ......"
+    },
+    {
+      "words": [
+        "developers",
+        "reveal",
+        "rule",
+        "sequels",
+        "subnautica",
+        "thirds"
+      ],
+      "at": "2026-08-25T13:34:50.627994+00:00",
+      "message_id": "1541803050719641661",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'Subnautica 2' Developers Reveal the Rule of Thirds for Sequels",
+      "link": "https://www.invenglobal.com/articles/25106/subnautica-2-developers-reveal-the-rule-of-thirds-for-sequels",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Anthony Gallegos, Creative Director at Unknown Worlds, shared the development process of 'Subnautica 2' during a keynote presentation at gamescom dev on August 25...."
+    },
+    {
+      "words": [
+        "blast",
+        "fantasy",
+        "format",
+        "open",
+        "porto",
+        "prizes",
+        "schedule",
+        "talent"
+      ],
+      "at": "2026-08-25T13:34:50.627994+00:00",
+      "message_id": "1541803055757009018",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "BLAST Open Porto teams, format, schedule, prizes, talent, fantasy",
+      "link": "https://www.hltv.org/news/45384/blast-open-porto-teams-format-schedule-prizes-talent-fantasy",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/GqSuiMdTyzOpwFR-BJOCuW.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=dac2b482396a19b477c17620e6339b39",
+      "base_description": "Here's everything you need to know about the second BLAST Open tournament of 2026."
+    },
+    {
+      "words": [
+        "being",
+        "denies",
+        "discord",
+        "gameplay",
+        "gta",
+        "leaks",
+        "over",
+        "served",
+        "subpoena"
+      ],
+      "at": "2026-08-25T13:34:50.627994+00:00",
+      "message_id": "1541803061951991809",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Discord Denies Being Served a Subpoena Over GTA 6 Gameplay Leaks",
+      "link": "https://insider-gaming.com/gta-6-discord-subpoena/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Discord has denied being served with a subpoena regarding the slew of GTA 6 gameplay leaks that have surfaced online in the past week. The post Discord Denies Being Served a Subpoena Over GTA 6 Gameplay Leaks appeared first on Insider Gaming ."
     }
   ]
 }
