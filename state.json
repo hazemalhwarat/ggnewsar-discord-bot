@@ -9349,7 +9349,12 @@
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLVlOQks1NG5KLXFWN0xaaFNNeDVhYWhYUUpUb3c3ZGFjM1VORzRrQWl0ZFJBaUo2ZUN4ZkU4WF9pMjNFRmNiN2JWd0JGLVBRRnN5OUVFWTRrV1ZSR0pZbjBRVDYxMWhpbUVuVnFsLXZVeXNYb3ZOcVNXdlVYMVl2c2lxcGFSNnRoMHYzTmNKLVI5aTZ0Q21ieWhjVWcyaloyejNVQVlQbnVidjdoTUZUdWRZMVJKZUIyMFE?oc=5",
     "https://www.gamesindustry.biz/gamescom-dev-head-says-smaller-studios-represent-the-biggest-opportunity-in-the-games-market",
     "https://www.hotspawn.com/league-of-legends/news/giantx-oscarinin-interview",
-    "https://www.gamesindustry.biz/eu-games-industry-generated-24bn-in-2024-studios-reached-6600-and-workforce-exceeded-95000"
+    "https://www.gamesindustry.biz/eu-games-industry-generated-24bn-in-2024-studios-reached-6600-and-workforce-exceeded-95000",
+    "https://esports.gg/news/vct-pacific-2026-playoffs-busan-preview/",
+    "https://www.invenglobal.com/articles/25105/how-to-fish-sells-1-million-copies-on-steam-in-two-days",
+    "https://dotesports.com/general/news/vct-tier-2-teams-tier-1-vulnerability",
+    "https://insider-gaming.com/rog-xbox-ally-x20-releases-october-preorders-now/",
+    "https://insider-gaming.com/bohemia-arma-reforger-failure-disappointed-them/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18572,7 +18577,12 @@
     "aadabad8a605b34b2f1270082f4b35d3",
     "a657ac9f05eb5e7b041929a5fe454bb5",
     "ff6c7d902011258fcffc0d7331d3fada",
-    "ec9c451ff2744dece030fbc62b4a5397"
+    "ec9c451ff2744dece030fbc62b4a5397",
+    "82e905087584c9cedb27be4a3c678386",
+    "f99cefb8db29454a1e9985b5bb7c32e9",
+    "a6ca6f4cfe5b27ae6294429046c17474",
+    "a6df9d91d722ecf8bdb7102ba363fc9c",
+    "e1a512fa8a8a6e35451a927b2cebd34f"
   ],
   "transfers": {
     "pages": {
@@ -22767,60 +22777,6 @@
   "sent_stories": [
     {
       "words": [
-        "champions",
-        "crowned",
-        "cs2",
-        "dota",
-        "ewc",
-        "review",
-        "spirit",
-        "spotlight",
-        "takes",
-        "trackmania",
-        "victorious",
-        "weekend"
-      ],
-      "at": "2026-08-24T12:33:38.749712+00:00",
-      "message_id": "1541425254465929227",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports News UK"
-      ],
-      "title": "Esports weekend review: AG.AL crowned EWC champions, Team Spirit victorious in CS2 and Dota, Trackmania takes the spotlight",
-      "link": "https://esports-news.co.uk/2026/08/24/esports-weekend-review-aug-24/",
-      "color": 8141549,
-      "image_url": "https://esports-news.co.uk/wp-content/uploads/2026/08/Esports-weekend-review-ewc-agal-300x169.jpeg",
-      "base_description": "After seven weeks of spectacular plays, seismic upsets, and championship-deciding drama, the Esports World Cup (EWC) has finally reached its thrilling conclusion. Chinese organisation All Gamers (AG.AL) emerged as Club Champion after victory in Trackmania pushed it beyond two-tim"
-    },
-    {
-      "words": [
-        "2026",
-        "blast",
-        "competition",
-        "cs2",
-        "fall",
-        "fresh",
-        "groups",
-        "open",
-        "tier",
-        "top",
-        "whirl"
-      ],
-      "at": "2026-08-24T12:33:38.749712+00:00",
-      "message_id": "1541425260463792149",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg",
-        "Hotspawn"
-      ],
-      "title": "Fresh whirl of CS2 top-tier competition in Groups of BLAST Open Fall 2026: Stream, matchups, results",
-      "link": "https://esports.gg/news/counter-strike-2/groups-blast-open-fall-2026-full-results/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "In a tense esports schedule, top-tier CS2 teams quickly get a chance for new success. Right after a massive EWC event, we have a new tournament, with extremely interesting matchups in the group stage."
-    },
-    {
-      "words": [
         "able",
         "abyss",
         "art",
@@ -23160,7 +23116,8 @@
       "message_id": "1541493744539406338",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "VLR.gg"
+        "VLR.gg",
+        "Esports.gg"
       ],
       "title": "Riot unveils GC Pacific format and bracket",
       "link": "https://www.vlr.gg/743747/riot-unveils-gc-pacific-format-and-bracket",
@@ -24568,6 +24525,70 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/europe-map-luke-greenwood--unsplash.jpg?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "The European games industry generated a combined turnover of €24 billion in 2024, with over 6,600 studios employing more than 95,000 people. Read more"
+    },
+    {
+      "words": [
+        "copies",
+        "days",
+        "fish",
+        "how",
+        "million",
+        "sells",
+        "steam",
+        "two"
+      ],
+      "at": "2026-08-25T12:33:51.857619+00:00",
+      "message_id": "1541787701848572015",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'How to Fish' Sells 1 Million Copies on Steam in Two Days",
+      "link": "https://www.invenglobal.com/articles/25105/how-to-fish-sells-1-million-copies-on-steam-in-two-days",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©Dazed GamesCo-op fishing game 'How to Fish' by Swedish indie developer Dazed Games has surpassed 1 million copies sold in just two days after launch.The developers expressed their......"
+    },
+    {
+      "words": [
+        "challengers",
+        "crashing",
+        "party",
+        "tier",
+        "vct",
+        "working"
+      ],
+      "at": "2026-08-25T12:33:51.857619+00:00",
+      "message_id": "1541787706533613612",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "VCT Challengers teams are crashing the Tier 1 party, and it’s working",
+      "link": "https://dotesports.com/general/news/vct-tier-2-teams-tier-1-vulnerability",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/vct-challengers-teams-are-crashing-the-tier-1-party-and-its-9237026347495119.webp",
+      "base_description": "Enterprise Esports knocked out Fnatic and Team Vitality in EMEA, while Sharper Esports is threatening DRX in Pacific — and the implications run deeper than a single tournament."
+    },
+    {
+      "words": [
+        "addresses",
+        "arma",
+        "bohemia",
+        "failure",
+        "reforger"
+      ],
+      "at": "2026-08-25T12:33:51.857619+00:00",
+      "message_id": "1541787711810183279",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Bohemia Addresses Arma Reforger ‘Failure’: “We Really Disappointed Them”",
+      "link": "https://insider-gaming.com/bohemia-arma-reforger-failure-disappointed-them/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Bohemia Interactive took to a stage at Gamescom to address the recovery of Arma Reforger after the notoriously terrible launch. The post Bohemia Addresses Arma Reforger ‘Failure’: “We Really Disappointed Them” appeared first on Insider Gaming ."
     }
   ]
 }
