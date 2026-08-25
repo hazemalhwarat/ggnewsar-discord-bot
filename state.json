@@ -9316,7 +9316,10 @@
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDUwUnppX0pLNkVudWhqOEJKcFRKYmZSNlUyUzBZVEpXNWU5MWoyLUdyRzBJLW9EY2pVdFVoU0I0V3BZZVlrSTU5TXZzdHJGWEgydVJNRG5LeFA5MWN5TjRRSG1VQ09ONm5TempyczR0WG5tS1JQSXFBZE9TMkVsZFAtQml4aFprMnhDVUp2Y3R2RVFBaVRUMm1MdGZmMDFVTDVoOGpWVQ?oc=5",
     "https://dotesports.com/dota-2/news/virtus-pro-disbands-dota-2-roster-ti-2026",
     "https://esports.gg/guides/league-of-legends/hall-of-legends-caps-bundles-whats-inside/",
-    "https://europeangaming.eu/portal/press-releases/2026/08/25/213097/tom-horn-gaming-piggy-bank-heist-slot/"
+    "https://europeangaming.eu/portal/press-releases/2026/08/25/213097/tom-horn-gaming-piggy-bank-heist-slot/",
+    "https://europeangaming.eu/portal/press-releases/2026/08/25/213103/ag-al-esports-world-cup-2026-club-champion/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-august-25-1171/",
+    "https://insider-gaming.com/metro-2039-collectors-edition-revealed/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18507,7 +18510,10 @@
     "5f43341e8bf0e77f2b5f18e56b4a5189",
     "1a7d4e8930a7e1daf34eb3a2c7132c93",
     "93722f43e3279745093bd8f561644566",
-    "a5f225e2245b9c0dd1ed6de0ef629a97"
+    "a5f225e2245b9c0dd1ed6de0ef629a97",
+    "6f9e273e707deca9c1b567fab8481611",
+    "1ffbac473504a3e1836268fd82af3b62",
+    "7820746f7c9e9fc683745bf40fba2a1c"
   ],
   "transfers": {
     "pages": {
@@ -22702,50 +22708,6 @@
   "sent_stories": [
     {
       "words": [
-        "brain",
-        "casual",
-        "kakao",
-        "launches",
-        "officially",
-        "ohneulduhodoo",
-        "training"
-      ],
-      "at": "2026-08-24T05:53:14.638021+00:00",
-      "message_id": "1541324505820168225",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Kakao Games Officially Launches Casual Brain Training Game 'Ohneulduhodoo'",
-      "link": "https://www.invenglobal.com/articles/25060/kakao-games-officially-launches-casual-brain-training-game-ohneulduhodoo",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Press Release - Kakao Games ©Kakao GamesKakao Games (Co-CEOs Kim Tae-hwan, Lee Si-woo) announced on the 24th that it has officially launched 'Ohneulduhodoo', a new casual brain tra......"
-    },
-    {
-      "words": [
-        "playtest",
-        "run",
-        "september",
-        "starting",
-        "steam",
-        "takers",
-        "time"
-      ],
-      "at": "2026-08-24T05:53:14.638021+00:00",
-      "message_id": "1541324511096348715",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "NC's TIME TAKERS to Run Steam Playtest Starting September 5",
-      "link": "https://www.invenglobal.com/articles/25059/ncs-time-takers-to-run-steam-playtest-starting-september-5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©NCNC (co-CEOs Kim Taek-jin, Park Byung-moo) announced on August 24 that its time survival shooter TIME TAKERS will run a playtest on the global gaming platform Steam for a total of 72 hours, from 2:00 a.m...."
-    },
-    {
-      "words": [
         "13th",
         "anniversary",
         "battle",
@@ -22829,7 +22791,8 @@
       "message_id": "1541336596559699989",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Esports Business & Sponsorships (Google News bridge)"
+        "Esports Business & Sponsorships (Google News bridge)",
+        "European Gaming Media"
       ],
       "title": "Saudi’s stc group shares overview of successful partnership with Esports World Cup 2026 - Campaign Middle East",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2Z5R2ItOXB3OVNjRENrUmFJaE5tQUphMVI1RHMzTTBZNTBhRWptWGVNSmVhdVN1cFU1THVGcVNHeTcwa3o3WUNPVnAtdEhxUHBFam1nek12cGVXbmpGYkw2ckw1WWdZN2k0NkZOSlJsNjVjRFo0c2JFZkh1dEhEQVVHMWwtMkI2dzdkd0VhZ0trNXF4blQ2cWxpT2Y3enVMdFRaWVU3clJ1SEdiT0sw?oc=5",
@@ -24632,6 +24595,30 @@
       "color": 8141549,
       "image_url": "https://media.europeangaming.eu/uploads/2026/08/Tom-Horn-Gaming-launches-Piggy-Bank-Heist-slot-on-27-August.jpg",
       "base_description": "The title follows Giza’s Portals with a near-identical feature structure, multiplier wilds, a pick-up bonus, and sticky free… The post Tom Horn Gaming launches Piggy Bank Heist slot on 27 August appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "2039",
+        "collector",
+        "edition",
+        "helmet",
+        "metro",
+        "reveals",
+        "spartan",
+        "tease",
+        "wearable"
+      ],
+      "at": "2026-08-25T05:57:35.328562+00:00",
+      "message_id": "1541687976445214761",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Metro 2039 Collector’s Edition Tease Reveals Wearable Spartan Helmet",
+      "link": "https://insider-gaming.com/metro-2039-collectors-edition-revealed/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "4A Games has unveiled the Metro 2039 Collector's Edition, which comes with a full-sized, wearable Spartan helmet. The post Metro 2039 Collector’s Edition Tease Reveals Wearable Spartan Helmet appeared first on Insider Gaming ."
     }
   ]
 }
