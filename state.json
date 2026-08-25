@@ -9398,7 +9398,12 @@
     "https://www.nerfplz.com/2026/10/the-lol-shop-10-things-it-does-that.html",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE9paWs2VERYSXZNa0xGampuUnc5YnRCR1FMTHVUZDE2UUU1OEo5RV9PbGt5R2k5cUNaQVpEblhCOEJEd05VRzRDcDByeGpWNThtWVVkZmNRbWY1RU1SNnQ4dlA0Vm10X1gtNnRnMkhvYmNPOExpQmdxSXBwLXQxTUE?oc=5",
     "https://www.gamesindustry.biz/game-developer-association-of-india-picks-15-studios-for-first-supernova-cohort",
-    "https://realsport101.com/article/all-new-icons-in-fc-27-revealed-ratings-playstyles-and-debut-versions"
+    "https://realsport101.com/article/all-new-icons-in-fc-27-revealed-ratings-playstyles-and-debut-versions",
+    "https://www.invenglobal.com/articles/25112/tencent-leads-18m-investment-to-expand-godot-engine-into-asia",
+    "https://www.hltv.org/news/45388/luminosity-sign-yxngstxr-to-replace-bymas",
+    "https://insider-gaming.com/metro-2039-dominating-awards-shows-months-before/",
+    "https://insider-gaming.com/nikita-buyanov-fragmentary-order-gameplay-reveal/",
+    "https://www.hotspawn.com/counter-strike/news/molodoy-blast-open-porto-2026-interview"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18669,7 +18674,12 @@
     "90d18d91c61330952c6bd58f5ac31c65",
     "40911d274843b7881fffc853905d04bc",
     "c57840665a4c66f8e464cb068c88080c",
-    "f5986a102fbd4ab92618f9ee9870a768"
+    "f5986a102fbd4ab92618f9ee9870a768",
+    "a26ada16b0d48babbe8fec5b439850dd",
+    "ee8048787ac3b0995d42c5c6c38150fd",
+    "7e94888afad2456bde08da20eb9051c7",
+    "70c8d9097d91d2aa7d7120c6348a8a0d",
+    "a667bfcaf7c148b0d36d197870f83cbd"
   ],
   "transfers": {
     "pages": {
@@ -22864,50 +22874,6 @@
   "sent_stories": [
     {
       "words": [
-        "bond",
-        "created",
-        "first",
-        "how",
-        "james",
-        "light"
-      ],
-      "at": "2026-08-24T16:28:15.582981+00:00",
-      "message_id": "1541484296903200849",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "How the James Bond of 'First Light' Was Created",
-      "link": "https://www.invenglobal.com/articles/25079/how-the-james-bond-of-first-light-was-created",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©INVEN'007 First Light' has received strong praise since its release last May...."
-    },
-    {
-      "words": [
-        "every",
-        "gold",
-        "guide",
-        "income",
-        "lol",
-        "source",
-        "what",
-        "worth"
-      ],
-      "at": "2026-08-24T16:28:15.582981+00:00",
-      "message_id": "1541484302343086195",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Nerfplz"
-      ],
-      "title": "LoL Gold Guide: Every Source of Income and What It's Worth",
-      "link": "https://www.nerfplz.com/2026/10/lol-gold-explained-10-ways-you-get-paid.html",
-      "color": 8141549,
-      "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.18,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_9.jpg",
-      "base_description": "Everything in League is bought with the same currency, and most players know two of the ways to earn it. Here's every source of gold, who each one pays, and the rule about spending it that decides more games than any of them. League of Legends Guide Gold Where the Money Comes Fro"
-    },
-    {
-      "words": [
         "bracket",
         "format",
         "pacific",
@@ -24058,7 +24024,8 @@
       "message_id": "1541721213498294323",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "GamesIndustry.biz"
+        "GamesIndustry.biz",
+        "Inven Global (English)"
       ],
       "title": "Godot Engine partner firm W4 Games secures $18m Series B funding, signs deal with Tencent to bolster Asia ecosystem",
       "link": "https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem",
@@ -24774,6 +24741,77 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "The PlayStation Plus monthly games for September 2026 have been revealed and players are getting 3 new titles. The post PlayStation Plus Monthly Games for September 2026 Revealed appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "2039",
+        "already",
+        "awards",
+        "dominating",
+        "metro",
+        "months",
+        "release",
+        "shows"
+      ],
+      "at": "2026-08-25T16:44:49.648607+00:00",
+      "message_id": "1541850859036479539",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Metro 2039 is Already Dominating Awards Shows Months Before Release",
+      "link": "https://insider-gaming.com/metro-2039-dominating-awards-shows-months-before/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Metro 2039 has managed to secure more nominations than any other game at the Gamescom Awards, and it's still six months from launch. The post Metro 2039 is Already Dominating Awards Shows Months Before Release appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "buyanov",
+        "first",
+        "fragmentary",
+        "gameplay",
+        "gets",
+        "nikita",
+        "order",
+        "reveal"
+      ],
+      "at": "2026-08-25T16:44:49.648607+00:00",
+      "message_id": "1541850864690663545",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Nikita Buyanov’s ‘Fragmentary Order’ Gets First Gameplay Reveal",
+      "link": "https://insider-gaming.com/nikita-buyanov-fragmentary-order-gameplay-reveal/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Nikita Buyanov's new project, Fragmentary Order, has received a gameplay teaser, courtesy of the studio and NVIDIA. The post Nikita Buyanov’s ‘Fragmentary Order’ Gets First Gameplay Reveal appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "don",
+        "future",
+        "igl",
+        "molodoy",
+        "needs",
+        "not",
+        "stay",
+        "think",
+        "want",
+        "yekindar"
+      ],
+      "at": "2026-08-25T16:44:49.648607+00:00",
+      "message_id": "1541850870025822299",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "molodoy on YEKINDAR’s future: “I think he don’t want to go to IGL… for me, he needs to stay not IGL”",
+      "link": "https://www.hotspawn.com/counter-strike/news/molodoy-blast-open-porto-2026-interview",
+      "color": 8141549,
+      "image_url": "https://www.youtube.com/embed/RhTWjeDVIwk",
+      "base_description": "Danil “molodoy” Golubenko has been one of the best AWPers in CS2 since joining FURIA in early 2025. His rise came as a huge surprise, but now, he is well and truly established at the top of the game. He and his FURIA team arrive at BLAST Open Porto 2026 after a top-four finish at"
     }
   ]
 }
