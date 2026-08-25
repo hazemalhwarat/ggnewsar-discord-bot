@@ -9474,7 +9474,12 @@
     "https://www.invenglobal.com/articles/25133/in-the-age-of-ai-are-we-cooked",
     "https://www.gfinityesports.com/article/all-new-icons-in-fc-27-revealed-ratings-playstyles-and-debut-versions",
     "https://www.gfinityesports.com/article/power-hitters-in-focus-following-mlbs-2026-home-run-race",
-    "https://www.invenglobal.com/articles/25134/no-plans-at-all-the-secret-to-dead-by-daylights-10-year-longevity"
+    "https://www.invenglobal.com/articles/25134/no-plans-at-all-the-secret-to-dead-by-daylights-10-year-longevity",
+    "https://dotesports.com/ff/news/ffvii-revelation-ruby-emerald-weapon",
+    "https://gameriv.com/crimson-desert-enhanced-update-adds-new-story-content-voice-languages-skills-and-more/",
+    "https://dotesports.com/general/news/showa-american-story-gamescom",
+    "https://esports.gg/news/gaming/blizzard-partners-with-cd-projekt-red-for-the-witcher-and-more/",
+    "https://gameriv.com/marathon-season-3-leaks-reveal-huge-four-run-pve-mode-new-bosses-weapons-and-more/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18818,7 +18823,12 @@
     "b72a171966457d3fc1b3fd82e69436d0",
     "fccf28aa94c8bf00f71749fe6a390eca",
     "ae6693f4ced108f68a53117ae0e3f447",
-    "c0b98f4a116731a05b30ea44e19da926"
+    "c0b98f4a116731a05b30ea44e19da926",
+    "3acd1dd20b9fc23bbb26fb4d9fea8e9d",
+    "2547e5758f45688c70aaaeb88738eafe",
+    "c76d683e7395faf8aaa8f1fd62f0ed10",
+    "a68637e8b7c8cfaf5627e0e5c2966b6b",
+    "c261705f37a5f68e5c119a73e6e6aeff"
   ],
   "transfers": {
     "pages": {
@@ -23013,52 +23023,6 @@
   "sent_stories": [
     {
       "words": [
-        "agent",
-        "orders",
-        "player",
-        "rejects",
-        "shooter",
-        "tencent",
-        "unveils"
-      ],
-      "at": "2026-08-24T23:45:25.476613+00:00",
-      "message_id": "1541594312737951747",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Tencent Unveils Shooter AI Agent That Rejects Player Orders",
-      "link": "https://www.invenglobal.com/articles/25084/tencent-unveils-shooter-ai-agent-that-rejects-player-orders",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Tencent Games has unveiled an autonomous first-person shooter (FPS) AI agent architecture that evaluates whether to accept player instructions based on battlefield conditions rather than following them blindly...."
-    },
-    {
-      "words": [
-        "2026",
-        "all",
-        "dota",
-        "more",
-        "roster",
-        "rumors",
-        "shuffle",
-        "transfers"
-      ],
-      "at": "2026-08-24T23:45:25.476613+00:00",
-      "message_id": "1541594319402569841",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "MENA esports transfer rumors (Google News bridge)",
-        "Esports.gg"
-      ],
-      "title": "Dota 2 2026 roster shuffle: All transfers, rumors, and more - Sportskeeda",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDIwdDAxMG1jcDV2MFlXNWpxNDlPb0tZR0ZhazhBSGN5dURKdEJteFdIS0RSelZNcER4OE13ak1LdVRPNGE5TW1xdE1DdVd0R1BpMVdMVHUxcFdFVTl0X2M5c0w3SlR5R3Q0V1VHUmlKNk5uck1iX3JjYVZvcjFfZ1QwQ3NFNko4aXBGT280WnFtdw?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Dota 2 2026 roster shuffle: All transfers, rumors, and more Sportskeeda"
-    },
-    {
-      "words": [
         "2026",
         "duo",
         "dynamic",
@@ -24745,7 +24709,8 @@
       "message_id": "1541900932349169805",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Dot Esports"
       ],
       "title": "Final Fantasy 7 Revelation Release Window Revealed During Gamescom ONL",
       "link": "https://insider-gaming.com/final-fantasy-7-revelation-release-window-revealed-during-gamescom-onl/",
@@ -24786,7 +24751,8 @@
       "message_id": "1541916436908220538",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Inven Global (English)"
+        "Inven Global (English)",
+        "GameRiv"
       ],
       "title": "'Crimson Desert Enhanced' Revealed with New Cutscenes and Dialogue",
       "link": "https://www.invenglobal.com/articles/25115/crimson-desert-enhanced-revealed-with-new-cutscenes-and-dialogue",
@@ -24944,6 +24910,78 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "©InvenWhat is the biggest dream for a live-service game?..."
+    },
+    {
+      "words": [
+        "american",
+        "brutal",
+        "characters",
+        "combat",
+        "gamescom",
+        "minigames",
+        "returns",
+        "showa",
+        "story"
+      ],
+      "at": "2026-08-25T23:48:34.974676+00:00",
+      "message_id": "1541957505649746083",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "Showa American Story returns at gamescom with new characters, minigames, and brutal combat",
+      "link": "https://dotesports.com/general/news/showa-american-story-gamescom",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/showa-american-story-trailer-4.webp",
+      "base_description": "Showa American Story is still slated for this year."
+    },
+    {
+      "words": [
+        "blizzard",
+        "more",
+        "partners",
+        "projekt",
+        "red",
+        "witcher"
+      ],
+      "at": "2026-08-25T23:48:34.974676+00:00",
+      "message_id": "1541957510905200751",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Blizzard partners with CD Projekt Red for The Witcher and more",
+      "link": "https://esports.gg/news/gaming/blizzard-partners-with-cd-projekt-red-for-the-witcher-and-more/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "The Blizzard Entertainment x CD Projekt Red collaboration features a Diablo 4 Geralt skin. Does this partnership mean an Overwatch x Cyberpunk crossover and more?"
+    },
+    {
+      "words": [
+        "bosses",
+        "four",
+        "huge",
+        "leaks",
+        "marathon",
+        "mode",
+        "more",
+        "pve",
+        "reveal",
+        "run",
+        "season",
+        "weapons"
+      ],
+      "at": "2026-08-25T23:48:34.974676+00:00",
+      "message_id": "1541957516139823177",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GameRiv"
+      ],
+      "title": "Marathon Season 3 Leaks Reveal Huge Four-Run PvE Mode, New Bosses, Weapons, and More",
+      "link": "https://gameriv.com/marathon-season-3-leaks-reveal-huge-four-run-pve-mode-new-bosses-weapons-and-more/",
+      "color": 8141549,
+      "image_url": "https://gameriv.com/wp-content/uploads/2026/06/Marathon-Update-1.1.0.1.jpg",
+      "base_description": "Marathon Season 3 could be shaping up to be Bungie’s biggest update yet. A new leak allegedly originating from a recent private playtest has revealed extensive details about the upcoming PvE experience, including four connected runs, several bosses, a major Perimeter expansion, n"
     }
   ]
 }
