@@ -9313,7 +9313,8 @@
     "https://dotesports.com/the-first-descendant/guides/tfd-transcendent-weapons-farm",
     "https://dotesports.com/guides/guides/mw4-best-mouse-and-keyboard-settings",
     "https://esports.gg/news/league-of-legends/hall-of-legends-reruns-confirmed/",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDUwUnppX0pLNkVudWhqOEJKcFRKYmZSNlUyUzBZVEpXNWU5MWoyLUdyRzBJLW9EY2pVdFVoU0I0V3BZZVlrSTU5TXZzdHJGWEgydVJNRG5LeFA5MWN5TjRRSG1VQ09ONm5TempyczR0WG5tS1JQSXFBZE9TMkVsZFAtQml4aFprMnhDVUp2Y3R2RVFBaVRUMm1MdGZmMDFVTDVoOGpWVQ?oc=5"
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDUwUnppX0pLNkVudWhqOEJKcFRKYmZSNlUyUzBZVEpXNWU5MWoyLUdyRzBJLW9EY2pVdFVoU0I0V3BZZVlrSTU5TXZzdHJGWEgydVJNRG5LeFA5MWN5TjRRSG1VQ09ONm5TempyczR0WG5tS1JQSXFBZE9TMkVsZFAtQml4aFprMnhDVUp2Y3R2RVFBaVRUMm1MdGZmMDFVTDVoOGpWVQ?oc=5",
+    "https://dotesports.com/dota-2/news/virtus-pro-disbands-dota-2-roster-ti-2026"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18501,7 +18502,8 @@
     "49f2dfaa2f06468d931baae48938f1d9",
     "142710854045214ae29ac65d1525aad2",
     "972226b0442ee4ce6bd18b193a984f08",
-    "5f43341e8bf0e77f2b5f18e56b4a5189"
+    "5f43341e8bf0e77f2b5f18e56b4a5189",
+    "1a7d4e8930a7e1daf34eb3a2c7132c93"
   ],
   "transfers": {
     "pages": {
@@ -24606,6 +24608,30 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Esports Isn’t the New NBA: Why Gaming Needs a Different Marketing Playbook Branding in Asia"
+    },
+    {
+      "words": [
+        "2026",
+        "disbands",
+        "dota",
+        "pro",
+        "roster",
+        "scene",
+        "stay",
+        "virtus",
+        "vows"
+      ],
+      "at": "2026-08-25T04:53:29.240593+00:00",
+      "message_id": "1541671839435333654",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "Virtus.pro disbands Dota 2 roster after TI 2026, vows to stay in the scene",
+      "link": "https://dotesports.com/dota-2/news/virtus-pro-disbands-dota-2-roster-ti-2026",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/dota-2-virtus-pro-roster-disband.webp",
+      "base_description": "VP remains in the Dota 2 scene despite missing out on another TI."
     }
   ]
 }
