@@ -9471,7 +9471,10 @@
     "https://www.invenglobal.com/articles/25120/game-of-thrones-war-for-westeros-unveils-first-gameplay-trailer",
     "https://esportsinsider.com/2026/08/2xko-interview-riot-downfall-fgc",
     "https://esports.gg/fortnite-acquire-8-power-ups-meowscles-wrixel-style/",
-    "https://www.invenglobal.com/articles/25133/in-the-age-of-ai-are-we-cooked"
+    "https://www.invenglobal.com/articles/25133/in-the-age-of-ai-are-we-cooked",
+    "https://www.gfinityesports.com/article/all-new-icons-in-fc-27-revealed-ratings-playstyles-and-debut-versions",
+    "https://www.gfinityesports.com/article/power-hitters-in-focus-following-mlbs-2026-home-run-race",
+    "https://www.invenglobal.com/articles/25134/no-plans-at-all-the-secret-to-dead-by-daylights-10-year-longevity"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18814,7 +18817,8 @@
     "999907e30e7682e4fa8fe84e052b4fc9",
     "b72a171966457d3fc1b3fd82e69436d0",
     "fccf28aa94c8bf00f71749fe6a390eca",
-    "ae6693f4ced108f68a53117ae0e3f447"
+    "ae6693f4ced108f68a53117ae0e3f447",
+    "c0b98f4a116731a05b30ea44e19da926"
   ],
   "transfers": {
     "pages": {
@@ -23009,30 +23013,6 @@
   "sent_stories": [
     {
       "words": [
-        "000",
-        "below",
-        "concurrent",
-        "drops",
-        "first",
-        "marathon",
-        "players",
-        "steam",
-        "time"
-      ],
-      "at": "2026-08-24T22:52:55.480426+00:00",
-      "message_id": "1541581100755714089",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GameRiv"
-      ],
-      "title": "Marathon Drops Below 1,000 Concurrent Steam Players for the First Time",
-      "link": "https://gameriv.com/marathon-drops-below-1000-concurrent-steam-players-for-the-first-time/",
-      "color": 8141549,
-      "image_url": "https://gameriv.com/wp-content/uploads/2026/06/Marathon-Season-2-Free-Week.jpg",
-      "base_description": "Bungie’s Marathon has reached another uncomfortable milestone on Steam, with its concurrent player count falling below 1,000 for the first time since launch. According to a Steam chart on August 24, Marathon dropped to 987 concurrent players. Community tracking later suggested th"
-    },
-    {
-      "words": [
         "just",
         "larp",
         "people"
@@ -24983,6 +24963,28 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "©INVENArtificial intelligence has moved beyond simple calculations and information searches into the realm of human creation. It draws pictures and composes music in seconds, suggests ideas, and writes sentences...."
+    },
+    {
+      "words": [
+        "all",
+        "daylight",
+        "dead",
+        "longevity",
+        "plans",
+        "secret",
+        "year"
+      ],
+      "at": "2026-08-25T22:58:25.679064+00:00",
+      "message_id": "1541944875300429898",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "No Plans at All... The Secret to 'Dead by Daylight's 10-Year Longevity",
+      "link": "https://www.invenglobal.com/articles/25134/no-plans-at-all-the-secret-to-dead-by-daylights-10-year-longevity",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©InvenWhat is the biggest dream for a live-service game?..."
     }
   ]
 }
