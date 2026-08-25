@@ -9413,7 +9413,12 @@
     "https://www.invenglobal.com/articles/25114/tom-clancys-rainbow-six-tactics-returns-as-turn-based-strategy-game-launching-in-2027",
     "https://www.invenglobal.com/articles/25113/expanded-demo-released-for-upcoming-onimusha-way-of-the-sword",
     "https://insider-gaming.com/gears-of-war-e-day-gamescom-story-trailer/",
-    "https://www.hotspawn.com/counter-strike/news/aleksib-blast-open-porto-2026-interview"
+    "https://www.hotspawn.com/counter-strike/news/aleksib-blast-open-porto-2026-interview",
+    "https://insider-gaming.com/new-2039-trailer-metro-detailed-game-yet/",
+    "https://insider-gaming.com/rainbow-six-tactics-revealed-gamescom-2026/",
+    "https://www.invenglobal.com/articles/25120/game-of-thrones-war-for-westeros-unveils-gameplay-trailer",
+    "https://www.invenglobal.com/articles/25119/neteases-ananta-to-launch-globally-on-january-15-2027",
+    "https://www.invenglobal.com/articles/25118/red-bull-reverse-meta-to-pit-uk-creators-against-fnatic-in-valorant-showmatch"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18699,7 +18704,12 @@
     "04903dd6a459362e7bc2a7bec3f0f199",
     "47192c9f638a372a5e0fd306932b83b5",
     "4f0107316feb63511739715363857a1e",
-    "21bc0c451dac9499ca207556ed6954dd"
+    "21bc0c451dac9499ca207556ed6954dd",
+    "4f18e2f470a4d98a47f10071224e7790",
+    "f1f0f1a18d00d875380468bcf3b8825f",
+    "464c0d59326e465d24c8cea25834f0ac",
+    "947265e7dd243cc9dd512d529573df89",
+    "78c1ee8058fd82d59d65b7b4fd682444"
   ],
   "transfers": {
     "pages": {
@@ -22894,101 +22904,6 @@
   "sent_stories": [
     {
       "words": [
-        "apex",
-        "legends",
-        "list",
-        "season",
-        "tier"
-      ],
-      "at": "2026-08-24T18:59:16.166387+00:00",
-      "message_id": "1541522299746910309",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg",
-        "Dot Esports",
-        "GameRiv"
-      ],
-      "title": "Apex Legends Season 30 tier list: Every legend ranked S to D",
-      "link": "https://esports.gg/guides/apex-legends/apex-legends-tier-list/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Here's what Apex Legends players should select based on whether they're duking it out in general matches or competitive play."
-    },
-    {
-      "words": [
-        "chance",
-        "exposed",
-        "gave",
-        "riot",
-        "tier",
-        "valorant",
-        "vct",
-        "vulnerability"
-      ],
-      "at": "2026-08-24T18:59:16.166387+00:00",
-      "message_id": "1541522305308434555",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Insider"
-      ],
-      "title": "Riot gave Tier 2 VALORANT a chance and it exposed VCT Tier 1 teams’ vulnerability",
-      "link": "https://esportsinsider.com/2026/08/valorant-tier-2-exposed-vct-tier-1-teams-vulnerability",
-      "color": 8141549,
-      "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/55477365490_ae44427281_6k-large.jpg",
-      "base_description": "Ever since Riot Games introduced the partnership system in VALORANT esports, Tier 2 has existed in an uncomfortable position. It was important enough to be called the foundation of Tier 1, but it rarely received enough spotlight, investment, or care to sustain itself. As a result"
-    },
-    {
-      "words": [
-        "annoying",
-        "beta",
-        "call",
-        "compilation",
-        "duty",
-        "end",
-        "modern",
-        "puts",
-        "shader",
-        "warfare"
-      ],
-      "at": "2026-08-24T18:59:16.166387+00:00",
-      "message_id": "1541522310677401652",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Global Esports News CoD",
-        "Esports.gg",
-        "Dot Esports"
-      ],
-      "title": "Call of Duty: Modern Warfare 4 – Beta Puts an End to Annoying Shader Compilation on PC",
-      "link": "https://www.global-esports.news/call-of-duty/call-of-duty-modern-warfare-4-beta-puts-an-end-to-annoying-shader-compilation-on-pc/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Infinity Ward resolves two long-standing PC issues in CoD MW4. The beta preloads shaders in the background and drastically reduces annoying restarts after updates. The developers of Call of Duty: Modern Warfare 4—Infinity Ward and co-developer Beenox—have revealed the remaining d"
-    },
-    {
-      "words": [
-        "dazn",
-        "korea",
-        "lebanon",
-        "live",
-        "online",
-        "republic",
-        "stream",
-        "watch"
-      ],
-      "at": "2026-08-24T18:59:16.166387+00:00",
-      "message_id": "1541522316612083814",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Lebanon Esports"
-      ],
-      "title": "Watch Lebanon vs. Korea Republic Live Stream Online | DAZN US - DAZN",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnE4MG9ubzVUc2k0MUhPXy15Ui13ZEdIMlFmbGhoR2NRM0VsT1E2S183VWVoY3pfOGZTVDlVNlFTeXFYcE1KX240NmlRbHVUdkItb19UVzh5aWhlYmp0V2V4RTNYU3c1ZzU1RzRXVlNpREFxMkVOd0J2dS01QjQ1RGZnZ2pKRnlNV2dZODBR?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Watch Lebanon vs. Korea Republic Live Stream Online | DAZN US DAZN"
-    },
-    {
-      "words": [
         "man",
         "marvel",
         "spider"
@@ -24812,7 +24727,8 @@
       "message_id": "1541877089526087772",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Inven Global (English)"
+        "Inven Global (English)",
+        "Insider Gaming"
       ],
       "title": "'Tom Clancy's Rainbow Six Tactics' Returns as Turn-Based Strategy Game, Launching in 2027",
       "link": "https://www.invenglobal.com/articles/25114/tom-clancys-rainbow-six-tactics-returns-as-turn-based-strategy-game-launching-in-2027",
@@ -24891,6 +24807,31 @@
       "color": 8141549,
       "image_url": "https://www.youtube.com/embed/WcTldnT0h2s",
       "base_description": "Aleksi “Aleksib” Virolainen has been the NAVI in-game leader for over three years now, leading the team through several high and low periods. After two trophy wins in 2026, they have struggled to keep their momentum in the second half of the year, with disappointing showings at b"
+    },
+    {
+      "words": [
+        "against",
+        "bull",
+        "creators",
+        "fnatic",
+        "meta",
+        "pit",
+        "red",
+        "reverse",
+        "showmatch",
+        "valorant"
+      ],
+      "at": "2026-08-25T19:10:01.771554+00:00",
+      "message_id": "1541887399993544716",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Red Bull REVERSE META to pit UK creators against Fnatic in VALORANT showmatch",
+      "link": "https://www.invenglobal.com/articles/25118/red-bull-reverse-meta-to-pit-uk-creators-against-fnatic-in-valorant-showmatch",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Red Bull has announced REVERSE META, a creator-led VALORANT showmatch taking place at the Red Bull Gaming Sphere in London on August 29th. The 5v5 event will see a team of UK creators face esports org..."
     }
   ]
 }
