@@ -9454,7 +9454,11 @@
     "https://www.invenglobal.com/articles/25124/nc-unveils-new-trailer-showcasing-core-lore-for-cinder-city",
     "https://insider-gaming.com/gravhounds-pc-xbox-early-access-november-2/",
     "https://www.hotspawn.com/counter-strike/news/heavygod-blast-open-porto-2026-interview",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE90VUFMN1NJd0V5d3NseWZ3ZHYxMFczUVlWTnprLTJqYWpGeHR5Z2w3X1Ztc3JiTG1Cel9CQTlBcEZrZmVlZmxUXy00azl4NjdENWFPcE0zN2ZuSWVabU52enotS1VXUHhtd3dz?oc=5"
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE90VUFMN1NJd0V5d3NseWZ3ZHYxMFczUVlWTnprLTJqYWpGeHR5Z2w3X1Ztc3JiTG1Cel9CQTlBcEZrZmVlZmxUXy00azl4NjdENWFPcE0zN2ZuSWVabU52enotS1VXUHhtd3dz?oc=5",
+    "https://www.invenglobal.com/articles/25128/the-witcher-3-remastered-launching-sept-29-new-expansion-to-be-revealed-in-2027",
+    "https://www.invenglobal.com/articles/25126/from-co-op-and-action-to-rpgs-krafton-unveils-5-new-titles",
+    "https://www.invenglobal.com/articles/25115/crimson-desert-enhanced-revealed-with-new-cutscenes-and-dialogue",
+    "https://insider-gaming.com/league-classic-patch-2-every-change-in-lol-patch-26-17/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18781,7 +18785,11 @@
     "c565b0a41219e5247e6ed9a20d714969",
     "c461628813b48a4d41599bcef70884b7",
     "a3b1e6ac4c9a110e372713148d0da18f",
-    "152ac834f81ab2b2333802eb4b876a4c"
+    "152ac834f81ab2b2333802eb4b876a4c",
+    "695e8399a5cdee00e4d5e924483e0e7d",
+    "75a04ee8df041e4ac3494b15f27d7624",
+    "f6296a40c0acfc462ef3e670abed87fc",
+    "1208013694f31ffcc475b0489e813f06"
   ],
   "transfers": {
     "pages": {
@@ -22976,69 +22984,6 @@
   "sent_stories": [
     {
       "words": [
-        "bench",
-        "bymas",
-        "luminosity"
-      ],
-      "at": "2026-08-24T20:58:08.539446+00:00",
-      "message_id": "1541552214647119923",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Luminosity bench Bymas",
-      "link": "https://www.hltv.org/news/45381/luminosity-bench-bymas",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/f6nBChxqxZCSb-KHJa7dC3.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=79f7659df555bccfbd78c17bf39f2d43",
-      "base_description": "The Lithuanian rifler moves to the inactive roster just a month after joining."
-    },
-    {
-      "words": [
-        "castlevania",
-        "dracula",
-        "graham",
-        "mctavish",
-        "reprises",
-        "role"
-      ],
-      "at": "2026-08-24T20:58:08.539446+00:00",
-      "message_id": "1541552219541999639",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "Graham McTavish reprises Dracula role in Castlevania: Belmont’s Curse voice cast",
-      "link": "https://dotesports.com/general/news/castlevania-belmonts-curse-voice-cast",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/ar6ccd.jpg",
-      "base_description": "Dracula and Sypha voice actors reprise their Netflix roles."
-    },
-    {
-      "words": [
-        "49ers",
-        "charges",
-        "contest",
-        "jed",
-        "misdemeanor",
-        "ohio",
-        "owner",
-        "pleads",
-        "york"
-      ],
-      "at": "2026-08-24T20:58:08.539446+00:00",
-      "message_id": "1541552224990269492",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Palestine Esports"
-      ],
-      "title": "49ers owner Jed York pleads no contest to 2 misdemeanor charges in Ohio - kcentv.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2F6SDJNUEFsNkh6UzdPVW5vamNraE80akdNcEZhMVZNMGNobWFKNnQ4dm1QVjY2M3o2U1JJQW9UZ0g5SVJnU2phZzFtM3dZQ1F0WG51ek1lZFBZX3hnTnhOdUpFSzVrdnkzUkI1aFBwdzlzOElnTHU2X2lZWWR6Q3Zya1JFb3c3WnllMXpPRlE1RXhTN0pFb0I2TmxmNHQxcW94YzR3TkplaEllYW5vLURhNVlHMDhldDBnR2xfVTF4b1VOWVE?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "49ers owner Jed York pleads no contest to 2 misdemeanor charges in Ohio kcentv.com"
-    },
-    {
-      "words": [
         "according",
         "design",
         "narrative",
@@ -24854,7 +24799,8 @@
       "message_id": "1541900926993039442",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Inven Global (English)"
       ],
       "title": "The Witcher 3: Songs of the Past Revealed in Full Alongside Remastered Update",
       "link": "https://insider-gaming.com/witcher-3-songs-of-the-past-revealed-in-full/",
@@ -24885,6 +24831,47 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Whilst the appearance has come as no surprise, a brand new trailer was revealed during Gamescom ONL for Final Fantasy 7 Revelation The post Final Fantasy 7 Revelation Release Window Revealed During Gamescom ONL appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "action",
+        "krafton",
+        "rpgs",
+        "titles",
+        "unveils"
+      ],
+      "at": "2026-08-25T21:05:23.097154+00:00",
+      "message_id": "1541916431124537468",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "From Co-op and Action to RPGs! Krafton Unveils 5 New Titles",
+      "link": "https://www.invenglobal.com/articles/25126/from-co-op-and-action-to-rpgs-krafton-unveils-5-new-titles",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©INVENKrafton has unveiled five new titles targeting the global market all at once through gamescom 2026.The revealed titles are Piccolo Studio's 'Age Twisters', Boundary's 'TARAE:......"
+    },
+    {
+      "words": [
+        "crimson",
+        "cutscenes",
+        "desert",
+        "dialogue",
+        "enhanced",
+        "revealed"
+      ],
+      "at": "2026-08-25T21:05:23.097154+00:00",
+      "message_id": "1541916436908220538",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'Crimson Desert Enhanced' Revealed with New Cutscenes and Dialogue",
+      "link": "https://www.invenglobal.com/articles/25115/crimson-desert-enhanced-revealed-with-new-cutscenes-and-dialogue",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "On August 25 local time, Pearl Abyss revealed an approximately one-minute trailer for 'Crimson Desert Enhanced' during Gamescom 2026 Opening Night Live (ONL) held in Cologne, Germa......"
     }
   ]
 }
