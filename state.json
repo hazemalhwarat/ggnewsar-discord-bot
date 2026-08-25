@@ -9336,7 +9336,8 @@
     "https://www.invenglobal.com/articles/25101/genesis-update-d-1-streamer-server-standings-for-week-4-of-august",
     "https://dotesports.com/deadlock/guides/deadlock-character-tier-list",
     "https://gameriv.com/respawn-says-apex-legends-amps-will-keep-expanding-with-more-additions-planned/",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQkQ5RWd4dnUtc3dDN2F4V3JQaGt6OXEzUVpVYmJ6cVVKN3RSNVl3Z1BPVFBQRmpHYWswSXFieDczcW9NTjVENGFoSXl3WUw0b0RnUGJ6TlNRQmRyazhSR0NqS1JrbHYxM1IwSkhzc3o1bHQtZGVsTGM3SkREYUpEWDdxMUd3N2ZqSi1J?oc=5"
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQkQ5RWd4dnUtc3dDN2F4V3JQaGt6OXEzUVpVYmJ6cVVKN3RSNVl3Z1BPVFBQRmpHYWswSXFieDczcW9NTjVENGFoSXl3WUw0b0RnUGJ6TlNRQmRyazhSR0NqS1JrbHYxM1IwSkhzc3o1bHQtZGVsTGM3SkREYUpEWDdxMUd3N2ZqSi1J?oc=5",
+    "https://www.gamesindustry.biz/newzoo-global-games-market-to-generate-2139bn-in-2026-up-61-yoy"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18547,7 +18548,8 @@
     "5387619f21509fe6418e609a5026417c",
     "2c6371c2cbbd7c72f032aec8b819efb5",
     "bba3e24507b5f53af1cd5053a134388a",
-    "42b2e187b21a55f46a3a67a0b7520ad6"
+    "42b2e187b21a55f46a3a67a0b7520ad6",
+    "85c89d2a554de506225c535806c0c396"
   ],
   "transfers": {
     "pages": {
@@ -22742,98 +22744,6 @@
   "sent_stories": [
     {
       "words": [
-        "enjoying",
-        "gamescom",
-        "starts",
-        "talks"
-      ],
-      "at": "2026-08-24T09:14:06.723198+00:00",
-      "message_id": "1541375040379949077",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Enjoying gamescom? It Starts with the Talks",
-      "link": "https://www.invenglobal.com/articles/25068/enjoying-gamescom-it-starts-with-the-talks",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "🕊German Carrier Pigeon #2 Marking gamescom week—a global gaming event—we bring you a peek behind the scenes, featuring coverage and on-site stories you can only see right here...."
-    },
-    {
-      "words": [
-        "blast",
-        "ewc",
-        "fallen",
-        "goals",
-        "interview",
-        "porto",
-        "replacement",
-        "review",
-        "search",
-        "sidde"
-      ],
-      "at": "2026-08-24T09:14:06.723198+00:00",
-      "message_id": "1541375045912231988",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "sidde interview: EWC review, the search for a FalleN replacement, and BLAST Porto goals",
-      "link": "https://www.hltv.org/news/45373/sidde-interview-ewc-review-the-search-for-a-fallen-replacement-and-blast-porto-goals",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/oe9IsDh7579dENtmOJt7_h.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=c257e6fff77f39d5ea0a18158ce99142",
-      "base_description": "YEKINDAR is now in-game leading on T side on three maps as FURIA consider their options for the end of the year."
-    },
-    {
-      "words": [
-        "2026",
-        "deny",
-        "ewc",
-        "falcons",
-        "last",
-        "minute",
-        "peat",
-        "three",
-        "win"
-      ],
-      "at": "2026-08-24T09:14:06.723198+00:00",
-      "message_id": "1541375050991534152",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "AG.AL Deny Team Falcons Three-Peat With Last-Minute EWC 2026 Win",
-      "link": "https://www.hotspawn.com/other/news/agal-win-ewc-2026-club-championship",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/ag.al-win-ewc-2026-950x633.webp",
-      "base_description": "Chinese esports team AG.AL have been crowned the Esports World Cup 2026 Club Champions after French player Gwendal “Gwen” Duparc delivered a decisive victory in the Trackmania tournament on the final weekend in Paris. The 1,000 points from the win allowed AG.AL to end the competi"
-    },
-    {
-      "words": [
-        "annual",
-        "burst",
-        "global",
-        "launches",
-        "network",
-        "pool",
-        "prize",
-        "promotion",
-        "rewards"
-      ],
-      "at": "2026-08-24T09:14:06.723198+00:00",
-      "message_id": "1541375056460906531",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "Games Global launches Rewards BURST! annual network promotion with €5m prize pool",
-      "link": "https://europeangaming.eu/portal/press-releases/2026/08/24/213046/games-global-rewards-burst-network-promotion/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Games-Global-launches-Rewards-BURST-annual-network-promotion-with-E5m-prize-pool.jpg",
-      "base_description": "The annual promotion builds on Games Global’s existing Cash Splash toolset, scaling both prize drops and tournaments to… The post Games Global launches Rewards BURST! annual network promotion with €5m prize pool appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
         "adc",
         "caught",
         "dilemma",
@@ -24722,6 +24632,29 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "The International 2027 Singapore Rumour Surfaces After Valve Silence Shane the Gamer"
+    },
+    {
+      "words": [
+        "2026",
+        "213",
+        "9bn",
+        "generate",
+        "global",
+        "market",
+        "newzoo",
+        "yoy"
+      ],
+      "at": "2026-08-25T09:35:05.706431+00:00",
+      "message_id": "1541742708308320268",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "Newzoo: Global games market to generate $213.9bn in 2026, up 6.1% YoY",
+      "link": "https://www.gamesindustry.biz/newzoo-global-games-market-to-generate-2139bn-in-2026-up-61-yoy",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/gta-6-lucia-jason-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "Newzoo projects the global games market will grow 6.1% to $213.9 billion, with over half of consumer spending originating from China and the US. Read more"
     }
   ]
 }
