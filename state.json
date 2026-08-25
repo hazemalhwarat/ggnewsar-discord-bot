@@ -9328,7 +9328,11 @@
     "https://www.invenglobal.com/articles/25102/south-korea-national-esports-team-holds-send-off-ceremony-for-aichi-nagoya-asian-games-on-the-25th",
     "https://www.invenglobal.com/articles/25101/genesis-update-d-1-streamer-server-week-4-of-august",
     "https://insider-gaming.com/crimson-desert-devs-worth-more-than-anything-we-made/",
-    "https://www.gamesindustry.biz/gdc-festival-of-gaming-announces-changes-to-2027-event-including-new-business-hall-at-moscone-west"
+    "https://www.gamesindustry.biz/gdc-festival-of-gaming-announces-changes-to-2027-event-including-new-business-hall-at-moscone-west",
+    "https://www.invenglobal.com/articles/25104/making-3rd-consecutive-asian-games-appearance-faker-says-it-feels-more-like-great-inspiration-than-pressure",
+    "https://www.invenglobal.com/articles/25103/samsung-electronics-unveils-integrated-gaming-ecosystem-at-gamescom-2026",
+    "https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem",
+    "https://europeangaming.eu/portal/latest-news/2026/08/25/213116/romania-onjn-president-soare-removed-tomescu-appointed/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18531,7 +18535,11 @@
     "4e4015b675a9a44a0bd05b84f0ed2f94",
     "b2ccebfa4f23a151ade8f51857106749",
     "d6b1a63e540732c5fbd0576691e3f75a",
-    "3b4e7b332cdc65736954c5a5502c1dc0"
+    "3b4e7b332cdc65736954c5a5502c1dc0",
+    "034a45399f2bd64a451d5adfd64b3604",
+    "4ebb0cdf8b2cd237b8fe5ef29ef5b217",
+    "07b9cb03cd082fe80c7433406526f2ee",
+    "1adf7390a421cfb0438d5980778de792"
   ],
   "transfers": {
     "pages": {
@@ -22726,46 +22734,6 @@
   "sent_stories": [
     {
       "words": [
-        "blade",
-        "shift",
-        "stellar",
-        "switch",
-        "trailer",
-        "unveils"
-      ],
-      "at": "2026-08-24T07:45:18.178904+00:00",
-      "message_id": "1541352695812591647",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Shift Up Unveils Stellar Blade Switch 2 Trailer",
-      "link": "https://www.invenglobal.com/articles/25065/shift-up-unveils-stellar-blade-switch-2-trailer",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "© Shift UpShift Up unveiled a new trailer and key art for the Nintendo Switch 2 version of Stellar Blade on August 24.The newly released trailer focuses on a gameplay experience op......"
-    },
-    {
-      "words": [
-        "gates",
-        "olympus",
-        "opens",
-        "zeus"
-      ],
-      "at": "2026-08-24T07:45:18.178904+00:00",
-      "message_id": "1541352701332422807",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Olympus Opens Its Gates: 'Zeus: God of Arrogance' Launches on August 26",
-      "link": "https://www.invenglobal.com/articles/25063/olympus-opens-its-gates-zeus-god-of-arrogance-launches-on-august-26",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Weekly TOP Game Rankingsi1Genshin Impact▲22Zeus: God of Arrogance–3Onimusha: Way of the Sword▲14Marvel's WolverineNEW5Dragon Sword: Awakening–6Nioh 3 - Keian HellwardNEW7NBA 2K27NE......"
-    },
-    {
-      "words": [
         "21st",
         "anniversary",
         "attack",
@@ -24710,6 +24678,111 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/gdc-festival-of-gaming-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "GDC Festival of Gaming has announced changes to its 2027 event , including a new Business Hall at Moscone West. Read more"
+    },
+    {
+      "words": [
+        "3rd",
+        "appearance",
+        "asian",
+        "consecutive",
+        "faker",
+        "feels",
+        "great",
+        "inspiration",
+        "like",
+        "making",
+        "more",
+        "pressure",
+        "says",
+        "than"
+      ],
+      "at": "2026-08-25T08:09:38.183965+00:00",
+      "message_id": "1541721202425466913",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Making 3rd Consecutive Asian Games Appearance, 'Faker' Says It \"Feels More Like Great Inspiration Than Pressure\"",
+      "link": "https://www.invenglobal.com/articles/25104/making-3rd-consecutive-asian-games-appearance-faker-says-it-feels-more-like-great-inspiration-than-pressure",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©Inven\"It is an honor and I am grateful to compete in the Asian Games for the third consecutive time. I feel a heavy sense of responsibility accordingly, and that feels more like great inspiration than pressure...."
+    },
+    {
+      "words": [
+        "2026",
+        "ecosystem",
+        "electronics",
+        "gamescom",
+        "gaming",
+        "integrated",
+        "samsung",
+        "unveils"
+      ],
+      "at": "2026-08-25T08:09:38.183965+00:00",
+      "message_id": "1541721207739785312",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Samsung Electronics Unveils Integrated Gaming Ecosystem at Gamescom 2026",
+      "link": "https://www.invenglobal.com/articles/25103/samsung-electronics-unveils-integrated-gaming-ecosystem-at-gamescom-2026",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Samsung Electronics announced on August 25 that it will showcase an integrated gaming ecosystem spanning PC, console, and mobile at Gamescom, which opens on August 26 at Koelnmesse......"
+    },
+    {
+      "words": [
+        "18m",
+        "asia",
+        "bolster",
+        "deal",
+        "ecosystem",
+        "engine",
+        "firm",
+        "funding",
+        "godot",
+        "partner",
+        "secures",
+        "series",
+        "signs",
+        "tencent"
+      ],
+      "at": "2026-08-25T08:09:38.183965+00:00",
+      "message_id": "1541721213498294323",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "Godot Engine partner firm W4 Games secures $18m Series B funding, signs deal with Tencent to bolster Asia ecosystem",
+      "link": "https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/w4-games-founders_Facz0KG.jpeg?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "W4 Games has raised $18 million in a Series B funding round led by Tencent and has signed an agreement with the Chinese giant to scale and bolster the Godot ecosystem in Asia. Read more"
+    },
+    {
+      "words": [
+        "appoints",
+        "ioan",
+        "onjn",
+        "president",
+        "removes",
+        "romania",
+        "soare",
+        "tomescu",
+        "valentin"
+      ],
+      "at": "2026-08-25T08:09:38.183965+00:00",
+      "message_id": "1541721218841968671",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "Romania removes ONJN president Soare, appoints Valentin-Ioan Tomescu",
+      "link": "https://europeangaming.eu/portal/latest-news/2026/08/25/213116/romania-onjn-president-soare-removed-tomescu-appointed/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Romania-removes-ONJN-president-Soare-appoints-Valentin-Ioan-Tomescu.jpg",
+      "base_description": "The change was made by the decision of a caretaker prime minister, just over three weeks after anti-corruption… The post Romania removes ONJN president Soare, appoints Valentin-Ioan Tomescu appeared first on European Gaming Industry News ."
     }
   ]
 }
