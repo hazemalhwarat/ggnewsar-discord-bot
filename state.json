@@ -9311,7 +9311,9 @@
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JeDBEU0xHMUJhMzZZR054bWd6ZkUxZWR6QW5VNXhBeTVfU01Xb201NFZ5QV9NQUpPanFESjhDVE0teVA4QkUyVk1TX0hrR2VfR00tSkdFdUoweXlWbVJBc0NvWVoxaFZvaUo4?oc=5",
     "https://www.invenglobal.com/articles/25098/sega-publishing-korea-opens-pre-orders-for-stranger-than-heaven",
     "https://dotesports.com/the-first-descendant/guides/tfd-transcendent-weapons-farm",
-    "https://dotesports.com/guides/guides/mw4-best-mouse-and-keyboard-settings"
+    "https://dotesports.com/guides/guides/mw4-best-mouse-and-keyboard-settings",
+    "https://esports.gg/news/league-of-legends/hall-of-legends-reruns-confirmed/",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDUwUnppX0pLNkVudWhqOEJKcFRKYmZSNlUyUzBZVEpXNWU5MWoyLUdyRzBJLW9EY2pVdFVoU0I0V3BZZVlrSTU5TXZzdHJGWEgydVJNRG5LeFA5MWN5TjRRSG1VQ09ONm5TempyczR0WG5tS1JQSXFBZE9TMkVsZFAtQml4aFprMnhDVUp2Y3R2RVFBaVRUMm1MdGZmMDFVTDVoOGpWVQ?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18497,7 +18499,9 @@
     "bbeb172023cff06281538634ded6d156",
     "6405fa86ad10ec542c7016a16acce014",
     "49f2dfaa2f06468d931baae48938f1d9",
-    "142710854045214ae29ac65d1525aad2"
+    "142710854045214ae29ac65d1525aad2",
+    "972226b0442ee4ce6bd18b193a984f08",
+    "5f43341e8bf0e77f2b5f18e56b4a5189"
   ],
   "transfers": {
     "pages": {
@@ -22692,102 +22696,6 @@
   "sent_stories": [
     {
       "words": [
-        "creating",
-        "forest",
-        "genshin",
-        "hoyoverse",
-        "impact",
-        "korea",
-        "launch",
-        "project",
-        "steps",
-        "travelers"
-      ],
-      "at": "2026-08-24T03:38:22.801508+00:00",
-      "message_id": "1541290549976240200",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "HoYoverse Korea to Launch 'Genshin Impact Forest Project'... Creating a Forest from Travelers' Steps",
-      "link": "https://www.invenglobal.com/articles/25055/hoyoverse-korea-to-launch-genshin-impact-forest-project-creating-a-forest-from-travelers-steps",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Press Release - HoYoverse©HoYoVerseHoYoverse Korea announced on August 24 that it is launching the 'Genshin Impact Forest Project' in the open-world RPG 'Genshin Impact,' partnerin......"
-    },
-    {
-      "words": [
-        "buybacks",
-        "corporate",
-        "enhances",
-        "executive",
-        "initiatives",
-        "kakao",
-        "shareholder",
-        "stock",
-        "through",
-        "value"
-      ],
-      "at": "2026-08-24T03:38:22.801508+00:00",
-      "message_id": "1541290554959204443",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Kakao Games Enhances Shareholder Value Through Executive Stock Buybacks and Corporate Initiatives",
-      "link": "https://www.invenglobal.com/articles/25054/kakao-games-enhances-shareholder-value-through-executive-stock-buybacks-and-corporate-initiatives",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by Kakao Games © Kakao GamesKakao Games (Co-CEOs Kim Tae-hwan and Lee Si-woo) announced on August 24 that, following an extraordinary general meeting of shareholders that ......"
-    },
-    {
-      "words": [
-        "arrogance",
-        "become",
-        "can",
-        "competitive",
-        "everyone",
-        "god",
-        "mmorpg",
-        "zeus"
-      ],
-      "at": "2026-08-24T03:38:22.801508+00:00",
-      "message_id": "1541290560227246141",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Can 'Zeus: God of Arrogance' Become a Competitive MMORPG for Everyone?",
-      "link": "https://www.invenglobal.com/articles/25053/can-zeus-god-of-arrogance-become-a-competitive-mmorpg-for-everyone",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©Com2uS“Is it possible to make a competitive MMORPG that everyone can enjoy?”The new MMORPG 'Zeus: God of Arrogance' (hereafter 'Zeus'), published by Com2uS and developed by AButton, reportedly began with this very question...."
-    },
-    {
-      "words": [
-        "attend",
-        "bin",
-        "cup",
-        "final",
-        "macron",
-        "mohammad",
-        "salman",
-        "world"
-      ],
-      "at": "2026-08-24T04:04:59.631594+00:00",
-      "message_id": "1541297247663296574",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Tunisia Esports"
-      ],
-      "title": "Mohammad Bin Salman, Macron attend Esports World Cup final - Roya News",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFSTBKQ2puSkpNd0lnRmZoLXVKUzcwenY2UURRY0pOb2F4RUllaFlodUNHbXctUW1CMVMtQ1VmczJWMWFUOHMzaUZ3?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Mohammad Bin Salman, Macron attend Esports World Cup final Roya News"
-    },
-    {
-      "words": [
         "additional",
         "ceo",
         "employees",
@@ -24675,6 +24583,29 @@
       "color": 8141549,
       "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/mw4-search-and-destroy-transit-213.webp",
       "base_description": "For MnK players out there."
+    },
+    {
+      "words": [
+        "different",
+        "gaming",
+        "isn",
+        "marketing",
+        "nba",
+        "needs",
+        "playbook",
+        "why"
+      ],
+      "at": "2026-08-25T04:10:52.780115+00:00",
+      "message_id": "1541661116541964360",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports Business & Sponsorships (Google News bridge)"
+      ],
+      "title": "Esports Isn’t the New NBA: Why Gaming Needs a Different Marketing Playbook - Branding in Asia",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDUwUnppX0pLNkVudWhqOEJKcFRKYmZSNlUyUzBZVEpXNWU5MWoyLUdyRzBJLW9EY2pVdFVoU0I0V3BZZVlrSTU5TXZzdHJGWEgydVJNRG5LeFA5MWN5TjRRSG1VQ09ONm5TempyczR0WG5tS1JQSXFBZE9TMkVsZFAtQml4aFprMnhDVUp2Y3R2RVFBaVRUMm1MdGZmMDFVTDVoOGpWVQ?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Esports Isn’t the New NBA: Why Gaming Needs a Different Marketing Playbook Branding in Asia"
     }
   ]
 }
