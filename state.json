@@ -9429,7 +9429,12 @@
     "https://insider-gaming.com/tides-of-annihilation-new-trailer-gwendolyn-reveal/",
     "https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup",
     "https://www.nerfplz.com/2026/08/lol-2617-patch-notes-every-champion-and.html",
-    "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1OS0pHNWNISWE0OWM5Z2J1d1otbFkyTjVlY1ZtbjR5YzRSb1Itc2JsZ2hxZ0NIUDdueDNaWGs1Z2g?oc=5"
+    "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1OS0pHNWNISWE0OWM5Z2J1d1otbFkyTjVlY1ZtbjR5YzRSb1Itc2JsZ2hxZ0NIUDdueDNaWGs1Z2g?oc=5",
+    "https://insider-gaming.com/new-stage-tour-trailer-rocks-out-at-opening-night-live-2026/",
+    "https://www.invenglobal.com/articles/25122/sci-fi-action-rpg-exodus-to-launch-april-7-2027",
+    "https://www.invenglobal.com/articles/25121/guinevere-and-lancelot-appear-in-new-tides-of-annihilation-trailer",
+    "https://dotesports.com/pubg/news/pubg-dednet-closed-beta-signup-trailer-release-date",
+    "https://dotesports.com/general/news/ananta-release-date-reveal"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18731,7 +18736,12 @@
     "aae8f58058fd7c5b8bccb6cb851d0b6a",
     "3de3617e62dcf9f6307401c0edb2b6f2",
     "e5a2ceffb83b0bc7e13b396a43792873",
-    "508c75c8507a2ae5223dfd2faeb98122"
+    "508c75c8507a2ae5223dfd2faeb98122",
+    "5ffd5dbf4c0251ed6c851cd1ef6452bc",
+    "ec155908c1a685cc8c3cee23e4d5b1bd",
+    "30264b78ea277626654a8de79e89567e",
+    "cd806c73f13b5c87a8741a1e789e1dfa",
+    "2f0fb9efedf30ad72b84430c32ddf42f"
   ],
   "transfers": {
     "pages": {
@@ -23272,7 +23282,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "Inven Global (English)",
-        "Dot Esports"
+        "Dot Esports",
+        "Insider Gaming"
       ],
       "title": "Dynamic Duo to Perform at GXG 2026 Opening Stage",
       "link": "https://www.invenglobal.com/articles/25089/dynamic-duo-to-perform-at-gxg-2026-opening-stage",
@@ -24854,6 +24865,53 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Red Bull has announced REVERSE META, a creator-led VALORANT showmatch taking place at the Red Bull Gaming Sphere in London on August 29th. The 5v5 event will see a team of UK creators face esports org..."
+    },
+    {
+      "words": [
+        "annihilation",
+        "appear",
+        "guinevere",
+        "lancelot",
+        "tides",
+        "trailer"
+      ],
+      "at": "2026-08-25T19:45:56.462666+00:00",
+      "message_id": "1541896438240251945",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Guinevere and Lancelot Appear in New 'Tides of Annihilation' Trailer",
+      "link": "https://www.invenglobal.com/articles/25121/guinevere-and-lancelot-appear-in-new-tides-of-annihilation-trailer",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Eclipse Glow Games showcased a new two-minute trailer, \"Beneath the Veil,\" at Gamescom 2026 Opening Night Live (ONL) on August 25 (local time)...."
+    },
+    {
+      "words": [
+        "2027",
+        "ananta",
+        "cities",
+        "january",
+        "launches",
+        "lifestyle",
+        "moments",
+        "plenty",
+        "promises",
+        "two",
+        "when"
+      ],
+      "at": "2026-08-25T19:45:56.462666+00:00",
+      "message_id": "1541896443390984353",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "ANANTA promises two cities and plenty of lifestyle moments when it launches in January 2027",
+      "link": "https://dotesports.com/general/news/ananta-release-date-reveal",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/ananta-nova-city.webp",
+      "base_description": "Mark your calendars."
     }
   ]
 }
