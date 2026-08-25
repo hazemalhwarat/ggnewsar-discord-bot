@@ -9458,7 +9458,13 @@
     "https://www.invenglobal.com/articles/25128/the-witcher-3-remastered-launching-sept-29-new-expansion-to-be-revealed-in-2027",
     "https://www.invenglobal.com/articles/25126/from-co-op-and-action-to-rpgs-krafton-unveils-5-new-titles",
     "https://www.invenglobal.com/articles/25115/crimson-desert-enhanced-revealed-with-new-cutscenes-and-dialogue",
-    "https://insider-gaming.com/league-classic-patch-2-every-change-in-lol-patch-26-17/"
+    "https://insider-gaming.com/league-classic-patch-2-every-change-in-lol-patch-26-17/",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0h4SVRVdHJvc2hrdUw3bno5MTFfeEd1ZmEwN2xtdXNyQmpZWHh6VTh0Y0pac05OblMxc1k2TDR5Si1BSHhMUFo1MkhZTElBT0dGemh2Y0FPV2NYVU1FNlVjTnU5eGt5MVczemdRMjJtbDI5YTN0MFp2a1ExeTVadHNvRnJrYUtFMC0xYkF0VjlNMUZrWHpfVDBtdGJFLVJo?oc=5",
+    "https://dotesports.com/the-witcher/news/the-witcher-3-remaster-songs-of-the-past-dlc",
+    "https://www.invenglobal.com/articles/25132/lego-city-builder-lego-skylines-revealed",
+    "https://www.invenglobal.com/articles/25131/human-mind-transferred-to-rats-soma-spiritual-successor-ontos",
+    "https://www.invenglobal.com/articles/25130/paralives-from-a-four-day-gamble-to-rivaling-the-sims",
+    "https://www.invenglobal.com/articles/25129/silver-palace-debuts-multiplayer-content-house-of-greed"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18789,7 +18795,12 @@
     "695e8399a5cdee00e4d5e924483e0e7d",
     "75a04ee8df041e4ac3494b15f27d7624",
     "f6296a40c0acfc462ef3e670abed87fc",
-    "1208013694f31ffcc475b0489e813f06"
+    "1208013694f31ffcc475b0489e813f06",
+    "1fdfd6e36099f4200e69fc38f1cda17c",
+    "7133bcaa860ebca2127bee9bbe0fdda4",
+    "26a6c31f154583e37b13d1c9e2dc3bb3",
+    "6bf8936ade7bc524e3c4a13c1b63975f",
+    "6935e27344663681b922a8c7261408a3"
   ],
   "transfers": {
     "pages": {
@@ -22984,50 +22995,6 @@
   "sent_stories": [
     {
       "words": [
-        "according",
-        "design",
-        "narrative",
-        "principles",
-        "veteran",
-        "year"
-      ],
-      "at": "2026-08-24T21:25:06.137419+00:00",
-      "message_id": "1541558999659319489",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Principles of Game Narrative Design, According to a 30-Year Veteran",
-      "link": "https://www.invenglobal.com/articles/25083/principles-of-game-narrative-design-according-to-a-30-year-veteran",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Gamers love stories just as much as movies or TV shows. In fact, beloved games share many commonalities with stories that people love...."
-    },
-    {
-      "words": [
-        "among",
-        "beijing",
-        "closed",
-        "eternal",
-        "fire",
-        "iem",
-        "make",
-        "qualifier"
-      ],
-      "at": "2026-08-24T21:25:06.137419+00:00",
-      "message_id": "1541559005061840990",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Eternal Fire among teams to make IEM Beijing closed qualifier",
-      "link": "https://www.hltv.org/news/45382/eternal-fire-among-teams-to-make-iem-beijing-closed-qualifier",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/v8QpzjF5IvIncEV_P7buaB.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=5e91c2fb498d94c059c2d12a8e1fd813",
-      "base_description": "The international squad got the better of 100 Thieves in the qualification match."
-    },
-    {
-      "words": [
         "000",
         "below",
         "concurrent",
@@ -24800,7 +24767,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "Insider Gaming",
-        "Inven Global (English)"
+        "Inven Global (English)",
+        "Dot Esports"
       ],
       "title": "The Witcher 3: Songs of the Past Revealed in Full Alongside Remastered Update",
       "link": "https://insider-gaming.com/witcher-3-songs-of-the-past-revealed-in-full/",
@@ -24872,6 +24840,92 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "On August 25 local time, Pearl Abyss revealed an approximately one-minute trailer for 'Crimson Desert Enhanced' during Gamescom 2026 Opening Night Live (ONL) held in Cologne, Germa......"
+    },
+    {
+      "words": [
+        "builder",
+        "city",
+        "lego",
+        "revealed",
+        "skylines"
+      ],
+      "at": "2026-08-25T21:43:34.454950+00:00",
+      "message_id": "1541926042078548050",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "LEGO City-Builder 'LEGO Skylines' Revealed",
+      "link": "https://www.invenglobal.com/articles/25132/lego-city-builder-lego-skylines-revealed",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Players can now enjoy a proper city-builder in LEGO form. LEGO Skylines was revealed at Gamescom Opening Night Live.LEGO Skylines is a city-builder where you can create a one-of-a-kind city using LEGO bricks...."
+    },
+    {
+      "words": [
+        "human",
+        "mind",
+        "ontos",
+        "rats",
+        "soma",
+        "spiritual",
+        "successor",
+        "transferred"
+      ],
+      "at": "2026-08-25T21:43:34.454950+00:00",
+      "message_id": "1541926048860610641",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Human Mind Transferred to Rats? SOMA Spiritual Successor 'ONTOS'",
+      "link": "https://www.invenglobal.com/articles/25131/human-mind-transferred-to-rats-soma-spiritual-successor-ontos",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Frictional Games, developer of 'SOMA' and the 'Amnesia' series, has revealed new gameplay footage for its upcoming title 'ONTOS'.Frictional Games showcased new gameplay for 'ONTOS'......"
+    },
+    {
+      "words": [
+        "day",
+        "four",
+        "gamble",
+        "paralives",
+        "rivaling",
+        "sims"
+      ],
+      "at": "2026-08-25T21:43:34.454950+00:00",
+      "message_id": "1541926054111748169",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'Paralives', From a Four-Day Gamble to Rivaling The Sims",
+      "link": "https://www.invenglobal.com/articles/25130/paralives-from-a-four-day-gamble-to-rivaling-the-sims",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Four days. That was all it took to release a prototype built with the mindset that if it received no response, the project would be scrapped...."
+    },
+    {
+      "words": [
+        "content",
+        "debuts",
+        "greed",
+        "house",
+        "multiplayer",
+        "palace",
+        "silver"
+      ],
+      "at": "2026-08-25T21:43:34.454950+00:00",
+      "message_id": "1541926060344475659",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Silver Palace Debuts Multiplayer Content 'House of Greed'",
+      "link": "https://www.invenglobal.com/articles/25129/silver-palace-debuts-multiplayer-content-house-of-greed",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "On August 25 (local time), Elementa unveiled the trailer for 'Silver Palace: House of Greed' during Gamescom 2026 Opening Night Live (ONL)...."
     }
   ]
 }
