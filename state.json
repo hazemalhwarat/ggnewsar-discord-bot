@@ -9408,7 +9408,12 @@
     "https://esports.gg/guides/call-of-duty/how-to-check-your-kd-and-other-stats-in-modern-warfare-4/",
     "https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVktiRll0TnR1T0pPRUJ2Wlc1Z0ZvNkktU3dpT2p2VmxoNDdOTG1MalIyT0U1ZDl0YVpQY3UtQy0wM3p2X3VzUWVmcFNXSXdBMzNrem9FX3ZkbnFuNGxRZFVlTlFJb1hmUGlaNVRSamlQV1FoMlJFdFcwWGRoUG45QnRkMUhXNm9nS0YtOEZNQ3VOU0w4MFNvcWtWTHZfR1hYQTVXRnZXWXZzQ3Q5NWFLUzZwcWJPOVAwNE4xQk91MV9PWUljWG03ZENR0gFaQVVfeXFMT3lRQjlLbnBkU3JqZjhwUk9LeXBSelB0SklBd1JxV2dla2tkRHRtekptd3V2SVRWVGpBdllYaFFNOXdYbTRzWXptbG10c2ZBN1hYdnV0WjBRVUVB?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNUWZUdEJRbzBqY2ZsV2FGVDg3RWgwS0JWcl9ZN3ZqbVZXQzgwcUc3U2RydDJkakF3STEyamZJNXdNV2d0OU5JaUtrZExpSTFDWVY1QlRVWkVsQ3l3LXBLVGNEc3Jfdk1vMG51VS1hT0E1dk0tNmcyaGNEanRsaHJkRGVJZ0tha0dPc1JReVoxbzlVOE5qWlVscW13R0xnUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNUWZUdEJRbzBqY2ZsV2FGVDg3RWgwS0JWcl9ZN3ZqbVZXQzgwcUc3U2RydDJkakF3STEyamZJNXdNV2d0OU5JaUtrZExpSTFDWVY1QlRVWkVsQ3l3LXBLVGNEc3Jfdk1vMG51VS1hT0E1dk0tNmcyaGNEanRsaHJkRGVJZ0tha0dPc1JReVoxbzlVOE5qWlVscW13R0xnUQ?oc=5",
+    "https://dotesports.com/general/news/gamescom-onl-announcements-trailers",
+    "https://www.invenglobal.com/articles/25114/tom-clancys-rainbow-six-tactics-returns-as-turn-based-strategy-game-launching-in-2027",
+    "https://www.invenglobal.com/articles/25113/expanded-demo-released-for-upcoming-onimusha-way-of-the-sword",
+    "https://insider-gaming.com/gears-of-war-e-day-gamescom-story-trailer/",
+    "https://www.hotspawn.com/counter-strike/news/aleksib-blast-open-porto-2026-interview"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18689,7 +18694,12 @@
     "ad4018b0fef0a74fab13d24234947b5c",
     "2536587918fa542d123517cfc3541de7",
     "6ca38bedf81f790a71a4a0a2f6c6198a",
-    "002dce6512382cfe32cc63ec24487fa7"
+    "002dce6512382cfe32cc63ec24487fa7",
+    "2134ba1e3b5758c82d62942bbb0c638e",
+    "04903dd6a459362e7bc2a7bec3f0f199",
+    "47192c9f638a372a5e0fd306932b83b5",
+    "4f0107316feb63511739715363857a1e",
+    "21bc0c451dac9499ca207556ed6954dd"
   ],
   "transfers": {
     "pages": {
@@ -23324,7 +23334,8 @@
       "message_id": "1541617914870767647",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Inven Global (English)"
+        "Inven Global (English)",
+        "Dot Esports"
       ],
       "title": "Dynamic Duo to Perform at GXG 2026 Opening Stage",
       "link": "https://www.invenglobal.com/articles/25089/dynamic-duo-to-perform-at-gxg-2026-opening-stage",
@@ -24782,6 +24793,104 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Oman seal FIFAe World Cup spot after Asian bronze in Rocket League Oman Observer"
+    },
+    {
+      "words": [
+        "2027",
+        "based",
+        "clancy",
+        "launching",
+        "rainbow",
+        "returns",
+        "six",
+        "strategy",
+        "tactics",
+        "tom",
+        "turn"
+      ],
+      "at": "2026-08-25T18:29:03.418771+00:00",
+      "message_id": "1541877089526087772",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'Tom Clancy's Rainbow Six Tactics' Returns as Turn-Based Strategy Game, Launching in 2027",
+      "link": "https://www.invenglobal.com/articles/25114/tom-clancys-rainbow-six-tactics-returns-as-turn-based-strategy-game-launching-in-2027",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Ubisoft has unveiled 'Tom Clancy's Rainbow Six Tactics,' a single-player turn-based tactics game set in the 'Rainbow Six' universe.Ubisoft revealed the new title, 'Rainbow Six Tactics,' for the first time during Gamescom 2026 Opening Night Live...."
+    },
+    {
+      "words": [
+        "demo",
+        "expanded",
+        "onimusha",
+        "released",
+        "upcoming"
+      ],
+      "at": "2026-08-25T18:29:03.418771+00:00",
+      "message_id": "1541877095108706466",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Expanded Demo Released for Upcoming 'Onimusha: Way of the Sword'",
+      "link": "https://www.invenglobal.com/articles/25113/expanded-demo-released-for-upcoming-onimusha-way-of-the-sword",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Capcom has released a new demo version for its upcoming title 'Onimusha: Way of the Sword', expanding the game's playable content.Capcom unveiled the new demo for 'Onimusha: Way of......"
+    },
+    {
+      "words": [
+        "day",
+        "debuts",
+        "gamescom",
+        "gears",
+        "story",
+        "trailer",
+        "war"
+      ],
+      "at": "2026-08-25T18:29:03.418771+00:00",
+      "message_id": "1541877100510838976",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Gears of War: E-Day Story Trailer Debuts at Gamescom",
+      "link": "https://insider-gaming.com/gears-of-war-e-day-gamescom-story-trailer/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Gamescom’s Gears of War: E-Day narrative trailer sets up Marcus and Dom’s fight against the Locust Horde ahead of the October 6 release. The post Gears of War: E-Day Story Trailer Debuts at Gamescom appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "aleksib",
+        "bit",
+        "have",
+        "how",
+        "many",
+        "navi",
+        "ridiculous",
+        "roster",
+        "speculation",
+        "think",
+        "times",
+        "trophies",
+        "two",
+        "won",
+        "year"
+      ],
+      "at": "2026-08-25T18:29:03.418771+00:00",
+      "message_id": "1541877106299113493",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "Aleksib on NAVI roster speculation: “I do think that at times it’s a bit ridiculous… this year, how many teams have won two trophies?”",
+      "link": "https://www.hotspawn.com/counter-strike/news/aleksib-blast-open-porto-2026-interview",
+      "color": 8141549,
+      "image_url": "https://www.youtube.com/embed/WcTldnT0h2s",
+      "base_description": "Aleksi “Aleksib” Virolainen has been the NAVI in-game leader for over three years now, leading the team through several high and low periods. After two trophy wins in 2026, they have struggled to keep their momentum in the second half of the year, with disappointing showings at b"
     }
   ]
 }
