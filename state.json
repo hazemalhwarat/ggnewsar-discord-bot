@@ -9319,7 +9319,12 @@
     "https://europeangaming.eu/portal/press-releases/2026/08/25/213097/tom-horn-gaming-piggy-bank-heist-slot/",
     "https://europeangaming.eu/portal/press-releases/2026/08/25/213103/ag-al-esports-world-cup-2026-club-champion/",
     "https://insider-gaming.com/nyt-connections-hints-solutions-august-25-1171/",
-    "https://insider-gaming.com/metro-2039-collectors-edition-revealed/"
+    "https://insider-gaming.com/metro-2039-collectors-edition-revealed/",
+    "https://www.invenglobal.com/articles/25099/pearl-abyss-crimson-desert-receives-first-ever-20-discount",
+    "https://insider-gaming.com/esports-world-cup-viewers-850-million-2026/",
+    "https://www.invenglobal.com/articles/25100/limited-slots-endless-choices-a-summary-of-oversaturated-burst-2-nikkes",
+    "https://insider-gaming.com/embark-studios-arc-raiders-cheaters-8-billion-industry/",
+    "https://europeangaming.eu/portal/latest-news/2026/08/25/213109/bgc-illegal-premier-league-betting-forecast/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18513,7 +18518,12 @@
     "a5f225e2245b9c0dd1ed6de0ef629a97",
     "6f9e273e707deca9c1b567fab8481611",
     "1ffbac473504a3e1836268fd82af3b62",
-    "7820746f7c9e9fc683745bf40fba2a1c"
+    "7820746f7c9e9fc683745bf40fba2a1c",
+    "4e63f34e2bd0297dfefb186781c01357",
+    "d8312b7b2cc004eb6f1892aab8268901",
+    "ea42f32e6445155ded3b9d4a8bf79827",
+    "32761cb8d5ed331b98cffc663442ea2b",
+    "cc6cc706ee535253887784b8a12247ad"
   ],
   "transfers": {
     "pages": {
@@ -23220,7 +23230,8 @@
       "message_id": "1541400042089349171",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Hotspawn"
+        "Hotspawn",
+        "Insider Gaming"
       ],
       "title": "EWC 2026 Draws 850 Million Viewers as Paris Debut Breaks Records",
       "link": "https://www.hotspawn.com/other/news/ewc-2026-paris-debut-breaks-records",
@@ -24619,6 +24630,74 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "4A Games has unveiled the Metro 2039 Collector's Edition, which comes with a full-sized, wearable Spartan helmet. The post Metro 2039 Collector’s Edition Tease Reveals Wearable Spartan Helmet appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "burst",
+        "choices",
+        "endless",
+        "limited",
+        "nikkes",
+        "oversaturated",
+        "slots",
+        "summary"
+      ],
+      "at": "2026-08-25T06:35:27.571568+00:00",
+      "message_id": "1541697507359199283",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'Limited Slots, Endless Choices!' A Summary of Oversaturated Burst 2 Nikkes",
+      "link": "https://www.invenglobal.com/articles/25100/limited-slots-endless-choices-a-summary-of-oversaturated-burst-2-nikkes",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Saturated slot status!..."
+    },
+    {
+      "words": [
+        "addresses",
+        "against",
+        "billion",
+        "cheaters",
+        "embark",
+        "industry",
+        "studios"
+      ],
+      "at": "2026-08-25T06:35:27.571568+00:00",
+      "message_id": "1541697513378287759",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Embark Studios Addresses Cheaters: “We’re Up Against An $8 Billion Industry”",
+      "link": "https://insider-gaming.com/embark-studios-arc-raiders-cheaters-8-billion-industry/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "During a talk at Gamescom Dev, Embark Studios' Tom van Dijck addressed the state of cheating in ARC Raiders the THE FINALS. The post Embark Studios Addresses Cheaters: “We’re Up Against An $8 Billion Industry” appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "800m",
+        "betting",
+        "bgc",
+        "forecasts",
+        "illegal",
+        "league",
+        "premier",
+        "season"
+      ],
+      "at": "2026-08-25T06:35:27.571568+00:00",
+      "message_id": "1541697518402801725",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "BGC forecasts £800m illegal betting on Premier League this season",
+      "link": "https://europeangaming.eu/portal/latest-news/2026/08/25/213109/bgc-illegal-premier-league-betting-forecast/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/BGC-forecasts-800m-illegal-betting-on-Premier-League-this-season.jpg",
+      "base_description": "The BGC expects that to reach £1 billion a year from 2027/28, when a new 25% duty rate… The post BGC forecasts £800m illegal betting on Premier League this season appeared first on European Gaming Industry News ."
     }
   ]
 }
