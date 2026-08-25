@@ -9436,7 +9436,12 @@
     "https://dotesports.com/pubg/news/pubg-dednet-closed-beta-signup-trailer-release-date",
     "https://dotesports.com/general/news/ananta-release-date-reveal",
     "https://www.nerfplz.com/2026/08/patch-2617-tier-list-predictions-our.html",
-    "https://insider-gaming.com/warlock-dungeons-dragons-first-gameplay-reveal/"
+    "https://insider-gaming.com/warlock-dungeons-dragons-first-gameplay-reveal/",
+    "https://insider-gaming.com/hoyoverse-reveals-nodusfall-gamescom-2026/",
+    "https://esports.gg/news/gaming/all-gamescom-2026-announcements/",
+    "https://insider-gaming.com/witcher-3-songs-of-the-past-revealed-in-full/",
+    "https://insider-gaming.com/final-fantasy-7-revelation-release-window-revealed-during-gamescom-onl/",
+    "https://insider-gaming.com/lol-patch-26-17-patch-notes-big-vayne-and-nasus-nerfs/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18745,7 +18750,12 @@
     "cd806c73f13b5c87a8741a1e789e1dfa",
     "2f0fb9efedf30ad72b84430c32ddf42f",
     "cd10c18761525049a845449c124c69a7",
-    "396ada93a87ce170b82e016c942f3794"
+    "396ada93a87ce170b82e016c942f3794",
+    "767fcafe28ce82f69850cb09586ebac0",
+    "fed40e30ea3ad821e7111263fb9c8198",
+    "cc8ecdb2a638e1a0a953eb12d1b5fa8a",
+    "d8675aebdaa2653b1c83315ca82f4afb",
+    "e14df3636253949c71f1007f85c2348b"
   ],
   "transfers": {
     "pages": {
@@ -22940,82 +22950,6 @@
   "sent_stories": [
     {
       "words": [
-        "man",
-        "marvel",
-        "spider"
-      ],
-      "at": "2026-08-24T19:56:21.600414+00:00",
-      "message_id": "1541536671646875749",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Marvel's Spider-Man: The 'Ideas' That Changed the Game",
-      "link": "https://www.invenglobal.com/articles/25081/marvels-spider-man-the-ideas-that-changed-the-game",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©INVENIn game development, good ideas don't always come on schedule. A new idea might strike after the production schedule is already set, or developers might discover new gameplay possibilities in a scene originally planned as a cutscene...."
-    },
-    {
-      "words": [
-        "afloat",
-        "change",
-        "counter",
-        "don",
-        "hope",
-        "left",
-        "life",
-        "little",
-        "scene",
-        "stay",
-        "strike",
-        "struggling",
-        "support",
-        "there",
-        "things",
-        "women"
-      ],
-      "at": "2026-08-24T19:56:21.600414+00:00",
-      "message_id": "1541536676663394385",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Insider"
-      ],
-      "title": "“It’s on life support”: Women’s Counter-Strike 2 scene is struggling to stay afloat, and there is little hope left if things don’t change",
-      "link": "https://esportsinsider.com/2026/08/women-counter-strike-2-scene-struggling",
-      "color": 8141549,
-      "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/ESL_Impact-trophy-large.jpg",
-      "base_description": "On August 8th, one of the most prominent players in the women’s Counter-Strike 2 scene, Mayline “ASTRA” Champliaud, made waves by announcing her transition from CS to VALORANT esports. According to HLTV’s Women’s Player of the Year 2025, “the recent news of female CS falling apar"
-    },
-    {
-      "words": [
-        "2026",
-        "africa",
-        "championship",
-        "continental",
-        "côte",
-        "fifae",
-        "frmf",
-        "frmje",
-        "ivoire",
-        "tunisia"
-      ],
-      "at": "2026-08-24T19:56:21.600414+00:00",
-      "message_id": "1541536681675595837",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Tunisia Esports",
-        "Morocco Esports",
-        "Oman Esports"
-      ],
-      "title": "Team Côte d'Ivoire vs Team Tunisia — FIFAe Continental Championship 2026 Africa by FRMF/FRMJE - Sheep Esports",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zOGxPN05HUXRpcTI4ekNDT3FtalRfUF9mNWFtVVREX2ZBOEtuTXpJOGpuMmJTbjRQTW4yZlJ6cGdMSkJCaEFTQlYxcGZGN0hqT0J3YmFMbTl6ck9nTTFibllKT2NkWEx3WGxr?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Team Côte d'Ivoire vs Team Tunisia — FIFAe Continental Championship 2026 Africa by FRMF/FRMJE Sheep Esports"
-    },
-    {
-      "words": [
         "aram",
         "augment",
         "development",
@@ -23263,7 +23197,8 @@
       "message_id": "1541594319402569841",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "MENA esports transfer rumors (Google News bridge)"
+        "MENA esports transfer rumors (Google News bridge)",
+        "Esports.gg"
       ],
       "title": "Dota 2 2026 roster shuffle: All transfers, rumors, and more - Sportskeeda",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDIwdDAxMG1jcDV2MFlXNWpxNDlPb0tZR0ZhazhBSGN5dURKdEJteFdIS0RSelZNcER4OE13ak1LdVRPNGE5TW1xdE1DdVd0R1BpMVdMVHUxcFdFVTl0X2M5c0w3SlR5R3Q0V1VHUmlKNk5uck1iX3JjYVZvcjFfZ1QwQ3NFNko4aXBGT280WnFtdw?oc=5",
@@ -24916,6 +24851,52 @@
       "color": 8141549,
       "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/ananta-nova-city.webp",
       "base_description": "Mark your calendars."
+    },
+    {
+      "words": [
+        "alongside",
+        "full",
+        "past",
+        "remastered",
+        "revealed",
+        "songs",
+        "witcher"
+      ],
+      "at": "2026-08-25T20:03:46.637748+00:00",
+      "message_id": "1541900926993039442",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "The Witcher 3: Songs of the Past Revealed in Full Alongside Remastered Update",
+      "link": "https://insider-gaming.com/witcher-3-songs-of-the-past-revealed-in-full/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "CD Projekt has unveiled an all-new trailer for The Witcher 3: Songs of the Past during Opening Night Live, and it looks incredible. The post The Witcher 3: Songs of the Past Revealed in Full Alongside Remastered Update appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "during",
+        "fantasy",
+        "final",
+        "gamescom",
+        "onl",
+        "release",
+        "revealed",
+        "revelation",
+        "window"
+      ],
+      "at": "2026-08-25T20:03:46.637748+00:00",
+      "message_id": "1541900932349169805",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Final Fantasy 7 Revelation Release Window Revealed During Gamescom ONL",
+      "link": "https://insider-gaming.com/final-fantasy-7-revelation-release-window-revealed-during-gamescom-onl/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Whilst the appearance has come as no surprise, a brand new trailer was revealed during Gamescom ONL for Final Fantasy 7 Revelation The post Final Fantasy 7 Revelation Release Window Revealed During Gamescom ONL appeared first on Insider Gaming ."
     }
   ]
 }
