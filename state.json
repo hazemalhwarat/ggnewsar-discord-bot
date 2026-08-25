@@ -9332,7 +9332,11 @@
     "https://www.invenglobal.com/articles/25104/making-3rd-consecutive-asian-games-appearance-faker-says-it-feels-more-like-great-inspiration-than-pressure",
     "https://www.invenglobal.com/articles/25103/samsung-electronics-unveils-integrated-gaming-ecosystem-at-gamescom-2026",
     "https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem",
-    "https://europeangaming.eu/portal/latest-news/2026/08/25/213116/romania-onjn-president-soare-removed-tomescu-appointed/"
+    "https://europeangaming.eu/portal/latest-news/2026/08/25/213116/romania-onjn-president-soare-removed-tomescu-appointed/",
+    "https://www.invenglobal.com/articles/25101/genesis-update-d-1-streamer-server-standings-for-week-4-of-august",
+    "https://dotesports.com/deadlock/guides/deadlock-character-tier-list",
+    "https://gameriv.com/respawn-says-apex-legends-amps-will-keep-expanding-with-more-additions-planned/",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQkQ5RWd4dnUtc3dDN2F4V3JQaGt6OXEzUVpVYmJ6cVVKN3RSNVl3Z1BPVFBQRmpHYWswSXFieDczcW9NTjVENGFoSXl3WUw0b0RnUGJ6TlNRQmRyazhSR0NqS1JrbHYxM1IwSkhzc3o1bHQtZGVsTGM3SkREYUpEWDdxMUd3N2ZqSi1J?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18539,7 +18543,11 @@
     "034a45399f2bd64a451d5adfd64b3604",
     "4ebb0cdf8b2cd237b8fe5ef29ef5b217",
     "07b9cb03cd082fe80c7433406526f2ee",
-    "1adf7390a421cfb0438d5980778de792"
+    "1adf7390a421cfb0438d5980778de792",
+    "5387619f21509fe6418e609a5026417c",
+    "2c6371c2cbbd7c72f032aec8b819efb5",
+    "bba3e24507b5f53af1cd5053a134388a",
+    "42b2e187b21a55f46a3a67a0b7520ad6"
   ],
   "transfers": {
     "pages": {
@@ -22734,99 +22742,6 @@
   "sent_stories": [
     {
       "words": [
-        "21st",
-        "anniversary",
-        "attack",
-        "moonrise",
-        "nexon",
-        "plans",
-        "season",
-        "showcase",
-        "sudden",
-        "unveils"
-      ],
-      "at": "2026-08-24T08:28:27.145942+00:00",
-      "message_id": "1541363554156937218",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Nexon Unveils Season 4 'Moonrise' Plans at Sudden Attack 21st Anniversary Showcase",
-      "link": "https://www.invenglobal.com/articles/25067/nexon-unveils-season-4-moonrise-plans-at-sudden-attack-21st-anniversary-showcase",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Press Release - Nexon © NexonNexon (Co-CEOs Dae-hyun Kang and Jung-wook Kim) announced on August 24 that it held a Director Showcase and birthday party on August 23 to celebrate th......"
-    },
-    {
-      "words": [
-        "beta",
-        "fast",
-        "how",
-        "level",
-        "mw4",
-        "weapons"
-      ],
-      "at": "2026-08-24T08:28:27.145942+00:00",
-      "message_id": "1541363559823577179",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "How to level up weapons fast in MW4 beta",
-      "link": "https://dotesports.com/call-of-duty/guides/level-up-weapons-fast-modern-warfare-4",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/level-up-weapons-fast-MW4.webp",
-      "base_description": "Ideal methods listed here."
-    },
-    {
-      "words": [
-        "asking",
-        "claims",
-        "crypto",
-        "donations",
-        "gta",
-        "leak",
-        "predictor",
-        "sparks",
-        "staged",
-        "thing",
-        "whole"
-      ],
-      "at": "2026-08-24T08:28:27.145942+00:00",
-      "message_id": "1541363565338820678",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GameRiv"
-      ],
-      "title": "GTA 6 ‘Leak Predictor’ Asking for Crypto Donations Sparks Claims the Whole Thing Was Staged",
-      "link": "https://gameriv.com/gta-6-leak-predictor-asking-for-crypto-donations-sparks-claims-the-whole-thing-was-staged/",
-      "color": 8141549,
-      "image_url": "https://gameriv.com/wp-content/uploads/2026/08/GTA-6-leak-take-two-lawsuit.jpg",
-      "base_description": "The strange story surrounding a Reddit user who appeared to predict the latest GTA 6 leaks has taken another turn. The person now identifying themselves as Reddit user PilotX1970 is promoting cryptocurrency addresses and asking followers for donations, adding fresh skepticism to "
-    },
-    {
-      "words": [
-        "blox",
-        "farm",
-        "fruits",
-        "how",
-        "mini",
-        "tusks"
-      ],
-      "at": "2026-08-24T08:28:27.145942+00:00",
-      "message_id": "1541363570930094163",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "How to farm Mini Tusks in Blox Fruits",
-      "link": "https://esports.gg/guides/roblox/mini-tusks-blox-fruits/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Mini Tusks are Third Sea items required for crafting several swords in the game."
-    },
-    {
-      "words": [
         "enjoying",
         "gamescom",
         "starts",
@@ -23706,7 +23621,9 @@
       "message_id": "1541522299746910309",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Esports.gg"
+        "Esports.gg",
+        "Dot Esports",
+        "GameRiv"
       ],
       "title": "Apex Legends Season 30 tier list: Every legend ranked S to D",
       "link": "https://esports.gg/guides/apex-legends/apex-legends-tier-list/",
@@ -24783,6 +24700,28 @@
       "color": 8141549,
       "image_url": "https://media.europeangaming.eu/uploads/2026/08/Romania-removes-ONJN-president-Soare-appoints-Valentin-Ioan-Tomescu.jpg",
       "base_description": "The change was made by the decision of a caretaker prime minister, just over three weeks after anti-corruption… The post Romania removes ONJN president Soare, appoints Valentin-Ioan Tomescu appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "2027",
+        "international",
+        "rumour",
+        "silence",
+        "singapore",
+        "surfaces",
+        "valve"
+      ],
+      "at": "2026-08-25T08:59:37.032428+00:00",
+      "message_id": "1541733790194601998",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "General esports transfer rumors (Google News bridge)"
+      ],
+      "title": "The International 2027 Singapore Rumour Surfaces After Valve Silence - Shane the Gamer",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQkQ5RWd4dnUtc3dDN2F4V3JQaGt6OXEzUVpVYmJ6cVVKN3RSNVl3Z1BPVFBQRmpHYWswSXFieDczcW9NTjVENGFoSXl3WUw0b0RnUGJ6TlNRQmRyazhSR0NqS1JrbHYxM1IwSkhzc3o1bHQtZGVsTGM3SkREYUpEWDdxMUd3N2ZqSi1J?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The International 2027 Singapore Rumour Surfaces After Valve Silence Shane the Gamer"
     }
   ]
 }
