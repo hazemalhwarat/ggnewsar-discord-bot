@@ -9291,7 +9291,12 @@
     "https://www.invenglobal.com/articles/25087/com2us-holdings-lone-chef-to-attend-gamescom-2026-the-worlds-largest-gaming-exhibition",
     "https://www.invenglobal.com/articles/25086/kraftons-age-twisters-nominated-for-gamescom-award-2026",
     "https://www.invenglobal.com/articles/25085/the-era-of-guarding-game-files-is-over-the-shift-seen-by-embark",
-    "https://esports.gg/news/overwatch/lifeweaver-returns-to-overwatch-after-4-days/"
+    "https://esports.gg/news/overwatch/lifeweaver-returns-to-overwatch-after-4-days/",
+    "https://www.invenglobal.com/articles/25063/olympus-opens-zeus-god-of-pride-launches-on-the-26th",
+    "https://www.invenglobal.com/articles/25097/the-finals-korea-australia-joint-team-777rs-secures-first-win-in-apac-esports-league",
+    "https://www.invenglobal.com/articles/25096/efun-company-confirms-rogw-remains-of-gods-collaboration-with-naver-webtoon-tower-of-god",
+    "https://www.invenglobal.com/articles/25095/nexon-company-opens-recruitment-for-2026-game-programmer-internship",
+    "https://www.invenglobal.com/articles/25094/sixtar-gate-startrail-releases-berry-melody-collaboration-pack"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18457,7 +18462,12 @@
     "dfd3670103b7749ae4a2f5f35c8415c4",
     "9c6db1ee1c849c9fe5e2bbc3cce73e0d",
     "7f52dcf1ecbbdbb05a9682373b78023b",
-    "8c8f5f7782805a3be497074bce73c9f1"
+    "8c8f5f7782805a3be497074bce73c9f1",
+    "80fd362344a8072c561438877bb385f3",
+    "4003e66ceb7959b7cdce9f581302a919",
+    "e9c3d2770013043144b84ba96294fc8d",
+    "02d73ccba59502c522f975ab42631a3f",
+    "89f86f98e5d9046f4a7f5d15fa31fdfd"
   ],
   "transfers": {
     "pages": {
@@ -24586,6 +24596,102 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Embark Studios has abandoned its anti-cheat strategy focused on protecting game files, shifting its center of gravity toward player telemetry analysis...."
+    },
+    {
+      "words": [
+        "777rs",
+        "apac",
+        "australia",
+        "finals",
+        "first",
+        "joint",
+        "korea",
+        "league",
+        "secures",
+        "win"
+      ],
+      "at": "2026-08-25T02:37:06.959230+00:00",
+      "message_id": "1541637520255623230",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "THE FINALS: Korea-Australia Joint Team ‘777rs’ Secures First Win in APAC Esports League",
+      "link": "https://www.invenglobal.com/articles/25097/the-finals-korea-australia-joint-team-777rs-secures-first-win-in-apac-esports-league",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by Nexon©Nexon (co-CEOs Dae-hyun Kang and Jung-wook Kim) announced on August 25 that the Korea-Australia joint team '777rs' achieved its first league victory in the final ......"
+    },
+    {
+      "words": [
+        "collaboration",
+        "company",
+        "confirms",
+        "efun",
+        "god",
+        "gods",
+        "naver",
+        "remains",
+        "rogw",
+        "tower",
+        "webtoon"
+      ],
+      "at": "2026-08-25T02:37:06.959230+00:00",
+      "message_id": "1541637525326667777",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Efun Company Confirms 'ROGW: Remains of Gods' Collaboration with Naver Webtoon 'Tower of God'",
+      "link": "https://www.invenglobal.com/articles/25096/efun-company-confirms-rogw-remains-of-gods-collaboration-with-naver-webtoon-tower-of-god",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by Efun Company © Efun CompanyEfun Company Limited announced that its upcoming dark legacy adventure MMORPG, 'ROGW: Remains of Gods', will officially launch on September 1......"
+    },
+    {
+      "words": [
+        "2026",
+        "company",
+        "internship",
+        "nexon",
+        "opens",
+        "programmer",
+        "recruitment"
+      ],
+      "at": "2026-08-25T02:37:06.959230+00:00",
+      "message_id": "1541637530355761163",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Nexon Company Opens Recruitment for 2026 Game Programmer Internship",
+      "link": "https://www.invenglobal.com/articles/25095/nexon-company-opens-recruitment-for-2026-game-programmer-internship",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "© NexonNexon Company is strengthening its game development capabilities by recruiting double-digit applicants for its 2026 hiring-bound internship through September 7.On August 25,......"
+    },
+    {
+      "words": [
+        "berry",
+        "collaboration",
+        "gate",
+        "melody",
+        "pack",
+        "releases",
+        "sixtar",
+        "startrail"
+      ],
+      "at": "2026-08-25T02:37:06.959230+00:00",
+      "message_id": "1541637535481077862",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'Sixtar Gate: STARTRAIL' Releases 'Berry Melody' Collaboration Pack",
+      "link": "https://www.invenglobal.com/articles/25094/sixtar-gate-startrail-releases-berry-melody-collaboration-pack",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by CFK ©CFKGlobal game publisher CFK (CEO Chang-sik Koo) announced today (25th) that it has globally released the new collaboration pack 'Berry Melody' on the Nintendo eSh......"
     }
   ]
 }
