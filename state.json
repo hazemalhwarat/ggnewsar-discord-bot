@@ -9443,7 +9443,12 @@
     "https://insider-gaming.com/final-fantasy-7-revelation-release-window-revealed-during-gamescom-onl/",
     "https://insider-gaming.com/lol-patch-26-17-patch-notes-big-vayne-and-nasus-nerfs/",
     "https://insider-gaming.com/the-defiant-new-trailer-opening-night-live/",
-    "https://www.gamesindustry.biz/schell-games-reportedly-lays-off-staff"
+    "https://www.gamesindustry.biz/schell-games-reportedly-lays-off-staff",
+    "https://www.invenglobal.com/articles/25125/nc-unveils-new-title-like-or-die-at-gamescom",
+    "https://www.invenglobal.com/articles/25123/rainbow-six-tactics-aims-to-be-a-tactical-game-bridging-generations",
+    "https://www.invenglobal.com/articles/25114/turn-based-rainbow-six-tactics-set-for-2027-release",
+    "https://insider-gaming.com/lego-skylines-revealed-gamescom-2026/",
+    "https://www.hotspawn.com/rainbow-six/news/rainbow-six-tactics"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18759,7 +18764,12 @@
     "d8675aebdaa2653b1c83315ca82f4afb",
     "e14df3636253949c71f1007f85c2348b",
     "069552de0358e715278658173adfd2ea",
-    "dcd367e1bc4f18d4e8f2fd10c0fa8414"
+    "dcd367e1bc4f18d4e8f2fd10c0fa8414",
+    "9a335c03e26b241e550f6cdc3349b9a0",
+    "e5e0bda2b09f9c736668b8852a173e3c",
+    "be039fcef2fd548629cc15f509bc8656",
+    "4a73c60c385b60f05b430f2fc333b051",
+    "9f7c2b74b1e395b9b9c4dc41a6a89e1e"
   ],
   "transfers": {
     "pages": {
@@ -22954,46 +22964,6 @@
   "sent_stories": [
     {
       "words": [
-        "aram",
-        "augment",
-        "development",
-        "lol",
-        "mayhem",
-        "reveals",
-        "secrets"
-      ],
-      "at": "2026-08-24T20:22:43.070213+00:00",
-      "message_id": "1541543300299882568",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "LoL 'ARAM: Mayhem' Reveals the Secrets of Augment Development",
-      "link": "https://www.invenglobal.com/articles/25082/lol-aram-mayhem-reveals-the-secrets-of-augment-development",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "What if a neuroscientist who used to help amputees regain movement in their hands ended up designing unique Augments in League of Legends one day? That is the story of Noor Amin, Senior Game Designer at Riot Games...."
-    },
-    {
-      "words": [
-        "departs",
-        "heroic",
-        "yxngstxr"
-      ],
-      "at": "2026-08-24T20:22:43.070213+00:00",
-      "message_id": "1541543306352394403",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "yxngstxr departs HEROIC",
-      "link": "https://www.hltv.org/news/45380/yxngstxr-departs-heroic",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/z61gs--hWrtl7Cziy6r9af.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=8cf518ca9088295f806a0bbd1747faa4",
-      "base_description": "The Swede leaves the organization \"as he sets off on a new journey.\""
-    },
-    {
-      "words": [
         "bench",
         "bymas",
         "luminosity"
@@ -23277,7 +23247,8 @@
       "message_id": "1541617925088354305",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Inven Global (English)"
+        "Inven Global (English)",
+        "Insider Gaming"
       ],
       "title": "Com2uS Holdings' 'Lone Chef' to Attend Gamescom 2026, the World's Largest Gaming Exhibition",
       "link": "https://www.invenglobal.com/articles/25087/com2us-holdings-lone-chef-to-attend-gamescom-2026-the-worlds-largest-gaming-exhibition",
@@ -24704,7 +24675,8 @@
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
         "Inven Global (English)",
-        "Insider Gaming"
+        "Insider Gaming",
+        "Hotspawn"
       ],
       "title": "'Tom Clancy's Rainbow Six Tactics' Returns as Turn-Based Strategy Game, Launching in 2027",
       "link": "https://www.invenglobal.com/articles/25114/tom-clancys-rainbow-six-tactics-returns-as-turn-based-strategy-game-launching-in-2027",
