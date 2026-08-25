@@ -9405,7 +9405,9 @@
     "https://insider-gaming.com/nikita-buyanov-fragmentary-order-gameplay-reveal/",
     "https://www.hotspawn.com/counter-strike/news/molodoy-blast-open-porto-2026-interview",
     "https://esportsadvocate.net/2026/08/esports-world-cup-2026-organization-earnings/",
-    "https://esports.gg/guides/call-of-duty/how-to-check-your-kd-and-other-stats-in-modern-warfare-4/"
+    "https://esports.gg/guides/call-of-duty/how-to-check-your-kd-and-other-stats-in-modern-warfare-4/",
+    "https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVktiRll0TnR1T0pPRUJ2Wlc1Z0ZvNkktU3dpT2p2VmxoNDdOTG1MalIyT0U1ZDl0YVpQY3UtQy0wM3p2X3VzUWVmcFNXSXdBMzNrem9FX3ZkbnFuNGxRZFVlTlFJb1hmUGlaNVRSamlQV1FoMlJFdFcwWGRoUG45QnRkMUhXNm9nS0YtOEZNQ3VOU0w4MFNvcWtWTHZfR1hYQTVXRnZXWXZzQ3Q5NWFLUzZwcWJPOVAwNE4xQk91MV9PWUljWG03ZENR0gFaQVVfeXFMT3lRQjlLbnBkU3JqZjhwUk9LeXBSelB0SklBd1JxV2dla2tkRHRtekptd3V2SVRWVGpBdllYaFFNOXdYbTRzWXptbG10c2ZBN1hYdnV0WjBRVUVB?oc=5"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18683,7 +18685,9 @@
     "70c8d9097d91d2aa7d7120c6348a8a0d",
     "a667bfcaf7c148b0d36d197870f83cbd",
     "f2c1992b2bb0445d1dba2e5bae208cff",
-    "ad4018b0fef0a74fab13d24234947b5c"
+    "ad4018b0fef0a74fab13d24234947b5c",
+    "2536587918fa542d123517cfc3541de7",
+    "6ca38bedf81f790a71a4a0a2f6c6198a"
   ],
   "transfers": {
     "pages": {
@@ -22878,48 +22882,6 @@
   "sent_stories": [
     {
       "words": [
-        "bracket",
-        "format",
-        "pacific",
-        "riot",
-        "unveils"
-      ],
-      "at": "2026-08-24T17:05:48.251645+00:00",
-      "message_id": "1541493744539406338",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "VLR.gg",
-        "Esports.gg"
-      ],
-      "title": "Riot unveils GC Pacific format and bracket",
-      "link": "https://www.vlr.gg/743747/riot-unveils-gc-pacific-format-and-bracket",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "GC Pacific in Bali is just around the corner!"
-    },
-    {
-      "words": [
-        "2025",
-        "class",
-        "fame",
-        "gets",
-        "hall",
-        "map"
-      ],
-      "at": "2026-08-24T17:05:48.251645+00:00",
-      "message_id": "1541493749966704764",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "Hall of Fame map gets an update for the Class of 2025",
-      "link": "https://www.hltv.org/news/45374/hall-of-fame-map-gets-an-update-for-the-class-of-2025",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/Y3M8iZONpUSZ9TUucZyHCW.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=155664db03036ba7deab623f47e6b994",
-      "base_description": "The map now has three new challenges for the players inducted into the Hall in 2025."
-    },
-    {
-      "words": [
         "2028",
         "looking",
         "projekt",
@@ -24816,6 +24778,56 @@
       "color": 8141549,
       "image_url": "https://www.youtube.com/embed/RhTWjeDVIwk",
       "base_description": "Danil “molodoy” Golubenko has been one of the best AWPers in CS2 since joining FURIA in early 2025. His rise came as a huge surprise, but now, he is well and truly established at the top of the game. He and his FURIA team arrive at BLAST Open Porto 2026 after a top-four finish at"
+    },
+    {
+      "words": [
+        "based",
+        "browser",
+        "build",
+        "console",
+        "entity",
+        "gaming",
+        "million",
+        "platform",
+        "quality",
+        "raises"
+      ],
+      "at": "2026-08-25T17:17:28.778441+00:00",
+      "message_id": "1541859071030988942",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "Entity raises $5.8 million to build browser-based \"console-quality\" gaming platform",
+      "link": "https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/entity.webp?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "Irish startup Entity has raised $5.8 million (€5 million) in seed funding to build a browser-based gaming platform it says will deliver console-quality games without downloads or installs. Read more"
+    },
+    {
+      "words": [
+        "asian",
+        "bronze",
+        "cup",
+        "fifae",
+        "league",
+        "oman",
+        "rocket",
+        "seal",
+        "spot",
+        "world"
+      ],
+      "at": "2026-08-25T17:17:28.778441+00:00",
+      "message_id": "1541859076634583212",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Oman Esports"
+      ],
+      "title": "Oman seal FIFAe World Cup spot after Asian bronze in Rocket League - Oman Observer",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVktiRll0TnR1T0pPRUJ2Wlc1Z0ZvNkktU3dpT2p2VmxoNDdOTG1MalIyT0U1ZDl0YVpQY3UtQy0wM3p2X3VzUWVmcFNXSXdBMzNrem9FX3ZkbnFuNGxRZFVlTlFJb1hmUGlaNVRSamlQV1FoMlJFdFcwWGRoUG45QnRkMUhXNm9nS0YtOEZNQ3VOU0w4MFNvcWtWTHZfR1hYQTVXRnZXWXZzQ3Q5NWFLUzZwcWJPOVAwNE4xQk91MV9PWUljWG03ZENR0gFaQVVfeXFMT3lRQjlLbnBkU3JqZjhwUk9LeXBSelB0SklBd1JxV2dla2tkRHRtekptd3V2SVRWVGpBdllYaFFNOXdYbTRzWXptbG10c2ZBN1hYdnV0WjBRVUVB?oc=5",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Oman seal FIFAe World Cup spot after Asian bronze in Rocket League Oman Observer"
     }
   ]
 }
