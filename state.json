@@ -9314,7 +9314,9 @@
     "https://dotesports.com/guides/guides/mw4-best-mouse-and-keyboard-settings",
     "https://esports.gg/news/league-of-legends/hall-of-legends-reruns-confirmed/",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDUwUnppX0pLNkVudWhqOEJKcFRKYmZSNlUyUzBZVEpXNWU5MWoyLUdyRzBJLW9EY2pVdFVoU0I0V3BZZVlrSTU5TXZzdHJGWEgydVJNRG5LeFA5MWN5TjRRSG1VQ09ONm5TempyczR0WG5tS1JQSXFBZE9TMkVsZFAtQml4aFprMnhDVUp2Y3R2RVFBaVRUMm1MdGZmMDFVTDVoOGpWVQ?oc=5",
-    "https://dotesports.com/dota-2/news/virtus-pro-disbands-dota-2-roster-ti-2026"
+    "https://dotesports.com/dota-2/news/virtus-pro-disbands-dota-2-roster-ti-2026",
+    "https://esports.gg/guides/league-of-legends/hall-of-legends-caps-bundles-whats-inside/",
+    "https://europeangaming.eu/portal/press-releases/2026/08/25/213097/tom-horn-gaming-piggy-bank-heist-slot/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18503,7 +18505,9 @@
     "142710854045214ae29ac65d1525aad2",
     "972226b0442ee4ce6bd18b193a984f08",
     "5f43341e8bf0e77f2b5f18e56b4a5189",
-    "1a7d4e8930a7e1daf34eb3a2c7132c93"
+    "1a7d4e8930a7e1daf34eb3a2c7132c93",
+    "93722f43e3279745093bd8f561644566",
+    "a5f225e2245b9c0dd1ed6de0ef629a97"
   ],
   "transfers": {
     "pages": {
@@ -22698,53 +22702,6 @@
   "sent_stories": [
     {
       "words": [
-        "additional",
-        "ceo",
-        "employees",
-        "executives",
-        "join",
-        "purchases",
-        "shares",
-        "treasury",
-        "valofe"
-      ],
-      "at": "2026-08-24T05:12:32.310412+00:00",
-      "message_id": "1541314245856075828",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "VALOFE CEO Purchases Additional Treasury Shares as Executives and Employees Join In",
-      "link": "https://www.invenglobal.com/articles/25056/valofe-ceo-purchases-additional-treasury-shares-as-executives-and-employees-join-in",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by VALOFE© VALOFEGlobal game publisher VALOFE (CEO Shin Jae-myung) announced on the 24th that following an earnings surprise in Q2, key executives and employees, including......"
-    },
-    {
-      "words": [
-        "2026",
-        "africa",
-        "classificació",
-        "cup",
-        "knockout",
-        "nations",
-        "qualifier",
-        "resultats"
-      ],
-      "at": "2026-08-24T05:12:32.310412+00:00",
-      "message_id": "1541314251346681937",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Nations Cup 2026"
-      ],
-      "title": "Resultats i classificació - Esports Nations Cup 2026 | Qualifier 1 - Africa - Knockout - Chess.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEZUOHIyWGhlMjdrRVJuV25hM0ZGbFMtNVVrVWxJa0FmdHdwdUlZZF92UnU3ZDlpR3BXNnF5TzJRenlCQnltUndSWngyNTJIUFpTRVdibVdzNVhxNEp2TXFMVEVLbjBnVHRLU3pDTW84elVDVEJjVGQwQlk0QnZkT19ELWlRV1dZZW1GZmhvM2J1cjN1ektF?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Resultats i classificació - Esports Nations Cup 2026 | Qualifier 1 - Africa - Knockout Chess.com"
-    },
-    {
-      "words": [
         "brain",
         "casual",
         "kakao",
@@ -24632,6 +24589,49 @@
       "color": 8141549,
       "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/dota-2-virtus-pro-roster-disband.webp",
       "base_description": "VP remains in the Dota 2 scene despite missing out on another TI."
+    },
+    {
+      "words": [
+        "bundles",
+        "caps",
+        "hall",
+        "legends"
+      ],
+      "at": "2026-08-25T05:26:16.890899+00:00",
+      "message_id": "1541680092072116235",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "Hall of Legends Caps bundles: What’s inside?",
+      "link": "https://esports.gg/guides/league-of-legends/hall-of-legends-caps-bundles-whats-inside/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Will you whale for Caps?"
+    },
+    {
+      "words": [
+        "august",
+        "bank",
+        "gaming",
+        "heist",
+        "horn",
+        "launches",
+        "piggy",
+        "slot",
+        "tom"
+      ],
+      "at": "2026-08-25T05:26:16.890899+00:00",
+      "message_id": "1541680097172521021",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "Tom Horn Gaming launches Piggy Bank Heist slot on 27 August",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/08/25/213097/tom-horn-gaming-piggy-bank-heist-slot/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Tom-Horn-Gaming-launches-Piggy-Bank-Heist-slot-on-27-August.jpg",
+      "base_description": "The title follows Giza’s Portals with a near-identical feature structure, multiplier wilds, a pick-up bonus, and sticky free… The post Tom Horn Gaming launches Piggy Bank Heist slot on 27 August appeared first on European Gaming Industry News ."
     }
   ]
 }
