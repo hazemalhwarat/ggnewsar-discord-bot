@@ -9482,7 +9482,12 @@
     "https://gameriv.com/marathon-season-3-leaks-reveal-huge-four-run-pve-mode-new-bosses-weapons-and-more/",
     "https://www.gamesindustry.biz/the-highlights-of-gamescom-opening-night-live-2026",
     "https://gameriv.com/apex-legends-season-30-split-2-battle-pass/",
-    "https://gameriv.com/lol-patch-26-17-notes/"
+    "https://gameriv.com/lol-patch-26-17-notes/",
+    "https://www.invenglobal.com/articles/25147/neteases-new-title-sea-of-remnants-to-hold-global-cbt-in-december",
+    "https://www.invenglobal.com/articles/25146/roblox-blocks-rewarded-infinite-scroll-on-kids-accounts",
+    "https://www.invenglobal.com/articles/25145/higher-tier-arch-weapon-snowsoul-arrives-tl-massively-eases-nix-content",
+    "https://www.invenglobal.com/articles/25144/mgame-releases-main-story-video-for-martial-arts-idle-rpg-ghost-online-idle",
+    "https://www.invenglobal.com/articles/25143/celestial-sentinel-has-returned-lost-ark-updates-remnant-of-the-end"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18834,7 +18839,12 @@
     "c261705f37a5f68e5c119a73e6e6aeff",
     "e22ccb226e4d9fb0435528dc2ed77a3c",
     "683d2cd15c55f37ab6d62d6b6264068e",
-    "b1a0e2b3b75ed2ba15a09b5d038668e4"
+    "b1a0e2b3b75ed2ba15a09b5d038668e4",
+    "33f42dd99cb84fac517e3eb813a56932",
+    "1e11a542e379968ebc1d1ece36561391",
+    "3fe5a5ec5f9c1690a9a83adcaf1995fe",
+    "ec5532bc0c57877f495724af258a646a",
+    "60c2657d3bcc01fbe527dfc6f66fd221"
   ],
   "transfers": {
     "pages": {
@@ -23029,123 +23039,6 @@
   "sent_stories": [
     {
       "words": [
-        "2026",
-        "duo",
-        "dynamic",
-        "gxg",
-        "opening",
-        "perform",
-        "stage"
-      ],
-      "at": "2026-08-25T01:19:12.631065+00:00",
-      "message_id": "1541617914870767647",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)",
-        "Dot Esports",
-        "Insider Gaming"
-      ],
-      "title": "Dynamic Duo to Perform at GXG 2026 Opening Stage",
-      "link": "https://www.invenglobal.com/articles/25089/dynamic-duo-to-perform-at-gxg-2026-opening-stage",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "© Game Culture FoundationDetailed stage events have been fully revealed for GXG 2026 (Game Culture X Generation 2026), a game culture festival hosted by Seongnam City (Mayor Shin S......"
-    },
-    {
-      "words": [
-        "10th",
-        "anniversary",
-        "celebration",
-        "cookierun",
-        "festival",
-        "franchise",
-        "grand",
-        "hosts",
-        "ovenbreak",
-        "wide"
-      ],
-      "at": "2026-08-25T01:19:12.631065+00:00",
-      "message_id": "1541617919908253697",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "CookieRun: OvenBreak Hosts 'CookieRun Grand Festival' Franchise-Wide Celebration for 10th Anniversary",
-      "link": "https://www.invenglobal.com/articles/25088/cookierun-ovenbreak-hosts-cookierun-grand-festival-franchise-wide-celebration-for-10th-anniversary",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by Devsisters Devsisters (CEO Cho Gil-hyun) announced that it will hold the \"CookieRun Grand Festival,\" a franchise-wide offline event for the CookieRun IP, at Seoul Child......"
-    },
-    {
-      "words": [
-        "2026",
-        "attend",
-        "chef",
-        "com2us",
-        "exhibition",
-        "gamescom",
-        "gaming",
-        "holdings",
-        "largest",
-        "lone",
-        "world"
-      ],
-      "at": "2026-08-25T01:19:12.631065+00:00",
-      "message_id": "1541617925088354305",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)",
-        "Insider Gaming"
-      ],
-      "title": "Com2uS Holdings' 'Lone Chef' to Attend Gamescom 2026, the World's Largest Gaming Exhibition",
-      "link": "https://www.invenglobal.com/articles/25087/com2us-holdings-lone-chef-to-attend-gamescom-2026-the-worlds-largest-gaming-exhibition",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Press Release - Com2uS Holdings © Com2uS HoldingsCom2uS Holdings (CEO Jung Chul-ho) announced on August 25 that its new PC and console title 'Lone Chef' will participate in 'Gamesc......"
-    },
-    {
-      "words": [
-        "2026",
-        "age",
-        "award",
-        "gamescom",
-        "krafton",
-        "nominated",
-        "twisters"
-      ],
-      "at": "2026-08-25T01:19:12.631065+00:00",
-      "message_id": "1541617930184294464",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Krafton's 'Age Twisters' Nominated for Gamescom Award 2026",
-      "link": "https://www.invenglobal.com/articles/25086/kraftons-age-twisters-nominated-for-gamescom-award-2026",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by Krafton © KraftonKrafton (CEO CH Kim) announced that Piccolo Studio's new title 'Age Twisters' has been nominated for the 'Most Wholesome' category at the Gamescom Awar......"
-    },
-    {
-      "words": [
-        "era",
-        "files",
-        "guarding",
-        "over"
-      ],
-      "at": "2026-08-25T01:19:12.631065+00:00",
-      "message_id": "1541617935322316821",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "The Era of Guarding Game Files Is Over: The Shift Seen by Embark",
-      "link": "https://www.invenglobal.com/articles/25085/the-era-of-guarding-game-files-is-over-the-shift-seen-by-embark",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Embark Studios has abandoned its anti-cheat strategy focused on protecting game files, shifting its center of gravity toward player telemetry analysis...."
-    },
-    {
-      "words": [
         "777rs",
         "apac",
         "australia",
@@ -25034,6 +24927,125 @@
       "color": 8141549,
       "image_url": "https://gameriv.com/wp-content/uploads/2026/08/New-Ocean-Song-Jinx-and-Soraka-Skins-Aplash-Art-‼️.jpg",
       "base_description": "Riot Games has released the full League of Legends Patch 26.17 notes, bringing another round of champion and item balance changes to Summoner’s Rift alongside major updates for League Classic, ARAM: Mayhem, and Arena. Riot is targeting several champions that have become too domin"
+    },
+    {
+      "words": [
+        "cbt",
+        "december",
+        "global",
+        "hold",
+        "netease",
+        "remnants",
+        "sea",
+        "title"
+      ],
+      "at": "2026-08-26T02:22:21.279051+00:00",
+      "message_id": "1541996193331286187",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "NetEase's New Title 'Sea of Remnants' to Hold Global CBT in December",
+      "link": "https://www.invenglobal.com/articles/25147/neteases-new-title-sea-of-remnants-to-hold-global-cbt-in-december",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by NetEaseGlobal game developer and publisher NetEase Games and its subsidiary Joker Studio announced that their new turn-based roguelike RPG, \"Sea of Remnants,\" will hold......"
+    },
+    {
+      "words": [
+        "accounts",
+        "blocks",
+        "infinite",
+        "kids",
+        "rewarded",
+        "roblox",
+        "scroll"
+      ],
+      "at": "2026-08-26T02:22:21.279051+00:00",
+      "message_id": "1541996198297075725",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Roblox Blocks 'Rewarded Infinite Scroll' on Kids' Accounts",
+      "link": "https://www.invenglobal.com/articles/25146/roblox-blocks-rewarded-infinite-scroll-on-kids-accounts",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Short-form video playing inside a game ©Foltyn YoutubeAs players engage with a game, short-form videos play endlessly. Enjoying short-form media alongside gameplay, users fail to find a moment to stop playing...."
+    },
+    {
+      "words": [
+        "arch",
+        "arrives",
+        "content",
+        "eases",
+        "higher",
+        "massively",
+        "nix",
+        "snowsoul",
+        "tier",
+        "weapon"
+      ],
+      "at": "2026-08-26T02:22:21.279051+00:00",
+      "message_id": "1541996203640885310",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Higher-Tier Arch Weapon 'Snowsoul' Arrives! TL Massively Eases Nix Content",
+      "link": "https://www.invenglobal.com/articles/25145/higher-tier-arch-weapon-snowsoul-arrives-tl-massively-eases-nix-content",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "NC's MMORPG Throne and Liberty (TL) underwent a scheduled update on August 25.The update added 'Snowsoul' weapons, a tier above the Radiant Toland Arch Boss weapons...."
+    },
+    {
+      "words": [
+        "arts",
+        "ghost",
+        "idle",
+        "main",
+        "martial",
+        "mgame",
+        "online",
+        "releases",
+        "rpg",
+        "story",
+        "video"
+      ],
+      "at": "2026-08-26T02:22:21.279051+00:00",
+      "message_id": "1541996208631971891",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Mgame releases main story video for martial arts idle RPG 'Ghost Online Idle'",
+      "link": "https://www.invenglobal.com/articles/25144/mgame-releases-main-story-video-for-martial-arts-idle-rpg-ghost-online-idle",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by MgameMgame (CEO Kwon Yi-hyeong) announced on August 26 that it has released the story video for its self-developed martial arts idle RPG 'Ghost Online Idle' via its off......"
+    },
+    {
+      "words": [
+        "ark",
+        "celestial",
+        "end",
+        "has",
+        "lost",
+        "remnant",
+        "returned",
+        "sentinel"
+      ],
+      "at": "2026-08-26T02:22:21.279051+00:00",
+      "message_id": "1541996213719662633",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Celestial Sentinel Has Returned?! Lost Ark Updates 'Remnant of the End'",
+      "link": "https://www.invenglobal.com/articles/25143/celestial-sentinel-has-returned-lost-ark-updates-remnant-of-the-end",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Lost Ark added new content, 'Remnant of the End', through a regular update on August 26.Remnant of the End is 4-player party content where players battle bosses encountered in past......"
     }
   ]
 }
