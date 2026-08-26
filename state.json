@@ -9555,7 +9555,12 @@
     "https://www.invenglobal.com/articles/25158/open-world-creature-catching-rpg-aniimo-confirms-global-release-for-september-16",
     "https://www.hltv.org/news/45390/best-highlights-from-blast-open-porto-group-stage",
     "https://esports.gg/news/league-of-legends/k-da-track-watch-me-lightstick-and-designs-leaked/",
-    "https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships"
+    "https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships",
+    "https://www.hotspawn.com/league-of-legends/news/k-da-new-song-watch-me-leaked",
+    "https://dotesports.com/call-of-duty/guides/mw4-open-bata-preload-guide",
+    "https://insider-gaming.com/caedrel-max-vs-100-verstappen-go-kart-race/",
+    "https://www.hotspawn.com/counter-strike/news/best-polygon-gloves-knife-combos-in-cs2",
+    "https://europeangaming.eu/portal/press-releases/2026/08/26/213206/bgaming-three-game-worlds-partner-data/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18979,7 +18984,12 @@
     "28a0a312cec6bad15726ab7ddc2233d0",
     "d825b9a9d322cb8ecf7bdd1513487a0b",
     "0ee57bf28ee6517b0d1fb83becd4633e",
-    "911f17a466483be4ec60db1d13cc0f7f"
+    "911f17a466483be4ec60db1d13cc0f7f",
+    "451edbd8980206054bb1edb24a08ed02",
+    "9eeecdcdb22166263e908ef1499bcebc",
+    "38c0af8189cdb1a90dcafebe84648326",
+    "6ee3704c01842146225f21c6db206d73",
+    "867c1e6bf9a2c983d382d04d440643c8"
   ],
   "transfers": {
     "pages": {
@@ -23174,30 +23184,6 @@
   "sent_stories": [
     {
       "words": [
-        "actually",
-        "champion",
-        "diversity",
-        "draft",
-        "fearless",
-        "has",
-        "improved",
-        "league",
-        "legends"
-      ],
-      "at": "2026-08-25T10:06:41.485067+00:00",
-      "message_id": "1541750664626184213",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Insider"
-      ],
-      "title": "Has Fearless Draft actually improved champion diversity in League of Legends?",
-      "link": "https://esportsinsider.com/2026/08/has-fearless-draft-improved-champion-diversity-league",
-      "color": 8141549,
-      "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/image-31-large.jpeg",
-      "base_description": "The League of Legends pro circuit used to have a drafting problem, but has Fearless Draft actually changed that? In the past, you could finish game 1 of a best-of-five, load into game 2, and see half of the same champions again. Maybe they swapped sides or banned a priority pick,"
-    },
-    {
-      "words": [
         "135",
         "comps",
         "top"
@@ -25118,7 +25104,8 @@
       "message_id": "1542110593199247421",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Esports.gg"
+        "Esports.gg",
+        "Hotspawn"
       ],
       "title": "K/DA track “Watch Me”, lightstick, and designs leaked",
       "link": "https://esports.gg/news/league-of-legends/k-da-track-watch-me-lightstick-and-designs-leaked/",
@@ -25150,6 +25137,75 @@
       "color": 8141549,
       "image_url": "https://assetsio.gnwcdn.com/testronic.png?width=690&quality=85&format=jpg&auto=webp",
       "base_description": "Testronic has made several senior appointments across its global locations, including Mike Guttman as vice president of senior partnerships. Read more"
+    },
+    {
+      "words": [
+        "100",
+        "caedrel",
+        "champion",
+        "event",
+        "formula",
+        "four",
+        "max",
+        "race",
+        "time",
+        "verstappen"
+      ],
+      "at": "2026-08-26T10:28:11.161384+00:00",
+      "message_id": "1542118462556471400",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Caedrel to race Formula 1 Four-Time Champion Max Verstappen in ‘Max vs 100’ Event",
+      "link": "https://insider-gaming.com/caedrel-max-vs-100-verstappen-go-kart-race/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "League of Legends co-streaming powerhouse Caedrel will take on four-time Formula 1 World Champion Max Verstappen in a go-kart race. The post Caedrel to race Formula 1 Four-Time Champion Max Verstappen in ‘Max vs 100’ Event appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "best",
+        "combos",
+        "cs2",
+        "gloves",
+        "knife",
+        "polygon"
+      ],
+      "at": "2026-08-26T10:28:11.161384+00:00",
+      "message_id": "1542118468004880507",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "Best Polygon Gloves Knife Combos in CS2",
+      "link": "https://www.hotspawn.com/counter-strike/news/best-polygon-gloves-knife-combos-in-cs2",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Moto-Gloves-Polygon-Skeleton-Knife-Doppler-Phase-3.jpg",
+      "base_description": "Moto Gloves Polygon are a staple in many blue loadouts. They’re among the cheaper blue gloves in the game, while featuring some of the most vibrant blue hues. Finding a complementary knife is essential – here are the best Polygon gloves knife combos that I’ve found in CS2. Moto G"
+    },
+    {
+      "words": [
+        "bgaming",
+        "data",
+        "partner",
+        "portfolio",
+        "strategy",
+        "three",
+        "validates",
+        "worlds"
+      ],
+      "at": "2026-08-26T10:28:11.161384+00:00",
+      "message_id": "1542118473143025754",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "BGaming partner data validates Three Game Worlds portfolio strategy",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/08/26/213206/bgaming-three-game-worlds-partner-data/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/BGaming-partner-data-validates-Three-Game-Worlds-portfolio-strategy.jpg",
+      "base_description": "Operator performance data from Softsich, TopX, UpGaming, and Doxa illustrate how BGaming’s three-category portfolio addresses distinct stages of… The post BGaming partner data validates Three Game Worlds portfolio strategy appeared first on European Gaming Industry News ."
     }
   ]
 }
