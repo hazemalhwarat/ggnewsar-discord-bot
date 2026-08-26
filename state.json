@@ -9550,7 +9550,12 @@
     "https://www.invenglobal.com/articles/25182/new-stat-up-features-added-a-look-at-sacrificial-chalices-and-constellations",
     "https://www.hotspawn.com/dota2/news/my-experience-at-ti15",
     "https://europeangaming.eu/portal/press-releases/2026/08/26/213202/evenbet-gaming-rebrands-evenbeter/",
-    "https://europeangaming.eu/portal/how-slot-machines-work/"
+    "https://europeangaming.eu/portal/how-slot-machines-work/",
+    "https://www.invenglobal.com/articles/25186/total-war-warhammer-40k-we-will-expand-continuously-without-numbered-sequels",
+    "https://www.invenglobal.com/articles/25158/open-world-creature-catching-rpg-aniimo-confirms-global-release-for-september-16",
+    "https://www.hltv.org/news/45390/best-highlights-from-blast-open-porto-group-stage",
+    "https://esports.gg/news/league-of-legends/k-da-track-watch-me-lightstick-and-designs-leaked/",
+    "https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18969,7 +18974,12 @@
     "2f8a3fc643b890a988f9e17906775acd",
     "85c7f9844d3e04d1b1c70ff74b475804",
     "2290018ae2017071b0034d429120b145",
-    "736cb05a74f8813d9f9400e360a16acf"
+    "736cb05a74f8813d9f9400e360a16acf",
+    "b13716e33221d1e3df66d7d7b27a3ce2",
+    "28a0a312cec6bad15726ab7ddc2233d0",
+    "d825b9a9d322cb8ecf7bdd1513487a0b",
+    "0ee57bf28ee6517b0d1fb83becd4633e",
+    "911f17a466483be4ec60db1d13cc0f7f"
   ],
   "transfers": {
     "pages": {
@@ -23164,29 +23174,6 @@
   "sent_stories": [
     {
       "words": [
-        "2026",
-        "213",
-        "9bn",
-        "generate",
-        "global",
-        "market",
-        "newzoo",
-        "yoy"
-      ],
-      "at": "2026-08-25T09:35:05.706431+00:00",
-      "message_id": "1541742708308320268",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "title": "Newzoo: Global games market to generate $213.9bn in 2026, up 6.1% YoY",
-      "link": "https://www.gamesindustry.biz/newzoo-global-games-market-to-generate-2139bn-in-2026-up-61-yoy",
-      "color": 8141549,
-      "image_url": "https://assetsio.gnwcdn.com/gta-6-lucia-jason-2.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "base_description": "Newzoo projects the global games market will grow 6.1% to $213.9 billion, with over half of consumer spending originating from China and the US. Read more"
-    },
-    {
-      "words": [
         "actually",
         "champion",
         "diversity",
@@ -25118,6 +25105,51 @@
       "color": 8141549,
       "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/ti15-venue.jpg",
       "base_description": "I’ve been closely following the professional Dota 2 scene since 2016, and I finally got to go to my first TI event a decade later (as Press). It’s also worth noting that TI15 also happens to be my first esports event ever, so I don’t really have a benchmark of past experiences to"
+    },
+    {
+      "words": [
+        "designs",
+        "leaked",
+        "lightstick",
+        "track",
+        "watch"
+      ],
+      "at": "2026-08-26T09:56:56.351785+00:00",
+      "message_id": "1542110593199247421",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "K/DA track “Watch Me”, lightstick, and designs leaked",
+      "link": "https://esports.gg/news/league-of-legends/k-da-track-watch-me-lightstick-and-designs-leaked/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "We dive into who's involved with Watch Me, the leaked K/DA track, and the new K/DA and Heartsteel design leaks."
+    },
+    {
+      "words": [
+        "appointed",
+        "expands",
+        "guttman",
+        "leadership",
+        "mike",
+        "partnerships",
+        "president",
+        "senior",
+        "testronic",
+        "vice"
+      ],
+      "at": "2026-08-26T09:56:56.351785+00:00",
+      "message_id": "1542110600400867463",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "GamesIndustry.biz"
+      ],
+      "title": "Testronic expands senior leadership, Mike Guttman appointed vice president of senior partnerships",
+      "link": "https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships",
+      "color": 8141549,
+      "image_url": "https://assetsio.gnwcdn.com/testronic.png?width=690&quality=85&format=jpg&auto=webp",
+      "base_description": "Testronic has made several senior appointments across its global locations, including Mike Guttman as vice president of senior partnerships. Read more"
     }
   ]
 }
