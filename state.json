@@ -9507,7 +9507,10 @@
     "https://www.invenglobal.com/articles/25151/odin-valhalla-rising-rolls-out-quality-of-life-update-based-on-player-feedback",
     "https://www.invenglobal.com/articles/25149/silver-palace-nominated-for-best-mobile-game-at-gamescom-2026",
     "https://www.invenglobal.com/articles/25148/new-twisted-fairy-tale-action-adventure-murals-revealed-at-onl",
-    "https://www.invenglobal.com/articles/25136/promoting-korean-indie-games-at-gamescom-2026-indiecraft-attends-for-second-consecutive-year"
+    "https://www.invenglobal.com/articles/25136/promoting-korean-indie-games-at-gamescom-2026-indiecraft-attends-for-second-consecutive-year",
+    "https://www.invenglobal.com/articles/25160/new-healer-class-and-world-content-added-aug-26-patch-recap",
+    "https://dotesports.com/genshin-impact/guides/genshin-impact-banner-schedule",
+    "https://dotesports.com/call-of-duty/news/mw4-sbmm-aim-assist-early-access-beta"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18884,7 +18887,10 @@
     "8c9176814601c49fbaecfa98c9e29a7b",
     "af3448749f066bb1f4e752f65601fd23",
     "04fb2cf4a284da63cf11f45b105b55aa",
-    "7f42807c6c6d013b997410879b32761d"
+    "7f42807c6c6d013b997410879b32761d",
+    "d83b9191e88368387bb36166f8c10153",
+    "74556e5e433b6496127ebddf54d831e8",
+    "4cc47946931c3d791c8b545a39574de5"
   ],
   "transfers": {
     "pages": {
@@ -23079,29 +23085,6 @@
   "sent_stories": [
     {
       "words": [
-        "different",
-        "gaming",
-        "isn",
-        "marketing",
-        "nba",
-        "needs",
-        "playbook",
-        "why"
-      ],
-      "at": "2026-08-25T04:10:52.780115+00:00",
-      "message_id": "1541661116541964360",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Business & Sponsorships (Google News bridge)"
-      ],
-      "title": "Esports Isn’t the New NBA: Why Gaming Needs a Different Marketing Playbook - Branding in Asia",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDUwUnppX0pLNkVudWhqOEJKcFRKYmZSNlUyUzBZVEpXNWU5MWoyLUdyRzBJLW9EY2pVdFVoU0I0V3BZZVlrSTU5TXZzdHJGWEgydVJNRG5LeFA5MWN5TjRRSG1VQ09ONm5TempyczR0WG5tS1JQSXFBZE9TMkVsZFAtQml4aFprMnhDVUp2Y3R2RVFBaVRUMm1MdGZmMDFVTDVoOGpWVQ?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Esports Isn’t the New NBA: Why Gaming Needs a Different Marketing Playbook Branding in Asia"
-    },
-    {
-      "words": [
         "2026",
         "disbands",
         "dota",
@@ -24990,6 +24973,25 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Provided by Garena© GarenaGarena announced on August 26 that it has unveiled \"Ruger Aidal,\" a new original Elder Dragon for the survival hunting action RPG mobile game \"Monster Hun......"
+    },
+    {
+      "words": [
+        "banner",
+        "genshin",
+        "impact",
+        "schedule"
+      ],
+      "at": "2026-08-26T04:24:14.224410+00:00",
+      "message_id": "1542026866133835827",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "Genshin Impact banner schedule: Current and upcoming banners",
+      "link": "https://dotesports.com/genshin-impact/guides/genshin-impact-banner-schedule",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/genshin-impact-sandrone.webp",
+      "base_description": "Everything for you to plan your pulls."
     }
   ]
 }
