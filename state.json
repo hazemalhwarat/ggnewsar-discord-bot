@@ -9511,7 +9511,10 @@
     "https://www.invenglobal.com/articles/25160/new-healer-class-and-world-content-added-aug-26-patch-recap",
     "https://dotesports.com/genshin-impact/guides/genshin-impact-banner-schedule",
     "https://dotesports.com/call-of-duty/news/mw4-sbmm-aim-assist-early-access-beta",
-    "https://www.invenglobal.com/articles/25161/if-youre-going-to-tell-a-story-with-games"
+    "https://www.invenglobal.com/articles/25161/if-youre-going-to-tell-a-story-with-games",
+    "https://www.invenglobal.com/articles/25162/sonic-racing-crossworlds-releases-free-axel-crazy-taxi-collaboration-content",
+    "https://www.invenglobal.com/articles/25160/new-healer-class-and-world-content-added-key-summary-of-august-26-patch",
+    "https://europeangaming.eu/portal/press-releases/2026/08/26/213164/boylesports-nottingham-forest-betting-partner/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18892,7 +18895,10 @@
     "d83b9191e88368387bb36166f8c10153",
     "74556e5e433b6496127ebddf54d831e8",
     "4cc47946931c3d791c8b545a39574de5",
-    "793f01486768934fe344f267551e8d9d"
+    "793f01486768934fe344f267551e8d9d",
+    "29bbb1b1f583a561ee70998599f6a3c6",
+    "40cffe40d1fa7eb412e8d2f17eaa7f7c",
+    "6f857a6cf6349be000cdc33e62e2698e"
   ],
   "transfers": {
     "pages": {
@@ -23087,49 +23093,6 @@
   "sent_stories": [
     {
       "words": [
-        "bundles",
-        "caps",
-        "hall",
-        "legends"
-      ],
-      "at": "2026-08-25T05:26:16.890899+00:00",
-      "message_id": "1541680092072116235",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "Hall of Legends Caps bundles: What’s inside?",
-      "link": "https://esports.gg/guides/league-of-legends/hall-of-legends-caps-bundles-whats-inside/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Will you whale for Caps?"
-    },
-    {
-      "words": [
-        "august",
-        "bank",
-        "gaming",
-        "heist",
-        "horn",
-        "launches",
-        "piggy",
-        "slot",
-        "tom"
-      ],
-      "at": "2026-08-25T05:26:16.890899+00:00",
-      "message_id": "1541680097172521021",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "Tom Horn Gaming launches Piggy Bank Heist slot on 27 August",
-      "link": "https://europeangaming.eu/portal/press-releases/2026/08/25/213097/tom-horn-gaming-piggy-bank-heist-slot/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Tom-Horn-Gaming-launches-Piggy-Bank-Heist-slot-on-27-August.jpg",
-      "base_description": "The title follows Giza’s Portals with a near-identical feature structure, multiplier wilds, a pick-up bonus, and sticky free… The post Tom Horn Gaming launches Piggy Bank Heist slot on 27 August appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
         "2039",
         "collector",
         "edition",
@@ -24989,6 +24952,52 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Adam Dolin, Creative Consultant at GameDevDolin, delivered a talk at gamescom dev titled \"Write Between the Lines: Writing Games for a Polarized, Distracted, Media-Illiterate World......"
+    },
+    {
+      "words": [
+        "axel",
+        "collaboration",
+        "content",
+        "crazy",
+        "crossworlds",
+        "free",
+        "racing",
+        "releases",
+        "sonic",
+        "taxi"
+      ],
+      "at": "2026-08-26T05:49:56.187326+00:00",
+      "message_id": "1542048433169375405",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Sonic Racing: CrossWorlds Releases Free 'Axel' Crazy Taxi Collaboration Content",
+      "link": "https://www.invenglobal.com/articles/25162/sonic-racing-crossworlds-releases-free-axel-crazy-taxi-collaboration-content",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by SEGA Publishing KoreaSEGA Publishing Korea has released a free update for Sonic Racing: CrossWorlds that adds a character and new machine from the Crazy Taxi series, al......"
+    },
+    {
+      "words": [
+        "betting",
+        "boylesports",
+        "forest",
+        "nottingham",
+        "partnership",
+        "signs"
+      ],
+      "at": "2026-08-26T05:49:56.187326+00:00",
+      "message_id": "1542048438349467649",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "BoyleSports signs official betting partnership with Nottingham Forest",
+      "link": "https://europeangaming.eu/portal/press-releases/2026/08/26/213164/boylesports-nottingham-forest-betting-partner/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/BoyleSports-signs-official-betting-partnership-with-Nottingham-Forest.jpg",
+      "base_description": "The deal adds a third Premier League-linked football partnership to BoyleSports’ growing English football portfolio, as bookmakers shift… The post BoyleSports signs official betting partnership with Nottingham Forest appeared first on European Gaming Industry News ."
     }
   ]
 }
