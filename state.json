@@ -9562,7 +9562,12 @@
     "https://www.hotspawn.com/counter-strike/news/best-polygon-gloves-knife-combos-in-cs2",
     "https://europeangaming.eu/portal/press-releases/2026/08/26/213206/bgaming-three-game-worlds-partner-data/",
     "https://insider-gaming.com/bloodstained-the-scarlet-engagement-delayed-to-2027/",
-    "https://esports.gg/news/gta-6/gta-6-malware-fake-demo-sites/"
+    "https://esports.gg/news/gta-6/gta-6-malware-fake-demo-sites/",
+    "https://www.hltv.org/news/45391/r1nkle-shines-as-g2-beat-aurora-in-blast-opener",
+    "https://insider-gaming.com/2026-pokemon-world-championships-twitch-drops/",
+    "https://www.dexerto.com/esports/gothamchess-joins-basilisk-with-goal-of-helping-its-players-take-down-magnus-carlsen-3402177/",
+    "https://www.nerfplz.com/2026/09/weird-pick-168-bot-lane-brand.html",
+    "https://europeangaming.eu/portal/latest-news/2026/08/26/213214/mps-question-allwyn-phil-walker-appointment/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18993,7 +18998,12 @@
     "6ee3704c01842146225f21c6db206d73",
     "867c1e6bf9a2c983d382d04d440643c8",
     "fd1e7adf98b86a2d0bb47dfa7192f248",
-    "a07a5efa1ede2487469505c8e8fa8912"
+    "a07a5efa1ede2487469505c8e8fa8912",
+    "d8b5ddf3a84fd8926b518ff3cea7e291",
+    "ba4a9502c82966caf45d498f02724cee",
+    "e147f9ea170644138cab60f2ccf4ee86",
+    "268f65f2f1d75bd1ffd6b771ad6ecc8f",
+    "a61835f164f7d06038445f7f6189ae17"
   ],
   "transfers": {
     "pages": {
@@ -23188,126 +23198,6 @@
   "sent_stories": [
     {
       "words": [
-        "135",
-        "comps",
-        "top"
-      ],
-      "at": "2026-08-25T11:21:26.492644+00:00",
-      "message_id": "1541769471490920501",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Nerfplz"
-      ],
-      "title": "Top Team Comps #135: Grounded (Singed & Vex)",
-      "link": "https://www.nerfplz.com/2026/08/top-team-comps-135-nowhere-is-safe-shen.html",
-      "color": 8141549,
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9ZZrddDX4yxUnpQ3F7sCvZgV5BNBVhuOyDH963UHbYfKtO3mgDE6H7_XSs-jZrnwBZRVmzh0q0iROKS5esZMSBTZoHmL_8qlHhcOlIJclL76cxcZ0e2uevvvYPHijbvMyuSSZ-OKUlN4/s72-c-rw/topteamcompsmall.png",
-      "base_description": "Nothing on the enemy team gets to move the way it wants to. This team comp takes away dashes, flashes and escapes until the fight happens exactly where you decided it would. Top Team Comps Grounded Singed · Sejuani · Vex · Ashe · Morgana Nothing on the enemy team gets to move the"
-    },
-    {
-      "words": [
-        "battle",
-        "beast",
-        "driven",
-        "duel",
-        "habanero",
-        "launches",
-        "mechanics",
-        "reel",
-        "slot",
-        "themed",
-        "viking"
-      ],
-      "at": "2026-08-25T11:21:26.492644+00:00",
-      "message_id": "1541769477430190171",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "Habanero launches Viking-themed slot Battle The Beast with duel-driven reel mechanics",
-      "link": "https://europeangaming.eu/portal/press-releases/2026/08/25/213137/habanero-battle-the-beast-slot/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/Habanero-launches-Viking-themed-slot-Battle-The-Beast-with-duel-driven-reel-mechanics.jpg",
-      "base_description": "The title extends Habanero’s run of duel-mechanic, high-volatility slots, following Infernal Fury’s November 2025 release, and includes Jackpot… The post Habanero launches Viking-themed slot Battle The Beast with duel-driven reel mechanics appeared first on European Gaming Indust"
-    },
-    {
-      "words": [
-        "000x",
-        "fortune",
-        "gold",
-        "iconic21",
-        "launches",
-        "moon",
-        "prize",
-        "slot",
-        "sticky",
-        "top",
-        "wilds",
-        "wolf"
-      ],
-      "at": "2026-08-25T11:21:26.492644+00:00",
-      "message_id": "1541769482840838245",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "ICONIC21 launches Wolf’s Moon Fortune slot with sticky Gold Wilds and 10,000x top prize",
-      "link": "https://europeangaming.eu/portal/press-releases/2026/08/25/213133/iconic21-wolfs-moon-fortune-slot/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/ICONIC21-launches-Wolfs-Moon-Fortune-slot-with-sticky-Gold-Wilds-and-10000x-top-prize.jpg",
-      "base_description": "The medium-high volatility title adds to a slots catalogue that ICONIC21 has built from scratch since entering the… The post ICONIC21 launches Wolf’s Moon Fortune slot with sticky Gold Wilds and 10,000x top prize appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
-        "born",
-        "ewc",
-        "out",
-        "paris",
-        "partnership",
-        "riyadh",
-        "sold",
-        "stc",
-        "winning"
-      ],
-      "at": "2026-08-25T11:21:26.492644+00:00",
-      "message_id": "1541769488108748882",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Business & Sponsorships (Google News bridge)"
-      ],
-      "title": "Born in Riyadh. Sold Out in Paris. stc and EWC a Winning Partnership. - PA Media",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLVlOQks1NG5KLXFWN0xaaFNNeDVhYWhYUUpUb3c3ZGFjM1VORzRrQWl0ZFJBaUo2ZUN4ZkU4WF9pMjNFRmNiN2JWd0JGLVBRRnN5OUVFWTRrV1ZSR0pZbjBRVDYxMWhpbUVuVnFsLXZVeXNYb3ZOcVNXdlVYMVl2c2lxcGFSNnRoMHYzTmNKLVI5aTZ0Q21ieWhjVWcyaloyejNVQVlQbnVidjdoTUZUdWRZMVJKZUIyMFE?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Born in Riyadh. Sold Out in Paris. stc and EWC a Winning Partnership. PA Media"
-    },
-    {
-      "words": [
-        "biggest",
-        "dev",
-        "gamescom",
-        "head",
-        "market",
-        "opportunity",
-        "represent",
-        "says",
-        "smaller",
-        "studios"
-      ],
-      "at": "2026-08-25T11:21:26.492644+00:00",
-      "message_id": "1541769493515345983",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "title": "Gamescom Dev head says smaller studios represent the biggest opportunity in the games market",
-      "link": "https://www.gamesindustry.biz/gamescom-dev-head-says-smaller-studios-represent-the-biggest-opportunity-in-the-games-market",
-      "color": 8141549,
-      "image_url": "https://assetsio.gnwcdn.com/Frederik-Hammes-Gamescom-Dev.png?width=690&quality=85&format=jpg&auto=webp",
-      "base_description": "Frederik Hammes, who took over from Stephan Reichart as managing director of Gamescom Dev this year, says the results of the Gamescom Dev speaker survey show that smaller studios represent the biggest opportunity in the games market right now. Read more"
-    },
-    {
-      "words": [
         "giantx",
         "important",
         "league",
@@ -25250,6 +25140,116 @@
       "color": 8141549,
       "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
       "base_description": "Cybercriminals are exploiting hype around Rockstar's upcoming release with convincing fake demo pages designed to install credential-stealing software."
+    },
+    {
+      "words": [
+        "aurora",
+        "beat",
+        "blast",
+        "opener",
+        "r1nkle",
+        "shines"
+      ],
+      "at": "2026-08-26T11:35:30.270696+00:00",
+      "message_id": "1542135398640263229",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "HLTV"
+      ],
+      "title": "r1nkle shines as G2 beat Aurora in BLAST opener",
+      "link": "https://www.hltv.org/news/45391/r1nkle-shines-as-g2-beat-aurora-in-blast-opener",
+      "color": 8141549,
+      "image_url": "https://img-cdn.hltv.org/gallerypicture/L9Z8G37sbHfIkdyDodz9Yg.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=2195474eed7e47a9d0b95b4a1a4de4ae",
+      "base_description": "Aurora fumbled a 12-7 lead on map two to begin Open Porto with a whimper."
+    },
+    {
+      "words": [
+        "2026",
+        "championships",
+        "drops",
+        "earn",
+        "how",
+        "pokémon",
+        "twitch",
+        "world"
+      ],
+      "at": "2026-08-26T11:35:30.270696+00:00",
+      "message_id": "1542135404038201355",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "How to earn 2026 Pokémon World Championships Twitch Drops",
+      "link": "https://insider-gaming.com/2026-pokemon-world-championships-twitch-drops/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Insider Gaming has all you need to know to earn those lucrative drops from the 2026 Pokémon World Championships. The post How to earn 2026 Pokémon World Championships Twitch Drops appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "basilisk",
+        "carlsen",
+        "down",
+        "goal",
+        "gothamchess",
+        "helping",
+        "joins",
+        "magnus",
+        "players",
+        "take"
+      ],
+      "at": "2026-08-26T11:35:30.270696+00:00",
+      "message_id": "1542135410048630867",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dexerto Esports"
+      ],
+      "title": "GothamChess joins BASILISK with goal of helping its players take down Magnus Carlsen",
+      "link": "https://www.dexerto.com/esports/gothamchess-joins-basilisk-with-goal-of-helping-its-players-take-down-magnus-carlsen-3402177/",
+      "color": 8141549,
+      "image_url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/25/gothamchess-BASILISK-esports.jpg?width=1080&quality=75&format=auto",
+      "base_description": "GothamChess has joined science-focused esports organization BASILISK as its Head of Chess, where he hopes to challenge for the Esports World Cup."
+    },
+    {
+      "words": [
+        "165",
+        "pick",
+        "weird"
+      ],
+      "at": "2026-08-26T11:35:30.270696+00:00",
+      "message_id": "1542135417120227447",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Nerfplz"
+      ],
+      "title": "Weird Pick #165: Bot Lane Brand",
+      "link": "https://www.nerfplz.com/2026/09/weird-pick-168-bot-lane-brand.html",
+      "color": 8141549,
+      "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.15,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_5.jpg",
+      "base_description": "Everyone knows Brand support. Almost nobody has noticed that the version standing where the marksman should be is winning more games than it does. Brand takes the bot lane carry slot in about one in every two hundred Ranked Solo/Duo games, which is rare enough that most players h"
+    },
+    {
+      "words": [
+        "allwyn",
+        "appointment",
+        "ceo",
+        "interim",
+        "mps",
+        "phil",
+        "question",
+        "walker"
+      ],
+      "at": "2026-08-26T11:35:30.270696+00:00",
+      "message_id": "1542135422656970854",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "European Gaming Media"
+      ],
+      "title": "MPs question Phil Walker’s appointment as Allwyn UK interim CEO",
+      "link": "https://europeangaming.eu/portal/latest-news/2026/08/26/213214/mps-question-allwyn-phil-walker-appointment/",
+      "color": 8141549,
+      "image_url": "https://media.europeangaming.eu/uploads/2026/08/MPs-question-Phil-Walkers-appointment-as-Allwyn-UK-interim-CEO.jpg",
+      "base_description": "The letter asks what weight the regulator gave to Walker’s William Hill record and his non-executive seat at… The post MPs question Phil Walker’s appointment as Allwyn UK interim CEO appeared first on European Gaming Industry News ."
     }
   ]
 }
