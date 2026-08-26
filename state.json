@@ -9661,7 +9661,12 @@
     "https://esports.gg/news/fortnite/crash-bandicoot-spyro-fortnite/",
     "https://esports.gg/news/hearthstone/hearthstone-tavern-brawl-whos-the-boss-now-decks-and-deck-codes/",
     "https://esportsadvocate.net/2026/08/friendly-fire-raises-4-7-million-series-a/",
-    "https://www.gamesindustry.biz/1047-games-ends-active-development-on-empulse-and-splitgate-arena-reloaded-says-its-moving-away-from-live-service-shooters"
+    "https://www.gamesindustry.biz/1047-games-ends-active-development-on-empulse-and-splitgate-arena-reloaded-says-its-moving-away-from-live-service-shooters",
+    "https://www.invenglobal.com/articles/25217/krafton-unveils-5-new-titles-at-gamescom-no-overlapping-genres",
+    "https://www.invenglobal.com/articles/25216/responsible-for-30-of-5-trillion-won-ncsofts-mobile-casual-strategy",
+    "https://www.invenglobal.com/articles/25215/nc-unveils-team-survival-shooter-like-or-die",
+    "https://www.invenglobal.com/articles/25214/co-op-horror-and-action-all-in-one-place-gamescom-2026-future-games-show-recap",
+    "https://www.invenglobal.com/articles/25213/my-mom-told-me-not-to-go-where-its-crowded"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -19187,7 +19192,12 @@
     "2f05dfaf2617ef4add4948c5c6c35187",
     "25d2790a36f2385a24e26b5c21c163f2",
     "fb9d0e0f11bc1b5104d79eccf5f057da",
-    "e8e821d681494fd06622dbc16293c952"
+    "e8e821d681494fd06622dbc16293c952",
+    "a28b252cb76e4af2656927cef4b6ad16",
+    "c313e45cd7a23b6701ada3e67387d6f8",
+    "4c7b7cc04f0e8d71b022b51fb8470454",
+    "d54d859fa56598d2230afb229c8634e3",
+    "e5baa13afe303221f7f62ae1298ce92f"
   ],
   "transfers": {
     "pages": {
@@ -23382,271 +23392,6 @@
   "sent_stories": [
     {
       "words": [
-        "action",
-        "krafton",
-        "rpgs",
-        "titles",
-        "unveils"
-      ],
-      "at": "2026-08-25T21:05:23.097154+00:00",
-      "message_id": "1541916431124537468",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "From Co-op and Action to RPGs! Krafton Unveils 5 New Titles",
-      "link": "https://www.invenglobal.com/articles/25126/from-co-op-and-action-to-rpgs-krafton-unveils-5-new-titles",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©INVENKrafton has unveiled five new titles targeting the global market all at once through gamescom 2026.The revealed titles are Piccolo Studio's 'Age Twisters', Boundary's 'TARAE:......"
-    },
-    {
-      "words": [
-        "crimson",
-        "cutscenes",
-        "desert",
-        "dialogue",
-        "enhanced",
-        "revealed"
-      ],
-      "at": "2026-08-25T21:05:23.097154+00:00",
-      "message_id": "1541916436908220538",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)",
-        "GameRiv"
-      ],
-      "title": "'Crimson Desert Enhanced' Revealed with New Cutscenes and Dialogue",
-      "link": "https://www.invenglobal.com/articles/25115/crimson-desert-enhanced-revealed-with-new-cutscenes-and-dialogue",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "On August 25 local time, Pearl Abyss revealed an approximately one-minute trailer for 'Crimson Desert Enhanced' during Gamescom 2026 Opening Night Live (ONL) held in Cologne, Germa......"
-    },
-    {
-      "words": [
-        "builder",
-        "city",
-        "lego",
-        "revealed",
-        "skylines"
-      ],
-      "at": "2026-08-25T21:43:34.454950+00:00",
-      "message_id": "1541926042078548050",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "LEGO City-Builder 'LEGO Skylines' Revealed",
-      "link": "https://www.invenglobal.com/articles/25132/lego-city-builder-lego-skylines-revealed",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Players can now enjoy a proper city-builder in LEGO form. LEGO Skylines was revealed at Gamescom Opening Night Live.LEGO Skylines is a city-builder where you can create a one-of-a-kind city using LEGO bricks...."
-    },
-    {
-      "words": [
-        "human",
-        "mind",
-        "ontos",
-        "rats",
-        "soma",
-        "spiritual",
-        "successor",
-        "transferred"
-      ],
-      "at": "2026-08-25T21:43:34.454950+00:00",
-      "message_id": "1541926048860610641",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Human Mind Transferred to Rats? SOMA Spiritual Successor 'ONTOS'",
-      "link": "https://www.invenglobal.com/articles/25131/human-mind-transferred-to-rats-soma-spiritual-successor-ontos",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Frictional Games, developer of 'SOMA' and the 'Amnesia' series, has revealed new gameplay footage for its upcoming title 'ONTOS'.Frictional Games showcased new gameplay for 'ONTOS'......"
-    },
-    {
-      "words": [
-        "day",
-        "four",
-        "gamble",
-        "paralives",
-        "rivaling",
-        "sims"
-      ],
-      "at": "2026-08-25T21:43:34.454950+00:00",
-      "message_id": "1541926054111748169",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "'Paralives', From a Four-Day Gamble to Rivaling The Sims",
-      "link": "https://www.invenglobal.com/articles/25130/paralives-from-a-four-day-gamble-to-rivaling-the-sims",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Four days. That was all it took to release a prototype built with the mindset that if it received no response, the project would be scrapped...."
-    },
-    {
-      "words": [
-        "content",
-        "debuts",
-        "greed",
-        "house",
-        "multiplayer",
-        "palace",
-        "silver"
-      ],
-      "at": "2026-08-25T21:43:34.454950+00:00",
-      "message_id": "1541926060344475659",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Silver Palace Debuts Multiplayer Content 'House of Greed'",
-      "link": "https://www.invenglobal.com/articles/25129/silver-palace-debuts-multiplayer-content-house-of-greed",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "On August 25 (local time), Elementa unveiled the trailer for 'Silver Palace: House of Greed' during Gamescom 2026 Opening Night Live (ONL)...."
-    },
-    {
-      "words": [
-        "2xko",
-        "community",
-        "discusses",
-        "entirely",
-        "execs",
-        "expectations",
-        "falls",
-        "fgc",
-        "missteps",
-        "riot",
-        "unrealistic"
-      ],
-      "at": "2026-08-25T22:01:04.471293+00:00",
-      "message_id": "1541930440414470295",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Insider"
-      ],
-      "title": "“This falls entirely on the execs”: 2XKO community discusses Riot’s unrealistic expectations and missteps with the FGC",
-      "link": "https://esportsinsider.com/2026/08/2xko-interview-riot-downfall-fgc",
-      "color": 8141549,
-      "image_url": "https://esportsinsider.com/wp-content/uploads/2026/07/hikari-2xko-win-large.jpg",
-      "base_description": "The FGC was shocked and saddened by a seemingly sudden update from Riot Games: 2XKO will essentially shut down by the end of 2026. It was one of those moments for me where I had to hold back from saying, “I told you so.” See, I’ve been predicting 2XKO’s demise for a while now, no"
-    },
-    {
-      "words": [
-        "age",
-        "cooked"
-      ],
-      "at": "2026-08-25T22:31:35.611443+00:00",
-      "message_id": "1541938120461648014",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "In the Age of AI, Are We Cooked?",
-      "link": "https://www.invenglobal.com/articles/25133/in-the-age-of-ai-are-we-cooked",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©INVENArtificial intelligence has moved beyond simple calculations and information searches into the realm of human creation. It draws pictures and composes music in seconds, suggests ideas, and writes sentences...."
-    },
-    {
-      "words": [
-        "all",
-        "daylight",
-        "dead",
-        "longevity",
-        "plans",
-        "secret",
-        "year"
-      ],
-      "at": "2026-08-25T22:58:25.679064+00:00",
-      "message_id": "1541944875300429898",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "No Plans at All... The Secret to 'Dead by Daylight's 10-Year Longevity",
-      "link": "https://www.invenglobal.com/articles/25134/no-plans-at-all-the-secret-to-dead-by-daylights-10-year-longevity",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©InvenWhat is the biggest dream for a live-service game?..."
-    },
-    {
-      "words": [
-        "american",
-        "brutal",
-        "characters",
-        "combat",
-        "gamescom",
-        "minigames",
-        "returns",
-        "showa",
-        "story"
-      ],
-      "at": "2026-08-25T23:48:34.974676+00:00",
-      "message_id": "1541957505649746083",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "Showa American Story returns at gamescom with new characters, minigames, and brutal combat",
-      "link": "https://dotesports.com/general/news/showa-american-story-gamescom",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/showa-american-story-trailer-4.webp",
-      "base_description": "Showa American Story is still slated for this year."
-    },
-    {
-      "words": [
-        "blizzard",
-        "more",
-        "partners",
-        "projekt",
-        "red",
-        "witcher"
-      ],
-      "at": "2026-08-25T23:48:34.974676+00:00",
-      "message_id": "1541957510905200751",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "Blizzard partners with CD Projekt Red for The Witcher and more",
-      "link": "https://esports.gg/news/gaming/blizzard-partners-with-cd-projekt-red-for-the-witcher-and-more/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "The Blizzard Entertainment x CD Projekt Red collaboration features a Diablo 4 Geralt skin. Does this partnership mean an Overwatch x Cyberpunk crossover and more?"
-    },
-    {
-      "words": [
-        "bosses",
-        "four",
-        "huge",
-        "leaks",
-        "marathon",
-        "mode",
-        "more",
-        "pve",
-        "reveal",
-        "run",
-        "season",
-        "weapons"
-      ],
-      "at": "2026-08-25T23:48:34.974676+00:00",
-      "message_id": "1541957516139823177",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GameRiv"
-      ],
-      "title": "Marathon Season 3 Leaks Reveal Huge Four-Run PvE Mode, New Bosses, Weapons, and More",
-      "link": "https://gameriv.com/marathon-season-3-leaks-reveal-huge-four-run-pve-mode-new-bosses-weapons-and-more/",
-      "color": 8141549,
-      "image_url": "https://gameriv.com/wp-content/uploads/2026/06/Marathon-Update-1.1.0.1.jpg",
-      "base_description": "Marathon Season 3 could be shaping up to be Bungie’s biggest update yet. A new leak allegedly originating from a recent private playtest has revealed extensive details about the upcoming PvE experience, including four connected runs, several bosses, a major Perimeter expansion, n"
-    },
-    {
-      "words": [
         "apex",
         "battle",
         "legends",
@@ -24991,6 +24736,105 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "The first-person psychological survival horror game 'Ritual Tides', set on an isolated British island, has been unveiled.Vertpaint showcased a new trailer for 'Ritual Tides' at the Gamescom 2026 Future Games Show (FGS) on August 27...."
+    },
+    {
+      "words": [
+        "gamescom",
+        "genres",
+        "krafton",
+        "overlapping",
+        "titles",
+        "unveils"
+      ],
+      "at": "2026-08-26T23:55:40.738859+00:00",
+      "message_id": "1542321669346041899",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "KRAFTON Unveils 5 New Titles at Gamescom... No Overlapping Genres",
+      "link": "https://www.invenglobal.com/articles/25217/krafton-unveils-5-new-titles-at-gamescom-no-overlapping-genres",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "On August 26 (local time), KRAFTON held a Media Day at Gamescom 2026 in Cologne, Germany, to reveal five new titles. No two titles among the five brought to the stage shared a genre...."
+    },
+    {
+      "words": [
+        "responsible",
+        "trillion",
+        "won"
+      ],
+      "at": "2026-08-26T23:55:40.738859+00:00",
+      "message_id": "1542321675222130731",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "\"Responsible for 30% of 5 Trillion Won\": NCSOFT's Mobile Casual Strategy",
+      "link": "https://www.invenglobal.com/articles/25216/responsible-for-30-of-5-trillion-won-ncsofts-mobile-casual-strategy",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "NCSOFT's Mobile Casual Division is entering external developer game publishing within the year...."
+    },
+    {
+      "words": [
+        "die",
+        "like",
+        "shooter",
+        "survival",
+        "unveils"
+      ],
+      "at": "2026-08-26T23:55:40.738859+00:00",
+      "message_id": "1542321681039622165",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "NC Unveils Team Survival Shooter 'Like or Die'",
+      "link": "https://www.invenglobal.com/articles/25215/nc-unveils-team-survival-shooter-like-or-die",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "NC's new title 'Like or Die' is a team-based survival FPS where 16 players across four teams of four face off...."
+    },
+    {
+      "words": [
+        "action",
+        "all",
+        "horror",
+        "one",
+        "place"
+      ],
+      "at": "2026-08-26T23:55:40.738859+00:00",
+      "message_id": "1542321686710325249",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Co-Op, Horror, and Action All in One Place: Gamescom 2026 Future Games Show Recap",
+      "link": "https://www.invenglobal.com/articles/25214/co-op-horror-and-action-all-in-one-place-gamescom-2026-future-games-show-recap",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©Future Games Show🕹️Event Name: Future Games Show at gamescom 2026Date: August 27, 2026 (Local time August 26)Keywords: #FutureGamesShow #Gamescom #gamescom2026At 2:00 AM KST on Au......"
+    },
+    {
+      "words": [
+        "crowded",
+        "mom",
+        "not",
+        "told",
+        "where"
+      ],
+      "at": "2026-08-26T23:55:40.738859+00:00",
+      "message_id": "1542321692263583805",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "My Mom Told Me Not to Go Where It's Crowded",
+      "link": "https://www.invenglobal.com/articles/25213/my-mom-told-me-not-to-go-where-its-crowded",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©INVEN🕊German Carrier Pigeon #3 In honor of Gamescom week, a major global gaming event, we bring you various coverage stories and behind-the-scenes glimpses from the floor...."
     }
   ]
 }
