@@ -9543,7 +9543,12 @@
     "https://esportsinsider.com/2026/08/southeast-asia-mobile-gaming-powerhouse",
     "https://gameriv.com/respawn-says-movement-is-still-core-to-apex-legends-as-mobility-balance-changes-continue/",
     "https://gameriv.com/lol-k-da-firestarter-skins-leak-as-new-song-watch-me-surfaces/",
-    "https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select"
+    "https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select",
+    "https://www.invenglobal.com/articles/25184/total-war-warhammer-40k-first-hands-on-initial-combat-impressions",
+    "https://www.invenglobal.com/articles/25185/from-leak-controversy-to-malware-warning-issued-over-fake-gta6-demos",
+    "https://www.invenglobal.com/articles/25183/bipartisan-korean-lawmakers-visit-gamescom-for-the-first-time-pondering-ways-for-korean-game-industry-to-take-a-leap-forward",
+    "https://www.invenglobal.com/articles/25182/new-stat-up-features-added-a-look-at-sacrificial-chalices-and-constellations",
+    "https://www.hotspawn.com/dota2/news/my-experience-at-ti15"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18955,7 +18960,12 @@
     "12e5deb3beb51cc58ef91d4adbb5a0bd",
     "53d393a65dcb18acc3ef6f89bfb784cc",
     "eedf15c103f29142fc79af0026b2ea9e",
-    "a2dc83a5ed92e583bfe8e4c7bf53b59d"
+    "a2dc83a5ed92e583bfe8e4c7bf53b59d",
+    "b75cc19714122632b4bb343e208b03da",
+    "f28101367f13c63a76edddaa7bedd9fc",
+    "68678305a76565e640fddffb3bc82ba0",
+    "2f8a3fc643b890a988f9e17906775acd",
+    "85c7f9844d3e04d1b1c70ff74b475804"
   ],
   "transfers": {
     "pages": {
@@ -23150,28 +23160,6 @@
   "sent_stories": [
     {
       "words": [
-        "2027",
-        "international",
-        "rumour",
-        "silence",
-        "singapore",
-        "surfaces",
-        "valve"
-      ],
-      "at": "2026-08-25T08:59:37.032428+00:00",
-      "message_id": "1541733790194601998",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "General esports transfer rumors (Google News bridge)"
-      ],
-      "title": "The International 2027 Singapore Rumour Surfaces After Valve Silence - Shane the Gamer",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQkQ5RWd4dnUtc3dDN2F4V3JQaGt6OXEzUVpVYmJ6cVVKN3RSNVl3Z1BPVFBQRmpHYWswSXFieDczcW9NTjVENGFoSXl3WUw0b0RnUGJ6TlNRQmRyazhSR0NqS1JrbHYxM1IwSkhzc3o1bHQtZGVsTGM3SkREYUpEWDdxMUd3N2ZqSi1J?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "The International 2027 Singapore Rumour Surfaces After Valve Silence Shane the Gamer"
-    },
-    {
-      "words": [
         "2026",
         "213",
         "9bn",
@@ -25010,6 +24998,122 @@
       "color": 8141549,
       "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/sea-mobile-gaming-powerhouse-large.jpg",
       "base_description": "Southeast Asia (SEA) has grown into one of the world’s most important mobile-first gaming markets. This growth has been fuelled by affordable smartphones, accessible free-to-play games, expanding mobile connectivity, and a bustling social gaming culture, allowing mobile titles to"
+    },
+    {
+      "words": [
+        "40k",
+        "first",
+        "hands",
+        "total",
+        "war",
+        "warhammer"
+      ],
+      "at": "2026-08-26T09:10:49.463130+00:00",
+      "message_id": "1542098988105203744",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Total War: Warhammer 40K First Hands-On: Initial Combat Impressions",
+      "link": "https://www.invenglobal.com/articles/25184/total-war-warhammer-40k-first-hands-on-initial-combat-impressions",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©Creative AssemblyI came to appreciate the real appeal of the Total War series only after working as a journalist for quite some time. However, my love for Warhammer 40K goes back much further...."
+    },
+    {
+      "words": [
+        "controversy",
+        "demos",
+        "fake",
+        "gta6",
+        "issued",
+        "leak",
+        "malware",
+        "over",
+        "warning"
+      ],
+      "at": "2026-08-26T09:10:49.463130+00:00",
+      "message_id": "1542098992945561612",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "From Leak Controversy to Malware... Warning Issued Over Fake 'GTA6' Demos",
+      "link": "https://www.invenglobal.com/articles/25185/from-leak-controversy-to-malware-warning-issued-over-fake-gta6-demos",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Fake GTA6 demo website ©INVENFollowing a leak controversy involving the hacker group Cyberrick, Rockstar Games' 'GTA6' is now suffering from malware distribution utilizing fake dem......"
+    },
+    {
+      "words": [
+        "bipartisan",
+        "first",
+        "forward",
+        "gamescom",
+        "industry",
+        "korean",
+        "lawmakers",
+        "leap",
+        "pondering",
+        "take",
+        "time",
+        "visit",
+        "ways"
+      ],
+      "at": "2026-08-26T09:10:49.463130+00:00",
+      "message_id": "1542098998268141649",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Bipartisan Korean Lawmakers Visit Gamescom for the First Time: \"Pondering Ways for Korean Game Industry to Take a Leap Forward\"",
+      "link": "https://www.invenglobal.com/articles/25183/bipartisan-korean-lawmakers-visit-gamescom-for-the-first-time-pondering-ways-for-korean-game-industry-to-take-a-leap-forward",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "On August 26 (local time), four Korean lawmakers from ruling and opposition parties visited gamescom 2026, which opened in Cologne, Germany...."
+    },
+    {
+      "words": [
+        "added",
+        "chalices",
+        "constellations",
+        "features",
+        "look",
+        "sacrificial",
+        "stat"
+      ],
+      "at": "2026-08-26T09:10:49.463130+00:00",
+      "message_id": "1542099003099971596",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "New Stat-Up Features Added! A Look at Sacrificial Chalices and Constellations",
+      "link": "https://www.invenglobal.com/articles/25182/new-stat-up-features-added-a-look-at-sacrificial-chalices-and-constellations",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "SOL: enchant implemented a major update on Wednesday, August 26, featuring EPISODE 01 - GENESIS: Battleground of Gods. The massive patch includes the addition of a new Healer class and world-scale inter-server content...."
+    },
+    {
+      "words": [
+        "attendee",
+        "dota",
+        "experience",
+        "first",
+        "ti15",
+        "time"
+      ],
+      "at": "2026-08-26T09:10:49.463130+00:00",
+      "message_id": "1542099008426876991",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Hotspawn"
+      ],
+      "title": "My Experience at Dota 2’s TI15 As a First-Time Attendee",
+      "link": "https://www.hotspawn.com/dota2/news/my-experience-at-ti15",
+      "color": 8141549,
+      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/ti15-venue.jpg",
+      "base_description": "I’ve been closely following the professional Dota 2 scene since 2016, and I finally got to go to my first TI event a decade later (as Press). It’s also worth noting that TI15 also happens to be my first esports event ever, so I don’t really have a benchmark of past experiences to"
     }
   ]
 }
