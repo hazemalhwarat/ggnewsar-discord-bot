@@ -9560,7 +9560,9 @@
     "https://dotesports.com/call-of-duty/guides/mw4-open-bata-preload-guide",
     "https://insider-gaming.com/caedrel-max-vs-100-verstappen-go-kart-race/",
     "https://www.hotspawn.com/counter-strike/news/best-polygon-gloves-knife-combos-in-cs2",
-    "https://europeangaming.eu/portal/press-releases/2026/08/26/213206/bgaming-three-game-worlds-partner-data/"
+    "https://europeangaming.eu/portal/press-releases/2026/08/26/213206/bgaming-three-game-worlds-partner-data/",
+    "https://insider-gaming.com/bloodstained-the-scarlet-engagement-delayed-to-2027/",
+    "https://esports.gg/news/gta-6/gta-6-malware-fake-demo-sites/"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18989,7 +18991,9 @@
     "9eeecdcdb22166263e908ef1499bcebc",
     "38c0af8189cdb1a90dcafebe84648326",
     "6ee3704c01842146225f21c6db206d73",
-    "867c1e6bf9a2c983d382d04d440643c8"
+    "867c1e6bf9a2c983d382d04d440643c8",
+    "fd1e7adf98b86a2d0bb47dfa7192f248",
+    "a07a5efa1ede2487469505c8e8fa8912"
   ],
   "transfers": {
     "pages": {
@@ -25206,6 +25210,46 @@
       "color": 8141549,
       "image_url": "https://media.europeangaming.eu/uploads/2026/08/BGaming-partner-data-validates-Three-Game-Worlds-portfolio-strategy.jpg",
       "base_description": "Operator performance data from Softsich, TopX, UpGaming, and Doxa illustrate how BGaming’s three-category portfolio addresses distinct stages of… The post BGaming partner data validates Three Game Worlds portfolio strategy appeared first on European Gaming Industry News ."
+    },
+    {
+      "words": [
+        "bloodstained"
+      ],
+      "at": "2026-08-26T11:01:28.908286+00:00",
+      "message_id": "1542126835863658537",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Insider Gaming"
+      ],
+      "title": "Bloodstained: The Scarlet Engagement Delayed to 2027",
+      "link": "https://insider-gaming.com/bloodstained-the-scarlet-engagement-delayed-to-2027/",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Bloodstained: The Scarlet Engagement has been delayed until 2027, but it has already entered the final stages of development. The post Bloodstained: The Scarlet Engagement Delayed to 2027 appeared first on Insider Gaming ."
+    },
+    {
+      "words": [
+        "ahead",
+        "demo",
+        "distributing",
+        "fake",
+        "gta",
+        "launch",
+        "malware",
+        "november",
+        "sites"
+      ],
+      "at": "2026-08-26T11:01:28.908286+00:00",
+      "message_id": "1542126840838099005",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Esports.gg"
+      ],
+      "title": "GTA 6 fake demo sites are distributing malware ahead of November launch",
+      "link": "https://esports.gg/news/gta-6/gta-6-malware-fake-demo-sites/",
+      "color": 8141549,
+      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+      "base_description": "Cybercriminals are exploiting hype around Rockstar's upcoming release with convincing fake demo pages designed to install credential-stealing software."
     }
   ]
 }
