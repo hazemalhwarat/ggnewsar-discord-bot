@@ -9510,7 +9510,8 @@
     "https://www.invenglobal.com/articles/25136/promoting-korean-indie-games-at-gamescom-2026-indiecraft-attends-for-second-consecutive-year",
     "https://www.invenglobal.com/articles/25160/new-healer-class-and-world-content-added-aug-26-patch-recap",
     "https://dotesports.com/genshin-impact/guides/genshin-impact-banner-schedule",
-    "https://dotesports.com/call-of-duty/news/mw4-sbmm-aim-assist-early-access-beta"
+    "https://dotesports.com/call-of-duty/news/mw4-sbmm-aim-assist-early-access-beta",
+    "https://www.invenglobal.com/articles/25161/if-youre-going-to-tell-a-story-with-games"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18890,7 +18891,8 @@
     "7f42807c6c6d013b997410879b32761d",
     "d83b9191e88368387bb36166f8c10153",
     "74556e5e433b6496127ebddf54d831e8",
-    "4cc47946931c3d791c8b545a39574de5"
+    "4cc47946931c3d791c8b545a39574de5",
+    "793f01486768934fe344f267551e8d9d"
   ],
   "transfers": {
     "pages": {
@@ -23085,30 +23087,6 @@
   "sent_stories": [
     {
       "words": [
-        "2026",
-        "disbands",
-        "dota",
-        "pro",
-        "roster",
-        "scene",
-        "stay",
-        "virtus",
-        "vows"
-      ],
-      "at": "2026-08-25T04:53:29.240593+00:00",
-      "message_id": "1541671839435333654",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "Virtus.pro disbands Dota 2 roster after TI 2026, vows to stay in the scene",
-      "link": "https://dotesports.com/dota-2/news/virtus-pro-disbands-dota-2-roster-ti-2026",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/dota-2-virtus-pro-roster-disband.webp",
-      "base_description": "VP remains in the Dota 2 scene despite missing out on another TI."
-    },
-    {
-      "words": [
         "bundles",
         "caps",
         "hall",
@@ -24992,6 +24970,25 @@
       "color": 8141549,
       "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/genshin-impact-sandrone.webp",
       "base_description": "Everything for you to plan your pulls."
+    },
+    {
+      "words": [
+        "going",
+        "story",
+        "tell",
+        "you"
+      ],
+      "at": "2026-08-26T05:04:42.769612+00:00",
+      "message_id": "1542037052076593215",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "\"If You're Going to Tell a Story with Games...\"",
+      "link": "https://www.invenglobal.com/articles/25161/if-youre-going-to-tell-a-story-with-games",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Adam Dolin, Creative Consultant at GameDevDolin, delivered a talk at gamescom dev titled \"Write Between the Lines: Writing Games for a Polarized, Distracted, Media-Illiterate World......"
     }
   ]
 }
