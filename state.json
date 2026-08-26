@@ -9523,7 +9523,12 @@
     "https://www.invenglobal.com/articles/25165/riot-games-releases-tft-set-18-enchanted-wilds",
     "https://www.invenglobal.com/articles/25164/lineage-2m-releases-sanctuary-miracle-revitalizing-the-battlefield-update",
     "https://www.invenglobal.com/articles/25163/madagascar-set-action-adventure-kalanoro-launching-september-24",
-    "https://www.gamesindustry.biz/executives-from-ea-and-tencent-to-speak-alongside-netflix-sony-and-disney-at-ft-business-of-entertainment-summit"
+    "https://www.gamesindustry.biz/executives-from-ea-and-tencent-to-speak-alongside-netflix-sony-and-disney-at-ft-business-of-entertainment-summit",
+    "https://www.invenglobal.com/articles/25178/metro-2039-reclaims-its-roots-evolved-combat-darker-story",
+    "https://www.invenglobal.com/articles/25177/evolution-within-familiarity-the-potential-shown-by-metro-2039-combat-and-exploration",
+    "https://www.invenglobal.com/articles/25176/pre-orders-for-romance-of-the-three-kingdoms-xiv-with-power-up-kit-complete-edition-open-august-27",
+    "https://www.invenglobal.com/articles/25175/overwhelmed-by-a-mountain-of-work-focus-on-just-3-key-priorities",
+    "https://www.invenglobal.com/articles/25174/god-save-birmingham-showcased-at-gamescom-new-trailer-revealed"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -18916,7 +18921,12 @@
     "528a2268718f24c40bec91592eb5bcf4",
     "35c2d031044148fac01a7fcf16eccf76",
     "3de967e6def4e226067bb3d60f42a143",
-    "29cba9082195a5458c41858170202ced"
+    "29cba9082195a5458c41858170202ced",
+    "d91fad07188dbb01b3244554621eb720",
+    "e3fdba851354a551dce62fc3f86854c5",
+    "053f174f664e682beed7d799adc791ed",
+    "9b9527aa54f8e336f77ddc9a5e2f3461",
+    "81c96fab05d5cda9b666a153a42a3dba"
   ],
   "transfers": {
     "pages": {
@@ -23111,104 +23121,6 @@
   "sent_stories": [
     {
       "words": [
-        "25th",
-        "aichi",
-        "asian",
-        "ceremony",
-        "holds",
-        "korea",
-        "nagoya",
-        "national",
-        "off",
-        "send",
-        "south"
-      ],
-      "at": "2026-08-25T07:30:50.257450+00:00",
-      "message_id": "1541711437993484340",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "South Korea National Esports Team Holds Send-off Ceremony for Aichi-Nagoya Asian Games on the 25th",
-      "link": "https://www.invenglobal.com/articles/25102/south-korea-national-esports-team-holds-send-off-ceremony-for-aichi-nagoya-asian-games-on-the-25th",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©INVENOn August 25, the send-off ceremony for the South Korean national esports team competing in the Aichi-Nagoya Asian Games was held at the Sangam Cube Convention Center in Mapo, Seoul...."
-    },
-    {
-      "words": [
-        "august",
-        "genesis",
-        "server",
-        "streamer",
-        "week"
-      ],
-      "at": "2026-08-25T07:30:50.257450+00:00",
-      "message_id": "1541711443437555773",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "GENESIS Update D-1! Streamer Server Week 4 of August",
-      "link": "https://www.invenglobal.com/articles/25101/genesis-update-d-1-streamer-server-week-4-of-august",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "With the 4th God Election held on Saturday, August 22 coming to a close, Genesis—the massive update featuring a new class and new hunting grounds—is just one day away...."
-    },
-    {
-      "words": [
-        "almost",
-        "anything",
-        "crimson",
-        "desert",
-        "devs",
-        "made",
-        "more",
-        "reveal",
-        "something",
-        "than",
-        "worth"
-      ],
-      "at": "2026-08-25T07:30:50.257450+00:00",
-      "message_id": "1541711448672178269",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Crimson Desert Devs Reveal Something ‘Worth More Than Almost Anything We Made’",
-      "link": "https://insider-gaming.com/crimson-desert-devs-worth-more-than-anything-we-made/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Pearl Abyss was focused on something special when delivering Crimson Desert, and at Gamescom Dev, they revealed exactly what that was. The post Crimson Desert Devs Reveal Something ‘Worth More Than Almost Anything We Made’ appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "2027",
-        "business",
-        "changes",
-        "event",
-        "festival",
-        "gaming",
-        "gdc",
-        "hall",
-        "including",
-        "moscone",
-        "west"
-      ],
-      "at": "2026-08-25T07:30:50.257450+00:00",
-      "message_id": "1541711454300930119",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "title": "GDC Festival of Gaming announces changes to 2027 event, including new Business Hall at Moscone West",
-      "link": "https://www.gamesindustry.biz/gdc-festival-of-gaming-announces-changes-to-2027-event-including-new-business-hall-at-moscone-west",
-      "color": 8141549,
-      "image_url": "https://assetsio.gnwcdn.com/gdc-festival-of-gaming-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-      "base_description": "GDC Festival of Gaming has announced changes to its 2027 event , including a new Business Hall at Moscone West. Read more"
-    },
-    {
-      "words": [
         "3rd",
         "appearance",
         "asian",
@@ -24013,7 +23925,8 @@
       "message_id": "1541850859036479539",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Inven Global (English)"
       ],
       "title": "Metro 2039 is Already Dominating Awards Shows Months Before Release",
       "link": "https://insider-gaming.com/metro-2039-dominating-awards-shows-months-before/",
@@ -25017,6 +24930,101 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Provided by Blomics©INVENBlomics (CEO Cha Ji-hoon) and Blue Potion Games (Co-CEOs Jeong Jae-mok and Cho Seung-jin) announced on August 26 that mobile MMORPG EOS RED, which they co-......"
+    },
+    {
+      "words": [
+        "2039",
+        "combat",
+        "evolution",
+        "exploration",
+        "familiarity",
+        "metro",
+        "potential",
+        "shown",
+        "within"
+      ],
+      "at": "2026-08-26T07:32:24.836651+00:00",
+      "message_id": "1542074227547705385",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Evolution Within Familiarity: The Potential Shown by 'Metro 2039' Combat and Exploration",
+      "link": "https://www.invenglobal.com/articles/25177/evolution-within-familiarity-the-potential-shown-by-metro-2039-combat-and-exploration",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "4A Games' flagship franchise, the Metro series. Its latest title, 'Metro 2039,' recently revealed new details through an online hands-on preview...."
+    },
+    {
+      "words": [
+        "august",
+        "complete",
+        "edition",
+        "kingdoms",
+        "kit",
+        "open",
+        "orders",
+        "power",
+        "pre",
+        "romance",
+        "three",
+        "xiv"
+      ],
+      "at": "2026-08-26T07:32:24.836651+00:00",
+      "message_id": "1542074232824008705",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Pre-Orders for Romance of the Three Kingdoms XIV with Power Up Kit Complete Edition Open August 27",
+      "link": "https://www.invenglobal.com/articles/25176/pre-orders-for-romance-of-the-three-kingdoms-xiv-with-power-up-kit-complete-edition-open-august-27",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by Digital Touch©KOEI TECMO GAMES, Digital TouchDigital Touch (CEO Sung-heon Jung) announced that pre-orders for the Korean physical packaged edition of KOEI TECMO GAMES' ......"
+    },
+    {
+      "words": [
+        "focus",
+        "just",
+        "key",
+        "mountain",
+        "overwhelmed",
+        "priorities",
+        "work"
+      ],
+      "at": "2026-08-26T07:32:24.836651+00:00",
+      "message_id": "1542074237643395118",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Overwhelmed by a Mountain of Work? Focus on Just '3 Key Priorities'",
+      "link": "https://www.invenglobal.com/articles/25175/overwhelmed-by-a-mountain-of-work-focus-on-just-3-key-priorities",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©INVEN📢GAMESCOM DEVTopic: Work Prioritization Methods for Overcoming Burnout and Boosting ProductivitySpeaker: Matthew Strasser (Senior Dialogue Coordinator, Insomniac Games)Catego......"
+    },
+    {
+      "words": [
+        "birmingham",
+        "gamescom",
+        "god",
+        "revealed",
+        "save",
+        "showcased",
+        "trailer"
+      ],
+      "at": "2026-08-26T07:32:24.836651+00:00",
+      "message_id": "1542074243297054762",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'God Save Birmingham' Showcased at Gamescom, New Trailer Revealed",
+      "link": "https://www.invenglobal.com/articles/25174/god-save-birmingham-showcased-at-gamescom-new-trailer-revealed",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Provided by Kakao Games Ocean Drive Studio (CEO Kim Hee-jae), a subsidiary of Kakao Games (joint CEOs Kim Tae-hwan and Lee Si-woo), will showcase its upcoming global title 'God Sav......"
     }
   ]
 }
