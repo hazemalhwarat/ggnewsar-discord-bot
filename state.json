@@ -9571,7 +9571,12 @@
     "https://dotesports.com/the-witcher/guides/the-witcher3-remastered-release-date-changes-free-content",
     "https://www.invenglobal.com/articles/25187/discord-expands-integration-to-mobile-games",
     "https://insider-gaming.com/rockstar-games-address-gta-6-leak-drama/",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVFJSk5kQjhfd1puMVhJZkZEeE16WFpyQlVQd3BWN0V3ay1XenM5UlA2YTRIR3lIM1ZfRE40aUlxWUNQbG9aV1o1WTEzTkpTVklYQ1lBOTFyVlNmVE1XRWREYk02Y3NNQTdWZ3AxcExma2MtVms2eWRGT09mLU1rSnBxYUxMaEkyeVphbVhJeExTYW5PenFQTXEzODNwU3l4NzYweDJ5NmY5Z9IBWkFVX3lxTFBFa0VKM2tPZFU3NUk0Y29NUVptcXNfRURpbGtmcEZLUmxKZ3FYaWVjcENsZVNkN0FaMVY4WlFETjhobHZzZzdwbGZhczNHc3ZIR3BGNkJHalpUUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVFJSk5kQjhfd1puMVhJZkZEeE16WFpyQlVQd3BWN0V3ay1XenM5UlA2YTRIR3lIM1ZfRE40aUlxWUNQbG9aV1o1WTEzTkpTVklYQ1lBOTFyVlNmVE1XRWREYk02Y3NNQTdWZ3AxcExma2MtVms2eWRGT09mLU1rSnBxYUxMaEkyeVphbVhJeExTYW5PenFQTXEzODNwU3l4NzYweDJ5NmY5Z9IBWkFVX3lxTFBFa0VKM2tPZFU3NUk0Y29NUVptcXNfRURpbGtmcEZLUmxKZ3FYaWVjcENsZVNkN0FaMVY4WlFETjhobHZzZzdwbGZhczNHc3ZIR3BGNkJHalpUUQ?oc=5",
+    "https://www.invenglobal.com/articles/25188/rockstar-games-issues-statement-on-gta-6-leaks-experience-the-game-for-yourselves",
+    "https://dotesports.com/gta/news/rockstar-games-gta-6-leaks-cyberleek",
+    "https://www.invenglobal.com/articles/25190/hanjin-brion-head-coach-kim-sang-soo-it-hurts-even-more-because-we-played-well",
+    "https://www.invenglobal.com/articles/25189/kt-rolster-takes-down-king-of-the-rise-group-hanjin-brion",
+    "https://dotesports.com/general/news/gothamchess-basilisk-head-chess"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -19011,7 +19016,12 @@
     "9a75e5f702ce2cc4b9aca8c9caf0c902",
     "850db82776669ab95e220d267553b6aa",
     "970e6c4ec8f12901d8add81b8d74facd",
-    "05ae065c28e3359a755010f61a1b069f"
+    "05ae065c28e3359a755010f61a1b069f",
+    "9623eb82c6de53e594b41c1172acfcf3",
+    "1285f980b8e53c94112d9c4696d5ae2a",
+    "14503f71e0c89c74e3832e92b0bcae6a",
+    "dd57df94e538ec59edc9dffc28360e8f",
+    "9b6bd3ea858d364fdb8c12aa396c0ae1"
   ],
   "transfers": {
     "pages": {
@@ -23206,70 +23216,6 @@
   "sent_stories": [
     {
       "words": [
-        "copies",
-        "days",
-        "fish",
-        "how",
-        "million",
-        "sells",
-        "steam",
-        "two"
-      ],
-      "at": "2026-08-25T12:33:51.857619+00:00",
-      "message_id": "1541787701848572015",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "'How to Fish' Sells 1 Million Copies on Steam in Two Days",
-      "link": "https://www.invenglobal.com/articles/25105/how-to-fish-sells-1-million-copies-on-steam-in-two-days",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©Dazed GamesCo-op fishing game 'How to Fish' by Swedish indie developer Dazed Games has surpassed 1 million copies sold in just two days after launch.The developers expressed their......"
-    },
-    {
-      "words": [
-        "challengers",
-        "crashing",
-        "party",
-        "tier",
-        "vct",
-        "working"
-      ],
-      "at": "2026-08-25T12:33:51.857619+00:00",
-      "message_id": "1541787706533613612",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dot Esports"
-      ],
-      "title": "VCT Challengers teams are crashing the Tier 1 party, and it’s working",
-      "link": "https://dotesports.com/general/news/vct-tier-2-teams-tier-1-vulnerability",
-      "color": 8141549,
-      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/vct-challengers-teams-are-crashing-the-tier-1-party-and-its-9237026347495119.webp",
-      "base_description": "Enterprise Esports knocked out Fnatic and Team Vitality in EMEA, while Sharper Esports is threatening DRX in Pacific — and the implications run deeper than a single tournament."
-    },
-    {
-      "words": [
-        "addresses",
-        "arma",
-        "bohemia",
-        "failure",
-        "reforger"
-      ],
-      "at": "2026-08-25T12:33:51.857619+00:00",
-      "message_id": "1541787711810183279",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Bohemia Addresses Arma Reforger ‘Failure’: “We Really Disappointed Them”",
-      "link": "https://insider-gaming.com/bohemia-arma-reforger-failure-disappointed-them/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Bohemia Interactive took to a stage at Gamescom to address the recovery of Arma Reforger after the notoriously terrible launch. The post Bohemia Addresses Arma Reforger ‘Failure’: “We Really Disappointed Them” appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
         "change",
         "else",
         "everything",
@@ -23355,7 +23301,8 @@
       "message_id": "1541803061951991809",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Inven Global (English)"
       ],
       "title": "Discord Denies Being Served a Subpoena Over GTA 6 Gameplay Leaks",
       "link": "https://insider-gaming.com/gta-6-discord-subpoena/",
@@ -25242,7 +25189,8 @@
       "message_id": "1542142495498960897",
       "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
       "sources": [
-        "Insider Gaming"
+        "Insider Gaming",
+        "Dot Esports"
       ],
       "title": "BREAKING: Rockstar Games Addresses GTA 6 Leak Drama",
       "link": "https://insider-gaming.com/rockstar-games-address-gta-6-leak-drama/",
@@ -25271,6 +25219,81 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "'A43KD' will put Oman on the amateur radio map Oman Observer"
+    },
+    {
+      "words": [
+        "because",
+        "brion",
+        "coach",
+        "even",
+        "hanjin",
+        "head",
+        "hurts",
+        "kim",
+        "more",
+        "played",
+        "sang",
+        "soo",
+        "well"
+      ],
+      "at": "2026-08-26T13:15:51.210773+00:00",
+      "message_id": "1542160663517069493",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Hanjin BRION Head Coach Kim Sang-soo: \"It hurts even more because we played well\"",
+      "link": "https://www.invenglobal.com/articles/25190/hanjin-brion-head-coach-kim-sang-soo-it-hurts-even-more-because-we-played-well",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "On August 26, Hanjin BRION suffered a heartbreaking defeat in their match against kt Rolster in the Play-In of the 2026 LoL Champions Korea (LCK), held at CHZZK LoL Park in Jonggak...."
+    },
+    {
+      "words": [
+        "brion",
+        "down",
+        "group",
+        "hanjin",
+        "king",
+        "rise",
+        "rolster",
+        "takes"
+      ],
+      "at": "2026-08-26T13:15:51.210773+00:00",
+      "message_id": "1542160668264763424",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "kt Rolster Takes Down 'King of the Rise Group' Hanjin BRION",
+      "link": "https://www.invenglobal.com/articles/25189/kt-rolster-takes-down-king-of-the-rise-group-hanjin-brion",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "The Legends proved why they were Legends...."
+    },
+    {
+      "words": [
+        "basilisk",
+        "chess",
+        "cup",
+        "glory",
+        "goal",
+        "gothamchess",
+        "head",
+        "named",
+        "world"
+      ],
+      "at": "2026-08-26T13:15:51.210773+00:00",
+      "message_id": "1542160673780539475",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Dot Esports"
+      ],
+      "title": "GothamChess named BASILISK’s Head of Chess with Esports World Cup glory as the goal",
+      "link": "https://dotesports.com/general/news/gothamchess-basilisk-head-chess",
+      "color": 8141549,
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/08/gothamchess-named-basilisks-head-of-chess-with-esports-world-0797940d0b99393e.webp",
+      "base_description": "Levy Rozman signs on as BASILISK's Head of Chess, where he'll recruit players, build content, and chase an Esports World Cup title against Magnus Carlsen."
     }
   ]
 }
