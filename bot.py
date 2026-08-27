@@ -123,7 +123,7 @@ import feedparser
 import requests
 
 from feeds import RSS_FEEDS, SCRAPERS
-from relevance import is_hard_excluded, is_game_content_noise
+from relevance import is_hard_excluded, is_game_content_noise, is_spam_ad
 
 # Sources that can't be fetched as RSS/Atom (feedparser needs XML; some
 # sites, like Sheep Esports post-2026-relaunch, don't expose any XML
@@ -1057,6 +1057,21 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> tuple[int, dict
                 continue
 
             t_hash = title_hash(title)
+
+            # SPAM/AD GATE (2026-08-28) — runs BEFORE any relevance check,
+            # on every source unconditionally (verified or not, official
+            # game site or general outlet). This is what actually stops
+            # the recurring "join our Telegram channel — A-TOOLS X" ad:
+            # it targets the promo content itself instead of chasing
+            # whichever feed happened to carry it this time. See
+            # relevance.is_spam_ad()'s docstring for the full history.
+            if is_spam_ad(f"{title} {summary}", link):
+                stats["skip_spam_ad"] += 1
+                seen_urls.add(link); state["urls"].append(link)
+                seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
+                log.warning(f"  BLOCKED spam/ad content from {name!r}: {title!r} (link={link!r})")
+                continue
+
             if not is_fresh(entry, MAX_AGE_HOURS):
                 # FIX (2026-08-17): don't spend ring capacity on stale
                 # items. An item's age only ever increases, so anything
