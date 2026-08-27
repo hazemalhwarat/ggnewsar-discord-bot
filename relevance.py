@@ -281,6 +281,59 @@ def is_game_content_noise(text: str) -> bool:
     return True       # pure game content, no esports tie — drop
 
 
+# ------------------------------------------------------------
+# 7) SPAM / AD content — added 2026-08-28 after repeated incidents of a
+#    "join our Telegram channel — A-TOOLS X" ad reaching the Discord
+#    news-bot channel. Each time, the root cause was one specific feed
+#    (a public rsshub.app proxy on 2026-08-23, a mislabeled casino
+#    affiliate feed on 2026-08-27, and again on 2026-08-28) whose HTTP
+#    response was hijacked/ad-injected — content entirely outside this
+#    codebase's control. Removing the one offending feed after the fact
+#    only closes that single incident; it does nothing to stop the NEXT
+#    feed (including one that's trusted today) from doing the exact same
+#    thing if it ever gets compromised, sold, or starts injecting ads.
+#
+#    This filter is the permanent, source-agnostic fix: it runs on EVERY
+#    candidate from EVERY feed — "verified" or not, official game site or
+#    general news outlet — and drops anything that reads as a promo /
+#    channel-recruitment / bot-ad message rather than an actual news
+#    item, regardless of which feed produced it. It is checked FIRST,
+#    before any esports-relevance logic, in bot.py's per-entry loop.
+# ------------------------------------------------------------
+SPAM_AD_PATTERNS = [
+    "join our channel", "join our telegram", "join telegram",
+    "join our discord server", "join now for", "to use this bot",
+    "premium tools & bots", "premium accounts", "cracked account",
+    "cracked accounts", "free nitro", "discord nitro giveaway",
+    "انضم لقناتنا", "انضم إلى قناتنا", "اشترك في القناة", "قناتنا على تيليجرام",
+]
+
+# Link-level check: a bare messaging-app invite/channel link is never a
+# legitimate news article URL, no matter what feed it arrived through.
+SPAM_LINK_DOMAINS = ["t.me", "telegram.me", "telegram.dog"]
+
+_SPAM_AD_PATTERNS = [p.lower() for p in SPAM_AD_PATTERNS]
+
+
+def is_spam_ad(text: str, link: str = "") -> bool:
+    """True if the item looks like a promotional/ad/channel-recruitment
+    message (a "join our Telegram/Discord channel" pitch, a bot-store ad,
+    a cracked-accounts/tools listing, etc.) rather than a real news item.
+    Checked before any relevance logic, on every source unconditionally —
+    see the module note above for why this can't be limited to
+    "unverified" or "non-official" feeds only.
+    """
+    t = _norm(text)
+    if any(p in t for p in _SPAM_AD_PATTERNS):
+        return True
+    link_l = (link or "").strip().lower()
+    for d in SPAM_LINK_DOMAINS:
+        if link_l.startswith(f"https://{d}") or link_l.startswith(f"http://{d}") \
+           or link_l.startswith(f"https://www.{d}") or f"//{d}/" in link_l:
+            return True
+    return False
+
+
 if __name__ == "__main__":
     # Quick manual sanity checks
     tests = [
