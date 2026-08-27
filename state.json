@@ -9735,7 +9735,13 @@
     "https://insider-gaming.com/the-wolf-among-us-remastered-october-release-date/",
     "https://gameriv.com/xbox-now-lets-players-turn-physical-discs-into-digital-copies/",
     "https://gameriv.com/skyrim-august-27-update-fixes-xbox-map-crash-and-ps5-creations-storage-issue/",
-    "https://esports.gg/guides/call-of-duty/best-pc-graphics-settings-to-boost-fps-in-modern-warfare-4/"
+    "https://esports.gg/guides/call-of-duty/best-pc-graphics-settings-to-boost-fps-in-modern-warfare-4/",
+    "https://www.invenglobal.com/articles/25271/bnk-fearx-defeats-nongshim-3-1-set-to-face-hanjin",
+    "https://dotesports.com/general/news/gothamchess-basilisk-head-chess-2",
+    "https://www.hltv.org/news/45400/inner-circle-send-meziiless-vitality-to-blast-open-porto-lower-bracket",
+    "https://www.invenglobal.com/articles/25272/bfx-vicla-im-overflowing-with-confidence-ill-send-hanjin-brion-home-tomorrow-as-well",
+    "https://www.invenglobal.com/articles/25270/german-president-steinmeier-games-are-already-at-the-center-of-society-meaningful-for-democracy-too",
+    "https://www.invenglobal.com/articles/25269/kang-eun-ho-takes-1st-place-in-hard-bellona-first-clear-race-with-10m-55s-time"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -19335,7 +19341,13 @@
     "d72e854898bbf898484571c01c294cad",
     "fe3c5c737f5be86e59e288f5006b762f",
     "8f03886ede3851accce35fc0dd2d6f8a",
-    "c20a2a204c8fa7396ed73b85c47d27ad"
+    "c20a2a204c8fa7396ed73b85c47d27ad",
+    "27b02c965118236e3112487bb61b218a",
+    "bb7ce555078185ed5620be5402ab2ba8",
+    "190641c221e9d95624a270b8be1b6fc1",
+    "57805fac40c13750acd949330f3f39a0",
+    "5c71eeb0b31342cc5dee355177b4846f",
+    "43aafafa0686ec7192522e935bf76e3d"
   ],
   "transfers": {
     "pages": {
@@ -23530,702 +23542,6 @@
   "sent_stories": [
     {
       "words": [
-        "digital",
-        "education",
-        "era",
-        "foundation",
-        "gamein",
-        "hosts",
-        "law",
-        "youth"
-      ],
-      "at": "2026-08-26T06:35:51.871399+00:00",
-      "message_id": "1542059991723286529",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Gamein Foundation Hosts ‘Digital Law Education’ for Youth in the AI Era",
-      "link": "https://www.invenglobal.com/articles/25170/gamein-foundation-hosts-digital-law-education-for-youth-in-the-ai-era",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by Gamein Foundation©Gamein FoundationGamein Foundation (Chairperson Lee Na-jung) is co-hosting the 4th 'Digital Law Education' program with Seongnam Youth & Young Adu......"
-    },
-    {
-      "words": [
-        "account",
-        "blue",
-        "brand",
-        "dead",
-        "flames",
-        "page",
-        "two",
-        "unveils"
-      ],
-      "at": "2026-08-26T06:35:51.871399+00:00",
-      "message_id": "1542059997981057105",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "'Dead Account: Two Blue Flames' Unveils Brand Page and PV",
-      "link": "https://www.invenglobal.com/articles/25169/dead-account-two-blue-flames-unveils-brand-page-and-pv",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by Smilegate © SmilegateSmilegate announced on Wednesday, August 26, that it has unveiled the brand page and promotional video (PV) for its new title, 'Dead Account: Two B......"
-    },
-    {
-      "words": [
-        "2nd",
-        "anniversary",
-        "character",
-        "costumes",
-        "free",
-        "horizon",
-        "launches",
-        "walker"
-      ],
-      "at": "2026-08-26T06:35:51.871399+00:00",
-      "message_id": "1542060002758631438",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "'Horizon Walker' Launches 2nd Anniversary Update with New Character and Free Costumes",
-      "link": "https://www.invenglobal.com/articles/25167/horizon-walker-launches-2nd-anniversary-update-with-new-character-and-free-costumes",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by GentleManiac© GentleManiacGentleManiac (co-CEOs Bok Gyu-dong and Lee Tae-woong), a developer specializing in subculture games, announced on August 27 that it has releas......"
-    },
-    {
-      "words": [
-        "7th",
-        "adds",
-        "anniversary",
-        "class",
-        "eos",
-        "haid",
-        "hunter",
-        "red",
-        "server"
-      ],
-      "at": "2026-08-26T06:35:51.871399+00:00",
-      "message_id": "1542060007946846250",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "EOS RED Adds New Class 'Hunter' and New Server 'Haid' for 7th Anniversary",
-      "link": "https://www.invenglobal.com/articles/25166/eos-red-adds-new-class-hunter-and-new-server-haid-for-7th-anniversary",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by Blomics©INVENBlomics (CEO Cha Ji-hoon) and Blue Potion Games (Co-CEOs Jeong Jae-mok and Cho Seung-jin) announced on August 26 that mobile MMORPG EOS RED, which they co-......"
-    },
-    {
-      "words": [
-        "2039",
-        "combat",
-        "evolution",
-        "exploration",
-        "familiarity",
-        "metro",
-        "potential",
-        "shown",
-        "within"
-      ],
-      "at": "2026-08-26T07:32:24.836651+00:00",
-      "message_id": "1542074227547705385",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Evolution Within Familiarity: The Potential Shown by 'Metro 2039' Combat and Exploration",
-      "link": "https://www.invenglobal.com/articles/25177/evolution-within-familiarity-the-potential-shown-by-metro-2039-combat-and-exploration",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "4A Games' flagship franchise, the Metro series. Its latest title, 'Metro 2039,' recently revealed new details through an online hands-on preview...."
-    },
-    {
-      "words": [
-        "august",
-        "complete",
-        "edition",
-        "kingdoms",
-        "kit",
-        "open",
-        "orders",
-        "power",
-        "pre",
-        "romance",
-        "three",
-        "xiv"
-      ],
-      "at": "2026-08-26T07:32:24.836651+00:00",
-      "message_id": "1542074232824008705",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Pre-Orders for Romance of the Three Kingdoms XIV with Power Up Kit Complete Edition Open August 27",
-      "link": "https://www.invenglobal.com/articles/25176/pre-orders-for-romance-of-the-three-kingdoms-xiv-with-power-up-kit-complete-edition-open-august-27",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by Digital Touch©KOEI TECMO GAMES, Digital TouchDigital Touch (CEO Sung-heon Jung) announced that pre-orders for the Korean physical packaged edition of KOEI TECMO GAMES' ......"
-    },
-    {
-      "words": [
-        "focus",
-        "just",
-        "key",
-        "mountain",
-        "overwhelmed",
-        "priorities",
-        "work"
-      ],
-      "at": "2026-08-26T07:32:24.836651+00:00",
-      "message_id": "1542074237643395118",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Overwhelmed by a Mountain of Work? Focus on Just '3 Key Priorities'",
-      "link": "https://www.invenglobal.com/articles/25175/overwhelmed-by-a-mountain-of-work-focus-on-just-3-key-priorities",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©INVEN📢GAMESCOM DEVTopic: Work Prioritization Methods for Overcoming Burnout and Boosting ProductivitySpeaker: Matthew Strasser (Senior Dialogue Coordinator, Insomniac Games)Catego......"
-    },
-    {
-      "words": [
-        "birmingham",
-        "gamescom",
-        "god",
-        "revealed",
-        "save",
-        "showcased",
-        "trailer"
-      ],
-      "at": "2026-08-26T07:32:24.836651+00:00",
-      "message_id": "1542074243297054762",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "'God Save Birmingham' Showcased at Gamescom, New Trailer Revealed",
-      "link": "https://www.invenglobal.com/articles/25174/god-save-birmingham-showcased-at-gamescom-new-trailer-revealed",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Provided by Kakao Games Ocean Drive Studio (CEO Kim Hee-jae), a subsidiary of Kakao Games (joint CEOs Kim Tae-hwan and Lee Si-woo), will showcase its upcoming global title 'God Sav......"
-    },
-    {
-      "words": [
-        "dweller",
-        "launches",
-        "metroidvania",
-        "september",
-        "well"
-      ],
-      "at": "2026-08-26T08:24:25.695305+00:00",
-      "message_id": "1542087312249327637",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "New Metroidvania 'Well Dweller' Launches September 22",
-      "link": "https://www.invenglobal.com/articles/25181/new-metroidvania-well-dweller-launches-september-22",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "ⓒ Top Hat StudiosTop Hat Studios announced that 'Well Dweller', a Metroidvania action-adventure game developed by Kyle Thompson, will launch on September 22.'Well Dweller' is a gam......"
-    },
-    {
-      "words": [
-        "dummy",
-        "file",
-        "heroes",
-        "iii",
-        "launches",
-        "only"
-      ],
-      "at": "2026-08-26T08:24:25.695305+00:00",
-      "message_id": "1542087318029205515",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "'Heroes III' Launches with Only a Dummy File",
-      "link": "https://www.invenglobal.com/articles/25179/heroes-iii-launches-with-only-a-dummy-file",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "© UbisoftThe Steam release of 'Heroes of Might and Magic III' Complete Edition suffered a launch blunder. Immediately following release, users could only download a single 23.49 KB dummy executable without the actual game...."
-    },
-    {
-      "words": [
-        "asia",
-        "gaming",
-        "mobile",
-        "powerhouse",
-        "southeast",
-        "why"
-      ],
-      "at": "2026-08-26T08:24:25.695305+00:00",
-      "message_id": "1542087323334737951",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports Insider"
-      ],
-      "title": "Why Southeast Asia is a mobile gaming powerhouse",
-      "link": "https://esportsinsider.com/2026/08/southeast-asia-mobile-gaming-powerhouse",
-      "color": 8141549,
-      "image_url": "https://esportsinsider.com/wp-content/uploads/2026/08/sea-mobile-gaming-powerhouse-large.jpg",
-      "base_description": "Southeast Asia (SEA) has grown into one of the world’s most important mobile-first gaming markets. This growth has been fuelled by affordable smartphones, accessible free-to-play games, expanding mobile connectivity, and a bustling social gaming culture, allowing mobile titles to"
-    },
-    {
-      "words": [
-        "40k",
-        "first",
-        "hands",
-        "total",
-        "war",
-        "warhammer"
-      ],
-      "at": "2026-08-26T09:10:49.463130+00:00",
-      "message_id": "1542098988105203744",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Total War: Warhammer 40K First Hands-On: Initial Combat Impressions",
-      "link": "https://www.invenglobal.com/articles/25184/total-war-warhammer-40k-first-hands-on-initial-combat-impressions",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "©Creative AssemblyI came to appreciate the real appeal of the Total War series only after working as a journalist for quite some time. However, my love for Warhammer 40K goes back much further...."
-    },
-    {
-      "words": [
-        "controversy",
-        "demos",
-        "fake",
-        "gta6",
-        "issued",
-        "leak",
-        "malware",
-        "over",
-        "warning"
-      ],
-      "at": "2026-08-26T09:10:49.463130+00:00",
-      "message_id": "1542098992945561612",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "From Leak Controversy to Malware... Warning Issued Over Fake 'GTA6' Demos",
-      "link": "https://www.invenglobal.com/articles/25185/from-leak-controversy-to-malware-warning-issued-over-fake-gta6-demos",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Fake GTA6 demo website ©INVENFollowing a leak controversy involving the hacker group Cyberrick, Rockstar Games' 'GTA6' is now suffering from malware distribution utilizing fake dem......"
-    },
-    {
-      "words": [
-        "bipartisan",
-        "first",
-        "forward",
-        "gamescom",
-        "industry",
-        "korean",
-        "lawmakers",
-        "leap",
-        "pondering",
-        "take",
-        "time",
-        "visit",
-        "ways"
-      ],
-      "at": "2026-08-26T09:10:49.463130+00:00",
-      "message_id": "1542098998268141649",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Bipartisan Korean Lawmakers Visit Gamescom for the First Time: \"Pondering Ways for Korean Game Industry to Take a Leap Forward\"",
-      "link": "https://www.invenglobal.com/articles/25183/bipartisan-korean-lawmakers-visit-gamescom-for-the-first-time-pondering-ways-for-korean-game-industry-to-take-a-leap-forward",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "On August 26 (local time), four Korean lawmakers from ruling and opposition parties visited gamescom 2026, which opened in Cologne, Germany...."
-    },
-    {
-      "words": [
-        "added",
-        "chalices",
-        "constellations",
-        "features",
-        "look",
-        "sacrificial",
-        "stat"
-      ],
-      "at": "2026-08-26T09:10:49.463130+00:00",
-      "message_id": "1542099003099971596",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "New Stat-Up Features Added! A Look at Sacrificial Chalices and Constellations",
-      "link": "https://www.invenglobal.com/articles/25182/new-stat-up-features-added-a-look-at-sacrificial-chalices-and-constellations",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "SOL: enchant implemented a major update on Wednesday, August 26, featuring EPISODE 01 - GENESIS: Battleground of Gods. The massive patch includes the addition of a new Healer class and world-scale inter-server content...."
-    },
-    {
-      "words": [
-        "attendee",
-        "dota",
-        "experience",
-        "first",
-        "ti15",
-        "time"
-      ],
-      "at": "2026-08-26T09:10:49.463130+00:00",
-      "message_id": "1542099008426876991",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "My Experience at Dota 2’s TI15 As a First-Time Attendee",
-      "link": "https://www.hotspawn.com/dota2/news/my-experience-at-ti15",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/ti15-venue.jpg",
-      "base_description": "I’ve been closely following the professional Dota 2 scene since 2016, and I finally got to go to my first TI event a decade later (as Press). It’s also worth noting that TI15 also happens to be my first esports event ever, so I don’t really have a benchmark of past experiences to"
-    },
-    {
-      "words": [
-        "designs",
-        "leaked",
-        "lightstick",
-        "track",
-        "watch"
-      ],
-      "at": "2026-08-26T09:56:56.351785+00:00",
-      "message_id": "1542110593199247421",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg",
-        "Hotspawn"
-      ],
-      "title": "K/DA track “Watch Me”, lightstick, and designs leaked",
-      "link": "https://esports.gg/news/league-of-legends/k-da-track-watch-me-lightstick-and-designs-leaked/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "We dive into who's involved with Watch Me, the leaked K/DA track, and the new K/DA and Heartsteel design leaks."
-    },
-    {
-      "words": [
-        "appointed",
-        "expands",
-        "guttman",
-        "leadership",
-        "mike",
-        "partnerships",
-        "president",
-        "senior",
-        "testronic",
-        "vice"
-      ],
-      "at": "2026-08-26T09:56:56.351785+00:00",
-      "message_id": "1542110600400867463",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "GamesIndustry.biz"
-      ],
-      "title": "Testronic expands senior leadership, Mike Guttman appointed vice president of senior partnerships",
-      "link": "https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships",
-      "color": 8141549,
-      "image_url": "https://assetsio.gnwcdn.com/testronic.png?width=690&quality=85&format=jpg&auto=webp",
-      "base_description": "Testronic has made several senior appointments across its global locations, including Mike Guttman as vice president of senior partnerships. Read more"
-    },
-    {
-      "words": [
-        "100",
-        "caedrel",
-        "champion",
-        "event",
-        "formula",
-        "four",
-        "max",
-        "race",
-        "time",
-        "verstappen"
-      ],
-      "at": "2026-08-26T10:28:11.161384+00:00",
-      "message_id": "1542118462556471400",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "Hotspawn"
-      ],
-      "title": "Caedrel to race Formula 1 Four-Time Champion Max Verstappen in ‘Max vs 100’ Event",
-      "link": "https://insider-gaming.com/caedrel-max-vs-100-verstappen-go-kart-race/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "League of Legends co-streaming powerhouse Caedrel will take on four-time Formula 1 World Champion Max Verstappen in a go-kart race. The post Caedrel to race Formula 1 Four-Time Champion Max Verstappen in ‘Max vs 100’ Event appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "best",
-        "combos",
-        "cs2",
-        "gloves",
-        "knife",
-        "polygon"
-      ],
-      "at": "2026-08-26T10:28:11.161384+00:00",
-      "message_id": "1542118468004880507",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Hotspawn"
-      ],
-      "title": "Best Polygon Gloves Knife Combos in CS2",
-      "link": "https://www.hotspawn.com/counter-strike/news/best-polygon-gloves-knife-combos-in-cs2",
-      "color": 8141549,
-      "image_url": "https://www.hotspawn.com/wp-content/uploads/2026/08/Moto-Gloves-Polygon-Skeleton-Knife-Doppler-Phase-3.jpg",
-      "base_description": "Moto Gloves Polygon are a staple in many blue loadouts. They’re among the cheaper blue gloves in the game, while featuring some of the most vibrant blue hues. Finding a complementary knife is essential – here are the best Polygon gloves knife combos that I’ve found in CS2. Moto G"
-    },
-    {
-      "words": [
-        "bgaming",
-        "data",
-        "partner",
-        "portfolio",
-        "strategy",
-        "three",
-        "validates",
-        "worlds"
-      ],
-      "at": "2026-08-26T10:28:11.161384+00:00",
-      "message_id": "1542118473143025754",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "BGaming partner data validates Three Game Worlds portfolio strategy",
-      "link": "https://europeangaming.eu/portal/press-releases/2026/08/26/213206/bgaming-three-game-worlds-partner-data/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/BGaming-partner-data-validates-Three-Game-Worlds-portfolio-strategy.jpg",
-      "base_description": "Operator performance data from Softsich, TopX, UpGaming, and Doxa illustrate how BGaming’s three-category portfolio addresses distinct stages of… The post BGaming partner data validates Three Game Worlds portfolio strategy appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
-        "bloodstained"
-      ],
-      "at": "2026-08-26T11:01:28.908286+00:00",
-      "message_id": "1542126835863658537",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "Bloodstained: The Scarlet Engagement Delayed to 2027",
-      "link": "https://insider-gaming.com/bloodstained-the-scarlet-engagement-delayed-to-2027/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Bloodstained: The Scarlet Engagement has been delayed until 2027, but it has already entered the final stages of development. The post Bloodstained: The Scarlet Engagement Delayed to 2027 appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "ahead",
-        "demo",
-        "distributing",
-        "fake",
-        "gta",
-        "launch",
-        "malware",
-        "november",
-        "sites"
-      ],
-      "at": "2026-08-26T11:01:28.908286+00:00",
-      "message_id": "1542126840838099005",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Esports.gg"
-      ],
-      "title": "GTA 6 fake demo sites are distributing malware ahead of November launch",
-      "link": "https://esports.gg/news/gta-6/gta-6-malware-fake-demo-sites/",
-      "color": 8141549,
-      "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-      "base_description": "Cybercriminals are exploiting hype around Rockstar's upcoming release with convincing fake demo pages designed to install credential-stealing software."
-    },
-    {
-      "words": [
-        "aurora",
-        "beat",
-        "blast",
-        "opener",
-        "r1nkle",
-        "shines"
-      ],
-      "at": "2026-08-26T11:35:30.270696+00:00",
-      "message_id": "1542135398640263229",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "HLTV"
-      ],
-      "title": "r1nkle shines as G2 beat Aurora in BLAST opener",
-      "link": "https://www.hltv.org/news/45391/r1nkle-shines-as-g2-beat-aurora-in-blast-opener",
-      "color": 8141549,
-      "image_url": "https://img-cdn.hltv.org/gallerypicture/L9Z8G37sbHfIkdyDodz9Yg.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=2195474eed7e47a9d0b95b4a1a4de4ae",
-      "base_description": "Aurora fumbled a 12-7 lead on map two to begin Open Porto with a whimper."
-    },
-    {
-      "words": [
-        "2026",
-        "championships",
-        "drops",
-        "earn",
-        "how",
-        "pokémon",
-        "twitch",
-        "world"
-      ],
-      "at": "2026-08-26T11:35:30.270696+00:00",
-      "message_id": "1542135404038201355",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming"
-      ],
-      "title": "How to earn 2026 Pokémon World Championships Twitch Drops",
-      "link": "https://insider-gaming.com/2026-pokemon-world-championships-twitch-drops/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Insider Gaming has all you need to know to earn those lucrative drops from the 2026 Pokémon World Championships. The post How to earn 2026 Pokémon World Championships Twitch Drops appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "basilisk",
-        "carlsen",
-        "down",
-        "goal",
-        "gothamchess",
-        "helping",
-        "joins",
-        "magnus",
-        "players",
-        "take"
-      ],
-      "at": "2026-08-26T11:35:30.270696+00:00",
-      "message_id": "1542135410048630867",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Dexerto Esports",
-        "Insider Gaming"
-      ],
-      "title": "GothamChess joins BASILISK with goal of helping its players take down Magnus Carlsen",
-      "link": "https://www.dexerto.com/esports/gothamchess-joins-basilisk-with-goal-of-helping-its-players-take-down-magnus-carlsen-3402177/",
-      "color": 8141549,
-      "image_url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/25/gothamchess-BASILISK-esports.jpg?width=1080&quality=75&format=auto",
-      "base_description": "GothamChess has joined science-focused esports organization BASILISK as its Head of Chess, where he hopes to challenge for the Esports World Cup."
-    },
-    {
-      "words": [
-        "165",
-        "pick",
-        "weird"
-      ],
-      "at": "2026-08-26T11:35:30.270696+00:00",
-      "message_id": "1542135417120227447",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Nerfplz"
-      ],
-      "title": "Weird Pick #165: Bot Lane Brand",
-      "link": "https://www.nerfplz.com/2026/09/weird-pick-168-bot-lane-brand.html",
-      "color": 8141549,
-      "image_url": "https://www.nerfplz.com/cdn-cgi/image/width=300,height=177,fit=cover,gravity=0.5x0.15,format=auto,quality=85/https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_5.jpg",
-      "base_description": "Everyone knows Brand support. Almost nobody has noticed that the version standing where the marksman should be is winning more games than it does. Brand takes the bot lane carry slot in about one in every two hundred Ranked Solo/Duo games, which is rare enough that most players h"
-    },
-    {
-      "words": [
-        "allwyn",
-        "appointment",
-        "ceo",
-        "interim",
-        "mps",
-        "phil",
-        "question",
-        "walker"
-      ],
-      "at": "2026-08-26T11:35:30.270696+00:00",
-      "message_id": "1542135422656970854",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "European Gaming Media"
-      ],
-      "title": "MPs question Phil Walker’s appointment as Allwyn UK interim CEO",
-      "link": "https://europeangaming.eu/portal/latest-news/2026/08/26/213214/mps-question-allwyn-phil-walker-appointment/",
-      "color": 8141549,
-      "image_url": "https://media.europeangaming.eu/uploads/2026/08/MPs-question-Phil-Walkers-appointment-as-Allwyn-UK-interim-CEO.jpg",
-      "base_description": "The letter asks what weight the regulator gave to Walker’s William Hill record and his non-executive seat at… The post MPs question Phil Walker’s appointment as Allwyn UK interim CEO appeared first on European Gaming Industry News ."
-    },
-    {
-      "words": [
-        "discord",
-        "expands",
-        "integration",
-        "mobile"
-      ],
-      "at": "2026-08-26T12:03:41.210024+00:00",
-      "message_id": "1542142490365268009",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Discord Expands Integration to Mobile Games",
-      "link": "https://www.invenglobal.com/articles/25187/discord-expands-integration-to-mobile-games",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "© DiscordDiscord is coming directly into mobile games.On the 6th, Discord officially launched iOS and Android support for its Social SDK...."
-    },
-    {
-      "words": [
-        "addresses",
-        "breaking",
-        "drama",
-        "gta",
-        "leak",
-        "rockstar"
-      ],
-      "at": "2026-08-26T12:03:41.210024+00:00",
-      "message_id": "1542142495498960897",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Insider Gaming",
-        "Dot Esports"
-      ],
-      "title": "BREAKING: Rockstar Games Addresses GTA 6 Leak Drama",
-      "link": "https://insider-gaming.com/rockstar-games-address-gta-6-leak-drama/",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "Rockstar Games has finally issued an official statement regarding the GTA 6 leak situation, posting on social media today. The post BREAKING: Rockstar Games Addresses GTA 6 Leak Drama appeared first on Insider Gaming ."
-    },
-    {
-      "words": [
-        "a43kd",
-        "amateur",
-        "map",
-        "oman",
-        "put",
-        "radio",
-        "will"
-      ],
-      "at": "2026-08-26T12:03:41.210024+00:00",
-      "message_id": "1542142500662157444",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Oman Esports"
-      ],
-      "title": "'A43KD' will put Oman on the amateur radio map - Oman Observer",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVFJSk5kQjhfd1puMVhJZkZEeE16WFpyQlVQd3BWN0V3ay1XenM5UlA2YTRIR3lIM1ZfRE40aUlxWUNQbG9aV1o1WTEzTkpTVklYQ1lBOTFyVlNmVE1XRWREYk02Y3NNQTdWZ3AxcExma2MtVms2eWRGT09mLU1rSnBxYUxMaEkyeVphbVhJeExTYW5PenFQTXEzODNwU3l4NzYweDJ5NmY5Z9IBWkFVX3lxTFBFa0VKM2tPZFU3NUk0Y29NUVptcXNfRURpbGtmcEZLUmxKZ3FYaWVjcENsZVNkN0FaMVY4WlFETjhobHZzZzdwbGZhczNHc3ZIR3BGNkJHalpUUQ?oc=5",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "'A43KD' will put Oman on the amateur radio map Oman Observer"
-    },
-    {
-      "words": [
         "because",
         "brion",
         "coach",
@@ -24695,6 +24011,83 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "ⓒ Konami Digital EntertainmentKonami Digital Entertainment announced on the 27th that 'METAL GEAR SOLID: MASTER COLLECTION Vol.2' has officially launched worldwide on Nintendo Swit......"
+    },
+    {
+      "words": [
+        "bfx",
+        "brion",
+        "confidence",
+        "hanjin",
+        "home",
+        "overflowing",
+        "send",
+        "tomorrow",
+        "vicla",
+        "well"
+      ],
+      "at": "2026-08-27T12:06:47.772508+00:00",
+      "message_id": "1542505660779077664",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "BFX VicLa: \"I'm overflowing with confidence — I'll send Hanjin BRION home tomorrow as well\"",
+      "link": "https://www.invenglobal.com/articles/25272/bfx-vicla-im-overflowing-with-confidence-ill-send-hanjin-brion-home-tomorrow-as-well",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "BNK FearX defeated Nongshim RedForce 3-1 in the '2026 LoL Champions Korea (LCK)' Play-In match held on the 27th at Chzzk LoL Park in Jongno. Today's Player of the Match (POM) was Lee \"VicLa\" Dae-kwang...."
+    },
+    {
+      "words": [
+        "already",
+        "center",
+        "democracy",
+        "german",
+        "meaningful",
+        "president",
+        "society",
+        "steinmeier",
+        "too"
+      ],
+      "at": "2026-08-27T12:06:47.772508+00:00",
+      "message_id": "1542505666663555325",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "German President Steinmeier: \"Games Are Already at the Center of Society, Meaningful for Democracy Too\"",
+      "link": "https://www.invenglobal.com/articles/25270/german-president-steinmeier-games-are-already-at-the-center-of-society-meaningful-for-democracy-too",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "German President Frank-Walter Steinmeier stated during his opening address at the gamescom congress in Cologne on August 27 that video games are \"culturally meaningful as a whole, ......"
+    },
+    {
+      "words": [
+        "10m",
+        "1st",
+        "55s",
+        "bellona",
+        "clear",
+        "eun",
+        "first",
+        "hard",
+        "kang",
+        "place",
+        "race",
+        "takes",
+        "time"
+      ],
+      "at": "2026-08-27T12:06:47.772508+00:00",
+      "message_id": "1542505672233721959",
+      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Kang Eun-ho Takes 1st Place in Hard Bellona First-Clear Race with 10m 55s Time",
+      "link": "https://www.invenglobal.com/articles/25269/kang-eun-ho-takes-1st-place-in-hard-bellona-first-clear-race-with-10m-55s-time",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "On Thursday, August 27 at 19:00, the solo Hard mode Bellona first-clear race mission took place...."
     }
   ]
 }
