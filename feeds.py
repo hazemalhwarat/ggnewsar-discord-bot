@@ -626,6 +626,20 @@ RSS_FEEDS = [
     {"name": "Gamer Style Mexico (Esports, LatAm)", "url": "https://gamerstyle.com.mx/category/esports/feed/", "verified": False},
 
     # ============================================================
+    # ADDED 2026-08-27 per Hazem's request — Pley.gg plus similar
+    # multi-game outlets that focus specifically on team/player news
+    # (roster moves, interviews, tournament storylines), the same
+    # niche Pley.gg covers for CS2/Valorant/Apex. None of these have
+    # been live-tested from this environment (no network route to
+    # them here), so all are added "verified": False per this file's
+    # standard practice — the bot will confirm/retry automatically.
+    # ============================================================
+    {"name": "Pley.gg (CS2, Valorant, Apex Legends)", "url": "https://pley.gg/feed", "verified": False},
+    {"name": "EGamersWorld (roster/team news, multi-game)", "url": "https://egamersworld.com/feed", "verified": False},
+    {"name": "Millenium/MGG (English, multi-game esports)", "url": "https://us.millenium.gg/feed", "verified": False},
+    {"name": "Mobile Wins (LoL, CS2, CoD news)", "url": "https://www.mobilewins.co.uk/feed/", "verified": False},
+
+    # ============================================================
     # LEAKS/RUMORS — REBUILT 2026-08-11 after removing Liquipedia
     # entirely (its "Portal:Rumours" pages, which used to cover this,
     # are gone along with the rest of the Liquipedia integration).
