@@ -637,7 +637,17 @@ RSS_FEEDS = [
     {"name": "Pley.gg (CS2, Valorant, Apex Legends)", "url": "https://pley.gg/feed", "verified": False},
     {"name": "EGamersWorld (roster/team news, multi-game)", "url": "https://egamersworld.com/feed", "verified": False},
     {"name": "Millenium/MGG (English, multi-game esports)", "url": "https://us.millenium.gg/feed", "verified": False},
-    {"name": "Mobile Wins (LoL, CS2, CoD news)", "url": "https://www.mobilewins.co.uk/feed/", "verified": False},
+    # REMOVED 2026-08-27 (same day, minutes after being added) — "Mobile
+    # Wins" was added here under the mistaken belief it was a gaming news
+    # outlet ("LoL, CS2, CoD news"). It is actually mobilewins.co.uk, a UK
+    # online casino/sports-betting affiliate site with no esports news
+    # content at all. Its /feed is exactly the kind of unvetted third-party
+    # content this file's docstring already warns about (see the 2026-08-23
+    # rsshub.app removal note above): affiliate/casino blogs routinely stuff
+    # their RSS with promotional ad content, which is what reached the
+    # Discord channel as a "join our Telegram channel — A-TOOLS X" ad within
+    # a minute of this entry being added. Do not re-add unless the site is
+    # actually confirmed to be an esports news source.
 
     # ============================================================
     # LEAKS/RUMORS — REBUILT 2026-08-11 after removing Liquipedia
