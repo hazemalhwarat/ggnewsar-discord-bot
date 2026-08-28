@@ -9874,7 +9874,12 @@
     "https://insider-gaming.com/witcher-3-remastered-pc-specs-revealed/",
     "https://insider-gaming.com/gta-6-reactive-npcs-criminal-profiles-police/",
     "https://www.vlr.gg/745060/loud-and-leviat-n-dominate-advance-over-play-in-teams",
-    "https://upcomer.com/rockstar-puts-26-minutes-of-grand-theft-auto-vi-gameplay-on-netflix/"
+    "https://upcomer.com/rockstar-puts-26-minutes-of-grand-theft-auto-vi-gameplay-on-netflix/",
+    "https://www.invenglobal.com/articles/25329/is-a-drake-alt-coming-nikkes-september-updates-to-record-breaking-4th-anniversary",
+    "https://www.invenglobal.com/articles/25328/epic-seven-8th-anniversary-update-adds-moonlight-hero-lisette",
+    "https://www.invenglobal.com/articles/25327/how-is-yungeon-the-new-core-dps-for-magic-decks-being-used",
+    "https://www.invenglobal.com/articles/25326/firsthand-impressions-of-cyberpunk-edgerunners-season-2-episode-1",
+    "https://www.invenglobal.com/articles/25325/football-manager-27-set-for-november-release-heavily-criticized-ui-to-be-reworked"
   ],
   "title_hashes": [
     "63054d6e28ada4299a57063a0839a1be",
@@ -19609,7 +19614,12 @@
     "75a0f993c96d265c5ccab73e07bc3772",
     "d533db33721a40c492ab6693f9604f77",
     "01dac4ac525dce2a8d2574b0cc58ca7a",
-    "ad1e02567444437f210f6b4434ac061b"
+    "ad1e02567444437f210f6b4434ac061b",
+    "221d717be2fdcc5bb91573969ff31a30",
+    "acb4a23c5b2918d288b39fc5ef56ef5e",
+    "f4f69d2fb0db22d6ac4aded1abbd1634",
+    "4aea2bceb3059b06a73d84d09f703eb0",
+    "b8874b3014e75a69f06863a9b02fbd74"
   ],
   "transfers": {
     "pages": {
@@ -23804,48 +23814,6 @@
   "sent_stories": [
     {
       "words": [
-        "hello",
-        "launches",
-        "maple",
-        "nexon",
-        "tied",
-        "two",
-        "worlds"
-      ],
-      "at": "2026-08-27T06:22:49.179781+00:00",
-      "message_id": "1542419101845033021",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Nexon launches two worlds tied to 'Hello Maple 2'",
-      "link": "https://www.invenglobal.com/articles/25259/nexon-launches-two-worlds-tied-to-hello-maple-2",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "ⓒ NexonNexon announced on August 27 that it has launched two new worlds linked to the computational thinking science comic 'Hello Maple 2' on its block coding platform 'Hello Maple......"
-    },
-    {
-      "words": [
-        "gear",
-        "konami",
-        "launches",
-        "metal",
-        "solid"
-      ],
-      "at": "2026-08-27T06:22:49.179781+00:00",
-      "message_id": "1542419107696345150",
-      "webhook_url": "https://discord.com/api/webhooks/1521360120762859633/OhL6vh0-mY6p4Yr-xzJin7oG8UAhVEHdT0aA0pj0RrCaG6uZXX3-Zja-lz4zGPiB16Xg",
-      "sources": [
-        "Inven Global (English)"
-      ],
-      "title": "Konami Launches 'Metal Gear Solid: Master Collection Vol. 2'",
-      "link": "https://www.invenglobal.com/articles/25258/konami-launches-metal-gear-solid-master-collection-vol-2",
-      "color": 8141549,
-      "image_url": "",
-      "base_description": "ⓒ Konami Digital EntertainmentKonami Digital Entertainment announced on the 27th that 'METAL GEAR SOLID: MASTER COLLECTION Vol.2' has officially launched worldwide on Nintendo Swit......"
-    },
-    {
-      "words": [
         "bfx",
         "brion",
         "confidence",
@@ -24212,6 +24180,117 @@
       "color": 8141549,
       "image_url": "",
       "base_description": "Provided by Nexon ⓒ NexonNexon announced on August 28 that it has updated its mobile MMORPG 'MapleStory M' with new boss 'Kaling'.Set in the Shangri-La region, 'Kaling' comes in No......"
+    },
+    {
+      "words": [
+        "4th",
+        "alt",
+        "anniversary",
+        "breaking",
+        "coming",
+        "drake",
+        "nikke",
+        "record",
+        "september"
+      ],
+      "at": "2026-08-28T11:14:59.029911+00:00",
+      "message_id": "1542855009660698635",
+      "webhook_url": "https://discord.com/api/webhooks/1542853887470469274/tbE5T-ySB3vZSlYAslu4zJmrMCRPgPZ-AKOA6LmJvMHqXzFwhh_ChcTdUmTgb1UltxbI",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Is a Drake Alt Coming? NIKKE's September Updates to Record-Breaking 4th Anniversary",
+      "link": "https://www.invenglobal.com/articles/25329/is-a-drake-alt-coming-nikkes-september-updates-to-record-breaking-4th-anniversary",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Goddess of Victory: NIKKE Releases August 2026 Developer's NoteFrom September Drake event to bunny girls and limited Nikke rerunsEnhanced story narrative, Arena improvements, and biggest 4th anniversary teaser yet#...."
+    },
+    {
+      "words": [
+        "8th",
+        "adds",
+        "anniversary",
+        "epic",
+        "hero",
+        "lisette",
+        "moonlight",
+        "seven"
+      ],
+      "at": "2026-08-28T11:14:59.029911+00:00",
+      "message_id": "1542855014714966048",
+      "webhook_url": "https://discord.com/api/webhooks/1542853887470469274/tbE5T-ySB3vZSlYAslu4zJmrMCRPgPZ-AKOA6LmJvMHqXzFwhh_ChcTdUmTgb1UltxbI",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'Epic Seven' 8th Anniversary Update Adds Moonlight Hero 'Lisette'",
+      "link": "https://www.invenglobal.com/articles/25328/epic-seven-8th-anniversary-update-adds-moonlight-hero-lisette",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "ⓒ SmilegateSmilegate announced on August 28 that it has launched a major update and events to celebrate the 8th anniversary of the official launch of 'Epic Seven,' a mobile turn-ba......"
+    },
+    {
+      "words": [
+        "being",
+        "core",
+        "decks",
+        "dps",
+        "how",
+        "magic",
+        "used",
+        "yungeon"
+      ],
+      "at": "2026-08-28T11:14:59.029911+00:00",
+      "message_id": "1542855021324927028",
+      "webhook_url": "https://discord.com/api/webhooks/1542853887470469274/tbE5T-ySB3vZSlYAslu4zJmrMCRPgPZ-AKOA6LmJvMHqXzFwhh_ChcTdUmTgb1UltxbI",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "How Is Yungeon, the New Core DPS for Magic Decks, Being Used?",
+      "link": "https://www.invenglobal.com/articles/25327/how-is-yungeon-the-new-core-dps-for-magic-decks-being-used",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Yungeon, the New Main DPS for Magic Decks Blessing, HP Conversion, and 6-Transcendence Chain Attacks Are KeyYungeon, introduced in Seven Knights Re:BIRTH, is a Magic-type hero who ......"
+    },
+    {
+      "words": [
+        "cyberpunk",
+        "firsthand",
+        "impressions"
+      ],
+      "at": "2026-08-28T11:14:59.029911+00:00",
+      "message_id": "1542855028279345254",
+      "webhook_url": "https://discord.com/api/webhooks/1542853887470469274/tbE5T-ySB3vZSlYAslu4zJmrMCRPgPZ-AKOA6LmJvMHqXzFwhh_ChcTdUmTgb1UltxbI",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "Firsthand Impressions of Cyberpunk: Edgerunners Season 2 Episode 1",
+      "link": "https://www.invenglobal.com/articles/25326/firsthand-impressions-of-cyberpunk-edgerunners-season-2-episode-1",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "Generally, most gaming shows start wrapping up around 6:00 PM as dinner time approaches to prepare for the next day...."
+    },
+    {
+      "words": [
+        "criticized",
+        "football",
+        "heavily",
+        "manager",
+        "november",
+        "release",
+        "reworked",
+        "set"
+      ],
+      "at": "2026-08-28T11:14:59.029911+00:00",
+      "message_id": "1542855034260291645",
+      "webhook_url": "https://discord.com/api/webhooks/1542853887470469274/tbE5T-ySB3vZSlYAslu4zJmrMCRPgPZ-AKOA6LmJvMHqXzFwhh_ChcTdUmTgb1UltxbI",
+      "sources": [
+        "Inven Global (English)"
+      ],
+      "title": "'Football Manager 27' Set for November Release... Heavily Criticized UI to Be Reworked",
+      "link": "https://www.invenglobal.com/articles/25325/football-manager-27-set-for-november-release-heavily-criticized-ui-to-be-reworked",
+      "color": 8141549,
+      "image_url": "",
+      "base_description": "©Sports InteractiveSports Interactive and SEGA will launch the new football simulation game 'Football Manager 27' in November 2026.Sports Interactive revealed the release window for 'Football Manager 27' on its official website on the 27th...."
     }
   ]
 }
