@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkRTalR3WkFqcExodVJVcWZCcE9jM1F4S0xnM24yQ2I0UjNFTlotRVV4VXpCVnhRako1RERiQjhwaEhYSGxjNDJjMDI5MHEzZ3B6QkFIaTl1bjhzcEdFSnUtYW9WTmUxc0NSMkdSX3RDSkItelV5YWVwX2Z3N3hwZEVMTzRCeFE2Y0dXVnh6eF9ha3gy?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUg0bzFGcXd2dG9faFhJeEF1OUYxcW9nQ1ZlWFlDb2JqUFoxNVdRcFJxQWhveTJqTGhZZkIxcGVIRVcwUlF2MUFtNXhXYTBTZkNLc01wTVhXU1J3cVI5Ui00WXppTXZTMTZxc3YtZmVacjI2YjNWazhhM1JfbGtaRFc4RC1DUVAwbW1xY1B5VUd3T1RRbF9kdnV0MUVGTUV2dGJR?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDSGxwNnl3ci1yN2FwcmtGN2lGNDBOZFNucHlmd2tMenVNWG9IQ2xRQXd6UmFNMVphdGpyTksyN1FYdEM1TFJ0LUZMVmViMHNiZklYOVQ2ZURtdTU0OXRKUnF4cGdtV2t2am1FWnVweG94ODAyaS1KYnRtMTg?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE92UDg4cjViaUhFRW5GN1FETC1ORDcyQ3Z1TFVoSHFTVW9wcnFydm1fQ3BEeG4wVGtNM3VENnFOS19XWHVKb2xhMDhoZXF3VUdFWFkzdDJiX1RQb25PVXBjNElLMXhwWU1vRTFLVHFkc2o2SXVvWDZHWDZn?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGZDRCZHgtaTl1eUxORjRHdC1jSUVfQmhUOXRTRlFHbW1EZnN1VU5DZFNZOU1vaU9Pdjlmc1BfUmZyYUR4Y3p6V2ZwQlRLazdWUTg5U3NhSzBGVDdqc3cwOW1VblktQkk2bGtocFFFbS10WGhYWFE?oc=5",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xMDFYUDZQX2ppZ2RtenBJdGRnTTZXb2ZMZjhwZFk5U21Veks4Vy1GMm8tOWxjV0hWS0Y1YjlhT2VJM1gzUU92VXN4RENmdnE1dnhCWmtwTjJ3YUV5NmZPRm9JOXNaWl84S1lDVA?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUtuSE5HdmhWdDVxbVBYcWJpQjNOa3VYYXZPbVhyT2RmNWoyQW1ROHlzSkt1dWFfbkhxYWsxUjl3TC1EZTdISzNxUEUzdTlYZGY0TUxYa0hhbXpHRkpKRXVLUnYzd3hYeFQwWUpmNVhZM1h5bk5MU2xIQk5vYy0wdFVQbGR0YlVvc1V5NEd5QnMxOEZfYVhabzBfZEJjWFlSRWdzakZFd2RocFNvdERleTRR?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQTlDdThkQ3JUbHR1cF9zR3VQNkhiWExfR0JxNEs2SkoySUd6eFZ3YzBLRFJvZm1MR013b2xJNG92MGU4Yktjc1plUjFHdWhoUENDSHYzSndGT1diWElwOHRVRWVOYXZFd2hJbDZwUG1SNjZZeTNfT2lVeTdBS29yUGl0N2xQQkR1bTh6ekhMRQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://esports.gg/news/overwatch/overwatch-doomfist-comic-teases-the-conspiracy-and-reunites-widowmaker-reaper-and-sombra/",
     "https://esports.gg/news/overwatch/overwatch-2-vault-today/",
     "https://esports.gg/news/league-of-legends/lck-2026-season-playoffs-results/",
-    "https://www.hotspawn.com/rocket-league/news/rlcs-world-championship-bundle-mvp-payout"
+    "https://www.hotspawn.com/rocket-league/news/rlcs-world-championship-bundle-mvp-payout",
+    "https://www.hotspawn.com/fortnite/news/fortnite-crash-bandicoot-cup",
+    "https://www.hotspawn.com/call-of-duty/news/mw4-beta-patch-notes-week-two",
+    "https://www.hotspawn.com/valorant/news/fpx-kick-kovaq-after-racist-message",
+    "https://www.hotspawn.com/counter-strike/news/spirit-secure-blast-open-porto-2026-playoffs",
+    "https://www.hotspawn.com/dota2/news/post-the-international-2026-ti15-roster-shuffle-tracker"
   ],
   "title_hashes": [
-    "7f44b021fece26704244874694071f90",
-    "9d43fa595b62973a649d157d81c721a9",
-    "59ad3f46476ecc8f8886324d9db82b87",
-    "1cae300f7d67f9385b63e7148df7a8b0",
-    "b6239d3b149fcf514a714dee4a4f04a9",
     "860324ab288948b21e0173bf479f72b4",
     "8686ef6018050a4439c9377fff845b9f",
     "bd62afb544686d7dc3add1e5a1e30ad5",
@@ -16001,7 +15996,12 @@
     "b87bf791cdde991c7cf6849b99a86dbc",
     "d48d78979c6727403332f52d1425f7ef",
     "8dee221c4ff3a83c200bdf6489005c9d",
-    "1e1153f1dd3a6842acfb35edfd40e22f"
+    "1e1153f1dd3a6842acfb35edfd40e22f",
+    "04f267fe4720b0a84831548895937438",
+    "67a141e1729daf390ae03aca5fabd6a9",
+    "3fcf6f6a40cbe9d30a02e6f8020d7554",
+    "121c802240cb86eeafb02690d29b8283",
+    "7c954bf1aa183cd22f617506993abaf3"
   ],
   "transfers": {
     "pages": {
