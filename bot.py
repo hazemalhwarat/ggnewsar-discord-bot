@@ -89,8 +89,29 @@ from pathlib import Path
 import feedparser
 import requests
 
-from feeds import RSS_FEEDS
-from watchlist import WATCHLIST
+# NEW (hardening, 2026-08-29): these imports used to be plain top-level
+# imports. If either sidecar file was ever missing/misplaced in the
+# checkout for any reason (upload mishap, sync issue, etc.), Python would
+# crash at import time — before main() even runs — meaning ZERO news of
+# any kind would be sent that pass, RSS included, even though the failure
+# only actually concerns Liquipedia or only concerns RSS. Made both
+# imports defensive so a problem with one source can never silence the
+# other, or the whole bot.
+try:
+    from feeds import RSS_FEEDS
+except ImportError as e:
+    RSS_FEEDS = []
+    _FEEDS_IMPORT_ERROR = str(e)
+else:
+    _FEEDS_IMPORT_ERROR = None
+
+try:
+    from watchlist import WATCHLIST
+except ImportError as e:
+    WATCHLIST = {}
+    _WATCHLIST_IMPORT_ERROR = str(e)
+else:
+    _WATCHLIST_IMPORT_ERROR = None
 
 # ============================================================
 # Configuration
@@ -810,6 +831,21 @@ def main():
         return
     if not GEMINI_API_KEY:
         log.warning("Missing GEMINI_API_KEY — Gemini analysis disabled, will fall back to raw RSS titles/summaries.")
+
+    # NEW (hardening): surface sidecar-import problems loudly and clearly,
+    # right at the top of the log, instead of a bare crash with no context.
+    if _FEEDS_IMPORT_ERROR:
+        log.error(
+            f"feeds.py could not be imported ({_FEEDS_IMPORT_ERROR}) — "
+            f"RSS phase will have 0 sources this pass. Check that feeds.py "
+            f"exists at the repo root next to bot.py."
+        )
+    if _WATCHLIST_IMPORT_ERROR:
+        log.error(
+            f"watchlist.py could not be imported ({_WATCHLIST_IMPORT_ERROR}) — "
+            f"Liquipedia phase will have 0 pages this pass. Check that "
+            f"watchlist.py exists at the repo root next to bot.py."
+        )
 
     log.info(
         f"=== Pass starting. soft_deadline={SOFT_DEADLINE_SECONDS}s, "
