@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY3N1WE5TYk5KcXM0VUxFLV9acENyemF6RGMxeEpOQWFLNkZUV3V3MXZMd1EwR3ZrczFPLTR6WVl6cmFpWXhMRjMwWWMxQnVJbjFwWTJneVlzNG51OWN0U0pfTVJRREtHc0YwLURXOU9aenlfeUdNNWNrcU1ZcnlwX2daRGpZVGZsdnQ0RzRrUVp4dw?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0IxeVlUVUhxal9tQ09GTFZlanI4Q1pEclFHS0t6bWIxNWd0X2I5Z3BiWVJLdVRxTGwxbE5LTVJUajl5bUNhYTdyNFVUOW5BSXRkMmxZTWEwOFQ2ZkRMZEZ1UHQwcUU4ekhUUFlQU1NKQkVNVlZYU3BHUzc0bXlhVGV0VTRqbE53c295S3JsMldjamNl?oc=5",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tbzdjRlJvaTF1UlVWVFJIcDVleXdJT0s0dVV4aEo1anhvZFlzSUI3dFJzeHE5bjNpdXpTR2wwU2ZtQ2s3STVWbXQycw?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLXRiZm1Ec1E5Y2lqcWh2Z1lGcHpzUmE5aDNsNldvQzNkMTczbWNzVkNNUXhMSXRvU2c4THJRVHBYbjFlU3M3YzFDUDVWVlRNNGcwYUstLWU4UHBSMDJxOUVwSVhhMk1hWEtlZmJTQzVhVVNia1dNNmNNVTlsbzdtR2lrY0RMMmxSaUE?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE0wRmlndmdXMm1Kb24zNnQtZHlKN2xQelFFZWRfTTUwdVI5OGt5TlMxaGRsVzQxVFgzUmkyUzdqRVlVYWNPYkdhQks5dlRVUVZ5Ykk2UDE3cmM4Z25pX3Jwb0puengyMUpER2JSblhvZ2FwQQ?oc=5",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zbEg1eDBXY0ZwLU1QY2RGWnJrSXpRLTF6cWxyTGVBZmR5WVFGazB5akJ1WW4zMjZfNEVmM01VVWVLOEdSLVRFRWNCTnlBc2xpYzI1S3BzZ1MxLUFnaHBHS1VWdUp0R1pqSVRzcg?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qcmhuSW1Pb19fcTdZWG5FWGRuQk0tak50X0NzaXBtczlIRzhTWkd1bzJ6eWJNNC1FRkJseW5rdkJIdnlPX0RoZW5tcGlrQ2h5clRYdW9SeFg0a1hGTXM3WUdQOEtRaV8xVUdwSW5jandURVNGVm40?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXUTVER1RIdXM4cElBbmxWNlhacjh6N1Q4cGszN0xaSUNxc1pmbkJad0FWQml6RENPbDBsUk4zRWktQTlDQ2ZLVkw4aHR0eUZNa0IwZ3lfd2hUWjJoMzJTbHE5Y0hCazFzUjV6WnJKc3k?oc=5",
@@ -7999,14 +7994,14 @@
     "https://gameriv.com/skyrim-august-27-update-fixes-xbox-map-crash-and-ps5-creations-storage-issue/",
     "https://gameriv.com/respawn-says-movement-is-still-core-to-apex-legends-as-mobility-balance-changes-continue/",
     "https://insider-gaming.com/saw-genesis-preview-coordinating-through-the-screams/",
-    "https://insider-gaming.com/mimic-preview/"
+    "https://insider-gaming.com/mimic-preview/",
+    "https://insider-gaming.com/hello-neighbor-3-and-the-first-game-are-the-most-connected-says-creator-nikita-kolesnikov/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-august-29-1175/",
+    "https://insider-gaming.com/dlss-5-image-quality-criticism/",
+    "https://insider-gaming.com/modern-warfare-4-beta-movement-changes/",
+    "https://insider-gaming.com/stalker-2-free-multiplayer-update-remain-development/"
   ],
   "title_hashes": [
-    "61824a470e109a0f9609dd8840addb59",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "7210449248c3ccd4c1f7053c4141394e",
-    "b9ce4402c4344d32dc056295d8b3467e",
-    "ba8a7bcdd2a7d8824b7d6d06a9d2f45e",
     "c6596faa152cf329b53e125a9815d367",
     "fb8337e40853371891be35173029fc6c",
     "78891b58a76abaf458d468f8044f8b00",
@@ -16001,7 +15996,12 @@
     "8f03886ede3851accce35fc0dd2d6f8a",
     "53d393a65dcb18acc3ef6f89bfb784cc",
     "74c080836f0f47352aa155860c0803fa",
-    "0d4ff74a05af1ba67d00fb303e846b61"
+    "0d4ff74a05af1ba67d00fb303e846b61",
+    "355a0f5ee223756bc378b64a5a065922",
+    "9e2d5b4bf568af4ad0b0b04696ef6541",
+    "85817ba150418c7c8739232522b3016b",
+    "5d46f882216c492478a53fd34dfc7c64",
+    "6d9d2c7312caf543110af51f00eef46b"
   ],
   "transfers": {
     "pages": {
