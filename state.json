@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fQmNnZFFlZkNSSDhhZ2J2SXB4aWF1LVY4Y2JKSE9icHZFYmZzOVM3Z0FKRXkxYWxVOVB1aHZQakU1SWYzck9VNw?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE82Qk05U2NwZUc5Qy1KbW8yV0oxSUFWLVFva2FONVhlaWZDRlV2M0dpS1IxMWZCc3lMOEcxYWpJNUpPUUdTZG0wT0dqTFBGSTR3RDdHcDRGbTJKOWZHN2otUzBUV3BackY3dW83Zktuc243NGtQaDFJbw?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EbjA2TTJxTTZlTjhVSDIzLVhFY0g5M1hmci1TUUtMSVN0U2owWWl5bno4UTBXbmhJWjZjem5SbVdtVGVKZExjWldzOXZqLXg2anRqQ1dsOGViNTROcTFFNW9TWjlPVEM5UFBXaS0zS3N6OGxKYlcxVEx4bw?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbTZIbmx0N1VzYUI5VTc4ZVJmY0NVX2F0SFJiaUp4cEt5bFNNNkhsc0EtSXpwTlhyakQxelhuSUpHMUdqWUZMMS1RNndUcTgzVDRPalBIWWdFMm5HS1JVejBpYlJtTVJmTHl5c2drdE9ZeVU4cDMtT2w5MHF3NVpBLTRR?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa2F3WEpjcVRjamMwcXZoQXFtLTdLTE15VDJURS1TQmVPOHUxMGwwTHpuZXBkal80ZDVjNF93ZkUyVHcwSFZyV0JEWXZvWjFrNDJkSUdwRmxvSVBHMWJoYVloUG9NZVB6NV9vZU10d3FoQzg2NXBRN2Mtb05weE1MMk1xR05pM1V2akI1UE9MTldRSENJTkhkcWZn?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkRTalR3WkFqcExodVJVcWZCcE9jM1F4S0xnM24yQ2I0UjNFTlotRVV4VXpCVnhRako1RERiQjhwaEhYSGxjNDJjMDI5MHEzZ3B6QkFIaTl1bjhzcEdFSnUtYW9WTmUxc0NSMkdSX3RDSkItelV5YWVwX2Z3N3hwZEVMTzRCeFE2Y0dXVnh6eF9ha3gy?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUg0bzFGcXd2dG9faFhJeEF1OUYxcW9nQ1ZlWFlDb2JqUFoxNVdRcFJxQWhveTJqTGhZZkIxcGVIRVcwUlF2MUFtNXhXYTBTZkNLc01wTVhXU1J3cVI5Ui00WXppTXZTMTZxc3YtZmVacjI2YjNWazhhM1JfbGtaRFc4RC1DUVAwbW1xY1B5VUd3T1RRbF9kdnV0MUVGTUV2dGJR?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDSGxwNnl3ci1yN2FwcmtGN2lGNDBOZFNucHlmd2tMenVNWG9IQ2xRQXd6UmFNMVphdGpyTksyN1FYdEM1TFJ0LUZMVmViMHNiZklYOVQ2ZURtdTU0OXRKUnF4cGdtV2t2am1FWnVweG94ODAyaS1KYnRtMTg?oc=5",
@@ -7999,14 +7994,14 @@
     "https://g2g.news/esports/nodwin-gaming-strengthens-ipo-push-with-manish-agarwals-board-appointment/",
     "https://g2g.news/online-gaming-laws/nepal-govt-bans-over-7000-betting-apps-warns-individuals-still-indulging-in-betting/",
     "https://esports.gg/news/mobile/brawl-talk-aug-2026-brawler-unlock-more/",
-    "https://esports.gg/news/valorant/vct-2026-pacific-stage-2-playoffs/"
+    "https://esports.gg/news/valorant/vct-2026-pacific-stage-2-playoffs/",
+    "https://esports.gg/news/counter-strike-2/groups-blast-open-fall-2026-full-results/",
+    "https://esports.gg/news/overwatch/overwatch-doomfist-comic-teases-the-conspiracy-and-reunites-widowmaker-reaper-and-sombra/",
+    "https://esports.gg/news/overwatch/overwatch-2-vault-today/",
+    "https://esports.gg/news/league-of-legends/lck-2026-season-playoffs-results/",
+    "https://www.hotspawn.com/rocket-league/news/rlcs-world-championship-bundle-mvp-payout"
   ],
   "title_hashes": [
-    "799855594adc0f2bd7302c69d3234b5a",
-    "d699529b41c41d0979fe5b655d5b544b",
-    "ab46107090e054498816b9cbe67452b8",
-    "0c3e609e165b3a4c5f0e156ec8540df4",
-    "9598d1b90452236a810ded90a56ca07d",
     "7f44b021fece26704244874694071f90",
     "9d43fa595b62973a649d157d81c721a9",
     "59ad3f46476ecc8f8886324d9db82b87",
@@ -16001,7 +15996,12 @@
     "d3605b933f664469b9c2bd2509c41c87",
     "dc40329c654a1380cf8409d3a518b084",
     "278a04e26abcde99f976ba63f315d2be",
-    "024633903c05d61089d4a0dc71e602ab"
+    "024633903c05d61089d4a0dc71e602ab",
+    "00d03bb58ce83a69d1d517888e3aa3df",
+    "b87bf791cdde991c7cf6849b99a86dbc",
+    "d48d78979c6727403332f52d1425f7ef",
+    "8dee221c4ff3a83c200bdf6489005c9d",
+    "1e1153f1dd3a6842acfb35edfd40e22f"
   ],
   "transfers": {
     "pages": {
