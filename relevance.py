@@ -334,6 +334,98 @@ def is_spam_ad(text: str, link: str = "") -> bool:
     return False
 
 
+# ------------------------------------------------------------
+# 8) PLAYER / TEAM NEWS TAGGING — added 2026-08-30 per Hazem's request:
+#    "the main bot sends general esports news fine, but I want player
+#    and team news specifically to come through too, in the same
+#    channel." This is intentionally NOT another accept/reject gate —
+#    it never blocks anything. It's a pure *tagging* signal used by
+#    bot.py to (a) label an item as player/team-specific in the embed
+#    (so it's visible/distinguishable in the mixed channel instead of
+#    getting lost among tournament/business news), and (b) as an EXTRA
+#    "keep" signal for loose_query sources, alongside is_relevant_esports,
+#    so a player-quote/interview headline from a broad country bridge
+#    isn't dropped just because it doesn't repeat a game name or an
+#    exact KNOWN_ENTITIES string (a real gap: "m0NESY on fixing
+#    Falcons' mistakes..." matches neither COMPETITIVE_GAME_TERMS nor
+#    KNOWN_ENTITIES' exact "team falcons"/"falcons esports" strings).
+#
+#    Dedicated feeds (Dexerto, Dot Esports, HLTV, etc.) already bypass
+#    the esports-relevance gate entirely per bot.py's design, so this
+#    doesn't change whether their player-interview stories get through —
+#    only whether they're now visibly TAGGED as such, and whether the
+#    same kind of story from a loose_query bridge also survives.
+# ------------------------------------------------------------
+PLAYER_STATEMENT_TERMS = [
+    "says", "said", "tells", "told", "explains",
+    "explained", "admits", "admitted", "claims", "claimed", "confirms",
+    "confirmed", "denies", "denied", "opens up", "breaks silence",
+    "speaks out", "speaks on", "weighs in", "reflects on", "teases",
+    "hints", "warns", "promises", "apologizes", "apologises",
+    "calls out", "hits back", "claps back", "fires back", "responds",
+    "reacts", "slams", "defends", "criticizes", "criticises", "blasts",
+    "interview", "sits down", "one-on-one", "exclusive",
+    "يقول", "صرّح", "صرح", "كشف", "يكشف", "أوضح", "اعترف", "ينفي",
+    "نفى", "يؤكد", "أكد", "يرد", "رد على", "هاجم", "دافع عن", "اعتذر",
+    "مقابلة", "حوار خاص", "تصريحات",
+]
+
+PLAYER_SOCIAL_TERMS = [
+    "tweets", "tweeted", "posts on", "posted on", "on instagram",
+    "on twitter", "on x", "on tiktok", "on stream", "on twitch",
+    "goes viral", "deletes post", "deletes tweet",
+    "غرّد", "غرد", "نشر عبر", "عبر حسابه", "عبر تويتر", "عبر إنستقرام",
+]
+
+PLAYER_CAREER_TERMS = [
+    "signs with", "signs for", "joins", "joined", "parts ways with",
+    "benched", "dropped from", "released by", "roster move", "moves to",
+    "returns to", "debut", "debuts", "retires", "retirement",
+    "steps down", "trial for", "replaces", "loaned to", "comeback",
+    "ينضم", "انضم", "يوقع مع", "وقّع مع", "استغنى عن", "يعتزل", "اعتزل",
+    "عودة", "بديل", "احتياطي", "يترك", "رحيل",
+]
+
+PLAYER_LIFE_TERMS = [
+    "injury", "injured", "hospitalized", "recovers from", "passes away",
+    "passed away", "dies", "death of", "tribute to", "arrested",
+    "banned for", "suspended for", "mental health",
+    "إصابة", "يرقد", "وفاة", "توفي", "رحيل", "اعتقال", "إيقاف",
+]
+
+_PLAYER_STATEMENT_TERMS = [t.lower() for t in PLAYER_STATEMENT_TERMS]
+_PLAYER_SOCIAL_TERMS = [t.lower() for t in PLAYER_SOCIAL_TERMS]
+_PLAYER_CAREER_TERMS = [t.lower() for t in PLAYER_CAREER_TERMS]
+_PLAYER_LIFE_TERMS = [t.lower() for t in PLAYER_LIFE_TERMS]
+_PLAYER_SIGNAL_TERMS = (
+    _PLAYER_STATEMENT_TERMS + _PLAYER_SOCIAL_TERMS
+    + _PLAYER_CAREER_TERMS + _PLAYER_LIFE_TERMS
+)
+
+# Common interview/quote headline shape: "PlayerName on <topic>" —
+# e.g. "m0NESY on fixing Falcons' mistakes", "Faker on winning Worlds".
+_INTERVIEW_PATTERN_RE = re.compile(
+    r"\bon (his|her|their|why|how|what|whether|being|joining|leaving|"
+    r"fixing|playing|facing|losing|winning|returning|signing|moving|"
+    r"beating)\b",
+    re.IGNORECASE,
+)
+
+
+def is_player_or_team_news(text: str) -> bool:
+    """True if the text reads as news specifically ABOUT a player or team
+    (a statement, interview, transfer, social-media relay, or personal/
+    career event) rather than general tournament/business/product news.
+
+    Pure tagging signal — never used to reject anything on its own. See
+    the module note above (section 8) for exactly how bot.py uses it.
+    """
+    t = _norm(text)
+    if any(s in t for s in _PLAYER_SIGNAL_TERMS):
+        return True
+    return bool(_INTERVIEW_PATTERN_RE.search(t))
+
+
 if __name__ == "__main__":
     # Quick manual sanity checks
     tests = [
@@ -350,3 +442,16 @@ if __name__ == "__main__":
         got = is_relevant_esports(text)
         status = "OK" if got == expected else "FAIL"
         print(f"[{status}] expected={expected} got={got} :: {text}")
+
+    print()
+    player_tests = [
+        ("m0NESY on fixing Falcons' mistakes, switching to new mouse", True),
+        ("Valorant pro player sym dies aged 21 after car accident", True),
+        ("Faker signs with T1 for one more year", True),
+        ("EWC 2026 prize pool breakdown revealed", False),
+        ("New Valorant patch nerfs Jett", False),
+    ]
+    for text, expected in player_tests:
+        got = is_player_or_team_news(text)
+        status = "OK" if got == expected else "FAIL"
+        print(f"[player {status}] expected={expected} got={got} :: {text}")
