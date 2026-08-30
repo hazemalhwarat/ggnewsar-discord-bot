@@ -120,7 +120,7 @@ else:
 # defensive like the two imports above: if the module is missing, the bot
 # still runs (just without filtering) instead of crashing at import time.
 try:
-    from relevance import is_spam_ad, is_relevant_esports, is_game_content_noise
+    from relevance import is_spam_ad, is_relevant_esports, is_game_content_noise, is_player_or_team_news
 except ImportError as e:
     _REL_OK = False
     _RELEVANCE_IMPORT_ERROR = str(e)
@@ -390,7 +390,7 @@ def _clip(text: str, limit: int) -> str:
     return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
 
 
-def send_discord(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "") -> bool:
+def send_discord(title: str, link: str = "", source: str = "", summary: str = "", image_url: str = "", is_player_team: bool = False) -> bool:
     """Send one news item to Discord as an embed. Returns True on success."""
     if not DISCORD_WEBHOOK_URL:
         log.error("Discord webhook missing")
@@ -408,6 +408,12 @@ def send_discord(title: str, link: str = "", source: str = "", summary: str = ""
         embed["footer"] = {"text": _clip(source, 2048)}
     if image_url:
         embed["image"] = {"url": image_url}
+    # NEW (2026-08-30): visible "🎯 لاعب/فريق" badge for player/team-specific
+    # items (statement, interview, transfer, life event), so they stand out
+    # in the same mixed channel instead of blending into tournament/business
+    # news. Pure display — never affects whether the item was sent.
+    if is_player_team:
+        embed["fields"] = [{"name": "النوع", "value": "🎯 لاعب/فريق", "inline": True}]
 
     payload = {"embeds": [embed]}
 
@@ -670,7 +676,14 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                 #    relevance.py's own usage note. This is what stops a
                 #    country-name search from surfacing a wildfire/festival
                 #    article that merely mentions the country + "esports".
-                if fi.get("loose_query") and not is_relevant_esports(filter_text):
+                #    NEW (2026-08-30): also keep it if it reads as
+                #    player/team-specific news (statement, transfer, life
+                #    event) even without a game-name/entity match — a real
+                #    gap for interview-style headlines like "PlayerName on
+                #    fixing mistakes..." that don't repeat the org/game name.
+                if fi.get("loose_query") and not (
+                    is_relevant_esports(filter_text) or is_player_or_team_news(filter_text)
+                ):
                     stats["skip_not_esports"] += 1
                     seen_urls.add(link); state["urls"].append(link)
                     seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
@@ -717,6 +730,11 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                 continue
 
             clean_summary = strip_html(summary)
+            # NEW (2026-08-30): tag player/team-specific items (statement,
+            # interview, transfer, life event) so they're visibly
+            # distinguishable in the same mixed channel. Pure tagging —
+            # never affects whether the item was already accepted above.
+            is_player_team = _REL_OK and is_player_or_team_news(filter_text)
             analysis = analyze_with_gemini(title, clean_summary, link)
             if analysis:
                 stats["gemini_analyzed"] += 1
@@ -733,6 +751,7 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                 source=name,
                 summary=send_desc,
                 image_url=extract_image(entry),
+                is_player_team=is_player_team,
             )
             if ok:
                 sent += 1
