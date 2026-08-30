@@ -113,6 +113,21 @@ except ImportError as e:
 else:
     _WATCHLIST_IMPORT_ERROR = None
 
+# NEW (2026-08-30): keyword-based content filters — NO AI / NO API calls.
+# relevance.py was written long ago but bot.py never actually imported or
+# called it, so every item from every feed was sent with zero
+# esports-relevance / spam / game-content filtering. Wired in now. Kept
+# defensive like the two imports above: if the module is missing, the bot
+# still runs (just without filtering) instead of crashing at import time.
+try:
+    from relevance import is_spam_ad, is_relevant_esports, is_game_content_noise
+except ImportError as e:
+    _REL_OK = False
+    _RELEVANCE_IMPORT_ERROR = str(e)
+else:
+    _REL_OK = True
+    _RELEVANCE_IMPORT_ERROR = None
+
 # ============================================================
 # Configuration
 # ============================================================
@@ -122,6 +137,14 @@ STATE_FILE = Path("state.json")
 
 # Cap to prevent flooding if many fresh items appear at once in one pass
 MAX_MESSAGES_PER_RUN = 50
+
+# NEW (2026-08-30): per-source cap within a single run. A single very
+# high-volume feed (e.g. Inven Global's LCK/LPL coverage) used to be able
+# to eat the entire MAX_MESSAGES_PER_RUN budget on its own, starving every
+# other source. Now no single source sends more than this many items per
+# run; the rest are left for the next run (not lost). Paces flooders and
+# guarantees breadth across sources.
+MAX_PER_SOURCE_PER_RUN = 8
 
 # Discord webhook rate limit safety margin
 MESSAGE_DELAY_SECONDS = 1.0
@@ -408,11 +431,49 @@ def send_discord(title: str, link: str = "", source: str = "", summary: str = ""
 # ============================================================
 # RSS phase
 # ============================================================
+# NEW (2026-08-30): dedup helpers. The old normalize_title only stripped a
+# single trailing "- Source" segment, lowercased, and dropped punctuation,
+# then hashed exactly. So the SAME story arriving with tiny wording/format
+# differences (Google-News "Title - Publisher" variants, Arabic diacritics,
+# an extra stopword, a different quote style) produced a DIFFERENT hash and
+# was re-sent — the repeated-Inven-Global symptom. This version also:
+#   - strips the "- Publisher" suffix up to twice (Google News sometimes
+#     appends "- A - B"),
+#   - removes Arabic diacritics + tatweel,
+#   - unifies Arabic letter variants (أإآ→ا, ى→ي, ة→ه, ؤئ),
+#   - drops short/stopwords.
+# It deliberately KEEPS word order (does NOT sort tokens), so genuinely
+# different stories that share words — especially reversed match results
+# like "Falcons beat Vitality" vs "Vitality beat Falcons" — still hash
+# differently and are both delivered.
+_AR_DIACRITICS_RE = re.compile(r"[\u0617-\u061A\u064B-\u0652\u0670\u0640]")
+_TITLE_STOPWORDS = {
+    # English
+    "the", "a", "an", "of", "to", "in", "on", "at", "for", "and", "or",
+    "with", "as", "is", "are", "was", "were", "by", "from", "vs", "vs.",
+    # Arabic
+    "في", "من", "على", "الى", "إلى", "عن", "مع", "و", "او", "أو", "ال",
+}
+
+
 def normalize_title(title: str) -> str:
     t = title.lower().strip()
-    t = SOURCE_SUFFIX_RE.sub("", t).strip()
+    # Strip a trailing "- Publisher"-style suffix up to twice.
+    for _ in range(2):
+        new_t = SOURCE_SUFFIX_RE.sub("", t).strip()
+        if new_t == t:
+            break
+        t = new_t
+    t = _AR_DIACRITICS_RE.sub("", t)
+    for a, b in (("أ", "ا"), ("إ", "ا"), ("آ", "ا"), ("ى", "ي"),
+                 ("ة", "ه"), ("ؤ", "و"), ("ئ", "ي")):
+        t = t.replace(a, b)
     t = re.sub(r"[^\w\s]", " ", t)
-    return re.sub(r"\s+", " ", t).strip()
+    # Drop stopwords, but KEEP single-char/digit tokens: they carry meaning
+    # in esports titles (team tags like "G2"/"C9", scorelines like "2-0" vs
+    # "0-2", roster slots) and are exactly what tells reversed results apart.
+    tokens = [w for w in t.split() if w not in _TITLE_STOPWORDS]
+    return " ".join(tokens)
 
 
 def title_hash(title: str) -> str:
@@ -515,6 +576,13 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
     sent = 0
     since_last_checkpoint = 0
 
+    # NEW (2026-08-30): look up each source's metadata (priority, loose_query)
+    # by name so we can (a) process high-priority sources first and (b) apply
+    # the loose_query relevance gate. Names are unique (feeds.py checks dupes).
+    feed_meta = {fi["name"]: fi for fi in RSS_FEEDS}
+    _PRIO_RANK = {"high": 0, "normal": 1, "low": 2}
+    sent_per_source = defaultdict(int)
+
     log.info(f"RSS phase: {len(RSS_FEEDS)} sources, {RSS_FETCH_WORKERS} parallel workers, freshness={MAX_AGE_HOURS}h")
 
     fetch_results = []
@@ -522,6 +590,18 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
         futures = {executor.submit(fetch_one_feed, fi): fi for fi in RSS_FEEDS}
         for future in concurrent.futures.as_completed(futures):
             fetch_results.append(future.result())
+
+    # NEW (2026-08-30): process sources in PRIORITY order (high → normal →
+    # low), not in the random order they happened to finish downloading in.
+    # feeds.py has documented a "priority" field since 2026-07-05 and even
+    # claimed it was "genuinely applied" on 2026-08-11 — but bot.py never
+    # actually sorted by it, so it was a no-op. Now it's real: if the send
+    # budget is ever exhausted, primary/official sources (JEF, EWC, HLTV/
+    # VLR-tier, official team blogs) are the ones that got through, not
+    # whichever feed's HTTP response came back first.
+    fetch_results.sort(
+        key=lambda r: _PRIO_RANK.get(feed_meta.get(r[0], {}).get("priority", "normal"), 1)
+    )
 
     for name, entries, error in fetch_results:
         if error:
@@ -567,6 +647,47 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                 seen_urls.add(link); state["urls"].append(link)
                 continue
 
+            # NEW (2026-08-30): keyword content filters (no AI). Applied to
+            # FRESH, non-duplicate items only. Dropped items are marked seen
+            # so we don't re-evaluate them every run until they age out.
+            if _REL_OK:
+                fi = feed_meta.get(name, {})
+                filter_text = f"{title} {strip_html(summary)}"
+
+                # 1) Spam / ad / channel-recruitment — checked on EVERY
+                #    source unconditionally (a compromised/ad-injected feed
+                #    can be any source). This is the permanent fix for the
+                #    recurring "join our Telegram — A-TOOLS X" ad incidents.
+                if is_spam_ad(filter_text, link):
+                    stats["skip_spam_ad"] += 1
+                    seen_urls.add(link); state["urls"].append(link)
+                    seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
+                    continue
+
+                # 2) Esports relevance — only for broad Google-News keyword
+                #    bridges (loose_query). Dedicated esports RSS feeds and
+                #    official accounts are trusted and skip this gate, per
+                #    relevance.py's own usage note. This is what stops a
+                #    country-name search from surfacing a wildfire/festival
+                #    article that merely mentions the country + "esports".
+                if fi.get("loose_query") and not is_relevant_esports(filter_text):
+                    stats["skip_not_esports"] += 1
+                    seen_urls.add(link); state["urls"].append(link)
+                    seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
+                    continue
+
+                # 3) Pure game content (patch notes, skins, guides, reviews,
+                #    cosplay) with NO tie to the pro/competitive scene, an
+                #    org, a tournament, or a person's org move. GGNewsAR is an
+                #    esports wire, not a games wire — this is "بعضها لا يهمني
+                #    في الايسبورتس". Conservative by design: anything carrying
+                #    a competitive/business/roster signal is kept.
+                if is_game_content_noise(filter_text):
+                    stats["skip_game_content"] += 1
+                    seen_urls.add(link); state["urls"].append(link)
+                    seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
+                    continue
+
             # Passes all gates. Mark seen regardless of send outcome.
             seen_urls.add(link); state["urls"].append(link)
             seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
@@ -577,6 +698,18 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
 
             if sent >= sent_budget:
                 stats["skip_cap"] += 1
+                state["urls"].pop()
+                state["title_hashes"].pop()
+                seen_urls.discard(link)
+                seen_titles.discard(t_hash)
+                continue
+
+            # NEW (2026-08-30): per-source cap. Undo the seen-marks (exactly
+            # like the global cap above) so these items are NOT lost — they
+            # stay eligible and flow through on the next run(s), just paced so
+            # one high-volume feed can't dominate a single pass.
+            if sent_per_source[name] >= MAX_PER_SOURCE_PER_RUN:
+                stats["skip_source_cap"] += 1
                 state["urls"].pop()
                 state["title_hashes"].pop()
                 seen_urls.discard(link)
@@ -603,6 +736,7 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
             )
             if ok:
                 sent += 1
+                sent_per_source[name] += 1
                 stats["sent"] += 1
                 since_last_checkpoint += 1
                 time.sleep(MESSAGE_DELAY_SECONDS)
@@ -845,6 +979,13 @@ def main():
             f"watchlist.py could not be imported ({_WATCHLIST_IMPORT_ERROR}) — "
             f"Liquipedia phase will have 0 pages this pass. Check that "
             f"watchlist.py exists at the repo root next to bot.py."
+        )
+    if not _REL_OK:
+        log.warning(
+            f"relevance.py could not be imported ({_RELEVANCE_IMPORT_ERROR}) — "
+            f"content filtering (spam/esports-relevance/game-content) is "
+            f"DISABLED this pass; every fresh item will be sent unfiltered. "
+            f"Check that relevance.py exists at the repo root next to bot.py."
         )
 
     log.info(
