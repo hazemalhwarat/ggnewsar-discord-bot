@@ -1,8 +1,10 @@
 """
-GGNewsAR Discord Bot — unified RSS + Liquipedia pipeline (single-pass edition, hardened).
+GGNewsAR Discord Bot — RSS/scraper news pipeline (single-pass edition, hardened).
 
-مشروع مستقل تماماً عن بوت تيليقرام. نفس المنطق بالضبط (RSS + Liquipedia +
-dedup + state)، لكن الإرسال يروح لروم Discord عبر Webhook بدل تيليقرام.
+مشروع مستقل تماماً عن بوت تيليقرام. يجمع أخبار الرياضات الإلكترونية من كل
+مصادر feeds.py (RSS + سكرابر للمصادر اللي ما عندها RSS)، يفلتر التكرار
+والإعلانات وما يخص اللعبة نفسها بدل الايسبورتس، ويرسل لروم Discord عبر
+Webhook. فيه طبقة جديدة (2026-09-06) لمنع تكرار نفس الخبر عبر أكثر من مصدر.
 
 كل خبر RSS يمر أولاً على Gemini (مباشرة عبر Google AI Studio) اللي يحلله
 ويطلع عنوان رئيسي وعنوان فرعي وملخص قصير بالفصحى البيضاء حسب ستايل
@@ -51,20 +53,45 @@ GGNewsAR، بدل إرسال عنوان/ملخص RSS الخام. لو التحل
 - timeout صريح على كل أوامر git.
 - لوق أوضح بآخر كل run يوضح المدة الفعلية وسبب أي توقف مبكر.
 
-Pipeline (once per invocation):
-1. RSS phase: fetch all feeds in feeds.py IN PARALLEL, filter freshness +
-   dedup, analyze via Gemini, send. Checkpoints state periodically.
-2. Liquipedia phase (only if LIQUIPEDIA_MIN_INTERVAL_MINUTES have passed
-   since last Liquipedia check, and only if the soft deadline hasn't been
-   hit yet): poll watchlist pages, filter bot/minor/tiny edits, send.
+=== RSS-ONLY + CROSS-SOURCE DEDUP (2026-09-06) ===
+Two changes this pass, both driven by Hazem's report that the bot (a)
+repeats some news and (b) isn't comprehensive enough / doesn't send
+everything:
 
-State is unified in state.json with four collections:
+1. CROSS-SOURCE near-duplicate suppression. The old dedup only caught the
+   SAME article twice (same URL / same normalized-title hash). It could not
+   catch the SAME STORY across DIFFERENT outlets, so one roster move from
+   HLTV + Dexerto + Dot Esports + Esports.gg went out four times. Each
+   accepted story is now fingerprinted by its significant tokens and a new
+   item that strongly overlaps one already sent within DEDUP_WINDOW_HOURS is
+   dropped. See the dedup constants + story_fingerprint()/…_duplicate() below.
+
+2. Comprehensiveness: per-run send caps raised (duplicates no longer eat the
+   budget), and the scraper dispatch that feeds.py always assumed but bot.py
+   never had is now wired in — so Sheep Esports (and any future scraped
+   source) actually delivers instead of failing "no entries" every run.
+
+The Liquipedia phase was removed entirely: watchlist.py no longer exists in
+the repo (it was deleted 2026-08-22), so that phase had already been dead
+code doing nothing every run — it now really is gone, along with its
+maxlag-wait hang risk.
+
+Pipeline (once per invocation):
+1. Fetch every source in feeds.py IN PARALLEL (RSS/Atom, or a scraper for
+   scraper-type sources).
+2. Per item: freshness → URL/title dedup → spam/relevance/game-content
+   filters → CROSS-SOURCE dedup → Gemini analysis → send. State is
+   checkpointed periodically and at the end.
+
+State is unified in state.json:
   - urls: seen RSS URLs (ring of last 8000)
   - title_hashes: normalized title hashes (ring of last 8000)
-  - liquipedia: per-page seen revids + last seen size
-  - last_liquipedia_check: ISO timestamp of last Liquipedia phase run
+  - recent_fingerprints: story fingerprints sent within the dedup window
+    (each {"t": tokens, "ts": epoch}), pruned to the window on load
+  - liquipedia / last_liquipedia_check: legacy keys, tolerated on load from
+    old state files but never written or read anymore.
 
-Configuration sources: feeds.py (RSS_FEEDS), watchlist.py (WATCHLIST).
+Configuration source: feeds.py (RSS_FEEDS + optional SCRAPERS registry).
 Secrets: DISCORD_WEBHOOK_URL, GEMINI_API_KEY in environment.
 
 GitHub Actions workflow (run.yml) should trigger this via:
@@ -89,14 +116,11 @@ from pathlib import Path
 import feedparser
 import requests
 
-# NEW (hardening, 2026-08-29): these imports used to be plain top-level
-# imports. If either sidecar file was ever missing/misplaced in the
-# checkout for any reason (upload mishap, sync issue, etc.), Python would
-# crash at import time — before main() even runs — meaning ZERO news of
-# any kind would be sent that pass, RSS included, even though the failure
-# only actually concerns Liquipedia or only concerns RSS. Made both
-# imports defensive so a problem with one source can never silence the
-# other, or the whole bot.
+# Defensive sidecar imports (hardening, 2026-08-29): if feeds.py (or the
+# relevance/scrapers modules below) were ever missing or broken in the
+# checkout, a plain top-level import would crash before main() even runs —
+# meaning ZERO news that pass. Each is imported defensively so a problem
+# with one piece can never silence the whole bot.
 try:
     from feeds import RSS_FEEDS
 except ImportError as e:
@@ -105,13 +129,26 @@ except ImportError as e:
 else:
     _FEEDS_IMPORT_ERROR = None
 
+# SCRAPERS: optional registry in feeds.py for sources that expose NO working
+# RSS/Atom endpoint and must be scraped instead (Sheep Esports' Next.js site
+# is the first). Imported separately + defensively so a feeds.py without it
+# (or an error inside a scraper module) can never crash the whole bot at
+# import time. bot.py's fetch_one_feed() dispatches into this for any source
+# marked {"fetch_type": "scraper", "scraper": "<key>"}.
+#
+# NOTE (2026-09-06): this dispatch was MISSING before today — feeds.py has
+# defined the Sheep Esports scraper and this registry since 2026-08-22 and
+# its own comments claimed "bot.py's fetch_one_feed() dispatches to it
+# automatically", but bot.py never actually imported SCRAPERS or called it.
+# So Sheep Esports silently failed every single run (a plain RSS fetch on a
+# JS-rendered page returns 0 entries → "no entries" error). Wired in now.
 try:
-    from watchlist import WATCHLIST
-except ImportError as e:
-    WATCHLIST = {}
-    _WATCHLIST_IMPORT_ERROR = str(e)
+    from feeds import SCRAPERS
+except (ImportError, AttributeError) as e:
+    SCRAPERS = {}
+    _SCRAPERS_IMPORT_ERROR = str(e)
 else:
-    _WATCHLIST_IMPORT_ERROR = None
+    _SCRAPERS_IMPORT_ERROR = None
 
 # NEW (2026-08-30): keyword-based content filters — NO AI / NO API calls.
 # relevance.py was written long ago but bot.py never actually imported or
@@ -135,8 +172,15 @@ DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 STATE_FILE = Path("state.json")
 
-# Cap to prevent flooding if many fresh items appear at once in one pass
-MAX_MESSAGES_PER_RUN = 50
+# Cap to prevent flooding if many fresh items appear at once in one pass.
+# NEW (2026-09-06): raised 50 → 150. With cross-source near-duplicate
+# suppression now collapsing the same story reported by many outlets into
+# one message (see the dedup layer below), the real message volume per pass
+# drops a lot — so a higher ceiling no longer means a flood, it just means
+# genuinely distinct stories are never left undelivered / aged out of the
+# freshness window because the pass ran out of budget. Directly serves
+# "أريده شامل / لا يرسل كل شي".
+MAX_MESSAGES_PER_RUN = 150
 
 # NEW (2026-08-30): per-source cap within a single run. A single very
 # high-volume feed (e.g. Inven Global's LCK/LPL coverage) used to be able
@@ -144,7 +188,11 @@ MAX_MESSAGES_PER_RUN = 50
 # other source. Now no single source sends more than this many items per
 # run; the rest are left for the next run (not lost). Paces flooders and
 # guarantees breadth across sources.
-MAX_PER_SOURCE_PER_RUN = 8
+# NEW (2026-09-06): raised 8 → 20 alongside the global cap, for the same
+# comprehensiveness reason — a legitimately busy source (a Major weekend on
+# HLTV/VLR) shouldn't be throttled to 8 stories per pass now that the global
+# ceiling is much higher and duplicates are collapsed.
+MAX_PER_SOURCE_PER_RUN = 20
 
 # Discord webhook rate limit safety margin
 MESSAGE_DELAY_SECONDS = 1.0
@@ -155,28 +203,47 @@ MAX_AGE_HOURS = 24
 # State ring sizes
 SEEN_URLS_RING = 8000
 SEEN_TITLES_RING = 8000
-SEEN_REVS_PER_PAGE = 20
-
-# ------------------------------------------------------------
-# Single-pass settings
-# ------------------------------------------------------------
-LIQUIPEDIA_MIN_INTERVAL_MINUTES = 10
 
 # RSS parallel fetch settings
 RSS_FETCH_WORKERS = 40
 RSS_FETCH_TIMEOUT_SECONDS = 10
 
-# Liquipedia API
-LIQUIPEDIA_USER_AGENT = "GGNewsAR Bot/2.0 (https://ggnewsar.com; hazem@ggnewsar.com)"
-LIQUIPEDIA_RATE_LIMIT_SEC = 2.5
-LIQUIPEDIA_BATCH_SIZE = 50
-LIQUIPEDIA_MIN_BYTES_CHANGE = 100  # ignore edits smaller than this
-
-# NEW (hardening): never block on a server-provided Retry-After for longer
-# than this, and give up on a wiki after this many maxlag hits in one pass
-# instead of waiting indefinitely.
-LIQUIPEDIA_MAX_WAIT_SECONDS = 20
-LIQUIPEDIA_MAX_WAITS_PER_RUN = 2
+# ------------------------------------------------------------
+# Cross-source near-duplicate suppression (NEW 2026-09-06)
+# ------------------------------------------------------------
+# THE FIX FOR "يكرر بعض الأخبار". The old dedup only caught the SAME item
+# twice: same URL, or same normalized-title hash. It could not catch the
+# SAME STORY reported by DIFFERENT outlets — one roster move covered by
+# HLTV, Dexerto, Dot Esports and Esports.gg produced four different URLs
+# and four different titles, so all four were sent. This layer fingerprints
+# each story by its significant tokens (title + lead of its summary) and
+# suppresses any new item that strongly overlaps a story already sent within
+# the window below. It runs AFTER the spam/relevance filters, so only real
+# esports stories seed the fingerprint set.
+DEDUP_WINDOW_HOURS = 18
+DEDUP_FINGERPRINTS_RING = 2000
+# A candidate is judged a duplicate of an already-sent story ONLY when the
+# two share at least DEDUP_MIN_SHARED significant tokens AND the overlap
+# coefficient (shared / smaller token set) is >= DEDUP_OVERLAP.
+#
+# TUNING (2026-09-06, option أ — comprehensive-first, per Hazem): these are
+# set DELIBERATELY STRICT so the bot never merges two genuinely different
+# stories. Calibration showed the unavoidable hard case is two DIFFERENT
+# matches of the SAME team on a tournament day ("Falcons beat Vitality 2-0"
+# vs "Falcons beat NAVI 2-1") — those share a long template and land around
+# overlap 0.60. Requiring overlap >= 0.75 keeps BOTH of those (no lost
+# result), while still collapsing the dominant real-duplicate pattern: the
+# same story re-reported near-verbatim by many general outlets (Dexerto,
+# Dot Esports, ESTNN, Esports.gg all echoing an HLTV/VLR break), which lands
+# ~0.79+. The accepted tradeoff of option أ: a heavily-reworded retelling of
+# one story may occasionally slip through as a second post — chosen on
+# purpose over ever dropping a real, distinct story.
+#
+# There is intentionally NO raw-shared-count shortcut: a pure "share N
+# tokens → duplicate" rule was what risked merging those long-template
+# distinct matches (they can share 9+ tokens), so it was removed.
+DEDUP_MIN_SHARED = 4
+DEDUP_OVERLAP = 0.75
 
 # Discord embed color
 EMBED_COLOR = 0x7C3AED
@@ -310,30 +377,45 @@ log = logging.getLogger("ggnewsar-discord")
 # ============================================================
 # State persistence
 # ============================================================
+def _empty_state() -> dict:
+    """The canonical empty state. Every load path returns a dict with all
+    expected keys present, so downstream code never has to guard for a
+    missing collection."""
+    return {
+        "urls": [],
+        "title_hashes": [],
+        "recent_fingerprints": [],  # [{"t": tokens, "ts": epoch}, ...]
+        # Legacy keys — tolerated for old state.json files, never used now.
+        "liquipedia": {},
+        "last_liquipedia_check": None,
+    }
+
+
 def load_state() -> dict:
     if not STATE_FILE.exists():
-        return {
-            "urls": [],
-            "title_hashes": [],
-            "liquipedia": {},       # "wiki:page" -> {"revids": [...], "size": int}
-            "last_liquipedia_check": None,  # ISO timestamp string or None
-        }
+        return _empty_state()
     try:
         with open(STATE_FILE, "r", encoding="utf-8") as f:
             data = json.load(f)
     except (json.JSONDecodeError, OSError) as e:
         log.error(f"state.json corrupted, starting fresh: {e}")
-        return {"urls": [], "title_hashes": [], "liquipedia": {}, "last_liquipedia_check": None}
-    data.setdefault("urls", [])
-    data.setdefault("title_hashes", [])
-    data.setdefault("liquipedia", {})
-    data.setdefault("last_liquipedia_check", None)
+        return _empty_state()
+    for k, v in _empty_state().items():
+        data.setdefault(k, v)
+    # Prune cross-source fingerprints older than the dedup window so the
+    # ring stays small and a story can be re-reported after the window.
+    cutoff = time.time() - DEDUP_WINDOW_HOURS * 3600
+    data["recent_fingerprints"] = [
+        r for r in data["recent_fingerprints"]
+        if isinstance(r, dict) and r.get("ts", 0) >= cutoff
+    ]
     return data
 
 
 def save_state(state: dict) -> None:
     state["urls"] = state["urls"][-SEEN_URLS_RING:]
     state["title_hashes"] = state["title_hashes"][-SEEN_TITLES_RING:]
+    state["recent_fingerprints"] = state.get("recent_fingerprints", [])[-DEDUP_FINGERPRINTS_RING:]
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
 
@@ -486,6 +568,59 @@ def title_hash(title: str) -> str:
     return hashlib.md5(normalize_title(title).encode("utf-8")).hexdigest()
 
 
+# ------------------------------------------------------------
+# Cross-source near-duplicate fingerprinting (NEW 2026-09-06)
+# ------------------------------------------------------------
+_DEDUP_TOKEN_MIN_LEN = 3
+
+
+def story_fingerprint(title: str, summary: str = "") -> set:
+    """Significant-token set identifying a STORY (not a specific article),
+    for catching the same event across different outlets. Reuses
+    normalize_title's cleaning (lowercase, publisher-suffix strip, Arabic
+    normalization, stopword + punctuation removal) on the title plus the
+    lead of the summary, then keeps tokens that are >= _DEDUP_TOKEN_MIN_LEN
+    chars OR contain a digit — scorelines, years and prize numbers are
+    strong, reword-resistant anchors that the same story keeps across
+    outlets."""
+    combined = f"{title} {strip_html(summary)[:200]}"
+    toks = normalize_title(combined).split()
+    return {w for w in toks if len(w) >= _DEDUP_TOKEN_MIN_LEN or any(c.isdigit() for c in w)}
+
+
+def is_cross_source_duplicate(fingerprint: set, recent_sets: list) -> bool:
+    """True if this story's fingerprint strongly overlaps a story already
+    sent within the dedup window. recent_sets is the pre-built list of
+    token sets for state['recent_fingerprints'] (already pruned to the
+    window). Comprehensive-first (option أ): a single strict rule —
+    share >= DEDUP_MIN_SHARED significant tokens AND overlap coefficient
+    >= DEDUP_OVERLAP — so only near-identical retellings merge and two
+    distinct stories are never collapsed. See the dedup constants above."""
+    if not fingerprint:
+        return False
+    fp_len = len(fingerprint)
+    for prev in recent_sets:
+        if not prev:
+            continue
+        shared = len(fingerprint & prev)
+        if shared >= DEDUP_MIN_SHARED and shared / min(fp_len, len(prev)) >= DEDUP_OVERLAP:
+            return True
+    return False
+
+
+def record_fingerprint(fingerprint: set, state: dict, recent_sets: list) -> None:
+    """Register a story as 'already covered this window' — into both the
+    persisted ring (state) and the in-run comparison list (recent_sets),
+    so later items in the SAME pass are deduped against it too."""
+    if not fingerprint:
+        return
+    fps = state.setdefault("recent_fingerprints", [])
+    fps.append({"t": " ".join(sorted(fingerprint)), "ts": time.time()})
+    if len(fps) > DEDUP_FINGERPRINTS_RING:
+        del fps[:-DEDUP_FINGERPRINTS_RING]
+    recent_sets.append(fingerprint)
+
+
 def is_fresh(entry, max_age_hours: int) -> bool:
     """True if entry has no timestamp or is within freshness window."""
     pub = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
@@ -548,6 +683,24 @@ def fetch_one_feed(feed_info: dict):
     instead of one-by-one, keeping each single-pass invocation fast
     (seconds, not minutes) even with a slow/dead source mixed in."""
     name = feed_info["name"]
+
+    # NEW (2026-09-06): scraper dispatch. A source with no working RSS/Atom
+    # endpoint sets {"fetch_type": "scraper", "scraper": "<key>"} and is
+    # handled by feeds.SCRAPERS[<key>] instead of a normal fetch. The scraper
+    # returns the exact same (name, entries, error) 3-tuple, so the rest of
+    # the pipeline needs no special-casing. This is what finally makes Sheep
+    # Esports (and any future scraped source) actually deliver instead of
+    # failing "no entries" every run.
+    if feed_info.get("fetch_type") == "scraper":
+        key = feed_info.get("scraper", "")
+        scraper_fn = SCRAPERS.get(key)
+        if not scraper_fn:
+            return name, None, f"scraper '{key}' not in SCRAPERS registry"
+        try:
+            return scraper_fn(feed_info)
+        except Exception as e:  # scrapers promise never to raise; be safe anyway
+            return name, None, f"scraper '{key}' raised: {e}"
+
     url = feed_info["url"]
     try:
         resp = requests.get(
@@ -577,6 +730,11 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
     the very end of the whole run."""
     seen_urls = set(state["urls"])
     seen_titles = set(state["title_hashes"])
+    # NEW (2026-09-06): in-run comparison list for cross-source dedup. Built
+    # once from the persisted (already window-pruned) fingerprints, then
+    # appended to as we send during this pass — so two outlets covering the
+    # same story WITHIN one pass also collapse to a single message.
+    recent_sets = [set(r["t"].split()) for r in state.get("recent_fingerprints", []) if r.get("t")]
     stats = defaultdict(int)
     failed = []
     sent = 0
@@ -701,11 +859,28 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                     seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
                     continue
 
+            # NEW (2026-09-06): CROSS-SOURCE near-duplicate check — the fix
+            # for "يكرر بعض الأخبار". Even though this exact URL/title hasn't
+            # been seen, the same STORY may already have been sent from
+            # another outlet within the window. Fingerprint by significant
+            # tokens and drop if it strongly overlaps one already covered.
+            # Marked seen (so we don't reprocess it) but NOT sent again.
+            fingerprint = story_fingerprint(title, summary)
+            if not first_run and is_cross_source_duplicate(fingerprint, recent_sets):
+                stats["skip_cross_dup"] += 1
+                seen_urls.add(link); state["urls"].append(link)
+                seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
+                continue
+
             # Passes all gates. Mark seen regardless of send outcome.
             seen_urls.add(link); state["urls"].append(link)
             seen_titles.add(t_hash); state["title_hashes"].append(t_hash)
 
             if first_run:
+                # Seed the fingerprint set during baseline indexing too, so
+                # the first real pass doesn't re-blast a story that was
+                # already present (from any outlet) at baseline time.
+                record_fingerprint(fingerprint, state, recent_sets)
                 stats["baseline_recorded"] += 1
                 continue
 
@@ -758,6 +933,10 @@ def rss_phase(state: dict, first_run: bool, sent_budget: int) -> int:
                 sent_per_source[name] += 1
                 stats["sent"] += 1
                 since_last_checkpoint += 1
+                # Register this story so any later item (this pass or a
+                # future one, within the window) reporting the same event is
+                # suppressed as a cross-source duplicate.
+                record_fingerprint(fingerprint, state, recent_sets)
                 time.sleep(MESSAGE_DELAY_SECONDS)
             else:
                 stats["send_failures"] += 1
@@ -781,201 +960,6 @@ def _log_rss_summary(stats: dict, failed: list) -> None:
 
 
 # ============================================================
-# Liquipedia phase (no Gemini analysis here)
-# ============================================================
-def fetch_liquipedia_revisions(wiki: str, pages: list, session: requests.Session) -> list:
-    """Fetch latest revision for each page on a Liquipedia wiki.
-
-    NEW (hardening): any maxlag/503 wait is capped at
-    LIQUIPEDIA_MAX_WAIT_SECONDS (instead of trusting whatever Retry-After
-    the server sends), and after LIQUIPEDIA_MAX_WAITS_PER_RUN such hits on
-    the same wiki we give up on it for this pass rather than keep waiting.
-    Also bails out early if the run's soft deadline is reached."""
-    if not pages:
-        return []
-    url = f"https://liquipedia.net/{wiki}/api.php"
-    all_revs = []
-    maxlag_hits = 0
-
-    for i in range(0, len(pages), LIQUIPEDIA_BATCH_SIZE):
-        if deadline_exceeded():
-            log.warning(f"Soft deadline reached — stopping Liquipedia fetch for {wiki} early.")
-            break
-
-        batch = pages[i:i + LIQUIPEDIA_BATCH_SIZE]
-        params = {
-            "action": "query",
-            "format": "json",
-            "prop": "revisions",
-            "titles": "|".join(batch),
-            "rvprop": "ids|timestamp|user|comment|size|flags",
-            "maxlag": 5,
-            "redirects": 1,
-        }
-        try:
-            time.sleep(LIQUIPEDIA_RATE_LIMIT_SEC)
-            r = session.get(url, params=params, timeout=30)
-            if r.status_code == 503 or "X-Database-Lag" in r.headers:
-                maxlag_hits += 1
-                raw_wait = int(r.headers.get("Retry-After", LIQUIPEDIA_MAX_WAIT_SECONDS))
-                wait = min(raw_wait, LIQUIPEDIA_MAX_WAIT_SECONDS)
-                log.warning(
-                    f"Liquipedia maxlag on {wiki} (hit {maxlag_hits}/{LIQUIPEDIA_MAX_WAITS_PER_RUN}), "
-                    f"waiting {wait}s (server asked for {raw_wait}s, capped)"
-                )
-                time.sleep(wait)
-                if maxlag_hits >= LIQUIPEDIA_MAX_WAITS_PER_RUN:
-                    log.warning(f"Giving up on {wiki} for this pass after repeated maxlag.")
-                    break
-                continue
-            r.raise_for_status()
-            data = r.json()
-            if "error" in data:
-                log.error(f"Liquipedia API error on {wiki}: {data['error']}")
-                continue
-
-            for page_id, page_info in data.get("query", {}).get("pages", {}).items():
-                if page_id == "-1" or "missing" in page_info:
-                    continue
-                page_title = page_info.get("title", "")
-                slug = page_title.replace(" ", "_")
-                for rev in page_info.get("revisions", []):
-                    rev["page_title"] = page_title
-                    rev["wiki"] = wiki
-                    rev["page_url"] = f"https://liquipedia.net/{wiki}/{slug}"
-                    rev["diff_url"] = (
-                        f"https://liquipedia.net/{wiki}/index.php?"
-                        f"title={slug}&diff={rev['revid']}&oldid={rev.get('parentid', 0)}"
-                    )
-                    all_revs.append(rev)
-        except requests.RequestException as e:
-            log.error(f"Liquipedia fetch failed on {wiki}: {e}")
-        except ValueError as e:
-            log.error(f"Liquipedia JSON parse failed on {wiki}: {e}")
-
-    return all_revs
-
-
-def is_meaningful_edit(rev: dict, prev_size: int) -> tuple[bool, str]:
-    """Structural filter only — no keyword check. Drops bot/minor/tiny edits."""
-    user = (rev.get("user") or "").lower()
-    new_size = rev.get("size", 0)
-    delta = abs(new_size - prev_size) if prev_size else new_size
-
-    if "bot" in user:
-        return False, "bot edit"
-    if rev.get("minor"):
-        return False, "marked minor"
-    if delta < LIQUIPEDIA_MIN_BYTES_CHANGE:
-        return False, f"tiny change ({delta} bytes)"
-    return True, f"{delta} bytes changed"
-
-
-GAME_NAMES = {
-    "counterstrike": "Counter Strike 2", "valorant": "VALORANT",
-    "leagueoflegends": "League of Legends", "dota2": "Dota 2",
-    "rainbowsix": "Rainbow Six Siege", "rocketleague": "Rocket League",
-    "mobilelegends": "Mobile Legends", "honorofkings": "Honor of Kings",
-    "pubgmobile": "PUBG Mobile", "fighters": "Fighting Games",
-    "easportsfc": "EA Sports FC",
-}
-
-
-def liquipedia_phase(state: dict, first_run: bool, sent_budget: int) -> int:
-    """Run Liquipedia collection. Returns number of messages sent.
-
-    NEW (hardening): checks the soft deadline before each wiki and stops
-    early (without losing progress — state is still saved/committed at
-    the end of main()) if it's exceeded."""
-    lp_state = state["liquipedia"]
-    sent = 0
-    stats = defaultdict(int)
-    total_pages = sum(len(p) for p in WATCHLIST.values())
-    log.info(f"Liquipedia phase: {total_pages} pages across {len(WATCHLIST)} wikis")
-
-    session = requests.Session()
-    session.headers.update({
-        "User-Agent": LIQUIPEDIA_USER_AGENT,
-        "Accept-Encoding": "gzip",
-    })
-
-    for wiki, pages in WATCHLIST.items():
-        if deadline_exceeded():
-            log.warning("Soft deadline reached — stopping Liquipedia phase early.")
-            break
-        if not pages:
-            continue
-
-        revisions = fetch_liquipedia_revisions(wiki, pages, session)
-        stats[f"fetched_{wiki}"] = len(revisions)
-
-        for rev in revisions:
-            page_key = f"{wiki}:{rev['page_title']}"
-            revid = str(rev.get("revid"))
-            page_state = lp_state.setdefault(page_key, {"revids": [], "size": 0})
-
-            if revid in page_state["revids"]:
-                stats["skip_seen_rev"] += 1
-                continue
-
-            page_state["revids"].append(revid)
-            page_state["revids"] = page_state["revids"][-SEEN_REVS_PER_PAGE:]
-
-            if first_run:
-                page_state["size"] = rev.get("size", 0)
-                stats["baseline_recorded"] += 1
-                continue
-
-            prev_size = page_state.get("size", 0)
-            keep, reason = is_meaningful_edit(rev, prev_size)
-            page_state["size"] = rev.get("size", 0)
-
-            if not keep:
-                stats[f"drop_{reason.split()[0]}"] += 1
-                continue
-
-            if sent >= sent_budget:
-                stats["skip_cap"] += 1
-                page_state["revids"].pop()
-                continue
-
-            game = GAME_NAMES.get(rev["wiki"], rev["wiki"])
-            comment = (rev.get("comment") or "").strip()[:200] or "بدون ملاحظة"
-            user = rev.get("user") or "?"
-
-            ok = send_discord(
-                title=rev["page_title"],
-                link=rev["page_url"],
-                source=f"Liquipedia · {game} · المحرر: {user}",
-                summary=comment,
-            )
-            if ok:
-                sent += 1
-                stats["sent"] += 1
-                time.sleep(MESSAGE_DELAY_SECONDS)
-            else:
-                stats["send_failures"] += 1
-
-    log.info("--- Liquipedia Summary ---")
-    for k in sorted(stats.keys()):
-        log.info(f" {k:30s} {stats[k]}")
-    return sent
-
-
-def should_run_liquipedia(state: dict) -> bool:
-    """True on first run, if no prior check is recorded, or if enough time
-    has passed since the last Liquipedia check."""
-    last = state.get("last_liquipedia_check")
-    if not last:
-        return True
-    try:
-        last_dt = datetime.fromisoformat(last)
-    except ValueError:
-        return True
-    return (datetime.now(timezone.utc) - last_dt) >= timedelta(minutes=LIQUIPEDIA_MIN_INTERVAL_MINUTES)
-
-
-# ============================================================
 # Main — single pass
 # ============================================================
 def main():
@@ -993,11 +977,12 @@ def main():
             f"RSS phase will have 0 sources this pass. Check that feeds.py "
             f"exists at the repo root next to bot.py."
         )
-    if _WATCHLIST_IMPORT_ERROR:
-        log.error(
-            f"watchlist.py could not be imported ({_WATCHLIST_IMPORT_ERROR}) — "
-            f"Liquipedia phase will have 0 pages this pass. Check that "
-            f"watchlist.py exists at the repo root next to bot.py."
+    if _SCRAPERS_IMPORT_ERROR:
+        log.warning(
+            f"SCRAPERS registry could not be imported from feeds.py "
+            f"({_SCRAPERS_IMPORT_ERROR}) — any scraper-based source "
+            f"(e.g. Sheep Esports) will fail this pass; normal RSS sources "
+            f"are unaffected."
         )
     if not _REL_OK:
         log.warning(
@@ -1016,27 +1001,16 @@ def main():
     first_run = (
         len(state["urls"]) == 0
         and len(state["title_hashes"]) == 0
-        and len(state["liquipedia"]) == 0
     )
     if first_run:
         log.info("FIRST RUN: indexing baseline, no messages will be sent this pass.")
 
     rss_sent = rss_phase(state, first_run, MAX_MESSAGES_PER_RUN)
-    remaining = MAX_MESSAGES_PER_RUN - rss_sent
-
-    lp_sent = 0
-    if deadline_exceeded():
-        log.warning("Soft deadline already reached after RSS phase — skipping Liquipedia phase this pass.")
-    elif should_run_liquipedia(state):
-        lp_sent = liquipedia_phase(state, first_run, remaining)
-        state["last_liquipedia_check"] = datetime.now(timezone.utc).isoformat()
-    else:
-        log.info(f"Liquipedia phase skipped (last check within {LIQUIPEDIA_MIN_INTERVAL_MINUTES} min)")
 
     checkpoint(state, "end of pass")
 
     elapsed = time.monotonic() - RUN_STARTED_AT
-    log.info(f"=== Pass done in {elapsed:.1f}s. RSS sent: {rss_sent}, Liquipedia sent: {lp_sent} ===")
+    log.info(f"=== Pass done in {elapsed:.1f}s. RSS sent: {rss_sent} ===")
 
 
 if __name__ == "__main__":
