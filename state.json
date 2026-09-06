@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2020/08/11/business-of-esports-daily-news-311/",
-    "https://thebusinessofesports.com/2020/08/07/business-of-esports-live-after-show-011-stadia-adrift-super-league-pr-blizzcon-gone/",
-    "https://thebusinessofesports.com/2020/08/06/episode-91-tencent-masterplan-douyu-huya-merger-asian-esports/",
-    "https://thebusinessofesports.com/2020/08/05/business-of-esports-minute-009-roblox-growth-vindex-retail-esl-dreamhack-losses/",
-    "https://thebusinessofesports.com/2020/08/04/business-of-esports-daily-news-310/",
-    "https://thebusinessofesports.com/2020/08/01/business-of-esports-live-after-show-010-vindex-spending-nike-gaming-shoe-transformer-gaming-chair-verizon-x-faze-clan/",
-    "https://thebusinessofesports.com/2020/07/31/episode-90-roblox-rocketship-dreamhack-decline-nintendo-ip-lego/",
-    "https://thebusinessofesports.com/2020/07/29/business-of-esports-minute-008-caffeine-113m-raise-logic-twitch-exclusive-activision-blizzard-lifeline/",
-    "https://thebusinessofesports.com/2020/07/28/business-of-esports-daily-news-309/",
     "https://thebusinessofesports.com/2020/07/27/business-of-esports-live-after-show-009-herman-miller-x-logitech-twitch-radio-esports-vc/",
     "https://thebusinessofesports.com/2020/07/24/episode-89-athlane-twitch-logic-owl-franchise-fail-caffeine-boost-faze-frat/",
     "https://thebusinessofesports.com/2020/07/22/business-of-esports-minute-007-sony-epic-vaynergaming-overactive-esports-arena/",
@@ -7999,18 +7990,18 @@
     "https://dotesports.com/valorant/news/global-esports-wins-vct-pacific-stage-2",
     "https://dotesports.com/valorant/guides/vct-2026-pacific-stage-2",
     "https://dotesports.com/wow/news/all-world-of-warcraft-expansions-in-order",
-    "https://www.hltv.org/news/45466/live-updates-from-blast-open-porto-grand-final"
+    "https://www.hltv.org/news/45466/live-updates-from-blast-open-porto-grand-final",
+    "https://www.hltv.org/news/45460/huasopeek-on-studying-kyousuke-and-donk-i-think-that-helps-me-a-lot",
+    "https://www.hltv.org/news/45463/fl1t-on-jame-his-ideas-are-even-stronger-and-more-thought-out-than-they-used-to-be",
+    "https://www.hltv.org/news/45454/blast-open-porto-semi-finals-as-they-happened",
+    "https://www.hltv.org/news/45458/mouz-surge-past-vitality-to-make-porto-finals",
+    "https://thegamehaus.com/nfl/jacksonville-jaguars-offseason-recap-entering-2026-season/2026/08/31/",
+    "https://thegamehaus.com/nfl/tennessee-titans-offseason-recap-entering-2026-season/2026/08/31/",
+    "https://thegamehaus.com/nfl/indianapolis-colts-offseason-recap-entering-2026-season/2026/08/31/",
+    "https://gameriv.com/apex-legends-halloween-2026-skins-sparrow-alter-and-r-99-legendaries-leaked/",
+    "https://insider-gaming.com/spider-man-voice-actor-wants-deadpool-insomniac-game/"
   ],
   "title_hashes": [
-    "8bff13ea0303652185dd5a8934dfd490",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "4d135471c958624a52565cb90ca8fbec",
-    "a6cf481af246701c24255c29a618c371",
-    "07a71a79a842a9bea84705ba73def612",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "a56709b5e1a9415c1c65191dca0aabd3",
-    "969cf8cf34640745c0a9ce800fa61717",
-    "637e1523e73b9614ac5364317579d10a",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "8948737c2763c7387ffa907de7ec2594",
     "853e2f7cfba78d4853bf9d9b0ff82582",
@@ -16001,7 +15992,16 @@
     "60b698e14f47a12af0d24f967353ca4e",
     "ac0d3b72a05d83d57d758a1d3241b87c",
     "6ecb715fffb6a579c3b594a94e823ddc",
-    "af61a9db62b529b767eedcfd65ccdd34"
+    "af61a9db62b529b767eedcfd65ccdd34",
+    "a654cd045e21e708a141fc59d837ae44",
+    "e3ea48dc28ebce5682607133b1d6265e",
+    "996e4da0653ba64746bdc332ebe6b831",
+    "cbdf9a34fc7bf744d6379a27a1475359",
+    "603b087737f0225670c0e8fc3fdedce4",
+    "0780dc5fcdac9a11d6e17188d805eb9f",
+    "22c7a34fbbd034567754c3036a91c949",
+    "f582de52b5050281117c4c300046c113",
+    "62c85520695f85cc7060170563ceaaf4"
   ],
   "transfers": {
     "pages": {
@@ -20884,6 +20884,26 @@
     {
       "t": "action blast clash final grand keep live mouz open porto spirit take trophy updates",
       "ts": 1788701424.6548915
+    },
+    {
+      "t": "about chilean donk entries entry experience helps his how huasopeek improve job kyousuke looking lot other rifler role said studying taking that they think works",
+      "ts": 1788701430.0683746
+    },
+    {
+      "t": "even fl1t helping his ideas jame more out parivision players responsibility rifler russian stronger taking than they thought used younger",
+      "ts": 1788701434.7400882
+    },
+    {
+      "t": "action all blast finals happened keep open porto semi they top",
+      "ts": 1788701438.2661555
+    },
+    {
+      "t": "2 against away blast bounty decide finals make mouz past porto rematch season spirit surge trophy vitality walks who will",
+      "ts": 1788701441.8957622
+    },
+    {
+      "t": "actor appear deadpool future game has idea insomniac lowenthal man pitched post repeatedly says spider voice wants yuri",
+      "ts": 1788701445.471867
     }
   ]
 }
