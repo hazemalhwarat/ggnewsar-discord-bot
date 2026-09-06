@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T12:33:29.530317+03:00",
-  "count": 628,
+  "generated_at": "2026-09-06T11:15:51.340868+03:00",
+  "count": 637,
   "players": [
     {
       "name": "Ninjas",
@@ -3083,6 +3083,16 @@
       "url": "https://liquipedia.net/rainbowsix/Jamalskii"
     },
     {
+      "name": "Mowwwgli",
+      "wiki": "rainbowsix",
+      "game": "Rainbow Six Siege",
+      "country": "المغرب",
+      "year": 2002,
+      "month": 10,
+      "day": 27,
+      "url": "https://liquipedia.net/rainbowsix/Mowwwgli"
+    },
+    {
       "name": "Rof",
       "wiki": "rainbowsix",
       "game": "Rainbow Six Siege",
@@ -4443,6 +4453,26 @@
       "url": "https://liquipedia.net/rocketleague/O0vvl"
     },
     {
+      "name": "Arshven",
+      "wiki": "mobilelegends",
+      "game": "Mobile Legends",
+      "country": "السعودية",
+      "year": 1999,
+      "month": 7,
+      "day": 28,
+      "url": "https://liquipedia.net/mobilelegends/Arshven"
+    },
+    {
+      "name": "Cuffin",
+      "wiki": "mobilelegends",
+      "game": "Mobile Legends",
+      "country": "السعودية",
+      "year": 2002,
+      "month": 10,
+      "day": 19,
+      "url": "https://liquipedia.net/mobilelegends/Cuffin"
+    },
+    {
       "name": "Hulk",
       "wiki": "mobilelegends",
       "game": "Mobile Legends",
@@ -4451,6 +4481,36 @@
       "month": 10,
       "day": 24,
       "url": "https://liquipedia.net/mobilelegends/Hulk"
+    },
+    {
+      "name": "Saano",
+      "wiki": "mobilelegends",
+      "game": "Mobile Legends",
+      "country": "السعودية",
+      "year": 2004,
+      "month": 6,
+      "day": 30,
+      "url": "https://liquipedia.net/mobilelegends/Saano"
+    },
+    {
+      "name": "Sanji (Saudi player)",
+      "wiki": "mobilelegends",
+      "game": "Mobile Legends",
+      "country": "السعودية",
+      "year": 2003,
+      "month": 4,
+      "day": 2,
+      "url": "https://liquipedia.net/mobilelegends/Sanji (Saudi player)"
+    },
+    {
+      "name": "Trolll",
+      "wiki": "mobilelegends",
+      "game": "Mobile Legends",
+      "country": "السعودية",
+      "year": 2007,
+      "month": 1,
+      "day": 31,
+      "url": "https://liquipedia.net/mobilelegends/Trolll"
     },
     {
       "name": "7mDan",
@@ -4541,6 +4601,26 @@
       "month": 9,
       "day": 8,
       "url": "https://liquipedia.net/mobilelegends/Yui"
+    },
+    {
+      "name": "Do Re Mi",
+      "wiki": "mobilelegends",
+      "game": "Mobile Legends",
+      "country": "الأردن",
+      "year": 1999,
+      "month": 7,
+      "day": 16,
+      "url": "https://liquipedia.net/mobilelegends/Do Re Mi"
+    },
+    {
+      "name": "Yaga",
+      "wiki": "mobilelegends",
+      "game": "Mobile Legends",
+      "country": "الأردن",
+      "year": 2001,
+      "month": 6,
+      "day": 30,
+      "url": "https://liquipedia.net/mobilelegends/Yaga"
     },
     {
       "name": "Nanos",
@@ -4943,6 +5023,16 @@
       "url": "https://liquipedia.net/pubgmobile/DESHA999"
     },
     {
+      "name": "LIZARD",
+      "wiki": "pubgmobile",
+      "game": "PUBG Mobile",
+      "country": "مصر",
+      "year": 2004,
+      "month": 9,
+      "day": 23,
+      "url": "https://liquipedia.net/pubgmobile/LIZARD"
+    },
+    {
       "name": "MOHAMED",
       "wiki": "pubgmobile",
       "game": "PUBG Mobile",
@@ -5007,7 +5097,7 @@
       "wiki": "pubgmobile",
       "game": "PUBG Mobile",
       "country": "الأردن",
-      "year": 1999,
+      "year": 2000,
       "month": 10,
       "day": 26,
       "url": "https://liquipedia.net/pubgmobile/RAGNARoK"
