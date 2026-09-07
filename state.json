@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/25/carry1st-raises-6m-to-publish-mobile-games-in-africa/",
-    "https://thebusinessofesports.com/2021/05/25/business-of-esports-tv-ninja-and-fortnite-marketing/",
-    "https://thebusinessofesports.com/2021/05/25/doug-liman-directs-verizon-gaming-commercial/",
-    "https://thebusinessofesports.com/2021/05/25/io-interactive-reportedly-developing-xbox-exclusive-game/",
-    "https://thebusinessofesports.com/2021/05/25/report-chinas-cloud-gaming-industry-revenue-will-experience-massive-growth/",
     "https://thebusinessofesports.com/2021/05/25/ee-offering-xbox-game-pass-ultimate-and-unlimited-gaming-data/",
     "https://thebusinessofesports.com/2021/05/24/anrkey-x-starts-public-beta-test-of-nft-and-esports-game/",
     "https://thebusinessofesports.com/2021/05/24/vertux-hoping-to-enter-lucrative-phillippine-gaming-market/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/crytek-layoffs-hit-staff-in-istanbul-and-frankfurt/",
     "https://insider-gaming.com/ea-fc-27-release-date-start-time/",
     "https://insider-gaming.com/aniimo-release-date-start-times/",
-    "https://insider-gaming.com/petit-planet-final-beta-sign-up/"
+    "https://insider-gaming.com/petit-planet-final-beta-sign-up/",
+    "https://insider-gaming.com/escape-from-tarkov-lighthouse-update-coming-tomorrow/",
+    "https://insider-gaming.com/capcom-bringing-back-old-ips-that-havent-had-a-new-title-launch-recently/",
+    "https://insider-gaming.com/gran-turismo-8-hinted-at-further-by-polyphony-digital-job-listings/",
+    "https://insider-gaming.com/killzone-rumor-remaster-remake-coming-studio/",
+    "https://insider-gaming.com/nintendo-direct-september-2026-date-start-times-rumored-games/"
   ],
   "title_hashes": [
-    "b943003726f0ccbdecbb9b0199fb6416",
-    "60db96b8aa0d84ba68251e129b830d06",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "e473d6606bd5a9073cd6795848fa5aff",
-    "fe777195fd492d9edfaf41ca835f0dbc",
     "5fc6cb013211c9d4515192b009ca38ea",
     "4158a3b373536b1d8f07894a3558180f",
     "e9a95d6861ed634269213828f1f1c379",
@@ -16001,7 +15996,12 @@
     "3082b0a2652de7c8ad8741a41c1000cb",
     "3707846050fb44ca955e54da96fefe9c",
     "ed5871a572c2dfe250d66b9161737b93",
-    "a2f3f776a1a39f0af8ae5d13281c7be0"
+    "a2f3f776a1a39f0af8ae5d13281c7be0",
+    "0a45b99cb105e4bc72ac31789a05e757",
+    "66ebb745cef82b63e5aeb507ab22ba1f",
+    "f12b5422be1179262bbad3a8a239134e",
+    "f75c8c942143afe343d3aa2b4a96e73e",
+    "4685ea391ad16fb134b71f31badea54b"
   ],
   "transfers": {
     "pages": {
@@ -21008,6 +21008,26 @@
     {
       "t": "appeared before beta big can final first gaming has how hoyoverse insider launch lined now one petit planet post sign you",
       "ts": 1788794381.0766616
+    },
+    {
+      "t": "8 8216 8217 arriving battlestate big coming confirmed escape games has lighthouse post september tarkov that tomo tomorrow update",
+      "ts": 1788794386.7958632
+    },
+    {
+      "t": "8216 back bringing capcom company franchises frequented game get had has haven ips its keen launch less looking new old one post recently said see that title unused you your",
+      "ts": 1788794390.4544277
+    },
+    {
+      "t": "8 digital further gran has highlight hinted job listin listings many next ongoing past polyphony post stated that this turismo work",
+      "ts": 1788794393.9217315
+    },
+    {
+      "t": "been claimed coming external guerrilla has killzone new post remake remaster report rumor says studi studio that",
+      "ts": 1788794397.77816
+    },
+    {
+      "t": "2026 all amp app date details direct exact games how including nintendo post rumored september start time times watch",
+      "ts": 1788794401.3428848
     }
   ]
 }
