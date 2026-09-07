@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/17/unruly-partners-with-thece-in-global-esports-and-gaming-deal/",
-    "https://thebusinessofesports.com/2021/05/17/what-we-learned-from-the-apple-epic-trial-so-far/",
-    "https://thebusinessofesports.com/2021/05/17/mission-control-partners-with-hyperx-to-launch-u-s-parks-and-recreation-esports-championship/",
-    "https://thebusinessofesports.com/2021/05/17/otc-markets-group-welcomes-gaming-realms-plc-to-otcqx/",
-    "https://thebusinessofesports.com/2021/05/17/tiktok-enthusiast-gaming-and-e-l-f-cosmetics-launch-tiktok-gamers-got-talent/",
     "https://thebusinessofesports.com/2021/05/17/analyzing-the-rise-of-the-esports-betting-market/",
     "https://thebusinessofesports.com/2021/05/17/t1-entertainment-and-sports-partners-with-op-gg/",
     "https://thebusinessofesports.com/2021/05/17/amazon-prime-gaming-teams-up-with-riot-games/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25650/marvels-wolverine-pop-up-the-claw-opens-in-hongdae-on-the-11th",
     "https://www.invenglobal.com/articles/25651/red-stone-marks-23rd-anniversary-stakes-future-on-new-main-story-in-2027",
     "https://www.invenglobal.com/articles/25648/nexons-maple-attack-with-lotte-wins-brand-of-the-year-award",
-    "https://www.invenglobal.com/articles/25649/three-kingdoms-tactics-launches-global-scenario-byeongyeon-chunqiu"
+    "https://www.invenglobal.com/articles/25649/three-kingdoms-tactics-launches-global-scenario-byeongyeon-chunqiu",
+    "https://www.invenglobal.com/articles/25646/kazutoki-kono-ace-combat-8-will-have-the-largest-scale-in-franchise-history",
+    "https://www.invenglobal.com/articles/25645/ace-combat-8-reveals-new-playable-aircraft-fa-36-for-the-first-time",
+    "https://www.invenglobal.com/articles/25644/crowned-champion-kts-uta-the-help-from-my-teammates-and-coach-was-huge",
+    "https://www.invenglobal.com/articles/25643/2026-asian-games-lol-national-team-evaluation-matches-to-be-held-in-busan-for-two-days-starting-sept-19",
+    "https://www.invenglobal.com/articles/25642/freestyle-football-2-named-top-anticipated-title-at-pax-west-2026"
   ],
   "title_hashes": [
-    "c4073b717566d1f8319a20b334857210",
-    "828d7b01cfa21a79324f35645cd66221",
-    "67ea140126d63027b90243a97ecd13b7",
-    "a677922a997bf85e3376b9baaa7fb660",
-    "a1d458ba61a43dc075c07003bc477494",
     "cbca46545106a70fa7faaa07bf4b72a8",
     "a31a4bdf983247fbc6c12c5940744a1c",
     "cba5fa885f94064e707ece3e6a05d15b",
@@ -16001,7 +15996,12 @@
     "aff5d5186ca861aaba0d8e950fa04673",
     "63dbd466e6a62bf3051d0f0d41800fb9",
     "823cd8bd77b7461a086a7b84739016b0",
-    "6a8a1d729e55979ec92367496c20df2b"
+    "6a8a1d729e55979ec92367496c20df2b",
+    "2a7ecdaad42607a1eea09d00a48d38b3",
+    "d5eb27456f2521c9486a45378f71ac95",
+    "b76531efd2c939bc8140c07655d0f9b0",
+    "da15709d2e9bbbfd2ef84ea903341c01",
+    "d69248c8f55a0e3deea3770be2cf81e1"
   ],
   "transfers": {
     "pages": {
@@ -20920,6 +20920,26 @@
     {
       "t": "5 byeongyeon chunqiu exclusive game games gameson global its kingdoms launched launches mobile original qookka scenario september server simulation slg strategy tactics three",
       "ts": 1788755807.9738765
+    },
+    {
+      "t": "8 ace aces being combat currently developed entry franchise have history inven kazutoki kono largest latest project scale series theve will wings",
+      "ts": 1788755813.697642
+    },
+    {
+      "t": "3 36 8 ace aircraft bilibili combat day event first globally held look new playable revealed reveals september shanghai that theve time unveiled wings",
+      "ts": 1788755817.3267915
+    },
+    {
+      "t": "2026 6 champion coach colosseum crowned finals fsl grand held help huge hwan jamsil lee rolster september summer teammates uta won",
+      "ts": 1788755821.0352283
+    },
+    {
+      "t": "19 2026 aichi asian association busan days evaluation games held hereinafter host kespa kespathe korea league legends lol matches nagoya national sept sports starting team two will",
+      "ts": 1788755824.6702828
+    },
+    {
+      "t": "11 1st 2 2026 7 announced anticipated category currently development football freestyle game its joycityjoycity named new pax ranked september soccer sports subsidiary that title top under ure west",
+      "ts": 1788755828.383205
     }
   ]
 }
