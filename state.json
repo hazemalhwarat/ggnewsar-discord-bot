@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/29/xbox-series-x-game-from-ubisoft-leaked/",
-    "https://thebusinessofesports.com/2021/05/29/business-of-esports-tv-tencent-vs-bytedance/",
-    "https://thebusinessofesports.com/2021/05/29/nintendo-stock-takes-a-dive-after-issuing-chip-warning/",
-    "https://thebusinessofesports.com/2021/05/29/firefly-games-looking-to-grow-oceanias-mobile-gaming-market/",
-    "https://thebusinessofesports.com/2021/05/29/playstation-plus-free-games-revealed-amidst-rumors-of-subscription-service-price-increase/",
-    "https://thebusinessofesports.com/2021/05/29/free-titles-other-promotions-for-may-revealed-on-amazon-prime-gaming/",
-    "https://thebusinessofesports.com/2021/05/29/screen-rant-video-games-are-bad-as-nfts/",
-    "https://thebusinessofesports.com/2021/05/28/business-of-esports-tv-nfl-game-contest/",
     "https://thebusinessofesports.com/2021/05/28/episode-133-video-esports-talent-eleague-esports-on-tv-apple-vs-epic-winner-free-overwatch-2/",
     "https://thebusinessofesports.com/2021/05/27/episode-133-esports-talent-eleague-esports-on-tv-apple-vs-epic-winner-free-overwatch-2/",
     "https://thebusinessofesports.com/2021/05/27/business-of-esports-weekly-news-352/",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/25667/chinese-gaming-market-surpasses-50-billion-for-first-time",
     "https://www.invenglobal.com/articles/25665/park-soma-sang-hyeon-tops-group-a-yoo-young-jin-advances-in-second-to-quarterfinals",
     "https://www.invenglobal.com/articles/25664/lineage-m-unveils-major-q3-update-offering-20-daily-draw-packs",
-    "https://www.invenglobal.com/articles/25663/so-many-lost-travelers-the-exit-8-surpasses-3-million-worldwide-copies-sold"
+    "https://www.invenglobal.com/articles/25663/so-many-lost-travelers-the-exit-8-surpasses-3-million-worldwide-copies-sold",
+    "https://www.invenglobal.com/articles/25646/kazutoki-kono-ace-combat-8-has-the-largest-scale-in-franchise-history",
+    "https://www.invenglobal.com/articles/25625/dplus-kia-levels-series-with-massive-comeback",
+    "https://www.invenglobal.com/articles/25623/kt-uta-defeats-t1-navy-with-three-consecutive-3-2-wins-to-advance-to-grand-final",
+    "https://www.hltv.org/news/45474/the-evps-and-all-stars-of-blast-open-porto-2026",
+    "https://www.hltv.org/news/45475/teams-announced-for-twc-closed-qualifier",
+    "https://www.hltv.org/news/45477/short-news-week-36",
+    "https://www.hltv.org/news/45476/krabeni-pens-contract-extension-with-fut",
+    "https://www.hltv.org/news/45473/single-game-fissure-playground-3-fantasy-is-about-to-start"
   ],
   "title_hashes": [
-    "5695731ae2fcb99ce27d2076cafa2354",
-    "f21c2133ac72710305eff7fd76fc696a",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "5ef775deda3a2e0133112ba1128b774a",
-    "3a94bf3fc745eb8310c74995d15627f1",
-    "d9b83f881ea172af8c2aa8b9dbe94ae1",
-    "50992d334e8649418e930a5fb5f68cdd",
-    "2c8e97b02e1e83e82cb204a902addacf",
     "27a0a8edf54a15c315385581d66aa6a0",
     "8952105776c239ae8a61863a49f54910",
     "8e3c0b39f4792003125fdc08f1fccf55",
@@ -16001,7 +15993,15 @@
     "625d1be5666e04359976a1063da4080f",
     "24156bf07079ba588d5b2114b12b1301",
     "10c881576e6edab1e3c8694d500e703a",
-    "cc7a3f65b9531fe9c667bc5b0cefc080"
+    "cc7a3f65b9531fe9c667bc5b0cefc080",
+    "b6e0e1a5138640c2a45c534117b05957",
+    "ad166de8136b79fbab271265bbcbddb0",
+    "d4fa15181c217091e70fe4663e393d4e",
+    "aa3b289c48fc8fe8c74ecafdb48cc1ff",
+    "000b00efd3ddf5feecfa63ac79e1583d",
+    "b56ce8453a4825a6b4c02a0e604147ad",
+    "3b643514877977c5882596f3177f6d17",
+    "c3c0669151394226318f76560a9ed0a7"
   ],
   "transfers": {
     "pages": {
@@ -20948,6 +20948,26 @@
     {
       "t": "3 8 announced copies create created cumulative developer escape exit game has horror indie japanese kotake lost many million notokeke playism publisher sold surpassed surpasses travelers worldwide",
       "ts": 1788794320.634034
+    },
+    {
+      "t": "2026 all blast earns establish evp evps fifth firm his number one open porto sh1ro spirit stars themselves world year",
+      "ts": 1788794326.249185
+    },
+    {
+      "t": "000 1 16 advance announced closed lan malta one only qualifier teams twc will",
+      "ts": 1788794329.8888764
+    },
+    {
+      "t": "36 catch counter more news short week",
+      "ts": 1788794333.6326835
+    },
+    {
+      "t": "contract deal extension fut game has his joined krabeni leader mates new organization pens team turkish",
+      "ts": 1788794337.237764
+    },
+    {
+      "t": "3 about fantasy fissure game jcobbb most playground single start",
+      "ts": 1788794341.0127544
     }
   ]
 }
