@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/17/analyzing-the-rise-of-the-esports-betting-market/",
-    "https://thebusinessofesports.com/2021/05/17/t1-entertainment-and-sports-partners-with-op-gg/",
-    "https://thebusinessofesports.com/2021/05/17/amazon-prime-gaming-teams-up-with-riot-games/",
-    "https://thebusinessofesports.com/2021/05/17/gaming-ecosystem-coming-soon-to-abu-dhabi/",
-    "https://thebusinessofesports.com/2021/05/17/business-of-esports-weekly-news-351/",
     "https://thebusinessofesports.com/2021/05/17/vpesports-says-poker-will-emerge-as-an-esport/",
     "https://thebusinessofesports.com/2021/05/17/it-has-been-a-busy-spring-for-enthusiast-gaming/",
     "https://thebusinessofesports.com/2021/05/16/british-esports-championships-student-finals-to-take-place-live-this-summer/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25645/ace-combat-8-reveals-new-playable-aircraft-fa-36-for-the-first-time",
     "https://www.invenglobal.com/articles/25644/crowned-champion-kts-uta-the-help-from-my-teammates-and-coach-was-huge",
     "https://www.invenglobal.com/articles/25643/2026-asian-games-lol-national-team-evaluation-matches-to-be-held-in-busan-for-two-days-starting-sept-19",
-    "https://www.invenglobal.com/articles/25642/freestyle-football-2-named-top-anticipated-title-at-pax-west-2026"
+    "https://www.invenglobal.com/articles/25642/freestyle-football-2-named-top-anticipated-title-at-pax-west-2026",
+    "https://www.invenglobal.com/articles/25641/nba-2k27-officially-launches-offense-and-defense-overhauled",
+    "https://www.invenglobal.com/articles/25638/pre-registration-opens-for-roblox-game-cookierun-card-collection",
+    "https://www.invenglobal.com/articles/25639/seal-m2-unveils-class-videos-for-5-classes-differentiating-combat-styles",
+    "https://www.invenglobal.com/articles/25640/indiecraft-promotes-k-indie-games-at-gamescom",
+    "https://www.invenglobal.com/articles/25637/netmarble-holds-inauguration-ceremony-for-26th-class-of-marble-challenger"
   ],
   "title_hashes": [
-    "cbca46545106a70fa7faaa07bf4b72a8",
-    "a31a4bdf983247fbc6c12c5940744a1c",
-    "cba5fa885f94064e707ece3e6a05d15b",
-    "7610ab1f850a2373d65e8540fa891e84",
-    "8e83830733f4bf775f77ce0e1dca82c0",
     "d3d3b608a4604891225f7eca481406d6",
     "44176662cee8661763b0c2260a95bd43",
     "08edd13e6a4d8a5fb561d2aec3b84fdf",
@@ -16001,7 +15996,12 @@
     "d5eb27456f2521c9486a45378f71ac95",
     "b76531efd2c939bc8140c07655d0f9b0",
     "da15709d2e9bbbfd2ef84ea903341c01",
-    "d69248c8f55a0e3deea3770be2cf81e1"
+    "d69248c8f55a0e3deea3770be2cf81e1",
+    "e885d7babd43a9285eba882f2dba78a0",
+    "139bbc2e22091c6c9c81ed23166d7130",
+    "35e7b9f7ace3257fd016e950d76f713d",
+    "3eb43f382e7d4ddfc9db4245353fa09c",
+    "39a55c21f0be1af6e699d4a0dfda2e50"
   ],
   "transfers": {
     "pages": {
@@ -20940,6 +20940,26 @@
     {
       "t": "11 1st 2 2026 7 announced anticipated category currently development football freestyle game its joycityjoycity named new pax ranked september soccer sports subsidiary that title top under ure west",
       "ts": 1788755828.383205
+    },
+    {
+      "t": "2k27 2k2k 7 announced athlete basketball cover defense features has installment its latest launched launches nba offense officially overhauled september series simulation that victor wembanyama",
+      "ts": 1788755835.956716
+    },
+    {
+      "t": "4 based began card collection cookierun devsistersdevsisters game opens pre rcg registration roblox september simulation tcg",
+      "ts": 1788755839.4867203
+    },
+    {
+      "t": "5 7th action actual class classes combat differentiating feature five gameplay introduction its kni korea m2 main mmorpg mobile playwith released seal skills styles unveils upcoming videos",
+      "ts": 1788755843.0133793
+    },
+    {
+      "t": "2026 26 28 announced associationthe august booth cologne committee game games gamescom germany indie indiecraft korea mobile operated organizing promotes promotional that",
+      "ts": 1788755846.4958973
+    },
+    {
+      "t": "26th 7th announced ceremony challenger class college held holds inauguration its marble netmarble netmarblenetmarble program student supporter that",
+      "ts": 1788755850.0449543
     }
   ]
 }
