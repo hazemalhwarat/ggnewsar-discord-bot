@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2019/02/19/the-business-of-esports-daily-news-59/",
-    "https://thebusinessofesports.com/2019/02/18/the-business-of-esports-daily-news-58/",
-    "https://thebusinessofesports.com/2019/02/15/the-business-of-esports-daily-news-57/",
-    "https://thebusinessofesports.com/2019/02/14/episode-11-apex-legends-kills-fortnite-challenges-at-blizzard-overwatch-leagues-killer-feature/",
-    "https://thebusinessofesports.com/2019/02/14/the-business-of-esports-daily-news-56/",
-    "https://thebusinessofesports.com/2019/02/13/the-business-of-esports-daily-news-55/",
-    "https://thebusinessofesports.com/2019/02/12/the-business-of-esports-daily-news-54/",
     "https://thebusinessofesports.com/2019/02/11/the-business-of-esports-daily-news-53/",
     "https://thebusinessofesports.com/2019/02/07/episode-10-fortnites-marshmello-concert-esports-the-super-bowl-apex-threatens-fortnites-dominance/",
     "https://thebusinessofesports.com/2019/02/07/the-business-of-esports-daily-news-52/",
@@ -7999,16 +7992,16 @@
     "https://esportsinsider.com/2026/09/counter-strike-2-vs-call-of-duty-meta-comparison",
     "https://insider-gaming.com/marvels-spider-man-actor-would-prefer-deadpool-over-wolverine-in-the-next-game/",
     "https://insider-gaming.com/forza-horizon-6-ps5-release-window-confirmed/",
-    "https://insider-gaming.com/xbox-game-pass-dynamic-pricing/"
+    "https://insider-gaming.com/xbox-game-pass-dynamic-pricing/",
+    "https://insider-gaming.com/ps3-emulator-allows-players-to-use-physical-discs-on-pc/",
+    "https://insider-gaming.com/palworld-update-1-0-4-adds-two-new-missions/",
+    "https://insider-gaming.com/todays-wordle-1907-hints-answer-september-8-2026/",
+    "https://insider-gaming.com/xbox-disc-to-digital-games-list/",
+    "https://insider-gaming.com/roblox-breakdoor-codes/",
+    "https://insider-gaming.com/roblox-ghost-driver-codes/",
+    "https://insider-gaming.com/gta-6-will-track-lots-of-things-including-the-characters-sleep/"
   ],
   "title_hashes": [
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "059a218348bf382003fd4e2d9fc4f8e2",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "8e83830733f4bf775f77ce0e1dca82c0",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "7a6c76a0081921cf56325601c158a332",
@@ -16001,7 +15994,14 @@
     "3ee910e13402d02a0da8a41d21624e13",
     "c762a6592ef20912a878d4e1264fe835",
     "e16e0ee737ba1b1be1eb780db39c566f",
-    "e5413ffe3a119cc49b56c8b25d1260f1"
+    "e5413ffe3a119cc49b56c8b25d1260f1",
+    "4bfba991ad835ff860ab7791c402a4c3",
+    "59e23e9bd15639ff316453ebc8c5d563",
+    "1a6ab1310d8dc3f8df7ab8c9d45c90f3",
+    "bf9b023ff8d2a5256999b75bb8d2e832",
+    "85a2cf4aaf85358d0490f7705f2ab48f",
+    "6617bbe75454a1b190b5c0fcf2f2e4ab",
+    "0ebb51492b9da828d5bc193a9c411e8f"
   ],
   "transfers": {
     "pages": {
@@ -21140,6 +21140,26 @@
     {
       "t": "appeared being details dynamic first game have here inside more offered offering pass post prices pricing reported select some subscriptions users xbox",
       "ts": 1788808864.9974527
+    },
+    {
+      "t": "able allows appeared compatible details discs drives emulator here more new physical players post ps3 reveals run that update use using will",
+      "ts": 1788808870.3710766
+    },
+    {
+      "t": "1907 2026 8 8217 answer full get guess hints post september starter stuck today trying wordle words",
+      "ts": 1788808874.1190755
+    },
+    {
+      "t": "appeared can compatible complete digital disc effect every find first game games gaming initiative insider list out post promised use xbox you",
+      "ts": 1788808878.869501
+    },
+    {
+      "t": "2026 appeared auto breakdoor cards codes first free gaming gems get hands insider like monthly post redeem repair rewards september these trial use your",
+      "ts": 1788808882.4049566
+    },
+    {
+      "t": "6 8217 appeared character characters deep fitness going gta including into jason lots lucia patterns post rockstar sleep things track tracking will",
+      "ts": 1788808886.0572433
     }
   ]
 }
