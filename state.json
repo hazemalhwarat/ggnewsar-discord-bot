@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/11/business-of-esports-tv-valorant-goes-mobile/",
-    "https://thebusinessofesports.com/2021/06/10/micro-star-international-announces-z590-and-b560-promotions/",
-    "https://thebusinessofesports.com/2021/06/10/good-gaming-inc-provides-q1-corporate-update-to-shareholders/",
-    "https://thebusinessofesports.com/2021/06/10/nvidia-unveils-q1-2021-financial-results/",
-    "https://thebusinessofesports.com/2021/06/10/evos-esports-announces-collaboration-with-puma/",
     "https://thebusinessofesports.com/2021/06/10/viewsonic-unveils-partnership-with-allied-esports/",
     "https://thebusinessofesports.com/2021/06/10/netbet-unveils-partnership-with-gaming-realms/",
     "https://thebusinessofesports.com/2021/06/10/future-publishing-retires-uk-official-playstation-magazine/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25661/onimusha-way-of-the-sword-surpasses-1-million-copies-sold-on-first-day",
     "https://www.invenglobal.com/articles/25660/segaatlus-to-participate-in-tgs-2026-with-largest-ever-presence",
     "https://www.invenglobal.com/articles/25659/accumulating-diamonds-ignited-prelude-streamer-servers-2nd-week-of-september",
-    "https://www.invenglobal.com/articles/25657/kt-rolster-uta-lee-ji-hwan-wins-2026-fsl-summer"
+    "https://www.invenglobal.com/articles/25657/kt-rolster-uta-lee-ji-hwan-wins-2026-fsl-summer",
+    "https://www.invenglobal.com/articles/25658/seoill-wins-tft-pro-circuit-riftbeast-cup",
+    "https://www.invenglobal.com/articles/25656/mewgenics-console-version-launch-set-for-sept-8-with-official-korean-language-support",
+    "https://www.invenglobal.com/articles/25655/eclipse-launches-on-the-10th-4-key-points-to-watch",
+    "https://www.invenglobal.com/articles/25654/global-esports-ge-wins-first-vct-pacific-championship",
+    "https://www.invenglobal.com/articles/25653/nc-opens-astrae-oratio-tgs-2026-special-page"
   ],
   "title_hashes": [
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "778ad3b416f61201336699b668fd83ac",
-    "9b176706770b8bd05c40e264ad591ec0",
-    "e90c9e4f6c3509fa8ff87c20a998fdfa",
-    "437747680f99572d2f54abd0979c3d26",
     "e744c459000f1c65e4a51ae8a8f02ebe",
     "e779f6c63a3cf6b571abf0636ba4069f",
     "09dc877bd88aad62d2578b7d5acebfbd",
@@ -16001,7 +15996,12 @@
     "8bbd9d1098805991049599f2d64444e6",
     "079670e215318e191eedb17a4be2617e",
     "7cc9f8297addbed59cabad450ccee7a5",
-    "6bea7f31aac198344920142a64245409"
+    "6bea7f31aac198344920142a64245409",
+    "c9817f6fbcbc42d1201001881bd4e884",
+    "17fa79dc71b784405b633db4006dfdde",
+    "426f0e598ca698f6ee28218543316228",
+    "569bcbf4f85e02cf542c67803a38a520",
+    "0773981677d524f6833391c0e574f16d"
   ],
   "transfers": {
     "pages": {
@@ -20912,6 +20912,26 @@
     {
       "t": "2026 7th announced champions domestic fsl hereafter hwan league lee nexonnexon online regular rolster summer super that top uta wins won",
       "ts": 1788774337.0956492
+    },
+    {
+      "t": "7 announced chan circuit cup esports game games gamesriot its korea official park pro riftbeast riot seo seoill september strategy tactics teamfight tft that wins won",
+      "ts": 1788774342.298077
+    },
+    {
+      "t": "8 across all announced binding boy console developer edmund has inven isaac korean language launch mcmillen meat mewgenics official plat renowned roguelike sept set srpg super support version",
+      "ts": 1788774345.6983953
+    },
+    {
+      "t": "10th 4 awakening been details developed eclipse have hereinafter key launches mmorpg npixel npixelthe official points referred release revealed set smilegate watch",
+      "ts": 1788774349.094202
+    },
+    {
+      "t": "2 3 announced championship claim defeated esports first games gamesriot global inception nongshim organization pacific redforce riot since that their vct wins",
+      "ts": 1788774352.476069
+    },
+    {
+      "t": "2026 7 astrae bird game its launched ncon new opens oratio page revealing rpg september show special subculture tgs tokyo webpage",
+      "ts": 1788774355.9929912
     }
   ]
 }
