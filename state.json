@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/03/allan-phang-named-chief-marketing-officer-of-galaxy-racer-esports/",
-    "https://thebusinessofesports.com/2021/08/03/john-albright-joins-enthusiast-gamings-board-of-directors-company-renews-partnership-with-g-fuel/",
-    "https://thebusinessofesports.com/2021/08/03/iesf-announces-global-esports-executive-summit-will-be-a-hybrid-event-also-partners-with-white-lite-llc/",
-    "https://thebusinessofesports.com/2021/08/03/cindy-chou-named-director-of-corporate-communications-at-freaks-4u-gaming/",
-    "https://thebusinessofesports.com/2021/08/03/andbox-enters-world-of-call-of-duty-mobile-with-trovo-mayhem-partnership/",
-    "https://thebusinessofesports.com/2021/08/02/esports-media-inc-unveils-razer-partnership/",
     "https://thebusinessofesports.com/2021/08/02/strive-gaming-ltd-officially-launches/",
     "https://thebusinessofesports.com/2021/08/02/may-was-a-busy-month-for-simplicity-esports-and-gaming/",
     "https://thebusinessofesports.com/2021/08/02/intel-unveils-beast-canyon-nuc-gaming-pc/",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/roco-kingdom-closed-beta-test-sign-up/",
     "https://insider-gaming.com/nyt-strands-919-hints-answers-september-8-2026/",
     "https://insider-gaming.com/marvel-rivals-season-10-release-date-times-content/",
-    "https://insider-gaming.com/arc-raiders-new-update/"
+    "https://insider-gaming.com/arc-raiders-new-update/",
+    "https://insider-gaming.com/the-legend-of-zelda-40th-anniversary-showcase-everything-announced/",
+    "https://insider-gaming.com/futurlab-layoffs-cancels-development-project/",
+    "https://insider-gaming.com/dont-nod-might-not-remain-open-january-2027/",
+    "https://insider-gaming.com/ea-fc-27-web-app-release-date-start-time/",
+    "https://insider-gaming.com/petit-planet-final-beta-start-time-end-date/",
+    "https://insider-gaming.com/zelda-ocarina-of-time-remake-price-accidentally-revealed/"
   ],
   "title_hashes": [
-    "743aed936d09684f72ceee21bbb53e4a",
-    "f3b57b00d5260b733402eb5248b7429a",
-    "855c64528db15d5f8a1560df6ef1fe62",
-    "8c60f9fd96d652719a3437045585ecd7",
-    "890c368ca5dbc9aa98d44abd782937e7",
-    "64773cd1916c7bd670fd1ddac7f48f95",
     "1f26a79b8bebe5f0edbcb0ee24c52b3c",
     "29ad02e3d22a8faaa1e180ccbc2df441",
     "a1529643f746ad95dda45bcb288be4a2",
@@ -16001,7 +15995,13 @@
     "5150309a8ad2a884b195610b01a7c30d",
     "2e3f72ed7f9211b44e219d22007d6d21",
     "78f7a1a572ee837f20dd5aee64cb13fe",
-    "b23fc3e6e9105cc0f72f9b8bd346f0ca"
+    "b23fc3e6e9105cc0f72f9b8bd346f0ca",
+    "9f4bc4b06227a6812f75291a6054f0cb",
+    "9ffe002143b87ebf8265da5d6ef24481",
+    "97fa0f2f68eaf11e22377e47622a1c05",
+    "8cabdf5242618c2aeabbcaa67010dfdc",
+    "7a7b83f98b55fa327f91c443021a866e",
+    "36fb175cc53b26a14c0c7fc75982a2c3"
   ],
   "transfers": {
     "pages": {
@@ -20920,6 +20920,26 @@
     {
       "t": "0 1 45 announced appeared arc brings embark fixes has live new now post project raider raiders studios that update which",
       "ts": 1788875258.0417411
+    },
+    {
+      "t": "40th anniversary announced direct during everything here legend minute nintendo post showcase updates zelda",
+      "ts": 1788875263.643158
+    },
+    {
+      "t": "been behind cancel cancels developing development forced futurlab game has holds layoffs make post powerwash project revealed simulator studio",
+      "ts": 1788875267.1929522
+    },
+    {
+      "t": "2027 8217 after appeared cannot chance don down external financing have january might nod not open operations post remain secured shut that there",
+      "ts": 1788875271.252984
+    },
+    {
+      "t": "all amp beta could date details exact expected final how including long petit planet post run start time when",
+      "ts": 1788875274.8647892
+    },
+    {
+      "t": "40th accidentally anniversary appeared before direct fir hours ocarina post price remake reportedly revealed showcase time zelda",
+      "ts": 1788875278.6083372
     }
   ]
 }
