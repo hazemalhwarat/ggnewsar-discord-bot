@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/05/alpha-esports-tech-enters-partnership-with-centric-gaming/",
-    "https://thebusinessofesports.com/2021/08/05/envy-gaming-unveils-partnerships-with-usaa-and-proflowers/",
-    "https://thebusinessofesports.com/2021/08/05/nerd-street-gamers-announces-return-of-in-person-events-unveils-partnership/",
-    "https://thebusinessofesports.com/2021/08/05/multiverse-token-set-to-be-launched-on-kucoin-win/",
-    "https://thebusinessofesports.com/2021/08/05/apocalpyse-studios-unveils-partnership-with-tafi/",
-    "https://thebusinessofesports.com/2021/08/05/a-new-bill-aims-to-bring-more-esports-competitions-to-north-carolina/",
-    "https://thebusinessofesports.com/2021/08/05/gucci-and-100-thieves-release-limited-edition-backpacks/",
-    "https://thebusinessofesports.com/2021/08/04/nway-teaming-up-with-ioc-to-release-olympic-nfts-pins/",
     "https://thebusinessofesports.com/2021/08/04/team-vitality-fan-tokens-are-coming-to-socios-com/",
     "https://thebusinessofesports.com/2021/08/04/microsofts-xbox-mini-fridge-will-be-available-later-this-year/",
     "https://thebusinessofesports.com/2021/08/04/irvine-california-named-best-city-for-gamers-in-the-united-states/",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/25684/shin-sang-moon-takes-1st-place-in-group-b-everyone-said-last-seasons-seed-was-just-luck",
     "https://www.invenglobal.com/articles/25683/capcoms-action-peak-onimusha-way-of-the-sword-89",
     "https://www.invenglobal.com/articles/25666/riot-co-founder-says-2xko-wasnt-a-mistake",
-    "https://www.invenglobal.com/articles/25667/chinese-gaming-market-surpasses-50-billion-for-first-time"
+    "https://www.invenglobal.com/articles/25667/chinese-gaming-market-surpasses-50-billion-for-first-time",
+    "https://www.invenglobal.com/articles/25665/park-soma-sang-hyeon-tops-group-a-yoo-young-jin-advances-in-second-to-quarterfinals",
+    "https://www.invenglobal.com/articles/25664/lineage-m-unveils-major-q3-update-offering-20-daily-draw-packs",
+    "https://www.invenglobal.com/articles/25663/so-many-lost-travelers-the-exit-8-surpasses-3-million-worldwide-copies-sold",
+    "https://www.invenglobal.com/articles/25646/kazutoki-kono-ace-combat-8-has-the-largest-scale-in-franchise-history",
+    "https://www.hltv.org/news/45477/short-news-week-36",
+    "https://www.hltv.org/news/45481/alliance-stun-faze-at-fissure-playground",
+    "https://www.hltv.org/news/45474/the-evps-and-all-stars-of-blast-open-porto-2026",
+    "https://www.hltv.org/news/45475/teams-announced-for-twc-closed-qualifier"
   ],
   "title_hashes": [
-    "7ad6a74d28ac74cef7b04c47a81f2e82",
-    "c84d7e6ec37cf1baadae002f0461e49f",
-    "984786b5fc8b24505bf9ed13dd18632e",
-    "cb8b96e4c09986df6cf829584e7a0471",
-    "ecd060a1df88313cc86215e4134edf37",
-    "e3a83a045c37689e9904ed458a4b2b5d",
-    "2e77197dc781e1ec5dc26e3a1c507b80",
-    "3d39395b8f7a57695c9ab70497ee5c67",
     "c08309a5af438c72ae2162eefc0faa77",
     "951398d5cca0ece36d5dcb32dc99adfd",
     "5a36c8c6c2ddb98d56758afae1da8c99",
@@ -16001,7 +15993,15 @@
     "a89d2de1c6432d350e15c98cd270bb6a",
     "bcce184695e4b4fa4aaa4732ce8aa5aa",
     "82098362b67f589efd17fb7854be1ffc",
-    "625d1be5666e04359976a1063da4080f"
+    "625d1be5666e04359976a1063da4080f",
+    "24156bf07079ba588d5b2114b12b1301",
+    "10c881576e6edab1e3c8694d500e703a",
+    "cc7a3f65b9531fe9c667bc5b0cefc080",
+    "b6e0e1a5138640c2a45c534117b05957",
+    "b56ce8453a4825a6b4c02a0e604147ad",
+    "993711c6e8373375552d4e3eaf8bf668",
+    "aa3b289c48fc8fe8c74ecafdb48cc1ff",
+    "000b00efd3ddf5feecfa63ac79e1583d"
   ],
   "transfers": {
     "pages": {
@@ -20880,6 +20880,26 @@
     {
       "t": "50 billion black blade chinese first gaming has invenannual market myth phantom represented revenue surpassed surpasses time wukong zero",
       "ts": 1788875217.5029862
+    },
+    {
+      "t": "16 2026 22 7 advances asl freecup google group hyeon jin matches park place play quarterfinals round sang season second seoul september soma studio took tops yoo young",
+      "ts": 1788875223.3714697
+    },
+    {
+      "t": "36 catch counter more news short week",
+      "ts": 1788875226.904209
+    },
+    {
+      "t": "after alliance almost back bang faze fissure inactivity months playground squad stun swedish two",
+      "ts": 1788875230.5952525
+    },
+    {
+      "t": "2026 all blast earns establish evp evps fifth firm his number one open porto sh1ro spirit stars themselves world year",
+      "ts": 1788875234.1283913
+    },
+    {
+      "t": "000 1 16 advance announced closed lan malta one only qualifier teams twc will",
+      "ts": 1788875237.706054
     }
   ]
 }
