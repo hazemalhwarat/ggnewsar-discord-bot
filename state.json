@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/19/2021-game-devs-of-color-expo-will-not-feature-in-person-attendance/",
-    "https://thebusinessofesports.com/2021/08/19/horizon-forbidden-west-delayed-to-q1-2022/",
-    "https://thebusinessofesports.com/2021/08/19/playson-ltd-signs-content-agreement-deal-with-golden-matrix-group/",
-    "https://thebusinessofesports.com/2021/08/19/kongregate-set-to-launch-esports-portal-featuring-nft-games/",
-    "https://thebusinessofesports.com/2021/08/19/movistar-agrees-to-strategic-partnership-with-microsoft/",
-    "https://thebusinessofesports.com/2021/08/19/gamers-are-worried-about-googles-pay-for-engagement-model/",
     "https://thebusinessofesports.com/2021/08/19/ikea-making-several-moves-to-enter-the-world-of-gaming/",
     "https://thebusinessofesports.com/2021/08/19/apc-by-schneider-electric-partners-with-w7m-gaming/",
     "https://thebusinessofesports.com/2021/08/19/collaboration-between-pokemon-and-oreo-coming-this-fall/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/25734/xl-games-transfers-archeage-ip-for-392-billion-won-development-of-chronicles-continues",
     "https://www.invenglobal.com/articles/25733/sega-holds-autumn-sale-for-major-titles-ending-sept-23",
     "https://www.invenglobal.com/articles/25732/nexon-foundation-holds-traditional-craft-exhibition-for-the-kingdom-of-the-winds-30th-anniversary",
-    "https://www.invenglobal.com/articles/25731/hanwha-life-esports-and-t1-confident-in-3-1-victory-for-spot-in-lck-finals"
+    "https://www.invenglobal.com/articles/25731/hanwha-life-esports-and-t1-confident-in-3-1-victory-for-spot-in-lck-finals",
+    "https://www.invenglobal.com/articles/25729/netmarble-rolls-out-major-september-update-for-rf-online-next",
+    "https://www.invenglobal.com/articles/25730/aion-2-adds-highest-difficulty-sanctuary-snowfield-of-sorrow",
+    "https://www.invenglobal.com/articles/25728/soop-allows-users-to-purchase-stream-donation-items-via-google-play-points",
+    "https://www.invenglobal.com/articles/25727/astrae-oratio-releases-character-introduction-video-for-sakuba-yuki",
+    "https://www.invenglobal.com/articles/25726/smilegate-founder-kwon-hyuk-bin-to-transfer-35-stake-to-spouse",
+    "https://www.invenglobal.com/articles/25704/lineage-m-unveils-massive-update-the-golden-age"
   ],
   "title_hashes": [
-    "5e3848014262f1fb99aab4da20984b30",
-    "f6fa8ec639c0ea4887421e6711e2bd60",
-    "c897caea5530ef4bfd4b916384090b1a",
-    "d5c0caa34a2a25a30b2beca9a983f8fe",
-    "ab59615dbdf2dd5d733f12149299e301",
-    "4ad410d94c928e0096d93c3ec591559e",
     "e9923d4d90ba6768c4fcdcca6f6378c2",
     "7ee3d8b0e3fb19f38ee01b1f09d3755e",
     "14a51efd7c71cca8358cb49d4ad1d3ab",
@@ -16001,7 +15995,13 @@
     "fe7029fb9c6f392ac0cf6281e9810ae5",
     "5bdab426925ecdfa9641db512aac412c",
     "4b5dadae7f2b19ba90a82007e27a75f2",
-    "21e346d84e40579b6ba5a2436ae156e0"
+    "21e346d84e40579b6ba5a2436ae156e0",
+    "7421dc4f9e11d7b4ffbb1e0334852928",
+    "d6e1e223d3b65741d647009526a2cf6d",
+    "edd79d2263319d5782a40a79df815f11",
+    "7f86565848015283e9027fc2bd4104c9",
+    "31abb14de39995263cafd9acb017b1cb",
+    "30cc072acc65488aad5abea3ff4eb62b"
   ],
   "transfers": {
     "pages": {
@@ -21156,6 +21156,26 @@
     {
       "t": "1 2026 3 8 announced attended bank chzzk coac confident day esports event finals games gamesriot gen hanwha head held jongno lck life lol media park riot seoul september spot t1 that victory woori",
       "ts": 1788948534.3934567
+    },
+    {
+      "t": "9 announced core featuring has major mmorpg netmarble netmarblenetmarble next online out released rolls september that update world",
+      "ts": 1788948539.7445335
+    },
+    {
+      "t": "2 9 adds aion all among content difficulty features highest level mmorpg ncon new pve sanctuary september snowfield sorrow updated",
+      "ts": 1788948546.182972
+    },
+    {
+      "t": "allows benefits donation exchange expanding google integration introducing items live play points program purchase reward service soop stream streaming that user users via",
+      "ts": 1788948549.7107658
+    },
+    {
+      "t": "000 80 astrae celebrate channels character combined followers game global has introduction its official oratio orationc reaching released releases rpg sakuba special subculture through video yuki",
+      "ts": 1788948553.0816236
+    },
+    {
+      "t": "9th age class content golden including its lineage massive mmorpg ncsoft ncsoftncsoft new opened out reboot rolling sequentially servers unveiled unveils update",
+      "ts": 1788948556.5374334
     }
   ]
 }
