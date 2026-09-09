@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/03/intema-acquires-loot-bet-platform/",
-    "https://thebusinessofesports.com/2021/06/03/first-mini-led-gaming-monitor-coming-soon/",
-    "https://thebusinessofesports.com/2021/06/02/btobet-agrees-to-partnership-with-apcopay/",
-    "https://thebusinessofesports.com/2021/06/02/business-of-esports-tv-ps-games-for-pc/",
-    "https://thebusinessofesports.com/2021/06/02/business-of-esports-minute-050-owl-cdl-get-drunk-sony-esports-betting-nfl-skillz-game/",
-    "https://thebusinessofesports.com/2021/06/01/__trashed-57__trashed/",
     "https://thebusinessofesports.com/2021/06/01/14035/",
     "https://thebusinessofesports.com/2021/06/01/esports-charts-partners-with-tundra-esports/",
     "https://thebusinessofesports.com/2021/05/31/nfl-and-skillz-begin-accepting-submissions-for-mobile-esports-game/",
@@ -7999,15 +7993,15 @@
     "https://dotesports.com/hardware/reviews/sony-inzone-h6-air-headphones-review",
     "https://dotesports.com/league-of-legends/news/lol-voice-chat-release-date",
     "https://dotesports.com/league-of-legends/guides/lec-xpo-nice-2026",
-    "https://dotesports.com/general/news/ti-regional-breakdown-eastern-europe-china"
+    "https://dotesports.com/general/news/ti-regional-breakdown-eastern-europe-china",
+    "https://www.dexerto.com/apex-legends/apex-legends-star-imperialhal-says-the-game-sucks-now-and-has-lost-its-identity-3399139/",
+    "https://insider-gaming.com/metroid-ravenous-confirmed-as-next-2d-title/",
+    "https://insider-gaming.com/viral-game-meccha-chameleon-coming-to-nintendo-switch-2/",
+    "https://insider-gaming.com/pokemon-pokopia-expansion-pass-part-2-details-revealed/",
+    "https://insider-gaming.com/the-last-caretaker-coming-game-pass-1-launch/",
+    "https://insider-gaming.com/nintendo-direct-september-9-showcase-everything-announced/"
   ],
   "title_hashes": [
-    "725ab84848e585144688d9a57170f5a0",
-    "81f8369aa90d27ba86d2f6e84f0cdcb0",
-    "40d3360dcb67b8b5d1611a7350780c1e",
-    "1eb29468cf9111e4f2d08299d757e317",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "c0fbe59612f50a75bc447291517e0a37",
     "6167ad17a023ac59a38736fde684d0b3",
     "27a0a8edf54a15c315385581d66aa6a0",
     "f675a6b3f13452331e1d9f0f1517c04a",
@@ -16001,7 +15995,13 @@
     "5c18e4a48138f219517a09632f7425fa",
     "c7965b16803c2401b8a0f0bf54031d94",
     "76f0d05180be2f54f76da564b8796c3a",
-    "98a13f876dd9da22bf7639ce31476398"
+    "98a13f876dd9da22bf7639ce31476398",
+    "bef9df4d0dbb22cae3e71ee42a3188e2",
+    "32f9a849243c4276118cf05c16efa1bb",
+    "a3f04cfd86035879cf4d961879877ad8",
+    "3c784e5cf2c834a56a9c79a39f186f67",
+    "9d74d442ab001a6f7e29b0a4de55a25a",
+    "378bf80826714528f3130937e4546d76"
   ],
   "transfers": {
     "pages": {
@@ -21200,6 +21200,26 @@
     {
       "t": "2011 2026 aegis away center china covering data decisively eastern era europe every has modern new numbers owns prove shifted shows spirit story team toward",
       "ts": 1788964575.861016
+    },
+    {
+      "t": "2d 9 appe chapter confirmed direct game hello metroid new next nintendo post ravenous real say september teased title",
+      "ts": 1788964582.6535444
+    },
+    {
+      "t": "2 announced appeare chameleon coming details direct game here latest meccha more nintendo post releasing switch that viral will",
+      "ts": 1788964586.064811
+    },
+    {
+      "t": "2 2026 additional appea been details expansion have later more part pass pokopia pokémon post releasing revealed second",
+      "ts": 1788964589.5715888
+    },
+    {
+      "t": "0 1 appeared caretaker coming first game haunting hits ins last launch next pass post stunning survival when xbox year",
+      "ts": 1788964593.0839856
+    },
+    {
+      "t": "9 about announced cards direct everything got know mega need nintendo post september show showcase you",
+      "ts": 1788964596.5237105
     }
   ]
 }
