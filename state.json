@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/03/episode-134-enthusiast-gaming-strategy-content-community-are-king-xqc-success-luminosity-coldplay-astralis-lan-centers/",
-    "https://thebusinessofesports.com/2021/06/03/esports-technologies-ramping-up-activities-in-late-may-early-june/",
-    "https://thebusinessofesports.com/2021/06/03/zoomd-signs-user-acquisition-services-extension-agreement-with-fugo-games/",
-    "https://thebusinessofesports.com/2021/06/03/business-of-esports-tv-yougov-insights-esports-fans/",
-    "https://thebusinessofesports.com/2021/06/03/gamesquare-esports-unveils-1q-financial-results/",
     "https://thebusinessofesports.com/2021/06/03/intema-acquires-loot-bet-platform/",
     "https://thebusinessofesports.com/2021/06/03/first-mini-led-gaming-monitor-coming-soon/",
     "https://thebusinessofesports.com/2021/06/02/btobet-agrees-to-partnership-with-apcopay/",
@@ -7999,14 +7994,14 @@
     "https://www.vlr.gg/747744/mini-quot-i-think-vitality-is-our-closest-shot-and-has-the-caliber-to-make-a-deep-run-quot",
     "https://www.hltv.org/news/45488/xenn-we-can-improve-a-lot-of-the-things-we-did-wrong-here",
     "https://www.hltv.org/news/45482/sidde-we-cant-only-base-the-tournaments-we-attend-on-our-schedule-or-on-whats-convenient",
-    "https://dotesports.com/general/news/steam-achievements-leak-biggest-games-revealed"
+    "https://dotesports.com/general/news/steam-achievements-leak-biggest-games-revealed",
+    "https://dotesports.com/general/news/vct-2027-open-qualifiers-dates-regions-prize",
+    "https://dotesports.com/hardware/reviews/sony-inzone-h6-air-headphones-review",
+    "https://dotesports.com/league-of-legends/news/lol-voice-chat-release-date",
+    "https://dotesports.com/league-of-legends/guides/lec-xpo-nice-2026",
+    "https://dotesports.com/general/news/ti-regional-breakdown-eastern-europe-china"
   ],
   "title_hashes": [
-    "7a9b9f7a6a5005b646dafbf50e76d124",
-    "d739d6de958e78fedcf149f569b8e6e9",
-    "15876b4dbea2d4ff5ead49d3209cd7b6",
-    "df4352d88bdda2860ec633361cec1692",
-    "27a0a8edf54a15c315385581d66aa6a0",
     "725ab84848e585144688d9a57170f5a0",
     "81f8369aa90d27ba86d2f6e84f0cdcb0",
     "40d3360dcb67b8b5d1611a7350780c1e",
@@ -16001,7 +15996,12 @@
     "c782642adfbdc294a406915c48644bfa",
     "ab2f9fcaf3b36c17ca34da38e4d14409",
     "7004eebeb5d289993f0ef5f25e9f0d3d",
-    "be90315d4f1f3ca254f3722ee01d4155"
+    "be90315d4f1f3ca254f3722ee01d4155",
+    "3bdcb78ee1ccba4f72bb2c966937f34f",
+    "5c18e4a48138f219517a09632f7425fa",
+    "c7965b16803c2401b8a0f0bf54031d94",
+    "76f0d05180be2f54f76da564b8796c3a",
+    "98a13f876dd9da22bf7639ce31476398"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,26 @@
     {
       "t": "achievements another biggest day far games leak revealed steam",
       "ts": 1788964555.5502117
+    },
+    {
+      "t": "16 2026 2027 across begin cash champions genuine giving kickoff masters non november offer open partner qualifiers regions shot spots teams vct",
+      "ts": 1788964561.6241708
+    },
+    {
+      "t": "air clean comfort gamers grade h6 headphones inzone review solid sony sound studio upgrade",
+      "ts": 1788964565.1511514
+    },
+    {
+      "t": "bringing chat finally first later league legends ping riot talk team voice",
+      "ts": 1788964568.8025856
+    },
+    {
+      "t": "2026 activities fan festival here lec location meets nice schedule xpo",
+      "ts": 1788964572.384408
+    },
+    {
+      "t": "2011 2026 aegis away center china covering data decisively eastern era europe every has modern new numbers owns prove shifted shows spirit story team toward",
+      "ts": 1788964575.861016
     }
   ]
 }
