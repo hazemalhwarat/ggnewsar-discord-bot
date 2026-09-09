@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/19/edge-gaming-secures-2m-in-pre-seed-funding-round/",
-    "https://thebusinessofesports.com/2021/08/18/gold-town-games-teaming-up-with-vorto-gaming/",
-    "https://thebusinessofesports.com/2021/08/18/wrc-esports-championships-set-to-take-place-in-belgium-and-greece/",
-    "https://thebusinessofesports.com/2021/08/18/eloelo-secures-2-1m-investment-in-latest-funding-round/",
-    "https://thebusinessofesports.com/2021/08/18/envy-gaming-named-a-sponsor-of-gnf/",
     "https://thebusinessofesports.com/2021/08/18/nelson-gonzalez-and-frank-azor-join-gamecrafts-board-of-directors/",
     "https://thebusinessofesports.com/2021/08/18/draftkings-set-to-acquire-golden-nugget-online-gaming-for-1-56b/",
     "https://thebusinessofesports.com/2021/08/18/riot-expands-investment-in-chinese-esports-ecosystem-with-plans-to-open-a-studio-in-shanghai/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25700/diablo-immortal-to-launch-spawn-collaboration-on-the-29th",
     "https://www.invenglobal.com/articles/25702/haegin-names-three-cheerleaders-as-models-for-2026-professional-baseball-go",
     "https://www.invenglobal.com/articles/25701/pearl-abyss-releases-behind-the-scenes-video-on-crimson-desert-audio-production",
-    "https://www.invenglobal.com/articles/25698/2026-board-game-outing-to-be-held-in-heyri-on-the-12th"
+    "https://www.invenglobal.com/articles/25698/2026-board-game-outing-to-be-held-in-heyri-on-the-12th",
+    "https://www.invenglobal.com/articles/25699/five-pmang-web-board-games-collaborate-with-film-tazza",
+    "https://www.invenglobal.com/articles/25690/jaedong-i-will-keep-improving-until-i-win-a-championship-again",
+    "https://www.invenglobal.com/articles/25689/seed-2-shin-sang-moon-takes-1st-tyrant-lee-jae-dong-2nd-to-reach-quarterfinals",
+    "https://www.invenglobal.com/articles/25686/dragon-quest-monsters-4-combines-collecting-fun-with-charming-squishy-visuals",
+    "https://www.invenglobal.com/articles/25687/from-bianca-and-nera-to-500-monsters-developers-share-everything-about-dqm4"
   ],
   "title_hashes": [
-    "507626d6aced74be863bbdd68937405c",
-    "1849a1ea1fb14246407db4d1de1a8c0f",
-    "2286f8a00fa4e2f0ac2ea5669c175c4c",
-    "44dbc4b5c8a079133fe0e2afbd82831f",
-    "ffec64516e738ba3532d123f6647615e",
     "841e22d7c3f7d71271a28f5a958076d6",
     "15003a1e9e4eb80a83de375e7a63777f",
     "19993d5f1eec2908fd4d58d175af1bdb",
@@ -16001,7 +15996,12 @@
     "a37b1a6e498e716c9d7977480958e58b",
     "b8d9a72e7b1e211f3e7f6e9bec1dbe17",
     "537db73496f783eb6db68f279315fe7a",
-    "98dcc1d857db1152b42ad2170448dd8d"
+    "98dcc1d857db1152b42ad2170448dd8d",
+    "2f101dc0cf4883193b88635dace6b500",
+    "decf1904f33b89265244b7f4ffbb890c",
+    "d03704ed974d4315133df99d67e9c5c7",
+    "b2671a83111d25cfb4fb5130d852ff74",
+    "6c1bddfcd6fa9e9336651e399ae3d291"
   ],
   "transfers": {
     "pages": {
@@ -21196,6 +21196,26 @@
     {
       "t": "12 12th 13 2026 area art board boardgames center community con festival free game held heyri hold korea organized outing paju september village will",
       "ts": 1788948575.7162542
+    },
+    {
+      "t": "9 announced beelzebub board colla collaborate collaboration film five games holding its movie neowizneowiz participating pmang september song tazza that this web",
+      "ts": 1788948580.9950829
+    },
+    {
+      "t": "again championship improving jaedong keep overcame tyrant until will win zerg zvz",
+      "ts": 1788948584.435575
+    },
+    {
+      "t": "16 1st 2 22 2nd 8th asl daechi dong freecup google group held jae lee matches moon play quarterfinals reach round sang season seed seoul shin studio takes tyrant",
+      "ts": 1788948587.926885
+    },
+    {
+      "t": "4 always charming collecting combines dragon enixpopularity fun isn like monsters quest series square squishy this used visuals wasn what",
+      "ts": 1788948591.354358
+    },
+    {
+      "t": "500 about based bianca collecting developers dqm4 dragon entry everything has its latest monster monsters nera off quest returned series share spin",
+      "ts": 1788948594.8123944
     }
   ]
 }
