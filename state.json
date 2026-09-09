@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/19/ikea-making-several-moves-to-enter-the-world-of-gaming/",
-    "https://thebusinessofesports.com/2021/08/19/apc-by-schneider-electric-partners-with-w7m-gaming/",
-    "https://thebusinessofesports.com/2021/08/19/collaboration-between-pokemon-and-oreo-coming-this-fall/",
-    "https://thebusinessofesports.com/2021/08/19/tencent-plans-to-use-facial-recognition-software-to-stop-minors-from-gaming-late-at-night/",
-    "https://thebusinessofesports.com/2021/08/19/fnatic-raises-17m-in-latest-round-of-funding/",
     "https://thebusinessofesports.com/2021/08/19/edge-gaming-secures-2m-in-pre-seed-funding-round/",
     "https://thebusinessofesports.com/2021/08/18/gold-town-games-teaming-up-with-vorto-gaming/",
     "https://thebusinessofesports.com/2021/08/18/wrc-esports-championships-set-to-take-place-in-belgium-and-greece/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25728/soop-allows-users-to-purchase-stream-donation-items-via-google-play-points",
     "https://www.invenglobal.com/articles/25727/astrae-oratio-releases-character-introduction-video-for-sakuba-yuki",
     "https://www.invenglobal.com/articles/25726/smilegate-founder-kwon-hyuk-bin-to-transfer-35-stake-to-spouse",
-    "https://www.invenglobal.com/articles/25704/lineage-m-unveils-massive-update-the-golden-age"
+    "https://www.invenglobal.com/articles/25704/lineage-m-unveils-massive-update-the-golden-age",
+    "https://www.invenglobal.com/articles/25703/dave-the-diver-surpasses-10-million-copies-sold-worldwide",
+    "https://www.invenglobal.com/articles/25700/diablo-immortal-to-launch-spawn-collaboration-on-the-29th",
+    "https://www.invenglobal.com/articles/25702/haegin-names-three-cheerleaders-as-models-for-2026-professional-baseball-go",
+    "https://www.invenglobal.com/articles/25701/pearl-abyss-releases-behind-the-scenes-video-on-crimson-desert-audio-production",
+    "https://www.invenglobal.com/articles/25698/2026-board-game-outing-to-be-held-in-heyri-on-the-12th"
   ],
   "title_hashes": [
-    "e9923d4d90ba6768c4fcdcca6f6378c2",
-    "7ee3d8b0e3fb19f38ee01b1f09d3755e",
-    "14a51efd7c71cca8358cb49d4ad1d3ab",
-    "0d899433c3b7d1fb979bdb5b08a6974d",
-    "ea632f34e1491c905075e32fa0f34425",
     "507626d6aced74be863bbdd68937405c",
     "1849a1ea1fb14246407db4d1de1a8c0f",
     "2286f8a00fa4e2f0ac2ea5669c175c4c",
@@ -16001,7 +15996,12 @@
     "edd79d2263319d5782a40a79df815f11",
     "7f86565848015283e9027fc2bd4104c9",
     "31abb14de39995263cafd9acb017b1cb",
-    "30cc072acc65488aad5abea3ff4eb62b"
+    "30cc072acc65488aad5abea3ff4eb62b",
+    "cb45114c9d6307936c16c7409bef1e33",
+    "a37b1a6e498e716c9d7977480958e58b",
+    "b8d9a72e7b1e211f3e7f6e9bec1dbe17",
+    "537db73496f783eb6db68f279315fe7a",
+    "98dcc1d857db1152b42ad2170448dd8d"
   ],
   "transfers": {
     "pages": {
@@ -21176,6 +21176,26 @@
     {
       "t": "9th age class content golden including its lineage massive mmorpg ncsoft ncsoftncsoft new opened out reboot rolling sequentially servers unveiled unveils update",
       "ts": 1788948556.5374334
+    },
+    {
+      "t": "10 9th adventure announced copies dave diver game globally has hereinafter hybrid its million mintrocket ocean sold surpassed surpasses that worldwide",
+      "ts": 1788948561.9467735
+    },
+    {
+      "t": "29th blizzard book collaboration comic created creator diablo entertainment entertainmentblizzard game immortal introduce launch mcfarla partnership spawn todd will",
+      "ts": 1788948565.416232
+    },
+    {
+      "t": "2026 9 advertising announced baseba baseball bin brand casual cheerleaders cheon haegin haeginhaegin has hyun idle its lee mobile models names professional selected seo september sook that three yoon",
+      "ts": 1788948568.864281
+    },
+    {
+      "t": "9 abyss audio behind channel crimson desert detailing music official pearl process production released releases scenes september video youtube",
+      "ts": 1788948572.2821336
+    },
+    {
+      "t": "12 12th 13 2026 area art board boardgames center community con festival free game held heyri hold korea organized outing paju september village will",
+      "ts": 1788948575.7162542
     }
   ]
 }
