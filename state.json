@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/19/hunter-games-partnering-with-advantage-club/",
-    "https://thebusinessofesports.com/2021/05/19/study-shows-xbox-game-pass-helps-europeans-stay-connected/",
-    "https://thebusinessofesports.com/2021/05/19/sprout-unveils-partnership-with-epos/",
-    "https://thebusinessofesports.com/2021/05/19/business-of-esports-tv-blockchain-gaming/",
-    "https://thebusinessofesports.com/2021/05/18/mavi-bids-farewell-to-orange-rock-esports/",
     "https://thebusinessofesports.com/2021/05/18/rival-technologies-and-reach3-launch-mobile-gaming-tool/",
     "https://thebusinessofesports.com/2021/05/18/copa-netenho-announces-two-new-sponsors/",
     "https://thebusinessofesports.com/2021/05/18/bus-simulator-21-will-feature-mercedes-benz-vehicles/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25719/team42-unveils-two-new-titles-at-g-star-2026",
     "https://www.invenglobal.com/articles/25718/line-games-starts-playtest-for-amazing-slot-survivor",
     "https://www.invenglobal.com/articles/25716/river-city-survivors-downtown-of-the-dead-launches-october-1",
-    "https://www.invenglobal.com/articles/25717/pubg-mobile-unveils-vampire-battlefield-bloodhunt"
+    "https://www.invenglobal.com/articles/25717/pubg-mobile-unveils-vampire-battlefield-bloodhunt",
+    "https://www.invenglobal.com/articles/25713/kartrider-rush-collaborates-with-alpha-drive-one",
+    "https://www.invenglobal.com/articles/25715/nc-starts-pre-registration-for-lineage-classic-episode-aden",
+    "https://www.invenglobal.com/articles/25714/netmarble-adds-5-star-vivian-to-mongil-star-dive",
+    "https://www.invenglobal.com/articles/25711/nexon-unveils-cinematic-teaser-for-temppal-overgeared",
+    "https://www.invenglobal.com/articles/25712/league-of-legends-reveals-season-3-act-2-teases-team-voice-chat"
   ],
   "title_hashes": [
-    "589c3d87a28c963596e70ac80727c84f",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "66ca289c34187e54e57600b55f519403",
-    "95030bd11991866cb21c9d31aa0349a6",
-    "14df7190d3c79ae958a08c9704510967",
     "710a73c1c6ebd33d79e8b4a70c912f0f",
     "27a0a8edf54a15c315385581d66aa6a0",
     "317103ae8a2ea7cb541a954571108535",
@@ -16001,7 +15996,12 @@
     "d4ae47f8844c2d12dfee3bd6846081d7",
     "3da0ae70bddcd0670093e71fd80a46a4",
     "801ae3ca2f6613ca08ea8720f47ad30b",
-    "59a759aef5302e3a59e8c696713f0546"
+    "59a759aef5302e3a59e8c696713f0546",
+    "93859babce92e6efa3b26a6e041f1041",
+    "cca23ff769d0f4e399429587fb788105",
+    "1391bd054a8523f178e558eaa90f0d7b",
+    "823a1cdcb193ae54701e7cb5afbc5645",
+    "e8be048871fcd8ab027484053a05eab1"
   ],
   "transfers": {
     "pages": {
@@ -21236,6 +21236,26 @@
     {
       "t": "9 announced based battlefield bloodhunt concept introducing kraftonkrafton mobile mode new pubg september that themed through unveils update vampire",
       "ts": 1788932371.8086956
+    },
+    {
+      "t": "22nd 9th ald1 alpha announced between collaborates collaboration drive game group holding its kartrider mobile nexon nexonnexon one plan pop racing rush that",
+      "ts": 1788932377.478677
+    },
+    {
+      "t": "9th aden began classic episode featuring introduce its kingdom lineage ncnc new pre region registration server starts stories surrounding throne will",
+      "ts": 1788932381.1466286
+    },
+    {
+      "t": "5 9 added adds announced character dive has mongil monster netmarble netmarblenetmarble new september star that vivian",
+      "ts": 1788932384.8314614
+    },
+    {
+      "t": "40 9 cinematic development first game games gray mmorpg new nexon overgeared released second september showcases teaser temppal through under unveils video world",
+      "ts": 1788932388.5258265
+    },
+    {
+      "t": "2 2026 3 act chat communication games gamesriot improvements introduce late league legend legends life new october overall quality reveals riot season system team teases through update voice will",
+      "ts": 1788932392.1639733
     }
   ]
 }
