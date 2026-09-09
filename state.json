@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/20/apple-reportedly-working-on-portable-console/",
-    "https://thebusinessofesports.com/2021/05/20/team-secret-unveils-dmscript-partnership/",
-    "https://thebusinessofesports.com/2021/05/20/start-up-sky-mavis-secures-7-5m-in-funding/",
-    "https://thebusinessofesports.com/2021/05/20/oracle-launches-ad-measurement-technology-for-3d-in-game-environments/",
-    "https://thebusinessofesports.com/2021/05/20/business-of-esports-tv-the-gaming-chair-market/",
-    "https://thebusinessofesports.com/2021/05/19/garena-and-3c-gaming-announce-latin-america-clash-2021-event/",
     "https://thebusinessofesports.com/2021/05/19/hunter-games-partnering-with-advantage-club/",
     "https://thebusinessofesports.com/2021/05/19/study-shows-xbox-game-pass-helps-europeans-stay-connected/",
     "https://thebusinessofesports.com/2021/05/19/sprout-unveils-partnership-with-epos/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/25725/nexpace-posts-3098-million-nxpc-in-first-half-protocol-revenue",
     "https://www.invenglobal.com/articles/25724/pre-registration-begins-for-aden-featuring-time-limited-weapons",
     "https://www.invenglobal.com/articles/25723/three-time-worlds-champions-guma-keria-duo-set-for-fierce-battle-over-finals-spot",
-    "https://www.invenglobal.com/articles/25722/record-breaking-lineup-and-korean-subculture-showdowns-promise-thrills-at-tokyo-game-show-2026"
+    "https://www.invenglobal.com/articles/25722/record-breaking-lineup-and-korean-subculture-showdowns-promise-thrills-at-tokyo-game-show-2026",
+    "https://www.invenglobal.com/articles/25721/level-35-only-infinite-battle-renewed",
+    "https://www.invenglobal.com/articles/25720/elixir-selection-chest-crafting-now-available-beware-of-failure-rate",
+    "https://www.invenglobal.com/articles/25719/team42-unveils-two-new-titles-at-g-star-2026",
+    "https://www.invenglobal.com/articles/25718/line-games-starts-playtest-for-amazing-slot-survivor",
+    "https://www.invenglobal.com/articles/25716/river-city-survivors-downtown-of-the-dead-launches-october-1",
+    "https://www.invenglobal.com/articles/25717/pubg-mobile-unveils-vampire-battlefield-bloodhunt"
   ],
   "title_hashes": [
-    "19325b7ff40c15aead9e3bbb7480c984",
-    "9a686cb354fa47b82e2140845f33ddb9",
-    "4e44aa3a14f5691587cf5d208a9816d2",
-    "c3b819adb6f4508e10f25513b7623cc0",
-    "483c4890fc42c626ccadd0353c8f51d7",
-    "ea2b2676c28c0db26d39331a336c6b92",
     "589c3d87a28c963596e70ac80727c84f",
     "27a0a8edf54a15c315385581d66aa6a0",
     "66ca289c34187e54e57600b55f519403",
@@ -16001,7 +15995,13 @@
     "6320a292368458c7399f20b0ef1b0786",
     "5c0403c58d124c1d3369597a5f36ba8d",
     "6a4f7ffffa3aa85b3a1e4adee089021e",
-    "9d28d3073ea5f025329326d7d5b8fa7d"
+    "9d28d3073ea5f025329326d7d5b8fa7d",
+    "5a82c492ec1e45413b041908a2ecf7d3",
+    "9cb536bcdd00d6e0f24565aa7562dbb9",
+    "d4ae47f8844c2d12dfee3bd6846081d7",
+    "3da0ae70bddcd0670093e71fd80a46a4",
+    "801ae3ca2f6613ca08ea8720f47ad30b",
+    "59a759aef5302e3a59e8c696713f0546"
   ],
   "transfers": {
     "pages": {
@@ -21216,6 +21216,26 @@
     {
       "t": "17 1996 2026 21 30th anniversary breaking cesacelebrating established firmly game has inception its itself korean lineup makuhari messe place premier promise record september show showdowns since subculture take tgs this thrills tokyo will year",
       "ts": 1788932351.9844031
+    },
+    {
+      "t": "10 35 across battle been colosseums content daily giran has infinite level now only place previously renewed scattered takes towns twice various village",
+      "ts": 1788932357.3306317
+    },
+    {
+      "t": "acquire available beware chest crafting elixir failure new now rate route selection stat",
+      "ts": 1788932360.8992171
+    },
+    {
+      "t": "100 19 2026 22 b2c bexco booth busan company deduction event game held host its mafi mobile new november showcase space star team42 team42team42 titles two unveils will",
+      "ts": 1788932364.5858486
+    },
+    {
+      "t": "1 announced apple arc arcade asia city dead downtown exclusive its launch launches new october river surv survivors system that title will works worksarc",
+      "ts": 1788932368.2450724
+    },
+    {
+      "t": "9 announced based battlefield bloodhunt concept introducing kraftonkrafton mobile mode new pubg september that themed through unveils update vampire",
+      "ts": 1788932371.8086956
     }
   ]
 }
