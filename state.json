@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/18/rival-technologies-and-reach3-launch-mobile-gaming-tool/",
-    "https://thebusinessofesports.com/2021/05/18/copa-netenho-announces-two-new-sponsors/",
-    "https://thebusinessofesports.com/2021/05/18/bus-simulator-21-will-feature-mercedes-benz-vehicles/",
-    "https://thebusinessofesports.com/2021/05/18/queens-gaming-collective-secures-investment-from-nfler-juju-smith-schuster/",
-    "https://thebusinessofesports.com/2021/05/18/esports-certification-institute-to-issue-refund-for-exams/",
-    "https://thebusinessofesports.com/2021/05/18/eeg-partners-with-helix-esports-to-host-lcs-proving-grounds-tournament/",
     "https://thebusinessofesports.com/2021/05/18/malaysian-ministry-of-youth-and-sports-looking-into-proposed-esports-center/",
     "https://thebusinessofesports.com/2021/05/18/sources-say-tencent-in-talks-with-u-s-to-keep-hold-of-gaming-investments/",
     "https://thebusinessofesports.com/2021/04/03/allied-esports-experiences-5-stock-bump/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/25715/nc-starts-pre-registration-for-lineage-classic-episode-aden",
     "https://www.invenglobal.com/articles/25714/netmarble-adds-5-star-vivian-to-mongil-star-dive",
     "https://www.invenglobal.com/articles/25711/nexon-unveils-cinematic-teaser-for-temppal-overgeared",
-    "https://www.invenglobal.com/articles/25712/league-of-legends-reveals-season-3-act-2-teases-team-voice-chat"
+    "https://www.invenglobal.com/articles/25712/league-of-legends-reveals-season-3-act-2-teases-team-voice-chat",
+    "https://www.invenglobal.com/articles/25710/higher-mr-warding-accessories-crafting-recipes-added",
+    "https://www.invenglobal.com/articles/25709/equipment-enhancement-without-destruction-key-highlights-of-the-september-9-patch",
+    "https://www.invenglobal.com/articles/25708/select-dusk-of-doom-via-weekly-quests-black-desert-sep-9-patch-summary",
+    "https://www.invenglobal.com/articles/25707/white-house-removes-tetris-style-game",
+    "https://www.invenglobal.com/articles/25706/you-can-climb-hell-what-changed-in-paradise-season-4",
+    "https://www.invenglobal.com/articles/25705/lineage-w-overhauls-weekly-boss-schedule"
   ],
   "title_hashes": [
-    "710a73c1c6ebd33d79e8b4a70c912f0f",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "317103ae8a2ea7cb541a954571108535",
-    "b4fd124837920dcff1cc1c88ea08a26e",
-    "0ef4c480b36473048e4ac9b90b22cf2b",
-    "4f1caedb5535318fa554405bbe622f29",
     "0af4e6134e20301c0f806f732f25c023",
     "020fb9104c9e36a21c73f0ca9e84e914",
     "59e7fd49d62714bac35a0dc1f7ae5ed7",
@@ -16001,7 +15995,13 @@
     "cca23ff769d0f4e399429587fb788105",
     "1391bd054a8523f178e558eaa90f0d7b",
     "823a1cdcb193ae54701e7cb5afbc5645",
-    "e8be048871fcd8ab027484053a05eab1"
+    "e8be048871fcd8ab027484053a05eab1",
+    "7a8eb4189fce638e36ad8120d36a16cf",
+    "96450f9266bbbccf39872dd45241619d",
+    "c1a2ece5f7f6bbce04dd889451837593",
+    "0ed651dc626aa934a52f340358c1dbcd",
+    "8461bddca07d56484ee680e61d805697",
+    "28e77eafc01a118189f5b992e2328c67"
   ],
   "transfers": {
     "pages": {
@@ -21256,6 +21256,26 @@
     {
       "t": "2 2026 3 act chat communication games gamesriot improvements introduce late league legend legends life new october overall quality reveals riot season system team teases through update voice will",
       "ts": 1788932392.1639733
+    },
+    {
+      "t": "accessories added been can craft crafting giran has higher items jeweler necklace players recipes resistance ring sebas series tier unlocked village visit ward warding",
+      "ts": 1788932397.6998613
+    },
+    {
+      "t": "9 black desert doom dusk patch quests select sep september summary updated via wednesday weekly",
+      "ts": 1788932401.2419083
+    },
+    {
+      "t": "about border build building game has house housethe its official removed removes style tetris wall web website white",
+      "ts": 1788932404.798449
+    },
+    {
+      "t": "14 16 4 9 ark can changed climb december hell its kicked lost maintenance off paradise regular run season september total until update weeks what will you",
+      "ts": 1788932408.343495
+    },
+    {
+      "t": "9 boss lineage ncsoft out overhauls rolled schedule september this update week weekly",
+      "ts": 1788932412.123559
     }
   ]
 }
