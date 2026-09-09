@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/04/26/report-bilibili-obtains-overwatch-league-broadcast-rights-in-china/",
-    "https://thebusinessofesports.com/2021/04/26/secretlab-unveils-mortal-kombat-gaming-chairs/",
-    "https://thebusinessofesports.com/2021/04/26/report-talks-between-microsoft-and-discord-end/",
-    "https://thebusinessofesports.com/2021/04/26/tencent-esports-agrees-to-bring-more-gaming-to-wuhan/",
-    "https://thebusinessofesports.com/2021/04/26/gaming-records-still-being-broken-over-a-year-into-the-pandemic/",
-    "https://thebusinessofesports.com/2021/04/26/ubisoft-launches-own-gaming-channel/",
     "https://thebusinessofesports.com/2021/04/26/csl-esports-partnering-with-singleton-foundation/",
     "https://thebusinessofesports.com/2021/04/26/youtuber-lachlan-power-explains-how-to-make-a-career-out-of-gaming/",
     "https://thebusinessofesports.com/2021/04/26/audio-eyeware-brings-a-new-dimension-to-gaming/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/25749/metal-slug-announces-ultimate-collection-featuring-every-title-in-the-franchise",
     "https://www.invenglobal.com/articles/25748/oatchi-jump-pikmin-4-nintendo-switch-2-edition-announced",
     "https://www.invenglobal.com/articles/25747/the-apothecary-diaries-returns-as-a-mystery-game",
-    "https://www.invenglobal.com/articles/25746/blizzard-union-secures-bargaining-rights-over-ai-implementation"
+    "https://www.invenglobal.com/articles/25746/blizzard-union-secures-bargaining-rights-over-ai-implementation",
+    "https://www.invenglobal.com/articles/25745/a-world-beyond-the-world-kirby-and-the-world-beyond-coming-spring-2027",
+    "https://www.invenglobal.com/articles/25744/romancing-saga-3-remake-revealed-launching-february-16-2027",
+    "https://www.invenglobal.com/articles/25743/mega-man-dual-override-reveals-proto-man-gameplay-trailer",
+    "https://www.invenglobal.com/articles/25742/persona-6-coming-to-nintendo-switch-2-as-well",
+    "https://www.invenglobal.com/articles/25741/new-2d-metroid-title-metroid-ravenous-revealed",
+    "https://www.invenglobal.com/articles/25740/star-fox-receives-free-update-on-september-30"
   ],
   "title_hashes": [
-    "a27e7240d8507c93103527b7b17a5c2e",
-    "ae37583f13afdf68e44a594bad06e552",
-    "43b963f69c772f57dd88710222d645d7",
-    "99814cf54662621cb116d12b50e7424a",
-    "4b265a7740d7f884befc1b0d91f879d9",
-    "5d4b21c02b74c391b2d20010521eb12b",
     "0c2d028c52d4c8c3009e96a7ddf7ed2c",
     "e98d2f001da5678b39482efbdf5770dc",
     "3a89bda87fb68090d302f3a7fc7ad166",
@@ -16001,7 +15995,13 @@
     "8fd9348c27101846bd292ac590816f00",
     "c031cd91c11fad70ee45cde5000f9ea9",
     "a144a894b2fbc136025b34aef5887b37",
-    "244108e53543dab5e10f9165d258c08d"
+    "244108e53543dab5e10f9165d258c08d",
+    "e8ebab2e1bd08a9ec5b88b1fd37a360d",
+    "b8ee148cfdfdaf80212f3068c37b4889",
+    "efeaec12f2377a5f240aa4903a65d985",
+    "af506c43c702b451d625b68bbc4accb1",
+    "49a0242340f4d89a3abb40b072044377",
+    "712ab688915f11e797c5c192efb9108b"
   ],
   "transfers": {
     "pages": {
@@ -21316,6 +21316,26 @@
     {
       "t": "1 900 agreement approximately bargaining blizzard blizzardthe collective covering employees has implementation over ratified rights secures union",
       "ts": 1788976894.170396
+    },
+    {
+      "t": "2027 beyond center close coming direct kirby latest new nintendo out spring stage title took world",
+      "ts": 1788976899.5902462
+    },
+    {
+      "t": "16 2 2027 3 destinies enix february following getting launching remake revealed revenge romancing saga seven square united",
+      "ts": 1788976903.2436879
+    },
+    {
+      "t": "2 20 2027 4 6 atlus coming launch may nintendo persona revival scheduled switch version well",
+      "ts": 1788976906.8791313
+    },
+    {
+      "t": "2d direct during entry latest metroid new nintendo ravenous revealed series title",
+      "ts": 1788976910.6652877
+    },
+    {
+      "t": "30 brings direct during entry features fox free kst live new newest nintendo receives september series star this unveiled update variety will",
+      "ts": 1788976914.1912096
     }
   ]
 }
