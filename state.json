@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/18/nelson-gonzalez-and-frank-azor-join-gamecrafts-board-of-directors/",
-    "https://thebusinessofesports.com/2021/08/18/draftkings-set-to-acquire-golden-nugget-online-gaming-for-1-56b/",
-    "https://thebusinessofesports.com/2021/08/18/riot-expands-investment-in-chinese-esports-ecosystem-with-plans-to-open-a-studio-in-shanghai/",
-    "https://thebusinessofesports.com/2021/08/18/ariana-grande-teams-up-with-fortnite-for-rift-tour-concert-series-and-in-game-activations/",
-    "https://thebusinessofesports.com/2021/08/18/buff-technologies-becomes-first-gaming-company-listed-on-tel-aviv-stock-exchange/",
-    "https://thebusinessofesports.com/2021/08/18/embracer-group-set-to-acquire-crazylabs/",
-    "https://thebusinessofesports.com/2021/08/18/reports-lcs-agrees-to-seven-year-partnership-with-ftx/",
-    "https://thebusinessofesports.com/2021/08/18/epic-games-store-reportedly-wont-be-profitable-until-2027/",
-    "https://thebusinessofesports.com/2021/08/18/cags-parth-das-plans-on-investing-100m-into-online-gaming/",
-    "https://thebusinessofesports.com/2021/08/17/tgs-completes-acquisition-of-even-matchup-gaming-unveils-college-esports-development-program/",
     "https://thebusinessofesports.com/2021/08/17/dota-2-esports-event-the-international-will-not-be-held-in-sweden/",
     "https://thebusinessofesports.com/2021/08/17/columbus-blue-jackets-gaming-unveils-upcoming-esports-tournament-series/",
     "https://thebusinessofesports.com/2021/08/17/hyperx-unveils-new-colorway-design-for-line-of-headsets-and-partners-with-faze-clan/",
@@ -7999,18 +7989,19 @@
     "https://www.invenglobal.com/articles/25690/jaedong-i-will-keep-improving-until-i-win-a-championship-again",
     "https://www.invenglobal.com/articles/25689/seed-2-shin-sang-moon-takes-1st-tyrant-lee-jae-dong-2nd-to-reach-quarterfinals",
     "https://www.invenglobal.com/articles/25686/dragon-quest-monsters-4-combines-collecting-fun-with-charming-squishy-visuals",
-    "https://www.invenglobal.com/articles/25687/from-bianca-and-nera-to-500-monsters-developers-share-everything-about-dqm4"
+    "https://www.invenglobal.com/articles/25687/from-bianca-and-nera-to-500-monsters-developers-share-everything-about-dqm4",
+    "https://www.dotabuff.com/blog/2026-09-08-next-patch-wishlist-the-melee-carry-conundrum",
+    "https://dotesports.com/hardware/reviews/zowie-xl2566x-400hz-gaming-monitor-review",
+    "https://dotesports.com/general/news/onimusha-way-sword-1-million-sales",
+    "https://dotesports.com/general/reviews/onimusha-way-of-the-sword-review-precise-action",
+    "https://esports.gg/news/league-of-legends/team-voice-chat/",
+    "https://esports.gg/news/counter-strike-2/fissure-playground-3-teams-matchups-results/",
+    "https://esports.gg/news/overwatch/overwatch-world-cup-2026-gets-new-starlight-champion-skins/",
+    "https://esports.gg/news/fortnite/rap-legend-lil-wayne-teases-a-fortnite-collab-where-we-dropping/",
+    "https://www.hltv.org/news/45487/mibr-and-legacy-secure-fpg-3-playoff-spots",
+    "https://www.hltv.org/news/45486/faze-out-in-last-place-at-fpg"
   ],
   "title_hashes": [
-    "841e22d7c3f7d71271a28f5a958076d6",
-    "15003a1e9e4eb80a83de375e7a63777f",
-    "19993d5f1eec2908fd4d58d175af1bdb",
-    "c3a10a20b4d9cf044464e115c90e73f6",
-    "5529453069fa3d3728b81379c31d6951",
-    "2d75cc10021a71f346fc5888413bc5a2",
-    "8ac0ecf5b68d0a35a9c849879f3c236a",
-    "86d7e91865c5c1674c6085bea1413d63",
-    "a8445719836f2d5e8b51986410e14728",
     "834199263b0d7cdc2116b5c7045eafc4",
     "d3b5cf205ee3832ff131553f5697cc31",
     "fc26e59d9d2ec7dc4064d2744aed8907",
@@ -16001,7 +15992,16 @@
     "decf1904f33b89265244b7f4ffbb890c",
     "d03704ed974d4315133df99d67e9c5c7",
     "b2671a83111d25cfb4fb5130d852ff74",
-    "6c1bddfcd6fa9e9336651e399ae3d291"
+    "6c1bddfcd6fa9e9336651e399ae3d291",
+    "9c191842124b9ff3d05a4a180168cd77",
+    "a08a1b4b9e9646af6f6b2646048ab625",
+    "bfd482d4891c0009d366a0d8a95f9f67",
+    "e005a814114e1415ca7f675cc39cd1b6",
+    "92b591ef1873f835cedbadf5a0b11a87",
+    "b915aa3bc65bb471338a370a75f70f06",
+    "af369887c26605a31f8ca3bb9a39602f",
+    "b38fdd8b7f0295f50709e8c8bc9397b3",
+    "95074f46e6828782e2d5ef36ede7fe5e"
   ],
   "transfers": {
     "pages": {
@@ -21216,6 +21216,26 @@
     {
       "t": "500 about based bianca collecting developers dqm4 dragon entry everything has its latest monster monsters nera off quest returned series share spin",
       "ts": 1788948594.8123944
+    },
+    {
+      "t": "400hz best built competitive esports gaming monitor monitors one players review xl2566x zowie",
+      "ts": 1788948600.4881606
+    },
+    {
+      "t": "adds chat flame get jungler league legends mics plug ready voice your",
+      "ts": 1788948604.037647
+    },
+    {
+      "t": "1 2 3 astralis beware big counter cs2 despite dogs fissure furia g2 good impressive matches million money participate playground pool prize promises share should skip some strike sure teams that they this those top tournament unde who",
+      "ts": 1788948607.4929945
+    },
+    {
+      "t": "3 american arena days fpg group have just left legacy matches mibr now playoff punched secure seeding south spots squads stage their tickets two",
+      "ts": 1788948610.997696
+    },
+    {
+      "t": "abrupt alliance came faze form fpg good got last magic out place run stop they upset",
+      "ts": 1788948614.699599
     }
   ]
 }
