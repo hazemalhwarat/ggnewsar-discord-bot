@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/03/live-video-game-streaming-hit-8-8b-hours-in-q1-2021/",
-    "https://thebusinessofesports.com/2021/05/03/blue-star-capital-makes-more-investments-into-dynasty-esports/",
-    "https://thebusinessofesports.com/2021/05/03/tgs-announces-earth-day-kick-off-of-new-esports-events-program/",
-    "https://thebusinessofesports.com/2021/05/03/microsoft-launching-video-game-streaming-service-on-iphone-and-pc/",
-    "https://thebusinessofesports.com/2021/05/03/tencent-investments-focus-on-gaming-in-q1-of-2021/",
     "https://thebusinessofesports.com/2021/05/03/business-of-esports-weekly-news-349/",
     "https://thebusinessofesports.com/2021/05/03/start-up-company-pragma-raises-12m/",
     "https://thebusinessofesports.com/2021/05/03/bungie-reportedly-developing-esports-multiplayer-game/",
@@ -7999,14 +7994,14 @@
     "https://esports-news.co.uk/2026/09/02/mcdonalds-uk-get-special-xbox-cross-over-menu-and-rewards/",
     "https://esports-news.co.uk/2026/09/01/fnatic-fail-to-make-worlds-for-the-first-time-in-ten-years/",
     "https://esports-news.co.uk/2026/09/01/esports-cost-uk-revealed/",
-    "https://insider-gaming.com/saudi-wealth-fund-considering-merging-ea-and-savvy-games/"
+    "https://insider-gaming.com/saudi-wealth-fund-considering-merging-ea-and-savvy-games/",
+    "https://insider-gaming.com/nba-the-run-announces-2000-legends-dlc/",
+    "https://insider-gaming.com/final-fantasy-7-revelations-parachuting-system-was-partly-inspired-by-fortnite/",
+    "https://insider-gaming.com/gta-6-extended-look-thousands-netflix-sign-ups/",
+    "https://insider-gaming.com/lego-astro-bot-gwp-set-leaks-online/",
+    "https://gameriv.com/true-damage-could-finally-return-to-league-of-legends-in-season-3-act-2/"
   ],
   "title_hashes": [
-    "e132830dcb51675358be1f24bd49cb88",
-    "dcbb206fe1aa1b0f06ff04328e8fa26a",
-    "8b99b1e52bfc0aa923590fd4c33b75df",
-    "7e4cc051e16f79cf6ec04f6f2ab70b3c",
-    "ba36339f1f11dd5da0d7ac3fa9e4efc1",
     "05e2c5860408a074f49399a2c6c39834",
     "779711c08b69ee87ac21707a159a2119",
     "a1787f6e3d488dc5b3b04e6df0c6e55a",
@@ -16001,7 +15996,12 @@
     "32733c0b3c3dad82249deafff51ea523",
     "634a7ba94638764bfd9cab00a25c47b7",
     "3fc9ec165b59a2b2e8016221533710af",
-    "1a8824f04ade34f114b79ff45439766e"
+    "1a8824f04ade34f114b79ff45439766e",
+    "65255c52495b4b965080c224937dc029",
+    "396b0d17db9a7802ca4f8c7d019495b3",
+    "28719b3bc82452d72f8b641ad9e23339",
+    "558f3f8d44a6c81397dc93875e0989b5",
+    "ba098e25a9c0bf9d3b67cb946c12cd92"
   ],
   "transfers": {
     "pages": {
@@ -21448,6 +21448,26 @@
     {
       "t": "according appeared arabia arts considering electronic first fund games group insid merger merging new post report saudi savvy wealth",
       "ts": 1789061621.1401362
+    },
+    {
+      "t": "2000 2000s ahead announced announces coming dlc has its later legends list major month nba one play post run studios this upd update wave",
+      "ts": 1789061626.9596157
+    },
+    {
+      "t": "7 8217 director during fantasy final fortnite game inspired interview key mechanic new parachuting partly post reveals revelation system",
+      "ts": 1789061630.4595914
+    },
+    {
+      "t": "10s 6 according analysis auto brought extended grand gta leads look netflix new post sign theft thousands trailer ups",
+      "ts": 1789061634.0527503
+    },
+    {
+      "t": "appeared aspects astro bot design details first gamin gift gwp has here insider leaked leaks lego more online other post purchase revealing set",
+      "ts": 1789061637.6869268
+    },
+    {
+      "t": "2 3 according act after away comeback could damage finally games its league leak legends making new preparing reportedly return riot season skins spotlight true years",
+      "ts": 1789061641.2061977
     }
   ]
 }
