@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/20/fnatic-partners-with-freeletics-and-kaspersky-unveils-esports-safeguarding-policies/",
-    "https://thebusinessofesports.com/2021/08/20/brooklyns-first-esports-center-opened-its-doors-in-june/",
-    "https://thebusinessofesports.com/2021/08/20/episode-145-music-x-gaming-gross-labs-find-your-grind-esports-scholarships-gta-oldies/",
-    "https://thebusinessofesports.com/2021/08/20/coinbase-enters-into-partnership-with-esl-gaming/",
-    "https://thebusinessofesports.com/2021/08/20/episode-145-video-music-x-gaming-gross-labs-find-your-grind-esports-scholarships-gta-greatest-hits/",
     "https://thebusinessofesports.com/2021/08/20/tribe-gaming-partners-with-elgato-secures-investment-from-spurs-sports-and-entertainment/",
     "https://thebusinessofesports.com/2021/08/20/gigabyte-xiaomi-and-viewsonic-all-release-new-gaming-monitors/",
     "https://thebusinessofesports.com/2021/05/20/eplay-digital-to-launch-fan-freak-app/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25780/prinny-party-going-overboard-demo-released",
     "https://www.invenglobal.com/articles/25779/jun-cloudtemplar-nofe-broadcast-trio-confirmed-for-spotv-as-2026-asian-games-lol-national-team-targets-gold",
     "https://www.invenglobal.com/articles/25777/sony-notified-us-of-project-cancellation-kojimas-new-title-physint-partners-with-xbox",
-    "https://www.invenglobal.com/articles/25778/rom-remember-of-majesty-opens-season-2-of-boosting-server-velba"
+    "https://www.invenglobal.com/articles/25778/rom-remember-of-majesty-opens-season-2-of-boosting-server-velba",
+    "https://www.invenglobal.com/articles/25776/romance-of-the-three-kingdoms-xiv-with-power-up-kit-complete-edition-released",
+    "https://www.invenglobal.com/articles/25775/ncs-new-title-limit-zero-breakers-begins-frontier-test",
+    "https://www.invenglobal.com/articles/25774/smilegate-hope-studio-launches-2026-palette-creative-workshop",
+    "https://www.invenglobal.com/articles/25772/mir-4-launches-chuseok-event-lunar-feast",
+    "https://www.invenglobal.com/articles/25773/2026-lck-as-second-half-league-opens-sept-12-joined-by-school-league-teams"
   ],
   "title_hashes": [
-    "397b5e3711dd103553b6bde4b532a0ef",
-    "188a97964622f5403b071b57d710c203",
-    "8d15ed762df30ea11faf9090ea4e928f",
-    "8198718a715138019e2c23e7b3b00db7",
-    "74551f1ba555c0e134e803631e79e75d",
     "06762a9f2d9dce655182fe3a57f94dbc",
     "9f4606adad06e53f9db93074c31a9b8d",
     "1dd3dd4a8a6e77cf85d1c2f8e5ff5e54",
@@ -16001,7 +15996,12 @@
     "b36a57a21c3a9c4cab90fdc0be5cafa2",
     "c73005e2aeed95bb16baac58b81e4d1d",
     "947ae9484a91e55f9bf9fd02589c6e43",
-    "b7a8c069e3e563b0cb8a6bbe5132d908"
+    "b7a8c069e3e563b0cb8a6bbe5132d908",
+    "e49b58476d5de92b345fcd41d594ce20",
+    "734d6c3115a8f3247af04f5e0fb371ed",
+    "e01505817ee9a8e547d7cc48e92497fa",
+    "be4af052a43d48064493e0d4f55fb2b7",
+    "1f82c86a48838e718130c853cf99b6a0"
   ],
   "transfers": {
     "pages": {
@@ -21312,6 +21312,26 @@
     {
       "t": "10th 2 announced boosting games gamesredlab hardcore has hereinafter launched limited majesty mmorpg opens redlab remember rom season server that velba",
       "ts": 1789017748.1685734
+    },
+    {
+      "t": "10th announced complete digital edition game games has historical kingdoms kit koei power released romance simulation tecmo that three touch touchdigital xiv",
+      "ts": 1789017753.6568573
+    },
+    {
+      "t": "action anime begins breakers ceos frontier game global hereinafter limit ncthe new playing published role rpg taek test title zero",
+      "ts": 1789017757.1721315
+    },
+    {
+      "t": "10th 2026 announced children conducting creative experiencing hope launches palette smilegate studio studiosmilegate support that workshop youth",
+      "ts": 1789017760.722497
+    },
+    {
+      "t": "10 4 8 chuseok event feast its kicked launches lunar mir mmorpg october off run september special through training wemade wemadeon will",
+      "ts": 1789017764.2330873
+    },
+    {
+      "t": "10 12 2026 academy announced association associationthe half joined kespa kick korea lck league opens school second sept september series sports teams that will",
+      "ts": 1789017767.7956975
     }
   ]
 }
