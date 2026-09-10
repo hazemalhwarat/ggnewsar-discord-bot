@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/22/weezer-to-open-summer-game-fest-2021/",
-    "https://thebusinessofesports.com/2021/06/21/foundry-iv-launches-first-mobile-gaming-product/",
-    "https://thebusinessofesports.com/2021/06/21/electronic-arts-acquires-metalhead-software/",
-    "https://thebusinessofesports.com/2021/06/21/vorto-gaming-receives-grant-to-develop-blockchain-esports-app/",
-    "https://thebusinessofesports.com/2021/06/21/ese-entertainment-signs-content-production-deal-with-bitcoin-vault/",
-    "https://thebusinessofesports.com/2021/06/21/hpd-teams-up-with-jas-motorsport-for-esports-academy/",
     "https://thebusinessofesports.com/2021/06/21/gala-games-announces-collaboration-with-comic-book-writer-frank-miller/",
     "https://thebusinessofesports.com/2021/06/21/atlanta-hawks-unveil-gaming-house-inside-teams-arena/",
     "https://thebusinessofesports.com/2021/06/21/global-gaming-market-to-be-valued-at-295b-by-2026/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/25791/cafe-sweety-arc-ranger-which-squad-will-represent-tetras-next-generation",
     "https://www.invenglobal.com/articles/25790/night-crows-jumping-server-genesia-opens-september-17",
     "https://www.invenglobal.com/articles/25789/smilegate-officially-launches-new-mmorpg-eclipse",
-    "https://www.invenglobal.com/articles/25787/liu-cixins-the-wandering-earth-adapted-into-video-game"
+    "https://www.invenglobal.com/articles/25787/liu-cixins-the-wandering-earth-adapted-into-video-game",
+    "https://www.invenglobal.com/articles/25788/moving-the-earth-on-a-cosmic-scale-the-wandering-earth-comes-to-life-as-a-game",
+    "https://www.invenglobal.com/articles/25779/jeon-cloud-no-trio-confirmed-for-spotv-broadcast-as-2026-asian-games-lol-national-team-targets-gold",
+    "https://www.invenglobal.com/articles/25765/returning-after-28-years-the-legend-of-fancy-realm-remake-officially-launches",
+    "https://www.invenglobal.com/articles/25764/riichi-city-updates-two-new-captains-including-yoo-su-eun-holds-offline-event-in-hongdae",
+    "https://www.invenglobal.com/articles/25763/valofe-launches-kritika-in-taiwan-hong-kong-and-macau",
+    "https://www.invenglobal.com/articles/25760/eight-asian-racers-head-to-hyundai-n-x-racing-master-cup-finals"
   ],
   "title_hashes": [
-    "ef3e596de688ea28f4cb54626ac89f90",
-    "35e9285dbbcf318bb02c824d45fda11c",
-    "185cda455124e69cd6ea65ec66207a42",
-    "d50238bb5a07bc2e07c84030643f16cd",
-    "360e3e3a520a9e522654033c89315e22",
-    "e7fccfe07cc84cf06e92a9b36f3dc189",
     "91283f0845daca0d8e8f4ae701443abf",
     "1d5ce5875a9a28f355d32e1322022a7f",
     "ae276ef7085be96163e500a691890fa0",
@@ -16001,7 +15995,13 @@
     "70b93220d6fc2ff43036d3a180c258ff",
     "1d0137516fc00296bce99ba3c3661471",
     "f24b75e4cdd579588a4295d2d6e53f6f",
-    "78b11c84b2a48bb5759b20eb7d0dec29"
+    "78b11c84b2a48bb5759b20eb7d0dec29",
+    "87e3f5fccf1dcca4bd5d71c9b7739cf3",
+    "e8c18d56dc004c9f608c3b2961534f06",
+    "2a6528692d020d17373f7da3a8d0a091",
+    "15e3a3508c6734603846cbcc40fcb6fc",
+    "3fa2d750f56bb960d41b2cc442ec238d",
+    "cdcbd585ffe00c0b69c5f66f0649d75e"
   ],
   "transfers": {
     "pages": {
@@ -21284,6 +21284,26 @@
     {
       "t": "1st adapted bilibili china chinese cixin developer earth event first full game held into its last liu look moon new officially revealed scalpels shanghai studio surgical title video wandering",
       "ts": 1789034240.1816697
+    },
+    {
+      "t": "adaptation boundary cixin comes cosmic developers earth game life liu moving new scale scalpels scalpelsthe sci shooter studio surgical title wandering",
+      "ts": 1789034245.552106
+    },
+    {
+      "t": "10th 28 after announced fancy fantasy has launched launches legend officially realm reimagi remake returning rpg steam strategy that userjoyuserjoy years",
+      "ts": 1789034249.0520341
+    },
+    {
+      "t": "10th adding announced captains characters city eun event formiraiformirai game has holds hongdae implemented including its mahjong new offline online outfits riichi that three two update updates yoo",
+      "ts": 1789034252.6928945
+    },
+    {
+      "t": "10 action announced has hong kong kritika launch launched launches macau official prior rpg september service taiwan that valofe valofevalofe",
+      "ts": 1789034256.3166258
+    },
+    {
+      "t": "asian collaboration company cup eight esports finals games gamesnetease head host hyundai its master mobile motor netease organized racers racing tournament will",
+      "ts": 1789034259.8005385
     }
   ]
 }
