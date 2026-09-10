@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/21/csl-esports-partners-with-washington-state-interscholastic-activities-association/",
-    "https://thebusinessofesports.com/2021/08/21/juventus-soccer-team-making-waves-in-the-world-of-nfts/",
-    "https://thebusinessofesports.com/2021/08/21/ea-buys-playdemic-from-warnermedia-for-1-4b/",
-    "https://thebusinessofesports.com/2021/08/21/mobile-gaming-grew-in-the-first-half-of-2021-but-app-annie-says-this-growth-could-slow-down/",
-    "https://thebusinessofesports.com/2021/08/20/live-after-show-145b-lazy-gta-fortnite-among-us-roblox-social-xbox-steam-deck-lcs-cancellation-1b-mobile-games-allied-struggles/",
     "https://thebusinessofesports.com/2021/08/20/fnatic-partners-with-freeletics-and-kaspersky-unveils-esports-safeguarding-policies/",
     "https://thebusinessofesports.com/2021/08/20/brooklyns-first-esports-center-opened-its-doors-in-june/",
     "https://thebusinessofesports.com/2021/08/20/episode-145-music-x-gaming-gross-labs-find-your-grind-esports-scholarships-gta-oldies/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25785/ncsoft-to-launch-pc-cafe-service-for-once-human-on-september-17",
     "https://www.invenglobal.com/articles/25784/soul-strike-adds-new-growth-content-origin-power",
     "https://www.invenglobal.com/articles/25783/stars-of-dominant-champion-teams-new-uc-class-released-in-fc-online",
-    "https://www.invenglobal.com/articles/25782/kis-my-ft2s-toshiya-miyata-selected-as-official-supporter-for-tgs-2026"
+    "https://www.invenglobal.com/articles/25782/kis-my-ft2s-toshiya-miyata-selected-as-official-supporter-for-tgs-2026",
+    "https://www.invenglobal.com/articles/25781/miss-out-and-lose-out-recharge-stone-crafting-and-event-dungeon-added",
+    "https://www.invenglobal.com/articles/25780/prinny-party-going-overboard-demo-released",
+    "https://www.invenglobal.com/articles/25779/jun-cloudtemplar-nofe-broadcast-trio-confirmed-for-spotv-as-2026-asian-games-lol-national-team-targets-gold",
+    "https://www.invenglobal.com/articles/25777/sony-notified-us-of-project-cancellation-kojimas-new-title-physint-partners-with-xbox",
+    "https://www.invenglobal.com/articles/25778/rom-remember-of-majesty-opens-season-2-of-boosting-server-velba"
   ],
   "title_hashes": [
-    "5f27da945e1140e29c13c511abe1bf46",
-    "d636e62bc3ec346fb1923b6c2357f4b5",
-    "a84f02f5b291aa436fc5cac41bde15db",
-    "b408b857b526952945b23b5030928a04",
-    "849ccf692033101fd1d3debab94fd7b0",
     "397b5e3711dd103553b6bde4b532a0ef",
     "188a97964622f5403b071b57d710c203",
     "8d15ed762df30ea11faf9090ea4e928f",
@@ -16001,7 +15996,12 @@
     "27f511611adebf0c723f6605c387d9ea",
     "e82461fa65d574e08a0075c2bb05b048",
     "0d0394544c9b5acda9627b613a86e035",
-    "d3f04178b9f508da84b00951d60f1e38"
+    "d3f04178b9f508da84b00951d60f1e38",
+    "34468e8195822ac88ddba15ef339c8a0",
+    "b36a57a21c3a9c4cab90fdc0be5cafa2",
+    "c73005e2aeed95bb16baac58b81e4d1d",
+    "947ae9484a91e55f9bf9fd02589c6e43",
+    "b7a8c069e3e563b0cb8a6bbe5132d908"
   ],
   "transfers": {
     "pages": {
@@ -21292,6 +21292,26 @@
     {
       "t": "2026 2026toshiya been ft2 game group has idol japanese kis member miyata official popular selected show supporter tgs tokyo toshiya",
       "ts": 1789017728.6480622
+    },
+    {
+      "t": "9 added addition crafting destruction dungeon enhancement equipment event featuring genesis grace lose miss new out prevents recharge released scroll september stone that update wednesday",
+      "ts": 1789017733.9999263
+    },
+    {
+      "t": "10 clouded demo entertainment entertainmenton eshop game going leopard nintendo overboard party playstation prinny released september store",
+      "ts": 1789017737.6043801
+    },
+    {
+      "t": "2022 2026 alongside asian broadcast chul cloudtemplar commentators confirmed conveyed emotion games gold hangzhou hyun jeong jun lee lol national nofe spotv spotvcaster targets team trio who winning woo yong",
+      "ts": 1789017741.119611
+    },
+    {
+      "t": "action been cancellation collaboration currently development ended game has invenit its joine kojima new newly notified original partners physint productions project reported sie sony stealth that title xbox",
+      "ts": 1789017744.638467
+    },
+    {
+      "t": "10th 2 announced boosting games gamesredlab hardcore has hereinafter launched limited majesty mmorpg opens redlab remember rom season server that velba",
+      "ts": 1789017748.1685734
     }
   ]
 }
