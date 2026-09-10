@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/04/voice-game-developer-volley-acquires-voxion/",
-    "https://thebusinessofesports.com/2021/05/04/global-esports-market-size-to-showcase-24-4-cagr-over-next-six-years/",
-    "https://thebusinessofesports.com/2021/05/04/multiverse-raises-17-5m-for-hybrid-gaming-platform/",
-    "https://thebusinessofesports.com/2021/05/04/asetek-has-record-q1-thanks-to-gaming/",
-    "https://thebusinessofesports.com/2021/05/04/__trashed/",
     "https://thebusinessofesports.com/2021/05/04/esports-entertainments-vie-bet-brand-to-sponsor-summits-csgo-tournament/",
     "https://thebusinessofesports.com/2021/05/03/tgs-esports-to-acquire-even-matchup-gaming/",
     "https://thebusinessofesports.com/2021/05/03/timelines-being-established-for-gambling-in-arizona/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25718/line-games-starts-playtest-for-amazing-slot-survivor",
     "https://www.invenglobal.com/articles/25716/river-city-survivors-downtown-of-the-dead-launches-october-1",
     "https://www.invenglobal.com/articles/25717/pubg-mobile-unveils-vampire-battlefield-bloodhunt",
-    "https://www.invenglobal.com/articles/25713/kartrider-rush-collaborates-with-alpha-drive-one"
+    "https://www.invenglobal.com/articles/25713/kartrider-rush-collaborates-with-alpha-drive-one",
+    "https://www.invenglobal.com/articles/25715/nc-starts-pre-registration-for-lineage-classic-episode-aden",
+    "https://www.invenglobal.com/articles/25714/netmarble-adds-5-star-vivian-to-mongil-star-dive",
+    "https://www.invenglobal.com/articles/25711/nexon-unveils-cinematic-teaser-for-temppal-overgeared",
+    "https://www.invenglobal.com/articles/25712/league-of-legends-reveals-season-3-act-2-teases-team-voice-chat",
+    "https://www.invenglobal.com/articles/25710/higher-mr-warding-accessories-crafting-recipes-added"
   ],
   "title_hashes": [
-    "59b7618233b41fd353a9c016e9370ede",
-    "413b5f0e8ba478a904c00e2ca6251734",
-    "454708d9e79983876e6d706277a17201",
-    "91c9b301c26d337713d857686ac05db3",
-    "ad303b4fcf643ef42eba05d08242d59d",
     "20409d26d538f05627227d0c7db8e221",
     "ca92d95140b55367f1ff4376de0eb544",
     "e132830dcb51675358be1f24bd49cb88",
@@ -16001,7 +15996,12 @@
     "3da0ae70bddcd0670093e71fd80a46a4",
     "801ae3ca2f6613ca08ea8720f47ad30b",
     "59a759aef5302e3a59e8c696713f0546",
-    "93859babce92e6efa3b26a6e041f1041"
+    "93859babce92e6efa3b26a6e041f1041",
+    "cca23ff769d0f4e399429587fb788105",
+    "1391bd054a8523f178e558eaa90f0d7b",
+    "823a1cdcb193ae54701e7cb5afbc5645",
+    "e8be048871fcd8ab027484053a05eab1",
+    "7a8eb4189fce638e36ad8120d36a16cf"
   ],
   "transfers": {
     "pages": {
@@ -21440,6 +21440,26 @@
     {
       "t": "22nd 9th ald1 alpha announced between collaborates collaboration drive game group holding its kartrider mobile nexon nexonnexon one plan pop racing rush that",
       "ts": 1789001181.7877462
+    },
+    {
+      "t": "9th aden began classic episode featuring introduce its kingdom lineage ncnc new pre region registration server starts stories surrounding throne will",
+      "ts": 1789001187.3496304
+    },
+    {
+      "t": "5 9 added adds announced character dive has mongil monster netmarble netmarblenetmarble new september star that vivian",
+      "ts": 1789001191.2140884
+    },
+    {
+      "t": "40 9 cinematic development first game games gray mmorpg new nexon overgeared released second september showcases teaser temppal through under unveils video world",
+      "ts": 1789001195.0450797
+    },
+    {
+      "t": "2 2026 3 act chat communication games gamesriot improvements introduce late league legend legends life new october overall quality reveals riot season system team teases through update voice will",
+      "ts": 1789001198.6184673
+    },
+    {
+      "t": "accessories added been can craft crafting giran has higher items jeweler necklace players recipes resistance ring sebas series tier unlocked village visit ward warding",
+      "ts": 1789001202.084529
     }
   ]
 }
