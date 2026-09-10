@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/20/tribe-gaming-partners-with-elgato-secures-investment-from-spurs-sports-and-entertainment/",
-    "https://thebusinessofesports.com/2021/08/20/gigabyte-xiaomi-and-viewsonic-all-release-new-gaming-monitors/",
-    "https://thebusinessofesports.com/2021/05/20/eplay-digital-to-launch-fan-freak-app/",
-    "https://thebusinessofesports.com/2021/05/20/streamcards-raises-roughly-530k-in-latest-funding-round/",
-    "https://thebusinessofesports.com/2021/05/20/when-to-expect-intels-discrete-gaming-gpu/",
-    "https://thebusinessofesports.com/2021/05/20/episode-132-managing-gaming-royalty-jessica-blevins-creating-the-ninja-empire/",
     "https://thebusinessofesports.com/2021/05/20/call-of-duty-cuts-ties-with-ghost-voice-actor-over-sexist-comments/",
     "https://thebusinessofesports.com/2021/05/20/dr-carolyn-rubenstein-joins-misfits-gaming-group/",
     "https://thebusinessofesports.com/2021/05/20/apple-reportedly-working-on-portable-console/",
@@ -7999,14 +7993,15 @@
     "https://www.invenglobal.com/articles/25775/ncs-new-title-limit-zero-breakers-begins-frontier-test",
     "https://www.invenglobal.com/articles/25774/smilegate-hope-studio-launches-2026-palette-creative-workshop",
     "https://www.invenglobal.com/articles/25772/mir-4-launches-chuseok-event-lunar-feast",
-    "https://www.invenglobal.com/articles/25773/2026-lck-as-second-half-league-opens-sept-12-joined-by-school-league-teams"
+    "https://www.invenglobal.com/articles/25773/2026-lck-as-second-half-league-opens-sept-12-joined-by-school-league-teams",
+    "https://www.invenglobal.com/articles/25771/world-of-warships-update-158-11th-anniversary-event",
+    "https://www.invenglobal.com/articles/25770/uncharted-waters-origin-adds-two-s-grade-mates",
+    "https://www.invenglobal.com/articles/25769/afterlove-ep-physical-edition-launches-on-ps5-and-switch",
+    "https://www.invenglobal.com/articles/25768/make-drama-mad-100-day-launch-update",
+    "https://www.invenglobal.com/articles/25767/persona-5-the-phantom-x-version-532-update",
+    "https://www.invenglobal.com/articles/25766/nexon-foundation-launches-2nd-term-of-game-creation-mentoring-program-hello-mate"
   ],
   "title_hashes": [
-    "06762a9f2d9dce655182fe3a57f94dbc",
-    "9f4606adad06e53f9db93074c31a9b8d",
-    "1dd3dd4a8a6e77cf85d1c2f8e5ff5e54",
-    "8badb249905df230757dac9c59828f42",
-    "437b21da06550853e5ba866f7675106d",
     "0e18cc8120ebf611da5221798235104a",
     "aaad4e4f206e3490931126098765f801",
     "19325b7ff40c15aead9e3bbb7480c984",
@@ -16001,7 +15996,12 @@
     "734d6c3115a8f3247af04f5e0fb371ed",
     "e01505817ee9a8e547d7cc48e92497fa",
     "be4af052a43d48064493e0d4f55fb2b7",
-    "1f82c86a48838e718130c853cf99b6a0"
+    "1f82c86a48838e718130c853cf99b6a0",
+    "27310891e5116ede8bc3939d641b5607",
+    "d04e12cb4ace15b92024bd2c06d5078e",
+    "919670b346bb8d2a66a50916da9dac64",
+    "7f301e211ce0b30b8a4b8c95e0856ce9",
+    "e3820d19c6c7da4ff79774d56156c4b0"
   ],
   "transfers": {
     "pages": {
@@ -21332,6 +21332,26 @@
     {
       "t": "10 12 2026 academy announced association associationthe half joined kespa kick korea lck league opens school second sept september series sports teams that will",
       "ts": 1789017767.7956975
+    },
+    {
+      "t": "10th 11th 15 8 anniversary celebrating combat event game its launched mmo naval release released this update wargaming wargamingon warships world",
+      "ts": 1789017773.1688883
+    },
+    {
+      "t": "10th added adds announced been content developed engraving game games gamesline grade have koei line mates motif new origin part tecmo that two uncharted waters",
+      "ts": 1789017776.7787142
+    },
+    {
+      "t": "10th 5 adventure afterlove announced developed edition game gamepiagamepia has korea launches nintendo officially physical pikselnesia playstation ps5 released switch that",
+      "ts": 1789017780.3637514
+    },
+    {
+      "t": "100 100th 10th announced celebrate conducting connect day domestic drama launch mad make maxwemade that update wemade",
+      "ts": 1789017784.1119523
+    },
+    {
+      "t": "10 2nd announced creation foundation game hello launches mate mentoring nexon nexonthe operating program second september student term that university volunteer",
+      "ts": 1789017787.6826944
     }
   ]
 }
