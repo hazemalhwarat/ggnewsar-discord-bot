@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/21/gala-games-announces-collaboration-with-comic-book-writer-frank-miller/",
-    "https://thebusinessofesports.com/2021/06/21/atlanta-hawks-unveil-gaming-house-inside-teams-arena/",
-    "https://thebusinessofesports.com/2021/06/21/global-gaming-market-to-be-valued-at-295b-by-2026/",
-    "https://thebusinessofesports.com/2021/06/21/beastcoast-closes-latest-round-of-funding/",
-    "https://thebusinessofesports.com/2021/06/21/lindsay-poss-explains-why-virginians-should-be-excited-about-esports-betting/",
     "https://thebusinessofesports.com/2021/06/21/esports-charts-renews-partnership-with-flashpoint/",
     "https://thebusinessofesports.com/2021/06/21/forecasting-the-gaming-accessories-market-until-2026/",
     "https://thebusinessofesports.com/2021/06/21/illuvium-token-is-now-listed-on-bitcoin-com-exchange/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25765/returning-after-28-years-the-legend-of-fancy-realm-remake-officially-launches",
     "https://www.invenglobal.com/articles/25764/riichi-city-updates-two-new-captains-including-yoo-su-eun-holds-offline-event-in-hongdae",
     "https://www.invenglobal.com/articles/25763/valofe-launches-kritika-in-taiwan-hong-kong-and-macau",
-    "https://www.invenglobal.com/articles/25760/eight-asian-racers-head-to-hyundai-n-x-racing-master-cup-finals"
+    "https://www.invenglobal.com/articles/25760/eight-asian-racers-head-to-hyundai-n-x-racing-master-cup-finals",
+    "https://www.invenglobal.com/articles/25761/gxg-2026-indiecraft-opens-in-pangyo-on-sept-11",
+    "https://www.invenglobal.com/articles/25762/idus-collaborates-on-traditional-craft-project-for-the-kingdom-of-the-winds-30th-anniversary",
+    "https://www.invenglobal.com/articles/25759/gaming-culture-festival-gxg-2026-opens-in-pangyo-on-the-11th",
+    "https://www.invenglobal.com/articles/25758/gyeonggi-content-agency-hosts-mystery-and-fantasy-pop-up-exhibition-in-pangyo",
+    "https://www.invenglobal.com/articles/25757/gyeonggi-game-meister-high-school-welcomes-first-game-company-to-industry-academia-hall"
   ],
   "title_hashes": [
-    "91283f0845daca0d8e8f4ae701443abf",
-    "1d5ce5875a9a28f355d32e1322022a7f",
-    "ae276ef7085be96163e500a691890fa0",
-    "cb1e6688f356a25d91ea7f21906feaf8",
-    "1e7a16f2d642b2b4b619de9832b29eb2",
     "b4d96cf105128698b87904772388f3da",
     "dd43b544312abbc6f7238289669c76b5",
     "9f0455560e5ab26ced952ab59d8821b6",
@@ -16001,7 +15996,12 @@
     "2a6528692d020d17373f7da3a8d0a091",
     "15e3a3508c6734603846cbcc40fcb6fc",
     "3fa2d750f56bb960d41b2cc442ec238d",
-    "cdcbd585ffe00c0b69c5f66f0649d75e"
+    "cdcbd585ffe00c0b69c5f66f0649d75e",
+    "c4a3fb4ae8e9bd6c6ddc50142d76090f",
+    "ec714579619ba1c4e1d96730f8cd82ad",
+    "629173d3df96388b3ee7f725ebdf591e",
+    "02d0582ba249a76b69fe40025ec82247",
+    "2eb947b50b1d1ea46d34ba0dfa87dcd5"
   ],
   "transfers": {
     "pages": {
@@ -21304,6 +21304,26 @@
     {
       "t": "asian collaboration company cup eight esports finals games gamesnetease head host hyundai its master mobile motor netease organized racers racing tournament will",
       "ts": 1789034259.8005385
+    },
+    {
+      "t": "11 2026 agency association associationseongnam city collaboration exhib game gxg host indiecraft industry korea mobile opens pangyo promotion seongnam sept will",
+      "ts": 1789034265.0505972
+    },
+    {
+      "t": "10 30th anniversary announced celeb collaborates collaboration continuing craft foundation idus idusidus kingdom launching nexon project september that thirty titled tradition traditional wind winds",
+      "ts": 1789034268.5651474
+    },
+    {
+      "t": "11 11th 12 2026 around culture festival foundationthe game gaming generation gxg held opens pangyo plaza september station tech1 tower will",
+      "ts": 1789034272.1389637
+    },
+    {
+      "t": "agency agencythe another collaboration content dropped during exhibition fantasy gca gyeonggi hosting hosts hour into lunch mystery pangyo pop sep tumblbug world",
+      "ts": 1789034275.7007499
+    },
+    {
+      "t": "8 academia announced codecore company first foster game games gyeonggi hall high industry meister memorandum mou school schoolgyeonggi september signed talen that understanding welcomes",
+      "ts": 1789034279.167233
     }
   ]
 }
