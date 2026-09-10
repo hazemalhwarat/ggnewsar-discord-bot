@@ -1,20 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEs1OUF1cnZlZXdid2VZSEdIdVJJdDNabHZjbTlrdmIzbDdVSlBIQnNOdzdOZWc2UzBORnlFczNjMHpQb1ZuY05OOFZnMUJUY0IzUFljN1NjWnljSl9xc2t4NFlydFdBZlJyczNHXzliVUJKRmdBUkNhc3ZzeE1ieWQxZFJxeXlX?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvZXBuUlQteTFUS2llLTBqNk5na25felBOdzBCclhDcndvZHlhM0k4MUhOUktSR3Z1ZHNjdXZBemw0dUNNb1JoR1hBald4Q0U?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFYUd6V3hnOGF5Wk9Ca0VUa0xYeVVsTXZ2bFRVNndzRHA0LXpRS2laYW5jTjBWaE5jc0ctVHN1Q0tDcDNmNVJvWkJ5ZnhRUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uVldISU9oQmxFMTBtYkFMMmJ5OHJMcDF1NHJiVXZ0OEVmUU1ra2pwelpUUHZmaXp0TGZNNFREMkJjQ1p1VUhvNHJ6LV92UHVXMWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uM1JKSmZlSTNOZkhKbVdmN2NKTlIyOVR0T3M2REs0Wk1XM05lMW5OMkpMQ3V3T29KalZYbkN1ZDY0ckFicmNSWVRQeEZsZGJJSWdaZWQzU3Z4VVdWRnVEWUZ6dDczS2w2QXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GRXI3S2VnRjZHOFFqb1NGcWlRdFlEZGIwTlJOVzVEdEZPbk1Qc1RrNVRZcEExU1F3RmJJQkxFNFlPcllKR2QxcE81cjJyYXVNR2cxVjNrUWp0QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzb0ZqZWFkSGZZVGJ1U2w0cHhnT09JNDl6NmRtcmhIUUxfUERfd0Rsei1ZUlVDT2JGcVlJcFpQUkRyRDJnMXYweXFFUGg?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10ejh6cW9ZTURSZVJTdXRhcUhDOGUwdDU4SkpYcjJQdmYwNjhmeEp4dWFyVXk0RnlzSmdsMzNBLU1JNV9XdEVncVllc3U?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FSndXekIwNWNFLUFDV2FtQ29Sb2VPQm9NN3FDQlMzX0p5NGE4dzFCRDUwZGlnaWtBZFhQblctRm9qbG16OFE2OTFfOXA?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXU4bkNNdDBxWHN5Wi1GQWhlSWVDcU54UGNvNHlXUUpRVV83ZmE0MnlfaGdWYjQyeEloZ2ZuY2Fud1VRMkdIWllJdUpMQUhHQ0F0ZXdUR3EyNk5uTXJEeU9iUkZuTTdvVl9JdzRGWk1pdEs0OW95d0hCRDZXdnlyNW9tRmotdlVzcHBFaC04UHBPSkt6cVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaktCR25CTXZFNDFJcmRaT2stcHVvSzFyMG00bS14YjZ1SHJLNVpqbnBLaTNZT1BTNE14V0FhazRIMHNwQndGRUhWcmg5VXhsUXlvUTNENTR0cHBjdDNGODl0VF9oZGlVa1pnOG5DU3JTdHh1aXE1ZWJUQ2VCU2djUGk4dDBmek9xWmpHNlF6WEYtcGlqRzFwWWtwalZyUFpqMVpRT0R0dEpkV0pubXdhWWtDdDFoY2h3Si1z?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUW50cXl5dkFaU3VYd0d0d2tlWTg5d3pnTEItdGJiUkZudDliZWhCazBYVTRrcnBZR2wtM2dEWG1xZG1uWGJIQ1BpcXdNUDd5YnhtU1dsMS1CenRyaDB4YjJMTlVlQW1UMjZRTVdubWo4cGVoOUZ1eGRZVjRXQ2pUOWp3akhUUVJGVUtmWkpCNA?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ2ZyaHNCeUJnenhuaHozR3E2Y054bkQxRlpiV0FvNmp0allPcW1VMjAtMTYtaEo5ZW9wRGRyd2xSc2YyaDhCOXJZcXo2QzNvZ2dVdUtPdVNHQ2lRelR4SzMzVGhnZ3ZuRW9pUzdKQkthRHpybHBTdUo1TFdfa2dKN3FaNzd6RDJBSmlLX043eWx1SVpsWllNd19mRDRnbFFWWFBTWlNFSjk5YXlSazV2d0N2S2VJN1ZsYnkxd0ZNTWJpSUpKODZv?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpZ0s1emlCWEMyeGVsRGFUSWt2Q1VqaW5jYWFHOEp2dlRyRU9ZYkR0eHZFZkZHWHRzRllOb3FpX2RHdkVEUjNjRGFSYjV3YnZhd3QyZ2hR?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFR1R0t0R1gwVlkzUXJOWmxnQnBPV25GOTBoM1ZiTVhyZ29oOGlDNkdnMlZaM1RIVGN0TXJDSzRwSTg0MnAtLW03a1dnZEVQLUoyejQxbWZJaE85aXp6b3ozOF9RN1ZMeHNnMWh3SnhwRHhfSDViX1FXemY4UWRoZlV2ZW51cjdiR0R3TlFINExxU0FhNTUydTBEWjFVYVlMU1FNLW9sYw?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmZmZHV0p2NGViNTRIc202VGFqZXdaSmVmS1dJcjdSY1hKX2tnNHJLb3dFdHE1cXdTa2JjRzE3aXRnN3l1bVgyV21ZZlZvZzRnNDc2SlpoeGhIZENSeVZB?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MRTBVNjJNdmhFYXBtYXN0VGVPN3BuVkRlSWdzYjhCNWlWT3RWeHhBR0prVGpFZi1maU1zNHc4WHUyODBsSUhuejdjSlppREoxRkp4RmNlZ0JDXzdYdTRneEhBWEI4SFJDOVBpcklORVJ6Z1p1cWY4Q2xSY1Y?oc=5",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTVWZQeWF0NTBBc1JuYlp3ZGFOYjN0cmRERnNTUktMWVdUXzVYTXlWeUtYRUNxQVpGaFBONWpFZXhNZncwV2RQR2VxUFo4Yk1XLVF0bzZNOWtLTDE3?oc=5",
@@ -7999,24 +7984,24 @@
     "https://esportswales.org/wales-take-on-england-in-the-hado-home-nations/?utm_source=rss&utm_medium=rss&utm_campaign=wales-take-on-england-in-the-hado-home-nations",
     "https://europeangaming.eu/portal/latest-news/2026/09/10/213897/fatf-publishes-new-red-flag-indicators-for-gambling/",
     "https://europeangaming.eu/portal/press-releases/2026/09/10/213889/blueprint-gaming-triple-power-cash-strike/",
-    "https://europeangaming.eu/portal/latest-news/2026/09/10/213882/playtech-h1-2026-results-adjusted-ebitda-us-growth/"
+    "https://europeangaming.eu/portal/latest-news/2026/09/10/213882/playtech-h1-2026-results-adjusted-ebitda-us-growth/",
+    "https://www.sk-gaming.com/news/sk-gaming-ventures-into-eva-esports-with-the-launch-of-eva-pro-league",
+    "https://www.sk-gaming.com/news/a-new-lec-year-begins-with-a-new-sk-gaming-roster",
+    "https://www.sk-gaming.com/news/nhow-gaming-studio-at-nhow-berlin-certified-by-sk-gaming",
+    "https://www.sk-gaming.com/news/sk-gaming-and-recaro-gaming-announce-strategic-partnership",
+    "https://www.sk-gaming.com/news/gaming-rooms-at-nhow-berlin-certified-by-sk-gaming",
+    "https://www.sk-gaming.com/news/amaran-to-light-up-sk-content-and-live-productions-through-a-new-partnership",
+    "https://www.sk-gaming.com/news/new-valorant-team",
+    "https://www.sk-gaming.com/news/sk-gaming-unveils-2024-league-of-legends-rosters",
+    "https://www.sk-gaming.com/news/sk-gaming-enters-the-esports-association-nrw-and-esbd",
+    "https://www.sk-gaming.com/news/sk-gaming-and-cherry-xtrfy-join-forces-for-the-ultimate-gaming-performance",
+    "https://www.gamesindustry.biz/gta-6-netflix-preview-drove-more-than-100000-sign-ups-during-its-six-hour-exclusivity-window",
+    "https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai",
+    "https://www.gamesindustry.biz/newzoo-most-established-live-service-and-evergreen-titles-were-flat-or-down-year-over-year-in-h1-2026",
+    "https://www.gamesindustry.biz/epic-games-store-to-introduce-age-checks-for-r18-games-in-australia",
+    "https://www.gamesindustry.biz/mark-cerny-and-geoff-keighley-launch-nova-games-foundation-to-fund-young-designers"
   ],
   "title_hashes": [
-    "bec262c79fd4853603d1bb8b08bf1414",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "c8e1b85e36378c5d9a5befc9a0147feb",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "90db950944f5553095590f5c69d69ed4",
-    "767004fb8e5729adbcd01d4dd6ebb330",
-    "93fd147ef68c1f9d45c4516f6c913435",
-    "b4ef0a5e81b674ea236f10ebe127a006",
-    "bc4157ecffd37286a77ede38c83a6a73",
-    "680c3d1a1f8465f530fbe83daa54bb4f",
-    "44f143f1182ed4c4326ca5013940094f",
-    "41a214e6956377e7551e0c89c68037c6",
-    "08beb87f18ae26a0bccf36ccba41b92a",
-    "5feb1de99e801529b22e7b18cbd004fb",
     "23fc629516356213c2ad248c3adee6d1",
     "c25f3a34dbe2a60554d451746e7d286b",
     "08cd8b5c7ae04722dabd4bdca3f13bb3",
@@ -16001,7 +15986,22 @@
     "fcbb3f437a732172d406eff229ccd7ff",
     "2956a78c47e5fe8d1a7c49673d142140",
     "27ab777632358efea874cd5476c63950",
-    "290d85a84b77c6f501e164b5d8d1667a"
+    "290d85a84b77c6f501e164b5d8d1667a",
+    "91ca9a02166dd430b5219b9d43c1bdaa",
+    "98a3e69f8b3b39e6e63bd473e2a971a8",
+    "7c08de7a20cd3a05d072015365bf7d20",
+    "198d1ce8acef34b62c4d36e895b18a6a",
+    "bf5dbb170616471fc9cbb38f500b0add",
+    "aa1d6fbabf4e3052828bcef189c32064",
+    "c5e3287d955bb4316b0e9a16047eaa31",
+    "b0af51dd6523af1e2805c221f6ed9dd7",
+    "a57ed65b4b4797e22067556951e61814",
+    "879f5db8448f6e5b88a40d1218dce306",
+    "103c0f8c6eb77e8f1d01f4587e366cf5",
+    "90e7f196b609247efa11ae078410f6d8",
+    "229e14693a934bdba5c6d4a2d27c49fe",
+    "876219fbf13d1a5469badd7c2e931337",
+    "999db3dce190163895a2f2f26d4d7366"
   ],
   "transfers": {
     "pages": {
@@ -21464,6 +21464,26 @@
     {
       "t": "161 270m 77 8230 adjusted appeared beat but earnings ebitda europea first flagged full h1 half has jumps playtech post revenue second supplier track weaker year",
       "ts": 1789048976.2699528
+    },
+    {
+      "t": "000 100 27 6 august auto drove during exclusivity generated grand gta hour its making more netflix over platform preview rockstar sign six than theft third ups window",
+      "ts": 1789048981.9997432
+    },
+    {
+      "t": "accusations anybody been ceo chatgpt chief company creative given had has his interactive karch matthew more never officer own read replaced response saber says take that tim willits writer",
+      "ts": 1789048985.564026
+    },
+    {
+      "t": "2025 2026 according compared data declined down established evergreen first flat h1 half live more most newzoo over read service titles year",
+      "ts": 1789048989.0313733
+    },
+    {
+      "t": "18 9 age australia australian before buying checks confirm downloading epic games introduce more older players r18 rated read require september starting store they titles will",
+      "ts": 1789048992.6849267
+    },
+    {
+      "t": "aimed cerny designers fellowship foundation fund funding game games geoff have keighley launch launched mark more nova philanthropic program read young",
+      "ts": 1789048996.3799515
     }
   ]
 }
