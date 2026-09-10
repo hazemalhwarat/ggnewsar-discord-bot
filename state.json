@@ -1,24 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVbG9QMHkxLWpTdXdHbzNQX0tCVjZPT1dEYTlnZVhHS3JHblExdHlPNjFjR3dMcGNJcHRWbjAxOHZjXzZOTkVzZDlJYjcxOVVIWlVPeXBES1l5YnJRVWhjXw?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOelRjWVZlN3NXYTd3dkRIU3hGYVBrMU9BRnRnY2lQTlhmNTJkcW5BT2FmMXlQbXpHcTJpakZQVkRqMHBYWjVBenhISHFBTmJ6SWtCdm45LUI2aDlsczJNLS1neHd2SURxbG5WMmZqdDA4eG1fLXZZb2QzYWVENldLa1NBMA?oc=5",
-    "https://realsport101.com/article/test-article",
-    "https://realsport101.com/article/nba-2k27-top-100-player-ratings-sga-tops-the-list-as-76ers-stack-up",
-    "https://realsport101.com/article/fc-27-wonderkids-best-wonderkids-and-young-players-to-sign",
-    "https://realsport101.com/article/football-manager-27-release-window-platforms-and-first-feature-details",
-    "https://realsport101.com/article/why-the-second-screen-will-shape-the-opening-champions-league-week",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NSkdxZ1RaYUZSaEd5bnVDN0lwV3VFNFVBclNEMGZuVmE1eG81MHl2azI1bTBDeHVUeTlYWThxbFhIcDZTVlZabTFaQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03d3hEX2ZoS2lEbUw2WGNVdzdYUFR4UkptaFBtclM2Um1QeUV1Q1c3R3NTVDk4emJfUW1XMUExTlBqMm9iNzJKd0dOeG4wN0ZvV1NodjJpbw?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tQWtnOVZhdEM1ejYwM3l0ZXJhMFZzVG1BSnFQM3Y5VlFzWDk4NFN3MkNwaWYydEFseGF2aFUxYmY4THJhSWtzVTlrQ1FkRkE?oc=5",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nQ0dETFpnTE5Db09ZMUxFSldvVGc2TFZoRGIzd3hZNzRQbC15ZHlJc1p5T0RvSDYtbGtPV1RaT0ktVEo1R3pVRUV3?oc=5",
-    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE11ZkY5MFdSYllHclhudjJQbWR5VkMtUnl3S2FHMDVUaGtNN1NpRDZySkUta0dRdDlVRlNaNlU5aWNJVVhSNWFr?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVURxLVNEZk5CMjFXaTZuS1YxWjk0OEQ3b1BEbnpuV2NRNFdHbE1RdkVlWFV4TzVvb1hzZHAzV2l4YnBRbVBnOG5WSW5rZjhwU3BCcHJZbkZuNWdXUEc5SXpmekRId2FxUFBWVmdrX1ptT216RzNMQ0JUbjF0YUdLWTNsZEduVko4MGFpSkJn?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1obEJPSllCZkpiTHFzX0t6a3k4aTEwWUs5bG91V3R4R0dVdmRhYnlocFRvZjZIQWU2anRpVXdSRjFUOTZ1eE8wMVhHQWN4S3hwQXZqdG5PZlp1eEpvWlRHb192WXZpY1k?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE02dlpJNmVCT2k4bDZWUG5DSTJEcTBfMDExMTZJanJMX19wbnNfV3dFU2tLV2d4WEFtcjFOdUIxVmxMSXM5LWJ0WlpHZU5hNzdXaWNpV3d5M0htVzIzeVRqSzJaOGp4dl9WcElBUnJLWFVGYVRIbzBhUg?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPazVybjBOZVZSX2lFWjVUU2tGWjZXZTdfR0VOTFlTU0o2eTVORXdyZ05zenRwN1liLS1CWm9EWU1vUjZ1UEMxQ1ZTazhBTlhVMFE5ZHA4dmRYMTVOZzkwRUdudEhsTTZUZ1hBeXk2QXgtMVZqYXZmREhRMmNVRDVLMTVpTFg?oc=5",
-    "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DZGFDUTVsQkticVotay1VSlhYRTlTak5ndl9vcWRKMmtyQTczSEhabEJLU2tkTU90SldYblE3Mlc?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNal9FTTkwdzFYcXRGdnRkeE9tZFp2TWdIODNNMGcyUjhMUUh6QzI5aXFFQjdUOXlXUnNpUXhpb2NsY2xGM21SVmo4THBoR1h1NU9GNkVrMGxfcGNLT3h2ejVEVmtOZGFaa2JEVHM0cnRDeEp5d2Y2X3d4UUZUdTFBUA?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lRi1qM0huN0RWeHhWOGdFbTBjbG5wNjFWYjMxX3FKZVY4RGEzc19GZ3MteFJaRm1SWW1zdS1Ob3A3Y3FNSzJWZHc5aHdpN2d4TDFNeV9HOGpHZw?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEs1OUF1cnZlZXdid2VZSEdIdVJJdDNabHZjbTlrdmIzbDdVSlBIQnNOdzdOZWc2UzBORnlFczNjMHpQb1ZuY05OOFZnMUJUY0IzUFljN1NjWnljSl9xc2t4NFlydFdBZlJyczNHXzliVUJKRmdBUkNhc3ZzeE1ieWQxZFJxeXlX?oc=5",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvZXBuUlQteTFUS2llLTBqNk5na25felBOdzBCclhDcndvZHlhM0k4MUhOUktSR3Z1ZHNjdXZBemw0dUNNb1JoR1hBald4Q0U?oc=5",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFYUd6V3hnOGF5Wk9Ca0VUa0xYeVVsTXZ2bFRVNndzRHA0LXpRS2laYW5jTjBWaE5jc0ctVHN1Q0tDcDNmNVJvWkJ5ZnhRUQ?oc=5",
@@ -7999,28 +7980,28 @@
     "https://csspy.com/guides/secret-save-location-on-vertigo/",
     "https://csspy.com/guides/csgo-movement-and-position-guide/",
     "https://csspy.com/guides/discord-csgo-and-cs2-soundboard-sounds/",
-    "https://www.nerfplz.com/2026/08/seraphine-counters-best-counter-picks.html"
+    "https://www.nerfplz.com/2026/08/seraphine-counters-best-counter-picks.html",
+    "https://www.nerfplz.com/2026/09/top-10-champions-who-fall-off-hardest.html",
+    "https://www.nerfplz.com/2026/11/movement-speed-explained-10-rules-of.html",
+    "https://www.nerfplz.com/2027/01/funny-things-every-lol-player-has-done.html",
+    "https://www.nerfplz.com/2026/11/lol-jungle-plants-explained-10-rules-of.html",
+    "https://www.nerfplz.com/2026/09/power-spikes-explained-when-you-are.html",
+    "https://www.nerfplz.com/2026/08/locke-counters-best-counter-champions.html",
+    "https://esportswales.org/astana-is-the-esports-capital-for-2027-in-the-world-of-esports/?utm_source=rss&utm_medium=rss&utm_campaign=astana-is-the-esports-capital-for-2027-in-the-world-of-esports",
+    "https://esportswales.org/stop-calling-it-a-club-esports-is-a-curriculum-subject-and-its-time-schools-treated-it-that-way/?utm_source=rss&utm_medium=rss&utm_campaign=stop-calling-it-a-club-esports-is-a-curriculum-subject-and-its-time-schools-treated-it-that-way",
+    "https://esportswales.org/minecraft-esports-cymru-finals-bring-schools-and-colleges-from-across-wales-together-at-the-principality-stadium/?utm_source=rss&utm_medium=rss&utm_campaign=minecraft-esports-cymru-finals-bring-schools-and-colleges-from-across-wales-together-at-the-principality-stadium",
+    "https://esportswales.org/esports-wales-and-the-football-association-of-wales-join-forces-to-enter-welsh-teams-into-the-fifae/?utm_source=rss&utm_medium=rss&utm_campaign=esports-wales-and-the-football-association-of-wales-join-forces-to-enter-welsh-teams-into-the-fifae",
+    "https://esportswales.org/esports-wales-attends-welsh-chess-union-championship-in-cardiff/?utm_source=rss&utm_medium=rss&utm_campaign=esports-wales-attends-welsh-chess-union-championship-in-cardiff",
+    "https://esportswales.org/esports-wales-attends-dreamhack/?utm_source=rss&utm_medium=rss&utm_campaign=esports-wales-attends-dreamhack",
+    "https://esportswales.org/great-britain-at-the-esports-nations-cup-2026-british-esports-esports-wales-fnatic-scottish-esports-the-fa-via-england-gaming-and-uketc-unite-to-represent-gb/?utm_source=rss&utm_medium=rss&utm_campaign=great-britain-at-the-esports-nations-cup-2026-british-esports-esports-wales-fnatic-scottish-esports-the-fa-via-england-gaming-and-uketc-unite-to-represent-gb",
+    "https://esportswales.org/15219/?utm_source=rss&utm_medium=rss&utm_campaign=15219",
+    "https://esportswales.org/vlad-marinescu-re-elected-as-10th-iesf-president/?utm_source=rss&utm_medium=rss&utm_campaign=vlad-marinescu-re-elected-as-10th-iesf-president",
+    "https://esportswales.org/wales-take-on-england-in-the-hado-home-nations/?utm_source=rss&utm_medium=rss&utm_campaign=wales-take-on-england-in-the-hado-home-nations",
+    "https://europeangaming.eu/portal/latest-news/2026/09/10/213897/fatf-publishes-new-red-flag-indicators-for-gambling/",
+    "https://europeangaming.eu/portal/press-releases/2026/09/10/213889/blueprint-gaming-triple-power-cash-strike/",
+    "https://europeangaming.eu/portal/latest-news/2026/09/10/213882/playtech-h1-2026-results-adjusted-ebitda-us-growth/"
   ],
   "title_hashes": [
-    "3fd3cceb09b1ad1fc5e2a8c3fac8071d",
-    "353af67f8aa5a5aa23735cddcc28fe7f",
-    "8fde6c2bf51d3e5ff07309cc9b5d59b1",
-    "87aab7fe1a6ab91b2ef2023bf24945ef",
-    "3a30ecdcac2ecbf0e23f6184534a1618",
-    "72a49d0caa1c279fb8abe2a4a13ae55b",
-    "c5d0cc2e8ebd7d35226f854c48be824a",
-    "5e7788faf4dd0e886df44141dde1297b",
-    "e268d4e3b22cf1b2581764bde4b6a822",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "055c36a098d1d268672beda5c6b46f76",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "d1975bc3c6f16a01102d4ba8f13e267f",
-    "846703809a325b2a5cd908301c4016b6",
-    "850d1d695ede7a8ff8904a779f7082ca",
     "bec262c79fd4853603d1bb8b08bf1414",
     "850d1d695ede7a8ff8904a779f7082ca",
     "c8e1b85e36378c5d9a5befc9a0147feb",
@@ -16001,7 +15982,26 @@
     "8caa30ad2c481dacdfb745dbac5ff4c5",
     "40496ff942ae5c4a5d29180fde1c1484",
     "d3ec36d301b6841f28b2ca7cb82b8088",
-    "bc6b011820523f31ceba48f0208f5c9f"
+    "bc6b011820523f31ceba48f0208f5c9f",
+    "60cb14cd5981ffb623b37ecc1bc9f692",
+    "1687ffd83bc172781ab5789f912f7b2e",
+    "402f39dea552ad9a5688f7a5303ce62a",
+    "93151312dabb19449e30106118a4eeed",
+    "862c0bfbf7a0d236dd86fda950c5202f",
+    "2109b63647e22525040222993d2a640e",
+    "1295833b91ce10194d07b2e9f8f7434b",
+    "fd1ac0ca0ca412b489922288bb413552",
+    "33688b3f17c12c9aafd5be53538af25d",
+    "92d67a3ffee20111bc2e1a039e755a66",
+    "19fd9b35efb19e9fae403545570dd202",
+    "9736a046f41bc173263d962d92109859",
+    "d523856b136c1776b6ea1da220485fac",
+    "32dfb0596a5e7d18fc68a1267480c0ce",
+    "03469854b12e11b7240af24d02a14ea6",
+    "fcbb3f437a732172d406eff229ccd7ff",
+    "2956a78c47e5fe8d1a7c49673d142140",
+    "27ab777632358efea874cd5476c63950",
+    "290d85a84b77c6f501e164b5d8d1667a"
   ],
   "transfers": {
     "pages": {
@@ -21444,6 +21444,26 @@
     {
       "t": "best charms counter counters doesn exercise fight get heal into off one picks playing screen seraphine she shield team then time tips undoes watching whole win work your yours",
       "ts": 1789048956.3865259
+    },
+    {
+      "t": "10 champion champions early every fall fifteen first game going good hardest into keeps late made minutes off own power score somewhere spectator ten their then these they top trades turn who win",
+      "ts": 1789048961.7058713
+    },
+    {
+      "t": "after caps counts deletes every floor full guide has here item lol math movement only part plus quietly rule second slow slows soft speed stacking strongest that two why you your",
+      "ts": 1789048965.556083
+    },
+    {
+      "t": "8217 8230 appeared detailed exceed fatf first flag found gambling illegal indicators legal look markets new online post publishes red rival that unlicensed watchdog",
+      "ts": 1789048969.1951396
+    },
+    {
+      "t": "2026 8217 8230 blueprint cash coded colour extends fifth fireball fireballs gaming launch launches mechanic post pots power series strike title triple",
+      "ts": 1789048972.5681536
+    },
+    {
+      "t": "161 270m 77 8230 adjusted appeared beat but earnings ebitda europea first flagged full h1 half has jumps playtech post revenue second supplier track weaker year",
+      "ts": 1789048976.2699528
     }
   ]
 }
