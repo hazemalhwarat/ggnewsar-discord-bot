@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/10/new-documentary-explores-the-history-of-first-person-shooter-games/",
-    "https://thebusinessofesports.com/2021/10/10/valuates-report-gaming-market-to-hit-398-95b-by-2026/",
-    "https://thebusinessofesports.com/2021/10/10/riot-announces-valorant-is-coming-to-phones-and-other-mobile-platforms/",
-    "https://thebusinessofesports.com/2021/10/10/hp-unveils-new-products-acquires-hyperx-for-425m/",
-    "https://thebusinessofesports.com/2021/10/10/gta-vi-reportedly-being-pushed-back-to-2024-at-the-earliest/",
     "https://thebusinessofesports.com/2021/10/10/xbox-cloud-gaming-teases-playstation-controller-compatability/",
     "https://thebusinessofesports.com/2021/10/10/four-european-gaming-studios-receive-investments-from-the-games-fund/",
     "https://thebusinessofesports.com/2021/10/10/new-report-says-the-gaming-accessories-market-will-be-valued-at-4-04b-by-2025/",
@@ -7999,14 +7994,14 @@
     "https://g2esports.com/blogs/news/g2-blacklist-announcement",
     "https://g2esports.com/blogs/news/senior-leadership-team-update",
     "https://g2esports.com/blogs/news/r6-roster-update-welcome-benjamaster-titan",
-    "https://www.hltv.org/news/45494/legacy-betboom-secure-semi-final-berths-at-fpg"
+    "https://www.hltv.org/news/45494/legacy-betboom-secure-semi-final-berths-at-fpg",
+    "https://www.hltv.org/news/45493/5star-take-another-scalp-with-astralis-elimination",
+    "https://www.hltv.org/news/45489/grashog-lets-hope-we-can-come-back-in-the-season-its-unfortunately-not-looking-good",
+    "https://www.hltv.org/news/45490/fpg-3-day-two-ends-with-furia-and-betboom-securing-playoff-spots",
+    "https://dotesports.com/valorant/guides/valorant-champions-2026-teams-groups",
+    "https://dotesports.com/nintendo/news/nintendo-direct-september-2026-trailers"
   ],
   "title_hashes": [
-    "3c63135d7313949e1f88bec9862e3dec",
-    "8c60d0cd1f6ddf81a675532d7fdb5f15",
-    "a6155fa1a51e6b4846b50ec1e7f0f494",
-    "dc61a02591448962bda54b8c7a3555d9",
-    "15d3ff66c2a9d53a526c5412af1f4a51",
     "277ecdebed0da5ca2c1a31b342527452",
     "908f723dab71b5ccc103cc822e06f9d4",
     "314693fbe3aee10adc4d29e6ad9c9792",
@@ -16001,7 +15996,12 @@
     "a5fae350680f639c0650a48a042f9c7e",
     "58b6df88f3358517e0147c1c521af3fa",
     "218cb6c318816543621857e2f2b42e47",
-    "e9999bdd0a38743dc963642f0f1342b0"
+    "e9999bdd0a38743dc963642f0f1342b0",
+    "f7d1b1738a1147a16f13569543ed3027",
+    "562105986fa1820c309b4059c5f4d54b",
+    "a3fd25888554c5419ecd5172ad22bb11",
+    "28d91155056efa5e712d28dff519085d",
+    "b104f0012827838ebb8726978ae237af"
   ],
   "transfers": {
     "pages": {
@@ -21344,6 +21344,26 @@
     {
       "t": "berths betboom bye final fpg get group legacy quarter secure seeds semi stage top two will",
       "ts": 1789048857.9324634
+    },
+    {
+      "t": "5star after another astralis big down elimination have mongolz scalp suzhou take taking upset",
+      "ts": 1789048863.4466932
+    },
+    {
+      "t": "affected assistant back bulgarian can coach come early gamerlegion good grashog have health hope laments let looking not season struggles team that travel unfortunately",
+      "ts": 1789048866.9097664
+    },
+    {
+      "t": "3 been betboom big bracket day eliminated ends fpg furia gamerlegion have lower playoff securing spots tournament two",
+      "ts": 1789048870.5162234
+    },
+    {
+      "t": "2026 about all americas champions china emea find groups here info pacific teams valorant",
+      "ts": 1789048874.1232066
+    },
+    {
+      "t": "2026 announced announcement direct every games kirby metroid new nintendo september trailer",
+      "ts": 1789048877.6179183
     }
   ]
 }
