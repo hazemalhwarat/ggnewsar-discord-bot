@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/21/tweet-suggests-intel-graphics-card-coming-soon/",
-    "https://thebusinessofesports.com/2021/05/21/sony-facing-lawsuit-over-playstation-store/",
-    "https://thebusinessofesports.com/2021/05/21/business-of-esports-minute-049-herman-miller-dominance-ubisoft-free-to-play-tencent-trouble/",
-    "https://thebusinessofesports.com/2021/05/21/business-of-esports-tv-museum-to-arena/",
-    "https://thebusinessofesports.com/2021/05/21/episode-132-video-managing-gaming-royalty-jessica-blevins-creating-the-ninja-empire/",
-    "https://thebusinessofesports.com/2021/05/20/wondr-gaming-announces-cse-listing-and-call-of-duty-celebratory-event/",
     "https://thebusinessofesports.com/2021/05/04/voice-game-developer-volley-acquires-voxion/",
     "https://thebusinessofesports.com/2021/05/04/global-esports-market-size-to-showcase-24-4-cagr-over-next-six-years/",
     "https://thebusinessofesports.com/2021/05/04/multiverse-raises-17-5m-for-hybrid-gaming-platform/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/25725/nexpace-posts-3098-million-nxpc-in-first-half-protocol-revenue",
     "https://www.invenglobal.com/articles/25724/pre-registration-begins-for-aden-featuring-time-limited-weapons",
     "https://www.invenglobal.com/articles/25723/three-time-worlds-champions-guma-keria-duo-set-for-fierce-battle-over-finals-spot",
-    "https://www.invenglobal.com/articles/25721/level-35-only-infinite-battle-renewed"
+    "https://www.invenglobal.com/articles/25721/level-35-only-infinite-battle-renewed",
+    "https://www.invenglobal.com/articles/25720/elixir-selection-chest-crafting-now-available-beware-of-failure-rate",
+    "https://www.invenglobal.com/articles/25719/team42-unveils-two-new-titles-at-g-star-2026",
+    "https://www.invenglobal.com/articles/25718/line-games-starts-playtest-for-amazing-slot-survivor",
+    "https://www.invenglobal.com/articles/25716/river-city-survivors-downtown-of-the-dead-launches-october-1",
+    "https://www.invenglobal.com/articles/25717/pubg-mobile-unveils-vampire-battlefield-bloodhunt",
+    "https://www.invenglobal.com/articles/25713/kartrider-rush-collaborates-with-alpha-drive-one"
   ],
   "title_hashes": [
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "f2779e9403ac954aed112508eda2fbaf",
-    "cdaaafb8d65d1f0dd8e2f65810f9e26d",
-    "da3cc4982c5127dae89f7f4c81635168",
-    "4521661607452821790e1ad763a594e3",
-    "27a0a8edf54a15c315385581d66aa6a0",
     "59b7618233b41fd353a9c016e9370ede",
     "413b5f0e8ba478a904c00e2ca6251734",
     "454708d9e79983876e6d706277a17201",
@@ -16001,7 +15995,13 @@
     "6320a292368458c7399f20b0ef1b0786",
     "5c0403c58d124c1d3369597a5f36ba8d",
     "6a4f7ffffa3aa85b3a1e4adee089021e",
-    "5a82c492ec1e45413b041908a2ecf7d3"
+    "5a82c492ec1e45413b041908a2ecf7d3",
+    "9cb536bcdd00d6e0f24565aa7562dbb9",
+    "d4ae47f8844c2d12dfee3bd6846081d7",
+    "3da0ae70bddcd0670093e71fd80a46a4",
+    "801ae3ca2f6613ca08ea8720f47ad30b",
+    "59a759aef5302e3a59e8c696713f0546",
+    "93859babce92e6efa3b26a6e041f1041"
   ],
   "transfers": {
     "pages": {
@@ -21420,6 +21420,26 @@
     {
       "t": "10 35 across battle been colosseums content daily giran has infinite level now only place previously renewed scattered takes towns twice various village",
       "ts": 1789001161.777813
+    },
+    {
+      "t": "acquire available beware chest crafting elixir failure new now rate route selection stat",
+      "ts": 1789001167.58793
+    },
+    {
+      "t": "100 19 2026 22 b2c bexco booth busan company deduction event game held host its mafi mobile new november showcase space star team42 team42team42 titles two unveils will",
+      "ts": 1789001171.0895376
+    },
+    {
+      "t": "1 announced apple arc arcade asia city dead downtown exclusive its launch launches new october river surv survivors system that title will works worksarc",
+      "ts": 1789001174.6068742
+    },
+    {
+      "t": "9 announced based battlefield bloodhunt concept introducing kraftonkrafton mobile mode new pubg september that themed through unveils update vampire",
+      "ts": 1789001178.2363322
+    },
+    {
+      "t": "22nd 9th ald1 alpha announced between collaborates collaboration drive game group holding its kartrider mobile nexon nexonnexon one plan pop racing rush that",
+      "ts": 1789001181.7877462
     }
   ]
 }
