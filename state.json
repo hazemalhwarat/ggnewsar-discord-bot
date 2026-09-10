@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/22/the-esports-club-announces-partnership-with-streamcoi/",
-    "https://thebusinessofesports.com/2021/06/22/x-world-games-announces-1-2m-round-of-funding/",
-    "https://thebusinessofesports.com/2021/06/22/microsoft-claims-apple-wouldnt-make-xcloud-accessible-through-app-store/",
-    "https://thebusinessofesports.com/2021/06/22/intel-extends-partnership-with-esl-gaming/",
-    "https://thebusinessofesports.com/2021/06/22/bad-robot-games-obtains-40m-in-fundraising-round/",
     "https://thebusinessofesports.com/2021/06/22/weezer-to-open-summer-game-fest-2021/",
     "https://thebusinessofesports.com/2021/06/21/foundry-iv-launches-first-mobile-gaming-product/",
     "https://thebusinessofesports.com/2021/06/21/electronic-arts-acquires-metalhead-software/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25796/nexus-raises-approximately-38-billion-won-through-third-party-paid-in-capital-increase",
     "https://www.invenglobal.com/articles/25795/arc-system-works-asia-launches-autumn-sale-up-to-88-off",
     "https://www.invenglobal.com/articles/25794/nexon-holds-in-house-esports-tournament-nexon-cup-to-celebrate-overwatch-publishing-transfer",
-    "https://www.invenglobal.com/articles/25793/fc-mobile-launches-k-league-class-hosts-stadium-events"
+    "https://www.invenglobal.com/articles/25793/fc-mobile-launches-k-league-class-hosts-stadium-events",
+    "https://www.invenglobal.com/articles/25792/rose-of-bunkyo-the-vigilantes-guarding-the-peace-of-bunkyo-ward",
+    "https://www.invenglobal.com/articles/25791/cafe-sweety-arc-ranger-which-squad-will-represent-tetras-next-generation",
+    "https://www.invenglobal.com/articles/25790/night-crows-jumping-server-genesia-opens-september-17",
+    "https://www.invenglobal.com/articles/25789/smilegate-officially-launches-new-mmorpg-eclipse",
+    "https://www.invenglobal.com/articles/25787/liu-cixins-the-wandering-earth-adapted-into-video-game"
   ],
   "title_hashes": [
-    "73b90a7c2f3461a6621b029e0eb5e78a",
-    "840692692649648eda59d960a88482df",
-    "73615478a86e1d07ba964fcae6302436",
-    "c8fff732ec776e434f139f087026f136",
-    "e2c3e002815cfb4f0ef04e7cec223249",
     "ef3e596de688ea28f4cb54626ac89f90",
     "35e9285dbbcf318bb02c824d45fda11c",
     "185cda455124e69cd6ea65ec66207a42",
@@ -16001,7 +15996,12 @@
     "8a058af08ad9d71bd1877119395f7012",
     "ce08e16b026a4318f8fdf19f31fc70bc",
     "dab0fa7bb1b1a3d07f60a9fc9066b11c",
-    "37f8c85e9b952a907da865fc8cdd9a68"
+    "37f8c85e9b952a907da865fc8cdd9a68",
+    "80062d90a2e3cd79567c215c74f6dc72",
+    "70b93220d6fc2ff43036d3a180c258ff",
+    "1d0137516fc00296bce99ba3c3661471",
+    "f24b75e4cdd579588a4295d2d6e53f6f",
+    "78b11c84b2a48bb5759b20eb7d0dec29"
   ],
   "transfers": {
     "pages": {
@@ -21264,6 +21264,26 @@
     {
       "t": "10th announced arts class developed electronic events hereinafter hosts introducing launches league mobile nexon nexonon published sports stadium that",
       "ts": 1789034220.1719785
+    },
+    {
+      "t": "127918 android astrae bunkyo dynamis game guarding infogame iospopular magicalgirl ncplatform one oratio oratiodeveloper peace rose shindenki subculture tags title urbanlegendin vigilantes ward world",
+      "ts": 1789034225.5804915
+    },
+    {
+      "t": "absolu alt arc cafe chosen confirmed elysion flagship fully generation line missilis next only pilgrim powered ranger receive remaining represent squad squads sweety tetra unit versions which will",
+      "ts": 1789034229.4039779
+    },
+    {
+      "t": "17 crows developed first genesia jumping madngine mmorpg new night open opens published september server wemade will",
+      "ts": 1789034232.9932008
+    },
+    {
+      "t": "12 awakening developed eclipse hereinafter its launched launches mmorpg mobile new npixel officially platforms smilegate",
+      "ts": 1789034236.6661565
+    },
+    {
+      "t": "1st adapted bilibili china chinese cixin developer earth event first full game held into its last liu look moon new officially revealed scalpels shanghai studio surgical title video wandering",
+      "ts": 1789034240.1816697
     }
   ]
 }
