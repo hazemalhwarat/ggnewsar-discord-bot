@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://esports-news.co.uk/2026/09/06/riot-and-tj-sports-launch-tier-2-league-of-legends-invitational-for-2026/",
-    "https://esports-news.co.uk/2026/09/05/bc-game-suffer-fourth-qualifier-exit-in-a-month-after-overtime-loss-to-fokus/",
-    "https://esports-news.co.uk/2026/09/05/nintendo-patches-super-smash-bros-ultimate-to-target-delay-mod-netcode-fix/",
-    "https://esports-news.co.uk/2026/09/03/lol-world-star-challengers-invitational/",
-    "https://esports-news.co.uk/2026/09/02/mcdonalds-uk-get-special-xbox-cross-over-menu-and-rewards/",
-    "https://esports-news.co.uk/2026/09/01/fnatic-fail-to-make-worlds-for-the-first-time-in-ten-years/",
     "https://esports-news.co.uk/2026/09/01/esports-cost-uk-revealed/",
     "https://esportsinsider.com/2026/09/betby-slotbets-esports-casino",
     "https://esportsinsider.com/2026/09/can-msi-performance-predict-worlds-success",
@@ -7999,15 +7993,15 @@
     "https://www.theloadout.com/pubg/playstation-downloads-january-2022",
     "https://www.theloadout.com/pubg/player-count-free-to-play",
     "https://www.theloadout.com/pubg/free-to-play",
-    "https://insider-gaming.com/gta-6-is-single-handedly-saving-console-sales-revenue/"
+    "https://insider-gaming.com/gta-6-is-single-handedly-saving-console-sales-revenue/",
+    "https://insider-gaming.com/planet-zoo-2-all-animals-complete-zoopedia/",
+    "https://insider-gaming.com/fallout-76-has-performed-better-than-youd-think-in-2026/",
+    "https://insider-gaming.com/marvels-wolverine-editions-pre-order-bonuses/",
+    "https://insider-gaming.com/aniimo-achievements-trophy-list/",
+    "https://insider-gaming.com/ubisoft-connect-steam/",
+    "https://insider-gaming.com/gamesir-respond-call-of-duty-league-controller-cheat-claims/"
   ],
   "title_hashes": [
-    "eb6204cdb06361baf0bae9a436b63b67",
-    "2892d695a66ebfc37aea8b51a84f28df",
-    "4d0c1deb5a3a6bb63ef9ea907e2d50c9",
-    "d6863b6ab0a5322ddce30a3ca58b2938",
-    "680e5b57f36b5e09800993531396e8d4",
-    "2879f8372e37addcf6c3cc314a519d85",
     "32733c0b3c3dad82249deafff51ea523",
     "634a7ba94638764bfd9cab00a25c47b7",
     "3fc9ec165b59a2b2e8016221533710af",
@@ -16001,7 +15995,13 @@
     "1cc9875f7dd3a38d63ccfa227c3d9854",
     "4f45ba8937ff95a37570dde77ac55627",
     "2727a6ca6416675eb44194b022dff523",
-    "3cf472aaefdf25df28d202ed1806338d"
+    "3cf472aaefdf25df28d202ed1806338d",
+    "de42e8f163f835561caad03062e99854",
+    "4189ceecacaf2c92f9c081889c9332bc",
+    "d5d02d157e88f81584ba60a52f014401",
+    "b2d256bc472b289318fdf099b5c82d9f",
+    "6a5868a78918d1ab3e05b669063c6d8d",
+    "9f49623a41bee17a31bc701b3930f08a"
   ],
   "transfers": {
     "pages": {
@@ -21384,6 +21384,26 @@
     {
       "t": "6 appeared auto console drive estimated first gaming grand growth gta handedly has immense later new post report revenue sales saving set single space theft this year",
       "ts": 1789048897.4735665
+    },
+    {
+      "t": "2 about all animals availability available complete everything habitat including know need planet post their types you zoo zoopedia",
+      "ts": 1789048903.235749
+    },
+    {
+      "t": "2026 76 8217 accolade all ambitious better fallout far find has here means new newzoo out performed post report revealed secured than think what you",
+      "ts": 1789048906.8535197
+    },
+    {
+      "t": "8217 all available bonuses editions marvel order post pre prices provided purchase various wolverine",
+      "ts": 1789048910.3317583
+    },
+    {
+      "t": "announced appeared client connect games has launch longer need needed new post steam that ubisoft update will",
+      "ts": 1789048914.0328922
+    },
+    {
+      "t": "8216 8217 call cheat cheats claims contain controller controllers duty focused gamesir has its league media post respond responds social taken that",
+      "ts": 1789048917.4631813
     }
   ]
 }
