@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/18/rival-technologies-and-reach3-launch-mobile-gaming-tool/",
-    "https://thebusinessofesports.com/2021/05/18/copa-netenho-announces-two-new-sponsors/",
-    "https://thebusinessofesports.com/2021/05/18/bus-simulator-21-will-feature-mercedes-benz-vehicles/",
-    "https://thebusinessofesports.com/2021/05/18/queens-gaming-collective-secures-investment-from-nfler-juju-smith-schuster/",
-    "https://thebusinessofesports.com/2021/05/18/esports-certification-institute-to-issue-refund-for-exams/",
     "https://thebusinessofesports.com/2021/05/18/eeg-partners-with-helix-esports-to-host-lcs-proving-grounds-tournament/",
     "https://thebusinessofesports.com/2021/05/18/malaysian-ministry-of-youth-and-sports-looking-into-proposed-esports-center/",
     "https://thebusinessofesports.com/2021/05/18/sources-say-tencent-in-talks-with-u-s-to-keep-hold-of-gaming-investments/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25836/sanrio-characters-appointed-as-official-ambassadors-for-tgs-2026-family-game-park",
     "https://www.invenglobal.com/articles/25835/new-under-night-in-birth-ii-character-zohar-releases-on-the-16th",
     "https://www.invenglobal.com/articles/25834/rtx-5090-up-for-grabs-nvidia-nba-2k27-dlss-5-poster-challenge",
-    "https://www.invenglobal.com/articles/25833/akina-ghost-story-research-institute-a-mage-clan-disguised-as-a-film-club"
+    "https://www.invenglobal.com/articles/25833/akina-ghost-story-research-institute-a-mage-clan-disguised-as-a-film-club",
+    "https://www.invenglobal.com/articles/25832/krafton-named-koreas-top-job-creation-company-for-5th-time",
+    "https://www.invenglobal.com/articles/25831/red-stone-renewal-project-reload-how-far-has-it-come",
+    "https://www.invenglobal.com/articles/25830/hanwha-lifes-raw-power-vs-t1s-veteran-experience-which-team-will-shake-the-kspo-dome",
+    "https://www.invenglobal.com/articles/25829/undecember-launches-new-season-the-farside",
+    "https://www.invenglobal.com/articles/25828/japan-game-awards-2026-unveils-detailed-schedule-and-judging-panel"
   ],
   "title_hashes": [
-    "710a73c1c6ebd33d79e8b4a70c912f0f",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "317103ae8a2ea7cb541a954571108535",
-    "b4fd124837920dcff1cc1c88ea08a26e",
-    "0ef4c480b36473048e4ac9b90b22cf2b",
     "4f1caedb5535318fa554405bbe622f29",
     "0af4e6134e20301c0f806f732f25c023",
     "020fb9104c9e36a21c73f0ca9e84e914",
@@ -16001,7 +15996,12 @@
     "006b80c6f8651923e610b058b8e4dbfa",
     "71c4f9727f861ee86b3efea1d30a9e26",
     "542e42246c4c01196d1cbfbe4508fb5e",
-    "08d7226015e340e376b3eb2a43fe9141"
+    "08d7226015e340e376b3eb2a43fe9141",
+    "b1b659c1aad64cdb6dc3b9d4f7e7584c",
+    "382e1749560fa54634b18376334db7e9",
+    "596499e2462497d822aff23ae9bd07cd",
+    "7e5257af15061b22aa404d02435d2ae2",
+    "81a88ba8250a8eec6718ea1196cc4ee8"
   ],
   "transfers": {
     "pages": {
@@ -21296,6 +21296,26 @@
     {
       "t": "127918 akina android astrae clan club disguised dynamis film game ghost infotitle institute iospopular mage magicalgirl ncplatform one oratiodeveloper rese research shindenki story subculture tags urbanlegendthe",
       "ts": 1789103827.0566154
+    },
+    {
+      "t": "11 2026 5th announced companies company creation employment job korea krafton kraftonkrafton labor ministry named one organized selected september that time top",
+      "ts": 1789103832.1012132
+    },
+    {
+      "t": "23rd amp anniversary ceo come developed far has hereinafter how its korea korean launching logic marks mmorpg nam project red renewal service since stone taek this traditional won year",
+      "ts": 1789103835.503366
+    },
+    {
+      "t": "12 2026 between dome esports experience final finals first hanwha kspo lck life match olympic park place power qualifier raw seoul september shake t1 take team veteran which will",
+      "ts": 1789103839.0379965
+    },
+    {
+      "t": "11 action announced developed farside games gamesline hack has its launches line needs new published rpg season september slash that undecember updated",
+      "ts": 1789103842.5652492
+    },
+    {
+      "t": "2026 30th 8 announced association awards cesa cesaon computer detailed entertainment gam game information japan judging panel revealing schedule september supplier that unveils while",
+      "ts": 1789103846.2496073
     }
   ]
 }
