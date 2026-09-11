@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/31/yield-guild-games-announces-it-has-raised-4m-in-funding/",
-    "https://thebusinessofesports.com/2021/08/31/motorsport-games-leaks-images-from-latest-nascar-title-company-will-also-produce-an-indycar-video-game/",
-    "https://thebusinessofesports.com/2021/08/31/d-box-technologies-inc-agrees-to-sponsorship-deal-with-sdl-esports/",
-    "https://thebusinessofesports.com/2021/08/31/vindex-opening-first-belong-gaming-arena-in-houston-later-acquires-business-from-game-digital/",
-    "https://thebusinessofesports.com/2021/08/31/tilting-point-secures-235m-in-equity-financing-round/",
     "https://thebusinessofesports.com/2021/08/31/guild-esports-executive-chairman-carleton-curtis-steps-down-from-his-position/",
     "https://thebusinessofesports.com/2021/08/31/live-after-show-146b-venn-failure-dr-disrespect-vs-twitch-activision-blizzard-spin-stardew-valley-esports-soulja-boy-atari-tencent-struggles-google-delusions/",
     "https://thebusinessofesports.com/2021/08/31/epilogue-device-allows-users-to-play-game-boy-game-boy-color-and-gba-games-on-their-computers/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25780/prinny-party-going-overboard-demo-released",
     "https://www.invenglobal.com/articles/25777/sony-notified-us-of-project-cancellation-kojimas-new-title-physint-partners-with-xbox",
     "https://www.invenglobal.com/articles/25778/rom-remember-of-majesty-opens-season-2-of-boosting-server-velba",
-    "https://www.invenglobal.com/articles/25776/romance-of-the-three-kingdoms-xiv-with-power-up-kit-complete-edition-released"
+    "https://www.invenglobal.com/articles/25776/romance-of-the-three-kingdoms-xiv-with-power-up-kit-complete-edition-released",
+    "https://www.invenglobal.com/articles/25775/ncs-new-title-limit-zero-breakers-begins-frontier-test",
+    "https://www.invenglobal.com/articles/25774/smilegate-hope-studio-launches-2026-palette-creative-workshop",
+    "https://www.invenglobal.com/articles/25772/mir-4-launches-chuseok-event-lunar-feast",
+    "https://www.invenglobal.com/articles/25773/2026-lck-as-second-half-league-opens-sept-12-joined-by-school-league-teams",
+    "https://www.invenglobal.com/articles/25771/world-of-warships-update-158-11th-anniversary-event"
   ],
   "title_hashes": [
-    "47d87f9db4ecf55ac0f4f9cba01911bd",
-    "6b7931b903d4f5b1ce8d8cfdffd377e6",
-    "6001c1cd2df81a20fe9280909376a4f1",
-    "0e5c1d70f7322b809c5294a0a59ab91a",
-    "499d1324d4e6f91299876624b1c6e71e",
     "44c4d0d741e126c99a613231f37e94c1",
     "4d1b6aaf24ac88069a6c95080b80a37b",
     "488096d09ddab537483b910d7fc15cfa",
@@ -16001,7 +15996,12 @@
     "b36a57a21c3a9c4cab90fdc0be5cafa2",
     "947ae9484a91e55f9bf9fd02589c6e43",
     "b7a8c069e3e563b0cb8a6bbe5132d908",
-    "e49b58476d5de92b345fcd41d594ce20"
+    "e49b58476d5de92b345fcd41d594ce20",
+    "734d6c3115a8f3247af04f5e0fb371ed",
+    "e01505817ee9a8e547d7cc48e92497fa",
+    "be4af052a43d48064493e0d4f55fb2b7",
+    "1f82c86a48838e718130c853cf99b6a0",
+    "27310891e5116ede8bc3939d641b5607"
   ],
   "transfers": {
     "pages": {
@@ -21448,6 +21448,26 @@
     {
       "t": "10th announced complete digital edition game games has historical kingdoms kit koei power released romance simulation tecmo that three touch touchdigital xiv",
       "ts": 1789086907.6590445
+    },
+    {
+      "t": "action anime begins breakers ceos frontier game global hereinafter limit ncthe new playing published role rpg taek test title zero",
+      "ts": 1789086913.4267056
+    },
+    {
+      "t": "10th 2026 announced children conducting creative experiencing hope launches palette smilegate studio studiosmilegate support that workshop youth",
+      "ts": 1789086917.125208
+    },
+    {
+      "t": "10 4 8 chuseok event feast its kicked launches lunar mir mmorpg october off run september special through training wemade wemadeon will",
+      "ts": 1789086920.6081672
+    },
+    {
+      "t": "10 12 2026 academy announced association associationthe half joined kespa kick korea lck league opens school second sept september series sports teams that will",
+      "ts": 1789086924.292049
+    },
+    {
+      "t": "10th 11th 15 8 anniversary celebrating combat event game its launched mmo naval release released this update wargaming wargamingon warships world",
+      "ts": 1789086927.9787416
     }
   ]
 }
