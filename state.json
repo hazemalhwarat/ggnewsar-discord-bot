@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/13/17-suspicious-esports-betting-cases-reported-to-ibia/",
-    "https://thebusinessofesports.com/2021/06/13/business-of-esports-tv-the-hp-spring-collection/",
-    "https://thebusinessofesports.com/2021/06/12/emerge-esports-announces-collaboration-with-tiktok/",
-    "https://thebusinessofesports.com/2021/06/12/ebn-and-psi-team-up-to-launch-the-university-e-league/",
-    "https://thebusinessofesports.com/2021/06/12/modern-times-group-reveals-2021-q1-financial-results/",
     "https://thebusinessofesports.com/2021/06/12/episode-135-video-ggcircuit-lan-centers-netflix-gaming-subscription-valorant-popularity/",
     "https://thebusinessofesports.com/2021/06/12/business-of-esports-tv-astralis-gaming-center/",
     "https://thebusinessofesports.com/2021/06/12/episode-135-ggcircuit-lan-centers-netflix-gaming-subscription-valorant-popularity/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25816/gyeonggi-game-meister-high-school-holds-first-external-graduation-exhibition-in-pangyo",
     "https://www.invenglobal.com/articles/25814/nc-and-samsung-electronics-to-host-astrae-oratio-demo-at-tgs-2026",
     "https://www.invenglobal.com/articles/25813/sudden-strike-5-ps5-korean-version-releases-on-the-23rd",
-    "https://www.invenglobal.com/articles/25812/persona-4-revival-switch-2-version-launching-may-2027"
+    "https://www.invenglobal.com/articles/25812/persona-4-revival-switch-2-version-launching-may-2027",
+    "https://www.invenglobal.com/articles/25811/borderlands-4-launches-new-vault-hunter-and-story-dlc",
+    "https://www.invenglobal.com/articles/25810/fading-echo-a-pure-spirited-indie-action-adventure-82",
+    "https://www.invenglobal.com/articles/25809/granado-espada-m-opens-pre-registration-for-kielce-update",
+    "https://www.invenglobal.com/articles/25808/madngine-selected-as-top-jobs-company-for-2-consecutive-years",
+    "https://www.invenglobal.com/articles/25807/esdigital-games-to-showcase-8-titles-at-tgs-2026"
   ],
   "title_hashes": [
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "e5283b18330d42eff77398483d4f0b2c",
-    "52c25a64ea903ee8a10cce49807d6660",
-    "6d27ec5bb1dd301aeee5829f4be1931c",
-    "56926d50f6e7ef5635b9070abc8cdd2b",
     "27a0a8edf54a15c315385581d66aa6a0",
     "b53b25af0bb81d628d94c09db7dbea10",
     "1c32b599d7f279ae218093f09a4acfe5",
@@ -16001,7 +15996,12 @@
     "c4c98a87d8e00ed518b19ac20baa3532",
     "3f0c98e598df5a77b8ba92e8dff1e94f",
     "7bfd3db6c05a87137214cbf091b3ef66",
-    "e41beeefc7173dee14f21e0508890326"
+    "e41beeefc7173dee14f21e0508890326",
+    "4adacff70da5aed6156721e92c779608",
+    "4c1cf707df77f2046468556f7d7c0989",
+    "7d0a67aa4000501dffdeee957ef67ec4",
+    "a554ff12d1af2d386cfa325ae4dd953f",
+    "12847f7b13a803167dedecba41046da9"
   ],
   "transfers": {
     "pages": {
@@ -21280,6 +21280,26 @@
     {
       "t": "10th 2 20 2027 4 6 8482 announced atlus korea koreasega launching may new nintendo persona publishing released revival rpgs sega switch that version versions will",
       "ts": 1789120021.3178499
+    },
+    {
+      "t": "11th 2k 2kon 4 along announced borderlands dlc dlcs hacker hunter launches looter loveless new paid release sixth story two vault",
+      "ts": 1789120026.6808279
+    },
+    {
+      "t": "2 8 action adventure because dedicated deep developed dig echo emeteria even exposure fading gamers games hasn have heard indie into likely much not pure quietly received released simply spirited very who",
+      "ts": 1789120030.0741131
+    },
+    {
+      "t": "10th announced been espada granado hanbitsofthanbitsoft has its kielce mmorpg mobile new opens pre region registration since that underway update",
+      "ts": 1789120033.5061383
+    },
+    {
+      "t": "11th 2 2026 announced certification company consecutive employment jobs korea labor madngine madnginemadngine ministry securing selected that top two years",
+      "ts": 1789120036.873364
+    },
+    {
+      "t": "17 2026 21 8 announced chiba eight esdigital game games gamesesdigital held its japan makuhari messe participate september show showcase tgs that titles tokyo will",
+      "ts": 1789120040.3054655
     }
   ]
 }
