@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/04/asetek-has-record-q1-thanks-to-gaming/",
-    "https://thebusinessofesports.com/2021/05/04/__trashed/",
-    "https://thebusinessofesports.com/2021/05/04/esports-entertainments-vie-bet-brand-to-sponsor-summits-csgo-tournament/",
-    "https://thebusinessofesports.com/2021/05/03/tgs-esports-to-acquire-even-matchup-gaming/",
-    "https://thebusinessofesports.com/2021/05/03/timelines-being-established-for-gambling-in-arizona/",
     "https://thebusinessofesports.com/2021/05/03/new-siri-remote-not-compatible-with-some-apple-tv-games/",
     "https://thebusinessofesports.com/2021/05/03/the-motley-fool-gives-three-reasons-to-expect-growth-from-nvidia-gaming/",
     "https://thebusinessofesports.com/2021/05/03/live-video-game-streaming-hit-8-8b-hours-in-q1-2021/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25825/nexon-to-open-maplestory-escape-on-sept-21",
     "https://www.invenglobal.com/articles/25823/neople-named-one-of-2026-koreas-top-job-creation-companies",
     "https://www.invenglobal.com/articles/25824/geng-aims-for-back-to-back-single-season-lck-titles",
-    "https://www.invenglobal.com/articles/25822/pre-orders-open-for-dave-the-diver-complete-edition"
+    "https://www.invenglobal.com/articles/25822/pre-orders-open-for-dave-the-diver-complete-edition",
+    "https://www.invenglobal.com/articles/25821/monster-hunter-now-3rd-anniversary-event-kicks-off-september-14",
+    "https://www.invenglobal.com/articles/25820/chzzk-unveils-finals-content-for-lck-and-overwatch-world-cup",
+    "https://www.invenglobal.com/articles/25819/soop-to-live-broadcast-blizzcon-2026-starting-sept-13",
+    "https://www.invenglobal.com/articles/25818/komsco-to-release-limited-edition-diablo-30th-anniversary-commemorative-coins-on-september-14",
+    "https://www.invenglobal.com/articles/25817/kicking-added-pubg-battlegrounds-update-431"
   ],
   "title_hashes": [
-    "454708d9e79983876e6d706277a17201",
-    "91c9b301c26d337713d857686ac05db3",
-    "ad303b4fcf643ef42eba05d08242d59d",
-    "20409d26d538f05627227d0c7db8e221",
-    "ca92d95140b55367f1ff4376de0eb544",
     "e132830dcb51675358be1f24bd49cb88",
     "dcbb206fe1aa1b0f06ff04328e8fa26a",
     "8b99b1e52bfc0aa923590fd4c33b75df",
@@ -16001,7 +15996,12 @@
     "d9fd4c996a5204669dba893d1d92fb0f",
     "4a2d792c63360a7bfbe617aa2b8391d4",
     "423a281088ba939eb16fe8e55c48097a",
-    "9e0ed34951ede9fa348aef1b56de7c46"
+    "9e0ed34951ede9fa348aef1b56de7c46",
+    "ddd0ad7b62036bb04fc7cae15e9fc0e2",
+    "faa1f4483d2d20a77b5e67a4c87dc86a",
+    "a0c46b411b54b4008c6c6869aaae9aef",
+    "09c54eb823cb29f8d3d92e45485367ca",
+    "4f027c12cb646c73d8091996e863ae7f"
   ],
   "transfers": {
     "pages": {
@@ -21336,6 +21336,26 @@
     {
       "t": "11th announced arc asia asiaarc begun complete dave diver edition have korean open orders physical pre system that works",
       "ts": 1789103868.9272182
+    },
+    {
+      "t": "11 14 3rd anniversary announced event explore explorescopely game host hunter hunting kicks monster now off real run scopely september that will world",
+      "ts": 1789103874.0826092
+    },
+    {
+      "t": "2026 centered champions chzzk content cup finals korea lck league legends navernaver offline online overwatch platform showcase streaming unveils will world",
+      "ts": 1789103877.5869753
+    },
+    {
+      "t": "13 2026 blizzard blizzcon broadcast content convention entertainment esports gaming key live main officially sept soop soopsoop stage starting will",
+      "ts": 1789103881.0383477
+    },
+    {
+      "t": "14 30th anniversary bullion coins commemorative corporation diablo edition gold intaglio komsco komscokorea limited medals minting printing prints quantities release security sept september silver will",
+      "ts": 1789103885.479164
+    },
+    {
+      "t": "1 11 43 action added applied battlegrounds expanded features hereinafter interaction introducing item kicking krafton kraftonon mechanics new pubg september this update",
+      "ts": 1789103888.9046986
     }
   ]
 }
