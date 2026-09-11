@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/14/netflix-is-trying-to-enter-the-gaming-world-with-rumors-of-a-new-subscription-service/",
-    "https://thebusinessofesports.com/2021/06/14/business-of-esports-tv-competitive-spreadsheet-making/",
-    "https://thebusinessofesports.com/2021/06/13/ubisoft-developing-free-to-play-game/",
-    "https://thebusinessofesports.com/2021/06/13/people-can-fly-ceo-talks-about-acquisition-of-game-on/",
-    "https://thebusinessofesports.com/2021/06/13/e-l-f-cosmetics-debuts-twitch-channel-with-gaming-competition/",
     "https://thebusinessofesports.com/2021/06/13/17-suspicious-esports-betting-cases-reported-to-ibia/",
     "https://thebusinessofesports.com/2021/06/13/business-of-esports-tv-the-hp-spring-collection/",
     "https://thebusinessofesports.com/2021/06/12/emerge-esports-announces-collaboration-with-tiktok/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25843/official-korean-localization-of-magical-girl-witch-trials-enters-final-phase",
     "https://www.invenglobal.com/articles/25842/muramasa-revenant-blades-set-to-launch-february-4-2027",
     "https://www.invenglobal.com/articles/25841/arknights-endfield-autumn-picnic-pop-up-open-until-september-20",
-    "https://www.invenglobal.com/articles/25840/tokyo-game-show-2026-draws-record-high-1138-exhibitors-floor-map-revealed"
+    "https://www.invenglobal.com/articles/25840/tokyo-game-show-2026-draws-record-high-1138-exhibitors-floor-map-revealed",
+    "https://www.invenglobal.com/articles/25839/netmarble-unveils-stage-lineup-for-3-titles-at-tgs-2026",
+    "https://www.invenglobal.com/articles/25816/gyeonggi-game-meister-high-school-holds-first-external-graduation-exhibition-in-pangyo",
+    "https://www.invenglobal.com/articles/25814/nc-and-samsung-electronics-to-host-astrae-oratio-demo-at-tgs-2026",
+    "https://www.invenglobal.com/articles/25813/sudden-strike-5-ps5-korean-version-releases-on-the-23rd",
+    "https://www.invenglobal.com/articles/25812/persona-4-revival-switch-2-version-launching-may-2027"
   ],
   "title_hashes": [
-    "eb4f6ca2b18016e691fb9f1f6782059a",
-    "6acad0e23d390eb8962a807093fb18b8",
-    "e990505a89f9a461bdda037852ff96fc",
-    "9d2c5bd07b179efa2a3931cfac9f9503",
-    "e755decdeca370f0ef9be4cf5d6e3e44",
     "27a0a8edf54a15c315385581d66aa6a0",
     "e5283b18330d42eff77398483d4f0b2c",
     "52c25a64ea903ee8a10cce49807d6660",
@@ -16001,7 +15996,12 @@
     "e59367face2579d6dcea47a5b5017be1",
     "aa8102271b5ddba79ef07aa30ce73250",
     "d67f91b0d105a4a6c74590ed570ec02f",
-    "79dd906d12bde32ff7d6b480b56f66c0"
+    "79dd906d12bde32ff7d6b480b56f66c0",
+    "f032f1c85b605209ec298b0bc2aa4655",
+    "c4c98a87d8e00ed518b19ac20baa3532",
+    "3f0c98e598df5a77b8ba92e8dff1e94f",
+    "7bfd3db6c05a87137214cbf091b3ef66",
+    "e41beeefc7173dee14f21e0508890326"
   ],
   "transfers": {
     "pages": {
@@ -21260,6 +21260,26 @@
     {
       "t": "1 10 138 2026 association cesa cesaon computer details draws entertainment exhibitor exhibitors floor game high including key map opening pre record revealed scale september show supplier tgs2026 tokyo unveiled ven",
       "ts": 1789120001.972202
+    },
+    {
+      "t": "11 2026 3 entries event frontier game its lineup netmarble netmarbleon september shangri show stage tgs titles tokyo unveiled unveils",
+      "ts": 1789120006.9744563
+    },
+    {
+      "t": "2026 buildi exhibition external first floor game graduation gyeonggi held high holds meister neowiz pangyo school schoolgyeonggi",
+      "ts": 1789120010.4016995
+    },
+    {
+      "t": "2026 astrae collaborating demo demos display electronics event exhibition feature game gaming host japan largest ncnc oratio samsung show showcases tgs tokyo",
+      "ts": 1789120014.2657132
+    },
+    {
+      "t": "23rd 5 announced developed game games h2 interactive interactiveh2 kite korean launch officially ps5 real releases strategy strike sudden that time version will",
+      "ts": 1789120017.8573837
+    },
+    {
+      "t": "10th 2 20 2027 4 6 8482 announced atlus korea koreasega launching may new nintendo persona publishing released revival rpgs sega switch that version versions will",
+      "ts": 1789120021.3178499
     }
   ]
 }
