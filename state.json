@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/18/eeg-partners-with-helix-esports-to-host-lcs-proving-grounds-tournament/",
-    "https://thebusinessofesports.com/2021/05/18/malaysian-ministry-of-youth-and-sports-looking-into-proposed-esports-center/",
-    "https://thebusinessofesports.com/2021/05/18/sources-say-tencent-in-talks-with-u-s-to-keep-hold-of-gaming-investments/",
-    "https://thebusinessofesports.com/2021/05/04/voice-game-developer-volley-acquires-voxion/",
-    "https://thebusinessofesports.com/2021/05/04/global-esports-market-size-to-showcase-24-4-cagr-over-next-six-years/",
-    "https://thebusinessofesports.com/2021/05/04/multiverse-raises-17-5m-for-hybrid-gaming-platform/",
     "https://thebusinessofesports.com/2021/05/04/asetek-has-record-q1-thanks-to-gaming/",
     "https://thebusinessofesports.com/2021/05/04/__trashed/",
     "https://thebusinessofesports.com/2021/05/04/esports-entertainments-vie-bet-brand-to-sponsor-summits-csgo-tournament/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/25831/red-stone-renewal-project-reload-how-far-has-it-come",
     "https://www.invenglobal.com/articles/25830/hanwha-lifes-raw-power-vs-t1s-veteran-experience-which-team-will-shake-the-kspo-dome",
     "https://www.invenglobal.com/articles/25829/undecember-launches-new-season-the-farside",
-    "https://www.invenglobal.com/articles/25828/japan-game-awards-2026-unveils-detailed-schedule-and-judging-panel"
+    "https://www.invenglobal.com/articles/25828/japan-game-awards-2026-unveils-detailed-schedule-and-judging-panel",
+    "https://www.invenglobal.com/articles/25827/netmarble-mnb-hosts-roblox-game-creation-contest-using-kuya-restaurantz-ip",
+    "https://www.invenglobal.com/articles/25826/soop-receives-ministers-commendation-for-suicide-prevention-and-respect-for-life-initiatives",
+    "https://www.invenglobal.com/articles/25825/nexon-to-open-maplestory-escape-on-sept-21",
+    "https://www.invenglobal.com/articles/25823/neople-named-one-of-2026-koreas-top-job-creation-companies",
+    "https://www.invenglobal.com/articles/25824/geng-aims-for-back-to-back-single-season-lck-titles",
+    "https://www.invenglobal.com/articles/25822/pre-orders-open-for-dave-the-diver-complete-edition"
   ],
   "title_hashes": [
-    "4f1caedb5535318fa554405bbe622f29",
-    "0af4e6134e20301c0f806f732f25c023",
-    "020fb9104c9e36a21c73f0ca9e84e914",
-    "59e7fd49d62714bac35a0dc1f7ae5ed7",
-    "b4a2e2467e1fc7e8615b2a8f3d892b00",
-    "242aeee34a51c49e048303715873e874",
     "454708d9e79983876e6d706277a17201",
     "91c9b301c26d337713d857686ac05db3",
     "ad303b4fcf643ef42eba05d08242d59d",
@@ -16001,7 +15995,13 @@
     "382e1749560fa54634b18376334db7e9",
     "596499e2462497d822aff23ae9bd07cd",
     "7e5257af15061b22aa404d02435d2ae2",
-    "81a88ba8250a8eec6718ea1196cc4ee8"
+    "81a88ba8250a8eec6718ea1196cc4ee8",
+    "cd26e0f7e9a2908e4ccb32696345c316",
+    "dd822c516edd812801eb869873391acd",
+    "d9fd4c996a5204669dba893d1d92fb0f",
+    "4a2d792c63360a7bfbe617aa2b8391d4",
+    "423a281088ba939eb16fe8e55c48097a",
+    "9e0ed34951ede9fa348aef1b56de7c46"
   ],
   "transfers": {
     "pages": {
@@ -21316,6 +21316,26 @@
     {
       "t": "2026 30th 8 announced association awards cesa cesaon computer detailed entertainment gam game information japan judging panel revealing schedule september supplier that unveils while",
       "ts": 1789103846.2496073
+    },
+    {
+      "t": "11th announced content contest creation expand game holding hosts kuya mnb netmarble netmarblenetmarble organized restaurantz roblox that using utilizing",
+      "ts": 1789103851.288771
+    },
+    {
+      "t": "10 announced commendation contributions culture health initiatives its life minister prevention received receives respect september soop soopsoop spreading suicide supporting that welfare",
+      "ts": 1789103854.7754326
+    },
+    {
+      "t": "11 21 announced cafe collaboration creative escape leesang maplestory nexon nexonnexon officially open room sept that utilizing will",
+      "ts": 1789103861.8008425
+    },
+    {
+      "t": "2026 aims announced back bank dome finals games gamesriot gen host kspo lck olympic park riot season single songpa that titles will woori",
+      "ts": 1789103865.243787
+    },
+    {
+      "t": "11th announced arc asia asiaarc begun complete dave diver edition have korean open orders physical pre system that works",
+      "ts": 1789103868.9272182
     }
   ]
 }
