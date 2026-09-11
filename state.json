@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlZqRkpkUVJaaU1LeEQ1NEJJSm4xd3FvVjlhOHZPbXBQcVlnR09OVVBkaWFkSXZ4OUhFUV9KYmczVjBjdzBMSERBbG9qSHJCX0V0UWZCWFR1X0VXMFIxaWdxTEVEMzRvNFk4SGJGaEx4SUMwaVN3M0tJaURZQXdjNDJqSUt3ZXg2QTYzdVV1czlSemlNWG5F?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHY0cl94czlZcmZ5S2F5MEQxaWw1Wkx6bk5BbG9qN043T3RWVjlCSUVGSHRiOTktM2dmcGJ1WEZ2VHZ2MXB6ZHp5a2h0akVVNnNBdG80eHNGS0NtSGlIbGtFVjNocl9HbUV4UUtnUkZRRXhOeVlLRHZpUmdUMFZCeWtBazN0OWlpa1lSSjc3LWhoNlBVaGRodVFyVTZIclNweHFPV0JLRFpBVDRpQzUtSA?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcE9LUFlhazFCTEtvcTRGWldYem1CWklTRDBsalVwR2g1aXBPTEFNZENqTUpaRHpfeVpER19MVzBqQTJBUGozdG4yWE9felRMVlc0TWk4YzVSLW5TeFBvZTJmVlZpdlNUUGRyQ1VYSXhoSlFhdFZsMERMcTdVZFJIODBiZ182d2FsSVZZcDlUQUpLcTVxRlE?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlZ5d1o2QVM4cTVzM1ktdVVZU3p6ZGQ5Mnh0RmpRbE9wYVZza2t0d1JERDJiRUh6T01POHlqc2VDVXJ1U1lkRXJTS0RfVXN4MktqUGh1dHhEVlk1UFAxVkNUaE12VGp3RE5qSWdvcWtZVUhXVHdYYnJEMWp3SXpmMUxfTlZBekRoM2Nid2p1T0QyazktQVlJU3prekFKbHdFUEdxZUFTUDJ4b1E?oc=5",
-    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSDNZc2FHeXVyZzBFczhHM0lXbmM4X1dDOW0zLUpPUldaZ2NjYnZ0QXdiU0dTSDNLRDR1WUdNSFV5SDI2c3VVYVVETUFNS0xnZFhkSGJzc0NLU0xWZ0phZ2h6ZVlYVWo0M3M3UTFwcFZ5bWU0MHhucUc4WWdXMnozQ1JQbWg3YW1tb3lpVXZCbWdFS1MzVzZEY1VZNmZiMUZmNVV1M1h3SjlTV0wtaU41WU95QVVGYlpoWWsxZ0hKczJ0WDRtcm82ZlZzQkNwbzZYWXl2bTFhak00Zy1QRTl5VTJJNF9CdzNWeDZIQmJ2N0Y?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmhTR2xtYS0zQXJvSVpka0VvSHB0T2ZGR2FYeG5YZjg4b1k1dHV5UlZ3Wm54T2RHS3REWVkwWjhLQ2dnM093RkZnVVNXSlBKdmxHeTNlZENmaVcxdXNBMjg0aEx3dkZvUFJuZWNqTXNhVkFxYi1ZYTUySktMeDFyUEhfOGNMX0QwbDZMdTM5RXd1ejJza1NEU1pkSWtfSi11QjMwLU1n?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVVxWlhnbXAxQ1BqeGl2eVR4YUFhcEczaEt6bTJ4TFF4Q09UZWozRnFRRVpXbnZucndOX1h1Wkd2NUswb19EZkVvbE1aeW9qOGF6ZUlhVDVIX3RXVk9QTU9MNnB3NG1ObU03bHcwT0FuWGxCR0x4Xzl0UUg5N19MZzhzZVJfS3ZuT1dWOU9n?oc=5",
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWG5rRTZTa19XQ2RuclA4WDUwM3k2dUNnRVd2MnZyYVhrT2dlWkl3dFpkUk1BTlZUR1M0cUljWnZoMlJuNFVxQUo2eUN0ME5fQmljQk1kcTBiekI4WHV2WmpTY3FyZXRHSTdTMGdmdDVnVm9lLWJIQlVscjdJa1dyTjVHSnVWUVh2akY5eEUwWktYamFrTzVYelZaZ0ZqcTNjV2pRN0YwYy1WUjE1dm5VNXFESldHcF9IcEdfdzJLeDJYSkJxV21qTzhIWXJYRUFleHlVUmlqNUtYTHhXTVRfMEN6QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS2lpWDNHZnlKODQ4eXFKUXp5bWdTQkdUanM0RmtnYXhRZWs0M0FPYmtDZ05DRnJwczNDRG1oQmZQWkY0RFVkWVhTVE4zd3FYaWJvN0FxMUxhaERBQlc0UEV2ZkF0THVhcGJVdFhtTy1pMDZVcGxRQ1gzVFhCVVFKNlp2NTRETHVDcEZWaHhPaUtRbW0yc055bUJDZHcyYU1PYzlybVM5a1VUNlZDU29PbXZza1dueUZjZURCUVJZcmhMYWQtQm10b29hbXlTUTlpeW1adzRCcUlXTkRQUWh0YXFtaXZTQl9WVXZ0ZF8yWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBcEFKM0JQLXE3djkyeF85bWhfR19pdmtyZVZyWUFPZFgwVWNURlMxVHFrcUpkMGV2RU9tZHIyb1RNRmozVUpENTA0dDZkTUNMUDdmTGdOampTNWc5MUp4eXVuMnZtY2NOWWc?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmF2M21XY3pPekg4dVd2cWt6Z05TSUJocjVYR01jMkUxY1JsV2lkMGIzM185c2JRVlk0eU5HWGh1eFpGYzk3WV95N2RJWUZLS3dWMzA2MFAxXzFxOGhEM3BJWGdLbG04cW9XN3NGOElOVDVwWU1yYk80TXVmUlpzSzhwam9UY3cyTEI2Wmt4U3g2ZjZjdDByN251MHBOR1VnZy1ScjBKek1DTFl0?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1Vack1sVUx6M09ZYU1SbzZGTlJ1c21DWVhnLVNZWVlSdUxvdmYwd0wtZmhkdmZ5SE8zMzdJNVZnYTE5UjdieV9jeXB4MVhSVThOWFZHakhBQjFxMzNNTTFwVEdhTWd4anNnWE8ydjNzakRvMVhHWWk3eF93UGZ1ZHBJSjdNWFhyYjk0Nk54d2tKSFZXbFhWRHlPbnpFMkR6bXIxTW1TU1ZjVHM4cFV5ZGc5c3lZa0VfRUJXOVVIdVpTV2lfdVhnaHQ4azc?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xb0E5dHhjNDZveVB2NGVKMFR5MlY0NzNRaWJ1Wlh6V1FISnJMSXRtalp4cE0yNXJDaDFNODhlUWdqVGIzWUhNMV91YWUwdWlnb2N6RHpHcHpvaUtJNFZmSzAtZktBWWlhU293dW03SVN1eHM?oc=5",
@@ -7999,19 +7989,19 @@
     "https://www.gamesindustry.biz/gta-6-will-have-a-halo-effect-for-the-entire-industry-opinion",
     "https://www.gamesindustry.biz/cloud-imperium-delays-squadron-42-to-2027-there-is-no-way-i-want-to-launch-into-the-attention-buzz-saw-of-gta-6",
     "https://www.nerfplz.com/2026/08/seraphine-counters-best-counter-picks.html",
-    "https://www.nerfplz.com/2026/09/top-10-champions-who-fall-off-hardest.html"
+    "https://www.nerfplz.com/2026/09/top-10-champions-who-fall-off-hardest.html",
+    "https://www.nerfplz.com/2026/11/movement-speed-explained-10-rules-of.html",
+    "https://www.nerfplz.com/2027/01/funny-things-every-lol-player-has-done.html",
+    "https://www.nerfplz.com/2026/11/lol-jungle-plants-explained-10-rules-of.html",
+    "https://www.nerfplz.com/2026/09/power-spikes-explained-when-you-are.html",
+    "https://www.nerfplz.com/2026/08/locke-counters-best-counter-champions.html",
+    "https://europeangaming.eu/portal/press-releases/2026/09/11/213985/galaxsys-egyptian-legends-slot/",
+    "https://europeangaming.eu/portal/press-releases/2026/09/11/213972/wazdan-jupiter-gaming-uk-content-deal/",
+    "https://europeangaming.eu/portal/gambling-tax-rates-europe/",
+    "https://europeangaming.eu/portal/press-releases/2026/09/11/213960/kendoo-3-super-fortune-trees-slot/",
+    "https://europeangaming.eu/portal/latest-news/2026/09/10/213897/fatf-publishes-new-red-flag-indicators-for-gambling/"
   ],
   "title_hashes": [
-    "2596ce55a0af1c61169e2d504cb3778c",
-    "08d5de2a115223333f5e4b15a0d71867",
-    "f31593169ea6a876af95a0f992c4d8f2",
-    "1b0f7a85ff535e77ce514047e224a5c1",
-    "d31202e99930eae0f8d335caf2585f4f",
-    "1d4757d384c39dfa1f3bdb97ad46ea1b",
-    "1db23fcd3e062d8ba13b9dc178896792",
-    "6da5a16a6b4bd0a4be9f278660b6c804",
-    "63871b5fa1ff3d13be53cc7d683d7bb5",
-    "4c9ebb63962dbc3d8b9a240718062c4b",
     "13fa1875a0c6ee4ad0c06c1c159ae506",
     "9d469c268902c13ce555403cb58a7f69",
     "f5bfd8e2608340c39b0bdd1ea1243383",
@@ -16001,7 +15991,17 @@
     "83b5bc4e6bf4fcab8536c462d6fbee41",
     "c19812ddc1aeb0ba8e38698ab58e2de4",
     "bc6b011820523f31ceba48f0208f5c9f",
-    "60cb14cd5981ffb623b37ecc1bc9f692"
+    "60cb14cd5981ffb623b37ecc1bc9f692",
+    "1687ffd83bc172781ab5789f912f7b2e",
+    "402f39dea552ad9a5688f7a5303ce62a",
+    "93151312dabb19449e30106118a4eeed",
+    "862c0bfbf7a0d236dd86fda950c5202f",
+    "2109b63647e22525040222993d2a640e",
+    "fe1dc7d94856b841f6492f8d8c504a13",
+    "c6c6ffd0af87e8dab43fc8acbb3569e3",
+    "90fca867b9179c299fce269ed6735b68",
+    "67bd0a5bca19d10995d868a6b355d207",
+    "2956a78c47e5fe8d1a7c49673d142140"
   ],
   "transfers": {
     "pages": {
@@ -21400,6 +21400,26 @@
     {
       "t": "10 champion champions early every fall fifteen first game going good hardest into keeps late made minutes off own power score somewhere spectator ten their then these they top trades turn who win",
       "ts": 1789120136.7582254
+    },
+    {
+      "t": "8217 8230 bar began building catalogue constructing early egyptian five galaxsys latest launches legends marks mechanic only out post progress slot slots stage step",
+      "ts": 1789120141.580753
+    },
+    {
+      "t": "8217 8230 across adds appeared builds casino catalogue content deal gaming goes its jupiter live network operator out post sites six under wazdan",
+      "ts": 1789120144.9411626
+    },
+    {
+      "t": "2026 8230 across always europe european full gambling headline not operators pay percentages players post rates story tax telling vary what widely",
+      "ts": 1789120148.300644
+    },
+    {
+      "t": "3 8230 appeared bonus bonuses builds combinable features fortune isle its kendoo launches layering man mechanic post pots stacked studio super three trees wheel",
+      "ts": 1789120151.6362624
+    },
+    {
+      "t": "8217 8230 appeared detailed exceed fatf first flag found gambling illegal indicators legal look markets new online post publishes red rival that unlicensed watchdog",
+      "ts": 1789120155.3829565
     }
   ]
 }
