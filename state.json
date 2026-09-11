@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/01/atari-reports-6m-in-losses-over-the-last-year/",
-    "https://thebusinessofesports.com/2021/09/01/challengermode-and-team-singularity-form-partnership/",
-    "https://thebusinessofesports.com/2021/09/01/__trashed-46/",
-    "https://thebusinessofesports.com/2021/09/01/__trashed-27/",
-    "https://thebusinessofesports.com/2021/08/31/japanese-server-company-launching-countrys-first-elderly-esports-team/",
     "https://thebusinessofesports.com/2021/08/31/yield-guild-games-announces-it-has-raised-4m-in-funding/",
     "https://thebusinessofesports.com/2021/08/31/motorsport-games-leaks-images-from-latest-nascar-title-company-will-also-produce-an-indycar-video-game/",
     "https://thebusinessofesports.com/2021/08/31/d-box-technologies-inc-agrees-to-sponsorship-deal-with-sdl-esports/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25785/ncsoft-to-launch-pc-cafe-service-for-once-human-on-september-17",
     "https://www.invenglobal.com/articles/25784/soul-strike-adds-new-growth-content-origin-power",
     "https://www.invenglobal.com/articles/25783/stars-of-dominant-champion-teams-new-uc-class-released-in-fc-online",
-    "https://www.invenglobal.com/articles/25782/kis-my-ft2s-toshiya-miyata-selected-as-official-supporter-for-tgs-2026"
+    "https://www.invenglobal.com/articles/25782/kis-my-ft2s-toshiya-miyata-selected-as-official-supporter-for-tgs-2026",
+    "https://www.invenglobal.com/articles/25781/miss-out-and-lose-out-recharge-stone-crafting-and-event-dungeon-added",
+    "https://www.invenglobal.com/articles/25780/prinny-party-going-overboard-demo-released",
+    "https://www.invenglobal.com/articles/25777/sony-notified-us-of-project-cancellation-kojimas-new-title-physint-partners-with-xbox",
+    "https://www.invenglobal.com/articles/25778/rom-remember-of-majesty-opens-season-2-of-boosting-server-velba",
+    "https://www.invenglobal.com/articles/25776/romance-of-the-three-kingdoms-xiv-with-power-up-kit-complete-edition-released"
   ],
   "title_hashes": [
-    "423b252113f4ae4a75ac5e6df2e283d0",
-    "2c95794525df13012d5fe1099c2bd614",
-    "9c0d83675eed66f474fe7d46824eab18",
-    "df496ae6e5071798335c66786ad8c60e",
-    "947c2e6483b700346f9c0c960070a54a",
     "47d87f9db4ecf55ac0f4f9cba01911bd",
     "6b7931b903d4f5b1ce8d8cfdffd377e6",
     "6001c1cd2df81a20fe9280909376a4f1",
@@ -16001,7 +15996,12 @@
     "27f511611adebf0c723f6605c387d9ea",
     "e82461fa65d574e08a0075c2bb05b048",
     "0d0394544c9b5acda9627b613a86e035",
-    "d3f04178b9f508da84b00951d60f1e38"
+    "d3f04178b9f508da84b00951d60f1e38",
+    "34468e8195822ac88ddba15ef339c8a0",
+    "b36a57a21c3a9c4cab90fdc0be5cafa2",
+    "947ae9484a91e55f9bf9fd02589c6e43",
+    "b7a8c069e3e563b0cb8a6bbe5132d908",
+    "e49b58476d5de92b345fcd41d594ce20"
   ],
   "transfers": {
     "pages": {
@@ -21428,6 +21428,26 @@
     {
       "t": "2026 2026toshiya been ft2 game group has idol japanese kis member miyata official popular selected show supporter tgs tokyo toshiya",
       "ts": 1789086887.8667035
+    },
+    {
+      "t": "9 added addition crafting destruction dungeon enhancement equipment event featuring genesis grace lose miss new out prevents recharge released scroll september stone that update wednesday",
+      "ts": 1789086893.601983
+    },
+    {
+      "t": "10 clouded demo entertainment entertainmenton eshop game going leopard nintendo overboard party playstation prinny released september store",
+      "ts": 1789086897.0893118
+    },
+    {
+      "t": "action been cancellation collaboration currently development ended game has invenit its joine kojima new newly notified original partners physint productions project reported sie sony stealth that title xbox",
+      "ts": 1789086900.6390524
+    },
+    {
+      "t": "10th 2 announced boosting games gamesredlab hardcore has hereinafter launched limited majesty mmorpg opens redlab remember rom season server that velba",
+      "ts": 1789086904.1518698
+    },
+    {
+      "t": "10th announced complete digital edition game games has historical kingdoms kit koei power released romance simulation tecmo that three touch touchdigital xiv",
+      "ts": 1789086907.6590445
     }
   ]
 }
