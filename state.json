@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/14/h3cz-reportedly-seeking-sole-ownership-of-optic-chicago/",
-    "https://thebusinessofesports.com/2021/06/14/twetch-arcade-launches-first-game/",
-    "https://thebusinessofesports.com/2021/06/14/facebook-gaming-executive-dropped-from-apple-epic-games-trial/",
-    "https://thebusinessofesports.com/2021/06/14/envy-gaming-teaming-up-with-generation-esports/",
-    "https://thebusinessofesports.com/2021/06/14/laliga-north-america-and-verizon-unveil-partnership/",
     "https://thebusinessofesports.com/2021/06/14/netflix-is-trying-to-enter-the-gaming-world-with-rumors-of-a-new-subscription-service/",
     "https://thebusinessofesports.com/2021/06/14/business-of-esports-tv-competitive-spreadsheet-making/",
     "https://thebusinessofesports.com/2021/06/13/ubisoft-developing-free-to-play-game/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25848/village-in-the-shade-receives-free-update-on-the-29th",
     "https://www.invenglobal.com/articles/25847/sega-booth-at-tokyo-game-show-2026-to-feature-16-titles-on-stage",
     "https://www.invenglobal.com/articles/25846/stupid-never-dies-unveils-system-overview-video-and-tgs-2026-showcase-details",
-    "https://www.invenglobal.com/articles/25845/the-claw-pop-up-opens-in-hongdae-marvels-wolverine-demo-begins-on-the-15th"
+    "https://www.invenglobal.com/articles/25845/the-claw-pop-up-opens-in-hongdae-marvels-wolverine-demo-begins-on-the-15th",
+    "https://www.invenglobal.com/articles/25844/6-legendary-weapon-appears-market-price-overview",
+    "https://www.invenglobal.com/articles/25843/official-korean-localization-of-magical-girl-witch-trials-enters-final-phase",
+    "https://www.invenglobal.com/articles/25842/muramasa-revenant-blades-set-to-launch-february-4-2027",
+    "https://www.invenglobal.com/articles/25841/arknights-endfield-autumn-picnic-pop-up-open-until-september-20",
+    "https://www.invenglobal.com/articles/25840/tokyo-game-show-2026-draws-record-high-1138-exhibitors-floor-map-revealed"
   ],
   "title_hashes": [
-    "5f4a7c312daf2c303b2e70e5d3431028",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "4c0faa322e46535f715c8ed945d455f5",
-    "efd45ce5edb8a2d2ff41b0ce38cf08e6",
-    "c8bc2690706f241b2f3133af30b18a42",
     "eb4f6ca2b18016e691fb9f1f6782059a",
     "6acad0e23d390eb8962a807093fb18b8",
     "e990505a89f9a461bdda037852ff96fc",
@@ -16001,7 +15996,12 @@
     "72d052fa8a57d48c238fb9961b37a86c",
     "4c86236f2e115914d07f2066a6c0b7d2",
     "373cdb8afce4d7c8712dddce3cb4ebad",
-    "9dd59b28c5b4d8be490ad07339189402"
+    "9dd59b28c5b4d8be490ad07339189402",
+    "b564ada7bc2777fcd1193de9a01eb366",
+    "e59367face2579d6dcea47a5b5017be1",
+    "aa8102271b5ddba79ef07aa30ce73250",
+    "d67f91b0d105a4a6c74590ed570ec02f",
+    "79dd906d12bde32ff7d6b480b56f66c0"
   ],
   "transfers": {
     "pages": {
@@ -21240,6 +21240,26 @@
     {
       "t": "11th 15th 3rd begins claw demo entertainment event floor hongdae interactive koreaplaystation marvel opened opens plaza pop seoul sony wolverine",
       "ts": 1789119982.7998314
+    },
+    {
+      "t": "6 9 added allows alongside appears attempts destroying enchant enhancement equipment genesis grace hereafter holy legendary market overview price scroll september sol water weapon wednesday which without",
+      "ts": 1789119987.7154617
+    },
+    {
+      "t": "11th acacia acaciaon adventure announced brand creative enters final game girl has its korean localization magical mystery official phase progress revealed trials witch",
+      "ts": 1789119991.1394298
+    },
+    {
+      "t": "2027 4 action announced blades edition february h2 interactive interactiveh2 japanese korean launch muramasa officially physical revenant rpg set style that will",
+      "ts": 1789119994.934812
+    },
+    {
+      "t": "11 20 3d announced arknights autumn collaboration endfield gryphline gryphlineon its open operating picnic pop real rpg september store strategy that time until",
+      "ts": 1789119998.4242887
+    },
+    {
+      "t": "1 10 138 2026 association cesa cesaon computer details draws entertainment exhibitor exhibitors floor game high including key map opening pre record revealed scale september show supplier tgs2026 tokyo unveiled ven",
+      "ts": 1789120001.972202
     }
   ]
 }
