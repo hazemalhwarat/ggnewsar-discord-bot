@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/02/14/live-after-show-118b-ubisoft-stock-fall-ea-acquires-glu-single-zynga-astralis-retail-north-esports-dead-ikea-gaming/",
-    "https://thebusinessofesports.com/2021/02/12/episode-118-video-esports-gaming-by-the-numbers-sim-vs-real-racing/",
-    "https://thebusinessofesports.com/2021/02/12/episode-118-esports-gaming-by-the-numbers-sim-vs-real-racing/",
-    "https://thebusinessofesports.com/2021/02/10/business-of-esports-minute-035-rip-stadia-lazy-faze-epic-freebies/",
-    "https://thebusinessofesports.com/2021/02/08/business-of-esports-weekly-news-337/",
-    "https://thebusinessofesports.com/2021/02/08/live-after-show-117b-749m-epic-freebies-lazy-faze-nintendo-cancels-fun-stadia-games-dead-ea-sports-college-football-gaming-monkeys/",
     "https://thebusinessofesports.com/2021/02/05/episode-117-video-riot-games-insights-esports-partnerships-sponsorship-trends-china-1-in-game-ads-riot-mmo/",
     "https://thebusinessofesports.com/2021/02/05/episode-117-riot-games-insights-esports-partnerships-sponsorship-trends-china-1-in-game-ads-riot-mmo/",
     "https://thebusinessofesports.com/2021/02/03/business-of-esports-minute-034-gamestop-fallout-tencent-ma-record-microsoft-misstep/",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/silent-hill-townfall-release-date-countdown-exact-start-times/",
     "https://insider-gaming.com/is-marvels-wolverine-coming-to-pc/",
     "https://insider-gaming.com/control-resonant-release-date-countdown-exact-start-times/",
-    "https://insider-gaming.com/death-stranding-2-has-reportedly-sold-over-2-5-million-copies/"
+    "https://insider-gaming.com/death-stranding-2-has-reportedly-sold-over-2-5-million-copies/",
+    "https://insider-gaming.com/square-enix-exploring-final-fantasy-collaborations-but-no-fortnite-news-yet/",
+    "https://insider-gaming.com/miami-beach-approves-negotiations-for-gta-6-marketing-campaign/",
+    "https://insider-gaming.com/frontier-developments-reveals-roadmap-for-new-planet-franchise-disney-game/",
+    "https://traxion.gg/glenda-studio-adac-simracing-and-nitro-concepts-join-simracing-expo-frankfurt-line-up/",
+    "https://esportsinsider.com/2026/09/jack-williams-itero-1-million-downloads-ai-coaching",
+    "https://esportsinsider.com/2026/09/valorant-vs-mlbb-which-game-dominates-womens-esports"
   ],
   "title_hashes": [
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "5503de6e7077284d62f07e36bfe08f3a",
-    "9c8788c4d25b8ca57149c75d3e778a79",
-    "4b07a99cb3af7e3c0bb25ac14e49eaa7",
-    "a8c31150ee5d4f8000b0aca6fa3bab8a",
-    "8e83830733f4bf775f77ce0e1dca82c0",
     "7fb07f52a31536e82790d9ac52d4ca63",
     "aa1db0db282090f9ce0bd65fbb6e79f6",
     "a29be9061d66bfc1a56d5975d322ef0c",
@@ -16001,7 +15995,13 @@
     "14eacfaf8ea3c074e9254e59b4376e58",
     "0865ee7532226bd0dbeb0ed2577682d2",
     "867f8bdbbc055dd8d410a98b99efaf58",
-    "ff718f5477d0be153a0c14b4ff95faa2"
+    "ff718f5477d0be153a0c14b4ff95faa2",
+    "d813aaf7e250a4b0bc9a3a65393d77ef",
+    "305a0b9185779049168745745b557229",
+    "24ea1ef27fd817be107efc31fafb4144",
+    "f40b8389cfe8915efa983a2aae3d2ee7",
+    "38c384b3e224a40e1f434dcdd6168652",
+    "ea688e146c6d29e2d252660b47304349"
   ],
   "transfers": {
     "pages": {
@@ -21380,6 +21380,26 @@
     {
       "t": "2 5 analyst appe copies data death details has here hideo kojima million more new over post reportedly revealed sold stranding that",
       "ts": 1789134795.7495916
+    },
+    {
+      "t": "8216 8217 although arrival but collaborations enix exploring fantasy final fortnite franchise news post square there update yet",
+      "ts": 1789134800.9628568
+    },
+    {
+      "t": "6 app approved approves auto beach campaign city games grand gta has marketing miami negotiations post promoting rockstar theft",
+      "ts": 1789134804.4198356
+    },
+    {
+      "t": "coming developments disney franchise frontier game has including new planet post released reveals roadmap titles upcoming years",
+      "ts": 1789134807.8855593
+    },
+    {
+      "t": "000 1 2024 acquisit after app coaching comes download esports following formerly future giantx growth hit impressive itero jack milestone period powered recently williams",
+      "ts": 1789134811.3396802
+    },
+    {
+      "t": "annual building centers championsh changers circuit clear competitions dominates esports five game global gravity has into mlbb open qualifiers regional spent two valorant which women world years",
+      "ts": 1789134816.7418168
     }
   ]
 }
