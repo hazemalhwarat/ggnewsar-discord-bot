@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/22/lucid-sight-raises-2-58-million-to-launch-colyseus-arena-a-cloud-hosted-multiplayer-gaming-service/",
-    "https://thebusinessofesports.com/2021/10/22/china-bans-pubg-esports-in-compliance-with-government-regulations/",
-    "https://thebusinessofesports.com/2021/10/22/realme-expanding-alot-product-line/",
-    "https://thebusinessofesports.com/2021/10/22/nazara-raises-41-86m-from-investors/",
-    "https://thebusinessofesports.com/2021/10/22/secretlab-unveils-the-flash-and-superman-gaming-chairs/",
     "https://thebusinessofesports.com/2021/10/21/roy-anderson-named-cfo-of-allied-esports/",
     "https://thebusinessofesports.com/2021/10/21/arker-announces-crypto-rewarding-game/",
     "https://thebusinessofesports.com/2021/10/21/viacomcbs-networks-americas-and-knvoy-partner-for-master-league/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25849/from-wardogs-to-touhou-koumakyou-and-blizzcon-the-news-heating-up-steam-this-week",
     "https://www.invenglobal.com/articles/25848/village-in-the-shade-receives-free-update-on-the-29th",
     "https://www.invenglobal.com/articles/25847/sega-booth-at-tokyo-game-show-2026-to-feature-16-titles-on-stage",
-    "https://www.invenglobal.com/articles/25846/stupid-never-dies-unveils-system-overview-video-and-tgs-2026-showcase-details"
+    "https://www.invenglobal.com/articles/25846/stupid-never-dies-unveils-system-overview-video-and-tgs-2026-showcase-details",
+    "https://www.invenglobal.com/articles/25845/the-claw-pop-up-opens-in-hongdae-marvels-wolverine-demo-begins-on-the-15th",
+    "https://www.invenglobal.com/articles/25844/6-legendary-weapon-appears-market-price-overview",
+    "https://www.invenglobal.com/articles/25843/official-korean-localization-of-magical-girl-witch-trials-enters-final-phase",
+    "https://www.invenglobal.com/articles/25842/muramasa-revenant-blades-set-to-launch-february-4-2027",
+    "https://www.invenglobal.com/articles/25841/arknights-endfield-autumn-picnic-pop-up-open-until-september-20"
   ],
   "title_hashes": [
-    "e9131c6ed0e376d6cbcd3f4f8614cd6c",
-    "e2ffafaa61f8bf556088ac5a10932b41",
-    "18fb2dab261bf0070efaf6bd26b2369a",
-    "bc722ae946bb7499494f1bac74c1889c",
-    "293a13d1d81719b2250d588175316385",
     "4dc2c55337426f0f74f59e9639c54f67",
     "7a4bfbab7a1e0cd3a0b4d61ab64e8300",
     "376c9b1fcc00bd0df332928908be2c20",
@@ -16001,7 +15996,12 @@
     "a1fba9d6033df6cf1e2c5b97132a9846",
     "72d052fa8a57d48c238fb9961b37a86c",
     "4c86236f2e115914d07f2066a6c0b7d2",
-    "373cdb8afce4d7c8712dddce3cb4ebad"
+    "373cdb8afce4d7c8712dddce3cb4ebad",
+    "9dd59b28c5b4d8be490ad07339189402",
+    "b564ada7bc2777fcd1193de9a01eb366",
+    "e59367face2579d6dcea47a5b5017be1",
+    "aa8102271b5ddba79ef07aa30ce73250",
+    "d67f91b0d105a4a6c74590ed570ec02f"
   ],
   "transfers": {
     "pages": {
@@ -21232,6 +21232,26 @@
     {
       "t": "2026 22 action ahead anno details dies first installment its korea never october overview publishing release released rpg sega series showcase stupid system tgs unveils upcoming video",
       "ts": 1789188651.3560922
+    },
+    {
+      "t": "11th 15th 3rd begins claw demo entertainment event floor hongdae interactive koreaplaystation marvel opened opens plaza pop seoul sony wolverine",
+      "ts": 1789188657.4085433
+    },
+    {
+      "t": "6 9 added allows alongside appears attempts destroying enchant enhancement equipment genesis grace hereafter holy legendary market overview price scroll september sol water weapon wednesday which without",
+      "ts": 1789188661.0046768
+    },
+    {
+      "t": "11th acacia acaciaon adventure announced brand creative enters final game girl has its korean localization magical mystery official phase progress revealed trials witch",
+      "ts": 1789188664.6638145
+    },
+    {
+      "t": "2027 4 action announced blades edition february h2 interactive interactiveh2 japanese korean launch muramasa officially physical revenant rpg set style that will",
+      "ts": 1789188668.2050247
+    },
+    {
+      "t": "11 20 3d announced arknights autumn collaboration endfield gryphline gryphlineon its open operating picnic pop real rpg september store strategy that time until",
+      "ts": 1789188671.7383442
     }
   ]
 }
