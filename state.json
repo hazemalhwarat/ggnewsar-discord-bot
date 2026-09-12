@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/14/netflix-is-trying-to-enter-the-gaming-world-with-rumors-of-a-new-subscription-service/",
-    "https://thebusinessofesports.com/2021/06/14/business-of-esports-tv-competitive-spreadsheet-making/",
-    "https://thebusinessofesports.com/2021/06/13/ubisoft-developing-free-to-play-game/",
-    "https://thebusinessofesports.com/2021/06/13/people-can-fly-ceo-talks-about-acquisition-of-game-on/",
-    "https://thebusinessofesports.com/2021/06/13/e-l-f-cosmetics-debuts-twitch-channel-with-gaming-competition/",
-    "https://thebusinessofesports.com/2021/06/13/17-suspicious-esports-betting-cases-reported-to-ibia/",
-    "https://thebusinessofesports.com/2021/06/13/business-of-esports-tv-the-hp-spring-collection/",
-    "https://thebusinessofesports.com/2021/06/12/emerge-esports-announces-collaboration-with-tiktok/",
-    "https://thebusinessofesports.com/2021/06/12/ebn-and-psi-team-up-to-launch-the-university-e-league/",
-    "https://thebusinessofesports.com/2021/06/12/modern-times-group-reveals-2021-q1-financial-results/",
     "https://thebusinessofesports.com/2021/06/12/episode-135-video-ggcircuit-lan-centers-netflix-gaming-subscription-valorant-popularity/",
     "https://thebusinessofesports.com/2021/06/12/business-of-esports-tv-astralis-gaming-center/",
     "https://thebusinessofesports.com/2021/06/12/episode-135-ggcircuit-lan-centers-netflix-gaming-subscription-valorant-popularity/",
@@ -7999,19 +7989,19 @@
     "https://www.vlr.gg/752452/global-esports-pulls-off-miraculous-reverse-sweep-to-lift-first-vct-title",
     "https://www.vlr.gg/752130/loud-continues-miracle-run-to-qualify-for-champions",
     "https://www.hltv.org/news/45505/legacy-squeeze-past-mibr-in-overtime-inferno-decider-to-advance-to-fpg-grand-final",
-    "https://dotesports.com/valorant/news/vct-2026-champions-shanghai-pickems-guide"
+    "https://dotesports.com/valorant/news/vct-2026-champions-shanghai-pickems-guide",
+    "https://dotesports.com/general/news/starcraft-open-world-shooter-coming-2030",
+    "https://dotesports.com/genshin-impact/guides/genshin-impact-version-7-1-banners-vesna-and-vodyanitsa",
+    "https://dotesports.com/general/guides/blizzcon-2026",
+    "https://dotesports.com/marvel/news/all-marvel-rivals-achievements-rewards",
+    "https://esportsinsider.com/2026/09/esi-business-roundup-blast-riot-games-pgl",
+    "https://esportsinsider.com/2026/09/it-pains-me-to-say-i-dont-think-the-esports-market-is-there-yet-rolr-ceo-on-esports-betting-in-the-u-s-and-standing-out-in-the-betting-market",
+    "https://esportsinsider.com/2026/09/players-to-watch-valorant-champions-shanghai",
+    "https://esportsinsider.com/2026/09/fnatic-valorant-downfall",
+    "https://insider-gaming.com/blizzard-partners-with-netflix-for-animated-diablo-series/",
+    "https://insider-gaming.com/diablo-5-coming-in-spring-2029/"
   ],
   "title_hashes": [
-    "e755decdeca370f0ef9be4cf5d6e3e44",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "e5283b18330d42eff77398483d4f0b2c",
-    "52c25a64ea903ee8a10cce49807d6660",
-    "6d27ec5bb1dd301aeee5829f4be1931c",
-    "56926d50f6e7ef5635b9070abc8cdd2b",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "b53b25af0bb81d628d94c09db7dbea10",
-    "1c32b599d7f279ae218093f09a4acfe5",
-    "5a183b55e5d4b900a7acb21a0373c4aa",
     "7d93675002cfb37156491bf8ecaefd27",
     "27a0a8edf54a15c315385581d66aa6a0",
     "3d6066fb95c3682534eaa6f9b9a33cfd",
@@ -16001,7 +15991,17 @@
     "9c0e8a511cdcf2a827082b9f9ae3698b",
     "e8045668b99c651c9c9217f408bf88bb",
     "3ca4c20adcd461889cbebd60328681ed",
-    "2157a5bf1da87b709942bf72390f4df1"
+    "2157a5bf1da87b709942bf72390f4df1",
+    "8923bafe22e1036bce233e5f56f49df7",
+    "601aba00d27e5dd5876a16630d236eeb",
+    "6a5ef423ea2ddbf678bf8b4670241586",
+    "f03f65e14f3cce80a206ec984c08d88d",
+    "d9a15c10932c0916eb49bbe333854305",
+    "2ba5d0333a936f2538324f9b5e2affa7",
+    "86d6801240945903bd7ed231400766da",
+    "6d48e0de5768180c4ebc72fd2089837e",
+    "3d4bcfa1349332b64334892be2a4fae7",
+    "9637684f066c837b20abc59244612782"
   ],
   "transfers": {
     "pages": {
@@ -21160,6 +21160,26 @@
     {
       "t": "2026 all champions earn ems following get guide how pick rewards shanghai them tournament vct",
       "ts": 1789244662.0341325
+    },
+    {
+      "t": "2030 blizzard but coming finally isn long open real reveals rumored shooter starcraft until world",
+      "ts": 1789244666.9880974
+    },
+    {
+      "t": "1 7 banners characters genshin impact new snezhnayan version vesna vodyanitsa",
+      "ts": 1789244670.4349797
+    },
+    {
+      "t": "1xbet ambitions blast business considers deals down esi esports expanding expansion extends games inking into market markets mongolian never new organizations organizers partnership pgl prediction presence riot roundup slows sponsors support their tournament whether world",
+      "ts": 1789244674.1015117
+    },
+    {
+      "t": "2026 ahead also anim animated announced blizzard blizzcon diablo explore has more netflix overwatch partners partnership post projects series will",
+      "ts": 1789244677.5153549
+    },
+    {
+      "t": "2026 2029 5 also announced arrive been blizzard blizzcon chapter coming details diablo has next plot post revealed shared some spring story that would",
+      "ts": 1789244680.9429288
     }
   ]
 }
