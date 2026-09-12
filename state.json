@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/09/activision-blizzard-still-going-strong-in-booming-gaming-industry/",
-    "https://thebusinessofesports.com/2021/06/09/business-of-esports-tv-enthusiast-gaming-coldplay-collab/",
-    "https://thebusinessofesports.com/2021/06/09/hitmarker-partners-with-esportsccp/",
-    "https://thebusinessofesports.com/2021/06/09/financialnewsmedia-says-mobile-apps-are-the-future-of-gaming/",
-    "https://thebusinessofesports.com/2021/06/08/the-masters-tournament-is-making-its-return-to-video-games/",
     "https://thebusinessofesports.com/2021/06/08/ebay-to-ban-sale-of-adult-video-games/",
     "https://thebusinessofesports.com/2021/06/08/riot-games-partners-with-nodwin-gaming/",
     "https://thebusinessofesports.com/2021/06/08/business-of-esports-tv-yougov-insights-effective-ads/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25837/pok%C3%A9mon-pokopia-reveals-details-on-expansion-pass-part-2-featuring-accessories",
     "https://www.invenglobal.com/articles/25836/sanrio-characters-appointed-as-official-ambassadors-for-tgs-2026-family-game-park",
     "https://www.invenglobal.com/articles/25835/new-under-night-in-birth-ii-character-zohar-releases-on-the-16th",
-    "https://www.invenglobal.com/articles/25834/rtx-5090-up-for-grabs-nvidia-nba-2k27-dlss-5-poster-challenge"
+    "https://www.invenglobal.com/articles/25834/rtx-5090-up-for-grabs-nvidia-nba-2k27-dlss-5-poster-challenge",
+    "https://www.invenglobal.com/articles/25833/akina-ghost-story-research-institute-a-mage-clan-disguised-as-a-film-club",
+    "https://www.invenglobal.com/articles/25832/krafton-named-koreas-top-job-creation-company-for-5th-time",
+    "https://www.invenglobal.com/articles/25831/red-stone-renewal-project-reload-how-far-has-it-come",
+    "https://www.invenglobal.com/articles/25830/hanwha-lifes-raw-power-vs-t1s-veteran-experience-which-team-will-shake-the-kspo-dome",
+    "https://www.invenglobal.com/articles/25829/undecember-launches-new-season-the-farside"
   ],
   "title_hashes": [
-    "bb55aa2dda29726f18492f0bb583dcc3",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "6e4b93c481259a8c6df1be684a5bc3ee",
-    "ff3eba5a897eb872c43eb9550a7d6398",
-    "ed2719ea9a5c81fb98901e88edf9122f",
     "b1a12cc7dc0ca0f80ab4cee118482f9d",
     "4b4fc8c122ab2af09842c3c01df3fc15",
     "27a0a8edf54a15c315385581d66aa6a0",
@@ -16001,7 +15996,12 @@
     "7714f852efc3277812b3766b13b923f1",
     "006b80c6f8651923e610b058b8e4dbfa",
     "71c4f9727f861ee86b3efea1d30a9e26",
-    "542e42246c4c01196d1cbfbe4508fb5e"
+    "542e42246c4c01196d1cbfbe4508fb5e",
+    "08d7226015e340e376b3eb2a43fe9141",
+    "b1b659c1aad64cdb6dc3b9d4f7e7584c",
+    "382e1749560fa54634b18376334db7e9",
+    "596499e2462497d822aff23ae9bd07cd",
+    "7e5257af15061b22aa404d02435d2ae2"
   ],
   "transfers": {
     "pages": {
@@ -21352,6 +21352,26 @@
     {
       "t": "2k27 5 5090 cards celebrate challenge dlss game geforce grabs graphics has launched nba new nvidia offering poster prizes release rtx sports",
       "ts": 1789172256.3769052
+    },
+    {
+      "t": "127918 akina android astrae clan club disguised dynamis film game ghost infotitle institute iospopular mage magicalgirl ncplatform one oratiodeveloper rese research shindenki story subculture tags urbanlegendthe",
+      "ts": 1789172261.4446359
+    },
+    {
+      "t": "11 2026 5th announced companies company creation employment job korea krafton kraftonkrafton labor ministry named one organized selected september that time top",
+      "ts": 1789172265.0384107
+    },
+    {
+      "t": "23rd amp anniversary ceo come developed far has hereinafter how its korea korean launching logic marks mmorpg nam project red renewal service since stone taek this traditional won year",
+      "ts": 1789172268.6425838
+    },
+    {
+      "t": "12 2026 between dome esports experience final finals first hanwha kspo lck life match olympic park place power qualifier raw seoul september shake t1 take team veteran which will",
+      "ts": 1789172272.0936313
+    },
+    {
+      "t": "11 action announced developed farside games gamesline hack has its launches line needs new published rpg season september slash that undecember updated",
+      "ts": 1789172275.5645287
     }
   ]
 }
