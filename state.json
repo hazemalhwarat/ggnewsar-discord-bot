@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/08/ebay-to-ban-sale-of-adult-video-games/",
-    "https://thebusinessofesports.com/2021/06/08/riot-games-partners-with-nodwin-gaming/",
-    "https://thebusinessofesports.com/2021/06/08/business-of-esports-tv-yougov-insights-effective-ads/",
-    "https://thebusinessofesports.com/2021/06/08/turtle-beach-unveils-new-gaming-headset/",
-    "https://thebusinessofesports.com/2021/06/08/live-after-show-134b-valorant-mobile-tesla-console-hp-budget-gaming-mobile-in-game-ads-nvidia-crypto/",
-    "https://thebusinessofesports.com/2021/06/07/rock-band-cky-hints-at-potential-new-tony-hawks-pro-skater-game/",
     "https://thebusinessofesports.com/2021/06/07/production-has-reportedly-begun-on-an-indiana-jones-game/",
     "https://thebusinessofesports.com/2021/06/07/winners-bet-launches-traditional-sports-wagering-product/",
     "https://thebusinessofesports.com/2021/06/07/allied-esports-selected-by-trovo-to-produce-esports-series/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/25832/krafton-named-koreas-top-job-creation-company-for-5th-time",
     "https://www.invenglobal.com/articles/25831/red-stone-renewal-project-reload-how-far-has-it-come",
     "https://www.invenglobal.com/articles/25830/hanwha-lifes-raw-power-vs-t1s-veteran-experience-which-team-will-shake-the-kspo-dome",
-    "https://www.invenglobal.com/articles/25829/undecember-launches-new-season-the-farside"
+    "https://www.invenglobal.com/articles/25829/undecember-launches-new-season-the-farside",
+    "https://www.invenglobal.com/articles/25828/japan-game-awards-2026-unveils-detailed-schedule-and-judging-panel",
+    "https://www.invenglobal.com/articles/25827/netmarble-mnb-hosts-roblox-game-creation-contest-using-kuya-restaurantz-ip",
+    "https://www.invenglobal.com/articles/25826/soop-receives-ministers-commendation-for-suicide-prevention-and-respect-for-life-initiatives",
+    "https://www.invenglobal.com/articles/25825/nexon-to-open-maplestory-escape-on-sept-21",
+    "https://www.invenglobal.com/articles/25823/neople-named-one-of-2026-koreas-top-job-creation-companies",
+    "https://www.invenglobal.com/articles/25824/geng-aims-for-back-to-back-single-season-lck-titles"
   ],
   "title_hashes": [
-    "b1a12cc7dc0ca0f80ab4cee118482f9d",
-    "4b4fc8c122ab2af09842c3c01df3fc15",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "009efdc6fb717b0c6f5c6c56ae0c6ec1",
-    "b7ed3ebca2bcf7a56ff023308d4e76ec",
-    "cec26624e8d325f37841ef9f744da175",
     "59c8060120808b9723f22a90414a0201",
     "0464ca22cbffb66038a09096205d6bd0",
     "82355d6437cdb38838790c4fa6b47e37",
@@ -16001,7 +15995,13 @@
     "b1b659c1aad64cdb6dc3b9d4f7e7584c",
     "382e1749560fa54634b18376334db7e9",
     "596499e2462497d822aff23ae9bd07cd",
-    "7e5257af15061b22aa404d02435d2ae2"
+    "7e5257af15061b22aa404d02435d2ae2",
+    "81a88ba8250a8eec6718ea1196cc4ee8",
+    "cd26e0f7e9a2908e4ccb32696345c316",
+    "dd822c516edd812801eb869873391acd",
+    "d9fd4c996a5204669dba893d1d92fb0f",
+    "4a2d792c63360a7bfbe617aa2b8391d4",
+    "423a281088ba939eb16fe8e55c48097a"
   ],
   "transfers": {
     "pages": {
@@ -21372,6 +21372,26 @@
     {
       "t": "11 action announced developed farside games gamesline hack has its launches line needs new published rpg season september slash that undecember updated",
       "ts": 1789172275.5645287
+    },
+    {
+      "t": "2026 30th 8 announced association awards cesa cesaon computer detailed entertainment gam game information japan judging panel revealing schedule september supplier that unveils while",
+      "ts": 1789172281.3174503
+    },
+    {
+      "t": "11th announced content contest creation expand game holding hosts kuya mnb netmarble netmarblenetmarble organized restaurantz roblox that using utilizing",
+      "ts": 1789172284.8191817
+    },
+    {
+      "t": "10 announced commendation contributions culture health initiatives its life minister prevention received receives respect september soop soopsoop spreading suicide supporting that welfare",
+      "ts": 1789172288.3674514
+    },
+    {
+      "t": "11 21 announced cafe collaboration creative escape leesang maplestory nexon nexonnexon officially open room sept that utilizing will",
+      "ts": 1789172291.8433793
+    },
+    {
+      "t": "2026 aims announced back bank dome finals games gamesriot gen host kspo lck olympic park riot season single songpa that titles will woori",
+      "ts": 1789172295.385686
     }
   ]
 }
