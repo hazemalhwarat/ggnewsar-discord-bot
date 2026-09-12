@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/07/production-has-reportedly-begun-on-an-indiana-jones-game/",
-    "https://thebusinessofesports.com/2021/06/07/winners-bet-launches-traditional-sports-wagering-product/",
-    "https://thebusinessofesports.com/2021/06/07/allied-esports-selected-by-trovo-to-produce-esports-series/",
-    "https://thebusinessofesports.com/2021/06/07/hsel-and-msel-teaming-up-with-nasef/",
-    "https://thebusinessofesports.com/2021/06/07/newzoo-says-global-gaming-market-will-shrink-in-2021/",
     "https://thebusinessofesports.com/2021/06/07/wynn-interactive-to-become-independent-company/",
     "https://thebusinessofesports.com/2021/06/07/take-two-interactive-to-acquire-mobile-developer-nordeus-for-378m/",
     "https://thebusinessofesports.com/2021/06/07/harrisburg-university-launches-north-americas-first-esports-journal/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25826/soop-receives-ministers-commendation-for-suicide-prevention-and-respect-for-life-initiatives",
     "https://www.invenglobal.com/articles/25825/nexon-to-open-maplestory-escape-on-sept-21",
     "https://www.invenglobal.com/articles/25823/neople-named-one-of-2026-koreas-top-job-creation-companies",
-    "https://www.invenglobal.com/articles/25824/geng-aims-for-back-to-back-single-season-lck-titles"
+    "https://www.invenglobal.com/articles/25824/geng-aims-for-back-to-back-single-season-lck-titles",
+    "https://www.invenglobal.com/articles/25822/pre-orders-open-for-dave-the-diver-complete-edition",
+    "https://www.invenglobal.com/articles/25821/monster-hunter-now-3rd-anniversary-event-kicks-off-september-14",
+    "https://www.invenglobal.com/articles/25820/chzzk-unveils-finals-content-for-lck-and-overwatch-world-cup",
+    "https://www.invenglobal.com/articles/25819/soop-to-live-broadcast-blizzcon-2026-starting-sept-13",
+    "https://www.invenglobal.com/articles/25818/komsco-to-release-limited-edition-diablo-30th-anniversary-commemorative-coins-on-september-14"
   ],
   "title_hashes": [
-    "59c8060120808b9723f22a90414a0201",
-    "0464ca22cbffb66038a09096205d6bd0",
-    "82355d6437cdb38838790c4fa6b47e37",
-    "13300d62674bd4b48e15e108e602e4b4",
-    "c696945525d297792d3bbcedad22da74",
     "37e51486855b767a822b639d32264cd5",
     "50321973702843ef6e0d78adfcdc4eb8",
     "1f4767bcedf23c7b2a4f018fc662c14e",
@@ -16001,7 +15996,12 @@
     "dd822c516edd812801eb869873391acd",
     "d9fd4c996a5204669dba893d1d92fb0f",
     "4a2d792c63360a7bfbe617aa2b8391d4",
-    "423a281088ba939eb16fe8e55c48097a"
+    "423a281088ba939eb16fe8e55c48097a",
+    "9e0ed34951ede9fa348aef1b56de7c46",
+    "ddd0ad7b62036bb04fc7cae15e9fc0e2",
+    "faa1f4483d2d20a77b5e67a4c87dc86a",
+    "a0c46b411b54b4008c6c6869aaae9aef",
+    "09c54eb823cb29f8d3d92e45485367ca"
   ],
   "transfers": {
     "pages": {
@@ -21392,6 +21392,26 @@
     {
       "t": "2026 aims announced back bank dome finals games gamesriot gen host kspo lck olympic park riot season single songpa that titles will woori",
       "ts": 1789172295.385686
+    },
+    {
+      "t": "11th announced arc asia asiaarc begun complete dave diver edition have korean open orders physical pre system that works",
+      "ts": 1789172300.76826
+    },
+    {
+      "t": "11 14 3rd anniversary announced event explore explorescopely game host hunter hunting kicks monster now off real run scopely september that will world",
+      "ts": 1789172304.2419875
+    },
+    {
+      "t": "12 13 2026 around centered champions chzzk content cup finals korea lck league legends navernaver offline online overwatch platform september showcase streaming unveils will world",
+      "ts": 1789172307.687648
+    },
+    {
+      "t": "13 2026 blizzard blizzcon broadcast content convention entertainment esports gaming key live main officially sept soop soopsoop stage starting will",
+      "ts": 1789172311.1480725
+    },
+    {
+      "t": "14 30th anniversary bullion coins commemorative corporation diablo edition gold intaglio komsco komscokorea limited medals minting printing prints quantities release security sept september silver will",
+      "ts": 1789172314.5714698
     }
   ]
 }
