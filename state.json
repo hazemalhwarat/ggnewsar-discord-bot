@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/08/chinas-mobile-gaming-sector-sees-huge-growth-in-revenue/",
-    "https://thebusinessofesports.com/2021/10/08/zoey-ng-and-romeo-misao-join-galaxy-racer/",
-    "https://thebusinessofesports.com/2021/10/08/xp-league-and-gameplan-unveil-partnership/",
-    "https://thebusinessofesports.com/2021/10/08/pro-football-hall-of-fame-and-extreme-networks-collaborate-to-launch-madden-22-tournament-for-teens/",
-    "https://thebusinessofesports.com/2021/10/08/anti-cheating-program-battleye-now-on-the-steam-deck/",
-    "https://thebusinessofesports.com/2021/10/08/tim-reichert-joins-excel-esports/",
     "https://thebusinessofesports.com/2021/10/08/dolby-vision-now-available-on-xbox-series-x-s/",
     "https://thebusinessofesports.com/2021/10/08/sims-creator-makes-new-game-about-you-using-blockchain-and-artificial-intelligence/",
     "https://thebusinessofesports.com/2021/10/08/esr-24-7-esports-network-adding-hundreds-of-hours-of-gaming-content-to-the-roku-channel/",
@@ -7999,15 +7993,15 @@
     "https://thebusinessofesports.com/2019/12/21/episode-56-next-gen-xbox-lv-sellout-pc-gaming-death-teamspeak-owl-g2-vs-andbox/",
     "https://thebusinessofesports.com/2019/12/18/business-of-esports-daily-news-276/",
     "https://thebusinessofesports.com/2019/12/13/episode-55-pornhub-insights-overwatch-poverty-esports-x-entertainment-adobe-vr-shroud-down/",
-    "https://thebusinessofesports.com/2019/12/10/business-of-esports-daily-news-275/"
+    "https://thebusinessofesports.com/2019/12/10/business-of-esports-daily-news-275/",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0plU2E5MGw0elh5aWo0ZFFNSmhfNlBRY01YUnQ1cUpiYWx5b3pCY1RXRlpCX3hOVVd0ZEFEWGt1Nm9pc1BEQUpkXzVES1ltX2VPTzctRVNfVXdnT1hYbGtWMGl3YmoyNnJVWE5uNl91SGVlZ21zSGRia3lDWlFqX1FTdGZGMXl3dFZOZGxQRFRWTFJNd3NDUWl1elQ4cTBiaVpqZ0tXRmhyRkNI?oc=5",
+    "https://www.invenglobal.com/articles/25898/first-blizzcon-interviewing-blizzard-president-johanna-faries",
+    "https://www.invenglobal.com/articles/25897/world-of-warcraft-forever-details-revealed-major-overhaul-for-gear-and-classes",
+    "https://www.invenglobal.com/articles/25896/30th-anniversary-legacy-of-hell-season-whats-next-for-diablo-ivs-amazon",
+    "https://www.invenglobal.com/articles/25880/finally-a-xalatath-raid-appears-midnight-roadmap-announced",
+    "https://www.invenglobal.com/articles/25879/yoasobi-to-perform-at-first-esports-halftime-show-well-pour-out-all-our-energy"
   ],
   "title_hashes": [
-    "79989ade885066bd1dc7923b7090108c",
-    "0971dcb01fcba12bb027994b22bae2d1",
-    "98fe5a49eed8da31a25073349a441267",
-    "1bc79b08b1bdedc38853e0631256735c",
-    "f9455e258ca56a177807e374031d4f46",
-    "d29a1fc76439085fd5765d5c12b70880",
     "6400fe1caca0907efc900fe6fcc66ec4",
     "d447634edaca548f9e0b2ebf812ee112",
     "1697086ee81d5d77c58cd62d34aad270",
@@ -16001,7 +15995,13 @@
     "25513582bf6a6ddb993fe28eff63c64e",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "47db9d89abaa6be9d7fd01b78a274246",
-    "8e83830733f4bf775f77ce0e1dca82c0"
+    "8e83830733f4bf775f77ce0e1dca82c0",
+    "b373bb1f62bc905ec7df11c0046c6fb6",
+    "13edbf2bbef84de4a12c19cffa43dfdf",
+    "7b679462c4ab63d2d6d7e4a4f7f50f3b",
+    "f1d2dcb3e3aa5326a9b50f1fe65ef59a",
+    "2df495d5662ca20091a27a8aa19f78ee",
+    "175be6baa5a96dd275a15750498b1776"
   ],
   "transfers": {
     "pages": {
@@ -21004,6 +21004,26 @@
     {
       "t": "2025 actual awful bans behavior can chat cost each explained game genuinely griefing here honor how itself just keyboard league leaverbuster longer not now punishments rebuilt resets saying something systems year you your",
       "ts": 1789327763.1005967
+    },
+    {
+      "t": "2024 2026 blizzard blizzcon entertainment faries february first helm her interviewing invenfor johanna many marks occasion office president since special taking took ways who",
+      "ts": 1789335292.9505684
+    },
+    {
+      "t": "13 2026 about announcement blizzcon classes classic detailed details following forever gear hereafter information known major overhaul previously revealed september sunday warcraft world",
+      "ts": 1789335296.4957142
+    },
+    {
+      "t": "30th amazon anniversary both diablo future hell its legacy major mark next past receiving season spanning update what",
+      "ts": 1789335300.0646307
+    },
+    {
+      "t": "13 announced appears atath blizzard blizzcon during finally future midnight next presentation progress raid revealed roadmap schedule september sunday update warcraft what world xal",
+      "ts": 1789335303.9179475
+    },
+    {
+      "t": "2026 all blizzcon cup duo energy esports excitement extend first halftime invenjapanese music our out overwatch perform pour show through will world yoasobi",
+      "ts": 1789335307.5408387
     }
   ]
 }
