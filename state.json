@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/11/gaming-pc-and-monitor-sales-expected-to-continue-growing-through-2025/",
-    "https://thebusinessofesports.com/2021/10/11/free-cloud-mobile-game-streaming-service-launched-by-bluestacks/",
-    "https://thebusinessofesports.com/2021/10/11/covid-19-concerns-lead-to-cancellation-of-evo-2021/",
-    "https://thebusinessofesports.com/2021/10/10/episode-152-immortals-new-path-future-of-esports-orgs-zero-profit-pricing/",
-    "https://thebusinessofesports.com/2021/10/10/nexters-sees-huge-jump-in-q1-revenue-ahead-of-nasdaq-listing/",
     "https://thebusinessofesports.com/2021/10/10/new-documentary-explores-the-history-of-first-person-shooter-games/",
     "https://thebusinessofesports.com/2021/10/10/valuates-report-gaming-market-to-hit-398-95b-by-2026/",
     "https://thebusinessofesports.com/2021/10/10/riot-announces-valorant-is-coming-to-phones-and-other-mobile-platforms/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25933/bilibili-to-launch-bang-dream-our-note-globally-on-september-24",
     "https://www.invenglobal.com/articles/25931/crisis-core-final-fantasy-vii-reunion-launches-on-nintendo-switch-2",
     "https://www.invenglobal.com/articles/25932/sd-gundam-g-generation-eternal-15-anniversary-countdown",
-    "https://www.invenglobal.com/articles/25934/taxi-chaos-2-nintendo-switch-version-launches-november-26"
+    "https://www.invenglobal.com/articles/25934/taxi-chaos-2-nintendo-switch-version-launches-november-26",
+    "https://www.invenglobal.com/articles/25930/eclipse-to-add-new-world-belzera-on-sept-16",
+    "https://www.invenglobal.com/articles/25929/3d-drawing-party-game-super-gahaku-opens-steam-page",
+    "https://www.invenglobal.com/articles/25928/xsolla-launches-ai-toolkit-for-building-game-commerce",
+    "https://www.invenglobal.com/articles/25927/g-con-2026-second-lineup-revealed-spotlighting-narrative-in-the-ai-era",
+    "https://www.invenglobal.com/articles/25925/five-hearts-under-one-roof-paradise-edition-to-launch-in-early-2027"
   ],
   "title_hashes": [
-    "2b1249e52a70b883e4ec2e8b72ce7021",
-    "f006f1a9d11af0534202964a34160428",
-    "fdf5422d44b8280cb6bff6a074daaf9b",
-    "88d75229b44259aa4e5ef9cc2bbc10ef",
-    "3c63135d7313949e1f88bec9862e3dec",
     "8c60d0cd1f6ddf81a675532d7fdb5f15",
     "a6155fa1a51e6b4846b50ec1e7f0f494",
     "dc61a02591448962bda54b8c7a3555d9",
@@ -16001,7 +15996,12 @@
     "03b651a3f3c9706b35aeca70811d0d61",
     "b7a5fbf1dcbb62f02fdb210c861b047c",
     "6418e153ab9b960958d932a80abcd4d9",
-    "82407e1355338e71ee7480a7561d1669"
+    "82407e1355338e71ee7480a7561d1669",
+    "5d7a5aada66389ce14c90f84a7443fe0",
+    "31ff40e823b635f64972a3df76ac8b3c",
+    "cf756190f1e2f5bf891ec15ac9acab94",
+    "a8ac9a6d90e021f878d6fbb4e11faaff",
+    "bc765aa42a5aded9ae6afc5b0b238c30"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "2 26 announced chaos developed focuspoint frog korea koreasega launches nintendo november physical published publishing rainy released sega studios switch taxi that title version will",
       "ts": 1789368242.0938635
+    },
+    {
+      "t": "00 16 8 add awakening belzera consists eclipse hereinafter its mmorpg new npixelsmilegate sept servers smilegate three will world",
+      "ts": 1789368247.6128356
+    },
+    {
+      "t": "11 3d drawing fox gahaku game games gameson its north opened opens page party place players september steam store super voxels where",
+      "ts": 1789368251.0591464
+    },
+    {
+      "t": "agent api building collection commerce company correct directly encode game has integration into its launches new paths skills that toolkit unveiled xsolla xsollaglobal",
+      "ts": 1789368254.586235
+    },
+    {
+      "t": "14th 2026 committee committeeon con detailed era information lineup narrative organizing revealed second session speaker spotlighting star",
+      "ts": 1789368258.0284579
+    },
+    {
+      "t": "2027 announced bundle cfkcfk early edition five hearts launch nintendo one package paradise released roof switch that under will",
+      "ts": 1789368261.4513056
     }
   ]
 }
