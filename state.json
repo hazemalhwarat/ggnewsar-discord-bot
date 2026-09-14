@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/15/business-of-esports-tv-yougov-insights-puzzles-top-charts/",
-    "https://thebusinessofesports.com/2021/06/14/5g-user-survey-shows-rise-in-cloud-gaming-and-augmented-reality/",
-    "https://thebusinessofesports.com/2021/06/14/accidental-leak-reportedly-reveals-two-star-wars-games/",
-    "https://thebusinessofesports.com/2021/06/14/h3cz-reportedly-seeking-sole-ownership-of-optic-chicago/",
-    "https://thebusinessofesports.com/2021/06/14/twetch-arcade-launches-first-game/",
     "https://thebusinessofesports.com/2021/06/14/facebook-gaming-executive-dropped-from-apple-epic-games-trial/",
     "https://thebusinessofesports.com/2021/06/14/envy-gaming-teaming-up-with-generation-esports/",
     "https://thebusinessofesports.com/2021/06/14/laliga-north-america-and-verizon-unveil-partnership/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25922/soop-supers-launch-2026-27-season-membership",
     "https://www.invenglobal.com/articles/25924/valofe-to-publish-action-mmorpg-the-guardians-globally",
     "https://www.invenglobal.com/articles/25921/relu-games-mimesis-wins-best-multiplayer-horror-at-japan-horror-game-awards",
-    "https://www.invenglobal.com/articles/25918/roblox-unveils-expansions-to-play-creation-and-monetization-at-rdc"
+    "https://www.invenglobal.com/articles/25918/roblox-unveils-expansions-to-play-creation-and-monetization-at-rdc",
+    "https://www.invenglobal.com/articles/25920/neptune-launches-18-h5-games-on-one-stores-one-play",
+    "https://www.invenglobal.com/articles/25919/aniimo-selects-chuu-as-official-model-launching-sept-16-on-pc-and-console",
+    "https://www.invenglobal.com/articles/25915/korea-arcade-game-industry-association-launches-self-regulation-campaign",
+    "https://www.invenglobal.com/articles/25917/genshin-impact-version-71-requiem-of-death-updates-september-23",
+    "https://www.invenglobal.com/articles/25916/pikmin-bloom-holds-walk-anytime-event-in-okazaki-kyoto"
   ],
   "title_hashes": [
-    "5f4a7c312daf2c303b2e70e5d3431028",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "4c0faa322e46535f715c8ed945d455f5",
-    "efd45ce5edb8a2d2ff41b0ce38cf08e6",
-    "c8bc2690706f241b2f3133af30b18a42",
     "eb4f6ca2b18016e691fb9f1f6782059a",
     "6acad0e23d390eb8962a807093fb18b8",
     "e990505a89f9a461bdda037852ff96fc",
@@ -16001,7 +15996,12 @@
     "7171b0554582bb2b555e0f30f0c25971",
     "10813f67fd69ed6bc29d963fd5151c15",
     "04c508df8f182cdd8ecc86cbdcc853fe",
-    "a012f6c603e1c7143e6cc1a234525179"
+    "a012f6c603e1c7143e6cc1a234525179",
+    "a8ca9609d36fa6b13ac4d3cd51acc632",
+    "8b84fac4c6be15112d5091eded7193b2",
+    "942f88f1e4fba6a73fef9fcb18168fb5",
+    "05f7e5a3ea4e6c7cf86de4697faf0ea2",
+    "ead9f50041c24b99645403a9fa78d54a"
   ],
   "transfers": {
     "pages": {
@@ -21100,6 +21100,26 @@
     {
       "t": "11 12th annual conference crea creation developers environments expanding expansions hosted its local monetization play rdc roblox robloxon september time tools unveiled unveils updates",
       "ts": 1789392248.8939147
+    },
+    {
+      "t": "14 18 announced collaboration games h5 has html5 its joined launched launches neptune neptuneneptune one partner platform play september store that this through",
+      "ts": 1789392254.3115911
+    },
+    {
+      "t": "14th 16 aniimo announced chuu console cross has its kim launching model official pawprint personality selected selects sept singer studio studiopawprint that woo",
+      "ts": 1789392258.0635946
+    },
+    {
+      "t": "14th alongside announced arcade association campaign centers foster game health industry korea launches launching member nationwide regulation self that youth",
+      "ts": 1789392261.6187212
+    },
+    {
+      "t": "1 23 7 adventure amid death escalating genshin hoyoverse hoyoverseon impact open requiem rpg september snezhn tension this update updates version will world",
+      "ts": 1789392265.3128211
+    },
+    {
+      "t": "anytime area bloom conten event explore game holding holds kyoto local nianticscopely okazaki pikmin real tour walk walking world",
+      "ts": 1789392269.008824
     }
   ]
 }
