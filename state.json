@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/11/new-regulations-bar-chinese-companies-from-offering-their-games-on-overseas-platforms/",
-    "https://thebusinessofesports.com/2021/10/11/official-song-unveiled-for-league-of-legends-world-championship/",
-    "https://thebusinessofesports.com/2021/10/11/amazon-responds-to-new-world-bricking-graphic-processing-units/",
-    "https://thebusinessofesports.com/2021/10/11/bluepoint-games-officially-acquired-by-playstation/",
-    "https://thebusinessofesports.com/2021/10/11/starter-launches-blockchain-gaming-platform-enjinstarter/",
     "https://thebusinessofesports.com/2021/10/11/gaming-pc-and-monitor-sales-expected-to-continue-growing-through-2025/",
     "https://thebusinessofesports.com/2021/10/11/free-cloud-mobile-game-streaming-service-launched-by-bluestacks/",
     "https://thebusinessofesports.com/2021/10/11/covid-19-concerns-lead-to-cancellation-of-evo-2021/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25940/anima-city-the-town-where-you-live-alongside-girls-with-unique-abilities",
     "https://www.invenglobal.com/articles/25938/gga-unveils-lineup-of-7-titles-for-tokyo-game-show-2026",
     "https://www.invenglobal.com/articles/25937/astrae-oratio-to-hold-prologue-screening-at-tgs-2026",
-    "https://www.invenglobal.com/articles/25936/com2us-platform-to-launch-ai-backend-hive-axyl-on-september-30"
+    "https://www.invenglobal.com/articles/25936/com2us-platform-to-launch-ai-backend-hive-axyl-on-september-30",
+    "https://www.invenglobal.com/articles/25935/nationwide-amateur-clash-2026-ges-concludes-successfully",
+    "https://www.invenglobal.com/articles/25933/bilibili-to-launch-bang-dream-our-note-globally-on-september-24",
+    "https://www.invenglobal.com/articles/25931/crisis-core-final-fantasy-vii-reunion-launches-on-nintendo-switch-2",
+    "https://www.invenglobal.com/articles/25932/sd-gundam-g-generation-eternal-15-anniversary-countdown",
+    "https://www.invenglobal.com/articles/25934/taxi-chaos-2-nintendo-switch-version-launches-november-26"
   ],
   "title_hashes": [
-    "70ccf5226904a25410b1f81a5e44b8e4",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "a036f209b44b41c09197cad74d5673f9",
-    "2c77f88b7778f2182b106d55329efef2",
-    "331e318dce7d3e5a557f4b74698ee206",
     "2b1249e52a70b883e4ec2e8b72ce7021",
     "f006f1a9d11af0534202964a34160428",
     "fdf5422d44b8280cb6bff6a074daaf9b",
@@ -16001,7 +15996,12 @@
     "3e81cb43c765847216bfe82b03bd53e1",
     "5371fa9d13752de7b72cc5cfb2310c4c",
     "a1473e64f4e21061b7d001b9d3d0e60a",
-    "0f8b6fc55273795ac6127099d18e9aa1"
+    "0f8b6fc55273795ac6127099d18e9aa1",
+    "5afd90f0ae97d4a8f42d8da9b2d60b77",
+    "03b651a3f3c9706b35aeca70811d0d61",
+    "b7a5fbf1dcbb62f02fdb210c861b047c",
+    "6418e153ab9b960958d932a80abcd4d9",
+    "82407e1355338e71ee7480a7561d1669"
   ],
   "transfers": {
     "pages": {
@@ -21144,6 +21144,26 @@
     {
       "t": "14 2026 30 announced axyl backend com2us first held hive its launch next offline platform platformcom2us seminar september summit tech technology that unveiled",
       "ts": 1789368223.0643952
+    },
+    {
+      "t": "2026 agencyjeonnam amateur amp city clash concludes culture ges gwangju industry information integrated jeonnam nationwide promotion special successfully",
+      "ts": 1789368228.3423946
+    },
+    {
+      "t": "24 bang bilibili dream game games gamesbilibili globally its launch new note officially our rhythm september will",
+      "ts": 1789368231.736083
+    },
+    {
+      "t": "10th 2 action core crisis digital download enix enixon fantasy final launches nintendo released reunion rpg square switch version vii",
+      "ts": 1789368235.1325958
+    },
+    {
+      "t": "1 5 5th ahead anniversary announced bandai campaign countdown entertainment entertainmentbandai eternal game generation gundam has its kicked launched mob namco off special that website",
+      "ts": 1789368238.5672076
+    },
+    {
+      "t": "2 26 announced chaos developed focuspoint frog korea koreasega launches nintendo november physical published publishing rainy released sega studios switch taxi that title version will",
+      "ts": 1789368242.0938635
     }
   ]
 }
