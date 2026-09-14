@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/04/09/microsoft-lands-deal-with-u-s-army/",
-    "https://thebusinessofesports.com/2021/04/09/gaming-pc-monitor-shipment-increases-by-almost-27-in-2020/",
-    "https://thebusinessofesports.com/2021/04/09/report-cloud-gaming-expected-to-grow-fast-in-china/",
-    "https://thebusinessofesports.com/2021/04/09/nvidia-to-fight-gaming-gpu-shortage-with-geforce-graphics-card/",
-    "https://thebusinessofesports.com/2021/04/09/amazon-singapore-launches-dedicated-gaming-store/",
-    "https://thebusinessofesports.com/2021/04/09/episode-126-video-world-first-esports-nft-ea-not-a-gaming-company-nintendo-success-atari-split/",
-    "https://thebusinessofesports.com/2021/04/09/razer-reports-1b-in-annual-revenue/",
-    "https://thebusinessofesports.com/2021/04/09/chainguardians-co-founder-nfts-are-the-future-of-gaming/",
-    "https://thebusinessofesports.com/2021/04/09/morgan-stanley-microsoft-could-become-the-next-netflix/",
-    "https://thebusinessofesports.com/2021/04/09/report-indian-gamers-play-8-5-hours-of-video-games-each-week/",
     "https://thebusinessofesports.com/2021/04/09/uae-gamers-look-to-be-major-players-in-esports/",
     "https://thebusinessofesports.com/2021/04/08/airwaves-media-group-launches-multi-platform-esports-company/",
     "https://thebusinessofesports.com/2021/04/08/apple-arcade-launches-expansion-project/",
@@ -7999,19 +7989,19 @@
     "https://www.dotabuff.com/blog/2026-07-28-preti-adjustments-we-would-like-to-see",
     "https://www.dotabuff.com/blog/2026-07-21-the-most-overvalued-professional-hero",
     "https://www.dotabuff.com/blog/2026-07-13-is-professional-meta-too-slow",
-    "https://www.hltv.org/news/45521/esports-world-cup-2027-and-2028-dates-revealed"
+    "https://www.hltv.org/news/45521/esports-world-cup-2027-and-2028-dates-revealed",
+    "https://www.hltv.org/news/45520/nip-sign-adamb",
+    "https://www.hltv.org/news/45518/infinite-part-ways-with-dytor",
+    "https://www.hltv.org/news/45517/official-tatu-replaces-piriajr-on-pain",
+    "https://www.hltv.org/news/45513/liquid-tyloo-dendele-and-nemiga-qualify-for-pgl-masters-bucharest",
+    "https://blog.counter-strike.net/2023/04/41365/",
+    "https://blog.counter-strike.net/2023/02/41047/",
+    "https://blog.counter-strike.net/2022/12/40672/",
+    "https://blog.counter-strike.net/2022/12/40596/",
+    "https://esports-news.co.uk/2026/09/14/esports-weekend-review-sep-14th/",
+    "https://esports-news.co.uk/2026/09/14/legacy-deliver-at-4-1-to-win-fissure-playground-3/"
   ],
   "title_hashes": [
-    "bf47da0186d8fb2b9338d015d140c095",
-    "14c093f7c501bbddaffd881c0b731fcb",
-    "4cb1714c0cbc0074f6fa564b4c049514",
-    "77ec568ef0190fb7f953aada6823bc6e",
-    "f64bff23b0d0873acc70219bdd2c1ef3",
-    "c5e1a67c84f71317a0d1b6aa3dd29031",
-    "fb059b6ebf4bf1afa73629e2ce1bb9f8",
-    "061f72b256681b596109c14e4e782faf",
-    "61c9a1cd72d5131edaf25746aefd8d7f",
-    "59cd88a059a03bcd3a28eae6058943a0",
     "6784df394280f6cd1d6b43af94167c7c",
     "fcc5029b95de566b15a7053a91755928",
     "2df920f1b07af7a749780cdcc04025e2",
@@ -16001,7 +15991,17 @@
     "6bf9e70a1f928aba143ef1eebe2720b5",
     "88f113e67e7f592888ac8495874a8bd4",
     "abcedfb205bfb7398a59e50a7cb375cd",
-    "dff120719966590621ec22aeaf867c0d"
+    "dff120719966590621ec22aeaf867c0d",
+    "4b711fb02efde93a570262d94db9e564",
+    "e794865bf3ac7f462357ad412afb340c",
+    "c74f86f208c466b66e5057a3c347cf78",
+    "d452b05fde80804b144f3cbdfc64197a",
+    "4440e300c9e49cd9d456bdbe2fe4d2a2",
+    "3c7235ac077876c2b3e90f92a32976a5",
+    "079edbd8d191e30933bacafc1bd60ee4",
+    "0ab3a842f6ebd1c45614ed7b93672917",
+    "af2485847a866c8db38cddc7a17a8945",
+    "d0f9f5180f93b4ad0b636b8f348bd7cf"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "2027 2028 been confirmed cup dates editions esports have next revealed tournament two world",
       "ts": 1789411741.984166
+    },
+    {
+      "t": "adamb after away joins more nip organization rifler sign swedish than three years",
+      "ts": 1789411747.3027253
+    },
+    {
+      "t": "after dytor fifth form hunt indifferent infinite new part period ways",
+      "ts": 1789411750.9367642
+    },
+    {
+      "t": "academy after have now official pain piriajr players poor promoted replaces season start tatu two",
+      "ts": 1789411754.489606
+    },
+    {
+      "t": "3 already autumn blink climax counter delivering epos esports eye fissure gear has high incredible into kicked koi lec legacy movistar over past playground reaching review several survive their tournaments triumphs weekend win xpevo",
+      "ts": 1789411757.9399462
+    },
+    {
+      "t": "1 3 4 asia bookies championships cup deliver esports finish fissure followed had legacy place playground sea take team their they third title titles two which win world",
+      "ts": 1789411761.3290884
     }
   ]
 }
