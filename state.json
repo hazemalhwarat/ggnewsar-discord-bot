@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/24/episode-137-evolving-esports-talent-mobile-esports-future-esports-fashion-week-competitor-vs-entertainer-ralph-lauren-x-g2/",
-    "https://thebusinessofesports.com/2021/06/15/yougov-esports-fans-twice-as-likely-to-notice-outdoor-ads/",
-    "https://thebusinessofesports.com/2021/06/15/facebook-gaming-acquires-unit-2-games/",
-    "https://thebusinessofesports.com/2021/06/15/pharmaceutical-companies-using-video-games-to-improve-operations/",
-    "https://thebusinessofesports.com/2021/06/15/live-after-show-135b-210m-tsm-ftx-microsoft-excel-esports-mobile-game-data-nintendo-museum-blizzard-2-0/",
     "https://thebusinessofesports.com/2021/06/15/business-of-esports-tv-yougov-insights-puzzles-top-charts/",
     "https://thebusinessofesports.com/2021/06/14/5g-user-survey-shows-rise-in-cloud-gaming-and-augmented-reality/",
     "https://thebusinessofesports.com/2021/06/14/accidental-leak-reportedly-reveals-two-star-wars-games/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25948/new-factions-emerge-streamer-server-round-up-for-week-3-of-september",
     "https://www.invenglobal.com/articles/25947/the-new-releases-keep-coming-from-trails-and-manja-cheonhong-to-tgs-2026",
     "https://www.invenglobal.com/articles/25946/nexpace-recruits-official-maplestory-n-curators",
-    "https://www.invenglobal.com/articles/25926/geng-defeats-hanwha-life-esports-to-win-back-to-back-lck-titles"
+    "https://www.invenglobal.com/articles/25926/geng-defeats-hanwha-life-esports-to-win-back-to-back-lck-titles",
+    "https://www.invenglobal.com/articles/25923/freestyle-football-2-signs-license-agreement-with-mlspa",
+    "https://www.invenglobal.com/articles/25922/soop-supers-launch-2026-27-season-membership",
+    "https://www.invenglobal.com/articles/25924/valofe-to-publish-action-mmorpg-the-guardians-globally",
+    "https://www.invenglobal.com/articles/25921/relu-games-mimesis-wins-best-multiplayer-horror-at-japan-horror-game-awards",
+    "https://www.invenglobal.com/articles/25918/roblox-unveils-expansions-to-play-creation-and-monetization-at-rdc"
   ],
   "title_hashes": [
-    "93b23600112543300738e3811939a961",
-    "1b109a9350763b65fda5a904ffd83cc9",
-    "86311ce96b164196db12631077ad9700",
-    "d7c6387a4bf0050a186baa823d16c9a0",
-    "eb27b5b52efa239a3cadad7a8b454306",
     "5f4a7c312daf2c303b2e70e5d3431028",
     "27a0a8edf54a15c315385581d66aa6a0",
     "4c0faa322e46535f715c8ed945d455f5",
@@ -16001,7 +15996,12 @@
     "bbca9b0b20361458b85dab99a8fe109b",
     "1ed89098d3bf096310f1d34435aea611",
     "26e595c9309e0062ec10a2c6fab55b33",
-    "fdb106e5364d429dea57e4cc1c594448"
+    "fdb106e5364d429dea57e4cc1c594448",
+    "c460877199cf90f5b7bbe1e03a5949ac",
+    "7171b0554582bb2b555e0f30f0c25971",
+    "10813f67fd69ed6bc29d963fd5151c15",
+    "04c508df8f182cdd8ecc86cbdcc853fe",
+    "a012f6c603e1c7143e6cc1a234525179"
   ],
   "transfers": {
     "pages": {
@@ -21080,6 +21080,26 @@
     {
       "t": "1 13 2026 3 back bank championship claim defeated defeats dome esports finals gamesgen gen hanwha kspo lck life olympic park riot seoul september songpa titles win woori",
       "ts": 1789392229.170269
+    },
+    {
+      "t": "14th 2 agreement announced association football freestyle has hereinafter joycityjoycity league license licensing major mlspa official oneteam partner partnership players signed signs soccer that",
+      "ts": 1789392234.635803
+    },
+    {
+      "t": "14th 2 2026 27 beginning designed engage fans launch launched membership memberships rookie sales season soop sooper star supers their",
+      "ts": 1789392238.153678
+    },
+    {
+      "t": "14 action announced arumgames contract developed global globally guardians has mmorpg mobile publish publishing september signed that valofe valofevalofe",
+      "ts": 1789392241.7227445
+    },
+    {
+      "t": "award awards best game games has horror japan kraftonrelu mimesis multiplayer relu wins won",
+      "ts": 1789392245.3380444
+    },
+    {
+      "t": "11 12th annual conference crea creation developers environments expanding expansions hosted its local monetization play rdc roblox robloxon september time tools unveiled unveils updates",
+      "ts": 1789392248.8939147
     }
   ]
 }
