@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/27/live-after-show-137b-oculus-facebook-ads-ar-vr-consoles-play-to-earn-games-activision-blizzard-hr-mess-esports-mall-ea-more-mobile/",
-    "https://thebusinessofesports.com/2021/06/27/business-of-esports-tv-amazon-prime-gaming/",
-    "https://thebusinessofesports.com/2021/06/26/business-of-esports-tv-mobile-to-pc-converts/",
-    "https://thebusinessofesports.com/2021/06/25/episode-137-video-evolving-esports-talent-mobile-esports-future-esports-fashion-week-competitor-vs-entertainer-ralph-lauren-x-g2/",
-    "https://thebusinessofesports.com/2021/06/25/business-of-esports-tv-pubg-billions/",
-    "https://thebusinessofesports.com/2021/06/25/cyberpunk-2077-makes-its-return-to-the-playstation-store/",
     "https://thebusinessofesports.com/2021/06/24/episode-137-evolving-esports-talent-mobile-esports-future-esports-fashion-week-competitor-vs-entertainer-ralph-lauren-x-g2/",
     "https://thebusinessofesports.com/2021/06/15/yougov-esports-fans-twice-as-likely-to-notice-outdoor-ads/",
     "https://thebusinessofesports.com/2021/06/15/facebook-gaming-acquires-unit-2-games/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/25954/group-c-1st-place-lee-jae-ho-happy-to-have-overcome-my-zerg-matchup",
     "https://www.invenglobal.com/articles/25953/lee-jae-ho-defeats-cho-il-jang-2-1-to-advance-to-quarterfinals-as-group-c-top-seed",
     "https://www.invenglobal.com/articles/25952/marvels-wolverine-being-logan-was-more-important-than-gore",
-    "https://www.invenglobal.com/articles/25951/iphones-a20-pro-brain-outscores-desktop-cpus-and-m5-in-single-core-score"
+    "https://www.invenglobal.com/articles/25951/iphones-a20-pro-brain-outscores-desktop-cpus-and-m5-in-single-core-score",
+    "https://www.invenglobal.com/articles/25950/witchers-geralt-heads-to-diablo-iv-cyberpunk-lands-in-overwatch",
+    "https://www.invenglobal.com/articles/25949/abutton-to-hold-2nd-playtest-for-guns-and-dragons-on-september-17",
+    "https://www.invenglobal.com/articles/25948/new-factions-emerge-streamer-server-round-up-for-week-3-of-september",
+    "https://www.invenglobal.com/articles/25947/the-new-releases-keep-coming-from-trails-and-manja-cheonhong-to-tgs-2026",
+    "https://www.invenglobal.com/articles/25946/nexpace-recruits-official-maplestory-n-curators",
+    "https://www.invenglobal.com/articles/25926/geng-defeats-hanwha-life-esports-to-win-back-to-back-lck-titles"
   ],
   "title_hashes": [
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "f03b4ae27b9b0364a57f82af66c515d3",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "bf83f2cef007badec7abe74fa7974324",
-    "27a0a8edf54a15c315385581d66aa6a0",
     "93b23600112543300738e3811939a961",
     "1b109a9350763b65fda5a904ffd83cc9",
     "86311ce96b164196db12631077ad9700",
@@ -16001,7 +15995,13 @@
     "02a512daacccff3962306638e3257b1c",
     "1af4784161367c3471525dccbc7aa44e",
     "05419ad1e3091dbe3f6f20fe0b61b3c7",
-    "5143b2d1ad4be50f154845f9ee197ed1"
+    "5143b2d1ad4be50f154845f9ee197ed1",
+    "46f5943fc3f9ba63bfb0f89503d5cd8c",
+    "b28bb3e073e070a1fb9860855a3e8024",
+    "bbca9b0b20361458b85dab99a8fe109b",
+    "1ed89098d3bf096310f1d34435aea611",
+    "26e595c9309e0062ec10a2c6fab55b33",
+    "fdb106e5364d429dea57e4cc1c594448"
   ],
   "transfers": {
     "pages": {
@@ -21060,6 +21060,26 @@
     {
       "t": "7 a20 apple brain core cpus desktop geekbench iphone m5 mobile new outscores pro record score set single",
       "ts": 1789392209.2191832
+    },
+    {
+      "t": "appeared blizzcon collaborations cyberpunk diablo famous geralt heads lands news overwatch projekt red series various witcher",
+      "ts": 1789392214.9088202
+    },
+    {
+      "t": "3 again approaching been begins competition earnest emerge enchant factions god had have level moving new quiet round selection september server servers sixth sol started streamer that time week while world",
+      "ts": 1789392218.478989
+    },
+    {
+      "t": "12genshin 13the 2026 cheonhong coming game genesis impact keep manja new path rankingsi1onimusha releases side story sword tgs top trails war weekly",
+      "ts": 1789392222.0236163
+    },
+    {
+      "t": "24th accepting applications blockchain creators curator curators designates its maplestory nexon nexpace official program recruits subsidiary until which",
+      "ts": 1789392225.6593843
+    },
+    {
+      "t": "1 13 2026 3 back bank championship claim defeated defeats dome esports finals gamesgen gen hanwha kspo lck life olympic park riot seoul september songpa titles win woori",
+      "ts": 1789392229.170269
     }
   ]
 }
