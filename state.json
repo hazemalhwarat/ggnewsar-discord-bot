@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/12/coinmotion-and-ence-agree-to-partnership/",
-    "https://thebusinessofesports.com/2021/10/12/the-most-successful-gaming-ipo-of-2021-esports-technologies-inc/",
-    "https://thebusinessofesports.com/2021/10/12/coca-colas-real-magic-marketing-campaign-aimed-at-gamers-gen-z/",
-    "https://thebusinessofesports.com/2021/10/11/elgato-named-the-streaming-equipment-partner-of-quadrant/",
-    "https://thebusinessofesports.com/2021/10/11/business-of-esports-weekly-news-372/",
     "https://thebusinessofesports.com/2021/10/11/new-regulations-bar-chinese-companies-from-offering-their-games-on-overseas-platforms/",
     "https://thebusinessofesports.com/2021/10/11/official-song-unveiled-for-league-of-legends-world-championship/",
     "https://thebusinessofesports.com/2021/10/11/amazon-responds-to-new-world-bricking-graphic-processing-units/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25944/experiencing-blizzcon-2026-from-the-comfort-of-home",
     "https://www.invenglobal.com/articles/25943/lineage-classic-engages-with-600-players-in-gwangju",
     "https://www.invenglobal.com/articles/25942/google-play-asl-season-22-ro16-week-2-kicks-off",
-    "https://www.invenglobal.com/articles/25941/game-freak-surprise-announces-new-mobile-game-ame-no-chi-hare-onna"
+    "https://www.invenglobal.com/articles/25941/game-freak-surprise-announces-new-mobile-game-ame-no-chi-hare-onna",
+    "https://www.invenglobal.com/articles/25939/blizzcon-2026-intense-nostalgic-and-a-little-sad",
+    "https://www.invenglobal.com/articles/25940/anima-city-the-town-where-you-live-alongside-girls-with-unique-abilities",
+    "https://www.invenglobal.com/articles/25938/gga-unveils-lineup-of-7-titles-for-tokyo-game-show-2026",
+    "https://www.invenglobal.com/articles/25937/astrae-oratio-to-hold-prologue-screening-at-tgs-2026",
+    "https://www.invenglobal.com/articles/25936/com2us-platform-to-launch-ai-backend-hive-axyl-on-september-30"
   ],
   "title_hashes": [
-    "f2d497772936638a877ae0fe3bf00712",
-    "8401070e5a72af6c3b58bed9669b0a91",
-    "294450c6a55bbc0532bb34ec78e1c746",
-    "8388eef41d3a450eb3a3d419e1c14690",
-    "216935aeeee9796e2ec401faa27875fb",
     "70ccf5226904a25410b1f81a5e44b8e4",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "a036f209b44b41c09197cad74d5673f9",
@@ -16001,7 +15996,12 @@
     "3c7381db305bab64adac8513ed54b7be",
     "ea6eafda3aac7c020fa9444d6a61ddd6",
     "05f56a652bb09071e379d02e05e8a90c",
-    "50775ed259a5f048dcef80286bb327aa"
+    "50775ed259a5f048dcef80286bb327aa",
+    "688374e396821989064dbdd5c38b0cef",
+    "3e81cb43c765847216bfe82b03bd53e1",
+    "5371fa9d13752de7b72cc5cfb2310c4c",
+    "a1473e64f4e21061b7d001b9d3d0e60a",
+    "0f8b6fc55273795ac6127099d18e9aa1"
   ],
   "transfers": {
     "pages": {
@@ -21124,6 +21124,26 @@
     {
       "t": "14 ame announced announces chi freak game hare has its mobile new onna real revealed september surprise syncs title weather which world 雨のちハレ女",
       "ts": 1789368203.6969237
+    },
+    {
+      "t": "2026 age blizzard blizzardi blizzcon diablo elementary games grew high intense little middle nostalgic played playing sad school starcraft young",
+      "ts": 1789368209.142939
+    },
+    {
+      "t": "128226 2026 2026game abilities alongside android anima city details fareidolia fareidoliadeveloper games gamesplatform girls iosinfo latest live nexon next revealed scheduled teaser tgs title town unique where you",
+      "ts": 1789368212.5624104
+    },
+    {
+      "t": "14 2026 7 alongside announced arise game gga gravity gravitygravity its japanese lineup participation september show showcased subsidiary titles tokyo unveils",
+      "ts": 1789368215.985088
+    },
+    {
+      "t": "2026 asora astrae edition game hand hereafter hold limited novelties official oratio out prologue scenario screening show tgs tokyo visitors will",
+      "ts": 1789368219.4642715
+    },
+    {
+      "t": "14 2026 30 announced axyl backend com2us first held hive its launch next offline platform platformcom2us seminar september summit tech technology that unveiled",
+      "ts": 1789368223.0643952
     }
   ]
 }
