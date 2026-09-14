@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/11/business-of-esports-tv-valorant-goes-mobile/",
-    "https://thebusinessofesports.com/2021/06/10/micro-star-international-announces-z590-and-b560-promotions/",
-    "https://thebusinessofesports.com/2021/06/10/good-gaming-inc-provides-q1-corporate-update-to-shareholders/",
-    "https://thebusinessofesports.com/2021/06/10/nvidia-unveils-q1-2021-financial-results/",
-    "https://thebusinessofesports.com/2021/06/10/evos-esports-announces-collaboration-with-puma/",
-    "https://thebusinessofesports.com/2021/06/10/viewsonic-unveils-partnership-with-allied-esports/",
     "https://thebusinessofesports.com/2021/06/10/netbet-unveils-partnership-with-gaming-realms/",
     "https://thebusinessofesports.com/2021/06/10/future-publishing-retires-uk-official-playstation-magazine/",
     "https://thebusinessofesports.com/2021/06/10/f1-cars-now-playable-on-rocket-league/",
@@ -7999,15 +7993,15 @@
     "https://dotesports.com/valorant/news/valorant-gauntlet-glitched-reveal",
     "https://dotesports.com/valorant/news/valorant-warden-reveal",
     "https://dotesports.com/general/news/rrq-parts-ways-head-coach-jovi-valorant",
-    "https://dotesports.com/hardware/reviews/gunnar-pendleton-review"
+    "https://dotesports.com/hardware/reviews/gunnar-pendleton-review",
+    "https://dotesports.com/call-of-duty/guides/unlock-vmp-bo7-warzone",
+    "https://dotesports.com/league-of-legends/news/all-league-of-legends-level-borders-explained",
+    "https://dotesports.com/overwatch/news/overwatch-world-cup-2026-results",
+    "https://www.hltv.org/news/45516/media-pain-set-to-bench-piriajr",
+    "https://www.hltv.org/news/45511/latto-after-third-mvp-in-china-its-china-magic-i-think",
+    "https://esportsinsider.com/2026/09/starladder-starseries-fall-2026-predictions"
   ],
   "title_hashes": [
-    "9182cb0c15e97c8fdc0c6fb95d09094f",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "778ad3b416f61201336699b668fd83ac",
-    "9b176706770b8bd05c40e264ad591ec0",
-    "e90c9e4f6c3509fa8ff87c20a998fdfa",
-    "437747680f99572d2f54abd0979c3d26",
     "e744c459000f1c65e4a51ae8a8f02ebe",
     "e779f6c63a3cf6b571abf0636ba4069f",
     "09dc877bd88aad62d2578b7d5acebfbd",
@@ -16001,7 +15995,13 @@
     "bf82d70f6f966fa5894e8dbf83345a95",
     "74ad421e2286472dff08eff76fa90000",
     "dc9be10ab67b82400718d80e15876a7a",
-    "5df941788cb53f69dcde4b13a170aedf"
+    "5df941788cb53f69dcde4b13a170aedf",
+    "3184cce67bb86985588531e4501649dd",
+    "ad0ecebbf501d413bf409f5b34a2051d",
+    "51e8421cc16d4ffc29293ddd16b644b5",
+    "62933a2951ef01f4eafd9bdf4d3cd2f0",
+    "f081c4208baf7691c9f211d1b5217e5b",
+    "ebd318a48fc0c189048f7293f0d40efc"
   ],
   "transfers": {
     "pages": {
@@ -21140,6 +21140,26 @@
     {
       "t": "20 almost choosing consider few frame gunnar pendleton reach review should sleek there things vision when within you",
       "ts": 1789392289.118301
+    },
+    {
+      "t": "all border borders every league legends level levels unlock unlocks when",
+      "ts": 1789392294.6691504
+    },
+    {
+      "t": "2026 back cup format overwatch results schedule teams world",
+      "ts": 1789392298.2061977
+    },
+    {
+      "t": "after bench change last make media pain piriajr reportedly second set their",
+      "ts": 1789392302.6499987
+    },
+    {
+      "t": "after against best career china final g2 grand his latto legacy magic mvp performance rated rifler think third",
+      "ts": 1789392306.1806293
+    },
+    {
+      "t": "000 17 20 2026 500 barcelona both bracket brings can compact double eight elimination fall leaves line little predictions room sep slow starladder starseries start teams that which win",
+      "ts": 1789392309.6989276
     }
   ]
 }
