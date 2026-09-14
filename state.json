@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/03/25/microsoft-bringing-xbox-auto-hdr-feature-to-windows/",
-    "https://thebusinessofesports.com/2021/03/25/report-45-of-indian-users-introduced-to-gaming-during-pandemic/",
-    "https://thebusinessofesports.com/2021/03/25/eplay-announces-private-placement-close-and-esports-and-gaming-promotion-launch/",
-    "https://thebusinessofesports.com/2021/03/25/air-force-gaming-launches-global-intramural-esports-program/",
-    "https://thebusinessofesports.com/2021/03/25/hyperx-gaming-brand-expands-into-apparel-design/",
-    "https://thebusinessofesports.com/2021/03/25/twitch-and-facebook-gaming-experience-massive-growth-during-pandemic/",
-    "https://thebusinessofesports.com/2021/03/25/episode-124-on-demand-esports-tournaments-microsoft-10b-discord-rumor-gamestop-hardware-expansion/",
     "https://thebusinessofesports.com/2021/03/25/ballys-revises-offer-to-only-acquire-world-poker-tour-assets/",
     "https://thebusinessofesports.com/2021/03/25/indias-mobile-gaming-market-to-reach-3b-by-2023/",
     "https://thebusinessofesports.com/2021/03/25/survey-shows-gamers-who-play-daily-would-not-sacrifice-their-games/",
@@ -7999,16 +7992,16 @@
     "https://esports.gg/news/overwatch/cd-projekt-red-blizzard-crossover/",
     "https://esports.gg/news/valorant/new-agent-mastery/",
     "https://esports.gg/news/fortnite/all-video-game-crossovers-in-fortnite-history/",
-    "https://esports.gg/news/valorant/gauntlet-glitched-ability-draft/"
+    "https://esports.gg/news/valorant/gauntlet-glitched-ability-draft/",
+    "https://insider-gaming.com/playstation-blackout-had-no-significant-change-at-all-analyst-says/",
+    "https://insider-gaming.com/valve-addresses-ram-crisis-steam-deck-2/",
+    "https://insider-gaming.com/marathon-season-3-delay/",
+    "https://insider-gaming.com/segas-new-netflix-adaptations-announced-including-crazy-taxi-sonic-and-more/",
+    "https://insider-gaming.com/valorant-champions-shanghai-no-warden-rifle/",
+    "https://insider-gaming.com/rayman-legends-retold-release-date-delayed/",
+    "https://insider-gaming.com/new-lol-heartsteel-song-live-my-life-revealed/"
   ],
   "title_hashes": [
-    "01b49706f4ced3df41233e1dd4fbf969",
-    "4f897624715b8bf5658e7526b2726263",
-    "890c452512eda8f2248c8c54a8473af7",
-    "b14c975e51a15e10b8dde98cc512c5d3",
-    "a11b761aceea39e6c163793e27db2911",
-    "c645e11cbc6b04fd42bc98a40013bf52",
-    "fb1ebd0edbd632d1a786fcb081b925a8",
     "c92cd4405e16af2eeef7ed8921b9214e",
     "015b44fb61997c57c4112605a33ca9b0",
     "3a46449a879677af2e26617ec555e575",
@@ -16001,7 +15994,14 @@
     "e1d3123057c6cf77843de5bcb3d6b940",
     "1f695893e6547ebd28bb894d53f17aa1",
     "60f5c27492317d39d919f044c197ca29",
-    "98cd902661d732fc97f6fb7a01343702"
+    "98cd902661d732fc97f6fb7a01343702",
+    "28a17fc4235fb919ed786c94deb985f5",
+    "1ec2ccb88c3c0fed8b9f18d3733c0437",
+    "3e38935fdf34fe695c0c155e91c2c538",
+    "572c78362423933e3e2b67dbd0c02053",
+    "9a0f077d5b62a5b07db9db52fb70d050",
+    "3989ddc33ecbb7dd3fb9b6b5ee594577",
+    "1128e9963502fdd868f6f6302ca78a6b"
   ],
   "transfers": {
     "pages": {
@@ -21204,6 +21204,26 @@
     {
       "t": "abilities agents anyway but dog ever gauntlet glitched have here mode neither new one reimagines shot skye valorant wished you",
       "ts": 1789411780.7727063
+    },
+    {
+      "t": "8216 8217 all analys analyst any blackout change changes didn had has last month movement playstation post revealed says show significant that",
+      "ts": 1789411786.1460376
+    },
+    {
+      "t": "2 according addresses appea changed component continued costs crisis deck despite haven impact other plans post ram rise steam valve",
+      "ts": 1789411789.6477454
+    },
+    {
+      "t": "22 3 announced appeared beginning bungie december delay delays first gaming has insider its marathon post season september that update will",
+      "ts": 1789411793.119564
+    },
+    {
+      "t": "8217 adaptations all announced announcement crazy including more netflix new post reveals sega sonic taxi upcoming",
+      "ts": 1789411796.5579402
+    },
+    {
+      "t": "18 8216 8217 appeared band boy confirmed first friday games has heartsteel league legends life live lol new post releasing revealed riot september song",
+      "ts": 1789411800.1541612
     }
   ]
 }
