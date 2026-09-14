@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/18/how-herman-miller-has-taken-over-the-gaming-chair-market/",
-    "https://thebusinessofesports.com/2021/05/18/business-of-esports-tv-unlucky-luckbox/",
-    "https://thebusinessofesports.com/2021/05/18/business-of-esports-tv-eas-apex-success/",
-    "https://thebusinessofesports.com/2021/05/17/unruly-partners-with-thece-in-global-esports-and-gaming-deal/",
-    "https://thebusinessofesports.com/2021/05/17/what-we-learned-from-the-apple-epic-trial-so-far/",
-    "https://thebusinessofesports.com/2021/05/17/mission-control-partners-with-hyperx-to-launch-u-s-parks-and-recreation-esports-championship/",
-    "https://thebusinessofesports.com/2021/05/17/otc-markets-group-welcomes-gaming-realms-plc-to-otcqx/",
     "https://thebusinessofesports.com/2021/05/17/tiktok-enthusiast-gaming-and-e-l-f-cosmetics-launch-tiktok-gamers-got-talent/",
     "https://thebusinessofesports.com/2021/05/17/analyzing-the-rise-of-the-esports-betting-market/",
     "https://thebusinessofesports.com/2021/05/17/t1-entertainment-and-sports-partners-with-op-gg/",
@@ -7999,16 +7992,16 @@
     "https://insider-gaming.com/starladder-starseries-fall-2026-tournament-guide/",
     "https://insider-gaming.com/all-ea-fc-27-squad-foundation-players-how-to-unlock-them/",
     "https://insider-gaming.com/when-is-kingdom-hearts-coming-to-fortnite-exact-release-date/",
-    "https://insider-gaming.com/xbox-ceo-asha-sharma-is-reportedly-handling-customer-support-tickets/"
+    "https://insider-gaming.com/xbox-ceo-asha-sharma-is-reportedly-handling-customer-support-tickets/",
+    "https://insider-gaming.com/pokemon-tcg-30th-celebration-most-valuable-cards-pull-rates/",
+    "https://insider-gaming.com/all-ea-fc-27-fut-gallery-milestone-rewards-how-to-unlock-them/",
+    "https://insider-gaming.com/kingdom-hearts-huge-fortnite-collab-revealed-ahead-of-next-update/",
+    "https://insider-gaming.com/xdefiant-private-server-being-developed-by-fans/",
+    "https://insider-gaming.com/fortnite-finally-adding-five-nights-at-freddys-collab-for-fortnitemares/",
+    "https://www.vlr.gg/755727/short-riot-introduces-new-rifle-warden-in-patch-13-06",
+    "https://www.vlr.gg/755764/rex-regum-qeon-allows-head-coach-jovi-to-explore-options"
   ],
   "title_hashes": [
-    "e49f53cbe9ac1176044a2f7ede1d989a",
-    "83a62f66d6c7da0d0d08685d0e086f7b",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "c4073b717566d1f8319a20b334857210",
-    "828d7b01cfa21a79324f35645cd66221",
-    "67ea140126d63027b90243a97ecd13b7",
     "a677922a997bf85e3376b9baaa7fb660",
     "a1d458ba61a43dc075c07003bc477494",
     "cbca46545106a70fa7faaa07bf4b72a8",
@@ -16001,7 +15994,14 @@
     "fa6da2bb23280345ae173586fb15aa50",
     "e6f4f29d9dcdd8d7935d676bfbb2abc0",
     "dcc3a7a8310285c2f07bda96d90735f3",
-    "9db1851c639e9d5df8f6d8e48ed480f6"
+    "9db1851c639e9d5df8f6d8e48ed480f6",
+    "ab3438cda59bd4472b31cf0760c8e985",
+    "f59f32e7c495169917360f79feffb677",
+    "46b081dd8bbd1fcba2ba37dbed8f319c",
+    "45304584a9769a0081f783997cba055e",
+    "412621e21c544a4e1c6f7327f3dc082d",
+    "dfb959a62b62aa498e9ecb9589231f46",
+    "6738f876eee0d88866431b0bbb1b9a79"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,26 @@
     {
       "t": "asha became case ceo chance customer handled handling post reportedly sharma she since submitted support there tic ticket tickets xbox you your",
       "ts": 1789392330.3934155
+    },
+    {
+      "t": "30th all cards celebration chase details full hits most odds pack pokémon post pull rates set tcg valuable",
+      "ts": 1789392336.0145295
+    },
+    {
+      "t": "8217 ahead appe awaited been collab come finally fortnite has hearts huge kingdom later long more next post revealed this update week",
+      "ts": 1789392339.632357
+    },
+    {
+      "t": "again been could dedicated devs game group has make many missing playable post privat private server shooter soon ubisoft working xdefiant",
+      "ts": 1789392343.255547
+    },
+    {
+      "t": "8217 adding appeared arrive collab event finally fir five fortnite fortnitemares freddy looks nights post set this year",
+      "ts": 1789392346.8082144
+    },
+    {
+      "t": "after allowed allows been coach explore has head helm his jovi just one options qeon regum rex rrq valorant year",
+      "ts": 1789392350.3612077
     }
   ]
 }
