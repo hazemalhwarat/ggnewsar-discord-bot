@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/14/live-after-show-131b-steam-censorship-ea-apex-success-luckbox-losses-blockchain-gaming-billions/",
-    "https://thebusinessofesports.com/2021/05/14/esl-gaming-renews-and-expands-partnership-with-douyu/",
-    "https://thebusinessofesports.com/2021/05/14/brain-hp-enters-world-of-esports-with-multiple-partnerships/",
-    "https://thebusinessofesports.com/2021/05/14/forecasting-growth-in-the-european-gaming-controller-market/",
-    "https://thebusinessofesports.com/2021/05/14/razer-debuts-orochi-v2-gaming-mouse/",
     "https://thebusinessofesports.com/2021/05/14/riot-games-denies-rumors-about-project-l-nfts/",
     "https://thebusinessofesports.com/2021/05/14/benq-launches-mobiuz-ex3415r-34-inch-ultrawide-curved-gaming-monitor/",
     "https://thebusinessofesports.com/2021/05/14/beyond-games-conference-coming-in-may/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25985/ncsoft-releases-final-expansion-update-for-guild-wars-2",
     "https://www.invenglobal.com/articles/25986/com2us-platform-sponsors-ai-game-sound-design-challenge",
     "https://www.invenglobal.com/articles/25984/k-content-industry-council-officially-launches-prioritizing-game-development-tax-credits",
-    "https://www.invenglobal.com/articles/25983/ninja-baseball-league-man-bases-loaded-korean-edition-launches-december-10"
+    "https://www.invenglobal.com/articles/25983/ninja-baseball-league-man-bases-loaded-korean-edition-launches-december-10",
+    "https://www.invenglobal.com/articles/25982/friends-popcorn-launches-3rd-collaboration-with-crayon-shin-chan",
+    "https://www.invenglobal.com/articles/25981/hadoken-apex-legends-teases-street-fighter-6-collaboration",
+    "https://www.invenglobal.com/articles/25980/eclipse-the-awakening-reaches-no-1-in-top-sales-on-google-play-and-apple-app-store",
+    "https://www.invenglobal.com/articles/25979/k-content-industry-council-launches-targeting-220-trillion-won-in-revenue-by-2030",
+    "https://www.invenglobal.com/articles/25978/com2us-holdings-officially-launches-ares-the-iron-vanguard-globally-on-september-15"
   ],
   "title_hashes": [
-    "14ce7a9a696951fc72077667967d5f29",
-    "30aac0eca76ceaa6e74db23e467688ad",
-    "d28deac0c55473358875da8b3f9d32fd",
-    "f2feef721772e3ca3963124a570d18bd",
-    "2024822a686d679adde395e101880cd6",
     "fa185699cdde50242fc53a9055a8111e",
     "b8370f7273a44d493e1bc1ee374f3594",
     "264aa88e119751daab2726cd25280bd4",
@@ -16001,7 +15996,12 @@
     "d900ec24599306f37f96e49bd17d0b89",
     "25c23ae58e81fc3fd478574f714663dd",
     "9646a4a788248b592f34e4960ce632e3",
-    "5a927c23c526a37436caef6d1d693014"
+    "5a927c23c526a37436caef6d1d693014",
+    "ff0236ef316143356ad7c9d8c876ce41",
+    "be97b68022d65e1f1da9f8979eba78e2",
+    "43c9b042ccb042e565f63b29bf301248",
+    "042676866be74185ac1c434f64c11369",
+    "4e7a64d25ac48dc464b795a68f697622"
   ],
   "transfers": {
     "pages": {
@@ -21236,6 +21236,26 @@
     {
       "t": "10 2 announced baseball bases beat december edition game h2 interactive interactiveh2 korean launch launches league loaded man ninja nintendo ps5 scrolling side switch that will",
       "ts": 1789449796.5547063
+    },
+    {
+      "t": "15th 3rd animated announced chan collaboration crayon friends game games gameskakao hosting its kakao launches mobile pop popcorn popular puzzle series shin that third",
+      "ts": 1789449801.659082
+    },
+    {
+      "t": "15th 6 account apex canyon capcomwill chun collaboration fighter formerly hadoken its kings legends official officially roaming see street teased teases twitter via",
+      "ts": 1789449805.0303319
+    },
+    {
+      "t": "1 15th achieved announced app apple awakening both eclipse google hereinafter its mmorpg new play reaches sales smilegatesmilegate spot store that top",
+      "ts": 1789449808.5463436
+    },
+    {
+      "t": "2030 220 across after all association bringing content council domestic game genres holding industry industrythe korea launched launches officially organizations revenue targeting together trillion vision won",
+      "ts": 1789449812.0899103
+    },
+    {
+      "t": "15 action announced ares com2us developed globally has hereafter holdings holdingscom2us iron launched launches officially rpg second september stylish that vanguard",
+      "ts": 1789449815.5042777
     }
   ]
 }
