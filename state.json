@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/14/riot-games-denies-rumors-about-project-l-nfts/",
-    "https://thebusinessofesports.com/2021/05/14/benq-launches-mobiuz-ex3415r-34-inch-ultrawide-curved-gaming-monitor/",
-    "https://thebusinessofesports.com/2021/05/14/beyond-games-conference-coming-in-may/",
-    "https://thebusinessofesports.com/2021/05/14/business-of-esports-minute-048-riot-games-spying-sony-x-discord-stadia-lead-quits/",
-    "https://thebusinessofesports.com/2021/05/14/business-of-esports-tv-sony-takes-a-shot-at-game-pass/",
     "https://thebusinessofesports.com/2021/05/14/episode-131-video-esports-arena-takeover-tencent-forced-sale-free-to-play-ubisoft-luxury-gaming-chairs/",
     "https://thebusinessofesports.com/2021/05/13/business-of-esports-tv-lebron-needs-a-gaming-chair-apparently/",
     "https://thebusinessofesports.com/2021/05/13/episode-131-esports-arena-takeover-tencent-forced-sale-free-to-play-ubisoft-luxury-gaming-chairs/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25981/hadoken-apex-legends-teases-street-fighter-6-collaboration",
     "https://www.invenglobal.com/articles/25980/eclipse-the-awakening-reaches-no-1-in-top-sales-on-google-play-and-apple-app-store",
     "https://www.invenglobal.com/articles/25979/k-content-industry-council-launches-targeting-220-trillion-won-in-revenue-by-2030",
-    "https://www.invenglobal.com/articles/25978/com2us-holdings-officially-launches-ares-the-iron-vanguard-globally-on-september-15"
+    "https://www.invenglobal.com/articles/25978/com2us-holdings-officially-launches-ares-the-iron-vanguard-globally-on-september-15",
+    "https://www.invenglobal.com/articles/25977/black-desert-promotes-k-gaming-at-korean-festival-in-netherlands",
+    "https://www.invenglobal.com/articles/25976/kiwoom-drx-fans-stage-truck-protest-demanding-official-meeting-with-management",
+    "https://www.invenglobal.com/articles/25975/the-choice-of-national-team-athletes-at-the-2026-asian-games-sidiz-gc-pro-renewal-gaming-chair",
+    "https://www.invenglobal.com/articles/25974/familiar-yet-unfamiliar-and-fun-quirky-fantasy-masterpiece-seal-m2",
+    "https://www.invenglobal.com/articles/25973/tower-of-fantasy-version-63-update-introduces-new-character-zoey"
   ],
   "title_hashes": [
-    "fa185699cdde50242fc53a9055a8111e",
-    "b8370f7273a44d493e1bc1ee374f3594",
-    "264aa88e119751daab2726cd25280bd4",
-    "8f691e1fececa2bd042f1744da435071",
-    "31f8c8c8d6932f3192ce4b2b80bd1959",
     "54f5742045ae286d92ed5027b8c5def0",
     "7870d8f93f627425d6f8f396267b5101",
     "43a4702c10c34910d0fbae755c5c26b9",
@@ -16001,7 +15996,12 @@
     "be97b68022d65e1f1da9f8979eba78e2",
     "43c9b042ccb042e565f63b29bf301248",
     "042676866be74185ac1c434f64c11369",
-    "4e7a64d25ac48dc464b795a68f697622"
+    "4e7a64d25ac48dc464b795a68f697622",
+    "0a7c26e5b45501e1ffa5efee1f329729",
+    "ae8921b362ac08f06657d3605cf1d0da",
+    "3cd623a0eeb7118f737e4fed5d183022",
+    "3328e601b145f6d003caa6a1eb2cf1f9",
+    "7c0dcb18f053b146698ba245cef84b8b"
   ],
   "transfers": {
     "pages": {
@@ -21256,6 +21256,26 @@
     {
       "t": "15 action announced ares com2us developed globally has hereafter holdings holdingscom2us iron launched launches officially rpg second september stylish that vanguard",
       "ts": 1789449815.5042777
+    },
+    {
+      "t": "11th abyss abysspearl announced black desert embassy festival gaming hague held hosted its korean mmorpg netherlands participated pearl promotes rep that",
+      "ts": 1789449820.7038705
+    },
+    {
+      "t": "2022 championship communicate demanding drx fans have kiwoom management meeting official performance prolonged protest since slump stage staged suffered team their truck urging who winning world",
+      "ts": 1789449824.3733878
+    },
+    {
+      "t": "2023 2026 asian athletes brand chair choice esports first gamers games gaming introduced national players pro remember renewal sidiz team that you",
+      "ts": 1789449827.7555747
+    },
+    {
+      "t": "1 2000 2003 3d attracting cartoon domestic familiar fantasy featuring full fun game graphics just koreastarting m2 masterpiece million months online packaged players playwith quirky reborn rendered seal two unfamiliar yet",
+      "ts": 1789449831.185856
+    },
+    {
+      "t": "15th 3 6 between character dawn fantasy introduces new perfect tower twilight update updated version world zoey",
+      "ts": 1789449834.6593926
     }
   ]
 }
