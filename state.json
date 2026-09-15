@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/13/steelseries-and-blast-premier-agree-to-multi-event-partnership/",
-    "https://thebusinessofesports.com/2021/10/13/hyperx-unveils-pulsefire-mat-rgb-mouse-pad-partners-with-u-s-cyber-team/",
-    "https://thebusinessofesports.com/2021/10/13/entrepreneur-fakhr-e-alam-partners-with-galaxy-racer/",
-    "https://thebusinessofesports.com/2021/10/13/weekly-news-show-153-amazon-future-new-world-success-twitch-hack-paris-hilton-x-roblox-apple-beats-nintendo-ms-sony-rivalry-ipo-lenovo-handheld-tsm-ftx-nfts/",
-    "https://thebusinessofesports.com/2021/10/13/episode-152-video-immortals-new-path-future-of-esports-orgs-zero-profit-pricing/",
     "https://thebusinessofesports.com/2021/10/12/an-post-teaming-up-with-legion-esports/",
     "https://thebusinessofesports.com/2021/10/12/expedia-named-latest-sponsor-of-esports-awards/",
     "https://thebusinessofesports.com/2021/10/12/el-rubius-agrees-to-launch-gaming-entertainment-show-on-binge-platform/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25995/kakao-games-approves-acquisition-of-3956-stake-in-me2on",
     "https://www.invenglobal.com/articles/25992/nexons-blue-archive-updates-main-story-ex-lore-pursuit-chapter-2",
     "https://www.invenglobal.com/articles/25993/stoneage-idle-adventure-holds-05-anniversary-event",
-    "https://www.invenglobal.com/articles/25989/msi-launches-two-models-of-mpg-coreliquid-p22-360-lcd-liquid-cooler"
+    "https://www.invenglobal.com/articles/25989/msi-launches-two-models-of-mpg-coreliquid-p22-360-lcd-liquid-cooler",
+    "https://www.invenglobal.com/articles/25991/black-desert-mobile-fortress-battle-to-hold-additional-test-on-september-16",
+    "https://www.invenglobal.com/articles/25990/kakao-games-unveils-k-fantasy-lore-of-world-of-dokkaebi",
+    "https://www.invenglobal.com/articles/25988/which-game-will-take-care-of-the-long-chuseok-holiday-inven-games-chuseok-special-sale",
+    "https://www.invenglobal.com/articles/25967/seorin-ci-releases-kryonaut-extreme-6g",
+    "https://www.invenglobal.com/articles/25964/asus-rog-20th-anniversary-pop-up-store-attracts-nearly-6000-visitors"
   ],
   "title_hashes": [
-    "57d9ce0e5e59fe1b0a98a4712dfbb700",
-    "08b8de2c1ee01a52fc9df26035bb9afe",
-    "0ed59e976134f4f065f42bc66d7dac3b",
-    "bc4abb412e4cc8deacdd53a3b2983e44",
-    "94cb62fe83e99087d7c8ec7ac46159e5",
     "996a414008944a9e20fbb1993733a06b",
     "da8dfc75c09209331e55746e392a6fa9",
     "aa31065ac4fd553ee867ceef928ac450",
@@ -16001,7 +15996,12 @@
     "d4daed28c57b3a40d4a395f3e83856e9",
     "e8a16d9639b3088f9fad9d5f2eb643c5",
     "9923ab4f26824345d6c79c30cd879e1d",
-    "7f2e1639fd188ae693310b46ab61e5ca"
+    "7f2e1639fd188ae693310b46ab61e5ca",
+    "e2176dadb459de06f01898e609239253",
+    "6b2d2e1ea07b3658635d4eb2f1211b44",
+    "ca2aa6ae9362ab6d66fdd770ecfcc574",
+    "30294475124928894893881848570fc2",
+    "9a2a1d96799f73d6de3a7f38b3043b13"
   ],
   "transfers": {
     "pages": {
@@ -21064,6 +21064,26 @@
     {
       "t": "15th 360 all black color cooler coreliquid launched launches lcd liquid models mpg msi msion p22 two variants white",
       "ts": 1789467415.6904907
+    },
+    {
+      "t": "16 abyss abysspearl across additional battle battlefield black compete content desert fortress guilds hold mobile pearl run september server test vast where will",
+      "ts": 1789467420.8862674
+    },
+    {
+      "t": "15 2 5d details dokkaebi fantasy game games gameson its kakao lore mmorpg pre revealed september supercat through unveils upcoming world worldbuilding",
+      "ts": 1789467424.320057
+    },
+    {
+      "t": "care chuseok code discounted game games has holiday inven its launched long offering operated platform popular prices promotion runs sale september special take which will",
+      "ts": 1789467428.3663197
+    },
+    {
+      "t": "6g adds amp capacity compound existing extreme grizzly has iseorin kryonaut lineup model officially option product released releases seorin thermal this",
+      "ts": 1789467431.9859006
+    },
+    {
+      "t": "000 13th 1st 20th 6 anniversary announced approximately asus asusasus attracts department held hyundai its nearly pangyo people pop rog store that visited visitors which",
+      "ts": 1789467435.5518713
     }
   ]
 }
