@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/12/an-post-teaming-up-with-legion-esports/",
-    "https://thebusinessofesports.com/2021/10/12/expedia-named-latest-sponsor-of-esports-awards/",
-    "https://thebusinessofesports.com/2021/10/12/el-rubius-agrees-to-launch-gaming-entertainment-show-on-binge-platform/",
-    "https://thebusinessofesports.com/2021/10/12/battlesnake-receives-1-5m-in-funding-from-investors/",
-    "https://thebusinessofesports.com/2021/10/12/netflix-buys-first-gaming-studio-after-rolling-out-mobile-titles-in-europe/",
     "https://thebusinessofesports.com/2021/10/12/epic-hero-battles-deletes-twitter-account-after-accusations-of-stealing-artwork/",
     "https://thebusinessofesports.com/2021/10/12/30m-video-game-fund-launched-by-vysyn-ventures/",
     "https://thebusinessofesports.com/2021/10/12/f1-esports-releases-details-for-upcoming-series-2021-season/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25990/kakao-games-unveils-k-fantasy-lore-of-world-of-dokkaebi",
     "https://www.invenglobal.com/articles/25988/which-game-will-take-care-of-the-long-chuseok-holiday-inven-games-chuseok-special-sale",
     "https://www.invenglobal.com/articles/25967/seorin-ci-releases-kryonaut-extreme-6g",
-    "https://www.invenglobal.com/articles/25964/asus-rog-20th-anniversary-pop-up-store-attracts-nearly-6000-visitors"
+    "https://www.invenglobal.com/articles/25964/asus-rog-20th-anniversary-pop-up-store-attracts-nearly-6000-visitors",
+    "https://www.invenglobal.com/articles/25965/webzen-improves-combat-balance-for-four-classes-in-mu-online",
+    "https://www.invenglobal.com/articles/25966/nightmare-the-lunatic-ps5-physical-edition-releases-october-16",
+    "https://www.invenglobal.com/articles/25963/nc-and-microsoft-strengthen-global-partnership-for-aion-2",
+    "https://www.invenglobal.com/articles/25962/supporting-the-overseas-expansion-of-k-indie-games-2026-connect-fair-concludes-successfully",
+    "https://www.invenglobal.com/articles/25961/cookierun-card-game-selected-for-amazons-top-100-toys-list"
   ],
   "title_hashes": [
-    "996a414008944a9e20fbb1993733a06b",
-    "da8dfc75c09209331e55746e392a6fa9",
-    "aa31065ac4fd553ee867ceef928ac450",
-    "704ae491c968853a3ce2a52efa4cdd09",
-    "93c7ee6c898a372f2647519df2d92eb7",
     "e19f4bc8e43d39f96b74d11f7156eea3",
     "dd260625437e3881fd5e7336a1f0eb4a",
     "6bdade54c6824d93284996e22f5524a2",
@@ -16001,7 +15996,12 @@
     "6b2d2e1ea07b3658635d4eb2f1211b44",
     "ca2aa6ae9362ab6d66fdd770ecfcc574",
     "30294475124928894893881848570fc2",
-    "9a2a1d96799f73d6de3a7f38b3043b13"
+    "9a2a1d96799f73d6de3a7f38b3043b13",
+    "afd6e0bf59b371e803c40d0bec8274b7",
+    "917a40b63c477aa24bb9f6533858c50b",
+    "ad2f0c95dcd15255462514ee60bbdc76",
+    "846c543ac6a7c8dc7bd5d75022f3a845",
+    "a1a360fa4a6ae5887c6cab24b3608f56"
   ],
   "transfers": {
     "pages": {
@@ -21084,6 +21084,26 @@
     {
       "t": "000 13th 1st 20th 6 anniversary announced approximately asus asusasus attracts department held hyundai its nearly pangyo people pop rog store that visited visitors which",
       "ts": 1789467435.5518713
+    },
+    {
+      "t": "15th adju balance character classes combat four improved improves launched mmorpg online progression rapid servers speed support webzen webzenon",
+      "ts": 1789467440.7545385
+    },
+    {
+      "t": "16 action announced cfkcfk edition lunatic nightmare october physical ps5 release releases roguelite rpg that will",
+      "ts": 1789467444.2162151
+    },
+    {
+      "t": "15th 2 aion announced companies global its korea met microsoft ncnc operate partnership prepare service strategic strengthen strengthening that two",
+      "ts": 1789467447.6832614
+    },
+    {
+      "t": "11th 2026 agency announced association associationseongnam city concludes connect expansion fair game games indie industry korea mobile overseas promotion seongnam successfully supporting that",
+      "ts": 1789467451.0909822
+    },
+    {
+      "t": "100 amazon amp been braverse card category collectibles cookierun devsistersdevsisters game has hereinafter list miniatures selected tcg top toys",
+      "ts": 1789467454.6068425
     }
   ]
 }
