@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/14/episode-131-video-esports-arena-takeover-tencent-forced-sale-free-to-play-ubisoft-luxury-gaming-chairs/",
-    "https://thebusinessofesports.com/2021/05/13/business-of-esports-tv-lebron-needs-a-gaming-chair-apparently/",
-    "https://thebusinessofesports.com/2021/05/13/episode-131-esports-arena-takeover-tencent-forced-sale-free-to-play-ubisoft-luxury-gaming-chairs/",
-    "https://thebusinessofesports.com/2021/05/12/stadia-project-head-john-justice-leaves-google/",
-    "https://thebusinessofesports.com/2021/05/12/sony-announces-partnership-and-investment-into-discord/",
     "https://thebusinessofesports.com/2021/05/12/riot-games-to-record-in-game-valorant-voice-communications/",
     "https://thebusinessofesports.com/2021/05/12/business-of-esports-tv-stadia-ceo-quits-google/",
     "https://thebusinessofesports.com/2021/05/12/hike-leaves-winzo-platform-to-focus-on-own-app/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/25976/kiwoom-drx-fans-stage-truck-protest-demanding-official-meeting-with-management",
     "https://www.invenglobal.com/articles/25975/the-choice-of-national-team-athletes-at-the-2026-asian-games-sidiz-gc-pro-renewal-gaming-chair",
     "https://www.invenglobal.com/articles/25974/familiar-yet-unfamiliar-and-fun-quirky-fantasy-masterpiece-seal-m2",
-    "https://www.invenglobal.com/articles/25973/tower-of-fantasy-version-63-update-introduces-new-character-zoey"
+    "https://www.invenglobal.com/articles/25973/tower-of-fantasy-version-63-update-introduces-new-character-zoey",
+    "https://www.invenglobal.com/articles/25970/bpmg-releases-steam-pc-demo-for-cooking-adventure",
+    "https://www.invenglobal.com/articles/25972/dragonheir-3rd-anniversary-event-opens-cross-server-faction-battles",
+    "https://www.invenglobal.com/articles/25971/t1a-kt-clash-in-2026-lck-cl-grand-final",
+    "https://www.invenglobal.com/articles/25969/korea-manhwa-contents-agency-unveils-exhibition-lineup-for-29th-bucheon-international-comics-festival",
+    "https://www.invenglobal.com/articles/25968/treenod-unveils-new-title-poko-merge-for-the-first-time-at-tgs-2026"
   ],
   "title_hashes": [
-    "54f5742045ae286d92ed5027b8c5def0",
-    "7870d8f93f627425d6f8f396267b5101",
-    "43a4702c10c34910d0fbae755c5c26b9",
-    "eac16bfc66bd3932d366034683afd13a",
-    "4977a872e0a3145909e400c6e74ce63d",
     "27a0a8edf54a15c315385581d66aa6a0",
     "88771f3135ec6c6449b86701ee4031b5",
     "27a0a8edf54a15c315385581d66aa6a0",
@@ -16001,7 +15996,12 @@
     "ae8921b362ac08f06657d3605cf1d0da",
     "3cd623a0eeb7118f737e4fed5d183022",
     "3328e601b145f6d003caa6a1eb2cf1f9",
-    "7c0dcb18f053b146698ba245cef84b8b"
+    "7c0dcb18f053b146698ba245cef84b8b",
+    "d40620c42a15e728392a909c95054ae9",
+    "d99c01c690be3c9724cd4484a4fadb7e",
+    "01e03cbb88f17f88d7a2b9854d471e44",
+    "03754b9dffed4f265e1a8abf5c9be0de",
+    "9076bfa2ddc622713b8056fe37dcbaea"
   ],
   "transfers": {
     "pages": {
@@ -21276,6 +21276,26 @@
     {
       "t": "15th 3 6 between character dawn fantasy introduces new perfect tower twilight update updated version world zoey",
       "ts": 1789449834.6593926
+    },
+    {
+      "t": "15th according adventure bpmg bpmgon cooking customer demo food game orders players prepare released releases serve simulation steam version where",
+      "ts": 1789449839.7093415
+    },
+    {
+      "t": "15th 3rd anniversary announced battles cross dragonheir event exclusive faction featuring gods hero its launching legendary major mark new opens reborn server service sgra silent studio that update",
+      "ts": 1789449843.0982783
+    },
+    {
+      "t": "2026 5 academy associationthe between challengers clash esports final grand hongdae host its korea lck league rolster sports studio t1 t1a wdg will",
+      "ts": 1789449847.006753
+    },
+    {
+      "t": "29th agency agencythe bucheon comics contents exhibition festival has international korea lineup manhwa place take unveiled unveils which will",
+      "ts": 1789449850.4118564
+    },
+    {
+      "t": "17 2026 21 chiba first game held its japan makuhari merge messe new poko prefecture september show tgs time title tokyo treenod treenodtreenod unveil unveils will",
+      "ts": 1789449853.9604714
     }
   ]
 }
