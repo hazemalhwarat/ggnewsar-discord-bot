@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/10/dr-disrespect-discusses-courage-and-valkyrae-becoming-co-owners-of-100-thieves/",
-    "https://thebusinessofesports.com/2021/05/09/moviepass-co-founder-launches-new-service-for-gamers/",
-    "https://thebusinessofesports.com/2021/05/09/freal-foods-launching-custom-branded-mobile-game/",
-    "https://thebusinessofesports.com/2021/05/08/jd-com-partners-with-tj-sports/",
-    "https://thebusinessofesports.com/2021/05/08/btobet-announces-partnership-with-oddin/",
     "https://thebusinessofesports.com/2021/05/08/mobile-gaming-company-wildlife-launches-second-studio/",
     "https://thebusinessofesports.com/2021/05/08/tracking-the-evolution-of-esports-laws-and-legislation/",
     "https://thebusinessofesports.com/2021/05/08/dh-adds-new-esports-and-gaming-business-unit/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26035/com2us-holdings-to-showcase-fatal-claw-and-space-revolver-at-tgs",
     "https://www.invenglobal.com/articles/26036/war-of-genesis-idle-loot-surpasses-37000-concurrent-players-on-steam",
     "https://www.invenglobal.com/articles/26033/throne-and-liberty-colossal-terra-boss-vegamont-arrives-september-22",
-    "https://www.invenglobal.com/articles/26034/solo-leveling-arise-to-introduce-new-hunter-on-sept-17"
+    "https://www.invenglobal.com/articles/26034/solo-leveling-arise-to-introduce-new-hunter-on-sept-17",
+    "https://www.invenglobal.com/articles/26029/dark-comedy-incremental-game-guilded-fools-unveiled",
+    "https://www.invenglobal.com/articles/26031/outerplane-heads-to-tgs-2026-teases-first-anniversary-update",
+    "https://www.invenglobal.com/articles/26026/luminids-character-cognition-tech-expands-to-ai-company",
+    "https://www.invenglobal.com/articles/26028/the-seven-deadly-sins-origin-adds-new-hero-kalla-on-september-17",
+    "https://www.invenglobal.com/articles/26027/nhn-unveils-main-feature-video-for-6-web-board-games-chuseok-special"
   ],
   "title_hashes": [
-    "654daf07d022696444bd271d02a5163f",
-    "a81a4fb4d25432e500d19446c8e9f7c7",
-    "d3764f776db05ed4afbaeb490d232c87",
-    "531e2c2687d4824abab392832bc8dbcd",
-    "2b691e46641175cd3ab39f757bfa5020",
     "0f48fc05df4df09193b88f83bf840522",
     "577b65ecaf66326060dd22593d7b6a57",
     "219636cd2c4ac98405d7b70a9de1002a",
@@ -16001,7 +15996,12 @@
     "c4d1076b365ac7c256d2db1ec33c9d6b",
     "389fa5af0e66bb997e3cb4c27d9db0bf",
     "edf2a4102830b815477a44790985543d",
-    "806f9e781f9c32d0ed72c95058e4aaaa"
+    "806f9e781f9c32d0ed72c95058e4aaaa",
+    "d89b17f49b329005929d4f16d82a94cf",
+    "d0df7c3904cdaaa77bd89c1d87a6dfa0",
+    "7138dab0da5587ae40624f7ea6668ab7",
+    "07f3d9802de284f35516ba006f1ca21b",
+    "3ce90956e1da1a74119f5f34c33340ba"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "17 action adding arise diana game hunter introduce leveling lopez netmarblenetmarble new release sept september solo ssr update will",
       "ts": 1789563674.0630136
+    },
+    {
+      "t": "comedy dark developed foolish fools game gather guilded has heroes incremental inside manage play players set solo stage their toyaritoyari twisted unveiled where",
+      "ts": 1789563679.5928845
+    },
+    {
+      "t": "16 2026 anniversary announced booth dedicated first game heads japan kicks major9outerplane makuhari messe off outerplane participate september show teases tgs that tokyo update which will",
+      "ts": 1789563683.0871022
+    },
+    {
+      "t": "3d based being cambridge character cognition colony company developed developer expands game godot luminids simulation solo tech",
+      "ts": 1789563686.5192714
+    },
+    {
+      "t": "17 add adds announced deadly event hero hold kalla netmarblenetmarble new open origin poll reflecting rpg september seven sins summon that will world",
+      "ts": 1789563689.9880672
+    },
+    {
+      "t": "16 2026 6 board campaign chuseok contents encompassing feature games hangame integrated main nhn nhnon september set six special unveiled unveils video web",
+      "ts": 1789563693.4630823
     }
   ]
 }
