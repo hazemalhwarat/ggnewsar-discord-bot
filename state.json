@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/20/parent-company-of-la-guerillas-and-gladiators-looking-to-expand-into-valorant/",
-    "https://thebusinessofesports.com/2021/10/20/under-armour-and-nasr-esports-team-up/",
-    "https://thebusinessofesports.com/2021/10/19/op-games-secures-8-6m-in-funding-round/",
-    "https://thebusinessofesports.com/2021/10/19/partnership-formed-between-queer-women-of-esports-and-juked/",
-    "https://thebusinessofesports.com/2021/10/19/league-of-legends-wild-rift-reality-show-premiering-later-this-year/",
     "https://thebusinessofesports.com/2021/10/19/covid-19-concerns-cause-dreamhack-atlanta-to-be-postponed/",
     "https://thebusinessofesports.com/2021/10/19/d-box-agrees-to-partnership-with-adrenalin-gmbh/",
     "https://thebusinessofesports.com/2021/10/19/partnership-formed-between-tribe-gaming-and-lightfox-games/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26053/high-hp-st-bernard-magic-dps-high-rabbit-new-pets-added",
     "https://www.invenglobal.com/articles/26052/inner-edania-main-questline-added-black-desert-sept-16-patch-highlights",
     "https://www.invenglobal.com/articles/26051/mutual-teleportation-enabled-the-marriage-system",
-    "https://www.invenglobal.com/articles/26050/tower-of-god-new-world-adds-khun-royale-elliot"
+    "https://www.invenglobal.com/articles/26050/tower-of-god-new-world-adds-khun-royale-elliot",
+    "https://www.invenglobal.com/articles/26049/joycity-recreates-battle-of-myeongnyang-in-imjin-war-joseons-counterattack",
+    "https://www.invenglobal.com/articles/26048/knight-and-mage-buffs-double-nine-event-september-16-patch-summary",
+    "https://www.invenglobal.com/articles/26047/architect-opens-global-region-connecting-9-asian-regions",
+    "https://www.invenglobal.com/articles/26046/open-up-to-floor-20-continents-top-hunting-ground-tower-of-insolence",
+    "https://www.invenglobal.com/articles/26045/wemade-launches-chuseok-events-for-the-legend-of-mir-2-and-3"
   ],
   "title_hashes": [
-    "6932a31735d7dba65af8fed982dd25ff",
-    "c9612e2fac5e19efb7f2a3bafab00b63",
-    "3d508745671d6302c48689967f3074ec",
-    "de98b037b0edf8fe50d4a911cf44975b",
-    "fee4140e3da311700744940087e8cfd5",
     "4d2fb874201644d281044086d60c6a0d",
     "8bc5a336bc1e3e7b3eef6fbc8379568d",
     "388511035c64d5a0c1bfd072bac748c2",
@@ -16001,7 +15996,12 @@
     "1f0ab023309d5cacfc9ee8bab4b098f2",
     "bbaf02fdeeea2df08a22fa84238779e4",
     "8bd521441d91234eee7c7fd673928ada",
-    "b46b4944030408d2261d3b3967d1a103"
+    "b46b4944030408d2261d3b3967d1a103",
+    "4f93fc65c5b2cba19f983d21d1ed6cf4",
+    "6909d18a4fa7bb44750f1128a48305f5",
+    "56e4eb38b6644f675334070f5525560d",
+    "43c5a37fafa49bfb28a0efef0d4640fc",
+    "914384a12411490f6a1bace29023729b"
   ],
   "transfers": {
     "pages": {
@@ -21096,6 +21096,26 @@
     {
       "t": "16 44th added adds anime announced collectible elliot floor god has its khun netmarblenetmarble new royale rpg ruler september ssr teammate that tower world",
       "ts": 1789545433.2151978
+    },
+    {
+      "t": "16 429th anniversary announced battle commemorating content counterattack imjin joseon joycity joycityjoycity myeongnyang recreates september that updated war",
+      "ts": 1789545438.5986643
+    },
+    {
+      "t": "16 adjusted balance buffed buffs classes double enchant event knight legendary mage nine patch select september skill sol summary wednesday",
+      "ts": 1789545442.1995635
+    },
+    {
+      "t": "16th 9 announced aqua architect asian connecting developed drimagedrimage exiles global has hereinafter land mmorpg officially opened opens region regions that tree",
+      "ts": 1789545445.7407286
+    },
+    {
+      "t": "20 added been continent currently difficulty floor ground has highest hunting iconic insolence lineage open symbol top tower",
+      "ts": 1789545449.6882143
+    },
+    {
+      "t": "16 2 3 announced begun chuseok events games have its launches legend mir online operated september special subsidiary that wemade wemadewemade",
+      "ts": 1789545453.280002
     }
   ]
 }
