@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/07/03/sohu-com-once-again-generating-profits-in-q1-2021/",
-    "https://thebusinessofesports.com/2021/07/03/madfinger-games-secures-6m-investment/",
-    "https://thebusinessofesports.com/2021/07/03/new-fallout-game-may-have-accidentally-been-leaked/",
-    "https://thebusinessofesports.com/2021/07/03/australia-adopting-30-tax-offset-for-video-game-developers/",
-    "https://thebusinessofesports.com/2021/07/03/business-of-esports-tv-leadership-in-activision-blizzard/",
-    "https://thebusinessofesports.com/2021/07/02/blizzards-overwatch-2-tease-has-gamers-wondering-if-the-title-will-be-free-to-play/",
-    "https://thebusinessofesports.com/2021/07/02/who-has-emerged-as-the-clear-winner-in-the-apple-epic-games-lawsuit/",
     "https://thebusinessofesports.com/2021/07/02/live-after-show-138b-gta-vi-delayed-murakami-x-faze-clan-andbox-cod-mobile-epic-monopoly-heroes-of-the-storm-romance-complexity-sold/",
     "https://thebusinessofesports.com/2021/07/02/business-of-esports-tv-ar-vr-is-the-future/",
     "https://thebusinessofesports.com/2021/07/02/china-opens-countrys-first-esports-themed-shopping-mall/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/26020/at-least-forgotten-island-tier-nest-of-the-wind-dragon-the-highest-difficulty-field-hunting-ground",
     "https://www.invenglobal.com/articles/26019/two-new-field-bosses-arrive-tl-equipment-growth-expanded-to-level-90",
     "https://www.invenglobal.com/articles/26018/wo-long-2-wings-of-ember-opens-pre-orders-and-releases-demo",
-    "https://www.invenglobal.com/articles/26016/blades-of-mirage-to-participate-in-tokyo-game-show-2026"
+    "https://www.invenglobal.com/articles/26016/blades-of-mirage-to-participate-in-tokyo-game-show-2026",
+    "https://www.invenglobal.com/articles/26017/indiecraft-partners-with-gxg-2026-to-showcase-64-games",
+    "https://www.invenglobal.com/articles/26015/head-to-aden-town-for-the-island-of-dreams-and-weddings",
+    "https://www.invenglobal.com/articles/26014/star-conflict-burrownauts-announced-playtest-applications-open",
+    "https://www.invenglobal.com/articles/26013/neowiz-signs-ip-agreement-for-the-legend-of-heroes-iii-white-witch",
+    "https://www.invenglobal.com/articles/26012/line-games-quiet-attracts-350000-players-in-playtest",
+    "https://www.invenglobal.com/articles/26011/funnystorm-opens-pre-registration-for-gps-based-rpg-dragon-raid-on-september-16",
+    "https://www.invenglobal.com/articles/26010/t1-esports-academy-wins-lck-cl-title-for-first-time-in-5-years"
   ],
   "title_hashes": [
-    "d4fb4bb5703921494410ea8a72cd5497",
-    "7fc59bbab1e424b7b7d4612100085fdd",
-    "b1d6abd3f2a0c7325195f37d9e5e9a39",
-    "ab5ce9cda82679fb3d8472fa7618aff3",
-    "ad0862eda48f485818626aadd7146f59",
-    "bf5ba53e13c8fa999adc95a488eb1d14",
-    "27a0a8edf54a15c315385581d66aa6a0",
     "6d1e4fb2de7dd57eb5bc632417dec34f",
     "0b4780e0e96c6e9d291334ca29339bcc",
     "70a68249ce6674947d7d2649e47e7d77",
@@ -16001,7 +15994,14 @@
     "fe6ba0cf1edc096fb65576d57d14413c",
     "27b00df76366ff8bf70d29a59b13a72d",
     "f28cf4d904cd9c26ce81f6ca966791ed",
-    "ff753cf5106154ded3f1e90e25e2d9c4"
+    "ff753cf5106154ded3f1e90e25e2d9c4",
+    "b01948df954387c439a227bdaa706fcb",
+    "9cad7ca9c8e9ee30a9b6dfdf64cc5c51",
+    "4330b5e94dba37436a6e58e8d89d22a4",
+    "01901e7fdb25cca1607c788d907ee6c3",
+    "5f9ae7425bf6671ee4b73ff2101a0824",
+    "9977551202863859e143b0eb87ffb64f",
+    "132687ae19276b3d458138b0a766f4d9"
   ],
   "transfers": {
     "pages": {
@@ -21080,6 +21080,26 @@
     {
       "t": "15 2026 action agate announced blades developer dunes game games gamesindonesian mirage participate publisher red rpg september show showcased that tokyo uae will",
       "ts": 1789526360.5531754
+    },
+    {
+      "t": "11 12 2026 64 announced association associationthe exhibition game games gxg held indiecraft korea mobile offline partners september showcase special that",
+      "ts": 1789526365.613749
+    },
+    {
+      "t": "added aden been dreams east giran has head heine island northeast town weddings",
+      "ts": 1789526369.5801818
+    },
+    {
+      "t": "16 agreement announced developer falcom game heroes iii japanese legend neowiz neowizon nihon september signed signs that white witch",
+      "ts": 1789526373.177753
+    },
+    {
+      "t": "16 160 based can collect diverse dragon dragons explore four funnystorm funnystormfunnystorm game gps its kicking mobile new off opens over players pre raid registration rpg run september week where",
+      "ts": 1789526376.974736
+    },
+    {
+      "t": "0 15 2026 3 5 academy associationon challengers cham claim defeated esports final first grand korea lck league score september set sports t1 time title wins years",
+      "ts": 1789526380.929426
     }
   ]
 }
