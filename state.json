@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/21/play-to-earn-game-treeverse-raises-25-million/",
-    "https://thebusinessofesports.com/2021/10/20/hitmarker-announces-plans-to-teach-courses-through-skillshare/",
-    "https://thebusinessofesports.com/2021/10/20/beyond-gaming-star-suspended-from-league-of-legends-world-championship-for-leaking-valuable-gambling-info/",
-    "https://thebusinessofesports.com/2021/10/20/hyperx-has-shipped-20m-gaming-headsets-since-2014/",
-    "https://thebusinessofesports.com/2021/10/20/csgo-esports-tournament-launched-by-betway/",
-    "https://thebusinessofesports.com/2021/10/20/yalla-esports-partners-with-zain-esports-and-tokyo-games/",
     "https://thebusinessofesports.com/2021/10/20/parent-company-of-la-guerillas-and-gladiators-looking-to-expand-into-valorant/",
     "https://thebusinessofesports.com/2021/10/20/under-armour-and-nasr-esports-team-up/",
     "https://thebusinessofesports.com/2021/10/19/op-games-secures-8-6m-in-funding-round/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26059/from-once-a-week-to-3-times-total-key-changes-to-lineage-classic-server-transfers",
     "https://www.invenglobal.com/articles/26058/7-day-death-knight-dark-elf-helmets-now-available-pixies-feather-items-added",
     "https://www.invenglobal.com/articles/26057/eclipse-the-awakening-adds-20-player-rvr-high-river-battleground",
-    "https://www.invenglobal.com/articles/26056/vampir-adds-5v5-party-battlefield-arena"
+    "https://www.invenglobal.com/articles/26056/vampir-adds-5v5-party-battlefield-arena",
+    "https://www.invenglobal.com/articles/26055/it-takes-two-nintendo-switch-2-version-launches-october-16",
+    "https://www.invenglobal.com/articles/26054/bayonetta-joins-sonic-racing-crossworlds-season-2",
+    "https://www.invenglobal.com/articles/26053/high-hp-st-bernard-magic-dps-high-rabbit-new-pets-added",
+    "https://www.invenglobal.com/articles/26052/inner-edania-main-questline-added-black-desert-sept-16-patch-highlights",
+    "https://www.invenglobal.com/articles/26051/mutual-teleportation-enabled-the-marriage-system",
+    "https://www.invenglobal.com/articles/26050/tower-of-god-new-world-adds-khun-royale-elliot"
   ],
   "title_hashes": [
-    "a3b34c0871dc2fd51eec5559b68f709d",
-    "133fb2b0a356728bc2b47ac22549c9a3",
-    "a8e8ec36a5e62b3781542b10aad8a283",
-    "49aa7ecd2a9ecbd3e99bea5c0636a029",
-    "fb9ea20d69041bf8c0720ab9b3b333b9",
-    "4160a1fadfda57d27f9c58a4b13f4a91",
     "6932a31735d7dba65af8fed982dd25ff",
     "c9612e2fac5e19efb7f2a3bafab00b63",
     "3d508745671d6302c48689967f3074ec",
@@ -16001,7 +15995,13 @@
     "153d974daf62a8a22ccc5e0ce5c03c97",
     "7fd9719e36e92a802661d82bbd31aff8",
     "6b7b655dd22faa3f10677c512493a8a0",
-    "3ebf1a5ee33318e7e4abaebe5b043217"
+    "3ebf1a5ee33318e7e4abaebe5b043217",
+    "294b27a8260b73fc63633d1fc13fb79c",
+    "27d213e7db0066da75d97b2d5e1e2393",
+    "1f0ab023309d5cacfc9ee8bab4b098f2",
+    "bbaf02fdeeea2df08a22fa84238779e4",
+    "8bd521441d91234eee7c7fd673928ada",
+    "b46b4944030408d2261d3b3967d1a103"
   ],
   "transfers": {
     "pages": {
@@ -21076,6 +21076,26 @@
     {
       "t": "16th 5v5 added adds announced arena battlefield content groups has including its mmorpg netmarblenetmarble new party pvp small that themed vampir vampire where",
       "ts": 1789545412.891885
+    },
+    {
+      "t": "16 2 action adventure artsea electronic game games hazelight kore launch launches nintendo october partnership studios switch takes turn two version will",
+      "ts": 1789545418.8872406
+    },
+    {
+      "t": "16th 2 announced bayonetta crossworlds first free game join joins korea part provided publishing racing season segasega sonic that update will",
+      "ts": 1789545422.3576622
+    },
+    {
+      "t": "added among balanced beagle been bernard cat dps fox have high magic new pets rabbit raccoon shepherd similar tendencies them types",
+      "ts": 1789545425.8141446
+    },
+    {
+      "t": "added aden allowing alongside characters enabled genders introduced knot marriage mutual newly opposite system teleportation tie two update",
+      "ts": 1789545429.4498613
+    },
+    {
+      "t": "16 44th added adds anime announced collectible elliot floor god has its khun netmarblenetmarble new royale rpg ruler september ssr teammate that tower world",
+      "ts": 1789545433.2151978
     }
   ]
 }
