@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/10/one-of-the-worlds-most-impressive-gaming-cafes-is-in-australia/",
-    "https://thebusinessofesports.com/2021/05/10/business-of-esports-tv-apple-epic-lawsuit-fallout/",
-    "https://thebusinessofesports.com/2021/05/10/bitkraft-ventures-partners-with-delphi-digital/",
-    "https://thebusinessofesports.com/2021/05/10/nintendo-files-lawsuit-against-video-game-pirates/",
-    "https://thebusinessofesports.com/2021/05/10/activision-blizzards-head-of-esports-named-gm-of-call-of-duty-franchise/",
     "https://thebusinessofesports.com/2021/05/10/dr-disrespect-discusses-courage-and-valkyrae-becoming-co-owners-of-100-thieves/",
     "https://thebusinessofesports.com/2021/05/09/moviepass-co-founder-launches-new-service-for-gamers/",
     "https://thebusinessofesports.com/2021/05/09/freal-foods-launching-custom-branded-mobile-game/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26042/aniimo-officially-launches-worldwide-on-pc-and-consoles",
     "https://www.invenglobal.com/articles/26043/gamescom-2026-attracts-368000-visitors-from-131-countries",
     "https://www.invenglobal.com/articles/26040/is-this-really-a-projector-light-sleek-and-powerful-xgimi-elfin-flip-4k",
-    "https://www.invenglobal.com/articles/26038/tree-of-savior-m-opens-autumn-season-server"
+    "https://www.invenglobal.com/articles/26038/tree-of-savior-m-opens-autumn-season-server",
+    "https://www.invenglobal.com/articles/26037/jeondding-sang-hyun-jeon-attends-state-dinner-for-president-lees-state-visit-to-france",
+    "https://www.invenglobal.com/articles/26035/com2us-holdings-to-showcase-fatal-claw-and-space-revolver-at-tgs",
+    "https://www.invenglobal.com/articles/26036/war-of-genesis-idle-loot-surpasses-37000-concurrent-players-on-steam",
+    "https://www.invenglobal.com/articles/26033/throne-and-liberty-colossal-terra-boss-vegamont-arrives-september-22",
+    "https://www.invenglobal.com/articles/26034/solo-leveling-arise-to-introduce-new-hunter-on-sept-17"
   ],
   "title_hashes": [
-    "6457de3f2403f078465b8537b2a0a1d5",
-    "d8927f5048193005a9d336c17dc9e447",
-    "8d886f9b4bf1c7b08ec620bb44fd41ba",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "f03849515088ef5d6b454132505254d8",
     "654daf07d022696444bd271d02a5163f",
     "a81a4fb4d25432e500d19446c8e9f7c7",
     "d3764f776db05ed4afbaeb490d232c87",
@@ -16001,7 +15996,12 @@
     "aca3f0c16c47f621d5f3510ee7157cce",
     "efbc61950a6d3cda7965cdab40c0a05e",
     "c10d7584cad5a1d11a8889d633c3a297",
-    "41fac7a60c92b41d250615d9e8118207"
+    "41fac7a60c92b41d250615d9e8118207",
+    "e3dd16beb311b1ecf727b4084589fa1e",
+    "c4d1076b365ac7c256d2db1ec33c9d6b",
+    "389fa5af0e66bb997e3cb4c27d9db0bf",
+    "edf2a4102830b815477a44790985543d",
+    "806f9e781f9c32d0ed72c95058e4aaaa"
   ],
   "transfers": {
     "pages": {
@@ -21092,6 +21092,26 @@
     {
       "t": "16th announced autumn cross events games gamesimc has holding imc its mmorpg mobile opened opens platform related savior season server that tree",
       "ts": 1789563653.6492867
+    },
+    {
+      "t": "attended attends dinner during france held hyun jae jeon jeondding lee palace president sang state team visit vitality élysée",
+      "ts": 1789563659.71354
+    },
+    {
+      "t": "16th 20 announced claw com2us fatal game gaming holdings holdingscom2us its japanese new revolver show showcase space tgs that titles tokyo trade will",
+      "ts": 1789563663.2425842
+    },
+    {
+      "t": "000 16th 37 announced concurrent exceeded genesis had idle its loot new normal players rpg soft softon steam surpasses that war",
+      "ts": 1789563666.7158391
+    },
+    {
+      "t": "22 appear approxima arrives boss colossal first introduce liberty mmorpg monster ncon new nix region september standing terra throne vegamont will",
+      "ts": 1789563670.3613026
+    },
+    {
+      "t": "17 action adding arise diana game hunter introduce leveling lopez netmarblenetmarble new release sept september solo ssr update will",
+      "ts": 1789563674.0630136
     }
   ]
 }
