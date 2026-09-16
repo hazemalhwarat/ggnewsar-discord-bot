@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/10/fight-esports-launches-fight-campus-league-in-asia/",
-    "https://thebusinessofesports.com/2021/05/10/nasdaq-highlights-four-gaming-stocks-to-keep-an-eye-on/",
-    "https://thebusinessofesports.com/2021/05/10/serba-dinamik-group-working-to-develop-malaysian-esports-market/",
-    "https://thebusinessofesports.com/2021/05/10/epic-lans-new-event-will-be-a-mix-of-offline-and-online-elements/",
-    "https://thebusinessofesports.com/2021/05/10/gogetgame-making-it-easier-to-enter-the-world-of-esports/",
     "https://thebusinessofesports.com/2021/05/10/one-of-the-worlds-most-impressive-gaming-cafes-is-in-australia/",
     "https://thebusinessofesports.com/2021/05/10/business-of-esports-tv-apple-epic-lawsuit-fallout/",
     "https://thebusinessofesports.com/2021/05/10/bitkraft-ventures-partners-with-delphi-digital/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26058/7-day-death-knightdark-elf-helms-available-new-pixies-feather-items-added",
     "https://www.invenglobal.com/articles/26051/mutual-teleportation-enabled-marriage-system",
     "https://www.invenglobal.com/articles/26046/open-up-to-floor-20-the-continents-greatest-hunting-ground-tower-of-insolence",
-    "https://www.invenglobal.com/articles/26044/raven-2-rolls-out-major-september-update-including-chuseok-dungeon"
+    "https://www.invenglobal.com/articles/26044/raven-2-rolls-out-major-september-update-including-chuseok-dungeon",
+    "https://www.invenglobal.com/articles/26041/neptune-to-sequentially-launch-5-h5-games-on-line-mini-app",
+    "https://www.invenglobal.com/articles/26042/aniimo-officially-launches-worldwide-on-pc-and-consoles",
+    "https://www.invenglobal.com/articles/26043/gamescom-2026-attracts-368000-visitors-from-131-countries",
+    "https://www.invenglobal.com/articles/26040/is-this-really-a-projector-light-sleek-and-powerful-xgimi-elfin-flip-4k",
+    "https://www.invenglobal.com/articles/26038/tree-of-savior-m-opens-autumn-season-server"
   ],
   "title_hashes": [
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "9ee2d76a28acbaa2587f80d905a85fb9",
-    "799d38d9b6a59ead3cdf47317372666f",
-    "b09dd6e4d62c561162ecf2cc6434d097",
-    "f87d6b07a3881b38085ce3b98150fc5e",
     "6457de3f2403f078465b8537b2a0a1d5",
     "d8927f5048193005a9d336c17dc9e447",
     "8d886f9b4bf1c7b08ec620bb44fd41ba",
@@ -16001,7 +15996,12 @@
     "7fb7a14c4bb5f0afc6715ec36a9a7dc4",
     "2aa2eb1bfb6dc82a0febee257718a889",
     "40129961c8293f808da35e9e3d872a15",
-    "dd0ba8ca1bc1d5e3189ae13836042aff"
+    "dd0ba8ca1bc1d5e3189ae13836042aff",
+    "2f190d7f2d83f94dfee443df000bd079",
+    "aca3f0c16c47f621d5f3510ee7157cce",
+    "efbc61950a6d3cda7965cdab40c0a05e",
+    "c10d7584cad5a1d11a8889d633c3a297",
+    "41fac7a60c92b41d250615d9e8118207"
   ],
   "transfers": {
     "pages": {
@@ -21072,6 +21072,26 @@
     {
       "t": "16 2 announced chuseok dungeon event featuring full has including its major mmorpg mobile moon netmarblenetmarble out raven released rolls september that update",
       "ts": 1789563633.7415144
+    },
+    {
+      "t": "16 5 announced app collaboration five game games h5 html5 launch line mini neptune neptuneneptune platform september sequentially that will yahoo",
+      "ts": 1789563639.5663583
+    },
+    {
+      "t": "16 aniimo announced console consoles cross has its launched launches officially open pawprint platform september studio studioon that versions worldwide",
+      "ts": 1789563643.109707
+    },
+    {
+      "t": "000 131 2026 2026gamescom 29 36 368 6 attendees attracting attracts august concluded countries gamescom germany outside over rose totaled trade visitors while year",
+      "ts": 1789563646.6136076
+    },
+    {
+      "t": "4k advance conference display elfin equipment flip halls heavy however lecture light mainly massive past pieces powerful project projector projectors rapid really rooms screens sleek spacious technology this time used xgimi",
+      "ts": 1789563650.113714
+    },
+    {
+      "t": "16th announced autumn cross events games gamesimc has holding imc its mmorpg mobile opened opens platform related savior season server that tree",
+      "ts": 1789563653.6492867
     }
   ]
 }
