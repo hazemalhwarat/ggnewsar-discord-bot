@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/22/secretlab-unveils-the-flash-and-superman-gaming-chairs/",
-    "https://thebusinessofesports.com/2021/10/21/roy-anderson-named-cfo-of-allied-esports/",
-    "https://thebusinessofesports.com/2021/10/21/arker-announces-crypto-rewarding-game/",
-    "https://thebusinessofesports.com/2021/10/21/viacomcbs-networks-americas-and-knvoy-partner-for-master-league/",
-    "https://thebusinessofesports.com/2021/10/21/60-million-games-redeemed-through-playstations-play-at-home-initiative/",
     "https://thebusinessofesports.com/2021/10/21/play-to-earn-game-treeverse-raises-25-million/",
     "https://thebusinessofesports.com/2021/10/20/hitmarker-announces-plans-to-teach-courses-through-skillshare/",
     "https://thebusinessofesports.com/2021/10/20/beyond-gaming-star-suspended-from-league-of-legends-world-championship-for-leaking-valuable-gambling-info/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26064/lineage-m-3rd-week-of-september-limited-weekend-and-episode-special-crafting-info",
     "https://www.invenglobal.com/articles/26063/winter-limited-nikke-rerun-which-nikkes-should-you-prioritize",
     "https://www.invenglobal.com/articles/26062/5minlabs-urban-legend-hunting-action-wpca-world-phasebound-control-authority",
-    "https://www.invenglobal.com/articles/26061/lordnine-introduces-avatar-awakening-and-holds-chuseok-event"
+    "https://www.invenglobal.com/articles/26061/lordnine-introduces-avatar-awakening-and-holds-chuseok-event",
+    "https://www.invenglobal.com/articles/26060/studio-nap-reveals-steam-page-and-crowdfunding-for-cartoon-craft",
+    "https://www.invenglobal.com/articles/26059/from-once-a-week-to-3-times-total-key-changes-to-lineage-classic-server-transfers",
+    "https://www.invenglobal.com/articles/26058/7-day-death-knight-dark-elf-helmets-now-available-pixies-feather-items-added",
+    "https://www.invenglobal.com/articles/26057/eclipse-the-awakening-adds-20-player-rvr-high-river-battleground",
+    "https://www.invenglobal.com/articles/26056/vampir-adds-5v5-party-battlefield-arena"
   ],
   "title_hashes": [
-    "83a69c68bd5396e0bac63195e5ad218f",
-    "842b74932e4b961ac7ab8b8c9a7c3d59",
-    "6383dbdbefc8b9f6be8834028234dc0a",
-    "3fa5b3aaa08fcd6c93f94e580818731c",
-    "1364bf41faf6ea895a122831cd935942",
     "a3b34c0871dc2fd51eec5559b68f709d",
     "133fb2b0a356728bc2b47ac22549c9a3",
     "a8e8ec36a5e62b3781542b10aad8a283",
@@ -16001,7 +15996,12 @@
     "214ee737f0d430752e72ba6aeada3b93",
     "39b1221aa4ee93b542f07542025cf393",
     "2d9102e3cbf00f5576076229743b878c",
-    "69915e4c84021695e1cc3e1ae4848486"
+    "69915e4c84021695e1cc3e1ae4848486",
+    "b529bbf65e4d6cea0deb2876e36e6ede",
+    "153d974daf62a8a22ccc5e0ce5c03c97",
+    "7fd9719e36e92a802661d82bbd31aff8",
+    "6b7b655dd22faa3f10677c512493a8a0",
+    "3ebf1a5ee33318e7e4abaebe5b043217"
   ],
   "transfers": {
     "pages": {
@@ -21056,6 +21056,26 @@
     {
       "t": "16 added all alongside announced avatar awakening boss chuseok class content developed event growth has holds introduces lordnine mmorpg new nx3games overhau september smilegatesmilegate that world",
       "ts": 1789545392.6438317
+    },
+    {
+      "t": "announced campaign cartoon craft crowdfunding expand game has its launched nap napstudio page real reveals rts steam strategy studio that time tumblbug unveiled",
+      "ts": 1789545398.334377
+    },
+    {
+      "t": "16 3 blood changes character classic key lineage once pledge round run second september server starting times total transfers two week weeks will",
+      "ts": 1789545401.8111064
+    },
+    {
+      "t": "7 added along available bang been benefits dark day death elf exchange feather have helmets items knight new now pixie revamp",
+      "ts": 1789545405.338454
+    },
+    {
+      "t": "16 20 adds announced awakening battleground centerpiece content eclipse first has hereinafter high launched mmorpg player river rvr september smilegatesmilegate that this update",
+      "ts": 1789545408.9974113
+    },
+    {
+      "t": "16th 5v5 added adds announced arena battlefield content groups has including its mmorpg netmarblenetmarble new party pvp small that themed vampir vampire where",
+      "ts": 1789545412.891885
     }
   ]
 }
