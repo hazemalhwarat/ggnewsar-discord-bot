@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/09/gaming-realms-signs-licensing-agreement-with-igt/",
-    "https://thebusinessofesports.com/2021/08/09/dignitas-signs-naming-rights-deal-with-qntmpay-for-lcs-team/",
-    "https://thebusinessofesports.com/2021/08/09/four-people-appointed-to-bitkraft-ventures-investment-team/",
-    "https://thebusinessofesports.com/2021/08/08/video-game-deals-have-reportedly-recorded-49b-so-far-in-2021/",
-    "https://thebusinessofesports.com/2021/08/08/cloud-gaming-market-to-hit-1-861b-by-2028/",
     "https://thebusinessofesports.com/2021/08/08/cooteks-catwalk-beauty-ranked-top-game-on-u-s-ios-games-chart-on-may-13/",
     "https://thebusinessofesports.com/2021/08/08/global-esports-audience-to-grow-to-474m-people-in-2021/",
     "https://thebusinessofesports.com/2021/08/08/epic-games-overestimated-revenue-expected-from-fortnite-in-2019/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26140/hands-on-with-nvidias-talked-about-dlss-5",
     "https://www.invenglobal.com/articles/26139/sega-unveils-three-new-releases-including-total-war-shogun-2",
     "https://www.invenglobal.com/articles/26138/epic-seven-to-participate-in-october-steam-next-fest",
-    "https://www.invenglobal.com/articles/26137/netmarble-shares-game-features-and-development-status-for-new-title-pearl-in-blue-at-tgs-2026"
+    "https://www.invenglobal.com/articles/26137/netmarble-shares-game-features-and-development-status-for-new-title-pearl-in-blue-at-tgs-2026",
+    "https://www.invenglobal.com/articles/26136/astrae-oratio-first-public-demo-at-tgs-draws-over-1-hour-wait-lines",
+    "https://www.invenglobal.com/articles/26135/game-culture-foundation-publishes-2024-2025-csr-white-paper-for-the-gaming-industry",
+    "https://www.invenglobal.com/articles/26134/netmarble-unveils-original-pv-for-shangri-la-frontier-the-seven-colossi-at-tgs",
+    "https://www.invenglobal.com/articles/26133/29th-bucheon-international-comics-festival-opens-on-september-18",
+    "https://www.invenglobal.com/articles/26132/mediaweb-hosts-cbl-pubg-ranked-event-with-npay"
   ],
   "title_hashes": [
-    "c2455e1de86dde1991e35ebacf778c4b",
-    "c9e6c47e01c8fd6a89dcfa6017110da2",
-    "817d2444a11a691b6878ebcf8e7e0670",
-    "3e5dadb9df8267847bc4d3deb1873dd7",
-    "5ee09ff568153b732b1880f173d3aee9",
     "33c9c7bb85647380bb50d6ec95821822",
     "a6d9a83471203954a80c235408e64bb6",
     "06b0109db408060a114147ab7fd4ac10",
@@ -16001,7 +15996,12 @@
     "6c8d61508321ac444175370124200350",
     "988fff9d354b9bbcab0678951dcdf046",
     "56b6ae84ed7a0d6925561e9d25b5f484",
-    "be854e9abaf85ea1d6c4f4db23c9d2b3"
+    "be854e9abaf85ea1d6c4f4db23c9d2b3",
+    "2ddda89cd878e1e2bcfe74c3845a6308",
+    "f0eba0b52556303bd0652d1457d9673e",
+    "1125d29e2c2f8d4c1a27c4737f68cce2",
+    "5eed22cda315428128ab37227e2e11ba",
+    "30f19231d6c60af8246758cd4ce9550b"
   ],
   "transfers": {
     "pages": {
@@ -21064,6 +21064,26 @@
     {
       "t": "17th 2026 announced blue development features game held its japan makuhari media messe netmarble netmarblenetmarble new pearl presentation shares show status tgs that title tokyo",
       "ts": 1789646271.771545
+    },
+    {
+      "t": "1 17 2026 21 astrae demo draws exhibition first game gaming held hour its japan lines ncnc new oratio over playable public september show showcased tgs title tokyo wait",
+      "ts": 1789646277.4547737
+    },
+    {
+      "t": "2024 2025 corporate csr culture foundation game gaming has highlighting industry officially paper published publishes respons social summarizing value white",
+      "ts": 1789646280.9801917
+    },
+    {
+      "t": "17 2026 colossi frontier game held its japan makuhari media messe netmarble original presentation september seven shangri show tgs title tokyo unveiling unveils upcoming",
+      "ts": 1789646284.6486516
+    },
+    {
+      "t": "18 20 29th agency around bicof bucheon comics contents days festival hosting international korea manhwa museum opens september three",
+      "ts": 1789646288.383424
+    },
+    {
+      "t": "14 15 cbl craftbox event gameplay hosting hosts its mediaweb naver november npay partnership pay platform pubg pubgmediaweb ranked september",
+      "ts": 1789646292.196625
     }
   ]
 }
