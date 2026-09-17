@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/05/episode-143-mobile-gaming-tribe-riot-in-china-india-gaming-vc/",
-    "https://thebusinessofesports.com/2021/08/05/report-shows-25-of-indian-gamers-think-esports-can-be-a-serious-profession/",
-    "https://thebusinessofesports.com/2021/08/05/candy-crush-maker-investigated-by-paypal/",
-    "https://thebusinessofesports.com/2021/08/05/alpha-esports-tech-enters-partnership-with-centric-gaming/",
-    "https://thebusinessofesports.com/2021/08/05/envy-gaming-unveils-partnerships-with-usaa-and-proflowers/",
     "https://thebusinessofesports.com/2021/08/05/nerd-street-gamers-announces-return-of-in-person-events-unveils-partnership/",
     "https://thebusinessofesports.com/2021/08/05/multiverse-token-set-to-be-launched-on-kucoin-win/",
     "https://thebusinessofesports.com/2021/08/05/apocalpyse-studios-unveils-partnership-with-tafi/",
@@ -7999,14 +7994,14 @@
     "https://www.dotabuff.com/blog/2026-08-22-the-first-four-to-go",
     "https://www.dotabuff.com/blog/2026-08-19-playoff-predictions",
     "https://insider-gaming.com/nyt-connections-hints-solutions-september-17-1194/",
-    "https://insider-gaming.com/bill-skarsgard-physint-lead-role/"
+    "https://insider-gaming.com/bill-skarsgard-physint-lead-role/",
+    "https://insider-gaming.com/cheating-loss-of-players-revenue-half-studios/",
+    "https://insider-gaming.com/call-of-duty-modern-warfare-4-mads-mikkelsen/",
+    "https://insider-gaming.com/marvel-rivals-jeffs-superstar-search-every-daily-star-search-mission/",
+    "https://insider-gaming.com/astrae-oratio-hands-on-preview/",
+    "https://insider-gaming.com/escape-from-tarkov-arena-biggest-season-yet/"
   ],
   "title_hashes": [
-    "e86a2ce7f9db1e91eae32468927bd952",
-    "b308e548c8bd740df449a8cbe2a5097b",
-    "9fa494955ba646b636d9cdb13312f5a2",
-    "8d29209166daecbcab6191b5d1e7b15b",
-    "2dd7a3a0fc2d830dea2652c602b47c1c",
     "7ad6a74d28ac74cef7b04c47a81f2e82",
     "c84d7e6ec37cf1baadae002f0461e49f",
     "984786b5fc8b24505bf9ed13dd18632e",
@@ -16001,7 +15996,12 @@
     "c45c204b76535045fc51b25166f3bed9",
     "93120e3d457307217eda773e4db51538",
     "b1dee33f0c4144774226d9361994b2d9",
-    "1f19e88e2d98b579c26d4c03910349c0"
+    "1f19e88e2d98b579c26d4c03910349c0",
+    "a8b7329d4fd6f2a37f90612f5f1a43fe",
+    "226f5daa365db1203735d021689173a3",
+    "265d060d21938a49ff563611f4f12837",
+    "71123a2d8e78e6530904b9aa7eb8f4bc",
+    "957f458124cf6de01105d743b93c244b"
   ],
   "transfers": {
     "pages": {
@@ -21124,6 +21124,26 @@
     {
       "t": "8217 bill confirmed developing espionage has hideo his kojima lead physin physint play post protagonist role shooter skarsgård tactical that will",
       "ts": 1789646331.4528985
+    },
+    {
+      "t": "51 all because caused cheaters cheating game games half has have loss lost more players post recent revealed revenue studios study than that",
+      "ts": 1789646337.0532892
+    },
+    {
+      "t": "4 antagonist appeared been first game has mads mikkelsen modern new post revealed show this tokyo trailer warfare year",
+      "ts": 1789646340.660261
+    },
+    {
+      "t": "8217 across areas daily down event every game help hub hunting jeff lost marvel mission needs new post rivals search star stars superstar this time your",
+      "ts": 1789646344.2500541
+    },
+    {
+      "t": "astrae charming demo during event first game gameplay hands here oratio post preview public show stylish thought tokyo vibes went what",
+      "ts": 1789646347.7435372
+    },
+    {
+      "t": "2023 8216 8217 arena battlestate biggest coming confirmed escape form game games has launched next one post season since tarkov that tomorrow will yet",
+      "ts": 1789646353.4819574
     }
   ]
 }
