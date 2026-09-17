@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM29xMUNkUHlSUzFoVTlpeXNJVXNsSHFuYkllalpSWFIyY1AxTXV5SERacDYtMUxFeFdkX0NnY3NPMnlRQjIybVprS0Fub0R2c2V1d1ZTNEJnektaSWVYcW1CWTFXLUZqOHdQVWZsV2NtX0Q0UE9lSnpfYkJDOUZkdnFPWU4?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkNJVi02T0lmb2V6S2N2ZE43MFFHcTU4Q09Rb1RNemxxZVJnY1hFZ2YwOGVqbmpWT0pIYVFTNjNycFVzU0xhVHNyZjBheDdXRjgtdFF2VllxaFJBZElFMGhNVEExLTVaNGdLb21IVmJOa2JISW9ydHA2VWk1WW8ydWdienBLa0lmVVEwMzBkaS1uS19tZzVVdDBCT29KU2ZmZkhxZjB5RmdNOUYzOUFPbGtZMDdZY2RUQkJkWUxOcXZYUklLcVE?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2oxRUVtanNVVzR3aFljUTFwbVdlc0U2eEc5by03UFVkN0V3VjNGS2xqSjVGWmUtaUZQU0RTeEVqVDN2Y0QzLXNuUU5DWF93ZmxuRHNBUTE4V25OQnRwLThTeTlGblV5ZDNaVWtvV0ZlcXNwTGhYbnk3eHY4Y0lFcVEwUDdiRDU3cnd1Y3JwUFJ3ZzVOV2liTzd5Z2U?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2NVVVBrNlg4MUFzRUhvYmxSclU4cU9sazFZWmZnd09JTy1ocmZTQzNibE9mUHh3OUFIRE8wd280cGpNdFN1elE2M1gzM3RpSkZuUEk4TE5nUmNSY3UwS216STRWaE9DdGJudnBQeFlfZG9DaWhjeG5lREtGUDlrYl9IYU41bkpuWkNiRFpzaWZnSHFITk9Dc1JJczU0dm8?oc=5",
-    "https://www.invenglobal.com/articles/26147/bill-skarsg%C3%A5rd-cast-as-lead-in-hideo-kojimas-new-game-physint",
-    "https://www.invenglobal.com/articles/26146/shape-of-dreams-launches-on-xbox-alongside-1st-anniversary-update",
-    "https://www.invenglobal.com/articles/26145/north-korean-invasion-of-south-korea-call-of-duty-modern-warfare-4-campaign-trailer-revealed",
-    "https://www.invenglobal.com/articles/26144/eileene-reborn-through-awakening-gold-improvements-applied",
-    "https://www.invenglobal.com/articles/26143/first-legendary-skill-book-appears-exchange-market-price-check",
     "https://www.invenglobal.com/articles/26142/cancel-skills-roll-out-to-all-classes-key-highlights-of-maplestorys-sept-17-combat-improvements",
     "https://www.invenglobal.com/articles/26141/dating-visual-novel-teaching-assistant-life-song-ha-yoon-released",
     "https://www.invenglobal.com/articles/26140/hands-on-with-nvidias-talked-about-dlss-5",
@@ -7999,18 +7990,18 @@
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdTBYaTdWVFZRTkdzR2JfSFhvMVZUazdCS1loTzFwVl9tYnVnRGg4SXhlbWJmNm5tMXFERUxzdkVKRmVVUnFQU1c1elIzX2VXQk90MFNpeUZONUFjamRuRk5lejJOQUt1V28ySTBaMGVJMXptNWxCTnphUU90MEZGU0xILUtvaEFpSHJEM2liQ1RtLTJj?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFlIcy1oR3hWZGxJY01DNldEamdURk5oX1dJc2hDSndPUlpJYzd4Q0F6ZXJteFFoUDBGaF82MHE0bXdyNnhPZUFVMGh2YWJxU0hlTG1IcXRxZ1RwNE9RUjAzR3BERmZEVGNnY1VvNGJuUWQtRUhaRzFCcWtpMjFUM0JWakRYUXVmZW9SR3p0VGVEY1k?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWxEZ296bzJzNnN0VGVRYjR1R2NiUU9iS0dTVGVVNjRjbWdVLWZDelRidjhHVU5ObUJvT0dseDVoLUR1ZnJiU1RFdjB1ZW5qcVZfQTEwQkc3R1JSaE5kUzhudldvd28tZTNWZEdSUXhJaGRBeUM2ZUJUSHV4ZzBLb1lrRkpNQmthSU1xNE5QVnd6UDlKam5FN1pWZUZPNDQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHpVRTRzMXMtYWFQMmFSY0dNS3NDZjcwRFNiZnYxTlpaQVJqOEQ4RHRGNDMyc1VvSHFQaVo5d0NIczdLaUUwdGxCckRaejZjM2xfX25aYk43ZlU4aHZwdldWR01NaDNXREU0YVgtSWxlZmhURXIyendfRDEwUzRaQ2Vzb0dLZw?oc=5"
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHpVRTRzMXMtYWFQMmFSY0dNS3NDZjcwRFNiZnYxTlpaQVJqOEQ4RHRGNDMyc1VvSHFQaVo5d0NIczdLaUUwdGxCckRaejZjM2xfX25aYk43ZlU4aHZwdldWR01NaDNXREU0YVgtSWxlZmhURXIyendfRDEwUzRaQ2Vzb0dLZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiN0FVX3lxTE80T045VFBkRmxhN1RIWWotOU1JMkJpWmJ3cDJwcDBsZ0xXWkFZYl9oZm1PN0xvc0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiNkFVX3lxTE9CQ1AzendzdE1VM0dhWHNwd2FoLURPeVJxUWNBTVJyZGRZTzZ3QXAxbnBheHhoQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zV1BiaDZoRkhHT0NhUVgwMFdpdmtfb1RqQWJEN2JkcVZIY0xaVjFUeEIyV2YyVjdvemVDWjl0aWJId1FPV2lqcFFDeGZaVEU?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRVhXT3RxenNxRm5SdFBydG9wTFR1WTd5dF9TYlRMQnZzV1RHc3hPREJWU194TDZMQkpqbFNZNWZzYTlxSEJFbUxzT3VTRmM0dWlNbTFmbGV5WGxDUGNvNXdfTnV6YlBJZ0tuemJ1TGI4aEtuSTZDM05LY29nN2ljaWJ3?oc=5",
+    "https://www.hltv.org/news/45540/yekindar-im-not-calling-anymore-and-hopefully-im-not-going-to-be-in-the-future",
+    "https://gameriv.com/valorant-new-ranked-performance-system-leak-shows-how-24-agents-can-earn-more-acs/",
+    "https://gameriv.com/valorant-boosters-are-being-banned-as-vanguard-anti-boost-rolls-out/",
+    "https://insider-gaming.com/pac-man-ghosts-fortnite-override-update/",
+    "https://insider-gaming.com/rogue-prince-of-persia-free-anniversary-update/"
   ],
   "title_hashes": [
-    "0a6f10381dd4a4ee71798d03dec4a8ec",
-    "38e926658a03acd0f471c74d83e045ac",
-    "387464d459f3158b8e8141185c1fcee2",
-    "8dd7ba80b45e04e49ffd7cd98d657359",
-    "513c061175ca51edb894c23249fe744a",
-    "e41a337304fe86e350f0ef4c0ddce0df",
-    "a6f454f36c10e62cb6d74c80c8318cea",
-    "9a59ffc78e41c6bbe416fbb71b164f33",
-    "b918bf90df8990af84e80028056dc20a",
     "7b6470a31e229b284bec1b6ca6db79f1",
     "97d5263902b64ed76fcc321cd7ef0db1",
     "280048d60f799a4d20fcd6c7e0385cb6",
@@ -16001,7 +15992,16 @@
     "f2ab5fb218da8b84623f45579aa4ba11",
     "cf1a7c448999d2ca12fcd760a368903b",
     "c88ca8cf9628a3cdfa01e1eeb8c482fe",
-    "cba78f606e37a613b8aaf7e6244de9aa"
+    "cba78f606e37a613b8aaf7e6244de9aa",
+    "f781c1682fe0227b48216a69ee9b6019",
+    "0a6f10381dd4a4ee71798d03dec4a8ec",
+    "38e926658a03acd0f471c74d83e045ac",
+    "387464d459f3158b8e8141185c1fcee2",
+    "2b515d86d277bdaacca3e98533c4dcff",
+    "9222be2a2dcf046c6fc66bde9fff8979",
+    "76eb825e0662da163217785b01469686",
+    "5e428803c3b0224b00717404ad9dfd8a",
+    "2c139318a75313a5f47ec8f0e38a6d77"
   ],
   "transfers": {
     "pages": {
@@ -21216,6 +21216,26 @@
     {
       "t": "all arabnews awards com esports federation gold industry initiative nbsp saudi sport sports wins",
       "ts": 1789673764.781926
+    },
+    {
+      "t": "ancient anubis anymore back cache calling fallen future going handed has hopefully latvian not reins yekindar",
+      "ts": 1789684030.9610565
+    },
+    {
+      "t": "24 according acs actually agents become better can contribute could detailed earn files found game games how information leak match more much new performance players ranked recognizing reportedly riot shows soon system valorant what working",
+      "ts": 1789684034.6317697
+    },
+    {
+      "t": "according across against anti banned being boost boosters boosting both detection fight games its league legends now operating out ranked riot rolls stepping system technology valorant vanguard",
+      "ts": 1789684038.1894126
+    },
+    {
+      "t": "adds appeared blinky bosses companion first fortnite gaming ghost ghosts insider islands man mecha mini override pac post sprite themed",
+      "ts": 1789684041.6597092
+    },
+    {
+      "t": "adding anniversary appeared confirmed content details first free gets its marks more new persia post prince rogue see update",
+      "ts": 1789684045.233205
     }
   ]
 }
