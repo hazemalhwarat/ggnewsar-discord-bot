@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/07/08/brazilian-soccer-team-cruzeiro-esporte-clube-partners-with-7w-play/",
-    "https://thebusinessofesports.com/2021/07/08/niantic-developing-pokemon-go-style-transformers-game/",
-    "https://thebusinessofesports.com/2021/07/08/perforce-software-continuing-to-grow-at-record-pace/",
-    "https://thebusinessofesports.com/2021/07/08/rfox-games-partnering-with-marvelousnfts/",
-    "https://thebusinessofesports.com/2021/07/08/simplicity-esports-and-gaming-launching-e-commerce-platform-also-begins-mining-for-crypto/",
     "https://thebusinessofesports.com/2021/07/08/seg-esports-partnering-with-adamas-esports/",
     "https://thebusinessofesports.com/2021/07/08/production-has-begun-on-a-vertigo-game-based-on-the-classic-hitchcock-film/",
     "https://thebusinessofesports.com/2021/07/08/snowed-in-studios-launches-scarab-games/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26092/producer-cha-min-seo-pareidolia-adds-a-nostalgic-hometown-like-alternate-world-feel",
     "https://www.invenglobal.com/articles/26090/studio-bbb-officially-releases-new-puzzle-game-monowave",
     "https://www.invenglobal.com/articles/26089/rastar-games-to-conduct-cbt-for-three-kingdoms-conquest-of-nine-kingdoms-on-android-devices-starting-sept-22",
-    "https://www.invenglobal.com/articles/26088/smilegate-future-lab-operates-beaverrocks-promotional-booth"
+    "https://www.invenglobal.com/articles/26088/smilegate-future-lab-operates-beaverrocks-promotional-booth",
+    "https://www.invenglobal.com/articles/26086/le-sserafim-collab-pushes-overwatch-into-steams-top-10",
+    "https://www.invenglobal.com/articles/26087/unity-releases-official-plugin-dedicated-to-openai-codex",
+    "https://www.invenglobal.com/articles/26085/daewon-media-opens-pre-orders-for-stellar-blade-on-switch-2",
+    "https://www.invenglobal.com/articles/26084/webzen-launches-1st-anniversary-thanksgiving-event-for-r2-origin",
+    "https://www.invenglobal.com/articles/26083/dragonfly-officially-launches-special-force-remastered"
   ],
   "title_hashes": [
-    "075fc52d47d9613de37d9458f5202289",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "bddc12a45acdfa839a7b2f44dda31cad",
-    "092fc6f8dbfe4e8d14d6cc57c78e847a",
-    "70fd9947de3250e192e3929ffa62e69c",
     "27a0a8edf54a15c315385581d66aa6a0",
     "067c4d79a0940031cd1be7ffe1a3becc",
     "236d93736843ce55d964de7b8b2a5c32",
@@ -16001,7 +15996,12 @@
     "b283beae7b39ad2832826868e08aeb0f",
     "b34edbdc958da81599645b5a647960f1",
     "0179035c669a33e17a42ae661eb9ea9f",
-    "9af5be209fd3f3529fc2ede4dedea71a"
+    "9af5be209fd3f3529fc2ede4dedea71a",
+    "da1e7d72da031f4a7d18374b98de267b",
+    "65be61b6491c0ddec9ac22011e666472",
+    "bac61322118abdf45361782b87d4b4cd",
+    "6c4bb167bfa5408fa3638ae36ea627eb",
+    "30ecf66fb25d5375b8a484b36f58e232"
   ],
   "transfers": {
     "pages": {
@@ -21356,6 +21356,26 @@
     {
       "t": "amp area beaverrocks bin booth chairman entertech festival future game hyuk indie kwon lab largest metropolitan operates promotional seoul setting smilegate",
       "ts": 1789608283.2441068
+    },
+    {
+      "t": "000 10 122 above blizzcon charts collab consistently game into logged most near overwatch peak placed players pushes sites spent sserafim steam top tracking weekend",
+      "ts": 1789608288.5983799
+    },
+    {
+      "t": "bolster codex dedicated developers environments its moving nyse offering official officially openai plugin productivity releases unity unityunity work",
+      "ts": 1789608292.2037535
+    },
+    {
+      "t": "17 2 blade ceos collaboration daewon dong edition hoon jung launch media officially opens orders physical pre september shift stellar switch updaewon will wook",
+      "ts": 1789608296.1779122
+    },
+    {
+      "t": "1st anniversary celebrate ceo dungeon event first hosting its kim launches mmorpg new offering origin r2 releasing rewards special tae thanksgiving update various webzen webzenwebzen young",
+      "ts": 1789608299.8687608
+    },
+    {
+      "t": "5 across dragonfly dragonflydragonfly engine force fps its launches launching multiple noon officially platforms remastered revamped septembe service special starting unreal",
+      "ts": 1789608303.82605
     }
   ]
 }
