@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/29/report-shows-crypto-gaming-companies-have-received-almost-500m-this-year/",
-    "https://thebusinessofesports.com/2021/10/29/rivalry-unveils-website-upgrades-and-00-nation-partnership/",
-    "https://thebusinessofesports.com/2021/10/29/twitch-hack-leads-to-exposure-of-the-income-made-by-some-of-the-websites-top-streamers/",
-    "https://thebusinessofesports.com/2021/10/29/super-league-gaming-acquires-roblox-ad-platform-bloxbiz/",
-    "https://thebusinessofesports.com/2021/10/29/unknown-esports-org-lists-itself-for-sale-on-microacquire/",
     "https://thebusinessofesports.com/2021/10/29/could-a-squid-game-video-game-be-in-the-works-at-netflix/",
     "https://thebusinessofesports.com/2021/10/29/higround-to-be-acquired-by-100-thieves/",
     "https://thebusinessofesports.com/2021/10/29/esl-gaming-and-norton-join-forces/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26128/smilegate-to-demo-miresi-and-dead-account-at-tgs-2026",
     "https://www.invenglobal.com/articles/26129/roguelike-action-absolum-nintendo-switch-2-edition-released",
     "https://www.invenglobal.com/articles/26125/2026-kel-eternal-return-circuit-3-finals-set-for-sept-20-in-asan",
-    "https://www.invenglobal.com/articles/26126/where-winds-meet-releases-companion-in-the-clouds-final-chapter-of-hidden-mountain"
+    "https://www.invenglobal.com/articles/26126/where-winds-meet-releases-companion-in-the-clouds-final-chapter-of-hidden-mountain",
+    "https://www.invenglobal.com/articles/26127/night-crows-opens-first-jumping-server-genesia",
+    "https://www.invenglobal.com/articles/26124/pareidolia-opens-official-youtube-channel-and-releases-anime-video",
+    "https://www.invenglobal.com/articles/26123/kakao-games-to-launch-world-of-dokkaebi-and-path-of-exile-2-in-second-half",
+    "https://www.invenglobal.com/articles/26122/solo-leveling-karma-unveils-key-systems-and-content-at-tgs-2026",
+    "https://www.invenglobal.com/articles/26121/webzen-launches-valhalla-speed-jumping-class-in-shot-online"
   ],
   "title_hashes": [
-    "3a4bed45c8b8ab5f3f27d68462e86b27",
-    "f0fb955d2bf5f571d5ce8629fb895cf0",
-    "61502df6b637029ea3af465ee1af2e67",
-    "29a9017ee7487cf9c0ef15f73d8014b4",
-    "a74dae8469eacfc6796ef7f7f3e65628",
     "e960b4744db8a4effb2b50953e51641e",
     "17e4a6f3e240e17bc31b9ff9961aed03",
     "e7e4489488df1a62f625ef0f3da33098",
@@ -16001,7 +15996,12 @@
     "705d2659eccdb0f28ad8a6c527818a2d",
     "107c3219a2f6e6193c9ca8717d05b3a6",
     "4c4c08705dcdaa7941d70de2f314c5a7",
-    "b8318940e14481224df94668b6f10bce"
+    "b8318940e14481224df94668b6f10bce",
+    "c2cf98cc0509c0dbda052a2561f01262",
+    "b9593ce60652cdfea8c0505b378d3fcc",
+    "ba5928f9ae3215fef04cd04237607bb3",
+    "4fcfc09398bd776b3c8d0a33903df40e",
+    "584db32ff53a9f5fff392d9a75e0938f"
   ],
   "transfers": {
     "pages": {
@@ -21304,6 +21304,26 @@
     {
       "t": "authentic chapter clouds companion development everstone expansion final games gamesnetease hidden its meet mountain netease released releases studio where winds wuxia",
       "ts": 1789626125.787328
+    },
+    {
+      "t": "17 crows developed first game genesia introduced its jumping launched madngine night opens published september server this update wemade wemademmorpg",
+      "ts": 1789626131.0005033
+    },
+    {
+      "t": "128226 17th 2026game 2026today android anime channel games gamesplatform information iosinfo latest launched nexon offi official opens pareidolia pareidoliadeveloper releases teaser tgs title unveiled video youtube",
+      "ts": 1789626134.4126458
+    },
+    {
+      "t": "2 8 bases distinct dokkaebi exile games gameskakao hack half kakao launch lineup mmorpg october path player presenting release second set targeting world",
+      "ts": 1789626137.9304109
+    },
+    {
+      "t": "17 2026 action announced content game held its karma key leveling media mobile netmarblenetmarble new presentation roguelite rpg september show solo systems tgs that tokyo unveils",
+      "ts": 1789626141.41969
+    },
+    {
+      "t": "17th 2026 class event game golf its jumping launches online running shot speed valhalla webzen webzenstarting",
+      "ts": 1789626144.8147979
     }
   ]
 }
