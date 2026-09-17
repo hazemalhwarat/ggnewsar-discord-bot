@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/28/continuum-world-nets-2-1m-in-private-funding-round/",
-    "https://thebusinessofesports.com/2021/10/28/weekly-news-157-facebook-metaverse-rebrand-steam-bans-blockchain-unoriginal-epic-lebron-epic-investment-100-thieves-acquisition-midwest-esports-hub-lil-nas-x-game/",
-    "https://thebusinessofesports.com/2021/10/28/agency-asia-media-forced-to-liquidate-key-assets/",
-    "https://thebusinessofesports.com/2021/10/27/laura-miele-named-coo-of-ea-as-company-shakes-up-leadership-positions/",
-    "https://thebusinessofesports.com/2021/10/27/kansas-city-pioneers-partner-with-jack-stack-barbecue/",
     "https://thebusinessofesports.com/2021/10/27/house-of-esports-partners-with-gmbh-co-kg-for-new-vr-tennis-game/",
     "https://thebusinessofesports.com/2021/10/27/pokemon-go-added-to-2022-pokemon-world-championship/",
     "https://thebusinessofesports.com/2021/10/27/mobile-nfl-title-launched-by-nifty-games/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26119/nc-hosts-first-hands-on-demo-of-astrae-oratio-at-tokyo-game-show",
     "https://www.invenglobal.com/articles/26117/touhou-spell-bubble-launches-suika-ibuki-dlc",
     "https://www.invenglobal.com/articles/26116/official-gameplay-revealed-for-pareidolia-cutscenes-combat-and-character-interactions",
-    "https://www.invenglobal.com/articles/26115/behind-the-magical-city-of-tokyo-new-pv-released-for-astrae-oratio"
+    "https://www.invenglobal.com/articles/26115/behind-the-magical-city-of-tokyo-new-pv-released-for-astrae-oratio",
+    "https://www.invenglobal.com/articles/26114/nexon-updates-kartrider-rush-with-season-41-galaxy",
+    "https://www.invenglobal.com/articles/26113/maplestory-unveils-new-epic-dungeon-and-personal-burning-event",
+    "https://www.invenglobal.com/articles/26111/artis-impact-korean-physical-edition-released-for-nintendo-switch",
+    "https://www.invenglobal.com/articles/26112/mintrocket-launches-dave-the-diver-mobile-globally",
+    "https://www.invenglobal.com/articles/26110/nexture-unveils-new-watercolor-story-theme-for-i-love-coffee"
   ],
   "title_hashes": [
-    "8fe6f3d4bf9e07d2638304ab8e45492a",
-    "17a79a5d63dbc65e129f603223e815c5",
-    "10a787ac64e624990c7e4829b1c0340f",
-    "a1b6ffcd493bda9d7c897887a0853b9b",
-    "398a9499340414a23377b2fd37903834",
     "dff170bedd125d499bb04f2a604830d3",
     "91d2b10b1c9bae12233cc0c41f4db194",
     "c67033527c6884d4d37b435dd3f82155",
@@ -16001,7 +15996,12 @@
     "2263ed1b3d9fa432b6f7801f8c4816a6",
     "eeace0b3275664d9318e6b615e02f09d",
     "6fbd070dc8c022a09265ee24d4b9a972",
-    "9953b369abae26cd52d867ff8240d613"
+    "9953b369abae26cd52d867ff8240d613",
+    "d49b3b9aae0a97d094d76f7b8ddb4729",
+    "4025829df3eb07d1ac47bf0815a4a88a",
+    "db4a246373b89ac26f510948899e2a77",
+    "4c7bb2b341c199997d82e9f79972335c",
+    "1b0334cf56f0ef2c5f1cea73e4beb192"
   ],
   "transfers": {
     "pages": {
@@ -21344,6 +21344,26 @@
     {
       "t": "2026 astrae behind city coincide currently development digest dynamis has magical new one opening oratio prologue released tgs this title tokyo under video",
       "ts": 1789626164.1365726
+    },
+    {
+      "t": "17 41 against backdrop galaxy game introduces its kartrider mobile nexon nexonon out racer racing rolled rush season september set space this update updates",
+      "ts": 1789626169.2515082
+    },
+    {
+      "t": "17 applied aurum burning content dungeon epic even event fall first game introducing its maplestory new nexon nexonon online personal regis september such unveils update",
+      "ts": 1789626172.7599835
+    },
+    {
+      "t": "17th artis based collaboration cometsoft cometsofthappinet edition impact korean nintendo physical pixel post released rpg set switch turn",
+      "ts": 1789626176.1829758
+    },
+    {
+      "t": "17 adventure app apple dave diver game globally hereafter hybrid its launches mintrocket mintrocketon mobile ocean officially released september stor version",
+      "ts": 1789626179.5711865
+    },
+    {
+      "t": "17 alo announced cafe coffee content game has including its love management new nexture nexturenexture september simulation story that theme unveils updated watercolor",
+      "ts": 1789626182.9978142
     }
   ]
 }
