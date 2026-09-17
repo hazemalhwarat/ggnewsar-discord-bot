@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/11/10/sega-reportedly-nixes-sonic-mania-sequel/",
-    "https://thebusinessofesports.com/2021/11/10/geekay-esports-expands-portfolio-with-signing-of-emirati-valorant-team/",
-    "https://thebusinessofesports.com/2021/11/10/razer-launches-new-gaming-equipment-at-razercon-2021/",
-    "https://thebusinessofesports.com/2021/11/10/puma-and-mouz-launching-esports-apparel-line/",
-    "https://thebusinessofesports.com/2021/11/10/subaru-and-philadelphia-union-unevil-esports-hub/",
-    "https://thebusinessofesports.com/2021/11/10/ferrari-launches-mobile-esports-competition-on-real-racing-3-platform/",
     "https://thebusinessofesports.com/2021/11/10/grand-theft-auto-the-trilogy-definitive-edition-can-be-pre-ordered-now/",
     "https://thebusinessofesports.com/2021/11/10/dentsu-announces-the-launch-of-its-international-gaming-division/",
     "https://thebusinessofesports.com/2021/11/10/youtube-to-boost-gaming-support-rival-twitch/",
@@ -7999,15 +7993,15 @@
     "https://thegamehaus.com/college-football/college-football-playoff-bracketology-september-13/2026/09/13/",
     "https://thegamehaus.com/nfl-draft/nfl-draft-prospects-to-watch-in-college-football-week-2-recap/2026/09/13/",
     "https://thegamehaus.com/college-football/5-things-learned-from-college-football-week-2/2026/09/13/",
-    "https://insider-gaming.com/valorant-champions-2026-bundle-revealed-phantom-fan-knife/"
+    "https://insider-gaming.com/valorant-champions-2026-bundle-revealed-phantom-fan-knife/",
+    "https://insider-gaming.com/alan-wakes-return-trademark/",
+    "https://insider-gaming.com/gears-of-war-e-day-pc-system-requirements-revealed/",
+    "https://insider-gaming.com/how-to-complete-ones-to-watch-savio-objective-in-ea-fc-27-ultimate-team/",
+    "https://insider-gaming.com/twitch-ceo-expects-gta-6-online-to-launch-next-year/",
+    "https://dotesports.com/general/news/all-xbox-tokyo-game-show-announcements",
+    "https://dotesports.com/marvel/news/marvel-rivals-throwing-quitting-quick-play-penalty"
   ],
   "title_hashes": [
-    "820755cada50b2f6e437879e1d926f31",
-    "2552aaaa74bbbc419392a35594a6d690",
-    "1378f2e4cf96c6f7d6536abf50f57c29",
-    "096ec33f11f43b81be094b0df977ff16",
-    "36f4cce6fde693295e4f5a6807863d66",
-    "7d8876e50987a19924093c3f7efb3fbd",
     "eef05b48c3d585e9d0929910a92982bb",
     "240d09b9d111b3170c3ef3b08c169d0e",
     "d5fd9e6fbefd392500aba98009954e3b",
@@ -16001,7 +15995,13 @@
     "38c03ecf7bc5af29a1aed5636ef6df76",
     "295f94a28b0daa484b791c5bb569d2cd",
     "c0b50464cb7797decff188eb2375d4d3",
-    "96702b5048bfd94b1df25778981c036d"
+    "96702b5048bfd94b1df25778981c036d",
+    "4d4b483bef1afb659c7f335dfb4fcc4d",
+    "24bae5055ec62181d516362160540c71",
+    "1a42fd3aee44de5aab0926c8c6a9d6c4",
+    "6eefa28b3ac7357d905d6d5df9792c92",
+    "ee053ccd00cc0152d7c5747cbc39e154",
+    "dcae43cf8cdb3218e0f1658c0c96d621"
   ],
   "transfers": {
     "pages": {
@@ -21176,6 +21176,26 @@
     {
       "t": "2026 buddy bundle champions fan finisher games gun has knife phantom post revealed riot this two valorant variant year",
       "ts": 1789673724.759852
+    },
+    {
+      "t": "10 8216 8217 after alan changes déjà entertainment experiencing few filed files has new not post remedy return trademark wake years you",
+      "ts": 1789673730.041011
+    },
+    {
+      "t": "appeared coalition day details gears has here minimum more post recommended requirements revealed system ultra war",
+      "ts": 1789673733.5435698
+    },
+    {
+      "t": "6 appeared ceo details during expects first gta here interview launch more new next online post released stated that twitch year",
+      "ts": 1789673737.4271097
+    },
+    {
+      "t": "2026 all announcements asian coming game japan look partners show tokyo updates what xbox",
+      "ts": 1789673741.421714
+    },
+    {
+      "t": "abandoning announces harsher longer marvel matches penalties quitting rivals teammates throwing tolerated will",
+      "ts": 1789673745.2063916
     }
   ]
 }
