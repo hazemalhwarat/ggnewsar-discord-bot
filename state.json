@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/09/atlanta-faze-partners-with-engine-medias-umg-gaming/",
-    "https://thebusinessofesports.com/2021/08/09/karim-virani-joins-london-esports/",
-    "https://thebusinessofesports.com/2021/08/09/warner-music-spain-partners-with-mad-lions/",
-    "https://thebusinessofesports.com/2021/08/09/esports-futuri-rebranded-as-map-esports/",
-    "https://thebusinessofesports.com/2021/08/09/facebook-gaming-twitch-viewership-increases-while-youtube-gaming-is-down/",
-    "https://thebusinessofesports.com/2021/08/09/the-global-console-gaming-market-will-be-worth-almost-66b-by-2025/",
     "https://thebusinessofesports.com/2021/08/09/gaming-realms-signs-licensing-agreement-with-igt/",
     "https://thebusinessofesports.com/2021/08/09/dignitas-signs-naming-rights-deal-with-qntmpay-for-lcs-team/",
     "https://thebusinessofesports.com/2021/08/09/four-people-appointed-to-bitkraft-ventures-investment-team/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26146/shape-of-dreams-launches-on-xbox-alongside-1st-anniversary-update",
     "https://www.invenglobal.com/articles/26145/north-korean-invasion-of-south-korea-call-of-duty-modern-warfare-4-campaign-trailer-revealed",
     "https://www.invenglobal.com/articles/26144/eileene-reborn-through-awakening-gold-improvements-applied",
-    "https://www.invenglobal.com/articles/26143/first-legendary-skill-book-appears-exchange-market-price-check"
+    "https://www.invenglobal.com/articles/26143/first-legendary-skill-book-appears-exchange-market-price-check",
+    "https://www.invenglobal.com/articles/26142/cancel-skills-roll-out-to-all-classes-key-highlights-of-maplestorys-sept-17-combat-improvements",
+    "https://www.invenglobal.com/articles/26141/dating-visual-novel-teaching-assistant-life-song-ha-yoon-released",
+    "https://www.invenglobal.com/articles/26140/hands-on-with-nvidias-talked-about-dlss-5",
+    "https://www.invenglobal.com/articles/26139/sega-unveils-three-new-releases-including-total-war-shogun-2",
+    "https://www.invenglobal.com/articles/26138/epic-seven-to-participate-in-october-steam-next-fest",
+    "https://www.invenglobal.com/articles/26137/netmarble-shares-game-features-and-development-status-for-new-title-pearl-in-blue-at-tgs-2026"
   ],
   "title_hashes": [
-    "cb5a812f5675606776f8c77de1da4503",
-    "595ab8965f39bf1b07613ef159b4d8e4",
-    "404dede1a823f10ca0958c527d92e5ed",
-    "f65efd16fd2a59e673b8257af3679fb3",
-    "20b3926d6b9d27c63bf0f09f19dab969",
-    "949707abe6e5996b466224eaaedac630",
     "c2455e1de86dde1991e35ebacf778c4b",
     "c9e6c47e01c8fd6a89dcfa6017110da2",
     "817d2444a11a691b6878ebcf8e7e0670",
@@ -16001,7 +15995,13 @@
     "b918bf90df8990af84e80028056dc20a",
     "7b6470a31e229b284bec1b6ca6db79f1",
     "97d5263902b64ed76fcc321cd7ef0db1",
-    "280048d60f799a4d20fcd6c7e0385cb6"
+    "280048d60f799a4d20fcd6c7e0385cb6",
+    "487d9d2ea69c15ff048d73c5bfab0fa6",
+    "094a4be73329c3d913adacb4e0052478",
+    "6c8d61508321ac444175370124200350",
+    "988fff9d354b9bbcab0678951dcdf046",
+    "56b6ae84ed7a0d6925561e9d25b5f484",
+    "be854e9abaf85ea1d6c4f4db23c9d2b3"
   ],
   "transfers": {
     "pages": {
@@ -21044,6 +21044,26 @@
     {
       "t": "16 added adjusted appears armor balance book check col enchant equipment exchange first hereafter hero imprinted including knights legendary mages market methods new price progression research september skill sol stats wednesday",
       "ts": 1789646251.719357
+    },
+    {
+      "t": "17th after announced assistant bigtail dating developed games gameson life nbox novel official release released song teaching time village visual yoon",
+      "ts": 1789646257.3495815
+    },
+    {
+      "t": "2026 4 5 about alongside another based dlss hands march models neural nvidia performs released rendering reveal talked video which",
+      "ts": 1789646260.8993182
+    },
+    {
+      "t": "17 2 announced complete definitive edition frontiers hospital including korea new point publishing release releases sega segasega september shogun sonic three total two unveils war",
+      "ts": 1789646264.5536382
+    },
+    {
+      "t": "17th 2026 announced based creative developed epic fest held mobile next octo october participate rpg seven smilegatesmilegate steam strategy super that turn will",
+      "ts": 1789646268.256265
+    },
+    {
+      "t": "17th 2026 announced blue development features game held its japan makuhari media messe netmarble netmarblenetmarble new pearl presentation shares show status tgs that title tokyo",
+      "ts": 1789646271.771545
     }
   ]
 }
