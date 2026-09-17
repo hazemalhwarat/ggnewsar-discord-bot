@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/29/could-a-squid-game-video-game-be-in-the-works-at-netflix/",
-    "https://thebusinessofesports.com/2021/10/29/higround-to-be-acquired-by-100-thieves/",
-    "https://thebusinessofesports.com/2021/10/29/esl-gaming-and-norton-join-forces/",
-    "https://thebusinessofesports.com/2021/10/29/esports-boom-at-suny-schools-leads-to-leaguespot-partnership/",
-    "https://thebusinessofesports.com/2021/10/28/rogue-and-hyperice-join-forces/",
-    "https://thebusinessofesports.com/2021/10/28/dreamhack-anaheim-to-host-first-in-person-event-in-two-years/",
     "https://thebusinessofesports.com/2021/10/28/continuum-world-nets-2-1m-in-private-funding-round/",
     "https://thebusinessofesports.com/2021/10/28/weekly-news-157-facebook-metaverse-rebrand-steam-bans-blockchain-unoriginal-epic-lebron-epic-investment-100-thieves-acquisition-midwest-esports-hub-lil-nas-x-game/",
     "https://thebusinessofesports.com/2021/10/28/agency-asia-media-forced-to-liquidate-key-assets/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26124/pareidolia-opens-official-youtube-channel-and-releases-anime-video",
     "https://www.invenglobal.com/articles/26123/kakao-games-to-launch-world-of-dokkaebi-and-path-of-exile-2-in-second-half",
     "https://www.invenglobal.com/articles/26122/solo-leveling-karma-unveils-key-systems-and-content-at-tgs-2026",
-    "https://www.invenglobal.com/articles/26121/webzen-launches-valhalla-speed-jumping-class-in-shot-online"
+    "https://www.invenglobal.com/articles/26121/webzen-launches-valhalla-speed-jumping-class-in-shot-online",
+    "https://www.invenglobal.com/articles/26120/blizzcon-returns-after-3-years-draws-35000-attendees-focus-on-starcraft-and-diablo",
+    "https://www.invenglobal.com/articles/26118/starsavior-updates-new-event-story-a-study-in-gray",
+    "https://www.invenglobal.com/articles/26119/nc-hosts-first-hands-on-demo-of-astrae-oratio-at-tokyo-game-show",
+    "https://www.invenglobal.com/articles/26117/touhou-spell-bubble-launches-suika-ibuki-dlc",
+    "https://www.invenglobal.com/articles/26116/official-gameplay-revealed-for-pareidolia-cutscenes-combat-and-character-interactions",
+    "https://www.invenglobal.com/articles/26115/behind-the-magical-city-of-tokyo-new-pv-released-for-astrae-oratio"
   ],
   "title_hashes": [
-    "e960b4744db8a4effb2b50953e51641e",
-    "17e4a6f3e240e17bc31b9ff9961aed03",
-    "e7e4489488df1a62f625ef0f3da33098",
-    "44113693509730f3cedb1bfa14ac5990",
-    "2498c0783c67c2ad04201baf8a3fb846",
-    "5c605e15b35ad32f983c024a2fc8a7a3",
     "8fe6f3d4bf9e07d2638304ab8e45492a",
     "17a79a5d63dbc65e129f603223e815c5",
     "10a787ac64e624990c7e4829b1c0340f",
@@ -16001,7 +15995,13 @@
     "b9593ce60652cdfea8c0505b378d3fcc",
     "ba5928f9ae3215fef04cd04237607bb3",
     "4fcfc09398bd776b3c8d0a33903df40e",
-    "584db32ff53a9f5fff392d9a75e0938f"
+    "584db32ff53a9f5fff392d9a75e0938f",
+    "14cb15b9db24d6d87fc8949f5f24efa6",
+    "dd707239d1df2077b3fa3113284e407a",
+    "2263ed1b3d9fa432b6f7801f8c4816a6",
+    "eeace0b3275664d9318e6b615e02f09d",
+    "6fbd070dc8c022a09265ee24d4b9a972",
+    "9953b369abae26cd52d867ff8240d613"
   ],
   "transfers": {
     "pages": {
@@ -21324,6 +21324,26 @@
     {
       "t": "17th 2026 class event game golf its jumping launches online running shot speed valhalla webzen webzenstarting",
       "ts": 1789626144.8147979
+    },
+    {
+      "t": "000 12 13 2026 3 35 after anaheim announced attendees blizzard blizzcon cal center convention diablo draws entertainment entertainmentblizzard festival focus gaming global held its pst returns september starcraft that years",
+      "ts": 1789626149.8210447
+    },
+    {
+      "t": "14th collectible detective event gray its legendary new rpg set starsavior story studiobsidestudiobside study training updated updates where world",
+      "ts": 1789626153.2255044
+    },
+    {
+      "t": "17th 2026 astrae demo developed dynamis first game hands held hosts its magic ncnc new one oratio public published rpg shindenki show title tokyo",
+      "ts": 1789626156.7025595
+    },
+    {
+      "t": "2026 capture character coincide combat cutscenes development flood footage game gameplay games gamesnexon has interactions kim led nexon official pareidolia released revealed team tgs yong",
+      "ts": 1789626160.7351084
+    },
+    {
+      "t": "2026 astrae behind city coincide currently development digest dynamis has magical new one opening oratio prologue released tgs this title tokyo under video",
+      "ts": 1789626164.1365726
     }
   ]
 }
