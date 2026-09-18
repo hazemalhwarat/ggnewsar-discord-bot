@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.vlr.gg/756841/envy-allows-nightz-to-explore-options",
-    "https://www.vlr.gg/756630/onside-gaming-parts-ways-with-2026-roster",
-    "https://www.vlr.gg/756334/team-secret-allows-kellys-to-explore-options",
-    "https://www.vlr.gg/756321/srg-to-compete-with-sarahcat-in-place-of-noia",
-    "https://www.vlr.gg/756318/cauanzin-leaves-loud-after-nearly-four-years",
     "https://www.vlr.gg/756142/ninja-announces-departure-from-pcific",
     "https://www.vlr.gg/755933/bipo-enters-restricted-free-agency",
     "https://www.vlr.gg/755922/pcific-to-part-ways-with-al0rante",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26188/the-battle-cats-holds-fate-collaboration-event",
     "https://www.invenglobal.com/articles/26187/golf-super-crew-selected-for-2026-excellent-game-of-the-year",
     "https://www.invenglobal.com/articles/26186/joy-games-launches-roguelike-defense-rpg-duck-survival",
-    "https://www.invenglobal.com/articles/26185/netmarble-unveils-new-trailer-for-bloomwalker-at-tgs-2026"
+    "https://www.invenglobal.com/articles/26185/netmarble-unveils-new-trailer-for-bloomwalker-at-tgs-2026",
+    "https://www.invenglobal.com/articles/26184/nhn-unveils-korea-japan-collaboration-strategy-first-joint-title-fantasy-worlds-puchipoyong",
+    "https://www.invenglobal.com/articles/26183/granblue-fantasy-versus-rising-legendary-edition-released",
+    "https://www.invenglobal.com/articles/26182/nivalis-nights-surpasses-1-million-steam-wishlists",
+    "https://www.invenglobal.com/articles/26181/last-origin-and-maison-de-queen-collaborate-on-ost",
+    "https://www.invenglobal.com/articles/26179/maplestory-m-revamps-union-system-to-allow-direct-stat-allocation"
   ],
   "title_hashes": [
-    "0a281cda46a5000a7d35a81c544b4863",
-    "771f964d759c6698c18568c5d3a1c9ea",
-    "2927de75c8d00882e2efe4ea4fe37dba",
-    "70c4cdf6069ff8168b03b47edd6752e8",
-    "1cc9875f7dd3a38d63ccfa227c3d9854",
     "4f45ba8937ff95a37570dde77ac55627",
     "2727a6ca6416675eb44194b022dff523",
     "36034ed910d332957da9a49b7dfda7c9",
@@ -16001,7 +15996,12 @@
     "a5ab21da0df658f2a8f4e9f3a2c08b4a",
     "d259cd8c61b3e9ae00f82fd5978acfa2",
     "1af7a70c66874de0587b35240f27dcdb",
-    "769abbfe08ae42d42a465358f9f183ed"
+    "769abbfe08ae42d42a465358f9f183ed",
+    "4f6541fe9b7fe89e38ffbe88f2512279",
+    "4f29a4145133c80f20a03565a0ae7497",
+    "d5c9fe32b23e8b83fa56b09ccfeccb60",
+    "e4fdc7744ad31cb3ab43f78812341fc7",
+    "92b68a2ff36987a196610da487118b82"
   ],
   "transfers": {
     "pages": {
@@ -21200,6 +21200,26 @@
     {
       "t": "18 2026 announced based bloomwalker console its kuni netmarble netmarblenetmarble new opene september tgs that title trailer unveiled unveils upcoming",
       "ts": 1789708445.11535
+    },
+    {
+      "t": "18 2026 bus business collaboration divisions during fantasy first game global group heads held interview its japan japanese joint korea korean nhn nhnon puchipoyong september show strategy tgs title tokyo unveiling unveils world",
+      "ts": 1789708450.0393803
+    },
+    {
+      "t": "18th announced arc cygames cygamescygames developed edition fantasy fighting game granblue has launched legendary planned produced released rising system that versus",
+      "ts": 1789708453.4394891
+    },
+    {
+      "t": "1 505 announced cyberpunk develope game games games505 have ion lands life million new nights nivalis simulation steam surpassed surpasses that their title wishlists",
+      "ts": 1789708456.8416572
+    },
+    {
+      "t": "18th announced collaborate collaboration female game group idol its japanese last maison member origin ost producing queen serviced six that track valofevalofe",
+      "ts": 1789708460.2525322
+    },
+    {
+      "t": "18 acquiring allocation allow announced applied direct has its maplestory method mmorpg mobile nexonnexon revamp revamps september stat stats system that this through union update",
+      "ts": 1789708463.6246037
     }
   ]
 }
