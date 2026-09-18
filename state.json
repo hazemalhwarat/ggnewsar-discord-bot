@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://theloadout.com/pubg/patch-16-1-changes",
-    "https://theloadout.com/pubg/ranks",
-    "https://theloadout.com/pubg/playstation-downloads-january-2022",
-    "https://theloadout.com/pubg/player-count-free-to-play",
-    "https://theloadout.com/pubg/free-to-play",
     "https://www.vlr.gg/756841/envy-allows-nightz-to-explore-options",
     "https://www.vlr.gg/756630/onside-gaming-parts-ways-with-2026-roster",
     "https://www.vlr.gg/756334/team-secret-allows-kellys-to-explore-options",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26192/riftbound-launches-in-korea-with-showcase-at-ggx",
     "https://www.invenglobal.com/articles/26193/riftbound-exceeding-demand-forecasts-in-korea",
     "https://www.invenglobal.com/articles/26191/858-of-japanese-game-developers-use-generative-ai-for-work-cesas-first-survey",
-    "https://www.invenglobal.com/articles/26190/double-nine-festivities-on-sky-island-class-improvements-and-new-skill-teaser"
+    "https://www.invenglobal.com/articles/26190/double-nine-festivities-on-sky-island-class-improvements-and-new-skill-teaser",
+    "https://www.invenglobal.com/articles/26189/star-wars-galactic-racer-launches-on-ps5-on-october-6",
+    "https://www.invenglobal.com/articles/26188/the-battle-cats-holds-fate-collaboration-event",
+    "https://www.invenglobal.com/articles/26187/golf-super-crew-selected-for-2026-excellent-game-of-the-year",
+    "https://www.invenglobal.com/articles/26186/joy-games-launches-roguelike-defense-rpg-duck-survival",
+    "https://www.invenglobal.com/articles/26185/netmarble-unveils-new-trailer-for-bloomwalker-at-tgs-2026"
   ],
   "title_hashes": [
-    "c66d6abaae2057f09d9fa05e6468007c",
-    "9041976efa849cd6a9c52a50f4068ca4",
-    "04a0e9286f2302836de710303883d969",
-    "1b55b5c8453b2e0ba6480661a4c84baa",
-    "2493118e686c3f609b7c0c33c9d7dedf",
     "0a281cda46a5000a7d35a81c544b4863",
     "771f964d759c6698c18568c5d3a1c9ea",
     "2927de75c8d00882e2efe4ea4fe37dba",
@@ -16001,7 +15996,12 @@
     "785f072cfaf0f1a5e3916026e35d63a8",
     "c8823fab4aa0fc07b7ee9039cec0debb",
     "913ae4a640a39e761fcfee2ad421d229",
-    "7142147c53f6b97ef1fee6b34bac39fd"
+    "7142147c53f6b97ef1fee6b34bac39fd",
+    "8d7d36e5255b893ad7cd050c43e077c7",
+    "a5ab21da0df658f2a8f4e9f3a2c08b4a",
+    "d259cd8c61b3e9ae00f82fd5978acfa2",
+    "1af7a70c66874de0587b35240f27dcdb",
+    "769abbfe08ae42d42a465358f9f183ed"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,26 @@
     {
       "t": "16 adjustments armor balance class double featuring festivities guild implemented improvements island knight mage more new nine raids research september skill sky teaser update wednesday",
       "ts": 1789708426.2576535
+    },
+    {
+      "t": "6 action developed edition fuse galactic game games h2 interactive interactiveh2 korean launches octo october officially physical ps5 racer racing release star tuesday wars will",
+      "ts": 1789708431.2701676
+    },
+    {
+      "t": "11 battle cats collaboration defense event fate feel game heaven holding holds its mobile movie night ponosponos starting stay tower",
+      "ts": 1789708434.6481504
+    },
+    {
+      "t": "2026 been category crew developed excellent frontier game games gamesgolf general golf hands has mobile operated selected social super two year",
+      "ts": 1789708438.1253278
+    },
+    {
+      "t": "18 defense duck games gamesjoy joy launches mobile officially released roguelike rpg september sequel shooting survival zombie",
+      "ts": 1789708441.609428
+    },
+    {
+      "t": "18 2026 announced based bloomwalker console its kuni netmarble netmarblenetmarble new opene september tgs that title trailer unveiled unveils upcoming",
+      "ts": 1789708445.11535
     }
   ]
 }
