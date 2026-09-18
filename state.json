@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMC1OcHNlZlNHTWtuMW8wSEtGZzQ0X3BmbkV5ay14T1ZrUmVSV0EwOFYzUXVLVFc5bkdBX19Tajlwc2dYTHRoaTB2T0h3eU9PUGJQYjdOeFpzdG1RSncyTEFmU2xhTlNLeFVVVElHRUdtQTZUSVZCSFNzUjN3RjlvQ3ltNjFNdw?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE0wRmlndmdXMm1Kb24zNnQtZHlKN2xQelFFZWRfTTUwdVI5OGt5TlMxaGRsVzQxVFgzUmkyUzdqRVlVYWNPYkdhQks5dlRVUVZ5Ykk2UDE3cmM4Z25pX3Jwb0puengyMUpER2JSblhvZ2FwQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUU0sxcEdoRnJYQUhZM3ctaVJVR1hpZ0w4MFdsQ0ZaR2ZDQ0daaXcxU0wtNFhXTzBaMnFub1JkSnpaOTg3TlVDQWg2X1pPWlpOOVROTWRCWlZ1TnZObnpYS293dnY2NmFHMkR6Y2hUY0tYdFE?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zbEg1eDBXY0ZwLU1QY2RGWnJrSXpRLTF6cWxyTGVBZmR5WVFGazB5akJ1WW4zMjZfNEVmM01VVWVLOEdSLVRFRWNCTnlBc2xpYzI1S3BzZ1MxLUFnaHBHS1VWdUp0R1pqSVRzcg?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WQnpDak56SVU0T2pNZU43WUZBRllnQUV6c09GZEtPY2hUWnM4LVNYVlcyclR3OXVELWxJUFk0bW0xdUdVd01FTmpOLXNIeHR3M3VjenZsaWcxVUFoSW1DZUlsME9Wc1dGc2YwTHZHdzFHaWs?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qcmhuSW1Pb19fcTdZWG5FWGRuQk0tak50X0NzaXBtczlIRzhTWkd1bzJ6eWJNNC1FRkJseW5rdkJIdnlPX0RoZW5tcGlrQ2h5clRYdW9SeFg0a1hGTXM3WUdQOEtRaV8xVUdwSW5jandURVNGVm40?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHFVMUpYbnRZcDg2blJFS3FUQ0xfY3d1Nk9JRjl2anlRSnU0THRMMDNlaEdJYmRCejVvX1dOTm1QMm9qWVAwakFFbEJuQ2RTQlZtOHBCVkxfbk9FTnNRZWlTdHh5VEd4TkhNTGF4N1RFcU1NNEFROVhxY3gyMXZDSWVlRTdMcURQZ21VVGhLbmQ1SS1ZNG1IbW5HNFM3aE1JZ3hpNTJB?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXUTVER1RIdXM4cElBbmxWNlhacjh6N1Q4cGszN0xaSUNxc1pmbkJad0FWQml6RENPbDBsUk4zRWktQTlDQ2ZLVkw4aHR0eUZNa0IwZ3lfd2hUWjJoMzJTbHE5Y0hCazFzUjV6WnJKc3k?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXV5c1pwemlXVkpnTXJQeV9FRlo2ZERDcU9GOXdrWV9mOG54MFdyX1QwX3B1MWlOZGFrY3dwZzducmVfUWNXbVU1alFaM2hyME1FTXRwS1k3VDFfczFyd2d1RjhpWHZWVzlNZWlfY0Y1cG1VNEZ3ZUltT09vb1I4UGplcHpmbzFMYXZmdkdvSFRfRlZGR04w?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXTUR6TjlkUDJram1JbDk5V1lIaDI4cTI0UmhfUGJSQXlyVHY0NkFDQVRZMmI3X19sVzd5SjNzN3gxSVpzX0xNR2xoYjBncElvcnVkNFV2bll5eFVoM1JQOUNMYkdsUnBJ?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWEZqSHN6RjdpY2w0QXl3WTJhNEdLRVdaRkFVWnpNZGpIejluN2pQOF9ONU5Hak1SSDhHb1JsTHM2STBheHF6a3hDNnpKTDMzZ2Ita2tGTE9TbHpiaVJSNk9RWnRYald2Sm5MMG4yQ1JiS1ZaLTVLNFdoampuUEdhSVVUUDdLUjJZR0pKOXBwZW56UkdfNHYxS08wbnk5aG_SAZ8BQVVfeXFMTlhGakhzekY3aWNsNEF5d1kyYTRHS0VXWkZBVVp6TWRqSHo5bjdqUDhfTjVOR2pNUkg4R29SbExzNkkwYXhxemt4QzZ6SkwzM2diLWtrRkxPU2x6YmlSUjZPUVp0WGpXdkpuTDBuMkNSYktWWi01SzRXaGpqblBHYUlVVFA3S1IyWUdKSjlwcGVuelJHXzR2MUtPMG55OWhv?oc=5",
-    "https://pley.gg/cs2/navi-fall-winless-at-starladder-and-into-risk-of-missing-first-major-in-their-history/"
+    "https://pley.gg/cs2/navi-fall-winless-at-starladder-and-into-risk-of-missing-first-major-in-their-history/",
+    "https://www.invenglobal.com/articles/26222/krafton-apologizes-for-pubg-asia-stars-operational-controversy-adjusts-roster-for-2-players",
+    "https://www.invenglobal.com/articles/26221/stranger-than-heaven-why-the-step-up-in-brutality",
+    "https://www.invenglobal.com/articles/26220/lol-boy-band-heartsteel-makes-comeback-after-3-years",
+    "https://www.invenglobal.com/articles/26219/this-much-original-action-with-just-taps-and-slides-shangri-la-frontier-the-seven-colossi",
+    "https://www.invenglobal.com/articles/26218/seeing-the-diablo-30th-anniversary-medals-up-close-at-ges"
   ],
   "title_hashes": [
-    "41e8939e0286f3354aedf44cc292cb4e",
-    "1032d0fcf461c3d97cae1d08f8d0cf13",
-    "52ad65d212da35bfe3b056029a8c4e97",
-    "7210449248c3ccd4c1f7053c4141394e",
-    "17b0c6f944c552ee81ae6aaf9061146a",
     "77e4ff35f4249ae4a2276aa4bf0a647f",
     "ba8a7bcdd2a7d8824b7d6d06a9d2f45e",
     "b40af779bc084c398d9b65fa5cdac5db",
@@ -16001,7 +15996,12 @@
     "8a890f2ed2c1849178c94e2f4e20ea5a",
     "2bd6a95910a80580a8e07891918cddab",
     "54d7b5e3ce7d4cba79e46e85d69c9cfa",
-    "f0ece8bee57c9058f62801bd0e2cf954"
+    "f0ece8bee57c9058f62801bd0e2cf954",
+    "2685bc185e3bdf82325716dc44526d26",
+    "62cc9fa0daaaafa0786d4d383aff2b9f",
+    "7528ecd3be718162a0b9be56665ce661",
+    "1b1fe6c9b5723fee29e10cd0ebf82336",
+    "848923640b28fc5bcf6abb0801117cbe"
   ],
   "transfers": {
     "pages": {
@@ -20710,46 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "ancient anubis anymore back cache calling fallen future going handed has hopefully latvian not reins yekindar",
-      "ts": 1789684030.9610565
-    },
-    {
-      "t": "24 according acs actually agents become better can contribute could detailed earn files found game games how information leak match more much new performance players ranked recognizing reportedly riot shows soon system valorant what working",
-      "ts": 1789684034.6317697
-    },
-    {
-      "t": "according across against anti banned being boost boosters boosting both detection fight games its league legends now operating out ranked riot rolls stepping system technology valorant vanguard",
-      "ts": 1789684038.1894126
-    },
-    {
-      "t": "adds appeared blinky bosses companion first fortnite gaming ghost ghosts insider islands man mecha mini override pac post sprite themed",
-      "ts": 1789684041.6597092
-    },
-    {
-      "t": "adding anniversary appeared confirmed content details first free gets its marks more new persia post prince rogue see update",
-      "ts": 1789684045.233205
-    },
-    {
-      "t": "appeared back confirms development expands first gaming has hideo his insider kojima post project provided relationship schedule update xbox",
-      "ts": 1789684050.6184833
-    },
-    {
-      "t": "2026 all been break but choices confirmed dominate following have his inspired lcs liquid long lyon month omission post pro snubbed some surprising team teams",
-      "ts": 1789684054.6404035
-    },
-    {
-      "t": "2026 about before decide down fate finals four g2 its kcorp last lec mkoi navi nice post preview season split stop summer top worlds",
-      "ts": 1789684058.1334736
-    },
-    {
-      "t": "announced before cracking designed down early finished games has implements inactive inactivity intentionally leave leaving make marvel matches netease penalties penalty players repeat rivals rules stricter they throw throwing who",
-      "ts": 1789684061.63802
-    },
-    {
-      "t": "heretics hiro nbsp reportedly set sign spilled star team turkish valorant",
-      "ts": 1789684065.16807
-    },
-    {
       "t": "17 2026 21 39 amp based fans fills game gap held its karma leveling live makuhari messe met mobile netmarblenetmarble new original roguelite rpg september show showcasing solo story tgs tokyo",
       "ts": 1789691663.9253154
     },
@@ -21108,6 +21068,26 @@
     {
       "t": "25 aurora drop fall first five history into lost major map missing mouz navi one only out potentially predicted risk singapore starladder their vrs winless winning",
       "ts": 1789739769.6377332
+    },
+    {
+      "t": "1 2 2026 adjustments adjusts announced apologized apologizes asia broadcast competitive controversy day during follow including integrity issues krafton measures operational players pubg pubgkrafton raised roster stars",
+      "ts": 1789752304.57945
+    },
+    {
+      "t": "brutality dragon heaven isn judgment like new preparing segargg series step stranger studio than that title why",
+      "ts": 1789752308.1758301
+    },
+    {
+      "t": "19th 3 after approximately band boy comeback games has heartsteel league legends lol made makes music new released riot song three video virtual years",
+      "ts": 1789752311.7778747
+    },
+    {
+      "t": "action colossi demo frontier hands invennetmarble just much original set seven shangri slides taps this",
+      "ts": 1789752315.4787703
+    },
+    {
+      "t": "2026 30th ann anniversary attention blizzard booth close diablo drawn first ges have inventhe medals now person photos seeing seen since they viewed widespread",
+      "ts": 1789752318.938624
     }
   ]
 }
