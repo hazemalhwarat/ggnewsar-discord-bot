@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTRodzBLTGpFb0pxNTQyYmV6WXRxQjBiMUlodkdYTHdZRGdhaF9xclRfQ3IxUWNLYlVZMy1YbGVTeG5BVEJVQ2doYnJPTnJSWEEzZ0tqQU9RTVM1ZGpidldEX1lzNkM0eC1FNmkySHczQV9sb3Vrd1BIcWhDOFNHeHF3dXByYTVHdGZYc3l3?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xeEZnQUtNSmlNNUtUN1BuOTljbG4zV3Q4VDFEY3JLR0FoSFRJUlNsNXJPZmtxdVktZ3AwbUVBWU9mWmtiZm5TbGpiYlpMczZ0N05zU2FDUGNnRFdsNVZMUlNtU19kVlhHcmFWQVBaY2UtdzU4c3c?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzRERjhNZER6ektXNk5UTEdRWFFCUkhaaDRvVVVNNWpES1kzM0xRc1B5eTVoSmtEbjZQNjRuSWxUanFFTTVKOFJrWDlEc0ZfbGNaZWxmMzJ6ZUxDcjI4UGc4VFAxRmw4bXRJM01GT2pBSlhMNjhwclVGSmtxVEZ6VUVzNzhvbW1VX2xDbENHVXJlb1dRWVNfcjJjNmljMDA2OHphMlhlZWUwSWJ0NnU5N0stcFBhNkU?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSmlrWjBnMWpLWnhXSVF0T2RZdEZncHpEMUVlaFlTQ3BXZzhISGR4RmJxTmtFU1l1WmpkSXJtUUpBRWVsVnVwYVRVU1lvVXNxQ01TTXJYcGNMWE9hMjgzeHFxN3hESW1zSjE1NnpWcmJLSEtaY0lWLXF6V0dkbGtoNzYtd083UUZ3M0x6cVUxbWdYQ1c2?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1Q0NTIxeTRSMk5HdERhRDd3bEdvcjdXWTRuMmRqRVNLT00yVVg2Q1h5ckdiN181OU1rbndpbEdlR2lDT0VQdFRYU19xSDJIUWxZWjFsZHk4MGp1dlRPQXhWZEpTeTUzclZlZ1JKelVpdFlWYUctblN2ZDkxVGgxU2Uzaw?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXNWanJTZWRYWDVmQnZ3NU5RdWVsY0dtbEJOOUhSYjBpNS1IZlhZeGpnM2JlcDZmMlhHZ19lQmViWHpzaUdSNG43ZkVuRXh1TFMzaDRtcWtYclRtVERzM0ZzbTh3TGw3WXh3S2czcnAxU1g2QXNXbVlUbUNEZHBrWHhmRXVjV3llRzV3TkRYNnJEQ2UwRGVKUnZmWGY1bWNYRnl4RnBiWnJDelV2WnY1TzJmb3kwMWs1OUE?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYzNfbWJBemZQVnYxb3NoajNaZk9tbFNlUm9vd2t2ZnJfY28wbjBWaVV5MjVHVFZtQVJsZ1BWUWJ6RFpsR0JJMTN3ZFlKbjhYMldtS3UtTGhYcGxSYm85YkhIazZBc0l0UExJOGFHS3IyQWxfWVZ4VVN2RzFsRGZQY084cDYzT2hRZWI3c2ZBQjROa1dudGFFbzVLZC1nd2xDVUhYOURQU2szTmNZMWdxN3VMVTRDMTZ3c0pFZk9lcm0yaFo3WmRrZk5B?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zZEtGYlBodTMtU0V3SjY5aVl0QXdtbnRNUjEzWWw2RGFXUWlWbmg2ajMtZ3RMU3dlTWwtNFMwLU5MLXdZNnNJYWFJS3UwY3FzZVpTY2JQakUzQXB6c3VsNDJiWFVid1U3dUhHNVk5Q1otck5BVTFOUUpnVjBsN1k?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnp2M0V0Wm01amwyQm12TklVRnAtNHJNVG5SOV92UkpiWlNBa3IybFJkRkRtZ1drS3c3NjhpazFGX1dPbk9FZExwVWs3NmV3MTk1Vk5nRzB1MzZMN0s0c0dIVklDcEpQc3NVbGRtLWg0LXlWdlVUM0tzM3Baa2Y5aFpvWlBqWWdaN2tQb2RjbUtMU3ZlS0dyaGFZcll4cWJvRm5tVm5qSDhfRkhLcnJPMkdBVWg1QQ?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGE2ZkhBdzNqallvaG9vOUVmQTJET0R1V093amJ4T0hBUmRlSlNITU1SN0dvTmZ4NXJSWVlNR2oxNTl6RHB4UVZKUXFSdXlvNktOTmg3Z3JKN1B0MTJHQXY4NEVUWjdzZ01MQkxSbHU1czVhOUxPVGxUU2xVeHFoS29GeDBvX2lTUmZ1RjZKLVM2YU16b2cyei1RbC1CcldoM2d3azhBMA?oc=5",
@@ -7999,16 +7992,16 @@
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ05lSHpiTFRORlpvQnVEQkxyX1R5V2ctcE1PcjJtRGNnMjkzal80S3N3Wm1pZk9NV3IwSjgwbUd3OVRzaGNhN1VIX092NFJHT0RjUlo5eDNtMmZ2Q1VlbmJIVTREYzNtNEZEUkg0TDkzeGRtcWpZa3JYUGZJekFCVXZ3?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqY1A3WDRWeTlNWTMzbWx3Zkd6ZkdWRU5oSjRUYk1jS1gzcEtLQUhrb1lBME53ekcycVpGZTdIZmN1dC1kUWpRSnpyQnZOWGtteVh6WHE4LWMteG5XLTN6S2VNblNPdmhV?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KXzczNGh3UUJLN19kWV9CZkJabmhFclBBTVp4aE5LNlIzRnB4WENwcGN6NXMwNVdGbDhyWXFqZ1JqZzV4WlF1X0NnWWoxa29pVU1ZTGlTUjlVWUg0TENCS0FWSENBUndocWJoMlJWNDRXd2JtUmo4?oc=5",
-    "https://europeangaming.eu/portal/press-releases/2026/09/18/214439/playson-launches-thunder-coins-xxl-boostercells-with-new-value-stacking-mechanic/"
+    "https://europeangaming.eu/portal/press-releases/2026/09/18/214439/playson-launches-thunder-coins-xxl-boostercells-with-new-value-stacking-mechanic/",
+    "https://europeangaming.eu/portal/press-releases/2026/09/18/214428/betby-enters-poland-for-first-time-through-betters-partnership/",
+    "https://europeangaming.eu/portal/latest-news/2026/09/18/214420/uk-gambling-ggy-17-5bn-industry-statistics-2026/",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlFkd3oxSmtSaVVqcXdvMV9SV1FqWld0dXpHNExzZzRLRzB2bnh4ZmJJV3NIR2taa0pHMWhBanMzZEhpNHFON0lkeUFkdjZXcGdIU3BuYWJxVkdrUkY1ZWduZHZXZjZ6RWdyaEpyb0xfUG9fMmxlWlc1Ny01M2RLbjI0ZVVSYnJSUVg5ZG9FVHFuOTdncFpxN0ZLZm4?oc=5",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XMUhqdjJTcUVQQXVFNUVOdWdlMk1ibHRaRWFVbE01MUJDeDFSeTFQYlRRWmdsVlU0aXhKcmR3aERYTVcxRDIxSmNR?oc=5",
+    "https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distracted-opinion",
+    "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
+    "https://www.gamesindustry.biz/king-workers-to-strike-in-sweden-following-rejection-of-collective-bargaining-agreement"
   ],
   "title_hashes": [
-    "4a3478bb0707e151e652e788f6ae1598",
-    "2c13787ada0292eea072ce40223578bd",
-    "9362530f5b9d25e4664e1b646383095b",
-    "85dc8f733a82dbc899738609d45bf172",
-    "c970faeedc33567289426b12e300de40",
-    "cab5d25de7ad21a64390fce4e531d123",
-    "282a884fa986d3de68a1180099ba1a8d",
     "df00477899477c7ad03989a1351eea47",
     "552b842b84debbf39fe8ce3e495d6b20",
     "65ca2a3d6bf4e64599613876fdf8bb78",
@@ -16001,7 +15994,14 @@
     "d11d8c8a401e3b1b8f4fde40e89a9dfe",
     "d48bc6c52a09dfa8a88e9e0f417fa0a6",
     "2089b9394f21e26600d99ac25a83c311",
-    "15c3ffc6b642792571e86b672212096d"
+    "15c3ffc6b642792571e86b672212096d",
+    "c38d979db8e58d2366f589e3c4fd0cd6",
+    "21a1ca5ccf229f1395c3bbd51ef26aa8",
+    "6de3c14c3c7d2418da6d64b2567b0660",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "58764ef6d91b0951f7479aa1e0735439",
+    "518aa365acb17d19ea697cd69202c056",
+    "fbf88472c0ad97cc5c9d7fe5a4761b09"
   ],
   "transfers": {
     "pages": {
@@ -21080,6 +21080,26 @@
     {
       "t": "8230 arriving boostercells coins entry franchise launches layered mechanic months new playson post releases sequel six stacking third thunder title value xxl",
       "ts": 1789739740.215283
+    },
+    {
+      "t": "8217 8230 access betby betters deal enters esports feed first full games gives its partnersh partnership poland post simulation sportsbook supplier through time",
+      "ts": 1789739745.8846166
+    },
+    {
+      "t": "17 5bn 8230 added appeared betting both casino falls fell first gambling ggy grew grows hits industry market more online overall post revenue than while",
+      "ts": 1789739749.3517294
+    },
+    {
+      "t": "aaa about become been budgets common cra development distracted dollars effect focus had has have hundreds industry inflation lot millions must opinion pander pulling recent talk that there years",
+      "ts": 1789739752.987388
+    },
+    {
+      "t": "6 always argue auto awareness brands but campaign create does emphasised enthusiasm established franchise grand gta have interactive known like maintain marketing may more need needs not out president read require some still strauss stresses take that theft two well you zelnick",
+      "ts": 1789739756.538148
+    },
+    {
+      "t": "after against agreement bargaining collective executives following have ingenj issued king last month more notice ouml proposed read rejected rejection rer strike sveriges sweden swedish trade unionen unions workers",
+      "ts": 1789739760.4888222
     }
   ]
 }
