@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSUmR6bXFyVkQ2RGlaZ2U3TUYwNHNZTVZraHBjT0wxYmxnb09ERWFVUlVaYnpTMnFGRXp2eEhLM3Foc0pFOGhhUXBrZnhnNE50MjVn?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92NDFRc0cyTk5LblFlVU1lc1JIV2tSTWU0N1N0UHhFamVNcHhvUXFEajdrMWprUGt0M1RmR0s5UHlsOGdTU1BKX0FvVU8?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6cGFydXNqLVFRN0dUMHl5Q1gySzBQTlNXek0zbFdoRFc3YXV4UDN4MkFmTWd4U25KdmdSR2NxeWRnWmVYaFZQaWNEdmdqdENQY0dF?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKMHJTNUs3Tjhsck83TGpfS1ZqMWRLTHhWZ2lmSkp6TmJJNmJ2SWtXMU5ldkZkbHN0a3FUSFNmX3FBdmNxMjcxUS1md0M?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VY3g5aTY1aVFROE5pT1B2bEpNNVNGUW1pWUVvWGk2U0xGamxncndkelhIVE42XzVWVVlBQ0FISElScTh3RWpHa0dkbUZBY0RQUXVj?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WeHZaZjdFb1hsSmZmekFBRG1fWV9TWjNEYkdocWVGeTZGMjVBUER3WDRBeVFVR1ZwQXdCakkwVzAzX0ZRbnVENlRuN3NRUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FcHk3aVZKMzl4c3lzUEttY25TNUxXZFFPenM3Mi1VeFQ4ejJmRGo3ZmM3Zm95WC1yVldFYkR2dkRTNUdVX0RZM0wtZUhVUW90Nmdr?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxUEMwbHVnOEpka004dXJheTNYV1VGY3A2TTlvMVVLaUc1QTF3XzFtclM0bUJUbVFtSUdsNWZJcUV3Qm9CNDFQWF9zQS0?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZSkJ1aGk3YlRTZFpQeDBldUZURHJZN29FM0l0SF9XZU9VUFJDRUZiSkdMQTV0dGdYb2JBTjNjbkl0aFoxSmFiaE03cFVrMkhhQ1M0?oc=5",
@@ -7999,15 +7993,15 @@
     "https://blog.counter-strike.net/2022/12/40706/",
     "https://www.hltv.org/news/45547/liquid-and-nip-eliminated-as-logitech-g-play-connect-reaches-playoffs",
     "https://www.hltv.org/news/45546/wildcard-sign-fr3nd-on-loan-to-replace-mhl",
-    "https://www.hltv.org/news/45545/aurora-march-past-nrg-in-starseries-fall"
+    "https://www.hltv.org/news/45545/aurora-march-past-nrg-in-starseries-fall",
+    "https://esportsinsider.com/2026/09/team-yandex-atf-roster",
+    "https://insider-gaming.com/mkoi-claim-last-lec-worlds-place-and-eliminate-navi/",
+    "https://insider-gaming.com/alan-ritchson-in-talks-for-helldivers-movie-role/",
+    "https://insider-gaming.com/heartsteel-overnumbered-riftbound-cards-teased/",
+    "https://insider-gaming.com/world-of-warcraft-forever-roadmap/",
+    "https://insider-gaming.com/world-war-z-sequel/"
   ],
   "title_hashes": [
-    "66db8a55a07cabad3b238be185a6badf",
-    "bf3d4ddfa017e290fe8ce69ae6e6003d",
-    "8df358eebbbb64bf19235a902db73505",
-    "320c6eed081e4592e0bef9137b81342d",
-    "8df358eebbbb64bf19235a902db73505",
-    "8df358eebbbb64bf19235a902db73505",
     "8f1c70452ba153b6ba1a4a90651dbaf4",
     "8df358eebbbb64bf19235a902db73505",
     "06084641292fe7e03802b2d669a0c971",
@@ -16001,7 +15995,13 @@
     "5e46bd253be5629980cc76e5cd26525c",
     "453e4eab0e85924d9c2d44b1a7cb2ed7",
     "01299150042bc5b2fc53c1a320c37f51",
-    "7cd247bc918328430779ffecd77e5975"
+    "7cd247bc918328430779ffecd77e5975",
+    "a639109078ccd1079c9fbbdb8a2e5760",
+    "014d3a76fd29f3189d47632c3c9d7ca6",
+    "6f949c09a162be0b0aa44d1cc48e9a44",
+    "c411650b1932712c104aa35b60697a3f",
+    "45ded78ec1126922f851cec91897f448",
+    "02143952e62c477fc60ef122be3af97e"
   ],
   "transfers": {
     "pages": {
@@ -21196,6 +21196,26 @@
     {
       "t": "aurora but fall fight march mirage nrg past put starseries strong ultimately well",
       "ts": 1789761075.233023
+    },
+    {
+      "t": "2026 2027 9 adding adds after ahead atf champion exit falcons international its new offlaner pgl post roster season second signs team wallachia yandex",
+      "ts": 1789761081.1350584
+    },
+    {
+      "t": "1 2026 3 appeared claim defeated eliminate first last lec lock lol mkoi navi place playoffs post secure spot summer their three top worlds",
+      "ts": 1789761085.979003
+    },
+    {
+      "t": "according alan appeared details firs helldivers here more movie new one play post report ritchson role talks upcoming",
+      "ts": 1789761089.5710928
+    },
+    {
+      "t": "2026 2027 access can clairvoyance coming content early forever launch major most post power roadmap see through via warcraft world",
+      "ts": 1789761093.3888555
+    },
+    {
+      "t": "appeared been brad first gaming has his insider new pitt post reprise revealed role sequel set war will world",
+      "ts": 1789761098.1637769
     }
   ]
 }
