@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2xXVDMwTGpabUhLOTI1YTdBNDI1VF9SUHhndlExT25YbXE3V1lfMjIzVVo5c1Vfck1IZXRFQ21lUTBSWGhLY3JFTDdPRW83c2lXS09oTkdUNHl1WlVXdWlnVUVDb1dvRkRKYVFWdVMyeUJYOVZJUGJtbndoTW16MjBDOGE1aUR5STFoQTF2R01kQU9oZXlv?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXFtU25TV0ZZa3hVcXBjMjdCc0JWXzZNdmxPU1pBTFF2VFV0RVhKdGprcmUyWEJvUEpvcFNFYkdYYWJJbHotYm8wT0s3ZEpaYTlwVjdqd3loYm9NSWpyQVRlcmZ0SHJFV1lhVjUyZEZLYWFPdk1xU2hEZlExZm5nS0NaZkJ3d2hFS3dtV3otYzF4dw?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0ZFa2VfcEw2dDFWYlFiNV85UW9ZZzd2YUNlWnpkc2lodTZFMUpnZjFMcHpRT3Q4bEZ3T21RbkM5UHgwX2J4cGZQekxJZ2Exd2lUUWdvYmxoOERoOV9MSHhfYkJvajB3NUZLNHQySUZLQzlDQ3NEYXVXRzEyMi1BR0Vn?oc=5",
-    "https://g2g.news/gst-on-online-gaming/will-gst-council-grant-relief-to-online-gaming-and-casino-companies-on-12th-september/",
-    "https://g2g.news/esports/the-giant-hunt-launches-global-anime-art-contest-powered-by-skyesports/",
     "https://g2g.news/esports/gdai-launches-supernova-to-build-indias-next-generation-of-investable-gaming-studios/",
     "https://g2g.news/esports/youtuber-techno-gamerz-brings-gta-to-real-life-with-new-cinematic-film-mumbai-heist/",
     "https://g2g.news/online-gaming-laws/supreme-court-to-deliver-decision-on-online-gaming-gst-dispute-on-may-27/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26196/edge-of-memories-to-release-in-korean-on-november-5",
     "https://www.invenglobal.com/articles/26193/riftbound-demand-in-korea-exceeds-expectations",
     "https://www.invenglobal.com/articles/26174/aniimo-review-the-joy-of-collecting-is-the-joy-of-exploring-83",
-    "https://www.invenglobal.com/articles/26173/shape-of-dreams-launches-on-consoles-alongside-1st-anniversary-update"
+    "https://www.invenglobal.com/articles/26173/shape-of-dreams-launches-on-consoles-alongside-1st-anniversary-update",
+    "https://www.invenglobal.com/articles/26172/online-samgukji-2-hosts-server-merge-and-transfer-events",
+    "https://www.invenglobal.com/articles/26171/neptune-shares-h5-porting-know-how-at-tokyo-game-show",
+    "https://www.invenglobal.com/articles/26170/roblox-hosts-the-hunt-roblox-20-for-20th-anniversary",
+    "https://www.invenglobal.com/articles/26169/new-mmorpg-eclipse-tops-sales-on-both-major-app-stores",
+    "https://www.invenglobal.com/articles/26168/soop-to-kick-off-asl-season-22-quarterfinals-on-september-21"
   ],
   "title_hashes": [
-    "c7cf06a427d5686ad49fb21f63d70a06",
-    "af2f68d4ac5e7934d25765d3289fca7b",
-    "0cb4c37ec6c28b84531d34448d41e341",
-    "7c66920a3fa09974c247210c4292c04e",
-    "09b0eab971f1d9b67d6698656136568c",
     "186ec947a3399aed09b0d3c7b80d255d",
     "d9f3ba408b4e95541da9544e878f7056",
     "4df0089cc6c8af415572ffa50a7e0458",
@@ -16001,7 +15996,12 @@
     "985638cf3bc1e8240f6270bf149658b1",
     "a5e6316f0d84c98fc93dd115ecd67d5f",
     "b66efe875cefb7206e51038e92ac9249",
-    "c26809e5c4fb55e3e98bc71f520f26e1"
+    "c26809e5c4fb55e3e98bc71f520f26e1",
+    "9e247c53d94429a5365d529953501394",
+    "4b407b37dd5882b21901f19ff9a5d8cb",
+    "c2cad20c933af3c8c4d5c785c47e7843",
+    "7d5951a4d64f50eb2ef6d85c6eace5ff",
+    "4ba917aebb98383a6c4e1807eb4ae0d4"
   ],
   "transfers": {
     "pages": {
@@ -21124,6 +21124,26 @@
     {
       "t": "17 1st action alongside anniversary announced console consoles developed dreams game launched launches lizard neowizneowiz officially roguelite september shape smoothie that update version",
       "ts": 1789724838.6596913
+    },
+    {
+      "t": "18 2 announced chuseok classic cosmos entertainment entertainmentcosmos events hosting hosts its merge mmorpg mye online samgukji september server that transfer",
+      "ts": 1789724843.6220973
+    },
+    {
+      "t": "18 2026 announced booth game games h5 how its know line mini neptune neptuneneptune particip porting september shared shares show that three through tokyo unveiled",
+      "ts": 1789724847.1018527
+    },
+    {
+      "t": "17 20 20th across anniversary celebrating event hosts hunt launch platform roblox robloxon run september through time unveiled wide will",
+      "ts": 1789724850.551362
+    },
+    {
+      "t": "1 announced app apple awakening both eclipse google has its major mmorpg new play reached revenue sales smilegatesmilegate store stores that tops",
+      "ts": 1789724853.9229097
+    },
+    {
+      "t": "21 22 asl blizzard entertainment esports game google host kick league off original play played quarterfinals rts season september soop soopsoop starting will",
+      "ts": 1789724857.5061338
     }
   ]
 }
