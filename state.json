@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xekswbHpYYzlmOGRfa054SnNFXzRFc3B6U1cyeVNTLU84c2hqbkJ1VjFEYW5wbk1TMWo5Y192VDlJcTktRVdFVkktclZvR2lPSl80?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YM19PaHlPcUN0THoycmR2Y3lKRmR1djhPd0lTalA3cmxZc3ZTOU5JRmNvSDhkNXNKLV8wTGg1NURjdzQ1ZnhvT3AzUDI?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSM3ltcGxkYWRFaExBWmVYdENNV0sxTmtDMGdHQnhvR0dwbDkyT1Jja1RjVmhoejI5ZTVQcVh4R1FRMExhRmY1dFd5ajI?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtcnI2YTJ2UE12ek5BbmNBRS02R0xSUEhrSkRDbjR2bFpYUW1QSjU4LThNbDdfMzhvZGVXWkVoOFAyZG5IclV0YVpmOHQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tOHFYdjg4VkdNbENYaGpyQ05NZUM5YV9LdlV5Q0NQNFlSdElTUWFrMGxTVnRGRTVRZUZxT255YkZORlRqS3duWV9EbDEtUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NOXlQY2phR1Brak82Wkg5MmJNc252Nmw3dC1NTThGSEtMdnViN0tnMVRncE5mUWdMcE83SDVNU0d5b3ZFemxPT0MxaHc?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RWUpOa01hT0xHeFh3UHByXzVWOTBKOGUzd1NySzV2X2FXOUV0LW81dV9sNEJqTkpReHJ2NUFSZWJHQzFRNjhXdzM2UGtHRDF3alc4?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xcVZ4NC1iZnBtQXBOc1RiZV9VR0FrSkpPcUhhV1FGMFYzdGpNVnNXX1V1dWhDUzdxODNzcHY2Y3dmSjNYVUFqRWxmcWs?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03WFFUTDNwWHAzU0xBNl9EOTJfZnZ1WFNfNVpUSHlDOGotM2FyU2JfaE9zaUt6VFRyeHh3YWstTzBfZjZJelpsR2x4QjhiTmM1TDNj?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSUmR6bXFyVkQ2RGlaZ2U3TUYwNHNZTVZraHBjT0wxYmxnb09ERWFVUlVaYnpTMnFGRXp2eEhLM3Foc0pFOGhhUXBrZnhnNE50MjVn?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92NDFRc0cyTk5LblFlVU1lc1JIV2tSTWU0N1N0UHhFamVNcHhvUXFEajdrMWprUGt0M1RmR0s5UHlsOGdTU1BKX0FvVU8?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6cGFydXNqLVFRN0dUMHl5Q1gySzBQTlNXek0zbFdoRFc3YXV4UDN4MkFmTWd4U25KdmdSR2NxeWRnWmVYaFZQaWNEdmdqdENQY0dF?oc=5",
@@ -7999,18 +7990,18 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbUt2V1dfZzg0RnlxRXZma2lZZDFMV1dJSlRLRy1WNGtfZE5ZcVJxeFFWSjk4ZU9kUG5aamhWbkVBQUtIS3NZSHh1b2ZkREFDRTF3OWhsbnBLa1ZwcjV3RW8yYWlPNFdGVVlFT0ZGSWVUX1p4NzlLUGZFcVBRZi1mLTJhckdEMFg1R1djamc3S2pMZXQ1X29ob2NNQjJ4R0lVenNIb0hfR2czQQ?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPQk51NnN4YmtZMjQ1eWFoSmdpWC1oZHFWUmNncUI2M3hhNjJrMFgwc0VrVmgxWXY4VUZzc1BlaVN3RGFpMzFUbVBkZEFEaTdlZ2ZhYmItUVgtQmg2NjMwaTFtWnRvQXBJVko0RzNSaGtoR25aZkI3VDg4enBzSEFiTWVJTGEyWXhkdW5ob3lJYmlnbHNOUHdRcGNVWS02dw?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWRUZXhkdmVPSnlUVE5QZDVaRnh6d3dSQWtEQ1JaRmg1dmMyQWlfMHdicExwTjZtbDd2QlcxXzRuSDZseUp1VEZpWi1XNml5eDVXNThyQm1FN3pFUDE2c0lIYnBXRjJZbWFoSVZPT2JleUtoSU5UT2FrMWtuN2dBeF9tdEYxWk14ZF9TVEhxUHpzSVpa?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxObi1ULWhTSUVYYXVhbGoxQUNWMldib0FKOG9mQ3lJbGhEOGg0OUQyRThWbzRFcG5QTk5idXl4bjF3aW00cDhhZl9pUUstZG9aRWJBQlJWYzZXM0VkdldZcmE3M2g1b3V2R3F6RlhYR1FhSGZjWmNDaTd5WGIzREhQbXNiMFhRTmtiOEJNVlVxSQ?oc=5"
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxObi1ULWhTSUVYYXVhbGoxQUNWMldib0FKOG9mQ3lJbGhEOGg0OUQyRThWbzRFcG5QTk5idXl4bjF3aW00cDhhZl9pUUstZG9aRWJBQlJWYzZXM0VkdldZcmE3M2g1b3V2R3F6RlhYR1FhSGZjWmNDaTd5WGIzREhQbXNiMFhRTmtiOEJNVlVxSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZWo4X0Nyc0c5dFdCWUhOMWJIU25ObUthMVpRNm5QbHhvZndlOXRuNkR2RDBiVWNFQVp3d3N5UUxXX0hTa1czbkNxb2ZZdndXQk1fSlVmQ1dlQjRhQWJsajJ2TUtGZUR3RUlkd0ZlcGJpWjJJcVNqMEFkcXVlWklfMEtkdnVZN3dVWDRPNFBpM2tvNGstU3doNThYcm1uZEFoc0pJUThucUdNSlpjc1lLU2F1ck5YZEdiaGpVaC16dElhODdLRDVXbtIBzgFBVV95cUxPc2NPZ19UZjUxelJua05ZTjlUcVdyU2xCNEllX1llcFpSME5hU0RLNnRjZTNiVFdoV0VoZHAyMzNQOUZyaVJ4NFRYSG9sMWdOU2FwUUFDT1FCaEVoZ0kzSmoweGdJVjJFRWd6dGxSQ2JtbzRReS1ZQlpWWHNwWVV3WjlWMGV5S2h4TTQwUS11WDBLbW1jSzFkU3BJd01iZTBFMUhRdWhTbzdSVGpxOFI0MDY5ay0yVEpkZTdrRFZHM3VZZzlGVUlZVnFFODEtQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vNXFpZ2JVZkhyQkw2cWtoV3BVZUdIOTlMeXdqRUtQSkZQZ29hX0Q5V2lUMzdOLUlWSmhaZVV5Q0pYbUg3Qm9GcWRPN2s?oc=5",
+    "https://www.invenglobal.com/articles/26224/the-world-of-warcraft-forever-beta-launch-was-bumpy-but-beautiful",
+    "https://www.invenglobal.com/articles/26223/last-epoch-reveals-season-5-trailer-what-are-the-key-changes",
+    "https://blog.counter-strike.net/2022/12/40705/",
+    "https://blog.counter-strike.net/2022/12/40706/",
+    "https://www.hltv.org/news/45547/liquid-and-nip-eliminated-as-logitech-g-play-connect-reaches-playoffs",
+    "https://www.hltv.org/news/45546/wildcard-sign-fr3nd-on-loan-to-replace-mhl",
+    "https://www.hltv.org/news/45545/aurora-march-past-nrg-in-starseries-fall"
   ],
   "title_hashes": [
-    "5a1dca8b897d693977f8cea95c6021db",
-    "8df358eebbbb64bf19235a902db73505",
-    "8df358eebbbb64bf19235a902db73505",
-    "8df358eebbbb64bf19235a902db73505",
-    "ab3a135268584e9a63d1b4fe80242bf8",
-    "8df358eebbbb64bf19235a902db73505",
-    "320c6eed081e4592e0bef9137b81342d",
-    "0626ea8d5c226beba76afeab6d509c65",
-    "2a56a970fb5730cf130c8346b038d7e0",
     "66db8a55a07cabad3b238be185a6badf",
     "bf3d4ddfa017e290fe8ce69ae6e6003d",
     "8df358eebbbb64bf19235a902db73505",
@@ -16001,7 +15992,16 @@
     "d71a202ab7f681779aa3fc19f19d97ed",
     "de5107f246ed4db3e8c64bb9850123d3",
     "f2ab5fb218da8b84623f45579aa4ba11",
-    "31069037935d191e505edb212cb3cd1e"
+    "31069037935d191e505edb212cb3cd1e",
+    "0c1fa3a4f0f7fab54aef1d74d1642f56",
+    "513c061175ca51edb894c23249fe744a",
+    "171e0d128122f15b121ffef25df64150",
+    "2af1f1c4de6690ae058558f82c196f13",
+    "0044170188e75cf359ec853d415430ed",
+    "5e46bd253be5629980cc76e5cd26525c",
+    "453e4eab0e85924d9c2d44b1a7cb2ed7",
+    "01299150042bc5b2fc53c1a320c37f51",
+    "7cd247bc918328430779ffecd77e5975"
   ],
   "transfers": {
     "pages": {
@@ -20710,22 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "17 2026 21 39 amp based fans fills game gap held its karma leveling live makuhari messe met mobile netmarblenetmarble new original roguelite rpg september show showcasing solo story tgs tokyo",
-      "ts": 1789691663.9253154
-    },
-    {
-      "t": "17 2026 21 45 answers arrives collectible finally frontier game held its makuhari messe netmarble netmarbleat new questions real rpg september shangri show showcasing tokyo",
-      "ts": 1789691667.5031767
-    },
-    {
-      "t": "derby first game gaming history japanese makes meets motogp partner pretty umamusume video",
-      "ts": 1789691671.2121398
-    },
-    {
-      "t": "appeared can era first game golden harada help industry ins its japan katsuhiro new post revive says snk studio",
-      "ts": 1789691674.8408556
-    },
-    {
       "t": "127918 alike android astrae cafe civilians clan coffee dynamis frequented game ich ichigo infogame iospopular mages magicalgirl modernfantasy ncplatform one oratiodeveloper shop subculture tags title urbanlegendcoffee",
       "ts": 1789708412.4888608
     },
@@ -21192,6 +21176,26 @@
     {
       "t": "beter com esports gamingintelligence integrates into nbsp openbet platform portfolio",
       "ts": 1789752424.7098296
+    },
+    {
+      "t": "17 announcement beautiful beta blizzard bumpy but did doors few first forever hours launch not open opened origi per pitch reimagined september stay warcraft world",
+      "ts": 1789761060.3021655
+    },
+    {
+      "t": "00 1 19 5 alongside boss changes epoch features frostborn key last morditas new official pinnacle rage released reveals saturday season september trailer video what",
+      "ts": 1789761064.1074314
+    },
+    {
+      "t": "all but connect eliminated guaranteed liquid logitech major miss nip now out pgl play playoffs qualification reaches singapore",
+      "ts": 1789761067.7470434
+    },
+    {
+      "t": "active after bench eight fr3nd lineup loan mhl months moves replace sign wildcard",
+      "ts": 1789761071.2996774
+    },
+    {
+      "t": "aurora but fall fight march mirage nrg past put starseries strong ultimately well",
+      "ts": 1789761075.233023
     }
   ]
 }
