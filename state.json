@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.vlr.gg/756142/ninja-announces-departure-from-pcific",
-    "https://www.vlr.gg/755933/bipo-enters-restricted-free-agency",
-    "https://www.vlr.gg/755922/pcific-to-part-ways-with-al0rante",
-    "https://www.vlr.gg/755930/team-secret-allows-igl-styron-to-explore-options",
-    "https://www.vlr.gg/755727/short-riot-introduces-new-rifle-warden-in-patch-13-06",
     "https://www.vlr.gg/755764/rex-regum-qeon-allows-head-coach-jovi-to-explore-options",
     "https://www.vlr.gg/755762/h1ber-announces-free-agent-status-after-short-gentle-mates-stint",
     "https://esports.inquirer.net/36383/evolution-team-sweeps-kadiliman-esports-in-the-crossfire-legends-sea-championships",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26183/granblue-fantasy-versus-rising-legendary-edition-released",
     "https://www.invenglobal.com/articles/26182/nivalis-nights-surpasses-1-million-steam-wishlists",
     "https://www.invenglobal.com/articles/26181/last-origin-and-maison-de-queen-collaborate-on-ost",
-    "https://www.invenglobal.com/articles/26179/maplestory-m-revamps-union-system-to-allow-direct-stat-allocation"
+    "https://www.invenglobal.com/articles/26179/maplestory-m-revamps-union-system-to-allow-direct-stat-allocation",
+    "https://www.invenglobal.com/articles/26180/kakao-games-hosts-chuseok-events-across-major-titles",
+    "https://www.invenglobal.com/articles/26178/seorin-ci-launches-hyte-y50-panoramic-pc-case",
+    "https://www.invenglobal.com/articles/26177/duo-becomes-a-boss-in-brawl-stars-in-duolingo-crossover",
+    "https://www.invenglobal.com/articles/26176/playwith-korea-unveils-seal-m2-dungeon-gameplay-video",
+    "https://www.invenglobal.com/articles/26175/red-brick-house-to-showcase-void-diver-at-tgs-2026"
   ],
   "title_hashes": [
-    "4f45ba8937ff95a37570dde77ac55627",
-    "2727a6ca6416675eb44194b022dff523",
-    "36034ed910d332957da9a49b7dfda7c9",
-    "cded5f4c8d52a4a67cddf5387796e56a",
-    "3e9a5ba79e75343ab3cca80d349ea660",
     "df6f35a5beabe5008f7cc94fb1227fb4",
     "933c339c49f087bc61fd57537262a087",
     "ed470b171c1e0bdd96668a86f5624a4f",
@@ -16001,7 +15996,12 @@
     "4f29a4145133c80f20a03565a0ae7497",
     "d5c9fe32b23e8b83fa56b09ccfeccb60",
     "e4fdc7744ad31cb3ab43f78812341fc7",
-    "92b68a2ff36987a196610da487118b82"
+    "92b68a2ff36987a196610da487118b82",
+    "1d9c722a78da20fcf67964622c0159bd",
+    "c4b44813c3ae9fc66ad75e5076890c04",
+    "de46bc4512109b364d6b8331e423c139",
+    "1fc0338a9f4ace5d24ed164d15ff8852",
+    "7f68d75dae133d4c21eacc6ec0f25ec0"
   ],
   "transfers": {
     "pages": {
@@ -21220,6 +21220,26 @@
     {
       "t": "18 acquiring allocation allow announced applied direct has its maplestory method mmorpg mobile nexonnexon revamp revamps september stat stats system that this through union update",
       "ts": 1789708463.6246037
+    },
+    {
+      "t": "18 across announced archeage battlegrounds chuseok events festive games gameskakao hodoo hosting hosts including its kakao major oneuldou september that titles war",
+      "ts": 1789708468.4819953
+    },
+    {
+      "t": "amp available black case color four has hyte iseorin launches mid milk officially options panoramic pitch released seorin snow strawberry taro tower white y50",
+      "ts": 1789708472.403351
+    },
+    {
+      "t": "becomes boss brawl collaboration crossover duo duolingo event features game global learning mobile partnering platform stars supercellsupercell where",
+      "ts": 1789708475.771649
+    },
+    {
+      "t": "actual collec combat content dungeon featuring gameplay growth has its korea koreaplaywith m2 mmorpg mobile playwith reinterprets released seal unveils upcoming video",
+      "ts": 1789708479.1269183
+    },
+    {
+      "t": "18 2026 announced brick diver game held house its japan makuhari maxred messe participating published red september show showcase tgs that title tokyo void wemade",
+      "ts": 1789708482.5309718
     }
   ]
 }
