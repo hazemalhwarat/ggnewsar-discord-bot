@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://realsport101.com/article/fc-27-soundtrack-full-tracklist-and-official-songs-revealed",
-    "https://realsport101.com/article/goals-open-grand-finals-first-major-esports-event-announced",
-    "https://realsport101.com/article/nba-2k27-top-100-player-ratings-sga-tops-the-list-as-76ers-stack-up",
-    "https://realsport101.com/article/fc-27-wonderkids-best-wonderkids-and-young-players-to-sign",
-    "https://realsport101.com/article/football-manager-27-release-window-platforms-and-first-feature-details",
     "https://realsport101.com/article/why-the-second-screen-will-shape-the-opening-champions-league-week",
     "https://news.google.com/rss/articles/CBMiO0FVX3lxTE55SlJYdmwyY2xUaFF4dGJVcVlWdU0zRTg0QnhLUUw5UUJKdmFXZ2twXzdoMlBsdUIyYUh3?oc=5",
     "https://news.google.com/rss/articles/CBMiREFVX3lxTE9GRmRYUUpvX2twQ2E2U1cxZWcyVTBaT2MxdlM5cm9xcV8wV2VLcnhuMFNmbUFxTzZnWjhkY0FnQ0hfRGZJ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26211/from-pvp-to-open-world-pve-why-ninjala-2-made-a-bold-transformation",
     "https://www.invenglobal.com/articles/26210/delayed-three-times-will-007-first-light-run-properly-on-switch-2-91",
     "https://www.invenglobal.com/articles/26167/rockstar-games-unveils-gta6-soundtrack-album",
-    "https://www.invenglobal.com/articles/26166/the-first-descendant-ultimate-hailey-update"
+    "https://www.invenglobal.com/articles/26166/the-first-descendant-ultimate-hailey-update",
+    "https://www.invenglobal.com/articles/26165/bose-launches-2-new-open-ear-earbuds-in-korea",
+    "https://dotesports.com/call-of-duty/guides/camo-costume-party-event-bo7-wz-camos",
+    "https://esportsinsider.com/2026/09/starseries-fall-2026-nrg-mouz",
+    "https://www.hltv.org/news/45541/mouz-send-navi-packing-in-barcelona",
+    "https://insider-gaming.com/navi-starladder-risk-of-missing-major/"
   ],
   "title_hashes": [
-    "dba0b6c5f4e2a530eaff6865a8c97b8a",
-    "f9588021764fc92cf9bc196966b4997b",
-    "3c00d851e1c4b9369e25bd44dc5d3022",
-    "61192d5c0ca5aa30c332f8aad8d1c1ba",
-    "559c0613f4aa5db10977cffc391a9c7c",
     "d9330823b5a5eb5785c8b2c758c8766c",
     "4a10ac9c753270bade8716f58875793d",
     "df6cb753669674fa49099955d7223ced",
@@ -16001,7 +15996,12 @@
     "4f7e509f2bcb2a1d9c03549957574e29",
     "f85107fbd1f1cf086ead36c29717ff2a",
     "b6ef8468b3943a8040b7b50e12685a22",
-    "ff4b212cb263bedc87305f67618d6fa5"
+    "ff4b212cb263bedc87305f67618d6fa5",
+    "d176ef51614dca6ac73decdc9b2883da",
+    "3b48f76f8905eb6ccb62f933624f0470",
+    "8efbd1b3ddf12d6fa601ab01d6f085da",
+    "f6c1e03ab52d665f630b968b52c9d86f",
+    "d2613de47fccb2b982fd72b7b7dae67c"
   ],
   "transfers": {
     "pages": {
@@ -21020,6 +21020,26 @@
     {
       "t": "18 announced content descendant developed first games hailey has introducing looter new nexon nexonon released september shooter that ultimate update",
       "ts": 1789739680.111618
+    },
+    {
+      "t": "18 2 2nd bose boseon both ear earbuds feature gen korea launched launches new open openaudio products september sport two ultra",
+      "ts": 1789739685.7755756
+    },
+    {
+      "t": "all bo7 camo camos challenges costume event grind last party warzone weapon",
+      "ts": 1789739689.292256
+    },
+    {
+      "t": "1 18 2 2026 after americans beat boost bracket climb earning fall final major mouz north nrg places post ranking sees semi starseries upper upset vrs world",
+      "ts": 1789739692.9268339
+    },
+    {
+      "t": "15 barcelona end mirage mouz navi now outside packing road send showing spelled top vrs who woeful",
+      "ts": 1789739696.431624
+    },
+    {
+      "t": "20 after counter exit first following major missing natus navi out pgl post risk season singapore starladde starladder strike their time vincere",
+      "ts": 1789739699.9502153
     }
   ]
 }
