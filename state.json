@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/08/01/leaker-reveal-new-points-of-interest-in-fortnite/",
-    "https://thebusinessofesports.com/2022/08/01/shanghai-betting-big-on-blockchain-nfts-the-metaverse-and-web3/",
-    "https://thebusinessofesports.com/2022/08/01/podcast-258-grant-zinn-beastcoast-content-creation-pokemon-popularity/",
-    "https://thebusinessofesports.com/2022/08/01/how-much-do-australians-spend-on-gaming-and-entertainment/",
-    "https://thebusinessofesports.com/2022/08/01/tencent-quashes-rumors-of-increased-video-game-screen-time-for-chinese-minors/",
     "https://thebusinessofesports.com/2022/08/01/china-issues-third-batch-of-gaming-licenses-since-april/",
     "https://thebusinessofesports.com/2022/08/01/stan-partners-with-three-indian-esports-organizations/",
     "https://thebusinessofesports.com/2022/08/01/valorant-masters-copenhagen-is-raising-the-bar/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26233/melty-blood-twi-lumina-strikes-a-balance-as-both-fighting-game-and-story-driven-experience",
     "https://www.invenglobal.com/articles/26232/the-moon-holy-grail-war-reborn-for-modern-times-fateextra-record",
     "https://www.invenglobal.com/articles/26235/how-sonic-has-kept-running-for-35-years-takashi-iizuka-and-kazuyuki-hoshino-on-the-present-and-future",
-    "https://www.invenglobal.com/articles/26231/40-hours-for-the-main-story-alone-attack-on-titan-3-covers-full-original-narrative"
+    "https://www.invenglobal.com/articles/26231/40-hours-for-the-main-story-alone-attack-on-titan-3-covers-full-original-narrative",
+    "https://www.invenglobal.com/articles/26230/alan-ritchson-to-potentially-replace-jason-momoa-in-sonys-helldivers-movie",
+    "https://www.invenglobal.com/articles/26229/evolved-gameplay-through-open-fields-and-insight-skills-wo-long-2",
+    "https://www.invenglobal.com/articles/26228/16-teams-set-for-2026-pmgo-western-europe-finals",
+    "https://insider-gaming.com/arc-raiders-frozen-trail-trailer-september-23/",
+    "https://insider-gaming.com/call-of-duty-team-ricochet-cheating-industry/"
   ],
   "title_hashes": [
-    "b6a126acf29e7f1395536e1c874b24e2",
-    "433aef2c33c2891e0d409f4b52b1aebe",
-    "c94e10f6c32a070fed92eed53111f4eb",
-    "1bf500d14f496708bf305ed4a94e92c0",
-    "4cecfc3b1aa56de908b5a05f9604b51a",
     "74f0bf684b45ef6ed324e8e834a9f664",
     "da1de2155c0a0b4b9af7373e59997c18",
     "9abe85856f1f2a8bbb33139e05578587",
@@ -16001,7 +15996,12 @@
     "93d682c14d234eb18fc22067b6218722",
     "48db00bba25980e1040b85536f526d8d",
     "01047b945e747d1cf0f705769c0f6d8d",
-    "d5fe7b1945e6f69afede0a0e9437c41e"
+    "d5fe7b1945e6f69afede0a0e9437c41e",
+    "908a2756689f305f0a3134bfc19b0686",
+    "c3918a84513a84f40a1a9330708ebd8a",
+    "b4162ddf356edbfd426b1bf40a0b685a",
+    "2cd2e55e8dc9cc113fccf21d570f7383",
+    "8f8dd64fb60aadf4855841b31c85cfec"
   ],
   "transfers": {
     "pages": {
@@ -21212,6 +21212,26 @@
     {
       "t": "10 2026 3 40 action alone attack booth covers december developed entry force full game hours invenreleasing latest main narrative omega original series story tgs titan",
       "ts": 1789777212.259942
+    },
+    {
+      "t": "according adaptation after alan away deadline film helldivers jason justin lead momoa months movie outlet pictures potentially project replace ritchson sony sources talks that three told walked",
+      "ts": 1789777217.9313154
+    },
+    {
+      "t": "2 2026 alongside booth combining dark demo dynasty evolved fallen fantasy fast fields gameplay history insight invenwo kingdoms long open presented skills tgs three through unique which world",
+      "ts": 1789777221.4560344
+    },
+    {
+      "t": "16 18th 2 2026 20th compete europe event finals global line main mobile open places pmgo pubg season september set teams total tournament two western will",
+      "ts": 1789777224.9640982
+    },
+    {
+      "t": "23 8 announced arc due embark first frozen has its largest launch look october post premiere premieres raiders september since trail trailer update",
+      "ts": 1789777229.070028
+    },
+    {
+      "t": "8216 8217 actively battling blog call cheating dismantling duty explained how industry nefarious post recent ricochet tackling team",
+      "ts": 1789777232.6563656
     }
   ]
 }
