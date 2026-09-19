@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/07/12/somebody-just-broke-the-record-for-the-most-viewed-twitch-stream-ever/",
-    "https://thebusinessofesports.com/2022/07/12/an-inside-look-at-ayaneos-next-handheld-gaming-pc/",
-    "https://thebusinessofesports.com/2022/07/12/here-are-the-nominees-for-streamer-of-the-year/",
-    "https://thebusinessofesports.com/2022/07/12/changes-announced-for-league-of-legends-world-championship/",
-    "https://thebusinessofesports.com/2022/07/12/is-a-loot-box-ban-coming-to-the-netherlands/",
     "https://thebusinessofesports.com/2022/07/12/this-country-will-soon-open-southeast-asias-biggest-esports-gaming-arena-themed-hotel/",
     "https://thebusinessofesports.com/2022/07/12/turkish-mobile-gaming-company-raises-3-2m/",
     "https://thebusinessofesports.com/2022/07/12/x7-esports-makes-third-major-acquisition/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26239/indeed-tokyos-magic-is-spectacular",
     "https://www.invenglobal.com/articles/26237/atelier-karia-learns-from-synthesis-of-the-past-while-adding-new-charm",
     "https://www.invenglobal.com/articles/26238/music-director-mitsukiyo-the-core-of-pareidolias-music-is-balancing-comfort-and-mystery",
-    "https://www.invenglobal.com/articles/26236/what-persona-4-revival-kept-and-what-it-changed"
+    "https://www.invenglobal.com/articles/26236/what-persona-4-revival-kept-and-what-it-changed",
+    "https://www.invenglobal.com/articles/26194/coffee-shop-ichigo-a-cafe-clan-open-to-both-magicians-and-ordinary-people",
+    "https://www.vlr.gg/757396/coach-joe-quot-shopify-has-been-the-team-to-beat-in-game-changers-quot",
+    "https://insider-gaming.com/fareidolia-hands-on-preview-tokyo-game-show-nexon/",
+    "https://insider-gaming.com/last-of-us-director-apologizes-god-of-war-laufey/",
+    "https://insider-gaming.com/the-finals-new-chapter-october-20/"
   ],
   "title_hashes": [
-    "e133ddf89f151e19661fd92151865794",
-    "71a656dc11d75c88f7ebf6e6662eca55",
-    "b5bccbe9ee339e8db1d0918686979f4f",
-    "98fcd2d563edb511d588e1e15af2067d",
-    "905756ad5818a6c289ad9c2e1f8e92c9",
     "56c1281f306add9d42b0d09791f01337",
     "a476f1a41caa81aac2caaeafbc94a7dc",
     "4a853f6cc5284a8dded38f2507ab59c8",
@@ -16001,7 +15996,12 @@
     "858f01ddd0ee6ce46ff2f8b72593156f",
     "2c15d4cd829c1514166a3fa7b814eead",
     "f4dea02aa7d4318057f7f5ca426c592b",
-    "6f95aea08b973b51f46e08f4593f2cf5"
+    "6f95aea08b973b51f46e08f4593f2cf5",
+    "dc140ae516f456d81b6809f28c0c95c2",
+    "3877359c53f43bf6e8a5ef13d25c47bb",
+    "4b5781420aeeafd1cf0a3d52a59f4a29",
+    "b64fec06b590700dcfa23faaa617b788",
+    "a36cc18befd62a5bfcbc46f354e099c5"
   ],
   "transfers": {
     "pages": {
@@ -21108,6 +21108,26 @@
     {
       "t": "19 2008 4 being changed complete form invenfirst kept later persona reborn released revival roughly what years",
       "ts": 1789793486.1761813
+    },
+    {
+      "t": "127918 android astrae both cafe clan coffee dynamis game ghoststorycoffee ichigo infotitle iospopular magicalgirl magicians ncplatform one open oratiodeveloper ordinary people run shindenki shop subculture tags",
+      "ts": 1789793491.5700037
+    },
+    {
+      "t": "2 afterthoughts america beat been changers coach finish flyquest following game has head his joe lan north place red second shared shopify stage team",
+      "ts": 1789793495.0177991
+    },
+    {
+      "t": "been boasts combat fareidolia first game hands has mechanics nexon playable post preview project show time tokyo unique unveiled went",
+      "ts": 1789793498.6657374
+    },
+    {
+      "t": "aaa apologizes bruce criticism director fault god his innovation last laufey naming not post saying straley team war",
+      "ts": 1789793502.1325486
+    },
+    {
+      "t": "20 anniversary app begin begins chapter embark evolving finals game its multiplayer nears new october post says shooter show third will",
+      "ts": 1789793505.656664
     }
   ]
 }
