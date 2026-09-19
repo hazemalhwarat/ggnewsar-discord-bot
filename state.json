@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/07/07/this-esports-powerhouse-launches-an-nft-collection/",
-    "https://thebusinessofesports.com/2022/07/07/a-look-inside-metaverse-virtual-reality-platform-metacosmos/",
-    "https://thebusinessofesports.com/2022/07/07/magic-johnson-and-several-other-stars-invest-in-gaming-and-the-metaverse/",
-    "https://thebusinessofesports.com/2022/07/07/dr-disrespect-going-after-gaming-industry-giants/",
-    "https://thebusinessofesports.com/2022/07/07/a-look-at-mien-companys-white-paper-on-the-benefits-of-esports-for-k-12-students/",
-    "https://thebusinessofesports.com/2022/07/07/fractal-launches-new-and-improved-digital-wallet-for-web3-gamers/",
     "https://thebusinessofesports.com/2022/07/07/the-ceo-of-ea-just-took-a-massive-pay-cut/",
     "https://thebusinessofesports.com/2022/07/07/activision-blizzard-completes-investigation-into-activision-blizzard/",
     "https://thebusinessofesports.com/2022/07/07/this-gaming-start-up-raised-11m-for-a-metaverse-esports-game/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26244/longest-ever-tgs-hit-by-typhoon-sept-21-event-canceled-entirely",
     "https://www.invenglobal.com/articles/26243/two-worlds-met-in-japan-inside-nexons-tgs-2026-booth",
     "https://www.invenglobal.com/articles/26242/hyundai-n-meets-racing-master-inside-the-racing-action-at-ges",
-    "https://www.invenglobal.com/articles/26241/tgs-for-kids-too-family-game-park-2026"
+    "https://www.invenglobal.com/articles/26241/tgs-for-kids-too-family-game-park-2026",
+    "https://esports-news.co.uk/2026/09/19/liquid-crash-out-of-logitech-g-play-connect-with-2-3-group-record/",
+    "https://dotesports.com/call-of-duty/guides/best-tr51-para-loadout-warzone",
+    "https://dotesports.com/general/guides/how-to-get-control-resonant-twitch-drops",
+    "https://insider-gaming.com/tokyo-game-show-extra-day-canceled-typhoon-incoming/",
+    "https://insider-gaming.com/delta-force-streamer-ladder-poaches-pros-multiple/",
+    "https://insider-gaming.com/riot-games-valorant-league-rank-manipulation/"
   ],
   "title_hashes": [
-    "0c56bdeeefb9756ca1efa031f4fa0197",
-    "085fb64abfb8f08ba5ff38c43f8824a4",
-    "ba4f6f04b6c394e232779ea14bbb19c6",
-    "8354a5ad91d60a2e10b9cceaa0cdfe49",
-    "44b57929ca007a979d3824d44d3a77cd",
-    "f04427886a670cdf04a6cdc06cc2653e",
     "dbf927f8de07004a35b13826f3e0cdd1",
     "41b90ee79957fe0b228c6a769d400a09",
     "7174fa0cfcb099081fb51f6cd175b879",
@@ -16001,7 +15995,13 @@
     "53f9fa5055962b02effc086a376e4554",
     "a31c88cde8d39856016c87871154e975",
     "38cc14d830944019cb6edd30893cd411",
-    "715ae041f2412f7adf7f9bd77b7fe854"
+    "715ae041f2412f7adf7f9bd77b7fe854",
+    "7ae9e5a7a5d09df75fd378d9d8d80499",
+    "eec2b3595eb343b9bfa8478430c9f28a",
+    "6deff22a84a6f009b670ebd49281cd13",
+    "bf8e2ec1780557d88fb85c4eb01a615e",
+    "0ae73b62ca039f8c89aeabe7690e5685",
+    "d54129121556e80965ca38c0ed194699"
   ],
   "transfers": {
     "pages": {
@@ -21048,6 +21048,26 @@
     {
       "t": "19 2026 another bay doors family festival game gaming general hall invenon its kicked kids located makuhari messe near off opened park public september tgs tkp tokyo too",
       "ts": 1789808878.5122976
+    },
+    {
+      "t": "2 3 after alongside confirming connect crash cs2 elimination event group handed hltv into its knockout liquid logitech losing lower matches missed moves nip opposition out play playoffs poland ranked record short side three",
+      "ts": 1789808884.0485797
+    },
+    {
+      "t": "accuracy best damage loadout long para range tr51 warzone",
+      "ts": 1789808887.544981
+    },
+    {
+      "t": "8216 8217 additional appeared been canceled day due extra face game has inclement monday post public scheduled show tokyo typhoon weather",
+      "ts": 1789808890.9970887
+    },
+    {
+      "t": "appear delta event force games here ladder many multiple other players poaches post pro pulled seeing streamer streamers talent",
+      "ts": 1789808894.4062994
+    },
+    {
+      "t": "000 300 8 accounts few games has kind last league legends manipulation months penalizes post punished rank riot some valorant",
+      "ts": 1789808897.8413322
     }
   ]
 }
