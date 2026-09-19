@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/10/27/overwolf-launches-50m-fund-for-game-mod-development/",
-    "https://thebusinessofesports.com/2021/10/27/episode-156-video-rivalry-listing-sports-esports-betting-future-content-is-king/",
-    "https://thebusinessofesports.com/2021/10/27/episode-156-rivalry-listing-sports-esports-betting-future-content-is-king/",
-    "https://thebusinessofesports.com/2021/10/27/cd-projekt-hires-mod-makers-to-further-develop-cyberpunk-2077/",
     "https://thebusinessofesports.com/2021/10/27/enthusiast-gaming-finalizes-deal-to-acquire-addicting-games/",
     "https://thebusinessofesports.com/2021/10/27/esports-technologies-app-hits-49000-downloads-in-july-100k-total/",
     "https://thebusinessofesports.com/2021/10/27/apple-selling-19-cloth-to-clean-your-devices-with/",
@@ -7999,13 +7995,13 @@
     "https://dotesports.com/league-of-legends/news/mkoi-sweeps-kcrop-lec-summer-finals-2026",
     "https://www.hltv.org/news/45555/furia-beat-mibr-to-set-up-vitality-rematch",
     "https://www.hltv.org/news/45554/jimpphat-recently-ive-just-had-such-a-crazy-amount-of-confidence",
-    "https://insider-gaming.com/insomniac-marvels-wolverine-no-generative-ai/"
+    "https://insider-gaming.com/insomniac-marvels-wolverine-no-generative-ai/",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FNEdFZ0VGZDZ1aXpiX0tmOFBKSEEtTmdDSW1yc2s3dktqRWlRYUlwRTdMM0hmQkdBU25zemVtTy1ibUFsd09mTWJqdVk4MEp4Z3JQMHNxQlM5YTRHNmt3dWp0YklLdm9p?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGZiR3NnZHJ0dGlZT3VXUE9iU1JzaktpMnNkQXFRNXB3dDBhNTZzRk50NmZiMHVQeGhFUDRTVk1YVEhROW5uWFdLYjl3R0FCaHpYaEZiWXc5UU5ia29lNExRSGNtM3d5SU02UzEyR0lqT2FCZXdpQmZfSFhCTklHc3NPMHhPX0szR1lrM19WSTZ3VG0yR1lHUGlER0h3NXfSAawBQVVfeXFMUDd3X1AtVlNZbGFsWEQ2UzhvWU1RU0FGWFlteXpuQWFCbEtlU3M3WVFyY05BcUdUQVZfMmQ2ZGlSeW9Xc1g3Y19JbzdwSzhFd3dfZ21BazBUTjc2ZFRmM1JTWlpHazE4ZzA4bjNHVFpQc0xPMDk2NE9STFRJel9ZdDlfbG5PVUhQaGtNaEQ2MmlDdzctVVJhSTZrX1luMklvcWtmVTI2MjUwcUREOA?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaU3hxeVRmYU5id1RLRzcwM3ZCQVdUV3R2aTVvOXBtWi05VUNqdG1KSDU1SVRfN2N5M3JVY1BzOWQ1OXRoY2VETjNVcm9lMVJIQnBNa19mNVBnLUdQTVhNVzl1UDJCOHBVNl9PU1NUUmY?oc=5",
+    "https://pley.gg/cs2/a-look-into-astraliss-struggles-jabbis-exceptional-ceiling-but-uncommonly-low-floor/"
   ],
   "title_hashes": [
-    "5e00cf4a65d678cc74059c68bd6570bb",
-    "811fd76180148eba4271e68aa9f30af9",
-    "1da1144cffec448582cd492fda71fa99",
-    "d5ce5448dca863c30197812b619bb9d8",
     "0054a91f2fa0b07dd1d791e23381985a",
     "668f7f497f1ca24aa76a9f5a72241db9",
     "54acc5b7087ad65defa3a524575c898c",
@@ -16001,7 +15997,11 @@
     "b6b728e07808e0a8e71d7bd64df1f80a",
     "fed7575439da063ada11234e08619fe0",
     "50526e4ea50c7026c3a25b8374490672",
-    "2d37744cc4dac30149991c0e5a0c35a4"
+    "2d37744cc4dac30149991c0e5a0c35a4",
+    "d832a605d37486ec1d645755ddfb46ae",
+    "39a34fa5e7a7e0e3cd18083602e84e01",
+    "127b92f3b2dd763536dd10942325c03d",
+    "55f3180d0d956c311d67393a842ed3d8"
   ],
   "transfers": {
     "pages": {
@@ -20944,6 +20944,10 @@
     {
       "t": "about community did director discussion game games generative insomniac james marvel media not post production response says social stevenson use used wasn wolverine",
       "ts": 1789851795.0460339
+    },
+    {
+      "t": "astralis but ceiling exceptional floor having highs holds into jabbi look low lows mantle ryu stars struggles uncommonly worst",
+      "ts": 1789851800.712327
     }
   ]
 }
