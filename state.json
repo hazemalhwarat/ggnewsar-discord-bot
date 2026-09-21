@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/08/global-esports-executive-summit-held-in-south-korea/",
-    "https://thebusinessofesports.com/2021/09/08/krafton-shares-plans-for-investments-into-indias-esports-ecosystem/",
-    "https://thebusinessofesports.com/2021/09/08/by-2027-the-global-social-gaming-market-will-be-worth-31-6b/",
-    "https://thebusinessofesports.com/2021/09/08/forecasting-growth-of-the-latin-american-mobile-gaming-market/",
-    "https://thebusinessofesports.com/2021/09/08/excel-esports-secures-23-6m-in-latest-investment-round/",
-    "https://thebusinessofesports.com/2021/09/08/winzo-raises-65m-in-series-c-funding-round/",
     "https://thebusinessofesports.com/2021/09/08/rockstar-games-co-founder-reportedly-launches-new-company/",
     "https://thebusinessofesports.com/2021/09/08/cash-out-gaming-partners-with-alpha-esports-tech/",
     "https://thebusinessofesports.com/2021/09/08/polygons-tinyhero-to-use-new-unique-distribution-system/",
@@ -7999,14 +7993,15 @@
     "https://www.invenglobal.com/articles/26317/castlevania-returns-free-demo-for-castlevania-belmonts-curse-coming-october-1",
     "https://www.invenglobal.com/articles/26293/last-epoch-director-shares-message-promising-better-korean-localization",
     "https://www.invenglobal.com/articles/26294/witchbrook-offers-a-calm-intricate-hands-on-experience-of-magic-school-life",
-    "https://www.invenglobal.com/articles/26291/zozo-and-the-lost-dreams-to-exhibit-at-tgs-2026"
+    "https://www.invenglobal.com/articles/26291/zozo-and-the-lost-dreams-to-exhibit-at-tgs-2026",
+    "https://www.invenglobal.com/articles/26290/pearl-abyss-marks-5-years-of-bigem-driving-global-expansion-for-44-companies",
+    "https://www.invenglobal.com/articles/26284/the-core-concepts-of-build-creation-in-last-epoch",
+    "https://www.hltv.org/news/45561/short-news-week-38",
+    "https://www.hltv.org/news/45562/bestia-and-fluxo-breathing-down-pains-neck-in-americas-vrs-after-circuit-x-curitiba",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-defenses-to-stream-week-3/2026/09/21/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-players-to-add-week-3/2026/09/21/"
   ],
   "title_hashes": [
-    "fcb543f7774a967968a657c75433426a",
-    "bf644d7c5d20e82be549ccee003702ce",
-    "9443edb3029265950c85bc1b1ffa3c0a",
-    "eedd6438c985e52be68375f75324e15e",
-    "e713f19f31a868c9901063b275a6760f",
     "003d426767371af92d937e059f5f5c2f",
     "582cb5e75358bf3defed09fd2c6d570b",
     "85dc9ec157f5bf2c5dc7136fad520451",
@@ -16001,7 +15996,12 @@
     "de304603ff0cac4af7809561a585f6ae",
     "b3a6aec8ed0841a38b308c920c430e9e",
     "95a477834af0c4e5e62d1d2fe697efc3",
-    "17908b86ddd0ffc000fa1474bb28d10a"
+    "17908b86ddd0ffc000fa1474bb28d10a",
+    "045e6fb1f676d9d134b3c52e906def1a",
+    "85042254316878afc50f09295347de19",
+    "75bc32831ef545cfa376e962564bfc10",
+    "df3d4a6cdd8a07a406cf40931b7d9540",
+    "4be75928dd167d324090f9246231bcd5"
   ],
   "transfers": {
     "pages": {
@@ -21024,6 +21024,26 @@
     {
       "t": "2026 agate agatered dreams dunes exhibit game games lost metroidvania platformer red show showcasing tgs their tokyo zozo",
       "ts": 1789999806.3388138
+    },
+    {
+      "t": "44 5 abyss abysspearl achievements announced bigem companies domestic driving expand expansion five games global helps indie leading marketing marks ont overseas pearl project support that year years",
+      "ts": 1789999812.4526165
+    },
+    {
+      "t": "about build concepts core creation determining epoch equipping gear good isn just last strength",
+      "ts": 1789999816.1371138
+    },
+    {
+      "t": "after americas another bestia breathing circuit curitiba down feeling fluxo more neck pain pressure showing underwhelming vrs",
+      "ts": 1789999819.590521
+    },
+    {
+      "t": "3 acquisitions biggest defense defenses each fantasy find foot football here look make matchups one owners starting strategies stream streaming their waiver week will wire",
+      "ts": 1789999823.031632
+    },
+    {
+      "t": "3 acquisitions add but draft during each fantasy football good having league made most need players really season sets several team there time week well win worth",
+      "ts": 1789999826.4585197
     }
   ]
 }
