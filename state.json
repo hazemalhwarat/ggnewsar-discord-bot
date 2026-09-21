@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/07/thescore-bet-named-official-partner-of-golf-canada/",
-    "https://thebusinessofesports.com/2021/09/07/business-of-esports-weekly-news-367/",
-    "https://thebusinessofesports.com/2021/09/04/episode-147-krafton-pubg-esports-law-china-gaming-industry-death-apple-concession-overwatch-deletion/",
-    "https://thebusinessofesports.com/2021/09/03/episode-147-video-krafton-pubg-esports-law-china-gaming-industry-death-apple-concession-overwatch-pr/",
-    "https://thebusinessofesports.com/2021/09/03/heco-partners-with-blockchain-gaming-companies-to-launch-accelerator-program/",
     "https://thebusinessofesports.com/2021/09/03/assasins-creed-developer-creating-online-ps5-exclusive-game/",
     "https://thebusinessofesports.com/2021/09/03/bud-light-secures-partnership-with-able-esports/",
     "https://thebusinessofesports.com/2021/09/03/british-esports-association-joins-forces-with-dota-valkyries/",
@@ -7999,14 +7994,14 @@
     "https://www.hotspawn.com/valorant/news/valorant-acs-leak",
     "https://www.nerfplz.com/2026/09/formerly-op-15-old-warwick.html",
     "https://www.talkesport.com/news/persona-5-fortnite-collab-joker-ann-morgana-release-date/",
-    "https://www.talkesport.com/news/g2-20th-lec-title-movistar-koi-summer-2026/"
+    "https://www.talkesport.com/news/g2-20th-lec-title-movistar-koi-summer-2026/",
+    "https://www.talkesport.com/news/cs2/no-cs2-major-europe-2027-counter-strike-history/",
+    "https://www.talkesport.com/news/revenant-xspark-moba-legends-roster-kielvj-aezu-duba-bidd/",
+    "https://www.talkesport.com/news/revenant-xspark-moba-legends-5v5-roster-kielvj-aezu-duba-bidd/",
+    "https://www.talkesport.com/news/hideo-kojima-sony-physint-zoom-call/",
+    "https://www.talkesport.com/news/pubg-mobile-asian-games-2026-12-teams-set-for-aichi-nagoya-finals/"
   ],
   "title_hashes": [
-    "2d25ce4a96f5fbeeb891723299cb1733",
-    "a82ba8c073212fc2c57780b8b1b70564",
-    "791b6cea7ef54c681e5383f5ee5285a2",
-    "e5a1dc2ecbfd81f4468bae8c7b0c783c",
-    "d0bde39ddb84bdfc07cc5a18046ec724",
     "ed2fd55a30251cbe4d569d4a3f1f6d41",
     "0e36be9bf1a1013db5bc4eb6c7e4ad53",
     "686b6522d1b5f2309dd695fab948bad2",
@@ -16001,7 +15996,12 @@
     "d2836c47b0033f41bcb01565d6cb9131",
     "4f75467a2db182234dd49f2f52fcf37a",
     "20871aa06d6e48e8ced92e28fb7ed28e",
-    "9079f4cb93807db1c4aa3bc33282ecd3"
+    "9079f4cb93807db1c4aa3bc33282ecd3",
+    "11500ec4d0d296381a90e614934212bf",
+    "9df8b853e44a4b8a45d222eafbbcd90e",
+    "10112e811baf50798569113cf16c8d3a",
+    "814cd9858f45c89541ab85bac3310dca",
+    "1e626607c25866a22874bfa134649618"
   ],
   "transfers": {
     "pages": {
@@ -21124,6 +21124,26 @@
     {
       "t": "0 2026 20th 3 claim clean complete esports european extended final g2 grand have koi league lec legends movistar record regional summer swe sweep sweeping their title top win",
       "ts": 1789999904.862902
+    },
+    {
+      "t": "2027 8217 both circuit counter cs2 entire europe events first flagship history hosting major marking one season strike that time tournaments valve will without",
+      "ts": 1789999910.8305705
+    },
+    {
+      "t": "5v5 ace aezu bidd bidhyasagar completed completes cruzem dhubalanta duba has its kiel kielvj laishram legends moba oinam pizaña player reniel revenant roster signings six xspark",
+      "ts": 1789999914.258864
+    },
+    {
+      "t": "5v5 aezu announced bidd completed completes duba has its joining kielvj kimyy kyle legends moba player players post previously revenant roster signings six xspark",
+      "ts": 1789999917.6977012
+    },
+    {
+      "t": "after call detailed ended explained has hideo how its june kojima months moving new over physint project publisher pulled reveals searching sony support three where xbox zoom",
+      "ts": 1789999921.200077
+    },
+    {
+      "t": "12 2026 28 29 8217 aichi asian brings compete eight expo field final finals games japan medals mobile nagoya national preparing pubg september set sky teams together",
+      "ts": 1789999924.8349543
     }
   ]
 }
