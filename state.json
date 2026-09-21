@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/09/open-beta-for-splitgate-receives-extension/",
-    "https://thebusinessofesports.com/2021/09/09/__trashed-28/",
-    "https://thebusinessofesports.com/2021/09/09/fubotv-to-combine-streaming-services-with-free-to-play-games-and-fanview-live-stats/",
-    "https://thebusinessofesports.com/2021/09/08/tetris-beat-available-now-on-the-apple-arcade/",
-    "https://thebusinessofesports.com/2021/09/08/qlash-and-hyperx-announce-partnership/",
     "https://thebusinessofesports.com/2021/09/08/global-esports-executive-summit-held-in-south-korea/",
     "https://thebusinessofesports.com/2021/09/08/krafton-shares-plans-for-investments-into-indias-esports-ecosystem/",
     "https://thebusinessofesports.com/2021/09/08/by-2027-the-global-social-gaming-market-will-be-worth-31-6b/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26322/ninjala-2-retains-its-squishy-cute-charm-while-adding-multiplayer-co-op",
     "https://www.invenglobal.com/articles/26321/try-a-demo-get-a-gacha-draw-toei-games-makes-tgs-debut-with-3-distinct-indie-titles",
     "https://www.invenglobal.com/articles/26320/now-mobile-gets-ai-upscaling-too-imagination-unveils-nsr",
-    "https://www.invenglobal.com/articles/26318/krafton-files-trademark-for-the-bird-that-drinks-tears-game-windless-the-first-king"
+    "https://www.invenglobal.com/articles/26318/krafton-files-trademark-for-the-bird-that-drinks-tears-game-windless-the-first-king",
+    "https://www.invenglobal.com/articles/26319/91-metascore-trails-in-the-sky-the-2nd-gains-massive-momentum",
+    "https://www.invenglobal.com/articles/26317/castlevania-returns-free-demo-for-castlevania-belmonts-curse-coming-october-1",
+    "https://www.invenglobal.com/articles/26293/last-epoch-director-shares-message-promising-better-korean-localization",
+    "https://www.invenglobal.com/articles/26294/witchbrook-offers-a-calm-intricate-hands-on-experience-of-magic-school-life",
+    "https://www.invenglobal.com/articles/26291/zozo-and-the-lost-dreams-to-exhibit-at-tgs-2026"
   ],
   "title_hashes": [
-    "5670323c8d29d35bec6ae25b0bd0739b",
-    "022b1cb7e1ec724b4555d541f338db8c",
-    "820a23a8544bb6e146f4eb2231fe4ab0",
-    "8d0e3f35540a2c2eae4851e6bca70105",
-    "086f5e442c336479b7736b01b3c7584e",
     "fcb543f7774a967968a657c75433426a",
     "bf644d7c5d20e82be549ccee003702ce",
     "9443edb3029265950c85bc1b1ffa3c0a",
@@ -16001,7 +15996,12 @@
     "2a4e1b68795411f7f799ff3ef3952be4",
     "8c5f16bd65f6933cdf882dcbcda6b284",
     "0997f517e97161aea4a88745e6f1c67f",
-    "4e05725c70f40e8b55cf24ffd6c8bc26"
+    "4e05725c70f40e8b55cf24ffd6c8bc26",
+    "1bfec0d68b97e49643a2ba6c1ad75c8e",
+    "de304603ff0cac4af7809561a585f6ae",
+    "b3a6aec8ed0841a38b308c920c430e9e",
+    "95a477834af0c4e5e62d1d2fe697efc3",
+    "17908b86ddd0ffc000fa1474bb28d10a"
   ],
   "transfers": {
     "pages": {
@@ -21004,6 +21004,26 @@
     {
       "t": "18th application based been bird confirmed drinks filed files first game has its king kiprisit krafton related tears that trademark windless",
       "ts": 1789999786.56589
+    },
+    {
+      "t": "13zeus 14dynasty 15trails 2 2nd 2the 91 arrogance complete edition gains game god massive metascore momentum rankingsi1onimusha remaster rhapsody sky sword top trails warriors way weekly zephyr",
+      "ts": 1789999792.428552
+    },
+    {
+      "t": "1 available belmont castlevania coming curse demo free its konamikonami kor new nintendo october ps5 release returns series steam supporting switch title will xbox",
+      "ts": 1789999795.8786645
+    },
+    {
+      "t": "21 5 ahead announced attention better closer developers director epoch game has its korean last localization mes message mike pay promising released season september shares that titled video will",
+      "ts": 1789999799.4464023
+    },
+    {
+      "t": "calm chucklefishchucklefish demo developer experience former hands hosted intricate its known life magic new offers publisher school session starbound stardew targetin title valley well witchbrook",
+      "ts": 1789999802.8960614
+    },
+    {
+      "t": "2026 agate agatered dreams dunes exhibit game games lost metroidvania platformer red show showcasing tgs their tokyo zozo",
+      "ts": 1789999806.3388138
     }
   ]
 }
