@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/13/resorts-world-las-vegas-partners-with-darkzero-esports/",
-    "https://thebusinessofesports.com/2021/09/13/tim-sweeney-attacks-apples-latest-safety-initiatives/",
-    "https://thebusinessofesports.com/2021/09/13/tesla-teams-up-with-pubg-mobile-to-bring-vehicles-to-video-games/",
-    "https://thebusinessofesports.com/2021/09/13/netflix-continues-push-into-gaming-with-executive-hire-mobile-games-and-rumored-playstation-partnership/",
-    "https://thebusinessofesports.com/2021/09/13/tencent-acquires-sumo-digital-launches-third-north-american-aaa-gaming-studio/",
-    "https://thebusinessofesports.com/2021/09/13/spokesperson-for-warner-bros-games-says-company-doesnt-plan-to-sell-tt-games-or-netherrealm-studios/",
-    "https://thebusinessofesports.com/2021/09/13/united-kingdom-based-org-celebrity-esports-being-liquidated/",
-    "https://thebusinessofesports.com/2021/09/13/mizzou-esports-forms-partnership-with-kc-pioneers/",
     "https://thebusinessofesports.com/2021/09/13/episode-148-video-gaming-startup-vorhaus-advice-miraculous-roblox-metaverse/",
     "https://thebusinessofesports.com/2021/09/13/new-zealands-tertiary-esports-league-tournament-officially-underway/",
     "https://thebusinessofesports.com/2021/09/13/three-gta-games-are-getting-remastered-for-nextgen-consoles/",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/26296/we-were-here-tomorrow-launches-october-20",
     "https://www.invenglobal.com/articles/26297/persona-4-revival-reveals-4-key-characters",
     "https://www.invenglobal.com/articles/26295/void-diver-to-officially-launch-in-january-2027",
-    "https://www.invenglobal.com/articles/26292/weiss-schwarz-releases-goddess-of-victory-nikke-vol2"
+    "https://www.invenglobal.com/articles/26292/weiss-schwarz-releases-goddess-of-victory-nikke-vol2",
+    "https://www.invenglobal.com/articles/26302/last-epoch-progression-guide-and-key-progression-stages-overview",
+    "https://www.invenglobal.com/articles/26283/what-makes-last-epoch-different-unique-systems-overview",
+    "https://www.invenglobal.com/articles/26282/last-epoch-how-to-fix-9-common-progression-hurdles-for-new-players",
+    "https://dotesports.com/hardware/reviews/gunnar-fallout-glasses-review-lucky-38-brotherhood-of-steel",
+    "https://dotesports.com/news/news/geng-vct-game-changers-pacific-winners",
+    "https://dotesports.com/stellar-blade/news/stellar-blade-bayonetta-outfits",
+    "https://dotesports.com/honkai/news/hsr-zzz-collab-reveal",
+    "https://gameriv.com/playstation-cut-physint-funding-over-zoom-hideo-kojima-reveals/"
   ],
   "title_hashes": [
-    "ff63173044608cf752a6300ae8585a0f",
-    "5d1b7d09a2e6ff4c0397db1b7f336ebe",
-    "312526306629603b191676a0b1d0fbaf",
-    "f621da2e898b104fbb2ce8fd360f63bd",
-    "1d2812311a1d4682c679335edc8092d3",
-    "275b5960627f768ab17f6ff47af3553e",
-    "895a4532df8ecb8592e0df29eb938119",
-    "b29fa862f99a41a0ccda8d2f2b605952",
     "299c0fdd21457e595077f5ec10334db2",
     "e6b3ee129162bc38c61d91839748c9b4",
     "9aa6b7b659524c2eaea2ab10012626eb",
@@ -16001,7 +15993,15 @@
     "4210a48b2c2db05f94d40eb40bb0eb4b",
     "d5171ce6a88b5e4697b560cefe380ba6",
     "21d86de12bf9c53ef6f41182d5f0749d",
-    "725caf0ae2472607ab1fdd06eda3258b"
+    "725caf0ae2472607ab1fdd06eda3258b",
+    "d33b9dce3a306ad6f6119c63b4e62455",
+    "208722a6fd7ef40f2287214206b4b1e6",
+    "9236a0b2d7f2f3124351bf90ee431b4d",
+    "5933bfc27cb88c679cf9f3d4aa2d3d62",
+    "4b7d7617a9e9b7720ec899d4303917c7",
+    "0040b1249b12751390e8717752ef094f",
+    "a094d40c7f182e1b51147d7d666eace5",
+    "6793bfe94a948be822e8f6cd2673fec5"
   ],
   "transfers": {
     "pages": {
@@ -21056,6 +21056,26 @@
     {
       "t": "19th 2 announced booster bushiroadbushiroad card game goddess nikke pack releases releasing schwarz tcg that trading victory vol weiss",
       "ts": 1789974915.066457
+    },
+    {
+      "t": "easy eye fallout gunnar have hours long review screen solution strain stylish time",
+      "ts": 1789974920.3117855
+    },
+    {
+      "t": "after changers crown fennel game gen pacific revenge run secures spectacular",
+      "ts": 1789974923.9127624
+    },
+    {
+      "t": "2 another bayonetta blade crossover eve four free gaming getting grows outfits ps5 stellar switch wardrobe",
+      "ts": 1789974927.413614
+    },
+    {
+      "t": "astra astral collab ellen eridu express honkai joe new rail star yao zenless zero zone",
+      "ts": 1789974930.91224
+    },
+    {
+      "t": "action broke but call caught cut decision developer during espionage funding guard has hideo his kojima news off over physint playstation return revealed reveals stil stop that would zoom",
+      "ts": 1789974934.3437688
     }
   ]
 }
