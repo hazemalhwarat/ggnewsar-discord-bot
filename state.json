@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/09/phil-spencer-says-xbox-games-work-well-on-steam-deck/",
-    "https://thebusinessofesports.com/2021/09/09/google-reportedly-has-a-plan-to-create-the-worlds-largest-gaming-platform/",
-    "https://thebusinessofesports.com/2021/09/09/almost-8m-in-prizes-were-given-to-csgo-players-in-the-first-half-of-2021/",
-    "https://thebusinessofesports.com/2021/09/09/esports-arena-coming-to-butler-university/",
-    "https://thebusinessofesports.com/2021/09/09/dr-disrespect-announces-plans-to-sue-twitch/",
     "https://thebusinessofesports.com/2021/09/09/open-beta-for-splitgate-receives-extension/",
     "https://thebusinessofesports.com/2021/09/09/__trashed-28/",
     "https://thebusinessofesports.com/2021/09/09/fubotv-to-combine-streaming-services-with-free-to-play-games-and-fanview-live-stats/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26327/saudi-arabia-to-host-inaugural-kingdom-of-gaming-in-december",
     "https://www.invenglobal.com/articles/26326/yoo-young-jin-reaches-asl-semifinals-playing-like-this-wont-work-ill-sharpen-my-mindset",
     "https://www.invenglobal.com/articles/26325/yoo-young-jin-quells-the-typhoon-completes-reverse-sweep-to-reach-semifinals",
-    "https://www.invenglobal.com/articles/26323/satisfying-impact-and-dinosaurs-too-turok-origins"
+    "https://www.invenglobal.com/articles/26323/satisfying-impact-and-dinosaurs-too-turok-origins",
+    "https://www.invenglobal.com/articles/26324/why-saber-interactive-returned-to-the-origins-of-turok",
+    "https://www.invenglobal.com/articles/26322/ninjala-2-retains-its-squishy-cute-charm-while-adding-multiplayer-co-op",
+    "https://www.invenglobal.com/articles/26321/try-a-demo-get-a-gacha-draw-toei-games-makes-tgs-debut-with-3-distinct-indie-titles",
+    "https://www.invenglobal.com/articles/26320/now-mobile-gets-ai-upscaling-too-imagination-unveils-nsr",
+    "https://www.invenglobal.com/articles/26318/krafton-files-trademark-for-the-bird-that-drinks-tears-game-windless-the-first-king"
   ],
   "title_hashes": [
-    "65de75823a9e28ad5354c4a1f894d674",
-    "2de60280d45c7194fc34cbe1710e8587",
-    "e689c6ededa6f3db60b9e975d5942971",
-    "462eb7313aab5712e1f6ca60be21afd0",
-    "779c059706f72ca7b0197800c295ab9f",
     "5670323c8d29d35bec6ae25b0bd0739b",
     "022b1cb7e1ec724b4555d541f338db8c",
     "820a23a8544bb6e146f4eb2231fe4ab0",
@@ -16001,7 +15996,12 @@
     "d58b715e91d2dda3983bd06df8aaac8b",
     "dce4fa209b54e7fc818ad3c345977df1",
     "f166f35e9f55a928716e888cbdd14040",
-    "cb8f61a8d497f43c95d19480c764899b"
+    "cb8f61a8d497f43c95d19480c764899b",
+    "dee150d7d881bda1932eb544e6313601",
+    "2a4e1b68795411f7f799ff3ef3952be4",
+    "8c5f16bd65f6933cdf882dcbcda6b284",
+    "0997f517e97161aea4a88745e6f1c67f",
+    "4e05725c70f40e8b55cf24ffd6c8bc26"
   ],
   "transfers": {
     "pages": {
@@ -20984,6 +20984,26 @@
     {
       "t": "1997 dinosaur dinosaurs fewer franchise gamers hunter impact itself made name origins remember satisfying starting that though today too turok",
       "ts": 1789999766.7651489
+    },
+    {
+      "t": "1990s aliens blended dinosaurs fans fps interactive origins over remembered returned saber that title turok unique why",
+      "ts": 1789999772.4898608
+    },
+    {
+      "t": "2 2026 adding advance announced appe array charm cute floor games greeted invena its made multiplayer mystery ninjala opened retains right show shrouded squishy tgs titles until variety vast visitors well while wide",
+      "ts": 1789999775.985471
+    },
+    {
+      "t": "2026 3 appearance attendees booth chance debut demo distinct draw first gacha game games get had indie invenat its makes making own show standalone tgs titles toei tokyo try visit",
+      "ts": 1789999779.5648034
+    },
+    {
+      "t": "design firm gets has imagination mobile neural new now nsr powered renders resolution super technologies technologiesgpu technology that too unveiled unveils upscaling",
+      "ts": 1789999783.0263114
+    },
+    {
+      "t": "18th application based been bird confirmed drinks filed files first game has its king kiprisit krafton related tears that trademark windless",
+      "ts": 1789999786.56589
     }
   ]
 }
