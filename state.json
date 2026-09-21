@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/23/wichita-state-university-signs-partnership-deal-with-playfly-sports/",
-    "https://thebusinessofesports.com/2021/08/23/business-of-esports-weekly-news-365/",
-    "https://thebusinessofesports.com/2021/08/23/new-organization-within-facebook-reality-labs-is-making-a-big-move-into-the-metaverse/",
-    "https://thebusinessofesports.com/2021/08/23/u-sports-unveils-three-year-partnership-with-csl-esports/",
-    "https://thebusinessofesports.com/2021/08/23/bmw-reveals-companys-brand-new-gaming-chair/",
-    "https://thebusinessofesports.com/2021/08/23/reports-google-considered-buying-some-or-all-of-epic-games/",
     "https://thebusinessofesports.com/2021/08/23/twitch-and-cxmmunity-unveil-plans-for-second-season-of-hbcu-esports-league/",
     "https://thebusinessofesports.com/2021/08/22/100-thieves-unveils-collaboration-with-gucci/",
     "https://thebusinessofesports.com/2021/08/22/allied-esports-completes-sale-of-wpt-announces-resignation-of-frank-ng/",
@@ -7999,14 +7993,15 @@
     "https://insider-gaming.com/sony-patent-could-turn-ps5-controllers-into-payment-devices/",
     "https://traxion.gg/porsche-esports-supercup-2026-charlie-collins-makes-last-lap-pass-to-win/",
     "https://traxion.gg/motorsport-uk-backed-british-f4-esports-championship-returns-for-2026/",
-    "https://gameriv.com/bungie-plans-to-bring-back-destiny-2s-vaulted-campaigns-and-raids-to-rebuild-player-trust/"
+    "https://gameriv.com/bungie-plans-to-bring-back-destiny-2s-vaulted-campaigns-and-raids-to-rebuild-player-trust/",
+    "https://gameriv.com/bungie-says-marathon-will-evolve-beyond-its-extraction-shooter-genre-constraints/",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xSE51a08xU1NyOGkzLVp0RXQzLWpvbWVNVGE0UjFvZjJxQU9XT2g1X2l0eTVsNHZ2MDMxVU5ydUI0dTN5RWFQYm1jSGh4bGRnTk83aFBhNkl2VkpDb21HamR4RlptU3J0NXhERFB3?oc=5",
+    "https://www.global-esports.news/call-of-duty/call-of-duty-billions-are-made-every-year-from-cheats-activision-reveals-a-staggering-figure/",
+    "https://www.hotspawn.com/dota2/news/xtreme-gaming-are-back-playtimes-disastrous-debut-pgl-wallachia-season-9-day-3-recap",
+    "https://www.hotspawn.com/fortnite/news/fortnite-birthday-cake-locations",
+    "https://www.hotspawn.com/league-of-legends/news/t1-gangnam-base-camp"
   ],
   "title_hashes": [
-    "974025d34af5a5d8c4c73ab3c6183b4e",
-    "a7020a1ef6e9c246999d084e1af6b8c2",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "2d80235067ee148741db3ddc996dbf3c",
-    "cdace9f04095419d9d25bc7515194ed4",
     "fe0cbed9476b281ff43c62d8fcd09ab1",
     "f5a4a98c7c9e38f8e7ab9a40dc7c3413",
     "094f71babd3589b5bd4c689586c9662a",
@@ -16001,7 +15996,12 @@
     "0a5c2dcbc343f40e314999326b0e16c5",
     "0993e7c510314850282c4feba2a31aa3",
     "a872738787860e7a1b558e16500b99a3",
-    "a094b21007af60b4c0ab00a0d4713363"
+    "a094b21007af60b4c0ab00a0d4713363",
+    "9cbcdca2dedc39cb5fd388e4243fc6aa",
+    "ecb2226baf16613dd7697e6e52241e66",
+    "e46c3b0b4891449682687422c6428b2f",
+    "049a4a8fb6bf6b723c253b12786b0ac3",
+    "4fc4405528a2f904a97ee3b021430d51"
   ],
   "transfers": {
     "pages": {
@@ -21228,6 +21228,26 @@
     {
       "t": "2 acknowledging announced back bring bungie campaigns damaged destinations destiny has parts past plans player players preparing raids rebuild removing reopen restore studio that them trust vaulted",
       "ts": 1790018857.72714
+    },
+    {
+      "t": "beyond bungie choice constraints current deeper evolve expand experience extraction formula game genre giving how into its marathon more offer plans players says shooter studio survival than they wants will",
+      "ts": 1790018863.7435465
+    },
+    {
+      "t": "2027 ecosystem fragster lcp nbsp opens riot",
+      "ts": 1790018868.963352
+    },
+    {
+      "t": "3 9 back continue day debut disastrous ended first gaming happened has here home meaningful more pgl playoffs playtime recap season sent team teams third two utter wallachia what xtreme yandex",
+      "ts": 1790018872.4694583
+    },
+    {
+      "t": "all birthday brand cake celebrate event every fortnite get handful happens has its locations map minor new now quests right started this through where year",
+      "ts": 1790018875.9916096
+    },
+    {
+      "t": "3 8217 base branding cafe camp close esports gangnam getting headquarters its located minutes new october open ready sinnonhyeon soft station t1 team third two under",
+      "ts": 1790018879.505859
     }
   ]
 }
