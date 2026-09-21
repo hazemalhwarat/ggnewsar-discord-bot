@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/23/twitch-and-cxmmunity-unveil-plans-for-second-season-of-hbcu-esports-league/",
-    "https://thebusinessofesports.com/2021/08/22/100-thieves-unveils-collaboration-with-gucci/",
-    "https://thebusinessofesports.com/2021/08/22/allied-esports-completes-sale-of-wpt-announces-resignation-of-frank-ng/",
-    "https://thebusinessofesports.com/2021/08/22/harena-data-unveils-new-project-announces-advertising-deal-with-cinemedia/",
-    "https://thebusinessofesports.com/2021/08/22/report-indicates-chinas-gaming-market-will-be-worth-more-than-70b-by-2025/",
-    "https://thebusinessofesports.com/2021/08/21/defi11-raises-3-5m-in-latest-round-of-fundraising/",
-    "https://thebusinessofesports.com/2021/08/21/new-report-indicates-there-are-425m-gamers-in-china/",
     "https://thebusinessofesports.com/2021/08/21/csl-esports-partners-with-washington-state-interscholastic-activities-association/",
     "https://thebusinessofesports.com/2021/08/21/juventus-soccer-team-making-waves-in-the-world-of-nfts/",
     "https://thebusinessofesports.com/2021/08/21/ea-buys-playdemic-from-warnermedia-for-1-4b/",
@@ -7999,16 +7992,16 @@
     "https://www.global-esports.news/call-of-duty/call-of-duty-billions-are-made-every-year-from-cheats-activision-reveals-a-staggering-figure/",
     "https://www.hotspawn.com/dota2/news/xtreme-gaming-are-back-playtimes-disastrous-debut-pgl-wallachia-season-9-day-3-recap",
     "https://www.hotspawn.com/fortnite/news/fortnite-birthday-cake-locations",
-    "https://www.hotspawn.com/league-of-legends/news/t1-gangnam-base-camp"
+    "https://www.hotspawn.com/league-of-legends/news/t1-gangnam-base-camp",
+    "https://www.hotspawn.com/valorant/news/100-thieves-at-valorant-champions",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fbXFjUlc1ZjgzT3JFeWY0ckdHRTQ4V3B5bVB3aUItQ2FEbnVaNmtNSGh5d1ZITGxpNFlTMGFSeVpaS1p4TzFGVS0zNTV0eFVhVUdOaGRUTGRYeng0eXBPNnFMR1Y?oc=5",
+    "https://www.talkesport.com/news/fortnite/fortnite-mastery-monday-september-21-admin-panel-code-rewards/",
+    "https://www.talkesport.com/news/valorant/valorant-bubble-tea-viper-sage-the-alley/",
+    "https://www.talkesport.com/news/pubg-asia-stars-2026-controversy-krafton-apology/",
+    "https://www.talkesport.com/news/valorant/valorant-champions-2026-bundle-price/",
+    "https://www.talkesport.com/news/lisa-dualsense-controller-price-pre-order-release-date/"
   ],
   "title_hashes": [
-    "fe0cbed9476b281ff43c62d8fcd09ab1",
-    "f5a4a98c7c9e38f8e7ab9a40dc7c3413",
-    "094f71babd3589b5bd4c689586c9662a",
-    "ac1f4a49c803690fc1404ac463ed064d",
-    "372ebc05802f46d7f3b5e2aa623b2f0a",
-    "829486c586d29de5aa1c1917d242122f",
-    "a69f7ad1f92e0732a8580c79c9069d1d",
     "0098f9cfc329d176c34823b4ca48cff7",
     "226a4ee2c4b3bc3504d2a41157eaef4b",
     "46e0658120ddc149b72912b39df6a8ad",
@@ -16001,7 +15994,14 @@
     "ecb2226baf16613dd7697e6e52241e66",
     "e46c3b0b4891449682687422c6428b2f",
     "049a4a8fb6bf6b723c253b12786b0ac3",
-    "4fc4405528a2f904a97ee3b021430d51"
+    "4fc4405528a2f904a97ee3b021430d51",
+    "caca251bcca1b0f33973a044fe2e5109",
+    "f5864b60835b7bae2154184d50849de0",
+    "95d784b144fcf2bc932433d7bf22af5e",
+    "e3ecdf400b5b4f18b631fce051db37dd",
+    "30922f7556faa0e3ab016c5f69504e56",
+    "62235a4694c743072f0db5b941a6d0c0",
+    "c837f91865898d1b5d963972a05104d1"
   ],
   "transfers": {
     "pages": {
@@ -21248,6 +21248,26 @@
     {
       "t": "3 8217 base branding cafe camp close esports gangnam getting headquarters its located minutes new october open ready sinnonhyeon soft station t1 team third two under",
       "ts": 1790018879.505859
+    },
+    {
+      "t": "100 8217 been beginning champions conversation events ever ewc first game have how one part return roster since strike they thieves trophy unlocked valorant very won",
+      "ts": 1790018886.0484538
+    },
+    {
+      "t": "21 24 admin cheat code double dust fortnite free hours live locators mastery monday new panel post rewards sept september sprite two",
+      "ts": 1790018889.5237992
+    },
+    {
+      "t": "alley bubble can drinks edition fans germany get here inspired limited post sage tea teaming them try two valorant viper when where",
+      "ts": 1790018893.0818396
+    },
+    {
+      "t": "2026 accepted admitting after asia boycott case communication controversy failures full has korean krafton led player protection pubg responsibility rules sniping stars stream takes",
+      "ts": 1790018896.5871956
+    },
+    {
+      "t": "2 30 84 99 blackpink controller date designed details dualsense edition has launches limited lisa october open order orders pre price qua release revealed sony wireless",
+      "ts": 1790018900.1470487
     }
   ]
 }
