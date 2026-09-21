@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/17/eyebuydirect-unveils-new-line-of-gaming-glasses/",
-    "https://thebusinessofesports.com/2021/09/17/facebook-cloud-gaming-service-now-available-for-ios-users/",
-    "https://thebusinessofesports.com/2021/09/17/mountain-dew-unveils-new-project-with-courage/",
-    "https://thebusinessofesports.com/2021/09/17/episode-149-video-antares-gaming-celebrity-esports-content-vs-wins-faze-clan-dc-superheroes/",
-    "https://thebusinessofesports.com/2021/09/17/wondr-gaming-appoints-gareth-hill-as-senior-vice-president-of-global-head-of-partnerships/",
     "https://thebusinessofesports.com/2021/09/17/episode-149-antares-gaming-celebrity-esports-content-vs-wins-faze-clan-dc-superheroes/",
     "https://thebusinessofesports.com/2021/09/16/shonda-rhimes-to-create-vr-and-gaming-content-through-netflix-deal/",
     "https://thebusinessofesports.com/2021/09/16/fnatic-and-jack-links-team-up-for-the-beef-mode-challenge/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26282/last-epoch-beginner-guide-how-to-fix-9-common-progression-hurdles",
     "https://www.invenglobal.com/articles/26280/check-before-season-5-last-epoch-season-by-season-recap",
     "https://www.invenglobal.com/articles/26279/tgs-2027-to-open-on-september-16-running-for-5-days-again-next-year",
-    "https://www.invenglobal.com/articles/26278/devolver-digital-releases-two-new-titles-and-two-expansions-this-fall"
+    "https://www.invenglobal.com/articles/26278/devolver-digital-releases-two-new-titles-and-two-expansions-this-fall",
+    "https://www.invenglobal.com/articles/26277/t1-opens-3rd-t1-base-camp-esports-complex-cultural-space-in-gangnam",
+    "https://www.invenglobal.com/articles/26276/nexon-officially-launches-maplestory-escape-escape-room-cafe",
+    "https://www.invenglobal.com/articles/26275/ncsoft-releases-free-soundtrack-jung-in-collaboration-with-national-gugak-center",
+    "https://www.invenglobal.com/articles/26274/djmax-opens-ticket-sales-for-miracle-1010-starts-september-21-at-7-pm",
+    "https://insider-gaming.com/rocket-league-unreal-engine-6-2027/"
   ],
   "title_hashes": [
-    "324cf55ad4d40d53eacb74692a98a206",
-    "3fd6e76c45a0037930fd33a8aa3a4ae6",
-    "049ba990ba46a9c8060657c2e218290a",
-    "896ad1bd6787dec8946d834c689110c7",
-    "55e33180181a26a3d0412821ed599cff",
     "8ae7d542e3d06bfd62483953001461d6",
     "5e3ab825a6ac371da7c01472a9ae2e26",
     "336a4b9145756b3571d55f1325da6711",
@@ -16001,7 +15996,12 @@
     "3aeae5d36d26053943dd93c3b11ad0e6",
     "c28c84a0676bb9075916dbfd4d8e02ed",
     "5340529d00f3979df5f113d7cb6d1332",
-    "1ac61dc71e2a50cfbefc28b8b680682c"
+    "1ac61dc71e2a50cfbefc28b8b680682c",
+    "4777879fdd2ea8d5c421bfdf463563a4",
+    "7e305a6004dd70a034996d5a386270bb",
+    "c134f5e873e6b270b077a4ee803d225e",
+    "1a2f66ed611392dcb6741b8d638fb2bb",
+    "dd3ed4dc6fef5337ec756bdad0f07416"
   ],
   "transfers": {
     "pages": {
@@ -20968,6 +20968,26 @@
     {
       "t": "dates devolver digital digitalglobal expansi expansions fall four game global has including indie major market new officially publisher release releases targeting this titles two unveiled",
       "ts": 1789955114.5389304
+    },
+    {
+      "t": "3rd base camp complex cultural esports fans gangn gangnam hereinafter its level location new offline opens organization present soft space t1 t1global tbc third when will",
+      "ts": 1789955119.6215022
+    },
+    {
+      "t": "brings cafe creative escape flagship game into isang its launched launches maplestory nexon nexonin officially partnership physic room that universe",
+      "ts": 1789955123.0854132
+    },
+    {
+      "t": "album blossoming byung center ceos collaboration contemporary free gugak has hearts jin jung kim moo national ncsoft ncsoftncsoft orchestra park released releases soundtrack taek",
+      "ts": 1789955126.4889026
+    },
+    {
+      "t": "10 21 7 bae ceos chul concert djmax fandom flagship game geun global its large miracle neowiz offline opening opens park respect rhythm sales scale september seung starts tae targeting ticket",
+      "ts": 1789955129.8879342
+    },
+    {
+      "t": "2026 2027 6 8 begins championship chapter day engine era fans final game got launch league look new next post powered rlcs rocket unreal will world",
+      "ts": 1789955133.3125956
     }
   ]
 }
