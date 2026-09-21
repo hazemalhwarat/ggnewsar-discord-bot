@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/03/co-investor-partners-gives-freaks-4u-gaming-17-6m-investment/",
-    "https://thebusinessofesports.com/2021/09/03/xcloud-now-available-to-xbox-insiders/",
-    "https://thebusinessofesports.com/2021/09/03/new-information-revealed-about-motorsport-games-upcoming-racing-title/",
-    "https://thebusinessofesports.com/2021/09/03/powerz-raises-8-3m-in-latest-investment-round/",
-    "https://thebusinessofesports.com/2021/09/03/kambi-group-acquires-abios-for-17-5m-deal-could-eventually-be-worth-31-5m/",
     "https://thebusinessofesports.com/2021/09/02/esports-facility-breaks-ground-in-wappinger-falls/",
     "https://thebusinessofesports.com/2021/09/02/max-desmarais-named-cso-of-wondr-gaming/",
     "https://thebusinessofesports.com/2021/09/02/global-esports-federation-and-flare-networks-agree-to-partnership/",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/news/krafton-files-windless-the-first-king-trademark-for-the-bird-that-drinks-tears-game/",
     "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem",
     "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
-    "https://www.gamesindustry.biz/northern-forge-studios-and-runaway-play-lead-green-games-jam-awards-2026"
+    "https://www.gamesindustry.biz/northern-forge-studios-and-runaway-play-lead-green-games-jam-awards-2026",
+    "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
+    "https://europeangaming.eu/portal/top-prediction-markets-europe/",
+    "https://europeangaming.eu/portal/latest-news/2026/09/21/214494/entain-unlicensed-gambling-sponsorship-ban/",
+    "https://europeangaming.eu/portal/press-releases/2026/09/21/214485/gaming-realms-slingo-hot-roll-express/",
+    "https://europeangaming.eu/portal/press-releases/2026/09/21/214477/wazdan-slybet-bulgaria-egt-digital/"
   ],
   "title_hashes": [
-    "ca44e08cb051946288d147dc21241d77",
-    "ac113940842ad04418af817cc09ef190",
-    "47e02c352851fda7bd09206b548578fc",
-    "ace37262633be96a9b970a4c40a3114b",
-    "6e05dae3a8774e06bbccf12dab23c1d5",
     "395533a784ff37b7f4254a5709972820",
     "7b492d31fd955ca9facaf8123ac873ca",
     "7bf7d838233ab9a5007454d53f5377ee",
@@ -16001,7 +15996,12 @@
     "6a4fb16aae2e778f85b711b6fd4d0e29",
     "fa146ca6e71ca873ae8ed183c3e515e5",
     "8d7dd509d10c793a93050c856321481c",
-    "e8c44b0ccdced270c0c6045ed68c2d22"
+    "e8c44b0ccdced270c0c6045ed68c2d22",
+    "3f9acd2a706776f74e8d5d5e8064cc1f",
+    "d536f2461203ee39e9196cf824eb2b00",
+    "fc62ee97f27c31b69197c90038c6574c",
+    "d0a26ba02496ba9cf16a320f0f969929",
+    "0bbd19ccd0114130d423dcb53dac2b34"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "2026 achievements awards bfi developers development environmental forge game games green hosted jam last lead northern planet play playing presented recognising runaway southbank studios sustainable week",
       "ts": 1789999944.0859685
+    },
+    {
+      "t": "being biggest cancelled could couldn create didn hideo kojima list more physint possibly read selling sony think title understand why would",
+      "ts": 1789999949.6528711
+    },
+    {
+      "t": "2026 8 8230 90 ahead attention biggest blask brand captures data europe european far kalshi markets measured platforms polymarket post prediction shows smaller that top",
+      "ts": 1789999953.1009727
+    },
+    {
+      "t": "20 37 500 8217 8230 ban carry clubs cut down eleven entain government jobs league not post premier pressure proposed shar shares sponsors sponsorship take under unlicensed urged would",
+      "ts": 1789999956.4417362
+    },
+    {
+      "t": "8217 8230 brand brings collaboration express extending faster format games gaming hot king launches licensing post realms roll sequel show slingo that",
+      "ts": 1789999959.8454773
+    },
+    {
+      "t": "8230 adds already appeared bulgaria bulgarian deal digital egt elitbet euro first goes includes list live operator partners post slybet that via wazdan winbet",
+      "ts": 1789999963.2911642
     }
   ]
 }
