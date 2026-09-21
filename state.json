@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/19/scopely-invests-50m-in-omnidrone-pixel-toys-and-tag-games/",
-    "https://thebusinessofesports.com/2021/09/19/gamesquare-esports-continues-to-be-one-of-the-most-active-gaming-companies-in-north-america/",
-    "https://thebusinessofesports.com/2021/09/19/new-toronto-esports-venue-expected-to-be-privately-financed/",
-    "https://thebusinessofesports.com/2021/09/19/zoomph-agrees-to-partner-with-the-kansas-city-pioneers/",
-    "https://thebusinessofesports.com/2021/09/19/microsoft-reportedly-wants-to-bring-netflix-for-gamers-service-to-tvs/",
-    "https://thebusinessofesports.com/2021/09/19/british-esports-rebranding-tournament-event-scheduled-for-july-3rd/",
-    "https://thebusinessofesports.com/2021/09/17/gen-g-teams-up-with-toyota-expands-partnerships-with-mcdonalds-and-puma/",
     "https://thebusinessofesports.com/2021/09/17/eyebuydirect-unveils-new-line-of-gaming-glasses/",
     "https://thebusinessofesports.com/2021/09/17/facebook-cloud-gaming-service-now-available-for-ios-users/",
     "https://thebusinessofesports.com/2021/09/17/mountain-dew-unveils-new-project-with-courage/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/26288/line-next-and-com2us-holdings-form-next-market-partnership",
     "https://www.invenglobal.com/articles/26287/nc-to-hold-online-screening-for-astrae-oratio-on-the-21st",
     "https://www.invenglobal.com/articles/26286/cygames-opens-registration-for-shadowverse-esports-tournament",
-    "https://www.invenglobal.com/articles/26285/honkai-star-rail-version-46-update-arrives-september-28"
+    "https://www.invenglobal.com/articles/26285/honkai-star-rail-version-46-update-arrives-september-28",
+    "https://www.invenglobal.com/articles/26284/basic-concepts-of-build-crafting-in-last-epoch",
+    "https://www.invenglobal.com/articles/26283/what-makes-last-epoch-different-key-unique-systems-overview",
+    "https://www.invenglobal.com/articles/26281/basic-systems-guide-for-new-last-epoch-players",
+    "https://www.invenglobal.com/articles/26282/last-epoch-beginner-guide-how-to-fix-9-common-progression-hurdles",
+    "https://www.invenglobal.com/articles/26280/check-before-season-5-last-epoch-season-by-season-recap",
+    "https://www.invenglobal.com/articles/26279/tgs-2027-to-open-on-september-16-running-for-5-days-again-next-year",
+    "https://www.invenglobal.com/articles/26278/devolver-digital-releases-two-new-titles-and-two-expansions-this-fall"
   ],
   "title_hashes": [
-    "8c4a0686c9efc4e107add30c9df3b5ba",
-    "db60f87900c510f2c46b2f7f1ba3dacb",
-    "b02f572f379ab556ba708c3f577a84c6",
-    "f9260c50ae08ea3052e899d715154c28",
-    "f3d7ca42d508b926f8571e506a924717",
-    "07d9f1bdec5e214dfc4c31424deabd03",
-    "8e83830733f4bf775f77ce0e1dca82c0",
     "324cf55ad4d40d53eacb74692a98a206",
     "3fd6e76c45a0037930fd33a8aa3a4ae6",
     "049ba990ba46a9c8060657c2e218290a",
@@ -16001,7 +15994,14 @@
     "45cddaada7659daf07df98a318c407df",
     "2d4a8773ecbf9832d00343e0703779f7",
     "2fb19e368fe4d04ecc8006b612d8fbb0",
-    "b090c76648fbb6bdf53452a989a10866"
+    "b090c76648fbb6bdf53452a989a10866",
+    "d3d06874273ad414a167a278d2240fb0",
+    "0aec6aec646308e8b19a3eacd08ba68a",
+    "28fd6899537de609db72971a3e44bde2",
+    "3aeae5d36d26053943dd93c3b11ad0e6",
+    "c28c84a0676bb9075916dbfd4d8e02ed",
+    "5340529d00f3979df5f113d7cb6d1332",
+    "1ac61dc71e2a50cfbefc28b8b680682c"
   ],
   "transfers": {
     "pages": {
@@ -20948,6 +20948,26 @@
     {
       "t": "28 4 6 arrives beast before dance fantasy honkai hoyoversehoyoverse introducing its moonrise new officially rail rpg september space star stor update version will",
       "ts": 1789955095.9032373
+    },
+    {
+      "t": "basic build concepts crafting determining doesn end epoch equipping gear good last simply strength",
+      "ts": 1789955100.8866155
+    },
+    {
+      "t": "1 active can different epoch equip further into key last level makes overview playstyle same skill skills slots specialization specializationin systems them totally unique what you",
+      "ts": 1789955104.2765362
+    },
+    {
+      "t": "1 basic between character choose click creation creationwhen epoch first guide last legacy mode new non players season selection systems time will you",
+      "ts": 1789955107.6367812
+    },
+    {
+      "t": "16 2027 5 again announced association cesa computer days entertainment game has held inventhe next open organizer running schedule scheduled september show supplier tgs tokyo year",
+      "ts": 1789955111.1337206
+    },
+    {
+      "t": "dates devolver digital digitalglobal expansi expansions fall four game global has including indie major market new officially publisher release releases targeting this titles two unveiled",
+      "ts": 1789955114.5389304
     }
   ]
 }
