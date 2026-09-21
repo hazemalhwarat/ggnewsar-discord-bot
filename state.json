@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/03/assasins-creed-developer-creating-online-ps5-exclusive-game/",
-    "https://thebusinessofesports.com/2021/09/03/bud-light-secures-partnership-with-able-esports/",
-    "https://thebusinessofesports.com/2021/09/03/british-esports-association-joins-forces-with-dota-valkyries/",
-    "https://thebusinessofesports.com/2021/09/03/tumi-named-luggage-partner-of-evil-geniuses/",
-    "https://thebusinessofesports.com/2021/09/03/microsoft-unveils-gaming-for-inclusion-event/",
     "https://thebusinessofesports.com/2021/09/03/co-investor-partners-gives-freaks-4u-gaming-17-6m-investment/",
     "https://thebusinessofesports.com/2021/09/03/xcloud-now-available-to-xbox-insiders/",
     "https://thebusinessofesports.com/2021/09/03/new-information-revealed-about-motorsport-games-upcoming-racing-title/",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/news/revenant-xspark-moba-legends-roster-kielvj-aezu-duba-bidd/",
     "https://www.talkesport.com/news/revenant-xspark-moba-legends-5v5-roster-kielvj-aezu-duba-bidd/",
     "https://www.talkesport.com/news/hideo-kojima-sony-physint-zoom-call/",
-    "https://www.talkesport.com/news/pubg-mobile-asian-games-2026-12-teams-set-for-aichi-nagoya-finals/"
+    "https://www.talkesport.com/news/pubg-mobile-asian-games-2026-12-teams-set-for-aichi-nagoya-finals/",
+    "https://www.talkesport.com/news/tencent-ecs-asian-games-2026-esports/",
+    "https://www.talkesport.com/news/krafton-files-windless-the-first-king-trademark-for-the-bird-that-drinks-tears-game/",
+    "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem",
+    "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
+    "https://www.gamesindustry.biz/northern-forge-studios-and-runaway-play-lead-green-games-jam-awards-2026"
   ],
   "title_hashes": [
-    "ed2fd55a30251cbe4d569d4a3f1f6d41",
-    "0e36be9bf1a1013db5bc4eb6c7e4ad53",
-    "686b6522d1b5f2309dd695fab948bad2",
-    "5f941eba998ae97386a07c194b79bb3b",
-    "e825f8b0ab9e0b8e5c31b045f7eec802",
     "ca44e08cb051946288d147dc21241d77",
     "ac113940842ad04418af817cc09ef190",
     "47e02c352851fda7bd09206b548578fc",
@@ -16001,7 +15996,12 @@
     "9df8b853e44a4b8a45d222eafbbcd90e",
     "10112e811baf50798569113cf16c8d3a",
     "814cd9858f45c89541ab85bac3310dca",
-    "1e626607c25866a22874bfa134649618"
+    "1e626607c25866a22874bfa134649618",
+    "c52b186b5dd5169410e66a3cb0632c03",
+    "6a4fb16aae2e778f85b711b6fd4d0e29",
+    "fa146ca6e71ca873ae8ed183c3e515e5",
+    "8d7dd509d10c793a93050c856321481c",
+    "e8c44b0ccdced270c0c6045ed68c2d22"
   ],
   "transfers": {
     "pages": {
@@ -21144,6 +21144,26 @@
     {
       "t": "12 2026 28 29 8217 aichi asian brings compete eight expo field final finals games japan medals mobile nagoya national preparing pubg september set sky teams together",
       "ts": 1789999924.8349543
+    },
+    {
+      "t": "11 2026 20th across aichi all asian bringing competition deploy ecs equipment esports events games inspection its medal nagoya power real solution tencent will",
+      "ts": 1789999930.261115
+    },
+    {
+      "t": "8220 ambitious appears bird closer discovered drinks establishing fantasy files filing final first game identity its king krafton moving name newly project revealing rpg tears that trademark windless",
+      "ts": 1789999933.697009
+    },
+    {
+      "t": "5 5bn 69 8 activision anti billion call cheat cheating cited cites claimed claiming consider data duty games industry initiative manages more multiplayer online problem read recently ricochet significant studios team that very which",
+      "ts": 1789999937.144186
+    },
+    {
+      "t": "2026 30th anniversary badged celebrated convention days event five future game gaming itself japan largest longest nonstop opinion past play reality rsquo show showcase tokyo uncertain",
+      "ts": 1789999940.5671427
+    },
+    {
+      "t": "2026 achievements awards bfi developers development environmental forge game games green hosted jam last lead northern planet play playing presented recognising runaway southbank studios sustainable week",
+      "ts": 1789999944.0859685
     }
   ]
 }
