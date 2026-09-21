@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/07/monster-energy-partners-with-wolverhampton-wanderers/",
-    "https://thebusinessofesports.com/2021/09/07/huawei-unveils-findings-from-game-fest-campaign/",
-    "https://thebusinessofesports.com/2021/09/07/leyou-left-to-struggle-following-acquisition-by-tencent/",
-    "https://thebusinessofesports.com/2021/09/07/activision-focusing-solely-on-call-of-duty-franchise/",
-    "https://thebusinessofesports.com/2021/09/07/enthusiast-gaming-unveils-financial-results-for-q2-2021/",
     "https://thebusinessofesports.com/2021/09/07/aviagames-secures-40m-in-most-recent-investment-round/",
     "https://thebusinessofesports.com/2021/09/07/louis-vuitton-and-burberry-enter-the-nft-gaming-space/",
     "https://thebusinessofesports.com/2021/09/07/activision-blizzard-still-expecting-a-strong-quarter/",
@@ -7999,14 +7994,14 @@
     "https://dotesports.com/general/news/kojima-explains-sony-physint-xbox",
     "https://insider-gaming.com/team-liquid-qualify-for-worlds-2026-caedrel-hatewatch/",
     "https://insider-gaming.com/ea-fc-27-players-are-begging-ea-not-to-change-gameplay/",
-    "https://insider-gaming.com/ea-fc-27-has-a-half-naked-bikini-glitch/"
+    "https://insider-gaming.com/ea-fc-27-has-a-half-naked-bikini-glitch/",
+    "https://insider-gaming.com/team-falcons-win-rocket-league-world-championshiop-2026/",
+    "https://insider-gaming.com/virgin-media-o2-gta-6-pre-order-deal-daily-pay/",
+    "https://insider-gaming.com/mythic-achievement-might-be-xboxs-answer-to-playstations-platinum-trophy/",
+    "https://insider-gaming.com/stellar-blade-demo-switch-2/",
+    "https://insider-gaming.com/star-wars-galactic-racer-editions-pre-order-bonuses/"
   ],
   "title_hashes": [
-    "2811f87bbf411df6658cd52ed7131019",
-    "45aa04c67e6f0db5f71dbe7caa9921d5",
-    "1cf1278b1e1808aa52f6b540750371fc",
-    "feea0f7d065096369e039334a161141e",
-    "40d789c65d564f8aceb54d06660a3db1",
     "40f54fbcd7a62a81c921d15fd320b325",
     "eaa8b9355372a34d1a2adf043372a3a3",
     "80aaa1aa265d09eb626a2f88fc04ee6e",
@@ -16001,7 +15996,12 @@
     "ee55e762d8efece1e8911aa7b5c806ef",
     "f48266a504efb8764086e4db6d4f5e43",
     "3510375191f2a605eb75b1ffa3e17dd6",
-    "96f5ac05788ad8effaf9ffdfa5198e02"
+    "96f5ac05788ad8effaf9ffdfa5198e02",
+    "2d4c9bd60e011a20a966ffcab563d4e6",
+    "26af3f431f003e19be34d80f61d3ebc4",
+    "dab76586bbe22bfce31228600ac83c47",
+    "4a0d5df85b49e9b8fee656d31f12e444",
+    "016955e26db1c200a55c59f2c8cb0b54"
   ],
   "transfers": {
     "pages": {
@@ -21084,6 +21084,26 @@
     {
       "t": "27 8216 8217 almost appeared around bikini but clothes expected few first game glitch glitches half has having naked new one post walk women",
       "ts": 1789999866.2118416
+    },
+    {
+      "t": "2026 cement championship claim completed dominant falcons fort history league legacy made post rocket sunday team they victory wor world worth",
+      "ts": 1789999871.6286976
+    },
+    {
+      "t": "5 5p 6 back day deal gta has just kingdom media monthly o2 offers order pay pence per plan post pre set united virgin which will you",
+      "ts": 1789999875.1579576
+    },
+    {
+      "t": "8216 8217 achievement alternative answer been equivalent have might mythic owners platinum playstation post trophy wanting who xbox years",
+      "ts": 1789999878.5933948
+    },
+    {
+      "t": "2 ahead available before blade chance demo free game giving goes has how laun launch live nintendo november now post runs see stellar switch you",
+      "ts": 1789999882.0831394
+    },
+    {
+      "t": "all available bonuses details editions galactic important including order post pre prices racer star various wars",
+      "ts": 1789999885.4842246
     }
   ]
 }
