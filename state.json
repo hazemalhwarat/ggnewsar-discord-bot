@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/27/jetsynthesys-announces-acquisition-of-skyesports/",
-    "https://thebusinessofesports.com/2021/08/27/episode-146-video-college-esports-excellence-uc-irvine-playbook-esports-academics-vs-competition-college-esports-arenas/",
-    "https://thebusinessofesports.com/2021/08/27/plarium-teaming-up-with-esl-gaming/",
-    "https://thebusinessofesports.com/2021/08/27/roc-nation-sports-enters-the-world-of-gaming/",
-    "https://thebusinessofesports.com/2021/08/27/iabs-game-and-esports-board-welcomes-trivver-inc/",
     "https://thebusinessofesports.com/2021/08/26/episode-146-college-esports-excellence-uc-irvine-playbook-esports-academics-vs-competition-college-esports-arenas/",
     "https://thebusinessofesports.com/2021/08/26/live-play-mobile-launches-24-hour-casino-app/",
     "https://thebusinessofesports.com/2021/08/24/polygon-studios-launches-cricket-nft-platform/",
@@ -7999,14 +7994,14 @@
     "https://dotesports.com/destiny/news/destiny-2-content-unvaulting",
     "https://insider-gaming.com/nvidia-rtx-60-series-graphics-cards-reportedly-delayed-to-2028/",
     "https://insider-gaming.com/arena-breakout-girls-frontline-2-crossover-waifu/",
-    "https://insider-gaming.com/marathon-was-never-intended-to-replace-destiny-at-bungie/"
+    "https://insider-gaming.com/marathon-was-never-intended-to-replace-destiny-at-bungie/",
+    "https://insider-gaming.com/g2-esports-win-historic-20th-lec-title-with-win-over-mkoi/",
+    "https://insider-gaming.com/bungie-is-not-done-with-destiny-as-studio-unveils-next-chapter/",
+    "https://insider-gaming.com/playstation-wallet-credits-feature-surfaces-again-online/",
+    "https://insider-gaming.com/paramount-settles-lawsuits-against-warner-bros/",
+    "https://insider-gaming.com/pro-clubs-ea-fc-27/"
   ],
   "title_hashes": [
-    "caaf975dc465cacfc75cf79db2eabdc9",
-    "95e89dfeef5d803b4e06f95646032d8b",
-    "e57918d664c7b7707859884c9d04985d",
-    "ee215d26cabec5d5963f3d7e81d646da",
-    "32b027fb7473ae08bef4d947030a2c6b",
     "6d15185aecbfbf743a59eab8c9177276",
     "27e85630ed1239dc70365a0a6b953225",
     "eac169edbf26d5b3fafd770a0031cc28",
@@ -16001,7 +15996,12 @@
     "fc80bb366623d11cceb8784a938d591d",
     "dc39648a9eb7a13a97a445cffd8f4924",
     "36c9a4cade0915168e8a57e4bfb34c7e",
-    "6b5bcf31a7abc01413917ec1f703a7dd"
+    "6b5bcf31a7abc01413917ec1f703a7dd",
+    "d849a0b03b1dcc5366373831ce22015a",
+    "16fc1f178b8c26f4f5c163a9863c52f7",
+    "127cd976596d58a0ef0fb8a53c5b3054",
+    "244aa833564ca62bd3b3f0b23e46042b",
+    "0691b8cfa3a31ebac680f5a83e692ff1"
   ],
   "transfers": {
     "pages": {
@@ -21188,6 +21188,26 @@
     {
       "t": "8216 8217 bungi bungie crossing despite destiny has intended marathon meant never over post replace replacement revealed serve that timelines",
       "ts": 1790018817.1329472
+    },
+    {
+      "t": "0 2026 20th 3 all appeared claim esports first g2 historic insider its lec losing mkoi over playoffs post series swept title trophy win without",
+      "ts": 1790018822.7334726
+    },
+    {
+      "t": "2 8216 8217 ago bungie chapter core despite destiny development done ending future has its laid months next not out plans post remains studio unveils",
+      "ts": 1790018826.3043592
+    },
+    {
+      "t": "8216 8217 again appear credits details feature have here more new offering online playstation post purchases rewards some spotted surfaces users wallet",
+      "ts": 1790018829.8084564
+    },
+    {
+      "t": "12 8217 acquisition against antitrust app bros brought forward has lawsuit lawsuits major monday paramount purchase reported settled settles states step taken that warner",
+      "ts": 1790018833.6246672
+    },
+    {
+      "t": "27 appeared but clubs continues don first game gaming insider menus modes most one popular post pro rejigged show there",
+      "ts": 1790018837.2836456
     }
   ]
 }
