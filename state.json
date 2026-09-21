@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/13/honor-of-kings-tournament-expected-to-have-different-look/",
-    "https://thebusinessofesports.com/2021/09/13/faze-clan-unveils-partnership-with-mcdonalds/",
-    "https://thebusinessofesports.com/2021/09/13/tribe-gaming-renews-deal-with-incase-unveils-partnership-with-discord/",
-    "https://thebusinessofesports.com/2021/09/13/abios-forms-partnership-with-leovegas/",
-    "https://thebusinessofesports.com/2021/09/13/amd-and-valve-team-up-to-make-improvements-to-the-steam-deck/",
-    "https://thebusinessofesports.com/2021/09/13/team-singularity-and-blocksport-expand-on-partnership-to-launch-nft-series/",
     "https://thebusinessofesports.com/2021/09/13/resorts-world-las-vegas-partners-with-darkzero-esports/",
     "https://thebusinessofesports.com/2021/09/13/tim-sweeney-attacks-apples-latest-safety-initiatives/",
     "https://thebusinessofesports.com/2021/09/13/tesla-teams-up-with-pubg-mobile-to-bring-vehicles-to-video-games/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26304/tencent-esports-to-support-11-asian-games-events-with-ecs",
     "https://www.invenglobal.com/articles/26303/cfk-launches-autumn-promotion-on-steam-and-nintendo-switch",
     "https://www.invenglobal.com/articles/26301/lego-batman-legacy-of-the-dark-knight-releases-mayhem-collection-dlc",
-    "https://www.invenglobal.com/articles/26298/gwangju-hosts-standalone-kartrider-rush-tournament-for-second-consecutive-year"
+    "https://www.invenglobal.com/articles/26298/gwangju-hosts-standalone-kartrider-rush-tournament-for-second-consecutive-year",
+    "https://www.invenglobal.com/articles/26299/lenovo-ranks-51st-in-times-worlds-best-companies-list",
+    "https://www.invenglobal.com/articles/26300/29th-bucheon-international-comics-festival-draws-over-100000-visitors",
+    "https://www.invenglobal.com/articles/26296/we-were-here-tomorrow-launches-october-20",
+    "https://www.invenglobal.com/articles/26297/persona-4-revival-reveals-4-key-characters",
+    "https://www.invenglobal.com/articles/26295/void-diver-to-officially-launch-in-january-2027",
+    "https://www.invenglobal.com/articles/26292/weiss-schwarz-releases-goddess-of-victory-nikke-vol2"
   ],
   "title_hashes": [
-    "c0aa00ac950791ce716516c84db75dc1",
-    "f4438432458647de367aea1781648c92",
-    "60baaf3debf138e3e69f579f75b1a7f2",
-    "2be9f842c3bc75e0ff3c99a55ff27ed9",
-    "b3f3e15a82fff43c99db6432f3300114",
-    "98e82c52646bd9b0098e989576fe3562",
     "ff63173044608cf752a6300ae8585a0f",
     "5d1b7d09a2e6ff4c0397db1b7f336ebe",
     "312526306629603b191676a0b1d0fbaf",
@@ -16001,7 +15995,13 @@
     "76c4b99221afc2297cfa27dc74808781",
     "1c5f369f9969ba303e0f44e0334c8be5",
     "5e6b59fffd9092767b8eaa2876440415",
-    "43a2ea021dcd903b5956e7db54877a4a"
+    "43a2ea021dcd903b5956e7db54877a4a",
+    "7626f1e17f37425fbb4e28da9987f891",
+    "0a11f648adb24db52ef79b74435f4c3d",
+    "4210a48b2c2db05f94d40eb40bb0eb4b",
+    "d5171ce6a88b5e4697b560cefe380ba6",
+    "21d86de12bf9c53ef6f41182d5f0749d",
+    "725caf0ae2472607ab1fdd06eda3258b"
   ],
   "transfers": {
     "pages": {
@@ -21036,6 +21036,26 @@
     {
       "t": "17 2026 agencythe amp arena city consecutive culture esports ges grand gwangju hosts industry information integrated jeonnam kartrider october place prix promotion rush second special standalone take tournament will year",
       "ts": 1789974895.5004482
+    },
+    {
+      "t": "2026 51st best companies entered first globally lenovo lenovolenovo list magazine news placing ranking ranks time world",
+      "ts": 1789974900.8887742
+    },
+    {
+      "t": "000 100 21 29th agency announced bicof bucheon comics contents draws festival festivalthe fro held international komacon korea manhwa over september that visitors",
+      "ts": 1789974904.349739
+    },
+    {
+      "t": "20 2026 5 here launches october playstation release series steam tomorrow will xbox",
+      "ts": 1789974907.9036603
+    },
+    {
+      "t": "4 atlus characters details episode four has information key korea koreasega new persona publishing related revealed reveals revival rpg sega",
+      "ts": 1789974911.437693
+    },
+    {
+      "t": "19th 2 announced booster bushiroadbushiroad card game goddess nikke pack releases releasing schwarz tcg that trading victory vol weiss",
+      "ts": 1789974915.066457
     }
   ]
 }
