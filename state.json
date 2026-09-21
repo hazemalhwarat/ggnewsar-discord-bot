@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/07/zupee-raises-30m-in-series-b-funding-round/",
-    "https://thebusinessofesports.com/2021/09/07/dangal-games-launching-app-for-android-users/",
-    "https://thebusinessofesports.com/2021/09/07/cult-title-cuphead-turned-into-tabletop-board-game/",
-    "https://thebusinessofesports.com/2021/09/07/germany-is-not-the-place-you-want-to-be-if-youre-a-video-game-developer/",
-    "https://thebusinessofesports.com/2021/09/07/medal-tv-acquires-rawa-tv-in-seven-figure-deal/",
     "https://thebusinessofesports.com/2021/09/07/monster-energy-partners-with-wolverhampton-wanderers/",
     "https://thebusinessofesports.com/2021/09/07/huawei-unveils-findings-from-game-fest-campaign/",
     "https://thebusinessofesports.com/2021/09/07/leyou-left-to-struggle-following-acquisition-by-tencent/",
@@ -7999,14 +7994,14 @@
     "https://esportsinsider.com/2026/09/lcp-qualification-2027",
     "https://dotesports.com/arknights-endfield/news/arknights-endfield-banners",
     "https://dotesports.com/fortnite/guides/fortnite-persona-5-release-date-skins-price",
-    "https://dotesports.com/honkai/guides/honkai-star-rail-4-6-adds-cute-new-looks-for-evanescia-and-hyacine"
+    "https://dotesports.com/honkai/guides/honkai-star-rail-4-6-adds-cute-new-looks-for-evanescia-and-hyacine",
+    "https://dotesports.com/general/news/ninjala-2-open-world-co-op",
+    "https://dotesports.com/general/news/kojima-explains-sony-physint-xbox",
+    "https://insider-gaming.com/team-liquid-qualify-for-worlds-2026-caedrel-hatewatch/",
+    "https://insider-gaming.com/ea-fc-27-players-are-begging-ea-not-to-change-gameplay/",
+    "https://insider-gaming.com/ea-fc-27-has-a-half-naked-bikini-glitch/"
   ],
   "title_hashes": [
-    "34f73cb910a2999664e4ee09a39565af",
-    "96824f6fb086e6e5b0ea9b96aafbaf84",
-    "b41693fa1973171b013476cf9afc96cb",
-    "a90ddfa2929261e53680e41ed504b794",
-    "add5b710049632fc1162113b9c80d5da",
     "2811f87bbf411df6658cd52ed7131019",
     "45aa04c67e6f0db5f71dbe7caa9921d5",
     "1cf1278b1e1808aa52f6b540750371fc",
@@ -16001,7 +15996,12 @@
     "003fdac54accd28b8fc4b9550a281ed1",
     "6e7966db27d13ccb44473d55eab50ec2",
     "bf7408a132a097e56c7c9224b9339347",
-    "5fe4a50d0ecf7c913c81423f3d8267d9"
+    "5fe4a50d0ecf7c913c81423f3d8267d9",
+    "36b79366ca7f030ee001e1bf6aae424a",
+    "ee55e762d8efece1e8911aa7b5c806ef",
+    "f48266a504efb8764086e4db6d4f5e43",
+    "3510375191f2a605eb75b1ffa3e17dd6",
+    "96f5ac05788ad8effaf9ffdfa5198e02"
   ],
   "transfers": {
     "pages": {
@@ -21064,6 +21064,26 @@
     {
       "t": "4 6 adds cute embracing evanescia form her honkai hyacine looks new rail sakura star true yae",
       "ts": 1789999846.625822
+    },
+    {
+      "t": "2 2026 battle director ditches explains gungho kaneda motoki ninjala open pvp royale sequel tgs trades why world",
+      "ts": 1789999852.3633182
+    },
+    {
+      "t": "after downsize dropping feared forced funding hideo him his how kojima losing nearly physint playstation reveals sony staff studio withdrew",
+      "ts": 1789999855.8460038
+    },
+    {
+      "t": "0 20 2026 3 after caedrel championships complete dismantle dismantling flyquest generational has hatewatch lcs league legends liquid playoffs post qualified qualify summer team world worlds",
+      "ts": 1789999859.2331102
+    },
+    {
+      "t": "27 begging beginning change constant conversation end gamepl gameplay happy its many not players post source until where will",
+      "ts": 1789999862.6923652
+    },
+    {
+      "t": "27 8216 8217 almost appeared around bikini but clothes expected few first game glitch glitches half has having naked new one post walk women",
+      "ts": 1789999866.2118416
     }
   ]
 }
