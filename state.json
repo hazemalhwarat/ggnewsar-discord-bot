@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/09/15/xbox-joins-forces-with-english-soccer-teams/",
-    "https://thebusinessofesports.com/2021/09/15/nazara-bets-big-on-real-money-gaming/",
-    "https://thebusinessofesports.com/2021/09/15/weekly-news-show-148b-roblox-activations-valorant-zedd-skins-free-dental-enthusiasts-gaming-acquisitions-cyberpunk-modders-tiffany-trophy/",
-    "https://thebusinessofesports.com/2021/09/15/lg-debuts-ultragear-gp9-gaming-speakers/",
-    "https://thebusinessofesports.com/2021/09/14/turner-sports-brings-season-two-of-underrated-to-tbs-and-bleacher-report/",
     "https://thebusinessofesports.com/2021/09/13/asian-electronic-sports-federation-signs-mou-with-games-ratings-and-administration-committee-of-south-korea/",
     "https://thebusinessofesports.com/2021/09/13/rcadia-world-to-open-on-august-19th-in-germany/",
     "https://thebusinessofesports.com/2021/09/13/automotive-brand-lexus-partners-with-100-thieves/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26315/pubg-mobile-announces-collaboration-with-one-punch-man",
     "https://www.invenglobal.com/articles/26312/tales-of-eternia-remastered-pre-orders-begin-september-23",
     "https://www.invenglobal.com/articles/26314/ncsoft-bullsone-host-chuseok-safe-driving-event",
-    "https://www.invenglobal.com/articles/26313/outerplane-opens-pre-registration-for-1st-service-transfer-anniversary"
+    "https://www.invenglobal.com/articles/26313/outerplane-opens-pre-registration-for-1st-service-transfer-anniversary",
+    "https://www.invenglobal.com/articles/26311/pebble-knights-showcases-co-op-gameplay-at-ges-2026",
+    "https://www.invenglobal.com/articles/26310/bloodstained-the-scarlet-engagement-reveals-new-trailer-at-tgs-2026",
+    "https://www.invenglobal.com/articles/26309/cinderia-unveils-2-player-co-op-mode-at-tgs-2026",
+    "https://www.invenglobal.com/articles/26308/mokasphere-releases-yandere-virus-on-steam",
+    "https://www.invenglobal.com/articles/26307/soop-to-host-2026-overwatch-meolmangjeon"
   ],
   "title_hashes": [
-    "59f8c3f248681675ab787acd1cd5ead2",
-    "d21922eb04bd550b0170d759a53a6c1c",
-    "bb6b5362f10968197b64703020ca4ac0",
-    "b5fda688ab9c66d46bc5efb2f43f2cad",
-    "e3d4d84e941c43ef9e9e0dc39af0d8ee",
     "2929da211ee782e078c8a6d1b0c0419a",
     "efda17ff50d86f22ebe742758ab69b64",
     "70c7bc926b16cbd21350cb6230dcc429",
@@ -16001,7 +15996,12 @@
     "db6de7cc8dc99facbc212ccee2cf7676",
     "bf5cb7d149bf2ed51ffda54259c88cf5",
     "9e7d691eded61fe3a23593055596b6d9",
-    "f832c4c29acda6e79ecf8d7eaf0edbd5"
+    "f832c4c29acda6e79ecf8d7eaf0edbd5",
+    "4dc5076ba94627eac500d76a02b92b75",
+    "b0d296b17037a9b64288ed00e155f482",
+    "1c84b640a112b280d99d8a549b611a92",
+    "2fd1fc099aed09c64b29426edfa273b2",
+    "83f5b53a1d644408f037ed95d4fde66d"
   ],
   "transfers": {
     "pages": {
@@ -20996,6 +20996,26 @@
     {
       "t": "1st 2 anime anniversary bunny develops its major9 major9to mark moon opens operates outerplane party pre registration rpg running september service transfer which",
       "ts": 1789974856.0979266
+    },
+    {
+      "t": "0 1 2 2026 5 action also esports fiftyone game gameplay ges its knights pebble percent percentfiftyone player recently ren roguelike seoul showcased showcases unveiling update while",
+      "ts": 1789974861.6010509
+    },
+    {
+      "t": "1 17th 2026 artplay aspects bloodstained engagement game new releasing revealed reveals scarlet series showcased tgs title trailer",
+      "ts": 1789974865.1134107
+    },
+    {
+      "t": "2 2026 action cinderia fantasy game its mode myacg new player roguelite show studiodark tgs tokyo unveiled unveils",
+      "ts": 1789974868.6212957
+    },
+    {
+      "t": "4 announced game globally horror launched mokasphere mokaspheremokasphere online releases steam that virus yandere",
+      "ts": 1789974872.1546154
+    },
+    {
+      "t": "2026 24 across compete four host hosting invitational meolmangjeon overwatch soop soopsoop streamers teams where will",
+      "ts": 1789974875.730798
     }
   ]
 }
