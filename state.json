@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/27/michael-lee-named-vp-of-gaming-for-fansunite/",
-    "https://thebusinessofesports.com/2021/08/27/swapxi-becomes-latest-company-to-enter-defi-ecosystem/",
-    "https://thebusinessofesports.com/2021/08/27/u-sports-gaming-hosts-valorant-tournament/",
-    "https://thebusinessofesports.com/2021/08/27/99math-secures-1m-from-investors/",
-    "https://thebusinessofesports.com/2021/08/27/girlgamer-esports-festival-partners-with-charlotte-tilbury/",
     "https://thebusinessofesports.com/2021/08/27/jetsynthesys-announces-acquisition-of-skyesports/",
     "https://thebusinessofesports.com/2021/08/27/episode-146-video-college-esports-excellence-uc-irvine-playbook-esports-academics-vs-competition-college-esports-arenas/",
     "https://thebusinessofesports.com/2021/08/27/plarium-teaming-up-with-esl-gaming/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26330/g2-esports-wins-record-20th-lec-title-with-sweep-of-movistar-koi",
     "https://www.invenglobal.com/articles/26329/krafton-takes-full-responsibility-for-pubg-asia-stars-tournament-controversy",
     "https://esportsinsider.com/2026/09/team-liquid-signing-wisper",
-    "https://dotesports.com/neverness-to-everness/news/all-current-future-banners-in-neverness-to-everness"
+    "https://dotesports.com/neverness-to-everness/news/all-current-future-banners-in-neverness-to-everness",
+    "https://dotesports.com/pokemon/news/pikachu-goes-to-space-pokemon-launches-esa-collaboration-for-world-space-week",
+    "https://dotesports.com/destiny/news/destiny-2-content-unvaulting",
+    "https://insider-gaming.com/nvidia-rtx-60-series-graphics-cards-reportedly-delayed-to-2028/",
+    "https://insider-gaming.com/arena-breakout-girls-frontline-2-crossover-waifu/",
+    "https://insider-gaming.com/marathon-was-never-intended-to-replace-destiny-at-bungie/"
   ],
   "title_hashes": [
-    "871d3f08626582371ff79e96c3398fef",
-    "e61b406b65addfaf8a2c2e742ee6d689",
-    "ee3b189fe5e0f42a744c7b8d069707ae",
-    "a2de120383031487fa1df5d7845ee367",
-    "1ef5133d265fd43aacbf55691c2f2e8d",
     "caaf975dc465cacfc75cf79db2eabdc9",
     "95e89dfeef5d803b4e06f95646032d8b",
     "e57918d664c7b7707859884c9d04985d",
@@ -16001,7 +15996,12 @@
     "875f6b7e8eb11ce6c22b4e0b7c57ad96",
     "b1ee6e72a2cceae2218590b2ff9c1ac2",
     "42aa8f64785d5eb25d6d3fb6c25879b8",
-    "4ba86c38fb7879fb952d0b4ca3150ac8"
+    "4ba86c38fb7879fb952d0b4ca3150ac8",
+    "429d0986a94c0e5d5cc4122373e33023",
+    "fc80bb366623d11cceb8784a938d591d",
+    "dc39648a9eb7a13a97a445cffd8f4924",
+    "36c9a4cade0915168e8a57e4bfb34c7e",
+    "6b5bcf31a7abc01413917ec1f703a7dd"
   ],
   "transfers": {
     "pages": {
@@ -21168,6 +21168,26 @@
     {
       "t": "all annulith banners character current everness future neverness prepare save upcoming weapon",
       "ts": 1790018796.8256068
+    },
+    {
+      "t": "collaboration esa goes launches palkia pikachu pokémon saw space there they think week world you",
+      "ts": 1790018802.864333
+    },
+    {
+      "t": "2 back bring bungie campaigns destinations destiny done fate guardians make not own promises raids their vaulted",
+      "ts": 1790018806.4284675
+    },
+    {
+      "t": "2028 60 according again appear been cards delayed gen graphics hardware have into known leaker next nvidia post reportedly rtx series",
+      "ts": 1790018809.9840128
+    },
+    {
+      "t": "2 8217 another arena becomes breakout bringing content crossover ecosystem frontlin frontline getting girls into mobile post shooter waifu",
+      "ts": 1790018813.553442
+    },
+    {
+      "t": "8216 8217 bungi bungie crossing despite destiny has intended marathon meant never over post replace replacement revealed serve that timelines",
+      "ts": 1790018817.1329472
     }
   ]
 }
