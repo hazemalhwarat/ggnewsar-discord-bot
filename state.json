@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/18/envy-gaming-named-a-sponsor-of-gnf/",
-    "https://thebusinessofesports.com/2021/08/18/nelson-gonzalez-and-frank-azor-join-gamecrafts-board-of-directors/",
-    "https://thebusinessofesports.com/2021/08/18/draftkings-set-to-acquire-golden-nugget-online-gaming-for-1-56b/",
-    "https://thebusinessofesports.com/2021/08/18/riot-expands-investment-in-chinese-esports-ecosystem-with-plans-to-open-a-studio-in-shanghai/",
-    "https://thebusinessofesports.com/2021/08/18/ariana-grande-teams-up-with-fortnite-for-rift-tour-concert-series-and-in-game-activations/",
     "https://thebusinessofesports.com/2021/08/18/buff-technologies-becomes-first-gaming-company-listed-on-tel-aviv-stock-exchange/",
     "https://thebusinessofesports.com/2021/08/18/embracer-group-set-to-acquire-crazylabs/",
     "https://thebusinessofesports.com/2021/08/18/reports-lcs-agrees-to-seven-year-partnership-with-ftx/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26332/poppy-playtime-spinoff-escape-from-playtime-gets-october-release-date",
     "https://www.vlr.gg/757970/shopify-rebellion-black-allows-nature-to-explore-options",
     "https://www.vlr.gg/757962/loud-adds-balax-as-analyst-ahead-of-champions-shanghai",
-    "https://www.vlr.gg/757961/thinkii-set-to-leave-pcific-esports"
+    "https://www.vlr.gg/757961/thinkii-set-to-leave-pcific-esports",
+    "https://insider-gaming.com/astral-ascent-switch-2/",
+    "https://insider-gaming.com/riot-opening-lcp-in-2027-with-routes-for-vcs-ljl-and-pcs/",
+    "https://insider-gaming.com/battlestate-games-publish-risky-games-need-them/",
+    "https://insider-gaming.com/envy-return-counter-strike-esports-3dmax-roster/",
+    "https://insider-gaming.com/injustice-3-leak-reveals-two-characters-newcomer/"
   ],
   "title_hashes": [
-    "87d69c4522b6171b5ac4e94efb7e2aaa",
-    "baf9ef19b1010821263248bf1fabe9ad",
-    "b17739f0bc2acffafc6cce2cbfb6b2e0",
-    "c86b1c0324f3b7b0a645d6409cf5c49c",
-    "5e3848014262f1fb99aab4da20984b30",
     "f6fa8ec639c0ea4887421e6711e2bd60",
     "c897caea5530ef4bfd4b916384090b1a",
     "d5c0caa34a2a25a30b2beca9a983f8fe",
@@ -16001,7 +15996,12 @@
     "80fd3c265c4e870a15c20ccef2634877",
     "d2017437ca59226ddbd706039bbfcb7e",
     "45e74728865d69af1ef2b7ea7a1031ef",
-    "99c3e12b98917e2edc3ceaacae652583"
+    "99c3e12b98917e2edc3ceaacae652583",
+    "00cc8cd83e54c272d61596b2d9f62c85",
+    "bfafc268f0c44d45d643250e09a08c9f",
+    "53b0b328c95aaf87d719dbcba77f9ec9",
+    "43364c6f4a5b3f8edf8b087ea15ac8da",
+    "65281527a9eb557cfbdb14e9eff77b2e"
   ],
   "transfers": {
     "pages": {
@@ -21236,6 +21236,26 @@
     {
       "t": "esports exits grows leave list org pcific set thinkii turkish",
       "ts": 1790030590.9534328
+    },
+    {
+      "t": "2 action appeared ascent astral been come first gam has insider its making more nintendo one out popular post rated recent roguelites switch taiwan way years",
+      "ts": 1790030596.380245
+    },
+    {
+      "t": "2027 allow announced format has lcp league legends ljl more new opening pcs post qualify riot routes teams vcs which will worlds",
+      "ts": 1790030599.7791054
+    },
+    {
+      "t": "8216 8217 battlestate because escape fame games industry invests more need needs now post publish right risky tarkov that them will",
+      "ts": 1790030603.4846046
+    },
+    {
+      "t": "3dmax after assuming been claimed control could counter envy esports five has hiatus post return roster strike that year",
+      "ts": 1790030606.979604
+    },
+    {
+      "t": "3 8216 8217 characters games has incoming injustice leak new newcomer one online post revealing reveals surfaced two which",
+      "ts": 1790030610.4072962
     }
   ]
 }
