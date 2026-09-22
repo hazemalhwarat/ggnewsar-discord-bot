@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/30/warner-bros-games-faces-uncertainty-following-discovery-warnermedia-merger/",
-    "https://thebusinessofesports.com/2021/06/30/nintendo-announces-partnership-with-high-school-esports-organization-playvs/",
-    "https://thebusinessofesports.com/2021/06/30/teravision-games-joins-blockchaink2s-amplify-alliance/",
-    "https://thebusinessofesports.com/2021/06/30/lamborghini-hosting-second-the-real-race-sim-driving-competition/",
-    "https://thebusinessofesports.com/2021/06/30/valve-reportedly-working-on-handheld-device/",
     "https://thebusinessofesports.com/2021/06/30/new-jersey-investing-200k-into-atlantic-city-for-esports-purposes/",
     "https://thebusinessofesports.com/2021/06/30/rivalry-announces-plans-to-go-public-on-toronto-stock-exchange-secures-22m/",
     "https://thebusinessofesports.com/2021/06/30/take-two-interactive-reports-great-results-for-2021-fiscal-year/",
@@ -7999,14 +7994,14 @@
     "https://gameriv.com/arc-raiders-targets-repeat-cheaters-item-duplication-and-economy-abuse/",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWS03dFg3WXdITFdxQ3F6NEotOVhTdm1MQy1jWTdSTUFNb1g2MHNCTGRXZDJvdG9ieGs0WkpLT1Y2eTBSUkhHS3F4cERhWnNvVFhKNkZyMlZEX2hIV2JuVE9Ib3FxOUp3WHdXMVFheEhURDM1UVlSYW5NNUlCUW5wZnpuUQ?oc=5",
     "https://www.hotspawn.com/valorant/news/valorant-patch-notes-13-06",
-    "https://www.hotspawn.com/call-of-duty/news/movistar-koi-jojopyun-2027"
+    "https://www.hotspawn.com/call-of-duty/news/movistar-koi-jojopyun-2027",
+    "https://www.hotspawn.com/counter-strike/news/vrs-shift-3",
+    "https://www.hotspawn.com/dota2/news/post-the-international-2026-ti15-roster-shuffle-tracker",
+    "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
+    "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars",
+    "https://www.talkesport.com/news/tez-ffmic-2026-fall-grand-finals/"
   ],
   "title_hashes": [
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "d6cb080e5165d81adf413285ca0ecc3c",
-    "134edba2bec8bcdadba4f38b68df021c",
-    "109b20de77e57973d4e2e11f3f0a43bf",
-    "b6b9ea2233a5a385d38f326628c1eebe",
     "5f0596fb68b41cf9dc70e275ed269bea",
     "bf4937efc09f2788f2c6fc190d745fb8",
     "b556ea05fc58f61ec1f3c8b049f9d7cf",
@@ -16001,7 +15996,12 @@
     "b0d30192e7ccade2e5ea4cf06258928a",
     "870f700090b22a46dac7447dbdecfe76",
     "d7326d9e758d9d175b36291480fea25a",
-    "96bfdef8c262612b5c0804cbccc8dbfb"
+    "96bfdef8c262612b5c0804cbccc8dbfb",
+    "bef8271510cb9e1d28f37159eae3ad61",
+    "e1562320deafad6af6750c01342595af",
+    "b8d743beafbc2bbc8ee477d38856834e",
+    "06bc42405e72c6595ae4cbea23f93f68",
+    "38eb883536595eb508e96923c3b4cae7"
   ],
   "transfers": {
     "pages": {
@@ -21188,6 +21188,26 @@
     {
       "t": "2027 8217 becoming canadian contract extends extension following his ibai jojopyun joseph keep koi llanos midlaner movistar next pyun reality roster same slowly who will wished year",
       "ts": 1790091893.6740541
+    },
+    {
+      "t": "1 2026 3 action another attracted been begin big collapse continue fall few has lead lineup luminosity major navi roster saw shift significant star starladder starseries studded teams this tier vrs week",
+      "ts": 1790091899.2715364
+    },
+    {
+      "t": "2 2026 all books changes confirmed dota entire here history international make massive moves post roster scene season set shuffle that ti15 time tracker upcoming year",
+      "ts": 1790091902.764487
+    },
+    {
+      "t": "268 activision amid announced another closure confirms cut cuts enacted franchise halo has imminent legendary news ninja ownership proposes rare restructure roles studio studios sweeping theory transferred transfers xbox",
+      "ts": 1790091906.4816399
+    },
+    {
+      "t": "all answer anymore been bets breaking different digital easy free going great guns has hedging independent its kind last mode more newly now over parent pillars playbook publisher read right secret since smiles sumo tencent there two very year",
+      "ts": 1790091910.012282
+    },
+    {
+      "t": "12 2026 26 27 bring fall ffmic final finals fire free grand india lan max more place pool prize schedule september stage take teams tez together top tournament will",
+      "ts": 1790091913.5419161
     }
   ]
 }
