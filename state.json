@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/12/new-research-shows-mobile-game-downloads-and-spending-rose-during-q1-of-2021/",
-    "https://thebusinessofesports.com/2021/08/12/remedy-teaming-up-with-505-games-for-new-control-title/",
-    "https://thebusinessofesports.com/2021/08/12/unified-esports-festival-recently-held-in-kansas-city/",
-    "https://thebusinessofesports.com/2021/08/12/new-vr-gaming-business-launches-in-minooka-illinois/",
-    "https://thebusinessofesports.com/2021/08/12/mclaren-racing-opens-uk-based-gaming-venue/",
     "https://thebusinessofesports.com/2021/08/12/cedar-fair-entertainment-co-planning-to-build-28m-esports-venue-in-northwestern-ohio/",
     "https://thebusinessofesports.com/2021/08/12/senator-chuck-schumer-trying-to-promote-investments-into-gaming-industry/",
     "https://thebusinessofesports.com/2021/08/12/bitcoin-vault-and-ese-entertainment-to-host-esports-talent-shows/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26370/nc-cultural-foundation-co-hosts-korea-social-value-festa",
     "https://www.invenglobal.com/articles/26367/vfive-games-hosts-chuseok-events-across-5-games",
     "https://www.invenglobal.com/articles/26368/blade-soul-neo-boost-server-sees-2000-surge-in-character-creation",
-    "https://www.invenglobal.com/articles/26369/kartrider-rush-launches-collaboration-with-alpha-drive-one"
+    "https://www.invenglobal.com/articles/26369/kartrider-rush-launches-collaboration-with-alpha-drive-one",
+    "https://www.invenglobal.com/articles/26366/splendid-89-tokyo-and-shin-denki-magical-girls-the-art-of-astraea-oratio",
+    "https://www.invenglobal.com/articles/26364/smilegate-future-lab-partners-with-seongnam-city-for-creative-education",
+    "https://www.invenglobal.com/articles/26363/kit-three-kingdoms-heroes-at-war-to-participate-in-steam-next-fest-starting-october-19",
+    "https://www.invenglobal.com/articles/26362/valofe-hosts-chuseok-events-across-major-titles",
+    "https://www.invenglobal.com/articles/26361/reinforcing-destiny-2-and-reviving-marathon-bungie-reveals-the-next-chapter"
   ],
   "title_hashes": [
-    "506c918e6708f9d9a96a9fb758014bf5",
-    "8057dda2fdbe632f1fe49470c60037e1",
-    "4b5f1833dea0c09adb3173449ff9a437",
-    "82243c5f8118b2a012277892def88ef7",
-    "5490833285464709af21dad2c7c30013",
     "41bae086f6ff3f668dd48d7f02e3b7dd",
     "afa083cd272488e36f8bb41d7af23bf7",
     "496033737968c2830a97354c575a13f9",
@@ -16001,7 +15996,12 @@
     "36990e37afe7091dfc33c7d180fcdb78",
     "899f2aec60e980f21f308f590f368034",
     "093db62bb9b9f74a69a0521753c1f1b8",
-    "da719eb74e8d7f65c85e29ed6e743eed"
+    "da719eb74e8d7f65c85e29ed6e743eed",
+    "70c0a81cbe12d7d56875859eb5b67e43",
+    "a57b8b24ba30560fd49fabcbb696cbec",
+    "8558e0d0dc3492e418e1c9b6f0c35744",
+    "50ed3eb0b526f772acae8727adf9de50",
+    "4b4eb04627b840df99e13ece74f78fea"
   ],
   "transfers": {
     "pages": {
@@ -21248,6 +21248,26 @@
     {
       "t": "22 alpha collaboration content drive featuring game its kartrider launches mobile nexonnexon one racing rush september updated",
       "ts": 1790057647.7835464
+    },
+    {
+      "t": "17 20 2026 89 art astraea denki developed dynamis girls held invenat its magical makuhari messe new officially one oratio presented september shin splendid subculture tgs title tokyo",
+      "ts": 1790057653.4386623
+    },
+    {
+      "t": "adults city creative education foundation future lab memorandum mou partners promote seongnam signed smilegate smilegatesmilegate understanding young youth",
+      "ts": 1790057656.8369622
+    },
+    {
+      "t": "19 amp developed end fest game heroes kingdoms kit kitetsukit launch mag next october official participate player press release single slated solo starting steam strategy three war",
+      "ts": 1790057660.2260966
+    },
+    {
+      "t": "22nd across announced celebrate chuseok events game games goonzu hold holida hosts including last major online operates origin that titles updates valofe valofevalofe will",
+      "ts": 1790057663.6686323
+    },
+    {
+      "t": "2 22 announced apology bungie chap chapter current destiny future has issued its marathon next operation plan reform regarding reinforcing released reveals reviving september state studio titled titles video",
+      "ts": 1790057667.004252
     }
   ]
 }
