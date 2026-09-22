@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/07/07/new-report-shows-gaming-and-entertainment-can-benefit-the-future-of-healthcare/",
-    "https://thebusinessofesports.com/2021/07/07/dark-horse-comics-launches-new-division/",
-    "https://thebusinessofesports.com/2021/07/06/business-of-esports-tv-yougov-insights-heroes-of-the-storm/",
-    "https://thebusinessofesports.com/2021/07/06/hotwire-launches-new-fantasy-basketball-game/",
-    "https://thebusinessofesports.com/2021/07/06/logitech-g-and-partners-unveil-first-esports-event/",
     "https://thebusinessofesports.com/2021/07/06/four-class-action-lawsuits-against-cd-projekt-are-combining-into-one/",
     "https://thebusinessofesports.com/2021/07/06/vr-gaming-system-transforming-exercise-therapy-for-disabled-individuals/",
     "https://thebusinessofesports.com/2021/07/06/texas-high-school-upgrades-esports-lab-with-grant-from-national-guard/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26384/no-exception-for-gta-6-rockstar-releases-mod-guidelines-across-all-titles",
     "https://www.invenglobal.com/articles/26382/smilegate-to-release-neon-abyss-2-on-october-8",
     "https://www.invenglobal.com/articles/26383/blade-soul-revolution-overhauls-balance-for-18-classes",
-    "https://www.invenglobal.com/articles/26360/calteon-1-ranks-1st-in-nine-consumption-new-server-alliances-emerge-after-god-selection"
+    "https://www.invenglobal.com/articles/26360/calteon-1-ranks-1st-in-nine-consumption-new-server-alliances-emerge-after-god-selection",
+    "https://www.invenglobal.com/articles/26359/enshrouded-reveals-10-full-launch-and-key-improvements",
+    "https://www.invenglobal.com/articles/26358/krafton-expands-recruitment-for-krafton-india-gaming-incubator-cohort-4",
+    "https://www.invenglobal.com/articles/26357/kakao-games-signs-mou-with-quasar-zone-for-chrono-odyssey-pc-optimization",
+    "https://www.invenglobal.com/articles/26356/netmarble-runs-special-chuseok-holiday-events-across-11-titles",
+    "https://www.invenglobal.com/articles/26355/yulchon-and-seoul-esports-association-sign-mou-for-esports-ecosystem-development"
   ],
   "title_hashes": [
-    "03b466825e918f6668a941a824bcd7c3",
-    "439ca64ed860dbc1f735b928f65761c8",
-    "d64bb7894becdfc8760b309c5236eb56",
-    "543c030f8dfa7f1e311a8f55b9ee0fa6",
-    "73835ad71c9ea406af3ba9eb494f3da0",
     "e358efa489f58062f10dd7316b65649e",
     "0e40719b645956134a902c3e6b1897ec",
     "0b4618bcc320c4355c31f0f4fa19b8a4",
@@ -16001,7 +15996,12 @@
     "edf5e081ae923239abdbc585bb700b6e",
     "50623b0a4b2671d094d59e2574bdaaba",
     "fa17513d1ab086b216daf9175a3eb11a",
-    "e9d69672cb5b60025239ce4f9e593669"
+    "e9d69672cb5b60025239ce4f9e593669",
+    "689648bf77428b1a94da23a278ab8fca",
+    "df5585d24c542e65678f20ccf37bb71b",
+    "06f031dc3fba3bb0f7fc1cc88fe1303e",
+    "665b80c4c241f553c1257c114d910a4d",
+    "43c22dc5d1dd01e3713b45163c49d92b"
   ],
   "transfers": {
     "pages": {
@@ -21064,6 +21064,26 @@
     {
       "t": "1 1st after alliances calteon consumption emerge god new nine ranks selection server sixth sol",
       "ts": 1790077021.1311953
+    },
+    {
+      "t": "0 1 15 2026 action enshrouded full games gamesahead has highlighting improvements keen key launch october released reveals rpg scheduled survival version videos",
+      "ts": 1790077027.1492577
+    },
+    {
+      "t": "22 4 began bui ceo cohort designed expands fourth gaming incubator india kigi kim krafton kraftonkrafton local participants program recruiting recruitment september time",
+      "ts": 1790077030.7516127
+    },
+    {
+      "t": "chrono data detailed driven environment establish forces games gameskakao has joined kakao mou odyssey optimization quasar signs zone",
+      "ts": 1790077034.3180988
+    },
+    {
+      "t": "11 22 across byung celebrate ceo chuseok events games holiday its kim kyu large launched national netmarble netmarblenetmarble popular providi runs scale september simultaneously special titles",
+      "ts": 1790077037.9529078
+    },
+    {
+      "t": "advisor association attorney choi development ecosystem esports gae lee min mou president senior seok seoul seung sign won woo yong yulchon",
+      "ts": 1790077041.6221373
     }
   ]
 }
