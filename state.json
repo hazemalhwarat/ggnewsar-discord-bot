@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/13/jonathan-durr-selected-to-head-up-wildlifes-third-independent-gaming-studio/",
-    "https://thebusinessofesports.com/2021/08/13/pakistan-getting-ready-to-host-the-countrys-first-national-esports-tournament/",
-    "https://thebusinessofesports.com/2021/08/13/semper-fortis-rocket-league-team-rebranded-as-smpr/",
-    "https://thebusinessofesports.com/2021/08/13/__trashed-11/",
-    "https://thebusinessofesports.com/2021/08/12/microsoft-continues-to-adapt-to-the-fast-growing-gaming-market/",
     "https://thebusinessofesports.com/2021/08/12/new-research-shows-mobile-game-downloads-and-spending-rose-during-q1-of-2021/",
     "https://thebusinessofesports.com/2021/08/12/remedy-teaming-up-with-505-games-for-new-control-title/",
     "https://thebusinessofesports.com/2021/08/12/unified-esports-festival-recently-held-in-kansas-city/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26376/genesis-war-mobile-adds-mercedes-frederick",
     "https://www.invenglobal.com/articles/26372/soop-to-broadcast-2026-gstl-finals-live-on-the-27th",
     "https://www.invenglobal.com/articles/26374/eos-black-introduces-soul-weapon-system",
-    "https://www.invenglobal.com/articles/26373/geng-unveils-2026-worlds-campaign-the-light-between-us"
+    "https://www.invenglobal.com/articles/26373/geng-unveils-2026-worlds-campaign-the-light-between-us",
+    "https://www.invenglobal.com/articles/26371/com2us-holdings-opens-steam-store-page-for-zenonia-2",
+    "https://www.invenglobal.com/articles/26370/nc-cultural-foundation-co-hosts-korea-social-value-festa",
+    "https://www.invenglobal.com/articles/26367/vfive-games-hosts-chuseok-events-across-5-games",
+    "https://www.invenglobal.com/articles/26368/blade-soul-neo-boost-server-sees-2000-surge-in-character-creation",
+    "https://www.invenglobal.com/articles/26369/kartrider-rush-launches-collaboration-with-alpha-drive-one"
   ],
   "title_hashes": [
-    "1cafb50739640c3de38e679dab7a3f89",
-    "d24eb5fdfbdaa66da894f3fcf5e0dcb3",
-    "ee8b63eea2014924d8cf10ac879a4e7f",
-    "1227f6ab0b9d4b70f0fb9e55a06b8579",
-    "7ec7be8b39b677494f1ea7376412b06b",
     "506c918e6708f9d9a96a9fb758014bf5",
     "8057dda2fdbe632f1fe49470c60037e1",
     "4b5f1833dea0c09adb3173449ff9a437",
@@ -16001,7 +15996,12 @@
     "17ed237eb2a4bac667159239e77accc6",
     "391d550f8d7d249ff5917b52d5c894f0",
     "67129a5838d8c96f6294ee2b6ed2ec65",
-    "12caf2bd583d5420f184ab40e00a50c9"
+    "12caf2bd583d5420f184ab40e00a50c9",
+    "0f7b6c4a7403208a340d2d24ea7570a3",
+    "36990e37afe7091dfc33c7d180fcdb78",
+    "899f2aec60e980f21f308f590f368034",
+    "093db62bb9b9f74a69a0521753c1f1b8",
+    "da719eb74e8d7f65c85e29ed6e743eed"
   ],
   "transfers": {
     "pages": {
@@ -21228,6 +21228,26 @@
     {
       "t": "2026 between campaign celebrate championship collaborative esports esportsgen gen has league legends light line musinsa qualifying uniform unveiled unveils world worlds",
       "ts": 1790057627.4928534
+    },
+    {
+      "t": "2 action begun com2us has hereinafter holdings holdingscom2us launch lost memories opens page preparations revealed rpg steam store version zenonia",
+      "ts": 1790057633.1555743
+    },
+    {
+      "t": "21 22 3rd coex cultural festa foundation foundationthe held hereinafter hosts korea organizer participated referred september social value",
+      "ts": 1790057636.6792893
+    },
+    {
+      "t": "22 5 across active announced celebrate chuseok community events five game games gamesvfive hosting hosts its mobile participating september that tit vfive",
+      "ts": 1790057640.8445194
+    },
+    {
+      "t": "000 2 amp announced approximately blade boost character compared creation creations day hereafter its ncblade neo opening previous sees server soul surge surged that",
+      "ts": 1790057644.2753003
+    },
+    {
+      "t": "22 alpha collaboration content drive featuring game its kartrider launches mobile nexonnexon one racing rush september updated",
+      "ts": 1790057647.7835464
     }
   ]
 }
