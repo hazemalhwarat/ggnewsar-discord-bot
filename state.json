@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/07/01/dr-disrespect-criticizes-underdeveloped-youtube-gaming/",
-    "https://thebusinessofesports.com/2021/07/01/motorsport-games-unveils-financial-results-for-q1-2021/",
-    "https://thebusinessofesports.com/2021/07/01/ea-believes-companys-gaming-boom-will-continue-into-2022/",
-    "https://thebusinessofesports.com/2021/07/01/loud-announces-partnership-with-piet/",
-    "https://thebusinessofesports.com/2021/07/01/philadelphia-76ers-2k-league-team-partners-with-zipchair/",
-    "https://thebusinessofesports.com/2021/07/01/most-new-nvidia-rtx-gaming-gpus-will-be-cryptocurrency-limited/",
     "https://thebusinessofesports.com/2021/07/01/latinx-in-gaming-launching-conexion-virtual-career-fair/",
     "https://thebusinessofesports.com/2021/07/01/misfits-gaming-group-announces-launch-of-the-misfits-agency/",
     "https://thebusinessofesports.com/2021/07/01/episode-138-video-esports-data-yougov-gaming-insights-esl-x-monster-energy/",
@@ -7999,15 +7993,15 @@
     "https://thegamehaus.com/college-football/college-football-week-4-picks-against-the-spread/2026/09/21/",
     "https://thegamehaus.com/college-football/college-football-week-4-picks/2026/09/21/",
     "https://dotesports.com/league-of-legends/news/lol-trundle-troll-voiceline-reported",
-    "https://dotesports.com/call-of-duty/guides/best-vmp-loadout-bo7-warzone"
+    "https://dotesports.com/call-of-duty/guides/best-vmp-loadout-bo7-warzone",
+    "https://dotesports.com/valorant/news/valroant-patch-13-6-notes",
+    "https://www.hltv.org/news/45565/bcgame-bench-electronic-sources-indicate-asap-as-replacement",
+    "https://insider-gaming.com/state-of-decay-3-undead-labs-independent/",
+    "https://insider-gaming.com/sega-almost-cancelled-the-entire-sonic-franchise/",
+    "https://insider-gaming.com/senua-new-trademark/",
+    "https://insider-gaming.com/jojopyun-extends-lec-contract-mkoi-2027/"
   ],
   "title_hashes": [
-    "810c587ffd84652d8558b526af8dcee8",
-    "43d13bce0f7399ba871e2d65bf194b1f",
-    "c837c95a3aad4df4c6bc5c4023cb9bd8",
-    "38990b55a82e81cbf18cfd7d985c8136",
-    "5109b2b0c2cf5f37bdf4b07e4bc7440d",
-    "2af4c2e26ae4e1cdb6d03c7870d4a84c",
     "6222a678ec3c166b15a19b47f3154e93",
     "60eab61bb224b3515ab2b662796da6d3",
     "d4fb4bb5703921494410ea8a72cd5497",
@@ -16001,7 +15995,13 @@
     "6fe0ea4be39815c057f18ce4cfe60399",
     "96dedb32f96df105000951a45c7072c3",
     "7f27b7c4f14b4aae0ed3bc203348ac70",
-    "d517b9a0906a403857c89616fe3e65d5"
+    "d517b9a0906a403857c89616fe3e65d5",
+    "e0306b36fc8ba0d439aa21c11cb8eefb",
+    "2cdbbbda0d570cc7ee45b892a36612b4",
+    "db680fd5bab106fd7e5046755ab1a147",
+    "feeed9c814d78614b322cc5c06e9cbb8",
+    "5efa121281dc322033afc99730d1fbb8",
+    "0f8a9fed7d16046932bf5feaafcc5742"
   ],
   "transfers": {
     "pages": {
@@ -21128,6 +21128,26 @@
     {
       "t": "best close deadly loadout returning smg sniper support vmp warzone",
       "ts": 1790091832.3212183
+    },
+    {
+      "t": "asap asian bench chances core electronic game headed improve indicate major move pgl qualifying replacement singapore sources team their towards",
+      "ts": 1790091838.0886292
+    },
+    {
+      "t": "3 announced appeared decay developer fir fully goes gone independent its labs message officially post state that undead website",
+      "ts": 1790091841.7347536
+    },
+    {
+      "t": "almost appeared cancel cancelled entire first franchise going head interview movie new post revealed sega sonic success team that until",
+      "ts": 1790091845.2501445
+    },
+    {
+      "t": "again agreement another because close couldn despite doors find its last microsoft news ninja post publisher senua set that theory today trademarked week",
+      "ts": 1790091848.907367
+    },
+    {
+      "t": "2027 after agreed another appea before contract extends finals giving has him his jojopyun koi lec mkoi movistar nice post renew ultimatum year",
+      "ts": 1790091852.5364552
     }
   ]
 }
