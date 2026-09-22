@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/24/episode-137-evolving-esports-talent-mobile-esports-future-esports-fashion-week-competitor-vs-entertainer-ralph-lauren-x-g2/",
-    "https://thebusinessofesports.com/2021/06/24/__trashed-56/",
-    "https://thebusinessofesports.com/2021/06/24/nft-and-blockchain-gaming-metaverse-binamon-launched/",
-    "https://thebusinessofesports.com/2021/06/24/business-of-esports-tv-yougov-insights-e3-titles/",
-    "https://thebusinessofesports.com/2021/05/29/nintendo-stock-takes-a-dive-after-issuing-chip-warning/",
-    "https://thebusinessofesports.com/2021/05/29/firefly-games-looking-to-grow-oceanias-mobile-gaming-market/",
-    "https://thebusinessofesports.com/2021/05/29/playstation-plus-free-games-revealed-amidst-rumors-of-subscription-service-price-increase/",
     "https://thebusinessofesports.com/2021/05/29/free-titles-other-promotions-for-may-revealed-on-amazon-prime-gaming/",
     "https://thebusinessofesports.com/2021/05/29/screen-rant-video-games-are-bad-as-nfts/",
     "https://thebusinessofesports.com/2021/05/28/business-of-esports-tv-nfl-game-contest/",
@@ -7999,16 +7992,16 @@
     "https://www.nerfplz.com/2026/09/patch-2619-tier-list-predictions-our.html",
     "https://www.nerfplz.com/2026/09/lol-2619-patch-notes-every-champion-and.html",
     "https://www.nerfplz.com/2026/12/attack-damage-explained-10-rules-of-ad.html",
-    "https://www.talkesport.com/news/gta-6-baldurs-gate-3-clair-obscur-goty-record/"
+    "https://www.talkesport.com/news/gta-6-baldurs-gate-3-clair-obscur-goty-record/",
+    "https://www.talkesport.com/news/heartsteel-live-my-life-skins-league-of-legends/",
+    "https://www.talkesport.com/entertainment/pewdiepie-ends-family-vlogs-son-bjorn-privacy/",
+    "https://www.talkesport.com/news/yash-bhalawala-india-esports-team-manager-asian-games-2026/",
+    "https://www.talkesport.com/news/fifa/ea-fc-27-dressing-room-outfit-glitch/",
+    "https://www.talkesport.com/news/pubg/pubg-asia-stars-vietnam-backlash-krafton-crisis/",
+    "https://www.talkesport.com/news/valorant/valorant-agent-mastery-system/",
+    "https://www.talkesport.com/news/cs2/envy-return-counter-strike-3dmax-cs2-roster/"
   ],
   "title_hashes": [
-    "8bb90a1ea5dd8a9632238495d1e23260",
-    "d226d053e6e77f4f904a3b09566d3bfa",
-    "3a40e10143fdc574b11ea7f16f0f920a",
-    "f44695f12d1a2460ec44785a72183301",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "38feec77f29072bfe1da538fa945d949",
-    "5d1102a73ffc46876374bf84db583ba5",
     "156f0c572266489b35b75096c7d5480d",
     "791e57af0a21bcee393d81e8be89a171",
     "29058fbbb2d63ddc7807ee509e5dba07",
@@ -16001,7 +15994,14 @@
     "50b890b70fe8dafe9b5fe39da7591a99",
     "b898cdbcb1687b6c04f07b52baeae800",
     "8e042142fddc1adbbd070ae626a056f3",
-    "f07811ae5d2b0e9b7447f4adaa3de2e1"
+    "f07811ae5d2b0e9b7447f4adaa3de2e1",
+    "1a81bbdde5c76984fa872dfb78414420",
+    "77a8d68c4dc74c92278e04761793c272",
+    "afb21e983cf182057f0df77fd1c52bab",
+    "4576ba5b36ec26c692f71f2dd0cb3d8c",
+    "c45d7776cc5e976897c91cab7cb0fd07",
+    "3c3956d80aa30965aef059572f1cef5a",
+    "15ebb63dca06315dbdddbbdb55b58353"
   ],
   "transfers": {
     "pages": {
@@ -21260,6 +21260,26 @@
     {
       "t": "19 2026 3 6 8217 already auto awaited baldur been beyond break but can clair even game games gate goty grand gta has its launches long mathematically not november obscur one reach record released rockstar theft this year yet",
       "ts": 1790104388.437773
+    },
+    {
+      "t": "2026 22 after björn confirmed decision ended ends family felix first four has his kjellberg months new officially pewdiepie privacy protect reas said september series son stop video vlogs what would youtube",
+      "ts": 1790104393.635963
+    },
+    {
+      "t": "2026 20th 8217 aichi appointed asian assignment been bhalawala contingent esports games has his india indian international major manager managing marking nagoya named team third yash",
+      "ts": 1790104397.1476579
+    },
+    {
+      "t": "27 8217 access appearing bizarre discover discovered dressing early female footballers game glitch glitches have intended managers occasionally one outfit period players room sports strangest their visual without",
+      "ts": 1790104400.5330038
+    },
+    {
+      "t": "2026 8217 after apology asia challenging content creators crisis escalating fallout fans handling krafton now organisations professional prominent pubg publicly spreads stars tourn vietnam where",
+      "ts": 1790104403.9629598
+    },
+    {
+      "t": "3dmax 8217 according acquire after away competitive counter cs2 current envy five fps french more organisation preparing report reportedly return roster set strike than valve years",
+      "ts": 1790104407.4314084
     }
   ]
 }
