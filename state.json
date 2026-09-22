@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/13/hyperx-unveils-new-line-of-glasses-for-gamers/",
-    "https://thebusinessofesports.com/2021/08/13/content-from-fast-furious-franchise-returning-to-rocket-league/",
-    "https://thebusinessofesports.com/2021/08/13/netflix-working-on-two-projects-based-on-far-cry-series/",
-    "https://thebusinessofesports.com/2021/08/13/report-guild-esports-lost-almost-6m-over-the-past-six-months/",
-    "https://thebusinessofesports.com/2021/08/13/returnal-developer-housemarque-acquired-by-sony/",
     "https://thebusinessofesports.com/2021/08/13/jonathan-durr-selected-to-head-up-wildlifes-third-independent-gaming-studio/",
     "https://thebusinessofesports.com/2021/08/13/pakistan-getting-ready-to-host-the-countrys-first-national-esports-tournament/",
     "https://thebusinessofesports.com/2021/08/13/semper-fortis-rocket-league-team-rebranded-as-smpr/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26380/horizon-walker-adds-new-character-garud",
     "https://www.invenglobal.com/articles/26379/smilegate-to-build-eclipse-house-to-support-youth-preparing-for-independence",
     "https://www.invenglobal.com/articles/26378/world-of-dokkaebi-lowers-barrier-to-entry-with-12-skill-styles",
-    "https://www.invenglobal.com/articles/26375/black-desert-mobile-launches-chuseok-event"
+    "https://www.invenglobal.com/articles/26375/black-desert-mobile-launches-chuseok-event",
+    "https://www.invenglobal.com/articles/26377/pubg-mobile-asian-games-finals-kick-off-on-september-28",
+    "https://www.invenglobal.com/articles/26376/genesis-war-mobile-adds-mercedes-frederick",
+    "https://www.invenglobal.com/articles/26372/soop-to-broadcast-2026-gstl-finals-live-on-the-27th",
+    "https://www.invenglobal.com/articles/26374/eos-black-introduces-soul-weapon-system",
+    "https://www.invenglobal.com/articles/26373/geng-unveils-2026-worlds-campaign-the-light-between-us"
   ],
   "title_hashes": [
-    "07f89d5993223e813abb8eda6cda9362",
-    "9859f131c0f85738c52846d0af3cc899",
-    "e162abd9a7e8783e677cca8804e5bf60",
-    "2557e967021219786214a7f6e09ac028",
-    "19d07e37145dd33a6686bbca67abb33a",
     "1cafb50739640c3de38e679dab7a3f89",
     "d24eb5fdfbdaa66da894f3fcf5e0dcb3",
     "ee8b63eea2014924d8cf10ac879a4e7f",
@@ -16001,7 +15996,12 @@
     "51f1cf2bc8e59f2ba7b5db8d3290340b",
     "10016d4092bc4f840b49053834161ab9",
     "f724fd63b91f4f2905f8ef638f77aac8",
-    "ff8f69ee07801b66e64da10695b4a33d"
+    "ff8f69ee07801b66e64da10695b4a33d",
+    "1c86643f57dd8e73340509a4b9c7b1ef",
+    "17ed237eb2a4bac667159239e77accc6",
+    "391d550f8d7d249ff5917b52d5c894f0",
+    "67129a5838d8c96f6294ee2b6ed2ec65",
+    "12caf2bd583d5420f184ab40e00a50c9"
   ],
   "transfers": {
     "pages": {
@@ -21208,6 +21208,26 @@
     {
       "t": "22nd abyss abysspearl announced black chuseok desert event launches launching mobile pearl that",
       "ts": 1790057607.7669294
+    },
+    {
+      "t": "2026 28 aichi asian esports event finals games kick kraftonpubg medal mobile off official participate pubg september will",
+      "ts": 1790057613.2188275
+    },
+    {
+      "t": "13 added adds chapter character corporation frederick games gamesline genesis has its line main mercedes mobile new rhapsody srpg story war zephyr",
+      "ts": 1790057616.74689
+    },
+    {
+      "t": "2026 27th broadcast daechi finals freecup global gstl held league live soop soopsoop starcraft studio team will",
+      "ts": 1790057620.4360657
+    },
+    {
+      "t": "22 4 black blomix blomixmmorpg blue eos episode games introduces its jointly out potion rolled september serviced soul system update weapon",
+      "ts": 1790057623.9611423
+    },
+    {
+      "t": "2026 between campaign celebrate championship collaborative esports esportsgen gen has league legends light line musinsa qualifying uniform unveiled unveils world worlds",
+      "ts": 1790057627.4928534
     }
   ]
 }
