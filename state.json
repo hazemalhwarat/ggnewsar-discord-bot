@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/16/earnings-report-from-sony-showed-profits-fell-by-33/",
-    "https://thebusinessofesports.com/2021/08/16/corsair-gaming-releases-financial-results-for-q2-2021/",
-    "https://thebusinessofesports.com/2021/08/16/israel-launches-the-countrys-first-channel-dedicated-to-esports-exclusive-broadcast-rights-granted-to-esl-gaming/",
-    "https://thebusinessofesports.com/2021/08/16/draftkings-launching-non-fungible-token-marketplace/",
-    "https://thebusinessofesports.com/2021/08/16/one-esports-unveils-partnerships-with-activision-blizzard-and-foodpanda-thailand/",
     "https://thebusinessofesports.com/2021/08/13/half-life-2-being-remastered-by-filip-victor/",
     "https://thebusinessofesports.com/2021/08/13/peloton-enters-the-world-of-esports-with-video-game/",
     "https://thebusinessofesports.com/2021/08/13/activision-blizzard-being-sued-over-frat-boy-workplace-environment/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26343/digimon-masters-launches-apollomon-whispered-update",
     "https://www.invenglobal.com/articles/26342/once-human-officially-launches-ocean-expansion-isles-of-abyss-on-october-22",
     "https://www.invenglobal.com/articles/26341/neptune-opens-global-pre-registration-for-unifying-the-realm-through-defense",
-    "https://www.invenglobal.com/articles/26340/neowizs-djmax-respect-v-concert-sells-out-in-5-minutes"
+    "https://www.invenglobal.com/articles/26340/neowizs-djmax-respect-v-concert-sells-out-in-5-minutes",
+    "https://www.invenglobal.com/articles/26339/soulframe-launches-free-of-hook-hound-pc-update",
+    "https://www.invenglobal.com/articles/26338/10th-anniversary-choice-of-15-million-players-weaving-space-and-time-in-we-were-here-tomorrow",
+    "https://www.invenglobal.com/articles/26337/bungie-to-bring-back-vaulted-destiny-2-content-as-it-resets-studio-priorities",
+    "https://www.invenglobal.com/articles/26336/supercent-taps-pororo-as-first-ip-collaboration-partner-for-snake-clash",
+    "https://www.invenglobal.com/articles/26335/hideo-kojima-details-how-physint-survived-sonys-exit"
   ],
   "title_hashes": [
-    "509d341d470baa21f3a65ceb6d21c87f",
-    "06590fa477a4c3ec666e9afba9e79c32",
-    "b42edc847f989152d9746d7a6b945957",
-    "9b5088d42dccf4cc4c30ac33f16d7089",
-    "6511203daf7e1599ace95a382134e12f",
     "ebe00692b10f698eaa7594c516e6ef12",
     "5a4dc18f91c754780c56455d8ffdb3d1",
     "61a23157d437ab709b49251db6703350",
@@ -16001,7 +15996,12 @@
     "325ee8d0da15b13ce82081aeda417e7f",
     "31c40b556ccb60ad743c911ba84277e9",
     "234e3fda5adea4806bfab4b7ee1640b5",
-    "adec98b215819c4ae854564f1a86de99"
+    "adec98b215819c4ae854564f1a86de99",
+    "898884aae6090f34e2a4cdccbcb34170",
+    "5e4a69c1a846572ac1ae365827b20014",
+    "d38492f2ceae8b064c840caa0fabfe14",
+    "197c447f78277c48f24f29d45006537a",
+    "ce50256ad74e8b4967434cba045546d5"
   ],
   "transfers": {
     "pages": {
@@ -21284,6 +21284,26 @@
     {
       "t": "10 22 5 announced bae ceos concert djmax flagship game geun its jun minutes miracle neowiz offline out park respect rhythm sales sells september standalone sung tae that ticket",
       "ts": 1790039530.0529602
+    },
+    {
+      "t": "16 amp digital extremes extremesdigital features free has hook hound introducing its launched launches new preludes soulframe title titled upcoming update variety",
+      "ts": 1790039535.6777086
+    },
+    {
+      "t": "10th 15 20 adventure anniversary asymmetrical choice entry flagship games here latest launch mayhem million october officially players puzzle series space steam time tomorrow total weaving will",
+      "ts": 1790039539.2287614
+    },
+    {
+      "t": "2 also back bring bungie campaigns change committed content destinations destiny direction game has marathon part plans priorities raids reset resets returning see septe shared studio that vaulted wider will",
+      "ts": 1790039542.810772
+    },
+    {
+      "t": "characters clash collaboration first has hyper into introduces its licensing little partner penguin pororo selected snake supercent taps",
+      "ts": 1790039546.6957617
+    },
+    {
+      "t": "after came close collapse described details exit founder funding has hideo his how ign interviews kojima physint productions published pulled sony studio survived this two washingto week",
+      "ts": 1790039550.3064888
     }
   ]
 }
