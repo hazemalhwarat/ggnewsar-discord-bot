@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/27/60-of-parents-know-more-about-their-childs-favorite-video-game-than-they-do-about-their-classes/",
-    "https://thebusinessofesports.com/2021/06/27/global-esports-federation-board-selects-three-locations-for-premiere-event/",
-    "https://thebusinessofesports.com/2021/06/27/the-last-gameboard-raises-4m-in-funding/",
-    "https://thebusinessofesports.com/2021/06/27/jbl-extends-partnership-with-100-thieves/",
-    "https://thebusinessofesports.com/2021/06/27/hyperx-partnering-with-national-hockey-league/",
     "https://thebusinessofesports.com/2021/06/27/skateboarding-icon-tony-hawk-joins-gamesquare-esports/",
     "https://thebusinessofesports.com/2021/06/27/business-of-esports-weekly-news-357/",
     "https://thebusinessofesports.com/2021/06/27/business-of-esports-weekly-news-356/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/heartsteel-live-my-life-league-of-legends-skins-revealed/",
     "https://insider-gaming.com/new-vegas-online-trailer-classic-fallout-mmo/",
     "https://insider-gaming.com/vice-city-trademark-abandoned-wwe/",
-    "https://insider-gaming.com/mr-records-preview/"
+    "https://insider-gaming.com/mr-records-preview/",
+    "https://insider-gaming.com/state-of-decay-3-still-planned-for-release-on-xbox-game-pass/",
+    "https://dotesports.com/league-of-legends/news/mkoi-jojopyun-2027",
+    "https://dotesports.com/general/news/halo-moves-to-activision-amidst-xbox-restructuring-and-layoffs",
+    "https://esports-news.co.uk/2026/09/22/bc-game-bench-electronic-in-push-for-asian-core-status-and-major-berth/",
+    "https://www.hotspawn.com/counter-strike/news/best-occult-gloves-knife-combos-in-cs2"
   ],
   "title_hashes": [
-    "fdbc6dc902fe517d91ec9954272cbf75",
-    "f3f36f407de12c58cbf64e0915adfa5f",
-    "043008628df59c6c1b2c9de70b83d24c",
-    "395098479e1da9719f68abbee8c7ae37",
-    "9b3eaf301e4abbfc695ae663a5aeef2d",
     "0c80851eed37271d3298915902544f58",
     "12ea36937a319305061bca3052494709",
     "c793714834464a6e3a93b1b35304d6f8",
@@ -16001,7 +15996,12 @@
     "ecb5aea75a9c162798be8035641ff8bc",
     "46f99646a4d5996e38e3d3fe57941022",
     "1320dfe2c8a6a4a16496110050d678b7",
-    "e3d4a2e09776bf52e682bffc0a22ece1"
+    "e3d4a2e09776bf52e682bffc0a22ece1",
+    "a8d32e3ddd2b41cfb7bbab79f7fe5c44",
+    "fa9c2adb049e180bc0aa540c40df4f63",
+    "e0e135e59937a672c00a3c53d0ece2b8",
+    "98c748b3b09ea3931b2baa7a440af511",
+    "16c1c14f041ec65b5a51716301c36e0c"
   ],
   "transfers": {
     "pages": {
@@ -21220,6 +21220,26 @@
     {
       "t": "existence game george groovy hands hello him lets life like magical music other perceive post preview record records say secretly that this unassuming whose",
       "ts": 1790104350.0782487
+    },
+    {
+      "t": "3 appeared decay details first game here impact labs more not pass planned post release separation state still undead will xbox",
+      "ts": 1790104355.5076518
+    },
+    {
+      "t": "2027 anywhere confirms going isn jojopyun joselito koi movistar remain through will",
+      "ts": 1790104358.928776
+    },
+    {
+      "t": "activision amidst halo layoffs leave moves permission restructuring sir station xbox",
+      "ts": 1790104362.3577383
+    },
+    {
+      "t": "asap asian australian bench berth bid core denis dropped dust2 electronic game have hltv major move paterson pgl push qualify reports set sharipov side sign singapore status tyson",
+      "ts": 1790104365.8438468
+    },
+    {
+      "t": "2026 8217 already best collection combos cs2 dead deserve fairly game gloves great hand iconic knife march most new occult part released some sport still they while",
+      "ts": 1790104369.2093074
     }
   ]
 }
