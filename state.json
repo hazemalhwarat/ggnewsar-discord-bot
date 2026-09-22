@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/30/new-jersey-investing-200k-into-atlantic-city-for-esports-purposes/",
-    "https://thebusinessofesports.com/2021/06/30/rivalry-announces-plans-to-go-public-on-toronto-stock-exchange-secures-22m/",
-    "https://thebusinessofesports.com/2021/06/30/take-two-interactive-reports-great-results-for-2021-fiscal-year/",
-    "https://thebusinessofesports.com/2021/06/30/ea-will-use-crowdfunding-to-increase-apex-legends-global-series-championship-prize-pool/",
-    "https://thebusinessofesports.com/2021/06/30/take-two-plans-to-release-62-game-by-2024/",
-    "https://thebusinessofesports.com/2021/06/30/sports-betting-bill-approved-in-arizona/",
-    "https://thebusinessofesports.com/2021/06/30/wondr-gaming-to-acquire-hot-dot-media/",
     "https://thebusinessofesports.com/2021/06/30/rockstar-games-and-circoloco-launching-record-label/",
     "https://thebusinessofesports.com/2021/06/30/business-of-esports-tv-no-vr-for-facebook/",
     "https://thebusinessofesports.com/2021/06/30/ralph-lauren-enters-world-of-esports-with-g2-partnership/",
@@ -7999,16 +7992,16 @@
     "https://www.hotspawn.com/dota2/news/post-the-international-2026-ti15-roster-shuffle-tracker",
     "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
     "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars",
-    "https://www.talkesport.com/news/tez-ffmic-2026-fall-grand-finals/"
+    "https://www.talkesport.com/news/tez-ffmic-2026-fall-grand-finals/",
+    "https://www.talkesport.com/news/dune-awakening-xbox-launch-single-player-game-pass/",
+    "https://www.talkesport.com/news/xbox-layoffs-consolidate-game-studios-september-2026/",
+    "https://www.talkesport.com/news/valorant/valorant-patch-13-06-notes/",
+    "https://www.talkesport.com/news/bmic-2026-pmgc-qualification-explained/",
+    "https://www.talkesport.com/news/valorant/valorant-night-market-september-2026-date-time-skins/",
+    "https://www.talkesport.com/news/valorant/valorant-patch-13-06-release-date-features/",
+    "https://www.talkesport.com/news/valorant/valorant-champions-2026-2/"
   ],
   "title_hashes": [
-    "5f0596fb68b41cf9dc70e275ed269bea",
-    "bf4937efc09f2788f2c6fc190d745fb8",
-    "b556ea05fc58f61ec1f3c8b049f9d7cf",
-    "f834042a2d0a8138d09744f3a826fb47",
-    "675cc2b3f4d6962f460ef727768c2db2",
-    "c9ba0434712ef48f180a1efa67a6ac4c",
-    "95c0e410d773d4d36b562737d8807c9b",
     "69d0e920a321b621219904f8d155e583",
     "e7559c3ec021423284ad0cc6fd26de4a",
     "1509eb7eb73c259e766153a28c7d5b8d",
@@ -16001,7 +15994,14 @@
     "e1562320deafad6af6750c01342595af",
     "b8d743beafbc2bbc8ee477d38856834e",
     "06bc42405e72c6595ae4cbea23f93f68",
-    "38eb883536595eb508e96923c3b4cae7"
+    "38eb883536595eb508e96923c3b4cae7",
+    "7d226729efee69f4f38b6147cf9c1219",
+    "d9c34b425ddb3d5d30a30f41f7d40970",
+    "6ee600e6b02356c16935247a05cf8962",
+    "a68c8af4f023ccd56d56ee5d8c9e8f64",
+    "dd2c69c18f3b5c3b6096acc589f59aad",
+    "4e4803a944e6df0e82060ff7d2d8e51f",
+    "f61a1558acfb96af16293cfcab303a30"
   ],
   "transfers": {
     "pages": {
@@ -21208,6 +21208,26 @@
     {
       "t": "12 2026 26 27 bring fall ffmic final finals fire free grand india lan max more place pool prize schedule september stage take teams tez together top tournament will",
       "ts": 1790091913.5419161
+    },
+    {
+      "t": "124 22 8217 after awakening bringing consoles dune funcom game has its launched launches microsoft more officially open original pass player september series single survival than today world xbox year",
+      "ts": 1790091919.213775
+    },
+    {
+      "t": "8217 another comp consolidating cut division game hundreds its jobs layoff major marking microsoft new phase plans preparing reportedly restructuring risk several studios sweeping this week while xbox",
+      "ts": 1790091922.8006535
+    },
+    {
+      "t": "2026 already bmic can champion down earns explained finish gauntlet group how india japan korea move near pmgc qualification qualified qualify runner slot slots spot stage teams those top transfer when who",
+      "ts": 1790091926.6121893
+    },
+    {
+      "t": "06 13 2026 22 about agent arrives bringing coming date everything gameplay gauntlet glitched here improvements know mastery mode more need new patch release rifle september system update valorant warden when you",
+      "ts": 1790091930.0906591
+    },
+    {
+      "t": "16 18 2 2026 24 25 about champions everything format heading here how know million more need october pool prize schedule september shanghai starts teams valorant watch you",
+      "ts": 1790091933.5410876
     }
   ]
 }
