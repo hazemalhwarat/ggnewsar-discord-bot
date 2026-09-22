@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/26/portalone-raises-15m-in-seed-round-funding/",
-    "https://thebusinessofesports.com/2021/05/26/epic-games-keeping-fortnite-off-microsofts-xbox-cloud-game-service/",
-    "https://thebusinessofesports.com/2021/05/26/google-stadia-is-alive-and-well-company-says/",
-    "https://thebusinessofesports.com/2021/05/26/66-of-gamers-more-likely-to-play-socially-responsible-games/",
-    "https://thebusinessofesports.com/2021/05/26/microsoft-reducing-cut-of-revenue-it-takes-from-games-on-windows/",
-    "https://thebusinessofesports.com/2021/05/26/gen-g-and-gemini-team-up-for-cryptocurrency-education/",
     "https://thebusinessofesports.com/2021/05/26/tumi-launches-line-of-esports-apparel/",
     "https://thebusinessofesports.com/2021/05/26/esports-personality-richard-lewis-considering-retirement/",
     "https://thebusinessofesports.com/2021/05/26/logitech-g-signs-sponsorship-with-israels-team-finest/",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/league-classic-to-add-aatrox-caitlyn-irelia-karma-and-quinn/",
     "https://insider-gaming.com/halo-director-promoted-then-laid-off-xbox-next-day/",
     "https://insider-gaming.com/lol-26-19-patch-notes-before-worlds-2026/",
-    "https://insider-gaming.com/studios-affected-latest-xbox-layoffs/"
+    "https://insider-gaming.com/studios-affected-latest-xbox-layoffs/",
+    "https://dotesports.com/counter-strike/news/bc-game-asap-asia-vrs",
+    "https://dotesports.com/general/news/discord-global-age-checks-verification",
+    "https://esportsinsider.com/2026/09/lec-versus-wont-return-for-2027-a-chat-with-the-lec-commissioner",
+    "https://www.hotspawn.com/valorant/news/nrg-valorant-champions-shanghai",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmhidFVqR003aFFmNF9HTUdBdXNfdTJybmhUbzVDX2VOTjhpZFIweWcySEttNEhobk9OajZvX2hoXzJ5bnJPcmFWenk5TkVWblkwWlBhbjVINlNGZE4wUXpRZWFZWXZqR0hvN1FZd09qRmpwYWV0blZOZzZ5TWI0N2Y5cTMtZw?oc=5",
+    "https://www.talkesport.com/news/bmsd-2026-day-2-timings-teams-maps-points-table-where-to-watch/"
   ],
   "title_hashes": [
-    "3a94bf3fc745eb8310c74995d15627f1",
-    "d9b83f881ea172af8c2aa8b9dbe94ae1",
-    "50992d334e8649418e930a5fb5f68cdd",
-    "2c8e97b02e1e83e82cb204a902addacf",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "8952105776c239ae8a61863a49f54910",
     "8e3c0b39f4792003125fdc08f1fccf55",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "38da5253760623bd788b40036d1d16a8",
@@ -16001,7 +15995,13 @@
     "3bbabc1e0e12c768adce91f64e686c8b",
     "ac992187b0f92bbacd9f79360b964d65",
     "853c96eb9167c307fc89058e3ed43910",
-    "0a2a2bf3f5eff5d85cf88b94f7adde9d"
+    "0a2a2bf3f5eff5d85cf88b94f7adde9d",
+    "e6267d2bed414fc487bca69f1325c801",
+    "640e858937735edf3c3ec1de80ba098e",
+    "91fda0407a58bcd6f12c45006a9b443b",
+    "8d397d0d0420303fb913bee3fc928219",
+    "183c20f76a063edc26ac26b57214c4ad",
+    "9d64da4d7aa600b105c10982d36f8883"
   ],
   "transfers": {
     "pages": {
@@ -21264,6 +21264,26 @@
     {
       "t": "affected appeared but company continued cuts job latest layoffs post resets round studios tuesday what which xbox",
       "ts": 1790114877.42804
+    },
+    {
+      "t": "asap asia eyes game joins ranking roster s1mple signing switches vrs",
+      "ts": 1790114882.6530802
+    },
+    {
+      "t": "adults age begins checks discord global going new options still through verification",
+      "ts": 1790114886.1098344
+    },
+    {
+      "t": "2026 2027 artem bykov chat coming commissioner discussing end finals grand growing its league lec nice reflected reliance return season versus viewership won",
+      "ts": 1790114889.5855324
+    },
+    {
+      "t": "2026 any beyond champions champs competition elevate ever failure first greatest legacy legend make most nrg possible push search second shanghai should teams their themselves they title titles valorant vct while win would zero",
+      "ts": 1790114893.0744112
+    },
+    {
+      "t": "1 2 2026 apex before bmsd day debut final gaming godlike group its makes maps matches orangutan plays points post relegation start table teams three timings watch week where zone",
+      "ts": 1790114896.5794528
     }
   ]
 }
