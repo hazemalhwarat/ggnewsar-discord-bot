@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/07/06/njcaae-signs-partnership-deal-with-esportsgear/",
-    "https://thebusinessofesports.com/2021/07/06/futures-first-gaming-launching-workforce-development-program/",
-    "https://thebusinessofesports.com/2021/07/06/brazilian-start-up-playmatch-opens-seed-investment-round/",
-    "https://thebusinessofesports.com/2021/07/06/ryvals-launches-beta-version-of-competition-platform/",
-    "https://thebusinessofesports.com/2021/07/06/vorto-gaming-bringing-nfts-to-the-middle-east/",
     "https://thebusinessofesports.com/2021/07/06/dota-2-pro-circuit-action-heats-up-with-weplay-esports-animajor-and-valves-the-international-10/",
     "https://thebusinessofesports.com/2021/07/06/acer-unveils-new-lineup-of-gaming-related-products/",
     "https://thebusinessofesports.com/2021/07/06/jesse-cary-named-new-chief-technology-officer-of-strive-gaming/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26353/2026-naver-webtoon-high-school-tournament-selects-8-final-winners",
     "https://www.invenglobal.com/articles/26352/hyperrise-launches-fortblox-mobile-fortress-go-globally",
     "https://www.invenglobal.com/articles/26351/with-65-million-copies-sold-blue-lock-holds-pop-up-store-at-the-hyundai-seoul",
-    "https://www.invenglobal.com/articles/26350/steelseries-signs-official-sponsorship-for-soop-overwatch-meolmangjeon"
+    "https://www.invenglobal.com/articles/26350/steelseries-signs-official-sponsorship-for-soop-overwatch-meolmangjeon",
+    "https://www.invenglobal.com/articles/26349/webzen-to-host-tyrant-of-the-defense-game-last-stage-demo-zone-at-g-star",
+    "https://www.invenglobal.com/articles/26348/yulgang-next-updates-new-musician-class-and-launches-chuseok-events",
+    "https://www.invenglobal.com/articles/26347/playwith-koreas-seal-m2-surpasses-700000-pre-registrations",
+    "https://www.invenglobal.com/articles/26346/cookie-run-ovenbreak-launches-collaboration-with-sanrio-characters",
+    "https://www.invenglobal.com/articles/26345/boltray-games-opens-pre-registration-for-sword-x-staff"
   ],
   "title_hashes": [
-    "5f460febf45a31ef33c9c6f68f5e9ccd",
-    "146e393470a2e36fc5ef1e6a0f55ad5f",
-    "997cc79addfe5e9d519b26ddf1c7cee9",
-    "44692b574fc70d6fb5bf5e5908ffcaff",
-    "4aca31c920bac82e546f9299d1737179",
     "cd9ed664bcb6abef762ea95dd1d87228",
     "37042aa6a9f47aa2ea42c67e10e2ab18",
     "ee6348100f0393f37cb9b8e001661a9a",
@@ -16001,7 +15996,12 @@
     "c5b97cd00deb2fd5037ced1df8df7754",
     "72c9666519fe2a463a000593f7e084bf",
     "17da4c341515fc273e7c17be83154c2a",
-    "a76d7c12f9c5f670aeee147f446db69f"
+    "a76d7c12f9c5f670aeee147f446db69f",
+    "db1973110b3500e9b3ea886d134eb7df",
+    "b4576f246c1148c43a9b4c4714d17eef",
+    "224038e3cb9fe3a0eceff9a82617d7e6",
+    "f255664e6636fbd98916ddbbc366dd65",
+    "9a30ee0b59589a0855929ffba49654db"
   ],
   "transfers": {
     "pages": {
@@ -21104,6 +21104,26 @@
     {
       "t": "20 agreement brand ceo ehtisham featuring gaming gear has meolmangjeon million official overwatch pool prize rabbani signed signs soop sponsorship steelseries total",
       "ts": 1790077061.6834698
+    },
+    {
+      "t": "crevix currently defense demo development game host its last new showcase stage star subsidiary title tyrant under webzen webzenwebzen will zone",
+      "ts": 1790077067.4224753
+    },
+    {
+      "t": "along chuseok class cross events has holiday introduced its kingnetkingnet launches lineup mmorpg mobile musician new next platform rich seas updates versatile yulgang",
+      "ts": 1790077071.0037458
+    },
+    {
+      "t": "000 700 attracted ceo game hak jun just kim korea koreaas m2 mobile new participants playwith pre registrations seal since starting surpasses three weeks",
+      "ts": 1790077074.5280182
+    },
+    {
+      "t": "action ceo characters cho collaboration cookie developed development devsisters devsisterscookie game games gil globa hold hyun launches oven ovenbreak run running sanrio serviced studio will",
+      "ts": 1790077078.0148654
+    },
+    {
+      "t": "ahead app apple boltray domestic games gamesboltray google has its launched official opens play pre registration release staff store sword website",
+      "ts": 1790077081.552822
     }
   ]
 }
