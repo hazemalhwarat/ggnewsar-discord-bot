@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/07/05/animoca-reveals-partnership-with-hedera/",
-    "https://thebusinessofesports.com/2021/07/05/study-shows-gaming-improved-memory-and-physical-function-in-older-people/",
-    "https://thebusinessofesports.com/2021/07/05/now-sponsoring-team-for-celebrity-esports-superstar-league/",
-    "https://thebusinessofesports.com/2021/07/05/analyzing-the-global-browser-games-market/",
-    "https://thebusinessofesports.com/2021/07/05/netflix-reportedly-looking-into-getting-into-the-gaming-industry/",
     "https://thebusinessofesports.com/2021/07/04/mobil-super-becomes-edward-gaming-sponsor/",
     "https://thebusinessofesports.com/2021/07/04/superstar-racing-launches-new-video-game/",
     "https://thebusinessofesports.com/2021/07/04/kings-guard-gaming-unveils-new-partnerships/",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/news/bmsd-2026-schedule-teams-prize-pool-and-format-for-bgmi-showdown-season-2/",
     "https://www.talkesport.com/news/india-esports-at-the-asian-games-2026-a-sport-on-paper-a-mobile-scene-left-at-home/",
     "https://www.talkesport.com/news/godlike-drops-viper-ahead-of-codm-world-championship-2026-learn-explains-the-controversial-decision/",
-    "https://www.talkesport.com/news/india-pokemon-unite-team-asian-games-2026-roster-schedule/"
+    "https://www.talkesport.com/news/india-pokemon-unite-team-asian-games-2026-roster-schedule/",
+    "https://www.talkesport.com/news/bmsd-2026-day-1-timings-teams-maps-where-to-watch-format-and-more/",
+    "https://europeangaming.eu/portal/latest-news/2026/09/22/214551/curacao-gaming-authority-portal-unauthorised-access/",
+    "https://europeangaming.eu/portal/press-releases/2026/09/22/214540/relax-gaming-dream-drop-denmark-fdj-united/",
+    "https://europeangaming.eu/portal/press-releases/2026/09/22/214533/adm-authorises-beter-setka-cup-italy/",
+    "https://europeangaming.eu/portal/latest-news/2026/09/22/214529/mga-mdia-ai-gaming-charter-launch/"
   ],
   "title_hashes": [
-    "8f967d47058e9eb899b554d32081e8e6",
-    "c4a0aa5128c38468141014e75fe34ae1",
-    "a27350547324765bc53cb84043518614",
-    "c691bc4d63fc490d1a5ab41046380a9e",
-    "5fb006ca7e4047b530632a4f0c367747",
     "bb7377b52a5f4dce4e4c52e8b46d5526",
     "c7756a2e0f310d07963465d26fc08d89",
     "d271c7c2402e74ce16c2cccda0711894",
@@ -16001,7 +15996,12 @@
     "b8daaa6ccac66b292501702ab50ded7b",
     "33bb6b351ccc235a14277b120561d6eb",
     "d732c6885243d051981bc9f2848820c2",
-    "6612e6422c49d7a5cf7645f89a321737"
+    "6612e6422c49d7a5cf7645f89a321737",
+    "3acfcae3a985b7b3a382792a1c197283",
+    "0978b50190189bf722892dfd0c21384a",
+    "63ae59f70690145e436e46f9667b9378",
+    "75f704f70c566b1aad5fd86e4d071e73",
+    "4266e67c94a067b27315b1a63053b201"
   ],
   "transfers": {
     "pages": {
@@ -21184,6 +21184,26 @@
     {
       "t": "2026 8217 aichi asian athletes compete drawn esports games giving head india indian nagoya offici opportunity pokémon represent revenant roster six team unite will xspark",
       "ts": 1790077141.8731945
+    },
+    {
+      "t": "1 2026 22 48 battlegrounds begin bgmi bmsd day feature finally format india invited journey maps mobile more opening qualifiers september set showdown six starting teams their timings today watch where will",
+      "ts": 1790077147.3932078
+    },
+    {
+      "t": "8230 access appear authority been but contained core curaçao gaming has investigates its not portal post regulator says systems unauthorised untouched yet",
+      "ts": 1790077150.8496976
+    },
+    {
+      "t": "8217 8230 become carry casino danish denmark dream drop fdj first gaming into jackpot maria must network operators post relax takes uni unibet united via",
+      "ts": 1790077154.3160887
+    },
+    {
+      "t": "8217 8230 adm authorised authorises beter betting cup decision event first fixed italian licensed list market marks odds opening operators post setka time",
+      "ts": 1790077157.7521544
+    },
+    {
+      "t": "8230 appeared but charter creates document expected gaming launch legal licensees mdia mga new obligations out oversee post sets voluntary what",
+      "ts": 1790077161.4356964
     }
   ]
 }
