@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/26/tumi-launches-line-of-esports-apparel/",
-    "https://thebusinessofesports.com/2021/05/26/esports-personality-richard-lewis-considering-retirement/",
-    "https://thebusinessofesports.com/2021/05/26/logitech-g-signs-sponsorship-with-israels-team-finest/",
-    "https://thebusinessofesports.com/2021/05/26/v3a-buys-half-of-premio-esports-brasil/",
-    "https://thebusinessofesports.com/2021/05/26/ese-entertainment-launching-esports-tournament-with-rio-ave-fc/",
-    "https://thebusinessofesports.com/2021/05/26/zacks-showcases-five-mobile-gaming-stocks-to-watch/",
     "https://thebusinessofesports.com/2021/05/26/electronic-arts-inc-completes-acquisition-of-glu-mobile/",
     "https://thebusinessofesports.com/2021/05/26/31-1k-pubg-mobile-national-championship-announced-for-united-kingdom/",
     "https://thebusinessofesports.com/2021/05/26/guinevere-capital-unveils-new-esports-facility/",
@@ -7999,15 +7993,15 @@
     "https://esportsinsider.com/2026/09/lec-versus-wont-return-for-2027-a-chat-with-the-lec-commissioner",
     "https://www.hotspawn.com/valorant/news/nrg-valorant-champions-shanghai",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmhidFVqR003aFFmNF9HTUdBdXNfdTJybmhUbzVDX2VOTjhpZFIweWcySEttNEhobk9OajZvX2hoXzJ5bnJPcmFWenk5TkVWblkwWlBhbjVINlNGZE4wUXpRZWFZWXZqR0hvN1FZd09qRmpwYWV0blZOZzZ5TWI0N2Y5cTMtZw?oc=5",
-    "https://www.talkesport.com/news/bmsd-2026-day-2-timings-teams-maps-points-table-where-to-watch/"
+    "https://www.talkesport.com/news/bmsd-2026-day-2-timings-teams-maps-points-table-where-to-watch/",
+    "https://www.talkesport.com/guides/minecraft/minecraft-bedrock-26-60-28-beta-preview-download/",
+    "https://www.talkesport.com/genshin-impact/genshin-impact-7-1-maintenance-start-end-time/",
+    "https://www.talkesport.com/news/bmsd-2026-prize-pool-distribution/",
+    "https://www.talkesport.com/news/valve-employees-had-to-shut-their-doors-because-of-gabe-newells-singing/",
+    "https://www.talkesport.com/news/gta-4-intro-cutscene-gta-5-ray-tracing-mod/",
+    "https://www.talkesport.com/news/target-is-hosting-pokemon-30th-anniversary-events-on-september-27/"
   ],
   "title_hashes": [
-    "8e3c0b39f4792003125fdc08f1fccf55",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "38da5253760623bd788b40036d1d16a8",
-    "e9c1edcab8d421507e1ed58233c7ae4b",
-    "2214c148281f29a6ad60dc4c2e29e510",
-    "27a0a8edf54a15c315385581d66aa6a0",
     "828d7b01cfa21a79324f35645cd66221",
     "70083f9af80d090fb2a49912e0b84c11",
     "912a462a4134ed91da5c82e4f8518ff8",
@@ -16001,7 +15995,13 @@
     "91fda0407a58bcd6f12c45006a9b443b",
     "8d397d0d0420303fb913bee3fc928219",
     "183c20f76a063edc26ac26b57214c4ad",
-    "9d64da4d7aa600b105c10982d36f8883"
+    "9d64da4d7aa600b105c10982d36f8883",
+    "dbd0f0b21c5826245e5685aeee7e439b",
+    "52c1854c74fa90212dd9115f25845923",
+    "992410af96e105571361a52736d6d83a",
+    "09f073f5b9e9c568f7a63797a6626208",
+    "e9ec68a0e9a120602c3e6b2ccff3f864",
+    "23e290b66f4852472cb431b314943021"
   ],
   "transfers": {
     "pages": {
@@ -21284,6 +21284,26 @@
     {
       "t": "1 2 2026 apex before bmsd day debut final gaming godlike group its makes maps matches orangutan plays points post relegation start table teams three timings watch week where zone",
       "ts": 1790114896.5794528
+    },
+    {
+      "t": "00 06 1 23 7 8 begins compensation end every expected five genshin here hours impact last maintenance plus pre september server start time times utc zone",
+      "ts": 1790114901.6704144
+    },
+    {
+      "t": "1 16 2026 30 4 75 across all awards bmsd champion crore distribution five full get has how india krafton lakh paid player pool post prize revealed share split takes teams top",
+      "ts": 1790114905.0805933
+    },
+    {
+      "t": "according accumulated apparently became because but counter decades difficult doors during employees gabe had has his hobbies ignore newell one own plenty running shut singing their them unusual valve",
+      "ts": 1790114908.4450998
+    },
+    {
+      "t": "4 5 acting arrival bellic complete cutscene enhanced entire full gta has inside intro lighting modder mrvicho13 niko opening original platypus post ray recreated traced tracing voice",
+      "ts": 1790114911.7955377
+    },
+    {
+      "t": "27 30th 8217 across anniversary celebrations events four heading hosting locations participating pokémon preparing september states stores target this united weekend",
+      "ts": 1790114915.2354405
     }
   ]
 }
