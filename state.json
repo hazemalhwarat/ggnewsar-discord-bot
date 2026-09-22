@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/07/06/trench-made-gaming-and-subnation-media-launch-call-of-duty-warzone-invitational/",
-    "https://thebusinessofesports.com/2021/07/06/tiv-secures-3-5m-in-latest-round-of-funding/",
-    "https://thebusinessofesports.com/2021/07/06/polkawar-secures-400k-in-latest-funding-round/",
-    "https://thebusinessofesports.com/2021/07/06/toyota-unveils-gazoo-racing-gt-cup-2021/",
-    "https://thebusinessofesports.com/2021/07/06/second-game-arena-gaming-center-opens-in-columbus/",
-    "https://thebusinessofesports.com/2021/07/06/hkbu-unveils-surprising-study-urges-government-to-step-up-support-of-esports/",
     "https://thebusinessofesports.com/2021/07/06/nerd-street-gamers-launching-esports-camp/",
     "https://thebusinessofesports.com/2021/07/06/kb-partners-raising-100m-for-sports-tech-start-ups/",
     "https://thebusinessofesports.com/2021/07/06/bren-esports-unveils-razer-partnership/",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/resident-evil-veronica-could-be-delayed-its-claimed/",
     "https://insider-gaming.com/red-bull-ea-fc-27-codes-how-to-claim-1000-sp-all-rewards/",
     "https://insider-gaming.com/fortnitemares-2026-collabs-fortnite-halloween/",
-    "https://insider-gaming.com/fortnite-fortnitemares-2026-start-end-dates/"
+    "https://insider-gaming.com/fortnite-fortnitemares-2026-start-end-dates/",
+    "https://insider-gaming.com/fortnite-likely-adding-chucky-collab-in-fortnitemares-event/",
+    "https://insider-gaming.com/xbox-layoff-hundreds-and-consolidate-studios-this-week/",
+    "https://dotesports.com/general/news/gta-6-mod-rules",
+    "https://dotesports.com/call-of-duty/guides/best-vmp-loadout-bo7",
+    "https://dotesports.com/call-of-duty/guides/black-ops-7-warzone-season-6-week-1-challenges",
+    "https://www.hltv.org/news/45563/the-evps-and-all-stars-of-fissure-playground-3"
   ],
   "title_hashes": [
-    "52194af4a9c44a3587af70cde7ecf8bd",
-    "47987a007a98c212c723fc72f94e6ed3",
-    "5fe76a944e0608bf56748a0c963c8253",
-    "9c5fec11e561cd53085f532909056724",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "db11ca361890f0a430f645a2c31d5acb",
     "056a4b7210c616614ccd33afd59f7e7a",
     "cfc1dbee2abcf8791c141d3a963c4c57",
     "8346b6de654d48a7b7290fa3c8f14f04",
@@ -16001,7 +15995,13 @@
     "dc4fe593537fc59ab6b72c9c7d2749d2",
     "807225ab9e328fe7302a9e724a67eeff",
     "6cba16a263d0729c44cfb43652cb204f",
-    "e23fdd4f2a946292c0c9869bbf7af4b1"
+    "e23fdd4f2a946292c0c9869bbf7af4b1",
+    "792eab2d66588bddd214d8ea28b19ba5",
+    "18cea558d5d305629da4056beb9c5c0c",
+    "b11dd90a369baabc5a81a3ef7515d3c3",
+    "241799d450d17926106cbd26f4282821",
+    "25bbf748a02f78e494440b2a0523dce3",
+    "aa3b289c48fc8fe8c74ecafdb48cc1ff"
   ],
   "transfers": {
     "pages": {
@@ -21144,6 +21144,26 @@
     {
       "t": "2026 all amp big coming dates details end event expected fortnite fortnitemares how kick long off post run slated start when",
       "ts": 1790077101.289057
+    },
+    {
+      "t": "8216 8217 added adding another appeared being character chucky collab event fortnite fortnitemares horror iconic likely post reportedly upcoming",
+      "ts": 1790077107.1284597
+    },
+    {
+      "t": "8216 8217 about banners been claimed consolidate employees has hundreds lay multipl multiple off post studios that this tighter under week xbox",
+      "ts": 1790077110.6732547
+    },
+    {
+      "t": "6 across apply community cross edits every game gta included limits mashups mod modders mods multiplayer new note policy resources rockstar rules story taking title unauthorized",
+      "ts": 1790077114.3761585
+    },
+    {
+      "t": "7 best black bo7 fast iconic loadout low mobility ops recoil smg storm taking vmp",
+      "ts": 1790077117.9101126
+    },
+    {
+      "t": "3 all another china evp evps fissure legacy n1ssim picks playground rewarded stars win",
+      "ts": 1790077121.5020435
     }
   ]
 }
