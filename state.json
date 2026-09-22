@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/07/01/faze-clan-releasing-limited-edition-merchandise-as-part-of-collaboration-with-takashi-murakami/",
-    "https://thebusinessofesports.com/2021/07/01/business-of-esports-tv-eas-playdemic-purchase-2/",
-    "https://thebusinessofesports.com/2021/06/30/teslas-in-car-gaming-system-is-basically-a-small-ps5/",
-    "https://thebusinessofesports.com/2021/06/30/wrestling-organization-aew-unveils-new-mobile-game/",
-    "https://thebusinessofesports.com/2021/06/30/gamestop-building-an-nft-platform/",
-    "https://thebusinessofesports.com/2021/06/30/bango-and-microsoft-expanding-access-to-xbox-cloud-gaming/",
-    "https://thebusinessofesports.com/2021/06/30/opera-officially-launches-worlds-first-mobile-browser-for-gamers/",
     "https://thebusinessofesports.com/2021/06/30/warner-bros-games-faces-uncertainty-following-discovery-warnermedia-merger/",
     "https://thebusinessofesports.com/2021/06/30/nintendo-announces-partnership-with-high-school-esports-organization-playvs/",
     "https://thebusinessofesports.com/2021/06/30/teravision-games-joins-blockchaink2s-amplify-alliance/",
@@ -7999,16 +7992,16 @@
     "https://insider-gaming.com/the-blood-of-dawnwalker-is-receiving-a-big-update-next-month/",
     "https://insider-gaming.com/xbox-only-three-quarters-through-restructuring-plan/",
     "https://insider-gaming.com/xbox-to-close-ninja-theory-as-deals-fall-through/",
-    "https://insider-gaming.com/read-xboxs-matt-bootys-memo-to-staff-on-latest-layoffs/"
+    "https://insider-gaming.com/read-xboxs-matt-bootys-memo-to-staff-on-latest-layoffs/",
+    "https://insider-gaming.com/xbox-moves-rare-under-activision-obsidian-entertainment-to-bethesda/",
+    "https://gameriv.com/valorant-voice-evaluation-now-better-detects-toxicity-in-spanish-portuguese-and-korean/",
+    "https://gameriv.com/valorant-13-06-patch-notes/",
+    "https://gameriv.com/arc-raiders-targets-repeat-cheaters-item-duplication-and-economy-abuse/",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWS03dFg3WXdITFdxQ3F6NEotOVhTdm1MQy1jWTdSTUFNb1g2MHNCTGRXZDJvdG9ieGs0WkpLT1Y2eTBSUkhHS3F4cERhWnNvVFhKNkZyMlZEX2hIV2JuVE9Ib3FxOUp3WHdXMVFheEhURDM1UVlSYW5NNUlCUW5wZnpuUQ?oc=5",
+    "https://www.hotspawn.com/valorant/news/valorant-patch-notes-13-06",
+    "https://www.hotspawn.com/call-of-duty/news/movistar-koi-jojopyun-2027"
   ],
   "title_hashes": [
-    "ab5ce9cda82679fb3d8472fa7618aff3",
-    "ad0862eda48f485818626aadd7146f59",
-    "bf5ba53e13c8fa999adc95a488eb1d14",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "6d1e4fb2de7dd57eb5bc632417dec34f",
-    "0b4780e0e96c6e9d291334ca29339bcc",
-    "70a68249ce6674947d7d2649e47e7d77",
     "27a0a8edf54a15c315385581d66aa6a0",
     "d6cb080e5165d81adf413285ca0ecc3c",
     "134edba2bec8bcdadba4f38b68df021c",
@@ -16001,7 +15994,14 @@
     "f78b54b6ee2d13f67eaca56536ce2683",
     "565a135b22a8192a2447d516cd3d90af",
     "9cc344c95002ae6f0d8a460a64998aa1",
-    "b0a8464c76917f88b567a121831731de"
+    "b0a8464c76917f88b567a121831731de",
+    "15bc5b5b7367ec993acfc74b8a0109ef",
+    "e4a90f94bfd6f18c74fa94c28bac3f63",
+    "30f891db93b413cea765e2aebc1f3a32",
+    "b0d30192e7ccade2e5ea4cf06258928a",
+    "870f700090b22a46dac7447dbdecfe76",
+    "d7326d9e758d9d175b36291480fea25a",
+    "96bfdef8c262612b5c0804cbccc8dbfb"
   ],
   "transfers": {
     "pages": {
@@ -21168,6 +21168,26 @@
     {
       "t": "8217 all app booty employees has latest layoffs matt memo more morning place post published read sent staff taking tuesday xbox",
       "ts": 1790091872.993727
+    },
+    {
+      "t": "activision amp bethesd bethesda changes developer entertainment have moved moves now obsidian ongoing post rare seen under whereas wing xbox",
+      "ts": 1790091878.5083714
+    },
+    {
+      "t": "06 13 abusive against better can chat comms detects evaluation fight games identify improved its korean major now patch portuguese riot spa spanish strengthening system toxic toxicity update valorant voice",
+      "ts": 1790091882.2308686
+    },
+    {
+      "t": "06 13 2026 22 acs agent anoth arrives bringing game gauntlet glitched major mastery menus more new notes patch performance plenty refresh replaces rifle score september there try valorant want warden whether you",
+      "ts": 1790091885.9327185
+    },
+    {
+      "t": "abuse abusing alongside approach arc cheaters cheating duplication economy embark enforcement fair furt game item its latest offenders ongoing outlines play players raiders repeat targeting targets tightening update",
+      "ts": 1790091889.5316713
+    },
+    {
+      "t": "2027 8217 becoming canadian contract extends extension following his ibai jojopyun joseph keep koi llanos midlaner movistar next pyun reality roster same slowly who will wished year",
+      "ts": 1790091893.6740541
     }
   ]
 }
