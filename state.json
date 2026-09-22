@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/07/01/latinx-in-gaming-launching-conexion-virtual-career-fair/",
-    "https://thebusinessofesports.com/2021/07/01/misfits-gaming-group-announces-launch-of-the-misfits-agency/",
-    "https://thebusinessofesports.com/2021/07/01/episode-138-video-esports-data-yougov-gaming-insights-esl-x-monster-energy/",
-    "https://thebusinessofesports.com/2021/07/01/episode-138-esports-data-yougov-gaming-insights-esl-x-monster-energy/",
-    "https://thebusinessofesports.com/2021/07/01/__trashed-3/",
     "https://thebusinessofesports.com/2021/07/01/faze-clan-releasing-limited-edition-merchandise-as-part-of-collaboration-with-takashi-murakami/",
     "https://thebusinessofesports.com/2021/07/01/business-of-esports-tv-eas-playdemic-purchase-2/",
     "https://thebusinessofesports.com/2021/06/30/teslas-in-car-gaming-system-is-basically-a-small-ps5/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/state-of-decay-3-undead-labs-independent/",
     "https://insider-gaming.com/sega-almost-cancelled-the-entire-sonic-franchise/",
     "https://insider-gaming.com/senua-new-trademark/",
-    "https://insider-gaming.com/jojopyun-extends-lec-contract-mkoi-2027/"
+    "https://insider-gaming.com/jojopyun-extends-lec-contract-mkoi-2027/",
+    "https://insider-gaming.com/activision-wants-to-make-the-greatest-halo-game-ever/",
+    "https://insider-gaming.com/the-blood-of-dawnwalker-is-receiving-a-big-update-next-month/",
+    "https://insider-gaming.com/xbox-only-three-quarters-through-restructuring-plan/",
+    "https://insider-gaming.com/xbox-to-close-ninja-theory-as-deals-fall-through/",
+    "https://insider-gaming.com/read-xboxs-matt-bootys-memo-to-staff-on-latest-layoffs/"
   ],
   "title_hashes": [
-    "6222a678ec3c166b15a19b47f3154e93",
-    "60eab61bb224b3515ab2b662796da6d3",
-    "d4fb4bb5703921494410ea8a72cd5497",
-    "7fc59bbab1e424b7b7d4612100085fdd",
-    "b1d6abd3f2a0c7325195f37d9e5e9a39",
     "ab5ce9cda82679fb3d8472fa7618aff3",
     "ad0862eda48f485818626aadd7146f59",
     "bf5ba53e13c8fa999adc95a488eb1d14",
@@ -16001,7 +15996,12 @@
     "db680fd5bab106fd7e5046755ab1a147",
     "feeed9c814d78614b322cc5c06e9cbb8",
     "5efa121281dc322033afc99730d1fbb8",
-    "0f8a9fed7d16046932bf5feaafcc5742"
+    "0f8a9fed7d16046932bf5feaafcc5742",
+    "148d71469c8328387f2267c74d287345",
+    "f78b54b6ee2d13f67eaca56536ce2683",
+    "565a135b22a8192a2447d516cd3d90af",
+    "9cc344c95002ae6f0d8a460a64998aa1",
+    "b0a8464c76917f88b567a121831731de"
   ],
   "transfers": {
     "pages": {
@@ -21148,6 +21148,26 @@
     {
       "t": "2027 after agreed another appea before contract extends finals giving has him his jojopyun koi lec mkoi movistar nice post renew ultimatum year",
       "ts": 1790091852.5364552
+    },
+    {
+      "t": "8220 activision been bold delivered ever game greatest halo handling has kostich make next post president revealed rob statement that wants",
+      "ts": 1790091858.3158603
+    },
+    {
+      "t": "adding appeared big blood changes combat dawnwalker difficulty first month more new next october post receiving update",
+      "ts": 1790091861.9611828
+    },
+    {
+      "t": "8216 continue long only plan post quarters restructuring revealed set term that three through way xbox",
+      "ts": 1790091865.5892024
+    },
+    {
+      "t": "announcement appeared close confirms deals details down fall fallen first have here more new ninja post shutting that theory through will xbox",
+      "ts": 1790091869.3890836
+    },
+    {
+      "t": "8217 all app booty employees has latest layoffs matt memo more morning place post published read sent staff taking tuesday xbox",
+      "ts": 1790091872.993727
     }
   ]
 }
