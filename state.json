@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/03/18/fyx-gaming-announces-partnership-with-unikrn/",
-    "https://thebusinessofesports.com/2021/03/18/bbtv-announces-signings-of-numerous-gaming-influencers/",
-    "https://thebusinessofesports.com/2021/03/17/faze-ceo-ninja-is-not-on-the-cutting-edge-of-gaming/",
-    "https://www.invenglobal.com/articles/26155/pearl-in-blue-captures-the-authentic-vibe-of-rom-com-anime",
-    "https://www.invenglobal.com/articles/26154/20-minutes-is-too-short-dragons-dogma-2-dark-arisen-85",
     "https://www.invenglobal.com/articles/26153/from-korean-games-to-kojima-xbox-tokyo-game-show-showcase",
     "https://www.invenglobal.com/articles/26152/found-my-low-blood-pressure-cure-mega-man-dual-override",
     "https://www.invenglobal.com/articles/26151/twisting-a-familiar-city-the-secrets-behind-control-resonant-design",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/fallout-4-new-midwestern-power-armor-blast-past/",
     "https://insider-gaming.com/nba-the-run-championship-belts/",
     "https://insider-gaming.com/valorant-agent-viper-becomes-first-digital-balenciaga-ambassador/",
-    "https://insider-gaming.com/rlcs-world-championships-2026-most-watched-rocket-league-tournament/"
+    "https://insider-gaming.com/rlcs-world-championships-2026-most-watched-rocket-league-tournament/",
+    "https://insider-gaming.com/sony-controller-patent/",
+    "https://insider-gaming.com/tim-schafer-job-losses-comment/",
+    "https://insider-gaming.com/pokemon-unite-will-shatter-esports-prize-records-in-last-ever-event/",
+    "https://insider-gaming.com/bethesda-president-says-obsidians-creative-identity-will-remain/",
+    "https://insider-gaming.com/after-8-years-quake-champions-is-no-longer-free-to-play/"
   ],
   "title_hashes": [
-    "fb1ebd0edbd632d1a786fcb081b925a8",
-    "c92cd4405e16af2eeef7ed8921b9214e",
-    "015b44fb61997c57c4112605a33ca9b0",
-    "3a46449a879677af2e26617ec555e575",
-    "9631b5d0d2be9e074cfae06b541a5457",
     "094130d86f4e5d5e4383640a266f3f84",
     "57ae7db57141dcceb8f924b89a37199b",
     "50ac82ff22f8759ed063815eeb10b376",
@@ -16001,7 +15996,12 @@
     "ab8880e11793e95dba1b59bfffe5f84e",
     "aa18ce944032a542963c7f83048f2497",
     "5751a19dd7d5c1d21b6d2388cbf5d465",
-    "df09c3615d255fdd02296669cb0a1aab"
+    "df09c3615d255fdd02296669cb0a1aab",
+    "4a4bd23f07ebc00374ba5d242857785c",
+    "ab70ef1e39d882449bdc3c0ff1092196",
+    "be1c4f8dd915c0003f2920deb906e175",
+    "c975c075c265662fe2edb3840a326f14",
+    "ee3ec110f267f5b81f34cc68c3320231"
   ],
   "transfers": {
     "pages": {
@@ -21336,6 +21336,26 @@
     {
       "t": "2026 all appeared championship championships esports ever finals league most post rlcs rocket this time tournament watched world year",
       "ts": 1790200150.6012597
+    },
+    {
+      "t": "accessibility appea assisted controller disabilities easily game help inputs more patent patents people post proposes recent sony system",
+      "ts": 1790200155.6174006
+    },
+    {
+      "t": "8217 about being double explained fine games gave greedy industry interview job large losses number post recently schafer seeing someone somewhere state thinks tim why",
+      "ts": 1790200159.0907876
+    },
+    {
+      "t": "1 2027 aeos all breaking crown esports event ever final game last million pokémon pool possibly post prize record records shatter tournament unite will",
+      "ts": 1790200162.4977932
+    },
+    {
+      "t": "8217 8220 bethesda control creative despite email iden identity its moving obsidian post president remain says staff that under will",
+      "ts": 1790200165.9363647
+    },
+    {
+      "t": "8 after announcement appeared champions confirms details devs first free game here longer more new play post quake that years",
+      "ts": 1790200169.3000236
     }
   ]
 }
