@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/03/26/simplicity-esports-partners-with-project-token-and-ucf-to-create-nfts/",
-    "https://thebusinessofesports.com/2021/03/26/weplay-esports-secures-dazn-broadcast-deal-for-wufl/",
-    "https://thebusinessofesports.com/2021/03/26/project-worldwide-acquires-os-studios/",
-    "https://thebusinessofesports.com/2021/03/26/activision-blizzard-consolidating-european-publishing-operations-into-uk-hub/",
-    "https://thebusinessofesports.com/2021/03/26/dotavalkyries-project-launches-to-increase-female-presence-in-esports/",
     "https://thebusinessofesports.com/2021/03/26/singapore-to-hold-free-fire-world-series/",
     "https://thebusinessofesports.com/2021/03/26/verizon-partners-with-twitch-to-create-hbcu-esports-league/",
     "https://thebusinessofesports.com/2021/03/26/gameabove-makes-150k-donation-to-gamers-for-giving/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26462/game-of-thrones-dragonfire-adds-meleys-as-its-newest-dragon",
     "https://www.invenglobal.com/articles/26463/guns-dragons-extends-playtest-until-september-30",
     "https://dotesports.com/arc-raiders/news/arc-raiders-frozen-trail-reveal",
-    "https://dotesports.com/dota-2/news/topson-og-dota-2-2026-season"
+    "https://dotesports.com/dota-2/news/topson-og-dota-2-2026-season",
+    "https://dotesports.com/silent-hill/news/silent-hill-film-movie-resident-evil-roy-lee",
+    "https://insider-gaming.com/everything-announced-for-arc-raiders-frozen-trail-all-new-arc-weapons-more/",
+    "https://insider-gaming.com/counter-strike-co-creator-reveals-why-gabe-newell-created-steam/",
+    "https://insider-gaming.com/arc-raiders-huge-frozen-trail-update-revealed-in-full/",
+    "https://insider-gaming.com/youtube-announces-a-b-testing-for-videos/"
   ],
   "title_hashes": [
-    "74b627e31c94bd7980b5a1262d4aafbb",
-    "38d83b54f4ff9dc3019c84059142e891",
-    "a74d9f7f3d857976c12f954e51aa5fec",
-    "05efe6b44fd49aa607a58eee8d6812f5",
-    "e01ab0a9548d9ba2e2bcc616b3baef9a",
     "d0b2a60b0c800153d1fa2d96aef77322",
     "ecf7f8439eed853092ee4db0c9012cf4",
     "d098b2545fd88a98b00e535e23543707",
@@ -16001,7 +15996,12 @@
     "f514dbc8e818e59afa96fb948ff46927",
     "0e30e5367cbae149e6b6ff656b654085",
     "7d24e066076528b9c9ed8d5cfbaa355f",
-    "951b80336ffd917e855c7e4e57cc7dec"
+    "951b80336ffd917e855c7e4e57cc7dec",
+    "a0c74ed794c13110a288b703af29881a",
+    "540820445b7fc0d54bf8596086e9965e",
+    "65eaa669d955e785aa92eb9438a3b9ea",
+    "60f87ad68034ecf4ad6ee9e64015981b",
+    "36c8462d9b80725296caa255d3a07f72"
   ],
   "transfers": {
     "pages": {
@@ -21204,6 +21204,26 @@
     {
       "t": "2 2026 2027 after comeback dota has legend made reunites season three topson years",
       "ts": 1790188784.3472574
+    },
+    {
+      "t": "evil film following hill new production resident restless see silent success that theater town",
+      "ts": 1790188789.5686567
+    },
+    {
+      "t": "all announced arc coming details everything frozen here including map more new post raiders trail update weaponry weapons",
+      "ts": 1790188793.022343
+    },
+    {
+      "t": "appeared counter created creator discussed first gabe main newell one post reasons recently reveals steam strike why",
+      "ts": 1790188796.4622278
+    },
+    {
+      "t": "8217 arc biggest embark finally frozen full has huge lifted looking post raiders revealed seen studios trail update veil wait worth yet",
+      "ts": 1790188799.8693564
+    },
+    {
+      "t": "adding allowing announces appeared audiences content creators even first insid its more post tailor testing their them uploads video videos youtube",
+      "ts": 1790188803.3474357
     }
   ]
 }
