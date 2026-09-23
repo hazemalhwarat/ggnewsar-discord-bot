@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/04/09/gaming-pc-monitor-shipment-increases-by-almost-27-in-2020/",
-    "https://thebusinessofesports.com/2021/04/09/report-cloud-gaming-expected-to-grow-fast-in-china/",
-    "https://thebusinessofesports.com/2021/04/09/nvidia-to-fight-gaming-gpu-shortage-with-geforce-graphics-card/",
-    "https://thebusinessofesports.com/2021/04/09/amazon-singapore-launches-dedicated-gaming-store/",
-    "https://thebusinessofesports.com/2021/04/09/episode-126-video-world-first-esports-nft-ea-not-a-gaming-company-nintendo-success-atari-split/",
-    "https://thebusinessofesports.com/2021/04/09/razer-reports-1b-in-annual-revenue/",
-    "https://thebusinessofesports.com/2021/04/09/chainguardians-co-founder-nfts-are-the-future-of-gaming/",
     "https://thebusinessofesports.com/2021/04/09/morgan-stanley-microsoft-could-become-the-next-netflix/",
     "https://thebusinessofesports.com/2021/04/09/report-indian-gamers-play-8-5-hours-of-video-games-each-week/",
     "https://thebusinessofesports.com/2021/04/09/uae-gamers-look-to-be-major-players-in-esports/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/26423/up-to-200000-gold-and-a-relic-title-lost-ark-act-3-extreme-update",
     "https://www.invenglobal.com/articles/26422/riot-games-hosts-cheering-event-for-south-korean-lol-national-team",
     "https://www.invenglobal.com/articles/26421/kakao-games-new-title-world-of-dokkaebi-character-name-reservation-closes-in-1-hour",
-    "https://www.invenglobal.com/articles/26420/bang-dream-our-notes-launches-globally-on-september-24"
+    "https://www.invenglobal.com/articles/26420/bang-dream-our-notes-launches-globally-on-september-24",
+    "https://dotesports.com/league-of-legends/guides/league-classic-akali-build-guide",
+    "https://dotesports.com/indies/news/dressmaker-indie-cozy-game-sewing-steam-top-seller",
+    "https://dotesports.com/counter-strike/news/all-cs2-competitive-active-duty-maps",
+    "https://dotesports.com/counter-strike/news/cs2-update-rush-mode-premier",
+    "https://traxion.gg/your-guide-to-the-simracing-expo-frankfurt-2026-traxion-control-podcast/",
+    "https://www.hotspawn.com/counter-strike/news/cs2-pets-update",
+    "https://www.talkesport.com/news/cs2/cs2-update-brings-chicken-eggs-rush-mode-full-patch-notes-more/"
   ],
   "title_hashes": [
-    "2b1c7696014e2a2080115c8a649326f7",
-    "aca7c1d485d4beffd1e1946185206854",
-    "310ecdece96364ad3810c53a90aabf3f",
-    "9aee9094444d188b048e18259f28e46f",
-    "aa451175da8cc13f96a97963a3c40bd7",
-    "0b6c7857fb38aac128622d42c62f9686",
-    "e98d2f001da5678b39482efbdf5770dc",
     "3407b855b60e9b71531413b3609d7c37",
     "fc65d08088246ff235f20078fa7d873c",
     "1b67dab6887e80f01d41ae24f923eee5",
@@ -16001,7 +15994,14 @@
     "40d84f033e7479f8e06fb7dfa530268c",
     "e8387a8dbd6527a197d0e7a0346c996e",
     "83da4a8b94365399eb6a875dcab37d04",
-    "1a21c4199f4b2a722d8c6e527b63a95e"
+    "1a21c4199f4b2a722d8c6e527b63a95e",
+    "7d1019009dd76a570c171354cbeabdb9",
+    "e68e798548ec032694033715292388bb",
+    "ce518255b97f534cf4c503a8c79ebbdb",
+    "b9497a57525e86ac5163fd792dbb5a6a",
+    "c311d7bf5653cf5b250007da469769bb",
+    "91f6e1e8b3eca0ccdbab5c8a4c2a1b76",
+    "e8cba6b0653f3e5024f042b5a9896866"
   ],
   "transfers": {
     "pages": {
@@ -21344,6 +21344,26 @@
     {
       "t": "24 bang bilibili dream game globally its launch launches new notes our rhythm september will",
       "ts": 1790139852.6273792
+    },
+    {
+      "t": "bow button cozy dressmaking game goes hits indie list own sellers sew steam top viral way your",
+      "ts": 1790139858.1048658
+    },
+    {
+      "t": "2026 active all competitive cs2 duty every explained map maps pool updated",
+      "ts": 1790139861.6591218
+    },
+    {
+      "t": "3v3 action adds bringing cs2 fast first game gamemode gets its map mode more new overhauls paced pick premier rush system update",
+      "ts": 1790139865.2086177
+    },
+    {
+      "t": "2026 control event expo frankfurt guide joined members organisation podcast post simracing team traxion upcoming your",
+      "ts": 1790139868.7059472
+    },
+    {
+      "t": "2 22 8217 attention attracted brings but chicken considerably counter cs2 early eggs features full have headline its larger may mode more most new notes patch reloads rush september silent strike suggest than update valve",
+      "ts": 1790139872.221511
     }
   ]
 }
