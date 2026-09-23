@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://g2esports.com/blogs/news/g2-and-nord-esports-join-forces-to-launch-g2-nord",
-    "https://g2esports.com/blogs/news/g2-announces-betpanda-as-official-cs-global-betting-partner",
     "https://g2esports.com/blogs/news/g2-turns-a-decade-of-legacy-and-ambition-into-lore-with-launch-of-fantasy-action-webcomic-series-red-aura",
     "https://g2esports.com/blogs/news/g2-makes-first-entry-into-traditional-sports-with-the-launch-of-g2-football-club-in-kings-league-germany",
     "https://g2esports.com/blogs/news/g2-completes-seven-figure-series-b-investment-round-and-announces-new-investors",
@@ -7999,11 +7997,11 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXIyS0I1QjJ1WGhsRW56QjhoXzZ6Q2NnVjFTWlZFaEJIeUJMQWxhejl5ZEdyUnRueldBRGtmTWhZSm1ZVHRXNF9OYjBhZW5fUUVWVFJlYm03SXpkUzVvb095empjYTR2M1ZXUzdWcV9HbUhieUUwdnh5dlEyclZqN1RPY29DbGF4TzhsQUduZmozeUJhejJSNGpOTklpd1ZC?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcnNuZDFuUGxwRy1za3NjaXBaVVh5dTNma3labGlCd3dRY2lVbExxTVFoYndzNjFVdjNSQ0FZX09PdkZzQUV4ajFBLWJLWE5aZFRvOV9vTUhCQ0RjREYxc0Ixa0ZnOGFvZVNEVURmRFpuNG1QeVFDakYzY0lGMUZXWVZmNXdCU2FUVFpOVkhScmNHc290R2FDcmxwcw?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aQzlERnBNcUlSNkFyT2dSaW40eDlabDBaeGJDYjlaQzFJeDFPV1JWTDVxWkRTS0xaUkpsYzZ2RFNzdUVFYmNCVUx1ZWRkREExQkdtMkZBTldpdF82eFhn?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVJrcW9aNnR6OXRHeUwtd3RmSzZ1UGk5MkM3LVdjQ2lLMUU3S2U0NUd2TmVFeUxNZWctd3dFNnpQaDdHQ2M3M05uaVRYS1A2WmY4eEtfdFJBajkxRjhSaVUyWTNCRkVjMUtNbXBNa0gwRWpYUE13N194SU13SWxXZHR3?oc=5"
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVJrcW9aNnR6OXRHeUwtd3RmSzZ1UGk5MkM3LVdjQ2lLMUU3S2U0NUd2TmVFeUxNZWctd3dFNnpQaDdHQ2M3M05uaVRYS1A2WmY4eEtfdFJBajkxRjhSaVUyWTNCRkVjMUtNbXBNa0gwRWpYUE13N194SU13SWxXZHR3?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVVQxbHc0ZDJjazVkcFlnbEpWMEctRlZ2THBPSVlvNlhXYmlZVjRzMjkwWUVOUWNSVzVqazlUNTBMaVh3eW53Nmp6YjNXbVVXR3JSdF9NVEhYUkZCTkdUTU5rY245bVRfM2hFUEhMaFIwUFRiMkNScVhXSGZIUjdMSDV1UFRINDZqdDk5YnpsQ09BR1Rz?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fMlBEaVZNMHF6ajZkWEVnZWFtVlA3Ul9uYllUYWJoVFhnSmo4OHMyZUJNV3hmbzlXLXJuZ3J6ZFhIbmF4amhLQUJGZ3RycnR3VGNuTHM2aWRaT0hDZnVzQ0Q2RndFSWQzbkdVR3cyc3hLanM?oc=5"
   ],
   "title_hashes": [
-    "d470b83ab915f789af502dd52d2df6b1",
-    "1be17628c575293b9a7f0d4749b079c9",
     "f89e71cbec083d774b8224c6e150bd58",
     "b2742d85d13fb396deeb4ddaef81572c",
     "641664f4f7bdc9a6a0a4b9c75891823c",
@@ -16001,7 +15999,9 @@
     "87b061ee9e16e655adf208cf64466521",
     "a9718c8a6c455651cde2d02ff8300e3f",
     "4fbf699752071f12d7e181886d36a609",
-    "2f0d2ac580c24684691235454ab9d79f"
+    "2f0d2ac580c24684691235454ab9d79f",
+    "d99f31ef282f814af15abca8b27df7bb",
+    "eb3c0394452d73fa0e5099267a144148"
   ],
   "transfers": {
     "pages": {
@@ -21376,6 +21376,10 @@
     {
       "t": "arena esports level mtsu nbsp new sidelines",
       "ts": 1790200192.3328102
+    },
+    {
+      "t": "arena esports expands gaming league mtsu nbsp partners source williamson youth",
+      "ts": 1790200197.9074135
     }
   ]
 }
