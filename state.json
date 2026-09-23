@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/04/06/business-of-esports-launches-worlds-first-esports-nft/",
-    "https://thebusinessofesports.com/2021/04/06/most-luxurious-gaming-facility-in-india-unveiled/",
-    "https://thebusinessofesports.com/2021/04/06/esports-betting-coming-to-new-jersey/",
-    "https://thebusinessofesports.com/2021/04/06/optoma-unveils-4k-gaming-projectors/",
-    "https://thebusinessofesports.com/2021/04/06/formula-one-relying-on-new-generation-of-fans-to-survive/",
     "https://thebusinessofesports.com/2021/04/06/jio-and-qualcomm-announce-call-of-duty-tournament/",
     "https://thebusinessofesports.com/2021/04/06/supercell-working-on-three-new-clash-universe-games/",
     "https://thebusinessofesports.com/2021/04/06/asus-rog-announces-the-ultimate-boss-fight-gaming-tournament/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26443/lineage-w-renews-mana-striker-class",
     "https://www.invenglobal.com/articles/26419/chzzk-expands-fan-support-experience-for-asian-games-lol-matches",
     "https://www.invenglobal.com/articles/26418/devsisters-updates-cookierun-kingdom-crumble-for-chuseok",
-    "https://www.invenglobal.com/articles/26417/persona-5-the-phantom-x-updates-persona-3-portable-collaboration"
+    "https://www.invenglobal.com/articles/26417/persona-5-the-phantom-x-updates-persona-3-portable-collaboration",
+    "https://www.invenglobal.com/articles/26416/dungeon-fighter-online-director-park-jong-min-discloses-firing-of-employee-for-rmt",
+    "https://www.invenglobal.com/articles/26415/zeus-god-of-arrogance-launches-chuseok-update-offering-165-summon-tickets",
+    "https://www.invenglobal.com/articles/26414/smilegate-hope-studio-showcases-social-games-at-korea-social-value-festa",
+    "https://www.invenglobal.com/articles/26413/sega-launches-new-sonic-merchandise-for-35th-anniversary",
+    "https://www.invenglobal.com/articles/26412/hideo-kojima-advises-backrooms-director-kane-parsons-on-independence"
   ],
   "title_hashes": [
-    "a6b39cf67b343c4e69eeddd50b9ceb0a",
-    "3fb5440e7487229f0bd24430bdd8068e",
-    "850d3d0f6c70e5a5e71b491074a504df",
-    "1fa7ccd814a694b0eed506020154284d",
-    "fc60437be797f633e04e9d3f6d468aef",
     "4c5769b8496702b4e2784c47477e4cf0",
     "b5d54e9ef176e888513b0d867f370a75",
     "f4b4890dad835fd868d270202922ab18",
@@ -16001,7 +15996,12 @@
     "b6e8dd1ea485c21b3f85a31846acef49",
     "7638fee1802393d03becba55277a982e",
     "9f6fe71a78d592f9ec17ed132097be8a",
-    "0e53fb32849461be0224950aafca54a9"
+    "0e53fb32849461be0224950aafca54a9",
+    "61e90d99d76df9e541f1ca7bfe23b3df",
+    "9d9ed6ca907c3a571e9fd820c307f998",
+    "85dd6e21343f0c23a35767c46913d1a7",
+    "9bd98ab4cdca965e3a8f2170ff319b18",
+    "a9f5bce8a154f261c57daa1deb537a80"
   ],
   "transfers": {
     "pages": {
@@ -21088,6 +21088,26 @@
     {
       "t": "1 24 3 4 5 chaser collaboration dream moon perfect persona phantom portable september update updates version will world",
       "ts": 1790157566.8386343
+    },
+    {
+      "t": "23 announcement director disciplinary disclosed discloses dungeon employee executive facts fighter firing jong min nexon online park recent rmt september surrounding through",
+      "ts": 1790157571.9178827
+    },
+    {
+      "t": "165 account adding arrogance chuseok content dungeon expanded god has holiday its large launches new offering progression scale season shared summon system targeting tickets update zeus",
+      "ts": 1790157575.3042285
+    },
+    {
+      "t": "3rd 65 658 attendees experiences festa games harvested hope inviting korea meals participate showcased showcases smilegate social studio they two value virtual where",
+      "ts": 1790157578.6987708
+    },
+    {
+      "t": "35th anniversary collection company crewneck game glow has hedgehog including items launched launches merchandise new official sega shop sonic video",
+      "ts": 1790157582.0605562
+    },
+    {
+      "t": "22nd advises backrooms control conversation director famitsu future gaming has hideo his independence interview japanese kane kojima live magazine parsons projects published september take told went",
+      "ts": 1790157585.444674
     }
   ]
 }
