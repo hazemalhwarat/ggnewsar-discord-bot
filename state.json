@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/03/30/beats-by-dre-announces-collaboration-with-faze-clan/",
-    "https://thebusinessofesports.com/2021/03/30/ymca-creates-esports-league-and-tournaments/",
-    "https://thebusinessofesports.com/2021/03/30/minecraft-earth-to-shut-down-leaving-ars-future-unclear/",
-    "https://thebusinessofesports.com/2021/03/30/bytedance-going-head-to-head-with-tencent/",
-    "https://thebusinessofesports.com/2021/03/30/qualcomm-reportedly-developing-gaming-device/",
     "https://thebusinessofesports.com/2021/03/29/developer-of-wowcube-opens-up-about-product-in-interview/",
     "https://thebusinessofesports.com/2021/03/29/ese-entertainment-signs-jbl-for-sponsorship-of-motorsports-and-esports-event/",
     "https://thebusinessofesports.com/2021/03/29/telcel-and-claro-join-latin-american-league-of-legends-league/",
@@ -7999,14 +7994,14 @@
     "https://www.hotspawn.com/league-of-legends/news/tft-patch-18-3",
     "https://www.hotspawn.com/valorant/news/valorant-viper-balenciaga",
     "https://www.hotspawn.com/counter-strike/news/best-big-swell-gloves-knife-combos-in-cs2",
-    "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-roadmap"
+    "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-roadmap",
+    "https://www.hotspawn.com/valorant/news/best-players-valorant-champions-shanghai",
+    "https://www.hotspawn.com/counter-strike/news/cs2-m14-leak",
+    "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+    "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
+    "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda"
   ],
   "title_hashes": [
-    "6d2a2759583bfabc66ad772bf97e6fc0",
-    "a51f8c317ed18687fda6ef143c322cdd",
-    "f8ad6f18fc481ca30ff1ba4b98c816c0",
-    "e68d22b03e4b25f0a2c7bf17f3cd89dc",
-    "dccd7b0dce978ac862795d39f9760223",
     "458c9eabd98407c850905ab2621abd44",
     "07072a08e2a168980b8f2b79653b2046",
     "78e1cf6d436a82dd43fc0cecf0317f55",
@@ -16001,7 +15996,12 @@
     "6ef22b0695da63fea199617f683c8482",
     "edf3bc699e9937f4d5065a9f44d53f73",
     "fc9afb16a82ecb0bb4f50c781ed97b95",
-    "44ced6cf4f681da635478d458f84e47b"
+    "44ced6cf4f681da635478d458f84e47b",
+    "50c32c334cd3b6ec7495bad89a9a2b70",
+    "1b7980b7cdccfcd6ff08f924e0871ea2",
+    "2529dfa80c72d010790e7a5867d762fe",
+    "0ffbd629f07922a6acc5d3cb60dca51b",
+    "0b0af61b0b7f3ec1f89708294f6af27e"
   ],
   "transfers": {
     "pages": {
@@ -21196,6 +21196,26 @@
     {
       "t": "60 amount been before beta character content forever get hardcore has have how includes know long name plus pre raids release released reservation roadmap surprising wow",
       "ts": 1790174454.1611698
+    },
+    {
+      "t": "10 all best brings champions championship comes era excited field final first four individual partnership players regions shanghai stacked talent together valorant vct watch world",
+      "ts": 1790174459.3741627
+    },
+    {
+      "t": "anything big cs2 files game got had immediately latest leaked leakers leaks leaves left m14 new officially see this trace typical unintentionally update valve wake weapon what where work",
+      "ts": 1790174462.7604554
+    },
+    {
+      "t": "activision affected age been developer edge empires employees following half has hit its just layoffs more move read studio transition under world",
+      "ts": 1790174466.5544443
+    },
+    {
+      "t": "17 accountable act commission controversial developers digital draft game internet keeping kids know most ndash need proposed published september spaces stands stipulati trustworthy what which",
+      "ts": 1790174470.019752
+    },
+    {
+      "t": "agency been coda disco elysium established former game has inspired launches leadership marketing more new pera petrol publisher publsh read title",
+      "ts": 1790174473.482243
     }
   ]
 }
