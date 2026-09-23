@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/03/29/developer-of-wowcube-opens-up-about-product-in-interview/",
-    "https://thebusinessofesports.com/2021/03/29/ese-entertainment-signs-jbl-for-sponsorship-of-motorsports-and-esports-event/",
-    "https://thebusinessofesports.com/2021/03/29/telcel-and-claro-join-latin-american-league-of-legends-league/",
-    "https://thebusinessofesports.com/2021/03/29/several-titles-teased-in-xbox-twitch-gaming-showcase/",
-    "https://thebusinessofesports.com/2021/03/29/saudi-gaming-boom-leads-arab-world/",
     "https://thebusinessofesports.com/2021/03/29/enthusiast-gaming-signs-integrated-partnership-with-tik-tok/",
     "https://thebusinessofesports.com/2021/03/29/sources-bytedance-acquires-moonton-gajing-studio-at-4b-valuation/",
     "https://thebusinessofesports.com/2021/03/29/red-bull-racing-esports-begins-partnership-with-fanatec/",
@@ -7999,14 +7994,14 @@
     "https://www.hotspawn.com/counter-strike/news/cs2-m14-leak",
     "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
     "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
-    "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda"
+    "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda",
+    "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+    "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
+    "https://europeangaming.eu/portal/latest-news/2026/09/23/214659/world-cup-2026-prediction-market-gambling-logos-study/",
+    "https://europeangaming.eu/portal/latest-news/2026/09/23/214647/ukgc-regulatory-burden-proposals-deadline/",
+    "https://europeangaming.eu/portal/latest-news/2026/09/23/214636/ggl-seeks-more-power-against-illegal-online-gambling/"
   ],
   "title_hashes": [
-    "458c9eabd98407c850905ab2621abd44",
-    "07072a08e2a168980b8f2b79653b2046",
-    "78e1cf6d436a82dd43fc0cecf0317f55",
-    "ed6f64a697e04a9debfc4f2390f4d5dd",
-    "efd61fc6599b63edd88242f580ba9c63",
     "d1951e57dcfa9557b4fe07af71c2bda4",
     "caa5b7476cc5063338a19771c775f5b9",
     "495641d1a94f9c6d9f3117f66fe1da13",
@@ -16001,7 +15996,12 @@
     "1b7980b7cdccfcd6ff08f924e0871ea2",
     "2529dfa80c72d010790e7a5867d762fe",
     "0ffbd629f07922a6acc5d3cb60dca51b",
-    "0b0af61b0b7f3ec1f89708294f6af27e"
+    "0b0af61b0b7f3ec1f89708294f6af27e",
+    "1187c15491c1f54ad7b7c60c3e537aa7",
+    "a31683b4606645b833bfff5a12ebf90a",
+    "8f56c13aa9b4774afe84cad51e929780",
+    "e9b97705cd16de4d5d6bd46f78a380c8",
+    "627c7a436d22faebe94932ec1592bd93"
   ],
   "transfers": {
     "pages": {
@@ -21216,6 +21216,26 @@
     {
       "t": "agency been coda disco elysium established former game has inspired launches leadership marketing more new pera petrol publisher publsh read title",
       "ts": 1790174473.482243
+    },
+    {
+      "t": "13 2026 21 21m during evil first h1 half increased japan led million more playstation read requiem resident rise sales sensor tower unit",
+      "ts": 1790174479.006968
+    },
+    {
+      "t": "age all alternative backlash concerns discord following has introducing its launched launches methods more not over privacy process read require selfies that users verification video",
+      "ts": 1790174482.5038502
+    },
+    {
+      "t": "8217 8230 advertising branding carried countries cup fifa footage gambling into live logos market match may outnumbered pitchside play post prediction researchers same say shared such where world",
+      "ts": 1790174485.8801274
+    },
+    {
+      "t": "160 25 8230 burdens call clos closes commission could cut gambling guidance industry invites post processes regulatory reporting rules september simplified streamlined suggest which",
+      "ts": 1790174489.3849647
+    },
+    {
+      "t": "8230 act against amendments appeared benter board can even executive firs gambling ggl illegal leeway member more online post ronald said seeks several take treaty when years",
+      "ts": 1790174492.724407
     }
   ]
 }
