@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/03/19/episode-123-video-vaynergaming-success-secrets-chipotle-gaming-activision-blizzard-quits-live-events/",
-    "https://thebusinessofesports.com/2021/03/18/episode-123-vaynergaming-success-secrets-chipotle-gaming-activision-blizzard-quits-live-events/",
-    "https://thebusinessofesports.com/2021/03/18/nodwin-gaming-receives-22-5m-from-pubg-owner/",
-    "https://thebusinessofesports.com/2021/03/18/luckbox-raises-14-1m-in-oversubscribed-private-placement-deal/",
-    "https://thebusinessofesports.com/2021/03/18/patriots-and-revolution-sign-deal-with-esports-entertainment-group/",
     "https://thebusinessofesports.com/2021/03/18/fyx-gaming-announces-partnership-with-unikrn/",
     "https://thebusinessofesports.com/2021/03/18/bbtv-announces-signings-of-numerous-gaming-influencers/",
     "https://thebusinessofesports.com/2021/03/17/faze-ceo-ninja-is-not-on-the-cutting-edge-of-gaming/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26466/arc-raiders-reveals-frozen-trail-update-ahead-of-october-8th-launch",
     "https://dotesports.com/general/news/quake-champions-no-longer-free-to-play",
     "https://www.hltv.org/news/45569/oddik-pause-esports-operations",
-    "https://www.hltv.org/news/45568/complexity-ceases-operations-and-jason-lake-departs-after-23-years"
+    "https://www.hltv.org/news/45568/complexity-ceases-operations-and-jason-lake-departs-after-23-years",
+    "https://www.vlr.gg/758479/fire-flux-allows-four-to-explore-options",
+    "https://insider-gaming.com/fallout-4-new-midwestern-power-armor-blast-past/",
+    "https://insider-gaming.com/nba-the-run-championship-belts/",
+    "https://insider-gaming.com/valorant-agent-viper-becomes-first-digital-balenciaga-ambassador/",
+    "https://insider-gaming.com/rlcs-world-championships-2026-most-watched-rocket-league-tournament/"
   ],
   "title_hashes": [
-    "4f897624715b8bf5658e7526b2726263",
-    "890c452512eda8f2248c8c54a8473af7",
-    "b14c975e51a15e10b8dde98cc512c5d3",
-    "a11b761aceea39e6c163793e27db2911",
-    "c645e11cbc6b04fd42bc98a40013bf52",
     "fb1ebd0edbd632d1a786fcb081b925a8",
     "c92cd4405e16af2eeef7ed8921b9214e",
     "015b44fb61997c57c4112605a33ca9b0",
@@ -16001,7 +15996,12 @@
     "4f796a500a8e80a37e5266e61449c49b",
     "5abb1c0f8ef88808cfd8e04e2abc6218",
     "a07397e42a1dc90026c3632f0572f585",
-    "3d98e88f19656017cdf2bf6ded773e9f"
+    "3d98e88f19656017cdf2bf6ded773e9f",
+    "dd53d0dc53ff1bbf455fd6bdc76ae207",
+    "ab8880e11793e95dba1b59bfffe5f84e",
+    "aa18ce944032a542963c7f83048f2497",
+    "5751a19dd7d5c1d21b6d2388cbf5d465",
+    "df09c3615d255fdd02296669cb0a1aab"
   ],
   "transfers": {
     "pages": {
@@ -21316,6 +21316,26 @@
     {
       "t": "23 after brand ceases complexity departs gamesquare has jason lake legendary operations ownership reverted years",
       "ts": 1790200131.480257
+    },
+    {
+      "t": "allows coach core explore fire flux four head options players their three will",
+      "ts": 1790200136.7000241
+    },
+    {
+      "t": "2001 4 8217 appeare armor blast brand bundle can fallout fans lean midwestern new not past post power really reintroduces seen since suit that",
+      "ts": 1790200140.0758655
+    },
+    {
+      "t": "2000s 8217 adds belts championship each five gameplay icons improvements introduces legend nba one plus post run several update wave",
+      "ts": 1790200143.5198941
+    },
+    {
+      "t": "2026 agent ambassador appeared balenciaga becomes brand champions digital first part partnership post shanghai valorant viper",
+      "ts": 1790200146.9215846
+    },
+    {
+      "t": "2026 all appeared championship championships esports ever finals league most post rlcs rocket this time tournament watched world year",
+      "ts": 1790200150.6012597
     }
   ]
 }
