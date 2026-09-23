@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/03/30/roccat-unveils-new-vulcan-pro-optical-tactile-rgb-gaming-keyboard/",
-    "https://thebusinessofesports.com/2021/03/30/razer-kraken-v3-x-gaming-headset-hits-stores/",
-    "https://thebusinessofesports.com/2021/03/30/oneqode-launches-gaming-hub-in-guam/",
-    "https://thebusinessofesports.com/2021/03/30/opera-gx-exceeds-eight-million-active-users/",
-    "https://thebusinessofesports.com/2021/03/30/fall-guys-boxzilla-bundle-available-through-amazon-prime-gaming/",
-    "https://thebusinessofesports.com/2021/03/30/registration-opens-for-2021-nhl-world-gaming-championship/",
-    "https://thebusinessofesports.com/2021/03/30/epic-games-worth-28b-as-fundraising-is-close-to-ending/",
-    "https://thebusinessofesports.com/2021/03/30/romain-grosjean-to-remain-with-haas-through-f1-esports-team/",
     "https://thebusinessofesports.com/2021/03/30/beats-by-dre-announces-collaboration-with-faze-clan/",
     "https://thebusinessofesports.com/2021/03/30/ymca-creates-esports-league-and-tournaments/",
     "https://thebusinessofesports.com/2021/03/30/minecraft-earth-to-shut-down-leaving-ars-future-unclear/",
@@ -7999,17 +7991,17 @@
     "https://insider-gaming.com/exclusive-amy-hennigs-uncharted-4-was-very-different-former-naughty-dog-dev-reveals/",
     "https://insider-gaming.com/2026-asian-games-esports-finals-pubg-mobile/",
     "https://insider-gaming.com/ea-sports-fc-27-title-update-1-0-1-patch-notes-fixes-across-the-grounds-gameplay-ultimate-team-and-more/",
-    "https://insider-gaming.com/counter-strike-2-chicken-eggs-explained/"
+    "https://insider-gaming.com/counter-strike-2-chicken-eggs-explained/",
+    "https://insider-gaming.com/counter-strike-rush-game-mode-update/",
+    "https://insider-gaming.com/minecraft-dungeons-2-achievements-trophies/",
+    "https://insider-gaming.com/only-20-devs-remain-at-halo-after-layoffs-its-claimed/",
+    "https://traxion.gg/ollis-garage-racings-legendary-dacia-will-be-on-display-at-this-years-simracing-expo-frankfurt/",
+    "https://www.hotspawn.com/league-of-legends/news/tft-patch-18-3",
+    "https://www.hotspawn.com/valorant/news/valorant-viper-balenciaga",
+    "https://www.hotspawn.com/counter-strike/news/best-big-swell-gloves-knife-combos-in-cs2",
+    "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-roadmap"
   ],
   "title_hashes": [
-    "1a597b8613a928c0e7d3ab814567cddc",
-    "46f1e77f7ec83e6e844dbe1257f18bd6",
-    "7358eb5f63164ba17a2f5ddd2180feca",
-    "e98d2f001da5678b39482efbdf5770dc",
-    "219c735156926e8cff9e5789b59cea4a",
-    "0ba62536119b8c4749814dd2e445f9af",
-    "a0e8d88c9db7e4062525a7776ec40a12",
-    "1334eb0070c0f94ac897be2fb7c534f6",
     "6d2a2759583bfabc66ad772bf97e6fc0",
     "a51f8c317ed18687fda6ef143c322cdd",
     "f8ad6f18fc481ca30ff1ba4b98c816c0",
@@ -16001,7 +15993,15 @@
     "429e303f75a5b436859b89b401b06d8d",
     "815786fea9a0fa73b09d3ba374503ab7",
     "ccb3a08cf8ebc84ddc3636c3950e3404",
-    "eaceb462545bc64013ef76d73c1e003f"
+    "eaceb462545bc64013ef76d73c1e003f",
+    "f6586069153cdfaad4c5380a000a568c",
+    "e0b8a1b6be7db84a78cabb762cb1cb0d",
+    "c9c16b830964648ed99c938fd84e7dc4",
+    "ab55fc388a378102743ca655607c0730",
+    "6ef22b0695da63fea199617f683c8482",
+    "edf3bc699e9937f4d5065a9f44d53f73",
+    "fc9afb16a82ecb0bb4f50c781ed97b95",
+    "44ced6cf4f681da635478d458f84e47b"
   ],
   "transfers": {
     "pages": {
@@ -21176,6 +21176,26 @@
     {
       "t": "2 after being chicken counter drops egg eggs mysterious night offered part players post receive reported strike that their they tuesday update weekly",
       "ts": 1790174434.8670466
+    },
+    {
+      "t": "2 25 8216 8217 added adds biggest counter fresh game got its just mode more old post reloads rush silent strike title update valve while year",
+      "ts": 1790174440.2655647
+    },
+    {
+      "t": "16th 18th 8217 dacia display expo frankfurt garage legendary logan october olli post racing simracing this will year",
+      "ts": 1790174443.8636928
+    },
+    {
+      "t": "8217 agent ambassador announced bal balenciaga becomes been before brand channels character chinese digital first game has into media named occupied riot shooter social stepping territory valorant viper",
+      "ts": 1790174447.2111614
+    },
+    {
+      "t": "8217 also best big bold combos cs2 everyo gloves has hokusai inspired knife made means most not quickly quite recognizable some specialist style swell them they which",
+      "ts": 1790174450.6857622
+    },
+    {
+      "t": "60 amount been before beta character content forever get hardcore has have how includes know long name plus pre raids release released reservation roadmap surprising wow",
+      "ts": 1790174454.1611698
     }
   ]
 }
