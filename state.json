@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26153/from-korean-games-to-kojima-xbox-tokyo-game-show-showcase",
-    "https://www.invenglobal.com/articles/26152/found-my-low-blood-pressure-cure-mega-man-dual-override",
-    "https://www.invenglobal.com/articles/26151/twisting-a-familiar-city-the-secrets-behind-control-resonant-design",
-    "https://www.invenglobal.com/articles/26150/astraea-oratio-a-reinterpretation-not-a-reenactment-of-classic-shin-denki",
-    "https://www.invenglobal.com/articles/26149/netmarbles-new-title-bloomwalker-confirmed-to-be-set-in-ni-no-kuni-universe",
-    "https://www.invenglobal.com/articles/26148/com2us-gachiakuta-breakout-set-for-2027-release",
-    "https://www.invenglobal.com/articles/26147/hideo-kojimas-new-title-physint-stars-bill-skarsg%C3%A5rd",
-    "https://www.invenglobal.com/articles/26145/north-korea-invades-south-korea-call-of-duty-modern-warfare-4-campaign-trailer-revealed",
-    "https://g2esports.com/blogs/news/g2-partners-with-wizards-of-the-coast-to-launch-new-rotating-game-inspired-counter-strike-jersey",
-    "https://g2esports.com/blogs/news/g2-l-one-piece",
-    "https://g2esports.com/blogs/news/g2-announces-g2-performance-lab-to-support-performance-development-of-esports-and-sports-athletes",
-    "https://g2esports.com/blogs/news/mcdonald-s-germany-partners-with-esports-giant-g2-to-fuel-emerging-talent-and-women-in-esports",
-    "https://g2esports.com/blogs/news/g2-partners-with-skin-club-as-official-skin-partner-for-cs2",
-    "https://g2esports.com/blogs/news/g2-pushes-the-boundaries-of-competition-with-mixed-vr-squad-g2-eva",
-    "https://g2esports.com/blogs/news/g2-esports-and-theta-labs-launch-ai-agent-sami",
-    "https://g2esports.com/blogs/news/g2-joins-forces-with-winamax",
     "https://g2esports.com/blogs/news/g2-and-nord-esports-join-forces-to-launch-g2-nord",
     "https://g2esports.com/blogs/news/g2-announces-betpanda-as-official-cs-global-betting-partner",
     "https://g2esports.com/blogs/news/g2-turns-a-decade-of-legacy-and-ambition-into-lore-with-launch-of-fantasy-action-webcomic-series-red-aura",
@@ -7999,23 +7983,25 @@
     "https://insider-gaming.com/tim-schafer-job-losses-comment/",
     "https://insider-gaming.com/pokemon-unite-will-shatter-esports-prize-records-in-last-ever-event/",
     "https://insider-gaming.com/bethesda-president-says-obsidians-creative-identity-will-remain/",
-    "https://insider-gaming.com/after-8-years-quake-champions-is-no-longer-free-to-play/"
+    "https://insider-gaming.com/after-8-years-quake-champions-is-no-longer-free-to-play/",
+    "https://insider-gaming.com/arc-raiders-getting-paid-battle-pass-mechanic/",
+    "https://www.hotspawn.com/dota2/news/pgl-wallachia-season-9-playoffs-predictions",
+    "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-weather-update-comes-to-the-beta-soon",
+    "https://www.hotspawn.com/league-of-legends/news/league-of-legends-patch-26-20",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnM2anZTa20wb0NHaTRwVVZmSWNtQUZ2NmxSbG5kY3lqQWpQbmdFVkhOUF9YWU9PTXNrdktSUEhqNG5ncnhRRTVIWHVFdGxTNXVqQ1p5VHBwX0xEcnZSMjdhanlUOG1yZF9sd21xejI1Q1k0OUdTVHRmMUxHaHFkZ0ZjX2lmd1N1OHFyZ1Zn?oc=5",
+    "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+    "https://www.talkesport.com/news/one-piece-pirate-warriors-4-ps5-sale/",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUHNSbmVia0laWEs1RW5pcnZYY014Q0poaUJfTU1GTERUYUlHOW1WNHl5YzVEcEZkVGRFLVo5N2lkemQ5aTQtN0tjZzUzNDkydUl4d0hYRENlZGJQSDNRbkg2OWJNM19LRFBaODg4SzMwRWZxX2thdmFiVG9wVGYtX2FaUUo2V2ZfelhYN1J6dFg1dEs3T3V2emlwNU9XdTEwaDBRV2tHLUFUOEQ5TzZ6Z1BVWlM0a0tzLWc?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFBxTDhsR2Fwa0wteUstUU1WS2M4emx2WHQ1Qk1XMDltNS1xYXVTSUlSRlA0bE1pX2NsNTE5ZnFFcERtUHBEMGJqQnV1aFVRTHQzREFfNWJ0SXIxem5qazUtYlNGNVVHVTk5TVh2SzNqb2tPdDBWdmhjdk0ybldrenl1cmRDRFFJSFdjQ0M4XzFEX1ZsbzlHcEpZNUVQRGR1LXd6YnNBc0RSSTM1eGVtQWdtNFhWdmNMc0FDdTlCRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdm1DT3BKTDhsc1BVengxanlON3V4Nm04eTBlM3YtQXpUY01lc1ZPbXdRb3NVejRjRGRPSHNGZzRBV2dJUmY2Q25rNGZKc25KOTVXUVU0MUxNQ3p1akpCUzdaTUN1bk9MSGFuYi1mcUtFaU5EY1l1dG5FbVJmZUlGaEZsNFVQU3p2OEo1SmtIdUhoRmlOS1ZoMEhwWWE1ZFF0YnJFLTMyTk5zNzh1eW1QRA?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb2JUZEozR2tkMHlOV000c2lQREc5S1FwRjk3cUV6WkRfUG5xUEZmUTljdlR6eWNfbkRtU2ZtLUg2UFotZDFSNVlBYklHOElybmllQlltdGI2SU9ndGl6R043al9XcXRjUDc2QkhLN0pZWnBzTi1DZFh0WWRUMU96cWRFYi0zY1JrM3dIMWF4b2dTdXAyd05EN0FoaHgxUXRwOVN6aUFHRkR2QXpUYlY4aS01TlRVWDV5c1gzeGJ3TjdpNWRBNnRv?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEdzVlhEVS1WNUFmcmJWcUhnNVNnOE8xSm1RQXQ4UEJna1NCQllfOTFLa0YtR0F3WXh6anR6ekNLMmF6bkVZU2dEOTdQRFBURENacW9ncXNOTXVvSEEwZElzT3p4Q3FjRFM1MlhVLU1zMzlCWVVkME81eVdUdmphZGdENThtdmVDM0dSWA?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXIyS0I1QjJ1WGhsRW56QjhoXzZ6Q2NnVjFTWlZFaEJIeUJMQWxhejl5ZEdyUnRueldBRGtmTWhZSm1ZVHRXNF9OYjBhZW5fUUVWVFJlYm03SXpkUzVvb095empjYTR2M1ZXUzdWcV9HbUhieUUwdnh5dlEyclZqN1RPY29DbGF4TzhsQUduZmozeUJhejJSNGpOTklpd1ZC?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcnNuZDFuUGxwRy1za3NjaXBaVVh5dTNma3labGlCd3dRY2lVbExxTVFoYndzNjFVdjNSQ0FZX09PdkZzQUV4ajFBLWJLWE5aZFRvOV9vTUhCQ0RjREYxc0Ixa0ZnOGFvZVNEVURmRFpuNG1QeVFDakYzY0lGMUZXWVZmNXdCU2FUVFpOVkhScmNHc290R2FDcmxwcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aQzlERnBNcUlSNkFyT2dSaW40eDlabDBaeGJDYjlaQzFJeDFPV1JWTDVxWkRTS0xaUkpsYzZ2RFNzdUVFYmNCVUx1ZWRkREExQkdtMkZBTldpdF82eFhn?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVJrcW9aNnR6OXRHeUwtd3RmSzZ1UGk5MkM3LVdjQ2lLMUU3S2U0NUd2TmVFeUxNZWctd3dFNnpQaDdHQ2M3M05uaVRYS1A2WmY4eEtfdFJBajkxRjhSaVUyWTNCRkVjMUtNbXBNa0gwRWpYUE13N194SU13SWxXZHR3?oc=5"
   ],
   "title_hashes": [
-    "094130d86f4e5d5e4383640a266f3f84",
-    "57ae7db57141dcceb8f924b89a37199b",
-    "50ac82ff22f8759ed063815eeb10b376",
-    "76957363d0c1ee5c6f7f19fca4767fd1",
-    "06b03dbdc7cca3911ffea5fbb723810b",
-    "2612eb82be19d7a7246f5714d3e564f0",
-    "861ca1df7f22dc806c11037eadbbd32d",
-    "7aeafe058348917c866e5193c135e8e6",
-    "fd5ed3cbf2972664c43631d1b00f2df7",
-    "cc892e436038a28065886532c0f95ba2",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "274ad6c6a91349ba60a6f1502c6d64ef",
-    "de2c617f02cec08701d62b81a2dd6c9d",
-    "bfd3c9eca3234e2403df6df120c240c0",
     "d470b83ab915f789af502dd52d2df6b1",
     "1be17628c575293b9a7f0d4749b079c9",
     "f89e71cbec083d774b8224c6e150bd58",
@@ -16001,7 +15987,21 @@
     "ab70ef1e39d882449bdc3c0ff1092196",
     "be1c4f8dd915c0003f2920deb906e175",
     "c975c075c265662fe2edb3840a326f14",
-    "ee3ec110f267f5b81f34cc68c3320231"
+    "ee3ec110f267f5b81f34cc68c3320231",
+    "4fdfb48dd1ea86ba82e5d2b07571376b",
+    "9138fd70e7a98b26ae7315587b69b4fa",
+    "e7cdd9449a50bd3d2620c14673b9a2b0",
+    "dad9227f16354681b99a5813cfe5591a",
+    "7f86c153faff1fc62ec6ce960962b1e6",
+    "70dea75ccdc817e569fd5f8617003895",
+    "2780c1b7186fa3d60f946d7fb414254b",
+    "1a43b2b4f54e9096d4c79430be858faf",
+    "e67368157f223b43816a3885941a1760",
+    "1eb0d4885dd6853a5b511fd46e06c3e0",
+    "87b061ee9e16e655adf208cf64466521",
+    "a9718c8a6c455651cde2d02ff8300e3f",
+    "4fbf699752071f12d7e181886d36a609",
+    "2f0d2ac580c24684691235454ab9d79f"
   ],
   "transfers": {
     "pages": {
@@ -21356,6 +21356,26 @@
     {
       "t": "8 after announcement appeared champions confirms details devs first free game here longer more new play post quake that years",
       "ts": 1790200169.3000236
+    },
+    {
+      "t": "1 9 been can closely day eight event first following heading here into kick meaning off over pgl playoffs predictions remaining run season stage swiss teams this wallachia winning yandex",
+      "ts": 1790200174.3091373
+    },
+    {
+      "t": "8217 add beta but comes coming don effect elwynn far few forest forever intense know major much rain set soon update weather wow zones",
+      "ts": 1790200179.91199
+    },
+    {
+      "t": "1 20 2026 26 7 8217 ahead before heartsteel here important kicks know league legends most need october off one patch scheduled season updates week what worlds you",
+      "ts": 1790200183.3998942
+    },
+    {
+      "t": "all bethesda boss braff confirm confirms developer distinct entertainment existing grounded has its jill leadership more obsidian read remain retaining staff structure team that will written",
+      "ts": 1790200188.8222492
+    },
+    {
+      "t": "arena esports level mtsu nbsp new sidelines",
+      "ts": 1790200192.3328102
     }
   ]
 }
