@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/03/25/microsoft-bringing-xbox-auto-hdr-feature-to-windows/",
-    "https://thebusinessofesports.com/2021/03/25/report-45-of-indian-users-introduced-to-gaming-during-pandemic/",
-    "https://thebusinessofesports.com/2021/03/25/eplay-announces-private-placement-close-and-esports-and-gaming-promotion-launch/",
-    "https://thebusinessofesports.com/2021/03/25/air-force-gaming-launches-global-intramural-esports-program/",
-    "https://thebusinessofesports.com/2021/03/25/hyperx-gaming-brand-expands-into-apparel-design/",
     "https://thebusinessofesports.com/2021/03/25/twitch-and-facebook-gaming-experience-massive-growth-during-pandemic/",
     "https://thebusinessofesports.com/2021/03/25/episode-124-on-demand-esports-tournaments-microsoft-10b-discord-rumor-gamestop-hardware-expansion/",
     "https://thebusinessofesports.com/2021/03/25/ballys-revises-offer-to-only-acquire-world-poker-tour-assets/",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcThGNWJRRGtuZTBJNjZCaVQwempsVXd5aWNrNzRkYnp3ZzhKNVdMa1lERTdqbXh0VG9HUmd6N2JKcGVrWVJfME1TdUwwdXJremstNjlROFpzQjhQNGQ4Z2xLSGs1RVVPNks0X3lGNVB6aldncXZSQi1MQ2xXZTVSdV9sT2FUWC1VQm0tclZUaw?oc=5",
     "https://www.hotspawn.com/dota2/news/pgl-wallachia-season-9-day-5-recap",
     "https://www.hotspawn.com/fortnite/news/fncs-global-championship-2026",
-    "https://www.hotspawn.com/valorant/news/valorant-champions-drops"
+    "https://www.hotspawn.com/valorant/news/valorant-champions-drops",
+    "https://www.hotspawn.com/valorant/news/best-teams-valorant-champions-shanghai",
+    "https://www.hotspawn.com/dota2/news/topson-returns-to-og-esports-for-new-dota-season",
+    "https://www.hotspawn.com/other/news/thunderpick-2026-esports-awards",
+    "https://www.hotspawn.com/counter-strike/news/best-cs2-players",
+    "https://esportswales.org/world-esports-championships-indonesia-2026/?utm_source=rss&utm_medium=rss&utm_campaign=world-esports-championships-indonesia-2026"
   ],
   "title_hashes": [
-    "a0867d9b6de4cf30c4523f97f2ab1389",
-    "65908868346fdac2cfae7307c1bf6735",
-    "c4f9c6300293454b67d107c2394ca684",
-    "57dcd90143f1d659772273449bf33b7c",
-    "d03e65b1e314b33329d6aa6f7e64733c",
     "946a96bf6704abb366ce9d37a69cc209",
     "5e84eccd6091aaa6b15a173c2592d06e",
     "3abaf6eeec7dc4f0eca8d709c556bbf8",
@@ -16001,7 +15996,12 @@
     "83b9b5156f2ff8f67815f149793f8709",
     "050cb39e42a762753efda780779baf0a",
     "a3ab154fe9ccd20e67b707756be8830c",
-    "3e6dd22bcbadd28ac1f928e3d28ca3b5"
+    "3e6dd22bcbadd28ac1f928e3d28ca3b5",
+    "fa2e331fcd980d5778d7de2293c32933",
+    "9114f2630386075368354005312bdf4c",
+    "27d0cf2d46d44ca253721d3b385c48e4",
+    "94c8ff6f1f5f8053523e74ad10a8a703",
+    "41076354cf1403061157c944fd76464f"
   ],
   "transfers": {
     "pages": {
@@ -21264,6 +21264,26 @@
     {
       "t": "able buddies card champions developer drops earn game games grabs gun has player revealed riot shanghai throughout titles upcoming valorant viewers watching",
       "ts": 1790188844.056527
+    },
+    {
+      "t": "16 best biggest champions combining converge department event ful hotspawn individual looked rankings see shanghai teams valorant vct will worldwide year",
+      "ts": 1790188849.1263018
+    },
+    {
+      "t": "8217 announced announcements been coming dota esports fast finally has have last merc new nostalgia one over post returns roster season their thick topson upcoming week",
+      "ts": 1790188852.553483
+    },
+    {
+      "t": "17 2026 announced awards become esa esports has have igaming locked miami named november official organizers partner place presenting taking thunderpick will",
+      "ts": 1790188856.0804427
+    },
+    {
+      "t": "10 2026 around best but ceiling clock competitive counter cs2 every find individuals players possible raised ranking seems server solutions strike teams though top what winning work year",
+      "ts": 1790188859.4773583
+    },
+    {
+      "t": "2026 announce championship championships esports federation host iesf indonesia international proud returns that third time will world",
+      "ts": 1790188863.5181289
     }
   ]
 }
