@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/04/06/clx-gaming-debuts-11th-gen-intel-core-processors/",
-    "https://thebusinessofesports.com/2021/04/06/high-school-esports-offering-new-paths-to-success/",
-    "https://thebusinessofesports.com/2021/04/06/msi-launches-line-of-gaming-laptops/",
-    "https://thebusinessofesports.com/2021/04/06/500m-esports-venue-shines-light-on-gaming-market/",
-    "https://thebusinessofesports.com/2021/04/06/gaming-keeps-tencent-in-the-green-in-q4/",
     "https://thebusinessofesports.com/2021/04/06/business-of-esports-launches-worlds-first-esports-nft/",
     "https://thebusinessofesports.com/2021/04/06/most-luxurious-gaming-facility-in-india-unveiled/",
     "https://thebusinessofesports.com/2021/04/06/esports-betting-coming-to-new-jersey/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26447/eclipse-the-awakening-launches-4-chuseok-events",
     "https://www.invenglobal.com/articles/26448/line-games-the-war-of-genesis-mobile-reaches-no-1-in-one-store-sales",
     "https://www.invenglobal.com/articles/26446/valhalla-survival-hosts-7-day-attendance-event-for-chuseok",
-    "https://www.invenglobal.com/articles/26445/kakao-games-offers-90-divine-summon-tickets-for-odin-chuseok-event"
+    "https://www.invenglobal.com/articles/26445/kakao-games-offers-90-divine-summon-tickets-for-odin-chuseok-event",
+    "https://www.invenglobal.com/articles/26444/yeongroti-does-it-again-secures-world-first-clear-of-mordum-nightmare",
+    "https://www.invenglobal.com/articles/26443/lineage-w-renews-mana-striker-class",
+    "https://www.invenglobal.com/articles/26419/chzzk-expands-fan-support-experience-for-asian-games-lol-matches",
+    "https://www.invenglobal.com/articles/26418/devsisters-updates-cookierun-kingdom-crumble-for-chuseok",
+    "https://www.invenglobal.com/articles/26417/persona-5-the-phantom-x-updates-persona-3-portable-collaboration"
   ],
   "title_hashes": [
-    "fcc5029b95de566b15a7053a91755928",
-    "2df920f1b07af7a749780cdcc04025e2",
-    "5f04d90286cbbea25dbe2d867570845a",
-    "ca3dd2dfecbe7a379ae532dd3fedfee0",
-    "acfdbc6074c522651ab132b2e3e10249",
     "a6b39cf67b343c4e69eeddd50b9ceb0a",
     "3fb5440e7487229f0bd24430bdd8068e",
     "850d3d0f6c70e5a5e71b491074a504df",
@@ -16001,7 +15996,12 @@
     "6b7b655dd22faa3f10677c512493a8a0",
     "bdc3731a50951db2b304771600e67c16",
     "3ce04da7007a1bdbea57c7448db00a21",
-    "56c8c7e9ce544ac93c586659179527ec"
+    "56c8c7e9ce544ac93c586659179527ec",
+    "1d18317feeb618f619977edaf02377fa",
+    "b6e8dd1ea485c21b3f85a31846acef49",
+    "7638fee1802393d03becba55277a982e",
+    "9f6fe71a78d592f9ec17ed132097be8a",
+    "0e53fb32849461be0224950aafca54a9"
   ],
   "transfers": {
     "pages": {
@@ -21068,6 +21068,26 @@
     {
       "t": "23 90 celebration chuseok divine event games hereinafter hosting kakao odin offers rising september starting summon tickets valhalla",
       "ts": 1790157548.070654
+    },
+    {
+      "t": "3 achieved act again ark been clear does extreme first has kazeros lost mordum nightmare raid secures world yeongroti",
+      "ts": 1790157553.0797012
+    },
+    {
+      "t": "23 class lineage mana ncsoft out renews rolled september striker update wednesday",
+      "ts": 1790157556.5488718
+    },
+    {
+      "t": "2026 aichi asian cheering chzzk expanding expands experience experiences fan games league legends lol matches national offline online partnership riot support team",
+      "ts": 1790157559.9665031
+    },
+    {
+      "t": "adding ahead battle chuseok content cookierun cookies crumble devsisters holiday idle its kingdom mobile new rpg updates",
+      "ts": 1790157563.429099
+    },
+    {
+      "t": "1 24 3 4 5 chaser collaboration dream moon perfect persona phantom portable september update updates version will world",
+      "ts": 1790157566.8386343
     }
   ]
 }
