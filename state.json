@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/04/07/fortnites-competitive-format-ruins-esports-potential/",
-    "https://thebusinessofesports.com/2021/04/07/lawn-mowing-simulator-announced-for-xbox/",
-    "https://thebusinessofesports.com/2021/04/07/gamestop-sold-out-of-gpus/",
-    "https://thebusinessofesports.com/2021/04/07/business-of-esports-minute-043-100m-manticore-rocket-league-mobile-opera-gamer-browser/",
-    "https://thebusinessofesports.com/2021/04/07/olympic-committee-discusses-potential-of-esports/",
     "https://thebusinessofesports.com/2021/04/06/clx-gaming-debuts-11th-gen-intel-core-processors/",
     "https://thebusinessofesports.com/2021/04/06/high-school-esports-offering-new-paths-to-success/",
     "https://thebusinessofesports.com/2021/04/06/msi-launches-line-of-gaming-laptops/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26453/9-enhanced-heroic-belt-appears-marketplace-price-overview",
     "https://www.invenglobal.com/articles/26452/between-games-and-videos-how-road-to-empress-reveals-the-boundaries-of-chinese-content-censorship",
     "https://www.invenglobal.com/articles/26450/stove-to-host-2026-fall-in-holiday-promotion-for-17-days-starting-on-the-23rd",
-    "https://www.invenglobal.com/articles/26451/dragon-flight-14th-anniversary-introduces-new-hong-ji-yoon-hatchling"
+    "https://www.invenglobal.com/articles/26451/dragon-flight-14th-anniversary-introduces-new-hong-ji-yoon-hatchling",
+    "https://www.invenglobal.com/articles/26449/kim-young-chan-wins-bronze-in-gt7-south-koreas-first-esports-medal",
+    "https://www.invenglobal.com/articles/26447/eclipse-the-awakening-launches-4-chuseok-events",
+    "https://www.invenglobal.com/articles/26448/line-games-the-war-of-genesis-mobile-reaches-no-1-in-one-store-sales",
+    "https://www.invenglobal.com/articles/26446/valhalla-survival-hosts-7-day-attendance-event-for-chuseok",
+    "https://www.invenglobal.com/articles/26445/kakao-games-offers-90-divine-summon-tickets-for-odin-chuseok-event"
   ],
   "title_hashes": [
-    "fb059b6ebf4bf1afa73629e2ce1bb9f8",
-    "061f72b256681b596109c14e4e782faf",
-    "61c9a1cd72d5131edaf25746aefd8d7f",
-    "59cd88a059a03bcd3a28eae6058943a0",
-    "6784df394280f6cd1d6b43af94167c7c",
     "fcc5029b95de566b15a7053a91755928",
     "2df920f1b07af7a749780cdcc04025e2",
     "5f04d90286cbbea25dbe2d867570845a",
@@ -16001,7 +15996,12 @@
     "2e621759a2a9fc41997f2f7e30ce881c",
     "dd5c9ad78c48011ad529267cde19a216",
     "f4335133323ad24575dabd3f69452a37",
-    "4da8e1baea17e576ffacb1e211b50a2f"
+    "4da8e1baea17e576ffacb1e211b50a2f",
+    "fadf8abad8a77eb96854b13007e0afd9",
+    "6b7b655dd22faa3f10677c512493a8a0",
+    "bdc3731a50951db2b304771600e67c16",
+    "3ce04da7007a1bdbea57c7448db00a21",
+    "56c8c7e9ce544ac93c586659179527ec"
   ],
   "transfers": {
     "pages": {
@@ -21048,6 +21048,26 @@
     {
       "t": "14th 23 adding anniversary collaboration dragon equip exclusive flight games hatchling hong introduces its launched line mark new pieces second september service singer two yoon",
       "ts": 1790157528.8504655
+    },
+    {
+      "t": "2026 7 aichi asian associationkim bronze chan competing esports finals first games gran gt7 kim korea medal nagoya south sports turismo wins won young",
+      "ts": 1790157534.1166332
+    },
+    {
+      "t": "4 awakening chuseok developed eclipse events four growth hereinafter holding launches log mark materials npixel providing referred smilegate",
+      "ts": 1790157537.5991426
+    },
+    {
+      "t": "1 23rd announced developed games genesis line meerkat mobile one rankings reached reaches sales srpg store that war",
+      "ts": 1790157541.0875013
+    },
+    {
+      "t": "7 attendance celebration chuseok day event events game hack hosts its lionheart roguelike running slash studio survival valhalla",
+      "ts": 1790157544.6481698
+    },
+    {
+      "t": "23 90 celebration chuseok divine event games hereinafter hosting kakao odin offers rising september starting summon tickets valhalla",
+      "ts": 1790157548.070654
     }
   ]
 }
