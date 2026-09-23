@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/04/09/method-partners-with-adamas-esports/",
-    "https://thebusinessofesports.com/2021/04/09/krafton-applies-to-go-public-in-south-korea/",
-    "https://thebusinessofesports.com/2021/04/09/live-after-show-126b-worlds-largest-game-dev-amazon-gaming-store-gamestop-1b-raise-microsoft-army-ar-xqc-gfuel-nielsen-esports-shutdown-applovin-ipo/",
-    "https://thebusinessofesports.com/2021/04/09/microsoft-to-reportedly-host-whats-next-for-gaming-event/",
-    "https://thebusinessofesports.com/2021/04/09/xbox-boss-says-cloud-gaming-soon-coming-to-ios/",
-    "https://thebusinessofesports.com/2021/04/09/microsoft-lands-deal-with-u-s-army/",
     "https://thebusinessofesports.com/2021/04/09/gaming-pc-monitor-shipment-increases-by-almost-27-in-2020/",
     "https://thebusinessofesports.com/2021/04/09/report-cloud-gaming-expected-to-grow-fast-in-china/",
     "https://thebusinessofesports.com/2021/04/09/nvidia-to-fight-gaming-gpu-shortage-with-geforce-graphics-card/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26429/nexus-launches-staking-token-stone-on-the-23rd",
     "https://www.invenglobal.com/articles/26428/seeing-the-world-through-the-eyes-of-monsters-how-aniimo-expanded-the-joy-of-collection",
     "https://www.invenglobal.com/articles/26427/new-terra-boss-vegamont-arrives-tl-adds-crafting-for-chaos-eye-weapons",
-    "https://www.invenglobal.com/articles/26426/aniimo-launches-globally-on-mobile-expanding-to-all-platforms"
+    "https://www.invenglobal.com/articles/26426/aniimo-launches-globally-on-mobile-expanding-to-all-platforms",
+    "https://www.invenglobal.com/articles/26425/com2us-holdings-launches-fading-echo-on-ps5-and-xbox-on-the-23rd",
+    "https://www.invenglobal.com/articles/26424/ncsoft-hosts-chuseok-events-across-8-live-games",
+    "https://www.invenglobal.com/articles/26423/up-to-200000-gold-and-a-relic-title-lost-ark-act-3-extreme-update",
+    "https://www.invenglobal.com/articles/26422/riot-games-hosts-cheering-event-for-south-korean-lol-national-team",
+    "https://www.invenglobal.com/articles/26421/kakao-games-new-title-world-of-dokkaebi-character-name-reservation-closes-in-1-hour",
+    "https://www.invenglobal.com/articles/26420/bang-dream-our-notes-launches-globally-on-september-24"
   ],
   "title_hashes": [
-    "f0a509c16926e01e229ebb31b3d379ed",
-    "d885f66bb7be9f488f71b83ce06a686a",
-    "cc48d72a20443eefb24123d3ee5f0d7a",
-    "8755a9671b09e7d4c14cc184169c7bc5",
-    "c730291ddeec4a2cff8760fba1ee79bb",
-    "8f4a42dba6e9f86caa13239ad80ff007",
     "2b1c7696014e2a2080115c8a649326f7",
     "aca7c1d485d4beffd1e1946185206854",
     "310ecdece96364ad3810c53a90aabf3f",
@@ -16001,7 +15995,13 @@
     "ccbc38509e9cc5d6c8f398f2b6d60a01",
     "d26f843acfb3e07c00ac03495cac3527",
     "2d061fcca2f18eea62e845584ec18e74",
-    "83dcba4821745a127d159384e3d38289"
+    "83dcba4821745a127d159384e3d38289",
+    "c932d1d093c46a70d8f931990ae484c7",
+    "9f53ba0f7b27066d9bff991c01e66493",
+    "40d84f033e7479f8e06fb7dfa530268c",
+    "e8387a8dbd6527a197d0e7a0346c996e",
+    "83da4a8b94365399eb6a875dcab37d04",
+    "1a21c4199f4b2a722d8c6e527b63a95e"
   ],
   "transfers": {
     "pages": {
@@ -21324,6 +21324,26 @@
     {
       "t": "all android aniimo catching creature expanding globally has ios its launched launches mobile open pawprint platforms rpg studio supported version world",
       "ts": 1790139833.0650501
+    },
+    {
+      "t": "23rd action adventure com2us echo fading game holdings launches ps5 released series xbox",
+      "ts": 1790139838.4449313
+    },
+    {
+      "t": "8 across active celebration chuseok eight events games holding hosts its live ncsoft timed",
+      "ts": 1790139842.0417895
+    },
+    {
+      "t": "23 campaign cheering competing esports event games hereinafter hosts international its korea korean league legends lol national riot september south support team tour unveiled warriors",
+      "ts": 1790139845.5565078
+    },
+    {
+      "t": "1 1st 2 5d 8 ahead approximately character closed closes dokkaebi early event games hour its kakao launch mmorpg name new october official one reservation title world",
+      "ts": 1790139849.0647078
+    },
+    {
+      "t": "24 bang bilibili dream game globally its launch launches new notes our rhythm september will",
+      "ts": 1790139852.6273792
     }
   ]
 }
