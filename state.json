@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/04/10/authentic-artists-creates-ai-virtual-artists-for-gaming-and-streaming/",
-    "https://thebusinessofesports.com/2021/04/10/report-oppo-patents-mobile-gaming-controller/",
-    "https://thebusinessofesports.com/2021/04/10/gigazone-gaming-tournament-going-digital/",
-    "https://thebusinessofesports.com/2021/04/10/funding-for-indian-online-gaming-platforms-hits-six-year-high/",
-    "https://thebusinessofesports.com/2021/04/10/u-s-soccer-announces-collaboration-with-esports-engine/",
-    "https://thebusinessofesports.com/2021/04/10/red-bull-kicking-off-valorant-esports-tournament/",
-    "https://thebusinessofesports.com/2021/04/10/nuveen-to-acquire-new-comcast-esports-studio-in-la-for-54m/",
     "https://thebusinessofesports.com/2021/04/10/ldn-utd-enters-partnership-with-matchroom/",
     "https://thebusinessofesports.com/2021/04/09/nbc-sports-launches-pick-n-roll-game/",
     "https://thebusinessofesports.com/2021/04/09/streamer-nihachu-joins-guild-esports/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/26441/netmarble-updates-sol-enchant-for-100-day-anniversary",
     "https://www.invenglobal.com/articles/26440/nc-to-hold-global-cbt-for-astrae-oratio-on-october-2",
     "https://www.invenglobal.com/articles/26439/yoon-yang-domestic-representative-system-shifts-from-formal-designation-to-substantive-responsible-entity",
-    "https://www.invenglobal.com/articles/26438/lost-ark-adds-kazeros-raid-extreme-mode"
+    "https://www.invenglobal.com/articles/26438/lost-ark-adds-kazeros-raid-extreme-mode",
+    "https://www.invenglobal.com/articles/26437/afk-arena-begins-kaiju-no-8-collaboration",
+    "https://www.invenglobal.com/articles/26436/hashkey-cloud-joins-onechain-as-validator",
+    "https://www.invenglobal.com/articles/26435/trait-presets-and-new-page-added-september-23-patch-key-summary",
+    "https://www.invenglobal.com/articles/26434/gather-songpyeon-for-buff-items-instant-mp-recovery-key-points-for-the-chuseok-event",
+    "https://www.invenglobal.com/articles/26433/an-in-depth-look-at-the-starcraft-shooter-universe",
+    "https://www.invenglobal.com/articles/26432/the-seven-deadly-sins-grand-cross-releases-85-million-downloads-celebration-update",
+    "https://www.invenglobal.com/articles/26431/kakao-games-revamps-seasons-of-illusions-balance-in-archeage-war"
   ],
   "title_hashes": [
-    "bd5bd837aecd912020f13a684e992a4d",
-    "88cd5ba1e49e5c9e8d6a98d060d12e61",
-    "13666ef4b21ee570ca8d161e4928ffcb",
-    "2541470bed0081939156bb5992b0750a",
-    "b963655f77d932e05394fc8053b7fa47",
-    "b9b501f94573b1a45babeceaf05a73d5",
-    "3cc7398c326a0d0d8aa01afe8886e4af",
     "a222134deef84c07d0c92af19bf42aa1",
     "6468ca8596120f40863944cb68a4fce1",
     "508aedaed1c62ef88d2b8572719bd7aa",
@@ -16001,7 +15994,14 @@
     "eaae863a64ae35cd9a737003b07eb703",
     "242accbb15e40895b90eabab67e29d1a",
     "b913d68dfc032724d2cce0f55cdeec04",
-    "5cf3609048fbd4d19c5ee816c06bffd0"
+    "5cf3609048fbd4d19c5ee816c06bffd0",
+    "6a128679433ffc3368602b84b1725dcd",
+    "f2576c95878936e415a7eba00b934257",
+    "0d88d0950cae90545d69f55ae53d30d4",
+    "22f5d44ac11bdd7b69e14ada2b5d5452",
+    "f31c4b9665642b49d4b5fd500d4a54b8",
+    "81d1d271360cdc12e75226fee60d8037",
+    "099b6e475c481428811bda42b21d4ac5"
   ],
   "transfers": {
     "pages": {
@@ -21284,6 +21284,26 @@
     {
       "t": "3 act added adds ark extreme finale has kazeros limited lost mode raid smilegate time",
       "ts": 1790139792.6786923
+    },
+    {
+      "t": "23 8 afk anime arena begins between collaboration games global kaiju launching lilith september starting",
+      "ts": 1790139798.4485285
+    },
+    {
+      "t": "23 announced ceo cloud firm global guk has hashkey hyun infrastructure jang joined joins nexus node onechain september that validator",
+      "ts": 1790139802.0722167
+    },
+    {
+      "t": "beyond came depth doesn explain game gamebeyond games just look shooter starcraft story tells universe where",
+      "ts": 1790139806.06632
+    },
+    {
+      "t": "85 announced celebration cross deadly downloads festival godlike grand has hereinafter launched million mobile netmarble releases rpg seven sins that update",
+      "ts": 1790139809.636482
+    },
+    {
+      "t": "23rd adjusted announced archeage balance dungeon features games has illusions improved its kakao life mmorpg monster quality revamps seasons that war",
+      "ts": 1790139813.2174234
     }
   ]
 }
