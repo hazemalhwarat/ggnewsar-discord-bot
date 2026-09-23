@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/03/28/sea-games-2021-to-feature-eight-esports-titles/",
-    "https://thebusinessofesports.com/2021/03/28/xbox-game-pass-experiences-huge-growth/",
-    "https://thebusinessofesports.com/2021/03/28/tencent-sees-jump-in-quarterly-revenue-sales/",
-    "https://thebusinessofesports.com/2021/03/28/esports-technologies-relaunches-gogawi-com/",
-    "https://thebusinessofesports.com/2021/03/28/mtg-agrees-to-buy-developer-ninja-kiwi/",
     "https://thebusinessofesports.com/2021/03/28/fashion-retailer-primark-enters-esports-through-celeb-league/",
     "https://thebusinessofesports.com/2021/03/28/fda-approved-gaming-shines-light-on-the-industrys-therapeutic-potential/",
     "https://thebusinessofesports.com/2021/03/28/live-after-show-124b-gamestop-pivot-discord-future-epic-fundraising-ymca-esports-gaming-studio-frenzy-android-switch/",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IOWlTMFYwb2VtdUJBM25DUWtsalpFQkttdzU5SlFvZTNHYldDUUJsZ1JvVENZVXN6VXprdk90REpaaUlBUWpveENiUnZkNWFRNWMzdjZlbw?oc=5",
     "https://www.talkesport.com/news/xbox-mythic-achievement-symbol-sound/",
     "https://www.talkesport.com/news/playstation-store-sale-september-2026-best-ps5-deals/",
-    "https://www.talkesport.com/news/cs2/esl-pro-league-season-24-teams-schedule/"
+    "https://www.talkesport.com/news/cs2/esl-pro-league-season-24-teams-schedule/",
+    "https://www.talkesport.com/news/valorant/vct-champions-2026-top-5-players-teams/",
+    "https://www.talkesport.com/news/pubg-banned-in-vietnam-pvs-2026-removed/",
+    "https://www.talkesport.com/news/valorant/valorant-champions-2026-day-1-schedule/",
+    "https://www.talkesport.com/editorials/lec-dependent-caedrel-co-streaming-riot-games/",
+    "https://www.talkesport.com/gta-6/gta-6-marketing-vice-city-sign/"
   ],
   "title_hashes": [
-    "a6a04a369a8bc7126b249da5fff0dcb1",
-    "84d81b89925fd54f09e6dce8c8308190",
-    "f129fc971c2877f45d3f7f3cfb02a08b",
-    "7f3caf3e3320062c137a90c439173aca",
-    "e86f6e56da6a21eaf893d7d475dd9391",
     "cbfc64d1bae2dfcd694c39632efe73f0",
     "8a8287b03afef870112be4f06e2a2cc7",
     "62c2198b8cf9e71746e46cfa4993328e",
@@ -16001,7 +15996,12 @@
     "1511981ca76d38a188b93a5d5c203e18",
     "2538eabfd62d67f89ba4a71f52e454d6",
     "c763058d914783c780a9b11d4bf788bf",
-    "60ab138c970afea71120ff74ff87c0ad"
+    "60ab138c970afea71120ff74ff87c0ad",
+    "5fab33180f7eb087e18e3400c1169840",
+    "a5c34351841b4e2f1585b7667e276017",
+    "15c2a7bf0126ef721cae7d2fcadfd7cd",
+    "07ab5c56cabc303750df829003237720",
+    "2f3c99d5b087423346415d0658104d9c"
   ],
   "transfers": {
     "pages": {
@@ -21276,6 +21276,26 @@
     {
       "t": "11 16 2026 24 3 brings complete cs2 dates details esl find format katowice league list october playoff poland pool post prize pro schedule season team teams tournament watch where",
       "ts": 1790174531.1851723
+    },
+    {
+      "t": "16 2026 24 5 across breakout champions cryocells dambi defending here kicks like nrg off players september shanghai stars teams top vct watch",
+      "ts": 1790174536.3673713
+    },
+    {
+      "t": "2 2026 banned been channels dark esports has krafton licensed never offline phase post pubg pvs removed reports say schedule vanished vietna vietnam vietnamese",
+      "ts": 1790174539.8202302
+    },
+    {
+      "t": "1 2026 24 begins champions check complete day games live match matches opening post schedule september shanghai teams timings valorant watch where",
+      "ts": 1790174543.219691
+    },
+    {
+      "t": "8217 become broadcast caedrel commentators dependent desk european experienced followed has league lec listened meant opened riot streaming there time too watching when you",
+      "ts": 1790174546.5957618
+    },
+    {
+      "t": "000 1 6 975 campaign center city games gta has its kaseya marketing massive miami million part post reportedly rockstar sign spent vice welcome",
+      "ts": 1790174550.0516245
     }
   ]
 }
