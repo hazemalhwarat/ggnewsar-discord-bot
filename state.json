@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/04/06/wall-street-analyst-expects-esports-entertainment-groups-stock-to-double/",
-    "https://thebusinessofesports.com/2021/04/06/turkish-gaming-start-ups-finding-success/",
-    "https://thebusinessofesports.com/2021/04/06/guild-esports-signs-sponsorship-deal-with-subway/",
-    "https://thebusinessofesports.com/2021/04/06/hyper-casual-games-are-changing-the-esports-industry-in-india/",
-    "https://thebusinessofesports.com/2021/04/05/gfuel-ceo-and-founder-discusses-gaming/",
-    "https://thebusinessofesports.com/2021/04/05/niantics-5g-game-demo-highlights-future-of-ar-gaming/",
-    "https://thebusinessofesports.com/2021/04/05/tencent-ends-partnership-with-burberry/",
     "https://thebusinessofesports.com/2021/04/05/esports-entertainment-participates-in-noble-capital-markets-virtual-road-show-series/",
     "https://thebusinessofesports.com/2021/04/05/cd-projekt-to-reconsider-multiplayer-option-for-cyberpunk-2077/",
     "https://thebusinessofesports.com/2021/04/05/business-of-esports-weekly-news-345/",
@@ -7999,15 +7992,16 @@
     "https://insider-gaming.com/minecraft-dungeons-2-editions-pre-order-bonuses/",
     "https://insider-gaming.com/only-20-halo-studios-remain-after-layoffs-its-claimed/",
     "https://insider-gaming.com/activision-is-rebooting-halo-franchise-after-xbox-changes-its-claimed/",
-    "https://insider-gaming.com/microsofts-xbox-layoffs-will-fall-short-of-previously-stated/"
+    "https://insider-gaming.com/microsofts-xbox-layoffs-will-fall-short-of-previously-stated/",
+    "https://insider-gaming.com/minecraft-dungeons-2-xbox-game-pass/",
+    "https://insider-gaming.com/will-gears-of-war-e-day-be-on-xbox-game-pass/",
+    "https://insider-gaming.com/xbox-pc-app-reveals-mythic-achievement-unlock-sound-symbol/",
+    "https://esportsinsider.com/2026/09/serta-kpl-partnership",
+    "https://www.hltv.org/news/45564/the-evps-and-all-stars-of-starladder-starseries-fall-2026",
+    "https://dotesports.com/general/news/gran-turismo-7-asian-games",
+    "https://dotesports.com/genshin-impact/guides/genshin-impact-banner-schedule"
   ],
   "title_hashes": [
-    "8192fa27dbc057a0ccea26d3f0ddba19",
-    "d0c879a1bcea3c09a299a9464509c4d8",
-    "6985abd7c8650bcad734ac1197c5ead3",
-    "c6764bfa9203599917265f84fa3a4de4",
-    "059fd15710555cbb99364480aa82b4d3",
-    "e8b74183f1d5e5228c0c430e9b55d6b0",
     "47af3c3dad5e44dc34a7739ad15a9689",
     "e2b9e6abd2e9b3ffc8d3e053af1fa879",
     "a913bd0e6e02ba5e01c1e85f0ceada4b",
@@ -16001,7 +15995,13 @@
     "4809156131e1cddd02ee27532a36a719",
     "1d2a84db31987c2186fd2e127551ee1b",
     "dd420a73c96d38e58d69eceb664a7316",
-    "233116561f35f27c97c4d044f3315c38"
+    "233116561f35f27c97c4d044f3315c38",
+    "8fdc8106bd66c630d648175c7fc568c6",
+    "83b242a3b9a96ae7fde1bee17d058a7f",
+    "a4b5721a1147b00530e919bacffa75f8",
+    "1ea7b6b2ac8ddff166a33c0fe7958912",
+    "28c09ad5f1825baf7303afefba52abb3",
+    "74556e5e433b6496127ebddf54d831e8"
   ],
   "transfers": {
     "pages": {
@@ -21128,6 +21128,26 @@
     {
       "t": "8217 but continued fall figure its layoffs major microsoft part post previously reached restructuring short state stated will won xbox",
       "ts": 1790157604.1507723
+    },
+    {
+      "t": "2 access all appeared details dungeons first game gaming insider launch minecraft pass post provides subscription whether will xbox",
+      "ts": 1790157611.0533302
+    },
+    {
+      "t": "achievement achievements after amp app been details equivalent have mythic new platinum playstation post reveals sound symb symbol uncovered unlock upcoming update xbox",
+      "ts": 1790157614.4416196
+    },
+    {
+      "t": "brand brings dream esports featured into its kpl league makes mattress named partner partnership post product serta sleep smart tech x1",
+      "ts": 1790157617.8421397
+    },
+    {
+      "t": "2026 7 aichi bronze chan earns esports finals finish first gives gran gt7 its kim korea medal place podium south squad third turismo young",
+      "ts": 1790157621.3381648
+    },
+    {
+      "t": "banner banners current everything genshin impact plan pulls schedule upcoming you your",
+      "ts": 1790157624.801231
     }
   ]
 }
