@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/04/06/jio-and-qualcomm-announce-call-of-duty-tournament/",
-    "https://thebusinessofesports.com/2021/04/06/supercell-working-on-three-new-clash-universe-games/",
-    "https://thebusinessofesports.com/2021/04/06/asus-rog-announces-the-ultimate-boss-fight-gaming-tournament/",
-    "https://thebusinessofesports.com/2021/04/06/china-strengthens-gaming-restrictions-for-minors/",
-    "https://thebusinessofesports.com/2021/04/06/wanyoo-plans-to-expand-esports-center-franchises-to-more-countries/",
     "https://thebusinessofesports.com/2021/04/06/wall-street-analyst-expects-esports-entertainment-groups-stock-to-double/",
     "https://thebusinessofesports.com/2021/04/06/turkish-gaming-start-ups-finding-success/",
     "https://thebusinessofesports.com/2021/04/06/guild-esports-signs-sponsorship-deal-with-subway/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26415/zeus-god-of-arrogance-launches-chuseok-update-offering-165-summon-tickets",
     "https://www.invenglobal.com/articles/26414/smilegate-hope-studio-showcases-social-games-at-korea-social-value-festa",
     "https://www.invenglobal.com/articles/26413/sega-launches-new-sonic-merchandise-for-35th-anniversary",
-    "https://www.invenglobal.com/articles/26412/hideo-kojima-advises-backrooms-director-kane-parsons-on-independence"
+    "https://www.invenglobal.com/articles/26412/hideo-kojima-advises-backrooms-director-kane-parsons-on-independence",
+    "https://insider-gaming.com/minecraft-dungeons-2-crossplay-cross-progression/",
+    "https://insider-gaming.com/minecraft-dungeons-2-editions-pre-order-bonuses/",
+    "https://insider-gaming.com/only-20-halo-studios-remain-after-layoffs-its-claimed/",
+    "https://insider-gaming.com/activision-is-rebooting-halo-franchise-after-xbox-changes-its-claimed/",
+    "https://insider-gaming.com/microsofts-xbox-layoffs-will-fall-short-of-previously-stated/"
   ],
   "title_hashes": [
-    "4c5769b8496702b4e2784c47477e4cf0",
-    "b5d54e9ef176e888513b0d867f370a75",
-    "f4b4890dad835fd868d270202922ab18",
-    "c7ba6da5bd2f9e4d89afa8b3c8107eba",
-    "edb37f13f309f531345374f9a06c6b43",
     "8192fa27dbc057a0ccea26d3f0ddba19",
     "d0c879a1bcea3c09a299a9464509c4d8",
     "6985abd7c8650bcad734ac1197c5ead3",
@@ -16001,7 +15996,12 @@
     "9d9ed6ca907c3a571e9fd820c307f998",
     "85dd6e21343f0c23a35767c46913d1a7",
     "9bd98ab4cdca965e3a8f2170ff319b18",
-    "a9f5bce8a154f261c57daa1deb537a80"
+    "a9f5bce8a154f261c57daa1deb537a80",
+    "dfe9c0b1db809a3186941d1982bc309a",
+    "4809156131e1cddd02ee27532a36a719",
+    "1d2a84db31987c2186fd2e127551ee1b",
+    "dd420a73c96d38e58d69eceb664a7316",
+    "233116561f35f27c97c4d044f3315c38"
   ],
   "transfers": {
     "pages": {
@@ -21108,6 +21108,26 @@
     {
       "t": "22nd advises backrooms control conversation director famitsu future gaming has hideo his independence interview japanese kane kojima live magazine parsons projects published september take told went",
       "ts": 1790157585.444674
+    },
+    {
+      "t": "2 all amp available cross crossplay details does dungeons help minecraft post prepare progression squad support your",
+      "ts": 1790157590.3852417
+    },
+    {
+      "t": "2 all available bonuses details dungeons editions included minecraft order post pre prices purchase various what",
+      "ts": 1790157593.7339368
+    },
+    {
+      "t": "20 8217 after announced appeared claimed claims first fresh halo hundreds indicate layoffs microsoft only post remain skeleton staff studios",
+      "ts": 1790157597.1988955
+    },
+    {
+      "t": "8217 according activision after changes claimed claims era franchise fresh halo new post reboot rebooting set sparked under xbox",
+      "ts": 1790157600.704677
+    },
+    {
+      "t": "8217 but continued fall figure its layoffs major microsoft part post previously reached restructuring short state stated will won xbox",
+      "ts": 1790157604.1507723
     }
   ]
 }
