@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/04/10/ldn-utd-enters-partnership-with-matchroom/",
-    "https://thebusinessofesports.com/2021/04/09/nbc-sports-launches-pick-n-roll-game/",
-    "https://thebusinessofesports.com/2021/04/09/streamer-nihachu-joins-guild-esports/",
-    "https://thebusinessofesports.com/2021/04/09/launching-ceremony-held-for-premium-gaming-performance-alliance/",
-    "https://thebusinessofesports.com/2021/04/09/b-e-a-wants-gaming-tournaments-for-persons-with-disabilities/",
     "https://thebusinessofesports.com/2021/04/09/method-partners-with-adamas-esports/",
     "https://thebusinessofesports.com/2021/04/09/krafton-applies-to-go-public-in-south-korea/",
     "https://thebusinessofesports.com/2021/04/09/live-after-show-126b-worlds-largest-game-dev-amazon-gaming-store-gamestop-1b-raise-microsoft-army-ar-xqc-gfuel-nielsen-esports-shutdown-applovin-ipo/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26434/gather-songpyeon-for-buff-items-instant-mp-recovery-key-points-for-the-chuseok-event",
     "https://www.invenglobal.com/articles/26433/an-in-depth-look-at-the-starcraft-shooter-universe",
     "https://www.invenglobal.com/articles/26432/the-seven-deadly-sins-grand-cross-releases-85-million-downloads-celebration-update",
-    "https://www.invenglobal.com/articles/26431/kakao-games-revamps-seasons-of-illusions-balance-in-archeage-war"
+    "https://www.invenglobal.com/articles/26431/kakao-games-revamps-seasons-of-illusions-balance-in-archeage-war",
+    "https://www.invenglobal.com/articles/26430/smilegate-wraps-up-demos-for-two-new-titles-at-tgs-2026",
+    "https://www.invenglobal.com/articles/26429/nexus-launches-staking-token-stone-on-the-23rd",
+    "https://www.invenglobal.com/articles/26428/seeing-the-world-through-the-eyes-of-monsters-how-aniimo-expanded-the-joy-of-collection",
+    "https://www.invenglobal.com/articles/26427/new-terra-boss-vegamont-arrives-tl-adds-crafting-for-chaos-eye-weapons",
+    "https://www.invenglobal.com/articles/26426/aniimo-launches-globally-on-mobile-expanding-to-all-platforms"
   ],
   "title_hashes": [
-    "a222134deef84c07d0c92af19bf42aa1",
-    "6468ca8596120f40863944cb68a4fce1",
-    "508aedaed1c62ef88d2b8572719bd7aa",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "c1be9e0d5e85e148a61a312350325656",
     "f0a509c16926e01e229ebb31b3d379ed",
     "d885f66bb7be9f488f71b83ce06a686a",
     "cc48d72a20443eefb24123d3ee5f0d7a",
@@ -16001,7 +15996,12 @@
     "22f5d44ac11bdd7b69e14ada2b5d5452",
     "f31c4b9665642b49d4b5fd500d4a54b8",
     "81d1d271360cdc12e75226fee60d8037",
-    "099b6e475c481428811bda42b21d4ac5"
+    "099b6e475c481428811bda42b21d4ac5",
+    "43c43f246d718dfd7d18f6e31e27cea5",
+    "ccbc38509e9cc5d6c8f398f2b6d60a01",
+    "d26f843acfb3e07c00ac03495cac3527",
+    "2d061fcca2f18eea62e845584ec18e74",
+    "83dcba4821745a127d159384e3d38289"
   ],
   "transfers": {
     "pages": {
@@ -21304,6 +21304,26 @@
     {
       "t": "23rd adjusted announced archeage balance dungeon features games has illusions improved its kakao life mmorpg monster quality revamps seasons that war",
       "ts": 1790139813.2174234
+    },
+    {
+      "t": "2026 demo demos drawing game hours lines new over show showcased smilegate tgs titles tokyo two waiting wraps zone",
+      "ts": 1790139818.8852813
+    },
+    {
+      "t": "23rd launched launches liquid liquidity nexus one onechain provides staked staking stone that token",
+      "ts": 1790139822.3968248
+    },
+    {
+      "t": "adventuring alongside aniimo capturing collection discovering established expanded eyes full fun global has how itself joy launch monsters now official pawprint seeing studiothe through trailer world",
+      "ts": 1790139825.9548001
+    },
+    {
+      "t": "10 22 added adds along arrives boss chaos conducted crafting eye liberty mmorpg ncsoft new recipes scheduled september terra this throne update upgrad vegamont weapons",
+      "ts": 1790139829.4862766
+    },
+    {
+      "t": "all android aniimo catching creature expanding globally has ios its launched launches mobile open pawprint platforms rpg studio supported version world",
+      "ts": 1790139833.0650501
     }
   ]
 }
