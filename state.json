@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/03/26/singapore-to-hold-free-fire-world-series/",
-    "https://thebusinessofesports.com/2021/03/26/verizon-partners-with-twitch-to-create-hbcu-esports-league/",
-    "https://thebusinessofesports.com/2021/03/26/gameabove-makes-150k-donation-to-gamers-for-giving/",
-    "https://thebusinessofesports.com/2021/03/26/zipchair-gaming-announces-partnership-with-magic-gaming/",
-    "https://thebusinessofesports.com/2021/03/26/sony-and-rts-acquire-evo-fighting-game-tournament/",
-    "https://thebusinessofesports.com/2021/03/26/episode-124-video-on-demand-esports-tournaments-microsoft-10b-discord-rumor-gamestop-hardware-expansion/",
     "https://thebusinessofesports.com/2021/03/26/new-record-label-offmeta-officially-launches/",
     "https://thebusinessofesports.com/2021/03/26/30m-esports-arena-being-considered-for-chicagos-south-side/",
     "https://thebusinessofesports.com/2021/03/26/rocket-league-is-esports-best-shot-at-making-it-to-the-big-leagues/",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/everything-announced-for-arc-raiders-frozen-trail-all-new-arc-weapons-more/",
     "https://insider-gaming.com/counter-strike-co-creator-reveals-why-gabe-newell-created-steam/",
     "https://insider-gaming.com/arc-raiders-huge-frozen-trail-update-revealed-in-full/",
-    "https://insider-gaming.com/youtube-announces-a-b-testing-for-videos/"
+    "https://insider-gaming.com/youtube-announces-a-b-testing-for-videos/",
+    "https://insider-gaming.com/xbox-mythic-achievement-details-reportedly-revealed/",
+    "https://insider-gaming.com/arc-raiders-frozen-trail-release-date-countdown-exact-start-times/",
+    "https://insider-gaming.com/ed-boon-says-injustice-3-testing-rumors-are-false/",
+    "https://insider-gaming.com/noah-delays-military-service-in-hope-of-surprise-lec-return/",
+    "https://insider-gaming.com/breakaway-hockey-league-doesnt-want-to-be-the-next-nhl/",
+    "https://insider-gaming.com/todays-wordle-1923-hints-answer-september-24-2026/"
   ],
   "title_hashes": [
-    "d0b2a60b0c800153d1fa2d96aef77322",
-    "ecf7f8439eed853092ee4db0c9012cf4",
-    "d098b2545fd88a98b00e535e23543707",
-    "a6884023e14796e6125813b58ed8eb25",
-    "983dbbb35c3cfd6cce9447aaaf7cb2c7",
-    "5c3385c8c95e9f8f9512c10cd9291f3e",
     "bf3fca79b3e973fe42c76d540aa7597c",
     "5d13e504e8f3a33b4352158354f19fa4",
     "00be8f733505752bdd2d6d26022fe88f",
@@ -16001,7 +15995,13 @@
     "540820445b7fc0d54bf8596086e9965e",
     "65eaa669d955e785aa92eb9438a3b9ea",
     "60f87ad68034ecf4ad6ee9e64015981b",
-    "36c8462d9b80725296caa255d3a07f72"
+    "36c8462d9b80725296caa255d3a07f72",
+    "560f7c84ae708b1189a9504997d59cab",
+    "f168a316f17da0a0e2abfacb8828bbfc",
+    "9b4a3e6b26bad0327e09d620b4e2c87e",
+    "21cf14a74535f7e8b9fe6f6258d6b3b3",
+    "5721f68bb5cf3f0b8b19f65f3ab03b73",
+    "47112cd58924ed1d586e141e0a2868f1"
   ],
   "transfers": {
     "pages": {
@@ -21224,6 +21224,26 @@
     {
       "t": "adding allowing announces appeared audiences content creators even first insid its more post tailor testing their them uploads video videos youtube",
       "ts": 1790188803.3474357
+    },
+    {
+      "t": "achievement appeared been details features first have here insi know mythic need new other post report reportedly revealed what xbox you",
+      "ts": 1790188808.5784047
+    },
+    {
+      "t": "3 about appeared being boon confirmed creator details false first has here injustice insi more post recent rumors rumours says series testing that",
+      "ts": 1790188812.1718087
+    },
+    {
+      "t": "announced botlaner can delay delays fnatic former giantx has his hope hopes lec mandatory military noah post return service surprise two years",
+      "ts": 1790188815.8800282
+    },
+    {
+      "t": "breakaway doesn exclusive hit hockey league lived logic more multiplayer need next nhl post raccoon short than want wants",
+      "ts": 1790188819.3217509
+    },
+    {
+      "t": "1923 2026 24 8217 answer full get guess hints post september starter stuck today trying wordle words",
+      "ts": 1790188825.0422802
     }
   ]
 }
