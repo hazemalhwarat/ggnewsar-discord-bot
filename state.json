@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://g2esports.com/blogs/news/g2-blacklist-announcement",
-    "https://g2esports.com/blogs/news/senior-leadership-team-update",
-    "https://g2esports.com/blogs/news/r6-roster-update-welcome-benjamaster-titan",
-    "https://blog.counter-strike.net/2023/04/41365/",
-    "https://blog.counter-strike.net/2023/02/41047/",
-    "https://blog.counter-strike.net/2022/12/40596/",
-    "https://blog.counter-strike.net/2022/12/40672/",
-    "https://dotesports.com/dota-2/news/atf-team-yandex-dota-2",
-    "https://dotesports.com/general/news/physint-bill-skarsgard-lead-tgs",
-    "https://dotesports.com/fortnite/news/rarest-pickaxes-in-fortnite",
-    "https://thegamehaus.com/nfl/denver-broncos-offseason-recap-entering-2026-season/2026/09/11/",
-    "https://thegamehaus.com/nfl/new-orleans-saints-offseason-recap-entering-2026-season/2026/09/11/",
-    "https://thegamehaus.com/nfl/san-francisco-49ers-offseason-recap-entering-2026-season/2026/09/09/",
-    "https://thegamehaus.com/nfl/los-angeles-rams-offseason-recap-entering-2026-season/2026/09/09/",
-    "https://thegamehaus.com/college-football/college-football-week-2-news-and-notes/2026/09/09/",
-    "https://thegamehaus.com/gaming/september-nintendo-direct-2026-everything-announced/2026/09/09/",
     "https://www.vlr.gg/756712/sylvan-the-latest-to-leave-team-secret-in-offseason-exodus",
     "https://www.vlr.gg/756705/waddle-set-to-leave-pcific-esports",
     "https://www.vlr.gg/756249/kr-set-to-part-ways-with-dantedeu5",
@@ -7999,24 +7983,25 @@
     "https://insider-gaming.com/stick-it-to-the-stickman-version-1-0/",
     "https://insider-gaming.com/bombanana-surpassed-1-million-sales-in-10-days/",
     "https://insider-gaming.com/nyt-connections-hints-solutions-september-23-1201/",
-    "https://dotesports.com/forza/news/forza-horizon-6-anime-decal-bans"
+    "https://dotesports.com/forza/news/forza-horizon-6-anime-decal-bans",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajQwTXpyUTFibDBzZk9fQnVyS3VXWElhNVBqaFB5ZzBvcGNlYjF1a3o4azZRdDZwYWd3X3AxbTd2NXo5SDJXNTJnSlhrSThuVW9MY3Fwd1BiM1VlS0tlcjNEc1NfZUNGM2VHUFVtc253d3JwYXBfVm1QMDRZalc0ZmhYSDF4SEU?oc=5",
+    "https://www.hotspawn.com/counter-strike/news/best-cs2-bomb-sticker-crafts",
+    "https://www.talkesport.com/news/valorant/valorant-balenciaga-collaboration/",
+    "https://www.talkesport.com/guides/silver-palace-pre-registration-rewards/",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMS1fRHVaZVpiUkZDNjZLc09xSERZUUEyY1VpeWJURUVVaWxnejVmckl0Y20yQzZ0SVR4Vlh5ZXlTd0gtaHR0WnctYTQzcWFTNDdnaWY5VkFqNF82TjFueTNtdWI3NnprcDVScGRoWnRXTU9pOGFOaVYyVGNNbkd3M2Q4eVVhdjRRYnNoUnhwR3BGUzJOanBUX1NqNTlZeWU1czlONDVvMlVIdw?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnluUDdMN29LS3dMZ0VfUjY4bnZnaHRkd2NYM0JNSlFhcV9pV2RmNm1jaTdQRlRQamliU0g5RHJCQ2RXYk0wcTRic3BrX1JJc3BWNzVhV3dxSVhIVHZVSjNvM20xa2l2VE0yOElJN09rY0dBUHM0WnNWX00yUnByLUJIQW40dXdfUjdOckVTWHYydGdYMnd0TDBOMDlHVE9LMThud0pDQUFTR1dXWXhkZmtOY2xGUWtUNDh0UVhn?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVNVbDJ1NWl1RGNEOWxncHpkV3g3Z3FIbjRFdWM4VWdlSGhoZWtPek4yclp1bjFNY3BXUzhZYlBwaG9HUF9pZ1dJUHUtc1RwRzdFMmcydmhwUXF5Y0pVQXRMcldlbTNuR3VrbGlsUGZsQ2RaNW5UMFdkVU1sWm52RkpNT3VzOGluN0ZFMC1oOWYtN2ZyVHNFY0hoZjhpRWJMdXBJ?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXlDaWJ0SmVwcGpFWDVydmllRUkxcjFreXJxSWQ1ZG5fWXltUWItT3hOZmNkQ2RHTDBTWDJYckhwejFFZTVWeXhSRDlJbEYzcFBfOFRUc0d2OTBsWFVzU0JWMkphRWh6TkhuY2lNcjdhbW02R0R6M1VKOFFmd29PWHRmdmQ3TENiMmQ0N19QNm43WkUtS1ZrUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzBFQll6eDFIeUwzamltc09ncG9tRUxuVUF3UVhJNnhrS2ZYdFU5ZlZsSWpZeW1pZ1NOOWtXMllycHlRVnhyNHI0WUNBUDZqZEJpRU9ZWk5BZXRlQXVnMzNGbi1CZGV1dkFwTDhfaG51cE5lakdqRHJHT1kwQmY1UFZ3aFlRRndrQ0xlOFc3am9SMjN4OWJQQjRzTW5nTUhzUHMwTGRvYW9Zb3BoZjdN?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW9pcU82RkhCbGUwY09nYkdpeE9mNmprV2Z4aGYyVFBMVFB4cGdMMmtxc1JocU5mdURMSDd0VlNqVmZDSDJCQ0hkejBlaTJHbjFzcXZ4UHNCRk9WTnlBVHFaQ2pjMUlWWjg3MUJqejFjQXNYWlVBcHNZYlBtQzk4X25xckFUbmhCejY0QXdHN2taX1BNalNWT2JWbE52d3k2QWp0dlVR0gGuAUFVX3lxTFBWNFQwZ2RnMG40T09jQTJ3el9KS3MxYVljM2xUYnJBU0VUZU1ORmFBZ0dYLXRUMWFyR29rR3hWd2NFMVkwWmZvejA3SVJXWWFfM3Znd1lZMXpNUGx1bUhjUXFHaWUtOTR2dDk3S05LNlJNcjFLSVA2amlxWVhjMlpyNVUwZFNmakE1UXJtMXBOUXlMUHdwdEVFVHRzbC1MM2pSQkZQdWtuaEZocWV5Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd0JoZXdvUENiTmJGS1dSX2tkeEo4ZHZ4SWx2aXM1cGhONVFoMUQtUm5KbWFtTTI2UGtneVFselV2X3Y2RmdxZ0tqcTA1NGRrNXlCeXl5cy15SFduaWp1TUlvMGYwMWVUdWNMZ3JNMzFMWDYwZXU2Mi02MlRsWFlVeXRXa2dlX2hhME9FU280SDEyVUFoUjBkOVg3ek1qQkxXaFhYZldvSDU4Z21MSFVsc09nMV9TaXo0SFR2Zk1BMUw4LXNlT3VKeHoySUk?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UdUVRbndEZDd2U0V0dU50UWI5OTF2NTJyQXZGQU1Qc3djUVJMMkZCWWhEVnlrWFdWTTdhRWVQQ2I0clZuTHlPQnllQ1ZzMlNZNEhycll0TUpycFVMZXlhelhlNUpKbEJ2REhkdGZ4Qmg?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0VPdk5kNWxKQ2QyU3hBOWRfODhZM0RQd3U4TGxQU0tHVWhVd3ZQY1JxajZqR2oyVUpwMlhxUVRfWVRtei1scWVwaGVrSG1Mc2dhVUo2M1g3QXp2LWZaVGVkb3RQdEo2SFgwVjJ5SmNvUk5ocG8zZzF2WnF3U2E2d2xiTW5PUnRqZWRpT0lhbnZTM1c1T1djYnFsVVZvVnloYV9QdGstcmRFbFplNHZXc3l0UlJBZFBONERrN2RMV0NFZnkzU2c?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6UjR3cXpKMkd6VnR1b19iTGdsQjNuR045NFVuM2ZqNERlbUNPeXBIaW1HV0ZLRUY3c2VZUWZFdURhaVhLRV9CR0RJalNmRTl2R1JFUnVZcWc2WHlHT205cTMxSy1QT1BjNmtn?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHUzQjhsRGdqQW1TTF83Nnp6OUFLeUpqaFFTaVNaMXVLMTlIX256N0xycTlBek42RW5mT3ZuLWk5WW1EWW1FM2tKMVQxY1NGTHFOeG13VUZZZEtuY2x5aGdiNFhsQ19vdC1BV21hamRtR0V2ZUpxVFVuMVByNG42SjVLWWFiWHZ4SVZzR3Q5ZkdodHk5cUdVdEpoYUppTHVBb091WA?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVp5V2JEMkt3ZGY5dFdjN0dtM21qQWw5a3JuY010djZudWZuYzlGdDFqcFFoNjNHRFVWQlFKX0tmeDNGYjZuZTc4ako5UE8wWXNZczl2Q1FxUXBpVVY4WTAzd2hSXy1iNU43dDZJMG5zdmpvTjdTM2JNOEw1aDQxS0xWczg3M3NhcEYwOG5mWF83V1dBSk1UYlRCbWphczJBRlhKalBxTS0xZFQ3M3RacWpvSQ?oc=5"
   ],
   "title_hashes": [
-    "d3b4493b160b619ca5fd201bedc3455d",
-    "c18bd6ccebb526fbb81eb95488449637",
-    "01846b4f69f88df5c8e51c88f2b36a03",
-    "9c5ed2a83b638dcc2907cd6cd35f68f9",
-    "cc56b2efe850e1ba47b46cbf7069d80e",
-    "868651b898bd4a22173f93976aefc6ff",
-    "774af8b145b22ac0999711ba89a7042b",
-    "096ba03895e08b2a746639b0655635ff",
-    "ebeb90e2366eaf8edba3493234d7070e",
-    "9d0784c1cd2077d0b519ea93d8cfe39c",
-    "4441ad500c391573d23baa5502c91404",
-    "3f1f22a1f12fd234d722b7127a325074",
-    "82a3987d0f19253674804c831685beb0",
-    "8d065b2812fba20016f644cc3852aa48",
-    "9f48c615fec6fdadbd5243885a3c547e",
     "a585d9c4113b31632182bb786db38908",
     "2f29c206b2c5c1dd21ca395f7cfb5f18",
     "c687005dcef2499b159748dd4d92cdd0",
@@ -16001,7 +15986,22 @@
     "11d4508cc227264d3d912874dbcee3c7",
     "9b48112cfb8635c8d5759c31e2c93482",
     "1174ec4af1b37230881b683af5c6f715",
-    "9d890919ef550f795987916ecbfef751"
+    "9d890919ef550f795987916ecbfef751",
+    "8fc90ea24b2579890e232606d7a56e46",
+    "bd369156eaac0a60cada2f2924f850e4",
+    "c8ab9f9c9fb7591a2f51428d0775c4d2",
+    "3173ddc644dc5f28fcb97f1e65164d1b",
+    "a3d66352bfdbb5e86f407de113895a42",
+    "9263f95c6e063b8050eeb3db3373d85e",
+    "022002e26b5a1659aefdc4fb13ffc160",
+    "0a27414f4fee2595d1785072166a459c",
+    "a191e06847e1326624cacf2ceba32d75",
+    "10eff48071b6acd1f96efb181deb029b",
+    "e1b461657951e770c9dbea201ffd368b",
+    "d174a93500a92d2cfa9151287ef49f0a",
+    "70b9bf7ba02f162f57ba688e4ab49ede",
+    "de153426239e7a4456c33cce9dd1e68b",
+    "9123289ccd1c74af2b3e51f7f58551b0"
   ],
   "transfers": {
     "pages": {
@@ -21296,6 +21296,22 @@
     {
       "t": "6 accuse anime bans car creators decals designs forza horizon mass over permanent players pull report reporting their triggering",
       "ts": 1790208655.2619905
+    },
+    {
+      "t": "amidst awful best bomb c4 can chaos crafts creative cs2 easy ever fact first get going lot miss new now out players put sticker stickers that this time update very you",
+      "ts": 1790208660.486092
+    },
+    {
+      "t": "2026 ambassador balenciaga becomes brand champions digital first games have launching limited luxury making riot shanghai teamed valorant viper",
+      "ts": 1790208663.8604903
+    },
+    {
+      "t": "20 4 all character event global here how live materials milestone milestones new now offering ounce palace pre register registration rewards shots silver simulation star upgrade",
+      "ts": 1790208667.2972028
+    },
+    {
+      "t": "asian esports games khaleej mutaiwei nbsp quarters race road shines times uae",
+      "ts": 1790208670.9165292
     }
   ]
 }
