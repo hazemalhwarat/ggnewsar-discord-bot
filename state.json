@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.sk-gaming.com/news/nhow-gaming-studio-at-nhow-berlin-certified-by-sk-gaming",
-    "https://www.sk-gaming.com/news/sk-gaming-and-recaro-gaming-announce-strategic-partnership",
-    "https://www.sk-gaming.com/news/gaming-rooms-at-nhow-berlin-certified-by-sk-gaming",
-    "https://www.sk-gaming.com/news/amaran-to-light-up-sk-content-and-live-productions-through-a-new-partnership",
-    "https://www.sk-gaming.com/news/new-valorant-team",
-    "https://www.sk-gaming.com/news/sk-gaming-unveils-2024-league-of-legends-rosters",
     "https://www.sk-gaming.com/news/sk-gaming-enters-the-esports-association-nrw-and-esbd",
     "https://www.sk-gaming.com/news/sk-gaming-and-cherry-xtrfy-join-forces-for-the-ultimate-gaming-performance",
     "https://esportsafricanews.com/from-paris-to-lagos-why-gaming-is-becoming-a-new-engine-of-city-tourism/",
@@ -7999,15 +7993,15 @@
     "https://www.dbltap.com/news/fallout-4-is-coming-to-nintendo-switch-2-in-2026?utm_source=RSS",
     "https://www.dbltap.com/news/factorio-switch-2-upgrade-space-age-dlc-aiming-for-december-release-date?utm_source=RSS",
     "https://www.dbltap.com/news/hsr-3-7-release-date-events-features-revealed?utm_source=RSS",
-    "https://gameriv.com/marathon-future-roadmap-2027-reveals-connected-pve-and-pvp-experiences-new-zone-and-deeper-progression/"
+    "https://gameriv.com/marathon-future-roadmap-2027-reveals-connected-pve-and-pvp-experiences-new-zone-and-deeper-progression/",
+    "https://gameriv.com/ea-javelin-anticheat-is-coming-to-apex-legends-with-console-cheats-also-in-focus/",
+    "https://gameriv.com/cod-warzone-is-adding-a-skin-toggle-but-it-wont-block-every-goofy-outfit/",
+    "https://gameriv.com/gta-6-vice-city-collection-is-up-for-preorder-at-399-99-but-the-game-is-sold-separately/",
+    "https://gameriv.com/arc-raiders-pve-matchmaking-toggle-beta-test-starts-october-13/",
+    "https://insider-gaming.com/roblox-last-stop-codes/",
+    "https://insider-gaming.com/roblox-sell-ores-codes/"
   ],
   "title_hashes": [
-    "e77857eb27ea8f13a8940cdb3aee2df8",
-    "1bb88b88790d402a029c1fe7cd308d5c",
-    "937a57e9035b425bc84b5f907a4dec8b",
-    "829758deb6947c121c17ba813d688c65",
-    "977d1b695de614a421534a0612699c9a",
-    "aed25e71d79c545e9df09362c9568cb1",
     "2b8e7b351698c229dbd76249fe89aa30",
     "f71401dc3e961f4fbab0343e185be153",
     "1db88364e8dddfd9e1168370020d6662",
@@ -16001,7 +15995,13 @@
     "1d39de86a7ac0a6a565234d5dfe02ba0",
     "ea0f22d957027dc8785949ce2af1de02",
     "17211fd3a9a8cfb37377915b7230eb84",
-    "1f83a2e773c6bfe84d7942f99d6e2535"
+    "1f83a2e773c6bfe84d7942f99d6e2535",
+    "89f69dbecaa5875990791d754fc63f7e",
+    "f08454af5a73da65c340ac0e72e1c950",
+    "c13503a30223a77da004cf8e6d2c411c",
+    "f1622a6410fb9459e208a6af2f2ee7fc",
+    "770244c1c84ff2ab203dd225ecf6787d",
+    "b276717118c9e6fbeed3342f091baf7c"
   ],
   "transfers": {
     "pages": {
@@ -21000,6 +21000,26 @@
     {
       "t": "2027 alien broader bungie connect connected deeper enemies entirely experiences future has its marathon new onboarding outlined parts plans progression pve pvevp pvp rebuilding reveals roadmap while zone",
       "ts": 1790274834.481435
+    },
+    {
+      "t": "also announcement anti anticheat apex battle bringing but cheat cheats coming commitment console efforts focus house important includes into javelin legends protection royale technology",
+      "ts": 1790274839.8111367
+    },
+    {
+      "t": "399 6 99 auto box but buyers city collectibles collection detail game goodtime grand gta has inspired merchandise one opened packed preorder preorders rockstar separately shoul sold state theft there vice",
+      "ts": 1790274843.4258456
+    },
+    {
+      "t": "13 20 arc asking beta chance developers feature future giving help its matchmaking october participants players pve raiders shape share starts test thei toggle try will",
+      "ts": 1790274846.891167
+    },
+    {
+      "t": "2026 appeared codes first free gaming get hands including insider last monthly more much plenty post redeem rewards september stop these tickets use your",
+      "ts": 1790274850.7813501
+    },
+    {
+      "t": "2026 admin appeared cash coating codes first free gems get growth hands insi like monthly more ores post redeem rewards sell september skips these time use your",
+      "ts": 1790274854.2966015
     }
   ]
 }
