@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://esportsinsider.com/2026/09/leviatan-failed-qualification-debate",
-    "https://estnn.com/overwatch-2-6v6-returns-in-season-14/",
-    "https://estnn.com/overwatch-2-maps-guide-the-best-heroes-for-every-map/",
-    "https://estnn.com/overwatch-2-world-of-warcraft-skins-revealed/",
-    "https://estnn.com/overwatch-2-midseason-patch-armor-nerfs-balance-changes-competitive-drives/",
-    "https://estnn.com/overwatch-2-best-crosshair-settings-for-every-hero/",
-    "https://estnn.com/owcs-2024-world-finals-tickets-details/",
     "https://estnn.com/overwatch-2-season-12-patch-notes-balance-changes-group-respawn-more/",
     "https://estnn.com/overwatch-2-season-12-adds-juno-new-maps-6-free-skins/",
     "https://estnn.com/overwatch-2-new-hero-juno-touches-down-this-weekend/",
@@ -7999,15 +7992,16 @@
     "https://insider-gaming.com/paper-rex-win-opening-valorant-champions-shanghai-contest/",
     "https://insider-gaming.com/final-fantasy-7-revelations-platinum-trophy-is-easier-than-rebirths/",
     "https://insider-gaming.com/gta-6-datamine-reveals-the-goodtime-state-vice-city-collection/",
-    "https://insider-gaming.com/donk-breaks-faceit-record-5000-elo/"
+    "https://insider-gaming.com/donk-breaks-faceit-record-5000-elo/",
+    "https://insider-gaming.com/ea-cuts-weekly-season-points-rewards-in-fc-27/",
+    "https://insider-gaming.com/fortnites-leaked-one-piece-collab-could-be-a-very-big-event/",
+    "https://www.hotspawn.com/counter-strike/news/best-garden-gloves-knife-combos-in-cs2",
+    "https://www.hotspawn.com/fortnite/news/fortnitemares-leaks-2026",
+    "https://www.hotspawn.com/valorant/news/valorant-champions-trophy-shanghai",
+    "https://www.hotspawn.com/mlbb/news/mpl-s18-weekly-watch-key-matches-for-week-6-7",
+    "https://www.hotspawn.com/other/news/esports-awards-winners"
   ],
   "title_hashes": [
-    "a21f6145c335993421552dc856807405",
-    "11386f5feedd286f19d1f54434fa5889",
-    "bc78a1f8a235b04be26e9cd30a0c0d57",
-    "45d2dbd90a96a955f2d9929156383121",
-    "bd4cd9901a20f0932b0836908c1bb7a8",
-    "2b4619245a1c4ccc01aa8b8db3d292fd",
     "9b6964e5cab5df4beaa5cbed93116c1a",
     "bce455def158484255a3a3c70d76d9a9",
     "1309087cb00858ef25d260da480545a3",
@@ -16001,7 +15995,13 @@
     "15c44c9d883ce009b4e36cfe7c6e2628",
     "a5792675e1c3a280b05ff2d91f55ae52",
     "c4f23832c9aeea462615f92731a4782e",
-    "94debe5469d63c010599f298d9b58f5e"
+    "94debe5469d63c010599f298d9b58f5e",
+    "3433c65b12b705c8d00cb17214570783",
+    "a25ab4c8c1085e1452219c10c9fa524b",
+    "0067e3d28b1e1a8d47403605b673a7ca",
+    "d0c08757b6f46a3bb673b0a28fc5e856",
+    "ee6594788f852da91d71c82cfbc71908",
+    "9a520ae39960efeeb4972b4e343ccfe6"
   ],
   "transfers": {
     "pages": {
@@ -20996,6 +20996,26 @@
     {
       "t": "000 5 9 after another breaking breaks danil days donk elo faceit grinding kryshkovets mark new platform post record season set yet",
       "ts": 1790260151.8622642
+    },
+    {
+      "t": "7 8216 8217 big bring chapter collab could curtain down event fortnite leaked major one piece post that touted very will",
+      "ts": 1790260158.4477887
+    },
+    {
+      "t": "8217 attention best collection combos cs2 dead driver embroidered garden gloves hand however knife makes other perhaps players released still style their unique when",
+      "ts": 1790260161.821019
+    },
+    {
+      "t": "2026 already away been but coming current expect fortnitemares halloween know leaks let like looks month more seaso some still than that there what",
+      "ts": 1790260165.4261515
+    },
+    {
+      "t": "8217 anything balen been before brand champions design has heavily new now off revealed reworked shown tournament trophy unlike unveiled valorant version",
+      "ts": 1790260168.8124366
+    },
+    {
+      "t": "19 2 2016 2025 2026 arena awards category counter esports every game hyperx las league legends named november place roster strike team took vegas vitality winners won year",
+      "ts": 1790260172.1908207
     }
   ]
 }
