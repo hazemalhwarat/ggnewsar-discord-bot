@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.gamesindustry.biz/cloud-imperium-delays-squadron-42-to-2027-there-is-no-way-i-want-to-launch-into-the-attention-buzz-saw-of-gta-6",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3NWX3FDLVk4OXFkRVlKcV9hdUxvbVVZQ0JuYzY3aVdmTGx4SHFFWWd6RlJ4V1FTWUhnYVdIdWloc2VlUkJOSzRyeDNRdFVVZUlUOGVYNGhXeGhuYVRfcmFBZDJNRWFhdWxvdC1iTWRQTWlUbFlsODZFQ1hFX3RIU0g0OEJDTXFRbWxJTTVzUHZwN180aVJma0RUTmZib084a2I2SE51WVAwYlBIeXI5TWhRNA?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGZmcWFHVFNiZG4wdW9QcDdwd0V3RVJCMnkwZlg4SFpjOVVpWjhWWXd4b0k5dlZ5SU9lT3FNaTJKSjIzOFExYVVCRlVLU1B4dy1CM2gxcW0xRjgtQ3p0T3J4YTZqNWlMOVFCY2FPM1piRFZIc3ppZlRDa01IU1NfeHFnVzBybGZlR3F4VFFQVmhabUFHVTBiRg?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zclNSTFh1RGVJRWxsbTBxMXd6UkwzVXJTdzhUNHVjc1VFTTg5SDZJSE0xSUZ3ZUtCRnpkUUlvMXA1N3MyLWRnZk8wMjFlYlByZHJVSG5BQXY0U1pHZVN6Y0JFYw?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRm9fUHZpT1psTU5oWDFmUzJHMEN0SlVXenNuZUFiMDlZSkQ1OW5TVkR5enE4MU01UEpEbnk1ZEktcUd3ZE1wTXpxTkl6bTAtWDRjVlFUcmdmcXM3TUNiNXhVNk5SZENXczBUX1JaMl9lbVA1QWJhSS1EU1BxNE1Zdk1JblIyNWVXUXpoYnBna0dCQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUUzcENuSFczOVNWM1BJWmktVUQtaHMxYS1NMWRtdVp1LXg3R1VscktEdENHcmNCcGR3YmdEUFB0WlJ5ZTR3S0RTU2F5ajFnbGJfZnIxZlJHbm16V2VKY1hCei1NYjc4SzlCQWRvVFBBTlVyY3k5N1FtSHlwX1RvWU4xR3hFWFFuTWxUNkJwY2dNdHlIVmE0UDByTURMMmpGSEh5WDBMMEdKQmJ3OVlJek1lRl9tdXRfT2c?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PRUkwTGIwSXh2QkNtcWpqdXRCamNtcWdqSnE2QmdOdV9TblhfR2xJbkd3aEd3cnc3TFR1M0hBbFp5UlJPVEU1VHQzcExjQjc2UHhZMXBtVDBsZzc1dUE?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXdmUThWakxnQlNjUWFfWlFlbU9MckJBS1F3cDk0YTItb1BxUWFRUThPcTlSSjBLdUVNZUtzdm1IcElpYm00MjdiZ2hmQkYyNXpfbEtkcy1yVnVrX2Z0YlBiVThNdGludTkwRUNrUmtGZERBcEJiaFdZODl5UDlzLXY5ejBfNU5mdm1Va3RvczlnZjhF?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yWE1ob1Z6ZDBFLV96STdoNkd0N29iZzN6c0l2NHY5Um1KdUN6U3RRNXhHZV9pTTBFTmctd2JBLXU5QnNvV2NnTHdSVGlWOU9hdFJ2akFONE5OLVlKbTNZ?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWRER3pGeUk2T2tBNkhuX1hIVHVaMURnY2xTbktaZDNjX1RrUDFIN3NXbzFFLU1xQ1RKNHl3WWptQk1wSWJLWndaVXNwSWI1RnpCUXdpVXU2OTRnVFU2TmNiR2tvbWRkaGg3MHpraDlwdFB0SkRoblNwV2k0X21aWU83dmlXZTlT?oc=5",
@@ -7999,15 +7992,16 @@
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1VKdVczQjc2WnRBUmhlSTlYS0lpUy16QzBOZXJRMGdmNTFudHdiajJXQzN4NDcxNWw0UTN3azZNUG9fbUxrUTRHZGVsWGswb1BsYzloRTQ3M2JlTGp3cXpIOGF5MjREdHJEZ2Jra0pabnNZM3Z5MFV4dnpGQ1hTUGJhM1RtbF9XdlRFZ2dlYWE1VzhIV041alE5MHZyczNUN3BsVFl0eFc2b0QxNHFBVHl1MnNmNTZkOWdOT0ltcGptaFJLV1B3bzRieEk?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yOVBUVE1XZjc0RGZ4enM4OHBlSTByRXJXZkN3b01pZXA4bVZfSV8wMGdEbGlVbjdsajRvUlpNenpNWHBBNV9JR0thcVV6bzFKcVZUMzlfeGRjemVidDhaNEt3UXcwaDRK?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6VWs0NmE1RWJ2M29GVzdFeWJDdjZTMnhGWlZFOWJfd2VIS2gxLVdOTklHMkI1OEY2MEhKMm5LVTJiMllUNUtrR1VuM3U1UDYtSkRUaFQ3QkpueS1IN1VZSWUyT0lDYUNV?oc=5",
-    "https://pley.gg/cs2/valve-resets-cs2-crosshairs-in-new-update-how-to-rebuild-your-settings/"
+    "https://pley.gg/cs2/valve-resets-cs2-crosshairs-in-new-update-how-to-rebuild-your-settings/",
+    "https://www.invenglobal.com/articles/26480/escape-from-tarkov-arena-free-weekend-goes-live",
+    "https://www.hltv.org/news/45573/stake-pulse-beat-ii-reaches-playoffs",
+    "https://esports-news.co.uk/2026/09/24/100-thieves-reach-stake-pulse-beat-ii-playoffs-with-2-0-group-stage/",
+    "https://insider-gaming.com/armed-fantasia-canceled-digital-bros-confirms/",
+    "https://insider-gaming.com/rainbow-six-siege-creative-director-gta-6-impact-on-game/",
+    "https://insider-gaming.com/jason-lake-what-happens-now-complexity-is-closed/",
+    "https://insider-gaming.com/epic-games-sued-misleading-young-fortnite-players/"
   ],
   "title_hashes": [
-    "5fa837b49fcfcc284714aac66bba9d08",
-    "42c24d6cc494617e9b798f30030132e4",
-    "b016f48d898c745be5ef382254224582",
-    "575c1bf70afe60c5d89c8e429d988bd2",
-    "d42328301a8d46945fd13f41d900484b",
-    "749e42358f42b8666e38d37fed89af1d",
     "2cc6ba202688a5d5e5e6935bd45b0f69",
     "646f680659fe33f68669f522cf982c8f",
     "e133af5aa704a3ab4140dc9b2d1376fd",
@@ -16001,7 +15995,13 @@
     "593287a3bfbb672d385267266a89f77e",
     "1cdec7d514c1a773d66768dd6e70bfed",
     "49ec203109c1ce0ddeb7a2177765e470",
-    "fc89c8a3fa067d61a09fe8ce2d65267b"
+    "fc89c8a3fa067d61a09fe8ce2d65267b",
+    "5d1b1ca2ae1e31438ca30e59af9894a7",
+    "fac1be7f2bf6dad7e84fdbd66a20e9bc",
+    "c7780abb3f0c199a376ad604e7620ccf",
+    "bd2d5fb47fa94403844fa5ad2b2e27ec",
+    "3b9c212ee64da43943c595d90ce9daa3",
+    "6938598ac85ff9fa48ef231ecbee5ed9"
   ],
   "transfers": {
     "pages": {
@@ -21068,6 +21068,26 @@
     {
       "t": "crosshairs cs2 new resets update valve",
       "ts": 1790274902.3066223
+    },
+    {
+      "t": "100 advanced astralis beat group heroic jijiehao playoffs pulse reaches stage stake thieves through undefeated",
+      "ts": 1790286598.1806595
+    },
+    {
+      "t": "appeared armed been bros canceled cited conditions confirms cost digital fantasia first gameplay has market post publisher revisions that",
+      "ts": 1790286601.9148297
+    },
+    {
+      "t": "6 8217 addressed addresses creative director game gta has have his impact joshua mills post potential rainbow release siege six will",
+      "ts": 1790286605.457521
+    },
+    {
+      "t": "address back closed complexity explains gamesquare happens has jason lake media not now official passed post retiring social surfaced that what",
+      "ts": 1790286608.9225106
+    },
+    {
+      "t": "been claims consumer dutch epic expensive fortnite games group has misleading misled over player players post purchases pushing sued that them young",
+      "ts": 1790286612.6284912
     }
   ]
 }
