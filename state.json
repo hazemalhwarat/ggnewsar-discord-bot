@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.dexerto.com/apex-legends/apex-legends-devs-quickly-revert-tap-strafing-nerf-amid-wave-of-backlash-3025874/",
-    "https://www.dexerto.com/apex-legends/mirage-is-beyond-broken-after-apex-legends-mid-season-23-patch-3024874/",
-    "https://www.dexerto.com/apex-legends/crazy-pathfinder-nerf-in-apex-legends-mid-season-update-sparks-backlash-from-players-3023866/",
-    "https://www.dexerto.com/apex-legends/apex-legends-mid-season-update-patch-notes-mirage-buff-ranked-tuning-peacekeeper-buff-3022734/",
-    "https://www.dexerto.com/call-of-duty/black-ops-6-has-a-skin-that-is-apex-legends-pathfinder-and-fans-are-not-impressed-3020665/",
-    "https://www.dexerto.com/apex-legends/apex-legends-players-disappointed-by-unfulfilled-promise-in-2024-3017938/",
     "https://esportsinsider.com/2026/09/leviatan-failed-qualification-debate",
     "https://estnn.com/overwatch-2-6v6-returns-in-season-14/",
     "https://estnn.com/overwatch-2-maps-guide-the-best-heroes-for-every-map/",
@@ -7999,15 +7993,15 @@
     "https://www.dexerto.com/entertainment/esports-org-nip-is-now-mining-almost-20-million-in-bitcoin-a-month-3278565/",
     "https://traxion.gg/corsair-to-attend-simracing-expo-frankfurt/",
     "https://traxion.gg/imsa-resilient-racers-240-sim-race-to-raise-money-for-childrens-charity/",
-    "https://insider-gaming.com/age-of-empires-developer-worlds-edges-next-game-cancelled/"
+    "https://insider-gaming.com/age-of-empires-developer-worlds-edges-next-game-cancelled/",
+    "https://insider-gaming.com/nero-banned-call-of-duty-black-ops-7-ranked/",
+    "https://insider-gaming.com/the-witcher-3-remastered-release-date-times/",
+    "https://insider-gaming.com/paper-rex-win-opening-valorant-champions-shanghai-contest/",
+    "https://insider-gaming.com/final-fantasy-7-revelations-platinum-trophy-is-easier-than-rebirths/",
+    "https://insider-gaming.com/gta-6-datamine-reveals-the-goodtime-state-vice-city-collection/",
+    "https://insider-gaming.com/donk-breaks-faceit-record-5000-elo/"
   ],
   "title_hashes": [
-    "23ca68dc49482c9b17f8e3b323006c12",
-    "73aea7341b96a560525e72fd815407d1",
-    "53736d02aad3371e2d2e6e87f9c91a8f",
-    "bb027b72461a0eb4be7bb09851d38529",
-    "e8ddf5bac127be3e3259b5f3bb449dd4",
-    "e975e3d05b22b2b29691a8e63bccd0f0",
     "a21f6145c335993421552dc856807405",
     "11386f5feedd286f19d1f54434fa5889",
     "bc78a1f8a235b04be26e9cd30a0c0d57",
@@ -16001,7 +15995,13 @@
     "cb23d7d7606fecda4fc2ad85c03fbf3d",
     "0f64ff52285ff19022a72021b0f4c084",
     "d658b0aa69fd860f130234f361579b5f",
-    "b4b2147f266bcbd5b790b72f01488ec1"
+    "b4b2147f266bcbd5b790b72f01488ec1",
+    "734c25aa06e82cd7051c8811647ff203",
+    "6eec0045e0e7027849d061223b8ccc11",
+    "15c44c9d883ce009b4e36cfe7c6e2628",
+    "a5792675e1c3a280b05ff2d91f55ae52",
+    "c4f23832c9aeea462615f92731a4782e",
+    "94debe5469d63c010599f298d9b58f5e"
   ],
   "transfers": {
     "pages": {
@@ -20976,6 +20976,26 @@
     {
       "t": "8217 age amid been cancelled continued developer edge empires game has layoffs next post reorganization world",
       "ts": 1790260132.6541662
+    },
+    {
+      "t": "7 amid banned been black boosting call controversy duty dylan has koch nero ops player post pro professional ranked revealed",
+      "ts": 1790260138.2107399
+    },
+    {
+      "t": "1 2 2026 champions contest contested defeated fightback got liquid off opening paper post rex series shanghai start survive team thrilling tightly valor valorant win",
+      "ts": 1790260141.6059148
+    },
+    {
+      "t": "7 8217 director easier fantasy final has have platinum post rebirth revealed revelation than that title trophy upcoming will",
+      "ts": 1790260144.9806762
+    },
+    {
+      "t": "6 8211 8216 been called city collectio collection coming datamine goodtime gta has leaked mysterious new post product reveals rockstar state store vice",
+      "ts": 1790260148.3819034
+    },
+    {
+      "t": "000 5 9 after another breaking breaks danil days donk elo faceit grinding kryshkovets mark new platform post record season set yet",
+      "ts": 1790260151.8622642
     }
   ]
 }
