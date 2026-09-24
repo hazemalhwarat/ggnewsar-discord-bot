@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.dbltap.com/reviews/keeper-review?utm_source=RSS",
-    "https://www.dbltap.com/news/japan-patent-office-rejects-nintendo-monster-capturing-patent?utm_source=RSS",
-    "https://www.dbltap.com/news/build-a-rocket-boy-wants-to-save-mindseye-with-ugc-tools?utm_source=RSS",
-    "https://www.dbltap.com/news/hsr-3-7-new-planar-ornament-set-is-a-win-for-archer-imbibitor-lunae-qingque?utm_source=RSS",
-    "https://www.dbltap.com/news/pokemon-tcg-pocket-promo-card-reissue-event?utm_source=RSS",
     "https://www.dbltap.com/guides/pokemon-tcg-pocket-mega-rising-card-list?utm_source=RSS",
     "https://www.dbltap.com/guide/outer-worlds-2-best-build?utm_source=RSS",
     "https://www.dbltap.com/guide/outer-worlds-2-change-appearance-hide-helmet?utm_source=RSS",
@@ -7999,14 +7994,14 @@
     "https://www.dexerto.com/call-of-duty/dave-portnoys-pro-call-of-duty-team-staff-car-crash-wrong-side-of-road-3341190/",
     "https://www.dexerto.com/esports/thai-esports-pro-boyfriend-sentenced-to-6-months-in-prison-for-cheating-in-tournament-3337352/",
     "https://gameriv.com/sony-patent-could-let-you-buy-games-by-tapping-your-phone-on-a-controller/",
-    "https://gameriv.com/lol-heartsteel-live-my-life-skins-splash-arts-release-date-and-prices/"
+    "https://gameriv.com/lol-heartsteel-live-my-life-skins-splash-arts-release-date-and-prices/",
+    "https://traxion.gg/how-to-enter-the-genesis-magma-racing-esports-series/",
+    "https://traxion.gg/genesis-launches-le-mans-ultimate-esports-series/",
+    "https://www.talkesport.com/news/south-korea-qatar-asian-games-2026-efootball-forfeit/",
+    "https://europeangaming.eu/portal/press-releases/2026/09/24/214688/bgaming-bonanza-billion-merge-up-slot/",
+    "https://europeangaming.eu/portal/press-releases/2026/09/24/214683/avanti-studios-malta-office/"
   ],
   "title_hashes": [
-    "cb23d7d7606fecda4fc2ad85c03fbf3d",
-    "8de42f8a0a23f9c97e8dec94b7d43a8d",
-    "0f64ff52285ff19022a72021b0f4c084",
-    "d658b0aa69fd860f130234f361579b5f",
-    "01f3a35f51c4e2b84f72f41ae6948d9d",
     "d1ba7f5ff5c8ba2070c615f90d1026cd",
     "197d9857f76dd02d73fabd3f28a2e750",
     "32f009252066757d946f329129ef84a3",
@@ -16001,7 +15996,12 @@
     "218d54d1b40d013a068fb65491f5143d",
     "c17015b24c9fd2c1204398b36f03b273",
     "5f476f0a00fb0ea3a6b0ed6e5d2a365d",
-    "691593b30833f74e687e6df8422e490b"
+    "691593b30833f74e687e6df8422e490b",
+    "cf42966958d063b7fad756973b7e7f09",
+    "059a3134d06feecf96b6b905e2586d05",
+    "14262eb9c8f4bd3280d5d6808c55837c",
+    "aa5f142875404d26834bee26a1c98a4a",
+    "b5082f691bdb8e1d700be1ab51458ca7"
   ],
   "transfers": {
     "pages": {
@@ -20996,6 +20996,26 @@
     {
       "t": "aphelios arts back band closer collection date ezreal fresh give heartsteel kayn league legends life live lol look next players prices release sante sett skin skins splash wardrobe",
       "ts": 1790242562.3043373
+    },
+    {
+      "t": "can car coming enter esports genes genesis here how magma mans manufacturer part post racing real sees series sim support take talent ultimate within world you",
+      "ts": 1790242567.8004475
+    },
+    {
+      "t": "also car drive esports full genesis grabs its korean launches magma mans manufacturer official other premium prizes pro racing run series sim team time ultimate use will within",
+      "ts": 1790242571.4087741
+    },
+    {
+      "t": "2026 8217 after another asian barely blames check competition controversy day efootball ended ends error facing following forfeit games guidance hopes india match medal qatar separate site unusual",
+      "ts": 1790242574.9034064
+    },
+    {
+      "t": "8217 8230 bgaming billion bonanza cascade franchise fruit gem grafts informed launches mechanic merg merge onto overhauled post sixth studio system template upgraded variant",
+      "ts": 1790242578.3559043
+    },
+    {
+      "t": "2026 8217 8230 accelerates april avanti base commercial infrastructure its latest malta move office opens operator post push rapidly scales studios supplier",
+      "ts": 1790242581.782359
     }
   ]
 }
