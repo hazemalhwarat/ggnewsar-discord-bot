@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHkzdDl0Vm51YmRrc1VtLXl0UkZkWU10eUJFZVlTWkNkanNOckFxNmo5ZkhRUmdMb1hiOXdob3d1M0xNTlI3Nk5zNl9PQVJkaW1HeGUwdWlvRUFXaE0zaFVpQmhYbW1qMGhhZVkzN3RxMDhZV0RUdHdOdHRCczNadk0tTElOcTl6Y3VydnQ0eWdoSnNUT2xxYTBR?oc=5",
-    "https://blog.grid.gg/three-major-events-in-chengdu-one-unified-data-powerhouse-behind-721bd9e431af?source=rss----1134b813b9b---4",
     "https://blog.grid.gg/vct-esports-2025-season-grid-match-intelligence-report-7ff2d6290c25?source=rss----1134b813b9b---4",
     "https://blog.grid.gg/damage-wins-games-grids-data-deep-dive-on-iem-cologne-2025-20adb40915cd?source=rss----1134b813b9b---4",
     "https://blog.grid.gg/the-ultimate-anti-cheat-and-toxicity-detection-powered-by-getgud-io-grid-bf019e8d091d?source=rss----1134b813b9b---4",
@@ -7999,11 +7997,11 @@
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HRnJvenpPRnZreDFDSlVEWmt0Y2E3TmZpc0k3bFJ4UVJUalh3cF9hWEpnYU0tWFRJb2tsaklkaldBZW0xN3FfVW1pUDRtRVFBTExLWG1uR1RqWldYN1BOQ1FadUE?oc=5",
     "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
     "https://www.gamesindustry.biz/righting-old-wrongs-mobygames-on-letting-developers-claim-games-they-werent-credited-for",
-    "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip"
+    "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUpDcXNPWmpQUm5ZSno3ZE9DTE5JY2FRekVMN3FJcjNvbHpQc0dJdGZHZThZZW1ESzhGSzNhZUdPWHVTQVEzZTZYaTlUdnhnWjJZOS1fMHNrTVBfaThlU05UV3VtVXV4bGNLbTBaMUotRnVzRmRTaDdFQ0F4eXZUZGswSnFwdnBUbnlGYWJxWlQ?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0g3Z3VPMEVjU1c3REZpRmFzOFZndFVLdmhVS1RHTWNVS3VBV00tTzNIcGNkV01FZ2VfdDZDRTBERjJ2QkVuWG1rTFk0THRxOTBrUEEzUG1TSXJIdE9aMzBjQldaZ1hlSXRwNXJyVGR2bXlvcm1HYm1xWDdtWXhISjhITVIwSFp0Nk1iWWNkeVNUckU3M1FIcnFTUE5yR0k?oc=5"
   ],
   "title_hashes": [
-    "63599e387998d9c57862c3b95005e895",
-    "77b867f22e0e71f7fb0d96aa2cf4e849",
     "4c823bbb33aa612c908b299717c498dc",
     "f48dd9877e13ddcd1b3d04c476b0c21a",
     "26473d3acc38b59c1b1a467ca3e055dc",
@@ -16001,7 +15999,9 @@
     "5ce7c80dcbc0d4594704315ce7274aa6",
     "610fed6f239e41f58f13768b9a47dc38",
     "545b82b8950476271d49fb3149f616dc",
-    "7838f8dc207b203fe02b4f27b901f8c8"
+    "7838f8dc207b203fe02b4f27b901f8c8",
+    "88b8be41fb483df644cbd9add1ab27b7",
+    "8d3a6b228616a3118d6fd36f63afd021"
   ],
   "transfers": {
     "pages": {
@@ -21076,6 +21076,10 @@
     {
       "t": "18 20 2026 20m 30 85 catalogue coming driven during ending first h1 increase june launches million months more new owned party performance read reported revenue rises second six strong tinybuild",
       "ts": 1790260239.3810627
+    },
+    {
+      "t": "2027 esports fnatic join marteen nbsp season set sheep sources",
+      "ts": 1790260248.8567312
     }
   ]
 }
