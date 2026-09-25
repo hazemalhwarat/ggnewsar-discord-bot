@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/06/17/us-based-valhallan-looks-to-expand-overseas/",
-    "https://thebusinessofesports.com/2022/06/17/here-are-the-benefits-of-sidequests-membership-program/",
-    "https://thebusinessofesports.com/2022/06/17/should-apple-be-considered-a-gaming-giant/",
-    "https://thebusinessofesports.com/2022/06/17/a-league-of-legends-viewership-record-has-been-broken/",
-    "https://thebusinessofesports.com/2022/06/17/how-much-will-the-esports-industry-grow-between-now-and-2028/",
-    "https://thebusinessofesports.com/2022/06/17/venture-capitals-bullish-on-web-3-and-gaming-startups/",
     "https://thebusinessofesports.com/2022/06/17/razer-launches-top-of-the-line-enki-pro-gaming-chair/",
     "https://thebusinessofesports.com/2022/06/17/reports-suggest-meta-is-performing-major-tests-for-an-upcoming-product/",
     "https://thebusinessofesports.com/2022/06/17/t1-extends-valuable-data-partnership/",
@@ -7999,15 +7993,15 @@
     "https://www.hltv.org/news/45577/krimbo-on-calling-i-had-no-doubts-in-my-mind-or-fear-about-it",
     "https://www.hltv.org/news/45576/astralis-to-face-100-thieves-in-stake-pulse-beat-ii-semi-finals",
     "https://insider-gaming.com/hell-is-us-switch-2-release-delayed-october-27/",
-    "https://insider-gaming.com/six-resident-evil-games-sold-3-million-in-a-year/"
+    "https://insider-gaming.com/six-resident-evil-games-sold-3-million-in-a-year/",
+    "https://insider-gaming.com/league-of-legends-august-renata-glasc-rework/",
+    "https://insider-gaming.com/gta-6-collectors-items-3d-printed-already/",
+    "https://insider-gaming.com/lol-worlds-2026-start-times-and-full-schedule-revealed/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-september-26-1203/",
+    "https://www.hotspawn.com/dota2/news/atf-already-beat-skiter-is-sneyking-next-pgl-wallachia-season-9-playoffs-day-3-predictions",
+    "https://www.hotspawn.com/valorant/news/mada-confirms-wrist-recovery-at-valorant-champions"
   ],
   "title_hashes": [
-    "1712def2ad42ebde258a374321d9fbc4",
-    "1534606291bafb21be4546dad0f96582",
-    "93fea4a1d8769510fee024ae8ecc2a74",
-    "bbece07ef13fb9e7d07ba0e6d3397e75",
-    "c433c74555ef2921c0c904eb5969a581",
-    "b3749ff22f3a8f9bb010382280af6785",
     "5a04cebcb901936a8924108d8db63f57",
     "d9a3aeadf6fe9387fbd66f19ac9e9032",
     "3c15f2f2a12e2d3ce2000044748c9e20",
@@ -16001,7 +15995,13 @@
     "3e51397bc67ef774d7574d3de47ae6e7",
     "e4c999579e894432e91e8b6b57288f04",
     "b85d7010714f69147505e223f4401fca",
-    "6a55cf49d28b67568e3722f71a058f3f"
+    "6a55cf49d28b67568e3722f71a058f3f",
+    "226efe51351d7d5fce5400e2552b51ca",
+    "c8b1af30eb058f53b8b3ec7fb9013a6c",
+    "c8414dd62187c7aae6708f88fd11ff13",
+    "00e730ad7ca8eacc0613cb13feb75934",
+    "d2428946193067af22649759cca15738",
+    "064db6489f7d3b3f77ad33891784e2de"
   ],
   "transfers": {
     "pages": {
@@ -21064,6 +21064,26 @@
     {
       "t": "3 capcom copies demand each evil games have hits horror huge million more post remakes resident showing six sold still than that year",
       "ts": 1790374761.29251
+    },
+    {
+      "t": "admits admitted august awkward designer gameplay glasc has lead league legends lol mid needs post queue renata rework scope she solo too update",
+      "ts": 1790374766.4389873
+    },
+    {
+      "t": "3d 6 8217 already box collector copied gta has items media one post printed printing recent revealed social someone something that they user",
+      "ts": 1790374770.9694586
+    },
+    {
+      "t": "2026 appeared bst cdt cest confirmed day edt every full games has here lol pdt post revealed riot schedule start times worlds",
+      "ts": 1790374774.4321964
+    },
+    {
+      "t": "3 9 already atf beat come day don four gamerle gaming have here matches matchups more next out pgl playoffs predictions rolling season skiter sneyking stop takes top wallachia who xtreme",
+      "ts": 1790374777.781583
+    },
+    {
+      "t": "2 against behind big campaign champions confirms convincing difficult end mada masters nongshim nrg off opened putting recovery redforce santiago shanghai shoulders showing stage their them valorant victory weight winners wrist",
+      "ts": 1790374781.1257915
     }
   ]
 }
