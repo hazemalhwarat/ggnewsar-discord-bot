@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVo3bmM4RUR2QktfdjBBT2hQSFQtUThRYkExVE5zcHlYNzlqNjA0Yk1MbVBDU3FoSXFVQlhxRjNyUHJ3WjQ2dlRoSHNRVUhNbXRIRC1rS2JHTDJURVA4S1BNanNnUTE5aG10ZElRRi14MTM5Qk5CekZGWG5nelV3SUIxY0xBTm5VLVZJdkpGV0VYTG5kdzRfelhKQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDNmNzVmalJpcmRUS0E1MFloMlpQeFVtTXN6cGRLNW1fbU9FaFFBMzlkbVFhVmp2MjVtcGVRNnkxbmVpVVFzSHdqTzNFdnFEbllQdmY3OGNTc0NFbUxWODF5MDFrZHoyTE1YRm9vOER0ZVBiZVAyZ3ZwcUQzZTQtVE9nQ0pVU0gtM2h4cG40RXg1LU9iSzc5VGlWMFI4WTVv?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0MzWmplRHpuQkgxRXIwRlB3X21HWFlWWnlhU05wSTlWZTc2UTk0cW9Kb3hMSU9naWlzSTJDRzM5WDhKbmpWRXh3MTFJaG1yX241ckZrdkJaUTBuRjVkcV8zSVBhTDQxeUViMV91R2VEdGNCM2JOU2JpUTBlbUNHdGpvNTgzZXpidGpIUk9Ca2E0elBmeGc?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSUVPbVhWb2xHekUtZUdCZy1uUmptTlp1MHU3ZEU4Szg0QmZkeFFJQXFJd3pLdGJYT0F3cm9LbVJwbmN6LWdjXzlpaERyN1NyOXBRbkU5bXlLT3V6a1BBcjFiaHVBNjFpTDItZFBZODdBMjl6VGEyQ2otdXhJQnNQN2RPdzR0OU9WYkp2THFaNVVMS1hQbTIteFBNa0FNcGx5MS1fSVVRaFNvSTVtMDN3cnRNVXF4ZU0?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmloRlhTaWFfV0ZEV2VNdzZNaEpMeWJYd2N3Y1pVdGYtSDRQY0NnZ3RrSUp5eTVMOTBRdVNNd1pMSEY1WnhNQm1kMUVqOXBhWkRka2JnR1FMbXJSdG9KQjlsZlhwOFZBWjZIaEt6MS05WVdJVHpqT01mT3U5VmRRZGNoMklxVUFiYi1oVVh1d3VTSE13TFhnVjdCZVNOdw?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3BtekdSa2xXeU5yeklJamwtMk1US0VzZzhiWmhYc2I4RnJhUE5mQ0R5ODR3OU1YWmdfOTlSUHpUbnd3aTdNQ21pV0lqMHFRbnZDYWJwVFpXS2w5emdoOEY1LWhtTzZnYTl1YkdEQ1pIajlkMzMtQjY5MzFzRUJZTEl1ejZiT2FmQjViMi1UcExQUm8?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wNFZ4Sy1EaHQza0F3OFFzUDVYWHJ6bUt6RFU0MVc1ai1rZmtkOWJ0RmY0MV9DOU50VzFSNF9ZM2l1Zno2RjdtOXJtR1ZMSktlYjJlTnpqOHh4ZjR2SzZ2NDItVkE1alB6OHBTM2F6NnpZNVU3WjFzbkdNTl8wQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcC1QS0hYNzVaTGxVQ1p2UXZER0lib3pQZ1gyelVSM2paMEJBNm5TZkpPVVdKOUYxOE9HdUZLc05nOWh5aFU2Rmh1M3F0MEZyYWh6NHlBUHVXcHZsNmlhQWRPcE9uQnRNcDRxcHprQlZkMXoyVmhVUlZjbUlsOVVsOHVQdkJCRS1aaHdBOHdSTE1QVnpqbDQzNWFZNjBfZFJjUEZySHUtdU9wZw?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmZSQjRDdnZiOWoxNk5ncFJhOF9zd1BpZEpWcmNkeXI3UFVUSnRJR0dQeVg1YXVRS2pNLXFQdkhocFhxSklPQmo5YzdkZjBCQnYxYXMteE9ZR0lDd0VMekc3bUpxZEthMDlPSmZGYmg5Yk54Nk5tTHhna003Sk04Uk5MMlNKZTR1Q3JHbDhR?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHJYNE5EQV9LNmJBZzZGaXNGMzdaOE9oeG5BaU9pNkZpMVdtckQtWld1YVZ1VW5nV1gxeEFZLURicTJsbm5qbHlMZUhCcG4tbWs3RktwQkxHc1ZTNXI2WkhSbm5QTUlQNl9XY0dRVU40ZGFIVF9od1duNEZCMTlCcnJxejI5SVJWY2trb29STEd1OG0yY0dLSFZBemJmekdqM1E?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHpUeXllbXpUdlQtbEc3dmZydnFVdnFINjIyY013UXdCclZha1Ewc2xMR3N5cmxzaDl3S1daS3NlOHIyQ2RFRHdkTHp2TDlweVZmWmlTOXppMFM5Vnd3WEU2dnFUSi1qNi1BYi12Y1FiSVExWGU1c1R1RUJKYkRWbFUxMjN0b1RKdUJCdHBCYTRPeXZGOTNxdg?oc=5",
@@ -7999,16 +7991,17 @@
     "https://www.invenglobal.com/articles/26488/squishy-cheeked-daily-chaos-becomes-anime-short-animation-trickcal-cartoon-world-premieres-sept-28",
     "https://www.invenglobal.com/articles/26487/the-real-race-begins-now-steel-ball-run-jojos-bizarre-adventure-2nd-stage-released",
     "https://www.invenglobal.com/articles/26486/a-three-stage-revival-plan-from-october-to-march-bungie-unveils-marathon-roadmap",
-    "https://www.invenglobal.com/articles/26485/arc-raiders-to-test-pvp-free-pve-mode-in-october"
+    "https://www.invenglobal.com/articles/26485/arc-raiders-to-test-pvp-free-pve-mode-in-october",
+    "https://esportsinsider.com/2026/09/valorant-champions-2026-g2-esports",
+    "https://dotesports.com/call-of-duty/guides/doom-event-pass-bo7-warzone",
+    "https://dotesports.com/general/news/control-resonant-pirates-buy-game-support-remedy",
+    "https://dotesports.com/league-of-legends/news/papasmithy-apologizes-caedrel-flyquest-costreaming-video",
+    "https://dotesports.com/rematch/news/rematch-blue-lock-collab-aura-striker",
+    "https://insider-gaming.com/gears-of-war-e-day-review-embargo/",
+    "https://insider-gaming.com/xbox-asha-sharma-microsoft-veteran-slams-approach/",
+    "https://insider-gaming.com/gta-6-breaking-records-for-xbox-pre-orders/"
   ],
   "title_hashes": [
-    "8b278d84f53c7a477c9c41f30bd1d825",
-    "0d74f81f0df465cdf46dbdc3e35b4261",
-    "174caa737e28c8aee826c5b9fccce865",
-    "47c8229eacb93258adbbd70b123abfb4",
-    "1efa82bd5a8b94961a67f5c101cb7b08",
-    "428077711c0005d95d38341866adee12",
-    "5fab12616e117543cc4410c9565ebcf5",
     "5185374bb8ec9547611a149d31e91cdd",
     "b557726fedf8989c4170ec1915ba1ef4",
     "5298acd35eba86c20a2830f2cd3502e4",
@@ -16001,7 +15994,14 @@
     "5d8f0b4c3a1f2d7383152ff4b6f2b71e",
     "8b30670aeb6c7e71e80d1a5d16ccbdff",
     "35d6d33467aae9a2e3dccb4b6b027878",
-    "73a5bc163d02c8a1e8bee5037a5a6405"
+    "73a5bc163d02c8a1e8bee5037a5a6405",
+    "094ec8ed0212817724fb34cb32046195",
+    "2e88a28ed408060fe1945b4bcc25141a",
+    "236dc7163fde2c70a6615c33c2e10cc0",
+    "76649a0c4771c73ec2e87806a42029fe",
+    "f8ae46b40957521d5c2f5d59398ef0e0",
+    "fef07103b03a72f7132a28e708f01317",
+    "aa9dbd27fd9a32037277517354791e88"
   ],
   "transfers": {
     "pages": {
@@ -20948,6 +20948,26 @@
     {
       "t": "13 20 24 announced arc beta conduct embark feature free its matchmaking mode october official pve pvp raiders september studios studiosembark test that toggle website will",
       "ts": 1790330307.3468738
+    },
+    {
+      "t": "0 2 2026 beat bracket champions esports falls g2 group into lower post reach reaching shanghai side tyloo valorant winners",
+      "ts": 1790330312.5963652
+    },
+    {
+      "t": "buy control each even get other paid pirates remedy resonant some support telling want",
+      "ts": 1790330316.2915154
+    },
+    {
+      "t": "apologizes caedrel controversial costreamers five flyquest fuels hatewatch later lcs months old papasmithy unlisting video",
+      "ts": 1790330319.725589
+    },
+    {
+      "t": "8217 approach asha ceo deleted former leadership media microsoft now post sharma slammed slams social style veteran xbox",
+      "ts": 1790330323.1038969
+    },
+    {
+      "t": "6 8216 8217 amid been breaking gta heavily microsoft orders outskewing playstation post pre records reports revealed title xbox",
+      "ts": 1790330326.68668
     }
   ]
 }
