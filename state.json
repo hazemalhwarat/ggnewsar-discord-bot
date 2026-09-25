@@ -1,17 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmZSQjRDdnZiOWoxNk5ncFJhOF9zd1BpZEpWcmNkeXI3UFVUSnRJR0dQeVg1YXVRS2pNLXFQdkhocFhxSklPQmo5YzdkZjBCQnYxYXMteE9ZR0lDd0VMekc3bUpxZEthMDlPSmZGYmg5Yk54Nk5tTHhna003Sk04Uk5MMlNKZTR1Q3JHbDhR?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHJYNE5EQV9LNmJBZzZGaXNGMzdaOE9oeG5BaU9pNkZpMVdtckQtWld1YVZ1VW5nV1gxeEFZLURicTJsbm5qbHlMZUhCcG4tbWs3RktwQkxHc1ZTNXI2WkhSbm5QTUlQNl9XY0dRVU40ZGFIVF9od1duNEZCMTlCcnJxejI5SVJWY2trb29STEd1OG0yY0dLSFZBemJmekdqM1E?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHpUeXllbXpUdlQtbEc3dmZydnFVdnFINjIyY013UXdCclZha1Ewc2xMR3N5cmxzaDl3S1daS3NlOHIyQ2RFRHdkTHp2TDlweVZmWmlTOXppMFM5Vnd3WEU2dnFUSi1qNi1BYi12Y1FiSVExWGU1c1R1RUJKYkRWbFUxMjN0b1RKdUJCdHBCYTRPeXZGOTNxdg?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WYUZrelprc2ZtYnY1SmpnUS16LUpnU0NkME5NQ3J6MUlRVVMxOU43X1J1WjJlYnlNNjNLNDhueDZaZ0hqNGFvVUtwZzJKYy03U09CVGRMZ2IxUmw3NEVnX1dWRFZlSnJHeXJlYXBYZDFIeHNiMFpR?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmFzUTY2V2NVQWxHM0poai1kQTl2bGQydmo1bEV6ZG9qNUtkbHRnZmFXMmE5akFCaExBM0VRa21qN2xla1c5QlJweDQwZFkwQjgwQUJGdjRBNHZHdTNpTkFqQjVFSXp1eDUzVUtwVDdmNUhweEZla09iaHZkdW9UX3JEMG9lbk1HSFdlTXd4a21HWGZ0TEo3SXVCZjl5TmozVTJmRU5QUGN4ODA?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZS1TMEh6RU9CNkc3c2w5M2Q5RGRFN1JiOVdEUHRnek53MmdpMlM2c1ZZUnhmRWtHbFJnSkdpU1hqeWktemVBYWRQZXNSV0RaSWdjamUzSnRGTVk4cE1PWlkzRVd1bklOTmw0UFVEcnJpTDZFSWhkTzk4TXVxZGI1Z3N5b1pRSDFYRU5vWGlXWXhjcjc2d1N0TVl2QlExeUo5ajAxTEEwWk45cEJiNmJPOFdmZVhUamE5NFE?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE01dC02TXF1Q21ERDA4bXBEdGlOVkVkYVZnUWtEekV5S1lNdWpJdFFmUlN1MmNQY0tWY1Rla0pKT2pjTHA1ZXREdVNudW9HaHdXVW8zX3hUVkkwWURQZEdHZ1J6Y21vR3pOUU5BQ041RTBiNHptbWFUMWVkai0xSWNTQ3kxcWFKWm9vRFpzLTBqLW5X?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE11cWtZdkFmd1lvWGZrb1ZBY0F1eFpydmN0Rk14dXN5WU40dTRFbUNXeWxuOS1yUEYxSG9qSmplNHk4d3NCV2tURXdXZWhEbVBPb0pRQjJBdG5YeEtSdmZ3LWNNdTFqMmNrOUJvc2QzenNJUXd4?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMDhJQXQtc2VjZG12MUtwNHh6eS11N3k1WkhJbEZPUlJOM1oydE51T3YzclRZdnExN2RObUJEWU1RMW1XbllzT3FCc3ROaTA4Z0tLamg2dTZJaUFDbzEteE5ZMVVHTHRfQkpHNGlMQXdvS0RRZm9rZkZZVUh4X21XeTFYYzlaWHdVWHI2bnpjOVFmVkNK?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTmRQa0RmcGtNSk85SWVvQlk4NDhKY3M1QmllREdHMTZoZmlvLUZrdnhaaDNGdlRhRF8zSkhaVHdINUFiaHdCLWpBMzlrOUtoRDJ5Z0tpZEQ3MTFmMUlicUNIdFNSRDBNWUZxZ2QxRTNMRDROc1gwXzgxVjI0Q09JblVDenJydFpxSVhOSjhpenRoVGFrZC01REFXOFlQU3Q0MXhTMnJUaTFhcFl3RlQzdGJB?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WUjh6MEFHcVBBXzBPaEZTX1pKMWZmUl85c09ycHZqdGZaZ2Y1QTRRb3djaEN3MnJFSnBodkxQOVdrLTZUVUxsRnBETmN4Ym5ZZDFiYkh2Tm8taDVVMGFqOG9jS25obVRPdUE?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMWHdraFBJa3htUnZ0SEJ6TU5BajdjdEhxTkR2QWpEZEJUU21CM2RuakUtQW10ekVVckxVekdWR2NNVEM0WlhmckdOaUV0NmtyR1FxaENpblJLRnRwamxlOTNWNWlpRTZqN0NxUUJhZw?oc=5",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTEkwN2N3bk5ETHpmbXljQjhHQTVuaU9XZGQ4Z3N1QXpEU1hwelJCamhpRkNsbGJpdkRKTXBLZmlRcW0yQmM2SE1Fb0pCdWFDbzdnVWlYZGRuSURmSDFjc3BfLVNlMHVfLUlCVWswYXNzQzRLaDN4RTRDbVNOMGtlM1F5cnRoMzMwQzVBRmI1YjVQMkRzSVUzU2taVzZ0SnVJaTcxOEFJZk05VHNXUy1oNFdCT1dZZV9Ldm01ZlQwT1ZFcGt3Sl91bTdSUFAzRlJZ?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWxlLUVUVmZ4YVN5b0l6eDJLOU1LRDN5TjFBTjItby01RHZ5WGF6enJYQ0dlMEdRWkZ6UnRKV3ZITGNUUGJuLXg4bTlrd1lsUklqb010VDU2bTlJRGU1SG01Q1BQTE5aM0hacE90RU9iQ0d0NDhueG14SERXWnktODloUUczZmpQRlNuNVAwRkhBS085b2lyWTlCMXF1WnQxVkhTWFRn?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxONllJdWc5VDdmUnhEZGlaRjZVdi1ydVBVcEZKM3RRWVpVcE52a2drZHR6MmF4TDdCNGJua1F5WDJnVmJGbFNRc1JNZjZtUkR3UGdkNFVRSnVPbmQyNWVTMXkyYUI4RjFpd1FSRGk1WWNxUzNtaDJGWTNDb191aV9xcThCZUcxbVZVOThFVmhkYXUxdnlMUE02ajYwY08wdEtVRFk4Q2U2SWtIcmZYc2xjRUYwbw?oc=5",
@@ -7999,21 +7987,21 @@
     "https://dotesports.com/rematch/news/rematch-blue-lock-collab-aura-striker",
     "https://insider-gaming.com/gears-of-war-e-day-review-embargo/",
     "https://insider-gaming.com/xbox-asha-sharma-microsoft-veteran-slams-approach/",
-    "https://insider-gaming.com/gta-6-breaking-records-for-xbox-pre-orders/"
+    "https://insider-gaming.com/gta-6-breaking-records-for-xbox-pre-orders/",
+    "https://insider-gaming.com/the-division-2-goes-free-registration-opens-survivors-test/",
+    "https://insider-gaming.com/the-division-2-survivors-test-how-to-play/",
+    "https://gameriv.com/halo-studios-had-no-games-in-full-production-before-xbox-layoffs-insider-claims/",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaVdEaVJsNWZKQXJHT2s1OEZjd0NWQU1VS0xOMl9YTGtWVlJ5OGpTQjZscHEzSUxqcGpqY21kdmozeEs0b0RXdk5pbEdNSmJpYl9DS0FmQmlTeHpzQWVISkxPYzdlMnZVcENnSld6a3l1VEJnVGkzNWNtMEVrSHA1djNEdmlJS2UwRXJVZEFzanNmdw?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOERKdDJwS1JCSUgxYm9wY1hSRVQ1eEtKSTNtUDU4MFdLY0Q1ZUU1S2dlUzJuMFQzVnVGTW9CMy1TQXdZMkVrZjJzVVIxMEloVzF3bm5mRWVtbktUYUoyZXhDdkFhVmFTNVhtY2Z2NmdDWGpqNDYxLTJodTRudDBOWFBUTm9HNUE?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRElHQWUxZ1VfZ01tZXNBWGJocEtJNEVWTVlFZ1ZPbkoxWTREOEpBc3A0V0VJVEtHaHp5Mkc5VTZQeTg2bFpHc1hNNk9qSnJDU0s1RUw5bmxJOVZ1alNRc3VqdUJrTzZPRHNEclVGSmd0WHIyeHF4TFlfUGlWQkM5ZjhnTE8zaHQ3YldXSXlMNzM0c0U?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ3JaSmdxaW5IcGxKY3I5eTN4QmlDRUF5cno3SjBtSElDOHpEZWVCNENLQUhwTGhfaUdYOVBsRWdjcmpXUF9PUV9DVUJqQXhQSmk2VnVSNkc2cWNUS2VBdEYtVjRFWlV4cmNCR0FjcEdEQkx4c1lDN0FVeTlUYkdxSjd6SURTdw?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS0FJWHdXakd6d0dPOU1QYkc5VjJGaG5kV05mOUZzemJtY1ZNT285N0YzQ2FSOVA5RkpLOW8wNW5xSGhQOWU3ZWtFd0dBeEQ0aHpSeVFSc0pWWlZyalFkN0xhdWRtUkVZWDZmNFlpdlNZTFZRdEpiRmgxb1dKNlZKaFRlOFZ2aUEtSmN3VjdhZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTElBNnRNVENiVVpydWsyRjJJV19QUGcwT3dHX243SDNUVk1Lb2dDUlVBdzgzM0pMSE1JMm0xbnc3OS0ta283bFJKQ2tQR3E3ZW9LbENrLUphREdLNFh3NklrYU1MVHJZdHJhcEN3NVdMUkc1VTYwYmROVDVzbTdUTFAxY3RuVjdnVVA5TERmVkE2UWRVa1ZpME1qTWdtdlBYY1Jpa3NacjFUb29iREY5MEctX1NqbU5S?oc=5",
+    "https://www.talkesport.com/news/bgmi-lite-release-date-in-india-2026-when-is-the-game-coming/",
+    "https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators",
+    "https://www.gamesindustry.biz/king-signs-collective-agreement-with-swedish-trade-unions-following-call-to-industrial-action-last-week"
   ],
   "title_hashes": [
-    "5185374bb8ec9547611a149d31e91cdd",
-    "b557726fedf8989c4170ec1915ba1ef4",
-    "5298acd35eba86c20a2830f2cd3502e4",
-    "a6754fb7b13a6fe38d448468719c7b00",
-    "68353a98d2213272417fe6315a7344d0",
-    "f743b86ccbc2424bb19f197f9f7fbecb",
-    "3a09443d76ef54ca69be2e9ccd492871",
-    "999a14794a91a1cf2bdaf8bd451de8f0",
-    "95e0f537e962b6f453da7ca0014eec61",
-    "4edbb26280eea5ab4efb7a3fbcf64f30",
-    "6d614dd6113b30541071885d97d4610b",
-    "8ba8b5acf001f1b027b06f8468d1f538",
     "5808f3f0ea9c5e46af285615c00d963a",
     "4ef0569575cfefe27b645c7851a5b653",
     "68467dd13b23db66b17f47a0bdd794f5",
@@ -16001,7 +15989,19 @@
     "76649a0c4771c73ec2e87806a42029fe",
     "f8ae46b40957521d5c2f5d59398ef0e0",
     "fef07103b03a72f7132a28e708f01317",
-    "aa9dbd27fd9a32037277517354791e88"
+    "aa9dbd27fd9a32037277517354791e88",
+    "91163604049fd58e29cc2d9e4c99154a",
+    "0f528dfa4bb1ee956ff900a880e90e8c",
+    "f5dcb8f7535c2fbade304cfdd7b8573d",
+    "45380f078ea7467a61884bd3288bd37e",
+    "2a3795079880c7509c13a5f8f2884b71",
+    "502e377ae93ac112ae5ed176c8e2f386",
+    "06c431242a4264a444e7400bbad729f8",
+    "846f0cf8b5afd679ce63bd65c98ff8fa",
+    "c135b3c45246d7f78a7f5c986bb2296d",
+    "222b183faed455286303ad47f53fc75b",
+    "c0657c363278e21e41856da9b02cef77",
+    "f5d8660aeb9384538888574ea5c09784"
   ],
   "transfers": {
     "pages": {
@@ -20968,6 +20968,26 @@
     {
       "t": "6 8216 8217 amid been breaking gta heavily microsoft orders outskewing playstation post pre records reports revealed title xbox",
       "ts": 1790330326.68668
+    },
+    {
+      "t": "2 announcement days division expansion few free goes has made next opens play post registration sur surfaces survivors test ubisoft upcoming",
+      "ts": 1790330331.6138985
+    },
+    {
+      "t": "2 3 7 according all based before claims exploring first four full games gaming had halo insider layoffs novel off production projects rebs remakes reportedly spin strike studios this week xbox",
+      "ts": 1790330334.9856083
+    },
+    {
+      "t": "2026 after among battlegrounds become bgmi budget coming communi date especially game has india lite major mobile older players release requests smartphones those topic using when years",
+      "ts": 1790330338.471991
+    },
+    {
+      "t": "administrators appointed boy build developer following has its layoffs mindseye more most read recent rocket wave",
+      "ts": 1790330341.8880937
+    },
+    {
+      "t": "action after agreement call collective following has industrial ingenj king last more ouml read rer rsquo signed signs sveriges swedish trade unionen unions week",
+      "ts": 1790330345.3966074
     }
   ]
 }
