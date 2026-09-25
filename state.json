@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGd4LUlyX0tXTmk4LXdlQVRoNHFPMWFQby1FT1dPQXNkQXJtVl9kYWhUWV9GOHgzVHkyc3d5NjVzbVhDN3ZFOGRkZ0gyWjNjWlJSY3VWTlB3UFg3SVNlem56UnJKTENzc0xDOUczN1dVNzFLS2N6OC02bHV0YkVzSnZCWGdNTUNadWpMeHJGcUQ1dWllcVR0QmN1dEYzbUhtbERXaDNaTG85X2pqOXIwRVJB?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTm9oc1lDR2dXSFNERzBlcE54cDBWWFFPNkRHRXZqMWtiWVptWHdUQkljaFNDbjBpMnpNLTZwVXFhZkhKUWh6eWxZUzZGSjVyZ1hONHNBcXk2enM3Q3VhSDhpUHY5eXRGeFNJMS1NMU1MSnJYbEtjazlIejIzcVh5LQ?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oN1BaNml2Rk5yVVBsbDJoVU9oZEdBb2JGZ01OU0MzODdxRkFWa0VOaFROQkNKMk90RUk4RHRHY01iU3ZRYTVYMmdaZWtWbUlLZjNxb1FyRVM3RDVRNzdpMFozNWJVWGM1TzQzNC1Ec1FYb21I?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdTFHTGFEdUM0RFRpYVo3U0h2TXJCVmRPWUhWYVViMDFSRmdMNkluYXhuMXYtaldrdGl4ekVGMGZGYzVZS2xsWWQwV2ZUblA1a3VTaUpRSU9DbDZYUlNXakxRVVNoZ2tvUy1RUXo5akdYUVBrSkhFOGwxZ21FM1lPVjFUUUJDRExET3FuVVphRUNNZ2Q1VGpGMzhfOA?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUwwV1MtVVQ4MHpjd2tDZEdkQU42Nm9VVTZ3TFN2WERMQkpGeXJNSDRPalRRS1ZjQkE3RjhQN01BQnhkRjJPS3VoakhYNmVUZU5TaXJMVGl1RnJSX04yb0w0YWpENU0wOXB3UGtOX0Jfc1FORVltTjl1MmlxWG1pM1BKNVNvd1FyVlNrUDRCODFKR1Y4Y1lMV2dvMlZlVGdmT3FBTndKODBoa0U?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ3hpRFRIYXkwWUQzcVJoSHBWWUhlSXp0OUpZb3V5VWZ4cFBKQ1k1Y2lUN2pteDU2SzFrUTlBUEdJdnNTdG1mOHE0VmY3MGNka01PV3Vzb0t0X3hBbThlNEE4OHAtRWgzUXpYcjdBQjBRQUFNV3FGOXhqbFQ2MjVfUGF6cEdkV0Y1bGVlSXhMNFRScFJiRy1QMzZCLUJsTm01WUNYODJnTTJCVktReGlQRXZ3a1RjOVp4QTJkY1M0LUg5VzE4R0JfdGZRQ0lJQQ?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbjRNM3dCX3VLTzBrLXhiUkpna2cxdUROdDlMOUJ4YTRiV1dvaEVNZDd4b183al9CaEkxMXBreVM3X0Uza0RCYk5RVVRwNTg4LWVWSmNPXzZoMllnMW5NcDBtSjZhTENpVUZkM1lBcW8wZmhlSVRpLXU0SURTNkR1Ng?oc=5",
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTzZyRUlhS2p5bTVDZHFjS09EN1NpbTBtRS1UakVmR09SSFJVVmxWMmdlMmJXUWpidWUxdHB5UTMyN1JOMGFuRjJaZUw3X3k3N05SSVNGYkhtZEdjc0hUVmVWWlI2SnFOak5KdlRHbndGNVJHOXVyZWlrNWJOTUZKN3NsQUxMYl9UMXVXMW5ack1yUk5GbmpGNklnUWZsUzlVdFlFVHBYV29sbE1ycmhOQVhIb3p5ckREXzNoMlRtcWkwRDdkbDNqam5Jd29EaldEaWJHLTFVU0JhalNZaWNVX3VB0gHnAUFVX3lxTE1NUjkzaUM5T3pUS2NvWVFMbVdnVkZ5V0FGVFhGbjhmeTJvbVpQVy1UMEFTVXAyUjEtVHM2OUxGVmZuZldwTEY3QzdOTXRxVVBJdVB5dm05eTBvOWlueUh4bXE3QkVUbG5HbDNaTEF4VThsclRkbUNRNGpWdUNpOS00UXFUNUFIN0dOdFlLVFBNZ1U3UDdhSU0xdUlnNXZ0X1c3VmU2VmNiaTJYOFl0VlZITlhXSWhMdXpIMDdEVkVQSWF3V0NOcXhmSFMxYXpjdWdrd0VSdjN2ZUJxdTVtclVFbEthUC1zdw?oc=5",
@@ -7999,14 +7994,14 @@
     "http://www.surrenderat20.net/2022/10/106-pbe-update-icon-tweaks-tentative.html",
     "http://www.surrenderat20.net/2022/10/104-pbe-update-preseason-2023.html",
     "http://www.surrenderat20.net/2022/10/pbe-preview-bewitching-2022-three.html",
-    "http://www.surrenderat20.net/2022/10/red-post-collection-preseason-2023.html"
+    "http://www.surrenderat20.net/2022/10/red-post-collection-preseason-2023.html",
+    "https://www.invenglobal.com/articles/26484/original-castlevania-available-free-until-october-24-for-series-40th-anniversary",
+    "https://www.invenglobal.com/articles/26483/why-the-father-of-kirby-and-super-smash-bros-ended-the-award-he-created",
+    "https://www.invenglobal.com/articles/26482/taiwan-gaming-market-trends-in-august-from-esports-and-indies-to-ai-acceleration",
+    "https://dotesports.com/zelda/news/ubisoft-canceled-zelda-ganondorf-game",
+    "https://insider-gaming.com/halo-fest-still-set-december-2026/"
   ],
   "title_hashes": [
-    "eff290ed050feec6fc145f4b1f6620b7",
-    "0fcf786c449dd32f179d2f0409a95ffa",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "cd00d50d0eac02a1e188013d0c828fd2",
-    "20a9cc12d527dc38c68d937e4a98e558",
     "b9ce4402c4344d32dc056295d8b3467e",
     "d4da5cf30dfd4ce7dda8a35904788572",
     "29281b157d7351aaa3d3de299e5c75f9",
@@ -16001,7 +15996,12 @@
     "d7a4564c7854537598afb43a100c9ce0",
     "1b2ba306a16bc0b8e87145629522c1bd",
     "b5369af2df0cf790c54e882e6262029d",
-    "d628703957d947bf33009692b1a76094"
+    "d628703957d947bf33009692b1a76094",
+    "e0b29f4306cf18d058437e5c3c3ce0a6",
+    "e6fbdb55d26556c04730edb33b514056",
+    "2fa03ff7f94edc0aae8dab33d3350c18",
+    "493327b345ca8d70569f191d99326d25",
+    "3bb8dcd9d58cc1c6e8669618376000f8"
   ],
   "transfers": {
     "pages": {
@@ -20710,78 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "15th alongside announcement big details device early frame headset hours inside its made picture regarding release steam surprise true valve wealth",
-      "ts": 1790242548.2335281
-    },
-    {
-      "t": "24 30 blizzard chuseok delivered developers development diablo entertainmenton expressed fans gratitude greeting greetings holiday korean send september team thank together video years you",
-      "ts": 1790242551.867668
-    },
-    {
-      "t": "3dmax amid boosting connect envy french hopes links logitech major month play ranking second shoot squad their this title trophy",
-      "ts": 1790242555.4238744
-    },
-    {
-      "t": "application boss buy controller could describes exploring fight games handle information let more newly next patent payment phone playstation published sony tapping than that through transferring you your",
-      "ts": 1790242558.867809
-    },
-    {
-      "t": "aphelios arts back band closer collection date ezreal fresh give heartsteel kayn league legends life live lol look next players prices release sante sett skin skins splash wardrobe",
-      "ts": 1790242562.3043373
-    },
-    {
-      "t": "can car coming enter esports genes genesis here how magma mans manufacturer part post racing real sees series sim support take talent ultimate within world you",
-      "ts": 1790242567.8004475
-    },
-    {
-      "t": "also car drive esports full genesis grabs its korean launches magma mans manufacturer official other premium prizes pro racing run series sim team time ultimate use will within",
-      "ts": 1790242571.4087741
-    },
-    {
-      "t": "2026 8217 after another asian barely blames check competition controversy day efootball ended ends error facing following forfeit games guidance hopes india match medal qatar separate site unusual",
-      "ts": 1790242574.9034064
-    },
-    {
-      "t": "8217 8230 bgaming billion bonanza cascade franchise fruit gem grafts informed launches mechanic merg merge onto overhauled post sixth studio system template upgraded variant",
-      "ts": 1790242578.3559043
-    },
-    {
-      "t": "2026 8217 8230 accelerates april avanti base commercial infrastructure its latest malta move office opens operator post push rapidly scales studios supplier",
-      "ts": 1790242581.782359
-    },
-    {
-      "t": "8230 activity addresses advanced compliance detect fraud gap inability intell intelligence launches long operator organised post rings standing syndicate technology tool when workflows",
-      "ts": 1790242587.4004056
-    },
-    {
-      "t": "ads adverts announcements credit display disrupting during files game gameplay has microsoft more patent patented read sessions show system without xbox",
-      "ts": 1790242590.8843143
-    },
-    {
-      "t": "ali asian bahrain eighth esports games nbsp news",
-      "ts": 1790242594.3393145
-    },
-    {
-      "t": "1 2026 4 africa championship continental esports fifae frmf frmje madagascar nbsp sheep team tunisia",
-      "ts": 1790242597.788249
-    },
-    {
-      "t": "11 debut dominates eel games historic japan kid nbsp peninsula powered qatar whizz",
-      "ts": 1790242601.3236024
-    },
-    {
-      "t": "how shanghai tournament valorant watch",
-      "ts": 1790242606.579204
-    },
-    {
-      "t": "chicken counter how pet system unannounced works",
-      "ts": 1790242609.979002
-    },
-    {
-      "t": "ending exploits follow patches round rush valve",
-      "ts": 1790242613.414268
-    },
-    {
       "t": "2 2026 27 3 after best fantasy football has kicked landscape nfl off officially options quarterback rankings season team that week well your",
       "ts": 1790260099.5902963
     },
@@ -21124,6 +21052,26 @@
     {
       "t": "3dmax cs2 deal envy gamer nbsp nears reportedly return roster shane tease",
       "ts": 1790295197.2586322
+    },
+    {
+      "t": "24 25 40th anniversary announced available castlevania celebrate entry franchise free iconic its konamikonami mobile october offering original september series that today until version",
+      "ts": 1790312192.5380208
+    },
+    {
+      "t": "15 2026 award awards bros ceremony committee created developer ended father final game head japan judging kirby masahiro renowned sakurai september series smash stage super took why",
+      "ts": 1790312196.081957
+    },
+    {
+      "t": "acceleration august delivers esports gaming get happytuk important increasingly indies inven look market monthly news quick report taiwan taiwanese trends",
+      "ts": 1790312199.619718
+    },
+    {
+      "t": "canceled developing game ganondorf mario months nintendo prototype rabbids reportedly spent starring team ubisoft zelda",
+      "ts": 1790312203.14177
+    },
+    {
+      "t": "2026 25th according anniversary appeared celebrates coming december event executive fest fir franchise halo post seattle set still",
+      "ts": 1790312206.6765664
     }
   ]
 }
