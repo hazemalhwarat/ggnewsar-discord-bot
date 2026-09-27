@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/05/17/did-we-just-get-a-titanfall-3-leak/",
-    "https://thebusinessofesports.com/2022/05/17/dc-based-overwatch-league-team-honored-on-may-7th/",
-    "https://thebusinessofesports.com/2022/05/17/esports-betting-market-will-be-worth-more-than-23b-by-2028/",
-    "https://thebusinessofesports.com/2022/05/17/university-of-warwick-named-best-college-for-gaming-in-the-uk/",
-    "https://thebusinessofesports.com/2022/05/17/2022-asian-games-in-hangzhou-postponed/",
     "https://thebusinessofesports.com/2022/05/17/new-york-city-suing-activision/",
     "https://thebusinessofesports.com/2022/05/16/mobile-gaming-ad-revenues-in-the-u-s-to-reach-6b-this-year/",
     "https://thebusinessofesports.com/2022/05/16/blockchain-gaming-studio-cometh-receives-10m-in-seed-funding-round/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26509/south-korea-honor-of-kings-team-eliminated-in-quarterfinals-by-philippines",
     "https://www.invenglobal.com/articles/26508/sorry-i-couldnt-bring-home-gold-tearful-bronze-in-pok%C3%A9mon-unite",
     "https://www.invenglobal.com/articles/26507/claimed-as-single-exchange-asian-games-south-korean-esports-gold-medal-also-shows-peeling-defect",
-    "https://insider-gaming.com/where-winds-meet-mmorpg/"
+    "https://insider-gaming.com/where-winds-meet-mmorpg/",
+    "https://dotesports.com/valorant/news/100-thieves-beat-t1-vct-champions-2026",
+    "https://dotesports.com/delta-force/news/delta-force-detonation-beta",
+    "https://thegamehaus.com/college-football/college-football-playoff-bracketology-september-27/2026/09/27/",
+    "https://thegamehaus.com/college-football/5-things-learned-from-college-football-week-4/2026/09/27/",
+    "https://thegamehaus.com/nfl-draft/nfl-draft-prospects-to-watch-in-college-football-week-4-recap/2026/09/27/"
   ],
   "title_hashes": [
-    "ff7534975205b04339980f441b447f79",
-    "6c89c5871194370bf52debbd5f380cdc",
-    "291ea73af9686c87c5a6cfac401c278e",
-    "d318350ed7eb9121b66a905b7e65d6db",
-    "507dff8f830ae7cb8b7164f9615b92ae",
     "6608f44842c579c85087d46fe8128d15",
     "6a5eddc0879f867e1f7fcbcf1eb47d22",
     "434d77c785afc02959342b184157993c",
@@ -16001,7 +15996,12 @@
     "5510e39efe64c96b009f865db54e7b47",
     "cf66aa987dc41ff773e1aca33247429b",
     "62665c4be5b8b2d1ab5b35a4547dc204",
-    "c3a2692ddd078cf91c9b7fbf0e21f309"
+    "c3a2692ddd078cf91c9b7fbf0e21f309",
+    "f6e4ce2369f4e6cd3666e4d5aa4f3300",
+    "fcf431328dc67f847b9756011fed7326",
+    "7f71e5ae657e9c205513d9dffe2e5784",
+    "55b698b8f5b01021a936d7d207b7fcf5",
+    "4a4d2c0cf59f72ca9c727251adece8c4"
   ],
   "transfers": {
     "pages": {
@@ -20888,6 +20888,26 @@
     {
       "t": "appeared called developers ecc filed files first gaming have insider meet mmorpg new post redline studio trademark trademarks unannounced where winds",
       "ts": 1790514788.8647122
+    },
+    {
+      "t": "0 100 100t 2 2026 americas beat champions dominating form ride stage t1 thieves valorant win",
+      "ts": 1790514794.2637575
+    },
+    {
+      "t": "5v5 beta bomb delta detonation environment familiar force its launches mode new own rules",
+      "ts": 1790514798.0688643
+    },
+    {
+      "t": "27 already bracketology but college defeated each effort fighting football have make matters most played playoff position ranked september teams they week what who will",
+      "ts": 1790514801.5479102
+    },
+    {
+      "t": "3 4 5 after away books can college every fans field football happened here learned related take things week what",
+      "ts": 1790514805.073514
+    },
+    {
+      "t": "2027 4 college different distance draft drafted each early far field football matchups nfl now off players presents prospects recap still this unique watch week while who will",
+      "ts": 1790514808.5910852
     }
   ]
 }
