@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/05/02/glorious-pc-gaming-race-rebrands-to-glorious/",
-    "https://thebusinessofesports.com/2022/05/02/mit-nano-immersion-lab-gaming-program-announces-third-annual-seed-grants-winners/",
-    "https://thebusinessofesports.com/2022/05/02/good-gaming-announces-record-revenues-for-2021-fiscal-year/",
-    "https://thebusinessofesports.com/2022/05/02/global-gaming-accessories-market-will-be-worth-at-least-15b-by-2026/",
-    "https://thebusinessofesports.com/2022/05/02/meta-wants-an-almost-50-cut-of-horizon-worlds-digital-asset-sales/",
     "https://thebusinessofesports.com/2022/05/02/esports-coming-to-wilmington-university/",
     "https://thebusinessofesports.com/2022/05/02/nbaer-cam-payne-joins-built-by-gamers-as-an-owner/",
     "https://thebusinessofesports.com/2022/05/02/epic-games-invests-in-aquiris/",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/featured/gaming-account-region-rules-while-travelling/",
     "https://www.nerfplz.com/2026/09/should-you-one-trick-what-playing-one.html",
     "https://www.nerfplz.com/2026/09/formerly-op-16-old-pantheon.html",
-    "https://europeangaming.eu/portal/press-releases/2026/09/28/214913/danske-licens-spil-everymatrix-casino-platform/"
+    "https://europeangaming.eu/portal/press-releases/2026/09/28/214913/danske-licens-spil-everymatrix-casino-platform/",
+    "https://europeangaming.eu/portal/press-releases/2026/09/28/214908/wazdan-cointober-coins-series-campaign/",
+    "https://europeangaming.eu/portal/press-releases/2026/09/28/214899/just-slots-mga-b2b-licence-hub88/",
+    "https://europeangaming.eu/portal/latest-news/2026/09/28/214894/brazil-online-betting-ban-european-operators/",
+    "https://europeangaming.eu/portal/latest-news/2026/09/28/214885/gambling-stocks-weekly-21-to-25-september/",
+    "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support"
   ],
   "title_hashes": [
-    "ed89dd40be9cf4bb66a5e666bd7468bc",
-    "e76e0ac1c8b1329bb92282792064289e",
-    "91c5e4d2bd5bf929b3c29cd03df37d18",
-    "362730677b4702932d6e2b8e8f7ea73c",
-    "d6f55e3624301d4c16dc1a7779285e6b",
     "c5e8eeb123354a03e2cd7b91e1138e1e",
     "53f7c5f7a952f280ff1fcfa1521b4fd5",
     "cf441d1244cc16ab64187be80f0d5732",
@@ -16001,7 +15996,12 @@
     "15fc54d95c6be1e55078b291eb787900",
     "a986afd15c680951fea9021f1f166722",
     "734f31478416957931ceeeeb385ee29c",
-    "e825e5b5724dac21049c094fbc0eb6a4"
+    "e825e5b5724dac21049c094fbc0eb6a4",
+    "64b0fe489b1a6ca07fa666e42fdfe3b5",
+    "1b65f792ed726f36f28de821cc2848db",
+    "3c4080af92f64e3d645038b59e3252f9",
+    "6f22e02c31b72076c76fb16cb13681f9",
+    "b89a71145f2c409e966e33f39a2fb810"
   ],
   "transfers": {
     "pages": {
@@ -21116,6 +21116,26 @@
     {
       "t": "8217 8230 casino completes danske everymatrix first goes licens live migration month pla platform post replaced since spil technology ten that time",
       "ts": 1790611379.5526574
+    },
+    {
+      "t": "30 8230 app brand campaign cluster coins cointober collector consolidates five identity introduces launches more post push series single spotlight than titles under wazdan week",
+      "ts": 1790611384.969549
+    },
+    {
+      "t": "8230 b2b critical distributed gaming goes had hub88 just licence liv live malta mga opens operator post previously regulated relationships secures slot slots studio supply which",
+      "ts": 1790611388.3239558
+    },
+    {
+      "t": "25 8217 8230 appeared ban betting brazil deposits end entain euro european expects first fy26 its land lower means now online operators post september stopped what",
+      "ts": 1790611391.7535458
+    },
+    {
+      "t": "21 25 8230 after analysis brazil downgrade european flutter fresh gambling lows market nine post rank redburn rothschild september set stocks trends weakest weekly",
+      "ts": 1790611395.1420035
+    },
+    {
+      "t": "about console decision developers disc dropping end entertainment find interactive its more out playstation read report reportedly sony support surveying their thoughts",
+      "ts": 1790611398.8656864
     }
   ]
 }
