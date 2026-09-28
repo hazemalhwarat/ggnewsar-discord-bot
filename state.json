@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/05/06/moving-image-technologies-and-sndbx-announce-strategic-partnership/",
-    "https://thebusinessofesports.com/2022/05/06/global-mobile-gaming-market-will-be-valued-at-151b-in-2026/",
-    "https://thebusinessofesports.com/2022/05/06/podcast-225-sam-speaker-gamrpod-esports-furniture-micro-studios-target-customers-and-business-models/",
-    "https://thebusinessofesports.com/2022/05/06/norways-heroic-joins-blast-premier/",
-    "https://thebusinessofesports.com/2022/05/06/asian-esports-giant-talon-is-entering-valorant-announces-squad/",
-    "https://thebusinessofesports.com/2022/05/06/2k-games-wants-to-make-a-direct-competitor-to-rocket-league/",
     "https://thebusinessofesports.com/2022/05/06/a-look-at-the-biggest-announcements-at-the-meta-quest-games-showcase/",
     "https://thebusinessofesports.com/2022/05/06/the-sandbox-is-aiming-to-raise-400m/",
     "https://thebusinessofesports.com/2022/05/06/league-of-legends-pro-league-to-compete-remotely-at-the-mid-season-invitational-2022/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26532/223-billion-nine-spent-in-lindel-3-growth-competition-intensifies-on-sky-island",
     "https://www.invenglobal.com/articles/26531/reconstructing-events-through-sounds-in-paintings-korean-horror-mystery-michael-test-releases-steam-demo",
     "https://www.invenglobal.com/articles/26530/riot-games-reveals-new-legends-and-mechanics-for-riftbound-radiance",
-    "https://www.invenglobal.com/articles/26529/esports-exits-the-asian-games-what-is-lost"
+    "https://www.invenglobal.com/articles/26529/esports-exits-the-asian-games-what-is-lost",
+    "https://www.invenglobal.com/articles/26528/hoyoverse-korea-creates-genshin-impact-forest-with-530000-participants",
+    "https://www.invenglobal.com/articles/26527/vice-city-in-your-hands-rockstar-unveils-gta-6-collectors-edition",
+    "https://www.invenglobal.com/articles/26524/riot-games-tft-hosts-air-force-cup",
+    "https://www.invenglobal.com/articles/26523/line-games-starts-steam-playtest-for-code-exit",
+    "https://www.invenglobal.com/articles/26526/honkai-star-rail-collaborates-with-mega-mgc-coffee",
+    "https://www.invenglobal.com/articles/26522/kuya-restaurant-partners-with-sungkyunkwan-university-festival"
   ],
   "title_hashes": [
-    "d102ad41d6d941a4817cdfa9746071a1",
-    "2a3a2f14a39504931e687f5f3d7755ce",
-    "57e1ee5dc586d75c737a6310d195cdbf",
-    "b48b13e73a6ac2a86dc54425dd24d9ff",
-    "39d23c143bec5068343519674ec69fe7",
-    "38b12fe2f22f2ba64acecd82b2741e65",
     "911a9890cafe42f1ed1b2e7c7d0d133c",
     "a30c19fe2306b026c69a422c1fa6ea59",
     "76244b40a247ab52018209ee3460b7ae",
@@ -16001,7 +15995,13 @@
     "79fe0911bdd034f15085debdc885701c",
     "0bc36d09e6c8f4a6aeae4557526f8c65",
     "b76471c5545f9a1612db60bf6805076f",
-    "c8dfc2cbd43ae4b3f815e79984c141ad"
+    "c8dfc2cbd43ae4b3f815e79984c141ad",
+    "f237402ab4e96b81d840c102e95ce7d3",
+    "4bde07eb9e03da00ab91d3b0a1f3ff1a",
+    "27f69fa6b5c526ba4e625a00808eec50",
+    "6cac835a3c37720ee2ca46f6bb8d7e48",
+    "f1c2363eef80431e3e5baab4e420175a",
+    "e89c20eec788f27aa478d661497a28ba"
   ],
   "transfers": {
     "pages": {
@@ -20928,6 +20928,26 @@
     {
       "t": "asian being brief carries esports exits far games kespaesports lost news removed though what",
       "ts": 1790581225.689096
+    },
+    {
+      "t": "000 530 6th anniversary created creates forest genshin hangang hoyoverse impact korea koreato mark open opened park participants rpg seoul through world yanghwa",
+      "ts": 1790581230.9372296
+    },
+    {
+      "t": "28th 6 auto city collection collector edition games gamesrockstar goodtime grand gta hands has listed revealed rockstar state store theft unveils vice your",
+      "ts": 1790581234.359457
+    },
+    {
+      "t": "active air cup duty force game games gamesriot hereinafter hosting hosts kore partnership republic riot soldiers strategy tactics teamfight tft",
+      "ts": 1790581237.7794743
+    },
+    {
+      "t": "15 18 between coffee collaborates collaboration honkai hoyoverse korea koreahoyoverse mega mgc november october rail run star will",
+      "ts": 1790581241.1689084
+    },
+    {
+      "t": "1 2 between collaboration content eskara festival hold kuya marketing netmarble netmarblemnb october official partners restaurant subsidiary sungkyunkwan university will",
+      "ts": 1790581244.612882
     }
   ]
 }
