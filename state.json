@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/05/03/extron-adds-esports-systems-design-guide-for-av-professionals/",
-    "https://thebusinessofesports.com/2022/05/03/animoca-brands-acquires-70-stake-of-darewise/",
-    "https://thebusinessofesports.com/2022/05/03/newegg-shows-off-new-gaming-pcs-and-giant-robot-costume-at-pax-east-2022/",
-    "https://thebusinessofesports.com/2022/05/03/global-mobile-gaming-market-to-register-a-cagr-of-11-2-from-2021-to-2026/",
-    "https://thebusinessofesports.com/2022/05/03/sony-and-nintendo-update-gaming-subscription-auto-renewals-following-investigation/",
-    "https://thebusinessofesports.com/2022/05/03/framework-ventures-secures-400m-for-venture-capital-fund/",
     "https://thebusinessofesports.com/2022/05/03/us-government-says-axie-infinity-heist-was-pulled-off-by-north-korea/",
     "https://thebusinessofesports.com/2022/05/03/100-thieves-introduces-new-members-of-its-valorant-team%ef%bf%bc/",
     "https://thebusinessofesports.com/2022/05/03/audiomob-partners-with-take-two-studio-socialpoint/",
@@ -7999,14 +7993,15 @@
     "https://esportsinsider.com/2026/09/chinese-teams-champions-shanghai",
     "https://dotesports.com/gow/news/all-god-of-war-laufey-editions-and-pre-order-bonuses",
     "https://dotesports.com/general/news/witcher-3-remastered-lighting-combat-mods",
-    "https://dotesports.com/general/news/netease-ecc-redline-mmo-trademark"
+    "https://dotesports.com/general/news/netease-ecc-redline-mmo-trademark",
+    "https://dotesports.com/valorant/news/vct-champions-shanghai-mouse-issues-fixed",
+    "https://dotesports.com/ea-sports-fc/guides/ea-fc-27-lite-pc-xbox-ps5",
+    "https://www.hltv.org/news/45589/cybershoke-sign-yiksrezo",
+    "https://www.hltv.org/news/45587/short-news-week-39",
+    "https://www.hltv.org/news/45586/liquid-claim-ibp-masters-title-over-wildcard",
+    "https://www.hltv.org/news/45585/malek-passes-away-aged-35"
   ],
   "title_hashes": [
-    "634c061c2574c89a7be030c0f83e31a0",
-    "324600dba59a38f608a8c6bc4d8d8f0d",
-    "aa1f627e31c56c12f972cf2da59bdfdb",
-    "605f30d7c0bb98cb85208fc5caecad4b",
-    "0347d2897ee885a940ac6f79b93eb4a8",
     "cb98d1099aa7e48be35ba15282b643b7",
     "7fc56ff1bed256899ae7d45bac5d5058",
     "dba23bf2f4d3610cd108d9b9a6c6aa66",
@@ -16001,7 +15996,12 @@
     "d13b8318817b2a4b642528b62baa4889",
     "729ac7546db759126a2c8fe474dc8c22",
     "edd9f53b63808ad420fa392393dd87b2",
-    "9377dc6d9401b2fc23b37f3269dd0d26"
+    "9377dc6d9401b2fc23b37f3269dd0d26",
+    "37ec6de67fa8497d2bd65d5a1b663221",
+    "1eb22903e7b4f6d725065f41e66e00d8",
+    "474bec08cf912ec10fdbae39000fd470",
+    "c646b025b9180b0f64b316eccd6c6cd6",
+    "2088b49232da8b90731650844a5fb5ac"
   ],
   "transfers": {
     "pages": {
@@ -20936,6 +20936,26 @@
     {
       "t": "ecc files mmo mmorpg netease new points possibly prolific publisher redline that trademark",
       "ts": 1790611201.9178152
+    },
+    {
+      "t": "after champions desks input issues more mouse rebuild riot shanghai tracing valorant",
+      "ts": 1790611208.1497173
+    },
+    {
+      "t": "27 before buying free how lite out play ps5 test xbox yourself",
+      "ts": 1790611211.871614
+    },
+    {
+      "t": "after changes continues cybershoke months multiple recent revamp sign yiksrezo",
+      "ts": 1790611215.433025
+    },
+    {
+      "t": "campaign claim dropping emphatic ibp liquid map masters over saw secure title trophy wildcard without",
+      "ts": 1790611218.896875
+    },
+    {
+      "t": "35 aged away content creator death former french has malek passes player scene shocked",
+      "ts": 1790611222.3938508
     }
   ]
 }
