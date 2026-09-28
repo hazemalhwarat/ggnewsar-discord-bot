@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/04/28/ludwig-launches-fortnite-tournament-series/",
-    "https://thebusinessofesports.com/2022/04/28/coca-cola-comes-to-the-metaverse/",
-    "https://thebusinessofesports.com/2022/04/28/sega-talks-super-game-initiative-producer-says-it-is-a-natural-extension-for-future-games-to-include-cloud-gaming-and-nfts/",
-    "https://thebusinessofesports.com/2022/04/28/gaming-companies-and-industry-leaders-have-raised-almost-200m-for-ukraine/",
-    "https://thebusinessofesports.com/2022/04/28/idris-elba-states-that-he-is-one-hundred-percent-a-gamer/",
-    "https://thebusinessofesports.com/2022/04/28/coca-cola-forms-multi-year-partnership-with-riot-games/",
-    "https://thebusinessofesports.com/2022/04/28/ab-inbev-forms-partnership-with-ddb-ftw-to-bring-sign-language-chat-to-deaf-gamers/",
     "https://thebusinessofesports.com/2022/04/28/ali-a-to-host-youtubes-competition-show-to-find-the-next-big-gaming-creator-with-100000-grand-prize/",
     "https://thebusinessofesports.com/2022/04/28/unknown-worlds-has-a-new-subnautica-game-in-development/",
     "https://thebusinessofesports.com/2022/04/28/chemin-esports-agrees-to-collaboration-with-rooter/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/26550/wuthering-waves-concert-tour-heads-to-los-angeles-for-first-us-show",
     "https://www.hltv.org/news/45592/adamb-i-see-this-team-as-a-top-10-team-soon-i-have-no-doubts-about-that",
     "https://www.hltv.org/news/45591/nip-claim-first-title-with-krimbo-at-1win-private-club-s1",
-    "https://www.hltv.org/news/45590/bcgame-to-debut-with-asap-at-rog-journey"
+    "https://www.hltv.org/news/45590/bcgame-to-debut-with-asap-at-rog-journey",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-september-29-1206/",
+    "https://insider-gaming.com/nhl-27-update-2-boarding-charging-penalties/",
+    "https://insider-gaming.com/nhl-27-patch-notes/",
+    "https://insider-gaming.com/first-ever-lol-wsci-finals-will-crown-a-french-or-korean-champion/",
+    "https://insider-gaming.com/wolverine-boots-pc-ps5-emulation/",
+    "https://insider-gaming.com/lec-support-stend-announces-shock-retirement/",
+    "https://insider-gaming.com/embark-explains-why-it-removed-raider-decks-from-arc-raiders/"
   ],
   "title_hashes": [
-    "45abecedbe20075a3996177d4f5c0e91",
-    "c8b1b7a8191f743b984c5ab5765db99c",
-    "ebb283a32a1dfac206d43affa69d64be",
-    "6ff057944da46519fbc7f2365e577efe",
-    "eea840bc84c58a33380870a04142ad9c",
-    "fee1e75c960a55f1600c840c495b0211",
-    "6d5d7369b7781b4322af92faff5a6438",
     "3f17c3d81524c8710a1f6cefd112039a",
     "4bef9e48b25e174e1364fe315c691acb",
     "1c3ae25b3b112a36e4fd79d5669d24e6",
@@ -16001,7 +15994,14 @@
     "08b2daf8aeca92376f4d76eeabb92c32",
     "53ddae925767d3c05a84dc8d42c882e7",
     "45e86cec8c167effda2275af969cdf31",
-    "c26d9f32b1c0111d963e6bbc0b050273"
+    "c26d9f32b1c0111d963e6bbc0b050273",
+    "03b193f47c4db54d283499dd458a6882",
+    "deb3f7ea7db06a13ad89f2e1f60b23e5",
+    "20f3105861203b1bc432541e06c46c7e",
+    "5fb49cb1c8ec8d0eb92a8e1c5973d4a5",
+    "0c9ad93fe92dd6bbe140145d90f458d9",
+    "645c69ff18e653b17b9906322c7655ad",
+    "0065d552057bb40e9816660d7c14f295"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "asap attend company debut game headline journey lan names one rog s1mple set swedish",
       "ts": 1790631385.564004
+    },
+    {
+      "t": "2 27 addressing board boarding changes charging connected franchise gameplay hut issues list long makes nhl penalties post presentation title tweaks update while",
+      "ts": 1790631391.3432233
+    },
+    {
+      "t": "champion championship crown ever finals first french its korean lol post semi teams tier two will world wsci",
+      "ts": 1790631394.7333589
+    },
+    {
+      "t": "appeared booting boots developers emulation exclusive first gotten have launch less marvel now post ps5 since than thanks two weeks wolverine",
+      "ts": 1790631398.154476
+    },
+    {
+      "t": "after announces announcing appeared esports first following has his just lec lol looking post retired retirement shifters shock stend stint support teams week",
+      "ts": 1790631401.682238
+    },
+    {
+      "t": "appeared arc decks embark explains frozen has passes post raider raiders removed replacing revealed reward studios trail update why",
+      "ts": 1790631405.0918834
     }
   ]
 }
