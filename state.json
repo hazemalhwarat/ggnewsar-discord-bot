@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/05/06/efuse-forms-partnership-with-fandom-will-collaborate-for-upcoming-collegiate-esports-events/",
-    "https://thebusinessofesports.com/2022/05/06/gaming-monitors-market-is-predicted-to-expand-rapidly-throughout-the-decade/",
-    "https://thebusinessofesports.com/2022/05/06/team-liquid-secures-35m-growth-round-led-by-ares-management/",
-    "https://thebusinessofesports.com/2022/05/06/uso-opens-video-gaming-center-on-eglin-air-force-base-in-florida/",
-    "https://thebusinessofesports.com/2022/05/06/riot-games-brazil-and-santander-agree-to-five-year-partnership/",
     "https://thebusinessofesports.com/2022/05/06/sony-looking-to-hire-a-senior-director-for-pc-planning-and-strategy/",
     "https://thebusinessofesports.com/2022/05/06/a-quarterback-for-the-green-bay-packers-has-joined-spacestation-gaming/",
     "https://thebusinessofesports.com/2022/05/06/creative-artists-agency-brings-on-twitch-streamer-edwin-castro/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26543/to-succeed-in-japan-korean-games-need-a-clear-target-happinet-on-how-to-tackle-the-japanese-console-market",
     "https://www.invenglobal.com/articles/26541/pubg-mobile-keeps-medal-hopes-alive-nobody-has-given-up",
     "https://www.invenglobal.com/articles/26542/ace-combat-8-takes-flight-first-week-of-october-features-new-releases-cbts-and-hoyoland",
-    "https://www.invenglobal.com/articles/26540/south-koreas-pubg-mobile-rebounds-late-to-revive-medal-hopes"
+    "https://www.invenglobal.com/articles/26540/south-koreas-pubg-mobile-rebounds-late-to-revive-medal-hopes",
+    "https://www.invenglobal.com/articles/26539/3rd-1st-anniversary-boost-trickcal-ranks-7th-in-korea-and-3rd-in-japan-on-google-play-revenue",
+    "https://www.invenglobal.com/articles/26538/soop-to-host-week-2-of-asl-season-22-quarterfinals",
+    "https://www.invenglobal.com/articles/26536/arc-raiders-to-launch-frozen-trail-update-on-october-8",
+    "https://www.invenglobal.com/articles/26537/2026-korea-game-awards-to-be-held-in-busan-on-november-18",
+    "https://www.invenglobal.com/articles/26535/dokkaebi-ui-segye-1st-and-2nd-character-name-reservations-close-early"
   ],
   "title_hashes": [
-    "254d3c6f300ab9bd00ba75e00926d463",
-    "221ab28a335051e67a3e75da6a9a41ad",
-    "4890e8a227efc2e2346da3ab2b8785bf",
-    "38971c460b636a3cdf7b9ba69c7ddf49",
-    "2181843e07f1b7d0d4ac5913d8ba02c2",
     "49766b2f5fd2a1b106f5a4f3eab4db76",
     "b665bf2970dd7608ddba96891ef82faa",
     "2269f82c9dd12096a78802ced3e66aaf",
@@ -16001,7 +15996,12 @@
     "579f9236104f2e1406fa9f6d6cd38aa4",
     "af777bcf7747b20a0a55ee9dd9dc0bac",
     "b6b925888ab0cb7b8007693865ecbdc9",
-    "a828a24d26d1512f144a206800fa77d2"
+    "a828a24d26d1512f144a206800fa77d2",
+    "05fc580a58317c5233d085a2a8767f68",
+    "ba0d0b2f2b8ea035524435d1a305a4c3",
+    "a93f86e4742e6931fa6602440fdb040c",
+    "1cb31c8d78120a1dfda0141b11490957",
+    "32b9e522b69b9dbe5b2ea60e60f9da56"
   ],
   "transfers": {
     "pages": {
@@ -20888,6 +20888,26 @@
     {
       "t": "1 6th back bounced day final finals halfway hopes inventhe korea korean late mark match medal mobile national overall place pubg reaching rebounds revive south team",
       "ts": 1790581187.4558828
+    },
+    {
+      "t": "1st 3rd 7th anniversary boost collector domestic epid games gamesdriven google hero its japan korea place play ranks reached revenue revive rpg trickcal update",
+      "ts": 1790581193.0059402
+    },
+    {
+      "t": "00 2 22 28 29 3 4 7 asl daechi freecup google host matches play quarterfinals season september soop soopsoop studio week will",
+      "ts": 1790581196.4409347
+    },
+    {
+      "t": "8 adventure arc extraction frozen game largest launch nexonnexon october pvpve raiders trail update will year",
+      "ts": 1790581199.9138157
+    },
+    {
+      "t": "18 2026 annual associationthe awards busan celebrating event game gaming held industry korea november south will wrapping",
+      "ts": 1790581203.4265175
+    },
+    {
+      "t": "1 1st 2 2nd 5 5d approximately character close closed corp dokkaebi early games gameskakao hour hours its kakao mmorpg name new reservations respectively rounds segye",
+      "ts": 1790581206.8324485
     }
   ]
 }
