@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/05/06/sony-looking-to-hire-a-senior-director-for-pc-planning-and-strategy/",
-    "https://thebusinessofesports.com/2022/05/06/a-quarterback-for-the-green-bay-packers-has-joined-spacestation-gaming/",
-    "https://thebusinessofesports.com/2022/05/06/creative-artists-agency-brings-on-twitch-streamer-edwin-castro/",
-    "https://thebusinessofesports.com/2022/05/06/5x5-gaming-closes-1-7m-seed-funding-round/",
-    "https://thebusinessofesports.com/2022/05/06/loughborough-lions-and-portsmouth-paladins-set-to-fight-for-amazon-ue-master-2022-rocket-league-title/",
-    "https://thebusinessofesports.com/2022/05/06/expect-several-sonic-games-to-be-delisted-soon/",
     "https://thebusinessofesports.com/2022/05/06/moving-image-technologies-and-sndbx-announce-strategic-partnership/",
     "https://thebusinessofesports.com/2022/05/06/global-mobile-gaming-market-will-be-valued-at-151b-in-2026/",
     "https://thebusinessofesports.com/2022/05/06/podcast-225-sam-speaker-gamrpod-esports-furniture-micro-studios-target-customers-and-business-models/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26538/soop-to-host-week-2-of-asl-season-22-quarterfinals",
     "https://www.invenglobal.com/articles/26536/arc-raiders-to-launch-frozen-trail-update-on-october-8",
     "https://www.invenglobal.com/articles/26537/2026-korea-game-awards-to-be-held-in-busan-on-november-18",
-    "https://www.invenglobal.com/articles/26535/dokkaebi-ui-segye-1st-and-2nd-character-name-reservations-close-early"
+    "https://www.invenglobal.com/articles/26535/dokkaebi-ui-segye-1st-and-2nd-character-name-reservations-close-early",
+    "https://www.invenglobal.com/articles/26534/pc-cafe-usage-time-up-294-over-chuseok-holiday",
+    "https://www.invenglobal.com/articles/26533/com2us-platform-to-launch-hive-axyl-on-september-30",
+    "https://www.invenglobal.com/articles/26532/223-billion-nine-spent-in-lindel-3-growth-competition-intensifies-on-sky-island",
+    "https://www.invenglobal.com/articles/26531/reconstructing-events-through-sounds-in-paintings-korean-horror-mystery-michael-test-releases-steam-demo",
+    "https://www.invenglobal.com/articles/26530/riot-games-reveals-new-legends-and-mechanics-for-riftbound-radiance",
+    "https://www.invenglobal.com/articles/26529/esports-exits-the-asian-games-what-is-lost"
   ],
   "title_hashes": [
-    "49766b2f5fd2a1b106f5a4f3eab4db76",
-    "b665bf2970dd7608ddba96891ef82faa",
-    "2269f82c9dd12096a78802ced3e66aaf",
-    "e70449c2ab56704f50206bbf0cb56a9a",
-    "4cf03e6abefce762924161e1b7819a43",
-    "fedb89832d8c9909a368771c45683dec",
     "d102ad41d6d941a4817cdfa9746071a1",
     "2a3a2f14a39504931e687f5f3d7755ce",
     "57e1ee5dc586d75c737a6310d195cdbf",
@@ -16001,7 +15995,13 @@
     "ba0d0b2f2b8ea035524435d1a305a4c3",
     "a93f86e4742e6931fa6602440fdb040c",
     "1cb31c8d78120a1dfda0141b11490957",
-    "32b9e522b69b9dbe5b2ea60e60f9da56"
+    "32b9e522b69b9dbe5b2ea60e60f9da56",
+    "6b9ef78d7bdaffce8e3e63209b226346",
+    "bdb3aac18c9174191dae84bea941cafd",
+    "79fe0911bdd034f15085debdc885701c",
+    "0bc36d09e6c8f4a6aeae4557526f8c65",
+    "b76471c5545f9a1612db60bf6805076f",
+    "c8dfc2cbd43ae4b3f815e79984c141ad"
   ],
   "transfers": {
     "pages": {
@@ -20908,6 +20908,26 @@
     {
       "t": "1 1st 2 2nd 5 5d approximately character close closed corp dokkaebi early games gameskakao hour hours its kakao mmorpg name new reservations respectively rounds segye",
       "ts": 1790581206.8324485
+    },
+    {
+      "t": "2026 29 4 cafe chuseok fourth game holiday its log nmedia over platformpc released report september service statistics time usage week weekly",
+      "ts": 1790581211.9342637
+    },
+    {
+      "t": "30 axyl backend com2us development event game generation held hive introduced its japan launch next platform platformcom2us september tokyo",
+      "ts": 1790581215.3506978
+    },
+    {
+      "t": "22 3 again billion competition consume each enchant flares godhood gods growth host intensifies island its last lindel nine ranked rose selection server seventh sky sol spent third this top week weekend which will",
+      "ts": 1790581218.7474303
+    },
+    {
+      "t": "currently demo developer development events fancysquare fancysquarekorean free game has horror its korean michael mystery paintings reconstructing released releases solo sounds steam test through",
+      "ts": 1790581222.1941335
+    },
+    {
+      "t": "asian being brief carries esports exits far games kespaesports lost news removed though what",
+      "ts": 1790581225.689096
     }
   ]
 }
