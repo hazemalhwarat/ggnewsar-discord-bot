@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/05/04/playstation-is-also-exploring-putting-ads-in-video-games/",
-    "https://thebusinessofesports.com/2022/05/04/registration-for-predator-sim-racing-cup-2022-is-now-open/",
-    "https://thebusinessofesports.com/2022/05/04/overactive-media-announces-q4-2021-and-full-year-financial-results/",
-    "https://thebusinessofesports.com/2022/05/04/esports-players-league-partners-with-yield-guild-games-for-crypto-nft-gaming/",
-    "https://thebusinessofesports.com/2022/05/04/javier-chicharito-hernandez-becomes-first-soccer-player-to-join-complexity-stars/",
-    "https://thebusinessofesports.com/2022/05/04/famous-football-clubs-and-their-esports-teams-2/",
-    "https://thebusinessofesports.com/2022/05/04/karmine-corp-looking-to-expand-into-valorant/",
     "https://thebusinessofesports.com/2022/05/03/react-gaming-group-rebrands-hypex-gg-to-compete-gg/",
     "https://thebusinessofesports.com/2022/05/03/the-esports-gaming-agency-partners-with-acer-to-launch-it-lies-within-predator-gaming-campaign/",
     "https://thebusinessofesports.com/2022/05/03/zebedee-and-fumb-gaming-reveal-online-bitcoin-mining-simulator/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/26548/new-team-tournament-pok%C3%A9mon-team-masters-to-be-held-in-korea-for-first-time-in-2027",
     "https://www.invenglobal.com/articles/26547/park-sang-hyeon-jjapjaedong-defeats-jaedong-3-1-to-advance-to-semifinals",
     "https://www.invenglobal.com/articles/26546/hands-on-with-the-witcher-3-remastered-perfect-preparation-for-the-new-expansion",
-    "https://www.invenglobal.com/articles/26545/smilegates-kwon-hyuk-bin-appeals-divorce-ruling-saying-he-wants-to-preserve-his-family"
+    "https://www.invenglobal.com/articles/26545/smilegates-kwon-hyuk-bin-appeals-divorce-ruling-saying-he-wants-to-preserve-his-family",
+    "https://www.invenglobal.com/articles/26539/3rd-1st-anniversary-boost-trickcal-ranks-7th-in-korea-and-5th-in-japan-on-google-play-revenue",
+    "https://www.invenglobal.com/articles/26531/reconstructing-incidents-through-sounds-in-paintings-korean-horror-mystery-michael-test-releases-steam-demo",
+    "https://www.invenglobal.com/articles/26525/colorful-launches-g114-140w-gan-charger",
+    "https://www.invenglobal.com/articles/26521/unity-adds-support-for-meta-vr-glasses-development-environment",
+    "https://www.invenglobal.com/articles/26520/crimson-desert-enhanced-nominated-for-two-golden-joystick-awards",
+    "https://www.invenglobal.com/articles/26517/logitech-launches-new-g304-and-g316-products-in-korea",
+    "https://www.invenglobal.com/articles/26518/steelseries-releases-25th-anniversary-limited-edition-keyboards"
   ],
   "title_hashes": [
-    "f0abd4d0c02698f035e882300eb4603a",
-    "7a647b1f7372c73b01f82671b9313a51",
-    "f9ffa13604de3efca77715580179bc8f",
-    "00b005f0802345fcb3493e94f7aa5820",
-    "3538aa21053149187168faa5c6d39533",
-    "17322d0e3fc480e401b0ba618cfcbb11",
-    "572868bb184bce318caeef5c1ba14896",
     "37c059e923563b7d4fb8bbf4d4c0b0d9",
     "13a165f1a23e5316196018fdd9c7c31d",
     "205eca83b5875e06f79d2bd1416c0524",
@@ -16001,7 +15994,14 @@
     "24dd0375bf3935fdd72901e43058317a",
     "004464bc1b8201379dcef28556a3ab0d",
     "f0f2655bc107c8bbc82e4965216024e8",
-    "0652b61058c11f3b20703dd14f616d72"
+    "0652b61058c11f3b20703dd14f616d72",
+    "a88cf83a4b0d8ff2c0cedb4ba026d768",
+    "e8730aca15e7d128e21e8766b9440829",
+    "417c4c88c477e44ff5c05808173be646",
+    "99a70a8ec1de5dde60e25dece22f434d",
+    "8408255aca106ef8881d7b6e229dddc2",
+    "8ce1d4d58682974856244b2debecbeed",
+    "924c0156104c8e9bc35a442928879cc6"
   ],
   "transfers": {
     "pages": {
@@ -20896,6 +20896,26 @@
     {
       "t": "28th accept after appeal appeals bin chief court cvo division divorce family filed first his hyuk instance issued kwon officer preserve property refusing ruling saying seoul smilegate vision wants",
       "ts": 1790611162.5306451
+    },
+    {
+      "t": "140w charger colorful colorfulcolorful company delivery g114 gan guard has hereinafter igame launched launches limited multi port power supporting technology",
+      "ts": 1790611168.3496716
+    },
+    {
+      "t": "adds announced day development device engine environment generation glasses has hereinafter its meta next reveal starting support unity unityunity",
+      "ts": 1790611172.0384617
+    },
+    {
+      "t": "2026 abyss abysspearl action adventure awards been categories crimson desert enhanced game golden has including joystick nominated open pearl two world",
+      "ts": 1790611175.4626076
+    },
+    {
+      "t": "28th color expanding g3 g304 g316 gaming its keyboard korea launched launches layout logitech logitechon mouse new officially options products series",
+      "ts": 1790611178.8528752
+    },
+    {
+      "t": "25th 3 anniversary apex edition gaming gen its keyboards launching limited ltd mark pro releases series steelseries steelseriesto",
+      "ts": 1790611182.6077452
     }
   ]
 }
