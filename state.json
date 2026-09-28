@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/05/06/a-look-at-the-biggest-announcements-at-the-meta-quest-games-showcase/",
-    "https://thebusinessofesports.com/2022/05/06/the-sandbox-is-aiming-to-raise-400m/",
-    "https://thebusinessofesports.com/2022/05/06/league-of-legends-pro-league-to-compete-remotely-at-the-mid-season-invitational-2022/",
-    "https://thebusinessofesports.com/2022/05/06/contango-digital-forms-partnership-with-nakamoto-games/",
-    "https://thebusinessofesports.com/2022/05/06/south-african-sim-racer-jordan-sherratt-signs-to-first-lamborghini-esports-team/",
     "https://thebusinessofesports.com/2022/05/06/check-out-this-prime-gaming-bundle-featuring-valkyrie/",
     "https://thebusinessofesports.com/2022/05/06/cd-projekt-considering-menstrual-leave-after-gog-introduces-new-policy/",
     "https://thebusinessofesports.com/2022/05/06/expanse-studios-leaves-ice-london-a-winner/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26524/riot-games-tft-hosts-air-force-cup",
     "https://www.invenglobal.com/articles/26523/line-games-starts-steam-playtest-for-code-exit",
     "https://www.invenglobal.com/articles/26526/honkai-star-rail-collaborates-with-mega-mgc-coffee",
-    "https://www.invenglobal.com/articles/26522/kuya-restaurant-partners-with-sungkyunkwan-university-festival"
+    "https://www.invenglobal.com/articles/26522/kuya-restaurant-partners-with-sungkyunkwan-university-festival",
+    "https://www.vlr.gg/761849/qck-leaves-2game-esports-after-one-year",
+    "https://www.vlr.gg/761845/mibr-allows-tex-to-explore-options",
+    "https://dotesports.com/indies/guides/self-pitch-indie-games-coop-cozy-fall-2026",
+    "https://dotesports.com/valorant/news/vct-americas-teams-perfect-champions-shanghai-start",
+    "https://dotesports.com/call-of-duty/news/mw4-warzone-legacy-camos-carry-forward-reversed"
   ],
   "title_hashes": [
-    "911a9890cafe42f1ed1b2e7c7d0d133c",
-    "a30c19fe2306b026c69a422c1fa6ea59",
-    "76244b40a247ab52018209ee3460b7ae",
-    "fd91aedeaff88b6bee9c515197af06c2",
-    "a9ed57cf0136ef99d0d4a0a385f5810e",
     "2160b38365306b0d62b18bbaa01bf8d7",
     "80d87c5570dbdb6bc73191ebe5eb57c4",
     "e7cabe22f247bc79813bd1dc64771fae",
@@ -16001,7 +15996,12 @@
     "27f69fa6b5c526ba4e625a00808eec50",
     "6cac835a3c37720ee2ca46f6bb8d7e48",
     "f1c2363eef80431e3e5baab4e420175a",
-    "e89c20eec788f27aa478d661497a28ba"
+    "e89c20eec788f27aa478d661497a28ba",
+    "0ad181bc2c13bd72a4bbef022687de11",
+    "45d749904b8b51d1c3fa80909fe37f44",
+    "8a1dab002996d26b409d2a06520218a1",
+    "fc72138b82f284b80521a1ccb173de9f",
+    "a036b192e4127471034587b077f5e141"
   ],
   "transfers": {
     "pages": {
@@ -20948,6 +20948,26 @@
     {
       "t": "1 2 between collaboration content eskara festival hold kuya marketing netmarble netmarblemnb october official partners restaurant subsidiary sungkyunkwan university will",
       "ts": 1790581244.612882
+    },
+    {
+      "t": "2g 2game after esports leaves leaving one qck year",
+      "ts": 1790581249.6961935
+    },
+    {
+      "t": "after allows brazilian explore going mibr one options outfit separate tex their ways year",
+      "ts": 1790581253.1599736
+    },
+    {
+      "t": "6 back best fall friends games indie laid play relax these this",
+      "ts": 1790581256.6045659
+    },
+    {
+      "t": "americas begin champions dominating losing map opening shanghai teams vct without",
+      "ts": 1790581260.0674553
+    },
+    {
+      "t": "4 activision camos carry cod forward happy into legacy many modern not obviously plan players reverses warfare warzone",
+      "ts": 1790581263.5173452
     }
   ]
 }
