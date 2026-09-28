@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/05/03/react-gaming-group-rebrands-hypex-gg-to-compete-gg/",
-    "https://thebusinessofesports.com/2022/05/03/the-esports-gaming-agency-partners-with-acer-to-launch-it-lies-within-predator-gaming-campaign/",
-    "https://thebusinessofesports.com/2022/05/03/zebedee-and-fumb-gaming-reveal-online-bitcoin-mining-simulator/",
-    "https://thebusinessofesports.com/2022/05/03/glorious-pc-gaming-race-unveils-the-model-i-gaming-mouse/",
-    "https://thebusinessofesports.com/2022/05/03/league-of-legends-added-to-tinder-as-a-passion/",
-    "https://thebusinessofesports.com/2022/05/03/telus-esports-series-returns-for-its-second-tournament/",
     "https://thebusinessofesports.com/2022/05/03/extron-adds-esports-systems-design-guide-for-av-professionals/",
     "https://thebusinessofesports.com/2022/05/03/animoca-brands-acquires-70-stake-of-darewise/",
     "https://thebusinessofesports.com/2022/05/03/newegg-shows-off-new-gaming-pcs-and-giant-robot-costume-at-pax-east-2022/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26521/unity-adds-support-for-meta-vr-glasses-development-environment",
     "https://www.invenglobal.com/articles/26520/crimson-desert-enhanced-nominated-for-two-golden-joystick-awards",
     "https://www.invenglobal.com/articles/26517/logitech-launches-new-g304-and-g316-products-in-korea",
-    "https://www.invenglobal.com/articles/26518/steelseries-releases-25th-anniversary-limited-edition-keyboards"
+    "https://www.invenglobal.com/articles/26518/steelseries-releases-25th-anniversary-limited-edition-keyboards",
+    "https://www.invenglobal.com/articles/26519/hanok-from-thatch-to-palace-launches-on-steam-sept-29",
+    "https://www.invenglobal.com/articles/26516/spider-man-director-jon-watts-to-direct-next-star-wars-movie",
+    "https://esportsinsider.com/2026/09/chinese-teams-champions-shanghai",
+    "https://dotesports.com/gow/news/all-god-of-war-laufey-editions-and-pre-order-bonuses",
+    "https://dotesports.com/general/news/witcher-3-remastered-lighting-combat-mods",
+    "https://dotesports.com/general/news/netease-ecc-redline-mmo-trademark"
   ],
   "title_hashes": [
-    "37c059e923563b7d4fb8bbf4d4c0b0d9",
-    "13a165f1a23e5316196018fdd9c7c31d",
-    "205eca83b5875e06f79d2bd1416c0524",
-    "3bab70ef158943c383cbcfcd5bef3bde",
-    "c2aad2239c3951c59335504daa566816",
-    "3ff7d3ebd4d72f538cd4e52ccd3efdfc",
     "634c061c2574c89a7be030c0f83e31a0",
     "324600dba59a38f608a8c6bc4d8d8f0d",
     "aa1f627e31c56c12f972cf2da59bdfdb",
@@ -16001,7 +15995,13 @@
     "99a70a8ec1de5dde60e25dece22f434d",
     "8408255aca106ef8881d7b6e229dddc2",
     "8ce1d4d58682974856244b2debecbeed",
-    "924c0156104c8e9bc35a442928879cc6"
+    "924c0156104c8e9bc35a442928879cc6",
+    "ab62e9ecb4fa4faa613ca42806293e50",
+    "8e11a601371ae4b89b74bf35b94e209a",
+    "d13b8318817b2a4b642528b62baa4889",
+    "729ac7546db759126a2c8fe474dc8c22",
+    "edd9f53b63808ad420fa392393dd87b2",
+    "9377dc6d9401b2fc23b37f3269dd0d26"
   ],
   "transfers": {
     "pages": {
@@ -20916,6 +20916,26 @@
     {
       "t": "25th 3 anniversary apex edition gaming gen its keyboards launching limited ltd mark pro releases series steelseries steelseriesto",
       "ts": 1790611182.6077452
+    },
+    {
+      "t": "29 building developed game hanok its launches officially palace release sept solo steam thatch watsiwatsi will",
+      "ts": 1790611188.0858998
+    },
+    {
+      "t": "deadline direct directed director film holland hollywood including jon man media movie next outlets repor reporter spider star starring tom trilogy wars watts who will",
+      "ts": 1790611191.537869
+    },
+    {
+      "t": "0 2 all champions chinese crowd faces four home losing opener post round second series shangh shanghai swept teams tense valorant went winless",
+      "ts": 1790611194.95671
+    },
+    {
+      "t": "29 3 ahead camera changes combat hands lighting new off past preview projekt red releases remastered sept shows skill songs tree wider witcher",
+      "ts": 1790611198.3732424
+    },
+    {
+      "t": "ecc files mmo mmorpg netease new points possibly prolific publisher redline that trademark",
+      "ts": 1790611201.9178152
     }
   ]
 }
