@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/04/28/ali-a-to-host-youtubes-competition-show-to-find-the-next-big-gaming-creator-with-100000-grand-prize/",
-    "https://thebusinessofesports.com/2022/04/28/unknown-worlds-has-a-new-subnautica-game-in-development/",
-    "https://thebusinessofesports.com/2022/04/28/chemin-esports-agrees-to-collaboration-with-rooter/",
-    "https://thebusinessofesports.com/2022/04/28/mnm-gaming-fields-academy-roster-to-compete-in-upcoming-northern-premier-league/",
-    "https://thebusinessofesports.com/2022/04/28/sega-gives-update-on-super-game-concept/",
-    "https://thebusinessofesports.com/2022/04/28/digital-insight-games-raises-7-5m-for-blockchain-gaming/",
     "https://thebusinessofesports.com/2022/04/28/riot-makes-changes-to-covid-19-policies-ahead-of-return-to-work-order/",
     "https://thebusinessofesports.com/2022/04/28/ubisoft-insider-tom-henderson-teases-four-unannounced-games/",
     "https://thebusinessofesports.com/2022/04/28/los-angeles-angels-partner-with-bandai-namco/",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/first-ever-lol-wsci-finals-will-crown-a-french-or-korean-champion/",
     "https://insider-gaming.com/wolverine-boots-pc-ps5-emulation/",
     "https://insider-gaming.com/lec-support-stend-announces-shock-retirement/",
-    "https://insider-gaming.com/embark-explains-why-it-removed-raider-decks-from-arc-raiders/"
+    "https://insider-gaming.com/embark-explains-why-it-removed-raider-decks-from-arc-raiders/",
+    "https://esportsinsider.com/2026/09/valorant-champions-shanghai-americas-sweeps",
+    "https://dotesports.com/call-of-duty/news/cod-modern-warfare-4-ttk-aim-assist-changes",
+    "https://dotesports.com/general/news/discord-wumpus-torture-art-age-restriction-protest",
+    "https://dotesports.com/general/guides/control-resonant-achievements",
+    "https://gameriv.com/arc-raiders-reward-passes-explained-free-and-premium-rewards-price-and-legacy-pass/",
+    "https://www.vlr.gg/762001/koalanoob-and-c0m-enter-restricted-free-agency"
   ],
   "title_hashes": [
-    "3f17c3d81524c8710a1f6cefd112039a",
-    "4bef9e48b25e174e1364fe315c691acb",
-    "1c3ae25b3b112a36e4fd79d5669d24e6",
-    "04145f5891171a183c6c7ee9bbb2b101",
-    "9aa0ae972ec6f944db245513578927bf",
-    "6599af17c5e1ed3f56d89de41da3338e",
     "461facd3cc3ae5415db077dabeaa6649",
     "ae5682974ce0abbebb81eca0a6dbfe80",
     "8b6fa03875ff8c43db81519eaf7ec943",
@@ -16001,7 +15995,13 @@
     "5fb49cb1c8ec8d0eb92a8e1c5973d4a5",
     "0c9ad93fe92dd6bbe140145d90f458d9",
     "645c69ff18e653b17b9906322c7655ad",
-    "0065d552057bb40e9816660d7c14f295"
+    "0065d552057bb40e9816660d7c14f295",
+    "21f72474d7aeb8c15029ec218e6701a0",
+    "9ee5481e67f5051492534c7a6d2a0000",
+    "806997df7a065654cdd7e4a1bd37a102",
+    "21c9e90c0cc9e58f55830780c58fca94",
+    "af1d5fd6be2d8ac12585405557f0a4ed",
+    "cc4acc6d27685af78474ed08a8d1396e"
   ],
   "transfers": {
     "pages": {
@@ -21184,6 +21184,26 @@
     {
       "t": "appeared arc decks embark explains frozen has passes post raider raiders removed replacing revealed reward studios trail update why",
       "ts": 1790631405.0918834
+    },
+    {
+      "t": "0 100 2 americas berth champions direct every four g2 loud move nrg one playoffs post putting sees shanghai team teams thieves valorant victory win",
+      "ts": 1790631410.5535696
+    },
+    {
+      "t": "4 after aim assist beta changes cod confirms details feedback infinity modern movement smg ttk ward warfare",
+      "ts": 1790631414.3012016
+    },
+    {
+      "t": "age been character comfort days discord following gore has internet mascot new policy that torturing wumpus",
+      "ts": 1790631418.158027
+    },
+    {
+      "t": "8 arc changing decks equipment evolves explained free frozen how introducing legacy new october outfits pass passes players premium price progression raider raiders reward rewards system tokens trail unlock update",
+      "ts": 1790631421.5561852
+    },
+    {
+      "t": "2027 agency ahead allowed c0m enter explore free furia have koalanoob options restricted season their vct",
+      "ts": 1790631425.002099
     }
   ]
 }
