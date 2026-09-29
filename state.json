@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/02/18/bully-2-could-still-happen-according-to-insider/",
-    "https://thebusinessofesports.com/2022/02/18/hedera-hashgraph-partners-with-ubisoft-eyes-next%e2%80%91generation-gaming/",
-    "https://thebusinessofesports.com/2022/02/17/sony-leading-the-big-three-in-gaming-revenue/",
-    "https://thebusinessofesports.com/2022/02/17/metaverse-mortgages-are-being-issued-to-buy-virtual-land/",
-    "https://thebusinessofesports.com/2022/02/17/microsoft-ceo-compares-the-metaverse-to-games/",
-    "https://thebusinessofesports.com/2022/02/17/a-female-esports-athlete-has-joined-the-ljl-for-the-first-time/",
-    "https://thebusinessofesports.com/2022/02/17/blast-premier-signs-thirty-five-broadcast-deals-as-part-of-continued-esports-expansion/",
     "https://thebusinessofesports.com/2022/02/17/activision-blizzard-releases-2021-financial-results/",
     "https://thebusinessofesports.com/2022/02/17/konami-sees-increase-in-profits-and-revenues-through-december-of-2021/",
     "https://thebusinessofesports.com/2022/02/17/art-book-suggests-at-september-release-for-hogwarts-legacy/",
@@ -7999,16 +7992,16 @@
     "https://insider-gaming.com/playstation-5-console-jailbreak-ps5/",
     "https://insider-gaming.com/modern-warfare-2-players-spot-skate-and-minecraft-mods/",
     "https://insider-gaming.com/esl-pro-league-season-24-katowice-tournament-guide/",
-    "https://insider-gaming.com/konami-new-trademarks/"
+    "https://insider-gaming.com/konami-new-trademarks/",
+    "https://insider-gaming.com/tarkov-devs-promoting-pvp-in-seasons-mode/",
+    "https://insider-gaming.com/all-witcher-3-wild-hunt-remastered-twitch-drop-rewards-how-to-get-them/",
+    "https://insider-gaming.com/how-to-get-free-aurora-cape-in-minecraft-twitch-drops-tiktok-game-rewards/",
+    "https://insider-gaming.com/monster-hunter-outlanders-launch-date/",
+    "https://insider-gaming.com/courtois-nxtplay-invest-astralis-fusion-esports-group/",
+    "https://insider-gaming.com/modern-warfare-4-finally-changes-how-2xp-tokens-work/",
+    "https://www.hltv.org/news/45594/envy-return-to-cs-with-ex-3dmax-roster"
   ],
   "title_hashes": [
-    "a02b58df220c08fda744c409b80daad8",
-    "45b9ce657ecd052cb0411268d6969480",
-    "2292c918c0c7a12f16b5208e2d127bfe",
-    "9a9c384c6bbb7f4206c31c8d8ef46029",
-    "0b7417fa7a5af36a34b59e6704f526c8",
-    "26963f1cbf5f992d66913f056c8e4d24",
-    "5c80e6e01f54713536b3873e8edd6546",
     "586d4b689c778b5b20e0ef30abe65705",
     "72eb687e326614596e6e5d3349b1cb0e",
     "36d8f55b4cccf060ef89c9896f99f899",
@@ -16001,7 +15994,14 @@
     "bba68edd5f56f1eef95748e56d82df47",
     "e91319e7f7d29d98400551a4ba04b0b6",
     "e832c34a0e8be72dae5ac68b2390be73",
-    "6fb0c6b8662aaa27729f23dfb51addc8"
+    "6fb0c6b8662aaa27729f23dfb51addc8",
+    "0e96eaa7c44ee5d99ef4d6815d694a03",
+    "821a44f2b3e6f9971f8695edf0eaef42",
+    "da3679bc28ea1d15239364d12591922d",
+    "86b3ef455da6a4cb88c7f77574229c82",
+    "ae6a23c28d2bacc437434ff57ccb55d2",
+    "85a34f86e8971bdb2a6dfd4b8e26dbef",
+    "a96c7a8b28ceed1be81eca84e7e45b84"
   ],
   "transfers": {
     "pages": {
@@ -21040,6 +21040,26 @@
     {
       "t": "back blade bringing catalog classic could future has ips konami like new old other planned post registered release reveals soldier some suggest trademark which",
       "ts": 1790690717.1506562
+    },
+    {
+      "t": "appeared appears battlestate breach change deeper devs escape games has issued kord mode more platform post promote promoting pvp seasonal seasons tarkov that",
+      "ts": 1790690722.9795382
+    },
+    {
+      "t": "3 all batch been collection cosmetic drop drops featuring get have how hunt post projekt red remastered revealed rewards roach them twitch wild witcher",
+      "ts": 1790690726.414617
+    },
+    {
+      "t": "8217 appea astralis consortium courtois esports firm fusion goalkeeper group has invested investment invests madrid nxtplay ownership post real thibaut",
+      "ts": 1790690729.841355
+    },
+    {
+      "t": "2026 2xp 4 appeared call changes double duty ever finally first getting how insider modern most one post requested tokens warfare work",
+      "ts": 1790690733.274322
+    },
+    {
+      "t": "3dmax after almost american back envy game organization return roster six years",
+      "ts": 1790690736.700633
     }
   ]
 }
