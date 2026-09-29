@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/02/13/astralis-partners-with-telecommunications-company-3/",
-    "https://thebusinessofesports.com/2022/02/13/good-gamer-entertainment-and-fork-gaming-team-up-for-play-to-earn-franchise/",
-    "https://thebusinessofesports.com/2022/02/13/allen-park-catholic-school-plans-to-use-1-3m-gift-for-science-and-esports/",
-    "https://thebusinessofesports.com/2022/02/13/nick-cannon-presents-wild-n-out-forms-partnership-with-super-league-gaming/",
-    "https://thebusinessofesports.com/2022/02/13/business-of-esports-weekly-news-390%ef%bf%bc/",
     "https://thebusinessofesports.com/2022/02/12/team17-announces-and-quickly-cancels-metaworms-nft-plan/",
     "https://thebusinessofesports.com/2022/02/12/pgl-to-host-the-next-csgo-major-in-belgium/",
     "https://thebusinessofesports.com/2022/02/12/hv-gamer-con-to-return-to-albany/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26594/owlcat-games-reveals-new-companion-for-warhammer-40000-dark-heresy",
     "https://www.invenglobal.com/articles/26595/the-witcher-3-remaster-hits-all-time-high-concurrent-steam-players-on-launch-day",
     "https://www.invenglobal.com/articles/26596/slicing-pepperoni-instead-of-locusts-gears-lancer-pizza-cutter-released",
-    "https://www.invenglobal.com/articles/26593/thailand-wins-pubg-mobile-gold-at-the-2026-asian-games"
+    "https://www.invenglobal.com/articles/26593/thailand-wins-pubg-mobile-gold-at-the-2026-asian-games",
+    "https://www.invenglobal.com/articles/26592/built-a-teammate-got-a-chat-partner-kraftons-first-scorecard-for-pubg-ally",
+    "https://www.invenglobal.com/articles/26591/from-cyberpunk-city-to-boss-nivalis-nights-arrives-on-inven-games",
+    "https://www.invenglobal.com/articles/26590/ori-and-the-will-of-the-wisps-a-masterpiece-enjoyed-for-the-price-of-a-cup-of-coffee",
+    "https://www.invenglobal.com/articles/26553/thibaut-courtois-joins-astralis-owner-fusion-esports-group-as-investor",
+    "https://www.hltv.org/news/45595/awayken-sets-cs2-lan-kill-record-in-a-single-map"
   ],
   "title_hashes": [
-    "4c1a4f1a5c186f7abce2e50eb52ea202",
-    "65ddf5bea59df2bcc57608a0f74551d6",
-    "46cf7e0fb0141ed8dd1c24e0a21c06de",
-    "42523569bbbd29d51ae4f217dce6b324",
-    "beed8a6cd26c3de766f7b7c242df33b9",
     "2dcc55e9018264534a4e18bd90e2b840",
     "9c7a08a131f305fae7bb08c7beffec12",
     "14cfaff2fdbbb9b6b8c2c063abe4516e",
@@ -16001,7 +15996,12 @@
     "4bb488d845900292a02f7a31d8930754",
     "45089f3797e97941373a4c86fb22d845",
     "acec851662a98520df39546a9c2558bd",
-    "44bdcfa88832d4e69416660bd8bbbf79"
+    "44bdcfa88832d4e69416660bd8bbbf79",
+    "26a4524da8f5e0ec24643e934bbf4d91",
+    "10b33a62b936d50e5dfdea9ee4a9f4dd",
+    "3516ec4d5dea684a05ee185201faf4e3",
+    "64a9e5d461ce06a238059cb4cc82bee3",
+    "84f6c6a3fa2e50f19e01ff2be84c84b6"
   ],
   "transfers": {
     "pages": {
@@ -21024,6 +21024,26 @@
     {
       "t": "2026 after ahead asian china competition days esports finals finishing games gold has held mobile pakistan part pubg thailand two version wins won",
       "ts": 1790709953.1692514
+    },
+    {
+      "t": "ally arxiv battlegrounds built chat companion detailing development first got has krafton partner preprint process pubg published report repository scorecard teammate technical",
+      "ts": 1790709958.6533978
+    },
+    {
+      "t": "10 127970 128176 128241 128295 23 500 850 arrives boss city cyberpunk developerion games inven keywords krw lands lifesim management nights nivalis platformpc price26 publisher505",
+      "ts": 1790709962.1216433
+    },
+    {
+      "t": "can coffee completed cup enjoyed entirely game korea masterpiece ori price question remains remote south this through unfamiliar video will wisps work",
+      "ts": 1790709966.110275
+    },
+    {
+      "t": "according astralis belgian company counter courtois esports fusion goalkeeper group has invested investor joins national organisation owner parent release strike team thibaut two",
+      "ts": 1790709969.6069007
+    },
+    {
+      "t": "62 awayken bulgarian carry cs2 enough infurity kill lan map not performance record sets sextuple single",
+      "ts": 1790709973.23074
     }
   ]
 }
