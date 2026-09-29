@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/02/09/video-games-are-being-used-to-recruit-drug-smugglers-in-arizona/",
-    "https://thebusinessofesports.com/2022/02/09/geoff-keighley-tweets-that-more-gaming-acquisitions-are-coming-in-2022/",
-    "https://thebusinessofesports.com/2022/02/09/partnership-unveiled-between-kingston-fury-and-g2-esports/",
-    "https://thebusinessofesports.com/2022/02/09/nvidias-cloud-gaming-service-is-now-available-on-lg-tvs/",
-    "https://thebusinessofesports.com/2022/02/09/vr-gaming-studio-alta-closes-12m-seed-round/",
-    "https://thebusinessofesports.com/2022/02/09/teamgroup-unveils-blisteringly-fast-pcie-5-0-ssd/",
     "https://thebusinessofesports.com/2022/02/09/warner-music-group-strikes-deal-to-create-the-first-music-themed-world-in-the-sandbox-gaming-metaverse/",
     "https://thebusinessofesports.com/2022/02/09/netflix-to-add-more-games-through-new-partnership-with-rocketride-games/",
     "https://thebusinessofesports.com/2022/02/09/limited-run-games-is-opening-an-80s-themed-physical-game-store-in-north-carolina/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26600/human-fall-flat-developer-no-brakes-games-launches-vr-puzzler-tiny-flock",
     "https://www.invenglobal.com/articles/26599/true-damage-returns-to-perform-league-of-legends-worlds-2026-anthem",
     "https://www.invenglobal.com/articles/26598/pubg-to-make-us-complexcon-debut-with-mgks-floor-13",
-    "https://insider-gaming.com/all-battlefield-games-in-order-of-release/"
+    "https://insider-gaming.com/all-battlefield-games-in-order-of-release/",
+    "https://insider-gaming.com/xbox-disc-to-digital-upgrade-available/",
+    "https://insider-gaming.com/dying-light-the-beast-players-eliminated-the-world/",
+    "https://insider-gaming.com/every-call-of-duty-game-and-its-release-date/",
+    "https://insider-gaming.com/ready-or-not-spinoff/",
+    "https://insider-gaming.com/007-first-light-free-dlc/",
+    "https://gameriv.com/deadlock-reveals-six-new-heroes-in-city-never-sleeps-update-release-schedule-and-voting-explained/"
   ],
   "title_hashes": [
-    "5173b5092e0afbd3525beaae8701b368",
-    "841dd83f2eb672cfcff8c17fac42e144",
-    "c6468c0738eeef9e5d0b06fff56e343d",
-    "3437f6b14a6d1e7df82ada810cfa291a",
-    "06749d35cf8bfd048b086bad6505264d",
-    "eddcadc831b2e7ef8ebf8539661c36c4",
     "d226b7e4de4f5e1f22b1a795b01896ec",
     "33917bb47c75d14810a6eedd5a486d06",
     "718ee13276957afe4092b7157a4e5968",
@@ -16001,7 +15995,13 @@
     "9f5bb5f63f02d35798b4e66b0111a48a",
     "ac0f8295abb82782e058f2d5162493d3",
     "8e814bbf019c281cf8584f034f7611b7",
-    "b34ce1acb2ba6edfbe09a6da30b30dcb"
+    "b34ce1acb2ba6edfbe09a6da30b30dcb",
+    "8a9768a090fa7befb8aee7cb6117d780",
+    "43dd70ac36657f02868a44bbb0804fd0",
+    "ae92a7249f62bcdc7c7af47b78e5ca73",
+    "7d967c93166b9b0ce8a329a4aef0e15b",
+    "867c947f8cc20018d2f81dff6dbd42de",
+    "7b176bf7f5ae96a0a09293f235da2302"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,26 @@
     {
       "t": "1942 6 all appeared battlefield ever every first game games gaming here insider list order post release released starting way",
       "ts": 1790723171.9336042
+    },
+    {
+      "t": "access all appeared available benefits digital disc don globally has insider its need out post rolled technology upgrade users xbox you",
+      "ts": 1790723177.0195003
+    },
+    {
+      "t": "beast confirmed dying eliminated entire graphic has have how just launch light many new players post since some techland then world zombies",
+      "ts": 1790723180.4082263
+    },
+    {
+      "t": "all appeared call came duty ever first game games gamin insider one order place post release this when which wondered wrapped",
+      "ts": 1790723183.7869403
+    },
+    {
+      "t": "could developer developing driven filed files has interactive narrative new not off post ready spin spinoff suggest that trademark void",
+      "ts": 1790723187.1511517
+    },
+    {
+      "t": "batch carrying city crowned daredevil deadlock explained faces getting glowing has heroes including its never new next nurse part rat release revealed reveals roster schedule six skeletal sleeps syringe update valve voting",
+      "ts": 1790723190.5291276
     }
   ]
 }
