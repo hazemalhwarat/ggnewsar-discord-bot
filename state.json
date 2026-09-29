@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/04/25/training-platform-for-gamers-novos-raises-6m-in-funding/",
-    "https://thebusinessofesports.com/2022/04/25/lamborghini-presents-its-first-ever-esports-team/",
-    "https://thebusinessofesports.com/2022/04/25/xbox-loses-fan-poll-to-skittles/",
-    "https://thebusinessofesports.com/2022/04/25/weekly-news-show-221-niantic-tamagotchi-blizzard-nft-fortnite-coachella-xbox-in-game-ads-apple-mobile-gaming-tencent-shutdowns-amazon-kids-games-cyberpunk-2077-expansion-gamer-shower/",
-    "https://thebusinessofesports.com/2022/04/24/episode-220-video-sentinels-esports-rob-moore-riley-jamison-fortnite-world-cup-na-valorant-gamer-pool-party-marketing-genius/",
-    "https://thebusinessofesports.com/2022/04/24/wingstop-named-official-partner-for-overwatch-leagues-houston-outlaws/",
     "https://thebusinessofesports.com/2022/04/24/vindex-partners-with-the-interactive-advertising-bureau/",
     "https://thebusinessofesports.com/2022/04/24/episode-220-sentinels-esports-rob-moore-riley-jamison-fortnite-world-cup-na-valorant-gamer-pool-party-marketing-genius/",
     "https://thebusinessofesports.com/2022/04/24/alpine-esports-launches-second-series-season/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26558/one-store-fully-opens-ai-game-registration",
     "https://www.invenglobal.com/articles/26557/playwith-korea-surpasses-1-million-pre-registrations-for-seal-m2",
     "https://www.invenglobal.com/articles/26556/lilith-games-new-title-wonderpaws-opens-global-pre-registration-across-all-platforms",
-    "https://www.invenglobal.com/articles/26555/at-35-sonic-the-hedgehog-gets-the-museum-treatment"
+    "https://www.invenglobal.com/articles/26555/at-35-sonic-the-hedgehog-gets-the-museum-treatment",
+    "https://www.invenglobal.com/articles/26554/steelseries-launches-quickswitch-controller-aeon-pro",
+    "https://www.invenglobal.com/articles/26529/esports-departs-the-asian-games-what-is-lost",
+    "https://insider-gaming.com/intergalactic-the-heretic-prophet-news-only-next-year/",
+    "https://insider-gaming.com/when-game-informer-gta-6-magazine-come-out-time/",
+    "https://insider-gaming.com/troy-baker-intergalactic-lead-spiritual-successor-ellie-last-of-us/",
+    "https://dotesports.com/league-of-legends/guides/lol-asian-games-2026-schedule-results"
   ],
   "title_hashes": [
-    "4d19303c10380b8fe67288aa4115019e",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "bd1e6745cf3d439fc1e0891aa7f3370c",
-    "695173795db5ed4747f7020048f8fc8b",
-    "f9d962fa2b8d576c0659c7ac3f825c3d",
-    "e583d163da31fe8f77f194a9984b7710",
     "cc4ccdb487da0cfae4ff049e6d30567f",
     "74c4a65c3d90c9d7abd298f1eafb8a0b",
     "12394f8f6cae39a705255809fc77be19",
@@ -16001,7 +15995,13 @@
     "508b858ea867879692feead256f0c71c",
     "f7085858f113c3096e96f4eadc2f5d5e",
     "b563728190698e6f4cf0372dcee90d35",
-    "e38335fcf1be903770c8cb2b81fc9210"
+    "e38335fcf1be903770c8cb2b81fc9210",
+    "fffb3ad3ab5201d8aecc478fd0320f4a",
+    "d7ff6a64a93028661a772c182cac349b",
+    "05165ceeceff3061408f96f1681b013c",
+    "2b4a82596e53a7fd67a50456c31c652e",
+    "c4592d8e134340ee7b58f6656d8eecd1",
+    "8f0cf9f7eb827163116cf981167972b0"
   ],
   "transfers": {
     "pages": {
@@ -21268,6 +21268,26 @@
     {
       "t": "29 35 art beside buy can commissioned company dozens fans gets hedgehog hung iam8bit missed museum sega sept show sketches sonic starting treatment vaults who works",
       "ts": 1790644664.9885979
+    },
+    {
+      "t": "aeon between controller korea launches launching pro quickswitch steelseries steelseriessteelseries supports switching which wireless xbox",
+      "ts": 1790644670.1833384
+    },
+    {
+      "t": "2027 appeared coming confirms dog ending heretic hopes intergalactic naughty new news only post prophet this trailer updates year",
+      "ts": 1790644673.962574
+    },
+    {
+      "t": "6 8217 almost but com come content does dozen drop edition explained featuring game gta here informer limited magazine more out pages post release special than time times what when",
+      "ts": 1790644677.6626778
+    },
+    {
+      "t": "8216 8217 aligning appearance baker comment divisive during ellie has intergalactic last lead made post recent says somewhat spiritual successor troy",
+      "ts": 1790644681.1458898
+    },
+    {
+      "t": "2026 asia asian best collide games how league legends results schedule standings teams watch",
+      "ts": 1790644684.6718438
     }
   ]
 }
