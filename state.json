@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/02/09/guild-esports-publishes-financial-results-from-2021/",
-    "https://thebusinessofesports.com/2022/02/09/weplay-holding-partners-with-isde-to-create-an-esports-educational-program/",
-    "https://thebusinessofesports.com/2022/02/09/new-ford-features-allow-users-to-turn-their-car-into-an-escape-room/",
-    "https://thebusinessofesports.com/2022/02/09/portalone-secures-60m-in-series-a-funding-round/",
-    "https://thebusinessofesports.com/2022/02/09/the-new-york-times-purchases-wordle/",
-    "https://thebusinessofesports.com/2022/02/09/1047-games-and-logitech-announce-2022-splitgate-pro-series/",
     "https://thebusinessofesports.com/2022/02/09/video-games-are-being-used-to-recruit-drug-smugglers-in-arizona/",
     "https://thebusinessofesports.com/2022/02/09/geoff-keighley-tweets-that-more-gaming-acquisitions-are-coming-in-2022/",
     "https://thebusinessofesports.com/2022/02/09/partnership-unveiled-between-kingston-fury-and-g2-esports/",
@@ -7999,15 +7993,15 @@
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTBRZ0pVSlZENWs5dWZGSERrZ2MxSU95ZzN6NGU2NkVUZllrNFFVblhaa3Y3OHRucFVTaklKckNpOFh1Y1cxblZMU2xCM1RWa0lkMXlyQm1lZVlCYVdRbmRLWVdCazltZE9qYXo0a3pwZ2lQWnR6R1J0cVZfdGhMNFFUa3ZxQnhXb2NSWDJuUQ?oc=5",
     "https://pley.gg/cs2/danish-charity-organization-opens-digital-thrift-store-for-counter-strike-2-skins/",
     "https://pley.gg/cs2/envy-returns-to-counter-strike-with-the-acquisition-of-the-former-3dmax-roster/",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUVBZMjZ1bGs0RHpuTXpPUUVyc29EZjIzS3I5NFFmWHlhRUVNRmNZNnJLYkRSdWNnbTV2ck1yRklJREVreXBRbWhzelpxOG14OXYyWlh6Z1RHUy16eF9ZdGVfYVJ0ZnRiRzVIV0NQaHNLVTdlNV9BMVRZbnFSblEyUXlXUDBoekpydWxxU1BSYVVEU0xhMkJhWUVya1ZXUjBp?oc=5"
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUVBZMjZ1bGs0RHpuTXpPUUVyc29EZjIzS3I5NFFmWHlhRUVNRmNZNnJLYkRSdWNnbTV2ck1yRklJREVreXBRbWhzelpxOG14OXYyWlh6Z1RHUy16eF9ZdGVfYVJ0ZnRiRzVIV0NQaHNLVTdlNV9BMVRZbnFSblEyUXlXUDBoekpydWxxU1BSYVVEU0xhMkJhWUVya1ZXUjBp?oc=5",
+    "https://www.invenglobal.com/articles/26602/faker-stamp-scheduled-for-release-on-october-23",
+    "https://www.invenglobal.com/articles/26601/nexon-prepares-new-sports-game-in-partnership-with-external-developer",
+    "https://www.invenglobal.com/articles/26600/human-fall-flat-developer-no-brakes-games-launches-vr-puzzler-tiny-flock",
+    "https://www.invenglobal.com/articles/26599/true-damage-returns-to-perform-league-of-legends-worlds-2026-anthem",
+    "https://www.invenglobal.com/articles/26598/pubg-to-make-us-complexcon-debut-with-mgks-floor-13",
+    "https://insider-gaming.com/all-battlefield-games-in-order-of-release/"
   ],
   "title_hashes": [
-    "2acbbd9f335f57da467b33a4017d2725",
-    "ae4835f5c62055608bb9dd5a7749ff21",
-    "6128eb2770f2a4a82f31673943b83bc4",
-    "8d12db2edb94e621306adc8190cbc52a",
-    "447d109634856e8f79c9bd0e08662a44",
-    "4e25a80f16b0cba3766240d3d4cc0f34",
     "5173b5092e0afbd3525beaae8701b368",
     "841dd83f2eb672cfcff8c17fac42e144",
     "c6468c0738eeef9e5d0b06fff56e343d",
@@ -16001,7 +15995,13 @@
     "64afbc37f01742bc9c6276cc8b926d16",
     "87580fb5ca133af398ea7ef60c276f49",
     "ae493cf99b333ccc3e76673eb96ace44",
-    "9583a78998fe9e787c608d501cee12f7"
+    "9583a78998fe9e787c608d501cee12f7",
+    "c64bad89541f6e924dddbc80312ec012",
+    "916346112693ad0eddcff967cd188b6d",
+    "9f5bb5f63f02d35798b4e66b0111a48a",
+    "ac0f8295abb82782e058f2d5162493d3",
+    "8e814bbf019c281cf8584f034f7611b7",
+    "b34ce1acb2ba6edfbe09a6da30b30dcb"
   ],
   "transfers": {
     "pages": {
@@ -21160,6 +21160,26 @@
     {
       "t": "3dmax acquisition counter envy former returns roster strike",
       "ts": 1790710087.3595772
+    },
+    {
+      "t": "developer external game new nexon partnership prepares preparing sports",
+      "ts": 1790723157.0445573
+    },
+    {
+      "t": "according based behind brakes developer fall flat flock game games has human launched launches meta pcvr physics platformer players puzzle puzzler quest reality release studio tiny virtual",
+      "ts": 1790723160.8064923
+    },
+    {
+      "t": "2026 anthem back brought championship damage games group has hip hop its know league legends lsquo name official perform rele returns riot song true virtual will world worlds",
+      "ts": 1790723164.928556
+    },
+    {
+      "t": "13 announced battlegrounds capsule clothing collection complex complexcon creative debut first floor its made make mgk month musician new next pubg studio will",
+      "ts": 1790723168.3333476
+    },
+    {
+      "t": "1942 6 all appeared battlefield ever every first game games gaming here insider list order post release released starting way",
+      "ts": 1790723171.9336042
     }
   ]
 }
