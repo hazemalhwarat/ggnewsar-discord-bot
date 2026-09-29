@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/04/20/seed-round-secures-legendary-play-4m/",
-    "https://thebusinessofesports.com/2022/04/20/faze-clan-partners-with-respawn/",
-    "https://thebusinessofesports.com/2022/04/20/muskegon-community-college-launching-esports-team/",
-    "https://thebusinessofesports.com/2022/04/20/the-global-live-streaming-market-will-be-worth-more-than-4b-by-2028/",
-    "https://thebusinessofesports.com/2022/04/20/remedy-entertainment-teaming-up-with-rockstar-for-max-payne-remake/",
-    "https://thebusinessofesports.com/2022/04/20/ubisoft-just-exposed-a-major-flaw-with-nft-gaming-as-ghost-recon-breakpoint-enters-maintenance-mode/",
-    "https://thebusinessofesports.com/2022/04/20/gadsme-ad-platform-raises-8m-in-funding/",
     "https://thebusinessofesports.com/2022/04/20/limited-run-games-carbon-engine-could-open-doors-for-untranslated-japanese-games/",
     "https://thebusinessofesports.com/2022/04/20/sentinels-partners-with-g-fuel/",
     "https://thebusinessofesports.com/2022/04/20/fnatic-hosts-members-only-viewing-party-in-london-after-launching-web3-program-to-lukewarm-reviews/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/26579/applying-scientific-yardsticks-to-the-gaming-disorder-debate-director-jang-joo-lee-publishes-paper-in-the-korean-journal-of-psychology",
     "https://www.invenglobal.com/articles/26578/south-korea-finishes-6th-in-pubg-mobile-failing-to-reach-medal-contention-despite-first-chicken-dinner",
     "https://www.invenglobal.com/articles/26577/nexus-to-incorporate-one-store-as-wholly-owned-subsidiary",
-    "https://www.invenglobal.com/articles/26576/silent-hill-townfall-officially-released-on-september-24"
+    "https://www.invenglobal.com/articles/26576/silent-hill-townfall-officially-released-on-september-24",
+    "https://www.invenglobal.com/articles/26575/icarus-online-global-cbt-begins-september-29",
+    "https://www.invenglobal.com/articles/26574/wemade-launches-hellsquad-rrrush-stone-rush-in-over-170-countries",
+    "https://www.invenglobal.com/articles/26573/aniplus-to-acquire-2-billion-won-in-treasury-shares-actively-responding-to-undervaluation",
+    "https://www.invenglobal.com/articles/26572/g-star-2026-floor-map-and-key-content-revealed",
+    "https://www.invenglobal.com/articles/26571/world-of-tanks-doom-battle-pass-special-begins-october-1",
+    "https://www.invenglobal.com/articles/26570/fayes-combat-revealed-god-of-war-laufey-pre-orders-begin-on-the-29th",
+    "https://www.invenglobal.com/articles/26569/agf-2026-pre-orders-for-first-official-merch-to-begin-october-14"
   ],
   "title_hashes": [
-    "70025ea0c37d2596c1abc9f20a9033f3",
-    "be3277c00dd4453edb6f9db2f3272621",
-    "d7e3f4c860ad5e80f30a2ad7da1a885b",
-    "dc1100f45045a3b4037e7f12ebb78ad6",
-    "c2e08f8cbba83790628e1fd48fc81aba",
-    "2e7d71b4e6428925a85acf9462a8bdb2",
-    "0d6832206b10b02660a6e5e736a1099b",
     "24ea3712a7fd84cd84276e6e28eda428",
     "002b3483a3b821bcfa077b23d0c0c1f1",
     "461c49aca73c66e127d171877bd219b7",
@@ -16001,7 +15994,14 @@
     "eed08851838680d8842c2adb6e56498b",
     "e0715406e1cfe0565023c0449abcbd31",
     "9a42dbc6aa47fbbcb89297478b9535e8",
-    "d9284341a0371a1dc435b3e16951cc82"
+    "d9284341a0371a1dc435b3e16951cc82",
+    "4ed88a32a0457d46f85f66963a9c29f0",
+    "8a986991d3cf1fc5b343a0ff7b157fb0",
+    "ac167c5bc9b62fba1d7b9ff11a1aabac",
+    "7a414a69742a18ae2d8af75996d782eb",
+    "1355a189cf56447b5f682125b13c37d6",
+    "b82039e8a7cceb259190f735906c907d",
+    "9a1a9ebf0cb2dd23d9dd17598a671987"
   ],
   "transfers": {
     "pages": {
@@ -21192,6 +21192,26 @@
     {
       "t": "24 digital entertainment entertainmentkonami game hereinafter hill horror its konami limited new officially playstatio released september silent townfall",
       "ts": 1790665828.1978855
+    },
+    {
+      "t": "170 29th countries developed game hellsquad launched launches lightcon mobile officially over rrrush rush stone web3 wemade wemadeon worldwide",
+      "ts": 1790665833.7426155
+    },
+    {
+      "t": "2 acquire acquired actively address animation aniplus anipluscomprehensive billion company moving plans responding shares stock treasury undervaluation using while won worth",
+      "ts": 1790665837.1788962
+    },
+    {
+      "t": "2026 bexco busan committee content display esports floor games gstarthe has including key major map maps november organizing place revealed star taking this",
+      "ts": 1790665840.7095482
+    },
+    {
+      "t": "16 2027 29th begin combat entertainment faye february god interactive koreasanta laufey launch monica new orders pre ps5 revealed sony studio title war will",
+      "ts": 1790665844.1030297
+    },
+    {
+      "t": "14 2026 agf begin celebrating collaborating commerce edition event first introduce its kream merch merchandise october official orders platform pre seventh this trend year",
+      "ts": 1790665847.5333273
     }
   ]
 }
