@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/04/20/innsbruck-austria-announces-plans-to-become-an-esports-hub/",
-    "https://thebusinessofesports.com/2022/04/20/international-esports-federation-membership-grows-to-123-with-addition-of-12-new-national-bodies/",
-    "https://thebusinessofesports.com/2022/04/20/thq-nordic-to-host-digital-gaming-summit-in-august/",
-    "https://thebusinessofesports.com/2022/04/20/sk-gaming-unveils-nh-hotel-group-partnership/",
-    "https://thebusinessofesports.com/2022/02/22/nascar-joins-forces-with-nace-starleague/",
-    "https://thebusinessofesports.com/2022/02/22/registrations-for-nintendo-switch-sports-online-play-test-are-now-open/",
-    "https://thebusinessofesports.com/2022/02/22/the-best-selling-games-and-consoles-of-january-2022/",
-    "https://thebusinessofesports.com/2022/02/22/ludwig-ahgren-calls-addison-raes-skincare-line-pathetic/",
     "https://thebusinessofesports.com/2022/02/22/msm-corporation-international-limited-merges-with-riva-technology-and-entertainment/",
     "https://thebusinessofesports.com/2022/02/22/prime-real-estate-someone-just-paid-450000-to-be-snoop-doggs-neighbor-in-the-metaverse/",
     "https://thebusinessofesports.com/2022/02/22/bronny-james-files-multiple-trademarks-wants-to-get-into-nfts-video-games-and-apparel/",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/26567/soop-introduces-streamer-emblem-system",
     "https://www.invenglobal.com/articles/26566/monster-hunter-outlanders-to-launch-on-october-29",
     "https://www.invenglobal.com/articles/26565/pre-orders-begin-september-30-for-nintendo-switch-2-edition-of-split-fiction",
-    "https://www.invenglobal.com/articles/26563/first-new-hero-in-6-years-xalatath-joins-the-nexus"
+    "https://www.invenglobal.com/articles/26563/first-new-hero-in-6-years-xalatath-joins-the-nexus",
+    "https://www.invenglobal.com/articles/26564/naughty-dog-teases-full-reveal-for-new-game-intergalactic-in-2027",
+    "https://www.invenglobal.com/articles/26562/it-takes-two-nintendo-switch-2-version-pre-orders-open-september-30",
+    "https://www.invenglobal.com/articles/26561/archeage-s-strait-of-freedom-reveals-first-in-game-footage-in-developer-documentary",
+    "https://www.invenglobal.com/articles/26560/leading-up-to-the-beloved-the-witcher-3-geralts-three-journeys",
+    "https://www.invenglobal.com/articles/26557/playwith-korea-seal-m2-surpasses-1-million-pre-registrations",
+    "https://www.invenglobal.com/articles/26546/hands-on-the-witcher-3-remastered-is-the-perfect-setup-for-the-new-expansion",
+    "https://dotesports.com/the-division/guides/the-division-2-echoes-of-central-park-release-date",
+    "https://dotesports.com/counter-strike/guides/cs2-rush-mode"
   ],
   "title_hashes": [
-    "5e1f844945be1fc07008d85638947ec9",
-    "976f9cf76b77fa2675d6e7c1989e10c2",
-    "50955ee5372523fb22a5ec9a53813dba",
-    "2ac542822547aad64047ec02bf818bb8",
-    "55e5d9eca2e5cb71a2e8775e6be9a414",
-    "9abcbd087521a2a3a667d6c78f66e0dc",
-    "8262f9b62ab3cc01ec3b20d81b807b13",
-    "2252a207158af70c5b39c5701f4ac41c",
     "2dcd57ae0bfc90847f66e4b366003935",
     "e2948d03364b5608a9a8d62621a7a4c7",
     "5f59e5c2ace068e410be9d736e0a773c",
@@ -16001,7 +15993,15 @@
     "46c3dd83b4c7aae93216ba790c1ccc2f",
     "49a2ca86dc5dd1934edb4b3a072a8184",
     "adea77ebcc5f970dc1e0d3dbc1fa3eef",
-    "f6305b2793108e0c70c9e199ae7a2162"
+    "f6305b2793108e0c70c9e199ae7a2162",
+    "7975f66cca800210b1eec72563faf52a",
+    "3e637db5ef69fbe4b000293d7e32c17b",
+    "cccdce5c45428df5ee797587d0730c42",
+    "6cd73787377105c1247583f32126c6e2",
+    "b0585e2d510a1d435dcbf6556391dea8",
+    "0fb6791395785f48b7dfff8371d55f2f",
+    "f7a08c8a224213b8f75dfc55576051b2",
+    "bc85de589233b1892e9ec4581a393ba7"
   ],
   "transfers": {
     "pages": {
@@ -21232,6 +21232,26 @@
     {
       "t": "29 6 91st anno atath blizzard entertainment entertainmenton first game hero heroes its joined joins nearly new nexus september six storm xal years",
       "ts": 1790665868.0922706
+    },
+    {
+      "t": "202 2027 dog dognaughty full game has hereafter heretic intergalactic its naughty new place prophet reveal sci take teased teases that title will",
+      "ts": 1790665873.2177837
+    },
+    {
+      "t": "2 30 adventure begin edition game gamepiagamepia nintendo open orders physical pre september switch takes two version will",
+      "ts": 1790665876.6333854
+    },
+    {
+      "t": "actual archeage developer documentary first footage freedom game games has its kakao mmorpg new released revealing reveals strait",
+      "ts": 1790665880.0910816
+    },
+    {
+      "t": "3 appears back before beloved board else every family geralt help his hunting journeys leading man missing monster night notice pleads searches someone stands strapped swords that three two village while witcher",
+      "ts": 1790665883.5293355
+    },
+    {
+      "t": "about cs2 everything explained know maps mode need new rules rush scoring you",
+      "ts": 1790665886.9609141
     }
   ]
 }
