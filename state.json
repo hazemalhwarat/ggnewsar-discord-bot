@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/04/20/limited-run-games-carbon-engine-could-open-doors-for-untranslated-japanese-games/",
-    "https://thebusinessofesports.com/2022/04/20/sentinels-partners-with-g-fuel/",
-    "https://thebusinessofesports.com/2022/04/20/fnatic-hosts-members-only-viewing-party-in-london-after-launching-web3-program-to-lukewarm-reviews/",
-    "https://thebusinessofesports.com/2022/04/20/entain-opens-new-workplace-in-stratford-london/",
-    "https://thebusinessofesports.com/2022/04/20/european-union-league-of-legends-fans-want-more-local-and-smaller-esports-events-to-attend/",
     "https://thebusinessofesports.com/2022/04/20/innsbruck-austria-announces-plans-to-become-an-esports-hub/",
     "https://thebusinessofesports.com/2022/04/20/international-esports-federation-membership-grows-to-123-with-addition-of-12-new-national-bodies/",
     "https://thebusinessofesports.com/2022/04/20/thq-nordic-to-host-digital-gaming-summit-in-august/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26572/g-star-2026-floor-map-and-key-content-revealed",
     "https://www.invenglobal.com/articles/26571/world-of-tanks-doom-battle-pass-special-begins-october-1",
     "https://www.invenglobal.com/articles/26570/fayes-combat-revealed-god-of-war-laufey-pre-orders-begin-on-the-29th",
-    "https://www.invenglobal.com/articles/26569/agf-2026-pre-orders-for-first-official-merch-to-begin-october-14"
+    "https://www.invenglobal.com/articles/26569/agf-2026-pre-orders-for-first-official-merch-to-begin-october-14",
+    "https://www.invenglobal.com/articles/26568/no-gaming-industry-figures-named-for-2026-culture-committee-audit",
+    "https://www.invenglobal.com/articles/26567/soop-introduces-streamer-emblem-system",
+    "https://www.invenglobal.com/articles/26566/monster-hunter-outlanders-to-launch-on-october-29",
+    "https://www.invenglobal.com/articles/26565/pre-orders-begin-september-30-for-nintendo-switch-2-edition-of-split-fiction",
+    "https://www.invenglobal.com/articles/26563/first-new-hero-in-6-years-xalatath-joins-the-nexus"
   ],
   "title_hashes": [
-    "24ea3712a7fd84cd84276e6e28eda428",
-    "002b3483a3b821bcfa077b23d0c0c1f1",
-    "461c49aca73c66e127d171877bd219b7",
-    "0f1f4d1c7d972eb9d64238c46079815e",
-    "b6aa179dffdb3fd511ed266afb4e0639",
     "5e1f844945be1fc07008d85638947ec9",
     "976f9cf76b77fa2675d6e7c1989e10c2",
     "50955ee5372523fb22a5ec9a53813dba",
@@ -16001,7 +15996,12 @@
     "7a414a69742a18ae2d8af75996d782eb",
     "1355a189cf56447b5f682125b13c37d6",
     "b82039e8a7cceb259190f735906c907d",
-    "9a1a9ebf0cb2dd23d9dd17598a671987"
+    "9a1a9ebf0cb2dd23d9dd17598a671987",
+    "45c882f9ba38603bc81fe61073dc1170",
+    "46c3dd83b4c7aae93216ba790c1ccc2f",
+    "49a2ca86dc5dd1934edb4b3a072a8184",
+    "adea77ebcc5f970dc1e0d3dbc1fa3eef",
+    "f6305b2793108e0c70c9e199ae7a2162"
   ],
   "transfers": {
     "pages": {
@@ -21212,6 +21212,26 @@
     {
       "t": "14 2026 agf begin celebrating collaborating commerce edition event first introduce its kream merch merchandise october official orders platform pre seventh this trend year",
       "ts": 1790665847.5333273
+    },
+    {
+      "t": "2026 29th assembly attendance aud audit committee culture during figures gaming industry motion named national parliamentary passed plenary requesting session sports testifiers tourism witnesses",
+      "ts": 1790665852.879446
+    },
+    {
+      "t": "29 awarding based broadcast count cumulative emblem introduces live officially operate september six soop soopsoop starting streamer streamers system their tiers user will",
+      "ts": 1790665856.3698056
+    },
+    {
+      "t": "29 action capcom game garenagarena hunter hunting launch licensed mobile monster october officially outlanders supervised survival will",
+      "ts": 1790665859.856802
+    },
+    {
+      "t": "2 30 arts begin collaboration edition electronic fiction gamepiagamepia nintendo orders physical pre september split switch two will",
+      "ts": 1790665863.2659538
+    },
+    {
+      "t": "29 6 91st anno atath blizzard entertainment entertainmenton first game hero heroes its joined joins nearly new nexus september six storm xal years",
+      "ts": 1790665868.0922706
     }
   ]
 }
