@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/02/18/init-esports-to-crown-rims-racing-ama-worlds-fastest-motorcycle-gamer-challenge/",
-    "https://thebusinessofesports.com/2022/02/18/call-of-duty-league-roasts-timthetatman/",
-    "https://thebusinessofesports.com/2022/02/18/esports-engine-deploys-dreamcatcher-bravo-studio/",
-    "https://thebusinessofesports.com/2022/02/18/asrock-joins-the-metaverse-releases-first-nft/",
-    "https://thebusinessofesports.com/2022/02/18/tsm-considering-major-changes-after-falling-short-in-vct-stage-one/",
     "https://thebusinessofesports.com/2022/02/18/bully-2-could-still-happen-according-to-insider/",
     "https://thebusinessofesports.com/2022/02/18/hedera-hashgraph-partners-with-ubisoft-eyes-next%e2%80%91generation-gaming/",
     "https://thebusinessofesports.com/2022/02/17/sony-leading-the-big-three-in-gaming-revenue/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26581/total-war-warhammer-3-releases-lords-of-the-end-times-dlc-on-september-24",
     "https://www.invenglobal.com/articles/26559/asian-games-esports-removal-document-remains-intact-yet-oca-claims-no-decision-was-made",
     "https://esportsinsider.com/2026/09/mlbb-asian-games-2026",
-    "https://esportsinsider.com/2026/09/asian-games-esports-status"
+    "https://esportsinsider.com/2026/09/asian-games-esports-status",
+    "https://www.dotabuff.com/blog/2026-09-29-designs-that-should-never-make-a-comeback",
+    "https://insider-gaming.com/playstation-5-console-jailbreak-ps5/",
+    "https://insider-gaming.com/modern-warfare-2-players-spot-skate-and-minecraft-mods/",
+    "https://insider-gaming.com/esl-pro-league-season-24-katowice-tournament-guide/",
+    "https://insider-gaming.com/konami-new-trademarks/"
   ],
   "title_hashes": [
-    "c61122430ed2dd6664aaaf69fed54efa",
-    "534d2b8dd4c6d411eb6ce9e95294d494",
-    "bc3d38e9b962cb8829153ffdff0a22a3",
-    "3ed19dc1cb550393c52de4543b91b2ea",
-    "3d902400d5f2f34f588cbeec4e4045f6",
     "a02b58df220c08fda744c409b80daad8",
     "45b9ce657ecd052cb0411268d6969480",
     "2292c918c0c7a12f16b5208e2d127bfe",
@@ -16001,7 +15996,12 @@
     "129f84d09aab43d9f95408d7d5740f1b",
     "a6bd5f3760727db485495a86062271c4",
     "4167cf9555fc54fc09cc727d1cd3ddd4",
-    "93e7528869f5c2e2c434400304d7f831"
+    "93e7528869f5c2e2c434400304d7f831",
+    "d696164fefeddb47eb787946a4240218",
+    "bba68edd5f56f1eef95748e56d82df47",
+    "e91319e7f7d29d98400551a4ba04b0b6",
+    "e832c34a0e8be72dae5ac68b2390be73",
+    "6fb0c6b8662aaa27729f23dfb51addc8"
   ],
   "transfers": {
     "pages": {
@@ -21020,6 +21020,26 @@
     {
       "t": "2030 8217 about asian but cloud conflicting decision esports event format future games its leaves medal oca older post programme questions records remain remove will",
       "ts": 1790690697.4911368
+    },
+    {
+      "t": "about been big comeback current decisions design designs doing going last like make month never next opposite patch previous see should talking that through today what will would",
+      "ts": 1790690703.4136598
+    },
+    {
+      "t": "5 amp appe applies both capabilities console consoles dropped has illegal jailbreak new playstation post pro ps5 released unlocks which",
+      "ts": 1790690706.8422832
+    },
+    {
+      "t": "2 appeared details first have here insider minecraft modern mods more players post running skate spot spotted videos warfare",
+      "ts": 1790690710.2826679
+    },
+    {
+      "t": "24 again arena counter enjoy esl everything first format gaming graces gui guide has insider katowice know league need post pro schedule season spodek strike teams tournament you",
+      "ts": 1790690713.7163272
+    },
+    {
+      "t": "back blade bringing catalog classic could future has ips konami like new old other planned post registered release reveals soldier some suggest trademark which",
+      "ts": 1790690717.1506562
     }
   ]
 }
