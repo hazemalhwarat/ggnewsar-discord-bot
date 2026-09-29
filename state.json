@@ -1,20 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/04/24/vindex-partners-with-the-interactive-advertising-bureau/",
-    "https://thebusinessofesports.com/2022/04/24/episode-220-sentinels-esports-rob-moore-riley-jamison-fortnite-world-cup-na-valorant-gamer-pool-party-marketing-genius/",
-    "https://thebusinessofesports.com/2022/04/24/alpine-esports-launches-second-series-season/",
-    "https://thebusinessofesports.com/2022/04/24/apex-legends-global-series-to-cover-travel-expenses-to-stockholm-following-backlash-from-organizations/",
-    "https://thebusinessofesports.com/2022/04/24/gems-esports-3-0-platform-raises-5m/",
-    "https://thebusinessofesports.com/2022/04/22/a-huge-vancouver-canada-fighting-game-tournament-returns-after-four-years/",
-    "https://thebusinessofesports.com/2022/04/21/streamer-lythero-upset-at-twitch-over-false-dmca-warning/",
-    "https://thebusinessofesports.com/2022/04/21/sinatraa-being-welcomed-back-to-valorant-esports-could-create-more-problems/",
-    "https://thebusinessofesports.com/2022/04/21/mobile-global-esports-inc-hosts-indias-largest-college-esports-tournament/",
-    "https://thebusinessofesports.com/2022/04/21/german-gaming-market-grew-by-17-in-2021/",
-    "https://thebusinessofesports.com/2022/04/20/ori-launches-decentralized-vesting-platform-aimed-at-cryptocurrency-investors/",
-    "https://thebusinessofesports.com/2022/04/20/executive-shares-insight-into-the-gaming-discussion-taking-place-on-twitter/",
-    "https://thebusinessofesports.com/2022/04/20/xbox-cloud-gaming-now-supports-steam-deck-thanks-to-microsoft-edge-beta/",
-    "https://thebusinessofesports.com/2022/04/20/rfactor-2-becomes-the-official-home-of-formula-e-sim-racing/",
-    "https://thebusinessofesports.com/2022/04/20/mana-launches-wait-list-for-neobanking-platform/",
     "https://thebusinessofesports.com/2022/04/20/sonys-psvr-2-will-take-vr-gaming-to-a-whole-new-level-claims-unity/",
     "https://thebusinessofesports.com/2022/04/20/globe-and-acadarena-renew-partnership-aim-to-boost-support-for-student-gamers/",
     "https://thebusinessofesports.com/2022/04/20/complexity-gaming-expands-current-partnership-with-twitch/",
@@ -7999,23 +7984,24 @@
     "https://insider-gaming.com/intergalactic-the-heretic-prophet-news-only-next-year/",
     "https://insider-gaming.com/when-game-informer-gta-6-magazine-come-out-time/",
     "https://insider-gaming.com/troy-baker-intergalactic-lead-spiritual-successor-ellie-last-of-us/",
-    "https://dotesports.com/league-of-legends/guides/lol-asian-games-2026-schedule-results"
+    "https://dotesports.com/league-of-legends/guides/lol-asian-games-2026-schedule-results",
+    "https://dotesports.com/gow/guides/god-of-war-laufey-faye-serpent-bow",
+    "https://dotesports.com/valorant/news/valorant-devs-ranked-map-bans-rotation",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOel9pT2l6cFN4SXNMTng0dDVzSGxrbVdPZWMzNXNabVFzTlFPUVNzRXpoNjJVV1BnbzJEbVhyMVpoRm1TbHJoR1JUUGpnV0ZqazV0dF9xWEYxbHI0SjQwcW5nWVlCako2LTZPVGZDQ0hPV25haVNScXF1RHB5Z21oLQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjI1dmNwbVZnN2FMbXpSaEsxZTRnZWFzcmlLR091a29GX1pGOEdyYTZlWE1WSHNZT3dra29aNkRMMnM5Z2x0a29PR3VrX1BLbklCSklDMW5sTDRoLWlUWDkzc2VXY1FicXFsWU1uU2h0T0pOZ2RXcEU5cUNJRjhURFl5V2FjanNDSUpQeld1MldsNE1rRHJEakp4NEhZeDJUZnc?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1acDJ6T1VaTW5odWJRSml0Vy1qVFhLQlR0U3BsenBvUzRvZ3VPVXdRNGtuR0FsTHF6bG03OUNXSHhGYU8ySlJBTHNsZFFKUkstcUJaak5iT2pTX1VZa0w3X3NyeE44WUgz?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcUFCdWNtcks5RzFEZHY1bW9KTTNJWWg1bHV5WTlnYWlmblBCbGxheDVNbG9IOF93TXhHUENZSkZNYWlhWHpBM2wtSWM3NUk0NTVfMHp3WUFtclhmSWlPWURpbmpuOFowTXNCT2NXM2V1bVFOSXlGcmV0bXZ6UnVXd1RIb1k4UmUyS3ZR?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVDNrdnlITUN2RDdTa0xfbEpvZXNTZkg4WVlYWWNDZTBRNVJTQXc5SENwLWJGdnZ4MmM3NTRYdVdJMHpmeVQ1bVBzRDAxcTJVWkN4V2RTdXVZQzBfdWhwajVPRjNnRFBWNWJEWXZyRGNpTllMSGhVV0FQSkV2d2g3aHRGQkpEOXE0S3h6LW55YnpyWExzRVZzV1BoY0tpa2hiMkI5cGpR?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1FGNnRrY29yNFJHbmNxUWR4MDFnb25OdG5FeTNWMUotWUlsUWtmNXZOV1dNdkRPS24tbUhDRlVVTXZWV2tyMmJCVVVWTWFCOXlxeTU4YnowR2FfdlMxbVlBVE9Bd1RyclVETmJXZ2lSd1UyTjltS042SUVrdDN0NmdjcW9ydDZnWktzMzFYeHJOWlJwejNaN2pFMVFlMkVGc3BuZU5yQWh6ckVJTW5BTA?oc=5",
+    "https://www.talkesport.com/news/why-pokemons-30th-anniversary-is-suddenly-exploding-in-the-netherlands/",
+    "https://www.talkesport.com/news/god-of-war-laufey-pre-orders-open-today-ahead-of-february-2027-ps5-launch/",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RMjFTaGcyTWJoYkUzcTB0akFUUEd1V0dyQnBBZm8wRUxBVHJZMWs0SmxJVHgwTXlGczJZZ0JRWWFZb2h6MGlFQnJHNkQ1MlhrbW1oNHpnRFNFRVotRzYya2xLVGcyQU5rT241dENtSDZSOE9OcVE?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE02MDZReWdmUGdkOWxlMEE5X1Y3MEVSOXluWDF6S01IUGdGNWZZSmZqeWY2UVl6dmlFYTZVNE9vZmM5TXIxX0trSHJ5ekk1SlE5MnM3M3kweXNROEl1T0s3UGFGa05aUGxEbnRV?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT25SWldlWFFGT0Z5Uk5xa1VwTk9OQmdzS2ltLWlVaEVITkJyZzQ1TTQtei1PX0o1V19LVlRESHZrckJwcm8xRGdwcHptX2t5X0NrN21aTHZ0UnJ3VjhOanBqeVF6QTVVcmo0VUFWMWVONHVDWE9GOGtlY1ZrRGY4SXZobW5CWFVQcHZCWEd3U3pJLURzS0RGM0pMSTJxSnRKb1dxcEotZWdGaDJuUzdJSC1LbVVadw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMml6ZUNhR25qampfR0YyQkt2ckdzUFAwZW5TM05CbUVrQTNGa0xNcVA5Sy1FdFZVaVEza1JZQ3hsMmNva1ZFV0JfU1JnN2duU2lIYUdFZEI1NGpGMEV2aWFmMnhjYzJfTjFzSk1lY2tkX3NqaE9XSUJVRnlvT2lMcklDZ0U5LWNBeVpJOTV6eG1HaHRiZHFXTXB4Q0NqVlJweGxMSjRKdEVKTmM?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVXdqZ213elBvMzNsVGxqVWlYVE5UY2lmNkw0LW5ZMExPR05WLURmSC1YazE1VHlSaFVGX2x4SDJNa3lkYUpPYnJGOWVFUVI4YmFweWZWSDF2U2d4S1RpZEJtNFRrVFowRUFMNFAwZy1scEFIVENYYzg2WUtCanRieEkwRi1tck12OEdnX2YycXFaQXlhLUF6TWVKSmM?oc=5"
   ],
   "title_hashes": [
-    "cc4ccdb487da0cfae4ff049e6d30567f",
-    "74c4a65c3d90c9d7abd298f1eafb8a0b",
-    "12394f8f6cae39a705255809fc77be19",
-    "12abfb4e81a7c23ce7a923c0e71819fd",
-    "3573680f491eb4fa54e1f81cccba5711",
-    "90666841bdeca290b58290f10c5db227",
-    "5a6506e12081c1059244ed8410af57bb",
-    "12abfb4e81a7c23ce7a923c0e71819fd",
-    "0d2ae3c5b962de5d64887b55816e750f",
-    "f1ee3f559b1bc6e9e61d1dd294541da9",
-    "589dea8f65bb91b806485f06c2400b1c",
-    "e80cda5b120662af4be749607604f23e",
-    "f8589f4f04cbaf086320c3f630628ef3",
-    "5e99ab09ab7046f02e6c4bc9eb86c6fc",
     "8e9ada75cd3304346b99ed916810e72b",
     "31311111aa650d403e5e632b40016d31",
     "58c6624ecddd731ab0827e64fa3e9d8f",
@@ -16001,7 +15987,21 @@
     "05165ceeceff3061408f96f1681b013c",
     "2b4a82596e53a7fd67a50456c31c652e",
     "c4592d8e134340ee7b58f6656d8eecd1",
-    "8f0cf9f7eb827163116cf981167972b0"
+    "8f0cf9f7eb827163116cf981167972b0",
+    "e7477da5e9b7525298107108acd02b68",
+    "65be5ab75a918a3051badfccb376d47a",
+    "e0e65e76baf718eda800badeabc41fac",
+    "2cac1760cf158ce456622eb041f13f54",
+    "4ad69b32945e3331bdda247728c0e7db",
+    "d2de1e17c7588311594fe650267b4e96",
+    "9eb6bd8b08eb617217385deeda02adbb",
+    "65a0b9efbb8ee58ff8b16e01717b6c7a",
+    "9c7d9759eb1df6fe389515b7f812a522",
+    "0b63cda889225a05e04e1e0cf2f4fcb3",
+    "4ed50bce4b7c88a6cd6ba883afcc84f3",
+    "2fca2eece47853533faa845d9ec6b67f",
+    "ac388378589f6161611acb5e4157ec56",
+    "a8476538fa5931b9cf3b52719c547d12"
   ],
   "transfers": {
     "pages": {
@@ -21288,6 +21288,22 @@
     {
       "t": "2026 asia asian best collide games how league legends results schedule standings teams watch",
       "ts": 1790644684.6718438
+    },
+    {
+      "t": "angle bow deadly every faye god how laufey reveals serpent war works",
+      "ts": 1790644691.385839
+    },
+    {
+      "t": "address bans devs map maps potential ranked rotations scrutiny under valorant",
+      "ts": 1790644695.056614
+    },
+    {
+      "t": "30th above anniversary cards celebration climb collaboration dutch european exploding netherlands overnight pokémon prices remain resale retail scarce searches several space suddenly surged times why",
+      "ts": 1790644698.5292363
+    },
+    {
+      "t": "16 2027 29 8217 about ahead bow combat customisation details digita faye february god its laufey launch monica new open orders pre ps5 revealing santa september serpent studio today war",
+      "ts": 1790644702.3280215
     }
   ]
 }
