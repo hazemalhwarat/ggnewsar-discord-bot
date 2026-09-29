@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/02/11/take-two-interactive-releases-quarterly-earnings-report/",
-    "https://thebusinessofesports.com/2022/02/11/valves-steam-discount-cycle-to-be-reduced-to-twenty-eight-days/",
-    "https://thebusinessofesports.com/2022/02/11/switch-users-are-hacking-controller-pak-support-into-n64-games/",
-    "https://thebusinessofesports.com/2022/02/11/valorant-partners-with-amazon-prime-gaming/",
-    "https://thebusinessofesports.com/2022/02/11/msi-and-evangelion-collaborate-to-combine-popular-anime-with-pc-hardware/",
     "https://thebusinessofesports.com/2022/02/11/oppo-partners-with-mineski-global-to-enhance-mobile-gaming-experience-for-esports-community/",
     "https://thebusinessofesports.com/2022/02/11/nominees-announced-for-sxsw-gaming-awards/",
     "https://thebusinessofesports.com/2022/02/11/ubisoft-restructures-its-esports-division/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/call-of-duty-copying-cs2-valorant-collateral-mode/",
     "https://insider-gaming.com/new-gta-6-activities-confirmed/",
     "https://insider-gaming.com/gta-6-features-over-170-different-wildlife-species/",
-    "https://insider-gaming.com/gta-6-map-size-revealed/"
+    "https://insider-gaming.com/gta-6-map-size-revealed/",
+    "https://insider-gaming.com/gta-6-weather-system-includes-thunderstorms-hurricanes/",
+    "https://insider-gaming.com/12-new-gameplay-screenshots-revealed-grand-theft-auto-6/",
+    "https://insider-gaming.com/wordle-hints-answer-september-30-2026-1929/",
+    "https://insider-gaming.com/japans-ps5-pro-shortage-has-forced-a-lottery-system-to-surface/",
+    "https://www.hotspawn.com/league-of-legends/news/true-damage-worlds-2026"
   ],
   "title_hashes": [
-    "968b10074c4f715224dc0087ed9134e8",
-    "4ae765902829eb10bdd9ddcfc68a4b1b",
-    "6b36352df510ef82cc8d2941deaf1a27",
-    "5c533df1baed6f7469b362990d1af56d",
-    "32a060da1c8537e251a81508aaabb853",
     "d51bad1fca1ec0ecbbbfebb4e98f4c2a",
     "ecc0786383966b053dd893e62d8b846d",
     "80e0e83d28677c8d5ce1b9194ada8e7c",
@@ -16001,7 +15996,12 @@
     "13db72dfad1e045a05892decea0b5ea3",
     "73cda160b2e0d19fd20131b834daea2a",
     "4787099eb56258cad71e498a7a69d4f7",
-    "6bfdc30c35c85b16c88ff9e84498569f"
+    "6bfdc30c35c85b16c88ff9e84498569f",
+    "abbee1fde8a829e6c45614192cad45a1",
+    "bb885734d7aee1e022d863a3ce50fa0d",
+    "211294da52950f8364747a5df22a4952",
+    "037c2da6e651becfed9cb121ff09b3bc",
+    "b573669eced8fc22ff763554b49ba72d"
   ],
   "transfers": {
     "pages": {
@@ -21084,6 +21084,26 @@
     {
       "t": "6 8217 appeared been biggest created ever first games gta has ins leonida map post released revealed rockstar that",
       "ts": 1790710012.7886899
+    },
+    {
+      "t": "6 amp auto ever game grand gta hurricanes includes most pelting post prepare system theft thunderstorms unhinged weather you",
+      "ts": 1790710018.3576195
+    },
+    {
+      "t": "12 6 appeared auto been firs gameplay grand have new post revealed screenshots showcasing snippets theft title upcoming",
+      "ts": 1790710021.9295723
+    },
+    {
+      "t": "1929 2026 30 answer game get help helpful hints need post september starting today wordle words",
+      "ts": 1790710025.5068572
+    },
+    {
+      "t": "8216 8217 accepting applications deter due enforcing forced has japan lottery now playstation post pro pros ps5 purchase scalpers shortage surface system",
+      "ts": 1790710028.9445345
+    },
+    {
+      "t": "2026 8217 8220 8221 after anthem back coming damage giants group know league legends name perform returns season seven true virtual will worlds years",
+      "ts": 1790710032.3826563
     }
   ]
 }
