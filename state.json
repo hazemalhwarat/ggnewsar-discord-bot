@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/02/12/team17-announces-and-quickly-cancels-metaworms-nft-plan/",
-    "https://thebusinessofesports.com/2022/02/12/pgl-to-host-the-next-csgo-major-in-belgium/",
-    "https://thebusinessofesports.com/2022/02/12/hv-gamer-con-to-return-to-albany/",
-    "https://thebusinessofesports.com/2022/02/12/epic-games-takes-part-in-20m-spire-animation-investment-round/",
-    "https://thebusinessofesports.com/2022/02/12/magenta-gaming-to-shut-down-in-february-2022/",
-    "https://thebusinessofesports.com/2022/02/12/new-features-coming-following-retroarch-update/",
     "https://thebusinessofesports.com/2022/02/12/nvidias-lhr-solution-to-get-geforce-rtx-30-series-cards-into-gamers-hands-was-futile/",
     "https://thebusinessofesports.com/2022/02/12/esports-coming-to-jefferson-community-college/",
     "https://thebusinessofesports.com/2022/02/12/gillette-cup-held-on-february-3rd-and-4th/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26591/from-cyberpunk-city-to-boss-nivalis-nights-arrives-on-inven-games",
     "https://www.invenglobal.com/articles/26590/ori-and-the-will-of-the-wisps-a-masterpiece-enjoyed-for-the-price-of-a-cup-of-coffee",
     "https://www.invenglobal.com/articles/26553/thibaut-courtois-joins-astralis-owner-fusion-esports-group-as-investor",
-    "https://www.hltv.org/news/45595/awayken-sets-cs2-lan-kill-record-in-a-single-map"
+    "https://www.hltv.org/news/45595/awayken-sets-cs2-lan-kill-record-in-a-single-map",
+    "https://www.hltv.org/news/45593/sunpayus-departs-g2",
+    "https://www.vlr.gg/762949/nrg-progresses-to-playoffs-with-2-1-over-karmine-corp",
+    "https://traxion.gg/iracing-petit-le-mans-2026-blue-mercure-esport-dominate-with-two-class-victories/",
+    "https://gameriv.com/gta-6-new-details-reveal-bigger-map-hurricanes-over-170-animal-species-and-more/",
+    "https://gameriv.com/lol-true-damage-2026-skins/",
+    "https://gameriv.com/independent-video-games-journalist-stephen-totilo-reveals-legal-threat-from-bobby-koticks-lawyers/"
   ],
   "title_hashes": [
-    "2dcc55e9018264534a4e18bd90e2b840",
-    "9c7a08a131f305fae7bb08c7beffec12",
-    "14cfaff2fdbbb9b6b8c2c063abe4516e",
-    "e6536e7353e35fe2c98e8e462e13eeaf",
-    "c04892532b2fcf37babd81cace1b60c7",
-    "0070ffbb9c7b28af8a73689a9a4dd635",
     "58a59c996d223fe4b7e80899f79c3aab",
     "a5087d51986123797c574b1fd688ae61",
     "124dea15975252b2e1107fec93d906f9",
@@ -16001,7 +15995,13 @@
     "10b33a62b936d50e5dfdea9ee4a9f4dd",
     "3516ec4d5dea684a05ee185201faf4e3",
     "64a9e5d461ce06a238059cb4cc82bee3",
-    "84f6c6a3fa2e50f19e01ff2be84c84b6"
+    "84f6c6a3fa2e50f19e01ff2be84c84b6",
+    "e70127f522cd41f6c3ee88d1ffad2a81",
+    "fe04957500da11a148cd660a3b72af69",
+    "dca0cdeb01a7d9864264bc97db6e7142",
+    "735c8a7f5ca36eb82719503c065e430c",
+    "6ba346b34e21d267bbe19b47fb354bbc",
+    "81d3b511f45ae2612fc63c6326e5fbb0"
   ],
   "transfers": {
     "pages": {
@@ -21044,6 +21044,26 @@
     {
       "t": "62 awayken bulgarian carry cs2 enough infurity kill lan map not performance record sets sextuple single",
       "ts": 1790709973.23074
+    },
+    {
+      "t": "amidst announce departs departure fut g2 linking officially reports spaniard sunpayus",
+      "ts": 1790709978.6891174
+    },
+    {
+      "t": "1 2 champs corp defending eight karmine nrg over place playoffs progresses take their top",
+      "ts": 1790709982.2068944
+    },
+    {
+      "t": "170 6 addit animal auto bigger covering details everything filling grand gta hurricanes its latest leonida map more new open over people preview puts reported reveal species spotlight storms streets theft tropical wildlife world",
+      "ts": 1790709985.6442037
+    },
+    {
+      "t": "2026 akali back champions could damage date ekko first getting group league leagueofleaks legends lineup lol look naming new original post qiyana release reported sen shares skins together true",
+      "ts": 1790709989.171715
+    },
+    {
+      "t": "already bobby brief correction demanding games him his independent journalist kotick lawyers legal reporting reveals says sent stephen there they threat totilo video wanted wording",
+      "ts": 1790709992.6470633
     }
   ]
 }
