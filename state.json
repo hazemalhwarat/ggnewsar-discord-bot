@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/02/16/nautilus-mobile-secures-5-4m-in-funding-from-krafton/",
-    "https://thebusinessofesports.com/2022/02/16/call-of-duty-vanguard-fails-to-outperform-call-of-duty-black-ops-cold-war/",
-    "https://thebusinessofesports.com/2022/02/16/sony-spending-1-2-billion-on-employee-retention-plan-for-bungie-workers/",
-    "https://thebusinessofesports.com/2022/02/16/porsche-esports-carrera-cup-gb-returning-for-second-season/",
-    "https://thebusinessofesports.com/2022/02/16/esports-platform-level-256-opens-applications-for-fifth-cohort/",
-    "https://thebusinessofesports.com/2022/02/16/pokemon-sword-and-shield-international-challenge-revealed/",
     "https://thebusinessofesports.com/2022/02/16/entains-acquisition-of-avid-gaming-includes-canadian-online-sports-betting-and-gaming-brand-sports-interaction/",
     "https://thebusinessofesports.com/2022/02/16/mythical-games-expanding-overseas/",
     "https://thebusinessofesports.com/2022/02/16/electronic-arts-teases-several-unannounced-games-in-latest-earnings-call/",
@@ -7999,15 +7993,15 @@
     "https://www.vlr.gg/762446/prx-wins-fifth-straight-over-g2-to-clinch-playoff-spot",
     "https://gameriv.com/arc-raiders-players-reportedly-receive-compensation-as-expeditions-go-on-pause/",
     "https://traxion.gg/porsche-esports-supercup-2026-pinto-and-warren-win-at-silverstone-four-winners-from-four-races/",
-    "https://www.nerfplz.com/2026/09/which-role-is-easiest-to-climb-on.html"
+    "https://www.nerfplz.com/2026/09/which-role-is-easiest-to-climb-on.html",
+    "https://www.nerfplz.com/2026/09/top-team-comps-140-nothing-lands-fiora.html",
+    "https://www.hotspawn.com/counter-strike/news/vrs-shift-4",
+    "https://www.hotspawn.com/counter-strike/news/best-ultra-violent-gloves-knife-combos-in-cs2",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE40XzFuWFpaRlFZR2ZFOXFXVFJpLVdLaWxFMi1TVVhHdFUwLTBrWklGb1lIbFpGdFVkTWVzLTZzT2JsNXNQNDc1dktRYXZMYy02Z0N0YzUxeDBnQ3IzYXVyZy01bVljVXJCZGdSekF5STZBd2VoSnZvb3dB?oc=5",
+    "https://www.talkesport.com/news/modern-warfare-4-2xp-tokens-countdown/",
+    "https://www.talkesport.com/news/valorant/vitality-vs-loud-valorant-champions-2026/"
   ],
   "title_hashes": [
-    "7dfec4ba4f713d109fea515e4cab6610",
-    "ae5578746671d4cfee858cbc1c91643a",
-    "2ea28496edef0067f8ee6dc0390d99f2",
-    "1c567ea589231d7cc1604f852a961796",
-    "9b9c210119ba14dae49e1c8abbe1c878",
-    "d04b9e527a287d3ecc1bd532b2cf24dd",
     "e30913751f46de2e82248bf5f717f054",
     "4456fa2d26cdbd11671d039dc3b0e47b",
     "5b6003660b1abdc1d0420a4c0c4a4f37",
@@ -16001,7 +15995,13 @@
     "f29c7c8df602a0e0043c33f63200c16f",
     "26a07e069937b233b54c3e673fd6625a",
     "be8b4853160fd546aabd3539c41dcc36",
-    "5330d6d85ccb4a9f60abe2ac22e6c15b"
+    "5330d6d85ccb4a9f60abe2ac22e6c15b",
+    "b0baefa923e80df68a022f14e44f87af",
+    "bedafbc28a63826702fda703fe939e4a",
+    "287634ceeefd06a8d10521f4daa67073",
+    "014586825de0ee70360e82117998a822",
+    "df90458bdc56dc188da700c08e178aee",
+    "b89ee7b8d2deb635507239518c833b02"
   ],
   "transfers": {
     "pages": {
@@ -21080,6 +21080,26 @@
     {
       "t": "actually answering argument because climb comparison different each easiest ends every everyone gives honest lays one out page question role stalemate structurally this version what which you",
       "ts": 1790690756.2896914
+    },
+    {
+      "t": "140 ability all before button champions comps enemy every fiora five health lands makes mel nothin nothing one other out owns right runs spells team that them these time top",
+      "ts": 1790690761.9638138
+    },
+    {
+      "t": "1 2026 4 5 8217 any beat been big but connect counter events had has have heats huge ibuypower likes logitech major mas may not play pulse race shift stake still strike there tier vrs week",
+      "ts": 1790690765.3456376
+    },
+    {
+      "t": "best collection combos cs2 dead gloves hand has highlight immensely instantly knife made new option players popular purple sport them this touted ultra violent wanted who",
+      "ts": 1790690768.860372
+    },
+    {
+      "t": "2026 23 2xp 4 call carry confirmed count down during duty earlier game games launches match matches modern now october only over post that time tokens warfare when will",
+      "ts": 1790690772.348529
+    },
+    {
+      "t": "2026 champions details face format group here loud match more post predictions team time valorant venue vitality watch where winners",
+      "ts": 1790690775.7636132
     }
   ]
 }
