@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/01/07/exhibitors-dropped-out-of-ces-2022-due-to-covid-19-concerns/",
-    "https://thebusinessofesports.com/2022/01/07/rockstar-games-website-teases-bully-2/",
-    "https://thebusinessofesports.com/2022/01/07/nvidia-hosts-special-livestream-event-on-january-4th/",
-    "https://thebusinessofesports.com/2022/01/07/eximius-ventures-launches-the-gaming-lounge/",
-    "https://thebusinessofesports.com/2022/01/07/zotac-and-the-esports-club-announce-zotac-cup/",
-    "https://thebusinessofesports.com/2022/01/07/yield-guild-games-southeast-asia-to-launch-token-for-sub-network/",
-    "https://thebusinessofesports.com/2022/01/07/south-korea-is-trying-to-stop-play-to-earn-gaming/",
     "https://thebusinessofesports.com/2022/01/07/maddcog-will-keep-track-of-your-mental-gaming-performance/",
     "https://thebusinessofesports.com/2022/01/07/episode-178-jonathan-pan-amazon-games-facebook-gaming-riot-esports/",
     "https://thebusinessofesports.com/2022/01/07/satoshis-games-launches-monstropoly-blockchain-based-play-to-earn-game/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/26668/team-liquid-rebrands-team-gullit-as-liquid-fc",
     "https://www.invenglobal.com/articles/26667/mongil-star-dive-version-14-update-adds-isabella-and-new-region",
     "https://www.invenglobal.com/articles/26666/aion-2-tops-steams-global-top-sellers-chart-ahead-of-launch",
-    "https://www.invenglobal.com/articles/26665/fm27-confirmed-for-november-10-release-ui-overhaul-and-enhanced-match-presentation-teased"
+    "https://www.invenglobal.com/articles/26665/fm27-confirmed-for-november-10-release-ui-overhaul-and-enhanced-match-presentation-teased",
+    "https://www.invenglobal.com/articles/26664/aion-2-early-access-goes-live-on-steam-and-purple",
+    "https://www.hltv.org/news/45598/five-vrs-talking-points-a-month-before-singapore-major-invites",
+    "https://insider-gaming.com/college-football-27-patch-notes/",
+    "https://insider-gaming.com/all-roblox-fix-it-up-codes-rewards/",
+    "https://insider-gaming.com/roblox-my-dino-life-codes/",
+    "https://insider-gaming.com/ea-sports-aaa-free-to-play-game/",
+    "https://insider-gaming.com/aion-2-tops-steam-charts-ahead-of-global-release-server-issues/"
   ],
   "title_hashes": [
-    "eb876d4faee673644765c22c04ad62c3",
-    "6b64ab19be2ef1674f13f06413894c96",
-    "8ef970287870ea5fb9a53dc465096037",
-    "ac8f5b1354db4752af05dd6a980327f0",
-    "1c6253a13dcb984cc1bef1c1ac1d3047",
-    "f9b4675fbc7ee0534e2ccf81233a50a8",
-    "fffbef7d710f43ebcd3cb744091865a8",
     "af245ed9c11f6b505e22c8dec8d877b3",
     "8a985402196873bdea521f32098a1ee1",
     "55cb7cbd8bcbee95c55a518827e6e86c",
@@ -16001,7 +15994,14 @@
     "cd6d43613dc2fd81e3c511f8068a224e",
     "01f05b2c2096fed8e12760ded0b1860b",
     "c594a78c305e31f911980202d609dbc1",
-    "66373ad57333052530d25296dac40b74"
+    "66373ad57333052530d25296dac40b74",
+    "b8e2d67dd7463bb0d1b23f07814e18c1",
+    "d5392bbb0abf8259467c98f172e7190d",
+    "73ce134257fb8a0b57a081919d729ff3",
+    "4d797b2193ccce85ea033fae5cc867d1",
+    "f5073dbb4eaff5aefeef9c96cf88d846",
+    "c10381635d3c2bd4554e165710225dda",
+    "4278df12de67a43dcfd4f714a3b60652"
   ],
   "transfers": {
     "pages": {
@@ -21172,6 +21172,26 @@
     {
       "t": "10 27 confirmed enhanced flagship fm27 football launch management manager match november overhaul presentation release simulation teased title will worldwide",
       "ts": 1790798498.0336232
+    },
+    {
+      "t": "before biggest five help hltv invite invites major month points read simulation singapore some storylines talking through vrs",
+      "ts": 1790798504.1015916
+    },
+    {
+      "t": "2026 about after all appeared broken cars codes current down first fix fixing game here month post reward roadside roblox september they this",
+      "ts": 1790798507.6905062
+    },
+    {
+      "t": "2026 appeared cash codes dino first free gaming get hands insider life like monthly plenty post redeem revives rewards september these use your",
+      "ts": 1790798511.1486573
+    },
+    {
+      "t": "aaa coming confirms could free game job listing live play post release service sports unannounced which working year",
+      "ts": 1790798514.6716204
+    },
+    {
+      "t": "2 ahead aion amid before charts even game global has hit issues launch pinnacle players post racked release sellers server steam tens thousands top tops",
+      "ts": 1790798518.1800163
     }
   ]
 }
