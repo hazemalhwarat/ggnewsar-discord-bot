@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/01/12/nintendo-dominates-amazons-2021-best-seller-list/",
-    "https://thebusinessofesports.com/2022/01/12/e4-launches-show-where-uk-streamers-give-people-gaming-room-makeovers/",
-    "https://thebusinessofesports.com/2022/01/12/gamefi-apps-renewed-interest-in-blockchain-gaming/",
-    "https://thebusinessofesports.com/2022/01/11/innosilicon-presents-new-gaming-gpu/",
-    "https://thebusinessofesports.com/2022/01/11/could-gordon-ramsay-be-lining-up-a-collaboration-with-twitch/",
     "https://thebusinessofesports.com/2022/01/11/co-founder-of-the-esports-observer-stepping-down-from-role-as-ceo/",
     "https://thebusinessofesports.com/2022/01/11/big-name-personalities-attack-activision-for-the-state-of-the-call-of-duty-esports-scene/",
     "https://thebusinessofesports.com/2022/01/11/gaming-billionaire-forrest-li-sees-fortune-plunge-by-11b-since-october/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/team-vitality-reach-valorant-champions-shanghai-playoffs/",
     "https://insider-gaming.com/steam-discounts-are-becoming-more-dynamic-for-each-user/",
     "https://insider-gaming.com/crimson-desert-charting-the-unknown-dlc-delayed/",
-    "https://insider-gaming.com/asian-games-south-korea-group-stage/"
+    "https://insider-gaming.com/asian-games-south-korea-group-stage/",
+    "https://insider-gaming.com/contexto-hints-answer-for-september-30-2026/",
+    "https://esports-news.co.uk/2026/09/30/g2-shanghai-last-ride/",
+    "https://esports-news.co.uk/2026/09/30/envy-cs2-comeback-major/",
+    "https://esports-news.co.uk/2026/09/30/paper-rex-playoffs-shanghai/",
+    "https://gameriv.com/according-to-embark-37-of-players-are-actually-friendly-in-arc-raiders-and-prefers-friendly-co-op/"
   ],
   "title_hashes": [
-    "fd6930d89e3c3d2628a67951a5543079",
-    "da7c31c269f9c1d30d8e0c89645bdfd9",
-    "7160ffa3663044e74f30beff7ca69ee8",
-    "56abf1ec0083df7256307d1eab5a65ed",
-    "ead69b7d05e2572a15d314b2014b4d1a",
     "eac30491f06f0b6b5889e039e79691d7",
     "b14fca8b4d3c9b6a37e5c71ae9daadf2",
     "ffa05fa9635aa02806152bb38964dca3",
@@ -16001,7 +15996,12 @@
     "df38c7537672d7184dce834bbd2f0001",
     "2df1b8cb546f461a57f6ba71a8d4cd8d",
     "eba95076d0a65ad25092a53a22627a5a",
-    "c5178c5364a525d899bfbae22599d61e"
+    "c5178c5364a525d899bfbae22599d61e",
+    "dc948845f429631a4fc7f7efc604391e",
+    "cebfe3652d6a564aeff487fda068b799",
+    "9c09741d9e60268a9f9fe3d1547fd419",
+    "965a0032f1fcbdc1d40e7b098d5fa98f",
+    "05001b9e5e8020ba74b774385b454ec1"
   ],
   "transfers": {
     "pages": {
@@ -21088,6 +21088,26 @@
     {
       "t": "0 2026 3 action after asian conclude days faker games group its korea league legends once plays post saw south stage tournament two underway well",
       "ts": 1790781206.1693795
+    },
+    {
+      "t": "2026 30 amp answer appeared contexto first full get guess hints insider post september stuck today trying you",
+      "ts": 1790781211.3227396
+    },
+    {
+      "t": "0 2 babybay began campa campaign continue discussed g2 last over possible preparation reading ride roster run shanghai shapes team tournament tyloo uncertainty unity win",
+      "ts": 1790781215.2627907
+    },
+    {
+      "t": "2026 21st begins bid comeback continue cs2 envy major place ranking reading recent route short singapore starts tournament vrs win",
+      "ts": 1790781218.6774118
+    },
+    {
+      "t": "1 2 61 after champions comeback continue esports g2 into jinggg kills leading over paper playoffs power reading rex secured series shanghai valorant",
+      "ts": 1790781222.0466595
+    },
+    {
+      "t": "37 according actually arc brief consistently dedicated embark explain figures friendly group grown has help its launch option players prefer prefers pve raiders says since studio testing that why",
+      "ts": 1790781225.4259622
     }
   ]
 }
