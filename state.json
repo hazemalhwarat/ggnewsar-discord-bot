@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/02/04/ganymede-games-gaming-universe-inspiring-thousands/",
-    "https://thebusinessofesports.com/2022/02/04/bungie-looking-into-destiny-2-connectivity-issues/",
-    "https://thebusinessofesports.com/2022/02/04/steam-deck-plans-to-support-games-with-epics-easy-anti-cheat-software/",
-    "https://thebusinessofesports.com/2022/02/04/monumental-sports-entertainment-unveils-plans-for-esports-venue-in-washington-d-c/",
-    "https://thebusinessofesports.com/2022/02/04/electronic-arts-and-lucasfilm-games-announce-new-star-wars-titles-to-be-developed-and-produced-by-respawn-entertainment/",
     "https://thebusinessofesports.com/2022/02/04/gen-g-esports-partners-with-bithumb/",
     "https://thebusinessofesports.com/2022/02/04/valorant-community-wants-replays-for-better-competitive-gaming/",
     "https://thebusinessofesports.com/2022/02/04/fortnite-community-left-frustrated-with-games-forced-crossplay/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26619/pok%C3%A9mon-team-masters-2027-in-seoul-to-be-held-on-january-23-2027",
     "https://www.invenglobal.com/articles/26618/porsche-collab-part-2-ravens-debut-and-a-theme-park-neverness-to-everness-launches-version-14-update",
     "https://www.invenglobal.com/articles/26617/pubg-to-participate-in-global-pop-culture-festival-complexcon-2026",
-    "https://www.invenglobal.com/articles/26615/seorin-ci-launches-two-thermalright-tl-b4020-models"
+    "https://www.invenglobal.com/articles/26615/seorin-ci-launches-two-thermalright-tl-b4020-models",
+    "https://www.invenglobal.com/articles/26616/colorful-launches-cvn-x870e-ark-frozen-v14",
+    "https://www.invenglobal.com/articles/26614/psychological-mystery-visual-novel-anti-anti-to-launch-steam-demo-on-october-1",
+    "https://www.invenglobal.com/articles/26613/steam-to-end-curated-calendar-in-early-2027-introducing-personalized-recommendations",
+    "https://www.invenglobal.com/articles/26612/project-sekai-holds-memories-of-melody-festival",
+    "https://www.invenglobal.com/articles/26611/diablo-immortal-launches-todd-mcfarlane-spawn-crossover-content"
   ],
   "title_hashes": [
-    "5d7255f94c78cdaa6b3c3d83fdf261e3",
-    "1732ffc38bc8dc5b1ef0fbf3804810cd",
-    "34c37dfefcc7fb906551a94e333d783f",
-    "1dcfe2d0201f5b3d1710d9e1849afcdb",
-    "6a7a5737464d67f41d063d57a1214ffa",
     "d8711b2d7872231d78ae8298317c6559",
     "315a86d44b9b802cdaf2c36f1d1ce354",
     "2d3c1658b06c586b7e84b80b782b7d7d",
@@ -16001,7 +15996,12 @@
     "2bb4d3a3545e1112d90f8d47f62c9527",
     "79ac4796d34738ca92629bbf4221c6e4",
     "8ace282ff449fd9eabf371af4c052a93",
-    "9268004ae559a2d1b64b76235743fdb3"
+    "9268004ae559a2d1b64b76235743fdb3",
+    "cf56c76eadfb3a9deb40d48a0bcbe6ab",
+    "09646489cf10e74789d0b55e807310d7",
+    "abe901fd21a2ce042dba9263131df403",
+    "06d7f41aecbc720eb975428d47737366",
+    "4cd977b03e96c358056afb1bf6a56e07"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "amp b4020 compact cooling fan has iseorin launched launches models officially seorin series system thermalright two",
       "ts": 1790734066.5166848
+    },
+    {
+      "t": "30th ark colorful colorfulcolorful company cvn frozen hereinafter launches limited motherboard released technology themed v14 white x870e",
+      "ts": 1790734072.1866813
+    },
+    {
+      "t": "00 1 10 27 anti demo followed free inven5j6b its launch mystery novel october official psychological release steam visual will works",
+      "ts": 1790734075.7708237
+    },
+    {
+      "t": "2027 amp calendar change curated discounts early end events how introducing operates personalized recommendations section starting steam valve will",
+      "ts": 1790734079.3107033
+    },
+    {
+      "t": "colorful feat festival holds melody memories nuverseproject project sekai stage",
+      "ts": 1790734082.954725
+    },
+    {
+      "t": "blizzard collaboration content crossover diablo entertainment entertainmentblizzard events gameplay has immortal introducing launches mcfarlane new over released running spawn todd two",
+      "ts": 1790734086.6286066
     }
   ]
 }
