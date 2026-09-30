@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/01/01/belong-gaming-arenas-now-open-at-coolsprings-galleria-in-franklin-tennessee/",
-    "https://thebusinessofesports.com/2022/01/01/telltale-games-shares-end-of-the-year-update-and-2022-plans/",
-    "https://thebusinessofesports.com/2022/01/01/weekly-news-177-airport-esports-arena-japanese-esports-high-school-china-steam-ban-baidu-layoffs-play-to-earn-retirement-plan-pokemon-gaming-chair-finger-massager-fanatec-sellout-amazon-top/",
-    "https://thebusinessofesports.com/2022/01/01/episode-176-video-27-nerds-gaming-software-development-esports-team-needs-eastern-european-gaming-programmers/",
-    "https://thebusinessofesports.com/2021/12/31/evolution-championship-series-appoints-rick-thiher-as-general-manager/",
-    "https://thebusinessofesports.com/2021/12/31/the-game-awards-2021-records-record-viewership/",
-    "https://thebusinessofesports.com/2021/12/31/nft-gaming-platform-legacy-by-peter-molyneux-earns-over-54m/",
     "https://thebusinessofesports.com/2021/12/31/or-esports-names-zebronics-as-official-peripherals-partner/",
     "https://thebusinessofesports.com/2021/12/31/national-students-esports-winter-2021-university-esports-winners-announced/",
     "https://thebusinessofesports.com/2021/12/31/embracer-group-purchases-dark-horse-comics/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/26671/kt-bfx-hanjin-enter-the-fray-2026-demacia-cup-kicks-off-oct-3-who-are-their-round-1-opponents",
     "https://www.invenglobal.com/articles/26670/lineage-m-limited-weekend-special-crafting-info-for-september-week-5",
     "https://insider-gaming.com/helldivers-movie-alan-ritchson-release-date-2028/",
-    "https://insider-gaming.com/micron-posts-54-2b-revenue-as-ai-demand-surges/"
+    "https://insider-gaming.com/micron-posts-54-2b-revenue-as-ai-demand-surges/",
+    "https://insider-gaming.com/ultra-pro-wrestling-releases-promised-gameplay/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-october-1-1209/",
+    "https://insider-gaming.com/wwe-2k26-locker-codes-all-active-codes/",
+    "https://insider-gaming.com/paramount-warner-bros-merger-close-next-week/",
+    "https://insider-gaming.com/massive-entertainment-ubisoft-house-2/",
+    "https://insider-gaming.com/college-football-27-title-update-5-adds-new-ballhawk-feature/",
+    "https://www.vlr.gg/763945/enterprise-esports-allows-lime-patitek-and-iluri-to-explore-options"
   ],
   "title_hashes": [
-    "605d6425bf465350f4b66a72565a3785",
-    "f1dbdb7c7ec245c1e9c1afeb5f479094",
-    "5af9242595f58abd3be548d0470dc5be",
-    "68ebc5824955288a2c64aac5eb650a7b",
-    "37fcb06fe810b11fa13dd171cb9efb97",
-    "9d867d1bc67bc9de52492727be7ced21",
-    "75be435cd66118a7afbb3dea63dc6b76",
     "105c0e450cfe5c10501c475cacaac1cb",
     "5d311c9f727a18e82cb19bdfecb0dce6",
     "e8c57d3c8ccc21f86303a9c73d23fba3",
@@ -16001,7 +15994,14 @@
     "506a37860e459acd5520d25f9f7364f8",
     "eea9c08fe0b112cbcd507aefe5fbdff1",
     "586d8d5d533ecaac9ed5b762a6e9f0c5",
-    "2b7b8195380a6aeb415f5ef45763873a"
+    "2b7b8195380a6aeb415f5ef45763873a",
+    "67e2ebabe1a55188154925a0f7dbb294",
+    "bf942059e541b97b4d742747b5a58028",
+    "4f508142dff3acdf75aeb67e273426af",
+    "430c1a3732b083d79cc1b63059249df1",
+    "ef67a63a6e3d2a9616ed6c77072f4af1",
+    "dbe6b44c518ad3967fcfb74ad1c4c005",
+    "bce33dbdee478b581e8e0a1bae5cc2e1"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,26 @@
     {
       "t": "23 2b 380 54 about billion center data demand lifted memory micron over post posts quarterly record reported revenue sales sharply storage surges year",
       "ts": 1790811359.0011272
+    },
+    {
+      "t": "developer end game gameplay games hyperfocus last minute post pro promised released releases september ultra wrestling",
+      "ts": 1790811364.7667215
+    },
+    {
+      "t": "2026 2k26 active all available best codes extra get here locker myfaction october post rewards some way within wwe",
+      "ts": 1790811368.5097659
+    },
+    {
+      "t": "6 after appeared between bros clearing close discovery fir hurtle legal merger next october paramount post set warner week",
+      "ts": 1790811371.9826639
+    },
+    {
+      "t": "1 27 5 adds ahead all announced appeared ballhawk college details feature football has its new october platforms post release sports title update",
+      "ts": 1790811375.420528
+    },
+    {
+      "t": "allows continues enterprise esports explore iluri lime options part patitek players ways",
+      "ts": 1790811379.0538974
     }
   ]
 }
