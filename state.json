@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/02/05/plenbos-new-g-case-aims-at-making-the-nintendo-switch-more-convenient-for-gaming-on-the-go/",
-    "https://thebusinessofesports.com/2022/02/05/epic-lan-renews-partnership-with-intel-for-2022/",
-    "https://thebusinessofesports.com/2022/02/05/episode-186-gamerabble-esports-coaching-toxic-gamers-building-trust/",
-    "https://thebusinessofesports.com/2022/02/05/esports-coming-to-helena-college-along-with-a-new-mascot/",
-    "https://thebusinessofesports.com/2022/02/05/shanghai-moving-forward-with-development-of-esports-industry/",
     "https://thebusinessofesports.com/2022/02/04/ganymede-games-gaming-universe-inspiring-thousands/",
     "https://thebusinessofesports.com/2022/02/04/bungie-looking-into-destiny-2-connectivity-issues/",
     "https://thebusinessofesports.com/2022/02/04/steam-deck-plans-to-support-games-with-epics-easy-anti-cheat-software/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26623/faker-to-start-against-india",
     "https://www.invenglobal.com/articles/26625/true-damage-returns-with-faker-three-peat-theme-for-2026-lol-world-championship-anthem",
     "https://www.invenglobal.com/articles/26621/amd-launches-ryzen-ai-max-pro-400-pcs",
-    "https://www.invenglobal.com/articles/26622/metroidvania-action-adventure-well-dweller-released-achieves-overwhelmingly-positive-rating-on-steam"
+    "https://www.invenglobal.com/articles/26622/metroidvania-action-adventure-well-dweller-released-achieves-overwhelmingly-positive-rating-on-steam",
+    "https://www.invenglobal.com/articles/26620/busan-mayors-cup-brena-best-player-starts-october-10",
+    "https://www.invenglobal.com/articles/26619/pok%C3%A9mon-team-masters-2027-in-seoul-to-be-held-on-january-23-2027",
+    "https://www.invenglobal.com/articles/26618/porsche-collab-part-2-ravens-debut-and-a-theme-park-neverness-to-everness-launches-version-14-update",
+    "https://www.invenglobal.com/articles/26617/pubg-to-participate-in-global-pop-culture-festival-complexcon-2026",
+    "https://www.invenglobal.com/articles/26615/seorin-ci-launches-two-thermalright-tl-b4020-models"
   ],
   "title_hashes": [
-    "5d818740047cdd80673c5fd7e5533a07",
-    "f4efec311e3520d5343c1364463c9e71",
-    "6444b098f2c97da4010fbff208fe308b",
-    "e6e8dfc499b6184e6c229ac20f3a29c1",
-    "eb45430838c4b9015cdb78304dd18297",
     "5d7255f94c78cdaa6b3c3d83fdf261e3",
     "1732ffc38bc8dc5b1ef0fbf3804810cd",
     "34c37dfefcc7fb906551a94e333d783f",
@@ -16001,7 +15996,12 @@
     "9b0e72a9ec2e9ab04286e8c29a3b173c",
     "78ceae4f244e7bda07e8f6f74bcdf416",
     "d7f04ba39d7e29bd96d4f83fab321fd9",
-    "444f3e3bfd2ae3fcbe7abba316b1b0a8"
+    "444f3e3bfd2ae3fcbe7abba316b1b0a8",
+    "6e57bdfa4a1bdd54bc2d4e824f4ebcf3",
+    "2bb4d3a3545e1112d90f8d47f62c9527",
+    "79ac4796d34738ca92629bbf4221c6e4",
+    "8ace282ff449fd9eabf371af4c052a93",
+    "9268004ae559a2d1b64b76235743fdb3"
   ],
   "transfers": {
     "pages": {
@@ -21144,6 +21144,26 @@
     {
       "t": "22 achieves action adventure developed dweller hat kyle metroidvania officially overwhelmingly positive rating released september steam studios studiostop thompson top well",
       "ts": 1790734046.3898478
+    },
+    {
+      "t": "10 2026 7 accepting agency agencythe applications best brena busan city cup industry mayor october player promotion starts through",
+      "ts": 1790734052.1421993
+    },
+    {
+      "t": "1 2027 23 24 card company game halls held host january korea koreapokémon masters player pokémon seoul team three tournament will",
+      "ts": 1790734055.6710906
+    },
+    {
+      "t": "1 2 30th 4 collab debut everness launches mourn neverness park part perfect porsche raven released studio subsidiary theme update verses version whom world worldhotta",
+      "ts": 1790734059.2926319
+    },
+    {
+      "t": "2026 3 4 angeles collaboration complexcon culture festival first global gun held inc its kelly kraftonkrafton local los machine mgk october participate pop pubg showcase time will",
+      "ts": 1790734062.9414554
+    },
+    {
+      "t": "amp b4020 compact cooling fan has iseorin launched launches models officially seorin series system thermalright two",
+      "ts": 1790734066.5166848
     }
   ]
 }
