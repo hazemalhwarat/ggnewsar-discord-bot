@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/01/11/co-founder-of-the-esports-observer-stepping-down-from-role-as-ceo/",
-    "https://thebusinessofesports.com/2022/01/11/big-name-personalities-attack-activision-for-the-state-of-the-call-of-duty-esports-scene/",
-    "https://thebusinessofesports.com/2022/01/11/gaming-billionaire-forrest-li-sees-fortune-plunge-by-11b-since-october/",
-    "https://thebusinessofesports.com/2022/01/11/business-of-esports-weekly-news-385/",
-    "https://thebusinessofesports.com/2022/01/11/dr-disrespect-is-going-after-twitch-again/",
     "https://thebusinessofesports.com/2022/01/11/indian-gaming-market-explodes-in-2021-is-home-to-over-430-million-mobile-gamers/",
     "https://thebusinessofesports.com/2022/01/10/valorants-game-director-stepping-away-from-his-current-position/",
     "https://thebusinessofesports.com/2022/01/10/twitch-co-founder-launches-gaming-nft-marketplace-fractal/",
@@ -7999,14 +7994,14 @@
     "https://esports-news.co.uk/2026/09/30/g2-shanghai-last-ride/",
     "https://esports-news.co.uk/2026/09/30/envy-cs2-comeback-major/",
     "https://esports-news.co.uk/2026/09/30/paper-rex-playoffs-shanghai/",
-    "https://gameriv.com/according-to-embark-37-of-players-are-actually-friendly-in-arc-raiders-and-prefers-friendly-co-op/"
+    "https://gameriv.com/according-to-embark-37-of-players-are-actually-friendly-in-arc-raiders-and-prefers-friendly-co-op/",
+    "https://www.hotspawn.com/league-of-legends/news/team-liquid-spawn-caedrel-podcast",
+    "https://www.hotspawn.com/counter-strike/news/esl-pro-league-season-24-teams-to-watch",
+    "https://www.hotspawn.com/valorant/news/valorant-champions-shanghai-map-length-record",
+    "https://www.hotspawn.com/counter-strike/news/roster-radar-2",
+    "https://www.talkesport.com/news/valorant/vitality-vs-loud-valorant-champions-2026-2/"
   ],
   "title_hashes": [
-    "eac30491f06f0b6b5889e039e79691d7",
-    "b14fca8b4d3c9b6a37e5c71ae9daadf2",
-    "ffa05fa9635aa02806152bb38964dca3",
-    "56af75465f413dbffe9a9326755f9fcc",
-    "a80a985081877aaae1bca75a95bda842",
     "d461482d5e8f8030b24b73d12c5c034a",
     "2965c84efda0e3b992859acabfa9a93f",
     "763502161e96713938bf5cf581567a71",
@@ -16001,7 +15996,12 @@
     "cebfe3652d6a564aeff487fda068b799",
     "9c09741d9e60268a9f9fe3d1547fd419",
     "965a0032f1fcbdc1d40e7b098d5fa98f",
-    "05001b9e5e8020ba74b774385b454ec1"
+    "05001b9e5e8020ba74b774385b454ec1",
+    "2471d69a5b2df1373831087e0a516a36",
+    "703edca56414e10d9f9da8a3bf5edd70",
+    "dbfebdf997635c0b1a609e876aaafb99",
+    "dd9ee88c3b6cd7ef09b1815f3919468f",
+    "6aa78ab8e71063587512b0774f315b57"
   ],
   "transfers": {
     "pages": {
@@ -21108,6 +21108,26 @@
     {
       "t": "37 according actually arc brief consistently dedicated embark explain figures friendly group grown has help its launch option players prefer prefers pve raiders says since studio testing that why",
       "ts": 1790781225.4259622
+    },
+    {
+      "t": "2026 8220 8221 believes better caedrel coach compete episode head jake lamont latest liquid marc position rise spawn speaking team teams this tiberi west western why worlds year",
+      "ts": 1790781230.6309288
+    },
+    {
+      "t": "16 24 all best bringing but charge created cs2 each equal esl feature lead league more not own pro season server some spirit style teams their undoubtedly unique very watch will world",
+      "ts": 1790781234.033422
+    },
+    {
+      "t": "12 19 between champions closed equals event eventually ever global group has longest loud map marathon matched overtime record round second shanghai stage team valorant vct vitality",
+      "ts": 1790781237.3824804
+    },
+    {
+      "t": "2 8217 asian been comes cs2 desperate enter envy feels game largely major making news only plunge pretty quiet radar roster run settled taking teams though two weeks when",
+      "ts": 1790781240.7460709
+    },
+    {
+      "t": "0 13 2 2026 7 ascent before champions defeated group loud match six surviving sweep team valorant vitality winner won",
+      "ts": 1790781244.1343136
     }
   ]
 }
