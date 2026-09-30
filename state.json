@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/01/11/indian-gaming-market-explodes-in-2021-is-home-to-over-430-million-mobile-gamers/",
-    "https://thebusinessofesports.com/2022/01/10/valorants-game-director-stepping-away-from-his-current-position/",
-    "https://thebusinessofesports.com/2022/01/10/twitch-co-founder-launches-gaming-nft-marketplace-fractal/",
-    "https://thebusinessofesports.com/2022/01/10/remedy-entertainment-signs-deal-with-tencent-for-its-first-games-as-a-service-title/",
-    "https://thebusinessofesports.com/2022/01/10/virtus-pro-claims-it-turned-a-profit-in-2021/",
     "https://thebusinessofesports.com/2022/01/10/roundhill-bitkraft-esports-and-digital-entertainment-shares-fall-at-close-of-2021/",
     "https://thebusinessofesports.com/2022/01/10/ludwig-loses-challenge-and-bet-is-forced-to-become-a-vtuber-for-a-day/",
     "https://thebusinessofesports.com/2022/01/10/ohio-esports-partners-with-connect-e-sports/",
@@ -7999,14 +7994,14 @@
     "https://www.hotspawn.com/counter-strike/news/esl-pro-league-season-24-teams-to-watch",
     "https://www.hotspawn.com/valorant/news/valorant-champions-shanghai-map-length-record",
     "https://www.hotspawn.com/counter-strike/news/roster-radar-2",
-    "https://www.talkesport.com/news/valorant/vitality-vs-loud-valorant-champions-2026-2/"
+    "https://www.talkesport.com/news/valorant/vitality-vs-loud-valorant-champions-2026-2/",
+    "https://www.talkesport.com/news/steam-discounts-personalized-algorithm-2027/",
+    "https://www.talkesport.com/news/bmsd-2026-grand-finals-semi-finals-and-survival-stage-teams-confirmed/",
+    "https://www.talkesport.com/news/lol/india-league-of-legends-asian-games-2026/",
+    "https://www.talkesport.com/news/discord-nitro-valorant-lol-credits/",
+    "https://www.talkesport.com/news/deadlock-new-player-peak-228k-major-update/"
   ],
   "title_hashes": [
-    "d461482d5e8f8030b24b73d12c5c034a",
-    "2965c84efda0e3b992859acabfa9a93f",
-    "763502161e96713938bf5cf581567a71",
-    "d370e675eebbccacc997a38c8588b1b3",
-    "3b594df8e3dcc4d05cb98220f165c4e0",
     "cc79ad7d7b7d865a368880d88fcbd362",
     "6423b0e244a980b41a9d401c258e2969",
     "856baf118372597bf00180fd0ea25735",
@@ -16001,7 +15996,12 @@
     "703edca56414e10d9f9da8a3bf5edd70",
     "dbfebdf997635c0b1a609e876aaafb99",
     "dd9ee88c3b6cd7ef09b1815f3919468f",
-    "6aa78ab8e71063587512b0774f315b57"
+    "6aa78ab8e71063587512b0774f315b57",
+    "678681edb7c6cffe4747bf336fe812c4",
+    "8bea63dd9140a801b3d3ed05dcd07d1d",
+    "e0798e2fe30fd87116b01b7a048e2fad",
+    "02e5cceb7fdfb497be94d8edcaf48315",
+    "6a615dc81af463f2bb6704f695c7d785"
   ],
   "transfers": {
     "pages": {
@@ -21128,6 +21128,26 @@
     {
       "t": "0 13 2 2026 7 ascent before champions defeated group loud match six surviving sweep team valorant vitality winner won",
       "ts": 1790781244.1343136
+    },
+    {
+      "t": "2027 38 algorithm changing discounts displayed driven early events how its making more moving personalized post recommendations sale section steam toward valve",
+      "ts": 1790781249.461167
+    },
+    {
+      "t": "2026 3 48 after all bgmi bmsd competition completed concluded confirmed deciding finals grand group have invited now officially positions qualifiers semi showdown stage survival teams their three week weeks",
+      "ts": 1790781252.9754846
+    },
+    {
+      "t": "2026 after asian campaign consecutive eliminated ended failed games group has india league legends losses playoffs post reach suffered team three",
+      "ts": 1790781256.5176988
+    },
+    {
+      "t": "10 could credits discord free games give league leak leaks legends lol new nitro partnering partnership post potential receive riot subscribers suggests through valorant worth",
+      "ts": 1790781259.957509
+    },
+    {
+      "t": "228k after all changing city concurrent deadlock following game has hero its launch major moba never new peak player post reached record sets shooter sleeps time update valve",
+      "ts": 1790781263.320831
     }
   ]
 }
