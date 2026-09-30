@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/01/27/epic-esports-to-host-dota-2-champions-league-season-7/",
-    "https://thebusinessofesports.com/2022/01/27/lbank-exchange-lists-battle-esports-coin/",
-    "https://thebusinessofesports.com/2022/01/27/mythical-games-acquires-polystream/",
-    "https://thebusinessofesports.com/2022/01/27/changes-coming-to-humble-bundle-on-february-1st/",
-    "https://thebusinessofesports.com/2022/01/27/several-years-later-skyrim-modders-are-now-developing-their-own-games/",
-    "https://thebusinessofesports.com/2022/01/27/two-new-mario-games-could-be-coming-soon/",
     "https://thebusinessofesports.com/2022/01/27/fortnite-to-return-to-iphones-courtesy-of-nvidias-gaming-loophole/",
     "https://thebusinessofesports.com/2022/01/27/james-camerons-avatar-to-become-a-mobile-mmo-first-person-shooting-game/",
     "https://thebusinessofesports.com/2022/01/27/prima-games-acquired-by-gamurs-group/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26650/keria-do-i-look-tired-its-because-my-hair-is-long",
     "https://www.invenglobal.com/articles/26649/chaos-zero-nightmare-unveils-season-5-a-promise-upon-the-snow-prologue",
     "https://www.invenglobal.com/articles/26648/zeka-first-asian-games-match-i-trusted-my-teammates-and-played-comfortably",
-    "https://www.invenglobal.com/articles/26647/top-players-picks-analyzing-team-compositions-for-solo-raid-liberelio-body"
+    "https://www.invenglobal.com/articles/26647/top-players-picks-analyzing-team-compositions-for-solo-raid-liberelio-body",
+    "https://www.invenglobal.com/articles/26646/head-coach-kang-dong-hoon-faker-or-zeka-well-win-no-matter-who-plays",
+    "https://www.invenglobal.com/articles/26645/month-long-buff-cubes-legacy-of-aden-legacy-of-pride",
+    "https://www.invenglobal.com/articles/26644/nexus-signs-mou-with-ai-based-stablecoin-digital-financial-platform-fasset",
+    "https://www.invenglobal.com/articles/26643/south-korea-lol-defeats-hong-kong-to-go-3-0-advances-to-semifinals-as-group-b-winner",
+    "https://www.invenglobal.com/articles/26642/com2us-platform-launches-ai-backend-hive-axyl",
+    "https://www.invenglobal.com/articles/26641/satisfactory-the-100k-concurrent-player-sensation-unveils-first-expansion-core-values"
   ],
   "title_hashes": [
-    "24a220cefed3c8a7ca80de75764ae24f",
-    "0e927d67ea54d2de222b60290848f4af",
-    "3fe9cc92bf5d7a33bddee184136a8cc1",
-    "3135f99e785e755588bec5b668d9606e",
-    "0ba250d17c95e6bdb39d330058b587f7",
-    "406ab024385c791c6602b280d0b5dd84",
     "6e1bcfdb2f1e6dff1f53959849703e34",
     "cb2476b1bca9587f48a08a4fb0239dfb",
     "1bee3425accebc055fa7e879158f8007",
@@ -16001,7 +15995,13 @@
     "7c959769db263af6f52c702ece6db6f5",
     "ad28bc57357a9485ffb8a8975c97c33d",
     "97dd4567ad9a1c9d00b11b005341afe1",
-    "cf7da2822649633bdf3cfab64b7ae997"
+    "cf7da2822649633bdf3cfab64b7ae997",
+    "57f1de4a06bfafcb54a64a4e98c5f36a",
+    "7436f942d5ea836cb84f1bb2527d8286",
+    "f7d0332766e3d57f392d03f083fcfb75",
+    "195f00ee2d33d62aa2e1d0b72a3d0783",
+    "83b12c6c59f348e6a0a61efa8f631a22",
+    "bafac76ec0763f16f0b9b04b4822f750"
   ],
   "transfers": {
     "pages": {
@@ -21068,6 +21068,26 @@
     {
       "t": "50 analyzing body compositions did goddess high liberelio nikke nikkes picks players raid serverwhich setups solo team top victory",
       "ts": 1790757112.011179
+    },
+    {
+      "t": "associationhead better coach dong evaluated faker group head hoon kang korea korean league legends matter national performance plays south sports stage stating team than their things went who win zeka",
+      "ts": 1790757117.643719
+    },
+    {
+      "t": "announc based ceo chang digital dubai expand fasset finance financial firm global henry infrastructure its mou nexus nexusnexus partnering payment platform settlement signs stablecoin stablecoins using",
+      "ts": 1790757121.1256294
+    },
+    {
+      "t": "0 2026 3 30th advances aichi asian associationsouth defeated defeats event expo games group held hong kong korea league legends lol match nagoya semifinals sky south sports their third winner",
+      "ts": 1790757124.530466
+    },
+    {
+      "t": "30 axyl backend code com2us game hive integration language launched launches natural platform platformcom2us prompts response september where writes",
+      "ts": 1790757128.1150787
+    },
+    {
+      "t": "0 1 100k 2024 building concurrent core expansion factory first full game its official open person pioneers player reaffirmed release satisfactory sensation september steadfast support that unveils upon values version world worldwide",
+      "ts": 1790757131.4957964
     }
   ]
 }
