@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/01/28/ydragon-and-chain-games-agree-to-partnership/",
-    "https://thebusinessofesports.com/2022/01/28/collegiate-rocket-league-expanding-into-europe/",
-    "https://thebusinessofesports.com/2022/01/27/g2-esports-joins-forces-with-metaplex-for-new-nft-project/",
-    "https://thebusinessofesports.com/2022/01/27/details-announced-for-2022-blast-premier-csgo-tournament/",
-    "https://thebusinessofesports.com/2022/01/27/fan-displeasure-leads-to-segas-cautious-approach-towards-nfts/",
     "https://thebusinessofesports.com/2022/01/27/epic-esports-to-host-dota-2-champions-league-season-7/",
     "https://thebusinessofesports.com/2022/01/27/lbank-exchange-lists-battle-esports-coin/",
     "https://thebusinessofesports.com/2022/01/27/mythical-games-acquires-polystream/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26655/canyon-representing-my-country-i-want-to-share-the-joy-with-our-people",
     "https://www.invenglobal.com/articles/26654/gumayusi-condition-in-group-stage-was-80-will-be-100-from-semifinals",
     "https://www.invenglobal.com/articles/26653/bubble-bobble-4-friends-switch-2-edition-launches-february-25-2027",
-    "https://www.invenglobal.com/articles/26652/at-his-third-asian-games-faker-grows-more-seasoned-in-preparation"
+    "https://www.invenglobal.com/articles/26652/at-his-third-asian-games-faker-grows-more-seasoned-in-preparation",
+    "https://www.invenglobal.com/articles/26651/wemade-union-established-demands-relief-from-job-insecurity-fair-distribution",
+    "https://www.invenglobal.com/articles/26650/keria-do-i-look-tired-its-because-my-hair-is-long",
+    "https://www.invenglobal.com/articles/26649/chaos-zero-nightmare-unveils-season-5-a-promise-upon-the-snow-prologue",
+    "https://www.invenglobal.com/articles/26648/zeka-first-asian-games-match-i-trusted-my-teammates-and-played-comfortably",
+    "https://www.invenglobal.com/articles/26647/top-players-picks-analyzing-team-compositions-for-solo-raid-liberelio-body"
   ],
   "title_hashes": [
-    "65f951305bb955ec6754799d68a48b69",
-    "89785070d9298a8b98c322f5f8fad36e",
-    "7461f2b1f487e8efd4c5c014218259aa",
-    "a971525e0408ee0378d7f44e36b21633",
-    "dc9b11a0f3316db5518851110d7937b5",
     "24a220cefed3c8a7ca80de75764ae24f",
     "0e927d67ea54d2de222b60290848f4af",
     "3fe9cc92bf5d7a33bddee184136a8cc1",
@@ -16001,7 +15996,12 @@
     "11a23035d14785334bd8eca691c71a19",
     "35db93229e508418e07306ce104ca2e8",
     "fab6e67cbbf1b803b61d1ffd8d3ba998",
-    "b241b571605e33b0bedd5e7539a614c8"
+    "b241b571605e33b0bedd5e7539a614c8",
+    "8cae86c3e386b838f50aa15d8194bc39",
+    "7c959769db263af6f52c702ece6db6f5",
+    "ad28bc57357a9485ffb8a8975c97c33d",
+    "97dd4567ad9a1c9d00b11b005341afe1",
+    "cf7da2822649633bdf3cfab64b7ae997"
   ],
   "transfers": {
     "pages": {
@@ -21048,6 +21048,26 @@
     {
       "t": "approach asian associationeven competing faker focus games gets grows his hyeok korea lee more nervous preparation pressure process rather result sang seasoned sports than third under win",
       "ts": 1790757091.4494276
+    },
+    {
+      "t": "affiliated cha confederation demanding demands distribution established fair has insecurity job kctu korean labor launched officially relief resolution stemming trade union unions wemade wemadea",
+      "ts": 1790757097.315277
+    },
+    {
+      "t": "again because determination expressed following gold hair hangzhou his keria kesparyu korea league legends long look medal min national once seok south support team their tired undefeated victory win",
+      "ts": 1790757100.8361275
+    },
+    {
+      "t": "30 5 announced chaos czn dark developed fantasy has nightmare prologue promise released roguelike rpg season september smilegatesmilegate snow story supercreative that unveils upon wednesday zero",
+      "ts": 1790757105.1377409
+    },
+    {
+      "t": "asian associationcompeting comfortably first games geon his kim korea major match nerves overcame performing played shared sports stage such teammates that through trust trusted woo zeka",
+      "ts": 1790757108.527272
+    },
+    {
+      "t": "50 analyzing body compositions did goddess high liberelio nikke nikkes picks players raid serverwhich setups solo team top victory",
+      "ts": 1790757112.011179
     }
   ]
 }
