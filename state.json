@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/01/25/dr-disrespect-says-i-dont-drive-mercedes/",
-    "https://thebusinessofesports.com/2022/01/25/pllay-labs-and-hashcube-gaming-partner-to-bring-esports-competitions-to-20-million-users/",
-    "https://thebusinessofesports.com/2022/01/25/gaming-community-startup-turnip-raises-12-5m-in-series-a-funding-round/",
-    "https://thebusinessofesports.com/2022/01/25/first-all-intel-nuc-alder-county-gaming-laptop-kit-launching-in-q2-2022/",
-    "https://thebusinessofesports.com/2022/01/25/beenext-leads-2-6m-seed-round-for-vcgamers/",
     "https://thebusinessofesports.com/2022/01/25/can-the-ayaneo-next-be-a-competitor-to-the-steam-deck/",
     "https://thebusinessofesports.com/2022/01/13/nintendo-reveals-2021s-best-selling-indie-games-on-switch/",
     "https://thebusinessofesports.com/2022/01/13/tom-hearne-appointed-new-ceo-of-tiidal-gaming/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26635/from-smooth-performance-to-anti-cheat-call-of-duty-modern-warfare-4-pc-tech-trailer-released",
     "https://www.invenglobal.com/articles/26634/tower-of-god-new-world-adds-noble-swordsman-white",
     "https://www.invenglobal.com/articles/26633/south-korea-eliminated-in-identity-v-quarterfinals-by-china",
-    "https://www.invenglobal.com/articles/26632/south-korea-lol-team-starts-zeka-against-hong-kong"
+    "https://www.invenglobal.com/articles/26632/south-korea-lol-team-starts-zeka-against-hong-kong",
+    "https://www.invenglobal.com/articles/26631/buying-gear-is-far-cheaper-than-expected-costs-clear-autumn-challenge-event-arrives-in-lineage-classic",
+    "https://www.invenglobal.com/articles/26630/lineage-w-applies-mana-striker-class-care",
+    "https://www.invenglobal.com/articles/26629/south-korea-starts-faker-defeats-india-in-19-minutes-for-2nd-straight-win",
+    "https://www.invenglobal.com/articles/26628/vietnam-lol-team-tops-group-a-undefeated-at-3-0",
+    "https://www.invenglobal.com/articles/26627/eclipse-updates-co-op-battle-a-dungeon-for-up-to-5-player-parties"
   ],
   "title_hashes": [
-    "5a779ed047508ed41cd7995d04512784",
-    "62179735cdd679836d7f38e59cf46be0",
-    "194201f4332762a603cff1080f168c52",
-    "0aaca03f029cb82afa5acf8daa11d5ab",
-    "a62a0223145de231b70a79f5c1575920",
     "743984aaff1c0534e4c2ed42d47a1e69",
     "4b9e3104d0c64e035f6ffa012b8fedc9",
     "a5455dc29cde3c0bc13fbd885680e46b",
@@ -16001,7 +15996,12 @@
     "15e40a89242e4b5b31bea7b034386f47",
     "b46b4944030408d2261d3b3967d1a103",
     "a6c5b5e3ccc54c2dec2fe460106f5fe3",
-    "3d94e5a19f7475325dae517ee46814a7"
+    "3d94e5a19f7475325dae517ee46814a7",
+    "123b303f0b568d59ec77165746bcd27c",
+    "523bb6ee070dcbc0e973a967dd2e2746",
+    "66fcdfed1e2736cbe1eb2cb8e443a4e1",
+    "e8f4ea6234af0c9b19c07ce21c0b0ed1",
+    "d85bb3aa04a2199fcf7d8ea31deb29dd"
   ],
   "transfers": {
     "pages": {
@@ -21008,6 +21008,26 @@
     {
       "t": "2026 against aichi asian association games geon group hong kim kong korea korean league legends lol match nagoya nati south sports stage start starts team will woo zeka",
       "ts": 1790781126.9508698
+    },
+    {
+      "t": "arrives autumn buying challenge cheaper classic clear costs enchantment event expected far gear lineage new than underway",
+      "ts": 1790781132.3345356
+    },
+    {
+      "t": "30 applies care class conducted lineage mana ncsoft september striker update wednesday",
+      "ts": 1790781135.7177675
+    },
+    {
+      "t": "19 2026 2nd against aichi asian associationsouth decisive defeats esports faker games group held india korea league legends match minutes nagoya second secured south sports stage starts straight their victory win",
+      "ts": 1790781139.249539
+    },
+    {
+      "t": "0 3 asian associationvietnam first games group hurdle korea lol passed perfect sports team tops undefeated vietnam",
+      "ts": 1790781142.615602
+    },
+    {
+      "t": "4 5 added along battle dungeon eclipse has improvements instance new parties party player players smilegatesmilegate system updates various",
+      "ts": 1790781146.043209
     }
   ]
 }
