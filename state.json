@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/01/10/asus-debuts-rog-flow-z-series-at-ces-2022/",
-    "https://thebusinessofesports.com/2022/01/10/paris-hilton-invites-cardi-b-to-join-her-roblox-venture/",
-    "https://thebusinessofesports.com/2022/01/10/the-five-most-viewed-reddit-communities-of-2021-were-gaming-focused/",
-    "https://thebusinessofesports.com/2022/01/10/apple-and-meta-competing-for-talent-and-fitness-tech/",
-    "https://thebusinessofesports.com/2022/01/10/former-sony-ceo-launches-225m-gaming-spac/",
-    "https://thebusinessofesports.com/2022/01/10/galaxy-racer-joins-forces-with-elaliga-santander/",
     "https://thebusinessofesports.com/2022/01/10/china-wants-to-improve-copyright-protections-for-livestreaming-e-commerce-and-sports/",
     "https://thebusinessofesports.com/2022/01/10/lenovo-legion-y700-gaming-tablet-announced/",
     "https://thebusinessofesports.com/2022/01/10/turkey-holds-esports-business-the-countrys-biggest-esports-summit/",
@@ -7999,15 +7993,15 @@
     "https://www.nerfplz.com/2026/10/does-muting-everyone-actually-help-you.html",
     "https://www.nerfplz.com/2026/09/weird-pick-170-bot-lane-heimerdinger.html",
     "https://www.gamesindustry.biz/grasshopper-manufacture-becomes-independent-as-it-splits-from-netease-games",
-    "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-1-what-is-a-studio"
+    "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-1-what-is-a-studio",
+    "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+    "https://www.gamesindustry.biz/dune-awakenings-creative-director-on-copying-hollywood-in-game-advertising-and-why-style-beats-photorealism",
+    "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
+    "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZm9GV0pmODhFV2dTdjdESE1aZ2wwQTdVb2VUVW9qVkk1WHB2VllKWFJvRXlTWFJSeWJtWWRIcWlIcjU3Y2QtbmVuNXdZX20teU9VcWxrdDVwR2J6RzBjNFdkbmVVa3lyODdrV1pFT0VwYkNhd3F2eTVOVzBSWFZMQWVSVjBhZ2NISEVkMktqSng3OEEwVGtOM0tjTTcyM3BYRFMzNjdKRQ?oc=5",
+    "https://europeangaming.eu/portal/most-popular-slots-europe/"
   ],
   "title_hashes": [
-    "f7a22f63fdb07f0da9bd98e022819c13",
-    "4dbcb59dc1a2cb186df0b1a9783915e1",
-    "af75ec7244510c6d52d5641c04963ee7",
-    "1614fc2d9088e45112a84a0498ceca84",
-    "d7f30a50099b863d464e50d0757dcffb",
-    "640c9497c7406eb7912e98a6ab8bdd14",
     "c4569c5a6c610f2d550a4908991cd2df",
     "576c00dd37f7bc0f595bc6c4255087fa",
     "60bc0299c7eaae20e14a80bcf179826d",
@@ -16001,7 +15995,13 @@
     "096f7758876d4c0b6b586f5e58b38712",
     "8adb34220c37fafbd495912abf7606d3",
     "b5bc50a79718a8c92c08e2a3f258135f",
-    "5bdea6d27e4459a570a811df152e615f"
+    "5bdea6d27e4459a570a811df152e615f",
+    "f719d30509f6ec42a2a40948d809c2a5",
+    "5c0de5916f67a3481cf4ccc59b248073",
+    "b4d6bfb22ed50f7aa09052f38e0f2d5b",
+    "327ee0462516040d59476f29a3038d80",
+    "8ccf96171696fd321acb880649745a72",
+    "6e8ed3929de745d36d850fcf8dd943b6"
   ],
   "transfers": {
     "pages": {
@@ -21168,6 +21168,26 @@
     {
       "t": "1 forgiven founder game games going hard how indie making manage most not odds one only part put release run runaway studio studios success then they what when you",
       "ts": 1790781282.4026957
+    },
+    {
+      "t": "2012 400 400m according acquired almost but ceo deal failure fell following former founder mark million more omgpop pincus read reportedly supercell through zynga",
+      "ts": 1790781287.8171597
+    },
+    {
+      "t": "about advertising awakening bad based beats big copying creative director dune fun game get hobnob hollywood jira making more movie news photorealism property read royalty style that thing through why you",
+      "ts": 1790781291.2146592
+    },
+    {
+      "t": "added addition bithell developers game games has horizons host housemarque its join lineup new nintendo open original publishers rea representatives republic session speaker story",
+      "ts": 1790781294.6688597
+    },
+    {
+      "t": "based become calendar discount discoverability dynamic events improve listings manual more personalised read section shifting steam system updating valve",
+      "ts": 1790781298.043315
+    },
+    {
+      "t": "8230 across appeared appearing blask can country data each europe european games interest lead markets most popular post shows six slot slots some that vary which widely",
+      "ts": 1790781301.5867991
     }
   ]
 }
