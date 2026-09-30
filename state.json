@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/01/27/fortnite-to-return-to-iphones-courtesy-of-nvidias-gaming-loophole/",
-    "https://thebusinessofesports.com/2022/01/27/james-camerons-avatar-to-become-a-mobile-mmo-first-person-shooting-game/",
-    "https://thebusinessofesports.com/2022/01/27/prima-games-acquired-by-gamurs-group/",
-    "https://thebusinessofesports.com/2022/01/27/blizzard-unveils-world-of-warcraft-esports-plans-for-2022/",
-    "https://thebusinessofesports.com/2022/01/27/codemiko-joins-envy-gamings-creator-network/",
     "https://thebusinessofesports.com/2022/01/27/riot-donating-over-2m-to-underserved-los-angeles-communities/",
     "https://thebusinessofesports.com/2022/01/27/loud-evo-esports-and-nrg-top-list-of-tiktoks-most-viewed-organizations-in-2021/",
     "https://thebusinessofesports.com/2022/01/27/consumer-spending-on-u-s-games-hit-60-4b-in-2021/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26644/nexus-signs-mou-with-ai-based-stablecoin-digital-financial-platform-fasset",
     "https://www.invenglobal.com/articles/26643/south-korea-lol-defeats-hong-kong-to-go-3-0-advances-to-semifinals-as-group-b-winner",
     "https://www.invenglobal.com/articles/26642/com2us-platform-launches-ai-backend-hive-axyl",
-    "https://www.invenglobal.com/articles/26641/satisfactory-the-100k-concurrent-player-sensation-unveils-first-expansion-core-values"
+    "https://www.invenglobal.com/articles/26641/satisfactory-the-100k-concurrent-player-sensation-unveils-first-expansion-core-values",
+    "https://www.invenglobal.com/articles/26640/from-12-player-multiplayer-to-rally-how-teardown-is-expanding-the-joy-of-destruction",
+    "https://www.invenglobal.com/articles/26639/monster-tamer-star-dive-adds-episode-7-and-new-character-isabella-ahead-of-half-anniversary",
+    "https://www.invenglobal.com/articles/26638/odin-valhalla-rising-rolls-out-class-balance-care-update",
+    "https://www.invenglobal.com/articles/26637/hunting-zone-nine-adjustments-and-equipment-collections-added-sept-30-patch-summary",
+    "https://www.invenglobal.com/articles/26636/sd-gundam-g-generation-eternal-marks-15th-anniversary-with-mobile-suit-victory-gundam-update"
   ],
   "title_hashes": [
-    "6e1bcfdb2f1e6dff1f53959849703e34",
-    "cb2476b1bca9587f48a08a4fb0239dfb",
-    "1bee3425accebc055fa7e879158f8007",
-    "8cc7f06cf963d8f5275e9c6b46089ec1",
-    "ee131267173cf575e16b2af814ed47c9",
     "1d23471b453c586efd996a2db62d0e3b",
     "300f3e1116cd178fab34c12c4352033f",
     "b7642ef5505c58ca2cca158f04122311",
@@ -16001,7 +15996,12 @@
     "f7d0332766e3d57f392d03f083fcfb75",
     "195f00ee2d33d62aa2e1d0b72a3d0783",
     "83b12c6c59f348e6a0a61efa8f631a22",
-    "bafac76ec0763f16f0b9b04b4822f750"
+    "bafac76ec0763f16f0b9b04b4822f750",
+    "61fe05c1bd40164c401836883f93f91c",
+    "04ba7cd37fe94a8f01a9f22ceabf727b",
+    "c1b7959599098c392a39779812975c14",
+    "f1021c981f153c247e642098ac273398",
+    "6ebe6c751d3747057987852997ddd82f"
   ],
   "transfers": {
     "pages": {
@@ -21088,6 +21088,26 @@
     {
       "t": "0 1 100k 2024 building concurrent core expansion factory first full game its official open person pioneers player reaffirmed release satisfactory sensation september steadfast support that unveils upon values version world worldwide",
       "ts": 1790757131.4957964
+    },
+    {
+      "t": "100 12 action allowing built cube destruction entire environment expanding experience game how joy making map multiplayer nearly player players rally sandbox shaped teardown voxels where",
+      "ts": 1790757137.0666132
+    },
+    {
+      "t": "1 30 4 7 adds ahead anniversary announced byung ceo character dive episode gyu half has isabella kim launched major monster netmarblenetmarble new september star tamer that update version",
+      "ts": 1790757140.4499424
+    },
+    {
+      "t": "30 announced balance blockbuster care ceos class comprehensive games gameson has hwan implemented kakao kim lee mmorpg odin out rising rolls september tae that update valhalla woo",
+      "ts": 1790757143.8138986
+    },
+    {
+      "t": "30 added adjusted adjustments calteon certain collections difficulty enchant equipment grounds hunting nine patch region rewards sept september sol summary through update wednesday zone",
+      "ts": 1790757147.3322668
+    },
+    {
+      "t": "1 5th added anniversary bandai entertainment entertainmentbandai eternal game generation gundam has holding main marks mobile namco new stage suit update victory",
+      "ts": 1790757150.6724436
     }
   ]
 }
