@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/02/04/gen-g-esports-partners-with-bithumb/",
-    "https://thebusinessofesports.com/2022/02/04/valorant-community-wants-replays-for-better-competitive-gaming/",
-    "https://thebusinessofesports.com/2022/02/04/fortnite-community-left-frustrated-with-games-forced-crossplay/",
-    "https://thebusinessofesports.com/2022/02/03/esports-owners-executives-react-to-microsofts-activision-blizzard-deal/",
-    "https://thebusinessofesports.com/2022/02/03/belong-gaming-arena-opening-soon-at-streets-of-woodfield/",
     "https://thebusinessofesports.com/2022/02/03/team-liquid-acquires-world-of-warcraft-guild/",
     "https://thebusinessofesports.com/2022/02/03/godlike-esports-signs-streaming-deal-with-loco/",
     "https://thebusinessofesports.com/2022/02/03/colizeum-closes-8-4m-funding-round/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26614/psychological-mystery-visual-novel-anti-anti-to-launch-steam-demo-on-october-1",
     "https://www.invenglobal.com/articles/26613/steam-to-end-curated-calendar-in-early-2027-introducing-personalized-recommendations",
     "https://www.invenglobal.com/articles/26612/project-sekai-holds-memories-of-melody-festival",
-    "https://www.invenglobal.com/articles/26611/diablo-immortal-launches-todd-mcfarlane-spawn-crossover-content"
+    "https://www.invenglobal.com/articles/26611/diablo-immortal-launches-todd-mcfarlane-spawn-crossover-content",
+    "https://www.invenglobal.com/articles/26610/nexus-signs-mou-with-the-tie-to-strengthen-one-store-ecosystem",
+    "https://www.invenglobal.com/articles/26609/neowiz-releases-first-official-artbook-for-djmax-respect-v",
+    "https://www.invenglobal.com/articles/26607/the-witcher-3-wild-hunt-remastered-officially-released",
+    "https://www.invenglobal.com/articles/26608/raising-sephiruth-pre-registration-opens-three-class-co-op-unveiled",
+    "https://www.invenglobal.com/articles/26606/pre-orders-open-for-two-player-board-game-the-lord-of-the-rings-the-confrontation-through-october-25"
   ],
   "title_hashes": [
-    "d8711b2d7872231d78ae8298317c6559",
-    "315a86d44b9b802cdaf2c36f1d1ce354",
-    "2d3c1658b06c586b7e84b80b782b7d7d",
-    "853a8ef4e4eef6f4eb822c3b34b4bbc7",
-    "55942df86b5bc84527e1de8cf726f458",
     "a6e95f13f1e64e9b943943528d59b861",
     "900c02b0a5570453e236040dfd293a34",
     "d23213d779eca6ed6eda6a4b92ba5ae5",
@@ -16001,7 +15996,12 @@
     "09646489cf10e74789d0b55e807310d7",
     "abe901fd21a2ce042dba9263131df403",
     "06d7f41aecbc720eb975428d47737366",
-    "4cd977b03e96c358056afb1bf6a56e07"
+    "4cd977b03e96c358056afb1bf6a56e07",
+    "7d786869c78263d7c6965a3517978337",
+    "060e9c40c166567a638baddc8169499e",
+    "959720b3f44d2c31bd89f5b439f0b874",
+    "e889b28c883669391ccf1f232c8a2c99",
+    "d8c99ce5bbe2148dfef70f1a1136329e"
   ],
   "transfers": {
     "pages": {
@@ -21184,6 +21184,26 @@
     {
       "t": "blizzard collaboration content crossover diablo entertainment entertainmentblizzard events gameplay has immortal introducing launches mcfarlane new over released running spawn todd two",
       "ts": 1790734086.6286066
+    },
+    {
+      "t": "30th announced asset based digital ecosys ecosystem has institutions memorandum mou nexus nexusnexus one provider signed signs solutions store strengthen that tie understanding",
+      "ts": 1790734092.2254157
+    },
+    {
+      "t": "artbook djmax first flagship game its neowiz neowizneowiz official releases releasing respect rhythm three",
+      "ts": 1790734095.8466742
+    },
+    {
+      "t": "3 65 copies has hunt million modernized officially over projekt red redcd released remastered sold version which wild witcher worldwide",
+      "ts": 1790734100.9389699
+    },
+    {
+      "t": "class dream has idea its mobile opened opens pre raising registration rpg sephiruth soft softdream three unveiled",
+      "ts": 1790734104.654632
+    },
+    {
+      "t": "2025 25 board boardgames boardgameskorea confrontation crowdfunding edition game introducing korea korean lord october open orders player pre rings through two version",
+      "ts": 1790734108.3762414
     }
   ]
 }
