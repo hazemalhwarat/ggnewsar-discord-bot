@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2022/01/25/can-the-ayaneo-next-be-a-competitor-to-the-steam-deck/",
-    "https://thebusinessofesports.com/2022/01/13/nintendo-reveals-2021s-best-selling-indie-games-on-switch/",
-    "https://thebusinessofesports.com/2022/01/13/tom-hearne-appointed-new-ceo-of-tiidal-gaming/",
-    "https://thebusinessofesports.com/2022/01/13/team-vitality-receives-56m-investment-announces-csgo-roster-signings/",
-    "https://thebusinessofesports.com/2022/01/13/samsung-announces-plans-to-create-gaming-hub-cloud-platform-for-tvs/",
     "https://thebusinessofesports.com/2022/01/13/former-activision-blizzard-developer-accused-of-making-transphobic-comments-in-right-wing-discord-server/",
     "https://thebusinessofesports.com/2022/01/13/meta-reportedly-halts-efforts-to-build-ar-vr-headset-os/",
     "https://thebusinessofesports.com/2022/01/13/global-gaming-peripheral-market-will-be-worth-at-least-8b-by-2030/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26630/lineage-w-applies-mana-striker-class-care",
     "https://www.invenglobal.com/articles/26629/south-korea-starts-faker-defeats-india-in-19-minutes-for-2nd-straight-win",
     "https://www.invenglobal.com/articles/26628/vietnam-lol-team-tops-group-a-undefeated-at-3-0",
-    "https://www.invenglobal.com/articles/26627/eclipse-updates-co-op-battle-a-dungeon-for-up-to-5-player-parties"
+    "https://www.invenglobal.com/articles/26627/eclipse-updates-co-op-battle-a-dungeon-for-up-to-5-player-parties",
+    "https://www.invenglobal.com/articles/26626/cyberpunk-life-sim-nivalis-nights-officially-launches-on-steam",
+    "https://www.vlr.gg/763672/100-thieves-steals-a-playoff-slot-with-sweep-over-fut",
+    "https://www.vlr.gg/763347/vitality-silences-loud-to-earn-playoff-spot",
+    "https://www.hltv.org/news/45597/without-a-roof-officially-seek-roof",
+    "https://esportsinsider.com/2026/09/thunderpick-esports-awards-2026"
   ],
   "title_hashes": [
-    "743984aaff1c0534e4c2ed42d47a1e69",
-    "4b9e3104d0c64e035f6ffa012b8fedc9",
-    "a5455dc29cde3c0bc13fbd885680e46b",
-    "a6f82f9d0cffd69951419d011da5710b",
-    "6c9348a56254dff352cbebeff3972f33",
     "1cea0aa4f80c8993b7157f773f78909a",
     "f8c3d17101c3af6273911efb6fa6e20c",
     "cc44442ca8402cc3f4d1e744c6d71965",
@@ -16001,7 +15996,12 @@
     "523bb6ee070dcbc0e973a967dd2e2746",
     "66fcdfed1e2736cbe1eb2cb8e443a4e1",
     "e8f4ea6234af0c9b19c07ce21c0b0ed1",
-    "d85bb3aa04a2199fcf7d8ea31deb29dd"
+    "d85bb3aa04a2199fcf7d8ea31deb29dd",
+    "f2cb624333da4a30a463e2a52bb4245c",
+    "838463a8e527317ccecdae3fa41676d7",
+    "58f88d3f2d04cadfd2f34aaa9d1a16b2",
+    "43bc0a34f8563509f94527971167038a",
+    "7a239c98f7bf2773c7d7f7c69cd7dc06"
   ],
   "transfers": {
     "pages": {
@@ -21028,6 +21028,26 @@
     {
       "t": "4 5 added along battle dungeon eclipse has improvements instance new parties party player players smilegatesmilegate system updates various",
       "ts": 1790781146.043209
+    },
+    {
+      "t": "505 cyberpunk developer game games games505 have indie ion lands launched launches life nights nivalis officially sim simulation steam via",
+      "ts": 1790781153.6844437
+    },
+    {
+      "t": "0 100 2 americas champions fut going groups joined nrg over playoff playoffs qualifying shanghai slot steals sweep team thieves vct",
+      "ts": 1790781157.099896
+    },
+    {
+      "t": "earn emea loud marches playoff silences spot superteam vitality",
+      "ts": 1790781160.5743136
+    },
+    {
+      "t": "after america american esea further north officially roof seek squad step take their victory wants without",
+      "ts": 1790781163.995089
+    },
+    {
+      "t": "10 2026 awards ceremony content covers esports fan november open partnership post role round takes three thunderpick until voting year",
+      "ts": 1790781167.4212794
     }
   ]
 }
