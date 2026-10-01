@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/31/esposure-opens-esports-hub-in-duncanville-texas/",
-    "https://thebusinessofesports.com/2021/12/31/mkesports-alliance-and-new-horizons-of-wisconsin-launching-workforce-development-program/",
-    "https://thebusinessofesports.com/2021/12/31/jetsynthesys-and-federation-of-electronic-sports-associations-of-india-set-to-launch-esports-cricket-tournament/",
-    "https://thebusinessofesports.com/2021/12/31/bleed-esports-raises-50-8m-investment-from-asia-venture-capital/",
-    "https://thebusinessofesports.com/2021/12/30/full-sail-university-klic-gg-and-t-ross-podcast-hosting-madden-tournament/",
-    "https://thebusinessofesports.com/2021/12/30/alpha-esports-tech-announces-executive-management-change/",
     "https://thebusinessofesports.com/2021/12/30/nfts-are-just-the-beginning-according-to-ubisoft-ceo/",
     "https://thebusinessofesports.com/2021/12/30/u-s-probes-gaming-feature-in-580000-tesla-vehicles/",
     "https://thebusinessofesports.com/2021/12/30/bmw-releases-special-holiday-edition-of-manga-series-heroes-of-rivalry/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26688/puzzle-seventeen-updates-svts-kitchen-together",
     "https://www.invenglobal.com/articles/26687/sudden-attack-launches-beta-server-for-169-qhd-resolution",
     "https://www.invenglobal.com/articles/26686/benq-zowie-launches-qhd-monitor-xq2766x",
-    "https://www.invenglobal.com/articles/26685/nexon-opens-pre-registration-for-new-title-overgeared-on-oct-1"
+    "https://www.invenglobal.com/articles/26685/nexon-opens-pre-registration-for-new-title-overgeared-on-oct-1",
+    "https://www.invenglobal.com/articles/26684/dynasty-warriors-3-complete-edition-remastered-launches-in-korea",
+    "https://www.invenglobal.com/articles/26683/black-desert-launches-chuseok-login-reward-event",
+    "https://www.invenglobal.com/articles/26682/spm-launches-104-key-full-size-keyboard-mongdol-104",
+    "https://www.invenglobal.com/articles/26680/aion-2-hits-170000-concurrent-players-on-steam-tops-global-top-sellers-chart",
+    "https://www.invenglobal.com/articles/26679/double-celebration-with-anime-release-and-3rd-anniversary-trickcal-revive-ranks-4th-in-google-play-revenue",
+    "https://www.invenglobal.com/articles/26678/lego-to-release-first-dragon-ball-set-in-november-continuing-collaboration-into-2027"
   ],
   "title_hashes": [
-    "af2db841ed3b2db223ca02c28e732591",
-    "9f35379fcddcbe6c9738b6f8983bdf63",
-    "7eaa5795ef734dc7e34376b0a95e48d6",
-    "9f9eff257efb164f9cd4ed52ad108e17",
-    "b35df0e36bdd4d4351351f0f6ec4b2f6",
-    "2c230f3bdd1c0c322b733f0b8f0d2e57",
     "d9c7704828c19c20279b724b0f391d76",
     "ddf47470c2244985cab664efd3a9edba",
     "c2a2ede14c24bdeaab9ecedd139a0812",
@@ -16001,7 +15995,13 @@
     "40ecf4dfe78e53576fdb6b59458bf3ee",
     "0ae24348333b6b5099ac5ab508c84c1f",
     "ab90bdf92f0f584ca5616956838e9ff5",
-    "c3ee8ef6ea76a25d34c1ceda235f23c2"
+    "c3ee8ef6ea76a25d34c1ceda235f23c2",
+    "53affbb2ab56f474bc4e383b8c3fa4ea",
+    "a36bcc3662e272de9cf70351b3eaa4a6",
+    "9ac6228079d61e694e2f9c6913f3760d",
+    "9454a036e9e710cd34221e123b74e9b1",
+    "b5210099794e40e0a0ba56d2910a65a6",
+    "42a33dab4a697e6eb45099fd12214fc5"
   ],
   "transfers": {
     "pages": {
@@ -21260,6 +21260,26 @@
     {
       "t": "1 currently development games gray its mmorpg new nexon nexonnexon oct october opened opens overgeared pre registration title under",
       "ts": 1790821625.5511258
+    },
+    {
+      "t": "1st 2 3 5 complete dynasty edition editions gamesdynasty koei korea launches locally nintendo physical playstation released remastered switch tecmo warriors",
+      "ts": 1790821631.157852
+    },
+    {
+      "t": "1 abyss abysspearl black chuseok desert event finale kicked launches login october off pearl reward special",
+      "ts": 1790821634.8696084
+    },
+    {
+      "t": "104 87 expanding full has into its key keyboard launched launches model mongdol size spm spmspm tenkeyless",
+      "ts": 1790821638.616331
+    },
+    {
+      "t": "3rd 4th anime anniversary celebration collectible double epid games gamesepid google has highest its korea launch new place play ranking ranks reaching record release revenu revenue revive rpg set since south trickcal",
+      "ts": 1790821643.3873587
+    },
+    {
+      "t": "1 2027 4 764 animation ball collaboration consisting continuing debut dragon first group groupthe has icons into its lego november partnered pieces product release set themed toei",
+      "ts": 1790821646.9955034
     }
   ]
 }
