@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/29/moonton-games-and-one-esports-announce-mobile-legends-bang-bang-womens-invitational/",
-    "https://thebusinessofesports.com/2021/12/29/internal-report-reveals-moral-harassment-at-brazils-wildlife-studios/",
-    "https://thebusinessofesports.com/2021/12/29/lakota-nation-invitational-offering-esports-tournaments-this-year/",
-    "https://thebusinessofesports.com/2021/12/29/global-trade-groups-launch-first-comprehensive-guide-to-fast-growing-worldwide-esports-phenomenon/",
-    "https://thebusinessofesports.com/2021/12/29/salina-moves-another-step-closer-to-possible-esports-arena/",
     "https://thebusinessofesports.com/2021/12/29/esfi-partners-with-mpl-sports-foundation-and-power-as-sponsors-for-the-indian-team-competing-in-esports-world-championship/",
     "https://thebusinessofesports.com/2021/12/29/u-a-e-expected-to-begin-competing-internationally-in-esports/",
     "https://thebusinessofesports.com/2021/12/28/qatar-launches-qatari-e-sports-federation/",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEa1ZQeFFLc3FRYTNLWElOTjVFOXVyNkJ6VWdJWEl2bkQ2NHJJb2dXMVNSQ2xSbXJjQzJnUERpcnFad3hVT0xabDJkSzFMQi10bVJVQzllVy0yMlVJT0lITWo1RFNEd3oxODFpZlQzSHA?oc=5",
     "https://www.talkesport.com/news/india-ends-asian-games-2026-esports-campaign-without-a-single-medal/",
     "https://www.talkesport.com/guides/how-to-earn-xbox-achievements-microsoft-jewel-mobile/",
-    "https://www.talkesport.com/news/gaming/microsoft-jewel-game-pass-perks-pc-vs-ultimate/"
+    "https://www.talkesport.com/news/gaming/microsoft-jewel-game-pass-perks-pc-vs-ultimate/",
+    "https://www.talkesport.com/guides/how-to-vote-in-the-esports-awards-2026-deadline-turbo-week-and-categories/",
+    "https://www.talkesport.com/news/esports-awards-2026-nominees-full-list/",
+    "https://www.talkesport.com/guides/bgmi-m416-vs-akm/",
+    "https://www.talkesport.com/guides/bgmi-high-ping-fix-dns-network-settings/",
+    "https://www.talkesport.com/news/valorant-champions-2026-wired-mouse-tech-issues/"
   ],
   "title_hashes": [
-    "f65bf6d16607e7fae6261115aaf2ca85",
-    "4453884c15eae704619f41a4214f1d7a",
-    "89fa2a22b8770f24511a244baaf57b7c",
-    "687957949fbebe96284c59586c16c1a8",
-    "6fe9d45bffd7c1b526619537c9312ad4",
     "7b414676fdcecc334c01786345b5d136",
     "8730347c1e84808324b05a313678d1d4",
     "c0361ffae8a33be2b5ac6f0bde392b6a",
@@ -16001,7 +15996,12 @@
     "121d477d9ac74918d960276bb73a0880",
     "d61ff8bdd0d814ed033cec16dc81b3cb",
     "9f6c1bbf38df9d297be7ef46de10e5f1",
-    "af12ecc66f30eaf96c89c436c50f1a0b"
+    "af12ecc66f30eaf96c89c436c50f1a0b",
+    "9b1a6ab891b31d160d84f77d62dd2f20",
+    "6db19cec23b3bfad544ce7bef91391f2",
+    "2a5bcc84cbd99e863cb79e7d14bcf5c6",
+    "4e187f0ffd4020d2412cec4a0e481364",
+    "4023d9d9132db95d7fc240c354b19999"
   ],
   "transfers": {
     "pages": {
@@ -21364,6 +21364,26 @@
     {
       "t": "3 achievements ads android both explained free game ios jewel match mic microsoft mobile pass perks post premium removes ultimate unlocks while xbox",
       "ts": 1790846155.1898298
+    },
+    {
+      "t": "10 19 2026 3 all awards can categories closes count day deadline double during esports fans how nominees november now once open turbo vote votes voting week winn",
+      "ts": 1790846160.3371613
+    },
+    {
+      "t": "10 17 19 199 2026 across awards categories category ceremony closes esports every fan finalists full list miami nom nominees november out post voting",
+      "ts": 1790846163.810898
+    },
+    {
+      "t": "2026 5 56mm akm ammun assault battlegrounds better bgmi both but common comparisons different experiences gunfights india m416 mobile most offer one rifles they uses very weapon which",
+      "ts": 1790846167.2714283
+    },
+    {
+      "t": "background before best bgmi can changing checking come congestion dns downloads fix high mobile network ping poor routing ser settings starts unstable your",
+      "ts": 1790846170.763769
+    },
+    {
+      "t": "100 2026 admits after also caused champions desk fut has interference issues made makes mandatory metal mice missed mouse parts post riot rollback shanghai tech thieves valorant wired",
+      "ts": 1790846174.1694567
     }
   ]
 }
