@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/29/nvidias-geforce-now-rtx-3080-subscription-available-for-instant-access/",
-    "https://thebusinessofesports.com/2021/12/29/esl-launches-counter-strike-global-offensive-womens-league/",
-    "https://thebusinessofesports.com/2021/12/29/genopets-raises-8-3m-in-latest-funding-round/",
-    "https://thebusinessofesports.com/2021/12/29/coinbase-secures-partnership-with-nba/",
-    "https://thebusinessofesports.com/2021/12/29/patron-unveils-90m-investment-fund-for-gaming/",
     "https://thebusinessofesports.com/2021/12/29/galaxy-interactive-launches-325m-fund-focused-on-digital-entertainment/",
     "https://thebusinessofesports.com/2021/12/29/gucci-and-faceit-team-up-for-grassroots-esports-campaign/",
     "https://thebusinessofesports.com/2021/12/29/100-thieves-president-said-the-company-is-not-worried-about-profit/",
@@ -7999,14 +7994,14 @@
     "https://esportsinsider.com/2026/10/bfbs-esports-pro-league-raf-museum",
     "https://esportsinsider.com/2026/10/asian-games-esports-gold",
     "https://www.hotspawn.com/dota2/news/is-team-spirit-the-best-managed-org-in-dota-2",
-    "https://www.hotspawn.com/league-of-legends/news/mkoi-jojopyun-caedrel-podcast"
+    "https://www.hotspawn.com/league-of-legends/news/mkoi-jojopyun-caedrel-podcast",
+    "https://www.hotspawn.com/valorant/news/wired-mouse-valorant-champions-shanghai",
+    "https://www.nerfplz.com/2026/10/true-damage-is-back-know-my-name-and.html",
+    "https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts",
+    "https://europeangaming.eu/portal/press-releases/2026/10/01/215120/slightly-edgy-spooky-kabuki-slot-yggdrasil/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/01/215113/enteractive-stephen-parry-group-ceo/"
   ],
   "title_hashes": [
-    "bc537e6cccff6fed9def16bd6c792387",
-    "1d7e31bc765a4d54f19c61f45d7f0e21",
-    "517ee0a91ad698a3a9dae7ae1254abec",
-    "0d15a25e7d4d674063fc85a0aa600c5a",
-    "9c77757c442fcf0e1d38fc3231345cdf",
     "40fd8621faa08b8c83b7c3e36552e256",
     "8366748e79bd41f5d29fbf5f59c68269",
     "f12d7a08992f57786bed1632bdfd89b6",
@@ -16001,7 +15996,12 @@
     "5b363e9d8b6c141510c7a26f0f718e58",
     "26f47d5f9183a59b6d480966aec3f3d3",
     "83fc5e76f536b064c9c600485a87a938",
-    "65e05548afb088cc96da510abf120f5a"
+    "65e05548afb088cc96da510abf120f5a",
+    "522f0759f16bc4d11a38ed9880ae73f8",
+    "51607acd25edbd09fb2f8b6f19f60807",
+    "70270743401c1e055b7d1c93adc63541",
+    "64e23be02304ad362b3e3bfb96220253",
+    "d7c1dae659f0204891b079773d7d73d2"
   ],
   "transfers": {
     "pages": {
@@ -21324,6 +21324,26 @@
     {
       "t": "already back been but done everyone exactly has holding jojopyun know knows makes mkoi moment months needs opposite other recognise rush solution sometimes takes team there thinks times visible what yet you",
       "ts": 1790846117.6324642
+    },
+    {
+      "t": "100 8217 again between boiled champions combat disaster during esports fallout fut group included instructs into issues mice ongoing opener over publ riot shanghai stage tech technical thieves this time use valorant week wired",
+      "ts": 1790846122.5422235
+    },
+    {
+      "t": "2026 6pm 8 announced anthem back damage every group here its know land name october pdt perform picked riot skin song track true video wha what who worlds",
+      "ts": 1790846126.1080933
+    },
+    {
+      "t": "2 20 27 3 august big charts console debuting entered house led madden more new newzoo nfl ranking read releases revenue several sports title top walk",
+      "ts": 1790846129.6807795
+    },
+    {
+      "t": "8230 drum edgy expandable free horror its japanese kabuki launches multiplier pairs post second setting slightly slot spins spooky theatre themed via win yggdrasil",
+      "ts": 1790846133.0588856
+    },
+    {
+      "t": "8230 appointment back ceo day deliberate enteractive founder group hansson international mikael operations parry post scale shift signals stephen stepping succeeds towards",
+      "ts": 1790846136.438217
     }
   ]
 }
