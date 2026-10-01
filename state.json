@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/24/first-esports-minor-qualification-launched-in-new-zealand/",
-    "https://thebusinessofesports.com/2021/12/24/ex-marvel-executive-tim-connors-joins-nexon-studios/",
-    "https://thebusinessofesports.com/2021/12/24/offset-esport-renews-partnership-with-fastio-go/",
-    "https://thebusinessofesports.com/2021/12/24/vodeo-games-forms-first-video-game-union-in-the-country/",
-    "https://thebusinessofesports.com/2021/12/24/episode-174-damage-esports-agency-witcher-success-educating-brands-gaming-campaign-secret-sauce/",
-    "https://thebusinessofesports.com/2021/12/23/dignitas-parent-company-launches-womens-gaming-and-esports-platform/",
     "https://thebusinessofesports.com/2021/12/23/zain-partners-with-the-kuwait-olympic-committee-to-develop-esports-gaming-ecosystem/",
     "https://thebusinessofesports.com/2021/12/23/haval-named-eastern-european-dota-pro-circuit-tournament-partner/",
     "https://thebusinessofesports.com/2021/12/23/report-says-global-gaming-market-will-be-worth-at-least-545b-by-2028/",
@@ -7999,15 +7993,15 @@
     "https://www.hotspawn.com/valorant/news/tyloo-map-win-valorant-champions-shanghai",
     "https://www.hotspawn.com/mlbb/news/mlbb-asian-games-results",
     "https://www.hotspawn.com/fortnite/news/hazbin-hotel-x-fortnite",
-    "https://www.hotspawn.com/counter-strike/news/iem-cologne-2027-officially-announced"
+    "https://www.hotspawn.com/counter-strike/news/iem-cologne-2027-officially-announced",
+    "https://www.hotspawn.com/counter-strike/news/esl-pro-league-season-24-power-rankings",
+    "https://www.hotspawn.com/counter-strike/news/esl-pro-league-season-24-players-to-watch",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSUtGejEzQ1dVMTJQaUFFX3Y2VmttUk15bmtIQS1TM2dTYTJ6cTRRdDdiN3FmLXJ1U3hWc3g4OXVtYVhmVDV0WFJnWGQ2Y0lYRzYwQ1p0ekwxT0hPVXpuQkZuTUx2WmZ3TEdHVXV4S2REcVB0eDdSMjJWWDdmZnhoMllreXJXV2NBX19MR2N3ZVItQi1S?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ycHFrSHpSaTRoekJUdlpOMFJiOXZQb3FHckRoVHE3a1c1UWtlaGVEWmVNaU1ZRllUaGtCaER6N2FKc01zbXdYYVNseGZobWtNRGlxdjl0eEU2ZDVsT1lEYk8xbXE5NzRhcmdsQWUwNHJ2WmVnT3pVdHkwVFFCZw?oc=5",
+    "https://www.nerfplz.com/2026/12/untargetability-explained-10-rules-of.html",
+    "https://europeangaming.eu/portal/press-releases/2026/10/01/215166/wazdan-25-coins-x3000-slots/"
   ],
   "title_hashes": [
-    "a3f39e67959927c8abb2f692ef062fa3",
-    "effbdf5b0db56d1ccf11fdba16410001",
-    "3308a83ad69aaf0da7879e580801c075",
-    "6c02e674ef4bc7afbaed999adc1c7c72",
-    "526d13168a2a3e424ca416fed3417535",
-    "4df33e696043d597dffa8b18d2d83101",
     "edae10682cd68557797b9f1d52c0e1c2",
     "551c192aa3cc7a94feb3ad4d49992203",
     "761cafca57e8ee87d596aaf426160209",
@@ -16001,7 +15995,13 @@
     "377c2f911a60abe1ec13f8f5c9b58d24",
     "db428e9082d3df5eb31516373aa5a4c0",
     "abdfda81c7f9fc84d8426cd0e1b3b8fb",
-    "ef1607cd9aeddf09b252aefcb0480e74"
+    "ef1607cd9aeddf09b252aefcb0480e74",
+    "0289f99a46f3500ce9e533a80b23700a",
+    "e4b6e65a977f4d0673172e632485bd35",
+    "409141198e4358502b12d799d4e7a674",
+    "e97ce876a978740f24da20647b535d12",
+    "faf7aa5e5b0a9f4806ad0b85de372e13",
+    "508e3364b98da78ee51bb22956cd29a5"
   ],
   "transfers": {
     "pages": {
@@ -21220,6 +21220,26 @@
     {
       "t": "2026 2027 360 alike announced annual arena cathedral cologne counter degree dubbed esl fans first following has iem lanxess major marking officially players return stage strike time",
       "ts": 1790872237.8266032
+    },
+    {
+      "t": "1 24 8217 after age back but counter esl feels isn katowice league like officially onward pip playoffs power pro rankings really season spirit spodek spot strike tier top vitality what",
+      "ts": 1790872243.0831072
+    },
+    {
+      "t": "24 8217 almost counter esl event exciting first here katowice league momentous occasion players pro returns season set strike time two watch which why years",
+      "ts": 1790872246.788666
+    },
+    {
+      "t": "3 how reforge remastered transmog witcher works",
+      "ts": 1790872250.3180344
+    },
+    {
+      "t": "abilities already blocks but deletes don eat flight grant guide lands lol makes projectiles restart scratch skillshots still targeting ten that their too turrets untargetability what",
+      "ts": 1790872253.8791606
+    },
+    {
+      "t": "1 25 8217 8230 adds appeared campaign coins cointober consolidates firs five its launches more october opening post series slot title wazdan week which x3000",
+      "ts": 1790872257.4670455
     }
   ]
 }
