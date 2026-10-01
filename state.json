@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/29/the-free-fire-world-series-was-2021s-most-watched-esports-event/",
-    "https://thebusinessofesports.com/2021/12/29/zynga-and-forte-form-strategic-alliance/",
-    "https://thebusinessofesports.com/2021/12/29/turtle-rock-studios-acquired-by-tencent/",
-    "https://thebusinessofesports.com/2021/12/29/dapper-labs-partners-with-genies-to-launch-nft-platform-the-warehouse/",
-    "https://thebusinessofesports.com/2021/12/29/forte-solana-ventures-and-griffin-gaming-partners-wants-to-invest-150m-into-blockchain-gaming/",
-    "https://thebusinessofesports.com/2021/12/29/colexion-launches-worlds-biggest-nft-drop-featuring-30-celebrities/",
     "https://thebusinessofesports.com/2021/12/29/most-popular-meme-tokens-create-a-new-play-to-earn-platform/",
     "https://thebusinessofesports.com/2021/12/29/crypto-gamefi-apps-surpass-defi-in-popularity/",
     "https://thebusinessofesports.com/2021/12/29/global-esports-betting-is-a-66b-industry-thats-expected-to-grow/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26709/demons-night-fever-physical-korean-edition-pre-orders-open-oct-2",
     "https://www.invenglobal.com/articles/26708/south-korea-defeats-saudi-arabia-2-0-to-advance-to-finals",
     "https://www.invenglobal.com/articles/26707/legendary-skill-book-appears-in-calteon-too-exchange-market-price-check",
-    "https://www.invenglobal.com/articles/26706/dungeon-fighter-online-replaces-new-event-artwork-amid-ai-illustration-controversy"
+    "https://www.invenglobal.com/articles/26706/dungeon-fighter-online-replaces-new-event-artwork-amid-ai-illustration-controversy",
+    "https://www.invenglobal.com/articles/26704/dk-mobile-reborn-launches-6-week-bootcamp-server",
+    "https://www.invenglobal.com/articles/26705/ava-rebirth-expands-cbt-to-5000-participants-begins-oct-1-at-4-pm",
+    "https://www.invenglobal.com/articles/26703/seven-knights-rebirth-launches-part-1-of-demon-slayer-kimetsu-no-yaiba-collaboration",
+    "https://www.invenglobal.com/articles/26702/cumulative-sales-surpass-400000-copies-dragonsword-awakening-version-11-update-arrives-oct-15",
+    "https://www.invenglobal.com/articles/26701/south-korea-takes-game-1-of-semifinals-against-saudi-arabia-in-21-minutes",
+    "https://www.invenglobal.com/articles/26700/zeka-starts-as-south-korea-faces-saudi-arabia-in-lol-semifinals"
   ],
   "title_hashes": [
-    "fe65cf60a5c13dedc7f386e7767c72ef",
-    "f8dad2f0fd176c9fb5c39601f31a541c",
-    "d4d479d1d7974d7c7af76bd0eff9aea4",
-    "91ca98c251a5fe7d60f70e52a733675c",
-    "1b6641df2260da66c48b1e2931fa0add",
-    "e6b723b7f840b4e4ba629a47df861f2a",
     "8b2338b8a9a1f31945d6142424d2b0e7",
     "df96205f70206f498edde8269912180f",
     "e096c3360d8b29adbe1dbce9ef7a4264",
@@ -16001,7 +15995,13 @@
     "f5b54f14d21d8dca5b32571d800dce65",
     "e218789fb749a9860e4ed0e8f7c31283",
     "2723f982017c1aad741b24484fdd2d6b",
-    "254299f6f0866a306fb23cb5ff255dce"
+    "254299f6f0866a306fb23cb5ff255dce",
+    "934dcc0690be5a8551dfef27664b2027",
+    "956977f5f557e83135aa3555bdd2ddfa",
+    "11cbdc695a7fb989bd99f7f47c910a37",
+    "2e5e7e9a0404864017f4f8bc542ffa2b",
+    "7db02e9fb4f5973389b2ceb563843340",
+    "2c789d7ad235131fcd45bb6810491e73"
   ],
   "transfers": {
     "pages": {
@@ -21264,6 +21264,26 @@
     {
       "t": "amid art artwork before controversial controversy dungeon event facing featured fighter illustration illustrations image its modification new nexondungeon online over rece replaces style use",
       "ts": 1790846059.617607
+    },
+    {
+      "t": "6 bootcamp entranceentrance its launched launches limited mmorpg mobile officially reborn server six time week",
+      "ts": 1790846065.1429608
+    },
+    {
+      "t": "1 birth collaboration collectible corp demon has its kimetsu knights launches netmarble netmarblenetmarble part released rpg seven slayer update yaiba",
+      "ts": 1790846068.7623076
+    },
+    {
+      "t": "000 1 15 400 ahead arrives awakening buy copies cumulative developer dragonsword held hound13hound13 its live oct october open play sales stream surpass today update version",
+      "ts": 1790846073.1443083
+    },
+    {
+      "t": "0 1 2026 21 after against aichi arabia asian expo game games held japan korea lead lol minutes nagoya october prefecture saudi semifinals sky south takes took winning",
+      "ts": 1790846076.707341
+    },
+    {
+      "t": "arabia faces field geon kespathe kim korea korean league legends lol national saudi semifinals south starts team will woo zeka",
+      "ts": 1790846080.0953698
     }
   ]
 }
