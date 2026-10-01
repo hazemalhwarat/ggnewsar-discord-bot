@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/24/chess-game-finale-by-magnus-carlsen-has-been-added-to-chess-board-rapture-nft-collection/",
-    "https://thebusinessofesports.com/2021/12/24/global-esports-viewership-numbers-continue-to-increase/",
-    "https://thebusinessofesports.com/2021/12/24/report-china-banning-games-that-promote-lgbtq-characters-and-lifestyles/",
-    "https://thebusinessofesports.com/2021/12/24/playpulse-raises-2m-in-recent-funding-round/",
-    "https://thebusinessofesports.com/2021/12/24/video-games-designed-by-abilene-christian-university-students-published-on-steam/",
     "https://thebusinessofesports.com/2021/12/24/dont-expect-next-gen-exclusive-titles-from-sony-or-microsoft-any-time-soon/",
     "https://thebusinessofesports.com/2021/12/24/horse-racing-idols-app-uma-musume-pretty-derby-launches-in-japan/",
     "https://thebusinessofesports.com/2021/12/24/partnership-unveiled-between-pandascore-and-esports-net/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/witcher-3-remastered-pc-performance-impacted-by-nvidia-hairworks/",
     "https://gameriv.com/bungie-says-extraction-remains-a-major-part-of-marathon-as-it-expands-pve-and-pvp-plans/",
     "https://gameriv.com/riot-asks-valorant-champions-shanghai-players-to-use-wired-mice-after-interference-issues/",
-    "https://www.vlr.gg/764374/nongshim-redforce-eliminates-xlg-continues-shanghai-curse"
+    "https://www.vlr.gg/764374/nongshim-redforce-eliminates-xlg-continues-shanghai-curse",
+    "https://www.vlr.gg/764294/team-liquid-downs-tyloo-to-stay-alive-at-champions-shanghai",
+    "https://esportswales.org/welsh-club-s-e-a-dragons-crowned-bfbs-pro-league-champions/?utm_source=rss&utm_medium=rss&utm_campaign=welsh-club-s-e-a-dragons-crowned-bfbs-pro-league-champions",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmc5UGd0TjUyckk1SGk5Skd0eG5LemZxSWdCcVNRaDFXU19TUUxteUcxQVZ4cXhMSV9IRVdmODVnT3p2VnZVWW5GNWNqakIxeDgxaXlMVFB3V2p4N2Q3VEFZYUptcm5zNkhqaF9KUkdIc0YyWjhoc3FiWXpTZ0NPUFJvdTg?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCUFdKWE1NSmp4dHhYTEhrSklvYk44YnJrQVQ4Q1pPQWNQNDBGbnNVdk54X1V4NUlTejJwS2xzUWRhRWZlMFl0X0dTZTlyclowZ0VNMWh3UUExWlhfRVVTQTYyTGVKQ1NtZUdCaDAwN2dXVHJ6czVwdXpsbUhRUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQjdlTnAxWmNlSUdJaElrMUl1UWlNNHhJTEFidkt1Wk11ODNITnFhVFo1YmJvcVc0eTVtQmk5QU9XUENmNW5mTk5aTVF1RlI0TUc5VTJING53bzRHR09fMUhsRTRIQXA4dzF6NkFFR1BGMXhoQkhQcFNGdVU1MTQzYw?oc=5"
   ],
   "title_hashes": [
-    "c6a46fff4461bad980bb450b0d03494b",
-    "10b2cf286b064601d84250037ae7aee7",
-    "8268a886a588db04ef80038fbb5c2d4e",
-    "0df1abb1f1fab7a20e7b29b321f6f317",
-    "c665be81578f22bf04b68e58b0a2f6c5",
     "2c3a5399da3761eae394a3718e44c8f1",
     "4f102de9401b478bec1834557be44aa3",
     "e5ac4f54b49ae3916948af5e6ba81dfb",
@@ -16001,7 +15996,12 @@
     "4659fc4bfd486197e93aaac4dcc78522",
     "e105116abe848c8880822bb0b7bba106",
     "4fc52a95ed0ec69e02b6fba06edf9df8",
-    "10975e085b40a80043309b8d4e2d83dd"
+    "10975e085b40a80043309b8d4e2d83dd",
+    "d9e61d553b9599ad58d186ba68d5f6b1",
+    "ce25fc8152b0aa3013786214346367ce",
+    "cbe896131bb80fb741026c664c90eaec",
+    "aa78d7adfc8d9e2e047b8e21d7de6d40",
+    "11dd04d99b1005669370e06ca59bf6e1"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,26 @@
     {
       "t": "0 2 champions chinese competition continues curse eliminates elimination exit gaming lai making match nongshim redforce second shanghai swept team xlg",
       "ts": 1790872197.798096
+    },
+    {
+      "t": "alive champions downs flowing liquid shanghai stay stays team tyloo",
+      "ts": 1790872203.5749786
+    },
+    {
+      "t": "2 after against army based been bfbs brecon british champions club comeback crowned dragons esports have league london museum pro producing raf remarkable season victory welsh",
+      "ts": 1790872207.1441202
+    },
+    {
+      "t": "11 3 breaks fragster its later nbsp record steam witcher years",
+      "ts": 1790872210.6777074
+    },
+    {
+      "t": "2026 biggest fragster game launches nbsp october releases",
+      "ts": 1790872214.2543755
+    },
+    {
+      "t": "2026 25 f1 fragster games hunt include nbsp october plus",
+      "ts": 1790872217.8940039
     }
   ]
 }
