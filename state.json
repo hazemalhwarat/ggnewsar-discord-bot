@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/28/clarity-boost-with-xbox-cloud-gaming-on-microsoft-edge-browser-now-available/",
-    "https://thebusinessofesports.com/2021/12/28/safemoons-hank-wyatt-joins-the-nobility-token-project/",
-    "https://thebusinessofesports.com/2021/12/28/semper-fortis-esports-announces-first-commercial-partner/",
-    "https://thebusinessofesports.com/2021/12/28/red-bull-and-riot-games-agree-to-new-deal/",
-    "https://thebusinessofesports.com/2021/12/28/1-2-million-people-register-for-inaugural-world-esports-cup/",
     "https://thebusinessofesports.com/2021/12/28/heinz-teams-up-with-activision-for-call-of-duty-activation/",
     "https://thebusinessofesports.com/2021/12/27/playvs-plans-to-pause-collegiate-leagues-after-2021-fall-season-ends/",
     "https://thebusinessofesports.com/2021/12/27/mls-esports-league-plans-return-to-in-person-events-in-january-2022/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26724/gears-of-war-e-day-returns-as-everything-fans-wanted-87",
     "https://www.invenglobal.com/articles/26723/beat-chinese-taipei-once-three-more-to-go-south-koreas-pursuit-of-lol-gold",
     "https://www.invenglobal.com/articles/26722/demon-slayer-collab-begins-obtain-nezuko-pet-as-event-reward",
-    "https://www.invenglobal.com/articles/26699/krafton-ends-development-on-amsterdam-studios-new-title-pubg-black-budget"
+    "https://www.invenglobal.com/articles/26699/krafton-ends-development-on-amsterdam-studios-new-title-pubg-black-budget",
+    "https://www.invenglobal.com/articles/26698/trinity-trigger-launches-on-nintendo-switch-2",
+    "https://www.invenglobal.com/articles/26697/it-will-be-different-from-hangzhou-saudi-captain-issues-challenge-to-faker",
+    "https://www.invenglobal.com/articles/26694/daewon-media-launches-physical-editions-of-solarpunk-for-switch-2-and-ps5",
+    "https://www.invenglobal.com/articles/26696/nc-begins-pre-registration-for-lineage-golden-desert-abella-update-on-september-30",
+    "https://www.invenglobal.com/articles/26695/chinese-taipei-defeats-vietnam-to-advance-to-lol-finals"
   ],
   "title_hashes": [
-    "715129af68be06774e6c7e2a0bcd973a",
-    "73d6171b7a5140ae2214e15637893a68",
-    "8ff1192eaa7e10f32e240c62ea2e0a39",
-    "54ef5908569218a0713b36d8ae4be89e",
-    "ccd4503c8779b5e4386b49e20a3114e3",
     "00cc959f99ec7b7dd6bd30cd800e5454",
     "dd3b828ee8005615948421bcce4f7f77",
     "e1d0fb8d1cfacd0b52142b2976b9ee72",
@@ -16001,7 +15996,12 @@
     "334380ea1b3392e9bf91aa5ff5aa521f",
     "4557be41eed2d400cf343223c7d8f98a",
     "845d9690440edeef53981d8c3193c445",
-    "ac091446c461af03c30f7a281f98bafa"
+    "ac091446c461af03c30f7a281f98bafa",
+    "e069ed3e7ff4c089e2c831672e065b42",
+    "5cbf37b8bd6118403ecd4a1b4c812ccb",
+    "3454b453d2b50c402f98bcfbb48b37d4",
+    "6959804b1d57162a7d677fc1d53ad164",
+    "bb04ae86cba4c757605aec3f2225db4f"
   ],
   "transfers": {
     "pages": {
@@ -21060,6 +21060,26 @@
     {
       "t": "amsterdam based black budget development ended ends extraction has hereafter krafton new pubg shooter studio title",
       "ts": 1790872078.5726116
+    },
+    {
+      "t": "1st 2 action arc asia asiaarc digital furyu korean launches ltd nintendo released rpg switch system trigger trinity version works",
+      "ts": 1790872083.782986
+    },
+    {
+      "t": "against anticipation arabia captain challenge different expressed faker hangzhou hereafter his invenabdulaziz issues laner league lee legends lol matchup mid mubarak national oniikhan sang saudi team will",
+      "ts": 1790872087.3623466
+    },
+    {
+      "t": "1 2 5 crafting cyberwave daewon developed editions game hereina korea launches media mediadaewon nintendo october officially physical playstation ps5 released solarpunk survival switch",
+      "ts": 1790872091.135424
+    },
+    {
+      "t": "16 30 abella begins december desert golden hereinafter holding its lineage mmorpg ncnc new online pre registration remaster september update",
+      "ts": 1790872094.7464955
+    },
+    {
+      "t": "2026 advance aichi asian associationchinese chinese defeated defeats esports finals games leagu lol nagoya national taipei team vietnam",
+      "ts": 1790872098.441886
     }
   ]
 }
