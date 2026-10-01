@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/27/twitchs-co-founder-creates-new-start-up-company/",
-    "https://thebusinessofesports.com/2021/12/27/square-enix-pulls-price-from-final-fantasy-7-remake-after-fan-backlash/",
-    "https://thebusinessofesports.com/2021/12/27/zelus-esports-to-launch-new-platform-for-non-profits-organizations-and-media-companies/",
-    "https://thebusinessofesports.com/2021/12/27/newzoo-report-shows-americans-prefer-gaming-over-other-leisure-activities/",
-    "https://thebusinessofesports.com/2021/12/27/peter-molyneux-announces-next-video-game-project/",
-    "https://thebusinessofesports.com/2021/12/27/audius-builds-fm-radio-tower-on-blockchain-based-website/",
-    "https://thebusinessofesports.com/2021/12/27/hisense-becomes-case-esports-technology-partner/",
-    "https://thebusinessofesports.com/2021/12/27/fifas-new-commercial-partnership-structure-includes-dedicated-programs-for-womens-football-and-esports/",
     "https://thebusinessofesports.com/2021/12/27/business-of-esports-weekly-news-383/",
     "https://thebusinessofesports.com/2021/12/27/weekly-news-175-tiktok-streaming-cyberpunk-lawsuit-100-thieves-unprofitable-china-slowing-playvs-failure-ex-riot-tabletop-game-3-5b-rec-room-witcher-x-secretlab/",
     "https://thebusinessofesports.com/2021/12/26/co-streaming-feature-unveiled-by-facebook-gaming/",
@@ -7999,17 +7991,17 @@
     "https://www.hltv.org/news/45603/esl-expands-iem-cologne-playoffs-to-eight-teams-for-2027-with-360-stage-setup",
     "https://www.hltv.org/news/45588/fut-confirm-sunpayus-signing",
     "https://www.hltv.org/news/45601/heroic-bench-doto",
-    "https://www.hltv.org/news/45596/rating-30-receives-small-accuracy-improvements"
+    "https://www.hltv.org/news/45596/rating-30-receives-small-accuracy-improvements",
+    "https://www.hltv.org/news/45600/loud-drop-unannounced-cs-team",
+    "https://thegamehaus.com/nfl/falcons-sign-defensive-tackle-gervon-dexter-to-four-year-extension/2026/09/30/",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-wrs-going-into-week-4/2026/09/30/",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-rbs-going-into-week-4/2026/09/30/",
+    "https://thegamehaus.com/gamingg/how-to-choose-a-safe-online-casino-a-players-checklist/2026/09/30/",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-qbs-going-into-week-4/2026/09/30/",
+    "https://thegamehaus.com/college-football/college-football-week-5-news-and-notes/2026/09/30/",
+    "https://insider-gaming.com/damage-opponents-bonerattler-smg/"
   ],
   "title_hashes": [
-    "6f080a8982c3555b28ab6372b9988d92",
-    "65bfb7aa636bc9e1fed9681f6fa70d0b",
-    "88890d9e003d8cc11cec01a19a8373a5",
-    "02166c00a72b083a343dc7b7ebca4afa",
-    "f18e0d9e32f5167d5dfa46e1ab8ae1ea",
-    "44b2d16642537232aa6a258ca5221fe2",
-    "4715783dc671a4e385303e1db49d58c3",
-    "a0871811d99b65df47eb35e6921b03d1",
     "4c48369232169bbb94797042330e70cd",
     "d40668040966dfeeae54389a1be1ff2d",
     "e0721b121339842b2cfa3439b166dc97",
@@ -16001,7 +15993,15 @@
     "94783263f4e849f4e81a63c195fdfdaa",
     "c48cec2cd4c43b7720fe53df6c167696",
     "811270b5753cca778f44f09d362b2ded",
-    "568a27c46028add53f132a2f0d76d41e"
+    "568a27c46028add53f132a2f0d76d41e",
+    "7afb211118cbc73d35a816005a7423b6",
+    "f773a567fc4fe4db1aa3475c05d3dd74",
+    "3a0cd6a2c08720d035a8c85d87794347",
+    "ff07dc9bf6caaa8abae9a6eb6c60fa56",
+    "d05c7efd5fcef5a331c962980ce88600",
+    "6497dc5d2e7c090a0b65351d2cb8782d",
+    "c7aa4b22815e90c8b2d3d19167c89066",
+    "e08bc14f9fe4f360c61e89e91f8e1e29"
   ],
   "transfers": {
     "pages": {
@@ -21120,6 +21120,26 @@
     {
       "t": "0 3 accuracy improvements its maps matches new played rating receives reflect release since small thousands updating",
       "ts": 1790872138.2120612
+    },
+    {
+      "t": "been brazilian drop ever famed has let loud officially organization representing roster team unannounced without",
+      "ts": 1790872143.9844725
+    },
+    {
+      "t": "46 5 78 according adam agreed atlanta dexte dexter extension falcons four gervon guaranteed have includes insider million nfl schefter sign that traded year",
+      "ts": 1790872147.5231764
+    },
+    {
+      "t": "4 also can check fantasy football full going horizon into let look options out rankings receiver risky some take this underrated week wide wrs you",
+      "ts": 1790872151.0456007
+    },
+    {
+      "t": "always casino checklist choose difference enormous every hoping how licensed market not obvious online operator player print read run safe site small there thin well will you",
+      "ts": 1790872154.6132898
+    },
+    {
+      "t": "1 2026 bonerattler challenges damage fortnite fortnitemare how let need opponents part post quest show smg this week you",
+      "ts": 1790872158.1580873
     }
   ]
 }
