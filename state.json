@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/23/nse-and-barclays-renew-their-partnership/",
-    "https://thebusinessofesports.com/2021/12/23/xqc-shows-off-new-mclaren-on-social-media/",
-    "https://thebusinessofesports.com/2021/12/23/ubisofts-nft-offering-met-with-backlash/",
-    "https://thebusinessofesports.com/2021/12/23/ubisoft-becomes-first-major-gaming-company-to-launch-in-game-nfts/",
-    "https://thebusinessofesports.com/2021/12/23/appswarm-and-touchpoint-group-announce-collaboration/",
-    "https://thebusinessofesports.com/2021/12/23/is-sony-playstation-working-on-dual-gpu-cloud-gaming-ps5-backwards-compatibility-on-the-cards/",
     "https://thebusinessofesports.com/2021/12/23/metaverse-gaming-experience-the-sandbox-raises-93m/",
     "https://thebusinessofesports.com/2021/12/23/the-first-esports-coaching-program-was-launched-at-the-university-of-portsmouth/",
     "https://thebusinessofesports.com/2021/12/23/gala-games-listed-on-coinbase-will-ufo-gaming-follow/",
@@ -7999,15 +7993,15 @@
     "https://europeangaming.eu/portal/latest-news/2026/10/01/215141/ukgc-gaming-machine-standards-limit-setting-session-data/",
     "https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency",
     "https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures",
-    "https://www.gamesindustry.biz/jobs-roundup-october-code-wizards-group-appoints-catherine-bygrave-as-head-of-commercial"
+    "https://www.gamesindustry.biz/jobs-roundup-october-code-wizards-group-appoints-catherine-bygrave-as-head-of-commercial",
+    "https://www.talkesport.com/news/cs2/cs2-player-count-decline-2026/",
+    "https://www.talkesport.com/guides/free-fire-high-ping-fix-best-apn-dns-settings-india/",
+    "https://www.talkesport.com/news/bmsd-2026-upper-bracket-survival-day-1-overall-standings-lefp-leads-godlike-in-top-8/",
+    "https://www.talkesport.com/news/valorant/tyloo-vs-team-liquid-valorant-champions-2026/",
+    "https://www.talkesport.com/news/cs2/cs2-danger-zone-community-servers-how-to-play/",
+    "https://www.talkesport.com/gta-6/gta-6-weather-system/"
   ],
   "title_hashes": [
-    "4888745e204be713d5b1864b576b3105",
-    "66b69ba342108aa63d5ea0cae6f57cd5",
-    "aff989e69c0624f6dfec9fe9e42275dd",
-    "8420acda2c0d3e8d19ac764f0d5578fe",
-    "627e735119a871ea4a4900580b523ac3",
-    "c987d125826b9330976db6d5970b8f0a",
     "837223e582f580bb1c1dec9de335674c",
     "fc09a7f0eff59330ba217c35415e1249",
     "5dc25b1e579990ef16b40da567896f9c",
@@ -16001,7 +15995,13 @@
     "5b74f8b9eeee35f6adfdbe3b17549337",
     "f322badbea870ddec9fb602e4e3399ea",
     "615ac78eb00a2c4a6e4911931a883b63",
-    "ed62e852e9413e0f37babd71506a1a3b"
+    "ed62e852e9413e0f37babd71506a1a3b",
+    "1aad3ac24fce3372b8299405c56fc3ca",
+    "d472f6892ae7dde5a182df88b13fa7b6",
+    "f2ac79bcb72077625f16dd40c05cdc6e",
+    "92cc3c47dd9adec5047659d6b6ac5b85",
+    "0b77136607ab4f93789bdd865de67e03",
+    "295343fb86020bd577bf22053ebe89e4"
   ],
   "transfers": {
     "pages": {
@@ -21260,6 +21260,26 @@
     {
       "t": "appoints bygrave can catherine code comings commercial compile difficult games goings group head industry jobs keeping october roundup semi them track various which why wizards",
       "ts": 1790872277.7904882
+    },
+    {
+      "t": "2 810k another average below charts consecutive count counter cs2 data decline downward drops extending falls has here its latest month months player post recorded reveals seven seventh steam strike trend what",
+      "ts": 1790872282.8898413
+    },
+    {
+      "t": "1 2026 58 60 8 after bmsd bracket closely concluded day esports finishing followed godlike has higgboson leads lefp matches overall points second six standings survival top upper",
+      "ts": 1790872287.4760249
+    },
+    {
+      "t": "1 13 2 20 2026 after capped champions dominant eliminated elimination group heartbreaking liquid loss lotus match post team tyloo valorant victory win",
+      "ts": 1790872291.0047455
+    },
+    {
+      "t": "8217 after again back battle bring but can community counter cs2 danger didn disappeared during finally into jump more playable players royale strike than three through transition valve years zone",
+      "ts": 1790872294.5921028
+    },
+    {
+      "t": "6 advanced bring changing clouds conditions dynamic feature gta hurricanes leonida localized post storms system weather will world",
+      "ts": 1790872298.1203861
     }
   ]
 }
