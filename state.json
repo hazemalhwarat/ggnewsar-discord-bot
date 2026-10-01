@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/30/twitch-star-xqc-encourages-community-to-subscribe-and-donate-to-smaller-streamers/",
-    "https://thebusinessofesports.com/2021/12/30/infinix-partners-with-garena-free-fire-to-launch-pakistans-first-esports-themed-experience-store/",
-    "https://thebusinessofesports.com/2021/12/30/arena-of-valor-world-cup-2022-to-be-largest-ever-mobile-esports-event-with-10-million-prize-pool/",
-    "https://thebusinessofesports.com/2021/12/30/excel-fnatic-futwiz-and-guild-announced-as-fifa-22-global-series-masters-teams-playing-in-the-team-of-the-season-cup/",
-    "https://thebusinessofesports.com/2021/12/29/k-pop-star-min-named-talon-esports-ambassador/",
     "https://thebusinessofesports.com/2021/12/29/partners-and-race-schedule-announced-by-enascar/",
     "https://thebusinessofesports.com/2021/12/29/partnership-extended-between-bayes-and-riot-games/",
     "https://thebusinessofesports.com/2021/12/29/guild-esports-and-playstation-partner-for-fifa-tournament/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26719/legend-of-ymir-adds-new-assassin-class",
     "https://www.invenglobal.com/articles/26718/zeus-a-crowd-in-the-finals-is-positive-for-us",
     "https://www.invenglobal.com/articles/26717/canyon-reaches-first-finals-for-national-team-feeling-the-weight-of-representing-the-country",
-    "https://www.invenglobal.com/articles/26716/nexon-reveals-key-systems-for-new-title-overgeared"
+    "https://www.invenglobal.com/articles/26716/nexon-reveals-key-systems-for-new-title-overgeared",
+    "https://www.invenglobal.com/articles/26715/zeka-if-we-trust-each-other-and-play-well-we-can-win-gold",
+    "https://www.invenglobal.com/articles/26714/sonic-the-hedgehog-gets-the-museum-treatment-at-35",
+    "https://www.invenglobal.com/articles/26713/synergy-with-gumayusi-our-bodies-remember-keria-promises-strong-results",
+    "https://www.invenglobal.com/articles/26712/gumayusi-just-one-step-i-will-definitely-win-gold",
+    "https://www.invenglobal.com/articles/26711/head-coach-kang-dong-hoon-for-the-finals-i-will-only-think-about-gold"
   ],
   "title_hashes": [
-    "7c7ac6afce6fd03bc4d95a4a8b4d013d",
-    "9b445955ae9bc1f91c6481823deb689d",
-    "97f914a770f7ed5823595878fd6d39a3",
-    "6618761bd365e2afb916d4d4b5f19149",
-    "770cc330ff436551e378e46bc5fe1a4b",
     "79381e211a8fdc1ec27e21a0b247395d",
     "7da7c4d39cc5f67e2dcdbd7e44bd80d4",
     "8ec12d4175b1a77cb841e728b15235d9",
@@ -16001,7 +15996,12 @@
     "7a5256b61430360db81db6d26c9b37c8",
     "b84616a01205354cce6f8d90c641a642",
     "9012b7a7dbc561b121f08ed06737fd43",
-    "ce8dc001532b1accfff2e8665277fb33"
+    "ce8dc001532b1accfff2e8665277fb33",
+    "29efd0e798138f6f42368d745a9dbfe9",
+    "4de7cd0c7b5cbb7b95076b239d7248ca",
+    "0ae1c160038c627b172befc45ab93020",
+    "6de9ecebf18bc2894a843adfd838e450",
+    "574376d45102c0990bc63e03ef7991cc"
   ],
   "transfers": {
     "pages": {
@@ -21224,6 +21224,26 @@
     {
       "t": "1 episode introducing its key mmorpg new nexon october overgeared overtalk released reveals systems title video",
       "ts": 1790846021.5458946
+    },
+    {
+      "t": "0 2 advance arabia asian can defeated each final games geon gold kespathe kim korea korean league legends national other play saudi south team trust well win woo zeka",
+      "ts": 1790846026.8414805
+    },
+    {
+      "t": "35 8 ark art article coverage exhibit gets headphones hedgehog inside invenglobal invenlast john museum pair popko reporter sonic speed this treatment turntables wearing weekend worked written years",
+      "ts": 1790846030.3265662
+    },
+    {
+      "t": "0 2 advance arabia asian bodies defeated final games gumayusi keria kespathe korea korean league legends min national our player promises remember results ryu saudi seok south strong synergy team",
+      "ts": 1790846033.9485526
+    },
+    {
+      "t": "2 arabia defeated definitely gold gumayusi hyeong just kespathe korea korean league lee legends min national one player saudi south step team will win",
+      "ts": 1790846037.3675117
+    },
+    {
+      "t": "2 about advanced after arabia asian coach defeating dong finals games gold head hoon kang kespasouth korea korean league legends national only saudi south team think will",
+      "ts": 1790846040.8497498
     }
   ]
 }
