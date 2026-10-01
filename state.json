@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/22/galaxy-racer-pakistan-planning-the-countrys-largest-esports-event-to-date/",
-    "https://thebusinessofesports.com/2021/12/21/report-mobile-gaming-to-become-5b-market-in-india-by-2025/",
-    "https://thebusinessofesports.com/2021/12/21/50000-people-pre-register-for-qlan-on-google-play-store/",
-    "https://thebusinessofesports.com/2021/12/21/espl-agrees-to-partnership-with-homebois/",
-    "https://thebusinessofesports.com/2021/12/21/intema-to-acquire-parabellum-media-inc/",
     "https://thebusinessofesports.com/2021/12/21/meta-kicks-off-first-gaming-community-challenge-in-india/",
     "https://thebusinessofesports.com/2021/12/21/skyesports-mobile-open-esports-tournament-revealed/",
     "https://thebusinessofesports.com/2021/12/21/epic-games-investigates-issues-with-logins-matchmaking-and-connectivity-in-fortnite/",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjN5ekJKZlp0VGN0LThxQkxZaGFDdGJ4emREMGpmMDJ2OWFaOTNOeXlPSGNyamstZHhSamRHV2JBdkoyNkRGMklkZDJUdjU4RzdsaU1vZEF0ZW9saDZXNTVJa2k4SlY2LWdmd0VyRy1Xa2tSSmJBVWdnQnBCQVNyTEYxVlEzclFVMWJpc084d1RBYk5zTVJjYkU2aVZFU2h3dmNOQjhLOTlsNHN1ak9n?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUMyNlFxNG45OVBzM0VlMVRPeDNReWpRcTRSd0t5WHNad0ZuWGkwaXpzWWJnT1BlMG5jSTh4Nk5YVmcxWmNFeHpPeE9kYnloQTNXT0d5WVpVQk9nY2MxVV9ZMDFjbHNrYmRhTHh2dEtpdGFGM0I0QUYxVzBIMV9DZ0RHU1JqWUtxZUE?oc=5",
     "https://www.talkesport.com/news/ea-fc-27/fc-27-duplicate-cards-ultimate-team-ban-concerns/",
-    "https://www.talkesport.com/news/steam-autumn-sale-2026-games-under-5-best-deals-to-grab-now/"
+    "https://www.talkesport.com/news/steam-autumn-sale-2026-games-under-5-best-deals-to-grab-now/",
+    "https://www.talkesport.com/news/gaming/roblox/roblox-api-rate-limits-99-percent-cut/",
+    "https://www.talkesport.com/news/revenant-xspark-monster-athletes-xyaa-sensei-neyoo/",
+    "https://www.talkesport.com/news/fortnite-sidekick-npcs-invisible-bug/",
+    "https://www.talkesport.com/news/ps5-qssr-ai-upscaling-sony-ps5-pro-pssr/",
+    "https://www.talkesport.com/news/steam-autumn-sale-2026-biggest-discounts/"
   ],
   "title_hashes": [
-    "b125cc99a128447ddbc228b6e340dd00",
-    "bbe5ddb901ab20f7a7a6b46ba787c383",
-    "97d36cbe37f375bb00f2a4ddf58193aa",
-    "0574d22d5205251188769136690b651e",
-    "6d4d29c52cef6438d927f09e11d74508",
     "3617b7420dd588f71d89790017e9be79",
     "b2b6a3b6ee814b8b100c151d664ba140",
     "b3b52062fc80030bdde121da8c382fdf",
@@ -16001,7 +15996,12 @@
     "6120b04c3d1171b4761647ceaea4b1f5",
     "75c25bc09ec6838a661f82ab54082467",
     "42870db8b95b0ea8e390325e1d755dfd",
-    "25cdd62bf1225d24a465f3c25a655507"
+    "25cdd62bf1225d24a465f3c25a655507",
+    "c65388fc6b82e3e66de31c872de91393",
+    "de69d437d3d229afb4166d4e1b941762",
+    "30d5180a083359b352319ba80d02d5e5",
+    "b5d8d6f1d5a15517cb5a9eda2ffaf73b",
+    "5ddbb63a29ae6a40d9294ca4780cb9e3"
   ],
   "transfers": {
     "pages": {
@@ -21264,6 +21264,26 @@
     {
       "t": "1 2026 5 8 autumn best category cover dates deals discounts eligibility every games grab here now october own prices publishers rules runs sale says set start steam their times under valve",
       "ts": 1790889199.8822548
+    },
+    {
+      "t": "000 10 100 19 2026 99 after also alternatives api cloud complication cut developers gaps its limits minute october open per plans published requests reveals roblox selected some table web",
+      "ts": 1790889204.8126016
+    },
+    {
+      "t": "5 added athletes become creators has hiranandani join kaashvi monster multi neyoo partnerships post revenant rntx roster scoutop sensei taking they through xspark xyaa year",
+      "ts": 1790889208.2748187
+    },
+    {
+      "t": "1 activit bug build can characters concerns creator creature developers epic following fortnite games going have investigating invisible islands made makes npcs october problem reports sidekick sidekicks that their",
+      "ts": 1790889211.8379142
+    },
+    {
+      "t": "advantages associated base biggest bringing console gave giving guided image just one original previously pro ps5 qssr quick reconstruction resolution sony spectral standard streamlined super technology version",
+      "ts": 1790889215.228024
+    },
+    {
+      "t": "1 2026 5 8 appeared autumn biggest discounts first games october post runs sale steam talkesport top",
+      "ts": 1790889218.621848
     }
   ]
 }
