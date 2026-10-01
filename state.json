@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/23/new-info-comes-out-about-the-valorant-champions-tour/",
     "https://thebusinessofesports.com/2021/12/23/esports-journalist-jarek-dekay-lewis-quits-esports-for-foreseeable-future/",
     "https://thebusinessofesports.com/2021/12/23/premier-league-goalkeeper-ben-foster-and-tiktok-superstar-jeremy-lynch-go-head-to-head-in-fifa-22-on-the-game-room/",
     "https://thebusinessofesports.com/2021/12/23/mubadala-and-abu-dhabi-gaming-partner-to-develop-esports-ecosystem/",
@@ -7999,10 +7998,10 @@
     "https://pley.gg/cs2/heroic-benches-head-coach-doto-despite-recent-tournament-success/",
     "https://pley.gg/valorant/best-players-at-valorant-masters-2026/",
     "https://pley.gg/valorant/first-four-teams-secure-playoff-spots-at-valorant-champions-2026/",
-    "https://pley.gg/cs2/sycrone-nominated-as-coach-of-the-year-at-esports-awards-2026/"
+    "https://pley.gg/cs2/sycrone-nominated-as-coach-of-the-year-at-esports-awards-2026/",
+    "https://pley.gg/cs2/stake-ranked-4-begins-in-barcelona-with-major-race-implications/"
   ],
   "title_hashes": [
-    "bddfe0d86902acd97d1352a59d06d048",
     "e29f88968456e796f96a9872298646e7",
     "28e3b39415272c1f6a79010e408abd01",
     "a21cf388ae6f1d98d5ecdbf1db1bf0d8",
@@ -16001,7 +16000,8 @@
     "781c8961565cea2d243f297a6aa2dfa8",
     "200f25ed6f802a33fb3c509edf56cd3c",
     "ed2bddcedd7098daa90e8b08fde17f1e",
-    "46c78b15090273895648d27078bb108c"
+    "46c78b15090273895648d27078bb108c",
+    "80b6d1227c49e09edd3f059fecb1efa4"
   ],
   "transfers": {
     "pages": {
@@ -21320,6 +21320,10 @@
     {
       "t": "2026 awards coach esports nominated sycrone year",
       "ts": 1790872337.6540954
+    },
+    {
+      "t": "4 barcelona begins implications major race ranked stake",
+      "ts": 1790872343.176326
     }
   ]
 }
