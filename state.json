@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/27/rockstar-co-founder-jamie-king-believes-that-studios-games-will-become-less-edgy/",
-    "https://thebusinessofesports.com/2021/12/27/investments-in-gaming-startups-reach-five-year-high/",
-    "https://thebusinessofesports.com/2021/12/27/college-football-video-game-expected-to-be-released-in-2023/",
-    "https://thebusinessofesports.com/2021/12/27/sonys-gaming-division-acquires-god-of-war-development-company/",
-    "https://thebusinessofesports.com/2021/12/27/western-digital-hosts-the-second-edition-of-wd_black-cup-esports-tournament-for-gamers-across-south-asia/",
     "https://thebusinessofesports.com/2021/12/27/twitchs-co-founder-creates-new-start-up-company/",
     "https://thebusinessofesports.com/2021/12/27/square-enix-pulls-price-from-final-fantasy-7-remake-after-fan-backlash/",
     "https://thebusinessofesports.com/2021/12/27/zelus-esports-to-launch-new-platform-for-non-profits-organizations-and-media-companies/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26692/astrae-oratio-unveils-prologue-animation-pv-an-incident-shaking-tokyos-night",
     "https://www.invenglobal.com/articles/26691/samsung-unveils-galaxy-tab-s12-expanding-ai-productivity",
     "https://www.invenglobal.com/articles/26690/soop-launches-mentoring-program-on-oct-1-to-support-growth-of-new-and-returning-streamers",
-    "https://www.hltv.org/news/45606/donk-is-second-most-picked-in-epl-s24-group-stage-fantasy-despite-250k-price"
+    "https://www.hltv.org/news/45606/donk-is-second-most-picked-in-epl-s24-group-stage-fantasy-despite-250k-price",
+    "https://www.hltv.org/news/45602/snappi-takes-over-as-heroic-coach",
+    "https://www.hltv.org/news/45603/esl-expands-iem-cologne-playoffs-to-eight-teams-for-2027-with-360-stage-setup",
+    "https://www.hltv.org/news/45588/fut-confirm-sunpayus-signing",
+    "https://www.hltv.org/news/45601/heroic-bench-doto",
+    "https://www.hltv.org/news/45596/rating-30-receives-small-accuracy-improvements"
   ],
   "title_hashes": [
-    "c13e01fc4b8ff648cfcaaa9acba06daa",
-    "4dd4682e958d7f75d3e55a232f33b81d",
-    "00a532e992144a66c24c106fce17a8fe",
-    "a33d6d0ab8cbc72964e0848ed242c980",
-    "b613ec8aa94318ab45e7fa1733ea9ad7",
     "6f080a8982c3555b28ab6372b9988d92",
     "65bfb7aa636bc9e1fed9681f6fa70d0b",
     "88890d9e003d8cc11cec01a19a8373a5",
@@ -16001,7 +15996,12 @@
     "bcfc71915cfe8966964beabb5fe9dfac",
     "9312690aaa009b4ac498ac4500d0e3bf",
     "a059dd1245662f3e9885122c16809d4d",
-    "2e175c0f26f57d54988d3ce5f9c5c9a9"
+    "2e175c0f26f57d54988d3ce5f9c5c9a9",
+    "3d10e295a5e6b0cf9143a8cbed33e164",
+    "94783263f4e849f4e81a63c195fdfdaa",
+    "c48cec2cd4c43b7720fe53df6c167696",
+    "811270b5753cca778f44f09d362b2ded",
+    "568a27c46028add53f132a2f0d76d41e"
   ],
   "transfers": {
     "pages": {
@@ -21100,6 +21100,26 @@
     {
       "t": "250k despite donk epl every fantasy group most picked price roughly s24 second stage team third",
       "ts": 1790872118.0324733
+    },
+    {
+      "t": "36 begin career coach coaching heroic his old over represented snappi takes team two will year years",
+      "ts": 1790872123.7880528
+    },
+    {
+      "t": "2027 360 cologne eight esl event expands iem later month playoffs sale setup showpiece stage teams this tickets will",
+      "ts": 1790872127.410276
+    },
+    {
+      "t": "after awp bench confirm ewc finalists fut player signing spanish spell sunpayus takes",
+      "ts": 1790872131.0102608
+    },
+    {
+      "t": "after been bench coach days dismissed doto finnish has heroic his just second team trophy winning",
+      "ts": 1790872134.571949
+    },
+    {
+      "t": "0 3 accuracy improvements its maps matches new played rating receives reflect release since small thousands updating",
+      "ts": 1790872138.2120612
     }
   ]
 }
