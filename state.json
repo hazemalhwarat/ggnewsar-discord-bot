@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/29/phil-spencer-head-of-microsoft-gaming-is-wary-of-exploitive-nft-gaming-projects/",
-    "https://thebusinessofesports.com/2021/12/29/nvidia-is-giving-away-matrix-themed-gaming-pcs-to-three-lucky-winners/",
-    "https://thebusinessofesports.com/2021/12/29/amazon-luna-is-hiring-linux-gaming-engineers/",
-    "https://thebusinessofesports.com/2021/12/29/guild-esports-begins-trading-stock-on-otcqb-venture-market/",
-    "https://thebusinessofesports.com/2021/12/29/atari-accidentally-launches-its-infinite-open-world-metaverse-with-gambling-and-nfts/",
     "https://thebusinessofesports.com/2021/12/29/nvidias-geforce-now-rtx-3080-subscription-available-for-instant-access/",
     "https://thebusinessofesports.com/2021/12/29/esl-launches-counter-strike-global-offensive-womens-league/",
     "https://thebusinessofesports.com/2021/12/29/genopets-raises-8-3m-in-latest-funding-round/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/100-thieves-apologize-for-ai-old-school-runescape-t-shirt-design/",
     "https://insider-gaming.com/kofyr-banned-rocket-league-competition-end-2027/",
     "https://insider-gaming.com/fortnite-servers-down-october-1/",
-    "https://insider-gaming.com/valorant-champions-tech-issues-wired-mouse/"
+    "https://insider-gaming.com/valorant-champions-tech-issues-wired-mouse/",
+    "https://esportsinsider.com/2026/10/valorant-champions-shanghai",
+    "https://esportsinsider.com/2026/10/bfbs-esports-pro-league-raf-museum",
+    "https://esportsinsider.com/2026/10/asian-games-esports-gold",
+    "https://www.hotspawn.com/dota2/news/is-team-spirit-the-best-managed-org-in-dota-2",
+    "https://www.hotspawn.com/league-of-legends/news/mkoi-jojopyun-caedrel-podcast"
   ],
   "title_hashes": [
-    "106900ec63e45db76a8b3fc737e0dc8f",
-    "93c6809b4fe128386ca35be815d90a16",
-    "854a461b3c5b9f02a576d72eb2872aed",
-    "10b68b2927c7771256deb5fa8fd82ddc",
-    "944280f7953012e3ba16bc34f2e2d5d9",
     "bc537e6cccff6fed9def16bd6c792387",
     "1d7e31bc765a4d54f19c61f45d7f0e21",
     "517ee0a91ad698a3a9dae7ae1254abec",
@@ -16001,7 +15996,12 @@
     "7b5d0c2b7d4a6f02dc3c0c74f93a56a6",
     "9f1f09a2c1ecd5462352bcb455938cf4",
     "e6586e8d8728b57c0c127f0ce7706a29",
-    "9a0ab625b1ec6be442f75e116a4aa641"
+    "9a0ab625b1ec6be442f75e116a4aa641",
+    "5c85aa4075cc63dfb37126fa5dea312c",
+    "5b363e9d8b6c141510c7a26f0f718e58",
+    "26f47d5f9183a59b6d480966aec3f3d3",
+    "83fc5e76f536b064c9c600485a87a938",
+    "65e05548afb088cc96da510abf120f5a"
   ],
   "transfers": {
     "pages": {
@@ -21304,6 +21304,26 @@
     {
       "t": "after asked asks champions computer difficulties event games has have issues mouse plagued players post riot shanghai tech technical use valorant wired",
       "ts": 1790846098.798873
+    },
+    {
+      "t": "after asked being caused champions desk during error interference matches mice pauses players post puts rollback scrutiny shan shanghai under use valorant wired",
+      "ts": 1790846103.7358346
+    },
+    {
+      "t": "activity air armed awash bfbs childhood community esports featuring finished fondly force forces gaming hendon instead leaders league museum not panel place pro remember royal this voices weekend well",
+      "ts": 1790846107.3531287
+    },
+    {
+      "t": "asian beat became benchmark china esports final first games gold identity japan medal new post sets win woman xinyue",
+      "ts": 1790846110.8306305
+    },
+    {
+      "t": "2 actually all appreciate aspect best but can dota great guys history how maintain managed many org organizations players pretty rosters spirit staff talent team their there think those throughout underrated well",
+      "ts": 1790846114.2516863
+    },
+    {
+      "t": "already back been but done everyone exactly has holding jojopyun know knows makes mkoi moment months needs opposite other recognise rush solution sometimes takes team there thinks times visible what yet you",
+      "ts": 1790846117.6324642
     }
   ]
 }
