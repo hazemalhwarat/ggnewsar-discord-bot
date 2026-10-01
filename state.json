@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/25/partnership-announced-between-velocity-gaming-and-loco/",
-    "https://thebusinessofesports.com/2021/12/25/promod-esports-reveals-more-info-on-polaris-the-valorant-regional-league-for-northern-europe/",
-    "https://thebusinessofesports.com/2021/12/25/gaming-innovation-group-signs-platform-agreement-with-rank-entertainment-holdings/",
-    "https://thebusinessofesports.com/2021/12/25/partnership-extended-between-weplay-holding-and-esports-charts/",
-    "https://thebusinessofesports.com/2021/12/25/the-game-accessibility-conference-puts-accessibility-in-gaming-front-and-center/",
     "https://thebusinessofesports.com/2021/12/24/chess-game-finale-by-magnus-carlsen-has-been-added-to-chess-board-rapture-nft-collection/",
     "https://thebusinessofesports.com/2021/12/24/global-esports-viewership-numbers-continue-to-increase/",
     "https://thebusinessofesports.com/2021/12/24/report-china-banning-games-that-promote-lgbtq-characters-and-lifestyles/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/metro-redux-free-next-gen-update-october/",
     "https://insider-gaming.com/fortnitemares-2026-content-calendar-roadmap/",
     "https://insider-gaming.com/gray-zone-warfare-30-percent-complete-update/",
-    "https://insider-gaming.com/wordle-hints-answer-october-2-2026-1931/"
+    "https://insider-gaming.com/wordle-hints-answer-october-2-2026-1931/",
+    "https://insider-gaming.com/runefest-2026-when-schedule-how-to-watch/",
+    "https://insider-gaming.com/witcher-3-remastered-pc-performance-impacted-by-nvidia-hairworks/",
+    "https://gameriv.com/bungie-says-extraction-remains-a-major-part-of-marathon-as-it-expands-pve-and-pvp-plans/",
+    "https://gameriv.com/riot-asks-valorant-champions-shanghai-players-to-use-wired-mice-after-interference-issues/",
+    "https://www.vlr.gg/764374/nongshim-redforce-eliminates-xlg-continues-shanghai-curse"
   ],
   "title_hashes": [
-    "a97af9180f2a2cbc73af85bd81243462",
-    "0b0ab293694e8649dbfcaf1dbfe3ac8b",
-    "429706b4531ebc0a7c7f6ab55c16f08b",
-    "92d19832ea8d994cd0c90b1afb243797",
-    "c136c2ec9f6dbc3b1e80df04149f0246",
     "c6a46fff4461bad980bb450b0d03494b",
     "10b2cf286b064601d84250037ae7aee7",
     "8268a886a588db04ef80038fbb5c2d4e",
@@ -16001,7 +15996,12 @@
     "e998a86c53e9636542bad10462cb4d9d",
     "c1121ca4c3d09fdc239c5494fcc7a6e6",
     "c14138a1be60f0996c78dbaf2b2c957f",
-    "56d61174c778ee8eb5a24d206ac40499"
+    "56d61174c778ee8eb5a24d206ac40499",
+    "5210c75f3bb2fdea1b59eaad4488fc53",
+    "4659fc4bfd486197e93aaac4dcc78522",
+    "e105116abe848c8880822bb0b7bba106",
+    "4fc52a95ed0ec69e02b6fba06edf9df8",
+    "10975e085b40a80043309b8d4e2d83dd"
   ],
   "transfers": {
     "pages": {
@@ -21160,6 +21160,26 @@
     {
       "t": "1931 2 2026 answer game get help helpful hints need october post starting today wordle words",
       "ts": 1790872178.1792536
+    },
+    {
+      "t": "2026 about all explained future here how just learn means post runefest runescape schedule some streams that time watch",
+      "ts": 1790872183.47668
+    },
+    {
+      "t": "3 could hairworks impacted issue issues nvidia performance post projekt red remastered stem suggests that witcher",
+      "ts": 1790872187.0944543
+    },
+    {
+      "t": "bungie chafe confirmed continue del director expands extraction future game has iii introducing major marathon more part plans play pve pvp remains says team that upcoming updates updating ways will",
+      "ts": 1790872190.672408
+    },
+    {
+      "t": "after all also asking asks caused champions company connection disrupted games interference issues matches mice mouse pauses players repeated replacing riot shanghai technical use valorant wired",
+      "ts": 1790872194.2372074
+    },
+    {
+      "t": "0 2 champions chinese competition continues curse eliminates elimination exit gaming lai making match nongshim redforce second shanghai swept team xlg",
+      "ts": 1790872197.798096
     }
   ]
 }
