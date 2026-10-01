@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/22/falafel-coin-becomes-the-first-blockchain-gaming-company-to-release-a-play-to-earn-crypto-game-on-apple-app-store/",
-    "https://thebusinessofesports.com/2021/12/22/meta-adds-new-interactive-elements-to-facebook-gaming-in-effort-to-help-build-community-engagement/",
-    "https://thebusinessofesports.com/2021/12/22/howlx-launches-with-gaming-profits-generating-mechanisms/",
-    "https://thebusinessofesports.com/2021/12/22/100m-blockchain-gaming-fund-created-by-gala-games-and-c%c2%b2-ventures/",
-    "https://thebusinessofesports.com/2021/12/22/gamee-has-second-g-bot-nft-sale-for-arc8-game/",
-    "https://thebusinessofesports.com/2021/12/22/twitch-streamer-shroud-explains-why-he-wont-be-returning-to-competitive-esports/",
-    "https://thebusinessofesports.com/2021/12/22/champion-and-hasbro-gaming-partner-for-new-apparel-and-footwear-line/",
-    "https://thebusinessofesports.com/2021/12/22/nfts-risk-being-used-for-unpopular-microtransactions-by-gaming-corporations/",
     "https://thebusinessofesports.com/2021/12/22/nft-kart-racing-game-created-by-blue-monster-games/",
     "https://thebusinessofesports.com/2021/12/22/nigerias-first-gaming-experience-center-launched-by-betway/",
     "https://thebusinessofesports.com/2021/12/22/thetan-arena-hits-5-million-users/",
@@ -7999,16 +7991,17 @@
     "https://www.invenglobal.com/articles/26681/escape-from-playtime-hands-on-poppy-playtime-gets-small-social-and-surprisingly-funny",
     "https://www.invenglobal.com/articles/26728/netmarble-brings-demon-slayer-heroes-to-seven-knights-rebirth",
     "https://www.invenglobal.com/articles/26727/base-ps5-life-extended-as-pro-exclusive-ai-upscaling-arrives",
-    "https://www.invenglobal.com/articles/26726/open-to-everyone-archeage-chronicles-steam-demo-begins-october-20"
+    "https://www.invenglobal.com/articles/26726/open-to-everyone-archeage-chronicles-steam-demo-begins-october-20",
+    "https://www.hltv.org/news/45604/sources-the-mongolz-set-sights-on-nin9",
+    "https://insider-gaming.com/march-of-giants-coming-soon-access-playtest/",
+    "https://insider-gaming.com/gray-zone-warfare-rogue-ops-update-drug-baron/",
+    "https://insider-gaming.com/honor-of-kings-kpl-grand-final-schedule-watch/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-october-2-1209/",
+    "https://insider-gaming.com/insider-gamings-28-games-later-horror-showcase-everything-announced/",
+    "https://insider-gaming.com/dark-pals-showcase/",
+    "https://insider-gaming.com/transit-showcase/"
   ],
   "title_hashes": [
-    "151807753abf45fecba3c260c562ef40",
-    "6ad840bebabb09b63e98a41bff052a52",
-    "5207ac278582e360fd37b98589b13a07",
-    "9fa02857259204c70bf695bf3923005f",
-    "56614147a863d1ed6faa781a95df2f1c",
-    "8b81f157b5399731e7a8f9a0a9adbcc5",
-    "bf1145bc62f74931750c69269e33ebf9",
     "ba31616f0e9b7357e679a997bd9047bb",
     "e31ab7d7e1fce69f12ca134c71044230",
     "c369a3d0fde44aa5a57abcf6dc885988",
@@ -16001,7 +15994,14 @@
     "2bc4013bf71306c3b7f26214823152ca",
     "a12524d3ea88d4192f9400bd098e7763",
     "efa7dc7048a8db56b6bed2582cffea41",
-    "4e22f7395c2e366519bdd7a7bbc5c411"
+    "4e22f7395c2e366519bdd7a7bbc5c411",
+    "85b53d952bf6bb7bfed0a15ce9d0b72d",
+    "29dc14667a317ae388818fe5990a7d7e",
+    "682e5a67d5fcccf4889469b78758d3bd",
+    "574d57713264814893739c712a3ab2ee",
+    "3177e261da5b4b09528e00ffe4963bbe",
+    "5bd5684c9b3a5eadb22c4310966fea09",
+    "219f12e6efc944e783654060735c2c41"
   ],
   "transfers": {
     "pages": {
@@ -21204,6 +21204,26 @@
     {
       "t": "20 action archeage begins chronicles demo everyone fest free mmorpg next october open participating showcase steam world xlgames",
       "ts": 1790889143.0069048
+    },
+    {
+      "t": "0 5 8216 8217 baron becoming can chance cutthroat drug gray have huge into lamang ops post rogue terrorizing turn update warfare you zone",
+      "ts": 1790889148.3399444
+    },
+    {
+      "t": "2026 esports everything finals grand here honor how kings know kpl most need one post predictions represents schedule tournaments valuable watch you",
+      "ts": 1790889151.878795
+    },
+    {
+      "t": "28 8212 8217 announced don during event everyt everything games gaming have horror insider later missed post showcase that worry",
+      "ts": 1790889155.3243906
+    },
+    {
+      "t": "2 28 2nd dark during floor games gamin gaming had hit insider later original pals post premiere revealed sequel showcase shown title world",
+      "ts": 1790889158.7524745
+    },
+    {
+      "t": "28 appearance can feature first game games gaming horror insider its later looks might new post puppet see showcase sock talking traile trailer train transit which you",
+      "ts": 1790889162.209031
     }
   ]
 }
