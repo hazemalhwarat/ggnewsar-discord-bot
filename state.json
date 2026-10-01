@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/23/global-esports-games-unveils-partners-for-inaugural-event/",
-    "https://thebusinessofesports.com/2021/12/23/columbia-pacific-advisors-business-finance-strategy-provides-30m-loan-to-esports-technologies/",
-    "https://thebusinessofesports.com/2021/12/23/fort-worth-independent-school-district-embraces-growing-esports-industry-expanding-program/",
-    "https://thebusinessofesports.com/2021/12/23/the-global-gaming-mouse-and-keyboard-market-will-be-worth-over-2b-by-2026/",
-    "https://thebusinessofesports.com/2021/12/23/details-unveiled-for-2022-valorant-champions-tour/",
     "https://thebusinessofesports.com/2021/12/23/new-info-comes-out-about-the-valorant-champions-tour/",
     "https://thebusinessofesports.com/2021/12/23/esports-journalist-jarek-dekay-lewis-quits-esports-for-foreseeable-future/",
     "https://thebusinessofesports.com/2021/12/23/premier-league-goalkeeper-ben-foster-and-tiktok-superstar-jeremy-lynch-go-head-to-head-in-fifa-22-on-the-game-room/",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVRJQU9iUnZ4aE50TWFfeEU5MDItY05RQURjbEFybmQ3UElSakRjWnVTb1V1RHBXRUg4b1JaV1U4VkxVT241TUdtZ2tyUlFLTGlSdGhBWC14dGY5MmZLQXFSaUNQRm1nY2VENTZvYVo5dnQ0cFlWZU9YUUlrX1Y3UmhvRXRNZw?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2RTZU9FOS1EQjlyZ2JVdFBENW1Nb0x2aFMwbFNIWUxNNnFsdWZ4UXpKMGRTcG9SMTNQUGJDdy1PMExUNWc4M2VNYmRtOFc4ZXVJS3hoWThlSXRKUXhLbk9YS3VjMUt1di04bjVNbk1RSi0yZUsyaEZ1NU5KdWJVMkIwUUNCYVhtdVBEMzJzV2VjZzFQeFBVTmpRV2ptQQ?oc=5",
     "https://pley.gg/cs2/snappi-becomes-head-coach-for-heroic/",
-    "https://pley.gg/cs2/fut-acquires-sunpayus-as-primary-awper-following-his-release-from-g2/"
+    "https://pley.gg/cs2/fut-acquires-sunpayus-as-primary-awper-following-his-release-from-g2/",
+    "https://pley.gg/cs2/esl-confirms-extended-arena-format-and-new-360-degree-stage-for-iem-cologne-2027/",
+    "https://pley.gg/cs2/heroic-benches-head-coach-doto-despite-recent-tournament-success/",
+    "https://pley.gg/valorant/best-players-at-valorant-masters-2026/",
+    "https://pley.gg/valorant/first-four-teams-secure-playoff-spots-at-valorant-champions-2026/",
+    "https://pley.gg/cs2/sycrone-nominated-as-coach-of-the-year-at-esports-awards-2026/"
   ],
   "title_hashes": [
-    "f93469f3185d33c8a2025c5078ae7670",
-    "0eed4a7982b862d4bf51edefca0b1c46",
-    "674a8eaaa3c8702675c035d3173f4da9",
-    "c079c77dfc2a014a675cf0354216e56f",
-    "8e83830733f4bf775f77ce0e1dca82c0",
     "bddfe0d86902acd97d1352a59d06d048",
     "e29f88968456e796f96a9872298646e7",
     "28e3b39415272c1f6a79010e408abd01",
@@ -16001,7 +15996,12 @@
     "4ab0228c1ce70f16160143197578ae9b",
     "c88ca8cf9628a3cdfa01e1eeb8c482fe",
     "2d71ea1adf7cb090bb5202b8bd36a313",
-    "36ebe4dc84dd0215468a498b6488fd1c"
+    "36ebe4dc84dd0215468a498b6488fd1c",
+    "eb03e51ebdfdc745cbab80188a832063",
+    "781c8961565cea2d243f297a6aa2dfa8",
+    "200f25ed6f802a33fb3c509edf56cd3c",
+    "ed2bddcedd7098daa90e8b08fde17f1e",
+    "46c78b15090273895648d27078bb108c"
   ],
   "transfers": {
     "pages": {
@@ -21300,6 +21300,26 @@
     {
       "t": "acquires awper following fut g2 his primary release sunpayus",
       "ts": 1790872317.8749971
+    },
+    {
+      "t": "360 arena confirms esl extended format new",
+      "ts": 1790872323.308222
+    },
+    {
+      "t": "benches coach despite doto head heroic recent success tournament",
+      "ts": 1790872326.8790684
+    },
+    {
+      "t": "2026 best masters players valorant",
+      "ts": 1790872330.4379015
+    },
+    {
+      "t": "2026 champions first four playoff secure spots teams valorant",
+      "ts": 1790872333.9817426
+    },
+    {
+      "t": "2026 awards coach esports nominated sycrone year",
+      "ts": 1790872337.6540954
     }
   ]
 }
