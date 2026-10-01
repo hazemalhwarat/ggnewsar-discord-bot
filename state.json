@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/28/heinz-teams-up-with-activision-for-call-of-duty-activation/",
-    "https://thebusinessofesports.com/2021/12/27/playvs-plans-to-pause-collegiate-leagues-after-2021-fall-season-ends/",
-    "https://thebusinessofesports.com/2021/12/27/mls-esports-league-plans-return-to-in-person-events-in-january-2022/",
-    "https://thebusinessofesports.com/2021/12/27/secretlab-makes-the-witcher-themed-gaming-chair/",
-    "https://thebusinessofesports.com/2021/12/27/valorant-champions-berlin-breaks-one-million-concurrent-viewers/",
     "https://thebusinessofesports.com/2021/12/27/rockstar-co-founder-jamie-king-believes-that-studios-games-will-become-less-edgy/",
     "https://thebusinessofesports.com/2021/12/27/investments-in-gaming-startups-reach-five-year-high/",
     "https://thebusinessofesports.com/2021/12/27/college-football-video-game-expected-to-be-released-in-2023/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26697/it-will-be-different-from-hangzhou-saudi-captain-issues-challenge-to-faker",
     "https://www.invenglobal.com/articles/26694/daewon-media-launches-physical-editions-of-solarpunk-for-switch-2-and-ps5",
     "https://www.invenglobal.com/articles/26696/nc-begins-pre-registration-for-lineage-golden-desert-abella-update-on-september-30",
-    "https://www.invenglobal.com/articles/26695/chinese-taipei-defeats-vietnam-to-advance-to-lol-finals"
+    "https://www.invenglobal.com/articles/26695/chinese-taipei-defeats-vietnam-to-advance-to-lol-finals",
+    "https://www.invenglobal.com/articles/26693/beastkin-and-avians-joining-the-first-chapter-of-the-adventure",
+    "https://www.invenglobal.com/articles/26692/astrae-oratio-unveils-prologue-animation-pv-an-incident-shaking-tokyos-night",
+    "https://www.invenglobal.com/articles/26691/samsung-unveils-galaxy-tab-s12-expanding-ai-productivity",
+    "https://www.invenglobal.com/articles/26690/soop-launches-mentoring-program-on-oct-1-to-support-growth-of-new-and-returning-streamers",
+    "https://www.hltv.org/news/45606/donk-is-second-most-picked-in-epl-s24-group-stage-fantasy-despite-250k-price"
   ],
   "title_hashes": [
-    "00cc959f99ec7b7dd6bd30cd800e5454",
-    "dd3b828ee8005615948421bcce4f7f77",
-    "e1d0fb8d1cfacd0b52142b2976b9ee72",
-    "9a6b59e93fbce98c96916b84e63eeb54",
-    "9dd6383ef5df4335e6a8a1ebdb142089",
     "c13e01fc4b8ff648cfcaaa9acba06daa",
     "4dd4682e958d7f75d3e55a232f33b81d",
     "00a532e992144a66c24c106fce17a8fe",
@@ -16001,7 +15996,12 @@
     "5cbf37b8bd6118403ecd4a1b4c812ccb",
     "3454b453d2b50c402f98bcfbb48b37d4",
     "6959804b1d57162a7d677fc1d53ad164",
-    "bb04ae86cba4c757605aec3f2225db4f"
+    "bb04ae86cba4c757605aec3f2225db4f",
+    "2036d260e3925b836df51bd488c01d47",
+    "bcfc71915cfe8966964beabb5fe9dfac",
+    "9312690aaa009b4ac498ac4500d0e3bf",
+    "a059dd1245662f3e9885122c16809d4d",
+    "2e175c0f26f57d54988d3ce5f9c5c9a9"
   ],
   "transfers": {
     "pages": {
@@ -21080,6 +21080,26 @@
     {
       "t": "2026 advance aichi asian associationchinese chinese defeated defeats esports finals games leagu lol nagoya national taipei team vietnam",
       "ts": 1790872098.441886
+    },
+    {
+      "t": "127918 adventure avians azur beastkin chapter cutedeveloped domestic first game games infotitle joining manjuu mobiletags nexon nexonplatform openworld promiliadeveloper sandbox slated subculture",
+      "ts": 1790872103.783639
+    },
+    {
+      "t": "animated animation astrae captures form game has incident night opening oratio prologue released rpg shaking story subculture that this tokyo unveils video",
+      "ts": 1790872107.358839
+    },
+    {
+      "t": "1 electronics expanding galaxy its new october premium productivity s12 samsung tab tablets ultra unveiled unveils",
+      "ts": 1790872110.8588207
+    },
+    {
+      "t": "1 activities adapt broadcasting growth help launches mentoring new oct operate partners platform program returning soop soopstarting streamers support sustain their will",
+      "ts": 1790872114.407971
+    },
+    {
+      "t": "250k despite donk epl every fantasy group most picked price roughly s24 second stage team third",
+      "ts": 1790872118.0324733
     }
   ]
 }
