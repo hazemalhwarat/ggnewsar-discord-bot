@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/29/partners-and-race-schedule-announced-by-enascar/",
-    "https://thebusinessofesports.com/2021/12/29/partnership-extended-between-bayes-and-riot-games/",
-    "https://thebusinessofesports.com/2021/12/29/guild-esports-and-playstation-partner-for-fifa-tournament/",
-    "https://thebusinessofesports.com/2021/12/29/university-of-providence-rejoins-nace/",
-    "https://thebusinessofesports.com/2021/12/29/geforce-now-brings-native-resolution-pc-gaming-to-macbook-pro/",
     "https://thebusinessofesports.com/2021/12/29/the-free-fire-world-series-was-2021s-most-watched-esports-event/",
     "https://thebusinessofesports.com/2021/12/29/zynga-and-forte-form-strategic-alliance/",
     "https://thebusinessofesports.com/2021/12/29/turtle-rock-studios-acquired-by-tencent/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26714/sonic-the-hedgehog-gets-the-museum-treatment-at-35",
     "https://www.invenglobal.com/articles/26713/synergy-with-gumayusi-our-bodies-remember-keria-promises-strong-results",
     "https://www.invenglobal.com/articles/26712/gumayusi-just-one-step-i-will-definitely-win-gold",
-    "https://www.invenglobal.com/articles/26711/head-coach-kang-dong-hoon-for-the-finals-i-will-only-think-about-gold"
+    "https://www.invenglobal.com/articles/26711/head-coach-kang-dong-hoon-for-the-finals-i-will-only-think-about-gold",
+    "https://www.invenglobal.com/articles/26710/rf-online-next-opens-pre-registration-for-super-boost-server-nova",
+    "https://www.invenglobal.com/articles/26709/demons-night-fever-physical-korean-edition-pre-orders-open-oct-2",
+    "https://www.invenglobal.com/articles/26708/south-korea-defeats-saudi-arabia-2-0-to-advance-to-finals",
+    "https://www.invenglobal.com/articles/26707/legendary-skill-book-appears-in-calteon-too-exchange-market-price-check",
+    "https://www.invenglobal.com/articles/26706/dungeon-fighter-online-replaces-new-event-artwork-amid-ai-illustration-controversy"
   ],
   "title_hashes": [
-    "79381e211a8fdc1ec27e21a0b247395d",
-    "7da7c4d39cc5f67e2dcdbd7e44bd80d4",
-    "8ec12d4175b1a77cb841e728b15235d9",
-    "f95d4595555aed3733716c0b3eec2c30",
-    "83909bf8fd966a0c875422d48a67d851",
     "fe65cf60a5c13dedc7f386e7767c72ef",
     "f8dad2f0fd176c9fb5c39601f31a541c",
     "d4d479d1d7974d7c7af76bd0eff9aea4",
@@ -16001,7 +15996,12 @@
     "4de7cd0c7b5cbb7b95076b239d7248ca",
     "0ae1c160038c627b172befc45ab93020",
     "6de9ecebf18bc2894a843adfd838e450",
-    "574376d45102c0990bc63e03ef7991cc"
+    "574376d45102c0990bc63e03ef7991cc",
+    "0c9f6c8f9a103fc2ab2da175bc3c493d",
+    "f5b54f14d21d8dca5b32571d800dce65",
+    "e218789fb749a9860e4ed0e8f7c31283",
+    "2723f982017c1aad741b24484fdd2d6b",
+    "254299f6f0866a306fb23cb5ff255dce"
   ],
   "transfers": {
     "pages": {
@@ -21244,6 +21244,26 @@
     {
       "t": "2 about advanced after arabia asian coach defeating dong finals games gold head hoon kang kespasouth korea korean league legends national only saudi south team think will",
       "ts": 1790846040.8497498
+    },
+    {
+      "t": "1st began boost its mmorpg mobile netmarblenetmarble next nova online opens pre registration server super",
+      "ts": 1790846045.7983568
+    },
+    {
+      "t": "2 20 arc asia asiaarc demons edition fever korean ltd night oct october open orders physical pre rpg run simulation speedrun system will works",
+      "ts": 1790846049.243456
+    },
+    {
+      "t": "0 2 advance advanced arabia defeats finals gold has korea korean lol medal national quest saudi south successfully team their",
+      "ts": 1790846052.7625415
+    },
+    {
+      "t": "30 added adjusted appears book calteon certain check collection difficulty enchant entries exchange grounds hereinafter hunting legendary market new nine normal price region rewards september skill sol too utilizing wednesday",
+      "ts": 1790846056.1460762
+    },
+    {
+      "t": "amid art artwork before controversial controversy dungeon event facing featured fighter illustration illustrations image its modification new nexondungeon online over rece replaces style use",
+      "ts": 1790846059.617607
     }
   ]
 }
