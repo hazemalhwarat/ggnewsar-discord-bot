@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/29/most-popular-meme-tokens-create-a-new-play-to-earn-platform/",
-    "https://thebusinessofesports.com/2021/12/29/crypto-gamefi-apps-surpass-defi-in-popularity/",
-    "https://thebusinessofesports.com/2021/12/29/global-esports-betting-is-a-66b-industry-thats-expected-to-grow/",
-    "https://thebusinessofesports.com/2021/12/29/league-of-legends-world-championship-rings-unveiled-by-riot-and-mercedes-benz/",
-    "https://thebusinessofesports.com/2021/12/29/newzoo-report-says-mobile-gaming-will-grow-to-90-7b-this-year/",
-    "https://thebusinessofesports.com/2021/12/29/uk-begins-crackdown-on-in-game-ads-and-microtransactions/",
-    "https://thebusinessofesports.com/2021/12/29/kambi-group-plc-aquires-abios/",
-    "https://thebusinessofesports.com/2021/12/29/dubit-secures-8m-for-metaverse-esports-league/",
     "https://thebusinessofesports.com/2021/12/29/phil-spencer-head-of-microsoft-gaming-is-wary-of-exploitive-nft-gaming-projects/",
     "https://thebusinessofesports.com/2021/12/29/nvidia-is-giving-away-matrix-themed-gaming-pcs-to-three-lucky-winners/",
     "https://thebusinessofesports.com/2021/12/29/amazon-luna-is-hiring-linux-gaming-engineers/",
@@ -7999,15 +7991,17 @@
     "https://www.invenglobal.com/articles/26703/seven-knights-rebirth-launches-part-1-of-demon-slayer-kimetsu-no-yaiba-collaboration",
     "https://www.invenglobal.com/articles/26702/cumulative-sales-surpass-400000-copies-dragonsword-awakening-version-11-update-arrives-oct-15",
     "https://www.invenglobal.com/articles/26701/south-korea-takes-game-1-of-semifinals-against-saudi-arabia-in-21-minutes",
-    "https://www.invenglobal.com/articles/26700/zeka-starts-as-south-korea-faces-saudi-arabia-in-lol-semifinals"
+    "https://www.invenglobal.com/articles/26700/zeka-starts-as-south-korea-faces-saudi-arabia-in-lol-semifinals",
+    "https://www.invenglobal.com/articles/26680/aion-2-hits-170000-peak-concurrent-steam-players-tops-global-top-sellers-chart",
+    "https://insider-gaming.com/gears-of-war-e-day-ranked-releasing-october-13/",
+    "https://insider-gaming.com/gears-of-war-e-day-season-1-content-duration-revealed/",
+    "https://insider-gaming.com/esports-awards-2026-nominees/",
+    "https://insider-gaming.com/100-thieves-apologize-for-ai-old-school-runescape-t-shirt-design/",
+    "https://insider-gaming.com/kofyr-banned-rocket-league-competition-end-2027/",
+    "https://insider-gaming.com/fortnite-servers-down-october-1/",
+    "https://insider-gaming.com/valorant-champions-tech-issues-wired-mouse/"
   ],
   "title_hashes": [
-    "8b2338b8a9a1f31945d6142424d2b0e7",
-    "df96205f70206f498edde8269912180f",
-    "e096c3360d8b29adbe1dbce9ef7a4264",
-    "092f5c5d25e6418d47c45cd63a14dfef",
-    "c456f0aa358b75d6a04772f1db8ad177",
-    "16eaf3564d78da3fb167ceac73b5c1f1",
     "106900ec63e45db76a8b3fc737e0dc8f",
     "93c6809b4fe128386ca35be815d90a16",
     "854a461b3c5b9f02a576d72eb2872aed",
@@ -16001,7 +15995,13 @@
     "11cbdc695a7fb989bd99f7f47c910a37",
     "2e5e7e9a0404864017f4f8bc542ffa2b",
     "7db02e9fb4f5973389b2ceb563843340",
-    "2c789d7ad235131fcd45bb6810491e73"
+    "2c789d7ad235131fcd45bb6810491e73",
+    "0e29e7d80d8a5dc05ce08d707ee96fc6",
+    "50b265032d91230acf8568ed8ad13dce",
+    "7b5d0c2b7d4a6f02dc3c0c74f93a56a6",
+    "9f1f09a2c1ecd5462352bcb455938cf4",
+    "e6586e8d8728b57c0c127f0ce7706a29",
+    "9a0ab625b1ec6be442f75e116a4aa641"
   ],
   "transfers": {
     "pages": {
@@ -21284,6 +21284,26 @@
     {
       "t": "arabia faces field geon kespathe kim korea korean league legends lol national saudi semifinals south starts team will woo zeka",
       "ts": 1790846080.0953698
+    },
+    {
+      "t": "17 2026 amongst amp announced award awards ceremony donk esports event has its miami new nominees november peyz place post second set sjokz wave",
+      "ts": 1790846085.1099641
+    },
+    {
+      "t": "100 after apologize apologized design designed drop elements has image merch old post runescape school shirt showed their thieves upcoming",
+      "ts": 1790846088.5164664
+    },
+    {
+      "t": "2027 accused affiliated after all alle allegations assault banned competition end has kofyr player post psyonix sexual until",
+      "ts": 1790846091.9515383
+    },
+    {
+      "t": "1 ahead all annual back details downtime event explained fortnite fortnitemares october post server servers start when will",
+      "ts": 1790846095.3367383
+    },
+    {
+      "t": "after asked asks champions computer difficulties event games has have issues mouse plagued players post riot shanghai tech technical use valorant wired",
+      "ts": 1790846098.798873
     }
   ]
 }
