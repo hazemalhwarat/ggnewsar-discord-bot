@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/19/one-esports-named-media-partner-of-pubg-global-championship/",
-    "https://thebusinessofesports.com/2021/12/19/tiidal-gaming-and-gamescorekeeper-agree-to-partnership/",
-    "https://thebusinessofesports.com/2021/12/18/bangchak-named-partner-of-psg-esports-rov-team-based-in-thailand/",
-    "https://thebusinessofesports.com/2021/12/18/delimobil-becomes-official-broadcast-partner-of-dota-2-champions-league-season-4/",
-    "https://thebusinessofesports.com/2021/12/18/aggregated-media-launches-a8-esports-channel/",
     "https://thebusinessofesports.com/2021/12/18/university-of-michigan-library-to-preserve-computer-and-video-games/",
     "https://thebusinessofesports.com/2021/12/18/fifa-academy-team-gullit-and-ultimo-gg-announce-new-partnership/",
     "https://thebusinessofesports.com/2021/12/18/statespace-raises-50-million-for-game-and-health-performance-training/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26753/grac-warns-of-potential-domestic-distribution-ban-for-soul-guide-over-loot-box-disclosure-violations",
     "https://www.invenglobal.com/articles/26752/to-open-world-over-dungeons-players-flock-to-unstable-nine-cores",
     "https://www.invenglobal.com/articles/26751/ace-combat-8-wings-of-theve-released-oct-2-latest-entry-in-franchise-selling-over-21-million-copies",
-    "https://www.invenglobal.com/articles/26750/smilegate-opens-new-world-celine-in-eclipse-with-separate-matchmaking"
+    "https://www.invenglobal.com/articles/26750/smilegate-opens-new-world-celine-in-eclipse-with-separate-matchmaking",
+    "https://www.invenglobal.com/articles/26749/delta-force-rise-series-korea-featuring-12-teams-kicks-off-oct-8-on-soop",
+    "https://www.invenglobal.com/articles/26748/energizing-workers-commute-home-netmarble-joins-g-valley-after-work-festival",
+    "https://www.invenglobal.com/articles/26747/zeka-starts-in-lol-final-south-korea-chases-gold-medal",
+    "https://www.invenglobal.com/articles/26746/knight-online-to-open-new-server-after-3-years-launching-november-12",
+    "https://www.invenglobal.com/articles/26745/physical-edition-of-lies-of-p-complete-edition-releases-on-nintendo-switch-2-on-october-2"
   ],
   "title_hashes": [
-    "07e8c12ad4cc683e4ef41d0f9f7edb33",
-    "e6c7ad0fe7fa331b1e92732f569a2f95",
-    "7e6759e4d573d1af984bd5ce5f963851",
-    "6f0ea83b8a9a86f0fc315b5b651a310e",
-    "8ef970287870ea5fb9a53dc465096037",
     "522fb3505f6ace222f26e21228f2dcd9",
     "9f22d8435c2d2ebd2f5006e78e52b15c",
     "09d79902ab8791b80d449da9ad45a04e",
@@ -16001,7 +15996,12 @@
     "e09585f9178c8f7fa2335678a9b568ba",
     "b4ed9f4c98e79e31885cd61e0da09861",
     "1c397e3a58799fb9d94ae3bf3d0e9d4f",
-    "6adb9fe1d86f95c83d9e88cf65d13546"
+    "6adb9fe1d86f95c83d9e88cf65d13546",
+    "472ee58deee319999926cda56c1134fa",
+    "f07bbc0f144bdb717f7e5e2fe7254b43",
+    "4dec51189deccb10da55cc64bd2b59b0",
+    "3348b9eea2813da63ef558f3a771584a",
+    "14c859c4137b50bebd603529129dea77"
   ],
   "transfers": {
     "pages": {
@@ -21212,6 +21212,26 @@
     {
       "t": "8 awakening celine eclipse hereinafter matchmaking mmorpg new npixel opening opens provided second separate smilegate smilegatesmilegate world",
       "ts": 1790921946.1079795
+    },
+    {
+      "t": "12 2026 8 broadcast delta featuring force handle kicks korea oct off operations production provided rise series soop soopsoop teams will",
+      "ts": 1790921951.0377378
+    },
+    {
+      "t": "2026 2nd after announced commute energizing festival home joins netmarble netmarblenetmarble official participated source sponsor that valley work workers",
+      "ts": 1790921954.565425
+    },
+    {
+      "t": "chases field final geon gold kespathe kim korea korean laner league legends lol medal mid national south starts team will woo zeka",
+      "ts": 1790921958.0786173
+    },
+    {
+      "t": "12 3 after develops global knight launching mgamemgame mgameprior mmorpg new noah november online open opening operates provided server system will years",
+      "ts": 1790921961.5682478
+    },
+    {
+      "t": "2 complete daewon edition lies media mediadaewon neowiz nintendo october officially physical provided released releases souls switch",
+      "ts": 1790921965.7497003
     }
   ]
 }
