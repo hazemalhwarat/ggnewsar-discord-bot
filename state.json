@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/04/nrg-looking-to-create-vietnams-official-esports-team/",
-    "https://thebusinessofesports.com/2021/08/04/turtle-beach-announces-partnerships-unveils-new-gaming-accessories/",
-    "https://thebusinessofesports.com/2021/08/04/wondr-gaming-off-to-a-hot-start/",
-    "https://thebusinessofesports.com/2021/08/04/south-korea-politician-proposes-bill-to-protect-esports-tournaments/",
-    "https://thebusinessofesports.com/2021/08/04/galaxy-gaming-secures-rights-for-perfect-pairs-in-the-united-kingdom/",
-    "https://thebusinessofesports.com/2021/08/04/ninja-says-he-once-made-5m-in-a-month-with-his-fortnite-creator-code/",
     "https://thebusinessofesports.com/2021/08/04/metafy-raises-8-65m-in-latest-round-of-funding/",
     "https://thebusinessofesports.com/2021/08/04/epic-games-offered-sony-200m-for-exclusive-titles/",
     "https://thebusinessofesports.com/2021/08/04/enthusiast-gamings-ceo-says-online-video-games-are-the-new-social-media/",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/gray-zone-warfare-ceo-cheaters-find-people/",
     "https://insider-gaming.com/riot-clarifies-valorant-champions-shanghai-desk-maker/",
     "https://insider-gaming.com/rockstar-co-founder-preparing-to-reveal-open-world-game-dystopian/",
-    "https://insider-gaming.com/riot-releases-headliners-the-music-of-league-of-legends-book/"
+    "https://insider-gaming.com/riot-releases-headliners-the-music-of-league-of-legends-book/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-october-3-1210/",
+    "https://insider-gaming.com/gta-6-most-mature-game-in-series-yet/",
+    "https://insider-gaming.com/9-games-leaving-xbox-game-pass-in-october/",
+    "https://gameriv.com/embark-is-fine-with-players-leaving-arc-raiders-between-major-updates/",
+    "https://www.hotspawn.com/dota2/news/all-teams-qualified-for-blast-slam-8-playoffs-group-stage-results",
+    "https://www.nerfplz.com/2026/10/red-post-roundup-8-rocketbelt-and-last.html"
   ],
   "title_hashes": [
-    "0f39ba8df873acc5c68598ef365e97e5",
-    "2f9d6257418b120463abf10e91490766",
-    "27912bcbb305f79dd9959b4f6247ed9f",
-    "554c61053868d61264e1df1641118824",
-    "a10404a68d6393a15fe1a379f02014ed",
-    "4eda4369437bf6095caa1025ab73ee0b",
     "cb5a812f5675606776f8c77de1da4503",
     "595ab8965f39bf1b07613ef159b4d8e4",
     "404dede1a823f10ca0958c527d92e5ed",
@@ -16001,7 +15995,13 @@
     "3f4aecc8caaa741df8009b5249fbab6a",
     "22f063cab57f8a2a29da06bfd4739467",
     "2cb24e934978738248d5ccc85f588570",
-    "fbcadae7e8d1860723002c925783cc22"
+    "fbcadae7e8d1860723002c925783cc22",
+    "a66fb15a4edb436e12ebf0857e8178f4",
+    "91fa5c24887561ad88c1a6b13c7ba4b1",
+    "a73197f5df55fdb5332084348cd2bfc2",
+    "cbf2e317cf24e02c820e0ca6e775db94",
+    "37fef421577f0aeeb0cc8431f8029563",
+    "61f4ebac365c0a089146e22277204226"
   ],
   "transfers": {
     "pages": {
@@ -21236,6 +21236,26 @@
     {
       "t": "8216 about acts book collector editions games has headliners insight league legends music partnered post release releases riot virtual",
       "ts": 1790979206.2118964
+    },
+    {
+      "t": "6 8216 8217 adult auto boards classification coming game grand gta information mature most new out post ratings series seriously shaping theft will yet",
+      "ts": 1790979211.4882362
+    },
+    {
+      "t": "2025 9 appeared been first full game games has here insider leaving list october other pass post revealed that xbox year",
+      "ts": 1790979214.9831357
+    },
+    {
+      "t": "according aim arc between break comfortable compelling embark enjoy fine games give leaving major new other players raiders reas statement studio taking those updates",
+      "ts": 1790979220.4536645
+    },
+    {
+      "t": "16 8 after all blast come days dota down eight end entered event group grueling has now online only playoffs qualified results slam stage survivors teams three",
+      "ts": 1790979223.959505
+    },
+    {
+      "t": "20 26 8 also away back balance before buy durability gives inside last lucian mages pass patch play post power pro red riot rocketbelt roundup some takes vayne who worlds",
+      "ts": 1790979227.5932941
     }
   ]
 }
