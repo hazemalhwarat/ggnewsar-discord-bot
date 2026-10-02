@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/09/the-global-console-gaming-market-will-be-worth-almost-66b-by-2025/",
-    "https://thebusinessofesports.com/2021/08/09/gaming-realms-signs-licensing-agreement-with-igt/",
-    "https://thebusinessofesports.com/2021/08/09/dignitas-signs-naming-rights-deal-with-qntmpay-for-lcs-team/",
-    "https://thebusinessofesports.com/2021/08/09/four-people-appointed-to-bitkraft-ventures-investment-team/",
-    "https://thebusinessofesports.com/2021/08/08/video-game-deals-have-reportedly-recorded-49b-so-far-in-2021/",
-    "https://thebusinessofesports.com/2021/08/08/cloud-gaming-market-to-hit-1-861b-by-2028/",
-    "https://thebusinessofesports.com/2021/08/08/cooteks-catwalk-beauty-ranked-top-game-on-u-s-ios-games-chart-on-may-13/",
     "https://thebusinessofesports.com/2021/08/08/global-esports-audience-to-grow-to-474m-people-in-2021/",
     "https://thebusinessofesports.com/2021/08/08/epic-games-overestimated-revenue-expected-from-fortnite-in-2019/",
     "https://thebusinessofesports.com/2021/08/08/analyzing-the-global-virtual-reality-gaming-market/",
@@ -7999,16 +7992,16 @@
     "https://www.hltv.org/news/45614/dumau-arts-getting-much-better-hes-probably-coming-to-malta-to-play-thunderpick",
     "https://www.hltv.org/news/45612/kyousuke-on-improving-his-consistency-its-just-being-a-bit-smarter-being-a-bit-more-disciplined",
     "https://www.hltv.org/news/45616/astralis-condemn-faze-to-last-place-exit-at-stake",
-    "https://www.hltv.org/news/45615/thunderpick-world-championship-talent-revealed"
+    "https://www.hltv.org/news/45615/thunderpick-world-championship-talent-revealed",
+    "https://www.hltv.org/news/45605/siuhy-leaves-liquid",
+    "https://insider-gaming.com/rainbow-six-siege-crashing-on-pc-fix-issues/",
+    "https://insider-gaming.com/call-of-duty-modern-warfare-4-release-date/",
+    "https://insider-gaming.com/arc-raiders-to-go-free-to-play-briefly-for-frozen-trail-launch/",
+    "https://insider-gaming.com/latest-gta-6-screenshots-showcase-new-outfits-more/",
+    "https://insider-gaming.com/valor-mortis-complete-faq-release-date-times-game-pass-early-access-platforms-more/",
+    "https://insider-gaming.com/even-t1-academy-are-world-champions-after-winning-wsci/"
   ],
   "title_hashes": [
-    "aae316a2de780fffbb38612f8425b3e2",
-    "06c341a230910d2022c522e03f0c09ba",
-    "4cf6c37d8a51c162b1c4a28fe2317a63",
-    "f9df26d2ce0685ad26553a93939353ee",
-    "46682086428cd029c5cbf28986b3c546",
-    "5ffacf5520a11c99a5211c53c2910b09",
-    "4d1b831001995280007ce7f73fb5272a",
     "d866072f656dcc172f5e8159d2bb982e",
     "1e9f665c3732f062a78b0f9e3b0291f7",
     "f02996ed78252f6d4e15fe00794edd4e",
@@ -16001,7 +15994,14 @@
     "83b80b247482bb2602d926731a7f516c",
     "19b0d98f2f337b693a66e8e3e2b5a8ff",
     "fb7ca8b070875aaae4f5518e642663bb",
-    "44afc7dbca26687b185efba3eadf4638"
+    "44afc7dbca26687b185efba3eadf4638",
+    "b639675439c5fd4b6e884dec9d22f79f",
+    "eea662f883ec3047124743f8a6e29858",
+    "abc5b9f3716c7619ff1a2b5d4d08d61d",
+    "ebfa3bae21e05a8ad248cd9fde513f13",
+    "05b49aa844e3e83d9c548712d1381363",
+    "d2245c8207c6ed8e46fc63bdfe20da37",
+    "432bba9bf429a5cc704635895bdf977d"
   ],
   "transfers": {
     "pages": {
@@ -21124,6 +21124,26 @@
     {
       "t": "12 action bring championship life malta person revealed set strong talent team thunderpick world",
       "ts": 1790964775.0187418
+    },
+    {
+      "t": "16 after departs leaves liquid pole siuhy",
+      "ts": 1790964780.4290195
+    },
+    {
+      "t": "clear crashes crashing find fix has here how issues launch leading made out post preview rainbow siege six that these ubisoft windows",
+      "ts": 1790964784.1682959
+    },
+    {
+      "t": "appeared arc briefly chance fans first free frozen game giving launch new out play post raiders time trail try",
+      "ts": 1790964787.7272449
+    },
+    {
+      "t": "6 amp appeared been brand created deeper even four games giving gta have into latest look more new outfits post revealed rockstar screenshots showcase world",
+      "ts": 1790964791.2193573
+    },
+    {
+      "t": "2 3 academy after also appeared champions championships defeating even first have insider lol post solary t1 tier two winning won world worlds wsci",
+      "ts": 1790964794.7260659
     }
   ]
 }
