@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/18/schalke-04-sells-league-of-legends-european-championship-license-to-team-bds-for-31-47m/",
-    "https://thebusinessofesports.com/2021/12/18/middle-eastern-start-up-dream-games-raises-155m-at-a-1b-valuation/",
-    "https://thebusinessofesports.com/2021/12/18/global-cloud-gaming-market-will-hit-5-37b-by-2026/",
-    "https://thebusinessofesports.com/2021/12/18/bimp-launches-defi-cryptocurrency-gaming-ecosystem/",
-    "https://thebusinessofesports.com/2021/12/17/ginx-tv-london-studios-to-host-excel-sports-fortnite-xl-community-cup/",
-    "https://thebusinessofesports.com/2021/12/17/dfc-cloud-gaming-to-grow-by-13-5b-over-the-next-five-years/",
-    "https://thebusinessofesports.com/2021/12/17/esports-betting-legalized-in-new-jersey/",
     "https://thebusinessofesports.com/2021/12/17/play-ventures-launches-play-future-fund/",
     "https://thebusinessofesports.com/2021/12/17/samsung-and-entropiq-agree-to-partnership/",
     "https://thebusinessofesports.com/2021/12/17/metafy-reveals-gamersrdy-acquisition/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/26780/combining-mahjong-and-word-games-worjong-launches-oct-30-on-steam",
     "https://www.invenglobal.com/articles/26779/travelers-proxies-trailblazers-captains-and-attorneys-gather-at-hoyoland-2026",
     "https://www.invenglobal.com/articles/26778/the-conveyor-belt-sushi-of-keyboards-googles-wild-idea",
-    "https://www.invenglobal.com/articles/26777/faker-winning-gold-was-the-bigger-goal"
+    "https://www.invenglobal.com/articles/26777/faker-winning-gold-was-the-bigger-goal",
+    "https://www.invenglobal.com/articles/26776/korea-mobile-game-association-appoints-morisawa-korea-ceo-kim-jong-hyuk-as-new-auditor",
+    "https://www.invenglobal.com/articles/26775/head-coach-kang-dong-hoon-expresses-gratitude-sparring-teams-that-helped-win-gold",
+    "https://www.invenglobal.com/articles/26774/aion-2-global-stays-hot-on-day-3-of-early-access-concurrent-player-expectations-rise-ahead-of-weekend-and-free-launch",
+    "https://www.invenglobal.com/articles/26773/shambles-developers-cozy-fishing-sim-orion-blue-releasing-nov-29-playtest-now-live",
+    "https://www.invenglobal.com/articles/26772/zvz-and-tvt-semifinals-who-will-reach-the-final-asl-season-22-enters-semifinals",
+    "https://www.invenglobal.com/articles/26771/chaos-zero-nightmare-to-hold-online-showcase-nightmare-fest-on-october-10-for-1st-anniversary",
+    "https://www.invenglobal.com/articles/26770/ikea-partners-with-xbox-to-launch-gaming-furniture-line"
   ],
   "title_hashes": [
-    "4d6bc65b94dcacf2187ec29e3001c082",
-    "b54b08044e3849be456f9e972ad55b5c",
-    "3a5c864c84728e6d1fe32e333f9ef101",
-    "26b2addf81086e8bd80e0411e96b8c0a",
-    "d0b6934b209c1b50113aa21418388138",
-    "8dfbfcbccb453f9747b7c12202ac43d9",
-    "51a2a478bdb2d891254f933eef3dbb26",
     "f27ec37c5be4064e59f2691ca9aa81e6",
     "99024249bf12dcb59f42aabdd98fd458",
     "c187762ddba3cb8c38c5c5666f0e40bc",
@@ -16001,7 +15994,14 @@
     "2d6ea5cb7d2bbd133ba87e4fc953c7fd",
     "1577164a849dc29344b23fe7c2e4edab",
     "c8aa97f9b2a7d1606820c9b16e5e1d43",
-    "619dea94b332475cc6271c4db2511f73"
+    "619dea94b332475cc6271c4db2511f73",
+    "53d862b8ef4feb183fff7d412b1343f4",
+    "a73000196acf907ca5c5bd611ea4d48f",
+    "7b7f09c71cec26a81e0852da49e4b110",
+    "6540c1fb9e863146c207c9c2dd8dd5c2",
+    "47fa4a8f37bdb0594d1c56d49cbf0c37",
+    "fa8bd3045561a43eff87c04a88b9e78f",
+    "56b922f9aefedcaa0fc2aba6657da101"
   ],
   "transfers": {
     "pages": {
@@ -20980,6 +20980,26 @@
     {
       "t": "back bigger delight expressed faker goal gold his hyeok kespat1 korean league lee legends national over sang securing south team winning",
       "ts": 1790945913.867137
+    },
+    {
+      "t": "appointed appoints association associationthe auditor ceo game has hyuk its jong kim korea mobile morisawa new provided",
+      "ts": 1790945919.252075
+    },
+    {
+      "t": "coach credited dong expresses gold gratitude head helped hoon kang kespahead korea korean league led legends medal national south sparring team teams that victory who win",
+      "ts": 1790945922.8523335
+    },
+    {
+      "t": "22 5 asl daechi enters esports final freecup google hold league october play played provided reach remastered season semifinals soopsoop starcraft starting studio tvt who will zvz",
+      "ts": 1790945926.441682
+    },
+    {
+      "t": "10 1st anniversary chaos czn event fest has hereafter hold nightmare october official online provided released serviced showcase smilegate smilegatechaos teaser video zero",
+      "ts": 1790945929.974487
+    },
+    {
+      "t": "1 collection created furniture gaming ikea launch launched line october partners xbox yxstaby",
+      "ts": 1790945933.6129162
     }
   ]
 }
