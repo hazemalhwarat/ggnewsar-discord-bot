@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/16/report-sony-plans-on-launching-xbox-game-pass-style-service/",
-    "https://thebusinessofesports.com/2021/12/16/secretlab-reveals-plans-to-release-harry-potter-gaming-chair/",
-    "https://thebusinessofesports.com/2021/12/16/gameon-secures-investment-to-fund-nft-gaming/",
-    "https://thebusinessofesports.com/2021/12/16/kroenke-sports-entertainment-unveils-new-esports-division-branding-announces-launch-of-valorant-team/",
-    "https://thebusinessofesports.com/2021/12/16/ludwig-set-to-host-biggest-super-smash-bros-tournament-ever/",
     "https://thebusinessofesports.com/2021/12/16/brag-house-partners-with-mcdonalds-and-coca-cola/",
     "https://thebusinessofesports.com/2021/12/16/report-g2-esports-most-watched-gaming-organization-of-q3-2021/",
     "https://thebusinessofesports.com/2021/12/16/better-business-bureau-reports-swath-of-fake-consoles-being-sold-ahead-of-the-holidays/",
@@ -7999,14 +7994,14 @@
     "https://thegamehaus.com/nfl/cowboys-trade-for-joey-porter-jr/2026/10/01/",
     "https://www.nerfplz.com/2026/10/should-you-play-league-in-streamer-mode.html",
     "https://www.nerfplz.com/2026/10/fotm-report-tristana-bot-patch-2619.html",
-    "https://www.vlr.gg/764839/global-esports-defeats-edward-gaming-to-survive-in-group-b"
+    "https://www.vlr.gg/764839/global-esports-defeats-edward-gaming-to-survive-in-group-b",
+    "https://www.hotspawn.com/league-of-legends/news/south-korea-wins-asian-games-league-of-legends",
+    "https://www.hotspawn.com/counter-strike/news/in-the-crosshair-4",
+    "https://www.hotspawn.com/counter-strike/news/esl-pro-league-season-24-opening-matches-preview-predictions",
+    "https://insider-gaming.com/fut-signs-sunpayus-will-it-work/",
+    "https://insider-gaming.com/undead-chronicles-interview-bleak-brilliance-never-feel-safe/"
   ],
   "title_hashes": [
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "0d183a309ec7534ae2661b8815e7a906",
-    "48e3b26162e01157869875e25a7c4cd1",
-    "c2a88df4145ccd9d6c87660328fbffbf",
-    "19f6db98f3850116f48084bc6bb08aa8",
     "7f6f4304368431134162f94e93230fef",
     "406677695749fea8bb3fc6cd1906f0ab",
     "7058ecc702a3dfd472205259a41c01dc",
@@ -16001,7 +15996,12 @@
     "be5d732c53dab6e2d0e970bb388441e9",
     "f29eba903d497263fdc3e4dbf25aaac3",
     "af09b777837a41b091d440aa821fab1f",
-    "121173939659d6fd54716ec0d758e17c"
+    "121173939659d6fd54716ec0d758e17c",
+    "410e251748a15e270582894ea3526f72",
+    "bc4caf9f151e71c5fcdc3461da7731dd",
+    "57a8f1de1293c883dffdd6dfb7ce4de8",
+    "8bc62990925d70eadac3b8f64fd3f148",
+    "1225b1cad91672c497eab889979e723c"
   ],
   "transfers": {
     "pages": {
@@ -21080,6 +21080,26 @@
     {
       "t": "champions continues curse defeats edward esports gaming global group shanghai survive valorant",
       "ts": 1790946012.1778274
+    },
+    {
+      "t": "2026 3 8220 8221 asian competition consecutive edition faker final games grand his hyeok korea league lee legends sang second south teammates tournament wins won",
+      "ts": 1790946017.1666481
+    },
+    {
+      "t": "2026 4 another blast but counter crosshair drought ends esl finally fml has hey ibuypower illustrious jorko just know last liquid long look masters not one part pgl starts strike team those title trophy wins won",
+      "ts": 1790946020.6309316
+    },
+    {
+      "t": "16 24 8217 away before day eight esl event games just kicks league matches off officially one opening predictions preview pro season set start stone teams thought time",
+      "ts": 1790946024.0839927
+    },
+    {
+      "t": "appeared first fut gaming inside insider level looks move negatives next positives post signs sunpayus take whether will work",
+      "ts": 1790946027.6369991
+    },
+    {
+      "t": "bleak brilliance caught chronicles dev feel game has learn let lets more never post recently safe shaping solo special survival that title undead you zombie",
+      "ts": 1790946031.190585
     }
   ]
 }
