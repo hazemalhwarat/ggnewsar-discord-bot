@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/09/atlanta-faze-partners-with-engine-medias-umg-gaming/",
-    "https://thebusinessofesports.com/2021/08/09/karim-virani-joins-london-esports/",
-    "https://thebusinessofesports.com/2021/08/09/warner-music-spain-partners-with-mad-lions/",
-    "https://thebusinessofesports.com/2021/08/09/esports-futuri-rebranded-as-map-esports/",
-    "https://thebusinessofesports.com/2021/08/09/facebook-gaming-twitch-viewership-increases-while-youtube-gaming-is-down/",
     "https://thebusinessofesports.com/2021/08/09/the-global-console-gaming-market-will-be-worth-almost-66b-by-2025/",
     "https://thebusinessofesports.com/2021/08/09/gaming-realms-signs-licensing-agreement-with-igt/",
     "https://thebusinessofesports.com/2021/08/09/dignitas-signs-naming-rights-deal-with-qntmpay-for-lcs-team/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26737/wemade-play-maintains-iso-27001-certification-for-7th-consecutive-year",
     "https://www.invenglobal.com/articles/26736/dplus-kia-to-hold-worlds-2026-send-off-ceremony-on-the-7th-soop-live-stream-announced",
     "https://www.invenglobal.com/articles/26735/new-bosses-new-skills-and-a-new-director-last-epoch-launches-season-5",
-    "https://www.invenglobal.com/articles/26734/chzzk-to-live-stream-all-matches-of-demacia-cup-global-invitational-2026"
+    "https://www.invenglobal.com/articles/26734/chzzk-to-live-stream-all-matches-of-demacia-cup-global-invitational-2026",
+    "https://www.hltv.org/news/45617/bcgame-crack-top-two-in-asia-vrs-after-rog-journey-groups",
+    "https://www.hltv.org/news/45614/dumau-arts-getting-much-better-hes-probably-coming-to-malta-to-play-thunderpick",
+    "https://www.hltv.org/news/45612/kyousuke-on-improving-his-consistency-its-just-being-a-bit-smarter-being-a-bit-more-disciplined",
+    "https://www.hltv.org/news/45616/astralis-condemn-faze-to-last-place-exit-at-stake",
+    "https://www.hltv.org/news/45615/thunderpick-world-championship-talent-revealed"
   ],
   "title_hashes": [
-    "d431523317db0a10ce8d96676578c8f1",
-    "d30c18a54748fafee006e57f2255c184",
-    "52336b07b8352b4fa7ced009f84cf9e2",
-    "3ec4f601d482d7244bd946ebbaef44ef",
-    "8398b269f96107c5514210fb0e96781b",
     "aae316a2de780fffbb38612f8425b3e2",
     "06c341a230910d2022c522e03f0c09ba",
     "4cf6c37d8a51c162b1c4a28fe2317a63",
@@ -16001,7 +15996,12 @@
     "632557a7500afe36dbc78fd88c1dbb4f",
     "4bb4fd71fecb7eb578f3e9276ec1fafb",
     "d64aa2a869e5d1cd957d78d6f51714f5",
-    "5d291a72a670f04f73d47028f69a900b"
+    "5d291a72a670f04f73d47028f69a900b",
+    "bfcec3585d8e1ca6d21a02a237bd4616",
+    "83b80b247482bb2602d926731a7f516c",
+    "19b0d98f2f337b693a66e8e3e2b5a8ff",
+    "fb7ca8b070875aaae4f5518e642663bb",
+    "44afc7dbca26687b185efba3eadf4638"
   ],
   "transfers": {
     "pages": {
@@ -21104,6 +21104,26 @@
     {
       "t": "12 2026 all announced chzzk cup dcgi demacia featuring global invitational live matches navernaver platform provided regions running six stream streaming teams that will",
       "ts": 1790964754.8740842
+    },
+    {
+      "t": "2 after asia crack game groups journey magisk now ranked regional rog standings top troops two vrs",
+      "ts": 1790964760.7844887
+    },
+    {
+      "t": "art better comes coming dumau getting league legacy malta much play pro probably taking their thunderpick",
+      "ts": 1790964764.3484943
+    },
+    {
+      "t": "being bit consistency disciplined floor game going his improve improving isn just kyousuke level more performance rifler smarter trying way when young",
+      "ts": 1790964767.8664508
+    },
+    {
+      "t": "any astralis condemn earn exit failed faze first lans last open place points stake three vrs",
+      "ts": 1790964771.479796
+    },
+    {
+      "t": "12 action bring championship life malta person revealed set strong talent team thunderpick world",
+      "ts": 1790964775.0187418
     }
   ]
 }
