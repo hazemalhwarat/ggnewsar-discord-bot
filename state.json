@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/20/henry-cavill-interested-in-part-in-mass-effect-tv-show/",
-    "https://thebusinessofesports.com/2021/12/20/shopping-cart-introduced-on-epic-games-store/",
-    "https://thebusinessofesports.com/2021/12/20/collaboration-with-marshmello-returns-to-fortnite/",
-    "https://thebusinessofesports.com/2021/12/20/business-of-esports-weekly-news-382/",
-    "https://thebusinessofesports.com/2021/12/20/series-b-funding-round-nets-forte-725m/",
-    "https://thebusinessofesports.com/2021/12/19/gaming-trade-shows-return-to-middle-america-with-midwest-gaming-classic/",
     "https://thebusinessofesports.com/2021/12/19/nfl-safety-kenny-vaccaro-to-reinvent-himself-turn-attention-to-esports/",
     "https://thebusinessofesports.com/2021/12/19/enthusiast-gaming-welcomes-nicole-musicco-to-board-of-directors/",
     "https://thebusinessofesports.com/2021/12/19/official-steam-gaming-support-could-be-coming-to-chromebook-soon/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26764/pubg-mobile-pmps-season-2-kicks-off-with-16-teams-competing-for-pmgc-qualification",
     "https://www.invenglobal.com/articles/26763/one-year-of-racing-with-sonic-sonic-racing-crossworlds-starts-hatsune-miku-2nd-festa",
     "https://www.invenglobal.com/articles/26762/sudden-comeback-via-elder-fight-south-korea-one-step-away-from-lol-gold-medal",
-    "https://www.invenglobal.com/articles/26761/lord-nine-to-open-new-hakan-server-on-oct-23-earn-artifacts-through-gameplay-alone"
+    "https://www.invenglobal.com/articles/26761/lord-nine-to-open-new-hakan-server-on-oct-23-earn-artifacts-through-gameplay-alone",
+    "https://www.invenglobal.com/articles/26760/south-korea-secures-comeback-win-in-game-1-of-lol-finals-against-taiwan-10",
+    "https://www.invenglobal.com/articles/26759/mystery-adventure-buried-stars-by-black-room-director-jin-seung-ho-is-free-on-epic-games",
+    "https://www.invenglobal.com/articles/26758/ncs-new-shindenki-magic-rpg-astrae-oratio-begins-global-cbt",
+    "https://www.invenglobal.com/articles/26757/world-of-dokkaebi-launching-oct-8-combines-retro-aesthetic-with-ai-chatbot-myoryong-to-assist-gameplay",
+    "https://www.invenglobal.com/articles/26756/everytown-begins-zanmang-loopy-collaboration-on-oct-2",
+    "https://www.invenglobal.com/articles/26755/castlevania-returns-castlevania-belmonts-curse-launches-oct-15-physical-pre-orders-begin"
   ],
   "title_hashes": [
-    "44c83aab4d00b9701f9c0bba02b015e4",
-    "81d3699359c28ab957d7ac75efea57c8",
-    "22d01601038956a843fd4456dad2df65",
-    "f90a49372c89761bd28b2adad0780996",
-    "24f43585045fca7681f0334ad1e10528",
-    "974119dcec6254eb240e5b5b3a0611c5",
     "de6c72f435f415fb996ecd2b69749b35",
     "0d50ac7ca0c16bc304236ab6fc825bc1",
     "f7b2aac8d1169be17550a20bf86678c8",
@@ -16001,7 +15995,13 @@
     "86c638143ec9c63b4a21a9af7b4946bd",
     "0704045b79c62caac94f80d90f590126",
     "ff16bef081191652db06dbd1605cb68e",
-    "db892af556d0e886f425b41593ff753e"
+    "db892af556d0e886f425b41593ff753e",
+    "969e1372f8859841e456481841a5975b",
+    "1ea23f389730fe6ebb6ffa302489823d",
+    "cbcd9a0c34b9dca834d6901bb356a4b3",
+    "4ce525db523a5e72f8785c7557ffce58",
+    "16073e5bd2af113d30ba03b4104d63dd",
+    "f190a7930d14ef065a4659e0cb39ef68"
   ],
   "transfers": {
     "pages": {
@@ -21172,6 +21172,26 @@
     {
       "t": "23 7 alone announced artifacts developed earn gameplay games hakan lord mmorpg new nine nx3 oct open provided server smilegatesmilegate that through will",
       "ts": 1790921906.8755748
+    },
+    {
+      "t": "0 1 2 2026 against aichi asian associationon comeback esports expo final finals game games held japan korea lol nagoya october secured secures sky south sports taiwan win",
+      "ts": 1790921912.1780074
+    },
+    {
+      "t": "8th adventure black buried director distributing epic free games gamesepic jin korean line midnight mystery offering room seung stars store through until",
+      "ts": 1790921915.7725885
+    },
+    {
+      "t": "11 2 5d 8 aesthetic assist chatbot combines dokkaebi gameplay games gameskakao its kakao launch launching mmorpg myoryong new oct officially provided retro will world",
+      "ts": 1790921919.5231938
+    },
+    {
+      "t": "2 approximately begins collaboration connect connecteverytown everytown game has healing launched loopy mobile months network oct provided run serviced sng social that two wemade will zanmang",
+      "ts": 1790921923.146739
+    },
+    {
+      "t": "15 2026 2d action begin belmont castlevania curse edition exploration game launches midnight oct october orders physical pre provided release returns titled unianauniana will",
+      "ts": 1790921926.6549497
     }
   ]
 }
