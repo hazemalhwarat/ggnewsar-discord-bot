@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/04/audiomob-finds-itself-at-the-intersection-of-gaming-and-audio-advertising/",
-    "https://thebusinessofesports.com/2021/08/04/ubisoft-prepares-for-release-of-xdefiant-announces-shut-down-of-tom-clancys-marvels-avengers/",
-    "https://thebusinessofesports.com/2021/08/04/adamas-esports-partnering-with-tundra-esports/",
-    "https://thebusinessofesports.com/2021/08/04/riot-says-in-person-attendance-will-return-for-north-american-lcs-championship/",
-    "https://thebusinessofesports.com/2021/08/04/esports-advisory-board-coming-to-nevada/",
     "https://thebusinessofesports.com/2021/08/04/nrg-looking-to-create-vietnams-official-esports-team/",
     "https://thebusinessofesports.com/2021/08/04/turtle-beach-announces-partnerships-unveils-new-gaming-accessories/",
     "https://thebusinessofesports.com/2021/08/04/wondr-gaming-off-to-a-hot-start/",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/45613/makazze-if-you-think-about-the-major-you-cannot-focus-on-the-tournament-because-you-will-have-a-lot-of-pressure",
     "https://www.hltv.org/news/45611/molodoy-ill-try-to-play-aggressive-again",
     "https://insider-gaming.com/fallout-new-york-appears-online-and-zenimax-immediately-shuts-it-down/",
-    "https://insider-gaming.com/sony-battlefield-movie-mcquarrie-michael-b-jordan/"
+    "https://insider-gaming.com/sony-battlefield-movie-mcquarrie-michael-b-jordan/",
+    "https://insider-gaming.com/league-of-legends-demacia-cup-global-invitational-preview/",
+    "https://insider-gaming.com/gray-zone-warfare-ceo-cheaters-find-people/",
+    "https://insider-gaming.com/riot-clarifies-valorant-champions-shanghai-desk-maker/",
+    "https://insider-gaming.com/rockstar-co-founder-preparing-to-reveal-open-world-game-dystopian/",
+    "https://insider-gaming.com/riot-releases-headliners-the-music-of-league-of-legends-book/"
   ],
   "title_hashes": [
-    "fcb4016be6d2e90b497212403233935d",
-    "951533afb2d3eeb7143f8f9c53426920",
-    "c425dc0fa40d90eefa2ef5e98f2e542d",
-    "3a97efa0218c4118e96a572ff65bf90f",
-    "5f1ac7b0a6e43543723c99634eb6891f",
     "0f39ba8df873acc5c68598ef365e97e5",
     "2f9d6257418b120463abf10e91490766",
     "27912bcbb305f79dd9959b4f6247ed9f",
@@ -16001,7 +15996,12 @@
     "0a67f1097e3561a99757798b033c9866",
     "7d0c30c2ca6a1d21488647e78f5fe0c0",
     "0877e73a4431f0451aa2c57b3e57a60c",
-    "85d17ffcb035d56a97538597c97f7ed8"
+    "85d17ffcb035d56a97538597c97f7ed8",
+    "3b853e4f4eca190311010fa394f2276c",
+    "3f4aecc8caaa741df8009b5249fbab6a",
+    "22f063cab57f8a2a29da06bfd4739467",
+    "2cb24e934978738248d5ccc85f588570",
+    "fbcadae7e8d1860723002c925783cc22"
   ],
   "transfers": {
     "pages": {
@@ -21216,6 +21216,26 @@
     {
       "t": "acquire battlefield christopher film jordan land mcquarrie michael movie post potentially producing sony starring talks",
       "ts": 1790979184.923359
+    },
+    {
+      "t": "cblol compete cup demacia failed global invitational lck lcp lcs league lec legends lpl post preview qualify see teams that will worlds",
+      "ts": 1790979192.0588474
+    },
+    {
+      "t": "about addresses can ceo cheaters find future game gray headed marek people post rabas recently regarding spoke these things warfare where zone",
+      "ts": 1790979195.509082
+    },
+    {
+      "t": "causing champions clarifies clarify desks did games has issues not partner post problematic provide released riot secretlab sha shanghai statement tech that valorant vct weren",
+      "ts": 1790979199.096736
+    },
+    {
+      "t": "about confirmed dan dystopian former founder game games has his houser next open post preparing properly reveal revealed rockstar sci that title world",
+      "ts": 1790979202.6144211
+    },
+    {
+      "t": "8216 about acts book collector editions games has headliners insight league legends music partnered post release releases riot virtual",
+      "ts": 1790979206.2118964
     }
   ]
 }
