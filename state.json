@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/17/play-ventures-launches-play-future-fund/",
-    "https://thebusinessofesports.com/2021/12/17/samsung-and-entropiq-agree-to-partnership/",
-    "https://thebusinessofesports.com/2021/12/17/metafy-reveals-gamersrdy-acquisition/",
-    "https://thebusinessofesports.com/2021/12/17/nvidias-dlss-has-come-to-linux-gaming/",
-    "https://thebusinessofesports.com/2021/12/17/brute-force-fight-is-the-newest-nft-gaming-network/",
     "https://thebusinessofesports.com/2021/12/17/wondr-gaming-partners-with-photographer-neil-dankoff-on-galleries-to-mint-and-sell-nfts/",
     "https://thebusinessofesports.com/2021/12/17/riot-games-and-intel-partnership-aims-to-support-growth-of-mena-region-esports/",
     "https://thebusinessofesports.com/2021/12/17/hashoff-llc-renews-saas-agreement-with-esports-company/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26773/shambles-developers-cozy-fishing-sim-orion-blue-releasing-nov-29-playtest-now-live",
     "https://www.invenglobal.com/articles/26772/zvz-and-tvt-semifinals-who-will-reach-the-final-asl-season-22-enters-semifinals",
     "https://www.invenglobal.com/articles/26771/chaos-zero-nightmare-to-hold-online-showcase-nightmare-fest-on-october-10-for-1st-anniversary",
-    "https://www.invenglobal.com/articles/26770/ikea-partners-with-xbox-to-launch-gaming-furniture-line"
+    "https://www.invenglobal.com/articles/26770/ikea-partners-with-xbox-to-launch-gaming-furniture-line",
+    "https://www.invenglobal.com/articles/26769/from-narin-to-tau-warframes-next-step",
+    "https://www.invenglobal.com/articles/26768/south-korea-finishes-asian-games-esports-with-2-gold-1-silver-2-bronze",
+    "https://www.invenglobal.com/articles/26767/undefeated-back-to-back-champions-korea-lol-if-given-the-chance-we-want-to-win-three-in-a-row",
+    "https://www.invenglobal.com/articles/26766/worlds-best-south-korea-lol-sweeps-finals-3-0-for-undefeated-gold-medal",
+    "https://www.invenglobal.com/articles/26744/rhythm-dance-game-luv-place-opens-pre-registration-on-stove-launching-on-the-15th"
   ],
   "title_hashes": [
-    "f27ec37c5be4064e59f2691ca9aa81e6",
-    "99024249bf12dcb59f42aabdd98fd458",
-    "c187762ddba3cb8c38c5c5666f0e40bc",
-    "26a84bdfef99e18ecfdda91b8944d6f8",
-    "416b901acbeddd11a022f7f4aee8abac",
     "0fa0d54ed382b973d094a7d639eb02bf",
     "50c485d0ed2f0f064ef8f42736ece7bc",
     "a553ed17f1822f5cfdffd19229876ae3",
@@ -16001,7 +15996,12 @@
     "6540c1fb9e863146c207c9c2dd8dd5c2",
     "47fa4a8f37bdb0594d1c56d49cbf0c37",
     "fa8bd3045561a43eff87c04a88b9e78f",
-    "56b922f9aefedcaa0fc2aba6657da101"
+    "56b922f9aefedcaa0fc2aba6657da101",
+    "a6ab5345fdedc25efcd504c8efc40ad2",
+    "cae09f1d35d6755eebf9d02f56f2b8cc",
+    "74208aa1d33827e03ba2a41d266e0ace",
+    "2796536bf39259b2fb1a6a2ce8464616",
+    "05b1915ea11da68cd3f91b3c7887e870"
   ],
   "transfers": {
     "pages": {
@@ -21000,6 +21000,26 @@
     {
       "t": "1 collection created furniture gaming ikea launch launched line october partners xbox yxstaby",
       "ts": 1790945933.6129162
+    },
+    {
+      "t": "2026 clearly digital extremes heading invenat narin next recent seoul showed step tau tenno vip warframe where",
+      "ts": 1790945939.014288
+    },
+    {
+      "t": "1 2 2026 aichi asian bronze concluded esports finishes games gold kespathe korea korean medals nagoya national one silver south team two",
+      "ts": 1790945942.5999513
+    },
+    {
+      "t": "achieved asian back champions championship chance games given kespathe korea korean league legends lol national row run south team three titles undefeated want win",
+      "ts": 1790945946.0942116
+    },
+    {
+      "t": "0 3 best claimed finals gold golden hailed invenfitting korea korean lol medal national roster run south successfully sweeps team undefeated world",
+      "ts": 1790945949.6376178
+    },
+    {
+      "t": "14th 15th cross dance developed game gaming global katkit launching luv opens place platform pre provided registration rhythm running smilegatesmilegate stove through",
+      "ts": 1790945953.259121
     }
   ]
 }
