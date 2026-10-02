@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/19/nfl-safety-kenny-vaccaro-to-reinvent-himself-turn-attention-to-esports/",
-    "https://thebusinessofesports.com/2021/12/19/enthusiast-gaming-welcomes-nicole-musicco-to-board-of-directors/",
-    "https://thebusinessofesports.com/2021/12/19/official-steam-gaming-support-could-be-coming-to-chromebook-soon/",
-    "https://thebusinessofesports.com/2021/12/19/newzoo-says-the-global-gaming-market-will-be-worth-more-than-200b-by-2024/",
-    "https://thebusinessofesports.com/2021/12/19/efc-partners-with-cellcard-to-host-cambodias-first-national-esports-tournament/",
     "https://thebusinessofesports.com/2021/12/19/one-esports-named-media-partner-of-pubg-global-championship/",
     "https://thebusinessofesports.com/2021/12/19/tiidal-gaming-and-gamescorekeeper-agree-to-partnership/",
     "https://thebusinessofesports.com/2021/12/18/bangchak-named-partner-of-psg-esports-rov-team-based-in-thailand/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26758/ncs-new-shindenki-magic-rpg-astrae-oratio-begins-global-cbt",
     "https://www.invenglobal.com/articles/26757/world-of-dokkaebi-launching-oct-8-combines-retro-aesthetic-with-ai-chatbot-myoryong-to-assist-gameplay",
     "https://www.invenglobal.com/articles/26756/everytown-begins-zanmang-loopy-collaboration-on-oct-2",
-    "https://www.invenglobal.com/articles/26755/castlevania-returns-castlevania-belmonts-curse-launches-oct-15-physical-pre-orders-begin"
+    "https://www.invenglobal.com/articles/26755/castlevania-returns-castlevania-belmonts-curse-launches-oct-15-physical-pre-orders-begin",
+    "https://www.invenglobal.com/articles/26754/cals-brandt-alternate-variant-kai-added-in-oct-6-update-for-the-genesis-war-mobile",
+    "https://www.invenglobal.com/articles/26753/grac-warns-of-potential-domestic-distribution-ban-for-soul-guide-over-loot-box-disclosure-violations",
+    "https://www.invenglobal.com/articles/26752/to-open-world-over-dungeons-players-flock-to-unstable-nine-cores",
+    "https://www.invenglobal.com/articles/26751/ace-combat-8-wings-of-theve-released-oct-2-latest-entry-in-franchise-selling-over-21-million-copies",
+    "https://www.invenglobal.com/articles/26750/smilegate-opens-new-world-celine-in-eclipse-with-separate-matchmaking"
   ],
   "title_hashes": [
-    "de6c72f435f415fb996ecd2b69749b35",
-    "0d50ac7ca0c16bc304236ab6fc825bc1",
-    "f7b2aac8d1169be17550a20bf86678c8",
-    "46ce8648d88aa8a982cb46bff3cf45b3",
-    "5ef9a5cbf00d02d051de6d8630a1c86b",
     "07e8c12ad4cc683e4ef41d0f9f7edb33",
     "e6c7ad0fe7fa331b1e92732f569a2f95",
     "7e6759e4d573d1af984bd5ce5f963851",
@@ -16001,7 +15996,12 @@
     "cbcd9a0c34b9dca834d6901bb356a4b3",
     "4ce525db523a5e72f8785c7557ffce58",
     "16073e5bd2af113d30ba03b4104d63dd",
-    "f190a7930d14ef065a4659e0cb39ef68"
+    "f190a7930d14ef065a4659e0cb39ef68",
+    "cbdabeaa502efd83b9a9b29035d67a79",
+    "e09585f9178c8f7fa2335678a9b568ba",
+    "b4ed9f4c98e79e31885cd61e0da09861",
+    "1c397e3a58799fb9d94ae3bf3d0e9d4f",
+    "6adb9fe1d86f95c83d9e88cf65d13546"
   ],
   "transfers": {
     "pages": {
@@ -21192,6 +21192,26 @@
     {
       "t": "15 2026 2d action begin belmont castlevania curse edition exploration game launches midnight oct october orders physical pre provided release returns titled unianauniana will",
       "ts": 1790921926.6549497
+    },
+    {
+      "t": "6 add added alternate announced brandt cals character corporation developed games gamesline genesis its kai line meerkat mobile new oct officially press provided release serviced srpg that update variant war will",
+      "ts": 1790921931.7151186
+    },
+    {
+      "t": "administration against announced ban box chairman committee disclosure distribution domestic follow game grac guide gun hereinafter loot measures over overseas potential rating seo soul tae violations warns",
+      "ts": 1790921935.21202
+    },
+    {
+      "t": "30 along collections cores dungeons event flock following ground hunting implemented nine offering open over patch players rewards september unstable updates world",
+      "ts": 1790921938.7078624
+    },
+    {
+      "t": "2 21 8 ace bandai combat copies entertainment entry franchise korea korean latest million namco oct over ps5 released selling theve version wings xsx",
+      "ts": 1790921942.5631022
+    },
+    {
+      "t": "8 awakening celine eclipse hereinafter matchmaking mmorpg new npixel opening opens provided second separate smilegate smilegatesmilegate world",
+      "ts": 1790921946.1079795
     }
   ]
 }
