@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/16/brag-house-partners-with-mcdonalds-and-coca-cola/",
-    "https://thebusinessofesports.com/2021/12/16/report-g2-esports-most-watched-gaming-organization-of-q3-2021/",
-    "https://thebusinessofesports.com/2021/12/16/better-business-bureau-reports-swath-of-fake-consoles-being-sold-ahead-of-the-holidays/",
-    "https://thebusinessofesports.com/2021/12/16/bytedance-reportedly-laying-off-employees-at-one-of-the-companys-gaming-studios/",
-    "https://thebusinessofesports.com/2021/12/16/faze-clan-and-nissan-partner-and-announce-fortnite-pro-am-tournament/",
-    "https://thebusinessofesports.com/2021/12/16/epic-games-adds-retro-cloud-gaming-service-to-store/",
     "https://thebusinessofesports.com/2021/12/16/planetarium-expecting-to-raise-41-8m-in-series-b-round-of-funding/",
     "https://thebusinessofesports.com/2021/12/16/the-light-of-shanghai-cruiseliner-blends-esports-and-tourism/",
     "https://thebusinessofesports.com/2021/12/16/boxing-legend-manny-pacquiao-launches-esports-business/",
@@ -7999,15 +7993,15 @@
     "https://www.hotspawn.com/counter-strike/news/in-the-crosshair-4",
     "https://www.hotspawn.com/counter-strike/news/esl-pro-league-season-24-opening-matches-preview-predictions",
     "https://insider-gaming.com/fut-signs-sunpayus-will-it-work/",
-    "https://insider-gaming.com/undead-chronicles-interview-bleak-brilliance-never-feel-safe/"
+    "https://insider-gaming.com/undead-chronicles-interview-bleak-brilliance-never-feel-safe/",
+    "https://insider-gaming.com/ace-combat-8-belkan-war-steam/",
+    "https://insider-gaming.com/warhorse-studio-gta-6-price-rise/",
+    "https://insider-gaming.com/gears-of-war-e-day-steam-record/",
+    "https://insider-gaming.com/how-long-is-valor-mortis-game-length-total-hours/",
+    "https://insider-gaming.com/disney-epic-games-buyout-fortnite-collabs/",
+    "https://insider-gaming.com/south-korea-win-asian-games-2026/"
   ],
   "title_hashes": [
-    "7f6f4304368431134162f94e93230fef",
-    "406677695749fea8bb3fc6cd1906f0ab",
-    "7058ecc702a3dfd472205259a41c01dc",
-    "b9cc550c1c2150fbaea0c518c6fdbb82",
-    "507c66b83ba05adc0f6f50f69d2ccd25",
-    "9c5c7c9396ea66cf5980722a3e9e871e",
     "dff6469d82a16382d68cb2db13612345",
     "10fdccb0c38fc853b4dd2967aa80eb57",
     "562fbe658c083739e30a14414e488eb0",
@@ -16001,7 +15995,13 @@
     "bc4caf9f151e71c5fcdc3461da7731dd",
     "57a8f1de1293c883dffdd6dfb7ce4de8",
     "8bc62990925d70eadac3b8f64fd3f148",
-    "1225b1cad91672c497eab889979e723c"
+    "1225b1cad91672c497eab889979e723c",
+    "97e49a8b1cc513901882ea98d23f681a",
+    "c306994508f170fa8a7afc8503f33a13",
+    "148dcb4b31983b463a4c25c6f6412ff6",
+    "c452c467b1150d50117c577b3a095590",
+    "c055c70d4ab70a6033c9c12e46b470ae",
+    "4d61f2d936aa746a6c26dfa89d4626ed"
   ],
   "transfers": {
     "pages": {
@@ -21100,6 +21100,26 @@
     {
       "t": "bleak brilliance caught chronicles dev feel game has learn let lets more never post recently safe shaping solo special survival that title undead you zombie",
       "ts": 1790946031.190585
+    },
+    {
+      "t": "8 8216 8217 ace address apologized belkan combat confusion developers disappo disappointment has incentives include order post pre steam team war which",
+      "ts": 1790946036.3980954
+    },
+    {
+      "t": "6 8216 8217 anyway but cost doesn fails founder games gta hopeful hopes hype klima martin post prices pushes raise studios understand warhorse will",
+      "ts": 1790946040.0037158
+    },
+    {
+      "t": "all amp appeared beat campaign completionist details first game hours how including insid length long main mortis post run takes total valor",
+      "ts": 1790946043.5710576
+    },
+    {
+      "t": "8216 8217 but buy buying chief collabs coming dana disney epic games has more next not now number out planning post right ruled teased two walden years",
+      "ts": 1790946047.221794
+    },
+    {
+      "t": "2026 asian completed completes dropping faker flawless game games give gold keria korea league legends post run second single south their tournament win without zeus",
+      "ts": 1790946050.8583317
     }
   ]
 }
