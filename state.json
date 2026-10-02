@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/04/irvine-california-named-best-city-for-gamers-in-the-united-states/",
-    "https://thebusinessofesports.com/2021/08/04/krafton-aims-to-raise-5b-through-initial-public-offering/",
-    "https://thebusinessofesports.com/2021/08/04/world-gaming-group-launching-esports-tournament-platform/",
-    "https://thebusinessofesports.com/2021/08/04/nodle-entering-world-of-gaming-with-estv-partnership/",
-    "https://thebusinessofesports.com/2021/08/04/one-esports-unveils-partnership-with-toyota/",
     "https://thebusinessofesports.com/2021/08/04/audiomob-finds-itself-at-the-intersection-of-gaming-and-audio-advertising/",
     "https://thebusinessofesports.com/2021/08/04/ubisoft-prepares-for-release-of-xdefiant-announces-shut-down-of-tom-clancys-marvels-avengers/",
     "https://thebusinessofesports.com/2021/08/04/adamas-esports-partnering-with-tundra-esports/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26786/new-evangelion-%CE%94-cross-reflections-teaser-revealed-for-evangelion-xr-game",
     "https://www.invenglobal.com/articles/26785/gta-6-marketing-scale-nbas-miami-heat-becomes-vice-city-for-one-night",
     "https://www.invenglobal.com/articles/26784/halo-creator-jason-jones-and-author-margaret-stohl-launch-stone-kite",
-    "https://www.invenglobal.com/articles/26782/pubg-studios-ends-development-of-pubg-black-budget"
+    "https://www.invenglobal.com/articles/26782/pubg-studios-ends-development-of-pubg-black-budget",
+    "https://www.hltv.org/news/45618/luminosity-and-nemiga-move-into-stake-ranked-upper-final",
+    "https://www.hltv.org/news/45613/makazze-if-you-think-about-the-major-you-cannot-focus-on-the-tournament-because-you-will-have-a-lot-of-pressure",
+    "https://www.hltv.org/news/45611/molodoy-ill-try-to-play-aggressive-again",
+    "https://insider-gaming.com/fallout-new-york-appears-online-and-zenimax-immediately-shuts-it-down/",
+    "https://insider-gaming.com/sony-battlefield-movie-mcquarrie-michael-b-jordan/"
   ],
   "title_hashes": [
-    "f2d2883f93d67e83839ef7cdc2b88f03",
-    "3b1e65b1c558245e434301c2a4f7e6eb",
-    "e5b0f61d93ba329b8e653737b65ab3ec",
-    "9c762e40c3d4af27c8ed47ba0e605756",
-    "6600cc035341346df2da79b5145acf37",
     "fcb4016be6d2e90b497212403233935d",
     "951533afb2d3eeb7143f8f9c53426920",
     "c425dc0fa40d90eefa2ef5e98f2e542d",
@@ -16001,7 +15996,12 @@
     "775b6e2e0f0d163704ffa096827721ba",
     "67c94c74868de5883586c594d7fad22a",
     "f686f3212f894ada346f59b2997a1739",
-    "890c21346261077ab9736cda505f843f"
+    "890c21346261077ab9736cda505f843f",
+    "50eb8fd71d21620df2c110ce7d6adde0",
+    "0a67f1097e3561a99757798b033c9866",
+    "7d0c30c2ca6a1d21488647e78f5fe0c0",
+    "0877e73a4431f0451aa2c57b3e57a60c",
+    "85d17ffcb035d56a97538597c97f7ed8"
   ],
   "transfers": {
     "pages": {
@@ -21196,6 +21196,26 @@
     {
       "t": "according after announcement black budget current development ended ends game has heading its judged progress project pubg reviewing studio studios that where",
       "ts": 1790979163.2017002
+    },
+    {
+      "t": "both final into luminosity major move nemiga race ranked singapore stake teams upper",
+      "ts": 1790979168.6140332
+    },
+    {
+      "t": "about because cannot days focus good have hopes kosovar lot major makazze pressure said star start team that think tournament will you",
+      "ts": 1790979172.2792761
+    },
+    {
+      "t": "after again aggressive back decided game has him his molodoy play rookie saw style team that try well working year",
+      "ts": 1790979175.7140853
+    },
+    {
+      "t": "8216 8217 any appears browser could down dubbed end fallout fan game great immediately media might new online play reveal september shuts social someone sound tail that took web york you your zenimax",
+      "ts": 1790979181.3823552
+    },
+    {
+      "t": "acquire battlefield christopher film jordan land mcquarrie michael movie post potentially producing sony starring talks",
+      "ts": 1790979184.923359
     }
   ]
 }
