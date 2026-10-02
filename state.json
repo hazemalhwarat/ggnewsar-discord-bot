@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/08/global-esports-audience-to-grow-to-474m-people-in-2021/",
-    "https://thebusinessofesports.com/2021/08/08/epic-games-overestimated-revenue-expected-from-fortnite-in-2019/",
-    "https://thebusinessofesports.com/2021/08/08/analyzing-the-global-virtual-reality-gaming-market/",
-    "https://thebusinessofesports.com/2021/08/08/forecasting-growth-in-the-global-online-gaming-market/",
-    "https://thebusinessofesports.com/2021/08/08/tracking-the-growth-of-the-global-gaming-simulator-market/",
-    "https://thebusinessofesports.com/2021/08/08/75-of-the-new-mobile-gaming-activity-caused-by-the-covid-19-pandemic-will-continue-to-grow-indefinitely/",
-    "https://thebusinessofesports.com/2021/08/08/north-american-gaming-controller-market-will-hit-645m-by-2027/",
-    "https://thebusinessofesports.com/2021/08/08/enthusiast-gaming-closes-46-million-marketed-public-offering/",
     "https://thebusinessofesports.com/2021/08/08/business-of-esports-weekly-news-363/",
     "https://thebusinessofesports.com/2021/08/07/mobile-legends-bang-bang-esports-league-launched-in-brazil/",
     "https://thebusinessofesports.com/2021/08/07/fanduel-group-partners-with-mohegan-gaming-and-entertainment/",
@@ -7999,17 +7991,17 @@
     "https://insider-gaming.com/arc-raiders-to-go-free-to-play-briefly-for-frozen-trail-launch/",
     "https://insider-gaming.com/latest-gta-6-screenshots-showcase-new-outfits-more/",
     "https://insider-gaming.com/valor-mortis-complete-faq-release-date-times-game-pass-early-access-platforms-more/",
-    "https://insider-gaming.com/even-t1-academy-are-world-champions-after-winning-wsci/"
+    "https://insider-gaming.com/even-t1-academy-are-world-champions-after-winning-wsci/",
+    "https://insider-gaming.com/playstation-5-console-patch-notes-latest-software-update-full-update-history/",
+    "https://insider-gaming.com/yoshida-thinks-switch-2-and-ps5-should-stay-for-as-long-as-possible/",
+    "https://insider-gaming.com/how-to-get-free-bgmi-uc/",
+    "https://insider-gaming.com/sony-playstation-lawsuit-refund-check-and-claim/",
+    "https://www.vlr.gg/764983/t1-eliminates-jdg-confirms-no-more-chinese-teams-in-shanghai",
+    "https://gameriv.com/apex-legends-nerfs-axle-disables-aim-assist-during-nitro-gate-effects/",
+    "https://traxion.gg/assetto-corsa-franchise-to-appear-at-simracing-expo-frankfurt-this-month/",
+    "https://www.hotspawn.com/valorant/news/leo-faria-valorant-champions-shanghai"
   ],
   "title_hashes": [
-    "d866072f656dcc172f5e8159d2bb982e",
-    "1e9f665c3732f062a78b0f9e3b0291f7",
-    "f02996ed78252f6d4e15fe00794edd4e",
-    "3daa348e33994825a46d7b318109790d",
-    "e1df76461f77a834ead38e7f4dda4cdb",
-    "bba0925ca9735249f7e51d04c67a8a9d",
-    "dee4d4804650d243f58d71cfabed8336",
-    "c670ce0ae80a1eb949a15977a89f4a54",
     "ad654d39774a109f4e9b71883a89cb6a",
     "93a98c7f50954d1467b233af90b44c6e",
     "71d275766e4fdc099f06f93e8e55f93d",
@@ -16001,7 +15993,15 @@
     "ebfa3bae21e05a8ad248cd9fde513f13",
     "05b49aa844e3e83d9c548712d1381363",
     "d2245c8207c6ed8e46fc63bdfe20da37",
-    "432bba9bf429a5cc704635895bdf977d"
+    "432bba9bf429a5cc704635895bdf977d",
+    "004b2402dbb0118241d7ae3eb5b686bb",
+    "bfd8bbc67abee23c70c76729c8d9ecde",
+    "b82b3ffe11b087e08e3c41854323f99f",
+    "fecc545a022ced800144df2c50070d29",
+    "854cd971d94bfb5d412ba552caf2d291",
+    "9bda828e3c5758dc8c1529c03cb772f5",
+    "5865c29dab86feabf6894d8b716d6b6e",
+    "2af9d5e34da8758ef664a4d448bd8944"
   ],
   "transfers": {
     "pages": {
@@ -21144,6 +21144,26 @@
     {
       "t": "2 3 academy after also appeared champions championships defeating even first have insider lol post solary t1 tier two winning won world worlds wsci",
       "ts": 1790964794.7260659
+    },
+    {
+      "t": "2 8216 details discussed has here how long more possible post ps5 should shuhei stay switch thinks yoshida",
+      "ts": 1790964800.7153652
+    },
+    {
+      "t": "8 check claim eligibility eligible following full games here how lawsuit list might million part playstation post recent refund settlement sony you your",
+      "ts": 1790964804.8194642
+    },
+    {
+      "t": "1 2 2026 champions china chinese confirms defeated eliminates elimination gaming group jdg live match more preventing series shanghai single t1 teams vct winning",
+      "ts": 1790964808.425197
+    },
+    {
+      "t": "appear assetto both confirmed corsa evo expo franchise frankfurt has kunos month post rally showcase simracing simulazioni this will year",
+      "ts": 1790964812.0035179
+    },
+    {
+      "t": "8217 better celebrating champions done entire esports faria fighting global group has head instead issue issues its leaves leo looking not opinion response riot shanghai spent stage tech technical valorant worse",
+      "ts": 1790964815.6720505
     }
   ]
 }
