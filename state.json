@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/21/monaco-esports-federation-announces-second-edition-of-monaco-gaming-show/",
-    "https://thebusinessofesports.com/2021/12/21/report-asian-gamers-will-spend-over-41b-on-gaming-in-2025/",
-    "https://thebusinessofesports.com/2021/12/21/microsoft-files-patent-for-foldable-device/",
-    "https://thebusinessofesports.com/2021/12/21/dont-expect-exclusive-games-on-the-steam-deck/",
-    "https://thebusinessofesports.com/2021/12/21/microsoft-releases-free-gaming-accessibility-course/",
     "https://thebusinessofesports.com/2021/12/21/dreamhack-announces-plans-for-australian-festival/",
     "https://thebusinessofesports.com/2021/12/21/concerns-raised-about-the-safety-of-gaming-in-tesla-cars/",
     "https://thebusinessofesports.com/2021/12/21/esl-and-dreamhack-partner-with-psyonix-for-rocket-league-championship-series/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26732/riot-games-co-founder-marc-merrill-explains-2xko-cancellation",
     "https://www.invenglobal.com/articles/26731/marc-merrill-says-pendragon-was-wrongly-blamed-for-dota-allstars-shutdown",
     "https://www.hltv.org/news/45608/faze-and-astralis-facing-elimination-after-day-one-of-stake-ranked-episode-4",
-    "https://gameriv.com/apex-legends-fixes-ballistic-crash-exploit-permanently-bans-abuser/"
+    "https://gameriv.com/apex-legends-fixes-ballistic-crash-exploit-permanently-bans-abuser/",
+    "https://www.talkesport.com/news/fortnite/what-time-does-fortnite-item-shop-change/",
+    "https://www.talkesport.com/guides/is-the-precinct-worth-it-ps5/",
+    "https://www.talkesport.com/news/the-precinct-ps5-sale-playstation-store/",
+    "https://www.talkesport.com/news/best-co-op-games-steam-autumn-sale-2026/",
+    "https://www.talkesport.com/news/steam-autumn-sale-2026-best-games-under-5-10-20/"
   ],
   "title_hashes": [
-    "bed4249354336560747aded85d10d6ca",
-    "e2faf516c3c379e1cbac72ce2c3f9d43",
-    "7051f83aee7f85794cc250ad0a1c58a4",
-    "456631539936c79834c7003ab447a081",
-    "eb90584a35cc9291941cbcb88ad9d97c",
     "4de49ad7a41fc3a7755e6abc2d20e590",
     "626c3def1b12ca2d6ce0d2018c85ca4f",
     "a2cbbc03e7981cff762233f4a01a4562",
@@ -16001,7 +15996,12 @@
     "d18c54841ea1a539b2bcc22bcd113b7c",
     "16c6528b119654da5eda83cab9ac76fe",
     "955470e317540719bf960e3327ef3861",
-    "6bed13f914a9551e11eb6775099f68e0"
+    "6bed13f914a9551e11eb6775099f68e0",
+    "0ea59c2160c2ffa3e391634c86cd1ca4",
+    "e3b1d9622885e55b791428c2d7c300d1",
+    "dd56c55b336753966ae7d771b4822601",
+    "20a772892bdc65405a4e74d127743868",
+    "4a11a80965bce3249b191f88eb3c0c3c"
   ],
   "transfers": {
     "pages": {
@@ -21316,6 +21316,26 @@
     {
       "t": "abuser action after agains also apex ballistic banned bans crash deliberately exploit fixed fixes has investigating legends matches permanently player respawn says studio taking used vulnerability",
       "ts": 1790902033.558084
+    },
+    {
+      "t": "00 australia change day does europe every exact fortnite here india item late more once plus post reset resets shop sometimes time updates utc what why zone",
+      "ts": 1790902038.8091419
+    },
+    {
+      "t": "17 2026 40 8 8217 99 buying costs down game gameplay have lower most october players playstation precinct price ps5 question reviews sale store until whether worth",
+      "ts": 1790902042.216099
+    },
+    {
+      "t": "17 1980s 20 2026 40 8 99 cop costs drops fallen game games gta like october off open playstation police post precinct ps5 sale store tree under until world",
+      "ts": 1790902045.631888
+    },
+    {
+      "t": "19 2026 4 8 99 autumn before best big deep discounts ends every forest galactic games group has here october picks rock sale size steam",
+      "ts": 1790902048.9790974
+    },
+    {
+      "t": "10 14 2 20 2026 3 5 99 autumn best cheap dead deals games has here post red redemption sale skyrim steam thousands under",
+      "ts": 1790902052.4605694
     }
   ]
 }
