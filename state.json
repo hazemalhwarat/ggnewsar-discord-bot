@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/17/wondr-gaming-partners-with-photographer-neil-dankoff-on-galleries-to-mint-and-sell-nfts/",
-    "https://thebusinessofesports.com/2021/12/17/riot-games-and-intel-partnership-aims-to-support-growth-of-mena-region-esports/",
-    "https://thebusinessofesports.com/2021/12/17/hashoff-llc-renews-saas-agreement-with-esports-company/",
-    "https://thebusinessofesports.com/2021/12/17/illinois-state-universitys-redbird-esports-finds-a-new-home/",
-    "https://thebusinessofesports.com/2021/12/17/esports-technologies-secures-u-k-gaming-license/",
     "https://thebusinessofesports.com/2021/12/17/valkyrae-wins-streamer-of-the-year-award/",
     "https://thebusinessofesports.com/2021/12/17/wildworks-angers-fans-with-embrace-of-crypto-gaming/",
     "https://thebusinessofesports.com/2021/12/17/episode-172-video-evolved-play-education-x-gaming-fun-vs-learning-game-development-insights/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26768/south-korea-finishes-asian-games-esports-with-2-gold-1-silver-2-bronze",
     "https://www.invenglobal.com/articles/26767/undefeated-back-to-back-champions-korea-lol-if-given-the-chance-we-want-to-win-three-in-a-row",
     "https://www.invenglobal.com/articles/26766/worlds-best-south-korea-lol-sweeps-finals-3-0-for-undefeated-gold-medal",
-    "https://www.invenglobal.com/articles/26744/rhythm-dance-game-luv-place-opens-pre-registration-on-stove-launching-on-the-15th"
+    "https://www.invenglobal.com/articles/26744/rhythm-dance-game-luv-place-opens-pre-registration-on-stove-launching-on-the-15th",
+    "https://www.invenglobal.com/articles/26743/pok%C3%A9mon-pokopia-bundle-including-expansion-pass-releasing-oct-29",
+    "https://www.invenglobal.com/articles/26742/unable-to-see-hear-or-speak-but-you-must-trust-each-other-to-solve-it",
+    "https://www.invenglobal.com/articles/26741/three-kingdoms-battle-for-the-world-launches-ascendancy-season-1-w1-on-oct-3-enhancing-6-major-classes",
+    "https://www.invenglobal.com/articles/26740/eternal-return-releases-91st-character-seres-serving-as-both-tank-and-support",
+    "https://www.invenglobal.com/articles/26738/webzen-opens-applications-for-second-half-recruitment-linked-internship"
   ],
   "title_hashes": [
-    "0fa0d54ed382b973d094a7d639eb02bf",
-    "50c485d0ed2f0f064ef8f42736ece7bc",
-    "a553ed17f1822f5cfdffd19229876ae3",
-    "d7896ed56a744c23aa0fa7f6bf0634dc",
-    "1feb915d1b3565471c56c200f931b109",
     "0ccaafa82f9faefdc716be97c15e8c9f",
     "cfd3ec6fff36f258244f78f5ce5817f1",
     "c454c80b8c7ae8a44664f0a86bad40de",
@@ -16001,7 +15996,12 @@
     "cae09f1d35d6755eebf9d02f56f2b8cc",
     "74208aa1d33827e03ba2a41d266e0ace",
     "2796536bf39259b2fb1a6a2ce8464616",
-    "05b1915ea11da68cd3f91b3c7887e870"
+    "05b1915ea11da68cd3f91b3c7887e870",
+    "c7617d52eca81b64312ad5377f156801",
+    "1458fbb7c79ecaa01db93fe601452564",
+    "3e01424cab23d70cf11dd0df8de75c67",
+    "b4bc7c1dfba67904e398fc38d36cc5be",
+    "a345ab3496de8017e36c3cdc6123be0a"
   ],
   "transfers": {
     "pages": {
@@ -21020,6 +21020,26 @@
     {
       "t": "14th 15th cross dance developed game gaming global katkit launching luv opens place platform pre provided registration rhythm running smilegatesmilegate stove through",
       "ts": 1790945953.259121
+    },
+    {
+      "t": "2 29 bundle company containing expansion game including koreathe main nintendo oct october pass pokopia pokémon provided release releasing switch will",
+      "ts": 1790945958.8705041
+    },
+    {
+      "t": "30 but development dude each four game hear indie must november online other person player provided puzzle release see sefik solve speak studios studiosturkish team three trust unable will you",
+      "ts": 1790945962.476119
+    },
+    {
+      "t": "1 3 6 ascendancy battle begin bilibili classes enhancing games kingdoms launches major oct october provided season three w1 will world",
+      "ts": 1790945966.0211596
+    },
+    {
+      "t": "91st added both character company eternal has its neptune neptunenimble neuron new provided releases return self seres serving subsidiary support tank",
+      "ts": 1790945969.7464275
+    },
+    {
+      "t": "19 2 2026 accepting applications half internship its linked october opens program recruitment second source webzen webzenwebzen",
+      "ts": 1790945973.2556212
     }
   ]
 }
