@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/12/17/partnership-announced-between-british-esports-association-and-college-of-esports/",
-    "https://thebusinessofesports.com/2021/12/17/razer-collaborates-with-hello-kitty/",
-    "https://thebusinessofesports.com/2021/12/17/five-of-indias-top-ten-content-creators-focused-on-gaming/",
-    "https://thebusinessofesports.com/2021/12/16/episode-172-evolved-play-education-x-gaming-fun-vs-learning-game-development-insights/",
-    "https://thebusinessofesports.com/2021/12/16/qualcomm-unveils-handheld-development-kit-powered-by-first-dedicated-gaming-chip/",
-    "https://thebusinessofesports.com/2021/12/16/rivalry-named-sponsor-of-boom-esports/",
     "https://thebusinessofesports.com/2021/12/16/report-sony-plans-on-launching-xbox-game-pass-style-service/",
     "https://thebusinessofesports.com/2021/12/16/secretlab-reveals-plans-to-release-harry-potter-gaming-chair/",
     "https://thebusinessofesports.com/2021/12/16/gameon-secures-investment-to-fund-nft-gaming/",
@@ -7999,14 +7993,15 @@
     "https://esportsinsider.com/2026/10/south-korea-esports-medals",
     "https://esports-news.co.uk/2026/10/02/faze-beaten-2-0-by-nemiga-in-stake-ranked-episode-4-opener/",
     "https://www.hltv.org/news/45610/xelex-on-developing-his-identity-i-dont-really-like-to-be-passive",
-    "https://www.hltv.org/news/45609/mercury-the-purpose-of-practice-should-be-so-they-can-make-their-own-judgment-calls-not-just-be-limited-to-whats-written-on-the-tactics-sheet"
+    "https://www.hltv.org/news/45609/mercury-the-purpose-of-practice-should-be-so-they-can-make-their-own-judgment-calls-not-just-be-limited-to-whats-written-on-the-tactics-sheet",
+    "https://www.hltv.org/news/45607/snappi-my-individual-level-has-gotten-to-the-point-where-its-better-to-let-some-new-faces-come-in",
+    "https://thegamehaus.com/nba/jalen-duren-signs-five-year-200-million-deal-with-pistons/2026/10/01/",
+    "https://thegamehaus.com/nfl/cowboys-trade-for-joey-porter-jr/2026/10/01/",
+    "https://www.nerfplz.com/2026/10/should-you-play-league-in-streamer-mode.html",
+    "https://www.nerfplz.com/2026/10/fotm-report-tristana-bot-patch-2619.html",
+    "https://www.vlr.gg/764839/global-esports-defeats-edward-gaming-to-survive-in-group-b"
   ],
   "title_hashes": [
-    "01af4a5c1b384902aa1d0650a03aeb3f",
-    "c735884c1b61c018ea94fdb1a8815369",
-    "8e767a1273fa43dc13882a0037021685",
-    "744de9ca7954034d7033ce8cb713a05c",
-    "ec6e9e37041b10db525d4e6b5240a6af",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "0d183a309ec7534ae2661b8815e7a906",
     "48e3b26162e01157869875e25a7c4cd1",
@@ -16001,7 +15996,12 @@
     "eefbe835a049d94d9dcd9d6a302b9776",
     "38e08db26e056c8ee803e632daebbb8c",
     "c72305b0496f3e8c6df5c5edc2c9a170",
-    "df3cc1f42812cd3781b6a4eeeda96a1a"
+    "df3cc1f42812cd3781b6a4eeeda96a1a",
+    "8f227b4e74ce3124de994947faf491e1",
+    "be5d732c53dab6e2d0e970bb388441e9",
+    "f29eba903d497263fdc3e4dbf25aaac3",
+    "af09b777837a41b091d440aa821fab1f",
+    "121173939659d6fd54716ec0d758e17c"
   ],
   "transfers": {
     "pages": {
@@ -21060,6 +21060,26 @@
     {
       "t": "2 asia calls can game hunt improve judgment just limited make mercury not only own practice purpose sense sheet should spot stage tactics their they trying tyloo what written",
       "ts": 1790945992.9108176
+    },
+    {
+      "t": "about better coach come confirmed crew danish end faces gotten has his hltv igl individual let level new player point role snappi some spoke time transition turned where",
+      "ts": 1790945998.0301738
+    },
+    {
+      "t": "200 8217 according agreed charania contract deal detroit duren end espn five fully guaranteed has jalen lengt marks massive million pistons return shams sign signs year",
+      "ts": 1790946001.5365002
+    },
+    {
+      "t": "2027 2028 according agreed cornerback cowboys dallas have insiders joey multiple nfl pick pittsburgh porter round second sixth steelers trade",
+      "ts": 1790946005.022052
+    },
+    {
+      "t": "cons costs don games gets here know knows league mode most nobody perspective play played player playing pros season should streamer that they this what who you",
+      "ts": 1790946008.5518456
+    },
+    {
+      "t": "champions continues curse defeats edward esports gaming global group shanghai survive valorant",
+      "ts": 1790946012.1778274
     }
   ]
 }
