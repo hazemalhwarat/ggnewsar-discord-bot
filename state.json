@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/08/06/facebook-left-holding-the-bag-after-virtual-reality-ad-testing-is-met-with-pushback/",
-    "https://thebusinessofesports.com/2021/08/06/pcbyte-explains-how-esports-continue-to-grow/",
-    "https://thebusinessofesports.com/2021/08/06/roccat-unveils-syn-pro-air-line-of-gaming-headsets/",
-    "https://thebusinessofesports.com/2021/08/06/amazons-game-streaming-service-luna-being-made-available-to-all-prime-members/",
-    "https://thebusinessofesports.com/2021/08/05/episode-143-video-mobile-gaming-tribe-riot-in-china-india-gaming-vc/",
     "https://thebusinessofesports.com/2021/08/05/umg-gaming-and-the-coalition-renew-partnership/",
     "https://thebusinessofesports.com/2021/08/05/mediacorp-teaming-up-with-emerge-esports/",
     "https://thebusinessofesports.com/2021/08/05/college-gamers-gearing-up-for-championships-in-sri-lanka/",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/news/gta-6-miami-heat-vice-city-night/",
     "https://www.talkesport.com/news/lisa-ps5-controller-pre-orders-selling-out/",
     "https://www.talkesport.com/guides/pokemon-go-minior-meteor-showers-schedule-how-to-catch-minior/",
-    "https://www.talkesport.com/news/valorant/china-eliminated-valorant-champions-2026-shanghai/"
+    "https://www.talkesport.com/news/valorant/china-eliminated-valorant-champions-2026-shanghai/",
+    "https://www.gamesindustry.biz/sonys-consultation-on-physical-media-better-late-than-never-opinion",
+    "https://www.gamesindustry.biz/in-pictures-the-best-places-to-work-awards-2026",
+    "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+    "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
+    "https://www.gamesindustry.biz/winners-of-the-uk-best-places-to-work-awards-2026-revealed"
   ],
   "title_hashes": [
-    "608219a9bf41f93ddb9548ebf3141c98",
-    "04a6d77a9c4960007a3a82a2e907e279",
-    "67a22d58e37ca7d4c379bbb1df238951",
-    "f47ace3a3da1c9147c322a208c654fbe",
-    "9763dda61538c60d8ac2aafc94d15fbc",
     "d59c63b8e6f5807abcdc951b85d1450b",
     "29296d25adc66735e2587a5916dd71be",
     "fd684a57c73cf151caed9f7ca04fc445",
@@ -16001,7 +15996,12 @@
     "676b51084a0a6c2caacf5f69ddc177c0",
     "9f5071fc1fd870d451b75cdc65175588",
     "d8faeb177562ce6a346c8c3f3e07dff0",
-    "cd705b8c0e621561f0f6e3bbfac247f7"
+    "cd705b8c0e621561f0f6e3bbfac247f7",
+    "9682855b9cef31a9f25f6331681a5ffc",
+    "9ed98e5c3e9685aa3de82c99009a2ed3",
+    "cd82e6414d757186a4608327afb47df4",
+    "94a6604d5f2a3ca902df41af80b7baab",
+    "e5ee32693450a7e21d3ddbdfc2480d63"
   ],
   "transfers": {
     "pages": {
@@ -21204,6 +21204,26 @@
     {
       "t": "2026 8217 advantage champions china completing crash entered four gaming gets group home loss nightmare none out playoffs reached remarkable shanghai t1 teams three valorant worse",
       "ts": 1790964856.7097697
+    },
+    {
+      "t": "better consultation dead decision development end first game get input its late law leas little media moore never news odd opinion partners physical releases reported sony support surveying than that their",
+      "ts": 1790964861.935002
+    },
+    {
+      "t": "2026 awards best biz end gamesindustry institution last london night pictures places returned reveal royal saw summit this which work year",
+      "ts": 1790964865.601878
+    },
+    {
+      "t": "1 again biz came companies creating day games gamesindustry generative given having impact might more october often one place quite rather read saving sessions summit than that throughout time took topic why work workplace",
+      "ts": 1790964869.2361896
+    },
+    {
+      "t": "2 bungie called destiny director founder have jason jones kite launch launched margaret more narrative new read stohl stone studio transmedia",
+      "ts": 1790964872.743479
+    },
+    {
+      "t": "1 13 2026 awards best company dink games going hangar institution jagex london naturalmotion october place places rare revealed royal runescape special took winners work",
+      "ts": 1790964876.3238444
     }
   ]
 }
