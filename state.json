@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/17/global-gaming-marketplace-kinguin-partners-with-immutable-x/",
-    "https://thebusinessofesports.com/2021/06/17/episode-136-esports-law-talent-best-practices-e3-obsolete-fbi-esports-task-force/",
-    "https://thebusinessofesports.com/2021/06/17/2crazy-integrates-nfts-into-revolutionary-platform/",
-    "https://thebusinessofesports.com/2021/06/17/business-of-esports-tv-booming-valorant/",
-    "https://thebusinessofesports.com/2021/06/16/business-of-esports-tv-gaming-with-netflix/",
-    "https://thebusinessofesports.com/2021/06/15/yougov-esports-fans-twice-as-likely-to-notice-outdoor-ads/",
     "https://thebusinessofesports.com/2021/06/15/facebook-gaming-acquires-unit-2-games/",
     "https://thebusinessofesports.com/2021/06/15/pharmaceutical-companies-using-video-games-to-improve-operations/",
     "https://thebusinessofesports.com/2021/06/15/live-after-show-135b-210m-tsm-ftx-microsoft-excel-esports-mobile-game-data-nintendo-museum-blizzard-2-0/",
@@ -7999,15 +7993,15 @@
     "https://www.hltv.org/news/45623/bcg-and-100t-eliminated-from-rog-journey",
     "https://www.hltv.org/news/45621/parivision-secure-massive-vrs-payout-over-art-less-legacy",
     "https://insider-gaming.com/best-games-to-buy-in-the-massive-steam-autumn-sale/",
-    "https://insider-gaming.com/fallout-76-player-count-picks-up-most-important-day/"
+    "https://insider-gaming.com/fallout-76-player-count-picks-up-most-important-day/",
+    "https://insider-gaming.com/capcom-plans-re-engine-ai-generation/",
+    "https://insider-gaming.com/exclusive-skyrim-lead-designer-on-staggering-thing-players/",
+    "https://gameriv.com/arc-raiders-bird-city-started-as-a-joke-and-took-about-five-days-of-work/",
+    "https://traxion.gg/gran-turismo-world-series-nations-cup-miyazono-wins-fraught-singapore-round/",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN25PQzhzcXhRTm9mOUtvTFA4ZjRPa0lSdGVUWkpiRERRalA5RFhSVlN1TmFTNzdoaWZXMUgxYU9lNDRWdHRKeDVXU05Qd3p6aHVaSWFsQXZQN1hKOF9JREN3OHlIcjJud2RmRG9BZXJUeVFraU4xZmdpSFVQX295b1pFaXl3dw?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/demacia-cup-day-1-recap"
   ],
   "title_hashes": [
-    "dceafc86cc22123e0c4bd2b48b4dc4c3",
-    "db712888ca4912da95d8b0f04c253d5e",
-    "6a3697793abc753979186364ec3bca8d",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "507c113bd3f299fd29f210feb2fb849b",
-    "a94f7ab1136131bfc7c7e91ec6fd855d",
     "e3df26c1c188366ae609354ac27a0eee",
     "a6a86c8cdcfdb117383eb315e58acf8d",
     "95241ed10ff1df4126e87151f17eb9dc",
@@ -16001,7 +15995,13 @@
     "df150b97189cf4289430fc2351cfb3d0",
     "23affae96876fec7e2962b2aeb58922d",
     "690605bfdefe575f2ef3e8954910d26a",
-    "391b7721b42cb5c623360f89bf908d8e"
+    "391b7721b42cb5c623360f89bf908d8e",
+    "a72565d2b6ccabd6e434a09cdd4089ed",
+    "7d3a6ff86078ccf0ef117906f0e907e2",
+    "0f65242a21c17c4c817e8e353fe23eb9",
+    "e87e85d2bc8db04940a13b24b19fb47d",
+    "2ef249e41db9cbbdd36eb45ebe3a59c1",
+    "66b803738c62897f863b52ea8e90dc6d"
   ],
   "transfers": {
     "pages": {
@@ -20956,6 +20956,26 @@
     {
       "t": "76 821 approaches calendar close compared count creep day draws fallout game important months most picks player post recent starting",
       "ts": 1791041695.5882661
+    },
+    {
+      "t": "8216 capcom conference engine firmly future game generation has into plans post realms recently reveal sits stage taken tech turn which",
+      "ts": 1791041700.916648
+    },
+    {
+      "t": "30 8216 8217 about away designer did exclusive important interview lead learned millions one players post recent right skyrim stag staggering that thing",
+      "ts": 1791041704.8206656
+    },
+    {
+      "t": "about according aleksander arc bird city condition days executive feature five grøndal has involved joke map origin out producer raiders rou simple started surprisingly took turns work",
+      "ts": 1791041708.2739294
+    },
+    {
+      "t": "controversial cup driver fair final fraught gran incident involved japanese judged lap miyazono nations post racing round series singapore stewards that turismo ultimately wins world",
+      "ts": 1791041711.883714
+    },
+    {
+      "t": "bo1s brings canids china cup day demacia featuring fifth first global invitational kicked lck look lpl navi off online red saturday see seventh six sixth stage start stuns swiss this together top tournament",
+      "ts": 1791041715.3603969
     }
   ]
 }
