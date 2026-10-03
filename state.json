@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/18/business-of-esports-tv-blizzard-2-0/",
-    "https://thebusinessofesports.com/2021/06/17/game-builder-garage-coming-to-nintendo-switch/",
-    "https://thebusinessofesports.com/2021/06/17/world-esports-league-unveils-global-growth-plan/",
-    "https://thebusinessofesports.com/2021/06/17/cootek-invests-in-shanghai-lejiu-network-technology-company/",
-    "https://thebusinessofesports.com/2021/06/17/esports-stadium-arlington-partners-with-cook-childrens-hires-two-former-fc-dallas-execs/",
     "https://thebusinessofesports.com/2021/06/17/global-gaming-marketplace-kinguin-partners-with-immutable-x/",
     "https://thebusinessofesports.com/2021/06/17/episode-136-esports-law-talent-best-practices-e3-obsolete-fbi-esports-task-force/",
     "https://thebusinessofesports.com/2021/06/17/2crazy-integrates-nfts-into-revolutionary-platform/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26797/lck-undefeated-in-r1-kt-bfx-and-hanjin-all-advance-to-r2-winners-bracket",
     "https://www.invenglobal.com/articles/26796/jumping-cheering-and-singing-along-together-at-persona-live-tour",
     "https://www.invenglobal.com/articles/26795/from-ceo-han-jeong-hyuns-clarinet-performance-to-voice-actors-trickcal-holds-elias-talent-show",
-    "https://www.invenglobal.com/articles/26794/flipped-in-the-blind-window-nagne-defeats-myeongga-in-calteon-4"
+    "https://www.invenglobal.com/articles/26794/flipped-in-the-blind-window-nagne-defeats-myeongga-in-calteon-4",
+    "https://www.hltv.org/news/45622/dastan-i-try-to-play-with-hobbit-to-bring-one-more-trophy-for-him",
+    "https://www.hltv.org/news/45623/bcg-and-100t-eliminated-from-rog-journey",
+    "https://www.hltv.org/news/45621/parivision-secure-massive-vrs-payout-over-art-less-legacy",
+    "https://insider-gaming.com/best-games-to-buy-in-the-massive-steam-autumn-sale/",
+    "https://insider-gaming.com/fallout-76-player-count-picks-up-most-important-day/"
   ],
   "title_hashes": [
-    "2a60018dff96ff39446cf9af8dade2e8",
-    "d1c359b622d0372708e5682cb625eeaf",
-    "74ab5390477f09a3fd6734343608affe",
-    "732ec6756ab984984936d876f15adf91",
-    "61cb8bd88026d320c3b39232d159607e",
     "dceafc86cc22123e0c4bd2b48b4dc4c3",
     "db712888ca4912da95d8b0f04c253d5e",
     "6a3697793abc753979186364ec3bca8d",
@@ -16001,7 +15996,12 @@
     "512d77148b01c5d00b46853695b5fda8",
     "076f921d9db6b797ec118d481b63ef0c",
     "136d4bbd75dab6a26b83a4b521be106d",
-    "03291e8bbca75054f0b5bb3d268a5321"
+    "03291e8bbca75054f0b5bb3d268a5321",
+    "148b12b9018183671582b0b5caa8115a",
+    "df150b97189cf4289430fc2351cfb3d0",
+    "23affae96876fec7e2962b2aeb58922d",
+    "690605bfdefe575f2ef3e8954910d26a",
+    "391b7721b42cb5c623360f89bf908d8e"
   ],
   "transfers": {
     "pages": {
@@ -20936,6 +20936,26 @@
     {
       "t": "00 3 4 8 blind calteon catching concluded concludedthe defeats enchant eye flipped god has most myeongga nagne october selection server seventh sol three where window",
       "ts": 1791041675.6370997
+    },
+    {
+      "t": "bring chemistry dastan him hobbit hope immediately improve level more one parivision play return team their trophy try will",
+      "ts": 1791041681.1835127
+    },
+    {
+      "t": "100 100t ahead bcg cut early eliminated hopes journey major november rest rog smaller thieves tournaments two",
+      "ts": 1791041684.7242663
+    },
+    {
+      "t": "art earned legacy less massive much over parivision payout russian secure side vrs",
+      "ts": 1791041688.4905095
+    },
+    {
+      "t": "appeared autumn best biggest buy discounts first games going help here inside massive out pick post sale steam you",
+      "ts": 1791041692.0564318
+    },
+    {
+      "t": "76 821 approaches calendar close compared count creep day draws fallout game important months most picks player post recent starting",
+      "ts": 1791041695.5882661
     }
   ]
 }
