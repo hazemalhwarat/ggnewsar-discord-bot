@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/06/21/foundry-iv-launches-first-mobile-gaming-product/",
-    "https://thebusinessofesports.com/2021/06/21/electronic-arts-acquires-metalhead-software/",
-    "https://thebusinessofesports.com/2021/06/21/vorto-gaming-receives-grant-to-develop-blockchain-esports-app/",
-    "https://thebusinessofesports.com/2021/06/21/ese-entertainment-signs-content-production-deal-with-bitcoin-vault/",
-    "https://thebusinessofesports.com/2021/06/21/hpd-teams-up-with-jas-motorsport-for-esports-academy/",
     "https://thebusinessofesports.com/2021/06/21/gala-games-announces-collaboration-with-comic-book-writer-frank-miller/",
     "https://thebusinessofesports.com/2021/06/21/atlanta-hawks-unveil-gaming-house-inside-teams-arena/",
     "https://thebusinessofesports.com/2021/06/21/global-gaming-market-to-be-valued-at-295b-by-2026/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26792/burnout-devs-star-wars-galactic-racer-hits-88-on-metacritic-praised-for-sense-of-speed",
     "https://esports-news.co.uk/2026/10/03/loud-and-keyd-stars-exit-counter-strike-as-brazil-cracks-down-on-betting/",
     "https://insider-gaming.com/when-next-amazon-prime-day-schedule-explained/",
-    "https://thegamehaus.com/gamingg/live-casino-vs-software-games-which-should-you-play/2026/10/03/"
+    "https://thegamehaus.com/gamingg/live-casino-vs-software-games-which-should-you-play/2026/10/03/",
+    "https://thegamehaus.com/deadlock/meet-rat-king-new-hero-ability-breakdown-and-first-look/2026/10/02/",
+    "https://www.hltv.org/news/45619/the-best-highlights-from-epl-s24-groups",
+    "https://www.vlr.gg/765901/g2-eliminates-team-liquid-extending-liquid-s-1-2-group-stage-curse",
+    "https://esportsinsider.com/2026/10/siuhy-free-agent-liquid",
+    "https://esportsinsider.com/2026/10/brazil-betting-restrictions-cs2"
   ],
   "title_hashes": [
-    "5a5d5b4ce9871f8892306bbe223990e6",
-    "e9a78dd31f69736b6e6e8b1aed842088",
-    "0676ead91ed61f5b116821e9a5e72ae6",
-    "252f792fa9d1f513c31e4f029d324938",
-    "494109d63bb3c256d1cc9824fa18eaa4",
     "c92292184654dcd16ddaf0c866220e17",
     "743aed936d09684f72ceee21bbb53e4a",
     "f3b57b00d5260b733402eb5248b7429a",
@@ -16001,7 +15996,12 @@
     "1ff4ca26922ea76fc5c55a638794a111",
     "6b29430a232158ade906c00002d4344c",
     "c7ebe41e36881134603ef77e61c5726c",
-    "d87f7265b0d8cb99bdc67a83cdbb6a70"
+    "d87f7265b0d8cb99bdc67a83cdbb6a70",
+    "920256d1c6a2e13a36beaa205d1c9dd8",
+    "c1cfcc6a8a390fa4107a06d597cb89c4",
+    "b4a2ba7c8b803a4fdc3bf09255ee4282",
+    "ef967f035c817bfabec58ff4a670edca",
+    "754cc3b6581cebe45563b22af3060fdb"
   ],
   "transfers": {
     "pages": {
@@ -21016,6 +21016,26 @@
     {
       "t": "ago any can casino choice couple decades did entirely exist face game games join live modern not online open play rea run should slot software streamed table that which you",
       "ts": 1791028679.0920103
+    },
+    {
+      "t": "8217 abilities ability added breakdown city deadlock first full here hero his how king latest look major never new rat showing sleeps update video work",
+      "ts": 1791028684.3900697
+    },
+    {
+      "t": "1 best days epl five group groups highlights katowice keep million next over plays s24 stage swiss tournament unfolds",
+      "ts": 1791028687.9225662
+    },
+    {
+      "t": "1 2 advance champions curse eliminates extending g2 group liquid over playoffs stage team win",
+      "ts": 1791028691.5122445
+    },
+    {
+      "t": "after agency agent contin continues cs2 enters exit fill find former free igl its left liquid open organisation post replacement reset roster siuhy spot",
+      "ts": 1791028694.9778585
+    },
+    {
+      "t": "betting brazil cancelled changing crackdown cs2 event exiting have keyd loud messaging post reshaped reshapes restrictions scene series sponsor stars teams",
+      "ts": 1791028698.440635
     }
   ]
 }
