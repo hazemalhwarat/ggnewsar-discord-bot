@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/05/25/io-interactive-reportedly-developing-xbox-exclusive-game/",
-    "https://thebusinessofesports.com/2021/05/25/report-chinas-cloud-gaming-industry-revenue-will-experience-massive-growth/",
-    "https://thebusinessofesports.com/2021/05/25/ee-offering-xbox-game-pass-ultimate-and-unlimited-gaming-data/",
-    "https://thebusinessofesports.com/2021/05/24/anrkey-x-starts-public-beta-test-of-nft-and-esports-game/",
-    "https://thebusinessofesports.com/2021/05/24/vertux-hoping-to-enter-lucrative-phillippine-gaming-market/",
-    "https://thebusinessofesports.com/2021/05/24/blade-acquired-by-ovhcloud-founder/",
-    "https://thebusinessofesports.com/2021/05/24/asus-rog-launches-zephyrus-g15-gaming-laptop-in-uae/",
     "https://thebusinessofesports.com/2021/05/24/premier-league-partnering-with-tencent-to-launch-esports-fifa-series-in-china/",
     "https://thebusinessofesports.com/2021/05/24/bragg-gaming-group-expects-to-generate-57m-in-revenue-this-year/",
     "https://thebusinessofesports.com/2021/05/24/sony-expects-profits-to-slip-following-pandemic-boom/",
@@ -7999,16 +7992,16 @@
     "https://insider-gaming.com/runescape-reignited-launch-date-december-2/",
     "https://www.hltv.org/news/45628/nip-claim-second-consecutive-title-with-rog-journey-win",
     "https://www.hltv.org/news/45627/nemiga-through-to-stake-ranked-episode-4-final",
-    "https://www.hltv.org/news/45626/vitality-to-play-navi-on-epl-s24-day-two"
+    "https://www.hltv.org/news/45626/vitality-to-play-navi-on-epl-s24-day-two",
+    "https://gameriv.com/activision-introduces-server-culling-to-combat-wallhacks-in-call-of-duty-modern-warfare-4/",
+    "https://www.nerfplz.com/2026/10/this-draven-and-nunu-duo-camps-bot-lane.html",
+    "https://www.hotspawn.com/dota2/news/blast-slam-8-last-chance-seeding-matches-recap",
+    "https://www.hotspawn.com/valorant/news/onwear-valorant-champions-shanghai",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFlzOXY4bUtIMXNyMEIxd2duRUxELW55UGJNc2VJeElkMGoxdjJVYTFzeFAxVFlpbUZMckNsZThvQ1JpQm9QeUtuS05IdmRnNHhseWxOMWNDWlExd2FoUkRqQVZiMUlpd0Z4NnNhb1V6SkF4aDl1V2JOMG9fU0ZPOWstUUYwMFlHZ1V5WlBn?oc=5",
+    "https://www.talkesport.com/news/new-ape-escape-game-sony-revival/",
+    "https://www.talkesport.com/news/lol/lol-worlds-2026/"
   ],
   "title_hashes": [
-    "91283f0845daca0d8e8f4ae701443abf",
-    "1d5ce5875a9a28f355d32e1322022a7f",
-    "ae276ef7085be96163e500a691890fa0",
-    "cb1e6688f356a25d91ea7f21906feaf8",
-    "1e7a16f2d642b2b4b619de9832b29eb2",
-    "b4d96cf105128698b87904772388f3da",
-    "dd43b544312abbc6f7238289669c76b5",
     "9f0455560e5ab26ced952ab59d8821b6",
     "419267177253b3ae88330be9dd971609",
     "b7c59ee154ccaf1b7462ad6517ac0435",
@@ -16001,7 +15994,14 @@
     "6df0719208deaced9e903f3cde2d7a0b",
     "ec3d10e92380156af1f7499519f1aa1e",
     "226396b742626f154f5215c436ab5bd4",
-    "bebfc8cda00f6e3ef35ee81b36253531"
+    "bebfc8cda00f6e3ef35ee81b36253531",
+    "f952a57593bbb6baf7bc7c47f03f2032",
+    "eae4a164e9ea3f25525b3a631f4799b0",
+    "f9acdef776c1ee387be9e4f7f322e7ff",
+    "cb8cd109b7e71b24250bd2edea8d6f80",
+    "3232cf76456d5d96de7b577cc7646a29",
+    "0bb2888fa1d89cad42f611398653d25d",
+    "891d7d9fbbdf83925e3fa4cb875fd04b"
   ],
   "transfers": {
     "pages": {
@@ -20908,6 +20908,26 @@
     {
       "t": "after aleksib another day down epl g2 navi opening play round s24 taking test tough troops two vitality",
       "ts": 1791064661.5801277
+    },
+    {
+      "t": "4 activision call combat culling duty even feels gunfight introduces losing modern other player problem server suspect system targeting that through tracked wall wallhacks warfare when worse you",
+      "ts": 1791064666.7788067
+    },
+    {
+      "t": "8 another blast bracket but chance conclude day eight elimination end finally group last matches misses more out over playoff playoffs preliminary seeding slam stage teams that topson two used wasn weeded",
+      "ts": 1791064670.17636
+    },
+    {
+      "t": "8217 arena around beyond bills built champions china fan first has launched licensed merchandise onwear opens pop shanghai spreading store team themed valorant vct well what",
+      "ts": 1791064673.5676894
+    },
+    {
+      "t": "16 2010 after anything ape asobi back bring confirmed escape first game hasn insider making natethehate new not plans post reportedly says series since sony team works years yet",
+      "ts": 1791064676.9921706
+    },
+    {
+      "t": "2026 across anticipated best bring championship fight format game globe has highest highly honour league legends lol more offer schedule set teams that together world worlds",
+      "ts": 1791064680.4479458
     }
   ]
 }
