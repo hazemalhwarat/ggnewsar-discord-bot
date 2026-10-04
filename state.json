@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/01/26/business-of-esports-minute-033-allied-esports-implosion-gaming-hardware-records-bilibili-esports/",
-    "https://thebusinessofesports.com/2021/01/24/business-of-esports-weekly-news-335/",
-    "https://thebusinessofesports.com/2021/01/23/live-after-show-115b-allied-esports-dead-pro-gamers-broke-adidas-media-deals-gaming-hardware-success-razer-profitability-gronk-vs-tfue-fortnite-marketing-spend/",
-    "https://thebusinessofesports.com/2021/01/22/episode-115-video-cod-goat-bilibili-esports-streaming-record-playstation-xbox-hunting-final-fantasy-sony-divorce/",
-    "https://thebusinessofesports.com/2021/01/21/episode-115-cod-goat-bilibili-esports-streaming-record-playstation-xbox-hunting-final-fantasy-sony-divorce/",
-    "https://thebusinessofesports.com/2021/01/19/business-of-esports-minute-032-microsoft-stadia-gaming-surge-super-league-sinking/",
     "https://thebusinessofesports.com/2021/01/18/cd-projekt-reds-shot-at-redemption/",
     "https://thebusinessofesports.com/2021/01/17/business-of-esports-weekly-news-334/",
     "https://thebusinessofesports.com/2021/01/16/live-after-show-114b-future-star-wars-games-bilibili-backer-motorsports-ipo-venn-pivot-avoid-super-league-ultimate-chair/",
@@ -7999,15 +7993,15 @@
     "https://www.nerfplz.com/2026/12/death-recap-explained-10-rules-of.html",
     "https://www.nerfplz.com/2026/10/most-fun-champions-to-play-in-lol-two.html",
     "https://www.global-esports.news/call-of-duty/runescape-4-is-coming-first-teaser-for-the-sequel-to-the-cult-mmo-series/",
-    "https://www.hotspawn.com/valorant/news/valorant-champions-shanghai-americas-playoffs"
+    "https://www.hotspawn.com/valorant/news/valorant-champions-shanghai-americas-playoffs",
+    "https://www.hotspawn.com/valorant/news/valorant-champions-pickems-2026",
+    "https://www.hotspawn.com/valorant/news/valorant-champions-shanghai-playoffs-draw",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHJwSjl6aFNkbkRYSEtxNnZaelRqUXNGRGlPbFhFdEc3MFRxMWFwTzdhbDZrbVk0OEF2S0FYdEhETWRSS3RESm9zR1ZzSlYzaXUtT2FUYzQ5dWNjS2phSy1lNktwS0Ntc2dUS0VMdzhvN0xVNWhxckZkNXpHRnV5VEpzY2kyMW1mRUVvR1ZKSXNrczVhN1hwNG5JaUw?oc=5",
+    "https://www.talkesport.com/news/sony-battlefield-movie-michael-b-jordan/",
+    "https://www.talkesport.com/news/steam-september-2026-revenue-old-games/",
+    "https://www.talkesport.com/news/gta-6-blocks-ps5-jailbreaks-mandatory-firmware-update/"
   ],
   "title_hashes": [
-    "f3e2207d9e9bda844146c95c667ee78e",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "f2779e9403ac954aed112508eda2fbaf",
-    "cdaaafb8d65d1f0dd8e2f65810f9e26d",
-    "da3cc4982c5127dae89f7f4c81635168",
-    "4521661607452821790e1ad763a594e3",
     "27a0a8edf54a15c315385581d66aa6a0",
     "59b7618233b41fd353a9c016e9370ede",
     "413b5f0e8ba478a904c00e2ca6251734",
@@ -16001,7 +15995,13 @@
     "00012310a5938c507a787de3a43954fa",
     "061092fe91ac6d8997e41c55c34ac875",
     "2819ce1e752867ad95bcc32598e003e2",
-    "878f0223875e34a2641cec5feea96613"
+    "878f0223875e34a2641cec5feea96613",
+    "01c0d549fb6e96b3df2b4ba7bd75c72c",
+    "38ca34b2a2bf5cddb219032f2bc164b1",
+    "687c67284b865693dd772e3999b64d41",
+    "1a89208842cc0d3ba5a964c09994241d",
+    "8b523e3bc95848b7fc473ea0d6f64d69",
+    "b3268d4b4da7466a3d3b8cf7e3217531"
   ],
   "transfers": {
     "pages": {
@@ -20848,6 +20848,26 @@
     {
       "t": "0 100 2 4 advance all americas champions completed esports four global has into its joining loud nrg october over playoffs put representatives set shanghai teams thieves valorant vct win",
       "ts": 1791133083.0883496
+    },
+    {
+      "t": "10 8217 ahead back best both champions client coming commence confirmed ems esports group has live officially pick playoffs predictions september shanghai stage update valorant will",
+      "ts": 1791133088.244141
+    },
+    {
+      "t": "100 4 advancin all americas bracket champions concluded decided draw eight finished g2 gone group have home loud nrg opening perfect playoffs record remain shanghai stage teams thieves valorant",
+      "ts": 1791133091.9548717
+    },
+    {
+      "t": "acquire after attached battlefield bidding christopher emerged emerges following frontrunner has hollywood involving major mcquarrie movie package pictures several sony streamers studios war write",
+      "ts": 1791133095.5164664
+    },
+    {
+      "t": "1 13 2026 33 500 6 7 above among best billion but come didn earn estimated ever games generated its last made money most new only record released revenue september steam top year",
+      "ts": 1791133099.0557256
+    },
+    {
+      "t": "10 13 14 6 60 blocks can changes consoles datamine firmware gta here how jailbreaks jailbroken mandator mandatory post ps5 reveals run update what",
+      "ts": 1791133102.5258691
     }
   ]
 }
