@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/03/10/citron-research-says-gamestop-should-purchase-esports-entertainment-group/",
-    "https://thebusinessofesports.com/2021/03/10/twitch-signs-interactive-content-deal-with-fiba/",
-    "https://thebusinessofesports.com/2021/03/10/business-of-esports-minute-039-epic-fall-guys-amazon-gameon-multi-bagger-gmbl/",
-    "https://thebusinessofesports.com/2021/03/10/google-insiders-explain-why-the-companys-plan-to-make-video-games-fell-apart/",
-    "https://thebusinessofesports.com/2021/03/10/amazons-gameon-app-launches-on-ios/",
     "https://thebusinessofesports.com/2021/03/10/turtle-beach-reports-record-fourth-quarter/",
     "https://thebusinessofesports.com/2021/03/08/business-of-esports-weekly-news-341/",
     "https://thebusinessofesports.com/2021/03/08/live-after-show-121b-stadia-postmortem-bruckheimer-skillz-nadeshot-tattoo-halo-tv/",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkpmNTM3Q3NYMjhWa1VYa0pqR0Z6M0ZpZ0lBeHBVNmxJQlItWWdraG80Zk9ybjlTc1p4eUhETWpWQmJlWmJtRERNM01GLVRzTGRGSFJMYXV5UDVZTkhyem1lWTZMSDZZN2xrdmRsdEtpRC1HbmR6eEhQWE90VWg5UmZB?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTGpzNkhkeVRwa0ZVLUVGYXpwck01a2xRcVlKTVo1cDN4TW04RDF5cS1IMFAzMWJSLXRPWU05MzRWZUhRQnNiaTFhRmEwd3l2SWpZdjFWQkF4T2I0VER5SmNmd1VwYldGdFpsX1JycGRYSTI0TWF5QzY4V0hrMXdqN21B?oc=5",
     "https://www.talkesport.com/news/valorant/global-esports-valorant-champions-2026-journey/",
-    "https://www.talkesport.com/news/valorant/global-esports-vs-loud-ge-knocked-out-of-valorant-champions-2026-as-loud-reach-playoffs/"
+    "https://www.talkesport.com/news/valorant/global-esports-vs-loud-ge-knocked-out-of-valorant-champions-2026-as-loud-reach-playoffs/",
+    "https://www.talkesport.com/news/steam-brokenpipe-vulnerability-windows-system-access/",
+    "https://www.talkesport.com/gta-6/gta-6-age-rating-esrb-pegi-18-sex-scenes/",
+    "https://www.talkesport.com/gta-6/gta-6-animals-list/",
+    "https://www.talkesport.com/news/eu-valorant-minecraft-clash-of-clans-in-game-currency/",
+    "https://www.talkesport.com/editorials/from-s8ul-to-esfi-indian-esports-biggest-fights-are-moving-to-court/"
   ],
   "title_hashes": [
-    "3d6066fb95c3682534eaa6f9b9a33cfd",
-    "9182cb0c15e97c8fdc0c6fb95d09094f",
-    "27a0a8edf54a15c315385581d66aa6a0",
-    "778ad3b416f61201336699b668fd83ac",
-    "9b176706770b8bd05c40e264ad591ec0",
     "e90c9e4f6c3509fa8ff87c20a998fdfa",
     "437747680f99572d2f54abd0979c3d26",
     "e744c459000f1c65e4a51ae8a8f02ebe",
@@ -16001,7 +15996,12 @@
     "799855594adc0f2bd7302c69d3234b5a",
     "6ea3e36dac745f9a9988c3c50acdbf37",
     "fe9001a7e47b89cb89557808b0fc2097",
-    "7de1d3652532de9ebc63506e82ffb472"
+    "7de1d3652532de9ebc63506e82ffb472",
+    "da23cfd7ccb6078b4a32006cd80a12c3",
+    "aa5044ec734db3871ab02cb4f0d10d61",
+    "9f0f9cb98c791670876f3f852857cc68",
+    "bd26b62189ef24e593e1d500c5a2536b",
+    "5f3f1f5bb69aa0b8f3049d53e78ea6ba"
   ],
   "transfers": {
     "pages": {
@@ -20860,6 +20860,26 @@
     {
       "t": "0 13 2 2026 4 beat champions decider esports global group indian knocked loud october organization out playoffs reach shanghai split taking valorant",
       "ts": 1791116369.277324
+    },
+    {
+      "t": "administrator after authoritysystem brokenpipe can elevate flaw hackerone months notified password prompt reported requiring researcher says security standard steam through triggering uac unfixed user valve windows without",
+      "ts": 1791116374.2674768
+    },
+    {
+      "t": "6 adult age anyone auto big come don familiar games grand gta has includes matur now official pages rating ratings revealed rockstar scenes series show store surprise theft they title upcoming who",
+      "ts": 1791116377.7027626
+    },
+    {
+      "t": "6 ahead animals any auto been birds confirmed creatures diverse ecosystem far feature game grand gta has have highly its leonida major point release rich sea seen speculated talking theft unlike video wildlife",
+      "ts": 1791116381.1768615
+    },
+    {
+      "t": "9 action against authorities candy clans clash companies consumer covering crush currency examining gaming have including launched major minecraft nine over practices regulators saga takes titles valorant virtual whether",
+      "ts": 1791116384.598526
+    },
+    {
+      "t": "8bit beyond biggest court courts disputes esfi esgf esports fights high increasingly indian into investigations involving kaashvi lawyers livestreams media moving offices police profile s8ul social thug",
+      "ts": 1791116388.0576422
     }
   ]
 }
