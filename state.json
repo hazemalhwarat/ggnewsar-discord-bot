@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2021/02/05/episode-117-riot-games-insights-esports-partnerships-sponsorship-trends-china-1-in-game-ads-riot-mmo/",
-    "https://thebusinessofesports.com/2021/02/03/business-of-esports-minute-034-gamestop-fallout-tencent-ma-record-microsoft-misstep/",
-    "https://thebusinessofesports.com/2021/02/01/business-of-esports-weekly-news-336/",
-    "https://thebusinessofesports.com/2021/02/01/live-after-show-116b-gamestop-gone-wild-microsoft-misstep-blizzard-behind-schedule-vr-x-hr-eeg-acquisition-7-eleven-gaming/",
-    "https://thebusinessofesports.com/2021/01/31/episode-116-video-game-with-passion-win-with-science-logitech-g-gaming-hardware-insights/",
-    "https://thebusinessofesports.com/2021/01/29/episode-116-game-with-passion-win-with-science-logitech-g-gaming-hardware-insights/",
     "https://thebusinessofesports.com/2021/01/26/business-of-esports-minute-033-allied-esports-implosion-gaming-hardware-records-bilibili-esports/",
     "https://thebusinessofesports.com/2021/01/24/business-of-esports-weekly-news-335/",
     "https://thebusinessofesports.com/2021/01/23/live-after-show-115b-allied-esports-dead-pro-gamers-broke-adidas-media-deals-gaming-hardware-success-razer-profitability-gronk-vs-tfue-fortnite-marketing-spend/",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/how-to-get-free-gems-in-clash-of-clans/",
     "https://insider-gaming.com/earn-free-gems-in-brawl-stars/",
     "https://insider-gaming.com/how-to-get-pokemon-free-celebi-explained/",
-    "https://gameriv.com/embark-unveils-new-arc-raiders-motion-capture-plans-ahead-of-the-new-frozen-trail-trailer-on-october-6/"
+    "https://gameriv.com/embark-unveils-new-arc-raiders-motion-capture-plans-ahead-of-the-new-frozen-trail-trailer-on-october-6/",
+    "https://www.vlr.gg/766957/t1-eliminates-fut-to-steal-last-playoff-spot-in-shanghai",
+    "https://www.vlr.gg/767024/champions-shanghai-playoff-draw-revealed",
+    "https://www.nerfplz.com/2026/12/death-recap-explained-10-rules-of.html",
+    "https://www.nerfplz.com/2026/10/most-fun-champions-to-play-in-lol-two.html",
+    "https://www.global-esports.news/call-of-duty/runescape-4-is-coming-first-teaser-for-the-sequel-to-the-cult-mmo-series/",
+    "https://www.hotspawn.com/valorant/news/valorant-champions-shanghai-americas-playoffs"
   ],
   "title_hashes": [
-    "163263552e8af8d72b9d40b7a7c1790d",
-    "5a5c7fd1cd06b605e82522402e30ef64",
-    "3954e0a36315806dc4a2662b23c299c2",
-    "a2501161eac414f956e5b203ad07c44c",
-    "a371a99a8c04459abc1b3d7989c03594",
-    "27a0a8edf54a15c315385581d66aa6a0",
     "f3e2207d9e9bda844146c95c667ee78e",
     "27a0a8edf54a15c315385581d66aa6a0",
     "f2779e9403ac954aed112508eda2fbaf",
@@ -16001,7 +15995,13 @@
     "f4fbaafdbeda9cb37e1a056fb3d71ff2",
     "15c8838c66321ca94fe00b356b40b333",
     "38b1176c61311abe7886bcf9c0842769",
-    "705c3a5c2ced0261f4974098bed62cb6"
+    "705c3a5c2ced0261f4974098bed62cb6",
+    "220313fdef099f4d9468bcc6791bbc65",
+    "612d4be3c750e11f310832ea6ffb6eaa",
+    "00012310a5938c507a787de3a43954fa",
+    "061092fe91ac6d8997e41c55c34ac875",
+    "2819ce1e752867ad95bcc32598e003e2",
+    "878f0223875e34a2641cec5feea96613"
   ],
   "transfers": {
     "pages": {
@@ -20828,6 +20828,26 @@
     {
       "t": "6 actors ahead arc arriving bringing capture celeste detail embark frozen full into its more motion new october performances plans raiders showcase starting trail trailer unveils upcoming will",
       "ts": 1791133063.9406786
+    },
+    {
+      "t": "defeat eliminates fut last matchups playoff playoffs plus shanghai spot steal t1 take",
+      "ts": 1791133068.9697354
+    },
+    {
+      "t": "champions draw eight enter left lives playoff revealed shanghai teams two",
+      "ts": 1791133072.4818127
+    },
+    {
+      "t": "1 after can champions even every fun grin has here lol losing month more most one page pick picks play practice queue role some still streak ten them this two worth you",
+      "ts": 1791133076.032762
+    },
+    {
+      "t": "2001 2026 4 announced base built coming continue cult fan finally first global has jagex mmo october post runescape sequel series since teaser video which will",
+      "ts": 1791133079.5216172
+    },
+    {
+      "t": "0 100 2 4 advance all americas champions completed esports four global has into its joining loud nrg october over playoffs put representatives set shanghai teams thieves valorant vct win",
+      "ts": 1791133083.0883496
     }
   ]
 }
