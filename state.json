@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2020/07/02/business-of-esports-live-after-show-006/",
-    "https://thebusinessofesports.com/2020/07/02/episode-86-esports-betting-tencent-vs-twitch-skillz-lawsuit/",
-    "https://thebusinessofesports.com/2020/07/01/business-of-esports-minute-004/",
-    "https://thebusinessofesports.com/2020/06/29/business-of-esports-daily-news-305/",
-    "https://thebusinessofesports.com/2020/06/28/the-streaming-war-is-over/",
-    "https://thebusinessofesports.com/2020/06/25/episode-85-microsoft-murders-mixer-facebook-afterlife-chess-esports/",
-    "https://thebusinessofesports.com/2020/06/23/business-of-esports-minute-003/",
-    "https://thebusinessofesports.com/2020/06/20/business-of-esports-daily-news-304/",
     "https://thebusinessofesports.com/2020/06/18/episode-84-complexity-gaming-prescription-games-apple-loot-boxes-fortnite-overflow/",
     "https://thebusinessofesports.com/2020/06/15/business-of-esports-minute-002/",
     "https://thebusinessofesports.com/2020/06/14/business-of-esports-daily-news-303/",
@@ -7999,17 +7991,17 @@
     "https://esportsinsider.com/2026/10/valorant-hardware-ban-used-cpu",
     "https://esportsinsider.com/2026/10/valorant-champions-shanghai-playoffs",
     "https://gameriv.com/valorant-galleria-2-0-skin-bundle/",
-    "https://gameriv.com/apex-legends-ranked-is-reportedly-getting-a-legend-ban-system-how-voting-and-ban-protection-could-work/"
+    "https://gameriv.com/apex-legends-ranked-is-reportedly-getting-a-legend-ban-system-how-voting-and-ban-protection-could-work/",
+    "https://gameriv.com/aion-2-global-release-times-best-servers-and-beginner-guide/",
+    "https://gameriv.com/apex-legends-switch-to-javelin-under-scrutiny-after-fresh-cheating-reports/",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42ems0UWtpOXVHMHVFdGZaeTV5SmJDUHdJSDZ1SkZVTWZUN2I0VlZ1N3A0aTF3WTEtZDBNd2U4TnFxMG40eXluMnpFU0VTMXluMnhV?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-guide",
+    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-fan-fest",
+    "https://www.hotspawn.com/fortnite/news/fortnite-street-fighter-movie-skins",
+    "https://www.hotspawn.com/valorant/news/francis-interview-valorant-champions-shanghai",
+    "https://www.hotspawn.com/league-of-legends/news/furia-tatu-wants-t1-at-worlds"
   ],
   "title_hashes": [
-    "c9571866782e6408e0acde596f4a1907",
-    "89d09bc667fdbfe2e4186416c9b1d446",
-    "90935de09a0e574d2680f981e3ed1c95",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "1dc78db9c6c0a668720120cb2c7c1f7f",
-    "86742627b14865e3e45984b99c22ad66",
-    "aa2e1f86f70c7967e77e0899190e8b85",
-    "2f05c7454411e7844be3f1a8fcb53461",
     "3173889dff8cbc7f9bb94cc331e2b24f",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "59a94df7b4244a1addfe02857aa800b8",
@@ -16001,7 +15993,15 @@
     "5402a2b24089e4900ae787165ec8bcd1",
     "a728341fcca2adaca1e11742a8baf5f4",
     "a7765e9f2fc70917368606afb5b58e7c",
-    "32be30bb5e53eb59bc5c1df9f4720c50"
+    "32be30bb5e53eb59bc5c1df9f4720c50",
+    "c84f64954ff130ae0d7e491eca96d138",
+    "5aad1cce0da8edae61b87349241bdbd1",
+    "ca3ed2269f0e48c1ff91b418c07dcee6",
+    "0822bf1af0c022b3d60f411735c09ad7",
+    "c7fa3429060ec0d4fb410615dd68f2c3",
+    "36c46af2208caafbf9f938fa71ee4938",
+    "85d8e4d31d641d7d80aee02e37275f7a",
+    "acaf22271653e921e6df45c784da8f6f"
   ],
   "transfers": {
     "pages": {
@@ -20868,6 +20868,26 @@
     {
       "t": "31 apex around ban claims could face get getting how insider leak legend legends new osatou_apex planned player players protection ranked reportedly say season soon system they voting which work",
       "ts": 1791217101.1984842
+    },
+    {
+      "t": "after anticheat apex blatant cheating days describe entire facing fresh hacks high including introducing javelin just legends level matches ranked reports scrutiny speed switch under",
+      "ts": 1791217106.0320668
+    },
+    {
+      "t": "14 15 2026 everything guide heads history keep know most need november october one our plenty recent rosters stacked states team there things track united world worlds you",
+      "ts": 1791217109.456763
+    },
+    {
+      "t": "12 14 2026 36 bringing championship confirms damage day fan fest final games lower manhattan new november per pier place riot skin taking three tradition true weekend worlds yasuo york",
+      "ts": 1791217112.8127847
+    },
+    {
+      "t": "2 after against booked champions completing corp desire francis have hold karmine most motivates nongshim pacific place playoffs redforce reverse runners shanghai stage sweep their trophy valorant what win",
+      "ts": 1791217116.2859778
+    },
+    {
+      "t": "0 2026 3 after against also bracket cblol faker final following furia game god least loud lower msi off one representing sake securing setting swept t1 take tatu them ticket want wants will win worlds",
+      "ts": 1791217119.7760143
     }
   ]
 }
