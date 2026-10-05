@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2020/07/14/business-of-esports-daily-news-307/",
-    "https://thebusinessofesports.com/2020/07/13/business-of-esports-live-after-show-007-valorant-deathmatch-best-games-ever-bitkraft-confusion-athlane-marketplace/",
-    "https://thebusinessofesports.com/2020/07/09/episode-87-school-esports-70-games-microsoft-wb-games/",
-    "https://thebusinessofesports.com/2020/07/08/business-of-esports-minute-005-tencent-trovo-discord-guild-esports-david-beckham/",
-    "https://thebusinessofesports.com/2020/07/08/business-of-esports-daily-news-306/",
     "https://thebusinessofesports.com/2020/07/02/business-of-esports-live-after-show-006/",
     "https://thebusinessofesports.com/2020/07/02/episode-86-esports-betting-tencent-vs-twitch-skillz-lawsuit/",
     "https://thebusinessofesports.com/2020/07/01/business-of-esports-minute-004/",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/45641/short-news-week-40",
     "https://www.hltv.org/news/45642/community-reacts-sashi-look-to-enter-asian-vrs-as-major-race-tightens",
     "https://www.hltv.org/news/45640/hunter-we-cannot-change-everything-to-make-r1nkle-comfortable-but-we-are-trying-to-implement-his-things",
-    "https://www.hltv.org/news/45639/sashi-target-asian-vrs-with-australian-duo"
+    "https://www.hltv.org/news/45639/sashi-target-asian-vrs-with-australian-duo",
+    "https://www.hltv.org/news/45638/the-mongolz-sign-nin9-and-bring-back-cobrazera",
+    "https://esportsinsider.com/2026/10/valorant-hardware-ban-used-cpu",
+    "https://esportsinsider.com/2026/10/valorant-champions-shanghai-playoffs",
+    "https://gameriv.com/valorant-galleria-2-0-skin-bundle/",
+    "https://gameriv.com/apex-legends-ranked-is-reportedly-getting-a-legend-ban-system-how-voting-and-ban-protection-could-work/"
   ],
   "title_hashes": [
-    "42c0c630e18386edb6973195ec42495c",
-    "df876083b65d9025c78aef77606ec5f1",
-    "55281d9691c37880799101265e81c660",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "f6be3cfd660add80b2599b5f0911524c",
     "c9571866782e6408e0acde596f4a1907",
     "89d09bc667fdbfe2e4186416c9b1d446",
     "90935de09a0e574d2680f981e3ed1c95",
@@ -16001,7 +15996,12 @@
     "6cf5bfb38c39c2348a4f3552e735d623",
     "24b91d427a5f28646cb1a018a0c14a44",
     "5b9607ea1e478799350eb5d792a9b2f9",
-    "43de50ca83694a9939f42a96bf2aa362"
+    "43de50ca83694a9939f42a96bf2aa362",
+    "06947f5b32a985c0d2b9ade9a066f06f",
+    "5402a2b24089e4900ae787165ec8bcd1",
+    "a728341fcca2adaca1e11742a8baf5f4",
+    "a7765e9f2fc70917368606afb5b58e7c",
+    "32be30bb5e53eb59bc5c1df9f4720c50"
   ],
   "transfers": {
     "pages": {
@@ -20848,6 +20848,26 @@
     {
       "t": "asian australian boost chances danish duo has its looks made major move organization qualification sashi shock target vrs",
       "ts": 1791217082.1139605
+    },
+    {
+      "t": "28 back beginning bring career cobrazera his mongolz nin9 old played rejoins sign team year",
+      "ts": 1791217087.4624248
+    },
+    {
+      "t": "ban bans buyers cpu facing hardware highlights involving over player post questions raises report reported risks ryzen secondhand uncertainty used valorant",
+      "ts": 1791217090.877821
+    },
+    {
+      "t": "0 2 champions completed decisive earns eight esports field finish first fut global loud matches over playoff playoffs post shanghai shape t1 take top valorant wins",
+      "ts": 1791217094.287011
+    },
+    {
+      "t": "0 2 another artwork bright bundle collection colorful date each features first five galleria getting ice its look own pink price release reported round skin skins valorant vandal weapon weapons",
+      "ts": 1791217097.7732096
+    },
+    {
+      "t": "31 apex around ban claims could face get getting how insider leak legend legends new osatou_apex planned player players protection ranked reportedly say season soon system they voting which work",
+      "ts": 1791217101.1984842
     }
   ]
 }
