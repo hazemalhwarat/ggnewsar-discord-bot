@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2020/07/27/business-of-esports-live-after-show-009-herman-miller-x-logitech-twitch-radio-esports-vc/",
-    "https://thebusinessofesports.com/2020/07/24/episode-89-athlane-twitch-logic-owl-franchise-fail-caffeine-boost-faze-frat/",
-    "https://thebusinessofesports.com/2020/07/22/business-of-esports-minute-007-sony-epic-vaynergaming-overactive-esports-arena/",
-    "https://thebusinessofesports.com/2020/07/21/business-of-esports-daily-news-308/",
-    "https://thebusinessofesports.com/2020/07/18/business-of-esports-live-after-show-008-vaynergaming-stadium-stupidity-celebrity-gamers/",
-    "https://thebusinessofesports.com/2020/07/16/episode-88-tempo-storm-ccgs-interactive-entertainment-sims-reality-tv-sony-buys-epic/",
-    "https://thebusinessofesports.com/2020/07/14/business-of-esports-minute-006-game-price-increase-ninja-returns-stimulus-check-spending/",
     "https://thebusinessofesports.com/2020/07/14/business-of-esports-daily-news-307/",
     "https://thebusinessofesports.com/2020/07/13/business-of-esports-live-after-show-007-valorant-deathmatch-best-games-ever-bitkraft-confusion-athlane-marketplace/",
     "https://thebusinessofesports.com/2020/07/09/episode-87-school-esports-70-games-microsoft-wb-games/",
@@ -7999,15 +7992,16 @@
     "https://insider-gaming.com/nyt-strands-946-hints-answers-october-5/",
     "https://insider-gaming.com/supermassive-games-layoffs-arrive-with-over-70-people-let-go/",
     "https://insider-gaming.com/ninja-theory-xbox-layoffs-begin-as-hellblade-studio-faces-closure/",
-    "https://insider-gaming.com/sashi-esport-vrs-asia-region-swap/"
+    "https://insider-gaming.com/sashi-esport-vrs-asia-region-swap/",
+    "https://insider-gaming.com/valorant-champions-2026-playoffs-set-after-americas-and-pacific-dominate/",
+    "https://insider-gaming.com/marvels-project-comet-first-gameplay-trailer-allegedly-leaks/",
+    "https://insider-gaming.com/contexto-hints-answer-for-october-5-2026/",
+    "https://www.hltv.org/news/45641/short-news-week-40",
+    "https://www.hltv.org/news/45642/community-reacts-sashi-look-to-enter-asian-vrs-as-major-race-tightens",
+    "https://www.hltv.org/news/45640/hunter-we-cannot-change-everything-to-make-r1nkle-comfortable-but-we-are-trying-to-implement-his-things",
+    "https://www.hltv.org/news/45639/sashi-target-asian-vrs-with-australian-duo"
   ],
   "title_hashes": [
-    "75f04b29ac42cc4fb1f05a0f44d9b4f6",
-    "6d33a8124a69cc6c7a21524bf714a2fd",
-    "fce19475cd30cb5bef23a8a5705bfaca",
-    "1216c2836e1655d00fe013f9b484facd",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "2d51acb5ac5b756b739e152a9e294df8",
     "42c0c630e18386edb6973195ec42495c",
     "df876083b65d9025c78aef77606ec5f1",
     "55281d9691c37880799101265e81c660",
@@ -16001,7 +15995,13 @@
     "c29446a6f5adee811ef1b988ea148417",
     "040047dd62a072621cdce646573cfa68",
     "ee8845b7522b55846244f75da0bc0282",
-    "83224d7e0e5a83f1e14914bac859e5dd"
+    "83224d7e0e5a83f1e14914bac859e5dd",
+    "5103dd6f8832a57e1cb9e85dac5222e0",
+    "684a6c34ed310562f911ad925935f6a4",
+    "6cf5bfb38c39c2348a4f3552e735d623",
+    "24b91d427a5f28646cb1a018a0c14a44",
+    "5b9607ea1e478799350eb5d792a9b2f9",
+    "43de50ca83694a9939f42a96bf2aa362"
   ],
   "transfers": {
     "pages": {
@@ -20828,6 +20828,26 @@
     {
       "t": "active adding attempt australian community counter criticism drawn draws esport has ire its major pgl players post qualify region roster sashi singapore strike swap two",
       "ts": 1791217063.2946353
+    },
+    {
+      "t": "2026 after americas champions dominant dominate four gro groups has its pacific playoffs post reached regions set showing stage two valorant",
+      "ts": 1791217068.4655669
+    },
+    {
+      "t": "2026 5 amp answer appeared contexto first full gaming get guess hints insider october post stuck today trying you",
+      "ts": 1791217071.8192472
+    },
+    {
+      "t": "after asian community controversial criticism danish decision drawn enter has look major many organization quarters race reacts sashi tightens vrs",
+      "ts": 1791217075.2658367
+    },
+    {
+      "t": "best better but cannot change comfortable everything g2 his hunter implement make playing r1nkle says show skipper team things trying when will",
+      "ts": 1791217078.7018688
+    },
+    {
+      "t": "asian australian boost chances danish duo has its looks made major move organization qualification sashi shock target vrs",
+      "ts": 1791217082.1139605
     }
   ]
 }
