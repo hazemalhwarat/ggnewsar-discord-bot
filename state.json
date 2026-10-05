@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2020/06/18/episode-84-complexity-gaming-prescription-games-apple-loot-boxes-fortnite-overflow/",
-    "https://thebusinessofesports.com/2020/06/15/business-of-esports-minute-002/",
-    "https://thebusinessofesports.com/2020/06/14/business-of-esports-daily-news-303/",
-    "https://thebusinessofesports.com/2020/06/12/episode-83-twitch-takedowns-sega-foggy-valorant-viewership-esports-venture-capital/",
-    "https://thebusinessofesports.com/2020/06/08/business-of-esports-minute-001/",
     "https://thebusinessofesports.com/2020/06/05/business-of-esports-daily-news-302/",
     "https://thebusinessofesports.com/2020/06/04/episode-82-fantasy-esports-valorant-trouble-toxic-communities/",
     "https://thebusinessofesports.com/2020/05/29/business-of-esports-daily-news-301/",
@@ -7999,14 +7994,14 @@
     "https://www.hotspawn.com/league-of-legends/news/worlds-2026-fan-fest",
     "https://www.hotspawn.com/fortnite/news/fortnite-street-fighter-movie-skins",
     "https://www.hotspawn.com/valorant/news/francis-interview-valorant-champions-shanghai",
-    "https://www.hotspawn.com/league-of-legends/news/furia-tatu-wants-t1-at-worlds"
+    "https://www.hotspawn.com/league-of-legends/news/furia-tatu-wants-t1-at-worlds",
+    "https://www.hotspawn.com/league-of-legends/news/c9-yamatocannon-lcs-summer",
+    "https://www.nerfplz.com/2026/12/trinkets-explained-10-rules-of-free-slot.html",
+    "https://www.nerfplz.com/2026/10/formerly-op-17-old-yorick.html",
+    "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
+    "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie"
   ],
   "title_hashes": [
-    "3173889dff8cbc7f9bb94cc331e2b24f",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "59a94df7b4244a1addfe02857aa800b8",
-    "6b3e7c9ae9629f1c15d2fdfe5e35e0d4",
-    "0401a15bd27067c97f5a8c1431f08607",
     "15387b7ad4a8d5ab0a3e50ebef17a345",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "57d066ee93b2758d35ec27c7f3e4b7ee",
@@ -16001,7 +15996,12 @@
     "c7fa3429060ec0d4fb410615dd68f2c3",
     "36c46af2208caafbf9f938fa71ee4938",
     "85d8e4d31d641d7d80aee02e37275f7a",
-    "acaf22271653e921e6df45c784da8f6f"
+    "acaf22271653e921e6df45c784da8f6f",
+    "f0affb045366ce3587036f120b75b9f3",
+    "cb480173c3ccccf0e67cfd287ed54a22",
+    "b9d96b25fcd2b29148de2d60c8fa6a16",
+    "e104d4650eac423df471bc929cddc02e",
+    "38b496f3e316aa22d3df519da1dae1a5"
   ],
   "transfers": {
     "pages": {
@@ -20888,6 +20888,26 @@
     {
       "t": "0 2026 3 after against also bracket cblol faker final following furia game god least loud lower msi off one representing sake securing setting swept t1 take tatu them ticket want wants will win worlds",
       "ts": 1791217119.7760143
+    },
+    {
+      "t": "2026 8220 8221 amazing any assistant been besides c9 christian cloud9 coach dom don doubts had has initially iwdominate jakob kia lcs mebdi other person problems rivera split summer team there think when would yamatocannon",
+      "ts": 1791217124.8194547
+    },
+    {
+      "t": "9 cooldown cooldowns don free guide hands item league legends level lol new old one opens rest slot swapping swaps they trinket trinkets upgrade use your",
+      "ts": 1791217128.4247491
+    },
+    {
+      "t": "1 17 6 buried couldn didn five formerly get got killed lane league leave mid old one outlasted season seasons then top worst yorick you",
+      "ts": 1791217131.8425698
+    },
+    {
+      "t": "5 base called entertainment first games ghost has implement interactive introduced introduces marvel more new playstation ps5 qssr quick read resolution sony spectral super tech technology upscaling wolverine yōtei",
+      "ts": 1791217135.2427273
+    },
+    {
+      "t": "2025 aaa brock bros decided developer developers fate feldman first fischer found games going indie job justin less masters more multiversus our out own player read risky shutter studio suddenly their themselves warner when",
+      "ts": 1791217138.9498377
     }
   ]
 }
