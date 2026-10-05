@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2020/05/20/business-of-esports-daily-news-300/",
-    "https://thebusinessofesports.com/2020/05/18/business-of-esports-daily-news-299/",
-    "https://thebusinessofesports.com/2020/05/14/episode-79-cloud9-x-gen-g-flashpoint-impact-valorant-vs-csgo-valve-vs-riot/",
-    "https://thebusinessofesports.com/2020/05/11/business-of-esports-daily-news-298/",
-    "https://thebusinessofesports.com/2020/05/09/episode-78-oxygen-esports-stay-at-home-slam-espn-loses-microsoft-wins-useless-summer-game-fest/",
     "https://thebusinessofesports.com/2020/05/05/business-of-esports-daily-news-297/",
     "https://thebusinessofesports.com/2020/05/01/episode-77-overwatch-embarrassment-twitch-directory-fortnite-evolved-esports-rankings/",
     "https://thebusinessofesports.com/2020/04/27/business-of-esports-daily-news-296/",
@@ -7999,14 +7994,14 @@
     "https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now",
     "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
     "https://europeangaming.eu/portal/press-releases/2026/10/05/215383/betsson-rebrands-betfirst-belgium/",
-    "https://europeangaming.eu/portal/latest-news/2026/10/05/215360/ukgc-allwyn-national-lottery-player-protection/"
+    "https://europeangaming.eu/portal/latest-news/2026/10/05/215360/ukgc-allwyn-national-lottery-player-protection/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/05/215354/tom-horn-gaming-thor-candy-storm-3000-slot/",
+    "https://europeangaming.eu/portal/latest-news/2026/10/05/215344/brazil-betting-ban-senate-consultation-flavio-bolsonaro/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/05/215335/games-global-october-2026-releases/",
+    "https://europeangaming.eu/portal/latest-news/2026/10/05/215308/gambling-stocks-weekly-28-september-to-2-october/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/top-10-highest-earning-bgmi-players-in-india/"
   ],
   "title_hashes": [
-    "d8a343f3ab391ff0ef05625668426416",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "a47ab3436d75842926a8ad819f1a6254",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "62c51bb0e398cfb68b8069831cd3a673",
     "d989c41d67cb5cd1f0394ff66cfa76f0",
     "73bbfe823bbef386f70d3d498374d122",
     "fcd31fc845af219499c6e7871b1d969f",
@@ -16001,7 +15996,12 @@
     "79bc9b8c07562a4ae1400b52acc850e7",
     "ef6566e7f812ca814012044d677ec1f9",
     "605ee6dd436ee935749e5e72f4744769",
-    "4ebf640f49445c61db975e75bb573e3e"
+    "4ebf640f49445c61db975e75bb573e3e",
+    "fb032b37fb1abf67743f816cab359fc9",
+    "b138a5e1fc15cdf7cf8bd17df341d359",
+    "945a6b39bd7147379dc16d1cfbb3463c",
+    "efddc541aa3baef2115128a628fa5c7f",
+    "fb7ea25a132f87b4351c323c9fe9da39"
   ],
   "transfers": {
     "pages": {
@@ -20928,6 +20928,26 @@
     {
       "t": "8217 8230 acting allwyn brings chief conference executive gardner high higher lottery national operator participant post protection sarah second standards status that told",
       "ts": 1791217157.6395578
+    },
+    {
+      "t": "000x 3 3000 5 6 8230 access appea asgard bonus buy candy free gaming horn launches multipliers pairs pays post scatter setting storm super themed thor title tom",
+      "ts": 1791217162.7225237
+    },
+    {
+      "t": "000 480 8230 appeared back ban betting bolsonaro brazil but casinos consultation faces first flávio keep lula more online post runoff says senate sports than who would",
+      "ts": 1791217166.1072729
+    },
+    {
+      "t": "20 8230 anchor around built calendar cash collect content four franchise games global halloween iterations led mechanics more new october post releases schedules seasonal sequels studios than",
+      "ts": 1791217169.567915
+    },
+    {
+      "t": "2 28 8217 8230 all analysis ban betting brazil dropped european fell figure flutter gambling market most nine october post put september sportradar stocks trends weekly",
+      "ts": 1791217172.9870193
+    },
+    {
+      "t": "10 amounts become bgmi biggest crores earned earning esports has have highest huge india indian offering one over players pools prize rupees several through titles top tournaments worth years",
+      "ts": 1791217176.3897834
     }
   ]
 }
