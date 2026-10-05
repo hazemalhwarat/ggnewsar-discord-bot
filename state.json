@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2020/08/04/business-of-esports-daily-news-310/",
-    "https://thebusinessofesports.com/2020/08/01/business-of-esports-live-after-show-010-vindex-spending-nike-gaming-shoe-transformer-gaming-chair-verizon-x-faze-clan/",
-    "https://thebusinessofesports.com/2020/07/31/episode-90-roblox-rocketship-dreamhack-decline-nintendo-ip-lego/",
-    "https://thebusinessofesports.com/2020/07/29/business-of-esports-minute-008-caffeine-113m-raise-logic-twitch-exclusive-activision-blizzard-lifeline/",
-    "https://thebusinessofesports.com/2020/07/28/business-of-esports-daily-news-309/",
     "https://thebusinessofesports.com/2020/07/27/business-of-esports-live-after-show-009-herman-miller-x-logitech-twitch-radio-esports-vc/",
     "https://thebusinessofesports.com/2020/07/24/episode-89-athlane-twitch-logic-owl-franchise-fail-caffeine-boost-faze-frat/",
     "https://thebusinessofesports.com/2020/07/22/business-of-esports-minute-007-sony-epic-vaynergaming-overactive-esports-arena/",
@@ -7999,14 +7994,14 @@
     "https://thegamehaus.com/college-football/5-things-learned-from-college-football-week-5/2026/10/04/",
     "https://thegamehaus.com/college-football/college-football-playoff-bracketology-october-4/2026/10/04/",
     "https://insider-gaming.com/every-lol-worlds-2026-team-confirmed/",
-    "https://insider-gaming.com/modern-warfare-4s-dmz-is-another-big-swing-akin-to-warzone/"
+    "https://insider-gaming.com/modern-warfare-4s-dmz-is-another-big-swing-akin-to-warzone/",
+    "https://insider-gaming.com/witcher-3-remastered-performance-issues-being-addressed-by-devs/",
+    "https://insider-gaming.com/nyt-strands-946-hints-answers-october-5/",
+    "https://insider-gaming.com/supermassive-games-layoffs-arrive-with-over-70-people-let-go/",
+    "https://insider-gaming.com/ninja-theory-xbox-layoffs-begin-as-hellblade-studio-faces-closure/",
+    "https://insider-gaming.com/sashi-esport-vrs-asia-region-swap/"
   ],
   "title_hashes": [
-    "367bc434b45cb8ad79c853af99143560",
-    "03f2cf705ca7ca271ad005806166bda2",
-    "a0bf9b2b40b9a55c4d175edf18f58aa8",
-    "f6b1f1a8bc84024e9e00d9555589dcce",
-    "8e83830733f4bf775f77ce0e1dca82c0",
     "75f04b29ac42cc4fb1f05a0f44d9b4f6",
     "6d33a8124a69cc6c7a21524bf714a2fd",
     "fce19475cd30cb5bef23a8a5705bfaca",
@@ -16001,7 +15996,12 @@
     "90a1fc466ead4b566502d42c254312bf",
     "d2f9b40fab1739bf3ca90ab1c071aad4",
     "0514003378f6949b1ac9347bd640264c",
-    "bf66d8f2b5dc726867ef2f50accf48af"
+    "bf66d8f2b5dc726867ef2f50accf48af",
+    "96235d5032781b32c671bfde452b9a4d",
+    "c29446a6f5adee811ef1b988ea148417",
+    "040047dd62a072621cdce646573cfa68",
+    "ee8845b7522b55846244f75da0bc0282",
+    "83224d7e0e5a83f1e14914bac859e5dd"
   ],
   "transfers": {
     "pages": {
@@ -20808,6 +20808,26 @@
     {
       "t": "4 821 8216 8217 akin another been being big call compared dmz duty has infinity likes modern post swing taken ward warfare warzone",
       "ts": 1791217043.6855333
+    },
+    {
+      "t": "3 addressed appear being details devs getting has here improvements issues more performance post projekt red remastered revealed that witcher",
+      "ts": 1791217048.9634175
+    },
+    {
+      "t": "2026 5 946 answers clue complete game get helpful hints looking nyt october post solution spangram strands theme today words",
+      "ts": 1791217052.9010313
+    },
+    {
+      "t": "70 another arrive batch games gaming have hits industry jobs layoffs let lost more over people post seemingly supermassive than their",
+      "ts": 1791217056.2578385
+    },
+    {
+      "t": "appea begin begun closure details employees faces has have hellblade here layoffs more ninja post redundancies revealed several studio that theory xbox",
+      "ts": 1791217059.7845616
+    },
+    {
+      "t": "active adding attempt australian community counter criticism drawn draws esport has ire its major pgl players post qualify region roster sashi singapore strike swap two",
+      "ts": 1791217063.2946353
     }
   ]
 }
