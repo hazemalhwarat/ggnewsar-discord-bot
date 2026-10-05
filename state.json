@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2020/05/05/business-of-esports-daily-news-297/",
-    "https://thebusinessofesports.com/2020/05/01/episode-77-overwatch-embarrassment-twitch-directory-fortnite-evolved-esports-rankings/",
-    "https://thebusinessofesports.com/2020/04/27/business-of-esports-daily-news-296/",
-    "https://thebusinessofesports.com/2020/04/23/episode-76-nintendo-takeover-valorant-esports-unoriginal-game-devs-ubisoft-esports-movie/",
-    "https://thebusinessofesports.com/2020/04/17/business-of-esports-daily-news-295/",
     "https://thebusinessofesports.com/2020/04/16/episode-75-tsm-insight-sony-bilibili-valorant-train-venn-lost/",
     "https://thebusinessofesports.com/2020/04/09/episode-74-valorant-hype-espn-overwatch-facebook-tournaments-rage-quitting/",
     "https://thebusinessofesports.com/2020/04/08/business-of-esports-daily-news-294/",
@@ -7999,14 +7994,14 @@
     "https://europeangaming.eu/portal/latest-news/2026/10/05/215344/brazil-betting-ban-senate-consultation-flavio-bolsonaro/",
     "https://europeangaming.eu/portal/press-releases/2026/10/05/215335/games-global-october-2026-releases/",
     "https://europeangaming.eu/portal/latest-news/2026/10/05/215308/gambling-stocks-weekly-28-september-to-2-october/",
-    "https://www.talkesport.com/mobile-gaming/bgmi/top-10-highest-earning-bgmi-players-in-india/"
+    "https://www.talkesport.com/mobile-gaming/bgmi/top-10-highest-earning-bgmi-players-in-india/",
+    "https://www.talkesport.com/news/esports/pubg-mobile-4-7-update-to-release-in-november-2026-check-here/",
+    "https://www.talkesport.com/news/esports/ffmai-2026-fall-south-asia-play-ins-schedule-groups-teams-and-more/",
+    "https://www.talkesport.com/news/esports/garena-is-finally-challenging-krafton-in-indias-mobile-esports-race/",
+    "https://www.talkesport.com/news/esports/bmsd-2026-lower-bracket-day-2-standings-only-6-matches-left/",
+    "https://www.talkesport.com/news/valorant/valorant-champions-2026-playoffs/"
   ],
   "title_hashes": [
-    "d989c41d67cb5cd1f0394ff66cfa76f0",
-    "73bbfe823bbef386f70d3d498374d122",
-    "fcd31fc845af219499c6e7871b1d969f",
-    "199d0a26162091ef3a0ab7612e045a09",
-    "8e83830733f4bf775f77ce0e1dca82c0",
     "747cad9ed5a00868fb0a590b27142fa2",
     "17b27f6365cb04d5a2e6e9a6ac221853",
     "540687077807173a6b65cdec8ea2adaa",
@@ -16001,7 +15996,12 @@
     "b138a5e1fc15cdf7cf8bd17df341d359",
     "945a6b39bd7147379dc16d1cfbb3463c",
     "efddc541aa3baef2115128a628fa5c7f",
-    "fb7ea25a132f87b4351c323c9fe9da39"
+    "fb7ea25a132f87b4351c323c9fe9da39",
+    "57144de09187874df0ef0aba00e46740",
+    "66d78fb5439861e383b4e02e0307b0c6",
+    "58f64b31d628a31e44048e1af46a6fd7",
+    "b16812ca26ac672fa195a6df8863812c",
+    "c5e00dda90acabca6e8984577373cd84"
   ],
   "transfers": {
     "pages": {
@@ -20948,6 +20948,26 @@
     {
       "t": "10 amounts become bgmi biggest crores earned earning esports has have highest huge india indian offering one over players pools prize rupees several through titles top tournaments worth years",
       "ts": 1791217176.3897834
+    },
+    {
+      "t": "2026 4 7 8217 another arrive check could expected following game has here major mobile not november pattern players pubg receive regular release soon tencent update very",
+      "ts": 1791217181.3913121
+    },
+    {
+      "t": "16 18 2026 asia bangladesh begin compete fall ffmai fire free groups india ins invitational max more nepal october pakistan place play schedule set south teams total will",
+      "ts": 1791217184.883561
+    },
+    {
+      "t": "been bgmi big challenging clear crore esports events everything few finally garena has india indian international krafton lan last leader major mobile multi needs popul race slots tournaments years",
+      "ts": 1791217188.2319613
+    },
+    {
+      "t": "12 16 2 2026 6 all bmsd bracket completed concluded crucial day decide has have left lower matches now only point reached remaining six standings survival teams tournament which",
+      "ts": 1791217191.63034
+    },
+    {
+      "t": "16 2026 4 8 battles bracket came champions conclusion down exits field following group heartbreaking intense now october playoffs schedule some stage teams valorant watch where",
+      "ts": 1791217195.0319097
     }
   ]
 }
