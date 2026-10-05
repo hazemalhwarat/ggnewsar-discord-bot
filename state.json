@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2020/06/05/business-of-esports-daily-news-302/",
-    "https://thebusinessofesports.com/2020/06/04/episode-82-fantasy-esports-valorant-trouble-toxic-communities/",
-    "https://thebusinessofesports.com/2020/05/29/business-of-esports-daily-news-301/",
-    "https://thebusinessofesports.com/2020/05/29/episode-81-public-gaming-esports-company-insights/",
-    "https://thebusinessofesports.com/2020/05/21/episode-80-rainbow-six-rip-off-rocket-league-grievances-bad-business-loans-esports-betting/",
     "https://thebusinessofesports.com/2020/05/20/business-of-esports-daily-news-300/",
     "https://thebusinessofesports.com/2020/05/18/business-of-esports-daily-news-299/",
     "https://thebusinessofesports.com/2020/05/14/episode-79-cloud9-x-gen-g-flashpoint-impact-valorant-vs-csgo-valve-vs-riot/",
@@ -7999,14 +7994,14 @@
     "https://www.nerfplz.com/2026/12/trinkets-explained-10-rules-of-free-slot.html",
     "https://www.nerfplz.com/2026/10/formerly-op-17-old-yorick.html",
     "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
-    "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie"
+    "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie",
+    "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+    "https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now",
+    "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
+    "https://europeangaming.eu/portal/press-releases/2026/10/05/215383/betsson-rebrands-betfirst-belgium/",
+    "https://europeangaming.eu/portal/latest-news/2026/10/05/215360/ukgc-allwyn-national-lottery-player-protection/"
   ],
   "title_hashes": [
-    "15387b7ad4a8d5ab0a3e50ebef17a345",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "57d066ee93b2758d35ec27c7f3e4b7ee",
-    "8c0b5ef0741d343efdaa99981c050863",
-    "b837b96e52bcf96e478052ee80c1eec4",
     "d8a343f3ab391ff0ef05625668426416",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "a47ab3436d75842926a8ad819f1a6254",
@@ -16001,7 +15996,12 @@
     "cb480173c3ccccf0e67cfd287ed54a22",
     "b9d96b25fcd2b29148de2d60c8fa6a16",
     "e104d4650eac423df471bc929cddc02e",
-    "38b496f3e316aa22d3df519da1dae1a5"
+    "38b496f3e316aa22d3df519da1dae1a5",
+    "6c8277418529b936a7c046f4f728f4f9",
+    "79bc9b8c07562a4ae1400b52acc850e7",
+    "ef6566e7f812ca814012044d677ec1f9",
+    "605ee6dd436ee935749e5e72f4744769",
+    "4ebf640f49445c61db975e75bb573e3e"
   ],
   "transfers": {
     "pages": {
@@ -20908,6 +20908,26 @@
     {
       "t": "2025 aaa brock bros decided developer developers fate feldman first fischer found games going indie job justin less masters more multiversus our out own player read risky shutter studio suddenly their themselves warner when",
       "ts": 1791217138.9498377
+    },
+    {
+      "t": "2 3 creator dragon during external generative has jagex made more partner quest read responded responds runefest runescape shown slayer trailer trusted use",
+      "ts": 1791217143.980766
+    },
+    {
+      "t": "buyout cco company conversations dana dismissed dismisses disney epic games has having more not now ongoing president read right rumours saying those walden walt",
+      "ts": 1791217147.4422219
+    },
+    {
+      "t": "accelerate adapt aims announced capcom data debugging development efficiency engine enhance generation has into its more multi optimise performance phase processing project proprietary propriety read streamline",
+      "ts": 1791217150.8082454
+    },
+    {
+      "t": "120m 8217 8230 acquisition after belgian belgium betfirst betss betsson brand consolidates global group identity multi post presence rebrands single three transition under years",
+      "ts": 1791217154.2337584
+    },
+    {
+      "t": "8217 8230 acting allwyn brings chief conference executive gardner high higher lottery national operator participant post protection sarah second standards status that told",
+      "ts": 1791217157.6395578
     }
   ]
 }
