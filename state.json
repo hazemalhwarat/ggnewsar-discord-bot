@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26114/nexon-updates-kartrider-rush-with-season-41-galaxy",
-    "https://www.invenglobal.com/articles/26113/maplestory-unveils-new-epic-dungeon-and-personal-burning-event",
-    "https://www.invenglobal.com/articles/26111/artis-impact-korean-physical-edition-released-for-nintendo-switch",
-    "https://www.invenglobal.com/articles/26112/mintrocket-launches-dave-the-diver-mobile-globally",
-    "https://www.hltv.org/news/45539/wicadia-our-head-to-head-is-not-the-best-against-navi-so-were-really-relieved-and-happy",
     "https://www.hltv.org/news/45538/aurora-crush-lackluster-navi-in-starseries-opener",
     "https://www.hltv.org/news/45537/flamez-we-believe-we-can-get-back-to-our-best",
     "https://www.hltv.org/news/45477/short-news-week-36",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0V6WjRvWE90UkRLbjlKVUNyMHBtaVItZWRHZWg5UTVBZWowT25xbmFFUElWOUFTU0VrVUE1VU1ya3ZOVmRRaG9TOWlXR20wa3JRZTRyX3pxbFNpWUdBTzNnT1A3bnBEWTFaX0ZhQVI4amZuUUlxSGE0QnpRRnhSWjA0TFpHSGw0VjJkaEptV28?oc=5",
     "https://www.talkesport.com/guides/cs2-teams-switched-vrs-region-lis/",
     "https://www.talkesport.com/guides/vrs-region-swap-loophole-cs2-explained/",
-    "https://www.talkesport.com/news/cs2/vitality-vs-falcons-esl-pro-league-season-24/"
+    "https://www.talkesport.com/news/cs2/vitality-vs-falcons-esl-pro-league-season-24/",
+    "https://www.talkesport.com/news/cs2/sashi-asia-vrs-region-swap-tjp-hatz-singapore-major/",
+    "https://www.talkesport.com/streaming/mrbeast-youtube-views-record-million-grocery-store-challenge/",
+    "https://www.talkesport.com/news/cs2/valve-october-2026-cs2-vrs-rankings-singapore-major/",
+    "https://www.talkesport.com/news/an-openai-model-tried-to-cheat-at-starcraft/",
+    "https://www.talkesport.com/news/project-comet-marvel-game-leak/"
   ],
   "title_hashes": [
-    "752421ebccbeaaaee4d2e54874dab663",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "487b8146a5e51854c6b47de0749978b1",
-    "752421ebccbeaaaee4d2e54874dab663",
-    "8e83830733f4bf775f77ce0e1dca82c0",
     "e46cf0755edda78e8bf23fcc97a758f3",
     "752421ebccbeaaaee4d2e54874dab663",
     "8e83830733f4bf775f77ce0e1dca82c0",
@@ -16001,7 +15996,12 @@
     "a9843369e84249778fb81bf783c42012",
     "e3ce9a9b5e259339a8bd4b269eb80b3a",
     "2400eb0e1a1cdf21804d2b569b1758c1",
-    "77f22d9425169b2d60bad5f005bde58b"
+    "77f22d9425169b2d60bad5f005bde58b",
+    "793d669cb0eec44c8caa291c137cfd7b",
+    "e247a62d8040a40ff5e1b6894d368b8f",
+    "0b177d5d75c9dd3fa5bf9468523d43c1",
+    "292ccbda3d3f88a815d5bdd0a673a78f",
+    "8ed7e339d07723471166efa1cf5788bd"
   ],
   "transfers": {
     "pages": {
@@ -21060,6 +21060,26 @@
     {
       "t": "24 3rd 8217 after against apex back beat bracket came champions completing earned esl falcons have league losing major map opening playoffs pro reach reigning reverse season squad sweep swiss their vitality win",
       "ts": 1791240223.4657817
+    },
+    {
+      "t": "13 25 ahead asia australians benched can danes esport has hatz into invite major month move moves niko pgl sashi shot signed singapore team tjp twistzz two vrs",
+      "ts": 1791240228.627206
+    },
+    {
+      "t": "1 24 8217 after attempting become biggest breaks career challenge contestants eat four grocery has his hour latest launch million months mrbeast new own personal record setting spent store viewership youtube",
+      "ts": 1791240232.1114264
+    },
+    {
+      "t": "2 before competitive cs2 enters final important increasingly invitation less major month november october picture race ranking rankings regional releases remaining sets singapore tables tea than update valve vrs",
+      "ts": 1791240235.5477054
+    },
+    {
+      "t": "6 8217 after against astr astra beat bot bots cheat compete couldn difficult given gpt hour human humans its model models openai opponents other own program programs proved starcraft stronger tried when written",
+      "ts": 1791240238.9286768
+    },
+    {
+      "t": "action appeared behin bilibili characters chinese comet footage free full game gameplay has leaked leaks marvel online platform platforms play project rpg scopely studio that trailer unannounced",
+      "ts": 1791240242.5242717
     }
   ]
 }
