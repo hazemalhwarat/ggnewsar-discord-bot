@@ -1,19 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45538/aurora-crush-lackluster-navi-in-starseries-opener",
-    "https://www.hltv.org/news/45537/flamez-we-believe-we-can-get-back-to-our-best",
-    "https://www.hltv.org/news/45477/short-news-week-36",
-    "https://blog.counter-strike.net/2023/02/41124/",
-    "https://blog.counter-strike.net/2023/02/40989/",
-    "https://blog.counter-strike.net/2023/01/40918/",
-    "https://blog.counter-strike.net/2022/12/40758/",
-    "https://blog.counter-strike.net/2022/12/40614/",
-    "https://blog.counter-strike.net/2022/12/40648/",
-    "https://thegamehaus.com/college-football/5-things-to-watch-in-college-football-week-3/2026/09/13/",
-    "https://thegamehaus.com/college-football/college-football-playoff-bracketology-september-13/2026/09/13/",
-    "https://thegamehaus.com/nfl-draft/nfl-draft-prospects-to-watch-in-college-football-week-2-recap/2026/09/13/",
-    "https://thegamehaus.com/college-football/5-things-learned-from-college-football-week-2/2026/09/13/",
-    "https://insider-gaming.com/valorant-champions-2026-bundle-revealed-phantom-fan-knife/",
     "https://insider-gaming.com/alan-wakes-return-trademark/",
     "https://insider-gaming.com/gears-of-war-e-day-pc-system-requirements-revealed/",
     "https://insider-gaming.com/how-to-complete-ones-to-watch-savio-objective-in-ea-fc-27-ultimate-team/",
@@ -7999,21 +7985,23 @@
     "https://www.talkesport.com/streaming/mrbeast-youtube-views-record-million-grocery-store-challenge/",
     "https://www.talkesport.com/news/cs2/valve-october-2026-cs2-vrs-rankings-singapore-major/",
     "https://www.talkesport.com/news/an-openai-model-tried-to-cheat-at-starcraft/",
-    "https://www.talkesport.com/news/project-comet-marvel-game-leak/"
+    "https://www.talkesport.com/news/project-comet-marvel-game-leak/",
+    "https://www.talkesport.com/news/materia-sues-dj-cutman-undertale-gamechops-youtube/",
+    "https://www.talkesport.com/news/cs2/mouz-vs-spirit-esl-pro-league-season-24/",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaNTYtRWZlemcyTnBOOVctR3k4NzhncjM1RlRVVVVxNHl3VkJod2FrRzlhTURQMVFmN0J1d216XzB4cFFCbEV1R0IwRzMxanBIb3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sWnkwYVE0eUtHTHZwX1phbS04QjNkaHk4Q0dBUEM1OEJodUhBMnVYQUlaQ3A4dkZHLVJqVVRkd1pHVnRWSEdmRnZxaHM?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vWkJhaWtDWXBUZVJ0UVMydUV6N21INUxRTFJueDhmT3NfRFhqejJvRnloc3B3XzdkMlNGZFZ2czg4d3lMVTVjbldWOWJ5THJHMlBTUm1nNVY2Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SRzZGQk84T2V2UHV3Y3g1eFVlcGVUNDJQQjFVNzJWdG16R1RtaFdQVHhpbTRkbjFDaG93Q0ZpZ1N6eDF6Rmw4YTFELTI5amM3bnc?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE90Zk42SHpJZDF3M291UGRDVy1HLWxBdzQtMHo2NU5jdHdUSm95TTJyTWlWYlZ6YjAyM3hma1ZCTnJNU0pTLXlNc2htZVM0M3JEOUtKNjVQMTdkbDViMGhjZmViZXZvb0EtTEIzZ2FjVUFsUG94WFlR?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TUEFmckxYaEpVT1ZoY3E3SEItdklsVEQweTltNDIzbjE5aFpqQi14Y01hTTRXV2YwYWJSek9aV3gwSlpYdWwwR2ExbVVubDRnMnc3UDZpVENyLUVIRDZXTThRMGI3VS1SRTY4?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE01d1VIbzJHdmNJdG9ZQ1JITE9zTllYTWFVcnh4NVBRaWJnV0FjMXo1NGtmenE2TE01OWlIZFhFNTJ4VVNadFo2NlRPc1VvNDFvSWNqcU5GemlsUkNnWVlwTWVyaU8wSmJOYnc?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFowbFdNcFlwazgzcnFUT3hCQ2Q3ZVpPUUNsdG55ZHBDVXZaMU5BdnM4T0VRVkJYclFib1htVU05cjlGOXJMYjQ5LXVrQWdFSTZGQjYtRUhUbTZOZnF2QU8zY3RlSVhONWdDWkVRamhpQ3NyZXpmMmFZQWdqVjk5MnZQYW9UcC15V1VCUHFRM25HY2x0YVdvVzBiR1RjQ3F3WS1ENVgzVGVNbk1MVk9lLWtLanVSQVVsV29oNGhscw?oc=5",
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IaW5TdGduY3lJYzJrR1haWlR6MEN4ZDlFdi1qbDk4V3lqMVBaaUxWSXUtNWRLc3hhS1RqaXFHaXF2Z2FvUkNWV3lEUjZvd3pV?oc=5",
+    "https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations",
+    "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
+    "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo"
   ],
   "title_hashes": [
-    "e46cf0755edda78e8bf23fcc97a758f3",
-    "752421ebccbeaaaee4d2e54874dab663",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "61f702709ceeac0a4fd97f8fc9586dfa",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "2b9b5c753e4ec507211c5fefaa21fb88",
-    "74bd23a2f8767c335d1044c180059c5d",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "abd6e4c60458407625b6c4916f8eec11",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "eecc748984ce96562c9b94af939373f5",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "4667eaa75a922e7b83f211117d117643",
     "8e83830733f4bf775f77ce0e1dca82c0",
@@ -16001,7 +15989,19 @@
     "e247a62d8040a40ff5e1b6894d368b8f",
     "0b177d5d75c9dd3fa5bf9468523d43c1",
     "292ccbda3d3f88a815d5bdd0a673a78f",
-    "8ed7e339d07723471166efa1cf5788bd"
+    "8ed7e339d07723471166efa1cf5788bd",
+    "60ed8b541e2b25f1e30a90fa788c7032",
+    "292159ccdc924d6e7e62c0455add0279",
+    "bd9651c2711a55502813f35467ad4c4e",
+    "4e517cc30dad89eb8c2485ed167374ba",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "2a7613fe0322e7f32033616015bccd21",
+    "ca18ddc9da75acc276168e924071ddb2",
+    "240eab61cfad1b3d934fad43d2a2e803",
+    "e442d774c171ef5187fc768b010a9747",
+    "368b5a067e1d3cea104d8f6e821aa590",
+    "2bc2a3d91f76a5f6c24a827e3311504b",
+    "927f4e1d2c9458808500566e37d6675f"
   ],
   "transfers": {
     "pages": {
@@ -21080,6 +21080,26 @@
     {
       "t": "action appeared behin bilibili characters chinese comet footage free full game gameplay has leaked leaks marvel online platform platforms play project rpg scopely studio that trailer unannounced",
       "ts": 1791240242.5242717
+    },
+    {
+      "t": "150 28 acknowledg administered alleges alleging authorization christopher complaint cutman davidson exclusive materia music nearly over personally september sued sues undertale used using videos without youtube",
+      "ts": 1791240247.639731
+    },
+    {
+      "t": "0 2 24 beat beating esl finals game going league managed match mouz own playoffs pro pug reach scoreline season semi setting spirit style their veto",
+      "ts": 1791240252.333564
+    },
+    {
+      "t": "adaptations adapted arc being both embark film finals getting more raiders read series studios",
+      "ts": 1791240255.7687755
+    },
+    {
+      "t": "according begins begun employee employees has laying more ninja off posts read staff theory",
+      "ts": 1791240259.2154393
+    },
+    {
+      "t": "according assumptions broadly challenges drive dying f2p flat focus free gacha growth newzoo not play playtime report rpgs says special that",
+      "ts": 1791240262.6439433
     }
   ]
 }
