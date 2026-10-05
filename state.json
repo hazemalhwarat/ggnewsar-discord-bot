@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2019/12/10/business-of-esports-daily-news-275/",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0plU2E5MGw0elh5aWo0ZFFNSmhfNlBRY01YUnQ1cUpiYWx5b3pCY1RXRlpCX3hOVVd0ZEFEWGt1Nm9pc1BEQUpkXzVES1ltX2VPTzctRVNfVXdnT1hYbGtWMGl3YmoyNnJVWE5uNl91SGVlZ21zSGRia3lDWlFqX1FTdGZGMXl3dFZOZGxQRFRWTFJNd3NDUWl1elQ4cTBiaVpqZ0tXRmhyRkNI?oc=5",
-    "https://www.invenglobal.com/articles/26160/the-longest-tgs-ever-first-day-floor-coverage-of-tokyo-game-show-2026",
-    "https://www.invenglobal.com/articles/26159/whats-next-for-007-first-light-switch-2-and-new-stories",
-    "https://www.invenglobal.com/articles/26158/adding-a-roguelike-twist-to-zodiac-lore-13z-the-zodiac-trials",
-    "https://www.invenglobal.com/articles/26157/putting-on-an-air-show-mid-fight-hands-on-with-araketa-95",
     "https://www.invenglobal.com/articles/26156/astrae-oratio-booth-captures-antique-retro-and-shindenki-vibes",
     "https://www.invenglobal.com/articles/26130/goddess-of-victory-nikke-adds-two-new-bunny-girls",
     "https://www.invenglobal.com/articles/26128/smilegate-to-demo-miresi-and-dead-account-at-tgs-2026",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26814/did-google-play-fees-drive-up-in-game-item-prices-uk-tribunal-begins-full-trial",
     "https://www.invenglobal.com/articles/26813/embark-to-align-arc-raiders-character-appearances-with-real-actors-starting-with-celeste",
     "https://www.hltv.org/news/45649/navi-to-play-falcons-on-epl-s24-day-three",
-    "https://www.hltv.org/news/45647/vitality-reverse-sweep-falcons-to-make-playoffs"
+    "https://www.hltv.org/news/45647/vitality-reverse-sweep-falcons-to-make-playoffs",
+    "https://www.hltv.org/news/45646/valve-release-october-vrs-update",
+    "https://www.hltv.org/news/45643/torzsi-starseries-was-a-nice-slap-in-the-face",
+    "https://www.hltv.org/news/45645/m80-send-tyloo-home-from-epl-s24",
+    "https://www.hltv.org/news/45644/mouz-hand-spirit-first-swiss-group-stage-loss-in-668-days-to-make-epl-playoffs",
+    "https://gameriv.com/lol-patch-26-21-brings-new-aram-mayhem-augments-get-jinxed-totentanz-and-more/",
+    "https://insider-gaming.com/exclusive-fallout-world-designer-we-love-insane/"
   ],
   "title_hashes": [
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "a56709b5e1a9415c1c65191dca0aabd3",
-    "969cf8cf34640745c0a9ce800fa61717",
-    "637e1523e73b9614ac5364317579d10a",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "8948737c2763c7387ffa907de7ec2594",
     "853e2f7cfba78d4853bf9d9b0ff82582",
     "2c2e718e6029f485ed1ee3aac6d6c6ae",
     "8e83830733f4bf775f77ce0e1dca82c0",
@@ -16001,7 +15995,13 @@
     "e1124f89b8514be8bd8d23fa8fd4a53d",
     "ef880a3f6e4105c4df253131bf65cc57",
     "24213c6561d5b7f1b16d593bf8f26037",
-    "102fc036b394c2a6052b8bbeddde7dd4"
+    "102fc036b394c2a6052b8bbeddde7dd4",
+    "0ba9d44c5c285eeb4040a8ea8f1e89bf",
+    "0f625317d28e918db9cb1cbf7deb749c",
+    "7de8b8467b066c41aa448c5c7bbc6b3a",
+    "ee5ef40b9854e77ebfad949b5903294b",
+    "b185faec3012109ec1269496ee4251bf",
+    "488e3a7b43781b39f9d17df03b2d498e"
   ],
   "transfers": {
     "pages": {
@@ -21000,6 +21000,26 @@
     {
       "t": "apex cologne falcons finals first got major make men over playoffs quarter recording revenge reverse sweep their vitality win year",
       "ts": 1791240165.7452142
+    },
+    {
+      "t": "determine invites october ranking release tier two update valve vrs will",
+      "ts": 1791240170.9735339
+    },
+    {
+      "t": "back beat face form league mouz nice pro season second slap spirit starseries they this time torzsi",
+      "ts": 1791240174.7127182
+    },
+    {
+      "t": "alive anubis dominant epl home katowice keeps m80 performance s1n s24 send troops tyloo",
+      "ts": 1791240178.2007651
+    },
+    {
+      "t": "32 668 come days end epl first group groups hand has loss make mouz playoffs run spirit stage straight swiss wins",
+      "ts": 1791240181.7176843
+    },
+    {
+      "t": "8216 8217 about bethesda bring bruce chat designer everywhere exclusive fallout former insane learned life likes love nesmith post takes talks veteran what worlds you",
+      "ts": 1791240185.205131
     }
   ]
 }
