@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thebusinessofesports.com/2019/12/31/business-of-esports-daily-news-277/",
-    "https://thebusinessofesports.com/2019/12/27/episode-57-2020-predictions-best-gaming-moments-naughty-nice-list-soapbox/",
-    "https://thebusinessofesports.com/2019/12/21/episode-56-next-gen-xbox-lv-sellout-pc-gaming-death-teamspeak-owl-g2-vs-andbox/",
-    "https://thebusinessofesports.com/2019/12/18/business-of-esports-daily-news-276/",
-    "https://thebusinessofesports.com/2019/12/13/episode-55-pornhub-insights-overwatch-poverty-esports-x-entertainment-adobe-vr-shroud-down/",
     "https://thebusinessofesports.com/2019/12/10/business-of-esports-daily-news-275/",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0plU2E5MGw0elh5aWo0ZFFNSmhfNlBRY01YUnQ1cUpiYWx5b3pCY1RXRlpCX3hOVVd0ZEFEWGt1Nm9pc1BEQUpkXzVES1ltX2VPTzctRVNfVXdnT1hYbGtWMGl3YmoyNnJVWE5uNl91SGVlZ21zSGRia3lDWlFqX1FTdGZGMXl3dFZOZGxQRFRWTFJNd3NDUWl1elQ4cTBiaVpqZ0tXRmhyRkNI?oc=5",
     "https://www.invenglobal.com/articles/26160/the-longest-tgs-ever-first-day-floor-coverage-of-tokyo-game-show-2026",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26819/tomb-raider-legacy-of-atlantis-documentary-spotlights-larson-actor-bradley-snedeker",
     "https://www.invenglobal.com/articles/26818/nexons-arc-raiders-and-the-finals-to-be-adapted-by-production-company-behind-the-backrooms",
     "https://www.invenglobal.com/articles/26817/devolver-digital-shareholders-vote-to-take-company-private",
-    "https://www.invenglobal.com/articles/26816/runefest-2026-jagex-reveals-fourth-runescape-mmo-and-animated-adaptation"
+    "https://www.invenglobal.com/articles/26816/runefest-2026-jagex-reveals-fourth-runescape-mmo-and-animated-adaptation",
+    "https://www.invenglobal.com/articles/26815/ncs-aion-2-launches-globally-on-steam-and-purple",
+    "https://www.invenglobal.com/articles/26814/did-google-play-fees-drive-up-in-game-item-prices-uk-tribunal-begins-full-trial",
+    "https://www.invenglobal.com/articles/26813/embark-to-align-arc-raiders-character-appearances-with-real-actors-starting-with-celeste",
+    "https://www.hltv.org/news/45649/navi-to-play-falcons-on-epl-s24-day-three",
+    "https://www.hltv.org/news/45647/vitality-reverse-sweep-falcons-to-make-playoffs"
   ],
   "title_hashes": [
-    "8bff13ea0303652185dd5a8934dfd490",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "4d135471c958624a52565cb90ca8fbec",
-    "a6cf481af246701c24255c29a618c371",
-    "07a71a79a842a9bea84705ba73def612",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "a56709b5e1a9415c1c65191dca0aabd3",
     "969cf8cf34640745c0a9ce800fa61717",
@@ -16001,7 +15996,12 @@
     "c344cd7fdd398cdab6b17971d96b6cb7",
     "843f38bd30f90ff257c9f89f9afd2a98",
     "ea38da02c22cead7568a8d91f8caaab1",
-    "d7a8cf0c91912be3484284c954338412"
+    "d7a8cf0c91912be3484284c954338412",
+    "d642f0e1edc8d942e4bf1409baf0dc55",
+    "e1124f89b8514be8bd8d23fa8fd4a53d",
+    "ef880a3f6e4105c4df253131bf65cc57",
+    "24213c6561d5b7f1b16d593bf8f26037",
+    "102fc036b394c2a6052b8bbeddde7dd4"
   ],
   "transfers": {
     "pages": {
@@ -20980,6 +20980,26 @@
     {
       "t": "000 2026 6 according adaptation animated announced birmingham drew event fans fourth game has jagex massively mmo multiplayer national online over release revealed reveals runefest runescape which",
       "ts": 1791240145.7072136
+    },
+    {
+      "t": "2 5th according aion audience following free game global globally has its launched launches live mmorpg october open own platform purple release steam went world worldwide",
+      "ts": 1791240151.1578548
+    },
+    {
+      "t": "6th appeal begin begins cat commission competition did drive fees force full game gamers google hearings item items matter more pay play prices starting trial tribunal will",
+      "ts": 1791240154.8225806
+    },
+    {
+      "t": "actor actors align appearances arc celeste character diana embark facial faithfully features gardner invenembark more performance raiders real reflect starting studios will",
+      "ts": 1791240158.9188426
+    },
+    {
+      "t": "aleksib another company day epl falcons navi play s24 test three tough",
+      "ts": 1791240162.3340924
+    },
+    {
+      "t": "apex cologne falcons finals first got major make men over playoffs quarter recording revenge reverse sweep their vitality win year",
+      "ts": 1791240165.7452142
     }
   ]
 }
