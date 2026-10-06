@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-announces-exhibitor-lineup-for-2026",
-    "https://www.gamesindustry.biz/steam-achievements-for-unreleased-and-unannounced-games-leak-on-aggregators-such-as-exophase-and-steamdb",
-    "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
     "https://www.gamesindustry.biz/the-tetris-company-says-it-was-not-involved-in-the-creation-of-white-house-parody-takes-copyright-infringement-very-seriously",
     "https://www.gamesindustry.biz/futurlab-cuts-staff-after-cancelling-non-powerwash-simulator-title",
     "https://www.gamesindustry.biz/sega-cancelled-its-risky-super-game-project-as-it-would-have-to-grow-enormously-to-match-the-scale-of-the-service",
@@ -7999,12 +7996,12 @@
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUC02Y2ZnLWZMbzhieXk2VllLYXdvQlBTM0RodmViZks1bnJZWUZMaUJ0TUUzc0VvcmZoS3ZNN1lzLWNSV0Y5T2dRdmNEdXFVdWhrdjM2RUZ4cU4zbFdIbXhGb2JvWDlXM29LelBLek9NWjdBSl9VN044cWU1cTlKeTl3UFdpdTQ?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUnlveTRxb19UcW1xeFp4Zk5ZbmZYTUxTX2JkNEgxdE9IOGptUXNpTUIxUFpuelhKM1Q1MkI1Tk5SbWFiZjdDSE9mZG1URHF0RnJTMmREd3AxWGVuaUdHNW5DTVRvRjR1MkFOVDVLRmhZZFM4QTVHb1dCelZEM3YxU3hEWGlpYi1PclZfX3B6UQ?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wZGV4ejljYU1Qd1pWekctd1VCRzgwcnA4SjRJSEY4VkY4cFhQOGhXVmFpZFFxQ2lpS2ZlZkpXU2piQWM5d1FwMFFWSWdkWmdwaVF0X1I0aVN6cFpndTQyVUlEQVMxTzFFUy1Z?oc=5",
-    "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription"
+    "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
+    "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable",
+    "https://pley.gg/cs2/he-definitely-has-a-lot-of-flaws-xertion-details-how-mouz-countered-donk-at-esl-pro-league-season-24/",
+    "https://pley.gg/cs2/falcons-face-natus-vincere-in-playoff-qualifier-at-esl-pro-league-season-24/"
   ],
   "title_hashes": [
-    "6e75080c4062b06e563d56f9b43f4a3d",
-    "4f6a641142587275f23120ddbd92e69e",
-    "ff853406f4f01ee25262d655623a94b0",
     "0d6555f53a5c5eda12730ae3f85cc272",
     "7bb623c65f4a590c39ffb689e72c93b9",
     "1ea80d8f67ef31a9141fc2afcc38bf02",
@@ -16001,7 +15998,10 @@
     "f569b3b9b3e57e9570a1ec74edf9b124",
     "4639306b0827f59106424ba375b4857e",
     "7b73e3345ed3e00d3fdb3697e30e781f",
-    "2301e06354650115b30649dfa051fd06"
+    "2301e06354650115b30649dfa051fd06",
+    "a29addde7cc2e61f5f33676a8ab1104e",
+    "d5f217109603393f53b70f47a743072b",
+    "f4fe0b6196b5591cc44628013513330e"
   ],
   "transfers": {
     "pages": {
@@ -21304,6 +21304,18 @@
     {
       "t": "amazon available cloud galactic gaming launch launches luna more part play prime racer read service star subscription wars will",
       "ts": 1791278988.874503
+    },
+    {
+      "t": "1 2026 2027 2k25 30 31 available become december delisted down january longer mode modes more multiplayer nba october online player read servers shut single starting storefronts story sunset unplayable will",
+      "ts": 1791278994.2447228
+    },
+    {
+      "t": "24 countered definitely details donk esl flaws has how league lot mouz pro season xertion",
+      "ts": 1791278997.686411
+    },
+    {
+      "t": "24 esl face falcons league natus playoff pro qualifier season vincere",
+      "ts": 1791279001.1454535
     }
   ]
 }
