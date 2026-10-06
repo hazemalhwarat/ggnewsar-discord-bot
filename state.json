@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://dotablast.com/invited-perfect-world-masters-minor/",
-    "https://dotablast.com/rog-dreamleague-season-8-eu-cis-qualifiers/",
-    "https://dotablast.com/wesg-dota-2-2017-barcelona/",
-    "https://dotablast.com/china-kiev-major-qualifiers/",
-    "https://dotablast.com/sa-kiev-major-qualifiers/",
     "https://dotablast.com/na-kiev-major-qualifiers/",
     "https://dotablast.com/eu-kiev-major-qualifiers/",
     "https://esports-news.co.uk/2026/09/16/perfect-world-confirms-shanghai-to-host-second-counter-strike-major-of-2027/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26836/pre-orders-open-for-the-ascent-ultimate-edition-on-nintendo-switch-2",
     "https://www.invenglobal.com/articles/26835/2026-lol-world-championship-kicks-off-october-16",
     "https://www.invenglobal.com/articles/26833/south-korea-esports-claims-5-medals-at-asian-games",
-    "https://www.invenglobal.com/articles/26834/goddess-of-victory-nikke-4th-anniversary-stream-set-for-oct-24"
+    "https://www.invenglobal.com/articles/26834/goddess-of-victory-nikke-4th-anniversary-stream-set-for-oct-24",
+    "https://www.invenglobal.com/articles/26832/kyobo-securities-cuts-krafton-target-price-by-51-to-370000-won",
+    "https://www.invenglobal.com/articles/26831/neptune-opens-global-pre-registration-for-trace-of-wind",
+    "https://www.invenglobal.com/articles/26829/blue-archive-content-returns-to-world-of-warships",
+    "https://www.invenglobal.com/articles/26830/september-metacritic-recap-capcoms-unstoppable-hot-streak-with-onimusha-way-of-the-sword",
+    "https://www.invenglobal.com/articles/26826/hoyoland-2026-attracts-34000-visitors-over-four-days"
   ],
   "title_hashes": [
-    "9990bcfbca257c069463bc4631ec8832",
-    "c01a1c46648e71a445aa08358834e6d8",
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "6bb08479e6933c205c8e9cf99d238cdb",
-    "8e83830733f4bf775f77ce0e1dca82c0",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "c79aa12a55cdb356253316ce12de0853",
     "9ba69d22f56bd55ff87e16362cca9ea2",
@@ -16001,7 +15996,12 @@
     "1be4defb904a6d2f7e7e5b2b66059f9d",
     "afc29f33de3de79dda67ee7252c1c5d4",
     "4c9fd83c2e90623b8594a6f74e8333ff",
-    "65e8fbd0e6488327045cd251693b3202"
+    "65e8fbd0e6488327045cd251693b3202",
+    "02db129a9cbeaec014a3665a29290e47",
+    "4712f0358fd7620171fc3dd93a2d9fc7",
+    "02aac12b6e13d1e9456276fc3bb4d1e6",
+    "5340907dfc3b1b7c5cbb242bda5eb5a0",
+    "e4b207ec034456cf1cc7d613af2bda95"
   ],
   "transfers": {
     "pages": {
@@ -21088,6 +21088,26 @@
     {
       "t": "24 4th anniversary broadcast developed goddess gun host infinite infinitelevel its level nikke oct official published rpg set shift shooting special stream victory will",
       "ts": 1791253957.8985062
+    },
+    {
+      "t": "000 1 370 5 cuts earnings expectations fall firm krafton kyobo market predicts price quarter report securities short target third will won",
+      "ts": 1791253963.4576788
+    },
+    {
+      "t": "6th adventure company global its neptune neptuneneptune opened opens pixel pre registration rpg trace wind",
+      "ts": 1791253966.899316
+    },
+    {
+      "t": "15 9 archive back blue bringing collaboration combat content developed games its mmo naval nexon returns through update wargamingwargaming warships world",
+      "ts": 1791253970.5620236
+    },
+    {
+      "t": "2026 based capcom competition deluge did fierce game global hot how metacritic new onimusha perform ranking recap releases review scores september streak sword unstoppable way",
+      "ts": 1791253973.9865038
+    },
+    {
+      "t": "000 2 2026 34 5 6 announced attracts comprehensive days festival four gaming hoyoland hoyoland2026 hoyoversehoyoverse its korea october over people that total visited visitors",
+      "ts": 1791253978.3753953
     }
   ]
 }
