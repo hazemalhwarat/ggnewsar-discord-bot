@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-service-ai-tools-and-evergreen-titles",
-    "https://www.gamesindustry.biz/nvidia-acquires-open-source-ai-platform-hugging-face-for-129bn",
-    "https://www.gamesindustry.biz/planet-coaster-studio-frontier-developments-announces-new-title-based-on-disney-ip",
-    "https://www.gamesindustry.biz/this-is-the-worst-crash-weve-seen-since-the-1980s-says-tim-sweeney",
-    "https://www.gamesindustry.biz/sometimes-you-need-fresh-perspectives-how-external-development-helped-tomb-raider-legacy-of-atlantis",
     "https://www.gamesindustry.biz/moon-studios-delays-no-rest-for-the-wicked-to-march-2027-were-holding-our-games-to-a-standard-we-wont-compromise-on",
     "https://www.gamesindustry.biz/over-700-games-launched-on-steam-in-one-week-for-the-first-time-though-74-had-fewer-than-10-reviews",
     "https://www.gamesindustry.biz/the-big-picture-what-you-need-to-know-about-the-ongoing-games-industry-reset",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26863/paramount-completes-acquisition-of-warner-bros-launches-new-company-skydance",
     "https://www.invenglobal.com/articles/26861/a-unique-challenge-for-gundam-approaching-its-50th-anniversary-gundam-rogue-orbit",
     "https://www.invenglobal.com/articles/26862/gundam-rogue-orbit-reinvents-the-series-with-realistic-weighty-action",
-    "https://www.invenglobal.com/articles/26860/astro-bot-boots-on-pc-as-ps5-emulation-makes-rapid-progress"
+    "https://www.invenglobal.com/articles/26860/astro-bot-boots-on-pc-as-ps5-emulation-makes-rapid-progress",
+    "https://www.invenglobal.com/articles/26859/kim-min-chul-reaches-fifth-finals-after-overcoming-year-long-slump",
+    "https://www.invenglobal.com/articles/26858/harry-potter-at-starfield-shinsegae-invests-14-trillion-won-in-warner-bros-acquisition",
+    "https://www.invenglobal.com/articles/26857/monster-hunter-rise-surpasses-20-million-units-in-cumulative-sales",
+    "https://www.invenglobal.com/articles/26856/my-era-once-again-kim-min-chul-defeats-park-sang-hyun-to-reach-finals-aims-for-5th-title",
+    "https://www.invenglobal.com/articles/26855/tree-of-savior-releases-new-class-officiant"
   ],
   "title_hashes": [
-    "ea688e146c6d29e2d252660b47304349",
-    "fba7476b783c82103f14af7b9aea94d6",
-    "b5b5db96d7d5b81ee3cdcb08a465177b",
-    "cba8eb4d127315d9910fbee2002f7183",
-    "c1ffa219ef03153f63e9e9e3337d0cda",
     "3f080153a2f7e5436b5b02048bfaf3d3",
     "1fa79dea49adf60dd04d8f8ff77a200f",
     "3a935e09b8df96263ff8ef7294151b44",
@@ -16001,7 +15996,12 @@
     "3019ec3092a839427529c7efb2816069",
     "092c921277dcda879272f4c538965c92",
     "f5de5715c049c0889c6fafed1300101e",
-    "0372c4434ebd1230699e61aa1af91c05"
+    "0372c4434ebd1230699e61aa1af91c05",
+    "58aada453495530716d2d58522fe9d6d",
+    "5452887d8dbe20a2fb88e0f156f7a685",
+    "a7ea732a49ba5622628e59cff3ea208c",
+    "d5b857719f333b8870fca5c1410072ee",
+    "08d430ad5b10c51ba1f0d507ef1e7242"
   ],
   "transfers": {
     "pages": {
@@ -21120,6 +21120,26 @@
     {
       "t": "5 astro boots bot development emulation emulator invenplaystation makes making october progress ps5 rapid",
       "ts": 1791302826.7685559
+    },
+    {
+      "t": "2 22 4 6 advancing after asl chul daechi defeated dong fifth finals freecup google held hyun kim long match min october overcoming park play reaches sang season semifinals seoul slump studio year",
+      "ts": 1791302833.4712105
+    },
+    {
+      "t": "1 4 acquisition approximately bros group harry investing invests leverage major plans potter shinsegae starfield trillion warner won",
+      "ts": 1791302837.074091
+    },
+    {
+      "t": "20 6th announced capcomcapcom cumulative has hunter million monster reached rise sales surpasses that units",
+      "ts": 1791302840.6175308
+    },
+    {
+      "t": "2 22 5th 6 again aims asl chul daechi defeated defeats dong era finals freecup google held hyun invenin kim match min october once park play reach sang season semifinals seoul studio title",
+      "ts": 1791302844.214326
+    },
+    {
+      "t": "archaeology class completely developed games has imc its mmorpg new officiant released releases revamped savior serviced steam system tree",
+      "ts": 1791302847.7796211
     }
   ]
 }
