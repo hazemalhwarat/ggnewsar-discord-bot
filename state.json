@@ -1,17 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxORmZfSXF4NUJ2N0VsZGkzaGVGQldSQzdYTXNRYXhMUHhKNUNEbXRrbjVuczZzRWM5MXkyZGUxR214SW91NWVVVmJKM2plMkIyWjZocThqOTBLdkl1Z1NiQjVCZldQT3dnVGlmb1dYT3JLNGs0Q0R2am1tMEV0eDVGX2t2Q1cxQU5FWG1kLQ?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE81VEFpR1ZVX3NxWkZhRmtweUZzTzhsRU15S3ZQWWhJaEZWU01qY3dITXd6cHBTRVMyUXlKQjRNRlYyMWdYRE9PT196eFYwOEthRXh2dVA0VW03VWRWdElyaGg1bUpYbVRvUzJoLW5CdXVYVUtZ?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE94NmFITGpvbWd1LWpHYXRYRm1hR1ZXemZQclJQNG0zOUZCdG5EeHhyWjM4TktOTHVUaGpSV0tvUWN4RWdVYUFRUUxTS25jQzZlZkhnWS1KcEJVXzdBMTlFV3hsa0pZVjRjQ0gtQ3NTQVV2U2gycTFR?oc=5",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd3BLRXBGdEJTbTNPN2xIUExZYUdSU2Yzbm1KLXdsQnlmT09scmIzQjlWWVk1cG5JRWI5aUdmWTJRd3JfWHN0cFg4azVGMXdJMl8wbjlicTU1MG8tR2MtUDRFMTEwaEg4VHVLdHJWYnJIQm1XcVNMekhkaTVMcmVCclB4QTJHcExaRmswMUpuLXZVbGpCbHNNbjh1Sm1oMXJIUC1CMXVtT1RFWTVtWFVjZFhaSlROUkRGYXhlbTBlSV9BdjBoNFVpZW13YnBKUGtYcldBUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWk3MkRfLXRXcF9STFZTY2JCOC1ZRk9Ibm5mNGl5MDlyTEctcWdzXy1KT2pISU1XbzFlT2lnV0w0aUVJNjJIa2JFTXFuWEdMc21WamZoTnJTOU1SLXFmWHlrYjI0WXh2T2RORVNhTzc3U3JYYjlOejliSGtIekZJNEx4dHRBT0pqazV5aTVkb1kycWZpQk5wVkVvUGNFbW5lLUlPMXFTRUhiY3ZqeHZWMjVYdTcwT2NSRzdmM3pYLVpHVkE?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZE5sZ2tidVdrMEJCb3ZZTXBsMGlZcjU3UkMwbV9BMHg5OF9vd0hTeVQ0dXJvMllpRlNnREl1c2FVQjhmUm42OV9abzhVWHJ4V2tGYVlMQm11QWE1THBrc2dJRlY2YjBkUGIydFNPMTRRNEV1SWxCWHRIcTZIY1l1dGp0MU5ncW94NDVXSndDUDN5WHhURUZOLWZSV3JEbjd2akpWenA4Q3dNT1Yz?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFdwbFE4T0s5WkJpMEdiYlBrV1RGYW5fMGdxNXphYWxKMTVSZkJ3RW9EdXhadmprOWpUVlVfREk4emVTNlRXUGJXTUFWYlJfc2k4R0tYSW1JNWZNYkFlZEtBQ3k3UXhrbFZlSFd4cFdrdUhnVWx5bU10TEZZTzZxWXd6ZWlWcS1JUGRtOXBwRGlrdTZHMF9wYXpHX2VOcXVtZWcwWFVTU21oeWNEUUE?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwZW9CTUpLUUFmTno0NncwaFVIVms5N0tjN1Z5ODd1VkptbHhhS3B6QzJqV0MwbmxWS2FoaGthN3FSdU5xTkRUbjYweXBseXk2d0lEWUZfVHhxR0E5N29SNjkyaTNRdw?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3lJM1BiR1EzbFBHV2p3ckd6S0kyVkpqVE9hLU1EZHBkVWJFOTA0T3FHVk96eUN6dTBLY2szX3NJRjJyR1BFUWxWaE1DZEEtaG04d09EUkNjUjlScXhiTXl5ZzJ3OExfNlRXZ0M5QXNVMFk2N25ERlJHOUhyc0duUktETW01NTR1SmZYVlFuZEt5ZEpudy1NOVNaQWFLMXFkWjZrZUxHb3lLZ1RpM3h3?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGdGNllpR2h2T0hTN0wzX09hY0d4MzRWendSckFNUDFYSE1yU1Y5Q2Fyd0ZsT3Mydk02QzlTblZja0ZDWXRYQjYydm4wTW1INDZGUEhOTFJRQTFwSnlJMVcwQWZTbThIOEc0LXJ1dVU5SEcyUUNUQUpNU183UjBsRkV4enA3SHZVYkphNUhhODdnT3doUjl6b2x1OGlpWW1aQXFhdUlvWW9Ea1FjRWdB?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSnVyWjNiZG1iXzFDc05DZHQ5V2lla0NiVGwwNDVkUFdVWHhXTTVPck9MT2Uzb25mSjZzY0hwU05YNHZaOEJMUk9LWVNGMkxGOEJFM2FiNUtxT3JaSDgtRFRtcHhlUmM1a0lyaGRDN1lvNW1salBmcTBhRlZZRko0ZWJUQ3NRMzJPR1BN?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczAya3hROWYzeUw3bWY2N1Z2aG5vTEV5OWsxOUdONkhXU0N5eEtnRFZkRVd2MWdCOXh6bFZqaW5NU3YwS0RmQmVHUzF5Vkh0TVd3bGNwRGx6TllkdDJ3S0JFOVRwWkFQUVRmbXVsWXhDYnBqMlRKZGVoaEtadEwzOGtzQzlxREp0Z2RPTkJlZzlDazZOT2VaRWljXzJwWk0?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1VIQjB5bHBja0pRMjVzdjBNaG51ZnI0R0hDUUtJbDJsaFhMenNZOWVraUk5M3FxdzdnOTQ3SGtHU3VQOWZDZm5hZWd1a2tqUnk1MGhmc3NzYkhlUENHQWRncHR6R1d3Qno1RWtvajVHM3ZQSFotSWVhNkQ3X1o0NExrVHRoU0xpMlVaTWttekt1c3M2WFdB?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzNi13UHF6UzZqbXg0WnpHcU4yMVFjN1FsSk9idVNIN1lyRmg4Z1RBMFZLb2F5a3JZdl8ybmQtemlrUzBvdHlRblFDVWR0YjkxaXBDcWRJSGFNelVfOC1CZEdTMnBSSmwzRHdicjV2aGlMdlZZWnJyelkzMA?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVh3Z2xXTTdMaHRPbDYzMUZaR191a2xNY0tXQndHOEZ1ZkVvbko0U09BZ21VTXVtNFp1eEpvcjJna3dLMWFBeE9iZ2tHQ05Ea3BaSFhEX1VyWHhTT21yTjZYeERqYVlacUZJQ3M4X0Q1VkhhT1ZRMWFvXzlRemI4dDZaYjRlRHNfbnd0U1hvX3F0eFpuVVFOTFdkQQ?oc=5",
@@ -7999,21 +7987,21 @@
     "https://thegamehaus.com/college-football/college-football-week-6-picks-against-the-spread/2026/10/05/",
     "https://thegamehaus.com/college-football/college-football-week-6-picks/2026/10/05/",
     "https://thegamehaus.com/fantasy-football/fantasy-football-defenses-to-stream-week-5/2026/10/05/",
-    "https://thegamehaus.com/fantasy-football/fantasy-football-players-to-add-week-5/2026/10/05/"
+    "https://thegamehaus.com/fantasy-football/fantasy-football-players-to-add-week-5/2026/10/05/",
+    "https://esports-news.co.uk/2026/10/06/wildcards-pgl-singapore-major-hopes-slip-after-5th-6th-finish-at-fox-legacy/",
+    "https://insider-gaming.com/xbox-series-xs-deals-amazon-prime-day-october-2026/",
+    "https://insider-gaming.com/star-wars-galactic-racer-playable-characters/",
+    "https://insider-gaming.com/star-wars-galactic-racer-favors/",
+    "https://insider-gaming.com/star-wars-galactic-racer-racer-styles/",
+    "https://insider-gaming.com/star-wars-galactic-racing-campaign-tours-explained/",
+    "https://insider-gaming.com/star-wars-galactic-racer-achievements-trophy-list/",
+    "https://insider-gaming.com/contexto-hints-answer-for-october-6-2026/",
+    "https://insider-gaming.com/escape-from-tarkovs-biggest-pve-update-has-arrived-finally-adding-prestige/",
+    "https://insider-gaming.com/star-wars-galactic-racer-to-double-the-size-of-multiplayer-party-limits/",
+    "https://insider-gaming.com/when-is-tarkov-back-up-today-patch-explained/",
+    "https://www.hltv.org/news/45648/ropz-on-maintaining-their-era-we-have-a-lot-more-to-give-and-were-not-done-with-anything"
   ],
   "title_hashes": [
-    "5e46bd253be5629980cc76e5cd26525c",
-    "08b7cdb41c9e7acff9b8ff251a086316",
-    "38c03ecf7bc5af29a1aed5636ef6df76",
-    "295f94a28b0daa484b791c5bb569d2cd",
-    "c0b50464cb7797decff188eb2375d4d3",
-    "96702b5048bfd94b1df25778981c036d",
-    "4d4b483bef1afb659c7f335dfb4fcc4d",
-    "24bae5055ec62181d516362160540c71",
-    "1a42fd3aee44de5aab0926c8c6a9d6c4",
-    "6eefa28b3ac7357d905d6d5df9792c92",
-    "ee053ccd00cc0152d7c5747cbc39e154",
-    "dcae43cf8cdb3218e0f1658c0c96d621",
     "55de03164f272942e50b8e0321f7c334",
     "ad5cd2b30c6bdbb7860af3174c1ad3d5",
     "dcc609fa55b171fa616ce99da0024dfe",
@@ -16001,7 +15989,19 @@
     "86d156776b6806816ef283c135489651",
     "74cb8be43dde43c872d3882501aa5a08",
     "75cad06e8af6be372dcda957b872657a",
-    "fdeb3a15ac2834d53318331a03a0e9b6"
+    "fdeb3a15ac2834d53318331a03a0e9b6",
+    "dd15fda697b1290fb79e2a3613e0538e",
+    "6ffa3e74a38c39b0b2d55e65418518fb",
+    "cd441eaf4e9ea897c3186d42e7439271",
+    "ad914496441b16222ac2f2d160a694fc",
+    "60ef61d6cd0ee032e6b5c4647013d2b4",
+    "31c49cc9d336484386f85163e6e95804",
+    "d8e6d8ed3db1c43841fbcaa42e94e011",
+    "afffc826b4d05aa0e978bd82a2c03ebf",
+    "c72eb303c6bfaadb931f7a1b864c154f",
+    "19d2a38cd882215a6eb8908cfb62f4ff",
+    "4129fdf0f6443ff957c11ffc316ab872",
+    "9d14bbe843575233f51942833cc6b143"
   ],
   "transfers": {
     "pages": {
@@ -21264,6 +21264,26 @@
     {
       "t": "5 acquisitions add but draft during each fantasy football good having league made most need players really season sets several team there time week well win wort",
       "ts": 1791278949.5488167
+    },
+    {
+      "t": "1 115th 2 24 39 5th 6th according after chance con cut defeat dust2 finish fox has hopes including legacy major nice opening pgl playoff portugal projected ranked reaching run singapore slip try wildcard",
+      "ts": 1791278954.756871
+    },
+    {
+      "t": "124 2026 accessories amazon best day deals games hand including october our picked post prime related rundown savings series xbox",
+      "ts": 1791278958.280612
+    },
+    {
+      "t": "about appeared based campaign everything explained galactic how know need post racer racing runs star system tour tours wars work works you",
+      "ts": 1791278962.270009
+    },
+    {
+      "t": "double drop galactic launch limits multiplayer party planned post racer size star upcoming update wars weeks will within",
+      "ts": 1791278965.8264503
+    },
+    {
+      "t": "anything done era five give have heading into league level lot maintaining match more not playoffs previous pro reach ropz streak their vitality will win",
+      "ts": 1791278969.351038
     }
   ]
 }
