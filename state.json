@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Hd2YyR19EbXlxcDl1c1p2VTgyYnhhREI5OGxlSjBsOFBnbmdNd3hIcTdLM2hRQWYzVzZyQXJ2d3h1RnkyWjd4RmcxVXZQbXVsdWhLU19B?oc=5",
-    "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DZGFDUTVsQkticVotay1VSlhYRTlTak5ndl9vcWRKMmtyQTczSEhabEJLU2tkTU90SldYblE3Mlc?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mYUZTdW8zUHo5Y3h2Qm1odTNiNjc1M3BhWTBPSUxoZ3pCMzJPQmVzbjAxSkNmTVo4TWVFa1VmSC1yTWREbW56aThPZzBWLWRDVXBwbjFpSU9iLVVicU5aWDlWbkhKdzQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NVDVGUFl0dTU0cS1lVWVvSWw0dFlucnJXV0RHSTB6TEJFMlp0MlhVdXdDMzNvRzVsejNPV3FvNDEwLTBhUlE?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdVZlOTJndml5T2JZMUF6ZURfNFBOelItVHpLM29KMURoWWRIX0ZtM2ZxanBtS3IwOTJqWnpkeDBVdUtDV0dValpZVzQ3eURDYzBXbi1aejlIQUNwR3RNelBWSU9FTkQ4ZzNydmx4LU5waDd3Y2J3Ym5DTlpoVS1GMHlvdmp0dklzb2p3Tg?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LV0NESW5pR3NuaXo4eGdGTHlPbFhuWWxWbnJ6cUo4U05MeEkzT1VlbENwdnJydFdBdUh6d0R1Vk1fWi1oOUpaNnJHVmtjZjl3am16ZU1qRTBTaVNjZkpmX3h3UFg2WTA?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lRi1qM0huN0RWeHhWOGdFbTBjbG5wNjFWYjMxX3FKZVY4RGEzc19GZ3MteFJaRm1SWW1zdS1Ob3A3Y3FNSzJWZHc5aHdpN2d4TDFNeV9HOGpHZw?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xTUY3eXhsamNnU0JZZmhFRGY4bjBqbC1QNmJoY0pVaVl6UkFPeGpoYjhnUnBURERvZWQ4S2lIOGZwTTJmbDlhb0JyYkw?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vT0RmTmFBYXJTcU0tX2YyQk1rUDRIZjFJcF95dGxWbVBZaHBRNFFPb09velBDU2hDellzdll4bFl3SFZGRlljcEl0WkM?oc=5",
@@ -7999,15 +7993,15 @@
     "https://esportsinsider.com/2026/10/valorant-champions-shanghai-playoffs-2",
     "https://esportsinsider.com/2026/10/wildcard-major-qualification",
     "https://www.hltv.org/news/45652/heavygod-we-need-to-check-why-our-level-was-so-low-this-event",
-    "https://www.hltv.org/news/45651/parivision-eliminate-g2-from-epl-s24"
+    "https://www.hltv.org/news/45651/parivision-eliminate-g2-from-epl-s24",
+    "https://www.hltv.org/news/45650/nafany-i-dont-understand-why-players-in-europe-are-not-doing-what-we-did-with-tdk",
+    "https://www.hltv.org/news/45620/1win-stun-spirit-to-reach-esl-pro-league-playoffs",
+    "https://www.dotabuff.com/blog/2026-10-06-is-offlane-fun-again",
+    "https://gameriv.com/arc-raiders-film-and-tv-deal-confirmed-release-dates-still-unknown/",
+    "https://gameriv.com/halo-studios-shares-zeta-halo-concept-art-raising-questions-about-scrapped-halo-7/",
+    "https://gameriv.com/lol-season-3-act-2-battle-pass-all-rewards-start-date-and-end-date/"
   ],
   "title_hashes": [
-    "34e86283fb1057eb98cfd3b29f0cc2dd",
-    "1bf6aa053aa035131cd398d6b8784db9",
-    "6585cd8976239df0329b71b325cc3b0a",
-    "456f1403ca4c6f17a80a57172c33da1c",
-    "225e229ed97e60d943c415d507d5323c",
-    "286e955aad675e27a93f5e9eb1ec914e",
     "6bd4594c011ad1ad6b702aa4a41adf56",
     "4d27e7f0103977240d32afb227dd1afe",
     "cbca6b40e9055325a0f99fd29fc7bdb6",
@@ -16001,7 +15995,13 @@
     "a2bf510497ab26d0062407c1dd191463",
     "92ff9412d1f10f50b4e7989741354f19",
     "c486a865e0e149cf5ce83478693b6e27",
-    "86de41f6882426978cfdf1ba55639828"
+    "86de41f6882426978cfdf1ba55639828",
+    "1137d79a4c610ba15f8525d3a351c8b3",
+    "8c8452c11d73716da5585a58009e58b5",
+    "41e33173b29760f9df8371d08de8a893",
+    "abfa81fe0733a85661982233eb0a6f0d",
+    "31c898d71eb70c7513dcdec2f1668d6c",
+    "ddb2af9678c4d8bbd5b0ceaa35e046e4"
   ],
   "transfers": {
     "pages": {
@@ -21200,6 +21200,26 @@
     {
       "t": "1 bow dissapointing eliminate epl g2 hunter out parivision s24 tournament troops",
       "ts": 1791302910.5575686
+    },
+    {
+      "t": "1win according benched did doing don europe form fund lan more nafany not own players should skipper tdk teams their trips understand what why",
+      "ts": 1791302916.066098
+    },
+    {
+      "t": "1win consecutive eight esl hopes into last league major playoffs pro reach sends singapore spirit strengthens stun their third victory",
+      "ts": 1791302919.616022
+    },
+    {
+      "t": "adaptations also arc chernin confirmed dates deal develop embark entertainment extraction film finals has heading included nexon partnered raiders release screen shooter still studios television toward unknown",
+      "ts": 1791302923.1806214
+    },
+    {
+      "t": "7 about accompanying ancient art artwork canon collection concept crash endless farewell fodder fresh halo has includes infinity its look offeri questions raising ruins scrapped shared shares site studios through unsc zeta",
+      "ts": 1791302926.7054062
+    },
+    {
+      "t": "2 2026 3 7 act all battle date end graphics heartsteel launching leading league leagueofle legends life lineup live lol october pass prestige reportedly reward rewards season sett shared start",
+      "ts": 1791302930.3184662
     }
   ]
 }
