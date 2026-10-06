@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://dotablast.com/na-kiev-major-qualifiers/",
-    "https://dotablast.com/eu-kiev-major-qualifiers/",
-    "https://esports-news.co.uk/2026/09/16/perfect-world-confirms-shanghai-to-host-second-counter-strike-major-of-2027/",
-    "https://esports-news.co.uk/2026/09/07/esports-weekend-review-sep-7th/",
-    "https://esports-news.co.uk/2026/09/06/riot-and-tj-sports-launch-tier-2-league-of-legends-invitational-for-2026/",
     "https://gameriv.com/valorant-champions-2026-bundle-phantom-melee-price-and-release-date/",
     "https://gameriv.com/valorant-could-be-getting-a-new-night-market-style-store-called-soup/",
     "https://gameriv.com/valorant-patch-13-05-introduces-permanent-bans-for-stream-sniping-and-instalock-tools/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26831/neptune-opens-global-pre-registration-for-trace-of-wind",
     "https://www.invenglobal.com/articles/26829/blue-archive-content-returns-to-world-of-warships",
     "https://www.invenglobal.com/articles/26830/september-metacritic-recap-capcoms-unstoppable-hot-streak-with-onimusha-way-of-the-sword",
-    "https://www.invenglobal.com/articles/26826/hoyoland-2026-attracts-34000-visitors-over-four-days"
+    "https://www.invenglobal.com/articles/26826/hoyoland-2026-attracts-34000-visitors-over-four-days",
+    "https://www.invenglobal.com/articles/26828/recon-the-north-korean-occupied-dmz-call-of-duty-modern-warfare-4-releases-dmz-lore-trailer",
+    "https://www.invenglobal.com/articles/26827/i-am-jack-cooper-titanfall-2-vr-mod-causes-a-stir",
+    "https://www.invenglobal.com/articles/26823/logitech-launches-a50-x-red-wireless-gaming-headset",
+    "https://www.invenglobal.com/articles/26824/nhn-cloud-unveils-gpu-infrastructure-at-ai-festa",
+    "https://www.invenglobal.com/articles/26825/outerplane-launches-bunny-moon-party-for-1st-service-transfer-anniversary"
   ],
   "title_hashes": [
-    "8e83830733f4bf775f77ce0e1dca82c0",
-    "c79aa12a55cdb356253316ce12de0853",
-    "9ba69d22f56bd55ff87e16362cca9ea2",
-    "0b4a58ddf7e12eddc1529ed29f7ee51b",
-    "8e83830733f4bf775f77ce0e1dca82c0",
     "6e5e98337dcfc445fdf9def0e68a68f6",
     "8e83830733f4bf775f77ce0e1dca82c0",
     "8e83830733f4bf775f77ce0e1dca82c0",
@@ -16001,7 +15996,12 @@
     "4712f0358fd7620171fc3dd93a2d9fc7",
     "02aac12b6e13d1e9456276fc3bb4d1e6",
     "5340907dfc3b1b7c5cbb242bda5eb5a0",
-    "e4b207ec034456cf1cc7d613af2bda95"
+    "e4b207ec034456cf1cc7d613af2bda95",
+    "076e613fa83a8dabde3e49f8c33fad99",
+    "7e3a8dac76913e8b3d02d382c2083e75",
+    "b7c7886d615b698b3b6c2b2d7e0462e3",
+    "afcd0d71f2e7899aad1f10cc1b7bd03a",
+    "33b5100224b54e3faed6761ead7bbbab"
   ],
   "transfers": {
     "pages": {
@@ -21108,6 +21108,26 @@
     {
       "t": "000 2 2026 34 5 6 announced attracts comprehensive days festival four gaming hoyoland hoyoland2026 hoyoversehoyoverse its korea october over people that total visited visitors",
       "ts": 1791253978.3753953
+    },
+    {
+      "t": "2 27 4 5 activision ahead call dmz duty have infinity korean launch lore minute modern north occupied october recon release released releases second titled trailer ward warfare worldbuilder",
+      "ts": 1791253983.6310863
+    },
+    {
+      "t": "2 2016 because become but causes circuitlord cooper created has hot jack mod modder not released remaster revealed sequel solo stir suddenly thanks tit titanfall topic user youtuber",
+      "ts": 1791253987.2556171
+    },
+    {
+      "t": "6th a50 flagship gaming headset its korea launched launches logitech logitechlogitech officially red south wireless",
+      "ts": 1791253990.655701
+    },
+    {
+      "t": "080 2026 4 alongside b200 cloud cloudnhn cluster featuring festa full gpu gpus hereinafter infrastructure its nhn participating showcase unveils",
+      "ts": 1791253994.0712645
+    },
+    {
+      "t": "1st anniversary bunny celebrate introducing its launches major major9outerplane moon outerplane party service transfer update",
+      "ts": 1791253997.6785371
     }
   ]
 }
