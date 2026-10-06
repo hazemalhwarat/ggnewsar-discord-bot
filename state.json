@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcDdVbURjdkI1OExYTUgzSE40bHFmZkNpUmZkRE01Z0UydThFN2lDX1lfUmRoTTF4OVU2QnY1Q01xdjFRekJCaFVMMUlUVjdaSzZTUEVLTGs1TlU4OG16ZDNWRkQ2d2xLYjY3RHlTcXFHcjBiUENuWk9yeWR6STl1WkFCQnlVTm9TRmFYMFNxTVkxY056djBLQTY1ODJqbFVLdjJBTDBNNlRWcnNmdnE3UWdVLU5XWXBTVER1MzBKZ2FCbzhBUjNINGJR?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EblNjLWdid2Y0U19nYkNDaEtmRmNZVDJ0RGdmUVF2ZVJfNDJwMzF1WnVuMVl5RzVETnBnWnZWTkdVRTMzRGt4eEdFbnNpWlNab29Db2NiR1lkM2hUdGFN?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0lTSnlaRHBxQlphWFduVVdUT2N4NXl6eURvc2w5QWYzNEdPQUpmQWZ1bG1SSE81dG55Y3kzZXlXd3BLbFRqZ0RkQjU0MDNyZW5WYWE5ME9PT0lGdTFGTjJ3VGlTeVM0WGxDSTlWbjJSbnFXTWNNcXE4OE1FeXJULURlUDllZlNjYVgyeGhBcFprYWdxZ2xZTGRzOHI2bkVnaW5ScHR3aEdSdw?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHp0aE9MX1kzUUZ2SC1kNUdUbEk1NkJzR1pwOWo3UXA2cWZpTnBJMzNJQk10MXNmVU1WLVUtd0lfN3dib1ZiR05mUGQzUW9jYWNObWVaeDJOTmEzMlB1QlkxcFJMSU1PN0ZrTVZWVnEzU05EU0hZRVY0ZlNRT2ZpbVhKci1ScmxVYjhRWlZ5d05qQzZxSGZ0NVZwaWo0OUF3V1dYQTR4RQ?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwT3JCT0lfRXdiSThYemxJN3VBallBQTN6dWRnUDJ4Wl9EY21EMXI4U1pkTF9DS2dRSlpGZmNLWjZlMjUzMmZqbmNEeXYxUWJicm5zaE9oMlJTNC1SMkF6RXNjX1VON0laSEN2bHB1ZnA2NEpz?oc=5",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUHNwcmt6Wi1KOENLWWlISGRIUC1reXM3S0lRWktQSk41dzc2em9pcDFtMjJiZS0tcmZoNElQTjladElrQ0huRHlncUxxRVp2cmdpSk5hVmRJNHAwYjBpdlZueFlyb2VRUkktOTNjX0pYZUZxeFR5REtfZGZicUltMnVPUnNtVFJuRHVYRHFqemJqY2Nnc3JqRmR4X1F3Vl9aZlpRVldmRWZjcXF3cFJJblM2MXRmdlJVbTVCLU14MkhNU05ISHdoaDkwYUlWaVM2OGJ1SnJkRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNamlPM0JObHlVZ3Y3eHBITDcwUkd4QmZsUE00X0hLckdYRGdad3hINUZ3a1hoOFpPSmxSX1NVQjBIZjVnVi05YzZJWFRRRUI5QzZyOFlpZWctRE5HTnRDVEg0RWlVNTF3X1VCdXhxSnFOcWREUDBWQm55TmdrS1JqeF84TWtSLWRLVnR2VVl6bEZCakhxNllCWXNvSDVmZDQ?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ORjNva3l3YVNIYjg1T2Mtb1I2cmZUSGZkQk9veFY4dkYxR0czWkt3M3BHZndIR2ItOTQ2X2djeFc2eEtoZU9wVXVwc3IxZ093Mm1PdlkyMmY2eXpPbFVzYVlWNG1CQVE?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzNkdDZJX2JKeFUzSkd3U01oWEc1ZXJzZlZsUkNaaU9JWmN5M09ZczlRT2cwaTlhOE5yU3lob1FyZmhMUVdKdnctdEZIX1RDWjFiaXRMek0yeURHYXpTUEI2RnlmcTJIVzFGWGNUenhwaEhnemJFOGU0TG9mTkpQUC1JNTBjSzE0ZVBua2lfSmxRamp6WUEzeTZFa0hsNVhGcXAyVkgybzRYdXJvcUE?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaTk2TW8teHFyaDJPeDVSZGgza3YyTnJpdWhGazN3TGZpVVZGSkI1dHg1U1lSTC1ySjBlaWdIaWRCQk9rV3F2TWRVei0xR1lCSU5hdWxXZXV4M1RHY0IyalYySUZOam5hQjJZTzBuZnpJbjNCdjAxWWw1b09hYkxVcEE4T3pqWldjUDBQXzV1WXc5Q1BJNjFMdnJnVGw?oc=5",
@@ -7999,16 +7992,16 @@
     "https://insider-gaming.com/everything-we-know-about-lol-worlds-pickems-2026/",
     "https://insider-gaming.com/lol-patch-26-20-every-change-impact-worlds-meta/",
     "https://insider-gaming.com/mcdonalds-monopoly-2026-prizes-dates-how-it-works/",
-    "https://insider-gaming.com/roblox-survive-the-swarm-codes/"
+    "https://insider-gaming.com/roblox-survive-the-swarm-codes/",
+    "https://insider-gaming.com/new-true-damage-skins-revealed-for-league-of-legends/",
+    "https://insider-gaming.com/roblox-pets-universe-codes/",
+    "https://insider-gaming.com/asha-sharma-says-xbox-has-finally-started-to-return-to-growth/",
+    "https://insider-gaming.com/overwatch-season-5-patch-notes-release-time/",
+    "https://insider-gaming.com/gamestop-pay-double-used-ps5-pro/",
+    "https://insider-gaming.com/how-path-to-doomsday-infinity-war-ltm-works-in-marvel-rivals-all-infinity-stone-effects/",
+    "https://gameriv.com/lol-patch-26-20-notes-all-champion-buffs-nerfs-and-major-changes/"
   ],
   "title_hashes": [
-    "db7c5da45c10d956d3f3f660adb7d184",
-    "d1975bc3c6f16a01102d4ba8f13e267f",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "846703809a325b2a5cd908301c4016b6",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
     "850d1d695ede7a8ff8904a779f7082ca",
     "eee12c67c630ca8cd9565f09e118cd1f",
     "850d1d695ede7a8ff8904a779f7082ca",
@@ -16001,7 +15994,14 @@
     "266345361275d2bba0597b9d4dc380bf",
     "19c872e1c837f74056585cddcbd8a14c",
     "984b006f88141f0dd28a9b96bc860752",
-    "fff7a73ebf2bc83c97c1e1a46d42a746"
+    "fff7a73ebf2bc83c97c1e1a46d42a746",
+    "2d87b33507af4e555f7ff3e2c5ad9474",
+    "c9bff9006c695e6ac3a50a30e1941d1b",
+    "377f39c64aa0147d014ff549a581e076",
+    "d078841cdad4a3bd7271cdfd5c542ea4",
+    "07c4d1f0ca5af2e3b4b99ea963b62f8c",
+    "59ab30edbd5645237c091b8a054598b2",
+    "214ca501c1116e15d493a5f1a13f3cff"
   ],
   "transfers": {
     "pages": {
@@ -21136,6 +21136,26 @@
     {
       "t": "2026 appeared codes essence first free gaming get gold hands insider like monthly october post redeem rewards survive swarm these use your",
       "ts": 1791320439.8134682
+    },
+    {
+      "t": "2026 ahead anthem appeared damage firs games has know league legends lol name new post release revealed riot skins true worlds",
+      "ts": 1791320445.038582
+    },
+    {
+      "t": "8216 asha been finally growth hall has internal meeting post return revealed says shared sharma started that town where xbox",
+      "ts": 1791320448.527739
+    },
+    {
+      "t": "appeared back can come cost double first gamestop one pay post pro ps5 stock used wait want wants you",
+      "ts": 1791320451.9410486
+    },
+    {
+      "t": "all being doomsday effects entry game how infinity latest limited ltm marvel mode new path post rivals stone time war way works",
+      "ts": 1791320455.7172577
+    },
+    {
+      "t": "20 2026 26 all also another arrive balance before buffs champion champions changes classic fight giving heartsteel league legends life live lol major more nerfs notes pass patch sets skins stage teams trophy worlds",
+      "ts": 1791320459.1871245
     }
   ]
 }
