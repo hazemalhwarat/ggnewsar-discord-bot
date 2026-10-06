@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEJQZTQ0dE5ScEl5dkVDUzhTbzRpa1Vhc2pKbHE2WFZxTmwxcXA4UzYybENYdUZ5OVhQZ1NuZ2JvNTBQdVIxb3RNZWpWOVdCeXJPS1EwM1Y3Sjg1c0Nad1dqcm5pSDNGTUgtb3lMVE0zLVByUUxiNS1jLUxGdTJmVVNqdFlmemExekNkTThTd1V5dnBqUzkw?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EM1VPMzV2TU0zQkRuVUp4RTZhaHBQSmg2eGE4cThWZVRJUml2UFhBbU1hYjVGSFlHMEREZE1mby0zMERieGxZRjZEY1c0TjRyUzljaS1OQ1NxNGlBeHBubXNwYWRDdVlJdGtRY3g3dlotMG5JaE5pdjJtVVo?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTdCOTVsWXVndEZsR0RJSV9EU1dWYzVGVGhiemhJMk85Z0pWV2FCOV8wWGlLVE9wZVhRVmhHUzFsUVdUQnR6V2pkSHJTNE1OdURxbWVWNndrTVdFQUQ0U0VEUWdxdGo5MHAxLVNMek56OWRSWlkyUWF2aUduckZhZU9vYVBFdmYyaDk1NVNoLTJaSTdIeGVxSTktN0tnNmFVckQzTDBQc3h0Q1dMX1d2cHRR?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFB6eXVIUi1WV29QUHl5c2d1Tzk1VlhNLWxJSG5EV1hVQ3Yzc2JpOHhCYTlRTW1JVE1MMkFkQlVOMUVmSFotbE1CVTM3eHIxNm5lYVlIeXB1THp4Yjg2R250UjIyZkFBTEZiTE1QaUVnRVlzZw?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1JEbHZTRklrbno2b0M4UmxDN09qekcwalNESUtTT001QzgyQXg4VDNVNGhpM0pXT2g0d0t4anlpS254T3pzdXhrMWJaSnVXYWpJUEl2MExiZFlXNTZaNkdoY3M5NUlodUc5cDVFZFZkR2Zma28yRFlyVGZtMWNsRG9wYzZKYXhuVHhkT2VOdXJCa095?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQbWNrWWFrNFMwejQ2TXhvdEJXSjZIQ2l1WEVYWVFCOVE2M2s4U2VVMFlldWxaZWlUUmwyYjVsa1BWMC14MGtvMXZTQW8zU09vcjdSWThZY2kxRE43djVaLXJCaVMwT1pzc00tcVZFVDlMZjdQaDBCVjhPdjJXdnB6N2hLcDA3X0ZYaTdIaXVDVE1TeEl3WFFkb2pZLXdaQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tGeXk3Rmg3cVhxdUI4b04yVE1TN0xKN3FpU2lTU1gyVzJ2SGFyZWJaOHFfT1R6M3hsUDBUOXg0SlJwWmpTWVUzb3UtcGdHaFRDNFV0YTliWEJQenFqYk4wMHlTOFZGZXJyRk04dTg3Y1c1RUE1WktuX3pwd09GMU96SnZ5cmtmb1U4VlZFaDdicUJ1NVJ2WkJWd1RtNkkxN1FhSHpLQ2M1RGtiQ1ZwOHZtRDZvMVHSAbwBQVVfeXFMTjAxbWxGTzdZWWJ3clY1TFFVS2QwalA3WDRLU0ZLT3R0Sm1NN2xzeVlXMmhEbU5vWHl2MURwX1pJd08xb0NhN2RtaDExd3VCMXNvUVlPbzhuSVV0cU4yRVBxQUNud0RveExoN1FzUkdlUW1wUnhsSjRTenk2WlA0VmtiOXdRU3R5d1FXQ1dmX0haYWVQdmQ3S3QtN3F4VWJnY3prY3BZSDJFR3oyR1RrZnA5ZFJNT2ZTTk9IMzY?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSURORXNJT1czLUR5SHAwbWJCRFVlMUdBLTdqVF9oUXVjb0JiSWY1NlBoSG14TjY1Z2NWVW55dWdHak1sdW56R0pvZEMzT2JrNXhlY1BhSGtGUEhFdTdGcUlzRHM5dVBqRjZFWFJDUDNrU3B1VkJUMHRHYUs5RjJ4YktTdy1yX21TczlPZXg5Rk9UUDhoTk9abTRQeDRiejhuWktIdg?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRzhudW5TbWVBZkd6MkxtSTdWSVFKSFp2RElHUENGSk91Z3ZFTFllU3oyRkRuc1Fxd2tFNFNLa1JyNnJ5Wnh2ekxlanh4SFBaSGFqbUJpZUlyNWdHelVva2hUQkV4YnJPRzI0ZkRXZDhLcjdobnlrdFhpRGZETE53Y0ZrNU9XT3ZhZ2dlQnAtTjJVWm1iYnZWM1FSSnE2UXM0M0JGMDltaXprUVdWWG9rYlc3QnF2REJoU2VaS0dra01SMUJnNFB3dkNDOHBFLU0?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MaHZuQ1NQVlVWSWlwRDlmLVJzUmJQc1F3N3RBYW9xUDJUd3VuazFLUlJXbEpHTlQ4eTRnRnJyUklpMzg0VmFxVl9sOUhjVEcyWDhtUkJfWU1RUHZlaHhseURDeU5MOG4tY0F1Ri1ER0F4YTVTNFl5Q090SQ?oc=5",
@@ -7999,16 +7992,16 @@
     "https://www.talkesport.com/guides/fortnite-power-rankings-explained/",
     "https://www.talkesport.com/news/gaming/warner-bros-games-skydance-paramount-deal/",
     "https://www.talkesport.com/guides/best-free-fire-character-combinations-for-aggressive-gameplay/",
-    "https://www.talkesport.com/guides/change-vehicles-star-wars-galactic-racer/"
+    "https://www.talkesport.com/guides/change-vehicles-star-wars-galactic-racer/",
+    "https://www.talkesport.com/guides/how-to-reduce-free-fire-ping-on-jio-and-airtel/",
+    "https://www.talkesport.com/news/gaming/tekken-8-blindfolded-superbrine-god-of-destruction/",
+    "https://www.talkesport.com/news/valorant/valorant-corrode-return-v26a6-map-pool/",
+    "https://www.talkesport.com/news/cs2/cs2-pros-valorant-transition/",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVGNVU0lXeUZpYUVpd2I3ZlhORzFTX3RXWjZCYkI5US03WUZjYWtka3BzTFZVY2c1RXhXNjA3QXZwaVYtUTZsR1ZVbGhaZ2NBOXhhdkI1MWJkUmlPWktFcFAtNTUtS09aT0NXYUtaLXBVOS1aWmhrb2EtYXlsQnpVSi02TUw0Si1NQlF1c05UTUk5RklORjlCMjFRMUh5TWFvREE?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeVMyZUZwazJkWS11VS1STElsejYyRWdodFBreFJoZThhY1JXSjRmMEtDUE5sOHRGWWNObXNuYWNYWG45RHhwdHBQRTN0Wld1SlRyTy1vejAtcG40NWlOQS1raDFrSjhVWDdEM3JXRnJRQjdoUVlJMDNQY3U0WDhkWjA3bEVDVFlnMTN6cmZiLTE?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVZ1N1pLaFdQUDhFMGtocTR6UGV3UGdIV3VGTDVDU0RYZHJHWktXWHVLNlFQVHl6ZVNDM2FsMTlTWkJGTUx2ODhRS3BqQXVnU3VVMldOU1ptTGhqUk03MUFfU3pVNFBqQjcwZmxHbGZqQjh1UWROYlpPZmFHQVNpTGVKbUF0Q3paNGhsVUg4TkIzV2NZUFgtRUt1U2RJampwWXp5ZFJ3X0tvWXM?oc=5"
   ],
   "title_hashes": [
-    "e9d2b908fc281501cb72651ef4a0f6c0",
-    "5012bc8337fe4bba8576b1d12c74a737",
-    "90d9b9676231d5352cddc3b9d064e380",
-    "b9eec647a8a1e5d18d599a90de06282c",
-    "3f83fa0265c5d1fc3676b712a8092882",
-    "792aa06069aa5bc0464d1b5ead09bdd9",
-    "5f9f42c5d69e37e876726596246bfa8e",
     "0d3b12c20e5e2f5d8c20828b08b1ee24",
     "bed46d9e96366ed91ef87b61c23a0b82",
     "e86606b237ec15cf7f4c27577fc78803",
@@ -16001,7 +15994,14 @@
     "c610bd8f5845682d3155ba07fea3f13e",
     "f9262f9ff52c967f959598cd346e8405",
     "465d07b41bcda3653f74265be5d43792",
-    "b0d31b64b988bddb3bf340e602d7140a"
+    "b0d31b64b988bddb3bf340e602d7140a",
+    "ddb0b4a8b6ac66466e3130726494576e",
+    "e4c96046564562013aa6f078ee6951b8",
+    "213a8beb07ef4c26e82da92865b8a577",
+    "cf531884d0bc9ef38cb7fac7b66b9f10",
+    "61bc0355be3b9bd005fd0b51eb9a0a63",
+    "f2ab5fb218da8b84623f45579aa4ba11",
+    "ac6dd4b614b49b9dde2a203a1372e523"
   ],
   "transfers": {
     "pages": {
@@ -21300,6 +21300,22 @@
     {
       "t": "can change galactic here how league locks post racer reset run sta star start swap tokens vehicle vehicles wars when which whole you your",
       "ts": 1791303012.8311396
+    },
+    {
+      "t": "4g 5g airtel apn appeared fire first fix free how jio lag learn network phone ping post reduce settings spikes",
+      "ts": 1791303018.433527
+    },
+    {
+      "t": "8 alisa alone beginner blindfolded climbed destruction eyes god his ladder mask over player post ranked reaches relying sleep sound superbrine tekken using",
+      "ts": 1791303022.1091833
+    },
+    {
+      "t": "according act active again corrode dataminer fans game leak leaks map might next once per pool prominent recent return rotation starting v26a6 valohabercisi valorant welcoming",
+      "ts": 1791303025.7845051
+    },
+    {
+      "t": "2 ask believe cerebrally could counter cs2 debate demanding ever game giving have jump launch mechanically more over players pro professional pros rise seen several ship since strike they two valorant when which within years",
+      "ts": 1791303029.6779165
     }
   ]
 }
