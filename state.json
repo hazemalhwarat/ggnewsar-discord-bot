@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFM5WVJPZVEtRFQ5N1VtQmpvUHdQVEc4WUZqZVBrOGo0Ny1lMEJOOElMa3hmdURYOWpxVFVRdjEwV2JsUDFUYUxpOHc2aVp0OE1QOHhLeENJSU5lNVFpUzNkcDdqN01LM2R1Ni04M3c2dzFPSnp3bmRDcG44QUNNYTF0TzhFelBCekNVX3l3X3V0TTdu?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHNwb3ZfWmsxN3RETDRwbG1TLVY5R0VhdXQ3Nm1Pd2ZLZXpjWjZnWjJWWVJTbkwteXRVWnpYX0FsU3RFbzZHRlRLcjlfNklORTNaUkJUT3NZLXNHb0ZycGVpZVpxejNuM1BINEl3cEhUNk54c2w1aWJaQmNLX0ZCdkxHOVdPTFRyV1Fv?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qU1FIdUs1aEdtYWtmZkljUl96YnhKTnRzNlFxcy1MTjVYTDlIbDNOdnloc3c5UFVaMHZSR0hkcXhTREtZWVdBTTNsVEhsU3I4ZVBlaDBjOGlNNFlzbURxTk5Wbjd5Y24zSE1FaEFfOA?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVlYZVVGeHVsNlZWWTViell5bkttS2pVQnYtcnhWalRGZU5YTU5VWHM1YXBMRVlPVjNodG5XU19rc2hiRzN2ckFaX3pYUnV0YkRwY09scE1HcDU1TE5WV1JBVDc5RHdTY2tJcHhoOGM1RjhPTFhKYU41NzN6ampTdA?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaTYyQzRkV3Q1X2xZNE51R1Z6dWNWTkFiTF9RTVZCc1JIR041eGxBaTZTSTFuMUNtc0RWWWNOZlBjQVAtWWJyZTRPRnJBQTZYdjBJQUpJLVR6dzgycGh2NHMybldQUDJVdF92LXRVNVBnNW5wVlVENkJYOFN0ZElrM0c2eTVTalZQaXh5WVdscGlVTEVwekRMX1EyYkJCVVRyalc2clF0UF93Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVDdreXpoVFl5TUNQcUxrTVZkV2NpdGktRFNncEgxUHRIVVdmenlOeU9VWlZvOUlUUk5tR3k4M0RnZVJYOHQtM3c5cWQtVXBVTk85cHUtbE1ycDZZcDRqZXJqcUQyRGVTczRVQ1VfNzVJM2ZnTl9BY1NHZWtBbGVJenRXT0hRODg2Q3ZyMFdYNDE2R2oxbXZTRE94LUVZbHRXMmdrSGlsVUpwUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ESFFISDZ0M25fLWxuVldoQzBXZTZ6SWw3dzlhVzJ1UlJEMU44Qng1dGhyNTdHQjNqMG1KM3Rjb3lUSURPWXdXM0JDdkxNUU5JNjdVb0lMdXVxc1lsX1A0bGFjd2g2VzUwN3B6QVI5MWFUUUROUkdiTkZsbw?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1JOdHlral95NTBYT09LOVk4TkNwZlNYVEs3bHpSQnQ0UVJnaGM4THNUclB5RHhaMjV6X2lWN0RCUE5zcnhKdWN3bUZxWWhRXzdYajlJdFNkcFZuelBnSUkwX3pQamoyd2xLSlN1bnBWWmtRRTJHQ21WVEJjQkQwbm12WVdBaWNnTWRvVWJBZTNNOENWMDdMQ185emhuWjUzX0FpZXN1bG1lWXFEZnNPOU8xUmtTNE0?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yMzM3eEw5VHgyd09mZjRydHVQV1BmbmFPdm05QTV3UDM1bjVqX2hJblVuUDNIQmZBbDU1UDJRNW9qRGhDZXlpdi14MVZoVVVoUzVHODktNUNxUEZDZjdkbEFGbHJsX1JUb1lKbA?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEJQZTQ0dE5ScEl5dkVDUzhTbzRpa1Vhc2pKbHE2WFZxTmwxcXA4UzYybENYdUZ5OVhQZ1NuZ2JvNTBQdVIxb3RNZWpWOVdCeXJPS1EwM1Y3Sjg1c0Nad1dqcm5pSDNGTUgtb3lMVE0zLVByUUxiNS1jLUxGdTJmVVNqdFlmemExekNkTThTd1V5dnBqUzkw?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EM1VPMzV2TU0zQkRuVUp4RTZhaHBQSmg2eGE4cThWZVRJUml2UFhBbU1hYjVGSFlHMEREZE1mby0zMERieGxZRjZEY1c0TjRyUzljaS1OQ1NxNGlBeHBubXNwYWRDdVlJdGtRY3g3dlotMG5JaE5pdjJtVVo?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTdCOTVsWXVndEZsR0RJSV9EU1dWYzVGVGhiemhJMk85Z0pWV2FCOV8wWGlLVE9wZVhRVmhHUzFsUVdUQnR6V2pkSHJTNE1OdURxbWVWNndrTVdFQUQ0U0VEUWdxdGo5MHAxLVNMek56OWRSWlkyUWF2aUduckZhZU9vYVBFdmYyaDk1NVNoLTJaSTdIeGVxSTktN0tnNmFVckQzTDBQc3h0Q1dMX1d2cHRR?oc=5",
@@ -7999,18 +7990,18 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSllmcG1JTGdzYUd1S0g4MnplaVpZdUM5WEJwZFpzRC1BWEJoM2RaYmZtcUpqd2J2czRhSUNqcnZDaWhlMW1YMldHeUIwQklhbFh4Q0RqZklYS2d1UDBwaGl3ekFVeEZFdWZ3cEpKNGdMbkpxUThEVTUzYUZuOXI1WEhkTXhXSG81VFp1ZWpJNDRZOHhOb3hRemQ3LTQ5My1tWHlwOVprZGxtVm1WbUlwd3JkWEczdw?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zUkpWQWc4SlhIdjRtUTVuaUlQUXVCczVXa1JadmtFUVJRQ1BhVkd3bTVxQk40dnR1d2hvZVZLWlM1WWtfZWZ5QVJSVkZPeW1qQUpiWVRhM0tiOHh6dXZKVjVfbVgwbGcxOFQ2RjdGd2NHSFg3X0E?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE05VU9VY2p6VTBQRktCeDhrYVNGN3dUUmVvcGZRWF9JUlJqRno1SXlJYWdxbXhwZ0RQUHg0M2p2TVd5bGVoWktQQ3lWcVZWMUMxS1l2MThnbmMzRGMwUGNhcXBRMnJ0UE5hcXFxajNDOGZ1QzZWdjBpQ2V3?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6R0Jjbk1aWUVmbjhjWFFuVzBZNmxYOC1vNE9OXzBfUEQtekdIdkdYUmltanZaeXVEeDZRbnBFZGYzQ3pVMjctUHFVUnBnNUpSdjc4?oc=5"
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6R0Jjbk1aWUVmbjhjWFFuVzBZNmxYOC1vNE9OXzBfUEQtekdIdkdYUmltanZaeXVEeDZRbnBFZGYzQ3pVMjctUHFVUnBnNUpSdjc4?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzhGdzF2cG0yU2ZwLXhocnlrdENja3JyeEhTWnZFVVJJS1lFZ0V4eldZdHlVZlpDdmhqZXUxTmxOTU9VTXItRU9fTTVCeG80czRabXBRbTVKWUN6R3lwckh4Zy0yRWpPbktENGZacmxucWczelk0XzVpTTFndjRseUtPblZxbGh5VjFYeEo0V0dhNVQyajlJdWgtOGUzdzRhUkNkOXVjOFBDdw?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDZKWXY5cTlqblR1VGtfZmVzTFpBbmxZN0ZJZXVoNGpDZWhVODRUa3cyY2ZvRU1VYjV5SVBWOG5sR2ZEeVoteVJtNWNoWWhhWDhpVFllbm1oS0lITlhiNWZndjdsRElVbC1rbU1Qc1RZVElZaGllV1RFSWRIem01MElDTXNCZ29abDNBVDRnelhOUkppTXVndA?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ3VWRWtwZUpZRDJ5dWlZRWxQZzBRZWc1c3FzcHhhZkR5b2xYajJBazBKYlgyN3lPTEJUcHhZaXloNnFMUXlEckFOWUZERlNEVHZVNzZ2MjR3eTNZcXVPUlhIYXdfSGJVMFYzUHJLdi05SEVMZWxFT3BGOHpmLW1ZLXFsZDhJZGlLeGc?oc=5",
+    "https://www.talkesport.com/guides/rarest-sprite-in-fortnite-every-rare-sprite-ranked-for-chapter-7-season-4/",
+    "https://www.talkesport.com/guides/jack-the-clown-fortnite-skin-price-bundle-how-to-get/",
+    "https://www.talkesport.com/guides/fortnite-power-rankings-explained/",
+    "https://www.talkesport.com/news/gaming/warner-bros-games-skydance-paramount-deal/",
+    "https://www.talkesport.com/guides/best-free-fire-character-combinations-for-aggressive-gameplay/",
+    "https://www.talkesport.com/guides/change-vehicles-star-wars-galactic-racer/"
   ],
   "title_hashes": [
-    "68c947c896f3d6c1a04108569fa85f4a",
-    "1261f11364f8e66d6a1ce29294a82c99",
-    "b3d16612fb95ecff50980ecafbd1cc2f",
-    "dc12e2d36d6d832f493c9cc8538f8dfa",
-    "4e9415a66d99a1bda8af31b7df9961b1",
-    "4334e38162b564bd1d6a45981d636e18",
-    "a7ce191fc55ffd3b1fd97d3763738b63",
-    "54b47bdad4b8867fb2f4b7e6ce19483b",
-    "466b7a6ae3a25695514c6ed3593bf530",
     "e9d2b908fc281501cb72651ef4a0f6c0",
     "5012bc8337fe4bba8576b1d12c74a737",
     "90d9b9676231d5352cddc3b9d064e380",
@@ -16001,7 +15992,16 @@
     "5418d6c6a4bd16f12198ef13a903b2fd",
     "653b697615ac98f116b53c65c1081cab",
     "40c51950a31e0353581f1a81b7e11077",
-    "f0af44bca3444246468d9c0b04aec160"
+    "f0af44bca3444246468d9c0b04aec160",
+    "f33083619ec59b0d69a93cca87c1228d",
+    "10a24287e41a2083ce50859d23d03406",
+    "f08d2754c1028857feefa13449dc9f2b",
+    "6e95cab043ddc16062eadcbb8a4ae192",
+    "6001dc541d38f8fe94b39c7aa17a001d",
+    "c610bd8f5845682d3155ba07fea3f13e",
+    "f9262f9ff52c967f959598cd346e8405",
+    "465d07b41bcda3653f74265be5d43792",
+    "b0d31b64b988bddb3bf340e602d7140a"
   ],
   "transfers": {
     "pages": {
@@ -21280,6 +21280,26 @@
     {
       "t": "2026 4 highest hits its lcs nbsp peak spilled summer viewership years",
       "ts": 1791302992.3414714
+    },
+    {
+      "t": "4 7 but chapter come crown don drop epic every fortnite here how hunt klombo online path ranked rare rarest rates season see sprite upgrade when works you",
+      "ts": 1791302997.7224388
+    },
+    {
+      "t": "20 2026 best bonus calculated decayed event every explained fortnite here how over plus post power ranked rankings results step tables time tournament use weighted works your",
+      "ts": 1791303001.4513102
+    },
+    {
+      "t": "110 6 after batman billion bros called changed closed closes company deal discovery games hand here hogwarts its kombat legacy mortal new now october owns paramount putting skydance studios takeover under warner which",
+      "ts": 1791303005.0466442
+    },
+    {
+      "t": "aggressive bee best character close combinations combo combos fights fire free gameplay hayato jota post range rush tatsuya",
+      "ts": 1791303009.356607
+    },
+    {
+      "t": "can change galactic here how league locks post racer reset run sta star start swap tokens vehicle vehicles wars when which whole you your",
+      "ts": 1791303012.8311396
     }
   ]
 }
