@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/valorant/news/profek-interview-valorant-champions-shanghai",
-    "https://traxion.gg/glenda-studio-adac-simracing-and-nitro-concepts-join-simracing-expo-frankfurt-line-up/",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DNVAxcWwxVnRycjdzbDUwMzhoYUR0YUltdFloRkNYRVZMeG4tOHlSbUp4SlV1ZG9ObmhzRkdHcUIzNFhFOEZhUnMyeEN1Ymg1ZXY0eDlsVG5XMFJ6T0hxenU2R0I5NERWNjRUZGZLREhuckE?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdG5VNU1rcF9RLWxramFfV1J4VlJnQ1lMTjQyQ05Udm9GTGdOY19sMGZULWtWa1IxSVY2NjRMQ3NLUl9TMm55UzFVZ1A2Z3hLMGtpQUl1Z3BJeFEtOS1pYWZmeHhWUmNzQTN1bW9KcXhJRDVBWktvT3JmZkZQbWZhcmJmbnU?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wamF5X0kxNTh3VERDM2xnellRTVh4M2NHV1Q3UUZQS01KNmhLLW03ZWdOb3owNTJMbTdLS1liMzd1UC1odjg2V25hWlN3R2cwdTZDcDF5SV9zMnhXc2hVWXhmS0J1UQ?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVY5bUFGSlhVa3BBWXJVVmNVS29HeVVSX3Q4aW42T3lrN0RZTzNZeWpiSTJlSi1PN0REY1NOUm5sblJPTFU3QkVHdUNRTVpFek5VZ0oyOWxaYkFNRWVnNnJFdTBPdlIwb3VsTEFKQUpGOTFhRGN5Y3ZqYUQ0T3JJQmx5X2lNQk1waVVPeVZDR2FHUFFmUWoxcjloSkRaTDQyLWhXSFBR?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWlJiODVYRFIwTDAza0I5M0dtbkxEZ3NfOC1BaDVjNG5MYXZmYWJra2ZlS2VQNTRFa3VkTTRMN1BvTDZMa1UwNjZzcnZndkJBMnVJYnhyLUtoVVZfX0FBbC1tVUtWUkYtZXo4R19QTmVleG8yaUh3MWlnXzU5ME9nY2d2VE5pUXJJY2s2dktZcXQ4UFgydUtZ?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IRnZxLWR5ZWQ5Q1gxSVdja1hxNzAtS0g5TnBZVzQwSlhCUm1GaENXRHpKZ2NwTGEtTm9ob2lMSUxvLXJoaGpjQnRuSjRzZ3huYTNscHJKVmh3aVNkRlVSdEg2bk9qNWdPWjV3b1RqNUpUYmFjUUdxdnpsN1JRUQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnVoM2lfTXRJUndMcHhHUGI3WEt1RU1GNHhZRnFxUzZ2d3dfV0p2ZElkMGtYVjRnZHlzU0JaV2EtUURPd2dxNTZXRTVDY2dRZ3FHZnc4b01sVzhKdzVLYTJkS0hGakJjUGhqOUdCM2h5bHByNzd6VHVEMWY3SzhUQkNhVHZvVmgxakR4NU5jQUxwd1R4OXZyYng4Nl9TRjAwSzZUR2xyMXR2VXFYcFI3eFprZ1VjWFlBVWNOeGRDeWUwVnpGN2hJQ0pFSQ?oc=5",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yZUl5TXZSOUlraGZaMjVFVzRYcUVNMGRKaTlHejNuQi0tdHd1WVpsZ1NpR21sYjF2WXBXV2NlRVhjLUxqTHFyNDdXVWIyaTRzM0lFVWVyVTA?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEMVFJa3pxUHRlWlZMX0lvVU1sYXVleElGTWtlOHZZakRVNVBzZXBfaWdiWHp5cnhWZ3pOYVQ3c0ZTUGU4UXcxejJCOHRNWXJUZVlfdjFySjhtMF96bk9fMlVNdVZYWkttVll3Q3RMcHlKVzktYUVvOEIyYjlZRWs?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQjFkcDFPVzJZS2RDaEZ1ZXkwM3N6eHdlNkxwZHpsZWRETlNEdXBzaVlfOUxsSzFkdVJDQWgyMERLbXNfMlRNaXZ1ZVFwbjN4aUo4RG9CelI5X19IMDlrMmM1MUI0Z1BnZ2hrWWh6cDJaejZCeHZ6d24tTTNpODA5UkVxWTgyeE05TmJyQXZfU2RLRl9vTWxYeFR1dUV0ME5LV3dselJVSU5hZ2RESXJMeTdUbU4xeldHdENMTEduUjRqb3hoM1VCYUYyeF8?oc=5"
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQjFkcDFPVzJZS2RDaEZ1ZXkwM3N6eHdlNkxwZHpsZWRETlNEdXBzaVlfOUxsSzFkdVJDQWgyMERLbXNfMlRNaXZ1ZVFwbjN4aUo4RG9CelI5X19IMDlrMmM1MUI0Z1BnZ2hrWWh6cDJaejZCeHZ6d24tTTNpODA5UkVxWTgyeE05TmJyQXZfU2RLRl9vTWxYeFR1dUV0ME5LV3dselJVSU5hZ2RESXJMeTdUbU4xeldHdENMTEduUjRqb3hoM1VCYUYyeF8?oc=5",
+    "https://www.invenglobal.com/articles/26852/world-of-dokkaebi-tops-apple-app-store-popularity-chart",
+    "https://www.invenglobal.com/articles/26851/81-of-aion-2-players-with-over-10-hours-of-playtime-rate-it-positively",
+    "https://www.invenglobal.com/articles/26850/mmorpg-with-gat-hanbok-and-taoist-magic-world-of-dokkaebi",
+    "https://www.invenglobal.com/articles/26849/pubg-seongsu-wwcd-chimaek-party-opens-oct-7",
+    "https://www.invenglobal.com/articles/26848/black-desert-mobile-expands-new-events-and-rewards"
   ],
   "title_hashes": [
-    "b8318940e14481224df94668b6f10bce",
-    "c2cf98cc0509c0dbda052a2561f01262",
-    "b9593ce60652cdfea8c0505b378d3fcc",
-    "ba5928f9ae3215fef04cd04237607bb3",
-    "4fcfc09398bd776b3c8d0a33903df40e",
     "584db32ff53a9f5fff392d9a75e0938f",
     "14cb15b9db24d6d87fc8949f5f24efa6",
     "dd707239d1df2077b3fa3113284e407a",
@@ -16001,7 +15996,12 @@
     "812ce59bab5f97285984592c440eebb7",
     "1c49f3ed550eaa031e7ce7ab09ef8471",
     "56a3f6b333869647561d914628ba4a57",
-    "5faa8a9f1222dabe9a517e5ee69bfdbd"
+    "5faa8a9f1222dabe9a517e5ee69bfdbd",
+    "1c4f1f307ec32b07e6fff8858fcb2e2f",
+    "264abfe72f9be8ae319d3444b0b8192d",
+    "e32f56126179b36808af78b05b78e48b",
+    "9d805df5e4053aa7cc94d811d89983a3",
+    "953003b52938af39f8cdeeb0b3cad4d5"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "06 10 2 2026 esports geekay mena nbsp shifters siegegg stage",
       "ts": 1791254032.398492
+    },
+    {
+      "t": "2 5d app apple chart dokkaebi games indexkakao mmorpg mobile new popularity reached store tops world",
+      "ts": 1791278793.3095157
+    },
+    {
+      "t": "10 2 69 81 aion although dbeight hours left mixed mmorpg more out over overall played players playtime positive positively rat rate rating reviews sits steam store users who",
+      "ts": 1791278816.9310884
+    },
+    {
+      "t": "always before brings character class creation dilemmas dokkaebi easy even gat hanbok hunt magic mmorpg needed new pick playin reach role screen should solo starting supporter take taoist that when world you",
+      "ts": 1791278863.8319242
+    },
+    {
+      "t": "11 2026 7 based chicken chimaek days festival five host inc kraftonkrafton oct october offline opens party pubg samttuk seongsu venue whole will wwcd",
+      "ts": 1791278867.432841
+    },
+    {
+      "t": "abyss abysspearl added black children desert diseases donation event events expands has holding incurable mobile new pearl reward rewards",
+      "ts": 1791278870.989365
     }
   ]
 }
