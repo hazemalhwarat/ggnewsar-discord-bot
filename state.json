@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5BTHNGajUwLVVieUVocF9uREVMeno5V1RCRnkxVWp6dnh1UEoyOEtFRm8yVHFRODB0c0t1TGxCRm5kQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fMXlSejk0T2FMbWZLUW12WTBjXy0wazlET0pVVDYwTkI2WXpzV21JcFNKUkRVOGdRYnl2b0ozdnY4VXEwanBGazJ5aThYSHM4MGE1WVJXc24zNkJkMGtMSmp3?oc=5",
-    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE11ZkY5MFdSYllHclhudjJQbWR5VkMtUnl3S2FHMDVUaGtNN1NpRDZySkUta0dRdDlVRlNaNlU5aWNJVVhSNWFr?oc=5",
-    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BSHpCM0NLRldKWEQ3empQOUNiUkFDZTBVMXNmSG9YZFZfYjQzLXBDUnBRelhCMml2a3ZCUXJFUEdKMmIxdDh0Vw?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVURxLVNEZk5CMjFXaTZuS1YxWjk0OEQ3b1BEbnpuV2NRNFdHbE1RdkVlWFV4TzVvb1hzZHAzV2l4YnBRbVBnOG5WSW5rZjhwU3BCcHJZbkZuNWdXUEc5SXpmekRId2FxUFBWVmdrX1ptT216RzNMQ0JUbjF0YUdLWTNsZEduVko4MGFpSkJn?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1obEJPSllCZkpiTHFzX0t6a3k4aTEwWUs5bG91V3R4R0dVdmRhYnlocFRvZjZIQWU2anRpVXdSRjFUOTZ1eE8wMVhHQWN4S3hwQXZqdG5PZlp1eEpvWlRHb192WXZpY1k?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RV1N4TFJ5UktSV0ZVM2gyVXlsTEM2R21sX0lkR1lMYVlfWHhoNk4wUGZHbUQ1Y1BDNUNtT2NLeENLeW16Zm1Zd1BkN1NpZ0xFSjJKT3RKdW9KOWMyNDdiaFFKaXJxYi0zYlE?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE02dlpJNmVCT2k4bDZWUG5DSTJEcTBfMDExMTZJanJMX19wbnNfV3dFU2tLV2d4WEFtcjFOdUIxVmxMSXM5LWJ0WlpHZU5hNzdXaWNpV3d5M0htVzIzeVRqSzJaOGp4dl9WcElBUnJLWFVGYVRIbzBhUg?oc=5",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/tes-toplaner-zuian-set-to-miss-lol-worlds-2026-with-visa-issues/",
     "https://insider-gaming.com/wordle-hints-answer-october-7-2026-1936/",
     "https://insider-gaming.com/battlefield-6-season-5-las-vegas-area-51/",
-    "https://insider-gaming.com/marvel-rivals-unveils-avengers-infinity-war-endgame-game-modes-for-season-10-5/"
+    "https://insider-gaming.com/marvel-rivals-unveils-avengers-infinity-war-endgame-game-modes-for-season-10-5/",
+    "https://insider-gaming.com/karmine-corp-unpaid-wages-vatira-atow/",
+    "https://insider-gaming.com/best-gaming-chairs-amazon-prime-day-october-2026/",
+    "https://insider-gaming.com/undead-labs-boss-reflects-on-indie-dev-being-life-or-death/",
+    "https://insider-gaming.com/state-of-decay-3-several-thousand-players-a-day-game-pass/",
+    "https://insider-gaming.com/state-of-decay-3-reveal-was-so-early-because-of-anxiety-around-xboxs-plans/"
   ],
   "title_hashes": [
-    "a31914a49cfa814b7c74dde6fd59c478",
-    "166b5921944562cccaef7df4c55b5121",
-    "26e58e031a50b9538d815c3e1c6e1677",
-    "56a647a9c171ad4dfadcf3d7963610b4",
-    "6719c572c3c5a4f9d64d5fd8028646b4",
     "6c3d286324e13d5487422cf759460d1e",
     "f40b8389cfe8915efa983a2aae3d2ee7",
     "ea7e00c591dc351ca41be6c99027dfba",
@@ -16001,7 +15996,12 @@
     "eaaa365a3f675340a0968b4bfa0940dd",
     "398afc2f31c305f50e848a33c5096782",
     "8988ac10125b8e9ae791ca457e73e7de",
-    "36def90144608ac54ec610f053a28284"
+    "36def90144608ac54ec610f053a28284",
+    "35fcd1ab4ea9474b331d1612ed6d002d",
+    "03e737fb6b2ab40fd0b1dc2df23f396c",
+    "811b101227b28507c5b77673cef4bab0",
+    "a44a10b3ed3529c65dbb76e0ec7ad099",
+    "7b11147d0d94ceb9bc99fd04f5d3f4d7"
   ],
   "transfers": {
     "pages": {
@@ -21160,6 +21160,26 @@
     {
       "t": "10 5 amp avengers doomsday endgame event game has including infinity marvel modes netease next path post rivals seaso season stages two unveiled unveils war",
       "ts": 1791302868.2456107
+    },
+    {
+      "t": "accused accuses agency atow boss ceo corp coupez euros has hundred jérôme karmine league owed post prodigy rocket seg several stars thousand unpaid vatira wages",
+      "ts": 1791302874.73732
+    },
+    {
+      "t": "2026 amazon appeared been best chair chairs check courtesy day deals gaming october out picking post prime some thinking top you",
+      "ts": 1791302878.262535
+    },
+    {
+      "t": "8216 8217 being boss can death details dev discussed has here how independent indie labs life milestones missing more post reflects studio undead",
+      "ts": 1791302881.853915
+    },
+    {
+      "t": "8216 8217 because capture day decay gam game gets has manages pass players post presence several solid state still thanks thousand thousands",
+      "ts": 1791302885.480753
+    },
+    {
+      "t": "3 8217 about anxiety around because decay developers early game have led plans post reveal revealed state that uncertainty xbox",
+      "ts": 1791302889.0462267
     }
   ]
 }
