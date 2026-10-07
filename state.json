@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlQyNDR6RUV3UHFRLS11c0pUUXdzdEw5N0lqeU9zRnlHTzlCcmUzUHgtZThkbDlLX0h0SjIzZ3o1TFZVVm9vbjZkd0YyV3FkaVJkcWxsd1dfNlhTdVRBdUx0TDVsbjFNY1NWUFJxQlh4cGY2eHBuamNMVUVfUDFzMGxxWHhrRHVBQno3QmxlRVljUDBVcVV5OE9RMENIeDYtdXlQdTNRQWtkSlhrU2I3dXlMR0tQN00tMVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVZPS1hMaE56WnBacUd5MmkycVd6cE9qcEZEVlJqaDJFSF9xWlkzVGpDYWJ0aENSYUUxYmJmZi03a25VWlVrdDc5MUdGY2pjeGNKZTlqNGV2aS1Jd1ZyVnV1OVZFcDRLdXFnVFFNNVV0WGhFMnBhR3BaN3M2cmF3bTdORU00Y2xZODIwNVZDZEd0UWpJQ0FKdDdHZEtQMnhqeWYxSEtBTkRsZWZibG5NZ2RzSlVRMFZxNnJvYV9kOWU?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTXNvX1RJSFFXQS1OWGVOLS1vNTZsTHVvcExUSUl4MFhuWUdPQTRJVHRfVmhjakFxZW1Qc2ZSYi1KazRjblBMRVV3U1ZsTWJtQ1BDbEM1V0ZnTlk5Q29XZmo0ZktQV0Joc0hWM0xfNGswWTVPV3NuZS1ZM2ZiRHBHUGdHZHZJQVY4dVdRdXkwQVBUNEF3YVZVclRraG4?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpeDllMjFYNVhDSEtyVjFHbk5tdmlWNU5oU20wcUNfS3l0ZzJsc3ZwWXlTUEFTUGhSOUFoMVRQemdnMDU0TTUwN0R2V3hHMzBuc3BHbjV5eEEtcGxlTlRtbXlFNy05YXYtc2FyT0FFVk8ydXNZckphY3FwNkJBSW8?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mM1M1bU1zRFpoWkJ1MzA4UVNDNkU1ai1TSWpQWkE1T0tpMW85RU4yckJlYWhMbHBXbms2Sk1JTnF0d0xER25jbXhXdVl0OVl6NHA5dzRCd3Z3QTJmWlNJVktXOG85MFd0YUxmWmtYQ1VweWNWZV9FaUNB?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeThsZHBVNi1wUmJZZndEaTdFb2VZRk5sNVNYbVhQWGVxN0NwclM3S216S1UzZjN5eGJzTV9CSVgtekx5RW9XRms5Qjd3LUg1eXlUYXR2NEZLeWk2cHQwQ3hsWnZIY3BiTjYxeW9PMTRlX2NoVWFpckRDNWdZOTdsQWdZN2dsVV8wb2xIbWh5VkY2VzM5UVNUSXg1THZnUWg2dmNKS0cyTTM?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlIwLXdKVno0Tzkwd3VNb1g4RzRCY2x3dzFIbnJTakRNRFJhMjlpQUhOVV9zcTJ3RU9hM1ZUeEpCaDRTWkx1amtQLTlGWl93UFhEN3BUZXpMZTIwMEtjZW9SeGJjbk5fbnY0SXBHcVd1b1FHUDlIQVJaRUptLWcxVE1CdlZjejg2?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFpwdlVlS3Z1bWJ5NVFMM3pzSTdldHk1SW54US1zWjFtS2VPbUYyRm5iNTAwcGxmUEJZWFZOaU1zQnV1SXdRal9XOWZSTWxYM0VpZ2RmVkViaGpkc3U3VnlUMGNoT1daX3JfVHRnazI0dkl2cUFobGRaZE9IYUhzQWRRT2pZVnN0alhiWldoTXpTZW03LVZWeWpNQzZDdw?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeG5JMkdOTE55ZzhGRjN5MVg0VEVyZFVGSmU0U25aRG42RElXcnExZF9BMkhnNFhkYkQyeUt3b0VWdTV1SmdRMTVGU044cno0NXdiZTczVXVuSmdFVS0xYXdLa2FfaDFtX3o4Vm9hLXQxVXNLcE5XNi1qZ1BDcEFwTUd0dTkybzZXWjkxMw?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jXzZ6RWVWTFdaX1FROFhFR1ZNbThMVUhWQWtRWmV6RXpTSUoyZ3cyZEJXWlVmTmdXazJnMmpnOU9YRmpQdFZqeHEtWEhHamtReFBmVFRIRXl2X19UclVNX1hTS25PM1BwcTVsQQ?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmtYNTBoQnBEQlFtOTd3VGxEdnRXdEZkUm0tTnFVQzYyRFBULUYxQTZqblRQdU80Vk9OSFliMXFaYmNIQWZ3Z0FxQWxwVUFaMzVSakhiU3FPSUdxeWpyS3ZzT19iandMRWx3TFRSWmotMzBESzhPbWRJNVRFMkF2TGFWUWxGdmhGX3d4OE5JMEY5SFY2YWZiTjRmQ1dRQjgxV250SDVPeEpGSTltQ0g5enF6UHg?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbTVfeGY5c1hMQkxyOTBxLWhnVEFxNGo1ckxlWl9QaDkzckpOVWdTZ3NnZHRpS2lUU2V0OFJod1lqLUxLZktVNW5CZVFYeUdwbmZ0RVYtRXRsR0lValB0ZUxfMm5WdmcxTTRxOHBEZG5MOHpLVTFEU3hNU3doYnJuM2xsaExrNk5QeXZDOHIwTFptSTdvbjlrQk9TQTk2VEdRUGdfWFlnRGJPV2c?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWFsbzV6Vm1UUU1iLTY4TkJUYUZqampWZl9HQXVVZk1IWlB1RGdWN3A0cHNab05vcUF2UlJjMjJWanFoNHNvdVVFblY5SUFaVlRfUWxYdWNBTUt5Tm55cnV6VDEwNnktZlFXQm9DakNuUHdwX1dqVXRQY0liOVd0WA?oc=5",
@@ -7999,19 +7989,19 @@
     "https://insider-gaming.com/flyquest-progress-demacia-cup-global-invitational/",
     "https://insider-gaming.com/forza-horizon-6-physical-disc-on-ps5-pre-order-details-prices-revealed/",
     "https://insider-gaming.com/aion-2-best-class-for-beginners-which-class-pick/",
-    "https://insider-gaming.com/when-is-pve-coming-to-arc-raiders-pve-test-dates-explained/"
+    "https://insider-gaming.com/when-is-pve-coming-to-arc-raiders-pve-test-dates-explained/",
+    "https://insider-gaming.com/forza-horizon-6-ps5-release-date-revealed/",
+    "https://insider-gaming.com/canceled-perfect-dark-gameplay-footage-emerges-online/",
+    "https://insider-gaming.com/gta-6-cloud-misreport-shut-down-xbox/",
+    "https://insider-gaming.com/new-ape-escape-game-being-worked-on-its-claimed/",
+    "https://insider-gaming.com/resident-evil-requiem-writer-accidentally-reveals-dlc-plans/",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVTZLeGU1UW93ZmJXV3dmSWFlOGIwLU5DUGxMcTkzMVJvaUpzajdQaEtqVkYtNGJ6azFWM0pjYWZ3bWRtVk42dGdLV3RCU0VpMkd6V1ZCT2xUQjBCM1h5Rks3YWlKMnRQS1JrMUVrem9fVXAyU1RFMWZ2VmgxeDdKOFlXbXFPQzRJSUFHSFpyUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWjdCeWVIckNOaDRNY2pPTUhoNkxJM283bjV6OG51LURZRl96MkdFakdLbmRCRFR4dW5PZ3pDUmtoeUFWcmVGU1pDOGdfVm1hMUNIV1Q2NWswU3JlR2RxMHFsUlNocW5CNENJLXNyUGxsY082YzlMU2RUSmtELWg2R0xUQ21zWkVV?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RUXY5M0JWTWplY1J6eWpYdC1LRzFvb2V4WjVQV05laFl4RTcyNTJlUFpjbWhya1o1ZF9NZzVDa0w1TjFOSHNrSFdxTV9RQkJOajRteS0xbDF3Z1l4ZGw0MDEyRlVfUDE0ODF1MFpHZk13ZW9iQTdyaTBB?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/replay-restrictions-lol",
+    "https://www.hotspawn.com/dota2/news/all-skins-in-trove-of-terror-treasure-dota-2"
   ],
   "title_hashes": [
-    "15c67ee2178374b5c2ec3bdc5bd98763",
-    "db05c0e1284f6c28bc8cd56b71a2a059",
-    "22f9a1cd6119e1758ba43803182b95be",
-    "c3092d5f08eb64c0626e804f7ee80ded",
-    "b9ecb73e945c2e4f6c13666ae12e65ff",
-    "df61d7ce55be1da114e8b14dac2d3223",
-    "76c59c3dfa95a8f271c3796dec6da530",
-    "a2ea49545c4a8cf96524e73aa3bfdfec",
-    "79aa99558e1f1dd97e6e53c2b71d17ef",
-    "98b115a5be124e43e9d7a5e760542010",
     "b57c6bc2629d736fe65e4f7e1cfedd33",
     "23c1259d4c735507d3d3d89449528a3a",
     "13ccbcd8fb1ca5df7e447ec5c9289103",
@@ -16001,7 +15991,17 @@
     "72e0af03a34229233c655ee26471e753",
     "219a426fd0c4dc7c3663fa4f393c05d4",
     "c5f8ee4a8d2eebf9625ad1c630829b8a",
-    "04913322da5cb3ade4b8fc7d1a9174ae"
+    "04913322da5cb3ade4b8fc7d1a9174ae",
+    "1268e7ee1c809493c4e69eeb0091dfb7",
+    "821a947c592684c8557550d4b245b72e",
+    "8c5a7d522ada5df3b9dcdd28d75b8960",
+    "2ea2a392a7692b8703195ec26f5a5060",
+    "573657a94b7bbde0120aaffde89ebd29",
+    "5954f904c35a976a567318386c73858a",
+    "1fa79dea49adf60dd04d8f8ff77a200f",
+    "62265ba9474cdf1cbe3c18b1879a100a",
+    "035c0798887d14c7f4e27162f935a6b1",
+    "046f033126c8b54de1fdabe478ad0084"
   ],
   "transfers": {
     "pages": {
@@ -21092,6 +21092,26 @@
     {
       "t": "appeared arc coming dates explained find first getting here out post pve raiders scheduled test that toggle when",
       "ts": 1791379862.9410384
+    },
+    {
+      "t": "appeared canceled dark developer emerges first footage gameplay had has ins now online perfect post revealed sequel shooter",
+      "ts": 1791379868.2762542
+    },
+    {
+      "t": "6 8216 8217 about access addresses cloud cso down emerged gaming gta has launch media misreporting post recent reports shutting social streaming xbox",
+      "ts": 1791379871.7348547
+    },
+    {
+      "t": "8217 ape appeared bananas being claimed development escape first game learn more new positively post rumor true worked world would",
+      "ts": 1791379875.1996455
+    },
+    {
+      "t": "accidentally capcom development direction dlc evil expected finally have latch next onto pla plans post release requiem resident reveals story writer year",
+      "ts": 1791379878.6618397
+    },
+    {
+      "t": "2 8217 after all almost arcana average blessed bundled cash doesn dota finally has however into like look new really skins terror that this three treasure trove valve years",
+      "ts": 1791379882.0814397
     }
   ]
 }
