@@ -1,26 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JZmpRYXZLNHFybkZQcDRLVVllWnNFQW91YkxaYWZEdkFSdE1tQm8wejdVTkRva3ZvQVpFOXNrTkZrV1kyTlc1cnl6WGd4dDdGVUNMN0Ftb1dUaEhNOE1lNGU1eXhhdERMU3ZNNDFNY1hCMzFqakpLVA?oc=5",
-    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSHBvaXJNSWh6Smw2cDNVQ1kyaDJCNklHQ0J2bWI2eWR6ZGhOdGh4c2FydE9aSm1CMUZvbno3N0IwaUJIaE9wYmdzalZWeDdIc05HdHhrRVBnZHF2N3VqdktlZzdwWmlXcGxNUHFUTXY0SlM5R2NUcDZScVg4dXQzS3NTVXlIQmFObzg1MEFEX2RrZWZoMmRGblNyWS1RWnlxdWVoanczMnB0LXRsQTBhQkxMOUcxeC03enZDaEl0T3p4a1ZWcGt2ZGt1SEotWFZ1NU54c1NiQnhETlc5b2U0dU45OURReDNseFQ2dGZ6RVRTNHExWERZc3llVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tZFBrZDU3RUhWenlCSGtjdzlRWjRzRXpPZ1dNWk1FekhBQlFUajV0VDlpLWFyQkxDY0NiNWxiQ2lwZ3I2RlhDQTdlNmZ1NW9NS0dlNUppNmVxV2FOdFNBbjJ1VGZaaFp3?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE52ZE52al9xYjJWWHloT2p1WHVYallSTi1SWTM3dHFsQzhfWHN1NkhzbDB5U3lmRTA4bEJ1dFhUSlVuMW1OUXZWWFRvSGZRWXBUM1pKNG9MUVFJWjlBeVZBMkFYMXpOSS1IVTBFWXRQd1NHaWxfQk9hcndn?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGNnc2ZnSXBLNWcxY3FHWFVRQS1UcGdqUXdRcnJEUVBmT1Znc2JwMXdKNGpieDhpd1ZaTjhOaVd0S1F6OEcxM19RYzVvWThSam1nc3RnRkFOaGt2UkVKa3cwV2o0RF9SdW1uY2Q1NFRxQk5sU3R2X3pEV09rSlZfN0ZWOTRuVXpNc2ppMkI4emVUc2pGRWhja0t3?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaYUxnaEpOWV9ZOGx0YzY4SkdwM1BsS1pNWFhuVTBNYmFDZzFzOTgxLXg4RWxqcnl2b2hQNVU0RUdLMjE5UzdEV3JFd2FheER3bG9xWFJHa3V4LThfLWlJSVVMcU1pQkJ2eHc5MGJhTEtiN0djNDhvdE9iSDJhQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlVmZ3JadHJ2VUtfZGZ6OHVfT0VpTHBtc3JhbUJZNFBKX2d6empnbm5Pd3laT2V1Nl9uOGpISXVfLWJob1JpbU9GcVpfUUw1TDZfd3Z5U2FRUThaeFV6dkFHcnVKeTdQcG9VU0JSRy1jWHlMSkZxSlkxWGh3X0tvQXM3dlo0RVdNbmFEVVl0Y3g?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfeGIwZ3VoUExQQWRKeEdKMDBxdEZvbS16YVVDR3lpUmxXTUYwREcxazlUT1U2SHRjMnhVMU5GMGRwcVJaZ1A4V2JNd05qUUhoYzRVNTlIYzQ2OFBQMHVSM2ladktmeVVNMkhTZXg4QjNJMVN5azRDaA?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lTF8xaXdKd3MtUVpaMmF3WGtUU3VvMEV6bU9tcmZCSThkckkyOHdCMGtsODByN2JhR0NwRXZnbHJGSVJEaFczblFpelJNdHJfWnBCYjIxT1YtTWN1OXJJUWZ0UEw1LWtUNERZ?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOEw3dDl6UWZqbVNUWXdjcnk0NjRzMjJKSmlKUUd2ZVh3WEk5NXQ2UjZBTHRDYWNSMTVMbXBOUnhleFpnUEEzREZZYTEwN0l1cVgybmw0LW8yUVhtaEd6R0lYWEt3bzE2LWo2d0tWZzdLdzNxak9XTHhTTjBwQnd3blF6YlVWYm1QdWRnTjNlMWJjX3BiWHVmM05pcTBOV3VJME83TUE5RkQ4dzlvVEdn?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZGFaVDlDbXFjYWZjX0xoRUk3bFZVYlc0TWFVWWtPN0U4bHMwRE9Gb01rZjNpOHUtV2pIbG9hR0lPRjVUODQySmYyT3dKdFp4QkFjRVB2NlJVY1RBSVZsMEZ6NmVJNGUxOVFmY3g1ZVVGZVIwTVAzeHBIR09lWlY0YnluS3RyUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZlJkUjdMd0VpUXhGdzRwNXJ5OTVycTJrYVd6OTVaWXhxX1c1VENqMG0zTEF6VGtCMUJXVXhNbDRoR3F5aWlTYUk5dlhzdWwxaDNta3hLNU5Sb2sxZXJuZGxNeF96QnJUUjZoU2tpWnEwcVRFR2syN0hxcmpjbjRxc0lPOW42ZDd5UUhfNjBNSEhFUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPckFFWXVZdXZxblhCczhpQVdGWEx0VGlLUDhlcVJTT3VHbW01czZ1Vl8wQVlWbWo4VENIbEk0eG5DdVF4Zk9HNUxGTGNmSndXcEotNEt1WElEem1aRW5xdUJJYnB6c0hFXzhCR1ZZTnAzajhia3NGN3RnZ01BYTZrVjdsUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTF9NSUdiekJjNkZxUFlmY0dYUXZ6ZnFFSEVpekdHaXU2YmRCclJBY1pxYmp4ZUxta3V6S3FHT2QybE9lZ196NVVnRHdaS3RLZGV4YkNrNUhWdDE4TXFRbUdEa1ctakFYc0dvYVlIdkcwSnZ2Mk4zV0Y3VHl4aG5kNnV3NDl5SkVsVDViVXFucjc4VEt5VW9TRTkwUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2pCS1IwUVlRQjRlNG5ONFdZVjNtZnJWSWs5N1ZCd0FtRjV4SHpDNFR4OEtpNjF5T25JN3VkZ0NILVNEcy00OHBydVNkdU8wN1lUczB3TnpfbFpPank4NVlvM0c2c2E3YzhJOWxhUXNnRWladFczYXpyMFNYd1U0WkZEMDctdFdRMkdCLUswaUtyTUpGS2kxdg?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUgtalEwcFpWbEpBVVo0MjFRdUtuUE5aUHIwVDREN1JsVVN3NkxManctcEFseXVBdXBEZ2xaWXB2ams1dmdla2twcWxlbXRlS1hwV1dmUmJzbkdYSTVzZDUyby03S3hBSzRyV1QtM0UyQnAtcXRfV1o1SmZtMlBhZlV6N0k4MXFHT1lNQnpTeUJnSXN0bm4tUDFmOGdrSVhfX2NV?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFM2VEx0cE1RNzg4RDR4UFFQOURzSjVMcXVHS2dKX25EejdEZXlseUtlcXJjNVZ2YkpzcWtvcUR6dXZhODI5a1ZNNDRhUzZ0QWVMa2F2WlVNYS12cTk3WnhKc1pwREE1R0Rrb2lXMWpaazdDN1JCeG1tOXVKME1LLWpoU0Y1ajR3Y2Q5bEI0UE5RLTljelN4cXdtbWp5dWpNVFpPS1N2TjU4ZVk?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOFBoY3RXV1NncVU3RlVENkZiMEthWXd4cXRnOG5taHUtUktHbmhEbHVpNFdNS21sb3dya0J1aHZBdHZLblY1dFk5QjFuNW5tS1VmX2dkTnFYM3dUNkRybjlxaDBFZzlXbV96SWVVYjdKbHI3Z2Qwb1owRU9ZNXNRd2RGcnpZOU5fM3ZRVnB1aGVTOWlsVFZuRA?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEh0amhlTkNhMTd3SUkwNUxicHI1MmhsdFBkRXhsejRHZ19pQm1lTDJuRklzVTJ6WE9UbE9aSWJFLUNfMFQ5SDlsOGt0a0NSSHk3SFFJVU1WVU9tWWpaNVlJSDQxeU1JalNZRGhrdTczdkg0S1k2LTd6alVTSTBKa3pIV1hDQ2tTRG1Ndkx1MjVIbW84YXNaN2pXTmc2blBlQy1pMl83LXhyNTA?oc=5",
-    "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQndXRTlFTEZSMWd5N0xKWGhZbHltZnRxaTNvY2hiQmg4YTJPS3k1RTRMMktVTHNYOVJwaVZtTGVWSVEyQmNZUTQtUWZwSmVKamltY3oxZk9NR0wyb3B5cHp3bHpsZGZ0ZTgxX3dTcWVZenlkVUlWQWZidUpoQWFIUlY2U2ZWZkJRZHZtNFdPWnp4d2d5dUVRY3JnVUJfM25tel9tM201N050X05oRU42Wmx5TExUU3VaaVVpTFdCb2VrOGdXVDl2MzBlSVN0bmxXVzJSYWZkOUt5alJBSlNyQUJfc0VBUUtlMFAxQUFZUGYzZXA4Tk9lcTVsY2xFS3pNcVhHV1RuVmh2UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQblo5QXpGcnhjVFpTajFRWmlOdjBYbEhhMm9oZDBiLUFpTlYtM1B5RnJKNXBseGxmY2FSeXNFZ1lWSXhoczBXN1VVWTdTaHY4RXNRODZsYmZzcXJNODd3blA2UnFYeFJLbVhqTXp6cUN1V1RsYmo4X3FoOXBsTDBOQkZ2RnNIM2E1RW1PalNWM0RPU3V0cmlBc0hWa2lMOEo5N25PRERrWQ?oc=5",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnFsbUJDZDQ4RG5SbzBGTDU3VmoxQ2g3NWd3WUl4TUVQcXVUVVR3NUZMZ1pZWkEtZ2JndkJhbldqa2RLdUZYeFRyT2kxUWxmSHpYZTFnMWVhdDZ6em1xVl9ldFNiTTlMc0p5VHVDTmVsaVBpN2MwYUNaNE9pZVVRanExaU5SZmRTOFhYMHZ1VWNQRmJzOVFaLUdHMFAwMHJ5UmtpMXRMZkVQSDQwb1ByaDJmRlB0TXppRWRVcHBveG1Jdw?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQajdlQzNGUHBSZUpfdnViNjFBSUpZaWItbmRONEZIaW9YUmJta3NZVzA5Y3ZlUldWOGV6c2l2T085bkxGT1Zjb3V2ZFNKeUZYM0l1X1NEODQ1ZDBtNmlLd2JuSFc0WFNlVHNwc25IM2IwRUlnQ1VMNDdRMHZidUgzS29rRHpUdzlEdzlNbG5qTElzYnJRbVhESU9wa2lucXpaMGpZRGpPM0k1TnNic0ZURXJ6bUpaVzBTZUJBQTA4ZWhaN3V2cGcwT1RMZjFId3c?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVUIyci1yc0kyVDZFOU5vU3hSUlFSX1hwMkZoeU95MVpjVUtaVURfSnZXb3F3WHZqd3QtS2ZqRUtFQXRDNHJtU2JzWE14OUNXa2lsSW94MXJvRGNfZ0FzbVh2YkN1VGdaRFUyU0pqLUtqWjNTeEFLckRENXprcHVTLUhia3lEYjBzWDlocWxoUG1wdHBSQ3l2RWs0TFE4Nmc?oc=5",
@@ -7999,30 +7978,30 @@
     "https://www.talkesport.com/gta-6/gta-6-xbox-cloud-gaming-rumor-debunked/",
     "https://www.talkesport.com/marvel-rivals/marvel-rivals-season-10-5-patch-notes/",
     "https://www.talkesport.com/gta-6/gta-6-discord-campaign-leak/",
-    "https://www.talkesport.com/news/fortnite/fortnite-one-piece-collab-teased/"
+    "https://www.talkesport.com/news/fortnite/fortnite-one-piece-collab-teased/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/leak-bgmis-new-character-kiaraa-comes-with-a-world-boss-style-battle/",
+    "https://www.talkesport.com/news/lol/lol-patch-26-20-notes/",
+    "https://www.talkesport.com/news/esports/justin-leads-bmsd-2026-mvp-race-ahead-of-semi-finals/",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ25pVUktNTZzVDNQWE9obng2NGpySGZRUkVWLXNCTk82Szd6WVl1XzY0bV9kZGlheUl3MWpZbUpxTnZLOFNySTROVFNFNWF1akZGS0FNNEhPNkIyQVFOcjBhNjVJUmRUcHNQMnlyNUNhUTEtQ1BJYjdzSzdJM29YN3J3?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNk9rbGg3YnEwOWM5ZzRIUFlqQzBtYnRKcVJBem9MNjZPWmxkbDVaamxjRVZaVEliMXNET0pSTE5ycTFucy1Dcm5qckxJMEZCUm5BYjZxLWJGejdaOUFnX3dpWVBGM1pMQWVaYWMwVm03aG14VEdJcEFMMnh1M04zOE1PamM0bHV1VF9VdDhHYU1RN1Nsc2RsMjVsUjdxak9NRVQyVzdn?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2T1U4RnhjVFRmWE5MNjQ4TVkxOTI5eFFuZ1FhSXdvNFBSTlh1Tk1PWVMzN0lKel9YeXBCQjRyRlFwbGY4a2o1QVdHOXl4SUZpS1BrdXZZTXRQZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZmdEVWJsSEtEY29kWnN3RmdRN19wYk5XTzRNcG5XODMtZE9MdzRHNEY2aTRoQzJDNzd5bDdwSmJmSmRMRVpkOUNTSUJ0RjJFQzNaTks3cXJWM2VmSzRzdnJVd1BNTXlsVENPTkxVd1d6dGkwdUxtX0Njc0k2cm9VX3dBTXp3dDRFUGc?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2d3ZG1UUl95WDNBNHJnbEtpU2ZCcUFodHJDbUptNWJVaHFBUk9NN3ZER1l4dG1yalNUd2hWSlpFdUpsNTI0VnR1ODRscnNWdXBGcXhmVk4xeUNRREFySWluT3dBQjBnSjhjWFFVMERuOUJ0VnhqQXhsSVZudGFWcFp5UzQ4cXo5QllCUVJMZ0N3NkVBRUV4QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BalRGY3BVOVM1WHBhZUF5MzV1ZHV6NWVNVlBOcG9Pck91TE1ZNkRBZjk2UnQ5NExmdEcydm54TU54elIyWGJGVXp6SkR2eVVIaHpydi1EUEdVQmZEWFdZaFVGV2k2a2VFTEUybEUyb2VEMHFMZko1RQ?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXejRvcmx2VUowLXZSX1VWbmR6aTZLVkMwcUc0UEx5VHdVWVY2enE0VmEtTk93NnJVZGtaWXE0TXFSR1EySFVaX0xDNGx1S3dXVWVaSE1SVm9wbU95WWdQWjYwZjk5OEtITHlr?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5nMG9HYnNYY0VFaWR1dld4ZnA1MTFVRWpkWkFZRURIeWRxV1BqREVrcHVSSENnbnN5S3RsWF8zMzBlOThtVVhxZENBZGZEWWpIc3hmcmJ5TGZmV2JTRGQ2Q2g1dkp0QVN0Y1VPRmNLQmpwdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd2pOS0JkNjZ3ZVlPNmw3eGk1cjdxaFE4MVNZV3N5U1A1M3EwZ0VBOVNaUUI3Q2xEejlreXR4cTQ5cUF5ajVLZ1U1cHIwcVVyQkJ6SFRvY185NUxYMFJoZGxHZC1zZTJqRXp6MjNERVluMWZMUkpwWkY4aFA5QUZSY05tNm5FbjVWQkpaSkFfOGpORTJpc1ctTEczLThHU3lNRC1PdEVPaG9TQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQejhxRXl3b0ZBM0pHMEZyOXlHSEIxTDRNdHZxc2ZwOF8tYVdiemxOay1HNHhmbjQ0SXY1TDJHWE1Odi15MWhwTjNHelF1XzhBNWUwYzZaUDQ5ZlVMeVNTQ1A5R25oSldUZzJBVkVhN2lxUDZFVDRtZGtpVTBQVlF3X0hRT1JzUGZOUTdxVkpfeHliTTI1YXhqeU1Ha19wU3NxQnBzM2ExXzZ1cG93N19mbkZWMnVOTjZzMlpzdHE1cTc4cV93bTBadk5uMWVrNkhSVVBr?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwdU81QVR3RjlnMG5TclFOcW5wQUVPSXZFZUFDOHg4QlFRbmxuWTUyZnh5LWFlYmY3WVBuUldtVjZjWGd1UTM0NGlCVWFrT0JsakU0MGxsUTYwbHZBNmo1RHZaTm9BRmdTVE1FdXpQdlg?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5dHplSktpUWdZRHZVMHlWS3BwamoxcjZ3REIzVHFET3BvRWRLWWRrWG8wZ2tlbFFTZHlmZkhwcWVSaTFhZXVHaEtEU1ZPZG5Fc1BvMHAyVFhKaEI0OFlRNElqTnNRdTdMNnRZY0RoZnV1enVW?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4V1g3M1QxcXNtbEMwR3kxUlZyLThmMkNPWHFUWXRBSjd4Tl9kVVdtOFpCb0dBaXp5ZVBTRG5kSlQ0VzBJMHkzS3pqU2E?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMmFtRmI1VlM2T2s3Q19qN2x4ZmNUQVRnclpQRHNaSms2N3VWR2V2Q0E0bl93RGtFWEd1M2ZzdjMzZ0xkMFZueU1NUTJTelFncDJuRWRWOW5wYVRMelpCNWNWeUJKLVhGcFlMN3EzS1NIT1ozaWVwNmFhQW5KRnJ3eWx1dnVWVnV1ekxxTFFPamV1Y2NRNVM1OVNiQ295WVVzRHJzeEsxVlQ0ZW9OSUU2QWxBNVhwNzNzNjZWVkd3NHV5b3RycjF5OWo1MHZaaGxoeUtrdnVTTGZlUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWWV6UGs4Tksydk1tMzZWS25VRDhqVTlXSVQ3dDMzTFJaWmV3dzZJOTdQb0FwRElNNTlLYllGQVN1YjF5OHhPQ3d4SDJ0dEw5VXlyVTFlWE1rRU9xTzJrSHNjUjRZdEM2eHI5X1VneFMtZkpSZ3pFS05wb2Y5VVpCZk8tcDF5dTVIVWtBMExlYw?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KRVR1eDQ4U2dhSzBsTzU1X0hOWURwMG4wRXFTSmZNNnphdVNtanNPcHNMQTRfLVhZWThnd3VWS2VmbVRTTVU1Q1NNcE9hZFpQZ3ZQZ2NTNmstVXZ2b3BwQWR5dUVCcjk2bDdQS2VBa2w4czQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUdOMFEzeWpXZ251R2o0bm1xS2Z4dURwS1l3aFpOZWoxRWc1RXFJQ2NfSFB0aU9NQkE5UTZLQnhMRmhYV0NLNjFVR2Z4R0JSNUZ1Q0Y3MGcxcnNfUkdmbldoLXFuS3lOUmlqS0szeTAyLXFOUGYtb1NhSnRvQzZlMFVfbDFFUlFC?oc=5",
+    "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform"
   ],
   "title_hashes": [
-    "957ae35ade18026d451f1da0a8792509",
-    "317e90739be9848da35152fa12750ddf",
-    "60206a3a8e4d7bc48544705353ca919c",
-    "f37f75fb3e5314cd76d20b9e2f7d30c0",
-    "f57e76521002f8c38385afe85ea5bcb8",
-    "43843afd6a8c22b8aa4e6d6df6226494",
-    "b06bff22d2f269d77b284ec35cf6af90",
-    "121ccfa5f93348f91d005d230574ba48",
-    "1ecbdc97b0dd1a3882b4be0dda6749ab",
-    "85d08411f5d0193a158fb34450d1e446",
-    "0d7b47b8c40e6618bb4b54ec89983285",
-    "d6c341cb6ea79c9f51c67791c1720bf6",
-    "240ec6ced1f3c201d51dfe65b7867f5b",
-    "bf991f9be7b1cc80255def5f2d2e74fd",
-    "dac55e3d72319ddb6703fea3dcc3f1c3",
-    "c86c4a73e0365227e941a70a75556ba7",
-    "897e9bf83efcde1f63b0a88d14d141be",
-    "23282dfba3227dbe453e21375a69bf6b",
-    "f4c330f2db6c5bda300053dd136bb54f",
-    "fe88f20d84982be6a5b89f2220d491f0",
-    "6b6e2b8df4a7435a6a26aa734cda2f1d",
     "81b59ad914e71011fe6d2a85603069d3",
     "a307057611edb53a7afd7d276983f27c",
     "3c61fe3ddc720879bf6a6483f1a7b746",
@@ -16001,7 +15980,28 @@
     "4e52ad020cb66c333278ca8155f183c6",
     "efa386ff13bc27571bb297066c535a41",
     "2f421d7c45bde5d67e6c6367e33131e7",
-    "4ef35f74c889e08359476fa8484c184e"
+    "4ef35f74c889e08359476fa8484c184e",
+    "3232e6fe4107299f1446c039c447c141",
+    "cf5061629296e0b335ad674dd6146939",
+    "154f3b5b1e76aceda5cf27050e4f718b",
+    "dc566092833ebb036be0526493658003",
+    "b52662c6fcac3e4307ccea42d909a10e",
+    "94704b7f5022f79ba69d11bf283fdc79",
+    "139def17a360ad96f7dc4ba856b9153a",
+    "a468943c331373cfbc1560abc731be6d",
+    "e5c4c1fd5a2512627e98c90699f33c57",
+    "050c38388dbadeafebf21dd01a51d405",
+    "22f9a1cd6119e1758ba43803182b95be",
+    "db05c0e1284f6c28bc8cd56b71a2a059",
+    "df61d7ce55be1da114e8b14dac2d3223",
+    "76c59c3dfa95a8f271c3796dec6da530",
+    "a2ea49545c4a8cf96524e73aa3bfdfec",
+    "b57c6bc2629d736fe65e4f7e1cfedd33",
+    "a5aa5f80dbb025b248046966a25fb9da",
+    "94ed5073ae5cc5330f6f7ee86d69cf52",
+    "94fcbdf1d9657f26a2f1e4cda3b39337",
+    "ac4197b72af227e45eeb58391c088725",
+    "643a66ff3807a94de5633f3f49de1f4d"
   ],
   "transfers": {
     "pages": {
@@ -21172,6 +21172,26 @@
     {
       "t": "2026 6 account chainsaw collab demon epic fan featuring first fortnite games gets hint its man october official one piece post received replied slayer tease",
       "ts": 1791379940.2721548
+    },
+    {
+      "t": "appears battle bgmi boss celestial character comes coming doing has hunting introduce kiaraa leak learned may mysterious named new not ones players set something style talkesport that this time world",
+      "ts": 1791379945.3625436
+    },
+    {
+      "t": "11 20 2026 26 5 6 7 buffs champ champions championship games goes live lol more nerfs notes october patch published riot rocketbelt update used version will world worlds",
+      "ts": 1791379948.8675742
+    },
+    {
+      "t": "2026 8 ahead alongside also battle begin bmsd currently finals getting grand interesting justin leads mvp october qualification race semi set title tournament",
+      "ts": 1791379952.3143637
+    },
+    {
+      "t": "blast esports geekay major nbsp osaka qualify r6 siegegg",
+      "ts": 1791379955.8637896
+    },
+    {
+      "t": "agents around based creation game games generating generative google host language launch marks more natural new platform playground prompts read soon today unity unveils using version web will",
+      "ts": 1791379959.3730135
     }
   ]
 }
