@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pMzU3NXJQLXB4SXRyOUhMMl8yUlgzZXJSS1BSSWUtRzNxTG5kTlh0RHhBUnU4dFlQczNIaUpsa1hicWV0dUFOeXBxSXRDaU5FX29sWGNRcEdWQXFKb2RqZGZSbERIZDBXRy1SUFNFVmpTdWRjMUtz?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWJjZTJLMzE5UHdEdFRyTVhfUHVmdkdIcFdGVDFCeklHU1FCYUYwSldYSWhzRk45OWpfbFJnYlpLc3RFUU1kR3ZoM1lmZTY5alUxZWN2Q1d6QTk3bzUyLVVuUmNkeVlEOGJSX2JhMW5pd21fR28zSGVJZHVSUTR6MnR4WkhTZU44a0hMSkIwZXFveng3eFNtSnBnTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHY0cl94czlZcmZ5S2F5MEQxaWw1Wkx6bk5BbG9qN043T3RWVjlCSUVGSHRiOTktM2dmcGJ1WEZ2VHZ2MXB6ZHp5a2h0akVVNnNBdG80eHNGS0NtSGlIbGtFVjNocl9HbUV4UUtnUkZRRXhOeVlLRHZpUmdUMFZCeWtBazN0OWlpa1lSSjc3LWhoNlBVaGRodVFyVTZIclNweHFPV0JLRFpBVDRpQzUtSA?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlZqRkpkUVJaaU1LeEQ1NEJJSm4xd3FvVjlhOHZPbXBQcVlnR09OVVBkaWFkSXZ4OUhFUV9KYmczVjBjdzBMSERBbG9qSHJCX0V0UWZCWFR1X0VXMFIxaWdxTEVEMzRvNFk4SGJGaEx4SUMwaVN3M0tJaURZQXdjNDJqSUt3ZXg2QTYzdVV1czlSemlNWG5F?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZDhNcFNVNktPeE9zM2lZOFZzYXRDVWoxSGdFSXNfQ1h3S0c4c1RKYTQ4ZnBYWUlLNkozTlFpVWRLR1ctbDZjcHZZamFMSEV6MXBENkpHZEZYZVlWV0x0eDZPOGFjWEk4QkU0T3F0UmMyY2ZKR05xU2RIektPc1BJTy00UGhPRlZXSEhUbTJvT1RCRFc5OFE?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcm5TX0dhR1pkd3E0OWdZQ0xJRkx4cGhXMWlGOU9EN1pUbVM3V3ZqT0VWVGlYUVB1Rm1ZaGtXaXdPMWtuaFNGblprazRKU3lGM3ozNGhadFo5VThpZkExRWVTZzY2alNKbVVKRHZ2TF9BekRsNDl6ai1IZ2ZUVVFhMWFYOUJlajdVRnViTmJ6TnZmZjMwUEVNVVduNE9hejgwNzBNUEtB?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE16ejRnX2Fyb0pnSDR0WmxzUndLczNMZVFqV2FNRnNHZHBLMF9GQk0za0dSSjNYb2VtNW9xazd5NjhYX0hvMzdSeENZblVvUEM1cThYSTl2dEZCOGE5bDFxdHc0Q0hUaEwxWEVYLTY5Y2dlcjBjUGc?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0ZpdElfemtsV2RzRjF3NUdUb0wxa1loWjMyQ1NueG1COXJRMndqQ0RSdEs0S29wWWZzeGZfUHNhaFI4ZXVXci1rcjV5VjF2emU3U0RPWGtnckVhZjlJQ1hnVWtScnVWMU5yNTBrU2dGanN3MEdqYmRhY1dTMGVKbnY3SkZiTnlfSEZv?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd2pOS0JkNjZ3ZVlPNmw3eGk1cjdxaFE4MVNZV3N5U1A1M3EwZ0VBOVNaUUI3Q2xEejlreXR4cTQ5cUF5ajVLZ1U1cHIwcVVyQkJ6SFRvY185NUxYMFJoZGxHZC1zZTJqRXp6MjNERVluMWZMUkpwWkY4aFA5QUZSY05tNm5FbjVWQkpaSkFfOGpORTJpc1ctTEczLThHU3lNRC1PdEVPaG9TQQ?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE5nMG9HYnNYY0VFaWR1dld4ZnA1MTFVRWpkWkFZRURIeWRxV1BqREVrcHVSSENnbnN5S3RsWF8zMzBlOThtVVhxZENBZGZEWWpIc3hmcmJ5TGZmV2JTRGQ2Q2g1dkp0QVN0Y1VPRmNLQmpwdw?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqdzhqLUpveVVyS1E1V1BOcE1SVkwzZ2dLOVVDaVNJSlZ2VVlQWWN5Q0tkbU9QNGduS3RWOFVSenFqUDE5MUVjbC1CWk5qbmNHa2tQaGhOVjVLOEJaLXFoaFRLdlJXS3c?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/26895/black-desert-revamps-character-level-growth-system",
     "https://www.invenglobal.com/articles/26894/line-games-the-genesis-war-mobile-reaches-no-1-in-sales-on-one-store",
     "https://www.invenglobal.com/articles/26893/korean-government-outlines-blueprint-for-korea-game-museum",
-    "https://www.invenglobal.com/articles/26891/next-up-is-electric-solo-raid-which-nikkes-and-favorite-items-should-you-prepare"
+    "https://www.invenglobal.com/articles/26891/next-up-is-electric-solo-raid-which-nikkes-and-favorite-items-should-you-prepare",
+    "https://www.invenglobal.com/articles/26890/promo-code-escape-from-tarkov-patch-120-overhauls-pve-mode",
+    "https://www.invenglobal.com/articles/26889/max-level-cap-expansion-and-exp-rework-black-desert-oct-7-patch-summary",
+    "https://www.invenglobal.com/articles/26888/earn-blessings-and-new-skills-via-quests-october-7-patch-summary",
+    "https://www.invenglobal.com/articles/26887/bunny-garden-2-korean-version-confirmed-for-release-on-november-26",
+    "https://www.invenglobal.com/articles/26886/level-5s-akihiro-hino-to-share-experience-in-creating-new-ip",
+    "https://www.invenglobal.com/articles/26885/woochi-the-wayfarer-casts-actor-for-protagonist-jeon-woo-chi",
+    "https://www.invenglobal.com/articles/26884/lineage-w-adds-2-new-world-dungeons-and-launches-warlords-collaboration",
+    "https://www.invenglobal.com/articles/26883/after-promising-a-human-centered-festival-agf-sparks-fan-backlash-with-ai-generated-teaser-video"
   ],
   "title_hashes": [
-    "83f7422e23b3146e9cd248da0c198c03",
-    "97fc69eaec8f63b5f8c915efe5551569",
-    "8f3c96dccf38b001c97137903e13eb64",
-    "dac0d5410f719cf2a09bd771af223e93",
-    "cce7a1310f1bf3a21c1b554d512106b5",
-    "e5bea9a864d5b94d76ebdaaf43d66f4d",
-    "141a89d41eec4ff0cfcb6199f687e044",
-    "8f9e047ebd768f5555b18f4e59156f55",
     "59639b07fab49abf007c4b293061b5d2",
     "5607f754baf96a9aa11cd31dcc9f455d",
     "35acb692109a1cc0815132f22b85e70e",
@@ -16001,7 +15993,15 @@
     "f97374dd97d69d7a1f342583e9abd336",
     "70d39e51227868a47b88bd923cdce2e9",
     "8b0f7baffd45c5b9e35c434954cb88f8",
-    "34c6d0c79f5c17f24c02a53d8558a8c9"
+    "34c6d0c79f5c17f24c02a53d8558a8c9",
+    "a87a41dc74c1a5bb60b60d8cccf724b5",
+    "ce3b585a0f3c28b2788b24237be3f589",
+    "c2bfa6761bf54d7edfdde540e2c6e794",
+    "57b1daf739a4bf86ddea81da21aaa409",
+    "da7109188396b583d0441ce4b69a23b1",
+    "3d4e4db7e6a6b5c4463a3d2b0f2dbb53",
+    "22c7d71b87b7f0894e9ad346d8a4d17a",
+    "6f5ad3299d3e5461f68e3668f9bad971"
   ],
   "transfers": {
     "pages": {
@@ -21132,6 +21132,26 @@
     {
       "t": "15 boss code electric favorite items kicks next nikkes october off prepare raid raise should solo this time weakness which you",
       "ts": 1791353823.3169603
+    },
+    {
+      "t": "2 26 adventure announced arc asia bunny confirmed developed game garden korean nintendo november qureate release romance switch system that version will works worksarc",
+      "ts": 1791353828.7500837
+    },
+    {
+      "t": "404 5 akihiro creating creator events experience found foundshibuya game hino hold hub level new not share talk will yoshi",
+      "ts": 1791353832.2744033
+    },
+    {
+      "t": "actor casts chi currently development games image jeon lorevault lorevaultthe nexon portray protagonist stud under wayfarer who will woo woochi",
+      "ts": 1791353835.8598845
+    },
+    {
+      "t": "2 7 adds collaboration dungeons launches lineage ncsoft new october released update warlords wednesday world",
+      "ts": 1791353839.448348
+    },
+    {
+      "t": "2026 after agf ahead animation backlash centered controversy courted erupted fan festival gaming generated has human its korea months official opening premier promising south sparks teaser two video when",
+      "ts": 1791353843.0780213
     }
   ]
 }
