@@ -1,17 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VUW1nX1RrVkp2dHBwQzR3WkxYSlFxT0UwZVVSXy1qVVNZWEdSTlI3NGEya0ZOYVRsYUxFUDF5SV9Ddkd5V3lDbA?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RUm1tVUlGbU5tQl9xaHM5cTRqbUdlV21qTUN2QXFIVVB3SWhHcGZoWG1RVmVLZUlyMGNZcXpoR1NZeEd1MjVUeWR4TEUxNVJfWGlz?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjNkQVNMaTRBbnRxaENwLUJMVU5BU2xvVWw3cTFpeEd5YkVGTzRKNXNZa25PSmxZbDNOam1KMTNzUlBscDE5UTdMUENOZm9FMUYyc0dhdkF2S3JYSzIwVkFqU2NxSWkxQzA0LUhPMkZxODJBbmxuR3dxSjlUSEZwc3hWb1RkZHV0M1pqeTFhNFR5TDg?oc=5",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcWc2YzBUdlYyc3BFbkdrc0g3TUs5YWJDWU9kVEpvMnAtS0pILTZDN19vYXJxb1d5aFFhYVlFVUxxbms4b3NIY0dZMGZYbXMyZVh1UjJDaHlyeXI5eU1hYzlPbk9USXROejhFRHVjblkzQm8tYUJTY2NxT1YzS0VZWG5YNTk1ZjhvbUsxQUxvTGlOcTNJQ1NJckE5Ymk5OVpEV1M2MnhmeGhfcmFuTWR5MmljOUM4ZUNlVm1LM1U1aFpqcTFGdzlMUy1MTHk2Y0lrWmc?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXkzeFNubHNwd2VPejNEdE1RaXpFaTAtSzRoMVBsTERMM3Q1d1ozQl92QXJIMWhBX1N3MkxRbzliRXI5TWJodzNhbmZsNUVnOGZiSndkU2NTamcxV2FPN1BOUzNvN1FWQ2JudmR1eU9VZ3dCVmRYMU9fcEpXdGo3dEQ0Tjl0d25GVEtUd2ViWXV4N19aa0Z1V2Uza0l0cEdRNkhYN21R?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mX2E4emFpRkZUSGhFcS1zT1BUQ0ZGcHppQ3M5X2JUcUxOc2pNdEJWWnducEw2V0tQZzAwb1FSNjltQjJ4UmJmNU00eWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NTktsRGVXWWVKMUtYM0wxN2RXRWo5ZXV2M2x6SDB1T3RVZmtRSUphTjJsS3lhcm0weVJrTWVZb3UybWx0SWZ1VHNJeWtWTVJ3UzJQZjN5M2lQczhT?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd0JMcjBjelp5ZGt0UUdLZUV0Z2FEcHJDRkZZMFJycDVWZ1U2MFJnUFRFeTROVXNPVWlaZE5FLS1CSWVzX09QeWpyOVpWcEZ3Vm9mWU5Zam92YXJJUmVhRVBPeU9QZHdrcVRVTDZHU015YlkyY3pMbGZ2ek9ad2lKcnFSa3ZtS0JFcWxZU05penpGTHJ3SFHSAaoBQVVfeXFMT0x2bERBckx0b1dWNHpqVDA2aGlud1gxWXNTYU5Wb3Rrak1yS1p5Vmg1cklBMDJsVUlRXzYzbFUyczBiU195c19XcmdBekROd3ZEZkphWXVUMmdBeUloX1RTUXM4UVBBYXFzQ3V3bkxCSGhmYm9LaWo5d3NZSTFSVTk0WTRyYzR3eTRtcmZ5eFdnb2NjeE1iaTFiQjhDTzBTMHdEME43WWctZ1E?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeE52REcxOTgxcTdVeE83Z2ZLUVRTWjdSbjVocWRxT3dTRExnZmJOMlRKc0ZLd1NNVGd6S2luRHdSZmtOTVpPY3JXdmQ5WGphV3dIdDRIa0ttWGMxMXR1WGpna2YwVWZZX2FQd29jd09LVDNMX1lmMkNCZklzZUI4OEpnRWRVczB2cVlIb1NhZ2tEX2lzdkx6WEM2aFpPVGN2dmdvZ21B?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFdySU1RMmlsdlpxaWdHd3R1bWpzUUFoV2x3RjJUcGo2Q0EzREkza0JzUG5BNlFMSG8wak1CNGM0dzFWNDRJdGszdk1nRjlKTFU3THFTZUJGaEU3OVIyYU5IQ2ZtN2Y5NkdkSGQ3ZUxueElGbmQxMDd1VVFDbjhtOFRGZzlzdnRYYkFNSG41dFBBWUZ1djZRZk95OGROSHJWakJWZEJTZTlfZ0ZEbUR4cnA5OTgyV2lZclNyejdlOEQ0X1A3Qm5MOTIyMDY?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fbDA1eDJSemJXRkkxNlRXbk5NcnpHZVlnUVljSHg0Z2I3MmdJZFZHR1FycE5EbFdhNmRXTDdzZFVtMzJyd2tSSkhkUnZVM2lmZGxHZlVZT3h2b2dkdkFpTzF3?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE54SFNzWlRiWUFVS3FsTUM1cWpvdXRETWMyNGJmVkpqeTctZE5WTTY3ZjI3ZV9vd2VuNjRQeGNPSzhtWFY5NnE0U3hIVVJtYnh3ZERhNk43TlZnY1hNUEZiblZ5bnJDRm1jYjZsVTg4VzlrVEttanRwT0xkRHVaRlE?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXNqSDZ1T0VPOExubnlMbzVsOEdjM0hCSHJsU2E3cXJVSVAxQWJVNUFPRlk5N080UVRVWDRWYzFpSURqd0xXTlVkazBGRHYwYjVrc0stVk9TeTRLR242Tklua0lWR1dDYldXaGtKZlBGYWc3UVFsai04Rkg4SVRQdlRSNmM5d3A1TjBHNUZ2d0t5OHI0YnVfdHVn?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFBvNTVXRGpwOE9wdXBGZlhKVlN4MzNTbVg5MVNLZFRremh3bnZiWm9RMVdaOTdqODJnLWZ2bkYxM0ZhZ084cnAtblFzdXptb0lYOUoySmdrNDUxQWxDaE1iUEcyZ0ZlT05veTZhWFloVW02T3dRQ2psNTdsLXBCa0c0Zw?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOYkQwXzE0T2VqUGNfSzZWVUItY2JBQ2Y4VHRlMmVKc2tVd3pHVHpQYmdwaHM5aEtPTnpkTUY3MGNRb3RCNjhYMFA4d3B6M05NVUxVNXNJSWdXREd6Zy1mT0tCWW5ncld4WEdXX3R0eGJTWkNlRUlOaV8zb3JWcnIwaEcydjdYQWhLcE5RTEQxc3p1eWE3dzNuU2k1TFp6UQ?oc=5",
@@ -7999,21 +7987,21 @@
     "https://insider-gaming.com/furloughed-star-wars-zero-company-developers-returning/",
     "https://insider-gaming.com/battlefield-6-game-pass-october-13/",
     "https://insider-gaming.com/new-sony-anolog-patent/",
-    "https://insider-gaming.com/google-playground-browser-games-using-only-ai/"
+    "https://insider-gaming.com/google-playground-browser-games-using-only-ai/",
+    "https://insider-gaming.com/maven-quits-call-of-duty-league-relationship-merk/",
+    "https://gameriv.com/call-of-duty-caster-maven-steps-away-from-cdl-after-revealing-relationship-with-co-caster-friends-ex-wife/",
+    "https://gameriv.com/lol-creators-criticize-personal-match-replay-limits-as-riot-explains-security-concerns/",
+    "https://gameriv.com/aion-2-surpasses-400000-concurrent-players-on-steam-tops-steam-sales-charts-in-15-territories/",
+    "https://gameriv.com/double-counter-data-breach-275000-emails-published-online/",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHlZY0wxMUpRNTFuUkFZVnFWX3JsU215T1psUlRVcUFMR1VHU1lZeTJhbjZNTWNISVBnQ2g4VjNrRFY3Rm1hdmZFVmtDUnVOUER6SkxmWGNlNTRSZ2JaM3djSUFnenk4Q3FuQkh2elNlQ29WV1FQV2NYSXZXLWd2NmpudFpkZkZob0FHR29Semt2VWFveENN?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGxBU3MxeGVDT1VUcWROODl5LXUyV1lNaDdUbUJPSy1HczdnczFQbUREakd4UU5XdW9fQzVnVy16aVFxYVhITmtCZmJjcV9KS3YxaDNvZGJaSHU4M3BrXzBWUDJWLXRPcGRVQ0ZqT1FjNnRHaWo5UnZKZ29tbVNHUFlvQXRlOGY1QUk5MlE0SUY0UXltQl9VTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNU1ySVFQUzNsb2NLUjJtNWR5NEI4TWhkTktrbVZBeXNNUHktQkZ0TTNIOEMyZzBDRzEwbm1KNzZaa3Q3ZHJNMEJxWl80Z1VkZ29pRWhQM1g3ajE0MExBcU9fSDlRVy1nMTJfYTJzcUFJa2tFanpxWXZmbkNzM1hXQXVfUGpQODRfTFlHOFZuekhrUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4Z0NUand6LVgwclZNSGkxNDhzX0Fybm5BNnBpNzdBYjlvOUlXVi1jTnB4Z1J0V1pwZWVudm96SXBCT1kxM1gxYmcxeEREM3ZmVFZ1a0FPLXNNVmV4dGtiVlRCdHNMOFZGSmRkRlVNelM?oc=5",
+    "https://traxion.gg/play-assetto-corsa-evos-free-roam-at-the-simracing-expo-frankfurt/",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSXlqekJRT3paU25HUUNtVDh5cFZhaWY4T3lNYVRtTjVFWUxrQlB0M0ltMnM1bHd2LVIzR0I3YnpIZmpCNGxxTi1sRGtMcU1HOTFRVU9BVFlHbmFRSFZWRUF6dmQwY2pNOE56Zzl4Sk9IdFNzQWVzY3lqN1pCQy11T3k0alBLVGJoQmxiU0JUa21HeGdlN1l3NHkwRzF3WExxOUVoNlh5SWk4VmJwellMZEQ3WjctUFoyRG5GYw?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-meta-analysis"
   ],
   "title_hashes": [
-    "e85519698e14c819970006e6cbbb08ae",
-    "5cc8bb176a61ba0ba43ce0f9bb43b7e3",
-    "a10387fdee2c6ff5b1e4ab0cf44fbbfd",
-    "66f5b7b6b3557336fc90437dd9d5a912",
-    "3e06b6cb21c85f66d31b1ce4c0ed6e04",
-    "5f2929d398eccd99b213cbaaa01acf67",
-    "a05288fcbce00c886bb60bd94eac0da3",
-    "bc14f08dddcffb12fc7726b37c8d355c",
-    "9070cd0f0743feb79cc04a50701a7fbf",
-    "9595fee111c97870b51e00cc0b70c3dd",
-    "5e7b20baea6a20e2738c0f8accf21a6a",
-    "6b993eeee6fe488efc20aeb7cd8d3500",
     "fdaeee8d6a12b69f052d48f72b6c41ba",
     "0ed728265f5ee7f4395f9d99ab025e9a",
     "8d0f836befdc2b47e65a12b7b45daa77",
@@ -16001,7 +15989,19 @@
     "f37d9c7d49b3f36730b16f57f7a43af2",
     "cdec973fcf63afe86814add15dfc3a44",
     "02049400d186669c1bdda23f74795f36",
-    "fafda169fab80ab4c11710a0eef70c74"
+    "fafda169fab80ab4c11710a0eef70c74",
+    "1253009412076eff1b46aa65e361cf10",
+    "fc98099af0993b4bf7e1acaf31b6dbb3",
+    "5f31f2727cbd9ad39770c1ccd2615c13",
+    "dd4ad593ec4d70ee322640e6a2de9b67",
+    "b6160a1612b3a98af0f744f29bec3a1b",
+    "5f8e116c71c39be0cc44e6ea0bc8e92d",
+    "ae31a641f51d9aa191c3b404c2969770",
+    "190162baad0a57297974beab4881df30",
+    "a1b633937f228009e4a6a82be783b29a",
+    "deb9e923a9696a316122b4e20fd24622",
+    "7d546fff289359f17a2929cdd201c6ea",
+    "3904944b5451499355f4b2759ae69558"
   ],
   "transfers": {
     "pages": {
@@ -21096,6 +21096,26 @@
     {
       "t": "allows announced appe browser coding create games google has lets make needed new only own people platform playground post powered that their using you",
       "ts": 1791401384.26127
+    },
+    {
+      "t": "after call clint down duty evans has his league maven merk partner post quits relati relationship revealing spot stepped wife",
+      "ts": 1791401389.5567772
+    },
+    {
+      "t": "after announcement away call caster casting cdl compe dating duty friend his league longtime maurisa maven merk one partner puts relationship revealing stepping steps that wife",
+      "ts": 1791401393.044891
+    },
+    {
+      "t": "000 15 2 400 according across after aion america charts concurrent crowd free has huge launch mmorpg number one play players pulled reached sales shortly steam surpassed surpasses territories three tops",
+      "ts": 1791401396.4427364
+    },
+    {
+      "t": "000 275 accounts addresses alternate been block bot breach counter data discord double email emails has have listed members online published pwned roughly suffered unique used verify",
+      "ts": 1791401399.9254327
+    },
+    {
+      "t": "20 2026 26 8217 any been championship changes even expect figure groundbreaking have haven live lol meta now one out patch servers teams that there this though week what worlds year",
+      "ts": 1791401403.7267697
     }
   ]
 }
