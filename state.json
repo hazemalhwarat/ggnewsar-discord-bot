@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmtYNTBoQnBEQlFtOTd3VGxEdnRXdEZkUm0tTnFVQzYyRFBULUYxQTZqblRQdU80Vk9OSFliMXFaYmNIQWZ3Z0FxQWxwVUFaMzVSakhiU3FPSUdxeWpyS3ZzT19iandMRWx3TFRSWmotMzBESzhPbWRJNVRFMkF2TGFWUWxGdmhGX3d4OE5JMEY5SFY2YWZiTjRmQ1dRQjgxV250SDVPeEpGSTltQ0g5enF6UHg?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbTVfeGY5c1hMQkxyOTBxLWhnVEFxNGo1ckxlWl9QaDkzckpOVWdTZ3NnZHRpS2lUU2V0OFJod1lqLUxLZktVNW5CZVFYeUdwbmZ0RVYtRXRsR0lValB0ZUxfMm5WdmcxTTRxOHBEZG5MOHpLVTFEU3hNU3doYnJuM2xsaExrNk5QeXZDOHIwTFptSTdvbjlrQk9TQTk2VEdRUGdfWFlnRGJPV2c?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWFsbzV6Vm1UUU1iLTY4TkJUYUZqampWZl9HQXVVZk1IWlB1RGdWN3A0cHNab05vcUF2UlJjMjJWanFoNHNvdVVFblY5SUFaVlRfUWxYdWNBTUt5Tm55cnV6VDEwNnktZlFXQm9DakNuUHdwX1dqVXRQY0liOVd0WA?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWEyaVhYQnZXV0drNS1rcUZYTVAyLU92eTkyc2UzalJIeXpsSXkzZk9hQjJDaENQOGtEam9RdzVZdkVXX3FOUllONXJmckdibWxRRE9RS2plQkVmRkdSanRYWHZ3SVZla3l5TEJTZnNiU2ZpaTdmcnJSZUVRMkVCTlNoSzU2QnYwVllSTWdWeGgzc2tINk0zWXZER2FnaVRCMHV6Zmp2aHR3RW5YMmpv0gG0AUFVX3lxTE1qVVVEeURBQmxjdnVLRlBvdnVYWUIyUWRVNHlkQm9RdENudkE3WnNrWXRXVll0UFduWTB2TVB1SGtLdkgtZEg1VHZpX0RydEdEaVhHQUtRblpSb25yUTZYdWpwTVpVWXJkcU5MNzlwRjdjd0YxYjJrSzdCR1U3TjdMRF9aQjNSWHBranFQcnZnWlJ0SkdtSkJZY3lGRzhsZWhCbVJwaDhLUy1PWUFNZmtEanVqOA?oc=5",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR3FwOXVYakQ4WV9qY0w2OGpaZWhNQU5mWGVKNjVNZXhocmExRTM3SmxlUGRPTUF2S000Z1dSSWhJNi1rcU9NMGtZb1lJV1JwS3dUUkthUVBJLW5oTWwyN0psM3NqVGlReFNhbjlTS2MtQ2t5aldEN2lJTUhXZHBZLXpnMTRoeE5JeHBHV29CV1VsazNLWnpJOWhYd196VS1WWkhNY1gtX2k5dXRrZXY1SWh4RDVUeEl5LUN2TXhsa3Z2M3RLS3BodV9xZHY2VGVJR2NkcNIB2gFBVV95cUxNWWtfbnVRaUlqcnR2d2JTN0pFM3lSVEpvUnl3WU00SktoNjI5eEV4TzhKcnpmWDVmOUdBdmw2LS0wZGhXSWtnX3BnSjROZWY2UVZONkNvT0Mzek9nbDBaaGtSY3pySnhkb0tmVUh4cjNkbTc4S3h2VGVnMVFOV2hYQTYyNjZKaEc3VkNVRFhFVE41TWFNMEJTcThRYVNxVkllSGtGQ1p5SnhyT3hoSkNPN080ZEJDcWdtYnRhZmhxRzczTjVxVkplOXVFSjF2eWdQTWthZEprMXdWUQ?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0lFRFFSbXlfa1dJOVVxbHRGdUV0RXMwbTAwNXFhOXhHcVNHazRSUTBGWHFFOVlPM3V4R2lzWU1fTVdLRDlzd2NQclFZX09qZDFLbjJnZW44QnRNY2FxVlZtWWUxV0oxRU9tZGNYbGp4N1lXblNOUWsxRUF4c0tZMEJ4dDl1UUpoVG9oNnVPNmRZalNjTERwNlg2YkVMT2p3ODVBcExFSmhhQ3k4eEE?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcjdyQ0V4WF9TelM5VUJJUmFvSVFrODI2WWxUNnBORFhsTmwwOW5GcGZiTC1pcnRWZXpwQXhKclVvQnU0VWFwTzR5SGJ5MzdmWTZXQ0l3Q0VqWnFkZWtrTUdzakc2S2V0Z05TbDZKdTRGNmotdzBncE9wOVlUbFBWN2JzcC1KV1hIMlBvQ3J0NThvTjVxWUowWlVBNHJCYk5rendxd1lvbWl1dHZMbWJ5SUNSN1p0aS1xMi1SLWtfeHhsQ0FC?oc=5",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObVBJeE0tQ1VENFZRZUVlckx2Sm5MRkx4TXNtRmRxSlBRM25mUGw5WWRyUWN6WG95d1VJaENoZ3d3N1N2WnNNR3ZqcHVTUkR2cGlrTTE5SmF1bzkzRTB1TVdfcW8teU1HYWhnWkJTanJXdU9USXBjNFBFaVlhZVdyaW9Ja1lqME8ya3p6M3pJNkg2bi1QbzU0MnQycmRCdmtjNGpKU25BRkY0SUgxcThqak91Yk1tdXhHbEczUTFQS2JJLUF2em8tUFNnR3hmVFNqVDgwX2N5QjV6aThFSWIxYjZ5OUx1N2NnQkE?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWjdCeWVIckNOaDRNY2pPTUhoNkxJM283bjV6OG51LURZRl96MkdFakdLbmRCRFR4dW5PZ3pDUmtoeUFWcmVGU1pDOGdfVm1hMUNIV1Q2NWswU3JlR2RxMHFsUlNocW5CNENJLXNyUGxsY082YzlMU2RUSmtELWg2R0xUQ21zWkVV?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RUXY5M0JWTWplY1J6eWpYdC1LRzFvb2V4WjVQV05laFl4RTcyNTJlUFpjbWhya1o1ZF9NZzVDa0w1TjFOSHNrSFdxTV9RQkJOajRteS0xbDF3Z1l4ZGw0MDEyRlVfUDE0ODF1MFpHZk13ZW9iQTdyaTBB?oc=5",
     "https://www.hotspawn.com/league-of-legends/news/replay-restrictions-lol",
-    "https://www.hotspawn.com/dota2/news/all-skins-in-trove-of-terror-treasure-dota-2"
+    "https://www.hotspawn.com/dota2/news/all-skins-in-trove-of-terror-treasure-dota-2",
+    "https://www.hotspawn.com/league-of-legends/news/vivo-keyd-stars-parts-ways-with-roster",
+    "https://traxion.gg/sim-lab-is-set-to-showcase-porsche-963-hypercar-steering-wheel-at-simracing-expo-frankfurt/",
+    "https://www.nerfplz.com/2026/10/weird-pick-171-top-lane-ahri.html",
+    "https://europeangaming.eu/portal/latest-news/2026/10/07/215594/paf-meta-pilot-unlicensed-gambling-switzerland/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/07/215587/merkur-bets-everymatrix-denmark-omnichannel/"
   ],
   "title_hashes": [
-    "b57c6bc2629d736fe65e4f7e1cfedd33",
-    "23c1259d4c735507d3d3d89449528a3a",
-    "13ccbcd8fb1ca5df7e447ec5c9289103",
-    "33c3f8b5104d0aa30fbb66c26dac4753",
-    "f0639639eb3f35b984203f2f5eae96e0",
     "ac4506d3a64da3fbf3d173846765557f",
     "62e54d083274aaefb6cd1f0a2d82ec6a",
     "dc566092833ebb036be0526493658003",
@@ -16001,7 +15996,12 @@
     "1fa79dea49adf60dd04d8f8ff77a200f",
     "62265ba9474cdf1cbe3c18b1879a100a",
     "035c0798887d14c7f4e27162f935a6b1",
-    "046f033126c8b54de1fdabe478ad0084"
+    "046f033126c8b54de1fdabe478ad0084",
+    "c04d2069f816a76d6a2d86ea190de08c",
+    "840dd842313a5deb2129b6ad453f0740",
+    "e486c6f30a89f93d3b235a69b8448636",
+    "43b717986ab7f7ff322cf69b48496704",
+    "c6b60d80f210a7d9f76ba2bc725d8b3e"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "2 8217 after all almost arcana average blessed bundled cash doesn dota finally has however into like look new really skins terror that this three treasure trove valve years",
       "ts": 1791379882.0814397
+    },
+    {
+      "t": "after announced bidding brazilian clears coaching difficult esports fail farewell keyd make media members most out roster saw six social staff stars team that them they vivo vks worlds year",
+      "ts": 1791379887.4423852
+    },
+    {
+      "t": "16th 18th 963 expo frankfurt hypercar its lab october porsche post replica set showcase sim simracing steering this whee wheel will year",
+      "ts": 1791379890.9311767
+    },
+    {
+      "t": "171 ahri allowed bans because being cheat code does forgetting game keeps lane laner mid most nobody only pick popular ranged she somehow there top weird what where",
+      "ts": 1791379894.4887652
+    },
+    {
+      "t": "8230 agrees appeare body company dutch gaming islands meta operators paf pilot post switzerland takes target trade unlicensed vnlok while working åland",
+      "ts": 1791379897.8910701
+    },
+    {
+      "t": "8230 ahead austria bets brands bring denmark deployment euro european everymatrix first goes live merkur migration multi platform post rollout step territory that will",
+      "ts": 1791379901.3071785
     }
   ]
 }
