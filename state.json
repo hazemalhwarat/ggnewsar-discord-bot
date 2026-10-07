@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5U1hSX1RwTlM0RVRxc0llVlhYLTdQelVjWjJlQl9aS3p5dHdXY0FQUlQzN2VrZ2RLNDdmMmoyTnlqeEM4b3FjclZ4UEYtMi1yRVpLMVBSb0w1YklKc1lZX2xjemlPRGF4?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiV3hLUW1LT3FkX2wxWk9EY1B3R2M1aHZsa1Bkd0I4aV9mb1kxbTNtOEhsclNUQk91YWt1SkVNOE1ZRkZkQ3RnYzVRT0FrZDZwQmFqODVJYThFUlB0eWZCRmdlSTA3ZkdS?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HWjZtUjhTQldVcVRFWUtLaDNvcTRpbEFVd2xteVJOTlZfYW1TMk1KcnBzd1BlYURvejlkbU8zUUpSdHR2Z0JlNFd2NUpKcXRrZ0pSNTBYVlAxM09VbmJnUDVWb3pTSWVx?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ERWtLQzJxdHpIMHJodWxRdWxNX2x2c2taRmdyR1BmYVpwcTliQldNa2pQdDFWNXJLUHdfUmRxNVdDQURLbGdiX045QmxZLU1FbkVsLThieVlfV0ZTYkZ1bmpkRGlQTVdL?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yZW1hYm9OTmxvcFdjX0hwbjRYUERKQUFaTXFNUmVILXhXTlV0X2UwQUxnbWRJc2lkb2RpQnVWWGtsdXZ5RjU1UjBZMEl5Ujk3UmhOSVpOYXlpZWp2VEhLSzFYdzJLY0Iz?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XOWtyOTM5dzhaTXU4dmpvWHNoLWJYVE1reGlIU3dlRGdGMC1qWldKZlFDRkNWR2d4Q19ZSGVqVDJuS2IwSHJkdDduUzJGT1BJT001STZiYU1nQjNicDhqVHU3MndNb2lB?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJRFVUeVZITDZ3Y2R0RzdVSEltTkRyamE0RzJJdV8yWEZEV2EyUUhvT185T1VabGs0VmMycDZnd2owWmpZY2dsVHU0MEE3M1ZZVXY3T1BRMVF1R2VJd2JxMG9vVXRxSllz?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fWEw5M1UwVHN2TUZUejhTc29FN2FxNGt5R1k4MThKMS16WGRpYlVPSzN0bGlpZFBDN01qSnJVelNBUFNKbTUzUEVYZzRCYU1CbnpISjhWZ2l3RmZsNGl4TjRnNzQ4YWR6?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wRjlIT1RxX0txRE9CRUNhVFYtN1lpNmVCdXE5RHRkSGwtTFRVcF9hdHVYTUVrWlFNU3M2c2MyODM4ek1Gb3kyTUZmZmN2cFpXbFhleTlkaklkNzQtaHlid25rNVNsVnNT?oc=5",
@@ -7999,14 +7993,15 @@
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsd1N5QkJYR1ZRWG9KVFJ4NkdvblByWEJGNzNPak9TZnhFTUZRTUtEd0pjR3psQzBDRk1TX2N5VGtoZTNoVUZMTm5zZnMxNHd1WUJBNVUxZENFd1ZuQVU1Q3BKWkJuOEgxVzNn?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0ZmxNZDhIcGhFYjFfZG1aV1BtSjNFRmR6WnJYNUNMT09NMF9HMW9SQ1BWS3FQamt6NVEwS3FLZ0xQczZHVkJkWnVTemZndzJFdWJzeHlvUUtGVk00MTJHWTRIdFlYby1QMlRV?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ1RXcE94SzNPRHBvSVl0c2l1eUpDVENuUVAzX1dEOGg4WllEM3VXZzVoSGxSV0dJZHBCa09KSjQwTkdxNTZWREpidXlGbjRBejBSR0N6ZFplWXpJNVV4TXJDX2F0QTV3R19BQ0lVZDI1S1JVM2FJM2dYNTE5ejhIM1BrOFJuM2hkRThFdQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3ZRUGZPRDBFRHZvUnlpb2lQMGp0Y2dwdkNXRkZjeTZ1aFBVZ1dscmktakpyQzBiVVJ5Ump6ZlVtUkRLYzNKN0FhamU5dkhOS0VrdjNvS2J6WW5ab2RGWmMwRmI0NHlEb0YyY2ppZUhKVXBwcnFjV2xSSWhmc20xWEtvTUZZT1l1RVRiOUVwOVBJUXVwQnlwajRZUzNOR2RCNXNiT3F3?oc=5"
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3ZRUGZPRDBFRHZvUnlpb2lQMGp0Y2dwdkNXRkZjeTZ1aFBVZ1dscmktakpyQzBiVVJ5Ump6ZlVtUkRLYzNKN0FhamU5dkhOS0VrdjNvS2J6WW5ab2RGWmMwRmI0NHlEb0YyY2ppZUhKVXBwcnFjV2xSSWhmc20xWEtvTUZZT1l1RVRiOUVwOVBJUXVwQnlwajRZUzNOR2RCNXNiT3F3?oc=5",
+    "https://www.invenglobal.com/articles/26871/xbox-reportedly-lands-exclusive-grand-theft-auto-vi-streaming-rights",
+    "https://www.invenglobal.com/articles/26870/krafton-india-to-back-indian-indie-studios-at-the-mobile-premiere-2026",
+    "https://www.invenglobal.com/articles/26865/rhodes-island-teased-in-arknights-endfield-version-16-special-broadcast",
+    "https://www.invenglobal.com/articles/26837/aion-2-surpasses-400000-concurrent-players-on-steam-setting-new-personal-record-with-official-launch",
+    "https://www.hltv.org/news/45659/final-group-stage-matchups-set-at-epl-s24",
+    "https://www.hltv.org/news/45660/falcons-outlast-navi-to-secure-epl-playoffs"
   ],
   "title_hashes": [
-    "25a2cca7dad8ce812f84e2f7f963806d",
-    "23e542736378293989eb4b067ce98bbd",
-    "2516db22d0d2089e76d40c9e4010de21",
-    "e2cb545583cb5ea02bf393e462470a15",
-    "275794f7aafbafa64b9de35481c3ee64",
     "4cbb80b18f01348e99235a8a453bd276",
     "a41d4d8156c3736efd104d86819b93ea",
     "9be148585ef39d8166ba8d7ca28e2ced",
@@ -16001,7 +15996,12 @@
     "531cbd28c0c3e8adbdfd2b1a0319045d",
     "5a79962e8c051786352c088ecbe349d1",
     "c3d2454a745354e80e76672170159382",
-    "e88f9408c749f7ccefc7a2504541cb4e"
+    "e88f9408c749f7ccefc7a2504541cb4e",
+    "540220ddd0e07489f266723396e9e027",
+    "45fc7880ef635dce9bc9dc42d62294b5",
+    "a44abc5ece31a9ce0947655d4f6fc323",
+    "9e5a7386b092ee260d52dd0b2d315fa0",
+    "9403ee4529d3b87247ac9bb207c9310c"
   ],
   "transfers": {
     "pages": {
@@ -21208,6 +21208,26 @@
     {
       "t": "able after block competing denying effectively game major months new only region roster singapore spot swap swapping teams their three upcoming valve will",
       "ts": 1791320509.8717768
+    },
+    {
+      "t": "according auto citing cloud exclusive familiar gami grand gta has lands microsoft plans reported reportedly rights secured sources streaming that theft verge xbox",
+      "ts": 1791332642.2047384
+    },
+    {
+      "t": "2026 audience back chance developers event games giving global has india indian indie joined krafton mobile official partner premiere segment show studios their",
+      "ts": 1791332645.7262273
+    },
+    {
+      "t": "000 2 400 according after aion announced concurrent entering global its launch live mmorpg ncnc new official peak personal players record service setting shortly steam steamdb surpassed surpasses that tracks which",
+      "ts": 1791332649.344181
+    },
+    {
+      "t": "epl face final group matchups navi off parivision s24 set spodek spot stage will",
+      "ts": 1791332653.067543
+    },
+    {
+      "t": "epl falcons marathon navi outlast playoffs secure three",
+      "ts": 1791332656.5779133
     }
   ]
 }
