@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbThYVThoN0ROSzdPb091SjNGdFVabzNmQTIxNmcwMlBTQjlwd2htN0syR3FSSXJPcWUyRF9mRWF0UEZjcDFxb3IxdnlvQ3ZjdHQ4YUlsYWxjV1lPYUdBRzdwazdfNk1qV2xRS0ZkUkg0MV9JZU5mVVZZUDg0aXpCeUt5cGg4M0VSaHM2WjBiMGFDcWIyMlpHWFNpalA5SlNya0JFRA?oc=5",
-    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTHQ4WkE2V3ROZjlMeUg0bmdEUUhnVC12WTVDTmYwZ2MzMFNzb29pWGRIcGFZX0xEZDU0dFgxa1RjYk9WTElKRVNPV0xvdjlUY2Rud0RjSUVuNzRjVXU3YnZIWHFzYjg3WmV6dzVwWGVVZUJfdWs4dGl1VkFpVVYxcU1pc0VYVUdsX2dTVTRGSVJmbTZyN0pWMkZQQ3FxSUstNjJZYUZTbURXM0ZSb1NaMkxjanFiMHc4b2gteHd6MThsWVF1d3k4eTV0dVpicmJzemRyMDVXT1ZEQldhRldzOE5IUjJVS1NMV3luVjF5X0x4U1dZMUhz?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHZ2RkZib2Q0TzctQUpqaVQycXpRdm15cmd3SFZRRHpXUHhPQ1MwUEpkSko1Y1UtckQ3akRkNjJNbUZ6MzZYdFVpSTc1WGdNUk9UdHU1RG5GanlxR3JfdE1oRVZJUExuU1ZlZEIweVN5d3RXYVg5Mi1qdmZHMnhoWFRBSGN4M0UyX3ZBUlJxXzl1bldlbUhqSzJuQVNyVDdGRGVvVTNSNVAxOWQwYTVjVU9YM3ZKZw?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3MtM0hGRXpLSXIyR24zR3E4a1QwQUV5NDFsMnVsLXFLalNuNjRmU1d6NkRPUW5pbXoxQTZVNFZiSGR1X2sybnZlYWoyN1hJelpiYWx4Qnh5TUYtTkNIT3BsaHRQRTJVNDA4YjJ4Rk9UVWxicGI1T3dMOEgzVE5OZmdaSDFEdmRSVngyUXROUWJrTE14d0E?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlRRd1pjcDBMRndxRFNLQVc2am5kbGVSVE1rZUZnWXJ5VndPdi1BX1RFZ0VjNng0VDkyV3BYU0J6MG9VLWI1d2RTME4xSFI3RnJlZWZYVE1BeTZxTTRuaHU5MWw1ZXNsdmIwSDVFUHV6M1I5YU5YQmIxVkcxQ3RNNWw4a2xVSDZHYU5TVC1RdDYxVkxLUHMtTGszaUdjdVEyNlRlVVZXWXRwbmRTYzdiQTRiS3oydzZ3Z1V0Qnd5SQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQUdLLUVnYU5ueUFsNURpa1FxUWRQNlJLSGgzbGVkaVh6NWxPTlk4a1N6aHgwUkxCT2ZFQVI0NldjQlJCTUo3bkNuTzVjMzNtTTZpeWI1cWs0dHMwUXM2THBySk5MTkNqQnlOYW9RaXpURm1FZE5VOWt4czFKX2ducWpReUF2TWg5UHd0cVFTTWJFbHdHV25iQzl2M1A3QmpRVUtQS2tPV2l0UDUtQjJyUmJNcXJqTXVzQUZndDMzWDdaMWVVYlRrck12WlFwdlNqZnU4OVNSOA?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GWl9SWUR4My01VTE1UFEwTXFncFZpajhEVTNHVEJueXRMUUpJel9tT002bUZNNm52dkVrRnpQWW9samlWRXZ1SlU4d05OY2NmQlNRXy1tUmhndkFVZHpBazBZVUxqSWdRTndFMVRuZG1URnVwMURFRVVNSQ?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xZTN0ekFLUHhzMkV1eDFnRFhoYWo2U2ZXOExBTG5tU0w5RzM5MEZoVGtvZE5jSWZzZ2pqc0JzcDBoYzFlNmF6RllhM0dJNFVhanZUZkpxeGhyLWZRNUIxWWx6VTFRdEswbXBWN0RhR1VMMU5uZldz?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS2FINnpTVG5GVS1RZ1ZBYUFxT1ViMjVWZmU4ZDlCUHJIT3MzazRCMWxhZlhGeTRlaVlid1hjYVAxZXNtTnQ2UTFGY0xIQnlGMDNhcUFYR1VHT3RCU0I4U0hIOTBoSVdrY1VmQWdwUXY5SGk3a1VjYVAyZEVQUVFpSUZhRnNfRzBHaDBBZ0hpd3BVRmllXzJ3U21R?oc=5",
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbFNodE04RzE3ODhySFROckpnY2JGamt1RGpRZGZfN2JhTDI3T211d3NhVlJXVll5VDNVdVB1UnpwX3JEQjQ5dEQ3ZkhyQnQtNDNBc3hhS3M5Vkx2MmJDZ3hkWEk1UmhiaUx4UWNDNUo3QUFkVk5FQ2wySGF3b0xJN0FWcU9ndVRnT19XTklKaTJmd1d3blI4d29TeXlIN2RmaTRVZXg2eHJ2UFA1Zk1qNElYZ3NpZGFSVlNoTDhPZFM3TVRFV3VGMkxJX3J3djVpTVFfVTNJdDlfa2NzUU1lRUtzZUhkdw?oc=5",
@@ -7999,15 +7992,16 @@
     "https://www.invenglobal.com/articles/26898/nc-to-begin-second-test-for-new-game-time-takers-on-november-13",
     "https://www.invenglobal.com/articles/26897/lineage-remastered-unveils-new-region-abella-and-wolyeongsa-class",
     "https://www.invenglobal.com/articles/26896/new-ats-hunting-ground-how-efficient-is-exp-gain-in-shadow-temple",
-    "https://esportsinsider.com/2026/10/sony-inzone-fnatic-finishes"
+    "https://esportsinsider.com/2026/10/sony-inzone-fnatic-finishes",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-week-5-quarterback-rankings/2026/10/06/",
+    "https://thegamehaus.com/deadlock/deadlock-baba-abilities-breakdown-first-look/2026/10/06/",
+    "https://thegamehaus.com/nfl/nfl-week-5-picks-against-the-spread/2026/10/06/",
+    "https://thegamehaus.com/nfl/nfl-week-5-picks/2026/10/06/",
+    "https://www.hltv.org/news/45663/bcgame-ceo-asks-for-fresh-start-take-all-our-points-away",
+    "https://www.hltv.org/news/45662/sources-astralis-look-to-replace-duo",
+    "https://www.hltv.org/news/45661/taz-the-new-rule-is-difficult-for-me-to-accept"
   ],
   "title_hashes": [
-    "74236b8b63931fddd386d732d293f364",
-    "8faf12ae52898089884e61b9f0d63c37",
-    "2df0451e7c98dcc96e5a8c0576fcc785",
-    "08d5de2a115223333f5e4b15a0d71867",
-    "2596ce55a0af1c61169e2d504cb3778c",
-    "f31593169ea6a876af95a0f992c4d8f2",
     "1d4757d384c39dfa1f3bdb97ad46ea1b",
     "d31202e99930eae0f8d335caf2585f4f",
     "b6ceeb69904a8bc984b1d69807b99b8d",
@@ -16001,7 +15995,13 @@
     "1c1f2430e210bd277aafd6ce248bb9e9",
     "5e68df4f8f9dac6dccb07e599b649519",
     "b71f74ebedc73be53e03cd4c708fecf3",
-    "c7e5d46d0d48e1758416f5286445704a"
+    "c7e5d46d0d48e1758416f5286445704a",
+    "27305494219cf50d54a0b242a4f2ff5b",
+    "61b148b1d4e21ffcda07c663045589f0",
+    "1b4c15895134d7e7af2e14c3c1c8d2ba",
+    "ff10fdaa7194eeb7dd0ce3bd3d9ea184",
+    "e1540e3c5712bbcd91e4745ed11a8f08",
+    "87e3a928ff32dca1d1b706694d46844c"
   ],
   "transfers": {
     "pages": {
@@ -21052,6 +21052,26 @@
     {
       "t": "audio existing finishes fnatic gaming gets gives glass hardware inspired inzone makeover orange post pricing purple sony unchanged unconfirmed",
       "ts": 1791379822.7682333
+    },
+    {
+      "t": "2026 27 4 5 after best fantasy football has kicked landscape nfl off officially options quarterback rankings season team that week well your",
+      "ts": 1791379828.0557818
+    },
+    {
+      "t": "8217 abilities added baba breakdown city deadlock first full her here hero how latest look major never new second showing sleeps they update video work",
+      "ts": 1791379831.6358545
+    },
+    {
+      "t": "5 against but enough even games hard here nfl picking picks season spread spreads straight tallysight tougher week",
+      "ts": 1791379835.140919
+    },
+    {
+      "t": "all asked asks away ceo fresh game our points previous results slate start take team their wiped",
+      "ts": 1791379839.2990375
+    },
+    {
+      "t": "accept coach dangerous difficult game has intervention new precedent rule said sets taz timing valve",
+      "ts": 1791379842.9778662
     }
   ]
 }
