@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHpVRTRzMXMtYWFQMmFSY0dNS3NDZjcwRFNiZnYxTlpaQVJqOEQ4RHRGNDMyc1VvSHFQaVo5d0NIczdLaUUwdGxCckRaejZjM2xfX25aYk43ZlU4aHZwdldWR01NaDNXREU0YVgtSWxlZmhURXIyendfRDEwUzRaQ2Vzb0dLZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiN0FVX3lxTE80T045VFBkRmxhN1RIWWotOU1JMkJpWmJ3cDJwcDBsZ0xXWkFZYl9oZm1PN0xvc0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiNkFVX3lxTE9CQ1AzendzdE1VM0dhWHNwd2FoLURPeVJxUWNBTVJyZGRZTzZ3QXAxbnBheHhoQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zV1BiaDZoRkhHT0NhUVgwMFdpdmtfb1RqQWJEN2JkcVZIY0xaVjFUeEIyV2YyVjdvemVDWjl0aWJId1FPV2lqcFFDeGZaVEU?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRVhXT3RxenNxRm5SdFBydG9wTFR1WTd5dF9TYlRMQnZzV1RHc3hPREJWU194TDZMQkpqbFNZNWZzYTlxSEJFbUxzT3VTRmM0dWlNbTFmbGV5WGxDUGNvNXdfTnV6YlBJZ0tuemJ1TGI4aEtuSTZDM05LY29nN2ljaWJ3?oc=5",
     "https://www.hltv.org/news/45540/yekindar-im-not-calling-anymore-and-hopefully-im-not-going-to-be-in-the-future",
     "https://gameriv.com/valorant-new-ranked-performance-system-leak-shows-how-24-agents-can-earn-more-acs/",
     "https://gameriv.com/valorant-boosters-are-being-banned-as-vanguard-anti-boost-rolls-out/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26909/google-unveils-playground-to-create-games-from-text-prompts-expanding-to-3d-via-unity-spark",
     "https://www.invenglobal.com/articles/26908/skydance-merges-paramount-and-warner-bros-games-divisions",
     "https://www.invenglobal.com/articles/26907/nc-sets-second-time-takers-steam-playtest-for-november",
-    "https://www.invenglobal.com/articles/26906/so-cold-arc-raiders-frozen-trail-preview-90"
+    "https://www.invenglobal.com/articles/26906/so-cold-arc-raiders-frozen-trail-preview-90",
+    "https://www.hltv.org/news/45670/hobbit-for-me-nowadays-its-like-a-dream",
+    "https://www.hltv.org/news/45669/art-to-return-for-thunderpick-world-championship",
+    "https://www.hltv.org/news/45667/parivision-make-epl-playoffs-over-navi",
+    "https://www.hltv.org/news/45666/valve-issues-exception-for-bcgame-to-qualify-for-singapore-major-through-asia",
+    "https://www.hltv.org/news/45664/kscerato-were-playing-a-lot-of-tournaments-when-you-see-frustration-you-cant-handle-it-like-you-used-to-because-youre-so-tired-mentally"
   ],
   "title_hashes": [
-    "c238331d08f6d88fd37a1c42ba096630",
-    "31069037935d191e505edb212cb3cd1e",
-    "397f31bf84dfc5bd7d2ddc6e825f4efc",
-    "0ce61039dfbefa8c330b94f31ac5bbeb",
-    "ed80c732dd05ad11a887ad4f4956b6f9",
     "edcfa00e6546002800f36b5772319100",
     "fab144ebe84f80cceb4fb75efba96c95",
     "019a39ba24a27ab8afbdae9f6e000953",
@@ -16001,7 +15996,12 @@
     "0134eac7021e5e4439464798f1b67230",
     "e663a5e6a65228913c1baee5c1a7e2c4",
     "91c90b96c307bd375b1f378f3e12de51",
-    "a4446fa22347e6c332894bfe5f25e487"
+    "a4446fa22347e6c332894bfe5f25e487",
+    "7baa6d93380e30bd4a30d83c977d505b",
+    "e05271f42d872c7856d41c0875e6a979",
+    "dcbfc83c33447ae6a5e13f22cbc9082c",
+    "e2e80160c715d2ce17faa8090016007e",
+    "3fa601d5fe72c0a7dfeaa89a36b67b01"
   ],
   "transfers": {
     "pages": {
@@ -21036,6 +21036,26 @@
     {
       "t": "0 8 9 adventure arc cold developed embark extraction frozen game its massive new nexon nexonarc october preview published pvpve raiders studios today trail unveils update",
       "ts": 1791401325.1931472
+    },
+    {
+      "t": "big dream him hobbit honor like nowadays parivision playing says",
+      "ts": 1791401330.7578132
+    },
+    {
+      "t": "absence after art brief championship meningitis one ready return server thunderpick tournament world",
+      "ts": 1791401334.2784889
+    },
+    {
+      "t": "added epl event first have hobbit made make navi over parivision permanently playoffs since their they",
+      "ts": 1791401337.7751799
+    },
+    {
+      "t": "asia been deemed eligible exception game has issues major qualify region singapore team through valve",
+      "ts": 1791401341.3482387
+    },
+    {
+      "t": "9z after against atmosphere because better but can frustration furia handle has kscerato like lot match mentally playing pressure relentless run see suffered talk team tired tournaments under used way when yesterday you",
+      "ts": 1791401344.919317
     }
   ]
 }
