@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45540/yekindar-im-not-calling-anymore-and-hopefully-im-not-going-to-be-in-the-future",
-    "https://gameriv.com/valorant-new-ranked-performance-system-leak-shows-how-24-agents-can-earn-more-acs/",
-    "https://gameriv.com/valorant-boosters-are-being-banned-as-vanguard-anti-boost-rolls-out/",
-    "https://insider-gaming.com/pac-man-ghosts-fortnite-override-update/",
-    "https://insider-gaming.com/rogue-prince-of-persia-free-anniversary-update/",
     "https://insider-gaming.com/hideo-kojima-od-development-update/",
     "https://insider-gaming.com/lcs-all-pro-2026-inspired-snubbed/",
     "https://insider-gaming.com/lec-2026-summer-finals-preview-the-last-stop-before-worlds/",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/45669/art-to-return-for-thunderpick-world-championship",
     "https://www.hltv.org/news/45667/parivision-make-epl-playoffs-over-navi",
     "https://www.hltv.org/news/45666/valve-issues-exception-for-bcgame-to-qualify-for-singapore-major-through-asia",
-    "https://www.hltv.org/news/45664/kscerato-were-playing-a-lot-of-tournaments-when-you-see-frustration-you-cant-handle-it-like-you-used-to-because-youre-so-tired-mentally"
+    "https://www.hltv.org/news/45664/kscerato-were-playing-a-lot-of-tournaments-when-you-see-frustration-you-cant-handle-it-like-you-used-to-because-youre-so-tired-mentally",
+    "https://www.hltv.org/news/45665/fallen-reaches-the-spodek-one-last-time-as-furia-overcome-9z-in-group-stage-decider",
+    "https://www.vlr.gg/768249/loud-fights-from-half-deficits-sweeps-paper-rex",
+    "https://www.vlr.gg/768259/nrg-continues-champs-form-with-t1-sweep",
+    "https://www.nerfplz.com/2027/08/lol-pings-ranked-10-calls-from-useless.html",
+    "https://insider-gaming.com/mass-layoffs-at-gravity-well-before-first-game-ships/"
   ],
   "title_hashes": [
-    "edcfa00e6546002800f36b5772319100",
-    "fab144ebe84f80cceb4fb75efba96c95",
-    "019a39ba24a27ab8afbdae9f6e000953",
-    "25a87001e523f88a94e0d078a6ae7db5",
-    "684493bdbe9611279b28c70450d0dad7",
     "a1c83ca3e0d33c7945d49119f55f62e7",
     "2dc9f95e4e9b207adcd47b63740bcf4f",
     "e7deb77cd92621fb62391ce362337d5d",
@@ -16001,7 +15996,12 @@
     "e05271f42d872c7856d41c0875e6a979",
     "dcbfc83c33447ae6a5e13f22cbc9082c",
     "e2e80160c715d2ce17faa8090016007e",
-    "3fa601d5fe72c0a7dfeaa89a36b67b01"
+    "3fa601d5fe72c0a7dfeaa89a36b67b01",
+    "f619047f8c0748d5bd552c12956f71cf",
+    "10735669714171475418270b06a840ae",
+    "674df480fcc1141ec6c5441ce7efeba4",
+    "38981ae277e51153ae23c764bb1f51e9",
+    "792a52b1b8fb0119e1a154c003c8099f"
   ],
   "transfers": {
     "pages": {
@@ -21056,6 +21056,26 @@
     {
       "t": "9z after against atmosphere because better but can frustration furia handle has kscerato like lot match mentally playing pressure relentless run see suffered talk team tired tournaments under used way when yesterday you",
       "ts": 1791401344.919317
+    },
+    {
+      "t": "2016 9z came closest decider fallen furia group katowice last lifting one overcome reaches spodek stage time trophy veteran",
+      "ts": 1791401350.4294527
+    },
+    {
+      "t": "0 2 2026 champions defeated deficits fights first half loud paper playoffs rex round sweeps valorant",
+      "ts": 1791401353.951204
+    },
+    {
+      "t": "0 2 2026 champions champs continues first form match nrg playoff stage sweep swept t1 valorant",
+      "ts": 1791401357.6266992
+    },
+    {
+      "t": "almost budget call does every families guide honor league learn learns level lol makes nobody one ones ping pings player pressing says sees spell summoner tied two what which who worth your",
+      "ts": 1791401361.201153
+    },
+    {
+      "t": "40 affecting announced developers former founded gravity has layoffs mass more people post studio suffers than titanfall well",
+      "ts": 1791401364.7387812
     }
   ]
 }
