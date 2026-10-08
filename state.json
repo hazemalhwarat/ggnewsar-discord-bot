@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://theloadout.com/ps5/7-days-to-die-leaves-early-access",
-    "https://theloadout.com/marvel-rivals/leaks-black-widow",
-    "https://theloadout.com/the-finals/gameboy-backpack",
-    "https://theloadout.com/helldivers-2/clans-platoons",
-    "https://theloadout.com/call-of-duty-mw3/deadpool-wolverine-skins-leaks",
     "https://theloadout.com/multiversus/agent-smith-trailer",
     "https://theloadout.com/suicide-squad-kill-the-justice-league/season-2-launch-date-mrs-freeze",
     "https://theloadout.com/multiversus/beetlejuice-leaks",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/how-to-get-emperor-gateway-conduit-blueprint-in-arc-raiders-redirection-map-condition/",
     "https://insider-gaming.com/ubisoft-shut-down-rainbow-six-mobile/",
     "https://insider-gaming.com/apex-legends-blood-pact-event-revealed-for-halloween/",
-    "https://insider-gaming.com/call-of-duty-goes-twilight-new-mobile-update/"
+    "https://insider-gaming.com/call-of-duty-goes-twilight-new-mobile-update/",
+    "https://insider-gaming.com/video-game-sales-fall-united-states/",
+    "https://insider-gaming.com/rockstar-reveals-gta-6-radio-stations-and-podcasts-with-previews/",
+    "https://esportsinsider.com/2026/10/brazil-betting-ban",
+    "https://www.vlr.gg/769104/team-vitality-keep-emea-hopes-alive-beat-nongshim-2-1",
+    "https://www.vlr.gg/768871/g2-shuts-down-100-thieves-to-advance-to-upper-semis"
   ],
   "title_hashes": [
-    "0b5da1a6b739637dbb7bc743dbb6696b",
-    "b2a0b08e7b36abcfbb03888dc52604a8",
-    "99f8b9c8feddb0a7b179c32d0d2518f5",
-    "93f8dd6d789641ab6b539abedcaa51fd",
-    "326f1042a57a173b109dc8418b4aaebc",
     "758f1c5ab31f996185053842c390a385",
     "5b41e930579afaf77d782e8afd8f0bac",
     "1da05fbf0872c7b263f131c103e99717",
@@ -16001,7 +15996,12 @@
     "4eb8b5e80cfb8e54b6a9230b7e8319df",
     "31fa9d7fc8dd4aca2b7a81d426f9c7dc",
     "1cb17983ef59de90da1e3faad4ad5fb9",
-    "c51b94158aaea1c4c53cb19b0ef4d971"
+    "c51b94158aaea1c4c53cb19b0ef4d971",
+    "a5d405d2ab6f6a36ef600fa06745cc20",
+    "c7a1cbe24823222afa274db992e6691b",
+    "03301ec312765a54f3b08057bcb2490f",
+    "20653bf9f3bd65f81e4cc4c9f27cf33b",
+    "7fa569b1fb65e43b16078ac9df88707e"
   ],
   "transfers": {
     "pages": {
@@ -21104,6 +21104,26 @@
     {
       "t": "appear battle between call duty goes introducing mobile new next post season themed twilight vampires very werewolves",
       "ts": 1791479313.5570927
+    },
+    {
+      "t": "10 8217 according all bad but data fall fallen game have isn latest nearly news not post sales states united video",
+      "ts": 1791479319.228857
+    },
+    {
+      "t": "6 about all appeared been coming details first game gta have here informed more new players podcasts post previews radio reveals rockstar stations",
+      "ts": 1791479322.6114523
+    },
+    {
+      "t": "25 ban betting brazil broadcasts congress could counter disrupting events face funding gap happens next october post runoff shape sponsorships strike teams what",
+      "ts": 1791479326.178006
+    },
+    {
+      "t": "1 2 2026 alive beat bracket champions defeated emea hopes keep nongshim quarterfinals redforce team upper valorant vitality",
+      "ts": 1791479329.7090778
+    },
+    {
+      "t": "100 advance americas call champions down early g2 reigning semis shuts takes thieves this too upper upset",
+      "ts": 1791479333.1487887
     }
   ]
 }
