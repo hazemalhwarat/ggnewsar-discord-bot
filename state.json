@@ -1,17 +1,5 @@
 {
   "urls": [
-    "https://theloadout.com/pubg/free-to-play",
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FbTZIbllDMkpuWTM1VHNwNWdLZTJfVXdibGZPdndRbUFzX3Zfd1hCM2ZlcHVtb3dWTVROaXl6Rmt0UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5hOFRDdmRxUU9GV0ozcDRBWHNBUlBfWmpCVUlReXJ3Z2x3UlRpeDlxY1dTbVdBMUx3VzJCcjZ3?oc=5",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DeFM3ZzQwS2NTVzFVb1VpR2pjOGI1T2NxcFB5cE5oM3dBU05pVUlnTC1tREdGVFVRUTZrcU9HSk5ULXlrckd2emR3?oc=5",
-    "https://news.google.com/rss/articles/CBMiREFVX3lxTE1BYkl5Y2tYSThuVVhiYVFZeU82ckxKZ3BidnYzRk9XV1lFVVpyZjRfVW9rVzNPZEpseVhmcXRPR2VLU2Z4?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQck9RaFNlc3RpVUI2TWtYMlZ0LWJaT24zYTd5MXAwaFh3WjBEY3Bta1FobWJWbUVTb1lEMVNZS0lfSnRBblhNYXlvU2xfOFFpTEIzX3FxTm1JZlY2aEJBYWNxUDNJb0UzWGR6bUFBSmZXUnlOaGV4SXF2RFdYMEVfcWpR?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWtUaU80Q2swNk5XOU9HRDYzOU54bFYzT2ZrMXdIOERiUUJVZHc2WHlkTkJkOVF2VFBRYW13eVBOSUhGQmlCNnlGandwY1g4Y3pEX0N2NExENjhBUVlGeF80ZE9KYll4Yk0wREtFSFY0dXVDaGlyMDI5b2JLdUdDcXVTTTF2bWdTd3lZ?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd04yQ2xMRGItcTc1VnU2dkpfTU9uZjhQRERFeGdLX2VkcVZCUjh6b1NwRmR6RGpLRHZDVHg3S0otdDRGNVBvb1d4SEtTVV9IUnJKR3otWW82TTB4VjI1ekQ1MzJGRFlOTDNHaThoZ2lLLS1wSnI5N2xWRGIxM0Zvamdvd2VUZVpMMVE?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmxVUzFpWEl3bTBZT0hjZHhXTG1paVlONjRkWkdyQndBMGxrRkFaa2RlMGdKdnU1YUR2TFBrOW1oZlhvMGpRVXU4Q1JhVGxDakhCbVl2N3Q3X3pLWDVuNGVsS2hfUURBaHpsQTA3Ni1fZTlGWm5wSnQxNGtVdDFaRWFYN0o1c2s?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTF9EeW5uYWRjaERVZjlic0phSXMtQV9yWHk5U2l2MzJneVNXeHVPUnNKLXJKTEh4aU43TWhKelI0dFZHeHhDQ2pGbGxmcElPZHo4VVVhSE9iMHBLUThRZzUxQzgtRVpnZk5ZN1lHZlJnS05SeTVYUE9ZSDB1ejNROGdKLXk0eWNfUHZXbFdIMHI?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZl9XbG52VC1KUnFGa3BsMHptaXlsMDY2SDFvQ1NyTUlqZlhhbUJCcS1LRzN0a1AzdGZvZnBQMXl3YVJ3QXdsUmk4VVJmNTdZbS1mTjRoX2Q2TEpUU3prc2hlTE5jM3FiNnRiMnJXZkdBLW1SSTcwem9yb19aLXZ4VW9JNS13cmt2SlE?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Ud3hKQkZaWjlBeGZjTFRiZG1TaWNESFVGdnRsMXdDcVVEQjZ0R0w4MVJiRFNPZzM4dnJWSFc5WkhEald5WWozWHN3T1A?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mWHE5eUhzbUIzWlczcVU4c2Z0cGtKZU5zMnJKX3MzbDdCNHYyN0NGMjVDaWk0VTM3cWhIdVpKUnk5UmNDWmF1NWtCNXozTFZ3OVhaUEV0LXowRTB4bnhLZmg2Vi11M2o1Z096S2RscEpBbkZYSVQ5V1ZEZFg?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb01ITFh5b1Y2ejBXYkJoOVZ4VEpJcE5PWlExRXlLZkJQRmY1S19RcnBnYWhkN29sM0RBRjFRdnNaYUtOY3R1V1dFQ1g0bnMtV3MwMEQ2eU5tQjBRSDhDM0lyMXcxa3I4TDR6Sm5wSHVLaWs0eDFWakFRRG9MZDk4M05Pbw?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEl4WmxlS053ODhQbWJaUDJOYzFvYVV6dFc3MlQ0cW95MlIxUnQwcUw1LTZxM0lYMDdBU3V5VmkwZjRralZ0RFZIRXRvM2VqR3JVUUdkcENsMGU3QVFBMjdGVEc0YlBTZ1E2V0c2NHZPRVhXSmJvWm5RMVlyNWNBYTE5RndQeEJ6Y19j?oc=5",
@@ -7999,21 +7987,21 @@
     "https://www.invenglobal.com/articles/26948/wemade-updates-mir4-with-new-spirit-master-class-on-october-8",
     "https://www.invenglobal.com/articles/26947/higher-tier-hunting-grounds-get-harder-questing-players-gather-at-the-mines",
     "https://www.invenglobal.com/articles/26946/azure-striker-gunvolt-trilogy-enhanced-pre-orders-open-for-switch-2",
-    "https://www.invenglobal.com/articles/26944/icarus-online-to-launch-global-official-service-on-october-22"
+    "https://www.invenglobal.com/articles/26944/icarus-online-to-launch-global-official-service-on-october-22",
+    "https://www.invenglobal.com/articles/26940/surge-in-high-enhancement-accessories-exchange-price-overview",
+    "https://www.invenglobal.com/articles/26939/once-upon-a-katamari-launches-on-nintendo-switch-2",
+    "https://www.invenglobal.com/articles/26933/wow-forever-beta-hands-on-impressions",
+    "https://blog.counter-strike.net/2022/12/40701/",
+    "https://blog.counter-strike.net/2022/12/40702/",
+    "https://insider-gaming.com/arc-raiders-frozen-trail-twitch-drops/",
+    "https://insider-gaming.com/fortnites-hollow-knight-bundle-costs-more-than-the-actual-game/",
+    "https://insider-gaming.com/complete-arc-raiders-frozen-trail-2-0-update-patch-notes/",
+    "https://insider-gaming.com/xbox-promises-to-simplify-publishing-process-to-attract-more-developers/",
+    "https://insider-gaming.com/next-gears-of-war-title-will-not-take-nearly-as-long-to-make/",
+    "https://insider-gaming.com/all-escape-from-tarkov-codes-rewards/",
+    "https://insider-gaming.com/sony-approves-sale-of-hundreds-of-vr-patents-to-meta/"
   ],
   "title_hashes": [
-    "493ecfcf2455bbdc8f8e6cfb32d59d60",
-    "ea3eca236c3dd3947fa24bdef98e7750",
-    "be139f760897660ad6d0782331708a5d",
-    "52097b0c943b4defb1d515e4f40679f9",
-    "e130b74d32dcc3730527a1cc5ad1e8ad",
-    "abe2eac029496f99e5e32d97d66f0138",
-    "cc90771a79a71743a5cc68acbcb610f7",
-    "cf819fc1068012bf52e528372adeea4e",
-    "d8f3e4e9b0f2157c9a140ea2334b5b49",
-    "0ee26808b7b00ecea8929b0d9945fc36",
-    "51b7a94f36a95eae2e90039a22446997",
-    "947f00c8e2228a209823d13b7abbe5c7",
     "4e66facd2b28aaed9e4b084396f1930a",
     "e8d6553c606903dfc14d0302b0ca7064",
     "8092d8b889f7dc1c255f78b3c9320e17",
@@ -16001,7 +15989,19 @@
     "9de8654c39c75344e80847444fa16009",
     "db98aa49729520e79e6bd446a7b456c7",
     "cb260ff15f851cf02fc8809eb8eb0cb5",
-    "3771b38f04f5804676ff4021a5d418da"
+    "3771b38f04f5804676ff4021a5d418da",
+    "3649a40c3edff64bb0c926b93e513ff5",
+    "193dc75e393c1115a5c0e86ed3a62d91",
+    "bcedc450f8481e89b1445069acdc3dd9",
+    "3e1793f0c308dd14ba97985a8bf0828a",
+    "8c3536d2b900042df5b1fc40593c5be7",
+    "292dd254180894290958ae11c5ea2844",
+    "ab791b22152d103b1d5b6c6120dedf94",
+    "8ae00e1e87b1eef2d9bcbb5027b7bfbd",
+    "5294a3835dd56ad644f580634d51779d",
+    "4aacd941f7249611fcb5a5d266f61eee",
+    "b0860e372fe6055ba4e63a0163240dd9",
+    "1f32f6cd4326e05250d937f42062b81f"
   ],
   "transfers": {
     "pages": {
@@ -21124,6 +21124,26 @@
     {
       "t": "22 8 announced global icarus launch mmorpg october official online service that valofevalofe will",
       "ts": 1791452977.318653
+    },
+    {
+      "t": "8217 actual appeare arrived bundle but caused collab comparison costs fortnite game has hollow knight more post price stir than",
+      "ts": 1791452982.7913172
+    },
+    {
+      "t": "attract company cto dev developers has intentions more outlined post process promises publishing scott simplify van vliet xbox",
+      "ts": 1791452986.3768766
+    },
+    {
+      "t": "8216 according coalition day entry franchise gears head long make nearly next not post release studio take title war will won",
+      "ts": 1791452989.8595169
+    },
+    {
+      "t": "active all check codes escape free guide has hunting items more need out post reward tarkov this want you",
+      "ts": 1791452993.347595
+    },
+    {
+      "t": "400 appeared approves away first hundreds intention meta over patents post related rival sale selling shift signalling sony technology",
+      "ts": 1791452996.8837872
     }
   ]
 }
