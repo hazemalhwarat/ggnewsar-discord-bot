@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://theloadout.com/-day-one-xbox-game-pass-platformer",
-    "https://theloadout.com/soulslike-ps-plus-free-game",
-    "https://theloadout.com/gta-zombies-xbox",
-    "https://theloadout.com/leaked-new-ps-plus-game-co-op-jrpg-anime",
-    "https://theloadout.com/xbox/new-games-added-to-xbox-game-pass",
     "https://theloadout.com/the-finals/beards-season-4",
     "https://theloadout.com/genshin-impact/summertide-scales-and-tales-update",
     "https://theloadout.com/ps5/la-noire-2-rockstar-games-sowden-house",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26966/pearl-abyss-unveils-first-shorts-for-crimson-desert-dlc-diving-while-riding-an-ocean-sunfish",
     "https://www.invenglobal.com/articles/26945/fc-online-champions-cup-to-feature-4-korean-teams",
     "https://www.invenglobal.com/articles/26943/experience-the-terror-as-a-game-the-conjuring-unspoken-launches-on-netflix-october-13",
-    "https://www.invenglobal.com/articles/26942/major-anime-streaming-platform-crunchyroll-officially-launches-service-in-korea"
+    "https://www.invenglobal.com/articles/26942/major-anime-streaming-platform-crunchyroll-officially-launches-service-in-korea",
+    "https://www.invenglobal.com/articles/26941/vanillawares-first-pc-port-muramasa-revenant-blades",
+    "https://www.invenglobal.com/articles/26938/kartrider-rush-releases-final-episode-of-ald1-variety-show",
+    "https://www.hltv.org/news/45675/kyousuke-is-second-most-picked-at-197000-in-epl-playoffs-fantasy",
+    "https://www.hltv.org/news/45674/all-top-14-teams-accept-invites-to-pgl-bucharest-2027",
+    "https://www.hltv.org/news/45599/hltv-prospects-ranking-october-2026"
   ],
   "title_hashes": [
-    "3d0f423d75991238e4780643f9eb7e35",
-    "265d060d21938a49ff563611f4f12837",
-    "2204f58eaacb062f374c656116e2a09d",
-    "5f3bad5dc9bc6099879d049a06fdc9bd",
-    "82f177e9e1e835a39320205ccffc7c08",
     "86929ccd5eb0f50f23b4261c279091e1",
     "a982550521d16bcd587af7f1fdcb999c",
     "a20969c9edcd9bc628e66635fc4ff304",
@@ -16001,7 +15996,12 @@
     "4e4c05e2414921097b28684141c9e528",
     "f5f34ac68c7a1a320a783867b7624454",
     "45395ffbb7d82f474df50ab0bee89fd4",
-    "3bb1860ce78b815c35bbcc899bf205f9"
+    "3bb1860ce78b815c35bbcc899bf205f9",
+    "11a96adced49bc39391af6ffff12a9cb",
+    "ec8c777e4f69346ac6390d8bee5a7a19",
+    "9a9133b908b97654866533f0df2284a2",
+    "6f70e73614dcba4f42bd903e28f1e80a",
+    "790d2defb3e0661c8289ca984e6b6f4f"
   ],
   "transfers": {
     "pages": {
@@ -21064,6 +21064,26 @@
     {
       "t": "8 anime announced crunchyroll global has its korea korean launch launched launches major october official officially platform providing service streaming subtitles",
       "ts": 1791479274.3605042
+    },
+    {
+      "t": "2009 blade blades deeply demon emotional first moment muramasa nintendo port released revenant that think vanillaware very what wii would",
+      "ts": 1791479279.8928266
+    },
+    {
+      "t": "8 9 ald1 alpha between collaboration drive episode final its kartrider nexon october one part release releases rush show three variety will",
+      "ts": 1791479283.4591722
+    },
+    {
+      "t": "000 197 epl fantasy game kyousuke live most now picked playoffs second",
+      "ts": 1791479286.9650774
+    },
+    {
+      "t": "14 2027 accept all also bucharest closed coming event feature invites out pgl qualifier romanian teams top two will",
+      "ts": 1791479290.568926
+    },
+    {
+      "t": "2026 eight end hltv jumps month october place places prospects ranking second syph0",
+      "ts": 1791479294.009335
     }
   ]
 }
