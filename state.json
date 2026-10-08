@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mWXJIM3dremJBY2V4MTNBVDZCTmdzNTNzU2dKcm40Y3VOeVAzZU1FSWk4Y01rSW9YcmtMbkxORTVySnZLUnRQZks2a3BMcVU1OXlhNkJXZ285YVhrZXNtejhVS0VINHd6OTZQQ2JOcm5meFlZZmJReFZB?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXA4ZzdzZHVFUVBUNjF2T1NZUzU5WTY2NjB1SmVmanJpXzNZbHlJdDJOcWR0R3BTNUg3NHN0aVhNTFdoM252Z1RaS2JqNmRqRGNqQWEtTE9YR3ZDd0lKc3NyV3Q3bVNCN08xanNlZEoxOGFFV0x5dTlRN0VtM3V4M09CcnVJQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU01IUWVvdk1hN0NLbE9tLWZsdFlSUlJlc0xsSVJOc2JyY1FNQlNiVGt2WGRLcVI2Sk11aldQa3hVWVFEeU9SdWJucThCc1dzdTg2Ym5zS2pwbzVEUTAwT3BtVjYwYkZ4emM5Ui1hSnUxUkNyNjdsVDFZR2pqNTlrT25QT0ZHSEoxdDNOcVBUS0F6M2c?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNTVsYnRwM2Q4Q2J6cV9qdWhJQUtTMVFWSEFNd19XN3d1dEx4MnhjdnNhTTlqbXZwcjEzNkRFV3R5clVuNVlWb2xoa2JKZjEwelpvVnU5am1RSFI0MzdhV2FsUEZ4Y2RLOFRobDc3MEcxUENzNjZ3LS10ZzBoM0tMa3RpSW9Hb0RqVHo0QVVTOEJfbDFxWGdsTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtaEhvSDV0OG9KeER6bUpreUF3UzdrOXBqU3g0Mzl5Q0dRWXdEUDNUT0doblZaa1JQdU1kMGhiTGttSEJYVXFuLUs0QmlzOE0?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CTmVnSTZ4YkZ0MXA5eThsVEIxT1oyOVdLcE9oUXNNczZQTUlsZ2RzSFluSmdsVUluVDg1VFlBcmMyRU5hamU2aExCdGNEZnJWR2VjTnd0THNDTzlLZDNWUGNRcWRjLW5zRDhtQmFZU3c5eEUyN0Raa2Y1a2FDdUU?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmFwTjZRbjhFV3pfdVRfeTJjbVNJOVN5X0hrY25iWVRHTkZhZ0tGSnlEblp1aHUyQTRfeHRwbEJrQVdWZVBGaF8wUnRWMkphTG9rSjYtWlF3M0FuMVhEZm02dU05MlVhYkNIbUh1R21zeFBLZ3ZpUm9WVzkzOGVKR0FOWFdVUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMjEzZHJyVi1tNVhNdHlGd0NGRlZxd194eXNkOC1NRlFUdnNBVU1UQ00zVnZET2hXbDJkU0tuaUYzVFdSU212Ri02c01DV2lqRm1hc2Z6dVU0RlhDZU13Y3NGT18zS2pxejJqd04ycGtJSlJ5bWhUQmM0anlxU25YNkNwUkkzLTZvVVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcjhHYWk1cjZ6Y0VfOEpTSDlsMUU0OXZmSExORlhpMW5DVHlXOXhkbUNaMTN6UUxrNlVGVERkdDQ0enRndjVyTnhkRUEzOGNXYnRkSE93U0EyYkMwbUFVbWl2cEhJQ1dOREpGSlhieGgxUWpldDVhaGR2b3k2eW91VWE3cVhJMDFi?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGdZYnVGZjk0NXBCa1NCZlM0Skh3ajVFSHQtWnRuYk1UYy1pRlVaRkZMckxIVjA5QlYxQkxOYWtMOGVtdU1XUllUb3JkdFhTbzYzSzBjc0RFUjhEM1VEUVdYdzROY05sa25BS1ppR3VsT1YxazJWUnpQblhLY0FBM2FZRHpUZjFYMEItd0gxNHU5R0pDR1E?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDJJLWFnRUE5U2JBMTlhQURYRFVhb2R4ejJKRFFBZzlqYllBWk56WWtWNjRxdjRFTHFLZWdoYnN4VWJJdkZwbWtFcE5BRm1YZnI0RmlCVDJuWld0YlY4akZYS0ZUZE5RRnJMLU5fc0VhNTZkZGRuVTFNVVE3S25QX0NKUDVoVGRVUVQtZG5IYmFDdC15RWpCeFUyU2d6MGNyVzd0UA?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1dlaFRPZk9ERG5BY2dLRnVlS2pSY2dORjRxVFRlNDVZeEh0Y1BoeTFVSFZlQkNuMDB6S1ZXOHlpNEdqLWE4UE5HYmxnWTBYc1NEZkNQc3E5Z0NXQ2JqTk1Sb2F4WWNQcjFBaXFnaWNoNFRodUFSUWFoaGhIY2VjLWJ3eFdQNzFyd0pj?oc=5",
@@ -7999,18 +7990,18 @@
     "https://insider-gaming.com/contexto-hints-answer-for-october-8-2026/",
     "https://thegamehaus.com/fantasy-football/fantasy-football-week-5-wide-receiver-rankings/2026/10/07/",
     "https://thegamehaus.com/philadelphia-eagles/eagles-to-trade-center-cam-jurgens-to-ravens/2026/10/07/",
-    "https://thegamehaus.com/minnesota-vikings/vikings-to-sign-odell-beckham-jr/2026/10/07/"
+    "https://thegamehaus.com/minnesota-vikings/vikings-to-sign-odell-beckham-jr/2026/10/07/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-week-5-running-back-rankings/2026/10/07/",
+    "https://thegamehaus.com/college-football/college-football-week-6-news-and-notes/2026/10/07/",
+    "https://thegamehaus.com/nfl-draft/2027-nfl-mock-draft-october-7/2026/10/07/",
+    "https://gameriv.com/gamestop-lists-used-ps5-pro-for-1399-99-500-above-its-new-retail-price/",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc05XOU9XSnYzalk2c3ptXzZ3ajlURFJUb3BjUjkzRFotSmVRWHRmZDlyUUNic0pDbkJqTko3VmNmNmZqdEV5TTJrWWtrLUNsYi1PcEVPZ0l1QW5PNjdIVTFCdlhpODhHcVdCNGNKTGp6bTJ4VS1vV01jcmw2cEJfS1JrWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVNONVFIUXc5UkoweXBpdm9sOXZiRF9vOUZSWG8tZVQxQmRTWkdTdUpPdG1wVFExampnVEVQVEsyZm4xZjUwVU5OSDdDa1VWbHVVQ1JxSk9ZN0ZKMTl5UkFxVHVlaE5kZTNzaTdlMXdObktfTUtjd3FaZkpVYkxranFHOGFGdWhIcXY4ZzB3?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/players-to-watch-at-worlds",
+    "https://www.talkesport.com/mobile-gaming/pm-modi-mobile-phone-gaming-console-creation-studio-imc-2026/",
+    "https://www.gamesindustry.biz/fireshine-games-acquires-necesse-dev-fair-games-described-as-a-defining-moment-for-danish-indie-studio"
   ],
   "title_hashes": [
-    "e4aed2276ed582c5f71bfe4ddf701774",
-    "2681496252f36fe9cdd04978da3bdd33",
-    "3aff20735773936043c6fd8b5a7cc641",
-    "1cad03b8f13bcd7cbd7acd94935a3430",
-    "82fe09cef3d779c57144033e770ac476",
-    "56ac3bcc35230ce2eaf7e9c48b9394a2",
-    "96bc08c21084cba908f070723cc46951",
-    "ad77c20da8e9c15b831c5863523c8bf3",
-    "2cf035db264c3c1b4a1bf6991c8f1e74",
     "655661c7cee5a8874f2f118693ab3fee",
     "2ed2771a3bf8502f3b1b087935207f72",
     "dbd925681a13ea263135fb79e16adf7c",
@@ -16001,7 +15992,16 @@
     "5ac5c129310ec4080b0a7218a1ed8da9",
     "4302ec966d24fa5c33150155507870c6",
     "9f3427c9111d623a2282e522d94dc785",
-    "70cb819d66ec6b2f7b4be9b129e9eaab"
+    "70cb819d66ec6b2f7b4be9b129e9eaab",
+    "ee6a9fb143c23219770f6ea22604c48f",
+    "1d559d12a9b983fb8cce9fbd17339f60",
+    "f9ab0899aca53a3c7e36f06342388059",
+    "a11ec1012af54dbac820ca41f0af706e",
+    "aba5534ca57d945e9395ad99b928bf94",
+    "941a14894878d93eb7d5ad98038690a4",
+    "fdf9f9e08559221f431e3b32b2ee5f1f",
+    "55111b77ce21248f40b210669f89aca2",
+    "5e76be3580a38c0ba8657892512f6a05"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "8217 active agent beckham called could free minnesota odell potential practice receiver roster sign signed squad their there time vikin vikings wednesday wide",
       "ts": 1791453016.4629698
+    },
+    {
+      "t": "5 6 around changes college conference country date developments football including injuries latest news notes other playoff quarterback stay updates week",
+      "ts": 1791453021.8529289
+    },
+    {
+      "t": "1 399 500 899 99 above according brand climbed console gamestop has its lists literally new owned pre price pricing pro ps5 puts reports retail that used",
+      "ts": 1791453025.3459172
+    },
+    {
+      "t": "2026 5 8217 after best biggest c9 europe five hanwh here lck loki lol next players prodigies queue solo split stars tough watch worlds",
+      "ts": 1791453028.9178455
+    },
+    {
+      "t": "2026 500 calling calls connected console creation creators gaming imc india indians million mobile modi more opened phone players pointed said studio than young",
+      "ts": 1791453032.3880715
+    },
+    {
+      "t": "acquired acquires danish defining described dev fair fireshine games has indie its moment more necesse open read sandbox studio title world",
+      "ts": 1791453036.0026386
     }
   ]
 }
