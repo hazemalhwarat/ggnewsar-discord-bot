@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://theloadout.com/pubg/spotter-scope-update-16-2",
-    "https://theloadout.com/pubg/patch-16-1-changes",
-    "https://theloadout.com/pubg/ranks",
-    "https://theloadout.com/pubg/playstation-downloads-january-2022",
-    "https://theloadout.com/pubg/player-count-free-to-play",
     "https://theloadout.com/pubg/free-to-play",
     "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FbTZIbllDMkpuWTM1VHNwNWdLZTJfVXdibGZPdndRbUFzX3Zfd1hCM2ZlcHVtb3dWTVROaXl6Rmt0UQ?oc=5",
     "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5hOFRDdmRxUU9GV0ozcDRBWHNBUlBfWmpCVUlReXJ3Z2x3UlRpeDlxY1dTbVdBMUx3VzJCcjZ3?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26953/soop-unveils-teaser-page-for-lol-world-championship-event",
     "https://www.invenglobal.com/articles/26952/ragnarok-zero-launches-season-4-of-pvp-content-tome-of-battlefield",
     "https://www.invenglobal.com/articles/26951/epic-seven-officially-launches-on-steam-oct-29-opens-new-server",
-    "https://www.invenglobal.com/articles/26950/13-indie-games-with-intriguing-ideas-meet-the-finalists-of-2026-gyeonggi-game-audition"
+    "https://www.invenglobal.com/articles/26950/13-indie-games-with-intriguing-ideas-meet-the-finalists-of-2026-gyeonggi-game-audition",
+    "https://www.invenglobal.com/articles/26949/battlefield-6-set-to-join-xbox-game-pass-in-october",
+    "https://www.invenglobal.com/articles/26948/wemade-updates-mir4-with-new-spirit-master-class-on-october-8",
+    "https://www.invenglobal.com/articles/26947/higher-tier-hunting-grounds-get-harder-questing-players-gather-at-the-mines",
+    "https://www.invenglobal.com/articles/26946/azure-striker-gunvolt-trilogy-enhanced-pre-orders-open-for-switch-2",
+    "https://www.invenglobal.com/articles/26944/icarus-online-to-launch-global-official-service-on-october-22"
   ],
   "title_hashes": [
-    "685bd53c145a94785bc59ba8bb7f14c0",
-    "3fd2ab55b50fab773baa4098205e58fc",
-    "ad521f2448e07a58615ed9f31f38643a",
-    "33796035a517fd702f89aa371331eeac",
-    "3758e09dc78eb56cb3f413a0e5c24e0e",
     "493ecfcf2455bbdc8f8e6cfb32d59d60",
     "ea3eca236c3dd3947fa24bdef98e7750",
     "be139f760897660ad6d0782331708a5d",
@@ -16001,7 +15996,12 @@
     "1541c0195f3d0f1741069d8d6be94ff2",
     "69a7ac4d7669998e6845e75fea3114ef",
     "452e0a921251721fe9616d521d9af0b1",
-    "7ac6a4f3c27539f5455da37f9f375f79"
+    "7ac6a4f3c27539f5455da37f9f375f79",
+    "c942dd50bfd878e00705f735ab122232",
+    "9de8654c39c75344e80847444fa16009",
+    "db98aa49729520e79e6bd446a7b456c7",
+    "cb260ff15f851cf02fc8809eb8eb0cb5",
+    "3771b38f04f5804676ff4021a5d418da"
   ],
   "transfers": {
     "pages": {
@@ -21104,6 +21104,26 @@
     {
       "t": "13 15 2026 21st audition final finalists game games gyeonggi hold ideas indie intriguing its meet october will",
       "ts": 1791452957.7339303
+    },
+    {
+      "t": "6 7 announced battlefield blog famous game its join joining large local microsoft modern october official pass scale set that time total via warfare xbox",
+      "ts": 1791452963.0809438
+    },
+    {
+      "t": "8 added class its master mir4 mmorpg new october spirit updates wemade wemadewemade",
+      "ts": 1791452966.6307335
+    },
+    {
+      "t": "5 55 7 added attention blessing every following gather get grounds harder higher hunting level levels mines new newly october offered players questing quests rewards skills starting their tier turned update",
+      "ts": 1791452970.2750053
+    },
+    {
+      "t": "2 announced azure collaboration cometsoft creates createsinti edition enhanced gunvolt hereinafter inti nintendo open orders physical pre striker switch that trilogy",
+      "ts": 1791452973.856441
+    },
+    {
+      "t": "22 8 announced global icarus launch mmorpg october official online service that valofevalofe will",
+      "ts": 1791452977.318653
     }
   ]
 }
