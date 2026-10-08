@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://gameriv.com/valorant-warden-new-2x-scope-rifle-leaked-stats-and-price-revealed/",
-    "https://theloadout.com/pubg/new-map-deston-mechanics",
-    "https://theloadout.com/pubg/patch-18-1-notes",
-    "https://theloadout.com/pubg/update-17-2-1v1-arena",
-    "https://theloadout.com/pubg/update-sanhok-returns",
-    "https://theloadout.com/pubg/2022-roadmap",
     "https://theloadout.com/pubg/spotter-scope-update-16-2",
     "https://theloadout.com/pubg/patch-16-1-changes",
     "https://theloadout.com/pubg/ranks",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26959/dynasty-warriors-3-remaster-shows-25-years-is-cruel-78",
     "https://www.invenglobal.com/articles/26958/world-of-dokkaebi-tops-popularity-charts-on-both-major-app-stores",
     "https://www.invenglobal.com/articles/26957/epic-seven-e7wc-2026-group-stage-begins-october-10",
-    "https://www.invenglobal.com/articles/26956/kingdom-hearts-collection-confirmed-to-add-korean-subtitles-in-early-summer-2027"
+    "https://www.invenglobal.com/articles/26956/kingdom-hearts-collection-confirmed-to-add-korean-subtitles-in-early-summer-2027",
+    "https://www.invenglobal.com/articles/26955/kraftons-new-title-pubg-dednet-begins-first-cbt-in-north-america-on-october-9",
+    "https://www.invenglobal.com/articles/26954/nexons-new-title-overgeared-rebuilds-its-world-as-an-mmorpg",
+    "https://www.invenglobal.com/articles/26953/soop-unveils-teaser-page-for-lol-world-championship-event",
+    "https://www.invenglobal.com/articles/26952/ragnarok-zero-launches-season-4-of-pvp-content-tome-of-battlefield",
+    "https://www.invenglobal.com/articles/26951/epic-seven-officially-launches-on-steam-oct-29-opens-new-server",
+    "https://www.invenglobal.com/articles/26950/13-indie-games-with-intriguing-ideas-meet-the-finalists-of-2026-gyeonggi-game-audition"
   ],
   "title_hashes": [
-    "83fda8c849cefad63fed599a46823506",
-    "4a9aaa325a25d310e8068830c6c2ddf9",
-    "ffbe540de055edeb8512bf543da956de",
-    "0e8d017dfc4bc6060eedc647e25331ec",
-    "2fea06abfeff72f16f7b64a4d0da7856",
-    "e44ee0aafadda351a3daba3db46ea20b",
     "685bd53c145a94785bc59ba8bb7f14c0",
     "3fd2ab55b50fab773baa4098205e58fc",
     "ad521f2448e07a58615ed9f31f38643a",
@@ -16001,7 +15995,13 @@
     "02d1659fa83cd8495270e1d3f54fa2fb",
     "e9de53607491f30961131326ba7a362d",
     "5de3574a95e675ae4e809a26f569f8da",
-    "32b3c2005fc5d9fb7858d4a7bef6c370"
+    "32b3c2005fc5d9fb7858d4a7bef6c370",
+    "669fb6a16f74d24cabfaa39843ae8aef",
+    "a1e9eca4531993b9a278a817ea98c42a",
+    "1541c0195f3d0f1741069d8d6be94ff2",
+    "69a7ac4d7669998e6845e75fea3114ef",
+    "452e0a921251721fe9616d521d9af0b1",
+    "7ac6a4f3c27539f5455da37f9f375f79"
   ],
   "transfers": {
     "pages": {
@@ -21084,6 +21084,26 @@
     {
       "t": "2027 add collection confirmed early enix enixsquare hearts kingdom korean major series square subtitles summer titles two will",
       "ts": 1791452937.9057155
+    },
+    {
+      "t": "2 8 adapted being detailing episode featur how into its mmorpg new nexon october original overgeared overtalk rebuilds released series title video work world",
+      "ts": 1791452943.4220526
+    },
+    {
+      "t": "2026 8th championship dedicated event lol opening page revealed soop soopahead teaser unveils world",
+      "ts": 1791452946.9176624
+    },
+    {
+      "t": "4 7 battlefield content gravitygravity its launches mmorpg october opened pvp ragnarok season tome zero",
+      "ts": 1791452950.6384869
+    },
+    {
+      "t": "29 based epic its launch launches mobile new oct october official officially opens rpg server service seven smilegatesmilegate steam strategy turn will",
+      "ts": 1791452954.2182295
+    },
+    {
+      "t": "13 15 2026 21st audition final finalists game games gyeonggi hold ideas indie intriguing its meet october will",
+      "ts": 1791452957.7339303
     }
   ]
 }
