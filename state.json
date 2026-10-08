@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.vlr.gg/755930/team-secret-allows-igl-styron-to-explore-options",
-    "https://www.vlr.gg/755727/short-riot-introduces-new-rifle-warden-in-patch-13-06",
-    "https://www.vlr.gg/755764/rex-regum-qeon-allows-head-coach-jovi-to-explore-options",
-    "https://www.vlr.gg/755762/h1ber-announces-free-agent-status-after-short-gentle-mates-stint",
-    "https://g2g.news/esports/1312-interactive-raises-usd-1-million-to-expand-indie-game-publishing-across-emerging-markets/",
     "https://gameriv.com/valorant-warden-new-2x-scope-rifle-leaked-stats-and-price-revealed/",
     "https://theloadout.com/pubg/new-map-deston-mechanics",
     "https://theloadout.com/pubg/patch-18-1-notes",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26964/pok%C3%A9mon-30th-anniversary-orchestra-unveils-schedule-and-ticket-details",
     "https://www.invenglobal.com/articles/26963/post-beta-wow-forever-what-is-the-development-direction",
     "https://www.invenglobal.com/articles/26962/goddess-of-victory-nikke-distributes-maid-cinderella-costume-and-holds-halloween-event",
-    "https://www.invenglobal.com/articles/26960/chinese-game-show-weplay-expo-to-be-held-in-japan-in-2027"
+    "https://www.invenglobal.com/articles/26960/chinese-game-show-weplay-expo-to-be-held-in-japan-in-2027",
+    "https://www.invenglobal.com/articles/26961/escape-the-baby-alarm-a-puzzle-adventure-about-parenting-launches-november-24",
+    "https://www.invenglobal.com/articles/26959/dynasty-warriors-3-remaster-shows-25-years-is-cruel-78",
+    "https://www.invenglobal.com/articles/26958/world-of-dokkaebi-tops-popularity-charts-on-both-major-app-stores",
+    "https://www.invenglobal.com/articles/26957/epic-seven-e7wc-2026-group-stage-begins-october-10",
+    "https://www.invenglobal.com/articles/26956/kingdom-hearts-collection-confirmed-to-add-korean-subtitles-in-early-summer-2027"
   ],
   "title_hashes": [
-    "f326c02dccde5107c3380ac4a7af8e27",
-    "868fd55c39f038906487773e4647105c",
-    "32aa8f6a7fb43c55cff7faf02b08efb9",
-    "1b671207081f8b7fabc3e978acfb5664",
-    "ca7d73fe59efe0cd0919b889a34ea448",
     "83fda8c849cefad63fed599a46823506",
     "4a9aaa325a25d310e8068830c6c2ddf9",
     "ffbe540de055edeb8512bf543da956de",
@@ -16001,7 +15996,12 @@
     "4c5783c63cc8b42b7c331512eab8a2c3",
     "d58946026e1f4fd2b8a2d4ae36d8e89d",
     "6aa463460ee711c8e083d0eb356d112b",
-    "4c4e6179b7a1dbf93f3f8563d11f8a14"
+    "4c4e6179b7a1dbf93f3f8563d11f8a14",
+    "ddc6ab37c400d46cc5ee333acb9da91f",
+    "02d1659fa83cd8495270e1d3f54fa2fb",
+    "e9de53607491f30961131326ba7a362d",
+    "5de3574a95e675ae4e809a26f569f8da",
+    "32b3c2005fc5d9fb7858d4a7bef6c370"
   ],
   "transfers": {
     "pages": {
@@ -21064,6 +21064,26 @@
     {
       "t": "2027 8th announced china chinese event expo expoweplay first game held indie japan representative show that time wepl weplay will",
       "ts": 1791452917.651195
+    },
+    {
+      "t": "24 about adventure alarm android baby escape interactiveescape ios launch launches november parenting puzzle simultaneously will yotsuba",
+      "ts": 1791452923.4632947
+    },
+    {
+      "t": "2025 25 3 7 8 changed comeback cruel dynasty grand granted lot made process remaster series shows truly warriors years",
+      "ts": 1791452927.1128945
+    },
+    {
+      "t": "1 2 5d 8th announced app apple both charts corp dokkaebi games gameskakao google its kakao major mmorpg new play popularity reached store stores that tops world",
+      "ts": 1791452930.7724624
+    },
+    {
+      "t": "10 2026 announced begin begins championship e7wc epic epic7 group hereafter october seven smilegatesmilegate stage that will world",
+      "ts": 1791452934.4004743
+    },
+    {
+      "t": "2027 add collection confirmed early enix enixsquare hearts kingdom korean major series square subtitles summer titles two will",
+      "ts": 1791452937.9057155
     }
   ]
 }
