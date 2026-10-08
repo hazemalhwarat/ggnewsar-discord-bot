@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGdZYnVGZjk0NXBCa1NCZlM0Skh3ajVFSHQtWnRuYk1UYy1pRlVaRkZMckxIVjA5QlYxQkxOYWtMOGVtdU1XUllUb3JkdFhTbzYzSzBjc0RFUjhEM1VEUVdYdzROY05sa25BS1ppR3VsT1YxazJWUnpQblhLY0FBM2FZRHpUZjFYMEItd0gxNHU5R0pDR1E?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDJJLWFnRUE5U2JBMTlhQURYRFVhb2R4ejJKRFFBZzlqYllBWk56WWtWNjRxdjRFTHFLZWdoYnN4VWJJdkZwbWtFcE5BRm1YZnI0RmlCVDJuWld0YlY4akZYS0ZUZE5RRnJMLU5fc0VhNTZkZGRuVTFNVVE3S25QX0NKUDVoVGRVUVQtZG5IYmFDdC15RWpCeFUyU2d6MGNyVzd0UA?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1dlaFRPZk9ERG5BY2dLRnVlS2pSY2dORjRxVFRlNDVZeEh0Y1BoeTFVSFZlQkNuMDB6S1ZXOHlpNEdqLWE4UE5HYmxnWTBYc1NEZkNQc3E5Z0NXQ2JqTk1Sb2F4WWNQcjFBaXFnaWNoNFRodUFSUWFoaGhIY2VjLWJ3eFdQNzFyd0pj?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWdoOFBWWXNuUEtXZ0k4QVlzSjcxM1hwYlBIbnU3bGFFdzdrZk5iSDNNQjFEeGI3TDBYaVVpSFZYSFRETWVfX0RjSUt6MkVCb3JqZXR2MnAzWTZpOHVfYUZXNmNzWmxjN1BGWVFEMTJGT2x2cXB6dVRwcXNDYms2cjRfempwSE9xY1J3d3o1RzZJZTdUVk91bUlNRzBlcDh4QlJGZHRUb2Q4U1FuZmN1eWpaTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93SHFMendPU181UnVFa3E2cXhndklXSVE1UWI2ay11Q2JXampjODVpVm1qMk5nNHFyTHFpVmFHNzFpeUJ3TGViSlN1MjRfdmpwWnZNaFM2U1U1a2NwOEdxOQ?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNm12TG5sYWMtQ1o3MmJFbHNJU0VDVUpzWHp0SkVWX2FqdE5rMHVfMHdaVjJxLTFieVdlWHdVbE1WUlRNQWVEMXZCdUQ3SzAyOFdaZ0trR3N3VFZYd2Joa2RLcXpNay14SG16a1R2V2NyYXd3cUJMclRWbmRySkV6R1BkMA?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFdBMkZFMVUzaWJrS2VJT1pTSjdnVEhkTEcyMm13RGxPel9MR2xpbGViU1E0eUtSNWlWMHVIMnA4bndMcTdUMERXSHhYcUkwOTlXTlgxeVNiWmhkeVhTM19oVUdFQ0ZYV3dLNi1vNnc4QXUwR2lPTVNOTkdfcmxEWDB2NlNZdG9YeEdOY080d3EwQTJ0c2ZaVGpMOGI5UkZMWWZ2TnBB?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5OS1IdERmQVRjVWg2bDdBR3RDX2l5SFJyU0hjQnE5SjlGNUZLQ1Y3RGJsOFRuSVROWjVFTFM4SXdualVURDczc0VZNHJCVklGdEVqSHFUVVJDUzV4cWJ5VmhpZjF4WTdMaHBrNnp4eElqUDdCYXRn?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckVpOW10VDJqNzNKZGNuZ2RBc3QwWVFvMENudEJGUVFFOW5WNHZKaHp6Y2JWY0ltM0JaWUNIekEyZUxEN29VUS1nbTZCblRBZHdrR2RkRHJac3lmQkh1eGwyMVVSbE5FOEQ5Tl9CSlFKU3l4M0VkZS1KdXRjWE9oclgzZUFmQXJsZkpwOWM3MnBfdw?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ05UdjRldHl1SExGLVJmZnlZSHh3cmRhRHZsWFg4Y3ZXWG9RYUxhMjVDa0NKWDNlYVBIVzVZUnp6ZDBzdjNEUDA4ZEhDVjR5cHNMd3RUS2N1VXF6a3dKUVpYaExiVlFLUWZBU1A1dXoyVVJDQkgtLXI1N0l3dFRZQjhlaDNlZ3I3aHV2Vnkzbw?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YMWV0c2RRTFRpQ2dXODl1SnFueUpCaDBtMndmR21WT1d2T3RZX3Y0XzhURVFjQTI0MllXZ0o3cktOaEhPTlEteGZuaWFGaldEd1RJT1luWXozMDhmaDdxNko4RnZFQTlkazZOTEt5RU1hS0lpdURCNXhB?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTlyTUlCQnl0QVRFdnJwYXlLY0RqT2RYYlM5SDZhUW9LNFNmUWtaMnZ4NHFoWjg3OVBKaTBTcVBPNVRMSVRSNGQyRVRLN3YzTURwTkQwUGdEU3EzcE0xTm1WdXlDNDI1SE1oRTFKcWZWaWRxY0NnZm1yN2Q0aGRLY2ZnaHpjZ3B0N2J3aTQyQkF1dGZQY05laXdjVk1kUk50QVJv?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVR1QxZUhJX2VvZ19fZkFfV0oxU2lkQkJ3d0tvejExWENrd2RvcGJlV1M1TFd0MzdrZmVQN2hKdzlPMmZ0blE?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMWVKbHFiXy1kQVR6eUhlSzZCLThSd0NQT1pmaWF2T2xqdXFMMUVOUkJhUGc0aVNLYVNCSDRtSmk5XzkyMHVreUFhVk9QNUk3OC1oYW1JUWdEamQySWc0czU5dkU4U2pSUTF4TFJ3TU9zVWotYTA1RU91T2lScXExRW4zT0t0UEFQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdkJPSF9sRFo3Zm53Z1AzejRKWmw3LXpQb2lqMGxGVWhCWnc1RXlTZ3NUb2Rrc0Y0S0RtQ1BRSjduUWhSa3NUZWtDME9Da005WWNmaTBJUnpmM1FOUGZxVUIxTDdNX21VX1J0WUE2N0xrWjV2TkNLbUROampGQ3VlVVFzRlhVeW9nWURZZTlEck8?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlRMTzlZM2hVaDlmVEVaLVVIOXpJYl83SUQzNUcxem1aMEZralM5ZFh6Sm55ajJKR3NzUTg0eFhtWTMwV05vUE54UTFwcUVmdm1IWjN3VnFja0wwUkZyY3JlS3JrUnB2TWNvd18yVGVLYlItQnBZSXA3djIxdHV5MU1Vb1ptSWs?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkF1WEhWRTVCSHhZclg4U3lIZ0wxMm14V191NlpQSEd1Zk9LaW1GekpxaExNRXdDRjl2ZHhSQTMxRjhzR2tmNE1Ec2xLS1puaGZhNkgxZ215cGFLNVpDTjN3MzM1NG81WHdUMkNLT1ZoaUJ0YTJJQmdnanYzRHVQeVJsTE5iTHZGaHRYZ0tXSkpzcGNjTWhISE9qcDZaVUU?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb2ZtVnB0UzZqazllaTZfSjMtak1YQ1BXQkpJSHBUbGZ6NmFJVUtmQU9CWVpGU1QxVUVpaFBQb3RHMXZ4V0NSSl9XcERpTERFSDl6LVZUaF9Ga1Z0clVXUE45c3VaLTMwdDNiRktoT1VCOXNvX0lNc0F5RWNRTnVUR0V5UFpOZ044ZWZN?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWg4SzE0RGhPYXlhRzVxUWZzNEJFQWhBMGVDVWwtdnQ4QUdSVzJ4cV9waExCc1ZoazFaTHl0WTdHWk9BcE0zVGw2WnUwNzNkczlQM2N3eDJWLUpmUC0wWEdibHd1eVBIWWFjM19GY244WUZfZ2FZTFNfdk1kSjI5LURITGs?oc=5",
@@ -7999,23 +7983,25 @@
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVNONVFIUXc5UkoweXBpdm9sOXZiRF9vOUZSWG8tZVQxQmRTWkdTdUpPdG1wVFExampnVEVQVEsyZm4xZjUwVU5OSDdDa1VWbHVVQ1JxSk9ZN0ZKMTl5UkFxVHVlaE5kZTNzaTdlMXdObktfTUtjd3FaZkpVYkxranFHOGFGdWhIcXY4ZzB3?oc=5",
     "https://www.hotspawn.com/league-of-legends/news/players-to-watch-at-worlds",
     "https://www.talkesport.com/mobile-gaming/pm-modi-mobile-phone-gaming-console-creation-studio-imc-2026/",
-    "https://www.gamesindustry.biz/fireshine-games-acquires-necesse-dev-fair-games-described-as-a-defining-moment-for-danish-indie-studio"
+    "https://www.gamesindustry.biz/fireshine-games-acquires-necesse-dev-fair-games-described-as-a-defining-moment-for-danish-indie-studio",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SUmplYV9ZUTU4bkY4dFpWdXM2N3JPZmJlQVlVQVdnaEZvejBsMVh3M3FXVzc0SmZRT1l1eTZsUk0wVVAtT1dqVS01ZFR5dGNQVWM5ZVpmNlpDdUNaU2t2YmQyQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95NmgzUVdtUm50ZjJ1eTlZeVMyZHVQSnh0MXBkRENwQVFJdDhSNVF2RnJ6RlExMkJoSDExbWsxbWFwODdsdDJ5V2EzWlFNM3Vvc2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDZrVnVGNXhMc0tIb1RpS2ptdFhtLVhUbnJDX3JwcDJJUVdub0RfSEZ6VEhXUFgxaERSaEtTMjZ2U3BPMllwaUI1RFZzTGlpVmljSksySnhQSHZFWmxQbHJickdXbUxyM2R6cF9sWThrSmF3TUs3VWlDdU5GU0lGWU5acEN0clFzVUNPYnlxUXlud1Awb1MtWlktS3RNYXU0WlpOYVRfd2ZyT09nRk13b2FGVlY4eWRvMWRfWU9NWEM0NkU?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc3hPMWM0RUdlbVI2R3VSbS1VblhwNDlDR3gyU0hxOWRrbkNhYW4zR3hPREQzRmxDazZQbklDUW1xN0ZKLXgzM1dacXJaSnJXMnc?oc=5",
+    "https://europeangaming.eu/portal/latest-news/2026/10/08/215638/bookmaker-sponsorship-british-racing-falls-17-percent/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/08/215620/hipther-warsaw-summit-2026-agenda/",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaTkxRnczM2E0TWxIc21PNnBORkZXbWF6TUJSemhUaXlKU09oVkVOeXJqejZIUHFHMW9FUUVNWlFhOWFRVDhPaDVqQnN5RmZacnZtOFRoU19LUGcxUUtrNVVHQ3NNXzlfVFMxMUlGVTZ2QXgxczNVRHFuam56bzBiSXZ3X0RkUWppUzZ4dTZQWGwwYmpFcndleUcwaGtnMjZfQmVRYWtxXzBod0lTQzBabHdRUE5zVlRCY3NIQkhBWG9yUWp4OExjRDdWWGVyVmxS?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDhLdU9fcW85UlI5UENkTWw5U3hheExHclJHMmNQUUFPY0xkU002OVJrRjZONElTVEhCdlg5Z1BMWXF3NUNWNUVCdTMwckNqdVZucC1zMC00NDZTS043ejBJQ3FiVnF1UFhLNDQySk1Rc2QwUVNqbW1RY2F3T0VaSFhTSVhsdkZNNEMtSkZmb0hDcV9WckZPWl9GUG1KZ2x0TkpUeGM0a3hfaXd4WTlyRUl3?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE96bWFDMVJxdWZ5Z25fVDYzcWVhOGNicGNEZFFtWjRseDk0SkdJcTN5NGJzOHkwdkx5OHJESmZ5RXQyTnJMSllFS203QjVQaEp1NWN5bU13S0tleHUwTmYyNzF4dk1GZS1EN2pOcS11dkNzMXN6N0E3TUZyWGo?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZRZEUwcWZ4cTVWUjlJU0RQTU5oaTlTaFh0RXREZ1llTEF5MXprdlluUjdjYjlBUGotaHJQcmhRWGVMLUNjd1VMTEN4eWlNVkc2Z1l6SW9xQnVWaGk2REtOV2NkV1paVlR2YzA2bHpqWmVNdzJyRm80d3NnU3J1LTJ2dnEwN3ZOTTV1cnhOckJJZ1NtWkFsYlRSY1JfQdIBpAFBVV95cUxOZzliYm5uWHZsNGNlZ1FDZy1MV3lvellPYTA5bFFaQmJRTkZfVHNxSjF0NVRTMHY1LUdEOTlqLVU1M2VTV1ZqLV9vUGRJVzVxZlVzbEdCOHhDN2wyVDFKMjFTREx6d2VqdjlFZEQ1VXlZa3czcGMwWTl6X052V1MyWlg0WXVZcTVEeEVISGtJakx5WVVfd0toTVpuSktIckFZSTVqdQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd1gtN3o1aUU1Rk5NR0lkbXUyQTB6YV9iMHp3NHNkQi1fbl8yTVR6V0IxazIwNnJvN0huT0ZkNGVwU3FyUzNHQk1YRV9RS1lObExEQU52Zl8wbFNiRzU2VUE4UnZ5STdjQ3U0NjlmZkRuNWRtaTFpREdDeG5xTWM4LWI5XzVXNjJURVJSeGtMMUlfWUhYaDFSVXhwY3FENEtlS3NqOGRjWENmXzNzUlJ5eDh3TFJPb0tvNkVLSWNDWU45X21RQjF2TnZ3?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXp2b0JzbU01M09TR1docWcwaWVMWTFmSTFmeS0xQmlXRWpiNGtIWGNDSnBpUlpTU2tYY1p4YnIwQTBYd2pfNTZ5WTdGY2VsSEtOMDFOTElOUEIzZmJWeFRBY19FX0VxbTRXTm96Y1lPRHVSb1pCbl95NVlDVnBRMGdBaEt3UTJVaXNEbzlPVUhyWTRYLVZXUy1jdmVXSmdIUmR4Ug?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2pFb3h1cEUyQVNaU0R3c3V1YThpaWtxTUJBOHhtcnA2QUxGX1hDSzZqa3BHeHZfcmlqU0FTSTY2YlpyNkktVlFPbVhCQmhBYlU4ZHFtazdoeGdfaF9wOEdFZlBBY3pXWTg5Q2JoYzcwQ1laRDNMbWZSbXotWklWcDY3Rksyb0U3?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHNJSFFDR1laeXIyeTB1TUtfSHktV1ZQN3BKamc5LVFZaXJIQ2ozeTZLWmFhT1kwS3VSVGdYa1gteUttX3JEMjEyMFhjVmhsNWthZm5xenJPdlgtNENzRVZkd0ljU2FIX0lFUTFUOFN2aUJTanBuYk1jM0hXa2I3U1JLdW43NXQxUXhhYkdXYVVnV3NBX2c4?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWW43eU5DSDdlQ0tiNlZQSk9mY2hMMTdrdGdSb2RZRzBxU29lVS1IQ21GOFl4anVPTWtGZlVzU25HbndhcGc4NUJnWV84bzlETVF3MjF3OE4wVTNHUGs5cmx5UFhDbC1qUk0tY3ZMS2o2T3I4ZzhRSWJRYkRpeEZCZmJTdjZhbHpSNU1KU1c3SkppZzA?oc=5",
+    "https://pley.gg/cs2/astralis-targets-cmtry-for-loan-deal-following-contract-disputes/"
   ],
   "title_hashes": [
-    "655661c7cee5a8874f2f118693ab3fee",
-    "2ed2771a3bf8502f3b1b087935207f72",
-    "dbd925681a13ea263135fb79e16adf7c",
-    "411a1debb69eb131d56f34ebf34f3f23",
-    "6a221436b88b5bd49f8588bc054fe3c2",
-    "1f4faa553127375973ff4eee6c04d061",
-    "958ea52da7f367e8915f04168c89e5ea",
-    "4db8b24570f6850cdaf0ab5cca563175",
-    "601cd77292672aa77ef32c3522d8cfd3",
-    "684edb3fce7b861ebd9f6631b4227080",
-    "2125428d3ceef558f0489cd11490b89c",
-    "dd81393894cb422f9a09b0466173fe7c",
-    "985638cf3bc1e8240f6270bf149658b1",
-    "a5e6316f0d84c98fc93dd115ecd67d5f",
     "b66efe875cefb7206e51038e92ac9249",
     "c26809e5c4fb55e3e98bc71f520f26e1",
     "9e247c53d94429a5365d529953501394",
@@ -16001,7 +15987,21 @@
     "941a14894878d93eb7d5ad98038690a4",
     "fdf9f9e08559221f431e3b32b2ee5f1f",
     "55111b77ce21248f40b210669f89aca2",
-    "5e76be3580a38c0ba8657892512f6a05"
+    "5e76be3580a38c0ba8657892512f6a05",
+    "0bd036d1603f15a1985f99c0bc673c4d",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "3ef62f2373c53076db063e0b7646e618",
+    "f3af949992751f565dc8c2a187d6232f",
+    "3873ef0ad6dc55c0bf6a3bb0df407258",
+    "eedc046b469658876333234ece5ac256",
+    "40b2eff2aab73a96c6799c359c3bff16",
+    "23b5504cf50870ec340116ca1d4d5a35",
+    "d14c8f75c68c3a44b97aca9e17fcc1e5",
+    "fd8b3fcc57fb06ea49c997931f45adc4",
+    "5a8b0d6843a9cf7f4ebe4a8633a47aa6",
+    "2006a5cf2b4b02d8df0eb1b648371fb6",
+    "ad77c20da8e9c15b831c5863523c8bf3",
+    "40845bc39d47db50c72aee4e3a6969ba"
   ],
   "transfers": {
     "pages": {
@@ -21184,6 +21184,26 @@
     {
       "t": "acquired acquires danish defining described dev fair fireshine games has indie its moment more necesse open read sandbox studio title world",
       "ts": 1791453036.0026386
+    },
+    {
+      "t": "2027 com esports games host inaugural kuwait mind nbsp prameyanews sports will",
+      "ts": 1791453041.3305597
+    },
+    {
+      "t": "17 2026 77 8230 ahea ahead all backing bet365 bookmaker british decision falls fewer fixtures had lost mgd most post race racing sponsorship sponsorships weather while",
+      "ts": 1791453044.8569448
+    },
+    {
+      "t": "2026 8217 8230 agen agenda change connect deployment edition european expands fourth hipther igaming its payments post programme regulation regulatory sets strategy summit warsaw",
+      "ts": 1791453048.325559
+    },
+    {
+      "t": "boost com esports gains major nbsp new partnership philstar psaa",
+      "ts": 1791453051.8352244
+    },
+    {
+      "t": "astralis cmtry contract deal disputes following loan targets",
+      "ts": 1791453055.340751
     }
   ]
 }
