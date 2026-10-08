@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX1pvZDh0N3NGWUVsOTA0Q25ka2tFLXBGVmxmcWQtblU3S1lhTWNrZ18xQk50emVmb2pNc2ZXYzhQeVBNZWllaXRFQzRiLTY2OXplWEZrSE12LVRzcHY2Z3o2Ulc0WWdBSU1kLUREcnhJUDVsR2VVZXdKMFVpOUZQRkRZaHlvUnFwRWJZTEpldVNwT09OTWJwaDI5WWFYN2R2cVF5NXFZa1ZRYlpfRVctNG1IM2JqVjYwTlZqbm1hSmY?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd2pVTDZiM2o1VTdpLUFBbm9fMElDeUFaU0ZVWGpLQWduc0JWSGt6anRXdzVPQnVJNXdSbW52c0cwTUpPQ0gzSjJ1b2pOUGFVNmROcnpBNEpETGxCUEx6NTlpc0NkYng4MDBpUkFXQWUtcEpZSXh5R0hZREp4TlpBZw?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeTlwV3Zsc21UaFoyMzlwT2hKbHBreXVmVmNnZG94M1VfZ01Fc1k3WlluMHNKYWQ1LVlYNXFJMTU4MUlNcVBmNVBPVXZJN3Z5OXdid1N4b2xNMXg5RGRZdnRNQWpGdGd5Q1NWSTU0MklRRXhpZnoxcDU5N2ZPeHNKamVrMnBMT3RTSE4ySWk2eDVQNkpuM3YxblRmS2pSZGtnaGV5Y1ZaR1E2VE5t?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHJ5WWJnbE1Md094dGg0QVdWdzVGQlZXSWFPZ2V2OUlremlETFROdG5tRUdDdlR4SU5fU1g0U19EaEZ2dlVEZWh0U1BHQ29CYUIxLUlETDVMb2JvcDhubGgwU0owWHZ0SWJfS0xvOU5nVTZlVXplQVdJY3N5UUR6b3J2OTVpTlFnS3NzZEJvbW9MTlZ0?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHRBdlI4aWtjNEhXMk5oZ1F6bnp3bE5PWURIZnFfZ3hxSkdSTF96XzZ4SjZmTWxCTzNqVXpHVTdxT282bFk5bmI4akduYUJoWFotQ1BvY3J3Q1hZMV83LVlqZWktOVE0UGZyLUR1WVFwdGZvMUt6ZEJDbmVSVjlZTEdQWm1DczZRV0o2UzNmdTdxS3p3eGM2dWJhSEZiRzBMWUtR?oc=5",
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOekZTSmY4VUdLeUZ5MVVEc3duQmRETlZZLVB4M19hajk2VTF2Z1dlSGFuOFhVUG1TdnpjRUM0WEY3YWFjcVlxZC02MVhKdTNFdWg4V1FRX1NrS21RTjRCMjg3V0VpWGVoSXNKQ3Z0QlhpZmd2akZLMnZ3T3RheVFKLTlHd1R0Tmo3Y1E4Q3duV1B4U01pSVJ4VFRMYWRGWGxYQkw4MVE1LWJ2M0FGMWJuMVV5WHlvTlp5WXJ4X3doNTcycDBPQVQyNlFrQU1nOUg1ZXJwaXNFbmt4VE9nZzE0TnZHbjBNaWNSbzlQbg?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPakZtREp6U0VCZWNXLUNhT0ExUExQQUxTMUFFMFRxb1dLUHg1WWtHamxJSjI2dk1DcmVEd1dsTnZMMnhRVkFCWUJabm5oWV8xdl9PQ1FOano5djBOWWljUnFWZGM2cWRWYnlxeHpKT1NHWVFZMUhNS3k2a25ISjdZLUdoZ3RWbHo0ZDA0ZnV3?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNk11bzQ3eGJlcjFJVWFyQ1pOd3dWU3JMQjU1a0hLbWs1VkFFWHJnODRwWGFFNXZyOWJJU05IcXBneXhzSlZSaXdEQ2wzVWRSLW51dVNIY0ZLbTVGT0lGb3ktR1FUZGszeUNSLWpTOEZjaWpTb1EtMDVpcFlobEZzZHlvSlZib2xxT1V0MmhiX3Q5QWZFcEFqRmQ4OG5Wc25GbzdOemp3bXp5Zw?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcUY2NDh3bWh2UWcyMDZOZFFWeDBVV3JUUU81Z3NLbWhOSkVXcWlGOUpQTGtTOWtnWFN4ZG5XVWRFci12RWdVbjE1Rm1BZWtRTWZ3TjA5MUtCU3pHc05uNksyeTdEbFFYdlRMV3dGSEpfSGRoLWZOZVFqZTRpZTNwS1dZczdDM0I2?oc=5",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26930/emtek-unveils-new-phantomlink-graphics-cards-for-the-first-time-in-korea",
     "https://www.invenglobal.com/articles/26928/ragnarok-online-adds-new-dungeon-dimensional-biosphere",
     "https://www.invenglobal.com/articles/26929/valorant-infused-in-a-laptop-hyperx-omen-16-valorant-edition",
-    "https://www.invenglobal.com/articles/26927/nexon-mintrocket-unveils-dave-the-diver-collectors-edition"
+    "https://www.invenglobal.com/articles/26927/nexon-mintrocket-unveils-dave-the-diver-collectors-edition",
+    "https://www.invenglobal.com/articles/26925/rhythm-hive-launches-promotion-celebrating-illit-encore-concert",
+    "https://www.invenglobal.com/articles/26926/goddess-of-victory-nikke-updates-new-halloween-witch-nikke-and-event-story",
+    "https://www.invenglobal.com/articles/26924/the-seven-deadly-sins-origin-adds-new-hero-lancelot-and-main-story-heart-of-water",
+    "https://www.invenglobal.com/articles/26923/webzen-holds-character-name-pre-reservation-event-for-r2s-memoria-server",
+    "https://www.invenglobal.com/articles/26922/seal-m2-unveils-preview-ahead-of-october-22-launch",
+    "https://www.invenglobal.com/articles/26921/the-great-voyage-opens-pre-registration-for-9th-anniversary-update"
   ],
   "title_hashes": [
-    "92b68a2ff36987a196610da487118b82",
-    "1d9c722a78da20fcf67964622c0159bd",
-    "c4b44813c3ae9fc66ad75e5076890c04",
-    "de46bc4512109b364d6b8331e423c139",
-    "1fc0338a9f4ace5d24ed164d15ff8852",
-    "7f68d75dae133d4c21eacc6ec0f25ec0",
     "9ce06a863c9f92232e545df5dccfdd96",
     "328803d06d1be56c11c404929f075841",
     "3e1793f0c308dd14ba97985a8bf0828a",
@@ -16001,7 +15995,13 @@
     "156509c5a00ad435302fa7f1e7ebf656",
     "f55d61f953796dbb93d4ba458c3ca5c8",
     "05cdd4170e13e1b190d0b1688ea6ccd4",
-    "ffe7626829f86d7c3961cc92be573045"
+    "ffe7626829f86d7c3961cc92be573045",
+    "0590d0eefde232676dbfe0a183b4f4e7",
+    "1d9bbbc076397ca6e0ee624f55d0d0f4",
+    "43fe075791cf76f26dc14f61584be0bd",
+    "1111704fad56b2ca17f66e7ca61d4041",
+    "8c60f73a045e5271eb2b8da56bcd4291",
+    "7e18558ae3f0e1d86b164d6c6ce5fe72"
   ],
   "transfers": {
     "pages": {
@@ -21184,6 +21184,26 @@
     {
       "t": "8 channels collector dave diver edition its media mintrocket nexon october official photos physical social unveiled unveils",
       "ts": 1791428280.2636278
+    },
+    {
+      "t": "celebrate celebrating concert developed drimage drimagerhythm encore game hive hosting illit launches mobile promotion puzzle rhythm serviced",
+      "ts": 1791428285.281347
+    },
+    {
+      "t": "8 announced been developed event goddess halloween has infinite infinitelevel level new nikke october published shift ssr story that updated updates victory witch",
+      "ts": 1791428288.7758331
+    },
+    {
+      "t": "22nd character event holds its launch memoria mmorpg name new pre r2 reign reservation revolution server set webzen webzenwebzen",
+      "ts": 1791428292.4751964
+    },
+    {
+      "t": "22 ahead announced begin korea koreaplaywith launch m2 mmorpg mobile october official playwith preview seal service that unveils will",
+      "ts": 1791428295.9391377
+    },
+    {
+      "t": "8th 9th anniversary announced great has its korea korealinekong linekong mmorpg mobile opened opens pre registration sailing that update voyage",
+      "ts": 1791428299.3685212
     }
   ]
 }
