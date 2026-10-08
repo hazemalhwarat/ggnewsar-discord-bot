@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWTdYc1BpblJvdVR2VE5NOElDUGMtOG9DbnBnS2lWekVadU53ckJ3ZlNhSWFOQzJzVHc4bEl5YXJfenB6engtMDFCR0JBM3RKMTNMUE5ZZ1hJSUp5R1VrZXU2SS0zRDNhRVJjYU1KSTQzRGpTeTRWQVU4UEw3NzBuSjA2dDhyOFJvYUhSYjFWSVdkdWJuQ0poNFZnZFYwMlY2U0E?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXZXX0VpeHRORk4tX21jMlB4V3ZMNllkc3B4VFlOZy1BamV1ZjA2TExOYUlwQjB1T3U0ZHFVbXR5U3ZsN3hPMWE3b0RCR2FucjhWdGctaWVzNjhfVGFnelJ5emhrcFRYRmFjel9lOS1FX3UwdWhBS1pzRGhFVElqeXNBeXc1UkdoWW0wTC1lZk9iLS1IdjYxOA?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYOWNydEtySTdQLXZBVTBRMzF5bzZVaFhfRkEtZHhSNjA0bTkzamhTZURUWl9fNngzNWxUelVJZHVxb3dXS3pDTC1wN2RYNmtuVUV3X0JtRXhyT2tlTzN5SGN2b09rdUktSTZKNmJwd2YwQXNQZklMLXBaMmRRZw?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqeXdVZTYwckpRcHdnRXpoWjhLNldiYS05VGxLN3NQUUktcU4yeFRaYm1FblBpTkZlTE5fbzFQVFN1dUxSbkI5akZTX1RjYjRob1RDUkhKYkN4SWtrYllWY0YwWlRtYUxObEJXZ1BwU1NXLTNSMVN1QUZYVQ?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTZZcXZMM2VFREhOeEJ6YzZ3c3F2Y3loXzFCTHNFS2NibmpxdTBBb285bklUWW1HV3FLTUt5bU5iS2hVWUUybzZvNWZjTWVGV19UWWh6dlZuNmNqV0lueklSN0VvU083LU1CbjhxMDF1TVNDR3gwUDFWNXJXYUo5ZDdkenJRMFNoVVJNay1sYw?oc=5",
@@ -7999,11 +7997,11 @@
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTU2ejhTQTd6LTV6Uk1NZnB3Y1RNZFFoOTZ5emJueHYtaGtGZWZhM1dIeGZKZl9wOUtRdDlLc2JzRTh6WmJqYmlLYjdqZXFqYmQtWjdEUzRCN0xWMnJ5b0ZrYjBkQzQwS2NfX1g4b2RiR2FNVjc5dlZ1TnA3UkJ3OWUwOWhGWUhuUkVfWG5BcnJPSGJ3Y05pOWtSSFYxaC1ZOWdDRzBIRng3OWtMSUZYZXJ5cl8xcmNsaWpqRQ?oc=5",
     "https://www.hltv.org/news/45679/sashi-sign-chelleos",
     "https://www.hltv.org/news/45677/bcgame-ceo-our-asian-players-are-the-ones-with-the-longest-contracts-we-are-here-to-stay",
-    "https://www.hltv.org/news/45678/mistr-mutually-parts-ways-with-sashi"
+    "https://www.hltv.org/news/45678/mistr-mutually-parts-ways-with-sashi",
+    "https://www.gamesindustry.biz/black-salt-games-establishes-indie-studio-team-trifold-under-new-saltworks-entertainment-label",
+    "https://www.gamesindustry.biz/gdc-festival-of-gaming-appoints-four-members-to-advisory-board"
   ],
   "title_hashes": [
-    "c58e801c86577e48d87d7032095afee7",
-    "90705c4edaa281f92f4b93ebb4849e5a",
     "28b33c96b349c517bcd9353e94921be3",
     "e2b1629165faea28d3061541e97da48f",
     "f2a83638da66d949a9f3065f1966af15",
@@ -16001,7 +15999,9 @@
     "4393c691b8d6d6def6593fc21e8a7cfe",
     "32bbb2c11f864c042c952948024b68ce",
     "fc33aa266e2f55ca08747879c374f81d",
-    "7c18def1cd347f4705bf18942ca16291"
+    "7c18def1cd347f4705bf18942ca16291",
+    "4a84447b2360273eb3ebc2a8140e12e5",
+    "fb5ee176ce593d4e912c34f3e9aeac55"
   ],
   "transfers": {
     "pages": {
