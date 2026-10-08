@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEF2UFo5WkF4T2ZXeHB2X2w2ckVGSFJKVlE4UUxrMDVwYWVHTkN6akI5NnE5eG1LRUZHb2VETEl1eHRiX29sQl94THh5OGoyRlVpekx5RV8tQzhtRlZmRzRRU1N6UDJ1dnZYZjJNdjR6SFVVbnllUGRiemlxZHBUY2VTQ0k?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWjAtcjVhTGZNNU5lVlJtQmtjUWgyajNFejg3RFpSTWRWTWhIX0dPRm1FNnpDUXJIaW80bEZUUUY5QmFhMjlSbS1MZ0xrSHc2eVoyWE4tV3pXQWtjYXo3OFNDbVJPSE1iVkxDTWJpQXV2amhrZjR1czFobUpoTWR2R1N3?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2t5S2lQN1Y4elloOE42Ri1hVTc2RnhDeXRfSG1ySmhtQk1WSVFGWHBiaVo4dTQ1QVYzT2h6TTYzei1FeUJiMTg2S0VLZDhtWHhLbkpKWFFfNTYtbUJ1cWhTTjlKOHQtT1JPcThXWlR4LUFzYVgtbTJpb3lLektWaWs0aU02Rm9VS0RMem1oQmpzY2s?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVIzZUp6dUk5N2NuLUpPQ0RrWGRJV21NTnJQUk9SMDl5bVZiQlBKZFBTdXE4ZzlxOXltVzU3UnlkZXFUUzgtZUh2ZEo5VzlVQnhOUTZoaGUyRk5WTmx0dlZrTUJBbkFydlo3MTUwQ3N0TnFScWhJWGNNWXpGZmJYMUNCT2Q4Tm1LeGtxcmdpX0ZVZw?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nRVNCb3R2eDdTRW5reGJvMHZ2RUN3dkF5YkZua1d5aEFxdVNLdHN2YVlmNXZpalRZcmp2LUFGbHVSVEJIX2p2S1BsZm5pZE9pTFNsSWYyY212YWlfSWNrX1BIZm5GOVpCaUJhU01YNWV5MjQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaWhiZWlrS0V0bFUtN3dQdWUyMmF5anJ6RzFNY293bXRQYWVjMklscU9CZldPRUotZ25Sam11bmpGNWJVenNzWGt1aDJpekpXaWZVZ0l1OF9NOWpuRS1PN0hQNEpqckM1Z1g0Z0MycW9GRmtjeVNRMFdsem4tSWlwVVlRUDd5dmhUZFh4cmFoMUk?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmJORExhclI1a1hKV3YxY3paTlFPbDJHTTNvb2hPbEpQcGRHZGZRU0syeTlkMWlrMHBILV9MbVhOblQ0UGk1V3pNdXh1NE5NbGVldEg4ZHZZX3VnWmVKb2dZc3pNaTVEdGxHeV9Nak9weXZGR1p0UUJDQmNHMl9WaDUteXFmbXQ1M1c0?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVDV0a0FGdmk1ZzNRODNFbmNzdm9ZSno1ZVZqU242Uy1VRFUwaUpfU0N6eEVSeGw1TldkaHdFYjRxajBEOGdpbGk5S2JiR1VXLTdiWWRONENRRmtwMmhHWW1GVzJyTmxGWGxCbFhjbDk5OHJyRTlzQXZpREY3UlU?oc=5",
-    "https://news.google.com/rss/articles/CBMiREFVX3lxTE54clNKakFtZGFCWVJ2aGpVdVpmSGlxYVZ4V0RXOGgyNG5IRGJwMU12bDcyYkdqT2p0WU5odG5rNTdiSEdT?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRHYzWXNsV254Tk00ZUhNYWRYS18zSXA3cm1BMXg4T3hXbkJrXzZDb05yWjdPM2FvNXJVN3JHOHoyd1dwZ285MUZieVFSVFVmUG5oQ2Jpemg0SUtHNjRiTHJyTUMtVk5IbF9udnhCNjZkU3VrRGJ2VHNXckFvbWN0Y3lGazdpQ2xUamFJNUZvWQ?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMl9UbnBQeVQ2UndELWk0TVk4UUF0d2hjcnNnV0VTc0dsVTFEZzNucm5YSzNkOVpmTm1OVl9IMWhnMVBWNmQ0MVI0UlJ5ZlJ3QUFCUXFtLURxU3NuS1V5dmYwRE5fZC0yenFVM3dGdnFDT1p4bVdHOTF1MW1YQkYyNTlFYlQ4V0FWUDlQZVJCaw?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2xXVDMwTGpabUhLOTI1YTdBNDI1VF9SUHhndlExT25YbXE3V1lfMjIzVVo5c1Vfck1IZXRFQ21lUTBSWGhLY3JFTDdPRW83c2lXS09oTkdUNHl1WlVXdWlnVUVDb1dvRkRKYVFWdVMyeUJYOVZJUGJtbndoTW16MjBDOGE1aUR5STFoQTF2R01kQU9oZXlv?oc=5",
@@ -7999,18 +7990,18 @@
     "https://europeangaming.eu/portal/latest-news/2026/10/08/215644/greece-18-influencers-criminal-complaints-illegal-gambling/",
     "https://www.gamesindustry.biz/mixtape-wins-three-awards-at-australian-game-developer-awards-2026-including-goty",
     "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
-    "https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts"
+    "https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts",
+    "https://www.gamesindustry.biz/safe-in-our-world-launches-four-billion-players-campaign-to-make-mental-health-support-more-accessible-for-gamers",
+    "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
+    "https://www.gamesindustry.biz/hell-let-loose-developer-expression-opens-new-studio-in-manchester-in-response-to-whats-happening-in-the-talent-market",
+    "https://www.gamesindustry.biz/gardens-interactive-founded-by-veterans-behind-journey-and-sky-children-of-the-light-raise-over-35m-in-series-b-funding-round",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GallqVm8zV0M5OEtlVm9xOUUwYjFCOWNBZ0tYUVpiNXByQk5zYkx4dEVrSFB1Qy1OM0hybTNMcUtzRGM1OFkweWNxSUpVajVjT3RmY25tZ1pxTXY2Sm9fbDM0YjZJM0djQXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pZzR0bDFSZ1dRM2RzSEgxMW5pUVBUbFdpUUVPd1ltQlQtQ2Q1YlJHbkJQX2ZuR3hueDJQSV9jdWRrdl9JMW4tWGZrOElWRUl6ZWhXQ1VTMUxRRGM2bXBlRmlURWE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43bkJ0Rk9sUG1ORlNLMldualpiMnYyTEFjT3RTM0NCUzJnb0ZEN0lRcVRsUUs2STJuaHhZZ1NkWktMa0p2d2hQT0dpVWRQLWtZMUxhMzR3c3UyUTlz?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZaVFfeVVYRXQyblIyY25jZUpFVzkxWGRUSXRtNXJlczBmZEVRbk80ZDNkUUppeGtYd19uX2hjdHJsTW9Kakp0Z1dWa05nU1lFZ3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OREM4VmlNTkd0Nm9FVHlibVFHM29naGpmNVRQcUhwZV82VlpYd0pPR2NPRzdja2hnZFNZeG1YQ3Fabm96NEFBemZwQ1JvZw?oc=5"
   ],
   "title_hashes": [
-    "bf98e6e9cb4080b7381df62eeb546d10",
-    "e3f21d9a5cc1ff805bc4dc3b83fd250c",
-    "5eb6a68bfb29c6556567cf4d4dade782",
-    "03a6d02a379bd667e8d88fe571fa6fa3",
-    "06fecfca8245ca3f46edf006604a778e",
-    "3a988639a270727f98b2f8a78551c1c6",
-    "ecfd68012af6685d7bea4fc15b7751e8",
-    "4272250461034813ce9a5f5a736bef65",
-    "ed847961e4afb7f23d4a3e9ab2cdae9c",
     "99e05bb64ec3f904bd614156b3ac2891",
     "85746e2d0558f735b1c2cf72b9fd3715",
     "f7d55b0e3ed88a3e89d222bbcc6cd9ae",
@@ -16001,7 +15992,16 @@
     "6bf03f6d67a24c19a3c04a9031554cbe",
     "8c5d78f4a7c19dd2e11bbd71f0d157c8",
     "7ec3db36dc53083db47eada2cef79556",
-    "d01a98d9c9b1e166e92568b0890cf7c9"
+    "d01a98d9c9b1e166e92568b0890cf7c9",
+    "ea5e39ba62b1b1c2ae923022122f6829",
+    "b2d5f58d1b2e8516e024d00726e1e6e2",
+    "d3dade11d7b217617f0c9bd8d8c2206d",
+    "9ca4460853d62dfbc902d19c00476a3c",
+    "f3657cd69cef17a232da51a1cc6c4c57",
+    "5802585b0728cd2adcf5f1367091c38e",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "8df358eebbbb64bf19235a902db73505",
+    "163e18047ec2d2d88e40d1f39ff89ba0"
   ],
   "transfers": {
     "pages": {
@@ -21224,6 +21224,26 @@
     {
       "t": "2026 2k27 according august becomes becoming best charts circana data game monthly more nba read selling third topped tops year",
       "ts": 1791479430.941922
+    },
+    {
+      "t": "accessible awareness billion campaign charity four gamers has health launched launches make mental more our players raise read safe support world",
+      "ts": 1791479436.739496
+    },
+    {
+      "t": "announced announces brand business dedicated deliver division extensions fallout film has including minecraft more new park parks read series spinoffs theme transmedia unit world xbox",
+      "ts": 1791479440.152559
+    },
+    {
+      "t": "announced behind developer entirely expression galactic games happening has hell hitherto let loose manchester market new opening opens physical racer remote response star studio talent vietnam wars what",
+      "ts": 1791479443.684501
+    },
+    {
+      "t": "35 35m 70 behind bringing children founded funding gardens has interactive its journey led light lightspeed million more over partners raised raises read round series sky than total venture veterans",
+      "ts": 1791479447.2271588
+    },
+    {
+      "t": "4 circuit com final nbsp pgc pgs pubgesports road",
+      "ts": 1791479450.6609468
     }
   ]
 }
