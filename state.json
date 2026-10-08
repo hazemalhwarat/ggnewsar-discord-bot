@@ -1,18 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE56Nm9ZMV84b3ByaF9MMHNRRkZ4NmxVRU03Y0thcTg3N2plS2tpdjQtUlh3T0RoYzhoamxHdnh2ajNLc2JEdVJmV3dHOURna3dCUzJmUjR6R1NfNndzNjhudll5d0RPakdiaDFRVE9DMDVEekNLRnhpeEx1dElpQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmtLS2pITDZyUF9NVHZ4TjdyTlZBMmtvNjlOYmhMcy1FX1VCMm9jMjNtZUU2UXIzQ0VfSTE4WERIOWV4Sy1ETHQyR1ppdXRnNi03bTFfSk9qNy01MDI2X01lMGN1Z1hYSk5OX2ZVa0RYYzNJODFrZF9CQzQxR1hKdDhLM1JPQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnFzdlh6Z09BXzJObXNsdFBFUFpSRWNsMG0tM0d1RFFCV2ZiSWVaR2tVd21Fb0JObC1DVW1VbmFTaC13NDhtYm15bi1XeHU5a3hxTTJYVHNBYnBWbmYtd0FKQk1uNDZzcE5RX0x2TWdQRlJId21QTnpCbHlNbkhzaVBzMkg0VFlqSmdUYWdR?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wZnd6bF9jaTBLX3VmdmpVTGlYRUhDQW9ydm12MFJCX3hzaE5MVVVTSTdxLWFtVTNrVnFObnJXT0t2RnNaaG1DTGZUM01fdXZzd2ozeUpndnNfSG1oY04wSzZiQVd5MFc5S1BxZ2I3QTR2REJNTGl3cXRB?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQmJsWGNSM0oteHpUMC0weWRRbDR1R3JIbi11cXR0U3ljWlBFNkIxcjI0M2tTbFE5RmZpRW1FN0wzVmRMSGpoanU1UDNsVjB5YnZfV3BoM3pfZHJwV2ZYLVdlRjU1bURwQlE2OVpfNXNtSlpKZkxMNUFnVWF3eHozZWNqMThRd0JsYXZRRDk2Sm5ZaGZBd2ZfQnB3WFA?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KTEFkNWQ3NmdqZmxqZ05VX3JJZ1JQQzZPeEdYT3BBS3pxZlVTM05lU0JKYTM2Tk5sN2h2Y182M243OWZHT3JfeFFrZFlkZDdFNmlhUFlNRjRkX2JfbHNDb0xfNHRQcUJNbTBrRGpTSi1jQnYtZVBKMDFDQVVSdEU?oc=5",
-    "https://esportsadvocate.net/2026/09/playvs-restores-school-fees-595/",
-    "https://esportsadvocate.net/2026/09/gamesquare-fanengine-30-percent-equity/",
-    "https://esportsadvocate.net/2026/08/super-league-metaplanet-bitcoin-deal-misfits-stake/",
-    "https://esportsadvocate.net/2026/08/overactive-media-repeats-going-concern-warning/",
-    "https://esportsadvocate.net/2026/08/unf-upgrades-esports-to-varsity-under-it-department/",
-    "https://esportsadvocate.net/2026/08/iesf-debt-free-no-2026-championship/",
-    "https://esportsadvocate.net/2026/08/friendly-fire-raises-4-7-million-series-a/",
     "https://esportsadvocate.net/2026/08/m80-acquires-boston-breach-cdl-franchise/",
     "https://esportsadvocate.net/2026/08/esports-world-cup-2026-organization-earnings/",
     "https://esportsadvocate.net/2026/08/riot-ends-2xko-development-evo-largest-prize-pool/",
@@ -7999,22 +7986,22 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkRSTkszM2tSUzNSZWdUOFFoc3d6RGk5Qzg4QjRDV1lVazdad3hBT2ZBcEZKYkFLTHhNX28wZ3dNeHk0Nk96dGJIVVE0UmcxUlptZWJXdk1fWXBYM2NoR3d4c2h6ejJ4dlhoLVZ6cjZnWThaOUxlYTRtUy1MNElJZ1JmeHZrZ05QU3F1WlhVc000LUpITlhueA?oc=5",
     "https://esportsadvocate.net/2026/10/ghost-gaming-kennesaw-state-call-of-duty/",
     "https://www.hotspawn.com/valorant/news/jawgemo-interview-valorant-champions-shanghai",
-    "https://www.hotspawn.com/dota2/news/dota-2-trove-of-terror-fans-mad"
+    "https://www.hotspawn.com/dota2/news/dota-2-trove-of-terror-fans-mad",
+    "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-beta-release-date",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdE9nMkdwejduTjRUNzRCYWFhLVZWRE1KWVNLQW1NdlcxZHNhQjRrSTRHVVRYM00zWWo2ZV9HV1VSZzc1UDljb1FmQzc4NnVTc0p1WDc3UWN6V3UxTDlUQ0VJemUwWlY5b1Ztb1kxay1XX29neFJCcnB0YVRNSk85N3FwX1RVTlpJdVU4?oc=5",
+    "https://www.global-esports.news/call-of-duty/cod-modern-warfare-4-dmz-player-base-new-map-boss-hunt-everything-you-need-to-know-about-extraction-mode/",
+    "https://www.global-esports.news/call-of-duty/a-cheat-seller-unsuspectingly-opens-his-front-door-and-suddenly-activision-is-standing-right-in-front-of-him/",
+    "https://www.global-esports.news/call-of-duty/modern-warfare-4-is-addressing-my-biggest-complaints-at-record-speed-and-i-have-to-tip-my-hat-to-them-for-that/",
+    "https://www.global-esports.news/call-of-duty/looks-like-a-divorced-family-man-after-19-years-cod-mw4-manages-to-completely-ruin-its-most-iconic-character/",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2JDYi1JUnRjVFFRTUJJMVZxUnhTdkQ5bjc2TEFXVEpyMjJqZkc3cEZjWkMxd1d5UVRSaTRURUtXWk1WZ1dKRDBrVWw1RGtKSUtjcXVzem9KclUzNXk1TGpEYVVCZEprLVN5OHRnc1YxRjktLTJrYUFWRGpSa0xIR0NDckhDUE1qOXBEai0xWVdUSlky?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVDV0a0FGdmk1ZzNRODNFbmNzdm9ZSno1ZVZqU242Uy1VRFUwaUpfU0N6eEVSeGw1TldkaHdFYjRxajBEOGdpbGk5S2JiR1VXLTdiWWRONENRRmtwMmhHWW1GVzJyTmxGWGxCbFhjbDk5OHJyRTlzQXZpREY3UlU?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHg3MEkzcmRaMlRzeEE5TTI1VUdNLWpUMllrTmR5OXhTTHNULWNTQU1wR0tPZV9iX1hOYjdFNFFvTEJNVlM3Z21Ha2I5ODhlYzVvN2xVQXluLUlKbFpHX2dhNExtcEt0TndzOWZ1clBac2ZtV1dpSkNPSWxGYi01YnFEY3hVVVFpcWhV?oc=5",
+    "https://esportsafricanews.com/kenyan-esports-qualification-dispute-raises-questions-over-athlete-selection-and-governance/",
+    "https://www.talkesport.com/news/gaming/cyberpunk-2077-movie-paramount/",
+    "https://www.talkesport.com/marvel-rivals/marvel-rivals-season-10-5-maintenance-end-time/",
+    "https://www.talkesport.com/gta-6/official-gta-6-merch-price-list/"
   ],
   "title_hashes": [
-    "4f7e509f2bcb2a1d9c03549957574e29",
-    "f85107fbd1f1cf086ead36c29717ff2a",
-    "b6ef8468b3943a8040b7b50e12685a22",
-    "ff4b212cb263bedc87305f67618d6fa5",
-    "d176ef51614dca6ac73decdc9b2883da",
-    "3b48f76f8905eb6ccb62f933624f0470",
-    "8efbd1b3ddf12d6fa601ab01d6f085da",
-    "f6c1e03ab52d665f630b968b52c9d86f",
-    "d2613de47fccb2b982fd72b7b7dae67c",
-    "3a5d67313da1f7e390fa9994133cb5b2",
-    "abd64ce937ce59f3abb97330c2090bcd",
-    "c69ee792545be2aa41d63c38608d41cb",
-    "960b6b3866efcc0b1b14435878129282",
     "66710951e3bf833bfc6f696f85602b6c",
     "1529e87531d7aad8e5563332720f7742",
     "9c5fa853c7f897518565386bb1ad1124",
@@ -16001,7 +15988,20 @@
     "dc6f7da3390048dea09a7e2a19649f24",
     "a46ded54ae74a4a8e522a852f93a00f4",
     "2280a80cfcb356b2bd90b82d8cdd2153",
-    "7d5c5f9b58085a54567c0f28e513ddaf"
+    "7d5c5f9b58085a54567c0f28e513ddaf",
+    "0c572cbecad103cab182a5df997e650c",
+    "349c02dcaa6b6a63ef6efd3c39a5983b",
+    "7cc808e88d36859f97a87af13b04cc25",
+    "8bca243fe2c2fd62ed831ed289449039",
+    "c58e801c86577e48d87d7032095afee7",
+    "90705c4edaa281f92f4b93ebb4849e5a",
+    "facb45e3ebf0c90e83efb0b70292ccba",
+    "7c66920a3fa09974c247210c4292c04e",
+    "bdc245c9ab02dabb5c56b0a447a9bc7c",
+    "209635ad54d286e7149f271a158650cd",
+    "9325447bc19fc6022ce1ebd8216ecbf2",
+    "409460c5a67c5baddfc45867de26693f",
+    "9eb10bd807c926a8ac1883908427c890"
   ],
   "transfers": {
     "pages": {
@@ -21136,6 +21136,26 @@
     {
       "t": "2 arcan best change controversial dota ever fans genuinely handful immortal includes like looking mad new over recently released right sets terror they treasure trove two valve very",
       "ts": 1791497149.2412345
+    },
+    {
+      "t": "4 about ambit base boss call cod completely details dmz duty everything extraction gameplay hajin hunt important know look map mode modern most need new player revives summarized warfare you",
+      "ts": 1791497154.257965
+    },
+    {
+      "t": "2026 8217 angeles athlete dispute emerged esports games global governance have kenya kenyan los over process qualification questions raises selection surrounding",
+      "ts": 1791497157.6840558
+    },
+    {
+      "t": "2077 action attached bonaventura confirmed cyberpunk developing here isn live lorenzo movie paramount pictures producer producing projekt red transformers what works",
+      "ts": 1791497161.2997503
+    },
+    {
+      "t": "00 09 10 11 5 9 back come down end every goes here live maintenance marvel october plus post region return rivals runs seas season servers start times utc what when",
+      "ts": 1791497164.7128742
+    },
+    {
+      "t": "399 6 99 box collection collector every gta heat here item list live merch miami official post pri price rockstar store",
+      "ts": 1791497168.1429274
     }
   ]
 }
