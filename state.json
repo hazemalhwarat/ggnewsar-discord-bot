@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9peHdrREZkZWlxVmZUY1lHT3BiN2d1QjdLalVrb05oeEpLOXBKVnNyVGpyb1AyNjNROGlwaUlvSXRuMHB6UlVfTGpwMVZNUTgxU250bEZ2WGRQZ0owbnBreGJR?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE12QWJpNDRuNDFwQnBURThsUTE3R0I3Sm9qVDh5bGhGbHRodjdtMkc2cnctTll0ZjlYeUViZ1NXMEtTbW50YmVFNzB1ckUyczZhYURScDRnT3hUNWdaMmxJZ1RGb3JQYjBjMUE?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNHV6U3RVc3NheUVIeDdzcFZqS2xkTEllSks0Mzl4eEctVk5LMzB3c1V4Rm1mSEt4VmdVb2VDQ2JJQVNBQzVETlh3dUhfMFBmWGR3SjVyYmpYelAxM1JHZWRQSnY0S1dKaG9mdW5pTmpMUzJlQTBUdkNGNm9hWndhTE5Edzk0bGhTYkE?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWSkNoUGxIYWdkZzgydFNNNDBrTU8xWjR1dlpGdFVXUmZVOUJEaEFpdHVsSXZZc0RkLUpaQy1kdjdZN09rNGc?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZV19DMm0zWVJ2cXFfQUY4aElCQ25ZY0ZXSjVxLXl5dXFiYWdfMTZ1eFBYelJJWEdlcHdocXlKNXFqNDBJQ0c5d29Sb3FnY2h0OU9ES01HRVhZdw?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE12QjN0Q0M0aDVaNEVrOHd1aFF4bUFYSkJ4QjBrNUNfak5kU0EtdnVXb3lYNGZUbzV1b3BJLUdyaUpZVHY4ZkpWR0IzQll6NjFSem9tUlBvQTA2TmJWdzEwS05EMHFrR0EzUXdrOEpnRzZoQQ?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xV3pGMV9fUC03RWtLMlBmWUpRbHo2Wmt3b3Y5TC1QV05MbXptZ1JSQVFfMHVjdHBzLWM2ZTlSOURHMlhZLWNVYVVlaGdBZEdDZ2lhdHA2ZXVkeG5WLW5PZ0E4Tl83WmNJekEtQ3cyNk16YU0?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkdVdU5XeF9FTlJxNldzejJhWjkycnJTMUlRWUtBU1RJdnhhSW5Ob19tUk9yUnUybzRmNFhIUDI5LWxrdWtoVVE0SWxtN2VDdU9QTTRaM3VuWjJRNkR1clkzNWEtb3VfNERwNFhPM3RCYzBQUElTNml0SlRJSUZ4eExSYlFvZw?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26997/the-escapists-3-announced-for-pc-and-consoles-in-2027",
     "https://www.invenglobal.com/articles/26996/riot-games-and-soundcloud-launch-remix-contest-for-true-damages-worlds-anthem",
     "https://www.invenglobal.com/articles/26995/yogscast-games-dupery-a-game-of-solo-deduction-gets-october-15th-release-date",
-    "https://www.hltv.org/news/45687/sidde-we-need-to-find-a-good-balance-to-not-get-to-the-major-feeling-100-burned-out"
+    "https://www.hltv.org/news/45687/sidde-we-need-to-find-a-good-balance-to-not-get-to-the-major-feeling-100-burned-out",
+    "https://www.hltv.org/news/45689/spirit-outclass-falcons-to-set-up-mouz-rematch",
+    "https://www.hltv.org/news/45676/astralis-bench-hooxi-and-jabbi",
+    "https://www.hltv.org/news/45688/thunderpick-world-championship-matchups-announced-with-virtuspro-replaced-by-nip",
+    "https://www.hltv.org/news/45686/mouz-see-off-furia-to-continue-flawless-epl-run",
+    "https://insider-gaming.com/gta-6-on-switch-2-up-to-take-two/"
   ],
   "title_hashes": [
-    "45014418efb0ebf4babe107e70121f92",
-    "711bf14b83def140572e10d9bf46edfb",
-    "c2d5049317f057d6c5e26359ea91ae46",
-    "bfc469fa1f0ebd35263aa23c4165e262",
-    "d067848ecf5853fd6b2ced98d52d5c7b",
     "b430824960f2286e762244c87e8a8b54",
     "ed922c53adafff0f8a1d212286038856",
     "ca3ed2269f0e48c1ff91b418c07dcee6",
@@ -16001,7 +15996,12 @@
     "f037853e9b293bc08c45bbb5c0249c34",
     "9ade4f116c4b20649b64c9e65d35f512",
     "23bf4821e902de2f8c07659259cead37",
-    "cc017da7a49249b3d3562ef430348ae5"
+    "cc017da7a49249b3d3562ef430348ae5",
+    "54267f700c8266fd526ff5b28f1f9ba9",
+    "8f0deef553be2823181c850cb765323e",
+    "5a8ab6b1466edc72c777b6a6d41990a2",
+    "76829cad6f7d2b2e5c0abe97a205a36a",
+    "80533beb25505ae32fe5775f4928d519"
   ],
   "transfers": {
     "pages": {
@@ -20984,6 +20984,26 @@
     {
       "t": "100 balance been burned exhaustion feeling find furia get good half has major need not out respite second sidde sight theme year",
       "ts": 1791577634.2619488
+    },
+    {
+      "t": "donk falcons had highlight moments mouz outclass plenty rematch set spirit swept tn1r two",
+      "ts": 1791577639.4331944
+    },
+    {
+      "t": "ahead astralis bench breaking core danish famed hooxi jabbi major organization singapore",
+      "ts": 1791577642.9756734
+    },
+    {
+      "t": "announced championship face falcons matchups nip opener pro replaced their thunderpick virtus will world",
+      "ts": 1791577646.5218456
+    },
+    {
+      "t": "continue epl flawless four furia haven lost map matches mouz off run see troops xertion yet",
+      "ts": 1791577650.2945905
+    },
+    {
+      "t": "2 6 8216 announce coming devon directs gta has nintendo nothing post pritchard question rockstar says she switch take two",
+      "ts": 1791577653.8315058
     }
   ]
 }
