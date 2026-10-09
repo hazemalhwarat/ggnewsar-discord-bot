@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45542/sycrone-what-fans-will-respect-the-most-is-if-we-play-good-counter-strike",
-    "https://blog.counter-strike.net/2022/12/40649/",
-    "https://blog.counter-strike.net/2022/12/40696/",
-    "https://insider-gaming.com/analytic-firm-predicts-marvels-wolverine-has-sold-1-9-million-copies-during-release-week/",
-    "https://insider-gaming.com/how-to-get-world-of-warcraft-forever-beta-codes/",
     "https://insider-gaming.com/the-blood-of-dawnwalker-had-a-40-million-budget/",
     "https://insider-gaming.com/gala-leads-jdg-to-worlds-qualifier-after-eliminating-team-we/",
     "https://insider-gaming.com/todays-wordle-1918-hints-answer-september-19-2026/",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/45680/live-updates-from-esl-pro-league-s24-playoffs",
     "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-qbs-going-into-week-5/2026/10/08/",
     "https://thegamehaus.com/fantasy-football/fantasy-football-week-5-tight-end-rankings/2026/10/08/",
-    "https://thegamehaus.com/gaming/gta-6-cyberleek-update-nsfw-lucia-jason-new-gameplay/2026/10/08/"
+    "https://thegamehaus.com/gaming/gta-6-cyberleek-update-nsfw-lucia-jason-new-gameplay/2026/10/08/",
+    "https://thegamehaus.com/gaming/new-gta-6-radio-stations-confirmed-artists-songs/2026/10/08/",
+    "https://thegamehaus.com/nfl/nfl-week-4-overreactions/2026/10/08/",
+    "https://www.nerfplz.com/2026/10/true-damage-know-my-name-skins-all-5-on.html",
+    "https://insider-gaming.com/when-will-marvel-rivals-servers-be-back-up-marvel-rivals-season-10-5-october-9-downtime/",
+    "https://www.vlr.gg/769367/ion-enters-restricted-free-agency"
   ],
   "title_hashes": [
-    "2a00ccdee7d85f79f49c43eb20af7dc5",
-    "fb40a4722e58ffc31f7d75ee81137eab",
-    "844dd44cd8ce13d1065ffbe19140701f",
-    "4be5aa752692896d9da892ecd63f48b3",
-    "5af95134313e1c44d50433c3904d3a85",
     "d6cfcf60ed85c8f73520480e1bfe9755",
     "b69226e2da20c86ca8d825aa9ebbf522",
     "9d6a16f869b32a442c062f5e5b28ad4f",
@@ -16001,7 +15996,12 @@
     "6dc3a97871624d22f4df210312df7fd8",
     "e2d6d327afb6959cb88936bb7bbfe96a",
     "06bd1e55d84921d604109ac5a72bfebe",
-    "df24276e0ca6064c6fef67b708fb6a4e"
+    "df24276e0ca6064c6fef67b708fb6a4e",
+    "69dc240f4570f8ab6737e097e8718fbf",
+    "3954a08359517a5c57a94c9a803162b8",
+    "863943a9e8b0b084a090556b4711fea2",
+    "701efb2cef9fd7aeb69c02f6798cf21e",
+    "7b914873d24247f9122f0541a342fbc5"
   ],
   "transfers": {
     "pages": {
@@ -21136,6 +21136,26 @@
     {
       "t": "6 after another auto being bringing cyberleek detail dormant gameplay grand gta has include jason leaker leaks lucia netflix new nsfw premiere resurfaced round since story theft this time update",
       "ts": 1791536456.4298935
+    },
+    {
+      "t": "19 6 about across ahead artists auto can confirmed grand gta has information insider leonida listen new not november only players radio release revealed rockstar shared six songs soon stations that theft",
+      "ts": 1791536461.651871
+    },
+    {
+      "t": "4 accountability close come cover dynasty football fourth has headli heroes lot nfl officiating overreactions renewed storylines there unexpected week weekend wrap",
+      "ts": 1791536465.1290202
+    },
+    {
+      "t": "2026 3d 5 6 akali all already damage ekko five know models name october pbe prestige qiyana reached senna skin skins true tuesday worlds yasuo",
+      "ts": 1791536468.6821384
+    },
+    {
+      "t": "10 5 9 about all back details downtime including know marvel need octo october post rivals season server servers when will you",
+      "ts": 1791536472.1400957
+    },
+    {
+      "t": "agency another bites dust enters envy free ion player restricted",
+      "ts": 1791536475.5784247
     }
   ]
 }
