@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3OEpJTUJ1X2lmdVFObHV3ZFJNYlVJaUNZbW00WURhbVVXZHloTHhERUVzV2ZCeG80NThWcGplVGlUNVNWM0tvU2xNMEh2Qy1xZnR1QjN2UHdaOXBuWjJBWmUxN3JYTFlsODdzYkxhNk5BSExwaVE?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EQU5sM3c2ZDl3Wmx1T2lmTmVFck43V3lFb3doMXBJM3FNSl9sdXVCU0czSVAtRmVVYmQ4Q2Z2eWVOc29JNlRWaGdYc0M2cURSVDF1ZDVzVS1LQmw2OEtieEIxREZjWnhMT2hN?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IMXVmOVRsVmNHeElzcHFPbk5vQUZiQWlCYTZLYUZQeVZsV1JRTXAtQkJSOW9fNk5UcWhER0UxakwxVE1JRjFuMHNhcjZWeDFtNEE?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YZGE3c3VJdW11VENSeUVfUEpwY1JxUV9kYjZoWklHOHZxNVFfaEhmNmZuSmNBdlRQR0liMDc2NF9vNmFiVzY4TVZ0YW1wMUZZN09BRUl2dw?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2FTcjRodU1YVjlQcDdqVW1HVGF5MGQyMWJvNldVaUNnYi1BdWFQVUE5NXNMVnlwVDVKV2FmRG05OXhROGlGdnM0aEw5cmxrdGlJRW9paG5PdEc5dlhuR0lqd2lJTzFIZk5FczVkN1ZVamtTTTlxazcxckEzSkFlQmxnYw?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmlxaTZBZ0FILXM1VDZndElfZjYyVk16NGNwamhTTGtwQ1ZLQWJBQl9GSnhYYzlidkdIb3JEV25uTGNXMDBmV2MwUnZvclFSd00wNmVVdFBGREQ1cXFUZVpPZTZXZy1yWXRSVnFzNk5oWjV5MlZ3RUw3VS1RM0Zhc1Y5VVlnbkZhLUM0?oc=5",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ES1Jlc2ZaUzBqM3pDWER4M3dXNU1RUmwyOVF6Mm4zUml1UDRiQ1NGMnZOY2c5b1E3cmd3RVVkdUZoY3cxV3Z2OTlKbnBVQUhadkFuR0R3?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSS05ScjZtbDVUWGRGNlZ1UzFnQmVBVTlCdHZjZFkzd1JCVUVpNUVLT2JIc0RBTUx5ZUlXZWdXbThsTmszLXY1eG9OLW9iLWdPODc2emF6WFh0UQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://europeangaming.eu/portal/latest-news/2026/10/09/215695/denmark-gambling-bill-l37-advertising-ban/",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUllBb2tzWTZTbFNCZ0pndWExUnZKVkI5Vy1XcUtUR1hCRUd6dFlNUFE5Wk01WGNCd3ZlbW8wUUR5MGhUb3k4dTh1ZXM0OUtVRkkzZzlQNHR3eXNTN1VrWGRZdnAwREo4OVZQby1vRzdJUkJ2U1E?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SSUVqdWtRM1RPay05ZDRjVUFkOHJFV1JFSjNBNUctWVJSYXF2WTlPX1piMU5SM0h0OUVXbzZ0d1U3QlE5d0E1MGZScjVUeEZqdF9FLUJUcUpXd1g2X3ZnMjFQTWZXUWRfYzRj?oc=5",
-    "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion"
+    "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion",
+    "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
+    "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
+    "https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion",
+    "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement",
+    "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games"
   ],
   "title_hashes": [
-    "3ff295b07a115deb1643f63344b475e2",
-    "191a222817113b69a4a14923f653949d",
-    "7b693568aa35fe38bc9eb5ebe400005f",
-    "225f83f5a095b038d191cc7c4d7cb7e0",
-    "b29f9a6e8fc8ad39edf3afef16fbc3fb",
     "bd06908bd7f2615c16695ab6c283860c",
     "b983c4252c36f3f0f76ca33aa9d4a7c0",
     "6a572faa2eb2fdc9b5ae868b64e13f17",
@@ -16001,7 +15996,12 @@
     "18a7376c62525d4601ceafb7b09342c8",
     "297a565ff9320c1e5b0d5679e76c97e1",
     "334b63afe7cecfb0df568e51f438830f",
-    "6078117e63052e02f404f487cc29593c"
+    "6078117e63052e02f404f487cc29593c",
+    "a084b7a69ced0498837108dccaaf6503",
+    "82699d6552f91f76580c91ff7b93f7a3",
+    "00383f85bff9bbf03ec20ccb470140a0",
+    "31698908dc514c82ac0c15f5d6995627",
+    "a1d540909c433965917aa8fec90fcebb"
   ],
   "transfers": {
     "pages": {
@@ -21116,6 +21116,26 @@
     {
       "t": "among auto deal earlier excitement exclusive fans game grand had long moment ndash news not opinion over platform rights ripple should streaming struck suffering sugg that theft there this week xbox",
       "ts": 1791561341.0676484
+    },
+    {
+      "t": "affected became boss developer employees hate holt how impact independent individuals labs layoffs lost many more number philip read reduce reluctant share statistic studio those undead when would xbox",
+      "ts": 1791561346.3922567
+    },
+    {
+      "t": "2077 action adapting cyberpunk film live more movie paramount pictures produced projekt read red set universe",
+      "ts": 1791561349.9290693
+    },
+    {
+      "t": "about anxie aren become can cause cite conversations easy enemy games have health ignoring kids mental much often opinion parents people play positive role target them they understanding video without young",
+      "ts": 1791561353.5917625
+    },
+    {
+      "t": "180 2025 400 419 agreed agreement agrees december filed following global has meta more over patents read signed sony transfer under",
+      "ts": 1791561357.1339161
+    },
+    {
+      "t": "agreement announced avalanche between distribute games globally group has its market more nordisk publish publishing read studio studios subsidiaries supermassive titles",
+      "ts": 1791561360.6378503
     }
   ]
 }
