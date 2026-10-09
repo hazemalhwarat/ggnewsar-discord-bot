@@ -1,17 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmlxaTZBZ0FILXM1VDZndElfZjYyVk16NGNwamhTTGtwQ1ZLQWJBQl9GSnhYYzlidkdIb3JEV25uTGNXMDBmV2MwUnZvclFSd00wNmVVdFBGREQ1cXFUZVpPZTZXZy1yWXRSVnFzNk5oWjV5MlZ3RUw3VS1RM0Zhc1Y5VVlnbkZhLUM0?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ES1Jlc2ZaUzBqM3pDWER4M3dXNU1RUmwyOVF6Mm4zUml1UDRiQ1NGMnZOY2c5b1E3cmd3RVVkdUZoY3cxV3Z2OTlKbnBVQUhadkFuR0R3?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSS05ScjZtbDVUWGRGNlZ1UzFnQmVBVTlCdHZjZFkzd1JCVUVpNUVLT2JIc0RBTUx5ZUlXZWdXbThsTmszLXY1eG9OLW9iLWdPODc2emF6WFh0UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BdW9tRE1PVWduaEgzMVg0UTEyM01DMWN1S3dyd0JaMWdyVkdXRjhSR25lak96cC03eDctVUVtWmsxREhLRmFoT0hldDFFQlQ4Y1NCZG5maVVEZGpzNlYyV1p6VVB3ZmRTMU9OY3JjNkI?oc=5",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54WW9GLTdndjRxUzFLaXRieVR4elQydzNKUnRWUkNhZ1dmNXN2UXJ3WFlEZW9SdEVPN0x3U2t4R0VENDhJeDJXMmdGcVEzelY4ZnpJOHBpN1RkUHRCY2huZUNVM0s?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53WUpLYzFKcU9vNk9mRWpDS0dIbHlMelhxQVk1Vk5EZWlwcE5nRVdFVF9qdTdWTzl2dTJTNjRKd0hjNEdNRkdwWnlpdld1TzNyVXEtYWIzUkduQi1IazV0OURSV0s2NE0?oc=5",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13dDVNaUxKQ2FMU1dTZmd0aDRTQktLQkN1bHhDNThfZkoyVDk0cExMdEd6UjY1d0pZWTlLNXE2N0s3V0VkMUJKb0pTRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sTHlDZTJIQTlVRy15d1YtVnBxM3RDaXhmOXJTU01zMlNHdFBHZGg3RnZqOWJjeFVHQ2lJZGxNQ3YxbnJPNnZ2VjlZYjFKN0MtZlFsS1JXTTBJZWpiMWlkUjJZOGpya0lPbktfN25TNA?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sb2hnTFlQV2J5UmktSnQwSzh0Qk9xV0JYVTdHNUo3RkhCYzVFZG96WGpySWNMTVVKRE94eDhpM1lLWlJuelgwNXQySEIwU2xlTm91bGpfREJnVV8zSGpMN2NHc21XeHA5?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMakxScXdyX1ZZXzBuRDlEeXFZZjljWTVzdjBMU0h3bnc0ZENlMGZMLWVwWlBhOG8tZ3AwcUhNYnBFWWx6c3ZCTG5jNVk5dzRmSVFJbTdmMTJGWm9iZkxFZ3RKS2JzM0N6M0RnM1FGaVlLa1NtcDI5RkRNckR4QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42aUhpMS1xbnRoVDZ4U2NpcF9pb2VLdUZ5QjFfX1IwOFNuZGpIUUp2UTlkMXZkYnliSmxac01wck41aUNDd2sxZ2ozcHVLUXBQMjVCYVZaRVFObjA?oc=5",
-    "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1OS0pHNWNISWE0OWM5Z2J1d1otbFkyTjVlY1ZtbjR5YzRSb1Itc2JsZ2hxZ0NIUDdueDNaWGs1Z2g?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ed08ycXJxRi02bk5ZUXBaYUJWNURHd3R6T09rM19RdnNDR3paT1p6SVpZRVEyVEVnamJwS0oyWGZZV05rYXdNT3M2VkV2bkkyQ0RFSHM3Zm9JNWkzTjQ5bS1Nb3p1WFVW?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SSWdIY3RqT3RLSDBKWk5ib1J4MmRsTG1fU3dOOVhpQnBrZWNYQWhZX2k0SExsZUk3TmljeUJiem1nQlhmdFR0bFZNUkF0WWNPUjltUU1MMWppTkU0M241TXdxY01tY0FMRm5pc1l3ZTFCMC1RcEZ5R1FDdTV2UQ?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ScEpGMU56X1I5S1V2QW52djRxSjBHMjdOVEl4U29adTg5Qi1GZk9XMjdsUFpPcHRmRzg0WnExNUZ6T2RDQ0pDeGVrU2FfWmFLSnlLZ2oyeEhONzEyNUpKTTFleDRRUDNwTlZweXl1Rzg0Q19qSXJWYmMyWQ?oc=5",
@@ -7999,20 +7987,21 @@
     "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
     "https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion",
     "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement",
-    "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games"
+    "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games",
+    "https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFV2MXNhV2FCMW1yWFJmaDRWR2hjejEzcTZ2OHJINmoycmEtZUhYNGdkRmNxdEZ4Z0FZeWtJVnVxYTN1cnB1SXhPZ0QzMUp3ZURzNTJqcUVnUTlwNklMd0lUaENTbVpCNlJabUtPWUVxeGJ3NkNqc1pwMWZHaW9aTDZkd3I?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11RERPSzZUdWJWZGQ2SEZiS0lUNzZVdVI4NVF1YkV1MzNLYTM1akN0UkNwZ2lBT0YxekMtMUVDVGc0R2pvSjEtcnJZS29pTVRrWGhaSUtvVXV2U0U?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0drUDAwZHZhWDVydFpiSV85NGphMHVCN3ExdEVmQ0JuZXh4cjBIdkFNamNrdl9yUzBiZGNKa2FaZjUzOHlWRGhoVDNvOVZQb1NMVndkdTExSXJONTJ3WVV3YU9QQ01Pd05takN0QWFPZWcwSnBDcmlWT2p1S0JVekdJNUpvV0J5cE9qMEdtTEc0X2czREFuZWhR?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aWllNVUVibDVaNmJQQlVSbTZqTThDV1JaWktYZUFwS3dkVUdVam9laDNMTGF0ZWJraVJrYmE3Y2xaUU9EVzlNaExQUEpINXZNQVVWMHd4R0d2YzQ1czk5b3NKMA?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02aVNLYjZCYnN6TTlSbkhSLUpEZkJhd2x2eVROWXBtWkU2ckwwSW52bVNNcHR6RnhzM1NMWGR0SDl6M1hzUk9UT0NIczBGbkM5Q3NicW9vQTFVSlNWUEE?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVExmNjhFZEdOVHBrLU8tV1NfNDU5dG5UMUktclJOUmg3UGZMa2M1Z3lJZ3AtNkFBNGxYVm4tUHI2MWtVTTdqX1FpQmFpMWo4c055Ny1uWjdUM0xiUzVGZkU3VUUzNDd0UUhZcDNSX0FwcTBReWYyblg0VHowM3otUVJqeHVZUjlKVXJwWkxJYk50Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1dpT2JKOXFZMzZhUUZrWnV4U2wtOGNaOTZsQVdPS2swY0tCbnVGR1VJeW8yWDlmcEFEMk5KYWg0a2ZPSmRnekZQOXRVMFB0d0s5Wl8xTkpyQUdEa3VqZUJKclBnMWVBSWRIend4WHgyVGNXYmpmQkh3LVRRV0NLZk5Mb3FlWExwVUdHVkIwd2I1WUg5b3FkUjduaFVfWHlCZEt4aV9KQVNwSlU?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYW9Dd3NQLU50V0ZBZnpRQmFNV0wyaGVWQ196QTlZYVFkdlJ0NGRYWExYRngxT3BtRE9VRVU1RjZRTW1kYnc0U3Q4M2JBbU5QanhUbWJ3MFE5M0FWQ2JYWGpqbGtFSnBMZ1R2TnJUTklKY0xtd0p5SURjbERZYThKXzNHZzEwTVJNTXo2a3dHNmNUcDAwVnhXa0QzU2MxYkpPZFVfaUMxLWtwOFNoS3c4dW03Z05xT3BwNWRNampsS2JKOFpsaGJfZVU4bjh4TWFWMi1PRnNwYlZaZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhWVRBQ2YxM2o0d3I2XzVCcHNFX2R1TFZoVFo2c0pmOVN4dEpXenhsNUh6X2RBMVdIMWMySFR4aFpmU0ZXUUtlVU9nUWZWRU1oZU85aDFrSklydTlHWlFQVWpCbVY5dWV5ekNnbkV4OHFZRkJkMU4tb2N3?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPQVRJVEphZ0JpakhIR3NKRzhweWNFYjA1QlAycVdSRjhHYUY1bFl5M0wzUk40eS1yaC04ODNpNF9FdXpHSmpudEo4cUdLajU4ZlJsV3J0czRMTXdkQl9vZURqLVppU3FhaHBCa0M4ZkZabDZBLTNhcXh3QjFIQTQ?oc=5",
+    "https://upcomer.com/the-witcher-3-remastered-is-out-heres-what-actually-changed/"
   ],
   "title_hashes": [
-    "bd06908bd7f2615c16695ab6c283860c",
-    "b983c4252c36f3f0f76ca33aa9d4a7c0",
-    "6a572faa2eb2fdc9b5ae868b64e13f17",
-    "971ea87937eecc0eb07a8e69051b4d50",
-    "b81a146e5886d80e474098552ba8eef6",
-    "80cbc94ec5ca15bc5978705bdcb00cd6",
-    "ca35ab69f3e205bffdecc7e8b3943782",
-    "962453890f67ff831e2ea29c537e2aa1",
-    "bbf8e77a73f7d3d1bda26afd16a1169a",
-    "d5f86097c33fd9e64d7f43989edf4b7a",
-    "58c57c51ba791ba7feba062975e4cc2e",
     "c59e733cc94a853c1e034ee24138daa3",
     "900bf5ea6d21d265d2ee29a9ed205eec",
     "a209bda7e0dd48fd8f83bf7e23197d3c",
@@ -16001,7 +15990,18 @@
     "82699d6552f91f76580c91ff7b93f7a3",
     "00383f85bff9bbf03ec20ccb470140a0",
     "31698908dc514c82ac0c15f5d6995627",
-    "a1d540909c433965917aa8fec90fcebb"
+    "a1d540909c433965917aa8fec90fcebb",
+    "0d1fa1d1d3412952f0e9c88f6741538f",
+    "6978dacafef5fbea7ea949c4dfa3d13d",
+    "073a07a55a8ce47f8ed7af52491c732a",
+    "4fdfae4e67f0d945bad9e0a26652069c",
+    "2e2aca49159d22e1c29eb7e6b0bb3891",
+    "3f05faf808d615d53afb39aafabca82d",
+    "4e5070e4dd88cc38da44e5389c8c83d0",
+    "897e9bf83efcde1f63b0a88d14d141be",
+    "868fd55c39f038906487773e4647105c",
+    "da70f46a8d58bc6fda4395e2e5ab6ff8",
+    "8a831059affde33e116f7c3090747895"
   ],
   "transfers": {
     "pages": {
@@ -21136,6 +21136,14 @@
     {
       "t": "agreement announced avalanche between distribute games globally group has its market more nordisk publish publishing read studio studios subsidiaries supermassive titles",
       "ts": 1791561360.6378503
+    },
+    {
+      "t": "15 2027 after announces available down free global its january launch less mobile months more play rainbow read remain seven shooter shutdown shutting six tactical than ubisoft until will year",
+      "ts": 1791561366.1524875
+    },
+    {
+      "t": "3 actually changed here out remastered what witcher",
+      "ts": 1791561369.7647135
     }
   ]
 }
