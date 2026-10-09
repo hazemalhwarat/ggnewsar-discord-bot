@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26216/time-for-baldurs-gate-3-again-fan-mod-releases-beta-for-new-region",
-    "https://www.invenglobal.com/articles/26215/bombanana-reaches-1-million-players-in-two-weeks",
-    "https://www.invenglobal.com/articles/26214/monster-hunter-wilds-to-make-appearance-editing-free-starting-in-2027",
-    "https://www.invenglobal.com/articles/26213/heading-to-ddp-in-a-crazy-taxi-scenes-from-the-sega-booth-at-ges-2026",
-    "https://www.hltv.org/news/45544/lnz-tomaszin-has-a-fighting-spirit-that-we-maybe-didnt-have-before-in-his-role",
-    "https://www.hltv.org/news/45543/mibr-eliminate-understrength-magic-from-starseries",
     "https://www.hltv.org/news/45542/sycrone-what-fans-will-respect-the-most-is-if-we-play-good-counter-strike",
     "https://blog.counter-strike.net/2022/12/40649/",
     "https://blog.counter-strike.net/2022/12/40696/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/26988/lineage-m-october-week-1-episode-special-limited-and-weekend-special-crafting-info",
     "https://www.invenglobal.com/articles/26987/steampunk-adventure-sequel-machinarium-2-revealed-after-17-years",
     "https://www.invenglobal.com/articles/26986/2026-lol-worlds-know-my-name-mv-captures-faker-history",
-    "https://www.invenglobal.com/articles/26985/kibo-ecosystem-inhabitant-formidable-foe-and-companion"
+    "https://www.invenglobal.com/articles/26985/kibo-ecosystem-inhabitant-formidable-foe-and-companion",
+    "https://www.invenglobal.com/articles/26981/6-hours-with-phantom-blade-zero",
+    "https://esports-news.co.uk/2026/10/09/faze-survive-sangal-scare-to-win-roman-imperium-cup-ix-quarter-final/",
+    "https://www.hltv.org/news/45680/live-updates-from-esl-pro-league-s24-playoffs",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-qbs-going-into-week-5/2026/10/08/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-week-5-tight-end-rankings/2026/10/08/",
+    "https://thegamehaus.com/gaming/gta-6-cyberleek-update-nsfw-lucia-jason-new-gameplay/2026/10/08/"
   ],
   "title_hashes": [
-    "339bca9161b96b10ce723804664482e9",
-    "c3606f721c11ce5d18f1845a9ca2f8c3",
-    "f466d6a4362b0bd8e1112f9db77f62aa",
-    "64a4275fac0ed7d8287d35313913c951",
-    "4278047b79c2f56d1dc4a94b0e35a0de",
-    "df995716133eac114749d665901a5861",
     "2a00ccdee7d85f79f49c43eb20af7dc5",
     "fb40a4722e58ffc31f7d75ee81137eab",
     "844dd44cd8ce13d1065ffbe19140701f",
@@ -16001,7 +15995,13 @@
     "7bbe27de242af605c2f228d216389ebf",
     "d70f4bd94bdeaa458e83bbd8b98435d0",
     "ecf4cd4c4081c1c7242c85c47ffa5636",
-    "973c5320c6886d4e2a381722060e025e"
+    "973c5320c6886d4e2a381722060e025e",
+    "de09162208e77f7e9ff3a94ea275e3aa",
+    "77bde08b616d4d2a7d2b968c4808afe4",
+    "6dc3a97871624d22f4df210312df7fd8",
+    "e2d6d327afb6959cb88936bb7bbfe96a",
+    "06bd1e55d84921d604109ac5a72bfebe",
+    "df24276e0ca6064c6fef67b708fb6a4e"
   ],
   "transfers": {
     "pages": {
@@ -21116,6 +21116,26 @@
     {
       "t": "127918 azur companion companions cutein ecosystem foe formidable game games infogame inhabitant joi kibo manjuu mobilepopular nexon nexonplatforms openworld promilia promiliadeveloper sandbox subculture tags title",
       "ts": 1791536436.8897505
+    },
+    {
+      "t": "2 before bracket cache cup dropped faze final finals imperium map nuke own pick quarter recovering roman sangal scare seeds series survive take their top upper win",
+      "ts": 1791536442.364601
+    },
+    {
+      "t": "action counter esl follow league live playoffs pro s24 updates",
+      "ts": 1791536445.78748
+    },
+    {
+      "t": "5 8217 also can check fantasy football full going into let look nfl options out qbs quarterback rankings risky season some take underrated week you",
+      "ts": 1791536449.5744274
+    },
+    {
+      "t": "2026 27 4 5 after best end fantasy football has kicked landscape nfl off officially options rankings season team that tight week well your",
+      "ts": 1791536453.0066717
+    },
+    {
+      "t": "6 after another auto being bringing cyberleek detail dormant gameplay grand gta has include jason leaker leaks lucia netflix new nsfw premiere resurfaced round since story theft this time update",
+      "ts": 1791536456.4298935
     }
   ]
 }
