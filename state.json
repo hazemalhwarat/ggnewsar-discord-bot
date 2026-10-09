@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
-    "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
-    "https://www.nerfplz.com/2026/11/range-explained-10-rules-of-reach.html",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlMExEQmNhb3hkNTMzSm1JZTdiLWk4TDNITXdFQ254OV80aXZlanFvSWdsS3VSQi1rMEVOZXo4NEE3NzRUMURPOEptS1lfb3F4aWNfVUVtRjhPaUNtYXpRUlJ3UFNDSVFiNlNMVHlnWWpLOHdKRlpaSWR5OXdjWk0?oc=5",
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5DQ0R0U3lJcmc5MXhTd3U3c29CLTdSVVJwQUw5YmlobnJXN2tFSHYydUk5ajE3RktrV0JuQzRSdnlHdw?oc=5",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tbzdjRlJvaTF1UlVWVFJIcDVleXdJT0s0dVV4aEo1anhvZFlzSUI3dFJzeHE5bjNpdXpTR2wwU2ZtQ2s3STVWbXQycw?oc=5",
     "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5LZ3Rfdm5XaDRHWFVWNUhRZXZFY0hKVXpsTXlYQ183U1NTME5rTXdmVTk1RkNVSF9sTXhxcFdwRFg3c1JwSlBj?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV3prVlBkeXZIdWF0cHpNWjUzdVY4OTU3a2ViZDJtY3FCU0tWb3l0SVZxWkdmanRGRVFCYnljMXJZUDNHNTc2MlYxdHQ3b3h5N25EMlBxZlRhS3VYTzNERXA0alplMFlKQ25lRkpzcDdJemtINzg5V2l0MlVvXzI3VkVB?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/26992/chiikawa-movie-surpasses-1-million-admissions-in-korea-within-10-days-of-release",
     "https://www.invenglobal.com/articles/26991/great-details-pure-nostalgia-lego-playstation",
     "https://www.invenglobal.com/articles/26990/creating-variables-with-shock-and-execution-a-closer-look-at-zenitsu",
-    "https://esports-news.co.uk/2026/10/09/aurora-sweep-1win-2-0-in-blast-slam-season-8-upper-bracket-quarter-final/"
+    "https://esports-news.co.uk/2026/10/09/aurora-sweep-1win-2-0-in-blast-slam-season-8-upper-bracket-quarter-final/",
+    "https://www.hltv.org/news/45685/maden-joins-big-academy-as-in-game-leader",
+    "https://www.hltv.org/news/45684/flamez-every-second-on-teamspeak-was-alive-and-when-we-talk-like-that-no-one-can-beat-us",
+    "https://www.hltv.org/news/45683/vitality-move-past-parivision-to-make-epl-semi",
+    "https://www.hltv.org/news/45682/kyxsan-im-always-open-to-feedback-when-you-play-with-so-many-experienced-and-good-players-you-can-learn-from-every-one-of-them",
+    "https://www.hltv.org/news/45681/aurora-advance-to-epl-semi-finals-over-1win"
   ],
   "title_hashes": [
-    "5cc593529e0c1c3b84daad2cc06ab155",
-    "534d95825e6fb1ceb57e71749cdb249e",
-    "11bc8c53fab6db1f695fa3247e55b6d1",
-    "3256c21166d7f33e47a2518ebd1d895b",
-    "1bae021b549b45359c658e2fd62186a4",
     "9b8fc20a0d0180b3b701b113e3637ceb",
     "2ab8fe94aa0ccc1368020a5d531a2266",
     "c5708e04c9b7bb3f122d7206c4f2ca1a",
@@ -16001,7 +15996,12 @@
     "696ad44074cd636a59017d16cae56eca",
     "76da84794add0ee1712b6ecbb750225a",
     "557f154edeca5392a46db5086e044f1e",
-    "fde6747c743e7388e77fd42b338389c7"
+    "fde6747c743e7388e77fd42b338389c7",
+    "27403332976b55b7ae4d34d2d415af72",
+    "43577e50ca411acc1375933782c1967c",
+    "d2a6745b779880bbc5853dc21b79128e",
+    "0a8c6125422555e051363878ce04489b",
+    "8dafc1a9f2818d2e6a66a080a2d19d77"
   ],
   "transfers": {
     "pages": {
@@ -20996,6 +20996,26 @@
     {
       "t": "0 1win 2 77 8 against ari aurora blast both bracket britain continue dota final games has including into long lower minute now opener playoffs quarter reading round season second send slam sweep upper way won",
       "ts": 1791561221.272062
+    },
+    {
+      "t": "academy become big career change decided game has igl joins leader maden make montenegrin",
+      "ts": 1791561226.604463
+    },
+    {
+      "t": "alive back beat can every flamez like one powering reaping rewards second talk teamspeak that vitality when",
+      "ts": 1791561230.1426363
+    },
+    {
+      "t": "aurora company epl face make move now parivision past semi top vitality will zywoo",
+      "ts": 1791561233.7616723
+    },
+    {
+      "t": "ability about always aurora can comments doesn every experienced falcons feedback full game good handle his kyxsan leader learn many niko one open picture play players reflect them think time when you",
+      "ts": 1791561239.5409348
+    },
+    {
+      "t": "1win advance aurora epl face finals majority over parivision semi semis squad turkish vitality will winner",
+      "ts": 1791561243.1338456
     }
   ]
 }
