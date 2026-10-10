@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWwyUngydy1DU25oMW05UjdLNTZqNzJXVHB0UzFtOWtTckl4aE9jOUY2RHNkdlVEaVFYV3J1REt1ZWhrMEZuQXQ0NzQzV2s3MkhZTzFJNkRvMzhOVm93cE0xRzNWOVlzbFBpYnctMFFIalJQcUd2dEtNVDE5MG04dEdxQXNERWZkWG9jYQ?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU0NhWXNMc2FOTTFqbWhIc294bGNyZ0N1WkRTekxLVnBRUTJtRFNSREJFNVpHYW44R1VHNWdpeGdMbjdMcjlLMDR1YlRiZmhwZnRtMTJZRXNrWWp6M25sR0ZOc2RqX0luVllLajVFdEplUG4yclNjd2NRWTJmcjEwOTRSTl9ZV194NEFIeUk4WDY0b3poUHk5Y255N3JvM3N2VUJ1MHVNQkNfN0tTN2hoc0FWcFpieGlQUi1yMGdBUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVFRaW9lV29veTk3ZW9UMzl2MDVqZkwzY2ZXOGR1OUYxSFFONHp5UWpTRFhsSmxzemx2NjhEVmxRaEpVLWM3X2ZKZXg2M1pSVFJ5aXBFS2JkT3JuUEFXMzVMbWlBcURNLXFyVE9hTlhhSnNKakxPNjVUNE01U3RvZzNCcXlxVm94NzVz0gGQAUFVX3lxTE5WQ1dLbmFSa2JnQllKWGg5b19GQ2JLYWlkR2pTOUJxYXM4QjU3UFdZRUFzVXBmc2R5VzZ0U2tkOHV6SUEzc3hkZGpVbTNVU0hDZjNJX2dfbXhya3JmcDlFMW5vS2ZCZy11UWdKaFJTOVpGZ2NncWVhemJQa2VDQTRrLUpEQVE1WVFFQjZCRWNReg?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLWpBeEs1TkxJVjY0RmFWVWFNRDJfUExuSmFYRDFSMllUYUswdkpiaVdBQXFuWE5mSG9DRWxzS0E2NmJQZDdRRFdDMTFLZEZtM3AyM2JGdTZLNEJmTFFiOUZFZHdDcmdNWS11SmhnNUFPRjdQdm56UmFfZkk5ajRUUE9DZzM0Wkg5cHR5T2g4djc3UVpnOXZfeEZULUM0X090b2hHYUtyem9oeVFwSHBR?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1Z0QzYyWWM5UlNjaG1wdHR0cF9sRFplcGZ5YWFEY1dPMnVGQXRHOGRXcW5FeWJrbkVHOEpkTVBlNlAxc05xZkkxdXNkSE9vTjVQS2FkVzdTczNYUGozYjFuS2gzbHBWbndVVk5majUtM2hjaElQc0xQQU1mRXZza0pucDVfclhON1Z2bWk3amItbHAwTzByclhwc0d0cVE?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VWlBYOE1Fb0pma0NaLTJBNld6M243c2VhZ2tnZ1BabHltLUtldjZ4V0c0WmFvOEZWVVhTbXE3NmtScjl5Y3Y0b05WUi1GLWRwYjRkN0lROG5SOHFjZnduNFV5eWtsUC1XWC1nWG1NOXljQm13bXJGSWRR?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbnVDbHA5b0xxWUJudWlSOG53dXNBOVBoNVhJdWpQWFpsWVVucnZqRGk2a1Uzc2otSFhydnltWW41Z1pjajVQYl9sUmRYWmtZTlhNNzRPQ0RSczMtOFRKVm43Q2lBa09mOWJ3OVJBZl8teFJEN09sSFdPQkZScHF3TmxfY1A3QWw1amtqQ0N0TkI1VWpXNHFBOTg5cnp4ZEpVeHNDa3NNd0VWSko3cmZLQnR30gG3AUFVX3lxTFBxSE1jVVJGaXhTc0tsXzhEMUh2NVp4WHVPYjlBcGtlS3V5TGV1cnZlU1NlNm55czQ3YlZjSl9ueW5YZVFzTXNGa2xZY3FhTnhhSFFqdlN0S2R5N3libnpyZ2hVdTlWSno0SURja1A3UXdfbVlZWHBsUThtaHlSMENGUzF3eml2VGlmdVZuMXBxZERIQndONlpwWjlzNE1sQnU0U29UeEt4aEUzWldRZFZYajZIMFhPZw?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0p6cmNLWHdFTUVmaWVJUXkyU0EwSktsVXh3dFRYU3V4cnk1a2VQRGs2aEIzNENDNExseXd2YXZWd1M2MG05ZkY0YUtuemtFYXNxN2wzWW5lblllUFk1U2dRQi13MXE5cGxJNlg4OTJ0bmxxaVlDQWxkZG5CRXBUZVdvcGpwZzJvZ3dJUWxGMmZqUjRjT0Q0?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27006/gta-6-leaker-cyberleek-vows-to-release-full-build-if-memecoin-hits-30m-market-cap",
     "https://www.invenglobal.com/articles/27007/anthropic-discloses-cases-of-ai-accessing-us-government-websites-including-submitting-fake-tip-to-police",
     "https://www.hltv.org/news/45680/highlights-from-esl-pro-league-s24-playoffs",
-    "https://www.hltv.org/news/45693/mouz-beat-spirit-en-route-to-epl-final"
+    "https://www.hltv.org/news/45693/mouz-beat-spirit-en-route-to-epl-final",
+    "https://www.hltv.org/news/45692/faze-knocking-on-the-door-of-top-15-with-roman-imperium-cup-ix-title",
+    "https://esportsinsider.com/2026/10/valorant-champions-shanghai-lower-bracket",
+    "https://insider-gaming.com/ps5-jailbreak-makes-ps2-discs-playable-current-gen-console/",
+    "https://insider-gaming.com/metro-2039-preorders-october-13-report/",
+    "https://insider-gaming.com/black-flag-resynced-cut-scene-major-story-points-and-expansion/"
   ],
   "title_hashes": [
-    "377e133c3a63fc785a8c76fe16f4e680",
-    "21a6a9234186390d8971a204fe0713d3",
-    "2c23abcac7291625aaf2146fa4041b74",
-    "9ebb2c3679872709c74c7c63ebf1d6a5",
-    "e2b4ac2b662252d216732ac0ee2f330d",
     "1c0c8edbcda7a23d4ba57225a481bb72",
     "75d9757f4ed484d927da7d6297642a05",
     "acec87dde6f4915aec18117083c0f252",
@@ -16001,7 +15996,12 @@
     "80b1d9087cbb83aab053c1ef23271d0f",
     "c6d48ea02adde31220cb5002497874b7",
     "58f274dc011bda5472140707f7ccea13",
-    "6a424924b939358e81d2c18f5edf5f6e"
+    "6a424924b939358e81d2c18f5edf5f6e",
+    "1b37a0a9e0b697d8f1df9f8728edd44d",
+    "ceb41bf152626566f8aaab94b52b59de",
+    "2ea76949a0226604efbe4cca34729d45",
+    "76f70da3a944a1b9da9dba33b06e6a76",
+    "7cc300478419f11aa13d8adf17594ff8"
   ],
   "transfers": {
     "pages": {
@@ -20884,6 +20884,26 @@
     {
       "t": "beat donk epl final mouz paved quiet route series spirit unusually victory way",
       "ts": 1791675329.3635614
+    },
+    {
+      "t": "15 after charges cup door faze foot gaia have imperium knocking major nova one roman run singapore title top twistzz unbeaten vila",
+      "ts": 1791675334.5607905
+    },
+    {
+      "t": "100 advance both bracket champions comeback crush dominate lower nongshim paper post rex shanghai survive t1 thieves valorant winners",
+      "ts": 1791675338.211151
+    },
+    {
+      "t": "2 console consoles current discs gen has jailbreak latest makes matter modern playable playstation post ps2 ps5 ps5x2 rendered saga seconds update",
+      "ts": 1791675341.8032703
+    },
+    {
+      "t": "13 2026 2039 according also begin claimed contents could details edition format includes information metro new october open physical post preorders prices report",
+      "ts": 1791675345.317991
+    },
+    {
+      "t": "black content could credits cut expansion flag foundation games has have laid linked major more other points post potential resynced reveals scene story that together",
+      "ts": 1791675349.0489767
     }
   ]
 }
