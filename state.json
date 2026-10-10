@@ -1,22 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXpoaFo4amdGQjc1UEI2S0pDMTV2S2dYbm5kcUFXYWx5UkZTQkx1aEVWWk1pM3FBcWpXdlM5WGpVLXFyS0RqOWNaYjN2N25tWEtUX25XMWFsVkczUUtMSENZRk9USEVrUXJuS2RpOWNCNTNEdzBwVk1CTVRPQmRyN2lHalZYeWs?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iREZZdFA5aXIwWU5lY3FZMG1vN2lsbk5NTXg3SXJDU1htVVRkTWVTVTFYeE5oYURtbGJtZGFxRVpYY1FJRFZ3Mm9lSGZnLWNKQU5RazdhLWZBMU9vVkxHekVudWtqNENfTHU4b2xCb2FTWVhSUi1EZlJYWEY?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yM25VVjk0Wk9yZTc5Tm1SV0J2TVZZdGc4eDVaeGlpWmFNLWVKTTFyLXZJYXlPNUFwNEVFNVBpNVZlQ2xLdnFQYTV6YWhIUVdBMmNXemM5UU1CclNJajZKdUJjc1pUTzg1YUdQbU9n?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LZmVkenlCX1ZEYjlwUTBqSFRhbFVHNHp0VE1SN0lBRUlBeFEtQmhRbHZBS0RZTGdvbk5waEZiSVo1ak4yRFF6dmp3OVhSYzhFX01HY0lxT0c0QVlXYWxXVFlYUUp6aVlQdkRpc3VreDEwUktCakg4?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HTDZiQWhwTDJCSzhNZXhSRUc2QUZwTngySWFUTXg3ZTZJM01wYVg0R0VjZWI4ZjBNc0JJVmF2TVJvQ1NxdHN5ZTZKUnBCa1k?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2ZYaXhfQW1pNkFhUF9HQTlkTnlTQnRqbmNiWW43NGVSQnM4bzRXblpIaFdhaERLbC1iZ1JxWmZtcmRub2FUekEyR3g2cGhBVE9hNnlrUjdtNzQzZGRfMERmU0trRW91cmhqSnF3ZTI1azRLWlc1Q0pFUDhoa1Ayb2k5Tm9CUTNVbm9HVFk2bWtGNXBrZldr?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZldQeDNVWnNaeEd5cWVRTEhWTGROeUR5UjZyWXFsTG54VUpyLUQ0QnMwc2cySTUyRElIaWJWQTBjMjZ3VV9NRGtIejNLR2R1UlYtSXhUSlpITGw3aEJTYU9XX3NjOVJ4UmprSFJqVUZGVVpoX3RCb0cteEpKem50d3RVSC0?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTmp0dWxtUFAyQzhVVEc3a1BVOWhpR1JDcXRFLU5xUno4cDd3Y004ck0yVVMzdVhfSTVQb1N0VllYdUQwNzJxU0RuVDd5Vk94eDhPMVNDTW0xYnJNTTBaa2lnd2NYYUVSQkpEejRDZkZGV0dkS2RTcXFFUkRPeUZ1Uk93QjlPeXB1bFFF?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWjBleWUyWDlSaVoyblNoMnVKX1R0cGl2cjVxUHZJZGxBVTBaVHJKaXhUdnN4LVF1Smg4VHQ0b3NSX05GWHhVQ1RlVVFrT3VzbVlKdElqdk5OVDBtaUIwTkdsMFA5V3R6dzd4ZHF6N0tLaE8yUFNreVhvYnNaN1BCa0dsZERaejI4RTJ1QlNkSWRUZ0VmM0h5R193WEY4QzJBamFMWEZDVG9vVVlpLUt3aW4tN1lSNEJsNUZHNmtvRUxVdjdFM0Z5TW84OA?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSGVLajNacW9PeEhMeW5QS2dVaU4wUkZRcEtjOXU3bUhETGlIRXRyWU1CcGlyS1NBd05RTDAyeTVzb25EcXhjTHNfOEwtQm9CYVdFWEtleHdsbjA0ekNPck5RMGZ6cEFBd3RBUHVfWHhLVjFKYklQcDRLanJCbzVHMExxVFRvaklIOVdMYXpR?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tYVgzaGhyejNoODhZOUZ6ZEZIV0tNXzB3cWlMaGg3VFhfYnk3VXpvZjJ4UW0xMEcwd3lwYUJKMmJtMmpCSUg0WEdJa3JwYVhjbUFObzlIUFI3V1Q0d2ZNM1g4azZaUm1nVVNLSF9sWmJXeUZzaFJzcXpB?oc=5",
-    "https://europeangaming.eu/portal/press-releases/2026/09/17/214265/octoplay-napoleon-belgium-go-live/",
-    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1uOTdJV1JiX05fbEdKN0tiQjZDLVhFbVBPU01yVEZ1UFYwR3BUQ1doRE9yNUZLTkp0elY0cW9KQzVNSGs?oc=5",
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtMlowX1VoNm9OY21Mc0ZxYkJnUXg0U0pMNkdtVC1DODh6TXpJVWxHdDZjUkwzVXR0WGZ1cUpGSTMzeGFOU2dfZkZ1T1JOSnZU?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE83STZDOU92Q1JaLXZyOUFNZkFpbHZHdDUzRTIzd1F6SHRkdTZrQVVoR2ZPSU9jSElZN0ZKY0ZxaTI4X1JvNmFuc05JSERVX3RBdGNGSXF1ZlA2ZFZ2UnA3TmhOVGsxVnNDM2FaYjRGNmRJczhUbHc?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OdURGNkhhdmRXczI5V2s0eVVWZTk4aHBUeDZzUm5xUnpkOG84RFNCejBDWEVMSTA4MFg3WVhHZkZNblRneGhwQnRvSDFmSVFXMzcxQTJ6aU9PMDJ6cDJNMF96aG5FNlRsN05LVjVfMnNHYXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZSDhVSGpud0RoUndvRFV0a0xGdTlIX0szYnpxclJFVFFYUjVmQkZCamlqdURiSnhYa1k1bW83bi1JUzBmOUE?oc=5",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LRzlnWGowajVrNWpaZnNqR09hRWs1bTRabjdlRENiOHpxbU9JcFlNY2pOOEJoRTloQjFVR2RMc3A2Z1hXLUR1UzVHMjVFdw?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UMjZtWFR5c0lTNGpqTUZXTjdFMjBBMHBlN0ROT2w1ckdQb0Jva1BYRDlkRFJlaERDY0hGUVRIQ2NCNGN0YXRNQnoyMEp5TFltd1o0?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kYl9MTnVrRXlaSmt6czVaQmo3SjRxTjdCMHVNZnJ1Y1BQaTlsWkhRYV80UnlXR25kdkxwcm9tSjNMc3A5UEhEcEtLNXBZUHRjbkE?oc=5",
@@ -7999,26 +7982,26 @@
     "https://esports-news.co.uk/2026/10/10/mouz-sweep-furia-again-to-set-up-esl-pro-league-season-24-rematch-with-spirit/",
     "https://blog.counter-strike.net/2022/12/40705/",
     "https://blog.counter-strike.net/2022/12/40706/",
-    "https://esportsinsider.com/2026/10/astralis-roster-change"
+    "https://esportsinsider.com/2026/10/astralis-roster-change",
+    "https://insider-gaming.com/contexto-hints-answer-for-october-10-2026/",
+    "https://insider-gaming.com/nadeshot-slams-gambling-hater-on-stream/",
+    "https://insider-gaming.com/how-to-play-deadlock-on-steam-explained/",
+    "https://insider-gaming.com/deadlock-city-never-sleeps-update-player-count-erupts/",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-rbs-going-into-week-5/2026/10/09/",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-wrs-going-into-week-5/2026/10/09/",
+    "https://thegamehaus.com/deadlock/deadlock-solomon-abilities-breakdown-first-look/2026/10/09/",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOazNqZFpFNExsbjFoZGJjLU9jTUN6NlgzVS0zdG81akhzc3BZU29TdFBWNG9GcGN2VnlsaGRjZnFYVVFHaEItMVUweXFkcTVCblpPS21xQ0dnVC1Nd1VOb2tUVG5OSGVNRVpTdXdtTEFQT3NwQ0R3MDVieklxSk51OTJEcFFKVWJzY2poRmtIX2k3Ujg?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80YlF4WTZfYWFHV1pzRlhqQUUwQ1o0NTRJTjdnOEtJSGdpdHBZUENGM3FrVmplWnRkb3VRYVNwbHNWWDlORWt5X1dsOTZPaDFBWVM1NDBCZzY2emFrX0h0T3VmNA?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDJJLWFnRUE5U2JBMTlhQURYRFVhb2R4ejJKRFFBZzlqYllBWk56WWtWNjRxdjRFTHFLZWdoYnN4VWJJdkZwbWtFcE5BRm1YZnI0RmlCVDJuWld0YlY4akZYS0ZUZE5RRnJMLU5fc0VhNTZkZGRuVTFNVVE3S25QX0NKUDVoVGRVUVQtZG5IYmFDdC15RWpCeFUyU2d6MGNyVzd0UA?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdkRrWGl2dWVOQS1ka25hdkprZkpuVXFTb0F6YV9rQVdNblRyVFJLZU81U2RKM0Y5NlVDVDNUc0MyRUZVS3hrajFWVEtQZTQ5bGVpUFZGd1ZENU9TT1BNQ2hVQmdZV1Q4VTV2cUlCc3VJVkNzNDI0WWNUSEpmbWdVbEpnLTZtelJCNkxXd2dqb0lxMng4WmNJ?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUcwS3NUZWNVNzZuVnl0YlY1Zm1YZFJIV3F1bTNZTWQ0SndEU1U3LVJFbm55bGtNcVJaU3N4djlieWdmbTVnbTR0bm10eFg3U0ctczlfYlYxYTc5RE9XZ0stX3lGZDc1a3c4VHdlZEIteHp1QWo5dWFMcTI2R3UyUHI0LTA?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb2ZtVnB0UzZqazllaTZfSjMtak1YQ1BXQkpJSHBUbGZ6NmFJVUtmQU9CWVpGU1QxVUVpaFBQb3RHMXZ4V0NSSl9XcERpTERFSDl6LVZUaF9Ga1Z0clVXUE45c3VaLTMwdDNiRktoT1VCOXNvX0lNc0F5RWNRTnVUR0V5UFpOZ044ZWZN?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakVfUTRBR3JZbHBiZ2Z2WngwZUhUbHdQMUg2ZWxmRWFsekthRTk2VVl5RUYzSVJLS25JUUFZdVJjWl9DMlBITm5nOVF2WklpV3NzZ1VxMGFDV3dJWi1CYmxkTkd2cnY0cFJ0bmVIdlpQa1pISkpubnVCTTJsejROeFF6NURBM3VKWGFmd3ZPaEJpeVU?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakxDSjhRd0ZBZXE4dVh1dWtqcHRyTnV2NHNkSUwyUWR0SHIxZE9IVlAtaXFXWEVkdFVGM2ZkR2k2YThYZk5vQTVnWkdtQU5RUV9ReS11VUdlZDJobW5sNnlNbGlsQVV3UXluZ2ltTFVGdUd2djBYalYtWExEZkZ4OXoySlJ3Wk1PYTIxRENpUnFKRWFKVEhZQmF5TWZKT1FOT0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93SHFMendPU181UnVFa3E2cXhndklXSVE1UWI2ay11Q2JXampjODVpVm1qMk5nNHFyTHFpVmFHNzFpeUJ3TGViSlN1MjRfdmpwWnZNaFM2U1U1a2NwOEdxOQ?oc=5",
+    "https://www.talkesport.com/news/esports/pmgo-2026-season-2-dates-teams-format-venue-where-to-watch-and-more/"
   ],
   "title_hashes": [
-    "0561b61923a20258066043f16765c10d",
-    "9d7dd6f83bb369094cb4bb21966c6f89",
-    "39a9bb5168a15b93d119fa5b78d7ca39",
-    "46b7b96440b597bb383c719fcf6bc666",
-    "b87fe7b2bbd5a0d4846ed711a8c979ba",
-    "58a27899e55a7c93bd0e647be2a0aaac",
-    "76ba2c1c422ee2cfc2c20c26bc567313",
-    "bf8b91bba5d7c832ee8abdddbdf088a7",
-    "6d1697b9bd2605340a3bef22ee54f712",
-    "cc6e9424b102a082db18677c67bfa3fb",
-    "1f789bde4e8dae3193eb8e53d4d2eb33",
-    "9d63756006d9dc1c3618c088a70ca8ca",
-    "c326fe95e51dcb2e0514f96294bec8b0",
-    "62f55b23e6b411adb8dc09df8724fdf7",
-    "d1804b35252fcca2727fb088d996d1a5",
-    "29edcd2bed9f2ba4dd81bf1ab5150d0a",
-    "a248b586bad46b19c3425ed61fdd66e2",
     "247b8fda97c67b3a4e19cefa1970ad21",
     "4df34933661eb80264fd6af566eb8562",
     "fab494103405607dbd2010a96575dd79",
@@ -16001,7 +15984,24 @@
     "4d9c132dbef5bbad52e4045d4e0634d1",
     "0044170188e75cf359ec853d415430ed",
     "5e46bd253be5629980cc76e5cd26525c",
-    "74621addb5f367a4dae4395039c4156a"
+    "74621addb5f367a4dae4395039c4156a",
+    "d78eb80aab393905f369f50e668462ec",
+    "644fe439dc9c7d4b4c2c63e56d451e8d",
+    "4d5268cc39063b56aeba224267861a82",
+    "60069f8fc6f36fc53cac8728ff62706c",
+    "27704df7cdfd088f8f5db48166a032df",
+    "c3895f2a5ad8ebdc7bb4d33c3fd7dbd7",
+    "0205f08a10c765afbb944496dd54eef3",
+    "df730371cf7d6f868c2f3434562b39fb",
+    "f24c3a4d99ba6f654aa60feca8766d1f",
+    "2e8e80d16b86ac892adc40ba44e2cd36",
+    "7e232bc0e5b03648097420a637f4fa03",
+    "0fe2c7dc2c2fad2194235fd078d19d62",
+    "06fecfca8245ca3f46edf006604a778e",
+    "75b9148b2ea0142f041527bda4883f94",
+    "d6cfcf60ed85c8f73520480e1bfe9755",
+    "36cc727101ae53275c7e979f8091089c",
+    "fab857dbbdced5ce23fefa7a6cb32b27"
   ],
   "transfers": {
     "pages": {
@@ -20928,6 +20928,26 @@
     {
       "t": "2019 after astralis benched change first hooxi jabbi lan possible post precedes roster sees shake signings since team title two unconfirmed",
       "ts": 1791632518.1354482
+    },
+    {
+      "t": "10 2026 amp answer appeared contexto first full gamin get guess hints insider october post stuck today trying you",
+      "ts": 1791632523.2680619
+    },
+    {
+      "t": "about content could don during gambling haters hating his just media nadeshot post ranted recent slams social sponsor stream suggesting they those too watch",
+      "ts": 1791632526.807318
+    },
+    {
+      "t": "8216 8217 city count deadlock erupts game has insane lands levels never newest player post proven pushing rampant sleeps steam success update",
+      "ts": 1791632530.2986243
+    },
+    {
+      "t": "5 8217 also back can check fantasy football full going horizon into let look options out ranki rbs risky running some take this underrated week you",
+      "ts": 1791632533.9299934
+    },
+    {
+      "t": "000 2 20 2026 32 500 begin competing dates different featuring format global massive mobile more october open pmgo pool prize pubg regions season set take teams tournament venue watch where will",
+      "ts": 1791632539.9039285
     }
   ]
 }
