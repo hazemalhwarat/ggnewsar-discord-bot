@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV0VoaHVlRy1mTmdJSm1BdUNFMlgzVjhUVE9QOVhNTTBCYS1WVldDc285S3lwM0s3VUtxb29DQW9rcldnaTdkU0E4QjBDVWI5djFaNjlTdWxvdlF6blJKTjY2T3JpYjRxRTJ4alJGVnBQc2FoYThJbC02WlZ1cndqV0xsUnlvcHJxTEk0UElIWDJJZw?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDSGxwNnl3ci1yN2FwcmtGN2lGNDBOZFNucHlmd2tMenVNWG9IQ2xRQXd6UmFNMVphdGpyTksyN1FYdEM1TFJ0LUZMVmViMHNiZklYOVQ2ZURtdTU0OXRKUnF4cGdtV2t2am1FWnVweG94ODAyaS1KYnRtMTg?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uMG1HNUNzaGl4Wjl1LXVqNWg2eElmWE5YVmlJaUNlTUpOem9LWkxha2laVUlPSFo5eXhqSTY1NFp6WjdRUEJ5SUVfU2oxYXEzUWtqZHp3Z2Y0Q0tZcDR6VEFIRi11ZnpRUEF2MkxnWVJPUlBFN3BweWVPUWs?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9idGxaT3VkSzVHYUJGUzVOcWF1ZnFnNEhtQUdSdlJyUktqT0p3eFNjSllyYmdlNTBFcUE2em93V1F0dVRuMWo0YkdpSTEzRXROb1plYVZ1VW5tSDB1TWRESmt6ZDZDMUtpS085bUMyQTBLXzBNbEcxcHF0c2k?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xMDFYUDZQX2ppZ2RtenBJdGRnTTZXb2ZMZjhwZFk5U21Veks4Vy1GMm8tOWxjV0hWS0Y1YjlhT2VJM1gzUU92VXN4RENmdnE1dnhCWmtwTjJ3YUV5NmZPRm9JOXNaWl84S1lDVA?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTJhME5fclB2Z1FhYzZqYjFyUmUtM0hSZ2hwb09ZdE4wTW9ob200aFVlZW1zM3BPZGlsZFd2V3pCS1dMTGIyU2RmTmc4TFU1TDNFb2xFOTBLY096MGtpZVRHUzBnOUowTS1KbWlXelQxS1VBTWpaT1lfV2tLS0tKcnZGNUR1TkRBVkUtTlRPQlF1Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUtuSE5HdmhWdDVxbVBYcWJpQjNOa3VYYXZPbVhyT2RmNWoyQW1ROHlzSkt1dWFfbkhxYWsxUjl3TC1EZTdISzNxUEUzdTlYZGY0TUxYa0hhbXpHRkpKRXVLUnYzd3hYeFQwWUpmNVhZM1h5bk5MU2xIQk5vYy0wdFVQbGR0YlVvc1V5NEd5QnMxOEZfYVhabzBfZEJjWFlSRWdzakZFd2RocFNvdERleTRR?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUThqMTBBay1pUVdxWWNYR1NtajE3YklzY2RlRmlUWHh3UGhheC03b3J5Qm84T0hBclRDUkl1VVBSc3VnOGkyODM5Ql9oNUNpMXZlRjRSS2hRXzlhMXZZQl9DUG9SUzljeGV5SmxCOEVCelh1cDdpd05zdWE2UURYem96Q0lkWWxQVFE?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE4zcXdmbHRScnJRXy1HZ0o1MjdGNlZZNlNpenp6QlFBbWprUVhIZmw1MXBtcU9SSFVVeHRqUkdUN0ZaRGZTS3NQSU5MTld2MVVRcjV4a0FZY1RQMm9CdHptNUMyMDZSbHE1MENETkx2bzNVZw?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc1RoVFJiTTIwcEg2Q2t6Y0tld2lFWlNHbEJxQXROa2hGX09zZmhqNERTN3l5cFp2TUZzcmdhYTBCMGZsY3hRU0VKVWFmVm80b0dTTGYta2dtNExDMWdLTnNLTk1NQUR3ekFudmtfVVBIYkFCbmw3ZWJEZUdGRGpnLVFuclI1TS1hYk1jYjFCdw?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ2ltUFJnTnhGQ3lSaE5oeXJaeElIZ0h6MGFxRFZ3dmkzenBQODRfT1NBZ0hkN3FnVGFteG9nbXMzQmZlRGkzV2lsWGtlOVNsY2RPQWU5NGd3ZXpZSlM1NTFpOWczejhkbVQzNVdlRkN0dVctMWlGWV9nMnUwM2N5QS1xZzZTMHRlRWhaVQ?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE44aDZmX01CQnZmS0lFZnlpdFZlMWlGbld1NnBUemRVNFJ4LUstVjJOc2tTWHFKLVAtQllGMWozOUJWdDIwaEdEN3NzYXZwOWxxS3JQTloxcXhMQjRRcGh4N2MxeFFLQmhwYUp3?oc=5",
@@ -7999,18 +7990,18 @@
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVplSzJwT1pYUFEzTV9nelNzb3NuMmdxMDF4RFMzVWdHN2p1SDVLdWNlS0Z1VW9ZeGFlWUxVMEt0NV9CV1JQS0VGbWFuOWYxVk1xV0VIS3JiNDhLN3JBQWhKam1ld0JxN1V4RG1FYVpRbDNkdVFtajM4WnhwR1h0OVFISEJOYkxfZk80?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vcERSenVHQWY0dVBzalQ3MjhiZG1ualhPMzVOS2JTQ2JJOXI0QXVDblBGRkNmQV9Dd0NFYl9YRFBramxwME9mVEl0UGFlNUlLLXQ0ejM4RU5DRGdUZEViWWt4LTR1Rk5ldHNIT3U2dFc?oc=5",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mZGw4M1FqTFpSdGFtNlplNzBrLXBmakJzWWhkMjBVRmJrX01JUkpIY1pkWTlyTllVV3hFOUxMajd5RGdDZVVjN0k5bkVsbFJmenJBWA?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXFnTHNlYjk2dGtEVFU1MkpWUHh5OWx0MXc4MF9XTnE4d2FOdGVVWkN6Vm1HS3JLWTVhVDdkTzNBU3FrNWY4MUI3NU13WGtqc0xJNXJFUGtlQlhNZC1SU0lialA5d0FLRDNGY0g2c3AzUjFwUTFIbmtSNUUxN3RMejVXbjdVVXJVa1gxbWxR?oc=5"
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXFnTHNlYjk2dGtEVFU1MkpWUHh5OWx0MXc4MF9XTnE4d2FOdGVVWkN6Vm1HS3JLWTVhVDdkTzNBU3FrNWY4MUI3NU13WGtqc0xJNXJFUGtlQlhNZC1SU0lialA5d0FLRDNGY0g2c3AzUjFwUTFIbmtSNUUxN3RMejVXbjdVVXJVa1gxbWxR?oc=5",
+    "https://news.google.com/rss/articles/CBMiowJBVV95cUxPOFVrQlVBZnI1d0VEdmpvMnkxYWRfaXZWZW9vUGZrcTFpNDN0VmZ1dVRvUlVhcnA0Zk12Rm1IbllpUTdzZklWcmVDeEJzeUJmSl9lSll2U0F1NEhPb2JoMlVxMXBJeFJaa0JMcVBpM0VsQTdmaW1jaUs2anFDU1N1aHNXcFNRbW5TWjZSVDlDclFGT2l6YnZYdUxoQThvRGpBejdHT2tkMF9sREV1NWJjbXNDanFtNVZqRjJObWZxRWw3NDhRZ19hVVFYWkF6ckNUR3A2dnAyclAwWXdyM3dwSDZvS1BPdUJrMHpWUjhORkJnRTZuVjdoeVJKODhmVkZ3dU83eUJSaUFyRFhZMWxEeThXWmcyVkpybDJkSkQ2aFVTd2s?oc=5",
+    "https://insider-gaming.com/gta-6-playable-leak/",
+    "https://blog.counter-strike.net/2022/12/40649/",
+    "https://blog.counter-strike.net/2022/12/40696/",
+    "https://blog.counter-strike.net/2022/12/40699/",
+    "https://www.hltv.org/news/45690/bbl-confirm-mistr-signing",
+    "https://www.vlr.gg/771243/vitality-brings-down-g2-2-0-to-claim-upper-final-berth",
+    "https://www.vlr.gg/770954/pcific-igl-qpert-to-enter-free-agency",
+    "https://www.vlr.gg/770452/loud-deafen-nrg-secure-top-three-spot-at-champs"
   ],
   "title_hashes": [
-    "a66f0a186cfa5ee163889e093ae1c62f",
-    "d71a202ab7f681779aa3fc19f19d97ed",
-    "de5107f246ed4db3e8c64bb9850123d3",
-    "f2ab5fb218da8b84623f45579aa4ba11",
-    "31069037935d191e505edb212cb3cd1e",
-    "0c1fa3a4f0f7fab54aef1d74d1642f56",
-    "513c061175ca51edb894c23249fe744a",
-    "171e0d128122f15b121ffef25df64150",
-    "2af1f1c4de6690ae058558f82c196f13",
     "0044170188e75cf359ec853d415430ed",
     "5e46bd253be5629980cc76e5cd26525c",
     "453e4eab0e85924d9c2d44b1a7cb2ed7",
@@ -16001,7 +15992,16 @@
     "ddba4df991666f45c67fad3eb442057d",
     "035af8418c06fda789b65eea62cacd21",
     "b2452360ea5c74d5656e72a0a96df8d2",
-    "0c4a1162bd1ec1c08c73a6b5fa30df70"
+    "0c4a1162bd1ec1c08c73a6b5fa30df70",
+    "63d82b72bd95d6524a313bf400f7d9cb",
+    "0aa6240b17e407a1345c0e15c6c9d1c1",
+    "e0f986236788636115a69442130cba3d",
+    "a2acb0625139c71d21d9dc130aaaae2d",
+    "3eaeab6b937adf3e3523e7b76e22d42f",
+    "b620eb6ef1af2239fbfc6b70b637e5ec",
+    "eecdabe52e6c3c3aa1d68bee6a890c7d",
+    "f67e9f76d3498a09911fc29141ef49ac",
+    "64542bcb84a56b22d92d332af40ef6af"
   ],
   "transfers": {
     "pages": {
@@ -20710,118 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "celebrations chaos club collection featuring has hedgehog launched launches line merch merchandise new official ongoing part sega shadow shop sonic starring",
-      "ts": 1791577619.9288445
-    },
-    {
-      "t": "2027 26th 5 6 8th according announcement developer forza games horizon january launch october opening orders playground playstation pre ps5 release set store will",
-      "ts": 1791577623.3972507
-    },
-    {
-      "t": "2027 3 8th according announced coming consoles during escape escapists first game next october prison release revealed series team17 time triple",
-      "ts": 1791577626.974066
-    },
-    {
-      "t": "2026 according anthem championship chosen competition contest damage games have know launch launched league legends lsquo name official remix riot song soundcloud true world worlds",
-      "ts": 1791577630.4197788
-    },
-    {
-      "t": "100 balance been burned exhaustion feeling find furia get good half has major need not out respite second sidde sight theme year",
-      "ts": 1791577634.2619488
-    },
-    {
-      "t": "donk falcons had highlight moments mouz outclass plenty rematch set spirit swept tn1r two",
-      "ts": 1791577639.4331944
-    },
-    {
-      "t": "ahead astralis bench breaking core danish famed hooxi jabbi major organization singapore",
-      "ts": 1791577642.9756734
-    },
-    {
-      "t": "announced championship face falcons matchups nip opener pro replaced their thunderpick virtus will world",
-      "ts": 1791577646.5218456
-    },
-    {
-      "t": "continue epl flawless four furia haven lost map matches mouz off run see troops xertion yet",
-      "ts": 1791577650.2945905
-    },
-    {
-      "t": "2 6 8216 announce coming devon directs gta has nintendo nothing post pritchard question rockstar says she switch take two",
-      "ts": 1791577653.8315058
-    },
-    {
-      "t": "after cha champions elimination esports exit hands hold holds means now organisation paper post record rex shanghai t1 unfortunate valorant",
-      "ts": 1791577659.0452182
-    },
-    {
-      "t": "18 20 26 after app backlash changes changing controversy during emea games giving has lol masters notice patch playoffs post prior received riot teams without",
-      "ts": 1791577662.576269
-    },
-    {
-      "t": "5 6 adding always battlefield been browser features finally have introduce key maps mechanic modes new one platoons post season server set should that there wealth",
-      "ts": 1791577666.0083687
-    },
-    {
-      "t": "20 42 after arrival best build charts entered exploded games last month post project rocketed sales selling steam ten thanks top zomboid",
-      "ts": 1791577669.4990754
-    },
-    {
-      "t": "8217 been board brought claim claimed daxter have indicates jak lands minecraft movie new post regarding sony that writers",
-      "ts": 1791577672.940068
-    },
-    {
-      "t": "bulkhead despite developer happens having important insight into its keep long new players post progress seasonal shared term update wardogs what why will wipes your",
-      "ts": 1791577677.9716258
-    },
-    {
-      "t": "000 109k 114 131 131k 722 after already arc been burnt climbed concurrent following frozen has initial launch milestone onlin overtaken past peanut players raiders returns showing steam steamdb surges trail",
-      "ts": 1791577681.3745067
-    },
-    {
-      "t": "2026 championship confirmed fly has have last malta minute ninjas nip organizer out play pro pyjamas replace replaced thunderpick tournament virtus will world",
-      "ts": 1791577684.806073
-    },
-    {
-      "t": "1 100 13 2 8217 americas beat bracket champions defeat eight eliminated ended first lower nongshim redforce run seed shanghai them thieves top valorant",
-      "ts": 1791577688.240629
-    },
-    {
-      "t": "1 2 8217 all champions closes comeback completed elimination ended hands korean lower one pacific paper prx qualified record rex rivals round run sets shanghai side t1 unwanted valorant which year",
-      "ts": 1791577691.6652684
-    },
-    {
-      "t": "20 2026 8217 fans history league legends lineups lol means most one only players rank recent season stacked team that thing time top upon worlds",
-      "ts": 1791577696.6778681
-    },
-    {
-      "t": "2023 2026 2027 after been but development disappear down earlier first game got had its less mobile paris rainbow release see set shut siege since six than year",
-      "ts": 1791577700.1540298
-    },
-    {
-      "t": "8 begun fewer final has have key matches momentum mpl opportunities playoff position positions postseason regular s18 season secure stake standings stretch teams their this watch week weekly",
-      "ts": 1791577703.754319
-    },
-    {
-      "t": "coming epic fortnite game heavily however know most new next one out patches regularly there typicall update updated want when you",
-      "ts": 1791577707.1518633
-    },
-    {
-      "t": "2026 8217 8220 8221 after all anthem dropped easter eggs far here just know league legends name references spotted three winning worlds",
-      "ts": 1791577710.6978
-    },
-    {
-      "t": "5 8217 8220 aurora been cornerstone crosshair dörtkardeş greatest has have loyalty problem rifling scene skills smailcan strengths turkish unmatched unwavering xantares years",
-      "ts": 1791577715.6319196
-    },
-    {
-      "t": "50 afterburner boost crashing faster founder fuse galactic games into matt players playstation podcast post purpose racer says star trigger walls wars webster",
-      "ts": 1791577719.0708337
-    },
-    {
-      "t": "000 70 bans before day hardware one",
-      "ts": 1791577725.1417675
-    },
-    {
       "t": "15th 2027 announced confirmed decision development has january message mobile online r6m rainbow shooter six staying sunset tactical team that ubisoft until will",
       "ts": 1791591059.8851354
     },
@@ -20960,6 +20848,26 @@
     {
       "t": "13 2 8230 against agreed appeal assessments buy deal duty gaming hmrc ice igaming informa its jumpman million owner post rgd sale sportradar synergy weekly win won",
       "ts": 1791632552.108518
+    },
+    {
+      "t": "6 auto beginning build cybeleek end grand gta has known leak leaker notorious playable post theft threatened threatens",
+      "ts": 1791649485.8329537
+    },
+    {
+      "t": "22 bbl confirm debut mistr old organization signing tuesday turkish will year",
+      "ts": 1791649489.4327037
+    },
+    {
+      "t": "0 2 berth brings claim down emea enters final g2 hope last shanghai three top upper vitality",
+      "ts": 1791649493.0145948
+    },
+    {
+      "t": "agency continues enter exodus free igl pcific qpert",
+      "ts": 1791649496.5327244
+    },
+    {
+      "t": "deafen loud nrg secure top",
+      "ts": 1791649500.1181262
     }
   ]
 }
