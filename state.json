@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VWlBYOE1Fb0pma0NaLTJBNld6M243c2VhZ2tnZ1BabHltLUtldjZ4V0c0WmFvOEZWVVhTbXE3NmtScjl5Y3Y0b05WUi1GLWRwYjRkN0lROG5SOHFjZnduNFV5eWtsUC1XWC1nWG1NOXljQm13bXJGSWRR?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbnVDbHA5b0xxWUJudWlSOG53dXNBOVBoNVhJdWpQWFpsWVVucnZqRGk2a1Uzc2otSFhydnltWW41Z1pjajVQYl9sUmRYWmtZTlhNNzRPQ0RSczMtOFRKVm43Q2lBa09mOWJ3OVJBZl8teFJEN09sSFdPQkZScHF3TmxfY1A3QWw1amtqQ0N0TkI1VWpXNHFBOTg5cnp4ZEpVeHNDa3NNd0VWSko3cmZLQnR30gG3AUFVX3lxTFBxSE1jVVJGaXhTc0tsXzhEMUh2NVp4WHVPYjlBcGtlS3V5TGV1cnZlU1NlNm55czQ3YlZjSl9ueW5YZVFzTXNGa2xZY3FhTnhhSFFqdlN0S2R5N3libnpyZ2hVdTlWSno0SURja1A3UXdfbVlZWHBsUThtaHlSMENGUzF3eml2VGlmdVZuMXBxZERIQndONlpwWjlzNE1sQnU0U29UeEt4aEUzWldRZFZYajZIMFhPZw?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0p6cmNLWHdFTUVmaWVJUXkyU0EwSktsVXh3dFRYU3V4cnk1a2VQRGs2aEIzNENDNExseXd2YXZWd1M2MG05ZkY0YUtuemtFYXNxN2wzWW5lblllUFk1U2dRQi13MXE5cGxJNlg4OTJ0bmxxaVlDQWxkZG5CRXBUZVdvcGpwZzJvZ3dJUWxGMmZqUjRjT0Q0?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEFjR3hOd3ZPaWFEUlJWMDJjZnB6SnhJSWZrT1ZCek8yV2QwQjl1T0wzeGFTRmdDVXNfS193aHRVeTVweU8td2hPR2lJLTJDTmVzRVFmcGNnWkkxbjFVdDBBRmYzNVp6d2E0M0d6Rjd0VENHdkJMeWJVbWU1QnBMczE4dGIzWWo3TUM2LW9hdHJvMHlxc1lrRHFjbmtObWI4ZXdBV2txMy1yVUZnbVhJcm1LY0ZyZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelowVms0eWpocnF5NU4tbzkwMmhFZ1gzbHFkUEdZQ3g2eEdPTjhBZ0J0ZVExakRqSE8zNmFvMG9nY182cDVneXRyRjZfODBIVDNRY0psaVZOalRFY1BTQ3hoNGRjXzZ0MVNVTGlOQ09OTkdBZndrcVJhNzhlSGlrc3pfYW5VOGJBYnh0VmNTT01tbExlRHRkZHZUR2VDeG9FaDlmQng1eno?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX09qaVpIbVFGY2dpWWo5RUYwUnpLaFRwbUMza3piOUpBYVRfVlBZY2JCdDdSOV9rYUp3eTZZSTQ0cHhZcG1GcGs1TF82WEVjOHk3eG10V3hBcTB1blp0eTJ5SnA1Z2pCMEtYX2JJeEg5dTZlY2xhSlFQLTZRVjJ4Y29JY3VxRV9LTHk2b1JvUTV1Nkc4SVFxYWJ2ejR3ekg2VmMtSVFLdWlNMzh4TEdEMXRIQ2tFUnfSAbwBQVVfeXFMUFEzeXFCTWZBcm9sckg0NEM5VURPVTk0a2U5Ujl2eG9jaFJ3bzE4S0o3ejVOSXVtMmMwamVuR1ZTbUNfMmhLTG13VGlTWE01TnZzamNZWHk5UHlQeDcyX0tMTVQ2TkM4NmNhb1FkMDZfMldPdVhIM0tNZ0FDTlZEc25SLUYtOGFpa0xNa2JMLW03MGZha2ZONTJVY214ZVBvV1cyTm8yRkRyQkYxbFREU0xUS2FGR3JDSzlualU?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRllnYkNfTmtMWGRKUjU0b3NYNXlqSXFkVkx0SUx0Z0lnRDc5d3ZGWk5iSElHcGlCUllpR280T2xiMy11Y01hdlMzdl9KOTVrWk0zMXVFNG1McF9JWGV0dHJUdjdoaFpBNVp0bFFRUVc5UENKWGZWMHhpNXAyNC1NY2hoQzM?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLU01d0Y4REZvYThBR284QWE3RGZvZjlQam1yU0JZZkxYU2d3Y1NETVZkM2VCbTExVXFDV0FsT2VzM2k2dEZWRl9WNE5QWFVJdkdSTnVncmlkal8zZXlkVDd6SGt5VGFJc1NJcXk0bk9oUkR5WkpPUzk5cXd3Q3RIb0ZQbE5jMTBLMzFTeExlR2k5VjJxTmU0VTJza3pKOV9vSDZXZXMwbjBabzJFRVQwZGZWQkd2TGJOR2VnaUEwWW45Zw?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMHJydmZRNjd5VWhBMkhWR3ZtaXoxTWhfYWNnWVFQTlpUX1VZMzZHeW85ZFRtZW1TZllOc3Z2bGg1aVVnTnpnUXlmcFVFQ0VJNzJUY2w3V3pWVGh5SFphTElfcUdkQUF2c241bWFfRmx1OWRNUWZQRGNwdzRXMThZR0lfUnlrRlFzMG5DQUVCak1xZTAzQ1I3aHl4cGE2S21leE5NS25Oa0tySDcy?oc=5",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMDJFUzdYdnJrN3E4eGRsVUVaNGdoYjdzS1F4LWN0dGZXaEx0dm1PU3FMdkdiaFhIVF9CVDZVbk91TzlUUWR5VkFBaTZDcmdXOC0tWXlxSklOMXltR19EbzdSVjBoRl93OVpCamYzM3R6a0NkNDZTWFlja3FMTE43bXdIZ0s5aFlDZGhkZVVaSHA4MHQ2djRHR1JNcy12cGVOVmFheXVkUVNXMElhY1JMRlp1RVJhZ3ZobnJnYTd6bE56eTYzbng1eW82TklRNmpGa1lsOXo0clc4eFBoRk1nS2JBT2hWWEE4?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGY1dWxJaU43R0t3dTNLeDkzX04yUEtVYy14VGV3aTVlclNoTlNQcTduLTlMZm5FbWRubFZwQ052V1VmWnljSHlOUkFLajRPZ1RfcU90ZGZnbi14aUJfcW5KaGJpeklQS2FHeVRYNXowcWRFSnNuZl8yS19Ec0RoczNsYkotWE1lSHRqTjNTSTJvaDJOY3dBS1FSUHRRSUx6ZEw3TjB1RWJRZHVPaXgxTlhGY0YzMDA?oc=5",
@@ -7999,17 +7991,17 @@
     "https://esportsinsider.com/2026/10/valorant-champions-shanghai-lower-bracket",
     "https://insider-gaming.com/ps5-jailbreak-makes-ps2-discs-playable-current-gen-console/",
     "https://insider-gaming.com/metro-2039-preorders-october-13-report/",
-    "https://insider-gaming.com/black-flag-resynced-cut-scene-major-story-points-and-expansion/"
+    "https://insider-gaming.com/black-flag-resynced-cut-scene-major-story-points-and-expansion/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-october-11-1218/",
+    "https://www.hotspawn.com/counter-strike/news/esl-pro-league-season-24-grand-final-preview",
+    "https://www.hotspawn.com/dota2/news/blast-slam-8-final-day-predictions-can-parivision-or-spirit-challenge-team-yandex",
+    "https://www.hotspawn.com/counter-strike/news/mouz-reach-esl-pro-league-season-24-grand-final",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGdFOTlXUThveVhVLWhYOHJSaHdJMlNBT0JjUWFfR0t2TGlrYzJNVmt3QlJ2QUdjelMyZm5udzdyZXlPZ3RTeWE5M1huWWJtWVhoRUZla0t3ZWI4R1Z5S0lZOHlxNXpFQ3JXYnZxd1lNQUVoRVZpSW84RWQ3WlVmVktfR0QwUEM0a2s5VTY3aVp1SWZPN0Qw?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UOHQyTHpBUEZDU3Y5YVZWdmxnRVdvMTYwU3dScGFPQkVlcVN6MTh2Q3ZLUEFnS3dqb1ExcjJEc0lpMW5GRzJSWE1UMHpGbW44U1h3ejYwejNKcklHanRUXzNmOHNCdFloV2NlLWtibnJXOXhzNWlv?oc=5",
+    "https://www.talkesport.com/news/vitality-defeats-g2-to-reach-valorant-champions-2026-upper-bracket-finals/",
+    "https://www.talkesport.com/news/valorant/valorant-agent-30-reveal-date-duelist-champions/"
   ],
   "title_hashes": [
-    "1c0c8edbcda7a23d4ba57225a481bb72",
-    "75d9757f4ed484d927da7d6297642a05",
-    "acec87dde6f4915aec18117083c0f252",
-    "69c4667344d20c80ad85ca9b488b194d",
-    "83583a4f03ea786faf98d0556ab62d95",
-    "b68a343d91a7851d60464e8ab5bec1c4",
-    "5f5872941207adbf639d2643162e7d44",
-    "dc933ad7fd0d8370417a8929d979f4b5",
     "7e35d4d55dffbc47edf5863ab408bbc3",
     "57d345b27158687c142cb0883e99507a",
     "ed950c8576c304a52ffdd26816159b3a",
@@ -16001,7 +15993,15 @@
     "ceb41bf152626566f8aaab94b52b59de",
     "2ea76949a0226604efbe4cca34729d45",
     "76f70da3a944a1b9da9dba33b06e6a76",
-    "7cc300478419f11aa13d8adf17594ff8"
+    "7cc300478419f11aa13d8adf17594ff8",
+    "635188b3084153af0e535e1de89d4ed4",
+    "42b9388339e5e2a526ab8a6dfe5b9cde",
+    "2fa7a16686a55d49d54664915dabe166",
+    "cf9d9cb24c9fbe1e18debc631e5fa713",
+    "ccf4767ae4734b6b87c5343f5fac8d44",
+    "989f4bd98e6419298d2a575e75821ff8",
+    "947f7da1f1f233b58368edef6e2c8e6e",
+    "e9136c91a34ce80f8555a913462b47df"
   ],
   "transfers": {
     "pages": {
@@ -20904,6 +20904,26 @@
     {
       "t": "black content could credits cut expansion flag foundation games has have laid linked major more other points post potential resynced reveals scene story that together",
       "ts": 1791675349.0489767
+    },
+    {
+      "t": "24 each end epl esl faced facing final finals fourth grand have instead league lift mouz now numerous other preview pro quite season spirit teams that these times trophy twist two vitality",
+      "ts": 1791675354.23702
+    },
+    {
+      "t": "1 8 blast butt can challenge count day doesn down final first heads last let look new our parivision pgl predictions s9 season slam spirit take team teams three tier trophy wallachia which will yandex",
+      "ts": 1791675357.7485487
+    },
+    {
+      "t": "1 2 24 answers back but close esl final forth grand had latter league losers mouz one opportunities out overcome played pro reach season series spirit their this",
+      "ts": 1791675361.2746966
+    },
+    {
+      "t": "0 2 2026 beating bracket champions closed contest defeats esports finals following g2 going map opening reach scoreline series team tough upper valorant vitality",
+      "ts": 1791675364.8065631
+    },
+    {
+      "t": "17 30 30th agent champions duelist haired has leaks month october point post reveal revealed riot say set shanghai she teased valorant white will",
+      "ts": 1791675368.294526
     }
   ]
 }
