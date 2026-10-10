@@ -1,23 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc1RoVFJiTTIwcEg2Q2t6Y0tld2lFWlNHbEJxQXROa2hGX09zZmhqNERTN3l5cFp2TUZzcmdhYTBCMGZsY3hRU0VKVWFmVm80b0dTTGYta2dtNExDMWdLTnNLTk1NQUR3ekFudmtfVVBIYkFCbmw3ZWJEZUdGRGpnLVFuclI1TS1hYk1jYjFCdw?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ2ltUFJnTnhGQ3lSaE5oeXJaeElIZ0h6MGFxRFZ3dmkzenBQODRfT1NBZ0hkN3FnVGFteG9nbXMzQmZlRGkzV2lsWGtlOVNsY2RPQWU5NGd3ZXpZSlM1NTFpOWczejhkbVQzNVdlRkN0dVctMWlGWV9nMnUwM2N5QS1xZzZTMHRlRWhaVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE44aDZmX01CQnZmS0lFZnlpdFZlMWlGbld1NnBUemRVNFJ4LUstVjJOc2tTWHFKLVAtQllGMWozOUJWdDIwaEdEN3NzYXZwOWxxS3JQTloxcXhMQjRRcGh4N2MxeFFLQmhwYUp3?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwNzZGcmItd3dQcjQ1UWxaajVHbG4zYnpFaEZrWlpEMU5wc2xfbnZWaW4wYmRyV0pFc1lPNmRyV1NTdVVlNVFUZW53clR6OTg0TXpVTHVsV3c2RVFSV1pDb2ctaHBlNUVTc1RUZkRSZ2hmbFQtVUlUcXlR?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE1WNUhBR2ZrUWNfWkRSTmxuZklkdm5DejREVmtBNERZYUxJcmZCRkp6WEQ3TF9NNFBQa2prckVNbmN3QXRVN2NaOTdMeHBsY1Riby1IYTZOeVRFV19EQVVNYlYzWUdmQ2ZMSktPeDN6bkpQZw?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRLXBmVFhWd3VZemUtanotcVRlWkhsdVBKUXROSWF3OXUtVWx5dzFDU2dWMTVIbjlPS0lzZnFtNmREYzVOcFJ5YUVydzY2cTV4ZlFraEFqSXJ1c21PNXVoaWhiM2xaZjRXeEE1dWQ0NA?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1R4Rm1jU1AtdDdna1lGSV9QZEkwXzZfUHB3eTdXRVUtaTNUV1pLZmRZOUpwSXU3enlQTHNzZzhvM0lNd252XzFHSWZBVFRCMkM3YjRwMllpaTE3NUd1ZUhfZ2xFMWxPVU5rem9vLWEzajk3ZHNRUXRLR21XVmpTRW03RHB4dkNuN0xOWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hbi0xc2N4TTE2OWY4SEF3dXBkQy11OGwwbUFqd0pYcXdpMHRBamFxRmNaOXFUb25MTmtvSWhudWR2WXU4N0pla3NmaDdISHV3bTNXTFJNcDNmdnpVWE5LN0RwSmhqdEIybjA4dnJHUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWTNSTGJNQjFmeXJJQ1l1ZjNPNjYwcmdQenZUY1k3a2VSNEd6Q3ktd3YzNTNfSnNmRjRwSF9ENHU1WXd3SzBEOWxsUUhBVVRvNGhvdzZjZXdFaWZEUm1sRmd0MC1BcWdKZFlNX3BZWHBvSC1xdDhuRVBwTUw2dUJiVVR3?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWnQyQlVUdlFtb3RIcFByeU9RX1dHRWgyVUdiUUxYc2lmNjlnZWluZk43dFJHZlFVWlpfdHVDb25hRHZYdDBoTWZ1UjY2NUxKTE5paVdYNnc0Vzl5ZWM5MkxLOXowbERUQkpDdGdUNjloa2phLWpIckxIOVpJR0E?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNeUF5eG5Zcm9OQU1OcUt0dWhQQlBpQldIVUhiSVhpSFhHWVFudHFHT0FUVTBGZ1NQZ1V5ZVUtTk5yZnNkbkczZndFeUVmZnBVRGlpMUNfWjMyaFgxTVNoSld3cGtiSGdnM2F6UzJNZHB6UE10bmVxTEluNUI?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxeXNoZllSRHpHYl9wdTI2SE9ibGFadjkzVFNUZ1NUSHE4WmZsZWFYZkFCMlpWUTJYb2lDZ0RPY3p6WVdyUWxvYkdyc1YyLWFBMmNFOGktMS1LVTNzeVVmWXVPMUx6eFNRTmZHSGw4cV93Y0p5TXoxZzZDNjktQ3c?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3prZGNDWUNQekxqYXlPYmE0WGo4MGliY3ZQRjhQZFBqc2FXTnlpN1YyZTdqY2cwckh2R21teVlhSnAxTUNHd21Dd19mMkt0cU1mUkVYaFFEOHc4bTBqWmFGMXRhMUpQMEJnVFktN29kVTQ4ZDJvakp6V250S281TzdVeDVtUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE82MVVXN0I0cVRIeGhzNXRTSXVvUjM5SHNudkJpS2NpZjFoT05nZ242T0hCbGxja2RwN0NKZncySHJKc09GNXJPcVdxaWxQaURFdlExR0dNZDlvdUpEXzJSaHNKMWZ2S2ZtYlRzVmM5NTA1TG1jS2lFcTFmSUx6NWM?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeFVGMl9TT2NWREJLakRWc1hjdE95aDlHamNQc3hsMGFxemIyN1djclB4THpOMjhEY0VrdEJERnVUNExIdjRja3hZUUk5WW51b2lZWkdKWExsSy1MVVNiVWRoMkF6cFdfV0xxVDIzSWxvZkZyVTNBWmJQbjFtTmYwUlhRUk04Qkc1cFhrVA?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5dVY0M29HaGZOekRsVnhwX0RtWFMxS3dQNWRkWG1RdW5XZ1pqUXNVSnh0ZTVMa1FSY21JVVZpTlhCaXBFUEJUMmppdUxKODZBZWcwbFl6eWV5Y2l4dF83TFhtUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pX09pU0R0YTE5UElpejA4VVNlei1NN3Bxb1hzVFNlM3hmbEszQnNRMjRZUEFEaktjTzV3THpjWFhkZmVpU2ZLeU1mUUJsVDFaMk9KWDNaZDZmTl9USG9uOVRnZ0xJWmlQLTB2dE9iQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LY2hDRmpQYWNoRGdQQ0R5Nm1SQl9JeC14RHVQb1YtZ1NxaUowNmdNT3hxZUxSNkZwRE03T3g1SmwyRTFZREFXYS1ZUjQ5VVN6NzBQQWN2NHRYR1dHZEZ3dFJ6LXlkaUdidmhVM25QTUE?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOHAzUUpFRVY3eWRQazQ0WHpKcmRBS2ZCN29HQWZYZVFPaVI1Y0hsZEtHT0FRX3JXdTAxU2thaTQyUm9ELTFOMlZnZW4tYUJ1T3pwZHZRb2lSNHVQcDJ4TkRQTWdlMlZTQmFKZVlZYVRtczBITWRMRFB5M2xVYnoxTWZJYVlWT3RuM3BLUlRiVkxSRVppampvZw?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ05KRmprVzNtNjdRc3VlV0o2Nnk0V0dlQWMwVHR0QmZkRWp6cmtpTER5dUZMX2h1d2l0bmVaT0ZKMXhEQVJXSlg3RHFvVklWejdBRndoc2FaZUhRemZPaGd6ak56c3VNRGRmc3FSaXhyZnNkRUdYNVdWOXNTQU1RTFdOXzhVUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xUUtDRXV6MVpHVVBBdHBEZzYtc1BjcmFYU09XakcwdU5rNk1iZk96ZmxzWTYtc3dtOU5OM2VrczI5RDNqMmFHRzZpT2hDakRZRWY1VkxLNFlkN1VhMFloSTdaQXBOTERkYjJtT09XV2pWR1FLWXppV21R?oc=5",
@@ -7999,27 +7981,27 @@
     "https://www.hltv.org/news/45690/bbl-confirm-mistr-signing",
     "https://www.vlr.gg/771243/vitality-brings-down-g2-2-0-to-claim-upper-final-berth",
     "https://www.vlr.gg/770954/pcific-igl-qpert-to-enter-free-agency",
-    "https://www.vlr.gg/770452/loud-deafen-nrg-secure-top-three-spot-at-champs"
+    "https://www.vlr.gg/770452/loud-deafen-nrg-secure-top-three-spot-at-champs",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQck9RaFNlc3RpVUI2TWtYMlZ0LWJaT24zYTd5MXAwaFh3WjBEY3Bta1FobWJWbUVTb1lEMVNZS0lfSnRBblhNYXlvU2xfOFFpTEIzX3FxTm1JZlY2aEJBYWNxUDNJb0UzWGR6bUFBSmZXUnlOaGV4SXF2RFdYMEVfcWpR?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE56T3ZnWVZYOGlfTUdCUTFEaFJQVHVfQWJ6UlplZ3dtM184VjVOOXFjeG94S2ZCVlNwb3JCdE5iM1gzZ3NLemdHTmFxSVhVT2lPQUpDakgwemxGellQQjF0b29IT2dQSjkzQUM2NjNuOHdCQ0ItYU1wLQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX0ZlR18wcEdTNVAtdFhGTmFBUkpubnFabk1hYWtNOE9hV3F3dnpWeUJuSTJSU3NKUEVFNDcxejI5WG9Dd1FRcU5kUkQzVUtXdEp0alVaV2EtQU5EWlUtN3U1TmZJTXA2dGROazktMm5CTjJiaDg5UVVTNlRPdnNpaS1LWFlIM1JsclhSbFdxcWg4aHZoVVppWTdqRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMjEzZHJyVi1tNVhNdHlGd0NGRlZxd194eXNkOC1NRlFUdnNBVU1UQ00zVnZET2hXbDJkU0tuaUYzVFdSU212Ri02c01DV2lqRm1hc2Z6dVU0RlhDZU13Y3NGT18zS2pxejJqd04ycGtJSlJ5bWhUQmM0anlxU25YNkNwUkkzLTZvVVE?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNm12TG5sYWMtQ1o3MmJFbHNJU0VDVUpzWHp0SkVWX2FqdE5rMHVfMHdaVjJxLTFieVdlWHdVbE1WUlRNQWVEMXZCdUQ3SzAyOFdaZ0trR3N3VFZYd2Joa2RLcXpNay14SG16a1R2V2NyYXd3cUJMclRWbmRySkV6R1BkMA?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGdZYnVGZjk0NXBCa1NCZlM0Skh3ajVFSHQtWnRuYk1UYy1pRlVaRkZMckxIVjA5QlYxQkxOYWtMOGVtdU1XUllUb3JkdFhTbzYzSzBjc0RFUjhEM1VEUVdYdzROY05sa25BS1ppR3VsT1YxazJWUnpQblhLY0FBM2FZRHpUZjFYMEItd0gxNHU5R0pDR1E?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWE9JcFhkcTQwVGhEajExcmF5N1ZSYnVaejFhdjQ3a1h6V1AwMnp6YzlHOC0zT1oyQzJRWEpCTklHNERLejZtQVp4NEpEVzU4QWJxeUQ2bGhkblk4YjlRWTI0OWYwanRtbTE5YXliVXMxajgzbXZhRWVQeTE4R04wVnNJbk5LMzNrMUlpQkRGdUF2ekY1T2tpQkN3aW0xQlhjRUZmMFUyUS1jdlVRSUxHYQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcXVBdklGUmYtU2VJcDc2d1Ytd2tSNFcybERtd1FzZVJ6ckdjWTR6d3pVTC1YYmhPWmg4WV9BdWU3NWZkT2ZweDRTQlk4UldzSUVUbzRsTFBiVU13MGRJZ0h3Szd3UHVlTTZzSTJ3?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzd4VTl4Q3lfOTB0elQ2Z1J4akR4d2VkVmNWbmsyWUh6ZmlWS0hFcFdEZHJQaEdvS0IxeC0yMERCeUh5b1R3WFVIOXdvcE9hV3JYTHBiWEtTRElfdmh4LVo3V0I3MUhJNjFJQUswMjBLejhoT29xQnR0RjRmVzJnbUVaQnRDSVlzSjRjeGhyMEZuUXM?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LZmVkenlCX1ZEYjlwUTBqSFRhbFVHNHp0VE1SN0lBRUlBeFEtQmhRbHZBS0RZTGdvbk5waEZiSVo1ak4yRFF6dmp3OVhSYzhFX01HY0lxT0c0QVlXYWxXVFlYUUp6aVlQdkRpc3VreDEwUktCakg4?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2ZYaXhfQW1pNkFhUF9HQTlkTnlTQnRqbmNiWW43NGVSQnM4bzRXblpIaFdhaERLbC1iZ1JxWmZtcmRub2FUekEyR3g2cGhBVE9hNnlrUjdtNzQzZGRfMERmU0trRW91cmhqSnF3ZTI1azRLWlc1Q0pFUDhoa1Ayb2k5Tm9CUTNVbm9HVFk2bWtGNXBrZldr?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lU2NkdGEwcjEzZjBvUWZGcnVpQVZ5NklWWVVnMl9ZTFVRQ0J3d0dDSE9CdUJCaWxhLWo4Y0lHMENLbVRibGVNdW4yV3hPU3E0WTNMUjdxWVhoQ1lsMndOb3FUbEMzeHA0UXc?oc=5",
+    "https://www.talkesport.com/guides/how-to-play-deadlock-on-steam/",
+    "https://www.talkesport.com/guides/how-to-play-black-ops-1-zombies-in-browser/",
+    "https://www.talkesport.com/guides/free-games-october-2026-epic-steam-prime-luna/",
+    "https://www.talkesport.com/guides/how-to-get-free-thor-skin-marvel-rivals-season-10-5/",
+    "https://www.nerfplz.com/2026/10/lol-jungle-mistakes-habits-that-lose.html",
+    "https://www.nerfplz.com/2026/10/red-post-roundup-9-why-sylas-and-varus.html"
   ],
   "title_hashes": [
-    "0044170188e75cf359ec853d415430ed",
-    "5e46bd253be5629980cc76e5cd26525c",
-    "453e4eab0e85924d9c2d44b1a7cb2ed7",
-    "01299150042bc5b2fc53c1a320c37f51",
-    "7cd247bc918328430779ffecd77e5975",
-    "a639109078ccd1079c9fbbdb8a2e5760",
-    "014d3a76fd29f3189d47632c3c9d7ca6",
-    "6f949c09a162be0b0aa44d1cc48e9a44",
-    "c411650b1932712c104aa35b60697a3f",
-    "45ded78ec1126922f851cec91897f448",
-    "02143952e62c477fc60ef122be3af97e",
-    "47c6b313eced66edeaf8f0f9fb5f036c",
-    "770b5c93483458e043732773685133a6",
-    "014deedb6be6309c1b1ab3246a2a1c73",
-    "bb2635f98c48736c2c39c06abc7837cf",
-    "dd95a779409ecb5a1ffef72902b908f2",
-    "33a3bcc9f5b3d6e03f34b6cc0aa6e4f7",
-    "c86746dbb295027773265e589b93f12b",
     "45014418efb0ebf4babe107e70121f92",
     "dec2b6735a5d546fd919ae653769c52d",
     "b603de18463e58a2494038f49d4844e7",
@@ -16001,7 +15983,25 @@
     "b620eb6ef1af2239fbfc6b70b637e5ec",
     "eecdabe52e6c3c3aa1d68bee6a890c7d",
     "f67e9f76d3498a09911fc29141ef49ac",
-    "64542bcb84a56b22d92d332af40ef6af"
+    "64542bcb84a56b22d92d332af40ef6af",
+    "06191923d70e3abf36eb183c9416c155",
+    "6ef5e2499f74a32714fc20f97acee9fe",
+    "19f2f9c8b1ec0daa4a604a677dc01839",
+    "06c3e12b8ef2de4fd72859295745cf74",
+    "2fcbc16f50173f020800bba27d8d778f",
+    "068dea7fd06b8beeb9743312dafb452f",
+    "0a2c03932eef0ac355cc1cef15459165",
+    "bb2635f98c48736c2c39c06abc7837cf",
+    "b4b593ce89893bca773f419f0989d766",
+    "45014418efb0ebf4babe107e70121f92",
+    "b603de18463e58a2494038f49d4844e7",
+    "1dc00eee7363bf8a0ee49e293ce5864a",
+    "c6297ab926b06983588854c8464d167f",
+    "f99fd9514367f52e41cbafda3e1a2039",
+    "b585db2f408e395e6b801320801cc6a2",
+    "4a82ce80a6a90f59bffb8e1c8e39d09a",
+    "387da42e214d2ea42e41660b1897a0cd",
+    "808e0ae027f8a212a268294b1f1f84ac"
   ],
   "transfers": {
     "pages": {
@@ -20868,6 +20868,26 @@
     {
       "t": "deafen loud nrg secure top",
       "ts": 1791649500.1181262
+    },
+    {
+      "t": "epl falcons fragster nbsp reach s24 semifinal spirit sweep",
+      "ts": 1791649505.3260314
+    },
+    {
+      "t": "1 10 acceleration activ all black browser desktop download fan free hardware how keyboard maps mouse need nothing ops play project runs solo switched you your zombies",
+      "ts": 1791649508.952678
+    },
+    {
+      "t": "2026 all amazon can claim each ends epic every free game games handing here ist keep luna next october offer one out post prime steam this unlocks what when you",
+      "ts": 1791649512.5291789
+    },
+    {
+      "t": "counting decided draft first game games habit habits help how jungle junglers kills lane lol lose mistakes ninety one rather screaming seconds than that they usually visit wer worst you your",
+      "ts": 1791649516.183066
+    },
+    {
+      "t": "20 26 9 ashe before champion crit explained got lillia longer nerfs out patch post pulled red rest riot roundup shipped sleeps smolder sylas varus why worlds",
+      "ts": 1791649519.7901886
     }
   ]
 }
