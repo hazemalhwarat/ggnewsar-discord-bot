@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVU1EY3BXRzBJYThJQk8xVXVBYVdFbjBnMEV0OTVHUTU1aHdOVnplU2pMb1dBd01RWk5QR3RvTTR2MC1VclRrb2UxQ2RUR05qV0JEa3QxZ1pxQzFqeEdSUXA0Zzd4QktDazJ4OXhILXRaWDgxdkZvazJ2QnN1dy1ISS1SWmxGSXRkVHFoR18xbWtXTlBGUWpucFdtbmZMb2g4eWfSAacBQVVfeXFMTmxIRXctc3R5VmtISkxIU3lXMEVRbUFRVHYyMHJwcmVfTHN3MTJnTk0yRzFJTTBTSmNEbmZaR3EwMEs3bUVaNnFxeE1ybkxnVWFuUjNpcVpNb29mMllMZ0p5Rk1TbFZES3Y0b3hjUlNFYzYzRHlPekd4cFpWZTRDZWVZTG5Id2NfaTEzS19pWVhUOFB3dDlHWGFsTzhmNWkzeFhwckJ2ZXM?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXp2czkwSXNSQ1UzYUtFX1JVaWczeGVsbUJFSnFOeXZpbEVCNUpFMk93aU5veU9uVVowdC1WVzFLTGVWQkZfaXlWSGkydXl3VEx2LVVsempmTFRHQk9WVUFyZFVQcHRQWjV5aUUzUV91dTltVjhwY3BVbFgxRXFWYUtERlhPUzdFMWhlYm1BN2QtcFpVTS1NY0FjazFQNWQ4NTNtOE4tRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MVi1XSUhsWjEyRmgwcFJmMG1BakJBLWFWeV9fVzh3TmgxRlNRYnhEVUo1bXA1NUJxU1lISm1WZ0ZHMTRlNVl0dzRzRWN4TzRPWU9feVdYVUlZZXVEaS1yVnEzQ1FBZkhTaUpGaHMtU2steU9EbEE?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3dLWjJ2Q2JFczI2MnhPWWtKTFI0ZDJyRmZNUHJmSWpfdWZaYkpscnZBR3ZWYllLSXdGdmpPZWo4V0piVVpaSFJsQWRqdzBpa0VubXBIcTBtN3ZXNzA3RDNqUE1mYU90LWRXczN1cEpUTVEtOEFmaS1RRUdKQjJOWFlkMGwtbm53cHhwYVN3dHExNjE0S1hsWEs5RXRBTmVkb2RWcjNRTUpUQ3Jy0gGyAUFVX3lxTE1WemlSbm1jbFl5ZHptN3YwN3NWMGZ3WmdBOVNwMmlWbUZ0dGxIbDBIcVJvRW1QS05iV2J4LTdnTnp2Mkt6S0MtVFlxMWF1V1U2TlNmTjg3cHFZdkVHLVdEZUFVZTlubk9zOFJYY0NhUzcxYzk5R3h0WjVrSTYyYVZDUjFBLUQ1U2ZwemdYYS1iaXRoRzBuTGVTNEtFMXdhOC1JWENnY0lEN2FKbldnbmdrT3c?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRGM2MFVEYkxSMWxjcXctMFpvYjNwT2xRT3ZUNTdaZHBSbXpSR3lfMWI0VF9XblJNdnNxUEdhYVc5TktHWlUwQTdvVUVUTk9CdnMyekZKV0h1UUZ4U2k4SFhRU2JqWGdrUU5vS25MSXZXeXotbk5kN3dnY2xOU3otSDNObFc2em05WXBBejln?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVlU3VFppWkZBSDNyWXB0ZkNXam9QS3ItTms2eWtpRTlEVTlwRGw1RHIwOTZsUEJTOW9qQ1lob1RxZlBFMlJFQ21MY1VMRHVxRnZwUUVaejlzTFA1YnZjVVlmZ0RyQ2Myd3k5aEtpY0RRajRiRFJzbWQwQThlUHNvbjMwLUlKM0NkdW1iNE9ESXpvdktlTkVfeGZaNHNneE1uaHVlQ2RvdFVINUFtMUJtUndmLUdqRjM3cFE?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdDRBeW80eXdfOGwyeGJaeHk2bmxLd3NYblktNE5SVWQwRVlHX1NEMnRiVG1rWWExYkJTM0NsODNiaXRYRllvV2dSVzVsX3Fmd3pVSm9ydUVPYmhSX01Ra0tzVE0xR250NVJKQ0RJYmdEYkpfOUJrZy11YVlqQ2s4b1VJVl9IOGFvR2c0WXl3?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEx0dnRLNE1ydEFXRmN0V25wRFpxRHdpbGUtOTg1T2FVWTlJWE1QdXlKR2hkTE91aGdlNmQ5S3lReDhTYUJpLUdTWDZacWctdUZjampibTV3SFFqU1JoZFZGVTdfOXBrYUl6TlNUakNWYUo2T3hidUdVdlpOZE45MVlacjdlcmZxN3VWMXRLdUNPdVg5YzBCQmNHMXVfZVlUc3luNg?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/45696/esl-pro-league-s24-grand-final-as-it-happened",
     "https://www.hltv.org/news/45701/zywoo-claims-34th-career-mvp-at-esl-pro-league-s24",
     "https://www.hltv.org/news/45700/zywoo-shines-as-vitality-win-esl-pro-league-season-24-over-mouz",
-    "https://www.vlr.gg/772153/g2-enters-the-top-four-with-2-1-victory-over-t1"
+    "https://www.vlr.gg/772153/g2-enters-the-top-four-with-2-1-victory-over-t1",
+    "https://www.nerfplz.com/2026/10/lol-bot-lane-guide-positioning-spikes.html",
+    "https://insider-gaming.com/marvel-tokon-year-1-dlc-roster/",
+    "https://www.hotspawn.com/valorant/news/pal-interview-valorant-champions-shanghai",
+    "https://www.hotspawn.com/valorant/news/nrg-eliminated-valorant-champions-shanghai",
+    "https://www.hotspawn.com/counter-strike/news/vitality-win-esl-pro-league-season-24"
   ],
   "title_hashes": [
-    "92cbc26e4bb6ade38cc733707425ead8",
-    "e434b467f3bfb410d14f06f06f217106",
-    "57edb000836a90c656f747cfe2ed37fe",
-    "d7612c0e5878106b890d5924ef595b01",
-    "bf28cc542dfaf933752cc88f2de6b80f",
     "d1d9510f296cef3606c9bb10b5fed586",
     "b2ef1a29224083d630f2ef448aaf8a34",
     "7b512f5c0fb5956e3825825086cca53e",
@@ -16001,7 +15996,12 @@
     "205b8a5aa9ec1709013b339753e233b4",
     "be28d27129e7143d6807073b6d16fef9",
     "a3f547d6d57e646d0fca45a24253223b",
-    "96b74f2cf37c4ecee60ef126c05ce4ef"
+    "96b74f2cf37c4ecee60ef126c05ce4ef",
+    "fae4cd9bc678de187dcefd44e7b23b24",
+    "fa49f68ffbbbdbcda96c962c53ee7bc9",
+    "4560370d7b9bcb3becb0dfaef53442cf",
+    "c59a0a8ac855fdb1759693c74e741cdb",
+    "62a441f8080bf6d30af346376c47417c"
   ],
   "transfers": {
     "pages": {
@@ -20844,6 +20844,26 @@
     {
       "t": "2 enters four g2 top",
       "ts": 1791747351.2077677
+    },
+    {
+      "t": "about actually after bot covers die during fight guide itself lane level lol marksmen means nobody positioning rarely rush seconds something spikes tells ten they this trading two what why win you",
+      "ts": 1791747356.2941716
+    },
+    {
+      "t": "1 appea cyclops dates dlc foster full its jane jubilee marvel phoenix post release reveals roster seasonal see thor tōkon venom windows year",
+      "ts": 1791747359.8642168
+    },
+    {
+      "t": "after against can champions clean continued esports explain finish g2 granting group how making much pal relief securing shanghai stage streak sweep team their them three top valorant vit vitality win winning would",
+      "ts": 1791747363.3422556
+    },
+    {
+      "t": "100 2 8217 americas back beat champions eliminated ended fallen finally hands have holders hopes nrg reigning rivals shanghai stage them thieves titles valorant winners",
+      "ts": 1791747366.800096
+    },
+    {
+      "t": "2025 8217 another bane become don esl ever existence first four have just league mouz number prevented pro really smash them they throughout time trophy vitality winners winning yet",
+      "ts": 1791747370.2997432
     }
   ]
 }
