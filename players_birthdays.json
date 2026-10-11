@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T12:59:37.889702+03:00",
-  "count": 650,
+  "generated_at": "2026-10-11T13:19:02.148469+03:00",
+  "count": 651,
   "players": [
     {
       "name": "Ninjas",
@@ -4691,6 +4691,16 @@
       "month": 9,
       "day": 8,
       "url": "https://liquipedia.net/mobilelegends/Yui"
+    },
+    {
+      "name": "AIZEN",
+      "wiki": "mobilelegends",
+      "game": "Mobile Legends",
+      "country": "الأردن",
+      "year": 2005,
+      "month": 6,
+      "day": 15,
+      "url": "https://liquipedia.net/mobilelegends/AIZEN"
     },
     {
       "name": "Do Re Mi",
