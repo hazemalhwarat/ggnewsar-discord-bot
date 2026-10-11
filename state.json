@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tOHFYdjg4VkdNbENYaGpyQ05NZUM5YV9LdlV5Q0NQNFlSdElTUWFrMGxTVnRGRTVRZUZxT255YkZORlRqS3duWV9EbDEtUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NOXlQY2phR1Brak82Wkg5MmJNc252Nmw3dC1NTThGSEtMdnViN0tnMVRncE5mUWdMcE83SDVNU0d5b3ZFemxPT0MxaHc?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RWUpOa01hT0xHeFh3UHByXzVWOTBKOGUzd1NySzV2X2FXOUV0LW81dV9sNEJqTkpReHJ2NUFSZWJHQzFRNjhXdzM2UGtHRDF3alc4?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xcVZ4NC1iZnBtQXBOc1RiZV9VR0FrSkpPcUhhV1FGMFYzdGpNVnNXX1V1dWhDUzdxODNzcHY2Y3dmSjNYVUFqRWxmcWs?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03WFFUTDNwWHAzU0xBNl9EOTJfZnZ1WFNfNVpUSHlDOGotM2FyU2JfaE9zaUt6VFRyeHh3YWstTzBfZjZJelpsR2x4QjhiTmM1TDNj?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSUmR6bXFyVkQ2RGlaZ2U3TUYwNHNZTVZraHBjT0wxYmxnb09ERWFVUlVaYnpTMnFGRXp2eEhLM3Foc0pFOGhhUXBrZnhnNE50MjVn?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92NDFRc0cyTk5LblFlVU1lc1JIV2tSTWU0N1N0UHhFamVNcHhvUXFEajdrMWprUGt0M1RmR0s5UHlsOGdTU1BKX0FvVU8?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6cGFydXNqLVFRN0dUMHl5Q1gySzBQTlNXek0zbFdoRFc3YXV4UDN4MkFmTWd4U25KdmdSR2NxeWRnWmVYaFZQaWNEdmdqdENQY0dF?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27010/us-console-market-called-worst-since-1980s-xbox-pushes-ahead",
     "https://www.invenglobal.com/articles/27009/original-creators-new-manga-naruto-shadow-rising-announced-project-rasengan-unveiled",
     "https://www.hltv.org/news/45694/sycrone-sometimes-tactically-you-can-get-somewhere-with-a-good-look-and-a-round-doesnt-convert-but-xertion-always-kept-composure",
-    "https://insider-gaming.com/starfield-biggest-issue-fixed-by-mod/"
+    "https://insider-gaming.com/starfield-biggest-issue-fixed-by-mod/",
+    "https://thegamehaus.com/college-football/5-things-learned-from-college-football-week-6/2026/10/10/",
+    "https://thegamehaus.com/nfl-draft/nfl-draft-prospects-to-watch-in-college-football-week-6-recap/2026/10/10/",
+    "https://thegamehaus.com/mlb/NLCS-Series-Preview-2026/2026/10/10/",
+    "https://esports-news.co.uk/2026/10/11/loud-edge-nrg-2-1-at-vct-champions-2026-to-set-up-team-vitality-rematch/",
+    "https://traxion.gg/pixaracer-will-let-you-drive-real-rc-cars-from-a-sim-rig-at-simracing-expo-frankfurt/"
   ],
   "title_hashes": [
-    "30df53aa0b597792af4714603402f42d",
-    "3910b9308bbb898efb07726a1f222737",
-    "35237747547d08644012b1e51b54c973",
-    "047b29353945307bd6059ae7aede0f2f",
-    "df3cc98a10698ee7618080435fd9b153",
     "0444ea4bb0578ed73e0d53a2363d0ea2",
     "6fc5d2eded524125e253313a72a07964",
     "164997b2e20fd05984e69770186b2c45",
@@ -16001,7 +15996,12 @@
     "98e24e00c7ba3f1e91fc64f9924bc32b",
     "747bf272475fd2058e39bd51afb72006",
     "d97017604c214c4ab652ba854a21bbea",
-    "da91b5fe808933ac875b4a3b2b333cc4"
+    "da91b5fe808933ac875b4a3b2b333cc4",
+    "ff637d3fd78e11c3a95d0af621fd3948",
+    "338c293e1e55bfa6a1e0252c9c7aae6f",
+    "437fb29a4c35e34da03314d148d85e13",
+    "cc04bb9a5dda58ea497d2fb20128591a",
+    "ceb764e60cda90ed555b47261e83b2e9"
   ],
   "transfers": {
     "pages": {
@@ -20908,6 +20908,26 @@
     {
       "t": "8217 about always around been biggest but eradicating fixed good has incredible issue issues mod most notion one pertinent post starfield stunning that transitions",
       "ts": 1791708508.1420999
+    },
+    {
+      "t": "5 6 after away books can college every fans field football happened here learned related take things week what",
+      "ts": 1791708513.4304082
+    },
+    {
+      "t": "2027 6 college different distance draft drafted each early far field football matchups nfl now off players presents prospects recap still this unique watch week while who will",
+      "ts": 1791708517.0258737
+    },
+    {
+      "t": "2026 angeles between brewers dodgers game los matchup milwaukee nlcs preview row second series seven split starts sunday two will year",
+      "ts": 1791708520.755892
+    },
+    {
+      "t": "1 12th 2 2026 51st beat bracket brazilian champions continue dropping edge final his into keiko loud lower nrg ranked rated reading rematch semi set side team teammates upper vct vitality",
+      "ts": 1791708524.3629353
+    },
+    {
+      "t": "16th 18th 2026 cars demonstrating drive exhibiting expo first frankfurt its let merges next october pixaracer racing real rig showcased sim simracing technology that unique week will you zandv",
+      "ts": 1791708527.9771228
     }
   ]
 }
