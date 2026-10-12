@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BWjBqTURodTVLclFCc05wYVltWGhFYUNEUkU2aEhIQnZBdDdGWTNwUEw0TEk4MVJWSmFCZEd1dGpOTFV0d1RpUEFlX291VDhnTkl1VVVkY0U4enh3bXpnbmo3djRiRHh2dDlWd1ZzS044SDdKQk1kOUIwNA?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vTWtEMHBydmdYeC1RdC1qUDNDYWN2RTBUXzlTTzhLc2Z1MmtWeHNqdEo4X0R1NlpyX1Z0T2VqU0JtajNnb0xtT0VxRjgtRi1TZGR5SVJzZDZiNHlzMFZhOHFLUGNzUVVFR3hpZk05OVo5aVozY2d1OGVGSUJqN0U?oc=5",
-    "https://www.nerfplz.com/2026/09/what-happened-to-leashing-how-leagues.html",
-    "https://www.talkesport.com/news/bgmi-redeem-codes-today-september-19-meadows-backpack/",
     "https://www.talkesport.com/news/valorant/how-to-change-display-name-in-valorant/",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRVIxWDVHdkZzRkI3cXZxcThjT2RMbGdQMlNBRUZneEhTaUhOSUZySGUtTWlxQkhvWUZyTzRQcFVFWUNZdEtwUW1mR0xZMUcxaHhKUV9qVVpiaWVyVXZpQWxnazhNSFhiczRJMk0tc09jVkR3a0xvbGpFMEZOcWxDR09YYUc5d3M?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOMUh3d3Z1bjdpeWJRQ0VtLTM1WFp4VzBHZVVxU1V4LXlhcjdOQ3FhYTZHbUo0cV9mbHl6empJSU5LOXNaRVF1ejlqSzd1V1dMbGVWUmF2U2lOZndEbThEV1hRbnFtTXR4MFJ5M3RvdmtmRXNlRWhBeDNNNjRJMlNtWXNTbE5sQ3g2bjV3QW96NWRKVTVCaWRDODByZVA2Zw?oc=5",
@@ -7999,13 +7995,13 @@
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0U5bkExN3dBdU9fMjc0V3BuQllUdzBicXNISG41cENycHhROXNtYmtoOExWZHFVc3JPRmFMdVFkWm41QVpjMTlkMmxDMzVwM2VYMlRhckItVEJ5Vkg5RDdBMGxKZ2dEYklKU0hmWnpneWlmTEo1ZjFPSkxhbU1aM0hOWkZ2aXE3Y1ZTRkpB?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWxEZ296bzJzNnN0VGVRYjR1R2NiUU9iS0dTVGVVNjRjbWdVLWZDelRidjhHVU5ObUJvT0dseDVoLUR1ZnJiU1RFdjB1ZW5qcVZfQTEwQkc3R1JSaE5kUzhudldvd28tZTNWZEdSUXhJaGRBeUM2ZUJUSHV4ZzBLb1lrRkpNQmthSU1xNE5QVnd6UDlKam5FN1pWZUZPNDQ?oc=5",
     "https://pley.gg/cs2/m0nesy-extends-contract-with-falcons-until-2030/",
-    "https://pley.gg/valorant/agent-31-leaks/"
+    "https://pley.gg/valorant/agent-31-leaks/",
+    "https://pley.gg/valorant/valorant-champions-mvp-every-winner-of-the-award/",
+    "https://pley.gg/valorant/every-valorant-champions-winner-the-full-list-of-world-champions-by-year/",
+    "https://pley.gg/cs2/faze-end-two-and-a-half-year-trophy-drought-at-roman-imperium-cup-ix/",
+    "https://pley.gg/valorant/100-thieves-knock-reigning-world-champions-nrg-out-of-valorant-champions/"
   ],
   "title_hashes": [
-    "fb496a153dce0a3fba2ac5dcd3ea2b76",
-    "322c784721e2f7d88f3a54bd2ae4f7a2",
-    "553d93c61498db2cde47a5a2c699d413",
-    "1530ab6fecb6f2e5d41a7d1e132dcb01",
     "c8fb5423d9f7a5df013fb864914798b4",
     "cd75da28a7353c56c97c295f255f8781",
     "9124faacc6d715fde38ad9e930ab2dad",
@@ -16001,7 +15997,11 @@
     "e31289f72283bdfdc2b5781014f071ee",
     "c88ca8cf9628a3cdfa01e1eeb8c482fe",
     "8d0494abb82882219664db0f6b69551c",
-    "e973b90088fa51c28853a02b7c67c539"
+    "e973b90088fa51c28853a02b7c67c539",
+    "cdceeba9359acb6f4cdeb38c8c32a702",
+    "620217c22076f4e0e3ea98b6c95f3ff7",
+    "d833f18eb91ff52a28d98d172e7ba034",
+    "3c7ec1dd9d83cb17e390813df6ff7f24"
   ],
   "transfers": {
     "pages": {
@@ -21136,6 +21136,22 @@
     {
       "t": "31 ability agent copying leaks lore new props revealed summit valorant",
       "ts": 1791833067.316535
+    },
+    {
+      "t": "champions mvp valorant",
+      "ts": 1791833072.2247767
+    },
+    {
+      "t": "champions every valorant winner",
+      "ts": 1791833075.6642392
+    },
+    {
+      "t": "13 2 2024 april beat both cup drought end faze final first grand half imperium junior lift lineup maps navi organization portugal rebuilt roman since trophy two year",
+      "ts": 1791833079.218696
+    },
+    {
+      "t": "100 bracket champions defence ended final friday knock loud lower meet nrg out reigning shanghai thieves title upper valorant vitality while will world",
+      "ts": 1791833082.713333
     }
   ]
 }
