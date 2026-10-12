@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHTFVnN1ZRVkQ2Y3ZDSzZMcTVjbnZoamhlVmtyNG1uOHU5Yzd1TTRDNTd1QVNFclM2UG1VaEN6QUtTVlZ0czZxZUg1WnZ2T19EU0J2aGFQY2xTS2FfbFBoQ1R3QUFoVGNYai11empBbG1sOXM5WG5pWVZEeWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUloU0hvSDhjUkk3SGJWbkYyMUMyRkd0OUVhbFRsOXNvWTdhdzdCNTRlRkxKbElQaVY0SkxFdlJyQktERS1KTWZOUEN4NU9FVnFaRjFHNFZra2EtSUc3MlJtbWhaVWEtdkxmdTdpSXJJaHlMVE5RbVhPZm5BdVpFS2gySHA2a1Aybmt3WkFCemZzemJCMF9wWFU3b2gtNUl1MWlveUMySW5ZX1ZiUnc?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNmRHOGVmNkdJN0NZY0s5VGpqdTNZYmZJaF9lMFg4WW5GVTA4b3oxeHhEdXY1SmdINml2ZzdLUzJTTHZyUmRtZ3h5S0JmNnRpa1pjZmN6bjJSVU9kQklqWmpETy1ERjU2VmhHaHpJYUt4bVhzYVhGU29QMWpBdjJwZ2VNY3JDZ0ZHOV82M0tJdkhrNmlkM0hiN3RsNUFEZHRqel9Ydi1qRFFtMWs?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNmJrQWpsTjJmcTFEbU1vQXVGRTlOU0szZDExVGUyZ1E2dm9kMzk5UnRkLV9fT0Q4TWtHamxtd3laQ3NxM0FzZVYtbkhaeTJLUll2b2E2NFpFcWQycDk0QU9FeEZZY3JjaDc3dVdlYWNDU3Vpa1BrV1Q3STYzWHBjMWI2MzA2TlQ5SzBBUFpHSWtsN1M5bFVlVHNlamNuZ2hWZWJiUS1YSnVaZ0JweUpNYXplazZOZ2VxdU03LWdLeUtKVzVNaXpr?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmt5a3JNRHRtQkRNTXJBSjg2MXdoSHBHVzZhNGg4bEF0OEtXUFNKOXVXNG9sSUNSLUFDU1hNYTh2cThRbWU5RUg5YVRpRnhReFZRSVVQN3dUV1BaWXNCZkVTVEo5aExPVkFaMXpETHkwbHJfU3NVV05mdURQMnJZckRLSnhzeUhIU1BGalRZRXY5dGlZWlFoTlVLUWc1WmxkOEx6OTVWdXQ5bl9WQkllaWozOS1IR2F6RzFr?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZjNrLTZtMkREdktLaWFHNXVqeGYzdy1ldFJvanRQQ01ncnRIQ2xWX0NDbTc5WkI5dlR4R1F1N2pXM3dmVThCdnhEZjZRNE16bVZNLWNiYzN1UnF1eEF1NVdOUTdjcEFNaUNGOW4xMTVoVm1oQlRoT2RqVThJOHF2d0hsYXRTQ285ZHdZa3pCMHNfaVprVVE?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVBvYmh2QWVna0MyajNLNjRRRWdmWEk2aF82Q0REZ0pnckcyZHRYd1p3MEI3OHpaeE1qc0NyWkpZVHNxRDk4WVFvcGs3UU5XUHlvZFZqMjdNMHVrS0FwanRfbHoxa3lxOVc5WUN2NjI2X2g2d1AyU1J4emxIUnBlSThVUXdxcG5ndVF4OG9LS1JUSVROZ3lPR1NaR0l1T3FiYmhzQWczZE1CVlls?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcTkydXBjTFJmbS12Mkl6b2ZkRVVwc1RLdU1VUmE4M0RxMENFSEFVeGlTQU5oTXdOQTVMQnVLUlkwV3VzcE9OMldNeGZIMlQ1S1ZQOVYwUmNrQWREUTJfNWpqRG8tdG9Oa0Q1dEJBQWRlemdYaWJkS04ycjhuaXpvek5ENjRvcGY2SjJGN2dENEZNTnBQRWZPN3RB?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0V2M0kxVGszeXBEQjZpUTRRM1VnckdBRXVJdXduZEl1elBOOXhaOHdSVjVVRDFEZjl3VGJzZFUxQlhsa2E0U1hxci10QzVyaHJVcVgwN1c4Ry1nVEtfdXpUT2xlOFUtWXdrVFlIY25xX2Uwa3Q2emYxQkp3WjlFZEJvdVNybl8xc2xRVFpXbXBBWGNKUWpRMm5zYjJYWXJ6?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWNodGN0SDRObFJrYlpyRFItUnlzR0Q4M3J2ZkszcnZZWkdwZGEyLVFJX1dkdzZmbTlSeHhkZXEzb01LR0kwSzhDbHhfeG02NmFyRkFJM0hTcDdsWnhfM0h3cFB2RW5pU3I3WjJ3OEVGY0VvSmllZXdNRDZjSDBhdnVmZnZRa3JGelhELTlQd1RFS29OekVBTGtqM3Vkd2tNOVltUUVDVTE5UVg1SVNIdmJSaTloSE0?oc=5",
@@ -7999,16 +7992,16 @@
     "https://traxion.gg/rennsport-teases-lmdh-lamborghini-for-next-content-release/",
     "https://traxion.gg/porsche-esports-supercup-2026-title-rivals-collide-in-penultimate-round/",
     "https://insider-gaming.com/nyt-connections-hints-solutions-october-13-1220/",
-    "https://insider-gaming.com/wordle-hints-answer-october-13-2026-1942/"
+    "https://insider-gaming.com/wordle-hints-answer-october-13-2026-1942/",
+    "https://insider-gaming.com/xbox-testing-a-new-streak-system-for-dashboard/",
+    "https://insider-gaming.com/ps5-jailbreak-app-overdrive-seemingly-makes-games-and-dlc-free/",
+    "https://insider-gaming.com/when-does-battlefield-6-season-5-come-out/",
+    "https://insider-gaming.com/battlefield-6-season-5-patch-notes/",
+    "https://insider-gaming.com/no-mans-sky-releases-for-iphones-ipads-this-month/",
+    "https://insider-gaming.com/evo-france-2026-all-tournament-winners/",
+    "https://insider-gaming.com/hood-warfare-2-viral-call-of-duty-clone/"
   ],
   "title_hashes": [
-    "507fbe64d6e252d0a8d7598dc6011b06",
-    "45141ec062a589c532cd12500e8d405e",
-    "75b64d111f974edb9e4f800d388c21ed",
-    "1d3224c12c46b4b2c4dbc3935675532c",
-    "7d2cf52cd3ca8d7c41d31a9447cd080a",
-    "110635e33a100bb17ae4e9e8eba1ed8b",
-    "6bce5fa85567e79af50f6826025d540a",
     "c6663d4ab57979930c233be68381e3cd",
     "72a031ede5cb3a07f15e46bacadffe62",
     "f1d05534e5de165b18cccdbeaa47edf9",
@@ -16001,7 +15994,14 @@
     "f192cceceecd07345daddfe1c3eb213b",
     "774bf46478b52ee22157701d09306e6a",
     "a1a44be84c0f5f271e360f7232cb3f97",
-    "51b59db44aa765a0490b77cb07954747"
+    "51b59db44aa765a0490b77cb07954747",
+    "5f8ea3789b42352439a4710eec2e711e",
+    "9f7b14630d670fc1ee3b5370a4a543fc",
+    "76418ed281050af3ef639a0231672df9",
+    "83573354464cdc38209225322588ffff",
+    "3c3d79bf0fd672cea89198291e2e3853",
+    "d85ca6c9a2b4cfd56000716ea1620cb6",
+    "b70a8c4ce835337695a589f76e09ad11"
   ],
   "transfers": {
     "pages": {
@@ -21016,6 +21016,26 @@
     {
       "t": "13 1942 2026 answer game get help helpful hints need october post starting today wordle words",
       "ts": 1791832950.9317126
+    },
+    {
+      "t": "8216 8217 appeared dashboard details first here ins insider more new out post program seems streak system testing that their through trying xbox",
+      "ts": 1791832956.0171561
+    },
+    {
+      "t": "5 6 battlefield come comes does explained find get guide here involved out post release season this time times update when you",
+      "ts": 1791832959.4855726
+    },
+    {
+      "t": "8217 amp announced appeared available first games has hello ipads iphones later man month october play post releases sky that this will",
+      "ts": 1791832963.1265543
+    },
+    {
+      "t": "2026 all appeared bringing championship concluded end european evo evolution first france has history inside money nice post prize second tournament winners",
+      "ts": 1791832967.2432735
+    },
+    {
+      "t": "2 5 alternative call cheaper check clone duty hood looking might out post shooter theme unique viral wanna warfare you",
+      "ts": 1791832970.7278488
     }
   ]
 }
