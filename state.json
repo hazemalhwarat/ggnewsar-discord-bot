@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZXFIdzJibG83SUVCeHRqVk5BUFV6aXRJYUljMl83M3ppdHVMbGMxRklMcmotZHhOamtWTnpOYVhUVzBqOVZfZmhtcmVfYnpLZXAxa1EzMnM5RmRoV2E3NmczSlBnQ1ZOWi1pVWl1SmprMEluMXMzRGotd0hmd0xKSGIzdnJpaVd1RGczQUt3?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkdaemQzdkpEdmNKZkxQZGd6WHhTX1E4ZGlxVjNvUUpVcm11akE2V0poSXctdU5RVEJEbW1HREpvS05MTlYtZDVnamdRWXdJZVdBZm9vZDNFYUxTUzM5RFZGSkdaMnJ1aGVEQUdzdDZ3ckJDUFZ1UzJocDFHNnpjVXc0eDJyTWt2bFc5QUNDR0VCRGtVeGhlcE5sZDZzZmFVa3hR?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jSzE0Z2tyM3R0blA1MDVLOWNtZGxueDBpUDF4QjFCa2Z5VHRIT21jbTZRSEFIbEZLcFBJTk9qcUdfZkgxeDRyYVVDdXlVanA3Ui1vTThoMkxoNnp6SHcyc1JBWWMyUWE2RVhDa2szYUR3ekZaUEg3N2N3?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUNTVmxFSHZkVEFDLXNqd1dXUVRHYW1wMDhuTzZjUVZKZGs5WVdxM2JNWldPV0FBcGhLYUMtM1dieEpaTXBnRE5aMDdrZEZrcU1pTXk0ajkxM0ZpTDlaenNOTUhxMnM0QU1QUnVRY2s3VUU1X0xOZllkUUtOMzRDVmxCV3JYQk15Q283VUF4cGJ1M2pCelF3?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PeVB3cmpwZG1Db1c5a0NIa1BzSzRUVUdiLTF4anhaMkZSejctOFFvVFJXX0pGWlA0b0J5VUZ3TXNlcGY2cE40b3VxaWJEQ3VDQzNZM1JHQlpKdTI4UEg0anJHY1QzVzBjbm4xRGtiUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXNwS0VZc3ppT2FuVjBjVHBOcTM1QnZxQS12Q1dMeXFTNnNPeFMtNnd5UUkwYm9HQUo4RjVOTjB1eEg4V09pNFVZa1kwZjZSTGVEYmdSNlgzWERXRko4UG5Oa3VyZ2RvMlcwRUZSRGZaYVBhcEVyUmlUOHB5UTNvM2lBRk9xWjY5UkpNRjE1ZGFVandkZHFDVlNYdTMyWWRfMzEwZDF3?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGM5djQwU1NYQzNEUWZ0QUFqNHNtYTFicmJ1V1VFNW1WUXI0dktJcWZKaXJZNFJ1aVBTMmR6bE1vRDBjZzg2dFJTNWp2TEFzVGVjUVRMTVRudnh5U3c5YXRRVGJiZXM3T2NzeDZJWDJMN0V4ZmR4c0I0eTFBbWZHRm9MNTJ6eEs1d2F4QmFzSmgwX0FkUFdlVDMtcWpBbUZt?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE10by1yeFF2SFM2LXExbWhYZG54T3A1dVo2U3Y0eUo0Nk4za0VobnN5a1dKWUMyRTJMeFRlbjh2YVpsZlk1Nlo4ay1KZGkzeUxjMmN5Vi1NRk9fVjJsVjVreDJmS2pxUTZVMnZqR0J5QzVxY3g0eGV2Vl90c3VsZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWExZGdldGFDTU9qczRzNU1VY0FLdXkzLTZQaTJBR2o1Ymt3MzlWNDNzTDlPaG45WW5MVG5NSkFuTzhXRUs0OHpGdFZDYzM3bG1BRWpReFhPSjc3eFR5UHRUV1A4LVg3WGZQNWJqT2RRdkVoNWE1cWgyZ0FvcXRjUlptV2ZWWnVvZDFKT3M2R0FLVDRZQjV3UWFrejlqbmJjdk5vcURlZzBBU0FvX2VELWc3ajZfX1NTUlE?oc=5",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd29VQlJwcV9tNmV6WGdGR3hUN2hVeEU2cXdVbno0LW5oSDQ5T2phbmJqT1R3M0w3dWsxOS03WWU1RWR5NFRfNlhWNVhPZTBfMXdNN24yX0VKNVJmbHFndE1mVFBQWGYwaU5Kak5LTmNxcElfdmxBS1l6cjlQaUJhLTRMelhVOGpKUjFucjFRMjlBZVNzazNWQ2VSTExUcjYxMjZ3VC14eUFWLXFKT1hGWlN2d2U5d0tiU1NmSmhqdHpkc1Z6UHVheURyTS1IZXNw?oc=5",
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZUQxdzRldW9IemVMZ2NmVk5SbUhnX3JUOFN5OUwyb1FNZHNqam5Nc1A5SmlueFBZSUlGMWkyWmxGcHlRa0JTX0JGQ1FpRFFPVElyUUVlcTlRaGNGLXpVcHBSMk5hejRnQldWei11QkFoRkRyRzZRM21BSFVFV2ljY0lPUnpvM2N3NHN4cVpMZFRDUmF6Qk5OWFRSLXQ0QmVZRGhOMDNBMkRHT3cxY0RhdGtxY3JCQkZLRkNxZWJORzVwcHp6aDR3NVZXdHBzNHlJbVpnNlpTYjNSbWFnYXc?oc=5",
     "https://news.google.com/rss/articles/CBMigwJBVV95cUxPR0MwdmJDdmo5R29ZOEhJS1JXbGlUN3E4UFdmU1RhNEVscktMTmE3WU5MZHZrMmRrRng1Q0ZBQWxLWGdVRnlTeHdQb2U1M0I4aVlvUW1xMkl3bGhHWHdfenZOenJfbmc4dnhrWkRmRTZ0T0pNVTlEV1puSDAtRHg3aDlPZHItOUd1dFkzdUxvRGhBcUJjRXA3YVJaM2ozSWQ2dGJUWXBJTFMtOWhSdjNSeFI2MWJUVFpnOFBOcjNKRDAxejFzWWFXUWc5TW1qeU1DcTFjMnVySE9SYlNtLXYweWYtTWZFSGRDNmJ6YlJrOFJ2YnBITnNFOG4yNXJDZUtJRmQ0?oc=5",
@@ -7999,18 +7990,18 @@
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcXVsWEM3OW91ek1RdjVlMWVRcFdrLUN3SHZvZnV1NW1kbnAyTzZuOG4zUFJzVVBvM2hpOVF5aGJudDh1eTJCNHJQN0VMLUdsclRZNENJLXBOQkR1aXJGNnhQYWtRczdja1VReEh3YWJKSkQwWTE1a0h4OXg2dkd3alhmMHZwdy1DcVU4OE9QYXdzQ1VjLW5LMW5ld3dVTDF3Y2hlUUZzUlBvUkMtUU5N?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOanF5SWItbWJLMFgwR2VHMTlIYTZSOGdXQ1cyYlhzUHJfUXlnWnB0Y3BSNXdoRU1WMUdEaTZNbERVcmpsenFaWGpVOXhJaW9kMVNHekxWdVFKb2xhNEpjRDlTWC1fUWFKcWJPNUNSUzVOa1pBYnFhTDhoWmc0bE1JNi1KRF9abmJRRHFnWE1SUVZ6UkpORlkwa2Y4WnVQNVNaUVVqSnA1dFVEdGlQ?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE00ODRJWThoMmFEYmI0ZDYyOXVwTmM1dU02NjM1bENLMHRWN1gtMkV4UmZ0Y2xVUzZURXA3UDlyVnh6ZDFFYkNiTkp4cjdVQkJxMmpCNFlsb0RheS1oNEZmOEUyNVREQkxnQnN3Y3hGWQ?oc=5",
-    "https://europeangaming.eu/portal/press-releases/2026/10/12/215775/pragmatic-play-big-bass-halloween-splash-1000/"
+    "https://europeangaming.eu/portal/press-releases/2026/10/12/215775/pragmatic-play-big-bass-halloween-splash-1000/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/12/215770/bgaming-halloween-slot-set-noche-de-almas/",
+    "https://europeangaming.eu/portal/latest-news/2026/10/12/215766/gambling-stocks-weekly-5-to-9-october/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/12/215761/popok-gaming-garuda-da-fortuna-1000-slot/",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2ZXYVMtbWQxVzJlRExxYzJpRU5nbmNGaDlkYkpXZWlfZjNMbFBCRmc5cVd6OS1kWlFHRVZVbzljTWpWeUhvajI5M3doVThxZzE5YjZnbTdtbjBERVpLb0Q4OC0tNzhON2cwNm5ZUXEydW5PODVscmVDS2xXWi1NcWxicUpXalNZa1h5NGJEWGVLSzNfSVJXOXdoLXZrbGxVeFE?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeF84VUh2YmIyRk9aWmVfQlVUR3FPQ0VNYlJRbUdqbWo2YzExNjQ5OVd4YnBRQnpja0gyVkFHbS1nNllJaGxZYWo5RGxpZjFUVUl5djlaSTFqaEJmcXVzMjZleTFDNGFNV3I1c0hrdWM0RDRFc2dfaTFTcmV3cTZNQmhmeDFmNnBBakVyWWE5dzQyTG5vbmxlRE1jcFRUdHFleERwUnRkWDB4YVR3dUVZ?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHd6Wkc5eDlYaUlyY25VVzY1cGJlWjJXdlBNSmEwdXBnR2lVeFZkaTA1dmZLd3Bvc19XeXpfd0oxdThSVEtuZndJLVQxMmhsNTJxaTFzRkgycVpGQkR2amFpZ2VJVGdrblVpS2RyRmNJcGktX0l1bUFnYnJrQzd2M3ZDS0xTUllwcTI0ZDJuVWtXU1ZKQjVOWXpPWFBscmVuOTR1TTBrNlV5dk90MnNiV0lkWlB0MEU?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUlFMMnMwNUl3V0I5QTJiRXllRG10WW05eGRqY3BwUXdZdTFtRHFRMGRZbjJaUS1hUFA0Nm1MUW1OQ19HZGROaGI0RktTcy1VRzN6Q3ZkNFNEZHl3bVZVdlNZbUpDNDlIUGZwa09JM2ZwQVRkWmdjMlNRMk1EZE5SMWtRUHJENzVEY0xlZjY1QVdmdldnU21qSXFrUzEtS2pGclBLNk9QalBPcy1tT3h0UVZSR2lEWlN4ejhGLU5MTG9IYm5J?oc=5",
+    "https://pley.gg/cs2/vitality-overtake-navi-as-the-richest-team-in-counter-strike-history/",
+    "https://pley.gg/cs2/highest-rated-players-at-pro-league-season-24/"
   ],
   "title_hashes": [
-    "59a23defc2cbedd5b6548fbd71135449",
-    "1fcd4d21a4c1b4b629cb5d911409da1a",
-    "751afa88b6e30280078f153611328c61",
-    "f876063d42937b26d41f2bbe33a1497d",
-    "7b536fdfb3228b47983e51942b88e922",
-    "a8b19c60bdada22fa6a01e3089230424",
-    "51e9474816d97918b25556821bfc5fd5",
-    "27ce84bf5c0bfaa58d0d576e6b442742",
-    "93d682c14d234eb18fc22067b6218722",
     "48db00bba25980e1040b85536f526d8d",
     "01047b945e747d1cf0f705769c0f6d8d",
     "d5fe7b1945e6f69afede0a0e9437c41e",
@@ -16001,7 +15992,16 @@
     "3e42856a5fa265ed2daee4c39d73a4b7",
     "24830b4c37cde7b621f7c6cc4e9163da",
     "a8302ef1c1a952f3bf63b89e4b456787",
-    "6f74025c8d7e23f2ac63fa0e4180e332"
+    "6f74025c8d7e23f2ac63fa0e4180e332",
+    "ab67fe45ddb0fe08897d96a39a9e16ff",
+    "f5d61e4bc556d08e2d0641852a5a7e33",
+    "8ca81a351424762d407a04132d7a8c04",
+    "147fe865f2971f798ddd65e1d985eda9",
+    "240ab62ae0b7b4160d349314010f4144",
+    "0736dc5562a1e185ea39e2627083d289",
+    "62acb431713e725366515a51d9d94ed0",
+    "8fb6ffc5e6ede650f67c01c564602739",
+    "de3706d29d1ad44cd7fdb9a5696491e2"
   ],
   "transfers": {
     "pages": {
@@ -20940,6 +20940,26 @@
     {
       "t": "1000 8230 adds bass big builds engine entry formula fourth halloween modifiers play post pragmatic pumpkin select series splash twist",
       "ts": 1791797727.3199685
+    },
+    {
+      "t": "8217 8230 almas bgaming casual classic covers debut entertainment five game halloween including introducing new noch noche post releases set title titles worlds",
+      "ts": 1791797732.9016469
+    },
+    {
+      "t": "170m 5 8230 9 agreed amp analysis appeared citi european flutter gambling market nine october post rose sale six sportradar stocks trends upgraded week weekly when",
+      "ts": 1791797736.361718
+    },
+    {
+      "t": "1000 3 8230 appea bet dedicated fortuna gaming garuda launches mode multiplier multipliers mythical popok post potential push reel slot themed ultra uses win x1000",
+      "ts": 1791797739.9138052
+    },
+    {
+      "t": "24 added all another counter esl history league lifted list money navi overtake prize pro records richest run season set strike team their time title top vitality",
+      "ts": 1791797743.3900461
+    },
+    {
+      "t": "highest",
+      "ts": 1791797746.8518136
     }
   ]
 }
