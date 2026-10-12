@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNmlPMVJ0M1lObF9SZV9ySlFQRG41QWo3bGVvZ2ExT3YtY0d3R05sNUJkUXRMLURVbTcybS1XamtsVjNJREIyeXo5V3hIUTF4eTlaNkVfOHRSQmJ2MFFFc3Vzd25YY3ZndkQzdEZ0S2lxVjdIZVp3RWtVOWZJM2oxVkdWeDJIQjJjNk9sMG8wSEtMNG5IVE1JMjhIWDlnS3lGSVJUOUlaQ0w1R1FKUWxRTXh5cjBTQ2Q5c2pvSmtnYy0zRXp0MldXTGdJMTJ3M1lvRXJKUTB3?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxORzh5RDF1R1FGQmxoSDRtSmlIbTUxY2Rfd1QwenlzUHBzNFZ0bk5GRHFQUmNBeDNKTE8zWkxiUjV2LTRTdEx2LXM3bzRoVUdfcWxnTDE1MkRHVzllekt1cThmWUFrTzJNV1J0ejJSUlRUNmUtVVd0alIyVlhqd3E0SGNYeXRwRGpLSTBPUmdiSmlVM05wb1dtTzBFY1FlX2VMaE45dw?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnYyZVg4WjdoOXl6X2YyYVN3VzlYVTRPeFBtRjZkaDduY1RsVjFiNlhXdkVXNzNyMHdZYnZlUExfUnJpbDhEbmRxaFBWTi03SmQ3M3Z3QTVtLUlWU0VsekpKMm9pdzI3Z0VGUy1UZS1Ta0MwaUQxR3phdlA1OVJRR013MFAyazNXNTZLSEtNUUhLWHVsMUJseHVaSHNpcTNfdzdmbDZBbS1jLW1iRF9nbUtpWjJFSk5E?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWFd6QnZWNUsxLWdaLXd0WHk0ZGtvdkUtdEJvY2tBUkphQlpVSWx0T3g5VWF3SXNMRG9SemtsZ3BwcGhZMW9kT0J0VkdtT1NQclJJT1VNS3AzakhpTDVjdGJUYzFTMHJkazV0VFVtQU5VYzBFZW5ya3ZpdTlXa2huaWNqZm43TkF6TmFwUm1EY1h3WVQ0SjZCZHV3?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nNzJwNEhCQlozbWdVQU9hRy1XeXNWMFhPT0xMQmRUaTk1TXU3T1Jfdkk3a2tYdTg4QkF4bHVlc05UVUZqSHBLT0VsaDdmMDY2ZUNnR2tfcw?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1dYQTR2bk0yNGFfOVBUcmpvNEppX0wwSVdRVno2TGdaTXU0MDFDNHVNdmthOERTeGthMWUwc293ODdxaXgyck9vcC15RWtrWkwxQ0E4Rjc3V0hTTFZBbHZXY2JTNC13dlVfcVEzT25EREduY0pwbnhxelN6ZzVOM3BLVjNJOVl5WkNHajRibUVsMkxQdW1Oak45UFJIQQ?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVEZ4LW9WUXB1U3l4UjdTalFZWnZhODUzWThOSVdlcFBBN3ZLdU82UmJfSjdHZVZ5VW5iSmNVVjVxdk1pU09YaExVdGZhWmdfa2dLa2RIQmtQSzBySS1ReEswdENldWlWWlNGYWlwdm1PT1pkN1ZYZHFyNHJjMWNoQjRLOXZlN191ZGozakpreHdjcE5Nd0dFMVJ4MU52ZDJLTVBmTllVN3M1OUpvbE1GYUZ3ajlKRFBKMnhuWExRNlA3cHZj?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2phZTF6eURhdzNnX2JQeU43bFZIMjZEQ0MzNEtqY1NyZkpPMnBYeXJqMTZsakNlZFBiTWJwS3ZrNFVkUmlHMFdwT0pLTU5walZfcTgtVDNVbTFHalZxc29XeWI5R3UzQ0t4M3VaSWNjb25pVVZSalFGcUJidm9HNnlvdGJLR3hnYXdkakJ3bnRhbklGRDYxRTNB?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2VjQVJ5VHhMYkFxTnNocGs2S3FfMXNsbDhJaXBaOG1CaUxXdzNOUXFISnVDbVBublJkZTVGaHVVNG5hejJrNVFuNzNoUXZmaHd1LW52Q2VRZWhPY0VhV0k0M2ZjLWpfQlRVODRTQTVCV3pOTFhoa1drLTlKVUJBVHNRQnBUWXk0d0lfZ3NqUWRCZXRwWkVTMktYWFRSa2xXU3I3VWNlbDNsVHdaSi1VcVFrREZDSXdWRmFoVnhZNUFkM3hQU0tJ?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2ZPZW9rTVhzLUFNcHVyZE55VW1SY1RoSllXdzd5VXhPQmthZkFUR2pmR2ttRmFvNnlFRThHT1Y0R09qSXhKelhDWkU3TkVaRmNPS2FzeUVMZjFhVTNhWC1FMUtPTFNway1MaXQ5WFpGaktQRDhCWjhsRF9oRWQ4UnlvWDFMNUFqT28tVWdMQk9JYzNvZWc?oc=5",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNHc2VnpGbF9PN1RoZUJyMDJscjMyLU9HV3ZsQk94U0N0d3JQT05yOE5pak9OaE1VQy0wN1lodUFEdG5OMFpubjJvc0J6U2RpVnRqQ2NSOTNhVGtmZDI2amwyOWllZkRpckpXc2dsNmo0b2s4eXNTQk9zdzk4OC0zNTBiVmt3blhJYW9IcnhyUzZLMHlwdXN6TE91YWVQZ250VnBkTUtKRll4MDh6UkZKcGlxTi10cWM1RDFFYmpPa3c1UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVFAwRHVNY09BQ1VIR09yck16ODJfYVN2eDdIVjk3NVppaHZyc3EtVlIzUlJldVpkQUkxUV9IUTZETFpiUXQ0M1JBdTJPZDRBaEhSWXloVHVpNjJNWkxjMjYxRXRXeWhKN1NzZW41Y3VKOHhacEF2OWgyUTFpTkp3S2ZBNA?oc=5"
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVFAwRHVNY09BQ1VIR09yck16ODJfYVN2eDdIVjk3NVppaHZyc3EtVlIzUlJldVpkQUkxUV9IUTZETFpiUXQ0M1JBdTJPZDRBaEhSWXloVHVpNjJNWkxjMjYxRXRXeWhKN1NzZW41Y3VKOHhacEF2OWgyUTFpTkp3S2ZBNA?oc=5",
+    "https://www.invenglobal.com/articles/27058/5-episode-series-costs-50-million-won-in-ai-generation-a-whole-different-world-from-traditional-budgets",
+    "https://www.invenglobal.com/articles/27057/435-million-concurrent-users-the-power-of-steam-breaking-all-time-highs",
+    "https://www.invenglobal.com/articles/27056/bnk-fearx-defeat-jdg-3-2-set-to-clash-with-kt-in-semifinals",
+    "https://www.invenglobal.com/articles/27055/welcome-to-las-vegas-hands-on-with-battlefield-6-season-5",
+    "https://www.invenglobal.com/articles/27054/kt-rolster-pull-off-reverse-sweep-against-europes-team-vitality-to-reach-semifinals"
   ],
   "title_hashes": [
-    "a659e5da81722a7ba753497e6ff930b6",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "54b003d3ea179ca89963fa768430bca0",
-    "0fcf786c449dd32f179d2f0409a95ffa",
-    "d7ff6489aa23d1e996057d263ef5f8ea",
     "87b487c5f475d48730fc6206e72f2661",
     "506acff655ac5a67b35e38f2e9437938",
     "50fc231e5c6573b8c49691eeca6ec0e8",
@@ -16001,7 +15996,12 @@
     "fafd8c7aefe4ab85d7f7dd22c18bd144",
     "331197f1bd599f891276180324929b96",
     "a247892cba07c43f0ee9d4ea51674777",
-    "886bb73b3156b0aa24aac99d2de0b238"
+    "886bb73b3156b0aa24aac99d2de0b238",
+    "c297ca995827ab2caa0e6254b4c4d387",
+    "dd34497fd16243c9a639e3e7fa04db54",
+    "f721939ae08498a41aea59c79d497fd4",
+    "2e37ee370896b247800c0282bdea731e",
+    "509f466b96dcb3c7a5416bca6e96a4e5"
   ],
   "transfers": {
     "pages": {
@@ -20710,70 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "30 about built creator dragon free game has horii minutes mystery quest released releases series yuji",
-      "ts": 1791747336.9511552
-    },
-    {
-      "t": "1 11 17th 2 3 achieve again alliances battlegrounds castle clashed dominant held last major october once overall power remained servers siege similar structure that two unification war week while",
-      "ts": 1791747340.473332
-    },
-    {
-      "t": "34th award career claims esl frenchman his league mvp pro s24 secures sixth year zywoo",
-      "ts": 1791747344.0715377
-    },
-    {
-      "t": "1 24 65 esl final french league mouz over pro put rating season shines superstar vitality win zywoo",
-      "ts": 1791747347.6747167
-    },
-    {
-      "t": "2 enters four g2 top",
-      "ts": 1791747351.2077677
-    },
-    {
-      "t": "about actually after bot covers die during fight guide itself lane level lol marksmen means nobody positioning rarely rush seconds something spikes tells ten they this trading two what why win you",
-      "ts": 1791747356.2941716
-    },
-    {
-      "t": "1 appea cyclops dates dlc foster full its jane jubilee marvel phoenix post release reveals roster seasonal see thor tōkon venom windows year",
-      "ts": 1791747359.8642168
-    },
-    {
-      "t": "after against can champions clean continued esports explain finish g2 granting group how making much pal relief securing shanghai stage streak sweep team their them three top valorant vit vitality win winning would",
-      "ts": 1791747363.3422556
-    },
-    {
-      "t": "100 2 8217 americas back beat champions eliminated ended fallen finally hands have holders hopes nrg reigning rivals shanghai stage them thieves titles valorant winners",
-      "ts": 1791747366.800096
-    },
-    {
-      "t": "2025 8217 another bane become don esl ever existence first four have just league mouz number prevented pro really smash them they throughout time trophy vitality winners winning yet",
-      "ts": 1791747370.2997432
-    },
-    {
-      "t": "2026 8217 alongside ball best championship chance crystal earn ems exclusive fans finally game giving lol open pick picks predict predictions results rewards traditional world worlds",
-      "ts": 1791747375.354957
-    },
-    {
-      "t": "0 24 3 back beating best champions defeating esl have league mouz pro reclaimed scoreline season team their throne tournaments vitality win",
-      "ts": 1791747378.9023128
-    },
-    {
-      "t": "egamersworld esports ireland matches nbsp results roster stats team val valorant",
-      "ts": 1791747382.3181722
-    },
-    {
-      "t": "bow esl first katowice league mouz mvp pro put sweep title tournament vitality win zywoo",
-      "ts": 1791747385.7638335
-    },
-    {
-      "t": "03 2 another averaged cache french love much mvp rating route superstar too yet zywoo",
-      "ts": 1791760271.0940907
-    },
-    {
-      "t": "2 8 best blast dota emerging ended event first get has like looking major new officially one revenge row season second slam spirit team tournaments undisputed victorious win world yandex",
-      "ts": 1791760274.555146
-    },
-    {
       "t": "12th 2nd after based climbed days dokkaebi four games google has kakao launch mmorpg morning new place play rankings ranks revenue sales world",
       "ts": 1791771802.2308447
     },
@@ -20960,6 +20896,26 @@
     {
       "t": "highest",
       "ts": 1791797746.8518136
+    },
+    {
+      "t": "5 50 according actors actual arc artlistthe august been budgets cost costs different drama episode generation has last million produced production props recent released report revealed series sets that traditional whole without won world",
+      "ts": 1791832838.753441
+    },
+    {
+      "t": "43 5 505 724 according all breaking concurrent distribution has highs its million peak platform power reached record rewritten site steam steamdb surpassing time tracking users valvegame",
+      "ts": 1791832842.2469378
+    },
+    {
+      "t": "12 2 2026 3 bnk china clash cup defeat defeated demacia fearx five full global invitational jdg lpl october quarterfinals securing semifinals series set spot successfully their",
+      "ts": 1791832845.7256112
+    },
+    {
+      "t": "4 5 6 after atmosphere battlefield dramatically frantic hands high introducing island its las reef refreshing season shifts showcase this time tsuru vegas welcome",
+      "ts": 1791832849.219367
+    },
+    {
+      "t": "1 12 2026 advanced against cup demacia europe global invitational match october off pull quarterfinals reach reverse rolster semifinals successfully sweep team vitality",
+      "ts": 1791832852.902255
     }
   ]
 }
