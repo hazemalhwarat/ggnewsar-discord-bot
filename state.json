@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26230/alan-ritchson-to-potentially-replace-jason-momoa-in-sonys-helldivers-movie",
-    "https://www.invenglobal.com/articles/26229/evolved-gameplay-through-open-fields-and-insight-skills-wo-long-2",
-    "https://www.invenglobal.com/articles/26228/16-teams-set-for-2026-pmgo-western-europe-finals",
-    "https://insider-gaming.com/arc-raiders-frozen-trail-trailer-september-23/",
-    "https://insider-gaming.com/call-of-duty-team-ricochet-cheating-industry/",
-    "https://insider-gaming.com/when-does-rocket-league-season-24-start/",
     "https://www.nerfplz.com/2026/09/riot-bans-296416-accounts-for-boosting.html",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tNm5Yanl5bG16NGpORXFJb2VOczhyYjE2eXUxM2l1a2JTbmpTM1NXRGV4Vzg0NEVLV211cDdJUFlVS2libHBjMWwta2t5ajQwNEQ5WHdsZ0VPZFo0Smx4VjJBMUxhNTJXcnlyQWV0elQ5U3ZBaEdWQQ?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0Qxd2dTLTdiY1FQQk9jS01ZcGprNWE1SFVvZGgxTjhCb1dlTUtsdzVOZTd3SllQTW41b2JwS1REN0VrYWpkRXRncVZ2MkNPbDNoNkhQOUNNWFN5QjVBbGllWE50NmUzdHJWZkxaYkowZ3JxbEw5MXo4NFEzVURXQlVHTnJtQ2ZYX2ItMHM5enRjR25Wb3JOSUtVS21DT1NjaFpSWHZCTW5jRU91UWc?oc=5",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/27039/two-ways-to-enter-the-endgame-early-in-last-epoch",
     "https://www.invenglobal.com/articles/27037/don-lee-makes-surprise-voice-cameo-in-live-action-street-fighter-movie",
     "https://www.invenglobal.com/articles/27036/become-the-king-of-transport-authentic-transport-sim-transport-fever-3",
-    "https://www.invenglobal.com/articles/27035/game-classification-volume-up-but-monitoring-workforce-reduced"
+    "https://www.invenglobal.com/articles/27035/game-classification-volume-up-but-monitoring-workforce-reduced",
+    "https://www.invenglobal.com/articles/27034/assassins-creed-symphonic-adventure-coming-in-november",
+    "https://www.invenglobal.com/articles/27033/hello-kitty-party-land-physical-pre-orders-begin-oct-14",
+    "https://www.invenglobal.com/articles/27032/ace-combat-8-wings-of-theve-surpasses-1-million-units-sold",
+    "https://www.invenglobal.com/articles/27031/polaria-ocean-friends-launches-cbt-on-one-store",
+    "https://www.invenglobal.com/articles/27030/the-battle-cats-hosts-kkokkomi-music-festival-event",
+    "https://www.invenglobal.com/articles/27029/come-to-my-party-demo-20-to-release-on-october-16"
   ],
   "title_hashes": [
-    "48347b5a890e7459b3f7b015f81b547e",
-    "19f95faa76155daafa300d978b6f38fc",
-    "d376f1098f156f7a002e01e357e39b11",
-    "dfa330a672403926b9cb0b41083f9a6a",
-    "88e88948298b141f9b48510b1dad93c1",
-    "27a121f58ae7e38de60cce09e7b81622",
     "0472f6762e3aabc95a196f79d4cd955c",
     "550fce2cb62de752b0f9c847a8d4fe6c",
     "2c5798a73b6fec868ca43d3ae6a167d1",
@@ -16001,7 +15995,13 @@
     "cd3540867c0ea10f4c9385b5167fdb83",
     "034567d0ccb0faffe489876557dcbaaf",
     "6f5e3bd86679264d5dac8f75ecb13215",
-    "667b276dc6db70024d542d53a18f9a8c"
+    "667b276dc6db70024d542d53a18f9a8c",
+    "22818a4bedb8a5a0525350fca22ad5c1",
+    "ff3ff218de32e7fc75885fca76b45232",
+    "6ab4347441a2c1bca36663f7a415a980",
+    "94af818672e7f0d1ce927ff25ce3ccef",
+    "202f53942a1d826cfd52f249c1932fcc",
+    "92885ce7fbfb59571f67052556149aea"
   ],
   "transfers": {
     "pages": {
@@ -20860,6 +20860,26 @@
     {
       "t": "30 administration but classification committee game games grac grew halved inspecting just management monitoring nearly number one post rating reduced staff subject them volume workforce year",
       "ts": 1791797642.3703508
+    },
+    {
+      "t": "29 adventure announced assassin coming concert creed hall held jamsil lotte november ognogn seoul symphonic that will",
+      "ts": 1791797648.196112
+    },
+    {
+      "t": "14 2 announced bandai begin edition entertainment hello kitty korea koreabandai korean land namco nintendo oct orders party physical pre switch that will",
+      "ts": 1791797651.7477665
+    },
+    {
+      "t": "1 8 ace announced bandai combat copies cumulative edition entertainment global have korea koreabandai korean million namco sales sold surpassed surpasses that theve units wings",
+      "ts": 1791797655.217775
+    },
+    {
+      "t": "00 11 12th according announced battle cats event festival holding hosts kkokkomi limited music ponos ponosponos starting that time",
+      "ts": 1791797658.6677601
+    },
+    {
+      "t": "0 12 16 2 announced come corporation demo games gamesline its line new october party release that title will",
+      "ts": 1791797662.1463351
     }
   ]
 }
