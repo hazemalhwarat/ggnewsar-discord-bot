@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcTkydXBjTFJmbS12Mkl6b2ZkRVVwc1RLdU1VUmE4M0RxMENFSEFVeGlTQU5oTXdOQTVMQnVLUlkwV3VzcE9OMldNeGZIMlQ1S1ZQOVYwUmNrQWREUTJfNWpqRG8tdG9Oa0Q1dEJBQWRlemdYaWJkS04ycjhuaXpvek5ENjRvcGY2SjJGN2dENEZNTnBQRWZPN3RB?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0V2M0kxVGszeXBEQjZpUTRRM1VnckdBRXVJdXduZEl1elBOOXhaOHdSVjVVRDFEZjl3VGJzZFUxQlhsa2E0U1hxci10QzVyaHJVcVgwN1c4Ry1nVEtfdXpUT2xlOFUtWXdrVFlIY25xX2Uwa3Q2emYxQkp3WjlFZEJvdVNybl8xc2xRVFpXbXBBWGNKUWpRMm5zYjJYWXJ6?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWNodGN0SDRObFJrYlpyRFItUnlzR0Q4M3J2ZkszcnZZWkdwZGEyLVFJX1dkdzZmbTlSeHhkZXEzb01LR0kwSzhDbHhfeG02NmFyRkFJM0hTcDdsWnhfM0h3cFB2RW5pU3I3WjJ3OEVGY0VvSmllZXdNRDZjSDBhdnVmZnZRa3JGelhELTlQd1RFS29OekVBTGtqM3Vkd2tNOVltUUVDVTE5UVg1SVNIdmJSaTloSE0?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHZvQ1pOZ2pMdFFST1Ayc01zYXhMejgwcm50bk5MdEFLNHlUN3M5ZHE2UVBlMWlGWXg1bl9NWksyYnNSZkoxVktOOTVkbGwtcmY0SnFPaEphWEQxQVhtZHlGanNMR2tTNXcwb1ctTXNwSVZCd21jN1hlajJJeHZyY0hmSmJueTh0NnkxTy12YnBPWVFwYzdRZmtXZjY?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZzkxMjhqWnhPRG0zZmVjZUQyN0JMZHpndjJQRmVVb1pKNXhnWUZkc2F1anA0M3BvOVgweFdrT0Nfak9JeUVfNGRkS1h2RXA5UzBBRFB2NUI3ZVlnbGpUdUpQQmNVZ0NxQXpBNTZ4M2FfWkszaXNNU2dpTkRBVEx6YlpB?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaEd3YVJqdDdGRnk5emtGWTFaWkx3a3ZYckMxRG5adkV1d0dyN2RnWktWenRZeHd6ZGJCd29vY1ROa2o2dDJabmtKYkxDS1RnbmY3RnNyUDE1allxSDQ1UXlTSmkxZW1XNjhTOTRfa0JMOGFyWmptVkNLaHRYU3RRaTRWa0hFZlJteG1WVzNHRElwdUVNWVN4LWFxVnhrZlR5MDcxR2pNcERYVTlWaHcyUjNIT2Y0MjlkSGg5empaajR1UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGdYQ1hvVUhFaXE0ZXNOdENPUDFESzZpd2pHeFhrLXQ5dFZCZUlYX093Y1RVbGQxUk00dHJWQml3cl93UEZUd0xzTEphUzRRRzdsRnNRcEZDeUkzckx1NEpIWG1OejJVeHBHM3oyLWNyWERYanhwaVlZUmxSdVQzSA?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk00NFlvZTFaNEtaTG5wZ3lpMG9XUXhDdlFtclgxWkk1SVBENlI0MXVMRkhqbUpZWFZlOHdYTGpHbDlpcXB3bGxMbkFfektpVERGbTVSVnV1cGRVOUw5T0E5bW5KS1I0bFZuZWlDcnBwMXdNdDRxNExUeHhudTJIRldmS2U1OEt6YkxOVFMzWV8wNGNPRzVidHpFekFkWEFTMjdad0kyNWpQYWZXak9vTmNOUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSjVaSGlQVVo0SzNwVl9LTEZjZldha0tUMlcxVENXRTBBLVI4NTNQQkRWNDcybVFPSmJydGtYZklUVFNLZTV4cEY0bDdOaHRHNnV1eGczZS15VFItTGRaZDNYUmduZFk1c1RpekgtaFl3YzROdGRwaFFDc2tYa3RzckUtSjJjTnBIRWVNdWtfb2hZZnRRZ2VuTzh5WQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeW9hQ2Z6TmNOSjdtcFhwN2tyc1IwbGJROE1hVHpRVmwzc2dVVHRyWDJXZ0pXVjdpSWc2cHV0Y3gxdXBGazRCNWhyNkFzWXVMVW5mRGUyUmRqTEY4WktxQnFzUUVMREp0Rjh4X1ppbkpacG5QT3p6bXpQX0ZPdEh6RERLeDEwQmk2UHZBMg?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkpub0dGaFJNTUl1bFloZFdfbC1FNktXZW9fR080c2lvTGRvVVlzbnlIQWJnRzNwUVdUS3hLcTVlX1pTY19zc2F2TWl5Qy1TU1ZFelJoNnBHZzF4YnQ2SEZTbVlvN29mQ1FER1VGUy1VM0xBSEdUT2FKWVJnSklzb1REamFkcEl0bmU4VFYxcDUtS3pJMmEwVHZSM1hlTG1fNS1IOURwcw?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxONUJNamNuN05paW9pMllWVmdMUDcwMWN1di00UnhUZnZSM25PcTlsRmNuRVlpV3lQSDZOVEFQM2J0STdiV3Mwa3YtbzVDSjNYaU5lUExuRHVlWW5KTDNidk96cXVCSXZUaERPQmJXNnBpTHl6THJ4Mk1Odmxtc3Y0dlFCWlhqWllpSVVEOUhzd3EtS216ZllXUXcxSE82b1VSak02VkVnUXFnaVVvWjZiTUZ5WHlYdEhCYWc?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHVzNXk5WUVNenZKLTZQNnNBX1ZSclBxNEZYMzBUWm04eDlDbURxVk1xamUwWkV1Y1hrUGR0RzlUVlRUMnlUcTZjTWVTaEFCRWl0dDN1dEZadHlUYjF5Y0V4NW9keS1CU2swa1gxTFltN2pWLXh2YzVCZmtIMEtUcjNadW5zSEJRall2S3g0YzRGTDhndFBZbVBqeDFIcGc?oc=5",
@@ -7999,19 +7989,19 @@
     "https://insider-gaming.com/battlefield-6-season-5-patch-notes/",
     "https://insider-gaming.com/no-mans-sky-releases-for-iphones-ipads-this-month/",
     "https://insider-gaming.com/evo-france-2026-all-tournament-winners/",
-    "https://insider-gaming.com/hood-warfare-2-viral-call-of-duty-clone/"
+    "https://insider-gaming.com/hood-warfare-2-viral-call-of-duty-clone/",
+    "https://insider-gaming.com/wordle-hints-answer-october-12-2026-1941/",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE10Qlk2LU9mZjdmbE1CMWRtdTFVTDZmSmRvTlJqbVhSam9SYjlTeEVRdEw1ejdydU5BTFlSM0hsVUJLRzFDaDlGSVhjNFB0aTN0S3d0b1NvOWZuNGozaDd2emlMZ18yVmo3eVRPaVU0LTVmUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVExSTmJGcHczNktDVzdYWm15OWUyMzJHRnVRRkdLbzdINHZMNmMyaGVwcDdXQy1aNnpBQzBiQ2hXN3NuckVPMWphSnBEOGt2N3c4dVNBX3dsU19Ra1haLTJFNFFIN2hSOTJPUnR3Q2tVMTdMRkJ4WHkwb1RvdUpwM3ZR?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOZEhpRU1Hd0lEeFZGYllmSTEwYmdXelVNOGhUOUt6eG1kemVrSlRqTW8zTU1HNnZVcWVaTi1FUzFjUGVpOGJOZzhKYlhoOG9RVUZvZkVGeXdncUIzRDdicmlRbm9yM3FYSzE0QWNONlpEaUdjVFhZdnlYUUZxRUtQRWhoMzdkVmhReXVYSmt2STBSSFp2cHVlakxzUU91dw?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yNnRsbHpiVDAyOU5NYjlSQkJfa3ZkYzlkVkNhSHpvTVdBYnNGWU5FcjdiOGFHUlZaTDNVWGM3c0lkSWQ3bWlIQmpYREZrQnFldFRzVGFROTRETzdEUWhZMEF2VDBtR25CR19PckNnMmd4V0ZCMHlV?oc=5",
+    "https://www.hotspawn.com/valorant/news/g2-leaf-interview-valorant-champions-shanghai",
+    "https://www.hotspawn.com/counter-strike/news/thunderpick-world-championship-2026-power-rankings",
+    "https://www.global-esports.news/call-of-duty/call-of-duty-modern-warfare-4-activision-announces-community-event-in-hamburg/",
+    "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
+    "https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games"
   ],
   "title_hashes": [
-    "c6663d4ab57979930c233be68381e3cd",
-    "72a031ede5cb3a07f15e46bacadffe62",
-    "f1d05534e5de165b18cccdbeaa47edf9",
-    "add9ac6003dbbca97f751c749e995644",
-    "7265f849d66b7575ecdce3d4e846adf5",
-    "f466d6a4362b0bd8e1112f9db77f62aa",
-    "8fe20cd7b09736802f68b5773af70af9",
-    "a67daa3b4f68f8ea18d78cd518dcfcab",
-    "5f85f221d407bd55830e8574fd44263b",
-    "4aad7afa471f322212c5c26ce0f8994b",
     "66c695901c80c1cdec5e5a9fdd20160c",
     "ca1031d1b0f847922990369138116016",
     "d9d2b119f998d1efed120dee94f9f88b",
@@ -16001,7 +15991,17 @@
     "83573354464cdc38209225322588ffff",
     "3c3d79bf0fd672cea89198291e2e3853",
     "d85ca6c9a2b4cfd56000716ea1620cb6",
-    "b70a8c4ce835337695a589f76e09ad11"
+    "b70a8c4ce835337695a589f76e09ad11",
+    "63f6caa5aafe7ba370ffeea970435bbb",
+    "227d31f19744e4d177907693b5063e51",
+    "61d40fe46b70a9b00e502cfffb8094d0",
+    "bef49170f35deac94fbaaee5f549d4fd",
+    "3ff295b07a115deb1643f63344b475e2",
+    "fddc239ff20148c646065616ba224402",
+    "1ccfbedd94dc324d59bf05657e28d0e2",
+    "61f980f8ecb7eea8caca742638f8d8cc",
+    "b017af94175f5aa2aa26a58b44aba4ec",
+    "76d969a6975137c0f5f2469b5dc6f755"
   ],
   "transfers": {
     "pages": {
@@ -21036,6 +21036,26 @@
     {
       "t": "2 5 alternative call cheaper check clone duty hood looking might out post shooter theme unique viral wanna warfare you",
       "ts": 1791832970.7278488
+    },
+    {
+      "t": "8217 8220 8221 all babybay champions chemistry esports following g2 leaf nathan orf over performance redemption reflects resurgence shanghai t1 team their valorant victory",
+      "ts": 1791832975.9161906
+    },
+    {
+      "t": "2026 accepted across action almost bringing but championship clear counter days elite every falcons favorites five here invite likes malta not power rankings strike team their thunderpick tier top world",
+      "ts": 1791832979.5424573
+    },
+    {
+      "t": "4 activision ahead announces call campaign can community dmz duty event forward gameplay hamburg inviting limited look matches mode modern multiplayer new players publisher release warfare xperion you",
+      "ts": 1791832983.1135159
+    },
+    {
+      "t": "30 about creator dragon game has horii made minutes more new produced quest read releases says using yuji",
+      "ts": 1791832986.6186075
+    },
+    {
+      "t": "america away ditch games has latin more move nintendo physical plans read says there",
+      "ts": 1791832990.221348
     }
   ]
 }
