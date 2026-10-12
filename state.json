@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26234/how-miresi-refined-hyullas-art-and-gameplay-over-the-past-year",
-    "https://www.invenglobal.com/articles/26233/melty-blood-twi-lumina-strikes-a-balance-as-both-fighting-game-and-story-driven-experience",
-    "https://www.invenglobal.com/articles/26232/the-moon-holy-grail-war-reborn-for-modern-times-fateextra-record",
-    "https://www.invenglobal.com/articles/26235/how-sonic-has-kept-running-for-35-years-takashi-iizuka-and-kazuyuki-hoshino-on-the-present-and-future",
-    "https://www.invenglobal.com/articles/26231/40-hours-for-the-main-story-alone-attack-on-titan-3-covers-full-original-narrative",
     "https://www.invenglobal.com/articles/26230/alan-ritchson-to-potentially-replace-jason-momoa-in-sonys-helldivers-movie",
     "https://www.invenglobal.com/articles/26229/evolved-gameplay-through-open-fields-and-insight-skills-wo-long-2",
     "https://www.invenglobal.com/articles/26228/16-teams-set-for-2026-pmgo-western-europe-finals",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27043/nexus-dubai-entity-selected-for-uae-future-100",
     "https://www.invenglobal.com/articles/27042/azur-promilia-launches-dedicated-channel-on-content-community-peak",
     "https://www.invenglobal.com/articles/27041/zero-game-content-specialist-instructors-in-jeju-rep-kim-yun-duck-calls-for-overhaul-of-training-system",
-    "https://www.invenglobal.com/articles/27040/the-log-pc-cafe-playtime-increases-58-in-2nd-week-of-october"
+    "https://www.invenglobal.com/articles/27040/the-log-pc-cafe-playtime-increases-58-in-2nd-week-of-october",
+    "https://www.invenglobal.com/articles/27038/nc-releases-lineage-2-23rd-anniversary-lo-fi-album",
+    "https://www.invenglobal.com/articles/27039/two-ways-to-enter-the-endgame-early-in-last-epoch",
+    "https://www.invenglobal.com/articles/27037/don-lee-makes-surprise-voice-cameo-in-live-action-street-fighter-movie",
+    "https://www.invenglobal.com/articles/27036/become-the-king-of-transport-authentic-transport-sim-transport-fever-3",
+    "https://www.invenglobal.com/articles/27035/game-classification-volume-up-but-monitoring-workforce-reduced"
   ],
   "title_hashes": [
-    "a419f844f947f3d4176a9eda8d646808",
-    "e709c850a749a813db2e7b7ea61ec113",
-    "ecc0fc91ca0e33a48fa2d24d7b3a6fcf",
-    "b4f4839d3f47900d42b5f50a6e0d38c6",
-    "706661794306a67d62830533b5b248e9",
     "48347b5a890e7459b3f7b015f81b547e",
     "19f95faa76155daafa300d978b6f38fc",
     "d376f1098f156f7a002e01e357e39b11",
@@ -16001,7 +15996,12 @@
     "451cadf31dbe648b8bd68203f81b4f65",
     "7b67aa364aeb35247ca1f8f2ae98315d",
     "0775c8c0d6fcde55242431b2c0a11cbd",
-    "aa897207c7bd8eefe38fbaa3446e3996"
+    "aa897207c7bd8eefe38fbaa3446e3996",
+    "89f645fc8f71d7a3fc62114308cc2cc1",
+    "cd3540867c0ea10f4c9385b5167fdb83",
+    "034567d0ccb0faffe489876557dcbaaf",
+    "6f5e3bd86679264d5dac8f75ecb13215",
+    "667b276dc6db70024d542d53a18f9a8c"
   ],
   "transfers": {
     "pages": {
@@ -20840,6 +20840,26 @@
     {
       "t": "15 2026 2nd 5 8 84 approximately cafe compared hours increases log logaccording million nationwide october playtime reached released report second total week weekly",
       "ts": 1791797623.2337189
+    },
+    {
+      "t": "12 2 23rd album anniversary arrangements celebrate featuring handled lineage ncnc nine october ost playlist released releases remix service this tracks",
+      "ts": 1791797628.3169951
+    },
+    {
+      "t": "2 campaign character early endgame enter epoch follow guidelast last leveling new players quicklywhen step two typically ways",
+      "ts": 1791797631.8256483
+    },
+    {
+      "t": "12 action actor announced appearance cameo don entertainment fig fighter film lee live lotte make makes movie october special street surprise that upcoming voice will",
+      "ts": 1791797635.3746567
+    },
+    {
+      "t": "3 authentic aviation become fever gamesrailways king roads shipping sim transport urban",
+      "ts": 1791797638.8685281
+    },
+    {
+      "t": "30 administration but classification committee game games grac grew halved inspecting just management monitoring nearly number one post rating reduced staff subject them volume workforce year",
+      "ts": 1791797642.3703508
     }
   ]
 }
