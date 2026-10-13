@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDRYa1NKUjRRbnFXdWhXODFMd0RBVUtWd1ZpdDJ2N2pwX0dhTFBENlJoWlV0bnRBX19NUElmR0QxZWhFQWtYMFY3WXFlcU9yeHZBVHhCLTdmREZfdG9leUlVUmwyUjBQN2o3bWVYaVdOb2hQY2pQQ192Xy03akZ0dnhtWTVuODNlcXJURw?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMF9abTljbTRKZ3VjcXJDZWZQdjRuaVJpQ0s4TlhkSG56V2JHSFJNWkdUX1E2eVhGekdKbTgzRTZKcHN2d0hkaWY5ejRfbjRqRkowbG5qdDRPUWtpdm1USC1xQnZseFAwSTUwS0hvVERmZTk0ZDBob05URFJLc3ZwdUhlVzZUbnNWYVJCS3MzdENUa0Iwdm96MW9rYWdCZ2hEN05sWTVwbmZzejNVT3g3a2NSdWE4bFlIbFE?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRnF2VFJUYnp6SlZfUnJyemVodU1LRm1rakJlbzNKWE9RMGU5WUJ2UEVMRjFfVWQtSzdpeXhsVk1HOFJLOXNtRVJQS1BRS0dnWW5SMG1UTjB3c1ozeUtwZGppbkh6dWVzWnVaS3lpS1VPS1c2bVNpcV8xLXA4bmhqakJ0d0Z6RjZYcWlPaUtGLXNma204a2h2cnE2ZERtb2wtTWhZejhGTzh6bzVZTmdhZTRnd3FOMXlaOEh5XzhxU3RrV1NMZ1htSW95S2VnZzNqZnpudnd3?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTBRaWZ3WUJLdXZtTVl4bThLSjY4TV9nRGxScW9HSjdXNlZsdVByWi1CTXRfYS1GRThNY0IwZm85bE0ycHVTTmdIQnE4NFlEU0dYSDRnVFk5TV82N3N1QXNmMGdTUEtRSVdSOTROUF9xYzBfNFdta2NBMTMxMmsyM1NtNFZyYlNYeThmZU9CUWVCQnV3S25FdkVyNGxWM2N0MWR1OHRhWEVZWllqVjZZNDh3azhvc0daRk5RTdIBWkFVX3lxTFBaRGRqbkE3R0F5X2JSS0pGRzZINjFXTGwzN2tKbExBVklKRnZkWktYdjM0LWdmSDh6Q2IyRVo3bVhLOHo0Y2FQSEc1am5vaG9BYnBma2xlY2dndw?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRnNBLVFqTExSc2pycHptbDJYS2g3MXJycjdRQmVJdi1PcGQ1dGpnYnU4UlVaWGw3TEJ1Q291bldMZVp5WnRNVUN5NFVkcF80eUJKWUx5em1GSkZqS0Q3WlE2NDZjWkdNUjFJaGJiTlEtQlhxeGNBMm1Hb0tlYXduRkNB0gFWQVVfeXFMTVFSZkg1TjhhR0g1NG9Xc3lJQ2NwUlF2bFplcXhxM2tla0lvYlRMVnZ4aURaRXJyTjhGRnEza0UtOGltX2xYSmZMNXJuMlc5SklQQzFsQUE?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0s0S3Z6SFRldUgyN3VNNkxXQ0tSbVRnYzVvMFJXVjVyN1F4d21RVzh5ZWR5Z2psS2x2SnllQ1Q3MkluekY5Ri1kaGtmb2VTRUNuTHhEc2VYLVpkUVVpVjNxMkUycjV0NnV1Y3Z6bU45YVdCUmpWamtMd0wzZzg3TkpGVHZodWRybnpR0gFXQVVfeXFMTklxcHJSTzZPalFqREtnV0NybEtMX1l4LU9WOEFHVkVnWEtLUDhkeHppcWsyeENsT3NBZjBkb3k2bWl2MVQ2RUpQQUtMYnVsWUZfanh5NXE0?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0s0UE9GU2U0SEdibzdqOXJpbXlXOE1nY3NYNlQ5c2dHTnFMdDZXc2p2TXVJSW84ZWdLNE8tTlZUc2VJNjB0cWtsbGRlRVd1NEh2RkNhNnc1SkNBLUxaU1pqQkpJS3hWZWp4MlVLTFkwS0NrREZzSVlaT0pLUkR6VFBna3FiTXRCVEJJWmlkOW5uN19aUzBmdHdB0gFaQVVfeXFMTmRubzNDSnVkM2JPMWctcUIyeE10anJSQnZKVGptYWk2Y2Z2ZHY5WVpSajRRb3ZJM3JLYlozdkRYTmpQLTlmaVBlY0JXcTBIWDJiRWIzYkJyeTRn?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPclA5NThWWktVVjgwMVY0cVpXUFlxY2xwRTF3bGlzaGRzYktTdUhYc1pUOUVVRWNCQmVza1ctcjZQd2JzcExZTkZGUFQ1dDZ0MEpJV3NiYl9uRUVIZHVLRkZURGFzTTYtbENZNHpBTDRNT2QwX1haMGdOUzFpT0Q4LQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27072/just-dance-decades-of-hits-officially-released-on-switch",
     "https://www.invenglobal.com/articles/27073/level-66-players-emerge-on-lindel-server-streamer-server-status-for-the-3rd-week-of-october",
     "https://www.invenglobal.com/articles/27070/mu-online-adds-new-hunting-ground-arcana-library",
-    "https://www.invenglobal.com/articles/27071/studio-doodal-unveils-steam-page-for-hopscout"
+    "https://www.invenglobal.com/articles/27071/studio-doodal-unveils-steam-page-for-hopscout",
+    "https://www.invenglobal.com/articles/27069/he-man-and-the-masters-of-the-universe-returns-to-gaming-on-february-4-2027",
+    "https://www.invenglobal.com/articles/27068/t1-to-launch-minions-collaboration-collection-on-the-13th",
+    "https://www.invenglobal.com/articles/27067/playwith-korea-to-expand-seal-ip-in-q4",
+    "https://www.invenglobal.com/articles/27066/where-winds-meet-unveils-new-region-qingzhou-on-october-15",
+    "https://www.invenglobal.com/articles/27065/kingston-tops-third-party-dram-module-market-for-23-consecutive-years"
   ],
   "title_hashes": [
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "f00ea5954e2ca464504370451dcecc28",
-    "82b092c8a44ceffd900a329ac0c10bb0",
-    "bf60da41a0fd86e93646a43498b80c80",
-    "366a81da6e7cc6c7d3a244c8ebc020d4",
     "45d49c7db4d1f90b99a395a6a0c747de",
     "a08b565e4be76061ecf330b366b52f3f",
     "f7caa7623201fbadcdf55859ff9204a0",
@@ -16001,7 +15996,12 @@
     "aeccbbc3e31689e451e095459ada1b53",
     "c664a4f6cef87f57d38bca69a78846c1",
     "ef824c5ad7248ea4b9c9e669082bff81",
-    "eab2a925d5decc23e84ddcf86b00e56f"
+    "eab2a925d5decc23e84ddcf86b00e56f",
+    "539098e61ff56a765a4e6191ba69c394",
+    "a502186bcf6c9ab5a1be5c28bb883f7b",
+    "eb8e65da3e6cfbd85390cdcbb990fdc9",
+    "16d5f15a953eae75a84f38fb1e0aaefa",
+    "2d6fc44b0f8220909f99814c4b6bb2c4"
   ],
   "transfers": {
     "pages": {
@@ -21144,6 +21144,26 @@
     {
       "t": "2027 currently development doodal doodalstudio first game half has hops hopscout its logic new opened page puzzle release steam store studio target unveils",
       "ts": 1791855138.367836
+    },
+    {
+      "t": "2027 4 action animation based classic february gaming iconic man masters mattel new retro returns title universe",
+      "ts": 1791855143.6111434
+    },
+    {
+      "t": "11 13th amp characters collaboration collection depicted entertainment featuring hereinafter its launch lck minions officially release roster sports sportst1 t1 will",
+      "ts": 1791855147.0277889
+    },
+    {
+      "t": "asia business china domestic expand expanding expansion its korea koreaplaywith launch new playwith q4 seal services southeast through title",
+      "ts": 1791855150.4951296
+    },
+    {
+      "t": "15 developer everstone game games gamesnetease meet netease new october qingzhou region studio subsidiary their unveil unveils where will winds wuxia",
+      "ts": 1791855154.0195222
+    },
+    {
+      "t": "13th 23 announced coitcoit consecutive distributes dram has kingston korea market module officially party ranked south technology that third tops which years",
+      "ts": 1791855157.6951728
     }
   ]
 }
