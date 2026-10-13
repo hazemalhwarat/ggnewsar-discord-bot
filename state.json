@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XSkQtdDF5NHZtLWo0dG1EN1ZudHhWN0htVEktOFJMVklFWGdadTFOU2lIX1NOVUtaTU5fNmN3VU1JRHpUOFpzTGg3SGZxTVluQjc4bnBXRzFyLXJ6SnhiRTE1SGx0TkVteTlfNGF3ZmdWR0lX?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUtweUZuRzk2Vmx6ZFJ5cG9xSGFxRXdieWpsa2o0NGdDQkNqNG9QZVphM3Fnd2R1QVlpRzZsR1haTndJTGZMc3N4c3FBWV9IYk5nOUxuRXkzUk9EdUFmcEVsMFh6LTdJS2hmZ0tVd1FqRGMyNHNmNjhlNklQOE91U3VhRUE3dlRBV0pURmwzUXl0czVUN1NmdWZQNTlJcklqaUxlM29XS0V6dzRFU1E?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGFIRS13QzRxUTAzUFVMa1NfcGIxa0NJWERZOXo1LWhULUZvcTdhcnk1SUpzX3M4X08tY1Fxd2pSOXBna1BGUnc4d1Q5Z0w3T0QzMEl6WUhydmwtb2ROa1pjUTR1N2ZmVnhRblY1b1lod2MyMG5yOGtseDhGLUZRNF9YU3FLTUJ4VFpiZFVn?oc=5",
-    "https://www.invenglobal.com/articles/26257/parries-yes-dodges-nowhy-because-the-protagonist-is-a-zombie-in-stupid-never-dies",
-    "https://www.invenglobal.com/articles/26256/chainsaw-girl-heads-to-the-big-screen-lollipop-chainsaw-live-action-film-in-the-works",
-    "https://www.invenglobal.com/articles/26255/far-cry-live-action-series-expands-cast-8-confirmed-so-far",
     "https://www.invenglobal.com/articles/26254/racing-master-cup-champion-myeonap-i-won-because-of-the-avante-n",
     "https://www.invenglobal.com/articles/26253/original-charm-preserved-visuals-overhauled-romancing-saga-3-destinies-united",
     "https://www.invenglobal.com/articles/26252/hyundai-n-x-racing-master-cup-south-koreas-myeonap-takes-victory",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/27063/steelseries-to-host-aim-master-tournament-on-the-24th",
     "https://www.invenglobal.com/articles/27062/korea-boardgames-releases-three-new-board-games",
     "https://www.invenglobal.com/articles/27061/brick-by-brick-reaches-40000-wishlists-in-3-days",
-    "https://www.invenglobal.com/articles/27060/alice-games-unveils-first-person-woodworking-simulation-made-by-hand"
+    "https://www.invenglobal.com/articles/27060/alice-games-unveils-first-person-woodworking-simulation-made-by-hand",
+    "https://www.invenglobal.com/articles/27059/listening-to-player-feedback-kakao-games-takes-no-1-in-google-play-revenue-with-world-of-dokkaebi",
+    "https://www.invenglobal.com/articles/27046/emtek-holds-palit-brand-day-event-through-october-18",
+    "https://esportsinsider.com/2026/10/loud-vs-nrg-vitality-rematch",
+    "https://www.hltv.org/news/45710/falcons-and-aurora-players-are-most-picked-in-twc-2026-fantasy",
+    "https://insider-gaming.com/epics-disney-shooter-will-have-no-more-handwritten-code-amid-ai-first-push/",
+    "https://gameriv.com/arc-raiders-pve-toggle-could-change-what-makes-its-friendly-encounters-special/"
   ],
   "title_hashes": [
-    "ef34375e3ee130f7f2744d8e6b759e6b",
-    "0ef0f620811f635b4c5c0bd9740d5885",
-    "22c8f7b1b27525c39bcebbd88c353d6b",
-    "ae25edb88e2258440adbd2d143255f36",
-    "b81c84b5da8603e65d2434f775b2205a",
-    "339ea1bdb4c96a94b5291cec559b50e2",
     "8bf5b47c79c24c1f81a3058371883243",
     "9283d14ff1ee4548721b1fab6d64a5d1",
     "6c70b65f96e8fbc5e39a2638be604eb0",
@@ -16001,7 +15995,13 @@
     "063d28bc43f8b1b157aa9397e35c8fd5",
     "76a572188734165488d9d14f653978ce",
     "b26ff150725cbd11affd5caf6a455a2d",
-    "33fc7d1e5cbbef03217c7ea761946a8f"
+    "33fc7d1e5cbbef03217c7ea761946a8f",
+    "8248fa98227c4b4a6e9fac3b757c8591",
+    "d64ce5d98ee4f31dca81ba509c752391",
+    "82ae790f9835d503d287d411c47bb40d",
+    "837e498aea5216741eaf2fa4a1de7dfd",
+    "2f159a4fd2406b7c897f341a92b7876b",
+    "8a4aad544e6f74f0ed3266fcb53bdbbf"
   ],
   "transfers": {
     "pages": {
@@ -21184,6 +21184,26 @@
     {
       "t": "alice can entire experience first game games gamesalice hand has made person players process processing selecting simulation unveiled unveils where wood woodworking",
       "ts": 1791855176.5311475
+    },
+    {
+      "t": "1 dokkaebi feedback games google has kakao listening mmorpg new play player reached revenue takes world",
+      "ts": 1791855181.4945893
+    },
+    {
+      "t": "1 2 2026 after appeared bracket champions ended faces loud lower now nrg playoff post rematch route secure sending tougher upset vct vitality while",
+      "ts": 1791855184.9080226
+    },
+    {
+      "t": "2026 around aurora corner falcons fantasy game just most next picked players season twc",
+      "ts": 1791855188.9083178
+    },
+    {
+      "t": "8216 8217 amid been code delayed details development disney epic finish first games handwritten has have here more post push shooter team using will",
+      "ts": 1791855192.324469
+    },
+    {
+      "t": "13 20 another arc change choose could embark encounters experiment feeling friendly into its lets makes matchmaking october player players pve raider raiders running scheduled session special test toggle upcoming what",
+      "ts": 1791855195.7240884
     }
   ]
 }
