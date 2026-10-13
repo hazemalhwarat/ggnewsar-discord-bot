@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGpuMFFWOGY0aVp3QUVzSEF3a1hpajZMOGJIWFdMRmFsNmZ0RjNRanlvdjl5MVEtQkxPekhMamNWVzgwUGZpM1RRNFZMR0lKSG5DYUlPcGVKNUFiWEd3WEhMWHRkTUlXR3hDc2RERURFS2V3TUZxS2FhQ2V3eS1XMQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSZ2VwWGF1dDdJQzhfXzBycEl1ekZVdGo0WEZ4YmFrTWpKN0lBaWRWVWlLbG1jQURyMUxwWVo1NzBMSHZVQzQ5dnltZm5IeEpBMG9CN2ZQZTdqdnBiazlLazdR?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JNzkyTk1iRGhDVWY1ekNEdDlNVWhjYmFQZmlvMFF3a0QxdDgyRUM0WnRtSERyWUxEb2kxcjQyek1nczNobzVvWlBhRDc1STQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXVmFWX2Vab2haS2FuRzlCOHNLRjdTQ1d6TDNfOVAxYm5MRFVBZHA5Mi1wRHkzMUtPb3JVS1AzNGlJNDhCSDhmMWt0dC1lUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aOVkyeTdjMU1CSFREUjVxdVRKeTVHT3hiNmZtNFBtWDhycDAtQ2RWYzh6R3hrMUstMkktS3BlX1pTTGxaX01iVUR3Qm54SjRq?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZTGFsSlZKUUFtQ1hMc285dUZxYVo3OFNaOFFNNjZhN0FPQ0swT2IyVGxlUlN2dGFWNGwwb0c5T1pCOTFScFA3TTQxQ2tFaFZBMGtCM2cwNkFzRFhnOG5uQWFUUUtNTXozRkE?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wMGVxT3UtU2RzVkFUNGxNNW5GRzNxWFEwWDg2MWQ1Uk5wUk9lU0k3OTd4Q1JSS0YyRWdibkVSRlhJLW9Lc3VhTHlFYTg?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5bHBiUmc4elJPUG94ZDJiZFU2V0NVcTZtQ1N1SFpwQ0lpVUdDYzZxNTQyb1I2VW4zTWwxZUpLUy1IRVM3LW1mOXdkRjNvYVU4bDVz?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSTEtYXlqNjIzSExvQkUzblY1MGVmTWFDQVFMWGlNYlUySnNCRnluVmZnYlpYNEVDR2hGZUo4VWZjZl9FMHFmbUg3TjJHT1dDM1VBUUZxaUtVQkxsall3bVN2WUVHUjdJd05qMXdwdzlsWVFYVlVYc0paMmMzeVFLemFxZVJyR0VNN0daU0p6djdXZllxM2xGY3BvWGpwbVFlUWtkS3FnaV9CTEViUVhVNHgzazZlQUd4a1BQYQ?oc=5",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUENQTHQ1YXkyeFk5MkV0dlA4SnR4bmFMRW5UdzV1N0I1ajE5VmFORzF1bHpVNVFpNlM4b2xyMTllQTl6U2dqMEx5bDJyZ05lQk0zODFiOUNBN1k3V2ozV00tR0JXWEZwNVBGc0ZqNGNoMzFRa2QwRzRfeWJsY2EyQUl0MVdyVW9aM0NQWjR4dzZWS2xWZ0xQMnFMSFdWV1JQZC1OV2h0NW5DdkVfN0NxRlBqV1k3cGxpOXRsWW1wZ0FkU0ctRTJha3dLNmJWWWs?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUtNVENhdWhldDFXM3R0aDI4d1Ntc1NjY3BBeUV6QXVzVF84SmNwTVJ2LVI0NVJBRUh1RTRQdUQzOHg5WGZlNE5wQnV0M2pJZHlYMFVzQ2xramcyWi1rempvN3lORko3bDlqUUJUenNGRG5pMXdnSkQ5bjNLeXM5X2FIWFBZUk1YVG1LVVdFWEc2eFE4aUNTcE5BRUNzdmxvUVQ2c1FMMGhHVndtbFdjZV90clh1U2c?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Za3dPckxWMHk4UnZaaVZua3dHaHlKRkdHUm1JU1kyYUlwVjJ2dUhZTDBfVFZZWWdMZmtlajBDRTRoek9qMXJ1Nm1iWmx2eS1LcTBtaVFNRjZkNUNOMDdjN2ZmMkdmcDI4?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcEhfRUVPSHU1SFlmdmdlRklHOWZ2WklnbV9WdFI1aEIyTjlUczBublBsd0NrLUZmN0RhQTRLV1ZUdER6bkU1RHduTHZpdTdyVGNmSENpc2JWbkJLZjFjcHBDdUYtRlZYSWpJbS1rRjVSUjVyT1RPaEtZNkVyTE0zY1dB?oc=5",
@@ -7999,19 +7989,19 @@
     "https://insider-gaming.com/gta-6-pc-release-scheduled-for-q1-2027-its-claimed/",
     "https://insider-gaming.com/elgato-announces-the-wave-go-portable-microphone/",
     "https://insider-gaming.com/planet-zoo-2-twitch-drops/",
-    "https://insider-gaming.com/planet-zoo-2-beginners-guide/"
+    "https://insider-gaming.com/planet-zoo-2-beginners-guide/",
+    "https://insider-gaming.com/all-planet-zoo-2-research-topics-explained/",
+    "https://www.nerfplz.com/2026/10/lol-top-lane-guide-waves-plating.html",
+    "https://www.nerfplz.com/2026/10/top-team-comps-142-pick-resistance-olaf.html",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeE9kZzJLX0tJdGlFaDg2UlVVUDNMV3cyTnhCZzhCZDBnbjBCT05qQmNsaWsyZ3VMOHR0LS1xOEhfMGpXYllhaFF4U1RVcEJUdUJuMlZaZXZzWHd6clBBNXBJNFJwUkREOUNrY2I5RzRULVpKZ3NCSDU4NG9YTnRpMU45LW1qZ2tBTHJIVDl4RkZpWWFBOHdUNjZ1RXFXV2JkNVE?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVXdjdFdlVUdjOElRODlFTHlEUW9NeTlkNmNBako0ZnlqalkwWjRYLUxkYTBkejlSbmU2SnA0MG1odUlBVG5BNWJHeWhDSmMyTW9uSnF6RkVkWnh6WjlCaTltbko3RktTOVdVNjFvM3VlcjQ3eW9HX2FhMUg4UHBkOUE0aw?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemhmaktKMWJUNHpBcndVbmszWUo1ZEEtMzNqT3pFN3RRN0QxWVpSanc5RlRJbkd4NjhwWDcwYkc4RXQwWjl6eWk3ZF9lUm9XVEZOemw3XzJLanBMQl96RkplWm90Tk1fa0VOX2N4Z2FyVlRYSU1TeG5TWFJuNzZORkFIdURSV3FKTWc?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mbzFQc3pHZk9KQU03bHJyOW5DbDN4Yi1IcEpuQ1FLOUF1VW5TSzhvWF9fRTdaOTd4cUxRTVA1bDl4UVdTbEE4LUZoVGVtQ245WkFRSWFiUFU0UVN0ZjdxS281X2thVjZYTGdKX3ZWVmo?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOV9GWnd1UGtlcjVSWWpwbVpKaGoxSEFEZ0VnTU1vQWRXSHVUb1V5UlFaaklGYzB5MmNsZUZScDY0OXRtVi13bTFDXzJuVVBOdHlEWnZFa1M2azdtUzAxa0Q0NGVXc242d28tWUVxMTNXZ2Q4ZDJ3LWNsUEM2Zkh4TFp1NDAwR05XYmc?oc=5",
+    "https://www.hotspawn.com/dota2/news/everything-we-learned-from-blast-slam-8",
+    "https://www.hotspawn.com/counter-strike/news/m0nesy-thunderpick-world-championship-2026-interview"
   ],
   "title_hashes": [
-    "ced7779eb5ad2bb17f373c7a1a25d33b",
-    "ee21e5729f44833ed5f5f4e18a48cbd6",
-    "c9cb1e75a16bff9de4d7bae0ee062d3a",
-    "6af9b7e328788d3fdb1fe3d226bfa144",
-    "d41d8cd98f00b204e9800998ecf8427e",
-    "bfaf673a28a77ebdec085a77fb1ef85e",
-    "9b7d661e7202d0ba131f85588dbc6953",
-    "3a10fb17675161deb2dd8294edcf02f3",
-    "3a645cdae490cc589776d36c02641352",
-    "b6b728e07808e0a8e71d7bd64df1f80a",
     "fed7575439da063ada11234e08619fe0",
     "50526e4ea50c7026c3a25b8374490672",
     "2d37744cc4dac30149991c0e5a0c35a4",
@@ -16001,7 +15991,17 @@
     "7e674636a5c73f365a58f006e1ecfa19",
     "e1713f56bb35623f4029df845614af2c",
     "982e1a34e375e7322326525eadf43b67",
-    "4a2f34a866a0d913bd2ef83539594dc4"
+    "4a2f34a866a0d913bd2ef83539594dc4",
+    "b28754c5ef2c1db03227af17aef063c4",
+    "3a06146709faa0c603fb51b9e3ae85de",
+    "1253426a168a47ca2259ca22d86d3e1d",
+    "232781aea64df8040b696f113b9c6063",
+    "ca6ea3163a42ea13e683352db5e265a4",
+    "e83a76ee18c0e31cb7e99dfb9b8fe7db",
+    "45014418efb0ebf4babe107e70121f92",
+    "a0819508333b89a06f97b55f8f3a04fd",
+    "02d54f3236f288917f4b4973a085cdc8",
+    "9837d16d3bf96cd515d1920703103cba"
   ],
   "transfers": {
     "pages": {
@@ -21032,6 +21032,26 @@
     {
       "t": "2 7 8217 become beginner best can excel get guide help hints planet possibly post slew started thrive tips you zoo zookeeper",
       "ts": 1791908120.504039
+    },
+    {
+      "t": "2 about all amp appeared can details explained first gaming how information insider key planet post research topics unlock what works you zoo",
+      "ts": 1791908125.985818
+    },
+    {
+      "t": "anybody asking converting else every fix game guide happens knowing lane laners lead league lol longest lose map more plating really same teleport than their time top waves way what win you",
+      "ts": 1791908129.6367016
+    },
+    {
+      "t": "142 armor built buys champions comps damage enemy five gold koz magic nowhere olaf one pick picked resist resista resistance sensible spend team that they this three top types vel whichever wrong",
+      "ts": 1791908133.285998
+    },
+    {
+      "t": "1 2 2026 2027 8 8211 blast dota ended everything first has home however just learned ones only produc real season slam stomping taking team tier title tournament weren yandex",
+      "ts": 1791908136.9089866
+    },
+    {
+      "t": "821 8217 8220 8221 awper awpers best better built cache continues conversation despite each falcons feel get ilya like love m0nesy map moment osipov passing play player right team this world would year",
+      "ts": 1791908140.4123363
     }
   ]
 }
