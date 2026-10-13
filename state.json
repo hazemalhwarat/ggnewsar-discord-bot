@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45556/vitality-ease-past-furia-into-starseries-final",
-    "https://esportsinsider.com/2026/09/lec-versus-2027-format",
-    "https://insider-gaming.com/physint-canceled-on-zoom-call/",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nYTZQOUU0YWtHZ045TGNfOTJtR0lKdTlFc0I3Ql9QVlhCaGE2cHc5NjgtYU0zN1pzZjlFeEFWMUZuZXRwZ2E1THpmMkM2c2t6MnVqRmZtcmhQeGhwUTlucHExT0ZXa001djZr?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMThKRU9WMzk5S1NPR1N5b1Z5WkNGNUJKSnhJV1NfRXFvMFpzd2dDTTl6TXZyNGNKMUhHQ2I3UjdpMHlHZ2ZEaUhDTEJYd3RKc2MyaDkwZFJCUVhURC1tLVpJQ045Y1M1TVJZRjhBQUZwWjhnRDc2bzhCR25pYzRpcURCY0xCMWFBcVlwME1OZVluQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqa1RZVUtpTnlmYXRxaHpXeUR0WEpjNFctYXBhdW02bjBpbFJ5SmlsSTdBbjhvbXc3SGYwd0JqdFQ3NXNTSnBzUzlMZi1IZlltT3hGN09FN3BLRTlQclU0LW9R?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQnRwNG5IV3RjVXhkSHIwanQ1SWh4OHNrSE9NeHBnQlY1ZlZadGVJemNBSWQxR3l2OU81WjlOVDI0MzVZUWVCaDQyUGlIV1hUaUh6cmpKSXBVakVZQUpqblpEZ2xLV2otVXd4Q05EazFQczdhX0pSczNtemh4WTIzbzl4ajFUMjBxS2c?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUpaMXFrYUt2TGlRRm8xSmE3d2Z4SlE0X0M3eHNxLVAxbndLYXBCVVBKcjBKaGs2aHJFVXhfMnRPeTRjX3doWHcteEg1Y2ZsTUVrU0tCZ1g1enExR2cxLVMwQndNNGhjc24wUFY0TGV1YlJFRkx1Z3l3VEpQelU4MVpfemFlazQ?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa2tnWDEyem0tck1RaTJBaVZxWEIwNm1UOU9hR1NWV3g3Und6d3pNakg4bnQ2UXk1b1UzYl90VU95Wm5jX0VLSFhGOU5Tcl9qWnYwRW56ZHJGb1ZTamtiLS1TT0FuTDdva3RCbzFiUlVCV2llTWNCaklLcFd1X1YzUUR3?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXV6S0pHU0lQcEw3WUxLN1lNMllYZ1FIT0NtTG9VZ0hiTnZOM0NBZHhYYnpzTVUtNTJHQ3gzSWNoSFpmNzRNR3AtVXRMb3RiQ0ZJa0pGYjVYenRUdmZ5ak1EXzFjZ1AzcTJZcnB0N2NtMjVFSzJSbU1Mb09HdmNPdDZPbFNOSm5xNnFZ?oc=5",
@@ -7999,15 +7992,16 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3MtM0hGRXpLSXIyR24zR3E4a1QwQUV5NDFsMnVsLXFLalNuNjRmU1d6NkRPUW5pbXoxQTZVNFZiSGR1X2sybnZlYWoyN1hJelpiYWx4Qnh5TUYtTkNIT3BsaHRQRTJVNDA4YjJ4Rk9UVWxicGI1T3dMOEgzVE5OZmdaSDFEdmRSVngyUXROUWJrTE14d0E?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0hGck5hRGRobll4V29iWWxJTnNzbnFVMFh6cl81bEZQOHRFX2hYQVdyZzR0Qk9pbnhqdlJEUW5EWW1IWUNJVXY2Wk5XM0FrMmtFZkE0TnJGb0ZubXRpdUZLTXZRTVpfYm1YWmxRUHRBRVhTbnFQWFpqcUFiRmpTNFppTEgyTmhoMkp0dF9hOA?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQU5ZVno0dWVzQ1F5Yi1PTWxSTHdTUGRPNFNTbVJrYzRQSXZqRWd0NmxKX2N4NWVrLU11ejEwRmJoZ3NVOC1JZV9yNnFsLUZ4OWdMRlI4RDBwMi1zUnNWV0VlSGIyLTVxNjVoTG4zaWxlMWJzOVljd25hUXRGV3duVDBjdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXYmFXN2pub2lRQUpYUl9YLXpzWTdmU3ZTU1lrVF9fYmpxS3dCMkl6a21LU0NFLUwxWXJJLVJSUWo1ZUhNRmtqUE1WX0d1VTJNWFVYaGxjT0VHbkRobnMtRlZiYnoxQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXYmFXN2pub2lRQUpYUl9YLXpzWTdmU3ZTU1lrVF9fYmpxS3dCMkl6a21LU0NFLUwxWXJJLVJSUWo1ZUhNRmtqUE1WX0d1VTJNWFVYaGxjT0VHbkRobnMtRlZiYnoxQQ?oc=5",
+    "https://www.invenglobal.com/articles/27113/pubg-mobile-global-open-season-2-adds-deathmatch-tiebreaker-and-decider-map",
+    "https://www.invenglobal.com/articles/27112/azur-promilia-passes-20m-pre-registrations-plans-english-open-beta-for-summer-2027",
+    "https://www.invenglobal.com/articles/27111/konami-expands-efootball-championship-2027-world-finals-to-24-players",
+    "https://esportsinsider.com/2026/10/vitality-prize-money-rankings",
+    "https://www.hltv.org/news/45715/brnz4n-departs-mibr",
+    "https://www.hltv.org/news/45714/official-astralis-sign-siuhy-and-cmtry",
+    "https://www.hltv.org/news/45707/strike-11-another-loophole-bites-the-dust-or-does-it"
   ],
   "title_hashes": [
-    "4b91df843ce9e86f9dfbac601714f400",
-    "89020ba055e1f0381fef0f1b8a3b5811",
-    "788b86594f6fd1f8f1ce7d06dd0964ab",
-    "36e49f9bea789e88cf048ca8eaba0490",
-    "18cfe95ed59271e0fab8cb816afb4397",
-    "9d471e2b615e4648df5617af7e40dcbd",
     "5bc8c4cef6233c41f63b7bca7cb52887",
     "be139f760897660ad6d0782331708a5d",
     "d56b699830e77ba53855679cb1d252da",
@@ -16001,7 +15995,13 @@
     "88212361b90afd930a1e54883f426ff0",
     "bfaf673a28a77ebdec085a77fb1ef85e",
     "9b7d661e7202d0ba131f85588dbc6953",
-    "10977224271c00d59190a28d62da2134"
+    "10977224271c00d59190a28d62da2134",
+    "49071d4ed370b975756ece85c5cac786",
+    "df23f01e6e8881cc0581606511da7807",
+    "eb69f297eaa8e53e43b1f7a88f43a0f5",
+    "c823f7ddd5ca6d431fd8542b0b883378",
+    "733160c13a5efbe988c2241037dc7344",
+    "b3c5fd6d5f7af0d864abe8ac50c9faa3"
   ],
   "transfers": {
     "pages": {
@@ -20710,106 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "13th 21 adventure announced bpmgbpmg chef chinese cooking demo difficulty has high little released releases restaurant stages steam that",
-      "ts": 1791855124.6257648
-    },
-    {
-      "t": "13th announced dance decades edition entertainmentgamewoori hanwoori hits just korean limited nintendo officially package physical released switch that ubisoft",
-      "ts": 1791855128.1121876
-    },
-    {
-      "t": "3rd 66 ahead consumption eighth emerge enchant god level lindel nine october players rankings selection server shifted sol status streamer this week weekend",
-      "ts": 1791855131.522646
-    },
-    {
-      "t": "13th 2 22 added adds arcana ground hunting its library mmorpg new online part season update webzenwebzen",
-      "ts": 1791855134.9511416
-    },
-    {
-      "t": "2027 currently development doodal doodalstudio first game half has hops hopscout its logic new opened page puzzle release steam store studio target unveils",
-      "ts": 1791855138.367836
-    },
-    {
-      "t": "2027 4 action animation based classic february gaming iconic man masters mattel new retro returns title universe",
-      "ts": 1791855143.6111434
-    },
-    {
-      "t": "11 13th amp characters collaboration collection depicted entertainment featuring hereinafter its launch lck minions officially release roster sports sportst1 t1 will",
-      "ts": 1791855147.0277889
-    },
-    {
-      "t": "asia business china domestic expand expanding expansion its korea koreaplaywith launch new playwith q4 seal services southeast through title",
-      "ts": 1791855150.4951296
-    },
-    {
-      "t": "15 developer everstone game games gamesnetease meet netease new october qingzhou region studio subsidiary their unveil unveils where will winds wuxia",
-      "ts": 1791855154.0195222
-    },
-    {
-      "t": "13th 23 announced coitcoit consecutive distributes dram has kingston korea market module officially party ranked south technology that third tops which years",
-      "ts": 1791855157.6951728
-    },
-    {
-      "t": "12 agency amp announced champions corporationthe culture gicon gwangju industry information league loud november october open opens player pokémon promotion registration that will",
-      "ts": 1791855162.5791352
-    },
-    {
-      "t": "2 24th aim basecamp gangnam host master million pool prize steelseries steelserieson t1 total tournament will won",
-      "ts": 1791855165.96037
-    },
-    {
-      "t": "12 board boardgames boardgameskorea cooperative game games golf korea liar new not october quiz released releases three titles two uno",
-      "ts": 1791855169.515702
-    },
-    {
-      "t": "000 3 40 announced brick days games gamespaperpixel just paperpixel reached reaches small steam that tidy town wishlists",
-      "ts": 1791855172.9780705
-    },
-    {
-      "t": "alice can entire experience first game games gamesalice hand has made person players process processing selecting simulation unveiled unveils where wood woodworking",
-      "ts": 1791855176.5311475
-    },
-    {
-      "t": "1 dokkaebi feedback games google has kakao listening mmorpg new play player reached revenue takes world",
-      "ts": 1791855181.4945893
-    },
-    {
-      "t": "1 2 2026 after appeared bracket champions ended faces loud lower now nrg playoff post rematch route secure sending tougher upset vct vitality while",
-      "ts": 1791855184.9080226
-    },
-    {
-      "t": "2026 around aurora corner falcons fantasy game just most next picked players season twc",
-      "ts": 1791855188.9083178
-    },
-    {
-      "t": "8216 8217 amid been code delayed details development disney epic finish first games handwritten has have here more post push shooter team using will",
-      "ts": 1791855192.324469
-    },
-    {
-      "t": "13 20 another arc change choose could embark encounters experiment feeling friendly into its lets makes matchmaking october player players pve raider raiders running scheduled session special test toggle upcoming what",
-      "ts": 1791855195.7240884
-    },
-    {
-      "t": "brings bundle capsule collection creatures date effects four gun includes loadout look melee playful popmonz previe price rainbow release reported skin skins tiers tiny toy upcoming valorant your",
-      "ts": 1791855200.6854174
-    },
-    {
-      "t": "2026 6 act all battle called chunky clean collections datalink designs free hammer keepsake melee more new pass plent previews price rewards season selection show skin skins solarium there three valorant weapon",
-      "ts": 1791855204.1382651
-    },
-    {
-      "t": "2027 22 24 anchor began circuit edition entries european evo fall fighting france french game games handing its job leave leaves march nice oct operating paris promoter scaling stop that third will",
-      "ts": 1791855207.6141639
-    },
-    {
-      "t": "characters collaboration delayed delays developers disney epic featuring first franchises game games has its marvel model move production read shooter star tells told upcoming wars",
-      "ts": 1791855211.1050956
-    },
-    {
-      "t": "10 13 2 2026 esports g2 geekay mena nbsp siegegg stage",
-      "ts": 1791855214.7180104
-    },
-    {
       "t": "2 busan development director exile game games gameskakao gwangalli hold homers hotel jonathan kakao korean leading meet path players rogers showcase thursday visit where will",
       "ts": 1791879548.0294914
     },
@@ -21156,6 +21056,26 @@
     {
       "t": "2027 barça esports join nbsp proxh season set sheep sources vct",
       "ts": 1791908243.471955
+    },
+    {
+      "t": "2 2026 20th 32 according adds begins deathmatch decider extra global introduce lahore map match mobile october open pakistan pmgo pubg release season team tiebreaker when will",
+      "ts": 1791926140.2447608
+    },
+    {
+      "t": "2027 24 championship console digital efootball entertainment esports expands finals football free game has its konami mobile official plans play players revealed season world",
+      "ts": 1791926143.809981
+    },
+    {
+      "t": "0 13 3 593 886 after all counter esl final fourth leads league lifts listed money mouz now over post prize pro rankings strike summit time title total vital vitality win",
+      "ts": 1791926147.3962774
+    },
+    {
+      "t": "brnz4n call departs five mibr time",
+      "ts": 1791926150.9668465
+    },
+    {
+      "t": "11 again another approach best bites but circuit controversial criticism does drawn dust has loophole once policing right solution step strike they valve",
+      "ts": 1791926154.6063762
     }
   ]
 }
