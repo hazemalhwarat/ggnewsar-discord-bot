@@ -1,22 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN1Q2dWxWNFkzUTNwQWFpYVlaWjNVbmg0a1hTdEJyU1ZTT2Z3cFdSdEZKVFdtWW95VS02aE92YVBFN2tVTk9GeUtOdHNYdlJMYXNXWlZtQUs4SWxuNzlBakxSWUZJTnBJOENJNW9WTFhRM0VGLWpXT0NUaUpLeU8taHhuRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdzVnelRjV2RRUVl4U2VUR3h2ODZfRHFOblRYVV8yX0JXZmQtd08wVUpEN3JrejM1S0NjOVl0Mnk3c2NSd3E5MzRpQmxWQnd4alJMeWNfV0VQNHFWR0ZxT1prbUtwazdLVjVvNl9KRUFQMDNkLVZ3NjBQMEtpX3RpOXRuWHpsMWVpR0tPWnJCcmZMQnJoZEV4ZWJBMEFqalVhejVBelV0QjJCSDNwQUxPNlhQUlNkM2JkY3RmU0ZHd3JFMVdmOVY0cWdn?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzZSZlZ1Wm9hZDBhbktfM0RveUtrZzhsWmJzY3NpbFpYNjZ5Z2ZlLXF0cFBGemtNOUFLenBCZmFya0NWemdWZmxubm5VSWVnZHNpcjNlRXRKTVEwNnlRWHp2eDVGQVE5bGxqRkI0R2lTaTJtRndxMHNfWUNOWWdiQXZuaXptaUhvRGJhX2FKRi1vSVZQcS1Kcg?oc=5",
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM0hyNDJqWjg4ZjNZUnZGV1hrbUl4MS05eHZYbUxFWEZwVjF3bldyOFY3RG9WVVY0M19JRzlsWk84enBrLXpvemRxVXNibnI5dGRIYUw4WVljTWRieDVQM1FfWTR1UVdKY0RnWGhFMlJtQzhjM1JFcWpGbUk2YUxsUjVVbUJsYmFSUlltTlZLemVTNWJwbXpvcXJOdEtOc2I4Y1lPNDV1OUlnc1hzeTFVQVd0T0lQSlhleWx2SG1TWlA2Sjg2RWhMeFJUNDBsQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS0VENE9mMlN2Z0Vsc0F0aFhDdFJsLVF6OV9sZzBwbDI2SDBaMjBBaE5QbjNiXzIzemxXaFVBUnhvSkRSMVlmMHItR3M4OTBhUUZUZWRfLUlMTG5McVdGSU5BdEN2cFlUOVhCZ3ZxUnp6VGYxNDBHaF9CakdpRkVVZHBiQW1GVDZGcURJUkJYbVRnbVZhYlFPRDFYaXBQaXpJaFM5QUJIaE9sZ29BdXNEdjZBNV82YnJwZlFBUm9wQ3N1N3Q4TVRjY0luOVZyNkpxRUJkU2VuZUxBWWJZVjNrdWdERE91bmZXa3I1NFFn?oc=5",
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxObDlIRFp3a0NwVnJVRng0TEV0U1lpYi15QWJOdEhqQS01Q0l1NDBpem1lekJkUUtnNGdkZ29UQmthckJPdnppcEpvTUJZeXc3QXliSHVOS0NIZ3pGUkNsYUJoOVJSZmlWdU5DUWZLejJMZDVlNzA5TUZzNm0tcTk2Z2QwRzhxVVcyOWVpSmM4MGwxdGVPWFJFQXFDWmlYdnIzZzlMZnNuU0NudXdGN1h3RkQ1SGxSNjVMbXlJNVplRm1WNmxCWjA3bF9hREZaQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFZmdVF6dnAzeHhOM1Z5M2xqQzg1X05GYWNJajAyNUxGdE9TUjFfRmQwNkhHbURCTXJtaEZrTFVKRkxaYXJmTnZkQWpPSENOMDVvQTJfTDlFTkNUa3BTcXJZMFZLVkMwS0xoRkYyWHgta1V2dEZZTmM0c2piZ1dwS1luZU15SnZfV040MU5UMVhRZUxURlNOclQ4M1ZBREtnbFB3cU1tOUlVaEJSM1MzN2Jzbmk?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbC1zc0lfN1IxcDlWZGNadndaQmhJODF2VGdrMW5KNWV1QkxiVldacktZZ1JvZlpDWFJULWoxdWRKbHVRM0Q5ZXV3czY3anZFQnFfbWxPY1BvekpheXlKeHh6Q2JublVFZFc4TG4zZ3ZLY2RhRlF5QzhEb054cWdGc1dCejVpanlmb1ROMklOd0FySWU1SWtwTkJkVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEV2MUI3am03OThmU0JuT3RNZEhVeTNjNkhUbmQ5WERNd0JQYnhoRlJrOEUyN1hsMWUySHhyY3Jwd2VtQWVaVC1fRkEwbjk5NVlFNEgwM0FYdVp1QjAwclZyRl81T3ZaX2VPbVMxNlpvYjk3djNrUjZLcG9rMG9Yd0llbXVjNk9JSzJTelQ0X0E1N0F1ZEU0cUpmOXdZTUdHb3pPVw?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTUdnZ3ZpV0ticzB4WmlEeW91TC0tT092TGxyX1I4ZXBWbDF3bW5XZ3dVVHBZODhXbHBPa1Fya2hqZVd3VkZjUFpPM0xYMFRVeUdlbVNQV2NEMmtxVEI0UDdZS0RzZTlZTEE3SkVWeWJZWGQ4cGFDMjM5MDM1VklYQVQ5M2ZBZFBfdGstUFpEZWZaWGZLRkU5anNXUEl4Z1NjWW9XNVA1azNKWWN0R25wTW1PWHU3LVd0UFlfb0R1S3dsd2FveU1iSFFB?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeTFjMFRWV0l3TUg4VnMtT0NEdlpGR3FjUjBESzUxUmp0bk9hQ2VBSHk2NFA3MnNldlhDVC0tcFZwRGN3b3VEbzJCR0txMTBqS3p1cGtSeEpIWmluT1hWYUNfZUE4dkpkaWpGdUI1eVhfcTZzSVFNaWVIRjQ2M2ctZDFGQ2ZRNGw0ZS1nZXJxQ01SeHR2bm8waGctQ3A2eW05bjFTZjFR?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVZqWVhFZ0lyV3VsbzBIUHlHaHRyYml1dVJ4ejl3eUg2Y3FCS2RJWFZiVThELV9hTUFXbFQ5U3E5cjNyenJrbTZoVlpncmdwUTZORm1acWg2Y1pGelE2Q2pQanZNdTFzdHJOV09udGFXV2xvbzM1QlptNDF6Z1g1TURKM1QtcnJpZnY2RVZzeENuOHpJc2NrcDBTTVFaQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkJ6NW5IanVqcl9vWXhEQmRfYVgxdTRLelVLbHlXVzdKTmJqVTl4WFFXbVFlREVOWFgtTEpCOFNkTU1NdHhVSmtaLV9FYWVENS1MRmVQemhROWF3QllqY25KM1A3V3Q2MmJzVWtmTG5heThCNV9mVmlJRTBCamNzOWNuU3dmcmttLTRsanFEbDhwNTk4dnY1bE1Cbmx1dlJQOGdKVHZqeS1EOUNFRkZzUG56U2NkSXZf?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVBOdmlIeTF6WnNmVHduOGdWQVBIb1p2WlFYWW1WY1djNlBuTE9kLWx1NDdEcVQxaFRrbGxGSmtsc3hrVEhWVHljN1ltcUQ4SDhxcjVLX0g1QTdzR3RhYVp0a0ZWYUJ1R1FKTmNuYWRCZ1lwREtWY0R4VjVRMGZReWJTeEV4YmZsUWEtNFczSVlMdHdhc1o0a0JQbmpjaDFJNTRjdG1kN3Q4bGloR1oyUURyNHE?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkJtOVFuRDdWNTN1OEN0dXhlV2ZaMDg3UTQ1ZU1TMWl0ak9rVnNiSkFLaXB4Y1dkdDlYTXBXWjBMZG9Lb0pkY1ZFallPSFQ0a3RUd1VWVnVMVkZYMGc4QnI0S1VFM09XX0lGNFlicWUxQktkZTFGN29mLUMxaU53T1JHUEFEWUUwN2l1REZydnpBUHJKTGsxRFFTaTVwamNfQ3haV05fX3loRUR2OWc?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPSU1jazN1TWF1Z1EtWnVucnk2VTB0dmJDWGdSUUo5Q0Z2SVRlYWtKTzZVaDdENUpLYmZoaXpxYmc1cHhSbEdWR2c3UkdobWtYWDFQanNqaWh2eXhKZXQwUmVOUWtMTEdoaG9j?oc=5",
-    "https://www.invenglobal.com/articles/26263/south-koreas-lee-faker-sang-hyeok-to-start-in-day-2-match-against-vietnam",
     "https://www.invenglobal.com/articles/26262/10-new-titles-at-tgs-japan-game-awards-future-division-ceremony-held",
     "https://www.invenglobal.com/articles/26261/shift-up-ceo-hyung-tae-kim-i-didnt-want-to-give-a-downgraded-experience",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FeTczN3hsaGd5SnVHdlVlQ1k2cy15LWFoNTIyNk1PcmFFQ1pRWElsLWI4YVQ3VVhlQXVGVTd6ejQzSDhwdlNmXy1DaC02Z0JUa2tGNkNfbVpwLUZCZnVuTFlJSVZfRW44RjFoZHY1SVhNVHJkUkZGa25obURsQQ?oc=5",
@@ -7999,26 +7982,26 @@
     "https://www.hotspawn.com/valorant/news/t1-izu-interview-valorant-champions-shanghai",
     "https://www.hotspawn.com/valorant/news/ohnepixel-valorant-champions-shanghai",
     "https://www.hotspawn.com/counter-strike/news/thunderpick-wc-2026-opening-matches-predictions",
-    "https://www.hotspawn.com/league-of-legends/news/worlds-predictions-2026"
+    "https://www.hotspawn.com/league-of-legends/news/worlds-predictions-2026",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkQzR2NyZ0JvX2JSRmRxODNkQ0NKOV9JaWlTYlF5aENxNnBkMkVvdHVhQzRoSWh3VV81WmhfeFg4Q1g5c2RNVTkxVmpwRjB0d2VIdHQ2U2lMOVVKS0JzbUNETGhvY1RtRnJzS25CNjBEUEFtMDl0b3lFN2tNU3lnTHZhcVBWeF9XM1pZMXVKR3F3MUZpMm5V?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDdjNmkxOGFuQm9BeHYxNWloTThFd25hRXhKU0EtZV8yQy1ndms2bENVSFk1M0NGaDE4X2tBc2JNRXl5S05CVnE5MG5UVTFqYnktclBER1FHdnVhbUNjQy1sUEVqc1NxWVdJXzd3UUpUaGJNSXU1X2JzakZIOTBSYkRPYTVFaDRxcDZCbkExekRjVHNMRUdoclpIX0UxcU9FYVBBMGhtQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kVkZTdVB0S1dIS3UxLVRqNG95OXpRQWRKd2R1VGw0OGtMNVBDS0duOTNYd1lNaWRJazA5MTNPQ2NzSkEzcjRXR29fVFNqUi1CT1dWbWgyU3lsaGxBSEh3SThWOXJQLUhfRWpsaTJFRzhsUXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2RWdVJCQXB5YnR3NVFUeEhTTlVuOHdFWDZhS0VhcTZ0WjNqakN6emxRS1VMckFKUGNaaEpGQV9abGxDVU9wQW1XSXlYYW1CQUdGUXVaZnh3VHpiVlNGVjlYb1dNcm9TWkJYOFBwUFNyNnpGX2VKbGJ5bDRoelQ5c1lQSjdqdnI3V3dR?oc=5",
+    "https://esportsradar.gg/t1-unveils-collaboration-with-minions-for-official-merchandise-collection/",
+    "https://esportsradar.gg/activision-partners-with-monster-energy-for-inaugural-mw4-esports-tournament/",
+    "https://esportsradar.gg/riot-appoints-new-leaders-for-valorant-and-influencer-strategy/",
+    "https://esportsradar.gg/enterprise-esports-renews-gillette-partnership-for-fifth-year/",
+    "https://esportsradar.gg/british-esports-federation-reveals-partners-behind-ideg-2026/",
+    "https://esportsradar.gg/neo-confirmed-as-organiser-of-evo-france-2027-in-paris/",
+    "https://esportsradar.gg/ghost-gaming-partners-with-kennesaw-state-university-for-collegiate-esports-workforce-model/",
+    "https://esportsradar.gg/lfl-faces-further-uncertainty-as-team-vitality-pauses-operations/",
+    "https://esportsradar.gg/team-vitality-launches-2026-achievements-platform-ahead-of-esports-awards/",
+    "https://esportsradar.gg/heat-map-brazilian-cs-on-ice-after-betting-ban/",
+    "https://www.talkesport.com/news/valorant-13-08-patch-notes/",
+    "https://www.talkesport.com/news/fortnite/fortnite-ending-after-chapter-7/",
+    "https://www.talkesport.com/news/midnight-black-ps5/"
   ],
   "title_hashes": [
-    "55f3180d0d956c311d67393a842ed3d8",
-    "a6f454f36c10e62cb6d74c80c8318cea",
-    "9be23495aa706029c80e4c8c67125770",
-    "232781aea64df8040b696f113b9c6063",
-    "e779076686942bf7d24d7277b2627105",
-    "d7e1297b13b808de98aa5f38e67fedd8",
-    "a8ff611d58c004dee552c4a2f5795d65",
-    "e83a76ee18c0e31cb7e99dfb9b8fe7db",
-    "6d80900567cc0d6d7334e157d8f37047",
-    "e44d9a0fe09318c10c0cfb54efb829c4",
-    "599c5d6883bf02d2de757eda3acc6f51",
-    "45014418efb0ebf4babe107e70121f92",
-    "21fd112061a8a56a99f62a69d6356afb",
-    "e09fc569cad2248b20a230fcdbe545c4",
-    "f25d366d938cf6ad5401b423ded25f8a",
-    "e17076dc53ed2a6e47924becae8f82e8",
-    "5f74a2464556007db06735057fc762f4",
     "f5303e593d2eb2105df9162b3824ff8c",
     "80dc7fd0315eec7e4e339b3864dbca8f",
     "0e3499dfd8ec2e2ea8af457412585b91",
@@ -16001,7 +15984,24 @@
     "f5113f2cb9a21c0b03521e4f5440c008",
     "a301314a356593bf949c8aeb6cb10393",
     "8ba6be502c78f3dd21f521db151cff30",
-    "c8ed8acabd1ec2d168d07f902c25989b"
+    "c8ed8acabd1ec2d168d07f902c25989b",
+    "6d80900567cc0d6d7334e157d8f37047",
+    "e44d9a0fe09318c10c0cfb54efb829c4",
+    "3e2908bbafb4a5df49af46811d92ee10",
+    "06d6b4adde6c66b0476e2d444054629b",
+    "93c6e80c689168ac832514888d0fa626",
+    "4d5f0f01e70f58fce2a189346dda77fd",
+    "7d9c862b09bd07baa8b6cdca3d7d7dcc",
+    "79b863d7b8dfe54926c4eebc0da44d5c",
+    "2300eed19caa047f1062a3893ce63d8d",
+    "082af0454532288ec28b1152c6c63cee",
+    "c7d94af884e9349e8fea0b5f575de513",
+    "0051f888d7fa6d5ba659975078ee018c",
+    "f0ddcdafac7a4b92c8d42395a36dbf60",
+    "ecaf7adef27ad44a30882c9e1e6d28ff",
+    "86ca3b3df0640a74e4096efd1d7f6ad5",
+    "7a098032c4b4a522168d55575d7abb0c",
+    "a8d575777612fda38dfb5f8977acf160"
   ],
   "transfers": {
     "pages": {
@@ -21072,6 +21072,26 @@
     {
       "t": "14 15 19 2026 around begin compete determine every final grand happen november october play predictions run stage states team teams total united until what will world worlds",
       "ts": 1791908159.6359894
+    },
+    {
+      "t": "38 best collaboration collection entertainment esports experiences has its known korean league legends merchandise minions official organisation partnered products release south sports t1 team universal unveils",
+      "ts": 1791908164.9609563
+    },
+    {
+      "t": "activision announced brand call drink duty energy esports ever first has inaugural launch monster mw4 officially partners partnership professional tournament",
+      "ts": 1791908168.5092387
+    },
+    {
+      "t": "announ appointed appoints becoming director game games global has head influencer inkrott joe key leaders lee mitchel new positions riot role strategy taking two valorant",
+      "ts": 1791908171.9969292
+    },
+    {
+      "t": "2 7 around asked believe can chapter concludes far floating fortnite have last many players reality rumours some there truth what where whether while",
+      "ts": 1791908175.48636
+    },
+    {
+      "t": "5 6 auto black confirms day design featuring grand has launching midnight minimalistic playstation revealed same sleek sony theft version",
+      "ts": 1791908179.0559714
     }
   ]
 }
