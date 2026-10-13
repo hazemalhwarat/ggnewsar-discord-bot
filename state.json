@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0RGTEdNeWZYS1JSYkk1RjZ0amhjcUxnZk9MbEs4eGdGQzVpS3RSZ01oVHdRNjJ6TTJMTHozZ3JLNkkyR2pMSzI4Z3ZHVGVfZlZuejIybDZrNVZ5NlRLS19QOWZ2amNIYmZKMkZuZlBGVWVfcUFTak1Hc0liRHhjcG5QcjBNWjI0OTBNWE9ad2pjTWVXUG5LNWtQb08?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmljdDlsUkhsbkgyc2RWNThpQ1VVR3hkSHNhbVRqeEQyUGZnMjlhU216bzBPcm9JVkhBbF9xT2pFN3paMDdQVE05c3VYMTZuOF85SGhaNXhpalNGOHpYSTJiQUFzbkhfZmpVb2RUS2RZdXNmaV9tOExGMmZ3WWJocVpjOE1ocHQ0TGN6WFkwOTdMNWU1ODRMQ19CSjVTUU9UajVBUEdta3JDdVhjQVdaNDRicHNwcXRuNzNRaVduNWQteUdfb1NkSg?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWTJ1Vnc2RkI5VV84Q0dRVzNMMHlHR21wbE5wRkttUmxDWXhpUERjSGtuMzI0MThLZVZDZ0lGem1LdW5xZmlLa1VkUUtCOVR6dnF4SFM0WVpPRzVCNVdVYnlGYy1XeHRoTGFZcDJISHQxblRQbF83VG11Y2pkbVFXMXF5VHU0RlVKaV9TWGZjb0JoaFh4bGhTb3F3ZlhER0ViY0E?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWhRQ2xfY1NqNV82Ui1NTGFMd0VyOS1UZ0lrd0Q5N2Y2YzVpamdaQkZyMHpaS1g1bDZPazI4NTdfWGpFTGxrVHZWV0tGYlFReEwwRldIQ2Y5dXlUZ29iMlJEVkFfc3hpbHdwSjRjYWVja1daV2ppM2k4NVNRMS1SMkJKMVlacFlsYXkyR3RPWFFDV05lM1B1bWZFdG1LQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmZoRGZwNmxCYnhydlF3ZE1QbGNJRTUwd3FCdjlieVE1ZEk4aU9panVxbUJLTnBuNGp2MTlUWHBScG9WNUdLa3U0dmNYS1hWT0lGRlBVdzU3NGVqbElzLVRSbF9xa19hLUozckxUVmp5VGlDOW4wUzZLUWtkZndTV09HZkhMbGZjTHFBRHVWRXdQVmFFSDg1SF9uUUFncTFxS3dhYlZrWUlIMHJnZFV3c0hfcnVDSi0wZ2JON18yQi1xRmVVd2M4VGw2cGJfUWIzZFRfeFNIdEXSAd4BQVVfeXFMTmd0UWR5VDI0bEZVblo4emRKRFpja0hxS2Q4N1BQOWRBdEZMRXhYUndTaURUaDlYXzhQZUQ0TTZjNlBsVTM3TkE5Nkpwc25kSHpaZzB6TE95di16UkpUY2kzV2dqVFlBVjRFMGROeE1ja09sVmhHWVVFR0xsZ0FjMThVVUtLVW80Q1hQbzFmVHFRNFFUbnpRbTdsNEhKZ1o4enBSMHRfZkpyZ0Y4Q1pqSDFMZ3hmOTg4Y1RKZTJjdzd3dlBrcjl0SGhmRHZfazNZVlYwZXR3RFcxa3h0YlNB?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUlpdFJVZ3JDWkJZZ2tHTjN2VGFTZ29ubEJRR2FzcDA3WmF0aGNPbEl3dDBNY0VTY19HanpNeDZnNk85NkJDYUsxNTFVeVY0LU91NVpCbWs2ZlhDRmJmRUdHQ0o0ZmhfeUQ1Zlo3SUIzaVI0YW1LTGhWeGZiVWZQLW1fVFdTdTNIVmZmWUV0RkdmNU0zaXFjZ2ZCMXVVRlktbzdTdkJUNDExU1hEMkdybHRR?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVjlRNklBanRWakdZQnRILTUwM081QmxPX19XTTAzdEpLanpmSFlkTzFWVW1Fb1FHTjlfTWdmaDVhS2VqQmZ3UHd3V3o0MDdMdHNXbU9yZ08yOWpKZExvSHBrSHJ5Q2NSLWVDSXRpUnRjUDVyRzZiWlowTHVEM3pEeENGRmZ1MVFkMWNZTGhnY0FteWd4bFBmbHZmUl9ZY0xHb25KdEx6djY1ekNpUnVZREQ1NEwwSm95?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWnNuSlBJVFlFZ1hVWUdsZWp3c1NocTN4Wm1zcXpwZEhHTnZMb1QxenFwWDQ4UTc1ejR0c2JiSGd0Q3ZPWnFRbjZlMDcwTEJ5MFZ5TXAzaTEtcG9icTRCQ29BcF9BVXAzQnhkU0lkY0hsQk1Cejh2aXNPWDV1SHp4cjdWb3FWS3R3VGxXX2FoRUFNTnBlbG5UN1NhTDZnNUlhWFE0a2xYZmo2Tk04enQ4VkRoRQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27094/hunt-monsters-and-cook-feasts-monster-cuisine-begins-first-playtest",
     "https://www.invenglobal.com/articles/27093/g-star-2026-accepts-food-truck-vendor-applications-through-october-18",
     "https://www.invenglobal.com/articles/27092/blue-archive-updates-new-event-story-storm-passes-clear-sky",
-    "https://www.invenglobal.com/articles/27091/black-desert-mobile-expands-chaos-rift-and-launches-autumn-season-events"
+    "https://www.invenglobal.com/articles/27091/black-desert-mobile-expands-chaos-rift-and-launches-autumn-season-events",
+    "https://www.invenglobal.com/articles/27090/agf-2026-early-bird-and-fast-ticket-ticket-sales-begin-october-14",
+    "https://www.invenglobal.com/articles/27089/msi-launches-meg-prestige-edition-powered-by-rtx-5090-and-ryzen-9-9950x3d2",
+    "https://www.invenglobal.com/articles/27088/korean-solo-dev-roguelite-rpg-hexborne-releases-free-demo-on-steam",
+    "https://www.invenglobal.com/articles/27087/nc-to-join-agf-2026-as-main-sponsor-showcasing-astrae-oratio",
+    "https://www.invenglobal.com/articles/27086/wing-commander-3-re-release-pushed-forward-with-original-video-footage"
   ],
   "title_hashes": [
-    "78847c832766550f93c8e2cc2b4e9a3f",
-    "b61f2a7ccad595a68cdb420e8648ed8f",
-    "9798763e90c007474b83b43108947e8d",
-    "886fd05ba9e44cecd773882bfbd32699",
-    "95d486dfffc2541d7b2eca5b83a3c2d3",
     "c070227b8c793621f4ee7dab66454b21",
     "3490649991c4f41a907734cad7b3315b",
     "6e1a4b149c387d30498fd9ecbe8c5666",
@@ -16001,7 +15996,12 @@
     "daa50672d289c830fda6f94c428956e8",
     "289dbba5151d574b598eaf713b9db8b3",
     "b6c7ad1403c32aa0213d1a5b72055b86",
-    "ad573ecac1b6bf99ee228aea4beab94f"
+    "ad573ecac1b6bf99ee228aea4beab94f",
+    "b69da6fa33ac47be2ac1d1d830da242a",
+    "3fe36f3c8f87aed2bda567acda0df568",
+    "aa5d3d59e1a6178be85e99b1377c5472",
+    "31b0a97846fda5311eb632a4886e36e0",
+    "4564bfc2e95acc5ba5f0603fbd8ff06d"
   ],
   "transfers": {
     "pages": {
@@ -21084,6 +21084,26 @@
     {
       "t": "13 abyss abysson autumn black chaos desert dyllita events expanded expands launched launches mobile new october pearl region rift sea season stages variety",
       "ts": 1791879561.9884772
+    },
+    {
+      "t": "14 2026 agf anime begin bird committeekorean early fast festival game october organizing presales sales starting subculture ticket tickets will",
+      "ts": 1791879567.5749438
+    },
+    {
+      "t": "14 5090 9 9950x3d2 around built desktop edition end flagship hardware high its korea launch launches meg msi msimsi october powered prestige rtx ryzen will",
+      "ts": 1791879571.0018249
+    },
+    {
+      "t": "based been blowyamind blowyaminda currently demo dev developer development free has hexborne indie korean released releases roguelite rpg solo steam turn under version",
+      "ts": 1791879574.4516394
+    },
+    {
+      "t": "2026 agf anime astra astrae december domestic festival game its join main ncnc new oratio participate place showcase showcasing sponsor subculture taking this title will",
+      "ts": 1791879577.878518
+    },
+    {
+      "t": "3 action commander footage forward heart include jim lin live new original plans producer pushed release restore revealed steve tapes them tiger version vessella video wing xea",
+      "ts": 1791879581.302705
     }
   ]
 }
