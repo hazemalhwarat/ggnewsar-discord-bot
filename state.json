@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/news/valorant/valorant-champions-2026-bundle/",
-    "https://www.talkesport.com/guides/how-to-get-champion-focus-fncs-skin-fortnite/",
-    "https://www.talkesport.com/news/valorant/valorant-13-06-update-release-date-time/",
-    "https://www.talkesport.com/news/valorant/valorant-performance-score-explained/",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lalEtenc1OTVXMVY1cHNHSWRtMno0V2FPalFGZzBDTWszVmR5WUtpX3J3d0hPX0YwbGYwVWdBZWVOV3ZVellDcEdlblFtZ01FR0E?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yNVJqd0pBNVk1WUtvYTN5d1FhQ2laLTBWaHFJLWx5eG90QXJzaDdlMjVCVmNYalBBbE1SN3JMNGN1dTlMLVpBUWRJajl1OXJ2akhB?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3SE9LWDdNd0toYXRDaHNnY1pxamdLUDZXUTU4NjhyUWpGc0g2TEZjUUlfYUJ6SzFSU3dObndWTEt4Yk0zZ29oNXotd1UzUlBqcU9R?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRVDJRaUVNamlERjZGei1kaFM1ZUIxb1Z1OXpkOUZFMmNRcHRIamJBSFVTaEU4SlZ3M0F5SkhwRzJsNnZtaFZEMUc3VzRsU2ktaXE0?oc=5",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/fallen-village-valor-mortis/",
     "https://insider-gaming.com/planet-zoo-2-breaks-original-games-steam-record-on-launch-day/",
     "https://esportsadvocate.net/2026/10/forkast-shuts-down-esports-prediction-market/",
-    "https://www.hotspawn.com/fortnite/news/is-this-the-last-season-of-fortnite"
+    "https://www.hotspawn.com/fortnite/news/is-this-the-last-season-of-fortnite",
+    "https://www.hotspawn.com/counter-strike/news/boombl4-thunderpick-world-championship-2026-interview",
+    "https://www.hotspawn.com/counter-strike/news/kyxsan-thunderpick-world-championship-2026-interview",
+    "https://www.hotspawn.com/counter-strike/news/karrigan-thunderpick-world-championship-2026-interview",
+    "https://www.hotspawn.com/league-of-legends/news/demacia-cup-semifinals-preview",
+    "https://www.hotspawn.com/counter-strike/news/fallen-thunderpick-world-championship-2026-interview"
   ],
   "title_hashes": [
-    "19c668c7b5dc11a649941f474f977dae",
-    "bf0d6e4ca61e4a419d0e47a0cc04cc95",
-    "e2a9b60010c037bf0f0610c50ad3a9ab",
-    "612d51d562712e63895d0f25d1109001",
-    "2684fbe8ef20100a5f6fc2cd2055b72c",
     "bebd89be53c8697bac63e6db3d93e908",
     "f3657cd69cef17a232da51a1cc6c4c57",
     "850d1d695ede7a8ff8904a779f7082ca",
@@ -16001,7 +15996,12 @@
     "1832d4ca9b412446314e8b5175276d47",
     "af259132c314490c6a1744240427b5f0",
     "6136642c6cf38801de3414fe0e93dcd4",
-    "224df3f6e3b91ce1494286a691f2e4e5"
+    "224df3f6e3b91ce1494286a691f2e4e5",
+    "c460308ac893955ab1e665e91b554fb0",
+    "141c31aed59f604866dc65037f339e46",
+    "3786e4bc6dcc4777cb4282050e2ae6c5",
+    "45da25df7fa6fa43c59d6580ab4cab82",
+    "a3c4015c99a4ebdca733e9faf96cd0ef"
   ],
   "transfers": {
     "pages": {
@@ -21116,6 +21116,26 @@
     {
       "t": "7 battle can ceo chapter continued doom epic fortnite game games gloom last linked lot mainly now right royale season seem spectacle sweeney there tim who",
       "ts": 1791926194.6950202
+    },
+    {
+      "t": "1 8217 all around back best betboom boombl4 but counter days expectations game greatest has heights his kirill lans lives mikhailov most navi now our picking playing prizes scaled strike tier time valuable",
+      "ts": 1791926199.9423752
+    },
+    {
+      "t": "26 8217 been big bit come considered counter damjan falcons good great harder has him his igls intern into kyxsan long make micromanage months moving names next old one promise stoilkovski strike these three time years",
+      "ts": 1791926203.5139487
+    },
+    {
+      "t": "8217 8220 8221 about andersen before caug counter current deadly decorated disposal enough ever everybody falcons finn game good has his karrigan know leaders level more most not one roster strike talking than tools",
+      "ts": 1791926207.2107859
+    },
+    {
+      "t": "2026 8217 among been best china cup demacia didn dominates eliminated every fight has know korea preview qualify semifinals soon team that those time western which will worlds",
+      "ts": 1791926210.6875997
+    },
+    {
+      "t": "2026 8220 8221 career championship continue counter fallen final gabriel his home hunt looming number one plan retirement seeking stay stretch strike thunderpick toledo trophy will world",
+      "ts": 1791926214.1927862
     }
   ]
 }
