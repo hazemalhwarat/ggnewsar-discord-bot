@@ -1,23 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSWdlejdnVTRnNF9pS2hCamxJc2QyWG10T01OZHV3VmtRNmlHdTdwZGhDS1VrMGFGMUY1T05nSnl4NjZhenA1QmM1QkVwd3NyRE9QY3VwaTNXaVNQbFA0Q1dvRVlWNzNQZnBrX0NaUFdORlpkQ1pCQy02ODJ5bVU2eTctNzVOSVJqLTlOLUxDdUZFUjhlWUx0b3lhbV90MTJTRTNFNkhmNmNhZ2c2aVB3?oc=5",
-    "https://dotesports.com/streaming/news/kai-cenat-fashion-brand-vivet-instagram",
-    "https://dotesports.com/league-of-legends/news/mkoi-sweeps-kcrop-lec-summer-finals-2026",
-    "https://www.hltv.org/news/45555/furia-beat-mibr-to-set-up-vitality-rematch",
-    "https://www.hltv.org/news/45554/jimpphat-recently-ive-just-had-such-a-crazy-amount-of-confidence",
-    "https://insider-gaming.com/insomniac-marvels-wolverine-no-generative-ai/",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FNEdFZ0VGZDZ1aXpiX0tmOFBKSEEtTmdDSW1yc2s3dktqRWlRYUlwRTdMM0hmQkdBU25zemVtTy1ibUFsd09mTWJqdVk4MEp4Z3JQMHNxQlM5YTRHNmt3dWp0YklLdm9p?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGZiR3NnZHJ0dGlZT3VXUE9iU1JzaktpMnNkQXFRNXB3dDBhNTZzRk50NmZiMHVQeGhFUDRTVk1YVEhROW5uWFdLYjl3R0FCaHpYaEZiWXc5UU5ia29lNExRSGNtM3d5SU02UzEyR0lqT2FCZXdpQmZfSFhCTklHc3NPMHhPX0szR1lrM19WSTZ3VG0yR1lHUGlER0h3NXfSAawBQVVfeXFMUDd3X1AtVlNZbGFsWEQ2UzhvWU1RU0FGWFlteXpuQWFCbEtlU3M3WVFyY05BcUdUQVZfMmQ2ZGlSeW9Xc1g3Y19JbzdwSzhFd3dfZ21BazBUTjc2ZFRmM1JTWlpHazE4ZzA4bjNHVFpQc0xPMDk2NE9STFRJel9ZdDlfbG5PVUhQaGtNaEQ2MmlDdzctVVJhSTZrX1luMklvcWtmVTI2MjUwcUREOA?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaU3hxeVRmYU5id1RLRzcwM3ZCQVdUV3R2aTVvOXBtWi05VUNqdG1KSDU1SVRfN2N5M3JVY1BzOWQ1OXRoY2VETjNVcm9lMVJIQnBNa19mNVBnLUdQTVhNVzl1UDJCOHBVNl9PU1NUUmY?oc=5",
-    "https://pley.gg/cs2/a-look-into-astraliss-struggles-jabbis-exceptional-ceiling-but-uncommonly-low-floor/",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSF83Q2tlVnZ4WWg3c1QzTlU2dWl2NlJmSWZJN0Jvb0xGQ2x1OWdZNHJlVlRjTV9aSGVZWlFmcm9UUXItYmVqa3hYSGVhM0ZpR1JVQVFDaWhxNTJhR3RHeTVBVzRkT2NkZ0EzamItWVROTU9oOFo2UWUtYWp1X2RKNndaMVRZY043dEM0RjZGak5FcVlscHJvODFsMktncjlCTHRtbGt3dlFoZw?oc=5",
-    "https://insider-gaming.com/nyt-connections-hints-solutions-september-20-1197/",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeE9kZzJLX0tJdGlFaDg2UlVVUDNMV3cyTnhCZzhCZDBnbjBCT05qQmNsaWsyZ3VMOHR0LS1xOEhfMGpXYllhaFF4U1RVcEJUdUJuMlZaZXZzWHd6clBBNXBJNFJwUkREOUNrY2I5RzRULVpKZ3NCSDU4NG9YTnRpMU45LW1qZ2tBTHJIVDl4RkZpWWFBOHdUNjZ1RXFXV2JkNVE?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hQWlNVDE1MGYwRHktRk1PZ0dfbV9XTXQ3NG1rcEF5bzJpMmlvNFhFTXlVbEdyaDk4ZFpZNDMxQWtQQzM0TXhpMlc0d3dfSUdkRzNoaWFRXzdrNldnZUZ0cGxlcTFNVGdCMHhxY3hRb3hjcmZnVHRKMQ?oc=5",
-    "https://www.hotspawn.com/dota2/news/pgl-wallachia-season-9-day-1-recap",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWndSTW9wT0xKZ213TkZkYngtdm9ZMnZsalFNaEotRllPTFJQZW9mWXh0eEtFQ01LaWE3LUhNQk4zcWdUSFFwTDh1a0NCNjZZODRuN1BMUjQ5RXdhRmdoYU54MWtuZjZMcTAwZjd2YWxXZ3RWNHduX3J3cEJWMmNjOWJlUVdXMGU2Wnc?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemhmaktKMWJUNHpBcndVbmszWUo1ZEEtMzNqT3pFN3RRN0QxWVpSanc5RlRJbkd4NjhwWDcwYkc4RXQwWjl6eWk3ZF9lUm9XVEZOemw3XzJLanBMQl96RkplWm90Tk1fa0VOX2N4Z2FyVlRYSU1TeG5TWFJuNzZORkFIdURSV3FKTWc?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkQzR2NyZ0JvX2JSRmRxODNkQ0NKOV9JaWlTYlF5aENxNnBkMkVvdHVhQzRoSWh3VV81WmhfeFg4Q1g5c2RNVTkxVmpwRjB0d2VIdHQ2U2lMOVVKS0JzbUNETGhvY1RtRnJzS25CNjBEUEFtMDl0b3lFN2tNU3lnTHZhcVBWeF9XM1pZMXVKR3F3MUZpMm5V?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDdjNmkxOGFuQm9BeHYxNWloTThFd25hRXhKU0EtZV8yQy1ndms2bENVSFk1M0NGaDE4X2tBc2JNRXl5S05CVnE5MG5UVTFqYnktclBER1FHdnVhbUNjQy1sUEVqc1NxWVdJXzd3UUpUaGJNSXU1X2JzakZIOTBSYkRPYTVFaDRxcDZCbkExekRjVHNMRUdoclpIX0UxcU9FYVBBMGhtQQ?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS2dPSnQwRkVBcS1seXZLZ0NkVGtGLWVrbTA3LWhTbFM2NDl3YWpHV0ZhUDVZdVR3TnFXM2ExOGJyNjNEVmxhdk4zU0h2dTNadkQwdDd6TDY0Q0JVY0x1VUYtaTlGblRtZVFYYTlOWk5IV2x0Q3JJNC05SWpmTTlFdGJPaGdDR1V2alAyWk9kTGZEak5PdzFvNnZ2T0ZjY2h6Zkl2RWRjNA?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mbzFQc3pHZk9KQU03bHJyOW5DbDN4Yi1IcEpuQ1FLOUF1VW5TSzhvWF9fRTdaOTd4cUxRTVA1bDl4UVdTbEE4LUZoVGVtQ245WkFRSWFiUFU0UVN0ZjdxS281X2thVjZYTGdKX3ZWVmo?oc=5",
@@ -7999,27 +7981,27 @@
     "https://thegamehaus.com/fantasy-football/good-college-football-fantasy-team-names-2026/2026/10/12/",
     "https://thegamehaus.com/college-football/college-football-week-7-picks-against-the-spread/2026/10/12/",
     "https://thegamehaus.com/college-football/college-football-week-7-picks/2026/10/12/",
-    "https://thegamehaus.com/mlb/alcs-series-preview-2026/2026/10/12/"
+    "https://thegamehaus.com/mlb/alcs-series-preview-2026/2026/10/12/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-defenses-to-stream-week-6/2026/10/12/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-players-to-add-week-6/2026/10/12/",
+    "https://gameriv.com/lol-patch-26-21-preview/",
+    "https://esports.inquirer.net/36383/evolution-team-sweeps-kadiliman-esports-in-the-crossfire-legends-sea-championships",
+    "https://esports.inquirer.net/36379/clair-obscur-expedition-33-knighted-by-french-ministry-of-culture",
+    "https://esports.inquirer.net/36376/kelra-moves-to-onic-indonesia-teams-up-with-kairi",
+    "https://esports.inquirer.net/36371/crossfire-legends-sea-grand-finals-takes-the-clash-to-manila",
+    "https://esports.inquirer.net/36367/t1-faker-open-2026-with-a-perfect-lck-cup-group-stage",
+    "https://esports.inquirer.net/36363/xavi8k-leads-global-esports-in-rout-of-zeta-division-at-vct-pacific-kickoffs",
+    "https://esports.inquirer.net/36360/filipino-valorant-players-see-mixed-results-key-stats-highlight-early-vct-pacific-kickoff-trends",
+    "https://esports.inquirer.net/36357/blacklist-international-boom-esports-gear-up-for-honor-of-kings-invitational-season-4",
+    "https://esports.inquirer.net/36353/aurora-ph-sweep-alter-ego-in-the-m7-grand-finals",
+    "https://esports.inquirer.net/36349/team-liquids-golden-road-at-m7-world-championship-shattered-by-hometown-bet-alter-ego",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSTXRZbUFvUk4zRmRrMk9rb1NtQUIzVERkR2NBbHdmaGYtcW9pWTJNZTBJLUwzVnNSWW9QU244VDJGSTh2UjJUeUJNVTQ0TGtrRXkwWmNsZFNUTDc3Z2dTLVRfZTZzX3BKeEN5UWlfSnlMdXM?oc=5",
+    "https://www.talkesport.com/mobile-gaming/bgmi/winter-is-coming-back-in-bgmi-4-7-update-in-november-2026/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/pubg-mobile-4-7-update-release-date-revealed-check-new-features-and-details/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/13/215832/enjoy-gaming-phoenix-roulette-x2000/",
+    "https://europeangaming.eu/portal/latest-news/2026/10/13/215828/maarten-haijer-wgba-director-general/"
   ],
   "title_hashes": [
-    "109fef79e891ab07201b5d6771fb772f",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "0c4252da742ae18096d474f3086e595b",
-    "bec262c79fd4853603d1bb8b08bf1414",
-    "e99d1ff0ef6b51e96a359d70813b2757",
-    "bd6af5aa379c5fc360ced268ac75b5a2",
-    "6f3812037de53b3ccce56903f6505999",
-    "805129ccdf1291ec5466c7a7a8ddec16",
-    "0ff2ee7e8ec02db5cc0ffeb87997e7c0",
-    "9c4d41577643d60e03d3cd4512c91eea",
-    "23690feb6b51cdf9c714507a9bc0c194",
-    "9e8ca645535ca72418200da358a97c4f",
-    "f8bca64762af4d43d42f6025614416a7",
-    "7af8806d6cb0950523142cb5f454cadf",
-    "efed149fb21ef44291d3e53f057fce70",
-    "1738f568fb6e1cc70d73feeb198e05b4",
-    "2b538de72a6c3889f5a95f60f86fc088",
-    "ddb0c11b3c2e08abd86b90d557940d9f",
     "4ed50bce4b7c88a6cd6ba883afcc84f3",
     "ce644962cf79aa0fb390f5aeec3b84f6",
     "802db9327c6a440201c94d5dac53554d",
@@ -16001,7 +15983,25 @@
     "61f60c4e93f93b0b3eb12ae455463521",
     "91ebf8c900793d899fe058533c819db6",
     "c07ce3074146724b13bcbf0cd9f9446d",
-    "4b26dcf13557b97cb12f60677db9b7a6"
+    "4b26dcf13557b97cb12f60677db9b7a6",
+    "da8c958986b99261961b088ba72db1b9",
+    "eae2caa4267c776ab0b437c4e6b59232",
+    "e5ae27db05a7665d098aa1b189c3d992",
+    "a20969c9edcd9bc628e66635fc4ff304",
+    "5a80001f358b8b1311eb8780696ce681",
+    "149ccb2b2e202eaaedebb58c0a98caab",
+    "077a0c9274f9c38fcf93e1cb4569052a",
+    "842883a516401beb49d18deeaf67aacb",
+    "0b5da1a6b739637dbb7bc743dbb6696b",
+    "b2a0b08e7b36abcfbb03888dc52604a8",
+    "99f8b9c8feddb0a7b179c32d0d2518f5",
+    "93f8dd6d789641ab6b539abedcaa51fd",
+    "326f1042a57a173b109dc8418b4aaebc",
+    "1d1065f27e85438b859f2afc3ea666c5",
+    "0e5220d866e74ff8f1254c8dd2082b4f",
+    "81243bc9b8b9f7c6248f6da600e84db2",
+    "938888d6a36adfd39747b79b9c8eac14",
+    "2b2724461b99567805db1db5534dde7e"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "2026 alcs away bay between cleveland game guardians home matchup monday preview rays serie series seven split starts tampa teams three two will",
       "ts": 1791879638.8431227
+    },
+    {
+      "t": "6 acquisitions biggest defense defenses each fantasy find foot football here look make matchups one owners starting strategies stream streaming their waiver week will wire",
+      "ts": 1791879644.1551864
+    },
+    {
+      "t": "6 acquisitions add but draft during each fantasy football good having league made most need players really season sets several team there time week well win wort",
+      "ts": 1791879647.8896623
+    },
+    {
+      "t": "2026 4 7 also back battlegrounds bgmi boss bring christmas coming dragon get ice india locations may mobile mode new november players powerful set snowy themed update vehicles winter",
+      "ts": 1791879651.3322885
+    },
+    {
+      "t": "000x 2 2026 8230 enjoy extending gaming has launches multiplier multipliers phoenix post product released roulette third variant x2000",
+      "ts": 1791879654.9692986
+    },
+    {
+      "t": "8230 alliance alongside based betting director first flagship formally gaming general geneva haijer its joins later launch maarten plans post report this world year",
+      "ts": 1791879658.3867023
     }
   ]
 }
