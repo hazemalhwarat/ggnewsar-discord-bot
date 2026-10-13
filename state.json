@@ -1,23 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTUQxa1B2TmhYYi1lWFVpRFpmYk15eE45VVFtNlNkUDR2YVQzLVFHaTR1ZnhubWVWTHVyYlZoRUxKbHJ3bVo2Y05VV0c3bm1hQk55Wk5vc1MxZlp0Q1I3UFlYeTNWQ2VTZ1FFT2s4VkNkd01ocDFnZVpQbnJzd2ZROGZPM2tTUGo3bEJF?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeEJmdGpNT0psNTZJb29sWVEyOVpfMl9zSGQzTmh6SjEzUkxrTzBWU2VhcFhhU2pHQkR0dTdZRXRJUmQtNkhnTTVfUnI5Skl3TnhVb2hIQWdFUy1SSTNLTk16Ui1DUWpLQktEMU9jbFN0R0Y3bVJOam9VUV81em5rOFZqOVp1V0QyVkM2X3BJLV8?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBza1ZBR01QNGRfX24wTGdSVUllN0t1MXFpZ3ltNEl5c0hVcmZSNHYwbWdmNk5iY19mV21QTU9yT2lkNi1kYWdfVUpQYXB4SXR6MjZrZVFfT2VMeVdaWk53aDR3ZUxpdw?oc=5",
-    "https://europeangaming.eu/portal/interviews/2026/09/20/214440/aarti-carl-eeze-interview/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0ZHpqTXZtS3c2LXhQNng0YXBDRUU2NW04bVVEUmZjZVVuakh2Qm9WZVk5cDNPSW9TTlBHQVhmRFlROXJadWp0RXlsWWY4WXhqR1FPNGpn?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RRldZejUxaklDYzNDMF9xazVlalN0b1JVWU54aGRwNnRObmNEc29GMWlIRFZ3dHZuWjZqNXpmcEdaNUdWVkRIc1UyUll5SkhfRUcwM3UyWGowWG8?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HRm5ySUJpd3paNkpTMEo3SnJ3MEZyVGk2ME4yS2hfMC1LUUhPRlJ4ZE0zblRfcG05eDJkU1hMQ2hxczJsRFpNbXZNOTB3bHc?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVFllaGdoZ21yeXFHTmQzMXczUlJoRFM4NEYzd0RQNDVTbFJRQzRYNFBhYmoyWGtNSUpKZGlUVGtQLVlVYjBDNzRhMk50S3Y5QnVneTJ1akxmV0wzdTBCbjQ1N3ExLTNJQW03YTdMdlZxdlhXMHZGZFgwa1p6QlkwQmZEYWlQME5fbHZ6Y0xOQi1JMjA0YUHSAa8BQVVfeXFMT2pGYkFVdE9WYW5PYUlxeGM4ZUFfUkJPcE0wSUh3SFBlalZNNTM3M3Z6Q3dJOVN6ZFVGa0ZuRWpOOGdnM25UamJRTUZZaTM2VVQ3bEZRd1JSTjhBSFZzZDcwZEZ5eDdsWXVnS2o5bkFaZDNpd1VNM1BZYThxVzI5Qm5HVVltNTRIX2FXb1htRFY1X3lXUThSMFc3ZDFRdVVRVC1rLXpmaU9zbXdTUVFOSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QVlV5d1AzaWpVeWhGR25iYVBFZVZZbXFtcExGWnVidWNKNXhMSGlVSFRiY1E5bHV0RnNRZnZjVlF0b1IwMUlOTlVTOFhCdzBJV2drYUw4R3gyRndmblZpU0t1SE5obVhV?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UMlNMWlRlU19lVVdoUG16bEZSTnZhdTJBbnpOZTVKdVN6cC1wZzE1NUpxeFJFakZhNng2RjBTZGtSVW5FOTJBMVY4T2U1eDM0SERwM1NrN3U4VkdZQ08yZm04UFNTOHMw?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13bGRVMzNkSjRnQ1FsN2JvVHF2Ny02cFhtUTJVN0RRSHhVRDdFdmlxSldzYXJkeVEzMlhscDJMQ001eG83TkxtQnBjWU1KYlh1QllwT005UGp4Sy1LTTRiYmgtNzhuWlE5?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5cFZPcERTZzRfVWtRaXZaZjBWR3dqYUZMTjY0T0Vid3Faa1g3VFROdUFBSWNYNDZjSGdCVVk4V3QwbDZTUWR3d3ZGeUg1NXZXVGctamJXM2xCaS1xU20wOWtxQjFHQzZa?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43U2xNZU1zaWxBUzB5SU1maXlQTDNyaGZJY0pBMzZOUUVWa3IzbUxWV2pUc2xmOGhOYVJ0NFZpNVYybml0aEpwLW1LQnhCaE50dzdj?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DZk9LOFBxbHJJT0M2UDh0cEFVeFVkUEJfcmt2SnZYdFMySE44OEkxLXcyLXdCV2luOGtJb0lvVTY2ZDNvclhncGtLVUFFSDVVUFE?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52WlI0WDNXXzZvc2kyNk45T2pqdUIzajlqN0pBYTQ1bk1uLW9VRUE5OEFEemI4M1F4R0p6UWpsUUlRN2hUa01HZkFmRlhrYlY3YTFR?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYbjRQcTl5ZWdNUzU4NHlmWDV4NEVBX09lbmc4Z3YxQ1RjOTQ3TlNlNnNFUnIwZTFESWZxYWJ4MTI5a0pwQng0SXFzMEt6Wk5vcVc0?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11VkU0bTdKM0ZVRnFZaEVLNE9zdV9oVVdYSFhxdjdEeW1IS0dSS2R1Q0kyYUlVb3lEM3BETGZZVVlDWHhhdkxIMkxJYzZvcnNnQXhmZUNKTVFoOXdjUWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVdzNQVU1uS3JOZmRPbnRJWjdlcHBMd1A5dTBDb0ZZaTg0VXkyVExXSlVQTU9Qa01pa2RvUVNuVEZRSTVQTk5sdEdDUXkxSnhiRGg1TzNaRzJBQQ?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0hzbkdnaHFaWGNETHZiNW5jT3FoMlRBUk5uWlhTS2xpb0R0R3pFQ1dpTXdwdjBrdXpQV2lvTlJ6Ums1UWZCcEVwRFJBREwtX3FYQnVSVFRKN0VRTmprVTJ3T1hYazNZaU1ycXhtUWlYU2Q0bzBTZjJLdE1oUWN1eXBJLWN1UDBjMmphcWpFVVBXM2UzRHBHa0R0WTFKZjVsbXowV1NR?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tak9qeHBKcFFmRDF4Snk3blhqYmRUYURuWlZMV1R3ZkhjcGxBanVGcjI5VXRlWjJLTGltYm9tZkxIOTlkeGFpTjA2LXRVbDNOYlBhRExXRzJFbzB6elhvanJlTldCcTg?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYOFk2VE1XSmNvSk9VRGRETmNSWWpQbXUzUDB3MkJzcEJicW94ZGdJelRwM2VWNlZWUFJiSDk1a0ZDXzFlNk5QUmJHellQTHdzQ1BZVUhSZTZ2M0RmaWc4NVpxS3NhTGNPWkJUSjRxazc?oc=5",
@@ -7999,27 +7981,27 @@
     "https://www.talkesport.com/news/fortnite/fortnite-update-42-40-patch-notes/",
     "https://www.talkesport.com/mobile-gaming/bgmi/defending-champions-orangutan-eliminated-from-bmsd-2026/",
     "https://www.talkesport.com/mobile-gaming/bgmi/bmsd-2026-grand-finals-all-16-teams-and-dates-confirmed/",
-    "https://www.talkesport.com/news/god-of-war-laufey-collectors-box/"
+    "https://www.talkesport.com/news/god-of-war-laufey-collectors-box/",
+    "https://www.talkesport.com/guides/how-to-set-free-fire-sensitivity-for-your-phone-calculator-and-training-ground-test/",
+    "https://www.talkesport.com/news/gaming/gta-6-physical-edition-map-gamestop-claim/",
+    "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
+    "https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kS2RJNzdlYXp3TWV2cEtkT1ltTTkxNDdadDR6b2VjdTh6NXJhTGUtQzdESHl3UW9mTTltTDdxUWl1M29EU3dIaHBtMTlDdG1UZmFDRFRBak9Bbmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0s0S3Z6SFRldUgyN3VNNkxXQ0tSbVRnYzVvMFJXVjVyN1F4d21RVzh5ZWR5Z2psS2x2SnllQ1Q3MkluekY5Ri1kaGtmb2VTRUNuTHhEc2VYLVpkUVVpVjNxMkUycjV0NnV1Y3Z6bU45YVdCUmpWamtMd0wzZzg3TkpGVHZodWRybnpR0gFXQVVfeXFMTklxcHJSTzZPalFqREtnV0NybEtMX1l4LU9WOEFHVkVnWEtLUDhkeHppcWsyeENsT3NBZjBkb3k2bWl2MVQ2RUpQQUtMYnVsWUZfanh5NXE0?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LTjFHYkoxSGtrYkE1RGdvSDhDSGFNcmJpTlVERVlwYUZOTlByV09CZGY0dW80UWd6TFRJUU9mcGlYRU12Q1BVdTN6NjFsWi15ajlr?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEpzSVliNUdFNHltUkxRUVdBWTZjeHNvRm52QWl3a3lvbFl6dE9MRHJES2pRM2p2d0VFSmstNkMwM0V3WjUwRWloQ0VpYnBiVHJPanAwTzN2N3lMcF9nMTJWUFRlYXZZSlFRMmN5dUZrZ1BXdFdVX1p0ejJFb1VDbW5fQ29TQ3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVQy1QOUhXOWJ1ZjZSWEVIeExKaGNzb1FoYnlvX3ZYRVFabS1qWFVBb3JtUWI3cll2ajJITmdoLW54elZDQWVuMzlubmJmSWc4SVhkQ1N6d01lTFRjRFE?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUHNtV1Z6a3hWSExOaUxRTV9VSFRmRnJCaEZCX0pZaVdOemhMUWhTdG5hbjQ1UTNwNlBxLU1tbWR2Qmc5MVdMa3owWkowcEtoQ1FhV1ZxWFFTWGdhTzV2aFhYNDVlYWNKWTZVdGx5MFBPMVp4aDY4ck8tSW15YzF2Z0hnZzBYNXZfdzRJaWVvRTRsZw?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxONHRFM1E4V2tpRC0xQ1I2ZGJxSFJac09Qc0UtWW1RX2NwUjFaVm1naUJoNlVybnlFMTI0dzFyLU0tUlZqOW1fR1FoaGtnRzNrekttY2pxQ1d2bnVtVDFmeV9ONW4zNGkyOWJVMGp3LVBPMmZfc3J3Y2ExV0dYN2Z5RThrLVNWU1c4SGJFbWIwRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPczRIUzVlcnhCNzMyWUQ5ZmNZLVk4RWdNUTF1bl95dEJmZnloMURMLWlmM09UTXpJQm45dmUxcG9vNE11djV3aDJ0cUpRLVAwNTNkeG9oX251V2dPblE2N3RyZXdnSzllWlRkY2U0MUpQbUpBTFNPb0o3am9JWlA3SF9SVzhaV0JBQTVwbDJR?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1ZXejh4NHlOZGlacEVHQ25FbU95YjNkdDdhV3NlLVBsdkFoM1F0WHFQMGd2dmU4aExGSWxBeTc5TzZfRnhwRUlqSHZNUlI2U09mQ2Vyb0dpRm9yS05OM0xUdWNHQ1Vad0doSHNKYmwxUi12ekh4UnNiOEJqYXlKYmhWc2l6eFJSM0VKQzlyOGg5eFU3MHFPTkREZU9zSWZwY3VIR1RxYw?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGZDRkd2RKb3pzc1poYXB5OFZqcXFOQlJvamg2alhhSEZEVXJ5ZVAzUldUX2J0OEJHRnduVUY3ZGQzdmJaSE5nZjZiMmdoSkdBSVV2VUgyUy1UcVhOV25QMllLdUxzVVEzNHpIUS1NM25NY2lEcnNITzdBbHI0QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0lJV09vemhaRFIwOHg0eXJPN2pfTkFhNlAySFRtelpfUU9wbHRPclFfZ2huRVpSTzZ2LWtVR1lzTVpPeEVGU2ZwMUJubGJpMWFweVVQWnNzcHMwdEhMSTQ5VlctcEtxb3F0bUJRZ2NBQ3ZLbEtCcElUeC1hSVVKOWdlblR5VE1wbFNzekpCS1VidWFaUjgya05qN045blhLQmFV0gGwAUFVX3lxTE5Kd2VOM18zbF9wd0VLZHZGVDcydXdyQTFjeVFXQnNvSldUS1JDUS1fejd3eXVEWnZxU1hjUnMyOGlvVXhrQzM1bFViOTRTUVNyS2p0bjJLQVB5aVRXM1ExUy1RMGhkZnVoNUdhVTItaC1PUjNvN1VUWmxKMVJrUWYzS3lwODhHWkhhcVY1QTJ6ZTRucEpVS2paaHhhc1FZNjNxTTQ1VWd0b1dzR1Zrb1VI?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFJybXZvaUNSLWNlRmtKUW1vbE1vczlCZWlRd1FmZFdKUjZycmVjN29FV1hHaVZZMXk4Ujl4M3cwcUhELU5NQ2dRQmttSHJDWDBrUEw0Rm9tNXdaT21SUVg2eVZFR1oyRkFwUlRaZTAtdzFYZEFVaXI2a2dTdE1KeUFBb2o4ZW9uZ2cyVTJ3c3FGUGNxZ2NpeThOdkZPYUxDMElHY1BR?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2tnZWdwcjVGc0tnaFN0TDRlRGRpWjY3OWhjQ1Q3N3FUSnhmeGxwd3V1SkhQRWxiNnNsSHRjaHNNcWdVanRjY3VIM2tueXBNNUdNakR5TkNGcVZNRFBiZHZORFZLMjlpNkNLMEhsc2lnTC1ic3VLMXFlQVZNLVkydmQ2cmtwbmpT?oc=5",
+    "https://europeangaming.eu/portal/press-releases/2026/10/13/215895/swiss-casinos-reellink-rollout-four-venues/"
   ],
   "title_hashes": [
-    "97ee66186fe3d2e470227b983af30962",
-    "af9be398c5252204eb20a45dec103c95",
-    "7549ac56cf6369aa1642a948e973205a",
-    "b0e9dbc9fd8c3cb5fa3a0153bd9e3fd3",
-    "3618e31513d14ae0cd141731f672510b",
-    "c525f66b64c55d63d1b062a8b61896fd",
-    "85598ac0131d6dc42456d3d9e8385214",
-    "16a82eca224f54acc08872db70f7b321",
-    "203af0d2874f07de19cfddfc0a124320",
-    "7840188c580eee087b2af9546e440e1f",
-    "63db8b4ae5a46ae8e0500b65fb762056",
-    "1375a57759df0837e504e170e55cd755",
-    "4b144587b216b060d544a7d9a4206c34",
-    "8b6ecad35a2588d02919819397f199ee",
-    "6b25ebcc9be01e4fcabeed7cadfbedf9",
-    "915faf9532c98ff57bc9f85f8c26831c",
-    "77d013b4bfb9448d43025bdc7baf0e8e",
-    "e21b2d2bc5ceeecdfb43267f10e56de4",
     "9b055f39e3e2785c34d58851b45653e5",
     "dd5bf4c129034ad5914a86b7e458122a",
     "8b302cf13367ef1bcde5184e19966fb7",
@@ -16001,7 +15983,25 @@
     "7a8419caf7ad74d4d05827d860b87aae",
     "2f0804f8378ea0978b5dbdbae0bb5286",
     "72061b0026c16d89fc011a7103347ba0",
-    "869b9eb561b22b16c17835773cfa680b"
+    "869b9eb561b22b16c17835773cfa680b",
+    "5f07b2d1e57650c640f11461baab8ecf",
+    "b1f08864ed1723b9e666f5111c940258",
+    "d5d132a5961249d1ffecc449a95f45cf",
+    "25155cc82206f4a6a126462b4363752f",
+    "073a07a55a8ce47f8ed7af52491c732a",
+    "dcf4bb7846576efe74c0e7b9b27c2a57",
+    "b3b5431bb0679b65930050e4e0d68a1c",
+    "b0d45668a999a99f0f46548ef74ad213",
+    "f9d1b13e5c8a3f91cf99eb375c529d00",
+    "21fd112061a8a56a99f62a69d6356afb",
+    "3ad6e7c33fb747b1caf1c34eb07dc086",
+    "80dc7fd0315eec7e4e339b3864dbca8f",
+    "fdd61b3b35db76d52d25720918ee19b7",
+    "d8ba2ef125675c56effd9a362f058350",
+    "97ee66186fe3d2e470227b983af30962",
+    "e4c47f8b568a1416aaf4de5860ae4ebd",
+    "2819b608a665a928481ff1f542f366e3",
+    "adb4b084e6163ad3c71c20ca008f175a"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "16 2027 available box but collector conta day does faye february game god has include laufey monica not now order pre release same santa statue studio war will",
       "ts": 1791908199.4404764
+    },
+    {
+      "t": "15 based calculator dot drill fine fire free general get ground how minute our phone post red scope sensiti sensitivity set simple sliders test then training tune values your",
+      "ts": 1791908204.6466978
+    },
+    {
+      "t": "6 answers box claim code collector confirmed edition gamestop giving gta hasn include map mixed notice orders physical post pre rockstar say says silent staff stays store stores yes",
+      "ts": 1791908208.1777072
+    },
+    {
+      "t": "about aims behind building can cut failure feel find fix game gamedatacore games how made motivation new noise out painful pitching platform players raising really reviews same something steam that through understand wants watch what why years you",
+      "ts": 1791908211.6700666
+    },
+    {
+      "t": "2026 advises bird companies counsel edited frankfurt game games germany guide hembt media more plan read regulation regulatory report risks shaping simon six tech",
+      "ts": 1791908215.1450303
+    },
+    {
+      "t": "17 24 8230 across active all appeared casinos completes currently exportable fir follow four group machines more positioning post reellink rollout swiss venues",
+      "ts": 1791908218.5886095
     }
   ]
 }
