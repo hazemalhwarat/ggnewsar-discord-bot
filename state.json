@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUy1JWXhGNHplSmotTzk2bUtydW1VM05jQ2I0Q1REZHd4LW95MXVwVGF0WExnT0Q3UTRHTDduTDlYa1BHM29ESWV6cHZ1MVJmYjgycy1MUHREaHFlUzc1S0JGdUcwY2VuTjJLZmZzZ1ptV0s3OG9xaXN3UHpNY21yby1RM1RuSWRsUGQ5a2JsV3lBdHVpQXlmOWQ2N3I?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jcmhOSUlsZUdtem5VR3A1VTlET1dhNzdIbFlndktScnlTY3R2dl83U0s0VVM2Z0swOXJjNVRidC1hV2hTdVZWUUJ3S3hxNVZtNHBkS29BcHNrWTBqMFV0NllkRDQtbzZvdFRfRU1B?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY05ONThONHlGMjc2UjkzbkFmWllFYnpwTG5sMWNZb2x1TUpyZm9pMFpYb3A2cndkU0VGdGNYSHpNMXBOR2puN0hteE1aMXBWcHY0ekpjSmRpd3dkUWtVMjVDWm1QRlMwcUN3Mml6MmphN2U1MGdJeUhZZTBiZUJlWFd1VzllRFU1UWd6WUpyUHNoM2FwMmZHQ2RJREdfUVc2U1diSkhmY0JDR0E?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbi1fZzZGblVramxldjdUN0YtQU5QSmoyWEVtSDBRLXhCd1BnMDM3QjNSTlJBVmRvdTcxYU9yMHpPOTB4RDBabVN5SUpKeks5enBBdEw4OTJPOUtXdHNnMFV1Wkk0bzFzUlg4U2N2Wl9hcEczblZtQ0ZLbVhkTWpLWUd3aEp5UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KWFlVSHhHM1pXaE5ra3dfT3ZNaUNJRHp3eFRLSHdVVURDLXg0MTNNMHdleWpwanFQQjRVNGVwbW9fYVhRc0JYQnV5Ym5SWVJ4WHJpakhEVzB5aGdYanlrSXppZ2xsQUdfSjUwdWNpVEtPRVBXT1BsWi0zTVQ?oc=5",
-    "https://www.nerfplz.com/2026/08/nasus-counters-best-counter-picks-and.html",
-    "https://www.talkesport.com/news/fortnite/pac-man-sidekick-fortnite-price-release-date/",
     "https://www.talkesport.com/news/valorant/valorant-champions-2026-bundle/",
     "https://www.talkesport.com/guides/how-to-get-champion-focus-fncs-skin-fortnite/",
     "https://www.talkesport.com/news/valorant/valorant-13-06-update-release-date-time/",
@@ -7999,16 +7992,16 @@
     "https://insider-gaming.com/lol-patch-26-21-will-rebalance-almost-30-champions/",
     "https://insider-gaming.com/helldivers-2-scope-of-authority-premium-warbond-details-revealed/",
     "https://insider-gaming.com/twitch-drops-confirmed-for-jynxzi-lol-streamer-tournament/",
-    "https://insider-gaming.com/sifu-releases-for-ios-and-android-devices/"
+    "https://insider-gaming.com/sifu-releases-for-ios-and-android-devices/",
+    "https://insider-gaming.com/xbox-labs-announced/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-october-14-1221/",
+    "https://insider-gaming.com/lullaby-quest-valor-mortis-weathered-key-location/",
+    "https://insider-gaming.com/fallen-village-valor-mortis/",
+    "https://insider-gaming.com/planet-zoo-2-breaks-original-games-steam-record-on-launch-day/",
+    "https://esportsadvocate.net/2026/10/forkast-shuts-down-esports-prediction-market/",
+    "https://www.hotspawn.com/fortnite/news/is-this-the-last-season-of-fortnite"
   ],
   "title_hashes": [
-    "7e33ea0c8df3875d73ce8835350adc64",
-    "a83e1cf5c48fb42873a09f58acf8f0d0",
-    "f8ead1c791d1326a1c454eaee1f4a32b",
-    "df7b62760a0d5f851a81a63941b2ffd2",
-    "817bb31d9a09a475086de3768c08c149",
-    "7cf8d73d318cc7ca9a4ee316f2543d68",
-    "f7732f397e913a4752283052dba2b720",
     "19c668c7b5dc11a649941f474f977dae",
     "bf0d6e4ca61e4a419d0e47a0cc04cc95",
     "e2a9b60010c037bf0f0610c50ad3a9ab",
@@ -16001,7 +15994,14 @@
     "115e1356b42441cc79d9929cfe84f391",
     "45a59e37921505bb8936a7d3daec1c9c",
     "7b7cffd109a9239c1dfb89e129e3d3aa",
-    "9bee089acfc765dd88f043c18a2acf82"
+    "9bee089acfc765dd88f043c18a2acf82",
+    "b2f32783b8dd621ac58d66dcf5595885",
+    "53a86926ea8f3c4eca3f865eb3276402",
+    "817a7eb70b0e08b5bbc35dfe3cd96cc3",
+    "1832d4ca9b412446314e8b5175276d47",
+    "af259132c314490c6a1744240427b5f0",
+    "6136642c6cf38801de3414fe0e93dcd4",
+    "224df3f6e3b91ce1494286a691f2e4e5"
   ],
   "transfers": {
     "pages": {
@@ -21096,6 +21096,26 @@
     {
       "t": "android appeared brawler details devices first gami has here insider ios kung more person ports post released releases sifu sloclap their themed third",
       "ts": 1791926174.6131105
+    },
+    {
+      "t": "8216 8217 8220 announced announces asha ceo cto division explore has headed labs new post scott sharma technology today van vliet xbox",
+      "ts": 1791926179.8487828
+    },
+    {
+      "t": "abandoned after cave church exiting fallen get grotto key location might mortis next post returning stuck valor village what where you",
+      "ts": 1791926183.7314699
+    },
+    {
+      "t": "2 8217 breaks coming day days game has heights launc launch looks made new original planet post record records set soar splash steam upon zoo",
+      "ts": 1791926187.583661
+    },
+    {
+      "t": "according built category closing concentrates down esports few forkast its kalshi market one platform polymarket prediction scale shut specifically trading venues winding",
+      "ts": 1791926191.1571271
+    },
+    {
+      "t": "7 battle can ceo chapter continued doom epic fortnite game games gloom last linked lot mainly now right royale season seem spectacle sweeney there tim who",
+      "ts": 1791926194.6950202
     }
   ]
 }
