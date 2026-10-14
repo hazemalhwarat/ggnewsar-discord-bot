@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://dotesports.com/hardware/reviews/gunnar-fallout-glasses-review-lucky-38-brotherhood-of-steel",
-    "https://dotesports.com/news/news/geng-vct-game-changers-pacific-winners",
-    "https://dotesports.com/stellar-blade/news/stellar-blade-bayonetta-outfits",
-    "https://dotesports.com/honkai/news/hsr-zzz-collab-reveal",
-    "https://gameriv.com/playstation-cut-physint-funding-over-zoom-hideo-kojima-reveals/",
     "https://www.talkesport.com/news/bgmi-redeem-codes-21-september-unlock-bgmi-secret-legacy-backpack-and-more-rewards/",
     "https://www.talkesport.com/news/bmsd-2026-qualifiers-dates-groups-timings-format-promotion-relegation-system-and-more/",
     "https://www.talkesport.com/news/visa-moonton-games-mlbb-m-series-partnership-m8-m10/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27166/bnk-fearx-defeats-kt-rolster-3-1-to-advance-to-finals",
     "https://www.invenglobal.com/articles/27165/first-pre-sale-sells-out-in-3-minutes-blue-archive-5th-anniversary-festival-opens-november-7",
     "https://www.invenglobal.com/articles/27122/blue-archive-launches-third-collaboration-with-gs25",
-    "https://www.invenglobal.com/articles/27121/wadiz-to-launch-third-sammu-bookstore-event-on-october-19"
+    "https://www.invenglobal.com/articles/27121/wadiz-to-launch-third-sammu-bookstore-event-on-october-19",
+    "https://www.invenglobal.com/articles/27120/base-game-sold-separately-again-wave-of-collectors-editions-without-games-continues",
+    "https://www.invenglobal.com/articles/27119/microsoft-officially-embraces-ai-game-decompilation-trend-launches-xbox-labs",
+    "https://www.invenglobal.com/articles/27117/netmarble-launches-game-of-thrones-kingsroad-global-content-alignment-server-with-season-3",
+    "https://insider-gaming.com/nintendo-shows-off-ocarina-of-time-remakes-textured-foil-physical-packaging/",
+    "https://insider-gaming.com/g2-x-pubg-mobile-community-challenge-tournament/"
   ],
   "title_hashes": [
-    "24ee5f3e5ac775ccc559614c19db53c1",
-    "e298fff3ce5b22e80f8992f82cb3c6c4",
-    "6defb7d7267821bc6749f1e9f0abcd3a",
-    "91c3250105fcf8aba324bca15d1d39c7",
-    "3334ca846849e763e2ae797050d5475f",
     "e121b020a8b03e8e865c23f54ddac50b",
     "ea2662533571489743d1a08fd1fcdb0f",
     "14061eaa811c37da1c0cbb9a068e3c3f",
@@ -16001,7 +15996,12 @@
     "7ca25a800107c349146b1e71885b0ef0",
     "1764ec965f1f1f773b68aaf15533a104",
     "ccec2705974d02b8cf08be15f37cddc3",
-    "61ea2688efc3c307d40cc99fdbd84561"
+    "61ea2688efc3c307d40cc99fdbd84561",
+    "13ef0e8e7e2b71ed6e5d83cc901c00eb",
+    "5826646636d8d818464084559a715ee1",
+    "73a55fbbd755166831a5fe9a881b4fee",
+    "179d5184f8eb840a3db8b0093895b6d0",
+    "20d938dc3010e09746aaa04f4413a750"
   ],
   "transfers": {
     "pages": {
@@ -21120,6 +21120,26 @@
     {
       "t": "15 19 bookstore creative event exhibition host its launch november october publishing sammu third wadiz wadizwadiz will",
       "ts": 1791990479.05333
+    },
+    {
+      "t": "afte again among announcement base collector continues controversy edition editions game gamers games god has laufey monica new regarding sale santa separately sie sold sparked studiosan title war wave without",
+      "ts": 1791990485.3332572
+    },
+    {
+      "t": "decompilation decompiling dedicated division embraces engineering establishing experiments game games involving labs launches microsoft new officially recompiling reverse trend video xbox",
+      "ts": 1791990489.1345909
+    },
+    {
+      "t": "3 action alignment based bringing content game global has hbo kingsroad launched netmarble open players playing redesigned role rpg season series server stormlands syst takes thrones world",
+      "ts": 1791990492.5573149
+    },
+    {
+      "t": "closer edition foil has look nintendo ocarina off packaging physical players post provided remake shows special texture textured time",
+      "ts": 1791990496.1134233
+    },
+    {
+      "t": "added appeared can challenge community counter crossover dust g2 iconic map mobile part play players post pubg strike",
+      "ts": 1791990499.7127192
     }
   ]
 }
