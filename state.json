@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/valorant/news/loud-at-valorant-champions",
-    "https://www.hotspawn.com/dota2/news/team-yandex-dominate-parker-sends-a-message-pgl-wallachia-season-9-day-2-recap",
-    "https://www.hotspawn.com/ea-fc-27/news/fc-27-squad-battles-rewards",
-    "https://www.talkesport.com/news/valorant/valorant-champions-2026-bundle-unique-features/",
-    "https://www.talkesport.com/news/team-vitality-aurora-starladder-starseries-fall-2026/",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TbTlVemZVeFItYTdDNE50dFhDLU1ac2tYRkxNLTJkVFFFYkE4Q05saWV2eTdkX2JhM0FZWHcyeHVkV2k1N2J3STZFTDBmaDlpMUNraklKNTI1SU1rYlIxYi0yUEtHV3JackNTWG85Rk0zcnJnWjdtRC1XbHBfbnc?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0ttZmtfdXd1NW9sMU5xb3pZNDd0a3hFeC1lUmF5UER1TFIwNEh4WGdaVEtRT1JZYktEdW1POFFzb0h4WG1fc1Q5OGRrTVd2ZUpINjRFNklENDNTaU5YUk5RSHMzYkRYMnRhUmw0eXJ4dF9ranBWdzE1RktjNDh5TkNGNGhyUXFCdVZuTWpsVFU5ZnEzMGQ0?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLTZnNVFYTVI0Q0tyVkV6T0VrQmU5elpqYnEzWHh4RUIwWUhlMVpKRFllRWNQems4XzhXVU94T2daM1kzbUU2YlN3SFBsV082OHB4UVJyVThvT0cyT0ZFOHRoVGhvOVBiNl9UWEZ2SDZOQ0IzdmVuUkp5ZlUzVGRnb0szcmFSRGQ5ZDRz?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27158/donate-blood-and-get-an-onion-kuya-keyring-kuya-restaurantz-hosts-blood-donation-promotion",
     "https://www.invenglobal.com/articles/27157/castlevania-belmonts-curse-physical-edition-releases-oct-15",
     "https://www.invenglobal.com/articles/27155/emtek-launches-rtx-5080-infinity-3",
-    "https://www.invenglobal.com/articles/27156/fantasy-blacksmith-simulator-releases-free-demo-on-steam"
+    "https://www.invenglobal.com/articles/27156/fantasy-blacksmith-simulator-releases-free-demo-on-steam",
+    "https://www.invenglobal.com/articles/27154/football-manager-27-console-ps5-physical-edition-pre-orders-begin",
+    "https://www.invenglobal.com/articles/27153/indie-game-award-2027-finalists-announced-6-korean-games-advance",
+    "https://www.invenglobal.com/articles/27152/logitech-unveils-harry-potter-patronus-edition",
+    "https://www.invenglobal.com/articles/27151/tower-of-god-new-world-adds-rebellious-princess-endorsi",
+    "https://www.invenglobal.com/articles/27150/re-volt-korean-version-releases-on-switch-and-ps5-november-5"
   ],
   "title_hashes": [
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "2c14cf281145d24adf5529daffc1cf51",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "3a15bf1d470217198aed0be42f715985",
     "2a25f3b0e877ecf070b09486bd5e6b89",
     "998b90d1c044903dddd543e4b100e060",
     "2d73c72cb31e9c92da96b3f01725108f",
@@ -16001,7 +15996,12 @@
     "da0e0a9c266c7ad9c80a65c108af405d",
     "e45e01696f61aa6a0ac34717d2b1a464",
     "ad26a7e59c7f47ce33a4aed56e241f2c",
-    "439839fd509e278209d6a38e7c824ada"
+    "439839fd509e278209d6a38e7c824ada",
+    "594a70c960026c0a9e81df560afd506b",
+    "5308094bf61bb89f519ed3bdd4e58800",
+    "708a4f98dbd238d7a69b254b324bfc8d",
+    "1f509e3c8dba8894f3e1edc37d364f26",
+    "2d2a5d8fb8c0c4572b8a1e14a92bad46"
   ],
   "transfers": {
     "pages": {
@@ -21184,6 +21184,26 @@
     {
       "t": "14 announced blacksmith cozyplay cozyplaypublisher demo developer fanta fantasy free kst midnight october polden publishing released releases simulator steam that",
       "ts": 1791972686.1006012
+    },
+    {
+      "t": "27 5 announced begin ceo console edition football korea koreasega manager orders physical playstation pre ps5 publishing saito scheduled sega that",
+      "ts": 1791972691.1504714
+    },
+    {
+      "t": "2027 53 6 731 advance announced award awards countries finalists game games has indie international korean saw show showthe taipei teams this year",
+      "ts": 1791972694.5300407
+    },
+    {
+      "t": "14th alto announced edition featuring harry introducing its k98m keyboard keys korea korealogitech logitech mechanical patronus potter spells symbols that unveils wireless",
+      "ts": 1791972698.0346293
+    },
+    {
+      "t": "added adds anime announced collectible endorsi god has its netmarblenetmarble new princess rebellious rpg ssr teammate that tower world",
+      "ts": 1791972701.4762926
+    },
+    {
+      "t": "5 announced h2 interactive interactiveh2 korean launch nintendo november officially ps5 releases switch that version volt will",
+      "ts": 1791972704.8715892
     }
   ]
 }
