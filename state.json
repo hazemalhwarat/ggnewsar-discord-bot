@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45560/zywoo-its-crazy-to-say-its-been-a-while-for-us-to-win-a-trophy",
-    "https://esports-news.co.uk/2026/09/20/vitality-beat-aurora-to-win-starseries-fall-first-title-since-may/",
-    "https://insider-gaming.com/best-most-comfortable-gaming-chairs-2026/",
-    "https://insider-gaming.com/nyt-connections-hints-solutions-september-21-1198/",
-    "https://insider-gaming.com/inside-tokyo-game-show-event-review-incredible/",
     "https://www.hotspawn.com/valorant/news/loud-at-valorant-champions",
     "https://www.hotspawn.com/dota2/news/team-yandex-dominate-parker-sends-a-message-pgl-wallachia-season-9-day-2-recap",
     "https://www.hotspawn.com/ea-fc-27/news/fc-27-squad-battles-rewards",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27163/eclipse-the-awakening-outlines-hunting-ground-improvements-and-october-guild-competition",
     "https://www.invenglobal.com/articles/27162/as-good-as-the-main-story-a-look-at-6-goddess-of-victory-nikke-side-stories",
     "https://www.invenglobal.com/articles/27161/metro-2039-pre-orders-open-story-expansion-dlc-and-edition-lineup-revealed",
-    "https://www.invenglobal.com/articles/27160/are-steam-concurrent-player-counts-true-proof-of-success"
+    "https://www.invenglobal.com/articles/27160/are-steam-concurrent-player-counts-true-proof-of-success",
+    "https://www.invenglobal.com/articles/27159/where-winds-meet-to-support-nvidia-dlss-5-in-late-november",
+    "https://www.invenglobal.com/articles/27158/donate-blood-and-get-an-onion-kuya-keyring-kuya-restaurantz-hosts-blood-donation-promotion",
+    "https://www.invenglobal.com/articles/27157/castlevania-belmonts-curse-physical-edition-releases-oct-15",
+    "https://www.invenglobal.com/articles/27155/emtek-launches-rtx-5080-infinity-3",
+    "https://www.invenglobal.com/articles/27156/fantasy-blacksmith-simulator-releases-free-demo-on-steam"
   ],
   "title_hashes": [
-    "8df358eebbbb64bf19235a902db73505",
-    "8df358eebbbb64bf19235a902db73505",
-    "8df358eebbbb64bf19235a902db73505",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
     "850d1d695ede7a8ff8904a779f7082ca",
     "2c14cf281145d24adf5529daffc1cf51",
     "799855594adc0f2bd7302c69d3234b5a",
@@ -16001,7 +15996,12 @@
     "45ad7fb94457c6d4b5f592135f765132",
     "d367367a93c461b2168819f570dea959",
     "4cb8eed985797b589c85c2ffaeaab935",
-    "dfc40da496b5ccab5c2c882830a90ae1"
+    "dfc40da496b5ccab5c2c882830a90ae1",
+    "28063b721a5b6a34b4b0b1278b7bbaab",
+    "da0e0a9c266c7ad9c80a65c108af405d",
+    "e45e01696f61aa6a0ac34717d2b1a464",
+    "ad26a7e59c7f47ce33a4aed56e241f2c",
+    "439839fd509e278209d6a38e7c824ada"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "always bang concurrent counts crucial discussing domestic evidence explaining familiar game gaming have market metric numbers online player popularity proof served share steam success true unit valvewhen while",
       "ts": 1791972667.0470688
+    },
+    {
+      "t": "5 dlss gameswhere late meet netease november nvidia support where will winds",
+      "ts": 1791972672.2520428
+    },
+    {
+      "t": "14 announced blood collaboratio cross director donate donation get headed hosting hosts keyring korean kuya kwon october onion promotion red restaurantz services that young",
+      "ts": 1791972675.6796517
+    },
+    {
+      "t": "15 5 announced belmont castlevania curse edition midnight nintendo oct october physical playstation release releases switch that unianauniana will",
+      "ts": 1791972679.0901194
+    },
+    {
+      "t": "3 5080 emtek inc infinity launches rtx",
+      "ts": 1791972682.6921117
+    },
+    {
+      "t": "14 announced blacksmith cozyplay cozyplaypublisher demo developer fanta fantasy free kst midnight october polden publishing released releases simulator steam that",
+      "ts": 1791972686.1006012
     }
   ]
 }
