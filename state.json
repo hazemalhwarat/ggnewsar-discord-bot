@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/news/revenant-xspark-moba-legends-5v5-roster-kielvj-aezu-duba-bidd/",
-    "https://www.talkesport.com/news/hideo-kojima-sony-physint-zoom-call/",
-    "https://www.talkesport.com/news/pubg-mobile-asian-games-2026-12-teams-set-for-aichi-nagoya-finals/",
-    "https://www.talkesport.com/news/tencent-ecs-asian-games-2026-esports/",
-    "https://www.talkesport.com/news/krafton-files-windless-the-first-king-trademark-for-the-bird-that-drinks-tears-game/",
-    "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem",
     "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
     "https://www.gamesindustry.biz/northern-forge-studios-and-runaway-play-lead-green-games-jam-awards-2026",
     "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/27177/lol-classic-to-switch-to-windowed-queue-starting-next-january",
     "https://www.invenglobal.com/articles/27176/five-years-post-pandemic-57000-games-industry-jobs-have-vanished",
     "https://www.invenglobal.com/articles/27175/site-blockers-can-give-gamers-better-focus-guardrails",
-    "https://www.invenglobal.com/articles/27174/subway-roguelite-pigeons-must-die-opens-free-steam-demo-ahead-of-next-fest"
+    "https://www.invenglobal.com/articles/27174/subway-roguelite-pigeons-must-die-opens-free-steam-demo-ahead-of-next-fest",
+    "https://www.invenglobal.com/articles/27173/ubisoft-moves-to-close-trials-developer-redlynx",
+    "https://www.invenglobal.com/articles/27172/18x-faster-than-steam-epic-unveils-new-launcher-preview",
+    "https://www.invenglobal.com/articles/27171/devour-creators-co-op-horror-game-living-hell-opens-first-public-playtest",
+    "https://www.invenglobal.com/articles/27170/g2-and-pubg-mobile-announce-dust-ii-inspired-community-tournament",
+    "https://www.invenglobal.com/articles/27169/traditional-malaysian-culture-meets-classic-adventure-in-ondeh-ondeh",
+    "https://www.invenglobal.com/articles/27168/disco-elysium-writers-assemble-to-reveal-red-rooster"
   ],
   "title_hashes": [
-    "a72d7b5a8268a66b8a049cf91226604b",
-    "fb0a9c59999f63d3c4ddc802df06d990",
-    "195ece3624fca315a84a6152742ff2d3",
-    "3e2ae981b9d6ac7ce55e9db7c6f9cd42",
-    "c77d2ed57081f5b7be9b8ac68e228e25",
-    "e9662b8503bd72121be3af7f73b87723",
     "1d832ce44be92675ed540ec8833a6d92",
     "db6de7cc8dc99facbc212ccee2cf7676",
     "bf5cb7d149bf2ed51ffda54259c88cf5",
@@ -16001,7 +15995,13 @@
     "b8f5dc307edd47ca3ed50f029c639c77",
     "1d2ede17e9d7117f7985a0d17d1c1194",
     "055c670563fd0bd0db5da0402cf6d299",
-    "0ac7e45edeaef997426d94a305d8149c"
+    "0ac7e45edeaef997426d94a305d8149c",
+    "999e6c2585d7c8e1174e8cffa0087397",
+    "d3ddf27fc701fde25e702492d8238e88",
+    "2a3b4181a4046a3d290d4f31c79cfc03",
+    "26f288f3cf6b025f2ff7dc75738594e5",
+    "dddc8d8089b46d4ee50b24acc2f4348b",
+    "99670a7013e16348a145141a9557378e"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "ahead also bagel based decaf demo developer die dylan fest free game games has hostile must next opens overrun part pigeons released roguelite set solo station steam subway take wave will",
       "ts": 1792005753.4922612
+    },
+    {
+      "t": "also close developer finland finnish helsinki initiating its known major moves moving redlynx redlynxubisoft series studio trials ubisoft while work",
+      "ts": 1792005760.0429928
+    },
+    {
+      "t": "1 14 8x addition completely epic faster games gameson its launcher local macos new october officially preview redesigned steam than time unveiled unveils version windows",
+      "ts": 1792005763.6973262
+    },
+    {
+      "t": "amateur announce announced community counter dust esports g2 have inspired map maps mobile most one played pubg recognisable tournament",
+      "ts": 1792005767.295656
+    },
+    {
+      "t": "adventure bandai bean classic coated culture deep dough entertainment filled flour food frying glutinous made malaysian meets mung namco onde ondeh outside paste rice seeds sesame snack that traditional",
+      "ts": 1792005770.7613423
+    },
+    {
+      "t": "assemble development disco elysium eternal eternalsummer founded has its key members new prior red reveal revealed rooster rpg studio summer team writers",
+      "ts": 1792005774.2643433
     }
   ]
 }
