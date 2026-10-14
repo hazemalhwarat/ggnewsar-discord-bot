@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://europeangaming.eu/portal/press-releases/2026/09/21/214485/gaming-realms-slingo-hot-roll-express/",
-    "https://europeangaming.eu/portal/press-releases/2026/09/21/214477/wazdan-slybet-bulgaria-egt-digital/",
-    "https://europeangaming.eu/portal/press-releases/2026/09/21/214456/gaming-corps-starcasino-netherlands-deal/",
-    "https://europeangaming.eu/portal/latest-news/2026/09/21/214452/gambling-stocks-weekly-14-to-18-september/",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YamxXVWZ6ejNpZkZpVUlTS1V4VEkzbHpMRkt2aVRnZWx4NTN1d1dmVVZGaEZWbWVnZ2trZXlORTVOTDZFemc1UFFkbFdJeVRSYUVnZEd3Sk5pQU00cmRLZGpZbw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVEJhMEJYT29BSzJfc3M4YUNreUJPNzl1S080c3p4c0szQURtcW42bTNvaXo4UUZvNUpydk1PVWc0U2NsSDhJaExDSkpBWTlVSjR0SW9RNVI2Mm5ZT3kyRjJvMUZOQjFnb1ZlMnBkZW5nRjktTzY2eTVCS1JFdllWUUp4alF1LTViaFZqLUo5TEc3MHBQVHdKNERmY3JMeWJzSHBDbUYzWkYxUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkZnV1WTg1YUY0UUxvODF2SldvZ3hqWXctMGxlTHRUYUF3RTFzajlLNEVYMWxXMExqVnRHNkhlZ29QNXBqcm51bl9jbWtkeUNWZlE?oc=5",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yeEJCcm4wMDV2aFZUbGtKTDdNbkhNZFY2aERBWUpGUTZaM1ltaW52TGFwR2VMSUczTnRJWVRmVWttSmgzc0FicGxTMXliQWd5eGE2cWZZZUN1enFyZDQ5MVFPRjI?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pdm93TVpOS05ldldKek9OTW1PNi1ldDlRRTZoODU0QUVZWUd5LTVPaDBSQmxfenc5eS02SUM2NmVBUWRnSGNiYjFPYVRnNmFKSDZmQWZ4eEFxZkRoV053VlZHWW5Mck1UdGY4dXpHZGtsdjlQMjlFNXJn?oc=5",
@@ -7999,15 +7993,15 @@
     "https://www.hltv.org/news/45721/new-look-astralis-top-group-at-stake-pulse-beat",
     "https://gameriv.com/apex-legends-wildcard-has-more-dedicated-players-than-respawn-expected/",
     "https://gameriv.com/league-classic-is-ending-after-season-3-as-players-move-on/",
-    "https://insider-gaming.com/faker-minions-unexpected-t1-universal-collab/"
+    "https://insider-gaming.com/faker-minions-unexpected-t1-universal-collab/",
+    "https://insider-gaming.com/gta-6-reviews-released-before-launch/",
+    "https://insider-gaming.com/new-year-new-games-2027-showcase/",
+    "https://insider-gaming.com/cdl-2027-schedule-reveals-return-uk-europe/",
+    "https://insider-gaming.com/league-classic-set-to-end-2027-become-rotating-game-mode/",
+    "https://insider-gaming.com/wardogs-patch-notes/",
+    "https://insider-gaming.com/xbox-announces-pocket-sized-nano-controller/"
   ],
   "title_hashes": [
-    "4dc5076ba94627eac500d76a02b92b75",
-    "b0d296b17037a9b64288ed00e155f482",
-    "1c84b640a112b280d99d8a549b611a92",
-    "2fd1fc099aed09c64b29426edfa273b2",
-    "83f5b53a1d644408f037ed95d4fde66d",
-    "9364f96aa7fadfefef39c7d41d560692",
     "9f4a51079aa4ace4645952ca1496a67d",
     "76c4b99221afc2297cfa27dc74808781",
     "1c5f369f9969ba303e0f44e0334c8be5",
@@ -16001,7 +15995,13 @@
     "85aa2ede5d363cc289771b2793c63ae3",
     "c3032dcc474e6ff8ee6f862c915dc4e1",
     "0a89b1941ee9367499a107b2155eece2",
-    "264c8178368da43a6eae8cf96024c2e8"
+    "264c8178368da43a6eae8cf96024c2e8",
+    "6c0de68184dc52b7f53793ec376038e1",
+    "6bca6286ff195040112046d7e2a26188",
+    "01662c385e59d1b2f64df97ad4ae24b8",
+    "c815e482fd8eb7128fe4dabcb86f6c5f",
+    "8992f7178db5219e6bea839029a9191d",
+    "12402f950c5cc955f0225d459f1164b1"
   ],
   "transfers": {
     "pages": {
@@ -21204,6 +21204,26 @@
     {
       "t": "become been collab despicable faker franchise has have league legends merch minion minions new post reimagined roster t1 unexpected universal",
       "ts": 1792005793.6511083
+    },
+    {
+      "t": "6 ahead appeared auto before first full game gaming get grand gta has here insider launch learned post release released reviews story that theft will",
+      "ts": 1792005799.1051564
+    },
+    {
+      "t": "14 2027 airs featuring games gaming insider january new now open post presents release showca showcase submissions targeting year",
+      "ts": 1792005802.657945
+    },
+    {
+      "t": "2027 activision announcement appeared back call cdl coming duty europe has kingdom league post return reveals schedule united unveiled",
+      "ts": 1792005806.1014462
+    },
+    {
+      "t": "2027 6 after base become classic down end eventually game games has its january league left may mode most player post return revealed riot rotating set shut though will",
+      "ts": 1792005809.5129292
+    },
+    {
+      "t": "8216 8217 announced announces appea called controller experience factor form has just nano pocket post providing same sized smaller wireless xbox",
+      "ts": 1792005813.2694588
     }
   ]
 }
