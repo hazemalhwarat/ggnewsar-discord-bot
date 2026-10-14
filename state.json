@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdW52OUpWNHNJLXNjZ2ZJVlRJTWxsLWY5UnFGMjc1VnFORm5RcXJEdlUxNEM1UmZUUnh6c0Y4dGtVQ1lwNmpBdEZCcUlHYU1QeHB6UVRRMjFYU3dFbjBqY2JiRjY1VGp6cXNvREZvS1h1TnhGWktHZHN5MGhmTzJMb3Y2R3loS0VPLTZXTFpVaHdpNzJPRnc?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYzR1anBERkN5Q0xuT3RkODk4OVNCRkRJemI0dTVqd1RtaXhyVkxHck1GUElacmx1NXpqdVB3aU11YldnWldfSjlLNVdkTWFleXphZGcyQ3VnRTExNHByMEI3LUNaV1lTODJKUWNma2g3RVVWSkRLVHZQYmxoWDFROXdvNVRBdUxX?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBROXJyTndyallsNHEyT3lDU3F3a2VzUVBrYk1Ya3YtM1ZKUm9DcllrTl9IXzJpcm1CNWlnX3B6X0RWU2trWW1XUFZES1pFRTY3aU9acmliVFIzN2JVcDk3R2FYUE5IU3UxdllyV1NuREFHWUMwWHAw?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fQnk5bHBESzA0Z2I5Yk9kemFrcG1oeXUzbDZYcjZfRkFYYnA0UHN2VEhrOXp5S3ZwN2dId1c0ZVFNbG5SclpucFNheTRaZV9ORFpDQWlCbzFhbjJLSjMwN3VnVUZqVDF2LWc?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUhvWGc5NUg3ejdJRFRxY24tNndHc0h1eTdiVlhXckp3NzBRbGxyQnZXU0pYTmZrMVV4N0R3LTdVTDEteTlwSVhhOGk3anplX3hRRmtOR1Ywb0NHWW9kMjhtbnZFNHR5eGFqaFZyUl9XTk41dGFCS0pZaElfSEdVZkt0NHVYYjBrQlZSVENfcG1TUmE3SmlSSjVlbw?oc=5",
     "https://www.hotspawn.com/counter-strike/news/vitality-win-starladder-starseries-fall-2026",
     "https://www.hotspawn.com/league-of-legends/news/red-bull-league-of-its-own-2026",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjMzQzZwSENuQlNJRDVyRjlLZGpVOW41Ml93OVdTcjNsU1pqVWpyYXlZNlh4RU9lR2xyRnMxVEV6X3dROXlPd2FfR2dyczhMNFE1QmRWRlBsb0ZKd0I3eVZ6WlIzWGpua180R0FSSXJ2bU1VbUJjMVpINzhFaXVEeC1YbG1Qdw?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27147/turn-normal-zel-and-dai-into-blessed-ones-blessing-added-to-scrolls-event",
     "https://www.invenglobal.com/articles/27146/official-pvp-statistics-added-black-desert-oct-14-patch-highlights",
     "https://www.invenglobal.com/articles/27145/beyond-villages-and-cities-the-laws-of-the-world-that-move-promilia",
-    "https://www.invenglobal.com/articles/27143/funnystorm-officially-launches-location-based-rpg-dragon-raid-globally"
+    "https://www.invenglobal.com/articles/27143/funnystorm-officially-launches-location-based-rpg-dragon-raid-globally",
+    "https://www.invenglobal.com/articles/27144/nc-aion-opens-pre-registration-for-drakan-update",
+    "https://www.invenglobal.com/articles/27142/kel-eternal-return-super-week-gyeongnam-kicks-off-oct-17",
+    "https://www.invenglobal.com/articles/27141/black-desert-runs-new-arena-of-solare-season-through-december-9",
+    "https://www.invenglobal.com/articles/27140/soop-to-host-asl-season-22-finals-on-october-17",
+    "https://www.invenglobal.com/articles/27139/path-of-exile-2-to-officially-launch-on-december-12"
   ],
   "title_hashes": [
-    "45014418efb0ebf4babe107e70121f92",
-    "f716df1defd44f7898042b8a6a120229",
-    "dc4cfa13f2365718144d1307fd542e16",
-    "dd7328fa838e0fb3e749a437d0cc65f9",
-    "34e724bea256713bed88e590a06f80ee",
     "8b437105824ef8b34cdda6237a219080",
     "50d88cbb95f92b9724a522976c3a909d",
     "8479ec1ce0281955b4ab9709086c256b",
@@ -16001,7 +15996,12 @@
     "43495dfa4a08554ac675f47493e91058",
     "a82a789dafa44c3aec476a1e0c6a52e3",
     "f79499fd51cb6948b946fc250151395a",
-    "17c98e7aa16e1f5295f0286bdfa9326f"
+    "17c98e7aa16e1f5295f0286bdfa9326f",
+    "e17baffeb2b4ac53bca86b38d9343ad1",
+    "8dc5390ed40683bb117967f796e90570",
+    "ffdf1d22a3ed5d7c7c5ffba4303006e0",
+    "a325c238afdd7977e3cc12d9e313d387",
+    "6484b03945eb1842238f9fd0965d0721"
   ],
   "transfers": {
     "pages": {
@@ -21084,6 +21084,26 @@
     {
       "t": "announced based ceo choong dragon funnystorm funnystormfunnystorm gil global globally its launched launches location officially raid rpg service that yoo",
       "ts": 1791954629.8998446
+    },
+    {
+      "t": "14 21 ahead aion began drakan hereinafter its mmorpg ncnc october opens pre registration update",
+      "ts": 1791954635.2169287
+    },
+    {
+      "t": "14 17 2026 announced association associationthe esports eternal gyeongnam kel kespa kicks korea korean league oct october off return sports super take that week will",
+      "ts": 1791954638.600454
+    },
+    {
+      "t": "14th 2 500 9 abyss abysspearl arena black december desert fame family higher must new pearl players possess regular running runs season solare this through",
+      "ts": 1791954642.0613577
+    },
+    {
+      "t": "17 22 asl finals google host ice jamsil lotte october play rink season soop soopsoop will world",
+      "ts": 1791954645.6984308
+    },
+    {
+      "t": "12 2 december exile gamespath kakao kst launch officially path will",
+      "ts": 1791954649.1516259
     }
   ]
 }
