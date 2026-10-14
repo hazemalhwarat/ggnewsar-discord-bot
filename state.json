@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWNYeGVsRW1JSDB3NmJTNlZDU1hZZ0lVN0lpVFJEeDFwdWt0TURZNldiOE16dTV6eTdlVkRzWVdWU0NtVjRSakV2XzdVREZ0aml1YzZxaGpjM2E2clNvdERlU2d2MmJzSDB1VERXckd0RU00N2V6aGdsMV9mNXlDLVFickJGblhlZ202RTdvcHZhc3JRbllVZE5XNVA?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2bDUtX0UyNmltYTZ0YndUVWM5UVRVdXRPdWkxREVhMjBTWTFmWUo4eEVvLV82VVkyRmpWX2gxZXhVenlia2EzR3ZKRjFwVlV0aFV4dzIxRWt1bVdINjhzeVNqbFF4QVZkQndEalVjSUdNbjJnZElKWWpOVUtnQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdlhWTGp0Uy1qOFdlb2pzdUFNbEFHYlNhZERLQjRHYnpkSm1uTGhGaGIwMVJTdy1DcXJidThtcXQ4QmhFZ1A0NDVBOTBOQTRRWVpGc3hueWd5MTlvbmhwOXBzYTVVbmVSc0RTRFlSQV9aSVFuUnpXdkNHY0lJMFZlQkxsOXUtYmNMeUE1ODNGWFBaTlA0Y1FKMFZWSzNXMEg4VFdVTUpGQldUSU9ULWI0dGlVYllub1QxZHpSay1YXzNzd3VYUGl5MGNmak9QV3k1U1E?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjlUSndYY09tZUlIWWlFWTdTZU9kQ1daRjk5Y05RY2hVWW8xaXRwS3ZBV1BUNk1xSGpJN1JidmE5Z25ZWjQwNWpCWHI3ejhjcG9XNzVnUXdWYkdYdndQQTFOazBiamFqTl9SODBra2RBUkZpMS1yNXBLY3JXd0ZBNVBodw?oc=5",
-    "https://pley.gg/cs2/vitality-dominate-aurora-to-win-starladder-starseries-fall-2026/",
-    "https://www.invenglobal.com/articles/26273/fxxk-fakes-nogear-temporarily-suspends-krafton-sponsorship",
-    "https://www.invenglobal.com/articles/26272/dont-tarnish-the-memories-of-erangel-9-years-ago-commentator-jisuboy-appeals-to-krafton",
-    "https://dotesports.com/league-of-legends/news/g2-esports-mkoi-lec-summer-2026-finals",
     "https://dotesports.com/ea-sports-fc/guides/ea-sports-fc-27-starter-pack",
     "https://dotesports.com/counter-strike/news/vitality-aurora-starseries-fall-2026",
     "https://www.hotspawn.com/rocket-league/news/team-falcons-rlcs-2026-world-championship",
@@ -7999,17 +7991,17 @@
     "https://esports-news.co.uk/2026/10/14/ex-rustec-beat-nordic-partners-gaming-2-0-en-route-to-pgl-bucharest-qualifier-title/",
     "https://insider-gaming.com/astralis-siuhy-cmtry-lose-danish-core/",
     "https://insider-gaming.com/ubisoft-closing-redlynx-studio-downsizing-singapore-studio/",
-    "https://insider-gaming.com/planet-zoo-2-franchise-mode-tips/"
+    "https://insider-gaming.com/planet-zoo-2-franchise-mode-tips/",
+    "https://insider-gaming.com/hunderpick-world-championship-2026-team-falcons/",
+    "https://insider-gaming.com/contexto-hints-answer-for-october-14-2026/",
+    "https://thegamehaus.com/nba/payton-pritchard-agrees-to-2-year-extension-with-celtics/2026/10/13/",
+    "https://thegamehaus.com/nba/brandin-podziemski-and-warriors-agree-to-5-year-extension/2026/10/11/",
+    "https://thegamehaus.com/deadlock/deadlock-deadman-danny-abilities-breakdown-first-look/2026/10/13/",
+    "https://thegamehaus.com/gaming/is-there-a-gta-6-deluxe-edition-available-for-purchase/2026/10/13/",
+    "https://thegamehaus.com/gaming/potential-gta-6-pc-release-date-revealed-insider-info-more/2026/10/13/",
+    "https://thegamehaus.com/nfl/nfl-week-6-picks-against-the-spread/2026/10/13/"
   ],
   "title_hashes": [
-    "73674b2f5dc85672bafa60878dac75b8",
-    "e538425df1af9e8a8b949836c81ecd0f",
-    "a18c858edc7b904c3c340e00c7e38a76",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "d56a965be8ec92f194009082d76e67b9",
-    "fe45f6b67f5f817cc42af2dcea9d1e8c",
-    "6af9b7e328788d3fdb1fe3d226bfa144",
-    "b7f27a8259da89c3def252a57fb9278e",
     "bac4cda6a4f0c4f85a9450b4befe9737",
     "e8599f999c33d018a62f754e9206132c",
     "54aaa762fd7973b0d3fccc032784253a",
@@ -16001,7 +15993,15 @@
     "7b497165436434fe3bfbfb577977635e",
     "c2207d1f91d57e8fe016c874215fa424",
     "343aa89ad37a092d241bf3bd75450270",
-    "95c6a76a624bfb1445b1d296770c49f2"
+    "95c6a76a624bfb1445b1d296770c49f2",
+    "1b516ff2fae7da638c644e2edfe7991e",
+    "3452d896de56500c0ee53fdf08ac6211",
+    "76c1cc563e293649bfbfecf1ae12e90d",
+    "029a1a96a49a08ff0eb71fc4fa2eb0e4",
+    "90fdcbe08f68d452fd9ba28263d432c8",
+    "dc76562a5d2f35d599cb43d707aabe7e",
+    "24e43f39772bc32a91ce124f8f66baa7",
+    "8e3dcf0b35b67bd87ab08970e87a1bb8"
   ],
   "transfers": {
     "pages": {
@@ -21244,6 +21244,26 @@
     {
       "t": "2 8217 9 beginner build franchise help hints host mode planet post sprawling succeed successful thrive tips you zoo",
       "ts": 1791972743.1032662
+    },
+    {
+      "t": "2026 begin champions championship cologne eight event falcons high huge iem major placing post pressure starting team thunderpick world",
+      "ts": 1791972748.142563
+    },
+    {
+      "t": "14 2026 amp answer appeared contexto first full gamin get guess hints insider october post stuck today trying you",
+      "ts": 1791972751.535434
+    },
+    {
+      "t": "2 2029 30 44 8217 according agreed agrees boston celtics charania contract espn extension guard have million mutual option payton pritch pritchard season shams two year",
+      "ts": 1791972754.9356747
+    },
+    {
+      "t": "110 8217 according agree agreed also brandin charania contract deal espn extension five fully golden guaranteed guard have includes million podziemski shams state warriors year",
+      "ts": 1791972758.4146056
+    },
+    {
+      "t": "6 against but enough even games hard here nfl picking picks season spread spreads straight tallysight tougher week",
+      "ts": 1791972764.249732
     }
   ]
 }
