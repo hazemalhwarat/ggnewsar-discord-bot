@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26328/blackpink-lisa-dualsense-launches-october-30",
-    "https://www.invenglobal.com/articles/26327/saudi-arabia-to-host-inaugural-kingdom-of-gaming-in-december",
-    "https://www.invenglobal.com/articles/26326/yoo-young-jin-reaches-asl-semifinals-playing-like-this-wont-work-ill-sharpen-my-mindset",
-    "https://www.invenglobal.com/articles/26325/yoo-young-jin-quells-the-typhoon-completes-reverse-sweep-to-reach-semifinals",
-    "https://www.invenglobal.com/articles/26323/satisfying-impact-and-dinosaurs-too-turok-origins",
-    "https://www.invenglobal.com/articles/26324/why-saber-interactive-returned-to-the-origins-of-turok",
     "https://www.invenglobal.com/articles/26322/ninjala-2-retains-its-squishy-cute-charm-while-adding-multiplayer-co-op",
     "https://www.invenglobal.com/articles/26321/try-a-demo-get-a-gacha-draw-toei-games-makes-tgs-debut-with-3-distinct-indie-titles",
     "https://www.invenglobal.com/articles/26320/now-mobile-gets-ai-upscaling-too-imagination-unveils-nsr",
@@ -7999,15 +7993,15 @@
     "https://www.hltv.org/news/45717/sdy-headlines-new-look-monte-lineup",
     "https://gameriv.com/battlefield-6-update-2-1-1-0-reportedly-caps-weapon-xp-at-300-per-minute/",
     "https://gameriv.com/sony-reportedly-takes-down-ps5-and-ps4-piracy-store-offering-over-1600-games/",
-    "https://www.hotspawn.com/league-of-legends/news/t1-minions-merch"
+    "https://www.hotspawn.com/league-of-legends/news/t1-minions-merch",
+    "https://www.hotspawn.com/counter-strike/news/thunderpick-world-championship-2026-media-day-recap",
+    "https://traxion.gg/moza-set-to-bring-its-biggest-ever-product-showcase-to-simracing-expo-frankfurt-including-ps5-wheelbases/",
+    "https://traxion.gg/heroic-gt3-driver-loek-hartog-becomes-conspit-brand-ambassador-will-appear-at-simracing-expo-frankfurt/",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLaEJ0X3dYQjdMMkd4VmxBeWRCUG93d0YtVWxqNEpoSHpNWDhLMDktY0JxLXdWOVV4bHRfZVhwZTdsS2g0SjNHSmhPT0lGbmRvcDR4dkVMd003ekk?oc=5",
+    "https://esportsradar.gg/how-spun-midia-built-a-programmatic-engine-around-mibr-and-los/",
+    "https://esportsradar.gg/riot-pledges-500000-for-esports-projects-in-public-schools-across-the-us/"
   ],
   "title_hashes": [
-    "586ab2c65932825c8453e261e52ba1cf",
-    "eb067a963f9a960f8b08e51c6826b654",
-    "f38b9334cdb80e356e10d6c389f420ca",
-    "aa9c1d7f4f3dbfb5f5bba5df01309c70",
-    "8b8e032db3037de67a95f78903fc7f0c",
-    "636b5b5f70c5bc07e684b5ada61164ea",
     "4a143c976c357a9814dad71185938a51",
     "92892a4949a2fdb9cc3f9e032e14932c",
     "b264d9728ea47db420ba011d241517ab",
@@ -16001,7 +15995,13 @@
     "3e47c99ed9615e8e484dd2ce1cb29efe",
     "529e65d6feb1ef895257de25b05ac4f0",
     "b7a804a20b0e47a878d272fa18354830",
-    "b020d0ad173f5652740b2a105c66c735"
+    "b020d0ad173f5652740b2a105c66c735",
+    "7ae7fd3f109b3de39624e40a6631f209",
+    "7358bab65b638487942280e320125f31",
+    "6139df5b9d3c6801ba426d87b9f6c936",
+    "6afc696169bfcaeac8c45bfbafb74ea8",
+    "dd0404f9fc744de330ebe931d01b8fb8",
+    "5b1ebea183b2f3130c0af11148c4bd73"
   ],
   "transfers": {
     "pages": {
@@ -21200,6 +21200,26 @@
     {
       "t": "38 announced champions collab collection dropped edition experiences featur getting have league legends limited lol makeover merchandise minions new players products six t1 time universal world yellow",
       "ts": 1791990557.7842052
+    },
+    {
+      "t": "2026 championship day during event every had media officially opportunity players plenty pros recap said speak team thunderpick topics touched underway what world yesterday",
+      "ts": 1791990562.956154
+    },
+    {
+      "t": "biggest bring compatible controller ever expo frankfurt handlebar including its latest motogp motorcycle moza post product ps5 set showcase simracing this weekend wheelbases",
+      "ts": 1791990566.675209
+    },
+    {
+      "t": "ambassador appear appearing becomes brand conspit driver expo forces frankfurt gt3 hartog has heroic joined loek porsche post simracing this weekend will",
+      "ts": 1791990570.147432
+    },
+    {
+      "t": "20 around brazilian built cblol championship company competitive deliver engine esports how its league legends los media mibr mídia programmatic results second seeing split spun stage strategy team won",
+      "ts": 1791990573.505222
+    },
+    {
+      "t": "000 500 across allows announced based classroom comp continuing directly donate donorschoose esports games has individuals its nonprofit organisation partnership pledges projects public riot school schools that",
+      "ts": 1791990576.8905122
     }
   ]
 }
