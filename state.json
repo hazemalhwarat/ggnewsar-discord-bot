@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26322/ninjala-2-retains-its-squishy-cute-charm-while-adding-multiplayer-co-op",
-    "https://www.invenglobal.com/articles/26321/try-a-demo-get-a-gacha-draw-toei-games-makes-tgs-debut-with-3-distinct-indie-titles",
-    "https://www.invenglobal.com/articles/26320/now-mobile-gets-ai-upscaling-too-imagination-unveils-nsr",
-    "https://www.invenglobal.com/articles/26318/krafton-files-trademark-for-the-bird-that-drinks-tears-game-windless-the-first-king",
-    "https://www.invenglobal.com/articles/26319/91-metascore-trails-in-the-sky-the-2nd-gains-massive-momentum",
-    "https://www.invenglobal.com/articles/26317/castlevania-returns-free-demo-for-castlevania-belmonts-curse-coming-october-1",
     "https://www.invenglobal.com/articles/26293/last-epoch-director-shares-message-promising-better-korean-localization",
     "https://www.invenglobal.com/articles/26294/witchbrook-offers-a-calm-intricate-hands-on-experience-of-magic-school-life",
     "https://www.invenglobal.com/articles/26291/zozo-and-the-lost-dreams-to-exhibit-at-tgs-2026",
@@ -7999,15 +7993,15 @@
     "https://traxion.gg/heroic-gt3-driver-loek-hartog-becomes-conspit-brand-ambassador-will-appear-at-simracing-expo-frankfurt/",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLaEJ0X3dYQjdMMkd4VmxBeWRCUG93d0YtVWxqNEpoSHpNWDhLMDktY0JxLXdWOVV4bHRfZVhwZTdsS2g0SjNHSmhPT0lGbmRvcDR4dkVMd003ekk?oc=5",
     "https://esportsradar.gg/how-spun-midia-built-a-programmatic-engine-around-mibr-and-los/",
-    "https://esportsradar.gg/riot-pledges-500000-for-esports-projects-in-public-schools-across-the-us/"
+    "https://esportsradar.gg/riot-pledges-500000-for-esports-projects-in-public-schools-across-the-us/",
+    "https://esportsradar.gg/grand-view-university-announces-four-year-partnership-with-team-liquid/",
+    "https://www.nerfplz.com/2026/10/weird-pick-172-mid-lane-garen.html",
+    "https://www.talkesport.com/news/vct-china-partnership-2027-reported-teams/",
+    "https://www.talkesport.com/news/aion-2-october-14-update-patch-notes/",
+    "https://www.talkesport.com/news/ubisoft-redlynx-closure/",
+    "https://www.talkesport.com/news/cs2/sdy-returns-to-monte/"
   ],
   "title_hashes": [
-    "4a143c976c357a9814dad71185938a51",
-    "92892a4949a2fdb9cc3f9e032e14932c",
-    "b264d9728ea47db420ba011d241517ab",
-    "ccdbbe04c3417bfa38e6bfecdf8290fb",
-    "1db23fcd3e062d8ba13b9dc178896792",
-    "9f2b179662a9494c017ca0703f7ca330",
     "b91fbc4d129a35c7ad4623b8b436a012",
     "e0939b48e0be58ae407dac0e3a01adea",
     "69e8a674a7153d9811083ffcf9469a2f",
@@ -16001,7 +15995,13 @@
     "6139df5b9d3c6801ba426d87b9f6c936",
     "6afc696169bfcaeac8c45bfbafb74ea8",
     "dd0404f9fc744de330ebe931d01b8fb8",
-    "5b1ebea183b2f3130c0af11148c4bd73"
+    "5b1ebea183b2f3130c0af11148c4bd73",
+    "0e601093bb21c701e7cc56f15d82fe3f",
+    "a97e6088b382e2367eed3a36b6fe5aed",
+    "5f0cd9ebfbee7efcd95699d32c51fbef",
+    "764bd0dc0aeda30ef2481e950ede8a1b",
+    "2b37746e0157488f1c69b1510628f298",
+    "c88e9473184e040b2cbd19a13ec682d7"
   ],
   "transfers": {
     "pages": {
@@ -21220,6 +21220,26 @@
     {
       "t": "000 500 across allows announced based classroom comp continuing directly donate donorschoose esports games has individuals its nonprofit organisation partnership pledges projects public riot school schools that",
       "ts": 1791990576.8905122
+    },
+    {
+      "t": "agreement announced announces based both esports four grand has joi liquid multi organisation part partnership regional team university view will year",
+      "ts": 1791990582.1715615
+    },
+    {
+      "t": "2027 2028 8 all been bilibili china edward espor gamers gaming has hold list misses organizations out partner partnership reported reportedly revealed set slots teams trace tyloo vct who",
+      "ts": 1791990585.7882023
+    },
+    {
+      "t": "14 2 35 adds after aion big content event first gbs halloween has introduces its major more new notes october official one out patch plethora release roughly server shipped size transfers update which",
+      "ts": 1791990589.373314
+    },
+    {
+      "t": "52 70 affect closure cut down finland its made not now positions proposal proposed redlynx roles series shut singapore staff studio told trials ubisoft wants which working would",
+      "ts": 1791990592.803658
+    },
+    {
+      "t": "3 after announced completed enjoyed esports has having his memorable moments monte organisation orudzhev past return returns rifler sdy some somedieyoung team tro ukrainian viktor years",
+      "ts": 1791990596.1775813
     }
   ]
 }
