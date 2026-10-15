@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tMDNOX2lWdDdqVnRHMi1IeUEyU2Z3a2RZWnF1Y2NDSjFiMGdCdkQ3TlZHMGFjeG9TaXlrV09DSEczZF9BZUptbkJCeWZBRWM?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOVdWX0I2SWtfWXh5YnNkR1gxWHM3YzMteWdwSDBWRmQwT1NLRHVUSkVRX1cxWEU2OEFFa29vektQZW5Ra1Q2Q00xNGxZYklWYkQxcDR3SHR0X1M1TXNiaXNpcC1PSElQWlJhdmtIRGlBZU5vVUR1eVBLQU54MzZKZnB2MmRWN2FFMTI4elFkWHo1XzhFV3BCcmVxOU5yd2hIVmx6dVJSYTRWVms?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUZ4X2YyUnNscG82ZHJpS1g5UE1aUnB3NTBoX1JKckhVY3FGQ0VySDE3eFVnUmZnTWtnYmEyT2pEVEMwR0hKNzZNMUtSYkJuWkpXVUIxdFRMUW1FUlRRSktjQUk3MkhjQmVvVlBwdzBKcFNmcUdSNkJuX1hqR0N6OE1jTVFYTGZFQmdxYmRmZ0l1MFJiTmJMRlZR?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjBJZXZaRFpsX2tDcXp3SWZFQ2h3clNrX2pZNjNNTm1IMEF4WDdKNEJTeE1Kc01vM0Q2RWUtLWJza21xM0Q2T1hmNFNoOUdQa19ZdjFOcXA5SzB6VkI2WEZjdU90SEpnRkU1RGVPaTVvZlJxWDJ2U1A4cEg2Qk9wVnNQUGdtLTE2aVZmdHpBR3BpY0Q2X0hKOFBRQ0dub2NtdGc?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSMFlfbUxqSVhwN05PSmUzMWotNko5Y3hLZV9rMFpZa1p4UU5LVDlXWlV6d3RsVFFKbVozc2dWeExTelJKemRSdzBHY0JQVjJhOWx2a0FFWlhYdzdpU1VqT2c5ZE16dGdl?oc=5",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jSHF2MVNrTHVseWswY2tJMDN4b1M2MGJtTjZxUGxsU3FhNVpzbjR1Q09WT29rakwtTW1fM2I4RHJqS0lSeS1PN2wxUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMnJSTW10eHZuRm1KV190UFFnRi1yOFg1MlBwd09mQ2JFeGhvaHFUdlAzdzB1MklnU2lhcXZWWWdCaGRGREZ5YVY1Z0FINElLOFhkWV9kSWh3RkN5SnpGZ3N4b1hlVVJHS3JLTmtiZDR3Q2d3RWZsYnp0RG5GNjFHXy1rdGlCcEFNT0doNkxxRmc0Wktyb2JlbzQ2TDZwNUtITl91NlQ3VmhGR2N1ZnRYdm96T3dkN0N0RXhVTFZEZ1h2cGRzWDZ3SFNFdU5aZzFfaXUtQkJR?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjF5aG1NcEp2ZGxHWFh1dThSTkMyZ1BwRmJCWjRYTVRIaFJTSmF0VXo3c1M4dkdkMEhhWkJHdGYtZm85STdEQWFERDNFTVlOWGk1X3FfZWJHWUdNNm44cmVETHhGTnlXUlp6eXN0VEVMYlNwUkRIcURudWdmM0VRSGdNbzhTd1RhQ19PbVJNdHNaV3lXOTdlR3BjVDEtNVZ1SjJyVFNnd1VqNWx3d1l5S1RPcw?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnOXBIcDd5ejJ5MVQ3N0ZpNGhDenJDQW96Q0FZSWVIRUN4OFJQMTlUMzZWanI3OXZjMGU5UE52WDhoV3U0a1p4UF9LOUtVRE41NDlCREFScjNyUmZjTU1KalROc1VsQmk0V3pSVkVZVC13ajJ6T1VZWTRpOFrSAVdBVV95cUxPWEh2X1JRLXkwWWpvRzZYUHNpRDRzSHlvZGM0YlEyOFEyRjFGR2JDMl9mX3Z1U0tTLWVEVmt0RXdIVEZoTE9SV2NCWHU4R2NsRTJ0RXowOXM?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOXzAxcTRYVDFkQnpDYVVsM3N3MUtJajU0Zi1RcjJXYkQycENhNDR5aE9jckNrM0tuaTFHQnJaVFBjb3Ntcnd4THdMaGJSU05FcDRKOWtod3hOR01mZXhHbmVMUXJ0RUM1VEdOelBHTmZIU0FYSnBUMWR4TXRmeXR5QTN2QW5UNFB2SjV0bFFB?oc=5",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/27248/pulled-in-just-two-days-total-war-shogun-2-complete-edition-sales-suspended",
     "https://www.invenglobal.com/articles/27247/wardogs-season-2-launches-with-thunderstorms-tanks-and-faction-incentives",
     "https://www.hltv.org/news/45729/betboom-eliminate-parivision-from-twc",
-    "https://www.dexerto.com/dota2/dota-2-pro-forced-to-play-in-front-of-police-to-prove-who-he-is-after-esports-bootcamp-raid-3419174/"
+    "https://www.dexerto.com/dota2/dota-2-pro-forced-to-play-in-front-of-police-to-prove-who-he-is-after-esports-bootcamp-raid-3419174/",
+    "https://gameriv.com/valorant-voice-evaluation-now-better-detects-toxicity-in-spanish-portuguese-and-korean/",
+    "https://www.vlr.gg/773166/emea-kickoff-qualifiers-format-revealed",
+    "https://insider-gaming.com/peak-console-release-date-revealed-for-ps5-xbox-and-switch-2/",
+    "https://insider-gaming.com/wordle-hints-answer-october-16-2026-1945/",
+    "https://insider-gaming.com/preview-the-expanse-osiris-reborn-is-a-game-you-shouldnt-sleep-on/",
+    "https://insider-gaming.com/riot-games-and-louis-vuitton-publish-k-da-travel-book-tempo-point/",
+    "https://insider-gaming.com/vct-2027-emea-kickoff-qualifiers-outline/"
   ],
   "title_hashes": [
-    "fa17513d1ab086b216daf9175a3eb11a",
-    "e9d69672cb5b60025239ce4f9e593669",
-    "689648bf77428b1a94da23a278ab8fca",
-    "df5585d24c542e65678f20ccf37bb71b",
-    "06f031dc3fba3bb0f7fc1cc88fe1303e",
-    "665b80c4c241f553c1257c114d910a4d",
-    "43c22dc5d1dd01e3713b45163c49d92b",
     "98b09c77768f42b2522783b748da06ac",
     "c5b97cd00deb2fd5037ced1df8df7754",
     "72c9666519fe2a463a000593f7e084bf",
@@ -16001,7 +15994,14 @@
     "ef075e66d9bf0973cffdbee1eb1ba784",
     "9d94e5d38ea457ee2b5330598a9d3dde",
     "6db7c00d4c0e87d18b83b7c4f3583824",
-    "b988aa0bf32a8630deea5fb05c48f11f"
+    "b988aa0bf32a8630deea5fb05c48f11f",
+    "e4a90f94bfd6f18c74fa94c28bac3f63",
+    "a9a28e840047dd054e1f35dc5b17990f",
+    "a10efc56ca0628a5fcb2a93cdbc9bd7a",
+    "62aad798e068e4447f2f2edc15c6d93b",
+    "9f1897ba3f3c24bb179e37adcc1ff134",
+    "07f51fad1162b330e6b887c38c9e183a",
+    "70d2e72234c57ca76dbba9153cbd2b5a"
   ],
   "transfers": {
     "pages": {
@@ -21240,6 +21240,26 @@
     {
       "t": "2 23savage 32 after bootcamp dota dropped esports forced front handcuffed his kills officers play players police pro prove raid raided says skills team who",
       "ts": 1792089679.2426295
+    },
+    {
+      "t": "dates eligibility emea format has kickoff qualifiers requirements revealed riot",
+      "ts": 1792089684.6853254
+    },
+    {
+      "t": "16 1945 2026 answer game get help helpful hints need october post starting today wordle words",
+      "ts": 1792089688.2404163
+    },
+    {
+      "t": "expanse game here new one osiris our post preview reborn shouldn sleep story that universe vast you",
+      "ts": 1792089691.6478755
+    },
+    {
+      "t": "book collaborated create day exploring games have lives louis point post publish riot tempo third time travel vuitton",
+      "ts": 1792089695.036148
+    },
+    {
+      "t": "000 100 2027 emea financial its kic kickoff open package post qualifiers qualify receive riot successfully support teams that through unveils vct will",
+      "ts": 1792089698.4580483
     }
   ]
 }
