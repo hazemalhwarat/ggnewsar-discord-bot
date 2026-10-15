@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26388/quietly-dominant-lee-jae-ho-defeats-kim-jung-woo-3-1-to-advance-to-semifinals",
-    "https://thegamehaus.com/gaming/when-does-the-destiny-2-vaulted-content-become-free/2026/09/21/",
-    "https://thegamehaus.com/college-football/college-football-week-4-picks-against-the-spread/2026/09/21/",
-    "https://thegamehaus.com/college-football/college-football-week-4-picks/2026/09/21/",
-    "https://dotesports.com/league-of-legends/news/lol-trundle-troll-voiceline-reported",
     "https://dotesports.com/call-of-duty/guides/best-vmp-loadout-bo7-warzone",
     "https://dotesports.com/valorant/news/valroant-patch-13-6-notes",
     "https://www.hltv.org/news/45565/bcgame-bench-electronic-sources-indicate-asap-as-replacement",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/news/steam-launcher-update-faster-than-epic-games-launcher/",
     "https://www.talkesport.com/news/wardogs-season-2-update-patch-notes/",
     "https://www.talkesport.com/news/cs2/cs2-update-patch-notes-demo-viewer-round-backup/",
-    "https://www.talkesport.com/news/fortnite/fortnite-servers-down-october-15/"
+    "https://www.talkesport.com/news/fortnite/fortnite-servers-down-october-15/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/bmsd-2026-hyderabad-grand-finals-preview/",
+    "https://esportsradar.gg/riot-games-reveals-vct-2027-schedule-spanning-15-host-cities/",
+    "https://esportsradar.gg/exclusive-team-liquid-expands-educational-footprint-through-daigon-partnership/",
+    "https://esportsradar.gg/brazil-recognises-esports-as-sport-national-director-answers-key-questions/",
+    "https://esportsradar.gg/daniel-tsay-steps-down-as-general-manager-of-call-of-duty-esports/"
   ],
   "title_hashes": [
-    "36990e37afe7091dfc33c7d180fcdb78",
-    "899f2aec60e980f21f308f590f368034",
-    "093db62bb9b9f74a69a0521753c1f1b8",
-    "da719eb74e8d7f65c85e29ed6e743eed",
-    "70c0a81cbe12d7d56875859eb5b67e43",
     "a57b8b24ba30560fd49fabcbb696cbec",
     "8558e0d0dc3492e418e1c9b6f0c35744",
     "50ed3eb0b526f772acae8727adf9de50",
@@ -16001,7 +15996,12 @@
     "6288e65ffff214299d78ffcad4f09fc2",
     "d925a49a5b7202eb9653707621f622ab",
     "5d008c9a257074f171718fd0ad1e0db4",
-    "914755475ae14858eefc583715cdc611"
+    "914755475ae14858eefc583715cdc611",
+    "a71c66807e9ba831332dcf480f6a2078",
+    "ea26a968ddb765a3da897b4a487f391c",
+    "5acc69de826121fca9f8df823a913027",
+    "9addb7e21315c3b5cfd5e8acde70c85c",
+    "08309f490debd200a8ebdd49c0002949"
   ],
   "transfers": {
     "pages": {
@@ -21192,6 +21192,26 @@
     {
       "t": "15 2026 30 4 40 about back closes down downtime earlier epic fortnite games has maintenance matchmaking minutes october scheduled servers shou starts they update usually v42 when will",
       "ts": 1792075318.64788
+    },
+    {
+      "t": "1 16 18 2026 arrive bgmi bmic bmsd chase convention crore finals gets grand hyderabad line october pmgc post ready savaaya six sixteen slots spot teams",
+      "ts": 1792075324.1692348
+    },
+    {
+      "t": "15 2027 champions cities complete fixed framework games has host its leagues major marking officially open operational pivot regional reveals riot schedule spanning structural tour unveiled valorant vct",
+      "ts": 1792075327.801139
+    },
+    {
+      "t": "after announced based daigon educational esports exclusive expands footprint global have launch liquid malta new organisation partnering partnership provider school states team through united",
+      "ts": 1792075331.3643517
+    },
+    {
+      "t": "13 138 14 2026 8217 activity answers brazil country decree director esports formally framework games has key legal national october part president questions recognised recognises regulates signed sport sporting that video",
+      "ts": 1792075334.8800232
+    },
+    {
+      "t": "activision announced call competitive daniel down duty esports general has his manager officially overseeing position pro responsible stepping steps that tsay",
+      "ts": 1792075341.197302
     }
   ]
 }
