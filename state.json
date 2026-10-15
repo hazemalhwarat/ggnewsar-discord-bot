@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://pley.gg/valorant/patch-13-06-notes/",
-    "https://pley.gg/cs2/bc-game-bench-electronic-in-strategic-vrs-manoeuvre/",
-    "https://www.invenglobal.com/articles/26393/microsoft-patent-outlines-ads-that-pause-games-to-earn-more-playtime",
-    "https://www.hltv.org/news/45566/official-bcgame-add-asap",
-    "https://insider-gaming.com/heartsteel-live-my-life-league-of-legends-skins-revealed/",
     "https://insider-gaming.com/new-vegas-online-trailer-classic-fallout-mmo/",
     "https://insider-gaming.com/vice-city-trademark-abandoned-wwe/",
     "https://insider-gaming.com/mr-records-preview/",
@@ -7999,14 +7994,14 @@
     "https://www.hotspawn.com/valorant/news/vct-emea-kickoff-open-qualifiers",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0ZFa2VfcEw2dDFWYlFiNV85UW9ZZzd2YUNlWnpkc2lodTZFMUpnZjFMcHpRT3Q4bEZ3T21RbkM5UHgwX2J4cGZQekxJZ2Exd2lUUWdvYmxoOERoOV9MSHhfYkJvajB3NUZLNHQySUZLQzlDQ3NEYXVXRzEyMi1BR0Vn?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkYlNaamdtNzV0TjRwOWlWZE9zVDNuMDJHTnE2NGVpbjVhaWRCWGpReWRjcDdVOGQwVEcybXM0NjZrdHZqaEg0dFJNRmpvNk1oWEdXb0plbVpFQngzcV9kdEw0RWF5R2ExTmZn?oc=5",
-    "https://www.nerfplz.com/2026/10/reading-team-comps-in-lol-questions-to.html"
+    "https://www.nerfplz.com/2026/10/reading-team-comps-in-lol-questions-to.html",
+    "https://esportsadvocate.net/2026/10/fifa-postpones-fifae-finals-2026-jeddah/",
+    "https://esportsadvocate.net/2026/10/esports-government-france-ewc-national-pride/",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xRTM4YUhoMURIRTh6YWVxYWJEM0VVX0JUcjU4QVZ2RTlpbV92cVRQYWdLQnNBWkdBa0cwU201bFJZQ0JXTExWbzVmM0YwY01ZcVNaeVJYbXNhRWZy?oc=5",
+    "https://esportsafricanews.com/beyond-the-arena-what-a-decade-of-ufa-reveals-about-africas-fighting-game-future/",
+    "https://esportsradar.gg/2026-valorant-champions-bundle-raises-over-50-million-for-esports-teams/"
   ],
   "title_hashes": [
-    "dc4fe593537fc59ab6b72c9c7d2749d2",
-    "807225ab9e328fe7302a9e724a67eeff",
-    "6cba16a263d0729c44cfb43652cb204f",
-    "e23fdd4f2a946292c0c9869bbf7af4b1",
-    "792eab2d66588bddd214d8ea28b19ba5",
     "18cea558d5d305629da4056beb9c5c0c",
     "b11dd90a369baabc5a81a3ef7515d3c3",
     "241799d450d17926106cbd26f4282821",
@@ -16001,7 +15996,12 @@
     "cd6c718380bf89cb9ee8b84a3da5bc09",
     "2392a2923aedeb46ff52155156acd8d4",
     "ab88098a769cba4dff69489280203bc3",
-    "8590a627ebc13434e4c3844be29a557b"
+    "8590a627ebc13434e4c3844be29a557b",
+    "ea87da1dbb2ee993131feff524bc42ac",
+    "ec55af70d3efc5c844644d9498b9047f",
+    "c522317775a2d401103818bfac6b29b4",
+    "6dc9f64200782544944beb0a04220b27",
+    "412141491ae5701c9baf9c697208a37b"
   ],
   "transfers": {
     "pages": {
@@ -21300,6 +21300,26 @@
     {
       "t": "about absences ask before comps die draft first game guide has league legends lol longer minions mostly player questions reading single spawn team their these walks which who whose",
       "ts": 1792089736.7959456
+    },
+    {
+      "t": "2026 8217 after before brazil calling championship day due esports federation fifa fifae finals first football have japan jeddah match national off played postponed postpones saudi team withdraw",
+      "ts": 1792089742.283371
+    },
+    {
+      "t": "2026 after beside best contest countries due ended esport esports ewc france g20 government hosted image impact iran leaders national next over pride standing striking trophy two war what world",
+      "ts": 1792089745.7654223
+    },
+    {
+      "t": "ahead balblna coach cs2 down events fragster k27 key nbsp steps",
+      "ts": 1792089749.1931906
+    },
+    {
+      "t": "2027 about africa arena beyond decade fighting future game has mark prepares reveals september ufa ultimate what",
+      "ts": 1792089752.594728
+    },
+    {
+      "t": "2026 50 announced bundle champions esports event games generated has million more officially over professional raises revealed riot teams than that valorant",
+      "ts": 1792089756.1165884
     }
   ]
 }
