@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjlmNU1Zc25FeldZVnV2V0NfWEFkSDg1X2V3MWZwa2NUTnpvQ1JLdXpMUDRNYTFCbHRMMHlTbVlnS1p1RVdLRU1FMzlNYllwSHF4WF9vanFmbC10QU51WVZNbWVTbHFZeFFSSmJzWW5Rd3VOalBTaFBtM2lDNFI3Y19XU245NGFaSkNYNFRQdEhCdVRqRkpPZ1RMMFpCMnNV?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNakJSLUNYX0xVTzlSUUJRMkp5YU5KWXkxNGZFYlBtMGdVN25HcVNkX3RXSWhKdDR1Tkx6Z2sycngzR3VrV21TSEF5ZXZxcFpaWGdmcE1faVJRajczZ0JncXRha1MxZkFMRFVjUlJLY0ZtZzk3WFh6b2pNdlBKamJtMlNPUXJxQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0ZHMzhoNEZySjR6ZlR6eUE1M0Vjd0NEeVRfWHZzUzFQdy1UZUZFOGVzMjFVXzdmbjRJbnd6VVRwcmNxVGQtVzBhN0lDbUJoV1phTnlHZE5NTHluMWFCeS1CbW1tQzEzMzhXZkplNzdZU293QWxfMDBZcjY0YWtKR2tyWXl5NXBaUDAwRE1mbVhQcHVucUE?oc=5",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY0tjcWY1Vm5xT08zZkJaS3BzUEhqLXIyTHladkRNdUpNVGtFSHE2TUNJNXF4WXNzOElLaDJEemVtTHJGalVNX1ExV2N3Vy1BY3FkVkpjTVZOVmk0WGVGNlJMRTJleTYwdWc2alRvbmdyYWRucGJBS25XZl9Pd3M0VmNFNlZRcjN1YUJTX1J0akJZR3JGWVlTV05JeVMyV3NpYjcwM2laYW5LajMzTEFrdjZrQ2JEQ3FpbFBVVjRMSmoxT3c3WG83X0oyVTYwWWlJUWp1WlJqZw?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXBKZ0RsNUhqZHI2SmFKenJTVHZpR3Q3OHRScGU3UzJ5cFVCSEhKWXg4SDFIYTc2dHpmQzFZOTV2ZFNseXdpWWkwd3VoOFFmWnRqNXRYWmt2RHBUdzh3VVdET2gwamoxT3lvRXBGMWVJRDNCR0x0UmNIanRLemxrNDBIQlpSX1hRTjBYNExWcw?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN1FwMlI1eTRLd2w4YnpFdDVaWlhpc1pqRE1BWnF4bHd5eGIycTRUMDdfcUtCN2V4Nk1OV2RKbDkweVZscUhtS1ZBZjFITVBsM3pWY09KQ21VWVNIbG5Yem5rWXV6NWRtdDc5cWtiQ1FoZ3k5Z29GOHNaa2R2SkEtRmticzlDams?oc=5",
     "https://pley.gg/cs2/world-rankings-cs2-2/",
     "https://www.invenglobal.com/articles/26334/tomb-raider-legacy-of-atlantis-developers-go-behind-the-scenes-in-new-documentary",
     "https://www.invenglobal.com/articles/26333/red-bull-legends-inn-brings-apex-legends-duos-tournament-to-utah",
@@ -7999,14 +7993,15 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2s1aFRzVG9DTXpXRTZUTGxsSDZYVklUZzcwdXNzakViS0hPbk9kbWhna1R2amdQRmJuaDF1RERNZ1N5UEtSYmliREZOM29jdXlrZ3B1VHVKTG5kMThCaUVPdlRIM0tMdmRSUmNYQWk2OF9HckN6N3M2WWo0R0htUFFuaUZWc0hwdW9YOTNBNDQ2X1gzdWRrdi1RLUN1dVRqbnZ1amRPN0V3ZmlCNVdBcQ?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2FlZGlRX2wtYnljTUY4OHdTbHpJN0JIT0hrajRxNndENGRYSDF5UG1VelJFNDRVSk9xeGJ0Z0dvWWJCZGJjV0xmclVSTUdrNERpRzFkeHhZM29GblJ1TmsyLXFZWEhGTnNuNWJoM0NOUWpvTXFaeEtqTG45TjhzSkw0MWpud0FkWnkyNW4zOA?oc=5",
     "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbllqajVpVkNvYzJSbVFWU0ZTZmxpT0xCMDlBSElBVmRwNTRkNlFTUkpCSURiRUx0VU5YS1p3SUZ1a0xGVnZBYWx3RTQ2bEUwYzhlT2d3d1gtdnVCX2tlMnpTQkI2ZVgxVlV3R2l1VEtDdHlqeUE3TF9CR0s2TlZyZUhnRlhhSDZnMk5QQm82RktoWkZycUpUdGhlNEk0eGJZYTV2aVUyaDFTNHZVbEtfcHZzbVJ0enVmQUZVejZITGNDVmdQNFdoNlJHNnZwaDFoWTF1NlVPM2I0U2NRWWl5Uk13Vk9mWDV2YnJ2dHowdndKSEFySklaYmJ5WUVxaTVsekNNRTRia2FZS0k?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVFDTHpqMC1Ecm9FSWp5YlpXekVfeEVPT3EyTUJjWFFvYUhFa2w0bEgtUkJ4R19lVm1UNktVWVFpM25yUzduY0RqTnpmSHdpSkc4UFgxNzdpMkM0ZHFvMXdjSUF0WFFROWZpYUR4NVVveGVMSlllZEc3TzljS3YtSU9MdmFKT2Z2aW4xaFMyRnJuWFlzbl9RdWJVUENZZWc0ZnJzeA?oc=5"
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVFDTHpqMC1Ecm9FSWp5YlpXekVfeEVPT3EyTUJjWFFvYUhFa2w0bEgtUkJ4R19lVm1UNktVWVFpM25yUzduY0RqTnpmSHdpSkc4UFgxNzdpMkM0ZHFvMXdjSUF0WFFROWZpYUR4NVVveGVMSlllZEc3TzljS3YtSU9MdmFKT2Z2aW4xaFMyRnJuWFlzbl9RdWJVUENZZWc0ZnJzeA?oc=5",
+    "https://www.invenglobal.com/articles/27213/crunchyroll-holds-crunchyroll-festival-korea-to-celebrate-official-korean-launch",
+    "https://www.invenglobal.com/articles/27212/high-earning-pro-gamers-begin-unwinding-personal-corporate-salary-collection-practices",
+    "https://www.invenglobal.com/articles/27210/pre-registration-opens-for-gunz-the-duel-remastered-korean-service",
+    "https://www.invenglobal.com/articles/27209/play-together-launches-sweet-halloween-update",
+    "https://www.invenglobal.com/articles/27207/world-of-dokkaebi-hits-no-1-in-google-play-revenue-five-days-after-launch",
+    "https://www.invenglobal.com/articles/27208/konami-launches-castlevania-belmonts-curse"
   ],
   "title_hashes": [
-    "1e626607c25866a22874bfa134649618",
-    "c52b186b5dd5169410e66a3cb0632c03",
-    "6a4fb16aae2e778f85b711b6fd4d0e29",
-    "fa146ca6e71ca873ae8ed183c3e515e5",
-    "8d7dd509d10c793a93050c856321481c",
     "e8c44b0ccdced270c0c6045ed68c2d22",
     "3f9acd2a706776f74e8d5d5e8064cc1f",
     "d536f2461203ee39e9196cf824eb2b00",
@@ -16001,7 +15996,12 @@
     "fb9e828e28586c18260e1616672ac922",
     "f2ab5fb218da8b84623f45579aa4ba11",
     "5d021e8908b4813540760916c03091ee",
-    "3d5d867c2bbb9596fbe16cb21be4eb05"
+    "3d5d867c2bbb9596fbe16cb21be4eb05",
+    "045d912d336eae72866a57eb1303d454",
+    "881f052c9ae26af50ddd66ac0c899067",
+    "b5f09bdf4303826c712e9343b34ed026",
+    "4acedc76a7882754a3ce3a640693ae7d",
+    "06c4164944d5b49fd1c4d903aafd3c2e"
   ],
   "transfers": {
     "pages": {
@@ -20710,186 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "1 action any around based capcom echoes familiar fan fight fighter fighting film game hadouken hollywood iconic live paramount pictures round shout street strikes that theaters this through time",
-      "ts": 1791972653.3588057
-    },
-    {
-      "t": "along awakening balance competition eclipse equipment ground guild has hunting improvements its mmorpg october outlines plans revealed smilegate update",
-      "ts": 1791972656.7451937
-    },
-    {
-      "t": "6 absolute but called can essence experience goddess good look main may must narrativehere nikke quality rivals side stories story their they victory where you",
-      "ts": 1791972660.1252825
-    },
-    {
-      "t": "14 2039 4a digital dlc edition expansion games gamesdeep lineup metro october open opened orders pre revealed revealing silver story",
-      "ts": 1791972663.6377714
-    },
-    {
-      "t": "always bang concurrent counts crucial discussing domestic evidence explaining familiar game gaming have market metric numbers online player popularity proof served share steam success true unit valvewhen while",
-      "ts": 1791972667.0470688
-    },
-    {
-      "t": "5 dlss gameswhere late meet netease november nvidia support where will winds",
-      "ts": 1791972672.2520428
-    },
-    {
-      "t": "14 announced blood collaboratio cross director donate donation get headed hosting hosts keyring korean kuya kwon october onion promotion red restaurantz services that young",
-      "ts": 1791972675.6796517
-    },
-    {
-      "t": "15 5 announced belmont castlevania curse edition midnight nintendo oct october physical playstation release releases switch that unianauniana will",
-      "ts": 1791972679.0901194
-    },
-    {
-      "t": "3 5080 emtek inc infinity launches rtx",
-      "ts": 1791972682.6921117
-    },
-    {
-      "t": "14 announced blacksmith cozyplay cozyplaypublisher demo developer fanta fantasy free kst midnight october polden publishing released releases simulator steam that",
-      "ts": 1791972686.1006012
-    },
-    {
-      "t": "27 5 announced begin ceo console edition football korea koreasega manager orders physical playstation pre ps5 publishing saito scheduled sega that",
-      "ts": 1791972691.1504714
-    },
-    {
-      "t": "2027 53 6 731 advance announced award awards countries finalists game games has indie international korean saw show showthe taipei teams this year",
-      "ts": 1791972694.5300407
-    },
-    {
-      "t": "14th alto announced edition featuring harry introducing its k98m keyboard keys korea korealogitech logitech mechanical patronus potter spells symbols that unveils wireless",
-      "ts": 1791972698.0346293
-    },
-    {
-      "t": "added adds anime announced collectible endorsi god has its netmarblenetmarble new princess rebellious rpg ssr teammate that tower world",
-      "ts": 1791972701.4762926
-    },
-    {
-      "t": "5 announced h2 interactive interactiveh2 korean launch nintendo november officially ps5 releases switch that version volt will",
-      "ts": 1791972704.8715892
-    },
-    {
-      "t": "240hz 32 4k ag326uzd alphascan alphascanalphascan display has launched launches",
-      "ts": 1791972710.164115
-    },
-    {
-      "t": "16 16th announced asus asusasus creator equipped laptops launch nvidia october officially p14 p16 proart processors rtx spark which will",
-      "ts": 1791972713.569757
-    },
-    {
-      "t": "14th 2027 announced annual ces event host hybrid its january las lenovo lenovolenovo presents strategy tech that vegas will world",
-      "ts": 1791972717.6297014
-    },
-    {
-      "t": "14 2 action adds faust fighting game gear its lost milky new october online outfit outfits pieces rank revealed saga system two valofevalofe way",
-      "ts": 1791972721.0018113
-    },
-    {
-      "t": "14th 3rd added adds anniversary announced attribute celebratory curse event has hosting mark new nhnnhn odyssey region release that while wooparoo",
-      "ts": 1791972724.3931875
-    },
-    {
-      "t": "2023 face familiar first major monte piece playoffs rebuild rejoins run sdy their",
-      "ts": 1791972729.4073207
-    },
-    {
-      "t": "0 2 69th beat bracket bucharest continue ended gaming maps nordic npg partners pgl qualifier ranked reading route run rustec side then title two went whole win",
-      "ts": 1791972732.7457218
-    },
-    {
-      "t": "amp appear astralis cmtry complete completed counter danish end era has its kamil nikita post roster samolotov signings siuhy strike szkaradek",
-      "ts": 1791972736.1349585
-    },
-    {
-      "t": "according amp appeared closing down downsize downsizing new planning post redlynx report shut singapore studio studios ubisoft well",
-      "ts": 1791972739.7338514
-    },
-    {
-      "t": "2 8217 9 beginner build franchise help hints host mode planet post sprawling succeed successful thrive tips you zoo",
-      "ts": 1791972743.1032662
-    },
-    {
-      "t": "2026 begin champions championship cologne eight event falcons high huge iem major placing post pressure starting team thunderpick world",
-      "ts": 1791972748.142563
-    },
-    {
-      "t": "14 2026 amp answer appeared contexto first full gamin get guess hints insider october post stuck today trying you",
-      "ts": 1791972751.535434
-    },
-    {
-      "t": "2 2029 30 44 8217 according agreed agrees boston celtics charania contract espn extension guard have million mutual option payton pritch pritchard season shams two year",
-      "ts": 1791972754.9356747
-    },
-    {
-      "t": "110 8217 according agree agreed also brandin charania contract deal espn extension five fully golden guaranteed guard have includes million podziemski shams state warriors year",
-      "ts": 1791972758.4146056
-    },
-    {
-      "t": "6 against but enough even games hard here nfl picking picks season spread spreads straight tallysight tougher week",
-      "ts": 1791972764.249732
-    },
-    {
-      "t": "6 can denver ditullio each even footba games here his joe make nfl night over picked picking picks season seattle straight thursday tough week will",
-      "ts": 1791972769.2045567
-    },
-    {
-      "t": "8217 after champions china did disappoint eliminated ended g2 loss now only pacific region second shanghai six still t1 top trophy valorant vct why without",
-      "ts": 1791972772.5567386
-    },
-    {
-      "t": "africa become beyond cadets companies could esports fighting football forces frontier games has military next opportunity personnel private school security",
-      "ts": 1791972775.965214
-    },
-    {
-      "t": "3 8217 8230 appea brings corps deal deepening expansion extends formats franchise gaming instant markets new ontario pigs post regulated two videoslots win",
-      "ts": 1791972779.3785143
-    },
-    {
-      "t": "8230 agency changes comments consultation data gambling have mandatory model player post prompted protection regulator reopens requested risk round second spain that",
-      "ts": 1791972782.7679625
-    },
-    {
-      "t": "10 8230 account asian charts decade english esports have language maps mobile now over overtaken post quarter shifts streams time titles viewership watch",
-      "ts": 1791972787.7827182
-    },
-    {
-      "t": "2025 8230 accounted anj bettors bigger calendar data excessive football france french growth leagues lifted links niche players post stakes steady tennis while",
-      "ts": 1791972791.782991
-    },
-    {
-      "t": "added anbernic association console entertainment esa flags government has inclusion list maker market more notorious read recommended retro software that",
-      "ts": 1791972795.8851943
-    },
-    {
-      "t": "closing closure creator cutting developer finnish franchise has ill job jobs lead losses major proposed redlynx singapore studio trial trials ubisoft",
-      "ts": 1791972799.2680516
-    },
-    {
-      "t": "asha boss ceo existing firm franchises game has more not only organisation read relies reportedly sharma survive that warned warns will xbox",
-      "ts": 1791972802.7152684
-    },
-    {
-      "t": "after agent becomes brnz4n five free leaves mibr years",
-      "ts": 1791972807.7321563
-    },
-    {
-      "t": "24 becomes esl fourth league most pro season",
-      "ts": 1791972811.115195
-    },
-    {
-      "t": "anyone can champions has history loud make shanghai twice valorant won",
-      "ts": 1791972814.5838861
-    },
-    {
-      "t": "championship falcons favourites kicks malta off start thunderpick world",
-      "ts": 1791972817.9619746
-    },
-    {
-      "t": "2027 china esports insider nbsp partnership plans reported vct",
-      "ts": 1791972821.3558147
-    },
-    {
       "t": "alongside faces franchises game hands iconic legend link main mario most nintendo ocarina one protagonist recognized remake representing time true widely zelda",
       "ts": 1791990464.9626005
     },
@@ -21252,6 +21072,26 @@
     {
       "t": "2026 26 8220 8221 adc angeles appearance debut earn event everyone first harky helped his hữu international like los making midway mvk nguyễn promoted really season show through ticket văn what worlds",
       "ts": 1792025079.9010036
+    },
+    {
+      "t": "2026 24 8 anime area celebrate crunchyroll crunchyrollglobal festival hold holds hongdae korea korean launch november october official saturday seoul service streaming sunday will",
+      "ts": 1792041359.5633368
+    },
+    {
+      "t": "been begin begun collection corporate due earning entities far gamers have high imposed league penalties personal practice practices pro receiving salaries salary sanctions tax there this through unwinding",
+      "ts": 1792041363.1611285
+    },
+    {
+      "t": "15th casual game haegin haeginon halloween its launches mobile network out play rolled social sweet together update",
+      "ts": 1792041366.6544006
+    },
+    {
+      "t": "1 13 after chart days dokkaebi domestic five games gameskakao google hits kakao launch mmorpg new october play revenue topped world",
+      "ts": 1792041370.4944925
+    },
+    {
+      "t": "15 2d action announced belmont castlevania curse digital entertainment entertainmentkonami game has hereinafter konami launches limited october officially released that",
+      "ts": 1792041374.0852292
     }
   ]
 }
