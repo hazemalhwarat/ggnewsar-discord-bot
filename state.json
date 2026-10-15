@@ -1,19 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ScEFSa2s5VGRLcXNtVi0wZHRMOFB1clpkeWNObzZKT1Y4SGswOGg3NWVFUVhYZF9HemRLR0JROVphWlpRMklDTXV1SmJaWmNfc2NKNC1pZHJRdnlJazN3VlYwY19KNWdO?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0I2MnhWZHYyQnRvalo4VWNSLUlNWVQtMXY3cS1tekxFQVlLQUstVlJJN3BXUU15Vm5KRi1TVUZ1WDQ2OUg0dzRoU05IRFhuRDBETFFhQ084czQ5dmF4S0x6VTNfZW9paGY2YnEyWURreC1ZeC1sWU1JNHVnQ0xXS2VLVHhMeTZQNnRfXy1kOFV3MGpOaExMUGtoTmpiQzhISWllZk1Jdm9xN2NXMDFKWXA1RXRYTGxOWV92N0FrVnJiSzhnU0cwTjlXWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWd3d0lYN3QyTFFLZDR5Sl9USGs3clFhWVBlOU1pZ1J0V0ZlSTY0ZWZ1Z24zSklFNld5TGRKcE5ZM3ZiY0ZIX3lBYzNyUlpWMUJCR3gxSDc0bm9iMFZ0TDFXSjlxdDFzLTN2eEE3QVdueHI2VTd5V0lwdkZMN1ZIWmNNTDlvUkhJM0VTY3Z4QTZ6QmZtc3Z5bjV1dzRqVjJ1SnlfTFVYa284MzZvc0hkTU1Bb9IBqgFBVV95cUxPMDhRcjhPMjB1TlJ5cjdpanlXR2g3TjVrSHZMZl9Ha1ZhOFROaWx4ZXVkV1d0TF9yV3NrdVFiYnZ0QjUyZVVfQlFpSWVXWnJEeGFFcGw4bi1meHZBS1ZVc19vU0dKQ3A0blFFM0xIbUdYWlFWM2xkdWx6aTQ5WnlWOEF3TTN3dXlUWEdBTVE3WEhYd0prRE1NODBMZ3VyY2w2STlfMUxkSFRiZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0xKUWRpdndYa0Fma3hpVEpsUldXR3BoQ01pZXFsR1ZZNFVxR2hqZ1N6VnhCaVczdl9UUlZ2cHF6bzdnbG1vX2ZwM1RVYUhwdHVLbWhWamNqUjJfOGZBSjMtb1dPMWdPNGNFZV8xU3AwWHpzZjdncUY3TWo2aGV5OGt2MHNKdWF0SUM4?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVJyVjZnck5wLU4zdnN4VFpDNTdiR3lmRVRpcUR1U1k3azN2Um5iYUVENWRPNkptNWpybHdNNGw4Y0liQWE5bTdiYnFxMFdSZ0s5ZEc3dkRLZ1ZLZmhjV2E3OVoyRnlJaHhwVXB5WUZmWEt2MlJnYmI4cWR4bExZWEFZTVRvUUF5dWNrblBiZi1TbmtkbWU0R0xBVUpEVl8yUmNDTGlEZjE1b2pMZEVQQTQ5dzM?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWQ0UjJqV0ptcG85dGZsckZGZFJ6NWxiNmRxN1hpZzFVSjV5dENsVGFwQ1VENVE0VXM2VmlxZGtRSXlYbDlTN0MxdC1YNzQ4VDU2WmlrdzhIZ2ItcGFkOFdYSWlSNE9vSXA5d3BwS3ZHSm9fTDJFYklHcExmU3UwRGEtbGJQdmJxa002MXhJMlUxRF9aTWdSNENB?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yWTY1Rmdnek9vYm41Zk9CNklybmU5blRKdFktZjBnSmMtOGM2SzBWVVlUaDhIX1F4cWc4VUViTTZCcXozNHRYYjRtQUtPbUFUaV91cEEyS1lNUXNHd3VsdDFaUXBaRUliaVE?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSG9xeDAydUZ4anJsM0UzbzBVMDJnTGhRNV9yT19jWHhOallKYktOSE1PU2lhWXA3YkJ5UmNfWkprR0ZxbTJYd21QU0pxaG5vak9GckR2d29BYTV3MFNDcmNUMlZvcFZBWmF2QUgtUklsbHZaRHMzZ0ItdXZkU0pMWFNPS0dTWHhRNTBKdHFKQUxXY0JnN2ZhTmFMNlZPUFJoNzR6UXVQZHlqU2owRW1zSGFqRGZxME9IYlJpbnNpYw?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjdkZWM3emF2WWJoU1JZSjZpYy1EM0ppX0UwcUViNkRNX3ZvYnVoS2VGY3prT25fZXFDbUp2bjRJZ1BqMlhSdVVDQU9UdXZFOThtMGZwSTktNmh4ZHFPcjlyWG5FZ215SVFITzEtY1l1aTExQlppVzFZUkZJUjRlS0xvM3plcTVqYVBjUExwTGxucHJfUkgtMWVVeWNXZkV3Slh1WVVn?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeERFSkJKX1BzUGFiOUdvejVwOVhpMFp5a2ZPUnB2aXJNRXBpTkZyemllQ2FpU21vbTNEVGh6OGlUYWUyQ1NjdzY1cmZtQXN3S0hIZDlyWFluWENwYW5oX0UyUHF3OFRWa2xXTkpPRVVVRzJITFItZE14SDhaUlNRMVFEQXZOQ2VsRk5RNXR1YU12UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSnFjZjE2ZlE0U21SNTNySFBQUTFSZzBfSko1cmJycm8tdXNWQ1ZrM2lSMzFJTC1Nam1vUllZV1BKSXFmdW5meHRGRzVnOUw1NUZxSW9oWVJ1TTA1Z3NYdFJ3SlI1cDVJUEpDUFhUd0tDeF92U1lIMWh4NVV6c2xiYXVQRmU4THEwb2ozT1ZXdTNDZ0ZWQzhmd1ByeHFxM2Fia1hqN1UydGtURWJPYjVxMjlfdU5SQU5JYXdvZHlzOC1ZTVRyRzVsWS1YOXZCaHFTZm1GZGZ5OA?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVi1jcG85MGJ2VElDc3VOR2RZN0R6SFRQeEtheGZ1bHFodEpQWGFIY0hwSC1iM01pNmNib1pJUVFYaTNFRXZLZUhtSVB0eHNHeW00VXlGRndfSXZrSHpNd0NPMFVuWXptVVhUYl96dWQzNmZxbG9MaW1oSUZOS25LV0R4aV9hSzVCUDBmTnFIVjB0Q21YaTc5cjln?oc=5",
-    "https://www.invenglobal.com/articles/26395/xbox-cuts-268-roles-as-activision-takes-over-halo-development",
-    "https://www.invenglobal.com/articles/26365/hearthstone",
     "https://insider-gaming.com/league-classic-to-add-aatrox-caitlyn-irelia-karma-and-quinn/",
     "https://insider-gaming.com/halo-director-promoted-then-laid-off-xbox-next-day/",
     "https://insider-gaming.com/lol-26-19-patch-notes-before-worlds-2026/",
@@ -7999,23 +7985,23 @@
     "https://insider-gaming.com/nyt-connections-hints-solutions-october-16-1223/",
     "https://insider-gaming.com/wwe-2k26-street-fighter-elite-pack/",
     "https://insider-gaming.com/exclusive-first-look-at-nekome-nazi-hunters-hans-the-handsome/",
-    "https://insider-gaming.com/when-sirens-fall-silent-act-3/"
+    "https://insider-gaming.com/when-sirens-fall-silent-act-3/",
+    "https://insider-gaming.com/guns-of-eschaton-release-date/",
+    "https://insider-gaming.com/cdpr-has-taken-several-years-to-give-project-hadar-a-coherent-vision/",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmczYWNIdFZLMFRfYVJUaUowZ21MODN4TzFRbnRucnpkVFlldGc0eFJrUGozV1l5LVRTSm4wQ1JoaXJwR0dnQlBMbFZhNWtuUnozOGJoaXJmank4dTR0Tm5zVXd4bFY4X0RwN3MtcDNFYkxWUzN6Y05TMU5qdjB2R3BB?oc=5",
+    "https://mp1st.com/news/future-call-of-duty-will-be-a-new-sub-franchise-modern-warfare-4-conclusion",
+    "https://www.talkesport.com/news/dota2/dota-2-pro-gets-handcuffed-by-detectives-freed-after-proving-his-identity/",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92Tm14SlhHaENUejYwNjV2T3JFNFRFYWtkUWVENWlST096ZnljdXE1RGkwQ2QxWnhaWnBlUXJPZjRiUGtFWHliU3dGUUtUQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tMDNOX2lWdDdqVnRHMi1IeUEyU2Z3a2RZWnF1Y2NDSjFiMGdCdkQ3TlZHMGFjeG9TaXlrV09DSEczZF9BZUptbkJCeWZBRWM?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ENGUwSk9rd19la2tCRFNOTG01TV80OTh2TzIyM2h2NkpHX0NRX0FMUERDOHNaS0s0NEpnYlZQQXgyZGhtazYxZlhkeUV0aldLNjN5Qnc2UTlGREdQRnRvSXVPMzNEYVpoYUtVbV8zajZ4bUJRWW5Z?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pYl85ZGlSaXdUdnpBUkFGUm03aEpVS2kyM1NSRU53dmRxZXNGNjNEUkozMk9HZ0dScGQtQlMzd0xlNHlhT0twNXhHMHdJaGFBUnRmOWg3Rmo4VXhDZlhOOTJtRGprRDZ3?oc=5",
+    "https://esportsafricanews.com/one-year-one-growing-squad-females-in-gaming-network-celebrates-women-in-african-gaming/",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42a3lmMGJHd1RPNTU2Sk5RTkU0UXAtQVNFcE1wQU9RczRMbndIVnVpYWVzdC0xVDNFa0txNGl0dnE5WWlVTUV3OHdEejJuNWNBMWZlOXpHaVNWZllWN2xZRU11QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jSHF2MVNrTHVseWswY2tJMDN4b1M2MGJtTjZxUGxsU3FhNVpzbjR1Q09WT29rakwtTW1fM2I4RHJqS0lSeS1PN2wxUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LaDV4UllQQkg2cDNOd3ZMcUdFcXJMdXR2d3lLeERBcjRXUEtkZXA0a281allhQjQ3ckhJWTUta2wzU0tTSTE2MC0tYmdoMTQ1NkVJLWlqMTNpaDFWVWQzOTVlUTFva3c?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0T0tCQkNWZFdmTHNtU0ZRSEc3UUlqcHdzODltY2lsT0RBWm9LSFVtdmNObkFsZmNCVC1Ma2RPRTNteEtVendNYm0wVkFaSkktVDNYTzhQT0Fab2tQTUh0SjVXN3NPU0NQTjJR?oc=5"
   ],
   "title_hashes": [
-    "4266e67c94a067b27315b1a63053b201",
-    "592dfd93040d199678fc7e3c6f5acd88",
-    "95280242a96200ae319983d12c794220",
-    "d77432a835258f81d726203f83e4137b",
-    "c584fe7150b7103181a632c12fedf2d3",
-    "07c53c063c9e3221feddb8bf2857d128",
-    "1531b078bd714c6d87984ef7122bf03b",
-    "f2cfb63f927ede4f43470d6358367cbe",
-    "c81a63bd4462957234cd4e141f9100d7",
-    "b7898db0c3787cdcef6eec6121e40c70",
-    "a3a0deb6a3c6b36eff138d559359a985",
-    "40d7c6e3a3ea139071d854952157ef7a",
-    "2bd60fdacc1cf16e3779a2f68666225f",
-    "c082f959f768c95a84d3e95516ed589e",
     "f2ab5fb218da8b84623f45579aa4ba11",
     "f2ab5fb218da8b84623f45579aa4ba11",
     "f2ab5fb218da8b84623f45579aa4ba11",
@@ -16001,7 +15987,21 @@
     "13dcd9802eb398635a4e423d085ae2e3",
     "d38dd98b8eb6136b9afa58de625f55d5",
     "b208e450004765ec1862467a29dbec3c",
-    "b3c479387aa06c1de26eed71ea2af9ae"
+    "b3c479387aa06c1de26eed71ea2af9ae",
+    "44cb649fc4a0f39a99f0891648398e1c",
+    "107da465d0c0e1aeaebb58f6af03ac01",
+    "bcb526b8634f8634914d3148e5bd24ec",
+    "d769c33308f70c47f500a0b13289cf73",
+    "d05b471e5a0c0b4864f1c2c824d47c27",
+    "d144abff760f73a7e1e888b9a0c4cbd2",
+    "db795a8f00297b9b46609908b787a73b",
+    "9f0d49813ff06eabf13502462603aec2",
+    "cd00d50d0eac02a1e188013d0c828fd2",
+    "ada1d54b88f4d50f0c75f01dac1e72ed",
+    "c0dfd4aad9c128faa240c2ac12dd094d",
+    "e863df53da5dd41c8ed0713af3346f39",
+    "9ba4788f96521b6a2950cc4a78a20149",
+    "248e17e74de8ec3baebce51002957a8d"
   ],
   "transfers": {
     "pages": {
@@ -21328,6 +21328,26 @@
     {
       "t": "124 5 announced coming fall has launch playstation post productions psychological series silent sirens that thriller when will wired xbox",
       "ts": 1792100898.489745
+    },
+    {
+      "t": "8216 8217 after cdpr cohere coherent finally give hadar has have post project projekt red revealed several taken that they vision work years",
+      "ts": 1792100903.5802443
+    },
+    {
+      "t": "4 8220 8221 always article call can conclusion duty epic franchise future having here modern new original read sub text trouble viewing warfare will you",
+      "ts": 1792100907.256939
+    },
+    {
+      "t": "2 23savage 8220 8221 after bizarre bootcamp detectives dota experience firsthand freed gets handcuffed has his house identity kuala lumpur nuengnara police pro proving recently shared surprise team teeramahanon thai visit",
+      "ts": 1792100910.9992204
+    },
+    {
+      "t": "14 african anniversary celebrates females gaming gathering growing harcourt hosts network november one port special squad women year",
+      "ts": 1792100914.7137547
+    },
+    {
+      "t": "esports lol nbsp worlds",
+      "ts": 1792100918.7249508
     }
   ]
 }
