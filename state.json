@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/news/bmsd-2026-day-1-timings-teams-maps-where-to-watch-format-and-more/",
-    "https://europeangaming.eu/portal/latest-news/2026/09/22/214551/curacao-gaming-authority-portal-unauthorised-access/",
-    "https://europeangaming.eu/portal/press-releases/2026/09/22/214540/relax-gaming-dream-drop-denmark-fdj-united/",
-    "https://europeangaming.eu/portal/press-releases/2026/09/22/214533/adm-authorises-beter-setka-cup-italy/",
-    "https://europeangaming.eu/portal/latest-news/2026/09/22/214529/mga-mdia-ai-gaming-charter-launch/",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtT2ZNS2xUXzhkWm9HRXkyZUVpODJIR0RRcUQ1VF9nU2FNdHZiRUlVN0RtVkdEMVFyNUgwNzV6bE4zbVNOOERKemdMdnc5VE1SN3M0?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtaW9QNVRSRjBsZEJVNEJCY0k2Q0ZqNmJpVl9NS2NudWltOVhPSGlLekVOQkJRSVdJWVFRcHZaOTNIcGJJV2VKQTNPMFVRcEZOM25oaHVjM3BiaVdVeGhnSHFENDVzVVJ1?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOU13ek1QX3huQ2VzQ2FkVXhBa1U3aDJnNHZtZHQxRGM4c0hnZ3lnXzlYTzl3OHJJbVhHeTFQNHVfWktiVW81akIzM2pMeDBMWmY4bkc2OVBMSkdqWVlEVDFpZ3JfOXpWVXIySmxDLUFtZ0VLNVdRdjQ1MmVpT01DYUl0YkNSNE5EZDZsNzlraEwxdUFRT2g3T09GMXpES2dJbDBYUFBn?oc=5",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/call-of-duty-confirm-activision-new-sub-franchise/",
     "https://insider-gaming.com/arc-raiders-pve-study-asked-1100-players-what-they-think/",
     "https://insider-gaming.com/gta-6-gameplay-launch-trailer-dropped-by-rockstar-games/",
-    "https://insider-gaming.com/darkswarm-preview/"
+    "https://insider-gaming.com/darkswarm-preview/",
+    "https://insider-gaming.com/valorant-champions-tour-2027-locations-revealed/",
+    "https://insider-gaming.com/max-payne-3-failed-according-to-rockstar-games-co-founder/",
+    "https://www.vlr.gg/773083/seoul-val-ncia-austin-among-15-vct-2027-host-locations",
+    "https://www.vlr.gg/773071/fut-esports-allows-head-coach-vlad-to-explore-options",
+    "https://www.vlr.gg/773068/team-liquid-allows-nats-to-explore-options-after-four-seasons"
   ],
   "title_hashes": [
-    "d38492f2ceae8b064c840caa0fabfe14",
-    "197c447f78277c48f24f29d45006537a",
-    "ce50256ad74e8b4967434cba045546d5",
-    "c716eb65f1b392fb27f866ee447e57a2",
-    "1b668fedd0b5f694dce0ac9f9e438df6",
     "850d1d695ede7a8ff8904a779f7082ca",
     "f4434f8336e396010548a2bafb62a9a7",
     "7eb3af8332860f94c2ec5fccf2cae717",
@@ -16001,7 +15996,12 @@
     "1e4c9d7035ac0b768a805e5ed220fcfa",
     "da7f0cd0ef532a5fb754a78c74234145",
     "1a8c1c295922fd089a2934418194d4f8",
-    "cc2029e2c32724a2268e7d4989908999"
+    "cc2029e2c32724a2268e7d4989908999",
+    "3194673cc1454d9eb48a883f77d2fbee",
+    "024adbca861e44b3f0060345d7fdee7f",
+    "d25c57faa18ffae3c9fd992c97d88889",
+    "e8ec92898bc225673b8ceaa60816c377",
+    "271e8269c9afc3381ceabbf35d9dc79b"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "action arcade been classic darkswarm fills fun housemarque its leaves mood mostly niche post preview shooting some stick that twin untouched vintage years you",
       "ts": 1792075239.3396225
+    },
+    {
+      "t": "2026 2027 appeared been champions circuit games have its locations post prepares revamp revealed riot tour valorant",
+      "ts": 1792075245.412545
+    },
+    {
+      "t": "3 8220 8221 according believes dan despite failed founder game games glowing houser max payne post reception rockstar some success ways",
+      "ts": 1792075248.9312255
+    },
+    {
+      "t": "15 2027 among austin been have host locations revealed seoul valència vct",
+      "ts": 1792075252.5575607
+    },
+    {
+      "t": "2026 after allows around coach esports explore fut head may options out season turning vlad way",
+      "ts": 1792075256.0188007
+    },
+    {
+      "t": "after allows competing done entire era explore four iconic igl liquid nats options partnership seasons team through",
+      "ts": 1792075259.564056
     }
   ]
 }
