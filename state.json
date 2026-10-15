@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26371/com2us-holdings-opens-steam-store-page-for-zenonia-2",
-    "https://www.invenglobal.com/articles/26370/nc-cultural-foundation-co-hosts-korea-social-value-festa",
-    "https://www.invenglobal.com/articles/26367/vfive-games-hosts-chuseok-events-across-5-games",
-    "https://www.invenglobal.com/articles/26368/blade-soul-neo-boost-server-sees-2000-surge-in-character-creation",
-    "https://www.invenglobal.com/articles/26369/kartrider-rush-launches-collaboration-with-alpha-drive-one",
-    "https://www.invenglobal.com/articles/26366/splendid-89-tokyo-and-shin-denki-magical-girls-the-art-of-astraea-oratio",
-    "https://www.invenglobal.com/articles/26364/smilegate-future-lab-partners-with-seongnam-city-for-creative-education",
-    "https://www.invenglobal.com/articles/26363/kit-three-kingdoms-heroes-at-war-to-participate-in-steam-next-fest-starting-october-19",
     "https://www.invenglobal.com/articles/26362/valofe-hosts-chuseok-events-across-major-titles",
     "https://www.invenglobal.com/articles/26361/reinforcing-destiny-2-and-reviving-marathon-bungie-reveals-the-next-chapter",
     "https://dotesports.com/fgc/news/maximilian-dood-fgc-twitter-drama",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/27214/gundam-blitz-order-revealed-network-test-recruitment-begins",
     "https://www.invenglobal.com/articles/27189/steelseries-opens-domestic-pre-orders-for-sensei-pro-and-rival-pro-series",
     "https://www.invenglobal.com/articles/27187/brawl-stars-and-kelloggs-launch-100000-limited-packs-for-second-collaboration",
-    "https://www.invenglobal.com/articles/27185/valofe-features-seungkyus-new-song-in-r2beat-and-club-mstar"
+    "https://www.invenglobal.com/articles/27185/valofe-features-seungkyus-new-song-in-r2beat-and-club-mstar",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-week-6-tight-end-rankings/2026/10/14/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-week-6-wide-receiver-rankings/2026/10/14/",
+    "https://thegamehaus.com/fantasy-football-week-6-running-back-rankings/2026/10/14/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-week-6-quarterback-rankings-5/2026/10/14/",
+    "https://thegamehaus.com/nfl-draft/2027-nfl-draft-biggest-risers-so-far-in-the-college-football-season/2026/10/14/",
+    "https://thegamehaus.com/college-football/college-football-week-7-news-and-notes/2026/10/14/",
+    "https://thegamehaus.com/nfl/nfl-week-5-overreactions/2026/10/14/",
+    "https://esports-news.co.uk/2026/10/15/yellow-submarine-stay-perfect-with-2-0-win-over-power-rangers-in-dreamleague-qualifier/"
   ],
   "title_hashes": [
-    "ecb2226baf16613dd7697e6e52241e66",
-    "e46c3b0b4891449682687422c6428b2f",
-    "049a4a8fb6bf6b723c253b12786b0ac3",
-    "4fc4405528a2f904a97ee3b021430d51",
-    "caca251bcca1b0f33973a044fe2e5109",
-    "f5864b60835b7bae2154184d50849de0",
-    "95d784b144fcf2bc932433d7bf22af5e",
-    "e3ecdf400b5b4f18b631fce051db37dd",
     "30922f7556faa0e3ab016c5f69504e56",
     "62235a4694c743072f0db5b941a6d0c0",
     "c837f91865898d1b5d963972a05104d1",
@@ -16001,7 +15993,15 @@
     "9da367365a1dc277787b17e89a6b584f",
     "8cf5772ef0d02f6665ee16b95ba4b333",
     "96cd2a80d46141c149d8ea9a8423c863",
-    "945a5c89c9ddcb89c48e60109027846e"
+    "945a5c89c9ddcb89c48e60109027846e",
+    "18b8ffa720d022391e0d10ff30aaf335",
+    "3a7fd25ce96924b07ebe79b55b8d4e96",
+    "e963e19cb03d3326b87d39ff9f686b14",
+    "6dcf1b5323e2bb328757282ac062cac4",
+    "37f738aa6a9a154bae80d372879032ea",
+    "e6525d5b0a4c423b477b014ad2419195",
+    "011b4f3995932a909607201d5fdd8770",
+    "cbcb97c1f3ddba766ad3f114a4c26950"
   ],
   "transfers": {
     "pages": {
@@ -21080,6 +21080,26 @@
     {
       "t": "15th announced artist club collaborated features has his introduce latest mstar new r2beat seungkyu song that unity valofe valofevalofe",
       "ts": 1792058373.9837804
+    },
+    {
+      "t": "2026 5 6 after best end fantasy football has kicked landscape nfl off officially options rankings season team that tight week well your",
+      "ts": 1792058379.1148674
+    },
+    {
+      "t": "2026 2027 biggest college draft far football have here impressive improved its midpoint nearing nfl performances prospects risers sea season several stock their this",
+      "ts": 1792058382.6371863
+    },
+    {
+      "t": "7 around changes college conference country date developments football including injuries latest news notes other playoff quarterback stay updates week",
+      "ts": 1792058386.199473
+    },
+    {
+      "t": "5 close come cover divisional fifth five football has have headline news nfl overreactions plenty questions regressions storylines team week weekend woes wrap",
+      "ts": 1792058389.7025168
+    },
+    {
+      "t": "0 2 after bracket closed continue dreamleague drop eastern europe final have map over perfect power qualifier rangers reading stay submarine taking upper win yellow yet",
+      "ts": 1792058393.177809
     }
   ]
 }
