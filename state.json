@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://pley.gg/cs2/world-rankings-cs2-2/",
-    "https://www.invenglobal.com/articles/26334/tomb-raider-legacy-of-atlantis-developers-go-behind-the-scenes-in-new-documentary",
-    "https://www.invenglobal.com/articles/26333/red-bull-legends-inn-brings-apex-legends-duos-tournament-to-utah",
-    "https://www.invenglobal.com/articles/26332/poppy-playtime-spinoff-escape-from-playtime-gets-october-release-date",
-    "https://www.vlr.gg/757970/shopify-rebellion-black-allows-nature-to-explore-options",
     "https://www.vlr.gg/757962/loud-adds-balax-as-analyst-ahead-of-champions-shanghai",
     "https://www.vlr.gg/757961/thinkii-set-to-leave-pcific-esports",
     "https://insider-gaming.com/astral-ascent-switch-2/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27210/pre-registration-opens-for-gunz-the-duel-remastered-korean-service",
     "https://www.invenglobal.com/articles/27209/play-together-launches-sweet-halloween-update",
     "https://www.invenglobal.com/articles/27207/world-of-dokkaebi-hits-no-1-in-google-play-revenue-five-days-after-launch",
-    "https://www.invenglobal.com/articles/27208/konami-launches-castlevania-belmonts-curse"
+    "https://www.invenglobal.com/articles/27208/konami-launches-castlevania-belmonts-curse",
+    "https://www.invenglobal.com/articles/27206/dogs-rush-fallen-owner-to-hospital-ruffed-up-joins-steam-next-fest",
+    "https://www.invenglobal.com/articles/27205/smallest-ever-xbox-controller-revealed",
+    "https://www.invenglobal.com/articles/27204/uncovering-family-secrets-in-finnish-mythology-among-the-trolls-officially-launches-on-steam",
+    "https://www.invenglobal.com/articles/27203/tales-of-eternia-remastered-released-in-korean",
+    "https://www.invenglobal.com/articles/27202/jujutsu-kaisen-exhibition-to-open-at-duex-hongdae-on-december-4"
   ],
   "title_hashes": [
-    "e8c44b0ccdced270c0c6045ed68c2d22",
-    "3f9acd2a706776f74e8d5d5e8064cc1f",
-    "d536f2461203ee39e9196cf824eb2b00",
-    "fc62ee97f27c31b69197c90038c6574c",
-    "d0a26ba02496ba9cf16a320f0f969929",
     "0bbd19ccd0114130d423dcb53dac2b34",
     "ec21d2108f5096275ac93901c8665f25",
     "6bc2c134b15843808d74b0ba1e2f34fc",
@@ -16001,7 +15996,12 @@
     "881f052c9ae26af50ddd66ac0c899067",
     "b5f09bdf4303826c712e9343b34ed026",
     "4acedc76a7882754a3ce3a640693ae7d",
-    "06c4164944d5b49fd1c4d903aafd3c2e"
+    "06c4164944d5b49fd1c4d903aafd3c2e",
+    "4314235187b678af90aa56d63f316a04",
+    "a9a92beab8ebfcf1e557fbf7fdaee928",
+    "c6d8e4bda64252abd77bc710cd0c34b2",
+    "b77a10003d9db8a43b62138471368f9a",
+    "bc862170577b8b4cbcf2ad2ef3f57738"
   ],
   "transfers": {
     "pages": {
@@ -21092,6 +21092,26 @@
     {
       "t": "15 2d action announced belmont castlevania curse digital entertainment entertainmentkonami game has hereinafter konami launches limited october officially released that",
       "ts": 1792041374.0852292
+    },
+    {
+      "t": "1 2 4 action announced dogs elusive fallen fest game games gamesindie hospital its joins next october owner participate physics player press release ruffed rush steam studio that will",
+      "ts": 1792041379.2795763
+    },
+    {
+      "t": "14 blog compact controller ever its local microsoft nano new october official revealed smallest time via wire wireon xbox",
+      "ts": 1792041382.7110364
+    },
+    {
+      "t": "15 505 among announced avantgarden developer family finnish first games games505 indie label launched launches mythology october officially publishing pulse secrets steam that they trolls uncovering",
+      "ts": 1792041386.2668002
+    },
+    {
+      "t": "15th bandai entertainment eternia korea koreabandai korean namco released remastered tales version",
+      "ts": 1792041389.7786357
+    },
+    {
+      "t": "2027 28 4 anime death december duex duexthe exhibition february hidden hongdae incident inventory jujutsu kaisen open premature run shibuya through will",
+      "ts": 1792041393.2979863
     }
   ]
 }
