@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.vlr.gg/757962/loud-adds-balax-as-analyst-ahead-of-champions-shanghai",
-    "https://www.vlr.gg/757961/thinkii-set-to-leave-pcific-esports",
-    "https://insider-gaming.com/astral-ascent-switch-2/",
-    "https://insider-gaming.com/riot-opening-lcp-in-2027-with-routes-for-vcs-ljl-and-pcs/",
-    "https://insider-gaming.com/battlestate-games-publish-risky-games-need-them/",
-    "https://insider-gaming.com/envy-return-counter-strike-esports-3dmax-roster/",
-    "https://insider-gaming.com/injustice-3-leak-reveals-two-characters-newcomer/",
     "https://insider-gaming.com/nyt-connections-hints-solutions-september-22-1199/",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzRHQ4VFlGUHB4bU9XbTVrSEZTelNfbW1rSFMySXp6ZlpkOWFWYWNzekx2UnR4MWJUeXpBV3FxQVVqcU9YR3JyTmltdmw1Nk4tM3cxTFNydEFjb0lkN3dNdkF5Si1yZFYtVDlka0lWZ3Q4bVlOMEdmdE5JMA?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xYlQyWk9fUFJMNlpHb3FWNVMtOHZhNEtfYTZrZVQ5NDBScDlKLWZDWjdUMWYtaEZnQ2paTWw4bnZtSnZjUGszcUJNanBzM1NmODFiRm9aYmJZd1YxWEZGTmMyOElWUEJsVk9QaU1vVERxZTYzVURRRQ?oc=5",
@@ -7999,14 +7992,16 @@
     "https://www.invenglobal.com/articles/27205/smallest-ever-xbox-controller-revealed",
     "https://www.invenglobal.com/articles/27204/uncovering-family-secrets-in-finnish-mythology-among-the-trolls-officially-launches-on-steam",
     "https://www.invenglobal.com/articles/27203/tales-of-eternia-remastered-released-in-korean",
-    "https://www.invenglobal.com/articles/27202/jujutsu-kaisen-exhibition-to-open-at-duex-hongdae-on-december-4"
+    "https://www.invenglobal.com/articles/27202/jujutsu-kaisen-exhibition-to-open-at-duex-hongdae-on-december-4",
+    "https://www.invenglobal.com/articles/27201/nexon-adjusts-performance-of-6-secondary-weapons-in-sudden-attack",
+    "https://www.invenglobal.com/articles/27200/eyejokers-solo-developed-maldhalla-launches-on-steam-on-october-16",
+    "https://www.invenglobal.com/articles/27199/bitsummit-2027-opens-general-exhibitor-applications",
+    "https://www.invenglobal.com/articles/27198/demons-night-fever-the-evil-srpg-where-sacrificing-allies-makes-you-stronger",
+    "https://www.invenglobal.com/articles/27197/2026-lol-world-championship-kicks-off-on-october-16",
+    "https://www.invenglobal.com/articles/27196/call-of-duty-modern-warfare-4-unveils-content-roadmap",
+    "https://www.invenglobal.com/articles/27195/warhammer-40000-boltgun-2-officially-released-on-pc-and-consoles"
   ],
   "title_hashes": [
-    "0bbd19ccd0114130d423dcb53dac2b34",
-    "ec21d2108f5096275ac93901c8665f25",
-    "6bc2c134b15843808d74b0ba1e2f34fc",
-    "0030fce0dae98f03b90a95fc200a0e85",
-    "f89869c4d595af41ebd39cd1acdd7051",
     "799855594adc0f2bd7302c69d3234b5a",
     "850d1d695ede7a8ff8904a779f7082ca",
     "1e1e41038b631e3843a950b3ce359760",
@@ -16001,7 +15996,12 @@
     "a9a92beab8ebfcf1e557fbf7fdaee928",
     "c6d8e4bda64252abd77bc710cd0c34b2",
     "b77a10003d9db8a43b62138471368f9a",
-    "bc862170577b8b4cbcf2ad2ef3f57738"
+    "bc862170577b8b4cbcf2ad2ef3f57738",
+    "b4ed2405f50474ce83951e935eb54d08",
+    "f99db6008360830299bc6787fa46a832",
+    "6da0b59c7aeb1ff5573d9c1906a240c1",
+    "8453b4f273b66a929757002aac60a79a",
+    "8b10e3b7ce7f914a51c6712a40e6331d"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "2027 28 4 anime death december duex duexthe exhibition february hidden hongdae incident inventory jujutsu kaisen open premature run shibuya through will",
       "ts": 1792041393.2979863
+    },
+    {
+      "t": "15 2026 4th 6 adjusting adjusts applied attack fps game its nexon nexonon october online performance revamp secondary six sudden update weapon weapons",
+      "ts": 1792041398.4153337
+    },
+    {
+      "t": "16 7 developed eyejoker eyejokermaldhalla launch launches maldhalla october officially platform project solo steam will youtuber",
+      "ts": 1792041401.981194
+    },
+    {
+      "t": "2027 21 23 announced applications bitsummit bitsummitthe committee days executive exhibitor general has held may opened opens that three which will",
+      "ts": 1792041405.5293412
+    },
+    {
+      "t": "allies considered convention defies demons directly evil fever few generally losing makes night play possible sacrificing srpg srpgs standard stronger this where you",
+      "ts": 1792041409.0170183
+    },
+    {
+      "t": "000 2 40 big boltgun consoles fan fps games gamesbig officially released retro warhammer",
+      "ts": 1792041412.4519143
     }
   ]
 }
