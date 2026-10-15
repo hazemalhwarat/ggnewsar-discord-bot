@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU0hGVjlhVDgwM1ZzUGo4X0twYVU2emhFQm52TmRfd0pXV3FQWVhRVlJNNXM0akZfLXh4VHRVa04wbUd4Y2EtZF9PZHJRM2lWQTJnbUt2a3dLSE9YWWx6VDVaeGJVbU5VMy1YSFBKejhWd1hYMDZnQWxHUllWZXd5bmpQSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0RxdnhYSE5OLUtCMDdvdXRRTlhZMTROcWZwcUt6YmM0eWxmVEllWVJ1Zk5STHpWUS1mckRPTUFYdVRJbGlTM0s4RVVKY18wbGdRbjFidUxKemxtV3YzcTVGZU5MNXAtUHF6emJKZEJLY1VvcGlLQ3dTRWR2OENXN3FrY1dveHViMFFLazQ2V2RqdHRfOXJEdU43eVNkMEFKSUxrdEZSZjV4OTdTRmxPaUt3MDQ1YjRhbVE?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1lfbTNCc1lXSkg2RGdNQ0FUaXRDM1RBaThWQzBTUlcxWFo3bC1TUklpX1pzX29nQnJYUVpQcnFja080RDYzNlgxRkU1QmJfa0NNV3lQdk1zaFRIOVJhcmpKWEI5cFRNbTcyN1RETkp3VTFUS3BFMDRCQURZRGQwaThuaEVNU2xSYzdYUFZnVlVPODk3MUpSZ1ROa1BPX3M?oc=5",
-    "https://www.talkesport.com/news/bmsd-2026-schedule-teams-prize-pool-and-format-for-bgmi-showdown-season-2/",
-    "https://www.talkesport.com/news/india-esports-at-the-asian-games-2026-a-sport-on-paper-a-mobile-scene-left-at-home/",
-    "https://www.talkesport.com/news/godlike-drops-viper-ahead-of-codm-world-championship-2026-learn-explains-the-controversial-decision/",
-    "https://www.talkesport.com/news/india-pokemon-unite-team-asian-games-2026-roster-schedule/",
     "https://www.talkesport.com/news/bmsd-2026-day-1-timings-teams-maps-where-to-watch-format-and-more/",
     "https://europeangaming.eu/portal/latest-news/2026/09/22/214551/curacao-gaming-authority-portal-unauthorised-access/",
     "https://europeangaming.eu/portal/press-releases/2026/09/22/214540/relax-gaming-dream-drop-denmark-fdj-united/",
@@ -7999,16 +7992,16 @@
     "https://www.hltv.org/news/45727/esic-bans-nomercy-for-match-manipulation",
     "https://www.hltv.org/news/45726/balblna-steps-down-from-k27",
     "https://www.hltv.org/news/45725/krimbo-on-hectic-schedule-its-not-normal-but-its-unique-and-i-think-it-makes-us-stronger",
-    "https://www.hltv.org/news/45724/nip-spared-scheduling-headache-after-early-thunderpick-world-championship-exit"
+    "https://www.hltv.org/news/45724/nip-spared-scheduling-headache-after-early-thunderpick-world-championship-exit",
+    "https://insider-gaming.com/total-war-shogun-2-complete-edition-will-be-temporarily-delisted-by-sega/",
+    "https://insider-gaming.com/valor-mortis-quest-guides-walkthroughs-tips-and-tricks/",
+    "https://insider-gaming.com/valorant-game-changers-championship-at-champions-2027/",
+    "https://insider-gaming.com/call-of-duty-confirm-activision-new-sub-franchise/",
+    "https://insider-gaming.com/arc-raiders-pve-study-asked-1100-players-what-they-think/",
+    "https://insider-gaming.com/gta-6-gameplay-launch-trailer-dropped-by-rockstar-games/",
+    "https://insider-gaming.com/darkswarm-preview/"
   ],
   "title_hashes": [
-    "0f4928dba45d28dad0317c4032922e91",
-    "325ee8d0da15b13ce82081aeda417e7f",
-    "31c40b556ccb60ad743c911ba84277e9",
-    "234e3fda5adea4806bfab4b7ee1640b5",
-    "adec98b215819c4ae854564f1a86de99",
-    "898884aae6090f34e2a4cdccbcb34170",
-    "5e4a69c1a846572ac1ae365827b20014",
     "d38492f2ceae8b064c840caa0fabfe14",
     "197c447f78277c48f24f29d45006537a",
     "ce50256ad74e8b4967434cba045546d5",
@@ -16001,7 +15994,14 @@
     "0d8c39b2d92b84f7bd4ab7ed2da878cd",
     "ff74cf6af2622b7684bdfabb06099c48",
     "3a981fae0953c15327c50199d850aca3",
-    "cf405fd68322604bbcf15c2e6216bef0"
+    "cf405fd68322604bbcf15c2e6216bef0",
+    "8aa7dd0777e007f22391d768211ce1a8",
+    "51ba20bb5693d6c27460b0fb8a84ea60",
+    "4896d7ff8fe3fbc2d6ed36d273dc2f27",
+    "1e4c9d7035ac0b768a805e5ed220fcfa",
+    "da7f0cd0ef532a5fb754a78c74234145",
+    "1a8c1c295922fd089a2934418194d4f8",
+    "cc2029e2c32724a2268e7d4989908999"
   ],
   "transfers": {
     "pages": {
@@ -21092,6 +21092,26 @@
     {
       "t": "after all beat championship early exit forfeit have headache iii matches nip pulse quarter scheduling spared stake thunderpick won world",
       "ts": 1792075219.3652198
+    },
+    {
+      "t": "2 appeared backlash community complete delisted edition following has post revealed sega shogun temporarily that total war will",
+      "ts": 1792075224.598481
+    },
+    {
+      "t": "2027 biggest bringing champions championship changers conclude conclusion event final game its place post take valorant will",
+      "ts": 1792075228.1958537
+    },
+    {
+      "t": "8216 activision brand call confirmed confirms duty form franchise future get has new post something sub taking that will",
+      "ts": 1792075232.1930876
+    },
+    {
+      "t": "1 100 about appea arc asked mode more new players post pve raiders storm takes test than they think thought what world",
+      "ts": 1792075235.7804496
+    },
+    {
+      "t": "action arcade been classic darkswarm fills fun housemarque its leaves mood mostly niche post preview shooting some stick that twin untouched vintage years you",
+      "ts": 1792075239.3396225
     }
   ]
 }
