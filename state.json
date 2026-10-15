@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/the-blood-of-dawnwalker-is-receiving-a-big-update-next-month/",
-    "https://insider-gaming.com/xbox-only-three-quarters-through-restructuring-plan/",
-    "https://insider-gaming.com/xbox-to-close-ninja-theory-as-deals-fall-through/",
-    "https://insider-gaming.com/read-xboxs-matt-bootys-memo-to-staff-on-latest-layoffs/",
-    "https://insider-gaming.com/xbox-moves-rare-under-activision-obsidian-entertainment-to-bethesda/",
-    "https://gameriv.com/valorant-voice-evaluation-now-better-detects-toxicity-in-spanish-portuguese-and-korean/",
-    "https://gameriv.com/valorant-13-06-patch-notes/",
-    "https://gameriv.com/arc-raiders-targets-repeat-cheaters-item-duplication-and-economy-abuse/",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWS03dFg3WXdITFdxQ3F6NEotOVhTdm1MQy1jWTdSTUFNb1g2MHNCTGRXZDJvdG9ieGs0WkpLT1Y2eTBSUkhHS3F4cERhWnNvVFhKNkZyMlZEX2hIV2JuVE9Ib3FxOUp3WHdXMVFheEhURDM1UVlSYW5NNUlCUW5wZnpuUQ?oc=5",
-    "https://www.hotspawn.com/valorant/news/valorant-patch-notes-13-06",
-    "https://www.hotspawn.com/call-of-duty/news/movistar-koi-jojopyun-2027",
-    "https://www.hotspawn.com/counter-strike/news/vrs-shift-3",
-    "https://www.hotspawn.com/dota2/news/post-the-international-2026-ti15-roster-shuffle-tracker",
-    "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
-    "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars",
-    "https://www.talkesport.com/news/tez-ffmic-2026-fall-grand-finals/",
     "https://www.talkesport.com/news/dune-awakening-xbox-launch-single-player-game-pass/",
     "https://www.talkesport.com/news/xbox-layoffs-consolidate-game-studios-september-2026/",
     "https://www.talkesport.com/news/valorant/valorant-patch-13-06-notes/",
@@ -7999,24 +7983,25 @@
     "https://europeangaming.eu/portal/press-releases/2026/10/15/216083/evoplay-castle-of-slotenstein-3-pumpkins/",
     "https://europeangaming.eu/portal/latest-news/2026/10/15/216063/entain-q3-2026-trading-update/",
     "https://europeangaming.eu/portal/press-releases/2026/10/15/216057/scatterkings-stake-content-deal/",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDOEhiT2RRbFJ1aWNlZUY0QzVCc2E1UHhTWVZnbDBiM3M2a3pIcHprYkVCbEdPYkkzQlRlQzdHNFViYUQ1Rkt1bnpLZWx5WDRCZHc1T2U0NXlRZS02NkZDNEN6cWJUeXVyd1k4?oc=5"
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDOEhiT2RRbFJ1aWNlZUY0QzVCc2E1UHhTWVZnbDBiM3M2a3pIcHprYkVCbEdPYkkzQlRlQzdHNFViYUQ1Rkt1bnpLZWx5WDRCZHc1T2U0NXlRZS02NkZDNEN6cWJUeXVyd1k4?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUFWRnhLY0ItMmVkNDc4RlozN3NUWFFjdnFmd2tDTUJFOEZvSmdTd2h3a2RFNTB4ZG5MdDYyLWNSQk1xaTdLY0VnTFdrYXE2Q2pIRld4TzRFTkk5TmV2dHFwWndaX0hrS3VYV042OGFWWENPaUpTUnMzajVOSkctOWRKdDJhRXVDWU9kdHdBSEhMcWlVa2wyQkFZODQ1emg1LS1Lb0NGX2VvVnJyWkdmMzZ30gFaQVVfeXFMUEdyMFpPelVJbzlkcVh2U3B2cnhXRGpTMUNpazlZY1k2T0s5aVI1WHpJR2pfb1lDaXhJSURPS0JQQ3FEVUVneDJ4andYM2VfdFd0UEtCWG1RWWNn?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GcDU3aXJDekdkUm9nQ0ctN3J6TUZMb2EwdUp2M2tOWk83dzNuMzNWS21oM3BYbmExWDhxb19kd05lMzhfU1h2Ql8tSlJ5S2ozVHJlUUswSXFFRFJxSllteU1YSWdGYVhoYVlPSTN0dW9JVE5MZml4OTdrV0o?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVZiRGc1MTVpSk9VaWpmM1RGY0ZZa0RENzc5a1lLWHZwWTh4YkJnY040QzFhWkJIQy1zOWt5b1lHM05MbUlxMFV5ZHZ1blltQWdRTlYxUkNYTkRWVms4YlVVSzRGZl9La3lhVEI5dHRIbUY3bW5hTWV4QVIwRTJtV2lZM2dhRV9VRXdrMHlEWHJyeEpsMkJEUjVNTFNiYk5KYVlGcXVGSVBHeU5IVGc1eWlOQUplZUNHbTE0MEw3cjBvcTJZYnhVV3hn?oc=5",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QMWRtMHEyenR5WjJrekpRM0FkOUxxY1R3MkxHZWx6ZHNTcHF3SldqYk93TmdkNVVqVkdKbENYMW1WOUhqUFlUNzJqTVEtZ05Ua21mRWJhcVlkVjFRY1VOQzNEdi1WWmpIWk0wbGZB?oc=5",
+    "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
+    "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons",
+    "https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-make",
+    "https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNURnOFMxVHg4RU1lMUVIeGhRRnY1S2JrVnh5NEVNb291WWd3enlPc00zZkN2UFlZT3l0WGs0dF94VjhGQUltSXpfRkREWnNHWnpOaHhPMElKMVZDZDQ0ZTFaNWVpcHFCRXFiUlBaUkZWZXh3eVBYQVVGNDZSdm8yUkZ2Q213dEZjVjdUMkRUT3hmMDNwdEFrRFJ0SzNMQ3dFRzlyVVpTcXh1QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jSTgxb0JRa0VYa2FRME5xdlVnZTJJVWowM2FOZkRma3hFYWVMaUdqUURsMXl2X1Zub01nWUdGaW9DM01aUllfdW1tU2pIRGhlWHB4NnRPNDNBV3M2c0E?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEZqeVo0dlNGTl9vNGpfSlB3XzZXVWRsdW5Td0JIYk5yblRNQlBBUWtoaURUN2hXYUtTcUVDOW0zS0JhbmxvSDFXalpvRTJLSUJZTXVpS0RKWlhDMWdUc0FqN2hZMklBcV9PNXpPSXl5RHUyWTBYQmdYc19WN2U1WXhSMEs0c0FXdVg1Qjg2R3pscHdhbTdxbHBiOA?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FU0VTU2R5MXNtWjUydV9QTzNkUjlPSktIUms3MnM1WkhFY2ctUEdjRkNBX1RrSkp4bWotd2kyV2dySXhLUHFvanNENHpIVEFZWUk1ZVN2bFpzZ1MwOFE?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFB3MGptSjVTRXNTSFZZYnlvQzR5MW94SnZYaERpNU1NMm5oeEduMnB2YW9ZczQwZXAzZC1CT2JVdE5tbkduNXRwUEVXOWtONDljSDNDMHNkcVJySzJwYmRtbVh6TzBkWDkwS2Q3cWd3NkY2alZqQUdOZDBROGJTck41R2M3UU9YZUJ5eW1QNWxGRDNBQUtxWDNVQ2ZXWFdSLVlHd0hKTWctRW9aQm80RkhMd0tEQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mX2E4emFpRkZUSGhFcS1zT1BUQ0ZGcHppQ3M5X2JUcUxOc2pNdEJWWnducEw2V0tQZzAwb1FSNjltQjJ4UmJmNU00eWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWWdySnVhTkJqZUZlY0hocFZYYUpod19PYnBYa2FTcThFY3JlQTU4UEwtVzFRUFgxTTlTU3BJZVYyRnJPZGY4dVJaRUNXTlM1b1ROMHVxS2lHeS03cUwzMmVYaEM4dlkwdlNxcC1NRTZaZkNHWkFjaTdCeWw1akV3bDhOQkRkeGFIazZPZ0IxaTg?oc=5",
+    "https://pley.gg/cs2/new-look-astralis-top-their-group-on-debut-as-ryu-leads-the-way/"
   ],
   "title_hashes": [
-    "c817f0922adb5efc99a3dada019d6e4a",
-    "821bf7f18d06f70f30dc4845e0164c23",
-    "f4b5d4b75bd46989a75a291f0344c94f",
-    "823bf4ed13319c1779a8cd6f36155376",
-    "c0161a03bedb2ec9e6d2de5cb529e5ec",
-    "44642e50643549785c9b531f1e72ac13",
-    "4902a830cb4e2da609854957c7191718",
-    "3b15505846992f4ec7e4ffcc2fd39cb6",
-    "6084d010500ebf5534b4a7dc2349c83f",
-    "7b744739730001fef276e505859ff551",
-    "90db950944f5553095590f5c69d69ed4",
-    "dc1e4460db80373c50ec8bff0161b3f4",
-    "bbbb4a2c63872d02471da02449adc736",
-    "1ab6c25091d3401d00d2b9d9c410c797",
-    "1ad7e3a85d3c8b98d2d7445663eba269",
     "cebb7c4b2eb78ae1d7b67fde5a4327ab",
     "822ab964639f0ad80bbee7417b457b03",
     "f2ab5fb218da8b84623f45579aa4ba11",
@@ -16001,7 +15986,22 @@
     "a608eb1184dc00ddf0756d75abf68cb8",
     "bdaeb81e8a560fff83564602bcc24610",
     "0e2ce688b38475b3a17e9f1ffb5fce84",
-    "a2f846b47604c72900986edc1badde85"
+    "a2f846b47604c72900986edc1badde85",
+    "4d935e028eb2e1361fd440abfabbe67c",
+    "3b2536e703ec6321097e3df01b681245",
+    "d399e1c0cb6da27d92d6fe67ade76049",
+    "b010b5ed16b20171955015cb2e41b1e3",
+    "efbdde0a90e0d6c832b1a5a032f472cf",
+    "8982c36a01e10e64e222eff043857a2a",
+    "249f3e145e83909a725420590916cb7f",
+    "97ef3c7a3ef8b1925ffbc985a7cdd2d5",
+    "866da7d6ed017b0dcf79f7a3ebb65587",
+    "22f7731df8e39405b5a1275457338229",
+    "dc1e4460db80373c50ec8bff0161b3f4",
+    "6a32768ec2f2c4b6687e1a081a577e24",
+    "ac8c5d73b312ee5928e1c6e63b06fcc5",
+    "822ab964639f0ad80bbee7417b457b03",
+    "61d70a4a127187532a42b2f445b19812"
   ],
   "transfers": {
     "pages": {
@@ -21232,6 +21232,26 @@
     {
       "t": "2026 cup esports fifae jordan nbsp oman sheep team world",
       "ts": 1792075360.833277
+    },
+    {
+      "t": "ahwoo brutal collaboration companies creator dayz dean development framework game hall has his industry made more open out read releases rocketwerkz rolled source two veteran",
+      "ts": 1792075366.0890777
+    },
+    {
+      "t": "1990s 1997 2000 30th anniversary baxter book covers daryl delves development difficult game heyday history into its late make making month new one oral period raider this tomb wanted",
+      "ts": 1792075369.5989587
+    },
+    {
+      "t": "based bds big boycott campaign citing developer divestment hit house its led melbourne more not palestinian pro read release sanctions support walk will xbox",
+      "ts": 1792075373.1303566
+    },
+    {
+      "t": "championship esports gamesbeat into league leaned nbsp rocket sargento sponsoring why world",
+      "ts": 1792075376.7170293
+    },
+    {
+      "t": "astralis debut group leads look new ryu their top way",
+      "ts": 1792075380.4474337
     }
   ]
 }
