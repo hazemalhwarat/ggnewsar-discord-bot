@@ -1,22 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnNLNHZ2Zjh4eWphSldDbm5nLVdhNXNVY1h3aWZUT3RHQ2s5TjduRVl6S2FHVzFWRlhIWFNNbnpKbU5FZllkbEpya1pRUWV2OXFoWFEtY0t6VzZuSG5wUHQzMkpBTFFZUFYxbmY2R1BuNUY5S1pRc0RxSFViOUpPRFFRdVo5bW1JdDFhVmc3ckMtSkpzTjBGblpjVlhNUFR1NDBKTURyQnZ6RjA?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazRiVGk3UEJVdHlBNWViLWhZUlRBWU5JODU1c0cxZlZZYUtaZkotZnFZWUFPNjZPeTdzRDdqVExlbDZVeUNYekQ0TFZqdEN1ZDc1MjRheDduYTB3QW1pN0FkbkJDOWVnemJVUUZJYXhxQzRkM2x4cWhodjJKdFhJT0J6WWZSVm81S0dYSWNxX3lWd0E4eEE?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjhYUzU5NFgweWFBWjFaQy1aTTVUa2VQZXZvYXRYMmJtWFZ2RmloREdnd1BKMUYyZExQNmcxelV1czJwRXRkTDlHd25qa0RMWVN0eHpHUGNaVFd2UzJaa3UtUVZTVDdfSUI3UFJyRHZEaVNVV1gycHVhbEg1UWRtWkdVSTROVVNZVVVTTmIzUXVsLVE?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlE2ZFZBQWE3VmJJY0pwN0VWZ09xSGFsX0lQay14UzVWYTdtQ2l0ZVZ6VzBoejc0MHdETUg1WEF2N0h4ZE1tT2Z4dXhhS1JkcXlsSnlLRmtpbzlVT1RENGNMWFozVVh0M1d6NUY3ekpMZmg5LWhuR25uM0VhQXVNWXJxTDdkOVp4X1lzMDlLbjVJMFRZRGtPa0V0ZFZjakljd0puMW1HTHFJLXZJQ3lsOWx6TFA?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjdVNEJBR253bDUyX0JBN0JrUjVrVVdrcEtGMDEtZGxRdktSNDJ6ZFd2XzgzNGlrTWkzeEVUTGpNaTJsVFlDemloX0JGdXh2S3c0aDJDRkxCaXdoVlp2UkE5UGcwQUl4T3JKaHJObl9jclZpTHdBYkxVbFgtZ1ZLUHVEVjhKTGRFeDVKQjdjY3U4UWxhVDVSUFNR?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZQkJPbmFBV3VCUlgyVWRHRFR3Z1JTV3EtLXBUc3lsMjV6VERvT2M4d094cTNzanE3RjNyWExGMjNWdEZSSWphMGlUSmdaQ2lWbENfZmJHd2wxa1I5anZkNExMOXIzeDRC?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHQ4NFpqZUNPMVBtRFlOZkVDczJaLVRoaU5Ja05YY243dnl2TEM3ZjgzTllvZHpUeUNZRlU1RFRwMjZtUkFMSXh1LTBkWGlYQXJMSTNhaHNHQTVCOTVoeGVjQ1dmSi1LTWZDdG9yUDNKRXEyX2RmNklUZ3pLWGZMT1laTkZIcjQ5d08yeGE2WmlpTl82T1NFa0Vn?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTlUU1FmcVp2Rm9VclMzQ1dzbnVIMGExSzBOT1hBUnM2cHNjZWV0bWJkdjNsN0dCRFBNMi04QnJfdmN3MGVUSVNlMUNsR3pyUERxek90dGtpVEsxV3ZIaFI1VjFZQ1BPTzdIeVZtMjJLT292TExEVTdfWHJOUnozakNKYS1leUNab3c?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVjhtU2dDLXpHYVhzdnpiOWxOaU5SSko3Yk5yNkNpY21uNl9TRjRyMmQ0Vy11YkdNNS1KdEtMRXpGQkc1MTh2RzUzZW5nNU5LQk55QTk1bWUyN1ZXWmtSOFlGaUprUktxalNQazVMeFBNM29YT0RpRGpHRjJKRUJWQTFHNm9mMVBXdHFXbm1lWjJNNi14MUdDN05fQ0ZObkQ1cnlWQ0Fnc0JWQ014cmVCZWhoandQTWs?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlpoOEFWNzZ3WmVPN2ZLVkk5emlDQjdRRE8zOXpJaHFoRXFwOHlYU3hRMWN4aDFNcTRyd3l4VktSeTZDWEtLaUR3WDJHLXRZakx5d1FGZ0JDeXNjLWV6S09Ib0k1RHh5a3ZxNzdqc3hSMlp1NWxpMlgwOU9XVWFXbFhkU2Y1MFlDbGFjdDlR?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vUFdpNThVSUdMVmF2LVM1azdlS1U0QXlUNXFzSFo1Y0RNcEhRcHZOZS1BZDFIZTYyanhEdzQzUnRZcTRPUW9heVVfcnVCWXpTZ0F6cmhsLTF3TE1TLVE?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEI0T2RNV1dpamZGWEZqVk5oZWVIdDdmOElseUlsYTlwNi1yMEY5LWRteVhVSlBuVVZDYnhrR2VVdGR5dkdoM3RuQTFaTnZyWDVxNWVEdFI5QnhLT0hTYkxTSHdTZU9KSFFVX0tuN29JcFhGR3VLeW9LbXROX2FLTXRtR2NYNDk3WE1EY1p0RjFvQ1I1eGJtWEpn?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTg0UTJMX0ZETVdOb0c4NGNfRzkydW03ekhjcDlxQlhadGxoOHVmTThmSk5QQzlyc3RkejUzb1F0TmxXeEU5SEdjZm9ZOXVwcjVfU2JJTE16V2ZadEljcTRuSnZicm04UXhMWkg4MVR0QUhsaS1DQm9XYmJtbXBOYlI3c19KdnE1bk1kbno0azB6UTYydFFpbTZDRndHY3UxVXfSAacBQVVfeXFMTmtuTnpHbGxQWE9QdWVNYV9XN1M5Z2xpaHU3c04wYnJQR1k5T0htZncxdlNLckhxQ3Y1Zm9tNlhZeWNWbkV2YmVGc29XVkl1NzY2bTJzT1JROFRWUUllNnM0S2NhbWJldnVzVndaMkNWN0dtOGdhNjlYMG9BRC1lbUR0UVJKdk5yeUZvZ2tPdWhyVnBYOTd0dWc0X3ZDdEdUVDRMZGo4M0k?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmlFRkZXaE8weWVjYUNIamktamx4YmxPRFZyVjRTX2EyYkIwY0J3NzhxV1RlcXVTdlI4NGFMZ1JFZUYwMC04eGVJeXdYTnZkSVo5bGZsUm56LXR1bG1NUVlBNmU5SWM3ejZidEpZWnNDUTNObHZOVnFreFVmdVk0OTFWM0k5am5yQTBNZ0J2MlB6WUdHd2FRaFlTXzhHSElHc0d5RkprOUQycDJiTDU5edIBvgFBVV95cUxQWXNCck1Kb1Mwc2hqTmJMZWc0X1c5b2NxZ0dBS3g2NGZyUEtuMEFLcm5OSVRHTWFBVEJ5WDRleU40NFhMYWwyekZBRk9UNjRHU0VYa2w0V0FkZmh0dlNTUVN0b1lNaFU1UnBXSDJLVFFPbjBMdnhQY1lySVIwdUR1TTVsZG1sdW0zSDJ3cHRqbXhlR0tZUjFLUjhPeU9saXo0Z3FaMXNnWW5QeWxpYm1KdERhY1lsbTFpUXNiQjRR?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenFmS1gxa3kyNzIyV05vNlBySExyYjRvWkNGZWhPT0VFWFU5cmhNelpTMDRuaXRfZVFvb2tjSEdsN0NBRzVxVjB1TjZvbnJ3a3AyQjVxb05Eb3JrWDhDVUdweWQ5MGM4dDY0VGpMWk5kQWxyN3pncEJJM2xJM0h1dUlXaURhYUlTel9kWFNqamNCVjFnT0VsWDRrSmRjWHZ3Z1E?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWFZjTllBdDJPR1lka0lyY0gtYm1KWjcwZHhwVzF2T3JSa0YxTE9kck9YQU1vYTI4SEM1NThhc2h5SDdUajYwMk8zWW5IUkRuRzNUNzEweDJKS2UyUzlfMXJ6X2F1UU5GRjFadUNjZGFfTEFkM1dTY0ppcm1TSzBUOFU5dGdzWW1iSmQyZnlIUGpaTkFEeW5iRjExNmVTdU1aVTE2clVrcVNYdlZmM2RiZERKaXhkbUgzdmJsY0dwZE1vdnBFWUFmSkpQcw?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa0c3NzZhVzNqUWU3UkFfSVN0ZC02Z3ZjRXFKYTlYbm5EMnNKZkYyZkp4YXRPU2xXbUp2cFQzTWZrUmljeVBWZ3JJUzRpM2RMSFlCMHBXNmpaSUZadHZNUGJfRkd0M0xhVGRQSEVKSzcxbmMtZVJBN2xRaU91ejdPTkZ0SHdzVXRkRzliRkdETlFaM3djc0RKNnlCOGNKMW1ZV2Nr?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbmF3V0xJMzNwbC1ncmhYRTV1NF96OE4xc1p6U09LajVXWEYtd2cwcEltNzZaZnFwSThmcGxxZi1aVzRrWndzYnRxakZlTmp2SUpoS3JhMGtSdTZyNGNnbzVmODdTdU13YVozWkE4SjRhTEVSODNEYVVEemdrWWZlcU5uSmc3NjVMN3dPXy0tNUk2ZnVYcnhJ?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYldzR1B5QzRPREltZEFkX25ET3JmYnpLeFp2NlNPdkc4YU9BZ05XOGF3dHU3cGFGZ2UzSnFzR012cW5CWkxsaWNnT1hETWtPa2FyZ3BETEFEeFJqS2p3cG55T3Z2aGNTeTBIckxKNEs2dzNkcFozNDJLcU1EWll1MGx3aVJwTHlDRWRhSHpkd05KV1otVlI1M1FpRnV5RVE?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaXRsbU5nd3pjbUtfYXFvTlcxWW5QbUNkd3I5cFhjVmJlbzE1RHFkaFZIWnBWZGtrYmY1Snh6QjFsd0gzelZPamhCMW5ScGpfdWhDRjZOSjUzTU9YYlVHR0NpRG1iRk1rUEw5c2M4U0Q1QlZ3WWFveGQ0VXdwbElrRXFrZlExZw?oc=5",
@@ -7999,26 +7982,26 @@
     "https://www.invenglobal.com/articles/27193/pubg-battlegrounds-adds-3-bentley-vehicle-skins",
     "https://www.invenglobal.com/articles/27191/soul-strike-adds-relic-bond-growth-system",
     "https://www.invenglobal.com/articles/27190/seorin-ci-participates-in-bukchon-deskterior-pop-up-store",
-    "https://www.invenglobal.com/articles/27188/online-samgukji-2-introduces-cheongeum-village-and-tempering-system"
+    "https://www.invenglobal.com/articles/27188/online-samgukji-2-introduces-cheongeum-village-and-tempering-system",
+    "https://www.invenglobal.com/articles/27182/world-of-warcraft-midnight-receives-patch-1215",
+    "https://gameriv.com/epic-takes-a-dig-at-valve-says-its-vibe-coded-launcher-is-faster-than-steam/",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxORmZfSXF4NUJ2N0VsZGkzaGVGQldSQzdYTXNRYXhMUHhKNUNEbXRrbjVuczZzRWM5MXkyZGUxR214SW91NWVVVmJKM2plMkIyWjZocThqOTBLdkl1Z1NiQjVCZldQT3dnVGlmb1dYT3JLNGs0Q0R2am1tMEV0eDVGX2t2Q1cxQU5FWG1kLQ?oc=5",
+    "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-lite-renamed-bgmi-air-new-name-launch-and-details/",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hLVMxZ3duNnF6NUtDN0VJR0lOYmJfQ3RWT0xkZ3V6ZkV2R1ozQk14OHlOQmVlT3FiNHEwUFpiRXY1SW9WQ0hhdHVqeG5qcUl1Q1hLLXFtN2ZLWVlUZkRnbzhSSkU0XzJqZXVud3NJbk9EZ1JoTFltTU1lN0lCQzg?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3NPYWg3cFg1VjZ3N0RYd1RTcEU5SVg0VmJsVDVzS1hrTm1ZcGEwSzVsOEoxNkJVS0RpTHNseU1LWHl2dDdieVZHTzh5VlB6ems1SzVZLVh2b3UycU1yV1BkcG5GUGF5bWxwWDlWSUhjWkZsV0ZKYWNtcnROWlM0ZFRraGwwWU0?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEFpSk5pODJ4enBqWUxLckhVOWJyWTBfTmRaRDk2OWFhTFBzSUQxdVJqVlNpRjFsRGRQaXJpUl9aYktyTWFzbEFkSlVsLTQxVTBJYU9EQWx4SXRyX3RyenJ5aGtDekRHV3ZuM3lYa2Z2VC1ieXU1VFQ3bHViNmlINlJZWG1nd3dm?oc=5",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CZUg4d21CSC11cDNpNW13V1hDYzJRRTYzTHVEQTd3X1JMVE4xdHJjTDhMa3pQaHFPT3JYYXlfVmo0LTZadE1GNTRRNFgxUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZlFHZWctbFNoWWo4WlI5RVlkUDc3T1NXLV9zZFc4TFFHMldELUhtMWZaVmpmR2RQYmhVcXA3MGc5Vlh6LUQ5SGtzd1g2SmZWcmpXNy1hRVNJcmhTVFg1MnBxVS14WXBIQjN0X3VsXzVKYzNTWnlveWlHQ0JYX25jMEVuVGwwT3RqS2FtS21TWnBIZ3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ManFweWJDcVNRbmRFbUt0cTVHMjRkS3hXbEZHUlJ6MHhKZm5wUlBaRHBOOGJHYXRnUWU5cjFFY1N6YkhRYVBPV2hUd0VSbExMZzZYWnhrcWtPUVU3SFJn?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQM2FDVHV6M09KdkJnbnJOVm1UVjlFYTdaczRTUTZxUlUxeC1sbGVQeVUxVW40ekNyTkhDaGdfUTFEbGwzN05lS1FfRkxsNFIxdXBtMlhJRzlaT1V0N1dVRVg1REpnbi1U?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1YzWW5sQ3hsVXFxdlNlVXRDU2VmOHhnak4wOWdoNS0wRFFnMHF3Smo5VmlTMDRZaTF4ZFNtS2VkQWkxbHUzVndoV19MMm5rN1J6ZlRDRE5GYVFGdXY2eE81T3NuQ2tST3NpYld2RWQ2OUhXVjJMaHdnVmNmcHNqbVFRZzVURC1GUmI0c3ZhYWEtbzlkelZnZjBoTXJIZ0VBdDVV?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeGNCbER0ZXdBUUNDV3JnR2tOVXdaWFVlTElsOVVMY3l4ZEdUT0dJbF9yTW93aUFhaEx5cVVocF85REUyLTNoNDhqNnQ1UjBGTVpaYjVpc05wekhfWW8zSUhvMkMyU1BWbnBUUTZhcjNWTFZ5OEZacXZGTmJPWGo0X0haWU1rb2lIR1o1TklUOWJKRGpJb1E2bG1ENVlTTm0wOU1BdU42QWo1bk1ZdlB0bFF4LS1ZZ25sM3dmWUx4WXZ1aFhG?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ21CNlVaM1ZUMWJDNVduS1dTNmNfZkJZeDl4a1kyUWpSejBiUXR1a2VyR0k0SVZfZEhfOVhheExqdzE3Ql9iVC1aWVRBdWt2QWRfUEZiQTNydVE1U2Z5bzZKWEdqNFA1RTN5T0lnMWlXRHhqU2p4bXNxTWlPMkotQ3FyUEdGWFVvcTl5ZGZwSk00em9UY2pYRDVybU1XSXVJQ0UzbF9FN1pkaURxX3YyMUZ1R1I4OTBJMnFDSHBfSjczUERBQmc?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdktYbFgzS1VsaXpaOHo4VFV5c0NmeElqdkViOE40ZHFLM1I3c3M5ZnNiRGMxeDhIMHN6ekVPZnNLVkN2clVIMl85NUZvQ3owSV9YQkZNUWxtbDVCU0c3UkhSbDMtcUktZldVa0xLSG1vRHdiV1ctRG91Y2Y2a0dEaUQ2RHdLdElMd1dqeGM4YkRlX2NoNUxoeHAwbjBFMDM4V0I5bw?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYWRXdUZPRFNmS1pvbkgyU21uWXExMlpWS0NKNXlFTW1WMXQ3VE0tOEJKSDYxY2lEWDZFWTEyb0FzajRtYlo0V05ZYmU3SllFNVFXOENMdHNzcUZ3TFFGWkdQZk9kd1ZBSFVvemZTN3JLaWNIZVBRNUk3YVJfdWZrMEkxZGJyV2EweTE0QmxicG1PVG9GTzBYQ0ZjeUVmQTkzckJQTlgzRVM3ZWhPaXJ2ekFEODY0RUUx?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/kc-caliste-worlds-2026-interview"
   ],
   "title_hashes": [
-    "719ddf6f594619801f3a5df3e847ebab",
-    "45ecbfab31eedcea667a7acef50ebdf0",
-    "3043c773b057658e98f049f6bf8c664d",
-    "f8c78febbbae9698e6fbcbf947166f66",
-    "11bcb2ede0d6bc3c611a2dda67cc3ae5",
-    "2c23abcac7291625aaf2146fa4041b74",
-    "6da5a16a6b4bd0a4be9f278660b6c804",
-    "ec003c635bd9aa30125e7f3701b41b9a",
-    "feea64eda0a85e7f19f38c381827e703",
-    "f72df9b2d4c26f17f74b85e5c26aaf63",
-    "5abc445e677c3f1563e8923a0d49c7b7",
-    "25a2cca7dad8ce812f84e2f7f963806d",
-    "fc38360d5d90dfbfb0e0eef5f01d25df",
-    "681cc87e44b7f57b1f3199ce0a47d0f3",
-    "43d6205cd1eca04a94ca25103b1909bd",
-    "380cab23f4889d95606aba94ea47a37e",
-    "8aef7a9ac62527bec92bdf8ae236fe44",
     "c7b49fd502538884a021a7cf9346424b",
     "7326a34e24bbe5e8e15f8b596d7d5299",
     "0d50e45826e33152fdfa046dd2ff648e",
@@ -16001,7 +15984,24 @@
     "373f9cef3df9a6ce2177f511c8f15456",
     "d36cb093e6d3aca4c39f7604371530c0",
     "770d778b4b6f384cb3c870bd72566ae9",
-    "5f731748d3dc98a20dbef20943c943b3"
+    "5f731748d3dc98a20dbef20943c943b3",
+    "45ded78ec1126922f851cec91897f448",
+    "f327cca19f3e3bd089cf26bdc435e6b2",
+    "b8418366344bd11fef466a72094df06e",
+    "45ba95ab84be69a6a6fe03a37daa5f40",
+    "5fc95371e60932bdcbe6d9267a78fbbd",
+    "c79396c131497931f7fd53b0994d8f8e",
+    "4977a3740f37a2123e311477de4f07d1",
+    "1db38461ef9485711ed6a01406a6e067",
+    "9b52aa4ab2e99fca7d1792afc24e823c",
+    "21a6a9234186390d8971a204fe0713d3",
+    "6f3853fc8db270810adf2e173492db23",
+    "ef266bddcd135ba973412c947ca549ee",
+    "a4baced85d1f683db32d4a08490332e4",
+    "9988c7b63ae54449d0c5589ad63eab8f",
+    "9244b3cdaea3543c72eeab40277f4232",
+    "59aaaaaacd84d100426df005b4ff101c",
+    "568b17be1679a3c988614633d4a7c7eb"
   ],
   "transfers": {
     "pages": {
@@ -21152,6 +21152,26 @@
     {
       "t": "15 2 announced cheongeum cosmos entertainment entertainmentcosmos introduces new october online region samgukji server system tempering that updating village",
       "ts": 1792041431.851992
+    },
+    {
+      "t": "coded company declared dig epic faster games guy its launcher off other post rebuilt says shot showing steam takes taking than valve vibe while wording",
+      "ts": 1792041437.0638838
+    },
+    {
+      "t": "15 2026 account air bgmi bgmi_lite called confirmed details game india instagram krafton launch lite name new now october official post reads renamed verified",
+      "ts": 1792041440.485259
+    },
+    {
+      "t": "champions esports finals grand nbsp preview shanghai valorant weekend",
+      "ts": 1792041444.0269876
+    },
+    {
+      "t": "2026 donorschoose esports games initiative nbsp renews riot sheep worlds",
+      "ts": 1792041447.5726788
+    },
+    {
+      "t": "2026 8220 8221 achieved adc addresses after although big caliste championship deal don dream first french hennebert henry his joining know lec making mix mkoi part scrim superstar they two why will world worlds years",
+      "ts": 1792041451.0051217
     }
   ]
 }
