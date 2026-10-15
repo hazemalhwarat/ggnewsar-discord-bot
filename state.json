@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26377/pubg-mobile-asian-games-finals-kick-off-on-september-28",
-    "https://www.invenglobal.com/articles/26376/genesis-war-mobile-adds-mercedes-frederick",
-    "https://www.invenglobal.com/articles/26372/soop-to-broadcast-2026-gstl-finals-live-on-the-27th",
-    "https://www.invenglobal.com/articles/26374/eos-black-introduces-soul-weapon-system",
-    "https://www.invenglobal.com/articles/26373/geng-unveils-2026-worlds-campaign-the-light-between-us",
     "https://www.invenglobal.com/articles/26371/com2us-holdings-opens-steam-store-page-for-zenonia-2",
     "https://www.invenglobal.com/articles/26370/nc-cultural-foundation-co-hosts-korea-social-value-festa",
     "https://www.invenglobal.com/articles/26367/vfive-games-hosts-chuseok-events-across-5-games",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27219/seven-knights-rebirth-launches-second-demon-slayer-kimetsu-no-yaiba-collaboration",
     "https://www.invenglobal.com/articles/27218/higan-eruthyll-updates-new-character-kuzunoha-gozen",
     "https://www.invenglobal.com/articles/27217/incraiders-releases-demo-for-steam-next-fest",
-    "https://www.invenglobal.com/articles/27216/tabletop-td-officially-launches-on-steam-november-6"
+    "https://www.invenglobal.com/articles/27216/tabletop-td-officially-launches-on-steam-november-6",
+    "https://www.invenglobal.com/articles/27215/maplestory-idle-rpg-holds-autumn-events-ahead-of-1st-anniversary",
+    "https://www.invenglobal.com/articles/27214/gundam-blitz-order-revealed-network-test-recruitment-begins",
+    "https://www.invenglobal.com/articles/27189/steelseries-opens-domestic-pre-orders-for-sensei-pro-and-rival-pro-series",
+    "https://www.invenglobal.com/articles/27187/brawl-stars-and-kelloggs-launch-100000-limited-packs-for-second-collaboration",
+    "https://www.invenglobal.com/articles/27185/valofe-features-seungkyus-new-song-in-r2beat-and-club-mstar"
   ],
   "title_hashes": [
-    "0a5c2dcbc343f40e314999326b0e16c5",
-    "0993e7c510314850282c4feba2a31aa3",
-    "a872738787860e7a1b558e16500b99a3",
-    "a094b21007af60b4c0ab00a0d4713363",
-    "9cbcdca2dedc39cb5fd388e4243fc6aa",
     "ecb2226baf16613dd7697e6e52241e66",
     "e46c3b0b4891449682687422c6428b2f",
     "049a4a8fb6bf6b723c253b12786b0ac3",
@@ -16001,7 +15996,12 @@
     "f37c1b7f1c74538c79d2428d288109f1",
     "c0842a9fadeae746a0b9eec290a01a7e",
     "ba367f310463e76282f830af28dd458f",
-    "0312516ce9d51186a7e4a412b5d22654"
+    "0312516ce9d51186a7e4a412b5d22654",
+    "ab74b8383db1688c5d6224f738b47f73",
+    "9da367365a1dc277787b17e89a6b584f",
+    "8cf5772ef0d02f6665ee16b95ba4b333",
+    "96cd2a80d46141c149d8ea9a8423c863",
+    "945a5c89c9ddcb89c48e60109027846e"
   ],
   "transfers": {
     "pages": {
@@ -21060,6 +21060,26 @@
     {
       "t": "3 6 launch launches leveritt november officially steam studiotabletop tabletop will",
       "ts": 1792058354.3038967
+    },
+    {
+      "t": "15 1st ahead anniversary announced autumn celebratory content events holds host idle maplestory new nexonnexon october rpg that update will",
+      "ts": 1792058359.7351959
+    },
+    {
+      "t": "15th bandai began begins blitz entertainment entertainmentbandai first gundam inc its mobile namco network new order participants recruiting recruitment revealed test time title unveiled",
+      "ts": 1792058363.3035436
+    },
+    {
+      "t": "1 8k announced domestic gaming its korea mouse october opens orders polling pre pro rate rival run sensei series steelseries steelseriessteelseries support that which will wireless",
+      "ts": 1792058366.816848
+    },
+    {
+      "t": "000 100 brawl collaboration its kellogg launch launching limited packs second stars supercellsupercell",
+      "ts": 1792058370.2485006
+    },
+    {
+      "t": "15th announced artist club collaborated features has his introduce latest mstar new r2beat seungkyu song that unity valofe valofevalofe",
+      "ts": 1792058373.9837804
     }
   ]
 }
