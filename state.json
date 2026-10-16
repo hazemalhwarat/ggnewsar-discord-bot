@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/counter-strike-2-chicken-eggs-explained/",
-    "https://insider-gaming.com/counter-strike-rush-game-mode-update/",
-    "https://insider-gaming.com/minecraft-dungeons-2-achievements-trophies/",
-    "https://insider-gaming.com/only-20-devs-remain-at-halo-after-layoffs-its-claimed/",
-    "https://traxion.gg/ollis-garage-racings-legendary-dacia-will-be-on-display-at-this-years-simracing-expo-frankfurt/",
-    "https://www.hotspawn.com/league-of-legends/news/tft-patch-18-3",
     "https://www.hotspawn.com/valorant/news/valorant-viper-balenciaga",
     "https://www.hotspawn.com/counter-strike/news/best-big-swell-gloves-knife-combos-in-cs2",
     "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-roadmap",
@@ -7999,15 +7993,15 @@
     "https://www.hltv.org/news/45733/blast-rivals-season-2-team-list-revealed",
     "https://www.hltv.org/news/45732/fallen-theres-a-real-boost-from-winning-a-tournament-it-would-be-great-if-we-could-feel-that-again",
     "https://www.hltv.org/news/45731/opening-matchups-set-for-pgl-masters-bucharest",
-    "https://esports-news.co.uk/2026/10/16/team-resilience-extend-winning-run-to-five-with-2-0-over-zenith-in-blast-slam-qualifier/"
+    "https://esports-news.co.uk/2026/10/16/team-resilience-extend-winning-run-to-five-with-2-0-over-zenith-in-blast-slam-qualifier/",
+    "https://esportsinsider.com/2026/10/fifae-finals-postponed",
+    "https://insider-gaming.com/tutorial-wardogs/",
+    "https://insider-gaming.com/first-angelfall-trailer-delivers-devilishly-demonic-gameplay/",
+    "https://insider-gaming.com/squad-ps5-console-alpha/",
+    "https://insider-gaming.com/planet-zoo-2-shows-education-can-be-just-as-important-as-entertainment/",
+    "https://insider-gaming.com/real-life-gta-6-cars-spotted-in-miami/"
   ],
   "title_hashes": [
-    "83dcba4821745a127d159384e3d38289",
-    "c932d1d093c46a70d8f931990ae484c7",
-    "9f53ba0f7b27066d9bff991c01e66493",
-    "40d84f033e7479f8e06fb7dfa530268c",
-    "e8387a8dbd6527a197d0e7a0346c996e",
-    "83da4a8b94365399eb6a875dcab37d04",
     "1a21c4199f4b2a722d8c6e527b63a95e",
     "7d1019009dd76a570c171354cbeabdb9",
     "e68e798548ec032694033715292388bb",
@@ -16001,7 +15995,13 @@
     "9c777a6049262752bd6db22859a07173",
     "392da294a3f71644f3e645c793826270",
     "830273ffc2e92c671d2d960793eb53b2",
-    "5b2ff160beec9449fcd5f480a9c08c63"
+    "5b2ff160beec9449fcd5f480a9c08c63",
+    "25ebfcbdd97cc3c9f591900ec7360879",
+    "edf99fcdb00fe540f361555b7453d3a5",
+    "8b0741c43b36e16316b6582501bd3382",
+    "5cbc4e1691388c109b29ffe31a9dc4b0",
+    "9b13bffac71648a844726befe7a6e09f",
+    "4bca24304861acde5770fdbe3cc2503b"
   ],
   "transfers": {
     "pages": {
@@ -21068,6 +21068,26 @@
     {
       "t": "0 2 attention blast china closed continue extend five over playoffs qualifier reading resilience run slam sweep team their tidebound turn winning zenith",
       "ts": 1792157637.9796762
+    },
+    {
+      "t": "after announced before brazil date day eve event fifae finals japan jeddah one post postponed replacement tournament venue withdrew",
+      "ts": 1792157643.1410682
+    },
+    {
+      "t": "appeared but can dive easy first game get has inside into main mandatory out post skip some take that there time tutorial wardogs you",
+      "ts": 1792157646.7010531
+    },
+    {
+      "t": "alpha can console consoles dates debut details finally hopping how know let play post ps5 sign squad test when which you",
+      "ts": 1792157650.4906857
+    },
+    {
+      "t": "2 can content crucial drive education educational entertain entertainment everyone forward generation important just lessons next planet post providing shows well zoo",
+      "ts": 1792157653.9888296
+    },
+    {
+      "t": "6 advertising appeared auto cars first further games gami grand gta have insider life miami post real rockstar spotted steps streets taken theft",
+      "ts": 1792157657.5179887
     }
   ]
 }
