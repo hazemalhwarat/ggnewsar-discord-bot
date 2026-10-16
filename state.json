@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://dotesports.com/general/news/valorant-champions-2026-bundle-sales",
-    "https://dotesports.com/ea-sports-fc/guides/best-starter-teams-ea-sports-fc-27",
-    "https://insider-gaming.com/exclusive-amy-hennigs-uncharted-4-was-very-different-former-naughty-dog-dev-reveals/",
-    "https://insider-gaming.com/2026-asian-games-esports-finals-pubg-mobile/",
-    "https://insider-gaming.com/ea-sports-fc-27-title-update-1-0-1-patch-notes-fixes-across-the-grounds-gameplay-ultimate-team-and-more/",
     "https://insider-gaming.com/counter-strike-2-chicken-eggs-explained/",
     "https://insider-gaming.com/counter-strike-rush-game-mode-update/",
     "https://insider-gaming.com/minecraft-dungeons-2-achievements-trophies/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27300/remedys-fastest-selling-game-control-resonant-tops-1-million-copies-in-3-weeks",
     "https://www.invenglobal.com/articles/27299/gta-6-rated-adults-only-in-south-korea-following-private-board-review",
     "https://www.invenglobal.com/articles/27274/kim-min-chul-aiming-to-extend-zerg-era-vs-yoo-young-jin-reaching-finals-after-8-seasons",
-    "https://www.invenglobal.com/articles/27253/planet-zoo-2-launches-on-pc-and-consoles-with-aquariums-and-aviaries"
+    "https://www.invenglobal.com/articles/27253/planet-zoo-2-launches-on-pc-and-consoles-with-aquariums-and-aviaries",
+    "https://www.hltv.org/news/45734/stikle-takes-over-as-head-coach-of-inner-circle",
+    "https://www.hltv.org/news/45733/blast-rivals-season-2-team-list-revealed",
+    "https://www.hltv.org/news/45732/fallen-theres-a-real-boost-from-winning-a-tournament-it-would-be-great-if-we-could-feel-that-again",
+    "https://www.hltv.org/news/45731/opening-matchups-set-for-pgl-masters-bucharest",
+    "https://esports-news.co.uk/2026/10/16/team-resilience-extend-winning-run-to-five-with-2-0-over-zenith-in-blast-slam-qualifier/"
   ],
   "title_hashes": [
-    "099b6e475c481428811bda42b21d4ac5",
-    "43c43f246d718dfd7d18f6e31e27cea5",
-    "ccbc38509e9cc5d6c8f398f2b6d60a01",
-    "d26f843acfb3e07c00ac03495cac3527",
-    "2d061fcca2f18eea62e845584ec18e74",
     "83dcba4821745a127d159384e3d38289",
     "c932d1d093c46a70d8f931990ae484c7",
     "9f53ba0f7b27066d9bff991c01e66493",
@@ -16001,7 +15996,12 @@
     "7bef24a7a5d07c8a926ee36fce7fd8e9",
     "5f05c53eb2f692cc7c084d2792740cd4",
     "c72efda9c18f1430e72e94afe26d9c6b",
-    "ef1b52f1da2d69ba55eb76978ef677f8"
+    "ef1b52f1da2d69ba55eb76978ef677f8",
+    "c8451e32e6a6772aec8c6dff735a3255",
+    "9c777a6049262752bd6db22859a07173",
+    "392da294a3f71644f3e645c793826270",
+    "830273ffc2e92c671d2d960793eb53b2",
+    "5b2ff160beec9449fcd5f480a9c08c63"
   ],
   "transfers": {
     "pages": {
@@ -21048,6 +21048,26 @@
     {
       "t": "2 5 adding animals aquariums aquatic aviaries consoles developments flying frontier game has its launches management planet playstation ps5 released sequel series xbox zoo",
       "ts": 1792157618.4006143
+    },
+    {
+      "t": "circle coach events have head inner into management moves over role said step stikle takes upcoming will",
+      "ts": 1792157623.6515322
+    },
+    {
+      "t": "2 blast eight hong iteration kong list revealed rivals rock season second set strong team teams this will year",
+      "ts": 1792157627.311858
+    },
+    {
+      "t": "2 again boost brazilian could explained fallen feel fissure great kick lifting playground real that there tournament trophy veteran winning would",
+      "ts": 1792157630.9369395
+    },
+    {
+      "t": "000 1 16 250 bucharest clash lion masters matchups opening pgl prizepool set share teams",
+      "ts": 1792157634.445698
+    },
+    {
+      "t": "0 2 attention blast china closed continue extend five over playoffs qualifier reading resilience run slam sweep team their tidebound turn winning zenith",
+      "ts": 1792157637.9796762
     }
   ]
 }
