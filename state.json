@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/valorant/news/valorant-viper-balenciaga",
-    "https://www.hotspawn.com/counter-strike/news/best-big-swell-gloves-knife-combos-in-cs2",
-    "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-roadmap",
-    "https://www.hotspawn.com/valorant/news/best-players-valorant-champions-shanghai",
-    "https://www.hotspawn.com/counter-strike/news/cs2-m14-leak",
-    "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
-    "https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know",
-    "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda",
     "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
     "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
     "https://europeangaming.eu/portal/latest-news/2026/09/23/214659/world-cup-2026-prediction-market-gambling-logos-study/",
@@ -7999,17 +7991,17 @@
     "https://insider-gaming.com/first-angelfall-trailer-delivers-devilishly-demonic-gameplay/",
     "https://insider-gaming.com/squad-ps5-console-alpha/",
     "https://insider-gaming.com/planet-zoo-2-shows-education-can-be-just-as-important-as-entertainment/",
-    "https://insider-gaming.com/real-life-gta-6-cars-spotted-in-miami/"
+    "https://insider-gaming.com/real-life-gta-6-cars-spotted-in-miami/",
+    "https://insider-gaming.com/game-freak-announces-beast-of-reincarnation-update-cycle-is-ending/",
+    "https://insider-gaming.com/pokemon-tcg-pocket-is-slowing-down-new-set-releases/",
+    "https://thegamehaus.com/gamingg/online-casinos-in-south-africa-a-players-guide/2026/10/16/",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-wrs-going-into-week-6/2026/10/15/",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-rbs-going-into-week-6/2026/10/15/",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-qbs-going-into-week-6/2026/10/15/",
+    "https://thegamehaus.com/gaming/gta-6-launch-trailer-breakdown-vice-city-story-details/2026/10/15/",
+    "https://thegamehaus.com/philadelphia-eagles/jalen-hurts-out-for-eagles-week-6-game-versus-panthers/2026/10/15/"
   ],
   "title_hashes": [
-    "1a21c4199f4b2a722d8c6e527b63a95e",
-    "7d1019009dd76a570c171354cbeabdb9",
-    "e68e798548ec032694033715292388bb",
-    "ce518255b97f534cf4c503a8c79ebbdb",
-    "b9497a57525e86ac5163fd792dbb5a6a",
-    "c311d7bf5653cf5b250007da469769bb",
-    "91f6e1e8b3eca0ccdbab5c8a4c2a1b76",
-    "e8cba6b0653f3e5024f042b5a9896866",
     "a1d55f50a6969f3f5f12bff7a3562c59",
     "ba824da448a2fe8c1426ba4f37aaef01",
     "8fd6f46ad5874b41fc087b26745c81b2",
@@ -16001,7 +15993,15 @@
     "8b0741c43b36e16316b6582501bd3382",
     "5cbc4e1691388c109b29ffe31a9dc4b0",
     "9b13bffac71648a844726befe7a6e09f",
-    "4bca24304861acde5770fdbe3cc2503b"
+    "4bca24304861acde5770fdbe3cc2503b",
+    "b7b0d756903923668f12a54a4a1d4467",
+    "3da61db7fefece59039e2e51f52c2da2",
+    "daaf85b663947a90586278e1425ce438",
+    "8e26400b2fa30f17ae9e81e2fa8788fb",
+    "b48513a7ed0ae05d6d00eb5e70fc108f",
+    "f2c0da11c5d81cb5ad052dc423aefdfc",
+    "4edfe1dd5d0f1a8e69f7071f39fc9dbc",
+    "d6e54f472bb88bebaccf86c43f3db3a3"
   ],
   "transfers": {
     "pages": {
@@ -21088,6 +21088,26 @@
     {
       "t": "6 advertising appeared auto cars first further games gami grand gta have insider life miami post real rockstar spotted steps streets taken theft",
       "ts": 1792157657.5179887
+    },
+    {
+      "t": "announced announces beast being cycle endin ending freak frequent future game has launch less post reincarnation update updates",
+      "ts": 1792157662.9519951
+    },
+    {
+      "t": "afoot ahead appeared changes down first including insider new pocket pokémon post releases series set slowing start tcg",
+      "ts": 1792157666.540723
+    },
+    {
+      "t": "africa attention casino casinos come competing excellent fair flood grown growth guide has hopi online operations others play player properly quickly run sites some south that thin",
+      "ts": 1792157670.1707265
+    },
+    {
+      "t": "6 8217 also can check fantasy football full going horizon into let look options out ran receiver risky some take this underrated week wide wrs you",
+      "ts": 1792157673.884021
+    },
+    {
+      "t": "6 8217 against announced been blood calf carolina clot due eagles game has have his hurt hurts jalen out panthers philadelphia quarterback ruled superficial that week",
+      "ts": 1792157677.349728
     }
   ]
 }
