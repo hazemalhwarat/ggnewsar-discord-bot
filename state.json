@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://thegamehaus.com/nba/kawhi-leonard-and-raptors-agree-to-2-year-extension/2026/09/22/",
-    "https://thegamehaus.com/tampa-bay-buccaneers/tampa-bay-buccaneers-offseason-recap-entering-2026-season/2026/09/22/",
     "https://thegamehaus.com/gaming/is-wardogs-on-xbox-and-ps5-console-release-explained/2026/09/22/",
     "https://thegamehaus.com/gaming/wardogs-reset-what-stays-what-resets-in-season-2/2026/09/22/",
     "https://thegamehaus.com/gaming/wardogs-season-2-explained-release-date-changes-more/2026/09/22/",
@@ -7999,11 +7997,11 @@
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRUN0MzB3UUQ4UlJ0alFTbTdoNmt4dEZCMmwwdm9UU2V6YnM4elo4VnN0MmFfMHdIY0U1OG5UV25fSlQ4Nnc3Rm9sQVRzY1EzQnFNMzJsTWNvREptaGFUajByNl9nT3JoZmgzOVRRT0NzbFRVQTNGRW9oUU8wUTBrM2dwQWF1bnRYNUt6R0liZUxzcmJocjJtU0ZTUF8xZWs1bFZacktjMEFBVzQxU3g4aTZvRGJrdXl1U3Zr?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX1FiUEhmVDBBblIxaW9yT2ZTbW84MjNNQ2xJWEhLVmtUU2tzOXByQzdsWTFEY1B6cXNjcllnc3YxWlJsYmRzc05RQTFNVUlYaU5wWE1JcVE5WlA5MDFZT3B6X2RUMFVZUTNVS1ljWkZpZVh4Z2l0RGNmOXY3bzA4Z3RQT3FLSk11cExfVXZSaVo0R2czel8yODZuTDcwdjBhMmtJOTViVGlBdw?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbjFPQ2EtU3JNak1lVm5TWk5BZk05SlZhRHhsUGs2VnIxSkZWWGViYlJBR3FIUjRTNEtQWjZyTHJBdTFaSzdmZndiWThjUWlXU2p0TXNJbDIzMHVNYUE5MjVUU25VWVNvYXRYajg0SXRnSzQtUGtaV3hSc1hheG85QXc2aXowNjAwd05sczJrVGVpRHpxYTJEN1VNUVIxUXY2VGRZU01VSTJtUQ?oc=5",
-    "https://pley.gg/cs2/s1mple-ends-260-day-wait-for-a-top-20-win-but-bc-game-crash-out-in-stockholm/"
+    "https://pley.gg/cs2/s1mple-ends-260-day-wait-for-a-top-20-win-but-bc-game-crash-out-in-stockholm/",
+    "https://pley.gg/valorant/riot-reveal-vct-2027-calendar-15-host-cities-masters-in-seoul-and-valencia-champions-in-austin/",
+    "https://pley.gg/cs2/aurora-and-legacy-face-elimination-as-falcons-and-furia-wait-in-thunderpick-semi-finals/"
   ],
   "title_hashes": [
-    "5cf3609048fbd4d19c5ee816c06bffd0",
-    "6a128679433ffc3368602b84b1725dcd",
     "f2576c95878936e415a7eba00b934257",
     "0d88d0950cae90545d69f55ae53d30d4",
     "22f5d44ac11bdd7b69e14ada2b5d5452",
@@ -16001,7 +15999,9 @@
     "ee3d2b86b78ea487547e85acb0d909cb",
     "6f91a78012293798f3a5ca4c6c624793",
     "4fc55d8885c7357d08d2ac2b0326cb80",
-    "8e61a281863276050c2e1882273beea8"
+    "8e61a281863276050c2e1882273beea8",
+    "937346feb71ac87c73668df6259372c3",
+    "bad2b9cb4714bc50f0fe0bcbe949f209"
   ],
   "transfers": {
     "pages": {
@@ -21356,6 +21356,14 @@
     {
       "t": "20 260 but crash day ends game out s1mple stockholm top wait win",
       "ts": 1792139667.6222236
+    },
+    {
+      "t": "15 2027 austin calendar champions cities host masters reveal riot seoul valencia vct",
+      "ts": 1792139672.7282522
+    },
+    {
+      "t": "9z aurora betboom can championship decided distance elimination face falcons finals friday furia legacy malta move places second semi take this thunderpick time touching two wait week within world",
+      "ts": 1792139676.3212306
     }
   ]
 }
