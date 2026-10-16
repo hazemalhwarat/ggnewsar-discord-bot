@@ -1,37 +1,5 @@
 {
   "urls": [
-    "https://g2esports.com/blogs/news/g2-blacklist-announcement",
-    "https://g2esports.com/blogs/news/senior-leadership-team-update",
-    "https://g2esports.com/blogs/news/r6-roster-update-welcome-benjamaster-titan",
-    "https://blog.counter-strike.net/2023/04/41365/",
-    "https://blog.counter-strike.net/2023/02/41047/",
-    "https://blog.counter-strike.net/2022/12/40596/",
-    "https://blog.counter-strike.net/2022/12/40672/",
-    "https://dotesports.com/fortnite/news/fortnite-madison-beer-skin-collab",
-    "https://dotesports.com/counter-strike/news/complexity-shuts-down-operations",
-    "https://dotesports.com/general/news/xbox-mythic-achievement-platinum-trophy",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ3pDNTMzM2dPdTVXQy1xUW9aSkk5YVV1WWhibmRHWUNhYTNuVS1QVzdyNGxxTVVKMzdESHFUc0V0ZmdCNm5nTDRYSHNlNHVQYVpzWEZjWXI4RDNvQ1c1OFZ1Z3ZldUJJTG4tczB1MFM0di1vbVpwNmFEOXRSaWdrelZJeUxKc2dhd2l4dEpFaw?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUM3NUp0aWpvVnpxWTJqWEZSYzdsSTV6Z1JiSjFINGtybEtzR0pGcm1JUnpEM3JwWnFnVk5TX2c4U242cFdDNjFuOUNtbElBOGp0RWNSTlM4aUdQNzUwMUJ5LURTcVpZc0FjeHBvVzJORmtvZVBDdXJJNnk5ckJhVHVqLXgyQXB0eUQzOA?oc=5",
-    "https://www.hotspawn.com/league-of-legends/news/lcp-wild-card-tournament-organizers",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOExBRk5WLUdXcktYaVk0Q1A1ekpoc1hIeXA2cFBQTDhrc1E5eEp1ZTFhT1BFYXFqaWNIZ0V4cW83X2lmd0JSNHBLZGdySnRXRUJmSmpadjhXSWpBTmotRGRleFZwS3ZFYWwzTUJCUEFBR2tOT3dWM3U2SHkyWUxLeGFkUGJFeUNtcWtpSnFRSXc0UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmtJSHlOUkJBTDNCWW1GMkpRVXphWVJzRlBTeE9vMG5jRzg1eXBac1RoX2d1dUh2bmRqZjRwNjFnbjhLajBOYXRIMWZ1Uk96dm1vLW1xYmFEalhWQ3NubmlCLUNUTXJZVkRQcnNuODlPOU96dG1mWkExcENraTM5bHhScTVMUHpXbkFRZ3pOUnpiMHdyZkdJazBvSjYzeVZaQ0QyYUYzbWZQQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE10MjRTaUNrc1V5TWhYbVVtbURwUE1vb1d3ZXdua2owMDhqMnFwbGlsOHROYkQ0RGQ5UDhNYW01emRwY1p3cDFJTWo0NjR6UnQxYUZnYWY2Zks4dHgzWGNpM1pfNWowaV9BZ3Y3U1dsWkt6dGZMbTRwYQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DMk1oRzhaUzdyNGRJejdRd0dRX1F1RDI1WVczdUdvRW4yOUM5WFlieEJfcmwwNmd0Mkpja2YtcEhER3d1WXRaWEEtWE9tU04xZWFPclhWRWZXS1E0Y0ZYUVZELXBTTXVu?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFZUeGN2c3J4a095b2lodHNkRmhyWUI2bFVySWFvMkV4Sm1uVkNZRWU3anZOVDhvWGFNUnhZUnVVQkVwVDlYTTVfOVk0aUlRYTBiZVhzNkRSNTlpN2hJSU9wN3ZxUXdVWEJjZzFMN3FQYnJHeEVGZk9aUjBveUlVT2FOSG5SS2FiNnBqUk1pYkRyRGk5T0s0VWlURzJoVl9WTjZQNEJrR3dlVnc?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iLTR2LUNfMjYyVm5GaUlSZDFMdVZVbkxSTFN3UVZSc3A3OHNRNGcyNzNMNmhzNllrb2lxT0FWNl96QkVmTk93MmQ2b2R1VGtDTHhLZEh1WlV3dE1YX25pY3AwQTEtcWRoNHZDUEFhdXhhTkt5WDlueUg3dnRUdw?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUUJEYzRVTXVCS3ZHbG9BVFY1LTZIdFBXelNXZzRuTDRVRU9fNjNlSXdjTEllcjJzMVp3QnlkV0x4WVhPamdfbXhfZUNDekZDVmpONE1aRzlxVENxVUNnc2lkUERTNm42TFBfd2l0U3dybVphMUJHSE1Tb0hXYnNfbVkwTUdNQTJfZmF0Qk93SzU4RFJh?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qekFydnJuamtTUi1VcEtPM0p6aThwOUZVQWlPMkJ3MVFQZ3ZwMWo2anE0UkJXb3c3VnNuMHpIelh3dWpBU2dIY1lfUHJLTWlaaHgtMlJjTVR5TUFZT0IwanFnbFdSYXRDYzY4SEpLMDk2UUdmWngxZlR0S1NEdw?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSldJOE5aUllPY0pCTmJwNG1ocUVFWEx6d19PQUtxZUdQMnZKYjJSN1hISnh6VEF1WW5pVHJOYTl2NkZkVl9FZUdxR1dLWXlwRVZiajEyQXBaUEtBS3k3YnlPMTNfUFdhc1pScGU2WTl0Wk5IMXkxTUc3YmlDb043SE5udXN5MW11eTdabGtpLVlWZnlK?oc=5",
-    "https://news.google.com/rss/articles/CBMitwJBVV95cUxNZ3NlRDByYUxJQkt6bGZYdHVTV0JtVGRBZjFVWnJDaDlHSnlPcWNJZFVndzBnVzJxTjB6OGxvaEFVUkFrMnB4cWZpWWdBLU5QOV9UMVJNbDZTYkFZWXhLZGU4Rkc4QWQyd25BTEpVTTVubnlSZU9kcnVzMnRhNm1DY3FrWWZmdW9NamdLd2VwMlhfX2pEaDZJX05OSTU0LVJ5SDNkOWlDcGhsWFg2eWVjTFoxNmVzdjBub0pBaDdVRTNXRlpROWotZXhrWGo4RnNxcFhYMmFraV9CdDFvUEoxWG5nLXl4RllsSGpQWDQtLUN0dVREOWRRa3JzaFpFUnBmclF1VktqN1pfaVNSVnl6LW00V0gtVVhtN0V4b3ozU01xeXNIWjU1N01mTDZnc0J5S2RaRVJfQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTDBoX2dzTTBwb2tpRVdKZFRRdV9FZDVfb053TzU5YnluUU42Wkw4RlA4ZDN1X1V4THFGUmR0dTUwNHpualB0MW1BZzdpWGZuTFFuZVpWQmZ5cV9FVG1ldWxCOXdMQzg3QzItcVF2S0k4QWwzZmZfVHZKcmpSRzFHcThVZjNSN1lWQnQ0NWhUOUVMNDZIWU5YaDVtSTNUWWVNZmpIQlFySWg?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjd0UXl4dHB3RkhJRWs2STc5cjQzR3RNOUlpUFpaNEtBNmh0YmNGWVZYbzZ2UjJnTlpxN05vRnA0WHFQcGNicmZhdncxYm82XzlVeFhxeC1Wc2RyNVF1cnFpZ2JoTUFMdzFiQXduZHJaNF9KSkZvRTMxWURTWXdUeGN5U294bU9tb1BXRFFXS0pLbmNpTC1sWEdiOGdUbDJSWmxQdHlwR0hmNjg?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUJVNkYySEpYVHExd1ZjX0pWaWpTaW5qWXRJSUc1bmNQZF9mNTZyaDc0X04zdi1MQnNTeTVJTXJiTll3OVJyVFB0d3FNMWc4bHFZSFhCT3RJNVkyZEl1TzE2b0FHSjZCeEctMWw2dTBncTFEUmdkRXRoZy1FZzFkUzcxTDBaYlJtRS1hWWpyUDdEYU9jS1czdDg3eWVYQms2a0diSnNRR3BPcmFZUHIwbWVYRlktXzNwTjhnYm1B0gHDAUFVX3lxTE9SLXZ5MWdKVEtBYXhtYzdMVWN3R3EzeUZJWXZQV0szMHJqTVo2akFDNG9CeWtvQkxqVDRGR0x4UkRISFNyNjd2cHU2VE9QQ1hnS1BoRlczdjF0T0xiNjBhczJKZTNpVEFWUWc3NmxidVo4eFpCU2dSM2RfZU5EVk04RGw3ZVJKN2xJQnpSclpDS1ZsUGhqX01acUoxSGlUX01Ic0R4dGQ1SkdKSmk0N29hVG85U0J2RDNpc2xfVm5OcWh3WQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeC01bjY0al9JTjRrVzVUYk1lZ1ZLYTVrZWN0SFBseFJTQ2VBTFF0OGRHSDhhbmVxbEdESm52bER5MU1zYUI2QkhTWmI0dmtrekJ3VzNhTDJVd2xGRHRObnhzSjA5UG9LUHRDenI2aFVVSzlTMHdIX1RYdGl5bVQtOTVhdnpmS21sbkhNSThUUjZwQXB1MmRybQ?oc=5",
-    "https://www.invenglobal.com/articles/26475/steam-frame-valves-true-big-picture-inside-a-vr-headset",
-    "https://www.invenglobal.com/articles/26474/diablo-iv-developers-send-chuseok-greetings-to-korean-fans-thank-you-for-30-years-together",
-    "https://www.dotabuff.com/blog/2026-09-01-next-patch-wishlist-compressing-the-playtime",
-    "https://www.dotabuff.com/blog/2026-08-17-the-international-2026-group-stage-recap-and-playoff-preview",
-    "https://www.dotabuff.com/blog/2026-08-11-the-international-2026-preview-the-favourites",
     "https://www.dotabuff.com/blog/2026-08-10-the-international-2026-preview-the-challengers",
     "https://www.dotabuff.com/blog/2026-08-09-the-international-2026-preview-the-wildcards",
     "https://www.dotabuff.com/blog/2026-08-08-the-international-2026-preview-the-underdogs",
@@ -7999,41 +7967,41 @@
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DdS1FOXRkZ1MzTWhibV9CZkwxTDFtTV9kVFFXS0pfeWVac2RYRm1UVHFMb3M4SVRJenpUa25pQVROZTNYZEVBcER3VlVRd2ttUmJNNi1OS3Q5VmlXenlsckc2eUFhN0dtN1pqSFNqMzFNQl9paVpMNUJjcWZkN0E?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTc0E1NUJGZmlROWdVWkdSdzNJVWxzbHpIVXl6cjN2LWkyS0Juc3FJb1pacU1mS3NiRUFNZEJBUFNXcFA5UTBEZ2dEbWlGcFZrcXExSXdKanRlb0UwdDZqRnJWNXc5c3RQT052WGFaNi0xYzZNb1JfSXVR?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdG52c3pLTDBqLS1SeFNXTnlPVTMzNmg0VTgySGNMSHpnWTJwQkR3UXRQY094LU9TVk1WTHlXYWdPWGV2aEJHcnVvWmJmVzlwV09kWHc4V2ZuRDRPZlFaUVpXUFN0SG9RaUFlazBfUEFnd1JScUJEZk94ckFmd21FZEMyZ0pRRnhMVUNlb2FCUnB1b21iZGcwM3dYWXB6WlZHVUxrMQ?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPckk4OVV4VUY5Q3ZJRVI0MXJucXJXTGlMTHZpdE9JQ3o5b2VtUTNMZ1lrZHBaZXNUMi1vbGpSU1lCMXpzRzNtXzZZTktnRXhMcXliQ3RxdElPdlhSaEJHRHpPUWpqcXRBMGxmdlhPZkU2UDVNSm12Y0FVcnpPaWdFUU56OFQ0QU10LVIzYVd2OUQ2Nm9CdEVfeDdyb3R0Vm9kbGJyY0lvV3F4ZmNvbUt2SDFtVFk?oc=5"
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPckk4OVV4VUY5Q3ZJRVI0MXJucXJXTGlMTHZpdE9JQ3o5b2VtUTNMZ1lrZHBaZXNUMi1vbGpSU1lCMXpzRzNtXzZZTktnRXhMcXliQ3RxdElPdlhSaEJHRHpPUWpqcXRBMGxmdlhPZkU2UDVNSm12Y0FVcnpPaWdFUU56OFQ0QU10LVIzYVd2OUQ2Nm9CdEVfeDdyb3R0Vm9kbGJyY0lvV3F4ZmNvbUt2SDFtVFk?oc=5",
+    "https://g2esports.com/blogs/news/g2-partners-with-wizards-of-the-coast-to-launch-new-rotating-game-inspired-counter-strike-jersey",
+    "https://g2esports.com/blogs/news/g2-l-one-piece",
+    "https://g2esports.com/blogs/news/g2-announces-g2-performance-lab-to-support-performance-development-of-esports-and-sports-athletes",
+    "https://g2esports.com/blogs/news/mcdonald-s-germany-partners-with-esports-giant-g2-to-fuel-emerging-talent-and-women-in-esports",
+    "https://g2esports.com/blogs/news/g2-partners-with-skin-club-as-official-skin-partner-for-cs2",
+    "https://g2esports.com/blogs/news/g2-pushes-the-boundaries-of-competition-with-mixed-vr-squad-g2-eva",
+    "https://g2esports.com/blogs/news/g2-esports-and-theta-labs-launch-ai-agent-sami",
+    "https://g2esports.com/blogs/news/g2-joins-forces-with-winamax",
+    "https://g2esports.com/blogs/news/g2-and-nord-esports-join-forces-to-launch-g2-nord",
+    "https://g2esports.com/blogs/news/g2-announces-betpanda-as-official-cs-global-betting-partner",
+    "https://g2esports.com/blogs/news/g2-turns-a-decade-of-legacy-and-ambition-into-lore-with-launch-of-fantasy-action-webcomic-series-red-aura",
+    "https://g2esports.com/blogs/news/g2-makes-first-entry-into-traditional-sports-with-the-launch-of-g2-football-club-in-kings-league-germany",
+    "https://g2esports.com/blogs/news/g2-completes-seven-figure-series-b-investment-round-and-announces-new-investors",
+    "https://g2esports.com/blogs/news/skinrave-becomes-the-official-g2-cs2-skin-partner",
+    "https://g2esports.com/blogs/news/g2-app-developer-notes",
+    "https://g2esports.com/blogs/news/g2-esports-partners-with-alpine-sim-racing",
+    "https://g2esports.com/blogs/news/we-built-a-valorant-super-team",
+    "https://g2esports.com/blogs/news/g2-esports-partners-with-invictus-gaming-to-enter-dota-2-esports-and-expands-into-china-with-first-local-team",
+    "https://g2esports.com/blogs/news/g2-esports-partners-with-stride-esports-to-strengthen-the-future-of-rocket-league-esports-in-north-america",
+    "https://g2esports.com/blogs/news/ownership-group-behind-version1-enters-strategic-partnership-with-g2-esports",
+    "https://g2esports.com/blogs/news/we-are-back-we-re-ready-for-vct-americas",
+    "https://g2esports.com/blogs/news/break-the-meta-herman-miller-gaming-and-g2-esports-launch-limited-edition-embody-gaming-chair",
+    "https://g2esports.com/blogs/news/g2-esports-and-ralph-lauren-launch-first-clothing-collab",
+    "https://g2esports.com/blogs/news/welcome-g2-luna",
+    "https://g2esports.com/blogs/news/g2-partners-with-jagermeister",
+    "https://g2esports.com/blogs/news/g2-partners-with-warner-brothers",
+    "https://g2esports.com/blogs/news/welcome-g2-oya",
+    "https://www.invenglobal.com/articles/27310/kyeahoo-the-backdoor-was-100-my-call-expecting-a-rematch-with-c9",
+    "https://www.invenglobal.com/articles/27309/karmine-corp-sweeps-mvk-first-to-secure-spot-in-play-in-final",
+    "https://www.hltv.org/news/45739/betboom-qualify-for-twc-playoffs-over-legacy",
+    "https://insider-gaming.com/sakurai-smash-bros-traditional-fighting-game/",
+    "https://insider-gaming.com/cody-rhodes-street-fighter-sequel-mortal-kombat/"
   ],
   "title_hashes": [
-    "a3ab154fe9ccd20e67b707756be8830c",
-    "3e6dd22bcbadd28ac1f928e3d28ca3b5",
-    "fa2e331fcd980d5778d7de2293c32933",
-    "9114f2630386075368354005312bdf4c",
-    "27d0cf2d46d44ca253721d3b385c48e4",
-    "94c8ff6f1f5f8053523e74ad10a8a703",
-    "41076354cf1403061157c944fd76464f",
-    "e2723d8692ba8de60e7dc528b64ca4b7",
-    "b4872381908554e3d898d53f767c2a6f",
-    "09bf732186696f57b4a19daeeb5c8704",
-    "92cc73435e8d0e0bf7624404061cb2fc",
-    "a56ea30c60ea874e97f9ff054da45439",
-    "dfa49c14ce69f4279c30d825046fd9b4",
-    "e88b10306ce13177ca65865a3c3cbf07",
-    "f29cdb06fb27ca4eb4235edd8e3d7405",
-    "02469f9252cbec96ccf0652e51d9ab82",
-    "143a73ede30c18c711baaa67a512b281",
-    "fce79ed3353711957e300b8cf7ed61ca",
-    "d1db9933fb086a0e5f48a356baa4f694",
-    "cd00d50d0eac02a1e188013d0c828fd2",
-    "ba614ae1d11e184c486618a467686502",
-    "6852ae14c8f03f3fd707775bc24d0455",
-    "e9d5338da20b69a2171f29a50ffb5f7e",
-    "48347b5a890e7459b3f7b015f81b547e",
-    "840afa61149e0ef2f04fbec56a14701e",
-    "c8c2afc8939099052b070c55ea34fa2f",
-    "7484d9e502116b09f0abbadbdf3a47a3",
-    "bf5fde20bbc79a1b228f0590c1d8b04a",
-    "4f796a500a8e80a37e5266e61449c49b",
-    "5abb1c0f8ef88808cfd8e04e2abc6218",
-    "a07397e42a1dc90026c3632f0572f585",
-    "3d98e88f19656017cdf2bf6ded773e9f",
     "dd53d0dc53ff1bbf455fd6bdc76ae207",
     "ab8880e11793e95dba1b59bfffe5f84e",
     "aa18ce944032a542963c7f83048f2497",
@@ -16001,7 +15969,39 @@
     "799855594adc0f2bd7302c69d3234b5a",
     "840afa61149e0ef2f04fbec56a14701e",
     "e9d5338da20b69a2171f29a50ffb5f7e",
-    "636443953a465b787dacf032ae2a7dd0"
+    "636443953a465b787dacf032ae2a7dd0",
+    "774af8b145b22ac0999711ba89a7042b",
+    "096ba03895e08b2a746639b0655635ff",
+    "ebeb90e2366eaf8edba3493234d7070e",
+    "9d0784c1cd2077d0b519ea93d8cfe39c",
+    "4441ad500c391573d23baa5502c91404",
+    "3f1f22a1f12fd234d722b7127a325074",
+    "82a3987d0f19253674804c831685beb0",
+    "8d065b2812fba20016f644cc3852aa48",
+    "9f48c615fec6fdadbd5243885a3c547e",
+    "a585d9c4113b31632182bb786db38908",
+    "2f29c206b2c5c1dd21ca395f7cfb5f18",
+    "c687005dcef2499b159748dd4d92cdd0",
+    "4cb95dbd5f741fe5743ea641d0ff4c09",
+    "5dcad4e044cec415609012a708e9377d",
+    "c894da95319bab2efab8bccfaf3f4994",
+    "034e40dc1d9a253737732acfbbf2fd76",
+    "1a55166a0899dd82471a29557f807759",
+    "112e37323cb453ce5b516ec95b068e2e",
+    "3ff0f56fa4ba61df5dafd31d873a978d",
+    "ff7ce6f5d088f5a22eb9807e53235822",
+    "0407f1a093e9723516b914e6a02fd5ae",
+    "61e99ad5f54e861a6e2dcec89a5ddef7",
+    "f161e0335b3b9eb633c5da451c815506",
+    "36ab58ad2cec4462ed3dcf72733abafa",
+    "dbb10e87c10eb3a35cfa35334b7f953d",
+    "9ae7f4d44125da1fcbff6023fa7a8a93",
+    "c1788967f244c372e0c977c8cca4c7b0",
+    "b28caf854fd205d43055ac888f725f74",
+    "5291b1534072b07b4fa2414eddb6a4d9",
+    "fce16982328b06e23407a00b4dbc9989",
+    "967e64e077589e3c014996ec03e222d3",
+    "5e4577038e7b7d67f68affcfc8a4d91e"
   ],
   "transfers": {
     "pages": {
@@ -20710,118 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "12 anime atelier collaboration event hat its mabinogi mmorpg nexonnexon november running runs until witch",
-      "ts": 1792122324.809396
-    },
-    {
-      "t": "16th 2 adventure amp announced bun bundle collaboration daewon edition entertainment friendship hello island kitty media mediadaewon nintendo open orders physical pre switch that",
-      "ts": 1792122328.355191
-    },
-    {
-      "t": "15 20 alpha conducted development eternity first has insights its last mabinogi new nexonon next october preparing september shared team test updates via which years",
-      "ts": 1792122331.8961794
-    },
-    {
-      "t": "127918 azur content core cutein fighting fun game games infotitle living manjuu mobilepopular nexon nexonplatform openworld promilia promiliadeveloper sandbox starbounder subculture tags together travels",
-      "ts": 1792122335.4287508
-    },
-    {
-      "t": "00 17 22 3 8 advanced after aiming asl chul era extend finals google ice jamsil jin kim lotte min october place play player players reaching rink season seasons soopthe take terran who will world yoo young zerg",
-      "ts": 1792122338.9595037
-    },
-    {
-      "t": "1 analysis but cut fallen generated half has inflation nearly power predictive recent remains sales shows single steam that unchanged value volume wishlist years",
-      "ts": 1792122344.0220487
-    },
-    {
-      "t": "0 16 3 angeles arena brazil defeated early esports furia games hours international kst los mvk october regu regular representative riot sweeps tournament usa vietnam",
-      "ts": 1792122347.6428072
-    },
-    {
-      "t": "2026 4 agf agf2026as anime been coming december event festival five game has korea largest list main major open palace participating prepares revealed reveals silver sponsors",
-      "ts": 1792122351.1706936
-    },
-    {
-      "t": "000 1 1st 200 anniversary announced chart free games google have its japan major9major9 outerplane play players popularity pre reaches registrations rpg service subculture surpassed that top transfer",
-      "ts": 1792122354.718966
-    },
-    {
-      "t": "1 15th announced chzzk collaboration connect integrated launched launches naver nexon nexonnexon opens page season soop that",
-      "ts": 1792122358.228947
-    },
-    {
-      "t": "16 announced apac asia client generation has kwave launched new next nuversenuverse october officially opens ragnarok server that",
-      "ts": 1792122363.165139
-    },
-    {
-      "t": "000 2 400 achieved aion card coexistence concurrent global impressive initial market metrics mixed mmorpg ncsoft ncsoftlooking players rating reach report solely steam strange success undoubtedly yet",
-      "ts": 1792122366.6928606
-    },
-    {
-      "t": "10th 16th 2k anniversary announced console current gen has iii introduced mafia mark marks release steam that update versions",
-      "ts": 1792122370.229961
-    },
-    {
-      "t": "10th 16 adds anniversary announced ascent has its maplestory mmorpg mobile nexonnexon october released skill that update",
-      "ts": 1792122373.7107031
-    },
-    {
-      "t": "containers details fourth game glass has hereafter homes housing installmen its last nakwon nexonnexon paradise revealed shelter shipping survival system through upcoming walled zombie",
-      "ts": 1792122377.219567
-    },
-    {
-      "t": "16th 4 announced boltray confirmed games gamesboltray its launch light november official officially rpg staff sword that will",
-      "ts": 1792122382.1726835
-    },
-    {
-      "t": "16 action cfkcfk launched launches lunatic nightmare october ps5 roguelite rpg version",
-      "ts": 1792122385.6716788
-    },
-    {
-      "t": "12 16 2026 announced finalized foundation h2 half has its october orange planet process recruitment regular second selection selects smilegate smilegatethe startup teams that",
-      "ts": 1792122389.311259
-    },
-    {
-      "t": "15 16 across all announced events franchises games halloween hosting hosts its oct october starting tank tanks that titles wargaming wargamingwargaming warship warships world",
-      "ts": 1792122392.80802
-    },
-    {
-      "t": "15 16 2026 broadcast championship chzzk held hereinafter league legends live lol naver navernaver november october platform states streaming united will world worlds",
-      "ts": 1792122396.7285464
-    },
-    {
-      "t": "2026 battle beating blood cloud9 corp draw earn first five game intense karmine kcorp lec lol post pride regional series survived worlds",
-      "ts": 1792122401.8026817
-    },
-    {
-      "t": "2021 april avoids away community completely content create deliberately director discussions former game has hasn health helped his jeff kaplan mental overwatch played says since stepped videos",
-      "ts": 1792122405.2821174
-    },
-    {
-      "t": "accounts advantage another chance chat competitive confirmed cracking cracks developers down give giving issued marvel mods over penalties players recently rivals some suspended suspensions that toughens unfair while",
-      "ts": 1792122408.7864187
-    },
-    {
-      "t": "5 6 about after angry back backend battlefield behind boost but changes comms concerns double has issue players progression raised report reverts rolled says season slowdown unintended",
-      "ts": 1792122412.2373674
-    },
-    {
-      "t": "below coming considered esports finding furia into kratos lcp many mvk one other powered representatives reveals see sweep team that thing tier two unexpected winners wins worlds would wrote",
-      "ts": 1792122415.6705043
-    },
-    {
-      "t": "8217 after against ayu burning cblol coming didn dominating esports everything felt finish furia like loss mvk off opening opponents record score series show strong team their unexpected vietnamese",
-      "ts": 1792122420.6591845
-    },
-    {
-      "t": "2 2026 acceptable across advantage after allowed back but c9 corp costly early fight first game games gave had int karmine level lifeline messy played reapered series their them three throw wasn way worlds",
-      "ts": 1792122424.117427
-    },
-    {
-      "t": "2027 esports global nbsp tour valorant vct",
-      "ts": 1792122427.6382844
-    },
-    {
       "t": "already boasted boosted built claimed coding created day early epic faced faster games had however its just launcher left newly one prior red released speed startup steam store than that valve vibe",
       "ts": 1792139556.1855001
     },
@@ -21292,6 +21180,26 @@
     {
       "t": "821 about all biggest cars changes ever everything find four joined know need new out post raceroom significant tracks update you",
       "ts": 1792181228.9391649
+    },
+    {
+      "t": "0 100 17 2 2026 3 arena backdoor bracket c9 call championship corp expecting games gameson held karmine kst kyeahoo lol morning mvk october play rematch riot round stage swept upper world",
+      "ts": 1792191043.8905983
+    },
+    {
+      "t": "0 17 2 2026 3 bracket championship corp decisive early final first gameskarmine held karmine kst lol morning mvk october over play rio riot round secure secured spot stage sweeps upper victory world",
+      "ts": 1792191047.3409982
+    },
+    {
+      "t": "betboom has hltv invite legacy major over per playoffs predictor qualify russian secured singapore spot squad twc",
+      "ts": 1792191050.7671795
+    },
+    {
+      "t": "been bros doubts figh fighting first followed game had have masahiro might never post released rules sakurai says smash succeed super traditional typical would",
+      "ts": 1792191054.4438124
+    },
+    {
+      "t": "2 cody crossover discussing fighter floats future guile his interview kombat mortal post return rhodes says sequel street wants while",
+      "ts": 1792191057.8699076
     }
   ]
 }
