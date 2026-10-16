@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26424/ncsoft-hosts-chuseok-events-across-8-live-games",
-    "https://www.invenglobal.com/articles/26423/up-to-200000-gold-and-a-relic-title-lost-ark-act-3-extreme-update",
-    "https://www.invenglobal.com/articles/26422/riot-games-hosts-cheering-event-for-south-korean-lol-national-team",
-    "https://www.invenglobal.com/articles/26421/kakao-games-new-title-world-of-dokkaebi-character-name-reservation-closes-in-1-hour",
-    "https://www.invenglobal.com/articles/26420/bang-dream-our-notes-launches-globally-on-september-24",
-    "https://dotesports.com/league-of-legends/guides/league-classic-akali-build-guide",
-    "https://dotesports.com/indies/news/dressmaker-indie-cozy-game-sewing-steam-top-seller",
     "https://dotesports.com/counter-strike/news/all-cs2-competitive-active-duty-maps",
     "https://dotesports.com/counter-strike/news/cs2-update-rush-mode-premier",
     "https://traxion.gg/your-guide-to-the-simracing-expo-frankfurt-2026-traxion-control-podcast/",
@@ -7999,15 +7992,16 @@
     "https://www.invenglobal.com/articles/27278/hello-kitty-island-adventure-switch-2-bundle-pre-orders-open-on-the-16th",
     "https://www.invenglobal.com/articles/27276/mabinogi-eternity-preparing-for-the-next-20-years",
     "https://www.invenglobal.com/articles/27275/the-fun-of-fighting-and-living-together-core-content-of-azur-promilia",
-    "https://www.invenglobal.com/articles/27274/kim-min-chul-aiming-to-extend-the-zerg-era-vs-yoo-young-jin-reaching-the-finals-after-8-seasons"
+    "https://www.invenglobal.com/articles/27274/kim-min-chul-aiming-to-extend-the-zerg-era-vs-yoo-young-jin-reaching-the-finals-after-8-seasons",
+    "https://www.invenglobal.com/articles/27273/steam-wishlist-inflation-value-of-1-wishlist-cut-in-half-but-predictive-power-remains-unchanged",
+    "https://www.invenglobal.com/articles/27272/vietnams-mvk-sweeps-international-regular-furia-3-0",
+    "https://www.invenglobal.com/articles/27270/ember-and-blade-to-enter-early-access-on-january-8-2027",
+    "https://www.invenglobal.com/articles/27271/torchlight-infinite-launches-ss14-tartarus",
+    "https://www.invenglobal.com/articles/27269/silver-palace-is-coming-agf-2026-reveals-five-main-sponsors",
+    "https://www.invenglobal.com/articles/27268/outerplane-reaches-no-1-on-japans-google-play-popularity-chart",
+    "https://www.invenglobal.com/articles/27267/nexon-launches-n-connect-season-1-with-soop-on-the-15th-opens-integrated-page"
   ],
   "title_hashes": [
-    "1320dfe2c8a6a4a16496110050d678b7",
-    "e3d4a2e09776bf52e682bffc0a22ece1",
-    "a8d32e3ddd2b41cfb7bbab79f7fe5c44",
-    "fa9c2adb049e180bc0aa540c40df4f63",
-    "e0e135e59937a672c00a3c53d0ece2b8",
-    "98c748b3b09ea3931b2baa7a440af511",
     "16c1c14f041ec65b5a51716301c36e0c",
     "a562c16c6e965e554a88c97e186a57bd",
     "2bc0eaed4903851003429f9fedc5c63f",
@@ -16001,7 +15995,13 @@
     "60c6ec7a6f4aee7d7faa406d9ea280a3",
     "4aac1ad042b42b502557844cb89f9e0a",
     "2963ce75e42cea0a5ab8911b68ab0028",
-    "fc725aa4e47f8d917e24894477ae3c6d"
+    "fc725aa4e47f8d917e24894477ae3c6d",
+    "c1cba819100eb7dbab48db5da8a776ff",
+    "57aa7a388025d213b712245b24b43df6",
+    "efa57de067b3f3e5f2d01e15a33d7874",
+    "db2847f1976ca6ac9c746952f4cebc69",
+    "0d06f82a4d09483bc85020ab4ab9f0f2",
+    "09f15ef63d22a5e3cce5101ba15228c2"
   ],
   "transfers": {
     "pages": {
@@ -21304,6 +21304,26 @@
     {
       "t": "00 17 22 3 8 advanced after aiming asl chul era extend finals google ice jamsil jin kim lotte min october place play player players reaching rink season seasons soopthe take terran who will world yoo young zerg",
       "ts": 1792122338.9595037
+    },
+    {
+      "t": "1 analysis but cut fallen generated half has inflation nearly power predictive recent remains sales shows single steam that unchanged value volume wishlist years",
+      "ts": 1792122344.0220487
+    },
+    {
+      "t": "0 16 3 angeles arena brazil defeated early esports furia games hours international kst los mvk october regu regular representative riot sweeps tournament usa vietnam",
+      "ts": 1792122347.6428072
+    },
+    {
+      "t": "2026 4 agf agf2026as anime been coming december event festival five game has korea largest list main major open palace participating prepares revealed reveals silver sponsors",
+      "ts": 1792122351.1706936
+    },
+    {
+      "t": "000 1 1st 200 anniversary announced chart free games google have its japan major9major9 outerplane play players popularity pre reaches registrations rpg service subculture surpassed that top transfer",
+      "ts": 1792122354.718966
+    },
+    {
+      "t": "1 15th announced chzzk collaboration connect integrated launched launches naver nexon nexonnexon opens page season soop that",
+      "ts": 1792122358.228947
     }
   ]
 }
