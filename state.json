@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.dotabuff.com/blog/2026-08-10-the-international-2026-preview-the-challengers",
-    "https://www.dotabuff.com/blog/2026-08-09-the-international-2026-preview-the-wildcards",
-    "https://www.dotabuff.com/blog/2026-08-08-the-international-2026-preview-the-underdogs",
-    "https://www.dotabuff.com/blog/2026-08-07-dotabuff-fantasy-guide",
-    "https://www.dotabuff.com/blog/2026-07-28-preti-adjustments-we-would-like-to-see",
     "https://www.dotabuff.com/blog/2026-07-21-the-most-overvalued-professional-hero",
     "https://esports-news.co.uk/2026/09/17/nrg-stun-mouz-to-open-starseries-fall-2026-with-big-ranking-boost/",
     "https://esports-news.co.uk/2026/09/14/esports-weekend-review-sep-14th/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27309/karmine-corp-sweeps-mvk-first-to-secure-spot-in-play-in-final",
     "https://www.hltv.org/news/45739/betboom-qualify-for-twc-playoffs-over-legacy",
     "https://insider-gaming.com/sakurai-smash-bros-traditional-fighting-game/",
-    "https://insider-gaming.com/cody-rhodes-street-fighter-sequel-mortal-kombat/"
+    "https://insider-gaming.com/cody-rhodes-street-fighter-sequel-mortal-kombat/",
+    "https://insider-gaming.com/cody-rhodes-wwe-street-fighter-tournament-picks/",
+    "https://insider-gaming.com/karmine-corp-sweep-mvk-lol-worlds-play-ins/",
+    "https://insider-gaming.com/wordle-hints-answer-october-17-2026-1946/",
+    "https://insider-gaming.com/heartsong-seraphine-lol-skin-raises-3-7m-for-charity/",
+    "https://esportsinsider.com/2026/10/team-liquid-roster-malr1ne"
   ],
   "title_hashes": [
-    "dd53d0dc53ff1bbf455fd6bdc76ae207",
-    "ab8880e11793e95dba1b59bfffe5f84e",
-    "aa18ce944032a542963c7f83048f2497",
-    "5751a19dd7d5c1d21b6d2388cbf5d465",
-    "df09c3615d255fdd02296669cb0a1aab",
     "4a4bd23f07ebc00374ba5d242857785c",
     "ab70ef1e39d882449bdc3c0ff1092196",
     "be1c4f8dd915c0003f2920deb906e175",
@@ -16001,7 +15996,12 @@
     "5291b1534072b07b4fa2414eddb6a4d9",
     "fce16982328b06e23407a00b4dbc9989",
     "967e64e077589e3c014996ec03e222d3",
-    "5e4577038e7b7d67f68affcfc8a4d91e"
+    "5e4577038e7b7d67f68affcfc8a4d91e",
+    "c12264001e644415cd0a30549e387328",
+    "1ed636853b865b7e55976a6d1791372f",
+    "529ac76cd18005fbcdcc0fbf68b19eed",
+    "c5b852fa8354d198aa32e1339afc0d0f",
+    "bd1aa58cf0ad5edce2270f2d866d3f6a"
   ],
   "transfers": {
     "pages": {
@@ -21200,6 +21200,26 @@
     {
       "t": "2 cody crossover discussing fighter floats future guile his interview kombat mortal post return rhodes says sequel street wants while",
       "ts": 1792191057.8699076
+    },
+    {
+      "t": "8217 backs blanka chad cody discussing fatu fighter gable hypothetical intensity jacob like names post real rhodes sees skills street superstars tournament well while who wrestling wwe",
+      "ts": 1792191062.8225093
+    },
+    {
+      "t": "0 3 after away breezing corp esports final game ins karmine lcp lec lol mvk one past play post reach reaching stage sweep swiss worlds",
+      "ts": 1792191066.2948122
+    },
+    {
+      "t": "17 1946 2026 answer game get help helpful hints need october post starting today wordle words",
+      "ts": 1792191069.6925864
+    },
+    {
+      "t": "3 7m been char charity fund games has heartsong impact initiative lol nonprofit over post raised raises revealed riot seraphine skin social that",
+      "ts": 1792191073.2606757
+    },
+    {
+      "t": "2 2026 2027 adds after appe away competition dota falcons former joins laner liquid malr1ne mid nisha post roster season steps team",
+      "ts": 1792191077.0683267
     }
   ]
 }
