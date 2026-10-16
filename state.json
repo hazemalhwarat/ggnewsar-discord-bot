@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://dotesports.com/counter-strike/news/all-cs2-competitive-active-duty-maps",
-    "https://dotesports.com/counter-strike/news/cs2-update-rush-mode-premier",
-    "https://traxion.gg/your-guide-to-the-simracing-expo-frankfurt-2026-traxion-control-podcast/",
-    "https://www.hotspawn.com/counter-strike/news/cs2-pets-update",
-    "https://www.talkesport.com/news/cs2/cs2-update-brings-chicken-eggs-rush-mode-full-patch-notes-more/",
-    "https://www.talkesport.com/news/cs2/cs2-rush-hour-update-silent-reloads-premier-3v3-mode/",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FU3d3WEtJOTR0SjJkWEFZM0RVLVd3a0xDZ29Td3BrSlFWbjhmaUlMT2lCNU9tNUpxRG5TdmZoYjU0YlotWlhXaWJEbkhGNXZfeFV1aEdDQ0xOa1NZeVRUTjd5eDA?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15S1dkZDJIU0hLNFB0eF9QWTRjZkJuOFVaMUFuZ3lUSlBtUzZ1Rk5tWFpfLXdIQnVVQ3JMY0pySUxTeTNaazM3UGJrbGE?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zX2RzMjlhRXVMbG54NEg1ZnZKS3lPeGdZVFROMzJEa2o5OTlEOHhUNUNLU2pFQVZ1WXg3QUtPbUdHUUdFWm0xZzE4Y3VqTUlXRFZydjZpam1fZ1FkZDEtM3BSX0t5QzJKQkRDZEVGSTBicmVNQXlXSw?oc=5",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/27271/torchlight-infinite-launches-ss14-tartarus",
     "https://www.invenglobal.com/articles/27269/silver-palace-is-coming-agf-2026-reveals-five-main-sponsors",
     "https://www.invenglobal.com/articles/27268/outerplane-reaches-no-1-on-japans-google-play-popularity-chart",
-    "https://www.invenglobal.com/articles/27267/nexon-launches-n-connect-season-1-with-soop-on-the-15th-opens-integrated-page"
+    "https://www.invenglobal.com/articles/27267/nexon-launches-n-connect-season-1-with-soop-on-the-15th-opens-integrated-page",
+    "https://www.invenglobal.com/articles/27266/ragnarok-x-next-generation-opens-new-apac-client-server-kwave",
+    "https://www.invenglobal.com/articles/27265/steam-rating-is-mixed-yet-concurrent-players-reach-400000-the-strange-success-of-aion-2",
+    "https://www.invenglobal.com/articles/27263/mafia-iii-marks-10th-anniversary-with-current-gen-console-release-and-steam-update",
+    "https://www.invenglobal.com/articles/27264/maplestory-m-adds-ascent-skill-in-10th-anniversary-update",
+    "https://www.invenglobal.com/articles/27262/steam-overhauls-achievement-system-managing-season-and-dlc-achievements-separately",
+    "https://www.invenglobal.com/articles/27261/from-shipping-containers-to-glass-walled-homes-nakwon-details-its-shelter-system"
   ],
   "title_hashes": [
-    "16c1c14f041ec65b5a51716301c36e0c",
-    "a562c16c6e965e554a88c97e186a57bd",
-    "2bc0eaed4903851003429f9fedc5c63f",
-    "860a24a72f553091fce11b2f818a0f19",
-    "4f467deda4cc278ba13a137e40eb6b85",
-    "bcb526b8634f8634914d3148e5bd24ec",
     "50b890b70fe8dafe9b5fe39da7591a99",
     "b898cdbcb1687b6c04f07b52baeae800",
     "8e042142fddc1adbbd070ae626a056f3",
@@ -16001,7 +15995,13 @@
     "efa57de067b3f3e5f2d01e15a33d7874",
     "db2847f1976ca6ac9c746952f4cebc69",
     "0d06f82a4d09483bc85020ab4ab9f0f2",
-    "09f15ef63d22a5e3cce5101ba15228c2"
+    "09f15ef63d22a5e3cce5101ba15228c2",
+    "8b3b3b058dbd3410c73c7ecc58a7e281",
+    "6c6ffa860dc9797e37c7185ad73cee70",
+    "65b8f45b8a409e83aee6ad583430a490",
+    "3bacef055e62aa61b4c965d3704e2bbb",
+    "25a583573ca5cd9e939b7e26304c6720",
+    "1d0e890faa4487eb281e2a936491a3a7"
   ],
   "transfers": {
     "pages": {
@@ -21324,6 +21324,26 @@
     {
       "t": "1 15th announced chzzk collaboration connect integrated launched launches naver nexon nexonnexon opens page season soop that",
       "ts": 1792122358.228947
+    },
+    {
+      "t": "16 announced apac asia client generation has kwave launched new next nuversenuverse october officially opens ragnarok server that",
+      "ts": 1792122363.165139
+    },
+    {
+      "t": "000 2 400 achieved aion card coexistence concurrent global impressive initial market metrics mixed mmorpg ncsoft ncsoftlooking players rating reach report solely steam strange success undoubtedly yet",
+      "ts": 1792122366.6928606
+    },
+    {
+      "t": "10th 16th 2k anniversary announced console current gen has iii introduced mafia mark marks release steam that update versions",
+      "ts": 1792122370.229961
+    },
+    {
+      "t": "10th 16 adds anniversary announced ascent has its maplestory mmorpg mobile nexonnexon october released skill that update",
+      "ts": 1792122373.7107031
+    },
+    {
+      "t": "containers details fourth game glass has hereafter homes housing installmen its last nakwon nexonnexon paradise revealed shelter shipping survival system through upcoming walled zombie",
+      "ts": 1792122377.219567
     }
   ]
 }
