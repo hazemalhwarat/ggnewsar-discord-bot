@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3WVoxSGlHVWR6RFJ4WFlnTFJWUDJVN3lqVUtlcUFQS09sWmgyVlNJRk5VVnJjNGg1eVpOR2Ytd29KX2UwQ1Y0R29yazZscUF5YXp6aEFrWVczMktBcjlnalVBLTV1M3EyZHZGXzZrYzE2NVBxblRz?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE02dHZKd3o5V205bmcwbU9fdGNqbUdlWXlsWXM0NV9YNlFHUEpfcW5FRWZ6NlBZZjY4bWlzN3FXVmdmNllldlFvYkN5UllybEg5a3hwM3pRYWMtUmowb2t6WV9IVnozeGc4aGVGQw?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZl9uSG9mNURWSEJFc2dMWTFLVTRVMi03WVhxUUVxdk5LZ1hTek40ZVA2aXpyb19pT05EVGt6X1dzaFdtOHJPQkpJUnp2c1UzakplVG9HQWZaMkc3NENJb1o2WDBkOVdVU2VWRU1KMlM3SjRDYTdHb0szN25BcDBYN19kZlBLai1U?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwU0pNZXFnbUV5ek9wUGdWaHRxZGR5WGVHVFlaLXJuVWVkNmR0M19Ib0ZkLTdJMXNrdzdiS0NyTXN5d29XdV8zbUFqNmp2M3BneldzTQ?oc=5",
-    "https://europeangaming.eu/portal/press-releases/2026/09/23/214621/gaming-corps-star-pigs-clusterverse-cluster-slot/",
-    "https://europeangaming.eu/portal/press-releases/2026/09/23/214603/openbet-appoints-nikos-konstakis-as-chief-executive/",
-    "https://europeangaming.eu/portal/press-releases/2026/09/23/214598/greentube-highway-to-bell-stack-collect-slot/",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDNCSF8wU1VJdjNBdElUX3RodDBPbVFPc3BmdXY4cGxlUW5sMDVxRWx1ZVM1MnJVM29rOEVqU2pkbUZ2UVhuMElJbFRwODk4OWhPV2xpRFZFTm9hUF9iclVKNTFJREFJUm1Gc2llc2ctaUkwNjlsMmNfdVRvUjQzU3Zqcnc?oc=5",
     "https://www.talkesport.com/news/asia/what-happened-india-efootball-team-asian-games-2026/",
     "https://www.talkesport.com/news/old-free-fire-download-how-to-download-and-play-free-fire-on-android/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/27297/cdpr-finalizes-worldbuilding-for-first-original-ip-hadar-enters-development",
     "https://www.invenglobal.com/articles/27296/umamusume-pretty-derby-adds-deserted-island-training-scenario",
     "https://www.invenglobal.com/articles/27295/albedo-carta-joins-steam-next-fest-with-playable-demo",
-    "https://www.invenglobal.com/articles/27294/what-are-the-popular-builds-in-last-epoch-season-5-7-top-featured-builds"
+    "https://www.invenglobal.com/articles/27294/what-are-the-popular-builds-in-last-epoch-season-5-7-top-featured-builds",
+    "https://www.invenglobal.com/articles/27293/skywalk-prepares-to-relaunch-welcome-to-my-home",
+    "https://www.invenglobal.com/articles/27292/pubg-mobile-to-hold-pro-esports-finals-in-daejeon-on-oct-1718",
+    "https://www.invenglobal.com/articles/27291/gunfire-reborn-unveils-new-dlc-lunar-melody-on-the-16th",
+    "https://www.invenglobal.com/articles/27290/hunting-ground-density-readjusted-heroic-equipment-pieces-added-as-autumn-check-in-rewards",
+    "https://www.invenglobal.com/articles/27289/pok%C3%A9mon-30th-anniversary-orchestra-sells-out-in-about-4-minutes",
+    "https://www.invenglobal.com/articles/27288/adventure-game-hope-in-the-city-participates-in-steam-next-fest",
+    "https://www.invenglobal.com/articles/27287/grac-delivers-practical-lecture-for-70-game-institute-students"
   ],
   "title_hashes": [
-    "650ec2dd783f00d19294f2083b6ed317",
-    "4a223a4cd694f2d6f4fb16679e0f0b8e",
-    "6f91a78012293798f3a5ca4c6c624793",
-    "132e1ac7f0435fa581e88b2fec78c581",
-    "8d311294e23ef33611397d874833debc",
-    "0cb0f59f7ca2ae04acc8f6f8d62505b1",
-    "390c1b41c1ee57790511d62a07bdb2d8",
     "f2ab5fb218da8b84623f45579aa4ba11",
     "4fc55d8885c7357d08d2ac2b0326cb80",
     "436962e45d452fb120724733447f8fa9",
@@ -16001,7 +15994,14 @@
     "9851e047b8680099455118b2b98d3eb2",
     "9be651d21987cf7ccd1cd2c45975d33f",
     "396511e40514608b9ff19b2f81ad438f",
-    "8642c69c9d8e01c28f22d30e125c50cf"
+    "8642c69c9d8e01c28f22d30e125c50cf",
+    "e6cb9191ef4223704440bd6dc9cc5f7a",
+    "7f02e799e4bf6557d1adb9763bce76aa",
+    "01fdf530dc687d436ce36ee6f30cdd83",
+    "6ef4f7d8ad706bd2d2dbf52e1ff7fcf9",
+    "2deaaad03540c5d3fc2b06faa20e16c4",
+    "b1cf6fac03965130eb49bedc0fbb9c8e",
+    "31d1b8f0dcdf9a64fce44479093cf736"
   ],
   "transfers": {
     "pages": {
@@ -21256,6 +21256,26 @@
     {
       "t": "5 7 about after builds epoch evaluations featured last launch popular research season top two underway various weeks well what",
       "ts": 1792139570.4146452
+    },
+    {
+      "t": "business global has home joint ownership prepares preparing relaunch rights secured service skywalk skywalkskywalk welcome",
+      "ts": 1792139576.527908
+    },
+    {
+      "t": "17 18 arena daejeon domestic esports finals hold inc its kraftonkrafton mobile oct october pro pubg tournament will",
+      "ts": 1792139579.9990017
+    },
+    {
+      "t": "14 across added autumn check density enchant equipment following ground grounds heroic hunting mixed october pieces player reactions readjusted rewards sol update",
+      "ts": 1792139583.4666474
+    },
+    {
+      "t": "000 16th 30th 4 6 about afte all anniversary announced approximately concert hereinafter its korea koreapokémon minutes orchestra out pokémon seats sells sold that",
+      "ts": 1792139586.9115887
+    },
+    {
+      "t": "15 70 administration committee committeeon delivers enrolled game grac held institute lecture october pangyo practical rating special stu students",
+      "ts": 1792139590.417712
     }
   ]
 }
