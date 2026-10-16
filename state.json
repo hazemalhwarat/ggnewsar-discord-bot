@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZZHRVY0hKSW1NR0QwanRtbjc5YjcyVl9LVVJta3BxT0xxbE1WS1Rudjd2NjZidDAtYnlkZ2tybGM3LTZQTzVHQzlYcWtjQ1ZNQ2VjNGpRbkJBSGJmZGt4MWxoMDd1T3Js?oc=5",
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ19RRW40Qy11Yk0wX3ZxRHZaWFpkYlRvVFZIOVU2YVhHejloUlpJdWhDNEVRc0o1N2hIOEQ1Nk9qOUZvNFBTVFNGT1dWQ3hfX1ZNMDkxTGU2UE5yd1pKdjI2R3NYM1lKRUJyZlpDQWpMOUU5eE9FVkZmM04tMERjVktfMlRTbnk3X0c3RS1XeFcxZW4zOGRUbzEtb3ZTZ2lMb2dMYW5BMGxSbE1lLUluTVg2MzktUzNyd1ZhUE5XeXl0WElfYzFCOXgtSS1icXJ4a3M4M3BsbkpBQkk?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU0lLWHZrVnd4SVR3aV9YTGlKWGxiMjdfV1RJRk5ISkVQbGdzX0thTXRKZXBxQVMyQTNGRkI4d2hjSzR1WmhpWko1Ui1sb01veGlJeWpLdGVEcURMSlVRbFNUZ3lYaWMxUzBvcXN1WmNDYUw0NXhBNzVNV2NpQzVreENQMXlLV3RtaW1qZW1IbUtsZkNJNXVXV1Qtc0tocm5UNi1vTnRQYkV6WWo0eVdaRlo2bTQ2RzF5b0h1UTdBbmo4UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZamprTXZUZlp4Z2JkT0NlQVFKaWF0aGlnZjlFaU9lZVNTVFVlN21wTDRkazdBSElqdmhPYlJQUmpjLWJCd1BXSFF0N3VmWlhJRHBVdjZZejJWNUdXdTE2QXhadEdtZw?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNc2l0bmpjT0Voc0w3dGR6Z1BrUGcxa05zYk5JMFlVM3pJQkc1UEZvajEtTGpVWDdCVUR2ZmJ5ZE1NZTR0TGp2alRjX2NySkp2NHJQem5mN0VTVFQzOFBhQVYwZy1mNXRTdFRGYUcyVFlTYWUzb1p6SjdVQkE2dHlSQkRfblpVV2cwWlRZNHJrdTA5a1FlUjNpZExuUGNsUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTJWZVJlTE9LMVNJNHl1WXNmLXlfelZRek5OVTh3T1h1TFFPbm9iZW5Xa2dZaXQ3cmZWd0JyVVpiaGx3TlFna1BQejcwWk54cVY1ZXFxZzRoYkEzbHVVVzZyLXRmM3ZEMk1sX0Jqb05hckpPR3R3aUxxTUhDTk85b0ZlVlpsTGFtNm9wTVdkaHR4YzhLaHBTQzJn0gFaQVVfeXFMT0s3T3dfMzRDTFQ0WjcwOEF5RmxWZlV4b3RmVVdkcHFiRkpwUDhwcXBXdklBNFAtYXlKQVVnN0l4bl80UktZRGFSZi1CRDB3V29UdE9aTnZrb193?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRU9WQU9EZlE3U3lKSDRoNHBhX0ZQajlyaDlTYnowMDA0Ukc1cTh0Rzc3YVVNbHFwV1Y3Y0dWU3lnbXAxNEpxV00xa0x6dGdRLTIyY1NTenFIbU9TSFhHT2pCU3BuazVoMzZOeTFOTGpueGxVWUxvWUFSZFoxdzg1X0FmYUVSQlY3VmdQTHpOTW9TMGxfQ0N6alJQR195blnSAVpBVV95cUxPVThaS1lTN05IY1E1NGtabGFTTmt2eGtZMjRYSl95eUlfSXRSLW12TjR4UVhsaE15eENQV0VfcS0tVm5GQXA0VnRTNm03RjEzNnlHMEZ0YkRYZXc?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaE5oSWdTUno3bjNzUWJCVTZ3a293REloeVB6MGZVNlB1LUFMU2FEMGJQUXFZbUtyUTBGRUtWQUJmLTdhVUJMYUhzeXpxeE9wQVAtYXk3QkZQak4tbzFCWmRXanJPVU16WmJiN3dteHVwZkdlbi10ZUk4emVJbGVZNzJfQTBJWVA0bFZIOXEzZFdOVEI4b3Z5cGo0ZlI?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GVmdSQzZWTlNYVmpEZWZDalBhb1FJNncydEYybTNKeF9nTU9zM1JQVzNfRG9yZWluUldYOW14cThtTDZRcEVtTFI1ejd5RWY3NnJmdjVVeGotU0psRG5lcHZyQk44NWpyMEhtY1l0TXRwRm5YZzRkNlVpTQ?oc=5",
     "https://news.google.com/rss/articles/CBMiMEFVX3lxTE1Xci1wUW1TeEhLZW5sMWVRZHZiQklYdldJVVdYMW5GcmF2a0N3S19DMQ?oc=5",
@@ -7999,15 +7992,16 @@
     "https://www.invenglobal.com/articles/27258/nightmare-the-lunatic-launches-on-ps5-on-october-16",
     "https://www.invenglobal.com/articles/27259/smilegate-orange-planet-selects-12-startup-teams-for-h2",
     "https://www.invenglobal.com/articles/27257/wargaming-hosts-halloween-events-across-tank-and-warship-games-starting-oct-15",
-    "https://www.invenglobal.com/articles/27256/naver-chzzk-to-live-broadcast-worlds-2026"
+    "https://www.invenglobal.com/articles/27256/naver-chzzk-to-live-broadcast-worlds-2026",
+    "https://www.invenglobal.com/articles/27252/riot-games-and-louis-vuitton-publish-kda-travel-book-tempo-point",
+    "https://insider-gaming.com/kcorp-beat-cloud9-lol-worlds-2026/",
+    "https://gameriv.com/former-overwatch-director-jeff-kaplan-says-he-avoids-overwatch-content-for-his-mental-health/",
+    "https://gameriv.com/marvel-rivals-cracks-down-on-unfair-mods-and-toughens-chat-penalties/",
+    "https://gameriv.com/battlefield-6-reverts-season-5-xp-slowdown-as-players-report-double-xp-boost/",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV003VU1lRU0zNHE0NXpiTWhlNVpvZjBtckNBRlZIQWllVGtkSWdDOG03NVNVeFRNMk53RUJNbzJVNUswXzZqc3J3YzVCNHVPN2RIaWhfVmljdzhSaVNISGNndTFQXzBRVGh1OGtKVXlDSGxmYWk4OVFzTVNrU3dqeF9UWkM1VVd6?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/mvk-kratos-worlds-2026-interview"
   ],
   "title_hashes": [
-    "77a8d68c4dc74c92278e04761793c272",
-    "afb21e983cf182057f0df77fd1c52bab",
-    "4576ba5b36ec26c692f71f2dd0cb3d8c",
-    "c45d7776cc5e976897c91cab7cb0fd07",
-    "3c3956d80aa30965aef059572f1cef5a",
-    "15ebb63dca06315dbdddbbdb55b58353",
     "9f8166d0a49cd203c3c733065a97f1a0",
     "69d451d330e358707f0a3a481499eb67",
     "4215200eaee1fab8def0a56dc532f388",
@@ -16001,7 +15995,13 @@
     "016e0db6e0f458ecd77ab780eb0e57f1",
     "3198bfde1980f079af8530a3ec0b19a8",
     "0b3d8d11b9d1f1bc006d5174ca91f125",
-    "d139b575476818492768d47543377e2b"
+    "d139b575476818492768d47543377e2b",
+    "25e4b18a4e8fc13f970eb55ef6a8c045",
+    "35a1843c7be9fd83f3397098ad58890a",
+    "66c5212c304ee11d9fd54b51d7a2b219",
+    "3bee86d3ed35a2924a4570b8ee0f7445",
+    "e2a9b60010c037bf0f0610c50ad3a9ab",
+    "42bd25496f001b7befcdf2e71ee6151d"
   ],
   "transfers": {
     "pages": {
@@ -21364,6 +21364,26 @@
     {
       "t": "15 16 2026 broadcast championship chzzk held hereinafter league legends live lol naver navernaver november october platform states streaming united will world worlds",
       "ts": 1792122396.7285464
+    },
+    {
+      "t": "2026 battle beating blood cloud9 corp draw earn first five game intense karmine kcorp lec lol post pride regional series survived worlds",
+      "ts": 1792122401.8026817
+    },
+    {
+      "t": "2021 april avoids away community completely content create deliberately director discussions former game has hasn health helped his jeff kaplan mental overwatch played says since stepped videos",
+      "ts": 1792122405.2821174
+    },
+    {
+      "t": "accounts advantage another chance chat competitive confirmed cracking cracks developers down give giving issued marvel mods over penalties players recently rivals some suspended suspensions that toughens unfair while",
+      "ts": 1792122408.7864187
+    },
+    {
+      "t": "5 6 about after angry back backend battlefield behind boost but changes comms concerns double has issue players progression raised report reverts rolled says season slowdown unintended",
+      "ts": 1792122412.2373674
+    },
+    {
+      "t": "below coming considered esports finding furia into kratos lcp many mvk one other powered representatives reveals see sweep team that thing tier two unexpected winners wins worlds would wrote",
+      "ts": 1792122415.6705043
     }
   ]
 }
