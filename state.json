@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/todays-wordle-1923-hints-answer-september-24-2026/",
-    "https://esportsinsider.com/2026/09/fortnite-mobile-controllers-gamesir",
     "https://gameriv.com/arc-raiders-frozen-trail-update-adds-pendola-pass-frigate-new-arc-enemies-and-weapons/",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzlkWUZnZzZhNzlrYk1FdnBCaEJmdVRQQW81bk9WVHFvSlJqZlAyTnFmb0RXZUV1QWNpdmE3dTdTTk00bDM5R1NFSGRhanJpNlVGMnhBZnN1bDBYY3VoaF9RWk8zZi13eGg4Qkc3MnRpVG5nbkxjbHFpYUJiUlZITm9zaEI?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcThGNWJRRGtuZTBJNjZCaVQwempsVXd5aWNrNzRkYnp3ZzhKNVdMa1lERTdqbXh0VG9HUmd6N2JKcGVrWVJfME1TdUwwdXJremstNjlROFpzQjhQNGQ4Z2xLSGs1RVVPNks0X3lGNVB6aldncXZSQi1MQ2xXZTVSdV9sT2FUWC1VQm0tclZUaw?oc=5",
@@ -7999,11 +7997,11 @@
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMkJwb0FqMDlZQk5MTzhRdjA0eFFvU04yZDFiSFE2aThUSHhXZzl2RVY5Z2JOM19vU3Fnb0pzeUp0SktJNUV1WnNaVU5IQ3dha1JiaWt1djFYU19ZdXQxZVFaVkFaRmYzWF9KU2xGV0g5dTRxeHdYcXdxNkQzRWN6MVpZVkhRSzJrTmttaHRDU0FyWWtlWkdV?oc=5",
     "https://pley.gg/datdrop-review/",
     "https://pley.gg/valorant/valorant-champions-2026-bundle-raises-over-50-million-for-vct-teams/",
-    "https://pley.gg/cs2/kzy-banned-for-life-as-esic-punish-nomercy-players-for-match-fixing/"
+    "https://pley.gg/cs2/kzy-banned-for-life-as-esic-punish-nomercy-players-for-match-fixing/",
+    "https://pley.gg/cs2/zonic-would-rather-see-astralis-alive-as-new-lineup-faces-mibr-in-stockholm-playoffs/",
+    "https://pley.gg/cs2/parivision-coach-dastan-on-his-softer-approach-better-to-be-nice-when-youre-winning/"
   ],
   "title_hashes": [
-    "02ab742de735e29e2467fe0935ee9262",
-    "3bc692d5c331b6a54ca100b843a8d374",
     "850d1d695ede7a8ff8904a779f7082ca",
     "4d5ad361b536dd0b13d6dc592aa444d8",
     "fa0f3dd3e3116635b355ba1d152c0fca",
@@ -16001,7 +15999,9 @@
     "3a57be6457be5999ab42dc5c77327262",
     "e8d5c3bc126f4306e0fa68cb1074f058",
     "a4e78e681553f3428951d3effa3aa369",
-    "72d431aa39f2481e9de841ac353b5aa3"
+    "72d431aa39f2481e9de841ac353b5aa3",
+    "1946f9d2d9465624a2d21280d03561b1",
+    "e4a5ac7d1212d3b05c6f5c503ca9b745"
   ],
   "transfers": {
     "pages": {
@@ -21208,6 +21208,14 @@
     {
       "t": "banned esic kzy life match nomercy players punish",
       "ts": 1792157775.9527326
+    },
+    {
+      "t": "alive astralis faces lineup mibr new playoffs rather see stockholm would zonic",
+      "ts": 1792157781.1523242
+    },
+    {
+      "t": "approach coach dastan his parivision softer",
+      "ts": 1792157784.7346663
     }
   ]
 }
