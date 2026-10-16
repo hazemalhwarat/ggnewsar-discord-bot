@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/valorant/news/valorant-champions-drops",
-    "https://www.hotspawn.com/valorant/news/best-teams-valorant-champions-shanghai",
-    "https://www.hotspawn.com/dota2/news/topson-returns-to-og-esports-for-new-dota-season",
-    "https://www.hotspawn.com/other/news/thunderpick-2026-esports-awards",
-    "https://www.hotspawn.com/counter-strike/news/best-cs2-players",
     "https://esportswales.org/world-esports-championships-indonesia-2026/?utm_source=rss&utm_medium=rss&utm_campaign=world-esports-championships-indonesia-2026",
     "https://www.nerfplz.com/2026/12/crowd-control-explained-10-rules-of.html",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxObG9ob3h1X1h4NFFBTTlQWXhMZ0FTY2c5bVd2ZFJJRTVfSFphZjFDNDlQMVU5d1Brc211M3NKVkI1a05CZlZ1MDhVeE1UNnZKMG81ZnYyUjUyVmhLMGhPdWV5VTB4Skh3azhHX1JHQ0wzVWdiU0hROXFvSmhUVzRjSkpiVlpJcllXaUl4UzBJVFc?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27304/square-enix-cafe-shop-los-angeles-launches-final-fantasy-vii-themed-menu",
     "https://www.invenglobal.com/articles/27303/pubg-physical-card-game-pubg-final-circle-teases-kickstarter-campaign",
     "https://www.hltv.org/news/45736/aurora-beat-9z-to-secure-third-consecutive-top-four-appearance",
-    "https://www.hltv.org/news/45735/esic-imposes-lifetime-ban-on-playn"
+    "https://www.hltv.org/news/45735/esic-imposes-lifetime-ban-on-playn",
+    "https://insider-gaming.com/gears-of-war-e-day-concepts/",
+    "https://insider-gaming.com/steam-achievements-overhaul-now-available-in-beta/",
+    "https://insider-gaming.com/street-fighter-reviews-kod-by-mortal-kombat-2-in-movie-battle/",
+    "https://insider-gaming.com/blood-of-dawnwalker-update-1-1-details-revealed/",
+    "https://www.vlr.gg/774395/100-thieves-rob-g2-of-champions-shanghai-dreams"
   ],
   "title_hashes": [
-    "ee53584f6af101e64e0f8de0af529a7a",
-    "abc2732bcdaa4987d8a841f66f1282e0",
-    "f12b66920835476b8af35641feacdfde",
-    "ad689ae56693e9e6aa903842755d8965",
-    "d18479a7b34152619fc91c0964e1ba33",
     "720e83770b7c785a82af08b441db6a06",
     "39a9bb5168a15b93d119fa5b78d7ca39",
     "3ab1eb64a402107a7b0711addf045b2a",
@@ -16001,7 +15996,12 @@
     "de76c12ac798620c75aea92167df396e",
     "5d23a63e922543a745dd5dfe6fb25f2e",
     "0cc53a72ab97c63a87a67018f79b977c",
-    "c69f57620993151ee31bf613550366fa"
+    "c69f57620993151ee31bf613550366fa",
+    "e1c03dbace39519595c274ee363de253",
+    "d623fec8fc073de7aac10d1b7732c323",
+    "f4ba4aefc8740cfb5ba5400b8ad3f847",
+    "2f5f7d59c06444dc35d3030614c0103e",
+    "1d3732bad82622e8d165453d8a8c08c4"
   ],
   "transfers": {
     "pages": {
@@ -21188,6 +21188,26 @@
     {
       "t": "ban earlier esic have imposed imposes initial lifetime playn revised that this three week year",
       "ts": 1792172623.7448606
+    },
+    {
+      "t": "appeared art characters concept day earlier early first gaming gears has insidder insider iterations main post shows some uncovered war",
+      "ts": 1792172629.2465103
+    },
+    {
+      "t": "achievements appeared arrived available beta first gami has how insider new now overhaul overhauling platform post sets steam system work",
+      "ts": 1792172632.8335004
+    },
+    {
+      "t": "2 2026 8217 appeared battle fight fighter firs hand has high its kombat mortal movie over post raised reviews street supremacy",
+      "ts": 1792172636.3706386
+    },
+    {
+      "t": "1 appeared blood changes dawnwalker details features first have improvements listing new post revealed their upcoming update",
+      "ts": 1792172639.9743466
+    },
+    {
+      "t": "100 against champions down dreams final g2 lower match rob setting shanghai take team thieves vitality",
+      "ts": 1792172643.5647838
     }
   ]
 }
