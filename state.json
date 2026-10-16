@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDNCSF8wU1VJdjNBdElUX3RodDBPbVFPc3BmdXY4cGxlUW5sMDVxRWx1ZVM1MnJVM29rOEVqU2pkbUZ2UVhuMElJbFRwODk4OWhPV2xpRFZFTm9hUF9iclVKNTFJREFJUm1Gc2llc2ctaUkwNjlsMmNfdVRvUjQzU3Zqcnc?oc=5",
-    "https://www.talkesport.com/news/asia/what-happened-india-efootball-team-asian-games-2026/",
-    "https://www.talkesport.com/news/old-free-fire-download-how-to-download-and-play-free-fire-on-android/",
-    "https://www.talkesport.com/news/riot-scraps-lec-versus-2027-tier-2-teams/",
-    "https://www.talkesport.com/editorials/spower-at-pmwc-2026-how-godlikes-bgmi-star-topped-the-elimination-charts/",
-    "https://www.talkesport.com/news/emberville-600k-wishlists-steam-next-fest-demo-early-access/",
     "https://www.talkesport.com/news/bgmi-apk-download-how-to-download-and-install-latest-bgmi-apk-on-android/",
     "https://www.talkesport.com/mobile-gaming/bgmi-redeem-codes-september-23-golden-miramar-pan/",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QNTFDbjMweVNMU2JYVEhtR3NnSjZHM2V6OTZSdG1ZeUl4NDZXS0F4X0FjRGdKWG4xd0FPemZNRkFqa0hWWmtPZmJSelFCMUlZcGhF?oc=5",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/27290/hunting-ground-density-readjusted-heroic-equipment-pieces-added-as-autumn-check-in-rewards",
     "https://www.invenglobal.com/articles/27289/pok%C3%A9mon-30th-anniversary-orchestra-sells-out-in-about-4-minutes",
     "https://www.invenglobal.com/articles/27288/adventure-game-hope-in-the-city-participates-in-steam-next-fest",
-    "https://www.invenglobal.com/articles/27287/grac-delivers-practical-lecture-for-70-game-institute-students"
+    "https://www.invenglobal.com/articles/27287/grac-delivers-practical-lecture-for-70-game-institute-students",
+    "https://www.invenglobal.com/articles/27286/another-ragnarok-title-arrives-idle-rpg-ragnarok-go-begins-pre-registration-in-southeast-asia",
+    "https://www.invenglobal.com/articles/27285/line-games-releases-steam-demo-for-roguelike-survival-title-amazing-slot-survivor",
+    "https://www.invenglobal.com/articles/27284/crusader-kings-iii-releases-new-ps5-expansion-khans-of-the-steppe",
+    "https://www.invenglobal.com/articles/27283/smilegate-stove-officially-launches-luv-place",
+    "https://www.invenglobal.com/articles/27282/riot-games-to-hold-lol-music-worlds-pop-up-in-jamsil-and-seongsu-starting-oct-23",
+    "https://www.invenglobal.com/articles/27281/come-to-my-party-releases-demo-20-on-steam"
   ],
   "title_hashes": [
-    "f2ab5fb218da8b84623f45579aa4ba11",
-    "4fc55d8885c7357d08d2ac2b0326cb80",
-    "436962e45d452fb120724733447f8fa9",
-    "11b5e8c5e5b7d0f361d5bd9f9e539890",
-    "6eac988e1bdcdc04f7cb9d1c342fa386",
-    "3746e523ea06b46290acabdde3204772",
     "a5325ab54eefb66b28b94b88b6883abd",
     "700308761620dc909a3d70617ac0e0b7",
     "fc602ffc4ec6768aeda7bdab0c601090",
@@ -16001,7 +15995,13 @@
     "6ef4f7d8ad706bd2d2dbf52e1ff7fcf9",
     "2deaaad03540c5d3fc2b06faa20e16c4",
     "b1cf6fac03965130eb49bedc0fbb9c8e",
-    "31d1b8f0dcdf9a64fce44479093cf736"
+    "31d1b8f0dcdf9a64fce44479093cf736",
+    "7765b9f11ab0fd99fbb95cafc9c86df0",
+    "b849f36c8bd0f9184a2adffd93248813",
+    "14791098e7464bc76b474a80767d513d",
+    "63289545dbf2c8d990e22ed2823f8c09",
+    "f0ad3dfb0c2493edeb53d3039b0704c4",
+    "3fd7a6f2290bef4910169e647c2d4822"
   ],
   "transfers": {
     "pages": {
@@ -21276,6 +21276,26 @@
     {
       "t": "15 70 administration committee committeeon delivers enrolled game grac held institute lecture october pangyo practical rating special stu students",
       "ts": 1792139590.417712
+    },
+    {
+      "t": "16 another arrives asia asian begins branch game ggv gravity gravitygravity hong idle its kong october opened pixel pre ragnarok region registration retro rpg southeast title vision",
+      "ts": 1792139595.3495505
+    },
+    {
+      "t": "16th amazing corporation demo developed games gameson its line new released releases roguelike set slot steam survival survivor title twomengames",
+      "ts": 1792139598.800998
+    },
+    {
+      "t": "16th announced gaming global has launched launches luv officially place platform smilegate smilegatesmilegate stove that",
+      "ts": 1792139602.321416
+    },
+    {
+      "t": "23 around esports games gamesriot hold jamsil league legends lol music oct octob october offline pop riot seongsu sequentially starting themed will worlds",
+      "ts": 1792139605.9685967
+    },
+    {
+      "t": "0 16th 2 come demo games gamesline its line new party released releases steam title",
+      "ts": 1792139609.464523
     }
   ]
 }
