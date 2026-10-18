@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOanJaTnUyQzhuOEcwYzQzSDlQSTBYRUZzYlg2Mm1BMFRnU2VjYm9OcDUwa1dfVkRTbXlQbHRKMDZ2bjdmMGQ3NTdwaGlYY1dYV3Q4V1NtbHFPZFNqR3hFeG1md0h0NWZud2pQZkpwazZkMTBnVWJZN0kyUXNYMWdMSHktZThGSkdFZE1J?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHdlQWxHeXQzQnduX1RPWmtfV1BNNUtTMEtOQ253MTA2OUdXd09oM3R1QjRWdlVubUFiY1BzMGg4U0ZndC1ZNWZDcWk2azU4cEpIYU5UaUM4bWtnSnl3UE95dFlzdUR1V0xjY1cyQWZtSGRpUmhyOENNUF9nUUpobU80ZVc?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xcjB0MXdXMGNpRlhpeWMzSE9pOFczWTFZZUN4djFjTUliTV85UjhJQ1Zza2ExelRieG1Qcmx2TTlsRFVVRm9MLThLRzNBY2ZQcmNVMGVTa09VVGpTbG1yOFlMZjFaZUJfeGhCQVlsVmI0aWFiZS11UndR?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYl9IekRaZEZiWUE4dUpBN0l3dkVnSm8tSjR0cmltaFBUbW9idGJjcTYyOWtvbzFJMkRQVTVuaS1YOFNBaDZTS2IyTC0zMV8tZGFJZmlSX196b0wtVW9Edm1qRHBCUTVWOElsR0NWcnR0Q0tsT2lTUm13V0hyRHVCUnJ5QVhhTThObmM4?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNSUZSbzhzZlFjQmxKcmR0b0l2aGhUWTVGVG02TlpYMzN1NjJwWXJoc25NWmhyTW9BanQzNUpBNEFJY3AwSThRLTZ0eHRDTFBoRHRxdVFreUc1TGU0UTdCeEtQdUZJSVRJTmtNRjRnSUFJenU2TDV4SHh2ZzA?oc=5",
-    "https://news.google.com/rss/articles/CBMiREFVX3lxTE1wRXljdXBBLXdVSkJMQkx6RkkxUWN0YmZYM1pCYXNRb2tvTmc2bU85NjhhcEJrOG9TT09GM3hfT3hCcEh2?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxR3R3bk5VYkFnOExZa0lqN29QNDN4ZDlwYWxKX1dYNjZIOGh1dG1FSE5jUTY1bmJDQ0g5cXVEcUlYQmtiS0s1Rkk0TEFiaXgxSGFOTzVBY3ZlSmwzYkFPZ1Jn?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pQ2c3c2xTSG9IOWFWdEVhOWc0Vk0wWGk3M1M4U2VzMVprVldScFptMFUtOXpjSF9KRU44dzUxMnFaODZWN2RoTUR0bGtMUks3cDdiZnBfZmo4YktSb210bVlCWk5YN3NnZ0praUhB?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wN2I1UnZUVG9PNWhsZEV3V3A0Q1hYbF9YcnlVM0dzVFlEV1ZRYkMyaG5Ta3VqeEhPdk4wM0Y5UUJrT3BvcExNM2V3eHlTMXBacnM0WEp6ZUlMR1V3Nm1qRHV6TnYySFp5blFB?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BMjN0b0NQLWVCa2NxSkE5aWZfREFmanVUcG04RDZ3Wm9PRFozenpvdlRoT1FHemZPWVYzOUJ2NGtIV0RGWFQyVFY1dHJCYjRDUG5ESnc4ck1RX0Q1T0I5Z0U0ZUVhU3J5ZVpqb1J3?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LZ05VdlQ1Y2dyZGdkYXdxdEgtNi0ybUg5OU92MmZBdlJXdVZCNVF3T3RIaW02ZHo2ampkcklFQXJTdm4xZFg1aU1icjJxeEFnbElDSk9Samk0a1k3R2lEaWtjTmxkbm5iZDUxajZXTkxZVG1nQ2JN?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3NWX3FDLVk4OXFkRVlKcV9hdUxvbVVZQ0JuYzY3aVdmTGx4SHFFWWd6RlJ4V1FTWUhnYVdIdWloc2VlUkJOSzRyeDNRdFVVZUlUOGVYNGhXeGhuYVRfcmFBZDJNRWFhdWxvdC1iTWRQTWlUbFlsODZFQ1hFX3RIU0g0OEJDTXFRbWxJTTVzUHZwN180aVJma0RUTmZib084a2I2SE51WVAwYlBIeXI5TWhRNA?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yWE1ob1Z6ZDBFLV96STdoNkd0N29iZzN6c0l2NHY5Um1KdUN6U3RRNXhHZV9pTTBFTmctd2JBLXU5QnNvV2NnTHdSVGlWOU9hdFJ2akFONE5OLVlKbTNZ?oc=5",
@@ -7999,19 +7989,19 @@
     "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB6dE5RUlNrU0Y0Qlh5YndyTGx1WmpFSjVsbkxBamNTaG1uVWl6ZzJzTU1pWDlHS0N6a2NaNDdjUUl4UWpFaGo0?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnczSloxSnNWYmpPYzFrXzQtNWx1aFZTOURwSkVTOEQ0eEtzLU5hLXNsTjEzMEN6N1Vqdld6Y0c2dGhGRng0bzg1M182b19IVUw3REs3WHFuU3NQTi1TZ1l2TnBlbk9GYzVPanpzVFMzY3I5Z28tYVZWR19ndkcwYlFzSjg4eGxRck1qbnVXMk5BR2lRbzFueWR4WlpKdkdWNHpzOWNCSTNoUVpsTEFQakg2MTFvTmg4X2EzUHRSTTdMaVE3Mlc5dTN3?oc=5",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeE43ZXhPT2pQbDZGcGFPNE1USDY1OHI5UWZtRzh3cjhfZHFfa2lFenE3MkE0b2x3WEVLaTR0eHBMRzB0ZkpfREppTEFnR1Zjd1Q1Y2ZjenRaME5taXhVZng3MEVhYlB1ME1IWklRMzd5YWxvcUFFeDJnNWI3OVhpSW1SeVI5QWpvemtyUi0zUVV1Ykkyc1FLY3UwS2NzTlVzNVVHMWdrZzFZM0dsREItemFSTFBnTmlTTVpBZ2N3aTFySTBxR29EaWlUejN3M0pVaDEtOQ?oc=5",
-    "https://pley.gg/cs2/betboom-make-it-two-in-a-row-against-falcons-eliminating-them-from-malta/"
+    "https://pley.gg/cs2/betboom-make-it-two-in-a-row-against-falcons-eliminating-them-from-malta/",
+    "https://pley.gg/cs2/vitalitys-paris-hub-vandalized-with-trophies-and-gear-looted/",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQdjNlaGtrS0dCQzAwU05wXzN3OVVrcXE2NldRVGg5dWZXbGxKbTRIbGVHUXA3bUE3MVVTb29LWVFGQy1KeE1hS1BxNzk5NVFYTXAxdDRfdGJFbkdleC1ISUMya1RsRTlSWmNMdzFtQjd3eTFRQTBkQmlDSF92dGJlNHMwa192Slhpa0NxOVRQcVFMc2dhVXVFbkpZMzZCZw?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2EwU0lFXzZPNEZPVi0tQlBrM2VoNmtCZU5IdHFKNWxZdnlWVlVMY0Nia1NvNGNiZUdTblVyTG1XTERRR2tWUmVueDdXV3B6ZDA1NlRVZGZlXzVtOEdQQUxMd2ZKbDU0Zm9RRGhZMXZESVptaWhCVG1rS1hGSlZLaDVIRkZ4cHhwd0xtNGZuRE5xWWs2akpOdFVIRHpVZlZSaW9KZkhB?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb1d4ay1QaTQ5LW4tNEZEb04xcXI1RlowMGZYczhndEFVR1hwVXNmZ1FxRk84VVRfbVQzMXBkMWhlNmhVZFhrVWlKRnRQeWhTclU0WEwxeF9Kbzdwck5uUUxEREp6NnktRHZrY0p5Mlc4VEtoZmxTQzBjeF85UFNsdXRyTEd6SEdfWjlYVUV3QmZZQWl6?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzF5ZHp6MDU4TlpwU3A0Y28xS1JhRkxGdkEtZmwyVVpKZU9MTmVKS1VoOVM5QlhoTnZYbjBxcGxDNDJqRWN1QjlTWlZQN2puTnpCY2dkbDVlcHR6YnNaNy1CTDhuV1laZGhEVjNOU2NtSGVIVDdrUWUtSWdocVBMVGstWjI?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPVTk4SHNZWEhqZ0QzMm1tM0YtWVlEVEQ0cW1VNXRjTnBFbm9sREU1RlBsaHQ0THRvWkt4VDhsaTlQckVfYjBaVml4N2E5TXlFQ0JTck83ZjhPaHBXLWlEeXlqOC1tRHJ4QUtRQVNSb2d0NlpjLUhsb3lGZjRRMG1UVng5ZURuNUV2ekxZNWp4ZmNVcWpRV00tQUFLNWxjQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWR4eHFpYW9lMlVmakhQMEZaVFJUUVdhRlhXb0V0bDR2UmNRMG90R1RZMnUwMWpHclhiX2lxOXl1XzhGZmV2QUVlZ01SZm9IUWFiUlVXZ3M2SnNSd0hUT29ZWkljcFFDLVNleGtwYjlZTDRma1pncDdsOU1ZaTVVRjZiU3FsZkFBR3c?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGR2YkdVY3JMZVlUOTlrNXktNGhSMUx0enVhbUthQU53b0dxM2N4MU05Y1dVTXlBa0pIVk5zeGJMRkMtM2hORENfOVZwa0U5TmRDS2x5Vzd0eGV2dkdjZDRMS2pVdmJGbUU4Y3A5QTdDTjZON1JjdGo5eS1zLVhzbWNfX1FCZWQ3T3hoTg?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WMEEwWC1MRGstNFNtOVFyOUhBODIxQWVYTzdmZk5nQjVMM3BrSi0zbWdHZ003UWpyRHFQRGVpZ1hfT2VQRTAwSzd2Mm1XOWVXY3lndlVzbWNLdU9sZlN0NDVrYnl0QUZ6MlE?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeW0zSDRhWGlTRVJoQUpmSVkwZmxUNUs1YzhFTHh0VXNXMDFWRVVtOU5ZWnRsX2l5MXFHSXVNUV9VT2NwTHFRRGEzOXdObUZXTG1jR2NSZE85TmRQdHFvV3JBRU9MRWtDVFdfeXNTcVZvSTZaQ2tsMkZaTkF0XzRsVEhzZ2VZX2hvZ0NxVW5vdDNZNjFrTEZ2ZHlxR3djMWNtQU50UWEtQkwxeVVYVm8zc2pnZVVVVEk?oc=5"
   ],
   "title_hashes": [
-    "a1c70336bf0fd11087442a7a506fd66a",
-    "3b5ebb4366afded21001ef65a1bfcb3a",
-    "ed6abe9821687ce5c3ad61ce0faac1a5",
-    "9bcfb1287ce119a995eb89ea332b2244",
-    "a4653fed6f238c7976bf49e5d9518a31",
-    "aa6b11d6cdbf5cd94322eedde39999ff",
-    "91ca9a02166dd430b5219b9d43c1bdaa",
-    "98a3e69f8b3b39e6e63bd473e2a971a8",
-    "7c08de7a20cd3a05d072015365bf7d20",
-    "198d1ce8acef34b62c4d36e895b18a6a",
     "bf5dbb170616471fc9cbb38f500b0add",
     "aa1d6fbabf4e3052828bcef189c32064",
     "c5e3287d955bb4316b0e9a16047eaa31",
@@ -16001,7 +15991,17 @@
     "cd00d50d0eac02a1e188013d0c828fd2",
     "4855e665012e56a1fa051d897b44efa4",
     "3d3d05f4809a7f8b331f8df78183229e",
-    "7a87eb89a934b48fb5138f992809bd61"
+    "7a87eb89a934b48fb5138f992809bd61",
+    "60a9dfa362f71ae0970bad630f2ad9c5",
+    "9b1fef8c93b51b2465a97c08d9839384",
+    "cc97251cca4aa2de7538430a5d082695",
+    "370409f3afd0f8a31fa575a8eacd6bed",
+    "b28f99b40aad5082a541c5a2ee5c0767",
+    "0f4c59ebf2072afc1e9839af3972b5c6",
+    "cb8f6d860c272c093f107c21cb26ddde",
+    "0f7e33cdecee80efa60ac72e59443c83",
+    "ddc3e6d0866145e56d2599aa29f13745",
+    "51c7de50e0d7f099035baae8443a68f4"
   ],
   "transfers": {
     "pages": {
@@ -20848,6 +20848,10 @@
     {
       "t": "against betboom eliminating falcons make malta row them two",
       "ts": 1792330525.2808537
+    },
+    {
+      "t": "assessment cybercafe damage full gear hub looted paris pending trophies vandalized vitality",
+      "ts": 1792330530.1428628
     }
   ]
 }
