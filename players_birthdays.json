@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T13:19:02.148469+03:00",
-  "count": 651,
+  "generated_at": "2026-10-18T11:25:03.588095+03:00",
+  "count": 655,
   "players": [
     {
       "name": "Ninjas",
@@ -4753,6 +4753,16 @@
       "url": "https://liquipedia.net/mobilelegends/Super"
     },
     {
+      "name": "Super Rival",
+      "wiki": "mobilelegends",
+      "game": "Mobile Legends",
+      "country": "المغرب",
+      "year": 2002,
+      "month": 10,
+      "day": 20,
+      "url": "https://liquipedia.net/mobilelegends/Super Rival"
+    },
+    {
       "name": "3More",
       "wiki": "pubgmobile",
       "game": "PUBG Mobile",
@@ -5001,6 +5011,16 @@
       "month": 7,
       "day": 31,
       "url": "https://liquipedia.net/pubgmobile/SKTON"
+    },
+    {
+      "name": "SUL6N",
+      "wiki": "pubgmobile",
+      "game": "PUBG Mobile",
+      "country": "السعودية",
+      "year": 2009,
+      "month": 12,
+      "day": 24,
+      "url": "https://liquipedia.net/pubgmobile/SUL6N"
     },
     {
       "name": "Vigors",
@@ -6501,6 +6521,26 @@
       "month": 3,
       "day": 11,
       "url": "https://liquipedia.net/fighters/Tekken Master"
+    },
+    {
+      "name": "Ysf-B",
+      "wiki": "fighters",
+      "game": "Fighting Games",
+      "country": "البحرين",
+      "year": 1990,
+      "month": 11,
+      "day": 2,
+      "url": "https://liquipedia.net/fighters/Ysf-B"
+    },
+    {
+      "name": "Darksword",
+      "wiki": "fighters",
+      "game": "Fighting Games",
+      "country": "المغرب",
+      "year": 1986,
+      "month": 4,
+      "day": 4,
+      "url": "https://liquipedia.net/fighters/Darksword"
     },
     {
       "name": "ILIAS",
