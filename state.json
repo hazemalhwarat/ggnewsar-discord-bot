@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPamlFYlN1dlcxRHhjMDZfX3NRVFJXZG4xVDZ4aEgwXzFVR0s1X3ZwcHZ1SUszVWsxdEk0YmtCUDhpclB5N2tsMjlZOWxQbHMtWW5TQ3ZoM0dpYUM0Y2FBQk0wdUdBWk9nUXlsTC1JN29qaDllN2Q5Q0JBa1FWTHlfX3R6TldRbTY2c1R1cnQzd2tnYTRZRHc?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUJUb3Y2YlNEY3ROTVg4Q2xDc05tX2JKa3B1Umk4RHhTTVJ2QnBpYmk2QmZxSXVKM2ZSZ2E5SUxjcGRUWWx5RzdYTGRyRGxxcWp4eDlCLVdXUmFmaXRkSHdHNVhkYUZOOXozU0U2OTRZUk9haTBfVXYxVUFqSFliZEpwcDFGZTduUmRiQTNxWXpEMGVvVjJUVnhJNERycjZOa0xGMGMwUTNLUWdmQVRRZlhKeU52bGl3dG1CN0h1bENuWVJV?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUE0Wk5jTmMyVGVKZVZfQThVaGtIME9ldXdWYWstT1FseG9ZV1Ywek0wNFNjem5QZDFrbGtpeGJFZVVjVk9BdzR1NU5qZUprWTRvU05uakhHM29TaUVpaEN5dGpaR3ptVGxubzB5NzFlWWZ3QWVNUXVmNWMtU3l1c1ZhZzFxblZuYTJvMlRyRmM4d0QxWkJTdA?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUG4zTEU3ZXBPZFN5TldlbmoxaU81NTBITWFmX0JPRHFjUmllV0U4aXo2RDVTdkZKR2Zab0UzbE4tSlBQSUpGVHUxNWNZcFM1a0VBZDY3NnJybzh0TjFsYjgwVG5hUFZ0R0JWNjhEb1lJcjVNNFExREVnaEtmNUowdDBKRGJoTmxJd0VxVC1XY2Y2WVE0NXBKUzdNRFc1WUY3UndPbWdLdGtqcGxqRlZrZFlkTW1lWExDeTV2TldB0gFaQVVfeXFMTWZpYmZFd0F6STRzQUFGcTRNZi1mY3pPY1ktM05ocXdKTmI5TEJnSzYta0xtY3dLUlU2UEd6emNVN25fcGRxSWdPUGgxd2hBZ2R4Z3l2RXB5TFJR?oc=5",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2I3SVVIWFRQakNrMmJGY0x1eUUtdlFaVmI3TWprMWxrOF8yOXptWlJvaWgyMm44RmFQRm9yQzllM0VMVGtMVnBXUGJWZFJVSGJZTVB6ZWlHNUltTDhneFdyTzVTSDlvQWxLMFVBR0dXZTNLU1RmN2JZelZTbW1QQW80d1FOUExRYkI0ZVpiSUlrMDJkMWRoU1FWb2dLdnBHb3RudF9wTGM2ZUV2cjZEZVVWM3o0RGcwUkxEbnhyN3hhMTTSAVpBVV95cUxQd2NycVVXT1pxeDliQ21zME0ySl9kVDJlWnBwQ2RzdDRHU2VTNkhDdHgwR3NIMzc2TXRzYlctWlI5MHlmQ3Fpb0pSUzI0RXlEZHdlWlNDaUpPalE?oc=5",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRb1lKbTBnSGk5WEwzQ2pxOU1Fb0tXek92aVdoWFZ5TVpQUUlBU1dseTBYdE1mcVQ0VDdtQi04ZzZiMmJsVTROcFRPZEViaElYbDF0OUFfREd0cGI5WU9ubjM3Tkk?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRFBzUjl0TW5XUFVZMENWNHF5eWQ5TFZ3N2FrdTkwSGlKYjEtRkZTaFAzSWdrWVBYcUMzLWpZNkhObmJoQm9IZXhVOUpkcUNESGJ6bFpCOUx2clRHOWVUb3BMYlNZVm5MVms3ZVRGbUFBc0xaUEp6bWI1eGQ1dERpV1pDdjdsR3k2NWxSY1BGRmVwbDhMendGbmwwOC1QOEd6UUNj0gFaQVVfeXFMTS1PQ3M1RXFzbzRZRllTZG9CakNfUVhwZXVkVk8yZ1NaU1V6bjEyWlh3UnNrVWJtQXc1dHB2alJoNkVfU1QyYUJaSVp1U0xYajlJd1IxdHlwOXNB?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0toQzRWU1loX3JqeE12eXhIcF84bGxpcnViMkRxNng0TUctdG1xTWVkVmpFbkgxT3FuZ2JHd0I0MFZ4S2N4SElKU0JiZFZiclQwaUdXMVFIY1dVUGdLcERqeGxaekcwcUt4VnRqcVRUU0xLS2RmbzFCd3oyMVZaY0J6YVFsSVRiamlQWmhweUtsczNadUlBbVlydjJQLUoz?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27346/nc-officially-launches-new-mobile-casual-title-tiny-cat-assemble-survivors-in-6-regions",
     "https://www.invenglobal.com/articles/27345/seal-m2-opens-pre-downloads-ahead-of-october-22-launch",
     "https://www.invenglobal.com/articles/27344/elementa-joins-agf-2026-as-official-sponsor-showcases-silver-palace-demo",
-    "https://www.invenglobal.com/articles/27343/lunosoft-officially-launches-soul-legion-idle-rpg"
+    "https://www.invenglobal.com/articles/27343/lunosoft-officially-launches-soul-legion-idle-rpg",
+    "https://www.invenglobal.com/articles/27342/beastfolk-barber-to-participate-in-october-steam-next-fest",
+    "https://www.invenglobal.com/articles/27341/wuthering-waves-collaborates-with-20-lotte-cinema-locations-nationwide",
+    "https://www.invenglobal.com/articles/27340/kda-returns-after-6-years-unveils-new-song-firestarter",
+    "https://www.vlr.gg/777408/vct-china-teams-announced-ahead-of-partnership-shift",
+    "https://www.vlr.gg/777336/vct-pacific-organizations-announce-partner-status"
   ],
   "title_hashes": [
-    "493327b345ca8d70569f191d99326d25",
-    "3bb8dcd9d58cc1c6e8669618376000f8",
-    "1e2e010e051879cfce28b784b25c611d",
-    "73083a8f66bac99416f6c626f336e8b0",
-    "94633352c64172404d8ce9bb1e41bc65",
     "96691485c4396b0fd78d02f30a23942e",
     "799855594adc0f2bd7302c69d3234b5a",
     "cd00d50d0eac02a1e188013d0c828fd2",
@@ -16001,7 +15996,12 @@
     "c696e946b8c151fa7bc8bf5a2368d61a",
     "a080359436c6e63016ce82218937fc3b",
     "b88d8de34b9a99ed8f2445206d8acc34",
-    "b916ea887d6a74adc09201bd6d859e0f"
+    "b916ea887d6a74adc09201bd6d859e0f",
+    "b367cef3c69eb2882f7cabe8d1fd4a0d",
+    "c4aaac7f9f1744c50c9baa460c23fb72",
+    "dc4ade379de491adad20156c120e7bf4",
+    "7ea045304294e221b8d1738634e4d565",
+    "a17553fa9bd6f0eb6c7afc18c24e38b5"
   ],
   "transfers": {
     "pages": {
@@ -20908,6 +20908,26 @@
     {
       "t": "19th action announced hereinafter idle inc launched launches legion lunosoft lunosoftlunosoft mobile officially rpg soul that",
       "ts": 1792392691.9635174
+    },
+    {
+      "t": "alongside announced barber beastfolk fest full has korean language new next october participate release sigonosigono steam support trailer",
+      "ts": 1792392696.9113579
+    },
+    {
+      "t": "20 across announced arpg cinema collaborates collaboration games gameskuro hereinafter hosting its kuro locations lotte nationwide open that waves world wuthering",
+      "ts": 1792392700.4157963
+    },
+    {
+      "t": "19 6 activities after along approximately firestarter games girl group has its new october official released releasing resumed returns riot six song track unveils virtual years",
+      "ts": 1792392703.9316432
+    },
+    {
+      "t": "ahead announced china new partnership shift teams vct",
+      "ts": 1792392707.3882844
+    },
+    {
+      "t": "announce announcing made organizations orgs pacific partner program slowly status they vct whether",
+      "ts": 1792392710.8935761
     }
   ]
 }
