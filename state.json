@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON185cUZ5S2lEMlh6ZkpmU3dseHV0eE0zMWZQS2kyRGtHeHNGOW5ZQk5jTkFpeEZhb2J2V2lyRndLSEpFRWdNUGFNUHpEWkwzM1dTajJEQnpHSFJpaWtkRkpaM2dBNVV1ajl4MEU0am9VOTI0aXlkMURvZVkyS0M2Q0FjUTRHN3N1XzNrQmlvT0dSaFU4Nk9WeTIzcUNWRVRfUmFaTXEteGRtSTRqQy1sU1p2V3hBaFA4VWJYMG9nZllRc3FXSTMtbW9lUnRraEItX1o3UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVjd4ZmJUQlpwWWxaUnduanRQNlNlOGRxbHFVSlcxZkpjcUQ5TnpWQXBnNXhIS2NyVzVER2QycnNVeEtySmhralYyYjJvUkF4empFUzlKVXNvNS1Eb3VyNm1IbnZvYjdHaFYyUVlCalFsYURmSEZIQy1TTFBfUk5DeEVWVlU1bS01bW1DcmRDWlFId0VSQ3JtMWZiOU1RRjB4RkdkUUZhbEJxMkREejN4SGl6a0dzcHdqNi1zS1JaTXlmcl82QlplYndETWJUMWtmWkhVcHA1bWZvdw?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oUlpKUUZQbzFjdUNRTDIwQWN4VVctMU94LUY4ZDRKTEdmWEozdHV5Uy1RQ214UDlUajBCWHY2d0k4LTk4TEd1b1BfNUNRcjNNczVoVWR5TkxfRVg2elRLVU1SRVBxVTNhcFhCWEJxWHBBdEVhdFBXYQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU3p1ZnhwTEJQcC1WLWtUZmZBaGdPLVQ3TnRNcmFwMTBzSFFnUGswemdkU21faTNBSXZLYjNCeG5ydXJfbmcxNU03clBKZWtCYy12V0JfZGx4UWZhOUdoOXpMNi03dmplUWxMN3QzaGs0QUMwZGdaNnhOVUZPQnJGN0k3X2NqN29Damt3VnQtSExaLU9VcDkwSWV6YmNyc2JNSk13NlNKQlk2d3ZqLVBoVWpiVE5ZdDc5YXlvelhrand3SUFvSWJfNlFEMmVUa1hnV2NjT3VfZUtnRFdCTUVnY01BeG8?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaUZsUHJIYm52YnBtNDNpajFOcHFCNGlqaFBRMzJ5UXNoQkpQZlVnbWZhdkh2VUE3MTFhQU1jZ2wzaGxxTUlqc0VsN1V3cDktT2xBMlB0d20zZ29QVEF2eUg0SFhWdnVvZU90aXhKREE2NnB2c0traXNwVHYwZUt3OUNDR0pNOXNuek9GZHdQMjJyWk55YW5mbHN4Q0xsZ1pFUktCZVRNX0ZSeERzNjQ4OGpJZTk1LXhieV9BemMwT2hmSlYwQ3JhNw?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Cb21SYnR3RDdZRnVMMjAyOTJMMkVSaVhjcUFxdDFnaE01S3J2RjRtRHJOZWFxdTZYZURiZlAyZlJkVnRBUDZqQ2w3Z2oyUUZ4aHhBSV9LRjZkbmN5V3pHSElIRWlUQ2VoV0E?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVmN5YmpvWWpYazdFa0ExWVlrQ0dLYU4yeFgzRElTTG1sODA1V05FUTlQTEhYMFlpcTZWSE9FQjBHTWtQaWluTkRGdk9NWF9EN3BYRjNSajFvR1M5cF9Fb2h3a0hRelRSRndLemFkMTZQSDl6MllNMG8xcGVFS1NKT3M1N2RJV3dQLVd5YXc0VDk2bmxwUk9CVHNHSHlvRDdSWnhjcjdHS3E1SUt5a21HeWdn?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUxfX3ZnYkszTmhIWUdLZU5OTVB5RG1HakV6R2s2ekVKS1NkWTg3TUlwTzRkU1I5b0I4YkdzVHh1MHFCOTFfVm9xWnFCVWowSGVfSVpkbXVuTW5KaHJFS2o5YXhldlNLQXpEdkRsclFCX0NQZ3o4Wl9ZWUNMSXlnN01ZbDBvYXpDNzhEa2hRODM1dnl6RUZrM2p4Q3VvQQ?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNEJReXM1LWxzZkppTkI3NlZJYnlBQXBFRm9BWlVLQ01yZGt4R1VoYW16VVNUU0Y4MEtzcVFUNV8wMzBudWQwZDdKdWZXSll2dUtSLUY2YlQ3V3I1cWY5emdnUElOY25ZMFE3VzhOb2JHYnFhUEo2cmwxcjZETDhGcTZ1Um0?oc=5",
@@ -7999,15 +7993,15 @@
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xT05yRGdCTERqc3JfQjZpNWtFdGdORjVaTDZxN3MxbkdsNTZwSTZFZl9uSkl4aWVRNWtJbXRmWDUyRkduYTZGRFJuNnl0eld0YXFsU3BxNjYzc1V2cjc4XzJoRi0wQVU?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ndklTUlJxUl9YYTJvcTdBa01GRENkWTFmY0lLY0tEWkVoYW0xc1g1dFliSW5ySlZpRTJKdllHN3o5NmtpR1VKam8xaDNKaGxuU1VSVWlLYVFadzZ4VGlYRnZiQmE2RGQ1?oc=5",
     "https://pley.gg/cs2/pgl-cut-2028-calendar-to-six-events-as-fissure-head-to-georgia/",
-    "https://pley.gg/cs2/nip-all-but-safe-as-the-singapore-major-race-heads-to-bucharest/"
+    "https://pley.gg/cs2/nip-all-but-safe-as-the-singapore-major-race-heads-to-bucharest/",
+    "https://pley.gg/cs2/five-events-no-final-falcons-post-major-slump-deepens-as-aurora-pass-them-in-the-vrs/",
+    "https://pley.gg/cs2/prosecutor-seeks-suspended-sentence-for-aleksib-over-undeclared-valve-sticker-income/",
+    "https://pley.gg/valorant/valorant-champions-2026-final-sets-new-2026-viewership-peak/",
+    "https://pley.gg/valorant/loud-become-the-first-two-time-valorant-champions-winners/",
+    "https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based-system-publishers-and-devs-can-now-submit-games-for-consideration",
+    "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues"
   ],
   "title_hashes": [
-    "a92c552520f9da63eeb61e55f394bd20",
-    "c92276d4030edc1b0c5f514c653deeec",
-    "8cf30833630d5cb30dcfa09685d643e3",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "0169c5d3a3d56a0134bac69a44867fb0",
     "6f13ae760b8fa3d1eb7ef6b4a957da9d",
     "3b3db4a86ce836b61371a41a68cb40de",
     "4dc0326df492c3b0433fc22ad0390d51",
@@ -16001,7 +15995,13 @@
     "1b5642c0d9e5ec2ec128473b0d3f18f6",
     "8cf30833630d5cb30dcfa09685d643e3",
     "d2e7788251b85f229a81d8c68ccd6334",
-    "42fabe35b2b1b9d80828df4d9c5168c5"
+    "42fabe35b2b1b9d80828df4d9c5168c5",
+    "5070e78334912a4fb73b8f705583a862",
+    "12f500390f8855fb067277af62ec022e",
+    "5cad43e9676f08d627a8a3cc68f9798a",
+    "a43c233be18e67cdfcbf7165a15db384",
+    "e1e0dfac5d4d90deb2d596174f4d4f39",
+    "daa29407dcc2f31ca6d4351c1ad9efcf"
   ],
   "transfers": {
     "pages": {
@@ -21104,6 +21104,26 @@
     {
       "t": "all bucharest but heads major nip race safe singapore",
       "ts": 1792419482.5259469
+    },
+    {
+      "t": "aurora deepens events falcons final five major pass post slump them vrs",
+      "ts": 1792419487.8289738
+    },
+    {
+      "t": "aleksib income over prosecutor seeks sentence sticker suspended undeclared valve",
+      "ts": 1792419491.3649065
+    },
+    {
+      "t": "2026 champions final new peak sets valorant viewership",
+      "ts": 1792419494.8908093
+    },
+    {
+      "t": "2027 accepting awards away based can choice consideration developers devs first game games gdca more moves nominations now publishers read submissions submit system time will",
+      "ts": 1792419498.3695586
+    },
+    {
+      "t": "activision aqau assurance authorise bargain claiming claims cwa failed faith good has have issues key members necessary nego over publisher quality strike union united vote voted",
+      "ts": 1792419501.8806632
     }
   ]
 }
