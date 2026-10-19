@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOGFXNjRXR00wbm9lQno3WTR6YnY0T2p1bkdyWlpuTU5nam9PMzlxSFNwbWoyNjlCMHB5NFNWQTU1YTY3X0F3ZXRtSF9hVUR4QnJGZnp4b0FKdURtaGlYRlJsM3lRZ1dOZHh3eFF0TXJOelpqdDY2TEhEci1USTZUQThNTDd2azg4TkJjMENTSWZjYjl1N2ZkcW9kZjE5SkpKNnU0X2NOLW13VmlVUDA3YU00ZXpFM3JXbkV6SmdvNFgzY3Y3dllWWW53Z0k1UHhJck4xSHQxdUhhN0VR?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2tjaDFnSmhXVVhUSVNlZWlTT2VBdnRuQ3gxamE5UHh5NHJKdnhDOXRHX2Nudktqcjd0VHQwVnV5eFZiaV9heno2a2d2bERKVmp5SWdNWWs0cmV5aUhvTmlhMExTQW9qMnZTMHNia3RGNGZORjFSeVh2Q01zOVVYeW5hakFjNkNVSHc?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaW16cm9wTXRFRkFHR19oVGMyTUhiVGo1eVRVTGEycURJUGZkMnZ5QkFiWkNhSUktcF9vRU1USElyaU5JaVdQbmVjZjZ2N0JVX1hrWHVHNG0zeDN3cHdtOFdGQUxNTE1abnN2WTduYVpXbnZXR01yTU9WTkRJeGdrSlY4WVBKS1NqeHdkN01INkJZOG11RUFZUU1YbFUxUHczOV9EWlUyQUc?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWTlOcGVjZWxrZ05YUEt5NmI2QlE2b2FXQU43cGxGQmtDaGxtMW5fTDNsN05MQ05PZ3BjR1pnNklJcGlyUWJldHAybVlUajZDRDlfdFF3T2tjOS02UVZ5RkdXU2NwZWVlV1ZNUWpERTBSU3hUNHE0Z0NkZk9OOFNVM3JVT1lKaXZELWpfaDY1VmhNZw?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNnFXLTBoVjgtaXh1QVhCbllaMDYyQ2FVcTlUM1VRTDRwdGRkSDI3YWMyejY4eWhUeTFKLXlyRVpfOHpJZXdJXzNyZ0lRVkJKMDR5NjhpS0trOS1GS2pRR0tsdlZZSTM2RWhxcnhNMHRBZ3NGbnd3TTJOXzRGc0dsRF9lTUdVN3BXM2ZDQzlSVzFMSUNsLVE?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbjF4dmpiLVJoNlRCcGNxaER1MU5EZEVUMUZPaUFvTjk1WnIyNzhBelVEVTc4M1dVV3NPdVNGMWgxd1dBZ01YekdxUW5RVXhQYnhBdjlhbUtPc3VvSTV6M0c0d2ZteEU5OVowQUI2MEZURW92RzhNMV82TGpBZ2tTMTM2bnNRQ2M5SHNqajFjekNEeXo0dnBnWTV1YzhHLVVXUk5XSzJxT2l5a3phX2c?oc=5",
     "https://news.google.com/rss/articles/CBMipAJBVV95cUxOaFhvcG80LTdxeGxrTGk4YXlQZjRpLUd1akJ1d3h5djJESk1uclZPQWxDQUpfZkdWMk1kM29KWGdmTG55d184V0dFU1lOekVIWkh5TktCU0U3ZFNGdVpNdkV3X0wzWjA2VXRnQlByTktLbFBENDM2cXZ1N3ZWWjdTb2FOdnp5aUdfaXVkS2Q4U0diUVh3SENiX1J4Vi1uQjhHMDE3dGtwSWVPeUExSTBSeExMLWdjbWJ2WEVwYTZEOWVXQXVpOHJQbDh0QlRSQUZEam5qTkg0WjRBbER1bWpNcFBUT21EZlJfT2lIQWlhdDNWU3dfQ3YtUkV2MTJpUVU3UE9VaU9DSGVHODB6Qlc1Yk54aG9VWEFSbTFoWEJIUXpTZkpn0gGqAkFVX3lxTE5fY2JVRnV0V2JjSG1yMU1YVUY1VExhT1JLcy1wZkxQdjF6bGdBRXpTaXVJRUYzZ1BKWklac0dIcTRDeGtzRnF5eHdlek1FQnpEVkVaeEc0UlBTZnV3ekNOR3NCNFBnU1IzRGhDbDFBRGRweE1FQ0E2YlN1X0NSS3lRclBsa2JUWmNJbnN6QUpGZEtFdWNjRVdORl9BSVFiUTNoOGcwOEFSWmtvVUUyallMNU53dVNUQW8tR1BEaW02cFFJbU93dkRiNXZRa29VZGI1eEtfZ0RGY1I5dVlBRnVQS2tfaGxzcVZYdHZKWHhZU0dTaXNLV3BHNmJQSU0teVJDS0J6aVNiSXZZSFJRQ1d0anVLQWV6a3FsYXNCUm5Cd3kteTB5YzJMT2c?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE55eS1pX3FXbWxEenNjQzVBcE9JenhVRGNkeHNBVFZtOFIySjlZWjBZMkw5SDA0MlRpbFBKUDhsWnVUOVpoMHdTV0lGM3k0aWlWRnRnUTVfUDJNRVR2T2hsZWJtY2JzazFKSkFmQVQtV0JMUmNjaUxJMDJn?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3d1YlYyeW0xZHlHdFJTaHdhLWxPSzlWSFl0d2t4Y0d3QkFjLVYxSV9rakx4TDJnTmpjbEZMUVJNR3d6TTl2MzVkdUdYVXQ5dERqSVhUUVU1VF9pd21nYzA3LWt2djdCdkVlTGZlR0s0TEtOTHZ0R3FtMzdaWjgwZGl0aWVqNTVoTjR1VDRObFEwbGNfRDZLYlFvdHQ?oc=5",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/27374/google-deepminds-gemini-agents-beat-minecraft-with-no-human-help",
     "https://www.hltv.org/news/45758/magnojez-extends-betboom-contract",
     "https://www.hotspawn.com/league-of-legends/news/k-da-firestarter",
-    "https://insider-gaming.com/all-vct-partnered-teams-2027-2028/"
+    "https://insider-gaming.com/all-vct-partnered-teams-2027-2028/",
+    "https://insider-gaming.com/xbox-manager-adored-ai-openly-deletes-social-media-profile/",
+    "https://insider-gaming.com/dying-light-the-beast-finished-players-expect-much-techland-ama/",
+    "https://insider-gaming.com/vct-partnered-teams-2027-omissions-cloud9/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-october-20-1227/",
+    "https://insider-gaming.com/new-valorant-agent-hush-is-a-chinese-duelist-who-wields-telekinesis/",
+    "https://www.talkesport.com/news/valorant/vct-partner-teams-2027-2028/"
   ],
   "title_hashes": [
-    "35bc20b78c8cd8b68745335d8b510fa2",
-    "df7b076ad69d7b3576502ec3a15a2de4",
-    "3aaa7af8a1f116e40ddc3c9a08a000b5",
-    "173e96379ed4738dfa1d971d4f5d48be",
-    "f1316c8896c5c077d53ccf492591fd41",
-    "bc03311dff6879b8d9a6c6439235f842",
     "251e8314a8f45b7a0680dba71cadfe75",
     "f23da9caa5005110b3bef59ba86b983a",
     "9981dff570da15b5675715d6101ea0e5",
@@ -16001,7 +15995,13 @@
     "7f4f9981a8fe9985078ffadd2eab5b7c",
     "818120705195104d0b78764ddf3c0602",
     "bbb2453bf71b24b5119a1f5fcdd0b583",
-    "f358b84e51a6537cc16818f5fed8638d"
+    "f358b84e51a6537cc16818f5fed8638d",
+    "68ada5a5c53423ba7c75079300026038",
+    "6eed35531a2b58f6ba6300a734c38d98",
+    "982c65e2d74edc5226c19fe9dc0cd61b",
+    "df68197dd9090c7706d467c775859a48",
+    "570121fd401d040ed720c46aae97af1c",
+    "e8f262368d93d0ced8396cc887efcac8"
   ],
   "transfers": {
     "pages": {
@@ -21216,6 +21216,26 @@
     {
       "t": "2027 2028 all appeared crazy debut esports fir full gam including know list now partnered post racoons return teams valorant vct",
       "ts": 1792451774.2298687
+    },
+    {
+      "t": "about adored after backlash bold business come comments deletes fire gaming has his intense manager media online openly post profil profile senior social space strategy under who xbox",
+      "ts": 1792451779.7651734
+    },
+    {
+      "t": "against ama back battled beast ceo critical discord disgruntled dying expect fans finished founder goes light much players post questions recent several south techland too",
+      "ts": 1792451783.3583171
+    },
+    {
+      "t": "2027 2028 among applications become cloud9 esports flyquest global had have huge including major miss names out partnered post rejected teams their vct",
+      "ts": 1792451787.0478768
+    },
+    {
+      "t": "31 agent air chinese duelist full games has her herself hush kit mid new post reposition revealed riot telekinesis throwables uses valorant who wield wields",
+      "ts": 1792451790.6097264
+    },
+    {
+      "t": "2027 2028 32 big can champions comes cut dropped full got has here how list names next partner post reach region riot still teams trimmed vct what who",
+      "ts": 1792451794.0294728
     }
   ]
 }
