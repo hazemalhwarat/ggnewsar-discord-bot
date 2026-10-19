@@ -1,17 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBubEVtMEhWX3c0cWdYUUotYlN4cGtEWFVJZERrdnUxVEtObE9hSmFSb3NOc0Q1dzkta1p5aXEzR3VpVzB6elV1bWFmTE04WE9KVVZFellWektLZGJaZUVFN1lxbXpEd2ZGZ28yRF95dzRQQVZoLV84RTRzMS0?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE45aDd6RC1tZ2E0UzdzVFNIeTFtb1VURkhIaTdaSFBBd2hWczF2STJPUVJfa1I2ZE5ZRDZzNzEzU1BkVzVCWXlick1EN3FMbV9fbHR0aHI2cGpkWHI1UXpYMHFfdG8teWFDR0JKR3AxZm1IcUl1RW1hdThzNNIBgAFBVV95cUxNZ1pXV3Ntc0doaGgxSmRzOXc1bGsxZHVFT1hXWVlySjR6OW5Vc0JOajNFS2ptY3VrRFV6bkpkSkhuQXBpNVRlWkp2dXQ5NGxkRVNhU2JVaktVeEFpdkRnUERncmFrNDZDN0s2THhiMEIwWDVKQUlGbXNUR25qWEpfYg?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakc3NFFpWk53eHhEeHZQTWNaNV9qdEp5SHB2a2xNcXpJZ09iUm92dHNuN2llbThEQS1INXF3R3dRYWRVN2hTU3Q0NDhNV053clZBdERNZFc5enREM0hINjBDRnhlQ1RyZVVGUzJUQkF5MWVpSHZpbXN4bVVnVUFxVHZkWXZLbHhYUzJxNHZ5eTg2dmJ2YVA2UVFSdlBmSFZESE5KQy1wMmJ3YVJpZ01neVNZN24?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5MmdDWGsxRzBkMUhpUlJzanZORDVIcGlzMFZLQTNWVlBkM3NiMHBqY2VFM0ZqbE9fRklSZjdtTUFFTEl2cV9DQlByUXp2MS1yektNU2JTMzktaTNoX3c?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzhQZnRub3ZNOGRZNUxvS1NqQnBFMFZoUXJkVGNjc3I3UDZRb1JTd0N5VEd5UU9XVmlUSThoSmxlYWY5bXJoZGJrNW9KTW1nQmw0NXZBNjJWczNhRElEUkcxMVM2Zi0zWkY0bGNzNXpCanE2Q3ZZcXhHWVd2QnlSclJ3NWVyMDBRdmpuTndzU1BGQ19RMU1zV3R3TjBkeVRacUd6ZlU0UG8?oc=5",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iOGJ2Y0hkQVdjalNtQlRBT2UycExwLThWeUlsaGR0bE1OaFUzb0NadUF6QVE1bk5IcG5yMkZUOVR1QURjaThVSWxDVkRQWVNkOGVsbzF2OXEtYTZ3?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVN4T18xSDRjS3dWZERYLXJWZW9ma0RJOEZHT2tDNklTZ1V2TFRKanZRN001ZU8zZk93MkdndWRab3BvM21keVZtWXp4T1oyWjFRTVUxNDRwWW9BOWRtbTJMQ2hRc2xuNkFsTmt2RUxBSndlTTc3bGYtamZSMllQcWp3SFlaLWZ6S21uS1M0ZnRoQlU?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWFOOEMxSHRFOHg2MEdPdTgzSV9xd0J5SkxKTVY3QTFvSWhiUlI1X0xMNS1KUHlRaGVZbXo1MDVCUC1YNzVQMVJNTno5d0lDSWtLZnpEbmMxaW1PX3E5LUZfcVI5ZWV6RUhMRHcxOFdJRWRlZmJqZlhWdkZhNWRmM0k4X2JtT0tZSXBOdDRwbExXSEZNTTM0Y3RSQk5aYzgwd1JqWkFMdmtHbUVhZ0RpblpwLXRmWFBFOVE?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1DQ0tnQnZDNERaY25hbWNJckNRZEF5WjloUkJsb0MwSW4ybDRkYm9rVUppaUhHS0FXODFsOG5MNEtOR3JWOGFHcENqQTA2TkZFNE9sYkpTVXgzbV8wV3FDTlFpaGQza0JJQUVLUXB0X3B3R2ZoSXJWcEdTNWxmZlBSbjZaWm5HMmZZUENMTlR5bEZ2QlRSUmp5TWNIZWlHdVdid20wZEJrWlB1ZXprbw?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQek5jTGhodk9YdnIwem9waEpKWEhHSmItRTZ0UUZBUW05LWxTdTlrT2lLTkFmWHRIMHU5Vnp0ZWlyLVhJN28xRFU0U2thWmg1dFk2R2dIcDJISGhQaDNBY2ZxMlZ3N1cwanVDWnBWTjFpaS12bWZhTjY0Mmo2MDl3WkNWc1RTZXdiSkVTNVdiRWJZVk0ydUFWVUZpQW4?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeldrRHNrVzN6SzR5Y09CTTBVaURhVkU5LVBjcVdxT01NX2EyR0FtTWEwNEtENmp6ZnpOWWduem8xWGtYOC1UejMweklfR0hfYnpjOUFpTkxjODIyQURaSmRnUk96Yl9WVzFLTEtMTFZjOFdNaUVsMC1DTllHWWlBZFNXdDNMcTM4Yzd5dFh1V05oZXFTVjUwNlcyTnA0YlNRVXhNdlROOUlQRFRLSVJOTUI2YXZ1cHFUdkNyS09yRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUw3RWc5djR3Q2tuenpwMUFYZFZyTTZxWUhjRWMwb21MYlRoblVlV2xXMHZVcnVvQ0VPV2dlN2hOMXM3enRCcktJWXBzRFF5WE14VHBEOU42TFhfVzZUcmFMZVBJekxUOF8zQmNaeHRDenpaaFhic05MNHlodkRGcVdpUEVVb3dCWGN4R2VGdjN0TEduQXdSS0FSR3BjZ3R3UXRwLUM2UDNnOWd3?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUFjZDItS2FsbmZHTWhGa2JhSmcwR2NIUmQwQzlrcFdIWjFtRWgzZWFLZGNpemhGbHpwLWVhMTB1LXpDYjBXR1J2MzJlZVZFUFNNeDRCbHZtN0JzeUhubWEtR2pDT0lyNEhsRy1GRU94NUV2RFVQR1ZBWTNTQ1gtWEZZTzhMWEh3TTFxbFF3V05TNzVpRllTZFN3VlYtOEU?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEc4VHZQcTNCcGhaSUthWkJ1bjRUc2Ftc1h3TFhCc3F0MEl5SnVJR1pTdENpUkctSUlVTXBWYzhvdVR1cDdYOWk1djR6WjV6T2FDTnlaTDExNG5pLUd4V1lmMGcxUExfR1V2UjVtME9SY3BfRnQ2QUpVYkZWVm9ZbnpkRVRPQ3N2QW01azNvc1VIcXA5V3pnOWJPbEE3ZTRiM3BCcUhIU19lVEtYdVVwMWZiYVFKUQ?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQVJEbjFmaW1FcEtMT0FNVGE4R0xvMUxoQ3VpZ2hMdE4weENpRXRJNVdqSzJNNmlELVkzZWdZU0dfOFk5QVg0X3BCSDhKX2RKM3Z5R2w1VUlQb3I4dW9oWHdlcjd3WVZXSUM1aVNfYXlLT2JjVjZpNEp2ZTZ6U3R2dGN2QVE2akYtc2pkendaZHBCVHlsSEd2cXYteS1zQW8?oc=5",
@@ -7999,21 +7987,21 @@
     "https://thegamehaus.com/college-football/college-football-playoff-bracketology-october-18/2026/10/18/",
     "https://www.nerfplz.com/2026/10/infernal-cinders-in-lol-what-they-do.html",
     "https://www.nerfplz.com/2026/10/kda-firestarter-is-out-league-of.html",
-    "https://www.nerfplz.com/2026/10/formerly-op-19-old-shaco.html"
+    "https://www.nerfplz.com/2026/10/formerly-op-19-old-shaco.html",
+    "https://traxion.gg/simracing-expo-frankfurt-returns-in-september-2027/",
+    "https://traxion.gg/simracing-expo-frankfurt-2026-attracts-record-visitors/",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd0xsZ3g2aUFQdWswNGxzVG9fQy15Nk1GTG1YYWkwYW9HVU5PS3NQT1ZWcVNSMlJzdi1BME9uWXdKWGdXQzllaHpPYU83TXFadzNTTWpCVFRrajRPMVlBV01MV0tkMUpoSlpSc3liLVRkQXZHMERHYXpZMU5hNmVucUJLM3JCQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdUkyUGFNWlBfbzhGc3hWS1lQcHVHWS1TMjlrTWZMRkxTWm4tRHJkVWx6M2lEaF9kRzRXTW9HQWxhbWZXNHVjUEZmeXM2bVo5S0hGYWE0Z1JmTjRaRTB4WkVoMzc4Y2dxVHpVRWZlMHd3Ul9YQ2hLLThiTVVmNUd0bm5lUHpfSk9fS0E?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ENzI3YUItZS03bVVDR3otUmItempKNGhjekwyMDI4SVRxSWM3dEhzTjdKUWwtMGN4OTA0VG1sVmdMbzQ0NnZhSWlXOXZHRml1b0JsczB6UnlkcjNlUDZSODRIOFlMbmlmVkR4OEYtME4?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUF80blJvaFlkWHN2TWxHYUxuLU1FM0F3TXFoTTJtRTY0U3B0WUxYX1ZXVTRYVF93T0Y4bU5WNHdnU1B5MUQxdmcwOFozV3BKbFM1d0RzclctZmtvTHhoVXpPYVgtdV8wR0hLdEhmcHpSa3haRExrOURtQ3JHdnVla3phUGtrZw?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc2pheWp2S0N0N2VnT3hXSWV5WE9oUWRUT3pLNW82VHltdUMwcmpLaFJ5dXk1R0Y1QXJBUDhwRGx0d2NkVENqSThvUDJ6Wmx2bm55Z2s4N2U5M0ZPQlZEYVA2aUVXbGhyaUwxa21OcjllMjNuR3JQSVl3UGRXaHFueGx3d3FHalk?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRElHQWUxZ1VfZ01tZXNBWGJocEtJNEVWTVlFZ1ZPbkoxWTREOEpBc3A0V0VJVEtHaHp5Mkc5VTZQeTg2bFpHc1hNNk9qSnJDU0s1RUw5bmxJOVZ1alNRc3VqdUJrTzZPRHNEclVGSmd0WHIyeHF4TFlfUGlWQkM5ZjhnTE8zaHQ3YldXSXlMNzM0c0U?oc=5",
+    "https://www.hotspawn.com/fortnite/news/how-to-get-jimothy-in-fortnite",
+    "https://www.hotspawn.com/valorant/news/valorant-hush-revealed",
+    "https://www.hotspawn.com/valorant/news/vct-2027-partner-teams",
+    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-karmine-corp"
   ],
   "title_hashes": [
-    "bd405698f459a3fc13899b290c610f01",
-    "979bf9b1ce9ac4ccdbba2364db3497f6",
-    "86fa07528521a99447ef03737b8727e3",
-    "b646abfb80407efc0252ca2a564cacd6",
-    "5549c32040b53b2052d24255c2e77214",
-    "acf30bda3a4cca6bcfe3424476c4c1d2",
-    "91ce131ba407efc84c3c7ac894fd3ade",
-    "e10e1eea86a52327cd84bff3836cacc8",
-    "1bdd055f1e54c77835c34407209962cb",
-    "d7b5bb30bf20b177af0b8f65b000c430",
-    "85d3ced90b45f104a698c320e4541113",
-    "7b3e556e25ad6906643738feeeaadbc3",
     "39d367e0148ab37c34c0d7523d5c7a20",
     "dfadca396dd5db102087e5d3d467c712",
     "f8591a0f9d80a81e783ec445b30b49ec",
@@ -16001,7 +15989,19 @@
     "e1ab2d308628f8f405fed45b3288e7b6",
     "ee323842d5eceacb6de0e026938d5022",
     "6ee0b7364e28e5f0df754a2ba0f584be",
-    "ed2e0c4e6b402f91eee10b99fc837587"
+    "ed2e0c4e6b402f91eee10b99fc837587",
+    "c17a3ff2a2fdb3ba64b25bc16914457d",
+    "2d100ad701c72672dc5132bc90b06aec",
+    "d61d17325ce548a5d26365839ac0fdc9",
+    "a6aca7031cbcc6928ceb681e1d9548e3",
+    "374320681ea628bdaa82bdbc2d4f5a32",
+    "3ca4e5e2a0f7092e361bf192a3531820",
+    "f6a0291df30c7aa4690fdb69778a4749",
+    "502e377ae93ac112ae5ed176c8e2f386",
+    "3713ee5ea0f7edbcf2a6276ef93f3c85",
+    "ea9ded40d230c1c1a448eec73b2267fa",
+    "bfca2c505f64abf593eaaf275d84cbc1",
+    "5d248238218341355f8a3c152c530b9c"
   ],
   "transfers": {
     "pages": {
@@ -21004,6 +21004,26 @@
     {
       "t": "19 but cheated clone death every everyone everything except exceptions formerly held him his just kept killed making never old permanent roots rules shaco spells trap",
       "ts": 1792419380.6323726
+    },
+    {
+      "t": "2027 appeared earlier expo first frankfurt next place post returns september simracing take than traxion usual will year",
+      "ts": 1792419391.3440802
+    },
+    {
+      "t": "000 2026 29 appeared attended attracts expo fans first frankfurt new number over post record setting simracing traxion visitor visitors weekend",
+      "ts": 1792419394.8670006
+    },
+    {
+      "t": "8217 after before champions cinematic duelist final fought games grand guangdong hush just loud meet newest openi operative riot shanghai telekinetic trailer trophy unveiled valorant vitality",
+      "ts": 1792419398.3741553
+    },
+    {
+      "t": "2027 8217 after anchor announced announcing begun champions confirming cycle end has next organizations out partner riot season shan starting status teams that their valorant vct who will",
+      "ts": 1792419401.9637234
+    },
+    {
+      "t": "1 2026 8217 after ang competition concluded corp day days defeating esports four karmine last leaves los main matches matchups mvk play qualify revealed stage sunday tournament worlds",
+      "ts": 1792419405.4979024
     }
   ]
 }
