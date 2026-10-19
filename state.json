@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PQlhEMUd4eEZvY2d2djNQUUNoa3drUVVVRGd6aUxKbXY4Tzg4NHlscDFmUjJpRXZLenUxN3FzajYwakNJbmpZa1QyczM2dw?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0NabUxGMFdMNkxMWVljRF93LW42eGU3aGVVbDhQdGlja1BFeGVlYnBZVTFrVmN1ejk5WkFZTWZfTUdvWk9zeURuLUV0c05XOHByaXlESHhKNXdISkRZTDlJYjJvUFMwUENjdWx2WnZzam9kdHVnazZQd3hzb3NxT3dmTWhWcG9kS19HSV9R?oc=5",
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45U0l1Nkhxa1Y3SkR5c2YwYnFqM1dUMHpPV3hSVko4aU9PN3pLeWUyZUtVbklTS01GUGV3Q19rRDJ1TGthWVpkbFV2bVlDRkp6b3hEYzNiaVhaZ202bUVzcg?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZERBUnp4Q0Nna3dPRklFeWhieHg3eE51WUtPXzBoT2dEMXRtdlFza2lmMnlsclpEQ1VjcmFQNUdMdm91VGZ4R1FTcjNXUlhzQ1lFREVIZEZqRkhfRVN5a09CUWhINWNHaFkyRk9TVWdrcXJJWTlCcWRWb2Ixa18tUExzV2NpNFFWU0NPeDlLdTN4WENYOGJpcFlYV081R2NELWZlX0NWSzE1cE1yZ3dSTnl1ZUJhb0xsc2U1S0JRQTRjc3d0MTNlM0N3?oc=5",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZdEFCb1djcmVPNDhLUHkxZmw4NmZyNkg0YTZJVEJFckVnVDVJQkw5aHpETkh3LW5BV2lERzBycThHSEVyYjFHeVRJVGdabzJZRkM5emRoRWg0T1hxSnczUGxQZkPSAWpBVV95cUxPR1ZUMmNLVUxLMkZfeGpwYTR3TThFRzNRcW56WE9ZWmVkc0dnbFBQdG9PZ1c2N0E3U3pDb1Y1bGVnVWdJQVNudlIwZmNHQ09fck5mQmJQRnlLbHRxUXRuX1NhQkxqMVY1WG9B?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbzF0X2NtaEZhaHVSQkIzSTBReExrVnJHSzdGYndfNHdoQVp3WG91cjlmNzNxZ1R5NEV6dUNBcTFHLUxmd3dveHNfSkRrQktPVnhqaWMtV0dRaFcxVmVIdUNrR19hTkV5TEduQ1NoSllPVENYTmpSeEloTWk2cTFKWUVGQUwzYURsTXc4?oc=5",
-    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRFlGd2xfSzhrUEF4N0h0TzJOUHFJbTJLRHRYY2hiZ3hDVlpYbkpkNUdNZGtteElqWmdqZ0t0cWZTaU5VNzVJTEdxR1Z3OE5yZEVxV2R5ZTllNTJ2ZU9YQjdWc08wMGhHVmYtbi02TXBoYUZ6V05zZE5ldzZqa2FDZmtOUGtEcFRWWWFnV3JmQzNQdFhsak1uRWpWMHR5dmViOEZYZHA5VGpUVWtUTXVsb3pLdl95M2l4UGZ0SG1zbHphUWRscG5BelFWSnU0YWY1UXNpd2lfdjctVkJTYk1hNlV1OXY5ZjBmZjlF?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb244NU9vQ0t4Wmp0ZjJLVi1USHUtRHlSbW52ZGk1NlJWeE9IQ1JZek16ZFRCTURSRHYtRkNETHhQWV9NVVlSZGFXUUc2MkVZb1d6UE1sb1hWQ1EtNzNzTVdMVUVqckFGSXFnS2xnUDFzWl9VV0t6elA3eTlPQnM4bk42d1RrVzhPX0dGbWs0bmc0S3FKcmhGTmduUlc?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa2oyNVI1am5raXhkTTF5TjFqal9qa1hxYlVpc1BKSnk2cG5uZFlHWkNOQXlBLXA4NkIzaDlPRmluZWZvaTB6YWV2eGx5ZW1oVThnQTA0OFdFTlh2QjZXQWZEcmdiRkNUOWpjYzd4UV9DeXMtc1NnQUxCWmJJcW5ZNU5zb0N0bTQ4aS12WVg3YnRYSEMtaG1wYzJRaVdvNmgxT0EyM3ZCMmJGU1RoeEpGRldzbTAtekpyM21oRQ?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zaFVqdXVQS0MyN014V3BIMmoxRUQ2SFRCZ3ZIUWs0NmQ3T1hyR21qOFdzd3I1VEdmZnNQOVkyVVVNaGp2d3NMRGVQV1p3Ui1nU3dNYXZoOGJxblZtd0V1ZXZsMks4MXp2b2ZfNkpZVnI?oc=5",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT09CTTdVWDF1U2UzczZRbFcxdFMwcnlMTVc4RkF4S3BfeW9xLXdINDRWUkYtZ2RsWk44WFV1Mkc0Yml3ekZZZlJOUFZHTnRkdnJfNWhUZDY1Q2JsMWNfR3VZMVBlQmllMGFGM2Vib0xzbGJaN1BLMHhJMng5TUVGbWxqbnJtTkltcWZDcjExLTBxY1ZqTG04ZXR3YWxibGVybVN2YWwzRmNlWTVKRHNHODMtSVhfUmlER09TTTl1RTliX1pZNlA0TzJvb09QcWg4UHBDRi0wWFlyendCb0diR1JQMA?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVzlNMzhCa2JZTXNBSGxqUm5zdEhrSmpXVXhyNnl5dk1BM2dEZUF2QzFqZkJPNDVpSWFhWVpTRWN2ZU1PamtWUk1hY0hlUWhOOV9iSGdTTlA0UU9GTko5R2VkeF92YTJmc01uRHVMWXRSS1dib2c1MGFFbmtLT0RkaWFWZ29jT3lGZmcyMU1mOTlSZw?oc=5",
@@ -7999,18 +7990,18 @@
     "https://insider-gaming.com/xbox-game-pass-will-remove-8-more-games-in-october/",
     "https://insider-gaming.com/the-finals-adds-dynamic-commentary-that-says-your-actual-player-name/",
     "https://insider-gaming.com/xbox-job-listing-suggests-discs-arent-going-anywhere/",
-    "https://insider-gaming.com/fortnite-chapter-7-season-4-end-date/"
+    "https://insider-gaming.com/fortnite-chapter-7-season-4-end-date/",
+    "https://insider-gaming.com/modern-warfare-4-yolo-explained/",
+    "https://insider-gaming.com/modern-warfare-4-mission-list-all-rewards/",
+    "https://insider-gaming.com/furia-captures-retirement-year-trophy-for-fallen-at-thunderpick-world-championship-2026/",
+    "https://insider-gaming.com/modern-warfare-4-achievement-trophy-list/",
+    "https://www.dexerto.com/counter-strike-2/cs2-pro-aleksib-facing-suspended-prison-sentence-over-alleged-tax-fraud-3419952/",
+    "https://gameriv.com/k-da-firestarter-skins-first-look-price-release-date/",
+    "https://gameriv.com/epics-vibe-coded-launcher-reportedly-opens-among-us-when-player-restarts-fortnite/",
+    "https://gameriv.com/k-das-six-year-wait-ends-with-new-music-and-a-fiery-makeover/",
+    "https://www.vlr.gg/777488/cloud9-allows-initiator-jackk-to-explore-options-while-under-contract"
   ],
   "title_hashes": [
-    "2a24f16bbfbe373c18b1d39878868f05",
-    "baff502ea5f54e5621010b42b6b2b008",
-    "39c0cd7c4412b688eb16886c139e91f1",
-    "b122ad218d4677c6312797cb17259f7e",
-    "28ecf1a1fc20281fbf533033d0235456",
-    "0488438944f9be74db1afb45c7983b11",
-    "55ef31ba5b0d8a2498939efa25a371d2",
-    "2d7bac9622efd2f092a8d6d18fa45f2d",
-    "04c37ad454bae5cb00b15213f8e56334",
     "18311b41aba3cc423344c9423b04f7e9",
     "7f17b584815857cf201ea61f0360a7f8",
     "51a5125f01feb939060fdbc338fb5030",
@@ -16001,7 +15992,16 @@
     "857db337b6fff0cba02601d85586c18d",
     "c7b39bb88fa0991f261dd328f14e2d2c",
     "4ea374969eeb77d5dec09cd381e3d545",
-    "701567ebd4ac018f644164f37a79df23"
+    "701567ebd4ac018f644164f37a79df23",
+    "724c38f4b23077cce56b192792bbe9c1",
+    "af6cf32c90bdb28f22b23b4d1176b0c3",
+    "ec342bb338afbaa9cfd26cebcafd1ea4",
+    "3c1de80ea683678a4db1a52469ae6af8",
+    "c03c6b9e7b93e78fce67e225dbbe2f6e",
+    "28905adbff98946f8cb986f6833766d4",
+    "0f716d28fe03bae816768d9a2308a0be",
+    "650e4a6fbd68e4ada7c10851be8a806a",
+    "ac17466141971731c184f23c4a39dc63"
   ],
   "transfers": {
     "pages": {
@@ -20964,6 +20964,26 @@
     {
       "t": "4 7 8 after all appeared chapter date details does end first fortnite how insider longer much post season that there until when",
       "ts": 1792419341.5204227
+    },
+    {
+      "t": "2026 betboom captures championship deliver fallen final first furia grand his overcame post retirement thunderpick trophy world year",
+      "ts": 1792419346.9739158
+    },
+    {
+      "t": "2 aleksi aleksib alleged could counter cs2 face facing four fraud month over prison pro sentence strike suspended tax virolainen",
+      "ts": 1792419350.6990335
+    },
+    {
+      "t": "after allegedly amo among battle change coded epic fortnite game got instead launcher new opened opens player reportedly restart restarts returning royale through trying unexpected vibe when",
+      "ts": 1792419354.1265066
+    },
+    {
+      "t": "19 ahri akali back bringing ends evelynn fiery finally firestarter first games group its kai makeover music new october official released riot six together video wait year",
+      "ts": 1792419357.657579
+    },
+    {
+      "t": "after allowed allows been c9 cloud9 contract explore has his initiator jackk left options out partnership under vct while",
+      "ts": 1792419361.117127
     }
   ]
 }
