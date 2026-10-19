@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
-    "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
-    "https://www.gamesindustry.biz/crowdfunding-is-fundamentally-a-marketing-and-a-community-exercise-what-developers-need-to-know-about-funding-a-game-with-kickstarter-in-2026",
-    "https://www.talkesport.com/news/will-bgmi-lite-come-in-ios/",
-    "https://www.talkesport.com/guides/fc-27-redeem-pre-order-bonuses/",
-    "https://www.talkesport.com/news/fortnite/fncs-global-championship-2026-grand-finals/",
-    "https://www.talkesport.com/news/cs2/cs2-september-25-update-patch-notes/",
-    "https://www.talkesport.com/news/valorant/global-esports-valorant-champions-2026-schedule/",
-    "https://www.talkesport.com/news/tez-ffmic-2026-fall-point-rush-date-timings-teams-where-to-watch-and-more/",
     "https://www.talkesport.com/gta-6/gta-6-vice-city-collection/",
     "https://www.talkesport.com/news/gta-6-map-leak-collectors-edition-island-names-removed/",
     "https://www.talkesport.com/news/bgmi-lite-renamed-bgmi-flash/",
@@ -7999,17 +7990,18 @@
     "https://insider-gaming.com/rockstars-npc-tech-was-prototyped-as-early-as-2014/",
     "https://insider-gaming.com/steam-next-fest-demos-28-games-later-showcase/",
     "https://insider-gaming.com/phantom-blade-zero-faq-release/",
-    "https://traxion.gg/raceroom-to-host-alpine-sim-racing-series-with-gt4-test-drive-prize/"
+    "https://traxion.gg/raceroom-to-host-alpine-sim-racing-series-with-gt4-test-drive-prize/",
+    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-swiss-stage",
+    "https://esportsadvocate.net/2026/10/vct-china-2027-partner-teams/",
+    "https://esportsadvocate.net/2026/10/riot-cuts-vct-partner-slots-2027/",
+    "https://www.nerfplz.com/2026/10/the-lol-practice-tool-whats-actually.html",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlR0UHk2OU1PbmRQWk5QMFZIVlc2SV9wU1ZOTzBSTkhzSExVeEdseGRFVzJWMDR3VGlXUmtmVmJFdllsekRZcFRCSldhTE1oZGFUV2IzakFwaDNleG50U3F4Qi05dEswUXlGOXIzOUluNnNVd1Q5Sjg5Nl9pWmZSQWNB?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWk5WWpfNlpEblFQMWRzd1V1NUJoczc5TXNEVzR5b2wwM3NENEFvai1pbzhjajZJeVpDWm45QVNTX2QxNUFacUpycDRDcW41a25TOFdnY2VhZ01fS2haNlNJODdVM2xKMEVJM2pHSGZCSWo2Y0JUTmNSb3M1cGdlR3hFMV9rRkE?oc=5",
+    "https://esportsradar.gg/global-esports-shuts-down-esports/",
+    "https://www.hltv.org/news/45757/vrs-fans-come-here-ft-mischief",
+    "https://www.hltv.org/news/45756/krasnal-enters-free-agency"
   ],
   "title_hashes": [
-    "eed383bbcacfb4694ea76c3b4ebfb6e7",
-    "685257b5e2314e781a6ec5986baeedd5",
-    "07ca1ffed8d6946a322d1d91b24354af",
-    "4a31182b163f3b78bd8a7d7a86fe4287",
-    "a1403760e4f622fb088406265f8395b2",
-    "faa2ba4bfeda78d04997af27d9de5d06",
-    "559befc5c1fd279aff3109e526d5678a",
-    "44775d637c63d850f20298a762a48076",
     "1d5a028a1802af9fdb58469f2b9a080b",
     "e14081c2808dfee2a4cc4ad564a000fd",
     "291385da2930acf33eaf69a11eefd02d",
@@ -16001,7 +15993,15 @@
     "2917aeb7d3a9f9665a0f8f01651095ad",
     "25652f7a91a0bffbb5ccf580b258f8ed",
     "65fd5169f1105ddfe2f0ea7e0241d4bb",
-    "09eb3aacb207ee755d1a7c23ef98d6cb"
+    "09eb3aacb207ee755d1a7c23ef98d6cb",
+    "7460ebf43208bb2e7c83a58dc17447ea",
+    "d7e7721984e1fa21d1aff37cacc69c84",
+    "6ca9269067db95f143a0266a441d3bd5",
+    "6d90b178e47df45af550ccebee84ab90",
+    "dde25263ef952595232da84c9bbdece6",
+    "286e955aad675e27a93f5e9eb1ec914e",
+    "908170f4c82e605051980414ad085a56",
+    "5df0deced1b1e1393a514cd685e1799e"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "alpine appeared drive first grabs gt4 host post prize raceroom racing real series set sim test this world year",
       "ts": 1792439946.2402966
+    },
+    {
+      "t": "2027 2028 announced between china cuts cycle eight gaming joint league monday operator organizations partners places returns riot selected sports tencent their vct venture weibo",
+      "ts": 1792439951.71644
+    },
+    {
+      "t": "10 2027 2028 32 8217 begun champions circuit cloud9 cuts cutting drx each eig four games has lose organizations partner partners regions riot seats slots teams telling their they tour valorant vct whether will",
+      "ts": 1792439955.2545495
+    },
+    {
+      "t": "actually bored death doing dummy free game get good hitting instant last league legend lol lost mostly night practice ranges rebuilding that timings tool until used walls what worth you",
+      "ts": 1792439958.7037342
+    },
+    {
+      "t": "come dove episode fans game here into issues latest mischief sashi scandal vrs",
+      "ts": 1792439962.2740612
+    },
+    {
+      "t": "agency contract ence enters free has his krasnal mutually polish rifler terminated",
+      "ts": 1792439965.8168437
     }
   ]
 }
