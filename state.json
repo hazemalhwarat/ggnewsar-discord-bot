@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2QnpCRDZLUmRBZVJLSjVoSEs2SnV3X3FQNlF1X0NOcy1LMTF5dHR6NlZSWEsxWWV0UGxXMWhOVzBmTUFzZEFCQzluUktUWllBWWdmWGhtRkdWMzNQc1liOHBlUkZ2TXhJUDRqMC1NS1ZaWGdheXZR?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRjdRY05oeU5kcEhFY0JKODBDU2FwbTBRSW1QTUwxWWJmakw2WlNiZGVoQ2kyYU5aODR1WUZxU1lMMGZjUFduZnJ6SmZSOVdaQlljb2FaLVl4SmFjY3NtOVl3dEVRZlhKWnlwY3A4N1o3YUlDRThfbjhnczAyRHdIWmVxM29CdF9pU3U5VE15ZlJvNUV6U1c5bzFsNHpMSlFQdzlOd1NqcFJINThSRFppbGh6cVRZTEloT3lvSU0wenk?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kRWR3cEFYLXdwQ2QyWXowbVhGazExX3FkWWI3elgwblQ2UW1TOVRUa09kNVpfVkx3YWwzZ3VuaGRtTVF4bXZkVm1udjFoaVVYMGxoQ3BQV3VISzBkeGExci1ERjE2eTZtQmxScmVNUkZqemJicDgyVTZXS3BYb0k?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcG90Z3JEc1JKSHpSZzVnUElPNXRJNVc4SmM4SEtpM3Z0RkdiTzZJcVBTbFNIa202dE10clUxNDhoTkJvdHY0UVRQeURGajFCTEpvZmplMC05M2tTOXFjOVJBaDRRa0R2aVlUTHdWTmVhTG9VcHZUdG84NU84Nm1ub2NlSU5TR1djeXVWQi1nTllNZXpqYVE?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rMTJBX05HbWVudEtONnFTMmNzd19tUUdqQmVwSEd3Y1RpVS0tOEpVTXpnMjFOZ1o4RDBUZkxsMS1scmVkVk1lckJCQTAtcmxHZmQ2VDJBUFU3MW83RmhCUUUxQk5SV0ZnYmgtTw?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZzhoVlF0MFRyaHVDdG5aYmxyU1pMMUtzYTFZZGgyWUExYUI4dUNZdVhiOTR4RGlQWDdzRHV2bGlETjJZQ3QwLVQ2YkpOVmZZcDMzSFZzX3VWX0tMT01CSzEwZkowUGNpdWExdER1U3Z6UTdPS1ktejJwT3JIV2pFdnh6UVlNVk5INGc2aVBmNXRkdWhsMXE4SnNBQTJiSWNMM05Ub1gxZlJKZ1ZuV2c?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdTdOY1QzOEsydkc0TFBMbUpRMzAtYUJvX25JTUlBd1E3ZkFLMDVQR05rX0NNdVc4SFIydkd4SHhIOWt2OERmMVFROEc4ellfam1iV1NoZUEwT0FRSjBzblo3OGZ1UDloZzM1U1JtS1BtZHRMRlhoRGFENDYxbVc3QzR1TnhUZXJrdkJCRkQ1dlphemtFcEJEV1lPTmRaZVFadlhz?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZDRNS3VDYmhteEFBMXdIOTNkcTNBdGF3RzRyZk4yS1RsQWdBSVlpMkcxUjllRzBFand2c0NHRU5aUzFNN0N1RDZLMGNzbmJBUWhhM2h5YXVPREJKdUNlYmZlM050TVAwNHJTTHdNQTZoXzZ1S21vNXRtb0dEZEFwcDBRRDdBTTRKVTlraXVORnFTVFBhNEJoRlln?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DakdRaWNibG0zSThkcW5oMVlnWjktME9fQlJXV2tERTBad1pOYzVVX25hZFdETFBEaTNCM1pkZFpCTXgwbHc3a21JNEJ3bEt0Yy1XV1lyOUV2XzU3azVxXzhaWVBSVWh5bUlsbUdld2l1dnI5ZWh1MDZJVUI?oc=5",
@@ -7999,15 +7993,15 @@
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWm9WdTJlLU5BUGsxekRYdHpibHFWcW1aRUNPeEI4eTJPcVRGSzJ3ZW90cm5yZ2htbEV0d1pjdm9JQURxaUlTREl1THJEUmFMbDRodUZmS1NIYXhtQVItZGYzZ2ZLNzFlOFUxN2dnRHlaYWExZUpQNWxvbkVnanlsTF94NjJuTW5jVXpuaU83a0lPYVItcWh3dWk1UnpMaGo3RV8wRXhyNllDeXJIV18xNkFyOXQ1WHkta1ZxWUJLa1VMZ3pt?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPbHNuakZWNUNCMzVfWlUzY2hMbTd1akhMOEhIazF3LUtBaDg4OHNmaTFyYk8zd3Z3OGJIdHJyX0o2Mkd6OVU5ZURCVXhFZm02cWtzQko4QU12eWNjWkcwQzBvcVJETkR6REtrVlppMA?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa255WkFHTE9fbnVxbHduYWdSNGh6aHI5b1B4T2tjRGVZQmtrZFhmY0I0MVhwcUJ4bFlPclJGZ3h4U01iRmp5czBMTDg4dzZjSEZEQ1NfUVZOMk1NTnJmMFFSNWJza3o3THFPaWZpV3Q4QVdNRGlfOU9KZko3bElCU0JFejRYZkUyU1BhMjdxUVBZYjBfREhzaVh4dEU5czRDVzVCMXN2TQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEJuSzhyb1pmR3l6b29Hc0Z4ZnJfR1BHMlVyWGJZbzFmLTZwS1ZVWm1rY0ZhdFRPSW9nUDFaWDNKM003LVl6OV9IeGZvVjV2M3N5Ump0aUotOWpUb3VfTmo5bEhJRUNDT0V0YU9DLTNEOHVCQnlMNlZGdEZ6cUxqX3QxOHBMOWltNDZhMVJzUURmNUZlUnEybg?oc=5"
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEJuSzhyb1pmR3l6b29Hc0Z4ZnJfR1BHMlVyWGJZbzFmLTZwS1ZVWm1rY0ZhdFRPSW9nUDFaWDNKM003LVl6OV9IeGZvVjV2M3N5Ump0aUotOWpUb3VfTmo5bEhJRUNDT0V0YU9DLTNEOHVCQnlMNlZGdEZ6cUxqX3QxOHBMOWltNDZhMVJzUURmNUZlUnEybg?oc=5",
+    "https://www.invenglobal.com/articles/27375/navi-to-end-vct-partnership-after-2026-season",
+    "https://www.invenglobal.com/articles/27372/ncs-new-cinder-city-dev-video-breaks-down-tactical-gear-and-boss-fights",
+    "https://www.invenglobal.com/articles/27371/g2-and-pubg-mobile-open-sign-ups-for-amateur-community-challenge-tournament",
+    "https://www.invenglobal.com/articles/27370/red-bull-india-partners-with-team-apex-gaming",
+    "https://www.invenglobal.com/articles/27369/is-grading-your-pok%C3%A9mon-cards-actually-worth-it",
+    "https://www.invenglobal.com/articles/27367/raccoon-co-op-sandbox-dumpster-gang-heads-to-pc-game-pass-on-december-3rd"
   ],
   "title_hashes": [
-    "0c24aeb66e5f417dcb68cfc2349b596f",
-    "5da60ef5a8b4772fb9029520369c21c3",
-    "f2c871676852b67387849fcb58be4f10",
-    "3abeb1f710dd21b73ef5e0feccf0e397",
-    "be139f760897660ad6d0782331708a5d",
-    "a4e619b8285a785f5181cb8a54e382d8",
     "c865a83b68b46efae0bfabaf3b22aa42",
     "2939aac7b25cbac8a2685dd7ded87a56",
     "d127e2d4d9d000dfbe961f625d1ef15b",
@@ -16001,7 +15995,13 @@
     "bd405698f459a3fc13899b290c610f01",
     "979bf9b1ce9ac4ccdbba2364db3497f6",
     "acf30bda3a4cca6bcfe3424476c4c1d2",
-    "10a46f3e8d649012c0e94ecba54bd605"
+    "10a46f3e8d649012c0e94ecba54bd605",
+    "1cde8d125618781c00e1de055a8b4021",
+    "c9afde0930252491f4a0d960f27ad4b0",
+    "c6ff0b0e72f6a01ba1b7097a0edac717",
+    "e504106a70034f8467369e3a49864135",
+    "2b9c0777c9cf47a9b836608c4f096a00",
+    "b0830023d9da94bb2540ed4697ede0f6"
   ],
   "transfers": {
     "pages": {
@@ -20710,82 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "1 19 2026 angeles arena ceremony championship clashes draw early faces g2 games gamesin held kst lck lol los lpl matchups morning october riot round set stage swiss two usa world",
-      "ts": 1792359039.7235763
-    },
-    {
-      "t": "19 2026 angeles arena championship claims corp defeats early event final games gamesin held karmine kst lol los main match morning mvk october play riot spot stage world",
-      "ts": 1792359043.2455833
-    },
-    {
-      "t": "agency announces enters free looking nismo team tier two unrestricted veteran",
-      "ts": 1792359046.8888292
-    },
-    {
-      "t": "don fans games indie its large lucasfilm may need part partners post projects publishers says small star strategy studios surprise that top wars",
-      "ts": 1792359052.5466661
-    },
-    {
-      "t": "along awards beat december drivers esports europ european expo fia final finals global hallman head live post racing rally semi shanghai shootout sim tommi tour will wins",
-      "ts": 1792359056.0738883
-    },
-    {
-      "t": "2026 claimed coanda demons exorcise expo final finale lan more once outfit person porsche post r1 rennsport retain season simracing that title",
-      "ts": 1792359061.4272752
-    },
-    {
-      "t": "2026 ago brazilian championship comes crowned earned first his kscerato medal mvp one same second thunderpick tournament where world year",
-      "ts": 1792366461.5969946
-    },
-    {
-      "t": "11 2026 again almost back championship first furia last lifted months second secure since tasted their they thunderpick title trophy victory world",
-      "ts": 1792366465.1236908
-    },
-    {
-      "t": "action added chat harsher has increased marvel new offenses page penalties policy post repeat rivals severe text toughens toxic voice",
-      "ts": 1792366468.6578183
-    },
-    {
-      "t": "80 around between big continuing corp esports french karmine mvk one opponents our peak performance potential quite ramp rematch say series sided since start surprises swept team their yike",
-      "ts": 1792366472.1934156
-    },
-    {
-      "t": "2 2026 3 after against back betboom championship defended final furia grand have iteration marathon over series successfully taking their thunderpick title win world",
-      "ts": 1792366475.7379205
-    },
-    {
-      "t": "2025 betboom championship defeating edge first five furia november out since their thunderpick title win world",
-      "ts": 1792366480.923307
-    },
-    {
-      "t": "1 3 americas become becomes champion champions defeated final first gamesloud grand history loud representative riot shanghai team time tournament two valorant vit vitality",
-      "ts": 1792374160.3148599
-    },
-    {
-      "t": "19 9n equipped korea korealenovo launched launches lenovo nvidia october officially pro rtx south spark yoga",
-      "ts": 1792374163.8536677
-    },
-    {
-      "t": "19th announced collaboration collection fortnite four gaming gear korea launches officially products releasing steelseries steelseriessteelseries that",
-      "ts": 1792374167.3455844
-    },
-    {
-      "t": "19 2026 24 announced championship finals flyff fwc grand host manila max maxwemade october philippines that universe wemade will world",
-      "ts": 1792374170.8477886
-    },
-    {
-      "t": "17 3 4r4ct3r 4r4ct3rdeveloper adventure content demo featuring first hours its october psycho rain98 released releases romance steam thriller",
-      "ts": 1792374174.3893828
-    },
-    {
-      "t": "almost bully can dan dead didn explaining founder games hap happen happened houser how nearly never post red redemption rockstar save says strong teams",
-      "ts": 1792374179.6265585
-    },
-    {
-      "t": "2027 2028 all esports partnered sheep teams vct",
-      "ts": 1792374183.247764
-    },
-    {
       "t": "28 8 active announced flowdotflowdot fork forks fruit game giant incremental jam launch launches make october officially smash steam stick that will",
       "ts": 1792392658.369656
     },
@@ -21140,6 +21064,26 @@
     {
       "t": "accreditation across compliance enabling firm games guide has industry law lawfully more partnered partners provide read responsibly service sheridans studios ukie use using",
       "ts": 1792419517.8388247
+    },
+    {
+      "t": "2026 2027 after champions circuit compete end ending esports four game international navi not organisation partnered partnership run season tier top tour ukrainian valorant vct will year",
+      "ts": 1792439850.8512523
+    },
+    {
+      "t": "bigfire boss breaks cinder city dev developer down dystopian fights formerly future games gear has its ncsoft near new open players released sci second seoul set shooter tactical through video walking world",
+      "ts": 1792439854.3829668
+    },
+    {
+      "t": "2026 24th 25th according amateur challenge community esports g2 have mobile new october open opened pubg registration runs shooter sign that tournament ups",
+      "ts": 1792439857.876704
+    },
+    {
+      "t": "actually card cards cash collectors ever everyone exploded graded grading has hassle have long market more paying pokémon professionally than their wait worth your",
+      "ts": 1792439861.359044
+    },
+    {
+      "t": "3rd announced chaotic coyote curve debut december dumpster four game games gang have heads house launch one pass players raccoon raccoons sandbox starring steam studio that via will xbox",
+      "ts": 1792439864.9533012
     }
   ]
 }
