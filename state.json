@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zaFVqdXVQS0MyN014V3BIMmoxRUQ2SFRCZ3ZIUWs0NmQ3T1hyR21qOFdzd3I1VEdmZnNQOVkyVVVNaGp2d3NMRGVQV1p3Ui1nU3dNYXZoOGJxblZtd0V1ZXZsMks4MXp2b2ZfNkpZVnI?oc=5",
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT09CTTdVWDF1U2UzczZRbFcxdFMwcnlMTVc4RkF4S3BfeW9xLXdINDRWUkYtZ2RsWk44WFV1Mkc0Yml3ekZZZlJOUFZHTnRkdnJfNWhUZDY1Q2JsMWNfR3VZMVBlQmllMGFGM2Vib0xzbGJaN1BLMHhJMng5TUVGbWxqbnJtTkltcWZDcjExLTBxY1ZqTG04ZXR3YWxibGVybVN2YWwzRmNlWTVKRHNHODMtSVhfUmlER09TTTl1RTliX1pZNlA0TzJvb09QcWg4UHBDRi0wWFlyendCb0diR1JQMA?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVzlNMzhCa2JZTXNBSGxqUm5zdEhrSmpXVXhyNnl5dk1BM2dEZUF2QzFqZkJPNDVpSWFhWVpTRWN2ZU1PamtWUk1hY0hlUWhOOV9iSGdTTlA0UU9GTko5R2VkeF92YTJmc01uRHVMWXRSS1dib2c1MGFFbmtLT0RkaWFWZ29jT3lGZmcyMU1mOTlSZw?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3FBS0F4d2hZRGQ4TnJEc1lZWFQ3eU5rS3doRFFhbWJqSGZDS1k2QWc3eXFRN2lCeDlnMTVRWDNlMkExLUEwc2tVd20weC1GZnJkTDhsTzQ0bEEydEhqREVRWUd6WkEtdnU1eHNPUV9Za0wtOEZfc0N6NGhTNm1rSmtLOExrVDhXLWZJdUo1NlBvMFpmZThvSDBwZjlENXR5T2ZJVHEwMXJCVzVySlRuNU5KUUs2Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83M1hPeHVlc0ZCVlpKZVc2ajl3QXg5X0VlRTJVQVM4OWpPdW1NV0V5ZGtnWmlCdDRvVW9GcjRJWXVzZXVObHZRd05Xc0lXcFNPY0NwWTViWWFyUTZLUUdua3FlNVE0cDdnSFRSLdIBckFVX3lxTE1kb3ppNU15TXlvNWNqZVFpWmF3bzlmdEc5X1l2YkYzaDVyRllaNFpiLTdfNlRESGNxb25GOUtOc3puZGlsYk5HT01SWTZCREw1VmxNNkpxMWZReEFYRWFHX3VtNFBjN3VvLVlTbGs1U3FjUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kX2F1YkVLdl9JZmFNMU9zN0FVRTBHWUp5WU5mR21IcjFlMEJxR0I3eW1XTkhiRS1DUDB0N3J2NVdtNG9PdE5vSzlObko5YmdmZW1UaHRaVnNYS1pNeVBQb3Vya3llUm5rbnZGcTdJeFVwSXZaczB3c0xPYTNRWUHSAYQBQVVfeXFMT3NQWVZQemhoWl9xbDU0VzFGd1FwalJxOHR6cTJxblRPZWxtUDBTMXdOS3h0QjVzUi0zY0FlUVZtR09maWNUdExjWGpCM3JfLUxNTk53aGFXQnY5TU5mVENqWlZBQklFNUE3LVptWWw3OEJxQkJyWWRQRFRVck16Y2RfTE5u?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR0E0eXlVODY1NU9QREl4UGN6b2FOY2RmcmxQbHFjYjJjTElIOHh4dXl4cVNxTG56TDJ0dlVSZlgxNHAzMmZLUGhSV09pVFBJcUhvNERVLTEtTU9TT1dYQzkyVndfem4tY1FYR3VYNkFENDhhdC1STU5BZjZqazcyRktZYmJCT1NlM1drWVRpdUh3Zk9feWl2QktRTmZrTi1ZNnc?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTBUUVJlUUtzbkI5NV9Lamw0RmZmUEx1SWxOVlYzZ09BRlFMU0szSVVoRjdqRTJxWU14ZldaSVp5UG9mVVExTnZmcFE3eGpGcFZFOTNBSFpmM245YmhfTXFuaHVtMVdRNDVZMDhrZzdSRWJGSHR0eVF2WWlRcF9KUzFtYkJDX3c?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vWGVoN3M4b0dUVGtpR3JGT0J6b0x0MklzV1lDNzkxSEVQTVdYNkFKci1hS0xKMVRseXFtTDF2T1RzM2xxeWtxWmxYZ3RSZGNjR2VzQ2ZvX3JPLV9kWjhsWWJTRUJ2dEpvZzNF?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTFBubEVtMEhWX3c0cWdYUUotYlN4cGtEWFVJZERrdnUxVEtObE9hSmFSb3NOc0Q1dzkta1p5aXEzR3VpVzB6elV1bWFmTE04WE9KVVZFellWektLZGJaZUVFN1lxbXpEd2ZGZ28yRF95dzRQQVZoLV84RTRzMS0?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE45aDd6RC1tZ2E0UzdzVFNIeTFtb1VURkhIaTdaSFBBd2hWczF2STJPUVJfa1I2ZE5ZRDZzNzEzU1BkVzVCWXlick1EN3FMbV9fbHR0aHI2cGpkWHI1UXpYMHFfdG8teWFDR0JKR3AxZm1IcUl1RW1hdThzNNIBgAFBVV95cUxNZ1pXV3Ntc0doaGgxSmRzOXc1bGsxZHVFT1hXWVlySjR6OW5Vc0JOajNFS2ptY3VrRFV6bkpkSkhuQXBpNVRlWkp2dXQ5NGxkRVNhU2JVaktVeEFpdkRnUERncmFrNDZDN0s2THhiMEIwWDVKQUlGbXNUR25qWEpfYg?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakc3NFFpWk53eHhEeHZQTWNaNV9qdEp5SHB2a2xNcXpJZ09iUm92dHNuN2llbThEQS1INXF3R3dRYWRVN2hTU3Q0NDhNV053clZBdERNZFc5enREM0hINjBDRnhlQ1RyZVVGUzJUQkF5MWVpSHZpbXN4bVVnVUFxVHZkWXZLbHhYUzJxNHZ5eTg2dmJ2YVA2UVFSdlBmSFZESE5KQy1wMmJ3YVJpZ01neVNZN24?oc=5",
@@ -7999,18 +7990,18 @@
     "https://gameriv.com/k-da-firestarter-skins-first-look-price-release-date/",
     "https://gameriv.com/epics-vibe-coded-launcher-reportedly-opens-among-us-when-player-restarts-fortnite/",
     "https://gameriv.com/k-das-six-year-wait-ends-with-new-music-and-a-fiery-makeover/",
-    "https://www.vlr.gg/777488/cloud9-allows-initiator-jackk-to-explore-options-while-under-contract"
+    "https://www.vlr.gg/777488/cloud9-allows-initiator-jackk-to-explore-options-while-under-contract",
+    "https://www.vlr.gg/777472/kyu-enters-free-agency-after-second-run-with-m80",
+    "https://thegamehaus.com/nfl-draft/nfl-draft-prospects-to-watch-in-college-football-week-8/2026/10/18/",
+    "https://thegamehaus.com/college-football/5-things-to-watch-in-college-football-week-8/2026/10/18/",
+    "https://thegamehaus.com/nfl-draft/nfl-draft-prospects-to-watch-in-college-football-week-7-recap/2026/10/18/",
+    "https://thegamehaus.com/college-football/5-things-learned-from-college-football-week-7/2026/10/18/",
+    "https://thegamehaus.com/college-football/college-football-playoff-bracketology-october-18/2026/10/18/",
+    "https://www.nerfplz.com/2026/10/infernal-cinders-in-lol-what-they-do.html",
+    "https://www.nerfplz.com/2026/10/kda-firestarter-is-out-league-of.html",
+    "https://www.nerfplz.com/2026/10/formerly-op-19-old-shaco.html"
   ],
   "title_hashes": [
-    "18311b41aba3cc423344c9423b04f7e9",
-    "7f17b584815857cf201ea61f0360a7f8",
-    "51a5125f01feb939060fdbc338fb5030",
-    "9aaf01cee7bc2fe6887ba32b5d332a45",
-    "e2d7ccb46b83176fe06620d044c122d5",
-    "78aac8199de23155dbb67f9eb6ce012a",
-    "0f738f850f66e918399cd8e97f652af0",
-    "4034a2be8caa9e9e90eb48dcf8bd7c41",
-    "9f077cc2f2be6d258c32973e43cf789f",
     "bd405698f459a3fc13899b290c610f01",
     "979bf9b1ce9ac4ccdbba2364db3497f6",
     "86fa07528521a99447ef03737b8727e3",
@@ -16001,7 +15992,16 @@
     "28905adbff98946f8cb986f6833766d4",
     "0f716d28fe03bae816768d9a2308a0be",
     "650e4a6fbd68e4ada7c10851be8a806a",
-    "ac17466141971731c184f23c4a39dc63"
+    "ac17466141971731c184f23c4a39dc63",
+    "6a79f0f2b00d0503da809e27e4d65692",
+    "8cf3a7eaeae3a91c59646b0ec857083f",
+    "aa6704950171ca00575e741703647a54",
+    "1aeb85f2565233d261493608f65ab1e7",
+    "22985e3ea44c1c2c22203fcda42a7d0a",
+    "e1ab2d308628f8f405fed45b3288e7b6",
+    "ee323842d5eceacb6de0e026938d5022",
+    "6ee0b7364e28e5f0df754a2ba0f584be",
+    "ed2e0c4e6b402f91eee10b99fc837587"
   ],
   "transfers": {
     "pages": {
@@ -20984,6 +20984,26 @@
     {
       "t": "after allowed allows been c9 cloud9 contract explore has his initiator jackk left options out partnership under vct while",
       "ts": 1792419361.117127
+    },
+    {
+      "t": "after agency doubt enters free future his kyu last m80 may now org run second stint valorant",
+      "ts": 1792419366.386286
+    },
+    {
+      "t": "2027 8 college different distance draft drafted each early far field football matchups nfl now off players presents prospects still this unique watch week while who will",
+      "ts": 1792419369.9882827
+    },
+    {
+      "t": "ability burst cinders flames ground haste here how infernal little lol map one over point quick spawn speed stays that they walk what where you",
+      "ts": 1792419373.4969072
+    },
+    {
+      "t": "18 20 ahead back band channel date evening every firestarter first league legends mus music new october out singers skin song teaser their video went youtube",
+      "ts": 1792419377.1273496
+    },
+    {
+      "t": "19 but cheated clone death every everyone everything except exceptions formerly held him his just kept killed making never old permanent roots rules shaco spells trap",
+      "ts": 1792419380.6323726
     }
   ]
 }
