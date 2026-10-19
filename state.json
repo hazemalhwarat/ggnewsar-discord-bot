@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://dotesports.com/league-of-legends/news/lec-commissioner-artem-bykov-on-expanding-the-lec-without-changing-its-core",
-    "https://dotesports.com/call-of-duty/guides/black-ops-7-warzone-season-6-week-2-challenges",
-    "https://www.vlr.gg/759716/karmine-corp-makes-melons-out-of-xlg-with-sweep",
-    "https://www.vlr.gg/759663/nrg-gets-its-revenge-sweeps-nongshim-redforce",
-    "https://www.hltv.org/news/45574/talent-announced-for-esl-pro-league-season-24",
-    "https://thegamehaus.com/fantasy-football/fantasy-football-week-3-tight-end-rankings/2026/09/24/",
-    "https://thegamehaus.com/fantasy-football/fantasy-football-week-3-wide-receiver-rankings/2026/09/24/",
-    "https://thegamehaus.com/fantasy-football/fantasy-football-week-3-running-back-rankings/2026/09/24/",
     "https://insider-gaming.com/bungie-canceled-a-game-in-2024-hailed-as-the-future-of-destiny/",
     "https://insider-gaming.com/sony-trademarks-new-sly-cooper-merch/",
     "https://insider-gaming.com/sony-matchmaking-ai/",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/27363/beamng-brings-its-physics-driving-sim-to-ps5-in-early-access",
     "https://www.invenglobal.com/articles/27373/a-truly-dedicated-senseis-blue-archive-trip-to-japan",
     "https://esportsinsider.com/2026/10/kalshi-esports-growth-2026-q3",
-    "https://gameriv.com/star-wars-battlefront-3-disney-reportedly-in-talks-with-bungie-and-eas-dice/"
+    "https://gameriv.com/star-wars-battlefront-3-disney-reportedly-in-talks-with-bungie-and-eas-dice/",
+    "https://gameriv.com/godzilla-minus-zero-premiere-wows-hideo-kojima-and-masahiro-sakurai/",
+    "https://thegamehaus.com/gaming/is-there-a-gta-6-online-release-date/2026/10/19/",
+    "https://thegamehaus.com/indianapolis-colts/indianapolis-colts-fire-gm-chris-ballard/2026/10/19/",
+    "https://thegamehaus.com/philadelphia-eagles/jalen-hurts-expected-to-miss-rest-of-season-due-to-blood-clots/2026/10/19/",
+    "https://thegamehaus.com/gaming/when-is-the-gta-6-release-date-pc-release-preorder-more/2026/10/19/",
+    "https://thegamehaus.com/mlb/milwaukee-brewers-nlcs-celebration/2026/10/19/",
+    "https://thegamehaus.com/college-football/college-football-week-8-picks-against-the-spread/2026/10/19/",
+    "https://thegamehaus.com/college-football/college-football-week-8-picks/2026/10/19/"
   ],
   "title_hashes": [
-    "cee9150bf838e79a24e299dbaca1b15c",
-    "b723623ff13529d7983fe36fe034cbfa",
-    "469fbde1f9a12f432065ff300020c13f",
-    "c295d130274dd8c5f82643d3c001931d",
-    "ca5c54d83212f23b0aa12b6f83d816ad",
-    "8b278d84f53c7a477c9c41f30bd1d825",
-    "174caa737e28c8aee826c5b9fccce865",
-    "1efa82bd5a8b94961a67f5c101cb7b08",
     "5fab12616e117543cc4410c9565ebcf5",
     "e329fccae3f5495d498631878b21840f",
     "47c8229eacb93258adbbd70b123abfb4",
@@ -16001,7 +15993,15 @@
     "46bc32d60cc752983002259d2e1accae",
     "148603ec6c366a384a2b45009422fe0c",
     "f9a462364b92b21afe9cb80af8b2fe99",
-    "7b6e724ab6fa10ae1ee1d6bf37e6fb7e"
+    "7b6e724ab6fa10ae1ee1d6bf37e6fb7e",
+    "d0b734576d4e270b3687e6c27636d7a5",
+    "d2ed4ba9aba96cbfdb30f629108d4f1e",
+    "b7581b83b6e145961b5005e3d2c56a3d",
+    "b5c816a222cadc5452b3ba0fae325d5a",
+    "8a596c572bdc764908359201078f942d",
+    "c98c8750ea590701e44a0c6ab91a0a04",
+    "d98919d3880ed72049cbb3cfa9542de4",
+    "3ab6e917984ce832732394b4c1ad79c7"
   ],
   "transfers": {
     "pages": {
@@ -21104,6 +21104,26 @@
     {
       "t": "3 according attributed battlefront behind bungie conversation dice disney fresh gaming grubb has insider jeff part report reportedly rumor speaking star talks wars",
       "ts": 1792439884.8117723
+    },
+    {
+      "t": "after ahead attending biggest earned enthusiastic film gaming godzilla has hideo japanes kojima masahiro minus names premiere reactions sakurai screenings shared their thoughts two wows zero",
+      "ts": 1792439890.2677069
+    },
+    {
+      "t": "2 4 8217 according adam after ballard chris colts day dropped espn fire fired general have indianapolis just loss manager scheft season tennessee them titans",
+      "ts": 1792439893.7426755
+    },
+    {
+      "t": "8217 according after blood clots discovered doctors due eagles esp expected his hurts ian jalen lungs miss multiple network nfl philadelphia quarterback rapoport rest season",
+      "ts": 1792439897.2668343
+    },
+    {
+      "t": "8 against can college easy football games here make makes mismatches pick picking picks sometimes spread sure tougher week what",
+      "ts": 1792439903.2938123
+    },
+    {
+      "t": "8 all check college content every fbs foot football games here like make more our out page picked picks season sure week will",
+      "ts": 1792439906.7388883
     }
   ]
 }
