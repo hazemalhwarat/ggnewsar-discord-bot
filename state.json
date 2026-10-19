@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWm9WdTJlLU5BUGsxekRYdHpibHFWcW1aRUNPeEI4eTJPcVRGSzJ3ZW90cm5yZ2htbEV0d1pjdm9JQURxaUlTREl1THJEUmFMbDRodUZmS1NIYXhtQVItZGYzZ2ZLNzFlOFUxN2dnRHlaYWExZUpQNWxvbkVnanlsTF94NjJuTW5jVXpuaU83a0lPYVItcWh3dWk1UnpMaGo3RV8wRXhyNllDeXJIV18xNkFyOXQ1WHkta1ZxWUJLa1VMZ3pt?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPbHNuakZWNUNCMzVfWlUzY2hMbTd1akhMOEhIazF3LUtBaDg4OHNmaTFyYk8zd3Z3OGJIdHJyX0o2Mkd6OVU5ZURCVXhFZm02cWtzQko4QU12eWNjWkcwQzBvcVJETkR6REtrVlppMA?oc=5",
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qYWZKMEZEU3NwYjJZdnRiTUxlNzNnYWxnT3FqZjFicWZ2WnpsTTBCb2VmUmtmRG1FYkxNY3AxaUdidEU1dVBWWkF4c29rb1pp?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE5tSU42akJGNlgyQXAwbmw5empXbUhlejRCdkhTM3BmZmQ4azM4eThzWDVGNWZlQzVOUllnSms3WWQxYnNLQzhxMElHRWs3NjZLRnhUbWxQTHJvRUIwWmF1Vi1DRlQ4RXZrUVR0enFGTm1lZw?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DV3UwRE9OeXd1MU9NZEhDM1FrdGkwQ282YlV6MGVzRkZzc0x5eXQydU55cFlVTXBjTHdTWW5BM2Z3ay0zZGJ2aE1tM3F0Mnl5SExNOC1RYnhrQ2lTekFLM3R5OU1zbUJUUi1pcXZWV3NnQ3Z3UHc?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa255WkFHTE9fbnVxbHduYWdSNGh6aHI5b1B4T2tjRGVZQmtrZFhmY0I0MVhwcUJ4bFlPclJGZ3h4U01iRmp5czBMTDg4dzZjSEZEQ1NfUVZOMk1NTnJmMFFSNWJza3o3THFPaWZpV3Q4QVdNRGlfOU9KZko3bElCU0JFejRYZkUyU1BhMjdxUVBZYjBfREhzaVh4dEU5czRDVzVCMXN2TQ?oc=5",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZzBKOVl6cXJkVWFzRlRERldqY3FESWtxUlBhLU9TX0s2ZnpKM0htbmpWazQ1R1BndjV6UW9qVVJOb3ZBNnJWV0Eza0k5NUw3WS03eHBZem16ejRPajhaT3FyVGotOHAxd2ZZczV6OHVOY0N1aHN1ZUppN3lrNFFFOVVKSm1NTkhTbV9iS3c2VlFxbUI2V09VUmdQZm0tYUZRcnd5Rk95MEs1WHd0bHJSdzJGX0Rqa0dRdkFSc0FEdWdSM2pGWEhPWkJudw?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0JqNmdnS0VIcXl0TWdQdld1QmtMMVdrUko2VFBaOUhyMXQ2MTUtSDRGdGJZVnNOM3BNeVhmeUlfT0pkWldUNkpERUpTUHFad2lRNmNKTGZra1laMTFaRmlHVTd3d3dSdWNNemFVZm9tcHd2WFZBN2htOGVJWi11MXpndVAydGVGTy1velNaZU54dHA4TU9rVTVOUGhfTXA0dXFjQWJYS1Vxa2dJSVE3RA?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDcyQnlhR3VZcExJZkxXRlJxZGFlZ0Q1QVhaVzgtTXlYZFhxMW8yWXphUEgyWE5mS3N6dnZ2RWstTFFwdm9xRWl1MkxtNDdKa3E0dy1jZjFuTXhINjFqRzNVZmYzLWV6RngxN1lvaUdiS3kzcHRGbTB5MnVuRHFyN1kwOUwtZXM2NVpKUzJ4LTlZT3J0bWtsYjF1eTJOZ19w?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DWktzVmp6WkJVV1FJbnNJSVczc1RlaFJVczYzeG94S0FJQlhCVWhZNkVJdWRueFlOd3JLWmtlaWlZa3NWV0FBMmRKbjk?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZamprTXZUZlp4Z2JkT0NlQVFKaWF0aGlnZjlFaU9lZVNTVFVlN21wTDRkazdBSElqdmhPYlJQUmpjLWJCd1BXSFF0N3VmWlhJRHBVdjZZejJWNUdXdTE2QXhadEdtZw?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OUGV4T0VQSXhSTHhOUjdBckhuSmQ5bklCN1lOaklVdGxsdnFGQXRVMlpHR1ctc0FGa2tzYVRhNHp3d1ppNjFSbnRZWUkyRFczN01PN2wwT0NFMzVDQURlS0g4R2VxQXVqLUFBelhhci1TVXFMajRz?oc=5"
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OUGV4T0VQSXhSTHhOUjdBckhuSmQ5bklCN1lOaklVdGxsdnFGQXRVMlpHR1ctc0FGa2tzYVRhNHp3d1ppNjFSbnRZWUkyRFczN01PN2wwT0NFMzVDQURlS0g4R2VxQXVqLUFBelhhci1TVXFMajRz?oc=5",
+    "https://www.invenglobal.com/articles/27353/smash-giant-fruit-with-forks-to-make-jam-stick-a-fork-launches-october-28",
+    "https://www.invenglobal.com/articles/27352/kakao-games-holds-han-river-otter-conservation-trip-with-employees-and-families-to-preserve-biodiversity",
+    "https://www.invenglobal.com/articles/27351/nexon-holds-player-invitation-event-for-maplestory-m-10th-anniversary",
+    "https://www.invenglobal.com/articles/27350/dark-fantasy-turn-based-rpg-billy-the-hero-releases-demo-at-steam-next-fest",
+    "https://www.invenglobal.com/articles/27349/kocca-to-hold-game-culture-festival-2026-at-bexco-exhibition-center-2-during-g-star"
   ],
   "title_hashes": [
-    "240b8cb38c87f8ae393b4b8c86580afe",
-    "cbba6f84b2ed6d018e3703e2eed3b613",
-    "5b0dd3fcade7a918bde8467051db1f5c",
-    "e46978886221bb5aecaefea867452cbc",
-    "d7a4564c7854537598afb43a100c9ce0",
     "1b2ba306a16bc0b8e87145629522c1bd",
     "b5369af2df0cf790c54e882e6262029d",
     "d628703957d947bf33009692b1a76094",
@@ -16001,7 +15996,12 @@
     "0ba57e2ea8123fbc7a0083df61fd5c6a",
     "63ce5df4a6b95d049b47c7d6b67e7c4b",
     "8b02bd59e17d9bdd55d2082ad0ad8274",
-    "d733888221d54063b81d902891f1b4f4"
+    "d733888221d54063b81d902891f1b4f4",
+    "452a7b05cdaa540ebb7a6cde67387375",
+    "6b814a5cfe86a11e8b92080821696c13",
+    "202c8c53bb8dae5a6d987b36da5eb111",
+    "bc1c06ea57493eb99898620e77f4d8f3",
+    "ed36498ee7ea318e96ba7f57fbaf23bc"
   ],
   "transfers": {
     "pages": {
@@ -20710,54 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "18 6 activity after age before carrying content decapitation depicts down drugs european gta indeed organization pegi published rated rating reportedly sexual shortly snorting summary taking",
-      "ts": 1792316064.6782298
-    },
-    {
-      "t": "2 27 37 40 500 9 900 board care circuit console consoles cpu does fees going increasing involving issues japan main nintendo not power raises repair repairs rise such switch take turn when will yen your",
-      "ts": 1792316068.222122
-    },
-    {
-      "t": "2027 after appeare babybay china confirmed consideration focus g2 options plan plans post puts replacement reportedly sato team transfer under vct",
-      "ts": 1792316072.0536366
-    },
-    {
-      "t": "appe closed during equipment hive its leaves looted paris post remaining says site stolen team trophies unrest venue vitality",
-      "ts": 1792316075.536586
-    },
-    {
-      "t": "27 agent cinematic duelist hush join new october officially reveals riot roster short valorant will",
-      "ts": 1792316079.1423936
-    },
-    {
-      "t": "1 2026 3 after bnk champions claimed cup dcgi defeating demacia fearx final global grand inaugural international invitational its korean saturday second south team trophy won",
-      "ts": 1792316084.0910873
-    },
-    {
-      "t": "2026 already avenge away back best betboom but championship chance crown defending eliminated falcons favourites final five furia grand have now one openi preview their thunderpick tournament will world",
-      "ts": 1792316087.570341
-    },
-    {
-      "t": "2026 3 8bit apex begins bmsd body day faces fan final finals gaming grand hyderabad jonathan leaders nerves painted photos pictur pictures post soul team walkout",
-      "ts": 1792316090.948293
-    },
-    {
-      "t": "16 18 2 2026 3 become bgmi bmsd check compete convention day feature final finals grand hyderabad live matches october overall place points rule saavaaya showdown six smash standings table taking teams today where will",
-      "ts": 1792316094.6267273
-    },
-    {
-      "t": "1 18 2026 3 bmsd champion day decided feature final finals grand hyderabad matches more october place points rule six smash starting table take timings tournament where will",
-      "ts": 1792316098.0962808
-    },
-    {
-      "t": "8230 appeared casino eur explained first game games measures money percentage player post return rtp stands that theoretical total wagered what",
-      "ts": 1792316103.1256492
-    },
-    {
-      "t": "after ban cash extended life playn post",
-      "ts": 1792316106.6184492
-    },
-    {
       "t": "attacked day demonstrations during esports france looted paris protests rioters steal team trophy vandalize vandalized vitality",
       "ts": 1792330492.1947842
     },
@@ -20916,6 +20868,26 @@
     {
       "t": "2027 2028 all esports partnered sheep teams vct",
       "ts": 1792374183.247764
+    },
+    {
+      "t": "28 8 active announced flowdotflowdot fork forks fruit game giant incremental jam launch launches make october officially smash steam stick that will",
+      "ts": 1792392658.369656
+    },
+    {
+      "t": "biodiversity conservation corp employees families games gameskakao han holds kakao otter preserve river trip",
+      "ts": 1792392662.0870802
+    },
+    {
+      "t": "10th anniversary celebrat10n celebrate ceos dae day event has holds hyun invitation jung kang kim maplem maplestory mob nexon nexonnexon offline organized player successfully wook wrapped",
+      "ts": 1792392665.6118622
+    },
+    {
+      "t": "announced based billy dark demo developed fantasy fest game hero indie jojojojosoft minimapminimap next participating releases rpg showca steam studio that turn",
+      "ts": 1792392669.1028671
+    },
+    {
+      "t": "2 2026 agency bexco center choi content creative culture during exhibition festival game hereinafter hold host hwi kim kocca korea minister ministry president sports star tourism will young yun",
+      "ts": 1792392672.6587036
     }
   ]
 }
