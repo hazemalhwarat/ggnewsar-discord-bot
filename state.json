@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHV6UFVrMEh0a3VITXRIU2Fuczh6T1FBdjd4SUllRGo0amludmVnVWdlNXo5eUVyN3JGOU93US1yQ01WamZNQV9DZ0tjV1FWME10M1Qzc01aMHp3YmctTWdua3dGZlhWTXBsVHlpMy1NUTBIOW5IXzFxY3B4dHFuQ2R3cl9OdXZYSXRudmdCbnBua3BsbXk2TnFiRVZaSWU5cGE0aWNCTWxVTmcxRVYwZkdEdHo5cnUxRFk4NU5VLWliSDQ?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckRpaUw3ekVBZEcyM2s3RDVraGZBOUlCVUo3b0pCZE5pVlJtWUJhNzNHUWRwdVhrSlhtWk0tTlBNbjlxOTdwMXRvdURJSTJ2eWI0bWNwZnBQSWxBcy1iN0ZKc1pQUWwzU3AtNjUzSjAxYVBVZ2tNNFNYUzBCcVljLV85bXJNTllrQy10UDhmVGowaXBkYU1zT1BXMXpkdExKbGc2c3QyTkExcEkwNzZwNjhn?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRjdrRUtkRjExUDZhV1RQZGZ1cm1DZlpPZ0VVTzF6OGx0V19PbzdkX3VXVEpLSjczRnp0WkFqYmhqZE1HZDRjTDNYMUlURjdjOTh0UGZNaDdOcFRHVXp0dnJTN1JyVWZYaU1ITUN0cEdsVnh0Y05oRmY1ZlZYWDZuY1BueW9DcW1uUEFMcW9YeTdUZlJxckZV?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmxpMS1FdkJLRElweF8wbzQtdktLdmRINDRrU192VUJ2M21rcTN2dFVIRHY3dWFWUHVwMDlieURRNmRmWGdTZjJhQ2lEOTZ5S19WVnl2b3R6bHZwdS1BQ0g5SnVzODA5LWdJQnViSTNiYWNXVlVYWE04b2pRa1pmN05Pb0xHNjcwaUg2R1BBWnBnbkoxdFE?oc=5",
@@ -7999,10 +7998,10 @@
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMTBBMmpqSTFVRm5hRDZ0X2lMTWkxbXVrNl8zLTh0Yk15Y28yRFUtTVYwamhaSjdXZXdiRVhBM2VUSFlFQ3ZTZ2dITjA2Ym5aT1Zhc2hQY2xyclppMFQxOHM0TTZXV0tlTTZUdHpYSkdfaHJUbllDRHM1YUlEYXRoY1NXWXRpcEZKalFkaUl6aW5WdnpuNXRwMzAwSDFzT1lRdFZtVkd3RXNqMncxZmZwWkVZZ0dFaERnRjYxLVNoNUFUMTF6cXZIY1BPYUNXUjRIelFCMVJR?oc=5",
     "https://pley.gg/cs2/flamez-now-has-more-evps-than-anyone-who-has-never-been-mvp/",
     "https://pley.gg/valorant/global-esports-quit-esports-to-become-an-ai-studio-six-weeks-after-winning-vct-pacific/",
-    "https://pley.gg/cs2battle-review/"
+    "https://pley.gg/cs2battle-review/",
+    "https://pley.gg/valorant/cloud9-navi-furia-and-a-masters-champion-miss-out-on-vct-partnership-for-2027/"
   ],
   "title_hashes": [
-    "d2d94cefc9ec3ebbbf0f9ec21dd409d5",
     "f4f54b216e30feb68f18ec7e3648fc5e",
     "9351c00f73660c0a9076d185506e355f",
     "79cfe6d3991514bee6b2f7b73961e0ad",
@@ -16001,7 +16000,8 @@
     "5fbc23518cff9444982d4fc52b5b769c",
     "daf41b2ca789d95e2359b6be96c725cb",
     "fff82f93f2904509a565f78723ab3451",
-    "1d95a645b0796ddd05d2da8429e06d42"
+    "1d95a645b0796ddd05d2da8429e06d42",
+    "1ed4f6d7b33e6e909776e33f55e9d3d5"
   ],
   "transfers": {
     "pages": {
@@ -21224,6 +21224,10 @@
     {
       "t": "csbattle review",
       "ts": 1792499520.7241814
+    },
+    {
+      "t": "2027 champion cloud9 furia masters miss navi out partnership vct",
+      "ts": 1792499525.967596
     }
   ]
 }
