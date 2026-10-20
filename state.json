@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hVkdtaTVBa1NOOWdrcDRWM2hBY2ZNLWxWOGdqQ0FZSVpIeVNOSEYwbENCS0tsQkREQnZzQUtJbkN6UkZDTkVVakpRakhfekh6MWtiQUwxOTF3T0pDU2N6OVdGZko?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb2ZSb1dVd0dSM2ZqTXQ5aTIxWWZSX2MxSno1cm9EWVZiXzVCTEE4OWw2eHdGLTZfcFpXeEtscHV2djRYRzRCRWJTTGlrVF8tY1pTbGF6Y0p1b2ltQjRkUGs0Uk1BclVVR2ZRVi1NX1d5ZTZGX3JzeGd4YURFbFJ6c2pRaHQzbmo4am1QZGtRdklpMU1G?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Zbjk2ODhacHRXSjE3ZzVqZmNEWWRXNm9hcWZzamMxTzhmRkQ0V2RYckxpcTVXc3o5d2g5RnpSSTNURjFUd3czUkNGbk9nUjBSSzUtSnI3TVlFYXJXeWFVbzRwWkdMay1T?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiaTk4TGVtdkdrcFNhcEJxSUJQZE11TXczZ0VOd0ljZ0VfbTJCODFrN25PMTRGRld4N1VzdmxuTUdxVWRua0lJMnozQ2UtdWRNQnNlR3NseU5GRDJyNkFRVnVObVJMRmly?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oUHdSMUhFckJQNXV6SEZ3YUtjeHZHWW9tYmNVVExTUzB5WmRLUFp5c0p5SVRrVGk4aGk2dEhERG4wNDhOYkM4RXB6OVgydw?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3pNd0w4M29NbFBwQWlzOWFod3RwNFRNOUdxUld5eW50Mml6dzBXYzBaSVcyT1MyMVBEWDBZVWx1MkdvRThGS2hRbkJ3akF4ZWFVWmFScldZdVNLczhCeVBsMGJLY2dyRkRBSUlfWVB5QkFEbzB5UTFNYjZpZ0xGQnJ2clRPOHM?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UajlBV3dKbHdrc0ozNUdvbGpZSGNoeWlsZGp4Y1pZZndCSDcwUVhPWUtZUlhKYzM5UzY5eW84V0pQYmRybTRYcUZmelNERGJIU1RxQm9tblRFaFk5c09IbFhxNWZaWkRkaEtv?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWU4d2hCRFZ4VWlwcW9fRHBTbE1DZHZyYmJ0RzN5dWd4a3VUeUVZaEVTazZtMlQzY3lnbWhVM2tnck1Qb3J1clNUV2xkbHdqbzY4U04wMEZuMHdVc2VZTEhuVk9UU3pvX1dHbDFSWWFMc2l5eTlXWkZFWFpESjdOLWZBS04yZGVkWkVaYzBqSkZTd3pFdE5mNlJuRWc2WW4yOWJQdFRha21GcTFyQ2FV?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeEpNbGg5czZkUklXN3owblJ0TjZRMWpnSmljT3N1RlYxV2JrQzFkb1BpaXg1cXdZWDRWLXNhNnBURXdhcjFNcC1RS0FkX0VuNWUyT0s1d0NocXFscVoxZlVWeEp6eVFMRE5TdkdCT25jUUN4MGRDcU92UnE1V29lZ1gwRFB4eHRUUWhoNUhzVnA?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdkxQOXNvSXdQaVZHZDNSaFFYanE3Q3JtR3FsX2NUVEVYbkw3OFAyUkVlUmxTRlBoTUwwc1d4UkpZaGdHTXJYVWZFenJtYWdDVEhRT1B3eklvZ2xkNmViR3BzSXRHZlNMMVR3LWFZTlNEcWZtUnRqRlVTSjFzRURiTzBuQ2NfVFktZ3pxSl9n?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHV6UFVrMEh0a3VITXRIU2Fuczh6T1FBdjd4SUllRGo0amludmVnVWdlNXo5eUVyN3JGOU93US1yQ01WamZNQV9DZ0tjV1FWME10M1Qzc01aMHp3YmctTWdua3dGZlhWTXBsVHlpMy1NUTBIOW5IXzFxY3B4dHFuQ2R3cl9OdXZYSXRudmdCbnBua3BsbXk2TnFiRVZaSWU5cGE0aWNCTWxVTmcxRVYwZkdEdHo5cnUxRFk4NU5VLWliSDQ?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckRpaUw3ekVBZEcyM2s3RDVraGZBOUlCVUo3b0pCZE5pVlJtWUJhNzNHUWRwdVhrSlhtWk0tTlBNbjlxOTdwMXRvdURJSTJ2eWI0bWNwZnBQSWxBcy1iN0ZKc1pQUWwzU3AtNjUzSjAxYVBVZ2tNNFNYUzBCcVljLV85bXJNTllrQy10UDhmVGowaXBkYU1zT1BXMXpkdExKbGc2c3QyTkExcEkwNzZwNjhn?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRjdrRUtkRjExUDZhV1RQZGZ1cm1DZlpPZ0VVTzF6OGx0V19PbzdkX3VXVEpLSjczRnp0WkFqYmhqZE1HZDRjTDNYMUlURjdjOTh0UGZNaDdOcFRHVXp0dnJTN1JyVWZYaU1ITUN0cEdsVnh0Y05oRmY1ZlZYWDZuY1BueW9DcW1uUEFMcW9YeTdUZlJxckZV?oc=5",
@@ -7999,19 +7989,19 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkFQWU9BcDRpMDVFbEVldWw1OUlERW1vdnlsMk5XRy1iekJSN2RySTVMY1BqRDJEaTFtaVJGbnc2YXdpMEEzOWlrdDA4VVZ0VU5nbzZ0Ny1aRW1QcGxtMElGSy1CSElhakdYS2xUODE5U2EzRlVPb2Q5U2JHWFZUbmowT281U3h3a0RBWG9MREN1LUs1aE1jcjB1cnRwTG5IejQ3VGw1dGZPdw?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEM1M21aR010c0ptYWFQelpPS29uRG95YjRldGpvUDlCUVJraEp1U05sVWctVVRsbWY3blQwR0hKR0lMRlNueUJjMGRtdmQxNVdlQ1JEdWNlak5GZXVhQlQ5Y1IzVkxSX1J0WjU0RGhEOTFGV1JlZjJHTXNrbFhBOVhZeFpoVVdjUEVXUFpGamRhNXFNMWJV?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbXpHMDIxQ3U1Ym0yYzJ4T29EOFpXS2dHa1J2cXFfNzd5U3lYOTB0Rlp4V0lKc2tUdEthdGZleFFuVGQzbDhpdEJBZ2o2WlRFckFQM3BTM2ZZNFpHQ3p3Q1JtWVlLOXlsSlhTUm5KREFEMTUtTGpWSEhYdUtWeTNaaDZaaUFVMElOWTRFQXoyNXZwanhWMnNvX1VFNkZadjU5WWlwQ2lRajZWQ0dsTWE2OGRvNkxkWF9vS05WRkxuOHJhSWtJcENhMzJKWFo?oc=5",
-    "https://www.gamesindustry.biz/japan-actors-union-announces-guidelines-addressing-unauthorised-use-of-generative-ai-for-voice-acting"
+    "https://www.gamesindustry.biz/japan-actors-union-announces-guidelines-addressing-unauthorised-use-of-generative-ai-for-voice-acting",
+    "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
+    "https://www.gamesindustry.biz/gdc-festival-of-gaming-2027-moves-to-four-day-format-to-create-a-higher-quality-more-focused-and-valuable-experience",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2hRMngxWnNTZ1ZuZDh5a3RmQ1pwLWZVM2JYY0JSMl85eGllYldZSl91RFQ5eGU0cTRydnFSWmdBYzMtc3RZV1lYaFZPZDlZWFZKUWQ2Z1hBYkpsamZRRzF4UmdFd0psQklhb1hnZmJxUE1QRkpVdms5NVZubXU5RUtlbHJ6dk9KcWpPd0pBMjNoX18tU251VEZCMVVGakY0MURGM05NTS04SXNGamNIMFJxTVhQQmxQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzlsVnd3ald0VmZBTk43TFZrRDNteFNTWXRUdXA3NnBjUjZVQmQ1cVpnLW51UXlwLVQ1cDgyMGFpUl9La3dyTV8wMkZWZ2UtT0FzY2JiVWhySXZaMUN3c05VWFJtemVuMHNicTZGMEIxZGR0X1ZmVVZfNk9RYUpGaE1VcjUxS1B6cHc?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2VSX2VHcnhoRXVhNTJaY2RkYzQ0UzNjQ2diakpvUjM2dDZhSU9jMzlYXy1yNUM1MFlOS19rbnY1VDc2YV9EV09RTXduNHhBaEl3MVM5OUR4WFVscy1rRjJQSWtRY2t2QktKTlVVdmJBRy11eENBQWQ2RHRWTmN3VjVLd0F6LXJhYkVpY25RSEJ6UXpYTXdaV25Pa3c0cjNMMEotaENn?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE54NkR1VHpJOUw4Q0pDN25HWEt3MWk2TWFuT0liaUFDeVQ3YmNXaGFhOWQ2Rkh1LUc2QnQwel80MHd4M2tYd1FKNnFVLWpsdnpiR3l0LUh0UDEzRklNMjJiVHVNZkx1QWtrR3pLNHlGelM?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMTBBMmpqSTFVRm5hRDZ0X2lMTWkxbXVrNl8zLTh0Yk15Y28yRFUtTVYwamhaSjdXZXdiRVhBM2VUSFlFQ3ZTZ2dITjA2Ym5aT1Zhc2hQY2xyclppMFQxOHM0TTZXV0tlTTZUdHpYSkdfaHJUbllDRHM1YUlEYXRoY1NXWXRpcEZKalFkaUl6aW5WdnpuNXRwMzAwSDFzT1lRdFZtVkd3RXNqMncxZmZwWkVZZ0dFaERnRjYxLVNoNUFUMTF6cXZIY1BPYUNXUjRIelFCMVJR?oc=5",
+    "https://pley.gg/cs2/flamez-now-has-more-evps-than-anyone-who-has-never-been-mvp/",
+    "https://pley.gg/valorant/global-esports-quit-esports-to-become-an-ai-studio-six-weeks-after-winning-vct-pacific/",
+    "https://pley.gg/cs2battle-review/"
   ],
   "title_hashes": [
-    "89e2293c62559f97c850dfcb4cfb57af",
-    "5cd3bf81a5d25abf26615f463fe1940c",
-    "50686cf71c3e05260246aa4813303d6b",
-    "0c602bbfd09147af5183a51e6f8d148a",
-    "4ea68cfc9a295e457dc69cf1a43813f9",
-    "3a1b7bba8a35a35b98e33f246ec1a8bb",
-    "d82a7b874b36e7e8dd271894cc83b068",
-    "58964499646fecce37e61624f93e7312",
-    "a8eedf2df862bcb8bb03658c1c8a97f3",
-    "28f1b226510a73d880f2c4453f8ad4f0",
     "d2d94cefc9ec3ebbbf0f9ec21dd409d5",
     "f4f54b216e30feb68f18ec7e3648fc5e",
     "9351c00f73660c0a9076d185506e355f",
@@ -16001,7 +15991,17 @@
     "c016ff7dc5f9913479ee3a6ee89b6e1c",
     "ee4f1fd0ade496cd518cf03a5858967a",
     "e91a838bcb85c329c06f14c277c9e0ff",
-    "1270f68c8a6a45f2a370bf907fa1c6a9"
+    "1270f68c8a6a45f2a370bf907fa1c6a9",
+    "636590dd129bca367bf5bba9fa2da64c",
+    "e11eb0551688a32a381048856f9fe2c6",
+    "90ef419c3edd0f8d589bfe8ef3ae8c22",
+    "f0639639eb3f35b984203f2f5eae96e0",
+    "7f5dc2730fbb75e355bdad319ca68ca0",
+    "f1d669e63992fb51acd8f62bdff7c35a",
+    "5fbc23518cff9444982d4fc52b5b769c",
+    "daf41b2ca789d95e2359b6be96c725cb",
+    "fff82f93f2904509a565f78723ab3451",
+    "1d95a645b0796ddd05d2da8429e06d42"
   ],
   "transfers": {
     "pages": {
@@ -21204,6 +21204,26 @@
     {
       "t": "actors address addressing announced announces generative guidelines has japan more new performances read replicate unauthorised union use voice",
       "ts": 1792499501.7719953
+    },
+    {
+      "t": "6 aaa ahead analysis between biggest compared data else everything far games gap gta how just more past preorders read sensor shows six some terms tower when yawning years",
+      "ts": 1792499507.0894387
+    },
+    {
+      "t": "1 2027 4 create day edition experience festival focused format four gaming gdc higher its march monday more moves place quality read shift taking through thursday valuable will",
+      "ts": 1792499510.6045
+    },
+    {
+      "t": "anyone been evps flamez has more mvp never now than who",
+      "ts": 1792499514.0123162
+    },
+    {
+      "t": "after become esports global pacific quit six studio vct weeks winning",
+      "ts": 1792499517.349036
+    },
+    {
+      "t": "csbattle review",
+      "ts": 1792499520.7241814
     }
   ]
 }
