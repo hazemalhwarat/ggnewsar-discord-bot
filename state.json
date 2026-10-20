@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/new-tarkov-event-battle-pass-docs-daily-quests/",
-    "https://insider-gaming.com/most-successful-esports-teams-ever/",
-    "https://insider-gaming.com/best-esports-games-ever/",
-    "https://insider-gaming.com/fortnite-global-championship-2026-duos-schedule/",
-    "https://insider-gaming.com/free-hearthstone-packs-reign-of-the-black-empire/",
     "https://gameriv.com/sony-reportedly-sent-developers-survey-on-physical-discs-ahead-of-2028-cutoff/",
     "https://gameriv.com/marvel-rivals-reportedly-faces-creator-backlash-over-handling-of-harassment/",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxONE1PbTV0RlBNUTY3NzZ2SVZEUnlCTXBzcnQwcUhRZFBUbzVTTHN6U3JJNmJ3bVo1N3Y3TG1UODIxbUpmZEx5SVpWalBWM2NEWmwySmlfMTJVQUJ0X0t6R0piZjJXRDFJWGc4VTFRYlpCLUNHYmw0aG1aVFB4aVBRYmdCbDlxNzJRTGMwR1hn?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.nerfplz.com/2026/10/creepiest-champions-in-lol-10-designs.html",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wY3drNjlpNURTZE1XV2N1S3dsNUFYZXc1ZGJTMlVpZFhrckRSbTF2VmJpVWROUUZhYktoQUg2YmdMNFFoVkhjRHUzanFEWWFHYkNiRzdvUkpfSE1ZS242aF9GZzE3b3B4SGtmYlp2WkJ0MjJaY0tnRlpPS2dzaHc?oc=5",
     "https://mp1st.com/title-updates-and-patches/cod-warzone-black-ops-7-update-2-06-1-108-released-september-25",
-    "https://europeangaming.eu/portal/press-releases/2026/10/20/216312/lcky-group-completes-royalcasino-acquisition/"
+    "https://europeangaming.eu/portal/press-releases/2026/10/20/216312/lcky-group-completes-royalcasino-acquisition/",
+    "https://europeangaming.eu/portal/latest-news/2026/10/20/216306/austria-online-gambling-licence-applicants-channelisation/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/20/216297/hipther-ai-summit-2027-prague/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/20/216292/greentube-piggy-prizes-ghost-of-gambini/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/20/216287/iconic21-halloween-pack-four-games/",
+    "https://esportsradar.gg/jack-joseph-williams-steps-into-cto-role-at-giantx/"
   ],
   "title_hashes": [
-    "51bbb2f5c381844271e21f31307e7f61",
-    "57ac12203b8979895b08e5774662a73a",
-    "1fd9cb48850024fe7573023217d1d464",
-    "5c433caac53b4b4b296ae3f843d7f2a2",
-    "3e51397bc67ef774d7574d3de47ae6e7",
     "e4c999579e894432e91e8b6b57288f04",
     "b85d7010714f69147505e223f4401fca",
     "6a55cf49d28b67568e3722f71a058f3f",
@@ -16001,7 +15996,12 @@
     "0bacf42dcd28fa651e756e4e1744b7b4",
     "aade2b044c98c3745d38dbb6481fa6fd",
     "758d248215214076951e0e4694a3f5d1",
-    "6749d4f47b5cf58dc92d31c4bebf8b53"
+    "6749d4f47b5cf58dc92d31c4bebf8b53",
+    "1ac4953e892857f8e8f5072966b4f64b",
+    "ff89947ab47ca1416921e9bb7ad026db",
+    "accfadf4e636bb5c3df15f6a61858b16",
+    "209f9f7974a149e115971e225eee990b",
+    "b6c3520f700403149909c09daffba023"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "8230 acquisition adding adds after approval august based brands casino closed completes danish deal group lcky malta online post regulatory royalcasino three",
       "ts": 1792499463.5718029
+    },
+    {
+      "t": "20 45 8230 assessment assumes austrian behind bidders bill expects finance gambling impact licen licences licensed ministry once online operators place post take will",
+      "ts": 1792499468.95771
+    },
+    {
+      "t": "000 40 8230 competition cybersecurity day days dedicated event extends hipther introduces launches new post prague standalone startup summit three",
+      "ts": 1792499472.3673117
+    },
+    {
+      "t": "38 8230 adds character feature gambini ghost greentube halloween instalment jackpot latest launches lock only piggy post prizes second slot spin super",
+      "ts": 1792499475.8197017
+    },
+    {
+      "t": "8230 across blackjack bundled crash four game halloween iconic21 individual lets lobby move operators pack post rather release releases section single slots sourcing switch than themed",
+      "ts": 1792499479.177932
+    },
+    {
+      "t": "announced appointed chief company cto esports european giantx has into its jack joseph known league legends new officer officially organisation role steps teams technology valorant willi williams",
+      "ts": 1792499482.5919108
     }
   ]
 }
