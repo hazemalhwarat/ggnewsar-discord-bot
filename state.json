@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6S0FjWjBjbk9VUjVtcGpMMkZpRTVISVV0dXp6SkFVbUJiWnVRYUx4SkJxWFMzV1BaWVR1dm9pSFJhWURyQTZ6UlNkelVSME5zb1pMd0hYUnltRHdFUlozRzFPenBJSE0?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE53Y25XNl9vWGlkNFFqRFl6MV9JYzNjYUs3cTdCcGF6RGdqeTVxc0lXaVRRS1Q3bmFfbS1vZ0xBRDhmblBJSDNnMHctbGtjZ0h2WVRDbThfY0tEUXF1RW80WmJEQzloWVR5S2c?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTRNN3o1aHRQWkVRZ3Q4YlR4RHdoRWV6VDFjSWRTWUdSOFZXLU9UQ0oyajZZYk1Hc3FiWmFHVElJTWpqencxY3pXbnZIbksyWU5BWlRXRXhKbTNBWGhQZ0F5UnZhdE1EejNGbzVLWG5mY3J0OGNtZWd5czlaNWJISy10dHJUTnRBemJ4NlY0amNhR1F1bG4zZUNQYjZKYWxGWGNaZ29uanJwdFluMl84?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnFHQVpvdFlFWVRFVm1MUVU0WEM4OG1Fa281cDFpM04tVVI4Z19hNlRwZnVwVzNfUXI0LWRSc2YwN3hHcmRJazBJcmI5MEs2ejJXalBnOGpLY1Izc2VHaWNYaG1aemFfcWY2UU1PdFhlT3dET1kyT2pxT0lZMWlFRU1uc1VzTllGaWJCWFk1X3U?oc=5",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45WjlqNEMwd3hLbVFvdW1KZ2pCLXJYMVQ5dm9Eb2FtaHRCMjR6VjhxQnNEWTVGX1lEcndqWWo5Vlo1V0piRkEwMmxNOWJSMVJEVlk5MnNhLWJpVVlUR3RRWWRUckk?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZVFvdEZKeVlkQVhFZ3RvUmdPbnJCMTBTUUFYV2ptSjliUWM2QTR4czlENG9BZGduZEZpUEFLU0JLX0lQeG8yTVBoRG1Jd1pjYUxic1NyNTU0eDVFZEFkUlRWUWdZR0VaNnRna1YyblU4RHJSdmZXeDlCX3BlaVdTd2x1OGNEYjNjSHFkYmNtSVN1QkllZE5ueUVwcXZMWVdMRW13Uw?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nOTI3dU1PYzRvQkcyTmFEdXVSV3hUWUR2ZXMyWWppZk5HQmlPR3hkaEFVUl9CR005Z1FHYmpZamZZMkhHUjcxTUN0UWRFaWtxSXh5V3MxUHVMUmFNYlFzNjdzcjdIc3FiSW85NzNCZnJVdThP?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmFXT3lUWUpxeHhoTWw0NW1XUFlCTjl6TWxreGpEMHRUZkktd1Bpc0Z0Tjhfa2REbzg2WmZNVHYwLW5PaWQxR2w5aV9MWXlKOGZjVW52dVZNaXgzdGttZ3JzQTd4NFFvUHVtN1VkaHhuTTM2eUUtN2Q1NDlqVXFiaV9mQTdZMHdkeXEwOUJLcVJ5cElrQ0xRaC1ZOHZDR1RxWEMtSlBoYlJlaGVIaGhBellB?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmItcDBZMjBOQmJsX0VfSVdNYlNqNkduR0Y4NnhyeGx0WTBlSkdlRXViZjZHYUVWN0k3RzBxV0RoSmNoYWMtbHVJQU5JQVhmUFUxR2xNcHBaTUFnUUdXSFdhQ1NkLWZ6RC1KTEl6amVMck56STJEUXNza3J2bHlldEQ1VlMybGpGaXBZdkVGYUxteDlZN3I5QXJKbDBRbU5wVmEyWWR3?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0xIdjBGWnJxc3B4amgwdE1mbGdZT0JTRXVfOHdJQmhjcklhWmlRQTNPQlM2ajJtV3RIcUFwdTB6YnBpel91c0M2UmowYkw1V1NQYzBxWjZPR0FjZ2Rmai1OcDMtdVVmakgxc3cxLThDSTZXb2lfUG1xdk44WFltN0piX3pXTXVJTUxXSU1OeG4tZUwzbHlxRTNXMl9sekVNMHlzRndEdG5iem5zUHc?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRnRxQWFsWjEwUEg1dkRkVXR4S1VlRXV6cjJzT3dicmFJZ0c4eWcteUc2dlAwTzBIZGx0Mll5R1kzVHR6SEc5Q1N3eEYyZnJ0R0lESVlwMnBoZ0w5NDY0dWFyakRrRDA3MWVMdThKakZIY3BSU0hZVmM4dG1kZmR1aHl0MUlHOGN3Q3BZdC10LW1pWGtfdDBKSTEwUllOQzdwaFMxNk9CeFZ3d1U?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/27400/duet-night-abyss-releases-version-17-update-towards-the-dawn",
     "https://www.invenglobal.com/articles/27398/golden-joystick-awards-2026-nominees-revealed-featuring-crimson-desert-and-dave-the-diver",
     "https://www.invenglobal.com/articles/27380/visitors-underground-world-of-warcraft-forevers-new-dungeon-hall-of-thanes",
-    "https://www.invenglobal.com/articles/27403/archetype-blue-a-korean-deckbuilding-rpg-heading-to-steam-next-fest-with-intricate-pixel-art"
+    "https://www.invenglobal.com/articles/27403/archetype-blue-a-korean-deckbuilding-rpg-heading-to-steam-next-fest-with-intricate-pixel-art",
+    "https://gameriv.com/ludwig-says-shopify-rebellion-should-abandon-valorant-completely-after-vct-partnership-rejection/",
+    "https://www.vlr.gg/777970/cloud9-allows-v1c-to-explore-options",
+    "https://gameriv.com/revamp-developer-calls-public-playtest-too-big-a-risk-amid-ai-cloning-fears/",
+    "https://gameriv.com/halo-burn-the-road-home-cover-revealed-new-novella-arrives-in-2027/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/bmic-2026-rosters-teams-qualifiers/",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94c1lKaEJkQUdETkcxNmhIVFhyNFpzNnpicVZmOFZMRzFVYVdaRlZzTWJIbzhUVlpvY1JyNkZfZFd2TkF1R1NaeFpLRWczNE84XzE5V1VsWkk4WElFTWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zSTd6OG5ZcHVhRnoxMHhLV3FSTmNsZHRuZklkMElGcVBPVzBJN2Y1ajBCV3VmV1ZYcXRjaG5RVkF3eGpCc2NTTTJmUWUwUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSGlDWWQwcExlRWF6NTdPX3FrQXliYkYybUkxV2ZmZDRlX2cxRWNSLTZQUlVnU1JiMjRVdjM4S2FzZ0N3NHN5eFhnTUhHeFlLdm0xV0tJS0ZQUkdMbnAzZnZfMHNVUzhRZGpaaDNVdVdObi0zR0Y0QW9jQThRQTRIUTZsZUozMWZZb1c5Y3R2MkZsaG9VMnVucFIwOTU?oc=5"
   ],
   "title_hashes": [
-    "90d4297cc2fd4c68523e0d3388d83392",
-    "4d6d62dec74b5a6e03f6200277b49848",
-    "3b0d3b1175929a772211f3a666bfb7ba",
-    "8739580d03803dff97950c273047c4df",
-    "dc7fa86a062a1b09b76a2f17dca69779",
-    "a7c8143a14ea8337213923325fac1c50",
-    "e0e76ba998d2ea3dc59959a18b8ea162",
-    "7331b1c6605f92ca5201338537f0d751",
     "3b234c4f343099dc30ca989c48b4fc3b",
     "9e2897c1dd44fa10c9116b439c448d72",
     "d0c7a7639831ede0f4ac62a1a2009471",
@@ -16001,7 +15993,15 @@
     "96ad0d5d50d1b30809dd663b8ced1386",
     "737aa17711eafd84a29cf154618e8be0",
     "a58c2728c295725bff9d1da043bf420d",
-    "0a5454c719cc97fc9da0664c5c19e177"
+    "0a5454c719cc97fc9da0664c5c19e177",
+    "93595cd4cd7a9fe72a43e88a80b3da4a",
+    "a3ee39f189b3ec154d26837809930e1d",
+    "61a865f547b9dc12e97f78d3eb549401",
+    "cde6344275244e72b1293f69ffeefac0",
+    "0f222eb740d6d5b020acbe7cb1d6c6db",
+    "22384709d743fe3c6fb0a4b35b2e10a6",
+    "cd00d50d0eac02a1e188013d0c828fd2",
+    "5d5f8d1cee43bd1b7dc98afd8e6ebf7f"
   ],
   "transfers": {
     "pages": {
@@ -21288,6 +21288,26 @@
     {
       "t": "abilities along archetype art before blue bring character deckbuilding don even fest find game heading immediately intricate just know korean like next pixel play role rpg sometimes start steam their they want way what yet you",
       "ts": 1792479504.741595
+    },
+    {
+      "t": "abandon after blunt called completely criticism delivering esport games has investing keep leave ludwig organisation partnership questioning rebellion rejection riot says shopify should streamer valorant vct whether while",
+      "ts": 1792479509.9192457
+    },
+    {
+      "t": "allows cloud9 explore his options second stint v1c wraps",
+      "ts": 1792479513.3308735
+    },
+    {
+      "t": "2027 arrives burn cover created fletche former franchise halo has home illustrated internally jack kenneth new novella peters revealed road senior studio studios upcoming writer",
+      "ts": 1792479516.8519049
+    },
+    {
+      "t": "16 2026 all big bmic each every five head here indian japanese korean left mumbai names out players post qualified qualifiers result roster rosters side six teams that",
+      "ts": 1792479520.3713288
+    },
+    {
+      "t": "20 2026 ahli esports fraternity market nbsp october prediction robinhood",
+      "ts": 1792479523.8771956
     }
   ]
 }
