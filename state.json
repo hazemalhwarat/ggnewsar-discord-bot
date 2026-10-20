@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/satya-nadella-praises-asha-sharma-xbox-reset/",
-    "https://insider-gaming.com/everything-revealed-minecraft-live-2026/",
-    "https://www.hotspawn.com/dota2/news/pgl-wallachia-season-9-final-day-predictions",
-    "https://www.hotspawn.com/valorant/news/valorant-champions-day-4-predictions",
-    "https://www.hotspawn.com/valorant/news/riot-valorant-champions-shanghai-tech-issues",
-    "https://www.hotspawn.com/valorant/news/valorant-champions-vitality-loud",
     "https://www.hotspawn.com/fortnite/news/fncs-globals-day-1-results",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkdYb1Bnc0xwUHl3VEpfdzl0b1NiektrekMyT1pvcWpuZUNHem93WFlJblZuU2k3bFpVcHNCcGk4N0hTbERTSXI3VUhEYkdSRkdQX0ZycEtQSzBNekVaVXVxdi01SDBYUkc1SFVsaFdINm1lNkpyUE40cExlVkZTd0VMZWY0M3hHY2lQVw?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHkzdDl0Vm51YmRrc1VtLXl0UkZkWU10eUJFZVlTWkNkanNOckFxNmo5ZkhRUmdMb1hiOXdob3d1M0xNTlI3Nk5zNl9PQVJkaW1HeGUwdWlvRUFXaE0zaFVpQmhYbW1qMGhhZVkzN3RxMDhZV0RUdHdOdHRCczNadk0tTElOcTl6Y3VydnQ0eWdoSnNUT2xxYTBR?oc=5",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/27428/fsr-41-coming-to-xbox-series-x-multi-frame-gen-planned-for-project-helix",
     "https://www.invenglobal.com/articles/27427/ayn-unveils-odin-3-portal-will-it-deliver-more-than-a-generational-leap-in-chipset-performance",
     "https://www.invenglobal.com/articles/27426/arc-raiders-pve-test-logs-more-than-30-million-rounds",
-    "https://www.invenglobal.com/articles/27425/a-game-about-digging-a-hole-together-launches-december-4th-with-xbox-game-pass"
+    "https://www.invenglobal.com/articles/27425/a-game-about-digging-a-hole-together-launches-december-4th-with-xbox-game-pass",
+    "https://www.hltv.org/news/45762/bbl-and-betclic-qualify-for-pgl-bucharest-2027",
+    "https://thegamehaus.com/nfl-draft/2027-nfl-draft-biggest-fallers-so-far-in-the-college-football-season/2026/10/20/",
+    "https://thegamehaus.com/nfl/nfl-week-7-picks-against-the-spread/2026/10/20/",
+    "https://thegamehaus.com/nfl/nfl-week-7-picks/2026/10/20/",
+    "https://thegamehaus.com/nba/hornets-sign-brandon-miller-to-five-year-209-million-extension/2026/10/19/",
+    "https://insider-gaming.com/ludwig-blasts-riot-over-shopify-rebellion-vct-partnership/"
   ],
   "title_hashes": [
-    "76d11767e8592f5cd17c0cea2e87aefb",
-    "66df628053689833b737b08383c2346b",
-    "275ba0fa36dc0440017901cc1841f81e",
-    "5fbaa8d571071bf8b1a27f226f6f5396",
-    "a14fe4f90a530f76219f3d8d29049bbe",
-    "1f7a8044f71e8cbb77b1d2188bd914df",
     "8abf940f4f019386003278ffcd6484bc",
     "46abd923c25c427712579bf75c0b14c6",
     "b8e4856df31d8f16c26236f1904fa91d",
@@ -16001,7 +15995,13 @@
     "6d67a7472fbb3919bdcbc08429a06881",
     "c81747012534a1447b4283066b524432",
     "d2faa52b6191bdbb5fa565a492b9324f",
-    "cced47490a446fc01f24eaa300bd2e62"
+    "cced47490a446fc01f24eaa300bd2e62",
+    "26600efca4ac2f46f44b2e09b5d23c39",
+    "06e39b8f02beac117013575823773756",
+    "01ab39bdd6ade6e611076a83ebe5d8fd",
+    "698b24bf98197bef45980d32d71466d0",
+    "f6d85b021acf85dd6878fb656bf85fb8",
+    "a5710b2db812dbef5563c6efd769bc61"
   ],
   "transfers": {
     "pages": {
@@ -21088,6 +21088,26 @@
     {
       "t": "4th about announced based december developer digging follow game games have hit hole indie launches mipumi operative pass publisher rokaplay that together vienna viral xbox",
       "ts": 1792529287.2136683
+    },
+    {
+      "t": "2026 2027 arch biggest college draft fallers far football have here hurt its manning midpoint nearing nfl prospects season several stock struggled their this",
+      "ts": 1792529292.9749882
+    },
+    {
+      "t": "7 against but enough even games hard here nfl picking picks season spread spreads straight tallysight tougher week",
+      "ts": 1792529296.502115
+    },
+    {
+      "t": "7 articles can ditullio each even games here his joe lik make more nfl our page picking picks season straight tough updates week will",
+      "ts": 1792529300.0623915
+    },
+    {
+      "t": "209 8217 according agreed brandon charania charlotte contract entering espn extension five forward fourth have his hornets lea miller million rookie scale shams sign year",
+      "ts": 1792529303.5892496
+    },
+    {
+      "t": "after blasts changes cked claims has ludwig misses out over owner partner partnership post rebellion riot shopify streamer team them twitch vct",
+      "ts": 1792529307.2453146
     }
   ]
 }
