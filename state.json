@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzFhdmIwOVBudkoxQUxMSkxuc2pfSEVzTEwyNVpSc1dKekNLRVFma2FOV1VnMnIybHBqSkNaMkQySmZEQjF3QmwzX1FMNVJ6WjA4SklITnpnbUlRbVNGOG5OZHZnZkpFVUxfc3l0anNTS0o1dkpVZGdfZEZsSktwTzlHZnRyXy1rVmxUeGkzZi1oNjRyZ2ZSeW5wcXR5S0lYa2NmMGZMWmFmNTlydy0zOTdIejZwUQ?oc=5",
-    "https://www.nerfplz.com/2026/09/high-roller-aram-mayhem-why-augment.html",
-    "https://www.nerfplz.com/2026/09/caps-hall-of-legends-skins-pass-rewards.html",
-    "https://www.nerfplz.com/2026/09/lol-worlds-2026-faq-dates-tickets-teams.html",
-    "https://www.nerfplz.com/2026/09/red-post-roundup-7-why-adcs-got-so.html",
-    "https://www.nerfplz.com/2026/09/antarctica-super-server-what-is-leagues.html",
     "https://www.nerfplz.com/2027/06/best-summoner-spells-in-lol-all-10.html",
     "https://www.talkesport.com/news/ananta-release-date-platforms-pc-requirements/",
     "https://www.talkesport.com/guides/lego-astrobot-free-gift-lego-playstation/",
@@ -7999,14 +7993,15 @@
     "https://www.invenglobal.com/articles/27411/lets-write-a-happy-ending-together-the-story-of-nikkes-old-tales",
     "https://www.invenglobal.com/articles/27410/just-days-before-event-uma-musume-la-tour-canceled-due-to-visa-issues",
     "https://www.invenglobal.com/articles/27409/indiecraft-hosts-awards-ceremony-for-this-years-k-indie-games",
-    "https://www.invenglobal.com/articles/27408/the-ruins-of-lordaeron-arthass-homeland-above-the-undercity"
+    "https://www.invenglobal.com/articles/27408/the-ruins-of-lordaeron-arthass-homeland-above-the-undercity",
+    "https://www.invenglobal.com/articles/27407/pok%C3%A9mon-2027-korean-league-season-1-kicks-off-october-24",
+    "https://www.invenglobal.com/articles/27406/the-genesis-war-mobile-introduces-new-character-beta",
+    "https://www.invenglobal.com/articles/27405/korean-indie-game-spookitchen-pulls-demo-over-ai-copycat-concerns",
+    "https://www.invenglobal.com/articles/27404/emtek-launches-2-slot-geforce-rtx-5060",
+    "https://www.invenglobal.com/articles/27402/archeage-chronicles-tops-next-fest-demo-charts",
+    "https://www.invenglobal.com/articles/27401/solo-developed-mobile-defense-shooter-fingerlaserx-launches-globally-on-october-20"
   ],
   "title_hashes": [
-    "c4daee5337d68419b3a1d5856e36d3e5",
-    "1246355a58e5d374132fe1824476b7eb",
-    "e6756466118d4d8d033d8fbd7027d437",
-    "a82d22f47ecae56b26e9ec490dc91f24",
-    "c3a61e26f40e7d16ad4d4c2f817be4fd",
     "e30996d0da72d60bed32bbbeaf866ff0",
     "ce8d53301726f623a3028466964928ee",
     "44b44a83b3ff8f731729e86871b1cd05",
@@ -16001,7 +15996,12 @@
     "c35159124b12ebe37907d6477f32be66",
     "177c89150402da508629cd3a0b5f7cf0",
     "56335cb6117708d6577ccef3c2661529",
-    "a221181027fe0e6eca9be615fa935ad3"
+    "a221181027fe0e6eca9be615fa935ad3",
+    "c60a12774e6f280ad9147ceade1af6c3",
+    "9e2c6b36464c31b813cd2b31f7644d5c",
+    "7f8f073fb9068dd93a120defb2b4ce19",
+    "d15454e574c2113c78f3380cd926f6c8",
+    "53edcd60c1db81936a01ff185abed728"
   ],
   "transfers": {
     "pages": {
@@ -21248,6 +21248,26 @@
     {
       "t": "above arthas below ground homeland lordaeron palace pass players royal ruined ruins their they through typically undercity visit way whenever",
       "ts": 1792479465.5468304
+    },
+    {
+      "t": "1 2027 24 25 card center coex convention game hold kicks korea korean koreapokémon league magok october off pokémon season tournament trading will",
+      "ts": 1792479470.8386214
+    },
+    {
+      "t": "amid canceling case clones concerns copycat demo demos emerged fears first game games generated has indie korea korean launch might over public pulls recent reports similar sini_ming spookitchen that upcoming ynot",
+      "ts": 1792479474.3329005
+    },
+    {
+      "t": "2 20 5060 8gb announced card d7 emtek geforce graphics hereafter inc infinity launches october palit release rtx slot",
+      "ts": 1792479477.8880477
+    },
+    {
+      "t": "1 20 2026 achievement announced archeage chart charts chronicles day demo demos edition fest hit next october opening steam top tops xlgames xlgamesarcheage",
+      "ts": 1792479481.4447384
+    },
+    {
+      "t": "20 android defense developed fingerlaserx fingerlaserxfingerlaserx globally ios launched launches mobile october shooter simultaneously solo worldwide",
+      "ts": 1792479484.9448028
     }
   ]
 }
