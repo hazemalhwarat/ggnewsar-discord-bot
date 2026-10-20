@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE01dC02TXF1Q21ERDA4bXBEdGlOVkVkYVZnUWtEekV5S1lNdWpJdFFmUlN1MmNQY0tWY1Rla0pKT2pjTHA1ZXREdVNudW9HaHdXVW8zX3hUVkkwWURQZEdHZ1J6Y21vR3pOUU5BQ041RTBiNHptbWFUMWVkai0xSWNTQ3kxcWFKWm9vRFpzLTBqLW5X?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE11cWtZdkFmd1lvWGZrb1ZBY0F1eFpydmN0Rk14dXN5WU40dTRFbUNXeWxuOS1yUEYxSG9qSmplNHk4d3NCV2tURXdXZWhEbVBPb0pRQjJBdG5YeEtSdmZ3LWNNdTFqMmNrOUJvc2QzenNJUXd4?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMDhJQXQtc2VjZG12MUtwNHh6eS11N3k1WkhJbEZPUlJOM1oydE51T3YzclRZdnExN2RObUJEWU1RMW1XbllzT3FCc3ROaTA4Z0tLamg2dTZJaUFDbzEteE5ZMVVHTHRfQkpHNGlMQXdvS0RRZm9rZkZZVUh4X21XeTFYYzlaWHdVWHI2bnpjOVFmVkNK?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTmRQa0RmcGtNSk85SWVvQlk4NDhKY3M1QmllREdHMTZoZmlvLUZrdnhaaDNGdlRhRF8zSkhaVHdINUFiaHdCLWpBMzlrOUtoRDJ5Z0tpZEQ3MTFmMUlicUNIdFNSRDBNWUZxZ2QxRTNMRDROc1gwXzgxVjI0Q09JblVDenJydFpxSVhOSjhpenRoVGFrZC01REFXOFlQU3Q0MXhTMnJUaTFhcFl3RlQzdGJB?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEFhWnZ5bjVYRFhJN1M0VV9xSDdOWm9oaFlGemdBMnhuel9DLUFGU2tYRnVDdGdaTzNFNmx6WDhxLVd4RXpJdmY2VUdsSnBSVkc3N3B4TkloRTdtMkI4alhfa3RFd2psN2I1VlIxR2RKc0tXUHR4STFPVWdSaFBIY3VSelBNaHRiZV9mLUlR?oc=5",
     "https://www.invenglobal.com/articles/26493/dutch-consumer-group-seeks-over-100m-from-epic-games-over-fortnite",
     "https://www.invenglobal.com/articles/26492/thatgamecompany-shares-dear-van-gogh-behind-the-scenes-for-sky-children-of-the-light",
     "https://www.invenglobal.com/articles/26491/super-bomberman-collection-physical-editions-launch-as-collectors-edition-slips-to-october",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27386/korea-boardgames-launches-turtle-card-sleeves-for-card-protection",
     "https://www.invenglobal.com/articles/27385/krafton-unveils-5-game-lineup-for-g-star-2026",
     "https://www.invenglobal.com/articles/27384/alphascan-launches-34-inch-3426q120p-monitor",
-    "https://www.invenglobal.com/articles/27383/archeage-chronicles-demo-available-through-october-27"
+    "https://www.invenglobal.com/articles/27383/archeage-chronicles-demo-available-through-october-27",
+    "https://www.invenglobal.com/articles/27382/cyberpunk-edgerunners-2-episode-1-available-to-watch-free-without-netflix",
+    "https://www.invenglobal.com/articles/27379/liquid-swords-to-close-following-samson-release",
+    "https://www.invenglobal.com/articles/27381/samson-developer-liquid-swords-files-for-bankruptcy-six-months-after-release",
+    "https://www.invenglobal.com/articles/27380/guests-have-arrived-underground-world-of-warcraft-forever-hall-of-thanes-hands-on",
+    "https://www.vlr.gg/777953/cloud9-head-coach-veer-set-to-enter-free-agency"
   ],
   "title_hashes": [
-    "c5cb88e0a2c760c8c8c2ae11b9890aaa",
-    "0e6437792d8ebec690178da704c27baf",
-    "8ee76462b345cabf9c5882d7c0ef4a6d",
-    "33ddb46ec1f74dacc4979131475dd642",
-    "d59d6522288120b424fcb1701a7fdcba",
     "ea1a9cde7aa0776d217bae22a468d59e",
     "346f590af2cfb8c8d0ff0b915c34fc8e",
     "ddadacebec1564d39175689fd28a5e80",
@@ -16001,7 +15996,12 @@
     "673e911889943c553925683133df94eb",
     "9f98d0ab88e6d6681e1b6c5aff62bed7",
     "789fba855bf5edef02dffd35ea16115e",
-    "b4b99d57ae842f0f59f8315ac9ac0d89"
+    "b4b99d57ae842f0f59f8315ac9ac0d89",
+    "4d37712a87432d27f8284ee416b433b7",
+    "0599719db542a38933cff50729446e33",
+    "f724bd6478930ce87ddfe906b8b5b5d0",
+    "ca04bb93c0ccb52201f19ea88a366f37",
+    "a86ee93db52db6657bcee3be2022c006"
   ],
   "transfers": {
     "pages": {
@@ -21204,6 +21204,26 @@
     {
       "t": "00 2 20 27 archeage available chronicles classes demo features fest four has kst next october part playable released steam through until will xlgamesxlgames",
       "ts": 1792461222.0348825
+    },
+    {
+      "t": "1 2 according accou anime available celebrate cyberpunk edgerunners episode first free holding its launch netflix official projekt red screening twitch watch without",
+      "ts": 1792461229.4657454
+    },
+    {
+      "t": "announced chief christofer close closing closure confirmed creative development done down following founder game had has linkedin liquid officer post release samson saying studio sundberg swords",
+      "ts": 1792461232.9610415
+    },
+    {
+      "t": "after bankrupt bankruptcy cause debut developer files founded game gone has invenliquid its just key liquid months release releasing samson series six swedish swords title",
+      "ts": 1792461236.459776
+    },
+    {
+      "t": "afte arrived auction deeprun direction entrance find forever get guests hall hands have house into ironforge lost might not only realize searching thanes tram underground unusual wandering warcraft went while world wrong you yourself",
+      "ts": 1792461240.0874617
+    },
+    {
+      "t": "after agency assistant c9 cloud9 coach enter free head set stint turned veer",
+      "ts": 1792461243.58158
     }
   ]
 }
