@@ -1,23 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXRmODZNSFBTZ3NaVGtZekNwVlJLcDRMVkNoeWZPWVBNZG5qa0FsTEVabE1tQW5uRk9lOS1HVFJLTlEwZ2Nzc0hEcXhVbWNGakViUHBUelNuWHg4bkhwcVh6SlFHWl9ZQWdyOGtvcERDUHpPOVhLSVpUQzRBazR1eHB3RzB2eXo2cF9rX19zdzBHeTY2azJKQg?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFpnTldoTVpSZ2l2dkhDbjF1YXZqYmZGNW9KMDBBTXNWOF9BNTA5U3VWT1lCVExad1RWenZVR0xOdWtuOEM5SkVDT1FtOWZ0N0NDMkxoUlI4UG1CUmxHSXh0c01VSTU5ZFZUd1VEaUlPWnVTTGlVZHBIYV9Tc2hyNlJLdWxtbjBQM2RFUDl1dlBSX2tlSFFsdER2YzBobzA5NFI5RTNIeDM?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmU4TUgwazFRczg5QkF0SjViVEdPVjNMcnNKYUpjQmtmUkg0WGg2NzloZ2hSRnV2MmZCcktNT1FVWjJkTWhUaDhoSkVFdEgtdEdHSkJ3UkdQYmhEQVQyZkpFMURKdkg1SlF0ZndkVkIxRVlWMS1QSmxHbEwwWElRTlZfdU5hY3g0aEtpeXFSNnk4ZUxJRWdVdDE5OWVKSmpzNmJRMTkzanRuZ2Nl?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORVlwbEItV014Vm11cEJ4Q1ZzdzJwUHRPNllOVUNxNzRtc1hkaEREa0hpSTNEWldQUVRRSENXQkdqRjE0b055dlc5Qndza2pzYlFxekxkVVhXa21mLXFQUG9mSWdEdnJqTnBZWmV2eThDNGZQNnMwX1VDZ2E3YUNtXzR3VEJ6aGxKWXJYLVlWWWFlRXVWcXBoa2JnNTY1NEJRM2pEQTRmRmhNekN6WjAxc0kwSFhSVHo4S1h0am1GYXo?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HY295dm82dlFQLWprMGV6R0Fwb2xwbjRneDVaV0sxdEJCWW5OZXAwWnN0VE4zMUpRWlFxd0NfQ2F1Zk5hd25Ebm1BS0pDbVRhSnNJOVhBVERfUmRmZlluS3hOMmtSM0V1UWZlZ1E1UEdpU2dG?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LTHRLdlMwc2ZZRXBlb0lUSGJiTXZlaUtDbC1xV0x0Tjlranp4NnRjUTdDbTY3Y2lvSWlZcWsyY1pGTXBVRVlSbEVUb2daNnVaRmVUeWJnaDlDaDNNWjA5TXpTTV96Wnd5QS1V?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JdkkwbWZIQ2NxdThnT1phS2cwMGdONXQ4Zm91WnduNVM3VlBVR2gyMzlJUVE2TTZDZUNpc1dQcW5FeDh1ZUdlckVjb3NETFM5clMyUWUydjJyT0hEQ25weFA4R0pfT3doUlJN?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0tfLUx3d3RJQm1jcW5jVC1SU0VIeVRMdlAzZGJjR2lBckxyV1lVTVVreWFQMHZRX3d3VVRYYVhscWRzZ2FKby1paXJYbWpoUnY2ZlRZeGw2VWw5NTNlR0NXc09NMWdNWUFyaUpTZ05RNEgxbHVpQTB0S0hjZ2xXUUxHek9vZ0lORzBNUmVIWUNwOFRwcDF0THBWTXBtay1Zb2FxV1E1MkJVaTlwYlpDQ2RPSGMzbjA?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUl1eFRtRUVFZk5mejYtMjI3OFRNQTNBUHY1ZWphR1dJcW9OMXlGM1ZPeVpMN2ZPWWV3dXNRRjZjMkR0andmNkZubVlVSVhjdW0wYXNaTjMwNWNxeVI0NXlRT0FDZTMxbmZiZVFEcnpaN2MxSXFGOUUwbW5oRm1DSzMtZGJ4akxQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamlFVzcxMnlULUpSQmFoQWpWTV9ScFVRdGRFLVRCTEctc0c5eHZxSWJsQ3J1dk9jSnhwbm9XeUFkRDVZTURjSkxnR0JPUUpFbDNoT1hTcURVLW90X1RJRW8zZ0xGZkowLWIzR2lxTFlvZEtEQlViNE5FcnY1aGlvMDl4RllQZUlVN3F3Z3BEVzNXZGRlbktV?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVm8xNllmM2xoQWNyMVRvd1pOdmdhLTJxemlzTElFNFNPdU5zaTM2WE1TSzlReXBkRGZYX3NyaURwTGhRSllTZTZSbUUzZjV1WFY0anN0bDlHQ3dQODd1SUFqaGdRRkVDZ2xxZVVmWTl1NGx6Ri15djFqeTJyQTAzRkdybTJVN1RhOHlkUm1aRzN1LXc?oc=5",
-    "https://www.invenglobal.com/articles/26504/how-did-a-group-of-41-year-old-veterans-win-gold-for-south-korea",
-    "https://dotesports.com/general/news/yuki-kurihara-asian-games-gold-esports",
-    "https://insider-gaming.com/todays-wordle-1926-hints-answer-september-27-2026/",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MeG5TQjA0ck9vQjBmS1pHX2d4WDhtXzF5WFJQTmYtSzBQN0ZMeXdXVEplRkdGdDVmVnJPNVd5aVczUEFnaW1vcXZ2bHFMLVJEYWd4djRQSDBlWWJ5c1dlMnNxbURBOFhKcmoycUlyN0dFaUNlTkNPNXlJUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT1pxUjJ2LWYyV3E3MVVuNl9GdTBkTnlOTVpKSjJXelNGZGNYNVh2OVRDX0VKb1NrbDl5dDFwaFZoNjlkNW81UkJtWHo1MDF5eElsUmxFUnJoSlhQYms2MzYzYlRNMk9YMFlIbmFORmJwS2trOU9NT19Ed2x1Wk8tRGdsVXBSdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rMGxWcXozWjVpdE80RE1MMXVkSlBUeEhVQng4aEVSLTlxNkZ0aGRwNGFIMzloTnBLYl9sNkc5OHlaZlBRWVNvRTFPYjJXTm5ZQWdzQnJpajNpOHQ0dXI3TEs4SW9fcFF3?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QM01EWm1RLVRPVDV0cXNUSEx6ZWlmYXlRSmExcGZLWmFUZUZkcFpyd3JPZ3Z3cHN5aEYtczAxUExnNXFTWVNwcktZc0lDS1ZhRlBWY2dVSW1WYzBBdXk1eDlCQnEzRWgyUTNKVjNtbG5ucC1uQUhUNEhB?oc=5",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2pCLXZ5QUttVXFzV01uS3M5WUg0bUFRN1J1aXdqSHFjNlFXSmJrZ0IwNDZGOWFLXzUyOUxoSXgwWnhyQkRNYzhKTVJUR1FZWi1vcWFTTk5RN204WHBUX01mOVRhMmNWYTFBVTBTd21FMEo5b25fb2hUbG1nLWt4QmQzeWF2QmNFNlIyTHZfNDlZNWFXVDdhMGFjNDdLNmU1QVVsUHVTa0Z4eUhiUGJTZVE4bU8yVVBDYzZLRG93?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUE0Y1d3b1VsdFM3WmJDcnNSWDZKOU5XcmtRR2N6b21mU25iQnNYR2x5N1pXeDRNRTFtb3ctdUVFOHZ6dHJQRnJRbi1yVThscGR6OGhaVHdwZERHV1RTak96aFY0QkxMZGZUMFkzd0Nrck53SjRERzdnblhnZU1xcVhIVTBEZXNuMUQ1dk02MzFLbmNFaVNjejF2V2pXbWtsb1ZaUC1sV2RXVzctbVBZQ3lBMA?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVNtcmhZd2FtTFQyVmVMVmZqclpXbzQwa0hleVF1dmdWVmk3MFBMVTdjMEhCOUZ5bURuOUdwM0I5MUJxNG5WUXRocTlyTTAtRTg2MkRfTVFiNk5yT0NTQ2xObFZrV3JyZk1iMzg5T1VyWFpEU0MwVDRTUkJld0Q2NXEwVjB4c0ZQQ3liLTlkaVNUTDl1akJ5ZFk2d2dkcUU?oc=5",
@@ -7999,26 +7981,27 @@
     "https://www.invenglobal.com/articles/27429/ea-sports-confirms-fight-night-is-coming-back",
     "https://esportsinsider.com/2026/10/blast-payment-delays",
     "https://www.hltv.org/news/45765/navi-sign-up-for-hyperx-retake-season-13-despite-pgl-masters-bucharest-and-iem-beijing-conflicts",
-    "https://www.hltv.org/news/45764/fazes-grind-continues-and-luminositys-major-chances-fade-as-draculan-playoffs-begin"
+    "https://www.hltv.org/news/45764/fazes-grind-continues-and-luminositys-major-chances-fade-as-draculan-playoffs-begin",
+    "https://www.hltv.org/news/45763/big-get-a-lifeline-alliances-major-odds-crater-and-liquid-exit-after-day-two-of-1win-private-club-s2",
+    "https://insider-gaming.com/k-da-is-releasing-a-new-four-song-ep-with-new-lineup/",
+    "https://insider-gaming.com/next-gen-xbox-could-cost-as-much-as-1800-says-new-report/",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkdYb1Bnc0xwUHl3VEpfdzl0b1NiektrekMyT1pvcWpuZUNHem93WFlJblZuU2k3bFpVcHNCcGk4N0hTbERTSXI3VUhEYkdSRkdQX0ZycEtQSzBNekVaVXVxdi01SDBYUkc1SFVsaFdINm1lNkpyUE40cExlVkZTd0VMZWY0M3hHY2lQVw?oc=5",
+    "https://www.hotspawn.com/street-fighter/news/street-fighter-6-tifa-release-date",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHlMX096d3A5R3Fsd1JHb2NWZTVYUWNab2xXNjkzbDR5bV9tVVJMMENoQnNtQlp0d2xRdnRiQVVMdjg3UTJ5RVVhUk01czZFZ3lnRkd6djNoRXBDWG1jS3lVcXRUcGZvZHF5emRPdG5NWkJreFF4bnRaT0k4a3pOTFJqYVRMc1pKQU5ZRWFSTjdKZDc1bXNFQVVTUTRKdE9PSkJZRHVEU0ppWkk?oc=5",
+    "https://www.talkesport.com/news/arc-raiders-pve-test-30-million-rounds/",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lb21aS1ZoNmNRZ2hzSG5QMjZCaUdsOExIMGc1S0twS2wzczFiV0tSSzRRai1obkZqYV9ZMUl2OERIOUZXcU40OE8tX2c3OF91Q2Jnb2tlMDZuVzFSSDZ2SnpMcjNpZEJ1MjkxNTYxSVVkTy1OQmJmamlMVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ed0RMWGx5MFd0RTluSElPVHplNllCbXZfc3gtanVwdzRjdTE5azZLNmhPOWVxOG05MnF5YU4zLUMzQ0t3dUY3UGJTMHQ0VWZxVW5hckdBOA?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDAxM2VaRXFYNlpJbzMwa25ZY2hGVHkwSVZtQVpDSDB4bU9xNTl1UTJ2OVdKYklBN1dSNkl6bUhiTnltNFZ4NWZobndKdWRrZEFabkkwZlZINHgybE1WZE5FWVBINkVwNW0xdHl0ZFY1a01LQ25NQ0lpa0k5Q1ByWG5WWVlkU21zRHdGRy1jOA?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mODRsaW1fWnZxWWpOdzRpLWlTVlRKT2lueFIxaHBFMlBvbmJtendtQUN1VW5XaUt6X3lJdlhMZ09rbE1UTmRMV01OSjRKdGVWSTNfUm9heEdTOWZIak85SDJtWjJiRXJpT2c?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1pTX29OZFo5TXd1YW5DMVJSVHFaaDJ3QWxiZFlRLVNfYVZndzlpVWZnLVVSVUJ0YkVzRFRWZFg4TXk2SjI1WkxaYzRZeEd1dFhlbTdyM2ZMS0V5N2hQWU9EV1RhSEhmVDFZRHVWVmp3ODVUZ2JXWjJfejBXdzh1N0RWZkQ2OWxucVl0UHY5bTQ3NTRyQmcwMDE2dW1aWVhiRWFELVJfNV95ZWw3cXc?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaW9wb3BXcHRfUFhyR2Vnc1lxNlFES2stSGNxcnNweWtBN182R3FkcnNCMlNTeGcyakRYTTYxZHV6RXktM3Q2eXlMU3ZRczYxRE0zWGFiYmg1d2YwNDdnNy1FWmhYQUJVWUo3c1c1LWlnT2hhMnV1ZkRFckFGZGVYaEdPYk0tbEttOXNjdTVMYVZUdw?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQkpWSjRMSlN0azhtM2ZSUmpKWGZOVHVuUGFFLXBRM1BQcmQ3am90S1YzTXZDdDRxZ24wVFgzMzJCUThwdXFvQ2QyWWphc0hiTkFwRTBQRnAyV0hkYnVhZzVKZE9yUElIZ2kxSzV4dEZtSkg2ODVfVWJfRnI1S3UtNmFCcGd5a21wVDc4cHprdWtLVTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY09LLVNfUnQ2VkhZaUtlem1aLXhHWEw4amtheVhQdFZfMnVOTGxjRzhqVFY3NmZYVFBoWDBRNDJkVlotZ1RkbVhBVmlvaUxtcV9PZVNvTk00d2JHdEswejhRcjhUa1RTZlpFMUZ3eTBlTDZmQVZjVW9jSlo2S3BFbk1vR0pQckhsVGJnMENPQlBHNHJjWTU1NUNDUmMzUEk?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5pSVNUb256UFVaUWQ5X1N4ZmtScEtzTFJhdW9LTU9lYVREMzNocGNRd2o4Q21uaHZMN05YWFZQZkhPc1dnWEI3N1o2MGlIRlhvQlZZM0l1ZlZVZUIxcGl2VHB0YjVzUXFNTTlFaVdXOE44QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LUk1NNHowSkVreFV0OHhzWGViUHJFWUMtQWhyYVZRZlpXckRCaElGT1RhM09GM09pMnUycHViN2ZPaTM5YTFBVUU0b0pVVlRBdTdJSmFoY2VFUHZMWnZVN01WNFJ4eklyaE5UaG52NDd6Z3JwVzdsWjVFanY?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXhhbDhITmNYTFhsMlNiNzRvTEJ6T2d3cmc0bzZoaXpGODZfV1NEc1N1MFBpamdNX1dhcXFDUEEyQXBZX3ZVRXNPZnBEZXowcnFJOTEyZkNoOVMwVVFfWUc4OUkteURGMjAwU21kblZ0VzNVWkVCT1NVOEhpSVltQURjOUcyT0NObHlzT2x0Q3d2QjlQTUQ3STJ0dFRiX1NVWVFHRTVWcFRzMXNNMllKUDlYNA?oc=5"
   ],
   "title_hashes": [
-    "0c6983772ff491056a6579e1f227672b",
-    "a47604da6277f737e39f57737992254a",
-    "59a581ddda3f7ddcd26cba84ef8f125d",
-    "10f3675d638dfedba4bee5720facd984",
-    "5c8c4decbc2488dc64a528624618198f",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "b76c7a0d10f0b947cba53a51f15f3c61",
-    "245326ed26bd696f4cabff9b31b7b23b",
-    "b0461794ccdf76485c054e2711db223b",
-    "9a82544083c69948f6cead058ce1b6bd",
-    "834f8a92829ebd8c0b74ff131876f6ad",
-    "4341e9ece728560fa4979b1be019a7f6",
-    "9c722188d8685abab8c1da959420eae5",
-    "2067ad01c01adf619dae8af9c194fa39",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "12274846d34732e1f229f78ae563108a",
-    "868fd55c39f038906487773e4647105c",
     "1f25900d94fba7bb59bcdb96b6a4302b",
     "52186fb847bea7ff46ce333c6e1e961d",
     "be50ec2c726e418aabd592b12c4507f6",
@@ -16001,7 +15984,24 @@
     "80e5e1946fd0342798ed2c361d3840c8",
     "902e7d443fb616fc574672b44f704833",
     "fdc40fc1ab3b703cb403848e5f836da6",
-    "6fe56aa9eff4e37a11c5e71313cee9de"
+    "6fe56aa9eff4e37a11c5e71313cee9de",
+    "4283eaa088bb4419f20c04bf2f57493c",
+    "e99248769125d7285a3fcb8c1c049a07",
+    "8c0010a61682b193506971e6e653f659",
+    "dbaf78ad8b21204e1a63187585138876",
+    "713c96090ecff6201e7c568f7cb93147",
+    "863ff1b338ea561a41ca807efea078b7",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "834f8a92829ebd8c0b74ff131876f6ad",
+    "b1d420b598eaa2d1653c20d2ea9a6756",
+    "a1a2d8ea3e64adf3bb651491d1bc7701",
+    "0c24aeb66e5f417dcb68cfc2349b596f",
+    "92e2d428c566cbab879e9e4aa6094a1c",
+    "eced8aef197d813e8ec8eee29140c0bb",
+    "a4c3cd2957d325b90c014be86afb1796",
+    "265d8082c317a0532e079e0e8934612a",
+    "4fb57d818a27dc6607a2cd9d734f3f80"
   ],
   "transfers": {
     "pages": {
@@ -21160,6 +21160,22 @@
     {
       "t": "7 begin chances chasers continues day draculan endured fade faze first fortunes grind luminosity major mixed playoffs season",
       "ts": 1792539322.9105752
+    },
+    {
+      "t": "1win after all alliance beating big bracket but club crater day exit fnatic get have invite lifeline liquid locked major odds parivision private s2 their two upper",
+      "ts": 1792539328.2451396
+    },
+    {
+      "t": "2026 confirmed date four line lineup new post release releasing return sona song songs unexpected",
+      "ts": 1792539331.7226982
+    },
+    {
+      "t": "1800 appeared consumers cost could first gen has internal much new next post projected report says stated that xbox",
+      "ts": 1792539335.1621332
+    },
+    {
+      "t": "20 2026 30 after arc come embark end following has interesting limited million mode more new october offline played pve raiders regarding rounds shared shortly some stats taken testing than time week",
+      "ts": 1792539338.6386561
     }
   ]
 }
