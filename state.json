@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26510/bracket-changed-after-group-draw-korea-disadvantaged-by-asian-games-pok%C3%A9mon-unite-mismanagement",
-    "https://www.invenglobal.com/articles/26509/south-korea-honor-of-kings-team-eliminated-in-quarterfinals-by-philippines",
-    "https://www.invenglobal.com/articles/26508/sorry-i-couldnt-bring-home-gold-tearful-bronze-in-pok%C3%A9mon-unite",
-    "https://www.invenglobal.com/articles/26507/claimed-as-single-exchange-asian-games-south-korean-esports-gold-medal-also-shows-peeling-defect",
-    "https://insider-gaming.com/where-winds-meet-mmorpg/",
     "https://dotesports.com/valorant/news/100-thieves-beat-t1-vct-champions-2026",
     "https://dotesports.com/delta-force/news/delta-force-detonation-beta",
     "https://thegamehaus.com/college-football/college-football-playoff-bracketology-september-27/2026/09/27/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27469/lineage-w-adds-1-new-mythic-spell-opens-battlefield-zone-13",
     "https://www.invenglobal.com/articles/27468/mcst-steps-back-on-game-tax-credits-prioritizing-public-discussion",
     "https://www.invenglobal.com/articles/27467/str-mp-recovery-gloves-are-here-pirate-island-new-item-guide",
-    "https://www.invenglobal.com/articles/27466/netmarble-updates-vampir-with-new-boss-zone-forbidden-zone-of-sacred-grace"
+    "https://www.invenglobal.com/articles/27466/netmarble-updates-vampir-with-new-boss-zone-forbidden-zone-of-sacred-grace",
+    "https://www.invenglobal.com/articles/27465/indie-game-culture-festival-beaverrocks-2026-begins-advance-ticket-sales",
+    "https://www.invenglobal.com/articles/27464/generational-shift-in-top-weapons-how-strong-are-daggers",
+    "https://www.invenglobal.com/articles/27463/square-enix-launches-dragon-quest-smashgrow-half-anniversary-campaign",
+    "https://www.invenglobal.com/articles/27462/nc-launches-major-2nd-anniversary-update-for-blade-soul-neo",
+    "https://www.invenglobal.com/articles/27461/a-100-inch-screen-from-just-19cm-away-xgimi-mira-pro"
   ],
   "title_hashes": [
-    "1cfab7976d43a01ef6479da5137288ca",
-    "0c24aeb66e5f417dcb68cfc2349b596f",
-    "ff099f741da0bd48ac5497081f32979a",
-    "0edc3e4e50cd07ef50593681e00c7e2d",
-    "10086f31eb32ea1b0b15ee1539f9425b",
     "e312cf529e21560395fbb775b571bf27",
     "d3655f058130f9c202a06ff396ed6d4c",
     "51552621fcdd2f971baf228e7b7c6cb2",
@@ -16001,7 +15996,12 @@
     "9edee60b8dcb0bfe36a3a612d9671e0e",
     "4d5578dd77c37c039a5a3a2173e0b6da",
     "d5e78afa0e68c60ca7672a3acd64759c",
-    "91416ffbb445277a18bb351fc518f8a3"
+    "91416ffbb445277a18bb351fc518f8a3",
+    "3bcc0925c17535c04e88ef80e68266e9",
+    "42cae9920d2aca8113a32cd8cd5ef505",
+    "6830e50610a78951ce8f40f3da8f8896",
+    "804e4e84f5f9c20c7c4c5afdfcb1596c",
+    "f899139df5e1059396431415e770c6dd"
   ],
   "transfers": {
     "pages": {
@@ -21032,6 +21032,26 @@
     {
       "t": "21 across added announced boss compete forbidden grace has mmorpg netmarble netmarblenetmarble new october players sacred servers six that updates vampir where zone",
       "ts": 1792568168.3363526
+    },
+    {
+      "t": "2026 21st advance amp announced beaverrocks begins culture festival future game have indie lab opened sales smilegate that ticket",
+      "ts": 1792568173.3938887
+    },
+    {
+      "t": "ancient been but classic considered daggers generational greatsword handed have how ice like lineage long one other popularity queen recently risen shift spear standard strong swords top types weapon weapons",
+      "ts": 1792568176.880728
+    },
+    {
+      "t": "000 15 5 alongside anniversary campaign december dragon enix free gems grow half holding its launches ltdsquare mobile offering quest roguelite rpg smash square through",
+      "ts": 1792568180.6176136
+    },
+    {
+      "t": "21st 2nd amp anniversary blade hereafter its launched launches major mmorpg more ncnc neo soul update",
+      "ts": 1792568184.1040075
+    },
+    {
+      "t": "100 19cm away between big create distance effort enough expected first have inch increases just mira more much often pro proj projector requires screen secure size than wall xgimi xgimibringing you",
+      "ts": 1792568187.556287
     }
   ]
 }
