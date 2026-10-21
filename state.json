@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://gameriv.com/xbox-reportedly-signed-hideo-kojimas-physint-for-significantly-less-than-400-million/",
-    "https://gameriv.com/marathon-asks-too-much-of-new-players-bungie-admits/",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNjJGSVhwM1VtUkdjWWZMdFU0OHVkaUVxOVVIWWJWeTlmbEhScDNwSDVWNVYtdlY2U0xTSmNCTmp2RDUzS3hDMjZyOFRXQWY3YUE5LTRfV1VfYXVGQWJMcGJvQVpUMlg4UUF1eU9GcDlqUk8yRlVhU2ZOeG5jc29nN2hBRi10UVc3?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12LTF5WVYwa2RhUVJzMGtYWUJpNXZtZnZxS2ZJeTR1V3BJODJaSHBWVTU1YWJ0Nkp0aVRuSnBBU01BUzJydEJiTHIzdEtMLWFKMGV4NWxoOHlYdF9NVG1fLXdLVQ?oc=5",
-    "https://www.hotspawn.com/counter-strike/news/counter-strike-2-three-years-later",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PaWNOLUpFazFBeUxkYWJyMFdUeXZlZGRjd2p0VkFrMS1JZ01SNTBKV3Z3ajdHSzhrVUoxVHd6eS1YMmk5cEVncWY4UzRQc0hja3pSaE9Ja0wwRS1BaTBGa290NE0?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSlBhekhDRDMzTDZmeXlOQ0RUaEpCNzFOUzhXM1hjT1NmbkMwUFVsakZJbHJiWnotelJ5bjgwSC1YRnpGVElsMjQ2MmdWbTJNSlhHd0ZuQ1lFYlppZUxmMXdlWlU5Q0V5NlNUZDFjT3RZYkgzbHpuSGxqcTVHTjlqMUdNVTFuUFpWYnh5MDBSXzY?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OWEhMSmJOTndtX3J0clRoS1FuWkU4MEc3YTlTaTRqdUlpYVRoTmVLTWJmS1BqcWE0Q2NLRU9GcnJiWUJobzYySzg4QWJ5RnZyLVRTNGwtb0VqakpnVmxCNGZveUljMWd2ZW1jd2NvZTlURWVZWkdZ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27483/two-point-museum-adds-little-kitty-big-city-collaboration-content",
     "https://www.invenglobal.com/articles/27460/sky-island-renewal-live-new-lancer-class-teased",
     "https://www.invenglobal.com/articles/27459/smilegate-introduces-pc-payments-and-points-system-to-eclipse-the-awakening",
-    "https://www.invenglobal.com/articles/27458/mongil-star-dive-adds-new-5-star-martial-artist-character-chloe"
+    "https://www.invenglobal.com/articles/27458/mongil-star-dive-adds-new-5-star-martial-artist-character-chloe",
+    "https://www.invenglobal.com/articles/27457/nexon-opens-server-and-character-name-pre-registration-for-new-game-temppal-overgeared",
+    "https://www.invenglobal.com/articles/27456/archeage-war-revamps-ancient-forest-adds-baadran",
+    "https://www.invenglobal.com/articles/27455/akiba-lost-launches-on-steam-with-200-additional-still-images",
+    "https://www.invenglobal.com/articles/27454/daggers-and-the-blue-pirate-set-pirate-island-key-guide",
+    "https://www.invenglobal.com/articles/27453/devs-behind-lol-ekko-game-reveal-expanded-demo-for-surfpunk-at-steam-next-fest"
   ],
   "title_hashes": [
-    "9ad60ef5c0c200aee43ddf35e936e346",
-    "eac604eefe133097c15d622f722b1cb6",
-    "3cb968bf9d272609775c2dc8b6ee8828",
-    "719edf998d53e71e6693c54c853de706",
-    "68ea71952002f05c7f96563a4fc136a7",
     "1d37124216801677f86adbdb92773db2",
     "91211e5117b9bbf3ba78e8b3062307a8",
     "c409013a882af6d9fc33cea217e4a81b",
@@ -16001,7 +15996,12 @@
     "4fbc8f3ed2c57fa79ccb2f863034c4b8",
     "280a15160d4fdc4249672aa376621e49",
     "f2fa2db6d1f1fd4ea9212dc2448e1407",
-    "8796c4e6f1a38522978ab7569912cb6a"
+    "8796c4e6f1a38522978ab7569912cb6a",
+    "123860df0915ed5f67f082c44fdda53b",
+    "78e2eaa67e3dda5a58536af2db652cac",
+    "c846a889240e64029785b4d39b424300",
+    "50ae6a4e618ee4513341eb86042ee0bd",
+    "320b30cee42785de383f8684b67f95cd"
   ],
   "transfers": {
     "pages": {
@@ -21012,6 +21012,26 @@
     {
       "t": "21st 5 added adds announced artist attribute byung ceo character chloe dive gyu has kim martial mongil monster netmarblenetmarble new star that wind",
       "ts": 1792588544.2067113
+    },
+    {
+      "t": "19 21 announced ceos character dae game has hyun jung kang kim launched name names new nexon nexonnexon october opens overgeared pre registration reservations server servers temppal that total wook",
+      "ts": 1792588549.3367157
+    },
+    {
+      "t": "adds ancient archeage baadran corp forest games gameskakao kakao revamps war",
+      "ts": 1792588552.759738
+    },
+    {
+      "t": "20 200 action additional akiba announced game images its izanagigamesizanagigames launches live lost october pdt released steam still suspense that version",
+      "ts": 1792588556.2427778
+    },
+    {
+      "t": "1st 3rd blue consists daggers dungeon field floors ground guide has hunting island key launched mid monsters open pirate range set",
+      "ts": 1792588559.6994307
+    },
+    {
+      "t": "19 20 26 action align behind demo devs double ekko expanded fest game its lol next october playable released reveal rpg runs stallion steam surfpunk upcoming",
+      "ts": 1792588563.2081308
     }
   ]
 }
