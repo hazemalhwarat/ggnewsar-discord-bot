@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/fortnite/news/fncs-globals-results-2026",
-    "https://www.hotspawn.com/dota2/news/team-yandex-win-pgl-wallachia-season-9",
-    "https://www.nerfplz.com/2026/09/brand-aram-mayhem-build-phenomenal-evil.html",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSRjduRHZrNWpXZlhMTjBSamxRTGdMR3U0YURkaW1WSVNKUzJnQ0c1RG03SDhGWTZmZnd5dEV6alVXdWxZQ1IxVjJ2dUc0Ry00YldGVnNuVlhOUEFr?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE96bGJHcTdHRlg0WHdFOEJKUDZfNDFQeTF0THE4TG0xdEh3UVFMM3ZETHJ4UTRmc29UM2dJc1RnZTExWmV4WU9xc3dJWm01ZzRLSUN5Ykh4bUhjd3JCOUVPdkkwMFc4aW02RWUw?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIQUdTcnBNWGFLXzZldEJEUGt1SVdMX0RaRXhWT1hhLXpFbDhSMUI3V1lwcTdTaDktWC1KdUFPWmc4VnVIbnM1LXV4MjZHUk5yamVKQ2c5cHdUcjFTNDZ2WU1JT29kMzQzNmZN?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpbGpTTmhNejBzLXBqbm4wQXZJdGUzSWJuckJIQjgtRmRGXy1MSjJyMl9BRkZadEpVZzdLNUpmV0FxaUc5cGp1TlFPbVoxYk9ZV0pSMkQ1XzNyQUNPZnZnMm1JYTM2bTJKTU1V?oc=5",
     "https://news.google.com/rss/articles/CBMigwJBVV95cUxQclZCZUZ5MmRva3JPOWEyRE5HOTdMcERZbHB4YThqel9zUkxrWHVhY2hfdVJhaGpaZlJCaEVOaHBMc1lLM19QdndPLXNIN0E3T0NJZ0hjOVZFQmo5MzZHZ1FQeEdNLXkxckJJNUZNSllKbHBWTVh6MFpPdTUtam9GMnBjNnNhNS1abm5PaThvZlBzc3BPWlBkdFoxZU5kMUh4UEdoVmtRcE5PVE15VG1RSWhJTS1rOWhhY2FHM01lS0g2dS1ZQk5GSlhZTHg1SnNOQm0tbmRnTm8tVi05ODRCY2VtNlZSUTUyaXM0N2doOHB6NG4xZGRsWmVxck12bjhLRE5n?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.gamesindustry.biz/indies-and-original-ip-blew-up-in-2026",
     "https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data",
     "https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america",
-    "https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need-to-know"
+    "https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need-to-know",
+    "https://europeangaming.eu/portal/latest-news/2026/10/21/216439/spain-joint-deposit-limits-player-portal/",
+    "https://europeangaming.eu/portal/latest-news/2026/10/21/216435/ll-europe-gambling-commission-900k-settlement/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/21/216418/bf-games-honey-beast-exmoor-zoo-honey-badgers/",
+    "https://europeangaming.eu/portal/latest-news/2026/10/21/216382/flutter-uk-ireland-restructure-1400-jobs/",
+    "https://www.talkesport.com/news/project-helix-price/"
   ],
   "title_hashes": [
-    "b71d9c60d64185587efc5f5898cde93d",
-    "211d0942f3d670115c433978bc4c18a4",
-    "c2dff2161be89cd17e0cb02fac883dc3",
-    "1669fb46214c0bd3402705afa6f1bcd1",
-    "5510e39efe64c96b009f865db54e7b47",
     "cf66aa987dc41ff773e1aca33247429b",
     "62665c4be5b8b2d1ab5b35a4547dc204",
     "c3a2692ddd078cf91c9b7fbf0e21f309",
@@ -16001,7 +15996,12 @@
     "20bf6045797efcdb8dfe9c87dec4d8cc",
     "f7a1a31e7e2a631526a3d4dcd6c05025",
     "ca160726ecb2472f0cc4067c0a0c8742",
-    "714bf96c2d53f2bec11c08df7bcd352d"
+    "714bf96c2d53f2bec11c08df7bcd352d",
+    "1830cb489d05f44cff2461e251d35e92",
+    "92d11542c9bb04b4815b9dd06b7bd53a",
+    "71cd95d0a988e9cd7082496e1e4e0c51",
+    "6bdba0846e5a8c4565e832413c19d04f",
+    "deb7751146a58b5a548e47d0d03e65fd"
   ],
   "transfers": {
     "pages": {
@@ -21132,6 +21132,26 @@
     {
       "t": "becoming company demystifying games inevitability know leaders more need possibility rapidly rather read run than unions video what working you",
       "ts": 1792588658.6631942
+    },
+    {
+      "t": "2027 8230 appeared comes deposit first force fully gamblers into joint launches limits march online phase player portal post spain system testing until while",
+      "ts": 1792588663.6115756
+    },
+    {
+      "t": "000 18 4 8230 900k also aml amp commission delays eight europe failings found gambling harm including lost minutes missed old over pay post signs who withdrawal year",
+      "ts": 1792588667.0122728
+    },
+    {
+      "t": "8230 adoption adopts angle appeared badgers beast charity exmoor first games honey launch maker mark otherwise pair post puts resident slot what zoo",
+      "ts": 1792588670.40902
+    },
+    {
+      "t": "1 400 8230 affect amp appeared cluj cost cuts dublin first flutter how hubs job leeds market napoca part plans porto post reacted they will",
+      "ts": 1792588673.8198886
+    },
+    {
+      "t": "1 200 2028 800 according console could estimate gen helix holiday internally its launc made microsoft next price project projected reach report reportedly targeted which xbox",
+      "ts": 1792588677.2743788
     }
   ]
 }
