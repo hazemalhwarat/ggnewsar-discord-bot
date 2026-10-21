@@ -1,20 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tXzBEQ2JCM1RlNWdOQU5NSlJZWEJaU2tiODc5Q3ZfSzZPYlZUT0hXQ1hzWDBLZWR5NjlGbXhnNzBtTUZMbHZTcE1hOExQMHh2ZzZJcXowTjR4T29nanZjaktXRUVzTUZ4UFdR?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGJBOHRSMGgwdmVEc0V3TnoyRWRIMjVlekh4Nnh6OFhRRWJYZC16QVZJMFNCZlp6UlM2T0kySTFnRkZneVRueXRkSzBaQXdiX3ItRzlJMWI4M3I4VzFoSmhzMFNhNW45bFBsS3JJSWt2MUp6akhEZTRoaXhqRUZnaVhnNmVZVmo2bXdtT3N1U2xkY1VsQnZwZ3NsZW1tU3FGbDkzekhjdG01TTllSzdmX3VmQmpFUjNf?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EOU0wWkV0eFdkdUUtOGJEOTRMcWFXRmpmMUI4Qk9OY1pmVFBPZldZU1EyUXpDS3JOeFR5ZDV5VmROU3JrcDBuM3B1cHU1VXdCMlRrd1JaX0NIcGw3T1hERUVGYXpaMTRwcG1j?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE95eC1EaG1Kd0FBeXNDWTFGdEVMZnJsdUlUUG1pYXI1a1l5Q3p2dVhvYzVRWUx4RlRMNVQyWXp4ZW4ySnl6R2tRS3k1WDV2SDJFcUFNVE1IVmg3Z2RoSlVNNUtfTEgtMjdacmJn?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5WllycW51V1Jibk40XzVmSXFCU0F0S2drVXhnR2lfZlBtX1JaS0pvYlh3LXZ3RHVkOG56X0J2Yi13SkxyTEdMY1Zia3E1OWMxbkVxT2RxMjhsSFRmRUdCLVIyb3JWRUhmTER3?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmEyTXozTlBKaTRKdDVLcUdqbEVmaHhYZW84VFNac1Q0WWNVNWFSaHBlSkR0NnpsX0pZcEJlc2JTZUtlbGdib0pldU80dTFkTS1EUUhDam9qdU1JMHFwUHFKaUtlYnJOaEFjTXI5WngzaUlDZGJWQXhxRG1VTXZXaUl5ZVFtUDR4dGdjRXI3dXZSUzE3a2VEWlFxNmpaenFrR2lr?oc=5",
-    "https://www.invenglobal.com/articles/26514/to-me-this-is-f1-future-gpx-cyber-formula-returns-with-first-new-work-in-27-years-since-sin",
-    "https://insider-gaming.com/epic-games-megaverse/",
-    "https://insider-gaming.com/ace-attorney-dual-destinies-vr-announced-capcom/",
-    "https://dotesports.com/general/news/esports-leaves-asian-games-kuwait-2027",
-    "https://dotesports.com/general/news/control-resonant-post-launch-roadmap",
-    "https://www.hltv.org/news/45584/imperial-beat-pain-to-win-ferjee-in-house-s2",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2dsUWRKbTFHQldGel9sM0JFTnRFNlVjdVNDSDAxeGZCMFFFdGY0WTBxMjRlWXJOWllQdDQxQWlqM0YyelBRcklZVVowR0l3MmhydjlmVWdWT2E1SHBiTkFqSWhfSHc1RzRtRzVhS0xoT0RpNUt2NnFhT29JWHhxR1pTMDVpb00?oc=5",
-    "https://www.hotspawn.com/valorant/news/vct-cn-valorant-champions-shanghai",
-    "https://www.hotspawn.com/valorant/news/americas-groups-valorant-champions-shanghai",
     "https://www.hotspawn.com/fortnite/news/fncs-globals-results-2026",
     "https://www.hotspawn.com/dota2/news/team-yandex-win-pgl-wallachia-season-9",
     "https://www.nerfplz.com/2026/09/brand-aram-mayhem-build-phenomenal-evil.html",
@@ -7999,24 +7984,24 @@
     "https://www.hotspawn.com/league-of-legends/news/lol-worlds-2026-predictions",
     "https://www.hotspawn.com/counter-strike/news/roster-radar-3",
     "https://www.hotspawn.com/dota2/news/before-the-horn-3-every-major-storyline-ahead-of-pari-universe",
-    "https://www.nerfplz.com/2026/10/undead-champions-in-lol-10-picks-who.html"
+    "https://www.nerfplz.com/2026/10/undead-champions-in-lol-10-picks-who.html",
+    "https://www.nerfplz.com/2026/10/weird-pick-173-top-lane-zilean.html",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxONE1PbTV0RlBNUTY3NzZ2SVZEUnlCTXBzcnQwcUhRZFBUbzVTTHN6U3JJNmJ3bVo1N3Y3TG1UODIxbUpmZEx5SVpWalBWM2NEWmwySmlfMTJVQUJ0X0t6R0piZjJXRDFJWGc4VTFRYlpCLUNHYmw0aG1aVFB4aVBRYmdCbDlxNzJRTGMwR1hn?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE43bkNvQXVtSGl1aWNlZFp5eWowSXh6OURJNHlybmZabnU4eGlVekVSclhmTlNlVm9TVzBvUWR0Z0haV2pfemVCWU5KZUFsZndvSEhLWFJSdm1zV0VwSTF6SXZIQVVFQmtHeXJTYUtXYnY0UVVySU9Wckk3TQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblgta2NTa2Jsb29ybTZTWTlSdF9nT1VWWmJRZWtTeWZNaS1JYzBLSVhHdzI4eDdDbVI4R3YwODNZWkxHcWxzX0tKV3V4eklSWjVZWDhLMllKV0Z4VEtKWlBOcFAza2ZGcWU3Y3JlZkFpTkxhcVdEQzR2QXg1QkhXRVE5M1lzSE1WSmpjUA?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxNkptU1VCWGd0SEZvWkRrRGItdmVWWnpBTVNlQTk0MlhSdExDZjF2cEdSVWJfS21QaFNtakdMWExCYkRwZkxMeUVsaTZuOEpwMFd0R1gyaTQtQ05lYUMtU2dwamtmMHFSUXdNbzJ5VW1FY0lLcGdFUw?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxObmU3UW9KZFltTTZTNzBTdTR0djFrWFdZa1UwTjlGZ1VET1F4a3JrSGhGUlVsd0tERXUwMjNtNUpGMTdERUhzbGl3SVBaTTlra0FXNjZsZTJKdEl5cUhLS2lNUE5ycF96ak9ZeDFUbjlBeWpHYnJJZUFxWFZVbXZLRkpzSzZnYkJFWHhGb2tiNA?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2xUbUhHNXpwNWwyUGpWdWJnTEFETUZ1SDVDLWlEVVRIV2xWdjV4TUZXUGV1ZUlONXozMm1ERFF0VGZtRWJHeWNJbTJ3aVdPaFJVSFdpUmhFVC1FdWJPS1FRejdPMVpuVzktS1U5TVFwZzgyUlZTMDFPcTg3eGdFWmtHYlg0N0VtWFhVRzZpRGhydw?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWjRDX1pTeEdTdmVGRmRFOW1kZDhZdXFEb09pV2FIWGNEZTdCSlZSVmxlTjF6TWpkRVlCa0NxVlljUGtTcFgwWDVqN09fblJzT1E0cmc1NmtMRVJLR1l0YUdFRGdGQWFDdkFZMnF4Y0d4dGpncnlZcTdqRGxyQjZPNkZzbE9wTzFlZXgyMlZoWVg?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSWlOTjlacS11dU5LcFo5RzdEaUh6eEZiSTIzd2NFQzFBek9HN1A0aGl3UHBPTU5GN2x5RWE1c1IyakRmVlRJcmZQREhfY1ZsRHRsb1ZrVXB5cmpfbVFHdnpTNndaUTJKZVU1V2kxWGJjaHQtQWJJdGk2Y3FPNThqSnIydFZ2R2YyN2c4NkxpbktxTkxqaXdtSUZaeUZnRkZvcWl1bGxIdkNQZDQ?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmcxeC04bUkyQW01ZkJPOFlzNW4yeTdUU0xXT3JjSkV4NUVacldsaUFWLUpPRTBndUxwRmZEenlMalE4aDBrRnI0UC1ROWk3SHFxOGFSWV9Vdjdha3NHb21mdmY1Rk1yd3E2Y25vaGZtRlZpVjMxT2lXUXFXaWVrTkZsR0VVM2ZxY0h1QXVhMWZFUEtGeGlaQzJGcU95VUZMal9hZXhiLWZFcEI4Smc?oc=5",
+    "https://esportsradar.gg/gs-eye-center-named-official-eye-care-partner-of-t1/",
+    "https://www.gamesindustry.biz/indies-and-original-ip-blew-up-in-2026",
+    "https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data",
+    "https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america",
+    "https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need-to-know"
   ],
   "title_hashes": [
-    "47fee75b163814e134f4d03f4184b32e",
-    "f4f8c317c90d73fbf21207db1e096b36",
-    "9ce398b1ff9f0beca21f290f7f75b31b",
-    "f88ee6c6772681d322c002c5b431e11e",
-    "715b2ba8d9eb0aa1d27f1fcdd7ddff57",
-    "5c5263badc78e32e69394a89f5fe7361",
-    "21832683ffe3effbed89b1d183c510cd",
-    "6f7105747bed1fa626253c64761ea15a",
-    "94774a9c1221569e4a2a59a7f50619ee",
-    "13ac7653c980008608344be2a2ca24ab",
-    "b0faf6261d5fbeb3ffc2ea91bf3d7767",
-    "62ae88201ba06905876766f4ad74e8f7",
-    "5a175ba3c472ff86eddbc77541b2506d",
-    "240ce518000c945b7f1d01543d639def",
-    "9cded26e6366a800aa2a0f79d7a29133",
     "b71d9c60d64185587efc5f5898cde93d",
     "211d0942f3d670115c433978bc4c18a4",
     "c2dff2161be89cd17e0cb02fac883dc3",
@@ -16001,7 +15986,22 @@
     "36c2d61f170166f890b1df323547d02c",
     "8d4160b80df3f7b924c148b3a489c4cc",
     "6d18e34e4f121055edbc1c4ed48bad5f",
-    "693332f21042fa68eeabeb37271bf5e7"
+    "693332f21042fa68eeabeb37271bf5e7",
+    "c1795c8a77599ac6fd896f51d9d7671f",
+    "70ce11179d6236a85e4694b68d8e9443",
+    "66752052d1d39561b38cb97d5ef09a64",
+    "cc8d3b19521bc4c145ca43099a424f91",
+    "22b3427df4bf844e10e7026fc5eb6aea",
+    "b2ccd77274158bce43d34c820b57fb76",
+    "ba7038c1cb17ac54807927b6aa2e9165",
+    "d73bbed5c9dfb2db11e046db065e95dd",
+    "f931acc60553bcb161208004d8c0e2f2",
+    "e2cab824b21552acacf62c46339deaa9",
+    "79983033eeb190e039ca412e017c78e9",
+    "20bf6045797efcdb8dfe9c87dec4d8cc",
+    "f7a1a31e7e2a631526a3d4dcd6c05025",
+    "ca160726ecb2472f0cc4067c0a0c8742",
+    "714bf96c2d53f2bec11c08df7bcd352d"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "10 anyway around body champions counted dead died disposal down dying has how kept little lol most never picks playing problem rift runeterra slowed stayed summoner ten them undead walks who",
       "ts": 1792588639.7245784
+    },
+    {
+      "t": "based care center clinic entered esports eye has into korean medical named offer official ophthalmology organisation partner partnership provider seoul services south t1 under which will",
+      "ts": 1792588644.6764033
+    },
+    {
+      "t": "2026 biggest biz blew console done games gamesindustry higher indies made much ndash original proportion request research sensor shows that tower when",
+      "ts": 1792588648.1321826
+    },
+    {
+      "t": "6 according auto call competitive data during duty games grand gta its launch like losing month more most new next players read risk shooters shows sports that theft",
+      "ts": 1792588651.6462424
+    },
+    {
+      "t": "94 97 america development during form have having leaders least more nine north one production read some stages studio use used vivrato",
+      "ts": 1792588655.155711
+    },
+    {
+      "t": "becoming company demystifying games inevitability know leaders more need possibility rapidly rather read run than unions video what working you",
+      "ts": 1792588658.6631942
     }
   ]
 }
