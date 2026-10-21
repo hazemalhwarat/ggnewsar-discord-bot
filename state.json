@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/todays-wordle-1927-hints-answer-september-28-2026/",
-    "https://esportsinsider.com/2026/09/global-esports-elimination",
-    "https://www.vlr.gg/761674/fut-esports-routs-jd-gaming-in-2-0-fashion",
-    "https://dotesports.com/fortnite/news/fnaf-fortnite-halloween-fortnitemares-five-nights-at-freddys",
-    "https://www.nerfplz.com/2026/12/champion-select-explained-10-rules-of.html",
     "https://gameriv.com/xbox-reportedly-signed-hideo-kojimas-physint-for-significantly-less-than-400-million/",
     "https://gameriv.com/marathon-asks-too-much-of-new-players-bungie-admits/",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNjJGSVhwM1VtUkdjWWZMdFU0OHVkaUVxOVVIWWJWeTlmbEhScDNwSDVWNVYtdlY2U0xTSmNCTmp2RDUzS3hDMjZyOFRXQWY3YUE5LTRfV1VfYXVGQWJMcGJvQVpUMlg4UUF1eU9GcDlqUk8yRlVhU2ZOeG5jc29nN2hBRi10UVc3?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27488/thought-the-series-was-dead-its-alive-warhammer-40k-dawn-of-war-4",
     "https://www.invenglobal.com/articles/27487/steel-dagger-is-pure-ambiguity-comparing-budget-one-handed-swords-and-daggers",
     "https://www.invenglobal.com/articles/27486/psychoflux-unveils-demos-for-two-new-titles-at-steam-next-fest",
-    "https://www.invenglobal.com/articles/27485/without-season-1s-lingering-impact-cyberpunk-edgerunners-2-still-delivers"
+    "https://www.invenglobal.com/articles/27485/without-season-1s-lingering-impact-cyberpunk-edgerunners-2-still-delivers",
+    "https://www.invenglobal.com/articles/27484/la-tale-releases-realm-of-taste-update-and-hosts-halloween-event",
+    "https://www.invenglobal.com/articles/27483/two-point-museum-adds-little-kitty-big-city-collaboration-content",
+    "https://www.invenglobal.com/articles/27460/sky-island-renewal-live-new-lancer-class-teased",
+    "https://www.invenglobal.com/articles/27459/smilegate-introduces-pc-payments-and-points-system-to-eclipse-the-awakening",
+    "https://www.invenglobal.com/articles/27458/mongil-star-dive-adds-new-5-star-martial-artist-character-chloe"
   ],
   "title_hashes": [
-    "18b7bf130a9d4ff392a4eb2710a9d06a",
-    "5eb670a07b6d49c1c01ea2a40bc8a41e",
-    "493282285579c7a191a54262794e4328",
-    "8bf52228080bb499179799cc30ac431e",
-    "5302eee4da94c161fdb897d1805d3b17",
     "9ad60ef5c0c200aee43ddf35e936e346",
     "eac604eefe133097c15d622f722b1cb6",
     "3cb968bf9d272609775c2dc8b6ee8828",
@@ -16001,7 +15996,12 @@
     "84a8807ce55da6202157157128214dd0",
     "d0999612013740c2f11ceae26d5fbbbc",
     "9f1615b96a1fcf84499160140fc23433",
-    "116575078a018a5f4adc5c3dce9b256f"
+    "116575078a018a5f4adc5c3dce9b256f",
+    "4ad57165d6ae9e77704006f4b1b0b34f",
+    "4fbc8f3ed2c57fa79ccb2f863034c4b8",
+    "280a15160d4fdc4249672aa376621e49",
+    "f2fa2db6d1f1fd4ea9212dc2448e1407",
+    "8796c4e6f1a38522978ab7569912cb6a"
   ],
   "transfers": {
     "pages": {
@@ -20992,6 +20992,26 @@
     {
       "t": "1 10 2 atmosphere been completely cyberpunk delivers different edgerunners episode has impact its length lingering matches pacing predecessor released season still while without",
       "ts": 1792588522.9889042
+    },
+    {
+      "t": "21 action actoz announced applied event halloween has hosts its october realm releases rpg soft softactoz tale taste that update",
+      "ts": 1792588528.280905
+    },
+    {
+      "t": "adds announced big city collaboration content featuring has kitty korea koreasega little museum point publishing released sega that two",
+      "ts": 1792588533.685414
+    },
+    {
+      "t": "21 class content enchant inter into island lancer live new october renewal sky sol teased through transitioned update world",
+      "ts": 1792588537.2361646
+    },
+    {
+      "t": "10 21 awakening called discount eclipse ecp feature introduced introduces its launching mmorpg october payment payments point points smilegate smilegateon system while",
+      "ts": 1792588540.6785996
+    },
+    {
+      "t": "21st 5 added adds announced artist attribute byung ceo character chloe dive gyu has kim martial mongil monster netmarblenetmarble new star that wind",
+      "ts": 1792588544.2067113
     }
   ]
 }
