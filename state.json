@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26527/vice-city-in-your-hands-rockstar-unveils-gta-6-collectors-edition",
-    "https://www.invenglobal.com/articles/26524/riot-games-tft-hosts-air-force-cup",
-    "https://www.invenglobal.com/articles/26523/line-games-starts-steam-playtest-for-code-exit",
-    "https://www.invenglobal.com/articles/26526/honkai-star-rail-collaborates-with-mega-mgc-coffee",
-    "https://www.invenglobal.com/articles/26522/kuya-restaurant-partners-with-sungkyunkwan-university-festival",
     "https://www.vlr.gg/761849/qck-leaves-2game-esports-after-one-year",
     "https://www.vlr.gg/761845/mibr-allows-tex-to-explore-options",
     "https://dotesports.com/indies/guides/self-pitch-indie-games-coop-cozy-fall-2026",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27492/will-next-gen-xbox-helix-launch-at-24-million-won",
     "https://www.invenglobal.com/articles/27490/dragon-ball-xenoverse-3-a-world-where-you-aim-for-the-top-with-your-own-super-warrior",
     "https://www.invenglobal.com/articles/27501/complete-guide-to-pirate-island-quests-essential-for-entering-drakes-room",
-    "https://www.hltv.org/news/45771/qikert-pivots-to-coaching-joins-spirit-academy"
+    "https://www.hltv.org/news/45771/qikert-pivots-to-coaching-joins-spirit-academy",
+    "https://www.hltv.org/news/45770/gamerlegion-sign-shalfey",
+    "https://www.hltv.org/news/45769/jijiehao-send-faze-to-lower-bracket-at-draculan",
+    "https://insider-gaming.com/battlefield-safe-amid-ea-layoffs-revealed/",
+    "https://insider-gaming.com/ea-has-canceled-a-project-from-the-sims-franchise/",
+    "https://insider-gaming.com/ea-star-wars-battlefront-3/"
   ],
   "title_hashes": [
-    "eafeff37124b9512309f21b98bdc84fd",
-    "2a451e49981862bc042be89acd13e117",
-    "8469f09b0d57c797ee1750acab2cbaf0",
-    "7b4c9fa6fdbc5a0994243d14f0e017fb",
-    "5affb8ff81de09a37118992a43565993",
     "7a0ef17c84aa98a5381b3e907e763976",
     "b39a5b7834bf5d92c632ffeebeca3ce4",
     "0269766d8c2dd1f06df7eed53e411452",
@@ -16001,7 +15996,12 @@
     "2648fd28db220dbc63e64b816c4cffef",
     "0534287b8dd86570937ca0466f2fccb7",
     "206a07617af1997cf2d2a3077bcfdb62",
-    "bbc927fe916eb5801cfbece3774c37e1"
+    "bbc927fe916eb5801cfbece3774c37e1",
+    "c1e4940f92b49dc7e07796048d074479",
+    "f62ad262be2b339fa6c77487e11713fc",
+    "55ecc9fe23fbc9fffeadb68ae3d4ee4c",
+    "8f5656299a7039e8a8b8afec577876d4",
+    "6432a1aa0aa4afa6cc726977d9ac96fc"
   ],
   "transfers": {
     "pages": {
@@ -21104,6 +21104,26 @@
     {
       "t": "academy called career champion coaching has his iem joins major pivots playing qikert rio spirit time",
       "ts": 1792605912.3907957
+    },
+    {
+      "t": "first gamerlegion his igl international joins project russian shalfey sign",
+      "ts": 1792605918.0869098
+    },
+    {
+      "t": "bracket draculan envy face faze important jijiehao lower major match next qualification seek send standing their they vrs will",
+      "ts": 1792605921.6122391
+    },
+    {
+      "t": "8216 amid arts battlefield been cancellations closure closures confirmed continue electronic franchise has hundreds layoffs plans post project safe studio that",
+      "ts": 1792605925.0259461
+    },
+    {
+      "t": "8216 8217 been canceled codenamed details franchise game has here lotus more new post project report reveals sims that",
+      "ts": 1792605928.4945283
+    },
+    {
+      "t": "battlefront claimed dice earlier entertainment has new project report respawn rumors surfaced that this title week which will working",
+      "ts": 1792605931.898942
     }
   ]
 }
