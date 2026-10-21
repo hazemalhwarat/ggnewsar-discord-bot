@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26532/223-billion-nine-spent-in-lindel-3-growth-competition-intensifies-on-sky-island",
-    "https://www.invenglobal.com/articles/26531/reconstructing-events-through-sounds-in-paintings-korean-horror-mystery-michael-test-releases-steam-demo",
-    "https://www.invenglobal.com/articles/26530/riot-games-reveals-new-legends-and-mechanics-for-riftbound-radiance",
-    "https://www.invenglobal.com/articles/26529/esports-exits-the-asian-games-what-is-lost",
-    "https://www.invenglobal.com/articles/26528/hoyoverse-korea-creates-genshin-impact-forest-with-530000-participants",
     "https://www.invenglobal.com/articles/26527/vice-city-in-your-hands-rockstar-unveils-gta-6-collectors-edition",
     "https://www.invenglobal.com/articles/26524/riot-games-tft-hosts-air-force-cup",
     "https://www.invenglobal.com/articles/26523/line-games-starts-steam-playtest-for-code-exit",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27496/poppy-playtime-spin-off-escape-from-playtime-launches-in-steam-early-access",
     "https://www.invenglobal.com/articles/27495/video-game-history-foundation-adds-over-300-unseen-photos-of-japans-game-scene",
     "https://www.invenglobal.com/articles/27494/gta-6-switch-2-port-rumors-sparked-by-job-listing-from-red-dead-redemption-port-developer",
-    "https://www.invenglobal.com/articles/27493/stellaris-expansion-willpower-turns-ethics-into-ideologies-on-november-23rd"
+    "https://www.invenglobal.com/articles/27493/stellaris-expansion-willpower-turns-ethics-into-ideologies-on-november-23rd",
+    "https://www.invenglobal.com/articles/27491/private-equity-firms-reportedly-explored-xbox-acquisition-valuation-up-to-200-trillion-won",
+    "https://www.invenglobal.com/articles/27492/will-next-gen-xbox-helix-launch-at-24-million-won",
+    "https://www.invenglobal.com/articles/27490/dragon-ball-xenoverse-3-a-world-where-you-aim-for-the-top-with-your-own-super-warrior",
+    "https://www.invenglobal.com/articles/27501/complete-guide-to-pirate-island-quests-essential-for-entering-drakes-room",
+    "https://www.hltv.org/news/45771/qikert-pivots-to-coaching-joins-spirit-academy"
   ],
   "title_hashes": [
-    "04c37ad454bae5cb00b15213f8e56334",
-    "46c5e73950e6a23c01291a8decbc3c11",
-    "9cbab6e4a91a596ddacb29b58c2433f6",
-    "0e1b833670048aad9c4af1d1c56aa558",
-    "701082b0b4a4b7dc7a6e2e2cb1beff92",
     "eafeff37124b9512309f21b98bdc84fd",
     "2a451e49981862bc042be89acd13e117",
     "8469f09b0d57c797ee1750acab2cbaf0",
@@ -16001,7 +15996,12 @@
     "1616ea834ab04e5e3dea255ae3e8508e",
     "184034fa9c6eba12a472eb74c92a1289",
     "d13b560a9d0fbee382f9d72a184bb5da",
-    "50d57dbf2821a0fee7bbcdea7728b19f"
+    "50d57dbf2821a0fee7bbcdea7728b19f",
+    "5aebe8fd46b5b3b7302c108e54bd9a13",
+    "2648fd28db220dbc63e64b816c4cffef",
+    "0534287b8dd86570937ca0466f2fccb7",
+    "206a07617af1997cf2d2a3077bcfdb62",
+    "bbc927fe916eb5801cfbece3774c37e1"
   ],
   "transfers": {
     "pages": {
@@ -21084,6 +21084,26 @@
     {
       "t": "23rd abrakam announced ethics expansion game grand have ide ideologies interactive into launch major next november paradox sci stellaris strategy that turning turns will willpower",
       "ts": 1792605891.8401408
+    },
+    {
+      "t": "100 150 200 acquiring acquisition approx billion business discussed emerged equity explored firms gaming have microsoft particular private reached reportedly reports that trillion valuation won xbox",
+      "ts": 1792605898.652355
+    },
+    {
+      "t": "1 2 2028 4 800 approx estimates gen generation have helix holiday internal launch microsoft million next particular price project reach release reports season surfaced targeting that will won xbox",
+      "ts": 1792605902.0824125
+    },
+    {
+      "t": "2026 3 aim ball bandai dragon entertainment fest game held invenfollowing makuhari messe namco newest own presented septemb series summer super tgs title top warrior where world xenoverse you your",
+      "ts": 1792605905.527277
+    },
+    {
+      "t": "boss complete drake entering essential face first guide island map monster must pirate quests room treasure you",
+      "ts": 1792605908.9212537
+    },
+    {
+      "t": "academy called career champion coaching has his iem joins major pivots playing qikert rio spirit time",
+      "ts": 1792605912.3907957
     }
   ]
 }
