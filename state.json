@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.vlr.gg/761849/qck-leaves-2game-esports-after-one-year",
-    "https://www.vlr.gg/761845/mibr-allows-tex-to-explore-options",
-    "https://dotesports.com/indies/guides/self-pitch-indie-games-coop-cozy-fall-2026",
-    "https://dotesports.com/valorant/news/vct-americas-teams-perfect-champions-shanghai-start",
-    "https://dotesports.com/call-of-duty/news/mw4-warzone-legacy-camos-carry-forward-reversed",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBycWhwelUzNjF6NHMwRS1ocWNBaGJmSE9lOU1pSUN5VkY3eFBFS2FBY1A0bEViak9PT2dKQ3FOVnp4aUZnREowb0JYQjZrMk1GUDJhRDBHNGswX0xBOVE4NFNuMVVPQnB1Nm9ubW52RmdWLThQdlNwYmZn?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWWJ6S0lnNDNBTV9fcVJReVJRYjlrMGh4NmxVUFpEeEZVSGNubk1WLUkxRXp6VkE3RXA4Zkc4dUdnbHhBbDhUZU9Rbk1GRjNEZy15eHl4UGQ0cmMxNU54a0pnVGpQMjd0V1VGTmZleE93V0dfMEpZZm9UM0k4X3JQNy0wcDdiVGhuTGxzcUhqaFVmUXhSNEtzMHhjb2tXSXdBXzVR?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE8xenhRQzlSaVFRWG16SUNPRlpIZkZWeVpqVXZKZTM2eDcxY1Z1SjNzVDh0ZWF6bHlBZFRZZ1g3bzVOT1FGbGdoWDNtZXVBSnhZc3VrNzZHaFNYTExRZ3ZaT1RORnNFdXhPS21VQzl1eGI4dw?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/45769/jijiehao-send-faze-to-lower-bracket-at-draculan",
     "https://insider-gaming.com/battlefield-safe-amid-ea-layoffs-revealed/",
     "https://insider-gaming.com/ea-has-canceled-a-project-from-the-sims-franchise/",
-    "https://insider-gaming.com/ea-star-wars-battlefront-3/"
+    "https://insider-gaming.com/ea-star-wars-battlefront-3/",
+    "https://insider-gaming.com/mass-effect-canceled-bioware/",
+    "https://insider-gaming.com/ea-shutting-down-bioware-cut-400-jobs-across-the-company/",
+    "https://insider-gaming.com/all-stage-tour-songs/",
+    "https://insider-gaming.com/mw4-dmz-guide/",
+    "https://insider-gaming.com/gray-zone-warfare-rogue-ops-update-impressions/"
   ],
   "title_hashes": [
-    "7a0ef17c84aa98a5381b3e907e763976",
-    "b39a5b7834bf5d92c632ffeebeca3ce4",
-    "0269766d8c2dd1f06df7eed53e411452",
-    "8c2c61725238ebce4a39cca3e39c6d6a",
-    "bbc0cacf86ab81550507684eefa4c177",
     "a95ebfb89ed08677c1daa35372473b4c",
     "36b92f21bb2560e8a52d0a659f3de6b3",
     "ba39c7e58051846243e8d2ef1e91a316",
@@ -16001,7 +15996,12 @@
     "f62ad262be2b339fa6c77487e11713fc",
     "55ecc9fe23fbc9fffeadb68ae3d4ee4c",
     "8f5656299a7039e8a8b8afec577876d4",
-    "6432a1aa0aa4afa6cc726977d9ac96fc"
+    "6432a1aa0aa4afa6cc726977d9ac96fc",
+    "13926c377cbe987e7c2925553c560300",
+    "1a5e146857cdbb13cfcd3522b998b727",
+    "ab26932733198007a229db534b94b824",
+    "cd41138b31701fdb547c1341ab63e19d",
+    "cdf9ccb8b1c2add0a4136575fadbdd6c"
   ],
   "transfers": {
     "pages": {
@@ -21124,6 +21124,26 @@
     {
       "t": "battlefront claimed dice earlier entertainment has new project report respawn rumors surfaced that this title week which will working",
       "ts": 1792605931.898942
+    },
+    {
+      "t": "announced announces been bioware canceled closes development down early effect has its mass next officially post studio that title which",
+      "ts": 1792605940.7076986
+    },
+    {
+      "t": "400 across announced appeare around arts bioware company cuts cutting down electronic has job jobs laying new off people post shutting sweeping that",
+      "ts": 1792605944.1078346
+    },
+    {
+      "t": "all amp appeared artist awaits catalog every extensive full games iconic lineup post redoctane securing setlist song songs stage star studded tour tunes",
+      "ts": 1792605948.1593387
+    },
+    {
+      "t": "about actually answering complete dmz explained free guide hub including key mode mw4 play post put pve pvp questions status together what whether",
+      "ts": 1792605951.581992
+    },
+    {
+      "t": "8217 about excitement fully future game gray has into invested ops post pushed realms rogue shooter this unreal update warfare zone",
+      "ts": 1792605955.0113227
     }
   ]
 }
