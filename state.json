@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWHA2eWFJd3hOWUkyNUNlalB0M3Z6QlhhTXBkaUJLR1A3VmVkdkI2UkhKcUFIUDRNZ1laSXo5eEpHWE52QldqdjFHS2s5b2JYbVdtbEljdFotaDNkd0J0N25oalJCZzVwN3MzYTVfZUpPTUhnSVdHRHR0cllFcDNnYU5CSlV2ckRDTDBvTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ISG9rSmZscmpkaUxBY3hSNDQ4cjFhZnZUMVV6LWxON2FTNkprdUt3U2V4WkVnQmRpVTdIWDU5WTdMLVNzSnVRRlp5SWtzdFJ1NE1GT1ZtLUdWY2dadXZ5RnNKLVZyWUY2bHlveHYyQU05M21FYk9xMVZvcXRVUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTExwNHJsRllsZkc5anl3bExnc0pGeXYxMEZCbkZBUDgybTVjMnNPckdRdXl2YUtLYWNTQUYzLXlqdnVfWXFJbV84WVh5anVnS05wTURNRXZwS2xpUDU3TEcwRjFJUUlDX21PY0FsNWtid1lYQ0hZYVc5MjlEN2ZnYlUzQ1hHUlVNc0hObFFMUGtPSUNzMXlfby1kNzg?oc=5",
-    "https://insider-gaming.com/xbox-reportedly-secured-physint-for-a-fraction-of-sonys-deal/",
-    "https://insider-gaming.com/gta-6-release-date-leaks-gameplay/",
-    "https://insider-gaming.com/wordle-hints-answer-september-29-2026-1928/",
-    "https://insider-gaming.com/aliens-fireteam-elite-2-developer-cold-iron-studios-layoffs/",
-    "https://insider-gaming.com/keep-her-safe-extraction-launches-october-12/",
     "https://insider-gaming.com/pokemon-happy-meals-coming-back-mcdonalds/",
     "https://insider-gaming.com/wordle-archive-every-past-wordle-answer/",
     "https://insider-gaming.com/nba-2k27-locker-codes-all-active-codes/",
@@ -7999,16 +7991,17 @@
     "https://insider-gaming.com/ea-new-open-world-experience-football-games/",
     "https://insider-gaming.com/ea-future-memo/",
     "https://insider-gaming.com/nyt-connections-hints-solutions-october-22-1229/",
-    "https://insider-gaming.com/xbox-cloud-playtime-without-game-pass/"
+    "https://insider-gaming.com/xbox-cloud-playtime-without-game-pass/",
+    "https://gameriv.com/ea-shuts-down-bioware-and-cancels-the-next-mass-effect-game/",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWWJ6S0lnNDNBTV9fcVJReVJRYjlrMGh4NmxVUFpEeEZVSGNubk1WLUkxRXp6VkE3RXA4Zkc4dUdnbHhBbDhUZU9Rbk1GRjNEZy15eHl4UGQ0cmMxNU54a0pnVGpQMjd0V1VGTmZleE93V0dfMEpZZm9UM0k4X3JQNy0wcDdiVGhuTGxzcUhqaFVmUXhSNEtzMHhjb2tXSXdBXzVR?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZkcxdDRSc2VvTVc2U2RKRnBPYkJkR0dGLWZ0WjkwLTY4MEk3dTdKS19Pb1lEX1IzVnNoekNrZE43b0JCSjdzdnZ2V1ZyenNFLUNsZncwTm9qUUV4ZTJMbTdTMDl6TzF3aS1hbGg1N2lXcjVHdklqSVVwd0J3TC1tWi04R0FkZw?oc=5",
+    "https://www.global-esports.news/call-of-duty/cod-modern-warfare-4-dmz-player-base-new-map-boss-hunt-everything-you-need-to-know-about-extraction-mode-2/",
+    "https://www.hotspawn.com/league-of-legends/news/tes-zhuo-worlds-2026-interview",
+    "https://www.hotspawn.com/league-of-legends/news/t1-faker-worlds-2026-interview",
+    "https://www.hotspawn.com/league-of-legends/news/dk-lucid-worlds-2026-interview",
+    "https://www.hotspawn.com/dota2/news/pari-universe-power-rankings-is-it-team-yandexs-to-lose"
   ],
   "title_hashes": [
-    "6d32b3c6626be364b061f8072cf21465",
-    "dac09e88f38885ed146ca2fc1d4a0dcd",
-    "cc73ea06f9ab1f6c3b9058341e8d9939",
-    "b893605451f2782a066a57c1ef012c58",
-    "d99f31ef282f814af15abca8b27df7bb",
-    "207e9bb35a04d282c2b556f191da4a2f",
-    "3f87838e3baa2c9ea8ed4411ef1ac9fc",
     "579f9236104f2e1406fa9f6d6cd38aa4",
     "af777bcf7747b20a0a55ee9dd9dc0bac",
     "b6b925888ab0cb7b8007693865ecbdc9",
@@ -16001,7 +15994,14 @@
     "e6cb2e97f70ecec36ccba9d78ffd52ea",
     "83b8fcca51e794a6faddf2bbdbc60863",
     "8b3102c4d79393be816b3cb89808d0b7",
-    "2fa703c4caed3c1a83d03b0f986f6aed"
+    "2fa703c4caed3c1a83d03b0f986f6aed",
+    "25876480666cccd0874a816dc3a954cf",
+    "3397b5690eb291e55ed24310c5ba110b",
+    "b7f240afce6eb4381e6c0472354d876d",
+    "d8aca06d50950e188b5c36a250bab635",
+    "66cd80683651db37b6cb50bb93a501d6",
+    "6dfdd23aca508e0d74b708847890fd9e",
+    "c9c08b915277596bad1f6323fd12b742"
   ],
   "transfers": {
     "pages": {
@@ -21232,6 +21232,26 @@
     {
       "t": "3 99 appe can cloud game insiders november packs paid pass plans playtime post prices requirements rollout see test tests without xbox",
       "ts": 1792618858.8763325
+    },
+    {
+      "t": "age arts behind bioware bringing cancels closing decades development down dragon effect electronic ending game history mass more next painful point rpg shuts studio than three turning",
+      "ts": 1792618864.0772197
+    },
+    {
+      "t": "all been best chasing come conditions considering didn dream easily finally has lane not opportunity reaching seemingly show starting still substitution sudden take tes that top want wants what while worlds years zhuo",
+      "ts": 1792618867.6235182
+    },
+    {
+      "t": "13 2026 against ahead but can changed competing faker has highest his how improve improving keep level limit los match more much opening shares spent t1 takes than there view what worlds years",
+      "ts": 1792618871.0359092
+    },
+    {
+      "t": "2026 about ahead been can caught coming contender difficult doing don facing g2 has hear him how lucid stage strong swiss team think thinks too whether win worlds",
+      "ts": 1792618874.7636566
+    },
+    {
+      "t": "1 2 22 about also but dogs dota get lose make new next november october pari place power rankings return rosters see several start taking team tier top tournament universe which will yandex",
+      "ts": 1792618878.3149245
     }
   ]
 }
