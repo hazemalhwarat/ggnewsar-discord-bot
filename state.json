@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26551/charity-gaming-event-jingle-jam-opens-2026-creator-registration",
-    "https://www.invenglobal.com/articles/26550/wuthering-waves-concert-tour-heads-to-los-angeles-for-first-us-show",
-    "https://www.hltv.org/news/45592/adamb-i-see-this-team-as-a-top-10-team-soon-i-have-no-doubts-about-that",
-    "https://www.hltv.org/news/45591/nip-claim-first-title-with-krimbo-at-1win-private-club-s1",
-    "https://www.hltv.org/news/45590/bcgame-to-debut-with-asap-at-rog-journey",
     "https://insider-gaming.com/nyt-connections-hints-solutions-september-29-1206/",
     "https://insider-gaming.com/nhl-27-update-2-boarding-charging-penalties/",
     "https://insider-gaming.com/nhl-27-patch-notes/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27544/gravity-files-trademark-for-ragnarok-castle",
     "https://www.invenglobal.com/articles/27543/extreme-limbo-baldrix-added-plus-world-leap",
     "https://www.invenglobal.com/articles/27542/demons-night-fever-korean-version-releases-on-october-22",
-    "https://www.invenglobal.com/articles/27541/the-winds-of-wow-blow-again-as-autumn-esports-kicks-off-taiwans-september-game-market-trends"
+    "https://www.invenglobal.com/articles/27541/the-winds-of-wow-blow-again-as-autumn-esports-kicks-off-taiwans-september-game-market-trends",
+    "https://www.invenglobal.com/articles/27539/wuthering-waves-version-37-phase-ii-adds-new-5-star-resonator-suoming",
+    "https://www.invenglobal.com/articles/27540/shamshir-cutlass-are-the-new-one-handed-swords-worth-using",
+    "https://www.invenglobal.com/articles/27538/the-era-of-yeongroti-has-begun-world-first-clear-of-kazeros-extreme-achieved",
+    "https://www.invenglobal.com/articles/27537/line-games-releases-official-demo-for-new-co-op-horror-game-quiet",
+    "https://www.invenglobal.com/articles/27536/dungeon-fighter-mobile-launches-inuyasha-collaboration-update"
   ],
   "title_hashes": [
-    "004464bc1b8201379dcef28556a3ab0d",
-    "f0f2655bc107c8bbc82e4965216024e8",
-    "0652b61058c11f3b20703dd14f616d72",
-    "a88cf83a4b0d8ff2c0cedb4ba026d768",
-    "e8730aca15e7d128e21e8766b9440829",
     "417c4c88c477e44ff5c05808173be646",
     "99a70a8ec1de5dde60e25dece22f434d",
     "8408255aca106ef8881d7b6e229dddc2",
@@ -16001,7 +15996,12 @@
     "d3efa269e4a7e1e0e74013f2f663c570",
     "0e352ad19ad80f9dbcae6c102a9676cb",
     "b4d5d5ec4356b1e2f1849eb63162ac74",
-    "456850766564aadd869609db1e60a6df"
+    "456850766564aadd869609db1e60a6df",
+    "c50d5071d4f03ed1846d8de1855c9ece",
+    "126896764e776174b24b97b1929d4bdb",
+    "8c8623b2f86ba311726e9256e4fc6f02",
+    "f1c69712af585af7f0a6b80ad0e54b10",
+    "55f1445a13278e62ea0424a367ec626d"
   ],
   "transfers": {
     "pages": {
@@ -21236,6 +21236,26 @@
     {
       "t": "again autumn blow delivers esports game gaming get glance happytuk important increasingly inven kicks look market monthly news off report september taiwan taiwanese trends winds wow",
       "ts": 1792644321.155171
+    },
+    {
+      "t": "3 5 7 action adding adds free game games has its kuro launched new open phase play playing playstation ps5 resonator role rpg star suoming version waves world wuthering xbox",
+      "ts": 1792644326.0987074
+    },
+    {
+      "t": "blown classic cutlass fresh handed has into island lineage new one pirate shamshir swords update using wind world worth",
+      "ts": 1792644329.633477
+    },
+    {
+      "t": "achieved again ark been begun clear difficulty era extreme finale first has kazeros lost nightmare once raid world yeongroti",
+      "ts": 1792644333.0971997
+    },
+    {
+      "t": "22 demo developed epic game games gamesline horror its line new october official quiet released releases self steam store title",
+      "ts": 1792644336.6036198
+    },
+    {
+      "t": "22nd amp ceos collaboration dae dnf dungeon fighter hyun implemented inuyasha jung kang kim launches mobile nexonnexon update wook",
+      "ts": 1792644340.2362568
     }
   ]
 }
