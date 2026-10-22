@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VcWtlWFU1NHlnakVjVDc4aERVUFNueGZiVjRXc19pZ1VkczdfdnNDRjRUR25jTlA4MU9XZVJrbVlISnhxZU9GcU9UZEpQN2xXZGNpWTFjTzRudERyTlZ0QkgtTThtODNLckhhM2xXTVJ1SzNwcHEwMHJSTFVJSW8?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEtvM05yT21hcXJGTzVwTWFHWE1Ic1NKRDhPV2htRlQ3amNfX0c1Q3FwaDA1OGF1REtxSzhZLUdIdUtnTkhqa1dZbFoxbmdSVjdoOEdLU3NicUpBaGV6QWlxZ3gzZkZNb0FWWUNNcWVMdTVid2dzRkJkX0YzYVVNbE1FTTNPSTBHTU9Baw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU1Ja2FzVUotZlNNaFlCUUdoTUFvd3NkMDdad2FOd0htY0kzdFUzNG55Yk9qb1FJX2laYVlVdXRkc1JqRV9Xb3BVVkg1b1JoeTN6VmQ5TnlyTXM1S3N3ODVCcWp4bzJjXzZKOUQxU0ZyTDZLdzhtMDA4ZlE1cXlQSGVmWExiZWh3S19kdFF6N2VZV0lMNlNhUmpQdVVsX2xsdkZnSTJPemlySkU?oc=5",
-    "https://www.invenglobal.com/articles/26559/oca-claims-no-decision-made-while-document-removing-esports-from-asian-games-remains-intact",
-    "https://www.invenglobal.com/articles/26558/one-store-fully-opens-ai-game-registration",
-    "https://www.invenglobal.com/articles/26557/playwith-korea-surpasses-1-million-pre-registrations-for-seal-m2",
-    "https://www.invenglobal.com/articles/26556/lilith-games-new-title-wonderpaws-opens-global-pre-registration-across-all-platforms",
     "https://www.invenglobal.com/articles/26555/at-35-sonic-the-hedgehog-gets-the-museum-treatment",
     "https://www.invenglobal.com/articles/26554/steelseries-launches-quickswitch-controller-aeon-pro",
     "https://www.invenglobal.com/articles/26529/esports-departs-the-asian-games-what-is-lost",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/27556/supporting-battle-with-healing-and-harassment-awakened-shinobu-overview",
     "https://www.invenglobal.com/articles/27555/upheaval-in-the-modding-ecosystem-the-game-industry-expands-its-fences",
     "https://www.invenglobal.com/articles/27553/gravity-begins-domestic-cbt-for-ragnarok-online-plus",
-    "https://www.invenglobal.com/articles/27552/seal-m2-tops-popularity-charts-on-both-major-app-stores"
+    "https://www.invenglobal.com/articles/27552/seal-m2-tops-popularity-charts-on-both-major-app-stores",
+    "https://www.invenglobal.com/articles/27551/once-human-launches-ocean-expansion-isles-of-abyss",
+    "https://www.invenglobal.com/articles/27550/2026-worlds-main-stage-kicks-off-on-the-24th-key-round-1-points-for-4-lck-teams",
+    "https://www.invenglobal.com/articles/27549/2d-roguelike-action-tales-ink-guardian-launches-in-early-access-on-november-10",
+    "https://www.invenglobal.com/articles/27547/webzen-updates-shot-online-with-new-valhalla-course",
+    "https://www.invenglobal.com/articles/27548/867-first-impression-satisfaction-astrae-oratio-unveils-cbt-infographic",
+    "https://www.invenglobal.com/articles/27546/just-7-days-away-phantom-blade-zero-to-release-physical-discs-in-2027",
+    "https://www.invenglobal.com/articles/27525/aliens-fireteam-elite-2-officially-launches-for-ps5-in-korea-on-the-22nd"
   ],
   "title_hashes": [
-    "72088066c936c0acb3f2bacbcb86f4da",
-    "c05b77677b29d94c02b56100b67b593d",
-    "b12a4ac0ad363869a46f006d827e664b",
-    "a74bf6568fcd48c9f50ff43cee8551c9",
-    "ea3415ec6830319e2719ad7b60bab924",
-    "840426459aab47fa3d96be59cdfda7b8",
-    "4492274bbf3f7038ad27ac87a2bff521",
     "d74a50ce3ced48c58c2720f79e98acc8",
     "cf41fe1c45ce4001b29945929cd1eec2",
     "56c2a280d9ca01b1c8c62829934d95b9",
@@ -16001,7 +15994,14 @@
     "774ccff05bf4e694ca37e8ff7aad4a51",
     "ac864135fb2ba481ef78305fd7d73a8c",
     "19c3dcafed20264ea83dc730bd4e97f1",
-    "ac8a053bc041dbd4f47a42618ff1e92d"
+    "ac8a053bc041dbd4f47a42618ff1e92d",
+    "c815715dd4f2d5c67e05ab1abf71dde6",
+    "7c1b6f45ef0644197a53fb3cbe3e2fe4",
+    "7a5e80752f085c5ebe1782b21626e297",
+    "8fe0e017beb433050001e8c3ab4095ea",
+    "c597dfb0eada388c4fed9fb2bdb0179c",
+    "3dd36c276724da9cdf02dc2963d6ea58",
+    "69df1bf843bdfe5e7fdf57314bf8076e"
   ],
   "transfers": {
     "pages": {
@@ -21156,6 +21156,26 @@
     {
       "t": "1 announced app apple both ceo charts day google hak invenplaywith its jun kim korea launch m2 major mmorpg mobile official play popularity ranked seal store stores that tops",
       "ts": 1792662083.8408616
+    },
+    {
+      "t": "22 abyss expansion gamesonce human isles its launched launches netease ocean october once",
+      "ts": 1792662088.9031641
+    },
+    {
+      "t": "1 2026 24 24th 4 allen center championship credit early event hours key kick kicks kst lck lol main october off points round stage swiss teams texas union usa will world worlds",
+      "ts": 1792662092.3634117
+    },
+    {
+      "t": "22 adding also club content course expands game golf its legend new october online potential released shot update updates valhalla webzen webzenon",
+      "ts": 1792662095.84107
+    },
+    {
+      "t": "22 7 86 asora astrae cbt detailing first global hereinafter impression infographic ncnc october oratio results satisfaction unveiled unveils",
+      "ts": 1792662099.337593
+    },
+    {
+      "t": "2 22nd aliens announced edition elite fireteam gamewoori hanuri hanurigamewoori korea launches officially physical ps5 released standard that",
+      "ts": 1792662102.7833626
     }
   ]
 }
