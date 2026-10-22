@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/featured/how-esports-communities-change-how-you-game/",
-    "https://www.talkesport.com/featured/classic-esports-tournaments-modern-competitive-gaming-culture/",
-    "https://www.talkesport.com/featured/gaming-account-region-rules-while-travelling/",
-    "https://www.nerfplz.com/2026/09/should-you-one-trick-what-playing-one.html",
-    "https://www.nerfplz.com/2026/09/formerly-op-16-old-pantheon.html",
     "https://europeangaming.eu/portal/press-releases/2026/09/28/214913/danske-licens-spil-everymatrix-casino-platform/",
     "https://europeangaming.eu/portal/press-releases/2026/09/28/214908/wazdan-cointober-coins-series-campaign/",
     "https://europeangaming.eu/portal/press-releases/2026/09/28/214899/just-slots-mga-b2b-licence-hub88/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27512/making-games-live-forever-how-gog-is-shaping-the-future-of-classic-games",
     "https://www.invenglobal.com/articles/27511/visiting-rebel-wolves-the-dawnwalker-developer-joining-the-million-seller-club",
     "https://www.invenglobal.com/articles/27513/games-are-polands-k-pop-growing-polands-gaming-industry-as-a-national-competitive-strength",
-    "https://www.invenglobal.com/articles/27509/vaia-study-finds-94-of-game-studios-using-ai-in-production"
+    "https://www.invenglobal.com/articles/27509/vaia-study-finds-94-of-game-studios-using-ai-in-production",
+    "https://www.invenglobal.com/articles/27508/rf-online-next-update-brings-500-player-siege-warfare-and-new-server-vera",
+    "https://www.invenglobal.com/articles/27507/kda-and-true-damage-to-perform-at-the-worlds-2026-opening-ceremony",
+    "https://www.invenglobal.com/articles/27506/tenz-signals-valorant-comeback-with-lft-post",
+    "https://insider-gaming.com/limited-edition-kda-riftbound-tcg-cards/",
+    "https://insider-gaming.com/k-da-and-true-damage-will-perform-at-the-lol-worlds-2026-final/"
   ],
   "title_hashes": [
-    "fc72138b82f284b80521a1ccb173de9f",
-    "a036b192e4127471034587b077f5e141",
-    "d69040f44715a87ccf28b9d16616b74f",
-    "3397b5690eb291e55ed24310c5ba110b",
-    "d1122dfae35ae95fa88c74cae75a2baa",
     "4cc0575aef51c536fd95a249e92aca7f",
     "a4d9ab37a8da9febdaa9e6d02a519c0c",
     "4868cac51d75dc95926c347c9f7bd721",
@@ -16001,7 +15996,12 @@
     "2454742d63051c554a919365d96012c4",
     "c8742693527c3db888b1f2293242a6a2",
     "7a7fdd3a43ed123ccc14cfa76f349832",
-    "cceb32f2cd43680d4ed2a888055c951b"
+    "cceb32f2cd43680d4ed2a888055c951b",
+    "c303bf216dc10d6154c06e4085a8146e",
+    "f1ee8a6d53dbd1f55141675c304a7378",
+    "8ca26324f27632c4286fd1e520dd10c2",
+    "52f5f604d28edc73503e5dc9eb69e173",
+    "698a8154f1de636a787d9148edfe3174"
   ],
   "transfers": {
     "pages": {
@@ -21284,6 +21284,26 @@
     {
       "t": "94 according but close come console development edges findings finds fro game most new only pipelines production research still studios study their universal use using vaia vivrato",
       "ts": 1792628079.8885686
+    },
+    {
+      "t": "500 adding albern alon announced brings content first fortress game has its major massively mmorpg mode multiplayer netmarble new next online player playing role sci server siege update vera warfare",
+      "ts": 1792628085.3113034
+    },
+    {
+      "t": "2026 back ceremony championship damage games groups heading league legends music opening perform riot stage true virtual world worlds",
+      "ts": 1792628088.9052627
+    },
+    {
+      "t": "comeback competitive followers has hinting his lft looking ngo post return signals team tenz told tyson valorant",
+      "ts": 1792628092.4302552
+    },
+    {
+      "t": "animators art cards collection collector couture edition exclusive featuring firestarter fortiche limited post revealed riftbound set tcg themed will",
+      "ts": 1792628096.0786164
+    },
+    {
+      "t": "2026 both ceremony confirmed damage final games grand has lol new opening perform post riot that true will worlds york",
+      "ts": 1792628099.4980903
     }
   ]
 }
