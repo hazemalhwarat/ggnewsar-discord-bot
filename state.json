@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/nyt-connections-hints-solutions-september-29-1206/",
-    "https://insider-gaming.com/nhl-27-update-2-boarding-charging-penalties/",
-    "https://insider-gaming.com/nhl-27-patch-notes/",
-    "https://insider-gaming.com/first-ever-lol-wsci-finals-will-crown-a-french-or-korean-champion/",
-    "https://insider-gaming.com/wolverine-boots-pc-ps5-emulation/",
     "https://insider-gaming.com/lec-support-stend-announces-shock-retirement/",
     "https://insider-gaming.com/embark-explains-why-it-removed-raider-decks-from-arc-raiders/",
     "https://esportsinsider.com/2026/09/valorant-champions-shanghai-americas-sweeps",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27540/shamshir-cutlass-are-the-new-one-handed-swords-worth-using",
     "https://www.invenglobal.com/articles/27538/the-era-of-yeongroti-has-begun-world-first-clear-of-kazeros-extreme-achieved",
     "https://www.invenglobal.com/articles/27537/line-games-releases-official-demo-for-new-co-op-horror-game-quiet",
-    "https://www.invenglobal.com/articles/27536/dungeon-fighter-mobile-launches-inuyasha-collaboration-update"
+    "https://www.invenglobal.com/articles/27536/dungeon-fighter-mobile-launches-inuyasha-collaboration-update",
+    "https://www.invenglobal.com/articles/27535/maplestory-launches-4-chapter-maple-escape-event",
+    "https://www.invenglobal.com/articles/27534/riot-games-announces-brand-collaborations-to-celebrate-kda-comeback",
+    "https://www.invenglobal.com/articles/27532/great-voyage-opens-north-america-region-with-9th-anniversary-update",
+    "https://www.invenglobal.com/articles/27533/monster-hunter-now-to-launch-halloween-event-on-october-26",
+    "https://www.invenglobal.com/articles/27531/valofe-launches-global-official-service-for-icarus-online-on-october-22"
   ],
   "title_hashes": [
-    "417c4c88c477e44ff5c05808173be646",
-    "99a70a8ec1de5dde60e25dece22f434d",
-    "8408255aca106ef8881d7b6e229dddc2",
-    "8ce1d4d58682974856244b2debecbeed",
-    "924c0156104c8e9bc35a442928879cc6",
     "ab62e9ecb4fa4faa613ca42806293e50",
     "8e11a601371ae4b89b74bf35b94e209a",
     "d13b8318817b2a4b642528b62baa4889",
@@ -16001,7 +15996,12 @@
     "126896764e776174b24b97b1929d4bdb",
     "8c8623b2f86ba311726e9256e4fc6f02",
     "f1c69712af585af7f0a6b80ad0e54b10",
-    "55f1445a13278e62ea0424a367ec626d"
+    "55f1445a13278e62ea0424a367ec626d",
+    "12fddb32f3ee3b669f58c71abdd2001a",
+    "b5f9b2e08f45e701dae1771c553cc834",
+    "c0859cfbc76b3c802e867a7cf99d0828",
+    "12f23164eb10ccccfbae287c730ed026",
+    "3a49098b1878ea6570c9ed85d0cae21a"
   ],
   "transfers": {
     "pages": {
@@ -21256,6 +21256,26 @@
     {
       "t": "22nd amp ceos collaboration dae dnf dungeon fighter hyun implemented inuyasha jung kang kim launches mobile nexonnexon update wook",
       "ts": 1792644340.2362568
+    },
+    {
+      "t": "22 4 autumn chapter escape event featuring four launches maple maplestory nexon nexonon october out rolled second update",
+      "ts": 1792644345.4554589
+    },
+    {
+      "t": "2026 22 announced announces brand celebrate championship collaborations comeback conducting games gamesriot october riot that world",
+      "ts": 1792644349.13594
+    },
+    {
+      "t": "9th america anniversary announced freedom great korea korealinekong land linekong mark mmorpg mobile north opens opportunity out region rolling sailing that update voyage",
+      "ts": 1792644352.6137862
+    },
+    {
+      "t": "2026 22 26 8 announced event explore explorescopely halloween hold hunter launch monster november now october scopely that will",
+      "ts": 1792644356.091765
+    },
+    {
+      "t": "22 announced global icarus its launches launching mmorpg october official online service that valofe valofevalofe",
+      "ts": 1792644359.6394217
     }
   ]
 }
