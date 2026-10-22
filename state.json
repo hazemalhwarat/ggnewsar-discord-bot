@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://traxion.gg/porsche-esports-supercup-2026-pinto-and-warren-win-at-silverstone-four-winners-from-four-races/",
-    "https://www.nerfplz.com/2026/09/which-role-is-easiest-to-climb-on.html",
-    "https://www.nerfplz.com/2026/09/top-team-comps-140-nothing-lands-fiora.html",
-    "https://www.hotspawn.com/counter-strike/news/vrs-shift-4",
-    "https://www.hotspawn.com/counter-strike/news/best-ultra-violent-gloves-knife-combos-in-cs2",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE40XzFuWFpaRlFZR2ZFOXFXVFJpLVdLaWxFMi1TVVhHdFUwLTBrWklGb1lIbFpGdFVkTWVzLTZzT2JsNXNQNDc1dktRYXZMYy02Z0N0YzUxeDBnQ3IzYXVyZy01bVljVXJCZGdSekF5STZBd2VoSnZvb3dB?oc=5",
     "https://www.talkesport.com/news/modern-warfare-4-2xp-tokens-countdown/",
     "https://www.talkesport.com/news/valorant/vitality-vs-loud-valorant-champions-2026/",
@@ -7999,14 +7994,14 @@
     "https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service",
     "https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026",
     "https://www.talkesport.com/news/fortnite/fortnite-returns-ios-australia/",
-    "https://www.talkesport.com/news/valorant-hush-agent-release-date-abilities/"
+    "https://www.talkesport.com/news/valorant-hush-agent-release-date-abilities/",
+    "https://www.talkesport.com/news/cs2/cs2-vacnet-labeling-portal-invites/",
+    "https://www.talkesport.com/news/pubg-pc-esports-india/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/pmgo-2026-season-2-in-pakistan-worst-s-tier-tournament-in-pubg-mobile-history/",
+    "https://www.talkesport.com/mobile-gaming/free-fire-max/ffmai-2026-fall-group-stage-dates-teams-format-and-more/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/is-japan-the-weakest-region-at-bmic-2026-a-look-at-its-international-performances/"
   ],
   "title_hashes": [
-    "cc250ed0d4401335df9ef05f09406e05",
-    "8284abd19b78ce8c29be0667f98b4b39",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "574edf7e6797b6bb37c6f2180fe60bbe",
-    "ec902102e280f354a1eb67f0750a5371",
     "41c2df835f89ede3b64992343917f11e",
     "7f28c28036fd19be9bfa5fde80fc4182",
     "832deb28af04126dfd10d6c7f3ad7686",
@@ -16001,7 +15996,12 @@
     "6708a48f16d335a5bdf92ae031ce61bc",
     "bd4242e971b1eaff60f5a1be5f3b25c7",
     "70fd9e263375ba200a6e0b592d6e11c4",
-    "06930505326c776a827d41a569293a6f"
+    "06930505326c776a827d41a569293a6f",
+    "8d6de09ab36731bfa725f1d1e17cca01",
+    "b672c137fc027ae4a0b147b3e74de357",
+    "f5ec11b95993b6107e83f88c7f7db644",
+    "52d98d40a5cac62cb4f88d2fed125da9",
+    "c79220f111c80067472fb192d263f53b"
   ],
   "transfers": {
     "pages": {
@@ -21248,6 +21248,26 @@
     {
       "t": "8217 abilities agent among announced become coming date exciting has her hush into its major meta new out players point release riot speculated swiftly talking turned upcoming upon valorant when",
       "ts": 1792680211.8384697
+    },
+    {
+      "t": "again against another battle cheaters confirmed cs2 earlier invites labeling once out pace portal post send sends that they through today upping vacnet valve wave",
+      "ts": 1792680216.9581451
+    },
+    {
+      "t": "2026 2027 announced built cup esports first getting india indian its krafton more only open pic plans players pubg region run scene tournament",
+      "ts": 1792680220.53589
+    },
+    {
+      "t": "2 2026 bringing country event first global historic history hosting international mobile open pakistan pmgo pubg season supposed tier time tournament worst",
+      "ts": 1792680224.0551677
+    },
+    {
+      "t": "18 2026 22 24 asia asian countries dates different fall featuring ffmai fire format free group invitational main max more october place stage take teams this tournament will",
+      "ts": 1792680227.5126636
+    },
+    {
+      "t": "2026 ahead bgmi bmic but cup esports established have international its japan look mobile most one performances pubg questions raised recent region regions tournament weakest wil",
+      "ts": 1792680230.9645483
     }
   ]
 }
