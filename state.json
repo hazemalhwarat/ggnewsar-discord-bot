@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/lec-support-stend-announces-shock-retirement/",
-    "https://insider-gaming.com/embark-explains-why-it-removed-raider-decks-from-arc-raiders/",
-    "https://esportsinsider.com/2026/09/valorant-champions-shanghai-americas-sweeps",
-    "https://dotesports.com/call-of-duty/news/cod-modern-warfare-4-ttk-aim-assist-changes",
-    "https://dotesports.com/general/news/discord-wumpus-torture-art-age-restriction-protest",
     "https://dotesports.com/general/guides/control-resonant-achievements",
     "https://gameriv.com/arc-raiders-reward-passes-explained-free-and-premium-rewards-price-and-legacy-pass/",
     "https://www.vlr.gg/762001/koalanoob-and-c0m-enter-restricted-free-agency",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27534/riot-games-announces-brand-collaborations-to-celebrate-kda-comeback",
     "https://www.invenglobal.com/articles/27532/great-voyage-opens-north-america-region-with-9th-anniversary-update",
     "https://www.invenglobal.com/articles/27533/monster-hunter-now-to-launch-halloween-event-on-october-26",
-    "https://www.invenglobal.com/articles/27531/valofe-launches-global-official-service-for-icarus-online-on-october-22"
+    "https://www.invenglobal.com/articles/27531/valofe-launches-global-official-service-for-icarus-online-on-october-22",
+    "https://www.invenglobal.com/articles/27530/back-to-the-dawn-ps5-version-officially-released-in-korea-on-october-22",
+    "https://www.invenglobal.com/articles/27529/playwith-korea-launches-official-domestic-service-for-seal-m2",
+    "https://www.invenglobal.com/articles/27528/kazeros-extreme-holds-out-for-a-day-when-will-world-first-clear-come",
+    "https://www.invenglobal.com/articles/27527/azure-striker-gunvolt-trilogy-enhanced-physical-edition-released-for-switch-2",
+    "https://www.invenglobal.com/articles/27526/kda-returns-with-firestarter-ep-ahead-of-worlds-2026-opening-ceremony-show"
   ],
   "title_hashes": [
-    "ab62e9ecb4fa4faa613ca42806293e50",
-    "8e11a601371ae4b89b74bf35b94e209a",
-    "d13b8318817b2a4b642528b62baa4889",
-    "729ac7546db759126a2c8fe474dc8c22",
-    "edd9f53b63808ad420fa392393dd87b2",
     "9377dc6d9401b2fc23b37f3269dd0d26",
     "37ec6de67fa8497d2bd65d5a1b663221",
     "1eb22903e7b4f6d725065f41e66e00d8",
@@ -16001,7 +15996,12 @@
     "b5f9b2e08f45e701dae1771c553cc834",
     "c0859cfbc76b3c802e867a7cf99d0828",
     "12f23164eb10ccccfbae287c730ed026",
-    "3a49098b1878ea6570c9ed85d0cae21a"
+    "3a49098b1878ea6570c9ed85d0cae21a",
+    "635edca1139773c21973a1c8e08bed4b",
+    "95b3d0a0cf97cd9900112f439bdf08cd",
+    "f1b1a4af4c6a31aac43234b097e9ef61",
+    "036c7b6a3e00aec5c2a66414a84730f5",
+    "248cc14501a5c1e8f2b93b4d6aa4ff0e"
   ],
   "transfers": {
     "pages": {
@@ -21276,6 +21276,26 @@
     {
       "t": "22 announced global icarus its launches launching mmorpg october official online service that valofe valofevalofe",
       "ts": 1792644359.6394217
+    },
+    {
+      "t": "22 5 animal back break clouded dawn edition entertainment gamepia kore korea leopard october officially package partnership physical playstation prison ps5 released version",
+      "ts": 1792644364.636434
+    },
+    {
+      "t": "10 developed domestic games korea koreaplaywith launched launches m2 mmorpg official officially playwith seal service",
+      "ts": 1792644368.0955544
+    },
+    {
+      "t": "1 22nd around attempt clear come day did extreme fastest first holds kazeros mode nightmare not out progression raid recorded see team their today when which will world wrapped youngroti",
+      "ts": 1792644371.8140147
+    },
+    {
+      "t": "2 22 azure collaboration cometsoft creates edition enhanced gunvolt inti korean nintendo october officially physical released striker switch trilogy",
+      "ts": 1792644375.436699
+    },
+    {
+      "t": "2026 ahead ahri akali around built ceremony champions evelynn extended firestarter four games group has kai league legends live new opening perf play pop released returns riot show track virtual worlds",
+      "ts": 1792644379.0080838
     }
   ]
 }
