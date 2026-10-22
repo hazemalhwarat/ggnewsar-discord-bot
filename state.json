@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26582/oca-denies-dropping-esports-from-asian-games-will-maintain-medal-status",
-    "https://www.invenglobal.com/articles/26581/total-war-warhammer-3-releases-lords-of-the-end-times-dlc-on-september-24",
-    "https://www.invenglobal.com/articles/26559/asian-games-esports-removal-document-remains-intact-yet-oca-claims-no-decision-was-made",
-    "https://esportsinsider.com/2026/09/mlbb-asian-games-2026",
-    "https://esportsinsider.com/2026/09/asian-games-esports-status",
     "https://www.dotabuff.com/blog/2026-09-29-designs-that-should-never-make-a-comeback",
     "https://insider-gaming.com/playstation-5-console-jailbreak-ps5/",
     "https://insider-gaming.com/modern-warfare-2-players-spot-skate-and-minecraft-mods/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/modern-warfare-4-multiplayer-doesnt-have-open-matchmaking-playlist/",
     "https://insider-gaming.com/call-of-duty-modern-warfare-4-known-issues/",
     "https://insider-gaming.com/modern-warfare-4-patch-notes/",
-    "https://insider-gaming.com/phantom-blade-zero-physical-edition-disc-release-revealed/"
+    "https://insider-gaming.com/phantom-blade-zero-physical-edition-disc-release-revealed/",
+    "https://insider-gaming.com/modern-warfare-4-dmz-story-missions-rewards/",
+    "https://www.hltv.org/news/45767/the-evp-and-all-stars-of-thunderpick-world-championship-2026",
+    "https://www.hltv.org/news/45774/pgl-masters-bucharest-teams-format-schedule-prizes-talent-fantasy",
+    "https://www.vlr.gg/778910/krx-announces-mass-exodus-following-partnership-snub",
+    "https://www.vlr.gg/778901/balax-departs-loud-after-assisting-in-champions-winning-run"
   ],
   "title_hashes": [
-    "d80a2b481fbfa31886d7681c05e9092d",
-    "61a888ad2952c25b4d00e9f9071b3f46",
-    "d5387dbb4087d31f3672dfe93c1e2399",
-    "d5a62e8966f44b6b164747c378e209f3",
-    "53512b6eaff9387a5ea03f1668a25926",
     "cea637ef71a5b975407516ceaab96777",
     "56c40e7b28a7bd6aece43472dfd12bb3",
     "3a99ad9ecdb6666d45ddb4694ce6ce80",
@@ -16001,7 +15996,12 @@
     "54924187afdbbeb429f98438044ce509",
     "ae6ed6600f80f1c60617be795bd7d15c",
     "f8a9b715ac974e72a58094547875fa19",
-    "d60f17b069369dbcb0a6571a2fea3cd2"
+    "d60f17b069369dbcb0a6571a2fea3cd2",
+    "2c8d1aa9649c2a231ea6494b68e83fcf",
+    "3805f02853376f82d5a1e67546997a8a",
+    "764b2632804721c3f3a83b7eabb6ae83",
+    "d2f42a6d2fc184cd102027abab5a1930",
+    "8b492a455e3e6f2d9a0beae3076d7f46"
   ],
   "transfers": {
     "pages": {
@@ -21188,6 +21188,26 @@
     {
       "t": "been blade confirmation confirming disc edition game get now phantom physical post release revealed that there until window would zero",
       "ts": 1792680153.0445163
+    },
+    {
+      "t": "4 added all amp appeared available details dmz first missions modern more post rewards story warfare will",
+      "ts": 1792680158.3975847
+    },
+    {
+      "t": "2026 all betboom championship earns evp final his magnojez reward run spearheading stars thunderpick world",
+      "ts": 1792680162.1796136
+    },
+    {
+      "t": "16 about bucharest everything fantasy format here know last masters need pgl prizes romania schedule talent team teams tier tournament you",
+      "ts": 1792680165.8179958
+    },
+    {
+      "t": "10 announces exodus following iconic krx leave mass most one outfits partnership sees snub valorant",
+      "ts": 1792680169.325124
+    },
+    {
+      "t": "2027 after analyst assisting balax champions departs lft loud run season trophy winning",
+      "ts": 1792680173.140539
     }
   ]
 }
