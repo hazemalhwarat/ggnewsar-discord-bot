@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/news/gta-6-game-informer-new-details-screenshots-issue-382/",
-    "https://www.talkesport.com/news/how-do-you-get-to-the-sift-in-minecraft/",
-    "https://www.talkesport.com/news/valorant/prx-vs-g2-valorant-champions-2026/",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV1pxQnkwMGI5Q1VER3lEbDR4VDdFUmJISHRLcHNQeEhrSkpIRV9YbnB3S1NrNVg1c1JteVZ0V1B6QU1VZFU4YVNfS3V6X2xzUk8yeE5Za01jTml4WVNXd2pSckh4Y01FMkhLaXpsZzdRUTNsbXQyNS1ISmtPbFQ3ejY1ZlNUbnZHRS1LZEkwUGg2US1PNGoyN2VXR21UZmZna0diUlFFSEhuVHBEWFoweVFSZ2VXM1NSS2xCOUQteGliZDJLVVJkakVDSzAwd3N2XzhLd3VR?oc=5",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LQmg3cl9VXzFwTnNXNTY1Ty01TEdFSkFwZXFOaWV3S0VrSjJZTEJqTEpJVkZJZFFfNmloVDhWaThZV29NUVU5LUFSTkdmX01ndDBWak5yMU5SWGZsbkZXT3pZUWxVeEpzNXdRdmJybjJuVDRT?oc=5",
     "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
@@ -7999,12 +7996,12 @@
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcktIb2hmMEY3cmdLYmJhM0ZrQWh1SUJxRk1ocFZkVTl1ejczUURhbFBVSXc0M1VGbHVGMTA4NWRLajRMQkE2RTIyS01xYXZFMU91WTBXMm1zeFNGUmR6c2N0R0FHVkN4bE1yenljVTNJQ3BSd2RFWFdmeEVyWW9sVUkwUXA?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaW16cm9wTXRFRkFHR19oVGMyTUhiVGo1eVRVTGEycURJUGZkMnZ5QkFiWkNhSUktcF9vRU1USElyaU5JaVdQbmVjZjZ2N0JVX1hrWHVHNG0zeDN3cHdtOFdGQUxNTE1abnN2WTduYVpXbnZXR01yTU9WTkRJeGdrSlY4WVBKS1NqeHdkN01INkJZOG11RUFZUU1YbFUxUHczOV9EWlUyQUc?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEtvM05yT21hcXJGTzVwTWFHWE1Ic1NKRDhPV2htRlQ3amNfX0c1Q3FwaDA1OGF1REtxSzhZLUdIdUtnTkhqa1dZbFoxbmdSVjdoOEdLU3NicUpBaGV6QWlxZ3gzZkZNb0FWWUNNcWVMdTVid2dzRkJkX0YzYVVNbE1FTTNPSTBHTU9Baw?oc=5",
-    "https://pley.gg/cs2/heroic-assistant-coach-calls-on-valve-to-cap-vrs-events-at-two-best-of-threes-a-day/"
+    "https://pley.gg/cs2/heroic-assistant-coach-calls-on-valve-to-cap-vrs-events-at-two-best-of-threes-a-day/",
+    "https://pley.gg/cs2/major-winner-qikert-retires-to-coach-spirit-academy/",
+    "https://pley.gg/valorant/riot-confirm-all-32-vct-partners-for-2027-as-t1-and-paper-rex-stay-in-and-drx-miss-out/",
+    "https://pley.gg/csgogem-review/"
   ],
   "title_hashes": [
-    "41f7ce092bcd038013fbf8d4e3dd0552",
-    "25425a130af160d47b13f924947d2ecc",
-    "8bdd42c97c4164860c3c166347ad53ba",
     "068f836a7019f9255c1a06e06b03d03e",
     "146f7fc1fdb887c3074227432621d2b4",
     "0882c9e572e0824b43d6d03814ca401f",
@@ -16001,7 +15998,10 @@
     "53adea1ed9cad8fe4beab9bcbd04fed7",
     "13d7c44aef1efbd6e55306f32afbe617",
     "f2ab5fb218da8b84623f45579aa4ba11",
-    "696e39fb836ba812a7307d2017b81659"
+    "696e39fb836ba812a7307d2017b81659",
+    "de1e87931ad9b44c63e0b4e3f23bcc44",
+    "4a79a97c2d3aa8e667678546766c929f",
+    "45edb084c7e545a7d6babb6b64e6d9c0"
   ],
   "transfers": {
     "pages": {
@@ -21288,6 +21288,18 @@
     {
       "t": "assistant best calls cap coach events heroic two valve vrs",
       "ts": 1792680250.1651814
+    },
+    {
+      "t": "academy coach major qikert retires spirit winner",
+      "ts": 1792680255.1728034
+    },
+    {
+      "t": "2027 32 all confirm drx miss out paper partners rex riot stay t1 vct",
+      "ts": 1792680259.18141
+    },
+    {
+      "t": "csgogem review",
+      "ts": 1792680262.6355443
     }
   ]
 }
