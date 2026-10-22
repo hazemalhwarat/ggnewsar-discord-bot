@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26555/at-35-sonic-the-hedgehog-gets-the-museum-treatment",
-    "https://www.invenglobal.com/articles/26554/steelseries-launches-quickswitch-controller-aeon-pro",
-    "https://www.invenglobal.com/articles/26529/esports-departs-the-asian-games-what-is-lost",
-    "https://insider-gaming.com/intergalactic-the-heretic-prophet-news-only-next-year/",
-    "https://insider-gaming.com/when-game-informer-gta-6-magazine-come-out-time/",
     "https://insider-gaming.com/troy-baker-intergalactic-lead-spiritual-successor-ellie-last-of-us/",
     "https://dotesports.com/league-of-legends/guides/lol-asian-games-2026-schedule-results",
     "https://dotesports.com/gow/guides/god-of-war-laufey-faye-serpent-bow",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27547/webzen-updates-shot-online-with-new-valhalla-course",
     "https://www.invenglobal.com/articles/27548/867-first-impression-satisfaction-astrae-oratio-unveils-cbt-infographic",
     "https://www.invenglobal.com/articles/27546/just-7-days-away-phantom-blade-zero-to-release-physical-discs-in-2027",
-    "https://www.invenglobal.com/articles/27525/aliens-fireteam-elite-2-officially-launches-for-ps5-in-korea-on-the-22nd"
+    "https://www.invenglobal.com/articles/27525/aliens-fireteam-elite-2-officially-launches-for-ps5-in-korea-on-the-22nd",
+    "https://www.invenglobal.com/articles/27524/keeping-the-1999-pixel-art-intact-pre-registration-opens-for-elancia-mobile",
+    "https://www.invenglobal.com/articles/27522/msi-launches-white-mag-codex-z2-x3d",
+    "https://www.invenglobal.com/articles/27523/colorful-launches-igame-x870e-ultra-s-v14",
+    "https://www.invenglobal.com/articles/27521/legend-of-ymir-global-tournament-ymir-cup-season-3-kicks-off-november-28",
+    "https://www.invenglobal.com/articles/27519/webzen-opens-pre-registration-for-fast-growth-burning-server-in-r2-origin"
   ],
   "title_hashes": [
-    "d74a50ce3ced48c58c2720f79e98acc8",
-    "cf41fe1c45ce4001b29945929cd1eec2",
-    "56c2a280d9ca01b1c8c62829934d95b9",
-    "3454c58dafa12f1be0c366a811b4c1cc",
-    "ca210da9816912c4f697e500fbe977b4",
     "75e151b1f3a6c806b86f6d7655be0439",
     "1700f9af036455ed270dbf456f33886c",
     "b80cb86305148312cae1ce8ae85fa7e6",
@@ -16001,7 +15996,12 @@
     "8fe0e017beb433050001e8c3ab4095ea",
     "c597dfb0eada388c4fed9fb2bdb0179c",
     "3dd36c276724da9cdf02dc2963d6ea58",
-    "69df1bf843bdfe5e7fdf57314bf8076e"
+    "69df1bf843bdfe5e7fdf57314bf8076e",
+    "d11cafd181f7d114aa2a38583664d0f6",
+    "89c83920ffbc6f79ec7c5a67123f48f3",
+    "2da311b028b6d870c28b8ceaede85810",
+    "abc4f82f7353fdf2bca5bfdb0fe89b21",
+    "1255dfc53cc6293b1cc62a395384a55a"
   ],
   "transfers": {
     "pages": {
@@ -21176,6 +21176,26 @@
     {
       "t": "2 22nd aliens announced edition elite fireteam gamewoori hanuri hanurigamewoori korea launches officially physical ps5 released standard that",
       "ts": 1792662102.7833626
+    },
+    {
+      "t": "1999 amp art corp elancia gameduo inc intact keeping key korea mobile nexon opens original pixel pre registration returns visual world",
+      "ts": 1792662107.7945502
+    },
+    {
+      "t": "22nd a25 announced b9nvv codex desktop gaming has korea koreamsi launches ltd mag msi released that white x3d z2",
+      "ts": 1792662111.2067358
+    },
+    {
+      "t": "amd colorful colorfulcolorful company has hereinafter igame launched launches limited technology ultra v14 x870e",
+      "ts": 1792662114.6476357
+    },
+    {
+      "t": "28 3 championship colosseum cup esports global host jamsil kicks legend november off season tournament wemadewemade will world ymir",
+      "ts": 1792662118.2707276
+    },
+    {
+      "t": "22nd about burning fast growth hold mmorpg new opens origin pre r2 registration reign revolution server starting webzen webzenwebzen week will",
+      "ts": 1792662121.7386184
     }
   ]
 }
