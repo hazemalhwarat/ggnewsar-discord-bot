@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZERaRlFHNmRMRGwtNkNMTEZNczJkd0tYM3hrR0NDbjRwODFVMk5aR0JhQVFhNUlXck83b0JjdTFIT2dsQi1QZXZoVGtPRXVIQlNhTUJBSHR2b040cFo2dWg2UDZMTlpqaW1tRURScFdzWnJOOXppSldiOUNEVWlTc2RfcHhpTTl0VGVDXzFVMlVHVkstZDB5MTcyNG1VRjJOb1BSbE5LcGFZYXhQcnpMZW00UUYtSXk4MG5ONkZ4b1dLZWg2MXltOVd5dw?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yYktrbDVoSFdVRVg0ZkdyLVFCdHYwWXd3ZjJaeVAxaUtqbU1haEU5TVIxVDJfX2hsYm81dFdrRFM5VjBIU1Zqa0pPa2h4VWY4SC1CYmxlVmc1OTVzODVaTTJTakRjLW9odjJnR09PUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb0J4bG5xTzJ5TzRhbFZWMDE3U1FzZVhoZ0x0OUNRTVR5YWdYRGQ0Wmg3cVhpeEV3LUdqMHloUFpmWV9VdWtNZU1qTnJkQlNuSW5kYVdFa1ZxWTFDcXNDcHVsVDNlY015ejgtT2xPaDl3Ynh4NUNWUjlJQ0VmX3JvQlluMnRVaVJQM005OWJGdlZhb0E?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDQ4ZVJuSktjbExCakVQSHdFbEw3bHpjR19rSHBnNDJBdlAxWjg4dklsWEpPUE52eUhJRjB3V2NMNGY2YU1BNUozTy1CckU4dlMwajFZbE9FYVlwWmhmMWR6VGp0RFZEaVpVSFhSYURaRTBhVEdSM0FvUUUtQlJaZ3ZqRWVrV09Ic0xxSGtkTHlTcWFmOU9FU1JfUlpnTWpjTy13ZDFNaXVDMUlQSDlqWmg3UFVNU0pfUGZQMXhB?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0V0NWNJUm1XYk5xcENuTEJ4bTlIN2xuTGVDSDZwMXI2elh2TktXYnJKLXg1c2JmNGVBOVpqR3JVdU14aWdnd0ZYemlXdVU1V3JPT3pNVl9GWmxtb012ci1yQm1OUC1KYWVHSGhweFdVbVlGd1ZZMk9oU1RwSksyd0RsSmhOM1o0?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnpVNzlnYTFZX0htczFGSW1XZFdrdnJjOEpvSnZ1NnF1TDQyQmlrMGs5elhUY3BHSTRzZVpCcWVJaFpGb0lleUpwWHVCV0FMa24zN2NDTk1VWmxDdTgxdGFzSk5fSWprQXhOLVk3UFpZSE5LYXBWRWdPMHNPM24yOUpNemNpUWJVUklpTjhDa3pseWFkSm95S2p6OA?oc=5",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1taV92RzV0Z0ZiNWhHUHJkM25NN1Q0WTNEQ0ZieFdlQ1kwRGVxTDA0WTBsMGVlN3VyY09UWFFUWVNONV9SU3JHemgyc0F1MlZS0gFWQVVfeXFMTm1rMU5LZXFGTFdCdmNyZlg5UC1QMFdKV3k3eElTNGE5X3JGdXlBQWRtVnQxNkQ3ZkhmcDdvRkcydmpQa2FjVXRTQTJuUmRDcmtJaVhoaHc?oc=5",
     "https://news.google.com/rss/articles/CBMiuANBVV95cUxPNm1aVDdia1pVbWJNR1pMd2FnQ0M1cjloaUdnTzFaWkRQalNtcG85M2pINDY5cnZiWVVSR2V6ckJuR3BsNXhHVXVvdVdRYjY0dmk2ZTgyaC1GVlRzd2F0WDEyWWpWQ2tRQnJzSno5VVpfWVRpOVlwWmtkZlZnalhQSzdPbUNLakVpbzh1UEh2alp0bUFXYzRmMHh1ZUc4QTdsTXF2VVlSR2JXU2xUN0dIeTBnRXV4SUNQcHFhUnZHbVp1RnNUUF9PTmdlR0tPcEZZelBJdEY3RC1IN3R4Z3h6S1FlTkUwRE5TWWlrS18zUDViZ3l3d0taV2JqSUs2eXJzZ21UbGxqYlpOUU5Xa3Q5alFLajVDZjk5YWgydVFydFZCZWgxZks1RU5BM3Y1aGs4enlKWGNndl85UkVJNnBoUjhtdkh0WDdFVGhNQThGZlRCc1RUcERfRGFqQkhYMkNjRjkxb3dhRzNJZzNWM1JlNHk1VjhidmN5eksxSHozSmlRdEE2QnlKa1BZR1k5Q1ZoMFl0d3BvZnRzNVRENWU0MWxVdkpUVURjd1hGMk9SM0Nteno0NWdhZg?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27571/planet-coaster-2-spooktacular-pack-adds-walkthrough-attractions-on-october-29th",
     "https://www.invenglobal.com/articles/27570/final-fantasy-resonance-the-series-first-hd-2d-game-launches-on-consoles-and-pc",
     "https://www.invenglobal.com/articles/27569/phantom-blade-zero-launches-digitally-on-october-28th-ps5-physical-edition-pushed-to-2027",
-    "https://www.invenglobal.com/articles/27568/fortnite-returns-to-the-app-store-in-australia-after-court-orders-apple-to-open-up-ios"
+    "https://www.invenglobal.com/articles/27568/fortnite-returns-to-the-app-store-in-australia-after-court-orders-apple-to-open-up-ios",
+    "https://gameriv.com/valorant-prime-3-0-skin-bundle-reported-weapons-price-tiers-and-more/",
+    "https://www.hltv.org/news/45777/the-mongolz-outclass-parivision-to-lift-1win-private-club-season-2-trophy-on-debut-with-nin9",
+    "https://www.hltv.org/news/45776/faze-heroic-and-envy-eliminated-as-draculan-season-7-reaches-final-four",
+    "https://insider-gaming.com/canceled-mass-effect-games-trailer-seemingly-leaks-online/",
+    "https://insider-gaming.com/wordle-archive-every-past-wordle-answer/"
   ],
   "title_hashes": [
-    "81796daac338dff8d587e103b6fc8f7c",
-    "ed96641a7c54be37fa0c50b65d1a845f",
-    "424f99dd5362970048ccd0eba6fa63e8",
-    "7a0070549065aaec84487c3abdae4a46",
-    "7d27e4a7ca7533a3bef4fad10a0c19c7",
     "6e03c3a6e3676f8f85a3ea0aeff3e07d",
     "9f75484e48da1beaa64f5ae543401e42",
     "28f19793781caf83f8ca1cb107cb8786",
@@ -16001,7 +15996,12 @@
     "5164d1329013d99b5a721c5e4f2518af",
     "ae7d65a68025ce28bfe425c7abe9cfed",
     "f86c187f100f63f459d02aacec6950d9",
-    "dee40ebdc35eecbb5096e64433d031b3"
+    "dee40ebdc35eecbb5096e64433d031b3",
+    "41dc906859879f83c70bd05dd0917912",
+    "07079f87255ba7c04f883b5732ca975b",
+    "9a84b5c7c27b21d7fe6640c4c69a2ab5",
+    "015be5a9e55ccd7040157ae7183c2dd9",
+    "767a6d053fb4e1003121931609900129"
   ],
   "transfers": {
     "pages": {
@@ -21172,6 +21172,26 @@
     {
       "t": "after app apple australia back country court day federal fortnite ios open ordered orders payment returns rival store stores systems",
       "ts": 1792695020.064096
+    },
+    {
+      "t": "0 3 add another bundle claiming collection could development getting hoping include line more new players price prime report reported revolver sheriff skin tiers valorant weapons will",
+      "ts": 1792695025.3418157
+    },
+    {
+      "t": "1win 2 3 bracket club debut dominant lift lower mongolian mongolz nin9 outclass parivision private run sealed season team through trophy",
+      "ts": 1792695029.246551
+    },
+    {
+      "t": "7 before bowing crucial draculan eliminated envy faze final four game hands heroic hopes major out reaches season secured their wins",
+      "ts": 1792695032.7303696
+    },
+    {
+      "t": "8217 appeared bioware canceled details effect first game has here leaked leaks mass more online post seemingly trailer",
+      "ts": 1792695036.1750946
+    },
+    {
+      "t": "answer archive catch date every explore improve missed our past patterns post puzzles skills solution spot wordle your",
+      "ts": 1792695039.8228834
     }
   ]
 }
