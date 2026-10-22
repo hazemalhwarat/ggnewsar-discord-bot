@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26589/return-of-iron-wall-kim-min-chul-defeats-shin-sang-moon-3-0-to-reach-semifinals",
-    "https://www.invenglobal.com/articles/26588/sin-swift-bunny-guide-even-crown-tier-commanders-can-understand",
-    "https://www.invenglobal.com/articles/26586/south-koreas-quest-for-back-to-back-lol-gold-medals-begins-sept-30",
-    "https://www.invenglobal.com/articles/26587/tanjiro-and-zenitsu-are-coming-seven-knights-rebirth-x-demon-slayer-preview",
-    "https://www.invenglobal.com/articles/26585/the-official-clan-of-misfits-yuluko-trio",
-    "https://www.invenglobal.com/articles/26584/daily-logins-for-rewards-regulated-will-the-eu-kids-act-target-game-design-directly",
-    "https://www.invenglobal.com/articles/26583/ea-launches-ea-sports-fc-27-worldwide",
     "https://www.invenglobal.com/articles/26582/oca-denies-dropping-esports-from-asian-games-will-maintain-medal-status",
     "https://www.invenglobal.com/articles/26581/total-war-warhammer-3-releases-lords-of-the-end-times-dlc-on-september-24",
     "https://www.invenglobal.com/articles/26559/asian-games-esports-removal-document-remains-intact-yet-oca-claims-no-decision-was-made",
@@ -7999,14 +7992,16 @@
     "https://www.dotabuff.com/blog/2026-10-22-is-it-time-to-change-buyback",
     "https://theloadout.com/sony-s-new-playstation-pulse-headset-costs-99-99-with-pre-orders-opening-29",
     "https://insider-gaming.com/marvels-wolverine-was-the-best-selling-game-in-september/",
-    "https://insider-gaming.com/snax-reveals-that-he-asked-gamerlegion-to-bench-him/"
+    "https://insider-gaming.com/snax-reveals-that-he-asked-gamerlegion-to-bench-him/",
+    "https://insider-gaming.com/video-game-studios-shut-down-2026/",
+    "https://insider-gaming.com/first-nintendo-switch-2-jailbreak-exploit-discovered/",
+    "https://insider-gaming.com/modern-warfare-4-dmz-bosses-lieutenants-locations-rewards/",
+    "https://insider-gaming.com/modern-warfare-4-multiplayer-doesnt-have-open-matchmaking-playlist/",
+    "https://insider-gaming.com/call-of-duty-modern-warfare-4-known-issues/",
+    "https://insider-gaming.com/modern-warfare-4-patch-notes/",
+    "https://insider-gaming.com/phantom-blade-zero-physical-edition-disc-release-revealed/"
   ],
   "title_hashes": [
-    "9ee5481e67f5051492534c7a6d2a0000",
-    "806997df7a065654cdd7e4a1bd37a102",
-    "21c9e90c0cc9e58f55830780c58fca94",
-    "af1d5fd6be2d8ac12585405557f0a4ed",
-    "cc4acc6d27685af78474ed08a8d1396e",
     "d80a2b481fbfa31886d7681c05e9092d",
     "61a888ad2952c25b4d00e9f9071b3f46",
     "d5387dbb4087d31f3672dfe93c1e2399",
@@ -16001,7 +15996,12 @@
     "e382c1a43f0583bc033d53372622c0e7",
     "d017777f7564426f638591607a16d140",
     "da55bf4f117bf893eb00613b3ca80dde",
-    "c4cdca0d7582f73789d944635c33fac9"
+    "c4cdca0d7582f73789d944635c33fac9",
+    "c6a15cfaef0daf91e04750190a6948b9",
+    "54924187afdbbeb429f98438044ce509",
+    "ae6ed6600f80f1c60617be795bd7d15c",
+    "f8a9b715ac974e72a58094547875fa19",
+    "d60f17b069369dbcb0a6571a2fea3cd2"
   ],
   "transfers": {
     "pages": {
@@ -21168,6 +21168,26 @@
     {
       "t": "about ago appeared asked bench find first gamerlegion half has him media month post replacement reveals shared snax social that",
       "ts": 1792680133.498306
+    },
+    {
+      "t": "2026 affected appeared closures developers down every first game has including industry latest post see shut studio that video",
+      "ts": 1792680138.7872043
+    },
+    {
+      "t": "2 another appeared been biggest cracked devices discovered exploit first gaming hardware has jailbreak nintendo post sort struck switch well",
+      "ts": 1792680142.2341583
+    },
+    {
+      "t": "4 all amp appeared boss details dmz every first including lieutenant locations modern post potential rewards their warfare",
+      "ts": 1792680145.798748
+    },
+    {
+      "t": "4 8217 day doesn have ignores launch matchmakin matchmaking modern multiplayer one open playlist post sbmm that there verdict warfare",
+      "ts": 1792680149.4980705
+    },
+    {
+      "t": "been blade confirmation confirming disc edition game get now phantom physical post release revealed that there until window would zero",
+      "ts": 1792680153.0445163
     }
   ]
 }
