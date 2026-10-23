@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26718/zeus-a-crowd-in-the-finals-is-positive-for-us",
-    "https://www.invenglobal.com/articles/26717/canyon-reaches-first-finals-for-national-team-feeling-the-weight-of-representing-the-country",
-    "https://www.invenglobal.com/articles/26716/nexon-reveals-key-systems-for-new-title-overgeared",
-    "https://www.invenglobal.com/articles/26715/zeka-if-we-trust-each-other-and-play-well-we-can-win-gold",
-    "https://www.invenglobal.com/articles/26714/sonic-the-hedgehog-gets-the-museum-treatment-at-35",
     "https://www.invenglobal.com/articles/26713/synergy-with-gumayusi-our-bodies-remember-keria-promises-strong-results",
     "https://www.invenglobal.com/articles/26712/gumayusi-just-one-step-i-will-definitely-win-gold",
     "https://www.invenglobal.com/articles/26711/head-coach-kang-dong-hoon-for-the-finals-i-will-only-think-about-gold",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27639/veteran-ruler-park-jae-hyuk-rather-than-pressure-my-mindset-is-to-learn-and-enjoy",
     "https://www.invenglobal.com/articles/27638/geng-overwhelms-ig-for-smooth-start-to-swiss-stage",
     "https://www.invenglobal.com/articles/27637/riot-launches-riftbound-radiance-a-music-themed-set-with-kda-and-heartsteel-cards",
-    "https://www.invenglobal.com/articles/27636/prime-video-announces-fallout-shelter-the-experiment-competition-series-for-january-13th"
+    "https://www.invenglobal.com/articles/27636/prime-video-announces-fallout-shelter-the-experiment-competition-series-for-january-13th",
+    "https://www.invenglobal.com/articles/27635/netflix-offered-xbox-500m-for-exclusive-film-and-tv-rights-puck-reports",
+    "https://estnn.com/vct-2027-partner-teams-full-list/",
+    "https://estnn.com/evil-geniuses-shut-down-november-2-2026/",
+    "https://www.hltv.org/news/45783/sashi-part-ways-with-tjp-and-hatz",
+    "https://www.hltv.org/news/45782/jl-on-every-other-team-in-pgl-masters-bucharest-groups-fantasy"
   ],
   "title_hashes": [
-    "21d146a842ee5846818316ae8b7b9f9f",
-    "7b6f90d275905d1eb23271730c7cb615",
-    "8417db133bb8289d23deb0ed6b56c16a",
-    "469f8d278960a01252d4a056b0e4f895",
-    "f5a905d6a082068d029966856a7f8c23",
     "d1d759a3eb7ec3b747936ba21c916536",
     "5978591c60ecdd8f61191e6dc5cfad1f",
     "2c45a8431c118cc947846fb9c9a6e60b",
@@ -16001,7 +15996,12 @@
     "b05f5ac7fc4961be2d43a0ad564c1bf3",
     "44ce544c2b47bdb53a9b810006e5a8c9",
     "c1f6b636344f550cea23f76eb31343c5",
-    "a6c53f06978e15efe948b0718bbd97a9"
+    "a6c53f06978e15efe948b0718bbd97a9",
+    "ced4b16dc797bcfb95c01151bf0ec2d0",
+    "4cb2d263433389cd668b6ef853159c7b",
+    "047ae754317f392f4f8f1a445aeae23e",
+    "2469fb327e04a9d8b4be8c6c686face2",
+    "0810c1064c0bc5ee21132f7634ba3a9a"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,26 @@
     {
       "t": "13th 2027 announced announces arrives competition experiment fallout has january new prime series shelter that video",
       "ts": 1792783537.7295794
+    },
+    {
+      "t": "500m 800m according adaptations after apart asked but deal exclusive exclusively fell film games license microsoft netflix offered puck report reports rights xbox",
+      "ts": 1792783543.0554156
+    },
+    {
+      "t": "2027 2028 32 across all americas china cloud9 drx emea esports every full global koi list missed movistar organization out pacific partner plus rejected teams that vct who",
+      "ts": 1792783546.531427
+    },
+    {
+      "t": "2 2026 27 after all biggest cease ceo chris competitive day deappolonio down esports evil geniuses happens november operations org players said shut what will wins years",
+      "ts": 1792783550.1891603
+    },
+    {
+      "t": "chief danish game given has hatz organization part preferential sashi suggested that tjp treatment valve ways",
+      "ts": 1792783553.7174182
+    },
+    {
+      "t": "bucharest every fantasy games groups hltv masters one open other partner pgl play season team two",
+      "ts": 1792783557.2419755
     }
   ]
 }
