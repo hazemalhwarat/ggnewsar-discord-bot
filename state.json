@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26722/demon-slayer-collab-begins-obtain-nezuko-pet-as-event-reward",
-    "https://www.invenglobal.com/articles/26699/krafton-ends-development-on-amsterdam-studios-new-title-pubg-black-budget",
-    "https://www.invenglobal.com/articles/26698/trinity-trigger-launches-on-nintendo-switch-2",
-    "https://www.invenglobal.com/articles/26697/it-will-be-different-from-hangzhou-saudi-captain-issues-challenge-to-faker",
-    "https://www.invenglobal.com/articles/26694/daewon-media-launches-physical-editions-of-solarpunk-for-switch-2-and-ps5",
     "https://www.invenglobal.com/articles/26696/nc-begins-pre-registration-for-lineage-golden-desert-abella-update-on-september-30",
     "https://www.invenglobal.com/articles/26695/chinese-taipei-defeats-vietnam-to-advance-to-lol-finals",
     "https://www.invenglobal.com/articles/26693/beastkin-and-avians-joining-the-first-chapter-of-the-adventure",
@@ -7999,14 +7994,14 @@
     "https://thegamehaus.com/jacksonville-jaguars/jaguars-lt-anton-harrison-out-for-season/2026/10/23/",
     "https://thegamehaus.com/fantasy-football/fantasy-football-week-7-tight-end-rankings/2026/10/22/",
     "https://thegamehaus.com/fantasy-football/fantasy-football-week-7-wide-receiver-rankings/2026/10/22/",
-    "https://insider-gaming.com/shigeru-miyamoto-may-make-another-game/"
+    "https://insider-gaming.com/shigeru-miyamoto-may-make-another-game/",
+    "https://insider-gaming.com/kcorp-beat-al-lol-worlds-2026/",
+    "https://insider-gaming.com/atari-vcs-store-shuts-down-in-february-2027/",
+    "https://insider-gaming.com/ea-sports-project-gridiron/",
+    "https://insider-gaming.com/mkoi-shock-blg-lol-worlds-2026-swiss-stage/",
+    "https://estnn.com/pgl-masters-bucharest-2026-teams-format-schedule/"
   ],
   "title_hashes": [
-    "041e5c4a50d6a54927a02cfb6fc1af91",
-    "d407db5ba3f374ba626689716239244d",
-    "257e18a99adab699484033234c9d28fa",
-    "cb744d27caf3efdfddf345c3fe4042f2",
-    "0d53b2a510119a823de6414611166502",
     "2cb57070f8b2d2a55f725e50ae70eb14",
     "9eaabb35cfe3fe400f1d1eac94e2d9c3",
     "2819538f3a4b91b75a46a502b055bef5",
@@ -16001,7 +15996,12 @@
     "04a71d202bcfb70ebe20769df37ab910",
     "80e56c81597d787cdcdb6007eb24c31c",
     "fb14760953d6882e34663e257b17844a",
-    "e8943965ef6ee7e506993c22a13889b4"
+    "e8943965ef6ee7e506993c22a13889b4",
+    "7f9f2afbbcbdeb63124910761dfefb24",
+    "a048e8babe141dc555a4df8293ed04a7",
+    "50cb0055e3650e6054de1006cc2700e2",
+    "944d8079586dfce71d5a9186626ea658",
+    "e66461eb6d3e90e82c2b0aa54c2a9abf"
   ],
   "transfers": {
     "pages": {
@@ -21300,6 +21300,26 @@
     {
       "t": "again another appeared despite film first focus game gaming insider make making may might miyamoto post says shigeru try",
       "ts": 1792794548.496856
+    },
+    {
+      "t": "anyone appeared beat champions corp euphoria form impressive ins karmine kcorp kept legend lol lpl misery more over play post their upset worlds",
+      "ts": 1792794553.464303
+    },
+    {
+      "t": "20 2027 after atari closes dependencies down downloaded early end february games plans playable post remain removes server shuts store support update vcs will",
+      "ts": 1792794556.843154
+    },
+    {
+      "t": "8217 8220 8221 about appeared details first gaming gridiron has insider learned post project remain scarce small sports though what",
+      "ts": 1792794563.6928492
+    },
+    {
+      "t": "1 2 battle blg but day event far lec lol lpl main match mkoi only post seeds shock stag stage swiss tournament worlds",
+      "ts": 1792794567.2187088
+    },
+    {
+      "t": "1 16 2026 24 25 31 all bucharest cs2 format masters matchups million october opening pgl playoff pool prize round runs storylines swiss teams",
+      "ts": 1792794570.585742
     }
   ]
 }
