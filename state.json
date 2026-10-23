@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://pley.gg/cs2/navi-projected-to-miss-first-major-in-history-as-hltv-unveils-singapore-forecast/",
-    "https://pley.gg/cs2/record-breaking-performances-the-players-with-the-most-kills-in-a-single-map-in-counter-strike-2/",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVNBb2ZrdXVOZWZwaDhPQkJyWkhha01Wd0RLYXdOQ25OQl94MkJuVVMwZEhnVk42VzZQZ0xEZWpYajhaT1FYUHJPSzR2RFNGMTJhMWN3VTJHTDJOTlJpN0FsNFVQd09vMlB6ajJRajhuMUhiY0ZDcllLZ211WlA0MjBBQjdqYVJrUlhIX081Qm01S1B5dGFaaw?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUThHMlNFSHhVbVVEUXR4cU95NGZoTzljRDVWNS1lcGJ3dF9oVUotWGpDclhaNFc0TklHNW1paG5CcV9mZW1ITEpWd3BVWFJuMzJZX0ZQSTFIQzh5Vm9uS19xemNES1YyMTRRYUQ1RU5MTlZwS0dvek4yWE44TG9XV2F4ZGZRc3c?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFJ3VHZMeDJnSUJrSVVLYXVsTUNBR0MxWEo5cUtTUVFIelcxYzM0VXJ3aENEdnFYVnpSS3ZwTS1lM0FPSFlFX2pCaWNfTGJvYlpfbzg3dWhURUlfRzRWSUZPZXBEdWpoOFNRc3lLX2JFUFczR0pQeDZEV3NZUzQyLUNhR1pwZ1BQSlFaZVlZeEhhTTl5RHc?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Nb3pmQ25GUFV2djM5T2ZGcnpOYUMydlNFNDdDbVdNYkdqSmxINmNNb3U4RUM3SmFIRDhsSmwyX01leGhGNGJKanZNNk9RVno2VmNBekJnWlJDWTJTdGUtbXZIZlEyVVdJUV82dE9pZDAzRWZ5Y3c?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nTjlHTm5ST2J1MGQ4TzJaQ29UeTI3WTQ4enYwYVZ4SmJ2aEh1NTliWjZWb090Ukw0bnk0SGJIUXpxU2VmSWlLXzVpUWpGc2k4dGhPVDVYOG9LQWp6NXc?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWthNHU3cmVGLWxiVDNJTXJ4Uzh6S0t3WG5yX0xDb2ZZLXAzX1BhT1VrZU9fV0lrRzlobzI2TDZ0R3J2UkE5U0NITS1SSFJHSVd2M1phTm1pWXREanBtUWdCQ2Vxd1NrcEV3b21oOVZGWUMzNTRla3VxWW9TblJyNjJSR1VKc2owNDZQNlQ3cHFZX0trVzFwcnVWWXVaY2JCUS1hcWFWdzlnbEI1?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqcjQxck9ZNnBGOTR4MVRXOEFLZzFmZXhVR2YtSGR0UXBjamY4a1ZHVDFkRnIzQ1pwWjlWdFhkNWxmRnczc2dFTXZReldwQQ?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYUlTcVNmSWFXQ0IzXy10RzVCVzJOQjFEaGxMWnFaVHBsQmg4WHoyVnFSSUZtN19RaHlBRWZyazAwdkdjZHZNYlBwb3VZdndUNVd2SzFDVW9rLVNoWElSb2hBb3RIc01RZkVnWkxzTFBHTHZYMElUN1lWQUROU0dIZnExc3JHLW9iSXpIZ0ZFZ0N1bThMdDhad1IyQ1VzbXYxR0F4d1IyNHZyTXFzQ1FpRW1uZGpiY0Vfem1qTQ?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFgtOXJ3WTQ4YWdJdi1zYUZEckM1Wk5IYzlMTUMxVEkwalBRZnZYUnYzanhuRXBvekRhWUp2dDVuZThRZjBaMkU0TVJMVGIteV9KdDlFbE55bXpFUXl2RmEzT1hSTlpUZlpHeXVRNzlnVkVjbHk4WmV1QWttanRZQ3ZkWlRvSnBsenNVRDJ6MGxBUnRBTDAwSGh0RWoxd01RRjMyNWVXX0hBbjdwWTFYTQ?oc=5",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdUNibFhqYkx3VG5tZFlLSjJvNnQ1NHBvUndoVGZaa21SV2lJTDgzdFM1MUxNZGhzM0YwZ05pUk02MENjVVBoTXVTMmJtQUNaREE4R1Z4WGhFOGJTVzM0N0haTlJSV0kxXzIxMDBMWUs0aFRZNGpYN1hHbGUyRDN4OTQzenM2eDlRRmU2R01PSGRSR1Y2d2pfanE2NER0eEZTcTlkVm5XLWljOTdiTjZ6MDJ5UHNYLTlyVFJ4cXl4cmUzOHRtM3lqTEg2OThDSnRUTm0tbmhoZ1pvYlhHdEhiTjVPTk5hQkhu?oc=5",
@@ -7999,18 +7990,18 @@
     "https://www.invenglobal.com/articles/27587/cult-of-the-lamb-launches-on-nintendo-switch-2",
     "https://www.invenglobal.com/articles/27585/belkin-operates-product-experience-booth-at-disney-run-2026",
     "https://www.invenglobal.com/articles/27584/tbh-task-bar-hero-launches-halloween-update",
-    "https://www.invenglobal.com/articles/27586/micronics-launches-classic-ii-ev-80plus-gold-atx31-series"
+    "https://www.invenglobal.com/articles/27586/micronics-launches-classic-ii-ev-80plus-gold-atx31-series",
+    "https://esports-news.co.uk/2026/10/23/nova-esports-recover-from-map-1-loss-to-beat-any-questions-gaming-2-1/",
+    "https://esportsinsider.com/2026/10/mibr-gc-beat-fennel-female-to-win-game-changers-championship-playoff-opener",
+    "https://insider-gaming.com/modern-warfare-4-twitch-drops/",
+    "https://insider-gaming.com/best-kastov-762-loadout-modern-warfare-4/",
+    "https://insider-gaming.com/best-iso-nightshade-loadout-modern-warfare-4/",
+    "https://insider-gaming.com/best-m4-loadout-modern-warfare-4/",
+    "https://insider-gaming.com/best-vel-46-loadout-modern-warfare-4/",
+    "https://insider-gaming.com/best-han-86-loadout-modern-warfare-4/",
+    "https://www.hltv.org/news/45775/independent-in-one-year-i-definitely-see-us-competing-consistently-at-tier-one-events"
   ],
   "title_hashes": [
-    "61fe05c1bd40164c401836883f93f91c",
-    "04ba7cd37fe94a8f01a9f22ceabf727b",
-    "c1b7959599098c392a39779812975c14",
-    "f1021c981f153c247e642098ac273398",
-    "6ebe6c751d3747057987852997ddd82f",
-    "0db43cc3d19abe6299b32c75f491a87e",
-    "412bff7589464129d6b5e5cff24e2218",
-    "f1ab46b5ddea4ff643fe7ee82bb363e9",
-    "b03fa1ffe742c35a1e3b0fcaddd7a5bc",
     "16d94eb42f90b8ce02a5c1cf36383a0a",
     "f2218948907e5b55c4f3f68d008a0a79",
     "4668d923d20fd85773f2b32c96f8b35a",
@@ -16001,7 +15992,16 @@
     "1f1bd0dc4ceb215d4bbb4ea5c27f94da",
     "c3f24031a3eb56f84c63e03e95324ca8",
     "fe6dea202f96e333336eb19329c25be0",
-    "75a373341c4f79a06e7832c52451c480"
+    "75a373341c4f79a06e7832c52451c480",
+    "26fb45475b62b09127227e94be9f1c9a",
+    "775dea9cd9408019d1d8fcbc594c8cab",
+    "2c233f2573d504837963916bcf29b352",
+    "8f0a7261833809b739aee7cb9b16c242",
+    "f40676349111fac1855e5120f0f54def",
+    "2d660283c6af54417e5e7b6c7f118305",
+    "374d500485d93077be0b11a071dc5517",
+    "40d8c913c055170237cc330515a91439",
+    "c4addf11639f1b95b545d953919331c7"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "1 80plus atx3 choices classic consumer delivery efficiency expand gold high introducing launches micronics micronicsmicronics models new performance power series six standards supply support that",
       "ts": 1792750905.6508057
+    },
+    {
+      "t": "1 2 2026 any beat but china continue esports face gaming keepbest long loss map maps nova now opening questions reading recover remaining threshold took vct won",
+      "ts": 1792750911.2082553
+    },
+    {
+      "t": "2026 against beat both championship changers female fennel game maps mibr open opener playof playoff playoffs post ranked side third took vct win",
+      "ts": 1792750914.7076647
+    },
+    {
+      "t": "4 all best build check full guide kastov loadout modern out perks post powerful run this want warfare you",
+      "ts": 1792750918.2690032
+    },
+    {
+      "t": "4 best build capable check fast fastest insane iso loadout modern most one out post smg smgs this want warfare you",
+      "ts": 1792750921.7191916
+    },
+    {
+      "t": "bullish but coach competing complicated consistently definitely events fnatic future giving his independent isn look major may one qualification road see team tier year",
+      "ts": 1792750925.2439854
     }
   ]
 }
