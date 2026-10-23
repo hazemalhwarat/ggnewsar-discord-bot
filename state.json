@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TaWRtaEFMRmpkdk5kZFRJSnJkY21qMFhzVHJGaEZwRkdaRjFTbVJDWktwYTVhcjE1aEVONERyTGwxRV9Sb2RJMU5NN2txMXdnd0RaRmdCdTh3X1dCNTVGSUgyNng0SE00WWJr?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGM5bGhORzNpa25xU0FyaGM2NFZsV0ZCbzRVcF9uZEFuanE5Qm1wMVhEdlNpaDBOcUE2MUpYME5fZG0yNDh0MWl2Sy04b1dTdzA1blpJc3FNNElUSHp0aHh6d2N4dHpBQTQyZmctZmI0azNnNW9hTFFGTTU5UU90YVNBS2w2ZDVWa0RmdVZlbEE1YldtX19IMg?oc=5",
-    "https://www.invenglobal.com/articles/26721/top-12-new-games-and-tests-coming-in-october",
-    "https://www.invenglobal.com/articles/26720/astraea-oratio-releases-character-pickup-pv",
-    "https://www.invenglobal.com/articles/26719/legend-of-ymir-adds-new-assassin-class",
     "https://www.invenglobal.com/articles/26718/zeus-a-crowd-in-the-finals-is-positive-for-us",
     "https://www.invenglobal.com/articles/26717/canyon-reaches-first-finals-for-national-team-feeling-the-weight-of-representing-the-country",
     "https://www.invenglobal.com/articles/26716/nexon-reveals-key-systems-for-new-title-overgeared",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMS1mc0hQNzR6em8tczRickNzVFBNN1hBczdabEpJTEp3Ymhrb1RIV3NTZF8xVmh4czNfMUJpSERQa2lwQ1pLS1ZFTVRtaG0tYlBXVlh3c0ZONkVCdjB6cUpjS3V5U3BwTWVhOER1Mi1fN1NiMkU4VGZ6SjVkY3Q4RnBBQUNOa1h0OVV6NWxGcVFHWFA0ek53bTlZTU83ZXNVaGc0aks4SWh4cWVKY3o4bGxR?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXB2aHdFdnotT0lUVGt5SXJxbG9tek5XTFBPbDV4enZRUWE3YXc0TjIwMGhScm1lYnZsdFJGbndqV2VEMjJ2N0ZWTVFaU3NQTjh0akx6bVQzNUQyaHhwY202XzlGUDNuU0NlbGpBWDdFcFU1WTBSeHhHbFo1RkhiT3lUZm9tSGhOTkswbXhQSncxMUplYnNGRDJERFZqTXdXRzRTWEF2ZVpPMVUyQkE?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSUVPbVhWb2xHekUtZUdCZy1uUmptTlp1MHU3ZEU4Szg0QmZkeFFJQXFJd3pLdGJYT0F3cm9LbVJwbmN6LWdjXzlpaERyN1NyOXBRbkU5bXlLT3V6a1BBcjFiaHVBNjFpTDItZFBZODdBMjl6VGEyQ2otdXhJQnNQN2RPdzR0OU9WYkp2THFaNVVMS1hQbTIteFBNa0FNcGx5MS1fSVVRaFNvSTVtMDN3cnRNVXF4ZU0?oc=5",
-    "https://pley.gg/cs2/cs2-update-expands-map-scripting-as-valve-adds-a-negative-team-income-string/"
+    "https://pley.gg/cs2/cs2-update-expands-map-scripting-as-valve-adds-a-negative-team-income-string/",
+    "https://www.invenglobal.com/articles/27640/an-overwhelming-gap-in-power-hanwha-life-defeats-tes-in-23-minutes",
+    "https://www.invenglobal.com/articles/27639/veteran-ruler-park-jae-hyuk-rather-than-pressure-my-mindset-is-to-learn-and-enjoy",
+    "https://www.invenglobal.com/articles/27638/geng-overwhelms-ig-for-smooth-start-to-swiss-stage",
+    "https://www.invenglobal.com/articles/27637/riot-launches-riftbound-radiance-a-music-themed-set-with-kda-and-heartsteel-cards",
+    "https://www.invenglobal.com/articles/27636/prime-video-announces-fallout-shelter-the-experiment-competition-series-for-january-13th"
   ],
   "title_hashes": [
-    "c10381635d3c2bd4554e165710225dda",
-    "4278df12de67a43dcfd4f714a3b60652",
-    "c81ac340107060edfcdfaec393b2b890",
-    "e306176cccc89f101e6ac61457ca1909",
-    "299dfc0881efef8f8b88560aab0f57a7",
     "21d146a842ee5846818316ae8b7b9f9f",
     "7b6f90d275905d1eb23271730c7cb615",
     "8417db133bb8289d23deb0ed6b56c16a",
@@ -16001,7 +15996,12 @@
     "a97ac2ac5ce8f25921a119f9da30f531",
     "b5246d82cd677a5d7f30470c694773d2",
     "e8707477bec3126804a20ee5f95978b3",
-    "1a6ea957a8bb98fe96f2a45438cbceef"
+    "1a6ea957a8bb98fe96f2a45438cbceef",
+    "c3af0f7dfcaaaa1ee6d9dad91368d631",
+    "b05f5ac7fc4961be2d43a0ad564c1bf3",
+    "44ce544c2b47bdb53a9b810006e5a8c9",
+    "c1f6b636344f550cea23f76eb31343c5",
+    "a6c53f06978e15efe948b0718bbd97a9"
   ],
   "transfers": {
     "pages": {
@@ -20710,102 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "alpha czech enters fourth free game games gray has its madfinger major moves open ops pre released rogue shooter steam studio tactical update via warfare world zone",
-      "ts": 1792706543.8696518
-    },
-    {
-      "t": "000 12th 15th 2026 50 announced announces build day editor engine epic fortnite four game games grants has jam megajam november playable running teams uefn unreal which",
-      "ts": 1792706547.3461022
-    },
-    {
-      "t": "2026 23 absorb before championship day dreams early face faker gamesin held interview invenglobal jerseys kst laner lck lcs lol lyon mid mids morning october one opening riot saint stage strengths swapping swiss team their video want world worlds",
-      "ts": 1792706550.774021
-    },
-    {
-      "t": "27th ahead art behaviour build clown daylight dead films first gives has interactive look october player ptb shown terrifier test time",
-      "ts": 1792706554.199961
-    },
-    {
-      "t": "2026 23rd before bot championship coach conducted day early energy esports g2 gameson great hans interview inven kst laner lol morning opening perkz radiates riot sama someone stage swiss video who world worlds",
-      "ts": 1792706557.6378264
-    },
-    {
-      "t": "confidence could debut emerged even event games had limited mongolz needed nin9 piece practice that their they victorious win",
-      "ts": 1792706563.104828
-    },
-    {
-      "t": "5 against backs basically because big damage episode have heading huge into loss mentally need ranked reset stake their this wall xenn",
-      "ts": 1792706566.7178876
-    },
-    {
-      "t": "2026 7 already approaching back best books continued fantasy football has its landscape midpoint nfl options rankings running season six team week weeks your",
-      "ts": 1792706570.1105425
-    },
-    {
-      "t": "8217 absolutely anticipated brutal can easily extraction game harrowing horrific hot hunger minute miss missed most post realistic rpg seen that",
-      "ts": 1792706573.5073562
-    },
-    {
-      "t": "4 all between call can cod depending dmz duty features here how info interconnect level leveling levels mode modern modes multiplayer new overview player progression systems that two unlocks usuall various warfare weapon weapons works year",
-      "ts": 1792706577.0267043
-    },
-    {
-      "t": "2026 8217 about after ahead caps exactly flexible g2 going hear him more much now poor results rumored scrims spoke start tough understand what which wise worlds",
-      "ts": 1792706582.2002168
-    },
-    {
-      "t": "after ahead caught did doing english europe first having him his how kyeahoo lck lol moved put rates reaches skills some stint test time tongue twisters worlds you",
-      "ts": 1792706585.7368312
-    },
-    {
-      "t": "1 15 2026 begin claiming concluded corp day event expect karmine kicked main october off place play preview securing stage start swiss their tournament victory what which will worlds",
-      "ts": 1792706589.1195533
-    },
-    {
-      "t": "000 1 2 250 action already back best day debut dota ends featuring first got liquid new officially online pari recap see series squads team teams tier tournament universe watch win world worth",
-      "ts": 1792706592.5339737
-    },
-    {
-      "t": "22 500 according after claim cost day figure finished game gears its launched leaves make marketing microsoft million more never new october out over ps5 report reportedly shipped surfaced than that two version war weeks",
-      "ts": 1792706596.289354
-    },
-    {
-      "t": "8217 before bioware bloomberg cancelled closure effect game has its jason leaked making mass online real roughly says schreier shows trailer two universe",
-      "ts": 1792706601.5317252
-    },
-    {
-      "t": "2026 22 23 30 5 8 after come comes daily date does every fortnite friday india ist item october price release reset right set shop slenderman that thursday time when",
-      "ts": 1792706604.95411
-    },
-    {
-      "t": "esports heretics join lec nbsp razork set sheep sources team",
-      "ts": 1792706608.3713915
-    },
-    {
-      "t": "actually broken deep dive duelist hush into newest valorant",
-      "ts": 1792706611.749499
-    },
-    {
-      "t": "act action appeal censorship constitutional court during game industry jin joo law party people power process promotion regarding rep representative swift swiftly urged urges woo",
-      "ts": 1792716000.1497247
-    },
-    {
-      "t": "6 anniversary coin dark dominion dungeon events fantasy game global guild has its korean major mark marks massively mmorpg multiplayer netmarble one online playing publisher raven2 released role service stage update year",
-      "ts": 1792716003.8990774
-    },
-    {
-      "t": "announcement announces appeared continues day embrace epic event first games its makers megajam multi november post shown technology uefn unreal",
-      "ts": 1792716007.3788676
-    },
-    {
-      "t": "believing beyond consol console consoles could creator danger dedicated end era evolve faces fears hardware ken kutaragi need playstation post real says that very",
-      "ts": 1792716010.8218305
-    },
-    {
-      "t": "2026 admits ahead aspect before big bilibili challenge competition face first gaming hasn have koi lec melzhet mkoi movistar one round solved stage start swiss team teams them there top will worlds",
-      "ts": 1792716014.1972988
-    },
-    {
       "t": "3 announced december edge edition h2 interactive interactiveh2 korean launch launches memories officially ps5 that will",
       "ts": 1792732990.1098464
     },
@@ -21256,6 +21160,26 @@
     {
       "t": "adds cs2 expands income map negative scripting string team update valve",
       "ts": 1792768905.600557
+    },
+    {
+      "t": "2 2026 23 24 allen center championship credit defeats early esport event gap hanwha held kst life lol match minutes morning october overwhelming power stage swiss tes texas union world",
+      "ts": 1792783523.4496763
+    },
+    {
+      "t": "2026 24 championship china defeated enjoy featuring first gen hyuk jae kang learn lol lpl match mindset october park pressure rather ruler seung stage swiss team than their theshy veteran world worlds",
+      "ts": 1792783526.9747002
+    },
+    {
+      "t": "1 2026 24th allen center championship credit defea early event gen held kst lol match morning overwhelms smooth stage start swiss texas union world worlds",
+      "ts": 1792783530.5521288
+    },
+    {
+      "t": "23rd card cards english french game games has heartsteel its latest launched launches league legends music october out radiance riftbound riot set simplifie tcg themed today trading worldwide",
+      "ts": 1792783534.161451
+    },
+    {
+      "t": "13th 2027 announced announces arrives competition experiment fallout has january new prime series shelter that video",
+      "ts": 1792783537.7295794
     }
   ]
 }
