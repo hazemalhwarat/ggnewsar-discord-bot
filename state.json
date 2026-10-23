@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1dWptSzF4cVVXTUlqczFiVl9hekJOR0p0eUdvLTIwTzlVeXp3M1dUdDRtZ21xVmpDQkFXbERyWlhHYzQ0UVdJVGJnVS0tRmxuNDVMMzEtQTRPUVRFX1dWTlRZMllPeVFSN1BBRkVWWnY1bGNKcXE0Wml1Q2o?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX1RrYnNBckFBX1otMWVXU0lBR2tUOHBiZlcxTmkwZU9ETzJuS1had0dZbUpSVV8xT3B0ZXYwSF9mSHdRRDJ6cXVfUUd1a3M3T1pmUEViekhlVkRITi1MVk5hWUhNNnJkR2lUdUlLMXMyRGU5OGlxNGFrRnphTDJZb0NaaG0zUGJBcjl6bjM0VGl5ekJtQ3haR196U0d2WVdu?oc=5",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xX2w2b1RRTTQzcTAzSUZFUnV3RWVRa0NtOWVLc1dLa0doNm5OU2s1Zk9uRVY5LW80bWtNTFluWXdMenlMcUFlVU50eTFXUEF0Z1h0MmFZNmJJSkpTWXFka2NLajdxMmpzTFo2a3RubUdvMTVp?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Cazk4NWpBdkgzMFlTamh6LVBFWS00TXpVVFFrWkk0MkpyQ1BXUUpFNnVIanFTYnNlejgxeWJpVzlsVklOaGRXMThkM2h6OHNuUk14SEdDSU9hOVdXTTc5X0tqYTlGUThTSmt5R1U4TkdrWm8?oc=5",
@@ -7999,10 +7998,10 @@
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdzdVVkNUNFZ1Sk43c2s2STJhVHktWDU3S0JVbWxMVXJuZkg5b0lOeDJaMWlTbFV4cDdRM0xIZE95RS04SFQ4Zl94QmE1WXhCWDFBejhlUnFvZGFJenNyUGpCSDl0ZW4teUpkTm45VmlVZFNaQjhJYWpzN0Y3UGkwZ1JB?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzR5bnBncFdOc29OTmtQcGpObU9Qblk0QlhPeUVlcWtuaFdYMGhVUDl1Q1doWjhxOW82eXJNZl92WUJZTDJTMks2VG9pNmVlSW51S1VRYXZQY1lIY1M0X3Z0bzVMWTFKbHBFWGZGNTRqQTA4SUtQX1l0cGJvZ1pmZnljRWQ?oc=5",
     "https://pley.gg/cs2/co-streams-now-draw-almost-half-of-esports-viewing-as-official-broadcasts-slip/",
-    "https://pley.gg/cs2/fluxo-s-major-hopes-collapse-in-curitiba/"
+    "https://pley.gg/cs2/fluxo-s-major-hopes-collapse-in-curitiba/",
+    "https://pley.gg/cs2/jijiehao-chase-a-major-miracle-on-draculan-final-day-after-beating-faze-and-knocking-out-s1mple-s-bc-game/"
   ],
   "title_hashes": [
-    "030edbdde90b985fc5755b8b99275a87",
     "15e40a89242e4b5b31bea7b034386f47",
     "b46b4944030408d2261d3b3967d1a103",
     "a6c5b5e3ccc54c2dec2fe460106f5fe3",
@@ -16001,7 +16000,8 @@
     "a2c544e0171d4f71cd0028b2290a241a",
     "dec411a68b3b49a89f688cb74b7fe67c",
     "f2a03565026efdb3c27c661e6bbcb883",
-    "6d7dac6623b2828cdff02c9576e335f3"
+    "6d7dac6623b2828cdff02c9576e335f3",
+    "49640c84750f74d68b77faf11ac89ea0"
   ],
   "transfers": {
     "pages": {
@@ -21172,6 +21172,10 @@
     {
       "t": "collapse curitiba fluxo hopes major",
       "ts": 1792750963.753403
+    },
+    {
+      "t": "after beating chase day draculan faze final game jijiehao knocking major miracle out s1mple",
+      "ts": 1792750969.0191884
     }
   ]
 }
