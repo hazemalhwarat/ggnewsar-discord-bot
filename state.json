@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkpuRk9yWk1rS1BEaUtySXJmX3c0N1ZReXlQMGkzN0dkR3hETkpPM1NNbHlpdlgxb09rRmpyanpRdnUxQnlHUFdISHA2TWlhTFk4OUFFWUhlREt0MlllVVVhR0h4UE5xOVFSaU5ibHVERzZyNTN5cWNmV2x6SXY0NDRPSjg2Zw?oc=5",
-    "https://www.invenglobal.com/articles/26663/just-insert-the-disc-xbox-converts-physical-games-to-digital",
-    "https://www.invenglobal.com/articles/26662/claim-dismissed-voice-rights-recognized-tokyo-court-issues-ruling-in-voice-actor-kenjiro-tsudas-ai-voice-cloning-lawsuit",
-    "https://www.invenglobal.com/articles/26661/an-adventure-unfolding-on-your-taskbar-traymon-world-demo-released",
-    "https://www.invenglobal.com/articles/26660/joycitys-3on3-freestyle-granted-chinese-import-game-license",
     "https://www.invenglobal.com/articles/26659/pearl-abyss-adjusts-first-crimson-desert-dlc-release-date-to-october-30",
     "https://www.invenglobal.com/articles/26658/arthur-hayes-unveils-ai-agent-currency-flop-kbw2026-opens",
     "https://www.invenglobal.com/articles/26657/even-koreas-record-25-trillion-won-couldnt-stop-it-kwon-hyuk-bins-wife-appeals-property-division",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27603/goddess-of-victory-nikke-to-hold-4th-anniversary-special-broadcast-on-october-24",
     "https://www.invenglobal.com/articles/27602/logitech-opens-brand-store-at-lotte-mall-valleytown-cheongnyangni",
     "https://www.invenglobal.com/articles/27601/hosting-a-tournament-quadruples-revenue-the-secret-behind-flyff-universes-fwc",
-    "https://www.invenglobal.com/articles/27600/nexus-presents-korean-expansion-strategy-to-chinese-game-developers"
+    "https://www.invenglobal.com/articles/27600/nexus-presents-korean-expansion-strategy-to-chinese-game-developers",
+    "https://www.invenglobal.com/articles/27599/wo-long-2-wings-of-ember-to-get-stronger-martial-arts-after-alpha-demo-feedback",
+    "https://www.invenglobal.com/articles/27598/herrscher-of-time-arrives-honkai-impact-3rd-releases-version-91-newly-shining-time-update",
+    "https://www.invenglobal.com/articles/27597/lol-based-tcg-riftbound-releases-three-limited-editions-featuring-kda-worlds-and-t1",
+    "https://www.invenglobal.com/articles/27595/legend-of-mir-2-red-knight-hosts-1st-anniversary-event",
+    "https://www.invenglobal.com/articles/27596/reel-fishing-days-of-summer-releases-nintendo-switch-2-edition"
   ],
   "title_hashes": [
-    "8a9768a090fa7befb8aee7cb6117d780",
-    "43dd70ac36657f02868a44bbb0804fd0",
-    "ae92a7249f62bcdc7c7af47b78e5ca73",
-    "7d967c93166b9b0ce8a329a4aef0e15b",
-    "867c947f8cc20018d2f81dff6dbd42de",
     "7b176bf7f5ae96a0a09293f235da2302",
     "c6d07175823819f547840c2e911e5e25",
     "c84143e8de83f16beee47eda588420d9",
@@ -16001,7 +15996,12 @@
     "b0e47b9b996c2c185d58d0b4b0a9e0f0",
     "6ab0164221aa156d25fe747f6d2c6811",
     "3e29501bf2878285fdaa9edbb4d4400c",
-    "ebe5dbaaaed7e829ec2ce2782c54f721"
+    "ebe5dbaaaed7e829ec2ce2782c54f721",
+    "6762c940dcd3cd577681165e4ac67cfb",
+    "c1fafd454d51182e2a91df1d0dfba782",
+    "0b78875210892ccd6aa6f7c1083d6543",
+    "c2765e52ccb07117b3e12e7047bd926f",
+    "6c9817c6c9dab4cd32c0c8f881b2fd7d"
   ],
   "transfers": {
     "pages": {
@@ -21152,6 +21152,26 @@
     {
       "t": "2026 asia ceo chinese conferenc developers during expansion game games global industry its korean market nexus pacific presented presents strategy subsidiary summit",
       "ts": 1792733042.7582955
+    },
+    {
+      "t": "2 action after along alpha america arts changes demo developer ember feedback full game get have koei long martial ninja planned player recent results shared stronger survey team tecmo wings",
+      "ts": 1792733047.917755
+    },
+    {
+      "t": "1 3rd 9 action arrives content has herrscher honkai hoyoversehoyoverse impact including introducing its launched new newly releases rpg shining time update variety version",
+      "ts": 1792733051.4884043
+    },
+    {
+      "t": "29th based card edition editions featuring game games gamesriot its limited lol physical products release releases riftbound riot t1 tcg three trading will worlds",
+      "ts": 1792733055.003338
+    },
+    {
+      "t": "1st 2 23 29 anniversary celebration event games gamesvfive hosting hosts knight legend mir october red vfive",
+      "ts": 1792733058.6730447
+    },
+    {
+      "t": "2 22nd announced arc asia asiaarc days edition fishing launched ltd nintendo reel releases simultaneously summer switch system that works worldwide",
+      "ts": 1792733062.2894902
     }
   ]
 }
