@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGxlamkxNjNHa29sMkdIV0dUMHRuSU45Q0hsQzdCTjg4QzRoWGY1eWhLRHdfWFFMazNtclc0RzVrcFdmaDZJRElpeHJXVEVNbHVJUFZPMzd3RDgxejUtSnJZV2VkZDFpVlgxUnJDbTAwV01mdHMtSEd0RFFxSlRzVUh6cGZWOC1yb1ZlSEtqRlFDQVU?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzBZVU5pUnFRTkFIMFRDU3RFc3d1ZG1FZFpMODJkZ3pYNFFhQjB4TGpIbGlUem8yZThwUDBIdDB3SkpFamlWWEZBUzJoRWJsOVE4b1BjSmM5UnBITE9EWVEwUnpzNDZXbWVlQmczM0NYUVdWUzJmamVGTDVfV3lrTEtmcXdaOUNkcEpDNnZtZkRadldZaUtFVTNR?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeldwWk1xSnFBZktxX2RjaDZTMWVpdXgyaEZTQWx4Y2l3Z0dxMTg3aEQ5bmlDZVNMZnIzbUlxZkhjd0Jpd3owRk5qbDZON05hZjlMR3ZpRS15TnM3cktJTjRSQ2tlSkUxZDEtZEZYNEZlTWJraV9kMklMejZ6RGVqUm0ycDY5eldKd0lEd3ZRMXdqMS01cTExd3ktQWxDS2xOdVNHTVpDT0dkc3FyNkE1a2xFZFl5emJXbGlUTjFBRkljbTNmZlo1MEdpYVAzNlBrc25wTU930gHWAUFVX3lxTE84NkdkQlhQcDVMYlNidzhSdTlUNUNDQlgwY2R0d2JzV0dfeC1EaV9KbXoxd1lEUjB4by13bjdQSXVQaTRLVVo0WW5vbGpiOWJCb1Q4dXFEZ01sV0FNYUpMUlJva2JnamxnODF1S3BCdmR0MUQtaTF0b28ycGxXdFRMSVl5RXhzR2VvYUJwUHZ6enY3clZXYUZEN3JRbm5ndE1wdXhXNGIzXy1rd3hmOWFSZmFtOTd0TFNmbl8yaVFtQ2hpbllqS1pyVTJqZVNVRkE1VDNsT2c?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SeDhKSmJhcV9od2VSdlJLUDY0ak95NjhYMGxTb2lud1ZjRXgtbkc3TmMzc2ZOcVRFT0N4dV83cGppa0ZKOTlndGw5dGFTZ1B1MXlDMjJ6ZTFVb0xlVVlUMGZBdjc3X2ZNZ21YLXRrS0NiYk1U?oc=5",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbzdtR0sxajRzMkpzUFR4ZHhvTWc4VkRpME9lNkptUmVLb3E1YXZsc09IOTV4d3BERm9VWWxXc29VelRjV011NG9ndHRkS1lyVjVhN1UtTGQ5bnRYMDJHNGVzeldLZnJweUFtY3N1akxhTTNjSV9lTzBhTHNLWnZ0S2hHcmZybmhUQzFxaWdLNVZQcGY2NllBdTBOUmk5MDhJd0hzejE5STBIWExYM2lZQVRTMzZ4cFhNV1d4LUVJWm9WSnh2YVVVOF9pbUd1SHpJa3Yza1h5Zw?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSktTV1N0aW0wRDU1X19MWlY2eEN3OGMzT0tjS3I1ZlA2TlNSSW4wSWYxUFRrQ1VkSUZuRVVBc2tHNGV3U29tV2lsZEVOU3ZSb0QyZ1dxSHZMQ2RHSllRenBRN2VHOUtiU2M1OFBnUmVLZVdrSU0zTkdGN2c3d0ZsUzlpWVdVS2c?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1hJZlBZNEd3ZXVjMTBuUHpDazdwOUlZNDNsSk5YQkJtXzVuWWZGU3drY1B4Tm92ejdZbENidWExaVRkQk41NHdOWk5JLVRCanJYU0ZzZDg1T2lUMUN0R3pPOS1acTFIV05kVlk2ZVEwYmdsYk1hY1ZRX09kNmtRZTR2b3FqalMtT2lrN2k2bG51cl95T2ZoVGtVVFI2MlNWUlVGbjg0OUVxTlhrak5uQ25oS1FuM0d0?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkdic3pXMjVnOUowd0RwcWRad0gtYTUtM1BuN2JzdGNwQmx3TVRHZ0pVWC1LMXptLVpRcUpQdl9EalZTSWNvX1VReWtURWNPRzJUdGU2ZkJpa0hCUkJRb0ZqOVdaTEFjQzdFX3Z2RENoVk9ocHY5UlhZTlhBTE9vTmdwWlZ1OVFEQTg2RFFaS1Nfd09aLXpTNGNUQQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27628/extreme-limbo-and-baldrix-world-first-clears-achieved-by-kang-eun-ho-and-pangiyo-parties",
     "https://www.invenglobal.com/articles/27627/rep-kim-seung-soo-urges-support-for-esports-minister-promises-i-will-personally-see-to-it",
     "https://www.invenglobal.com/articles/27626/national-assembly-committee-chair-lee-jae-jung-urges-minister-choi-hwi-young-to-promote-game-industry",
-    "https://www.hltv.org/news/45780/electronic-on-vp-my-ambitions-were-too-high-which-is-why-i-probably-behaved-that-way"
+    "https://www.hltv.org/news/45780/electronic-on-vp-my-ambitions-were-too-high-which-is-why-i-probably-behaved-that-way",
+    "https://www.hltv.org/news/45781/belchonokk-joins-1win-permanently",
+    "https://estnn.com/worlds-2026-swiss-stage-round-1-schedule-format/",
+    "https://gameriv.com/apex-legends-season-31-leak-suggests-dual-wield-wingman-could-be-coming/",
+    "https://insider-gaming.com/bnk-fearx-makes-cryptic-statement-amid-kt-rolster-rumors/",
+    "https://insider-gaming.com/netflix-exclusive-film-tv-rights-xbox/"
   ],
   "title_hashes": [
-    "58f88d3f2d04cadfd2f34aaa9d1a16b2",
-    "43bc0a34f8563509f94527971167038a",
-    "7a239c98f7bf2773c7d7f7c69cd7dc06",
-    "453c0593bc98b5b77e4235e285468a30",
-    "8c031cc04d1277267dfa9854c62113df",
     "67194fcc9ab9067b85cb21ae2f5cb566",
     "2f042e5a220b122349acf9605efb0ed7",
     "39846c882ac10b7d3dfc03a85b340497",
@@ -16001,7 +15996,12 @@
     "17163e1177d96e2ebe6f6626b2cf9cae",
     "e14c9727671fbd265a18b8c7bfc54c69",
     "f50776275e2456fd192de8d879255954",
-    "6e0b9862cb606b6da6b16bebc381005b"
+    "6e0b9862cb606b6da6b16bebc381005b",
+    "ed812533c069044fab1c635d586615ea",
+    "7169be64e484a69dc3e2103ab527a3db",
+    "1dafd281bb1271ac73f21f70ecf47f75",
+    "9c4dcb06a3b0f0a62a97601f88152fc8",
+    "8bc71ccc36510b9cbd44fcff75e707dc"
   ],
   "transfers": {
     "pages": {
@@ -21100,6 +21100,26 @@
     {
       "t": "2025 about also ambitions behaved during electronic future growing high his hopes icy lashed match moments out past player probably russian shared spoke such that thoughts too way when which who why",
       "ts": 1792768749.9723682
+    },
+    {
+      "t": "1win after agreed belchonokk have his joins loan parivision permanently player terms time transfer",
+      "ts": 1792768755.1376266
+    },
+    {
+      "t": "1 2026 23 allen five format full how matchups october round schedule stage start starts swiss texas times watch works worlds",
+      "ts": 1792768758.584366
+    },
+    {
+      "t": "31 akimbo animation another apex appeared claims coming could dual fans favorite files game giving grab has leak legends new pistol players reason reload report season suggesting suggests their wield wingman",
+      "ts": 1792768762.0822296
+    },
+    {
+      "t": "amid appe bnk clarifying contact cryptic fearx has have makes not other permission players post posted received rolster rumors statement teams that their",
+      "ts": 1792768765.6426468
+    },
+    {
+      "t": "befo before exclusive fell film have latter microsoft netflix new post report rights suggests talks that through wanted xbox",
+      "ts": 1792768769.0920537
     }
   ]
 }
