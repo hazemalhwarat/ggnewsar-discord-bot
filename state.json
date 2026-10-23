@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26713/synergy-with-gumayusi-our-bodies-remember-keria-promises-strong-results",
-    "https://www.invenglobal.com/articles/26712/gumayusi-just-one-step-i-will-definitely-win-gold",
-    "https://www.invenglobal.com/articles/26711/head-coach-kang-dong-hoon-for-the-finals-i-will-only-think-about-gold",
-    "https://www.invenglobal.com/articles/26710/rf-online-next-opens-pre-registration-for-super-boost-server-nova",
-    "https://www.invenglobal.com/articles/26709/demons-night-fever-physical-korean-edition-pre-orders-open-oct-2",
-    "https://www.invenglobal.com/articles/26708/south-korea-defeats-saudi-arabia-2-0-to-advance-to-finals",
-    "https://www.invenglobal.com/articles/26707/legendary-skill-book-appears-in-calteon-too-exchange-market-price-check",
-    "https://www.invenglobal.com/articles/26706/dungeon-fighter-online-replaces-new-event-artwork-amid-ai-illustration-controversy",
     "https://www.invenglobal.com/articles/26704/dk-mobile-reborn-launches-6-week-bootcamp-server",
     "https://www.invenglobal.com/articles/26705/ava-rebirth-expands-cbt-to-5000-participants-begins-oct-1-at-4-pm",
     "https://www.invenglobal.com/articles/26703/seven-knights-rebirth-launches-part-1-of-demon-slayer-kimetsu-no-yaiba-collaboration",
@@ -7999,17 +7991,17 @@
     "https://estnn.com/vct-2027-partner-teams-full-list/",
     "https://estnn.com/evil-geniuses-shut-down-november-2-2026/",
     "https://www.hltv.org/news/45783/sashi-part-ways-with-tjp-and-hatz",
-    "https://www.hltv.org/news/45782/jl-on-every-other-team-in-pgl-masters-bucharest-groups-fantasy"
+    "https://www.hltv.org/news/45782/jl-on-every-other-team-in-pgl-masters-bucharest-groups-fantasy",
+    "https://www.dexerto.com/fortnite/fortnite-pro-huty-kicked-from-org-days-after-flipping-off-camera-at-fncs-globals-3414261/",
+    "https://www.dexerto.com/rocket-league/rocket-league-pro-kofyr-banned-from-rlcs-until-2027-after-allegations-of-inappropriate-touching-3414253/",
+    "https://insider-gaming.com/ex-cdl-pro-temp-arrested-on-domestic-violence-charge/",
+    "https://insider-gaming.com/xbox-execs-have-missed-performance-targets-in-5-of-the-past-6-years/",
+    "https://insider-gaming.com/genshin-impact-version-7-2-hour-of-ruin-arrives-november-4/",
+    "https://insider-gaming.com/fallout-shelter-the-experiment-release-date-revealed-by-prime-video/",
+    "https://insider-gaming.com/nba-2k27-locker-codes-all-active-codes/",
+    "https://insider-gaming.com/wordle-hints-answer-october-24-2026-1953/"
   ],
   "title_hashes": [
-    "d1d759a3eb7ec3b747936ba21c916536",
-    "5978591c60ecdd8f61191e6dc5cfad1f",
-    "2c45a8431c118cc947846fb9c9a6e60b",
-    "9c27489de9147e76def730e292522f04",
-    "db5b359fc061278640f94367d292f8be",
-    "37125ed809c56f5618504ba76dee8d0f",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "1f1dae2a4037199a95f5ea5e41a68756",
     "377e133c3a63fc785a8c76fe16f4e680",
     "86ee95b2831284cdc0af60bcbd486ee0",
     "8f232812df5cd4e9205670f1b0cff4dc",
@@ -16001,7 +15993,15 @@
     "4cb2d263433389cd668b6ef853159c7b",
     "047ae754317f392f4f8f1a445aeae23e",
     "2469fb327e04a9d8b4be8c6c686face2",
-    "0810c1064c0bc5ee21132f7634ba3a9a"
+    "0810c1064c0bc5ee21132f7634ba3a9a",
+    "edf264cc1e4ffbd315c01abb4150a3f1",
+    "3ceee4608d60be3e20a2f7c322541188",
+    "c9fe4d264ae22b56b0d8e54c8374d255",
+    "f3f62aeefcb63a1349a7c71a30bfa7bd",
+    "358376b355f1f8b2378236f5048f7c93",
+    "5ded1bd429827afd8707d42d72848138",
+    "ac7c3deb9e067f9fcd974366edfa025c",
+    "889af74cbcb2ef1d7754ae44bbc5e6b7"
   ],
   "transfers": {
     "pages": {
@@ -21200,6 +21200,26 @@
     {
       "t": "bucharest every fantasy games groups hltv masters one open other partner pgl play season team two",
       "ts": 1792783557.2419755
+    },
+    {
+      "t": "8216 8217 appear arrested been cdl charges degree domestic donovan felonly has laroda post pro second state temp texas violence",
+      "ts": 1792783562.6068137
+    },
+    {
+      "t": "5 6 appe compensation execs have missed new past performance post report reveals targets that tied times xbox years",
+      "ts": 1792783566.0168533
+    },
+    {
+      "t": "2 4 7 8216 8217 about all arrives closer coming find genshin got here hour impact information major need next november out post ruin update version you",
+      "ts": 1792783569.4398942
+    },
+    {
+      "t": "2026 23 2k27 active all available best codes extra get here locker myplayer myteam nba oct october post rewards some updated way your",
+      "ts": 1792783572.8896663
+    },
+    {
+      "t": "1953 2026 24 answer game get help helpful hints need october post starting today wordle words",
+      "ts": 1792783576.4384491
     }
   ]
 }
