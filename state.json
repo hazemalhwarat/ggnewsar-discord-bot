@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSktTV1N0aW0wRDU1X19MWlY2eEN3OGMzT0tjS3I1ZlA2TlNSSW4wSWYxUFRrQ1VkSUZuRVVBc2tHNGV3U29tV2lsZEVOU3ZSb0QyZ1dxSHZMQ2RHSllRenBRN2VHOUtiU2M1OFBnUmVLZVdrSU0zTkdGN2c3d0ZsUzlpWVdVS2c?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1hJZlBZNEd3ZXVjMTBuUHpDazdwOUlZNDNsSk5YQkJtXzVuWWZGU3drY1B4Tm92ejdZbENidWExaVRkQk41NHdOWk5JLVRCanJYU0ZzZDg1T2lUMUN0R3pPOS1acTFIV05kVlk2ZVEwYmdsYk1hY1ZRX09kNmtRZTR2b3FqalMtT2lrN2k2bG51cl95T2ZoVGtVVFI2MlNWUlVGbjg0OUVxTlhrak5uQ25oS1FuM0d0?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkdic3pXMjVnOUowd0RwcWRad0gtYTUtM1BuN2JzdGNwQmx3TVRHZ0pVWC1LMXptLVpRcUpQdl9EalZTSWNvX1VReWtURWNPRzJUdGU2ZkJpa0hCUkJRb0ZqOVdaTEFjQzdFX3Z2RENoVk9ocHY5UlhZTlhBTE9vTmdwWlZ1OVFEQTg2RFFaS1Nfd09aLXpTNGNUQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQlRKRHRjbjlXSklmcllwRVRzZmhRT2VLeXNzcTJEb3ZjZW5vbHhfcmZDdHNpR2NaWHFCVXRhSWZiVHE3UFlWZHJGVDBNTmpvLTRlUS1QbklwVGdDUTJ3Rm5RRW40b2tzRHNKbVNLV1MtZDdfSXZYMzJhcHdZby03Z0s0TlotV2NGLUoyY3FzMWlnNzhSQkxUNnlfNmNXMVhtcGQ2NFFIQkxGc2Z1ckt2RlBwLU9xSmpEUGY5RV9MdWVvSkF3RERaY3RGNy1DX0hYSG9vaTZoclg4VGhSNXJWZTJkZ1pnMURaR1drTkxqUm5DaldDaE84Qld4Wk7SAYICQVVfeXFMT2RJdFU3dVNBTXZ6a0VVcUx6alVRdnNwTzZ5UUdoYlZjSGJXQm4weHptd0VJYWVKTFgxRjh6WkVxdDg0eDF4SzVNcGg1OEkzNTVQQmMzYUtmeVU1cDRVZzZ4LWtpVnNHTElIMmY3WWhSN1ZOaERfUGNBeGJ1Nll5QTNOdUNmeXBubFE0cW1XR3hKdTVQeXV3aFRDNHRRRGo4Wi1WdWwxaGxSUzhUQWtUOXB5aFE5d3JGdGJITXhsSXlibnl4VDNvMGRoS0R6OVA2czhuUEd3WnRTUnU5MkxMZjZxYU96c2FPb1N4WnhLanJJalo3bGc1R2JhaEFHSDRhby1B?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3lHMjBlaUpYRkg1Mi1TdXBtcXFqOUczMWhVQjc1YjZ2X19CTERqWlJxeEtRS1l1ejcxelctM2UxUWR3a2htQmJZa0p1MWI3X2UyUjJLc0c4MTlvODlfYldTRnBRQnNLbUhiMTRtT1BSMUxqeVZESGl2VUl0OE1VM1BBYTJMZjg2TTJ4XzJRWjJqOW1QSHhXRkFYUVpwUkE?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXZQVzR1QTd0SzY5ZmJ4M3c4MWlGQ3pFS0ZENkhYSG1NMF9kYTIwR0tlcDJBYzF2REJHOV9HVVhVRG9tel9TWE1tZ3lsOXpiYzBLQmpvR0hOVjdTTVZrQ0w4U0UxWFlKQ2hLVDA2X0pnMlN4akI1ZGt2NnA5UVhBVUJ0c1lGXzBpdzZOTFZCcjVuNk42UHZldWdoZjZIMnExSHEwdHFUeHBfbDJZN0F5WUFCdGplOVpqRndZ?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWhtdzA5WUF5MTRZbDgxMFUtanluWTF6aG5JS1FyeWVYNzdSSF9hbWRGZDlrS0xiTC1xRXB5OUUtSndZWHJEd3M0Y2puQm5kelZRSkI0MXVWNEVFODhtUTBWZjk4bmRBcnhjTjVMeXppeFZPRGo5UmJBc1JaR0ZkR3BfR1M0dTFLejgzckVlSlc5STB5RlRpeEhDYlB4bzFxVENHb21oWG45N05heWlXZQ?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzZ6eDNuYTMwX3JzZ2ZTUjZzZS1hem1yWkVMX1h2RnU4SW1TZi00eEp6anJFNzhLVGVUcmhTUWYxU1lTV1Z5cHJJeVlEZDZLMGt6UkNWNi1tdkRyVG1UUXJFMmtfTENmRjNQT25wbWRYTndCaV9vRkk0V1V3dUNVR3hKMEtnTTVKS2NoMjE1WXpXQXZJODloeUVPUVc0LTR0SlpN?oc=5",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNC1CNUxxUDJ5WERnZkw3djZTUDZ6SVdHMHppd3NMSEd1ZmYyOExsY1hTOW1YR1VqTUhkVDd6SWhyTlg1NDY0cEUwRnE4WmhXUDBZR0VxZUNnQ2s0N2pzel9UeHdFT3FCVmdHSTFVX2RHd01uZjFuQWFSdmxLMG5ZWXY1Q1Q4YVpiWi0wNWhZZzFOUVY5RllQcHBMV29rSlhudDJIemI4eTNXS0N6d1hRYXMwYjhwcHZRclpaZld3SXhfc1ZZRVhpQw?oc=5",
@@ -7999,15 +7993,15 @@
     "https://estnn.com/worlds-2026-swiss-stage-round-1-schedule-format/",
     "https://gameriv.com/apex-legends-season-31-leak-suggests-dual-wield-wingman-could-be-coming/",
     "https://insider-gaming.com/bnk-fearx-makes-cryptic-statement-amid-kt-rolster-rumors/",
-    "https://insider-gaming.com/netflix-exclusive-film-tv-rights-xbox/"
+    "https://insider-gaming.com/netflix-exclusive-film-tv-rights-xbox/",
+    "https://insider-gaming.com/resident-evil-outbreak-is-playable-for-free-in-your-browser/",
+    "https://insider-gaming.com/angelfall-first-impressions/",
+    "https://insider-gaming.com/arkane-lyon-mid-november-to-find-a-buyer-or-it-risks-closure/",
+    "https://insider-gaming.com/dispatch-mobile-new-modes/",
+    "https://insider-gaming.com/lyon-become-latest-org-to-withdraw-from-valorant/",
+    "https://insider-gaming.com/capcom-data-breach-compromises-over-11-7-million-accounts/"
   ],
   "title_hashes": [
-    "67194fcc9ab9067b85cb21ae2f5cb566",
-    "2f042e5a220b122349acf9605efb0ed7",
-    "39846c882ac10b7d3dfc03a85b340497",
-    "d937497006f8f7bedd2f174a0186f0f4",
-    "e15c7256c7853b702ee2b71b295151a3",
-    "b61274766ffc54b9efeadfa355f66515",
     "823862b3d10be5f994e6fd5acb37649a",
     "76eddf60ca3b1a7272f9096ff33148a0",
     "5124567f986b444a4576b96584a5d68b",
@@ -16001,7 +15995,13 @@
     "7169be64e484a69dc3e2103ab527a3db",
     "1dafd281bb1271ac73f21f70ecf47f75",
     "9c4dcb06a3b0f0a62a97601f88152fc8",
-    "8bc71ccc36510b9cbd44fcff75e707dc"
+    "8bc71ccc36510b9cbd44fcff75e707dc",
+    "54697d2a6b34fec87ff31887ac7a02bb",
+    "1113298bab375aba7bb657e4d48873d8",
+    "8f432ce7cce642e0e55ce457e1b53138",
+    "f0ebcedc42aca68818a3f703d3b3be27",
+    "2d11c900d5dc5ccd63bda1be27beb93c",
+    "4626c353caa6867f5ccf6acb1341f8f6"
   ],
   "transfers": {
     "pages": {
@@ -21120,6 +21120,26 @@
     {
       "t": "befo before exclusive fell film have latter microsoft netflix new post report rights suggests talks that through wanted xbox",
       "ts": 1792768769.0920537
+    },
+    {
+      "t": "appe browser can details downloads evil free here more now outbreak play playable players post required resident their through your",
+      "ts": 1792768774.4243855
+    },
+    {
+      "t": "action angelfall angels battle beautiful between boasts concept demon demons first gate hits humans impressions killing new out post right roguelike strong this twist you",
+      "ts": 1792768778.0600963
+    },
+    {
+      "t": "8211 according arkane buyer close closure could find good has lyon mid new november post report risks studio until",
+      "ts": 1792768781.5326328
+    },
+    {
+      "t": "2027 2028 38 after became become esports failed latest lyon mexican org organization partner post secure status they valor valorant withdraw",
+      "ts": 1792768784.9879994
+    },
+    {
+      "t": "11 7 accounts appeared breach capcom compromised compromises data details first has here million more occurred over post recently",
+      "ts": 1792768788.517735
     }
   ]
 }
