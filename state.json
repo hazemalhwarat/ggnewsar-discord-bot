@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/wordle-hints-answer-october-2-2026-1931/",
-    "https://insider-gaming.com/runefest-2026-when-schedule-how-to-watch/",
-    "https://insider-gaming.com/witcher-3-remastered-pc-performance-impacted-by-nvidia-hairworks/",
-    "https://gameriv.com/bungie-says-extraction-remains-a-major-part-of-marathon-as-it-expands-pve-and-pvp-plans/",
-    "https://gameriv.com/riot-asks-valorant-champions-shanghai-players-to-use-wired-mice-after-interference-issues/",
     "https://www.vlr.gg/764374/nongshim-redforce-eliminates-xlg-continues-shanghai-curse",
     "https://www.vlr.gg/764294/team-liquid-downs-tyloo-to-stay-alive-at-champions-shanghai",
     "https://esportswales.org/welsh-club-s-e-a-dragons-crowned-bfbs-pro-league-champions/?utm_source=rss&utm_medium=rss&utm_campaign=welsh-club-s-e-a-dragons-crowned-bfbs-pro-league-champions",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27651/zest-kim-dong-min-on-facing-t1-in-first-worlds-a-great-opportunity-but-deeply-disappointing",
     "https://www.invenglobal.com/articles/27650/t1-defeats-brazils-1st-seed-los-in-24-minutes",
     "https://www.invenglobal.com/articles/27649/fallout-t-60-helmet-and-power-fist-replicas-launch-for-great-war-anniversary",
-    "https://www.invenglobal.com/articles/27648/lara-croft-meets-gi-joe-and-joins-the-crew-motorfest-for-tomb-raiders-30th"
+    "https://www.invenglobal.com/articles/27648/lara-croft-meets-gi-joe-and-joins-the-crew-motorfest-for-tomb-raiders-30th",
+    "https://www.invenglobal.com/articles/27647/fallout-76-passes-25-million-players-as-it-nears-its-eighth-anniversary",
+    "https://www.invenglobal.com/articles/27646/xbox-coo-helen-chiang-leaves-microsoft-months-after-taking-the-role",
+    "https://www.hltv.org/news/45785/eternal-fire-keep-singapore-major-dream-alive-with-draculan-s7-victory",
+    "https://www.vlr.gg/779509/gentle-mates-gc-kr-blaze-earn-wins-on-day-two",
+    "https://insider-gaming.com/g2-throw-dk-lead-lec-lol-world-2026/"
   ],
   "title_hashes": [
-    "9454a036e9e710cd34221e123b74e9b1",
-    "b5210099794e40e0a0ba56d2910a65a6",
-    "42a33dab4a697e6eb45099fd12214fc5",
-    "66086d2ed75f2e3d7952e1b9ad955669",
-    "4347780b6868967e9fca99dc14e4196e",
     "89aa4b196b48c8a13a6549bb1eaebd80",
     "d62d236a53deb1e7cda1a6816b0c1033",
     "73572e9da3049b63ff1a9ef3b83e694a",
@@ -16001,7 +15996,12 @@
     "21205f32c8c2ed129e1164f59f5d39c6",
     "8dada3f4e568382548ecdc791f197d16",
     "44ea46023372ba5d8177a88fb4715144",
-    "4a88f9de572273fb8df8f803c3f530da"
+    "4a88f9de572273fb8df8f803c3f530da",
+    "229e4ce4d6b0ae4cabb3e73191f0fb54",
+    "07f36064fee6db4c95dc6fd4e7cbcfa2",
+    "ec21ca46fc81bdb6f003ccdf44ee7842",
+    "181197bf8f2d87067641c27934003a28",
+    "6e4b974f0cefe2461cd9368737ab8a80"
   ],
   "transfers": {
     "pages": {
@@ -21244,6 +21244,26 @@
     {
       "t": "2 24th 30th anniversary collaborations collector comic crew croft crossover crystal dynamics edition has joe joins lara meets motorfest nintendo october partner raider rounded switch tomb wave",
       "ts": 1792803400.0163555
+    },
+    {
+      "t": "23rd 25 76 account anniversary announced eighth fallout has its million nears october official passes players reached",
+      "ts": 1792803405.146507
+    },
+    {
+      "t": "according after chiang chief coo created few first has helen internal just leaves left memo microsoft months officer operating role seen taking verge xbox",
+      "ts": 1792803408.629418
+    },
+    {
+      "t": "4 5 alive chances draculan dream eternal fire home increase international keep major qualification s7 singapore squad their title took victory",
+      "ts": 1792803412.1768696
+    },
+    {
+      "t": "2026 blaze brazil championship changers day defeating earn game games gen gentle krü liquid mates quarterfinals respective team their two upper valorant wins won",
+      "ts": 1792803415.7693932
+    },
+    {
+      "t": "2026 8217 after difficult dplus end esports g2 giving had kia lead lec lol losing passively post run stage start swiss their throw undefeated worlds",
+      "ts": 1792803419.2874944
     }
   ]
 }
