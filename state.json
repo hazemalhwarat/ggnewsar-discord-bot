@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV2prUVMzNGZsdWhqSjVwSndFbXVvM0l4S0F5a1hJTmxRZWwybk0tQTdHcjc3azZoVGI2bWMxOTZQU3lPOXBtaVBuY1djaEJyejNrc25DbWVaejBDTXVHNXMxNkVpR2FVWEFJSENyY3ZuMFZjNi0zVGxvZDlyR1NwcmwyT292dU9wN2hhUFRaWEFReTBKdmhjYlUxcURPbTA3WXR4c1FMbjdzWHlLaUh5cHpJcWlSb0lyZC14cU9ETmRxVXNTSXpRMktlRFNXVUg2dzJpR21MMjdGc3ViNXpyM0dfQTZYdw?oc=5",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWXRsMTllRFFhMzhhWmJfaV9KdDNhWGpsZDRpU1kzOGFuTXRoOW04MTdXS3FOeGVOcFNlbllkcGJqYW9tMlJqLXlDMjlxZloybldWUzVUeWh4VGRydkcxOEkwdmNQNlVVSHZ2X2czQ1k0SHBSVXVVb3EyejNueGNVQWtkbWNGRDl5eWZnSlBLN25pXzNVMFhDUVJ3MlB3SHdWb0V2VGZBOXIxQTAyRnNmSF9hWndsd3JsNHBqeV9QeUpXQlNwd3pnYVItdWJlQzZ5TUNPV2xWVnBiSnBOV2pF?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0FNSmVUaXFJTHJCclAzWDgtMmFUX0NYTlZ1alFuUWd6Xy0zc2NLOHR1Y0x6bC1LUHZuaHA5MWVidWptNDU4aU9ERjJJalljV1BYSXFtb1hwVDZmUGFhV1RKcWlTYzJYSjA3RHBXcWNNUmFVeGNkWHp0Q0U3MjVOWVdUN2hzbVBuUDB1N0tkTzdjX2ppWDE1Q1NSTkREc05ETUZ0VjUzUzdsQWVtODhR?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjM4bnZGQmc3SjJ3MTlOTFFqQnk5SGRGZUF4ZkpxSUVLb3NDbXQ0eUg3QTNHVUc3R0ZfTXc3aHB5SFJEWlRFa2RXUU9ENkNNVkRMQW5za1NiZVJyTjhHdHRUU3V4WHAxQzdoTVM5MVRERHBCb1Zsd2JmSFZUUkJtRk1EU3JKN2c5dlhKYw?oc=5",
@@ -7999,10 +7998,10 @@
     "https://pley.gg/cs2/liquid-stun-mouz-2-1-in-bucharest-as-jt-turns-a-10-kill-ancient-around/",
     "https://pley.gg/cs2/the-mongolz-stun-defending-champions-aurora-2-1-and-take-their-nuke-pick-13-2/",
     "https://pley.gg/cs2/sunpayus-stars-on-fut-debut-as-tyloo-let-6-1-lead-slip-in-2-0-loss/",
-    "https://pley.gg/cs2/big-sign-up-for-epic-lan-in-late-push-for-a-major-spot/"
+    "https://pley.gg/cs2/big-sign-up-for-epic-lan-in-late-push-for-a-major-spot/",
+    "https://pley.gg/cs2/apex-s-major-sticker-and-astralis-invite-on-the-line-as-pgl-masters-bucharest-begins/"
   ],
   "title_hashes": [
-    "11dd04d99b1005669370e06ca59bf6e1",
     "0a1edc7b8d2eb86b0563a7eda84012d4",
     "afd3dcc905b73ba9d8175565cc07db64",
     "377c2f911a60abe1ec13f8f5c9b58d24",
@@ -16001,7 +16000,8 @@
     "c7398d84da56b58475c7da1d028361fd",
     "8ce0e319a49749c3d5f7e773fa51da66",
     "20ae2cbd056ed8285ddc67fcb85a87cb",
-    "8659fb1d824a8a5ebef88af6b6d78c3c"
+    "8659fb1d824a8a5ebef88af6b6d78c3c",
+    "beb0359861d850be23f61e0ea5297a9f"
   ],
   "transfers": {
     "pages": {
@@ -20988,6 +20988,10 @@
     {
       "t": "big epic lan late major push sign spot",
       "ts": 1792849097.851273
+    },
+    {
+      "t": "apex astralis begins bucharest invite line major masters pgl sticker",
+      "ts": 1792849103.1099756
     }
   ]
 }
