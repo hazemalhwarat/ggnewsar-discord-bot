@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVExOdEdBckhhZ2phcWlrNkJySlhGYmlVdDNOOGd1Qjd2eF94cWI1SWVodENiMG9RQ2h3RXVXMHZ5N3o3enRET0h3b0FoM3lMNWh5QmcyN3dkbnZIdTFTSjFFNUhfTmFjNXRmUzhGZklLTUNIZDdyQUVwSERsS0ZZV0d2c2pUYl9vWDRfdGxodk5kQ1JLWGlad2ZxSHcwUGtnYVZ4d0tqSVZkYkU3ZWl0TGk0cENaaHZyajc1ZWtIR2FrVnZhYmhBNXp3Y3k5QU1SOEVxVzhyWnNCODBsOUNTSTlWVzZKc0dkdjNQbHpERW11Y0luWW9UM3Rfcw?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWZpbWhLRU55TEFSQ2Zqc25GRy1xLWZ4VTYtSFdwTFNRQkhIZll5Zks1Z0RoSmhCY1BxRFZqdEV4cjhpMkhIbFAtTHBkTllJdG9LWGdNRVJjaWI4VUtsTVRsVFNGTHQzcExISUxIbTdRRkRpbk5STlVmbWxiYlJMX2xXamIwTUlpcHVFODQ2N0FfQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1VPQVFhNFN1d2YtVUJMcS1xWkJJZXB6dWIzeHgtSTU2am0yUEdteDRQY2JHdkpvMTczU3hoSnZhTDJrT2UzYldEOXFfOUZWam53SzE1NVZkemw5czVfWFpnNHo0dW5tOUsyTFNiS1JZQUlZOFZsVjVoc1FIX2hGVzFlSFB6cm9jLS1BTmZ2QjY3Skxhblo5R2Y1dXNlNjZ6bWUycXRycGtNRjg?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0t2MVpZbTZRWEZQQ05mcDFQTEFRTkl4UExjbTNTVzhlNXBlb0VmWFB2ZHktNEpaajg5eHhXSjJ1N1FuWVdYcnhrRm5MaUtVaGcycVIyNGlUWFR4Zy1TVlNfamZ4eWhYSlVsX3d5aTN4OGdIYS1FcE9IaF9yV0p3N2d4UmVYcHdBbTRYWWU5emdwUHdrQzVnampLNXVmTlpHaEhUQTZybWhxZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnVvYVJmYUVIRFgyb1dnbklyTHF4SjFsZW9kc19aeVlwYW90MXlTVXdJWDJxQkN6dG9kMG9vT3FSbzZuc3BRVDh3X05kVHBwVWxhODBCYTNLUnJ2NHZuaTRSekhQbXZCX1FoMWlvbHJESFdieWhNaWYtaFNCbE15WEYzc21GejMxZzZOVEk2eDdWdkR3OFBlMGhiQklvaThXS2J5M0pfSmc0ZGJ0SjZodXBIRnMtRS1j?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRU1hMW5aRUd6Y0MtNktkMGw2UWdMZk5DbHhxUS1JOGVhRVRKZnEyY3cxanZzdzV4OHFFc2F0emdSdzJMM01LaFk4bjNVLUNDTHFKSFVRY1pNb3F2S0RmN0w1OC1IUTRSdENTczNxMHY2VXozeVI2eElCM0NWNnk2cm1DOTROem9XMDJ6TVBnc2Y2THgxSlN3RTZNZWpfeUlKWHhjWC0yYVN6al92X3hFZm1SRFpyaHQtWFNUbktreWJmbHlvSHRkRnFyTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDF0a2pQU2J5R2QzR200MWlmNG80dHpFbUZQQm1JWkRnM0lHZWRyQ2Q2U3dUQ0lNM2ZJVjZIZk52UjZYdm5pZVZZWWpPVG1TblBiajRENnJHdEZ3dGpTOEUxNkwyVmJjaTNVMWdTOE13cmRIbFhUdVlxeHBra2VYT1d6cS1IQk1SZ2JvUWVWcTVVMFJkNDI1ZGhneG5KdHU5bVYycHVB?oc=5",
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV2prUVMzNGZsdWhqSjVwSndFbXVvM0l4S0F5a1hJTmxRZWwybk0tQTdHcjc3azZoVGI2bWMxOTZQU3lPOXBtaVBuY1djaEJyejNrc25DbWVaejBDTXVHNXMxNkVpR2FVWEFJSENyY3ZuMFZjNi0zVGxvZDlyR1NwcmwyT292dU9wN2hhUFRaWEFReTBKdmhjYlUxcURPbTA3WXR4c1FMbjdzWHlLaUh5cHpJcWlSb0lyZC14cU9ETmRxVXNTSXpRMktlRFNXVUg2dzJpR21MMjdGc3ViNXpyM0dfQTZYdw?oc=5",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWXRsMTllRFFhMzhhWmJfaV9KdDNhWGpsZDRpU1kzOGFuTXRoOW04MTdXS3FOeGVOcFNlbllkcGJqYW9tMlJqLXlDMjlxZloybldWUzVUeWh4VGRydkcxOEkwdmNQNlVVSHZ2X2czQ1k0SHBSVXVVb3EyejNueGNVQWtkbWNGRDl5eWZnSlBLN25pXzNVMFhDUVJ3MlB3SHdWb0V2VGZBOXIxQTAyRnNmSF9hWndsd3JsNHBqeV9QeUpXQlNwd3pnYVItdWJlQzZ5TUNPV2xWVnBiSnBOV2pF?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0FNSmVUaXFJTHJCclAzWDgtMmFUX0NYTlZ1alFuUWd6Xy0zc2NLOHR1Y0x6bC1LUHZuaHA5MWVidWptNDU4aU9ERjJJalljV1BYSXFtb1hwVDZmUGFhV1RKcWlTYzJYSjA3RHBXcWNNUmFVeGNkWHp0Q0U3MjVOWVdUN2hzbVBuUDB1N0tkTzdjX2ppWDE1Q1NSTkREc05ETUZ0VjUzUzdsQWVtODhR?oc=5",
@@ -7999,16 +7992,16 @@
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmZPV3QyZkNzUlRjNm9DWjR2V1dvSk5OYnRyYXlSZnVJaUZqRVBtS2RiUFlzUWFxdmQtLU5BeElsVVRCeXZJc0xTbWQtdHhmeXg3b01aem43eHd4RldPU1BrdERxaXNPRFQySHctaHNGNTNxemtpZWY1R1Q5cE1IVFFfdlZZRFpzYnM1UldQc2EtbU5aODNkWU5SYUc?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmaEUtMkptbzBtVTc0Z1E2NW4yd3FZcjRpelk2T3k2Y2kwbWUyekhKMGQ4NUd1dnBKYXNfMk4yLUZjWDNaYlhTRFR5b3JnZDhid0Z2WHI4SVFYYzlhYm56MFBJRUJfeEJkb19BNUl5SHRXX3lDYUZNdWJR?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXVQdllWZDBzQU5FTjhoT05FS3gxMEdZRUI2M1ctWFFLWmw1ZDdYWWJkUDZ0R0YyanU5eWgyM0l0NzEwWDZja1pJMEdWQXRFSVNSd1V1SGVkMExudkFwalo5dHV6c09JRGpjS0RiYjBlY2N5bm0tcFN0dFdrdUNBX3Y3cU10ODE4eEw4?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEtuVF9DWEVmbkhkLVZULWVBVjNHM0Q5TlpzY3pPN0oyazVJSURJWTRKNVpYSmd1NFk4Wkc2N0FkTDllZklTUWlRbkR1Z3JhcE5udHpMRkFySThGcWNuUU5RUTZFVHRteXBwRFhYUXBxVGhZUFMyQ2h0SDBjMkh6ZzBRenMtX1o5RTVXVWlZelNSSW9sbmV0Y1N6VzdQdWdCUDJ4eDhpdUg1blh5UWE3OGZObF9JOTZfSEE?oc=5"
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEtuVF9DWEVmbkhkLVZULWVBVjNHM0Q5TlpzY3pPN0oyazVJSURJWTRKNVpYSmd1NFk4Wkc2N0FkTDllZklTUWlRbkR1Z3JhcE5udHpMRkFySThGcWNuUU5RUTZFVHRteXBwRFhYUXBxVGhZUFMyQ2h0SDBjMkh6ZzBRenMtX1o5RTVXVWlZelNSSW9sbmV0Y1N6VzdQdWdCUDJ4eDhpdUg1blh5UWE3OGZObF9JOTZfSEE?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVRJQU9iUnZ4aE50TWFfeEU5MDItY05RQURjbEFybmQ3UElSakRjWnVTb1V1RHBXRUg4b1JaV1U4VkxVT241TUdtZ2tyUlFLTGlSdGhBWC14dGY5MmZLQXFSaUNQRm1nY2VENTZvYVo5dnQ0cFlWZU9YUUlrX1Y3UmhvRXRNZw?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOblBJVjZVeXJHMkVBVEdLcktHXzlpbTZnUTZFdDU3elZPLUNNdkd3VHBkdEZGMUtXVVZ6cUh6aW9sSUxPYW9wUjRnaFM1M0sxVkdYNlZRNTNCajNqRmU0UWhGRmt5eTBYeE5WZDNURWtKOExZeHFOYWhVZzNRU3E1S056dEhXUFJMZEZGTWNSZFplVWE5Q0p5QVMxTkRDb0U?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGNqTFVHSUdXamlBRW5ZN3EzeWhvZ2pGNkt5UERzN3l6TGNrTWtUbVB0Y3lKOUE3bWNNNzV3MW1sakx2REdXNEV4c1lCb2NQZWFuNk9LU2JXTE5SSGdTZk1xdGZteHRDTVhkblNId0JFel9OYzJiTTk0Q0RhdFBvMHVKMDZuUjBkSXctd1JKVzdHREVrUloya0REQWY2cDZTUXB3RFE2Zk9Cblh1RTN2U0MwQTllQ0R1UVdYZE1vWnNGQQ?oc=5",
+    "https://pley.gg/cs2/liquid-stun-mouz-2-1-in-bucharest-as-jt-turns-a-10-kill-ancient-around/",
+    "https://pley.gg/cs2/the-mongolz-stun-defending-champions-aurora-2-1-and-take-their-nuke-pick-13-2/",
+    "https://pley.gg/cs2/sunpayus-stars-on-fut-debut-as-tyloo-let-6-1-lead-slip-in-2-0-loss/",
+    "https://pley.gg/cs2/big-sign-up-for-epic-lan-in-late-push-for-a-major-spot/"
   ],
   "title_hashes": [
-    "e105116abe848c8880822bb0b7bba106",
-    "4fc52a95ed0ec69e02b6fba06edf9df8",
-    "10975e085b40a80043309b8d4e2d83dd",
-    "d9e61d553b9599ad58d186ba68d5f6b1",
-    "ce25fc8152b0aa3013786214346367ce",
-    "cbe896131bb80fb741026c664c90eaec",
-    "aa78d7adfc8d9e2e047b8e21d7de6d40",
     "11dd04d99b1005669370e06ca59bf6e1",
     "0a1edc7b8d2eb86b0563a7eda84012d4",
     "afd3dcc905b73ba9d8175565cc07db64",
@@ -16001,7 +15994,14 @@
     "ca61be606e1793deb4729291751a762a",
     "0cd5c38722c37cb10657e753326ea88c",
     "1fb0e589c332054010ff4f9ac21f4957",
-    "05973785158e474c4a2df46706912d55"
+    "05973785158e474c4a2df46706912d55",
+    "4ab0228c1ce70f16160143197578ae9b",
+    "8fb2b355fb2097c5c221f991b9901483",
+    "6cfcdae2d57dd72addc6dcf8f4144109",
+    "c7398d84da56b58475c7da1d028361fd",
+    "8ce0e319a49749c3d5f7e773fa51da66",
+    "20ae2cbd056ed8285ddc67fcb85a87cb",
+    "8659fb1d824a8a5ebef88af6b6d78c3c"
   ],
   "transfers": {
     "pages": {
@@ -20968,6 +20968,26 @@
     {
       "t": "2027 esports f0rsaken nbsp paper retain rex season set sheep something sources vct",
       "ts": 1792849078.917296
+    },
+    {
+      "t": "2027 coach crazy esports head join nbsp pacific raccoon season set sheep sources vct vorz",
+      "ts": 1792849084.0909991
+    },
+    {
+      "t": "2 liquid mouz stun",
+      "ts": 1792849087.5194588
+    },
+    {
+      "t": "2 aurora champions defending mongolz stun",
+      "ts": 1792849090.9565501
+    },
+    {
+      "t": "6 debut fut let stars sunpayus tyloo",
+      "ts": 1792849094.3981614
+    },
+    {
+      "t": "big epic lan late major push sign spot",
+      "ts": 1792849097.851273
     }
   ]
 }
