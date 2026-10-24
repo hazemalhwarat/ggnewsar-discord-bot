@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45604/sources-the-mongolz-set-sights-on-nin9",
-    "https://insider-gaming.com/march-of-giants-coming-soon-access-playtest/",
-    "https://insider-gaming.com/gray-zone-warfare-rogue-ops-update-drug-baron/",
-    "https://insider-gaming.com/honor-of-kings-kpl-grand-final-schedule-watch/",
-    "https://insider-gaming.com/nyt-connections-hints-solutions-october-2-1209/",
-    "https://insider-gaming.com/insider-gamings-28-games-later-horror-showcase-everything-announced/",
-    "https://insider-gaming.com/dark-pals-showcase/",
-    "https://insider-gaming.com/transit-showcase/",
     "https://insider-gaming.com/the-boba-teashop-refill-interview/",
     "https://insider-gaming.com/boba-teashop-refill-showcase/",
     "https://insider-gaming.com/the-subminer-showcase/",
@@ -7999,17 +7991,17 @@
     "https://www.hltv.org/news/45789/liquid-edge-out-mouz-in-pgl-bucharest-opener",
     "https://www.hltv.org/news/45787/coolio-i-was-shocked-g2-benched-sunpayus-because-i-feel-like-hes-still-such-a-good-player",
     "https://www.hltv.org/news/45788/the-mongolz-stun-aurora-at-pgl-bucharest",
-    "https://gameriv.com/prx-d4v41-says-paper-rex-has-allowed-him-to-explore-new-teams-as-contract-nears-end/"
+    "https://gameriv.com/prx-d4v41-says-paper-rex-has-allowed-him-to-explore-new-teams-as-contract-nears-end/",
+    "https://gameriv.com/helen-chiang-leaves-microsoft-just-three-months-after-xbox-coo-promotion/",
+    "https://gameriv.com/arc-raiders-devs-say-dad-gamers-helped-inspire-the-pve-only-test/",
+    "https://estnn.com/esports-calendar-2026/",
+    "https://estnn.com/worlds-2026-swiss-round-2-matchups-schedule/",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOW9NMG5aM2RwamNEN3dwT2MxcnZvNUxfejNzUXo0Yjg0Ym53SXY2cXpnaUZNakRjM3E3Umt6Y0c3b0hIUXd0ZGhGeGFzYXdDbEVvZjhfeTIyS3FlemlZRDVIYjV2bGZ2b0llc0h6S3ZyMEJmVWtJY0tuMkxRemE5Nm11OFF5NjhFSDFFdWlxUGpKUngyNEx1Z0xtZHdIcjB5cU1oTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHFiM0dMRTRPYVVScFB2anUxZjZfaG5COTZTWVgxcC1YLUxfNTJDbmZrSmNCZnMzaEpoRlZvRXdFSHQzcnhPYXp4OFFNTlBiRlhTNk5ldVh3Z2FUY2VVWGM0Sm1VUEotUkRkV0Y4U2ptQS15Y1JUcy1hM2pDdG1TbG92eGpBdGF6eXVVTXRR?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fQnk5bHBESzA0Z2I5Yk9kemFrcG1oeXUzbDZYcjZfRkFYYnA0UHN2VEhrOXp5S3ZwN2dId1c0ZVFNbG5SclpucFNheTRaZV9ORFpDQWlCbzFhbjJLSjMwN3VnVUZqVDF2LWc?oc=5",
+    "https://www.nerfplz.com/2026/10/zaun-in-lol-10-things-undercity.html"
   ],
   "title_hashes": [
-    "d7d13767ca01b919b341b15ebade84f4",
-    "d1a3ce669b3b8785c9384d2ba832af24",
-    "5650ee6ee9db1fadd93c0b9975a556b3",
-    "5c3a74e20cc82ba41ae0e3dd407b0c26",
-    "574edf7e6797b6bb37c6f2180fe60bbe",
-    "557e3cda6c27b0c6dc7cebe0925df561",
-    "62678855d4f91398f29a971b4f547e45",
-    "334380ea1b3392e9bf91aa5ff5aa521f",
     "4557be41eed2d400cf343223c7d8f98a",
     "845d9690440edeef53981d8c3193c445",
     "ac091446c461af03c30f7a281f98bafa",
@@ -16001,7 +15993,15 @@
     "d33b0e12621b73954388f08f2e976ec2",
     "c36f11696d423190fbaf6cc6dcdb7b8e",
     "94df4e71d070f472b909322e14477cd6",
-    "5bba5d2ab73ed00a33380650cd35cc77"
+    "5bba5d2ab73ed00a33380650cd35cc77",
+    "944ee7c3d3fd6138b78aacb22f5375de",
+    "799378a02d62608f0d812654e67e11ad",
+    "d4c0eb327fe02a59646a16371a5e7419",
+    "cbbc5994717174ed809fa6f15fb70759",
+    "1529e87531d7aad8e5563332720f7742",
+    "c21080841fa52fa5d85c630c971c48aa",
+    "3946b71fd1b67d4b6f9df316acc94488",
+    "785c9b302ab1bbc1b0e6fcd9cef74f5d"
   ],
   "transfers": {
     "pages": {
@@ -20908,6 +20908,26 @@
     {
       "t": "allowed announced chapter competitive contract could d4v41 end explore has him his khalish longtime nears new organization other paper player preparing prx rex rusyaidee says teams that valorant",
       "ts": 1792849019.9272103
+    },
+    {
+      "t": "21 according after announced asha becoming ceo chiang chief coo departur first has helen just leaves left microsoft months officer operating promotion reportedly roughly sharma three verge xbox years",
+      "ts": 1792849025.1956031
+    },
+    {
+      "t": "aleks already arc avoiding dad devs each embark executive experiment fights gamers grew guessed happily helped inspire its only other out players producer pve raiders say seeing servers something studios test you",
+      "ts": 1792849028.6244485
+    },
+    {
+      "t": "2026 beijing blast bucharest calendar dates december esports every iem left locations major masters more october pgl pools prize singapore tournament worlds",
+      "ts": 1792849032.0975194
+    },
+    {
+      "t": "1 2 2026 24 all allen dplus games gen hanwha headline hle kia korean lck leave life october played round stage swiss t1 teams texas two will worlds",
+      "ts": 1792849035.5846272
+    },
+    {
+      "t": "10 about actually day festival including kids lol lore mean opposite piltover prove runs same says ten themselves things throw undercity what zaun",
+      "ts": 1792849039.1256535
     }
   ]
 }
