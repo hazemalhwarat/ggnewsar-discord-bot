@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26787/marvel-contest-of-champions-adds-ghost-rider-and-opens-summoners-choice-vote",
-    "https://www.invenglobal.com/articles/26786/new-evangelion-%CE%94-cross-reflections-teaser-revealed-for-evangelion-xr-game",
-    "https://www.invenglobal.com/articles/26785/gta-6-marketing-scale-nbas-miami-heat-becomes-vice-city-for-one-night",
-    "https://www.invenglobal.com/articles/26784/halo-creator-jason-jones-and-author-margaret-stohl-launch-stone-kite",
-    "https://www.invenglobal.com/articles/26782/pubg-studios-ends-development-of-pubg-black-budget",
     "https://www.hltv.org/news/45618/luminosity-and-nemiga-move-into-stake-ranked-upper-final",
     "https://www.hltv.org/news/45613/makazze-if-you-think-about-the-major-you-cannot-focus-on-the-tournament-because-you-will-have-a-lot-of-pressure",
     "https://www.hltv.org/news/45611/molodoy-ill-try-to-play-aggressive-again",
@@ -7999,14 +7994,14 @@
     "https://www.vlr.gg/780054/team-vitality-bids-farewell-to-derke",
     "https://www.vlr.gg/780050/d4v41-announces-lft-status-after-six-years-with-paper-rex",
     "https://www.vlr.gg/780045/mibr-shifts-full-roster-to-inactive-status",
-    "https://www.vlr.gg/780032/yoman-departs-nongshim-redforce-after-one-year-coaching-stint"
+    "https://www.vlr.gg/780032/yoman-departs-nongshim-redforce-after-one-year-coaching-stint",
+    "https://www.vlr.gg/780037/primmie-to-explore-options-outside-of-full-sense",
+    "https://www.nerfplz.com/2026/10/shurima-in-lol-10-things-buried-under.html",
+    "https://gameriv.com/s0m-leads-valorant-superteam-into-vct-americas-kickoff-qualifiers/",
+    "https://gameriv.com/marvels-blade-developer-arkane-lyon-faces-november-13-deadline-amid-closure-threat/",
+    "https://gameriv.com/a24-reportedly-bets-nearly-200-million-on-alex-garlands-elden-ring-movie/"
   ],
   "title_hashes": [
-    "2796536bf39259b2fb1a6a2ce8464616",
-    "05b1915ea11da68cd3f91b3c7887e870",
-    "c7617d52eca81b64312ad5377f156801",
-    "1458fbb7c79ecaa01db93fe601452564",
-    "3e01424cab23d70cf11dd0df8de75c67",
     "b4bc7c1dfba67904e398fc38d36cc5be",
     "a345ab3496de8017e36c3cdc6123be0a",
     "8447fe986de1937f6accc3a65a73ca43",
@@ -16001,7 +15996,12 @@
     "d471900842822a76a9025cae58d14af9",
     "238cb5a0df8828c732608d86ae801b1c",
     "f0182dc47b7770e97228239f591b6582",
-    "b9318e951d0d1dc875d228f17620d322"
+    "b9318e951d0d1dc875d228f17620d322",
+    "3d121e2c58474e616c659678b8544599",
+    "dada573481fe5094ab0e4ccacd9795be",
+    "55dc46a47dc3fc8a3b8cb70c56b2da01",
+    "ce7d2d8e0adcb8a7df18abef24233095",
+    "89745cde8fa80ac20b4d2aadf8c5f2b2"
   ],
   "transfers": {
     "pages": {
@@ -20896,6 +20896,26 @@
     {
       "t": "after coaching departs nongshim one redforce stint veteran year yoman",
       "ts": 1792930594.6697426
+    },
+    {
+      "t": "after core depart explore full options outside over primmie sense set talon two years",
+      "ts": 1792930599.5554383
+    },
+    {
+      "t": "10 about actually around built buried desert entirely front including lol lore mean names rammus religion sand says shurima skarner standing ten there things this under void what",
+      "ts": 1792930603.0563312
+    },
+    {
+      "t": "2027 america americas bringing coach enter florescent fns into kickoff leads lineup marved north prepares qualifiers s0m shanks squad stacked subroza superteam teaming valorant vct will",
+      "ts": 1792930606.6806037
+    },
+    {
+      "t": "13 217 according amid approximately arkane behind blade buyer closure deadline deathloop developer dishonored faces future jobs lyon marvel microsoft monde november partner reporting ris searches studio threat uncertain",
+      "ts": 1792930610.1190336
+    },
+    {
+      "t": "200 a24 adaptation alex bets bigger comes elden figure financial garland its million movie much nearly previous productions putting reportedly ring scale spending str studio than wall",
+      "ts": 1792930613.5554972
     }
   ]
 }
