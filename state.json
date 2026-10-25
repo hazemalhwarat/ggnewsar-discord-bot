@@ -1,27 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUUNFVDM3ZVZRbl9NRnlGNEpUcDA2YldwY04yNnN0QXl6cXdHVTFxem9rRFdROGw5bkJQYzNpYTlESXVVR0V1VFM2RWx2dlc0RHRmSGE3NGtHMTJfamJPcTJuSUFvTzFvcE8tNXhJblhPWDNLa2pNcnotT21Vc2dia1ExMkpaanhNOS02TllfUi11SHBndVNveFl0LVhuMDcwNEJXeHJNRTJrVENBd092LVcwaEFqRU16VVB2b3pUNkZDbkU?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeDdNT3drNUIyemxjNGFMVmxGTDFDUEpOUnZQR3dZTzlUS2VEYjhIamlYU21hTUV6dWZub3kwRGtVMDFpX3RzSGdZNE8tOFdKRnM3TTVyVmplQkxRZW5RYVotNjU4bE51OGgyNFExOFRvaXdTRF9IaF9reHIwV1h4RnA1QzZ2UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVEwNXhheElfLTh4cjkwYVktdlNBdGMxZVFXdTU2Qm93S3kydmdBcmx2eXljNDM3ZkZWMEU3NTdUcDZRbENmZFktTUxXSHo2WUxVVUh3OU96WGJHc2l4RnJKWjNCVjA1VHNLZ3Ywd2cyTS1STVNRa2hwdzJ3ZUxPUl9MRTgzYUdJR2xkRHZFdnFpUi12bFdKZC1NSDBERmFl?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFoydHQyRjREYkFucldFdlU0YUZ2Q3RJV2JNWDl3TkZpY2I2VmFHaktwY0VEZzhwN1JqMmZ5ZWFrNXZQVUZsdHdLY0otcTJYUXNybjdpZzEwcTNjNjBET0pqX1VaakRDYVhsUzQzZWFWdm5wcWVBam9LMlFZUDdGSnktN1M5aWpT?oc=5",
-    "https://europeangaming.eu/portal/latest-news/2026/10/03/215261/eu-igaming-weekly-brazil-ban-vnlok-meta-norway-poker/",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qZE5NVG5fSlpyVHZVRlFSMjhWM2I0dGtvcnhJcnNhbGxzNUdlMzZoYnl2SHBSZ1lkN0NQX2VrNTlfajBfWWp6ekJXaU00aG01X09TUFNSallTNXVWZW9Ma0ZnXzlSQmJGOGFhRjhIVXZNaWZo?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVW1KRE5ZYVFncWlvVndaYlBLWm44SUdieUNvajFWMktjRE52WURlLVJHWF9vbUtGaVFoUXNkV2M2NUtWd0lhSHJRQUJmcko1dU8wVjc4d1pNOUNtQ2k2MV9BUjRUODFFbzNmaEV3RGNkcjJaOG1yX29EckktSlVXUHI1OHNKSl9CZ1VwdG5oUnR6YnlKaUF1Wk5ELTc?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3YzSXg5bi1VZG1wWmtSR3JwYzRZb0RoUU5zQnZaYVJoUmlhR3pjdUxWVlhSQ3VONkpYdFNiY3Z4MDJPamVVNG91MHdIc29TM2p0VElURXBUaGw4elFRX2R3eUdtdkN1UUVUWHFtYUx4M0VpSFh0X3lFaENqZGNCcDJkTy1aU2o2clVRQWcxMGJ1NzBsVGg0dFZ3cHZ4dkdZeVpSMl9ndDJJc193ZC1oYXdaREYtS00wbHd4Q2Zn?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EZThCZXZJLWJkMFNRRG4zenpmSzBDeU9ha2JLdEZuRVhSQm8zRlljdGR4NjdIWjkxOGZaWmNFd0VpTzJ1NVVUSkxpaV80Rjgzd1dtYWlmd1RTUW1INnJRYXl5TGc1b0drODVJVA?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmNwWGhJUnppR2U1ZU1mTVFmd1VxZUlPbzhlbVNEYTRPYnNDMDRETUlvalprYmFvak11LUE5WXNvQW1KZGlpV1g3MUQtYVp6V1hyaDVnd29GMzNvaFZ4X1F2c0NiZGFyQVZJRkMzR2syMWdqODI4VWZaSWhEUlJ0eWYyVUk1aUZ2Z3dkTy12ZHdEVHotTkNQWllIdTNFMTZwMzdaOVFzb2psWFpyWlZJXy1lSGx5RmM?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtVUJoWEZxWVRadkNubnRHdkNoRFFxdzJ6S2VYUi1BaEp5Yi1hWDB6QnBXOWZ5dzR3MHp1UFI0dFBKRHhRU2kxZ2VVZzJCakxVWnpaWHY3YUFWb05Kcmtkcm1uOXpvOW1JSmpR?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTTNHbFg5azlkSTg5eDdLaWFlOE1BVGtmRk9paVF0d1JTYW9wOHFXWXR5dE9vSTQyYVRiWUdCNm5SQTJ4akdzS25sNTFvWng2akx2clZpNmlsX3U2MGt0alE5NFZQUkhxUVdTOXNUck5VaElrenhuOWRobTBrVVFEYzV5RXlBQWM3YWVhT21MZ2VMN090WllKaFVqcEZ4MUU4ak5HTDd0MUdQa2JzY3lhVkVONHBCZw?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVldjYi1qUFJnTk1VcUhLZC14NklDT0VuYXVkVjM1NHh4UkNsUFp6ZXhaWENmVlFtZkI4YkZ6VWVpY3FHY0E5Y3UzSjZEdWtPT3lJTlI2ZzBpNEItdEZWT0ttNEZWN3czUzl3SzA5dHhZaHZDM0w3b2Fub3NycUtRQUo5SkVud2cyWTN3RHphQXBRRTZ0S19jQk9lVElmVFZvTkJVTA?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdHpRQy1IbzBRcjVHV3JmUExyejl1TTJuN1gxMmxZNS1nVTQ3V2pFWG9RendyLW1BWjlNS2tOZE9ENUZQbzJsYnBmR0dEd1lrTURLaXg5VlBsNzdGdDJpSlZLd3d4c1NqbFkxU2JYUlkwbWJaMEd4aDN2RmV3WWdGMzV0bkxueHB4aWVGNnRadmlXV2RmdHZmRGl0Y0pJUXVtal9RNUZ2TG94U041S0xNM2dDOXFuSGEyVzgzenlNdTI?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkpReXZJYjdjWExFNVE0U0toN2JzbWE1aEN0bXpDd3c4TGpVOTktR2xRbFNGWEE4czlodUZQVnVHVy1tZTZzemhpNEdZVzNtemgxaWYxUGpSSGdlWEMyVldzM3BJS0swQjBOYUtqZFB5NG0yYklOU3BxMjVsdE4xYzVRR2Z3VmFHM1phUUVNSkJkc2xlRHFGYzA1VjZlWXRKbndNWTR5U1kzQlJvRXEzeDZ4TDBxeFU?oc=5",
-    "https://www.invenglobal.com/articles/26793/summoned-after-30-years-magic-knight-rayearth-offers-a-first-look-at-remake-anime-premiere",
-    "https://www.invenglobal.com/articles/26792/burnout-devs-star-wars-galactic-racer-hits-88-on-metacritic-praised-for-sense-of-speed",
-    "https://esports-news.co.uk/2026/10/03/loud-and-keyd-stars-exit-counter-strike-as-brazil-cracks-down-on-betting/",
-    "https://insider-gaming.com/when-next-amazon-prime-day-schedule-explained/",
-    "https://thegamehaus.com/gamingg/live-casino-vs-software-games-which-should-you-play/2026/10/03/",
-    "https://thegamehaus.com/deadlock/meet-rat-king-new-hero-ability-breakdown-and-first-look/2026/10/02/",
-    "https://www.hltv.org/news/45619/the-best-highlights-from-epl-s24-groups",
     "https://www.vlr.gg/765901/g2-eliminates-team-liquid-extending-liquid-s-1-2-group-stage-curse",
     "https://esportsinsider.com/2026/10/siuhy-free-agent-liquid",
     "https://esportsinsider.com/2026/10/brazil-betting-restrictions-cs2",
@@ -7999,30 +7977,31 @@
     "https://www.invenglobal.com/articles/27682/hanwha-life-esports-falls-to-ig-facing-crisis-at-1-2-record",
     "https://www.hltv.org/news/45804/saw-right-now-its-like-were-stagnating-or-maybe-even-took-a-couple-of-steps-backward",
     "https://www.hltv.org/news/45807/spirit-to-meet-furia-on-day-3-in-bucharest",
-    "https://www.hltv.org/news/45805/navi-rise-another-nine-places-on-the-vrs-after-taking-out-furia"
+    "https://www.hltv.org/news/45805/navi-rise-another-nine-places-on-the-vrs-after-taking-out-furia",
+    "https://www.hltv.org/news/45806/legacy-win-domestic-derby-over-dendele-to-reach-1-1-pool",
+    "https://insider-gaming.com/xbox-coo-helen-chiang-leaves-microsoft/",
+    "https://insider-gaming.com/katana-zero-dlc-update/",
+    "https://insider-gaming.com/tomb-raider-legacy-of-atlantis-sneak-peek/",
+    "https://www.hotspawn.com/counter-strike/news/state-win-hotspawn-10k-showdown",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNF83bUsxRGFjOHc4dWJxTTYzQ0VhaWlyTFptci1sZGNmMnBDdkFhcGlGdXpaQXlKVnVXWTR2OURUc1IxanZHcE5pUlRTQXIyTDhBTlAtdWFlSnFxUEpNcWN1VkpRQmtYNkNfUnA3WGduNWVGZzI0UHpaUzRvaVZ5cTJtSENiM2tMUVNzMjRQdXBOQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmaFhCZUtVODFiQ3V3dy1lZHhJRVpLTV9sRFI2d3cxUmVJU2JvVGx6QjRwVTNuemd3VTU0UTZ2SjN1dEpMMHAzeVZtWndyT1ROMkZXRG1DOEU5bUtrV3BnRkloUW14TVdHR0N0TEFKUzVLNXVmR242aTE3bnVaZw?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaHhyS1NPelloNXBXY3ZKMXhia1RrY29lWFZVTk1UT1hvX3FjLXFfYXpXMXhKakRYQzVmakFkbnJoSHlKQXBqQ0QwSFJIUzBrOUd4RmZGbVBIYk1sVU9aUFcxWjkzbXNVdFNzWXNkbnJZMW94NU9ZNTJSWEt5ckFkNQ?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNUwwVlplLUlkVzd5NXhkNl9OemFVdFRHUnppdEh6dkRZdU1GYzNjZlB3WUxib1VHV3dMQkZlOVd5Vzg0UzRhMzk3b2lsbU80S0VOY2hnLVd4NUlwb0RyLVpscDE3WmxRRGEybXFYZDhoc0dzUEt1dHRjVzg1Uk9XYw?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE42ZWdBd1RIbUZ1T3FnVUJwOW9kRnVyR1FmdzAyVTVJM3RVRHdkNUVRSmxSZFoxOVk1bTZXVldkeUhmVmdrMXR4QTdXaV8yRGdwVTlGR256STg1OW1ZOGc0LWw1dVkzTkZWdG9V?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGRDBnLUVmOWhDNnlmaXlCSm5OYjNwZGNJblA3VmtGSTFFU2NTM3NtQ1lqRHk5UHdSV1V4dXdjU3B2SlJkbGVXS0xiOTF2SzY0OTBZcXh1TzJQRERPbU9oMEdqVVZXNmJacG9pQ2JxVjgtVjRadmpyeg?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFBxbmVnUUxKcW5KTnhNdlFxbV9SVUZ2ZUJMWUprMFFpTS1FdjNGTk5nSWcybGZtckFZSnRYY2xCZHl3WGFlN3FsYi10Njd6NU5SZ0dfd1U0TFM2VkxIQ3V3VDFCVnhNeVg0dFJvc2UxbVNpNFRLMXdWNk9NTmR1aE5LYXVFRU43d0VPakJFUURyMHFuZFZn?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTml0UFVuZXV5eWxVYUgyQUF4RmJmMGVFWTIzcGdGbVBNRFhDTnJTNjhpQlFsRVdDRmNDNXZ0WnlhUzhERnNjS2JCV1pDRmJ6SVlTUGdFbjJPZlhZVGgtSUhVUWdOTFVxTWhCU0tqclJiZHJEMnhGMjJ6UUhYNVNRR2tacWotMzJGd3NqdDY3RWxmRWIyNEozRzBvUzJpZTdLQmZ1eFdHenRmNHZhTDNiaUdR?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81V3EzMURpMzdIN3BfeDZjczZhR2NMZUgyb25uNExaN2ZEWS1HTGpGek44ZlF4a2lacnE3MEgwU21Kb0pZeV9kbTA1YkpqcEZxUE1LODJ4ZmsxRTg?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiU0pXWWdSQlp1ZVBWV3BBZGFWbGN4QTBaWFhHSW1qYUk5Q05pMFJ5emdvcW5xaGJfUUp0azhRZXJWRDlYMFZ4NnI5YlI5QkJON2J2ZUl0M0NBZ3Q4VGxvbkZkZnNrTUtpSjVz?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIemNqRjNLeUNsaFNpOTZGbkJjdWcxTFN2NUIxUVRYUTlXaTRjTUFzZVloSy03X0k1Y2ZzN0pkM2NzLWpZNFVyUHpOMURkM2pqNERCQTZFMDFNQ19XVHFTazB6WmpaaGMyMVZr?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CMUtjUXc0aTUyM1lNLWpTeXhfNFVoSDlVNFJjbl9nc09QTnVOODVUY1RwRl9IRXlKZFVLMFZ1ZnVoX2x4WWZMUGxXUi1sT2xrUW5xM01CZWV6bTI5T2Z0N0JkQVNOc3hwY2Zz?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnJJVVdZbmp2dmR4cHRSSFFsUkdJRG55SUVfNVdYRkdKMFZybEUyc1ptbnFzUmhHM1ZlNGMwV080TlFXUm8tUHJnYmU4TnF6MUF2RUc5LWlFay16dkJLeDBWRF9yamJMWkQtLVpBRldCYnBfT3lTRVI1U0pvMkNEVw?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RU0Y4LUtfWl9ydS1HREpSdHlzb2d2RVpXeGZ3a2FIRndVLUxmb0NxQlBVN2hRbUNiMUpNMVBzMXM2YzRzai1QQVJiT2tyeUNpaHJVQVlwOEw1bTRyZm95SjRjZk5tOG5xSVE?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZE5WcE1WYkFXZ1NldDdjalRGc0MyR1RYWUFMSWJUUEV5ODFXME9KdWgyeFZPLVFrU2V5WGpha3RjNGYxZHFsV2J4M2pvUEJkd0FKVTBrajVXcl9md2JtTHZVUDJTeVpxdEFmdGVKVlVETHhpeUVQZXhOb1pRMzNNS3VCZktrc3d5MGhhQW03U3Y4V0RiNzF6VXh5UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3BXMXRXaFB5MWktUURROWg2akRmVGc1VG15dHcxWWUxT1N6cjhFR1hESmFlQWxVUm1SdDY4XzZSX2NrVC1BaFgzVHQxTndUQjRCR3lBaExrMHE5WnhvSXVKTWxuZFZoVWc5enN2OEpFQ0lnUGlVblBQeVk5VFJtVTBxbFBaTDVkNmNnZF80bVllSTNPSHNSekZNUG1LZWFzZ25pcEFfaU5DZw?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPamdlMGpSQXZVTkc0Z1d1R09WNTJoNG9NaTNMZW93cERfU1NBVHFRNEd4azhpUTkyS2ZkTHFVMWQ0b1NxbmJHdUFnbGtkTmd6ZDloQ29nWG04a0lVV09sbTBRZ0JmNDFTbnhWc2xpUjZOdFBKdWk2b2tSMUR4ek16Ml9mNVl6SmFHbkdkWkJTUmRwU1lHLXpVMFFpUEttZw?oc=5"
   ],
   "title_hashes": [
-    "5d291a72a670f04f73d47028f69a900b",
-    "bfcec3585d8e1ca6d21a02a237bd4616",
-    "83b80b247482bb2602d926731a7f516c",
-    "19b0d98f2f337b693a66e8e3e2b5a8ff",
-    "fb7ca8b070875aaae4f5518e642663bb",
-    "44afc7dbca26687b185efba3eadf4638",
-    "b639675439c5fd4b6e884dec9d22f79f",
-    "eea662f883ec3047124743f8a6e29858",
-    "abc5b9f3716c7619ff1a2b5d4d08d61d",
-    "ebfa3bae21e05a8ad248cd9fde513f13",
-    "05b49aa844e3e83d9c548712d1381363",
-    "d2245c8207c6ed8e46fc63bdfe20da37",
-    "432bba9bf429a5cc704635895bdf977d",
-    "004b2402dbb0118241d7ae3eb5b686bb",
-    "bfd8bbc67abee23c70c76729c8d9ecde",
-    "b82b3ffe11b087e08e3c41854323f99f",
-    "fecc545a022ced800144df2c50070d29",
-    "854cd971d94bfb5d412ba552caf2d291",
-    "9bda828e3c5758dc8c1529c03cb772f5",
-    "5865c29dab86feabf6894d8b716d6b6e",
-    "2af9d5e34da8758ef664a4d448bd8944",
     "54aef1d62e7448aff6a4f46009a95590",
     "77a37707eaeb4535605f9a056dd5aaec",
     "4f72890a5beb65e93d6f85a8089a11d1",
@@ -16001,7 +15980,28 @@
     "9973943037d185c82b3826fd69c0f605",
     "c4d26f804ba10b706135d275a50bfcc1",
     "861511d54d909a362598e1fcc6cb32b1",
-    "9033da0c617cbea2031c7e39469e2308"
+    "9033da0c617cbea2031c7e39469e2308",
+    "30d1fef53baba35d98d0f08b6903992c",
+    "4d7d9c033d6acda10a483ede54840ba4",
+    "d3707d9fc24fc3ea91ea3c128901be53",
+    "9aee634729569e9f7089faaf523a0a6c",
+    "a10c42ece6dc5055a8945c9854209499",
+    "4b340bdc9bc3fd06c4e6bc6e7b574172",
+    "db92637cf5d17ea05a425a15d2f86d75",
+    "a60169546d83339e552952393e761f25",
+    "6db1171355547c4fa808f00a146ee3af",
+    "abb8bc6e8a5cea26d86bb25a24914b56",
+    "933867e50162a16ec0e7db99d4e8b968",
+    "1ed97c219c7535b7ba0ede969081ee29",
+    "29edcd2bed9f2ba4dd81bf1ab5150d0a",
+    "248e17e74de8ec3baebce51002957a8d",
+    "248e17e74de8ec3baebce51002957a8d",
+    "248e17e74de8ec3baebce51002957a8d",
+    "f743b86ccbc2424bb19f197f9f7fbecb",
+    "83d524cbeab6cbe9dd35d10909de9e28",
+    "05845889af9112a9a5f2b2163160b6fa",
+    "49c00716cd76f2cfe823350770b3aaa2",
+    "0a0806835bc2604be6ce04dd15e114f0"
   ],
   "transfers": {
     "pages": {
@@ -20976,6 +20976,26 @@
     {
       "t": "99 after another furia major means more navi nine number out over pgl places qualify rise simulations singapore taking than they three vrs win world",
       "ts": 1792955487.722866
+    },
+    {
+      "t": "1 57 close dendele derby domestic helped legacy over pool rated reach series try two win",
+      "ts": 1792955493.0909202
+    },
+    {
+      "t": "21 afte after chiang chief coo created departs first following helen her leaving microsoft month newly officer operating post role tenure three xbox years",
+      "ts": 1792955496.6579347
+    },
+    {
+      "t": "12 2027 atlantis crystal dynamics february gameplay gets launch legacy new peek post ps5 raider reaffirming revealed sneak tomb xbox",
+      "ts": 1792955500.3047519
+    },
+    {
+      "t": "10k after against bracket champions convi danes down esports event falling final got grand hotspawn inaugural last lower resort revenge showdown state take their win",
+      "ts": 1792955504.1890442
+    },
+    {
+      "t": "2026 alan bmic date khel more mumbai nbsp now performance rumor teams venue walker",
+      "ts": 1792955507.6743515
     }
   ]
 }
