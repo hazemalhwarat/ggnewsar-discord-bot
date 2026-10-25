@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tUFhVZXZ1U3pxTmdhTnNNMWhMaTN4NUEtMHhmNHZDY253TFdwRVNSdkxnLU0ybldSX0QzU2hPUHFIWVJ3YnpDX3A1a0w4bDEyOGJLMDI3bVFBZlRIcWNvZV9qT01rdWtC?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HWlRJeE01WXpzRlgxSjRsTzFNbEZQTXBHSTlYTnUwbzhuWG93cTMzdGJidFIxNGs5dnJtbUhoT3BLdlNNelZSSU1zUDdpNjJoc3BKT1FGVnBRaFRiNnNKNmtIYllfYm9BSjd3?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXWGEtaFhhVG93TG1nREJWeWNlUDkxS3pwVGx4bktSdjNfaGxPNGFTZTQxbUdFRk5ldmF2cFhXNmxqMzhNUHdwZHJuMnJNRERRclZ4Q2MzT1lPdTZCTjVGMFhzakppMU1WRXBr?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVVTS3NJUTE0VnpRMjI2al9zNmp2YkZrR204NUE1NXFrbEwxX3liQXI0Z2VXVy1RSVEwb29hV2diTk92TTNRZzhYU0hmSWF3RzY1aUltS2ZxMklzZ2lvTTRYNVVLaml0OW9EbzRqd1VKZlFwTGp0MWNPTnhYTUdVcFhnSXlPR1FVVmtOS0tESGFYYWp6OVBuMDhXY0ZqQUR6VGtNM0RJMmtQUllZM0J4V01sUENRWXFSajRWNUtfT1MtRDlEb1Rj?oc=5",
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSk9zbVVuS1c4aG1HMTV0SU56S2V4QkFXV0pBY0VKNXZySzdlamJEVXdWVXY1NmdLOFBkRzAtOTU4TUZSTW1tUFRUVmk2QWlWbUJzdm9Fd3ZZdEhWWTlvNE5hZkNrNHZ5anpxZEw3V0Rpdkg5czhkTlZLTm9ZMEI1TjRaYnQ2Q0xKXzFGQnFLNnFKaV9hNVB3c2lnUUtCcFExMEU4WHVjVjE2UUVRa0RZSDVBUXRySFJaQVdRM2lxVV9PZlI3YjhtTUhvU3lLbENlUHFBUW1oSi1oVnR3Y3c?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzAyWkM1NVBJM21ZZ2ZVa284ck9MUW56T0x4cDNzSndZTHpGTDN5QVo5TEdxeWNpNUNBZ1VOb3ZuZG9kNmtaUXZLNlpFY1hLRkJ4VUlFNHc4cVRHYmxSOUJISWFmUzV4VXZRTFlIbV9pT2g3R0JubmtXa2RUa29NTEtrTFphZWNI?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEVXdU93c1hOc3JzX0tPVXkyUk5pVFJaX0JmVnJmNXM5MGZtVzRZXzRlb0pkYmhVNDV0OFhkSktwZlZId0NSMVBGdTk0Znd3M2dqVl9lYWxxdmlJaEpwWll0c0hpOEhuMHJCOHZNWGN2Q0I2eDRERGtGZmdqZUdKbmtNOW5UX2xFUi1VV253?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalNsMGhnYmdaZmF5LXRlajJ1T3ZuakhzSE1SWWg4ZlRyek41Q05FOWpyaXo5Nl9DbmNJLVQ3NWZIb2U1N3lWQm1oVVhqS2hqVEpTalo3UlpmWk12Q2t2dkRZUjZLTnYwLWxQNHFmaENmWV9IcndUWlZhTHBvRll4eFZvbW5QR3VpS1gxelZwWWNDbHBYSnctc01pWTRYSUhPVXVRaHVJbWNCRlJMU1d2SWYzRWhpT1R4?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE50OXFSc3g1bTkzM3lJMjJ2NzdpNTBZOGlwOHB3TTBwWERFbWl5VHh2S01KaUQ5V2Uxd3JvQW5EM2ZQUmcxdDNnWEpxbjdQV1FER0FpOXNlUjZBa0NCMGRiQ25ic2M1WkJsMmpBeWFmRlJ3SHBs?oc=5",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWVJaRWpqcENmYXV6eE4xQU1rZi01MWhyc2tSMFlabHhZSlNYd1BHQkZJX2VJQ3B6eW5yZlQxYTgyWndLaW1TV0dtbzNsWU1rV2tSSDMwaXNiWTEzV18zWk9lUVI4NFBSRXpucWJFMFFnMW5VeUtuLVlEM1BWR3pZQXpsWDZFcnY2YVlsNVhTODVOMmY3U1BvLXVTQW4yS3BPdllod0xfYW9aUllsSU80cFY1MWFkWWpITVA3TzFSSlhHTHJUYUk0WQ?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDcF8wbGw4c1piQkwwQlhyN0FiajliREl3Z3FWakR2aXlLdmd2bWVQTkRCcjlucXZtM0F0WlNrODdMUjdDSGNUTldWb2pZLS1aOTI3UFNpTmUyclRnR2ZRdjhUVnVzRzlpMWRzUXlFYnBsVkc5TFJ0UXRCOHV1VzA?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYVpZMXJwZ3lob0hnTlFTdnNtMllPdmxpUEhuQ0ZtVmlyVklYUENESy0yNjZWZUlNRnJLeExyZFNvd2c1emkyczRuWmVFOUx0QjVkM2s3SHI3QUs1eWZoUUNETXl5eFY1SXRSZXJWRmFpd193MkkwRXZQZDNaeEFpeGl3UC1jbjBBVUFfejRxUGxvR2hjdk00OUpsOURkWFlkcEV4TndLQkpMM3RnN0dhTW1NVko4QmdQU2lwVDNCckZKS0FhdmVYMEhn?oc=5"
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYVpZMXJwZ3lob0hnTlFTdnNtMllPdmxpUEhuQ0ZtVmlyVklYUENESy0yNjZWZUlNRnJLeExyZFNvd2c1emkyczRuWmVFOUx0QjVkM2s3SHI3QUs1eWZoUUNETXl5eFY1SXRSZXJWRmFpd193MkkwRXZQZDNaeEFpeGl3UC1jbjBBVUFfejRxUGxvR2hjdk00OUpsOURkWFlkcEV4TndLQkpMM3RnN0dhTW1NVko4QmdQU2lwVDNCckZKS0FhdmVYMEhn?oc=5",
+    "https://www.invenglobal.com/articles/27679/live-action-elden-ring-movie-budget-nears-200-million",
+    "https://www.invenglobal.com/articles/27678/widowmaker-as-eve-overwatch-x-stellar-blade-collab-starts-november-4",
+    "https://esportsinsider.com/2026/10/gen-g-beat-hanwha-life-esports-again-to-go-two-from-two-at-worlds-2026",
+    "https://www.hltv.org/news/45797/vitality-ease-past-the-mongolz-into-pgl-masters-bucharest-2-0-pool",
+    "https://www.hltv.org/news/45798/fut-beat-liquid-to-move-to-2-0-in-bucharest"
   ],
   "title_hashes": [
-    "53d862b8ef4feb183fff7d412b1343f4",
-    "a73000196acf907ca5c5bd611ea4d48f",
-    "7b7f09c71cec26a81e0852da49e4b110",
-    "6540c1fb9e863146c207c9c2dd8dd5c2",
-    "47fa4a8f37bdb0594d1c56d49cbf0c37",
     "fa8bd3045561a43eff87c04a88b9e78f",
     "56b922f9aefedcaa0fc2aba6657da101",
     "a6ab5345fdedc25efcd504c8efc40ad2",
@@ -16001,7 +15996,12 @@
     "a18c858edc7b904c3c340e00c7e38a76",
     "352fe5abfae7c9a09e4b7d0f0bc3f605",
     "6a66c2bf60f947cd8f586ba8c949137c",
-    "ce1bdc76910d9671120737b078ee82a1"
+    "ce1bdc76910d9671120737b078ee82a1",
+    "b409fd395a10dcfdf5d6d3a95a873fad",
+    "a97964799ad92e2fc421b26692da8bf1",
+    "af7f92685f9bfd6893ece791c316f37d",
+    "63dfcd179b4e0adddf7d95d73f94182b",
+    "8d2e8fe12f8a1d028fa99f7f3c60a100"
   ],
   "transfers": {
     "pages": {
@@ -20710,190 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "230 24 4th anniversary battle broadcast channel final goddess held nikke october official pulls saturday special via victory youtube",
-      "ts": 1792849005.6141045
-    },
-    {
-      "t": "1 12 ancient bucharest edge liquid loss mouz naf opener out overtime pgl rating recovered series topped",
-      "ts": 1792849009.1613364
-    },
-    {
-      "t": "awper because benched bringing control coolio experience feel fut g2 good like new player shocked still such sunpayus that thrilled",
-      "ts": 1792849012.8931825
-    },
-    {
-      "t": "0 aurora bucharest champions find masters mongolz pgl reigning stun themselves",
-      "ts": 1792849016.4053576
-    },
-    {
-      "t": "allowed announced chapter competitive contract could d4v41 end explore has him his khalish longtime nears new organization other paper player preparing prx rex rusyaidee says teams that valorant",
-      "ts": 1792849019.9272103
-    },
-    {
-      "t": "21 according after announced asha becoming ceo chiang chief coo departur first has helen just leaves left microsoft months officer operating promotion reportedly roughly sharma three verge xbox years",
-      "ts": 1792849025.1956031
-    },
-    {
-      "t": "aleks already arc avoiding dad devs each embark executive experiment fights gamers grew guessed happily helped inspire its only other out players producer pve raiders say seeing servers something studios test you",
-      "ts": 1792849028.6244485
-    },
-    {
-      "t": "2026 beijing blast bucharest calendar dates december esports every iem left locations major masters more october pgl pools prize singapore tournament worlds",
-      "ts": 1792849032.0975194
-    },
-    {
-      "t": "1 2 2026 24 all allen dplus games gen hanwha headline hle kia korean lck leave life october played round stage swiss t1 teams texas two will worlds",
-      "ts": 1792849035.5846272
-    },
-    {
-      "t": "10 about actually day festival including kids lol lore mean opposite piltover prove runs same says ten themselves things throw undercity what zaun",
-      "ts": 1792849039.1256535
-    },
-    {
-      "t": "beginning can clear does ending endpoints entire evening fill gaming goal hidden its leaves lie life manageable need not people rest room routines satisfying session that using value",
-      "ts": 1792849045.3371763
-    },
-    {
-      "t": "become but digital entire esports fans have isn just making organizers participants players real reward rewards screen shake spectacle spectators system tournaments transforming unmissable why",
-      "ts": 1792849048.9900622
-    },
-    {
-      "t": "able actual being changed enter esports forever game games have imagine last major minute owning purchase rise scenario scene scrambling services subscription this tournament turning upfront without",
-      "ts": 1792849052.4145985
-    },
-    {
-      "t": "adopting ago around asset basic can chat comms communication connection days decade esports ever evolved faster have hoped huddled into new outcome platforms squads steady strategic sway team teams than that these tools tournament voice why",
-      "ts": 1792849055.9677317
-    },
-    {
-      "t": "action anymore aren casual changed dedicated drew esports even fans find gamers glued hardcore have how interac into just live matches most now once only players streamers streams themselves tournaments turned what why",
-      "ts": 1792849059.4577098
-    },
-    {
-      "t": "ago amateur boost bragging changing competitions digital energizes esports fast few isn just local logo meant mostly perhaps rewards rights secret shirt that thrill today tournaments truly what years",
-      "ts": 1792849064.5978491
-    },
-    {
-      "t": "adrenaline but comes consistently csgo deeper down everyone expected happen ignoring into look loves nowhere often out paper real reasons snatches spike team teams those tournaments upsets victory what when why win wins you",
-      "ts": 1792849068.1037877
-    },
-    {
-      "t": "10 achievements apex awards bgmi call career case claim competitive experience explain fans gaming has him his individual jonathan king legacy make still strong team who why years",
-      "ts": 1792849071.9426377
-    },
-    {
-      "t": "about argue became but console entire everywhere exclusive frame gamers global ground hub isn just loyalists meeting minigames neutral one platform poin quietly quirky rates roblox sidestepped titles used war why",
-      "ts": 1792849075.4595423
-    },
-    {
-      "t": "2027 esports f0rsaken nbsp paper retain rex season set sheep something sources vct",
-      "ts": 1792849078.917296
-    },
-    {
-      "t": "2027 coach crazy esports head join nbsp pacific raccoon season set sheep sources vct vorz",
-      "ts": 1792849084.0909991
-    },
-    {
-      "t": "2 liquid mouz stun",
-      "ts": 1792849087.5194588
-    },
-    {
-      "t": "2 aurora champions defending mongolz stun",
-      "ts": 1792849090.9565501
-    },
-    {
-      "t": "6 debut fut let stars sunpayus tyloo",
-      "ts": 1792849094.3981614
-    },
-    {
-      "t": "big epic lan late major push sign spot",
-      "ts": 1792849097.851273
-    },
-    {
-      "t": "apex astralis begins bucharest invite line major masters pgl sticker",
-      "ts": 1792849103.1099756
-    },
-    {
-      "t": "3 codename developer first half has hlx internal life mentioned mentions publicly real rumored this time valve widely",
-      "ts": 1792861136.692125
-    },
-    {
-      "t": "after being conference creating culture during generative handles held his japan means miyamoto more nintendo order press receive reflect selected shared shigeru tasks thoughts truly what",
-      "ts": 1792861140.2008762
-    },
-    {
-      "t": "aonuma arts chevalier eiji following france french government has legend letters miyamoto order producer received receives series zelda",
-      "ts": 1792861143.6891036
-    },
-    {
-      "t": "000 2026 7 astral attendees came championship claims close consecutive draws flyff fwc inventhe peat securing site team their third three title universe world",
-      "ts": 1792861147.1727598
-    },
-    {
-      "t": "00 2 2026 24 asia championship filled finals flyff fwc girl grand group hall held invenon kaia korea mall manila music october over passion philippines pop see shines universe world you",
-      "ts": 1792861150.6580153
-    },
-    {
-      "t": "29th 4th adds anniversary chara free game goddess goes have infinite level live marian new nikke october playing queen revealed role rpg sci shift shooter spanish ssr support update victory which worldwide",
-      "ts": 1792861155.7470272
-    },
-    {
-      "t": "1 2026 3 achieve astral blamed championship defeated each finals first flyff fwc grand invenastral never other peat supahotcrewxd team three universe world",
-      "ts": 1792861159.0991075
-    },
-    {
-      "t": "2026 24 asia champion championship comrades emerges ever first flyff fwc game hall held hunted mall manila meet monitor music october outside peat philipp place scenes three together universe who world ③",
-      "ts": 1792861162.5678797
-    },
-    {
-      "t": "2 2026 24 asia beyond championship companions filipino flyff fwc game gathering girl group hall heats held hunted kaia mall manila meet monitor music october part stage takes together universe where who world",
-      "ts": 1792861165.9896376
-    },
-    {
-      "t": "8217 appeared could evolve evolving features first haptic hints how insider its new patent post ps6 sony suggests technology upcoming",
-      "ts": 1792861169.3634055
-    },
-    {
-      "t": "1 2 appeared been first has here know leaked leaks lookout major media next playstation post social stalker upcoming update what zone",
-      "ts": 1792861174.2624967
-    },
-    {
-      "t": "3 added bucharest champions down fissure legacy list move nemiga past playground russian taking team upsets",
-      "ts": 1792861177.6379502
-    },
-    {
-      "t": "after beating bucharest elige floor have inconsistency level liquid make masters mouz opening our over pgl reflects this upset win",
-      "ts": 1792861181.0949643
-    },
-    {
-      "t": "betboom bucharest company continue defeat donk fall favorites masters next pgl romania spirit upsets",
-      "ts": 1792861184.4523234
-    },
-    {
-      "t": "2026 24 31 after bracket bucharest day each every final grand masters october pgl play playoff records result results scores stage standings swiss tracker updated",
-      "ts": 1792861187.9344184
-    },
-    {
-      "t": "according baun baundiesel before bioware buy claim closure deal developers down effect interest mass posts reportedly showed shut studio that tried who",
-      "ts": 1792861192.7424567
-    },
-    {
-      "t": "according aggravated arrested assault been call charge dexerto domestic donovan duty former has laroda league obtained police pro records temp texas violence",
-      "ts": 1792861196.1469598
-    },
-    {
-      "t": "2026 8217 about chance dream esports every face facing faker feisty goat got him his including laner lol los match mid opening player probably shocked single stage swiss unfor what worlds young",
-      "ts": 1792861199.647296
-    },
-    {
-      "t": "1 2 awp betboom clutch ends mirage number one overtime spirit stun world zorte",
-      "ts": 1792861203.017601
-    },
-    {
-      "t": "2027 americas esports join nbsp oxy sentinels set sheep sources vct",
-      "ts": 1792861206.67032
-    },
-    {
       "t": "danger early elimination end facing first gameslpl give lpl riot seed tarzan top until won worlds",
       "ts": 1792869347.4929826
     },
@@ -21040,6 +20856,26 @@
     {
       "t": "4 added after always article asd can driver fix graphics having here latest modern nvidia original out read recent text that trouble update viewing warfare washed weird you",
       "ts": 1792911190.4857082
+    },
+    {
+      "t": "200 264 8 action adaptation approx billion budget elden fromsoftware game have live million movie nearly nears production reported ring won",
+      "ts": 1792930558.203493
+    },
+    {
+      "t": "4 art between blade blizzard collab collaboration courtesy entertainment eve hav key november official overwatch protocol schedule shift starts stellar upthe widowmaker",
+      "ts": 1792930561.6813757
+    },
+    {
+      "t": "0 2 2026 against beat both champions games gen hanwha have into invitational knockout lck life mid msi put reigning season second stage swiss their third win won worlds would",
+      "ts": 1792930565.1648104
+    },
+    {
+      "t": "0 2 bucharest didn dominating ease european flamez inferno into masters mongolz over past pgl pool series slow squad start stop taking vitality zywoo",
+      "ts": 1792930568.68549
+    },
+    {
+      "t": "0 1 2 98 beat bucharest dem0n fut liquid move moved one playoffs posted rating win within",
+      "ts": 1792930572.2350612
     }
   ]
 }
