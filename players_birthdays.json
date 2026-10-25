@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T11:25:03.588095+03:00",
-  "count": 655,
+  "generated_at": "2026-10-25T11:45:20.428281+03:00",
+  "count": 658,
   "players": [
     {
       "name": "Ninjas",
@@ -2363,6 +2363,16 @@
       "url": "https://liquipedia.net/leagueoflegends/OniiKhan"
     },
     {
+      "name": "SAN8II",
+      "wiki": "leagueoflegends",
+      "game": "League of Legends",
+      "country": "السعودية",
+      "year": 1997,
+      "month": 3,
+      "day": 16,
+      "url": "https://liquipedia.net/leagueoflegends/SAN8II"
+    },
+    {
       "name": "Sas",
       "wiki": "leagueoflegends",
       "game": "League of Legends",
@@ -2381,6 +2391,16 @@
       "month": 1,
       "day": 14,
       "url": "https://liquipedia.net/leagueoflegends/Wufo"
+    },
+    {
+      "name": "Grèédy",
+      "wiki": "leagueoflegends",
+      "game": "League of Legends",
+      "country": "الإمارات",
+      "year": 2000,
+      "month": 11,
+      "day": 1,
+      "url": "https://liquipedia.net/leagueoflegends/Grèédy"
     },
     {
       "name": "Magic (Emirati player)",
@@ -2581,6 +2601,16 @@
       "month": 10,
       "day": 19,
       "url": "https://liquipedia.net/leagueoflegends/KlownZ"
+    },
+    {
+      "name": "ZeroOo",
+      "wiki": "leagueoflegends",
+      "game": "League of Legends",
+      "country": "الأردن",
+      "year": 2000,
+      "month": 3,
+      "day": 12,
+      "url": "https://liquipedia.net/leagueoflegends/ZeroOo"
     },
     {
       "name": "Aklass",
@@ -3528,8 +3558,8 @@
       "game": "Rocket League",
       "country": "السعودية",
       "year": 2005,
-      "month": 9,
-      "day": 17,
+      "month": 11,
+      "day": 7,
       "url": "https://liquipedia.net/rocketleague/Hisoka"
     },
     {
