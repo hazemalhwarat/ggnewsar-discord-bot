@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ09ieGF2MkRjYTBLd055RC1nZ2hoWmVLWVVYLVNqZUw2VWFBYnpva3VjTDEzQXIyYVlyOUtNTVlhZTUyaGl1clVvQnVxRmRSMXUweUd5UGxyTl9aVk1oWl81bVlDSTNTaDVJMTZObWJGX1ZRb21JX3RBVFZ5U21rdg?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jRHU3bGlXclZMOVZrQnQ3cnNrbUhyVWxfSDlMVFRBblJDRWoycTRtbm9vYmlJdkEwQk1YSzhvYk52bTE2QzVzUVYtSklwaGdvcUhMS281aHNxMlpDMlE?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TTi1CTXRGeWF2bWJmRFlzbjZzekJtdU9xUkxZNVFXalFTZzdfWXJHbDVYNmp6RXlFNklLcWtQZXZwUzBNV2swVHVlYld1WjR0SFVDX0h2Vkk2S2dFRmt1M3BzVzh6ZTJJTWJJSTlvYVh3UG1JLW9ac3J5Umlaam8?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGRDBnLUVmOWhDNnlmaXlCSm5OYjNwZGNJblA3VmtGSTFFU2NTM3NtQ1lqRHk5UHdSV1V4dXdjU3B2SlJkbGVXS0xiOTF2SzY0OTBZcXh1TzJQRERPbU9oMEdqVVZXNmJacG9pQ2JxVjgtVjRadmpyeg?oc=5",
-    "https://www.talkesport.com/guides/ps-plus-free-packs-october-2026-all-10-bonus-downloads/",
     "https://www.talkesport.com/entertainment/battlefield-movie-sony-michael-b-jordan/",
     "https://www.talkesport.com/guides/games-leaving-xbox-game-pass-october-2026/",
     "https://www.talkesport.com/gta-6/gta-6-timeline/",
@@ -7999,14 +7994,14 @@
     "https://pley.gg/cs2/fut-ride-a-43-kill-dem0n-past-liquid-2-0-and-stand-one-win-from-the-playoffs/",
     "https://pley.gg/cs2/navi-climb-back-inside-the-major-places-before-furia-test-in-bucharest/",
     "https://pley.gg/cs2/spirit-end-their-worst-run-since-2023-and-leave-tyloo-s-major-place-hanging/",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OX3NBaVQ4bkw5cDdOWWo5aGxVN1gwbWhCcXUtLTlDQWNpeUg3UjNKY0xWTDdLTzZPRVFNV1lLQm96VHZ4Z0pOX2RoY2xSWmFGcWlidTBUcUQ4Si01MEs0ZkhxaXZOUG16SHNOUw?oc=5"
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OX3NBaVQ4bkw5cDdOWWo5aGxVN1gwbWhCcXUtLTlDQWNpeUg3UjNKY0xWTDdLTzZPRVFNV1lLQm96VHZ4Z0pOX2RoY2xSWmFGcWlidTBUcUQ4Si01MEs0ZkhxaXZOUG16SHNOUw?oc=5",
+    "https://www.invenglobal.com/articles/27681/castle-count-unchanged-but-full-of-brawls-key-highlights-of-the-19th-siege",
+    "https://www.invenglobal.com/articles/27680/nexon-to-service-japanese-server-for-blue-archive-starting-2027",
+    "https://www.esports.net/news/gaming/vct-off-season-wo0t-meteor-keiko/",
+    "https://www.hltv.org/news/45801/boombl4-every-player-right-now-is-more-confident-individually",
+    "https://www.hltv.org/news/45802/g2-spiral-continues-after-loss-to-aurora"
   ],
   "title_hashes": [
-    "5da08ae2d98a437da2e4c2a9ba3f737c",
-    "218393266f7010d2ad07057b1d0b98d2",
-    "a1353def76cf90b6d4ba090b12393f50",
-    "5ec5f08ce6271462668d8754d62bf1c6",
-    "b1a579b8f6a597587bfc45a43b8459b3",
     "6fda749b5cce05b8ee9bc5dfc89a62d2",
     "0515ab5f8b20671dcaabdb0abb19816f",
     "1c78aaad8d57361236a5c7da2e6b2411",
@@ -16001,7 +15996,12 @@
     "acab5787509954e20d1554305f1a14c1",
     "1a067cfa46d9d94666476d76f3eceb2d",
     "50535a99f70e20ec06ff664ebc2fd80e",
-    "793403688e6135e494575626d62ad33d"
+    "793403688e6135e494575626d62ad33d",
+    "5646e254e2a352d989b229d713526a08",
+    "7aae783970f4e039798e00ddaa4ca2b3",
+    "e0c91a08f9ee517e6cbfa537c089e238",
+    "2cab2df5f0a4ddd0d6a398e84793e1c9",
+    "b60e28e8016d2cd417ba2b04ab05c4a3"
   ],
   "transfers": {
     "pages": {
@@ -20710,90 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "danger early elimination end facing first gameslpl give lpl riot seed tarzan top until won worlds",
-      "ts": 1792869347.4929826
-    },
-    {
-      "t": "automated building factorio factory final game has its major out receives rolled softwareautomated update wube",
-      "ts": 1792869351.0203063
-    },
-    {
-      "t": "30 astroneer developer employees era exploration following game has laid lays new off over sandbox softworks softworkssystem space staff system title underperformance",
-      "ts": 1792869354.5165882
-    },
-    {
-      "t": "30 across always anger bioware biowarefollowing closure cornerstone critic cultural express figures gaming has industry luminaries makers news over pay price prominent rpgs sectors served sharp voicing western which who why years",
-      "ts": 1792869358.033025
-    },
-    {
-      "t": "about could create creativity does generative handle help means miyamoto more people post reconsider routine says shigeru think tools what work",
-      "ts": 1792869361.6803963
-    },
-    {
-      "t": "200 2028 a24 adaptation appea budget costs date elden expensive film its million most movie nearly planned post release reportedly ring",
-      "ts": 1792869366.7023854
-    },
-    {
-      "t": "2 2027 agency confirmed date free lft looking meteor munchkin november opens parting posted reportedly shake t1 team tenz that vct ways",
-      "ts": 1792869370.3165822
-    },
-    {
-      "t": "8217 against always best eddie every gaming get his invictus lost lyon missing move now opener round second secret something start stopped talk team there time tsw wasn whales will worlds",
-      "ts": 1792869373.8382235
-    },
-    {
-      "t": "america avengers captain chance chara doomsday endgame event free get giving hands how marvel mcu mode part path players popular pve rivals skin soldier their winter",
-      "ts": 1792869377.3066301
-    },
-    {
-      "t": "amid contract dispute esports form mena nbsp new nush ops roster sheep trook",
-      "ts": 1792869380.8501096
-    },
-    {
-      "t": "0 8 apex cache climbs flamez hole out take",
-      "ts": 1792869385.9589942
-    },
-    {
-      "t": "2 drags four nemiga overtimes syph0 through",
-      "ts": 1792869389.4756253
-    },
-    {
-      "t": "0 2 aurora bucharest day favorites find furia g2 headline host masters navi pgl pre themselves tournament",
-      "ts": 1792877922.5832815
-    },
-    {
-      "t": "83 ahead boost breathing cut g2 gives major massive much narrow navi needed over payout pgl point room scrape secure singapore some vrs win",
-      "ts": 1792877926.1235418
-    },
-    {
-      "t": "2026 7 8217 ball both carolina dealt have heading injuries injury into let look looking nfl out panthers report season short sides some take throughout week who",
-      "ts": 1792877929.6031704
-    },
-    {
-      "t": "absol agency allows announcing division drop eko explore flies free like options players syouta via zeta",
-      "ts": 1792877933.099379
-    },
-    {
-      "t": "2026 active codes coin coins free get guide here latest links master october post promo rewards right spins this your",
-      "ts": 1792877936.587362
-    },
-    {
-      "t": "5 600 8216 8217 after agent breadth customizable effect fantastic joh john length mass media n7 post reaper revealed social sounded starred universe war wick years",
-      "ts": 1792877941.7782722
-    },
-    {
-      "t": "appeared collab collaboration confirmed confirms first fortnite gaming has insider its new one piece post teaser trailer",
-      "ts": 1792877945.337734
-    },
-    {
-      "t": "2026 8217 after against back beat brazilian communication curse decent enough esports ever foot g2 lec losing løs now opener probably put said seen showing t1 team that today wasn worlds worst",
-      "ts": 1792877948.7894561
-    },
-    {
-      "t": "0 1win 2 3 all astra day eleven ended ends finally first getting however invicta legion little match matches pari predictable recap results scoreline streak stuck too tournament universe wins zero",
-      "ts": 1792877952.285984
-    },
-    {
       "t": "0 1 2 2026 25 allen center championship class credit defeated defeats esports event gameson gen hanwha kst life lol october reach riot round seed stage swiss texas union usa world",
       "ts": 1792885451.6692104
     },
@@ -20972,6 +20888,26 @@
     {
       "t": "2023 end hanging leave major place run since spirit their tyloo worst",
       "ts": 1792930665.7181544
+    },
+    {
+      "t": "19th almost brawls but castle castles change classic concluded count full has held highlights key last lineage looking major number servers showed siege solely this unchanged war week",
+      "ts": 1792945453.7558277
+    },
+    {
+      "t": "2027 also archive blue ceo global hengda january japan japanese korean nexon over server servers service starting take will yostar yostarfollowing",
+      "ts": 1792945457.2216697
+    },
+    {
+      "t": "after already announced barely deal departures early exits goodbye has have heretics his keiko lead looking meteor new off old said season stacking t1 team valorant week wo0t",
+      "ts": 1792945460.6266391
+    },
+    {
+      "t": "betboom big boombl4 confident continue current events every feels individually more now player right that their they trajectory will winning",
+      "ts": 1792945464.0603714
+    },
+    {
+      "t": "aces after aurora continues g2 inferno kyxsan loss samurai spiral sunk woxic",
+      "ts": 1792945467.549821
     }
   ]
 }
