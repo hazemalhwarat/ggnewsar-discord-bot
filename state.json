@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/entertainment/battlefield-movie-sony-michael-b-jordan/",
-    "https://www.talkesport.com/guides/games-leaving-xbox-game-pass-october-2026/",
-    "https://www.talkesport.com/gta-6/gta-6-timeline/",
-    "https://www.talkesport.com/news/gta-6-india-guide/",
-    "https://www.talkesport.com/guides/gta-6-guide/",
     "https://www.talkesport.com/gta-6/love-magazine-gta-6-issue-pre-order/",
     "https://www.talkesport.com/news/gaming/steam-revenue-2026/",
     "https://www.talkesport.com/news/pubg/pubg-black-budget-cancelled/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27680/nexon-to-service-japanese-server-for-blue-archive-starting-2027",
     "https://www.esports.net/news/gaming/vct-off-season-wo0t-meteor-keiko/",
     "https://www.hltv.org/news/45801/boombl4-every-player-right-now-is-more-confident-individually",
-    "https://www.hltv.org/news/45802/g2-spiral-continues-after-loss-to-aurora"
+    "https://www.hltv.org/news/45802/g2-spiral-continues-after-loss-to-aurora",
+    "https://www.hltv.org/news/45803/mouz-pick-up-first-win-in-bucharest-over-9z",
+    "https://www.hltv.org/news/45800/mezii-on-igling-its-a-lot-more-work-than-i-remember-maybe-i-didnt-do-it-right-the-first-time",
+    "https://www.hltv.org/news/45799/betboom-overcome-nemiga-to-go-2-0-in-bucharest",
+    "https://www.vlr.gg/780118/wendler-to-leave-paper-rex-after-nearly-one-year",
+    "https://www.vlr.gg/780109/g2-esports-allows-assistant-coach-shhhack-to-explore-options"
   ],
   "title_hashes": [
-    "6fda749b5cce05b8ee9bc5dfc89a62d2",
-    "0515ab5f8b20671dcaabdb0abb19816f",
-    "1c78aaad8d57361236a5c7da2e6b2411",
-    "dbc95753e8fb8e7d96b6581c21f8b30a",
-    "850d1d695ede7a8ff8904a779f7082ca",
     "846703809a325b2a5cd908301c4016b6",
     "f308c1fb743fc5114253bacd767c8cf7",
     "d4808c5583876510796d0c8b5d407414",
@@ -16001,7 +15996,12 @@
     "7aae783970f4e039798e00ddaa4ca2b3",
     "e0c91a08f9ee517e6cbfa537c089e238",
     "2cab2df5f0a4ddd0d6a398e84793e1c9",
-    "b60e28e8016d2cd417ba2b04ab05c4a3"
+    "b60e28e8016d2cd417ba2b04ab05c4a3",
+    "97b340151791870a247138e699b7f62f",
+    "a8821462cc2faf9c6663c42dc3596358",
+    "465ad4527422c243d481762bf3874cd6",
+    "d6699f956428da40ef6cb9e23a97b9b3",
+    "979e89765410c0acba23fbc833a6ff2b"
   ],
   "transfers": {
     "pages": {
@@ -20908,6 +20908,26 @@
     {
       "t": "aces after aurora continues g2 inferno kyxsan loss samurai spiral sunk woxic",
       "ts": 1792945467.549821
+    },
+    {
+      "t": "0 9z bucharest elimination facing first led left mouz over pick spinx torzsi way win",
+      "ts": 1792945472.895276
+    },
+    {
+      "t": "after apex bucharest didn first flawless gives his igling insight lot masters maybe mezii more over pgl remember right start taking than time work",
+      "ts": 1792945476.3533957
+    },
+    {
+      "t": "0 1 2 62 66 betboom bucharest magnojez moved nemiga one overcome playoffs ratings respectively starred win within zorte",
+      "ts": 1792945479.785807
+    },
+    {
+      "t": "after changes continue leave make nearly one paper prx rex roster wendler year",
+      "ts": 1792945483.5557556
+    },
+    {
+      "t": "allows announced assistant coach coaching esports explore g2 looking opportunities options outside shhhack",
+      "ts": 1792945486.9962761
     }
   ]
 }
