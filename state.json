@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/nyt-connections-hints-solutions-october-3-1210/",
-    "https://insider-gaming.com/gta-6-most-mature-game-in-series-yet/",
-    "https://insider-gaming.com/9-games-leaving-xbox-game-pass-in-october/",
-    "https://gameriv.com/embark-is-fine-with-players-leaving-arc-raiders-between-major-updates/",
-    "https://www.hotspawn.com/dota2/news/all-teams-qualified-for-blast-slam-8-playoffs-group-stage-results",
     "https://www.nerfplz.com/2026/10/red-post-roundup-8-rocketbelt-and-last.html",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpUnExcDJfZkhIZFlGWnViekhZRWx5aXJEejhYczYxWlF4S2NaaU13ZzdDcDd3Tkw4Y1MyX3lRaWMzZEY3WHRiSlpxYUVhYVhwbnJyMnQwR19JRGZqdVEwOG5BU3dnbldrcVdKNHJ2aVAwM0U?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE51M0R1RkU3NG5QSGQ3WDRMbTVyNXZia0YtUmJSbVhBdmlMTkVTY294WVV5cjZ6VWpVcEx4dnowYkRVQlp0dU82Y2lzVkc2a1Rlb3BET0I0ZFA0UVRXaUN5ZVZYanE1QURCN3MwSTlKQW5wQ3pMRVRXTw?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wSk1Nel9ZMDdPQXRJb0VUZUZpOXhYa3RIUU80WXpKQ3U3MVBkR3dDM2NLSVVMS1Q3amprQkFtbXgwT2NRVGpWVnFJak5MMkg2a19z?oc=5",
     "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9PTGpaanc1RWptTjcxcnBheTNkS1hvUU1MZWFsMXh5NHZJX3pQQVBpTVI0TE8ydzlSTU9GeF85dw?oc=5",
     "https://www.talkesport.com/news/how-many-gta-6-pre-orders-sold/",
-    "https://www.talkesport.com/mobile-gaming/free-fire-max/ffmai-2026-fall-grand-finals-teams-prize-pool-how-to-watch/"
+    "https://www.talkesport.com/mobile-gaming/free-fire-max/ffmai-2026-fall-grand-finals-teams-prize-pool-how-to-watch/",
+    "https://www.talkesport.com/hardware/sony-ps5-jailbreak-psn-access-firmware-14-10/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/bmic-2026-prize-pool-distribution/",
+    "https://www.talkesport.com/news/valorant/mibr-benches-valorant-roster-aspas-zekken/",
+    "https://www.talkesport.com/news/ps5-sales-up-22-percent-wolverine-gta-6/",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdkJ2Y1FxODR0WG5jakEtTldLcGJCVXQwSG5IeV9tNnpWaUY5Y2FvQkU2QjV1NXRSOFBWRDFKWnRCZlcyTnFvbExiQV9CTTJ0blpwZm5vUkRVOWotS1QzYjRYWFFaVVg3WFNVY2Zwa0lZRUFDMGxUX1BNNEJQY3BDTnBmTW1USEMtSXBPOWtSX0trc21yb0QyblVKWHRQdHc1SFln0gGmAUFVX3lxTE9HMVpMMEtPNFlIQnRPcmJaTnBmdDVSU0VFYU5NZGdFSm9ZV2VQNWoxb1FsTXlOM0lNZUFxUnhYVDIyLUlHS3RhLXZvVVNKS2Vlcl9rMTgzMUROSkZpMEFyNzkwYjB4Ry1uZHdOdGhjWnVXOC04bmh1QnppQTg2TTY2LWRkaUxvbzFLV0piOFpLU0tCRk9EUHJrSEdBd0JrTVhZWlhJV3c?oc=5"
   ],
   "title_hashes": [
-    "f29eba903d497263fdc3e4dbf25aaac3",
-    "af09b777837a41b091d440aa821fab1f",
-    "121173939659d6fd54716ec0d758e17c",
-    "410e251748a15e270582894ea3526f72",
-    "bc4caf9f151e71c5fcdc3461da7731dd",
     "57a8f1de1293c883dffdd6dfb7ce4de8",
     "8bc62990925d70eadac3b8f64fd3f148",
     "1225b1cad91672c497eab889979e723c",
@@ -16001,7 +15996,12 @@
     "0091076dac9a8468d371c4d43dec0932",
     "829d79bfded7a6ca812747f977c3086b",
     "75d6fc7e3dcd00ff87e091a579377df6",
-    "a4361926a0d43f50a201e414cbc0b5af"
+    "a4361926a0d43f50a201e414cbc0b5af",
+    "fa7b180698a181bb2f4aafd9d17eb7d3",
+    "0d1ce978bc76593a914ebd5a3330cc71",
+    "1e413d1a4e861c1a83bf37b16529ba50",
+    "9fef8767428a367f53924c39710212c8",
+    "c173c4840f488c6dfa0a2db049efc459"
   ],
   "transfers": {
     "pages": {
@@ -20936,6 +20936,26 @@
     {
       "t": "000 110 12 15 2026 25 30 5 champion fall ffmai finals grand how ist october point pool post prize rush start teams threshold watch winner",
       "ts": 1792930631.9683006
+    },
+    {
+      "t": "10 14 access ban been consoles crackdown firmware hack hacked has jailbreak jailbroken locking lose may now older one out post ps5 ps5s psn reported requires reset sony steps survive traces versions without",
+      "ts": 1792930636.8915427
+    },
+    {
+      "t": "1 15 16th 2 2026 25 30 5 bmic champion crore distribution earns even gets lakh mvp pays place pool post prize purse runner",
+      "ts": 1792930640.3027308
+    },
+    {
+      "t": "2027 23 aspas benches brazilian changes citing division entire had import inactive mazino mibr moved now october one open post rost roster status tex transfers two valorant verno zekken",
+      "ts": 1792930643.6433976
+    },
+    {
+      "t": "2026 22 27 43 6 ahead chart charts dollar fell gta jump jumped led marvel next post ps5 sales september software tops unit wolverine xbox",
+      "ts": 1792930647.019119
+    },
+    {
+      "t": "esports forge india nbsp new partnership rediff stronger zealand",
+      "ts": 1792930650.5496354
     }
   ]
 }
