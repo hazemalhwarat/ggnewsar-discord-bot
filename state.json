@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBHY1RoN2dPblUxcDdBeGdXekhydkY3Ym8wYzV6OFNldWFNaGtxOTc4WEJBbThpZ0NWUklHWV9vNXI5eXF0NE04S2w5U3N4SHFwb2IzaTZlSEhzclRVVlJUaDB2NUhXdTdlSDFza2ZhSE5iZw?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZG1neEVnQ2VJdXYtVGxFelp3ZF9yYnRjRi10R0ZDcF9QSUVTQTFmcTJaOWJOcmlENUxXbnRLYXdKeWtoUFhBdm9MdWJ5anptNHFETmpNa3I2ZWJsWHl5QVRtMmpSQUJUd3lhbXdidG9QM2JMVDJHRk1JdElqNFdmTlRlZ3V6ZFRwdl9OOHFYTDkyTVU?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VOE5wSlFHb1BFa3lGWk5XcF9wdjdCSG1BMEZWWmF0T2JJS3ZEOVZ3ZUpLandibWxkTVRPMHZNWVFrS09jNEJiY3hHVzVLQjdBN2RpZFZHaksxcmdCb3FxaEpJV2JPS2tObFllNjk0LTJuakk?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa3Jjb2tYR2tYWGZBUS1PeTdHU2JJTDZrZkM1NUZwRHMwX25JWGwxZ3JZNUhaendUVkN5cFdHZXFsWGV5MUZHbk03eElTdWVfNWlhVWdEenNyWDBjb0F3VzNOQ1phT21vb0ZqbFg2T1hienZCellUSGNVcGd4ZWxMVHNfSGU0TzNSb2hsaFMwbGJ3cjQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaE81MmJYZzNMRXZTTDBhN3ZWNUNBZmZIY0lEZ19aMnFMMVh6MmVqZThYLWJOczVyRFc3eWpuZlFIU0FmRkFiNmREZTN4MzBfM1VoWUNhMzRwc2xkVTRsaDBjbFlDZVVFNDc3YnhqNEFocnFwdXlrUkF5Z3ZueEF2b0I3YU9ackw0ampj?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xMS1YMlFmc1dyZTkzTDdFbkNHSHplSzNPSVRucWlkLThUbzUwRTE1bmlfSExhcDJBWE93Q1dKUFBZdHRfQXNMUlpqV2NpVWVfZjBrNUtPOUFwUzFwTG1sQ3g0UFpUVThLQUE?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFJyRTM5UElnVFZ1N0hRZVFycmFHTDBVVFYwb3lDbzUyZGU3RVZ6RTJEVE9ZeUdDY1VkRW9CMDFYeEJoUmtMaGNXbEZ0M2VJdmpqNVBmYlJ5N3pTRFFtdU0zeDFHMWZGakdsZjF4aGdTcmRwelNJMC1VRXFlVnEtY0NFdXJHUGdfTTdaS0p6enFVNzFDSjNiLV9vTUVxQmR4R181SkQ0VDQ?oc=5",
-    "https://www.talkesport.com/news/fortnite/fortnite-fnaf-location-freddy-fazbears-pizza/",
-    "https://www.talkesport.com/guides/witcher-3-whispering-hillock-best-choice/",
-    "https://www.talkesport.com/news/gaming/upcoming-game-release-dates-2026/",
-    "https://www.talkesport.com/news/valorant-black-screen-on-startup-fix-keep-the-existing-slug/",
-    "https://www.talkesport.com/news/gaming/steam-blocked-vietnam-downloads-updates-2026/",
-    "https://www.nerfplz.com/2026/12/spell-shield-explained-10-rules-of-what.html",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWVBCMS1YQlItTDh0eXZlTmtyaFRkNjhUTG5MMlpLYW93Y0pxMjFfZ1gxd3I2eUlrSml1TDdEcmFsaU8wdFpqMnVSeGFDQVlBQ1pzSTBHaWM5bW8wT1NVMG5HaW1ILUJxVkx1WVZiYlllTXNrVm43TDYtQjIzZkNKR21sQjNhaUk?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ1ZtZ2NRODBnVTc4cjVSc2llVjJ2MmxVRDB3Ml96bjJtRnpVVF9CWFZVR2NGVnBuN3d1UjY5N2JGOXNDRlZWaU1IQWxoSEt4UTJvOUVCVkYxR28yYWVBdnZ5THRQeHB3RVpieHl2dl9BMm42NjZwcENxWHgyR29MTXpoZS1tQkt1SEJESHNBdWFjbDNqU1BzR3ZicVJqN0NaQ1U0OEJrMTlmWWJUT1BwWGV0cVlpT2FK?oc=5",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GYVRlc242TDYtTXBQbHd2dDVSUkZPcUVCQ2Q1WjVvdk9SNDRjdnZXX3k4MG44eHlzanVYcFdib1FhaExqaE84bXJKMVpiREFQT2d2djlrOTg?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0dNSFFxSVp4ZWlwZFYxeHhZNDRSVnJPZExNOWtCZ29raS1INFNmNF9yamFYRGdyVldwV2VNQ256cURBZzNISnpUckNRbWt5a05melRwY0plbW9sQ2dZYU9pSFFjMUhacS1uNjczX0xuY0VFTkc5UXhqck1GdXZzSEZjMA?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcGdrRGpRRzhBSWoxcFdUMGtlQmJQZnpsNGVDZjhQaUFWaHdFWGp6cS1CS2gwSFItSEVsN3Ziakg2dnN1VlRJbmo2UkZrbkNkTW1zc2ctWG1mdmFpdlk2RnZNMVozMVhVekI2RXM3blc5bW9Jc0Y4ejhfR2szM09pUmdKVDY4SHc1MWtWZERQMlRsT3IxZ19XWmpxRmVOWnN2THZZQTBFaXA?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLWQyZjYwMWVlYW5lbW1zbENCS2Q0a2hzY2s4eHgzdHo3SWVCR3diTHBodVNiT241OUhqbUVPdVJ2ZkFEZGM3Z29hdWhTRjZRdTU3ZHZKaGJGdmNWMmtGVThKRXA1VWUwWlRSNWsxeTlqenAzYjdHZ19HQjdJTzJMWTVIYVJmZkc2OFFLWjRyN0R2d0RSOUE?oc=5",
@@ -7999,23 +7983,25 @@
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2hEa2RGRXgzOFcxdHpsaXJxeTdBMVRHbGR1OUtmc1gwM1I5cklSU3RyRkNINEgteW9sVC1PQ0pmRm1ITnFKNDk5Zklzb2d0LUYtb25BLVpFWWQyOUlmLW5RdFZ4Q1ZWU185b2hzNVgxaHNzVkRuOVk3UnV6bFVreDh2WWVKS2M1NWFvYS1sSU94SnlJNDJkWVFFaG9ENkZyX3c?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNHFPYTFIWGFfemJrNlRYM1R2Y2xaVG02Q09QNk9oV3FzYk41dDZrLUlJMTRIYmxva2ExNURVWlBIbnhvWWJYYlRQVFRqVUNPM01IWUJmaWJWUjZoaHpMemZCY2loa3AxREFScm5DTkdRV0xJZjlSZll0WHZWNEE2dHhseDF1MnBXTFk3UGp5LTVRZw?oc=5",
     "https://www.talkesport.com/news/black-ops-ii-best-selling-games-2026/",
-    "https://www.talkesport.com/mobile-gaming/pmgo-2026-season-2-prize-pool-distribution-mvp/"
+    "https://www.talkesport.com/mobile-gaming/pmgo-2026-season-2-prize-pool-distribution-mvp/",
+    "https://www.talkesport.com/mobile-gaming/wolves-esports-win-pmgo-2026-season-2/",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE95UkxKZjM5YTk5cU95aU8tdDdQWUdJTmdrS0RaQmtHTU82WDViRXZXODFGOWNESFpfdmtZQ2xvQkE4WTNtRG5uM3VseVBFVkdmLUJVdTk5ZmpNUmlwT1BwcS1BZFo1YThqcHkw?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMX2Zwd2FmYnBTdDB4MXZidDFoMFFJZjV3WUx4dk1zU2lJcUNrZm1GdUF0bmp2YjM1NEI4WlUzUlExb2RzeWktUkFTRWVyemFqb05YNDFQTFZmSS1nTXdCa3hBTUR1QmNLVW80?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fOExTYUxueWt2ei1sbDBlWWJpSUJ4emNVTjBPeHlmN2NsWkxldHlsTENrVl9LUHc4dVczTkFTMFBCdzdxVWRjZVFTNU1SZlYxc242YWFZR2JfQnhUbV9YZk1aTkZ1YUk0U3I0?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlYwbkZtYThYMHJ2Y2huQXNWY3l5SVFKZXpkcWxETU1sODYzVzRQMVQzQmExWDBsSkFpTUEyUnF1WlhxbmNnWndtb3RwamNGMW9malN5V3oxM0NvWERBQXFDUkExUUt2TlhtMXR3Q0RCMWwwUDR6NzZkaXFWeUdGMmhQY0huOXhGaFdqOFhYX3N5WWRkSWpJdDIwaFFNMHdDMjdFNGcwNGtUWGhMTm1fZ0ZhaUlXVHVfc0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFoydHQyRjREYkFucldFdlU0YUZ2Q3RJV2JNWDl3TkZpY2I2VmFHaktwY0VEZzhwN1JqMmZ5ZWFrNXZQVUZsdHdLY0otcTJYUXNybjdpZzEwcTNjNjBET0pqX1VaakRDYVhsUzQzZWFWdm5wcWVBam9LMlFZUDdGSnktN1M5aWpT?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MVgzVFgxcEpjNkJLRDNneFU3MnZXTDRDTmNqWkc3OFJ0ZndmMDNMY001V0xtU1hvWXdqUE5iUHdUekNGOE4wUDVwUlpHVng4dm1QMDdyLUpjcTA?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GcWJKZGc1Z2tmN1JQZHpDZFZZUnpyajJ6NzJHU0ExS19EZThMTDZ3bHBmaUIzejZDRExMazZkMm02cGtYQm9ITFdzX2V1a3hoY09DT1k5ZEQ0VGV0RlM1dXVFUVZnUUZRLVJHSWpnWVJpaHNVUTAyU3M0cw?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTl9weHpmY1c5SkttcHl3X212UVQ1a1Z1dmhWWVE0ZVhyY2hFVkoxM2NHeDJJQ1BxUXZFT0ROdUN0V25CR2ttT0ZwUFhxcmtMS1dNYnRQcVRreVVBUVp5N2lCRWloM1NlbW9iRmdKSmZFZHljOW9QX19ZMGFqemRFX3RJdDRrazBkMlZQZ0l3cFlUX1ZFaDRxY29aWTVtb1NQX3c?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeG9HdThsXzZZMk1XNmd3OTNER3pLaXhlbnZWTGVJaVVMNXBYNW1Za2MydkNGM0R1OEp0M1R5eFExUU5VOHBhX0doaGZON2dhbnM0bzFUUFRISzliU2NfeF80OHBKdzJNOGFYaUxsd2p2UEJfS0ZVdF9LVm5JSm9CdVpnaGpQdmoxamZQZWk1bkFsR1k?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTTNHbFg5azlkSTg5eDdLaWFlOE1BVGtmRk9paVF0d1JTYW9wOHFXWXR5dE9vSTQyYVRiWUdCNm5SQTJ4akdzS25sNTFvWng2akx2clZpNmlsX3U2MGt0alE5NFZQUkhxUVdTOXNUck5VaElrenhuOWRobTBrVVFEYzV5RXlBQWM3YWVhT21MZ2VMN090WllKaFVqcEZ4MUU4ak5HTDd0MUdQa2JzY3lhVkVONHBCZw?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGx0ZXhyVElVZkZKZHoyRFlhcXBTZzIwejdxbW00OTd0RDdBNEhxeXFxZEo4OENSNWRxdnNjOFF5RkNHdVpVdGZSaDN1S0h5MHU2Tlh3NE4xYlVWOFU3VzlMdGtKeG9nVXY0QWlnbFh4eUg1Z3dRRUJqNG9hT0U5WVBXOURUT2Y3ajEyNEJnRUhDcUJheW5ZaW5HaS1QMGpIbjdjUHR3RjVPVnJwWEFSNzVPUE1vZUZZUDVpSjdnMW4zeGpGUGVUa0NsNEM?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IVi1jMjgtY29mVTNTbGxkUHEwZG9zUG0zX21vbnZtUjFCN2RBNUdLOEp0eFhOU3BRV0F2eGlNaXhYeDEyOVBueFp1YnNET0ZlX1Vr?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YUWFDUGpFU2hVMmFzRWVYUXhEWGo2WHZ0cGwwMUlfSkpRMVdFWnJVTmNiV3oyT1NnWUZzWW8zN2NGbWZJYUVUbjhqV0pxcUFCTWVpU0VuU3NKM2lnTS1LLTlHVnU2Mms?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2ZLU3RZQjUxLVJoTGt1V3RzZ1lvLThRczl3SzlGb1Q1b0d5MXVoVDFkOXg0SkV1Y0xwTmFMVVhUdWNlZWpvLTFadlVkX19JS19laFR3ZjJBeTFXQ19DZGg1REtOWFJrNF9QMm84dHQzMG5EMVpVejJOSnRGZmRhb1hGVHhwQjdsZzRSRVgwV2Zvamx3dFpZbXY3TXExdGt6WVo3cmd1OHNUVVY4bm5ibXF1MkdXLU15NHYyZGNlN0s5bkN4UFpGVk1fdFpMZDlE?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaENtcDB5VW9JeGJhZnQwSHFFLU1vX1ktUWNpcG52SFIwTUdTbFNtd1ZGZG8tUVFGd2dSdTBtSTdiR2R0UXlRSW5nZDJmMHVpdlZYLUdVYXUwNHNUS2d4UGlhUkxsLUc2bGtZaDNYSnZPU2M2WTNBUkFsby16MkNxV1JsTG81QTBnNk55c3Vha21XQkViUTFmbXIxdXFiM2p0THpzRzJmb2VYdFdwVmlua0d0NGF6VW80cnFBSQ?oc=5"
   ],
   "title_hashes": [
-    "a73197f5df55fdb5332084348cd2bfc2",
-    "cbf2e317cf24e02c820e0ca6e775db94",
-    "37fef421577f0aeeb0cc8431f8029563",
-    "61f4ebac365c0a089146e22277204226",
-    "8ea6b4f2aeb115806f8d4cab69944a14",
-    "88c1580026313f115a4d852ccc3ccfc9",
-    "b1304fe72ec3d9d9390ba0f26aea95c7",
-    "f35fecbabf50d4af48f3f4cc110d9c49",
-    "466758692cff0d70f74a43741be510dc",
-    "9affd7259b329fa7686148373a09769a",
-    "c7977d103f6ab8ec7b4fe39a44ebc5aa",
-    "c0df1822ee3f658993640b6e9eaa4ec1",
-    "9f63cba658c3f4d4e741dc34354194eb",
-    "f21c22425b8712449c8d81aa97c0d19e",
     "cfb603b713cb1e27d13cb6c8ab7bee8a",
     "850d1d695ede7a8ff8904a779f7082ca",
     "470f543c81532ed3571f597f46cc3dbe",
@@ -16001,7 +15987,21 @@
     "e7f7ac9f81bc063b5fde18534f94d72c",
     "8212456e5c73fbf1a81f32cb0e7ac73d",
     "66b07b24f7fb8e8c7e91bc2b295e9dd3",
-    "8ed07375619ed00c626d5c1a7c6d6ea1"
+    "8ed07375619ed00c626d5c1a7c6d6ea1",
+    "51a177796a41f8afb7d84b6689c5334c",
+    "248e17e74de8ec3baebce51002957a8d",
+    "248e17e74de8ec3baebce51002957a8d",
+    "248e17e74de8ec3baebce51002957a8d",
+    "f5ace2dd695b12fe0cb14d1fb499e27e",
+    "480c7ebd3455c541e423d5666848ddf4",
+    "e4c7ebf9b1b6fc190af35e6f5c3768b3",
+    "ba614ae1d11e184c486618a467686502",
+    "862cbfcb45cec9265a46db8808f18b42",
+    "53ffa114139078a9fb8d4f0573935d9c",
+    "42fdc8d280e33930dcf633ff9ab618c7",
+    "ada83edf6a5296cc8b4b4b9456ca344c",
+    "ef3a562728e63cc4307ba703d0c4fd33",
+    "a7a333884325429ee43c6dab2d460547"
   ],
   "transfers": {
     "pages": {
@@ -21032,6 +21032,10 @@
     {
       "t": "000 2 2026 25 4k 500 60 ala distribution earn earned esports finals gold grand mvp named pmgo pool post prize season star took wolves",
       "ts": 1792964788.2887294
+    },
+    {
+      "t": "12 2 2026 8 86 94 behind chicken dinner esports finishing gold lahore match pmgo points post rule season smash under win wolves won",
+      "ts": 1792964793.1680105
     }
   ]
 }
