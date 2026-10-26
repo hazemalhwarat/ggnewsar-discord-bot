@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWN1TUxiaXNPcDQyczdQS1NZcVRlbzd3OG9rVklOeV9nVzJKaVNUNXFzcGJIYlU0MFV3SG1nY3JrVTFhbTVUSklsbHVKekEzUnRmTjBtbDVnTk5sNUZITk9RV2pzV1ZuUHpJNXFJUTRSXzRnUmd6Yk9mNF82ZHdfUlRzLTI1ZXNmNHNXQWFNOUptbS0xd2M5SGtFRFV5UE5yQmtuekFKVEZWZU9J?oc=5",
-    "https://www.invenglobal.com/articles/26800/many-21-split-results-key-highlights-from-the-fierce-16th-siege",
-    "https://www.invenglobal.com/articles/26799/bfx-and-kt-extend-win-streaks-hanjin-brion-falls-to-we",
-    "https://www.hltv.org/news/45631/falcons-sweep-aurora-to-stay-flawless-at-epl",
-    "https://www.hltv.org/news/45630/luchov-my-playstyle-really-depends-on-confidence-i-need-to-be-useful-also-without-it",
-    "https://www.hltv.org/news/45629/5star-settle-for-third-as-chinggis-warriors-win-esn-fall-showdown-over-the-huns",
     "https://insider-gaming.com/bayonetta-return-platinumgames-boss/",
     "https://insider-gaming.com/how-to-get-free-fortnite-skins-promo-codes-explained/",
     "https://insider-gaming.com/how-to-free-diamonds-mobile-legends/",
@@ -7999,15 +7993,15 @@
     "https://esports-news.co.uk/2026/10/26/vitality-end-themongolzs-five-match-run-with-2-0-win-at-pgl-masters-bucharest/",
     "https://www.vlr.gg/780358/team-liquid-brazil-fennel-gc-survive-first-elimination-matches",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFJfRnViemZQS3NabU16Y1BnVENQVWdHUWhSUDljdmpjTEhEY2dnaFktX3BZX3E0WVhBdnR2RDlLdTVfYTF5dnQwdi1QUFlPOTg4OFZWdmdubVM0M2hOMmFNdlhyek9tV1JVV0wwU2FOUTV3T0xfaThzeVNiUzJjb0wydHZJMkZKSDc2LQ?oc=5",
-    "https://www.talkesport.com/mobile-gaming/free-fire-max/free-fire-india-back-official-esports-accounts-renamed-sparking-launch-speculation/"
+    "https://www.talkesport.com/mobile-gaming/free-fire-max/free-fire-india-back-official-esports-accounts-renamed-sparking-launch-speculation/",
+    "https://www.talkesport.com/news/gta-6-ads-el-clasico/",
+    "https://www.talkesport.com/news/fortnite/how-to-get-beetlejuice-skin-fortnite/",
+    "https://www.talkesport.com/news/shirrako-gta-6-early-access-nda-rumour/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/cegc-2026-grand-finals-pmgc-2026-date-clash/",
+    "https://www.talkesport.com/news/gaming/xbox-shocktober-sale-2026-90-percent-off/",
+    "https://www.talkesport.com/news/gta-6-hundreds-of-interiors/"
   ],
   "title_hashes": [
-    "30fc2fdfef020578b366809f95384c1e",
-    "ce4cadb9ed79be59a3002cf25dcd1d92",
-    "39a34fa5e7a7e0e3cd18083602e84e01",
-    "8f392a3adaba3666a0f518f2c4a30b19",
-    "fc907a0c2c6658097520a393d551dc89",
-    "921124f6e387aac8a912c7e43b9d8e3d",
     "512d77148b01c5d00b46853695b5fda8",
     "076f921d9db6b797ec118d481b63ef0c",
     "136d4bbd75dab6a26b83a4b521be106d",
@@ -16001,7 +15995,13 @@
     "b5bd8461ed137534831f2a9882551d1d",
     "30b65b4bb94c039eea15bf6b93198ea0",
     "687efb77ab16cef662e9fb8c0afd5db9",
-    "1fee323f084794d0270cc6e492d9cc58"
+    "1fee323f084794d0270cc6e492d9cc58",
+    "421ab7de33e885d5f4a37e55f02e0cd9",
+    "de28a495fba4da07fc342dafb11d0d93",
+    "f3b9e8c365bf99c776e562b67f1e7dd1",
+    "fe66a9341b1271bf5426d8ad83ac9af4",
+    "a45ccc033915971cab98ae8247e52b70",
+    "ae76843f70412de45fb223e9d0b19474"
   ],
   "transfers": {
     "pages": {
@@ -20984,6 +20984,26 @@
     {
       "t": "2023 3 accounts ago announced any august back battle clarification did esports fire free game garena however india launch launched never not official popular provide renamed royale sparking speculation version years",
       "ts": 1792998091.7421794
+    },
+    {
+      "t": "19 25 6 ads before bets boards clásico gta latest launch led live marketing november october over pitchside post push ran rockstar sport sports step take",
+      "ts": 1792998096.6778111
+    },
+    {
+      "t": "6 about breach broke but convinced cryptic does early fans game gta has have know nda post proof rockstar rumoured shirrako there what youtuber",
+      "ts": 1792998100.454581
+    },
+    {
+      "t": "11 13 2026 both cannot cegc ceo clash dates december finals grand move moved nandy pmgc post run says shiva skyesp skyesports",
+      "ts": 1792998103.9571726
+    },
+    {
+      "t": "2026 2042 4 90 battlefield best date end every game november off picks post prices raider sale shocktober that tomb xbox",
+      "ts": 1792998107.3971155
+    },
+    {
+      "t": "5 6 confirms explorable gta has have hundreds interiors into major many over post robberies rockstar says scouting tie upgrade which will",
+      "ts": 1792998110.8079884
     }
   ]
 }
