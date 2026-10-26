@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oTzMtcFg3WTcwWWZLbmJ0Y0N1NG1zbzd5dGVhcmc2czJydThQRk5VRXlBbmxkdGVuX2ctQlU3U1RpdThGMnU3NTBqbG4tM3MxT2Y1NzUzUENSTXQ1U0djak9peU1fY0lxanlPdy03MjkyaWFheGc?oc=5",
     "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XYnA5TmNDeTFjV1V5X21hZ0lrSFp4aVZCMDJQWTAyNkl0aUc0dzljbGpLRGlnNGx6S0E1WVRPWEgxWS1aRzZV?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1NUFzSlNkMHNmRXU5TG1MZHBnbEJfMTc3dzNpLTN3RzJWRV9oM3RQSW9JSkZ1WFRFY3JEX0QwYTgwMmo0dXZwWGxyN05RaEl4NVh3eDlWSQ?oc=5",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE11YURJQ3I1d2ZZNDFsbU1vR0J1NmZZbHFWYjZHVm12ZEtIWDJrRGRDOTRseWpldlZ2UDJ0X0JwVEVaa19PTDJsS0lZb29maEZqcWtoMnY0bGU1YkE0RnFwWlVra2V0X282SG1Vbw?oc=5",
@@ -7999,10 +7998,10 @@
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWVEbjEwMG1HQXNqSlUwZ1BuRG1zWVRUVDdPXzNrc0wwenJQaUZZZHppeGl3dWJMVkxkeHVCRjh2aEd3U2N4VjdBSU1yWUlxb0JROVBSR0JKNENmRWRiOGpIQXVSMGwwMlpjWXVWZEVpQy1DdWpvbGtCWVNhN3JyUQ?oc=5",
     "https://pley.gg/cs2/one-week-to-the-cut-off-eternal-fire-imperial-and-luminosity-race-for-the-last-singapore-places/",
     "https://pley.gg/cs2/saw-says-g2-are-stagnating-before-an-elimination-match-dendele-need-more-than-they-do/",
-    "https://pley.gg/valorant/derke-and-d4v41-top-a-valorant-transfer-market-that-grows-by-the-day/"
+    "https://pley.gg/valorant/derke-and-d4v41-top-a-valorant-transfer-market-that-grows-by-the-day/",
+    "https://pley.gg/cs2/chickenpox-rules-jee-out-of-bucharest-and-puts-coach-zhoking-in-tyloo-s-elimination-match/"
   ],
   "title_hashes": [
-    "a9991b0062c40b4525d852c0972292ab",
     "67eb427f3a19c6ed6cc55135253421c7",
     "a95e6a15066ba1e949d62a11cbe6e0b9",
     "472a5220ccaac463b2cea6710c49dc4e",
@@ -16001,7 +16000,8 @@
     "5972128d3b2b9cc61e94810fb3b3f192",
     "664f5fe8959de8daac08c766b96be53f",
     "82304c4a89d98bf2b2d25d06aef96df6",
-    "d26076d81b0aa10eb02b858d9484eda3"
+    "d26076d81b0aa10eb02b858d9484eda3",
+    "cd51f911ad928b67ac5f6cbe70c88946"
   ],
   "transfers": {
     "pages": {
@@ -21076,6 +21076,10 @@
     {
       "t": "d4v41 day derke grows market that top transfer valorant",
       "ts": 1793023373.357132
+    },
+    {
+      "t": "bucharest chickenpox coach elimination jee match out puts rules tyloo zhoking",
+      "ts": 1793023378.59228
     }
   ]
 }
