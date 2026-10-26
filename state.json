@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWkRhUGRxUHJpT2xRbEhxaF9sT1lpWWZBejRaakJaVG1uT0Ewbm9DYl9hcXlaTXlMS1licGlSTlZzWXZwUUN3aUxhQjdLMkJ3dVQzbElEQVRTMV9mU08wcWRpZEFvRkxERFM4T0NRRGxDNklGUndFeVl1bUFFbkxZUnA4SVNZQWdkMGJPbjR3?oc=5",
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51OURtUEFyLU9xZ2tIS0IwS01uMUJwWXZyNS1zcFNxcDlXd3dwV2hGYWZvRFNJd1Y2RkdqZkNIM3FzM0NOLUJyeGxkWG42MHJ0?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY216ZVJQRlpkc011c2xoazM0dnRuN2Rna3ZqT3lrTEdVMXJHMjRpZXlMa0NnR3dKaU03OHpwUkxaYm9Ka1pmYVB6XzI4dHhndkFHRi1TMnF1ZGpDM0E2U2QybTY1QVFOTnNhb3g0c1pQdTNOZGZCVTRoSHA1S3QwSmhVbTFvVXRIQzRONlVPWEVXTlNjLVdGcXNUYTA3YU16QUppQS1zQTdCbWc2NUlYUEFBbERBOTVWS0VGaXlGSzFWaC1jdXB5SF96eTLSAVpBVV95cUxOcnVELTJObHVsTzc2MkZyamdYVzJ6cnNLMTNFQjIwV1NIX21ET09VdEJidm5fN1pBN0JNRGxIZGdzM3NNMTR4VXNWenhHQnRjNDVFVVBPbHpRRkE?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQTFEcmdIeGMzN2xQcVYzaW1wSk8tdVFnS2tBUDduU3l0X2pDSjFkb050ZHJLUllhcDJNV1pHVlQ4ZnEtd3BKZ1ZidXNyODVEZUJfTDhFLV9Bc1dYdHgtejBYTHAwUzVGdUVzMElQS1JlaW15bnpwMHZocndvQW5zc0JyeWZadFhSTmxpc1htcmkyQmx4WXZxeNIBV0FVX3lxTE1jbF94R3pGeWVGeTBQaEYtQXRGTEl3clVYOWgwdVFabWdxUVp4V0pVSVhBRGpLbkgzY3o4VFFONGE2YXhjWVJyYTRiSFdDV01GQTZNVF9IUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS0Itc2k4cTFkM1c4Z3lyejlZQUdPOHI4WG83cDJFcVY0SlN1YWZ4d3FMUUdxVy0tVFBzSDBPdkQ1b3ZNVHM4YjhxbEJUUlJ2U1hVNm9OcVVZRmpDdHN1TVo2THZmUHhIUDhWV2l1aW9neDk4Zml5a1Nia0pqNEF6UUNLTEFDejJ6MmfSAVdBVV95cUxPTUlQQWx5VlNpUkdvaC1tWmY4Zi15U3padGpQcEIwOU1LX0JIZFh4aE5RRm9tMUhDSXFoakJLWF9mRzZncmtNRmNaZW1ZTVB6WW5hT0hOajg?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlR3cnI1N25FY1U4cXVLRUUxT05yRGIyZGNaeGFKTFVQUzd6a0U4UFVZeDVoM1dhOFA2M01ZMTJ1bFlxcS03U0FJcVBlZ3JhZ3FDSFY5eHFjRG5za2tkRGVrcGtqNHIxbEhWY0J3bnllX2FNU01pYUxDOTJrV3l1Zkhn0gFXQVVfeXFMUHl0dVE1LTVfaTljb3A1TmUxUlV4a0w3bS1VcVpBUHJ6WjJyNFhnLTJ6NnJBLTdzWXRscFoybGRvaDYzSEZTZW9BbVZZeUg4VUY1dGFXRlZv?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZEpIWjJNOGZySkZqSHFMazJMOTJldmZoQk5aTkZRb1htU3hKX0lzLTRBUGhhTXo0bUx5YTlweEdvZGdmUkc2NXM1V1E2M2J1U3dWZkVwZVdadUU3MmRKSDhDemlzcUpWaTZnS3FPc3NuQTEwNDYwcVZVNzdveFNqSnRUNnJTWXZxb3A2OGFJeGgyYm44a3Z2VzZRa9IBV0FVX3lxTE9uV1IxRmJ4bzhocGFmOXFweDJxcXktLWpTXzBfbVBVUjBmcHlZTzJkR0hzMVBTZ19BZW5FRGVjUVhGZGVpYUxkMWN2MDlqR1RNXzl1OGxjSQ?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0tScV9QNzJ5R1hFazFMUm9pTHhibG5palRBU1BLZFo5YkxOZDM0dTEtdVlqcXVMOUxmdnVRSjJtQkRKd2Vfb2pKekZVbjRwT041RS1GRUE1bFZCTFU5RHFtcDUyR1RKWEtIbDEwbkRmTFlwZFExdVg4UkRJalF2ejFSZ9IBVkFVX3lxTFBtaXM5X1Y3MkZhMlFiQ1pyZnAxT3czMWRmRFU4aklXMGZiR2RJcHozZE1SMWQxVTJZZnRBVEJRUUFRbVhweTY0STlQY1VVWmpMODdDdFBR?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27723/lpl-1st-seed-al-shockingly-eliminated-winless-team-liquid-advances-to-round-4",
     "https://www.invenglobal.com/articles/27722/stygian-outer-gods-leaves-early-access-with-a-new-chapter-and-boss-fight",
     "https://www.invenglobal.com/articles/27721/brazils-pride-los-sweeps-tsw-2-0-to-stay-alive",
-    "https://www.invenglobal.com/articles/27716/ence-files-for-bankruptcy-after-13-years"
+    "https://www.invenglobal.com/articles/27716/ence-files-for-bankruptcy-after-13-years",
+    "https://insider-gaming.com/team-liquid-eliminate-al-lol-worlds-2026/",
+    "https://insider-gaming.com/team-vitality-let-lec-support-fleshy-leave/",
+    "https://insider-gaming.com/blue-archive-expansion-nexon-plan/",
+    "https://insider-gaming.com/play-old-console-games-on-pc/",
+    "https://thegamehaus.com/gaming/gta-6-collectors-edition-breakdown-whats-inside-price/2026/10/26/"
   ],
   "title_hashes": [
-    "2c4f8811996ca1b32dbe223ba9c73d6d",
-    "9ccd9549c3824d4ff183e175ebcfefea",
-    "f458676068d6d99072cac5df4070c8be",
-    "65ae82865658b65a31287199b34dbd41",
-    "b42fb9791796126e2f6084826c787862",
     "67446dcd75295410e3e1d9edb99b499d",
     "799855594adc0f2bd7302c69d3234b5a",
     "dc566092833ebb036be0526493658003",
@@ -16001,7 +15996,12 @@
     "0e02aa041925f0c45b4059eec79abbf5",
     "d82cf17f5618f74f96745ec698a22073",
     "fa143671e08632776fb177c9e5ff8f56",
-    "d2440de79877183c926a88ef9ad19fc8"
+    "d2440de79877183c926a88ef9ad19fc8",
+    "876a1cfbec225c5524e52d396baa7c0b",
+    "6a1077b375110e8d3bab9131a8686d64",
+    "6731095bf848092ac2b9535ad1c3f586",
+    "736f586f726af3af6d25bd25d8cdd7da",
+    "6dca619f96f7102ac4940d8ad37268d7"
   ],
   "transfers": {
     "pages": {
@@ -21216,6 +21216,26 @@
     {
       "t": "13 26th after announced bankruptcy board counter ence files filing finnish its october organisation strike years",
       "ts": 1793057067.490928
+    },
+    {
+      "t": "2026 50 appeared champions eliminate eliminated first following insid lcs liquid lol lpl minute near post slog team worlds",
+      "ts": 1793057072.682083
+    },
+    {
+      "t": "2027 allow appeared departing explore fleshy league lec legends looking new options post season support team turkish vitality",
+      "ts": 1793057076.102746
+    },
+    {
+      "t": "alternate appea archive beyond blue current expand expansion form genres into its looks media mobile new nexon plans post pushing",
+      "ts": 1793057079.6822567
+    },
+    {
+      "t": "appeared console easier first games got has have insider just lot may new old playing post recompilation thanks this website",
+      "ts": 1793057083.4734957
+    },
+    {
+      "t": "6 8217 all auto biggest breakdown city collector edition games grand gta inside officially one packed price releasing rockstar shaping theft time vice video what",
+      "ts": 1793057086.9097195
     }
   ]
 }
