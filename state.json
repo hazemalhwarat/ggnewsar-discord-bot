@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26805/the-battle-cats-celebrates-120-million-downloads-with-special-event",
-    "https://www.invenglobal.com/articles/26804/the-pammies-cuties-roaming-across-the-world",
-    "https://esports-news.co.uk/2026/10/05/wanted-goons-sign-luke4k-as-igl-to-complete-north-american-roster/",
-    "https://europeangaming.eu/portal/press-releases/2026/10/05/215265/creedroomz-groupe-partouche-pasino-switzerland/",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcktUeU9rdkRNTm9VZmlsLWZxUWgtUHdkbm5WTC1ya1BBNEhCZHc0RWNsT1RiVEVpY3ZJSG9mRGJhMkdQdG1TZ3d6THpENHpmR1BKa3Q2R0R1aTFvZm81X3JJMzhHV0RCRGNLNEZOTDJ2VVlNdEZRaTRPRVVTSllBbzdTdmd6WElOQ3J6M29UQkZDTXBkQUJPcjNiMmEtVm5obzVVQWhRazE?oc=5",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwR2ItYmlkUVNHTWlvZnUtR0gyQmxQbXlUWU1EYS0wUjR6RmRlazY5azRwbk1UX3NkR3lDazJ0TDUxNzIzbTMxQmczUW5xUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oS1EtVGllc1JNT2FEeG1KelFDakhNY3M4UGNqNFB6cUwzZTJwTjg4RVc3S2tYT2VYVFhkWGFrR2pfYXVhNmRlSzBCSFltQ2NLbWc?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUl9fTFpFWktjMzJaOTYyQ2NxczMwVlFpYjluLURNSlpKX3ZhbzdGaEwxTXF2WTc3S2FPR0FJeTAzelBLam12NndlNVdmYkFodEJIc1V5WTZnTVU1d0VJS3VSYzdfTnZjczlCSFNXNEFUVTRxTF9FZi03UFdla2oyZVRqM0M3QVI0cTZ4X2NKX09rR2YxNFN5Vw?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27713/dragon-ball-xenoverse-2-marks-10th-anniversary-with-final-festival-of-universes",
     "https://www.invenglobal.com/articles/27712/anthropic-files-s-1-for-ipo-plans-nasdaq-listing-under-ticker-ant",
     "https://www.invenglobal.com/articles/27711/stalker-2-update-21-adds-npc-visualisation-distance-options-and-squad-leader-fast-travel",
-    "https://www.invenglobal.com/articles/27710/wolves-esports-wins-pmgo-2026-season-2-with-match-12-chicken-dinner"
+    "https://www.invenglobal.com/articles/27710/wolves-esports-wins-pmgo-2026-season-2-with-match-12-chicken-dinner",
+    "https://www.invenglobal.com/articles/27709/filtering-steams-influx-of-releases-personal-calendar-curates-8-weeks-of-new-games-to-match-your-taste",
+    "https://www.hltv.org/news/45818/betboom-romp-past-navi-to-make-playoffs",
+    "https://www.hltv.org/news/45817/spirit-outlast-furia-to-reach-2-1-pool-in-bucharest",
+    "https://www.hltv.org/news/45816/liquid-beat-legacy-to-make-2-1-pool-in-bucharest",
+    "https://www.hltv.org/news/45815/zhoking-our-teams-biggest-problem-has-always-been-the-lack-of-a-secondary-igl-when-im-on-the-server-i-can-actually-fill-that-gap"
   ],
   "title_hashes": [
-    "8500abf304b31a693e1ea296b72dc775",
-    "b9505b190a68e09eb19b8039ccb50931",
-    "d9f7170eba9d6ef14d75b586cbe463d8",
-    "5c2df60b12c85b9d00b237c4398b830b",
-    "4f2942551e6dae85e23a5b5b11112d92",
     "c37d663b2d1d9e840873419f19b06711",
     "ae45e60903e107a00292b7617a94ba84",
     "4409ca833ff1560d6fb60085aab4da1b",
@@ -16001,7 +15996,12 @@
     "b9ab76f74594566e1cab6a88ca191e1e",
     "5adb654f03eb8d7459827e0a72abf8d9",
     "e22f06760634c83520456da26f0ee0ad",
-    "0adcf4b9af83552b0e3a794ef9e8014b"
+    "0adcf4b9af83552b0e3a794ef9e8014b",
+    "1e50dc512d0689e12e670a8eac15006c",
+    "5e8db083ee5e7a2ebc4f4f088ab56a97",
+    "7f940d4a8f4370ccb57f113410eeafc9",
+    "731fb9893f10da0d425d8eba3cf1fdad",
+    "977ef5830e27261ca66ccabe6cef68fb"
   ],
   "transfers": {
     "pages": {
@@ -21036,6 +21036,26 @@
     {
       "t": "12 2 2026 american booking chicken dinner esports finals global grand has lahore match mobile north open pakistan place pmgo pubg season taking team title wins wolves won",
       "ts": 1793044050.6995564
+    },
+    {
+      "t": "8 become calendar curates experimental feature filtering games has influx its match new official personal releases shed steam tag taste weeks your",
+      "ts": 1793044057.2216036
+    },
+    {
+      "t": "4 back betboom come defense make navi nuke past playoffs romp saw stalwart",
+      "ts": 1793044060.9233751
+    },
+    {
+      "t": "1 11 2 9 bucharest chances comeback decider down furia given has make mirage outlast playoffs pool reach spirit two",
+      "ts": 1793044064.4810395
+    },
+    {
+      "t": "1 2 away beat bucharest legacy liquid make one playoffs pool troops win",
+      "ts": 1793044067.990147
+    },
+    {
+      "t": "actually always been biggest can fill gap gave has him his hltv igl lack our problem secondary server stand success take team that tyloo when zhoking",
+      "ts": 1793044071.4783804
     }
   ]
 }
