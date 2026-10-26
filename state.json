@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45640/hunter-we-cannot-change-everything-to-make-r1nkle-comfortable-but-we-are-trying-to-implement-his-things",
-    "https://www.hltv.org/news/45639/sashi-target-asian-vrs-with-australian-duo",
-    "https://www.hltv.org/news/45638/the-mongolz-sign-nin9-and-bring-back-cobrazera",
-    "https://esportsinsider.com/2026/10/valorant-hardware-ban-used-cpu",
-    "https://esportsinsider.com/2026/10/valorant-champions-shanghai-playoffs",
     "https://gameriv.com/valorant-galleria-2-0-skin-bundle/",
     "https://gameriv.com/apex-legends-ranked-is-reportedly-getting-a-legend-ban-system-how-voting-and-ban-protection-could-work/",
     "https://gameriv.com/aion-2-global-release-times-best-servers-and-beginner-guide/",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkY0cnROekpxOTlPV20zTDJVZk5WOWk4a0M1YzE0SWViUTRKVUhrbUpYZEVjU3RNb2RNQzZxVHdHa290QWpoUGFQRW1sQm5xSThib2JWdDR4eVJVbnd0YXFJdUNYZFRoNkpiQktfRGdaRFZvd3dmZ3RNR3RrdnVRTFhFc2tad2JjT1Jv?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVFBdkRLTlI4SmV3Y0VkQjlFeDJTRmNLbzVVX1MxdTFHSUlDMDRIeDJ2OGIydDJnSnp2dGUydE5oN0Q3ak5DbWhXeWprZUVLa1NHaXNVNkRKQ2QwdFpWZmM4WHJVQlROc005amdmeDRpVVRlZnRZZHoweGt0VC1XZUkwVlFXLWVGVTNaajZsdmhqTTk4aDNRVVNOYUItc1U?oc=5",
     "https://www.nerfplz.com/2026/10/formerly-op-20-old-soraka.html",
-    "https://esportsradar.gg/esports-awards-partners-with-adr-for-global-distribution/"
+    "https://esportsradar.gg/esports-awards-partners-with-adr-for-global-distribution/",
+    "https://esportsradar.gg/ence-files-for-bankruptcy-after-13-years-of-operations/",
+    "https://www.gamesindustry.biz/auroch-digital-lays-off-a-quarter-of-its-staff",
+    "https://www.gamesindustry.biz/223000-people-sign-petition-to-save-mass-effect",
+    "https://www.gamesindustry.biz/paris-games-biz-showcased-a-guarded-optimism-in-the-face-of-turmoil-locally-and-in-the-industry-at-large-opinion",
+    "https://www.gamesindustry.biz/side-expands-presence-in-china-opens-new-studio-and-acquires-art-outsourcing-provider-roboto-entertainment"
   ],
   "title_hashes": [
-    "f4fbaafdbeda9cb37e1a056fb3d71ff2",
-    "15c8838c66321ca94fe00b356b40b333",
-    "38b1176c61311abe7886bcf9c0842769",
-    "705c3a5c2ced0261f4974098bed62cb6",
-    "220313fdef099f4d9468bcc6791bbc65",
     "612d4be3c750e11f310832ea6ffb6eaa",
     "00012310a5938c507a787de3a43954fa",
     "061092fe91ac6d8997e41c55c34ac875",
@@ -16001,7 +15996,12 @@
     "3ffe68f334d48e4fbad79284bcf1d629",
     "3147a01b51e71c87aba8044c51b9cad1",
     "2e109f1b9b8afe7d9619fa600b8a276b",
-    "b2038aacf47e9c68c593a7fe064f68fd"
+    "b2038aacf47e9c68c593a7fe064f68fd",
+    "182bb7eeb45661fdd9398baed1c40c92",
+    "8b0db2321c7e32db8d9c9d89e131a53d",
+    "a0b5a52706389e1cdde35edcd652d7cc",
+    "4dbd4437002ae8f1c3a87b1492fb459c",
+    "75448fb0545d9e85c685e8c189fbc79c"
   ],
   "transfers": {
     "pages": {
@@ -21136,6 +21136,26 @@
     {
       "t": "2026 adr adrenaline agency announced awards ceremon channels content distribution esports global has international its licenses live official partner partners programming that upcoming",
       "ts": 1793044151.8050406
+    },
+    {
+      "t": "13 8217 after announced bankruptcy board brands bringing directors ence end esports filed files finnish has iconic its most nordic officially one operations organisation that years",
+      "ts": 1793044156.9958668
+    },
+    {
+      "t": "approximately auroch digital has its laid lays more off quarter read staff",
+      "ts": 1793044160.4612465
+    },
+    {
+      "t": "000 223 asking effect have mass more over people petition read save sign signed",
+      "ts": 1793044164.1845217
+    },
+    {
+      "t": "added biz both civil commercial developers face financial games group guarded has industry investors large locally now opinion optimism paris persisting publishers several showcased small spent that turmoil unrest years",
+      "ts": 1793044167.6587014
+    },
+    {
+      "t": "acquires acquiring art china entertainment expanded expands has its more new opening opens outsourcing presence provider read roboto services side studio",
+      "ts": 1793044171.1590402
     }
   ]
 }
