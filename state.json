@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnJxWFpyakFjckxDOUwxM0xRaTZsYjY2bDBQaDVieXZVRHQxeGVNWTZwcHZWYTZ6N2YtaTlUdkFxVWlZZXh2TElLQXg1bnZJRzBWa21WUmVkSnpwSVZUbVdycmVuTTlVVWNuMUIyS3dBek9OZlVDMVNESnZiLWxya3Fqc0VZQ0xDR1ctamNCNUwwNGFBUk1rWF93?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmtWZWR1S0RrMXQ4aUE2YXdxZkFNOGZpcy1lMDcxd0JoN1hpM0hxLTN3WDZEc3RFS2lWYm5IRHR5S29SSGxHOTBiSnd4ZXhxZmwwZFAyM19TNGJnNFNHdEZNRlpETlVITUl1Ny03NmxBczEzOE1vdXU1RHIxZ0xHRWVVYXk2OVYzT28zXzdB?oc=5",
-    "https://www.invenglobal.com/articles/26808/gears-of-war-returns-kakao-games-world-of-dokkaebi-also-takes-the-field",
-    "https://www.invenglobal.com/articles/26807/tp-link-announces-next-gen-wi-fi-8-router-at-ifa-2026",
-    "https://www.invenglobal.com/articles/26806/ai-pluto-remarkable-innovation-or-unfair-weight-class-gap",
     "https://www.invenglobal.com/articles/26805/the-battle-cats-celebrates-120-million-downloads-with-special-event",
     "https://www.invenglobal.com/articles/26804/the-pammies-cuties-roaming-across-the-world",
     "https://esports-news.co.uk/2026/10/05/wanted-goons-sign-luke4k-as-igl-to-complete-north-american-roster/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27719/bleach-anime-concludes-after-22-years-with-series-finale",
     "https://www.invenglobal.com/articles/27718/t1-defeat-cfo-behind-bot-duos-performance-to-reach-2-wins",
     "https://www.invenglobal.com/articles/27717/ghost-of-y%C5%8Dtei-developer-sucker-punch-lays-off-staff-despite-success",
-    "https://www.invenglobal.com/articles/27715/golden-joystick-awards-ultimate-goty-voting-begins-crimson-desert-nominated"
+    "https://www.invenglobal.com/articles/27715/golden-joystick-awards-ultimate-goty-voting-begins-crimson-desert-nominated",
+    "https://www.invenglobal.com/articles/27714/golden-joystick-awards-2026-names-12-ultimate-game-of-the-year-nominees",
+    "https://www.invenglobal.com/articles/27713/dragon-ball-xenoverse-2-marks-10th-anniversary-with-final-festival-of-universes",
+    "https://www.invenglobal.com/articles/27712/anthropic-files-s-1-for-ipo-plans-nasdaq-listing-under-ticker-ant",
+    "https://www.invenglobal.com/articles/27711/stalker-2-update-21-adds-npc-visualisation-distance-options-and-squad-leader-fast-travel",
+    "https://www.invenglobal.com/articles/27710/wolves-esports-wins-pmgo-2026-season-2-with-match-12-chicken-dinner"
   ],
   "title_hashes": [
-    "6beaa4fe244a583f5dc8e4d4830ccc89",
-    "aacba0ee465292944ddc9ac22c4399bd",
-    "bf28cc542dfaf933752cc88f2de6b80f",
-    "36763813b14f735d5175d0b84c5b9239",
-    "f3a6d3e0cda4f3749e0b6c7540183cc9",
     "8500abf304b31a693e1ea296b72dc775",
     "b9505b190a68e09eb19b8039ccb50931",
     "d9f7170eba9d6ef14d75b586cbe463d8",
@@ -16001,7 +15996,12 @@
     "196c4da5ca865e1c33fb6de6843035af",
     "1abcb90e37132fb3e83e67b3d54e0073",
     "02400722c1ee25f1676604b24f6629f1",
-    "c02e9ef14924c24c9a2df02b36d29e1f"
+    "c02e9ef14924c24c9a2df02b36d29e1f",
+    "27b91c4a9c0229ba24ffabe711719151",
+    "b9ab76f74594566e1cab6a88ca191e1e",
+    "5adb654f03eb8d7459827e0a72abf8d9",
+    "e22f06760634c83520456da26f0ee0ad",
+    "0adcf4b9af83552b0e3a794ef9e8014b"
   ],
   "transfers": {
     "pages": {
@@ -21016,6 +21016,26 @@
     {
       "t": "12 awards begins crimson desert game golden goty has highest honor its joystick nominated nominees opened revealed ugoty ultimate voting year",
       "ts": 1793044028.688255
+    },
+    {
+      "t": "12 2026 30th awards friday game games golden has joystick names nominees october open public revealed ultimate until voting year",
+      "ts": 1793044034.1291585
+    },
+    {
+      "t": "10th 2 27th 30th anniversary ball bandai celebrating dragon entertainment event festival final free marks namco october starts ten that universes update xenoverse years",
+      "ts": 1793044037.6082218
+    },
+    {
+      "t": "1 ant anthropic behind claude company family filed files has initial ipo listing models nasdaq offering plans public ticker under",
+      "ts": 1793044040.9664345
+    },
+    {
+      "t": "1 2 adding adds chornobyl consoles distance fan fast features game gsc has heart its leader npc open options released requested shooter squad survival travel two update visualisation world",
+      "ts": 1793044047.2455368
+    },
+    {
+      "t": "12 2 2026 american booking chicken dinner esports finals global grand has lahore match mobile north open pakistan place pmgo pubg season taking team title wins wolves won",
+      "ts": 1793044050.6995564
     }
   ]
 }
