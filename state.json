@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://pley.gg/valorant/neon-nerfs-and-new-bundle/",
-    "https://pley.gg/cs2/its-not-too-late-niko-and-industry-figures-urge-valve-to-address-sashi-region-swap/",
-    "https://pley.gg/cs2/sashi-targets-asian-major-qualification-with-surprise-australian-roster-additions/",
-    "https://pley.gg/valorant/host-nation-heartbreak-and-americas-dominance-the-valorant-champions-2026-playoff-bracket-is-set/",
-    "https://pley.gg/cs2/the-mongolz-finalizes-roster-with-nin9/",
     "https://pley.gg/cs2/g2-begin-epl-in-dire-straits-facing-elimination-right-away/",
     "https://pley.gg/skinrave-gg-review/",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWWZ1dGpVN3VDbHJRZVZZMFNiN21EdHZaWl9lVUxyMTRlUHg2a0xoY0VSQlhWMWItWmh2cURtYkFEVlZVSGEwMlhGV3RPWGhtV2dXMUhybGxUQXVGWnlNSE0xaklmRE9EWE45U1RmNjAzcU5tbDF3Y2JDTnZ2RlFvWUo4NUh0VzBqVE8taXZNRjdjaFFleTZfLU5IS2RHaUFHcUxkSHE1UXhuUy1seHI0NlBqYUQ5QWtkVTVMSHBWclhvR2FaQlZCWmFaQ3l2U3lkc21mYm9oRWF4dlVVVVBqVXNHV1BPd0xCNDRZY0pCNA?oc=5",
@@ -7999,14 +7994,14 @@
     "https://thegamehaus.com/college-football/5-potential-head-coach-candidates-for-the-baylor-bears/2026/10/26/",
     "https://thegamehaus.com/college-football/college-football-week-9-picks-against-the-spread/2026/10/26/",
     "https://thegamehaus.com/college-football/college-football-week-9-picks/2026/10/26/",
-    "https://thegamehaus.com/fantasy-football/fantasy-football-defenses-to-stream-week-8/2026/10/26/"
+    "https://thegamehaus.com/fantasy-football/fantasy-football-defenses-to-stream-week-8/2026/10/26/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-players-to-add-week-8/2026/10/26/",
+    "https://thegamehaus.com/nfl/nfl-awards-ladders/2026/10/26/",
+    "https://www.hltv.org/news/45821/shalfey-i-was-just-excited-by-the-feeling-that-this-moment-had-come-the-comeback-moment",
+    "https://www.hltv.org/news/45819/aleksib-we-were-not-celebrating-anything-that-revolves-around-the-major-every-one-of-us-expects-to-play-the-major",
+    "https://www.hltv.org/news/45822/pgl-masters-bucharest-round-4-matchups-set"
   ],
   "title_hashes": [
-    "0ecc5ec76008137d3c33750c4aa0e24b",
-    "a1b43a7c759fc72f0a540f8f54202917",
-    "f2301aa87c0cdf5f17c1913fd7674cfe",
-    "0c55cff6b4b5bd6fe1f83432549bc0d6",
-    "22679aea4812db7b27675620f47ff4e8",
     "a8c4005f1232161522144425799458f3",
     "79b04ae785adb8ddbd01297934f6bb9a",
     "d2d3582fe7bff0785ce0ef834e1022cc",
@@ -16001,7 +15996,12 @@
     "880f7a29aa4bd750277f19f8f03fddfd",
     "c806614bee8080d0da6684dada3100e6",
     "d0dbcfbf16511053dfcd7b579e0fbd4b",
-    "a6e5568b1caf0e3cc7bd03b9eb8688c1"
+    "a6e5568b1caf0e3cc7bd03b9eb8688c1",
+    "9b4c2fae0fc95220ab78db51ed12c6b1",
+    "ae30717eb752f1e8d5f136c921af954f",
+    "cc8cc7f9317640ec5ad9115ea5eba988",
+    "4cceed18014814d50b2397f5dd84849b",
+    "6ddddacd5765579f6b11e2697e03ca17"
   ],
   "transfers": {
     "pages": {
@@ -21256,6 +21256,26 @@
     {
       "t": "8 acquisitions biggest defense defenses each fantasy find foot football here look make matchups one owners starting strategies stream streaming their waiver week will wire",
       "ts": 1793057106.3573916
+    },
+    {
+      "t": "8 acquisitions add but draft during each fantasy football good having league made most need players really season sets several team there time week well win wort",
+      "ts": 1793057111.35378
+    },
+    {
+      "t": "2026 awards enough get here ladders large make may middle nfl our predictions running sample season seven sizes starting underway week well who",
+      "ts": 1793057114.7562795
+    },
+    {
+      "t": "come comeback excited feeling first had his igl international just lead moment project russian shalfey that this",
+      "ts": 1793057118.1669414
+    },
+    {
+      "t": "after aleksib anything around believes bucharest campaign celebrating direction every expects heading his major masters not one pgl play positive revolves right start team that their",
+      "ts": 1793057121.7588537
+    },
+    {
+      "t": "4 bucharest day fourth headline masters matches matchups mouz navi pgl romania round set spirit vitality",
+      "ts": 1793057125.5074594
     }
   ]
 }
