@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/news/gta-6-blocks-ps5-jailbreaks-mandatory-firmware-update/",
-    "https://www.talkesport.com/news/logitech-g-hub-policy-lists-mouse-and-camera-usage-data/",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zNnE1NlpVeHlaYVhsbDVRcEtjaXdRRFd5eTRRY2dpRWRVekxvbEsxS0VDaEpTS0UxRFpPZEdWb0VzUDFtZGpIM2dUVEUyTFMtT0dZbUZxZHZGOFpMNzFNTDh5X2ZwR2g4N0xyTEdzQnQzUzhpVmdYQ0Z3V20?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQazBkM3ZXRXM4ZXRaRTdkUDZqeFFoVTdkLXExdkZFRml2VVJxZW9NRE9JelR0WS1heUJNTzRiWGdBNktzN0htbWZtX043Zk9JdlFWWnZ4aW9XMi1aZGxRbHg1a2tJVmcxbDJyN3RUTnA3Z3o4RFFjcC1jNjNJZVFvZA?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwZEZOY0ZDLWIwbUY4SG5hQ0ZiWGVLZ0lZdlZwaUc3TXRxWVhBSmxtVjQ5dzJfektmMmVqbEpqUGlSSnd0bzJNeGFMN1h4eHBhSHBnaDZhN0JaT0MyWGFzSmZxaVNkOC04X1Qw?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsd3dUZXVVUDZsZXU4dTcweENQZ1otWWFiNlpRTlJ4TkdfSW44OGt4SkM4dFJKNFM0VHNacGZQb2JoN0VkQzFObWR0SjVKYjdzdHVSNWJaTnROUUJuWWNKT3UzUUhJOHZXWHl2Yk5xaGNQczRjdDhickI5dTQ?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRE9pc3UwY1RnNVI5allwMWxoTzQtRFk0UWJ1THdJMUZuWjU4c3FkREFhZldrN3dnSDlzUU1oWFk5eFJpZVRaaFlVdktmcnRvdEZ3ckNkcjlhbmJ5M011RC00MDh4RjktX3NPTzFqWGVpMVBENFNTUXhjZG50NFZGc0twZV9famd3RV9qSU1qYVpselBiUE5tUTMtdUR6dW11SHFSMHVxRW8zZTJqUHpHcllqOUZCZ0FCVVE?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbTlXalZhaE1TaWlucFNKMUU2Sk9FQjJyQWVTeGxSSzA2VGJIMW5ZbzFHejNsbXlVeFBXWkJfZ1htcW1wRjM4SURxTE9EVlRKek9ISlRVMlZrY1hLdUVsSG9LbUxJeDZkVGdrRmc0bVh5cF9jWk5aRGR2emZGUEpnazc1SGNBTnY2dGc?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SdlFYMllCMENINHFkRklaUTBKb0I4Q1R3bXY1MXlIQ2pCb3JpbE5QU3pIaEpyRjBtOEY0WVNHc1YyNGVZN0dEMFphUUFxWUtoemtxcTQ1UFg4Zw?oc=5",
@@ -7999,14 +7993,15 @@
     "https://www.invenglobal.com/articles/27706/highly-anticipated-phantom-blade-zero-off-to-strong-start-with-88-metascore",
     "https://www.invenglobal.com/articles/27694/from-crimson-desert-to-aion-2-2026-korea-game-awards-nominees-revealed",
     "https://esportsinsider.com/2026/10/gen-g-recover-from-opening-loss-to-beat-lyon-2-1-and-go-three-from-three-at-worlds-2026",
-    "https://www.hltv.org/news/45813/jee-less-tyloo-send-9z-packing-in-bucharest"
+    "https://www.hltv.org/news/45813/jee-less-tyloo-send-9z-packing-in-bucharest",
+    "https://www.hltv.org/news/45812/fut-sail-into-pgl-masters-playoffs-over-vitality",
+    "https://www.hltv.org/news/45810/mouz-beat-the-mongolz-to-move-into-2-1-pool",
+    "https://www.hltv.org/news/45811/short-news-week-42",
+    "https://www.hltv.org/news/45809/imperial-win-circuit-x-curitiba",
+    "https://www.hltv.org/news/45808/jee-ruled-out-for-rest-of-pgl-masters-bucharest-with-chickenpox",
+    "https://gameriv.com/arc-raiders-devs-reduced-fireflies-and-comets-after-they-made-beginner-raids-too-punishing/"
   ],
   "title_hashes": [
-    "917bb589a33c3d07fe1bd6807114bf46",
-    "053e6b5366e75c2afae66d3da86e0388",
-    "421ae9c4c7db8ee32c77604b39b1b241",
-    "04d8687751ab0125f4de55192ee5902d",
-    "6bdda2e9003667e059b415f8f77f7e85",
     "86be5485393b670b43caeb6a0b3eb3de",
     "ee895c6f3049df9f709e72be21712b25",
     "cb6515d7c7b1edbb8f2d072e8a54a3a5",
@@ -16001,7 +15996,12 @@
     "c826bef2d84b826eac476043b0e3ac24",
     "26f4f9794d69daf0e7a735056959757d",
     "848426fc3cdb35950ea70b00c093c5b4",
-    "3591daf03f80ee638643d8e173087e83"
+    "3591daf03f80ee638643d8e173087e83",
+    "bb7bcaf2a80bff0c3726668f06ddd8d1",
+    "563b0bc8ba7319d8afe800108dd20a40",
+    "60eb98c9af5c20672a2de327a4bcf8eb",
+    "f4cb9a367aa11bb439c33dc8345f2830",
+    "3f9d504ecc341a4c823fdcd593a439a2"
   ],
   "transfers": {
     "pages": {
@@ -20896,6 +20896,26 @@
     {
       "t": "9z after another bucharest chinese day elimination fight jee less lives off packing romania send staving team tyloo",
       "ts": 1793023198.4640758
+    },
+    {
+      "t": "4 back came company dem0n fut into masters over pgl playoffs sail vitality",
+      "ts": 1793023204.2716625
+    },
+    {
+      "t": "1 2 beat close excellent fairly helped into mongolz mouz move play pool series through",
+      "ts": 1793023207.8339221
+    },
+    {
+      "t": "87 brazilians chance circuit curitiba imperial major pgl qualifying singapore win",
+      "ts": 1793023211.35325
+    },
+    {
+      "t": "awper bucharest chickenpox chinese its jee main masters monday out pgl rest ruled team will without",
+      "ts": 1793023214.8325682
+    },
+    {
+      "t": "after arc basic beginner can comes comet comets crate devs fireflies firefly flames game into learning made opening players punishing quickly raiders raids reduced rolling scramble spraying starts still survival they those too toward turn when you",
+      "ts": 1793023218.223978
     }
   ]
 }
