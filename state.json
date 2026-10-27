@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://dotablast.com/wesg-dota-2-2017-barcelona/",
-    "https://dotablast.com/china-kiev-major-qualifiers/",
-    "https://dotablast.com/sa-kiev-major-qualifiers/",
-    "https://dotablast.com/na-kiev-major-qualifiers/",
-    "https://dotablast.com/eu-kiev-major-qualifiers/",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNE5pbmk4V1JGckxxT2RZTHVDR2V1bkNqQ1o2RUdnakgtOVB5dURkSUhMU3hkYlVoVHVCNkFVOUdoREZVcXpnck9CQnpwOV9uazJVTVZpaFU3WFg5YXZRZ0RPcERmNnlVUkgwQkVnazU3UWtmSkxET0NmLUhYanR6WGczUm80RGw2Qmc3ank0LVBXQQ?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE1leVlMRHZLYUQ4bW1JdGlFcjFBRVVPdG1uYXM5cTRNSFY5Vk5GSnVQeml3b2VZUnZEcDhIcm1zS1MxSnNua1V0T1U2Y2lialhYWGh2OHVYVWtWT1JCd3BJaEpsanlrekJXZG14dGVoUnZDZTlxWnlGZk5XcjFmUQ?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzFxNGVKS3lPWFlRZFZlVkI2aXRJa1Y0a2FOeFU4ekJtQ1NvN2lFaEFrOFQ3X3VJVnE5OENPcnBOV3VINVdDRTZ6dUgxQ3dYV2I1X3NSOWhLb0xTTUlRZEhwMzNSQ0pnQ3U3TmwwNTQtR2p4WXZCaDJ3bUY4a1Qwdk51aGotdw?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCXzJ4ZXZqRW1SdHBIbGFHbkJfbGJvRDB5c3NNUDhFSHNyWGtqVjBhZ3JFMTFVclVTRHVfRm90dWRjd1pRU3pRMEFEcUxBNmtIM2hHQzZXVmdYdWJYTGt1cUxudzZZdlZieTVNZ2hHT3ZpSms?oc=5",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/canceled-transformers-games-final-trailer-surfaces-online/",
     "https://insider-gaming.com/warhorse-studios-hit-by-cyberattack/",
     "https://insider-gaming.com/the-division-franchise-hits-50-million-lifetime-players-milestone/",
-    "https://insider-gaming.com/exclusive-dragon-age-director-on-saving-series/"
+    "https://insider-gaming.com/exclusive-dragon-age-director-on-saving-series/",
+    "https://insider-gaming.com/infinity-ward-taking-action-against-dmz-duplication-exploits/",
+    "https://insider-gaming.com/new-dmz-pvp-content-season-1-claimed/",
+    "https://insider-gaming.com/arc-raiders-2-3-update-adds-new-player-project-and-100-bug-fixes/",
+    "https://insider-gaming.com/fallout-show-leaks-west-tek-the-office/",
+    "https://esportsinsider.com/2026/10/pokemon-unite-end-of-service",
+    "https://esports-news.co.uk/2026/10/27/fut-esports-end-vitalitys-winning-run-with-comeback-at-pgl-masters-bucharest/"
   ],
   "title_hashes": [
-    "b185faec3012109ec1269496ee4251bf",
-    "488e3a7b43781b39f9d17df03b2d498e",
-    "4597ad08ec02dc0ea5515e9dd7fc0f45",
-    "e48bb96e5578edc6958d43e9459f644b",
-    "8a42c1e067d645f4ddfa2441cfb864c3",
-    "87d43122417c4f6ed4ad9cb23beb2ff4",
     "d009588864cce53bacd43920bed4fde8",
     "99373e5aab56a315b0293dc51a21c330",
     "7b122b10a598c1424715c99aecff217f",
@@ -16001,7 +15995,13 @@
     "d01f1bb9ccf9a838b1029afc65e79a69",
     "9e3747a69285bcf6dc38c08b95853ba1",
     "f353634876d8375d23661d13c9e18553",
-    "ac7f96912e7b0bf9e161e6138aa89abf"
+    "ac7f96912e7b0bf9e161e6138aa89abf",
+    "2b635dbcf3e0dfaa80c838b6631cd2c6",
+    "bc89cf8a3b19f336b259fb10445562bd",
+    "1684ccf4a144a8e8c41030c4791413f4",
+    "7aa4ecf4d36f56eb33129c2fd894f32f",
+    "cc1c61e69ca8fa9d26a8f3f0d596f680",
+    "4eff9f0ef8b1cfeb361f31c882f9105a"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "8217 age back bioware brand bring broken caught darrah decade director dragon exclusive former how isn learn life mark post rescue series what worked",
       "ts": 1793109110.431478
+    },
+    {
+      "t": "action against announced appeared being dmz duplication enforcement exploits has infinity players post taken taking utilized ward who",
+      "ts": 1793109115.7333903
+    },
+    {
+      "t": "1 been claimed cod content dmz extraction first focused game get getting going has into mode more november online post pvp season that will",
+      "ts": 1793109119.2281506
+    },
+    {
+      "t": "8216 8217 being fallout filming have iconic leaked leaks location office post reveal revealing season sets show third used",
+      "ts": 1793109122.623817
+    },
+    {
+      "t": "2027 23 aeos after crown days down end finals march now open opens pokémon post qualifier regional registration service shut tokyo two unite will",
+      "ts": 1793109126.0429
+    },
+    {
+      "t": "1 2 2026 3 8217 beat bucharest but com comeback continue end esports fut group lost map masters number one opening pgl reading round run stage vitality winning world",
+      "ts": 1793109129.597919
     }
   ]
 }
