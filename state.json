@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sWnkwYVE0eUtHTHZwX1phbS04QjNkaHk4Q0dBUEM1OEJodUhBMnVYQUlaQ3A4dkZHLVJqVVRkd1pHVnRWSEdmRnZxaHM?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vWkJhaWtDWXBUZVJ0UVMydUV6N21INUxRTFJueDhmT3NfRFhqejJvRnloc3B3XzdkMlNGZFZ2czg4d3lMVTVjbldWOWJ5THJHMlBTUm1nNVY2Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SRzZGQk84T2V2UHV3Y3g1eFVlcGVUNDJQQjFVNzJWdG16R1RtaFdQVHhpbTRkbjFDaG93Q0ZpZ1N6eDF6Rmw4YTFELTI5amM3bnc?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE90Zk42SHpJZDF3M291UGRDVy1HLWxBdzQtMHo2NU5jdHdUSm95TTJyTWlWYlZ6YjAyM3hma1ZCTnJNU0pTLXlNc2htZVM0M3JEOUtKNjVQMTdkbDViMGhjZmViZXZvb0EtTEIzZ2FjVUFsUG94WFlR?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TUEFmckxYaEpVT1ZoY3E3SEItdklsVEQweTltNDIzbjE5aFpqQi14Y01hTTRXV2YwYWJSek9aV3gwSlpYdWwwR2ExbVVubDRnMnc3UDZpVENyLUVIRDZXTThRMGI3VS1SRTY4?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE01d1VIbzJHdmNJdG9ZQ1JITE9zTllYTWFVcnh4NVBRaWJnV0FjMXo1NGtmenE2TE01OWlIZFhFNTJ4VVNadFo2NlRPc1VvNDFvSWNqcU5GemlsUkNnWVlwTWVyaU8wSmJOYnc?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFowbFdNcFlwazgzcnFUT3hCQ2Q3ZVpPUUNsdG55ZHBDVXZaMU5BdnM4T0VRVkJYclFib1htVU05cjlGOXJMYjQ5LXVrQWdFSTZGQjYtRUhUbTZOZnF2QU8zY3RlSVhONWdDWkVRamhpQ3NyZXpmMmFZQWdqVjk5MnZQYW9UcC15V1VCUHFRM25HY2x0YVdvVzBiR1RjQ3F3WS1ENVgzVGVNbk1MVk9lLWtLanVSQVVsV29oNGhscw?oc=5",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IaW5TdGduY3lJYzJrR1haWlR6MEN4ZDlFdi1qbDk4V3lqMVBaaUxWSXUtNWRLc3hhS1RqaXFHaXF2Z2FvUkNWV3lEUjZvd3pV?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27736/cats-soup-magic-recipe-holds-spirit-festival-event-to-celebrate-6-month-anniversary",
     "https://www.invenglobal.com/articles/27732/ncsoft-marks-10th-anniversary-of-startup-sponsorship-supporting-superjoy-and-geniesoft-at-g-star",
     "https://www.invenglobal.com/articles/27733/digimon-masters-hosts-growth-support-event-to-celebrate-17th-anniversary",
-    "https://www.invenglobal.com/articles/27731/no-gacha-no-p2w-open-world-creature-catching-rpg-roco-kingdom"
+    "https://www.invenglobal.com/articles/27731/no-gacha-no-p2w-open-world-creature-catching-rpg-roco-kingdom",
+    "https://www.invenglobal.com/articles/27730/with-2-losses-hanwha-life-esports-faces-elimination-match-against-g2-t1-vs-movistar-koi",
+    "https://www.invenglobal.com/articles/27729/call-of-duty-passes-40bn-in-lifetime-revenue-says-xbox-ceo-asha-sharma",
+    "https://www.invenglobal.com/articles/27727/madison-horror-game-is-getting-a-feature-film-from-sonic-producer-story-kitchen",
+    "https://www.invenglobal.com/articles/27728/apple-addresses-iphone-duo-screen-cracks-contact-applecare-for-replacement",
+    "https://www.invenglobal.com/articles/27726/journey-composer-austin-wintory-shares-20-minutes-of-music-he-wrote-for-the-next-mass-effect"
   ],
   "title_hashes": [
-    "e2a60639912eea4b6e0f385d8fb22a17",
-    "de8b72a9fc19077da1d1a49097da429c",
-    "d937fdcd9fa6724556a9dacd7c4b531c",
-    "3c0de44dd9924cbd5afce2eb03ee3278",
-    "ac777194828ebd0bd10e01a0744e8ecd",
     "416334fcaa981b4ce329966a22b3a7d4",
     "59d3799ed8383e200bcab6d50399e6a1",
     "ebfe9579b9abb7fd9c2837a7a8cf1ab7",
@@ -16001,7 +15996,12 @@
     "e0d59f2d12267db90294b9f06cb58987",
     "748fb2f1f99c6860a2d64a4d74391d8b",
     "ff23719c5afa4629f343cde93e2b9b84",
-    "bf968adda2f7aaae6b63287c8d72f94a"
+    "bf968adda2f7aaae6b63287c8d72f94a",
+    "0505afbe98c8b911030f3340e045baf4",
+    "8bc1aa06e02638d5ac90a103c5385c0e",
+    "289e2a186ca93879fbf485d1fa25a067",
+    "ee1fc431cacda2b27e7e88791fbecfe5",
+    "c5d8df2ab96d156330e317a96ed18b52"
   ],
   "transfers": {
     "pages": {
@@ -21272,6 +21272,26 @@
     {
       "t": "27 begin beta catching cbt closed collecting creature gacha global its kingdom morefun new october open p2w roco rpg studios subsidiary tencent test will world",
       "ts": 1793067407.447068
+    },
+    {
+      "t": "2 2026 29 31 4 against been championship credit days elimination esports faces g2 games gamesthe hanwha have koi kst life lol losses match matchups movistar october over place riot round set stage swiss t1 take three union will world worlds",
+      "ts": 1793067412.450973
+    },
+    {
+      "t": "40bn asha call ceo duty franchise has lifetime made more passes revenue said says sharma than xbox",
+      "ts": 1793067415.9264903
+    },
+    {
+      "t": "adapted being bloodious company developer feature film game games getting horror into kitchen madison producer production psychological sonic story teaming",
+      "ts": 1793067419.5190735
+    },
+    {
+      "t": "26 addresses announced apple applecare appleon contact crack cracks device display duo iphone issues local media occurrin october offer outlets overseas regarding replacement replacements screen several that through time via will",
+      "ts": 1793067422.9429045
+    },
+    {
+      "t": "20 after arts austin bioware close composer days down effect electronic game has journey mass minutes music next released score shares shut talks while wintory wrote",
+      "ts": 1793067426.6082735
     }
   ]
 }
