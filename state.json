@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/news/an-openai-model-tried-to-cheat-at-starcraft/",
-    "https://www.talkesport.com/news/project-comet-marvel-game-leak/",
-    "https://www.talkesport.com/news/materia-sues-dj-cutman-undertale-gamechops-youtube/",
-    "https://www.talkesport.com/news/cs2/mouz-vs-spirit-esl-pro-league-season-24/",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaNTYtRWZlemcyTnBOOVctR3k4NzhncjM1RlRVVVVxNHl3VkJod2FrRzlhTURQMVFmN0J1d216XzB4cFFCbEV1R0IwRzMxanBIb3c?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sWnkwYVE0eUtHTHZwX1phbS04QjNkaHk4Q0dBUEM1OEJodUhBMnVYQUlaQ3A4dkZHLVJqVVRkd1pHVnRWSEdmRnZxaHM?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vWkJhaWtDWXBUZVJ0UVMydUV6N21INUxRTFJueDhmT3NfRFhqejJvRnloc3B3XzdkMlNGZFZ2czg4d3lMVTVjbldWOWJ5THJHMlBTUm1nNVY2Zw?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SRzZGQk84T2V2UHV3Y3g1eFVlcGVUNDJQQjFVNzJWdG16R1RtaFdQVHhpbTRkbjFDaG93Q0ZpZ1N6eDF6Rmw4YTFELTI5amM3bnc?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27739/interactive-movie-adventure-three-body-eve-of-judgment-based-on-novel-the-three-body-problem-revealed",
     "https://www.invenglobal.com/articles/27738/warhammer-40000-boltgun-2-developer-lays-off-25-of-staff-despite-critical-success",
     "https://www.invenglobal.com/articles/27737/cookie-run-ovenbreak-10th-anniversary-5408-million-players-ran-38-billion-minutes",
-    "https://www.invenglobal.com/articles/27734/just-dance-decades-of-hits-pre-orders-begin-for-switch-2"
+    "https://www.invenglobal.com/articles/27734/just-dance-decades-of-hits-pre-orders-begin-for-switch-2",
+    "https://www.invenglobal.com/articles/27735/pubg-teases-collaboration-with-ive-dive-begins-november-4",
+    "https://www.invenglobal.com/articles/27736/cats-soup-magic-recipe-holds-spirit-festival-event-to-celebrate-6-month-anniversary",
+    "https://www.invenglobal.com/articles/27732/ncsoft-marks-10th-anniversary-of-startup-sponsorship-supporting-superjoy-and-geniesoft-at-g-star",
+    "https://www.invenglobal.com/articles/27733/digimon-masters-hosts-growth-support-event-to-celebrate-17th-anniversary",
+    "https://www.invenglobal.com/articles/27731/no-gacha-no-p2w-open-world-creature-catching-rpg-roco-kingdom"
   ],
   "title_hashes": [
-    "49f0cd6614dfb56eb4024a2bb81b9bd4",
-    "54b99efc3455590fb79f24dd18d5d983",
-    "6c3343245bfa8c92e27ea783404ca76c",
-    "48de6a48bd850f04e9e5720a1b3f679e",
-    "eff290ed050feec6fc145f4b1f6620b7",
     "e2a60639912eea4b6e0f385d8fb22a17",
     "de8b72a9fc19077da1d1a49097da429c",
     "d937fdcd9fa6724556a9dacd7c4b531c",
@@ -16001,7 +15996,12 @@
     "cbb6319d437c234f27c126fcadc7c43a",
     "5d9dc7e9ae946089911438bf2e411fce",
     "dbdbd53e7688b8e2f94f1f50882b4a16",
-    "4a3b7dc91a3c7c85ab752d1247b27f9e"
+    "4a3b7dc91a3c7c85ab752d1247b27f9e",
+    "f487ef32af420da0527a5f120b3c9541",
+    "e0d59f2d12267db90294b9f06cb58987",
+    "748fb2f1f99c6860a2d64a4d74391d8b",
+    "ff23719c5afa4629f343cde93e2b9b84",
+    "bf968adda2f7aaae6b63287c8d72f94a"
   ],
   "transfers": {
     "pages": {
@@ -21252,6 +21252,26 @@
     {
       "t": "2 27th 3 announced begin dance decades edition entertainmentgamewoori hanwoori hits just limited nintendo orders package pre switch that ubisoft will",
       "ts": 1793067387.7870948
+    },
+    {
+      "t": "27 4 announced battlegrounds begins between collaboration conducting dive group hereinafter inc ive kraftonkrafton november october pubg referred teases that",
+      "ts": 1793067392.8741179
+    },
+    {
+      "t": "27 6 amp anniversary announced casual cats celebrate event festival game global holds hosting its launch magic merge month months neowizneowiz october recipe since six soup spirit that",
+      "ts": 1793067396.3383539
+    },
+    {
+      "t": "10th anniversary companies geniesoft its mark marks ncsoft ncsoftto participating sponsorship star startup superjoy support supporting two will",
+      "ts": 1793067400.4768755
+    },
+    {
+      "t": "17th 8 anniversary celebrate commemorative december digimon event game growth hosts interactive interactivemove masters move online running support until",
+      "ts": 1793067403.9971466
+    },
+    {
+      "t": "27 begin beta catching cbt closed collecting creature gacha global its kingdom morefun new october open p2w roco rpg studios subsidiary tencent test will world",
+      "ts": 1793067407.447068
     }
   ]
 }
