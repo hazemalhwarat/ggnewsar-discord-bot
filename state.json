@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
-    "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site",
-    "https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results",
     "https://www.gamesindustry.biz/curve-games-partners-with-wayfinder-studios-to-publish-online-co-op-rpg-wyldheart",
     "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
     "https://europeangaming.eu/portal/press-releases/2026/10/06/215444/just-slots-book-of-maniac-500-casino-exclusive/",
@@ -7999,12 +7996,12 @@
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY216ZVJQRlpkc011c2xoazM0dnRuN2Rna3ZqT3lrTEdVMXJHMjRpZXlMa0NnR3dKaU03OHpwUkxaYm9Ka1pmYVB6XzI4dHhndkFHRi1TMnF1ZGpDM0E2U2QybTY1QVFOTnNhb3g0c1pQdTNOZGZCVTRoSHA1S3QwSmhVbTFvVXRIQzRONlVPWEVXTlNjLVdGcXNUYTA3YU16QUppQS1zQTdCbWc2NUlYUEFBbERBOTVWS0VGaXlGSzFWaC1jdXB5SF96eTLSAVpBVV95cUxOcnVELTJObHVsTzc2MkZyamdYVzJ6cnNLMTNFQjIwV1NIX21ET09VdEJidm5fN1pBN0JNRGxIZGdzM3NNMTR4VXNWenhHQnRjNDVFVVBPbHpRRkE?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUlkZkU3UV8zVjRXVjVvR29SZWtidmZwUUdKVk9ZZHdnclNHZW9XOGpJMFVHcHVWNTJtQTgyWlNhUHpXU01fVF9pdC1xVGVGYVA5SWZLeFlXU3prUUk3OUdZekg4dW5qYkhKeTd2UTdqNWFvYmcwT3hqN1BYcHVQetIBV0FVX3lxTE00M0JCR1Y3Y2QwRnhoaFBGSWFzejF1LXpXVG5CZmRtZmt0ZFVWOTNndGFRdzRhWDRLb0pybnRZaFpjNFBQOFF6Q1VkR1loUDlxbXBXem9UMA?oc=5",
     "https://pley.gg/valorant/store-bundle-post-champions/",
-    "https://pley.gg/cs2/benched-by-g2-in-june-sunpayus-now-has-fut-saving-their-money-for-his-awp/"
+    "https://pley.gg/cs2/benched-by-g2-in-june-sunpayus-now-has-fut-saving-their-money-for-his-awp/",
+    "https://pley.gg/cs2/jl-meets-his-old-team-and-aleksib-says-navi-never-celebrated-their-singapore-place/",
+    "https://pley.gg/cs2/roaring-bears-will-leave-their-colours-at-home-for-iem-cologne-2027-over-esls-ticket-prices/",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVpPLTBXZjhvNVl5aXdlM3dCNkEtNV9xUEdlZHl2SFluaXU2X1VhYnl5N0FtcVVkMnV5R2RablZ5Umh2Vy01VWhNckVUM0lmclk3eXdEMlZvdW9oT1JuOE9YLVlsUGJCdG5VYm9OelRMdW9qSElHaEtVeE0zUW9uVEp6NjluU1FEZkJBdjdwM3hkd0ZUWmc?oc=5"
   ],
   "title_hashes": [
-    "cd9737309fc59f42ee6a6505566ee54a",
-    "377e133c3a63fc785a8c76fe16f4e680",
-    "a38e576c557bfba80a480f23601b1b4d",
     "88ce4625e53285fe1dc113228b933dcc",
     "869dba629ce8bf3e17175a214c80fd66",
     "26948ed93e2f3b52f6c71977a841ff57",
@@ -16001,7 +15998,10 @@
     "a9de4d58edb421583011c2b75459055f",
     "2312c214f837e52be9f21cbad0c8eeb2",
     "fac190dfeb9a034af0bcb7d23ca2cb88",
-    "469d46f268a4d90180434bc8f0ee3645"
+    "469d46f268a4d90180434bc8f0ee3645",
+    "2c5a383916e63150bf02150ae4694282",
+    "2b3e36df9f6bd63a3b38bd76772b00e9",
+    "f2ab5fb218da8b84623f45579aa4ba11"
   ],
   "transfers": {
     "pages": {
@@ -21272,6 +21272,14 @@
     {
       "t": "0 3 awp before bench benched bucharest debut event fut g2 has him his into june money months new now saving says series signed spent star sunpayus team their three treat",
       "ts": 1793109266.2352896
+    },
+    {
+      "t": "aleksib celebrated his meets navi never old place says singapore team their",
+      "ts": 1793109271.3335848
+    },
+    {
+      "t": "2027 bears cologne colours esl home iem leave over prices roaring their ticket will",
+      "ts": 1793109274.7156858
     }
   ]
 }
