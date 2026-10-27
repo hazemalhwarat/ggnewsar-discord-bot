@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://blog.counter-strike.net/2023/01/40918/",
-    "https://blog.counter-strike.net/2022/12/40758/",
-    "https://www.dotabuff.com/blog/2026-09-15-next-patch-wishlist-chaotic-edition",
-    "https://www.dotabuff.com/blog/2026-09-08-next-patch-wishlist-the-melee-carry-conundrum",
-    "https://insider-gaming.com/libernovo-discounts-gaming-chair-prime-day/",
-    "https://insider-gaming.com/gamesir-drops-prices-20-amazon-prime-day/",
     "https://insider-gaming.com/oneodio-amazon-prime-day-discounts/",
     "https://insider-gaming.com/mtg-booster-changes-includes-god-pack-change/",
     "https://insider-gaming.com/watch-dogs-legion-directors-cut-planned-first-half/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/27751/stoneage-idle-adventure-adds-server-transfer-and-new-spirit-growth-system",
     "https://www.invenglobal.com/articles/27752/line-games-quiet-hits-1-in-top-demos-on-opening-day-of-steam-scream-fest-5",
     "https://www.invenglobal.com/articles/27750/world-of-dokkaebi-teases-monthly-content-expansions-through-next-january",
-    "https://www.invenglobal.com/articles/27749/phantom-blade-zero-pre-downloads-begin-ahead-of-launch"
+    "https://www.invenglobal.com/articles/27749/phantom-blade-zero-pre-downloads-begin-ahead-of-launch",
+    "https://www.invenglobal.com/articles/27748/samsung-electronics-fined-201-billion-won-for-omitting-game-performance-throttling-disclosures",
+    "https://www.invenglobal.com/articles/27747/marvel-cosmic-invasion-dlc-the-siege-of-castle-doom-launches-november-11",
+    "https://www.invenglobal.com/articles/27746/nikke-and-musinsa-collaboration-pop-up-store-opens-in-seongsu-on-november-6",
+    "https://www.invenglobal.com/articles/27745/ashita-no-joe-creator-tetsuya-chiba-dies-at-87",
+    "https://www.invenglobal.com/articles/27744/seeu-is-back",
+    "https://www.invenglobal.com/articles/27743/final-fantasy-xiv-hosts-pvp-tournament-with-30-million-won-prize-pool"
   ],
   "title_hashes": [
-    "0822bf1af0c022b3d60f411735c09ad7",
-    "c7fa3429060ec0d4fb410615dd68f2c3",
-    "36c46af2208caafbf9f938fa71ee4938",
-    "85d8e4d31d641d7d80aee02e37275f7a",
-    "acaf22271653e921e6df45c784da8f6f",
-    "f0affb045366ce3587036f120b75b9f3",
     "cb480173c3ccccf0e67cfd287ed54a22",
     "b9d96b25fcd2b29148de2d60c8fa6a16",
     "e104d4650eac423df471bc929cddc02e",
@@ -16001,7 +15995,13 @@
     "49ba5f21ad9df98902c3cf36efaaf682",
     "59b08518fe90ae3482a49ee54c615b66",
     "e3049227689e9714f889207f5e61ecdb",
-    "b4af2b8e26f0ea2764f88186742d748a"
+    "b4af2b8e26f0ea2764f88186742d748a",
+    "7fa12a501463d76220902f9d1652dc90",
+    "f8fa0f37945aabff6ff139d393d26135",
+    "e8c17aa80d9983f6fedc70fb32c5173a",
+    "bfdb26a5acf5e3719d7bb231ca7b2bc8",
+    "f1dd227f5962f1098f8483d0dcbee4f5",
+    "ac87b98ce288f030acb2f5cece666381"
   ],
   "transfers": {
     "pages": {
@@ -21356,6 +21356,26 @@
     {
       "t": "29 action ahead begin begun blade downloads game has launch october official phantom pre release rpg set wuxia zero",
       "ts": 1793087791.1258752
+    },
+    {
+      "t": "1 20 actual advertising approximately been billion capabilities disclose disclosures electronics failing fined gal game gaming has invensamsung its omitting performance restrictions samsung throttling while won",
+      "ts": 1793087796.0761476
+    },
+    {
+      "t": "4th 6 anniversary celebrate collaboration collaborative goddess infinite infiniteto level musinsa nikke november opening opens pop seongsu store victory",
+      "ts": 1793087799.7307253
+    },
+    {
+      "t": "27 87 age announced artist ashita away best big chiba com creator dies has its japanese joe known legendary manga october passed portal shogakukan tetsuya today via",
+      "ts": 1793087803.8361235
+    },
+    {
+      "t": "15 after already amp back collaborated debut engine factory first has her know korea korean may returned sbs seeu some south synthesis team very vocaloid voice vox years you",
+      "ts": 1793087807.339661
+    },
+    {
+      "t": "27th 30 actoz announced fantasy final host hosts korean million official pool prize pvp soft softactoz that total tournament will won xiv",
+      "ts": 1793087810.9000494
     }
   ]
 }
