@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BSHpCM0NLRldKWEQ3empQOUNiUkFDZTBVMXNmSG9YZFZfYjQzLXBDUnBRelhCMml2a3ZCUXJFUEdKMmIxdDh0Vw?oc=5",
-    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9jb0hoUnR1MnZxazlkQ3U3eWh4VDNtOTV3Z09rcVlJenpJUWdJQ1llQUJMZC0xcFM3NVZEdEF2ZGVzUjdwMXVR?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NVDVGUFl0dTU0cS1lVWVvSWw0dFlucnJXV0RHSTB6TEJFMlp0MlhVdXdDMzNvRzVsejNPV3FvNDEwLTBhUlE?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVURxLVNEZk5CMjFXaTZuS1YxWjk0OEQ3b1BEbnpuV2NRNFdHbE1RdkVlWFV4TzVvb1hzZHAzV2l4YnBRbVBnOG5WSW5rZjhwU3BCcHJZbkZuNWdXUEc5SXpmekRId2FxUFBWVmdrX1ptT216RzNMQ0JUbjF0YUdLWTNsZEduVko4MGFpSkJn?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1obEJPSllCZkpiTHFzX0t6a3k4aTEwWUs5bG91V3R4R0dVdmRhYnlocFRvZjZIQWU2anRpVXdSRjFUOTZ1eE8wMVhHQWN4S3hwQXZqdG5PZlp1eEpvWlRHb192WXZpY1k?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RV1N4TFJ5UktSV0ZVM2gyVXlsTEM2R21sX0lkR1lMYVlfWHhoNk4wUGZHbUQ1Y1BDNUNtT2NLeENLeW16Zm1Zd1BkN1NpZ0xFSjJKT3RKdW9KOWMyNDdiaFFKaXJxYi0zYlE?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDltM05HdzhTVTdSTTVNV1gwdEpscVFwNmFZOUZMNDA3d2tvendUeUExdjFSeno3VjZtMVRtSUc2eHVBNk1lT1NCVXIyUXJveWw5WmRyaDVPVmU5VEI5VV9sRHp3dC04UHMyWTdHQ0xtNl9qNlBGM2psd3JPOC1wVGdJX05lWlRUcVJiWA?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mYUZTdW8zUHo5Y3h2Qm1odTNiNjc1M3BhWTBPSUxoZ3pCMzJPQmVzbjAxSkNmTVo4TWVFa1VmSC1yTWREbW56aThPZzBWLWRDVXBwbjFpSU9iLVVicU5aWDlWbkhKdzQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://pley.gg/cs2/the-mongolz-send-last-years-finalists-legacy-home-2-0-and-lift-their-cluj-napoca-chances/",
     "https://pley.gg/valorant/patch-13-09-notes/",
     "https://pley.gg/cs2/jimpphats-clutches-carry-an-off-form-aurora-past-liquid-2-1-and-into-the-bucharest-playoffs/",
-    "https://pley.gg/cs2/nemigas-in-game-leader-robo-finds-his-aim-in-a-2-0-that-knocks-dendele-out-of-bucharest/"
+    "https://pley.gg/cs2/nemigas-in-game-leader-robo-finds-his-aim-in-a-2-0-that-knocks-dendele-out-of-bucharest/",
+    "https://www.invenglobal.com/articles/27773/g2-valorant-parts-ways-with-igl-valyn-after-three-years",
+    "https://www.invenglobal.com/articles/27772/navis-aleksib-convicted-of-aggravated-tax-fraud-in-finland",
+    "https://www.invenglobal.com/articles/27771/dayz-creator-dean-hall-releases-free-prototype-for-multiplayer-survival-game-gruntz",
+    "https://www.invenglobal.com/articles/27769/pok%C3%A9mon-unite-will-shut-down-on-march-23rd-2027",
+    "https://thegamehaus.com/indianapolis-colts/colts-trade-quenton-nelson-to-seattle-seahawks/2026/10/27/"
   ],
   "title_hashes": [
-    "35fcd1ab4ea9474b331d1612ed6d002d",
-    "03e737fb6b2ab40fd0b1dc2df23f396c",
-    "811b101227b28507c5b77673cef4bab0",
-    "a44a10b3ed3529c65dbb76e0ec7ad099",
-    "7b11147d0d94ceb9bc99fd04f5d3f4d7",
     "f75b2ff22ea86f361b7c267c6c5e533c",
     "a2bf510497ab26d0062407c1dd191463",
     "92ff9412d1f10f50b4e7989741354f19",
@@ -16001,7 +15996,12 @@
     "c36e73ee18f0b71f36f1b5df1179f213",
     "6ebe2e45e6050aa6109781dd03d8e748",
     "091efe39b70fe41ea85797a002483de4",
-    "afb9c19c392b79ea838ca016a1fbb6ee"
+    "afb9c19c392b79ea838ca016a1fbb6ee",
+    "660d7f3d5392bf59a1df35c87e9ecd9a",
+    "48b5a9bcec4054f8015489529645481a",
+    "1cbf5d5ff2bc555d7e37f68b7e308384",
+    "a939509ce39d1608a5cb9a583def0d86",
+    "1fcd865017ab87041b72e8b5708c385a"
   ],
   "transfers": {
     "pages": {
@@ -20710,90 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "127918 android astrae clan conventional dynamis game ghoststoriesunlike infotitle iospopular kobato magic magicalgirls magicians mart ncplatform one oratiodeveloper shindenki subculture tags true villainous",
-      "ts": 1793067373.041229
-    },
-    {
-      "t": "adventure based bilibili body chinese eve famous game interactive judgment licensed movie novel official officially problem revealed sci source three trailer 三体审判前夜官方号",
-      "ts": 1793067377.2999122
-    },
-    {
-      "t": "000 2 25 40 affecting approximately auroch based begun boltgun critical despite developer digital digitaluk game has its lays off process restructuring staff success warhammer workforce",
-      "ts": 1793067380.7848837
-    },
-    {
-      "t": "08 10th 27 38 54 action anniversary billion cookie devsistersdevsisters game its major mark million minutes mobile october out ovenbreak players ran rolled run running service update",
-      "ts": 1793067384.292194
-    },
-    {
-      "t": "2 27th 3 announced begin dance decades edition entertainmentgamewoori hanwoori hits just limited nintendo orders package pre switch that ubisoft will",
-      "ts": 1793067387.7870948
-    },
-    {
-      "t": "27 4 announced battlegrounds begins between collaboration conducting dive group hereinafter inc ive kraftonkrafton november october pubg referred teases that",
-      "ts": 1793067392.8741179
-    },
-    {
-      "t": "27 6 amp anniversary announced casual cats celebrate event festival game global holds hosting its launch magic merge month months neowizneowiz october recipe since six soup spirit that",
-      "ts": 1793067396.3383539
-    },
-    {
-      "t": "10th anniversary companies geniesoft its mark marks ncsoft ncsoftto participating sponsorship star startup superjoy support supporting two will",
-      "ts": 1793067400.4768755
-    },
-    {
-      "t": "17th 8 anniversary celebrate commemorative december digimon event game growth hosts interactive interactivemove masters move online running support until",
-      "ts": 1793067403.9971466
-    },
-    {
-      "t": "27 begin beta catching cbt closed collecting creature gacha global its kingdom morefun new october open p2w roco rpg studios subsidiary tencent test will world",
-      "ts": 1793067407.447068
-    },
-    {
-      "t": "2 2026 29 31 4 against been championship credit days elimination esports faces g2 games gamesthe hanwha have koi kst life lol losses match matchups movistar october over place riot round set stage swiss t1 take three union will world worlds",
-      "ts": 1793067412.450973
-    },
-    {
-      "t": "40bn asha call ceo duty franchise has lifetime made more passes revenue said says sharma than xbox",
-      "ts": 1793067415.9264903
-    },
-    {
-      "t": "adapted being bloodious company developer feature film game games getting horror into kitchen madison producer production psychological sonic story teaming",
-      "ts": 1793067419.5190735
-    },
-    {
-      "t": "26 addresses announced apple applecare appleon contact crack cracks device display duo iphone issues local media occurrin october offer outlets overseas regarding replacement replacements screen several that through time via will",
-      "ts": 1793067422.9429045
-    },
-    {
-      "t": "20 after arts austin bioware close composer days down effect electronic game has journey mass minutes music next released score shares shut talks while wintory wrote",
-      "ts": 1793067426.6082735
-    },
-    {
-      "t": "2026 4 8217 after anyone both day days eliminated end exit finished first four known legend marked monday now results road secret stage swiss team teams whales who worlds",
-      "ts": 1793067431.512181
-    },
-    {
-      "t": "0 1 2 8217 able after alive another anyone bo3 can day down dream finally going hopes keep kept legend liquid move showed stage sweep team their tlaw worlds yeon",
-      "ts": 1793067434.9420679
-    },
-    {
-      "t": "1 after been calendar competition day each fill first fncs half has just last leaderboard leading mini month over player running solos stands this where who",
-      "ts": 1793067438.362495
-    },
-    {
-      "t": "6 allied ambrosia behind central chapter confirmed crystal final florida gta guide has here leonida mirrors real refinery rockstar run still sugar town unknown what",
-      "ts": 1793067441.7731333
-    },
-    {
-      "t": "2026 breaking building careers claiming competitive esports female gaining gaming girls momentum nigeria nigerian place playforward revolution stereotypes their women",
-      "ts": 1793067445.1883986
-    },
-    {
-      "t": "changing esports how industry nbsp nigeria pulse sports",
-      "ts": 1793067450.0890136
-    },
-    {
       "t": "000 200 220 98 activity agents all cli coding count cumulative disclosed drive driven executions found have its million surpassed surpasses tasks topped unity unityas user",
       "ts": 1793087755.0634205
     },
@@ -21268,6 +21184,26 @@
     {
       "t": "0 2 24 35 after aim alive ancient beat bucharest dendele finds game his knocks leader major nemiga now nuke out place red robo series settled singapore stay that their three went",
       "ts": 1793128386.5822952
+    },
+    {
+      "t": "after esports g2 game has igl its leader organisation parted parts team three valorant valyn ways years",
+      "ts": 1793141888.9916475
+    },
+    {
+      "t": "aggravated aleksi aleksib been convicted court finland finnish four fraud game given has leader natus navi tax vincere virolainen",
+      "ts": 1793141892.5286255
+    },
+    {
+      "t": "according ahwoo creator dayz dean down free game grun gruntz hall has horde launcher linux multiplayer playable prototype release released releases revealed survival top windows",
+      "ts": 1793141896.1337357
+    },
+    {
+      "t": "00 2027 23rd battle both company down end free game march mobile nintendo play pokémon service shut switch team unite utc will",
+      "ts": 1793141899.6428971
+    },
+    {
+      "t": "2027 agreed bowler colts eight exchange have indianapolis nelson pro quenton seahawks seattle third time trade",
+      "ts": 1793141903.4285803
     }
   ]
 }
