@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wZGV4ejljYU1Qd1pWekctd1VCRzgwcnA4SjRJSEY4VkY4cFhQOGhXVmFpZFFxQ2lpS2ZlZkpXU2piQWM5d1FwMFFWSWdkWmdwaVF0X1I0aVN6cFpndTQyVUlEQVMxTzFFUy1Z?oc=5",
-    "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
-    "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable",
-    "https://pley.gg/cs2/he-definitely-has-a-lot-of-flaws-xertion-details-how-mouz-countered-donk-at-esl-pro-league-season-24/",
-    "https://pley.gg/cs2/falcons-face-natus-vincere-in-playoff-qualifier-at-esl-pro-league-season-24/",
-    "https://www.invenglobal.com/articles/26864/aion-2-passes-400000-concurrent-players-on-steam",
-    "https://www.invenglobal.com/articles/26863/paramount-completes-acquisition-of-warner-bros-launches-new-company-skydance",
     "https://www.invenglobal.com/articles/26861/a-unique-challenge-for-gundam-approaching-its-50th-anniversary-gundam-rogue-orbit",
     "https://www.invenglobal.com/articles/26862/gundam-rogue-orbit-reinvents-the-series-with-realistic-weighty-action",
     "https://www.invenglobal.com/articles/26860/astro-bot-boots-on-pc-as-ps5-emulation-makes-rapid-progress",
@@ -7999,16 +7992,16 @@
     "https://gameriv.com/lol-patch-26-22-preview-all-changes-release-date-and-mel-update/",
     "https://esportswales.org/tempezt-joins-esports-wales-as-new-member-club/?utm_source=rss&utm_medium=rss&utm_campaign=tempezt-joins-esports-wales-as-new-member-club",
     "https://esportswales.org/welsh-esports-league-returns-for-season-12/?utm_source=rss&utm_medium=rss&utm_campaign=welsh-esports-league-returns-for-season-12",
-    "https://esportswales.org/banten-welcomes-160-national-teams-as-indonesia-hosts-theworld-esports-championship-for-third-time/?utm_source=rss&utm_medium=rss&utm_campaign=banten-welcomes-160-national-teams-as-indonesia-hosts-theworld-esports-championship-for-third-time"
+    "https://esportswales.org/banten-welcomes-160-national-teams-as-indonesia-hosts-theworld-esports-championship-for-third-time/?utm_source=rss&utm_medium=rss&utm_campaign=banten-welcomes-160-national-teams-as-indonesia-hosts-theworld-esports-championship-for-third-time",
+    "https://www.esports.net/news/gaming/gentle-mates-valorant-roster-release/",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVEVqZ0VCTUVaOW9jeHNkMmZJUE9zV1JWMmdubkR6Vm8xUmNKanhEYTdUWkh3QWJvRVZOblI1QTUwOWl4dmlrd295eE9UeVdzek5kY000RGpxakFBVmhVc3NqRHppRXdFS0Z0emdyM1c1dzEyQmhjcS1zN0N0bmdJWGJB?oc=5",
+    "https://g2g.news/esports/free-fire-india-to-go-live-again-from-28th-october/",
+    "https://www.hotspawn.com/mlbb/news/pokemon-unite-shutting-down",
+    "https://www.hotspawn.com/valorant/news/pal-derke-team-vitality",
+    "https://theloadout.com/phantom-blade-zero-wins-praise-for-combat-stumbles-on-story-and-frame-rate",
+    "https://www.nerfplz.com/2026/10/top-team-comps-144-point-and-click-vex.html"
   ],
   "title_hashes": [
-    "77f22d9425169b2d60bad5f005bde58b",
-    "793d669cb0eec44c8caa291c137cfd7b",
-    "e247a62d8040a40ff5e1b6894d368b8f",
-    "0b177d5d75c9dd3fa5bf9468523d43c1",
-    "292ccbda3d3f88a815d5bdd0a673a78f",
-    "8ed7e339d07723471166efa1cf5788bd",
-    "60ed8b541e2b25f1e30a90fa788c7032",
     "292159ccdc924d6e7e62c0455add0279",
     "bd9651c2711a55502813f35467ad4c4e",
     "4e517cc30dad89eb8c2485ed167374ba",
@@ -16001,7 +15994,14 @@
     "13c1718157a6aa9e10dc0a884f255497",
     "cfeb7f51f87b1835c7f9397292ca22ad",
     "97e4c3b79df8a5ab0b02885d84fa3f88",
-    "26d7ebaac9f29ce5b2d189983b8b3244"
+    "26d7ebaac9f29ce5b2d189983b8b3244",
+    "68424557d95ad3765e04ab30c714c37a",
+    "09e949254139283d0f4dc35784074be3",
+    "f8414692353419aa9ce2bd0b30f784f0",
+    "611e4c46125b3ab77bdcbd9a1dc5ca4a",
+    "cec469b1b202bb48cd05377d1f2ac3fc",
+    "0bde9dbf67dc4714f1f883cb902418de",
+    "53e0cf04823a3942d5184d19d3be7cbe"
   ],
   "transfers": {
     "pages": {
@@ -21172,6 +21172,26 @@
     {
       "t": "160 18th 20 2026 banten championship edition esports federation host hosts iesf indonesia international national october proud taking teams theworld third time toannounce wec26 welcomes world",
       "ts": 1793109169.1456192
+    },
+    {
+      "t": "active ahead all along both cleared coaches coaching decks entire first five french gentle has have its mates organisation par parted players release roster season staff valorant vct ways",
+      "ts": 1793109174.4337595
+    },
+    {
+      "t": "2026 28th across again announced available bringing download experience familiar fast ffi fire free gaming garena india live october once paced players tailored that today will",
+      "ts": 1793109178.0067067
+    },
+    {
+      "t": "2027 after announced attempt big despite different down enter esports format genre moba modelled pokemon popular shutting timi title titles today unite",
+      "ts": 1793109181.4021916
+    },
+    {
+      "t": "8217 8220 8221 after also announcing best champions coach days departure derke ever finish gregor have head morton moved org pal part runner season shanghai shortly team two valorant vitality ways",
+      "ts": 1793109185.0247743
+    },
+    {
+      "t": "144 aimed answer any available can champion click comps control crowd dodge every ground instead isn piece point quot sidestep simply team this top usual vayne vex you",
+      "ts": 1793109188.7802103
     }
   ]
 }
