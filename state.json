@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26822/cygames-to-sponsor-breeders-cup-sprint-for-third-straight-year",
-    "https://www.invenglobal.com/articles/26821/worlds-2026-cheat-sheet-schedule-teams-format-and-pickems",
-    "https://www.invenglobal.com/articles/26802/21st-gyeonggi-game-audition-receives-404-submissions-selects-13-finalists-final-round-set-for-oct-15",
-    "https://blog.counter-strike.net/2023/02/41124/",
-    "https://blog.counter-strike.net/2023/02/40989/",
     "https://blog.counter-strike.net/2023/01/40918/",
     "https://blog.counter-strike.net/2022/12/40758/",
     "https://www.dotabuff.com/blog/2026-09-15-next-patch-wishlist-chaotic-edition",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27757/teasing-a-comeback-for-10th-anniversary-com2us-opens-teaser-site-for-destiny-child-assemble",
     "https://www.invenglobal.com/articles/27756/how-to-increase-corruption-in-last-epoch-fast-farming-tips",
     "https://www.invenglobal.com/articles/27755/113-hour-story-library-of-ruina-recognized-by-guinness-world-records",
-    "https://www.invenglobal.com/articles/27754/call-of-duty-said-to-be-bigger-than-marvel-cinematic-universe-mcu-reaches-53-trillion-won-in-lifetime-revenue"
+    "https://www.invenglobal.com/articles/27754/call-of-duty-said-to-be-bigger-than-marvel-cinematic-universe-mcu-reaches-53-trillion-won-in-lifetime-revenue",
+    "https://www.invenglobal.com/articles/27753/once-an-official-asian-games-medal-event-pok%C3%A9mon-unite-to-end-service-in-march-2027",
+    "https://www.invenglobal.com/articles/27751/stoneage-idle-adventure-adds-server-transfer-and-new-spirit-growth-system",
+    "https://www.invenglobal.com/articles/27752/line-games-quiet-hits-1-in-top-demos-on-opening-day-of-steam-scream-fest-5",
+    "https://www.invenglobal.com/articles/27750/world-of-dokkaebi-teases-monthly-content-expansions-through-next-january",
+    "https://www.invenglobal.com/articles/27749/phantom-blade-zero-pre-downloads-begin-ahead-of-launch"
   ],
   "title_hashes": [
-    "a7765e9f2fc70917368606afb5b58e7c",
-    "32be30bb5e53eb59bc5c1df9f4720c50",
-    "c84f64954ff130ae0d7e491eca96d138",
-    "5aad1cce0da8edae61b87349241bdbd1",
-    "ca3ed2269f0e48c1ff91b418c07dcee6",
     "0822bf1af0c022b3d60f411735c09ad7",
     "c7fa3429060ec0d4fb410615dd68f2c3",
     "36c46af2208caafbf9f938fa71ee4938",
@@ -16001,7 +15996,12 @@
     "d97bd8f409525b3f9af279e3ddcbf8a3",
     "49de838ad7895cb7c7b065c395c9b27e",
     "9fc748def24676fc43f17cd3faecb86b",
-    "d7fd12f3d6bdd6eccf84e6c64d4e5cfc"
+    "d7fd12f3d6bdd6eccf84e6c64d4e5cfc",
+    "8437dc0d0c43d3484417c560ffd8ef64",
+    "49ba5f21ad9df98902c3cf36efaaf682",
+    "59b08518fe90ae3482a49ee54c615b66",
+    "e3049227689e9714f889207f5e61ecdb",
+    "b4af2b8e26f0ea2764f88186742d748a"
   ],
   "transfers": {
     "pages": {
@@ -21336,6 +21336,26 @@
     {
       "t": "40 53 approx bigger billion call cinematic duty has lifetime marvel mcu reached reaches revenue said series than trillion universe won",
       "ts": 1793087769.2718346
+    },
+    {
+      "t": "2027 23 9 asian both down end ending event games its march medal mobile nintendo official once pokémon service shut switch unite versions will",
+      "ts": 1793087774.5627894
+    },
+    {
+      "t": "27th added adds adventure announced developed growth has idle mobile netmar netmarblenetmarble new rpg server spirit stoneage system that transfer",
+      "ts": 1793087780.5910113
+    },
+    {
+      "t": "1 27 5 announced comedy corporation day demos development fest game games gamesline hits horror its line october opening quiet reached scream section steam that top",
+      "ts": 1793087784.05962
+    },
+    {
+      "t": "communication content corp dokkaebi expansions forward games gameskakao january kakao long monthly next player pushing support teases through world",
+      "ts": 1793087787.5298204
+    },
+    {
+      "t": "29 action ahead begin begun blade downloads game has launch october official phantom pre release rpg set wuxia zero",
+      "ts": 1793087791.1258752
     }
   ]
 }
