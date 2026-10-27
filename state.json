@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/tes-toplaner-zuian-set-to-miss-lol-worlds-2026-with-visa-issues/",
-    "https://insider-gaming.com/wordle-hints-answer-october-7-2026-1936/",
-    "https://insider-gaming.com/battlefield-6-season-5-las-vegas-area-51/",
-    "https://insider-gaming.com/marvel-rivals-unveils-avengers-infinity-war-endgame-game-modes-for-season-10-5/",
-    "https://insider-gaming.com/karmine-corp-unpaid-wages-vatira-atow/",
     "https://insider-gaming.com/best-gaming-chairs-amazon-prime-day-october-2026/",
     "https://insider-gaming.com/undead-labs-boss-reflects-on-indie-dev-being-life-or-death/",
     "https://insider-gaming.com/state-of-decay-3-several-thousand-players-a-day-game-pass/",
@@ -7999,14 +7994,14 @@
     "https://esportsradar.gg/corinthians-faces-potential-520000-liability-from-30-esports-labor-lawsuits/",
     "https://www.gamesindustry.biz/developers-need-to-treat-early-access-like-a-real-launch-because-players-do-early-access-games-are-on-the-rise-but-so-are-player-expectations",
     "https://www.gamesindustry.biz/ukie-calls-on-government-to-modernise-video-games-expenditure-credit-ahead-of-autumn-budget",
-    "https://www.gamesindustry.biz/timi-studio-groups-pokemon-unite-to-shut-down-on-march-23-2027"
+    "https://www.gamesindustry.biz/timi-studio-groups-pokemon-unite-to-shut-down-on-march-23-2027",
+    "https://www.gamesindustry.biz/sucker-punch-productions-reportedly-lays-off-24-employees-following-launch-of-ghost-of-yotei-complete-edition",
+    "https://europeangaming.eu/portal/press-releases/2026/10/27/216891/st8-mcp-ai-assistant-usage-91-percent/",
+    "https://europeangaming.eu/portal/latest-news/2026/10/27/216885/danish-gambling-authority-campaign-gambling-elements-childrens-games/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/27/216877/games-global-high-limit-studio-fivefold-the-gold/",
+    "https://europeangaming.eu/portal/latest-news/2026/10/27/216866/alberta-igaming-revenue-september-2026/"
   ],
   "title_hashes": [
-    "acc2064b180cad87457c0c59f01fc37c",
-    "ab127066ed5fb7dc45fd1ef386893d30",
-    "bd5525d357dd84b00d224cf000375595",
-    "cbac3a5adc1088278b0a748cb0df334e",
-    "174c3c01064f68a0f837849cefc963f5",
     "a68ddb39bf4af9f791e56e076c704ea8",
     "f9c5c074c4098ac44b30646d93e7fbd9",
     "b3d0dd84578629568a0ede2f6221fc34",
@@ -16001,7 +15996,12 @@
     "6b8921f9ca10e8f5eb0dfbd52a2e289e",
     "e86c170d1c29e780a309015ab723fcce",
     "9eec1b1b3e4bc6c76aa33d77223dd33b",
-    "9c81fcff0a2da597b3635bfdaccde8df"
+    "9c81fcff0a2da597b3635bfdaccde8df",
+    "5a6e79429d826d66edd42a8c41d0f698",
+    "67f23bdd480e93b5a9db48ff2a691ef5",
+    "4e5486a58fa21c39e4b5a371f669e15d",
+    "1059aaa94be2f8056c9e7bbb2d13f8f5",
+    "179dd669db18b34e98ca60b07a9b6016"
   ],
   "transfers": {
     "pages": {
@@ -21212,6 +21212,26 @@
     {
       "t": "2027 23 announced company down eacute group has march mon more offline pok pokémon read shut studio taken that timi unite will",
       "ts": 1793109208.1312056
+    },
+    {
+      "t": "24 affecting amp been complete developer edition employees following ghost has hit launch layoffs lays more off omacrtei productions punch read reportedly sucker yōtei",
+      "ts": 1793109213.41507
+    },
+    {
+      "t": "000 10 8230 91 assistant data focus group have mcp moved now operator operators pass past piloting post queries query reported reports rise self shows st8 tools usage use",
+      "ts": 1793109216.7538264
+    },
+    {
+      "t": "8230 authority beyond campaign casino children danish elements fake film gamblin gambling games get its launches looking parents platform post screen shopfronts spillemyndigheden styrpåspillet using",
+      "ts": 1793109220.260325
+    },
+    {
+      "t": "000x 200 8230 fivefold fourth franchise games global gold high instalment launch limit maximum post potential raises series slot studio win",
+      "ts": 1793109223.7363615
+    },
+    {
+      "t": "24 56 6 6m 8230 across alberta charged costs entry european first ggr hits igaming market million month monthly operators per post report shows split worth",
+      "ts": 1793109227.1817718
     }
   ]
 }
