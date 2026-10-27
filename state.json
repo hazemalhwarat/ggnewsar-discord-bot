@@ -1,22 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/counter-strike/news/vrs-shift-5",
-    "https://www.hotspawn.com/valorant/news/valorant-champions-shanghai-playoffs-teams",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdG5VNU1rcF9RLWxramFfV1J4VlJnQ1lMTjQyQ05Udm9GTGdOY19sMGZULWtWa1IxSVY2NjRMQ3NLUl9TMm55UzFVZ1A2Z3hLMGtpQUl1Z3BJeFEtOS1pYWZmeHhWUmNzQTN1bW9KcXhJRDVBWktvT3JmZkZQbWZhcmJmbnU?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMQmxqVGdoRk5vOUlYQndhMFJpbndpdVBVTk9VRlFSaVZiUDdnbk5JOGlDNTFnSldGVXhFLWNOVFVaRUhUZXRIQW1fS0Y4eVYtUUFBcVhkVHh2Wi0wS3ZPS2s5WEZyYVJuR1Q3RFRkYk45SVhxc3Boc0FxSXIydw?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDN0c1hVVjFybGlmeERYNWpfNHF0UVlmN09sUXZzcE1CMUFBZkZaN1cxRjJCaEhuNWJWb05LX2JTQ1hkOC1keUhrUXFvZ0dUMVktTkptNmN6RnFVSUlTcVhDZG5QcGhmUmVKRGR2dGtjQmxoUDlQRzV3Z194azlRSEdqQ0ZwLXBQc3N1Yk1XQ0s1WW9DM2R3?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWhqSzkzRl9qOTFJWE9veEMwVjJmaHJIZWlKNTdRRnliWk5oS2hTc1BnY0EtWHg0WGpydjMxWjdLSE5nZDRVdEVaUlU4VVpuaGFOQjVua1p6UlJCU3JpMXk2QTVjMThGaHgtSzZkNnc1aDRldnE4dWV0cVI0QUdSSy1mdmVNSzhRWlpWUEZMTGVWSmpN?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa19TbjNpNjd5ckZ4MlV2X1BxZW45R1FTbFRncTNmekdWWnd6dEQ1UWdCNmxVcVB2cml2dTNvRGNaME8tNGpTSGlnU193LXdGMTItRFMxYzBEUUFSamZjcVRHUm5fblRHTkdtUXFWampRTDEyLXMxWUFMdDBBWkZ2NEk5VzFPQ1R3OTliTg?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IRnZxLWR5ZWQ5Q1gxSVdja1hxNzAtS0g5TnBZVzQwSlhCUm1GaENXRHpKZ2NwTGEtTm9ob2lMSUxvLXJoaGpjQnRuSjRzZ3huYTNscHJKVmh3aVNkRlVSdEg2bk9qNWdPWjV3b1RqNUpUYmFjUUdxdnpsN1JRUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHB6dnh6VWZHRzNVQXVWMm45S0lRRkJ0SUtCdjNZRHFaUWtYSTRkRHNsTFdNUGdqWGJVTy1CTnRZMV9aUDdtQ0EzNUhXcnoweThKc2NTUG9PQlpaSFFWazZzWmFKc3hRTjZLQXdUMGpzODl5WEl0MUlGb2xpS2VMQUk0OVF5RG8?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwZW9CTUpLUUFmTno0NncwaFVIVms5N0tjN1Z5ODd1VkptbHhhS3B6QzJqV0MwbmxWS2FoaGthN3FSdU5xTkRUbjYweXBseXk2d0lEWUZfVHhxR0E5N29SNjkyaTNRdw?oc=5",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd3BLRXBGdEJTbTNPN2xIUExZYUdSU2Yzbm1KLXdsQnlmT09scmIzQjlWWVk1cG5JRWI5aUdmWTJRd3JfWHN0cFg4azVGMXdJMl8wbjlicTU1MG8tR2MtUDRFMTEwaEg4VHVLdHJWYnJIQm1XcVNMekhkaTVMcmVCclB4QTJHcExaRmswMUpuLXZVbGpCbHNNbjh1Sm1oMXJIUC1CMXVtT1RFWTVtWFVjZFhaSlROUkRGYXhlbTBlSV9BdjBoNFVpZW13YnBKUGtYcldBUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1VIQjB5bHBja0pRMjVzdjBNaG51ZnI0R0hDUUtJbDJsaFhMenNZOWVraUk5M3FxdzdnOTQ3SGtHU3VQOWZDZm5hZWd1a2tqUnk1MGhmc3NzYkhlUENHQWRncHR6R1d3Qno1RWtvajVHM3ZQSFotSWVhNkQ3X1o0NExrVHRoU0xpMlVaTWttekt1c3M2WFdB?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVh3Z2xXTTdMaHRPbDYzMUZaR191a2xNY0tXQndHOEZ1ZkVvbko0U09BZ21VTXVtNFp1eEpvcjJna3dLMWFBeE9iZ2tHQ05Ea3BaSFhEX1VyWHhTT21yTjZYeERqYVlacUZJQ3M4X0Q1VkhhT1ZRMWFvXzlRemI4dDZaYjRlRHNfbnd0U1hvX3F0eFpuVVFOTFdkQQ?oc=5",
-    "https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1",
-    "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
-    "https://www.gamesindustry.biz/brazil-wants-to-be-in-the-top-five-game-producers-in-the-world-in-less-than-10-years",
-    "https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m",
     "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
     "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site",
     "https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results",
@@ -7999,26 +7982,26 @@
     "https://www.talkesport.com/news/valorant-13-09-patch-notes/",
     "https://www.talkesport.com/guides/fortnite-override-recap/",
     "https://www.talkesport.com/news/gaming/valve-steam-ai-slop-ai-clones-next-fest/",
-    "https://www.talkesport.com/news/dmz-duplication-glitch-infinity-ward-enforcement-mw4/"
+    "https://www.talkesport.com/news/dmz-duplication-glitch-infinity-ward-enforcement-mw4/",
+    "https://www.talkesport.com/mobile-gaming/hok-diwali-lit-fest-honor-of-kings/",
+    "https://www.talkesport.com/streaming/what-happened-to-skylinetv-adam-wolke/",
+    "https://www.talkesport.com/news/pokemon-unite-shutdown-date/",
+    "https://www.talkesport.com/news/call-of-duty-40-billion-revenue/",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0VRcXU4NUxxMmZUWWVIaTBxaUo0eXlnLWoxOF9ORjZwOWxkZ00ycmR2aHROdUZDTlBCekFJZkE1TkMtMTlJbGJRdVM3a1gtNTJTMlh2TTFtMHJaN3FaTUZjRWVFb1loanVDdjBRR3NqdGM5LUN1ZGFrWS1hX3VzX1dRQTZUNktaVnV1eGRQQTcxRDhLNHZWUGxhMGE?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXREeDY3OE9MT1JSVUF4UjJ5VUNSRUx5NlZ2UnBYUVhrUjVXM2xnamMxbDBJazNkeUdhVWlublhST09iMlo4YVRMS3VfOFNab09sejBOQk1NUllMN3dGNW8yd0NabWNNTlo3ZlE4Ym9KSXJkdTdrQnhaQmZpak42aHdTblF5cVp0ZVpaSXNkLW4yVFRSNDNNZFVzd0tiYmljaDNNV3dNa3Z0NkJCZk9vVm9R?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XejJxaHBOeURXb1Uzc0gxMURyN0ZLRzdXNmJaMEM4czhiOHZvY1R4c1p6TGxJcFhqVlVkRG9PbmRleVFZT2FmOC1oUHdPLVdVcTlYRXk0bXVJZ2dqS3p0ME5kdS05b1ZxcHhaRF9Ycw?oc=5",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZanFVMVJ4S0g5RGc5M3VNejVsSHN1SFRPcW5kbkVXOVZLMWxNeXh3M1h0SjNBRmVPMUxJTHlrX0lKdkJwM1lRV29B?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFowbFdNcFlwazgzcnFUT3hCQ2Q3ZVpPUUNsdG55ZHBDVXZaMU5BdnM4T0VRVkJYclFib1htVU05cjlGOXJMYjQ5LXVrQWdFSTZGQjYtRUhUbTZOZnF2QU8zY3RlSVhONWdDWkVRamhpQ3NyZXpmMmFZQWdqVjk5MnZQYW9UcC15V1VCUHFRM25HY2x0YVdvVzBiR1RjQ3F3WS1ENVgzVGVNbk1MVk9lLWtLanVSQVVsV29oNGhscw?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SRzZGQk84T2V2UHV3Y3g1eFVlcGVUNDJQQjFVNzJWdG16R1RtaFdQVHhpbTRkbjFDaG93Q0ZpZ1N6eDF6Rmw4YTFELTI5amM3bnc?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xYzNqY2JjNndsWTZUQVRUNlAtaElDcWRLbzNhdWJlZDJJRDhPWGpBbnBxaWdDVDJkc3hMdnBDdVdJNXg3U3lWX1dSTER2dHY0LU1XT0JobTVVRXRsMVZVN2FvbkhSVDlUOExYSmdpbWRwME9vSzIyMnB3?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HVHk4Ykp5elQ1R19heTRzdmdkTkYtQ0RlREx5SkcyLWRtaDZuN1BfdmprMnk0bUlIcTk5Um85YWlsaExJVFo1ZWltM21mcG9HZkF2TnF5N0cxRVMzOWNZZi1FX0J2V1FxOGc?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyVjlPQVdfS3hQMGJxU1VqenkzZG9GeHNkQ2o5bVp1a2VwSWNCWE5vOXhhZU96REpicG9sMHN5UUV1Y0lJeUl5X2dfbV9VbVk1RXF4dWVJemJKR0xKSk1LNnU3eDdZVE9CNG0xbzVHZTg?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY216ZVJQRlpkc011c2xoazM0dnRuN2Rna3ZqT3lrTEdVMXJHMjRpZXlMa0NnR3dKaU03OHpwUkxaYm9Ka1pmYVB6XzI4dHhndkFHRi1TMnF1ZGpDM0E2U2QybTY1QVFOTnNhb3g0c1pQdTNOZGZCVTRoSHA1S3QwSmhVbTFvVXRIQzRONlVPWEVXTlNjLVdGcXNUYTA3YU16QUppQS1zQTdCbWc2NUlYUEFBbERBOTVWS0VGaXlGSzFWaC1jdXB5SF96eTLSAVpBVV95cUxOcnVELTJObHVsTzc2MkZyamdYVzJ6cnNLMTNFQjIwV1NIX21ET09VdEJidm5fN1pBN0JNRGxIZGdzM3NNMTR4VXNWenhHQnRjNDVFVVBPbHpRRkE?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUlkZkU3UV8zVjRXVjVvR29SZWtidmZwUUdKVk9ZZHdnclNHZW9XOGpJMFVHcHVWNTJtQTgyWlNhUHpXU01fVF9pdC1xVGVGYVA5SWZLeFlXU3prUUk3OUdZekg4dW5qYkhKeTd2UTdqNWFvYmcwT3hqN1BYcHVQetIBV0FVX3lxTE00M0JCR1Y3Y2QwRnhoaFBGSWFzejF1LXpXVG5CZmRtZmt0ZFVWOTNndGFRdzRhWDRLb0pybnRZaFpjNFBQOFF6Q1VkR1loUDlxbXBXem9UMA?oc=5",
+    "https://pley.gg/valorant/store-bundle-post-champions/",
+    "https://pley.gg/cs2/benched-by-g2-in-june-sunpayus-now-has-fut-saving-their-money-for-his-awp/"
   ],
   "title_hashes": [
-    "5b81dd091dcea37f016da1249faacfdf",
-    "4fd9e6f7a3d45b5aa99aa2867dc679d7",
-    "5f4520428af7c1c9103df0baae6b5e9a",
-    "a6063a21536025d26b365ac78778476e",
-    "a87c62d265c6b98c6d4f2954111143ef",
-    "79ad714c172d6eca2ecec71880d7a4fb",
-    "eb6204cdb06361baf0bae9a436b63b67",
-    "c333d17ec0b4842f1113258cd02f90bb",
-    "c333d17ec0b4842f1113258cd02f90bb",
-    "9d4fec2abbb758ad7b40ec9c9ca7b2e0",
-    "32e67799045d2de88341233aff921c68",
-    "1be9454a408c3c7c20d44a838956ba95",
-    "e60eb658d07dca156c4751941df00a6c",
-    "b577bf3b0e23343d498bac670dd42486",
-    "15aced4a9aefb28c79b50951f98144ac",
-    "7c44aee98ff87d753404922d0172baf8",
-    "850d1d695ede7a8ff8904a779f7082ca",
     "cd9737309fc59f42ee6a6505566ee54a",
     "377e133c3a63fc785a8c76fe16f4e680",
     "a38e576c557bfba80a480f23601b1b4d",
@@ -16001,7 +15984,24 @@
     "732f9803d2f3f8fc77af142ce70f8cfc",
     "b809b28e25a4ae647a4c965213c57e23",
     "7f7179905c50b5bae27d6b354fdd1e98",
-    "56e2896bce799b23b562fd08ebe940c5"
+    "56e2896bce799b23b562fd08ebe940c5",
+    "ef49bba49b5d6ef73e1fd2e58ea07fda",
+    "bc382dc708cfa6bceef818fb60280bb8",
+    "f0425d8e3b097031597f359ff2169472",
+    "69883f688e4ac2898bfcd02bc3c4f444",
+    "ddadacebec1564d39175689fd28a5e80",
+    "6ab8c45e196e71079d04f7750fe33d90",
+    "c14167865f6fe7ca0ffc4583cbe91806",
+    "3554ca17f79e3dc208e05dd91e460727",
+    "240eab61cfad1b3d934fad43d2a2e803",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "121d477d9ac74918d960276bb73a0880",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "e1083ec0ab2c7a9bb944015ef7ba0f70",
+    "a9de4d58edb421583011c2b75459055f",
+    "2312c214f837e52be9f21cbad0c8eeb2",
+    "fac190dfeb9a034af0bcb7d23ca2cb88",
+    "469d46f268a4d90180434bc8f0ee3645"
   ],
   "transfers": {
     "pages": {
@@ -21252,6 +21252,26 @@
     {
       "t": "4 account action against announcement begin begins call came dmz duplication duty enforcement glitch has infinity led modern mw4 official players through updates ward warfare",
       "ts": 1793109246.3548539
+    },
+    {
+      "t": "adam after age brain conflict died final haemorrhage happened here his hospital how knossi known last montanablack paid post skylinetv stream tribute tributes weeks what wolke",
+      "ts": 1793109251.7440386
+    },
+    {
+      "t": "2027 according down fan game know known march millions offline players pokémon popular reportedly reports set should shutdown shutting taken unite what will worldwide",
+      "ts": 1793109255.4051032
+    },
+    {
+      "t": "4 40 billion call days duty few following franchise has incredible launch lifetime marking milestone modern most one only passes revenue surpassed usd warfare whopping",
+      "ts": 1793109258.8030682
+    },
+    {
+      "t": "2026 bundle champions departs expect next store valorant what",
+      "ts": 1793109262.365237
+    },
+    {
+      "t": "0 3 awp before bench benched bucharest debut event fut g2 has him his into june money months new now saving says series signed spent star sunpayus team their three treat",
+      "ts": 1793109266.2352896
     }
   ]
 }
