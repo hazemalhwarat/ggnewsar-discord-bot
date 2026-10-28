@@ -1,27 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xTG9LQ2VXMVRpZWpqc01vZi15VUt6aGx6WFhrTGpwUFBWZXlEZXFzUjRWc3M3MFlhUWdWSFVBUnNVTHZ2ZEZYX0pMc2NTSHJTQVdYLXpRU0lPQTQ2?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmpfcXQ1V1NZX0tDdWtXaU9FcXJIcjJrWVFpVEs3SmI1OTVXMGREMVljZGxGbFFlSE5OTFV3ZHM4OEtCaWJLeUtoWkpRSGVPaWlJYnVFZW93QjRtNnlrTXktZmZ4dlVLOEVaUDlUdlVuSmI4VkYzVHg0eU96aUxSVzZVU3dTVERrWWxSR3BmUGthUXE4NXc?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFNNSHVKRGhkSTBQbDhBeGVKWWx2U0JldEFKdzlKY0ktLU9CekJ3NE5vQ1I1S3MyYWxEV21tR2lXZVotUDhjclRESXEzUTZYZE9PRUtPa3JwcF9fTTQxQ3BKbHg1ckgzSmFaT25OUXJNUElyUFV5NXo3c1FRVUwwdkxwblZYZ1BjeGx5UWY0Y21YYUU?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE91NHdtU3VEYmc3c1Jfd0ZXSkNPSG54bUt4ZlFPaWZkWmhXVzk3UWxrSTY2b0tKQnRpUkFDc1BLTEZFa3ptcTh6SExncEItQ3FqSThIcE5mV3lwTlk2WEJQSkpRNmZrZ2UzZ25CMjlHRUstckwwbmRaSy1PbEI?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU000ZlltU1doNFplQlVrSXJHdWdOLTdlUGRpWk5EQlN0QXUxT0Vqd2cxUE9PR2JrN0tFUDRlZllJeVY2T0N4T3l0dWZVQ1U3TXBGVWJKQ05JWGwwYTRxdzdmOWFaR25GLXpDems2bUtzTFltODV5OHEtWFFVZTBhZ1M1dmVoNGI2eVRtV3ZuWHFwaDRhTGFTaTM5SV9FSWRudWc?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSE1xbnlfNEFwZVpwWERZWDZVeGJEREN5bV9lM3lWR043dkVUMk9FN0NkRC1nNEdlVnNHdFdTRFhPX2NxazVqcWZIdV8wVVdOOWg1UkJNd0FfdjBFckMyVW95STB2ekJkcEtaeFBfbW92MW1xSzZYM1Nhdm0zZ0ZwMVd4U3ZTNUV4dFNwX2JJTXFPREJfSDdoRUg2NVFnWkFRSEpXOA?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRnc5NXJteTYtNDROUEVBOGZ0MGlCZGZLZWtqNUhpMW9WT1k2N19abkVqYTFnTlhRNUE5N3BXSC1JRF9uMHF6aVNxVTRNYnByLVpZemFCRTVpM1o2OWNmNjBMUXVUdFB3bFF2LW9GU2U4bkdsVC1IUl9ubXVlWERwc2xybXdvZEtEX19LZWZlZFR1RkhFUFRQaVQ1RWlKcjVJb3dYQVFzbnZ1d2NwWF9lZg?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3BLbGdDNXZXZThIYTl4NUFwbmV0NlpFcWllZ3FUVHd5bnBUNTg0aDVWUUNpWXdYajl1NmZROEN5aklLYUp5c1VDTzlUbGpSbzZrbkFHa0VKZkRGLWdrei1EYlVRMzU3VnlQWXp0SlUyZGw5Ml8ya0trR3JpOWhLUGU0LU82dWtkdXdHWFpXNHRxWjQzSi16NEk2c2Q4VktxemhpbG13?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2U0tGcHIwQnRpa1dmYXFnZ2J3czhUY0plNTd6S2w3S25tbzFGbjJwbFl2WHVSWjNEdnR4M21jZE5IRjVWUnRqd216S2N4TWhHa2c?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pMzU3NXJQLXB4SXRyOUhMMl8yUlgzZXJSS1BSSWUtRzNxTG5kTlh0RHhBUnU4dFlQczNIaUpsa1hicWV0dUFOeXBxSXRDaU5FX29sWGNRcEdWQXFKb2RqZGZSbERIZDBXRy1SUFNFVmpTdWRjMUtz?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTlhYNEhFc1Vyclc2akNHU0ItOUpyTldwbGVYWnp6WUtqVktLa0JCTVcxOXg0a1Bqa3NYMTczTUJ6VWE1Y1RLTDFSVW5aT25veTFUQXh6YjI1eVV4TFh1VzZzSFV0YlhIcDVvQWdDR3VkRnZEbFJaM2NrbnNLVVlpYVdFQjd2TVdVV01QaEV4Q0J4TnBxRFVzV0VVZXh6Um50NG0zOWhjblZ2VHFuek1YN2tNVmpKLUtVYlBjMTNB?oc=5",
-    "https://pley.gg/cs2/valve-make-exception-for-bc-game-to-qualify-to-the-singapore-major-through-asia-vrs/",
-    "https://pley.gg/valorant/vct-drama-2026/",
-    "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
-    "https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai",
-    "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
-    "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future",
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObVBJeE0tQ1VENFZRZUVlckx2Sm5MRkx4TXNtRmRxSlBRM25mUGw5WWRyUWN6WG95d1VJaENoZ3d3N1N2WnNNR3ZqcHVTUkR2cGlrTTE5SmF1bzkzRTB1TVdfcW8teU1HYWhnWkJTanJXdU9USXBjNFBFaVlhZVdyaW9Ja1lqME8ya3p6M3pJNkg2bi1QbzU0MnQycmRCdmtjNGpKU25BRkY0SUgxcThqak91Yk1tdXhHbEczUTFQS2JJLUF2em8tUFNnR3hmVFNqVDgwX2N5QjV6aThFSWIxYjZ5OUx1N2NnQkE?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeG5JMkdOTE55ZzhGRjN5MVg0VEVyZFVGSmU0U25aRG42RElXcnExZF9BMkhnNFhkYkQyeUt3b0VWdTV1SmdRMTVGU044cno0NXdiZTczVXVuSmdFVS0xYXdLa2FfaDFtX3o4Vm9hLXQxVXNLcE5XNi1qZ1BDcEFwTUd0dTkybzZXWjkxMw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGtaU0hSLTkybGpFRi1DZTBXV09CSVQ0V2VKZUdHbjVXTl94M0doN0pLUzdQVlBPTzJhc3NQTnBCSEVwUFBUSXdpWmZKVWFiVHJTN01jWnoxTDh5anp5R2s2RXpoeVhGcElPNDF5cFllS2duY1Z4dEhMRFZiZHRYbnNPZWVDVE4wTmJxbFZJRW1BVkZmRlhxN0N3OHE1bkRrY3lpSHZkVjQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0l1Nl9Ja0hQaFZMV1BRM2tkWEtXWXc2YkJRem55Q2ltQUxVUGRVOElUS1Rud20yM0tNeUE4OFBJVVFZZzUxdGQydmswbERvelAwQ010aG9FNFRVZzE3WURScERURTFHRTBLUzAyVWFFRENtakNEM2Y1ZHRfZEx6R2Y4RGRadTNRa0s1c1E3cnBwdGpKUXp1MFMxMXF5ejhNZ0VQTmxLeHBXZWM?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IYVA5eWVxTUZKUW90LW9seVo3WTgxbGp4ekJWVTFJcXFwZmZCZWdWd1pydGotZWpONTRQbzZ0VUxsczJURUVxRm1kV3dDbWtjUDF2bmFoWXJGakZFMUpRMVFCaWNjdnBtZXNMdTItR0ZLRUVWM2l1aU9KQWVibnc?oc=5",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUtwcXpydE1NZk9xS09MUzA1QzdpR2k3SWJQeVlPNkpLMkVXSDhRcEh1N2RQc0plbGp4a0tsNjlWT0NaNkdoSlg3czNYVTRmYWtRazdDXzJOMmZCMGFJdVN0bzd0UVBJUjdPTDR5UmZnYkZHN3kxeXJEV1BhNzZBV2liblEtQ21FTWhzcGozT2tqdU95cUNQSVFkZnNnSVNqMTJ5UXhmNnFzZzFZWHVxZnIxanQ1QThaRDVwd1Z6X3BlX2cxNXczaDZlVTFfRnZIOUJ3?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzkzUUZ1U184TGV4MGN4RUx3ZGNOTmVoemtJSFRBWXhYWUFMTG91UU5GUmZkVzVZZVBacmhZcDVwdGEwdzFHQUt6ZTlyUXFoQl8xbDl0MC1QSUJ2QnVVc3NBNmx1REExa0RxNVlBc3R6SkVZaExIS2pOMGMtQ3RVS2drSFI2V1M0aDlNRmRn?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0JIUEJ4OXNWTFl4aEc0SnJNbnlrY3JXMmlPY1RsLVJzME40M0Y4N2d4RUJ4VjJTUXBEVGRMVFRHMUJvQWJ6dFRzX3Y1ODFldkFuTHpEeW9xUmVqZnRsclNEdWhXZzNlNWx5LUQyTDVfcEtEbTRvWWxNcjVKMWNmTEZ6czFpX1pXMzg3Z3VjZXFXYTN3Z1pJeVhJUkQtU2IwQ0J1ZktB?oc=5",
@@ -7999,31 +7977,31 @@
     "https://www.talkesport.com/news/india/tencent-pentagon-blacklist-bgmi-india/",
     "https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games",
     "https://www.gamesindustry.biz/hearth-and-hamlet-publisher-runic-forge-rebrands-as-pythia-games",
-    "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-better-meetings"
+    "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-better-meetings",
+    "https://europeangaming.eu/portal/press-releases/2026/10/28/216990/podium-bet-ahoy-racing-data-deal/",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMkItOGhaYWhlM2NSc29HTFNFbXZBNWdLYXJ4TlZYa1h2Ni1lT3hjVTU3cVpkd1d5bTFjNUNmVTVEZlFYY1JFVm9GbzlZZUVxclE?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xaGY2cFRIczdMSk9Xc3I2WG5zLTl1MjhuNWdtT2cxbFZtZXI5UjAtVnY0dEtmZ0VvY0RCWlpxOXRrR1Vvd1ZGUkpuZkVNcDVrcFpiZllmbnlqbm1SUlJj?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE55T1RVXzRDOFFseGhnVzFVREFFZDZNYjJlRDVvVm04Z0cteW5RV3JvVERMR1JQNnNUaUlXNkZfNk9zZEgtQ3pLVmd4Z1lrbXFON2czTTJrWWh2QXh4RnV5dVhrcnJGOGtGWXRzNVp5M3NDOXFDRkNqMQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1Vack1sVUx6M09ZYU1SbzZGTlJ1c21DWVhnLVNZWVlSdUxvdmYwd0wtZmhkdmZ5SE8zMzdJNVZnYTE5UjdieV9jeXB4MVhSVThOWFZHakhBQjFxMzNNTTFwVEdhTWd4anNnWE8ydjNzakRvMVhHWWk3eF93UGZ1ZHBJSjdNWFhyYjk0Nk54d2tKSFZXbFhWRHlPbnpFMkR6bXIxTW1TU1ZjVHM4cFV5ZGc5c3lZa0VfRUJXOVVIdVpTV2lfdVhnaHQ4azc?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVpLSjNYcmZqRVNlWkNhbWRtUWgxdE5URTBhcUZzZXR2TWxzMk9mM3JoOEVvSzY2VFNneDhhRzJjMlV6WjJfM1ZPczVSVG5lM21kdGJCUklFQ3VwcllzYXNwTy1SNjhYcVpLQUtVMV8yZ0hORG1ONEZ4X3lYa1hoSGRuN1hlbm9ES3VTNEp1Zk5zZ0hIalBtajBtNDNlQktCcHZOQVM2cEdURzZyN0cxZ09iaFNGRFdrODcxMG43c3dZWElDbmV0UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGFmcmFGTGsyM2xwZi1Qcm4yc2Y5U3k4WG5oYWppdTJSVGdtdmZRblN5bmpmLU1GTUtIUlo0eElVNWFsbk1TVWR0UUlWRDlWcU9KTjFWRFJaSHFJVEp1NmY1Ry1kdWowamhIMFJ5U3k5MmZwcTh5Vmo1a2tXSFptVEFQem0yYUNOUGJkRzYyM1dYTHNmbnhYX3lBZjJ0WnA3WHRDVjZSenpzRzg?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0ozcm1FVkZOZ3BOTlhLNC1RbGZmUmNJX05rcGl4Z01DbEVFam1sLU4ySUdqS2c4RkFMbGFiY082bk53N0FRUzg5VUo0RV9zTU9ZZXRMMU90NEpRandFX1JUcFN1bjV4bFJ2RGwwVTFBM2h1OHBGWl95c3Q1YWRUMVJNV19aZXIyNk1xaVZaamMtelBrSlNPWXBiU3A3MTA?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ScWl6QUh6M2lQUGZNbjdzTUJUcExUdnhONDV5bWtXVEIyczU2SEV6a3FhRmRfS0FEdlZxbGFoOVlEaTlmMVBLeDktNVMzQXAyVHZSSUtR?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tbWQ2V0p1eVdwWVAwdlhjSHQ0TmlUT2h5RVp3TzFmMjc1YjctcmpxVWxRTzljSElUUllKMjJ0YUxMcjNDM1prZG1ZTUJPRTdMRmxLQlZxdU1YVkpvWFpCLWVYVdIBY0FVX3lxTE0tbWQ2V0p1eVdwWVAwdlhjSHQ0TmlUT2h5RVp3TzFmMjc1YjctcmpxVWxRTzljSElUUllKMjJ0YUxMcjNDM1prZG1ZTUJPRTdMRmxLQlZxdU1YVkpvWFpCLWVYVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHdGUGQtaW1IZ0tlVmx4Mno2dVZ1cmhlYVhjX1dwUzRfX3NkWDJHaVVnZjZTZEU5ZlUwMnZxQmMtcEl2VENIQzJOZVl2SXR3ZjVZTmdUZHk0Yks1Z2d4UFE1ajdmekZDdVlrdlVXa1dhWmY1eUNZY1l2WDBwaWxORlFabzM0dzBJTkRrTjZ2YjA4ZEMxOHY3Nm5rNWw2RE5mbUxsSlRPR3VRcmx1dmJwMA?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbVdlel96TDJNekpxbEkxV2U3THY3elhscXZTM3Bmc3dsZkdMci1VN2RSUHlMRjFJVFR2ejVEUjNUWWNKSUxQZzQ0VHRRSW9DNHlUVWpNZjRWYk5LZERvMGd4Ujk0a1ZMRVpQeEtuS2stVThEV2hlMVpINFc3dWsxSzMxd3I0eDFkeWt6eGk3aXB2MXZL?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWFTdEhwc3V0cFRYYVgyTEh1SkpHbC0xR2J5UzNZQndkMXpjYXVSbXRjQWVwNF93RHI2UzhKcURIREFaa2t3clVPdDluSV94eWZrcDUxeTN1dXlCTjJUZ2t6aXk2RXdJSUctdEtDZ2dqTTJMYkRHZ01vT2ZkWEg4NWpXNVJxT0ZDVmNfZF9qTHVBLXJpZUJUYg?oc=5",
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU2tiam9oRHZzVlZldUxoVkMtejMtbWpUMWNmbmxROG5zc2pQRllEUFd1a2VlZFZqbEZLcjJkWldWNWFsVEJlZFlBN2htLUlhZDlabzZweFVCT0h5LWFiUVl5UDNHVUlQM1UtcVlzclFzemhWMWlNeEhEX3k1UTFxdnBBU2VmcFpUQ0lpMmh6WGNFUElhT1E1ZGRQTEl5T09sMjZvTnVhZXRESEFud3hwM2tfZDNaNkZUZ1pRMnl3aG5weWFYZHI1Ui1tVzI0T0RQNkM1eUJhOEFBYTIxSXZCTW5jWnEzTmRpZTVJcXJmUTRDVHhO?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1VXeUpwRFM5dC12VW1BS25ocGdxY3FoMFBobEU3dnV2eFdTS2NKT3R2MzlWQ1FRWTBnMmtTUEVhQVBiY01SRFR1UVNUZFBWQklhUmNGSGhiX3hVQWxaTE1LaFpqTXctUDh1Qm85VENaQXpxRF82ekhZblRWT3JXTjc3MHBMRm8?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHp0aE9MX1kzUUZ2SC1kNUdUbEk1NkJzR1pwOWo3UXA2cWZpTnBJMzNJQk10MXNmVU1WLVUtd0lfN3dib1ZiR05mUGQzUW9jYWNObWVaeDJOTmEzMlB1QlkxcFJMSU1PN0ZrTVZWVnEzU05EU0hZRVY0ZlNRT2ZpbVhKci1ScmxVYjhRWlZ5d05qQzZxSGZ0NVZwaWo0OUF3V1dYQTR4RQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EblNjLWdid2Y0U19nYkNDaEtmRmNZVDJ0RGdmUVF2ZVJfNDJwMzF1WnVuMVl5RzVETnBnWnZWTkdVRTMzRGt4eEdFbnNpWlNab29Db2NiR1lkM2hUdGFN?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd2pOS0JkNjZ3ZVlPNmw3eGk1cjdxaFE4MVNZV3N5U1A1M3EwZ0VBOVNaUUI3Q2xEejlreXR4cTQ5cUF5ajVLZ1U1cHIwcVVyQkJ6SFRvY185NUxYMFJoZGxHZC1zZTJqRXp6MjNERVluMWZMUkpwWkY4aFA5QUZSY05tNm5FbjVWQkpaSkFfOGpORTJpc1ctTEczLThHU3lNRC1PdEVPaG9TQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwdU81QVR3RjlnMG5TclFOcW5wQUVPSXZFZUFDOHg4QlFRbmxuWTUyZnh5LWFlYmY3WVBuUldtVjZjWGd1UTM0NGlCVWFrT0JsakU0MGxsUTYwbHZBNmo1RHZaTm9BRmdTVE1FdXpQdlg?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4V1g3M1QxcXNtbEMwR3kxUlZyLThmMkNPWHFUWXRBSjd4Tl9kVVdtOFpCb0dBaXp5ZVBTRG5kSlQ0VzBJMHkzS3pqU2E?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KZzlsR1p6MFB2WFFYZG9INTRzZVhOTE9QdnFFcGlMT245R0FYMVZsd1RESEhweWVOLWFVZnJNSWpPOG05cV8zM1ctRFd3SG55WlVxdlZ3TVI3SHVSWHcyOFJuLVlieXk1bTNBNTBWWW81dDd0YnZSTGRR?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/bts-jin-jimin-league-loud"
   ],
   "title_hashes": [
-    "72e0af03a34229233c655ee26471e753",
-    "219a426fd0c4dc7c3663fa4f393c05d4",
-    "c5f8ee4a8d2eebf9625ad1c630829b8a",
-    "04913322da5cb3ade4b8fc7d1a9174ae",
-    "1268e7ee1c809493c4e69eeb0091dfb7",
-    "821a947c592684c8557550d4b245b72e",
-    "8c5a7d522ada5df3b9dcdd28d75b8960",
-    "2ea2a392a7692b8703195ec26f5a5060",
-    "573657a94b7bbde0120aaffde89ebd29",
-    "5954f904c35a976a567318386c73858a",
-    "1fa79dea49adf60dd04d8f8ff77a200f",
-    "62265ba9474cdf1cbe3c18b1879a100a",
-    "035c0798887d14c7f4e27162f935a6b1",
-    "046f033126c8b54de1fdabe478ad0084",
-    "c04d2069f816a76d6a2d86ea190de08c",
-    "840dd842313a5deb2129b6ad453f0740",
-    "e486c6f30a89f93d3b235a69b8448636",
-    "43b717986ab7f7ff322cf69b48496704",
-    "c6b60d80f210a7d9f76ba2bc725d8b3e",
-    "372dcd5458ec1f90e6e2dd831e04dcc1",
-    "6b2c12f5fec5068907fc1aa8225ac5c8",
-    "0d37e40b87b1a0742ed4b4c8f1c4942f",
     "cc3b499d243610bc408844d9590e3ce4",
     "d7ff18c9a1a6e834574afcfa98655825",
     "b5472fc51978dc1856b04cd32110539b",
@@ -16001,7 +15979,29 @@
     "3a6d5694e1fe72d46f7dce453e3be1c3",
     "ab9f8b88c65b3bddacb503f802af8a99",
     "f0e88753aa8f7010b4626dbbd5d35b1e",
-    "5bdea6d27e4459a570a811df152e615f"
+    "5bdea6d27e4459a570a811df152e615f",
+    "c3dde1eed202e92f7ce55f9f1a2106dd",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "79061a9cdf119abd3aa95cd10b96f709",
+    "2047331a51935f538be1aac9a76b8ab3",
+    "9adc8946fd86ae81decad34510687fa5",
+    "dfa94f107c5847f40019469dd03475a2",
+    "c3325598f46a2b69eea866b333468ce3",
+    "289134787b3615a78cd6fe92c8527c26",
+    "3cd15f8f2940aff879df34df4e5c2cd1",
+    "e975e2304f56d81f14deb934081e473e",
+    "cfbf02d7742cf4219eea7977d71d7145",
+    "e5b9917d049ec7e946ca6eb73decd73f",
+    "d14c8f75c68c3a44b97aca9e17fcc1e5",
+    "338eec1de0f085f132badc0b58e7a87e",
+    "59245ab878b53b65b553fd0c2fde7aff",
+    "cc622879c02400a298085692dac0a19a",
+    "65d926179c25f1bd2c1248fb0784329a",
+    "db05c0e1284f6c28bc8cd56b71a2a059",
+    "76c59c3dfa95a8f271c3796dec6da530",
+    "b57c6bc2629d736fe65e4f7e1cfedd33",
+    "f7ef4762a95d0d60b5b8925eae9a2e3f",
+    "7bd816b4b79d6886778801284174a2d8"
   ],
   "transfers": {
     "pages": {
@@ -21176,6 +21176,26 @@
     {
       "t": "5 better blocks building catching clear far functioning game goals have how indie iss long made meetings now operating part purpose run series short solving studio system term this you",
       "ts": 1793218175.6805904
+    },
+    {
+      "t": "8230 access ahoy appeared bet data deal firs gives greyhound horse international launched newcomer newly one operator podium post racing signs year",
+      "ts": 1793218181.9165053
+    },
+    {
+      "t": "agreement esports front gen nak nbsp outreach partnership prime recruitment saiga scarz signs space strengthening team through",
+      "ts": 1793218185.3651328
+    },
+    {
+      "t": "business egamersworld esports model nbsp searching still sustainable teams",
+      "ts": 1793218189.0967069
+    },
+    {
+      "t": "2027 call city dot esports finals grand home mena mpl nbsp qiddiya",
+      "ts": 1793218192.7964458
+    },
+    {
+      "t": "according brazil bts come day during facility fun group jimin jin league legends loud paulo playing spent streame são together tour",
+      "ts": 1793218196.2201467
     }
   ]
 }
