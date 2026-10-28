@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblRhdzhkUFRjLXh4d0tYWDFyekdfZGoyOUZSM0RlTEs2MlBtNW8zVmt0dC1wQ01tMWJacV8tMVFiX0F6OFpEekV4UHRaY3paLWxzV2JjRDdWRkI4ZXVGYnJTeTQtMXp2M2Q5YTZoOUUyNXZJUDhnd2JsRFVmRk4zQ2l0bmJqcTVJUVZvWDFmUTZ6VFU?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pdnQwY1pVZXVtcXJ1SVV2VlFWbVRqMk5oVjA1QjRWNnNWN0hYblVlUG10QU40VE5SSDFGVnRCVmhpb05SLXZUcGFyYVBORTNQOGwyblA1UDdJd0NBUy1BeGVhbi0tQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnc0NXVpZTZseDNDamZhRlRMZkVxVTRKYlItMElqWm5QN3E0eWVlUUhmWVBSbm9ra0Q2QXdJVVFiSFg0c3VNRnpFd2ZKdE51djNsejktT0x5N2JpNmRQMTYwWTJ0cEp3ak9uOEpjM09sbmtCb0drOEVKWDI0TndjQ1pFaENIV1FQUEwzSjNURHJIRm5rR0h5UHByRTk?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0NwbHRfTkhuUjBkaGRDQllIZnBHS0UwcXRhSkxUR2IzY1VNNklremdfbzMtWXRsdXNBV0JKRHdjVXpiZE4zS2I2Nk1QUlgyRHl5dHpEeFIyVklxLUU1NGZzRnp1NHdLdWZFYkdmTnZVRW92RDV1RFhjdmRtZjFiUWVZdktfTk4zSEgwSVdLVzZ6WjlOR2NDMVVn?oc=5",
-    "https://www.hotspawn.com/league-of-legends/news/worlds-adc-power-rankings",
     "https://www.hotspawn.com/dota2/news/tidehunter-arcana-trove-of-terror-treasure-dota-2",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5U1hSX1RwTlM0RVRxc0llVlhYLTdQelVjWjJlQl9aS3p5dHdXY0FQUlQzN2VrZ2RLNDdmMmoyTnlqeEM4b3FjclZ4UEYtMi1yRVpLMVBSb0w1YklKc1lZX2xjemlPRGF4?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52aEJFczZqb3JVa3RUTTVtUDhIdEpvVG9qUXRnVW5YYnhoaUpPdmw2eEtDRWdiRmh2dXhpNTgyX3diU042QnI5Nm5pWGZwUVkxNGdMTDB2d3haWkxCNUVr?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27802/valhalla-survival-runs-halloween-event-dungeon-until-november-11",
     "https://www.invenglobal.com/articles/27803/pc-cafe-simulator-launches-in-steam-early-access",
     "https://www.invenglobal.com/articles/27801/nintendo-to-host-indie-world-showcase-on-october-28-at-11-pm-unveiling-new-indie-games",
-    "https://www.invenglobal.com/articles/27800/valofe-launches-overseas-service-for-ava-rebirth"
+    "https://www.invenglobal.com/articles/27800/valofe-launches-overseas-service-for-ava-rebirth",
+    "https://www.invenglobal.com/articles/27799/budget-lightning-edge-moon-longbow-complete-guide-to-scarecrow-barus-gift",
+    "https://www.invenglobal.com/articles/27798/kda-releases-official-visualizer-for-never-going-back",
+    "https://www.invenglobal.com/articles/27797/fc-online-china-prepares-in-game-adjustments-following-kylian-mbapp%C3%A9-controversy",
+    "https://www.invenglobal.com/articles/27796/exchange-pumpkin-pies-first-lineage-classics-halloweens-fortune-event-guide",
+    "https://www.invenglobal.com/articles/27795/riot-unveils-restructuring-plan-for-2027-valorant-champions-tour-pacific"
   ],
   "title_hashes": [
-    "d0a1af7f23ef355c881ce2cd3b628732",
-    "0fe5a7dd0b85c9ec196210fe32cc44e1",
-    "b0ff33a2c47d4b0573138fe6445cae42",
-    "de771b78ed819db5163126d90a04cb61",
-    "799855594adc0f2bd7302c69d3234b5a",
     "508c75c8507a2ae5223dfd2faeb98122",
     "cd00d50d0eac02a1e188013d0c828fd2",
     "850d1d695ede7a8ff8904a779f7082ca",
@@ -16001,7 +15996,12 @@
     "1d0653569b14d7f92f6d7ccd53233aed",
     "2cb4028420a28a34796b2b140e07446a",
     "410a69174d7cd330280b7b5863f39ea7",
-    "546f980aaed1f31ab220882a7e9260b2"
+    "546f980aaed1f31ab220882a7e9260b2",
+    "eb0fdd5b0ea434f256a3bc7a2a517644",
+    "093066eafd3bc9d404b37a44772bec60",
+    "8d88e64908f1e2448a8f652ffab1298f",
+    "f17f5f74b8d588809cb4fb4f529b8f6f",
+    "a6b636cef48b02b42c215e0b43d12481"
   ],
   "transfers": {
     "pages": {
@@ -21092,6 +21092,26 @@
     {
       "t": "000 28th 350 ahead announced ava birth kst launched launches nexus official overseas pre publishes reached registrations release service that valofe which",
       "ts": 1793174577.0817783
+    },
+    {
+      "t": "baru begun budget celebrate complete edge enhancement event gift guide halloween has lightning longbow moon new scarecrow type",
+      "ts": 1793174582.3696845
+    },
+    {
+      "t": "28 back four games girl going group league legends never october official released releases riot track video virtual visualizer",
+      "ts": 1793174586.0885487
+    },
+    {
+      "t": "adjustments china comments controversy following football game games has into kylian mbappé online over prepares regarding spilled surrounding video",
+      "ts": 1793174589.566463
+    },
+    {
+      "t": "classic currently event exchange first fortune guide halloween lineage pies pumpkin season underway",
+      "ts": 1793174593.2800655
+    },
+    {
+      "t": "2027 28 champions games october pacific plan policies restructuring riot structure support tour tournament unveiled unveils valorant vct",
+      "ts": 1793174596.7945566
     }
   ]
 }
