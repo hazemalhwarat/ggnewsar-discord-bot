@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUlNuSEN1c0RIc3lHYVV6UnE5TXo3U3ZUeHliRkEwNnVibG1WZ3ZSaXJyR2s0anFsVl9vN1dIVG9VUWF3emdrYmQ2UTRwSmhaUWszdV8tQTZucGxRRDg5dDNXbzNGVzBHWjQ5eEJWbkhkMnhFZDB0T0hiUDVhUFJ1TEVTSXhhamJ3LUFuTU1jTUNvbzhRUVdyQUxrdXhXeHNIRmRWVTdJeHlVVlU3Q2JBU0lCYVh1N2ZTY3pnbQ?oc=5",
-    "https://www.invenglobal.com/articles/26910/monster-hunter-rise-passes-20-millions-units-sold",
-    "https://www.invenglobal.com/articles/26909/google-unveils-playground-to-create-games-from-text-prompts-expanding-to-3d-via-unity-spark",
-    "https://www.invenglobal.com/articles/26908/skydance-merges-paramount-and-warner-bros-games-divisions",
-    "https://www.invenglobal.com/articles/26907/nc-sets-second-time-takers-steam-playtest-for-november",
     "https://www.invenglobal.com/articles/26906/so-cold-arc-raiders-frozen-trail-preview-90",
     "https://www.hltv.org/news/45670/hobbit-for-me-nowadays-its-like-a-dream",
     "https://www.hltv.org/news/45669/art-to-return-for-thunderpick-world-championship",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHA1YTQ4ZnZqVlFsVFdJT3lDeG15clVSQmowV19mY1k4RWFiQXFYdllkZzlJNXFOYmhFMTNUalNSUUp5ZklYenloZDg3VVRaNlBnTHVXbkFwa3RqeVdKcnMzZHQ2bnVJdDh0ci1fY2hCX2xIeTJhRWpKQXc0b2o2bURnTEFXR0c0UjY2TW5pR2JaQk01?oc=5",
     "https://pley.gg/valorant/riot-review-emea-kickoff-qualifier-after-backlash-over-invited-teams/",
     "https://pley.gg/cs2/twistzz-promises-good-vibes-as-faze-close-in-on-singapore/",
-    "https://pley.gg/cs2/who-is-ksloks-legacys-new-rifler-for-the-singapore-major/"
+    "https://pley.gg/cs2/who-is-ksloks-legacys-new-rifler-for-the-singapore-major/",
+    "https://pley.gg/cs2/legacy-bench-n1ssim-and-bring-in-ksloks-for-the-singapore-major/",
+    "https://pley.gg/cs2/valve-explain-who-keeps-a-player-listed-on-two-major-rosters-and-jabbi-rushes-back-to-astralis/",
+    "https://pley.gg/cs2/jl-has-no-score-to-settle-with-navi-and-no-contract-for-2027/",
+    "https://pley.gg/cs2/csgoroll-review/",
+    "https://pley.gg/cs2/finnish-court-convicts-aleksib-of-aggravated-tax-fraud-a-day-before-navis-elimination-match-with-spirit/"
   ],
   "title_hashes": [
-    "60770904dcf75c0deae016536c041e3c",
-    "2849406047d022fbb05b97d2b03afa3a",
-    "dd8b03de8a6c88efe33ca31586695b9a",
-    "eacb30bbffcc91fa74fb102f3710ac16",
-    "aed3bdadb75d92cb12434949f0cacc05",
     "ad437fd2f44c7b3f8208a162604d81d0",
     "fa8404ac43a1d2134b75b89dcf190305",
     "ad0efbdb2c292c7e084522079511011d",
@@ -16001,7 +15996,12 @@
     "a8b19c60bdada22fa6a01e3089230424",
     "b5673637e7ca8606ac476f60f72b2f90",
     "a30dd7edce48914e73ff37757fd53ff6",
-    "faf671ab855629863e479a6a92885b9c"
+    "faf671ab855629863e479a6a92885b9c",
+    "1e049ce6c7c61bdcc8e0765c46875279",
+    "fe9eed67a78f66e90a2f1c2f27b263eb",
+    "8c82ba0779fe01e3cb839f160f44f61e",
+    "5c17fb1b85c5cb95737eb77e79dd42ad",
+    "e562ca9f0505eaf3be72fd80e52ad9e3"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,26 @@
     {
       "t": "2025 21 astana beat before benched brazilian called g2 ksloks legacy major new oddik old organisation pain pgl rifler singapore titles twice two who without won year",
       "ts": 1793199834.0054653
+    },
+    {
+      "t": "21 after agent beijing bench blast brazilians bring bucharest day exit free iem ksloks legacy major masters n1ssim old pgl rivals singapore their turn year",
+      "ts": 1793199839.6081553
+    },
+    {
+      "t": "astralis back explain jabbi keeps listed major player rosters rushes two valve who",
+      "ts": 1793199844.2431185
+    },
+    {
+      "t": "2027 contract has navi score settle",
+      "ts": 1793199847.8127604
+    },
+    {
+      "t": "csgoroll review",
+      "ts": 1793199851.2431614
+    },
+    {
+      "t": "aggravated aleksib before convicts court day elimination finnish fraud match navi spirit tax",
+      "ts": 1793199854.8122258
     }
   ]
 }
