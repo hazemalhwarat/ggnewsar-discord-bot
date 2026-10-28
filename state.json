@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26878/vegamont-rewards-doubled-tl-eases-trait-resonance-progression-and-adjusts-weapon-balance",
-    "https://www.invenglobal.com/articles/26877/playable-on-pc-too-rumors-swirl-over-microsoft-securing-gta6-streaming-exclusivity",
-    "https://www.invenglobal.com/articles/26876/arknights-endfield-to-launch-on-steam-oct-15",
-    "https://www.invenglobal.com/articles/26875/nexon-expands-four-permanent-maplestory-spaces",
-    "https://www.invenglobal.com/articles/26874/born-from-a-what-if-tactical-commanders-r-recreates-original-nostalgia-while-adding-fresh-elements",
-    "https://www.invenglobal.com/articles/26873/cookierun-reveals-detailed-program-for-cookierun-grand-festival",
     "https://www.invenglobal.com/articles/26872/korea-boardgames-releases-board-game-jakryongtu",
     "https://www.invenglobal.com/articles/26849/pubg-seongsu-kicks-off-wwcd-chimaek-party-on-october-7",
     "https://www.vlr.gg/767715/zeta-division-allows-xdll-to-explore-options",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/27818/price-pressures-on-consoles-and-pcs-to-continue-as-sk-hynix-forecasts-memory-shortage-until-2030",
     "https://www.invenglobal.com/articles/27817/g-star-2026-indie-showcase-teams-up-with-steam-featuring-114-companies",
     "https://www.invenglobal.com/articles/27816/t1-eye-quarterfinals-hanwha-life-face-do-or-die-match-what-is-the-lcks-fate",
-    "https://www.invenglobal.com/articles/27814/the-legend-of-mir-2-runs-world-of-illusion-event-and-opens-growth-boost-server"
+    "https://www.invenglobal.com/articles/27814/the-legend-of-mir-2-runs-world-of-illusion-event-and-opens-growth-boost-server",
+    "https://www.invenglobal.com/articles/27815/8-pumpkin-weapons-actual-hunting-performance-and-investment-value",
+    "https://www.invenglobal.com/articles/27813/lineage-w-begins-5th-anniversary-events-teases-new-dancer-class",
+    "https://www.invenglobal.com/articles/27812/stranger-than-heaven-opens-pre-orders-for-digital-editions-across-all-platforms",
+    "https://www.invenglobal.com/articles/27811/sega-releases-2nd-wave-of-holomodels-korea-lineup-featuring-55-items",
+    "https://www.invenglobal.com/articles/27809/odin-valhalla-rising-updates-guild-battles-and-introduces-pet-workshop",
+    "https://www.invenglobal.com/articles/27810/bang-dream-our-note-introduces-halloween-event-and-biweekly-arena"
   ],
   "title_hashes": [
-    "8df358eebbbb64bf19235a902db73505",
-    "5f60618d4338f6589571a1bd2c0c3fb0",
-    "bc4157ecffd37286a77ede38c83a6a73",
-    "680c3d1a1f8465f530fbe83daa54bb4f",
-    "cd9737309fc59f42ee6a6505566ee54a",
-    "af73ab7ed8411a036a17bb1966f4eb7b",
     "7ac696ab98c95d47e3f15540f9d296f0",
     "049eef8d5d9cdb5287bff3b84f00d16f",
     "d26042c4588d12aac63e72ea9e0c7c05",
@@ -16001,7 +15995,13 @@
     "23140b47300756a8123092e251603a42",
     "01fbbd0087357c58698b7a43a514762f",
     "4e8468c037dcb16f5cb2b87444d817f4",
-    "5d810827ade5806ad4489b97a2800817"
+    "5d810827ade5806ad4489b97a2800817",
+    "b9222f134985bcd4048b123a45618e79",
+    "b098277db918b089aca54bae358f3709",
+    "50f90c7ed7e4186513af5e37117cdb72",
+    "67ad8c973d1a79d736e44cba5417420e",
+    "6030ebc11efba8c38f5966fc908cff38",
+    "0bfe25558949b69c582422d770732539"
   ],
   "transfers": {
     "pages": {
@@ -21052,6 +21052,26 @@
     {
       "t": "2 2026 28 boost chuanqi december event five game growth illusion legend mir october online opens operated running runs server subsidiary weeks wemade world",
       "ts": 1793174538.2752721
+    },
+    {
+      "t": "8 actual aiming baru enhancement event exchanging hot hunting interest investment kicks off over performance permanent pumpkin req scarecrow threshold value weapon weapons whether which worth",
+      "ts": 1793174543.4519815
+    },
+    {
+      "t": "15 2027 28 across all announced digital editions have heaven january korea october opened opens orders platforms pre publishing release scheduled sega stranger than that",
+      "ts": 1793174547.1019545
+    },
+    {
+      "t": "28th 2nd 55 announced collaborated digital featuring figure gugenka has hereinafter holomodels items korea lineup publishing release releases second sega that total wave",
+      "ts": 1793174550.669568
+    },
+    {
+      "t": "28 adds announced battles contest equipment features games guild hall has improves introduces kakao october odin pet released rising systems that update updates valhalla workshop",
+      "ts": 1793174554.2805562
+    },
+    {
+      "t": "28 7 arena bang bilibili biweekly dream event game games global halloween holding introduces its note november october our rhythm server",
+      "ts": 1793174557.8381503
     }
   ]
 }
