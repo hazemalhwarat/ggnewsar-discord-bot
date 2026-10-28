@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26899/aion-2-enters-top-5-most-played-games-on-steam-following-official-launch",
-    "https://www.invenglobal.com/articles/26898/nc-to-begin-second-test-for-new-game-time-takers-on-november-13",
-    "https://www.invenglobal.com/articles/26897/lineage-remastered-unveils-new-region-abella-and-wolyeongsa-class",
-    "https://www.invenglobal.com/articles/26896/new-ats-hunting-ground-how-efficient-is-exp-gain-in-shadow-temple",
-    "https://esportsinsider.com/2026/10/sony-inzone-fnatic-finishes",
     "https://thegamehaus.com/fantasy-football/fantasy-football-week-5-quarterback-rankings/2026/10/06/",
     "https://thegamehaus.com/deadlock/deadlock-baba-abilities-breakdown-first-look/2026/10/06/",
     "https://thegamehaus.com/nfl/nfl-week-5-picks-against-the-spread/2026/10/06/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27823/crimson-desert-dlc-launches-oct-30-at-7-am-ps-pre-downloads-available-one-day-early",
     "https://www.invenglobal.com/articles/27822/activision-admits-using-real-news-footage-in-modern-warfare-4-cutscene",
     "https://www.invenglobal.com/articles/27821/google-fined-429-billion-won-apple-208-billion-won-in-first-action-against-forced-in-app-payments",
-    "https://www.invenglobal.com/articles/27794/lineage-2-applies-major-basic-update-opens-3-new-servers-simultaneously"
+    "https://www.invenglobal.com/articles/27794/lineage-2-applies-major-basic-update-opens-3-new-servers-simultaneously",
+    "https://www.invenglobal.com/articles/27793/cabal-online-holds-events-to-celebrate-21st-anniversary",
+    "https://www.invenglobal.com/articles/27791/nba-dunk-city-launches-season-2-adds-3-new-players",
+    "https://www.invenglobal.com/articles/27790/moonlight-peaks-launches-on-playstation-5-on-november-17",
+    "https://www.invenglobal.com/articles/27792/skill-core-drop-rates-buffed-tl-overhauls-damage-judgments-and-teases-november-core-rework",
+    "https://esportsinsider.com/2026/10/team-liquid-sweep-anyones-legend-out-of-worlds-2026-ending-nas-13-series-lpl-drought"
   ],
   "title_hashes": [
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "f11ddba9c3893d02911d4c36449130d3",
-    "1f932fc3ff8c67ccc637fe5e14db2f1b",
-    "4cbb80b18f01348e99235a8a453bd276",
-    "a41d4d8156c3736efd104d86819b93ea",
     "338eec1de0f085f132badc0b58e7a87e",
     "abfb89f55b4b2679e2bfedf1e9508835",
     "59245ab878b53b65b553fd0c2fde7aff",
@@ -16001,7 +15996,12 @@
     "c7f780063ec2642cbb635c9150b1a0f4",
     "7c81d0175be60a6e1ecf7107eb78590f",
     "df6268b4eee05defe9dcc49fa744b22c",
-    "d265dfcaf7309624d1afe58393d4d1de"
+    "d265dfcaf7309624d1afe58393d4d1de",
+    "37bbbd016311acf33574b655a8679994",
+    "7229aeb542841031e39468c2f52be116",
+    "519220b78ef296c82f74873601fb32ae",
+    "53b1901f4683cc0a8491d6bd95f33ccd",
+    "290814306726ab50c4426f9f19a31785"
   ],
   "transfers": {
     "pages": {
@@ -20980,6 +20980,26 @@
     {
       "t": "2 28 3 8 applied applies basic day gludin gludio its lineage major mmorpg new newly october open opened opens same servers simultaneously three update will",
       "ts": 1793199633.7230613
+    },
+    {
+      "t": "21st 28 anniversary announced cabal celebrate estgames events growth holds mmorpg october online reward running support that",
+      "ts": 1793199639.495946
+    },
+    {
+      "t": "2 28th 3 adds basketball brook butler city dunk game games haliburton its jimmy launches lopez mobile nba netease new out players rolled season street three tyrese update",
+      "ts": 1793199643.1954134
+    },
+    {
+      "t": "000 17 300 5 according clouded company copies digital entertainment game has inc initial its launches leopard moonlight november over peaks playstation release since sold version will",
+      "ts": 1793199646.963229
+    },
+    {
+      "t": "27 across buffed conducted content core criteria damage decision defense drop judgments liberty major mmorpg november october overhauls rates rework routine skill teases this throne update",
+      "ts": 1793199650.555176
+    },
+    {
+      "t": "0 13 2 2026 alienware alive anyone beat champions deciding drought eliminate ending game keeps lcs legend liquid lpl out result seed seri series sets stage sweep swiss team top win without worlds",
+      "ts": 1793199654.0926332
     }
   ]
 }
