@@ -1,24 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/dota2/news/tidehunter-arcana-trove-of-terror-treasure-dota-2",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5U1hSX1RwTlM0RVRxc0llVlhYLTdQelVjWjJlQl9aS3p5dHdXY0FQUlQzN2VrZ2RLNDdmMmoyTnlqeEM4b3FjclZ4UEYtMi1yRVpLMVBSb0w1YklKc1lZX2xjemlPRGF4?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52aEJFczZqb3JVa3RUTTVtUDhIdEpvVG9qUXRnVW5YYnhoaUpPdmw2eEtDRWdiRmh2dXhpNTgyX3diU042QnI5Nm5pWGZwUVkxNGdMTDB2d3haWkxCNUVr?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rUF9qUEhMUU5BaHMwdlE0c2tVbXBaSURYVnRCYzU5SnFGUUNOaG1FUXhFN2diV3AzdElST04zU1Q2a3NENFJjaGRTZmxTUVlOTWNHZDU4S1VUZ1JqQlNRRjZXZ1Y4SGNmbGY0?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40M0QwX2tNQ0hVNENCckFHSmlvSjZ0dnh6UGJuNXhteERlNzhVeFR5aXFnWlM0SGN0bk1ON0pyQWR4SzVYQ1dmMklSUHJIcjFERWcxT1RGRFVZVEVBME5j?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnc3k0NFNGNU9NMnZtNGVaQWhSRGZEZlA1bzN0RzFMendlb2tNamE3eDd4anQ0Tm9HLWRTSmJuMmNDcTIxNGo3TS1wMExpZTdLb2ZOeUJqU3otZnZkZTlKbFpURUlHUG0t?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTOXFLZjFvRzdYaGhGRlpFNV94RFh3M0dUanZremxjS2tnVkUtV3dDaFplZlBGbmZEWTU4dzcyMmtTOFhZVDhaZ0puR0dVdTZPV0NiQjlMZllSbzYzeHdnajROeXAwa29v?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ERWtLQzJxdHpIMHJodWxRdWxNX2x2c2taRmdyR1BmYVpwcTliQldNa2pQdDFWNXJLUHdfUmRxNVdDQURLbGdiX045QmxZLU1FbkVsLThieVlfV0ZTYkZ1bmpkRGlQTVdL?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVktiRll0TnR1T0pPRUJ2Wlc1Z0ZvNkktU3dpT2p2VmxoNDdOTG1MalIyT0U1ZDl0YVpQY3UtQy0wM3p2X3VzUWVmcFNXSXdBMzNrem9FX3ZkbnFuNGxRZFVlTlFJb1hmUGlaNVRSamlQV1FoMlJFdFcwWGRoUG45QnRkMUhXNm9nS0YtOEZNQ3VOU0w4MFNvcWtWTHZfR1hYQTVXRnZXWXZzQ3Q5NWFLUzZwcWJPOVAwNE4xQk91MV9PWUljWG03ZENR0gFaQVVfeXFMT3lRQjlLbnBkU3JqZjhwUk9LeXBSelB0SklBd1JxV2dla2tkRHRtekptd3V2SVRWVGpBdllYaFFNOXdYbTRzWXptbG10c2ZBN1hYdnV0WjBRVUVB?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFZoelVFNmIxUlZsTVVSSWZzbW81Rjk1Zl8yaDVJWWw5Q2NBbmR1dXRFcVhTMTQ3VFhXYmdidVItU2pVOXZDQVg0N0lJTURqSUdnTFZhZWpZVlNVcGxWZXNoRmQ2M0lqeHdiczJ3YXBWdXlkejlra2VKNEJQLXFYZDlWY3E0ZDVoMXg3NUpKWDBqbVRZcmwwanRZTVVXQ2N6a2lpSmRDWV9KX1ZrS2VwRURtR1FvV0NRY29STFFR0gFaQVVfeXFMTVh4Snhtc0tDUVRBMHNoN1VWOUFrXzhGc0hFTUduX01fZk1rQ3pHOXhQSGk0UlpPd2E0MlQtNENaSjJVSERBcWpoVmRKN0U5bG1RLXBVYzd6a3ZB?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNUWZUdEJRbzBqY2ZsV2FGVDg3RWgwS0JWcl9ZN3ZqbVZXQzgwcUc3U2RydDJkakF3STEyamZJNXdNV2d0OU5JaUtrZExpSTFDWVY1QlRVWkVsQ3l3LXBLVGNEc3Jfdk1vMG51VS1hT0E1dk0tNmcyaGNEanRsaHJkRGVJZ0tha0dPc1JReVoxbzlVOE5qWlVscW13R0xnUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0RIY3FGb0VFQ1lNeG8xOEg0aDE4bFpjNWFVbE9LMWotdS1BS3lXWklUUWVOLXY0UU81N0JqRVd6OVMwUGh5UkJWakh3cjR3Sl9tV2laRENHc2JyM014TVpSQ3NEZ1MxZTNhNlFTNnlhdDRlbE5QZnM1Ym5KeFZrRkZhY2tfaGNocWhQUnNMcDlPUkZZbmhGdw?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDFzb2tBenRJSWxaNUlRbE1iMjhXNUJ6WURDNFBaZXFKeVN4RGhRQW0xZXNBcWJCc09PRjVRNDl6TGg4SndneGRrT3RZTzJkYVVkajhDUVM0QzFWd2lUUi1VT3dYQzRsX1FYNnNmTnlraGxRc0dSSkZoZVgyMHc2MlAxcUJWbXBlalBwNUp2VUZDOEFPNFlFWjd6R2hnRlVScTNGVVFqcjZNc2FQUkHSAVpBVV95cUxNZlVPNEZzVFhieUROMVBzT1JsZTRCR0RSTzFFVDBnR3ZZZVU2bmRkTVVRbjlqS0pZNVhiMWNzWVhqRFdNWHA5U3pWRnR1X29pTmRFeWhUX3pOUHc?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmlfOGVFOHdDckt2Q2RxR2Z3c09lRmROUi14MmZxRU5pTHZRbzF3TFlrMWVXeEJibW5aMHo4N3c1bWxlZkMxS1NqWmlnSWF5UE9Mc2lkNmpiaTVyY0dxbmstZ0FVUEVxc0JnWVdTd1lITkJnbkFoZmdjR0ZYRG13WWNwMVVaZjFEdXF3S0xWUVBsTm0ySzQ4eE96S2QyMk1kVmFtaXNxU1VVbUhHSjcxdtIBWkFVX3lxTE4yMGtIWG9DQWpteFhpbTdZWlBYTUVtXzRReGM1NmViUDdxS2EwXzlpQWJWWHB3ZEdWdjJrVVZDTGRSSmNVa2JyX1VqZldzOWJJcXZORGhXOWI0Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTENMMjFEODRtR3BickMtOEtaQ2xRVDR0cHJ3OEE5aUN1RmdGTFJ5WWFCQ1NaQmU0a3BFU1BCeW1IRngybXIyd2pCUEF0Ym41bVUxTHp5bDRWNFFZYVVEWUZabTNIQmpLSmRZSjB4ekJyUlFJcTV1VjY1YWM2Q0poXzZ3WjBoNHlaMWlSUm0wa1duYS0xeUk1aVJTdFpDeFFJcEFKWFoxQVN1c1NOTFlPXzFjVnpfYmR6UDhEdDZB0gFaQVVfeXFMUFpsaVBlOWMwSl9LemNNR0JJclZnME9CVnQtdnhqZWEyZldtajhuNmZ3elQxdF9NQkpueVJXTkRuWmstanYtNFMxdlh2OXB4R1hrb0VscDBFV2pn?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFZNMGNra29YSjhKM2pVYnZPb01EZElycENkYWNoN1I5dldtUmRGTFFTVFNRUzJvcy1yMTNLQ2RYZHJRaktCY0o3MndMOWt5WnNoZ2hycWdjZ2VqdU5kUms5ZjFodTRUTEpEbjJuZm5SRzFwS2NkRjNjR1BhQmNCR3RHVnMyZG1QbjNCM19LRUt6VWRoUkotcGRZS0hBS3MzZzJ6VjEwd1pKY3lDQ1o0SGZUNm56Z9IBWkFVX3lxTFBER29objg2VkNld0J4Vjl0Mk9IelY5dE4zTjYxMGREY0JHdGt1UFFLNDdTODRXZnJNUUZ5Xy0tRjVDRHhCbFdPVFhrenZtWENNOHlvRXM5R2N5UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlljWm84d29Ea3VYcEQyZXZZT3ByOGY1UGVGa1dIYjRoa2ZWUmZFZ2psVUhOblNaN0VzRTA4X1pkRDBQV1N6UjRwdFlrRXlmZ2oyVHJhdzAzcXhOSTdtbFZKVDdRX1M5eUFlM1MwTkxNVGFUUTN0NlpsNlFWMTA0U1JrcXRKcjg5anF0NDNqMV9DOWvSAVdBVV95cUxNRlJhMVp6Y2RBMzFlNFJITUszOUh4ZEZ1dWdwUUFEVlQ5Q3RBRlB5UlFBOHFSS2pTVnU4bTZoeThzNDYyc0VzbUhUS3Z6WGgycW13N0w4YlU?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1F0dDVpcEdrNF96UU9oT3dsTUZONXdNWHhRMHRqM2gyOE84RWdWMjZWNUktTE1WQzExc3Ytd1BweXJOVGRhcWFNM24ydFJiN29uaFV2UzN5Y3ZPSTE3dVI2TlcyaDNGMWVhMGJhS2xlMlFNT2tXR2x6WWo1ZjR2Vlc0NVc2dmpDN2VSMWpwLVZ1bGxBV0FVMVFhWFZqVUgzLUJJRVEteER5ZGFU0gFXQVVfeXFMT3YyQWJRZlF4RlozSlhpd1ItQVdIUjI3RU5OMllRUmo0ZXRKdjczNzFIeS05Qlc0NnZfSjVYWnpaNWJrUjZ1R2QwMEFwRnFuZWstRHhOQlJn?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONndCQk9EX3JvdDVQcFhqUjUxLWxBcmMxZWVxdTlWZTczUk5oZGlURy1TYjZiSDJjWlRLQndDYlY1dFhhMWtPM1ZVMDFDc0FIVXNhMG8zNk43MXdTbUo2d3VjVFdtSjRuSzYzZEZwYmlMemd3X1FYR2F5OEZ2SFIxZjNLTkVIWWtWR2ROMTFCcFBxZ3BDSTdYVWFDUzRZRXQyMExKcjhSX1NRUQ?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWRCckpxS0F1SEh3aTluQlRXZmVhU1VVQ2Q3MmxSclRfc09QMUVVWFprOHpGUlI3aUdTaWs2bTM0dnlTeVpjeXF6aWhXNnBpTDd3U2cxTXg2eTVFOXV2Znk3cDM1VV9PRnlTUGtKaDFHTWFsQWFWZTFpdnBYNXhvOFNUOFQxTmlkTGc2THBOZTlGN1ltRjhMcVNIV1dmb2tBTDRUVU93?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Icms5dVlVVFl1Ykh6N0o3a2FlV3FUQ1VDQUZLd0lRU09pY2IySVRReVl2SXBjT0NsQ2NMRFFYV0FvZHdKTm40SjViNzdGNU4zWnZOOWM1UHR2UW9odXloWGNYcklBMm9rbjYwYzZYeFhGOUxQZ3lB?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYV9EUHU5QzZRbUpZeExvV2RCdU1yOGNGT1llUEUzUUo3TEpkeFNaOFdZZ2RXWmNNZlpYSkZOTTJFYkJjQWhxMWtscW1ZY3JHX2dhdVZlTy0xZlM0ZkFTWF9YaXlTdlRBeW9zdThEaVpBS1VSRW51SnFfMnAxZFVkWEU1RE5vZw?oc=5",
@@ -7999,28 +7980,28 @@
     "https://www.invenglobal.com/articles/27798/kda-releases-official-visualizer-for-never-going-back",
     "https://www.invenglobal.com/articles/27797/fc-online-china-prepares-in-game-adjustments-following-kylian-mbapp%C3%A9-controversy",
     "https://www.invenglobal.com/articles/27796/exchange-pumpkin-pies-first-lineage-classics-halloweens-fortune-event-guide",
-    "https://www.invenglobal.com/articles/27795/riot-unveils-restructuring-plan-for-2027-valorant-champions-tour-pacific"
+    "https://www.invenglobal.com/articles/27795/riot-unveils-restructuring-plan-for-2027-valorant-champions-tour-pacific",
+    "https://www.vlr.gg/781105/gentle-mates-gc-sr-gold-continue-upper-bracket-warpaths",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaE81MmJYZzNMRXZTTDBhN3ZWNUNBZmZIY0lEZ19aMnFMMVh6MmVqZThYLWJOczVyRFc3eWpuZlFIU0FmRkFiNmREZTN4MzBfM1VoWUNhMzRwc2xkVTRsaDBjbFlDZVVFNDc3YnhqNEFocnFwdXlrUkF5Z3ZueEF2b0I3YU9ackw0ampj?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/league-of-legends-patch-26-22-preview-mel-rework-and-item-changes",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjNZZU5ZRTQ1XzRiMDEtZDdvS2F4NjIxNlZvSFF3Vk94MERsNXhrSG5tRWpzV3AzT3FrNXp4b2EzT1d0TzJfUVVkWVRiTVVqYUd5MmZRbzZkRmNxNHpYc0Etd3M2c3ZGOFhzX0Yxc0R5X3AzTE1rSzItYUhPSkhpMFZ0azZac0NSclhjUWJrbE1lRkd1NlN0MDVsalloMm9sYTduVWFB?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFp4Rkp4VG5rQngtbWhBSGpYdHpPbkk1OEdfUHU5NHNuVmxpaFpfQUNmTmFPNzdsbmpGUGpkV1ZrcklGODd2OXRPZTljWUdXYmFzLUUyWjcwaTgwSEVkZFJuaWhISkdTSjI5WGtqYmJhNFg0WWxPbm5Nc1g0RS1IeA?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGNFSHQtSFNEdzl5YzFqa3A2bElXR1Y3YVoxWExzUnoxNXExRzN3c0FaQ1l5QXlYNEJGbVJkbWJUNHY1TkVLMHlmeTJNTFQxSnpVYkpBa3l6QmF4OHkzTHZmdU4weW5KMGVuYm94RWpHc3BHdTBOZkVPUGhzX0ZIY1g0X1BkQkE?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM1Exc1ZBWTdqekJ6TGItSjZoTk9ZNGlIanlmQlQ3T0trR1RfMUdYcWtwVTUxZjB0cHBuX2NRdUdSYUJjdkcxQnRlWlk3WVBDVkdhdF9BMVpLbFVVWV9aX0ViTTNRRjlQOTZZRzVFODJlYjhBS2NDWWxEQm5XWEQtWHJpY0ptNmtBUlVJOTlRTkNqUmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DRjRPY2Q2UVp3OXZXc1BpTEQta2JXS01IWVlyeDZqdER4QTlTam5FdGZyYU52VGQ1WXo1UG9vZ2IzRmRITnFwZWpUTFVXRHI4Mno5eFJpR1BZNVA4cExITjIxLVlaUl9Zd3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzbXNWZ3hkaS0yNHg1OWY2ZnZhckZTbllrOUJsdTEtekRWeEluR1oteUJOTmpUSHpobURiZnZQM0xpclk4N1BDM212RUhYbWJKcWVj?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CM3pIRW40S19INER1WlVwN0o2OXBBbTlQTUVzQ1FXNTB4YmZTYlhWVzc0eUo2TUtFazItc3dteXNfck5WMTBxckFtUk5NZkVNeWh3?oc=5",
+    "https://www.talkesport.com/mobile-gaming/garena-free-fire/free-fire-india-download-is-now-live-check-link-and-steps/",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PX3Q2eklBY0l3cTNKRlVQbnN5RDIyM0RSQ1A1aTY3WFYwUi1icHM2Tld1eDNQNi1KQjJRb3pWSnNXN0x5cEhjejlRSnZGSGljREFsaHlWTjdsZ1EtMFZXOEFn?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12R3VNb2Rmckgxa24ySTNEYy1ZS3ZmR1lGT0ZPaUdrRU9yV2xTYWI0TEVxNjRFQzVpWF9LUEt2OGZ0RG5NWHFKY25KWjBaMnFYOHByUnRYRnZxa085ejJmMg?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE83STZDOU92Q1JaLXZyOUFNZkFpbHZHdDUzRTIzd1F6SHRkdTZrQVVoR2ZPSU9jSElZN0ZKY0ZxaTI4X1JvNmFuc05JSERVX3RBdGNGSXF1ZlA2ZFZ2UnA3TmhOVGsxVnNDM2FaYjRGNmRJczhUbHc?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE1mODdDZ3Jaa1lwY0ZnXzNybVdXMktvUE53dERoNENQUTVJRnBJNkw0RjBXNWVTdm1sdGowV1dDODF4X05yQjdtOE40QXVuRWVQd2o2cDJreS02RkpYRUx6YW1FMGRkRG1nWF9zeTZMaEJ2UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yS3pkZkJHTlkzZll6Vl9OWHBLMGZ1d01fUFpkUlFWcS1Ya0h4UjcxRWlpakY2cmljdTByUFBNb2FSQWF5clU3aS0zMHBlRWU5ekk5QTQ2UWkwQ3dkenc?oc=5",
+    "https://europeangaming.eu/portal/press-releases/2026/10/28/216918/principle-networks-buzz-bingo-wifi-rollout/",
+    "https://europeangaming.eu/portal/press-releases/2026/10/28/216914/skillonnet-finland-gambling-licence/",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ESzltNWZjUHR4TnpuWkRyNldVdlpfMS1ZLWd2czVlLUFsYWYxb2d2Rzh4dlYzdnRBNF9ZUGV0REZvcGQzYVlOVGI4cUc?oc=5"
   ],
   "title_hashes": [
-    "508c75c8507a2ae5223dfd2faeb98122",
-    "cd00d50d0eac02a1e188013d0c828fd2",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "db7c5da45c10d956d3f3f660adb7d184",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "eee12c67c630ca8cd9565f09e118cd1f",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "87aab7fe1a6ab91b2ef2023bf24945ef",
-    "d9afd3a79450aa793b29ba66c9f551e3",
-    "9e58278e5a44601baa964bdb5cb9f478",
-    "17b461c8a863cf0424b408a0b1168280",
-    "007657ef739af41dbeb12e36cb7abbe8",
-    "7aea26f22a5679b23fe7344db050cc59",
-    "b5281e764caef337e2ecd116010e7f14",
-    "08beb87f18ae26a0bccf36ccba41b92a",
-    "56b24e5c3783797f2e3e671e15deebe0",
     "d14c8f75c68c3a44b97aca9e17fcc1e5",
     "25a2cca7dad8ce812f84e2f7f963806d",
     "23e542736378293989eb4b067ce98bbd",
@@ -16001,7 +15982,26 @@
     "093066eafd3bc9d404b37a44772bec60",
     "8d88e64908f1e2448a8f652ffab1298f",
     "f17f5f74b8d588809cb4fb4f529b8f6f",
-    "a6b636cef48b02b42c215e0b43d12481"
+    "a6b636cef48b02b42c215e0b43d12481",
+    "56cf1e443e7dbea7d6c620a5c4a6a73d",
+    "5f46c2e4cf37ec247feeb8c230e03816",
+    "80c2141f230cb6aa33f6398e6769bd1b",
+    "4fa149b1868e5b07ed21c80db131b626",
+    "efb34f5d49ec88e9fa032e2a969fbc93",
+    "96050af584c5331bb04be33c50f0e595",
+    "27f7399df3e34d50d9325221123fbc91",
+    "654367fc2272fed329e8ea12d6ae9ffe",
+    "8df358eebbbb64bf19235a902db73505",
+    "8df358eebbbb64bf19235a902db73505",
+    "1cadf80fba18a09020fa801738203ae8",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "1a0cfe6b17c82dc70a5f66bc71aee6a6",
+    "9cf44b521404edf4850be6d880dc07b4",
+    "9c6ba0c281e984c9f6e439fd15461329"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "2027 28 champions games october pacific plan policies restructuring riot structure support tour tournament unveiled unveils valorant vct",
       "ts": 1793174596.7945566
+    },
+    {
+      "t": "2026 bracket continue enter gcc gentle gold m8 mates srg three top upper warpaths",
+      "ts": 1793174602.0917997
+    },
+    {
+      "t": "app can check download easily fire free game gamers google however india insta install link live not now over play playing showing start steps store wait your",
+      "ts": 1793174605.6593213
+    },
+    {
+      "t": "25m 8230 accelerates across bingo buzz cisco cloud completed completes deployment estate foundation gives managed meraki networks operator post principle rollout transformation venue wireless",
+      "ts": 1793174609.1629877
+    },
+    {
+      "t": "2027 8217 8230 ahead among approval competitive confirmed dozen finland finnish first gambling july licence market newly online opening operators places post secures skillonnet which",
+      "ts": 1793174612.644187
+    },
+    {
+      "t": "2027 agreement all city company develop expand five fun games home hosting investment make mena moonton mpl over partnership players qiddiya worl world year",
+      "ts": 1793174616.1583874
     }
   ]
 }
