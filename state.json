@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/new-ape-escape-game-being-worked-on-its-claimed/",
-    "https://insider-gaming.com/resident-evil-requiem-writer-accidentally-reveals-dlc-plans/",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVTZLeGU1UW93ZmJXV3dmSWFlOGIwLU5DUGxMcTkzMVJvaUpzajdQaEtqVkYtNGJ6azFWM0pjYWZ3bWRtVk42dGdLV3RCU0VpMkd6V1ZCT2xUQjBCM1h5Rks3YWlKMnRQS1JrMUVrem9fVXAyU1RFMWZ2VmgxeDdKOFlXbXFPQzRJSUFHSFpyUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWjdCeWVIckNOaDRNY2pPTUhoNkxJM283bjV6OG51LURZRl96MkdFakdLbmRCRFR4dW5PZ3pDUmtoeUFWcmVGU1pDOGdfVm1hMUNIV1Q2NWswU3JlR2RxMHFsUlNocW5CNENJLXNyUGxsY082YzlMU2RUSmtELWg2R0xUQ21zWkVV?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RUXY5M0JWTWplY1J6eWpYdC1LRzFvb2V4WjVQV05laFl4RTcyNTJlUFpjbWhya1o1ZF9NZzVDa0w1TjFOSHNrSFdxTV9RQkJOajRteS0xbDF3Z1l4ZGw0MDEyRlVfUDE0ODF1MFpHZk13ZW9iQTdyaTBB?oc=5",
-    "https://www.hotspawn.com/league-of-legends/news/replay-restrictions-lol",
     "https://www.hotspawn.com/dota2/news/all-skins-in-trove-of-terror-treasure-dota-2",
     "https://www.hotspawn.com/league-of-legends/news/vivo-keyd-stars-parts-ways-with-roster",
     "https://traxion.gg/sim-lab-is-set-to-showcase-porsche-963-hypercar-steering-wheel-at-simracing-expo-frankfurt/",
@@ -7999,15 +7993,15 @@
     "https://esports-news.co.uk/2026/10/28/vitality-respond-to-fut-defeat-by-beating-navi-2-0-at-pgl-masters-bucharest/",
     "https://insider-gaming.com/gta-6-original-score-releases-after-launch-with-50-songs/",
     "https://insider-gaming.com/dragon-ball-z-budokai-now-playable-through-your-browser/",
-    "https://insider-gaming.com/best-meta-loadout-modern-warfare-4/"
+    "https://insider-gaming.com/best-meta-loadout-modern-warfare-4/",
+    "https://insider-gaming.com/valorant-13-09-patch-hugh-agent-abilities/",
+    "https://insider-gaming.com/exclusive-bioware-anthem-what-might-have-saved/",
+    "https://insider-gaming.com/astralis-restores-jabbi-to-cs-roster/",
+    "https://insider-gaming.com/league-of-legends-to-honor-cyanide-with-free-jarvan-iv-skin/",
+    "https://insider-gaming.com/valyn-g2-departure-valorant/",
+    "https://insider-gaming.com/gamesir-gta-6-themed-controller/"
   ],
   "title_hashes": [
-    "cd89e7b776eadacf17f5dc30e76eb5a0",
-    "5607f754baf96a9aa11cd31dcc9f455d",
-    "b71b154119384c22ff9c27bc64f31442",
-    "8586c4c13d75fa389bd4eb7238398c93",
-    "35acb692109a1cc0815132f22b85e70e",
-    "fc587c662d9fc2802695a0a1a59416ea",
     "8712e178a3bfd5d96097107140387c9b",
     "9e790dfc52c64a18763e5a1743c03094",
     "41965850587a5277456ba9cae1223fbb",
@@ -16001,7 +15995,13 @@
     "749e9114836c653228d6cf122d7c4f1f",
     "edda7b4f6e7b9638a48aad4decab3930",
     "453e7a02c5f01870a1d1ea87293a3d43",
-    "0a324d5fdf61fada48453dae1f86bbb2"
+    "0a324d5fdf61fada48453dae1f86bbb2",
+    "c1a677ad1415e8700afefeeae2e7182f",
+    "b74ab0a966c90e791bad701ba6bc3b80",
+    "7a90b26c625ebe80fc3f5e6968487d3e",
+    "be8f2d82dc57d05745affd00b857ae43",
+    "d7cc055ea7853fb49a6e200dec7a470d",
+    "af53a2c3efbea3572149c39042300b75"
   ],
   "transfers": {
     "pages": {
@@ -21060,6 +21060,26 @@
     {
       "t": "4 all answers asking best equipment field gadgets get guns including loadout meta modern mw4 need perks post questions stop ultimate upgrade warfare you",
       "ts": 1793199714.1036139
+    },
+    {
+      "t": "8217 anthem asked bioware caught could darrah done exclusive executive game have him mark might post potentially producer save saved what",
+      "ts": 1793199719.518197
+    },
+    {
+      "t": "active aims astralis avoid has ineligible its jabbi major make nigh nightmare pgl post restored restores roster scenario singapore that them vrs would",
+      "ts": 1793199723.0798624
+    },
+    {
+      "t": "according cyanide free game games happonen honor jarva jarvan known lauri league leaker legends passing post rewards riot set skin well",
+      "ts": 1793199727.349906
+    },
+    {
+      "t": "2027 ahead appeared batio confirmed confirms departure expected first fnatic g2 has insi jacob join post roster season their valorant valyn",
+      "ts": 1793199731.2908218
+    },
+    {
+      "t": "6 8216 8217 aren around being contr controllers g7 gamesir gta has line new officially post pro reveals that themed unveiled without",
+      "ts": 1793199734.7991943
     }
   ]
 }
