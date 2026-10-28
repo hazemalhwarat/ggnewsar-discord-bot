@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbDhsQVpnTGRUQnR6OFRHaUdiVnY4LXJnSEtVdm5lN21BcXVaSmd1aURfbjJnOHY5YklZZ2VzRm93dm5oQkVxbWszdXlTYnN2dU1uRWcweF9WeVNxT1ZRd0RzV1MwQ1U1bFF2b01fMURvOG5JNXJUcXRmcm1XNXhZTDB2NzBKamgyMm1CNHRZYmZ0WU4xVmI4MHMwanNXNWR6WGRCLVIyNDRURWZuQUE2czNSWUFKQjlGM2RBVjlHcnlmVUdxV1IwNEdwNjRsWk55TmpDNUJIMkl4U0p3UThjU1ZsOEFxVXROQzg4aE84eVFjX0tqZnd0M1JQbnhudWNqd0pDTVQwUU1ZOUxzSjJvZg?oc=5",
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTi1mdVdzdUtacFRkbWtlVC1VQmM0UHZ3S0JLdlRlLTNCN2pDQ3JUczVPRFVKY0FkS29LTWZSNmtLTmlTOHBZNTllcGJLYlAtTTExN25mdnpsVkZEV2ppM3ZwbVFISmtCZF94dWRzSGVhYU4yZzZnYXNpOTFIUGZMaDIwTFF2anVxbVNMUHRFanJRZjhUN3Y1S0FqdnR6YjBJWlo1dU9zY01FRUlUdjB2bTBFR1ZPY0U4dl8tSjIwUlhjSnZQTHczOXd3UkxYRkdLdkY4d2lweWF2dnFwRHJ4SHZKRkRERFdYWXc?oc=5",
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZFdqd2RWM0FOeklhTkNZd1BUZEpJd1BzTWxxZDhwUkhXZUFrUUM4dm02MV9WMWI1czY3TGZiV2xhQ1VoSE55cFd2LVRaWTBYTmt2ekE0WmpfOS1aaHF1eDFjOXhYTm1wdHFrdDQtTXBlNGFSeEU1ZFJTS1U5dFNKLUdIR29NbWNZNUJrS3hnVFZMQ2t3XzNxRzEyUUstUkhXaE5VY1FIZVZnbXhjV1BPYVBGVWMtelN5R2VITWM3aUkxcTEyczVhRFRiOHdSQnU1UDZpR2EybWFWUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjZHOUc0akI5WEcwTUxyLXBlcHlmYm8zVlczX2NZWTFwNFAzLUNVOFJ2WmVpaXdTcTNiZjFaVUVPNnd0TU1JUm1Pc1BRVTVFNFplTmpuSE1XcjExOS0zQ3VDOVYzYjktNDZLaEFYeHBSNXJ0a3F1NUZXTXVVeXFkOVYwNU9QLW45N0tpbkNMa3ItWk9GVEpud19sNTMxbGc1TkdrS1RqVjd1RGc?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa2toNlYwem8zV1lkcTdORUk5M2pqUEJzZkpRdDFnWDlUUUFnZjBTdkl2YVlFT083QUFhVk5aRWg4QXpPbEFNMXA2d09aVWx1M2R4TEM5U3JTd1lRVHpnQm9CdXR5RWJZSG1oaGtyM2tJV1hJM1BQOENrTURQb0JRNzFDU3I5d0hNMmtZTkx2T3k?oc=5",
     "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1rNGlxN204QlhoeU84M2s5NGZUbEkxTGtkUzQ1TnU2UGVWVHhxZ0RJSTlkeVlHWUd4bnM1aHE3NA?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd3VrYVctZjhNSVM1WWRXa3pCTk42eFRIaEJ1dDgzb0tDcU5XUlRFdHU5eG51cG0zOFdEMkRVVHRhMG91Vmh3UlJDUmw3QldUY0xTckN5eURrWmM4OU9kYU5ibnJjRkRSOUVPZnpjbmdlOVlmQXBFRTJXMHB4cG84X3ZBZEpRWGpwTk5abVppZHFWUnFycE82X2hneXo1emZ5dTdaQW9kWWxzSkJaWENZOWFR?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeV9VSHczanFReFVETC1Calllekxld2hBVHdHLXdodkZRVzFYYUR6WFdaVWN5M2xkQ3paSHVVN0pXT1I5NUhZOTZDajZ1M0JXWkhYMHdsWWNhdTFmYWhIOTFiUDZobjF4NWQ5VmhBOEpOVEtXRk5oMzc0bDJzV0l1ZzdWUWQyR19SZ0M2RVFIdmYyWmFYaGdWcGxMX0xyTkE0SEhwUHdTcG8wUdIBrwFBVV95cUxQcVlRbDIxTG9EaV92QzlYekd5MkJEX3pxRUJtLXVfcXFLSFpqcjF4VzR6Q2M2eEhHc2ZEdHg3dkdQM3VMNG1fUVRjR3JJQVVqMjV5NHFQOTh6aEpKZWlSZWJsTGgtdGhLSUpld2p6YWtCOFgtcDg0YjBvekh0UHkzZ183RDVVd29QNC12dWlGWW9qeEJRLWtsdlIyYkJ6bkkyZ3ZzR2sxZUQ4b2hzeXVr?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOajZiQUVDTXQ5dEdTMmZhaUNzeDBTV2FIb1lEN3dic212bi02SHBRcS1fVkQzbjF1Q2tRcjVxc2ZzVGFVVFpuX3ViekpJZ1h3NVVaLXVjSklicGZKWlJHcnVZYXVBeW5UdjVROV8zeFpPSWlhQ3U0Xzk5dDJEencwNjQ0TmxmN2xwRXJhZHRHM0JJQmZ6TzYzUkJn?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE5tZDZqaUZQQkI4TTM5QUF2V09MTGpKNWVhZzdtaGlqTnhSV0RNcEMzaDh1SzltaWNBb09WRV9vUnMyOFRRNFdJX05LbTdWTlVqY0lOU0lCRzN0VDVtb2lIUEp0enVhR3hDaUhiSlFPQU1QQQ?oc=5",
     "https://esportsradar.gg/moonton-games-and-qiddiya-sign-five-year-deal-to-host-mpl-mena-grand-finals/",
-    "https://esportsradar.gg/scarz-signs-partnership-with-space-management-firm-j-front-prime-space/"
+    "https://esportsradar.gg/scarz-signs-partnership-with-space-management-firm-j-front-prime-space/",
+    "https://esportsradar.gg/riot-confirms-financial-support-for-non-partnered-teams-in-vct-pacific-restructure/",
+    "https://www.talkesport.com/news/gamingcon-bharat-2026-18-527-visitors/",
+    "https://www.talkesport.com/news/discord-messages-searchable-on-google/",
+    "https://www.talkesport.com/news/india/lets-game-now-raises-rs-30-crore-anand-mahindra-isgl/",
+    "https://www.talkesport.com/news/valorant/vct-pacific-2027-format-kickoff-cups-qualifiers/"
   ],
   "title_hashes": [
-    "cce7a1310f1bf3a21c1b554d512106b5",
-    "141a89d41eec4ff0cfcb6199f687e044",
-    "abc3bf390eba47502d97a83767622879",
-    "5766b62894effe4ca6121313faf1c7fd",
-    "64f345089c6222ae623052be1b7fc20a",
     "ecdac97420913da05759f55ae195a371",
     "1ba7ae9cdca3e4560c4e45a09c4452e0",
     "c7a9c9eb1e76bfecbd622b64dd311f4b",
@@ -16001,7 +15996,12 @@
     "89a6bdfe20ff3964f59e6aaeeae031d0",
     "63c400c15689128747a23fb2fb7ba24d",
     "69cac23f504210833705865772e7da9a",
-    "f1bffb5296a15a61cfeb88f90e857571"
+    "f1bffb5296a15a61cfeb88f90e857571",
+    "a7d9256bdc4f1dcbd09b6dc1e9643eae",
+    "8df9e6eba6671f96ca6428c44d2c660a",
+    "e1f8f2d290044bfb87243991ef14d64d",
+    "52d925b14a5f8a6019f48f26ed44ce47",
+    "18c8f94b906b1a90c4bfb97a0fa38cde"
   ],
   "transfers": {
     "pages": {
@@ -21100,6 +21100,26 @@
     {
       "t": "agreement apex best entered esports firm front has into its japanese known legends ltd management operator partnership prime rosters scarz signs space team valorant xenoz",
       "ts": 1793199754.7637918
+    },
+    {
+      "t": "202 cash champions confirms financial fixed games introducing major new non offering pacific partnered payments qualifying restructure riot starting support system teams tour tournaments valorant vct",
+      "ts": 1793199760.4559984
+    },
+    {
+      "t": "18 2 2026 527 according across attending bharat concluded conventi days ends event events gamingcon idex mumbai nesco october organised post press release visitors",
+      "ts": 1793199764.0183878
+    },
+    {
+      "t": "2026 answers chats coming december discord discoverable find google hard messages mid open says searchable server servers shared today useful web",
+      "ts": 1793199767.6230688
+    },
+    {
+      "t": "30 anand behind bestvantage build company crore deal game gaming here indian investments isgl league led let mahindra now post raised raises round super what",
+      "ts": 1793199771.1908412
+    },
+    {
+      "t": "1 2 2027 changes cups dates format full games has how kickoff more non opener pacific partnered qualifiers replace riot season shared stage stays vct while will",
+      "ts": 1793199774.6273255
     }
   ]
 }
