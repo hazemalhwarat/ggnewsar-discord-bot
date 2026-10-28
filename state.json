@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://traxion.gg/play-assetto-corsa-evos-free-roam-at-the-simracing-expo-frankfurt/",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSXlqekJRT3paU25HUUNtVDh5cFZhaWY4T3lNYVRtTjVFWUxrQlB0M0ltMnM1bHd2LVIzR0I3YnpIZmpCNGxxTi1sRGtMcU1HOTFRVU9BVFlHbmFRSFZWRUF6dmQwY2pNOE56Zzl4Sk9IdFNzQWVzY3lqN1pCQy11T3k0alBLVGJoQmxiU0JUa21HeGdlN1l3NHkwRzF3WExxOUVoNlh5SWk4VmJwellMZEQ3WjctUFoyRG5GYw?oc=5",
-    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-meta-analysis",
-    "https://www.hotspawn.com/league-of-legends/news/worlds-jungle-power-rankings",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1ZvWVFYOWs4aGlESEtwZG9tTkRTdndXbjByUnZacGkwNDRzR1RjWlBWenVJQ2lOdzlHWm1xeDcxSUZqVWtGWnptdlIwRVVUYzd4THUzeFRzVDRPQ0JWdjNhT2plbE0wUXlDelYxbC1SWko3b3dUME5KQWRtaXlDaVk1cWF2aGc1SmgwVFdrNk1OWVpldW5WTg?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZlpMd0QtMVhRMEg2YkRTWWhCSDZCY0M0WnBEbTZiNGdoR094LVhmWFdyREdlQ3JjUzdBWERnQU5uMWV6QkN3eERvaUtFeVY0RU5ObGNpc1oxenlOUXVOS3FnUm82SjlaRjhTelhDX0FqMmdMbkE2ZjVOVTQzcjM3dA?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFpmQmc1RVBxZkNST3FuRzZqSnBLem5PME92UkcwRDk3WVFMZzZxaVRFa3djMnlMb2dyX2pPOTBkdVp4Y2p2VVVDbktFSDFCMDRzMEFOOUZ6YmRoaXByWE15YWhIRWRYQUxWd3l6UWhSeUxjWE1WLXMzMkFLUFBvbWx3OA?oc=5",
     "https://www.talkesport.com/news/gaming/google-playground-ai-game-maker/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/gentle-mates-confirm-vatira-atow-zen-signings/",
     "https://insider-gaming.com/wordle-hints-answer-october-29-2026-1958/",
     "https://insider-gaming.com/x-men-insomniac-games/",
-    "https://insider-gaming.com/xbox-year-in-review-becomes-xbox-playback-this-year/"
+    "https://insider-gaming.com/xbox-year-in-review-becomes-xbox-playback-this-year/",
+    "https://insider-gaming.com/gta-6-coming-to-pc-in-6-or-7-months-claims-analyst/",
+    "https://insider-gaming.com/playstation-plus-monthly-games-for-november-2026-revealed/",
+    "https://insider-gaming.com/gen-g-announces-new-rocket-league-roster/",
+    "https://insider-gaming.com/playstation-announces-prism-collection-dualsense-controllers-and-ps5-console-covers/",
+    "https://insider-gaming.com/palworld-nintendo-switch-2-pocketpair/"
   ],
   "title_hashes": [
-    "1084e2d563ab905f6e3b3eebb96ffbe5",
-    "26e86ee80a29fb2af91af7ed75163093",
-    "fc39f335531af105a3e1c996e498587c",
-    "bba928a5ca966afb3563424d68bd4711",
-    "3855b30c5633ce2ce4a8a71e70f50b9f",
     "4fce36994d40c7f1592870586bb7cc78",
     "248c368e0e3ce9afa5fafab2ab6307f8",
     "9c11f9d70918c951af6b0de426ad86a9",
@@ -16001,7 +15996,12 @@
     "1980fc74bf040c208989ecb0664f12de",
     "8b51f6f719595d32e7c713f899a48d2f",
     "5fe14f1c971e994a4566872d3b628d59",
-    "e13ec57535d2de718cce1ca61e2574d7"
+    "e13ec57535d2de718cce1ca61e2574d7",
+    "a96b7c547801e8f1f307e0a4746590d0",
+    "177dadc2e0c3f55ff804566e11f2f7d6",
+    "dc1004fabd626404017837a318c851c3",
+    "1dae91632d78b26dc93da83376a519b6",
+    "25ab96eae27bdbeae104be730fb28886"
   ],
   "transfers": {
     "pages": {
@@ -21136,6 +21136,26 @@
     {
       "t": "8216 8217 appeared becomes details firs here more new playback post replacing report reveals review that this xbox year",
       "ts": 1793218135.2402594
+    },
+    {
+      "t": "6 7 8220 8221 analyst appea claims coming concerns debut final gta has its looming made major months one over post prediction questions their",
+      "ts": 1793218141.6863678
+    },
+    {
+      "t": "2026 additions appeared been details essential first game games have here members monthly more november playstation plus post revealed",
+      "ts": 1793218145.32881
+    },
+    {
+      "t": "2027 announced announces apparentlyjack beastmode coach gen league new post rlcs rocket roster season signing their well",
+      "ts": 1793218148.8559294
+    },
+    {
+      "t": "8216 8217 announced announces collection console contro controllers covers details dualsense has here more new playstation post prism ps5",
+      "ts": 1793218152.4017656
+    },
+    {
+      "t": "2 allowing available ceo console handle happen him its love mizobi more nintendo palworld pocketpair powerful predecessor says switch takuru than wants would",
+      "ts": 1793218155.8448887
     }
   ]
 }
