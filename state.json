@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45662/sources-astralis-look-to-replace-duo",
-    "https://www.hltv.org/news/45661/taz-the-new-rule-is-difficult-for-me-to-accept",
-    "https://insider-gaming.com/pokemon-go-codes-and-rewards-free-promo/",
-    "https://insider-gaming.com/flyquest-progress-demacia-cup-global-invitational/",
-    "https://insider-gaming.com/forza-horizon-6-physical-disc-on-ps5-pre-order-details-prices-revealed/",
     "https://insider-gaming.com/aion-2-best-class-for-beginners-which-class-pick/",
     "https://insider-gaming.com/when-is-pve-coming-to-arc-raiders-pve-test-dates-explained/",
     "https://insider-gaming.com/forza-horizon-6-ps5-release-date-revealed/",
@@ -7999,14 +7994,14 @@
     "https://thegamehaus.com/nba/anthony-edwards-to-miss-up-to-two-months-with-knee-injury/2026/10/27/",
     "https://thegamehaus.com/nfl/deforest-buckner-traded-back-to-the-san-francisco-49ers/2026/10/27/",
     "https://www.vlr.gg/781119/efina-set-to-leave-gen-g-as-free-agent",
-    "https://gameriv.com/riot-gives-free-rustiest-blitzcrank-skin-to-eligible-league-classic-players/"
+    "https://gameriv.com/riot-gives-free-rustiest-blitzcrank-skin-to-eligible-league-classic-players/",
+    "https://gameriv.com/lacys-first-japan-stream-reportedly-goes-wrong-after-qr-code-leak-leads-to-%c2%a5500000-in-orders-from-trolls/",
+    "https://gameriv.com/ea-reportedly-pushes-generative-ai-as-workers-raise-concerns-over-morale/",
+    "https://gameriv.com/valve-says-its-fully-aware-of-ai-slop-on-steam-wants-better-game-discovery/",
+    "https://www.hltv.org/news/45839/nemiga-through-to-pgl-masters-bucharest-playoffs-over-the-mongolz",
+    "https://www.hltv.org/news/45838/legacy-bench-n1ssim-ksloks-to-stand-in-for-the-rest-of-2026"
   ],
   "title_hashes": [
-    "6a689dcc68cf17c6985e2420c28feead",
-    "65d926179c25f1bd2c1248fb0784329a",
-    "7b3fc307edd1dbf50d07374e03f488b7",
-    "297b9906ad55bab16c2050ee5476a1d1",
-    "2bcd5bf1085243a1129a05faf15dc831",
     "2e5e91c55ed2604e79796aa9257ede92",
     "023ca7f332f48ca5d37130abc138a2e4",
     "00f08e633ebf75169ba86979695e0d4e",
@@ -16001,7 +15996,12 @@
     "38deba603c8be0d1b394e850393fbaaf",
     "00342a9f9b01d026c82f301ad045be92",
     "21b7365174dd7333d58b9a8ed324a707",
-    "b86500204f07f5cc0a00d06ae0934c74"
+    "b86500204f07f5cc0a00d06ae0934c74",
+    "ba437ecc195ed6ddc17ae5ba73903bc4",
+    "a80f2dd302cd7d3af1d7fdbdf920d379",
+    "a40602ff46aa0860f130e882fc4b51ba",
+    "5a585996b6b4874aeec1122e29e50874",
+    "a3344689da53a281c886351d7bf23099"
   ],
   "transfers": {
     "pages": {
@@ -21020,6 +21020,26 @@
     {
       "t": "20 2026 21 addition anyone before blitzcrank classic collections eligible free games gives giving league least october played players receive riot rustiest rusty skin their who will",
       "ts": 1793199674.1569352
+    },
+    {
+      "t": "12k 8220 8221 accidentally after alle american camera code expensive first fosco goes had his japan lacy leads leak nicholas orders reportedly restaurant showed stream streamer take trolls turn twitch viewers wrong",
+      "ts": 1793199679.4023156
+    },
+    {
+      "t": "across also concerns describing development employees enthusiasm frustration generative its management morale over pushes pushing questio raise raises report reportedly teams technology workers workloads",
+      "ts": 1793199682.9841692
+    },
+    {
+      "t": "aware better crowding developers discover discovery frustrated fully game games how improve its keeping knows low open people platform players preferred quality says slop solution steam valve wants while",
+      "ts": 1793199686.5894067
+    },
+    {
+      "t": "03 2 bucharest dust2 hltv led map masters mongolz nemiga over pgl playoffs prospects rating syph0 through took victory way",
+      "ts": 1793199690.1301827
+    },
+    {
+      "t": "2026 after anchor bench exits group ksloks legacy n1ssim rest row stage stand switching their three",
+      "ts": 1793199694.2910697
     }
   ]
 }
