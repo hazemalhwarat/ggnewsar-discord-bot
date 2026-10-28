@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/google-playground-browser-games-using-only-ai/",
-    "https://insider-gaming.com/maven-quits-call-of-duty-league-relationship-merk/",
-    "https://gameriv.com/call-of-duty-caster-maven-steps-away-from-cdl-after-revealing-relationship-with-co-caster-friends-ex-wife/",
-    "https://gameriv.com/lol-creators-criticize-personal-match-replay-limits-as-riot-explains-security-concerns/",
-    "https://gameriv.com/aion-2-surpasses-400000-concurrent-players-on-steam-tops-steam-sales-charts-in-15-territories/",
     "https://gameriv.com/double-counter-data-breach-275000-emails-published-online/",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHlZY0wxMUpRNTFuUkFZVnFWX3JsU215T1psUlRVcUFMR1VHU1lZeTJhbjZNTWNISVBnQ2g4VjNrRFY3Rm1hdmZFVmtDUnVOUER6SkxmWGNlNTRSZ2JaM3djSUFnenk4Q3FuQkh2elNlQ29WV1FQV2NYSXZXLWd2NmpudFpkZkZob0FHR29Semt2VWFveENN?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGxBU3MxeGVDT1VUcWROODl5LXUyV1lNaDdUbUJPSy1HczdnczFQbUREakd4UU5XdW9fQzVnVy16aVFxYVhITmtCZmJjcV9KS3YxaDNvZGJaSHU4M3BrXzBWUDJWLXRPcGRVQ0ZqT1FjNnRHaWo5UnZKZ29tbVNHUFlvQXRlOGY1QUk5MlE0SUY0UXltQl9VTQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27831/anomalith-uniquely-flavorful-core-undermined-by-rough-polish-70",
     "https://www.invenglobal.com/articles/27830/witchbrook-launches-january-28th-2027-with-a-new-ps5-version",
     "https://www.invenglobal.com/articles/27829/crystal-of-atlan-launches-ghost-in-the-shell-stand-alone-complex-collaboration",
-    "https://www.hltv.org/news/45845/all-teams-added-to-the-pgl-masters-bucharest-playoffs-fantasy-game"
+    "https://www.hltv.org/news/45845/all-teams-added-to-the-pgl-masters-bucharest-playoffs-fantasy-game",
+    "https://www.hltv.org/news/45844/pgl-masters-bucharest-bracket-set",
+    "https://www.hltv.org/news/45843/navi-embarrass-spirit-for-last-playoff-berth",
+    "https://www.hltv.org/news/45842/yekindar-were-definitely-playing-better-before-thunderpick-we-played-a-lot-worse",
+    "https://www.hltv.org/news/45841/hooch-k27-are-very-talented-and-most-importantly-theyre-all-pretty-cool-characters",
+    "https://www.hltv.org/news/45840/furia-go-to-pgl-masters-quarters-over-liquid"
   ],
   "title_hashes": [
-    "63871b5fa1ff3d13be53cc7d683d7bb5",
-    "eff290ed050feec6fc145f4b1f6620b7",
-    "2d828ee6e6bd4fa80a197f836f7c6924",
-    "13fa1875a0c6ee4ad0c06c1c159ae506",
-    "9d469c268902c13ce555403cb58a7f69",
     "f5bfd8e2608340c39b0bdd1ea1243383",
     "a8c33fb42bd759801d3e77b045ca29ff",
     "def92746546922c0e6f7859b310c285e",
@@ -16001,7 +15996,12 @@
     "1618bcc6cbe8480d823e26aeb5501ef7",
     "4eff16032ca384944d95ce7ad0ea65e2",
     "025b15669239cc087b908624027f715e",
-    "36319777237483a87fa43fc35c99e678"
+    "36319777237483a87fa43fc35c99e678",
+    "9ef970257885ff9ce00f3e2dcb773145",
+    "fb3f021c25e3266fa0998848d205ce44",
+    "230604fda533e3e332b9d47f65346887",
+    "d1425bd725f2a31792126154fde63505",
+    "6a2ffff9e2bde4b1a2bc5a579e1b3371"
   ],
   "transfers": {
     "pages": {
@@ -21096,6 +21096,26 @@
     {
       "t": "added all bucharest dem0n fantasy far fut game have masters most pgl picked players playoffs sunpayus teams two",
       "ts": 1793218094.2719557
+    },
+    {
+      "t": "aurora betboom between bracket bucharest first furia headline lineups masters meeting mouz new pgl quarter rematch set",
+      "ts": 1793218100.5793185
+    },
+    {
+      "t": "almost beat berth bucharest embarrass last make navi playoff playoffs spirit third three time years",
+      "ts": 1793218104.114648
+    },
+    {
+      "t": "before benefits better bucharest campaign definitely despite enjoying feels furia group lot malta masters pgl played playing ride rocky stage their thunderpick trophy winning worse yekindar",
+      "ts": 1793218107.6217718
+    },
+    {
+      "t": "2020 2024 about all back becoming before being broadcaster characters coached cool cup despite enjoying former going has his hooch importantly k27 most player pretty qualms rlg skipper talented tesla they time very who",
+      "ts": 1793218111.1135738
+    },
+    {
+      "t": "five focus furia liquid masters over pgl post quarters seven will yekindar",
+      "ts": 1793218114.6179013
     }
   ]
 }
