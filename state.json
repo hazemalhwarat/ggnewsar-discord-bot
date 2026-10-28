@@ -1,19 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZlpMd0QtMVhRMEg2YkRTWWhCSDZCY0M0WnBEbTZiNGdoR094LVhmWFdyREdlQ3JjUzdBWERnQU5uMWV6QkN3eERvaUtFeVY0RU5ObGNpc1oxenlOUXVOS3FnUm82SjlaRjhTelhDX0FqMmdMbkE2ZjVOVTQzcjM3dA?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFpmQmc1RVBxZkNST3FuRzZqSnBLem5PME92UkcwRDk3WVFMZzZxaVRFa3djMnlMb2dyX2pPOTBkdVp4Y2p2VVVDbktFSDFCMDRzMEFOOUZ6YmRoaXByWE15YWhIRWRYQUxWd3l6UWhSeUxjWE1WLXMzMkFLUFBvbWx3OA?oc=5",
-    "https://www.talkesport.com/news/gaming/google-playground-ai-game-maker/",
-    "https://www.talkesport.com/news/asia/bc-game-singapore-major-asia-valve-exception-s1mple/",
-    "https://www.talkesport.com/news/lol/riot-delays-league-of-legends-private-replays-patch-26-21/",
-    "https://www.talkesport.com/news/cs2/fallen-retirement-opinion-furia-spodek/",
-    "https://www.talkesport.com/news/cs2/bc-game-vrs-singapore-major-valve/",
-    "https://www.talkesport.com/news/double-counter-data-breach-discord/",
-    "https://www.talkesport.com/gta-6/gta-6-robberies-rob-any-store/",
-    "https://www.talkesport.com/news/cs2/pgl-bucharest-2027-open-qualifiers/",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE02dlpJNmVCT2k4bDZWUG5DSTJEcTBfMDExMTZJanJMX19wbnNfV3dFU2tLV2d4WEFtcjFOdUIxVmxMSXM5LWJ0WlpHZU5hNzdXaWNpV3d5M0htVzIzeVRqSzJaOGp4dl9WcElBUnJLWFVGYVRIbzBhUg?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUFBhR054R0Zaem14MkF1TnN5U3NJWHkxWUN5NXVmLTNOZWxDZDRLQ3BUV2hsNnJaSDNVQzJFaFlfNWdYcThZVGl5V2ZLRnpLNDBudWh3WGtCdzhpYVJSZTRuU3NWX2EycVA4WGJoOUlfcmwtT3pXeHBrcjNfNlNyeg?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSDZMSS03UEF1dmdzbXZFVlN5THpjV2psc0YtNXhlNFc2VEs1Q0JHcm9hTjM0NFY2YjJVdlRaMnlVVzNxc1NxcThzTGttOTgwTEVmMUtFTXFFd1lzVFN2NUd0VzFVVjhibzAtWmpHNW05RV9rS2VzY0hrWlJUbER1ZmgyUDY3eFZQaVNkVXg2T2hQa051LUI2bXl5aUVycGZCQzZFUVBjMFh5aDBHVkVBc185NGMyMmPSAVpBVV95cUxPanhuUWFsME9BVHZjZkVjUEwzZlV6WDhvY1lLV21PV0J2aWZzc2hVRjhVc2ZqTlozV0JDUFU5LW5EWGljVkhlUWJsSTZ2V2tZSV9SN25qNjdtbWc?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUtDcldBd3hHY3BzMmVPR3RORW1jR0d6MHFDT2ZnVEFYNGY4SHFLWTFfbDFKdmhFV2F5Y29pVVRSTlJTRUxpYXpWR082ZzRrenlPc2JnSlp0Ukw4cjlYT2FVYkF3SWctR0dCSi02cTUxZFo1azFGWEoycU9nYmFCTk9TN25NU0luR2JkUmZn?oc=5",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xTG9LQ2VXMVRpZWpqc01vZi15VUt6aGx6WFhrTGpwUFBWZXlEZXFzUjRWc3M3MFlhUWdWSFVBUnNVTHZ2ZEZYX0pMc2NTSHJTQVdYLXpRU0lPQTQ2?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmpfcXQ1V1NZX0tDdWtXaU9FcXJIcjJrWVFpVEs3SmI1OTVXMGREMVljZGxGbFFlSE5OTFV3ZHM4OEtCaWJLeUtoWkpRSGVPaWlJYnVFZW93QjRtNnlrTXktZmZ4dlVLOEVaUDlUdlVuSmI4VkYzVHg0eU96aUxSVzZVU3dTVERrWWxSR3BmUGthUXE4NXc?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFNNSHVKRGhkSTBQbDhBeGVKWWx2U0JldEFKdzlKY0ktLU9CekJ3NE5vQ1I1S3MyYWxEV21tR2lXZVotUDhjclRESXEzUTZYZE9PRUtPa3JwcF9fTTQxQ3BKbHg1ckgzSmFaT25OUXJNUElyUFV5NXo3c1FRVUwwdkxwblZYZ1BjeGx5UWY0Y21YYUU?oc=5",
@@ -7999,23 +7985,23 @@
     "https://insider-gaming.com/playstation-plus-monthly-games-for-november-2026-revealed/",
     "https://insider-gaming.com/gen-g-announces-new-rocket-league-roster/",
     "https://insider-gaming.com/playstation-announces-prism-collection-dualsense-controllers-and-ps5-console-covers/",
-    "https://insider-gaming.com/palworld-nintendo-switch-2-pocketpair/"
+    "https://insider-gaming.com/palworld-nintendo-switch-2-pocketpair/",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbndpbGlvS0dDemY0cThMYjJZMmp2SlhRd0ZDSHlPb1oyQVBNQWlRaHBpVDZxWjVmLWlHSFBnQWwxczNOTTROaHBSUlVmeC1zQi13MHEzRVlSQzF2QV93UUtLUWpsaWV0WFpNZE9tM0pXei1uYTZNcjkzbXRNSHE2Q2RVSE5XY0hKRGtaVkpVaDVHeXc?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWjVpaUhUbVQxRXVacjRCN0piR25FM0JaLXRUT0JycWRueFV3Wi1MV18xTWdGd29NdF9WV2hPOWRxY004aXNxdUpGSG1JY2xCY01lRl9BSUdDOWVVank2MmJxOVNJaUF2amNGR2RvTm40dTJfSmUxVFJvVl96QTYyMWZxQVRRRFRybVMwLWwybjRQNF9LenVKU0l3?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdFNIVlY5Tjl4anEwVVRkdHZrOWFNVDVaVWpEWWc4SEROSk01WGx5MUhBUFFpdVBDb05oVjRCVldhQ2FvZElmXzFaVGxYcFpOcWk2eHUzclBNcHpDTHNFSy1YVWhGdG9VWG40SWFDY0xMelpQNGtxeGE5QWtPc2VyOHJuMU8zQWtpM2htMEpIN2UxcC15WmMwRDNOOW8?oc=5",
+    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8tZl9iNVFtQ29tOE5EYnlxeXJDOFkzMkxTc0hTbTQyemY4cDlFVUp0a1BmaHpBLUhJZ1Y1QlZyMDNfd00?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aOU05S0hRNlhyeDFZRnNoeXljUk5FWVB5WEFSVmFlR29aVWRtNVdSME5uRnQ4WXRHVGdYaHp3Rk16U0ItcXpmOWRuUVpCUEVEOFdneFJTUkVWYWJRbk1KcHIwNGU3MkRrei1QcGFXQUVZMHpFN2p3QmNIWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkpmNTM3Q3NYMjhWa1VYa0pqR0Z6M0ZpZ0lBeHBVNmxJQlItWWdraG80Zk9ybjlTc1p4eUhETWpWQmJlWmJtRERNM01GLVRzTGRGSFJMYXV5UDVZTkhyem1lWTZMSDZZN2xrdmRsdEtpRC1HbmR6eEhQWE90VWg5UmZB?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6MzRoYjlyNzFMVEppN05panEyeFd3VjhnZGJidzVnV2gxNlhLb2NhaHVZY0tlTlM3STNGVF9LRnQwSzdRR3Q0cVZyMEc2R0NrZlZzSzBhVk5qMkMteHhYQ3NFeVk3VUJMdlE1eXVuUUVTYmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ucWtua2RIRXVWdzNKX2pPOFJGREdvcXB1dnNja28tVnp1Z0loZXBpaFFhUkt6OXhYcWwwT0JRY2FSU2RteWlaQ2d3eG13NnZyN1REMw?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZTZDlyZTBka0NoQkJVMUdmRjR2dGNPRXA3T204VG9PT0ZCYjY2NnJ3RVFUelNRaFVyLWpNWnB0aWlTZXNMdk4yTmxOb1dCb3RGM2ZENTY5NzByeFNFanpMQ2ZqQ3N4V1VEeDRBajVLQ0w5cUE4OWFMNjhELVhsOGpPek1XT2piOXhJVw?oc=5",
+    "https://www.talkesport.com/news/valorant/valorant-grave-matters-capsule/",
+    "https://www.talkesport.com/news/india/tencent-pentagon-blacklist-bgmi-india/",
+    "https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games",
+    "https://www.gamesindustry.biz/hearth-and-hamlet-publisher-runic-forge-rebrands-as-pythia-games",
+    "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-better-meetings"
   ],
   "title_hashes": [
-    "4fce36994d40c7f1592870586bb7cc78",
-    "248c368e0e3ce9afa5fafab2ab6307f8",
-    "9c11f9d70918c951af6b0de426ad86a9",
-    "1c1f2430e210bd277aafd6ce248bb9e9",
-    "5e68df4f8f9dac6dccb07e599b649519",
-    "b71f74ebedc73be53e03cd4c708fecf3",
-    "c7e5d46d0d48e1758416f5286445704a",
-    "27305494219cf50d54a0b242a4f2ff5b",
-    "61b148b1d4e21ffcda07c663045589f0",
-    "1b4c15895134d7e7af2e14c3c1c8d2ba",
-    "ff10fdaa7194eeb7dd0ce3bd3d9ea184",
-    "e1540e3c5712bbcd91e4745ed11a8f08",
-    "87e3a928ff32dca1d1b706694d46844c",
-    "81d8197e996476d2aa4f59181d468aa9",
     "72e0af03a34229233c655ee26471e753",
     "219a426fd0c4dc7c3663fa4f393c05d4",
     "c5f8ee4a8d2eebf9625ad1c630829b8a",
@@ -16001,7 +15987,21 @@
     "177dadc2e0c3f55ff804566e11f2f7d6",
     "dc1004fabd626404017837a318c851c3",
     "1dae91632d78b26dc93da83376a519b6",
-    "25ab96eae27bdbeae104be730fb28886"
+    "25ab96eae27bdbeae104be730fb28886",
+    "109164a53d942545f6baa38547e7214f",
+    "7e5a94c468da61105aa986424b30c3cf",
+    "f08e480c7460e193d6c88683b3c6e310",
+    "4a6bc09bc190b903ffb220d0eb3adb53",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "073a07a55a8ce47f8ed7af52491c732a",
+    "c5a21635ac7a215a1e05e1fb6cc1620f",
+    "c5a21635ac7a215a1e05e1fb6cc1620f",
+    "c00aeaba829afab46c442ee2ba926db8",
+    "3a6d5694e1fe72d46f7dce453e3be1c3",
+    "ab9f8b88c65b3bddacb503f802af8a99",
+    "f0e88753aa8f7010b4626dbbd5d35b1e",
+    "5bdea6d27e4459a570a811df152e615f"
   ],
   "transfers": {
     "pages": {
@@ -21156,6 +21156,26 @@
     {
       "t": "2 allowing available ceo console handle happen him its love mizobi more nintendo palworld pocketpair powerful predecessor says switch takuru than wants would",
       "ts": 1793218155.8448887
+    },
+    {
+      "t": "added almost being brand capsule collection contents cosmetics date games grave halloween here latest marking matters more new occasion price release revealed riot that valorant",
+      "ts": 1793218161.3772616
+    },
+    {
+      "t": "30 8217 any barred bgmi blacklist chinese companies contract defense department has impact india its june list military pentagon since still tencent",
+      "ts": 1793218164.8602414
+    },
+    {
+      "t": "announces content creators developers directly event front games influencer launching london marketing media more person platform pre pressengine puts read show showcase that upcoming",
+      "ts": 1793218168.5822213
+    },
+    {
+      "t": "forge games hamlet has hearth more publisher pythia read rebranded rebrands runic",
+      "ts": 1793218172.1413112
+    },
+    {
+      "t": "5 better blocks building catching clear far functioning game goals have how indie iss long made meetings now operating part purpose run series short solving studio system term this you",
+      "ts": 1793218175.6805904
     }
   ]
 }
