@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/xbox-ceo-wants-to-serve-a-billion-windows-pcs/",
-    "https://insider-gaming.com/how-to-get-bully-fragmenter-destroy-bully-in-arc-raiders/",
-    "https://insider-gaming.com/furloughed-star-wars-zero-company-developers-returning/",
-    "https://insider-gaming.com/battlefield-6-game-pass-october-13/",
-    "https://insider-gaming.com/new-sony-anolog-patent/",
     "https://insider-gaming.com/google-playground-browser-games-using-only-ai/",
     "https://insider-gaming.com/maven-quits-call-of-duty-league-relationship-merk/",
     "https://gameriv.com/call-of-duty-caster-maven-steps-away-from-cdl-after-revealing-relationship-with-co-caster-friends-ex-wife/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27836/no-mans-sky-forsaken-update-adds-spooky-traders-and-launches-the-game-on-ios",
     "https://www.invenglobal.com/articles/27835/cities-skylines-expanded-edition-launches-on-nintendo-switch-2-with-10-dlc-packs",
     "https://www.invenglobal.com/articles/27834/transparent-dualsense-ps5-accessory-prism-collection-revealed",
-    "https://www.invenglobal.com/articles/27833/shueisha-games-brings-ball-sport-action-game-bakudo-to-nintendo-switch-2"
+    "https://www.invenglobal.com/articles/27833/shueisha-games-brings-ball-sport-action-game-bakudo-to-nintendo-switch-2",
+    "https://www.invenglobal.com/articles/27832/mobile-suit-gundam-battle-operation-3-announced-supports-ps5-and-steam-cross-play",
+    "https://www.invenglobal.com/articles/27831/anomalith-uniquely-flavorful-core-undermined-by-rough-polish-70",
+    "https://www.invenglobal.com/articles/27830/witchbrook-launches-january-28th-2027-with-a-new-ps5-version",
+    "https://www.invenglobal.com/articles/27829/crystal-of-atlan-launches-ghost-in-the-shell-stand-alone-complex-collaboration",
+    "https://www.hltv.org/news/45845/all-teams-added-to-the-pgl-masters-bucharest-playoffs-fantasy-game"
   ],
   "title_hashes": [
-    "561a444f37b4ec29c3127fc22f2fe733",
-    "d72b6b96eefb9053a0799da92bcd15fa",
-    "18c2ab7bd5cd36e845c1a8e310e359d3",
-    "0d6a151a7fccdb08daf317c2bdeb853f",
-    "093caff75b58f426cfdfa800f01de039",
     "63871b5fa1ff3d13be53cc7d683d7bb5",
     "eff290ed050feec6fc145f4b1f6620b7",
     "2d828ee6e6bd4fa80a197f836f7c6924",
@@ -16001,7 +15996,12 @@
     "8176f3c811f6a1894776405ed10d933b",
     "01e5579db00d535b9c78217546fbb983",
     "efe86b6808ff05f88e5c0a54f49ae776",
-    "74eaaae74299b29af3f39db772517417"
+    "74eaaae74299b29af3f39db772517417",
+    "b1a6d09fed7d58c93a9631ffddbdb7e4",
+    "1618bcc6cbe8480d823e26aeb5501ef7",
+    "4eff16032ca384944d95ce7ad0ea65e2",
+    "025b15669239cc087b908624027f715e",
+    "36319777237483a87fa43fc35c99e678"
   ],
   "transfers": {
     "pages": {
@@ -21076,6 +21076,26 @@
     {
       "t": "2 action alongside bakudo ball boss brings confirmed drama game games has japanese launch nintendo rush sayil school sci setting shueisha sport ste studio switch that via will",
       "ts": 1793218073.3877022
+    },
+    {
+      "t": "28 3 action announced bandai battle cross entertainment gundam its mobile namco new october officially online operation play ps5 steam suit supports team title",
+      "ts": 1793218079.9718566
+    },
+    {
+      "t": "0 7 among anime anomalith became been before concept core fans flavorful game girls have long mid polish popular rough sought subculture tactical term undermined uniquely well",
+      "ts": 1793218083.4466138
+    },
+    {
+      "t": "2 2027 28th announced chucklefish developed german has its january launch launches life magic new nintendo one ps5 robotality sim studio switch that version will witchbrook xbox",
+      "ts": 1793218087.1050787
+    },
+    {
+      "t": "28th action alone anime atlan collaboration complex crossover crystal free games ghost has its launched launches live magicpunk mmo october play plays rpg shell skystone stand today",
+      "ts": 1793218090.7462604
+    },
+    {
+      "t": "added all bucharest dem0n fantasy far fut game have masters most pgl picked players playoffs sunpayus teams two",
+      "ts": 1793218094.2719557
     }
   ]
 }
