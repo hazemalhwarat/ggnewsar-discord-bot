@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thegamehaus.com/fantasy-football/fantasy-football-week-5-quarterback-rankings/2026/10/06/",
-    "https://thegamehaus.com/deadlock/deadlock-baba-abilities-breakdown-first-look/2026/10/06/",
-    "https://thegamehaus.com/nfl/nfl-week-5-picks-against-the-spread/2026/10/06/",
-    "https://thegamehaus.com/nfl/nfl-week-5-picks/2026/10/06/",
-    "https://www.hltv.org/news/45663/bcgame-ceo-asks-for-fresh-start-take-all-our-points-away",
     "https://www.hltv.org/news/45662/sources-astralis-look-to-replace-duo",
     "https://www.hltv.org/news/45661/taz-the-new-rule-is-difficult-for-me-to-accept",
     "https://insider-gaming.com/pokemon-go-codes-and-rewards-free-promo/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27791/nba-dunk-city-launches-season-2-adds-3-new-players",
     "https://www.invenglobal.com/articles/27790/moonlight-peaks-launches-on-playstation-5-on-november-17",
     "https://www.invenglobal.com/articles/27792/skill-core-drop-rates-buffed-tl-overhauls-damage-judgments-and-teases-november-core-rework",
-    "https://esportsinsider.com/2026/10/team-liquid-sweep-anyones-legend-out-of-worlds-2026-ending-nas-13-series-lpl-drought"
+    "https://esportsinsider.com/2026/10/team-liquid-sweep-anyones-legend-out-of-worlds-2026-ending-nas-13-series-lpl-drought",
+    "https://esportsinsider.com/2026/10/evo-brazil-2027-lineup-prize-pool",
+    "https://thegamehaus.com/nba/anthony-edwards-to-miss-up-to-two-months-with-knee-injury/2026/10/27/",
+    "https://thegamehaus.com/nfl/deforest-buckner-traded-back-to-the-san-francisco-49ers/2026/10/27/",
+    "https://www.vlr.gg/781119/efina-set-to-leave-gen-g-as-free-agent",
+    "https://gameriv.com/riot-gives-free-rustiest-blitzcrank-skin-to-eligible-league-classic-players/"
   ],
   "title_hashes": [
-    "338eec1de0f085f132badc0b58e7a87e",
-    "abfb89f55b4b2679e2bfedf1e9508835",
-    "59245ab878b53b65b553fd0c2fde7aff",
-    "45681f531af36c1ff422e47d64c15763",
-    "cc622879c02400a298085692dac0a19a",
     "6a689dcc68cf17c6985e2420c28feead",
     "65d926179c25f1bd2c1248fb0784329a",
     "7b3fc307edd1dbf50d07374e03f488b7",
@@ -16001,7 +15996,12 @@
     "7229aeb542841031e39468c2f52be116",
     "519220b78ef296c82f74873601fb32ae",
     "53b1901f4683cc0a8491d6bd95f33ccd",
-    "290814306726ab50c4426f9f19a31785"
+    "290814306726ab50c4426f9f19a31785",
+    "78e260d11496ec587a89327f7f53ef97",
+    "38deba603c8be0d1b394e850393fbaaf",
+    "00342a9f9b01d026c82f301ad045be92",
+    "21b7365174dd7333d58b9a8ed324a707",
+    "b86500204f07f5cc0a00d06ae0934c74"
   ],
   "transfers": {
     "pages": {
@@ -21000,6 +21000,26 @@
     {
       "t": "0 13 2 2026 alienware alive anyone beat champions deciding drought eliminate ending game keeps lcs legend liquid lpl out result seed seri series sets stage sweep swiss team top win without worlds",
       "ts": 1793199654.0926332
+    },
+    {
+      "t": "1m 2027 26 27 28 brazil confirms eight evo game least lineup march money october open opened paulo pool post prize registration runs sales são ticket titles",
+      "ts": 1793199659.550141
+    },
+    {
+      "t": "8217 according action anthony arthroscopic being charania despite edwards espn guard his knee liste minnesota miss months procedure right shams surgery timberwolves two undergo will",
+      "ts": 1793199663.3281882
+    },
+    {
+      "t": "2027 32 49ers according back been buckner colts defensive deforest fourth francisco get has lineman pelissero pick return round san three tom traded will",
+      "ts": 1793199666.937898
+    },
+    {
+      "t": "agency agent efina enter f4q former free gen iam leave player set",
+      "ts": 1793199670.5780785
+    },
+    {
+      "t": "20 2026 21 addition anyone before blitzcrank classic collections eligible free games gives giving league least october played players receive riot rustiest rusty skin their who will",
+      "ts": 1793199674.1569352
     }
   ]
 }
