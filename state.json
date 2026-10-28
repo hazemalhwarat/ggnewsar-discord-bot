@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzNkdDZJX2JKeFUzSkd3U01oWEc1ZXJzZlZsUkNaaU9JWmN5M09ZczlRT2cwaTlhOE5yU3lob1FyZmhMUVdKdnctdEZIX1RDWjFiaXRMek0yeURHYXpTUEI2RnlmcTJIVzFGWGNUenhwaEhnemJFOGU0TG9mTkpQUC1JNTBjSzE0ZVBua2lfSmxRamp6WUEzeTZFa0hsNVhGcXAyVkgybzRYdXJvcUE?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmlOQUVlY3J0eHN1ZnJTU1Z2RGZlNzE4eG1xWkt2eEU0UDdYdUxTS2dVSklUeGtGN3ducndtNHFKRzBWWnFNWkZNZzFteTNQZVJVS0FLRzF4Y2pWdU5FbHVGejNKYzZ6OTRTS1Z4Y0U1NEU1cExUcnBQUFJOd19RdTZBbE1FakJ6OGRzdXF0Yk5pOV9yX3N6Z1BzQm13b2p6MF9BbmRSeUp4dGZN?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xZm9uU0h6bW1lTmF6ZmlxcTFaaVd2WWp6bS1TSXZ2NkhBS2ZWdDRnNTRpTmotSi05NHVCSml3eUg2WlZ0RWdVSGkwZXpLNFdCakhnVldwWTZNMTg?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xc01rdHhJNkhZck1sR0RuNmVmN2w1bTRjZWI0SEhubFBCeG5mYmUyc1hfWmJ5LWR6VGdXeV9GYVVSVFgyVWN4cW5wajFXR2tOVjlOWjFKTmI1T0hlVXJvVHVLUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKUEc5NkJJUGthOVMxX0h1VWhHUm9DOFBjZzloSkVwbVUxR0NFc0dYOXZvN2xSMU5Dazl1OW9xWHY5VExUemc?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fZFI5WHhOcnBYYlpxRk1DdjFxZV9fZkFIRmlNbGRsQVhfOWJSU3ZHOTJCTk1OYUYtMTIzQ1FhMEkyV2VOQ29HS0VWYlRQeFBOUDJ6ekJIRmxDOXI3S1VmNV95MXZtTTdi?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ORklYVFlrSjVfelhMblloOVE3amhQYzZuLXVYM2NJTGtkdnZYWlR2R2k5LUdnSXlIR0E1aW1Pb0hVaEdvUE1LV1Y0MEpLT01pVGhBM3dRcjdGU19YVXVRNnoyZ3E5d1pu?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HY2RtMzRPYXdoVEJ6QlFiRWlyb3RCc3hZRmpIUjFlejEyOWx5M20tdVdSNDB0UHYzeWFYbG9CUjNJQjFkdjk4a05IdVRoTXZnNk91SmpUa0VNc1pLX19nYml3Y2ZpSmVq?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYU1kMDZ0a1g3Y1BYc0JFaGplYVhxNWxkd3ZzUlB0QjJsb3NvX3RDSk53aDZvR2ZGUmVPa0tvcFo4QlRlekhiMy1mTjVsc3kwcWVORUlzV1hMNUUyTmJGdlZXclBOTTVrYVJXSHJPc1lPcV9feHhaMGJwLWFZRnFXWTd4clhfMWpjeERNcHp0QUprem95aDRHbg?oc=5",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTHZETmZqSUR0akZEMkg5WENSRldTWTEwZG1NZG1QbEtmZng2MFVMbElaZHhpa1dqdE8wN1NFVnRhaEJzcHBxb1Rjd2xlVjItR2RPNEwwandkRzRER3hiVEJ1YXFxS3lPdWFBd1VlZUZyeTZ6WEVody1GVXBua0pmQndxdXZ1Y0RGejdkSmF3NW5UclZtVzZNWUplYTVoVHp1OHkyTWpKWHhrbjZQOU1lOENZZUcwRzhpcmpfSFVOanVXdmxsYVVLcl9FRXlNSFAtQnZDX2dBb0s0bXlyYWExZ1FnQVlaSU9nUm5fY2hlSkVFd1hTVF9F?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVENwSGhPUDBLTWxNREdSVUNFY1JnUlF2V1Q1YXJvQ0dtQUF6dThEdk8yU01Ubm5WNFE5SHpJMXVsVXcyYWlyVlA1MWxidFBXX29hTmdLWkVzOWJ6Z1lGOVl0MW9qbFBkbDA1ZjU1QjhfMDJZeUFldnNNeW9WLURGdVdSVThvaXF6Z3U3TU94V2ZrOVhFQ2lFdGNzWmp2U2phbkc0?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/27781/love-delivery-juhee-after-story-launches-december-22",
     "https://www.invenglobal.com/articles/27779/skywalk-opens-pre-registration-in-korea-for-welcome-to-my-home",
     "https://www.invenglobal.com/articles/27780/acer-adds-lol-to-predator-league-korea-qualifiers",
-    "https://www.invenglobal.com/articles/27778/where-winds-meet-unveils-new-region-hutuo-on-november-14"
+    "https://www.invenglobal.com/articles/27778/where-winds-meet-unveils-new-region-hutuo-on-november-14",
+    "https://www.invenglobal.com/articles/27777/archeage-chronicles-to-launch-in-early-access-on-november-4",
+    "https://www.invenglobal.com/articles/27776/discord-public-server-conversations-to-become-searchable-on-the-web",
+    "https://www.invenglobal.com/articles/27775/eliminated-without-a-win-lpl-1-seed-anyones-legend-no-excuses-we-humbly-accept-criticism",
+    "https://www.invenglobal.com/articles/27774/rockstar-uk-staff-to-vote-on-union-recognition-as-gta-vi-launches",
+    "https://www.vlr.gg/781008/g2-esports-bids-farewell-to-valyn",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMkZsLVAybUMzcE9CRnlRNTY1Zk1nWVVzdGxqZ0Vzc3c0ZGUwZmxkZlp3enJzMnhtaVloMTh2TlFjeVFCQVpNQ1FyUWM0RjB3TndZQlNkb2xmWjZpdkVRYVhmdXo3blVrXy1yTWtTSXpXVU1WT1VqYzFpZ1RvRnY4XzlFZER0TWVIcGRuUzM2UHVYUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdldHQk4welUyWE5rVWZpOGs2eGIyOHZndnpLRk0zYkFRaWpWNXlOejcwWjI0a1h0VHY4RlVIYkNzTnV3MG9wMUdJWTZpY1Vnd3F2SEFFTW1XVEJzSm02VVFMeGc5bVJDQkRGeXJURzl6SWhyOHJPcks5OC16bTVrVF83dmpEdHc?oc=5",
+    "https://www.hotspawn.com/dota2/news/pari-universe-playoffs-day-1-predictions"
   ],
   "title_hashes": [
-    "6e95cab043ddc16062eadcbb8a4ae192",
-    "6001dc541d38f8fe94b39c7aa17a001d",
-    "c610bd8f5845682d3155ba07fea3f13e",
-    "f9262f9ff52c967f959598cd346e8405",
-    "465d07b41bcda3653f74265be5d43792",
-    "b0d31b64b988bddb3bf340e602d7140a",
-    "ddb0b4a8b6ac66466e3130726494576e",
-    "e4c96046564562013aa6f078ee6951b8",
     "213a8beb07ef4c26e82da92865b8a577",
     "cf531884d0bc9ef38cb7fac7b66b9f10",
     "61bc0355be3b9bd005fd0b51eb9a0a63",
@@ -16001,7 +15993,15 @@
     "49bf4ee3a3d15fc6d266af46297482ad",
     "a7d0aa2791fbd77b658ad819ff7c8ebf",
     "1581fdcd10ff9287de5716819b146494",
-    "2007ef3212d436ad45285da07df5107b"
+    "2007ef3212d436ad45285da07df5107b",
+    "8df5f4b9a5e882509dc62df6ef55eac3",
+    "e72e025f1bbd7e80c0d29e3c873c6b07",
+    "7fdcb4888160318533a37ec077f355fa",
+    "838b2402b5b5bd59d7fea4e9c73d8855",
+    "69e23630c447210cbb67ad5bf2cc7a40",
+    "aa0c25659cbb14542eb1b1f606d9219b",
+    "588fabfe9f90820267b15bd38afb2a82",
+    "23660d8474075b7978783c14e8fbb6e9"
   ],
   "transfers": {
     "pages": {
@@ -21212,6 +21212,26 @@
     {
       "t": "14 15 also anniversary celebratory events first global hutuo including its korea mark meet new november region release reveal unveils update where will winds",
       "ts": 1793152883.761874
+    },
+    {
+      "t": "become channel conversations discord discovery engines exposes external google including listed phasing policy public search searchable server servers that web",
+      "ts": 1793152888.679895
+    },
+    {
+      "t": "1 2026 accept anyone apology championship criticism eliminated excuses fans first has humbly issued legend lol lpl securing seed single their who win without world worlds",
+      "ts": 1793152892.1412551
+    },
+    {
+      "t": "12th 26th across ballot between employees game games grand gta iwgb launch launches november recognise recognition rockstar rsgwu runs staff that theft union vote whether will workers",
+      "ts": 1793152895.5870645
+    },
+    {
+      "t": "after bids departs esports ever farewell g2 game leader reliable team three valyn years",
+      "ts": 1793152899.0986896
+    },
+    {
+      "t": "1 1win any betboom bid day down eight farewell favorites first going group had heading into lose over pari playoffs predictions result stage team teams universe",
+      "ts": 1793152902.558175
     }
   ]
 }
