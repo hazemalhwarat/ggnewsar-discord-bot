@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVDV0a0FGdmk1ZzNRODNFbmNzdm9ZSno1ZVZqU242Uy1VRFUwaUpfU0N6eEVSeGw1TldkaHdFYjRxajBEOGdpbGk5S2JiR1VXLTdiWWRONENRRmtwMmhHWW1GVzJyTmxGWGxCbFhjbDk5OHJyRTlzQXZpREY3UlU?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHg3MEkzcmRaMlRzeEE5TTI1VUdNLWpUMllrTmR5OXhTTHNULWNTQU1wR0tPZV9iX1hOYjdFNFFvTEJNVlM3Z21Ha2I5ODhlYzVvN2xVQXluLUlKbFpHX2dhNExtcEt0TndzOWZ1clBac2ZtV1dpSkNPSWxGYi01YnFEY3hVVVFpcWhV?oc=5",
-    "https://esportsafricanews.com/kenyan-esports-qualification-dispute-raises-questions-over-athlete-selection-and-governance/",
-    "https://www.talkesport.com/news/gaming/cyberpunk-2077-movie-paramount/",
-    "https://www.talkesport.com/marvel-rivals/marvel-rivals-season-10-5-maintenance-end-time/",
-    "https://www.talkesport.com/gta-6/official-gta-6-merch-price-list/",
-    "https://www.talkesport.com/gta-6/time-off-work-gta-6-leave-rules/",
-    "https://www.talkesport.com/news/activision-blizzard-investigation-italy-eu/",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE92WkxTWmNmM2xRUUJDdkY1ZnlzdElqdERLZUxDbG1FZmY3c09tLWJJbkFrWXpIV0RCT0ExM1dnNEJHc0lLV21oeWFHdUpselo0c08xbkxjZVJHbDRVM1B0LXpnSnJFQ1ZwVmc?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkNEejVHRkxCSWU5Nkx6c0lTNGlfd1JEZ3ZLYjNTMWlad1phQTFRQUNNVjhUeF9Qd294bFA3aWtEZ29QUW1BS2kzdWE5eXQ1eW9kaGxGbk9sWXBkcE5WNnNUcjhZSDRkTGs0UldsakRrcldkNllVc2RtZm5qQ1AzQ2Z1M1JkUHFBYkcxUTRBc3RTWW1USl9iRkRXcjhLekEt?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BRllqLWRPMFdtNEVFRUtIbEQtT25FdmJiMUdfX3JldHlXNFk4b1BlMDdHcy01TnBwYzdaVXdLRm80TE1IaFhudDBxdjRpOGJYRmlF?oc=5",
@@ -7999,15 +7991,17 @@
     "https://www.hltv.org/news/45856/fallen-i-like-the-way-boombl4-thinks-about-the-game",
     "https://www.hltv.org/news/45857/hotus-major-chances-soar-after-tesla-cup-win",
     "https://www.hltv.org/news/45847/pgl-masters-bucharest-quarter-finals-as-they-happened",
-    "https://www.hltv.org/news/45855/furia-beat-betboom-to-advance-to-pgl-masters-bucharest-semis"
+    "https://www.hltv.org/news/45855/furia-beat-betboom-to-advance-to-pgl-masters-bucharest-semis",
+    "https://insider-gaming.com/netflix-pubg-live-action-series-donald-glover/",
+    "https://insider-gaming.com/patrick-stewart-star-trek-elder-scrolls-oblivion-and-x-men-actor-passes-away-at-86/",
+    "https://insider-gaming.com/gears-of-war-e-day-reportedly-sold-over-400000-copies/",
+    "https://insider-gaming.com/assassins-creed-invictus-player-feedback/",
+    "https://insider-gaming.com/ubisoft-assassins-creed-remakes-development/",
+    "https://insider-gaming.com/ubisoft-gives-update-on-assassins-creed-hexe/",
+    "https://insider-gaming.com/dont-expect-a-destiny-announcement-bungie-says-about-the-game-awards/",
+    "https://insider-gaming.com/wordle-hints-answer-october-30-2026-1959/"
   ],
   "title_hashes": [
-    "6d325f3293b99bb8d9d4974f773d2ad8",
-    "7e04c91348009325c066db8fbed9926e",
-    "98101d74c192c3f36f32494c826d9f0e",
-    "92d3008cf317af70227fa3d354cf3ac5",
-    "e3f21d9a5cc1ff805bc4dc3b83fd250c",
-    "f6a0291df30c7aa4690fdb69778a4749",
     "934f1ffadd87ac8456346446b8c4774e",
     "52c327cf138a6975384a24ba12410617",
     "2eaac9145acc1a9d62f1739c9306ca04",
@@ -16001,7 +15995,13 @@
     "fb628d0710483bdbb7ea8fa70899061e",
     "98652455b0c37ca8673b685a586751fd",
     "adfffce362f612d073d2658793b724f5",
-    "675446e796f082998d2dbe38c6e72923"
+    "675446e796f082998d2dbe38c6e72923",
+    "08c422b249eee66f63289e207c538f9a",
+    "2230fb2f12c255bb8528a90f03502278",
+    "c54ca37dcebc683cf6d7e6ef620f5bbb",
+    "526083d9d231465ce8293e83840193ec",
+    "e17d05c914c6dc498f64e6828c04bfe7",
+    "6e1ec35c0fcdbe33acd68d872ef8bd85"
   ],
   "transfers": {
     "pages": {
@@ -21324,6 +21324,26 @@
     {
       "t": "advance beat betboom bucharest company fallen fourth furia just masters meeting mouz pgl semis set six weeks",
       "ts": 1793311116.8833938
+    },
+    {
+      "t": "86 actor alzheimer away back body dementia described died disease elder family following game has his journey lewy look men oblivion passes patrick performances poignant scrolls short star stewart trek what",
+      "ts": 1793311122.386988
+    },
+    {
+      "t": "8217 any assassin creed dev development doesn franchise have more now post remakes right says ubisoft update works",
+      "ts": 1793311126.3818555
+    },
+    {
+      "t": "2027 8217 appeared arrive assassin codename creed details fir gives has here hexe major more next post revealed that ubisoft update will",
+      "ts": 1793311130.690435
+    },
+    {
+      "t": "8216 8217 about announcement awards bungie confirming despite destiny don expect fans forewarned future game has hopeful imminent not post remains says studio that",
+      "ts": 1793311134.283992
+    },
+    {
+      "t": "1959 2026 30 answer game get help helpful hints need october post starting today wordle words",
+      "ts": 1793311137.911629
     }
   ]
 }
