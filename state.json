@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/xbox-promises-to-simplify-publishing-process-to-attract-more-developers/",
-    "https://insider-gaming.com/next-gears-of-war-title-will-not-take-nearly-as-long-to-make/",
-    "https://insider-gaming.com/all-escape-from-tarkov-codes-rewards/",
-    "https://insider-gaming.com/sony-approves-sale-of-hundreds-of-vr-patents-to-meta/",
-    "https://insider-gaming.com/s1mple-and-bc-game-handed-vrs-rule-exception/",
     "https://insider-gaming.com/contexto-hints-answer-for-october-8-2026/",
     "https://thegamehaus.com/fantasy-football/fantasy-football-week-5-wide-receiver-rankings/2026/10/07/",
     "https://thegamehaus.com/philadelphia-eagles/eagles-to-trade-center-cam-jurgens-to-ravens/2026/10/07/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/gta-6-wont-let-you-speedrun-the-main-story/",
     "https://insider-gaming.com/team-liquid-and-sap-data-race-to-world-first/",
     "https://insider-gaming.com/gta-6-features-a-fully-functional-public-transport-system/",
-    "https://insider-gaming.com/shopify-rebellion-2027-rocket-league-roster/"
+    "https://insider-gaming.com/shopify-rebellion-2027-rocket-league-roster/",
+    "https://insider-gaming.com/aurora-enters-valorant-with-derke-and-boo/",
+    "https://www.dotabuff.com/blog/2026-10-29-gameplay-mechanics-that-could-fit-dota",
+    "https://www.nerfplz.com/2026/10/best-halloween-skins-in-lol-10.html",
+    "https://esports-news.co.uk/2026/10/29/mibr-gc-knock-sk-nebula-out-of-game-changers-championship-lower-bracket/",
+    "https://www.esports.net/news/gaming/g2-confirms-valyn-exit-as-reported-fnatic-move-would-take-americas-igl-to-emea/"
   ],
   "title_hashes": [
-    "046f40b47c54414d2034d1f525c6b42d",
-    "9e31ee9c780ebbefc267d3a6819405ff",
-    "63d3d53ae64edd4f3badfc6b578b76b7",
-    "e0bc875692dcf12da0989cc2f46b598f",
-    "77c3a504b5730285f12c0eb576024db8",
     "301b9ddfb5545483274391a4ba145b74",
     "951a342faf3a652d8bd80cd064ac494b",
     "75b947a29cb0ec79434710e53fcc154b",
@@ -16001,7 +15996,12 @@
     "d7feb691476717e2ccab37a96ac24799",
     "4b1d0698a0a2f18f29c8976233bc82ca",
     "921c9cd83863d08d9a43e43825a02046",
-    "5685d717141af77bd059b1d2492a294d"
+    "5685d717141af77bd059b1d2492a294d",
+    "84e0c9390982d32b1e8187f26e4237c8",
+    "609c03eb03378ae43eed93792adc4322",
+    "fccf42348d43550b2f2bd81662fee333",
+    "a407d886828f45775fac9c4bd5cf3ca4",
+    "c5d4eee4d1dc8f6051cb1b4b84fbaa6f"
   ],
   "transfers": {
     "pages": {
@@ -21172,6 +21172,26 @@
     {
       "t": "2025 adding announced champions championship has its lea league new nrg post rebellion rocket roster secures shopify thirds two winning world",
       "ts": 1793273241.1490867
+    },
+    {
+      "t": "announced announcing appeared aurora boo derke entered enters esports first gaming has includes nikita post roster sirmitev space that valorant",
+      "ts": 1793273246.511472
+    },
+    {
+      "t": "2e 5e all available better cases could dnd dota edge first fit gameplay look many mechanics might open options overwhelming pathfinder rulebook rules seem that there through yet you",
+      "ts": 1793273249.9080718
+    },
+    {
+      "t": "10 almost aren been beginning best champion different entirely halloween harrowing has into joke league lin lol ones out putting ranked scariest since skins that they turn",
+      "ts": 1793273253.4673162
+    },
+    {
+      "t": "0 2 2026 beat bracket championship changers continue final game knock lower mibr nebula out reach reading semi vct",
+      "ts": 1793273256.920001
+    },
+    {
+      "t": "2027 28 americas batio confirms cycle emea esports exit fnatic g2 game has igl jacob lead leader move partner partnership rebuilds reported reshapes rosters settling split still take two valyn who will would",
+      "ts": 1793273260.3252275
     }
   ]
 }
