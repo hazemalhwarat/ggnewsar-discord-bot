@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/nyt-strands-948-hints-answers-october-7-2026/",
-    "https://insider-gaming.com/ps5-crunchyroll-anime-hub-spring-2027/",
-    "https://insider-gaming.com/nyt-connections-hints-solutions-october-8-1215/",
-    "https://insider-gaming.com/wwe-2k26-update-1-19-patch-notes/",
-    "https://insider-gaming.com/cities-skylines-expanded-edition-switch-2-release/",
-    "https://blog.counter-strike.net/2022/12/40704/",
-    "https://blog.counter-strike.net/2022/12/40708/",
-    "https://www.dexerto.com/fortnite/fortnite-at-ewc-2026-streams-schedule-teams-3399711/",
-    "https://www.dexerto.com/apex-legends/apex-legends-star-imperialhal-says-the-game-sucks-now-and-has-lost-its-identity-3399139/",
-    "https://www.dexerto.com/league-of-legends/faker-and-chovy-signed-chessboard-is-being-sold-after-league-icons-played-with-it-3397522/",
-    "https://theloadout.com/pubg/2-release-date",
-    "https://theloadout.com/pubg/sanhok-drops",
-    "https://theloadout.com/pubg/karakin/drop",
-    "https://theloadout.com/pubg/arcade-mode-riviera",
-    "https://theloadout.com/pubg/clan-system-update",
-    "https://theloadout.com/pubg/in-game-sales-all-time-high-battle-royale",
     "https://theloadout.com/pubg/the-big-score-survivor-pass-update",
     "https://theloadout.com/pubg/update-new-map-neon-6th-anniversary",
     "https://theloadout.com/pubg/twitch-drops-rivals-6th-anniversary-showdown",
@@ -7999,23 +7983,25 @@
     "https://www.dexerto.com/counter-strike-2/kscerato-on-furias-major-heartbreak-fallens-influence-and-chasing-his-dream-3407176/",
     "https://www.dexerto.com/esports/gothamchess-joins-basilisk-with-goal-of-helping-its-players-take-down-magnus-carlsen-3402177/",
     "https://www.dexerto.com/esports/10-year-old-street-fighter-player-goes-viral-after-incredible-tournament-performance-3401122/",
-    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-swiss-stage-day-5-recap"
+    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-swiss-stage-day-5-recap",
+    "https://www.hotspawn.com/dota2/news/wholl-win-the-early-grand-final-pari-universe-playoffs-day-2-predictions",
+    "https://www.hotspawn.com/counter-strike/news/new-cs2-gun-rumors",
+    "https://www.hotspawn.com/counter-strike/news/nemiga-furia-and-navi-take-final-pgl-masters-bucharest-2026-playoff-berths",
+    "https://www.hotspawn.com/dota2/news/satanic-breaks-furion-gpm-record-og-upset-team-spirit-in-pari-universe-playoffs",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3lJM1BiR1EzbFBHV2p3ckd6S0kyVkpqVE9hLU1EZHBkVWJFOTA0T3FHVk96eUN6dTBLY2szX3NJRjJyR1BFUWxWaE1DZEEtaG04d09EUkNjUjlScXhiTXl5ZzJ3OExfNlRXZ0M5QXNVMFk2N25ERlJHOUhyc0duUktETW01NTR1SmZYVlFuZEt5ZEpudy1NOVNaQWFLMXFkWjZrZUxHb3lLZ1RpM3h3?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWhqSzkzRl9qOTFJWE9veEMwVjJmaHJIZWlKNTdRRnliWk5oS2hTc1BnY0EtWHg0WGpydjMxWjdLSE5nZDRVdEVaUlU4VVpuaGFOQjVua1p6UlJCU3JpMXk2QTVjMThGaHgtSzZkNnc1aDRldnE4dWV0cVI0QUdSSy1mdmVNSzhRWlpWUEZMTGVWSmpN?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvZENIZ0hOemdFX2FlQ2dNMk5hTTBMRGJJTVpRbVd3V2pNTzMxRGR0RWNtRGRmVEt4V2pNWG1PRWpkYURCcDBER0dpRXZjdUR5cWxpUFpYRGRHR3c?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Cd2xaYmtHOHFvYXNmM21lNkpPU3pkVFRaSjVRdk1ma2dNdVFnSVV2b3lqN0dmLW1SS0pid1l6dmdiX1hBOEpiSmd3Q1pJeE1ZZUM0Z0k0cWJLMjk1MzROWjQ5S0lGN09OS1pGNkZJcmVkRmc?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DbzRwYmdza3Rxb1I1NHdiYjRjZmZMZTZZRXVteENKT1lJNHB0Q1R0NDh0TFAwQkdtVllXeWFXVGJxMHkwR25TaDVKZ3pJR2JKREFZU1JmNDRIT0kyYXJzY1dNTnV5blNDZ3lFWEY3M2lpU096YWFGMmM0RGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ReTc4LUNhMFdPRHpuMGhEWGlfZ2hUeGd4WE80SVl4RjlRNFY0QTJkWEtvRUFwOG9RWmhoRFdITExSUGFzbVdlS0VVTWZTS0N2dXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56VG02Ym9YWUVKYW5EZ3lEUEhqTWU2Xy1HTEJKa1BaVGQwYkVYQTU5TUQ0UTRQY20xQ2V4QWxNLVE4YzBSTGhER1pCMVVjUk5icmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kQmtPUHVRbV9uYy0zUDZzS1VySlF2UE1kSEFramlTRFd3VlB6X29HU3otT002SFhYaUQ5WU1WcS1peTBhY0ZjN0NKa0FENzRZdHUyWHZES2NmTkdPeFhHSGNhTTFsZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVREMDd0OFZqQXVIWmVHVXhMc0tYYS0wRmVlU0pLX21tUTQxRlBrdU16MlczV3N6SE9TZUVSRzFTQUYwdzBDZlZoRFN4RFdNMUljc01jUEhuRlVSOU0yRmI0dnVEN0xhUXg1VldzVnlrUVJIS01QdV9vVHdBTlFBY3NvUlJGYWpFYW5LZ1Q5TzhGeVVzMTVoWXdKVUNXXzR3SWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWN5TlAyQjRNaGktTUVfUURiblFpNmg0cXZNZ0xTUlVlQm5IUndWdHRZRjVjY1NNdzZMMk50QmJxaGd3LUdCV2pqckhkNmJOQzVPOE9yYTZFbjhfZjhhWlhBbE9WUm84bmNQMUtWTF9pRDFNbW5CTktYaXRmQ1FhOGVNSTRJbFRZT0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93enkyUDltWGZPc0UzWTNKUlN0OGY4eDR6VFNIQkotaExkWWFGMlBhdlA2cFpzREUzV1dCUjh0dmxHUU1UdzVGbmkzX2ljWkU?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxORVFvai1IQjFlT0hfTEp0MGdBcGJqM3c2ZG1LTUtwaHZZdkNlQ3B4cjJBNXJJcDNOeU5iVWpYY0p5bF9UOFM3Mk11ckdkemdxcUt4aTVlUk5xR2lIZV9wX3NsQnhBeUVOTW4zdjV3bi1UeGdEak4wWkpJalhiZVZGUU5RVU9Td3A1dzVqT2JzS1E4VGprZm1KVUJhYnFieGtiUm9PaWlHTFJJbW5pUjg2c1o4YU9VbUthdEFzd29NZVZMZ0JXeEVDZmJ1blB6Zw?oc=5"
   ],
   "title_hashes": [
-    "bc14f08dddcffb12fc7726b37c8d355c",
-    "9070cd0f0743feb79cc04a50701a7fbf",
-    "9595fee111c97870b51e00cc0b70c3dd",
-    "cf95558fc692aec7911838bbd2885a4a",
-    "6b993eeee6fe488efc20aeb7cd8d3500",
-    "0ed728265f5ee7f4395f9d99ab025e9a",
-    "8d0f836befdc2b47e65a12b7b45daa77",
-    "fab144ebe84f80cceb4fb75efba96c95",
-    "25a87001e523f88a94e0d078a6ae7db5",
-    "dfaa8444eebc486fe8eba3fcda2d8399",
-    "e85519698e14c819970006e6cbbb08ae",
-    "e9c6805ffe9a5e9ec491a7794ba24cd6",
-    "5cc8bb176a61ba0ba43ce0f9bb43b7e3",
-    "d998851875d1c91fce4162686d5906fb",
     "d0444c89931325378469e7e1bbdba4f9",
     "5f3a8ea4d22fa6d2537c777cc3f41c5b",
     "875b39a312de0fd397044d42298b5155",
@@ -16001,7 +15987,21 @@
     "f94a718e7ccf006559356a2e752eced2",
     "5228b3130d608dee03bc521a60a2611c",
     "a28b238927403fdf1361a1265c1765db",
-    "f369ff7b9c66dcdae03a8d74035b7209"
+    "f369ff7b9c66dcdae03a8d74035b7209",
+    "dc98e0015458799a7dc94a66749aa945",
+    "f34e43f4f24cbffbbbd5fcf621de20f2",
+    "31f9194764b2078ab411e6cd8ee97da5",
+    "5de3463a47748bd602f128926d95b65c",
+    "c15b96c6b8058ae9c02133fdf72070e5",
+    "f3a135ea1bdd3bd8609c6a88f36b9530",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "b08ceb876aa162824b3333e5429ac4a4",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "5bf1725b6a7e3e07c7dad79d5ef91a67",
+    "03b2a90f6e4469609b6b67406a5b7f6e",
+    "eb40a7f3fc0741cdedd015b5784a55d8",
+    "ceb4387637ff87255fd7b2844cc0fa65"
   ],
   "transfers": {
     "pages": {
@@ -21240,6 +21240,26 @@
     {
       "t": "2026 5 8217 both chance day down eastern failing four great happened has here locked lyon mkoi more one results stage swiss take teams wasn west what worlds",
       "ts": 1793250218.7820306
+    },
+    {
+      "t": "2 8217 day definitely don early entertaining final four games grand have here lined matches miss more pari playoffs predictions rages series some third universe very want who win you",
+      "ts": 1793250224.1827736
+    },
+    {
+      "t": "after back cs2 emerged file files follow game gun had indication intended intensify leaks left more new potential revealing rumors september some that there this time valve way",
+      "ts": 1793250227.743055
+    },
+    {
+      "t": "2026 8217 before berths bucharest come discuss eight end final furia group has how locked masters navi nemiga now pgl playoff quarters stage take teams that time tomorrow",
+      "ts": 1793250231.2276816
+    },
+    {
+      "t": "1 2 60 all breaks day days dota even four furion gpm longest maps matches memory minu one out pari playoffs recent record satanic spirit team there three tournament turned two universe upset went witnessed",
+      "ts": 1793250234.9200628
+    },
+    {
+      "t": "business esports exchange4media exit exposes games global losing model money nbsp problem winning",
+      "ts": 1793250238.4366047
     }
   ]
 }
