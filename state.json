@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26951/epic-seven-officially-launches-on-steam-oct-29-opens-new-server",
-    "https://www.invenglobal.com/articles/26950/13-indie-games-with-intriguing-ideas-meet-the-finalists-of-2026-gyeonggi-game-audition",
-    "https://www.invenglobal.com/articles/26949/battlefield-6-set-to-join-xbox-game-pass-in-october",
-    "https://www.invenglobal.com/articles/26948/wemade-updates-mir4-with-new-spirit-master-class-on-october-8",
-    "https://www.invenglobal.com/articles/26947/higher-tier-hunting-grounds-get-harder-questing-players-gather-at-the-mines",
     "https://www.invenglobal.com/articles/26946/azure-striker-gunvolt-trilogy-enhanced-pre-orders-open-for-switch-2",
     "https://www.invenglobal.com/articles/26944/icarus-online-to-launch-global-official-service-on-october-22",
     "https://www.invenglobal.com/articles/26940/surge-in-high-enhancement-accessories-exchange-price-overview",
@@ -7999,14 +7994,14 @@
     "https://thegamehaus.com/fantasy-football/fantasy-football-week-8-running-back-rankings/2026/10/28/",
     "https://thegamehaus.com/kansas-city-chiefs/chiefs-to-sign-justin-tucker-to-practice-squad/2026/10/28/",
     "https://thegamehaus.com/college-football/college-football-week-9-news-and-notes/2026/10/28/",
-    "https://thegamehaus.com/nfl-draft/2027-nfl-draft-big-board-midseason-top-prospects/2026/10/28/"
+    "https://thegamehaus.com/nfl-draft/2027-nfl-draft-big-board-midseason-top-prospects/2026/10/28/",
+    "https://thegamehaus.com/nfl/nfl-week-7-overreactions/2026/10/28/",
+    "https://www.hltv.org/news/45850/cmtry-expected-to-miss-singapore-major-for-astralis-after-futs-quarter-final-exit-in-bucharest",
+    "https://www.hltv.org/news/45849/khan-recently-i-just-started-to-not-give-a-fk",
+    "https://www.hltv.org/news/45848/nemiga-beat-fut-2-0-to-reach-semis-in-bucharest",
+    "https://www.hltv.org/news/45847/live-updates-from-pgl-masters-bucharest-quarter-finals"
   ],
   "title_hashes": [
-    "93120e3d457307217eda773e4db51538",
-    "8148295855935d3e8dc4d5f0a40847cf",
-    "718f38935e40512d93803cf03dbdd45e",
-    "9253b5c39f1f49d6877672a220cadbec",
-    "3c35344e24b50ae4b109058c010a6dfa",
     "d55c2f22602ddbbd0971eb2865081e23",
     "f94a718e7ccf006559356a2e752eced2",
     "5228b3130d608dee03bc521a60a2611c",
@@ -16001,7 +15996,12 @@
     "03148dfe197c0c950a06593136798fce",
     "34c96a60bf6fbd59b8e8966bfc705e39",
     "e7f7c3ed3b205a2159d7785441ef516a",
-    "aced08208bb1be7504178e85e6635f2f"
+    "aced08208bb1be7504178e85e6635f2f",
+    "553c252e4ba703be74e09320768950c2",
+    "447a03234322572ce16567d32ac42be6",
+    "e6382d1cddc341c2aa0eaa87edc2e075",
+    "dcdb1bee31679047f03c2bd526332e15",
+    "dc800ac6a564ba113b5a69c127a4875f"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "2027 before big board but can change college could draft drafted early fans football full looking lot midseason nfl out players prospects season swing tape there top which will",
       "ts": 1793273182.9458437
+    },
+    {
+      "t": "7 aggressive close coaching come cover defense football has have headline hot markets nfl opening overreactions plenty seats seventh storylines trade week weekend wrap",
+      "ts": 1793273188.206868
+    },
+    {
+      "t": "after astralis bucharest cmtry danish exit expected field final fut have likely major miss organization quarter singapore stand will",
+      "ts": 1793273191.7266283
+    },
+    {
+      "t": "against believes better give handling just khan nemiga not playing pressure recently started tier",
+      "ts": 1793273195.2156513
+    },
+    {
+      "t": "0 2 beat bucharest comeback dust2 fut nemiga nuke reach semis series set stage take",
+      "ts": 1793273198.710023
+    },
+    {
+      "t": "action bucharest finals hits keep live masters pgl playoffs quarter romania tournament updates",
+      "ts": 1793273202.251814
     }
   ]
 }
