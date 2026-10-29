@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXNqSDZ1T0VPOExubnlMbzVsOEdjM0hCSHJsU2E3cXJVSVAxQWJVNUFPRlk5N080UVRVWDRWYzFpSURqd0xXTlVkazBGRHYwYjVrc0stVk9TeTRLR242Tklua0lWR1dDYldXaGtKZlBGYWc3UVFsai04Rkg4SVRQdlRSNmM5d3A1TjBHNUZ2d0t5OHI0YnVfdHVn?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFdySU1RMmlsdlpxaWdHd3R1bWpzUUFoV2x3RjJUcGo2Q0EzREkza0JzUG5BNlFMSG8wak1CNGM0dzFWNDRJdGszdk1nRjlKTFU3THFTZUJGaEU3OVIyYU5IQ2ZtN2Y5NkdkSGQ3ZUxueElGbmQxMDd1VVFDbjhtOFRGZzlzdnRYYkFNSG41dFBBWUZ1djZRZk95OGROSHJWakJWZEJTZTlfZ0ZEbUR4cnA5OTgyV2lZclNyejdlOEQ0X1A3Qm5MOTIyMDY?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmZITGhYZk13OE9NZzBtb3hGODd3ZUQ2TzJFbE5vcHhDWUxIa0JSTFRrY19Mdzc5UTBhdXdmczVlLUN4UFJzTE1SYWc3WExicWJrd29pSVA5ckVwRlB1bUZwM3hTOURmVGl5eV9QR2d4VWlUcTRhWXlqNE9hMlR4MzBnd2FGYWVpV1JRTmpPUjBSem9IQ1lJeFF6OGF5OEcxd0E?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ191bDZwTmpEWXhvSU9xQzNmTFdRb3Rhczk4cDAwaVZaQVBac3FVdnhXaG9Ebnk1WkxjXzJLSW1PUFlFcUdPT1VPa2dFZW9ROWxlMmN0WEl0RkIzWjBtLXBOeTZ5VE9xSmpDSkltc0czLTE2bkgxX21zd3drTURnUlpWdTdaQTFhSGttelFJR3FtdmdiTVAtaEZoTjVnZWZY?oc=5",
-    "https://www.invenglobal.com/articles/26937/smilegate-opens-3-additional-servers-for-eclipse-celine-world",
     "https://www.invenglobal.com/articles/26936/kingdom-hearts-collection-released-korean-language-support-announced",
     "https://www.invenglobal.com/articles/26935/kakao-games-officially-launches-new-title-dokkaebis-world-on-october-8",
     "https://www.invenglobal.com/articles/26934/richard-garriott-moves-to-reclaim-ultima-negotiating-copyright-recovery-with-ea",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27864/up-to-230-free-pulls-and-a-unit-beyond-welfare-standards-the-4th-anniversary-is-the-perfect-time-to-start-or-return",
     "https://www.invenglobal.com/articles/27863/garena-officially-launches-monster-hunter-outlanders",
     "https://www.invenglobal.com/articles/27862/overgeared-showcase-to-be-held-on-november-5",
-    "https://www.invenglobal.com/articles/27861/bitsummit-2027-reaching-new-heights-to-be-held-in-kyoto-next-may"
+    "https://www.invenglobal.com/articles/27861/bitsummit-2027-reaching-new-heights-to-be-held-in-kyoto-next-may",
+    "https://www.invenglobal.com/articles/27860/xbox-content-and-services-revenue-declines-for-fourth-consecutive-quarter",
+    "https://www.invenglobal.com/articles/27859/sudden-attack-halloween-update-revamps-folk-village-map-theme",
+    "https://www.invenglobal.com/articles/27858/god-save-birmingham-second-beta-begins-november-3",
+    "https://www.invenglobal.com/articles/27857/pok%C3%A9mon-go-to-hold-on-site-event-in-suwon-this-november",
+    "https://www.invenglobal.com/articles/27856/witchbrook-officially-launching-on-january-28-2027"
   ],
   "title_hashes": [
-    "3150776aa9e2560c354f13c0d5b366f6",
-    "188c5ee29aefb41eb7856e33f7a7415f",
-    "661695d1f081a9ebf62349d4a341ffeb",
-    "77e9c11fc416781553d7fce15bfe3975",
-    "d1975bc3c6f16a01102d4ba8f13e267f",
     "fa4b190526e9787f0f7d837cda43ea61",
     "c459ba8f02db256c06ddce7ecd60602a",
     "c4307658670dac32a360686869e210a5",
@@ -16001,7 +15996,12 @@
     "5e2ecc81494b4c9f06b50e0f85f63f8d",
     "48853f35365d3af03d0ca30a0cf82e14",
     "ff22c111f3e32ad5afa0b9b675bd9d7a",
-    "20bb248cc8b49102a821a8cb2f6ea24a"
+    "20bb248cc8b49102a821a8cb2f6ea24a",
+    "a27b163f46a30c14e5b09b3c78c0b9a9",
+    "5e2c70a2cd3045067170275b0e428f7b",
+    "555cfc2d7e22e6d385b576ef2e6b0b40",
+    "082f4ccbb7633251043c5d95f6a484a1",
+    "626b9bf496e570fdf4af8699dabeed88"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,26 @@
     {
       "t": "2027 21 23 announced association bitsummit committee days executive games heights held high independent industria japan jiga kyoto may messe miyako new next reaching that three will",
       "ts": 1793250159.5430045
+    },
+    {
+      "t": "2 2026 consecutive content declines decreased drop four fourth growth july marks microsoft narrowed negative over quarter quarters revenue september services signific this while xbox year",
+      "ts": 1793250165.0350842
+    },
+    {
+      "t": "29 applied attack folk fps game halloween its map nexon october online revamps sudden theme update village",
+      "ts": 1793250168.4979546
+    },
+    {
+      "t": "10 29 3 announced anyone begins beta birmingham can conduct corp games god kakao november october participate save second steam test that via will",
+      "ts": 1793250171.972049
+    },
+    {
+      "t": "14 15 29th announced area commemorate event hold host korea november person pokémon site south suwon that this time villas wild will",
+      "ts": 1793250175.5756886
+    },
+    {
+      "t": "2027 28 5 announced been chucklefish four has january launch launching life local magical officially online players playstation ps5 simulation supporting that time will witchbrook",
+      "ts": 1793250179.2653813
     }
   ]
 }
