@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://theloadout.com/pubg/player-count-free-to-play",
-    "https://theloadout.com/pubg/free-to-play",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNjhKSEhyTV9hT29xV3NwZll5N0o4clZPQXA5bEZXc21uSUZWdXNWSWRCVzBjTjNWVFppejVaRXJGdFBGZjNGY3lybE9aa2s4dG1mMGxXQzFEMG1kR0ZmdV9aSlJzS0M1MVY0?oc=5",
-    "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5hOFRDdmRxUU9GV0ozcDRBWHNBUlBfWmpCVUlReXJ3Z2x3UlRpeDlxY1dTbVdBMUx3VzJCcjZ3?oc=5",
     "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FbTZIbllDMkpuWTM1VHNwNWdLZTJfVXdibGZPdndRbUFzX3Zfd1hCM2ZlcHVtb3dWTVROaXl6Rmt0UQ?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd04yQ2xMRGItcTc1VnU2dkpfTU9uZjhQRERFeGdLX2VkcVZCUjh6b1NwRmR6RGpLRHZDVHg3S0otdDRGNVBvb1d4SEtTVV9IUnJKR3otWW82TTB4VjI1ekQ1MzJGRFlOTDNHaThoZ2lLLS1wSnI5N2xWRGIxM0Zvamdvd2VUZVpMMVE?oc=5",
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DeFM3ZzQwS2NTVzFVb1VpR2pjOGI1T2NxcFB5cE5oM3dBU05pVUlnTC1tREdGVFVRUTZrcU9HSk5ULXlrckd2emR3?oc=5",
@@ -7999,12 +7995,13 @@
     "https://pley.gg/cs2/nemigas-win-over-fut-likely-costs-astralis-cmtry-at-the-major/",
     "https://pley.gg/cs2/nemigas-fairytale-run-continues-with-2-0-win-over-fut/",
     "https://pley.gg/cs2/ences-young-roster-stays-together-after-the-bankruptcy/",
-    "https://pley.gg/valorant/aurora-sign-derke-boo-and-trexx-as-navi-release-their-2026-lineup/"
+    "https://pley.gg/valorant/aurora-sign-derke-boo-and-trexx-as-navi-release-their-2026-lineup/",
+    "https://pley.gg/cs2/navi-and-betboom-get-quick-rematches-in-the-bucharest-quarter-finals/",
+    "https://pley.gg/cs2/valve-introduces-big-head-mutators-in-counter-strike-2-alongside-silent-reload-adjustments-and-leaked-lar-rifle-files/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/how-to-register-bgmi-air-closed-beta-test/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/bmic-2026-match-timings-alan-walker-performance-teams-venue-and-more/"
   ],
   "title_hashes": [
-    "351b28cf6a8bc534749f1339d371428c",
-    "2654492cf1282a44f8e21c050d6012b5",
-    "b15f554b7727839a613a509c924d45c0",
     "5641b538d2022be97303c88e66b11fcb",
     "98d75d37f7674cc7d0292aa807a6b600",
     "6c4a160e1a45ab18fcc1d1b21c6de530",
@@ -16001,7 +15998,10 @@
     "80a567c1602cb370b1c6f8f1b6e97926",
     "2607582387198190328db01ea8f0fa2c",
     "ac35c02f75445884938d7e2769094c65",
-    "ab4542e63c84f7570ab70811cb523db3"
+    "ab4542e63c84f7570ab70811cb523db3",
+    "d97541c59322ac1a7106222740a97dca",
+    "e75f654dd9abbea0f6993ade86a17d55",
+    "606440dd9b405213bf78f67986fa0242"
   ],
   "transfers": {
     "pages": {
@@ -21252,6 +21252,14 @@
     {
       "t": "2026 aurora boo derke lineup navi release sign their trexx",
       "ts": 1793273318.8343701
+    },
+    {
+      "t": "2026 again beat betboom both bucharest final finals furia get masters meet navi pgl quarter quick rematches thunderpick tuesday vitality",
+      "ts": 1793273324.0127966
+    },
+    {
+      "t": "16 2026 30 alan bgmi bmic cup dome event featuring friday has india international japan kick korea match more multinational mumbai october off performance set south stadium svm teams timings top venue walker",
+      "ts": 1793273327.4277368
     }
   ]
 }
