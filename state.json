@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://blog.counter-strike.net/2022/12/40701/",
-    "https://blog.counter-strike.net/2022/12/40702/",
-    "https://insider-gaming.com/arc-raiders-frozen-trail-twitch-drops/",
-    "https://insider-gaming.com/fortnites-hollow-knight-bundle-costs-more-than-the-actual-game/",
-    "https://insider-gaming.com/complete-arc-raiders-frozen-trail-2-0-update-patch-notes/",
     "https://insider-gaming.com/xbox-promises-to-simplify-publishing-process-to-attract-more-developers/",
     "https://insider-gaming.com/next-gears-of-war-title-will-not-take-nearly-as-long-to-make/",
     "https://insider-gaming.com/all-escape-from-tarkov-codes-rewards/",
@@ -7999,14 +7994,14 @@
     "https://www.vlr.gg/781628/aurora-gaming-enters-valorant-with-star-studded-roster",
     "https://www.vlr.gg/781616/kru-parts-ways-with-mwzera-and-heat",
     "https://www.vlr.gg/781606/natus-vincere-parts-with-2026-roster",
-    "https://www.vlr.gg/781601/mibr-gc-kr-blaze-advance-to-top-four-over-sk-nebula-and-tl-brazil"
+    "https://www.vlr.gg/781601/mibr-gc-kr-blaze-advance-to-top-four-over-sk-nebula-and-tl-brazil",
+    "https://insider-gaming.com/contexto-hints-answer-for-october-29-2026/",
+    "https://insider-gaming.com/gta-6-wont-let-you-speedrun-the-main-story/",
+    "https://insider-gaming.com/team-liquid-and-sap-data-race-to-world-first/",
+    "https://insider-gaming.com/gta-6-features-a-fully-functional-public-transport-system/",
+    "https://insider-gaming.com/shopify-rebellion-2027-rocket-league-roster/"
   ],
   "title_hashes": [
-    "76eb825e0662da163217785b01469686",
-    "62ced2c24ad7ad7c331d9b6bdbc5c210",
-    "72cc7e7157036c0168c6053835a1ad3a",
-    "d365c267bdf8d5035c79414d0487e087",
-    "0c8cd4db28b4add0b12ffd8cdd89b457",
     "046f40b47c54414d2034d1f525c6b42d",
     "9e31ee9c780ebbefc267d3a6819405ff",
     "63d3d53ae64edd4f3badfc6b578b76b7",
@@ -16001,7 +15996,12 @@
     "7a8f9051e8aade6b92859fa4318596c5",
     "4bdc5d147703d1688d5aa37ae76effae",
     "f8a8b8895dcd01bac65ab9cac5c9f454",
-    "d3928d39784a4aa781d9c1ff2dc08325"
+    "d3928d39784a4aa781d9c1ff2dc08325",
+    "6b67d7859a319151d7e136f925f1dc6c",
+    "d7feb691476717e2ccab37a96ac24799",
+    "4b1d0698a0a2f18f29c8976233bc82ca",
+    "921c9cd83863d08d9a43e43825a02046",
+    "5685d717141af77bd059b1d2492a294d"
   ],
   "transfers": {
     "pages": {
@@ -21152,6 +21152,26 @@
     {
       "t": "2026 advance blaze brazil four gcc join krü m8 mibr nebula over srg top",
       "ts": 1793273221.4990578
+    },
+    {
+      "t": "2026 29 amp answer appeared contexto first full gamin get guess hints insider october post stuck today trying you",
+      "ts": 1793273226.850044
+    },
+    {
+      "t": "6 8217 affecting appeared auto features first funds gating grand gta let main natural post progression raise requiring speedrun speedruns story theft wait won you",
+      "ts": 1793273230.330729
+    },
+    {
+      "t": "ahead combined first forces gaming get how insider insight into invited liquid post provide race sap team they together utrecht win working world",
+      "ts": 1793273233.8563256
+    },
+    {
+      "t": "6 added adding another auto features fully functional games grand gta has layer post public realism rockstar sys system theft transport world",
+      "ts": 1793273237.6036317
+    },
+    {
+      "t": "2025 adding announced champions championship has its lea league new nrg post rebellion rocket roster secures shopify thirds two winning world",
+      "ts": 1793273241.1490867
     }
   ]
 }
