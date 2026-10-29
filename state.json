@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4RC16VTVBSzFRU3JSa0F6eW9Tb0FEOW9sR3drX09fWkNBUGI2YWFscV9HTHJGcjRKbTdzdVJfVE84TjZTc1pHampGSHVhRnA2ZFNyekROY3dxVzVRc01WM18wRWpfQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PbGY3QXc2QUhyZnFNaERzbHU2bmhodzhMbmh5QjQ5cWVyaE9jR2x3d210VHc3QnhQcE9tLXlWRmFCY2pCcHVja0VwTnJJblFTQm01Q01KMl9KQTA?oc=5",
-    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LeG9qcEQ4NXUyQzJsLXRiODRsbHhCZUlTM2ZTZVBOeDBHamg1bG9vWVpFREc1ZGRvRE1WWHZiY053UlN5UzVQMw?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd0JMcjBjelp5ZGt0UUdLZUV0Z2FEcHJDRkZZMFJycDVWZ1U2MFJnUFRFeTROVXNPVWlaZE5FLS1CSWVzX09QeWpyOVpWcEZ3Vm9mWU5Zam92YXJJUmVhRVBPeU9QZHdrcVRVTDZHU015YlkyY3pMbGZ2ek9ad2lKcnFSa3ZtS0JFcWxZU05penpGTHJ3SFHSAaoBQVVfeXFMT0x2bERBckx0b1dWNHpqVDA2aGlud1gxWXNTYU5Wb3Rrak1yS1p5Vmg1cklBMDJsVUlRXzYzbFUyczBiU195c19XcmdBekROd3ZEZkphWXVUMmdBeUloX1RTUXM4UVBBYXFzQ3V3bkxCSGhmYm9LaWo5d3NZSTFSVTk0WTRyYzR3eTRtcmZ5eFdnb2NjeE1iaTFiQjhDTzBTMHdEME43WWctZ1E?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeE52REcxOTgxcTdVeE83Z2ZLUVRTWjdSbjVocWRxT3dTRExnZmJOMlRKc0ZLd1NNVGd6S2luRHdSZmtOTVpPY3JXdmQ5WGphV3dIdDRIa0ttWGMxMXR1WGpna2YwVWZZX2FQd29jd09LVDNMX1lmMkNCZklzZUI4OEpnRWRVczB2cVlIb1NhZ2tEX2lzdkx6WEM2aFpPVGN2dmdvZ21B?oc=5",
-    "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
-    "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NTktsRGVXWWVKMUtYM0wxN2RXRWo5ZXV2M2x6SDB1T3RVZmtRSUphTjJsS3lhcm0weVJrTWVZb3UybWx0SWZ1VHNJeWtWTVJ3UzJQZjN5M2lQczhT?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVB6WXFNT1BjMnVGX2NqUnZ3MVJwQXhGNnhxWUMxTTV6a0pUYUNBSFBLaXJ4cDVGZzBhQXhGRTlFMUV1bTJWanFzZ09WSEhpQkQ0N25pa3dYWmdjZnA4bWpJUTl0NFJxZTNGRmxIc2hTeWpyNlhMWWpFeDJzZzdDcjZqZy1QOERKMXRDMklxTU9sR01Kd1RHMWFQV3ZDcVk?oc=5",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVUs3VV93WGtIMVJVU2d4eTljVmJoYmJTMERVcWNoaEhfbDc5NnZnNVBnaU5UN21tSnY1RHVORmJ2RUF1ODJ5ZnlqdHlJVEJDS1ZMRFE3V2ZXM2MxbFVDOU5iUWFUUV96aWpfajd4dEZRdzJGRHd4RV9rTlYzbVJkeTB3TXJlUDJhdS1Iak1uR19IbFdNVFp4QnRNSXo4MzN2NGlneEp6ZFZQd3lMd1B1RHhNMXNCNk52U0Q2SlYwalZuX0I0NXR1VFhfeDZoazlX?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE5na21PcW16R3lGT0Q4aHJhMFlRUG5PYnVlelpRMVoxY0hidUl5SEp3cXpIMDZaTHh4bDRPd2hFRHNXRTVQOVd2NjU3QUZockM0dVhLbHljN3h5ZkJvUXJ4OFZVVjEyYV9KTUgzekdkUGt6OGlacjBacVNjNFFfVjg?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOYkQwXzE0T2VqUGNfSzZWVUItY2JBQ2Y4VHRlMmVKc2tVd3pHVHpQYmdwaHM5aEtPTnpkTUY3MGNRb3RCNjhYMFA4d3B6M05NVUxVNXNJSWdXREd6Zy1mT0tCWW5ncld4WEdXX3R0eGJTWkNlRUlOaV8zb3JWcnIwaEcydjdYQWhLcE5RTEQxc3p1eWE3dzNuU2k1TFp6UQ?oc=5",
@@ -7999,18 +7990,18 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUthNXU2dlNtQ2hvVDdDY2VJWWhSOXlmbzdmVUlVZC16VXRGNG5iVEFMclVQb1VKTTlhUzhSakJYRFBrWVVwT0tXMVRqX3BZejNvZ1dldTFlVWQ1LU9HclJHOHVMd0RtbzNzSnQ0Rml2ZU1kZWtxWm9aYzR2UHk5UjJjU3A0NDJCeVpCcGMxb2dSOG9hclpWZ3paejYwVXNfOGRpMkVJQ2dlR0Z6TFB2NQ?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT241bUhuWlhTOXNSejh0SXF5UThSbHlkOFdRck9XU2ZqLU1nVnp1Z05jRHp3SkdxQ2JIU3ZiQUtBWVNIX3c1WTEtampVUTlnYW42SFdUbGtpZzRGTW1RYS1jMlVTbFFsUnAtMjdnMHIxNW5RVjcxdFoybUFWQTMzb2txdHlXU245dlNHMndIY3pWN0NHQXlLRUd2N2xfZHdiSnQ3UWZYcnhnODltNld0Ug?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYlpmTXJTSm1qX2gtbjdrQ2FrOWpuZzVXRlhzWFZBTVVMQlRNLXFGWkktVU0xNFlKbER4TUloNTlnYy16Q3hFMDV2VllBaHdLRVZRTjNsRFpRNUx3dDNwRlFoUlVxNngyOVBsd1loRTB3UHlKNnNlWEQwY2NvYkFCVkxhLWlaTElON0NNYV9HbjFXNGZSLU5KbjB4MXlYTWZ0Qmg5aHNIMUg5ZU9ycVRicGJ4TQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWg1TWRWb0EyTFhuLWR1cVd4QUZTZmdQMDlFR3phVmY0TlVfcGg4bkhJTVZMcFdHSXpSSjlFWmpfenhYQlgwVGt6bWZLem9UMHB6bjhsS0RCeDlsUV9RSnl0SlZxdXBnSVI2Q09BTllOTVBNaDFOb05iajd4YkkxZ2pjck9EVnhUa291ei03VlFDcWxWenQ3aVBHYllraXlSd19oSFMtWGNOSFhhT0RySUtucw?oc=5"
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWg1TWRWb0EyTFhuLWR1cVd4QUZTZmdQMDlFR3phVmY0TlVfcGg4bkhJTVZMcFdHSXpSSjlFWmpfenhYQlgwVGt6bWZLem9UMHB6bjhsS0RCeDlsUV9RSnl0SlZxdXBnSVI2Q09BTllOTVBNaDFOb05iajd4YkkxZ2pjck9EVnhUa291ei03VlFDcWxWenQ3aVBHYllraXlSd19oSFMtWGNOSFhhT0RySUtucw?oc=5",
+    "https://news.google.com/rss/articles/CBMiN0FVX3lxTE80T045VFBkRmxhN1RIWWotOU1JMkJpWmJ3cDJwcDBsZ0xXWkFZYl9oZm1PN0xvc0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRVhXT3RxenNxRm5SdFBydG9wTFR1WTd5dF9TYlRMQnZzV1RHc3hPREJWU194TDZMQkpqbFNZNWZzYTlxSEJFbUxzT3VTRmM0dWlNbTFmbGV5WGxDUGNvNXdfTnV6YlBJZ0tuemJ1TGI4aEtuSTZDM05LY29nN2ljaWJ3?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkNJVi02T0lmb2V6S2N2ZE43MFFHcTU4Q09Rb1RNemxxZVJnY1hFZ2YwOGVqbmpWT0pIYVFTNjNycFVzU0xhVHNyZjBheDdXRjgtdFF2VllxaFJBZElFMGhNVEExLTVaNGdLb21IVmJOa2JISW9ydHA2VWk1WW8ydWdienBLa0lmVVEwMzBkaS1uS19tZzVVdDBCT29KU2ZmZkhxZjB5RmdNOUYzOUFPbGtZMDdZY2RUQkJkWUxOcXZYUklLcVE?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2NVVVBrNlg4MUFzRUhvYmxSclU4cU9sazFZWmZnd09JTy1ocmZTQzNibE9mUHh3OUFIRE8wd280cGpNdFN1elE2M1gzM3RpSkZuUEk4TE5nUmNSY3UwS216STRWaE9DdGJudnBQeFlfZG9DaWhjeG5lREtGUDlrYl9IYU41bkpuWkNiRFpzaWZnSHFITk9Dc1JJczU0dm8?oc=5",
+    "https://www.invenglobal.com/articles/27869/phantom-blade-zero-surpasses-400000-concurrent-players-within-1-hour-of-launch",
+    "https://www.invenglobal.com/articles/27870/wow-forever-20-year-old-azeroth-into-the-unknown-once-more",
+    "https://www.invenglobal.com/articles/27868/sky-island-time-recharge-stones-rise-while-nine-cores-drop-a-look-at-exchange-market-prices",
+    "https://www.invenglobal.com/articles/27867/marian-queen-guide-so-simple-even-crown-level-commanders-can-understand",
+    "https://www.invenglobal.com/articles/27865/revenant-in-memory-of-the-day-launches-november-5-on-ps5"
   ],
   "title_hashes": [
-    "ae31a641f51d9aa191c3b404c2969770",
-    "190162baad0a57297974beab4881df30",
-    "a1b633937f228009e4a6a82be783b29a",
-    "deb9e923a9696a316122b4e20fd24622",
-    "7d546fff289359f17a2929cdd201c6ea",
-    "3904944b5451499355f4b2759ae69558",
-    "df8494b94fb78e8add919e666f76534a",
-    "5423d09b8f5b898c5b3ca83d9ef0f014",
-    "f58b8f547defb6264bca92e617915fd7",
     "18795e87e98a1c2785a368a16f91c6f3",
     "5b72387677e0fdf18f249af9e0be4c31",
     "25ffa3bff6ab3a9ef9e45e585877aa7b",
@@ -16001,7 +15992,16 @@
     "b3eff852ac5f9ef0668674698bde985e",
     "01245fa36c4190df25d3a0cb7db3ac9e",
     "20e5a4e569590f11a5604e9d04f756ae",
-    "19c3e1f263b8beabc1a38d294f26b541"
+    "19c3e1f263b8beabc1a38d294f26b541",
+    "f781c1682fe0227b48216a69ee9b6019",
+    "387464d459f3158b8e8141185c1fcee2",
+    "513c061175ca51edb894c23249fe744a",
+    "a6f454f36c10e62cb6d74c80c8318cea",
+    "92b1cd9c4c9f5be91bb64e5478d54b18",
+    "8a1592b7a4ef5c407594d01be64d080b",
+    "c447430f735f9eeb44d98b91831d1367",
+    "61de80355d479505de9c731f12460625",
+    "e7dee5c0f2a20a2a52c828d7642f02e3"
   ],
   "transfers": {
     "pages": {
@@ -20710,106 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "00 04 10 11 13 28 30 4 4th blessing chest crafting great info legacy limited lineage october offers special this valakas value wed week weekend",
-      "ts": 1793174523.8174286
-    },
-    {
-      "t": "2030 component console consoles continue costs device forecasts foreseeable future gaming hit hyn hynix increasingly likely markets memory pcs persist pressures price rising shortage supply that this until year",
-      "ts": 1793174527.4101427
-    },
-    {
-      "t": "114 2026 committee companies developers featuring has hereinafter indie linked organizing participating programs showcase star steam teams unveiled",
-      "ts": 1793174530.9253924
-    },
-    {
-      "t": "2026 4 5 championship contested die eye face fate fiercely following halfway hanwha has its lck life lol mark match only passed quarterfinals remain rounds stage swiss t1 three what world worlds",
-      "ts": 1793174534.6733832
-    },
-    {
-      "t": "2 2026 28 boost chuanqi december event five game growth illusion legend mir october online opens operated running runs server subsidiary weeks wemade world",
-      "ts": 1793174538.2752721
-    },
-    {
-      "t": "8 actual aiming baru enhancement event exchanging hot hunting interest investment kicks off over performance permanent pumpkin req scarecrow threshold value weapon weapons whether which worth",
-      "ts": 1793174543.4519815
-    },
-    {
-      "t": "15 2027 28 across all announced digital editions have heaven january korea october opened opens orders platforms pre publishing release scheduled sega stranger than that",
-      "ts": 1793174547.1019545
-    },
-    {
-      "t": "28th 2nd 55 announced collaborated digital featuring figure gugenka has hereinafter holomodels items korea lineup publishing release releases second sega that total wave",
-      "ts": 1793174550.669568
-    },
-    {
-      "t": "28 adds announced battles contest equipment features games guild hall has improves introduces kakao october odin pet released rising systems that update updates valhalla workshop",
-      "ts": 1793174554.2805562
-    },
-    {
-      "t": "28 7 arena bang bilibili biweekly dream event game games global halloween holding introduces its note november october our rhythm server",
-      "ts": 1793174557.8381503
-    },
-    {
-      "t": "28 7 adds announced eclipse events growth halloween has introduced its mmorpg new october recycle seven smilegate system that",
-      "ts": 1793174562.919596
-    },
-    {
-      "t": "3d 6 avatars character characters coming compact corner desk display elf enjoy favorite figures free game glasses inch lets like mn1 real sony that unveils virtual you your",
-      "ts": 1793174566.442854
-    },
-    {
-      "t": "11 28 added announced available dungeon event exclusive game hack halloween harvest has its lionheart november october roguelike runs slash studio survival that unti until valhalla will wraiths",
-      "ts": 1793174569.9739542
-    },
-    {
-      "t": "11 2 28 28th coming games host indie information introducing latest new nintendo october online showcase switch today unveiling will world",
-      "ts": 1793174573.5084379
-    },
-    {
-      "t": "000 28th 350 ahead announced ava birth kst launched launches nexus official overseas pre publishes reached registrations release service that valofe which",
-      "ts": 1793174577.0817783
-    },
-    {
-      "t": "baru begun budget celebrate complete edge enhancement event gift guide halloween has lightning longbow moon new scarecrow type",
-      "ts": 1793174582.3696845
-    },
-    {
-      "t": "28 back four games girl going group league legends never october official released releases riot track video virtual visualizer",
-      "ts": 1793174586.0885487
-    },
-    {
-      "t": "adjustments china comments controversy following football game games has into kylian mbappé online over prepares regarding spilled surrounding video",
-      "ts": 1793174589.566463
-    },
-    {
-      "t": "classic currently event exchange first fortune guide halloween lineage pies pumpkin season underway",
-      "ts": 1793174593.2800655
-    },
-    {
-      "t": "2027 28 champions games october pacific plan policies restructuring riot structure support tour tournament unveiled unveils valorant vct",
-      "ts": 1793174596.7945566
-    },
-    {
-      "t": "2026 bracket continue enter gcc gentle gold m8 mates srg three top upper warpaths",
-      "ts": 1793174602.0917997
-    },
-    {
-      "t": "app can check download easily fire free game gamers google however india insta install link live not now over play playing showing start steps store wait your",
-      "ts": 1793174605.6593213
-    },
-    {
-      "t": "25m 8230 accelerates across bingo buzz cisco cloud completed completes deployment estate foundation gives managed meraki networks operator post principle rollout transformation venue wireless",
-      "ts": 1793174609.1629877
-    },
-    {
-      "t": "2027 8217 8230 ahead among approval competitive confirmed dozen finland finnish first gambling july licence market newly online opening operators places post secures skillonnet which",
-      "ts": 1793174612.644187
-    },
-    {
-      "t": "2027 agreement all city company develop expand five fun games home hosting investment make mena moonton mpl over partnership players qiddiya worl world year",
-      "ts": 1793174616.1583874
-    },
-    {
       "t": "anima composers director discuss discussion down english eternal has higuchi hironobu hitoshi its jrpg katsuhisa marvelous music nobuo rpg sakaguchi sakimoto series shared sitting special subtitled uematsu upcoming usa video",
       "ts": 1793199619.2379513
     },
@@ -21240,6 +21140,26 @@
     {
       "t": "2027 ahead aurora boo emea esports gaming join nbsp season set sheep sources vct",
       "ts": 1793232113.5584142
+    },
+    {
+      "t": "000 1 29 400 action blade concurrent dark early game hour its kicked launch october off official one phantom players rpg success surpasses surpassing within wuxia zero",
+      "ts": 1793250125.100239
+    },
+    {
+      "t": "20 5 azeroth begin differences forever hereinafter however into launch marking more november old once second service some there unknown warcraft will world wow year",
+      "ts": 1793250128.6482465
+    },
+    {
+      "t": "28 added codex collection cores crafting drop enchant entries exchange gear god hereinafter island level look market new nine october prices raised rare recharge requirement rise seals sky sol stones time utilizing wednesday while",
+      "ts": 1793250132.2078524
+    },
+    {
+      "t": "4th anniversary banner battles begins boss both campaign can commanders crown even goddess guide level marian new nikke pick powerful queen simple stages understand victory",
+      "ts": 1793250135.7196608
+    },
+    {
+      "t": "29 5 adventure announced cfk day digital game horror launch launches memory november october playstation ps5 psychological revenant simultaneously that version will worldwide",
+      "ts": 1793250139.5762908
     }
   ]
 }
