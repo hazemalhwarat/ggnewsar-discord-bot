@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26936/kingdom-hearts-collection-released-korean-language-support-announced",
-    "https://www.invenglobal.com/articles/26935/kakao-games-officially-launches-new-title-dokkaebis-world-on-october-8",
-    "https://www.invenglobal.com/articles/26934/richard-garriott-moves-to-reclaim-ultima-negotiating-copyright-recovery-with-ea",
-    "https://www.invenglobal.com/articles/26933/wow-forever-beta-hands-on-impressions-what-is-it-like-to-play",
-    "https://www.invenglobal.com/articles/26932/dark-and-darker-focuses-on-full-dungeon-overhaul-and-reviving-core-gameplay",
-    "https://www.invenglobal.com/articles/26931/uncharted-waters-origin-adds-heidelun-in-the-war-of-genesis-collaboration",
     "https://www.invenglobal.com/articles/26930/emtek-unveils-new-phantomlink-graphics-cards-for-the-first-time-in-korea",
     "https://www.invenglobal.com/articles/26928/ragnarok-online-adds-new-dungeon-dimensional-biosphere",
     "https://www.invenglobal.com/articles/26929/valorant-infused-in-a-laptop-hyperx-omen-16-valorant-edition",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/27859/sudden-attack-halloween-update-revamps-folk-village-map-theme",
     "https://www.invenglobal.com/articles/27858/god-save-birmingham-second-beta-begins-november-3",
     "https://www.invenglobal.com/articles/27857/pok%C3%A9mon-go-to-hold-on-site-event-in-suwon-this-november",
-    "https://www.invenglobal.com/articles/27856/witchbrook-officially-launching-on-january-28-2027"
+    "https://www.invenglobal.com/articles/27856/witchbrook-officially-launching-on-january-28-2027",
+    "https://www.invenglobal.com/articles/27855/goddess-of-victory-nikke-launches-4th-anniversary-update",
+    "https://www.invenglobal.com/articles/27854/anomalith-launches-on-ps5-and-nintendo-switch-2-in-korea",
+    "https://www.invenglobal.com/articles/27853/tenjutsu-confirms-2027-release-for-switch-2-and-pc",
+    "https://www.invenglobal.com/articles/27851/soul-strike-unveils-first-seasonal-content-doomsday",
+    "https://www.invenglobal.com/articles/27850/valofe-overhauls-last-origins-story-and-combat-systems",
+    "https://www.invenglobal.com/articles/27852/neptune-officially-launches-multiverse-wuxia-rpg-sword-hero-zero-globally"
   ],
   "title_hashes": [
-    "fa4b190526e9787f0f7d837cda43ea61",
-    "c459ba8f02db256c06ddce7ecd60602a",
-    "c4307658670dac32a360686869e210a5",
-    "297a565ff9320c1e5b0d5679e76c97e1",
-    "0fcf786c449dd32f179d2f0409a95ffa",
-    "40f114fc4ef8c59d1e7e6f219636039b",
     "d2bb7c9fe1284b88ea05bd770e241f9f",
     "8d7b6f85faf19c054d60719ad866fc91",
     "061d32854b1240592f24046d6295f2bc",
@@ -16001,7 +15995,13 @@
     "5e2c70a2cd3045067170275b0e428f7b",
     "555cfc2d7e22e6d385b576ef2e6b0b40",
     "082f4ccbb7633251043c5d95f6a484a1",
-    "626b9bf496e570fdf4af8699dabeed88"
+    "626b9bf496e570fdf4af8699dabeed88",
+    "e595560dad8cda90c8c3691723e7a9f6",
+    "f0d3654acae6b6e0d095641950bb4c84",
+    "91aa5756f532ffc48c67ca7f53beaa4d",
+    "557fdd8787a9995c659d4c1ebe49a8f6",
+    "685a8a8673ae4348c606625bbd6a8829",
+    "df3b93448ce5046cfe818902022122d6"
   ],
   "transfers": {
     "pages": {
@@ -21200,6 +21200,26 @@
     {
       "t": "2027 28 5 announced been chucklefish four has january launch launching life local magical officially online players playstation ps5 simulation supporting that time will witchbrook",
       "ts": 1793250179.2653813
+    },
+    {
+      "t": "29 4th anniversary announced developed goddess has infinite launched launches level nikke october published shift that update victory",
+      "ts": 1793250185.1538887
+    },
+    {
+      "t": "15 2 29th 5 announced anomalith editions game gamepia has korea launches ltd nintendo officially physical playstation ps5 rated released south supports switch that",
+      "ts": 1793250188.6186285
+    },
+    {
+      "t": "29 announced com2us content doomsday first has holdings idle introduced its october rpg seasonal soul strike that unveils",
+      "ts": 1793250192.178348
+    },
+    {
+      "t": "29th announced combat completely last main origin overhauling overhauls story system systems that valofe",
+      "ts": 1793250195.6569803
+    },
+    {
+      "t": "29 announced global globally hero its launch launches multiverse neptune october official officially rpg sword wuxia zero",
+      "ts": 1793250199.3856716
     }
   ]
 }
