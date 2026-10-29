@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://upcomer.com/minecraft-live-recap-ice-caves-frozen-zombies-and-a-dungeons-ii-jump-button/",
-    "https://upcomer.com/rockstars-400-gta-6-box-comes-with-a-gator-sunglasses-and-no-game/",
-    "https://www.invenglobal.com/articles/26965/how-is-tanjiro-being-used-after-joining-seven-knights-rebirth",
-    "https://www.invenglobal.com/articles/26964/pok%C3%A9mon-30th-anniversary-orchestra-unveils-schedule-and-ticket-details",
-    "https://www.invenglobal.com/articles/26963/post-beta-wow-forever-what-is-the-development-direction",
-    "https://www.invenglobal.com/articles/26962/goddess-of-victory-nikke-distributes-maid-cinderella-costume-and-holds-halloween-event",
     "https://www.invenglobal.com/articles/26960/chinese-game-show-weplay-expo-to-be-held-in-japan-in-2027",
     "https://www.invenglobal.com/articles/26961/escape-the-baby-alarm-a-puzzle-adventure-about-parenting-launches-november-24",
     "https://www.invenglobal.com/articles/26959/dynasty-warriors-3-remaster-shows-25-years-is-cruel-78",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/27879/estella-a-rhythm-crafted-by-the-harmony-of-mouse-aim-and-keyboard",
     "https://www.invenglobal.com/articles/27877/maplestory-worlds-hosts-creator-festival-featuring-23-teams",
     "https://www.invenglobal.com/articles/27876/blockia-officially-launches-oct-30-adds-online-mode",
-    "https://www.invenglobal.com/articles/27875/crunchyroll-announces-lineup-of-over-20-new-autumn-titles-for-korea"
+    "https://www.invenglobal.com/articles/27875/crunchyroll-announces-lineup-of-over-20-new-autumn-titles-for-korea",
+    "https://www.invenglobal.com/articles/27874/webzen-launches-r2-origin-burning-server-on-october-29",
+    "https://www.invenglobal.com/articles/27873/seorin-computer-hosts-event-celebrating-call-of-duty-modern-warfare-4",
+    "https://www.invenglobal.com/articles/27871/seven-knights-rebirth-launches-15-anniversary-eve-update",
+    "https://www.invenglobal.com/articles/27872/namkoong-hoons-new-venture-aiz-entertainment-secures-20-billion-won-investment",
+    "https://www.invenglobal.com/articles/27847/ipx-secures-domestic-ip-business-rights-for-naruto-and-sgt-frog",
+    "https://www.invenglobal.com/articles/27848/steelseries-launches-sensei-pro-and-rival-pro-gaming-mice-in-korea"
   ],
   "title_hashes": [
-    "8f1b0bae385ee3489a5a0f86b879759c",
-    "33bbd60c3cffffcc8909843e38aca46e",
-    "0393157695e2a4f471d1b4bb67d5f055",
-    "460e204ac86408bd919afb31f70c4f5e",
-    "38ef939638c28ed7b3b91d7c198fc34e",
-    "387464d459f3158b8e8141185c1fcee2",
     "513c061175ca51edb894c23249fe744a",
     "e41a337304fe86e350f0ef4c0ddce0df",
     "a6f454f36c10e62cb6d74c80c8318cea",
@@ -16001,7 +15995,13 @@
     "e2cee859ad07a09a9c416ee709e9e8e5",
     "705a830dd7276f32c167fcd8c140a913",
     "d2bcc304939bfdc0e2b660b3a400c6e1",
-    "c0a984a991f459ec755c0c88a67b87c5"
+    "c0a984a991f459ec755c0c88a67b87c5",
+    "57f758fd762c5aeda0e2f1d27f9889f3",
+    "03390e3f482abbb351fd06b94037f50f",
+    "11cbdc695a7fb989bd99f7f47c910a37",
+    "7298c2f86ad2af66ff24c24b866eb604",
+    "8ba27c0da62bf5a92e94b953f6a89f1a",
+    "6ecd271f96020d34a934e84ff1c18e6c"
   ],
   "transfers": {
     "pages": {
@@ -21072,6 +21072,26 @@
     {
       "t": "20 3 anime announced announces autumn crunchyroll global korea leading lineup new november one over platform release run sequentially streaming that through titles will",
       "ts": 1793273144.3657572
+    },
+    {
+      "t": "00 29 6 burning event growth its launch launches mmorpg october origin r2 reign revolution run server support webzen will",
+      "ts": 1793273149.6708987
+    },
+    {
+      "t": "1 11 28 4 apacer awarded call celebrate celebrating computer duty event hosting hosts instagram modern november october prizes release runs seorin together warfare",
+      "ts": 1793273153.1787274
+    },
+    {
+      "t": "20 29 aiz announced billion entertainment funding games has hoon investment investments kakao krafton namkoong new october round secured secures series strategic that this totaling venture won",
+      "ts": 1793273156.6508088
+    },
+    {
+      "t": "20 29th anime announced both business domestic frog has ips ipx keroro master naruto over rights secured secures sgt spanning that years",
+      "ts": 1793273160.1854303
+    },
+    {
+      "t": "29 8k gaming korea launches mice october officially polling pro rate released rival sensei series steelseries supporting wireless",
+      "ts": 1793273163.6606374
     }
   ]
 }
