@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-beta-release-date",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdE9nMkdwejduTjRUNzRCYWFhLVZWRE1KWVNLQW1NdlcxZHNhQjRrSTRHVVRYM00zWWo2ZV9HV1VSZzc1UDljb1FmQzc4NnVTc0p1WDc3UWN6V3UxTDlUQ0VJemUwWlY5b1Ztb1kxay1XX29neFJCcnB0YVRNSk85N3FwX1RVTlpJdVU4?oc=5",
-    "https://www.global-esports.news/call-of-duty/cod-modern-warfare-4-dmz-player-base-new-map-boss-hunt-everything-you-need-to-know-about-extraction-mode/",
-    "https://www.global-esports.news/call-of-duty/a-cheat-seller-unsuspectingly-opens-his-front-door-and-suddenly-activision-is-standing-right-in-front-of-him/",
-    "https://www.global-esports.news/call-of-duty/modern-warfare-4-is-addressing-my-biggest-complaints-at-record-speed-and-i-have-to-tip-my-hat-to-them-for-that/",
-    "https://www.global-esports.news/call-of-duty/looks-like-a-divorced-family-man-after-19-years-cod-mw4-manages-to-completely-ruin-its-most-iconic-character/",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2JDYi1JUnRjVFFRTUJJMVZxUnhTdkQ5bjc2TEFXVEpyMjJqZkc3cEZjWkMxd1d5UVRSaTRURUtXWk1WZ1dKRDBrVWw1RGtKSUtjcXVzem9KclUzNXk1TGpEYVVCZEprLVN5OHRnc1YxRjktLTJrYUFWRGpSa0xIR0NDckhDUE1qOXBEai0xWVdUSlky?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVDV0a0FGdmk1ZzNRODNFbmNzdm9ZSno1ZVZqU242Uy1VRFUwaUpfU0N6eEVSeGw1TldkaHdFYjRxajBEOGdpbGk5S2JiR1VXLTdiWWRONENRRmtwMmhHWW1GVzJyTmxGWGxCbFhjbDk5OHJyRTlzQXZpREY3UlU?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHg3MEkzcmRaMlRzeEE5TTI1VUdNLWpUMllrTmR5OXhTTHNULWNTQU1wR0tPZV9iX1hOYjdFNFFvTEJNVlM3Z21Ha2I5ODhlYzVvN2xVQXluLUlKbFpHX2dhNExtcEt0TndzOWZ1clBac2ZtV1dpSkNPSWxGYi01YnFEY3hVVVFpcWhV?oc=5",
     "https://esportsafricanews.com/kenyan-esports-qualification-dispute-raises-questions-over-athlete-selection-and-governance/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/27909/report-the-elder-scrolls-vi-will-be-called-sentinel-and-set-in-hammerfell",
     "https://www.invenglobal.com/articles/27908/patrick-stewart-voice-of-oblivions-emperor-and-x-mens-professor-x-dies-at-86",
     "https://www.invenglobal.com/articles/27906/ubisoft-confirms-no-other-assassins-creed-remake-is-in-development",
-    "https://www.invenglobal.com/articles/27905/netflix-developing-live-action-pubg-series-with-donald-glover"
+    "https://www.invenglobal.com/articles/27905/netflix-developing-live-action-pubg-series-with-donald-glover",
+    "https://www.invenglobal.com/articles/27904/escape-from-playtime-adds-public-lobbies-in-week-one-update-reveals-content-roadmap",
+    "https://www.invenglobal.com/articles/27902/phantom-blade-zero-passes-680000-concurrent-players-on-steam",
+    "https://www.invenglobal.com/articles/27901/aurora-gaming-enters-valorant-with-derke-boo-and-trexx",
+    "https://www.hltv.org/news/45856/fallen-i-like-the-way-boombl4-thinks-about-the-game",
+    "https://www.hltv.org/news/45857/hotus-major-chances-soar-after-tesla-cup-win",
+    "https://www.hltv.org/news/45847/pgl-masters-bucharest-quarter-finals-as-they-happened",
+    "https://www.hltv.org/news/45855/furia-beat-betboom-to-advance-to-pgl-masters-bucharest-semis"
   ],
   "title_hashes": [
-    "1cc9875f7dd3a38d63ccfa227c3d9854",
-    "4f45ba8937ff95a37570dde77ac55627",
-    "2727a6ca6416675eb44194b022dff523",
-    "46264958a37dc80fed943bf9a32a174e",
-    "8679302a7d7148ca208d55ae0bdcad09",
-    "067dada1663c0ae1dd1f3de1df1f4d9a",
-    "b9c6a369514d8afeb92fb45608f6b3d6",
     "6d325f3293b99bb8d9d4974f773d2ad8",
     "7e04c91348009325c066db8fbed9926e",
     "98101d74c192c3f36f32494c826d9f0e",
@@ -16001,7 +15994,14 @@
     "e51e7392774d68bb3aec53ffbb78449e",
     "4afa07abbbd104f7cbdbd6c4adf0c620",
     "678b8bf0eec467d1016ea252d19d221d",
-    "028773bd093e041da08ad0e9f238b477"
+    "028773bd093e041da08ad0e9f238b477",
+    "ad967b23ee6b43d99f61324445893671",
+    "23f582430e922aba0b54ea264c628c7a",
+    "101580f123bb3a399aa3e50cfa7980b6",
+    "fb628d0710483bdbb7ea8fa70899061e",
+    "98652455b0c37ca8673b685a586751fd",
+    "adfffce362f612d073d2658793b724f5",
+    "675446e796f082998d2dbe38c6e72923"
   ],
   "transfers": {
     "pages": {
@@ -21304,6 +21304,26 @@
     {
       "t": "action based battle developing direct donald game glover krafton live netflix pubg royale series set star",
       "ts": 1793311096.192995
+    },
+    {
+      "t": "000 11 29th 680 action after around blade concurrent game hours kungfupunk live october passed passes phantom players steam went zero",
+      "ts": 1793311102.4722304
+    },
+    {
+      "t": "aurora boo derke entered enters esports five gaming has includes organisation player roster signing that trexx valorant",
+      "ts": 1793311106.1723986
+    },
+    {
+      "t": "about after betboom boombl4 bucharest down fallen full game his like masters opponents pgl praise quarter taking thinks way",
+      "ts": 1793311109.7193491
+    },
+    {
+      "t": "3 73 after chance chances company cup have hotu major make n0rb3r7 now soar tesla win",
+      "ts": 1793311113.309064
+    },
+    {
+      "t": "advance beat betboom bucharest company fallen fourth furia just masters meeting mouz pgl semis set six weeks",
+      "ts": 1793311116.8833938
     }
   ]
 }
