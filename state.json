@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/26946/azure-striker-gunvolt-trilogy-enhanced-pre-orders-open-for-switch-2",
-    "https://www.invenglobal.com/articles/26944/icarus-online-to-launch-global-official-service-on-october-22",
-    "https://www.invenglobal.com/articles/26940/surge-in-high-enhancement-accessories-exchange-price-overview",
-    "https://www.invenglobal.com/articles/26939/once-upon-a-katamari-launches-on-nintendo-switch-2",
-    "https://www.invenglobal.com/articles/26933/wow-forever-beta-hands-on-impressions",
     "https://blog.counter-strike.net/2022/12/40701/",
     "https://blog.counter-strike.net/2022/12/40702/",
     "https://insider-gaming.com/arc-raiders-frozen-trail-twitch-drops/",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/45850/cmtry-expected-to-miss-singapore-major-for-astralis-after-futs-quarter-final-exit-in-bucharest",
     "https://www.hltv.org/news/45849/khan-recently-i-just-started-to-not-give-a-fk",
     "https://www.hltv.org/news/45848/nemiga-beat-fut-2-0-to-reach-semis-in-bucharest",
-    "https://www.hltv.org/news/45847/live-updates-from-pgl-masters-bucharest-quarter-finals"
+    "https://www.hltv.org/news/45847/live-updates-from-pgl-masters-bucharest-quarter-finals",
+    "https://www.vlr.gg/781651/alexrr-and-deryeon-announce-free-agency-after-wolves-stints",
+    "https://www.vlr.gg/781628/aurora-gaming-enters-valorant-with-star-studded-roster",
+    "https://www.vlr.gg/781616/kru-parts-ways-with-mwzera-and-heat",
+    "https://www.vlr.gg/781606/natus-vincere-parts-with-2026-roster",
+    "https://www.vlr.gg/781601/mibr-gc-kr-blaze-advance-to-top-four-over-sk-nebula-and-tl-brazil"
   ],
   "title_hashes": [
-    "d55c2f22602ddbbd0971eb2865081e23",
-    "f94a718e7ccf006559356a2e752eced2",
-    "5228b3130d608dee03bc521a60a2611c",
-    "a28b238927403fdf1361a1265c1765db",
-    "9222be2a2dcf046c6fc66bde9fff8979",
     "76eb825e0662da163217785b01469686",
     "62ced2c24ad7ad7c331d9b6bdbc5c210",
     "72cc7e7157036c0168c6053835a1ad3a",
@@ -16001,7 +15996,12 @@
     "447a03234322572ce16567d32ac42be6",
     "e6382d1cddc341c2aa0eaa87edc2e075",
     "dcdb1bee31679047f03c2bd526332e15",
-    "dc800ac6a564ba113b5a69c127a4875f"
+    "dc800ac6a564ba113b5a69c127a4875f",
+    "097316e21868ac577703fa318c19c831",
+    "7a8f9051e8aade6b92859fa4318596c5",
+    "4bdc5d147703d1688d5aa37ae76effae",
+    "f8a8b8895dcd01bac65ab9cac5c9f454",
+    "d3928d39784a4aa781d9c1ff2dc08325"
   ],
   "transfers": {
     "pages": {
@@ -21132,6 +21132,26 @@
     {
       "t": "action bucharest finals hits keep live masters pgl playoffs quarter romania tournament updates",
       "ts": 1793273202.251814
+    },
+    {
+      "t": "after agency agents alexrr announce came coach deryeon end flex free head player season stints wolves",
+      "ts": 1793273207.5673788
+    },
+    {
+      "t": "aurora enters gaming non one roster star strongest studded valorant",
+      "ts": 1793273211.1837864
+    },
+    {
+      "t": "after duo heat kru leaves mwzera parts stint teammates their third ways",
+      "ts": 1793273214.6377354
+    },
+    {
+      "t": "2026 bids emea farewell junior kickoff main natus navi organization parts qualifiers represent roster their vincere will",
+      "ts": 1793273218.080573
+    },
+    {
+      "t": "2026 advance blaze brazil four gcc join krü m8 mibr nebula over srg top",
+      "ts": 1793273221.4990578
     }
   ]
 }
