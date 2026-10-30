@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVlUSUN3QUIxM1l6TndZWHl1Y0lHOUwxVzg1dl80amtPVE5jLTlJZVE4aklqYTE0WWppajIwRV9PaFpRSENNVm9uRlp2dzhPWlZDcmpsWHlXUTlPSkg3T19tNTYtTnhmWWF6SDljV1BPWjVKamstaWp3MGtYQXRHbmg0VGVfUnZSWHoybmhReGR6OVk?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGJqTmdRNEJoLUJFcUUtbE5HWEctLXJKeGEyUFhKQWFqT2ZfOUhaR2dWMHZDLTN5Y0J6eWdRQ25FSUVQTWs1WENpY0RBVWVaN1k4ZnZPNXN1QTBJOHhCa1FleVV2WUU3YWp6aEs4dmlVSkxaRUhmQmhlWUlYNVN4Ymp4WEc0Snd4?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTFhURzB6SzJtVE1JZ1ZITWljWmdkQ0p3WlpfMlltdHVMclIxT1NBNlUtM1otUUtETE1uVmJMblhyX0NxdWVSRUJjTXRoZVY2S1BuUHFSZHlEMFZ5anRHU2ZZUDRBbEpzQ1hlRjMyM3NkcU1Ia0V6VmVHd19BM3pyZFd1TjVKNWJaaWRN?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvVzRhMzQ0YjFuRXZrNk1nMVRlSU5vaVJxazFfRzRxTzA5dVRNNXZJYS1mQWg0OGlmb2drZ1hxa3RXUzF0WVV4M1NudWFRdHUzYXZrNWVMOGZ6V3pKNGk0Znl1SlpzcXNIaVFFQmNoQ3dzSU02bGNjc1lB?oc=5",
-    "https://traxion.gg/raceroom-to-showcase-new-content-at-simracing-expo-frankfurt/",
     "https://traxion.gg/beamng-drive-to-host-live-stage-panel-at-simracing-expo-frankfurt/",
     "https://www.nerfplz.com/2026/10/funny-arena-duos-in-lol-pairs-that.html",
     "https://www.nerfplz.com/2026/10/riot-delays-private-replays-to-2621.html",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/news/streamer-awards-2026-trophies-stolen/",
     "https://www.talkesport.com/mobile-gaming/bgmi/alan-walker-live-at-bmic-2026-photos-from-the-nsci-dome-mumbai/",
     "https://www.talkesport.com/news/esports/bmic-2026-day-1-points-table/",
-    "https://www.nerfplz.com/2026/10/oldest-champions-in-lol-10-picks-who.html"
+    "https://www.nerfplz.com/2026/10/oldest-champions-in-lol-10-picks-who.html",
+    "https://esportsradar.gg/soop-reports-about-10-million-in-operating-profit-for-q3-down-sharply-from-last-year/",
+    "https://esportsradar.gg/riot-games-appoints-shinji-komiyama-as-company-president-in-japan/",
+    "https://esportsradar.gg/evo-brazil-2027-breaks-all-time-day-1-ticket-sales-record/",
+    "https://esportsradar.gg/keychron-becomes-official-partner-of-brazilian-cs2-team-legacy/",
+    "https://esportsradar.gg/travel-agency-jtb-joins-japan-esports-association-as-a-full-member/"
   ],
   "title_hashes": [
-    "2f4997418ecf12500fa8d49fe6562c14",
-    "3626b6abe72148ceaec777ffd9459937",
-    "dd3d3f28c3d1526b02b4d687068ae300",
-    "86d6714245c4e994e48e19b6dada54d8",
-    "cee9150bf838e79a24e299dbaca1b15c",
     "d94e0cd3e3afeba010cf53e7d8a6315a",
     "79817a1718acccb0fb910cc79b3e7a86",
     "214f83101dd5cfa976ea68a29029321c",
@@ -16001,7 +15996,12 @@
     "3c3e28f1d1bf27d51b4a4486912c2470",
     "b5efd854b25c7ff56987ee5268f62e00",
     "1a7dadd90c67cc5a6ed38f6187c0e7b7",
-    "44fbf18601ecb0e8b22153f991f8743f"
+    "44fbf18601ecb0e8b22153f991f8743f",
+    "4f8452c4d5616cf5be950d3f3dc53a4d",
+    "0fff8735de39b2c89a86ad5780c2eef0",
+    "3f63d4156f94b3c2edbedf5e5b76c880",
+    "39ef3b1369359c62b6b1f3e36586eaa9",
+    "a9ae115002aee9bb86c4a83b96e6b545"
   ],
   "transfers": {
     "pages": {
@@ -21084,6 +21084,26 @@
     {
       "t": "10 already ancient champions counted down history lol most nations olde older oldest one picks predates rest roster sky some stand started ten than these they think when who you",
       "ts": 1793370905.1043563
+    },
+    {
+      "t": "10 2026 30 afreecatv company down esports financial formerly its known korean last ltd made million october operating platform profit q3 quarter reported reports results soop south streaming third tournaments year",
+      "ts": 1793370910.5619218
+    },
+    {
+      "t": "announced appointed appoints change chief company executive fujimoto games has its japan japanese komiyama leadership officer outgoing president publisher replaces riot shinji subsidiary yasushi",
+      "ts": 1793370914.2417705
+    },
+    {
+      "t": "1 2027 26 all brazil breaks championship commercial day evo evolution fighting first following game has launch record sales scheduled series set ticket time tournament",
+      "ts": 1793370917.7390692
+    },
+    {
+      "t": "2 becomes brazilian counter cs2 entered esports gam gaming has keyboards keychron known legacy magnetic maker mechanical official organisation partner partnership peripheral strike team well",
+      "ts": 1793370921.2333567
+    },
+    {
+      "t": "agency announcement association become body companies corporation esports full governing has japan jesu joins jtb largest member men official one travel",
+      "ts": 1793370924.7230005
     }
   ]
 }
