@@ -1,17 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5DQ0R0U3lJcmc5MXhTd3U3c29CLTdSVVJwQUw5YmlobnJXN2tFSHYydUk5ajE3RktrV0JuQzRSdnlHdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV3prVlBkeXZIdWF0cHpNWjUzdVY4OTU3a2ViZDJtY3FCU0tWb3l0SVZxWkdmanRGRVFCYnljMXJZUDNHNTc2MlYxdHQ3b3h5N25EMlBxZlRhS3VYTzNERXA0alplMFlKQ25lRkpzcDdJemtINzg5V2l0MlVvXzI3VkVB?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlMExEQmNhb3hkNTMzSm1JZTdiLWk4TDNITXdFQ254OV80aXZlanFvSWdsS3VSQi1rMEVOZXo4NEE3NzRUMURPOEptS1lfb3F4aWNfVUVtRjhPaUNtYXpRUlJ3UFNDSVFiNlNMVHlnWWpLOHdKRlpaSWR5OXdjWk0?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yaUd4Rk9vSlgwa1JHenA3RWo5YzFUdVZGOUpSdkZLLWFKejFEaFA5akYzemctM2gtX0N2YmFEemxTT3N4S2RPZk1Na3BNeU1DUHM4WVl2dVgwc1ZtVDdraHhxV0RxcHc1YTZ4QjhR?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1dqazlfOU5BRkpNSFRZVkctMWRza3JiaG41bWdQSHhWeEFvZFJPdW0wWGpac2FCSWNRV3A4cF9tdVRNNldnVU0yUGpNcFNxcU0yUnptem53dE5UVFNoc1BPYUZWa2p0Q09YYnZRVmVEaW43TC1hOElNOHN1R2t2b0ZlYlF0ZGNUNk5UYmc2MWJOVWcxdzRrZ3dRV1NSZ0RjRkktYg?oc=5",
-    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5LZ3Rfdm5XaDRHWFVWNUhRZXZFY0hKVXpsTXlYQ183U1NTME5rTXdmVTk1RkNVSF9sTXhxcFdwRFg3c1JwSlBj?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFdQVEVMUlJYWFdCd3d5YXVoU0hYUE91eFlDOUJEZnFLUmNDem5SMnhSRWk0cG1NYzkwTlZ0WlpBVWFKdWNMbGpVTUlEcjB2QWJJTXlhak40Z3VfMVlFdHRiTW50S1hveWFHSlcxMUtfazRURjJVa3NjeEdJUlJrWG1FU0xYZHdl?oc=5",
-    "https://news.google.com/rss/articles/CBMiO0FVX3lxTE55SlJYdmwyY2xUaFF4dGJVcVlWdU0zRTg0QnhLUUw5UUJKdmFXZ2twXzdoMlBsdUIyYUh3?oc=5",
-    "https://news.google.com/rss/articles/CBMiREFVX3lxTE9GRmRYUUpvX2twQ2E2U1cxZWcyVTBaT2MxdlM5cm9xcV8wV2VLcnhuMFNmbUFxTzZnWjhkY0FnQ0hfRGZJ?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YZGE3c3VJdW11VENSeUVfUEpwY1JxUV9kYjZoWklHOHZxNVFfaEhmNmZuSmNBdlRQR0liMDc2NF9vNmFiVzY4TVZ0YW1wMUZZN09BRUl2dw?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1NsUU9GYzlJalh2NDdSZFJuZDF3TE9idTcxX0dONWpYNElYRjZJaVZtWnAxUUpPeVNpejVZQ0tIaExjNXktNzZ3SEZPckNCSVJTbVE3blZhWEcxRjhjQ3JUTWVyZF9kRF9Xd3RhOGlPNF9hSERib192eHFFbDhEcA?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNekpwTW5seF9zTmt2LWR5TFRNV3NHRk5jMHFBVUZoSFdsd25BMHBfZ3JuRWZuOTFZWFNsc2xoVzJOMnRWNkIxeFF2eVZpdU55eDlVNjU0N1pIWjhHZHM3QzViMlVGTmhDOHh1Nmx1TU1XY0g2NWFNN2VhTGlSY1JqN00weU90QzNLVFoxcg?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3OEpJTUJ1X2lmdVFObHV3ZFJNYlVJaUNZbW00WURhbVVXZHloTHhERUVzV2ZCeG80NThWcGplVGlUNVNWM0tvU2xNMEh2Qy1xZnR1QjN2UHdaOXBuWjJBWmUxN3JYTFlsODdzYkxhNk5BSExwaVE?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EQU5sM3c2ZDl3Wmx1T2lmTmVFck43V3lFb3doMXBJM3FNSl9sdXVCU0czSVAtRmVVYmQ4Q2Z2eWVOc29JNlRWaGdYc0M2cURSVDF1ZDVzVS1LQmw2OEtieEIxREZjWnhMT2hN?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IMXVmOVRsVmNHeElzcHFPbk5vQUZiQWlCYTZLYUZQeVZsV1JRTXAtQkJSOW9fNk5UcWhER0UxakwxVE1JRjFuMHNhcjZWeDFtNEE?oc=5",
@@ -7999,21 +7987,21 @@
     "https://www.hotspawn.com/counter-strike/news/furia-outlast-mouz-to-reach-back-to-back-finals-at-pgl-masters-bucharest-2026",
     "https://www.hotspawn.com/league-of-legends/news/swiss-stage-day-7-preview",
     "https://www.talkesport.com/news/cs2/nemiga-vs-vitality-pgl-masters-bucharest-2026/",
-    "https://www.talkesport.com/news/discord-ipo-stalled-investor-valuations/"
+    "https://www.talkesport.com/news/discord-ipo-stalled-investor-valuations/",
+    "https://www.talkesport.com/news/dan-greenawalt-retires-forza-microsoft/",
+    "https://www.talkesport.com/news/take-two-vice-city-trademarks-gta-6/",
+    "https://esportsradar.gg/mecka-ai-leverages-lol-worlds-finals-for-talent-acquisition-strategy/",
+    "https://esportsradar.gg/former-alqadsiah-esports-staff-claim-over-100000-in-unpaid-wages-and-prizes/",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UZWMxUFVOYXQwVTQyWVk3WlU3aVdoSTU1MW9ZNTVkbnBpaC1va2llY09QMThDMUZvRDN6NktFSG5DY21NbDhJaTBNX2c0RjJhaWt3U1FwTEpuMDA5TF96c2kxaEpQa2hY?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQnoyTzdTSWlMUVZ1Mi1US1kwMXRvOHNqeVRPVnplUkozNEpmRlplRC1jSk1tVFJUWEVrWEZfNHYxRHlZbk1ETEhCLVphQTUwTEtEM0ZFZVNnOTJvTWQ3OTBwTXBHVmhDUXYzU1R4Q1BlYUdPTkRVWnBVSlh6bWdaLW1OMEhxRHBnNEVkcGZzLWMzcVZDZkF4UFFnTENDVVNHeDZ6ODc2RlhwR2fSAbMBQVVfeXFMTjZ4dlZCYk14T29tZ0N5YkEwVkJZM1BlQnJ3QXNPMFdmMmdoSGVWZFFIRHVnX0ZhUmpFejQ1SndwNWNZZ1Ftc3BMUF9sY0tSS0VlNXlnTzBKY0djemxqLW1LMmtnSTJyQ1V3YWpJQmJtdm9vLTNBSmx1UThrLVRydDQwWC1qU193YkE3RFlLM2h1cm5nUVU4VWxURHF2Q2g2OXVQem1VZFpVRVhNYS1tQ0lDMHc?oc=5",
+    "https://www.gamesindustry.biz/studio-atelico-launches-atelico-ai-engine-into-early-access",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkQ3bXRoQU9JMThMV0hlMW9XenZFVUVORkVsMHdRdzJrU0k2R19hLUNiVXJjN3Y1TXlwcFVibDhDaDNrMlJ1cXMwdjUybWx1czRtUG9aNkp3cHJacWhmVDU1WF9keVpydE1vVzlreVhEaTluRVlWeFVsaWRjbTYyZ1ZZSFpVa0kycnBKc2lKUzlzSTRaM0piVDRR?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWNMbTd4SktZS3kzX3lMTVdYYlVScDY0MkIwbGZmZkQ4b0VON0JOSVp6WEZUd0wyQllDVmE4WUlfdW13bFU2ZkVVTXhzRHB4N2VFaEMzd2h5bUdGQjc1MURhYzFXYTFfUlFXcUFBelBsWE1rOVotT1Jsc05yelJKbV9sQ05VZTcxaUY2dlIxNjVGck9PZEVqRlgyRV9CeHhLNll0TmZNbGwxREVDd1Bac2tQeHhPZmpPNFVSU2lwRktkQmxucHFCb3A5T2tzdWR6eVB3SUhRRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPazZ4d0xrb3d6YnpjRVVLYW1SLWdIdmhFVnFsU1BTMFFZZWZuaDhKRUZUZlBfbm9IUDBlVTgtend5Z290OWhDV3k4VEJsVFhJNVFBSTYxWTE2ZDBRYklXa25DQ1MtOURCc2pINmsyWWMycnVGempGWlB3SHJxOHlsd09QQlc5WnR6X0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1dpT2JKOXFZMzZhUUZrWnV4U2wtOGNaOTZsQVdPS2swY0tCbnVGR1VJeW8yWDlmcEFEMk5KYWg0a2ZPSmRnekZQOXRVMFB0d0s5Wl8xTkpyQUdEa3VqZUJKclBnMWVBSWRIend4WHgyVGNXYmpmQkh3LVRRV0NLZk5Mb3FlWExwVUdHVkIwd2I1WUg5b3FkUjduaFVfWHlCZEt4aV9KQVNwSlU?oc=5",
+    "https://europeangaming.eu/portal/latest-news/2026/10/30/217175/dutch-gambling-market-2025-ksa-market-scan/"
   ],
   "title_hashes": [
-    "a48f61e87fba19e935b1c9720bc3f93f",
-    "df03731a0394814cbdad55f10a9bd89f",
-    "6f7038078a4a86d3b8e53b18272914ac",
-    "e2c50a4db1b5686339fcd8a85549f36f",
-    "f5d7e2532cc9ad16bc2a41222d76f269",
-    "279a8051b7d15070534a77635403fa3a",
-    "a7687454e2c35473f2eee37222e3f422",
-    "225f83f5a095b038d191cc7c4d7cb7e0",
-    "01a790c60fe31f7478228e0f1b257060",
-    "dcc0c3652dfac11d61f4575ddf3235b5",
-    "6a572faa2eb2fdc9b5ae868b64e13f17",
-    "80cbc94ec5ca15bc5978705bdcb00cd6",
     "ca35ab69f3e205bffdecc7e8b3943782",
     "58c57c51ba791ba7feba062975e4cc2e",
     "a2d4b20508f65d3d25ac28679d5041f5",
@@ -16001,7 +15989,19 @@
     "8d4f6240008e77842ef15aff300e7a4d",
     "b07255f5b847eb3060d092824a82cc5d",
     "3aba93fa565a68426d639f962d055b29",
-    "4a97a57126c20b96edc0f2c90e9f4536"
+    "4a97a57126c20b96edc0f2c90e9f4536",
+    "bbcb469fd2eef19196d66c24f9ade701",
+    "4941052088ce92ede324fb5feda57b19",
+    "d340b704aac15e6f613b962ab1cec6e5",
+    "15cc4a4854fa3f3fa4c80e89fb334be3",
+    "c5a21635ac7a215a1e05e1fb6cc1620f",
+    "c09ed324ecc80b688b686e921fc7b28f",
+    "eacea704f3d8c6e60d8bbe5c4c44c056",
+    "a95ed538c5f2260d4c6caf9e89bedcd2",
+    "b8423ff912cefb727ed9eaedd5d63a16",
+    "50c3d6f98a19110c8386d99d53b12ec5",
+    "897e9bf83efcde1f63b0a88d14d141be",
+    "af0753f59ea899218e61496ee3a6f2f4"
   ],
   "transfers": {
     "pages": {
@@ -21100,6 +21100,26 @@
     {
       "t": "agree aiming bloomberg can confidentially debut discord familiar filed goldman has hired investors ipo january jpmorgan march people plan reported sachs stalled techcrunch told what worth",
       "ts": 1793389512.7357032
+    },
+    {
+      "t": "10 27 after creation creator dan forza founded games greenawalt head internal led memo microsoft playground retires retiring staff studios that told trevor turn who williams years",
+      "ts": 1793389518.0447998
+    },
+    {
+      "t": "16 19 28 6 applica applications auto before centre city comes filed files game grand gta interactive names november october out related take theft three trademark trademarks two vice weeks",
+      "ts": 1793389521.5666075
+    },
+    {
+      "t": "8217 acquisition around barc brooklyn campaign centred championship data deployment finals firm has introduced league legends leverages lol mecka physical strategy talent unconventional world worlds",
+      "ts": 1793389525.1852
+    },
+    {
+      "t": "000 100 accused alqadsiah claim esports expense failing former group has money more organisation over pay personnel prize prizes publicly qadsiah reimbursements salaries staff than unpaid usd wages",
+      "ts": 1793389528.715874
+    },
+    {
+      "t": "18 1bn 2 30 4 8230 appeared betting casino deposit dutch falls fell gambling ggr ksa least licensed links market online partly post revenue shrinks which",
+      "ts": 1793389532.230124
     }
   ]
 }
