@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiREFVX3lxTE1BYkl5Y2tYSThuVVhiYVFZeU82ckxKZ3BidnYzRk9XV1lFVVpyZjRfVW9rVzNPZEpseVhmcXRPR2VLU2Z4?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFa0N4Vmdzak5fdzQ1dXlveFVZaElJVEJEWFRqZ3lCN2dlYWJNTlA2OGJkdmlPZkhxdnBvcXNQWHhvTGdsZlUyTzhCcE5LZTRkT0h2cEZCX3J2RElWV2VnM1lEV0xhVW11VlhWYjljbFotb1VmWU9SYzBCUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YUFFSenE0YmEwNEx0TUlKbXJqdWNhbVBOQnYzSUM0YU5URldvVnozS3hzbFJUWGpsMEZCLWhJYlpYMUN1X080bGJLYkdodXRoWHFtUWt6cnBhN21pRkN3SkVEWHI5a1lrVVpMTUkzNGJMdVVvdnE5V0lBWlNoa28?oc=5",
-    "https://www.hotspawn.com/counter-strike/news/nip-replace-virtus-pro-at-thunderpick-world-championship-2026",
-    "https://www.hotspawn.com/fortnite/news/how-to-get-the-deer-skin-in-fortnite",
-    "https://www.hotspawn.com/valorant/news/nongshim-valorant-champions-shanghai",
-    "https://www.hotspawn.com/valorant/news/prx-eliminated-valorant-champions-shanghai",
     "https://www.hotspawn.com/league-of-legends/news/worlds-2026-top-20-players",
     "https://www.hotspawn.com/rainbow-six/news/rainbow-six-siege-mobile",
     "https://www.hotspawn.com/mlbb/news/mpl-s18-weekly-watch-key-matches-for-week-8",
@@ -7999,16 +7992,16 @@
     "https://www.hltv.org/news/45862/blast-open-2027-s3-to-be-held-in-usa-with-updated-format",
     "https://www.hltv.org/news/45861/nemiga-stun-vitality-2-0-to-reach-pgl-masters-bucharest-final",
     "https://insider-gaming.com/when-does-apex-legends-cipher-release-and-whats-new/",
-    "https://insider-gaming.com/exclusive-kda-sophie-powers-interview-madison-beer-hate/"
+    "https://insider-gaming.com/exclusive-kda-sophie-powers-interview-madison-beer-hate/",
+    "https://insider-gaming.com/the-legend-of-zelda-ocarina-of-time-remake-faq-release-date-price-platforms-early-access/",
+    "https://insider-gaming.com/north-korean-hackers-steal-63-billion-in-crypto/",
+    "https://insider-gaming.com/all-escape-from-tarkov-codes-rewards/",
+    "https://estnn.com/worlds-2026-swiss-stage-three-spots-left-eight-teams-alive/",
+    "https://estnn.com/tcg-card-shop-simulator-halloween-update-1-03/",
+    "https://www.dexerto.com/valorant/benjyfishy-on-team-heretics-2026-season-valorant-esports-changes-and-off-season-grinding-3410105/",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-qbs-going-into-week-8/2026/10/29/"
   ],
   "title_hashes": [
-    "c26de32d1503d8e40c1a79d746a6f284",
-    "c9e17eb4c96b432f152a73617bcf7878",
-    "5339ddae3f73dc54d9ca214c9140c1a8",
-    "c02910a57c52165d31f114ac13377971",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "353af67f8aa5a5aa23735cddcc28fe7f",
-    "d11d8c8a401e3b1b8f4fde40e89a9dfe",
     "d48bc6c52a09dfa8a88e9e0f417fa0a6",
     "2089b9394f21e26600d99ac25a83c311",
     "bae8ab3b6c2cc1db2ffed7c6e7c1ccb3",
@@ -16001,7 +15994,14 @@
     "7d9e81beb2ff1b4089b9e4c01e854fdf",
     "bec2dcb817a1b45d3811a2c1a8e504fd",
     "5163a8528d7d8f180bd83fe7d321942c",
-    "c264d08e6345dec7e905ea31bcf4e453"
+    "c264d08e6345dec7e905ea31bcf4e453",
+    "40be929077d02aafa3f92f6f02ffea08",
+    "159c6a193d3d8c295b5df427a98aebb8",
+    "b0860e372fe6055ba4e63a0163240dd9",
+    "48cfab07ed4274e9013886b19367635a",
+    "a6fed77a96a7577169fc7a256adfe6ee",
+    "df03731a0394814cbdad55f10a9bd89f",
+    "d4e1bd57db980e233915ba2208b334d8"
   ],
   "transfers": {
     "pages": {
@@ -21040,6 +21040,26 @@
     {
       "t": "8217 addresses beer exclusive final got hate joining lol madiso madison post powers replacing she songs sophie talks teases valorant worlds writing",
       "ts": 1793389453.0599482
+    },
+    {
+      "t": "3 6 app been billion binance crypto group hackers has history korean largest linked north post steal stolen theft",
+      "ts": 1793389458.358661
+    },
+    {
+      "t": "active all check codes escape free guide has hunting items more need out post reward tarkov this want you",
+      "ts": 1793389462.083501
+    },
+    {
+      "t": "2026 30 5 alive eight elimination fight five last left october quarterfinals records round series spots stage stakes swiss teams three through worlds",
+      "ts": 1793389465.6231716
+    },
+    {
+      "t": "03 1 adds box boxes bulk card cards destiny ghost halloween merges playmat shop simulator six tcg tetramon update",
+      "ts": 1793389469.0952842
+    },
+    {
+      "t": "8 8217 also can check fantasy football full going heading into let look nfl options out qbs quarterback rankings risky season some take underrated week you",
+      "ts": 1793389472.6193101
     }
   ]
 }
