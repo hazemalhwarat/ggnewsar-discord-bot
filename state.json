@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGdmOGRkcE1nOXNrRDJLSVhXQkNpX0lHb1dqeTBJZFdrUTVyWmh3RDhLUEMxVUVpNnNJVDJYNTVpLU52SlJLWmU5b1JocS1qYTgyWkoyXzJJaUVfQXlYaFA4LUFNaUh4YkNCNEVlSjZScmpDQVNJOEI4V2NNdkxEdVVJb1J2T04yM3hJWXBiV04yYUFrRUVWbXJsbWJRRVlTaDJQVW9B?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWNYS3dNWUExUERzU2hOUm5MQlA5QUlzQmx5THR4UmpLVlNac0V6NFNscUxjNmFEVXJFdUVMNnNfVUFrM0JpLWp4LXgwYUlzTnh0cEdIUWpDdUhSdWRtR0tkYjVHTjhlb2tVVXVCalBqUTJUdkpmNi1kcDVSMmpDdlJPS0VKUmY4XzhlREp5aVpJcVhuUXc?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWJJVlBSZExrLWhlWDRWRmpMRlFtOVZVSkhsdGloMF9WaWxaaGFXOWhVZFU3UVFVandzT3BsaUIwRlRQUVVGM3JPa3JDMlhCdlpEUHQwTXc0NFNzdTB0NWJkZHV0OU45M05NcU9TTnlkeEdrQ3Nva0ZMUmZmOVV5aFlhQ0ZiUjRwZTNEVVljMmFzLWt4ckNn?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVFFfVThPUEJEYlpMUnBxcmpXV1VtWTBjcEc5NTdyb0hmaWlFZk0zZXhaYk9tV0lJY01kSXlZT1ZORGQ4M1RrU3lDWXNWSG1lNnZRNXJ2RHM3UkFONmU3aGN0TVBFRC1HS01MOURCOE5DdXNDNDM0ZV9nSnJNNGdxSXY1YmZlRHRYdklEYWxzeEJXZ3pU?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXU4aGxCWl93ZndVOFVwdlhuSlFMZC02S3VLZzk0bl9CNUVOYUt2Si1fRWpfaVIwdTlpaXc1Y29yWlJwakE0bWZUczlQdl9pLXpXaEx2MldxNWpkVVA1NENHeTZuT01FRHRJODR3NFNZODh4TG0wR2dYTnlxbnc3U1VMdEx4emY4dW9iZ1BHOVV5THBTMlZyRlozWEZNNktDYi1oYQ?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzRicTdIOFlYS1V3MlZDRWxRTGcyXzMwRGx3cE51czlMUE9pU0drRUZoNGJaTnhLNjZ2UVhOTU5iUFVwaVNxN1c0R3c2eC1XTzFiaEtkRVVRT0p1TTdKY1BzMFl4YWk0b0dHdVJOZ3I2bFZVZy0yczZJZ3g1LWNQZTQxcVg3SHQxVnFTOHY1SmcxQjc1bkVyd043ZlBybWlCQ2Y2LU9Qa2hhY2RteUhHRXJR?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSlhyUkFLSzFlbWM3UmY0aTcwQ3RjTFBSa0lxRk1iN0N5UURPcGMzS1BOMHNUU2lxT2w1U09SQUdEUTJSWmJnUkQ5aDRXMmROb0l3TVhTdkxMUlp0Mm5DX1FobjZsdG4tbG9vSE13Mm12cXRBSEJPLTZtekZPeFBUbkdLVXo4Z1lWLUtnZXZVTnY?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQWhraXdkR2Q4WC0xS2FGdERCdV9vY1hkTUw4d3pKOG1NYlkyVlNSNTk0WjQ0MHFRek5fTzVWYk5MODdkbW9QaHV1QjEyQ2t6TTFFdUhYMTFZdjVBR3hmNTZieFh5Rm96WFlFOEF4ZGhULW5zcWY2V0NHbXBFVFJQcG5LZFg4eF96akJ4REhIc1hmMVhGVmtZQ01hRQ?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE15YUc5SnZWaXA0R3JOZnVlaDRaQzEyTmJJVWZVT25tZjFCUzRWV0Joc3ZMc1ZySjBPUERUWGxlS05Rd0ZkREdHRkxtY3VFTTJmcWtxMlhET01EOU04WF95dDlXWU55ZnZMblQ4azRURnQwVHo0VlFFWVlJOA?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmpwQkFUcklpcXZPV3FNZ2kzckdjdmlxLWRJRGtCMTJNclNXYUp1NnFDYld3RW85OG02RGZ5OUNseVZkZkM1bThwemRPYVJUYXV6bjEwSnVfU2JBNWlVTzhkaWtEUEtRQTJUcGlJNTRVVHdmbkhocU5QenFlLW5hNUFmOFNsQUdGbk1oUzBvLWowSVV2dXVWbg?oc=5",
@@ -7999,16 +7992,16 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OekE1RnFXdmJSLV9Oakd0ZkVyMjAyMzd3TWxsUWhNYXNWUU1MMXlNV0w4bmJSN0VUU3BKUm1falpWQkJWV1pZQ2UxdzMyNE4xZmY2R1hNUmwzQ05JRmtMTkxqV3RnRW5LLVE?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE5na21PcW16R3lGT0Q4aHJhMFlRUG5PYnVlelpRMVoxY0hidUl5SEp3cXpIMDZaTHh4bDRPd2hFRHNXRTVQOVd2NjU3QUZockM0dVhLbHljN3h5ZkJvUXJ4OFZVVjEyYV9KTUgzekdkUGt6OGlacjBacVNjNFFfVjg?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGxqdy1Qdjl3MkNMSGRGOWVvcnV6UHY4blltb05kVF9FWGMzaElfQjBtYVlsSjRrWDhnel84X20wZm1uSTk3UUJ6SmVMMk5PN0xrZXFBVk5RTU4ySzB3M180YmUzcGx4bFFGeVZKV0s0UjFzMEludlNoQUpZcHNQMVF5SGQxNG9fVnlTZThOWDJnUk0?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUmQzZUZCdGpNenNTQ2JHbGw0Z2JPNzRoc1E4OC1pMnFoZGdobGp6cmhOcGhEVFVoR3h0ZnZiUTF1M1ZNR01PMnViYkEySFVtcTF0dHpnODVOZ2FJV3QwRDVDRWJDaEI2RVNvNjhtZUh2N3UtNFBsaENuS19XakR1UjVoYm4wR3FrLUNLUWhKTlh4V3FudFE?oc=5"
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUmQzZUZCdGpNenNTQ2JHbGw0Z2JPNzRoc1E4OC1pMnFoZGdobGp6cmhOcGhEVFVoR3h0ZnZiUTF1M1ZNR01PMnViYkEySFVtcTF0dHpnODVOZ2FJV3QwRDVDRWJDaEI2RVNvNjhtZUh2N3UtNFBsaENuS19XakR1UjVoYm4wR3FrLUNLUWhKTlh4V3FudFE?oc=5",
+    "https://www.invenglobal.com/articles/27924/seal-m2-unveils-future-update-direction-lightening-progression-strain",
+    "https://www.invenglobal.com/articles/27923/crimson-desert-enhanced-launches-first-dlc-charting-the-unknown-worldwide",
+    "https://www.invenglobal.com/articles/27922/fategrand-order-unveils-korean-9th-anniversary-website",
+    "https://www.invenglobal.com/articles/27921/mobile-game-rating-classification-transferred-to-private-sector-starting-november-2",
+    "https://www.invenglobal.com/articles/27919/nexus-seeks-corporate-name-change-to-one-to-submit-at-november-shareholders-meeting",
+    "https://www.invenglobal.com/articles/27920/playable-even-before-the-ending-essential-crimson-desert-dlc-guide",
+    "https://www.invenglobal.com/articles/27918/viper-addresses-lack-of-communication-its-worse-than-nothing"
   ],
   "title_hashes": [
-    "06313c84a769d4b6358ad98d54c09620",
-    "c398b08f35864f513bfa67b7537cba98",
-    "744b4f8c9ed91c02ef1ae389892b7783",
-    "905a9adb54ae1fd79a597af5579acb0f",
-    "e6187880824cb35936cb79cc22563605",
-    "f6d2257d196002cd16d71cc76cdcd07a",
-    "b2e517f4a8e913e6d0259e631d23fb06",
     "6282ab6813f0a4b2154f4ee28a823f96",
     "46c88275e75ac3f4366bef91defd913e",
     "4272250461034813ce9a5f5a736bef65",
@@ -16001,7 +15994,14 @@
     "ed48771a3b240213cb47b3aae8aabb92",
     "9382b9bf040b9bd7dde79740b3c9d240",
     "740a2e7a045340570c994d4e0af679b7",
-    "1cad03b8f13bcd7cbd7acd94935a3430"
+    "1cad03b8f13bcd7cbd7acd94935a3430",
+    "625c29b3edca4a5d4eba68ea85c5ed82",
+    "25db148f31cab03a9f0d721647e40386",
+    "21200c6760e4727f6252c62e0e943889",
+    "f99a5cf0a260e12d92e36bc17b15f957",
+    "0f9e8c41f211a8bebb5bddb1c0c83873",
+    "392042a761634612376b3d870dca3065",
+    "04441b5829c6c4e23c6e9cfe4ad92701"
   ],
   "transfers": {
     "pages": {
@@ -20710,126 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "000 1 29 400 action blade concurrent dark early game hour its kicked launch october off official one phantom players rpg success surpasses surpassing within wuxia zero",
-      "ts": 1793250125.100239
-    },
-    {
-      "t": "20 5 azeroth begin differences forever hereinafter however into launch marking more november old once second service some there unknown warcraft will world wow year",
-      "ts": 1793250128.6482465
-    },
-    {
-      "t": "28 added codex collection cores crafting drop enchant entries exchange gear god hereinafter island level look market new nine october prices raised rare recharge requirement rise seals sky sol stones time utilizing wednesday while",
-      "ts": 1793250132.2078524
-    },
-    {
-      "t": "4th anniversary banner battles begins boss both campaign can commanders crown even goddess guide level marian new nikke pick powerful queen simple stages understand victory",
-      "ts": 1793250135.7196608
-    },
-    {
-      "t": "29 5 adventure announced cfk day digital game horror launch launches memory november october playstation ps5 psychological revenant simultaneously that version will worldwide",
-      "ts": 1793250139.5762908
-    },
-    {
-      "t": "3 5minlab about after announced comes creative cumulative developed downloads five global have hero inc its krafton milestone million months overgeared studio surpassed surpasses that",
-      "ts": 1793250145.1299846
-    },
-    {
-      "t": "230 29 4th anniversary attackers banners beyond featuring free goddess goes history live nikke october perfect pick plus pulls return standards start strongest thursday time unit update victory welfare",
-      "ts": 1793250148.7393541
-    },
-    {
-      "t": "29 400 action adventurers celebration equivalent events game garena hunter hunting launch launched launches mobile monster october officially outlanders recruits rewards ssr survival through",
-      "ts": 1793250152.3744323
-    },
-    {
-      "t": "29 5 8 announced channel held hold its mmorpg new nexon november october official online over overgeared showcase that will world youtube",
-      "ts": 1793250155.878177
-    },
-    {
-      "t": "2027 21 23 announced association bitsummit committee days executive games heights held high independent industria japan jiga kyoto may messe miyako new next reaching that three will",
-      "ts": 1793250159.5430045
-    },
-    {
-      "t": "2 2026 consecutive content declines decreased drop four fourth growth july marks microsoft narrowed negative over quarter quarters revenue september services signific this while xbox year",
-      "ts": 1793250165.0350842
-    },
-    {
-      "t": "29 applied attack folk fps game halloween its map nexon october online revamps sudden theme update village",
-      "ts": 1793250168.4979546
-    },
-    {
-      "t": "10 29 3 announced anyone begins beta birmingham can conduct corp games god kakao november october participate save second steam test that via will",
-      "ts": 1793250171.972049
-    },
-    {
-      "t": "14 15 29th announced area commemorate event hold host korea november person pokémon site south suwon that this time villas wild will",
-      "ts": 1793250175.5756886
-    },
-    {
-      "t": "2027 28 5 announced been chucklefish four has january launch launching life local magical officially online players playstation ps5 simulation supporting that time will witchbrook",
-      "ts": 1793250179.2653813
-    },
-    {
-      "t": "29 4th anniversary announced developed goddess has infinite launched launches level nikke october published shift that update victory",
-      "ts": 1793250185.1538887
-    },
-    {
-      "t": "15 2 29th 5 announced anomalith editions game gamepia has korea launches ltd nintendo officially physical playstation ps5 rated released south supports switch that",
-      "ts": 1793250188.6186285
-    },
-    {
-      "t": "29 announced com2us content doomsday first has holdings idle introduced its october rpg seasonal soul strike that unveils",
-      "ts": 1793250192.178348
-    },
-    {
-      "t": "29th announced combat completely last main origin overhauling overhauls story system systems that valofe",
-      "ts": 1793250195.6569803
-    },
-    {
-      "t": "29 announced global globally hero its launch launches multiverse neptune october official officially rpg sword wuxia zero",
-      "ts": 1793250199.3856716
-    },
-    {
-      "t": "6 appeared auto brand during episode fashion fitting gameplay grand gta most new park post revealed south theft",
-      "ts": 1793250204.795624
-    },
-    {
-      "t": "2026 28 969 answers find game gentle guidance help hints need nyt octobe october post puzzle spangram strands theme today word",
-      "ts": 1793250208.2768412
-    },
-    {
-      "t": "12 14 19 6 another appeared auto been detail first game gameplay giving grand gta have launches look new november post released screenshots theft",
-      "ts": 1793250211.8275304
-    },
-    {
-      "t": "6 8212 appeared auto big confirmed first game grand gta has how insid just map new officially post preview revealed rockstar size theft",
-      "ts": 1793250215.3140447
-    },
-    {
-      "t": "2026 5 8217 both chance day down eastern failing four great happened has here locked lyon mkoi more one results stage swiss take teams wasn west what worlds",
-      "ts": 1793250218.7820306
-    },
-    {
-      "t": "2 8217 day definitely don early entertaining final four games grand have here lined matches miss more pari playoffs predictions rages series some third universe very want who win you",
-      "ts": 1793250224.1827736
-    },
-    {
-      "t": "after back cs2 emerged file files follow game gun had indication intended intensify leaks left more new potential revealing rumors september some that there this time valve way",
-      "ts": 1793250227.743055
-    },
-    {
-      "t": "2026 8217 before berths bucharest come discuss eight end final furia group has how locked masters navi nemiga now pgl playoff quarters stage take teams that time tomorrow",
-      "ts": 1793250231.2276816
-    },
-    {
-      "t": "1 2 60 all breaks day days dota even four furion gpm longest maps matches memory minu one out pari playoffs recent record satanic spirit team there three tournament turned two universe upset went witnessed",
-      "ts": 1793250234.9200628
-    },
-    {
-      "t": "business esports exchange4media exit exposes games global losing model money nbsp problem winning",
-      "ts": 1793250238.4366047
-    },
-    {
       "t": "2026 27 access battle campaign chapters competitive early features forturia four launched launches mode october pioneers player route single spanning steam this trade version",
       "ts": 1793273091.3761175
     },
@@ -21364,6 +21244,26 @@
     {
       "t": "2026 action all another become bucharest conclude day eight few finals finishes four furia have march masters minimum mouz nemiga next over pgl play quarter saw secure still top vitality",
       "ts": 1793311157.3409305
+    },
+    {
+      "t": "29 applied developer direction during first future improvements its korea lightening m2 maintenance mmorpg mobile note october plans playwith progression regular revealed seal strain through unveils update well",
+      "ts": 1793323908.1698077
+    },
+    {
+      "t": "2026 9th agf also anniversary announced celebrating company fate grand has its korean mobile netmarble order participate plans rpg service special unveiled unveils website whi",
+      "ts": 1793323911.9407854
+    },
+    {
+      "t": "2 administration announced classification committee duties game grac handing implement mobile november over phase private rating sector starting that transfer transferred will",
+      "ts": 1793323915.419343
+    },
+    {
+      "t": "16 amendment articles change corp corporate extraordinary general incorporation its meeting name nexus november one seeks shareholders submit will",
+      "ts": 1793323919.0710373
+    },
+    {
+      "t": "1 2 2026 30 addresses allen blg center championship communication credit event kst lack lol lost morning nothing october pushing stage swiss tes texas than them union viper world worlds worse",
+      "ts": 1793323922.5425022
     }
   ]
 }
