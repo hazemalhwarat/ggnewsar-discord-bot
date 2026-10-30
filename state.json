@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/battlefield-6-season-5-update-adding-key-feature/",
-    "https://insider-gaming.com/project-zomboid-sales-last-month-build-42/",
-    "https://insider-gaming.com/jak-and-daxter-movie-lands-minecraft-writers-its-claimed/",
-    "https://insider-gaming.com/wardogs-players-will-keep-long-term-xp-progress-despite-seasonal-wipes/",
-    "https://insider-gaming.com/call-of-duty-modern-warfare-4-dmz-early-access-announced/",
-    "https://gameriv.com/arc-raiders-surges-past-131k-concurrent-steam-players-after-frozen-trail-as-burnt-peanut-returns/",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtaEhvSDV0OG9KeER6bUpreUF3UzdrOXBqU3g0Mzl5Q0dRWXdEUDNUT0doblZaa1JQdU1kMGhiTGttSEJYVXFuLUs0QmlzOE0?oc=5",
     "https://news.google.com/rss/articles/CBMiREFVX3lxTE1BYkl5Y2tYSThuVVhiYVFZeU82ckxKZ3BidnYzRk9XV1lFVVpyZjRfVW9rVzNPZEpseVhmcXRPR2VLU2Z4?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFa0N4Vmdzak5fdzQ1dXlveFVZaElJVEJEWFRqZ3lCN2dlYWJNTlA2OGJkdmlPZkhxdnBvcXNQWHhvTGdsZlUyTzhCcE5LZTRkT0h2cEZCX3J2RElWV2VnM1lEV0xhVW11VlhWYjljbFotb1VmWU9SYzBCUQ?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YUFFSenE0YmEwNEx0TUlKbXJqdWNhbVBOQnYzSUM0YU5URldvVnozS3hzbFJUWGpsMEZCLWhJYlpYMUN1X080bGJLYkdodXRoWHFtUWt6cnBhN21pRkN3SkVEWHI5a1lrVVpMTUkzNGJMdVVvdnE5V0lBWlNoa28?oc=5",
@@ -7999,15 +7992,16 @@
     "https://www.invenglobal.com/articles/27962/bloomberg-ea-closed-bioware-and-cancelled-mass-effect-to-back-star-wars-battlefront-3",
     "https://www.invenglobal.com/articles/27961/chronicles-medieval-studio-raw-power-games-loses-funding-warns-it-may-close-before-early-access",
     "https://www.invenglobal.com/articles/27960/fromsoftware-takes-dark-souls-ii-and-dark-souls-iii-servers-offline-on-all-platforms",
-    "https://www.invenglobal.com/articles/27959/blaze-entertainments-evercade-nexus-is-out-now-in-europe-and-the-us-for-19999"
+    "https://www.invenglobal.com/articles/27959/blaze-entertainments-evercade-nexus-is-out-now-in-europe-and-the-us-for-19999",
+    "https://www.hltv.org/news/45864/kscerato-were-trying-to-play-on-feeling",
+    "https://www.hltv.org/news/45863/furia-beat-mouz-en-route-to-bucharest-final",
+    "https://www.hltv.org/news/45859/pgl-masters-bucharest-semi-finals-as-they-happened",
+    "https://www.hltv.org/news/45862/blast-open-2027-s3-to-be-held-in-usa-with-updated-format",
+    "https://www.hltv.org/news/45861/nemiga-stun-vitality-2-0-to-reach-pgl-masters-bucharest-final",
+    "https://insider-gaming.com/when-does-apex-legends-cipher-release-and-whats-new/",
+    "https://insider-gaming.com/exclusive-kda-sophie-powers-interview-madison-beer-hate/"
   ],
   "title_hashes": [
-    "ed965a71e4dc90e38fcc541a691062a8",
-    "08c0078fa482cd890170983d0d6bd480",
-    "b26ecd000d196a3fbcea2cdc8441fb02",
-    "93ac011d30d8ba1b9457ffcec131e70b",
-    "68951326c2503b576ac0974db9068f6b",
-    "3506cf36aba9a9531fc81268c813e94e",
     "c26de32d1503d8e40c1a79d746a6f284",
     "c9e17eb4c96b432f152a73617bcf7878",
     "5339ddae3f73dc54d9ca214c9140c1a8",
@@ -16001,7 +15995,13 @@
     "986e9ed7452ddf93e9a3a7d97ced598f",
     "00a2dae4c55ad6cba8ee117bd702d084",
     "46bc5e0590399664c22b1e1ed69d1c3b",
-    "d51b26488fc077e73da6e853316b8469"
+    "d51b26488fc077e73da6e853316b8469",
+    "659c047659b1945bc1bcfa5bcd30ff46",
+    "b27114fc62732f36825bc41da0ec6bc3",
+    "7d9e81beb2ff1b4089b9e4c01e854fdf",
+    "bec2dcb817a1b45d3811a2c1a8e504fd",
+    "5163a8528d7d8f180bd83fe7d321942c",
+    "c264d08e6345dec7e905ea31bcf4e453"
   ],
   "transfers": {
     "pages": {
@@ -21020,6 +21020,26 @@
     {
       "t": "199 2026 30th 99 amazon based best blaze buy cartridge entertainment europe evercade funstock gamestop handheld has its launched lineup newest nexus now october oth out retro sale went",
       "ts": 1793389433.5262213
+    },
+    {
+      "t": "back been confidence feeling feels furia has key kscerato play renewed their trying",
+      "ts": 1793389438.8431635
+    },
+    {
+      "t": "add against another beat brazilian bucharest chance fallen final furia have mouz nemiga route résumé saturday squad title will",
+      "ts": 1793389442.3598425
+    },
+    {
+      "t": "2027 blast bounty format held open replace s3 season second tournament updated usa will",
+      "ts": 1793389445.879518
+    },
+    {
+      "t": "31 8217 akimbo apex bringing cipher coming crypto does legends new post release revolvers rework season soon strongholds update what when wingman",
+      "ts": 1793389449.5495172
+    },
+    {
+      "t": "8217 addresses beer exclusive final got hate joining lol madiso madison post powers replacing she songs sophie talks teases valorant worlds writing",
+      "ts": 1793389453.0599482
     }
   ]
 }
