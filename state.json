@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thegamehaus.com/gaming/gta-6-cyberleek-update-nsfw-lucia-jason-new-gameplay/2026/10/08/",
-    "https://thegamehaus.com/gaming/new-gta-6-radio-stations-confirmed-artists-songs/2026/10/08/",
-    "https://thegamehaus.com/nfl/nfl-week-4-overreactions/2026/10/08/",
-    "https://www.nerfplz.com/2026/10/true-damage-know-my-name-skins-all-5-on.html",
-    "https://insider-gaming.com/when-will-marvel-rivals-servers-be-back-up-marvel-rivals-season-10-5-october-9-downtime/",
     "https://www.vlr.gg/769367/ion-enters-restricted-free-agency",
     "https://www.vlr.gg/769371/bestia-parts-ways-with-entire-valorant-roster",
     "https://g2g.news/esports/the-mobile-premiere-2026-to-spotlight-indian-game-developers/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27953/the-legend-of-zelda-40th-anniversary-edition-i-fell-in-love-with-the-switch-2-all-over-again",
     "https://www.invenglobal.com/articles/27952/best-hidden-gem-of-2026-nivalis-nights-accolades-trailer-released-one-month-post-launch",
     "https://www.invenglobal.com/articles/27951/virtua-fighter-crossroads-reveals-new-character-lionel-rafale",
-    "https://www.invenglobal.com/articles/27950/bmic-2026-opens-in-mumbai-5-korean-teams-to-compete"
+    "https://www.invenglobal.com/articles/27950/bmic-2026-opens-in-mumbai-5-korean-teams-to-compete",
+    "https://www.invenglobal.com/articles/27949/zenonia-chronobreak-expands-with-parole-langue-servers-and-new-update",
+    "https://www.invenglobal.com/articles/27948/power-up-with-seals-of-god-unstable-nine-core-event-continues-in-sol-enchant",
+    "https://www.invenglobal.com/articles/27947/slay-the-spire-2-teases-major-beta-patch-for-november-12",
+    "https://www.invenglobal.com/articles/27946/pok%C3%A9mon-fossil-museum-opens-dec-19-held-in-gwangju-through-next-august",
+    "https://www.invenglobal.com/articles/27945/konami-h1-operating-profit-surges-731"
   ],
   "title_hashes": [
-    "1320fd835c1cdefe5431337114b286cb",
-    "bf4d52fcfeff0a7cf1a602a7a2ad8d97",
-    "45f1f651aeb2d1ae803d99c56d97123e",
-    "c5006944abfd3647eb554c5150f1185a",
-    "431f67467d032c7d9427ab99a5c2c991",
     "dc31573d455c9adb3cf83eac9fa51913",
     "70c4ce1a07f9e59e276b841a7399c551",
     "a373f0c11e0ba0e37ad22bb7f67d4052",
@@ -16001,7 +15996,12 @@
     "485eac939d519a1a5e190accff3ee035",
     "d5d9818ba1cb2c8e551439faea50ab3a",
     "bb77b71300395120a2ebfcfcc4d0dfe6",
-    "594d5f5fb9a6b6c641319cbc5049a626"
+    "594d5f5fb9a6b6c641319cbc5049a626",
+    "812650abf5414d5160e46fd7e964ae49",
+    "2bc348f9a41252647a2df19085a8ecc7",
+    "ede51eb235339a784b046bd55b80af11",
+    "a47123a59af79998b147f7b27fcf8685",
+    "f370baea710856bb6931ede14e045a40"
   ],
   "transfers": {
     "pages": {
@@ -21072,6 +21072,26 @@
     {
       "t": "16 2026 30th 5 battlegrounds bgmi bmic compete esports hosting inc india international japan korea korean krafton mobile mumbai opens professional south teams total tournament",
       "ts": 1793346034.3918245
+    },
+    {
+      "t": "30 alongside announced chronobreak content events expands has langue mmorpg new october opened parole seasonal servers that update valofe zenonia",
+      "ts": 1793346039.5042245
+    },
+    {
+      "t": "28 added also boosting changed collections continues core damage drops enchant event god grounds have hunting new nine october power sea seals sol stats survivability unstable update wednesday",
+      "ts": 1793346043.0685244
+    },
+    {
+      "t": "12 2 beta crit major mega next november patch plans showcase slay spire teases",
+      "ts": 1793346046.5714993
+    },
+    {
+      "t": "19 august dec december detailed exhibition fossil gwangju has held korea museum national next opens pokémon revealed schedule science special through will",
+      "ts": 1793346050.0524774
+    },
+    {
+      "t": "1 2026 2027 29 308 73 approx april billion consolidated ending financial fiscal group h1 its konami march october operating profit released reported results revenue september surges year yen",
+      "ts": 1793346053.4805944
     }
   ]
 }
