@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://esports-news.co.uk/2026/10/09/aurora-sweep-1win-2-0-in-blast-slam-season-8-upper-bracket-quarter-final/",
-    "https://www.hltv.org/news/45685/maden-joins-big-academy-as-in-game-leader",
-    "https://www.hltv.org/news/45684/flamez-every-second-on-teamspeak-was-alive-and-when-we-talk-like-that-no-one-can-beat-us",
-    "https://www.hltv.org/news/45683/vitality-move-past-parivision-to-make-epl-semi",
-    "https://www.hltv.org/news/45682/kyxsan-im-always-open-to-feedback-when-you-play-with-so-many-experienced-and-good-players-you-can-learn-from-every-one-of-them",
-    "https://www.hltv.org/news/45681/aurora-advance-to-epl-semi-finals-over-1win",
-    "https://esportsinsider.com/2026/10/blast-slam-viii-yandex",
     "https://insider-gaming.com/lec-academy-team-vitality-bee-shut-down-after-seven-years/",
     "https://insider-gaming.com/gta-6-leaker-poll-voters-want-more-lucia/",
     "https://insider-gaming.com/paper-rex-valorant-champions-shanghai-elimination/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/27928/fatal-claw-adds-free-dlc-introducing-10-new-fusion-skills-and-3-difficulty-options",
     "https://www.invenglobal.com/articles/27927/wemade-play-equips-anipang-4-with-proprietary-smart-match-3-engine",
     "https://www.invenglobal.com/articles/27925/smilegate-hope-studio-to-host-5th-play-fungood-forum",
-    "https://www.invenglobal.com/articles/27926/nexus-signs-agreement-with-dubai-media-council-to-foster-gaming-industry"
+    "https://www.invenglobal.com/articles/27926/nexus-signs-agreement-with-dubai-media-council-to-foster-gaming-industry",
+    "https://insider-gaming.com/new-mass-effect-was-canceled-in-favor-of-star-wars-battlefront-3/",
+    "https://insider-gaming.com/the-legend-of-zelda-ocarina-of-time-remake-release-date-start-times/",
+    "https://insider-gaming.com/original-call-of-duty-modern-warfare-2-rated-in-australia/",
+    "https://insider-gaming.com/chronicles-medieval-developer-at-risk-of-closure-before-release/",
+    "https://insider-gaming.com/xbox-disc-to-digital-games-list/",
+    "https://insider-gaming.com/gta-6-release/",
+    "https://insider-gaming.com/the-bachelor-second-chance-video-game/"
   ],
   "title_hashes": [
-    "1e28ebfdab8f8f952c8134e506903a9c",
-    "54309846325eb0cbdc05426282abf870",
-    "08a0691005339193148e3267309a6563",
-    "dadbc3c1d4986741f6196a17f1630ec1",
-    "72ed2aa9103922f38614d3c81e8f0ab0",
-    "4fa009443ee8fa051bd393478cfd3271",
-    "bfe86079c2ca98121eb788f1b9170fa8",
     "a89147e69693d2d98a302c0deb1efc26",
     "4706febe3a59cd9701ee86854212580e",
     "deee215ed0bed9b611bc0ee7056e7fdd",
@@ -16001,7 +15994,14 @@
     "825f0f59cfb4e2210e04fc5f6f531206",
     "e2f753e4d526ba6242229687e4747ba4",
     "84de3cd1acf4a39cf0b59935f17ba8fb",
-    "927b3af1f4a46e8240b4b84c95ede768"
+    "927b3af1f4a46e8240b4b84c95ede768",
+    "ec3b16d505fd13de85e45fd66a7b41d2",
+    "b881e07d6332ed1f753a2757694bc3b3",
+    "835da7e1cb367a053cb2a8c663eafff3",
+    "c566e6eb1145849c936a1cd30e54cf05",
+    "bf9b023ff8d2a5256999b75bb8d2e832",
+    "58a552b6fc6a5c68791bd4ac8349b373",
+    "9c769865bb0461488796e0f05554b2c9"
   ],
   "transfers": {
     "pages": {
@@ -20984,6 +20984,26 @@
     {
       "t": "30th agreement announced business collaborate council dmc dubai foster gaming global has industry media memorandum mou nexus signed signs strategic that understanding",
       "ts": 1793370805.9778168
+    },
+    {
+      "t": "3 battlefront bioware cancel canceled details effect favor favour here mass more new post report reveals star that wars",
+      "ts": 1793370811.2318928
+    },
+    {
+      "t": "2 appeared australia call current duty first game gen get modern original port post rated recently speculated warfare",
+      "ts": 1793370814.7845216
+    },
+    {
+      "t": "appeared before chronicles closure developer developers funding games has its lost medieval post power raw release risk studio",
+      "ts": 1793370818.2572107
+    },
+    {
+      "t": "appeared can compatible complete digital disc effect every find first game games gaming initiative insider list out post promised use xbox you",
+      "ts": 1793370821.7737615
+    },
+    {
+      "t": "8216 8217 bachelor bros could developing filing future game looking new post reason release reveals som some that video warner",
+      "ts": 1793370825.5083966
     }
   ]
 }
