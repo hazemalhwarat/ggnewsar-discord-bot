@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFlXVDluNnNqTk1sd3pTZ0RSdFgtUlR2Uno4Q2d3elJiamRuXzVrWnpRc2M0eDZaMmliZllGMlFmMnprTE5DMjZSOEI4X2hnamV4ZmUxcXh5ZlZ0aW9Dc29nOTdzdU1TQ3VtdlY5SjdYbWVjbTA3WDJDeTZ1NnRhYXJmanlsMjhwMl9uVEJjaVd1djUtUVZVaUVxYTBfUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1ZwNEpQYTI3ZXR2ODR4bnBBNFA5OXFFSHJEckx4SFZxMTlEVUhyLVZjWnJ6ajNiZnBfSWpTS3ZXbTAxbUkzTTEzRFFoeVJ1eVhNd1BYU2R0R2RNWHBWSG9FTEhSU2pjVGEtWkFFZmxiRUozNUxpVWp3bmNlUXJodm9zM3l5S0xPVTk3MGUtdnhWYmM?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR25iXzA3bGd2a0dyODUwNlRLUEpFOUM2Yl82b2lidHdIb0lsb0k4SUJjSW9DOFhQSzZKYWd1bTllQlN5SWc5bDlBVVU5X2lObnk5akZQMTlhdXpobm5OMXh4YXRMSzVxV3ZENDVTZ2t0SnZHME5uem8tbENHSmhOUTNZWGJfNF82b2daR1RiN2RfY054R1pxdnB2a1kzTVhFbC1Z?oc=5",
-    "https://mp1st.com/title-updates-and-patches/black-ops-7-warzone-season-5-reloaded-update-1-105-fires-out-on-aug-20",
-    "https://mp1st.com/title-updates-and-patches/black-ops-7-update-2-04-delivers-season-5-reloaded-on-aug-20",
     "https://mp1st.com/news/score-a-modern-warfare-4-beta-code-for-free-via-the-mp1st-giveaway",
     "https://mp1st.com/news/black-ops-2-ps4-ps5-plagued-modded-lobbies-will-brick-player-accounts",
     "https://mp1st.com/news/black-ops-1-2-need-proper-remaster-but-not-remake",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27942/tombwater-adds-official-korean-support-and-new-boss",
     "https://www.invenglobal.com/articles/27943/wild-girls-rebirth-surpasses-500000-pre-registrations-unveils-buyucheonha-collaboration-character",
     "https://www.invenglobal.com/articles/27941/activision-removes-crowd-crush-footage-from-modern-warfare-4-apologizes-to-bereaved-families",
-    "https://www.invenglobal.com/articles/27940/death-stranding-anime-to-stream-exclusively-on-disney-in-2027"
+    "https://www.invenglobal.com/articles/27940/death-stranding-anime-to-stream-exclusively-on-disney-in-2027",
+    "https://www.invenglobal.com/articles/27939/heheh-poop-its-poop",
+    "https://www.invenglobal.com/articles/27938/a-sharper-gaming-experience-dlss-45-ray-reconstruction",
+    "https://www.invenglobal.com/articles/27937/tes-creme-reaches-quarterfinals-our-performance-varies-greatly-depending-on-our-condition",
+    "https://www.invenglobal.com/articles/27936/epic-seven-officially-launches-on-steam-opens-new-server-foundry",
+    "https://www.invenglobal.com/articles/27935/mobile-monster-hunter-outlanders-controls-nailed-down"
   ],
   "title_hashes": [
-    "83c634bd031e87060e81daac058cc46d",
-    "1e74c7706ad9ffe8425b80677546121c",
-    "a2ea49545c4a8cf96524e73aa3bfdfec",
-    "04b29480233f4def5c875875b6bdc3b1",
-    "eade4d8bad447cbd0340f9e5931525bd",
     "b7b78921458454ee9d57384f70ae3350",
     "130aee4fb842fac0feb2cd5d229832a5",
     "2342fc6972b6f2ccb148bdffed71d9f2",
@@ -16001,7 +15996,12 @@
     "3c4df12c850ae87dd41b2d56c42ee517",
     "f148177d4e68b4d785a80cd238e10cc8",
     "80e0449f2ea62b0847363cf97c374175",
-    "d6f9afa003342ffb6b398473a8f118df"
+    "d6f9afa003342ffb6b398473a8f118df",
+    "40510e3daff5238bd6008f2a4b829585",
+    "ba2d9a16943169ad21e88f1fb03d12a7",
+    "2a451beabe4ef6f0d217f5f1c050c920",
+    "9b185120233c97379e0b28f74f0cedbb",
+    "7a3836aa61475b502f6049082a0dd751"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "2027 animated anime death disney exclusively isolations its kojima official original productions released series stranding stream teaser tod trailer will",
       "ts": 1793346072.581244
+    },
+    {
+      "t": "29 4 animated episode first footage gameplay gta6 guinea heheh launch left new park pig poop premiered season series south stick three time titled until weeks",
+      "ts": 1793346077.5234425
+    },
+    {
+      "t": "4 5 again dlss driven expanded experience gaming its nvidia once ray reconstruction rendering sharper technology this through year",
+      "ts": 1793346080.9820545
+    },
+    {
+      "t": "3rd advancing condition creme delivered depending first greatly international lpl our performance quarterfinals reaches refreshing seed stage successfully tes time varies while worlds",
+      "ts": 1793346084.4506278
+    },
+    {
+      "t": "000 100 29th 30th announced cumulatively epic foundry its launched launches more new officially opened opens participated players server service seven smilegate steam than that",
+      "ts": 1793346087.9603832
+    },
+    {
+      "t": "after all before brings concerns controls down easy exactly excitement game hunter isn marriage mobile monster nailed outlanders platforms",
+      "ts": 1793346091.421978
     }
   ]
 }
