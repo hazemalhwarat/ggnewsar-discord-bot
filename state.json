@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sSENyUjV0WjQ5YjFDOGpDbWVvRUh0YVlLa0RQaHpHZHRBNXQyMjVIcDFHakFSZk14dy1ITURNcEZ1eVg3andBd2M2Qlc?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42OUFKd1dEZmozZ25XcUpERjczcVZxXzlaWG5SNmJUSjQ4UXM2aE9JMDlxaWE2VllRUVIzTHY5WWdfalhXU1dVcjEzQlVMZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16ZjFZNFVGMGs4V182WFA4ZmxVTVQ0VVVTaWM2bXVfMXFUYnh3WlROUUthNzM5ZTF1ZWFpWDRGb2dhYmt0aXBzTEZtSFo?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03d2hwUGNPRVFDZEN4UFRsazVBR3RLeXpUbS01U3pnVnh3N2JwV09YQXIyVGM5eU5DVFZmVGpTU2pCY1BBNlRVemVjVXEtZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnRlJULXBHOXpoREw5VHN2SGhDaWQxdXhIMDYyZ3c1ZGM5SGFQaG9haFF3Y1BWNml4SnEwVldzVVY0SjdVTy1IXzY4TlktX1E?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wWTlhTERXekxCVWhROVJ5dGdTLUhYYlRiZWNMNzhfajZNczVzaVJDT2dkUnExcEFxZHpjM2t5WHczM3oxZ0tJaGQwem02QlJJWlJF?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53ZGFDM0pNSENIal9KWDNPQkctWmFvdUhtSFdUX3lNZFBTaEZDWjE0Y1pCNWljZkZVTG1vMVM2YzdOdF9YZzJsMWF1M1Q?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82X1UxTUxJT0hoblkyMndRZktHSWVZRlJQUndqUU5PZWtoLVVUMm14X0c0TjRhZjFaam5Fb21kZUluNG5WMFJxSTdyXzA?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LSmpLd3pJVFA5bTF3c053T0d1TVVya0l6S29Ha1A1SlV5bENzOXMyc0VtZEgtT1RPTHl0RkRQT1BVTjluYndiR2w3UWU?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQNjdJSnBfaW83c0d4dGx2RDlyU253Y2xubnVGOU96a08xUWQ1U3FtS1pJM3hrbW5YRXZneG5HM1lfc1RIS1I4alBfLXI?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UNktuS2xQNDRvZnJpdDdMRDNqZGYwUzN6WXVjSGh2eE1NNFpRZHBRaVlxU2tHV19KREptOWNIM2cta2lhbDVhdTlRclp4T212UzF3?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.hltv.org/news/45871/yekindar-wins-career-first-mvp-at-pgl-masters",
     "https://www.hltv.org/news/45870/furia-secure-second-consecutive-trophy-with-pgl-masters-bucharest-victory",
     "https://www.hltv.org/news/45869/mouz-claim-third-place-in-romania-over-vitality",
-    "https://www.hltv.org/news/45868/pgl-masters-bucharest-grand-final-as-it-happened"
+    "https://www.hltv.org/news/45868/pgl-masters-bucharest-grand-final-as-it-happened",
+    "https://www.hltv.org/news/45867/tyloo-likely-to-miss-out-on-singapore-following-hyperx-retake-withdrawal",
+    "https://blog.counter-strike.net/2022/12/40705/",
+    "https://blog.counter-strike.net/2022/12/40706/",
+    "https://blog.counter-strike.net/2022/12/40649/",
+    "https://insider-gaming.com/hello-pikmin-nintendo-pictures-explained/",
+    "https://insider-gaming.com/pikmin-4-switch-2-edition-release-date/",
+    "https://insider-gaming.com/mitya-build-genshin-impact/",
+    "https://estnn.com/valorant-ranks-in-order-rr-rules/"
   ],
   "title_hashes": [
-    "06fecfca8245ca3f46edf006604a778e",
-    "75b9148b2ea0142f041527bda4883f94",
-    "d6cfcf60ed85c8f73520480e1bfe9755",
-    "36cc727101ae53275c7e979f8091089c",
-    "fab857dbbdced5ce23fefa7a6cb32b27",
-    "87c83f3086d5c5bea73062b10e70ff17",
-    "f8cacb4c3f395d6afdb429955f071ab9",
-    "81d9673f3d5e21ded02bfcef9571b06c",
     "799855594adc0f2bd7302c69d3234b5a",
     "1d95dd9fc8d4a102a00f4a1626a93a12",
     "f5303e593d2eb2105df9162b3824ff8c",
@@ -16001,7 +15993,15 @@
     "056797434f6133cf74fec1bb13989255",
     "afe92de52a9e6adcc77d30b22b3b4993",
     "402f9643c50f5be409d9db065a7c0744",
-    "2e7da0849250b0e95f5b2895875bf39a"
+    "2e7da0849250b0e95f5b2895875bf39a",
+    "3a7ce5ce6443ea29a57c84d946aeb534",
+    "0044170188e75cf359ec853d415430ed",
+    "5e46bd253be5629980cc76e5cd26525c",
+    "e0f986236788636115a69442130cba3d",
+    "ef25835b556bbdda1811d2dc76320a98",
+    "1d802155ffa0a8ba6145a46521f013d0",
+    "a0816640c6eae27622b0812b773cbcce",
+    "555f5078e76780f69e7d42116c8f0181"
   ],
   "transfers": {
     "pages": {
@@ -20908,6 +20908,26 @@
     {
       "t": "bucharest clash final grand happened happenings keep masters pgl romania trophy",
       "ts": 1793472545.351135
+    },
+    {
+      "t": "17 after beijing chance chinese conflict down following hyperx iem likely miss out qualification retake scheduling singapore squad tyloo withdrawal",
+      "ts": 1793472550.4859827
+    },
+    {
+      "t": "animated app drop episodes hello how learn new nintendo often pictures pikmin post series short shorts watch what where",
+      "ts": 1793472553.9701467
+    },
+    {
+      "t": "12 2 2026 4 academy announced appea arrives dandori day direct during edition first launches nintendo november pikmin post switch",
+      "ts": 1793472557.464376
+    },
+    {
+      "t": "artifacts best build complete genshin guide have how impact make mitya more our playing post rotations stats sure teams using you",
+      "ts": 1793472560.9714735
+    },
+    {
+      "t": "cutoffs demotion how immortal iron nine order pages radiant ranks regional riot rules shields support valorant work",
+      "ts": 1793472564.4279852
     }
   ]
 }
