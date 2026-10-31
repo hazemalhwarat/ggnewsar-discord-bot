@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUg0bzFGcXd2dG9faFhJeEF1OUYxcW9nQ1ZlWFlDb2JqUFoxNVdRcFJxQWhveTJqTGhZZkIxcGVIRVcwUlF2MUFtNXhXYTBTZkNLc01wTVhXU1J3cVI5Ui00WXppTXZTMTZxc3YtZmVacjI2YjNWazhhM1JfbGtaRFc4RC1DUVAwbW1xY1B5VUd3T1RRbF9kdnV0MUVGTUV2dGJR?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmFCdVV1ZE1TMU94eUdmV243b0c0ZEdHTy1nbUc4MDV2VmdZVDJjY09jRlpvSjNNelJ1cFA4THo5MDN4ektOS2xrekpMS0RDbGQwdVB2a29ieVBCZzlSdDBaY3dLLWM2LTg2STFlTFliSEJZQlpvNU1fMy1oMTM5WGFZdWhvNnpDOFhhVjNaSHBWbWdTbG50NnlMR256dTFablhUelVpUEw1c1cxWjhSWGNQVUZNN3lRcTMyUWVNU2ctNllKNEhFMGt4Yk80QU9TeUdKTElB?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GbGNFTGE3NEtDV0Q2UTMwcVVRdzBnOGU1M2tpSUI1bjZiR3d0aDlNakpuMUhZdGJuYnhhLVRpT0RsektYSno0TFZVQzB6azNUa3l4ejd5RUdxRlhaeFNsUThEeDRLNDFrVkZzRVQwZ1JnUjJB?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTmZGVF9jWkZxbmx2R2J2TFdwT1VHcktnOE52Y0IzaWc5ZjVnQnFZTUxxZmo4YmM1UlpWS1UzWmRQc1Q1NDBrM3d6OEpLRXAtWmlSd1ZtLVJxN0dhRWEzRmxaUTV0b3lDUnFfakJQV3AtSEVaUFE1YUVtUkJLYTFqbmxDUlg1aElQRGtTNWF3c3Y3UmF0eG85X04xX24?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaFgydnlnU1dyRE1kNG13UjZLMlR5dDdKN1g0ZXhzdXlHU3ZwMTFYTHVrcUt4LWxKYjRDVGtVTVdieExpNXRySHpUMXpockJJdERaeGpOZ1NhVHRMWnQ0WmpwR3VSYk1lNUQ0TWhjMzc2dWg1aU1VbTVJVHZLbGx0VkxsSkFxNHFv?oc=5",
     "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1HZ2ZudUF5bF9mRms5QUo4a0VMcHllUXlaLTBwdXRHQWVqZm1LcmxJX3FVdXpwVk04NHJyaXdWSQ?oc=5",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzNG14Um1FSmNydVViaS05c3FQdnE3TlhSbkNhUXdGcXNHLXBXZGJsWHN1ZklvWjgxVUR3VEltRG9XTHVJWksta2hnNA?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UMjZtWFR5c0lTNGpqTUZXTjdFMjBBMHBlN0ROT2w1ckdQb0Jva1BYRDlkRFJlaERDY0hGUVRIQ2NCNGN0YXRNQnoyMEp5TFltd1o0?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmFjLWpPSlFjODdjMXdzbEZCeURCS09ISEVyNEpyZlMzRTRMYzNJUU9JYmt1eWFJT1E4SXNxMl8wWHFFRjFBM18wMnREc2xVUU9fTjlOWVNmaHplZ1dXa1dBWUc3RGxXVG9EWUJrTTFrMnVNMU1aZVFKYU1HcG9BUE1VQlk4WFE1ejdDTUZGRDVCb0NBZHoxQkNYbw?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc0Y5MVptX1VIM25YMGZ6YWNlblh2Q0pkTGtZZ1RTU2FlUXZ0SHFwakZtamlfN0VDRHlDZ0ZDZmhYZzFpcTlmUW9hcThMU05pZVROQzBJLU9wUlVGbUVWTjVMTE1uYmFzX3pHMkRsd0xRWGZERmlCdzlkZUJUTXJHTUUtZ3VfVjg?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVpuYXl6R2xYZHd6Y3NncndLOXZTaEhIa1U5Tk5WdThzekN2dGM0dkJxZ2ZRNV9uTVI4ZGFES2FYUmxvcDZoV1ljelg3RTRQa3FrQ0RxRDdBcmV1YmZpMTVORXNNTFBoQzdteVppR2NkeE1tNXdVNW5zYnBYVHpiYWM4ckhud1lMbFFrVXc0a1NDQQ?oc=5",
-    "https://pley.gg/valorant/eeiu-reportedly-heading-back-to-nrg-after-furia-exit/"
+    "https://pley.gg/valorant/eeiu-reportedly-heading-back-to-nrg-after-furia-exit/",
+    "https://pley.gg/cs2/lisbon-forfeit-pushes-tyloo-out-of-asias-major-places/",
+    "https://pley.gg/cs2/lar-rifle-files-disappear-from-cs2-two-days-after-leaking/",
+    "https://pley.gg/cs2/mouz-sweep-vitality-to-take-bronze-and-keep-vrs-top-spot/",
+    "https://pley.gg/cs2/eternal-fire-come-back-from-0-2-to-beat-fnatic-in-barcelona/",
+    "https://pley.gg/cs2/molodoy-says-eye-operation-has-eased-his-mind-before-bucharest-final/"
   ],
   "title_hashes": [
-    "4d5268cc39063b56aeba224267861a82",
-    "60069f8fc6f36fc53cac8728ff62706c",
-    "27704df7cdfd088f8f5db48166a032df",
-    "c3895f2a5ad8ebdc7bb4d33c3fd7dbd7",
-    "0205f08a10c765afbb944496dd54eef3",
     "df730371cf7d6f868c2f3434562b39fb",
     "f24c3a4d99ba6f654aa60feca8766d1f",
     "2e8e80d16b86ac892adc40ba44e2cd36",
@@ -16001,7 +15996,12 @@
     "2df4bbab216454881dbc6d53950335a7",
     "fedd643a71f8ac4cced0c300a30ab654",
     "f2ab5fb218da8b84623f45579aa4ba11",
-    "3c3d5a1e3ce6047cf581694c18aa0ca5"
+    "3c3d5a1e3ce6047cf581694c18aa0ca5",
+    "3f9338e05f1a7a7674a94345eaeaa252",
+    "c60bb2857d8de43a31786f28ddb47542",
+    "1b0312a9677efba05b4fe6d9ffe0c7fd",
+    "674891eeaac8a23cf469bcc372f3c1a7",
+    "497c96b1f8fcc176ec21aa7319e3c84e"
   ],
   "transfers": {
     "pages": {
@@ -20944,6 +20944,26 @@
     {
       "t": "after agreement back benched canadian career club eeiu exit furia has heading his initiator july nrg off reportedly return took verbal where",
       "ts": 1793458062.266419
+    },
+    {
+      "t": "asia forfeit lisbon major out places pushes tyloo",
+      "ts": 1793458067.240647
+    },
+    {
+      "t": "after cs2 dataminers days disappear earlier files found friday lar leaking night removed rifle silent that two unreleased update",
+      "ts": 1793458070.8490264
+    },
+    {
+      "t": "0 2 2026 beat before bronze bucharest first invitations keep major masters mouz pgl place spot stay sweep take team third top vitality vrs",
+      "ts": 1793458074.3956392
+    },
+    {
+      "t": "0 2 5 back barcelona beat come episode eternal fire fnatic hands hopes leaves major other ranked result reverse stake sweep teams that won",
+      "ts": 1793458077.8289526
+    },
+    {
+      "t": "awper before bucharest eased eye facing final friends furia has him his means mind minor molodoy nemiga operation overthinking says stopped that two",
+      "ts": 1793458081.2584727
     }
   ]
 }
