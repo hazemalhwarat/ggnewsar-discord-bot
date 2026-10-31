@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZZlozeVNtd3U3NXJvUVNENUFnWWJvckRvYjJPOVk2U0s0NGgyeTF0TGtOS2tLdENxZzA5QmNBSWZVQWFNcUdOMUxVX0JzN25hU3l3RFcwMTNkVjVKMWFIZ2lNd3FiYTg2?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MTlk0cmphaGZTSzdVSVUzTHdIeDBFS2FSWjVBN19yNjBvUF85bVQzOHZHNlJ5MlNrRzV3MWp4Zk43a0dOQWNOZHVxaGZEYmNDd3pSLU1SdXhyU0NKR3V2bVZZVjdkSVBf?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2YzRE9wYVprNVB2VHVhSVdqZ3pCZDJEWm52N3JfZ3FKRzV5TVNqbTlscHRZRjRhT3hvUkFDaHBmR3d4elFwenhmdklNMTJYOTlOaXNHZ2c1ZjhKcXpaRjlqN24zYk5Kb2p4akRvRHg5dkxkTHlUTW1lZlZlV0RaTWtEQW1uOG5aS1pIOXBUYWJRMlczUllTZXhlXzF1Yk90c2tCSTBsSDJCNVFsTUprVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWZoSXI0WDZKcHE4TzhOVXJHU0ZVR2dCS0V3UVZrekEzU1dWV2EtbTV1NWgyZlNjeURRUVJRUU4zOVoxYW5UOTNQVGJHNnp0QUl4bTJtZ1ZqSC1KanlkUWYxRlFld3hvRGpud0EwdDZVVFdCaDBiOVU5U3V6VU9MQU1HbW5JUXdrTXhKVjBjYTg1eHlWbGhqb3NGZDdKNk1MWHc?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVVA3SmUzY01sQUpHZGkxRUhSQlE4Qzd3OVBIMU9SNG80eEEyTF8td2FFOF9qLURHN2ltb0hYWUZBaTA0THVmMHRBUWFSOE1LVkZDY2NKb0t4Y0h0MXB5YmZJQ0Vaa1BwdXNHN0pWU0NRc0k2WFBXVjVMbHQ2bW1qMVAweWo1aHdhWGxOSGIyZW9CMm8?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS0M0TmIyZUd0N05OMVppYUd0eFJGaXdwSnpxQWhiZTFnSHo2eU5KWDZlZDNSa1NsOW1lakp1RnJkR0l0Y2NDVDRBN3d6eGM4QTg2MWZzRE1BUGZkeHo5T0k0OUtPWTdvNFlyZk9neDVnWVVoYllQbFJ3Y0s0XzJMeUhXYVFtMmhjQXBmYUc0ZUdPbzdZc21vYlF0Sk1lam9pMllkNGt5ZEt0UEU?oc=5",
     "https://www.invenglobal.com/articles/27001/girls-frontline-2-concert-set-for-dec-20-to-celebrate-2nd-anniversary-of-global-service",
     "https://insider-gaming.com/nyt-strands-hints-and-answers-for-game-950-on-october-9/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/27973/zest-with-a-nothing-to-lose-mindset-our-performance-improved",
     "https://www.invenglobal.com/articles/27972/hanwha-life-esports-eliminates-g2-heads-to-2-2-decider-match",
     "https://www.invenglobal.com/articles/27971/hanwha-life-esports-takes-game-1-against-g2-behind-zeus-on-the-brink",
-    "https://www.vlr.gg/782275/fnatic-parts-ways-with-veqaj"
+    "https://www.vlr.gg/782275/fnatic-parts-ways-with-veqaj",
+    "https://www.vlr.gg/782222/gentle-mates-gc-reaches-finals-kr-blaze-lives-on",
+    "https://insider-gaming.com/star-fox-inspired-wild-blue-skies-is-out-now-on-switch/",
+    "https://insider-gaming.com/for-fun-tyler-interview-algs-split-2-2026/",
+    "https://gameriv.com/bungie-says-dont-buy-marathon-just-to-support-destiny-2/",
+    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-swiss-stage-day-7"
   ],
   "title_hashes": [
-    "d724e08c8b8ebdfbb1cde0cb0afc16b5",
-    "9b52fedf3d918c9ee0c1a7b4fccffbf4",
-    "508c75c8507a2ae5223dfd2faeb98122",
-    "8e02c49f994d6848f00e6b93ec8c007b",
-    "850d1d695ede7a8ff8904a779f7082ca",
     "7210449248c3ccd4c1f7053c4141394e",
     "850d1d695ede7a8ff8904a779f7082ca",
     "d6e30d7edca42b364abf18ece52dba3f",
@@ -16001,7 +15996,12 @@
     "ede3aee32110ecf4ebbbad1e5d37ab15",
     "4f86100f46896f33c900c34f3841792c",
     "3b2f35f9aa3731795d07a839df6efcb1",
-    "05661d24db97bd29b9fcb014e37f0021"
+    "05661d24db97bd29b9fcb014e37f0021",
+    "5305a84bcae1d1aa24948e6d0d1f8a7d",
+    "a945f6874b76c7d1b4ef49dc189188b1",
+    "da095bddf84213bedde05f6af2541e40",
+    "a945e3a16c038f5975bf2e1a097ea7fc",
+    "f754df622270854b13fa4b1cb8827482"
   ],
   "transfers": {
     "pages": {
@@ -21128,6 +21128,26 @@
     {
       "t": "continues fnatic its organization parts releases revamp roster veqaj ways",
       "ts": 1793413580.0537877
+    },
+    {
+      "t": "1 2 2026 blaze championship changers defeated finals game gentle gold krü lives lower mates mibr reach reaches rebellion shopify swept upper while",
+      "ts": 1793413585.3435168
+    },
+    {
+      "t": "appeared balor blue bring chuhai existing first fox games insi inspired joining labs nintendo now out post ps5 skies star switch versions wild xbox",
+      "ts": 1793413588.8902998
+    },
+    {
+      "t": "2 about algs can day dealing esports fun great how people playoffs post pressure prove speaking split start talks that they tilt tyler under want win",
+      "ts": 1793413592.5962029
+    },
+    {
+      "t": "2 about asking bungie buy buying clear deane destiny don fans franchise future has head isn josh just marathon message obligation out product says something studio support worried you",
+      "ts": 1793413596.0044773
+    },
+    {
+      "t": "2026 7 8217 best come completely crush day eliminate end esports europe fell first g2 hanwha have hopes life liquid løs outclassed results samurai seed series stage swiss team three where who worlds",
+      "ts": 1793413599.4429927
     }
   ]
 }
