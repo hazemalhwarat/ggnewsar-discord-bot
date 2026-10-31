@@ -1,18 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUcwS3NUZWNVNzZuVnl0YlY1Zm1YZFJIV3F1bTNZTWQ0SndEU1U3LVJFbm55bGtNcVJaU3N4djlieWdmbTVnbTR0bm10eFg3U0ctczlfYlYxYTc5RE9XZ0stX3lGZDc1a3c4VHdlZEIteHp1QWo5dWFMcTI2R3UyUHI0LTA?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb2ZtVnB0UzZqazllaTZfSjMtak1YQ1BXQkpJSHBUbGZ6NmFJVUtmQU9CWVpGU1QxVUVpaFBQb3RHMXZ4V0NSSl9XcERpTERFSDl6LVZUaF9Ga1Z0clVXUE45c3VaLTMwdDNiRktoT1VCOXNvX0lNc0F5RWNRTnVUR0V5UFpOZ044ZWZN?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakVfUTRBR3JZbHBiZ2Z2WngwZUhUbHdQMUg2ZWxmRWFsekthRTk2VVl5RUYzSVJLS25JUUFZdVJjWl9DMlBITm5nOVF2WklpV3NzZ1VxMGFDV3dJWi1CYmxkTkd2cnY0cFJ0bmVIdlpQa1pISkpubnVCTTJsejROeFF6NURBM3VKWGFmd3ZPaEJpeVU?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakxDSjhRd0ZBZXE4dVh1dWtqcHRyTnV2NHNkSUwyUWR0SHIxZE9IVlAtaXFXWEVkdFVGM2ZkR2k2YThYZk5vQTVnWkdtQU5RUV9ReS11VUdlZDJobW5sNnlNbGlsQVV3UXluZ2ltTFVGdUd2djBYalYtWExEZkZ4OXoySlJ3Wk1PYTIxRENpUnFKRWFKVEhZQmF5TWZKT1FOT0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93SHFMendPU181UnVFa3E2cXhndklXSVE1UWI2ay11Q2JXampjODVpVm1qMk5nNHFyTHFpVmFHNzFpeUJ3TGViSlN1MjRfdmpwWnZNaFM2U1U1a2NwOEdxOQ?oc=5",
-    "https://www.talkesport.com/news/esports/pmgo-2026-season-2-dates-teams-format-venue-where-to-watch-and-more/",
-    "https://www.talkesport.com/news/esports/sara-asks-for-pmgo-slots-for-india-japan-and-south-korea/",
-    "https://www.talkesport.com/mobile-gaming/bgmi/live-bmsd-2026-semi-finals-day-3-points-table-check-bmsd-overall-standings/",
-    "https://www.talkesport.com/news/microsofts-xbox-cloud-controller-cleared-us-regulatory-filing-before-cancellation-reports-emerged/",
-    "https://europeangaming.eu/portal/latest-news/2026/10/10/215733/eu-igaming-weekly-jumpman-rgd-informa-ice-sportradar-synergy/",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DUlZZTzdWOW1sSTgyRWRsQllDU1lVZGRUdWRkMUg4NTNqWFJnanVXRUhpQWNTcTBPbzZDZDdhS2hCWEtzNGlhNWh3WFhyMmZrM05faDEzeTgzejJyNnRMWkh4aGtCQ2hMMzkwWlVuTGs?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZQ3FVcTM1OEhiWExwMDRrZEw3VmxOcWRudTFJNkJoVkNLMmN5OXR2VTIxZ2VlYVcxUl9aRWZDSEkzNXk1VUNKTEx6THRLSG1RQVNScWl5Q0pPYUxQdzFyX0ZwRHVseVpL?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yZW1hYm9OTmxvcFdjX0hwbjRYUERKQUFaTXFNUmVILXhXTlV0X2UwQUxnbWRJc2lkb2RpQnVWWGtsdXZ5RjU1UjBZMEl5Ujk3UmhOSVpOYXlpZWp2VEhLSzFYdzJLY0Iz?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE50bFFYb2FBaGRjVDRQTjl2dE80Z3dscWJFazRJckNVTFdlenQ4N1o4SjZ3cjBFek1kWmNpUUFqXzAzVTZJZ2FzZ3A1M1NXYndnOEw1QXBkWXRMQ2FDc24tNTNrMW01VjBwQUoydlh1cmN2QQ?oc=5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Sd2dtajRjRXM3WGpJWlJkLU1kRWNRTEdhVjdXUHp5blVVbXFFNU41b1NKakJMcDNXOHhHRDF0Wml1aF9NTlBPRG1EaFhfVkxueVlYYU5pbzRkZzZDVGVmcGxn?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdVZyeFIyamNmZnptOHJQdDlGcFh2djkyOTZQeFZoc01CZS1zN1ZUSG9LRmFUT0hoNU5JLWtEUDZrUmFVa0NITmpOSFFYOFdxNy0xWGRuYllvSjdxT1VMaDkzQTNIME9NZXpBRE5LeU9fSmdTNW1wR0pyaExWNERtb1JB?oc=5",
@@ -7999,22 +7986,22 @@
     "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-rbs-going-into-week-8/2026/10/30/",
     "https://thegamehaus.com/college-basketball/college-basketball-preseason-all-mwc-teams/2026/10/30/",
     "https://thegamehaus.com/college-basketball/college-basketball-preseason-all-c-usa-teams/2026/10/30/",
-    "https://insider-gaming.com/final-fantasy-14-evercold-release-date/"
+    "https://insider-gaming.com/final-fantasy-14-evercold-release-date/",
+    "https://insider-gaming.com/silver-palace-release-date/",
+    "https://insider-gaming.com/phantom-blade-zero-trophy-achievement-guide/",
+    "https://estnn.com/valorant-agents-list-release-dates/",
+    "https://estnn.com/phasmophobia-ghost-types-and-evidence/",
+    "https://www.nerfplz.com/2026/10/the-harrowing-in-lol-10-facts-about.html",
+    "https://www.hotspawn.com/dota2/news/who-are-the-greatest-dota-players-of-all-time",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zSzk5aE9HVDNEOFNpU1lRdFViUGlGbVFUTlV0dW1MWE8tUjdhRUc5WGJLT0RQUkFJaTk1dE16MHVaaWVNLTVQQTlfLTU3WmJjTTlWRVNKYXhiQzV2bXowN1R0OExWM1pCaDQ0aW1raHl0bDBxd1Njb3hPYTM?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91NHRnQjlFRFJJQTFKM3J5NkRYS2RGZHVtNlBVaGZ4c2VqMUdjV0lGdW9BZmw1a2ZyclpPVkRGN0gwQVhiYWNocF8zWmYtTWxWN2V0T1pB?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGJsN0R6RnVITTJTa2JULV92TUtsMC1WeXZHalNjZlFWUnpxWnp2QWo0MU96NkN4MFpUZXpvRmNWNlVSeEFZeG10OFFpSDRGTW1ZdDFIRG1sUkV3azg2dDNWOTB6R292SHF3Y3Fyek03NWs4cWk5UWFyZVYxVHk3eTRDcV8?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVDV0a0FGdmk1ZzNRODNFbmNzdm9ZSno1ZVZqU242Uy1VRFUwaUpfU0N6eEVSeGw1TldkaHdFYjRxajBEOGdpbGk5S2JiR1VXLTdiWWRONENRRmtwMmhHWW1GVzJyTmxGWGxCbFhjbDk5OHJyRTlzQXZpREY3UlU?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGdGNllpR2h2T0hTN0wzX09hY0d4MzRWendSckFNUDFYSE1yU1Y5Q2Fyd0ZsT3Mydk02QzlTblZja0ZDWXRYQjYydm4wTW1INDZGUEhOTFJRQTFwSnlJMVcwQWZTbThIOEc0LXJ1dVU5SEcyUUNUQUpNU183UjBsRkV4enA3SHZVYkphNUhhODdnT3doUjl6b2x1OGlpWW1aQXFhdUlvWW9Ea1FjRWdB?oc=5",
+    "https://www.talkesport.com/news/apex-legends-season-31-release-date-time/",
+    "https://www.talkesport.com/news/deadlock-halloween-2026-update/"
   ],
   "title_hashes": [
-    "427d7e6cb63e589404bbd17fda319ae8",
-    "84a643dfd32e68209f4c7d0848db8b83",
-    "39a480b126e3f4aaba5a265e08086ad0",
-    "40ead64ee280685a321540020df3d16f",
-    "17c8b552ed6d49252aa4c81a5101eda5",
-    "0aee90e08825bef724a8cb4755ec5f39",
-    "3f3c18ded90c96dddf29325708a95cf8",
-    "48cb45dbbb451e241211e3fb0efc7da1",
-    "003bcaa9de8a443da301d715c70e9e4e",
-    "2f2376a4c3d8cd0cde56e8c963cd9fb9",
-    "5ae254c8a8afb84f326ad6923d7f15b1",
-    "c3dc633f4c355c58dd28f1f3be88c3ed",
-    "a4f6dabcd4cb1e69da21cb6f2ad525f5",
     "7d0b2a910cb528c66b952aea8a1c65e4",
     "81bc3446918f3fb2e7b8d62c5e15e5f2",
     "b217d22e7cfda41225905c59aaa4ecd7",
@@ -16001,7 +15988,20 @@
     "30a95fa33a28374cb28b0e96c6910c0b",
     "31b464428529239d521925c60839834f",
     "9d11918ab2232f2f797fc9a7148bfcac",
-    "e3889b76852cd9f065ee460434488b2f"
+    "e3889b76852cd9f065ee460434488b2f",
+    "5939e6ab2764c819394769aa83c27e9b",
+    "7d356d97c81d45d4b65682524d3db0c3",
+    "23d0e63ef25f6d31309877e650ea390b",
+    "a6718dbf8b8e1d4bbf2158b3f7f017f9",
+    "58a39c2b35d8a2477e1c7ed2b239f08d",
+    "93116f17cdf83eaef2aafa5ff51e3340",
+    "31b3f669dc271c10543e823bef5ec9e1",
+    "971ea87937eecc0eb07a8e69051b4d50",
+    "4686e9fa503cbeac3f8fbc29610f3444",
+    "7c66920a3fa09974c247210c4292c04e",
+    "98d75d37f7674cc7d0292aa807a6b600",
+    "a1e3b6608a5a0ff8b6a1776e479034fd",
+    "e8c3bdc230e7ee6824fddc214b1d2faf"
   ],
   "transfers": {
     "pages": {
@@ -20904,6 +20904,26 @@
     {
       "t": "14 2027 23 about access appeare collector date delayed early edition evercold fantasy february final learn orders post pre release set",
       "ts": 1793458024.4305096
+    },
+    {
+      "t": "38 achievement all amp blade collectibles complete guide missables phantom post tips trophies trophy unlock walkthrough zero",
+      "ts": 1793458029.3698404
+    },
+    {
+      "t": "30 all each every evidence ghost ghosts how key many one pair phasmophobia pieces plus share table tell their three types",
+      "ts": 1793458032.9630353
+    },
+    {
+      "t": "10 about actually ashore calendar come dead ends facts halloween harrowing has including lol lore night own runeterra says sunrise ten things where why",
+      "ts": 1793458036.4452877
+    },
+    {
+      "t": "2 accomplish all but competitive dota esports feats gaming generational greatest hard harder has however managed most often one players reaching scenes some staying that there time top who",
+      "ts": 1793458039.9092996
+    },
+    {
+      "t": "2026 30 adds around brings candies changes corner deadlock decorates event gameplay getting halloween has hideout into its just live moba october out shipped shooter spirit spooky that update valve went",
+      "ts": 1793458043.436724
     }
   ]
 }
