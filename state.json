@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzNG14Um1FSmNydVViaS05c3FQdnE3TlhSbkNhUXdGcXNHLXBXZGJsWHN1ZklvWjgxVUR3VEltRG9XTHVJWksta2hnNA?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UMjZtWFR5c0lTNGpqTUZXTjdFMjBBMHBlN0ROT2w1ckdQb0Jva1BYRDlkRFJlaERDY0hGUVRIQ2NCNGN0YXRNQnoyMEp5TFltd1o0?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQQVFyUjlfU1FEQVdDd2JBX0cweDFJWUpjejNhMTdPa0xPOXJHWDZPOTU1TVJlSnRWejYyaUZRMEQ3NjZpakR5bVJILTY?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40X1hCUEgzbEp2ZEpuUVJudXQ5a2laaEZUZ1BZTktkR29lUXZRR2dudm12VFFzZFZib2JZNXgwWEdTUFRXVzlLR0xrYmZCcFBJSXp3?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kUUlFbVgzS2VHQ1lRNFJOUmtWQlBxUzlWc0RQaWxNM0hVRVhvZno1d3RCZzc1OHA0aDl3bHZnTzN3c1haTXpiLThadEE?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sSENyUjV0WjQ5YjFDOGpDbWVvRUh0YVlLa0RQaHpHZHRBNXQyMjVIcDFHakFSZk14dy1ITURNcEZ1eVg3andBd2M2Qlc?oc=5",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42OUFKd1dEZmozZ25XcUpERjczcVZxXzlaWG5SNmJUSjQ4UXM2aE9JMDlxaWE2VllRUVIzTHY5WWdfalhXU1dVcjEzQlVMZw?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16ZjFZNFVGMGs4V182WFA4ZmxVTVQ0VVVTaWM2bXVfMXFUYnh3WlROUUthNzM5ZTF1ZWFpWDRGb2dhYmt0aXBzTEZtSFo?oc=5",
@@ -7999,14 +7994,14 @@
     "https://pley.gg/cs2/mouz-sweep-vitality-to-take-bronze-and-keep-vrs-top-spot/",
     "https://pley.gg/cs2/eternal-fire-come-back-from-0-2-to-beat-fnatic-in-barcelona/",
     "https://pley.gg/cs2/molodoy-says-eye-operation-has-eased-his-mind-before-bucharest-final/",
-    "https://pley.gg/valorant/boaster-set-to-join-gentle-mates-sheep-esports-reports/"
+    "https://pley.gg/valorant/boaster-set-to-join-gentle-mates-sheep-esports-reports/",
+    "https://www.hltv.org/news/45872/yekindar-finding-strength-to-overcome-all-the-doubts-was-something-very-important-for-me",
+    "https://www.hltv.org/news/45871/yekindar-wins-career-first-mvp-at-pgl-masters",
+    "https://www.hltv.org/news/45870/furia-secure-second-consecutive-trophy-with-pgl-masters-bucharest-victory",
+    "https://www.hltv.org/news/45869/mouz-claim-third-place-in-romania-over-vitality",
+    "https://www.hltv.org/news/45868/pgl-masters-bucharest-grand-final-as-it-happened"
   ],
   "title_hashes": [
-    "df730371cf7d6f868c2f3434562b39fb",
-    "f24c3a4d99ba6f654aa60feca8766d1f",
-    "2e8e80d16b86ac892adc40ba44e2cd36",
-    "7e232bc0e5b03648097420a637f4fa03",
-    "0fe2c7dc2c2fad2194235fd078d19d62",
     "06fecfca8245ca3f46edf006604a778e",
     "75b9148b2ea0142f041527bda4883f94",
     "d6cfcf60ed85c8f73520480e1bfe9755",
@@ -16001,7 +15996,12 @@
     "c60bb2857d8de43a31786f28ddb47542",
     "1b0312a9677efba05b4fe6d9ffe0c7fd",
     "674891eeaac8a23cf469bcc372f3c1a7",
-    "497c96b1f8fcc176ec21aa7319e3c84e"
+    "497c96b1f8fcc176ec21aa7319e3c84e",
+    "063c24bcc2033727c577a19a5be01126",
+    "056797434f6133cf74fec1bb13989255",
+    "afe92de52a9e6adcc77d30b22b3b4993",
+    "402f9643c50f5be409d9db065a7c0744",
+    "2e7da0849250b0e95f5b2895875bf39a"
   ],
   "transfers": {
     "pages": {
@@ -20710,82 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "1 1st 2 2026 31 4 5 advances alienware allen bracket brazilian center championship credit dark defeated defeats event held horse kst lcs liquid lol los match october round seed team texas union world",
-      "ts": 1793402173.8393917
-    },
-    {
-      "t": "acclaim adventure beautiful becomes changing desolate first gained harsher healing impression its landscape midrath more new players soulframe stay update wanted which world",
-      "ts": 1793402177.3654456
-    },
-    {
-      "t": "bee confirmed creator doom dropped finds former funding games has have its john leads lost microsoft new publisher pulled quake romero shooter signed ten that unannounced when xbox",
-      "ts": 1793402180.92458
-    },
-    {
-      "t": "26 30 31st after app apple commission cuts fair following ftc investigation its lower october probe standard store taiwan trade will",
-      "ts": 1793402184.4839919
-    },
-    {
-      "t": "13th 2026 accordi ahead amazon bank brings creative custom david director film fortnite has heist how its launched leitch mgm mode november release rob studios theatrical upcoming",
-      "ts": 1793402187.989862
-    },
-    {
-      "t": "coach gamerlegion igling imd next plans polish revealed season shalfey snax team that there trial",
-      "ts": 1793402192.9336278
-    },
-    {
-      "t": "5 87 9 after ago chance closer eternal fire having inch international less major now qualification ranked shock squad stake than trophy week",
-      "ts": 1793402196.4555538
-    },
-    {
-      "t": "allocation altman amid arguing calls cloud constraints dram low maximize post ram sam scarce should supply terrible use utilization",
-      "ts": 1793402200.0144544
-    },
-    {
-      "t": "5 about ahead aonuma developers eiji ideas its legend nervous november ocarina post praising release remake says time while younger zelda",
-      "ts": 1793402203.4563365
-    },
-    {
-      "t": "2026 base boosts brainrot codes each fill free game get hands head inside like monthly must october rarest redeem rewards steal these this tokens trade use you your",
-      "ts": 1793402206.986932
-    },
-    {
-      "t": "2025 2026 all appeared avenue berry codes first gaming give guide insider november october post this you",
-      "ts": 1793402211.913655
-    },
-    {
-      "t": "2026 appeared basketball champions codes coins first free gaming get hands insider like monthly nba october post redeem rewards these use your",
-      "ts": 1793402215.383801
-    },
-    {
-      "t": "2026 appeared cash codes emergency first free gaming get hamburg hands including insider more much october plenty post rewards roblox these use your",
-      "ts": 1793402219.004885
-    },
-    {
-      "t": "00 12 2 31 5 7 both bucharest cet final furia grand map masters meet nemiga next october pgl preview records route series start time what",
-      "ts": 1793402222.4519515
-    },
-    {
-      "t": "2 32 cutoff decides hltv how invites major november pgl places region says singapore split stage vrs what works",
-      "ts": 1793402225.9951835
-    },
-    {
-      "t": "2 3 action continues day dota eliminate elimination high interesting last liquid matches matchups octane one pari parivision playoffs provide saw some spirit team there throughout universe very",
-      "ts": 1793402230.9281642
-    },
-    {
-      "t": "369 after against becoming bilibili break cinderella clearly down dropping esports gaming hanwha helped him his how life lot more opener point qualify roll see start story take tes things this top went worl you",
-      "ts": 1793402234.417805
-    },
-    {
-      "t": "2027 boaster emea esports gentle join mates nbsp set sheep sources valorant",
-      "ts": 1793402237.8630018
-    },
-    {
-      "t": "2027 americas eeiu esports join nbsp nrg season set sheep sources vct",
-      "ts": 1793402241.5018177
-    },
-    {
       "t": "0 2 2026 31 4 advance allen always been blg center championship credit defeated esports event facing fin g2 gumayusi hanwha has held kst life lol october round stage swiss texas this tough union usa world",
       "ts": 1793413565.9491453
     },
@@ -20964,6 +20888,26 @@
     {
       "t": "awper before bucharest eased eye facing final friends furia has him his means mind minor molodoy nemiga operation overthinking says stopped that two",
       "ts": 1793458081.2584727
+    },
+    {
+      "t": "after all career claiming doubts finding first his important overcome reflects resurgence something strength very yekindar",
+      "ts": 1793472530.9611151
+    },
+    {
+      "t": "career first has him his life masters medal mvp pgl tournament wins yekindar yielded",
+      "ts": 1793472534.5485423
+    },
+    {
+      "t": "1 56 bucharest consecutive furia his led masters pgl second secure team trophy victory way yekindar",
+      "ts": 1793472538.203883
+    },
+    {
+      "t": "2 away came claim convincing ended mouz over place romania second stint third vitality whimper",
+      "ts": 1793472541.7045279
+    },
+    {
+      "t": "bucharest clash final grand happened happenings keep masters pgl romania trophy",
+      "ts": 1793472545.351135
     }
   ]
 }
