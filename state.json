@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjFyV09ETl9GQm45Q2c2OGZ0Vjlqcl8xZUxDbHB3OFZUV0hWVWNIQ1FsWkc5S2dYYTNwY2pxSFZNX3MwYTlSS2M5OEVCdzBidUlWc0tORV9HTjlWVkVaRjVnTXNna3FHSkRlSjBWQTZndFl0MS1wNHBDS3QtVU9LM1cyX2pBZXh6aUFvd2p3?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNHRnWkI0YW50d1ZDZjNCLWRQdjF5NFMyMVhEeGxZWGJMZXVzT2ZxQjQ1MkVmRV9HVi0xZWlfYmZEQ3ROV2N1X05kUTJGNm9MLXdxV2pySk9tdktSTmFBdHItQUYyYzhzTEtZU29mdVRKZmtlamFjbkN5MWcwT3JBTVdOU1ItN3RlZkJhWTRhRklRTGpzY01BeGVUQXZ5UW5fT0RRVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUpTajlHMl9qT2RiXzN4S054eWpTb3BSY3Z0Q25FYjBzOEVNTThHLWd4a09rZVZzS2hrWE1HcjNaTjJybU1jcmlCb0tZdUpIS25TbDVOeWlTUnBTcTBrX0dKb2xxeVdHb1J0M1JpNENxSWFIYkpBZzdCNXVlM0dpcUV0WThWQUVSd1JqVl9FSHN2TjlMNGc?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmhFdlpBVTdWampaM3BEREg4dkFmZ25DYmF0ZnI2S3BKQlBiZ0dyNHhwa3RJWk53QTZCbUk0NzZSX0tlZl9xbmhneVhLbXVqbjAxOXQ1cEJSQm1oRU5rdXd3VzFZal9ZdzZvMi15VVdiUmRfVHRic0xKQTBzSE5xb2lXeWlLRDRveGFXWkxBaG1kMGpJalRxdDdGZlg1MlRtVFhHU3ducEdSV28?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0tILUpBSWIxaGxfQXNYOUY0OHRqak1vcHpfSXY5Ymhxd3BOQVE4aWRIRlN4b3hQbzR0ZHZzNXA2UXl5eUtwUV9XWWRJb2dCZmtISDZJZTR6M0M2b2lhWE9vVl9MZXNfckhxZTVKUldLZEJobnVLVTN1ckR2Q1poT1E5VXpJRFR1WEw0MzZSdVVjeFdXSjR3bF930gGfAUFVX3lxTE9lTU9XUDdteWRzX1pvYmJkWTIwQzNDZWNkeGJNTVRiS3cwcXRQUGl1cGZjakdJSjZwcEJVNjNhSXpYc1ozUjNTNDlJZG1mM2djLV9KN3I4Z3EzMGtxcVV3ZW1rdHBtSmRkSUNBRXlRcW11eHpnQ28zYlRhYWVRZDVtQzMwcGlBU3FDVldTVnNtbUNFMTgta194Ykstd1dVQQ?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHJDbG9LOWpVWWo4NW5UQ3ZjbmJWbXZVaUM4TnBTQW1vYkduRnFoeWNkQ3VmVDVabFMtNnlPZGVoWExlWUtTSkJTeE1mdmlLQjlrclAySGloRE95ekdYTzM5ck5ESFhsNWVQQnUzMU5zeGhoQXY4NkRlcU4zcTNMVTFSWW93ekRCekpIU08wSzdTZzVqTGNuYmVKQ3VzMENfTTdFcjlqZjNBVW5RQVUtWdIBtgFBVV95cUxPeXh0cV9xaWhVWGVyQ0RvWVNCdEd1MXRVV1ZZSU9zQnVRYmYzV1hGbTdYWDRlczNZWjlURjNLcWdHQU5QdjZRLVVvTzdRYktaS3BPN3VnYzQ2bE1tTWJZNjZsdG9MX2hZZHRkb3lpeE5lemtFMF9tdGlVUkY1S0Rhei1TX0VOUEtQMWt2el84NmlOeWc4Qm9zTUdXM1NzaEM3d3F6dEJNYUtJeWs1bVFUc3ZPdHFfQQ?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVI4WTJsU0czWFZxekZFQTI3SnpydmZtS0ROYnVCNUJSaWx5SzM2bWl1OS1FdGRBdzd6bVJiZWhuZ0JPdnl0QS1ZRlZwdDhyQnhicVl1ak8wREZaaEQ0bGg4aVRXUExzNGJtdzBiS3lveVBEYVpzLXFZS081NEdfTTVNUU5mX2ZSdURKOVMyVUY0R3ZuTk9NZUdBV0VvQQ?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZm5sdzhiZzVSVF9hclZwTHE0aW5MaVRUT3FLdTE5Vm52NmlfZ0htWXJjX3cwbGNZRVNOUllPanZyemtqUC1Wclc5Rnd4djh0eVkzOFpZVEhEMWxsNHVPOHZpcXhGR05rTzh6LXBOMHRIQ0dVTXVSS1docjI0Mk1rajRIZG0zQXZaQnNXMC1Sa3VjbEpIVHNySDJJZU12MUU?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1BpMmtKeXZHaDJBUXFuVHNzakFyNkxwNDM1ZFpBQTNjMml5NlA1WW9HMS15VG1ySzI0RThpZGxrbU5hRjJ5dUtvWFpSaFhPSktYRUJDYmZJaUI5Qmp4SmNtdkNSX1JGY0hXdkJqbF9KZTlqM1V0ZHNUSWN3VWdNY3k1TzhfYzFoaEtLeDdvR2F5NmwyQXpsVXNrZlQwRGZ6R3piRmd5Nm96OFRmdVBNekNWUQ?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNldJRER0bmN0S1lER3c3V2wyVXM3ck43SmVNMGU2blZwNzdOTGpwZXJZUmZEaU5vVkxpUzVRNUgzaXRORVkyOEhOckIyLW9iNUFyQnF5Q0taMWx3S25aUVBjRWhXcFBQM1VJR2xDa1gyQmFIcW9GZ3VWVWpFcFdRTkJBbFdnTnhrU2x1em1lMzRzTkVWb1lTZUVSREFJdURw?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLW9lZ3RBQTc4ejF6SW02a3hqWTEyTkx4NzlnX2t0RHRUN2k0QmdabnJLMEpndDI4U0dtNE1iQVdLVnl3UXY4Z21VRVhEWlVfR1hLOXkycG1xRzFLaW53ZFdGZTZrdHVRMjVvSkFPWURBbHpzdjNsdDBjYUVVamlFc2Y0TlQ2dWFJWnl3?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbUt2V1dfZzg0RnlxRXZma2lZZDFMV1dJSlRLRy1WNGtfZE5ZcVJxeFFWSjk4ZU9kUG5aamhWbkVBQUtIS3NZSHh1b2ZkREFDRTF3OWhsbnBLa1ZwcjV3RW8yYWlPNFdGVVlFT0ZGSWVUX1p4NzlLUGZFcVBRZi1mLTJhckdEMFg1R1djamc3S2pMZXQ1X29ob2NNQjJ4R0lVenNIb0hfR2czQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbUt2V1dfZzg0RnlxRXZma2lZZDFMV1dJSlRLRy1WNGtfZE5ZcVJxeFFWSjk4ZU9kUG5aamhWbkVBQUtIS3NZSHh1b2ZkREFDRTF3OWhsbnBLa1ZwcjV3RW8yYWlPNFdGVVlFT0ZGSWVUX1p4NzlLUGZFcVBRZi1mLTJhckdEMFg1R1djamc3S2pMZXQ1X29ob2NNQjJ4R0lVenNIb0hfR2czQQ?oc=5",
+    "https://www.invenglobal.com/articles/27983/dk-vs-blg-matchup-and-more-quarterfinal-draw-results",
+    "https://www.invenglobal.com/articles/27982/msi-champion-hanwha-life-fails-to-reach-quarterfinals",
+    "https://www.invenglobal.com/articles/27981/knights-orianna-dominates-teamfights-blg-takes-1-0-lead",
+    "https://insider-gaming.com/kcorp-lyon-blg-secure-lol-worlds-knockouts/",
+    "https://gameriv.com/skyblivion-team-faces-lawsuit-threat-from-former-volunteer-over-code-dispute/"
   ],
   "title_hashes": [
-    "b4b79b94cad96ba0f0120bfa297d2028",
-    "40f8ce896d8b4239a5c47ed735fd64a9",
-    "1397faa15c5181ea79707fc0210a5dd6",
-    "7adbb934420b742411bc4eb292dce8c6",
-    "2a156e9789fbe2842d4c4a83f0fe81ed",
     "83edcf303db6d42e9b4657ab7fbd349c",
     "93a378c485462cf2eb60513aa3648f52",
     "a8ba897b818776dd75297f8377f91fcc",
@@ -16001,7 +15996,12 @@
     "33171db1270cfbad3911bac34a090c04",
     "93a378c485462cf2eb60513aa3648f52",
     "f2ab5fb218da8b84623f45579aa4ba11",
-    "d71a202ab7f681779aa3fc19f19d97ed"
+    "d71a202ab7f681779aa3fc19f19d97ed",
+    "ab721e72ccd3aaa5fdf064eeb5dfc666",
+    "c876f43a4b08899fc13feb377c2c313e",
+    "b2b866650ce52799e3faed8614695ba7",
+    "aac19ace33b441d2906ef03a1050ad69",
+    "558ed99e4d87b11f77d0a6d9631989c8"
   ],
   "transfers": {
     "pages": {
@@ -20928,6 +20928,26 @@
     {
       "t": "2027 22 all counts deadline event fifth invites missed one open out pgl places qualifier schengen september set tier visa vrs withdrawal without",
       "ts": 1793484447.498641
+    },
+    {
+      "t": "1 2026 allen blg center championship concluded credit draw event held kst lol matches matchup more november officially quarterfinal results stage swiss texas union world worlds",
+      "ts": 1793495317.5807788
+    },
+    {
+      "t": "0 2 2026 against been blg champion defeat eliminated esports fails hanwha has life line msi quarterfinals reach spot stage suffered swiss",
+      "ts": 1793495321.0556726
+    },
+    {
+      "t": "0 1 2026 allen blg center championship credit dominates event final game held knight kst lead lol match november orianna stage swiss takes teamfights texas too union usa world worlds",
+      "ts": 1793495324.7705662
+    },
+    {
+      "t": "2026 appe blg came day elimination final heated kcorp knockouts lol lyon massive matches out post rivarlies secure spots top who worlds",
+      "ts": 1793495328.3201554
+    },
+    {
+      "t": "according action after code continued contributed developers dispute even faces fan former has lawsuit legal made oblivion over remake remove says skyblivion team they threat threatened threats volunteer",
+      "ts": 1793495331.8166199
     }
   ]
 }
