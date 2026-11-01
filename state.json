@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wQUR5eG9DbExjTFZ4NVE1NG5IX285Q1UxTG53UTdaSVlRcUV6UW5udkkxclEyMFBSMkUxckRRY0dDQUtWYWtsVlVQeGlheUhCbGl5SUpnQlhBaG1FazA1dTltT2NyYXdSbnFFQUhPdw?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeTdjRWJOVG02ai1lTG9XUTMxWlprUDBwbkpLOTY2NVRxQ1NkRndoSmRMRTIzN3JJeFVYLWU0Y21fUTUtM2lJT3hUSHN4RERzUWliZXMteDNyWHVmZVI5Q0NyZTdIeXVFVHBCYXBNbWpVNllyM2dKNl8zX2VpZi1faEY1Mk13M0ZfeVdpWjZVYzlPSG5BeEdKc18yOA?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zNC12YUZ0Ul9VZ0JrdGVxYjFNRGVfd3Q5UGFJQ1VheWkxaGVxQWFCdGphZXJpRGhfdV9iRHZSNFp6ei1nVUtTYUlCNkdSS2FhcEFfT3VFOEYzb0JmbEVQVEY1Vk4tdzdULW5IZVNpeTd6cGZ6MVk2N1JzWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMDZlM1pRUGtrZGkzWml5X01GRzdKWk45WXpDWkpuakNlV1FqSTVzT0JEb1pBTElkd0lPMGhBU2xHRU1jQ2F0Q0dmWFVoTkxyeFNELXZ5Z1ZGTlRrRXgyN0I1TDY2WC02Tm9OdDdiRzI1VWZFSlEwUEdoYnB1c0RxWGozSng1WkhjN3pqQlByT1V4VW9acmd1YURzOWNvbHpRMGdWc1MwTjJCV3NvQm5HbzNHd005dWM?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEluWVFNcW15TEZSMW9LZnV2RHZJU1Y0STlHNzZVOEdwdG4xcThJZXJUU19DRXJ1b2RYR2lyYWNCQVVxNWRJQ3FSdGRYMWVKdGtUMzU2ZVR5U0lqcTNfVFJaNXE4dnF2Q2lqZUN6UEh0RmVwQkRhYmt0X3hGLWFHZVBKMzdXT29fcUhFLVlaU1NNS2R3MXZKYUxuU25leXc3N256SXZrV1Awc3M?oc=5",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNVZOakthWEx6ZkNSV3AxMEY4cmswWWF5Z2MxdG9JR1VSMzB1bHNNWHRHRlljMEZGelppcVZweUd5SjJYSHQ2M2ItVGJnZzUyRVpDS1pSZmR2VWhYMkFwRVdVcGZEYmJCTGJQWk5SaS1SOXktN0kyWUl3U3l3a3dVSTk2bnd3UDcyTDVYN3VyakE2cjhkY05ITjlxbHc0Um9ENTQwaFNfdjBGa2xFS2I4Rl9FNlAzeXRNTzR2dTJPdks3d3ZFQVZvSUFVSjNRZzZEcDdZ?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZFRGLUc0R1VoS05jNmtPb1M3U0liOE53a01FYU1JdXAyMTNWSlFlUmhRWmdnZjFYUWliU3dsR1NTVVdKM3RIRVA4X0NIYWtkNzhwSGFnT1JyUXpXU25VYlh4Vl9CMXItOTNyR2lKVWFmaFRqUWNBZVF1Tjg3YjlpWkxzNUVackVPQlp1Q3d30gGTAUFVX3lxTE5SSnEyUG5jTEYwcjBJVHFMNjBIZDZ6TnlQTlNCVVU0c3J2QWtFT2RyYWU0TkxreFkyc2lqOTVQakt4Ui1TbVdJLVhFYjNRREJxakxXUnZtV3BNRVhKdzN5cVVRX0x0U2hrWnJlN3Fzd3VFcDhiTk5HdFVDc2Z2S2dfb3Bobk5Za0I3QTZaNWJfQlJfdw?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVU9ETDRIRUV0NXZ1TVB3cFdBaU5XYk94MG1ISzFrcE4wQlA0amZlMUpscVpyRFRDWnpXQ0tJTzF2TUVZV0p6WXVoRFpSYTNmVnM0UHpRLWl4VTBwWnJUR28ydldNQk9ISG5kcXRDQXJEdFEwTFVXV2M1X1M4TEFSM05kdFNGcENWU2NuRHFUa3hpWDVBWlplYUJFRGXSAZ8BQVVfeXFMTS1MeEh1NG8wSTZEYUJDU29SZnp2N0RVYkptaFlQanQyUTdtYTJsaXR3TUZSMGw2WFlpUWN3RUtyRGZQb25iWUdjcDZhd285aU54T0k0WUtvbmNEWjVaV3h0N1poN2h5MlFia3NIOHdueTVrVnh4MXJxdWJGaG14ajlGcDdRdEJ6Z280RWNERTRHdVlCQWpRelMzOEI0Qmlz?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaU5NcUpVYzB0RGZrVGpmX0xTUHVZUXVwM3E3UTV2T3BMUUFzUm53MHpIRVJKSFkwZXVHQ2FaLUNLbktPY2MxaVppMW1uOGRZWWxlNUNuWHNYYUlORUVfWDRnWjRNRTgyNlNZRklDVmQ3V0tYUVBBZ0x6bnVTbGxDNnRYRXdvNG1aNVBZRjZpdG52LUZoZEE?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnJxWFpyakFjckxDOUwxM0xRaTZsYjY2bDBQaDVieXZVRHQxeGVNWTZwcHZWYTZ6N2YtaTlUdkFxVWlZZXh2TElLQXg1bnZJRzBWa21WUmVkSnpwSVZUbVdycmVuTTlVVWNuMUIyS3dBek9OZlVDMVNESnZiLWxya3Fqc0VZQ0xDR1ctamNCNUwwNGFBUk1rWF93?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hZ1JrY0pDeVA5WTRPS21zVll0VTZYLXV2NkdXSFZGTlhFNFJmYVhSQkJ3Y1JHRllMVklqWEY2akowd1FxM3dET25LTVJJdC1UcUprMkRDT2xObkJwUDhHSzhqUkloNVhLNjItMmNMYnJwRWpucl9n?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjNPS2NvMnJsbjRFTV9XRU9aWlVvYjBsS1Zma1FsQnctZ1BpRGF6MEJqRnd6UEpjcnJKZ3NQV1NGMTl4blBkV0JxSDliTGZTdUZndTZ0YlQ2ZVBoYWRBbXJEXzI3VzFhNzZjZF9lVndxb1RpMXl1T2M3bHZGR1F1aGdR?oc=5"
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjNPS2NvMnJsbjRFTV9XRU9aWlVvYjBsS1Zma1FsQnctZ1BpRGF6MEJqRnd6UEpjcnJKZ3NQV1NGMTl4blBkV0JxSDliTGZTdUZndTZ0YlQ2ZVBoYWRBbXJEXzI3VzFhNzZjZF9lVndxb1RpMXl1T2M3bHZGR1F1aGdR?oc=5",
+    "https://www.hltv.org/news/45873/m0nesy-maybe-sometimes-kyousuke-overthinks-and-he-thinks-that-hes-forced-to-say-something-to-always-do-something",
+    "https://estnn.com/worlds-2026-quarterfinals-schedule-matchups/",
+    "https://estnn.com/furia-pgl-masters-bucharest-champions-from-1-2/",
+    "https://insider-gaming.com/dead-by-daylight-peanut-behaviour-interactive/",
+    "https://insider-gaming.com/gta-6-ultimate-edition-is-it-worth-paying-more/"
   ],
   "title_hashes": [
-    "be7461baf2e4a837d3362fb8d1f0028e",
-    "73d3270a3867737106a9ce9c08b80073",
-    "9066e869c07f59ad3eaf3670741af3c2",
-    "7e4715549d36de876f0ab6f0a562a9f6",
-    "d672bdbc34474d55e0747e9d3fd5142e",
     "1335263e14ad21e9833a959f6494fccc",
     "46be43c7cfefa099cdaaae37d8338ce7",
     "3a988639a270727f98b2f8a78551c1c6",
@@ -16001,7 +15996,12 @@
     "f11cd88d1b14c9d493ba08828fb5bc0e",
     "a5b4a89d0b56c6b85e1946ea7d8bb7ef",
     "292f54b5411d6b629dca40b77ae87acd",
-    "6498eb08fa89b7edd4c4f38aa16e0773"
+    "6498eb08fa89b7edd4c4f38aa16e0773",
+    "17967e8ea75d2d217dc9f56b7a58e872",
+    "def8cf03e6a0304f599b3e853f3995ab",
+    "4c1987d89c987e670f76b9aa389697e3",
+    "9983b9a5d1b42e4a43421154f124715a",
+    "37ba1d5033ee4f7ff22b040bb74bdfa7"
   ],
   "transfers": {
     "pages": {
@@ -20710,42 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "1 2026 allen blg center championship concluded credit draw event held kst lol matches matchup more november officially quarterfinal results stage swiss texas union world worlds",
-      "ts": 1793495317.5807788
-    },
-    {
-      "t": "0 2 2026 against been blg champion defeat eliminated esports fails hanwha has life line msi quarterfinals reach spot stage suffered swiss",
-      "ts": 1793495321.0556726
-    },
-    {
-      "t": "0 1 2026 allen blg center championship credit dominates event final game held knight kst lead lol match november orianna stage swiss takes teamfights texas too union usa world worlds",
-      "ts": 1793495324.7705662
-    },
-    {
-      "t": "2026 appe blg came day elimination final heated kcorp knockouts lol lyon massive matches out post rivarlies secure spots top who worlds",
-      "ts": 1793495328.3201554
-    },
-    {
-      "t": "according action after code continued contributed developers dispute even faces fan former has lawsuit legal made oblivion over remake remove says skyblivion team they threat threatened threats volunteer",
-      "ts": 1793495331.8166199
-    },
-    {
-      "t": "2026 8 8216 advance bilibili chinese comes day eliminated end esports exit final following gaming hanwha life loss quarterfina quarterfinals results round run securing spot stage swiss team they worlds",
-      "ts": 1793495336.9107924
-    },
-    {
-      "t": "2026 changes enc esports nbsp roster rosters sheep transfers",
-      "ts": 1793495340.374799
-    },
-    {
-      "t": "2026 changements effectifs enc esports nbsp roster sheep transferts",
-      "ts": 1793495343.8533537
-    },
-    {
-      "t": "667k astana bucharest peaks pgl record short viewers",
-      "ts": 1793495347.3028681
-    },
-    {
       "t": "13 17 68 asia before beijing chance collapsed cutoff cuts decision final forfeit gave hyperx iem invite likely lisbon major make pgl projected quarter rac retake season settles singapore their tyloo vrs",
       "ts": 1793518274.167543
     },
@@ -21028,6 +20992,26 @@
     {
       "t": "2027 deal esports fnatic gaming join lospa nbsp set sheep sources",
       "ts": 1793559892.1450005
+    },
+    {
+      "t": "advice always awper crosshair falcons focus forced himself his kyousuke m0nesy maybe overthinks say something sometimes that thinks",
+      "ts": 1793573304.147568
+    },
+    {
+      "t": "2026 3 6 best bilibili corp dates dplus fives gaming gen karmine kia lyon matchups november quarterfinals records run swiss t1 top worlds",
+      "ts": 1793573307.704421
+    },
+    {
+      "t": "1 2 2026 3 against behind bucharest final first five furia including lost masters nemiga numbers pgl row run series their then three title two wins won",
+      "ts": 1793573311.4720871
+    },
+    {
+      "t": "address appeared behaviour concerning daylight dead devs fir has his interactive post recent scandal stepped stream theburntpeanut",
+      "ts": 1793573314.9206357
+    },
+    {
+      "t": "6 about breakdown comes consider edition extras fence full get gta here how just many more paying post should ultimate worth you",
+      "ts": 1793573320.9097672
     }
   ]
 }
