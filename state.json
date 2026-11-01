@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa3QtWDhjR250X1A2SlZXY2Q5LUpIMGtaVHdheGVLelc3NFNPOUlKZUkydm43MlUyOFR4RnZ1TXM0ZHNjMW9WZFZaOGlFUEFuMnVERzYxU1lHeVNNc0V6bC1lbUtGamk3WHNfeHpxTXBQUmRJZ0pYbXZCaWRUUDFTVUZVU1p3Y21PVzBHZDFQMGdBQkFlLVo4S2tQWWR5Vmc?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zV1BiaDZoRkhHT0NhUVgwMFdpdmtfb1RqQWJEN2JkcVZIY0xaVjFUeEIyV2YyVjdvemVDWjl0aWJId1FPV2lqcFFDeGZaVEU?oc=5",
-    "https://www.invenglobal.com/articles/27011/ghost-of-tsushima-anime-adaptation-delayed-to-2028",
-    "https://www.invenglobal.com/articles/27010/us-console-market-called-worst-since-1980s-xbox-pushes-ahead",
-    "https://www.invenglobal.com/articles/27009/original-creators-new-manga-naruto-shadow-rising-announced-project-rasengan-unveiled",
-    "https://www.hltv.org/news/45694/sycrone-sometimes-tactically-you-can-get-somewhere-with-a-good-look-and-a-round-doesnt-convert-but-xertion-always-kept-composure",
     "https://insider-gaming.com/starfield-biggest-issue-fixed-by-mod/",
     "https://thegamehaus.com/college-football/5-things-learned-from-college-football-week-6/2026/10/10/",
     "https://thegamehaus.com/nfl-draft/nfl-draft-prospects-to-watch-in-college-football-week-6-recap/2026/10/10/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/27986/cloning-games-with-one-click-ai-claude-blocks-it",
     "https://www.invenglobal.com/articles/27985/openai-ceo-calls-keeping-ram-in-personal-pcs-terrible-shifting-blame-to-consumers-vs-a-reasonable-point",
     "https://www.invenglobal.com/articles/27984/persona-1-remake-leaks-on-day-of-30th-anniversary-collab-teaser-fueling-speculation",
-    "https://www.hltv.org/news/45874/zhoking-we-had-no-choice-but-to-play-in-that-retake-event"
+    "https://www.hltv.org/news/45874/zhoking-we-had-no-choice-but-to-play-in-that-retake-event",
+    "https://esports-news.co.uk/2026/11/01/mouz-beat-vitality-2-0-to-finish-third-at-pgl-masters-bucharest/",
+    "https://insider-gaming.com/how-to-pre-register-petit-planet-launch/",
+    "https://insider-gaming.com/petit-planet-coming-december/",
+    "https://insider-gaming.com/xbox-game-pass-games-november-2026/",
+    "https://insider-gaming.com/escape-from-tarkov-zombies-standalone-game-teased/",
+    "https://insider-gaming.com/gta-6-save-you-5000-according-to-millionaire/"
   ],
   "title_hashes": [
-    "c1649b833998ae64da39c58adc0f9694",
-    "d02306a707c967843b1c71ae8b3d2097",
-    "3272a67a6c2398d71df1add181e9c4d1",
-    "647ee362892f82c109bce8c12bce6d7d",
-    "edd04d1cfe6db829a5dfe8ba7909be78",
-    "f51f597d58d2e5b88bb44a81f185eec8",
     "06a6586624d3bb1476c69ebade4322fa",
     "14957ad5e328603be4a779c2616680e3",
     "c0428a00f7c523880971151e940855ce",
@@ -16001,7 +15995,13 @@
     "7e6022900bb924e75e54ce82c25c8f73",
     "17dcec0be7bd76e233d697319b1a683e",
     "925b865fd53dd8130f3df53cbeb318b9",
-    "957613008b55be5fa7de8cd8c0b26669"
+    "957613008b55be5fa7de8cd8c0b26669",
+    "c55906bf91b6f7cd7a01e910bec14e9e",
+    "f495383eeaac4b8d17cfa2e67a81bd52",
+    "9754879c44964fd3c4760d97be1e797b",
+    "15dac34028cc7a9eb07feb9917d113f6",
+    "4e50ab1767855351e18e0de8f12f5f08",
+    "3f2c635a0a79f8b8a57a7bd324a23a18"
   ],
   "transfers": {
     "pages": {
@@ -20816,6 +20816,26 @@
     {
       "t": "after attend beijing but choice cost event forced had have hyperx iem major may play retake signing that they tyloo withdraw zhoking",
       "ts": 1793543294.402899
+    },
+    {
+      "t": "0 2 3rd after beat bronze bucharest continue final finish furia loss masters match mouz pgl place reading saturday semi spot swept taking their third vitality",
+      "ts": 1793543299.480874
+    },
+    {
+      "t": "2 8216 8217 brings but coming cozy december experience galactic get life little longer mobile month need next nintendo petit planet post sim switch wait you",
+      "ts": 1793543302.9168763
+    },
+    {
+      "t": "2026 all appeared coming enjoy first full game games here insi november pass plenty post spread there tier titles top xbox you",
+      "ts": 1793543306.4271014
+    },
+    {
+      "t": "8216 8217 appear asked battlestate buyanov fame game games has lead nikita players post separate standalone tarkov teased themed they want zombies",
+      "ts": 1793543309.860633
+    },
+    {
+      "t": "000 5 6 8216 according can could entirely gta has how made media millionaire not post save self social suggested that video viral wrong you",
+      "ts": 1793543313.4105556
     }
   ]
 }
