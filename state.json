@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE55WDg1Z0FHaDZQR2dMeUc1U1ZmWU54X0N4R2ZzZ3Mwa0dBbnJOd1A0aE1lVHRkbWtkYkJrS3ZrOGNnbGlRdHFhcjl0YjE5QzF0UkZRM2hBSlAta0lZVThOUWZlV08tbnpoeFpDMk0wR3BrakRaRWhn?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmF2M21XY3pPekg4dVd2cWt6Z05TSUJocjVYR01jMkUxY1JsV2lkMGIzM185c2JRVlk0eU5HWGh1eFpGYzk3WV95N2RJWUZLS3dWMzA2MFAxXzFxOGhEM3BJWGdLbG04cW9XN3NGOElOVDVwWU1yYk80TXVmUlpzSzhwam9UY3cyTEI2Wmt4U3g2ZjZjdDByN251MHBOR1VnZy1ScjBKek1DTFl0?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOamRuejRwbGlrZ3BuMWRHbkVzdjJpU04ycU9MWEVzNHhOaXIyX25tWmtqWko1RklvWTlHcllTbGFrczVmSWZrUlEyTFMybUhxUUM0QmJpWVp0NEJyb3dKSmROY2dtMUZhYnByb3hxeVR1Y1Q5bjFsRlFfUEprRDczXzJzWTcyVk1maHFfSFZ4T013cUVxa1ZyQ1FTSnFPVGNLRkc4aVBTYXF6RnNkRnhUZG9LVTl4Wm5ScHRhaWk4aHo0YlVib2xpS0xFbFNURGRwakQyN213?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XM2p6Mko4ZnRGYjR2cnhDUGM1bnpaeFNiT3FRdFFsOEgxaFl5Rk03RG9udlY2czFvRlYyUzFGM2o4MzdNNkFoemZGaU9pMzhON0pYR0x1OFJCQ1hsSTN0Nll4TFotR1cyaGdRRXo2S2dZX2c?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDZVLV90d1hZN0Z6V1MzTVBhUFFYOXFibWRnQUEwd3BfUUU3QUkwMkdZa2w5TFUxUWhuWWZiSHVfcGlhOHBvY0NUV00xLVdzV2hieTlzLW9LUi1nczVzY29rcnJzbGhMTDNDSUdJVW9CTmM3V1k4Zm9IOF92R1Z0UTRvSTJXSFpnMkdEMFNmU1I3eW5iRnVZd054NWJ3eTlWQWpOQXVXR0txQ2Q5S2tYUUdfWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelgyZGdvODNMbEhVS1NYMkRiano1WFlWU2NHaFdpUmhiM3lOWjRndEJFbHFKY01JQndBUUtQLW5pYlNPajBfNHR1WnRYS2FKX2o3NnhnV1p2YXJYdXdKYUxxUTJ5VDRSeDQtUEkwb2NIdUt1WTlUUm9zejM2LVVURGRpQ0szUVlmRjlMT0RRM1dDZ05QWVYtTkpWV0xoNnhwRGxUOWRfQkR3dWl2OXFpcDhaNEhPOEo3Rnl5MS1PTVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeGtxZU9lek4yMHp5ZlVQSEdSSWVmT0V2N0tpOWZkZGJoMWNFenZDNlZUS05FT3hoS2pDd19yWFJLOFlVMjZ4VEoyQ2NENUxqQnU5SEItaFJ6M0JxUHBhaFNROU9nSnBpWmVJUzRrUFpZZzhycHVxaTZWV1pzUGctdTlIQms3ZmtHLWpkMDRHdE5Fem5kQkF2RVRLRTNrT0htWHh6NzdDMHhNNmpJRTd5LU1OOUE5YThSSE1NYkM1MFlGcUdPLVRYb2FHVmowVk1GdzZUaml0dVg?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTFBDWDdxVkFlUENDbUVEeWR2bEN0UDdRaldEVjdZVklqR3BFUGE3ZmRWb0hyMUdVUFVQVVdWRnRsOEx0NVN0R180d1hxZ0lOSW04cTBNNXRDR2xWR1MyYVRwTGtXM2dnMV9Cb2gyU0QxTW4yUQ?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTFB3V05oM19JZlpkWi1nZTlMWlNiRktmOUNHTmVEcEM3M1BHLXJJYzZ4OWFZZXNYMElvdlZldlM0SzhHeGRqR2tuYTVPTTJKeFdPRG1PN3BGVGhBbW5VdjhpRjU1bHppRVV6SEFqdlh1VHU2QQ?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9US3dVUXU0Y0VvYVp1eVMyREp5amRlbkxSTWRRNHNwT0ZIQm94enZsUzJVV0liQWVzNFEzaGdTY2pRMmxBSHQ2NlJPVzhHSE40QTdrUENhTkRPdFJPbHdoSUV0b2l0bmxTSnY2ajFaQ1A?oc=5",
@@ -7999,16 +7992,16 @@
     "https://insider-gaming.com/genshin-impact-imaginarium-theater/",
     "https://www.hltv.org/news/45878/jee-returns-to-tyloo-lineup-for-iem-beijing",
     "https://www.hltv.org/news/45875/jboen-going-to-the-major-is-definitely-more-relaxing-now-we-dont-have-to-stress-about-the-points-anymore-but-we-still-need-to-win",
-    "https://www.hltv.org/news/45877/1win-take-moscow-cyber-games-title-in-huge-blow-to-hotus-major-hopes"
+    "https://www.hltv.org/news/45877/1win-take-moscow-cyber-games-title-in-huge-blow-to-hotus-major-hopes",
+    "https://gameriv.com/phantom-blade-zero-best-early-weapons/",
+    "https://gameriv.com/phantom-blade-zero-guide/",
+    "https://gameriv.com/fortnite-pirate-shop-tokens-let-lucky-players-claim-free-cosmetics-for-14-days/",
+    "https://www.vlr.gg/782904/mandatory-announces-2027-roster-with-five-former-vct-talents",
+    "https://www.vlr.gg/782884/eternal-fire-allows-spear-to-explore-options",
+    "https://www.vlr.gg/782896/paper-rex-parts-ways-with-jinggg-after-five-years",
+    "https://estnn.com/pgl-masters-bucharest-2026-furia-nemiga-final-analysis/"
   ],
   "title_hashes": [
-    "38e926658a03acd0f471c74d83e045ac",
-    "c41690f4de7c8f5f27d2233e92152fe5",
-    "98e24e00c7ba3f1e91fc64f9924bc32b",
-    "747bf272475fd2058e39bd51afb72006",
-    "d97017604c214c4ab652ba854a21bbea",
-    "da91b5fe808933ac875b4a3b2b333cc4",
-    "ff637d3fd78e11c3a95d0af621fd3948",
     "338c293e1e55bfa6a1e0252c9c7aae6f",
     "437fb29a4c35e34da03314d148d85e13",
     "cc04bb9a5dda58ea497d2fb20128591a",
@@ -16001,7 +15994,14 @@
     "d8717a6ddded8e01c69ddce6a38c7468",
     "f5eb71495c559f2dd7ccacded3314984",
     "1f6b6cce951ebd6dfbb1be5652c89c88",
-    "24bd24af1fdbfbb338d1f401202ce0e1"
+    "24bd24af1fdbfbb338d1f401202ce0e1",
+    "37a26ffe0f4fb9527859d68f1e8c2910",
+    "a29d1af5c0ee20c3c081c83319d1d45c",
+    "5cbea1d3335bc8b9aac826189e186d27",
+    "31dd0f66720419520daf1b9d26e15e63",
+    "a53e6ed72be79b16b5da98fdad49776e",
+    "18e104ca086df535c0f44dca564ba3ed",
+    "2330dd12765b36e862b5d17824d679e3"
   ],
   "transfers": {
     "pages": {
@@ -20964,6 +20964,26 @@
     {
       "t": "100 1win argentina blow cyber fnatic games hopes hotu huge major moscow nervously take thieves title watching will",
       "ts": 1793559828.8171744
+    },
+    {
+      "t": "approach beginner between blade boss bosses branching change encounters endings fast fights figure gives guide hidden how hub its might new out phantom plenty questlines sword tips upgrades weapon weapons while you zero",
+      "ts": 1793559834.2631593
+    },
+    {
+      "t": "2027 ahead announces enters five former fray mandatory roster season star studded talents vct",
+      "ts": 1793559837.9453347
+    },
+    {
+      "t": "after allows eternal explore fire leave one options set spear system year",
+      "ts": 1793559841.384764
+    },
+    {
+      "t": "after five jinggg member organization paper parts releases rex ways years",
+      "ts": 1793559844.8151922
+    },
+    {
+      "t": "2 2026 3 31 analysis beat bucharest comes final furia grand major maps masters nemiga next october pgl records round totals tournament what win",
+      "ts": 1793559848.3546097
     }
   ]
 }
