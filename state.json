@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFJHemhCRGctOXBCRGFmVlVnX244Q2tDdEpDWW1kLXRTTDY3N29nNjhZVjgwT1JuQmxJZ0FlVXJJLXZZcnd6MnFDWW9XX3dUbmZlVHVxaVFNZ2hSWnRJTHAtaHpTX2duX25RZlVUYU5IU3IwZnJ1U3ZJUDRkWFUzQzdia01RTnlfUEhWRnpZdTdyOTFlUE8tSFR2LUo?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa1BQczAzQnZvaGJta1JOYVRkbGhPcHh2Tm5QUngxRk04cm8wT29iTkV4RDd5NTJDTDJYWkZJYVczMHhsVHZlYWpwSTY4RjVkd2tKcTVWY3E2cDFEbjlIa1BxNkhhNDhhcWNvV0hYSzBtU1dzTnJxQ08tVU1MVXhGQWcyS3VqR3pjaUZDRkwyNnZGN0JyQXc?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBSaURLWENOLTVnUm90dTZhZmh6enRBTXFuVDlDVmEwRG1mODNNakJXalY2MG1iaTBMVmN3Tm51RXAwVjlUNjhNYWFjb0gzRDVRTlQwY3FXNHJnLWRkb29rdVV3cy1kU3pjc2ZjSnlCLVYyQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVZfaG85WGtKR2ZWeWtQa3QxY2t2cDgzVklzQ2hGdVV0MkdqaDJPWGRNMXk0NWcwOWgyRzVWN2tZbHVsWUgxeW9hN0E3ZEZGaDVVb2owdHBXMGVvRjEzRl9jb01ma3hqTU1QR01JZld3MzlmdWZRTHZzZy11cUJHTXhtTUE2QVk?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT042TGREZ1l1bGtKdG8tU2ZRMEFEeGJHYkM4bkp6eXgzdldxREJSTTFMN0t2LWxrN0xVQmZlZ3dBMndQQVpGaDdYMUFWZHlZNmptejloMkxrUy1QZVBPLWJWMWlTbnIwaWdnNG4ta1lEaHhDdGNDMDZPX2p4eE05ZlF3?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qSnJfTEtudXB5QzREcGZSbU9zZkxqQ0haR2JEanY2Z2NBLXpZdWlLZERhR18yenZYM1d5ZUhiallQZ0Rmbks4WkRLbzFqcTFucHBIV3JIYnRyY083VGxNT3ZJSjM1RTM5a0lOdFhCdmJObVVWYTJCaUpLN1I?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTAxRUJyZ0hLOG94ZVlYbWo4QThyaVlUN25TaTNxQlA2U2RTWTdQQ0JNNnVrMmhpakJVUWVfcVZ5eFNwNzk4dW9pbWJPRktwbzFvWUJQcDFBMG5kd19xMlB4dUc3SkNoNVl6ck13V0djRlVRM3BwSnAxejNNTGc0RGQzOWs4NkU?oc=5",
-    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PTzI2ZlhnSzlXYkFxT2ROaXBlejZCRWRBRVVUSmJyTnJvX3JFbm05YXlpZXUwcDN5XzQ3Q1h6M1BxU3l6cEhB?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkJVb1ZCdjlSbDBVNndEOGlNb3E5Y1p6d3REU2hMbzRfczRZX1g4RE9PZ0JscHdsMXI1VGhaSGpkLTVwbUFFb09fSXlCRnpYVkV0cTJyelVEckdzUjNYcTRqdUxWWVRLNC1CeGdVcU1lOU1rbllrWTN3LS1EcDJqNWk1LUU?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUWXcwa2czbFR3T0lFWW5hTmxzbU9tMC1IVjJOeFdlTkRvOFRlVEZ3ZWd3WmJ5RU5VV3MzU3JqWjd5TzdTN3U3ekE3V3lodm9uV0xjOHRjOXpBeTl3SkNQOGhXU3BlZnJDTEowUE8tVVVqZE4zUVY3ZlBuVE4?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNazRtRnNPSUR2NzlzRDVmOVNoeFhRVEVOZnVtcVBwWVhnNnIybm9Oamh3bGw0b2VqWms0REFnQjFGVFpPSWRnNll6OGh6WWpaVDJXMnJCTE9wLUhlTEFfMWg0LUU0dUJZYmtqM0RZc19XSTdUWUJXSGw5RTNZMm9EcUo1NlVzM2s?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mOXQtVmRuQlF5Vk0yTkNNc1hGWnI1X00tWG10RWVpU2pTeGhucWlrVV9QVzgtQkRQX1FkcnBKeF9CN09CUjJ2N0kxbU1URnY2MnFYeVFlZl9XdzNNVy1zdWxNTHpHRkFsSW1rMU9nMWNiekxXai1sRGxwVDlLUQ?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EWEUwM0FmclVIcGROR3RCUHk3MV9xckkwMXEyWi1mQ3dZbjdUaTFNTmU2SGkxQUxEbWp4YllYbmFkeDdITWljeDBqZEVnS0prYkc3azM2MlBodXA4azVIZEFvZE54dzJMRDZxd1h5MmFTbkphSVd0a01rS1JUc3M?oc=5",
@@ -7999,19 +7989,19 @@
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQamh3Mlp5dVZVcGwxbHBkOWM4RmFyM3QyZGxhLXJ1RkxlUk1xMFZ3UDMxODFRbkdnVGJLMkc0VUdKLVlpMG9Xb09idGhjSFVabHl2U2RTdkdiOGJBN1R3WHpIYml5X0dzeEJMRU9IYkozMDlKNHMyN3NKa0liNi11TUtMbkp2QjdXZ0dVNFZVVkZZX1UtdEFOdWdUWTNkcjRsVDdIQTltemtjSlV3MWZRRzdnbXVHTklaQlJ2Y3NNVXpwYzU5TEZjM1h0bXZTdWQyMmE1Nk1TX1NMckhVZUU3T2pNT1o3VzYwQW1CVkZLajc?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRDRKQUxmQl8wZ1VLSjZCcnRkeWRZTG13ckFRYTg2bnB4N0dsMjVrekdkOE9ZLVladUpXR3FjZHhEZG1MLURrREtVdXZsMmZ0dkM5RUx1UjBGeGg2bmc0X29VSEJXZ2ppX3JXeHhpWmxVYUtnbTdHQTVXS2xDY2tHemp3?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQWc3TlJRRm9XeGpfc1dCdXd2LTVfZElhY3NHaDNmUGxWOVpGU05IYWwzRVJjTGI4N1BocUxJbHdqcUdwSkwtXzh1dG1fRU5WU1ppbnVwaEV0RHlGdTNjdWpqaEFYanBVLTgzc0taYXNheGVUYXVzVzUxM2Z4TXU0MEttNmw3Y1BOZGlDekNsYnc3RV9rV2hzTml6VzJ5MVhydkFRYnBKcU41b0lmNWsxd2xhN2lGMkkxVUtCWEtNSQ?oc=5",
-    "https://pley.gg/cs2/pgl-bucharest-peaks-at-667k-viewers-short-of-astana-record/"
+    "https://pley.gg/cs2/pgl-bucharest-peaks-at-667k-viewers-short-of-astana-record/",
+    "https://www.esports.net/news/gaming/tyloos-lisbon-forfeit-cuts-singapore-major-invite-chance-from-68-to-17-before-vrs-cutoff/",
+    "https://esportsinsider.com/2026/11/kru-blaze-recover-from-opening-map-loss-to-beat-shopify-rebellion-gold-and-reach-final",
+    "https://blog.counter-strike.net/2022/12/40696/",
+    "https://insider-gaming.com/algs-split-2-playoffs-final-teams-set-unlimit-eliminated/",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEl4WmxlS053ODhQbWJaUDJOYzFvYVV6dFc3MlQ0cW95MlIxUnQwcUw1LTZxM0lYMDdBU3V5VmkwZjRralZ0RFZIRXRvM2VqR3JVUUdkcENsMGU3QVFBMjdGVEc0YlBTZ1E2V0c2NHZPRVhXSmJvWm5RMVlyNWNBYTE5RndQeEJ6Y19j?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWVQY1VvRFdYTjB5N3pNLXZDZDZPREdvWDJmRjd5Y3JPcWk1WDk3TFdpc0ZaZkJic1g0dkVZWm5obFVfWXFONDBsd2ZCRWM3REk2OE9SVC1WTFF5eHdhOGh2NDYwTzFXbDFONTVnRnI5MVVPUHM0N0VWQTloWWNocE42bnF2NGppMVFoWllZOA?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oVHBtVTlxM3FnNl9RTkFhOGVHQ09SWTVlT2R6QkY3bm1SR1pKYUcyUXozWlpicWI2cUNYMWxscFlKbEN1YkZiR1RRcjhXakFVYzQ4eEJuUE9ucXFVb293Y0szUGZHZEVFQk1z?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSDRaeEpBazExRWZqc0RELVpTeFpJWWVQY1FjVWE0RTJRMmZqeGg0S21uVEw5RlprbGxMSkRIQm0wQk5nLVRrWl9XU0ZlM29reFFxbzk2WkFFV3QwWVN3UWtjQnlCVm16bDZSZ2hNXy1KVWQySFZTR2pNVjRjTDNOMEZrakFyTHJ6?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/lyon-dhokla-worlds-2026-interview",
+    "https://www.hotspawn.com/league-of-legends/news/duduhh-worlds-2026-interview"
   ],
   "title_hashes": [
-    "e2b4ac2b662252d216732ac0ee2f330d",
-    "b589e86290f0943e585f5e912a395a27",
-    "63939f231a1172d1b45db31fe7545a42",
-    "79aa99558e1f1dd97e6e53c2b71d17ef",
-    "0e729fe7cd44bdae55edb92cfc6ebbe4",
-    "3354053b93f330e5354188e4a9bd5a34",
-    "21ac77b52d2f44c9d7299099fede82d3",
-    "1de9a5fab2c2435348b4609cdef68939",
-    "41f6e0de55180a04dea2d8fcd995978b",
-    "f12775c38272b68d9b693793b12ae9e6",
     "0cfddb13c6b4a6a248def602ffcbec80",
     "b841b53977ec478f050142a11317fa84",
     "d5648f6a7618672492ad4f2138129009",
@@ -16001,7 +15991,17 @@
     "1b159f9c2e7972cd294e90b6c9963bd4",
     "bd60dc1f74677b7f2e6e5bcf31613603",
     "4f02833aaa2b193f1c60268ec21a16ae",
-    "c19359044aab7eb7ae9f4a92a3250d26"
+    "c19359044aab7eb7ae9f4a92a3250d26",
+    "c48c86491b5a4d4fde2a9da14148ed10",
+    "81c59d5913af82789e6c4da3acbc81bb",
+    "a2acb0625139c71d21d9dc130aaaae2d",
+    "fd8762c49cbf7cf40b85535bee5b88c2",
+    "5906dffc72f4a4f4cbfc31ef1efe14c4",
+    "e4dfed8ca15e769b11494d8b70f975df",
+    "8072fbd67e37f688afea95d77e64aa9b",
+    "65f5b8426c7dd7aa8d7f5ac3d3aa3c24",
+    "56c2ab2ed31f3fb6c9da2895133508aa",
+    "9be886546bcc37687e04fe1cb2945cbb"
   ],
   "transfers": {
     "pages": {
@@ -20710,30 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "14 31st action announced channels december detective elementa globally its launch media official officially open palace rpg set silver social that through today will world youtube",
-      "ts": 1793435951.7135298
-    },
-    {
-      "t": "2 algs bracket concluded dark dinos group groups has heading horses into leading pack playoffs post results set split stage",
-      "ts": 1793435955.7057695
-    },
-    {
-      "t": "2026 appe been both champions day eliminated esports final g2 have lcs lec liquid lol looking now post stacked stages swiss team worlds",
-      "ts": 1793435959.2234302
-    },
-    {
-      "t": "announces competitive esports his meco1e officially retirement retires valorant",
-      "ts": 1793435962.7864225
-    },
-    {
-      "t": "2027 ahead jerrwin jonahp professor release rookie season sentinels",
-      "ts": 1793435966.3022416
-    },
-    {
-      "t": "astralis before bucharest cmtry cut exit final fut invite leaves left likely loss major matches miss nemiga nikita off pgl play quarter roster samolotov singapore stand vrs will",
-      "ts": 1793435971.556428
-    },
-    {
       "t": "31s animation announced colorful cyberagent developer established establishes feat has hatsune latent launch miku one operator palette production project sekai stage subsidiary",
       "ts": 1793457987.5644395
     },
@@ -20964,6 +20940,26 @@
     {
       "t": "667k astana bucharest peaks pgl record short viewers",
       "ts": 1793495347.3028681
+    },
+    {
+      "t": "13 17 68 asia before beijing chance collapsed cutoff cuts decision final forfeit gave hyperx iem invite likely lisbon major make pgl projected quarter rac retake season settles singapore their tyloo vrs",
+      "ts": 1793518274.167543
+    },
+    {
+      "t": "1 2026 3 after bea beat blaze bracket championship changers days final four game gold krü losing loss lower map opening post reach rebellion recover shopify them vct",
+      "ts": 1793518277.6245599
+    },
+    {
+      "t": "1 2 20 after algs bracket brutal brutally champions close elimination final has its playoffs post set split teams three tie unlimit way winner winners",
+      "ts": 1793518281.0986133
+    },
+    {
+      "t": "1 2026 able after against almost comeback dhokla don dropping fixed game gets have insane inspired lcs let losing lyon løs made make nothing out quarterfinals relationship rollercoaster saint secon series stress team three worlds you",
+      "ts": 1793518284.5230556
+    },
+    {
+      "t": "2 2026 8217 able after beat brazil brazilian but can close duduhh end first game got had hands heartbreaking his impressive lead lyon løs out over performance proving rev series step taking team teams that their these wasn world worlds",
+      "ts": 1793518288.2230494
     }
   ]
 }
