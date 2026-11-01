@@ -1,26 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBDWDdxVkFlUENDbUVEeWR2bEN0UDdRaldEVjdZVklqR3BFUGE3ZmRWb0hyMUdVUFVQVVdWRnRsOEx0NVN0R180d1hxZ0lOSW04cTBNNXRDR2xWR1MyYVRwTGtXM2dnMV9Cb2gyU0QxTW4yUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFB3V05oM19JZlpkWi1nZTlMWlNiRktmOUNHTmVEcEM3M1BHLXJJYzZ4OWFZZXNYMElvdlZldlM0SzhHeGRqR2tuYTVPTTJKeFdPRG1PN3BGVGhBbW5VdjhpRjU1bHppRVV6SEFqdlh1VHU2QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9US3dVUXU0Y0VvYVp1eVMyREp5amRlbkxSTWRRNHNwT0ZIQm94enZsUzJVV0liQWVzNFEzaGdTY2pRMmxBSHQ2NlJPVzhHSE40QTdrUENhTkRPdFJPbHdoSUV0b2l0bmxTSnY2ajFaQ1A?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBvMkNpQTI4NnJIVXd6eDV2YUE3QVh6b3ZCREk3VjhDVFEta3EyT3RUSlQzdEpxNTdBR19fSmVFMXRveE1WM2E2YTNNV0xPSk9XM0RDNE1DVk1OeXlUZDVOY0VvaW1zakdKWUw5cHJxSmpvZw?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmdrellhX0E4REQ2YVVLYVItbDFYbUUxaTllNmh3RWk4SXRFc01PR2VQaUtUTmtCcVJyc0o5TVEyWXZZcmlKNmxNdHAzWUtIM0o1eWR4RV9DS0lRMmNYUEJvM0dPX3lNbnVtT1FHWVc4Z2xzbkpmZnlLSndzY3BmYk9ZMA?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rVEFiak92MEgzRTFLWGJlREhucjE4dnhnY1dPekJqVVdibklHM3A0bmhSdDh6UXhfRGZoOHlkVkcyUC1OT0paY3E0UHZGNFI5SG1vLXJteDdlUUtWRmZWajZSbFQ4TGVzZWpDRw?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUc4N3pyZ1dhRzVwRVJmZE1pQWN5M0tIYVVFanlNVjNQNm4td3pBUjlQUjgzQ0d2b1I2anpXQ1phWUxRMUhtMjMxTlByMU05clpIODFla1p4T0F4TnE3UGNDcjI2dVpVZ3JOVmJmTmN6YXdKRmpSLXdwSkozMlpFN19MaXZyTGRsSVV3RU96NUVSdENha1lIbVIxYlZwTkxf?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHNKS19lU20yTHJYaEk2SV8xX3BPdm5nTjZCU2txRFVobUVlSzk3NXd5RzF3Zl9ndUpyZmJJY3pINE8xN1NrUUdib2lHNmFEZkRkSDJWNDkteGR3aHo5UVgyanh6bUFpUzQ3NU9uTlBQcWFwOC1RMF80VElmWlBIOGNyWGNtSXA3dWxuZUdia2d1ZVhPVmhtTFZqQ0IzZzhmWGFNak9PMEd5QTBUX3c?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEhtOEVGSkVBSXl5bzh3TU13SE1RQTBtRFlBWXpzdVgxSVJUQkpGUDBOZVdQOTZtN0VSd3NVN2RXbmQ2dklVMjVGaHlkaDlHa3hyUnkxUnZvcF80NWFZSGtNNV91ZDV4Q2dLUjdZckg5UWxnRnVnZjBvanRhd0RzTzFETGFBQlVDUWxYdGZXZ0owTlA4WUw2TUFfQW0tY29Hb0p2aEJoTG9oX1k?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ1ZvT0RuZmtuTGhaYTJ0SVJfWElMNnRpeTJLX0lnUzhPaVBuWGJKQjBQcG1oSGgwV2hMa2Z6X3U5ZEZvb25ZbUdGdmFUY0dOcnR1T2FJZGRyMlhZaV84NFIwNERjUXNxVXZqODJPMi1vN3F4RDZlQjdqRW5RNWVHZDNDcW83T0xET3hzMlNfMFl0N0MwbzFLUnpzZk15TC02?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZjg2MjJmOFZPX2ZxMGpncGZ2X3BYOG85SF8tUnRQZC1vTWdYckd2R2dzTE1lZTFWZ3dfVlk3c0VUWEhwYUJTVURDR19FVEZaTmxWblkwWWdndXhQMk10cFVIbjVDNnJCWHBaYkQzSzhPRkRlODQwaFJZY3Q2SHJQRjJn?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGpHWGhIcnFHNjdHT1VaVURjNC1PT0VRN0s0ZjNGTWh5ZllsbXl1RTJtYXhlWWZrbTZoOGhsYXhyelE5ak5sajJSZGNwRmRIRmJyc053Y21LYVpDNExGa3BvV0c2S3RRcU1EN2NWVkJaSTVnM3VncXB2bjhqRFJrS2Z6YUEtZw?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0FmN2Y5eXNMRlpiZmxZNzQ1Z3lmMGJzR3JlM01zcTZKR0FBTUtkZDNXR0V5UC1BVjVKOU5MM2JSdlZPeHRvTFF2Y09kejV2NmdtT1RNbUdDSVdKazhVMi1GWFhrYzFLTjVVRFBRdjhEYXB0OTRkOEdUS3YzNnFDZHgtWGFZZXNUM2ZjcGgzVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1kcldQRV9ZOFBwUjl2dWloSGVLY3JmN3BSdVFUYl9tUUFnc09tdEs5RWNiV2RJR2FWa1JlTVBCR1NwSXBEcnhDNXVCeHZYRTl6Mkg1S2dCRWdSSWo4RHkxZjRMc0ZLT0RaS2ZhTFRNdFVLM3pxdVNJXzRYRjJzTU14ZU41MklrcWtSREJ5OFlURlROZ0p3RHB4TGdWU1VjMHpLaElEcmtpQWlTSU1sTW10OUJSUUxX?oc=5",
-    "https://www.invenglobal.com/articles/27014/can-you-take-leave-on-the-gta-6-release-date-australian-labor-authority-weighs-in-with-answers",
-    "https://www.invenglobal.com/articles/27015/dragon-quest-creator-yuji-horii-releases-free-ai-mystery-game-built-in-about-30-minutes",
-    "https://www.invenglobal.com/articles/27013/battlegrounds-21-dominant-servers-achieve-3-castle-unification-17th-siege-war",
-    "https://www.hltv.org/news/45696/esl-pro-league-s24-grand-final-as-it-happened",
-    "https://www.hltv.org/news/45701/zywoo-claims-34th-career-mvp-at-esl-pro-league-s24",
-    "https://www.hltv.org/news/45700/zywoo-shines-as-vitality-win-esl-pro-league-season-24-over-mouz",
-    "https://www.vlr.gg/772153/g2-enters-the-top-four-with-2-1-victory-over-t1",
     "https://www.nerfplz.com/2026/10/lol-bot-lane-guide-positioning-spikes.html",
     "https://insider-gaming.com/marvel-tokon-year-1-dlc-roster/",
     "https://www.hotspawn.com/valorant/news/pal-interview-valorant-champions-shanghai",
@@ -7999,30 +7978,30 @@
     "https://www.vlr.gg/782904/mandatory-announces-2027-roster-with-five-former-vct-talents",
     "https://www.vlr.gg/782884/eternal-fire-allows-spear-to-explore-options",
     "https://www.vlr.gg/782896/paper-rex-parts-ways-with-jinggg-after-five-years",
-    "https://estnn.com/pgl-masters-bucharest-2026-furia-nemiga-final-analysis/"
+    "https://estnn.com/pgl-masters-bucharest-2026-furia-nemiga-final-analysis/",
+    "https://estnn.com/overwatch-season-5-doctrine-grimsvotn-sombra-support/",
+    "https://estnn.com/fortnite-one-piece-skins-release-dates-shop-schedule/",
+    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PTzI2ZlhnSzlXYkFxT2ROaXBlejZCRWRBRVVUSmJyTnJvX3JFbm05YXlpZXUwcDN5XzQ3Q1h6M1BxU3l6cEhB?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFVPXy1nRWVpZEZ4VC1UZ0RlMkpUZHBQNTRPbFNwRWs1eEpzaGJxS0c4OXdBNUJZVnZqcTlSZThNZFFmczVsbjBBZS1nUnd4Q2o4VmJRWEg0ZnlBaElqcWhEMzBmdmo1SU16QVAwaVN2VkxVcFctYXVkUUE5SEg0d21jdi1FbFk?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckVpOW10VDJqNzNKZGNuZ2RBc3QwWVFvMENudEJGUVFFOW5WNHZKaHp6Y2JWY0ltM0JaWUNIekEyZUxEN29VUS1nbTZCblRBZHdrR2RkRHJac3lmQkh1eGwyMVVSbE5FOEQ5Tl9CSlFKU3l4M0VkZS1KdXRjWE9oclgzZUFmQXJsZkpwOWM3MnBfdw?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWg4SzE0RGhPYXlhRzVxUWZzNEJFQWhBMGVDVWwtdnQ4QUdSVzJ4cV9waExCc1ZoazFaTHl0WTdHWk9BcE0zVGw2WnUwNzNkczlQM2N3eDJWLUpmUC0wWEdibHd1eVBIWWFjM19GY244WUZfZ2FZTFNfdk1kSjI5LURITGs?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUWXcwa2czbFR3T0lFWW5hTmxzbU9tMC1IVjJOeFdlTkRvOFRlVEZ3ZWd3WmJ5RU5VV3MzU3JqWjd5TzdTN3U3ekE3V3lodm9uV0xjOHRjOXpBeTl3SkNQOGhXU3BlZnJDTEowUE8tVVVqZE4zUVY3ZlBuVE4?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzMkZIWklNODlfcy0xYnNod2dDRTFZalJBNUdyX2lKd2RRQ0xiZ0VCenR6VU1hSlk4TndwbHhMZnRvRktDc1JHa3dTdVkzQ3JBWEZndWw1Ulg1T21JUzg4bk5idENLWmg0OVRQdVpRUnMwVjQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtaEhvSDV0OG9KeER6bUpreUF3UzdrOXBqU3g0Mzl5Q0dRWXdEUDNUT0doblZaa1JQdU1kMGhiTGttSEJYVXFuLUs0QmlzOE0?oc=5",
+    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51OXYzWG5hLU9tYTF4ejZtZFhaUzhwZ0FNRkxVYkNIaGlHMlVuV3ZnRllwZWk4SkFsZ00yZ1BCXzJkZ201R3Zr?oc=5",
+    "https://www.hotspawn.com/mlbb/news/team-spirit-mlbb-mcc-title",
+    "https://www.hotspawn.com/fortnite/news/fortnite-pirate-shop-token",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03WFFUTDNwWHAzU0xBNl9EOTJfZnZ1WFNfNVpUSHlDOGotM2FyU2JfaE9zaUt6VFRyeHh3YWstTzBfZjZJelpsR2x4QjhiTmM1TDNj?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSUmR6bXFyVkQ2RGlaZ2U3TUYwNHNZTVZraHBjT0wxYmxnb09ERWFVUlVaYnpTMnFGRXp2eEhLM3Foc0pFOGhhUXBrZnhnNE50MjVn?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6cGFydXNqLVFRN0dUMHl5Q1gySzBQTlNXek0zbFdoRFc3YXV4UDN4MkFmTWd4U25KdmdSR2NxeWRnWmVYaFZQaWNEdmdqdENQY0dF?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FcHk3aVZKMzl4c3lzUEttY25TNUxXZFFPenM3Mi1VeFQ4ejJmRGo3ZmM3Zm95WC1yVldFYkR2dkRTNUdVX0RZM0wtZUhVUW90Nmdr?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZSkJ1aGk3YlRTZFpQeDBldUZURHJZN29FM0l0SF9XZU9VUFJDRUZiSkdMQTV0dGdYb2JBTjNjbkl0aFoxSmFiaE03cFVrMkhhQ1M0?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03cGVyLWxSUEhrUkxaX1VDT1J6eS0zLWtUQUZlS3h5c0N1UnZlOVdqbWdHb3JLdjdCTUx4dFcyTUUtalFGZEZxcTI3WWFFREpjMDZn?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PTURPSng2dUhEU0d1dkVLVWVGblVMUGhLRExHb2I1c0xadmV5Y3d4UGIyYmZqT3ROOXp1SkllSmc5QWlFSEdnNV94RlN6NHZVemE0?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qcjFIMVdScDN2aHMwdHI1MnVQcHBjMEpFenBtckJwaTNKY2xqX2pqam04ZndCY1NKUlZvUXFEazBNZFdEZ0p6R2x5Q29RMjJRZVE?oc=5",
+    "https://europeangaming.eu/portal/latest-news/2026/11/01/217180/eu-igaming-weekly-machine-games-duty-finland-licences-dutch-ggr/"
   ],
   "title_hashes": [
-    "338c293e1e55bfa6a1e0252c9c7aae6f",
-    "437fb29a4c35e34da03314d148d85e13",
-    "cc04bb9a5dda58ea497d2fb20128591a",
-    "ceb764e60cda90ed555b47261e83b2e9",
-    "b29f9a6e8fc8ad39edf3afef16fbc3fb",
-    "4d480c6ad396cff98c1f3d31ba6f1495",
-    "6233ced923fecaaabd46f34a0c1dbaa0",
-    "2cce2b825a51a84b34686e2873549fb7",
-    "67c8f38cfe67e7844cefe18be1820301",
-    "74e9b6887284e70f7392530fb85de66f",
-    "c612f6f7fbb6ea930e112bc6d8dd834b",
-    "d3b09a5248a66b0ff53ff2ead67ad352",
-    "1f0acea36a56fc5e3be2627482a42d9e",
-    "a721f3f9f217803b4d66b781015f8cdf",
-    "e0f11624f2ba8e80ae562d4b06f006e1",
-    "82a21a1991857e9d994a3fbb55d36b79",
-    "0653858c0bb46e218dd0f2a8066485af",
-    "b8b48da70bfbfe54fac8156eda60db9f",
-    "b09bca59a32d598440fa4f674a5fff40",
-    "c612f6f7fbb6ea930e112bc6d8dd834b",
-    "e97db469792de2843206dcca6343b29d",
     "2b0c651d66cf8d041c6a5134b97272ad",
     "cd63dc48db41ace8d96d54e08d9f1b36",
     "bc0d9a679634f19d58ba6a16e27e19a7",
@@ -16001,7 +15980,28 @@
     "31dd0f66720419520daf1b9d26e15e63",
     "a53e6ed72be79b16b5da98fdad49776e",
     "18e104ca086df535c0f44dca564ba3ed",
-    "2330dd12765b36e862b5d17824d679e3"
+    "2330dd12765b36e862b5d17824d679e3",
+    "9eae584ffbd65772693d3d23400354df",
+    "caa52b41a5114ada7774b6a4038a2239",
+    "ca3ed2269f0e48c1ff91b418c07dcee6",
+    "b29f9a6e8fc8ad39edf3afef16fbc3fb",
+    "4d480c6ad396cff98c1f3d31ba6f1495",
+    "3a988639a270727f98b2f8a78551c1c6",
+    "770b5c93483458e043732773685133a6",
+    "62ced2c24ad7ad7c331d9b6bdbc5c210",
+    "10ea86996ca38b41cb539bdecff5e22b",
+    "027fe220385f2d448300f791e23f6fa9",
+    "f72d2ebf5b3fe83f2fe18cb6ad942501",
+    "192f48a48fdb9bd839e2ef0d6a604b06",
+    "8df358eebbbb64bf19235a902db73505",
+    "8df358eebbbb64bf19235a902db73505",
+    "8df358eebbbb64bf19235a902db73505",
+    "8df358eebbbb64bf19235a902db73505",
+    "8df358eebbbb64bf19235a902db73505",
+    "8df358eebbbb64bf19235a902db73505",
+    "8df358eebbbb64bf19235a902db73505",
+    "8df358eebbbb64bf19235a902db73505",
+    "e9d8267e393ddd3db6dbaf242483953b"
   ],
   "transfers": {
     "pages": {
@@ -20984,6 +20984,26 @@
     {
       "t": "2 2026 3 31 analysis beat bucharest comes final furia grand major maps masters nemiga next october pgl records round totals tournament what win",
       "ts": 1793559848.3546097
+    },
+    {
+      "t": "2026 5 6 began blizzard changes confirmed contents dates doctrine escort event grímsvötn has map new not october overwatch pass roadhog season sombra support what",
+      "ts": 1793559853.4085479
+    },
+    {
+      "t": "1 14 arrival cap captain dated dates days every five fortnite hatsune hunters item kasane luffy miku november one piece plus release schedule season shop skins teto treasure",
+      "ts": 1793559856.966382
+    },
+    {
+      "t": "0 4 8 achieving after aurevia championships closer continental defeating finals golden grand has m8 mcc mlbb one puts road season sight sixth spirit straight take team their them this title win won",
+      "ts": 1793559860.4430354
+    },
+    {
+      "t": "advance been does fortnite got how into logging look major missing new notes once one only patch pirate player proper season shop stu surprise there token work",
+      "ts": 1793559863.9207838
+    },
+    {
+      "t": "25 700 8230 appeare asked dutch duty finland gambling games ggr igaming italy licences machine million named post raised rise sector weekly",
+      "ts": 1793559867.4222147
     }
   ]
 }
