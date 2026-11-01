@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03WFFUTDNwWHAzU0xBNl9EOTJfZnZ1WFNfNVpUSHlDOGotM2FyU2JfaE9zaUt6VFRyeHh3YWstTzBfZjZJelpsR2x4QjhiTmM1TDNj?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSUmR6bXFyVkQ2RGlaZ2U3TUYwNHNZTVZraHBjT0wxYmxnb09ERWFVUlVaYnpTMnFGRXp2eEhLM3Foc0pFOGhhUXBrZnhnNE50MjVn?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92NDFRc0cyTk5LblFlVU1lc1JIV2tSTWU0N1N0UHhFamVNcHhvUXFEajdrMWprUGt0M1RmR0s5UHlsOGdTU1BKX0FvVU8?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6cGFydXNqLVFRN0dUMHl5Q1gySzBQTlNXek0zbFdoRFc3YXV4UDN4MkFmTWd4U25KdmdSR2NxeWRnWmVYaFZQaWNEdmdqdENQY0dF?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKMHJTNUs3Tjhsck83TGpfS1ZqMWRLTHhWZ2lmSkp6TmJJNmJ2SWtXMU5ldkZkbHN0a3FUSFNmX3FBdmNxMjcxUS1md0M?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FcHk3aVZKMzl4c3lzUEttY25TNUxXZFFPenM3Mi1VeFQ4ejJmRGo3ZmM3Zm95WC1yVldFYkR2dkRTNUdVX0RZM0wtZUhVUW90Nmdr?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZSkJ1aGk3YlRTZFpQeDBldUZURHJZN29FM0l0SF9XZU9VUFJDRUZiSkdMQTV0dGdYb2JBTjNjbkl0aFoxSmFiaE03cFVrMkhhQ1M0?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03cGVyLWxSUEhrUkxaX1VDT1J6eS0zLWtUQUZlS3h5c0N1UnZlOVdqbWdHb3JLdjdCTUx4dFcyTUUtalFGZEZxcTI3WWFFREpjMDZn?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aM2x3STFYa0l5dmtfMkdsc3NvOUZLeURrSEk3SFJSMF9MYVNfNHRTNk81OFpma2FFTUV5a3ljTjlLRHA1YXdvajFzSzg?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxTVdQNUVaaGticXhKRlBSUFl0aUNkRXhWZFJ1dXBNZVlFbUxwLXJGRllCYXI5NXJnY2toZnJBNXV6amZabm5lTjRBclc?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PTURPSng2dUhEU0d1dkVLVWVGblVMUGhLRExHb2I1c0xadmV5Y3d4UGIyYmZqT3ROOXp1SkllSmc5QWlFSEdnNV94RlN6NHZVemE0?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05bVF5RXphWUpYb2E2OVEwcldvd21fMWxfTDNIdHdtdElrV3dDQXFPb2VMZDM5VHZFTkV1bEpVY2NCNmV6Qk1QMFhWanBHdlpVRWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UOEdidkRhR3NMdFZ4UDNxZWNrWnI0OTI5Y0ZnZ1VwdzA3MWVlRkdseS1XbkpDelg4WDQyWVl1OVduNHRMOXVwNldydmk?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uUGFaZUlxV05HTlJzN09FbzJrZ2JldTZBVGJUNjA4RC1kS3JubkxOeFg5Sk1Dc2tzdzB3N2RRWjFGb3E1Ym54U3RIR0s?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwMjVmZ0hTbEg3WUlLZjhYU3lsVjdEZ084aUZOX1RVa1Y4NWFMWDZOcm50STZodF95TWNFMkxRakpTY1d4WGxhbE9uX3o?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Ed1c4QkZKNWtuNGs3U3hMeWxUdzhmQnBkMTlBSW1LNW56bGlQRUdkVGEtbmN2Z2E0bDJCOGxURzJaTXk4WU8tQUsxT0M?oc=5",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jMXNYekhqTzRDNEowRDJHdEV2UE11RnRPbU15NHVTNkN6MWhMQUZIUm5JQTFkdFV3YUhRWTVSdEhfYzRKZzM1S2ZGMW1VUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVa3JYckRZX0NqSHV2cXFtMHVDMFgzeDc5RFlsSE0tNjdMOVJuLWVmZzUwVkFLS253Si04RHRtbmxEeUdCRV84REFqWHlYZlJld1g4?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FajBWUWdKLWJNSERuUmFSdVRvR1VxSERIX3RVcjh6c1B6amZnQjc2cFVvZVl1d0ExX3pEMXhqVGlaWmZnSmVFUU9GUGM?oc=5",
@@ -7999,23 +7983,25 @@
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQXgtYy1hZmZYc2QtNE9UMzlYZnJUWklRaURCVFkzZXBmLUtIRUplZERqb3Z3SmI3c1BMY0E2VmsxLWM5VzVvNE92S2hYYzh6eE9zVUZwWDR2WE95M0MxcmZHZjVTMW9rNXdzaFVGd2M1TTZWZWRtelBETnNBcHIwaWpubEg1M1BFX05KR1U2RmJfUTVRSlQ5WW05VUcwT2l2ekVUZWpBMDhlbkNGWDdFNDkxYWZLelBoTEp6azA0MHYxVE0zWG04ZzBvZTN6dWpXUDVtcUVaMA?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1NWNXWDJUWkpZbXNtUUlaMnZCQWFMUFdMZ2QxZ3BvOXlJb3pINzNiaDZ2akZWMmRINExULVo2aWFOc25zVks1Wk9nV25UbXJ5ZUwydVB6R2Nxb0hkTEVGVTN4ZDFJTmFtOEs4eDRYd085bEZwQ3Vv?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbXptODBmSkQ4WWZZRDhLM1UtQnA4RGtZMVlwaW9QRE5sRmt2bnI3cFhJTG5Rd3daQzlkZGc1R3BSME1hM2lKTWNZMWZ6SW9NSTVKd2JtclFCUllzU3Z2Sk4wcHNQcnVEaTJpOTdSWUlSVGZpNFp5VGtHNlMtWEVFTE0zTXExUU1uSDRFWktYVHM0MER2dUVER1dWbjA3MmlvcDdndHdTOEJ4VVQ2VmVKNGFNSG5HQjFXaXJVTA?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13SnMxbTJxWFBGUlRkVWhoelh6SDlRRTRiWnpkVTRVNHYxdWpnUlp5a1IxbXNQZTktQVl1NHpFblJQSk4zcDZUUjByQXRIQzFZdmU2aEtkUzRGZ054X3c?oc=5"
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13SnMxbTJxWFBGUlRkVWhoelh6SDlRRTRiWnpkVTRVNHYxdWpnUlp5a1IxbXNQZTktQVl1NHpFblJQSk4zcDZUUjByQXRIQzFZdmU2aEtkUzRGZ054X3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wZk5HUHFaNjBpckllV3FQYVYteVBUODRJeDB5UlpzVFlMOS1aSDdJUkZwT0Q2VU5mUEdyR2tPcUp1SU05OEtpVGVUM2RINk4tSi04S29tR25fSnBDb19SQnN3?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MZFlfSXlSNks3ZzNrMDZNX3R3WWZvRFA4Z2g1V0FFSmw2XzlJdDdWUTc0VngxanFnVVh4N3pRSjVWU1ROQzVUWlMtSVM1UGRjTVFoOUFDOGdLY1NkbjJ1ZEdB?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Gc3J5aUpaZU80MVZ6dm5KR3A4NEdORHFoNVFjYTRHMGU5SmNpdkFwaDNNbUdEbmdoWUNFQUx4YTVJM0oydDFVeEFPSVg0RFA0WlVfaXJwT0V5c0hhaHRpTFVMQ0FlREdHNjFndmRnRkdOME50?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHVhMWtyeGdrdzYtS09IT09KRHhaZ0JlWkpNcWdfcXQtR2dZR09rV05DWHlhQ1lHQ013MmlvNnFKMEd3Y2RDZEZERmNJMHNCOV8zWVlsUTM4V0YwM2F1ejAxSk16SVVTN2gzdmxfV2hvYXpJbkVIcHJGVjAyaHhRamFLUmhYV3NZME04NE5xdEkxbFlZNnJKSEJLNlNqRHFHYkZza0lJQVR5dFpYT3JIbU5ZX0dMUjlwZmt4ejBhdzdVTHJtRkN3MjhYY9IB0wFBVV95cUxNb0NHQ0cwNXF5ZnZya2VmekQtSjFrS1pEdUZaOGdueEl1aEpvWUZzS01jQTYzSFFIeDZLYTNicFYtVkZWbml0dVJiRXVZb243clJIZVpBb1J6a29meUdBTElobEpZMXJmcHdFLUI1ZW5YWXBOX1d0b0FBYXA0anY1NFZidFFHUHg2Z283ejNhM1lDVzdLcmROcWIxbjF6ZldkNURhSEN4T0hxa3Boa0lHQjBneDZuZFpwSjJvMkFYOXp6WGhnSDhXc0RhMUZuSU96TXpV?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZWQzWTROaF9ZQV80T0U2UzQ4bGIyMXJhRGxwMnRwZldHTENQTnkzWXVUZks3UEs0UzVNbV9yS2RQM1VhWVNBRVY5enR2SUJLZXhXTVg0bm9qdS1BdW9UUnk1YU5ub1E2SUZNSk9VV250SHNqR1hzbXBhdHdoVGdoRTJSTFNrdUV1RjhtLVQ2X256cWpmUGowMFVRWC1KTFnSAaQBQVVfeXFMUHBHLU1BTEZzd1BIMVBoU2FqRFpUbmVfdGZLYnQ1My1aMTVmZFI1cGRpdDVRRE42Zl9Ud3BJWi1pT0xOdVdqN09ZdXA2YlBtdXlielNQYTdHVlRNaU05MXZZUXp0NnZ2MlRmVFd6OVNmbjJRRnFJV0FSUXdMcy1PMFk5S3FzVXFBZnRWQW8wN0xTQUE1MENDTnZJalFVRTR1cm9LVzI?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzJaMXd6aWpoY2FaUWtZYjlpdFFkNnAtczd2M3BqQTkzWW1sd2ZXTkNtSmItbWRhM01jSXlpX19xQ0NUREpldkhDTkhPVzZ0dGNienNkNDZvM052TkFkdnk5QUY0Smw3RG9SbExLVm52cFBjWnQ2Q3RJT0dqRW1Xdzl1Q3hiam51T09jNDhQVV9ya0FraTV2SjBn0gFXQVVfeXFMTlNlYVVsb0Fnbzk3cXUwQzluakxycG0wTkdUZjg0clJUZXNDeWJjWldkeHJyc1NjTVI5bkY1VlVYYkpZM1NjOVBKRllsUUw3SzEyM0QwMy0w?oc=5",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NbTRRV0taWkNydjMzaVZ2SC1nc0RBeXdoTzl0RXhZeVhFaERaYXBwcWRHQWdYSFlmT05sV0dpVGhGZ1U5S284NWduZk56MHMyMlJXZWxPQUo?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFhkeFgwQXQtSk1JcVpUQWZ6LTdWNGZuQXI5aU43ZDY3ekdteHlFdWlKeG1kUVRNa2dNenpjMHNEN2JkemU0UHAtR2RCRjlhd2pTQ0J6LWxhOU1tN3ZkUEFTa3NQbXVxQ2UwOFVoOHN5YWNuRFp0SUNMemp4ZFZ1ZjUwZmx0YUtvZG9WdXVPVlFKdXpRYjVFYXNVQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE0td2dtdUhCa3JOa1lVeVF0T2JuaG85UkJTMlc2MzBKZGdvTVZtWnF5b0piNGVNY2VIQ1dZVVI4bUc5a09Penh5WXlGSENqWnEwYWROZWhyOGtUY2lzSm5KU2djem1FNV9MTU54UDF0X2xGakhMSUxsRGxSVTM?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVllJR3RQaTR3Wk0wZklOcmE0d2JZZHdsOWJtVFZWTzBSbkNrcnh5ZUxZSTh0Y2xjLVZGWC02Nl92TElnMXFQa1JDSndONUFhQi01YkpRcktyTGZNVmZsTDNjejJQZDhpZzJEQnNjWVJEelhRMF9xcXo3aGRGZlpFVkVubEVGc05Jc0dRSTRUNUNVMFd1SmczZjZBSWdHdlhiRmlkWEw2ckt6OVhC?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHZBdlhsWFhQWWhhMkc1Q0Jhd2lKcnNRc0ZlZDJ2ZmVWNEFPLXZkT2o4NUJqQkVRNnFiVDE2eWZJbU5kT1NISFFqcmpBT2FITzF2ZlJubC11M051TzBqSGE1R1BYeXEzTldfWlBKTkxtenMtSmh6ZDg1Uk1BYl9ERF9ZT0N2dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHA1R2lVdi1yVlcxd2wyRE9uNm5QWk9PQzMtbGNXT25XWWQtUmlzbURDMlVJZWFNbkp4aHdZMjVnWjJwOE9hWjNpeUZNelIwRnNiWUtaQ3JEZ0VUTWdIRDJLS2ZBYVZiYmpSYnJ6dk15NDQyc1pJRVZ3Z1B4dV9hS3hTeERmRGVnQ2EydlNGeXhveGZUcEdxa09VQU1kNWtTWXRaYmIyYjQyZw?oc=5",
+    "https://pley.gg/cs2/furia-bring-a-2-million-year-to-iem-beijing/",
+    "https://pley.gg/cs2/dem0n-overtakes-donk-as-faceits-highest-rated-player/",
+    "https://pley.gg/valorant/kru-blaze-avenge-sr-gold-to-reach-game-changers-final/",
+    "https://pley.gg/cs2/europes-last-major-places-hinge-on-moscow-and-buenos-aires/"
   ],
   "title_hashes": [
-    "b7d90e8d5bf05a64c77c377846b11499",
-    "1b9fe7bdca8724a81532b50d6978b8c9",
-    "1ed86e78f743849fde57279dac2dc7d9",
-    "e40b26e27357d83f3dce354897987438",
-    "e969339d8d9a7df9c746623da860d8dc",
-    "4a7997e43e16cc0fac8612b6fa5ab351",
-    "4ca2b8237a1bdbeb72c684928e0478f3",
-    "fde162c7734ececde5a771d77f3594d0",
-    "f8462c35c2cce113155d6d30a24f0fb7",
-    "cc90771a79a71743a5cc68acbcb610f7",
-    "33796035a517fd702f89aa371331eeac",
-    "547e614a475a1eddf100e7639a9088fe",
-    "77f3ba00484f5d0d9b95bfaf668360f9",
-    "41f78ca2910e2e8d0962b8aaf1256515",
     "d24b806fd65b44b9c3c1ac3ced627a9b",
     "1c336174b9a859374395de7f226b5e0a",
     "1fed1a8c2c6f43b88136b2daca679a27",
@@ -16001,7 +15987,21 @@
     "e2b4ac2b662252d216732ac0ee2f330d",
     "9ebb2c3679872709c74c7c63ebf1d6a5",
     "75d9757f4ed484d927da7d6297642a05",
-    "b8b8f25b69d1008a1630311e864ccc25"
+    "b8b8f25b69d1008a1630311e864ccc25",
+    "b68a343d91a7851d60464e8ab5bec1c4",
+    "86d1a8b72bebd6fef133771832e2807c",
+    "c4950a32a5e110a87d53cc53cd46f6d8",
+    "70c266890a92fe9d3d62116996a7c5ef",
+    "1511dd7fbb2654f26c08b9556d69d332",
+    "0d7b47b8c40e6618bb4b54ec89983285",
+    "45fec0e0e352d0e53e6b6442eda53480",
+    "bdc67cb3695fde57f6e8e1ddcd3dc404",
+    "c68fc9d002186e6a0ef42f42a9bfb907",
+    "38d2ca16fdaf90f125add7b3e5c3aada",
+    "e9a9479739ab3d95cad77cc904379638",
+    "ece71c4115a5933d8b89f643b0596475",
+    "74c58bf70f85993b1706de89ad193888",
+    "c068c8d7a1932571142a050e3a9785db"
   ],
   "transfers": {
     "pages": {
@@ -20936,6 +20936,18 @@
     {
       "t": "2026 countries cup esports lol nations nbsp players rosters sheep",
       "ts": 1793543408.8086922
+    },
+    {
+      "t": "2 beijing bring furia iem million year",
+      "ts": 1793543413.990042
+    },
+    {
+      "t": "dem0n donk faceit highest overtakes",
+      "ts": 1793543417.39452
+    },
+    {
+      "t": "aires buenos europe hinge last major moscow places",
+      "ts": 1793543422.3782125
     }
   ]
 }
