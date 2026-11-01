@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3VlNKbXFLZVhZQk9uckJxSTYzTUNEOTRuWGc2UlpDUGx2Q2dwcW9WcFBUajJkR0tnMklULVdULWJDVzNqdXdERXRRanUyZVF3LU1nVkptVC1HWHl4NVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9INEhJOU9UWWp1Y2JsZ0dmQ1BlOEFybnRPRFdTcmNaN2VJZUI5UU9FT2NQZjFoS3M3blFIOVZ3N24tR19XTG9qS0hXVU5keE5wczV5Ykw1YmcwLUotSmE4LV9XUUlvbUhs?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xbm5nejEtV19rN1djbE92aDBDSEp1SVFZaThqdjFSTi1vdzF5Q1hwUlkxcWN1Vzl3NkYyRURCLVAydXhQSU9CemxWR0ZoY0J3UU5UMy1Gd3Q4RGF5SXp4aUxKU0h5Skx0?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFd4Z244LXBhQ0lBbkpzZFg3Y1ZjZ2FzRUp4SjBDbzVhZllYX0FiN2tiWUlKRWsxV3VjYzR3YXFoR1RzTEhQb1A2WjEtMjhyUzBvQk1VdGYyTFdWN3hmWFpZU0xxWVJwVTY3MFZrd1VsTV8tYzh4cDF1bkpieENfbFZYbk1oWC1nNzJRWHkwZjVsT3NjOGhkT095bmFfcmYzNktza0Z4eVJhbmNnYWlmVNIBWkFVX3lxTE1ZTTdVMmtXeW9CQ2M1T1dBUDM2TDZlTURsOXVZNjdXVmFzVE1OQ2JVaWtNWC10NWdXMjFtUHFNc2NzUkJjOVhOczNjQ0RHV3F5TzkwenlHeG5xZw?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTd5QTkxQkJJS0EwMm9Dak9McllLOFZ6eVlCLTRkNmdlR3E0MWNPbDdmRmdydUJvS1Y5cmw1ZGFqSUhtWFVIM3daZUJsYWIyem9zdERIY0lySjlPNnIwQXcybHB1OHpEYWxHdDk5NGhLNXgwRXBsMmtlcnB0LWp1S2tnZnBYaGlySjhrYjB30gFWQVVfeXFMUEJUaEo0aUpBdDZCLXVyU0EyeHhmRElSOFFYSkdTQU4wWHE0aVVYMmdZejNSTTBmZzhkZFlxSDFsN25NMk91R3JZNDYxb202b09lUEstTWc?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3hHdGJEOV9vaUNZWFVUMHhGUnhTMGk0VHM3T2lyQmJfYUMyck9WQ3B4elliM2IzRDRDcEM0eE1WeWVZck5Id0RYcHhwT0s4OUNkNWV2Nkg5OXptVE9iWmR1MFBoeE1vZjR1ZTIyaVdWaUNCMEJZZGRGSnNYdTVRV1lUMnY?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEw4aFVuM2JvRzM5eXFad19LaFhqT3haN0cwT0R6TjRqc2lWZW4zQVBDd3A3dS1qVWwwQWhpNEMwNW5rQXBCel8waFJkU1J2dDBLMWtRQUk1NE1zTFo1d1RoMk5WS1VSbnBQd3B5YWlybDQ0T2t4NVlkSjAxZ0YtV0pR?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE55WDg1Z0FHaDZQR2dMeUc1U1ZmWU54X0N4R2ZzZ3Mwa0dBbnJOd1A0aE1lVHRkbWtkYkJrS3ZrOGNnbGlRdHFhcjl0YjE5QzF0UkZRM2hBSlAta0lZVThOUWZlV08tbnpoeFpDMk0wR3BrakRaRWhn?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmF2M21XY3pPekg4dVd2cWt6Z05TSUJocjVYR01jMkUxY1JsV2lkMGIzM185c2JRVlk0eU5HWGh1eFpGYzk3WV95N2RJWUZLS3dWMzA2MFAxXzFxOGhEM3BJWGdLbG04cW9XN3NGOElOVDVwWU1yYk80TXVmUlpzSzhwam9UY3cyTEI2Wmt4U3g2ZjZjdDByN251MHBOR1VnZy1ScjBKek1DTFl0?oc=5",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOamRuejRwbGlrZ3BuMWRHbkVzdjJpU04ycU9MWEVzNHhOaXIyX25tWmtqWko1RklvWTlHcllTbGFrczVmSWZrUlEyTFMybUhxUUM0QmJpWVp0NEJyb3dKSmROY2dtMUZhYnByb3hxeVR1Y1Q5bjFsRlFfUEprRDczXzJzWTcyVk1maHFfSFZ4T013cUVxa1ZyQ1FTSnFPVGNLRkc4aVBTYXF6RnNkRnhUZG9LVTl4Wm5ScHRhaWk4aHo0YlVib2xpS0xFbFNURGRwakQyN213?oc=5",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/27991/even-a-fan-with-30000-hours-attended-fm27-managers-gather",
     "https://www.invenglobal.com/articles/27992/how-do-you-rate-fm26-fans-ask-fm27-developers",
     "https://www.invenglobal.com/articles/27990/from-ui-rollback-to-tactical-overhaul-how-fm27-reclaimed-its-core",
-    "https://www.invenglobal.com/articles/27989/pre-kessoku-band-and-starry-story-bocchi-the-rock-movie-to-be-released-in-2027"
+    "https://www.invenglobal.com/articles/27989/pre-kessoku-band-and-starry-story-bocchi-the-rock-movie-to-be-released-in-2027",
+    "https://www.invenglobal.com/articles/27988/final-battle-before-the-3rd-server-transfer-key-highlights-of-the-20th-castle-siege",
+    "https://insider-gaming.com/fallout-season-3-filming-wrap/",
+    "https://insider-gaming.com/gta-trailers-timeline-gta-6/",
+    "https://insider-gaming.com/genshin-impact-imaginarium-theater/",
+    "https://www.hltv.org/news/45878/jee-returns-to-tyloo-lineup-for-iem-beijing",
+    "https://www.hltv.org/news/45875/jboen-going-to-the-major-is-definitely-more-relaxing-now-we-dont-have-to-stress-about-the-points-anymore-but-we-still-need-to-win",
+    "https://www.hltv.org/news/45877/1win-take-moscow-cyber-games-title-in-huge-blow-to-hotus-major-hopes"
   ],
   "title_hashes": [
-    "8169caf71520b2ac0ef79c3e97d0d860",
-    "3910b9308bbb898efb07726a1f222737",
-    "a746dbd4624d07973aa83e0be94283c5",
-    "047b29353945307bd6059ae7aede0f2f",
-    "df3cc98a10698ee7618080435fd9b153",
-    "4dbecb670022061c4fb10f7c2299a519",
-    "0b9da79d24b79969282f6bc005312eb7",
     "38e926658a03acd0f471c74d83e045ac",
     "c41690f4de7c8f5f27d2233e92152fe5",
     "98e24e00c7ba3f1e91fc64f9924bc32b",
@@ -16001,7 +15994,14 @@
     "3946a9968ed7db3520e37787287f1452",
     "4b6cd72c2c286bf8ef61f80f1ff4796e",
     "bbbc351038371dfd453532af144191c6",
-    "0c02360523c2b4ff10754bf72516c7b2"
+    "0c02360523c2b4ff10754bf72516c7b2",
+    "1587c436be914e9281104f141cb664e9",
+    "3d83945de7c5e51d7e44ebb3899db874",
+    "bf8912ef35020506f1221e6986aeadaf",
+    "d8717a6ddded8e01c69ddce6a38c7468",
+    "f5eb71495c559f2dd7ccacded3314984",
+    "1f6b6cce951ebd6dfbb1be5652c89c88",
+    "24bd24af1fdbfbb338d1f401202ce0e1"
   ],
   "transfers": {
     "pages": {
@@ -20944,6 +20944,26 @@
     {
       "t": "1st 2 2027 adaptation anime aniplex announcement band been bocchi following has kessoku movie news pre released revealed rock season series special starry story teaser video",
       "ts": 1793559809.607852
+    },
+    {
+      "t": "1 20th 3rd ahead battle battles because before can castle diminish final heat highlights holding key lose november often place right server siege sig their took transfer while",
+      "ts": 1793559814.8409948
+    },
+    {
+      "t": "6 all auto content date developer every gameplay games grand gta has here list plenty post released rockstar showcased theft trailer trailers videos",
+      "ts": 1793559818.303059
+    },
+    {
+      "t": "after available awper beijing chinese four iem illness jee last lineup matches missing returns team through tyloo",
+      "ts": 1793559821.8372507
+    },
+    {
+      "t": "about anymore but definitely don faze going have jboen major make more most need now points relaxing return still stress their tier want win",
+      "ts": 1793559825.3363047
+    },
+    {
+      "t": "100 1win argentina blow cyber fnatic games hopes hotu huge major moscow nervously take thieves title watching will",
+      "ts": 1793559828.8171744
     }
   ]
 }
