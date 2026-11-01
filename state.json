@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jMXNYekhqTzRDNEowRDJHdEV2UE11RnRPbU15NHVTNkN6MWhMQUZIUm5JQTFkdFV3YUhRWTVSdEhfYzRKZzM1S2ZGMW1VUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVa3JYckRZX0NqSHV2cXFtMHVDMFgzeDc5RFlsSE0tNjdMOVJuLWVmZzUwVkFLS253Si04RHRtbmxEeUdCRV84REFqWHlYZlJld1g4?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FajBWUWdKLWJNSERuUmFSdVRvR1VxSERIX3RVcjh6c1B6amZnQjc2cFVvZVl1d0ExX3pEMXhqVGlaWmZnSmVFUU9GUGM?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xWlljVXBlRDhtdUtuM3A0UFpLLU45cmxXR0dDR0doX3lVVkJMY205WDhSZGxtNVdEV2t0ZEhWSFp5bDVLd0l1Q0lLSEw?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlX1FnNlk2RXRHN0tIVV8yd1pudlNmaktiR3p1eXJfdGJxVGkxVkZqVk9DSGw2N0stYTd0WFJPdm11SVpQS1NfbTY1U3o?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2bXprS3E5ZjFYRUpPTW5RaVZDR3lobXBaaU1pazJ1Tkc3MTJKR29JRERJWjF6UW1teTI4VEpveXdLQXRRNDh5RW5ZSE0?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3VlNKbXFLZVhZQk9uckJxSTYzTUNEOTRuWGc2UlpDUGx2Q2dwcW9WcFBUajJkR0tnMklULVdULWJDVzNqdXdERXRRanUyZVF3LU1nVkptVC1HWHl4NVE?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9INEhJOU9UWWp1Y2JsZ0dmQ1BlOEFybnRPRFdTcmNaN2VJZUI5UU9FT2NQZjFoS3M3blFIOVZ3N24tR19XTG9qS0hXVU5keE5wczV5Ykw1YmcwLUotSmE4LV9XUUlvbUhs?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xbm5nejEtV19rN1djbE92aDBDSEp1SVFZaThqdjFSTi1vdzF5Q1hwUlkxcWN1Vzl3NkYyRURCLVAydXhQSU9CemxWR0ZoY0J3UU5UMy1Gd3Q4RGF5SXp4aUxKU0h5Skx0?oc=5",
@@ -7999,15 +7993,15 @@
     "https://pley.gg/cs2/furia-bring-a-2-million-year-to-iem-beijing/",
     "https://pley.gg/cs2/dem0n-overtakes-donk-as-faceits-highest-rated-player/",
     "https://pley.gg/valorant/kru-blaze-avenge-sr-gold-to-reach-game-changers-final/",
-    "https://pley.gg/cs2/europes-last-major-places-hinge-on-moscow-and-buenos-aires/"
+    "https://pley.gg/cs2/europes-last-major-places-hinge-on-moscow-and-buenos-aires/",
+    "https://www.invenglobal.com/articles/27993/selaco-chapter-2-set-for-release-on-november-13",
+    "https://www.invenglobal.com/articles/27994/days-gone-developer-bend-studio-reportedly-working-on-third-person-co-op-title",
+    "https://www.invenglobal.com/articles/27991/even-a-fan-with-30000-hours-attended-fm27-managers-gather",
+    "https://www.invenglobal.com/articles/27992/how-do-you-rate-fm26-fans-ask-fm27-developers",
+    "https://www.invenglobal.com/articles/27990/from-ui-rollback-to-tactical-overhaul-how-fm27-reclaimed-its-core",
+    "https://www.invenglobal.com/articles/27989/pre-kessoku-band-and-starry-story-bocchi-the-rock-movie-to-be-released-in-2027"
   ],
   "title_hashes": [
-    "d24b806fd65b44b9c3c1ac3ced627a9b",
-    "1c336174b9a859374395de7f226b5e0a",
-    "1fed1a8c2c6f43b88136b2daca679a27",
-    "d590649f3fb9657cac5994edd3edf702",
-    "f1948a063911c181556b8caae051c7fc",
-    "30df53aa0b597792af4714603402f42d",
     "8169caf71520b2ac0ef79c3e97d0d860",
     "3910b9308bbb898efb07726a1f222737",
     "a746dbd4624d07973aa83e0be94283c5",
@@ -16001,7 +15995,13 @@
     "e9a9479739ab3d95cad77cc904379638",
     "ece71c4115a5933d8b89f643b0596475",
     "74c58bf70f85993b1706de89ad193888",
-    "c068c8d7a1932571142a050e3a9785db"
+    "c068c8d7a1932571142a050e3a9785db",
+    "445f08392c0b08076d1e50c34fec1894",
+    "78b4013f310553511ebf61d931494266",
+    "3946a9968ed7db3520e37787287f1452",
+    "4b6cd72c2c286bf8ef61f80f1ff4796e",
+    "bbbc351038371dfd453532af144191c6",
+    "0c02360523c2b4ff10754bf72516c7b2"
   ],
   "transfers": {
     "pages": {
@@ -20710,30 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "1 2 advances american before brazil cblol crisis defending defends dramatic dropped facing fought game hard heavily lcs los lyon major mounting north over overcame pride quarterfinals reach trailed win",
-      "ts": 1793484428.2919652
-    },
-    {
-      "t": "1st 2026 advance allen center championship credit day defeats europe event final held karmine kst lol mkoi morning quarterfinals stage survivor swiss texas union world worlds",
-      "ts": 1793484431.8775263
-    },
-    {
-      "t": "181 2 after algs before bracket clue dinos gaming got group groups haven how insider interview jfuture playoffs points post split stage topped",
-      "ts": 1793484435.3650942
-    },
-    {
-      "t": "000 250 all can down end familiar final grand marbles pairing pari predictions saw spirit streak take team teams these this tournament two universe will yandex",
-      "ts": 1793484438.8247771
-    },
-    {
-      "t": "bucharest finally gets his medal mvp yekindar",
-      "ts": 1793484442.5911446
-    },
-    {
-      "t": "2027 22 all counts deadline event fifth invites missed one open out pgl places qualifier schengen september set tier visa vrs withdrawal without",
-      "ts": 1793484447.498641
-    },
-    {
       "t": "1 2026 allen blg center championship concluded credit draw event held kst lol matches matchup more november officially quarterfinal results stage swiss texas union world worlds",
       "ts": 1793495317.5807788
     },
@@ -20948,6 +20924,26 @@
     {
       "t": "aires buenos europe hinge last major moscow places",
       "ts": 1793543422.3782125
+    },
+    {
+      "t": "2027 according aiming bend days developer developing elements entertainment featuring game gone interactive new person recent reportedly reports reveal sony studio subsidiary third title working",
+      "ts": 1793559795.702589
+    },
+    {
+      "t": "000 30 accumulated around attended even fan fm27 football gather hours manager managers playtime revealed series that total",
+      "ts": 1793559799.23027
+    },
+    {
+      "t": "ask brought concrete developers fans fm26 fm27 football how longtime manager rate specific topics you",
+      "ts": 1793559802.6852713
+    },
+    {
+      "t": "chopsticks core customer every fm27 how its new overhaul reclaimed relearn restaurant rollback scratch tactical they time use visit wants",
+      "ts": 1793559806.1370428
+    },
+    {
+      "t": "1st 2 2027 adaptation anime aniplex announcement band been bocchi following has kessoku movie news pre released revealed rock season series special starry story teaser video",
+      "ts": 1793559809.607852
     }
   ]
 }
