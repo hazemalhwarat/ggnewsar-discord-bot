@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckVpOW10VDJqNzNKZGNuZ2RBc3QwWVFvMENudEJGUVFFOW5WNHZKaHp6Y2JWY0ltM0JaWUNIekEyZUxEN29VUS1nbTZCblRBZHdrR2RkRHJac3lmQkh1eGwyMVVSbE5FOEQ5Tl9CSlFKU3l4M0VkZS1KdXRjWE9oclgzZUFmQXJsZkpwOWM3MnBfdw?oc=5",
-    "https://europeangaming.eu/portal/interviews/2026/10/11/215726/gustaf-hagman-avanti-studios-interview/",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVEtemFMNDM2YzNNdVlIT2N3TURLdnNHUFZLbWYyaWJsaG1HZDZLakt5YVJJUEptZFpHQ21HNFVMbF94QWxidUhDMmZVT0VRLWQ2RW0ySldYZlRoYUc1ODhTSUdXSURlQjZNRGZYZkhiQVA2RVBMaWVfb240ZklrMjYzLUY1UTlsZUJhbA?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeF9XZUxYVFBxb2J0cUlpRVptUm1zTjhEc2I3LXZjZFRWLUdNeEhpUjlJaU1Cc04zRnBNdUY0V0VmYTlzLUR0c1NtODROeWk5NENJRVBYdm9IMnlqRlBYbmNyNG80aGtFNl9ieENXZkd1WDI2VVBac2JpeC11eUFTUDlsWUVDdw?oc=5",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFlkTUxpQ2hFQno4MTJPV3lpendzMFZvRU5TTHJIeTk0SXI1Y1FMUmNYdWl3RTRaOXd2cFBIV0ZVVmROR20xUmNObDJUYkRrb3pqT2RnMXVCMUtveUM0QTlLU0xoUGE2bExCTWp3MGVwWFc1Z3dNTjZZSXdDQmRROUZXbjFGRVJCSHdreFFHdVJreFY1aWdqM3VFOHREMUtQbTJmdzZWdjJrZFdva1o3Vk5vMGdGU0ZYOVBEZDViVWpFVlRZdlRMRHIxX1hKQm1u?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGNxbEQ4Qlg4OHVobm1XY1d6SXhJY0xjZVpHM1JUaHd0Z2hHd0Uza3YtMEZHV1htdzFwZnZBbk13SkdoSUdLM3o3Znk2ZGxSMUhoZ3pZX2JNR1Z3V2I2NFZOdUlPR1VIMUxEeDdEOTZZNkZJRGFKbjRZaGtRdnZ1Ylc3alp3MWNoTk8yMmFqZ0VwUDl2ejlOWmxVT0J2RlhrSjdXbk9veTdHWXpCc2lmeHRSSGNKbjBmTFNB?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3hXYTQwWW9GNjFUOUZIbF8tck8zZjlMcU14d0RueFJHUUV0X2xsSDRtd1MtMjd4T1E2bnZKNnRnRVNJM1dPWldXUzZKaDdfSV9uZDdmUk56M2NsS3F3eHBxSzFDaEt5VmRIeE9IM3REU1FQOTBLQTJTZTlSREdyaDA2SWd4RjRHTWE3d3gtaXNIb2JERVFLNXpRUUFaQXg1Tk5KeWNUY1p5YUp4aGlxREpCMA?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWphb3FYUzluUUhpOXRuclN2ZXdxb1l2RHl0a05aQzRPS2txVE1TM1JRQVBPNWJ2dHktbUtvcW1vSFVZX194Vkh6TUdwQ0dUeVlQbGxQZlljZWFDWVY0MVJOWEs3aGxYTGZkZzN0VEFEM3o3dng2NzRDSTAtcnlIaXhVTkNJRWRpSkVjMXpWZG9GOU5ITmpfTzZ5TTJwMVZ4ZXRySG9WMA?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFR5dzgtd0wwV3hzRkwycllaOGtudDBrZHVaeXhOV0l2cU1FRDktdmdiVTg2NHUtOTloVUpLblJoMGVTeURHcHVTVDNHRTROYTdveGI4aUNOU3B5azNZTlFWV3RWOG9OM0MxOGxJLVBPcXloeWlBQnl1S3JHN21sNnU0bDVQOWtzMUt3dHhfaw?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWUZVWjFib0VDOUhTdmhaUDZkZzlsUGp5NG5ZQTJOWTNsRVhqX2w1cm55WS1WQ0tsSXFpLW5UZzM1TzljSFp5Wmt0OXYxWGVEZ1hZcWdkU3ZJYXpHdW9yY1BUTzlGbTdqcGFZaHBMcHEyb0V5eHMzaFRTMThfVlNjOHM4OG5MdlJiYkJVNg?oc=5",
@@ -7999,16 +7992,16 @@
     "https://insider-gaming.com/stalzone-promo-codes-stalcraft-codes/",
     "https://esportsinsider.com/2026/11/d4v41-and-jinggg-leave-paper-rex-after-7th-8th-champions-finish-pacific-place-secure",
     "https://estnn.com/fortnite-treasure-hunters-season-release-date-one-piece/",
-    "https://thegamehaus.com/college-football/5-things-learned-from-college-football-week-9/2026/11/01/"
+    "https://thegamehaus.com/college-football/5-things-learned-from-college-football-week-9/2026/11/01/",
+    "https://thegamehaus.com/nfl-draft/nfl-draft-prospects-to-watch-in-college-football-week-9-recap/2026/10/31/",
+    "https://thegamehaus.com/cleveland-browns-injury-report-heading-into-week-8/2026/10/31/",
+    "https://thegamehaus.com/pittsburgh-steelers/pittsburgh-steelers-injury-report-heading-into-week-8/2026/10/31/",
+    "https://thegamehaus.com/college-basketball/college-basketball-picks-week-of-november-2/2026/10/31/",
+    "https://www.vlr.gg/782881/fut-esports-set-to-part-ways-with-xeus",
+    "https://www.vlr.gg/782879/al0rante-employed-by-joblife",
+    "https://www.nerfplz.com/2026/11/noxus-in-lol-10-things-lore-says-about.html"
   ],
   "title_hashes": [
-    "f33d98fa60dca1a76fc6b63a8dc5cacf",
-    "c439fc20570873e64ca7eac075ef8684",
-    "34577dcc4fc0c3ab25a3fe3e090f0849",
-    "3873ef0ad6dc55c0bf6a3bb0df407258",
-    "8d8ec5ad305be96ae4da052fbafe3586",
-    "8a3490269895f15a49b5eb49942142e1",
-    "ac60d44918d7aabbc589efc9a6209899",
     "6ee970acf85e21f19535dca2afb78952",
     "4c47381895f089b3b569bad228e6812e",
     "dbe9b8dc1c7a686e12634aa09837e184",
@@ -16001,7 +15994,14 @@
     "3c5cdb986947680666697a7e626516e0",
     "a2d67d8fca2c72e9723befecfa490e03",
     "deb66064d57cb26653e9176f2a7e1fcb",
-    "c2f7514b9042c4f4444f3f57a41f9585"
+    "c2f7514b9042c4f4444f3f57a41f9585",
+    "771c9566473cbefcf3c39e86725a53ed",
+    "8c5d9e482b672a5adf4648924e5a8818",
+    "31864eb2f94095c8a8fbae00334ef9e9",
+    "96910171bbdc2275b1176b4a6bbe71cf",
+    "c018f18fd7d5baffc724fcdca7f32fdc",
+    "0c4e3f9ecb6e91ffc055d3405d943672",
+    "450fae3f0ddeae8f249848a5375f7736"
   ],
   "transfers": {
     "pages": {
@@ -20856,6 +20856,26 @@
     {
       "t": "5 9 after away books can college every fans field football happened here learned related take things week what",
       "ts": 1793543332.7303352
+    },
+    {
+      "t": "2027 9 college different distance draft drafted each early far field football matchups nfl now off players presents prospects recap still this unique watch week while who will",
+      "ts": 1793543337.7557817
+    },
+    {
+      "t": "2026 8 8217 ball both browns cleveland dealt have heading injuries injury into let look looking nfl out report season short sides some take throughout week who",
+      "ts": 1793543341.2536705
+    },
+    {
+      "t": "after esports fut his out outfit part set turkish two way ways xeus years",
+      "ts": 1793543344.7162156
+    },
+    {
+      "t": "al0rante employed finds job joblife joining new non one strongest",
+      "ts": 1793543348.1564825
+    },
+    {
+      "t": "10 about actually calls empire everyone evil give including job knows lol lore nobody noxus ruler says ten things third who why will you",
+      "ts": 1793543351.6522872
     }
   ]
 }
