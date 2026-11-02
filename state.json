@@ -1,22 +1,5 @@
 {
   "urls": [
-    "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
-    "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
-    "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publication-giving-workers-a-voice-and-holding-power-to-account",
-    "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
-    "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
-    "https://europeangaming.eu/portal/press-releases/2026/10/12/215817/gaming-in-spain-2026-madrid-deposit-limits-election/",
-    "https://europeangaming.eu/portal/latest-news/2026/10/12/215810/betfred-2025-26-results-pre-tax-profit-turnover/",
-    "https://europeangaming.eu/portal/latest-news/2026/10/12/215803/greece-gambling-ggr-h1-2026/",
-    "https://europeangaming.eu/portal/latest-news/2026/10/12/215797/youtube-masthead-online-gambling-ads-google/",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE02UFpBT0gtdVQ3T2RkdUIwdVJ0UFFBOHVGRXQwem5Pd0pBcWlwQ0NnOUdjeWpjZGs1ZGJSM05lUENYbjJSSjJteVpxdHlMUVh4TWotendiMFhFbGRISkQ5NDdaUVg2c1FHNTc0?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEpWWE9EdVlYN3lLTURQMXEzeG9yOU1ya3RqYWZUX2tSUnBDeno3MmdobnJCSEp2S3ZaSHBkYm84S3RRNXF6SUVJZGJxRVpQM3NjM2txN1lreUNiVHlrSy1wZHFLTG9rNFd1OTFIV3VRNEJRd2Q3MTVJQnJzQnh1TllRbl9Gbm9aaWY0?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE00RnF2ZC0zS05wcV9zQUxIeEY1akRmLS13UkU5czNnREJ0ZXNTQ3RkZWhVQ2hzWThpeGxPN21aLTFWbmhlYURRX1c3eEl4SEtwWDZMZTF2SzFtYk1nVjlQbmFQZEQtU2tNU0pOSXlkaTE?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiZy1WR1NTWkVQMjB0V2RLMTBFX1VLRUYtZjFkQUk2bkJieUFUZ09SMTNDRGZsOUF0eTBjZ0J0bEp4cUZVTjBYTzZMcnE2ZTc2dm9TMjlwNmtiNmpkNExHd1hn?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0IxeVlUVUhxal9tQ09GTFZlanI4Q1pEclFHS0t6bWIxNWd0X2I5Z3BiWVJLdVRxTGwxbE5LTVJUajl5bUNhYTdyNFVUOW5BSXRkMmxZTWEwOFQ2ZkRMZEZ1UHQwcUU4ekhUUFlQU1NKQkVNVlZYU3BHUzc0bXlhVGV0VTRqbE53c295S3JsMldjamNl?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbjlabWR2cV9jZVZfRHZqYl91MmJfYTZJVjE4d1gwbzdIWEhlZ1p5ejNRUHlBR0dYMTNwMi1Gel9zc2JxaWdyT2VKRndoNzcwVG53VWtuTUxDM2FleE4zYXJPTm5DN245bkZCbFZJUVdlUF9taEpsVzJLbzNkWFAxQmEzdjdSMFZlNmhNdDdYNEM5S2FiS0NQX1d3OG5lb3pvTmllS1BQSkFxajg2dFdBb01sdTUtZWF6XzhmNW1pQzhhcWg1ZUVN?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45WUZLcl9STGxyZTJsTFg4M0RCVDNRb0pQQUJ3YXNxNFdubEFHTU9fY04xLVR6QzY0Yl92MFZManNjM3NsTlE?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWW1TMTRGal9lZlY1eThBeU1jbUNmRVNBeW9zOERESGY0U05UaFlrNFdMTVpxSWtqMnVNd0djRVRrUFRPZURrd3J4eENQWV9XbHBtSkRicnozU0laeGdwM1ljLXZnNEluOXNCMHFJbWdhQzBXUEZTZEIxYm8yN3hJQTJYdTVZRWRHak8wSFlPeVFuX2dzaTNGUG9RQ1JWTXNmZklseW4yaGE?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdE9mZXhlbmMxZk96VVJOZk8wcVNuS3NPcU1XNDhadTJlQmlydEVOOGNTaXAyTmJvcmtaN2llYndvX1BxNmQ5U1NzcjZXRmluT2c4YWhtZnhiZi1CVDdfTncwaV9ST092aFp3MlBrLXNNQV82MkhPM1hGdXhLNFdOSTEwTkJzX2dL?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVRIRl9aWEd2dmpHemJlRUtpeVhNbjFOU3hXeWJIY2VUUGZoaVJ3SVJyS2d0N29QdVJueGtkRWNDY3FQYU9NY2hYTzdNbjNUWTBhelhpbFlDQVFraGludWNQMlZUV1NhelBrMEVoQjVaWGdQRU5sbFF0cU1yZ2hMY21lRFdaSlVCX1UwVlFreUpDaEhfQ1llcHNPRDQ0Y0ZUZU43clp0MV9yY1BBM2c1ZEs3ejJhZ9IBWkFVX3lxTE5QcHpJZm51bEtHS1pfeXJpMGlPaU5jYmV0a0oyU1lyQU5MNUZHb2h2R2RlMFVTMngwaURmYnAzNUZaTEhXT1JmZEgyOE9mUC1vUTlVWVUzTUR3UQ?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOGFFZHlkWVhOVFlORVVBb19oeTR0c2Q4X09pR0VKM21DOXJKOWdWLXNPTEZSMndkXzdWWDk1VTdVQzFWdUtOTHdCWTA4NmlFekZxLUU5cG1LSHRZRzhLcG1BSVBSN1lnM2ZJLWQyb1I0WGI3WEhKbkI3S2V6V25GOHBoVjFSbE1MVl9WbA?oc=5",
@@ -7999,26 +7982,26 @@
     "https://pley.gg/valorant/meteor-and-tenten-set-to-join-qt-dig-for-vct-2027/",
     "https://pley.gg/apex-legends/liquid-claim-first-algs-lan-title-in-las-vegas/",
     "https://pley.gg/valorant/t1-part-ways-with-meteor-munchkin-dh-and-both-coaches/",
-    "https://pley.gg/cs2/iem-beijing-2026-day-one-results/"
+    "https://pley.gg/cs2/iem-beijing-2026-day-one-results/",
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQi1HTVBSZWpFNlM5dTR5T25kekZHM3RYbUZHZmlQNnlPVHcxMEo0b21ZbUsxeGRxMEpPSjg1UVNfLXB3TDJxMEk4N1NnQXlCZW96R3lCZzBuSE5lY3ZVeVhUMGFxZDFzSWNyOTU5czBzSTBzdDFGRlRTU3lXVEVPS3VRX3kzMGh1LVNVVkR1bFJqNUVBNy1hQWFqamFfQ1YwcDFRSWFyOC1KTFlFQzh0RUNHb0VBTjVJb1ZQWWVDbDJ4dFRsQVI3MTF3OVAxV0NOU015X2pheDBrR1NETWliajFTdkMxbVZVVW53aGV4SmRhY1BFT2k5SmEyMGc?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3JHWnlFdjdqeEZlbnlHcUZoV2lub3oxQWJSWXJqOE1KV0dxdXhRV01mVmNrbElGZjZ4bkVCLVdHNkpBSEhwS29wTlZDX2E3aWRYSU1lNWpSMW5seEhzY1o5NjN5S0dtcXE3NnAtOThBSkZBXzFrVGtFR0s3aDYyV0c3ZzVSbkJoRS1KNWF4b3FLODhiRXJmYTdn?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHQ0cU92RWp0b2VZZmtyU0lyQ1R4LWJUcjFvelJlOWphZl9QTXNQRDZPYWFMYXExTzV5RzBmdEQzdWxLTTlHNFZ1V0V1Ry1lSUQ2MHJjUHBVcjRjUXlVdG9uQnJVZl9xdnlZUlk3VXdmZ2o0T2dldzlvb3AtaXZOemlJSy1XWVBRb0NIY2YzVVVobll2RGo4QTJB?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVZDdFdIekMyQ0xqeWNQOEdFY1hEVnA2dm50Mjg4ZElDd1F6ekMxZG0yaUJJZXdYLVlRQ0JFTDVZSnpqaGJWTUlaNXRiQ3o0RnBobUF3a2VGeWg4U282SUI2UjBBZzlLSlBwRml2VUVaeXdPcVhmYm1lMVdCeWtvVTRhaWNhc3pKM3pnUTJ3em9oLUs2aDh0WTZwMEVlYUx3UVJwR0FjVjdhYmpMNlpwYw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFN0pMVElqOE9DaExCQVBOLWI0bm0yc1JmeGp3eGNoSnVWdFJ5TVZ6VUZ3LWhBdmhHWnRVVWRvUjk1U2JYOExuQlVFUWxMbklfZWpJY3BjVUFidmdfa3ZpV3dxbjFYRE9acmdaSg?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSDdDTmN5WEQzSmxTckNmZDhqWk9jSVB3Z0ZTQlBKZ2dyS3NfQndBTFJvemhWQlpHZTAtcFhXTDhMSG9USzhPc1lLaFBuUmZzeWpRSUVEa2dxVGlwSXhvZ1UwYTNJdnI0Mm5CSVFJQ2lQdUllZVc3N2kyclh1RFBUWl8yVkxpdmw0bmZhOE0wY2VTR0lZRmZYdFJFUzJoTzhLRUtrTmJoSW12TVFNNkRWcnNpSnQ2NVo2cThhX3U2OFlQOVJKMGphSDZGRWk?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDBqZ0dYN1ZoSEc4NUVDV1FDV2QyS1hDc19uem1TbXJQX2FEVE44TTloZDBmYjZrZWNyNG1OY0ZzU1VSVDBtaXQ1bWY3RGJ5RUJsWmprYzhFcmtSYzBVREd1OFBGRmJtWXNGZ1NSX2x4dUdvdDdqUDU2QnU1VFRaU3RKRm5VMVFaeE5lSm5PaV94LWg0aFY2OHI3Yy1rZnFKMXJVeQ?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPdGdJZkFzTndVeDNSQ0FfNEtyWEJyRmdiUFBJbklLczAzYUtqYUVHRXFfUmoxRG9EY0xCN3AzVG5IRExIZVBMU2ozc1hkRnVocy1vOVRHYXN3Y2pPSXVYYXhtX2p4SjMwQkxvcWo3c1BZbk9hZHJ6N1JaSGxJbWVTMHI0N3B2aGh5bDJUaGp5d0N3VTBrWmdCRVh0ZGpyQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3ZCSDRNelpxSnhBWUxvS2hmZGZvd293V21wZzMxdV8zZnR5R0RYcTZxMWsyUnl6N3E2MEVmaEo5M3Q2Z3Q0dXBtYllKV0FWTEdCWXk1cFdhTWV0R3NSSlFocFFMS1hka1c4U1ZwTXZ6R1J5b1VpZnlZZkhjWnhNekdMdUFVSjlJWVdadDFiOVl3TWxlRTVCSFhjSEU3U2lW?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDhpa25QbGZXdFhjbllPazZaRy02RU5rdGZVZ2tndEVnVUhPbUFfSFhCOF82LWFWVTZ0QTV6V2dsWllNMnVWTnBhUFBGMWJydm96bTgzRUVSdzRkdXN3aUxJODJrd19rcko3QWI0dFVpcHRVc0RxR1d5eThMT0pBUTNmTll0bGtDZHZWNElhNTNlSkRXSjVMX201NmZOZHVVV0dmWml3?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWJnOUNkZ3BNWUJYeEpTaU1IYldLVHlHUmFkX3psUU1pMl9nUUJIcllUb21Zd2dwRWlwM0JaMktaMmI5SURmaGgxVndKTUR4WTFQRXVTRTlWc1dKS0JFd0dZRnVVTTdWYVNfVVBocDg0UG81Y2JlVDY5dzVWVDlOV3dmdHNQRkNmLTZpUXBoY3J6aUItVy1IbHJrdGt0V0F3UmdmYWtsemo2a3BJaHhtSUVwbGR1Tmh3enNEYVBLbXp4VjVCMG5QYlkwRHloRzV0MTZ5eQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzdhYml0a3hTSU5LdERsRXp5dy0xOVM2NnBVUjRCMUVURm5VM1BNMWdIeU9kSEpQTEhBR2xkQTRBUlYteHA5NFd4QW0ya01vaURWNTBQeDBDdjZ1ZFVOM2Y3MGNRTUpoNDExLVU4QTVNRkpQcXlxaTRPZmtzWWwwNjZR?oc=5",
+    "https://europeangaming.eu/portal/latest-news/2026/11/02/217234/mga-recognition-notice-framework-consultation-outcome/",
+    "https://europeangaming.eu/portal/press-releases/2026/11/02/217251/imagine-live-gaming1-belgium-netherlands/",
+    "https://europeangaming.eu/portal/press-releases/2026/11/02/217218/wazdan-andrzej-hyla-eige-awards-2026/",
+    "https://europeangaming.eu/portal/press-releases/2026/11/02/217211/s-gaming-sweden-gambling-software-licence/",
+    "https://europeangaming.eu/portal/gambling-in-sweden/"
   ],
   "title_hashes": [
-    "3e03a8338a156edb90d11c47bba6a9c9",
-    "a5cb3fe29a1d2b1bb401b8bf218243c9",
-    "b766cdd077e2651fdc94663d5a0b811a",
-    "724ca79d1683c7d8aa8759cbfd2da0ad",
-    "aeba1f9f0eee1614122aefee93b37879",
-    "2f96649d2d44c56a94ce60dba63149f7",
-    "60497509673b3692607bf94cd7d4ba99",
-    "b173c3048fe427b908f0cdbb651c0544",
-    "e25bf14ad2db63e0460ff09d27910e6d",
-    "9f5949e8625ff6abe26072a305733ba2",
-    "ade55d2378740af6b7e9962f9517267e",
-    "3fca20eb5f28dd4cfa2f369d883d4f14",
-    "5b140c3153158720b45dae02db17640b",
-    "ecb35ece9e5ace36ff6c46986652bacc",
-    "7ae558b95294f1862b0c44feb95f27c0",
-    "6dfedbcea3d5abd001c22e0d69fd43de",
-    "2a9ca63ce09187c352cbe16cfd4695cd",
     "7567ebadfb1aff5023a9a8bac1db1381",
     "3a58ab9b29f7e0083f5e2a70001a909c",
     "b4f4839d3f47900d42b5f50a6e0d38c6",
@@ -16001,7 +15984,24 @@
     "eee9c06313890dc3c9a2f4bcfdff5d6c",
     "d4fac2bb4e5038354384c38c8c1cd503",
     "a78c4bd08c0103e7a040fbd56216083e",
-    "305ea8732334a25f79d11cbe0ca5c7b8"
+    "305ea8732334a25f79d11cbe0ca5c7b8",
+    "c6461713410ecf1f607a9b7cf73fa487",
+    "021670d9e726c733515720a47d99d454",
+    "345a9e831218957e9eb64096b2850a27",
+    "e19888142af5e5d63146feafff526f4d",
+    "a7ea127730f644cb30ffb87d9bd7ba0e",
+    "d08c94bf2f851babeea44d108bd74943",
+    "f6c1b5fdebe4c4cc8b8db07560bf5b81",
+    "48888d3b9794a61b469e9385c3dce50c",
+    "e019aa5dfb5f1e7055fc0de3f3ddb2ef",
+    "b02c7d5d97fe467815b4de26972adc4a",
+    "f939088244b9a8737ba60b8182526992",
+    "feca571a1341e640c9edcbb91920ee73",
+    "476d96715efd02b54a6ccd90ef202f67",
+    "d3fc2d3c9010f8ad870fd532577dfcd8",
+    "3c49e89e724c71c08c668c2a67d7740d",
+    "f388bb524653871f900c8efb91812ae7",
+    "ddd5f88d912f199cf27e65b0c38c019a"
   ],
   "transfers": {
     "pages": {
@@ -21228,6 +21228,26 @@
     {
       "t": "aurora beijing iem liquid opens rout",
       "ts": 1793647968.7369235
+    },
+    {
+      "t": "8230 acknowledged afte after authority b2b b2c consultation differently final framework gaming has holders industry malta narrows notice post recognition reforms regulator requirements some that treat will",
+      "ts": 1793647973.737515
+    },
+    {
+      "t": "8217 8230 belgium deal debut europe first footholds gaming1 gives imagine its licensed live more netherlands operator partners post regulated tightly two western",
+      "ts": 1793647977.179066
+    },
+    {
+      "t": "2026 8217 8230 andrzej awards best cco consecutive eige following gaming hyla igaming its leader marks mobile named post provider second title victory wazdan win year",
+      "ts": 1793647980.6966789
+    },
+    {
+      "t": "2023 8217 8230 b2b clears distribute enter force gaming its july licence mandatory mark market now permit post regime secures since spelinspektionen supplier sweden swedish",
+      "ts": 1793647984.101034
+    },
+    {
+      "t": "2026 8230 atg attract brand but casino customers gambling growth its leads market new post potential power spel strength svenska sweden trends",
+      "ts": 1793647987.5485222
     }
   ]
 }
