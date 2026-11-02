@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://pley.gg/cs2/vitality-overtake-navi-as-the-richest-team-in-counter-strike-history/",
-    "https://pley.gg/cs2/highest-rated-players-at-pro-league-season-24/",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1ZuR0FaTjhNQUx4OFNwYUlKZUlTcnY4MTFRY1JhR1hPWTczazU3WU1zckJBbXBQU1JTaXJUS2M2MThtVGtkSWVYcXR6WWZ4T0VkdGc3eVlhejNSVFVxRmtDeWpnZHM3WmhRMXRxblFIV0R1TkFEclV0LXRfVnUwWThXUlV1UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DQkJsUkRFMG1LaUgyeFotc21TUVpoZ0FwV20ya0RiaGNQdTJncVdZYlExV1pCVGp0RUNZR05iamRRbElzdGRVeXZfT21Nd3dCTDkzbF90NzkzcUsxc1NMeUhURnJZekxBbTB1OC1zOXRtVmVyd1BOYw?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FUGxpU3hOUE1PX2N4LXp4cUhHZHFJenlhZjNlSXRlSTdJTFhlc013cGh3dnd0QVlCVXpzZ2RfVDQzZ0hHOVdBZXlMelB5YmxsbXktcUNNLTFicnlpY3d6NFhIcmFFU3EwSTZoV1U0RlhIcTg?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1NpSnVpMVJtTFh5eGxJNXN6WFFPUUF6T0tsUnZzOVNRckthMlhzRmx6Y3dMTTBOZ0NXM1JwaGRsSXZNX05ZWVdtUV9XcXhaOU1HVzlaUUVuV2pQa0tSMGtiZ1J4M2ZzdWQ3MEpCQlJwd0plRXI1djYxN0JMWVotQWZ5dDBQOFV0?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2RRTjV6WW1LYXMxUUwwUS1rcS1HenpkbXB0bFlmcFZILUdidWhIdWd1MzRnM3BVNGp4eWFhRzhjNmxvM21hXzFIMjhPa2pCOVhmbXl5aHpNR1RlUzJyNFlqcmc2TE1adGV4V0E5UUlDTFRNRFBOb0lnOEllV3BSYU1ibV9KR2h2NWp5SlNTSzZ3SUVkWVdNeXBLVGI4UlVoUEFpdFBraFVyX05aS2pQdA?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM1lHWDJXSTMySUR2eVVxbmFKY181UlFNVnJaX1psWHpWLVJEcWZzWUhWNGhISFhxc1d3SFNpT0hxSEJuMC1BZUIzd3p3QnN6eVZCMkZnVFZwUDdQSzFmd3YzbUlZZE9iSFpkOWlpVllmMW5ka3dnNUdWWXZhbmZXZWVGX21ZR1A2VUVlZUw1VWMxN3BmbVlYYWs2a0QtU1NfRWdudGhGbC1pWV9FbWw5R0lBZF9Lb3ZTbmRaUkR4OVczUlhCLUhfMjl3?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTBJamItYlRlZHdaQWgzZVJwN2gwYTV5NTFTYmdsTEhwdDZ2TGhlUnNTa2RxX3c4cHpIV3d3dG5zSnVZUTRzWUFVUUlLMl92VHhlYmtNUVM3Z3hFTzNtMU9sZUJVQ0VmUWFHNzNSVUtRcWNVMTVONmFrNFhsSjJWQ21EcV9jTWplNzFhQXJMWUZLM2hJZWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaVEs3QTdONUx0QmRvWWlRM1NpblMxc2dqZmVXcVFwb2xsSDJWNjdmb0s5WWQ2LUxzS0VIMmIwbzJUYV9BWnVQUVdsNjhFTWtDaWJ3Rg?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcmRKem9fbVVZSGFwWTJkRERILURuOW10NzRJWnpwX0JHNl93bGoyb2FaWE1zdEpuNDdGRFZMTEtqcjdVN2lnSXBpMjlSYW9WcEJBZmxJdDV3MHJpb3dqd0JmcVM2Y3hMNF9WWGl5NzN6TzdCSmhyNkE5a0VjUFp3Y1JPWHlyZXZSdXZndg?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSlpNZkxYZ2tmTDl3VVRhMFlhdmRpQ3N4ZjFpT2FCQVJaYV9RWnhOLXhiVGt0T1FUaWdhSzFYVy1NNzZOX1NidkJSQ29OelMtNXRSaHh4VWZTQl9WbWlKZUVPWFplbk96TzB5bXhsa3dpVDNNSERQbFVhZ3c0NEdDZ19TRDFCN1pDWWhmd0p1TmxCak04cjdGX1Nwc0lKMG5HczlPLUFqWU5SN3h0Z3RISXpyOTF3bEFPcUVIRXhURnh5TlZLdEJ0ZE5R?oc=5",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejVZZFpINk1fMWRiT0hMME9SamM5LWlaX05BOGFVSGd5dzQyNHJKMXZrMEllcE5Yd1pjS2lGTHcyNTNUd01veUFVRGZQSUhrbVd3NjRIXzN3cERHSzVqdXN1eU5wNU9ZZEZ4empJZmd5M3FfczZXYXctS0o2bVFsMnNpOEZqMzl0TUdYUFdQWFEyaFg0aGx1ZEFLamdvYVJjQ0Q4RUVUck5pZ1BXOHU0VTNrTXVnRGFKMUl5TWd0RG9vdkp1WVFiYVBDTDZKWDlqZkE?oc=5",
@@ -7999,19 +7989,19 @@
     "https://gameriv.com/marathon-announces-vault-breaker-speed-challenge-with-exclusive-rewards-for-the-30-fastest-crews/",
     "https://g2g.news/online-gaming-laws/meity-moves-to-unblock-gamban-following-legal-challenge-and-regulatory-scrutiny/",
     "https://www.hotspawn.com/fortnite/news/fortnite-treasure-players",
-    "https://www.hotspawn.com/dota2/news/betboom-put-dota-2-division-on-hold-after-less-than-two-months-what-went-wrong"
+    "https://www.hotspawn.com/dota2/news/betboom-put-dota-2-division-on-hold-after-less-than-two-months-what-went-wrong",
+    "https://www.hotspawn.com/valorant/news/drg-nova-return-vct-china-2027",
+    "https://www.hotspawn.com/valorant/news/kru-blaze-game-changers-championship-2026",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE1qWkNieV9Edm1aMWtIdEQwemdUQkNTQzFPa1FzaWdXdDJIaUNKYzA2Vm1tSVFGMWlydWpQTE1ZR0FTVE9IRHA2RkdXV252RkpPbkVhclJlWVhKWUJTb0tsUnFoNnl2UFhWYTEwUnNBTFFqdw?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0FaeklNM3c4R1VVbWtic21Iak1VRTBCZDZxeVJWMElXVmhzMnpJVGlIcXRLT25FaUpzQXVaWEVNcmFpaW1mY1BIMGRtUUFYTmp1YUZMNDYzTmY2UUo0Z2VuNm9HYmNmOXVQQnV0dGVqbWppb3AzbmM4eU0yeDJReHBWTW5xdHJsNU9yV1pKUVduRV9laDZ0Sl8xS3B2Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tQVlFa1lfR1V0NUNYdWd5eEFWbTI0dEJydk1ldXNFTUVrelVFcS03MFg4TW8tSHM1cHVMVDhXRE1BbkJJdi1mMlRlNm5TRTdiOWZfQ0NJNm1aRXBwRnVVYnEyQ0tONTNwQmdDWWF4NlJMcUpaSkpr?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFoxdmhJVzk2Mk82WlZfRmdmYkx1dm9iT1lGbVhMdWZiaE5HR3BRWElwWm1tUThmNk52Q3lTWGtweXRYSXIzbVFpZ3Y3LWl3NnBHYWpqakZsZDBsRjI5YnhqcXZzUUFndkItWmFXdVBZTzRQc282aldYWHZTeWR0U2gwX2VxQ1M1ZDQyT2F5WWRhTWJuMzVjZDVoNDlCSlU?oc=5",
+    "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBCZmtzb1M1U3U4OEdfUC1hYlY5VUc1OUhudFBEeVQ2ZFY5TjBWWnFHZUlULTZGVVVvNnhCX0d5VU9oWUJxN3JN?oc=5",
+    "https://esportsradar.gg/khbp-signs-mou-with-jordan-esports-federation-to-support-esports-growth-in-jordan/",
+    "https://esportsradar.gg/dhl-expands-its-esports-recruitment-program-to-china/",
+    "https://esportsradar.gg/max-titanium-becomes-official-sponsor-of-louds-esports-and-football-squads/"
   ],
   "title_hashes": [
-    "17435517231c3618185c1d21db3ef0d7",
-    "42013322f7b0997550a76ce52d8a8624",
-    "52d0d07e4e795c017fb8af33ae59d657",
-    "6b8caaf66cab3871ad9b99f0b736df84",
-    "5980b87f581bdd6603ac0566007a7046",
-    "b2e55b77480c2f9401e15a5b54b48176",
-    "b2e615741fbdd1e333fbc4d540f9fc7f",
-    "3fad005335b8ba8624d9ca6ace7b6eff",
-    "cecc6d7c77a346fddcc7f7ed678c4a7c",
-    "e281e250ec4acd32717e19b89c369a79",
     "0eba17dd3b548ee56c8b5c6f81fe1bb4",
     "400ac85d576d0931fe1ceb25a5f7e255",
     "0112c57a8048508a440facb40837c981",
@@ -16001,7 +15991,17 @@
     "79351acba32fd92922878e66abab088b",
     "42b9774d92a0024fdaa46604b1327978",
     "2124e2ae9d67018c7075cab2ba1678b1",
-    "aac2943e454a422e9f9ed531f7e2219b"
+    "aac2943e454a422e9f9ed531f7e2219b",
+    "4abab723e7ac6a8738bc3afff51c5177",
+    "110c7db7c8304ff15ba2a4b3a96dd9a0",
+    "97797eeee8bdad0370b1a4d651f2e4d5",
+    "b69226e2da20c86ca8d825aa9ebbf522",
+    "38a4365e9394d281f213103b72e66d59",
+    "6f01cce9432e3f4df58b98710b5b9134",
+    "afbee0fc7fda9cefeac27fc86de763e2",
+    "fbada5681bcd60bd2a6d8854e89e821a",
+    "f4b2242d376f2596bbb2911525b361fe",
+    "9116a110230492052ae77d3351c0d369"
   ],
   "transfers": {
     "pages": {
@@ -21128,6 +21128,26 @@
     {
       "t": "2 after aren betboom camp decided disappointing division dota good has hold its less looking management months only organization pause put team than things too tournaments two unhappy went what wrong",
       "ts": 1793647872.245441
+    },
+    {
+      "t": "1 2 2027 8217 after china complete dragon drg earning esports field gaming guest neither nova partner qualifiers ranger return selected shanghai slots success team threshold two vct weeks won",
+      "ts": 1793647877.1553524
+    },
+    {
+      "t": "000 180 2 2026 3 beat blaze champions championship changers crowd finally first front game gentle krü latam mates paulo place prize são team valorant win world",
+      "ts": 1793647880.6082323
+    },
+    {
+      "t": "agreement business cooperate esports federation formal growth has how hussein jef jordan khbp king memorandum mou organisations out park sets signed signs support that two understanding will",
+      "ts": 1793647884.173059
+    },
+    {
+      "t": "based campaign china company dhl employees esl esports events expands extending faceit find gaming grou has hiring its logistics new partnership program programme recruitment run taken that uses",
+      "ts": 1793647888.0184755
+    },
+    {
+      "t": "announced becomes brazilian company competiti covers deal entertainment esports football has loud max most nutrition official organisation partnership sponsor sports squads supplement titanium",
+      "ts": 1793647891.5583284
     }
   ]
 }
