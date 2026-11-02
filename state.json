@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpRk5JZFEyRmZJeDFSZU5TZzNwSDk4M0pxRUlGN2paMGdqZEJiMFVndHc1by1GLTV3UXN0dTNOb1l1QXNub3ZwZnZLR09vU1hVRkRXNmp5WTU5V3VEc2dYMnpXLW1melJNZEY5NjJDVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVFJIalpzcE5GRnhsVVZuUzR4dmFFdXFMell5M0ljal9ZMWNwaEdqRjdNNzNodkxaOWRQRkxrTHhZRTRqc09nYmJPa0steGk5cFZCS2s0WnhWRzV6XzR4WF9fQW5CODFmTnJHazhvMWZ3dnNUMnZTemNETnVIcXQtclZNdDdtX2dEdGZVRmVKUTg5eWo0WVJCZDY4WVkxWFBfRllPWkRJZUtGdmxLZE5QZnNOQ3RBcVRONk42STFLUEJDMlY3cERuV2o5VVhZMzVWeHZaRGg5SWozU0otSWdiZllOc1phd3ZV0gHuAUFVX3lxTE9kRDVPaEJkZHR3bEFLRFM0STVIWUE5MXA5dmtLQ2h2NWwtTDRUblJfSTcxd241YVhwdjJkR0xWbmc2OWhvNFJNRVNpSmYxeXI4eTNXb2ZQN1ZXLTBKbmFGdUQzNjNnRTNNWTNvN21MVnprZkFoUW53X1lKZG5TcUJVbHdwMENBRk9RYlJTcjJFNzdkUjVDVXl5WWd5akpBVlljWklpOVV5ckQyeFZhYkUyc05OUDl2b0psbFlRYTlvWnlrcE04M2tVMklQSTAydFJFVjRpMTkxUFh6a0NhVFo4NlhpQmI3Z2JZc1dsdUE?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjB1VDJld2wzblNPdWN4bFlLcWZpemN1THRBVXBGM2FSLUk0Q0VtZlRPenBtUzdJY3Q5MFJFanI2Wi10UVc2TzBDREJaMkdldUxrbUZJZWFzX0N5S3BzQ3BqRDVsMUNkVkxjSVRFRklWeEhobUljeGJJY3ZMN0hiLWhxMlc2TGpnMGVNWVp0MHVjOFNfc1NIbUdjYnh0Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS0JYTFdpNmYtdDlJZWJtUVNwR0JhTG51MXB2dUNFNTR2VDVjMEpCNldWSi1KemlaeGp4TVZVMDBUd3ZRZExUTWhTa1kyUzFZcjJUcWp6X1plZHRrN2FSX3I3OWx0TTBzeV9VaFdXTmxhVFdwUDkwSHg5LXZaZDMtNHUzWkdXVU5TRmNV?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLUdpTE1DY2xieHh6Rk90R1cwdW5zMWpMd190cEVSbV9vOUpqVUx4MFU5QWJ0Uk5TWVFtNTdnWEY4Wm00VVB5VU9OQ2dRZTBHZmx2TXZBN1Jqb2R0UjQ5UF9jVnZDWGR5Nl85bjRITE9pbS13MlpfQ3ZmVlo4Vml6UlU5dFIyajV0WnFsNnEyQlNIOGM?oc=5",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFYxZTRUNTVWN1FFUUFTLXRzUWF6NC12UzdKNGxVSDBFYW00SXhRWS1kYkI4UDF0dUNBbHcxTE8yaFBPVS10NTVtd1Zfd2YtWTFJalNpZkNoZENEb0ZyemxZa29fSkxqY0Z4eWR0T3kycDVaRVd1YTVNd1Mta3RuTTFSSHhFbkIxN2tnaXEtR2Ria2RTX1FNRXJHWkFIb2tRQmF2X0xhamQ5TURmSVptS2JzbFFGQXRIMVd2eGxKQUFiQnpBakZKbW5tdw?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUVl2WGtnYXZBSFpOcXY1YjVOeDNkWmc4TDhLUjNXZzJmeDJUbHQ0N3E2Smptc01TQU1DeVo5NWFuZGF3OWdWY0k3azl3anBjemRTU0dJV21peTVBUk16d0w1aE9DSUt5Wnc2N2hoM1RfZW1VSjJteExXaVhOcWk5dTQ3bkVLZDZrNllSa0I1VTVzeGZoSHc?oc=5",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMkRNOXAzY3psOWp2TVQtdzBxcThla3JQRlYtTmhlZUt3MkxQck5lSVdob1JlVms5VGlFaGhHVVRwRVlGa0JGSXRqcjJhb01uUGJ2WGc2djg4WHlwdnRsZVN5WmVTUmhrNHVlSU1XcHl3Wnk4MnFPU0tGQm00MUJsbkdsVWlrYWVuUDFLbnllUkpaZGhNNW5uN1RyX044Nnl2UXR4MWJfUFkzZTduR1E5ZW9EYjNVU1o2Rm5LdzhwVkp2NDdmX3gwTA?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28056/schell-games-lays-off-around-40-of-staff-in-second-round-of-cuts",
     "https://www.invenglobal.com/articles/28055/koei-tecmo-rethinks-nobunagas-ambition-hishou-release-date-and-platforms",
     "https://www.invenglobal.com/articles/28054/silver-palace-sets-december-14th-global-launch-on-pc-ps5-and-mobile",
-    "https://www.invenglobal.com/articles/28053/the-mouth-is-faster-than-hands-glasses-that-type-200-words-a-minute-just-by-moving-your-mouth-silently"
+    "https://www.invenglobal.com/articles/28053/the-mouth-is-faster-than-hands-glasses-that-type-200-words-a-minute-just-by-moving-your-mouth-silently",
+    "https://www.invenglobal.com/articles/28052/the-people-deserve-to-have-their-ram-too-elon-musk-takes-aim-at-sam-altman",
+    "https://www.invenglobal.com/articles/28051/dhl-takes-esports-recruiting-drive-to-china-after-50000-job-applications",
+    "https://www.invenglobal.com/articles/28050/new-chubby-cheek-title-trickcal-fatima-teases-1st-cbt-recruitment-for-q1-2027",
+    "https://www.invenglobal.com/articles/28049/searching-the-legend-of-zelda-on-google-takes-you-back-to-1998",
+    "https://www.invenglobal.com/articles/28022/honkai-star-rail-to-release-version-47-update-on-november-11"
   ],
   "title_hashes": [
-    "3302dc8a8b6a1c3828c3604fd2198dc4",
-    "632b98693e0a81bca09cdc8a47554a6e",
-    "44038900a2f007ea55522b56038e11a0",
-    "4b82554f2821b1def0a55fa9c4e75685",
-    "72d43183fade57bbf5692ec4c41bd8da",
     "aa5c4081a0f44fbcb4dde2dfdb00037b",
     "b335b9169fd53563eaf504025bd5c3f4",
     "089f8e79ddba3e37305eb511ad96c971",
@@ -16001,7 +15996,12 @@
     "447a4d5228eaaf6b168c9a872cf48114",
     "55117623b96b6acb9923d3e5e9834041",
     "c9e3bf93199a7b7c6c00ded18294f3d5",
-    "af44ad4622d243df9145cca0759d11d6"
+    "af44ad4622d243df9145cca0759d11d6",
+    "0ea6f3919fade5de3c7401061ff304c7",
+    "b3cf276a8b455c3d6b944b4d833b1568",
+    "36e4524a40f5605f95e0f5f2ceaebe50",
+    "9c76767a632393fe1ed1ef3a861a2ef7",
+    "6c6241c4fe7ebaed57ed3f66d37a12ae"
   ],
   "transfers": {
     "pages": {
@@ -20988,6 +20988,26 @@
     {
       "t": "200 arrived can capable enter era exceeding faster glasses hands has input just minut minute mouth moving muscle per recognizing silently speeds startup subvocal text than that type typing unveiled where words you your",
       "ts": 1793647733.5878794
+    },
+    {
+      "t": "aim altman ceo characterized comments deserve elon has have inefficient made memory musk openai pcs people personal publicly ram sam satirized takes their too usage who",
+      "ts": 1793647738.6797504
+    },
+    {
+      "t": "000 2026 50 after applications beijing brought china debuting dhl drew drive efg esl esports extreme faceit giant group has iem intel its job logistics long masters more partner program push recruiting takes time",
+      "ts": 1793647742.2668931
+    },
+    {
+      "t": "1st 2 2027 alpha based build cbt cheek chubby collectible epid fatima games its new nov q1 recruitment released rpg teaser teases that title today trickcal unexpectedly upcoming video",
+      "ts": 1793647745.8086836
+    },
+    {
+      "t": "1998 ahead back bit brings google happens legend ocarina release search searching takes time what when you zelda",
+      "ts": 1793647749.266959
+    },
+    {
+      "t": "11 2 4 7 all announced honkai hoyoverse laughter lay november now rail release released star stars that titled update version will",
+      "ts": 1793647753.0739212
     }
   ]
 }
