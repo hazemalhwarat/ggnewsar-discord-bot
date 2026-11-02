@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdXZnNEdJU2c4ZjZqei1ucXFsZG5wYl80NWZ5X3JxVTFjN1FBMFd2WVdZVUR4QW81TnRKN2cxckY5aWVIRjUzLWxhbVROZGU5TXNNelBwZ3RDMHhDQ3BwYV9GMWhISmFZS0ZJSFhHbmJWV19UQnU2THNWZTVvNDVvb1hybU5sZ3dBSzUxSlhSU2hlRWM1d2ZRWTh3NWcwUFRGMTZLVF84UkxQSGtRbFZrdUQ4Sjl3N3BkZFloZG5KTks3ZHdvRGNIUDNjbFhsaXppWnIyd1lENnVkc2pPQ1M40gHkAUFVX3lxTE9udThlOThpZzRjN2RSTXJIYV9fSjdGd1M1SlZPTWRURi1VeVNEcVhZdGt0UXlqVW5jQVY0OGt4UnMxal96bVhLbDQ2cHFRWGlqNXJYc3pGMUR3RVI4OVFfbXY1RmJSNlMwMjg5N0VtaXktbURveDFCRVZmWGRseHJnWHhyVFFRa09BeGEzWmRLM2xQSW84YnFLR1REVVNiSER5MVExMERzRExRV29ETXluc1I4RjktM0xZMTFwZUd5MF9Oem1NdmJDeG00UnltY3hjd1YtdGZmVFFOWXpjUHlRWnVPVw?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOUhTaFd2V0UxeUdRSWROaXF5WlBYYUhuc2hqc1hkcjhPcTlsMndHN1BHemNGb2JwcFVrQ21DYTJfTm1jTVlsbUxrZG5uY0NBYWEyRVRORkdqeEg5MVBQMGh5OTg1VXZvRHZHMHlSdmJvTWNuRFJLWFpVYTRvYTJKQko4RjVCZkxCdXBfb3RURzhWVGhNVkZTWF9xUk8yY1ZNb0wtRms4MmkyNlB2NldlSEpqS2Vqc0tl?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zQUtHekxCTWZjdW9Edll4Y2RwelVTOW9reXJVNndJcEZXNnVZNjY0SjhoSTgtVEZsZWNIRzB6WmNwSTBZeEd2ZlNtWjRrMDRCMnI4QUdxYmZxZTViWEZSX3NXQzVrNnRJTkE?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTVlRTEd0SVFuRjFaRVJxM0NwdGdDV0ljMkJSWGVrWVBsX2VpN1ZlX09yaGFMbGV2YXRhQVZPMVVoX1pEaGNLMlZRM1BSR25TdDZkajBtYk1vb19YakJROHlkbEwtNDFvYU1RUFhIYTF1T0gtMVVLWTFHb0Z5SUE2T2lYVGVfeFl2cmsxMmMwYkQtZEpqanRLTUo2UTQ4SmM?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0h2VGtMaUZRUmJqejdDQjFvY3BpNmNZMGFPMUNHTjJKNnpIbHN2NTBWYmpsWlR5RkgyX3lnYUdveGNlbWc1OGI3U3h6Y0xHV1pKY3dXX3VZSU1ObHFtNUdzYTFjcHJPRUNzMGRObEJZS0FNY1J0MzhVb3MtTXYxN3B5T3VxaDJweXdCalpYSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWTd2aWZBcHRYVWhYRnEyQWJoZjg0clVfVUdMeHNhV2pLVDd6MTF0MkJBZW5ZNzdiakhRMHZnTXRleW12VTVYVzc0Tng4enN6eUF0TDdOZW9TMkRFMW1BRlo4cjdHVzQwTV9PRkMyc0dLRnU5UlFWdmkxTHBlZklEb2FnNXBXb3VEcklLX0g0Vk9HS0RVVkNZZE1UWS13ZDhLdHhoSDZpR2c3TGdsYmhPNndUbjRWbXdpRHJ3RXN5Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWVcxVk4zWEQycHhrbmxZN2RHSGhRN3ZDMVdIZjlES3lFTEk1UzRXWFl2dnE4NU9xNElJYzJFQlZJUWNtVnBFaEI5UlpGWVFaQVV3b0VDeEFlZ09mbDJqa3RFX3pFX0JkMkNTWVJWMkFEaW1jTHpIRzdJdjRHQkU?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUx5Y3dwT2dQRmFfMFdPOU4zT1luWHdFelJYemVyLTdXUGtucjh5TWwzN0k0R0NFNWo4WWdDWVNjdVFiamJvaUNqT0NzRTFJT3MzT2FkYVR3S3h5VW5BNzZGNC1jTFFaS0s5cEExdUpzSDRYeUNKYUE0TXdmaVd1ZXBpMHBxck05WFVPM1lJUXRkMTZ0SkE?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc09Zc1VGSE51cVlWVWNYZ1c5cmpHQW1PczJuLUYwdVkwNnBfR3RESVNFdlRQS0tmUER6bmgyb1RqR3ZJbWk5cHpaakVnWm9oMldScHU2TUlMU1I1Ulg0RmQyYTZrVC1NdWVyQUpxc2o3SjdCLVJENXFjYURwYnZQdlMzYmVndVU4V05VQXA1RU9XTU1GTUlVZ3J6cUZteHh5WmpaNm5qTzJMa0d4NzRMQTFnQTUzWFlOV2hxWg?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2V1dKbVhzN2s2alNwR0NiX0Z2R1pUdGhzZVpnN01GcnFfUF8zMGRZV1V0V2VVRG5yZ2k1eFZMVmtYSlV0S3lfbjVEaHR6N2d0cGJPeVpONjFtUjJZU1l3NVFVVGxTTXpSTHBrcWdNY1B0eDduVVdhdERaSQ?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc01pMkcxRE81X1NTbm53c0tBaXcwTUwxei1ST3hoRjktWWZzbWdIS2NwS0k3dV9OUUx6ZUdfOE5ITnM2cUUxWmFRaXF1T1VPNWw3OXJldF9TMHJXSEJnSjJ5eEQzbHBTWDdvOTZCMzRRTXBkWFRYa2IzMmFveVA5QU5hNGRneTJSOUU4Q0c0UmFuV2ZRU3hUSXBTdmhNZzU0cWNQVHBKOA?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcXVsWEM3OW91ek1RdjVlMWVRcFdrLUN3SHZvZnV1NW1kbnAyTzZuOG4zUFJzVVBvM2hpOVF5aGJudDh1eTJCNHJQN0VMLUdsclRZNENJLXBOQkR1aXJGNnhQYWtRczdja1VReEh3YWJKSkQwWTE1a0h4OXg2dkd3alhmMHZwdy1DcVU4OE9QYXdzQ1VjLW5LMW5ld3dVTDF3Y2hlUUZzUlBvUkMtUU5N?oc=5",
@@ -7999,17 +7990,18 @@
     "https://www.vlr.gg/783250/furia-steps-away-from-valorant",
     "https://www.vlr.gg/783226/kr-blaze-completes-lower-bracket-run-to-lift-first-ever-gcc",
     "https://www.hltv.org/news/45890/valve-release-major-deciding-november-vrs-update",
-    "https://www.hltv.org/news/45889/navi-send-falcons-to-lower-bracket-as-first-day-of-iem-beijing-comes-to-a-close"
+    "https://www.hltv.org/news/45889/navi-send-falcons-to-lower-bracket-as-first-day-of-iem-beijing-comes-to-a-close",
+    "https://www.hltv.org/news/45885/introducing-the-advanced-stats-tab",
+    "https://www.hltv.org/news/45886/dastan-i-worked-on-myself-not-to-show-a-bad-mood",
+    "https://www.hltv.org/news/45887/short-news-week-43",
+    "https://thegamehaus.com/college-football/5-potential-head-coach-candidates-for-the-florida-state-seminoles/2026/11/01/",
+    "https://thegamehaus.com/nfl-draft/nfl-draft-prospects-to-watch-in-college-football-week-10/2026/11/01/",
+    "https://thegamehaus.com/college-football/5-things-to-watch-in-college-football-week-10/2026/11/01/",
+    "https://thegamehaus.com/college-football/college-football-playoff-bracketology-november-1/2026/11/01/",
+    "https://insider-gaming.com/how-to-play-gta-6-early-xbox-new-zealand-trick/",
+    "https://insider-gaming.com/wordle-hints-answer-november-3-2026-1963/"
   ],
   "title_hashes": [
-    "e19888142af5e5d63146feafff526f4d",
-    "a7ea127730f644cb30ffb87d9bd7ba0e",
-    "d08c94bf2f851babeea44d108bd74943",
-    "2a53d3a2132b1ccbfc9f1a46305b29ba",
-    "26d92547b3ef9b06db85ecf8e1bf0614",
-    "63d35e58bd2b248a7d0135ae7526b766",
-    "c420556aefd1f67b9073944a83ce6c16",
-    "bf801e9dd0f3bf659942f4152b38a678",
     "df0f78a4cb59f4e3b075f700ccc2bc28",
     "7064cc653b7581639e750f9f9e1e024b",
     "f6c1b5fdebe4c4cc8b8db07560bf5b81",
@@ -16001,7 +15993,15 @@
     "124958f5f58abc1887ccf14f96fbb0e5",
     "3027aff5b711e5882078274b2184f9c3",
     "ee087b2004c61f57d2e0ae488d77f8a6",
-    "ec8dce30113c2d526a5ca67139065597"
+    "ec8dce30113c2d526a5ca67139065597",
+    "cd9b04ca973ede3bdf9529e68bc7fcbb",
+    "9e79f12f1f4dc42ae08a298c791b0ec5",
+    "149a9f932095de2aab1725116d870094",
+    "53a6f8ae07deaeb411eec2e63db4a024",
+    "4a5b1ed3a4e3a65e16b68bf640738de2",
+    "3e1f6a9402e9ce04571343e7f086e321",
+    "70659f0ade4517d3114d6b57093e8cb4",
+    "ee5ab31256702669cd615790ae794e46"
   ],
   "transfers": {
     "pages": {
@@ -21068,6 +21068,26 @@
     {
       "t": "beijing bracket close comes day face falcons faze first group iem karrigan led lower navi send squad stage will",
       "ts": 1793647812.7036958
+    },
+    {
+      "t": "advanced dig into introducing new one performance player power shop stats stop tab there users wishing",
+      "ts": 1793647818.1022933
+    },
+    {
+      "t": "after approach bad belgrade change dastan deep had mood myself need not says show talk that understood worked",
+      "ts": 1793647821.581649
+    },
+    {
+      "t": "1 39 41 5 9 after candidates coach decided fire florida had head here mike norvell over potential record seasons seminoles seven state week",
+      "ts": 1793647825.1063418
+    },
+    {
+      "t": "6 access all earliest early explained full get gta here how make new play possible post time trick use want works xbox you zealand zones",
+      "ts": 1793647828.7582462
+    },
+    {
+      "t": "1963 2026 3 answer game get help helpful hints need november post starting today wordle words",
+      "ts": 1793647832.2240307
     }
   ]
 }
