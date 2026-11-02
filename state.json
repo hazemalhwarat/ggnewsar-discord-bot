@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3JHWnlFdjdqeEZlbnlHcUZoV2lub3oxQWJSWXJqOE1KV0dxdXhRV01mVmNrbElGZjZ4bkVCLVdHNkpBSEhwS29wTlZDX2E3aWRYSU1lNWpSMW5seEhzY1o5NjN5S0dtcXE3NnAtOThBSkZBXzFrVGtFR0s3aDYyV0c3ZzVSbkJoRS1KNWF4b3FLODhiRXJmYTdn?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjBwSENPTWtkSUNWSE1ZdHVpdXJNZlF1SWdLY1VUUkowLVVwNm1UUlZGWnhnZ3pSRG9GemEzTDJjODhTcHAzS056WUZHMnJ3ZXE5UXFMVG9aSTdFNU5KNHFkUC1BeElQWFUtRkRRRFdqaWFuZDQxdzR0eHpiSDY1c05HRE5rNlk?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdy1iRWllWFpjUnpwbjRhVEU0ajRmZnpFaE04R0h1REtBQlMtZV9DN2VtWHNOWHdCRWRlaWd4SjM1Tmh5Vms0ODFuS250RGJtV2NIbG80OU5nWmFOTFZJWFc5X3czYmN5NUMtRVQ2dkJQaUpYeDc0UUs3R3F3V1lHY2ZDMmlXMXlGQV94NWlydmV1WElJNlRodVdZTDg1Nm5BZ3lHZXVYWEN2Yk91Vnk4RkE1Nm85TlU4TkFvbFdFSnFQczFFeU0xZXhn?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGRhRHZGd1g2NTFSbms3cEJBVzZ2X215MFJDUzlUTExpX2pTTVdGZ0V0cGlUSGxIN2MzRzZJSDNvSV9ENGdua1FtSFB2X01iZ1NzcjhhbUNNNUxpbmdLazJLek8wMnFSaWJtaVRPaDVKZERUR2pNbzB0REFxXzVHVXhESXVqQ0J0OXgyNWl0NGlZWFhaQ0dUeEprc1FlXzJRbERz?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2pBMkJyVGg3bG1DSzlFRDZCaE42akxBeF93X3d5ZENsWk4wTmxiUVhxcF8zRnEyUy1NRTVaQnRwVzZnODJpUW1MM01lcHVLRXRGRHlaT2xLRTcxWDgwemNKUjh3ZGt3WkRQTWRzWjlzWnUxeDlOMUpBN09Ub0Rhdmx6dzB0UGxLNDRGUDU0S3gtdXdqY1Y4MzRPTko1dw?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVZDdFdIekMyQ0xqeWNQOEdFY1hEVnA2dm50Mjg4ZElDd1F6ekMxZG0yaUJJZXdYLVlRQ0JFTDVZSnpqaGJWTUlaNXRiQ3o0RnBobUF3a2VGeWg4U282SUI2UjBBZzlLSlBwRml2VUVaeXdPcVhmYm1lMVdCeWtvVTRhaWNhc3pKM3pnUTJ3em9oLUs2aDh0WTZwMEVlYUx3UVJwR0FjVjdhYmpMNlpwYw?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFN0pMVElqOE9DaExCQVBOLWI0bm0yc1JmeGp3eGNoSnVWdFJ5TVZ6VUZ3LWhBdmhHWnRVVWRvUjk1U2JYOExuQlVFUWxMbklfZWpJY3BjVUFidmdfa3ZpV3dxbjFYRE9acmdaSg?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSDdDTmN5WEQzSmxTckNmZDhqWk9jSVB3Z0ZTQlBKZ2dyS3NfQndBTFJvemhWQlpHZTAtcFhXTDhMSG9USzhPc1lLaFBuUmZzeWpRSUVEa2dxVGlwSXhvZ1UwYTNJdnI0Mm5CSVFJQ2lQdUllZVc3N2kyclh1RFBUWl8yVkxpdmw0bmZhOE0wY2VTR0lZRmZYdFJFUzJoTzhLRUtrTmJoSW12TVFNNkRWcnNpSnQ2NVo2cThhX3U2OFlQOVJKMGphSDZGRWk?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE01bGh0N015Vkd6S1V6UFV2TmdwWDBPMDRFUVB5QXZYREI5NUw2Uld5djFadWdXQ2dWdkwtN0NzbWlhUmZtMERRYk5iMjY5MlcyY1RWcU1yVldyZjdmMlZqRXNpd3UxTHd4NGlRd21CYkRldw?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xQVdRVUNodENOblRQZjhaVkx4TThPTk16VktaNEdYR0Ywcnl1Wi1PNzE5Y3oyNmVoLUt5S1d3SnpIeUtVLS0ydmFyaE9DVWRSTTF3X21qaWV6YnJCSlh0SEJFZHFtTGs?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS3JyX0taZlVzZ0d3eFVLWHFsT1NjQktOQ1pCTTQwX1paZXJqV3MtWDFGVW11Y1BMS1VOSHZLQVBtSFdaWVlTNUN0cDlqMW40ZlZkb0JJbzJGWTRiWGxBLS1xQmxtay1iZWVyZVpxaUk5ZmNxQlRrdHRVM2RCUnRuMUZ6blRTVUFxa1daVzRSeHphQ001ZVh5WnNZbHJ3dkZ2bFVYY2dZUDk5WHVqbkNXUEF6cE01UQ?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/28045/sesisoft-opens-pre-registration-for-cheonsangbi-m2-on-november-2",
     "https://www.invenglobal.com/articles/28044/phantom-blade-zero-surpasses-4-million-copies-sold-in-72-hours",
     "https://www.invenglobal.com/articles/28043/arc-raiders-celebrates-1st-anniversary-with-6-billion-cumulative-rounds-played",
-    "https://www.invenglobal.com/articles/28042/nexons-nakwon-last-paradise-to-offer-distinct-pve-experience"
+    "https://www.invenglobal.com/articles/28042/nexons-nakwon-last-paradise-to-offer-distinct-pve-experience",
+    "https://www.invenglobal.com/articles/28041/archeage-chronicles-server-transfers-unavailable-during-early-access",
+    "https://www.invenglobal.com/articles/28040/geeks-2026-to-be-held-at-the-national-assembly-on-december-11",
+    "https://www.invenglobal.com/articles/28039/pikmin-4-nintendo-switch-2-edition-demo-released-save-data-transfer-supported",
+    "https://www.invenglobal.com/articles/28038/god-save-birmingham-unveils-second-beta-adds-multiplayer-and-save-features",
+    "https://www.invenglobal.com/articles/28037/puzzle-dragons-begins-second-collaboration-with-code-geass",
+    "https://www.invenglobal.com/articles/28035/sd-gundam-g-generation-eternal-launches-mobile-suit-gundam-eight-collaboration",
+    "https://www.invenglobal.com/articles/28036/with-all-guild-members-eclipse-the-awakening-launches-server-competition-preseason",
+    "https://www.invenglobal.com/articles/28034/kakao-games-to-live-stream-exilecon-2026-in-korean"
   ],
   "title_hashes": [
-    "0c269fc1e0f893e9f0c15e42da43568d",
-    "41824258d75c780ce6f3e746e6ea3b7d",
-    "3e2130735c10a40bcd2b746a68080280",
-    "ecb98079cfd5bb431c3dc72e4f2e02f8",
-    "f0c14674f558384f6c1a6b73f0a8995b",
-    "c750aa914f6695f0c8c33592d18ad20e",
-    "fd13025a417105a4b9621c92b7d8b656",
-    "6c566668c28ec194c15501eb11fbe207",
     "9ce6172066c6373160f980f04d929686",
     "9618dc6efb0c005b6b4719c2ee987e58",
     "07de6e311200a3ba225e6a3ae1e08af7",
@@ -16001,7 +15993,15 @@
     "f3ef151a0c32a18c6a3b72b6d359712d",
     "62f02768178fe87b971522ceee979be8",
     "d9d526624dae8483a232f425150520cd",
-    "3c905b901de6052f6eae24c126d55db2"
+    "3c905b901de6052f6eae24c126d55db2",
+    "662ab16974ce3cb38167ef342c0c1374",
+    "de5ed23fb4ba64092c5597e1f910d1de",
+    "4d8cbe20a246c40a364b9f1ff552d2a9",
+    "a4284a218df38189770cc85cd537ba17",
+    "80a87ecd488e6169123a4f6b49afb12f",
+    "6ec947fb2cfca972c5d6e7afe04da06c",
+    "68b66434face3ca1195ee06e902e24c3",
+    "b28ce99be1307eb8a0f695cf3d971442"
   ],
   "transfers": {
     "pages": {
@@ -20972,6 +20972,26 @@
     {
       "t": "addressing currently development direction distinct experience game has housing its last limits nakwon nexon offer paradise party plans progression pve revealed size survival syst upcoming zombie",
       "ts": 1793610300.8893833
+    },
+    {
+      "t": "00 10 11 2026 2nd 5 assembly december entertech exhibition floor game geeks hall held korea lobby members national place showcase special sports take will",
+      "ts": 1793610306.3647497
+    },
+    {
+      "t": "2 2nd 4 academy announced dandori data demo edition has its nintendo official pikmin released save supported switch that transfer website",
+      "ts": 1793610309.7775757
+    },
+    {
+      "t": "10 2 action amp begins code collaboration dragons event game geass gravity has its launched mobile neocyon november published puzzle runs second",
+      "ts": 1793610313.239057
+    },
+    {
+      "t": "2 announced bandai collaboration eight entertainment eternal event generation gundam holding inc launches mobile namco november suit that",
+      "ts": 1793610316.8009298
+    },
+    {
+      "t": "2 2026 7 announced broadcast corp exilecon games kakao key korean live november place presentations stream taking that updates will",
+      "ts": 1793610320.3719678
     }
   ]
 }
