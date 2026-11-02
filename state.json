@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3ZCSDRNelpxSnhBWUxvS2hmZGZvd293V21wZzMxdV8zZnR5R0RYcTZxMWsyUnl6N3E2MEVmaEo5M3Q2Z3Q0dXBtYllKV0FWTEdCWXk1cFdhTWV0R3NSSlFocFFMS1hka1c4U1ZwTXZ6R1J5b1VpZnlZZkhjWnhNekdMdUFVSjlJWVdadDFiOVl3TWxlRTVCSFhjSEU3U2lW?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDhpa25QbGZXdFhjbllPazZaRy02RU5rdGZVZ2tndEVnVUhPbUFfSFhCOF82LWFWVTZ0QTV6V2dsWllNMnVWTnBhUFBGMWJydm96bTgzRUVSdzRkdXN3aUxJODJrd19rcko3QWI0dFVpcHRVc0RxR1d5eThMT0pBUTNmTll0bGtDZHZWNElhNTNlSkRXSjVMX201NmZOZHVVV0dmWml3?oc=5",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWJnOUNkZ3BNWUJYeEpTaU1IYldLVHlHUmFkX3psUU1pMl9nUUJIcllUb21Zd2dwRWlwM0JaMktaMmI5SURmaGgxVndKTUR4WTFQRXVTRTlWc1dKS0JFd0dZRnVVTTdWYVNfVVBocDg0UG81Y2JlVDY5dzVWVDlOV3dmdHNQRkNmLTZpUXBoY3J6aUItVy1IbHJrdGt0V0F3UmdmYWtsemo2a3BJaHhtSUVwbGR1Tmh3enNEYVBLbXp4VjVCMG5QYlkwRHloRzV0MTZ5eQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzdhYml0a3hTSU5LdERsRXp5dy0xOVM2NnBVUjRCMUVURm5VM1BNMWdIeU9kSEpQTEhBR2xkQTRBUlYteHA5NFd4QW0ya01vaURWNTBQeDBDdjZ1ZFVOM2Y3MGNRTUpoNDExLVU4QTVNRkpQcXlxaTRPZmtzWWwwNjZR?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVlpJbXZxUHlRM211cWNuamdldk5GQ19vcjBZd0xicXpxVHo3eGFqTm1HTGJfTUc4Si1nSVRITmVaWUtXeWQ2QU80NVNZVnVxUDNQWWNpZldTSkJkT0RERUNobEx6VHlFMm9MRjNCTDRncDZpLXN4Y2RjVU5EcGtjUk9lSDhNcnRIZ0E?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSC1aYjUwSGh0VGZ3UUtza3JFbWNid2hGR3g3OGxzVDhQUGY0NGs0MDNUNnBWb1RoNTA5REtCWTlQNXh3QnBpZGN5S1BWSjI2ZlozM3c3czY2TlZud0ZXSUlZX0dPU1RmdTg5b1FtNWZLLThONExXLW9TazRzRE5EZ0t0eUxiTGgzU0o3aVlrdDRob3ZxelJkREJlVWZrd3NidmN2TEcxV0JIUDBEdUd0ZXlkNTFKckhORElGag?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVNiLTdhR0NfY1FLWUdtcUJhQy12aUp0OXI1X2RUTWZsSkZWdlF2eTc0NGxmLVI5b3RONFJaTjZISlozR0Y1YnNxRWZRbzU0OVFzNDZaZFpBYkUwby1yWEFXaHJLQ0xSdVVpOUc3eE9Cem9UOGxHU0NIejdKLVJ6bHBlR3RudzNxWXFPQ2RrMGhObHhmZlYxcEZKbFZSa0tid1F5WDNNZw?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE4zaUF6NVlsUkJpU3JOOU1KZEs4NldTOEtoR3NycTFXX1B1U19PSC1BSWMwUmlpV05Qc0JOeGt0MndIeTliMTJCMUVoOGE2QmJseDhta1Q3MHBJRlFCT3dRNWxRdnMzZ1I0dFhienRzRnFTQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Yd3czUXdfWDNTR0ZReGQzMzlwRk0tV1dtZng1Y0d1M3VkRVJfbzNzVS12a3JUanRIU1pUbi1BR1dPVDNsUC1PQUk5M013Sm1INzJOSmhlQmxmeGJnZGhRY09JSm9yemZPRkRZTlNXbURHZlRNWkNtejN3?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zZDJ3TkF5NmNXVXNwNE9iZkU1Q19rQWU5dDFVVEpiTUlwT1phdjBrdFFFUUVyZVc0d2hiX0haOHRGME9NeUVyQldxQWRZa1llWjV1S0ttbklpR285RGNYWEoxV3hpMU5xVGdNYWdyRk9vT2IxTXNQQ2hQZEpMdw?oc=5",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/28027/wei%C3%9F-schwarz-online-to-launch-in-march-2027",
     "https://www.invenglobal.com/articles/28025/seoill-wins-tft-apac-regional-finals",
     "https://www.invenglobal.com/articles/28023/benq-hosts-november-photo-review-event-for-monitors-and-mice",
-    "https://www.invenglobal.com/articles/28024/goddess-of-victory-nikke-celebrates-4th-anniversary-across-major-global-cities"
+    "https://www.invenglobal.com/articles/28024/goddess-of-victory-nikke-celebrates-4th-anniversary-across-major-global-cities",
+    "https://www.invenglobal.com/articles/28011/pearl-abyss-plunges-over-7-on-first-trading-day-following-crimson-desert-dlc-release",
+    "https://esportsinsider.com/2026/11/tyloos-lisbon-forfeit-dents-singapore-major-hopes-as-100-thieves-edge-out-fnatic",
+    "https://blog.counter-strike.net/2022/12/40703/",
+    "https://www.hltv.org/news/45884/flashie-jt-sees-the-game-very-similarly-to-me-so-that-guidance-is-now-there-it-wasnt-really-possible-to-get-to-that-point-before",
+    "https://www.hltv.org/news/45882/techno-it-almost-feels-like-we-are-playing-with-two-igls",
+    "https://www.hltv.org/news/45883/liquid-crush-aurora-in-iem-beijing-opener",
+    "https://www.hltv.org/news/45881/the-best-highlights-from-iem-beijing-group-stage"
   ],
   "title_hashes": [
-    "cea4bdbdf06f0672ea638e0094e6400e",
-    "cee17941331021b24b7e26b28d7f66c5",
-    "e7d0ea5468404404038df209f34c978b",
-    "3ce31558acdc9ab1c2470e1ab5189c95",
-    "cfe16e93b2e0f2c3094f61f8412b134e",
-    "8574f14d4c3baca791bec5950edac467",
-    "e62dfae020ff172563c4b1c29a3d2a3e",
     "603d461b2e03a05b7389c37613e81071",
     "232cc847933a665b1a907314e9af0dc1",
     "d13080a5eb606024058f45fee4aebf3e",
@@ -16001,7 +15994,14 @@
     "8dc524fa0fe75ae24aa9995b7560343a",
     "151df4ed042e0aa84a834053b70cc730",
     "5c2b9512a82c64afeb4a407a4733bbed",
-    "549595ef784f137a40724358b4d7afe6"
+    "549595ef784f137a40724358b4d7afe6",
+    "ead8628a9f1b86bc4b89a04ca8c7edbd",
+    "891d984d126e3f32473e2ab6da4be607",
+    "7bf8ab086443a4525638e830363ccb37",
+    "beb8efd5f7e06bab3d75dddf72e5e8d9",
+    "c40dc30e647a8d86cf6691ff85950a2f",
+    "36bf38ae3afbd6b181a97619cc839fe7",
+    "c27db1b9e17fdea8fc5eaa47539eac0a"
   ],
   "transfers": {
     "pages": {
@@ -21032,6 +21032,26 @@
     {
       "t": "2 4th across advertisements anniversary announced celebrate celebrates cities events global goddess has infinite launched level major nikke november offline outdoor that victory worldwide",
       "ts": 1793610358.7785838
+    },
+    {
+      "t": "100 13 2026 cs2 cutoff day dents doubt edge europe final fnatic forfeit has hopes hyperx invite last left lisbon major out pgl quarter retake season shut singapore their thieves tyloo withdrawal",
+      "ts": 1793610364.1005495
+    },
+    {
+      "t": "about before coach different flashie game get guidance had how ideas lineup liquid now page play point possible previous really same says sees similarly six team that there very wasn",
+      "ts": 1793610367.500817
+    },
+    {
+      "t": "ahead almost discussed feels igls influence like major mongolz need nin9 playing practice rifler singapore team techno two",
+      "ts": 1793610371.1126258
+    },
+    {
+      "t": "1 81 aurora beijing both crush elige iem liquid malbsmd moved one opener playoffs posted ratings win within",
+      "ts": 1793610374.5237942
+    },
+    {
+      "t": "beijing best china group highlights iem keep plays stage",
+      "ts": 1793610378.0052354
     }
   ]
 }
