@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQi1HTVBSZWpFNlM5dTR5T25kekZHM3RYbUZHZmlQNnlPVHcxMEo0b21ZbUsxeGRxMEpPSjg1UVNfLXB3TDJxMEk4N1NnQXlCZW96R3lCZzBuSE5lY3ZVeVhUMGFxZDFzSWNyOTU5czBzSTBzdDFGRlRTU3lXVEVPS3VRX3kzMGh1LVNVVkR1bFJqNUVBNy1hQWFqamFfQ1YwcDFRSWFyOC1KTFlFQzh0RUNHb0VBTjVJb1ZQWWVDbDJ4dFRsQVI3MTF3OVAxV0NOU015X2pheDBrR1NETWliajFTdkMxbVZVVW53aGV4SmRhY1BFT2k5SmEyMGc?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEliRkNLc0pOQ1ZRd05hd1puaU1xMWY4eVFtXzFLQldiS0JYQTFSaHI3c0ttYnE4Tzh6ODB5b09JWlZpNkFjS2Fwc1ZfRHFnLVlfa203SWduNGtSWkZkOFhXV1FDVFhGX05QVWdQcmdObzFNWHJwMFRxdmlsbHVXOGYxcTBNN0hiQ0V6SExDN1ZhM09kdENXYjFKd3N0UDR5UGt1bTk5M0FVQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMm84Ql9qY2k2WFFsN1Y1ZU5EbnBUY01IcDRoaW45bGFIMF9iTDNsOFZENVNyNTk5SlpWcjVQMWlWd1NuX25vY1Z5bWlZaVp1QmpRX3Q4OGJqZXhQZUZDQnpLaVlNbHVQaEo3QVlpMmU2Y3c4WHZDZFBYZ1QyTFd1VmhxT3ptcXhveVVtamkweTMxZmRVQ3dWYnlmOG9NeEp6eFBaN2M2aXbSAbABQVVfeXFMTUMxd0syMl9BTmJwU3JlTVJORlRIRUdmR0VWeGthVTFFQlkzSGROQ08tSHFQM2FvSE9uVDNKYnhxaVhLYXBYaUlnZHRSMHVDMUNZT2I2dUE5LWV2NWVLYndRQ0VHN0dGM0dRblBJMElxTFdULVpncW40RHF4QXAzQ3RaRXp0eFZzeG9LTW9CM19DMkpuM2JEUnAxVGYwNlM2ZHdKc29qb25DQm45Q1BobXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE44R1hjTFFfUlhiNHFfM3hHeW1qbWVRaGoycFkzeWI2X1ZqWWE1eEtFbXhvMGx3M1RtM25jYzhlRGMxU192OWgwbHozMnZGOXJIV1h4SmgzOU4zY3JEUk5ldnBPS2FOTkYtemRkRVZodmNtQTZROHZha0xn?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE41YUYyUUhLeU9LR2U3UzVCRk5TSHJQQWdVMDJ6cUg3dk1Ub0JneExkLVJ3MXhxc1lRNmQyR0RRUEdNcThHM2xiRnFnOV9LVXNJVzFnNjJ2QkNpbkM0cnF5SGtrSHNSWEVHZnB1eXJVcjVxSGc?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHQ0cU92RWp0b2VZZmtyU0lyQ1R4LWJUcjFvelJlOWphZl9QTXNQRDZPYWFMYXExTzV5RzBmdEQzdWxLTTlHNFZ1V0V1Ry1lSUQ2MHJjUHBVcjRjUXlVdG9uQnJVZl9xdnlZUlk3VXdmZ2o0T2dldzlvb3AtaXZOemlJSy1XWVBRb0NIY2YzVVVobll2RGo4QTJB?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3JHWnlFdjdqeEZlbnlHcUZoV2lub3oxQWJSWXJqOE1KV0dxdXhRV01mVmNrbElGZjZ4bkVCLVdHNkpBSEhwS29wTlZDX2E3aWRYSU1lNWpSMW5seEhzY1o5NjN5S0dtcXE3NnAtOThBSkZBXzFrVGtFR0s3aDYyV0c3ZzVSbkJoRS1KNWF4b3FLODhiRXJmYTdn?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjBwSENPTWtkSUNWSE1ZdHVpdXJNZlF1SWdLY1VUUkowLVVwNm1UUlZGWnhnZ3pSRG9GemEzTDJjODhTcHAzS056WUZHMnJ3ZXE5UXFMVG9aSTdFNU5KNHFkUC1BeElQWFUtRkRRRFdqaWFuZDQxdzR0eHpiSDY1c05HRE5rNlk?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdy1iRWllWFpjUnpwbjRhVEU0ajRmZnpFaE04R0h1REtBQlMtZV9DN2VtWHNOWHdCRWRlaWd4SjM1Tmh5Vms0ODFuS250RGJtV2NIbG80OU5nWmFOTFZJWFc5X3czYmN5NUMtRVQ2dkJQaUpYeDc0UUs3R3F3V1lHY2ZDMmlXMXlGQV94NWlydmV1WElJNlRodVdZTDg1Nm5BZ3lHZXVYWEN2Yk91Vnk4RkE1Nm85TlU4TkFvbFdFSnFQczFFeU0xZXhn?oc=5",
@@ -7999,15 +7993,15 @@
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWE13bmVQRTduSm9YQ1BXRDE2cWQ2bXN5TEhWRVFGOWlLRW1UbjN2cW13RU5KbExLcWh2N2hMcnVyWEFQWFRYNEJHeXFGSll4dDhudkVQUDNWY2o3RUFXWUJFMEFLRUNjcjZ5amZXVXlucjFzYndUNGhEd1UxbEpmNENOUnRQVTJsSlVBeUVqMTJBaTJRZU1RX3pHNW1JZmREUmJB?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUlUzRFBQTlZhVnhaRUlEU1BCSXlaeVVRaHEwMGhqMnFVcGxuOUJXcVFZNEVzT0doRS0zaHg0a0dkSkJjOWEya3o2dGpsaktPeU15Qy0yOFhwRkpyVm1hUVFsYWtrX09LSFFzRllwckFSNTctRmJOblpGcUh6TVZYcjlXRnFUWXBRcHpyYnIxeHdjSUFuajU0RXZ3?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOMFNWUGxNWWhhQjV4UHFpVWlWdUpNRmp1c3F6RVIwcnlPRDZxTHNqTmNteUY1RVZjVk1UZGZaNnpmSDBIWEZTSnpZMFVLT2tIZ01kSFZGYl9xVnh4ZGxzS2N0YU01TVZpQ3M2eUZlVjdoa2VEbzg3SWVSM3RCUHNmUlNmYjI4UGEzMDBEUmNKQ1dYZnRMRGpKeXNTVFVrUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV1REc0hQZHRlTEo3Tkota1RzUkJfUDNSVE9idFhySVdfTGFIc3lTcHZPWXN2ejVfcGVxSjB0bUd2U192LWc5SVZ0NFR3bTJpdTZVd216LURpRlluZVJ2M0pCclFINTR6Q0FtaGJJeUdIelBKOFEwU3JmWi1ueW5VV1JrbGdUZmc?oc=5"
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV1REc0hQZHRlTEo3Tkota1RzUkJfUDNSVE9idFhySVdfTGFIc3lTcHZPWXN2ejVfcGVxSjB0bUd2U192LWc5SVZ0NFR3bTJpdTZVd216LURpRlluZVJ2M0pCclFINTR6Q0FtaGJJeUdIelBKOFEwU3JmWi1ueW5VV1JrbGdUZmc?oc=5",
+    "https://www.invenglobal.com/articles/28048/hyrules-adventure-returns-to-switch-2-as-ocarina-of-time-arrives",
+    "https://www.invenglobal.com/articles/28046/level-68-light-appears-caltheon-3-takes-1st-in-nine-consumption-right-after-god-selection",
+    "https://www.invenglobal.com/articles/28045/sesisoft-opens-pre-registration-for-cheonsangbi-m2-on-november-2",
+    "https://www.invenglobal.com/articles/28044/phantom-blade-zero-surpasses-4-million-copies-sold-in-72-hours",
+    "https://www.invenglobal.com/articles/28043/arc-raiders-celebrates-1st-anniversary-with-6-billion-cumulative-rounds-played",
+    "https://www.invenglobal.com/articles/28042/nexons-nakwon-last-paradise-to-offer-distinct-pve-experience"
   ],
   "title_hashes": [
-    "afe36b524b1324ceac8e7791983047d3",
-    "a12a877546c815728106b4dafe5d33e3",
-    "fb5b2c9dd0e8c0ff7bbfd8ef974343ed",
-    "7654fe812170dccd6840d03676d55d05",
-    "ca5b71e68dd4f7e2ed5dec5c14fb0613",
-    "f43d2983f83fc2a9a71385d7fb4c7f74",
     "0c269fc1e0f893e9f0c15e42da43568d",
     "41824258d75c780ce6f3e746e6ea3b7d",
     "3e2130735c10a40bcd2b746a68080280",
@@ -16001,7 +15995,13 @@
     "78b5e95610cab14688d607e80ca43d75",
     "38ef939638c28ed7b3b91d7c198fc34e",
     "f73e465cc9377e793d6d7d6b117115ce",
-    "d66fb11f9ddbdb02179045d045d12ead"
+    "d66fb11f9ddbdb02179045d045d12ead",
+    "cf5eed4af4faeedd9d8288f20700eb2c",
+    "2a46f7d321e893f1e37ddff167c3145e",
+    "f3ef151a0c32a18c6a3b72b6d359712d",
+    "62f02768178fe87b971522ceee979be8",
+    "d9d526624dae8483a232f425150520cd",
+    "3c905b901de6052f6eae24c126d55db2"
   ],
   "transfers": {
     "pages": {
@@ -20710,158 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "1 4 ahead december globally hoyoverse its launches life livestream new nov petit planet preview release released simulation special title today",
-      "ts": 1793543280.2934318
-    },
-    {
-      "t": "added anthropic applies asking blocks changed claude click cloning code decline described even existing game games has instructions name one original recreate requests restriction",
-      "ts": 1793543283.8159418
-    },
-    {
-      "t": "allocation altman blame calls ceo consumers dram global inside keeping openai pcs personal perspective point quite ram reasonable said sam shifting supply terrible that",
-      "ts": 1793543287.3090725
-    },
-    {
-      "t": "1 30th anniversary collab day entry fueling has kicked leaked leaks off online persona remake revelations series speculation suspected teaser that video",
-      "ts": 1793543290.8455436
-    },
-    {
-      "t": "after attend beijing but choice cost event forced had have hyperx iem major may play retake signing that they tyloo withdraw zhoking",
-      "ts": 1793543294.402899
-    },
-    {
-      "t": "0 2 3rd after beat bronze bucharest continue final finish furia loss masters match mouz pgl place reading saturday semi spot swept taking their third vitality",
-      "ts": 1793543299.480874
-    },
-    {
-      "t": "2 8216 8217 brings but coming cozy december experience galactic get life little longer mobile month need next nintendo petit planet post sim switch wait you",
-      "ts": 1793543302.9168763
-    },
-    {
-      "t": "2026 all appeared coming enjoy first full game games here insi november pass plenty post spread there tier titles top xbox you",
-      "ts": 1793543306.4271014
-    },
-    {
-      "t": "8216 8217 appear asked battlestate buyanov fame game games has lead nikita players post separate standalone tarkov teased themed they want zombies",
-      "ts": 1793543309.860633
-    },
-    {
-      "t": "000 5 6 8216 according can could entirely gta has how made media millionaire not post save self social suggested that video viral wrong you",
-      "ts": 1793543313.4105556
-    },
-    {
-      "t": "all auto best break character characters down find grand gta here lead list main out post protagonist protagonists rank ranked theft them this which",
-      "ts": 1793543318.7072263
-    },
-    {
-      "t": "2026 arena but can challenging codes decent edge free game intense mech multiplayer november off offers post promo rewards some take you",
-      "ts": 1793543322.2086856
-    },
-    {
-      "t": "2026 arrives codes explained extra free heart here latest loot lootfest need november post promo stalcraft stalzone sweet that when you",
-      "ts": 1793543325.7247782
-    },
-    {
-      "t": "2026 7th 8th after captain champions d4v41 early exit finish has its jinggg leave masters organisation pacific paper parted partner place rebuild rex secure singapore toronto two vct winners",
-      "ts": 1793543329.170196
-    },
-    {
-      "t": "5 9 after away books can college every fans field football happened here learned related take things week what",
-      "ts": 1793543332.7303352
-    },
-    {
-      "t": "2027 9 college different distance draft drafted each early far field football matchups nfl now off players presents prospects recap still this unique watch week while who will",
-      "ts": 1793543337.7557817
-    },
-    {
-      "t": "2026 8 8217 ball both browns cleveland dealt have heading injuries injury into let look looking nfl out report season short sides some take throughout week who",
-      "ts": 1793543341.2536705
-    },
-    {
-      "t": "after esports fut his out outfit part set turkish two way ways xeus years",
-      "ts": 1793543344.7162156
-    },
-    {
-      "t": "al0rante employed finds job joblife joining new non one strongest",
-      "ts": 1793543348.1564825
-    },
-    {
-      "t": "10 about actually calls empire everyone evil give including job knows lol lore nobody noxus ruler says ten things third who why will you",
-      "ts": 1793543351.6522872
-    },
-    {
-      "t": "8220 8221 after alongside been confirmed d4v41 f0rsaken five had has jason jie jing jinggg khalish leaving pair paper release rex roster rusyaidee susanto that wang years",
-      "ts": 1793543356.6543272
-    },
-    {
-      "t": "000 180 2026 blaze bracket breezed championship changers face final first game gentle grand have home krü mates meet prize set taking through upper valorant who will winner",
-      "ts": 1793543360.0856261
-    },
-    {
-      "t": "8217 8220 8221 about after best big career champi fans finishing five fncs fortnite gatschelhofer global has health known mental most opened opens petrik struggles taylor third vic0 vico weeks year years",
-      "ts": 1793543363.5207133
-    },
-    {
-      "t": "0 1 2 2026 2027 3 back beat china earn esports final grand gue nova november organisation resentment second shanghai spot threshold unsettled vct week win winning",
-      "ts": 1793543366.9543796
-    },
-    {
-      "t": "13 after away best chinese forfeit forfeited hyperx major miss never one pgl played position quarter race retake season set side singapore strong their they three tyloo",
-      "ts": 1793543370.5459487
-    },
-    {
-      "t": "18 2026 233 82 ahead bgmi bmic book champions crowned cup dome finals finished giants grand indoor international korean match mumbai pmgc points redforce south spot stadium svp team win",
-      "ts": 1793543375.4689462
-    },
-    {
-      "t": "142 17 2026 3 3rd behind bgmi bmic chicken climbed cup dinner drx esports gladiators international into just match miramar pmgc points scoring storm they took top",
-      "ts": 1793543379.0725782
-    },
-    {
-      "t": "14 143 16 18 202 2026 24 2nd 3rd behind bgmi bmic chicken cup dinner drx erangel fall finishes gladiators international into match moved pmgc point points result scoring snatch spot them took",
-      "ts": 1793543382.7616024
-    },
-    {
-      "t": "117 13 15 2026 23 4th 6th 8 back bgmi bmic chicken cup dinner erangel esports finishes gladiators international lifted match now pmgc point points result roar scoring slot them took",
-      "ts": 1793543386.2152987
-    },
-    {
-      "t": "15th 2026 2027 after announced awards bgmi bmic cup edition goa held india international january krafton live mumbai right second stage will",
-      "ts": 1793543389.695895
-    },
-    {
-      "t": "14 2026 24 3 bgmi bmic chicken crash cup day dinner erangel event fight finishes fourth gladiators international join k9 match out outrage pmgc points push race redforce scoring team that their title took",
-      "ts": 1793543394.7422311
-    },
-    {
-      "t": "13 150 19 2026 36 9 bgmi bmic chicken clear cup dinner dplus eight finishes five international lead left match matches now out outrage overall points race redforce rondo table take team teams title won",
-      "ts": 1793543398.2245412
-    },
-    {
-      "t": "arena body british community esports events federation groups has host its launched launches let national new own programme sunderland that their use venue will",
-      "ts": 1793543401.663777
-    },
-    {
-      "t": "buhdeima championship esports fia jordannews libya mena mohamed named nbsp sixth winner www",
-      "ts": 1793543405.351579
-    },
-    {
-      "t": "2026 countries cup esports lol nations nbsp players rosters sheep",
-      "ts": 1793543408.8086922
-    },
-    {
-      "t": "2 beijing bring furia iem million year",
-      "ts": 1793543413.990042
-    },
-    {
-      "t": "dem0n donk faceit highest overtakes",
-      "ts": 1793543417.39452
-    },
-    {
-      "t": "aires buenos europe hinge last major moscow places",
-      "ts": 1793543422.3782125
-    },
-    {
       "t": "2027 according aiming bend days developer developing elements entertainment featuring game gone interactive new person recent reportedly reports reveal sony studio subsidiary third title working",
       "ts": 1793559795.702589
     },
@@ -21104,6 +20952,26 @@
     {
       "t": "esports kru m8 nbsp valorant",
       "ts": 1793584965.3184505
+    },
+    {
+      "t": "1 1world 2 2gta 3call 4the 6 adventure arrives duty forever game hyrule legend modern ocarina rankings returns switch time top warcraft warfare weekly zelda",
+      "ts": 1793610286.8991554
+    },
+    {
+      "t": "1st 3 31 68 after appears caltheon competition conclusion consume consumption enchant following god level light nine october restarted right saturday selection servers sol streamer takes",
+      "ts": 1793610290.643037
+    },
+    {
+      "t": "4 72 action blade copies days game has hours launch million phantom rpg sold surpassed surpasses three within wuxia zero",
+      "ts": 1793610294.0959024
+    },
+    {
+      "t": "1st 6 anniversary arc billion celebrates cumulative engagement first has have its mark played player raiders released revealing rounds stats surpassed that",
+      "ts": 1793610297.4665747
+    },
+    {
+      "t": "addressing currently development direction distinct experience game has housing its last limits nakwon nexon offer paradise party plans progression pve revealed size survival syst upcoming zombie",
+      "ts": 1793610300.8893833
     }
   ]
 }
