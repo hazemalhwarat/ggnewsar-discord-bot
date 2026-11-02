@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd2RzSVhQcUU5TTU4WGVuVVlWQUNOeHJfNkUtZ1MxQkFYdmhHRld4RU1ERzdDdXJ6Ull5TW5qTlVGWHJWNlpIaE5wVTByWWFFTmpURGRUMkdRUDlka3NhblBGX3F2bGxld2xBbEtMeDh3cVJMeE43QkRMRnFBdDdtUHItNW5sM000ZEdGcVU4cGxpdlg1dmNra0tLeDdwUEI1b192S0E1V3pIMGZ3LTNlVE05bWc5U3djWU9PU21B?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmxTcmw5NjRucjM2dGJCTGVMT2hwWUpiUXp4UURFU3JIWTluUzlsOG9xYWpjeXYtR01wLUd3XzhvQlh4d0pkTFpZQnI4ZkhJWVcxTTNfdUxMVVJVNFdhdV95UnFRcmpxbDBrNGtXbkdtbkJBU2hPM0lsUWZTSGRieG5uQ2JkNXhJ?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmdTaUJKMDVCazRLUTZnMmZSMXNjVi1LTmhvOVNSOGc3YUFqN2Q1UUp6Q3pJNzZWd0UzOUpnc2ZHNzBPbml5MUxJcGczSTdCLVBjR1dSZXdBc3g4MXh6Rkk2c1hnVXloNmgzMnVmZWNEb3RfeU5WeFRzU0JtUUpRcTFoMjFoQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KUmRYT0s0WGNvMlpqck4yR0ZWclo0QlcxYURQVEh6X1pKb2l1WDdRS18xYUhzUFk4UzZVeEJvVHFtTEk1TUpMR245LThlVjhWN0VHU2UtclhlYk42U3lTbjVVU2s1OFlnY3FGYUhB?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3ZzOFZMUWtSZm5BV3dfaDF2dVppQkRwaWhfVmNWeXg0M0FCbUdDbmNveHd2Mk01RVpCSVhVSXIxMXlVa19BZkIzNlhZTTRDYmNTcGtIc0xkX1UtRDV2UFpYenhaVEFIcUpwdE1DVEJqTEszSkx3MXd1eEpqRnBLN2dyQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR2o2WE5UUERYQ0V1VWRiOTVBem0tWHNfWFZvZzNEQ09EVlNhazBBXzJFcUk3S20xRkhIODRoMHFTd0RiUC1ReDVfQmFEN0RsMThTLUJKT1pxcnQyaDlxcHhOMndMb3YyT3dJMW9zcktGak85Ym5Wc3lnSUxQeXhycmpDNmtaeklqazljVHRpUmxFSVdoWTlpVF9vbU1RTlAyNFNUcEUzc3U?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpRk5JZFEyRmZJeDFSZU5TZzNwSDk4M0pxRUlGN2paMGdqZEJiMFVndHc1by1GLTV3UXN0dTNOb1l1QXNub3ZwZnZLR09vU1hVRkRXNmp5WTU5V3VEc2dYMnpXLW1melJNZEY5NjJDVQ?oc=5",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVFJIalpzcE5GRnhsVVZuUzR4dmFFdXFMell5M0ljal9ZMWNwaEdqRjdNNzNodkxaOWRQRkxrTHhZRTRqc09nYmJPa0steGk5cFZCS2s0WnhWRzV6XzR4WF9fQW5CODFmTnJHazhvMWZ3dnNUMnZTemNETnVIcXQtclZNdDdtX2dEdGZVRmVKUTg5eWo0WVJCZDY4WVkxWFBfRllPWkRJZUtGdmxLZE5QZnNOQ3RBcVRONk42STFLUEJDMlY3cERuV2o5VVhZMzVWeHZaRGg5SWozU0otSWdiZllOc1phd3ZV0gHuAUFVX3lxTE9kRDVPaEJkZHR3bEFLRFM0STVIWUE5MXA5dmtLQ2h2NWwtTDRUblJfSTcxd241YVhwdjJkR0xWbmc2OWhvNFJNRVNpSmYxeXI4eTNXb2ZQN1ZXLTBKbmFGdUQzNjNnRTNNWTNvN21MVnprZkFoUW53X1lKZG5TcUJVbHdwMENBRk9RYlJTcjJFNzdkUjVDVXl5WWd5akpBVlljWklpOVV5ckQyeFZhYkUyc05OUDl2b0psbFlRYTlvWnlrcE04M2tVMklQSTAydFJFVjRpMTkxUFh6a0NhVFo4NlhpQmI3Z2JZc1dsdUE?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjB1VDJld2wzblNPdWN4bFlLcWZpemN1THRBVXBGM2FSLUk0Q0VtZlRPenBtUzdJY3Q5MFJFanI2Wi10UVc2TzBDREJaMkdldUxrbUZJZWFzX0N5S3BzQ3BqRDVsMUNkVkxjSVRFRklWeEhobUljeGJJY3ZMN0hiLWhxMlc2TGpnMGVNWVp0MHVjOFNfc1NIbUdjYnh0Zw?oc=5",
@@ -7999,15 +7993,15 @@
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUh0LWhIX0NIMElFMTRjS3NZZkNQZzl2TU5MNE0yMFBwaEdiV0x3QktvTFJYSXhDY0VxOWNkUURkNDl6d3lPQnpFRllBbG54M3VHbldYbmstSFZselluSEMxMF9pSXdkd2JhaUNRTHZTSkFpM2k3b25PNWZZMVA5NXczNDIwdmk3cHN0dlZB?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS18wSjJSeXZZb1ZNRnFOXzZpaWJmTl8wQVdZZ19CZ3Z1bnlDTXFJTFlIYlRnbERxX1lJV0stcmNrZTM1YlFrV2lyTXVfbFY0dVVueDNMQU4yTm9KaUFyRUd1MDQ3Nkx3OG5hdkF5dVBTazZRU3V1ZXA3cUJudnNBc1VFTUNZV1hfMW5FZjBtTF9mTXJ3aUFHTWNLZ1pZNjJtTVdmZUMwTVIxQm1CTHl4Nw?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalpRVmNQckVsZTlNNEJkSmU1MlhKeVhaMVVlVzRZTGhxMDZxbEJvanRhd196TDFuaFNIWWVHVHQ0dU1FNWZyNTRtTzBTbUM0S1FERHN5b0N5TTRKbEpsMV9kM0NfeFY1OHhucE02RW5wYk4yMkI2NDctdmFwZzJ6aWNZME02VE1NTUdyek1HNVotaVFlY3drU0ZvOHFlZUh2cHRTcTNHYUd3MEtCeVB5U1NjNHg?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDIwdDAxMG1jcDV2MFlXNWpxNDlPb0tZR0ZhazhBSGN5dURKdEJteFdIS0RSelZNcER4OE13ak1LdVRPNGE5TW1xdE1DdVd0R1BpMVdMVHUxcFdFVTl0X2M5c0w3SlR5R3Q0V1VHUmlKNk5uck1iX3JjYVZvcjFfZ1QwQ3NFNko4aXBGT280WnFtdw?oc=5"
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDIwdDAxMG1jcDV2MFlXNWpxNDlPb0tZR0ZhazhBSGN5dURKdEJteFdIS0RSelZNcER4OE13ak1LdVRPNGE5TW1xdE1DdVd0R1BpMVdMVHUxcFdFVTl0X2M5c0w3SlR5R3Q0V1VHUmlKNk5uck1iX3JjYVZvcjFfZ1QwQ3NFNko4aXBGT280WnFtdw?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRHpMZGlEam1JRHJFMWw5Vk1FQXY5TmxIbXZsTlFyX1o1blVLOWNjNTU1TXAtbUg0cC1XOTJET3BIcUVnaUR5aHQ2Y0xOdFZ0UUtNUGNlbnM5Q1FwbnA1aHVVT2x5cGY4NDF2UUIyUUN4OFN6VDRBN0Nta25vN3VWVFF3bG1haHRqbVA4YnplNDBqcEZHQnlXWXRoNzZwc3psczZNUnBsbw?oc=5",
+    "https://g2esports.com/blogs/news/g2-talks-skins-things-get-heated",
+    "https://www.invenglobal.com/articles/28056/schell-games-lays-off-around-40-of-staff-in-second-round-of-cuts",
+    "https://www.invenglobal.com/articles/28055/koei-tecmo-rethinks-nobunagas-ambition-hishou-release-date-and-platforms",
+    "https://www.invenglobal.com/articles/28054/silver-palace-sets-december-14th-global-launch-on-pc-ps5-and-mobile",
+    "https://www.invenglobal.com/articles/28053/the-mouth-is-faster-than-hands-glasses-that-type-200-words-a-minute-just-by-moving-your-mouth-silently"
   ],
   "title_hashes": [
-    "988f551424a0993b4b9281cfb5764635",
-    "3fac54333c95f46b386b18ea215e0cc5",
-    "32f1106ad703d148c5266e921c899c0d",
-    "dbad2edd9a72ee7a26517b87c13e6897",
-    "7e781a6b91a0b0e3ee41b178e1cc8376",
-    "c7b422602c357549acc7181b406268c3",
     "3302dc8a8b6a1c3828c3604fd2198dc4",
     "632b98693e0a81bca09cdc8a47554a6e",
     "44038900a2f007ea55522b56038e11a0",
@@ -16001,7 +15995,13 @@
     "44038900a2f007ea55522b56038e11a0",
     "4b82554f2821b1def0a55fa9c4e75685",
     "632b98693e0a81bca09cdc8a47554a6e",
-    "06fabf44486c9fb4930377e045a4c57b"
+    "06fabf44486c9fb4930377e045a4c57b",
+    "1940f4345ebcfde2dc064490f9e11630",
+    "eb92b680c6603d9f08cb193f2d548697",
+    "447a4d5228eaaf6b168c9a872cf48114",
+    "55117623b96b6acb9923d3e5e9834041",
+    "c9e3bf93199a7b7c6c00ded18294f3d5",
+    "af44ad4622d243df9145cca0759d11d6"
   ],
   "transfers": {
     "pages": {
@@ -20710,166 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "2027 according aiming bend days developer developing elements entertainment featuring game gone interactive new person recent reportedly reports reveal sony studio subsidiary third title working",
-      "ts": 1793559795.702589
-    },
-    {
-      "t": "000 30 accumulated around attended even fan fm27 football gather hours manager managers playtime revealed series that total",
-      "ts": 1793559799.23027
-    },
-    {
-      "t": "ask brought concrete developers fans fm26 fm27 football how longtime manager rate specific topics you",
-      "ts": 1793559802.6852713
-    },
-    {
-      "t": "chopsticks core customer every fm27 how its new overhaul reclaimed relearn restaurant rollback scratch tactical they time use visit wants",
-      "ts": 1793559806.1370428
-    },
-    {
-      "t": "1st 2 2027 adaptation anime aniplex announcement band been bocchi following has kessoku movie news pre released revealed rock season series special starry story teaser video",
-      "ts": 1793559809.607852
-    },
-    {
-      "t": "1 20th 3rd ahead battle battles because before can castle diminish final heat highlights holding key lose november often place right server siege sig their took transfer while",
-      "ts": 1793559814.8409948
-    },
-    {
-      "t": "6 all auto content date developer every gameplay games grand gta has here list plenty post released rockstar showcased theft trailer trailers videos",
-      "ts": 1793559818.303059
-    },
-    {
-      "t": "after available awper beijing chinese four iem illness jee last lineup matches missing returns team through tyloo",
-      "ts": 1793559821.8372507
-    },
-    {
-      "t": "about anymore but definitely don faze going have jboen major make more most need now points relaxing return still stress their tier want win",
-      "ts": 1793559825.3363047
-    },
-    {
-      "t": "100 1win argentina blow cyber fnatic games hopes hotu huge major moscow nervously take thieves title watching will",
-      "ts": 1793559828.8171744
-    },
-    {
-      "t": "approach beginner between blade boss bosses branching change encounters endings fast fights figure gives guide hidden how hub its might new out phantom plenty questlines sword tips upgrades weapon weapons while you zero",
-      "ts": 1793559834.2631593
-    },
-    {
-      "t": "2027 ahead announces enters five former fray mandatory roster season star studded talents vct",
-      "ts": 1793559837.9453347
-    },
-    {
-      "t": "after allows eternal explore fire leave one options set spear system year",
-      "ts": 1793559841.384764
-    },
-    {
-      "t": "after five jinggg member organization paper parts releases rex ways years",
-      "ts": 1793559844.8151922
-    },
-    {
-      "t": "2 2026 3 31 analysis beat bucharest comes final furia grand major maps masters nemiga next october pgl records round totals tournament what win",
-      "ts": 1793559848.3546097
-    },
-    {
-      "t": "2026 5 6 began blizzard changes confirmed contents dates doctrine escort event grímsvötn has map new not october overwatch pass roadhog season sombra support what",
-      "ts": 1793559853.4085479
-    },
-    {
-      "t": "1 14 arrival cap captain dated dates days every five fortnite hatsune hunters item kasane luffy miku november one piece plus release schedule season shop skins teto treasure",
-      "ts": 1793559856.966382
-    },
-    {
-      "t": "0 4 8 achieving after aurevia championships closer continental defeating finals golden grand has m8 mcc mlbb one puts road season sight sixth spirit straight take team their them this title win won",
-      "ts": 1793559860.4430354
-    },
-    {
-      "t": "advance been does fortnite got how into logging look major missing new notes once one only patch pirate player proper season shop stu surprise there token work",
-      "ts": 1793559863.9207838
-    },
-    {
-      "t": "25 700 8230 appeare asked dutch duty finland gambling games ggr igaming italy licences machine million named post raised rise sector weekly",
-      "ts": 1793559867.4222147
-    },
-    {
-      "t": "000 2022 30 400 400k american asking blvkhvnd champion championship first has his junglebook listing lists north pokémon posted price put sale team trophy unite who won world worlds",
-      "ts": 1793559872.247524
-    },
-    {
-      "t": "0 11th 27 3 8 8217 about alavés barcelona before given has laliga madrid mbappé past players plenty predictions put racing raphinha real round santander six sports sunday team think totw week went yamal",
-      "ts": 1793559875.6803923
-    },
-    {
-      "t": "144 2026 4th 5 8217 after bgmi bmic bmsd cup dplus dream esports failed favi finished gladiators have india international just kia misses mumbai pmgc points qualify runners their",
-      "ts": 1793559879.238633
-    },
-    {
-      "t": "100 1win deny hotu moscow pole put thieves",
-      "ts": 1793559882.7152228
-    },
-    {
-      "t": "argentina egamersworld esports matches nbsp results roster stats team val valorant",
-      "ts": 1793559887.1133327
-    },
-    {
-      "t": "2027 deal esports fnatic gaming join lospa nbsp set sheep sources",
-      "ts": 1793559892.1450005
-    },
-    {
-      "t": "advice always awper crosshair falcons focus forced himself his kyousuke m0nesy maybe overthinks say something sometimes that thinks",
-      "ts": 1793573304.147568
-    },
-    {
-      "t": "2026 3 6 best bilibili corp dates dplus fives gaming gen karmine kia lyon matchups november quarterfinals records run swiss t1 top worlds",
-      "ts": 1793573307.704421
-    },
-    {
-      "t": "1 2 2026 3 against behind bucharest final first five furia including lost masters nemiga numbers pgl row run series their then three title two wins won",
-      "ts": 1793573311.4720871
-    },
-    {
-      "t": "address appeared behaviour concerning daylight dead devs fir has his interactive post recent scandal stepped stream theburntpeanut",
-      "ts": 1793573314.9206357
-    },
-    {
-      "t": "6 about breakdown comes consider edition extras fence full get gta here how just many more paying post should ultimate worth you",
-      "ts": 1793573320.9097672
-    },
-    {
-      "t": "400 400m biggest cregger crosses evil film franchise his million passing post record reportedly resident setting tops weapons worldwide zach",
-      "ts": 1793573326.3146036
-    },
-    {
-      "t": "6 all appeare auto best breakdown check ever every fit game games grand gta how made ordering out post ranked theft them this where will worst",
-      "ts": 1793573329.9630713
-    },
-    {
-      "t": "2 42 appeared dream first gaming has hello insider movie nintendo now pikmin post released releases second short watch",
-      "ts": 1793573333.484195
-    },
-    {
-      "t": "8217 acting actors all another arc backlash change claiming developer dialogue embark following game has lines major making new quest raiders real recorded records report reportedly studios that using voice",
-      "ts": 1793573336.9621394
-    },
-    {
-      "t": "added aimed also anthropic blocks but claude code copies developers different existing games has including name off passed recreating report restriction restricts runni say stopping they under users video wider",
-      "ts": 1793573340.5389488
-    },
-    {
-      "t": "all batch began fortnite fresh got guns has hunters interesting like mini new one piece really season some today treasure weapons what",
-      "ts": 1793573345.8553343
-    },
-    {
-      "t": "0 2 3 continues don dota down end every final grand have lift like looks pari reign save single spirit sweep team three time took trophy universe watch win winners yandex",
-      "ts": 1793573349.3172584
-    },
-    {
-      "t": "2026 arabian championship charts esports iraq jordan lol nbsp oman overview pool prize regional viewership",
-      "ts": 1793573355.8982196
-    },
-    {
-      "t": "book major miss nrg out place singapore wildcard",
-      "ts": 1793573359.3916912
-    },
-    {
       "t": "13 2 announced big codex day desktop desktops featured gaming include its korea ltd mag msi november participates participating products promotion running smile that through",
       "ts": 1793584884.6939657
     },
@@ -21128,6 +20968,26 @@
     {
       "t": "100 aires buenos europe last major place take thieves title",
       "ts": 1793610450.3254552
+    },
+    {
+      "t": "biz business esports federation hussein jordan king nbsp park partnership pocketgamer signs",
+      "ts": 1793647719.2534463
+    },
+    {
+      "t": "building cinema club comes counter cs2 everyone exception g2 get has heated its new official opinion partner partnership released roster skin skins strike talks things when",
+      "ts": 1793647722.843357
+    },
+    {
+      "t": "40 among around behind cuts die expect games has its job laid lays off pittsburgh round schell second series staff studio this year you",
+      "ts": 1793647726.3480077
+    },
+    {
+      "t": "14th 2026 5 announced based built december detective elementa engine game global globally has its launch mobile open palace playing playstation ps5 role rpg sets silver singapore that unreal will world",
+      "ts": 1793647729.9108183
+    },
+    {
+      "t": "200 arrived can capable enter era exceeding faster glasses hands has input just minut minute mouth moving muscle per recognizing silently speeds startup subvocal text than that type typing unveiled where words you your",
+      "ts": 1793647733.5878794
     }
   ]
 }
