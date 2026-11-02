@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/valorant/news/g2-leaf-interview-valorant-champions-shanghai",
-    "https://www.hotspawn.com/counter-strike/news/thunderpick-world-championship-2026-power-rankings",
-    "https://www.global-esports.news/call-of-duty/call-of-duty-modern-warfare-4-activision-announces-community-event-in-hamburg/",
-    "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-    "https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games",
     "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
     "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
     "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publication-giving-workers-a-voice-and-holding-power-to-account",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTFSSnBKUFZDNXNncGhGQko4LUp3SkpSVW5RZDFpY3htSHVVeVFmcWRBZ2w4SlBNUUFTVWxJX3k3c0RtVmhNUmwyS1BqY2NnR3pLMUt6eXl4cms3cE1zLTNCRUFuY0lsWjBWbDZCMG5NelU2WlFLOFh5XzJsdnZEWjRHYy16dExQRncwZURUSFlZc3BfM1U1Z3JNQ203ZG1XM1JNb1BDNkROdUhnZFRyeTM5dmtsQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWc2Zy13UW95TUFXeXNmTktvVjhYeVdtZ3BWRnUwclA0UE45QXZtbUlDR2Q2WmxXemdnSjN1T1NUZHBId25fV2pnMmg5SVUtSHR3VnpkMWtFRWVDUDBURlRuaWhxOXFRXzNXUTZmVm1hZ1ZLX2FqX3pQN2dpQ00tS0FHU2lXenoybTViMnRTVWRCbXJ6QjdaVjVPS1NHSHJKaGJ0eDk2YjVCcG5IanNWT1lRdw?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rNzhWcllvRFRsdjBydC0xSHVHUElpWHlXUHhKWEN5Sm1oc1J3VDdzOVFEUFZ4bk9OOHR3ZTZjdjdBcnc1cW54WmNHWW80STBVSGN1OHFqSjlmRmZqTkQ5cXNEZlhpQ1U?oc=5",
-    "https://pley.gg/valorant/g2-close-in-on-hyunmin-to-replace-jawgemo/"
+    "https://pley.gg/valorant/g2-close-in-on-hyunmin-to-replace-jawgemo/",
+    "https://pley.gg/cs2/cs2-player-numbers-fall-for-eighth-straight-month/",
+    "https://pley.gg/valorant/meteor-and-tenten-set-to-join-qt-dig-for-vct-2027/",
+    "https://pley.gg/apex-legends/liquid-claim-first-algs-lan-title-in-las-vegas/",
+    "https://pley.gg/valorant/t1-part-ways-with-meteor-munchkin-dh-and-both-coaches/",
+    "https://pley.gg/cs2/iem-beijing-2026-day-one-results/"
   ],
   "title_hashes": [
-    "eff290ed050feec6fc145f4b1f6620b7",
-    "13f03c344fc0320afc9a3138cd002b7e",
-    "4c01d866ecf3dc5dfe5c888bf91042f8",
-    "edc7fbd822b6ed8cc7b15dd8fa13d498",
-    "49c183ae9083a945008b4903b53f2fc4",
     "3e03a8338a156edb90d11c47bba6a9c9",
     "a5cb3fe29a1d2b1bb401b8bf218243c9",
     "b766cdd077e2651fdc94663d5a0b811a",
@@ -16001,7 +15996,12 @@
     "ecb35ece9e5ace36ff6c46986652bacc",
     "7567ebadfb1aff5023a9a8bac1db1381",
     "dda903516950a4ef033d783ec0c92059",
-    "757d2dfbedede8f58de40606c05d02bd"
+    "757d2dfbedede8f58de40606c05d02bd",
+    "f46b7e983436d4825e622bdcd69b7831",
+    "eee9c06313890dc3c9a2f4bcfdff5d6c",
+    "d4fac2bb4e5038354384c38c8c1cd503",
+    "a78c4bd08c0103e7a040fbd56216083e",
+    "305ea8732334a25f79d11cbe0ca5c7b8"
   ],
   "transfers": {
     "pages": {
@@ -21208,6 +21208,26 @@
     {
       "t": "close g2 hyunmin jawgemo replace",
       "ts": 1793647949.8928745
+    },
+    {
+      "t": "2 2024 324 797 averaged counter cs2 drop eighth fall february figure its lowest month monthly numbers october player players row since steam straight strike",
+      "ts": 1793647954.812214
+    },
+    {
+      "t": "2027 after brother champion dig first heading his hours japan join leaving masters meteor next play reportedly set t1 tenten time two vct younger",
+      "ts": 1793647958.4041731
+    },
+    {
+      "t": "000 2 3 6 600 algs championship claim first game lan las liquid nine playoffs point points split storm taking team title vegas win won year",
+      "ts": 1793647961.888049
+    },
+    {
+      "t": "both coaches meteor munchkin part t1 ways",
+      "ts": 1793647965.327002
+    },
+    {
+      "t": "aurora beijing iem liquid opens rout",
+      "ts": 1793647968.7369235
     }
   ]
 }
