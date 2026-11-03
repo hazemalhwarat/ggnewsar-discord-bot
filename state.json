@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27066/where-winds-meet-unveils-new-region-qingzhou-on-october-15",
-    "https://www.invenglobal.com/articles/27065/kingston-tops-third-party-dram-module-market-for-23-consecutive-years",
-    "https://www.invenglobal.com/articles/27064/gwangju-pok%C3%A9mon-champions-league-opens-player-registration",
-    "https://www.invenglobal.com/articles/27063/steelseries-to-host-aim-master-tournament-on-the-24th",
-    "https://www.invenglobal.com/articles/27062/korea-boardgames-releases-three-new-board-games",
     "https://www.invenglobal.com/articles/27061/brick-by-brick-reaches-40000-wishlists-in-3-days",
     "https://www.invenglobal.com/articles/27060/alice-games-unveils-first-person-woodworking-simulation-made-by-hand",
     "https://www.invenglobal.com/articles/27059/listening-to-player-feedback-kakao-games-takes-no-1-in-google-play-revenue-with-world-of-dokkaebi",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28081/lily-becomes-dva-eve-protocol-collab-concept-art-revealed",
     "https://www.invenglobal.com/articles/28079/call-of-duty-warzone-reveals-korea-set-map-for-season-1",
     "https://www.invenglobal.com/articles/28080/the-genesis-war-mobile-unveils-catarina-medici",
-    "https://www.invenglobal.com/articles/28078/france-pushes-proposal-for-0055-per-gb-traffic-tax"
+    "https://www.invenglobal.com/articles/28078/france-pushes-proposal-for-0055-per-gb-traffic-tax",
+    "https://www.invenglobal.com/articles/28077/6000-new-itchio-game-pages-created-daily-but-gamers-arent-buying",
+    "https://www.invenglobal.com/articles/28076/take-two-issues-legal-warning-to-nba-2k27-build-site-forcing-shutdown",
+    "https://www.invenglobal.com/articles/28075/vrchat-skips-ai-exclusion-filters-to-prioritize-world-ratings",
+    "https://www.invenglobal.com/articles/28074/quarterfinals-kick-off-with-lpl-civil-war-followed-by-gen-dk-and-t1",
+    "https://www.invenglobal.com/articles/28073/as-krafton-prepares-a-wave-of-new-titles-can-it-handle-the-boring-work"
   ],
   "title_hashes": [
-    "f9c58036f6d359116a113e44cc5f1f0b",
-    "828a998ea1fe72f4a952b386f1c1c919",
-    "8c34a1a27312b68ac0f6ce378c4ffb6a",
-    "7c0ebaa345a95e5ea3b43a4fd2c02526",
-    "86c75ebffd044a86aaebf40f4c988df3",
     "ddf10b73fe1d90100f5beeec42e80064",
     "e42f529da72f13f6c02e2cce47a5025d",
     "bff56949bfcb99c608d3e0bd1f8ad52b",
@@ -16001,7 +15996,12 @@
     "42927876ffc0fd1f484221dd897b9f9f",
     "f02d8cf129036f1ecbd45b8c8dc4969f",
     "3a521eedad0d4fa18ecaae60045b9e83",
-    "1beea600adc0a546d6f8406335b6a18f"
+    "1beea600adc0a546d6f8406335b6a18f",
+    "d36dee0c234935afc789b241cb06f6d5",
+    "8c6fbff7d0ab65a97d1cc6e6a4253038",
+    "82470a4b6e3ec34644c5519b1da9ed47",
+    "ba34fe5677233060291bf2389e2eeff3",
+    "3c1e3ca7e7f64de533df4e00e49ccd1c"
   ],
   "transfers": {
     "pages": {
@@ -21108,6 +21108,26 @@
     {
       "t": "0 055 amazon bill called conten content france google internet introducing levies meta netflix online per proposal providers pushes such tax taxes tiktok traffic well which",
       "ts": 1793695038.3615592
+    },
+    {
+      "t": "000 3 6 aren around but buying comes created creations daily day distribution figure game gamers graph has indie itch just months new page pages platform posted showing surpassed that this two used",
+      "ts": 1793695043.6640854
+    },
+    {
+      "t": "2k27 after build builder core forcing guide has headlines individual interactive issue issues legal made myplayer nba operated player related sending shutdown site surrounds take two warning",
+      "ts": 1793695047.3557749
+    },
+    {
+      "t": "content decided exclude exclusion filters generated has implement labels not platform prioritize ratings skips social user vrchat world",
+      "ts": 1793695051.1596296
+    },
+    {
+      "t": "00 4 7 allen begin center civil credit event fierce followed following gen held kick knockout kst lpl november off quarterfinal quarterfinals set stage starting swiss t1 texas union war will",
+      "ts": 1793695054.6940022
+    },
+    {
+      "t": "2026 address asia boring can cgpo chief determines emphasized former game gamescom global handle jinho keynote krafton lif new officer prepares publishing show thailand that titles wave what work",
+      "ts": 1793695058.1653724
     }
   ]
 }
