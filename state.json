@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmljdDlsUkhsbkgyc2RWNThpQ1VVR3hkSHNhbVRqeEQyUGZnMjlhU216bzBPcm9JVkhBbF9xT2pFN3paMDdQVE05c3VYMTZuOF85SGhaNXhpalNGOHpYSTJiQUFzbkhfZmpVb2RUS2RZdXNmaV9tOExGMmZ3WWJocVpjOE1ocHQ0TGN6WFkwOTdMNWU1ODRMQ19CSjVTUU9UajVBUEdta3JDdVhjQVdaNDRicHNwcXRuNzNRaVduNWQteUdfb1NkSg?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWTJ1Vnc2RkI5VV84Q0dRVzNMMHlHR21wbE5wRkttUmxDWXhpUERjSGtuMzI0MThLZVZDZ0lGem1LdW5xZmlLa1VkUUtCOVR6dnF4SFM0WVpPRzVCNVdVYnlGYy1XeHRoTGFZcDJISHQxblRQbF83VG11Y2pkbVFXMXF5VHU0RlVKaV9TWGZjb0JoaFh4bGhTb3F3ZlhER0ViY0E?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGZiR3NnZHJ0dGlZT3VXUE9iU1JzaktpMnNkQXFRNXB3dDBhNTZzRk50NmZiMHVQeGhFUDRTVk1YVEhROW5uWFdLYjl3R0FCaHpYaEZiWXc5UU5ia29lNExRSGNtM3d5SU02UzEyR0lqT2FCZXdpQmZfSFhCTklHc3NPMHhPX0szR1lrM19WSTZ3VG0yR1lHUGlER0h3NXfSAawBQVVfeXFMUDd3X1AtVlNZbGFsWEQ2UzhvWU1RU0FGWFlteXpuQWFCbEtlU3M3WVFyY05BcUdUQVZfMmQ2ZGlSeW9Xc1g3Y19JbzdwSzhFd3dfZ21BazBUTjc2ZFRmM1JTWlpHazE4ZzA4bjNHVFpQc0xPMDk2NE9STFRJel9ZdDlfbG5PVUhQaGtNaEQ2MmlDdzctVVJhSTZrX1luMklvcWtmVTI2MjUwcUREOA?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmhVblhFZk9GS2lLcDlRdG12R1ZwM3hCWWxqQUJKTG9ja3JjT3NMS0dLakd5b3h6QkQtWG16Mk5xREdvZ2ZmOTBUS2oyQ0l0bWRRT2lhVDhrUVByYVF4TGJtWmZjbnpuR00walo1R3k4UTN4YUhoSkJ1dkZxQVpMOC1TWkl6UWhK?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTZzExTGlFSTlyeDVncWt1R3NMbTlURlRfQVFQbHhhRUc0UDZ6UFp1WTZrVEFaaDc5WTJadENpanFHaEZ3WnMxNDdfZ0NuOG5pOVpTaGJBSjlMTjVpaG1PdTlXNEhGX1FhRTc0cHM1eC00MHNk?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FVzM3TkhQeXozY1FsYjA1M1pRVXI0QVR4OXA0WklvcV9nTGRXNEhzVUhPSHUzRTV5RDJick9FTTN0N1Z3Q2tIeEthUldWeTJzeXZ2U2NyOVVxNXU5b0xMX3dHUE5vNTJa?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdlpic0gxNjFXTzBwZzJfTFVYZllrYjEwOHpKME1LSTd0dEJNSFkxZm1iY0I4cXZ0RlZVQVNJWXp4LWRHaEEzTDk2bWh0Q1h3SHJsck1PN2l4dUFTajU0aGxBSlpkaHp4UmRwaDVxbTVqSUw3MjNXMFJWRkh6bUZyWmJESW94Q1dKbEpsQkhhWERfZTg5elB5OXRVRQ?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEQ5OFdoZ1lVdGRrbGtyQ01tNEI5RUNKSzUtejd4aHY1dVg1N1lDX2cteW1RcDNqNi1vVDYzaUIxN0pralhIVmxYcWd0Q095eEFhaGQ0OGxwN0FYNHBpVHBMREJraGlVUDA4WDJUQ215X0wzaUxZaVFteUxWcG1TM1hqQ0JxVWFjcC0tSHY3Z1FNTmhOTHIyVHpMXzkwbE54aUtPZUl4NEw?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWdySFJ5enFXalI5Znp0RENaQWV3dHBsSDZPQk4td0c5eGgxRTZ6aTctZGxBLXQ2V2EyVDI1SDNQNHlXejdmeFNOU01mSV9IdjR1RlJROGRnVmIzcldTTHJiMHNTbTIzWGcyTlBMMHVfa1JRNXVNZEkzZHhDZVZmemtMNkkyRlVYUEczUlkyLWdHbW5ZYllMZV8wTQ?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc1BfdkZTRi1JZ1F3UHNGZWVmLUlFZmlWWC1HZ0NsZ2hCRUtsZENMZDlSLUV5M09ibGpnX25PQzdMNEhWQXYwTjNhTU9TQlFael83RWNleURjVG5PbG9NcmpCdWdkV2RtU0ZfSkJLaF9WengxYkRINTZ5RU9NTEpoVHFkR3ZHRllNSWZVedIBkgFBVV95cUxPQkRzSi1CYkNGSkhYa2w2Q25DUGVFcElxNzVLMXpEVFRpejdwX0VQUld1cHRjY3FlZ016OGV6dzdiTDUtVFptcUR2ZmJqemxiVjlkUHIzZTF0YUFCWFJqOVBrZWxOTFQzZVFpUWdOVzlDbHJSakZNTFFIU21DeGxhNnBFbFlLTEtWbFdJU3o5NVZZUQ?oc=5",
@@ -7999,16 +7992,16 @@
     "https://pley.gg/cs2/g2s-slump-stretches-to-six-straight-series-defeats/",
     "https://pley.gg/cs2/100-thieves-earn-third-major-sticker-without-playing-a-major-match/",
     "https://pley.gg/valorant/sentinels-sign-oxy-as-first-piece-of-2027-rebuild/",
-    "https://pley.gg/cs2/new-no-1-furia-face-navi-for-a-beijing-playoff-place/"
+    "https://pley.gg/cs2/new-no-1-furia-face-navi-for-a-beijing-playoff-place/",
+    "https://www.invenglobal.com/articles/28099/nikke-pc-launcher-reportedly-hit-by-supply-chain-attack-no-statement-yet-from-level-infinite",
+    "https://www.invenglobal.com/articles/28101/guild-wars-gets-its-first-new-dlc-in-nearly-20-years-with-guild-wars-afterlife",
+    "https://www.invenglobal.com/articles/28071/rivals-skin-tickets-should-you-buy-a-daily-shop-skin-or-open-a-skin-case",
+    "https://www.invenglobal.com/articles/28100/gta-6-marketing-alligator-swallows-xbox",
+    "https://www.invenglobal.com/articles/28070/ai-inpainting-for-anime-art-when-to-fix-one-detail-and-when-to-regenerate",
+    "https://www.invenglobal.com/articles/28098/epic-games-will-remove-blueprints-and-actors-from-unreal-engine-6",
+    "https://www.invenglobal.com/articles/28097/nexus-mods-makes-ai-disclosure-mandatory-for-every-mod-but-wont-ban-ai-content"
   ],
   "title_hashes": [
-    "1de27d88c959f64de78466f049c27c43",
-    "d2d32592cb691dc9e7e1809631703418",
-    "efed149fb21ef44291d3e53f057fce70",
-    "1738f568fb6e1cc70d73feeb198e05b4",
-    "9df4f6e0d53d1c9536ec362f40c7ebb2",
-    "0ae1295d31f712fb42d2252fda543919",
-    "80424c6572583ed66811ec62983d0ddd",
     "4ca2b8237a1bdbeb72c684928e0478f3",
     "9e8ca645535ca72418200da358a97c4f",
     "346fc933a2d16895116129921f0527ae",
@@ -16001,7 +15994,14 @@
     "b96e6a0a893f0d1bd0c6d3ed995ce6c6",
     "81f9a19c5a7cd30e269f97d35ba9f2c3",
     "c30b77daaac0c669a5bbc09fde6fe9c9",
-    "86e2ccd68accf23f1046ebb0a0155591"
+    "86e2ccd68accf23f1046ebb0a0155591",
+    "2708371c34efb5c647a4e3d77735c186",
+    "94f0e58a1344d8d5ab6a3f73573a8953",
+    "a568b34fea4df85d750ff667a2df14e1",
+    "e21268fe89d5812fdbd84ebc3c6e53c1",
+    "92e1fe99269c022b57029e6642c70926",
+    "5836dcea649107fb8b272b2c2271f73b",
+    "934d9ef383668ad35b4f0bc71ef8293d"
   ],
   "transfers": {
     "pages": {
@@ -20710,102 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "3 developers directly domestic expand game global integrates item its launched launches november official oneitem onestore plans platform service starting trading which",
-      "ts": 1793670295.7038739
-    },
-    {
-      "t": "19 2026 3 announced demos domestic event featured first five hoyoverse korea lineup new november offline place programs stage star take titles two unveils will",
-      "ts": 1793670299.207284
-    },
-    {
-      "t": "2026 advertising award brand brands has hosted including korean lineage ncsoft received selected six society this total wins year",
-      "ts": 1793670302.7240393
-    },
-    {
-      "t": "2027 3 announced based brand first half identity mmorpg new nov release reveals targeting theos title webzen",
-      "ts": 1793670306.1757329
-    },
-    {
-      "t": "3 announced business com2us company fmv full game has holdings initiatives live memorandum motion mou november partner platform signed soop streaming that understanding video",
-      "ts": 1793670309.628587
-    },
-    {
-      "t": "100 2k 3rd announced announces borderlands cumulative have million sales series sold surpassed surpasses that units",
-      "ts": 1793670315.436812
-    },
-    {
-      "t": "2026 across console december digital extremes launch mobile new opening platforms star system tau update warframe will",
-      "ts": 1793670318.9623888
-    },
-    {
-      "t": "10 10a 15 2027 24 announced boardgames days family hall held host january kintex korea park that will",
-      "ts": 1793670322.4325552
-    },
-    {
-      "t": "19 2026 21 3 announced b2b bexco busan business cooperation exhibition global hall held model november participate proposes star that valofe will",
-      "ts": 1793670325.8643482
-    },
-    {
-      "t": "action boss chrono class consoles debuts fight game games have kakao launch massively miragin mmorpg multiplayer odyssey online open paladin playing released role set shows studio uncut world",
-      "ts": 1793670329.2644978
-    },
-    {
-      "t": "1 after behind cafe cloud colours drawn enix fantasy final inside inven latte little menu nomura omelette rice sketch square talks team tokyo turks vii visits",
-      "ts": 1793670334.3783064
-    },
-    {
-      "t": "amongst appeared being chiang coo denies fired first former gaming helen insider linkedin out policy post rumors speaks violation violations xbox",
-      "ts": 1793670337.7961662
-    },
-    {
-      "t": "6 answer appeared ask auto day everything find first good grand gta guide inside launch now out post question theft this tracker want yet you",
-      "ts": 1793670341.1946726
-    },
-    {
-      "t": "2027 21 after ahead american cloud9 duelist former francis has hoang its joins officially old organization oxy roster season sentinels signed signs spending star three valorant vct year",
-      "ts": 1793670345.5050156
-    },
-    {
-      "t": "all date developments happened major pgl qualify race singapore stay teams",
-      "ts": 1793670349.0366433
-    },
-    {
-      "t": "4chan 8217 already anonymous blizzard even forever full game has hasn here hit leak leaks live lordaeron mill pack paid post real reckons rubbish running servers shadows site that tilt wow yes",
-      "ts": 1793670354.2312343
-    },
-    {
-      "t": "000 2026 600 best big drops everything final format grabs heading here japan know major nearly osaka pile planet points r6 siege table teams twenty twitch",
-      "ts": 1793670357.61494
-    },
-    {
-      "t": "1 4 6 after back big brings classics cod content dose few first full getting just kick many modern mw4 new nostalgia november off older players plenty release season some than today true two warfare weeks which will",
-      "ts": 1793670361.1447513
-    },
-    {
-      "t": "4 7 8217 always article black but can comp complete console doesn having here launch less modern ops original paint picture players read sees significantly text than trouble viewing warfare you",
-      "ts": 1793670364.535785
-    },
-    {
-      "t": "after contract dot esports hle losing nbsp rejection renewal reportedly risks zeus",
-      "ts": 1793670367.992631
-    },
-    {
-      "t": "2027 back backed been date december delayed event games gaming government has industry kingdom more new pushed read saudi unspecified",
-      "ts": 1793670373.3980362
-    },
-    {
-      "t": "2 28 32 6 completion credit euro facility fallen finish fund games has launch loan lords million more publish read secures self signed syndicated",
-      "ts": 1793670376.8414998
-    },
-    {
-      "t": "arts astragon closes closing development entertainment german independent known more previously publisher read simulation software studio successor",
-      "ts": 1793670380.2306764
-    },
-    {
-      "t": "2027 esports jawgemo join nbsp set sheep sources team vitality",
-      "ts": 1793670383.641579
-    },
-    {
       "t": "1st agency art attention audition best both content dark drew fantasy fun game gyeonggi indie inven its joint korean nammo our pixel place project striking that theme will won",
       "ts": 1793695024.3545945
     },
@@ -21236,6 +21140,26 @@
     {
       "t": "1 beijing face furia navi new place playoff",
       "ts": 1793723868.4739869
+    },
+    {
+      "t": "access according analysis attack chain computers goddess hit independent infinite launcher level nikke plant players remote reportedly researcher statement supply tool used victory yet",
+      "ts": 1793743271.6481571
+    },
+    {
+      "t": "3 6 alligator appears been console fully functional gameplay gta has have marketing microsoft november revealed series special surprisingly swallowed swallows that unveiled whole xbox",
+      "ts": 1793743275.350888
+    },
+    {
+      "t": "anime art based between choosing detail edits finished fix fixing full guide images inpainting instruction masked nearly one regenerate regeneration when",
+      "ts": 1793743278.862575
+    },
+    {
+      "t": "6 actors blueprints engine epic framework gameplay games its language moving own programming remove ue6 unreal verse will",
+      "ts": 1793743282.6364987
+    },
+    {
+      "t": "author ban but content declare disclosure every has make makes mandatory mod modding mods new nexus now out outright requires ruled site upload used whether won",
+      "ts": 1793743286.3556979
     }
   ]
 }
