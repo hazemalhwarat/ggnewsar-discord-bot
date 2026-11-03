@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2JwdW5POU83NG0ySnljSWNEeE5YZGstdHFLRTd6N1VQT0tsNlRLR3JHU0FWMlZyU0F1bE4xUmxVbVh0bEtBS0FjS0RYcjQzZjk1OTduRF83SDFXUW9fR3o1MUpjOEtqbldyMjBXbGdmdy1GRUVSZ19zT3FWT3dhS0Q1YnVoQ1g4dkdDVTRId0xTSmdaWTFnUlNvZGt1YmdlVTZ3cmwwSlZtVUsxeVZZWXl0bnN4NkFpZjUzb3FLNWh3Z9IBWkFVX3lxTE0yQ0MxZWxhaE9FNjkxT0VWaldId2dONUNiNDRFS2NGUGYxekJ5ZnRwYy01TkRfT2J2ZVExUVZ1cGlSY2tlTHJQNkhJU2VETmFMdDhweHFxenFZUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTBRaWZ3WUJLdXZtTVl4bThLSjY4TV9nRGxScW9HSjdXNlZsdVByWi1CTXRfYS1GRThNY0IwZm85bE0ycHVTTmdIQnE4NFlEU0dYSDRnVFk5TV82N3N1QXNmMGdTUEtRSVdSOTROUF9xYzBfNFdta2NBMTMxMmsyM1NtNFZyYlNYeThmZU9CUWVCQnV3S25FdkVyNGxWM2N0MWR1OHRhWEVZWllqVjZZNDh3azhvc0daRk5RTdIBWkFVX3lxTFBaRGRqbkE3R0F5X2JSS0pGRzZINjFXTGwzN2tKbExBVklKRnZkWktYdjM0LWdmSDh6Q2IyRVo3bVhLOHo0Y2FQSEc1am5vaG9BYnBma2xlY2dndw?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkdtdTZkbHRKSEc4T1hmRk5NdmMtVlc5bXZ6cXY2NEJmZ1hYLWV4UnUzMHlSNVFjWFM1dW9qRlZCWTBMVW1RUUw3V1pFNnNhZDJ6QUNoVWwxa3EwejhmU1ZLcFJTR2hQWU9TM21tSEg5TXh0MjBLRG55S3p0QmpmWHVkbGl1U1haUWFsMUo2T091b3RCeVhydFNDWjVfNFIybEFabw?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3B0bGllZ3pwNm1VUHRvS1NtYjZPTW1KX1NSR0ExVTFHb0RKcXV6aGRvS09BY016STgwcG5paThnT1p2UWduVXNXaFN5WVlXakU5cWoxVjZ5TnlZcFNmQ3R5S0FpQW5HWU96cTFwMjBVaGRzeGM2azJfQVVHa1ZqSXEzWGxCWTBhdUFaRWNpN0NfQllGV1hMRzZiU0J6bWQ4b2Y3US01cjBab2lkTFE?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDRYa1NKUjRRbnFXdWhXODFMd0RBVUtWd1ZpdDJ2N2pwX0dhTFBENlJoWlV0bnRBX19NUElmR0QxZWhFQWtYMFY3WXFlcU9yeHZBVHhCLTdmREZfdG9leUlVUmwyUjBQN2o3bWVYaVdOb2hQY2pQQ192Xy03akZ0dnhtWTVuODNlcXJURw?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFJLQ2gzenoweHFZcjdEUVlWcUJZQkxhckFPZ09WaTR4d2t3MDQ1dzYzVi13dlVVQ3J5Y2F6TnRWWUdfcEs5ZXBlUHk4VVFRQjNYZU5BQzZ4Y19lSWt2d0EycFZ6ZGR4NDFIblFRMjNFNzc1U0prS3VKcWZxcHotZFIzVXdIWkl6ekpLV3Ixd1ZKRXFkSktXYlRxODdPNDVnRmdiM283UmVBSDFpSFprMg?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOREdvZFVWZEdnOUhCeXV3MUx3bEtqMUlleFRhemMybkkzX0tLbWotVjVleUN3NExyOFVWZGZPc3FVbDdKOFNSVzlWM2dndFFMNXQ2UHNyeWxHTjRvZTR2ZEFNNzFyU0lwTm1WUjh3dGxwR1lhRFlxLURuZGNUTTdTOGRHM0liMjl2YWFQX3FnSWR6TGxQYUFCVmUwU3FSREh4ZWc4UVZpcGcyUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejJiT3pYOTctV1RZdkZvbFBPN1Nja1BLN3NfZ19hamcxQm1UQ0x3VjA5NUtRT1Nobk1iQTRaaEkwYzN3S00wbDVKRnpXbDRlSHU5QS1lUDdMdUNhSjJvQXhhWkxyS3dtc01fVmZYUk9uTlhuUFphd0ZXQmJRaVV4eTJKT21UNGJVNXE2WGNuUko5dXptMkwtcmRJSS1kSHpsS2hOd2VzZjQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLbnNYMml0al8tdlFheFRYUHBBQ0Rjbl9RRHlkcWx4bmhzVE90bEprdnVDc0ROOFlRZG0tZE5hcTB2LWhWZ0RyUDBnQmZLLUtTMjZTMnc5MS1WdGtkT3VQMzF6UzZodG9w?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vcnZENndtUVMtZTl5MEQ2Mjd0OG9Eb2J2Ty1kUy1HeXU2cnpCUFlTQ1FRQmczckFES3NQbTZDRlJiZkNsVzFMRnQxemQwdEFUenliRm1vWkpMbFVoaVFwTlhJUTRyWXZJ?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IbGxQSzBfaGItOHQ0SVZES3JyWkFwTms3d2pnbk4zdWhlaXlhQWgyWmthd2dBRFo3cjU3Ul9sdDFpTF9Wc1J0cjVIdGVRTVpVN1RSVU1FWE9TQm8xNnktNTZ3MWJGU0ZGSEdSMTNrUzIxY0QtSXdB?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZXMxem8yREpOeWU5b0FUeTdiMHRBLUJWb1B3LU1sTkhrVUJzVlh6NlVPWl9pdklXODNGMjlsRXBKMlZCT29KNXVhX2N6UHRDNGphVGdlUHFIelNYVWZsYjZyaldEQnVGNVNKZGYtdTdTUDdHc1M2c2IyanRGczlYVS0wSGRmZVNzMkRFUHlpdzk?oc=5",
@@ -7999,18 +7990,18 @@
     "https://insider-gaming.com/dambi-leaves-nongshim-redforce-valorant/",
     "https://insider-gaming.com/dark-souls-2-3-servers-shut-down-indefinitely-due-to-security-vulnerabilities/",
     "https://insider-gaming.com/best-games-to-play-while-we-wait-for-gta-6/",
-    "https://insider-gaming.com/ubisoft-division-2-project-conflict-gta-6-launch/"
+    "https://insider-gaming.com/ubisoft-division-2-project-conflict-gta-6-launch/",
+    "https://traxion.gg/conspit-showcases-upcoming-innovations-at-record-breaking-simracing-expo-frankfurt/",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVV9taHI0bE9yWXA5UG4tLXlZNWtudUxKRDdnNW5hMG5NWlNOZzI0OXdfay0tMTJUX2JOOC1wSjlObmQ4Ql9PVXdSODB4Y21NeXN6eHVlaDlkcjRRUFlfS1BnSWViQ2tGdGtoRFVlaDdOdkc0cXNSa1lENy1BcUNOaTZ5MGNoSldDUktLWDdVM3hpMDd5R1owcUl0M2gtNTZrc0pWMXdOaEhiMm1w?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVpyaXFHZXBkc3dBTHhWeDVjR3BRUE9wWUFTclRKRVZjUUxERzdQT2hDTXVic0oyUmFnQ0xyRjlyQWM2ZGlRcTNGWDI0Q3dtYzNOS1FZNHdPdTlHNlBZQkd0aGI5Uy1KdldDdXhqWEd3SnlqYjBzaFFJSUN6Skk3cDFBY096eEhNM01XNFhtZzF0WTQwejhVdGFFSjloSlE?oc=5",
+    "https://www.nerfplz.com/2026/11/top-team-comps-145-small-fights-only.html",
+    "https://www.hotspawn.com/counter-strike/news/mouz-and-furia-among-first-iem-beijing-2026-playoffs-teams",
+    "https://www.hotspawn.com/league-of-legends/news/top-esports-invictus-gaming-worlds-2026",
+    "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-final-patch",
+    "https://www.hotspawn.com/fortnite/news/free-fortnite-skins",
+    "https://www.hotspawn.com/counter-strike/news/all-pgl-major-singapore-2026-debutants-teams-and-players"
   ],
   "title_hashes": [
-    "71f64087d148cdc55d80a293996ec849",
-    "b16e214a85f9fe7e6f3d7deeb00cb257",
-    "58a27899e55a7c93bd0e647be2a0aaac",
-    "f00ea5954e2ca464504370451dcecc28",
-    "82b092c8a44ceffd900a329ac0c10bb0",
-    "bf60da41a0fd86e93646a43498b80c80",
-    "9283d14ff1ee4548721b1fab6d64a5d1",
-    "2c23abcac7291625aaf2146fa4041b74",
-    "306d84cab8465b20cfb3d001780f4aee",
     "850d1d695ede7a8ff8904a779f7082ca",
     "4df38e9087c20101554c05179f686369",
     "850d1d695ede7a8ff8904a779f7082ca",
@@ -16001,7 +15992,16 @@
     "c71902605c6d0c744a2a220838a57e01",
     "2cb2329beecd71520efa0b2f7f1ed2d4",
     "3a6df272bce7e83c99051dac2f6b2c2c",
-    "6a81c1a2d389b7e8cee208c431834182"
+    "6a81c1a2d389b7e8cee208c431834182",
+    "42518f1023a2a3e22b4dd4c294e711b9",
+    "c3b80e3f67cc656018aafda8d80f3811",
+    "0523ca675ceeb2efd2b97bc67016a820",
+    "f61fe89081f0bc683c89cad2be0ed4e8",
+    "4f08c8921c7dfa05bcb7b5732dd4438b",
+    "371248fb4eb71d0e03a90bc6355a9f26",
+    "cbb9903a21c9a477845b3998ca0109bf",
+    "73412211ccf7a6b0496cbafa81edaa10",
+    "9d0f1202c9ba781c0a02bb47e0cc3a2d"
   ],
   "transfers": {
     "pages": {
@@ -21076,6 +21076,26 @@
     {
       "t": "2 6 8217 appeared but collaborative conflicts division exactly firs getting gta hits lands launch market month new post project this ubisoft when",
       "ts": 1793723708.5330896
+    },
+    {
+      "t": "280 also breaking but car conspi conspit content converted crowds drew expo frankfurt had innovations items new other post product race record several showcases simracing sponsored stand star upcoming while",
+      "ts": 1793723714.3559995
+    },
+    {
+      "t": "145 all comps draft fights five happening jax never one only places pyke same shouldn small take team them this three time top wants win",
+      "ts": 1793723717.8899302
+    },
+    {
+      "t": "2026 8217 already also among beijing bracket but come day end event first four furia going has have iem means mouz place playoffs sai secured teams their this two upper",
+      "ts": 1793723721.344023
+    },
+    {
+      "t": "2026 3 around between both civil corner esports gaming invictus just kick kicking knock lpl november off preview quarterfinals secured spots teams their things top tuesday war worlds",
+      "ts": 1793723724.83379
+    },
+    {
+      "t": "160 2026 32 all asia biggest complete cs2 debutants events heading know later list locked major meaning month now officially one pgl players singapore team teams this year",
+      "ts": 1793723728.2947679
     }
   ]
 }
