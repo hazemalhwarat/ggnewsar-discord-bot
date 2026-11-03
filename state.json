@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU1dJRW1MQzZGUXczaEl1M1h1amdYZjVXSmFFX2QySVFNT2hkV1VfUkl4bGhpTThoNk5XOW5uanVZZ1pkUTdPSXZoUjFHV1lONGhNV09vUWFLc0dIbFBzdHJiTHp4Nzc4UkhuWUhDaDlvXzFMQktqYU1vMUZOb1FoRVpBSGpGWGQwcm9QQ2ZEbzR4VFNBYmVuNHM0TTcydklBenllRndRc082Vk5JM2lHcGwxQlRqX1pmcDhKYTg3MmQ3NEJNaFN4MFpLbF9FRWs?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1USm5pem80U0lnVy1uOXRoZUNvanJVeGFqOGcySW9ub3ZaQ2dqbUtMOUk3eXVsNEQ5VXNCODVKdWl2UGVxYWc2Vy1lODNMc1lzbEVmSW96VGUyc0N1aTZMM3JrdFV5RjlkNmk4MTJR?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMC1JOVFUZmJZd1UtNk95LW1LYW0wTXEzUmhQSzN2TGhMOE1nbUY0UHc2RjRLR0s2X01qSXhjcEJTUGFTanQ5cFpKUjdrR2s3eDRIU2xvTjRWdXRGS1FqbnFFTkIxNFNMZnhmcW5ZZXFlZ1NzOWZXYnkxVmtTMVNBTy1fYWk1Qm9aV0RjTWhPSWZNUmVsXzhZby1Gcw?oc=5",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRF9teGFjZ3BWaFE4TzRjSEhkWW80YnlzZjM3MnptMWg5a2YzVXdjb1UzTHE3bHNZSWZxRnMzcUFXNU9TSkh5ZHNJcGh6Tm1BSDdJcFVHdU1udnd1WUJaRDc5SzVjb2xKWEd0TzAtYlQ0aC05dkx4bW95T2h0bDVGU3BjMUFjaU1tMHUwQnRIalNHZkptWEM0LW9aM19uX1RuNW5vYlRmck5FdDlvX3NVeHd2OTRmamJUdzZjLVNialpMZXFlOWdVbmJlMTI4ZDlabHN3?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGRTVDlOTkdKaTk4R2g0RTJFVUNxQURndU52b2x5LW1JVGRod0xaNmNldkdiTnhWRm9IMER2cTFnVExUTlZibFFpRjNiZzkyZHBVVEtjVDQwRG1NeWJxQUZFU015STdKV29IZXhUOEw4SlM1N0EyOElMTDdXYzR3V041T3VjWkY5cnY3TVpxWG4?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUdTc1NZX0FDVFo0aDBpWFl0bzlIX1VvM2lvTjZYTzJOUDBFMnBmbDVBS3l1Y2RlNTRIN3drRE5EbEktU0RSYTllLTAzTHdZSWhjNG13WFZnejhVLThKemY1TV9sNWFxdzZSaExkeWY3bW10d3hzT3ZrYmJyNXE0REVxTVRkTzhkS2NXWVAzbFppOTlGTG9WbXNmSWlrSkJWd0tGYjZJcXV1WHRzTUlZR1pvakE?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkRyNkJ4ZkVKLVgwTnJYRWFyV3hVNEo0cDZHMk95RmhkS21oeWVZU2xQN2pSZkJKUExjeEtmZVZvQUFKMWkyT3R6TlhJSWxfUzlqX0g3UE1seWJlazROYV9TMWR2Szc5bWJYX0ZsNzlxamQxdVB2eUcyLWx5VmM4LWh5SGEyRWhHcWJiNTdwVTZnbHVUYXhuV2pwRDBSREU?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYVhqQkZxS0JmOUljS0hxc0ZxdlI3T0RPekhCRGNqTFdCck9GZ191eGExZFU1Y2tMOWd1aGpMbFA4TUFVTy1QeW40QzZDVU9MX3lkOVVNNy1vNW1RbTlMX2pGOGJGU3p4Zm5KaTRrU29MeVBzczJxYnEtb0FWVkgwOEo0czN2XzkxZ1FSTnMzVm9scUp0N2NkaE1uZzBTQXJjN2ZrY2E2dzlLeXJkemYxcGVHYzU5Y1FLUmNYWEtvcURES2ZtRlhITGJYLUFxQ28?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkZpRldLc1RvTmF4YTF4OTlxSExsUFc4Ukg5bDV2b2VNekU0YTlYbWljRVFBRUVsbC12Wm5LdGJDenhkaHlNRkRubDhBcFdPblg0Um9DbklCRzkxY2ZpUjh6M2pNaElpT2ZjRWNvQjZ0OGM5YzdLdDJrUFFObGFTMzExS1RjdTQ?oc=5",
@@ -7999,15 +7993,15 @@
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT29YdUhBNlhOX0JOWTc1eGEwWVk1eDd1XzdPSmlwSEUxNmtnTGsxT1NZUmVTUXlOV2xjdWI4blF1aDloaDYwb1VEeHZJOXhuMnRfb1VSZk9ubWluOFV4OFRKczhuUlVtYVl4MkE3dkpPdl9EU3NHMGxpT1JhNUxCWXBpaUVZVk9xWi1NTnFaVW05U3hETkw3TkROSnNvTHl6NHc?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa2VQQ1BvV0FDckllSlphS201eG5sWElKZTlDU2t3YmhLTTdwUGNmQ2dBZ2hfN1hOLThuTU84a2lwT3NMUW5abmdHRnJFUEYxbUFtMV9ncklKUDJJNFFMUWI0dlFQUlRqNExLUnZDRXU1enp5NVI2T3YxaEZMSnhPSzR3dw?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkU1Z25qYlRfZ1ppcG9XYnBEdGRybkh1QVVzalBOTUVxUFdGTGMtcHdkRVJnWjc1ZGkxWHktaDhsMXVwNnpDbHhyYnNoWXROb2dScDM4b2VfTThpbmpVNklfamtmUkVOVDY0cUlBdGVCQ0d3Vklfdm81ekZ1ZXMtTmQtRWlIc2xYLUQxLXJyUVdNbUVUcUs5XzJqemNYY2t2Z3hhMA?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnItMm9GWFBWZnJLbV83QzRvb2FKMGl5TVJ3T05RRUlNSUhNNEIwczNfTFN4cG9ZWUhXc053bkozMGpHQmtJT2RnUzlOVTBWdUd3N1Vfb1NJbzJuMmdWbVZjUjhsd2JIcDRBNU9yN1hvNlpHbXdCVlJfeUJUN0RBZTVLZlVLQlNhbXItWmdjUnBha3BGRWhPS2dxZFpJdVBtSjNvSEQ5d2szeXktVjNyN2V1YXdXNVMxdUJyNGFneUhJTEMtUFlKeQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnItMm9GWFBWZnJLbV83QzRvb2FKMGl5TVJ3T05RRUlNSUhNNEIwczNfTFN4cG9ZWUhXc053bkozMGpHQmtJT2RnUzlOVTBWdUd3N1Vfb1NJbzJuMmdWbVZjUjhsd2JIcDRBNU9yN1hvNlpHbXdCVlJfeUJUN0RBZTVLZlVLQlNhbXItWmdjUnBha3BGRWhPS2dxZFpJdVBtSjNvSEQ5d2szeXktVjNyN2V1YXdXNVMxdUJyNGFneUhJTEMtUFlKeQ?oc=5",
+    "https://www.invenglobal.com/articles/28069/onestore-launches-official-item-trading-service-oneitem",
+    "https://www.invenglobal.com/articles/28068/hoyoverse-korea-unveils-g-star-2026-lineup",
+    "https://www.invenglobal.com/articles/28067/ncsofts-lineage-m-wins-2026-brand-of-the-year-award",
+    "https://www.invenglobal.com/articles/28066/80-of-dawn-of-war-4-beta-participants-reconnected-devs-share-message-of-thanks",
+    "https://www.invenglobal.com/articles/28064/webzen-reveals-bi-for-new-mu-ip-title-mu-theos",
+    "https://www.invenglobal.com/articles/28065/com2us-holdings-and-soop-partner-for-fmv-game-business"
   ],
   "title_hashes": [
-    "9f7e1b7942f62fb8ecc9e3ce5e932929",
-    "7a869dd6366a9d564011f15739c098cf",
-    "a12a2654c64237831347e09d868b1317",
-    "ad67b433afa077f3b1250b204f477c97",
-    "0b7a33045086b3810c9438898734e824",
-    "7627703d352e3e0599630e0f7426098b",
     "7c4af62ead25018039fc818ff628875c",
     "ee3f86711098612458dae7b7b5c0fcd6",
     "66f32a55259e12d8f86339324f1efa34",
@@ -16001,7 +15995,13 @@
     "e281e250ec4acd32717e19b89c369a79",
     "0eba17dd3b548ee56c8b5c6f81fe1bb4",
     "15b51a4884abc23f6564ebd48a39bdf4",
-    "3e7fd82e7998059e394c13029f1a6cf8"
+    "3e7fd82e7998059e394c13029f1a6cf8",
+    "d14c80b86921a5f2d1c7a400ed45b802",
+    "cc9348539f0fe6c82253b79999893aee",
+    "dd43bd8b8752f62d706cdeade3ad3fbb",
+    "9134cbd2c77f5e29305fa02ca4164bca",
+    "e9120f13dcd74dba31ac9a7c940db614",
+    "9ea6a12e47aed0fc0dc12f6a6f922edd"
   ],
   "transfers": {
     "pages": {
@@ -20710,90 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "13 2 announced big codex day desktop desktops featured gaming include its korea ltd mag msi november participates participating products promotion running smile that through",
-      "ts": 1793584884.6939657
-    },
-    {
-      "t": "14 2nd 5 action adventure announced december detective elementa globally ios its launch officially open palace platforms playstation rpg silver that will world",
-      "ts": 1793584888.2195504
-    },
-    {
-      "t": "29 404 amp chief developer director featuring found game held host indie kodansha lab night not nov november radio will yona yoshi",
-      "ts": 1793584892.1083128
-    },
-    {
-      "t": "2026 abyss action adventure asia award awards been choice crimson desert enhanced game has japan nominated nominees open partner pearl player playstation represent world",
-      "ts": 1793584895.719112
-    },
-    {
-      "t": "60th 80th amp anniversary announced audio bowers brands celebrating concluded concludes exhibition harman has jbl legends sound that two wilkins",
-      "ts": 1793584899.3360386
-    },
-    {
-      "t": "0 2 collaborate collaborative communicate designed has human humans inc krafton ludi ludo research revealed robot robotics robots subsidiary system unveils",
-      "ts": 1793584904.640338
-    },
-    {
-      "t": "2 4 android announced december first game globally hoyoverse ios its launch lif life november officially petit planet simulation that will",
-      "ts": 1793584908.2651055
-    },
-    {
-      "t": "2026 2nd 50 announced around camp challenge children designed educator elementary family featuring future futurebee held hosts lab parents school smilegate teacher that their",
-      "ts": 1793584911.8827298
-    },
-    {
-      "t": "2026 2u asus california cpus e2 first global held hereinafter jose korea nvidia ocp p2n powered san server summit targeted time unveiled unveils vera",
-      "ts": 1793584915.582763
-    },
-    {
-      "t": "2 abilities battle characters desi epic exploring featuring fortnite games hunters island mini new november one piece players revealed season this treasure unveils using while",
-      "ts": 1793584919.218229
-    },
-    {
-      "t": "2027 2nd announced bless china chinese company game goal has import launch license official preparing secured secures that unleashed valofe within",
-      "ts": 1793584924.3467987
-    },
-    {
-      "t": "2 across announced battles feature four guild hangame has including its nhn nov poker revamped revamps that titles",
-      "ts": 1793584927.986522
-    },
-    {
-      "t": "2 announced cat china converted game games gunner h5 idle into launches messenger mini mobile neptune november released that title wechat within",
-      "ts": 1793584931.5950549
-    },
-    {
-      "t": "15 2 31 amp announced approximately audio december electronic end gmbh launches months november pro products promotion running sennheiser that two until year",
-      "ts": 1793584935.1159785
-    },
-    {
-      "t": "2 announced arab collaboration company culture delegation discuss emirates government headquarters high its level met november pinkfong royal seoul that uae united visits",
-      "ts": 1793584938.6430767
-    },
-    {
-      "t": "16 5 8 devices displayed equipped exhibits gaming handheld hosting including intel laptop laptops latest msi november pop processors starfield store suwon total will",
-      "ts": 1793584943.6106772
-    },
-    {
-      "t": "1 2026 973 answers game hints its nove november now nyt post puzzle reveal right seven sleep solve spangram strands stuck themed these use",
-      "ts": 1793584947.0589712
-    },
-    {
-      "t": "6 82 8216 bag been claimed delight exclusive get goodie gta has media orders picking post pre preorders receive reported social surprise that users walmart will",
-      "ts": 1793584950.567208
-    },
-    {
-      "t": "2026 32 after been buildup cut decided have headed hectic invites major pgl second set singapore teams vrs",
-      "ts": 1793584956.5063276
-    },
-    {
-      "t": "100 argentinian book chance dropping fire gizmy lan last major map singapore spot thieves troops win without won",
-      "ts": 1793584960.1853654
-    },
-    {
-      "t": "esports kru m8 nbsp valorant",
-      "ts": 1793584965.3184505
-    },
-    {
       "t": "1 1world 2 2gta 3call 4the 6 adventure arrives duty forever game hyrule legend modern ocarina rankings returns switch time top warcraft warfare weekly zelda",
       "ts": 1793610286.8991554
     },
@@ -21252,6 +21168,26 @@
     {
       "t": "2027 ahead esports g2 hyunmin join nbsp season set sheep sources vct",
       "ts": 1793647992.7759006
+    },
+    {
+      "t": "3 developers directly domestic expand game global integrates item its launched launches november official oneitem onestore plans platform service starting trading which",
+      "ts": 1793670295.7038739
+    },
+    {
+      "t": "19 2026 3 announced demos domestic event featured first five hoyoverse korea lineup new november offline place programs stage star take titles two unveils will",
+      "ts": 1793670299.207284
+    },
+    {
+      "t": "2026 advertising award brand brands has hosted including korean lineage ncsoft received selected six society this total wins year",
+      "ts": 1793670302.7240393
+    },
+    {
+      "t": "2027 3 announced based brand first half identity mmorpg new nov release reveals targeting theos title webzen",
+      "ts": 1793670306.1757329
+    },
+    {
+      "t": "3 announced business com2us company fmv full game has holdings initiatives live memorandum motion mou november partner platform signed soop streaming that understanding video",
+      "ts": 1793670309.628587
     }
   ]
 }
