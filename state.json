@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27061/brick-by-brick-reaches-40000-wishlists-in-3-days",
-    "https://www.invenglobal.com/articles/27060/alice-games-unveils-first-person-woodworking-simulation-made-by-hand",
-    "https://www.invenglobal.com/articles/27059/listening-to-player-feedback-kakao-games-takes-no-1-in-google-play-revenue-with-world-of-dokkaebi",
-    "https://www.invenglobal.com/articles/27046/emtek-holds-palit-brand-day-event-through-october-18",
-    "https://esportsinsider.com/2026/10/loud-vs-nrg-vitality-rematch",
-    "https://www.hltv.org/news/45710/falcons-and-aurora-players-are-most-picked-in-twc-2026-fantasy",
     "https://insider-gaming.com/epics-disney-shooter-will-have-no-more-handwritten-code-amid-ai-first-push/",
     "https://gameriv.com/arc-raiders-pve-toggle-could-change-what-makes-its-friendly-encounters-special/",
     "https://gameriv.com/valorant-popmonz-skin-bundle-price-tiers-and-release-date/",
@@ -7999,14 +7993,15 @@
     "https://www.invenglobal.com/articles/28076/take-two-issues-legal-warning-to-nba-2k27-build-site-forcing-shutdown",
     "https://www.invenglobal.com/articles/28075/vrchat-skips-ai-exclusion-filters-to-prioritize-world-ratings",
     "https://www.invenglobal.com/articles/28074/quarterfinals-kick-off-with-lpl-civil-war-followed-by-gen-dk-and-t1",
-    "https://www.invenglobal.com/articles/28073/as-krafton-prepares-a-wave-of-new-titles-can-it-handle-the-boring-work"
+    "https://www.invenglobal.com/articles/28073/as-krafton-prepares-a-wave-of-new-titles-can-it-handle-the-boring-work",
+    "https://www.invenglobal.com/articles/28061/free-for-all-pc-players-soulframe-transitions-to-pc-open-alpha-on-november-7",
+    "https://www.invenglobal.com/articles/28053/mouth-is-faster-than-hands-glasses-type-200-words-per-minute-via-silent-mouth-movements",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sdUFjdUdrWjlTMXlKZ3JUX2w5OWZDeFZCaW9YVTVDRUVQejdoOTlJTzlrXzlSbHN4dzh0S3FZV1RpWjJBUG56UHNJaGJYR2hER0dPT3dDS0RrTWo3N0kzUEIxcEJHdjlvX1dvMkpIVVYtTzZSOG1RTg?oc=5",
+    "https://insider-gaming.com/behaviour-dead-by-daylight-peanut-situation/",
+    "https://insider-gaming.com/10-things-you-need-to-know-before-gta-6-comes-out/",
+    "https://insider-gaming.com/south-of-midnight-creative-director-wouldnt-have-funded/"
   ],
   "title_hashes": [
-    "ddf10b73fe1d90100f5beeec42e80064",
-    "e42f529da72f13f6c02e2cce47a5025d",
-    "bff56949bfcb99c608d3e0bd1f8ad52b",
-    "8250912c7ab6380f092ef9adee9fb7c5",
-    "eff759bce9984a9ed445c51a9076eba4",
     "3613ac7e690e3383bb5dca8096dca846",
     "740a4e1e99eb71d458a3ffae2de964ba",
     "aca1f70c1a2cb50d68e89ca013e71939",
@@ -16001,7 +15996,12 @@
     "8c6fbff7d0ab65a97d1cc6e6a4253038",
     "82470a4b6e3ec34644c5519b1da9ed47",
     "ba34fe5677233060291bf2389e2eeff3",
-    "3c1e3ca7e7f64de533df4e00e49ccd1c"
+    "3c1e3ca7e7f64de533df4e00e49ccd1c",
+    "463a81d0be1a22864fb54ece6da63a19",
+    "98641d610dc7069396bf78946af9a9e2",
+    "cdc1c394cced3831934668b523aa1d79",
+    "99a0c0acc652541859fa15ff200adae3",
+    "94ffd0fd9e3e9ee67f09b2ddf01fec35"
   ],
   "transfers": {
     "pages": {
@@ -21128,6 +21128,26 @@
     {
       "t": "2026 address asia boring can cgpo chief determines emphasized former game gamescom global handle jinho keynote krafton lif new officer prepares publishing show thailand that titles wave what work",
       "ts": 1793695058.1653724
+    },
+    {
+      "t": "200 arriving can era exceeding faster glasses hands has input making minute mouth movements moving muscle per recognition silent simply sound speed startup subvocal text than type typed typing unveiled via where without words",
+      "ts": 1793695063.4387376
+    },
+    {
+      "t": "esports federation insider jordan khbp mou nbsp sign",
+      "ts": 1793695066.9826806
+    },
+    {
+      "t": "8216 again behaviour daylight dead developer doubles down has interactive media over peanut post situation social stream taken theburntpeanut yet",
+      "ts": 1793695070.4914515
+    },
+    {
+      "t": "10 6 almost arrives auto before breakdown but can checking comes grand gta here know little need out post prepare theft things this you",
+      "ts": 1793695074.0486302
+    },
+    {
+      "t": "8217 creative david director funded game have his interview midnight money new own post says sears south wouldn",
+      "ts": 1793695077.5718925
     }
   ]
 }
