@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkRyNkJ4ZkVKLVgwTnJYRWFyV3hVNEo0cDZHMk95RmhkS21oeWVZU2xQN2pSZkJKUExjeEtmZVZvQUFKMWkyT3R6TlhJSWxfUzlqX0g3UE1seWJlazROYV9TMWR2Szc5bWJYX0ZsNzlxamQxdVB2eUcyLWx5VmM4LWh5SGEyRWhHcWJiNTdwVTZnbHVUYXhuV2pwRDBSREU?oc=5",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYVhqQkZxS0JmOUljS0hxc0ZxdlI3T0RPekhCRGNqTFdCck9GZ191eGExZFU1Y2tMOWd1aGpMbFA4TUFVTy1QeW40QzZDVU9MX3lkOVVNNy1vNW1RbTlMX2pGOGJGU3p4Zm5KaTRrU29MeVBzczJxYnEtb0FWVkgwOEo0czN2XzkxZ1FSTnMzVm9scUp0N2NkaE1uZzBTQXJjN2ZrY2E2dzlLeXJkemYxcGVHYzU5Y1FLUmNYWEtvcURES2ZtRlhITGJYLUFxQ28?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkZpRldLc1RvTmF4YTF4OTlxSExsUFc4Ukg5bDV2b2VNekU0YTlYbWljRVFBRUVsbC12Wm5LdGJDenhkaHlNRkRubDhBcFdPblg0Um9DbklCRzkxY2ZpUjh6M2pNaElpT2ZjRWNvQjZ0OGM5YzdLdDJrUFFObGFTMzExS1RjdTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxORUdMb0RLaXkwZ0xjVE9TdEQwdzNsUlJqYThpbGU1Sk5FNURha3pELVl4WDE5eVcxMmZOLU9qdkRpSV8tcHJKYlZiWmNPWHRrU2lBT0haVDI3VUhKZ0VWNUpYUjdlZ0Y5bVF5Ql9Ma0NEekpxVXhUTjVwRXNCTTktWlVGRllnOVpOLWhFRU9ycw?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNml2dWUyeHp2ek81UC13eV9fa3dwZmFrSFlRTEloMEduUzduWVhncjJSem9OQkVpSlpOYy1iV1YtNURVQlNHTWlBZVh4UU1GOWZZT2Fwd09IZXdtUVRhVUJneU9lQ0JHaDgtQzNfTHd1ZjZwSlp0WGpwVnVneC1VeDB6cXRIMU02Sk9tN21HNmVKZVR2a1dILWdsWTcycmRIdzdPMHd30gGmAUFVX3lxTFA2aXZ1ZTJ4enZ6TzVQLXd5X19rd3BmYWtIWVFMSWgwR25TN25ZWGdyMlJ6b05CRWlKWk5jLWJXVi01RFVCU0dNaUFlWHhRTUY5ZllPYXB3T0hld21RVGFVQmd5T2VDQkdoOC1DM19Md3VmNnBKWnRYanBWdWd4LVV4MHpxdEgxTTZKT203bUc2ZUplVHZrV0gtZ2xZNzJyZEh3N08wd3c?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPekFVSlk5YmctbFlZQVhjdktLdmVrQ013NjVsUkZURm5wTXFOdE8zandBRExkYkdvWU9TdFg4dkMzdGZaRnNYdU5RV3JURHRvTThxc1c1XzZob1BlRGFud3pSTE5IRGRHcWJreFJBNmJIcml6MEtWZWlzSC1BZjVNQkw0TjN5b2hMTXdNOHIxZmZwVzA0YnJnQmhPQWVaSnN1TXRR?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yeF9TMnh0NjJDQkkxMldHVDJINlR4WUpJQUxHTXVuUDNNaVpSZFJkdlBEd3RfTThYMFNpaTlYbi1zQXhnOWx5Vl9qWVpQOW9ORHkzU2t6ZzdGVE5rTUNLUF95UjN4WmtrZlRzdGlSX3lYTk9kUkZUNUVSWDNoN0U?oc=5",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRjViY3d5MW53ZHFQLUp2aFJobF80ai1rdzJ3c0pVZ183NVNqc1VmdzFPUXp4UXB5blFmR2pXVFZXa2N2enRfaXZCcTFnaWhwaXBqU3BtbG42eFVsc25VdmFGNVNxeWt6SXN5STVHZmpzRkdSWTBFYUg2S1pydzdDVDcxeTdSNVRjd0U0TWRMMnF6WjR4OUtNOE9yMVVkbXlGVVdtSENWd0xPMEpzWUNaNGpVejBabFNDNG9Cbnk4RVZmdDkteDVPMUYtV1N5THJYZmNVYVpHT2t4Qm96RXc0dU5XNW5sLTBibkHSAeoBQVVfeXFMTXdSQXhpRV9lbno5MkdaaWl3WlBvejctZkZ5STZXa1U1aEdqRFVqdFZ6TXZRRDFsSjIyNTFIY2w1MldLSEd3R00zQkpDU0xKYV9XaGJYd1pfQlhJWHF0bV9vZ0pWSURia2FLZDJkREpLdEk0U3VtZDA2NV84Y2ZrQVNtcl8yc0ZIZFdKeTZlWEw0QVYyVmtFQ19IRnpKQm0wVW1PdFQ4VlUxa1JUZ0dlZ0lBU0FxdmNuU0ZLTHBiTHJnQlBCSkFaa1prdVI5cTR2SWhkZ2R6R1ZXXzBrRDhvV1VSZEI1SDFsTkdn?oc=5",
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSDFYNnFialJhMUhlRHVUNi1VbWRtdzFkRU5XNDYxU3hYRkZJMkpKQ056Zy1EOTlMd01IYko2bnVGZVR0Z2VRcE56VnJxYllvLXVzYVBNNXpaVUZkZ0loS2oxSFdmeDNGZHc0LU82U0RySHh4Q3RoYlBFZXI1M1dFY0M5UkdCbHYtM1prMU1wRGIyRy01ZHIyLXJJa1E1ZEtCSGNmMlVSRWJFaXM5VW9mYlp1VzZPd0xsZzFKczBWRTg5X3Fra0xOMHFHeWdnY19xcWxhNmc3Z0J0cUdNR0l0MExR0gHnAUFVX3lxTE1zRFlqVHlLaXlpM21NRHRVTmZFRVNIYzNoeUlWQzBhdEZjaWhXTXNfbXBXLWpqY25rWFI1YW85ZzRkSFl5UzZlWjVadHhzaXZOTlFzaTM2V01LRjNzdXRWZ19GUnEyRDdLelBuNWN5OWd2QjBza292QmtzRHg5Zk1TU1dBb1hWTHFteXBRTER2d3lRNlRPMWtrLUZHWVZYbnY5YkdDVVB6dzVodklleUwzRVdzcFpZOGI3cUxvc21wZy1JcExuVnZDWFJfdTFhMDUxQXdMRTR4dmpsMElYaXkza0xwMHliSQ?oc=5",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/28067/ncsofts-lineage-m-wins-2026-brand-of-the-year-award",
     "https://www.invenglobal.com/articles/28066/80-of-dawn-of-war-4-beta-participants-reconnected-devs-share-message-of-thanks",
     "https://www.invenglobal.com/articles/28064/webzen-reveals-bi-for-new-mu-ip-title-mu-theos",
-    "https://www.invenglobal.com/articles/28065/com2us-holdings-and-soop-partner-for-fmv-game-business"
+    "https://www.invenglobal.com/articles/28065/com2us-holdings-and-soop-partner-for-fmv-game-business",
+    "https://www.invenglobal.com/articles/28061/free-to-all-pc-players-soulframe-transitions-to-pc-open-alpha-on-november-7",
+    "https://www.invenglobal.com/articles/28063/2k-announces-borderlands-series-surpasses-100-million-units-sold",
+    "https://www.invenglobal.com/articles/28062/warframe-tau-opening-new-star-system-in-december",
+    "https://www.invenglobal.com/articles/28060/korea-boardgames-family-park-to-be-held-at-kintex-in-january",
+    "https://www.invenglobal.com/articles/28059/valofe-proposes-global-cooperation-model-at-g-star-2026",
+    "https://www.invenglobal.com/articles/28058/chrono-odyssey-shows-an-uncut-miragin-boss-fight-and-debuts-the-paladin-class"
   ],
   "title_hashes": [
-    "7c4af62ead25018039fc818ff628875c",
-    "ee3f86711098612458dae7b7b5c0fcd6",
-    "66f32a55259e12d8f86339324f1efa34",
-    "f2d81304ec560d7e424454858308a48b",
-    "8e5ea0923971959948ac22230fef998a",
-    "cc2fd143d4560c4d697214bd0189eda2",
     "832db29601ae866d72641bfd826c4f37",
     "4c74737cf909f1f600cc1b2e89907971",
     "a59bc82921374a3121072fda073d5ae8",
@@ -16001,7 +15995,13 @@
     "dd43bd8b8752f62d706cdeade3ad3fbb",
     "9134cbd2c77f5e29305fa02ca4164bca",
     "e9120f13dcd74dba31ac9a7c940db614",
-    "9ea6a12e47aed0fc0dc12f6a6f922edd"
+    "9ea6a12e47aed0fc0dc12f6a6f922edd",
+    "3d6fa4b9a4d02d8be682db9e5f75584a",
+    "58f24985997a86de8c73cdb18b79b8e6",
+    "2c72f878b1ee93af3268095576a9922d",
+    "a87aab6a34191102e47774074473d253",
+    "254d66ed18c239a3b7c82097ea3f7ca1",
+    "64e36d9fb76fe00876b0206083b2cabb"
   ],
   "transfers": {
     "pages": {
@@ -21188,6 +21188,26 @@
     {
       "t": "3 announced business com2us company fmv full game has holdings initiatives live memorandum motion mou november partner platform signed soop streaming that understanding video",
       "ts": 1793670309.628587
+    },
+    {
+      "t": "100 2k 3rd announced announces borderlands cumulative have million sales series sold surpassed surpasses that units",
+      "ts": 1793670315.436812
+    },
+    {
+      "t": "2026 across console december digital extremes launch mobile new opening platforms star system tau update warframe will",
+      "ts": 1793670318.9623888
+    },
+    {
+      "t": "10 10a 15 2027 24 announced boardgames days family hall held host january kintex korea park that will",
+      "ts": 1793670322.4325552
+    },
+    {
+      "t": "19 2026 21 3 announced b2b bexco busan business cooperation exhibition global hall held model november participate proposes star that valofe will",
+      "ts": 1793670325.8643482
+    },
+    {
+      "t": "action boss chrono class consoles debuts fight game games have kakao launch massively miragin mmorpg multiplayer odyssey online open paladin playing released role set shows studio uncut world",
+      "ts": 1793670329.2644978
     }
   ]
 }
