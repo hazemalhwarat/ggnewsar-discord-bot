@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://europeangaming.eu/portal/press-releases/2026/10/13/215832/enjoy-gaming-phoenix-roulette-x2000/",
-    "https://europeangaming.eu/portal/latest-news/2026/10/13/215828/maarten-haijer-wgba-director-general/",
-    "https://europeangaming.eu/portal/press-releases/2026/10/13/215824/yggdrasil-zonagioco-italy-microgame/",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDQVlRSFFKTVNDQzV3QUdxcTllQkpBREVnM0xRVm9UenhzMU84QXY0TWdmc28wU1FlWU9WWmQ3Y0Q2dUVpMXJlMHVYMnJoWFRYbmc?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PeWp4d0RXZWt0cV8xQ1hsY0FDdEtpMnpob1puQmF2RUVlSWZwLTY2UHpXblk0TjBZWERhOEJ6eDVSZFQxQXRiaE5acjU?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GcVExNGRlRndfZ0R2aHpaMlhFMGFsYnRndmdQUWczZVJFQ29TcmdSQ0ROeHFRM2hGci12VkNmT1FEdk5SY1doMGFUNUFmQ0JOTVBDZVlIUFFuQlZ0NGJQbjFWLWF1aUNKTUE?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jWmZ4emFYSTFMektZSWd6YldqNUYyeGtPcXAweVV6cEQ2NWlSWC11aTZucU1lRHlGYUdiRnIzVHhVUEp4aWM0MVRTbkYxdVpUNDJUbm1jeEpKdkRNRWQtbVkweEZmekFvSmtZUmpXTmVXalJpNVB2WHBsUQ?oc=5",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tNUxoWXVmeXF2cm9YTlZvd2pnS2FuNzgzMWhMY1pPRGwtajZpTC0tWDVNYVZRaTNHLVVCNzRCQzNiN1RGb2ZScllnT3JtZHZCUkR5UFhKNF9xWTNOb015TW1zYjdyTUFPWVozOHlB?oc=5",
@@ -7999,14 +7994,14 @@
     "https://thegamehaus.com/fantasy-football/fantasy-football-players-to-add-week-9/2026/11/02/",
     "https://thegamehaus.com/nfl/nfl-power-rankings/october/2026/11/01/",
     "https://estnn.com/overwatch-dokiwatch-2-heroes-villains-cosmetics/",
-    "https://estnn.com/phasmophobia-resonance-update-unity-6-sound-sensor/"
+    "https://estnn.com/phasmophobia-resonance-update-unity-6-sound-sensor/",
+    "https://insider-gaming.com/the-elder-scrolls-6-sentinel-is-still-years-away/",
+    "https://insider-gaming.com/gta-6-size-playstation-xbox/",
+    "https://insider-gaming.com/elder-scrolls-6-sentinel-reveal/",
+    "https://insider-gaming.com/gta-6-pre-load-date-and-time-officially-revealed/",
+    "https://insider-gaming.com/escape-academy-2-trophy-list/"
   ],
   "title_hashes": [
-    "6f046e4c14f82363585aa60fb5ed6014",
-    "dec2b6735a5d546fd919ae653769c52d",
-    "66a0f191fcfe0ee44e84473a8998b00d",
-    "1ed3e454f62716e6772522a0164042f3",
-    "272cec1614952dde673d33f7e861adeb",
     "d10452e09ed6ef77c4e3a6a059e6e6c1",
     "a08b565e4be76061ecf330b366b52f3f",
     "366a81da6e7cc6c7d3a244c8ebc020d4",
@@ -16001,7 +15996,12 @@
     "325b80e3b393bd22f9d9fa0a1446fdc9",
     "8280c1d8e7f790eeca49de03da66f3f1",
     "b04ccac7988d96ef11d08b843888efea",
-    "440648ea3128bffbc1ceacc0e6968ae9"
+    "440648ea3128bffbc1ceacc0e6968ae9",
+    "fe65ebec2cbeaeeada9e91d42a90eb63",
+    "bbfea38cc4328e63fe5ad682b2160963",
+    "b0cc338b1a16d6d42d75fe464f1901cf",
+    "c40c0541c87bce6d3ed197edb4b809d5",
+    "c5c161fa365e7e8bf49cc9fa5b52e396"
   ],
   "transfers": {
     "pages": {
@@ -21036,6 +21036,26 @@
     {
       "t": "2 2026 6 arrives changes commands confirmed games ghost kinetic late new november phasmophobia recognition release resonance sensor sound that unity update voice window",
       "ts": 1793723667.8061311
+    },
+    {
+      "t": "6 anytime away because but called coming doesn elder game its just mean name officially post real scrolls sentinel soon still years",
+      "ts": 1793723673.1758337
+    },
+    {
+      "t": "124 6 amp because big cover explained file game gta hope how huge made many playstation post ps5 room series size some xbox you your",
+      "ts": 1793723676.65668
+    },
+    {
+      "t": "6 bethesda called confirmed confirms elder game has its next officially post scrolls sentinel that will",
+      "ts": 1793723680.1732757
+    },
+    {
+      "t": "6 along announcement appeared confirms date first gta load officially post pre ps5 required revealed rockstar series space time xbox",
+      "ts": 1793723683.9881237
+    },
+    {
+      "t": "2 academy achievement achievements all back bringing check complete escape get how list out pleasure post pure puzzling school trophies trophy",
+      "ts": 1793723687.4991322
     }
   ]
 }
