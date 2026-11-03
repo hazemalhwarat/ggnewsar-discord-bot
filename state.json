@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUdjNER1S3FaR2N4LWswWXJyeExfUUhBVHNFaWVoc3BzOHVUaFVGV2JCTzF4eWV5QnR4ZVNHUjhsUlFvQTRtQ1ZHQWFfellLaHlxSkhieXhfeHFSS3BLU2piV3UzZ3hDOWhNdXZna0VYSlpGbzd2aEpqTE00V2JhTEk1TG5HZjhqbDZHY0R5V1BSTHpkc2QtYXdIem4?oc=5",
-    "https://esportsadvocate.net/2026/10/evo-france-paris-2027-neo/",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HTDZiQWhwTDJCSzhNZXhSRUc2QUZwTngySWFUTXg3ZTZJM01wYVg0R0VjZWI4ZjBNc0JJVmF2TVJvQ1NxdHN5ZTZKUnBCa1k?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSk5sQjBiUlBPVm1KTmpPU2R4aDRRQTZ5UVlRVElJNkljNElLTzdPa0RHSmZiOWx3anZZa0tkb1FGZXRsT2pLTXhoVjlyLXptaUd4SGlIQkxINnRHUGRGRlNDTVBWeFVpcl8xcG10RzRVZHRkUE5VWjBxM19mRWZpem9rajRrUDIzRFhWQWNaTk9aTTBhUkNOb1ZiVQ?oc=5",
-    "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVWVnMkEycFdNYVJPT1JvZXhxTDVPcUYtSk44SUh6NkhBWVBtbHlqQXllb0dweFJXdVBkemQwdHRSU3JSdDhOZnJmQVhJRkFSRFZyLVp1VEc1Zm1oT184WG1zT2htOENvOVZxMXp1QWFEUTk3UU11bi1VQ3FGVE5JSA?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYVJsal81MGtfTXNlUnFjWWhXWUFOc1JCSjREekpfY0F5dmZTY1hpYS1NVER6WEhwclZ1amZEUkVTYzJpd2tUdHluUkVSSF9SOTRob0NyUzhFbXJaRW81MDFYOUhwb0VPQUkzcGdDb1pEVzJNbjZzM2I5ZU41c0x5ZnF5eVdJRUlPdmlSVg?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YZC1rV2ItZDljY3VQQ3RadVV5S3c1WEphTEd0YVF2cTFhbGZJbWtQSURDSE1YM2xGcEx2ZWtpS2pxVjI0VVUxRHZ5WjY?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/45894/mouz-best-bb-to-qualify-for-playoffs-in-beijing",
     "https://www.hltv.org/news/45892/aurora-eliminate-g2-from-iem-beijing",
     "https://www.hltv.org/news/45891/parivision-beat-liquid-to-make-beijing-playoffs",
-    "https://www.esports.net/news/gaming/sentinels-sign-oxy-on-day-one-of-free-agency-after-cloud9-miss-out-on-a-vct-partnership/"
+    "https://www.esports.net/news/gaming/sentinels-sign-oxy-on-day-one-of-free-agency-after-cloud9-miss-out-on-a-vct-partnership/",
+    "https://www.vlr.gg/783483/ed101-leaves-all-gamers-head-coaching-post-for-any-questions",
+    "https://www.vlr.gg/783489/a-sensational-pickup-oxy-joins-sentinels",
+    "https://gameriv.com/phantom-blade-zero-true-ending-guide/",
+    "https://gameriv.com/phantom-blade-zero-best-skills-to-unlock-first/",
+    "https://estnn.com/iem-beijing-2026-results-standings-tracker/"
   ],
   "title_hashes": [
-    "b01901d1d9695d580d3c2f2a925e8942",
-    "455694119a8f6c59eeb8f583fba3ef97",
-    "45ff01b3303b40c7214097a756cedaa6",
-    "3d8c0963a5634f18a6a2a0cd86fa08db",
-    "59a23defc2cbedd5b6548fbd71135449",
     "751afa88b6e30280078f153611328c61",
     "f876063d42937b26d41f2bbe33a1497d",
     "51e9474816d97918b25556821bfc5fd5",
@@ -16001,7 +15996,12 @@
     "92bb104bf5efbf7398c42b0c62a49437",
     "e629ccd52061097243d4f4473990404f",
     "b46a4f08e165cda616eefdca52d1bfc8",
-    "ba18321d68c00a925e0c22b47880d472"
+    "ba18321d68c00a925e0c22b47880d472",
+    "b14fc34442eeec7c662cb92560fb5b84",
+    "e737b28c3909629f22a2f9e934a14903",
+    "25f6a44994daa610abcdc23f7109be6c",
+    "bc05d908998243c83b5eb7a3aefb6f03",
+    "db47015fa370c12e45629c2a80ead368"
   ],
   "transfers": {
     "pages": {
@@ -21168,6 +21168,26 @@
     {
       "t": "2 after agency cloud9 day duelist former francis free freed hoang join lack miss november off one opened out oxy partnered partnership season sentinels sign signed slot star team transfer vct window",
       "ts": 1793695097.1712272
+    },
+    {
+      "t": "all any behind coach coaching ed101 former gamers head leaves post questions takes",
+      "ts": 1793695102.2312565
+    },
+    {
+      "t": "2027 ahead joins oxy pickup season secure sensational sentinels signing star their",
+      "ts": 1793695105.6768353
+    },
+    {
+      "t": "before blade boss collect comple ending final finish getting goals guide heart inanis its lake main missables phantom planning requirements reward run secrets some takes true your zero",
+      "ts": 1793695110.116006
+    },
+    {
+      "t": "000 1 20 art attacks best blade boundless capacity composure cost dust first fluid form give healing phantom pursuit remnant skills steady they together unlock you zero",
+      "ts": 1793695114.0486264
+    },
+    {
+      "t": "2026 after beijing day each every format group groups iem match paris playoff result results schedule standings times tracker updated",
+      "ts": 1793695117.6166954
     }
   ]
 }
