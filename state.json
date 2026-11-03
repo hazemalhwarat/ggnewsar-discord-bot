@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HcE11OHRsNXhEVmJGSE95YU1obWEzVURIamxRQVptajF2SXdVTGRya0hEWWdKLVRDcEtPZ2IwWThzWm9ZbDM1T3RGSGFoc2o1U1E0SjF1RFNJVldidXdhLU1MQ1hnZy1RX0VRUW1wME50ZXlwTUNvNA?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUC13OGEwTGdQS0JYZ0NqclRMSlE3N3dqejd5cWdPN29maEo4TUlmcmhYSWJZZXRRRG4xa2VUTG1nRjY0Ull0QWpHYXZfcjRtNkFZdXJiWTRoVEdPMERyOTVDVWwwR2d5LVRWSTd6UkJmbUFwSmJoMWtRb2VGMklOU0tTUERlX19nakw5YXBfc3hIbEZNTXRwdzVfOGRXOHNVbmpTOGZLbTA?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQTlDdThkQ3JUbHR1cF9zR3VQNkhiWExfR0JxNEs2SkoySUd6eFZ3YzBLRFJvZm1MR013b2xJNG92MGU4Yktjc1plUjFHdWhoUENDSHYzSndGT1diWElwOHRVRWVOYXZFd2hJbDZwUG1SNjZZeTNfT2lVeTdBS29yUGl0N2xQQkR1bTh6ekhMRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QNXR4bTlaWjZfMUdhWE02bk5wNUJ4MUJSSmUtU1I0Rl9hZXgtUFFsdk13T3BIeURBbW9jS0x5S1ZjLUg0OE1yYV9nQXM1cmNLM0x2V21SdDJoNU42UzhhdWUzVWg0eXRuUDA1eF9XZ3MySmpzVmc?oc=5",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTVE9XTEtjSEYwa05oUHRuUlE5bkpLT0RpeVJ5SElLTEJRdDRjZURRUUJUbjdWYnhzVWp2T0ZJUk9ZTTFVY1NMdndoSElTWUp2MVJDY3lLNTlEZFg0?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkRTalR3WkFqcExodVJVcWZCcE9jM1F4S0xnM24yQ2I0UjNFTlotRVV4VXpCVnhRako1RERiQjhwaEhYSGxjNDJjMDI5MHEzZ3B6QkFIaTl1bjhzcEdFSnUtYW9WTmUxc0NSMkdSX3RDSkItelV5YWVwX2Z3N3hwZEVMTzRCeFE2Y0dXVnh6eF9ha3gy?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ESFFISDZ0M25fLWxuVldoQzBXZTZ6SWw3dzlhVzJ1UlJEMU44Qng1dGhyNTdHQjNqMG1KM3Rjb3lUSURPWXdXM0JDdkxNUU5JNjdVb0lMdXVxc1lsX1A0bGFjd2g2VzUwN3B6QVI5MWFUUUROUkdiTkZsbw?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWi03SUVhbVk4bXo5dXpGOW9PQkwtdEx2WE1rbzltLVF5MFQ5bW11dUpNQ1FaTGtNMHlhODhTTGVzWWdtOGRfSmEtZjh0VVJJUE9TN0ZVWUhUQTFWRU5sN3ZXeThlbDRSOURMYWp2SUxYdEd6UUVEUVp1RU1iQVpmSW9Fc0FjTjIyS2s5ZzlqRFA0aExZendLQnRwT2N3T1JnTGJkWmwtUnp1Q1J5S0tNSWtYR0o4YlYtWWxGcF82bVU?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc1RGX3QydVVBcGJiTFRyUkZwTl9DYTZrcVpzcWtFbGtWYllxdU11Y0pDUzJGZTZNV05xMmdyNk4wUkhROFYtaWtKZk5FTlJzVS11TUM4U01wZkV4a2VYUGg5RVRqU2pIUlpUMF9SNkkyN0tKbWIwMDBpanczUEt6aV9EN3V6Q3VZNUxkc2Z1VEw?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzMFE0TFNlU2FtZlpYcWVraTVlN0E4VEFzQTljWXl1T283VWJLRmNNRlVxLVJlU3Zwa0xBQWs4czMtbHF4dENNV3YwTXM0b2RfVDd0WmJ2S1pzdURaYW9VYkEwazN4azdoUm5iSmM5d04?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWpuTHk2R1JveVh6ODNMNktuRmcyM015SEw4dTJGZ1BDUEFMc0NuVnZwcE85THZkWnZjT0tMYldHb0hPckNLRDZwRUdSNHdZV3VrazlrNkZUS1J4ZUx0SG85NGRTRVBud010YjZZZDk1TWd4VnVnY19HUWVRYWl1azctTTk3eHQtXzRjYmUzUzdpUQ?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS1lyMFNvTHhkX3hXQUNyMUhiSG9XSGMyZkI4NlVva05DOWpRTkV6Q2NlMHJfTHVzLXlZWkNSZE1NT0dOUWp1M0daY1kzZnRyM3UybHhTN0ZnRHRVcXJmaDVEUXV6NGVWS09nN1NWZHVVNHZXUUFteUh5dU5OVm1BTjkybTZaQ2ZnSlFzRUhJQ3BHNmhaRThsS2RtUXZkZ3YxbHF3ZlF6NjhrUEZoYlE?oc=5",
@@ -7999,18 +7990,18 @@
     "https://esportsradar.gg/monte-esports-announces-rocketbet-as-new-title-partner/",
     "https://esportsradar.gg/british-esports-and-varkey-group-launch-egames-dubai27-scholastic-circuit/",
     "https://esportsradar.gg/riot-games-partners-with-jioblast-to-host-vct-2027-south-asia-open-qualifiers/",
-    "https://www.gamesindustry.biz/how-traditional-book-clubs-inspired-the-game-club-to-help-gamers-forge-friendships-as-adults"
+    "https://www.gamesindustry.biz/how-traditional-book-clubs-inspired-the-game-club-to-help-gamers-forge-friendships-as-adults",
+    "https://www.gamesindustry.biz/the-launch-is-not-the-end-how-beholder-conductor-equalled-its-launch-sales-15-months-after-release",
+    "https://www.gamesindustry.biz/appmagic-non-gaming-apps-have-beaten-mobile-games-in-iap-revenue-since-2016",
+    "https://www.gamesindustry.biz/remedy-q3-revenue-triples-to-396m-following-launch-of-control-resonant",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MaDNubC1OQXRvVmJqYlc5dU9fMGhvVjJ5TEI3REFFQkp5bE51NUxJdWpGNkwyQ19EcmtPblMwMFVGZGhXOVlCemp1alB1U1Roc0tqVVJMdVUwYm9RcnJNaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9idXlNMWJmMmRoTjVOeEJkdjROalNrZGdKV1VEdm1qUnZsUXg5ZEd3YVc2QVVKMkcxc09Fd1hVVkFqUG9sT1NjNGVPYzQzZkhKQ29tQTNNaw?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVWVnMkEycFdNYVJPT1JvZXhxTDVPcUYtSk44SUh6NkhBWVBtbHlqQXllb0dweFJXdVBkemQwdHRSU3JSdDhOZnJmQVhJRkFSRFZyLVp1VEc1Zm1oT184WG1zT2htOENvOVZxMXp1QWFEUTk3UU11bi1VQ3FGVE5JSA?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYVJsal81MGtfTXNlUnFjWWhXWUFOc1JCSjREekpfY0F5dmZTY1hpYS1NVER6WEhwclZ1amZEUkVTYzJpd2tUdHluUkVSSF9SOTRob0NyUzhFbXJaRW81MDFYOUhwb0VPQUkzcGdDb1pEVzJNbjZzM2I5ZU41c0x5ZnF5eVdJRUlPdmlSVg?oc=5",
+    "https://www.talkesport.com/news/gta-6-pre-load-time-file-size/",
+    "https://www.talkesport.com/news/valorant/vct-2027-kickoff-open-qualifiers-south-asia-jioblast/"
   ],
   "title_hashes": [
-    "48de6a48bd850f04e9e5720a1b3f679e",
-    "ae25edb88e2258440adbd2d143255f36",
-    "96808aa3e89c35e5be4cb4d162c07257",
-    "af253e3d6b812d74029bec8bd281d28f",
-    "0ef0f620811f635b4c5c0bd9740d5885",
-    "22c8f7b1b27525c39bcebbd88c353d6b",
-    "377e133c3a63fc785a8c76fe16f4e680",
-    "27d5d69a7242e4b210c19bd2364f9fc3",
-    "2a4cf0f662b6692d6194613bc0489eaa",
     "6b7e1027d589a5be2ee841ca100b2f85",
     "722f6d6989fca42e110fcbbb679c81a8",
     "ef34375e3ee130f7f2744d8e6b759e6b",
@@ -16001,7 +15992,16 @@
     "79b0a551abf61ce81071587cf39c80f8",
     "1349258e198ff66a52fe27cfeaea4c78",
     "d63bf405a42243b60e2a462d85b1cef0",
-    "c1f94143ee7b69b7dcdc00d145606ff8"
+    "c1f94143ee7b69b7dcdc00d145606ff8",
+    "34d2e19530ab4e5c015e23ca33436951",
+    "f3a11729607d315799a937529dcddbaa",
+    "02c4d941d4f4e20e8cd8052a81701a7b",
+    "82b092c8a44ceffd900a329ac0c10bb0",
+    "f00ea5954e2ca464504370451dcecc28",
+    "272cec1614952dde673d33f7e861adeb",
+    "d10452e09ed6ef77c4e3a6a059e6e6c1",
+    "d0f990c54fa12ff6d289e92dbcba2b29",
+    "2c4cd78b0cbc74fcfcdba77e3ff1cb61"
   ],
   "transfers": {
     "pages": {
@@ -21116,6 +21116,26 @@
     {
       "t": "2025 adults blomberg book club clubs community discuss each forge founded friendships game gamers groups guy help how inspired leighton meet members month network play same shay small their traditional",
       "ts": 1793723748.3182294
+    },
+    {
+      "t": "15 after almost beholder but can conductor dlc end equalled game give has how its keep launch major might months ndash not once out patch plans players post reason release return sales seem settled story team window wor",
+      "ts": 1793723754.0014098
+    },
+    {
+      "t": "2016 app appmagic apps beaten been chatbots games gaming have having iap last led mobile more non outperformed platforms purchase read revenue since such tiktok",
+      "ts": 1793723757.5005307
+    },
+    {
+      "t": "226 24 39 6m called ceo charles company control defining following gaudechon jean launch milestone more q3 quarter read remedy resonant revenue september surged third triples which",
+      "ts": 1793723761.0062056
+    },
+    {
+      "t": "10 124 212 6 begins download every game gta here how loading long needs november post pre preloads ps5 region series starts take times unlock will xbox",
+      "ts": 1793723764.5215342
+    },
+    {
+      "t": "17 2 2027 announcement apac asia begin earn event games has host jioblast kickoff november open partnered place qualifiers riot run south teams vct will",
+      "ts": 1793723768.0231721
     }
   ]
 }
