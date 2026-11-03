@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thegamehaus.com/fantasy-football/fantasy-football-players-to-add-week-6/2026/10/12/",
-    "https://gameriv.com/lol-patch-26-21-preview/",
-    "https://esports.inquirer.net/36383/evolution-team-sweeps-kadiliman-esports-in-the-crossfire-legends-sea-championships",
-    "https://esports.inquirer.net/36379/clair-obscur-expedition-33-knighted-by-french-ministry-of-culture",
-    "https://esports.inquirer.net/36376/kelra-moves-to-onic-indonesia-teams-up-with-kairi",
     "https://esports.inquirer.net/36371/crossfire-legends-sea-grand-finals-takes-the-clash-to-manila",
     "https://esports.inquirer.net/36367/t1-faker-open-2026-with-a-perfect-lck-cup-group-stage",
     "https://esports.inquirer.net/36363/xavi8k-leads-global-esports-in-rout-of-zeta-division-at-vct-pacific-kickoffs",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28085/becoming-kratos-god-of-war-bautista-dispels-concerns-with-bulk-up-update",
     "https://www.invenglobal.com/articles/28084/ubisoft-ill-give-you-5m-fan-offers-funding-to-keep-making-prince-of-persia-remake",
     "https://www.hltv.org/news/45903/stake-pulse-renewed-for-six-2027-events",
-    "https://www.hltv.org/news/45901/matchups-set-for-last-day-of-iem-beijing-groups"
+    "https://www.hltv.org/news/45901/matchups-set-for-last-day-of-iem-beijing-groups",
+    "https://www.hltv.org/news/45902/legacy-crash-out-of-iem-beijing-after-loss-to-b8",
+    "https://www.hltv.org/news/45900/furia-outlast-navi-for-beijing-playoffs",
+    "https://www.hltv.org/news/45898/karrigan-we-cant-win-our-own-map-pick-lately",
+    "https://www.hltv.org/news/45897/the-mongolz-beat-heroic-for-beijing-playoffs",
+    "https://www.hltv.org/news/45896/falcons-condemn-faze-to-last-place-exit-in-beijing"
   ],
   "title_hashes": [
-    "03174a1e9c44c83c6d1e64921eec2440",
-    "063d28bc43f8b1b157aa9397e35c8fd5",
-    "76a572188734165488d9d14f653978ce",
-    "b26ff150725cbd11affd5caf6a455a2d",
-    "33fc7d1e5cbbef03217c7ea761946a8f",
     "8248fa98227c4b4a6e9fac3b757c8591",
     "d64ce5d98ee4f31dca81ba509c752391",
     "82ae790f9835d503d287d411c47bb40d",
@@ -16001,7 +15996,12 @@
     "054059b88cf204f80288bf48b16c4732",
     "8fe8a5c043c5def041ea9c3298e26157",
     "7923883a20447d0ccce10b597a5f6db1",
-    "41f89096204f2150774a7443a924ab3c"
+    "41f89096204f2150774a7443a924ab3c",
+    "01996d9a775a1f5a8c496dc964768a1c",
+    "58df35e11c76bbd0c294aced15712331",
+    "4cbdd37277ae2be626088a0b32df8630",
+    "5d7a3d09d47273c1683925daede7dda0",
+    "d596e52d82ec5c0bec4d8faa5b06b03d"
   ],
   "transfers": {
     "pages": {
@@ -20996,6 +20996,26 @@
     {
       "t": "beijing best day eight groups iem last matchups more played set threes tomorrow will",
       "ts": 1793723627.0190098
+    },
+    {
+      "t": "accompanies after b8 beijing china continued crash down found good iem legacy loss luck nowhere out rankings that their tumble usual",
+      "ts": 1793723633.909281
+    },
+    {
+      "t": "beijing champions china defend furia iem navi outlast over playoffs reigning their title weekend will",
+      "ts": 1793723637.3946788
+    },
+    {
+      "t": "build can captain falcons faze fought hard help his hopes karrigan lately map momentum our over own pick team victory win",
+      "ts": 1793723640.980413
+    },
+    {
+      "t": "beat beijing big blast company event first have heroic made mongolz playoffs rotterdam since techno their",
+      "ts": 1793723644.558319
+    },
+    {
+      "t": "beijing china condemn exit falcons faze furia last leave losses mean place troops twistzz win without",
+      "ts": 1793723648.0681298
     }
   ]
 }
