@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzMFE0TFNlU2FtZlpYcWVraTVlN0E4VEFzQTljWXl1T283VWJLRmNNRlVxLVJlU3Zwa0xBQWs4czMtbHF4dENNV3YwTXM0b2RfVDd0WmJ2S1pzdURaYW9VYkEwazN4azdoUm5iSmM5d04?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWpuTHk2R1JveVh6ODNMNktuRmcyM015SEw4dTJGZ1BDUEFMc0NuVnZwcE85THZkWnZjT0tMYldHb0hPckNLRDZwRUdSNHdZV3VrazlrNkZUS1J4ZUx0SG85NGRTRVBud010YjZZZDk1TWd4VnVnY19HUWVRYWl1azctTTk3eHQtXzRjYmUzUzdpUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS1lyMFNvTHhkX3hXQUNyMUhiSG9XSGMyZkI4NlVva05DOWpRTkV6Q2NlMHJfTHVzLXlZWkNSZE1NT0dOUWp1M0daY1kzZnRyM3UybHhTN0ZnRHRVcXJmaDVEUXV6NGVWS09nN1NWZHVVNHZXUUFteUh5dU5OVm1BTjkybTZaQ2ZnSlFzRUhJQ3BHNmhaRThsS2RtUXZkZ3YxbHF3ZlF6NjhrUEZoYlE?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlUXc1OS1hckYzTFlKQlpBMERPOWdlT0ZNYWhhbl9zRVYtQVlxSmdtYWlqblZ3SnE2UTZpWDBUQXRmZ0hVTklfZ01EWllZU2lGZERybk54Ujh0S1RhZEdJOFItZldOR2ZhSVZlQkU3Y0FjcXg2Q3VBSF9pekI3UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajhENVQ1WllXeURjMzJiZWNmd19aWHBpRFpjSzFtN1JFUllDR1A2am9FajZ2b25DNmhaeHZNSEhQc1hmN0xwTE5qRDhHQkY4M3kxX2QyMGVYRUFnSzNYWWhjcFE5SDk1WHVvMFVBeDZsNTFOR28zRWM4WUQxMHBiMmFqdUtjXzNNemI1RVotVDBpNXBR?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFZnY19ZeXQyY3pudXhGVWxWaDdwbmpWNGxhYWtadmpjOC1jM0wtTWs0eDVzN29pcGlyQXpwTFFSRHFmUENLYjh4RVVNRmNqWmRXdExHQ19pQ0c2bEVzeXVBcnd6YXVfNzhLM3A2dXFldXdzNUNoTTYxQ2VpcHk2bzRPOVdibGlfTVRoWkh5ak4wNmxMcDhYSUlUQjZGWE1kUU5kZQ?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2FDVll4R2ZzT3RvZFJnemV2bnRXUFdISFpwQ2pUWnROejlkVUVjU240RG1DOERZV0tPMUdPdDd3cjZLcmRQckZpakJ5cHpzaFBBU205TEZjYjV5cjloQnFxZVBPckhIYXV2dVdoTm43YWVoSml6bm05c3BUMzE0UU9LcExMSUdQM05aMWN2bHZremdZSUh6dU5vaWctQWk5cWlXekt4NWlQdDVfS1YxbTFwTG1Cdw?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZlJSV1dKWHVGOUp3OVZCc2M5TWszaTBfS3BUcVJraUJVcHAySGFXQU5oNHdvOTBDNDJxZm1WbGtObERLdDRKNkRJZk5YV1FMdHdGTjBQdTVRVVBWSkVZUDh2TVN5NGo5TGgwYWtlLXJKcEVwWGQySzRDX1FEREV4dnU1MnFPZDZOV1BjYUp5SQ?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS1ZlY0pKTWl4SHJRRjFOWVNoaE5oTEFHUzVlcGRlNmsyUHh1S3lzWTlfY3hzSnV1SWdwRTM5UlNDclMxQ1NPOXhxdVlLX09TbU5qdWw2RUxneEJqYXhRSHNNalAyWG1QY09MWUR6X0s5SjNYRnNVRkd2dnU1RllBVS1JeFQ0ZTBjSEpDbEtHdEoxSW0zNmhUY1JGMEtpbUZyN01UOUlieFlWN2p4eVdiQXRSTTM?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnpRZVE3aldqNG1RR0ZkdkZpcUN3eFZvcThERmpEV1MwVVZUQzFMS1dJc2xxSDlzZ0sxNGotNmZwUkZteUZfY3VwYnFzY1c5YmZsZllabHIzRmRleG52Y2x6bFdqNDI2SzVjLXNlcGxBNDNxRWVVWldWa0hHaS01bXE3MHkzNXhOTXZPSTNuVS1WZDhlQXhvTVdIcnRtYmpzeTJYUmF4T0FJSExQ?oc=5",
@@ -7999,16 +7992,16 @@
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVWVnMkEycFdNYVJPT1JvZXhxTDVPcUYtSk44SUh6NkhBWVBtbHlqQXllb0dweFJXdVBkemQwdHRSU3JSdDhOZnJmQVhJRkFSRFZyLVp1VEc1Zm1oT184WG1zT2htOENvOVZxMXp1QWFEUTk3UU11bi1VQ3FGVE5JSA?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYVJsal81MGtfTXNlUnFjWWhXWUFOc1JCSjREekpfY0F5dmZTY1hpYS1NVER6WEhwclZ1amZEUkVTYzJpd2tUdHluUkVSSF9SOTRob0NyUzhFbXJaRW81MDFYOUhwb0VPQUkzcGdDb1pEVzJNbjZzM2I5ZU41c0x5ZnF5eVdJRUlPdmlSVg?oc=5",
     "https://www.talkesport.com/news/gta-6-pre-load-time-file-size/",
-    "https://www.talkesport.com/news/valorant/vct-2027-kickoff-open-qualifiers-south-asia-jioblast/"
+    "https://www.talkesport.com/news/valorant/vct-2027-kickoff-open-qualifiers-south-asia-jioblast/",
+    "https://www.talkesport.com/news/gaming/playstation-black-friday-2026-sale-games-list/",
+    "https://www.talkesport.com/gta-6/free-up-ps5-storage-without-deleting-games-gta-6/",
+    "https://www.talkesport.com/news/cs2/iem-beijing-2026-day-2-results/",
+    "https://www.talkesport.com/news/pubg/pubg-x-ive-collaboration-love-dive-rondo-release-date/",
+    "https://www.talkesport.com/news/gaming/helen-chiang-xbox-coo-denies-fired-policy-violation/",
+    "https://www.talkesport.com/news/steam-support-restores-deleted-game-library/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/cegc-2026-bgmi-all-32-team-rosters-and-player-roles/"
   ],
   "title_hashes": [
-    "6b7e1027d589a5be2ee841ca100b2f85",
-    "722f6d6989fca42e110fcbbb679c81a8",
-    "ef34375e3ee130f7f2744d8e6b759e6b",
-    "3d1512a30e2444af30b3965210aa7800",
-    "f48c846a71256e08bf6d0e4fb4f4f8b9",
-    "32b76a6c8ed4df89355e40ef1cb40d6e",
-    "e1c79f423bfaec4c28f4ac8e9437bc1a",
     "7c5b5f5070bf9bde84c70f453083e413",
     "0db422d976311627e0a8ff576c8cacda",
     "7ae724e260a3246d14d10069de2e47cc",
@@ -16001,7 +15994,14 @@
     "272cec1614952dde673d33f7e861adeb",
     "d10452e09ed6ef77c4e3a6a059e6e6c1",
     "d0f990c54fa12ff6d289e92dbcba2b29",
-    "2c4cd78b0cbc74fcfcdba77e3ff1cb61"
+    "2c4cd78b0cbc74fcfcdba77e3ff1cb61",
+    "f68053372cca97b33c8017868bc92aff",
+    "fe15da02f614c4db4a3c672573483601",
+    "7815e47fd5035fb10d3dd674b385bb59",
+    "125539407c44d86514abfb544b12c3d0",
+    "350dbf907f0a98205a989d3d98d61071",
+    "476afe5c93cbcd8a9078eecdabbedf49",
+    "3b40d5f4a2c02a2d51f431aa2f98f778"
   ],
   "transfers": {
     "pages": {
@@ -21136,6 +21136,26 @@
     {
       "t": "17 2 2027 announcement apac asia begin earn event games has host jioblast kickoff november open partnered place qualifiers riot run south teams vct will",
       "ts": 1793723768.0231721
+    },
+    {
+      "t": "12 6 add captures clearing deleting free games gta how library moving november official ons post preloads ps5 settings space storage these trimming wiping without your",
+      "ts": 1793723774.5921736
+    },
+    {
+      "t": "2 2026 3 9z beijing big bracket cleared day faze final finalists g2 get have head home iem likes names out path results saw schedule several some teams their way will",
+      "ts": 1793723778.0629873
+    },
+    {
+      "t": "about accurate chiang claims concerns coo denies exit fired first former helen her not policy post raises says serious she story violation whole xbox",
+      "ts": 1793723781.5118663
+    },
+    {
+      "t": "across again agent compassionate continues gamers health hearts media mental once player response resurfaces social spreading steam story struggling support their throughout valve win wins world",
+      "ts": 1793723784.9302738
+    },
+    {
+      "t": "2026 32 all assaulters bgmi cegc every fraggers groups igls one place player plus points post roles roster rosters schedule supports system team teams",
+      "ts": 1793723788.459545
     }
   ]
 }
