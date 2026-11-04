@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-lite-renamed-bgmi-air-new-name-launch-and-details/",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hLVMxZ3duNnF6NUtDN0VJR0lOYmJfQ3RWT0xkZ3V6ZkV2R1ozQk14OHlOQmVlT3FiNHEwUFpiRXY1SW9WQ0hhdHVqeG5qcUl1Q1hLLXFtN2ZLWVlUZkRnbzhSSkU0XzJqZXVud3NJbk9EZ1JoTFltTU1lN0lCQzg?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3NPYWg3cFg1VjZ3N0RYd1RTcEU5SVg0VmJsVDVzS1hrTm1ZcGEwSzVsOEoxNkJVS0RpTHNseU1LWHl2dDdieVZHTzh5VlB6ems1SzVZLVh2b3UycU1yV1BkcG5GUGF5bWxwWDlWSUhjWkZsV0ZKYWNtcnROWlM0ZFRraGwwWU0?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEFpSk5pODJ4enBqWUxLckhVOWJyWTBfTmRaRDk2OWFhTFBzSUQxdVJqVlNpRjFsRGRQaXJpUl9aYktyTWFzbEFkSlVsLTQxVTBJYU9EQWx4SXRyX3RyenJ5aGtDekRHV3ZuM3lYa2Z2VC1ieXU1VFQ3bHViNmlINlJZWG1nd3dm?oc=5",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CZUg4d21CSC11cDNpNW13V1hDYzJRRTYzTHVEQTd3X1JMVE4xdHJjTDhMa3pQaHFPT3JYYXlfVmo0LTZadE1GNTRRNFgxUQ?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZlFHZWctbFNoWWo4WlI5RVlkUDc3T1NXLV9zZFc4TFFHMldELUhtMWZaVmpmR2RQYmhVcXA3MGc5Vlh6LUQ5SGtzd1g2SmZWcmpXNy1hRVNJcmhTVFg1MnBxVS14WXBIQjN0X3VsXzVKYzNTWnlveWlHQ0JYX25jMEVuVGwwT3RqS2FtS21TWnBIZ3c?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ManFweWJDcVNRbmRFbUt0cTVHMjRkS3hXbEZHUlJ6MHhKZm5wUlBaRHBOOGJHYXRnUWU5cjFFY1N6YkhRYVBPV2hUd0VSbExMZzZYWnhrcWtPUVU3SFJn?oc=5",
@@ -7999,13 +7995,13 @@
     "https://pley.gg/cs2/mongolz-topple-world-no-1-furia-to-win-group-a/",
     "https://pley.gg/valorant/glyph-returns-to-cloud9-as-zellsis-oxy-and-jackk-leave/",
     "https://pley.gg/cs2/g4skins-review/",
-    "https://pley.gg/cs2/betboom-survive-liquids-nuke-comeback-to-book-a-beijing-quarter-final/"
+    "https://pley.gg/cs2/betboom-survive-liquids-nuke-comeback-to-book-a-beijing-quarter-final/",
+    "https://pley.gg/valorant/tenz-lines-up-t1-comeback-with-crashies-sheep-esports-reports/",
+    "https://pley.gg/cs2/mouz-crush-parivision-13-2-on-their-best-map/",
+    "https://pley.gg/cs2/donk-tops-faceits-most-reported-list-with-1662-reports/",
+    "https://pley.gg/cs2/naf-aces-twice-as-liquid-eliminate-tyloo-2-0/"
   ],
   "title_hashes": [
-    "d1f046963bfe69f5c09cee9f2cb7319c",
-    "9b3a76fe8ce81611e01676bfa08b5a1d",
-    "3ab396cdd6836daad380fba7a9baa720",
-    "42eeb320f22d2234e18062a8f9c226da",
     "83f30c44e118c5aab4a45896a0df93cc",
     "968c0c9fb3bf1ded4792159b1381e661",
     "32d79e4068551eb76c7e16958f519523",
@@ -16001,7 +15997,11 @@
     "dfc078b32a7a45213e55787888b5ce6c",
     "2122c12b14f2eec1539189edcd87f170",
     "b5a98aa75fbe15f1dcd592c3a0c52217",
-    "0a190c68cfa0d8182ba39588ac6e23ea"
+    "0a190c68cfa0d8182ba39588ac6e23ea",
+    "82c34d00a36b47ccbf44c4b195699a9c",
+    "eb9f231baac7612080eaaba9c01b49f5",
+    "f538792a61cfe0d468ee96206f3d9a7d",
+    "69bb57d18b56d7fe363fc95b32eaf056"
   ],
   "transfers": {
     "pages": {
@@ -21172,6 +21172,22 @@
     {
       "t": "beijing betboom book comeback liquid nuke quarter survive",
       "ts": 1793810547.2135682
+    },
+    {
+      "t": "comeback crashies esports lines reports sheep t1 tenz",
+      "ts": 1793810553.7708406
+    },
+    {
+      "t": "13 crush mouz parivision",
+      "ts": 1793810557.2223334
+    },
+    {
+      "t": "1 662 anyone been donk else faceit has list more most often reported reports spirit star teams ten than top tops twice world",
+      "ts": 1793810560.7818785
+    },
+    {
+      "t": "2 aces eliminate liquid naf twice tyloo",
+      "ts": 1793810564.3258991
     }
   ]
 }
