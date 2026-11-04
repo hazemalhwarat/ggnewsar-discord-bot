@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYS1nR3ZJajVNa2hWZnF1MzNqM3FndHN1aTAwQno4RjRMYmIyamVUTVRobXI2a01Jay1yYlNrTHVwVFFSbWJlLUN1Mm1NTGtwWWgxRnBWWjFoX0MtYjJTTEo2MXh6WEdJbWExc3FobVEtaGpkVkxhQ3BEQl9rV3RRRTU4V1piUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxObGFIWDdndktrb1FvaGRvTDhQbE5tMzNQUUloZjNQUU52Njdka1ZWOUVsVjIxdXh0YTlneGNoVXlTc2NZQ3M5N3JXVDNZeThhYzhLMlRYb2pQdzBnbWtNYmtDNDBiSmxMbFJ5QUNDNUtsSXBpM1dIV1dFZVNYWUxzc0d5YWFPQV9lNzdELXI4QVJiRnUxQUlTWEY1azM2aXNoV3Z1dzBKd1l1d09m?oc=5",
-    "https://www.invenglobal.com/articles/27179/hela-of-mice-magic-limited-demo-lands-on-pc-for-steam-next-fest",
-    "https://www.hltv.org/news/45722/art-on-losing-momentum-we-have-to-look-ahead-and-realize-we-have-a-new-opportunity-here",
-    "https://www.hltv.org/news/45723/furia-fend-off-betboom-to-end-day-one-of-twc",
     "https://esportsinsider.com/2026/10/valorant-game-director",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYjlNSFlnYVpqX0VZZXNuRm5wemd2WGN4REVtdTA2WnZlZlpiVmE1dE84bmdYS2dnbVhycWJ3NjFLeXlrclBzM2QzNVhld1JqSnZhUTAtdHV6Q0REQkZKVEJpa1dDcnVoSDcwbEdYRDBrRFN0ZDJyV1VHS1VTMUVDNFZ1dy1yS3Aw?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2t5S2lQN1Y4elloOE42Ri1hVTc2RnhDeXRfSG1ySmhtQk1WSVFGWHBiaVo4dTQ1QVYzT2h6TTYzei1FeUJiMTg2S0VLZDhtWHhLbkpKWFFfNTYtbUJ1cWhTTjlKOHQtT1JPcThXWlR4LUFzYVgtbTJpb3lLektWaWs0aU02Rm9VS0RMem1oQmpzY2s?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/45914/iem-beijing-2026-playoff-bracket-set",
     "https://www.hltv.org/news/45911/navi-send-falcons-home-from-iem-beijing-after-12-0-t-side-on-map-three",
     "https://www.hltv.org/news/45913/the-mongolz-join-mouz-in-iem-beijing-semis-after-beating-furia",
-    "https://www.hltv.org/news/45910/betboom-edge-past-liquid-to-reach-playoffs"
+    "https://www.hltv.org/news/45910/betboom-edge-past-liquid-to-reach-playoffs",
+    "https://www.vlr.gg/784188/crashies-desmo-szed-depart-fnatic",
+    "https://www.vlr.gg/784135/for-a-bar-a-pa1ze-monsteerr-proxh-and-purp0-become-culers",
+    "https://www.vlr.gg/784127/t1-adds-sungmin-to-its-coaching-booth",
+    "https://www.vlr.gg/784108/nongshim-redforce-signs-udotan",
+    "https://www.vlr.gg/784105/giantx-parts-ways-with-ara-flickless-and-westside"
   ],
   "title_hashes": [
-    "ad5fa4da1d4bb85a3038783cff280d0f",
-    "9124faacc6d715fde38ad9e930ab2dad",
-    "4ed50bce4b7c88a6cd6ba883afcc84f3",
-    "0d851ff62b8f3ae605a70afa56febb9a",
-    "d68ca2abc992a049e8db790470ccebfb",
     "eb8b1866402c077c5113d64ac68a033d",
     "16cd7d246cdf3939b25616190df666ec",
     "1795026034f4cc38ae13204799fba14e",
@@ -16001,7 +15996,12 @@
     "b348c8525e84d2bfaec5cb7e8b92a3f6",
     "41720a5bfe12fbc94284af3780bc480f",
     "4181ed2c444ab2a7e8f64ed4663a328f",
-    "c154b5b576084362c373a2d0091c43ae"
+    "c154b5b576084362c373a2d0091c43ae",
+    "db92b58127281908d28fc36f97ca1c51",
+    "cec558139a29367d8921ec84fc099f22",
+    "031bd9df6e6c149878e6f445ac68e59f",
+    "c8a5938bdb16ba4d1894122fa3bfd938",
+    "14d7fed6fc44b53d773e258b65e4d93c"
   ],
   "transfers": {
     "pages": {
@@ -20972,6 +20972,26 @@
     {
       "t": "23rd ace betboom decider edge favor liquid mirage past playoffs reach round scales tipped zorte",
       "ts": 1793810344.0597239
+    },
+    {
+      "t": "2027 ahead continues crashies depart desmo fnatic release restructure season szed three",
+      "ts": 1793810349.761535
+    },
+    {
+      "t": "ahead barça become catalan culers europe força its monsteerr open org pa1ze proxh purp0 qualifiers roster strong unveils",
+      "ts": 1793810353.3903391
+    },
+    {
+      "t": "adds ahead booth coach coaching its key rebuild returns sungmin t1 umbrella",
+      "ts": 1793810357.1284714
+    },
+    {
+      "t": "2 country his home mvp nongshim redforce returns signs stage udotan",
+      "ts": 1793810360.5370133
+    },
+    {
+      "t": "already ara departs flickless found giantx have homes longtime new parts trio two ways westside",
+      "ts": 1793810364.1192265
     }
   ]
 }
