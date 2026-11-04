@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/planet-zoo-2-best-starter-animals/",
-    "https://insider-gaming.com/rockstars-next-title-wont-take-as-long-as-gta-6-to-develop/",
-    "https://insider-gaming.com/gta-6-originally-featured-large-areas-of-north-and-south-america/",
-    "https://insider-gaming.com/bungie-head-teases-destiny-fans-with-remaster-pc-release/",
-    "https://insider-gaming.com/gta-6-is-never-completed-settled-rockstar-reveals/",
     "https://esportsinsider.com/2026/10/vct-china-partnership",
     "https://www.dotabuff.com/blog/2026-10-14-items-in-dire-need-of-rework",
     "https://www.hltv.org/news/45719/bit-if-we-make-it-back-to-the-playoffs-consistently-im-sure-at-some-point-well-win-another-tournament",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28140/judas-joins-the-defense-deck-meta-character-overview-and-strategies",
     "https://www.invenglobal.com/articles/28139/the-legend-of-zelda-ocarina-of-time-remake-changing-the-visuals-preserving-the-experience",
     "https://www.invenglobal.com/articles/28138/2026-kel-eternal-return-grand-finals-set-for-nov-78",
-    "https://www.invenglobal.com/articles/28137/soop-hosts-drops-event-to-celebrate-launch-of-world-of-warcraft-forever"
+    "https://www.invenglobal.com/articles/28137/soop-hosts-drops-event-to-celebrate-launch-of-world-of-warcraft-forever",
+    "https://www.invenglobal.com/articles/28136/sonic-racing-crossworlds-kicks-off-season-2-with-godzilla",
+    "https://www.invenglobal.com/articles/28135/romantic-top-laner-theshy-i-returned-to-ig-to-keep-my-promise",
+    "https://www.invenglobal.com/articles/28134/extreme-crafting-difficulty-complete-overview-of-demonic-armor-for-top-players",
+    "https://www.invenglobal.com/articles/28133/tower-of-insolence-expanded-key-features-and-items-to-watch",
+    "https://www.invenglobal.com/articles/28132/lost-ark-hosts-events-to-celebrate-8th-anniversary-of-official-launch"
   ],
   "title_hashes": [
-    "e538425df1af9e8a8b949836c81ecd0f",
-    "a18c858edc7b904c3c340e00c7e38a76",
-    "97f9df7c05220c022d71175daa69e6b3",
-    "7aebeae3a2583df13a505ca0ab6eea71",
-    "c28a14c3249d39c62250fe4b723b731a",
     "f1f2b069e49eebf687fd0263b7ae09de",
     "a79cf1357e8069ae54b3a0037d8849ea",
     "b9eb77daa4c2f18aae57fbe67e0e183e",
@@ -16001,7 +15996,12 @@
     "636b2695ae671b7f931ebc4592ebc69f",
     "f30560c77dce38c6011680827ff30bba",
     "4a0b6d4fee32a2df82c9b04d64df383b",
-    "647cde03732154ddb83d620035a76ad7"
+    "647cde03732154ddb83d620035a76ad7",
+    "ab24e5f3d48c7daeb9de20185cea492f",
+    "d506aadbe4b525a5bee2b3e17bb4221b",
+    "25044a9a8978a9e7360044e30dc8c562",
+    "0d030da8a9e7a289dee8e3ec0cc514e4",
+    "cbb19f6cc89280b0a6207035d0d6f33e"
   ],
   "transfers": {
     "pages": {
@@ -21184,6 +21184,26 @@
     {
       "t": "11 5 across azeroth celebrate day drops echoing event forever hosting hosts launch november seven soop sound targets titled viewers warcraft watchi world",
       "ts": 1793782043.3931494
+    },
+    {
+      "t": "0 2 4th alongside crossworlds dlc first godzilla introducing its kicks korea launched off pack publishing racing season sega sonic update ver",
+      "ts": 1793782048.4211404
+    },
+    {
+      "t": "1 2026 3 4th allen center championship credit defeated event held keep kst laner lol promise quarterfinals returned romantic tes texas theshy top union world worlds",
+      "ts": 1793782051.9554772
+    },
+    {
+      "t": "armor based complete craftable crafting debut demonic difficulty dragon extreme gear has its line made mail overview players scale top upgraded",
+      "ts": 1793782055.4519541
+    },
+    {
+      "t": "4 40 classic expanded features floor insolence items its key lineage november tower update watch",
+      "ts": 1793782058.8985736
+    },
+    {
+      "t": "4 8th anniversary announced ark attendance capsule celebrate draw event events holding hosts including island launch lost machine november official rewards smilegate that various",
+      "ts": 1793782062.5061858
     }
   ]
 }
