@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://traxion.gg/moza-set-to-bring-its-biggest-ever-product-showcase-to-simracing-expo-frankfurt-including-ps5-wheelbases/",
-    "https://traxion.gg/heroic-gt3-driver-loek-hartog-becomes-conspit-brand-ambassador-will-appear-at-simracing-expo-frankfurt/",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLaEJ0X3dYQjdMMkd4VmxBeWRCUG93d0YtVWxqNEpoSHpNWDhLMDktY0JxLXdWOVV4bHRfZVhwZTdsS2g0SjNHSmhPT0lGbmRvcDR4dkVMd003ekk?oc=5",
-    "https://esportsradar.gg/how-spun-midia-built-a-programmatic-engine-around-mibr-and-los/",
-    "https://esportsradar.gg/riot-pledges-500000-for-esports-projects-in-public-schools-across-the-us/",
     "https://esportsradar.gg/grand-view-university-announces-four-year-partnership-with-team-liquid/",
     "https://www.nerfplz.com/2026/10/weird-pick-172-mid-lane-garen.html",
     "https://www.talkesport.com/news/vct-china-partnership-2027-reported-teams/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28126/sol-enchant-opens-pre-registration-for-major-update",
     "https://www.invenglobal.com/articles/28125/guild-wars-afterlife-unveiled-launching-january-13-next-year",
     "https://www.invenglobal.com/articles/28124/tower-of-god-shifts-to-inter-world-content-episode-2-pre-registration-begins-nov-4-patch-highlights",
-    "https://www.invenglobal.com/articles/28123/what-to-do-on-spooky-arcland-the-8th-anniversary-island"
+    "https://www.invenglobal.com/articles/28123/what-to-do-on-spooky-arcland-the-8th-anniversary-island",
+    "https://www.invenglobal.com/articles/28122/is-my-pc-infected-nikke-launcher-tampering-concerns-from-attack-vector-to-remediation",
+    "https://www.invenglobal.com/articles/28121/sword-x-staff-officially-launches-in-south-korea-on-november-4",
+    "https://www.invenglobal.com/articles/28120/the-romance-narrative-continues-ig-defeats-tes-to-advance-to-semifinals",
+    "https://www.invenglobal.com/articles/28119/nexus-mods-strengthens-ai-disclosure-requirements",
+    "https://www.invenglobal.com/articles/28117/dokkaebis-world-adds-9000-player-dimensional-conquest"
   ],
   "title_hashes": [
-    "3a253419014bd12fbf1f68891df9f5f5",
-    "f2ab5fb218da8b84623f45579aa4ba11",
-    "459055a31cb6a3d2d7aab8daa905bf77",
-    "4a92027eae229a2f971ce423dc627ea0",
-    "43495dfa4a08554ac675f47493e91058",
     "a82a789dafa44c3aec476a1e0c6a52e3",
     "f79499fd51cb6948b946fc250151395a",
     "17c98e7aa16e1f5295f0286bdfa9326f",
@@ -16001,7 +15996,12 @@
     "12313a3d28f802e3a22b07d2e01c6dcf",
     "25658369650c5f65ddab936c8f040939",
     "f2cb514613b643285e20ae3db1325048",
-    "c5e3236779002503188376110c9189c2"
+    "c5e3236779002503188376110c9189c2",
+    "0c8eccf8179fe32b24061b1ca82523a9",
+    "f9d040fb76b2f08ceeeb6e56070d0e9f",
+    "a3e537a1903006dff913c039df23d7ee",
+    "642df07ac5b40f10d1ab60d2d1efc587",
+    "04f25c22b5584e3f47c27cefe2769bb0"
   ],
   "transfers": {
     "pages": {
@@ -21224,6 +21224,26 @@
     {
       "t": "1 2 3 30 5 65039 8419 8th 9 about anniversary arcland bingo complete games island minutes normal prerequisite quests spooky takes total what",
       "ts": 1793782082.3757339
+    },
+    {
+      "t": "allowed among analysis attack concerns controlled fans following game goddess growing have indicating infected launcher launching may nikke pcs remediation remotely tampering that vector victory",
+      "ts": 1793782087.314765
+    },
+    {
+      "t": "4 announced boltray games korea launched launches light november officially rpg south staff sword that",
+      "ts": 1793782090.833816
+    },
+    {
+      "t": "1 2026 3 3rd 4 4th advance allen center championship continues credit defeated defeats event held kst lol lpl match narrative november quarterfinals romance seed semifinals tes texas union world",
+      "ts": 1793782094.2730987
+    },
+    {
+      "t": "3 artificial creators declare disclosure generative intelligence made mandatory mod mods nexus november platform requirements screen sharing starting strengthens submission upload used whether",
+      "ts": 1793782097.931734
+    },
+    {
+      "t": "000 4th 9 added adds battle conquest dimensional dokkaebi featuring games kakao mode participants player server versus world",
+      "ts": 1793782101.4695187
     }
   ]
 }
