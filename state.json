@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUG1BOTFyclBodm53RGVmeFJmeV80M2w5b2dpNW9Ua1AwTTV3MzJSYVJKUkQ0MzA1TXJLU1QyV2dCYTg4eldSTGI5RDk1MVdqWVJCRVE4cm5ONTh1aHpRTl94UXFnSUd1WnpKNEV0b21EV2pHVDMtemFNRlVxS3hNamdmQzIyM3kzcDJ3c1JGS1FDWDdUWEpMeFoxbTh2d1VN?oc=5",
-    "https://www.invenglobal.com/articles/27235/balance-patch-follow-up-adjustments-extreme-mode-added-to-limbo-baldrix-maple-now-key-summary",
-    "https://www.invenglobal.com/articles/27234/world-of-warcraft-forever-to-allow-gdkp-in-korea",
-    "https://www.invenglobal.com/articles/27233/giyu-and-shinobu-join-seven-knights-rebirth-x-demon-slayer-collaboration-part-2-begins",
-    "https://www.invenglobal.com/articles/27232/servers-as-dimensions-overgeared-expands-the-world-of-mmorpgs",
-    "https://www.invenglobal.com/articles/27231/vindictus-adds-season-4-finale-throne-of-fate",
     "https://www.invenglobal.com/articles/27230/soop-to-open-2026-worlds-event-page-on-october-15",
     "https://www.invenglobal.com/articles/27229/star-savior-updates-new-event-story-on-october-15",
     "https://www.invenglobal.com/articles/27228/wild-girls-rebirth-opens-pre-registration-on-october-15",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/roblox-music-codes-best-song-ids/",
     "https://insider-gaming.com/roblox-clean-the-moon-codes/",
     "https://insider-gaming.com/roblox-bey-rivals-codes/",
-    "https://insider-gaming.com/how-to-get-free-diamonds-in-free-fire-max-guide/"
+    "https://insider-gaming.com/how-to-get-free-diamonds-in-free-fire-max-guide/",
+    "https://insider-gaming.com/how-to-get-free-diamonds-in-free-fire-guide/",
+    "https://gameriv.com/respawn-cracks-down-on-rookie-rank-exploit-in-apex-legends-ranked-bans-906-accounts/",
+    "https://gameriv.com/steam-support-reportedly-restores-players-deleted-game-library-after-mental-health-struggles/",
+    "https://gameriv.com/apex-legends-season-31-legend-tier-list/",
+    "https://gameriv.com/apex-legends-season-31-weapon-tier-list/",
+    "https://www.hotspawn.com/league-of-legends/news/tes-zhuos-message-to-his-future-self-after-worlds-2026-dont-bottle-things-up"
   ],
   "title_hashes": [
-    "264c8178368da43a6eae8cf96024c2e8",
-    "6c0de68184dc52b7f53793ec376038e1",
-    "6bca6286ff195040112046d7e2a26188",
-    "01662c385e59d1b2f64df97ad4ae24b8",
-    "c815e482fd8eb7128fe4dabcb86f6c5f",
-    "8992f7178db5219e6bea839029a9191d",
     "12402f950c5cc955f0225d459f1164b1",
     "2e4584b9e135e30737099aadc593003d",
     "2615af9a0ec72ade84257e85a5d85198",
@@ -16001,7 +15995,13 @@
     "80806f8f28267fe83222d9e04e6a10f5",
     "fcdf9336365036becf4ca1c2996d3a39",
     "bb79288980613fd67f6fdf7fe39244ba",
-    "22992d605d28d9d498f9dc341f1fe839"
+    "22992d605d28d9d498f9dc341f1fe839",
+    "13078214308730abe28586a45dee093c",
+    "eda6cebebf1dbe8cd27ebfda46cf11ad",
+    "2fdb3f58533e662c6c4352bcf2d8722c",
+    "ddb0ee631a94814afb3f8c4ce0eb49c4",
+    "63bceeaa5878d02895a8042842379d0c",
+    "182a95efcb68d535d235455923e2c72f"
   ],
   "transfers": {
     "pages": {
@@ -21232,6 +21232,26 @@
     {
       "t": "2026 active all codes diamonds fire free further got guide latest look looking max need november post than this you",
       "ts": 1793830523.2219954
+    },
+    {
+      "t": "906 accounts advantage allowed another apex ban bans bug cracks down entertainment exploit exploited gain has launched legends major players primarily rank ranked respawn rookie targeting this time unfair wave who",
+      "ts": 1793830528.1797822
+    },
+    {
+      "t": "8217 after again community deleted earning game games gaming had health heartwarming library mental once online player praise removed reportedly restores resurfaced steam story struggles support their valve who worth years",
+      "ts": 1793830531.6248581
+    },
+    {
+      "t": "31 also apex best brought changes cipher crypto dominate getting has known legend legends lifeline list major meta much received revenant rework season significant some tier",
+      "ts": 1793830535.0838265
+    },
+    {
+      "t": "31 akimbo also apex best buffs cipher dominate has introduction known legends list major meta nemesis nerfs prowler season several shaken shotgun some strong tier weapon weapons wingman",
+      "ts": 1793830538.548863
+    },
+    {
+      "t": "2026 3 8217 after against battle bottle chinese despite don end esports fell few future gaming had having his internal invictus lpl message quarterfinals road run seed self stage strong swiss tes things top while worlds zhuo",
+      "ts": 1793830542.0267317
     }
   ]
 }
