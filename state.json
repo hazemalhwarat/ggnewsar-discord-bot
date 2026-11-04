@@ -1,16 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWdHluMlRMMzlzMjlCb0E4dERlLXNhMEk2blhtcTc1ZmZTemNBS0w0ZUpQazNxN0hDX1EySVR2b0dEOWRsdlV1Sm5DbWVacGc0NGticWp3QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLTZnNVFYTVI0Q0tyVkV6T0VrQmU5elpqYnEzWHh4RUIwWUhlMVpKRFllRWNQems4XzhXVU94T2daM1kzbUU2YlN3SFBsV082OHB4UVJyVThvT0cyT0ZFOHRoVGhvOVBiNl9UWEZ2SDZOQ0IzdmVuUkp5ZlUzVGRnb0szcmFSRGQ5ZDRz?oc=5",
-    "https://europeangaming.eu/portal/press-releases/2026/10/14/215991/dafabet-names-kevin-pietersen-mbe-as-global-brand-ambassador/",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tTXFZekdzeGQxeExtMExJMnBoNEp5Szg5Q1R1eVhQejM5Zm9HN0VUckFlTXI1YlJYMlNPdmZrcFE4VlMxSFhZUUVwbEpFdUlDRTdaUXFfY3BVQ0Q5U0ZIamVMRXZxbEYyb1lJQ05OU0dJSlNaVndXMg?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUdGeXNoRDFLZzVvMm10VWlBQzZWb0RuUzFQSFpSOGxrME5pckZna1NlR3MyQUNQZHVmcFpabHFvTjNUQVRpdGlra1NqZjlSU3NybjZwMW1FVGpHMkk3bnVUUTFDLTJ2Wm5zUXl6cTJ5c2ZrenVNVmx4S25xaldUb24tekVnZEFGWG5yOFhuVlE3RC1zcXNJRzgtejNBVXZ3R2stZmV4U1ZRZndHS2NPVlRMQUlaVWxxY1NvQWtB?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE85N3llcFRvT0NtTE5QdGV3T3dCQVdxMnp4V2tjZE9ya1RfZk9YWDZZQlgxYUZJRERLbVh3UTVPNjM2WVU3RGdnOE43ZjF0bG55Y2o0ZjNWNkVDMDhydUZYMWtUWFhBQTRCSlhJWGM2dndLZk5uR0lnWFJQbVNPdw?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2lVcUpwOFg4YUhpeTM4UDVKa3Zmb0RVcVRoMnBIM1NMZEpCR2NSakNZS3RHNzJfdEdDd2U0UVo5c1VfS0ZmLVo0ZW9LcGI4ZzFsWkEyMTkwTnlmR2pKUFczaDJHU3YyV1RBQi05ZTBIYnFEWmVfeUJZUmQwV3VoOU42Z3FXUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kaE5nbEo1V0RrZ3ZlVlBRYnVhSklOc3BGVHdzd3JqZWJnMkJXbXg3bkE4V3BnZ3pIMWc3alNhbllONVRGa3prYlRDOWlEcVV5MU81MHlYV0VUdEJPcEpVQmRrXzZrZ0Vr?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRlNoZEFGYjNfYTVSU0NaY1FQaUJDS3Npa3c0S0VudGZmcXduUUxKMnFwcTY1c3dnQlQ5OEFhQUJxYzB6cF9GOVQtZDQzTld4Nk9icV9Pak9uY2xYeEFScGtCUnFjQ2x6ekQxNGFOZ0o1LW55dnltMjJPVnVUa1ZnVXdON1lBMlRGdWxNdDZMMEdQckRia2gwc0JCM1FqZ1ZJZU50U2ZVei1qXzAwMFRjZ181MHFMZXJfN0NMYnM2NEJGVHVUb2fSAVpBVV95cUxOX00yZV9oZkd0X0hBOGY1VDQzYzJySXFhVm1RR3NibW84MEVTYl9GTGpoMHNhTEZKOHg5NWJfd2kyMUM0VmdNVDE4OF9MNkxYYzFNVzFlbnhQX2c?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVQ5VXRYYmt6ZFFaN1k4RmhLazNOTnh1RWdtTXFFU0pGcmRBOGRtbVZuRlNhWkN4STA5RFZIRF9MWmJLay0wVElDWHBWXzVVRTVTS3k5c1FqV0hxLVpVRHVfd2VqLXBqVGVBX0NCdjYtNzVpc2l2U0J6Si1yNlVJTlJubWhZRXdyVTNfQ1F2LVlNSUNsWmxOS2VzNUF0aTZWVEkydm0wTVl2QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXJUQ3ZxOXA1UHFMQzhUUGRNSnlORmthSWxxMHo0RC02dkJVYkwxdldiUnlPVVFrSG81UG4zNmtGcnM1aW04T0pYbV9ZZEhsQ1VodG8xNWhsU01RSDRfTC10RUdyVnFCbFNFTTllazNSTEZOb1hVZjJWM1o0c21HUTRWcEQxNF9iRFd1MWpNYmdXOU0ycHfSAVpBVV95cUxQS3BCRmlia0RrRFZCRjdQRGEwZTFZdTF2Nko5ZFJYYzdRS0VGaUVjeHRrVTBlQmxqRElHempkZFhETXhUTDlKeDRjN2UtNjBtRFNERGZNT0Z4V0E?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaEVfdHdPTUREdXVFbGd6bW5KQzcyWmV3c0s5S29KX1VLS1J6TmJXbDhUT1lNQjMzUllLWTB1RHJFam1KU192dmRuT3RiVFdvYWhLTTZ4UWNjUDVjN2lUZTQxdkJCZjBKbGhrd3VlTUpBWEl2Z1N0U1BKQlRROFIxQVpVTHZKbW1RdEZ1cWJjUldlR1g5RGlIcVFnSDZtTm41aEZZam0zYVRIVEpldFHSAVpBVV95cUxPT3dyVk5ETk9uTmJYS28wWmU1TkNzdmRrMXg1Vzlwb253eEsxVGFwazgxWXZNajNrV0pQM2FHNEtfMHBjeGF2TnE1aTdldGFDTjZtYzdjWjctU2c?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdzhfdzZVYzNFT2lvb3RzdTNEdHc1QzlUU0NPSnN6NzZWUHdLTEN5ZUNiR016UEZJVGZwRkxKcnl0V09qWDNNdkNEcDJSVXZmRGpzZGRjRUI5em5ubmd5djR0dFVNeE80WEsxVWtPeWlyYl85Qno4d3h5Zkw5WWFSUHBic2JNT21aekdjZ3FLVTLSAVdBVV95cUxPMjZmcVJZdWRpdEUweTdyWVRaak9rSHhxWTdfbDJwZjlpYWdscmk0VEtVZGhNWnBRcE1wb2lpU1pNS0pnOHNsU3owQzRmLWs4YmhBN1ZfT1U?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0pwUzlLeFpwbDZ0RDFvTkNkNmxHQlAyREJGUGxtazR5ekI1MzZ0RzdkeEpuU2pLSEpMbkdfNXJEeFU1eTdrNHV2OGhrdjBpaUJRc05fS3FvRDVvNHp0QlN5aXBVSUdnUXV3dnJYLVZfOVpfbDZDWGtqTl9uZW96YkhuTQ?oc=5",
@@ -7999,20 +7988,20 @@
     "https://insider-gaming.com/rockstar-might-dmca-gta-6-spoilers/",
     "https://insider-gaming.com/arc-raiders-ceo-admits-both-pve-and-pvp-cater/",
     "https://insider-gaming.com/nyt-strands-hints-answers-november-4-2026/",
-    "https://g2g.news/gaming/cricket-icon-sachin-ramesh-tendulkar-joins-hitwicket-maker-metasports-interactive-as-strategic-investor/"
+    "https://g2g.news/gaming/cricket-icon-sachin-ramesh-tendulkar-joins-hitwicket-maker-metasports-interactive-as-strategic-investor/",
+    "https://g2g.news/gaming/mahesh-babu-collaborates-with-shotgun-games-to-champion-original-indian-pc-console-games-worldwide/",
+    "https://g2g.news/online-gaming-laws/cbi-secures-extradition-of-mahadev-app-founder-saurabh-chandrakar-from-oman-delhi-court-grants-transit-remand/",
+    "https://gameriv.com/league-of-legends-team-voice-chat-finally-arrives-on-november-18-for-na-and-oceania-servers/",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PaWNOLUpFazFBeUxkYWJyMFdUeXZlZGRjd2p0VkFrMS1JZ01SNTBKV3Z3ajdHSzhrVUoxVHd6eS1YMmk5cEVncWY4UzRQc0hja3pSaE9Ja0wwRS1BaTBGa290NE0?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1A0MlN3M1pSczBEdi1MWDJoWnNyZm1rUHJ5cmpZbkROYXpydnlwbjgwc3JhQXFpZE1CMjhSTmdDS1V4aEpHRFRobnVhVVhpdGtmS25ZLXpYand6Z3REeUowWEU0a3RrY0V4SE1PMDM2VFdJd0hGTEc0ZUFGSzBOVXVvbWs4c1RqNDdBdFc1Rl9OYUp0QTVQcTJn?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQzJRMVE2Sm5BUlBYX215YTk0M1hSZU1tMWVDX2ZZYlRsV1FQV2tyTU1ENy1Vbk84X3Vrd2Rrc2M4OWtaR1dETl9sR1Z2UmVZVVV5dVRCX0o3T3hNN3U0RkQwYjJ1c3ZuTXFRaHYxQkpPVjM4bk45QUx1dDgxejlibkhFdlFDVkh1eWNoRUxHeFhEeDFLZ0twbUlQelhnUFNPU0FSdHliZ29HNTR0aGpMUERMbXVUUk15enp4aEhyNkQ?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXp4eXFZajV3ZlNDN0d5N2trNV8tNGQ1Ty1xM3VxY3NDVERUU3FlWHlnejZPcG9nNmprRmZDYl9Jd2ZxSWJyVDBSMGw3TWZ4WHh0VVVqNG9ud3dwUkE1eVNyTkNWR3FLTHRQeVA2YmVmb2VqbG5RcTQxc3BpR1pPN1BDLUIwY01obU9rYlUzOU5WcTVESERUMTZBRV9lLVI5U1JWNWtn?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFBSNDRITHZneUt0TTBTRThjX212R2NYemoya2RUSlFmdGxYdGNjNEhLRENnY2lNWkUxdUkzUE5JaGlDQTlXSGwzcmdFajR4Ung5V2xxY2p4c0JaejJBem5DV08yZTBwNXBuelhIeGhPNGM1T3BLemR6cmQ0RDhCeW5kaV9kVjBqb0w0Wm92dU9WbUJKZ0pEdw?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/invictus-gaming-top-esports-worlds-quarterfinals",
+    "https://www.hotspawn.com/league-of-legends/news/g2-had-scrims-worlds-2026",
+    "https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox"
   ],
   "title_hashes": [
-    "ccecac6c758d6120c04e21cb50bc8d7a",
-    "ba2d760f19bababc70e05054c77b7f01",
-    "e62de51ef3ac45d9e4b6e01b2b1c5bfb",
-    "b989e94dbb3b14b077f1cf28d7c1bd40",
-    "45ad7fb94457c6d4b5f592135f765132",
-    "d367367a93c461b2168819f570dea959",
-    "4cb8eed985797b589c85c2ffaeaab935",
-    "dfc40da496b5ccab5c2c882830a90ae1",
-    "28063b721a5b6a34b4b0b1278b7bbaab",
-    "da0e0a9c266c7ad9c80a65c108af405d",
-    "e45e01696f61aa6a0ac34717d2b1a464",
     "ad26a7e59c7f47ce33a4aed56e241f2c",
     "439839fd509e278209d6a38e7c824ada",
     "594a70c960026c0a9e81df560afd506b",
@@ -16001,7 +15990,18 @@
     "843362fe35fdb5f370bec89a1f8218f0",
     "16a07a80377ec42811d0db958eab9dc8",
     "2a60312b1e5b61204e4ecf60083bf121",
-    "dbfced911d5fc118754198f2986c437d"
+    "dbfced911d5fc118754198f2986c437d",
+    "176caaf5061071b432184604e1d83123",
+    "e56fa86f7a8c331acec32c98048b3c8c",
+    "3dfebc7f30c4d36f14e656a9c1eed36a",
+    "45014418efb0ebf4babe107e70121f92",
+    "1d3e8b2c87bef9c83fc503bcfc4392fc",
+    "3f6c2295ec81f9dc1992dfa9fd3f3569",
+    "13478b8aaec9eac524a0cc6d8db0cebd",
+    "628e7b4d46d527ca7ce9cfd7a4f91d45",
+    "13d20cacbd9f22047441439e6d5125eb",
+    "e0ffff58540eac0780f8454eb002d43d",
+    "d3993b42f94c1469cce58c992435c125"
   ],
   "transfers": {
     "pages": {
@@ -21304,6 +21304,26 @@
     {
       "t": "arena cricket gaming has hitwicket hyderabad icon indian interactive into investor joins legend maker metasports mobile ramesh sachin sports stepped strategic technology tendulkar",
       "ts": 1793782158.2207134
+    },
+    {
+      "t": "babu based champion collaborates console core development endeavour flagship games has indian investor joined joint mahesh mumbai officially original project shotgun star strategic studio this tollywood worldwide",
+      "ts": 1793782163.1758184
+    },
+    {
+      "t": "agencies alleged app border breakthrough bureau cbi central chandrakar court cross delhi economic enforcement extradited extradition founder grants has indian investigation law mahadev major offenses oman remand secures sourabh targeting transit",
+      "ts": 1793782166.6454442
+    },
+    {
+      "t": "2019 2026 369 8217 against came civil defeat esports first four gaming invictus led lpl making out qualify reach rookie semifinals since team theshy time top victorious war worlds",
+      "ts": 1793782170.0474923
+    },
+    {
+      "t": "2022 2026 58 8217 after bigeard esports g2 general international manager performance pos posted rate results romain scrim scrims since stage team their twitter went what while win won worlds worst wrong",
+      "ts": 1793782173.4687164
+    },
+    {
+      "t": "acquire arkane consultation extension following its lyon more period read reportedly seeking ubisoft xbox",
+      "ts": 1793782177.0341163
     }
   ]
 }
