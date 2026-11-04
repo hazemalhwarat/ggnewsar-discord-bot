@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27230/soop-to-open-2026-worlds-event-page-on-october-15",
-    "https://www.invenglobal.com/articles/27229/star-savior-updates-new-event-story-on-october-15",
-    "https://www.invenglobal.com/articles/27228/wild-girls-rebirth-opens-pre-registration-on-october-15",
-    "https://www.invenglobal.com/articles/27227/world-of-dokkaebi-to-hold-playable-demo-at-daegu-content-fair-on-oct-1617",
-    "https://www.invenglobal.com/articles/27225/two-korean-representatives-to-compete-in-fc-mobile-world-championship",
     "https://www.invenglobal.com/articles/27226/gran-turismo-7-adds-6-new-vehicles-unveils-limited-edition-controller",
     "https://www.invenglobal.com/articles/27224/lindel-nine-core-prices-rebound-examining-exchange-market-trends",
     "https://www.invenglobal.com/articles/27223/hold-the-front-line-with-samsung-modern-warfare-4-collaboration-trailer-released",
@@ -7999,14 +7994,14 @@
     "https://gameriv.com/steam-support-reportedly-restores-players-deleted-game-library-after-mental-health-struggles/",
     "https://gameriv.com/apex-legends-season-31-legend-tier-list/",
     "https://gameriv.com/apex-legends-season-31-weapon-tier-list/",
-    "https://www.hotspawn.com/league-of-legends/news/tes-zhuos-message-to-his-future-self-after-worlds-2026-dont-bottle-things-up"
+    "https://www.hotspawn.com/league-of-legends/news/tes-zhuos-message-to-his-future-self-after-worlds-2026-dont-bottle-things-up",
+    "https://www.hotspawn.com/fortnite/news/fortnute-og-is-shutting-down",
+    "https://www.hotspawn.com/fortnite/news/fortnite-crew-changes",
+    "https://www.hotspawn.com/other/news/esports-awards-2026-nominees",
+    "https://www.hotspawn.com/valorant/news/nongshim-redforce-udotan-dambi",
+    "https://esportsadvocate.net/2026/11/ukraine-esportsbattle-fixing-beter-esic-gold-standard/"
   ],
   "title_hashes": [
-    "12402f950c5cc955f0225d459f1164b1",
-    "2e4584b9e135e30737099aadc593003d",
-    "2615af9a0ec72ade84257e85a5d85198",
-    "e84ac51ba5b7e166f64f852f4cea1141",
-    "4ee336738b2929cf04a345ce1f79239b",
     "2572c9267521ecdc209f85dfd9ee1e0a",
     "8d1a02da260c851a26e8c814262a5920",
     "dc5fe93a09782fd10f88daeac8b9a21b",
@@ -16001,7 +15996,12 @@
     "2fdb3f58533e662c6c4352bcf2d8722c",
     "ddb0ee631a94814afb3f8c4ce0eb49c4",
     "63bceeaa5878d02895a8042842379d0c",
-    "182a95efcb68d535d235455923e2c72f"
+    "182a95efcb68d535d235455923e2c72f",
+    "da7725bcee204a3d0be4ee6a083b91ad",
+    "9c5803d98ff9131feead1e87468aeb9f",
+    "07842cedf72c5afc4bdfad7bb3e348a4",
+    "2d2b218a1a56910dd441a6198c13605e",
+    "786e44cd24140a8be921e36e61e08636"
   ],
   "transfers": {
     "pages": {
@@ -21252,6 +21252,26 @@
     {
       "t": "2026 3 8217 after against battle bottle chinese despite don end esports fell few future gaming had having his internal invictus lpl message quarterfinals road run seed self stage strong swiss tes things top while worlds zhuo",
       "ts": 1793830542.0267317
+    },
+    {
+      "t": "alongside announced battle changes crew december down end epic fallen flashback fortnite going has lately mode rough royale shutting their this times",
+      "ts": 1793830547.0487163
+    },
+    {
+      "t": "announced anything being changes content crew cutting drastically epic fortnite get has not offering out part players range really return rewards service stripping that today ton wide",
+      "ts": 1793830550.5160987
+    },
+    {
+      "t": "17 2026 achiev awards categories celebrate ceremony city coming creators dates esa esports figures gather host industry key miami nominees november organizations place players taking top will",
+      "ts": 1793830554.0797095
+    },
+    {
+      "t": "2027 8220 8221 after dambi departure duelist esports global have hyuk kyung lee main neon nongshim redforce replacing season sign signed star udotan vct won",
+      "ts": 1793830557.5081089
+    },
+    {
+      "t": "battle been behind beter betting cases clock content convicted cyberfootball esports esportsbattle fixing football gold has integri matches player produced provider round series standard test testing throwing tournament ukrainian",
+      "ts": 1793830560.9790826
     }
   ]
 }
