@@ -1,17 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fbXFjUlc1ZjgzT3JFeWY0ckdHRTQ4V3B5bVB3aUItQ2FEbnVaNmtNSGh5d1ZITGxpNFlTMGFSeVpaS1p4TzFGVS0zNTV0eFVhVUdOaGRUTGRYeng0eXBPNnFMR1Y?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02SGhreXNDa1JOdWZWUnFHSHZrRklVR29KLTJTMTFFU2JnTzA1YnZxWkJ6MDhQMEtCSDF2Z3VKNUFNX0ZDWVF5eWhuOUVrVjhSR0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qaldJTVdUSHV5ejlVdnVWMkVBbkNpM1VZaVB6M3pzMVlzS0V2ZDgwN0R3c1BIY2hBZ2ZhNEVMbHE0aDNud3JTSm1HZU4?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXpiSkpuMEVGOWk1aVQyWE1paHlGdUlHSWsyT0ppVVVwSE9tZVBudERZQUtGYjVZWG9aaXhRU2d4bEpUaGJ1eGVlSjlENm8zUzBiUENicWZCa2JHb21QVmMtZEVYLU5YNDduZkNYWmF2cjZJa2U1b0FreUJRYWpmNnpyMzhpQXVSeVhGV2laLW53UG9vYjV2Q09WcUhKWmdZanZmSHJYM1JnUdIBtwFBVV95cUxNanFHWFZ5dlpVcW9uZ0dmOG92amJoamtjU2JNMUxHY2RlRTBtODg4bVhtbHVGUWRMZGxzU3N1RzBDSVo0VlBiNS1UUjlvQzJoTVFudkNwa3hWcEpJcVNsWlVVSzRKeHBrNXppWC03UDF6OTBoTklJendnd1Yyc1JIdVA4S3ZrdkVPVXlfOXNJNkQ5aDNXaHBqUHhMQWc2dTVualE0OWlvYmpHWjk0QXJwa1JGdTRyeXM?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5VHFMU0xCNVBJbm91bnA2TDdkMUhHX2RYdk9uWHZhNmZybmh2alFwWk1fTDJxX2duMmNhR0JYYVVqQ0VpUEoxeXl2SEVsa3ZRdWdRSWVUVkQyUzNEeVZrb1NQYkpNWTBJ?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE91V3FmUGlvRUw2TkxfaGhPb3NHRHFSNHdFa2JxeDhwcXFpdjFYOU5LdGY1WHNrbEthZWk5YVhpOHhBT1pydjRBM2Z6RmxwcFBwdGFnaTg2WEdlaUJkYVJZcVIxZVFOVmc0a2Npbw?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2s1aFRzVG9DTXpXRTZUTGxsSDZYVklUZzcwdXNzakViS0hPbk9kbWhna1R2amdQRmJuaDF1RERNZ1N5UEtSYmliREZOM29jdXlrZ3B1VHVKTG5kMThCaUVPdlRIM0tMdmRSUmNYQWk2OF9HckN6N3M2WWo0R0htUFFuaUZWc0hwdW9YOTNBNDQ2X1gzdWRrdi1RLUN1dVRqbnZ1amRPN0V3ZmlCNVdBcQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2FlZGlRX2wtYnljTUY4OHdTbHpJN0JIT0hrajRxNndENGRYSDF5UG1VelJFNDRVSk9xeGJ0Z0dvWWJCZGJjV0xmclVSTUdrNERpRzFkeHhZM29GblJ1TmsyLXFZWEhGTnNuNWJoM0NOUWpvTXFaeEtqTG45TjhzSkw0MWpud0FkWnkyNW4zOA?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbllqajVpVkNvYzJSbVFWU0ZTZmxpT0xCMDlBSElBVmRwNTRkNlFTUkpCSURiRUx0VU5YS1p3SUZ1a0xGVnZBYWx3RTQ2bEUwYzhlT2d3d1gtdnVCX2tlMnpTQkI2ZVgxVlV3R2l1VEtDdHlqeUE3TF9CR0s2TlZyZUhnRlhhSDZnMk5QQm82RktoWkZycUpUdGhlNEk0eGJZYTV2aVUyaDFTNHZVbEtfcHZzbVJ0enVmQUZVejZITGNDVmdQNFdoNlJHNnZwaDFoWTF1NlVPM2I0U2NRWWl5Uk13Vk9mWDV2YnJ2dHowdndKSEFySklaYmJ5WUVxaTVsekNNRTRia2FZS0k?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVFDTHpqMC1Ecm9FSWp5YlpXekVfeEVPT3EyTUJjWFFvYUhFa2w0bEgtUkJ4R19lVm1UNktVWVFpM25yUzduY0RqTnpmSHdpSkc4UFgxNzdpMkM0ZHFvMXdjSUF0WFFROWZpYUR4NVVveGVMSlllZEc3TzljS3YtSU9MdmFKT2Z2aW4xaFMyRnJuWFlzbl9RdWJVUENZZWc0ZnJzeA?oc=5",
-    "https://www.invenglobal.com/articles/27213/crunchyroll-holds-crunchyroll-festival-korea-to-celebrate-official-korean-launch",
-    "https://www.invenglobal.com/articles/27212/high-earning-pro-gamers-begin-unwinding-personal-corporate-salary-collection-practices",
     "https://www.invenglobal.com/articles/27210/pre-registration-opens-for-gunz-the-duel-remastered-korean-service",
     "https://www.invenglobal.com/articles/27209/play-together-launches-sweet-halloween-update",
     "https://www.invenglobal.com/articles/27207/world-of-dokkaebi-hits-no-1-in-google-play-revenue-five-days-after-launch",
@@ -7999,21 +7987,21 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiRE9DOFI0UVZuUUhYcU1OUWdzbWJUaEl3akhaLXl3VzNIQkpQcVE0SHBoYUMyUGJDTWQ3ekZxMmpqQzhaY25WNHhqZURHa0tOTHc?oc=5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfNGwyc0FiNDVJMkZZa3FDaXFOZy1jWW1YWEVRZndBVlltUnFfaHktQlBtZjlPNy1fbDFrdFBXc2UyNzRxMDgzdEpUS25XVmIxVkVGRVZHaEpBZGtua2NKc3JR?oc=5",
     "https://esportsradar.gg/team-liquid-brazil-manager-outlines-restructuring-honda-lessons-and-local-ambitions/",
-    "https://esportsradar.gg/london-based-esports-youth-club-gets-new-funding-from-ppl/"
+    "https://esportsradar.gg/london-based-esports-youth-club-gets-new-funding-from-ppl/",
+    "https://esportsradar.gg/bahrains-sovereign-wealth-fund-partners-with-trail-to-explore-esports-investments/",
+    "https://esportsradar.gg/eva-shares-insights-on-inaugural-vr-esports-season/",
+    "https://esportsradar.gg/seagf-confirms-13-esports-medal-events-for-34th-sea-games-in-malaysia/",
+    "https://esportsradar.gg/fissure-ceo-acknowledges-prize-debt-targets-q1-2027-repayments/",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBtZTJtMUxJUzRfV1l6bGpDT05sVUJVU3JHWGN6cmlRZklmd1RRdmFrbkdjR2VqRnFYV2FnWURTSEtOUW1mTzYwR083LVYzV1FLb09hODJrbHNPeEY1cnJObGdSR3lkMDNZdEI4QkZfQmZmQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYUGdBckJvRFRoeXphWUtLS3VCSHl4MllSblFfc1Ntckxuay1JQVI0M1RqUHJjQW11MGJ0MDB6SU1oMnQ5ZWJSMjBiTkJjQ2lGZnpuT0NnVlVWMUk?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc2lVcUpwOFg4YUhpeTM4UDVKa3Zmb0RVcVRoMnBIM1NMZEpCR2NSakNZS3RHNzJfdEdDd2U0UVo5c1VfS0ZmLVo0ZW9LcGI4ZzFsWkEyMTkwTnlmR2pKUFczaDJHU3YyV1RBQi05ZTBIYnFEWmVfeUJZUmQwV3VoOU42Z3FXUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ2k2Z01OS05BeVZJbllUOERSTGpWdUVGVWtZNnNFY3VQVzh5R1RCZ2dmRkNNZEVjQk5RMDllUkh2Z1FodFF5RjM4eEtBdE14MVFVM1RSZjg3SlI0T296ZHd5UTV2eU1ObWd4SFlXWDNIdk1tMVZZMjdEazVsQndrVlBfQ2ZFQjFsUWtNc3JpQXgwaDJvRkFkTGV0dFBkeFlOQUExcHFRcjcxTHRDRkpjetIBtgFBVV95cUxONFlYRmVHY1ZUU3RRYXVZbmIyUnplWjhfZEhMOHI1eTBjbkZ1aFhud2tHNDFqVmRJU1hVSUZxaGllcW5NbjRBT2paWGZGdmxRajFsYzZBcEhHbkE0a1pqQTQ4dVlLb2d5SHVIdDJLQUZXYzBqTl9WZlZJSnQwN19iSVJMeWRpRFE5X09vMnZMaG82U1BPaGdUM2htUF9OZWJmZ09Wdm1PRlhGS2JNRVc0aG5uQ0s5QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFBxTDhsR2Fwa0wteUstUU1WS2M4emx2WHQ1Qk1XMDltNS1xYXVTSUlSRlA0bE1pX2NsNTE5ZnFFcERtUHBEMGJqQnV1aFVRTHQzREFfNWJ0SXIxem5qazUtYlNGNVVHVTk5TVh2SzNqb2tPdDBWdmhjdk0ybldrenl1cmRDRFFJSFdjQ0M4XzFEX1ZsbzlHcEpZNUVQRGR1LXd6YnNBc0RSSTM1eGVtQWdtNFhWdmNMc0FDdTlCRdIBxAFBVV95cUxOUi14Nm8wblZPcTBhRUxuMUdMczNXM3BCcUVDVHlqZ1d1cmlMb1VGZ1lVYmltQm5ieFNXSHRNWVlxYklYOXJvdTVJSXE1UWM0ZkxCQzFoVHVqWkVXaVZBbWttRkx5N3d6dnhPSVhVVVVnMTVqV0tBV1FQcFQ4Nko0WlFERF9NQ3pfZzNwVFlvSEZESURjZkNFN2REWF9rdkhfTXVhVU1Rd1ltYV9MMklwUEVJczdxNzJEaUFhU0VRYWw1a0NR?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1MzeFdzNl9PNy13ODdlcjZVdGkwZG81SWQwSTBub0hyVzY1RlpGSHdQSUZ3SzN1cWlpVFdrUnNSbDZjNjN6SXptWE03VENhNnhXOVJyRTVVQklyVE1paFkxZkJBY1JKZHZhY2pmNS1TUVFFX2YtSTZZN3VvOUZiNnRLdWtUQzVSX3E1M2tEc0dqcUZ6?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRi1nQmg4WnNNUHNwcTJwZ2ZzaXNQT2RuU3B6bjN2Tm9OcWVxdWlRV2FET0JaeDh6WjNpcmVxYnZCdFgzdWlpWjFjY2M2YklRcE9GS0RVWGo2emhGUjN2RE5TTU03R3JmMGcwcVFoNGNIU0ppM2ZFOEEwSWhreXJtRTk2SE01eHV2TDhqa1E5VnRpOXpWVTdIUkZreHVMZnRTYzh0dVV5Yw?oc=5",
+    "https://www.talkesport.com/news/cs2/iem-beijing-2026-playoffs-teams-schedule/"
   ],
   "title_hashes": [
-    "b020d0ad173f5652740b2a105c66c735",
-    "7ae7fd3f109b3de39624e40a6631f209",
-    "7358bab65b638487942280e320125f31",
-    "6139df5b9d3c6801ba426d87b9f6c936",
-    "6afc696169bfcaeac8c45bfbafb74ea8",
-    "dd0404f9fc744de330ebe931d01b8fb8",
-    "5b1ebea183b2f3130c0af11148c4bd73",
-    "0e601093bb21c701e7cc56f15d82fe3f",
-    "a97e6088b382e2367eed3a36b6fe5aed",
-    "5f0cd9ebfbee7efcd95699d32c51fbef",
-    "764bd0dc0aeda30ef2481e950ede8a1b",
-    "2b37746e0157488f1c69b1510628f298",
     "c88e9473184e040b2cbd19a13ec682d7",
     "2778013389b0eb9eeb5de87bb31214bc",
     "c3a12642493e4e3b22915330be994584",
@@ -16001,7 +15989,19 @@
     "9cc4245c5ae7281eb2803775a37fef94",
     "850d1d695ede7a8ff8904a779f7082ca",
     "fd23ffa1dca10531d4b41de942ff4153",
-    "1ffd03a1c167c353538b49d344fe10bc"
+    "1ffd03a1c167c353538b49d344fe10bc",
+    "b46a92d9b2ab915652dacd16c29bd723",
+    "2bd7ff51467bced791e386e5ebdb7b3a",
+    "9ba7f920742603facc2d25b98a48c07b",
+    "5d70ad0f9a8594f7910d2154ab1aef51",
+    "169d067dbccaa974a918d879664f98ef",
+    "e2b4de828c7dddaf378831f2251bba66",
+    "4be08545af3cb75f447fdb482774abb3",
+    "1761d90fec6fbf99a84cf470e6dcb08a",
+    "e67368157f223b43816a3885941a1760",
+    "466ab9f2fa3d2fd9a1008ba020a299e7",
+    "758e0082bb45888b1c54a75044be6e44",
+    "d393cdbe5c37eb78c38ca0a5c5181ec2"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "based club consultancy enterprise esports eyc funding games gets has its london management new organisation ppl received run social south that uses video work youth",
       "ts": 1793810487.309198
+    },
+    {
+      "t": "agreement announced bahrain company cooperation equity esports european explore fund have holding inv investment investments kingdom mumtalakat partners platform private sovereign trail wealth",
+      "ts": 1793810492.684972
+    },
+    {
+      "t": "2026 april arenas concluded esports european eva has inaugural insights its launched league marking milestone operator pro reality season shares summit virtual",
+      "ts": 1793810496.0948586
+    },
+    {
+      "t": "13 2027 34th asian confirmed confirms disciplines esports events feature federation games has list malaysia medal officially sea seagf set sha southeast that will",
+      "ts": 1793810499.731155
+    },
+    {
+      "t": "2 2027 acknowledges acknowledging ceo counter cs2 debt dota esports fissure has its money nikolay owes prize provided q1 radar repayments sets statement still strike targets that tournaments vesnin",
+      "ts": 1793810503.4528303
+    },
+    {
+      "t": "2026 3 action beijing concluded day extreme finals following giving group has headed iem intel major masters matchday packed playoffs quarter results schedule some stage teams that upsets will witnessed",
+      "ts": 1793810507.246738
     }
   ]
 }
