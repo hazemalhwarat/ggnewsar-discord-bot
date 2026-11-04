@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FcldqRGJKb1RJSlhKUDl1YnpMZkJBSlJQWjNFUlRnZGRCRnhhazI1bzdaX3RjQUs3S01SbVFqQ3ZDQ0U1OWNiQlIwb3pmQjRHVVNrSVVtdm5yTmdXZmt6NGtWdEo0WFdzV3JN?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE10M1dRYzNwQ01ra0g5UXJ5M3ZuNUM0M1YwNko1bno5aHdzXzVRNDJHWURsUmR1d29XREoyZWt4LU5qV3QwR3VwSFltUFZUM0V4Z2x0WVp6MkFKcXpnM0FYU0ZpbGRoN2xXZmxHNG5lLUdVamxlNlE?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQODBVajVrVThrM2pENzgxbFRuZnZMbjRjNkE4dnJXYkxORWEwUE1jLW14WHJvNVhOUGhfbXlObk5qbmVIWmZ6OXI2WXRRajFhZUxBV3RkVQ?oc=5",
-    "https://europeangaming.eu/portal/press-releases/2026/10/15/216032/wazdan-haunted-coins-x5000/",
-    "https://europeangaming.eu/portal/press-releases/2026/10/15/216018/openbet-loterie-romande-sportsbook-launch/",
-    "https://europeangaming.eu/portal/latest-news/2026/10/15/216011/finland-npb-illegal-gambling-marketing-fines/",
     "https://europeangaming.eu/portal/latest-news/2026/10/15/216005/matchbook-acquires-betdaq-brand/",
     "https://europeangaming.eu/portal/press-releases/2026/10/15/216000/evenbeter-ai-back-office-tools/",
     "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5leUFKVzgxY21KM0p3aEI1REtmeTAwWjd0LUtSODBjajVkTG1SNDNJMHozakl5alFUZE1TeWZqR3BWUQ?oc=5",
@@ -7999,13 +7993,15 @@
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTRKVFlYUVNzRFJqU0hxZGh1OEZpYVJyeEtFUFFmYlk5WTh4WE5CRnRoYVBieFduLTU2Q1R0WjAyLUhYdTRCUmZ0QzAtdFFVYmxhbGhTNHpYYUoybmtJUGFSSVM5djgwdjJ5WENxSUM3VEdUWDdOWU83SGh4cTRLcVpZYnNra3QzTmZYRUE4d1BqLUt1bF84bkhfbnI?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tZ0hmNVFhTS1kNWUyMmxBaV9tWnY3RjhsblB2aTR4MkZxSWVsczJYaXoyd2ZRRmotcmJydzdIYzBYYWNIMGo5V0gtUmZHUWlUcGdEeFZvU1p3dnEzWUxmTG9SZTFCR1k0eGl4YnBIUndyUGxxWkNFdm1wcw?oc=5",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNazRQeHUwaFJaT1pGSlc2d21OMkw1OGQ5bXd2LW1YaXBNOWhITWxJZDA0am94aVNSdXU0ZVNSdlZvb1VEeTRBY09wMzRJcFhUV2Z0NjBVQWN4M2Z4ZmJhY3MyYUd4SnQ2OW14U2NGM1VqWDh2WUNfc3FSUEJ6YXdrV0lmRDY3YW1VbkloVWRUeThLVDJ6U29Ic3lyWUtGUmlUSjNYWTJGWlczcTY0a0hZWEhRRXM0ckM1NFctM0tmWVlWT1pER1FZQXVHWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGdCRXljNTFEM3ZlZGw3N19QbUlYMzh3WW5CeXk0d2NRVnRTN05PMkdVZVo5NFc4dERHZlpuWTVrTnlFa2xmeVdoc0pqdlBMY2paQzhEMXNOZF8yY25meHhNUmFmdS1pS1FJY3pPR0RTR081dERWcWRwaDVTWjdNVnZyRVlZeEc5eGFvWnFSN0VIeENyaDdWMGs1ajJybnEzd0E?oc=5"
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGdCRXljNTFEM3ZlZGw3N19QbUlYMzh3WW5CeXk0d2NRVnRTN05PMkdVZVo5NFc4dERHZlpuWTVrTnlFa2xmeVdoc0pqdlBMY2paQzhEMXNOZF8yY25meHhNUmFmdS1pS1FJY3pPR0RTR081dERWcWRwaDVTWjdNVnZyRVlZeEc5eGFvWnFSN0VIeENyaDdWMGs1ajJybnEzd0E?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVlTcmxGb01sZlBoRkFsNnRpLU5seEJzTU1zOGxrT3dWY2gyODlqbVdBUksxWnBncHlyYlR4X2ZodXIxdFMwQUVfVC0xNmd0YTItRHptQW1iYzI2aEpTaVozcEFsVGliQkJxblI4Xy1RQ3NUMldKTVd0Vk1US3JhNXRmOFJadWw5d2NMLWRkdFV5VVpudWFvdTJDa3VYVlVNWTFlem5R?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQWZMRFpEOC1YbnZ6Q2JRMmlrRE5TWEw0WElZaFJKelg5bFlIako0dXhTRG9VaEhBRTd0ZEZET0U4X0c1YjNDUURCVmtONkc3UHpsM1VKS28yTDU5Q0VVZUJSb3lQUXJFckJQa0dFbEU4NlR0cld0OWROUy1CUklrbS0wLUNlZXZTYjdURDVPSmh2R2l2SzJodmFmMi04V0t3ODRLV0VVYlppanFT?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZE43a2tWTjVJcEgtNU5mb285eUhjemV0Ymk3MVlfY01MSHEtMTJvX3BvWmFzLVFuaG1RclVOZG16UkdnVC15NDduakxhenhoMHllT1VZV0s4cFZsdFNJNy1uSjVPb2ZuYkx2NlR0cUR0bGFUZ216MDY5Mko0Nm12aDlOX3ljX0xoRzRXOWtSVi1adkVyNlFOODIwVkFCLVcxY1dJX2xBb2NCZw?oc=5",
+    "https://pley.gg/cs2/faceit-introduce-automatic-server-matching-for-season-10/",
+    "https://pley.gg/valorant/fnatic-down-to-three-players-as-crashies-leaves/",
+    "https://pley.gg/cs2/uk-to-stop-under-16s-talking-to-strangers-in-online-games/"
   ],
   "title_hashes": [
-    "c15bf223f65e5c4dd6009635e8f2e561",
-    "6c6021552853a7c5b4201b2ce041865c",
-    "aa54c94d09fbedebbc7c874394e9d05b",
-    "210ecda6c65b2b2119d8ce0b6f25c8e6",
     "517f85ac3ae33890de9c2d3a5ce3e052",
     "f27f70d3353778e9fbcdcb14d871e0c0",
     "d16cf15af0202b17a4f2f3f80a32ddcc",
@@ -16001,7 +15997,11 @@
     "8fc2654649d61a3ba3f2d4245f44eac1",
     "22ffbe52ad218bb0baf90bac27de5964",
     "ec003c635bd9aa30125e7f3701b41b9a",
-    "7716b28c50ed8f70b53ff3abf4ba9c3b"
+    "7716b28c50ed8f70b53ff3abf4ba9c3b",
+    "23964c6ef102e997e0a6b7bb462501a0",
+    "133a8c0f7046f78725de604e5cb197b5",
+    "e08527a5ebb18fb9517f148cc31ea8fe",
+    "9c18e46532c4f7c72cb892b423ec05cd"
   ],
   "transfers": {
     "pages": {
@@ -21332,6 +21332,22 @@
     {
       "t": "2027 egamersworld esports g2 jungler lyncas nbsp new pick replace skewmond",
       "ts": 1793830618.1039238
+    },
+    {
+      "t": "2027 ahead boukada esports join lfl nbsp season set sheep solary sources",
+      "ts": 1793830622.91772
+    },
+    {
+      "t": "10 automatic choose connection cs2 data each every faceit introduce location longer match matching party pick platform players preferred season server servers their will",
+      "ts": 1793830626.4003742
+    },
+    {
+      "t": "crashies down fnatic leaves players three",
+      "ts": 1793830629.9419687
+    },
+    {
+      "t": "16s chat confirmed cs2 games government has including matchmaking online plans stop strangers talking under voice",
+      "ts": 1793830633.3652518
     }
   ]
 }
