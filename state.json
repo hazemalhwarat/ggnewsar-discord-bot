@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/news/deadlock-deadman-danny-rocket-jumping/",
-    "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
-    "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues",
-    "https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december",
-    "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM0gya29xZHdmUDhZQTZkZ09palYySDhuSXFlT1Y0ZWJrOVRaNnNGOWJtdDJnVUctZUpzUnR3bjg2eGh3UHZwQjhQTTBkQm5GNDFtem5reWl1RVExVXdHZU9MN2UzY0taSjJsRk5kRXBsa0lzZHFseTRaTlBYQmhJU2FfUnhKVVd3V2dsXy1ZQzBYRGo3LWtfNnlnaXZqcWVHV3RIZExIelFtZ3l1TkZGb2dkVFF3Vno0TDQ4X1JhSGktc1VWeDUxY01zdw?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTF8tV01oTnpmTTAxYjEtdmx6Mk1NQ3hSLWdyS0RLak42SVNzdkc5czRJOVdPNExTSWFpWVdfTUJ1T0k1dGRCV1JGdnJpZWZNZ0otclRYRDJjMzBjRkFIU3hKUWpKbksyMFdyUjA0bTFGZlBQWHRzd19BWl9FeEhIUzNqNWw2SXVhSl8ydUlacEY4Zw?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zVEJ4RWNJeVNfQnItSUtQMTRhV1BYbmNkSDduWlo5ODZmNWtqaF9pR24tb1o3WXRaemgtb2pXcXpNU2ZLaEI2X0ZzLUoxSGZ5YllBUnpsd2EtTGpnVFNyZ0FBc18tYU5sMEE?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.vlr.gg/784057/gen-g-releases-ash-efina-and-coach-peri",
     "https://www.vlr.gg/784050/varrel-parts-ways-with-full-roster",
     "https://www.vlr.gg/784043/detonation-focusme-levels-roster-ssees-remains",
-    "https://www.vlr.gg/784045/g2-esports-bids-farewell-to-babybay"
+    "https://www.vlr.gg/784045/g2-esports-bids-farewell-to-babybay",
+    "https://www.vlr.gg/784038/cloud9-parts-with-three-signs-glyph",
+    "https://www.vlr.gg/784011/sentinels-welcome-brawk",
+    "https://www.hltv.org/news/45909/falcons-and-navi-set-to-clash-for-iem-beijing-playoff-spot",
+    "https://www.hltv.org/news/45906/liquid-send-tyloo-packing-from-iem-beijing",
+    "https://www.hltv.org/news/45905/betboom-eliminate-aurora-from-iem-beijing"
   ],
   "title_hashes": [
-    "a325c238afdd7977e3cc12d9e313d387",
-    "6484b03945eb1842238f9fd0965d0721",
-    "ffeae90fd35ed35b4cc0c5b266c891ac",
-    "d24915a157c9f9b25842c9f44e8d81e5",
-    "7f9089b13df99b2a29c119b515793c2d",
     "1f4eb9bbbb9083327e43c6651fd0832b",
     "e11c0e5d6ccf623e05ff90175d4fe02e",
     "1c57cd274cde712a9e59b5e07db74af6",
@@ -16001,7 +15996,12 @@
     "62ba29d3a6d87d34138972edca304b48",
     "25eb4b7dc7dd441d9cd059cdf3b6fe4b",
     "85ef90815b1947e52c5d49abd73b709a",
-    "49679841eed6bb76dc01b8d7a4234795"
+    "49679841eed6bb76dc01b8d7a4234795",
+    "5509ccfa0015ef2df88ad353df83678c",
+    "230ed35927530468dacc2875f248ae8b",
+    "919c615fa95cf637b71c560e19b2ff83",
+    "9630ffcb6461c11c425e1384d49fc76d",
+    "de3f5f678b79af67ed9d6dcb583ff2aa"
   ],
   "transfers": {
     "pages": {
@@ -21264,6 +21264,26 @@
     {
       "t": "babybay bids esports farewell g2 separate ways",
       "ts": 1793782120.3569694
+    },
+    {
+      "t": "2027 adds cloud9 glyph into parts prepare signs they three transition",
+      "ts": 1793782125.333282
+    },
+    {
+      "t": "2025 brawk champions mvp now sentinel sentinels welcome",
+      "ts": 1793782128.8115063
+    },
+    {
+      "t": "beijing bracket clash cleared falcons favorites group iem lower navi playoff semi set spot stage their two",
+      "ts": 1793782132.2595015
+    },
+    {
+      "t": "aces beijing delivered iem liquid naf packing send series two tyloo",
+      "ts": 1793782135.7731824
+    },
+    {
+      "t": "across aurora beijing betboom conceded d1ledez eliminate iem just magnojez rounds series starred ten",
+      "ts": 1793782139.346522
     }
   ]
 }
