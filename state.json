@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/gears-of-war-e-day-patch-notes-october-14/",
-    "https://insider-gaming.com/007-first-light-switch-2-release-date/",
-    "https://insider-gaming.com/nyt-connections-hints-solutions-october-15-1222/",
-    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-play-ins",
-    "https://www.hotspawn.com/fortnite/news/fortnite-x-obsession-update-sprites",
-    "https://www.hotspawn.com/league-of-legends/news/mvk-harky-worlds-2026-interview",
-    "https://www.global-esports.news/call-of-duty/call-of-duty-billions-are-made-every-year-from-cheats-activision-reveals-a-staggering-figure/",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fbXFjUlc1ZjgzT3JFeWY0ckdHRTQ4V3B5bVB3aUItQ2FEbnVaNmtNSGh5d1ZITGxpNFlTMGFSeVpaS1p4TzFGVS0zNTV0eFVhVUdOaGRUTGRYeng0eXBPNnFMR1Y?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02SGhreXNDa1JOdWZWUnFHSHZrRklVR29KLTJTMTFFU2JnTzA1YnZxWkJ6MDhQMEtCSDF2Z3VKNUFNX0ZDWVF5eWhuOUVrVjhSR0E?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qaldJTVdUSHV5ejlVdnVWMkVBbkNpM1VZaVB6M3pzMVlzS0V2ZDgwN0R3c1BIY2hBZ2ZhNEVMbHE0aDNud3JTSm1HZU4?oc=5",
@@ -7999,15 +7992,16 @@
     "https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY05UTmZyQTRRRnNULWFObFhyeDRQSER1TVFSb1VKekhwbF93Y2k0U2VNMHFLY0pJQlZ1T0hfYl9jejNBcEROaklsOTZ0UTltemEwb1dlb2xGZDBYNDNrMW1xUHU1ZGFOUnVqRFVCNlBnV0E5VDZRbjhPdnpoZ1R4VQ?oc=5",
     "https://europeangaming.eu/portal/press-releases/2026/11/04/217405/degen-studios-loot-box-legends-slot/",
-    "https://europeangaming.eu/portal/latest-news/2026/11/04/217396/kambi-ai-trading-18-million-accepted-bets/"
+    "https://europeangaming.eu/portal/latest-news/2026/11/04/217396/kambi-ai-trading-18-million-accepted-bets/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/04/217372/sportradar-q3-2026-results-revenue-363m/",
+    "https://europeangaming.eu/portal/press-releases/2026/11/04/217367/wazdan-enters-finland-through-veikkaus-partnership/",
+    "https://europeangaming.eu/portal/press-releases/2026/11/04/217363/games-global-foxium-arthur-kingdom-of-spins-link-win/",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiRE9DOFI0UVZuUUhYcU1OUWdzbWJUaEl3akhaLXl3VzNIQkpQcVE0SHBoYUMyUGJDTWQ3ekZxMmpqQzhaY25WNHhqZURHa0tOTHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfNGwyc0FiNDVJMkZZa3FDaXFOZy1jWW1YWEVRZndBVlltUnFfaHktQlBtZjlPNy1fbDFrdFBXc2UyNzRxMDgzdEpUS25XVmIxVkVGRVZHaEpBZGtua2NKc3JR?oc=5",
+    "https://esportsradar.gg/team-liquid-brazil-manager-outlines-restructuring-honda-lessons-and-local-ambitions/",
+    "https://esportsradar.gg/london-based-esports-youth-club-gets-new-funding-from-ppl/"
   ],
   "title_hashes": [
-    "baebeebeaae674af4dd7c7bb1c02d1a2",
-    "cb1a87528f7e0e6344d3e90ef79392b4",
-    "9f0b9f59bc36efa8bc574a0a7de3e1b8",
-    "3e47c99ed9615e8e484dd2ce1cb29efe",
-    "529e65d6feb1ef895257de25b05ac4f0",
-    "b7a804a20b0e47a878d272fa18354830",
     "b020d0ad173f5652740b2a105c66c735",
     "7ae7fd3f109b3de39624e40a6631f209",
     "7358bab65b638487942280e320125f31",
@@ -16001,7 +15995,13 @@
     "e5bf96ef896d2f56b1f478573194deaf",
     "45a9e6e7a3536eb32cc0585076c11f25",
     "80ee57e296a64d90aa1a6e1cd36a2e0a",
-    "2fec1398e3ca4b4972303192cc67c4d3"
+    "2fec1398e3ca4b4972303192cc67c4d3",
+    "e1405bf56c2384575eefc2cce77772a6",
+    "d320201ef379f15dc63a6681a316a832",
+    "9cc4245c5ae7281eb2803775a37fef94",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "fd23ffa1dca10531d4b41de942ff4153",
+    "1ffd03a1c167c353538b49d344fe10bc"
   ],
   "transfers": {
     "pages": {
@@ -21092,6 +21092,26 @@
     {
       "t": "18 8230 accepted adds appeared bets betting delays europea expects first has kambi live million more number post put sportsbook supplier trading volumes what",
       "ts": 1793810466.507407
+    },
+    {
+      "t": "24 47 8230 acquired appeared arena clients costs drove heavy higher img jump market period post posts prediction q3 revenue rights rise sales sport sportradar while",
+      "ts": 1793810472.921822
+    },
+    {
+      "t": "8217 8230 act appea before changes comes country deal effect eight enters finland finnish first gambling months new partnership post supplier takes through veikkaus wazdan",
+      "ts": 1793810476.4317913
+    },
+    {
+      "t": "038 10 8217 8230 arthur extends foxium games global kingdom launch link mechanics medieval more most now one post shared spins supplier than themed title used widely win",
+      "ts": 1793810480.0480354
+    },
+    {
+      "t": "adapting ambitions around brazil brazilian building changing commercial competitive development esports fanbase focus global growth honda industry its lessons liquid local manager operation organisa outlines renewed restructuring team",
+      "ts": 1793810483.7885292
+    },
+    {
+      "t": "based club consultancy enterprise esports eyc funding games gets has its london management new organisation ppl received run social south that uses video work youth",
+      "ts": 1793810487.309198
     }
   ]
 }
