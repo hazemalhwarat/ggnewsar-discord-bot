@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://esportsinsider.com/2026/10/vct-china-partnership",
-    "https://www.dotabuff.com/blog/2026-10-14-items-in-dire-need-of-rework",
-    "https://www.hltv.org/news/45719/bit-if-we-make-it-back-to-the-playoffs-consistently-im-sure-at-some-point-well-win-another-tournament",
-    "https://www.hltv.org/news/45718/9z-beat-aurora-2-0-to-kick-off-twc-2026",
-    "https://www.hltv.org/news/45717/sdy-headlines-new-look-monte-lineup",
-    "https://gameriv.com/battlefield-6-update-2-1-1-0-reportedly-caps-weapon-xp-at-300-per-minute/",
-    "https://gameriv.com/sony-reportedly-takes-down-ps5-and-ps4-piracy-store-offering-over-1600-games/",
-    "https://www.hotspawn.com/league-of-legends/news/t1-minions-merch",
-    "https://www.hotspawn.com/counter-strike/news/thunderpick-world-championship-2026-media-day-recap",
     "https://traxion.gg/moza-set-to-bring-its-biggest-ever-product-showcase-to-simracing-expo-frankfurt-including-ps5-wheelbases/",
     "https://traxion.gg/heroic-gt3-driver-loek-hartog-becomes-conspit-brand-ambassador-will-appear-at-simracing-expo-frankfurt/",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLaEJ0X3dYQjdMMkd4VmxBeWRCUG93d0YtVWxqNEpoSHpNWDhLMDktY0JxLXdWOVV4bHRfZVhwZTdsS2g0SjNHSmhPT0lGbmRvcDR4dkVMd003ekk?oc=5",
@@ -7999,18 +7990,18 @@
     "https://www.invenglobal.com/articles/28135/romantic-top-laner-theshy-i-returned-to-ig-to-keep-my-promise",
     "https://www.invenglobal.com/articles/28134/extreme-crafting-difficulty-complete-overview-of-demonic-armor-for-top-players",
     "https://www.invenglobal.com/articles/28133/tower-of-insolence-expanded-key-features-and-items-to-watch",
-    "https://www.invenglobal.com/articles/28132/lost-ark-hosts-events-to-celebrate-8th-anniversary-of-official-launch"
+    "https://www.invenglobal.com/articles/28132/lost-ark-hosts-events-to-celebrate-8th-anniversary-of-official-launch",
+    "https://www.invenglobal.com/articles/28131/australias-choice-names-sony-in-shonky-awards",
+    "https://www.invenglobal.com/articles/28130/prepare-before-setting-sail-crimson-desert-dlc-entry-requirements-and-early-exploration-tips",
+    "https://www.invenglobal.com/articles/28129/character-switching-optimization-applied-black-desert-nov-4-patch-highlights",
+    "https://www.invenglobal.com/articles/28128/lineage-w-updates-new-dancer-class",
+    "https://www.invenglobal.com/articles/28127/chrono-odyssey-unveils-new-boss-fight-gameplay-video",
+    "https://www.invenglobal.com/articles/28126/sol-enchant-opens-pre-registration-for-major-update",
+    "https://www.invenglobal.com/articles/28125/guild-wars-afterlife-unveiled-launching-january-13-next-year",
+    "https://www.invenglobal.com/articles/28124/tower-of-god-shifts-to-inter-world-content-episode-2-pre-registration-begins-nov-4-patch-highlights",
+    "https://www.invenglobal.com/articles/28123/what-to-do-on-spooky-arcland-the-8th-anniversary-island"
   ],
   "title_hashes": [
-    "f1f2b069e49eebf687fd0263b7ae09de",
-    "a79cf1357e8069ae54b3a0037d8849ea",
-    "b9eb77daa4c2f18aae57fbe67e0e183e",
-    "1fce27229d1c578978d4057fb2a410c9",
-    "64ac7a0944e011baf4d91c6a919806bc",
-    "bac4cda6a4f0c4f85a9450b4befe9737",
-    "85cb8a71f49a0234000298f139b8ad6f",
-    "156eeac9a0fce85654b4f8240c6d082e",
-    "dd3388f17f1c8dc650fae2669d38f81e",
     "3a253419014bd12fbf1f68891df9f5f5",
     "f2ab5fb218da8b84623f45579aa4ba11",
     "459055a31cb6a3d2d7aab8daa905bf77",
@@ -16001,7 +15992,16 @@
     "d506aadbe4b525a5bee2b3e17bb4221b",
     "25044a9a8978a9e7360044e30dc8c562",
     "0d030da8a9e7a289dee8e3ec0cc514e4",
-    "cbb19f6cc89280b0a6207035d0d6f33e"
+    "cbb19f6cc89280b0a6207035d0d6f33e",
+    "9342286c361634d978d5674b1becc586",
+    "103a03ee8d77359b38688cdb7cd9ab1b",
+    "c856e714eb96fba46290e31b47ebafd9",
+    "798cba3c073b98a9adf6f63fbd226460",
+    "c9160a53404a4159d4bcaf321e0ab766",
+    "12313a3d28f802e3a22b07d2e01c6dcf",
+    "25658369650c5f65ddab936c8f040939",
+    "f2cb514613b643285e20ae3db1325048",
+    "c5e3236779002503188376110c9189c2"
   ],
   "transfers": {
     "pages": {
@@ -21204,6 +21204,26 @@
     {
       "t": "4 8th anniversary announced ark attendance capsule celebrate draw event events holding hosts including island launch lost machine november official rewards smilegate that various",
       "ts": 1793782062.5061858
+    },
+    {
+      "t": "2026 advocacy australia australian awards choice consumer entertainment group has interactive its named names shonky sony winner",
+      "ts": 1793782068.3061483
+    },
+    {
+      "t": "4 addition along arena base class dancer druga dungeon lineage ncsoft new november released secret this update updates wednesday week",
+      "ts": 1793782071.8792787
+    },
+    {
+      "t": "4 action battle between boss chrono class combat corp fight gameplay games kakao mmorpg new november odyssey paladin released showcasing unveils video",
+      "ts": 1793782075.374861
+    },
+    {
+      "t": "00 02 12 25th 4th announced begin enchant episode infinity live major netmarble opens pre registration scheduled sol that update will",
+      "ts": 1793782078.844808
+    },
+    {
+      "t": "1 2 3 30 5 65039 8419 8th 9 about anniversary arcland bingo complete games island minutes normal prerequisite quests spooky takes total what",
+      "ts": 1793782082.3757339
     }
   ]
 }
