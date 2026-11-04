@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27216/tabletop-td-officially-launches-on-steam-november-6",
-    "https://www.invenglobal.com/articles/27215/maplestory-idle-rpg-holds-autumn-events-ahead-of-1st-anniversary",
-    "https://www.invenglobal.com/articles/27214/gundam-blitz-order-revealed-network-test-recruitment-begins",
-    "https://www.invenglobal.com/articles/27189/steelseries-opens-domestic-pre-orders-for-sensei-pro-and-rival-pro-series",
-    "https://www.invenglobal.com/articles/27187/brawl-stars-and-kelloggs-launch-100000-limited-packs-for-second-collaboration",
     "https://www.invenglobal.com/articles/27185/valofe-features-seungkyus-new-song-in-r2beat-and-club-mstar",
     "https://thegamehaus.com/fantasy-football/fantasy-football-week-6-tight-end-rankings/2026/10/14/",
     "https://thegamehaus.com/fantasy-football/fantasy-football-week-6-wide-receiver-rankings/2026/10/14/",
@@ -7999,14 +7994,14 @@
     "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE1KTHBOeDZ4VVdCTXN5YjhMcjNvMXNDWEZRUG4tOGdmSFM3b191QlI3OC1YNzVJR0lFRFpQWmZtSHJVUUd1WTJiUjlLcG5XMDhkc3BQdXExS1ZUTE1JbGVqYUE0QUc1aFZPOTZlaWlRRS1pQQ?oc=5",
     "https://www.talkesport.com/news/gaming/ps-store-black-friday-dynamic-pricing-astro-bot-death-stranding-2/",
-    "https://www.talkesport.com/entertainment/burger-king-india-avengers-doomsday-menu-prices/"
+    "https://www.talkesport.com/entertainment/burger-king-india-avengers-doomsday-menu-prices/",
+    "https://www.talkesport.com/news/valorant/vct-team-capsules-leaving-store-global-esports-bundle/",
+    "https://www.talkesport.com/hardware/razer-raiju-v3-pro-signature-edition-price-release/",
+    "https://www.talkesport.com/hardware/sam-altman-ram-altman-pc-memory-comments/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/jonathan-gaming-8-million-youtube-subscribers/",
+    "https://www.talkesport.com/news/cs2/fissure-ceo-prize-money-debt-q1-2027/"
   ],
   "title_hashes": [
-    "e5bf96ef896d2f56b1f478573194deaf",
-    "8a38fcc6e21284d25fdfee2cab4c96c6",
-    "6c87a480378d3fca283ba5827fe4ec44",
-    "2416a30d0a2e82844b41573e95133b61",
-    "7afc3e736720398ed22cd4350fa1f0c5",
     "a251248dd251f472191ada5cb7e56fe7",
     "c7d6504443c6a8035d6a88d489f5d9ed",
     "3e30339af328aa636b6f589315a18add",
@@ -16001,7 +15996,12 @@
     "71071f0d575a0ebad85891004ad28685",
     "062177f1b66543d9b36d39f64ab406fb",
     "06198e7b7ebbe2969f1f59fd2ddc30e3",
-    "5706775be9b095a013289e15de64a92b"
+    "5706775be9b095a013289e15de64a92b",
+    "967c1fb78fb606d78537eef573af1288",
+    "e49f88d488d304e9d2388ae9f0b59706",
+    "e3555de8b3143c71a6f5858c0c843c5e",
+    "2f819a2562c91b22af16183a172ddadb",
+    "a5d602a35ce944cd415c702bf642922b"
   ],
   "transfers": {
     "pages": {
@@ -21292,6 +21292,26 @@
     {
       "t": "10 109 all avengers black bun buns burger collector doomsday green here how india items king marvel meals menu nuggets over post prices takes thor turns whopper whoppers work",
       "ts": 1793830580.179743
+    },
+    {
+      "t": "00 1 11 18 bundle buy capsules chance esports ever forever global its last leave leaving november own post says store team this utc valorant vct your",
+      "ts": 1793830585.1957488
+    },
+    {
+      "t": "1 337 349 350 8217 8220 99 alloyed asking controller edition get here its limited made magnesium only pad post pro ps5 raiju razer really signature v3 what who wraps you",
+      "ts": 1793830588.685893
+    },
+    {
+      "t": "8216 8217 about altman becomes comments context have himself his insists much out post ram renames sam says taken wants you",
+      "ts": 1793830592.1977746
+    },
+    {
+      "t": "8 apex bgmi costume crossed founder gaming got here hits how jonathan million post star stream subs subscribers team there vampire youtube",
+      "ts": 1793830595.6929955
+    },
+    {
+      "t": "2 2027 about admits big ceo cs2 debt dota eyes fissure half money next nikolay owes paid payout post prize q1 repayment says still targets unpaid vesnin",
+      "ts": 1793830599.1367636
     }
   ]
 }
