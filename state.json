@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://esportsradar.gg/grand-view-university-announces-four-year-partnership-with-team-liquid/",
-    "https://www.nerfplz.com/2026/10/weird-pick-172-mid-lane-garen.html",
-    "https://www.talkesport.com/news/vct-china-partnership-2027-reported-teams/",
-    "https://www.talkesport.com/news/aion-2-october-14-update-patch-notes/",
-    "https://www.talkesport.com/news/ubisoft-redlynx-closure/",
-    "https://www.talkesport.com/news/cs2/sdy-returns-to-monte/",
     "https://www.talkesport.com/news/deadlock-deadman-danny-rocket-jumping/",
     "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
     "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/28121/sword-x-staff-officially-launches-in-south-korea-on-november-4",
     "https://www.invenglobal.com/articles/28120/the-romance-narrative-continues-ig-defeats-tes-to-advance-to-semifinals",
     "https://www.invenglobal.com/articles/28119/nexus-mods-strengthens-ai-disclosure-requirements",
-    "https://www.invenglobal.com/articles/28117/dokkaebis-world-adds-9000-player-dimensional-conquest"
+    "https://www.invenglobal.com/articles/28117/dokkaebis-world-adds-9000-player-dimensional-conquest",
+    "https://www.invenglobal.com/articles/28106/kakao-games-posts-q3-revenue-of-691-billion-won-operating-loss-continues",
+    "https://esports-news.co.uk/2026/11/04/team-falcons-sweep-heroic-to-earn-navi-rematch-at-iem-beijing/",
+    "https://www.vlr.gg/784057/gen-g-releases-ash-efina-and-coach-peri",
+    "https://www.vlr.gg/784050/varrel-parts-ways-with-full-roster",
+    "https://www.vlr.gg/784043/detonation-focusme-levels-roster-ssees-remains",
+    "https://www.vlr.gg/784045/g2-esports-bids-farewell-to-babybay"
   ],
   "title_hashes": [
-    "a82a789dafa44c3aec476a1e0c6a52e3",
-    "f79499fd51cb6948b946fc250151395a",
-    "17c98e7aa16e1f5295f0286bdfa9326f",
-    "e17baffeb2b4ac53bca86b38d9343ad1",
-    "8dc5390ed40683bb117967f796e90570",
-    "ffdf1d22a3ed5d7c7c5ffba4303006e0",
     "a325c238afdd7977e3cc12d9e313d387",
     "6484b03945eb1842238f9fd0965d0721",
     "ffeae90fd35ed35b4cc0c5b266c891ac",
@@ -16001,7 +15995,13 @@
     "f9d040fb76b2f08ceeeb6e56070d0e9f",
     "a3e537a1903006dff913c039df23d7ee",
     "642df07ac5b40f10d1ab60d2d1efc587",
-    "04f25c22b5584e3f47c27cefe2769bb0"
+    "04f25c22b5584e3f47c27cefe2769bb0",
+    "7fcfb4c5e2866c7d2408f7076060ebb8",
+    "b9b6d299e4a5944de5c8cdf4dc495bde",
+    "62ba29d3a6d87d34138972edca304b48",
+    "25eb4b7dc7dd441d9cd059cdf3b6fe4b",
+    "85ef90815b1947e52c5d49abd73b709a",
+    "49679841eed6bb76dc01b8d7a4234795"
   ],
   "transfers": {
     "pages": {
@@ -21244,6 +21244,26 @@
     {
       "t": "000 4th 9 added adds battle conquest dimensional dokkaebi featuring games kakao mode participants player server versus world",
       "ts": 1793782101.4695187
+    },
+    {
+      "t": "0 2 2026 beat beijing bracket continue earn falcons final group heroic iem lower navi reading rematch second semi sweep team",
+      "ts": 1793782106.4224627
+    },
+    {
+      "t": "ash coach contracts efina expire gen goodbye members peri releases says their three",
+      "ts": 1793782109.8877609
+    },
+    {
+      "t": "agents ahead free full hit korea market parts pivot roster six team varrel ways",
+      "ts": 1793782113.3368099
+    },
+    {
+      "t": "captain continue currently detonation focusme fourth his into levels organization remains roster slated ssees tenure year",
+      "ts": 1793782116.9232998
+    },
+    {
+      "t": "babybay bids esports farewell g2 separate ways",
+      "ts": 1793782120.3569694
     }
   ]
 }
