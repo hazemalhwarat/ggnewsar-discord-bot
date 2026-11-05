@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/dota2/news/team-liquid-announce-malr1ne-did-they-profit-off-the-shuffle",
-    "https://www.hotspawn.com/fortnite/news/rarest-sprite-in-fortnite",
-    "https://www.hotspawn.com/league-of-legends/news/furia-tatu-jojo-worlds-interview",
-    "https://www.hotspawn.com/valorant/news/vct-2027-locations",
-    "https://www.hotspawn.com/valorant/news/valorant-champions-shanghai-top-4",
-    "https://www.hotspawn.com/dota2/news/23savage-and-xipto-get-raided-by-malaysian-police-mid-bootcamp-in-crazy-dota-2-story",
-    "https://www.nerfplz.com/2026/10/old-league-of-legends-10-things-game.html",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXpUaHVaM1NEY1Q1dUVyXzJlREZpa1UyeWlHc1dWNlVrTHdhUTJMY3RfX2RvZVNiSVZDOVF1LWg0NmF1OXVlYlJEV180aEJScFNFUU1fOXVaWXRhaXZZWE93MWZHbzRJQlNpeUppRWJTaUN4UnhzZHpQamNia25QWEhfUnNfRVllRmpjQ0pn?oc=5",
     "https://www.talkesport.com/interviews/jonathan-gaming-bmsd-2026-interview/",
     "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-air-pre-registration-crosses-10-million-how-to-sign-up-and-what-comes-next/",
@@ -7999,15 +7992,16 @@
     "https://www.invenglobal.com/articles/28194/uk-moves-to-restrict-in-game-chat-with-strangers-for-under-16s",
     "https://www.invenglobal.com/articles/28193/weekly-steam-releases-surpass-1656-more-than-doubling-previous-record",
     "https://www.invenglobal.com/articles/28192/k-games-makes-first-appearance-at-national-assembly-legislative-expo-urges-introduction-of-production-tax-credits",
-    "https://www.invenglobal.com/articles/28191/new-onigoya-a-dagashi-shop-run-by-oni"
+    "https://www.invenglobal.com/articles/28191/new-onigoya-a-dagashi-shop-run-by-oni",
+    "https://www.invenglobal.com/articles/28189/seven-knights-rebirth-to-hold-player-event-in-december",
+    "https://www.invenglobal.com/articles/28170/from-tyrant-of-the-defense-game-to-mu-theos-webzen-unveils-lineup-on-g-star-2026-website",
+    "https://insider-gaming.com/honkai-nexus-anima-final-beta-test-coming/",
+    "https://insider-gaming.com/all-gta-6-locations-revealed-so-far/",
+    "https://insider-gaming.com/take-two-addresses-ai-in-gta-6/",
+    "https://insider-gaming.com/take-two-ceo-faces-bizarre-question-not-enough-hits/",
+    "https://esportsinsider.com/2026/11/gen-g-sweep-lyon-to-end-north-americas-worlds-2026-run-and-set-up-ig-semi-final"
   ],
   "title_hashes": [
-    "5f731748d3dc98a20dbef20943c943b3",
-    "45ded78ec1126922f851cec91897f448",
-    "f327cca19f3e3bd089cf26bdc435e6b2",
-    "b8418366344bd11fef466a72094df06e",
-    "45ba95ab84be69a6a6fe03a37daa5f40",
-    "5fc95371e60932bdcbe6d9267a78fbbd",
     "c79396c131497931f7fd53b0994d8f8e",
     "4977a3740f37a2123e311477de4f07d1",
     "1db38461ef9485711ed6a01406a6e067",
@@ -16001,7 +15995,13 @@
     "3156b6ba797d27c20761945a30074b4c",
     "2c9961e50dd4dee2bc4f735eb2e5b7c3",
     "942dff81c34cdd045d019c12504c49b0",
-    "f1ece7f5e86627f8310c7674670fc67e"
+    "f1ece7f5e86627f8310c7674670fc67e",
+    "7f778cb4f2e3144ad295e1337f001aa9",
+    "99c459af9871fc470895050e3f8449df",
+    "44020d91ccc99e49f8715288a6a1208e",
+    "507ecebaed0ca21da8e1be4a424d09b1",
+    "126d6734ca7fae28488dc46747a762a5",
+    "6d3ff6e401685ce9a87dc40d131e5c0c"
   ],
   "transfers": {
     "pages": {
@@ -21340,6 +21340,26 @@
     {
       "t": "127918 android astrae clan dagashi developer dynamis game info ios magicalgirl new newly one oni onigoya oratio platform popular revealed run shindenki shop subculture tags title urbanlegend",
       "ts": 1793871963.7445643
+    },
+    {
+      "t": "8217 anima appeared beta can coming end event final honkai nexus november now post pre register starting test users",
+      "ts": 1793871968.9286447
+    },
+    {
+      "t": "6 all breakdown every far feature gargantuan gta guide location locations looking major map post promises revealed this",
+      "ts": 1793871972.4270933
+    },
+    {
+      "t": "6 8217 about addresses again app ceo conversation development down gta interview other post recent sat some stuff take talk turned two using",
+      "ts": 1793871975.865428
+    },
+    {
+      "t": "82 awkward bizarre ceo company enough faced faces firm had hasn hits interactive interview lack over post question strauss suggested take two which zelnick",
+      "ts": 1793871979.2912095
+    },
+    {
+      "t": "0 2026 3 allen america beat end final first gaming gen invictus last lck lyon north now one removing revived run seed semi series set sweep team texas top way worlds",
+      "ts": 1793871982.829615
     }
   ]
 }
