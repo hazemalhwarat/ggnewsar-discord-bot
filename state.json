@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY0xBSjlzbDRLaEpIWmtaQzdYOHJFX0FFLXlOS1RVOVdEV3NTYXBXRE9HSVEwLXVVVjV5eEFVWktKTnZSQVJXMVBmU2dPNkk5ZUFFLW1ZT3QtaURTV0ljSFBJY0FXMkQ0X3hJaUE4ZWpKZnpiR2s4S1BSdHdCVktkUU5FcUpuTUw3aUE?oc=5",
-    "https://www.invenglobal.com/articles/27249/amazon-mgm-brings-ali-g-to-fortnite-creative-ahead-of-new-film",
-    "https://www.invenglobal.com/articles/27248/pulled-in-just-two-days-total-war-shogun-2-complete-edition-sales-suspended",
-    "https://www.invenglobal.com/articles/27247/wardogs-season-2-launches-with-thunderstorms-tanks-and-faction-incentives",
-    "https://www.hltv.org/news/45729/betboom-eliminate-parivision-from-twc",
-    "https://www.dexerto.com/dota2/dota-2-pro-forced-to-play-in-front-of-police-to-prove-who-he-is-after-esports-bootcamp-raid-3419174/",
-    "https://gameriv.com/valorant-voice-evaluation-now-better-detects-toxicity-in-spanish-portuguese-and-korean/",
     "https://www.vlr.gg/773166/emea-kickoff-qualifiers-format-revealed",
     "https://insider-gaming.com/peak-console-release-date-revealed-for-ps5-xbox-and-switch-2/",
     "https://insider-gaming.com/wordle-hints-answer-october-16-2026-1945/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/28221/kakao-games-head-of-business-we-wont-stop-real-money-trading-in-world-of-dokkaebi",
     "https://www.invenglobal.com/articles/28220/no-hits-other-than-gta-6-us-owning-rdr2-nba-2k",
     "https://www.invenglobal.com/articles/28219/temppal-overgeared-unveils-cross-server-competition-and-cooperation",
-    "https://www.invenglobal.com/articles/28218/nexon-unveils-gameplay-footage-for-temppal-overgeared"
+    "https://www.invenglobal.com/articles/28218/nexon-unveils-gameplay-footage-for-temppal-overgeared",
+    "https://www.invenglobal.com/articles/28217/nexons-new-mmorpg-overgeared-launches-november-26",
+    "https://www.invenglobal.com/articles/28216/victoria-3s-state-and-revolution-immersion-pack-puts-russia-center-stage",
+    "https://www.invenglobal.com/articles/28214/runescape-dragonwilds-ps5-physical-edition-released-in-korea",
+    "https://www.invenglobal.com/articles/28215/korean-edition-of-re-volt-launches-simultaneously-on-ps5-and-nintendo-switch",
+    "https://www.invenglobal.com/articles/28213/zotac-korea-launches-rtx-5070-series-promotion",
+    "https://www.invenglobal.com/articles/28204/netmarble-reports-q3-revenue-of-6347b-won-operating-profit-of-504b-won-focusing-on-quality-of-new-titles",
+    "https://www.invenglobal.com/articles/28190/honkai-nexus-anima-opens-recruitment-for-final-beta-test"
   ],
   "title_hashes": [
-    "96cd2a80d46141c149d8ea9a8423c863",
-    "945a5c89c9ddcb89c48e60109027846e",
-    "18b8ffa720d022391e0d10ff30aaf335",
-    "3a7fd25ce96924b07ebe79b55b8d4e96",
-    "e963e19cb03d3326b87d39ff9f686b14",
-    "6dcf1b5323e2bb328757282ac062cac4",
-    "37f738aa6a9a154bae80d372879032ea",
     "e6525d5b0a4c423b477b014ad2419195",
     "011b4f3995932a909607201d5fdd8770",
     "cbcb97c1f3ddba766ad3f114a4c26950",
@@ -16001,7 +15994,14 @@
     "e1a6f1a1e5b0206ad1214f2bc8354179",
     "d17898678b4c31d043229d8ee6026454",
     "85d9f2ba9230a6908b4c755d1ba28c90",
-    "3acbaf1278768635ec1c239c84317525"
+    "3acbaf1278768635ec1c239c84317525",
+    "7b6ee9208cbd65eef1d98ae0207f6644",
+    "dda19bbbafe6452a3ad7eb5f9a5b7323",
+    "b2d6dc87059632f9d947b3eb25869f96",
+    "0bde28ec50278b5bca31944acd8b11a3",
+    "2d7cc142e339dae42057e478b6281deb",
+    "d4e358dc4dfbdf67d33836c5ea7e4502",
+    "690e1cfa795dff45d17831990d30c420"
   ],
   "transfers": {
     "pages": {
@@ -20984,6 +20984,26 @@
     {
       "t": "actual based developed development footage gameplay games gray has mmorpg new nexon novel overgeared published released temppal under unveils web webtoon",
       "ts": 1793900507.2568626
+    },
+    {
+      "t": "1836 3 center game grand has immersion interactive its pack paid paradox puts released revolution russia stage state strategy that victoria",
+      "ts": 1793900512.7891798
+    },
+    {
+      "t": "5th announced dragonwilds edition h2 has interactive korea korean localized officially physical ps5 released runescape that",
+      "ts": 1793900516.313802
+    },
+    {
+      "t": "5 announced edition h2 has hereinafter interactive korean launched launches nintendo november ps5 simultaneously switch that volt worldwide",
+      "ts": 1793900519.8093195
+    },
+    {
+      "t": "1 30 5070 also cards dedicated event featuring graphics introduced korea launches merchandise november official promotion rtx running runs series store zotac",
+      "ts": 1793900523.4155743
+    },
+    {
+      "t": "25 5 adventure anima announced begun beta collecting creature final game has honkai hoyoverse its nexus november opens participants recruiting recruitment run test that will",
+      "ts": 1793900526.963808
     }
   ]
 }
