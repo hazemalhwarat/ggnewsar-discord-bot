@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.vlr.gg/773166/emea-kickoff-qualifiers-format-revealed",
-    "https://insider-gaming.com/peak-console-release-date-revealed-for-ps5-xbox-and-switch-2/",
-    "https://insider-gaming.com/wordle-hints-answer-october-16-2026-1945/",
-    "https://insider-gaming.com/preview-the-expanse-osiris-reborn-is-a-game-you-shouldnt-sleep-on/",
-    "https://insider-gaming.com/riot-games-and-louis-vuitton-publish-k-da-travel-book-tempo-point/",
     "https://insider-gaming.com/vct-2027-emea-kickoff-qualifiers-outline/",
     "https://insider-gaming.com/former-twitch-director-geoff-keighley-game-awards/",
     "https://insider-gaming.com/gta-6-and-modern-warfare-4-are-the-biggest-games-of-the-year-says-activision-cmo/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28215/korean-edition-of-re-volt-launches-simultaneously-on-ps5-and-nintendo-switch",
     "https://www.invenglobal.com/articles/28213/zotac-korea-launches-rtx-5070-series-promotion",
     "https://www.invenglobal.com/articles/28204/netmarble-reports-q3-revenue-of-6347b-won-operating-profit-of-504b-won-focusing-on-quality-of-new-titles",
-    "https://www.invenglobal.com/articles/28190/honkai-nexus-anima-opens-recruitment-for-final-beta-test"
+    "https://www.invenglobal.com/articles/28190/honkai-nexus-anima-opens-recruitment-for-final-beta-test",
+    "https://www.invenglobal.com/articles/28188/2026-lck-awards-to-be-held-on-december-16",
+    "https://www.invenglobal.com/articles/28187/maplestory-idle-rpg-launches-1st-anniversary-salon-event",
+    "https://www.invenglobal.com/articles/28186/astellia-sequel-astellia2-launches-worldwide-as-the-first-game-on-nexuss-one-platform",
+    "https://www.invenglobal.com/articles/28185/six-companies-including-nintendo-ea-and-riot-display-common-accessibility-tags-in-us",
+    "https://www.invenglobal.com/articles/28184/first-game-released-since-acquiring-one-store-nexus-launches-global-service-for-astellia-2"
   ],
   "title_hashes": [
-    "e6525d5b0a4c423b477b014ad2419195",
-    "011b4f3995932a909607201d5fdd8770",
-    "cbcb97c1f3ddba766ad3f114a4c26950",
-    "979c34f46d9e6fedf5dac9fdce39d94b",
-    "80b223a65362ba436088dbc399a322ce",
     "2d1a47c3591cfde53c89d12ff30acdcf",
     "77a4be5d8cfabd6ac8662983e32e088e",
     "68523d786c5a43999380d4b5fd061b73",
@@ -16001,7 +15996,12 @@
     "0bde28ec50278b5bca31944acd8b11a3",
     "2d7cc142e339dae42057e478b6281deb",
     "d4e358dc4dfbdf67d33836c5ea7e4502",
-    "690e1cfa795dff45d17831990d30c420"
+    "690e1cfa795dff45d17831990d30c420",
+    "d70f376bd95fa4a70a6147af3eab485c",
+    "180df651794c729a33bb53d790301992",
+    "a693d5e188b648662ccb62572007e8ef",
+    "c0e620e03325709bd25dbaeb0d6593d3",
+    "77f40278847908a464b7ef52b9627243"
   ],
   "transfers": {
     "pages": {
@@ -21004,6 +21004,26 @@
     {
       "t": "25 5 adventure anima announced begun beta collecting creature final game has honkai hoyoverse its nexus november opens participants recruiting recruitment run test that will",
       "ts": 1793900526.963808
+    },
+    {
+      "t": "16 2026 announce announced awards ceremony chzzk december games held including jongno lck lol park player position riot seoul that will year",
+      "ts": 1793900532.2162142
+    },
+    {
+      "t": "1st 5 anniversary announced celebrate event first idle its launches launching maplestory mobile nexon november rpg salon service that",
+      "ts": 1793900535.758341
+    },
+    {
+      "t": "astellia astellia2 blockchain built first game games global have launched launches lepor massively mmorpg mobile multiplayer nexus one online platform playing rewards role sequel tied version worldwide",
+      "ts": 1793900539.2300684
+    },
+    {
+      "t": "accessibility america begun common companies display displaying game have including information nintendo pages riot six standardized tags their",
+      "ts": 1793900542.8459349
+    },
+    {
+      "t": "2 5 acquiring alongside announced astellia can characters develop first game games global has its launched launches lepor mmorpg nexus november one partner players released service since store that their unique utilizing",
+      "ts": 1793900546.4266477
     }
   ]
 }
