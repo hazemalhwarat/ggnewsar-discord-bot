@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.vlr.gg/773071/fut-esports-allows-head-coach-vlad-to-explore-options",
-    "https://www.vlr.gg/773068/team-liquid-allows-nats-to-explore-options-after-four-seasons",
-    "https://gameriv.com/vct-2027-global-tour-brings-50-tournaments-open-qualifiers-and-events-across-15-cities/",
-    "https://gameriv.com/sony-reportedly-shuts-psn-door-on-ps5-firmware-14-00-amid-piracy-controversy/",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzh6cTNHNEo2c2ZOY0xTbkd5U3dNM2JveXBoV0w0NEpEaGdDM2N6SVJLaWpoeGRVT2hMb05wRnc2SFNUYnFOQmZmSUt2Um9OZWpJWjlkbkdkY0d1RFdBektoUjJkSjliU2VBOTdJR2o5S2xHaEd5SWwxcGpjYlpLUW9hMVM5d3ZFWThfRWVaVVJJOUlORGc?oc=5",
     "https://www.hotspawn.com/dota2/news/team-liquid-announce-malr1ne-did-they-profit-off-the-shuffle",
     "https://www.hotspawn.com/fortnite/news/rarest-sprite-in-fortnite",
     "https://www.hotspawn.com/league-of-legends/news/furia-tatu-jojo-worlds-interview",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28199/5-jujutsu-kaisen-characters-mabinogi-mobile-releases-jujutsu-kaisen-collaboration-update",
     "https://www.invenglobal.com/articles/28198/standard-and-limited-editions-witch-on-the-holy-night-korean-version-launches-dec-24",
     "https://www.invenglobal.com/articles/28197/casual-brain-training-game-oneuldoo-hodoo-adds-crush-line-and-revamps-ranking-system",
-    "https://www.invenglobal.com/articles/28196/cygames-officially-releases-where-the-seeds-fall"
+    "https://www.invenglobal.com/articles/28196/cygames-officially-releases-where-the-seeds-fall",
+    "https://www.invenglobal.com/articles/28195/rep-kim-sung-hoe-visits-k-games-booth-considers-questioning-budget-committee-on-game-production-tax-credits",
+    "https://www.invenglobal.com/articles/28194/uk-moves-to-restrict-in-game-chat-with-strangers-for-under-16s",
+    "https://www.invenglobal.com/articles/28193/weekly-steam-releases-surpass-1656-more-than-doubling-previous-record",
+    "https://www.invenglobal.com/articles/28192/k-games-makes-first-appearance-at-national-assembly-legislative-expo-urges-introduction-of-production-tax-credits",
+    "https://www.invenglobal.com/articles/28191/new-onigoya-a-dagashi-shop-run-by-oni"
   ],
   "title_hashes": [
-    "8f8f5b699a4762b2c7feccc62fd7faf8",
-    "c405cf3e0a2decd33b4d8b5734107d96",
-    "373f9cef3df9a6ce2177f511c8f15456",
-    "d36cb093e6d3aca4c39f7604371530c0",
-    "770d778b4b6f384cb3c870bd72566ae9",
     "5f731748d3dc98a20dbef20943c943b3",
     "45ded78ec1126922f851cec91897f448",
     "f327cca19f3e3bd089cf26bdc435e6b2",
@@ -16001,7 +15996,12 @@
     "7e9a6569c184b844f8b873ac25c9c8ff",
     "6af2ab15fc88438a23370bd7a9a254fe",
     "e4392e1cafa1a15a5b44cbc49f95fc95",
-    "8702cd49754d21b93e82cad183866336"
+    "8702cd49754d21b93e82cad183866336",
+    "dfdf379cb8a680d4c59756f293fd7987",
+    "3156b6ba797d27c20761945a30074b4c",
+    "2c9961e50dd4dee2bc4f735eb2e5b7c3",
+    "942dff81c34cdd045d019c12504c49b0",
+    "f1ece7f5e86627f8310c7674670fc67e"
   ],
   "transfers": {
     "pages": {
@@ -21320,6 +21320,26 @@
     {
       "t": "5 brand cygames cygamesedge debut fall game its new november officially released releases seeds title where",
       "ts": 1793871944.750102
+    },
+    {
+      "t": "5 assembly association booth budget committee considers credits democratic expo game games hoe industry kim korea legislative national november party production questioning rep representative sung tax visited visits",
+      "ts": 1793871949.7622516
+    },
+    {
+      "t": "16 16s chat communication game games government has its maintain matchmaking moves online parliament policy reaffirmed restrict restricting strangers under users while",
+      "ts": 1793871953.2342
+    },
+    {
+      "t": "1 2 656 757 899 ago all doubling few games high increase jumping just launches logging more new over previous record releases roughly set single steam surpass than this time week weekly weeks",
+      "ts": 1793871956.722424
+    },
+    {
+      "t": "5 appearance assembly association credits expo first five game games inc industry initiatives introduction its key korea legislative made makes national november presenting production tax urges",
+      "ts": 1793871960.159554
+    },
+    {
+      "t": "127918 android astrae clan dagashi developer dynamis game info ios magicalgirl new newly one oni onigoya oratio platform popular revealed run shindenki shop subculture tags title urbanlegend",
+      "ts": 1793871963.7445643
     }
   ]
 }
