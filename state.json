@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMjJGWXc5b09nd0gyTkJxZUt1bzhJRXhHWFZXUF9oaVNyQ1FCLXNKbE1WMzFTYW9fNk5JenNxQm1Kel81aE1qYlRQX19oR0JhaVZSb2RVY1NSYlZ5OTl4ZTFUVFVTLUZPYkJLSkVsTmxNVmZ5MTlaMU1PWnBHTTVpdmZGd2VFaG5YaUE?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jc1FQQjVISjZIUGZvNlBjbUdGQUhRejlMQktlTlFVRE45bWhKTXY4WXpnRkQ4Ny14R0xPZEg3TGo2ZzRvNTRndkl3VDZuaGJGRlBlcUU4YjZRYWM?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03OVZKU0dkLVJldkNiOVlvLWp1XzVDd1phTVBqZ3czVWZxaWhhWHcyRWxTQVNMQ1dhdTJCRTZwNkxJOE1xOXVzRUJDZVhlenRESXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBraGU0OGU2czVjRS1JZkp1dHFENnVGOGF3ZWZKSVpMUWw2b3NHQ2ttVDQ3NXR4NmNjNldVMUc2dTVlUGt1VGZwS1dqZ0JPZw?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yb0U2TEFjdWpUbWtoVllTSDNPaDdwRTRjaDVvRkxyR2FhcGhCTktJUDlUVGU0RTNOWlZkSFVHUEZzd1dlMUk4OWh3dllpYkFjTzRDdTZqUVZPRlUwTzNGWUZZYzdMeFFxdVMxODhpSFh6Njg3ZFJjMEkxVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzhpRDQzOGI0RTc3Qjg1cnNMR1BHaUxKYlB0aWZhbHJzeFpoMzhCMm5NanFVc1hUSGFJLS0xUC0wY0Y1clJxaDd0Z3o1dmpmM2p2aHZoaFlUZUpjMTZJb1E2dlpSZXRtR2h3WGF3dVl2Rk9zUjZrT09CeGVTem16STR2eEtSalVrdVRn?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RLU55NmR6akVGSGRuYWthLV8tQmoxYnltSl9EUk5wNHBaQTk5RUp2M2JqMHctSjBUN1llX05UbjNFejFJbFVidXJ4bm5sdnJFdXpTLTN0enBuZi1KSHBvT0swTlR5Y1pmNUVNMmUxUTBCcWl5Q0kw?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ScEFSa2s5VGRLcXNtVi0wZHRMOFB1clpkeWNObzZKT1Y4SGswOGg3NWVFUVhYZF9HemRLR0JROVphWlpRMklDTXV1SmJaWmNfc2NKNC1pZHJRdnlJazN3VlYwY19KNWdO?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0hsSkFDSS1rWFRyZWVxZEdsbERzNnA4dGdjTU92dkRscFdSa3JmdXRLM3ZUWVl5WEhWZWxoMlNETWRMMzRIMXpFdlh2aEVlQi1WOTQzd2VKN1h0OC1aaGo2MkkwbjBJWkpkNHBvT0t4anZhMVB4U1ZocGVIOXg3U1lfVEsyOXE3S1dURFUxOHhSaTZEUGNNUGtsUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB2emc2MkF5ZHBTd0l1am1XZk9sNlV1S2RRYnpSOFlmV2FMTFFnNDd2VmtyX1h4UEZrbkZnbG1naXlMUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiQkFVX3lxTE14Z0drRXF5WDYteFA2Zkw1Vl9yVFJ3WTdqREJheTdLTVRTV0lFZWl2Wk9jYWVzdmtWQXZXSGpBRVZpZw?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVJyVjZnck5wLU4zdnN4VFpDNTdiR3lmRVRpcUR1U1k3azN2Um5iYUVENWRPNkptNWpybHdNNGw4Y0liQWE5bTdiYnFxMFdSZ0s5ZEc3dkRLZ1ZLZmhjV2E3OVoyRnlJaHhwVXB5WUZmWEt2MlJnYmI4cWR4bExZWEFZTVRvUUF5dWNrblBiZi1TbmtkbWU0R0xBVUpEVl8yUmNDTGlEZjE1b2pMZEVQQTQ5dzM?oc=5",
     "https://news.google.com/rss/articles/CBMiQkFVX3lxTE13dVZxblpOZ1hUdV9Scnh3SUJ1d29CbmduSU9xVWlFOHgyWG5NY2M4SW1qSV9NZ3IwXzd1LW5GNVNsQQ?oc=5",
@@ -7999,19 +7989,19 @@
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUZ4X2YyUnNscG82ZHJpS1g5UE1aUnB3NTBoX1JKckhVY3FGQ0VySDE3eFVnUmZnTWtnYmEyT2pEVEMwR0hKNzZNMUtSYkJuWkpXVUIxdFRMUW1FUlRRSktjQUk3MkhjQmVvVlBwdzBKcFNmcUdSNkJuX1hqR0N6OE1jTVFYTGZFQmdxYmRmZ0l1MFJiTmJMRlZR?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtT2ZNS2xUXzhkWm9HRXkyZUVpODJIR0RRcUQ1VF9nU2FNdHZiRUlVN0RtVkdEMVFyNUgwNzV6bE4zbVNOOERKemdMdnc5VE1SN3M0?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2pTN2VWUFQ5YkNLbHdtTHBpbE82N0NpWDA0NkNKWHpxbTJ2VGZrUGNvczEzbU56cmNuOTVRMFRxMDFUb29GcWNZcjg4NUVteG9JcWRzaTdTRl9taVFVcjF4dFQ4akdwdEhmWjNSQnB4dXJPQ2xxV2tfMDZXdEpPV2Z5SFNfWGtkMHhoM2Zsak95SUotS2NYWHpVUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUJVSHRmSGJ1U3BWTDNlZzQ2YkJJS1RkS1RRS2wwajVQZmZNTDhTV3V0eE9WaFQxazNsc0dEVTZVem1LR2RxN3Z0a2FpMFcxZWVwTjkxM0FvN3FfRGVlU3c0a0c3dWo2RThsaTByZ3k2ZWUzOG5JcElzOGhhQlV4SHZKdWxEeUUtN2dsa1VfbkpKb0pZSms2MnJR?oc=5"
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUJVSHRmSGJ1U3BWTDNlZzQ2YkJJS1RkS1RRS2wwajVQZmZNTDhTV3V0eE9WaFQxazNsc0dEVTZVem1LR2RxN3Z0a2FpMFcxZWVwTjkxM0FvN3FfRGVlU3c0a0c3dWo2RThsaTByZ3k2ZWUzOG5JcElzOGhhQlV4SHZKdWxEeUUtN2dsa1VfbkpKb0pZSms2MnJR?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOU13ek1QX3huQ2VzQ2FkVXhBa1U3aDJnNHZtZHQxRGM4c0hnZ3lnXzlYTzl3OHJJbVhHeTFQNHVfWktiVW81akIzM2pMeDBMWmY4bkc2OVBMSkdqWVlEVDFpZ3JfOXpWVXIySmxDLUFtZ0VLNVdRdjQ1MmVpT01DYUl0YkNSNE5EZDZsNzlraEwxdUFRT2g3T09GMXpES2dJbDBYUFBn?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxORFR4eUpwek94T1ZWVXEzdlFYVHhla0tiM0dPRlFTcERNT0JuQkZDUFNWRkxjV3R6WjN4RVp0UEdjemgyb2tvTE1BRkVQM1Q4RDVCc0lVR0xMNlFmUUxPSHJTMHU2aUtZTFdoT3BzN1FVUTNjZTh4eUZhOTlmNjFiTFNJVTRPNUNELWc?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcG5GTTZJOUt4Mk5FZ3Myc2UwRVRpTUR2bmRzd2psZGFYRVFfb3ozRXgzSWZFNEFqS05PYzRyOS1aWTdjcmhPdUlqc3RIdnBXSGRzR3lDdi1yMklnQnd1aGJjM2tnUTlZdkR0VkJuNzAyRDJHY29yeGJSWUsycWhxM3phN0RBZ0xnSDNKamN2WGtOZVBoNmNNRDlTQko?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcHlFMUZfZk1XMjVZSnVycjgzenpsR09GN0hwX0ZPN040c1FtYlRLbGFQNGQ4TDM1cDNQT3UtdXR1WEJ4ZTVqdkxTLUttZmxiRW1JLVFWb1k1aGNTamtObHBxWGFRVDZKQU9iS1BsMmZGdmZ0T184XzBNVG91STV5OVM2c0I5QU1CUDhiQkwyRjlqNUVJb3ZZekktVzRRUURqTmxEa0ZxOURyNm1EV1Vqbg?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1eUljNXpseE5VWm0zRHR4NDlOR2xycTBhYjFBOUtxM01DZV9pWHpnWENncXdteWl2cGZuU3N5Y194SVo3dE04bENUeVZnbUotV3JxMHltWlVpbjlhZ0xfUi10NlpwM2U5TzVPWGRubmxfeUhK?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkZDYnBMbXNqcHFmTFZMV2VNZWZ1VGF5WU1SZ1FVTzhtN0hEUkNZRGlJYVFySERZVFdpLUVPNmtqNmcwcEdKNVVabEV1T1UteXhLSDBkQnFpSXJIb3YwdUNudThSWU9uUkI4QjI2ZVludmpYeTR6R2dhb0Y1TU5qUE41Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk1TWEZNaXdldFNISDZrSDF1VEtXdG1DdldkX2JPdFJSMkpWajRQWlZ5ZE1aR3hYZVZBU0FlZ0JvRWxTY1BSV25OSWEtc2cweG5aX19GWUNiVjIyTFFWUEhDN0o2S2VOc0pCMnNwQ2hfbFBFaEdzZktTR09KZ0IwRXR3S0xNRGhQSHFlOElBNzY2TVN1YktYbWVMVGdaZ2MydWktZHVIYw?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXVnMVlwRWJucG9qb2p2QWhOQ19VRGhaZ19IT0kyQ3dkeTQ4djUzX1cyOEV5NGxnMGx0MFRmdVJiX3pneWp1a3F1elpxWFNHNHVSemdvdjBlNEZyMDZrU1JXNFZGREh6UmdSRmNrNVl5SkZxVUM4cGtRNGhwYVF4T2NoRDlWdTN3S2Vn?oc=5",
+    "https://pley.gg/cs2/dupreeh-kennys-and-neo-make-hltvs-2026-hall-of-fame-ballot/",
+    "https://pley.gg/cs2/thorin-furia-aint-winning-the-major-mate/"
   ],
   "title_hashes": [
-    "bdaeb81e8a560fff83564602bcc24610",
-    "0e2ce688b38475b3a17e9f1ffb5fce84",
-    "a2f846b47604c72900986edc1badde85",
-    "4d935e028eb2e1361fd440abfabbe67c",
-    "3b2536e703ec6321097e3df01b681245",
-    "d399e1c0cb6da27d92d6fe67ade76049",
-    "b010b5ed16b20171955015cb2e41b1e3",
-    "efbdde0a90e0d6c832b1a5a032f472cf",
-    "8982c36a01e10e64e222eff043857a2a",
-    "249f3e145e83909a725420590916cb7f",
     "97ef3c7a3ef8b1925ffbc985a7cdd2d5",
     "866da7d6ed017b0dcf79f7a3ebb65587",
     "22f7731df8e39405b5a1275457338229",
@@ -16001,7 +15991,17 @@
     "701de3ca846de527161c87789952d6ff",
     "592dfd93040d199678fc7e3c6f5acd88",
     "ec22155b6c358b384e6a6b819cae2639",
-    "3c3c59cc6e874eb281063d99bfc072c8"
+    "3c3c59cc6e874eb281063d99bfc072c8",
+    "d77432a835258f81d726203f83e4137b",
+    "f2d3b7fd1b7ed1a31a20d8759fa8bef1",
+    "77611eeb21621ae01e5f6ef3cd118d38",
+    "6e4c0557a29da88a5fd07ef026dd1efa",
+    "aa175fb033624dd4c72d1713026362a9",
+    "d2ecc76b8f15670c91578949b27fc2eb",
+    "7d0cb0d2384d187f6ce0e9d2eba583a3",
+    "f2ab5fb218da8b84623f45579aa4ba11",
+    "0358909f5446b8c414783b939e5ea53d",
+    "2a2cd6b8950246fb41a19fe31f70ef05"
   ],
   "transfers": {
     "pages": {
@@ -21268,6 +21268,14 @@
     {
       "t": "after backlash collaboration dot esports g2 his nbsp perkz statement terminates",
       "ts": 1793919259.376856
+    },
+    {
+      "t": "10 2026 2027 9 ballot belgrade class dupreeh fame first four hall has hltv inducted january kennys make named neo nominees return time will",
+      "ts": 1793919264.4794307
+    },
+    {
+      "t": "ain calls counter fifth fourth free furia last least major mate nation pgl pimp points ranks singapore their third thorin trophies two valuable winning",
+      "ts": 1793919267.832105
     }
   ]
 }
