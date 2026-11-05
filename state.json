@@ -1,18 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQU9lb09LaGRZY0pZZmthSHZyRmFGZXY1Y2FlY0gtRXU2aGIzd3BlbDJmSWtiWlZQMkxZQlgxaUFuVGJEdHo0V2JDaHZlazRzbWRTeXNwRUhsZFpPamhvRkNpUk9aMEp0NkJqdV9tQXF1bUg2QXdyMWJYdGttcDZ6aEd4U01xYUk4UVRkR1F4eDIzdlgzVTlxZzFIU2tKT3ByQVFvZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zVXVYWEpiQXFNTVJzamJJTklpQ091SlNac0ZnSnJrMlgtUFl0WlNFMzVtM0xMUm00ell6X0g2Tzdzb1B3SDBKdF96TUtKTklEVUJvNDlvbG5QeXFRaEJjZFhPS0pWdw?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanVpdFYyNW0yMU1XTlZJaDk1all6Y254eXllcVpVR05YbGI2MUk3bjR5RFFoVnNsQ25DT3ppNENqdG1vQ3lMbUFOWThXbHZuZi1NUFl4UW5HOXRWd2hQekN3ZWN2WWpPbkRMdi1oclR5SzF4SWZTSDdtWGNHUE5mZEdMZ0pWcTBqWHZsazNSbk9Ia1o2?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE9xN2RFX0sxaGxpdng5UUFxRktJWXVNNkdIZGhDWXBSRWJLc1A1Z1UwQURtZkVpTFJjYUthWjhaQUpxQ3o0Q19zZGhFckFfZVdzRTFjZVR3ZHMxZXdtRUhIZl9QRWxfcTlPSEJQMTJ0Z2NlUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0FPTTQ3djNIcG5COWxSd3VzVlNWdWgzVEpYQzZFbWhQY0gzNWJ3ZmFwMldycFBPTjhXaUJKbEMwOVZNQzVLWUdja0hndXFwODdxN0hDTnc2WHg4SEs3a05IRjhxRmVORWRlLUktYjZGMzdReWE0WW1YNFdNZERLTVpScXBPQjAtVXVFcElEVS1laXprTjZXYnYyd2s5eXd0?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmpQaWpuUXFxZ3lsZmk3OFRCZ3hKdkEybFU3ZnBvTmJaang1R21HaFJOblFuX0MxQTU1Z216TEFldWZKdkdYdXR6dlNmbEpBeXNVNHMwS3A1dmgxZEd3XzBNZDRwT2NPMmpkZURPdWN2LTJQMHpmQUc1Nmp0N2FxdTlkU0Y0MWdjUV9ZbExRdl9FeXdnUk5GODQ4X1BzOFpTVkt0d1prNjk4S1pNUC1j?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNWhtS2lBeU1OVEJOMW5sZkE5aEVTeXNOc0NGWUNvTEpuX1JGLU16V2YyOE1qMUxxY3VJV2FvbVVDeWx4ZUc5YXotaTlzSXVrb3dsZm5Eb0FqNGR1S3FXcnVURXl6MTNaOGh3NXJuY205VTV4MnAwa2Z0ak9pTjJkdTdWT3N1RTZ1cHBQUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTNtRVI2UGlhNndZb25iMVkzaVBHcEgwa3l4V25MUTRzMWRjYXNJSmNDRjRJUlNZd3EzLU83WkIzXzN4QUJfU1ZOLU9YOGswQnNTeFhKMktfN0EtV3VTVWJYT1BmMHNzdnFVQjRpVW44Q2VoT0xVZEtLV3BCVXV5cnd2TDJZcFVhMFlJR280UUtJenhXZXlFZg?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEs4ZnVwVzNkTHNmdXNMT3FmcE5hNEE1SUlyOHFXeXd0N2ZXVEFyTzFIZzczYS04eElXa0dDZlhXOUZIeXpsZk5HZU1nTVV5Mms2UFFFUmw3TURFT3VYc1gxRXpCenBQU1BabmNuQ3NybWpLVkRfT0xGTzZVcUg4Mm9xSVdZTFNnYUdieFU2STJrT2Y3akNueQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnF4Slg2LTFoMjljeUpQX2hfNXVGbEdJMXBhQlZOOVRZYm94dHJCTk5jM0M5OFBEUWZPWlFiZ1pFMlhGWHF3UFpXNHJ5MDFMVS1HYnZ5THlxYWVpYWVqUzduRjRNaXQ4cUFMTGF4ejRBZ3E3akhJMkdCdTBvMFpYUEczY1lfX1pUYVFmREh4cDhWMXZkNTY4REFfekxYOHdkOFRULXFRaw?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6N05SN1BKaXM5RHBQZXg3U3VpcTdTc3R1UXZSYzR0Qnh1X0xpTmNVXzhjQWJ5QlctY0dRYWtFMVQ1Nl9fdlA5WXlZYzRndFIyTGJvUERJMUxoUU9PanluUDZyVmZOLWhGZnFpanNwSjhuWVI2Nk92d2VSU1I?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BbnJfX2Jscy1rdjZ4cV9ZbVpLbUJCUHlLYklTcmthNWNzeWVpUVBFNlk3akx5UVkzd004UlhNbnFtVFpmd1R6T0ZzcDhRaEpnZzN1V2pjUy1wRjdpREJ2eFM4T1cybDF6NzRzNnRqRVhVQldSaUp5UUlGMA?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYXlRMTNTaVdOdzN6SWpTMVFQM0FwS29UWkhtOTNpUWhuS3Bxa1g3XzlWdzNGcVFPSkRWUzhLSHB6bWE2QnhaeG9jSjZMRVZuZTVlUUZvSDhyczZCSkRMcFd0WG9Ud3JEU040LU5SbEJsdzNmRmVla193ZngtSkx1TkVjaXhhWDlINE1YYmJqcG45R014ekVn?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMjJGWXc5b09nd0gyTkJxZUt1bzhJRXhHWFZXUF9oaVNyQ1FCLXNKbE1WMzFTYW9fNk5JenNxQm1Kel81aE1qYlRQX19oR0JhaVZSb2RVY1NSYlZ5OTl4ZTFUVFVTLUZPYkJLSkVsTmxNVmZ5MTlaMU1PWnBHTTVpdmZGd2VFaG5YaUE?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jc1FQQjVISjZIUGZvNlBjbUdGQUhRejlMQktlTlFVRE45bWhKTXY4WXpnRkQ4Ny14R0xPZEg3TGo2ZzRvNTRndkl3VDZuaGJGRlBlcUU4YjZRYWM?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03OVZKU0dkLVJldkNiOVlvLWp1XzVDd1phTVBqZ3czVWZxaWhhWHcyRWxTQVNMQ1dhdTJCRTZwNkxJOE1xOXVzRUJDZVhlenRESXc?oc=5",
@@ -7999,22 +7986,22 @@
     "https://estnn.com/worlds-2026-semifinals-gen-g-invictus-gaming/",
     "https://estnn.com/iem-beijing-2026-playoffs-preview-bracket-matchups/",
     "https://gameriv.com/steam-game-approvals-now-take-up-to-12-business-days-indie-devs-blame-ai-slop/",
-    "https://gameriv.com/call-of-duty-cracks-down-on-warzone-agent-with-hardware-ban-threats/"
+    "https://gameriv.com/call-of-duty-cracks-down-on-warzone-agent-with-hardware-ban-threats/",
+    "https://gameriv.com/g2-esports-fires-perkz-after-controversial-abortion-comments-spark-backlash/",
+    "https://www.hotspawn.com/counter-strike/news/iem-beijing-2026-quarter-finals-preview",
+    "https://www.hotspawn.com/dota2/news/all-dota-2-blast-slam-winners-full-list",
+    "https://mp1st.com/news/future-call-of-duty-will-be-a-new-sub-franchise-modern-warfare-4-conclusion",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tX2JzSGRHajZ4SXZkM1F2UGQyOGVKSVlCbmdsZlhWN2NTc3ozcG41MnBjUS02N3ctUFdNQVgxdlBRYXZpLWFTYTQyZWZSSUVFT1RuanJLYUloMVdXcmt0eTE2TVBtVmJvTjhydVE2SnpOLWdmem9Yc2FURQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2Q2tQYXpHMndKSjQtNS05d3VOM0s4V1JlZGpTNnhIYlR1Smo5MDBhU1d2UGtvVGFwMlU5UGhrcHRpYmxGMjZrM2pmbmVUeVFyaXc?oc=5",
+    "https://www.talkesport.com/news/deadlock-beta-season-2-ranked-changes/",
+    "https://www.talkesport.com/news/deadlock-season-1-end-date/",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42a3lmMGJHd1RPNTU2Sk5RTkU0UXAtQVNFcE1wQU9RczRMbndIVnVpYWVzdC0xVDNFa0txNGl0dnE5WWlVTUV3OHdEejJuNWNBMWZlOXpHaVNWZllWN2xZRU11QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUZ4X2YyUnNscG82ZHJpS1g5UE1aUnB3NTBoX1JKckhVY3FGQ0VySDE3eFVnUmZnTWtnYmEyT2pEVEMwR0hKNzZNMUtSYkJuWkpXVUIxdFRMUW1FUlRRSktjQUk3MkhjQmVvVlBwdzBKcFNmcUdSNkJuX1hqR0N6OE1jTVFYTGZFQmdxYmRmZ0l1MFJiTmJMRlZR?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtT2ZNS2xUXzhkWm9HRXkyZUVpODJIR0RRcUQ1VF9nU2FNdHZiRUlVN0RtVkdEMVFyNUgwNzV6bE4zbVNOOERKemdMdnc5VE1SN3M0?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2pTN2VWUFQ5YkNLbHdtTHBpbE82N0NpWDA0NkNKWHpxbTJ2VGZrUGNvczEzbU56cmNuOTVRMFRxMDFUb29GcWNZcjg4NUVteG9JcWRzaTdTRl9taVFVcjF4dFQ4akdwdEhmWjNSQnB4dXJPQ2xxV2tfMDZXdEpPV2Z5SFNfWGtkMHhoM2Zsak95SUotS2NYWHpVUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUJVSHRmSGJ1U3BWTDNlZzQ2YkJJS1RkS1RRS2wwajVQZmZNTDhTV3V0eE9WaFQxazNsc0dEVTZVem1LR2RxN3Z0a2FpMFcxZWVwTjkxM0FvN3FfRGVlU3c0a0c3dWo2RThsaTByZ3k2ZWUzOG5JcElzOGhhQlV4SHZKdWxEeUUtN2dsa1VfbkpKb0pZSms2MnJR?oc=5"
   ],
   "title_hashes": [
-    "d925a49a5b7202eb9653707621f622ab",
-    "5d008c9a257074f171718fd0ad1e0db4",
-    "914755475ae14858eefc583715cdc611",
-    "a71c66807e9ba831332dcf480f6a2078",
-    "ea26a968ddb765a3da897b4a487f391c",
-    "5acc69de826121fca9f8df823a913027",
-    "9addb7e21315c3b5cfd5e8acde70c85c",
-    "08309f490debd200a8ebdd49c0002949",
-    "82c96ff1732852abe59aca659c48ceb7",
-    "f3657cd69cef17a232da51a1cc6c4c57",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "f0ec672ec9671934339a09d19bf1076e",
-    "a608eb1184dc00ddf0756d75abf68cb8",
     "bdaeb81e8a560fff83564602bcc24610",
     "0e2ce688b38475b3a17e9f1ffb5fce84",
     "a2f846b47604c72900986edc1badde85",
@@ -16001,7 +15988,20 @@
     "71a5105899dd9d34131cd56fc0021d5b",
     "1af454efaeb1620945aa5653bd78c183",
     "68cbd0cf9b0451bd57e720718ee3ea73",
-    "ab058e1461feff343ad55049f69163ae"
+    "ab058e1461feff343ad55049f69163ae",
+    "f0ab7da25351e2ba4828fdab3a9f85d2",
+    "8651da1befba0fd6827f16c9b6d724fc",
+    "d0af8626038494396eddd91db5cc63ce",
+    "d769c33308f70c47f500a0b13289cf73",
+    "fe9a664191fbad898418763a82e0d68e",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "f37fd3c1dcd3fe00c737c61618024d42",
+    "88ed70791ed49ccd6becce6c70715cb3",
+    "c0dfd4aad9c128faa240c2ac12dd094d",
+    "701de3ca846de527161c87789952d6ff",
+    "592dfd93040d199678fc7e3c6f5acd88",
+    "ec22155b6c358b384e6a6b819cae2639",
+    "3c3c59cc6e874eb281063d99bfc072c8"
   ],
   "transfers": {
     "pages": {
@@ -21248,6 +21248,26 @@
     {
       "t": "1 4 activision advantage against agent ban call cracks down duty gives hardware introducing launch modern new party players res season software stance taking that third threats tougher unfair warfare warzone",
       "ts": 1793919240.5765293
+    },
+    {
+      "t": "2026 again await beijing believe betboom bring can facing familiar finals furia iem make matchups meet mongolz mouz navi parivision preview quarter taking two while will winner",
+      "ts": 1793919245.7322314
+    },
+    {
+      "t": "2 2025 all been blast calendar confirmed dota editions eight far four full have iterations list most nine one per prestigious running since slam tournament tournaments winners year",
+      "ts": 1793919249.0869749
+    },
+    {
+      "t": "2 aiming anticipated beta changes deadlock experience game gameplay gets has highly improve introduced live major now overall players ranked ranking revamp season series system update without",
+      "ts": 1793919252.5656207
+    },
+    {
+      "t": "1 2 before beta cemented coming date deadlock does don end ever first forever have hit left much peak players prior profiles rank ranked ranks reset season start their they time when",
+      "ts": 1793919255.9893825
+    },
+    {
+      "t": "after backlash collaboration dot esports g2 his nbsp perkz statement terminates",
+      "ts": 1793919259.376856
     }
   ]
 }
