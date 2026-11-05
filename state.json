@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVTdGM29LT2JqaUVNOFI2SWpRTXg1SXZSTkMtQUtOaExiMEVsaXBrdUhCcU1RMXMxTmJxTGFleGstTU1yVTdxZnBVMk9jX0xGNlZkMDNrRUNxTjQ1dGR4RERGNnFmbnlKdkxIS0ZSeWhVRWx3WjZUS1F4RDdrS2ZORUNINldXVm15cUI3TGFPRDJUckVzU3ludmZmSjU?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFVaS2tTLXZQc1lMbzRhc2Fya2IyN3RGZVNReVVMRU5TaGJ5eHpBQm1xMXZ3UHgzVXFibUN1ZGVvaE9tTFpUellyM3NqYlJ6bWNSVUprMmlIeV85eUthS0RGYWVuNDFUdXJtdDFMNTVUam9DLTZaQWpqWndSQXlnOVNTX3FYN0ZSR1FPWW1xVDB1U1pwRUQ0UnFTY2xqYVZwSWtjdGgxQVViQkk?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWxEeHloSEx3YlF4TTdsUEVMLTNlbXhsX2JhSWl6Uk9UZmZCVmo0a3hHRGdmS25pajFzVllRS3JrLThkTnkxT3ZnVVdneWh3MXUtcHp6cnN3Qk9vbkNLb1NMYkpBMU8wdDBoa2JIanpuNmZUbWo5a3hXVHZoS0g2amxJdElnLXZYdF9BZjR1cWtEU3JtNTd5dUdSRlZtN0FhQ3lhellFUnU?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR05wR3R5dXE1dzFwQ3pJdDBKVWtjZUVDbk1yU3FVU2ZGN08xTW93UGZzZFVLbmZQeXBleUxQY2pLazdBZm5TTmktLTRwR3B6VWotM3VjbUtOc2xOQTlScFJncDFyTDZaUXBQazQwZU8tdHR3QmhIV3NaejFBRko1UFg0ckhpNEtfa0VISEFMVGRCdkpXSEpRYjlRZEVhSndlbE9MVDZYM3ZwUDN5YkVSdw?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaWpNMWNfSXpiU0Faa05VRUxTenc1UDNfVTlCMzQxUmJ2YlRad1NmSDRvSWx6MEdyOHBPSGlXcnFfVzRSUU1ncm0ydm9EQmFsR3VjMElNam1mV2JNNl8zZWRrWGYweFNMemE1ZkFjdTVocnVDWG1HOXFqZnh1MFU?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1keWVleEhDbW90RWxxaHVXNzV1a01oMmk3VE5TcDhBZTR2cnRpSEpIaUxNUm9ydVZUbFdXNnllZFVwV21FY3hvbHVVVGhmQWxNVWZCV1RxSW1VM2Z3UTFTRkxia0U1YngyMUtWUXBYVUtfQlhmbmUw?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE5rSGFWTGxzbUVBbENueGJKblA1OFp1cDRXcDBMeEhXWjQxTTJqa0Z3YXJRQ2o5OUI5SEpxbll1NlN1QXB4eWMzcFVrenQzQWw2NHBUa2xHMFRBMEkxYzNvM01NR3YtSEhpVXBwNTF6aGxWQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXE2WnJUakw3TWswUUJveVdkUEw0ajg1bzg3SjNnSGtwSjF6djJVTlNvenU2cV9xck5nb05pZGNkaWVGaExlU1FRU0pMMi1IaUhXWmNCd2ZIdVlpX2VDeW5aS0hRMXpVbnZ4NHE3Uk9OUVdDYmF5bWdwZms0R1hQc3lVMA?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYldzR1B5QzRPREltZEFkX25ET3JmYnpLeFp2NlNPdkc4YU9BZ05XOGF3dHU3cGFGZ2UzSnFzR012cW5CWkxsaWNnT1hETWtPa2FyZ3BETEFEeFJqS2p3cG55T3Z2aGNTeTBIckxKNEs2dzNkcFozNDJLcU1EWll1MGx3aVJwTHlDRWRhSHpkd05KV1otVlI1M1FpRnV5RVE?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbmF3V0xJMzNwbC1ncmhYRTV1NF96OE4xc1p6U09LajVXWEYtd2cwcEltNzZaZnFwSThmcGxxZi1aVzRrWndzYnRxakZlTmp2SUpoS3JhMGtSdTZyNGNnbzVmODdTdU13YVozWkE4SjRhTEVSODNEYVVEemdrWWZlcU5uSmc3NjVMN3dPXy0tNUk2ZnVYcnhJ?oc=5",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY0tjcWY1Vm5xT08zZkJaS3BzUEhqLXIyTHladkRNdUpNVGtFSHE2TUNJNXF4WXNzOElLaDJEemVtTHJGalVNX1ExV2N3Vy1BY3FkVkpjTVZOVmk0WGVGNlJMRTJleTYwdWc2alRvbmdyYWRucGJBS25XZl9Pd3M0VmNFNlZRcjN1YUJTX1J0akJZR3JGWVlTV05JeVMyV3NpYjcwM2laYW5LajMzTEFrdjZrQ2JEQ3FpbFBVVjRMSmoxT3c3WG83X0oyVTYwWWlJUWp1WlJqZw?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeW9hQ2Z6TmNOSjdtcFhwN2tyc1IwbGJROE1hVHpRVmwzc2dVVHRyWDJXZ0pXVjdpSWc2cHV0Y3gxdXBGazRCNWhyNkFzWXVMVW5mRGUyUmRqTEY4WktxQnFzUUVMREp0Rjh4X1ppbkpacG5QT3p6bXpQX0ZPdEh6RERLeDEwQmk2UHZBMg?oc=5",
@@ -7999,17 +7990,18 @@
     "https://www.invenglobal.com/articles/28164/wuthering-waves-opens-second-round-of-pre-orders-for-ames-bixby-kit",
     "https://www.invenglobal.com/articles/28163/wadiz-runs-black-bird-promotion-across-four-themes",
     "https://www.invenglobal.com/articles/28161/world-of-warships-launches-7-player-pve-event-horror-from-the-abyss",
-    "https://www.invenglobal.com/articles/28162/gca-concludes-2026-gyeonggi-level-up-demo-day"
+    "https://www.invenglobal.com/articles/28162/gca-concludes-2026-gyeonggi-level-up-demo-day",
+    "https://www.invenglobal.com/articles/28160/world-of-warcraft-forever-launches-on-november-5",
+    "https://www.invenglobal.com/articles/28143/ceo-kim-hyung-tae-apologizes-for-nikke-pc-launcher-issue-mobilizing-all-resources-to-find-solution",
+    "https://www.invenglobal.com/articles/28141/what-was-missing-from-the-nikke-notice-so-what-are-we-supposed-to-do",
+    "https://www.vlr.gg/784043/detonation-focusme-resets-roster-ssees-remains",
+    "https://insider-gaming.com/cod-mobile-season-10-2026-verdansk/",
+    "https://gameriv.com/the-finals-season-12-hits-highest-concurrent-player-count-since-season-2-embark-ceo-reveals/",
+    "https://gameriv.com/arc-raiders-ceo-says-ive-never-seen-a-design-document-at-embark-they-dont-exist/",
+    "https://gameriv.com/arc-raiders-ceo-says-we-cant-ignore-the-pve-camp-as-embark-reconsiders-the-games-future/",
+    "https://www.hotspawn.com/league-of-legends/news/ig-rookie-worlds-2026-interview"
   ],
   "title_hashes": [
-    "0030fce0dae98f03b90a95fc200a0e85",
-    "13d3dbca7dddb0964226067d1f64a2ff",
-    "95d486dfffc2541d7b2eca5b83a3c2d3",
-    "9a1a4ba8233ca1b66cc59197f74f7dd8",
-    "1fcd4d21a4c1b4b629cb5d911409da1a",
-    "39929994fa7fc257d34fc95f86710305",
-    "51f1dc66d31e22e1c210129d3223d2b2",
-    "f2ab5fb218da8b84623f45579aa4ba11",
     "7b10d3c2498029e4b7ed002031b3f050",
     "af17e739bb36b80d9b59cb48722c548c",
     "d50c81a78155db29ed1c5de4884c6d2c",
@@ -16001,7 +15993,15 @@
     "b935b01e3d0ee527d9618c8ad7192faa",
     "e72934332992afcfb9a6dacce10a62b3",
     "7f2da1b5b54c215bc35b75775372e7bc",
-    "2c38d5ad8549be9b5250f33b58eac6a6"
+    "2c38d5ad8549be9b5250f33b58eac6a6",
+    "abcfc02bc5c44c44935924f6368fe8c8",
+    "4b36ac9fd99ab31c6c66e6f565f4b9d8",
+    "e8c0bdeb5b594dbe6d348550401a3814",
+    "36e55be311178fa3c4d907f220085044",
+    "266327d6b5c7797d55af6bbeb59c5a4b",
+    "f20004f2616068a1aa047d09a371698a",
+    "7a6457ac79d33588d5aede6351c6b3bf",
+    "d650098aed9cac2543beec28c4ab550e"
   ],
   "transfers": {
     "pages": {
@@ -21428,6 +21428,26 @@
     {
       "t": "12 2026 agency announced concluded concludes content cumulative day demo featuring gca gyeonggi has investment level participating raised startups that",
       "ts": 1793845799.7956047
+    },
+    {
+      "t": "10 7th about anniversary battle brings call changes cod duty learn mobile more movement new post royale season systems update updated verdansk",
+      "ts": 1793845804.926783
+    },
+    {
+      "t": "12 2 8217 achieved arc ceo comeback concurrent count despite embark finals game has highest hits making patrick player raiders revealing reveals season since studios söderlund that",
+      "ts": 1793845808.3891504
+    },
+    {
+      "t": "8217 according apparently arc behind believe ceo completely design developer document documents doesn don embark exist finals game has never patrick raiders says seen studio studios söderlund they traditional",
+      "ts": 1793845811.9335616
+    },
+    {
+      "t": "another arc camp can ceo embark following future game handles has how ignore look matchmaking over particularly patrick players prefer pve pvp raiders reconsiders says studios successful söderlund taking test who",
+      "ts": 1793845815.3653944
+    },
+    {
+      "t": "after alive america becoming big cinderella continues down gaming heavy hopes invictus keep lpl nickname north place potentially qualifying quarterfinals rookie runs savior seems taking that their title worlds",
+      "ts": 1793845818.7880993
     }
   ]
 }
