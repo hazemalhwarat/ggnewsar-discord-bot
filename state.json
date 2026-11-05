@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/league-of-legends/news/esports-become-sport-brazil",
-    "https://www.hotspawn.com/league-of-legends/news/louis-vuitton-tempo-point",
-    "https://www.hotspawn.com/valorant/news/americas-valorant-champions-shanghai",
-    "https://www.hotspawn.com/valorant/news/vct-emea-kickoff-open-qualifiers",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0ZFa2VfcEw2dDFWYlFiNV85UW9ZZzd2YUNlWnpkc2lodTZFMUpnZjFMcHpRT3Q4bEZ3T21RbkM5UHgwX2J4cGZQekxJZ2Exd2lUUWdvYmxoOERoOV9MSHhfYkJvajB3NUZLNHQySUZLQzlDQ3NEYXVXRzEyMi1BR0Vn?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkYlNaamdtNzV0TjRwOWlWZE9zVDNuMDJHTnE2NGVpbjVhaWRCWGpReWRjcDdVOGQwVEcybXM0NjZrdHZqaEg0dFJNRmpvNk1oWEdXb0plbVpFQngzcV9kdEw0RWF5R2ExTmZn?oc=5",
     "https://www.nerfplz.com/2026/10/reading-team-comps-in-lol-questions-to.html",
     "https://esportsadvocate.net/2026/10/fifa-postpones-fifae-finals-2026-jeddah/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28182/discord-cto-confirms-the-desktop-and-mobile-apps-are-being-rebuilt-in-rust",
     "https://www.invenglobal.com/articles/28181/perkz-denies-supporting-the-tates-and-defends-g2s-worlds-run-in-long-statement",
     "https://www.vlr.gg/785120/all-gamers-say-goodbye-to-bai",
-    "https://www.vlr.gg/785114/nongshim-redforce-adds-hype-and-persia-to-coaching-booth"
+    "https://www.vlr.gg/785114/nongshim-redforce-adds-hype-and-persia-to-coaching-booth",
+    "https://www.hltv.org/news/45899/hltv-prospects-ranking-november-2026",
+    "https://www.hltv.org/news/45921/falcons-put-academy-team-on-hold",
+    "https://www.hltv.org/news/45919/w0nderful-and-b1t-surge-in-popularity-for-iem-beijing-playoffs-fantasy",
+    "https://www.hltv.org/news/45918/blast-rivals-season-2-talent-announced",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-week-9-quarterback-rankings-and-updates/2026/11/04/"
   ],
   "title_hashes": [
-    "5f77345a713ed2117fe4c04266dee012",
-    "46a37609fba2f5a02273cf1d7ed27b9d",
-    "19bd91e0b311623be0cbc7532bbe5a0e",
-    "a1fbea61b40a27ca908c0e3bc61e233e",
-    "ca41e0bda7232f062ff79275a051bcea",
     "22384709d743fe3c6fb0a4b35b2e10a6",
     "799855594adc0f2bd7302c69d3234b5a",
     "cd00d50d0eac02a1e188013d0c828fd2",
@@ -16001,7 +15996,12 @@
     "a1edf939093ca1802477f5445c793a09",
     "aa9b17913f1663973890c541782f64dc",
     "b761c66e75016f688e3c84c88d614526",
-    "e2e53106eb53c39f356d413558dee3a0"
+    "e2e53106eb53c39f356d413558dee3a0",
+    "790d2defb3e0661c8289ca984e6b6f4f",
+    "0741edf2febceb5ccfc51e464d177e8b",
+    "2e35236d3273a85cab9cd5601f21ef46",
+    "55ed0f17e171d24fea1616a58cfc681b",
+    "bca7a11eb679a6a914c706841bffc65d"
   ],
   "transfers": {
     "pages": {
@@ -21044,6 +21044,26 @@
     {
       "t": "adds booth coaching face familiar his hype nongshim now one persia redforce silkanon",
       "ts": 1793900566.1148026
+    },
+    {
+      "t": "2026 after bucharest final grand hltv leading masters nemiga november number one pgl prospects ranking rises syph0",
+      "ts": 1793900571.237811
+    },
+    {
+      "t": "academy explore falcons hold letting market options organization players put saudi team their",
+      "ts": 1793900574.7391593
+    },
+    {
+      "t": "b1t beijing chinese event fantasy game iem live now playoffs popularity second surge w0nderful",
+      "ts": 1793900578.2606435
+    },
+    {
+      "t": "2 announced blast bring crew hong kong live person rivals season show talent ten will",
+      "ts": 1793900581.759527
+    },
+    {
+      "t": "2026 9 already approaching best books continued eight fantasy football has its landscape midpoint nfl options quarterback rankings season team updates week weeks your",
+      "ts": 1793900585.5164177
     }
   ]
 }
