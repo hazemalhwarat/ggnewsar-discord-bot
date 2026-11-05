@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45725/krimbo-on-hectic-schedule-its-not-normal-but-its-unique-and-i-think-it-makes-us-stronger",
-    "https://www.hltv.org/news/45724/nip-spared-scheduling-headache-after-early-thunderpick-world-championship-exit",
-    "https://insider-gaming.com/total-war-shogun-2-complete-edition-will-be-temporarily-delisted-by-sega/",
-    "https://insider-gaming.com/valor-mortis-quest-guides-walkthroughs-tips-and-tricks/",
-    "https://insider-gaming.com/valorant-game-changers-championship-at-champions-2027/",
-    "https://insider-gaming.com/call-of-duty-confirm-activision-new-sub-franchise/",
-    "https://insider-gaming.com/arc-raiders-pve-study-asked-1100-players-what-they-think/",
     "https://insider-gaming.com/gta-6-gameplay-launch-trailer-dropped-by-rockstar-games/",
     "https://insider-gaming.com/darkswarm-preview/",
     "https://insider-gaming.com/valorant-champions-tour-2027-locations-revealed/",
@@ -7999,15 +7992,16 @@
     "https://www.invenglobal.com/articles/28211/cygamesedge-debut-where-the-seeds-fall-lands-for-999-across-platforms",
     "https://www.invenglobal.com/articles/28210/ps5-cumulative-shipments-reach-979-million-units-marvels-wolverine-sells-24-million-copies",
     "https://www.invenglobal.com/articles/28209/netmarble-to-launch-13-new-titles-in-2027",
-    "https://www.invenglobal.com/articles/28208/switch-2-surpasses-2635-million-cumulative-units-aprilseptember-sales-down-374"
+    "https://www.invenglobal.com/articles/28208/switch-2-surpasses-2635-million-cumulative-units-aprilseptember-sales-down-374",
+    "https://www.invenglobal.com/articles/28207/legendary-companions-relics-granted-maplestory-idle-rpg-1st-anniversary-the-perfect-time-to-start-or-return",
+    "https://www.invenglobal.com/articles/28206/judas-and-lee-join-the-fray-exploring-total-war-team-compositions",
+    "https://www.invenglobal.com/articles/28205/pok%C3%A9mon-pokopia-dlc-launching-december-9",
+    "https://www.invenglobal.com/articles/28204/netmarble-posts-q3-revenue-of-krw-6347b-operating-profit-of-krw-504b-focusing-on-quality-of-new-titles",
+    "https://www.invenglobal.com/articles/28203/damon-and-baby-rise-of-the-oracle-launches-in-february",
+    "https://www.invenglobal.com/articles/28202/gta-6-pre-orders-estimated-at-771-million-units-3-out-of-4-buyers-choose-ps5",
+    "https://www.invenglobal.com/articles/28201/lineage-m-november-week-1-limited-weekend-special-crafting-info"
   ],
   "title_hashes": [
-    "06c4164944d5b49fd1c4d903aafd3c2e",
-    "4314235187b678af90aa56d63f316a04",
-    "a9a92beab8ebfcf1e557fbf7fdaee928",
-    "c6d8e4bda64252abd77bc710cd0c34b2",
-    "b77a10003d9db8a43b62138471368f9a",
-    "bc862170577b8b4cbcf2ad2ef3f57738",
     "b4ed2405f50474ce83951e935eb54d08",
     "f99db6008360830299bc6787fa46a832",
     "6da0b59c7aeb1ff5573d9c1906a240c1",
@@ -16001,7 +15995,13 @@
     "b69b7ca611f00c97f095468e6edd7f38",
     "5ed1bf2fc27d794a8b8807d4ef38463e",
     "fd4baffa471d878bfaeeafd9436632db",
-    "597bfe29c1aa1c2cb1633797eb5a5c74"
+    "597bfe29c1aa1c2cb1633797eb5a5c74",
+    "a5cb39dbabafbcc010c12da8be37fa56",
+    "43e6eaaa88bd64ad8dadf347f68336a2",
+    "6061a79aad7099b3907d94df46a0c4a9",
+    "4c5165ecd080f8daef4151f810f81ea8",
+    "3efc92eae9fa22d6fc801a03261b5464",
+    "41d022fcee868e07291ed88a16499486"
   ],
   "transfers": {
     "pages": {
@@ -21280,6 +21280,26 @@
     {
       "t": "2 2026 26 35 37 4 april console cumulative down end generation hardware hereinafter million next nintendo over reached sales september sold surpasses switch units worldwide",
       "ts": 1793871906.3654916
+    },
+    {
+      "t": "1st anniversary arrival companions events granted idle jobs legendary maplestory new packed perfect players plus relics return rpg start summon tickets time tons",
+      "ts": 1793871911.7494283
+    },
+    {
+      "t": "birth compositions compositionsjudas considering content decks defense elite exploring fray grade identical join judas knights last lee magic moves offense remain requires season seven strength team that total war",
+      "ts": 1793871915.349788
+    },
+    {
+      "t": "2026 4 4b 5 50 634 7 7b announced billion consolidated focusing krw netmarble new november operating posts profit q3 quality quarter recorded revenue that third titles won",
+      "ts": 1793871918.883411
+    },
+    {
+      "t": "18 2027 announced arc asia baby damon edition february korean launches ltd nintendo oracle physical pla platforms released rise switch system target that will works",
+      "ts": 1793871922.3520477
+    },
+    {
+      "t": "00 04 1 11 13 30 4 armor available collections crafting equipment first focus info items knight limited lineage november selec special wed week weekend",
+      "ts": 1793871925.795782
     }
   ]
 }
