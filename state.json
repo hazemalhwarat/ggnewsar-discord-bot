@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFNjaTVseDNQNkxvOEhXOW9vWmZPQ2dKTnREcjdxSUNQM2F3ZmF0R2doblFVZEl4YzIzTHh2WGVEbzVBMWxMMjIxNXFCM3JyV2pMdmxPRnJNeDV0VHNyYWJDX0ZZejQ5djh3b2lNSkFJaFR2S1p1emk4cUxBZnBHUWl1U0VDYTdjTWJzQnlPV28?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT1ZOd0djck96N3I1MzhtUm83TVFXMDNRQVdGWFJfQ0lHdlhoVTdIRFZjYWJUT1ZoMk5ObDI4RWN1WnVsOXIxRi01UnhDajJqeUFUQV8ta1NEUU9VN0FCcHNmbi04TWxCcDJrUVlHQnhFbkhkNlFLb2JmbjJ2ZjFCdWgwX0FTOTM5ZzI0Tk9YQkhSUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlU4SF83MUVBRDQyZ2JyS25mc2ZHZnF2dWRVUkpkQ3dOLTcwdmNZUGd6dGFLYU8zcElHNnJyOC1RT0REeWd2dDNRT29jc0VtRlluQzlHSndZOHZPamtabGc4TnlWZkxBUm85by1UX0hxc01hU2F5X2toQ3ZVMVVTWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEJiQjFRZmFTS3dUaWNCOFYtT2hCWk9Xam8wRzB4cHcxN1ZJdmtyNmdrYlFIVW93R0stMjBycUVpUW5TUWpZTDVXOVVOSVdHMXM3MkI4aEdnUXhiTDBMNW1SdDk3ekN4MlpEMU9YRGZfNWJKOHFBdURxSlBUd19RQ1E2Z3pSZUdLX3plSW9TTDlpV1V6c1B3bV9UYklwZzFfUzNzXw?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZVFCUnJqZ25YYlB2aFN4R2dEODIyNHJETDhLWE5VeHFSSlk4X295eUdsYXk1bExSQ3YwSFBqMi05OXpXbU5FZDFWczhacXVhazZFdnRPZW9KRmlTVU5NVTNhV2JDUC1qSlhvRUJ6a1pVZmZDQ2tXbGRac0pCOUl3U2lrdUw2N2lkRkF1Wi1UQlQzc19Sb3NqSG10akFMb01mN0tkVw?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEFLcUNsUEl1Z2c4NjljMHVWSzc3NnhEMEU3SkRVQkxEd1NBWlNJcU5Qcm90Qmlwb0h0MmZIZzIzeFFhSW5tRVFPZksxQjZGRUJkclJKMVNweENTZERlWTMxa3RtdXpmWHBONkM4LVMxMklKTXhRU2pTd3NWNXQ0WG5fSjdVWnZ2bG1GUld2SXFpNHlOSW9OTjhB?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVZaS2ZoMGpqUmZRX0xDYjBla0VfNFVtY09qVzh6dnI1Wm5JQU5McDIySnYyX2pXc2hIR0ZlZHNYNE5GdDJnLWJ0bjlDVm16eDZGZWtLUHJJOFNYU25PQVRIUFFPZGI5ejVYdzMxVTNMRmM0WFBET3RSczluaUlHNG01N21DVkhaR19nSw?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVJDeTlPUVRTZTJHZE5JYjRnWHhDOC1tdFV4Nnp4OTZzNzVveWZVNDRNSWhFVU1jbkVOTkswbDIzeTdic19ncXdPYW5xMm9kRU41ajc3aUN0b1BHcS1yWEtwbGNWbTlEeFA4bmNLV2p0alN1OVQtS2VzQ3pVekdEVDBsMXluZmQ3TDR2V3JR?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQU9lb09LaGRZY0pZZmthSHZyRmFGZXY1Y2FlY0gtRXU2aGIzd3BlbDJmSWtiWlZQMkxZQlgxaUFuVGJEdHo0V2JDaHZlazRzbWRTeXNwRUhsZFpPamhvRkNpUk9aMEp0NkJqdV9tQXF1bUg2QXdyMWJYdGttcDZ6aEd4U01xYUk4UVRkR1F4eDIzdlgzVTlxZzFIU2tKT3ByQVFvZw?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zVXVYWEpiQXFNTVJzamJJTklpQ091SlNac0ZnSnJrMlgtUFl0WlNFMzVtM0xMUm00ell6X0g2Tzdzb1B3SDBKdF96TUtKTklEVUJvNDlvbG5QeXFRaEJjZFhPS0pWdw?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanVpdFYyNW0yMU1XTlZJaDk1all6Y254eXllcVpVR05YbGI2MUk3bjR5RFFoVnNsQ25DT3ppNENqdG1vQ3lMbUFOWThXbHZuZi1NUFl4UW5HOXRWd2hQekN3ZWN2WWpPbkRMdi1oclR5SzF4SWZTSDdtWGNHUE5mZEdMZ0pWcTBqWHZsazNSbk9Ia1o2?oc=5",
@@ -7999,16 +7991,17 @@
     "https://insider-gaming.com/best-lego-sets-for-gamers-2026/",
     "https://insider-gaming.com/interview-why-psg-vitality-has-expanded-globally-for-fc-27-roster/",
     "https://insider-gaming.com/nyt-connections-hints-solutions-november-6-1244/",
-    "https://insider-gaming.com/acclaim-gta-6-hype-get-that-acclaim-six-bundle/"
+    "https://insider-gaming.com/acclaim-gta-6-hype-get-that-acclaim-six-bundle/",
+    "https://insider-gaming.com/godzilla-apex-legends-wildcard-event-skins/",
+    "https://www.dexerto.com/dota2/dota-2-pro-forced-to-play-in-front-of-police-to-prove-who-he-is-after-esports-bootcamp-raid-3419174/",
+    "https://www.hltv.org/news/45920/the-evps-and-all-stars-of-pgl-masters-bucharest",
+    "https://www.hltv.org/news/45912/hall-of-fame-unveiling-the-10-nominees-of-2026",
+    "https://estnn.com/worlds-2026-semifinals-gen-g-invictus-gaming/",
+    "https://estnn.com/iem-beijing-2026-playoffs-preview-bracket-matchups/",
+    "https://gameriv.com/steam-game-approvals-now-take-up-to-12-business-days-indie-devs-blame-ai-slop/",
+    "https://gameriv.com/call-of-duty-cracks-down-on-warzone-agent-with-hardware-ban-threats/"
   ],
   "title_hashes": [
-    "2684fbe8ef20100a5f6fc2cd2055b72c",
-    "fc67d2b85b8b7a9d9c8e1337b0dc0fbb",
-    "2bf231d44a49d375791b314545b339d5",
-    "a1984702fbd6068e5a1274f351fc2c5b",
-    "531cbc20bd135255fd8927e0133219d0",
-    "3550f48f6b4356780b1839a7c95ea05c",
-    "6288e65ffff214299d78ffcad4f09fc2",
     "d925a49a5b7202eb9653707621f622ab",
     "5d008c9a257074f171718fd0ad1e0db4",
     "914755475ae14858eefc583715cdc611",
@@ -16001,7 +15994,14 @@
     "919405fbd0c1fc3c09208b6cc25f5e71",
     "7da2a0b29f523d0b4c42ba197ddd7626",
     "52629e3d3ea9485c68dff40e7548421d",
-    "1251af81272cdf36194d7f83e91f1f81"
+    "1251af81272cdf36194d7f83e91f1f81",
+    "77b47bd52a04f8c1c2e4e19a70f937c8",
+    "b988aa0bf32a8630deea5fb05c48f11f",
+    "d0a8669b26190509a56b5d15472fece4",
+    "71a5105899dd9d34131cd56fc0021d5b",
+    "1af454efaeb1620945aa5653bd78c183",
+    "68cbd0cf9b0451bd57e720718ee3ea73",
+    "ab058e1461feff343ad55049f69163ae"
   ],
   "transfers": {
     "pages": {
@@ -21228,6 +21228,26 @@
     {
       "t": "6 8220 acclaim bundle everyone game get gets gta hype own post publisher releases rockstar six steam that their video waiting while",
       "ts": 1793919221.7940545
+    },
+    {
+      "t": "10 2026 ballot class fame hall join nominated nominees players these unveiling",
+      "ts": 1793919227.0095863
+    },
+    {
+      "t": "0 2026 3 7 bilibili corp dplus gaming gen invictus karmine kia left lyon meets november play semifinals set spots still swept t1 two worlds",
+      "ts": 1793919230.412658
+    },
+    {
+      "t": "2026 6 beijing betboom bracket furia iem matchups mongolz mouz natus november paris parivision play playoffs preview quarterfinals skip start times vincere",
+      "ts": 1793919233.8539653
+    },
+    {
+      "t": "12 8217 acknowledged approval approvals blame business days developers devs facing game has indie instead longer now process review significantly slop some steam take taking than that times typical usual valve",
+      "ts": 1793919237.1876497
+    },
+    {
+      "t": "1 4 activision advantage against agent ban call cracks down duty gives hardware introducing launch modern new party players res season software stance taking that third threats tougher unfair warfare warzone",
+      "ts": 1793919240.5765293
     }
   ]
 }
