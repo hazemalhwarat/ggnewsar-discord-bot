@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXpUaHVaM1NEY1Q1dUVyXzJlREZpa1UyeWlHc1dWNlVrTHdhUTJMY3RfX2RvZVNiSVZDOVF1LWg0NmF1OXVlYlJEV180aEJScFNFUU1fOXVaWXRhaXZZWE93MWZHbzRJQlNpeUppRWJTaUN4UnhzZHpQamNia25QWEhfUnNfRVllRmpjQ0pn?oc=5",
-    "https://www.talkesport.com/interviews/jonathan-gaming-bmsd-2026-interview/",
-    "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-air-pre-registration-crosses-10-million-how-to-sign-up-and-what-comes-next/",
-    "https://www.talkesport.com/news/what-to-expect-at-gamingcon-bharat/",
-    "https://www.talkesport.com/news/gamingcon-bharat-game-developers-creators/",
-    "https://www.talkesport.com/news/gamingcon-bharat-2026/",
     "https://www.talkesport.com/news/steam-launcher-update-faster-than-epic-games-launcher/",
     "https://www.talkesport.com/news/wardogs-season-2-update-patch-notes/",
     "https://www.talkesport.com/news/cs2/cs2-update-patch-notes-demo-viewer-round-backup/",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/all-gta-6-locations-revealed-so-far/",
     "https://insider-gaming.com/take-two-addresses-ai-in-gta-6/",
     "https://insider-gaming.com/take-two-ceo-faces-bizarre-question-not-enough-hits/",
-    "https://esportsinsider.com/2026/11/gen-g-sweep-lyon-to-end-north-americas-worlds-2026-run-and-set-up-ig-semi-final"
+    "https://esportsinsider.com/2026/11/gen-g-sweep-lyon-to-end-north-americas-worlds-2026-run-and-set-up-ig-semi-final",
+    "https://esports-news.co.uk/2026/11/05/gen-g-sweep-lyon-in-worlds-2026-quarter-final-to-set-up-invictus-gaming-rematch/",
+    "https://www.dotabuff.com/blog/2026-11-05-new-hero-speculations-roundup",
+    "https://www.esports.net/news/gaming/gen-g-sweep-lyon-3-0-to-end-north-americas-worlds-2026-run-and-set-up-ig-semifinal/",
+    "https://www.hotspawn.com/league-of-legends/news/dk-vs-blg-worlds-2026-quarterfinals-preview",
+    "https://www.hotspawn.com/league-of-legends/news/gen-g-puts-end-to-lyons-worlds-2026-run-with-clean-sweep",
+    "https://g2g.news/online-gaming-laws/after-chandrakar-ravi-uppal-also-arrested-in-uae-likely-to-be-extradited-to-india/"
   ],
   "title_hashes": [
-    "c79396c131497931f7fd53b0994d8f8e",
-    "4977a3740f37a2123e311477de4f07d1",
-    "1db38461ef9485711ed6a01406a6e067",
-    "9b52aa4ab2e99fca7d1792afc24e823c",
-    "21a6a9234186390d8971a204fe0713d3",
-    "6f3853fc8db270810adf2e173492db23",
     "ef266bddcd135ba973412c947ca549ee",
     "a4baced85d1f683db32d4a08490332e4",
     "9988c7b63ae54449d0c5589ad63eab8f",
@@ -16001,7 +15995,13 @@
     "44020d91ccc99e49f8715288a6a1208e",
     "507ecebaed0ca21da8e1be4a424d09b1",
     "126d6734ca7fae28488dc46747a762a5",
-    "6d3ff6e401685ce9a87dc40d131e5c0c"
+    "6d3ff6e401685ce9a87dc40d131e5c0c",
+    "60717d028f8e91043d44d8e778c86fae",
+    "3dbb5354015f9d2ef974e49efb5eba6a",
+    "9e9432f7838a693a5b01685c9f7dd005",
+    "529ca036245e1af48bdf033806b232a4",
+    "786ebf4154bd7412c00fc8a0fadac366",
+    "c8cab632e5e60149b636dba9ed8eff11"
   ],
   "transfers": {
     "pages": {
@@ -21360,6 +21360,26 @@
     {
       "t": "0 2026 3 allen america beat end final first gaming gen invictus last lck lyon north now one removing revived run seed semi series set sweep team texas top way worlds",
       "ts": 1793871982.829615
+    },
+    {
+      "t": "2026 continue final games gaming gen invictus lck lyon needed only playoffs quarter reading rematch set settle side sweep third three worlds",
+      "ts": 1793871987.9492548
+    },
+    {
+      "t": "0 2026 3 america champions chase end face final first gaming gen invictus knocking last lck lyon north now out quarterfinal run second semifinal set sweep swept team their they worlds",
+      "ts": 1793871991.3938677
+    },
+    {
+      "t": "2026 all among battle bilibili blg dplus first gaming hand have kia lck lpl matches meet most one preview quarterfinal quarterfinals series sho should taste unpredictable who will worlds you",
+      "ts": 1793871994.9641204
+    },
+    {
+      "t": "0 2026 3 business clean eliminating end exciting gen last lck lyon puts quarterfinals race regular run supposed sweep swept team title trace wednesday what worlds",
+      "ts": 1793871998.3385634
+    },
+    {
+      "t": "46 after agencies also app arrest arrested authorities been betting breakthrough chandrakar dubai enforcement extradited follows has india indian infamous law likely mahadev major old promoter ravi uae uppal year",
+      "ts": 1793872001.7287426
     }
   ]
 }
