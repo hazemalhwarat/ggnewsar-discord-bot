@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/vct-2027-emea-kickoff-qualifiers-outline/",
-    "https://insider-gaming.com/former-twitch-director-geoff-keighley-game-awards/",
-    "https://insider-gaming.com/gta-6-and-modern-warfare-4-are-the-biggest-games-of-the-year-says-activision-cmo/",
-    "https://insider-gaming.com/dying-light-scarier-new-audio-partnership/",
-    "https://traxion.gg/track-titan-partners-with-fia-for-sim-racing-and-esports-driver-development/",
     "https://www.hotspawn.com/league-of-legends/news/esports-become-sport-brazil",
     "https://www.hotspawn.com/league-of-legends/news/louis-vuitton-tempo-point",
     "https://www.hotspawn.com/valorant/news/americas-valorant-champions-shanghai",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28187/maplestory-idle-rpg-launches-1st-anniversary-salon-event",
     "https://www.invenglobal.com/articles/28186/astellia-sequel-astellia2-launches-worldwide-as-the-first-game-on-nexuss-one-platform",
     "https://www.invenglobal.com/articles/28185/six-companies-including-nintendo-ea-and-riot-display-common-accessibility-tags-in-us",
-    "https://www.invenglobal.com/articles/28184/first-game-released-since-acquiring-one-store-nexus-launches-global-service-for-astellia-2"
+    "https://www.invenglobal.com/articles/28184/first-game-released-since-acquiring-one-store-nexus-launches-global-service-for-astellia-2",
+    "https://www.invenglobal.com/articles/28183/berserkers-2026-season-farewell-someday-from-a-higher-place",
+    "https://www.invenglobal.com/articles/28182/discord-cto-confirms-the-desktop-and-mobile-apps-are-being-rebuilt-in-rust",
+    "https://www.invenglobal.com/articles/28181/perkz-denies-supporting-the-tates-and-defends-g2s-worlds-run-in-long-statement",
+    "https://www.vlr.gg/785120/all-gamers-say-goodbye-to-bai",
+    "https://www.vlr.gg/785114/nongshim-redforce-adds-hype-and-persia-to-coaching-booth"
   ],
   "title_hashes": [
-    "2d1a47c3591cfde53c89d12ff30acdcf",
-    "77a4be5d8cfabd6ac8662983e32e088e",
-    "68523d786c5a43999380d4b5fd061b73",
-    "60ba9755eab9d537ddbd360201bfb579",
-    "6164f402650afefa531992a46cf0d0da",
     "5f77345a713ed2117fe4c04266dee012",
     "46a37609fba2f5a02273cf1d7ed27b9d",
     "19bd91e0b311623be0cbc7532bbe5a0e",
@@ -16001,7 +15996,12 @@
     "180df651794c729a33bb53d790301992",
     "a693d5e188b648662ccb62572007e8ef",
     "c0e620e03325709bd25dbaeb0d6593d3",
-    "77f40278847908a464b7ef52b9627243"
+    "77f40278847908a464b7ef52b9627243",
+    "454deed8d501494cfb5c12a70e4c29fc",
+    "a1edf939093ca1802477f5445c793a09",
+    "aa9b17913f1663973890c541782f64dc",
+    "b761c66e75016f688e3c84c88d614526",
+    "e2e53106eb53c39f356d413558dee3a0"
   ],
   "transfers": {
     "pages": {
@@ -21024,6 +21024,26 @@
     {
       "t": "2 5 acquiring alongside announced astellia can characters develop first game games global has its launched launches lepor mmorpg nexus november one partner players released service since store that their unique utilizing",
       "ts": 1793900546.4266477
+    },
+    {
+      "t": "0 2026 3 5 allen berserker center championship credit event farewell gen held higher kst lol lost lyon november place quarterfinals season someday texas union world worlds",
+      "ts": 1793900551.6785097
+    },
+    {
+      "t": "according app apps being chief confirms cto desktop discord dropping electron founder its language mobile native officer programming react rebuilding rebuilt rust stanislav technology vish whole",
+      "ts": 1793900555.353087
+    },
+    {
+      "t": "4th andrew coach defends denied denies esports formerly g2 has head long luka november perković perkz personal posted run statement supporting tate tates tristan twitter worlds",
+      "ts": 1793900558.8779385
+    },
+    {
+      "t": "all bai gamers goodbye mid say",
+      "ts": 1793900562.36607
+    },
+    {
+      "t": "adds booth coaching face familiar his hype nongshim now one persia redforce silkanon",
+      "ts": 1793900566.1148026
     }
   ]
 }
