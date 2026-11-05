@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/gta-6-gameplay-launch-trailer-dropped-by-rockstar-games/",
-    "https://insider-gaming.com/darkswarm-preview/",
-    "https://insider-gaming.com/valorant-champions-tour-2027-locations-revealed/",
-    "https://insider-gaming.com/max-payne-3-failed-according-to-rockstar-games-co-founder/",
-    "https://www.vlr.gg/773083/seoul-val-ncia-austin-among-15-vct-2027-host-locations",
     "https://www.vlr.gg/773071/fut-esports-allows-head-coach-vlad-to-explore-options",
     "https://www.vlr.gg/773068/team-liquid-allows-nats-to-explore-options-after-four-seasons",
     "https://gameriv.com/vct-2027-global-tour-brings-50-tournaments-open-qualifiers-and-events-across-15-cities/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28204/netmarble-posts-q3-revenue-of-krw-6347b-operating-profit-of-krw-504b-focusing-on-quality-of-new-titles",
     "https://www.invenglobal.com/articles/28203/damon-and-baby-rise-of-the-oracle-launches-in-february",
     "https://www.invenglobal.com/articles/28202/gta-6-pre-orders-estimated-at-771-million-units-3-out-of-4-buyers-choose-ps5",
-    "https://www.invenglobal.com/articles/28201/lineage-m-november-week-1-limited-weekend-special-crafting-info"
+    "https://www.invenglobal.com/articles/28201/lineage-m-november-week-1-limited-weekend-special-crafting-info",
+    "https://www.invenglobal.com/articles/28200/nexon-hosts-maplestory-global-development-contest-mission-challenge",
+    "https://www.invenglobal.com/articles/28199/5-jujutsu-kaisen-characters-mabinogi-mobile-releases-jujutsu-kaisen-collaboration-update",
+    "https://www.invenglobal.com/articles/28198/standard-and-limited-editions-witch-on-the-holy-night-korean-version-launches-dec-24",
+    "https://www.invenglobal.com/articles/28197/casual-brain-training-game-oneuldoo-hodoo-adds-crush-line-and-revamps-ranking-system",
+    "https://www.invenglobal.com/articles/28196/cygames-officially-releases-where-the-seeds-fall"
   ],
   "title_hashes": [
-    "b4ed2405f50474ce83951e935eb54d08",
-    "f99db6008360830299bc6787fa46a832",
-    "6da0b59c7aeb1ff5573d9c1906a240c1",
-    "8453b4f273b66a929757002aac60a79a",
-    "8b10e3b7ce7f914a51c6712a40e6331d",
     "8f8f5b699a4762b2c7feccc62fd7faf8",
     "c405cf3e0a2decd33b4d8b5734107d96",
     "373f9cef3df9a6ce2177f511c8f15456",
@@ -16001,7 +15996,12 @@
     "6061a79aad7099b3907d94df46a0c4a9",
     "4c5165ecd080f8daef4151f810f81ea8",
     "3efc92eae9fa22d6fc801a03261b5464",
-    "41d022fcee868e07291ed88a16499486"
+    "41d022fcee868e07291ed88a16499486",
+    "9e0bd2d64705f5fbde2764ca670b2e9a",
+    "7e9a6569c184b844f8b873ac25c9c8ff",
+    "6af2ab15fc88438a23370bd7a9a254fe",
+    "e4392e1cafa1a15a5b44cbc49f95fc95",
+    "8702cd49754d21b93e82cad183866336"
   ],
   "transfers": {
     "pages": {
@@ -21300,6 +21300,26 @@
     {
       "t": "00 04 1 11 13 30 4 armor available collections crafting equipment first focus info items knight limited lineage november selec special wed week weekend",
       "ts": 1793871925.795782
+    },
+    {
+      "t": "25 5 allowing announced challenge contest developmen development entries finalist global hosts maplestory mission nexon november play players run that through will",
+      "ts": 1793871930.854765
+    },
+    {
+      "t": "5 anime announced can characters collaboration five has into jujutsu kaisen mabinogi mobile nexon november players released releases that this transform update",
+      "ts": 1793871934.3579645
+    },
+    {
+      "t": "24 4 announced arc asia dec december editions holy korean launch launches limited ltd night nintendo novel platforms playstation standard supported switch system that version visual will witch works",
+      "ts": 1793871937.7547736
+    },
+    {
+      "t": "5th 7 added adds alongside announced brain casual corp crush day game games growth guide has hodoo its kakao line mini new oneuldoo ranking revamp revamps system that training",
+      "ts": 1793871941.2927926
+    },
+    {
+      "t": "5 brand cygames cygamesedge debut fall game its new november officially released releases seeds title where",
+      "ts": 1793871944.750102
     }
   ]
 }
