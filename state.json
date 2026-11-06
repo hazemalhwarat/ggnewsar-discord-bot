@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2VfYmpqUWU4TXl1bXNiYnpCei16WDZIcjM5NGxBaUdwQXE3M0VIcTREeWZHdEM1SlZkNUV4YWh1TlZtYVUtWjU3Y29BNGN0cWxZVUJic1BLaEkyb3FSejNDSWY0dVdMdGJkUF9oak5JTWY5ZUtaVkRRVkFreXI4MVM2VXY2bVl6TVdZ?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ReERHSDFxdWcxdk10MDR0NGZISkZpU3MySk5GOFBMc1RSbnpIRlBxWkZaV2R0ZXJiTEJ1NEhVUzZRX2VUbFpIYm8tVmdOSjBjZXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FU3d3WEtJOTR0SjJkWEFZM0RVLVd3a0xDZ29Td3BrSlFWbjhmaUlMT2lCNU9tNUpxRG5TdmZoYjU0YlotWlhXaWJEbkhGNXZfeFV1aEdDQ0xOa1NZeVRUTjd5eDA?oc=5",
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8wdkJpaFZLU2hEM2N2SWNkTFpXblNiNTNnU1prOVpja0dqVi1XMHhmOWFOZnk0WFlQcXY1dEpLSEpCZw?oc=5",
     "https://europeangaming.eu/portal/press-releases/2026/10/16/216109/wildz-group-first-finnish-gambling-licence/",
     "https://europeangaming.eu/portal/press-releases/2026/10/16/216104/optimove-ai-first-customer-results/",
     "https://europeangaming.eu/portal/german-online-gambling-market-brands-trends/",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/45922/the-best-highlights-from-iem-beijing-playoffs",
     "https://gameriv.com/ps5-sales-reach-97-9-million-as-sony-closes-in-on-100-million-consoles/",
     "https://www.hotspawn.com/valorant/news/gen-g-mako-dambi",
-    "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector"
+    "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector",
+    "https://www.gamesindustry.biz/unity-reportedly-in-acquisition-talks-with-silver-lake-and-public-investment-fund-two-firms-involved-in-eas-55bn-buyout",
+    "https://www.gamesindustry.biz/how-to-get-investment-for-your-video-game-in-2026",
+    "https://europeangaming.eu/portal/press-releases/2026/11/06/217561/heaven-of-7-kitsunes-fortune-hold-and-win/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/06/217555/allwyn-uk-leadership-restructure/",
+    "https://europeangaming.eu/portal/press-releases/2026/11/06/217550/creedroomz-two-moons-baccarat/"
   ],
   "title_hashes": [
-    "14a399e953cd8ac8152854a2bc8a9871",
-    "f2ab5fb218da8b84623f45579aa4ba11",
-    "f2ab5fb218da8b84623f45579aa4ba11",
-    "55f4a9472aee3e8eb2a7ca1cee3ec3b4",
-    "9ac18dfe2287e511d10a8df00e7e3fe3",
     "2f78eb8144e543d7fdb9dc4faba2eeee",
     "b09210f1a4c82dc3ed73135c1aa67425",
     "134a8350adb7002cee87c8e23390b168",
@@ -16001,7 +15996,12 @@
     "8ce6e8d85518a73ea2215c19c4595617",
     "47e86c1d1d6c771fb9ee473543a89eab",
     "b8ad7c274a121220003889311969346f",
-    "d5672299eed590cafeaba4cafa58141d"
+    "d5672299eed590cafeaba4cafa58141d",
+    "6f1e94ede778e59bf8726896f315dfcb",
+    "7df500c7eec1ce6a61b6a36d681672a4",
+    "15f2d48a5ef4ca28022468afcceabd95",
+    "8f3e031e71df2b230a76585615085081",
+    "4d1e195f92cb909d1dc400dfbc61376e"
   ],
   "transfers": {
     "pages": {
@@ -21376,6 +21376,26 @@
     {
       "t": "126 delivered driven ever has its network powered q3 quarter reports results strongest third unity vector year",
       "ts": 1793961575.3398092
+    },
+    {
+      "t": "55 55bn acquired acquisition arabia arts billion both buyout earlier electronic engaged equity firm firms fund has investment involved lake pif private public reportedly saudi silver talks two unity which",
+      "ts": 1793961580.202931
+    },
+    {
+      "t": "2026 23 biz comic con ding director during editorial fun game gamesindustry get hicks hosted how investment jon lirui london mcm october panel principal republic summit talked transcend video where your",
+      "ts": 1793961583.6375206
+    },
+    {
+      "t": "7 8217 8230 also bonus central collect decides depends every fortune heaven hold kitsune launches new post prize setup slot symbol that title win",
+      "ts": 1793961587.044972
+    },
+    {
+      "t": "8230 allwyn appeared around digital end executive its leadership lottery marketing national operator post reorganising restructures retail roles team three top tries",
+      "ts": 1793961590.441875
+    },
+    {
+      "t": "8230 baccarat creedroomz different higher inside launches lets lower modes moons one operators option placing player post reach release risk table two volatility",
+      "ts": 1793961593.865378
     }
   ]
 }
