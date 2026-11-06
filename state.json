@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTnQtSDVLUmFsY2d4aWE2dkNLclJuMlJUTVloWVFBQWM3Sktyczg4NGEwdzZab1oyT2FzZlRURGNRcEEzTVU3STh0cTFEZXp0QmFHbXNQUlk5aTZuX0VMQzVwbFluM1VYSXlrMi05cXBNLVZrc1FNTmx2ZzBmXzdiMzlKdXhVbHY1YTlHTnFqVThubkUxY25fOVhpWnp1UG5JVUdFM0xsVVdON2o4SjNBWXhRMXVHVmZoSUg1ZEw2SnhBNmFSUkIxT1ZRbGg2SzFCem9rbFBlV1RHOFFKcHRMMVZpTkc5UDlMSEs4Vk5oZFBuYkVBbXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM3Jfam5lcndYSWNkX0U0N0lySllUMmZPOG1fckplYXZVYm9SdGdLaEFHb3Rld052TDZvSldVUGgzZ1VzeFgwVm9uejEtSXBBNlFDRDRYY084Vjc0UEQyVUhOc3RvS2t4LVBSRGk2M2lUeGJ3NTFFaUp5NVhQVHFQdlVHMlJ5VDE2dWJR?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUNXTE9kUG40N0NrajIxTDZjeUE2WndDQ016VUs2RFVjSGRaSGhYcEJXVWdhYVFHRkEtMFY3T1lZUGRKeE9ib195MEg2enF1ZEJHdUhNWGQ3b21XYUxTakZocGk3WmU0Zjl6bHZuWkhrRjI2bXJ0Z09ENjBlbjlodEtESjRGYTQzOGtUd1l6TDUyUlk?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVJsaEt5V1NiUlIzWklPT2d6cGdHeG5Ca3ZRME5MdDN1M3o4dVpGcXc3X1Y3NERsSzYwZU1ESHhOUzB2S1YwbkowN3h6a051WXhhXzBrQkdOUTBSQVZlRUVJS1pzRGVmWGtWeTRiaUJxU2FhZ090ejYzdkhoYlZmaGlIZ2hhQzFCUHlqTHRB?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE52R0x2STNkZ05UNEY2Q2ZZRGRmZTh2akZvMnI4eTN5UXJZTk91TFU2d3lsbzVaaWZtdnBjc05IUnFpbHM0WWNfd3ljRzZuWjhUNDlIQU5EcHpYcF84WXZ4aDBYRWFVWlZlVUt2aDl0RkNyeEg2bDVyNUFnOUI?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJckV1d0RKLTZjTjc3Nk1yc1NiY1luR2ZxUlFrUEloUVowY2NtZ29hTjJtemdHSEtlVTBfTjZwVXp2ZzVnZ0pHS3JxbWdvOWV3dTRfNExwbFhISGtmTzNHSlUwQkZpZXp4?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6anl4ZmI5OGIwYzZ5Qnc0eW5LdVJKXzBnTmxJZXZkeTNqZWxGMUFOU2MyaUl0eXNRMDdOTnV3dm8tYmFVX1Q4eEpOa2FhclZWdXQ3MzQ0ZTlVOGs0dmhUVFYyaEozMGhp?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxObDN1eEd6aTY5SXo4dDdsZlhyWlBrQ0dCb2RkS3IwMTlPbFM3a0dlRlhGa1cyM2M5N0hUYlg1anBKUkpLamJXTm5UYXlPR2NKU1ZZMU5nR0wyaElzWk1DOFZ3UGEwZG85S3dua1BDVzhEUUI1a0JNWXRyTk1VOVQ4dm5IdFo?oc=5",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/lol-streamer-thebausffs-has-accounts-suspended/",
     "https://insider-gaming.com/travis-scott-gta-6-sneakers-can-you-buy-them/",
     "https://insider-gaming.com/former-bethesda-veteran-reveals-what-its-like-working-with-todd-howard/",
-    "https://insider-gaming.com/is-kodak-black-in-gta-6/"
+    "https://insider-gaming.com/is-kodak-black-in-gta-6/",
+    "https://insider-gaming.com/team-liquid-co-ceo-victor-goossens-interview/",
+    "https://gameriv.com/deus-ex-creator-slams-eas-38-65-million-ceo-compensation-after-bioware-shutdown/",
+    "https://gameriv.com/microsoft-launches-faster-xbox-pc-app-for-insiders-with-up-to-60-faster-startup-times/",
+    "https://gameriv.com/elden-ring-modder-adds-metal-gear-risings-insane-sword-combat-and-it-looks-incredible/",
+    "https://gameriv.com/discord-is-rebuilding-its-desktop-app-in-rust-slashing-ram-usage-to-just-290mb/"
   ],
   "title_hashes": [
-    "efa57de067b3f3e5f2d01e15a33d7874",
-    "db2847f1976ca6ac9c746952f4cebc69",
-    "0d06f82a4d09483bc85020ab4ab9f0f2",
-    "09f15ef63d22a5e3cce5101ba15228c2",
-    "8b3b3b058dbd3410c73c7ecc58a7e281",
     "6c6ffa860dc9797e37c7185ad73cee70",
     "65b8f45b8a409e83aee6ad583430a490",
     "3bacef055e62aa61b4c965d3704e2bbb",
@@ -16001,7 +15996,12 @@
     "7d64c6370afe3d938cf435edb087c1a0",
     "55a47fa215eee5ab6c1381713fb6520c",
     "bda0882c45b3abd01a6130df68c3a0df",
-    "f5780e2cf69a02722ac1156f1827ec44"
+    "f5780e2cf69a02722ac1156f1827ec44",
+    "7f305ed0ee0115916f6daa260c4f7dc0",
+    "0f4149a522575302c06123bc2c423281",
+    "0700b345803bc2b8e5930bd2c2d60177",
+    "e07c70b2d2dea9fa51202808498301cd",
+    "c47987bf9d06280c4b96674a3b671b38"
   ],
   "transfers": {
     "pages": {
@@ -21124,6 +21124,26 @@
     {
       "t": "6 8217 auto black but cameo explained famous florida game grand gta kodak latest named post rapper screenshots seem suggest that theft true",
       "ts": 1793987011.3237796
+    },
+    {
+      "t": "2027 8220 about applying ceo circuit critic criticize didn down esports even everything fallout founder future gaming get goossens insider liquid monetization partnership post speaks team tear valorant vct victor wouldn",
+      "ts": 1793987016.5836833
+    },
+    {
+      "t": "38 65 8217 after again aim best bioware ceo closure compensation creating creator criticized designer deus direct exec following game has known legendary million once publisher shutdown slams spector taking this time warren",
+      "ts": 1793987020.0446491
+    },
+    {
+      "t": "60 anno app company faster gamers giving improved insiders interface launches microsoft much navigation needed performance promising significantly smoother startup times upgrade windows xbox",
+      "ts": 1793987023.5005646
+    },
+    {
+      "t": "8217 absolutely adds apparently brutal combat combine dec elden gear happens has incredible insane looks metal modder over revengeance ring rising something sword swordplay talented top what when you",
+      "ts": 1793987026.8625712
+    },
+    {
+      "t": "290mb addressing among announced app biggest company complaints desktop discord excessive finally gamers guessed has its just money one ram rebuilding right rust slashing that then usage you",
+      "ts": 1793987030.2393064
     }
   ]
 }
