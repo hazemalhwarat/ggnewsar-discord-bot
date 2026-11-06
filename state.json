@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFJGMGw1VEJNeE9OYnFDN1RFUjJFS2F4YnBhX0tNZWFKdmVkcExRYmJ4cEZBS0ZXMGdBVjVPOG5vQl9ORFAtcmxUYTNEcG8yTUxYbEI2S29KZmhyQWZXajA0UElrcEZOdlNFR3o4V05OY2VPd1FxQThTcExwRXFCamhERVZjS3FGb21TMmJB?oc=5",
-    "https://news.google.com/rss/articles/CBMiMEFVX3lxTE1Xci1wUW1TeEhLZW5sMWVRZHZiQklYdldJVVdYMW5GcmF2a0N3S19DMQ?oc=5",
-    "https://www.invenglobal.com/articles/27298/epic-games-store-claimed-to-be-faster-than-steam-left-red-faced-as-valve-boosted-speed-a-day-early",
-    "https://www.invenglobal.com/articles/27297/cdpr-finalizes-worldbuilding-for-first-original-ip-hadar-enters-development",
-    "https://www.invenglobal.com/articles/27296/umamusume-pretty-derby-adds-deserted-island-training-scenario",
-    "https://www.invenglobal.com/articles/27295/albedo-carta-joins-steam-next-fest-with-playable-demo",
     "https://www.invenglobal.com/articles/27294/what-are-the-popular-builds-in-last-epoch-season-5-7-top-featured-builds",
     "https://www.invenglobal.com/articles/27293/skywalk-prepares-to-relaunch-welcome-to-my-home",
     "https://www.invenglobal.com/articles/27292/pubg-mobile-to-hold-pro-esports-finals-in-daejeon-on-oct-1718",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/28277/dokkaebis-world-says-wont-block-rmt-grac-warns-of-action-if-rating-deemed-inappropriate",
     "https://www.invenglobal.com/articles/28276/the-goddess-squad-in-their-prime-highlights-from-the-nikke-musinsa-pop-up-store",
     "https://www.invenglobal.com/articles/28275/krafton-establishes-brazilian-holding-company-krafton-brasil-holdings",
-    "https://www.invenglobal.com/articles/28274/considering-class-change-player-impressions-of-tower-of-god-shared"
+    "https://www.invenglobal.com/articles/28274/considering-class-change-player-impressions-of-tower-of-god-shared",
+    "https://www.invenglobal.com/articles/28273/epic-seven-updates-bunny-girl-mafia-yufine",
+    "https://www.invenglobal.com/articles/28272/pubg-battlegrounds-tops-steam-global-and-korean-top-sellers-charts",
+    "https://www.invenglobal.com/articles/28271/raven-2-opens-pre-registration-for-new-mach-server-starting-nov-6",
+    "https://www.invenglobal.com/articles/28270/senior-deputy-floor-leader-kim-seung-soo-expresses-great-interest-at-people-power-party-level-in-game-legislative-tasks",
+    "https://www.invenglobal.com/articles/28269/gta6-file-size-212gb-well-boost-your-internet-speed-for-free-so-you-can-download-faster",
+    "https://www.invenglobal.com/articles/28268/after-ea-deal-silver-lake-and-saudi-arabias-pif-target-unity-next"
   ],
   "title_hashes": [
-    "13dcd9802eb398635a4e423d085ae2e3",
-    "d38dd98b8eb6136b9afa58de625f55d5",
-    "b208e450004765ec1862467a29dbec3c",
-    "b3c479387aa06c1de26eed71ea2af9ae",
-    "44cb649fc4a0f39a99f0891648398e1c",
-    "107da465d0c0e1aeaebb58f6af03ac01",
     "bcb526b8634f8634914d3148e5bd24ec",
     "d769c33308f70c47f500a0b13289cf73",
     "d05b471e5a0c0b4864f1c2c824d47c27",
@@ -16001,7 +15995,13 @@
     "f06c10a9ab696301e5f4f94dba178a4a",
     "2ffea8b9e342f0370f903ff9cebfc3c1",
     "cbf88183b647214b0bba1a1b16711770",
-    "d0d86a9cb6fd199e0531b40966d1dd23"
+    "d0d86a9cb6fd199e0531b40966d1dd23",
+    "27a89197a0db442f3b6acb59454ae175",
+    "267a51dc08ae87d6c95f19c84f166589",
+    "80dc93cddfcce069f52e1d3f1fb48f28",
+    "5a0ef0aebd5d731a01b795b08d81c2a0",
+    "1dd908691e2f5992939c3ffb9038b8a8",
+    "7d02550c44021a61c757d29feadf0ac8"
   ],
   "transfers": {
     "pages": {
@@ -21256,6 +21256,26 @@
     {
       "t": "2 begun change class considering enchant episode god have impressions player players preparations preview shared sol their tower update",
       "ts": 1793961460.4646707
+    },
+    {
+      "t": "1 6 based battlegrounds charts global hereinafter korean krafton november pubg ranked respectively revenue sellers steam top tops",
+      "ts": 1793961465.5920837
+    },
+    {
+      "t": "17 18 2 6 booster featuring hyper its mach mmorpg netmarble new nov november officially open opens pre raven registration running server starting will",
+      "ts": 1793961469.1153774
+    },
+    {
+      "t": "assembly association booth deputy expresses floor game games great industry interest kim korea leader legislative level national participating party people power representative senior seung soo tasks visited",
+      "ts": 1793961472.7944438
+    },
+    {
+      "t": "212gb boost can coincide download faster file free gta6 internet launch offering provider service size spectrum speed temporary upgrade you your",
+      "ts": 1793961476.6000807
+    },
+    {
+      "t": "acquisition after arabia consortium deal emerged engine equity firm fund game has have held investor involving lake next partners pif private provider reports saudi silver sovereign talks target that unity wealth",
+      "ts": 1793961480.2975838
     }
   ]
 }
