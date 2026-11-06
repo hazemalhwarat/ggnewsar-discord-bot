@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27274/kim-min-chul-aiming-to-extend-zerg-era-vs-yoo-young-jin-reaching-finals-after-8-seasons",
-    "https://www.invenglobal.com/articles/27253/planet-zoo-2-launches-on-pc-and-consoles-with-aquariums-and-aviaries",
-    "https://www.hltv.org/news/45734/stikle-takes-over-as-head-coach-of-inner-circle",
-    "https://www.hltv.org/news/45733/blast-rivals-season-2-team-list-revealed",
-    "https://www.hltv.org/news/45732/fallen-theres-a-real-boost-from-winning-a-tournament-it-would-be-great-if-we-could-feel-that-again",
     "https://www.hltv.org/news/45731/opening-matchups-set-for-pgl-masters-bucharest",
     "https://esports-news.co.uk/2026/10/16/team-resilience-extend-winning-run-to-five-with-2-0-over-zenith-in-blast-slam-qualifier/",
     "https://esportsinsider.com/2026/10/fifae-finals-postponed",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1MFQ4cmhfZUNpMFBKajU2dDB5U3FpN21zMkxiZWR5bXBmcGxGcFhtSHlrZThmSEpxSTJrVm1QT01JTDFsbU5BTXQ0QWFmNDhZRUo2OGE1MTV5elNNYUxN?oc=5",
     "https://www.talkesport.com/news/fortnite/fortnite-sprite-extraction-site-locations/",
     "https://www.talkesport.com/news/krafton-brasil-holdings-brazil-holding-company/",
-    "https://www.talkesport.com/news/gaming/road-rash-30th-anniversary-edition-ea-classics-steam/"
+    "https://www.talkesport.com/news/gaming/road-rash-30th-anniversary-edition-ea-classics-steam/",
+    "https://www.talkesport.com/mobile-gaming/garena-free-fire/live-ffws-2026-global-finals-day-1-points-table-check-ffws-overall-standings/",
+    "https://www.talkesport.com/business/leicester-city-bc-game-eva-elfie-foxes-trust/",
+    "https://www.talkesport.com/news/lol/g2-esports-2027-roster-skewmond-buyout-naak-nako/",
+    "https://www.talkesport.com/tech/discord-rust-client-phoenix-electron-ram/",
+    "https://www.talkesport.com/business/nvidia-stock-crash-chip-selloff-november-2026/"
   ],
   "title_hashes": [
-    "880c10ab2ff2bee01665b8424b347a7f",
-    "e549de219b9353c98a6248af75355ad0",
-    "0aa83a75960fb24f117b4d6639b3035c",
-    "f23eafc4e8c50249be87208db0dfb7fa",
-    "1031606a3700db9e56411a224c627d5e",
     "37a07540c24cd46919ef60a11b8ccc9d",
     "4750372ceaeb9176368132a12e574a22",
     "478aad242dc3de0e8ac1e06684cde4b8",
@@ -16001,7 +15996,12 @@
     "850d1d695ede7a8ff8904a779f7082ca",
     "6d60cfd4c6f2a103dbb0fe6c283a2bdc",
     "e39b1da3b3932bd03824fc9b7c5ce87c",
-    "8469089bc8986cc19b056ab7c2455baf"
+    "8469089bc8986cc19b056ab7c2455baf",
+    "e4070791970add28f0e1c5703dc9f639",
+    "2b87d5dd63402d0792ae9dbade46b969",
+    "210cd22112e1db504c4e5eefbfd8aa57",
+    "98544bedc9efc33376d15a52fc9bbcd1",
+    "ab4d01d503cb4942678c78e5a018c205"
   ],
   "transfers": {
     "pages": {
@@ -21416,6 +21416,26 @@
     {
       "t": "24 25 4 99 app appeared classic first games gog has other post rash released releases returns road steam",
       "ts": 1793961612.4760075
+    },
+    {
+      "t": "1 2026 6 bangkok being buriram check day esports featuring ffws finals global gow group horaa kazu like live november olympus onic overall played points rrq standings table teams thailand today united",
+      "ts": 1793961617.5467598
+    },
+    {
+      "t": "73 8216 8217 adult already city deal elfie eva fans game has leicester now over post shirt signing sponsor star supporters this trust turn turned unhappy who",
+      "ts": 1793961623.2890496
+    },
+    {
+      "t": "16 2027 8217 after agency brokenblade buyout coach contract could days esports every explained free g2 have head labrov lose november perkz post rebuild skewmond starters stuck two want",
+      "ts": 1793961626.6769164
+    },
+    {
+      "t": "290 accounts app being build client cto discord ditching dropping early electron gpui its just new post ram ran rebuilt runs rust says two whole",
+      "ts": 1793961630.0857422
+    },
+    {
+      "t": "100 17 2 2025 26 3 450 5 9 about amd april billion chi chip day fell had its micron nasdaq november nvidia out over post rout sank sheds since trillion wipes wiping worst",
+      "ts": 1793961633.5511875
     }
   ]
 }
