@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://thegamehaus.com/philadelphia-eagles/jalen-hurts-out-for-eagles-week-6-game-versus-panthers/2026/10/15/",
-    "https://www.vlr.gg/773533/revenge-is-sweet-loud-advances-to-shanghai-grand-final",
-    "https://www.vlr.gg/773734/xi-lai-set-to-enter-offseason-rebuild-without-mr-3k-noman",
-    "https://gameriv.com/us-lawmaker-calls-game-purchases-rentals-disguised-as-sales/",
-    "https://gameriv.com/dota-2-legend-dendi-revisits-his-famous-loss-to-openais-bot-i-had-a-chance-to-stop-ai/",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLVNBNkFxXy1pZTMyMHhNNUp6cGRLY3c3ZUxvME14TnoySFQ1NkNEUXV4NjVkTGtnQTR0T1lNZFpXMFkwYllFLVFUOFduN1Rqa3VPUHlkMnhLZl9nLXZDcHBuUF9FOGdoNmQ1ZFBLUUd1cnAwT1hmTlgyYmpCZ1BXb2Zwajh1TDJkLXRMLU5hYVc?oc=5",
     "https://www.hotspawn.com/dota2/news/nightfall-registered-under-astra-invicta-for-pari-universe",
     "https://www.hotspawn.com/counter-strike/news/in-the-crosshair-6",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28282/wuthering-waves-version-38-special-broadcast-teases-soul-train-to-new-federation-and-year-end-special-event",
     "https://www.invenglobal.com/articles/28281/single-player-content-as-the-goal-of-progression-director-byung-tak-lee-hosts-lost-ark-8th-anniversary-stream",
     "https://www.invenglobal.com/articles/28280/atlus-cuts-metaphor-refantazio-regular-price-by-60",
-    "https://www.invenglobal.com/articles/28233/fnatic-parts-ways-with-alfajer-after-more-than-four-years"
+    "https://www.invenglobal.com/articles/28233/fnatic-parts-ways-with-alfajer-after-more-than-four-years",
+    "https://www.hltv.org/news/45927/b1t-im-enjoying-a-lot-when-we-are-playing-good-counter-strike",
+    "https://www.hltv.org/news/45929/sources-astralis-register-anlelele-in-major-lineup",
+    "https://www.hltv.org/news/45926/betboom-reach-beijing-semi-finals-over-furia",
+    "https://www.hltv.org/news/45924/pgl-add-anti-withdrawal-fines-to-rulebook-this-is-done-to-create-a-more-professional-scene",
+    "https://www.nerfplz.com/2026/11/lol-champions-based-on-real-mythology.html"
   ],
   "title_hashes": [
-    "350abe11857d044fe36c9543915a1848",
-    "75bbde21c391acb9cc1c10457b4ccba5",
-    "1f9c3d3708b034092bd5f98b6b4bc6f8",
-    "062177f1b66543d9b36d39f64ab406fb",
-    "214f83101dd5cfa976ea68a29029321c",
     "44858774d4b22ccf18b55ca9eddb2f87",
     "09f55dc5f59f42c2a94b2cb8756d48a8",
     "e7739fea677c9d8708eec55b47cad5ac",
@@ -16001,7 +15996,12 @@
     "f04836bcba12a2c5bbbf1cf6b56399ee",
     "ad43a16edee1a999944fe42445b5de01",
     "74a4a6d0b23c4543b8a9d5394e6600a7",
-    "124a2f2927712158e641ee7d9472896a"
+    "124a2f2927712158e641ee7d9472896a",
+    "90c99cd0a95d5b02b087429a8b39d6ef",
+    "3c7bc116b4da7bd97d269ce8f566766e",
+    "5233c9f46df77873f7013981242f2c9b",
+    "7aafe862177e8f53080ef50eb2b86d94",
+    "22d64b11d9176938314a7de5ef00a657"
   ],
   "transfers": {
     "pages": {
@@ -21064,6 +21064,26 @@
     {
       "t": "after alfajer ali beder emir ending european fnatic four has more organisation parted parts player spell than turkish valorant ways years",
       "ts": 1793986953.667379
+    },
+    {
+      "t": "atlanta b1t back big counter enjoying event final first good lot navi playing semi since strike their time title when",
+      "ts": 1793986958.8796103
+    },
+    {
+      "t": "anlelele astralis expected lineup major play player register singapore sources team vietnamese",
+      "ts": 1793986962.4795165
+    },
+    {
+      "t": "another beijing betboom face final finals four furia made mouz over reach runners semi semis twc will",
+      "ts": 1793986966.0399923
+    },
+    {
+      "t": "add added anti create done events fines has more out pgl professional pulling romanian rulebook scene set teams their this withdrawal",
+      "ts": 1793986969.5411828
+    },
+    {
+      "t": "10 already also based book champions few gods invented its league legend lifted lol met mythology older ours own picks real runeterra shopping straight ten than that thousand went years you",
+      "ts": 1793986972.9842982
     }
   ]
 }
