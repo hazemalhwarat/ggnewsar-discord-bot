@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRWkJQN0E2LVdpTURxb3laZ2syN05fQzBrb3J2U1VLR0VlbGhPclBUYTltcDl0WHYtVEhXRVBCYkpxaWt2LS1NeGFpUkVVSVdJellvQ1BXVmdWYzN1cHlDRWxDVlZaTGs?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE01WUIzcVRQeWR2UWk0YUY5aDJ3cTctd1FzUmU1ZHRheHphN19GRTVtalJ2NkNkRm03bF9IeHR3cU8zU0w4bFZockg2Tmg2RW9vczZrazgwU0ZzU3hRaXdtUWxOYzhUVWcyaFlsNUl5YU5sMXlJWTNDbW1fYTR2bjg?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMkJwb0FqMDlZQk5MTzhRdjA0eFFvU04yZDFiSFE2aThUSHhXZzl2RVY5Z2JOM19vU3Fnb0pzeUp0SktJNUV1WnNaVU5IQ3dha1JiaWt1djFYU19ZdXQxZVFaVkFaRmYzWF9KU2xGV0g5dTRxeHdYcXdxNkQzRWN6MVpZVkhRSzJrTmttaHRDU0FyWWtlWkdV?oc=5",
-    "https://pley.gg/datdrop-review/",
-    "https://pley.gg/valorant/valorant-champions-2026-bundle-raises-over-50-million-for-vct-teams/",
     "https://pley.gg/cs2/kzy-banned-for-life-as-esic-punish-nomercy-players-for-match-fixing/",
     "https://pley.gg/cs2/zonic-would-rather-see-astralis-alive-as-new-lineup-faces-mibr-in-stockholm-playoffs/",
     "https://pley.gg/cs2/parivision-coach-dastan-on-his-softer-approach-better-to-be-nice-when-youre-winning/",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/news/cs2/cs2-premier-map-pick-rates/",
     "https://www.talkesport.com/marvel-rivals/marvel-rivals-season-11-release-date-start-time-new-heroes/",
     "https://www.talkesport.com/mobile-gaming/bgmi/jonathan-three-finger-layout-bgmi/",
-    "https://www.talkesport.com/news/gaming/modern-warfare-4-itaewon-footage-removal-activision-apology/"
+    "https://www.talkesport.com/news/gaming/modern-warfare-4-itaewon-footage-removal-activision-apology/",
+    "https://esportsradar.gg/blast-partners-with-daigon-esports-to-sponsor-school-esports-world-championships/",
+    "https://esportsradar.gg/pgl-sets-community-broadcast-guidelines-for-cs2-singapore-major-2026/",
+    "https://esportsradar.gg/esl-faceit-group-appoints-georg-brandes-as-vp-of-media-rights-and-distribution/",
+    "https://esportsradar.gg/singapore-gambling-rules-reportedly-force-cs2-major-esports-teams-to-rebrand/",
+    "https://pley.gg/cs2/betboom-finally-beat-furia-as-zorte-goes-62-36-in-beijing/"
   ],
   "title_hashes": [
-    "4c9a91780c5ab17997cc7dfb279489ce",
-    "3a15bf1d470217198aed0be42f715985",
-    "b06c302e98d76f1fa83915b88d9d686c",
-    "32663f5efb73d0715abd1569ed71f1b7",
-    "82746747a01d07a0e49eec8f3675ca1e",
     "f2dea4d085300b7326c17dcc50b0a109",
     "73d26feace721938f5680b1b6034ffd0",
     "a62e208dded5129c29343a7d4556d441",
@@ -16001,7 +15996,12 @@
     "c2fdf04e18328623ca844981736ab674",
     "e059f1152b5f4989fb275c74c9de5bf3",
     "6a5d53ae0ae12842dfd634a11ece0b64",
-    "9a5771bad2cca37c346fceaf8f4d979e"
+    "9a5771bad2cca37c346fceaf8f4d979e",
+    "1bf87f484ae6d9a4d4f1ac2b4d9bd596",
+    "d1d39f293cf7a2def3139b9fcb15995d",
+    "3413e9fb05156c7015d2c88a1ed63ade",
+    "188da2190a98f7253ac392860c051603",
+    "cc4594540a961af75e41c276ae1d2690"
   ],
   "transfers": {
     "pages": {
@@ -21224,6 +21224,26 @@
     {
       "t": "12 4 activision after apologizes but crowd crush footage game itaewon korea matter modern moves not november post real regulator remove says settled trim unimpressed warfare will",
       "ts": 1793987105.8857205
+    },
+    {
+      "t": "agreement announced blast championships company competitive daigon esports game has independent international leagues partners partnership platform production runs school schools sponsor that under video world",
+      "ts": 1793987111.308507
+    },
+    {
+      "t": "2026 broadcast commercial community compliance content cs2 establishing framework guidelines has independent its major non official operator pgl released sets singapore strict tournament",
+      "ts": 1793987114.778625
+    },
+    {
+      "t": "38 announced appointed appoints brandes company distribution efg esl esports faceit georg group has its linkedin media move new post president production rights saying through vice",
+      "ts": 1793987118.1550224
+    },
+    {
+      "t": "2 2026 24 about been change companies counter cs2 esports force gambling given have hours logos major names pgl prop rebrand reportedly rules singapore sponsored stickers strike teams their told",
+      "ts": 1793987121.5900311
+    },
+    {
+      "t": "14 16 25 36 62 7 ancient beat beijing betboom comeback finally first five furia goes holding iem meetings nuke off overtime reach round series six time went win zorte",
+      "ts": 1793987124.9518657
     }
   ]
 }
