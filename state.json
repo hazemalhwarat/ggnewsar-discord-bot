@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27288/adventure-game-hope-in-the-city-participates-in-steam-next-fest",
-    "https://www.invenglobal.com/articles/27287/grac-delivers-practical-lecture-for-70-game-institute-students",
-    "https://www.invenglobal.com/articles/27286/another-ragnarok-title-arrives-idle-rpg-ragnarok-go-begins-pre-registration-in-southeast-asia",
-    "https://www.invenglobal.com/articles/27285/line-games-releases-steam-demo-for-roguelike-survival-title-amazing-slot-survivor",
-    "https://www.invenglobal.com/articles/27284/crusader-kings-iii-releases-new-ps5-expansion-khans-of-the-steppe",
     "https://www.invenglobal.com/articles/27283/smilegate-stove-officially-launches-luv-place",
     "https://www.invenglobal.com/articles/27282/riot-games-to-hold-lol-music-worlds-pop-up-in-jamsil-and-seongsu-starting-oct-23",
     "https://www.invenglobal.com/articles/27281/come-to-my-party-releases-demo-20-on-steam",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28264/dragon-village-3-opens-pre-registration-for-rescene-collaboration",
     "https://www.invenglobal.com/articles/28265/ndream-recruits-participants-for-2nd-cbt-of-project-azalea",
     "https://www.invenglobal.com/articles/28263/viper-expects-t1-in-semifinals-draft-execution-will-decide-victory",
-    "https://www.invenglobal.com/articles/28262/8-divine-attack-bracelet-appears-exchange-market-price-overview"
+    "https://www.invenglobal.com/articles/28262/8-divine-attack-bracelet-appears-exchange-market-price-overview",
+    "https://www.invenglobal.com/articles/28261/pepper-games-secures-series-a-investment-from-stonebridge-ventures-and-horizon-investment",
+    "https://www.invenglobal.com/articles/28260/earth-defense-force-6-korean-version-launches-january-28-2027",
+    "https://www.invenglobal.com/articles/28259/nexon-recruits-participants-for-talesweaver-mobile-offline-fgt-on-december-12",
+    "https://www.invenglobal.com/articles/28258/tencent-says-nikke-hack-does-not-apply-to-other-games",
+    "https://www.invenglobal.com/articles/28257/dk-siwoo-the-eventful-2026-season-will-be-a-great-foundation"
   ],
   "title_hashes": [
-    "cd00d50d0eac02a1e188013d0c828fd2",
-    "ada1d54b88f4d50f0c75f01dac1e72ed",
-    "c0dfd4aad9c128faa240c2ac12dd094d",
-    "e863df53da5dd41c8ed0713af3346f39",
-    "9ba4788f96521b6a2950cc4a78a20149",
     "248e17e74de8ec3baebce51002957a8d",
     "799855594adc0f2bd7302c69d3234b5a",
     "bf28cc542dfaf933752cc88f2de6b80f",
@@ -16001,7 +15996,12 @@
     "dfdd3df403571b7b0b4c6c7d3cda11de",
     "0364762320e21edd8b6c9fa06720dfa8",
     "7f3d0d2f64161de5e611d03872ef270d",
-    "ac32bf0c82acfb00ec6e929f6faa703e"
+    "ac32bf0c82acfb00ec6e929f6faa703e",
+    "cf8efb9efbed9aaff170187393c7cb67",
+    "928fe6e509dc587ca89b9abe8cb1e419",
+    "69dda18181b9036321d493d3cf4be6f8",
+    "c14882280a89b388aa605fdf1fcfbe78",
+    "76fb33c8c3cb8953c0df017a22445177"
   ],
   "transfers": {
     "pages": {
@@ -21296,6 +21296,26 @@
     {
       "t": "4 8 appears attack bracelet divine enchant entry exchange expanded god hereinafter increased market monster november overview price scope sol stats tower wednesday",
       "ts": 1793961499.2590919
+    },
+    {
+      "t": "6th announced funding games has horizon investment investor lead parti pepper secured secures series served stonebridge that ventures",
+      "ts": 1793961504.1844099
+    },
+    {
+      "t": "2 2027 28 6 clouded day defense earth entertainment force january japanese korean launches leopard newly nintendo release releasing same supports switch version will",
+      "ts": 1793961507.6326184
+    },
+    {
+      "t": "12 6th announced day december fgt focus group mobile nexon offline one participants place recruiting recruits saturday take talesweaver test that will",
+      "ts": 1793961511.1238031
+    },
+    {
+      "t": "6 apply china confirming does games goddess hack impact incident issued its nikke not november official other portfolio regarding says security show signs statement tencent that victory",
+      "ts": 1793961514.7010334
+    },
+    {
+      "t": "2026 6 after allen blg center championship credit dplus eliminated event eventful foundation great kia kst lol losing november quarterfinals season siwoo texas union will world",
+      "ts": 1793961518.226986
     }
   ]
 }
