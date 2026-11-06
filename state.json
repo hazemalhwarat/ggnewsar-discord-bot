@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27265/reviews-are-mixed-but-concurrent-players-hit-400k-the-peculiar-success-of-aion-2",
-    "https://www.invenglobal.com/articles/27255/com2us-platform-hosts-b2b-game-industry-seminar-in-tokyo",
-    "https://www.invenglobal.com/articles/27254/warframe-launches-epoch-operation-taubound-community-event",
-    "https://www.vlr.gg/773446/xi-lai-gaming-allows-rarga-to-explore-options",
-    "https://traxion.gg/confirmed-rennsports-hypercar-expansion-pack-includes-four-new-cars/",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1OVHpqQXQ0Szh5SFRVM0ZLaWtNVC1OWk9lMWFnekdwekhfVzFHOUNuYWhCSXdqbG8yR2hvdUJ6Yk5Nc3RyTkxxaHozVE4?oc=5",
     "https://www.talkesport.com/mobile-gaming/bgmi/live-day-1-bmsd-2026-grand-finals-points-table-check-overall-standings/",
     "https://www.talkesport.com/mobile-gaming/bgmi/krafton-india-unveils-battlin-esports-app-with-inr-20-lakh-tournament-and-bgis-2027-slot/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/tarkov-pve-split-versus-pvp/",
     "https://insider-gaming.com/contexto-hints-answer-for-november-6-2026/",
     "https://insider-gaming.com/the-walking-dead-ip-offered-to-more-chinese-developers/",
-    "https://insider-gaming.com/mass-effect-merchandise-electronic-arts-tone-deaf/"
+    "https://insider-gaming.com/mass-effect-merchandise-electronic-arts-tone-deaf/",
+    "https://insider-gaming.com/saudi-silver-lake-pif-unity-acquisition-buyout/",
+    "https://esportsinsider.com/2026/11/the-mongolz-end-furias-winning-run-as-navi-send-falcons-out-of-iem-beijing",
+    "https://www.esports.net/news/gaming/blg-sweep-unbeaten-dplus-kia-to-reach-worlds-2026-semifinals-possible-t1-rematch-looms/",
+    "https://www.vlr.gg/785427/gen-g-announces-its-next-generation-with-dambi-mako",
+    "https://www.dexerto.com/league-of-legends/perkz-deletes-x-account-after-being-fired-by-g2-over-controversial-post-3425336/"
   ],
   "title_hashes": [
-    "701de3ca846de527161c87789952d6ff",
-    "48bc50c55a5e9ede40ad56ea5b184b56",
-    "6a5f9438cf207a78bb347d0c1c5abbcd",
-    "2696b1ff5fd8749c8a29bc97cb029fbe",
-    "e3a77f8e75a2ded310894c0b79e23faf",
     "ccaa1ee00535064549ebf3c0cb897d32",
     "7314f445e32be7bd51daad43a809b6a9",
     "9437d69902bf79425f36ec878faca29a",
@@ -16001,7 +15996,12 @@
     "4684fddbbda16cdcd899882ad721c2e5",
     "88c0167985f459e0e9a414527e876428",
     "fbd683c5952c332330e0c002e7443b68",
-    "4a931f2aaa4bb0644a596ab37ffcad61"
+    "4a931f2aaa4bb0644a596ab37ffcad61",
+    "66d1d69bfc18fa49e3ba8b541b10f43b",
+    "e2a3ab9151b1054ccf2bad5bf9f70cfe",
+    "922caeecb358a00a8bb0cdaee10e60c5",
+    "b678448c093a4c99f424eb358ff37374",
+    "6aae033a86678d553d8468214960670f"
   ],
   "transfers": {
     "pages": {
@@ -21336,6 +21336,26 @@
     {
       "t": "after arts brand cancelling cashing day effect electronic franchise has ill just killed mass media merch n7 post promotes social timed tried weeks",
       "ts": 1793961537.149542
+    },
+    {
+      "t": "55 acquire after arabian been billion bought buyout claimed has lake new now pif post report reportedly saudi silver that they unity want",
+      "ts": 1793961542.3315513
+    },
+    {
+      "t": "1 beat before beijing big contenders eliminated end falcons finals furia group iem main mongolz navi out picture reach reshape results run semi send spending stage while winning world",
+      "ts": 1793961545.8185968
+    },
+    {
+      "t": "2026 bilibili blg clean could cuts down dplus ended flawless gaming gen keeps kia lck looms perfect possible quarterfinal quarterfinals reach rematch run semifinals sweep t1 third unbeaten win worlds",
+      "ts": 1793961549.3135855
+    },
+    {
+      "t": "2027 adds announces aren but dambi done gen generation its just mako next part rebuild tigers two yet",
+      "ts": 1793961552.8717992
+    },
+    {
+      "t": "account after being controversial deleted deletes esports fired former g2 has his league legends luka over perković perkz post pro",
+      "ts": 1793961556.3711712
     }
   ]
 }
