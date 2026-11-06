@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://traxion.gg/assetto-corsa-evos-initial-free-roam-area-will-be-bigger-than-manhattan/",
-    "https://traxion.gg/assetto-corsa-evos-free-roam-arrives-9th-december-2026/",
-    "https://traxion.gg/gsi-takes-the-wraps-off-its-new-x-29-steering-wheel/",
-    "https://traxion.gg/fanatec-clubsport-formula-cockpit-set-to-go-on-sale-in-2027/",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4VzNFTGVoNDllX1prMWphVlBVZ3VvNmpIdy1yN2pxcWlrZGs4RklPUVFSeXdaTDlNV1I1b2s0cVdwOVlBTWFoTENfajktdlhGMUpWc0d5ZGRfWVNhR3dOM1VzUHZfX1FWaHFvdEF6MA?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc25BeGlZZnAyMXhXZkRyWWw0M0s0dlVQc1I3ZDJrREN4T0xKT3ZQOFZ2U2pWcF9YZExWUlZLeDdfc2Q3cDBkTjJUOXRSQVl5Yk1YaFpSMTdRcktpQTBXWUtyamRmZWpoaE9lTVFzeWJKTVp5TDIzdzdiUzB2aWE5b0VXZw?oc=5",
     "https://www.talkesport.com/news/100-thieves-vs-g2-valorant-champions-2026/",
     "https://www.talkesport.com/news/cs2/playn-lifetime-ban-esic-nomercy/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/new-gta-6-screenshots-insanely-detailed-cars/",
     "https://insider-gaming.com/nyt-connections-hints-solutions-november-7-1245/",
     "https://insider-gaming.com/call-of-duty-modern-warfare-4-dmz-mode-free-trial-on-all-platforms/",
-    "https://insider-gaming.com/wardogs-season-3-coming-next-week/"
+    "https://insider-gaming.com/wardogs-season-3-coming-next-week/",
+    "https://insider-gaming.com/team-heretics-closes-lec-academy-lol-team/",
+    "https://insider-gaming.com/socialdb-listed-creators-without-permission/",
+    "https://insider-gaming.com/dark-outlaw-games-doom-inspired-game/",
+    "https://www.hltv.org/news/45928/magnojez-another-cinema-game-versus-furia-no-one-beats-betboom-six-times",
+    "https://www.hltv.org/news/45930/media-history-to-play-for-9z-at-singapore-major"
   ],
   "title_hashes": [
-    "e6cb9191ef4223704440bd6dc9cc5f7a",
-    "7f02e799e4bf6557d1adb9763bce76aa",
-    "01fdf530dc687d436ce36ee6f30cdd83",
-    "6ef4f7d8ad706bd2d2dbf52e1ff7fcf9",
-    "2deaaad03540c5d3fc2b06faa20e16c4",
     "b1cf6fac03965130eb49bedc0fbb9c8e",
     "31d1b8f0dcdf9a64fce44479093cf736",
     "7765b9f11ab0fd99fbb95cafc9c86df0",
@@ -16001,7 +15996,12 @@
     "643bf0c9c30ff042cba347cd24f70610",
     "0597d4e3c165f61a5e2afbcb667b0794",
     "07c8aca0839abda7e3b0528e9dc809d9",
-    "98e72090fb6a0c1ba3a15b987d1b6a28"
+    "98e72090fb6a0c1ba3a15b987d1b6a28",
+    "17012c600c768cf393d1e1ee73de70de",
+    "22ccd1d7a638874c8e7d5002e4ac2ad4",
+    "b52101141a947e7d414f719fb21a2b57",
+    "918660c5b929bb2cf19c2d1abb13ef27",
+    "f22278afbe9385c523a980a0ad1b9857"
   ],
   "transfers": {
     "pages": {
@@ -21188,6 +21188,26 @@
     {
       "t": "3 arrives bringing bulkhead fresh game has lands map mul multi new next play post revealed season studios that track unlocks update wardogs ways week",
       "ts": 1794003916.6712146
+    },
+    {
+      "t": "2027 academy ahead announced appeared close closing first has heretics its latest lec les lol los post season team",
+      "ts": 1794003921.7138069
+    },
+    {
+      "t": "assigned backlash creators influencers inven invented knowledge listed offered payment permission post prompting rates socialdb sponsorship their tools without",
+      "ts": 1794003925.3556163
+    },
+    {
+      "t": "8 canceled content creator dark details doom fantastic game games glitching have inspired investigation online outlaw post queen some surfaced thanks",
+      "ts": 1794003928.986968
+    },
+    {
+      "t": "after against another beats betboom cinema finally finish furia game got happy line losses magnojez one over repeated six times versus",
+      "ts": 1794003933.5778089
+    },
+    {
+      "t": "9z american awper different field history major media play singapore south team will",
+      "ts": 1794003937.0464897
     }
   ]
 }
