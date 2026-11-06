@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1OVHpqQXQ0Szh5SFRVM0ZLaWtNVC1OWk9lMWFnekdwekhfVzFHOUNuYWhCSXdqbG8yR2hvdUJ6Yk5Nc3RyTkxxaHozVE4?oc=5",
-    "https://www.talkesport.com/mobile-gaming/bgmi/live-day-1-bmsd-2026-grand-finals-points-table-check-overall-standings/",
-    "https://www.talkesport.com/mobile-gaming/bgmi/krafton-india-unveils-battlin-esports-app-with-inr-20-lakh-tournament-and-bgis-2027-slot/",
-    "https://www.talkesport.com/mobile-gaming/bgmi/bmsd-2026-grand-finals-day-1-timings-teams-maps-format-streaming-and-more/",
-    "https://www.talkesport.com/interviews/ninjajod-interview-revenant-xspark-bmsd-2026/",
     "https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2VfYmpqUWU4TXl1bXNiYnpCei16WDZIcjM5NGxBaUdwQXE3M0VIcTREeWZHdEM1SlZkNUV4YWh1TlZtYVUtWjU3Y29BNGN0cWxZVUJic1BLaEkyb3FSejNDSWY0dVdMdGJkUF9oak5JTWY5ZUtaVkRRVkFreXI4MVM2VXY2bVl6TVdZ?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ReERHSDFxdWcxdk10MDR0NGZISkZpU3MySk5GOFBMc1RSbnpIRlBxWkZaV2R0ZXJiTEJ1NEhVUzZRX2VUbFpIYm8tVmdOSjBjZXc?oc=5",
@@ -7999,14 +7994,14 @@
     "https://esportsinsider.com/2026/11/the-mongolz-end-furias-winning-run-as-navi-send-falcons-out-of-iem-beijing",
     "https://www.esports.net/news/gaming/blg-sweep-unbeaten-dplus-kia-to-reach-worlds-2026-semifinals-possible-t1-rematch-looms/",
     "https://www.vlr.gg/785427/gen-g-announces-its-next-generation-with-dambi-mako",
-    "https://www.dexerto.com/league-of-legends/perkz-deletes-x-account-after-being-fired-by-g2-over-controversial-post-3425336/"
+    "https://www.dexerto.com/league-of-legends/perkz-deletes-x-account-after-being-fired-by-g2-over-controversial-post-3425336/",
+    "https://www.hltv.org/news/45923/navi-reverse-sweep-parivision-to-make-the-semi-finals-in-beijing",
+    "https://www.hltv.org/news/45922/the-best-highlights-from-iem-beijing-playoffs",
+    "https://gameriv.com/ps5-sales-reach-97-9-million-as-sony-closes-in-on-100-million-consoles/",
+    "https://www.hotspawn.com/valorant/news/gen-g-mako-dambi",
+    "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector"
   ],
   "title_hashes": [
-    "ccaa1ee00535064549ebf3c0cb897d32",
-    "7314f445e32be7bd51daad43a809b6a9",
-    "9437d69902bf79425f36ec878faca29a",
-    "aa175fb033624dd4c72d1713026362a9",
-    "855250215b41ad201093e2db13de5d91",
     "14a399e953cd8ac8152854a2bc8a9871",
     "f2ab5fb218da8b84623f45579aa4ba11",
     "f2ab5fb218da8b84623f45579aa4ba11",
@@ -16001,7 +15996,12 @@
     "e2a3ab9151b1054ccf2bad5bf9f70cfe",
     "922caeecb358a00a8bb0cdaee10e60c5",
     "b678448c093a4c99f424eb358ff37374",
-    "6aae033a86678d553d8468214960670f"
+    "6aae033a86678d553d8468214960670f",
+    "7040bdbd78687e88e93fdd4e4cb60e06",
+    "8ce6e8d85518a73ea2215c19c4595617",
+    "47e86c1d1d6c771fb9ee473543a89eab",
+    "b8ad7c274a121220003889311969346f",
+    "d5672299eed590cafeaba4cafa58141d"
   ],
   "transfers": {
     "pages": {
@@ -21356,6 +21356,26 @@
     {
       "t": "account after being controversial deleted deletes esports fired former g2 has his league legends luka over perković perkz post pro",
       "ts": 1793961556.3711712
+    },
+    {
+      "t": "beijing finals heights late make navi new parivision reaches resurgence reverse season semi sweep",
+      "ts": 1793961561.4445333
+    },
+    {
+      "t": "beijing best date highlights iem moments playoffs stay",
+      "ts": 1793961564.9322507
+    },
+    {
+      "t": "100 2026 30 5 8217 9 97 another approaching closes come consoles figures fy2026 latest massive milestone million playstation ps5 q2 reach reaching sales september shipments sony units worldwide",
+      "ts": 1793961568.3524144
+    },
+    {
+      "t": "2027 announced announces champions dambi duo existing fifth gen has its join karon korean mako members new organisation revealed roster signings t3xture tour valorant vct will yet",
+      "ts": 1793961571.9081793
+    },
+    {
+      "t": "126 delivered driven ever has its network powered q3 quarter reports results strongest third unity vector year",
+      "ts": 1793961575.3398092
     }
   ]
 }
