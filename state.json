@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27268/outerplane-reaches-no-1-on-japans-google-play-popularity-chart",
-    "https://www.invenglobal.com/articles/27267/nexon-launches-n-connect-season-1-with-soop-on-the-15th-opens-integrated-page",
-    "https://www.invenglobal.com/articles/27266/ragnarok-x-next-generation-opens-new-apac-client-server-kwave",
-    "https://www.invenglobal.com/articles/27265/steam-rating-is-mixed-yet-concurrent-players-reach-400000-the-strange-success-of-aion-2",
-    "https://www.invenglobal.com/articles/27263/mafia-iii-marks-10th-anniversary-with-current-gen-console-release-and-steam-update",
-    "https://www.invenglobal.com/articles/27264/maplestory-m-adds-ascent-skill-in-10th-anniversary-update",
     "https://www.invenglobal.com/articles/27262/steam-overhauls-achievement-system-managing-season-and-dlc-achievements-separately",
     "https://www.invenglobal.com/articles/27261/from-shipping-containers-to-glass-walled-homes-nakwon-details-its-shelter-system",
     "https://www.invenglobal.com/articles/27260/sword-x-staff-confirmed-for-official-launch-on-november-4",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/28244/new-rohan-online-project-to-host-player-meetings",
     "https://www.invenglobal.com/articles/28243/netmarble-unveils-guardian-tales-dig-dot-for-the-first-time",
     "https://www.invenglobal.com/articles/28242/blue-archive-nivel-arena-launches-three-starter-decks",
-    "https://www.invenglobal.com/articles/28241/nhn-cloud-hosts-first-partner-seminar-in-japan"
+    "https://www.invenglobal.com/articles/28241/nhn-cloud-hosts-first-partner-seminar-in-japan",
+    "https://www.invenglobal.com/articles/28240/ea-releases-25-classic-games-including-road-rash",
+    "https://www.invenglobal.com/articles/28239/joycity-releases-1st-anniversary-update-for-resident-evil-survival-unit",
+    "https://www.invenglobal.com/articles/28238/kabam-unveils-new-idle-rpg-wb-all-star-mayhem",
+    "https://www.invenglobal.com/articles/28236/silver-lake-and-saudi-pif-hold-talks-to-buy-unity-at-about-25bn",
+    "https://www.invenglobal.com/articles/28237/dplus-kia-eliminated-in-quarterfinals-after-falling-to-blg",
+    "https://www.invenglobal.com/articles/28235/blg-wins-game-2-behind-vi-on-duo-dk-on-the-brink-at-0-2"
   ],
   "title_hashes": [
-    "ef075e66d9bf0973cffdbee1eb1ba784",
-    "9d94e5d38ea457ee2b5330598a9d3dde",
-    "6db7c00d4c0e87d18b83b7c4f3583824",
-    "b988aa0bf32a8630deea5fb05c48f11f",
-    "e4a90f94bfd6f18c74fa94c28bac3f63",
-    "a9a28e840047dd054e1f35dc5b17990f",
     "a10efc56ca0628a5fcb2a93cdbc9bd7a",
     "62aad798e068e4447f2f2edc15c6d93b",
     "9f1897ba3f3c24bb179e37adcc1ff134",
@@ -16001,7 +15995,13 @@
     "cd3271e796ec689d2edc04fbabcf374e",
     "b7b0c5b0b7a196525e94bbe8d6c90eea",
     "7f8e47c345557c389c7b8289fdffbd59",
-    "bf380609b2d8119e01f285c617a72f8a"
+    "bf380609b2d8119e01f285c617a72f8a",
+    "693df4f0f974d862f50a7d895da194a4",
+    "3c39a8083eb95f0a1a26f2c5c88edbe5",
+    "032777bc97c1859f1b3f6f7137906cd4",
+    "4c4d8a6c8b5ca5c5e62aa2354869769e",
+    "c299f719a03ee0e412de392e07602306",
+    "805aa8c6ceeb6ed0a8170d3226b68df7"
   ],
   "transfers": {
     "pages": {
@@ -21336,6 +21336,26 @@
     {
       "t": "5 6 announced cloud collaboration companies event expand first held hosted hosts its japan japanese local nhn november partner seminar subsidiary that",
       "ts": 1793934150.964427
+    },
+    {
+      "t": "18 25 anniversary arts classic commander debuting editions electronic games has including into launched lineup rash releases road series seven split ste steam wing",
+      "ts": 1793934156.1469808
+    },
+    {
+      "t": "6 all american announced collectible currently development has idle its kabam mayhem netmarble new north november rpg star subsidiary that under unveiled unveils",
+      "ts": 1793934159.6340847
+    },
+    {
+      "t": "25bn about according acquired arabia buy consortium equity exclusive firm fund has held hold includes investment lake partners pif private public reuters saudi silver software talks that unity",
+      "ts": 1793934163.283869
+    },
+    {
+      "t": "0 3 after although blg defeat dplus early eliminated expected falling far fatal first going kia proved quarterfinals reached stage stronger swiss than their undefeated",
+      "ts": 1793934166.7507238
+    },
+    {
+      "t": "0 1 2 behind blg brink defeat dplus dropped duo elimination following game good got kia off pushing start their them well wins",
+      "ts": 1793934170.293326
     }
   ]
 }
