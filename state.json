@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27294/what-are-the-popular-builds-in-last-epoch-season-5-7-top-featured-builds",
-    "https://www.invenglobal.com/articles/27293/skywalk-prepares-to-relaunch-welcome-to-my-home",
-    "https://www.invenglobal.com/articles/27292/pubg-mobile-to-hold-pro-esports-finals-in-daejeon-on-oct-1718",
-    "https://www.invenglobal.com/articles/27291/gunfire-reborn-unveils-new-dlc-lunar-melody-on-the-16th",
-    "https://www.invenglobal.com/articles/27290/hunting-ground-density-readjusted-heroic-equipment-pieces-added-as-autumn-check-in-rewards",
-    "https://www.invenglobal.com/articles/27289/pok%C3%A9mon-30th-anniversary-orchestra-sells-out-in-about-4-minutes",
     "https://www.invenglobal.com/articles/27288/adventure-game-hope-in-the-city-participates-in-steam-next-fest",
     "https://www.invenglobal.com/articles/27287/grac-delivers-practical-lecture-for-70-game-institute-students",
     "https://www.invenglobal.com/articles/27286/another-ragnarok-title-arrives-idle-rpg-ragnarok-go-begins-pre-registration-in-southeast-asia",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/28271/raven-2-opens-pre-registration-for-new-mach-server-starting-nov-6",
     "https://www.invenglobal.com/articles/28270/senior-deputy-floor-leader-kim-seung-soo-expresses-great-interest-at-people-power-party-level-in-game-legislative-tasks",
     "https://www.invenglobal.com/articles/28269/gta6-file-size-212gb-well-boost-your-internet-speed-for-free-so-you-can-download-faster",
-    "https://www.invenglobal.com/articles/28268/after-ea-deal-silver-lake-and-saudi-arabias-pif-target-unity-next"
+    "https://www.invenglobal.com/articles/28268/after-ea-deal-silver-lake-and-saudi-arabias-pif-target-unity-next",
+    "https://www.invenglobal.com/articles/28267/from-a-75-inch-statue-to-a-travel-journal-wow-forever-collectors-edition",
+    "https://www.invenglobal.com/articles/28266/from-local-agents-to-dlss-5-gaming-the-potential-of-nvidias-rtx-spark",
+    "https://www.invenglobal.com/articles/28264/dragon-village-3-opens-pre-registration-for-rescene-collaboration",
+    "https://www.invenglobal.com/articles/28265/ndream-recruits-participants-for-2nd-cbt-of-project-azalea",
+    "https://www.invenglobal.com/articles/28263/viper-expects-t1-in-semifinals-draft-execution-will-decide-victory",
+    "https://www.invenglobal.com/articles/28262/8-divine-attack-bracelet-appears-exchange-market-price-overview"
   ],
   "title_hashes": [
-    "bcb526b8634f8634914d3148e5bd24ec",
-    "d769c33308f70c47f500a0b13289cf73",
-    "d05b471e5a0c0b4864f1c2c824d47c27",
-    "d144abff760f73a7e1e888b9a0c4cbd2",
-    "db795a8f00297b9b46609908b787a73b",
-    "9f0d49813ff06eabf13502462603aec2",
     "cd00d50d0eac02a1e188013d0c828fd2",
     "ada1d54b88f4d50f0c75f01dac1e72ed",
     "c0dfd4aad9c128faa240c2ac12dd094d",
@@ -16001,7 +15995,13 @@
     "80dc93cddfcce069f52e1d3f1fb48f28",
     "5a0ef0aebd5d731a01b795b08d81c2a0",
     "1dd908691e2f5992939c3ffb9038b8a8",
-    "7d02550c44021a61c757d29feadf0ac8"
+    "7d02550c44021a61c757d29feadf0ac8",
+    "42d8505557ee6307c95b21741cbe7bd5",
+    "ce29d3ecd41999792e4d7b89632af746",
+    "dfdd3df403571b7b0b4c6c7d3cda11de",
+    "0364762320e21edd8b6c9fa06720dfa8",
+    "7f3d0d2f64161de5e611d03872ef270d",
+    "ac32bf0c82acfb00ec6e929f6faa703e"
   ],
   "transfers": {
     "pages": {
@@ -21276,6 +21276,26 @@
     {
       "t": "acquisition after arabia consortium deal emerged engine equity firm fund game has have held investor involving lake next partners pif private provider reports saudi silver sovereign talks target that unity wealth",
       "ts": 1793961480.2975838
+    },
+    {
+      "t": "5 7 collector edition finally forever hereafter inch journal launched november statue travel warcraft world wow",
+      "ts": 1793961485.2596865
+    },
+    {
+      "t": "5 agents cases core dlss gaming generation has introduced its local next nvidia platform potential premium rtx running spark tailored technologies use",
+      "ts": 1793961488.708413
+    },
+    {
+      "t": "3 6 announced begun celebrate collaboration dragon girl group half has highbrow november opens pop pre registration rescene special that village",
+      "ts": 1793961492.2352788
+    },
+    {
+      "t": "0 2026 3 6 advancing allen blg center championship credit decide dplus draft event execution expects kia kst lol nov quarterfinals semifinals swept t1 texas union victory viper will world",
+      "ts": 1793961495.7336817
+    },
+    {
+      "t": "4 8 appears attack bracelet divine enchant entry exchange expanded god hereinafter increased market monster november overview price scope sol stats tower wednesday",
+      "ts": 1793961499.2590919
     }
   ]
 }
