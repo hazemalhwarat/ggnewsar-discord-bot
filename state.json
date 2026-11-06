@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45731/opening-matchups-set-for-pgl-masters-bucharest",
-    "https://esports-news.co.uk/2026/10/16/team-resilience-extend-winning-run-to-five-with-2-0-over-zenith-in-blast-slam-qualifier/",
-    "https://esportsinsider.com/2026/10/fifae-finals-postponed",
-    "https://insider-gaming.com/tutorial-wardogs/",
-    "https://insider-gaming.com/first-angelfall-trailer-delivers-devilishly-demonic-gameplay/",
     "https://insider-gaming.com/squad-ps5-console-alpha/",
     "https://insider-gaming.com/planet-zoo-2-shows-education-can-be-just-as-important-as-entertainment/",
     "https://insider-gaming.com/real-life-gta-6-cars-spotted-in-miami/",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/business/leicester-city-bc-game-eva-elfie-foxes-trust/",
     "https://www.talkesport.com/news/lol/g2-esports-2027-roster-skewmond-buyout-naak-nako/",
     "https://www.talkesport.com/tech/discord-rust-client-phoenix-electron-ram/",
-    "https://www.talkesport.com/business/nvidia-stock-crash-chip-selloff-november-2026/"
+    "https://www.talkesport.com/business/nvidia-stock-crash-chip-selloff-november-2026/",
+    "https://www.talkesport.com/gta-6/gta-6-pilot-sky-tribute-arkansas/",
+    "https://www.talkesport.com/news/gaming/xbox-pc-app-60-percent-faster-update/",
+    "https://pley.gg/valorant/zmjjkk-to-leave-edg-for-xi-lai-gaming-ahead-of-2027/",
+    "https://pley.gg/valorant/alfajer-ends-four-year-fnatic-run-leaving-only-kaajak-and-cloud/",
+    "https://pley.gg/cs2/mirage-and-dust-ii-lose-ground-in-premier-after-the-veto-change/"
   ],
   "title_hashes": [
-    "37a07540c24cd46919ef60a11b8ccc9d",
-    "4750372ceaeb9176368132a12e574a22",
-    "478aad242dc3de0e8ac1e06684cde4b8",
-    "4b49777833c353d6b0e1d845382b3ae5",
-    "5afa29600ee7041f8efbd780383a8c43",
     "386adf88d1443ec05afdb1d0fc96dd5b",
     "2f955eeb61ebddddc117b897449bbbe6",
     "6718078e5a206e683fa09b8df84f2ede",
@@ -16001,7 +15996,12 @@
     "2b87d5dd63402d0792ae9dbade46b969",
     "210cd22112e1db504c4e5eefbfd8aa57",
     "98544bedc9efc33376d15a52fc9bbcd1",
-    "ab4d01d503cb4942678c78e5a018c205"
+    "ab4d01d503cb4942678c78e5a018c205",
+    "4940e96e486b92b5d174f586856e7e1c",
+    "2f0b689d3c6a1a1c98d3154b40ba985e",
+    "2eaade8c7e24ded5a4390b308f99fdee",
+    "cd8d1385bede18bcb462bf35471a66da",
+    "ad71c5a73d8c3bba8fd4dc6219bc9aee"
   ],
   "transfers": {
     "pages": {
@@ -21436,6 +21436,26 @@
     {
       "t": "100 17 2 2025 26 3 450 5 9 about amd april billion chi chip day fell had its micron nasdaq november nvidia out over post rout sank sheds since trillion wipes wiping worst",
       "ts": 1793961633.5511875
+    },
+    {
+      "t": "6 arkansas art benjamin cessna cover draw drawing eight flew flight gta hours map mcdaniel over picasso pilot post sky spends tracking",
+      "ts": 1793961638.4912317
+    },
+    {
+      "t": "50 60 app else faster here insider launches loads microsoft new now pages post rebuilt store update what xbox",
+      "ts": 1793961641.9904642
+    },
+    {
+      "t": "2027 ahead edg gaming lai leave zmjjkk",
+      "ts": 1793961645.401935
+    },
+    {
+      "t": "16 2027 alfajer arrived cloud down ends exit fnatic four his international kaajak leaving left only players rebuild run star takes trophies turkish two year",
+      "ts": 1793961648.8565848
+    },
+    {
+      "t": "12 40 7 after anubis bans cache change data doubling down dust games ground leetify lose matches million mirage picks premier shows switched valve veto",
+      "ts": 1793961652.3539734
     }
   ]
 }
