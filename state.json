@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZDVZS1V3cTV6WW1sZi00MjJSbW5PQW9oODlieGJEazFDbUxkVGhkUTBXaXdwTGxXY1I2eTh6a0RiZm9CNEN2NHk2M1RJMVlPVFBzYTlZQzd2Y0ZHQ1FGVVdscmxmbHZhVHF1eTFCNExaVm1zMmJlTWIzYm5SUWpEaXpXWEtpTGdhR3cyb2RrNG9lcm1FVVNsR2VKMDAwUVJpeU1XUjJWbG5nOWtCQnZuMDQ3TmhqaW5yNlR0eFM5MnpadDRXbERpOGdhcmotdXlzUnNPQThMRTVJeUZFOEwyM2sxTDFTV2Fk?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTBNNkJMMmxjZmFtbmg5TlVuc1dIbTRLVlczX3dOVmtwb3VLbEJLQUp4VE9ySVRzazE3NkZFWHFWMmlmZkVYX3pCc2xnT2E0Sy0yVFR5dDZ0UzFNaU01WnJmaWtPWm9SWVVNNWY1dnBXNVRCQzhjWXJWUVhldlRJM2UzMFBlNG9lZ01nVU05WUVxemR2SWdrdmdLaGJGbWxBNzFtRUZnX3V1SC1LQ24ybFhn?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56cU9XOGh5MTFKQnlWejctbkxWOC1GS0FLQU1ueEhpb2VWZ2pGemE3cEh6M0NwODRjVnRXcTY3S2VJWTZSQUc3UGJvdFB2Z25hN21pQ1hBR19PSkdqT0FfSGVzcw?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNV9JMG52dmJSSEZBVzlLcHBUNjk2bDNJa2l3U1RxdTg2ZGZ2NDdFTWxyaUh2VnhmT3FUNk9VODFVRGdTZENiS3pPeDE1QzdDT2JUUkp1STdMV2RCM0pvY3ZpbmtneGlBQklvN2VDQTlrRE5vVW9NREd3Rl94RGdzd2dHU0Q0N05EdHowYm5SZ0tXWDFWOHp1MQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPalNBajhiSndWdTZLaHlfM2ozQVctRHdmZG9OMnN6YjZqUlppTXBVUkNtQUo1Z1RTbUhycENobGlRaVo0R2xjQ1J5VVdqV1NCRkk5Yk9qcHR6bHZkX2NZZEUwenE3RmRjQUxYeTRLc0psa3JUZVNranFUVnctTmtaWDBpMkFiZjZWV0dyUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxPTjdqb3FNQTUyYU9rOWlLaEpObHNMNkJwNk5JWkhiVDd1ZWdtNGJRcFdRRnpQWlE4UkVRMkctN1JvTVZGbEpjOFhqWGRhZmpVWHhqd1ZWbDNSRVdoSy1vVUpxMlVmREhtTXl3QmNRRmVhdmp1QkstMDNyVkdKdlpxVGFFN09URTFXaHRkaUlDRklEMC0yeDNuZnJYa3o5Zw?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFJGMGw1VEJNeE9OYnFDN1RFUjJFS2F4YnBhX0tNZWFKdmVkcExRYmJ4cEZBS0ZXMGdBVjVPOG5vQl9ORFAtcmxUYTNEcG8yTUxYbEI2S29KZmhyQWZXajA0UElrcEZOdlNFR3o4V05OY2VPd1FxQThTcExwRXFCamhERVZjS3FGb21TMmJB?oc=5",
     "https://news.google.com/rss/articles/CBMiMEFVX3lxTE1Xci1wUW1TeEhLZW5sMWVRZHZiQklYdldJVVdYMW5GcmF2a0N3S19DMQ?oc=5",
     "https://www.invenglobal.com/articles/27298/epic-games-store-claimed-to-be-faster-than-steam-left-red-faced-as-valve-boosted-speed-a-day-early",
@@ -7999,15 +7993,15 @@
     "https://www.hotspawn.com/league-of-legends/news/kc-vs-t1-worlds-2026",
     "https://www.hotspawn.com/dota2/news/navi-become-three-time-epl-masters-champions-after-taking-down-a-hot-gamerlegion",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41Z3BtZ0RDcUdJVXhfeEFnM2xjSmlGYk1uUEJ2elV0Ry1WcENJYVFvejlEdURtWlpqUlVRUlFzSE5kMjN0R1Ywc3AxRXRBNGlHSzF1RGNYYTUwX1U?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ScEFSa2s5VGRLcXNtVi0wZHRMOFB1clpkeWNObzZKT1Y4SGswOGg3NWVFUVhYZF9HemRLR0JROVphWlpRMklDTXV1SmJaWmNfc2NKNC1pZHJRdnlJazN3VlYwY19KNWdO?oc=5"
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ScEFSa2s5VGRLcXNtVi0wZHRMOFB1clpkeWNObzZKT1Y4SGswOGg3NWVFUVhYZF9HemRLR0JROVphWlpRMklDTXV1SmJaWmNfc2NKNC1pZHJRdnlJazN3VlYwY19KNWdO?oc=5",
+    "https://www.invenglobal.com/articles/28279/nexon-unveils-talesweaver-roadmap-through-h1-2027",
+    "https://www.invenglobal.com/articles/28278/webzen-posts-q3-operating-profit-of-53-billion-won-preparing-self-help-measures-for-mid-to-long-term-growth",
+    "https://www.invenglobal.com/articles/28277/dokkaebis-world-says-wont-block-rmt-grac-warns-of-action-if-rating-deemed-inappropriate",
+    "https://www.invenglobal.com/articles/28276/the-goddess-squad-in-their-prime-highlights-from-the-nikke-musinsa-pop-up-store",
+    "https://www.invenglobal.com/articles/28275/krafton-establishes-brazilian-holding-company-krafton-brasil-holdings",
+    "https://www.invenglobal.com/articles/28274/considering-class-change-player-impressions-of-tower-of-god-shared"
   ],
   "title_hashes": [
-    "762bfa0f2cacdb4712cfce9e5d9d9327",
-    "07c53c063c9e3221feddb8bf2857d128",
-    "77611eeb21621ae01e5f6ef3cd118d38",
-    "6546cb03df53d7d3d05e757fa59be8ae",
-    "39afe75e7e5949688a24cb71af86764f",
-    "eef9171c7c5efdaf1a4a9dc70a140e77",
     "13dcd9802eb398635a4e423d085ae2e3",
     "d38dd98b8eb6136b9afa58de625f55d5",
     "b208e450004765ec1862467a29dbec3c",
@@ -16001,7 +15995,13 @@
     "aab53796d15690deffc5def262f68896",
     "4882bc8accd84cd39a100ea313c934f8",
     "570a1ca28859bf690bc9b2bea96326bf",
-    "214f83101dd5cfa976ea68a29029321c"
+    "214f83101dd5cfa976ea68a29029321c",
+    "36f5cc9ed53b2eb1688a8977d80bf555",
+    "39c7b01f818065ca6e4f630e8dfb8a02",
+    "f06c10a9ab696301e5f4f94dba178a4a",
+    "2ffea8b9e342f0370f903ff9cebfc3c1",
+    "cbf88183b647214b0bba1a1b16711770",
+    "d0d86a9cb6fd199e0531b40966d1dd23"
   ],
   "transfers": {
     "pages": {
@@ -20710,162 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "1 5 adventure always awaited before day deliberation doors embarking finally forever glades hereafter its like long looks more new november opened players than thursday tirisfal warcraft what world wow zombies",
-      "ts": 1793871891.8554027
-    },
-    {
-      "t": "2 5 9 99 according across brand costs cygames cygamesedge debut fall first game has its lands launched new nintendo platforms playstation ps5 release seeds stea steam switch under where",
-      "ts": 1793871895.3702693
-    },
-    {
-      "t": "2 4 5 9 97 copies cumulative end marvel million playstation ps5 reach reached sells september shipments sony units wolverine",
-      "ts": 1793871898.9175334
-    },
-    {
-      "t": "00attendees 13 16 2026 2027 5 byung ceo cfo date financial future gyu kim launch netmarble new november q3 results strategy thu time titles wooksubject",
-      "ts": 1793871902.4986594
-    },
-    {
-      "t": "2 2026 26 35 37 4 april console cumulative down end generation hardware hereinafter million next nintendo over reached sales september sold surpasses switch units worldwide",
-      "ts": 1793871906.3654916
-    },
-    {
-      "t": "1st anniversary arrival companions events granted idle jobs legendary maplestory new packed perfect players plus relics return rpg start summon tickets time tons",
-      "ts": 1793871911.7494283
-    },
-    {
-      "t": "birth compositions compositionsjudas considering content decks defense elite exploring fray grade identical join judas knights last lee magic moves offense remain requires season seven strength team that total war",
-      "ts": 1793871915.349788
-    },
-    {
-      "t": "2026 4 4b 5 50 634 7 7b announced billion consolidated focusing krw netmarble new november operating posts profit q3 quality quarter recorded revenue that third titles won",
-      "ts": 1793871918.883411
-    },
-    {
-      "t": "18 2027 announced arc asia baby damon edition february korean launches ltd nintendo oracle physical pla platforms released rise switch system target that will works",
-      "ts": 1793871922.3520477
-    },
-    {
-      "t": "00 04 1 11 13 30 4 armor available collections crafting equipment first focus info items knight limited lineage november selec special wed week weekend",
-      "ts": 1793871925.795782
-    },
-    {
-      "t": "25 5 allowing announced challenge contest developmen development entries finalist global hosts maplestory mission nexon november play players run that through will",
-      "ts": 1793871930.854765
-    },
-    {
-      "t": "5 anime announced can characters collaboration five has into jujutsu kaisen mabinogi mobile nexon november players released releases that this transform update",
-      "ts": 1793871934.3579645
-    },
-    {
-      "t": "24 4 announced arc asia dec december editions holy korean launch launches limited ltd night nintendo novel platforms playstation standard supported switch system that version visual will witch works",
-      "ts": 1793871937.7547736
-    },
-    {
-      "t": "5th 7 added adds alongside announced brain casual corp crush day game games growth guide has hodoo its kakao line mini new oneuldoo ranking revamp revamps system that training",
-      "ts": 1793871941.2927926
-    },
-    {
-      "t": "5 brand cygames cygamesedge debut fall game its new november officially released releases seeds title where",
-      "ts": 1793871944.750102
-    },
-    {
-      "t": "5 assembly association booth budget committee considers credits democratic expo game games hoe industry kim korea legislative national november party production questioning rep representative sung tax visited visits",
-      "ts": 1793871949.7622516
-    },
-    {
-      "t": "16 16s chat communication game games government has its maintain matchmaking moves online parliament policy reaffirmed restrict restricting strangers under users while",
-      "ts": 1793871953.2342
-    },
-    {
-      "t": "1 2 656 757 899 ago all doubling few games high increase jumping just launches logging more new over previous record releases roughly set single steam surpass than this time week weekly weeks",
-      "ts": 1793871956.722424
-    },
-    {
-      "t": "5 appearance assembly association credits expo first five game games inc industry initiatives introduction its key korea legislative made makes national november presenting production tax urges",
-      "ts": 1793871960.159554
-    },
-    {
-      "t": "127918 android astrae clan dagashi developer dynamis game info ios magicalgirl new newly one oni onigoya oratio platform popular revealed run shindenki shop subculture tags title urbanlegend",
-      "ts": 1793871963.7445643
-    },
-    {
-      "t": "8217 anima appeared beta can coming end event final honkai nexus november now post pre register starting test users",
-      "ts": 1793871968.9286447
-    },
-    {
-      "t": "6 all breakdown every far feature gargantuan gta guide location locations looking major map post promises revealed this",
-      "ts": 1793871972.4270933
-    },
-    {
-      "t": "6 8217 about addresses again app ceo conversation development down gta interview other post recent sat some stuff take talk turned two using",
-      "ts": 1793871975.865428
-    },
-    {
-      "t": "82 awkward bizarre ceo company enough faced faces firm had hasn hits interactive interview lack over post question strauss suggested take two which zelnick",
-      "ts": 1793871979.2912095
-    },
-    {
-      "t": "0 2026 3 allen america beat end final first gaming gen invictus last lck lyon north now one removing revived run seed semi series set sweep team texas top way worlds",
-      "ts": 1793871982.829615
-    },
-    {
-      "t": "2026 continue final games gaming gen invictus lck lyon needed only playoffs quarter reading rematch set settle side sweep third three worlds",
-      "ts": 1793871987.9492548
-    },
-    {
-      "t": "0 2026 3 america champions chase end face final first gaming gen invictus knocking last lck lyon north now out quarterfinal run second semifinal set sweep swept team their they worlds",
-      "ts": 1793871991.3938677
-    },
-    {
-      "t": "2026 all among battle bilibili blg dplus first gaming hand have kia lck lpl matches meet most one preview quarterfinal quarterfinals series sho should taste unpredictable who will worlds you",
-      "ts": 1793871994.9641204
-    },
-    {
-      "t": "0 2026 3 business clean eliminating end exciting gen last lck lyon puts quarterfinals race regular run supposed sweep swept team title trace wednesday what worlds",
-      "ts": 1793871998.3385634
-    },
-    {
-      "t": "46 after agencies also app arrest arrested authorities been betting breakthrough chandrakar dubai enforcement extradited follows has india indian infamous law likely mahadev major old promoter ravi uae uppal year",
-      "ts": 1793872001.7287426
-    },
-    {
-      "t": "8230 adds appeared bonus can combo extend extra extras first fortunes games gem global inferno launches layer post power release round second that tokens",
-      "ts": 1793872006.7642016
-    },
-    {
-      "t": "15 17 8217 8230 adds africa aggregator appeared asia biggest brings far galaxsys game intake operators other post providers quarter record studios veligames yggdrasil",
-      "ts": 1793872010.2626824
-    },
-    {
-      "t": "2026 2029 500m 8217 8230 appear brazil but chief cuts dan executive first flutter group growing guidance more post sales savings shows squeezed still targets taylor update",
-      "ts": 1793872013.7213223
-    },
-    {
-      "t": "8217 8230 characte character control customisable digital each franco hands launches magic new post release rogue session settings shape skill skills slot spanish supplier that user",
-      "ts": 1793872017.140541
-    },
-    {
-      "t": "1 2026 22 6 all bangkok day ffws finals first format friday global knockout more november played stage teams thailand timings top tournament watch where will",
-      "ts": 1793872020.540632
-    },
-    {
-      "t": "2026 37 39 almost been biggest championship come event ever every far field full global has have heading istanbul lists mobile named pmgc pubg published qualified region team teams they year",
-      "ts": 1793872026.5172067
-    },
-    {
-      "t": "all china gamers his jinggg raze set take",
-      "ts": 1793872030.0138183
-    },
-    {
-      "t": "1 actually before beijing but clip did esl had hearted let light liquid made malbsmd not offer rifler say slip tier valorant when who",
-      "ts": 1793872033.3958044
-    },
-    {
-      "t": "cs2 faster get latest retakes rounds update",
-      "ts": 1793872036.805027
-    },
-    {
       "t": "2 6th action also anywhere blade commemorating eve launched launches live nintendo officially release shift special stellar switch trailer unveiled",
       "ts": 1793900493.0033803
     },
@@ -21392,6 +21236,26 @@
     {
       "t": "000 1 100 2 3 after back beat become champions convincingly dota down epl final gamerlegion grand home hot iii masters might navi officially squad take taking team three time tournament trophy ukrainian winning",
       "ts": 1793934205.4733293
+    },
+    {
+      "t": "2 2026 3 36 5 6 billion disclosed financial growth help its long measures mid net november operating posts preparing profit q3 reporting results revenue self term webzen won",
+      "ts": 1793961446.110816
+    },
+    {
+      "t": "6 action administration announced appropriateness block cha comments committee deemed dokkaebi following game grac inappropriate monitor myeong november rating rmt says that warns will won world",
+      "ts": 1793961449.668121
+    },
+    {
+      "t": "19 6 collaborative featuring friday goddess highlights musinsa nikke november place pop prime seongsu seoul squad store taking their thursday victory",
+      "ts": 1793961453.3034227
+    },
+    {
+      "t": "26 brasil brazil brazilian company established establishes has holding holdings krafton local ltda october paulo são",
+      "ts": 1793961456.8273692
+    },
+    {
+      "t": "2 begun change class considering enchant episode god have impressions player players preparations preview shared sol their tower update",
+      "ts": 1793961460.4646707
     }
   ]
 }
