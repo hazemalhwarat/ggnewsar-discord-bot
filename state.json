@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27274/kim-min-chul-aiming-to-extend-the-zerg-era-vs-yoo-young-jin-reaching-the-finals-after-8-seasons",
-    "https://www.invenglobal.com/articles/27273/steam-wishlist-inflation-value-of-1-wishlist-cut-in-half-but-predictive-power-remains-unchanged",
-    "https://www.invenglobal.com/articles/27272/vietnams-mvk-sweeps-international-regular-furia-3-0",
-    "https://www.invenglobal.com/articles/27270/ember-and-blade-to-enter-early-access-on-january-8-2027",
-    "https://www.invenglobal.com/articles/27271/torchlight-infinite-launches-ss14-tartarus",
-    "https://www.invenglobal.com/articles/27269/silver-palace-is-coming-agf-2026-reveals-five-main-sponsors",
     "https://www.invenglobal.com/articles/27268/outerplane-reaches-no-1-on-japans-google-play-popularity-chart",
     "https://www.invenglobal.com/articles/27267/nexon-launches-n-connect-season-1-with-soop-on-the-15th-opens-integrated-page",
     "https://www.invenglobal.com/articles/27266/ragnarok-x-next-generation-opens-new-apac-client-server-kwave",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/28250/nc-cultural-foundation-releases-myaac-special-education-resource-book",
     "https://www.invenglobal.com/articles/28249/monster-hunter-now-carnival-kicks-off-nov-28-take-on-elder-dragon-amatsu",
     "https://www.invenglobal.com/articles/28248/18th-kespa-student-leaders-complete-seven-month-term",
-    "https://www.invenglobal.com/articles/28247/equipment-equipping-transfer-and-armory-system-guide-how-to-use-precautions-and-steps"
+    "https://www.invenglobal.com/articles/28247/equipment-equipping-transfer-and-armory-system-guide-how-to-use-precautions-and-steps",
+    "https://www.invenglobal.com/articles/28245/flyff-legacy-updates-new-continent-belmaris",
+    "https://www.invenglobal.com/articles/28246/title-aura-and-creature-purchase-guide-list-of-best-in-slot-items-with-identical-stats",
+    "https://www.invenglobal.com/articles/28244/new-rohan-online-project-to-host-player-meetings",
+    "https://www.invenglobal.com/articles/28243/netmarble-unveils-guardian-tales-dig-dot-for-the-first-time",
+    "https://www.invenglobal.com/articles/28242/blue-archive-nivel-arena-launches-three-starter-decks",
+    "https://www.invenglobal.com/articles/28241/nhn-cloud-hosts-first-partner-seminar-in-japan"
   ],
   "title_hashes": [
-    "ffb3b455a6205935629bb8f56ce7ac6c",
-    "2c84f53b5f28a3a2f5595c37bd084bfb",
-    "084a42ecfc15f30bff4ced57c37ac10e",
-    "92309f653db73d36e0d7a12410db0cab",
-    "f2ab5fb218da8b84623f45579aa4ba11",
-    "24d9d10c0e8afc1c2ccbd9c24a8a1fd9",
     "ef075e66d9bf0973cffdbee1eb1ba784",
     "9d94e5d38ea457ee2b5330598a9d3dde",
     "6db7c00d4c0e87d18b83b7c4f3583824",
@@ -16001,7 +15995,13 @@
     "6dd04296268c7d7f286f54e5963d360c",
     "48186078a31cac46ef10ac305b1af61b",
     "7d2d2a8b664f231625ea039eaf676523",
-    "5f8fd1e036e5f7f5469dcf696dcc568c"
+    "5f8fd1e036e5f7f5469dcf696dcc568c",
+    "03d47b2086892c4d9d1aa80334739700",
+    "7b44511369a06e2b77b2374c86254a1d",
+    "cd3271e796ec689d2edc04fbabcf374e",
+    "b7b0c5b0b7a196525e94bbe8d6c90eea",
+    "7f8e47c345557c389c7b8289fdffbd59",
+    "bf380609b2d8119e01f285c617a72f8a"
   ],
   "transfers": {
     "pages": {
@@ -21316,6 +21316,26 @@
     {
       "t": "0 01 02 03 armory checking contents enhancement equipment equipping gear guide how info new precautions steps swapping system table transfer transferring use",
       "ts": 1793934131.7552953
+    },
+    {
+      "t": "000 1 6 900 also announced belmaris bpmg cap continent field flyff has includes introduced legacy level major maximum mons new nine november raised that this update updates",
+      "ts": 1793934136.7826927
+    },
+    {
+      "t": "11 23 announced based company december development direction exi global host korea meetings new november online plans player playwith project rohan share that will",
+      "ts": 1793934140.3543909
+    },
+    {
+      "t": "6th art currently development dig dot first guardian key kong netmarble new revealed serving spin studios tales time title under unveils",
+      "ts": 1793934143.8744457
+    },
+    {
+      "t": "20 6 archive arena blue booster company decks gemblo hereinafter introduced launches nivel november one pack release starter three utilizing will",
+      "ts": 1793934147.4648194
+    },
+    {
+      "t": "5 6 announced cloud collaboration companies event expand first held hosted hosts its japan japanese local nhn november partner seminar subsidiary that",
+      "ts": 1793934150.964427
     }
   ]
 }
