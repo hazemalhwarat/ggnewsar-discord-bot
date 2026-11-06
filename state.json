@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-patch-notes-update-4",
-    "https://www.hotspawn.com/valorant/news/valorant-champions-shanghai-top-3",
-    "https://www.hotspawn.com/counter-strike/news/aurora-reach-thunderpick-world-championship-2026-playoffs",
-    "https://www.hotspawn.com/valorant/news/vit-profek-valorant-champions-shanghai",
-    "https://www.hotspawn.com/fortnite/news/one-piece-coming-to-fortnite",
-    "https://traxion.gg/assetto-corsa-evos-free-roam-will-support-30-players-in-online-multiplayer/",
     "https://traxion.gg/assetto-corsa-evos-initial-free-roam-area-will-be-bigger-than-manhattan/",
     "https://traxion.gg/assetto-corsa-evos-free-roam-arrives-9th-december-2026/",
     "https://traxion.gg/gsi-takes-the-wraps-off-its-new-x-29-steering-wheel/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/28288/call-of-duty-cracks-down-on-warzone-agent-lobby-shopping-tool",
     "https://www.invenglobal.com/articles/28287/ratchet-clank-ranger-rumble-ceases-development-servers-shut-down-may-2027",
     "https://www.invenglobal.com/articles/28286/saga-localisation-director-neil-broadley-dies-after-multi-year-cancer-battle",
-    "https://www.invenglobal.com/articles/28285/shadowverse-worlds-beyond-opens-godzilla-mini-collab-with-card-styles-and-dungeon"
+    "https://www.invenglobal.com/articles/28285/shadowverse-worlds-beyond-opens-godzilla-mini-collab-with-card-styles-and-dungeon",
+    "https://www.invenglobal.com/articles/28284/kuro-games-details-wuthering-waves-version-38-for-november-12th",
+    "https://insider-gaming.com/zelda-fujibayashi-new-ideas-botw/",
+    "https://insider-gaming.com/new-gta-6-screenshots-insanely-detailed-cars/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-november-7-1245/",
+    "https://insider-gaming.com/call-of-duty-modern-warfare-4-dmz-mode-free-trial-on-all-platforms/",
+    "https://insider-gaming.com/wardogs-season-3-coming-next-week/"
   ],
   "title_hashes": [
-    "0a6f10381dd4a4ee71798d03dec4a8ec",
-    "9b364a898fca6c7b6d019b86c8532c2f",
-    "9851e047b8680099455118b2b98d3eb2",
-    "9be651d21987cf7ccd1cd2c45975d33f",
-    "396511e40514608b9ff19b2f81ad438f",
-    "8642c69c9d8e01c28f22d30e125c50cf",
     "e6cb9191ef4223704440bd6dc9cc5f7a",
     "7f02e799e4bf6557d1adb9763bce76aa",
     "01fdf530dc687d436ce36ee6f30cdd83",
@@ -16001,7 +15995,13 @@
     "5570f1f2f05eee316ba4111a968d5bba",
     "43082f62a71b0660c8170cd485c183db",
     "0857d8603fa0d685d770502cfd55f293",
-    "6da8b0b0016280fda90469a36b11ab77"
+    "6da8b0b0016280fda90469a36b11ab77",
+    "8c66f6728e0cdeb81694f84149b3671f",
+    "04d6c772c275e17f045d339facefe5c4",
+    "643bf0c9c30ff042cba347cd24f70610",
+    "0597d4e3c165f61a5e2afbcb667b0794",
+    "07c8aca0839abda7e3b0528e9dc809d9",
+    "98e72090fb6a0c1ba3a15b987d1b6a28"
   ],
   "transfers": {
     "pages": {
@@ -21168,6 +21168,26 @@
     {
       "t": "2026 6th after beyond card ccg collab collectible cygames digital dungeon event free game godzilla has its main maintenance mini november opens play runs shadowverse started styles until utc worlds",
       "ts": 1794003897.3522184
+    },
+    {
+      "t": "12th 3 8 according action details dream dying first free games has its kuro lilies major next november open play release revealed rpg upda update version waves world wuthering",
+      "ts": 1794003902.6405845
+    },
+    {
+      "t": "breath developers feel find fresh fujibayashi hidemaro ideas kingdom limited new not ocarina post producer says should tears time urges wild zelda",
+      "ts": 1794003906.1034117
+    },
+    {
+      "t": "12 6 appeared been cars compare detailed gta have insanely media new post real reveal revealed screenshots six social that them via world",
+      "ts": 1794003909.5459464
+    },
+    {
+      "t": "11 4 about all call can dmz duty feel free gets how modern november now platforms players post pvpve see style they trial try until warfare",
+      "ts": 1794003913.1481347
+    },
+    {
+      "t": "3 arrives bringing bulkhead fresh game has lands map mul multi new next play post revealed season studios that track unlocks update wardogs ways week",
+      "ts": 1794003916.6712146
     }
   ]
 }
