@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjdkZWM3emF2WWJoU1JZSjZpYy1EM0ppX0UwcUViNkRNX3ZvYnVoS2VGY3prT25fZXFDbUp2bjRJZ1BqMlhSdVVDQU9UdXZFOThtMGZwSTktNmh4ZHFPcjlyWG5FZ215SVFITzEtY1l1aTExQlppVzFZUkZJUjRlS0xvM3plcTVqYVBjUExwTGxucHJfUkgtMWVVeWNXZkV3Slh1WVVn?oc=5",
-    "https://www.invenglobal.com/articles/27277/mabinogi-runs-collaboration-with-witch-hat-atelier-until-november-12",
-    "https://www.invenglobal.com/articles/27278/hello-kitty-island-adventure-switch-2-bundle-pre-orders-open-on-the-16th",
-    "https://www.invenglobal.com/articles/27276/mabinogi-eternity-preparing-for-the-next-20-years",
-    "https://www.invenglobal.com/articles/27275/the-fun-of-fighting-and-living-together-core-content-of-azur-promilia",
     "https://www.invenglobal.com/articles/27274/kim-min-chul-aiming-to-extend-the-zerg-era-vs-yoo-young-jin-reaching-the-finals-after-8-seasons",
     "https://www.invenglobal.com/articles/27273/steam-wishlist-inflation-value-of-1-wishlist-cut-in-half-but-predictive-power-remains-unchanged",
     "https://www.invenglobal.com/articles/27272/vietnams-mvk-sweeps-international-regular-furia-3-0",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28256/dnf-daily-weekly-checklist-daily-and-weekly-content-guide",
     "https://www.invenglobal.com/articles/28254/dnf-cheonhaecheon-season-checklist-daily-dungeons-weekly-dungeons-raids-monthly-content",
     "https://www.invenglobal.com/articles/28253/smilegate-simultaneously-launches-psycho-sleuth-on-pc",
-    "https://www.invenglobal.com/articles/28252/black-desert-master-class-finals-to-be-held-nov-78"
+    "https://www.invenglobal.com/articles/28252/black-desert-master-class-finals-to-be-held-nov-78",
+    "https://www.invenglobal.com/articles/28251/mgames-ghost-online-idle-surpasses-1-million-pre-registrations",
+    "https://www.invenglobal.com/articles/28250/nc-cultural-foundation-releases-myaac-special-education-resource-book",
+    "https://www.invenglobal.com/articles/28249/monster-hunter-now-carnival-kicks-off-nov-28-take-on-elder-dragon-amatsu",
+    "https://www.invenglobal.com/articles/28248/18th-kespa-student-leaders-complete-seven-month-term",
+    "https://www.invenglobal.com/articles/28247/equipment-equipping-transfer-and-armory-system-guide-how-to-use-precautions-and-steps"
   ],
   "title_hashes": [
-    "ac8c5d73b312ee5928e1c6e63b06fcc5",
-    "822ab964639f0ad80bbee7417b457b03",
-    "61d70a4a127187532a42b2f445b19812",
-    "0248bf6886733fbd3b4512d99a9e8c2f",
-    "6e4f014637da479ce8aa89439fd22611",
     "ffb3b455a6205935629bb8f56ce7ac6c",
     "2c84f53b5f28a3a2f5595c37bd084bfb",
     "084a42ecfc15f30bff4ced57c37ac10e",
@@ -16001,7 +15996,12 @@
     "8d6346084de50cad716f2f7971204305",
     "ce69f847e36095ddb2014c1a5de61453",
     "7d49200f4747b0950b0153138bfe3842",
-    "6ad34e8faa7ca8b5bfcd211b2ddfb04d"
+    "6ad34e8faa7ca8b5bfcd211b2ddfb04d",
+    "fb27fe3a8b52fa3310b06dc75abf745a",
+    "6dd04296268c7d7f286f54e5963d360c",
+    "48186078a31cac46ef10ac305b1af61b",
+    "7d2d2a8b664f231625ea039eaf676523",
+    "5f8fd1e036e5f7f5469dcf696dcc568c"
   ],
   "transfers": {
     "pages": {
@@ -21296,6 +21296,26 @@
     {
       "t": "2026 32 6 7 8 abyss across announced black class classes desert determine each finals held host master nov november pearl player that top will",
       "ts": 1793934112.1643763
+    },
+    {
+      "t": "1 6th announced arts development ghost have idle its launch martial mgame million november official online pre registrations rpg surpassed surpasses targeted that",
+      "ts": 1793934117.5073602
+    },
+    {
+      "t": "book classroom cultural education foundation has lesson myaac released releases resource special",
+      "ts": 1793934121.1012409
+    },
+    {
+      "t": "2026 28 29 6 amatsu announced carnival dragon elder event explore global host hunter kicks monster nov november now off scopely take that will",
+      "ts": 1793934124.682239
+    },
+    {
+      "t": "11 114 18th 6th across announced association class complete completed content has its kespa korea leaders month pieces produced session seven sports student term that this",
+      "ts": 1793934128.2436357
+    },
+    {
+      "t": "0 01 02 03 armory checking contents enhancement equipment equipping gear guide how info new precautions steps swapping system table transfer transferring use",
+      "ts": 1793934131.7552953
     }
   ]
 }
