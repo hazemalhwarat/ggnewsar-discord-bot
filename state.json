@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27262/steam-overhauls-achievement-system-managing-season-and-dlc-achievements-separately",
-    "https://www.invenglobal.com/articles/27261/from-shipping-containers-to-glass-walled-homes-nakwon-details-its-shelter-system",
-    "https://www.invenglobal.com/articles/27260/sword-x-staff-confirmed-for-official-launch-on-november-4",
-    "https://www.invenglobal.com/articles/27258/nightmare-the-lunatic-launches-on-ps5-on-october-16",
-    "https://www.invenglobal.com/articles/27259/smilegate-orange-planet-selects-12-startup-teams-for-h2",
     "https://www.invenglobal.com/articles/27257/wargaming-hosts-halloween-events-across-tank-and-warship-games-starting-oct-15",
     "https://www.invenglobal.com/articles/27256/naver-chzzk-to-live-broadcast-worlds-2026",
     "https://www.invenglobal.com/articles/27252/riot-games-and-louis-vuitton-publish-kda-travel-book-tempo-point",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28238/kabam-unveils-new-idle-rpg-wb-all-star-mayhem",
     "https://www.invenglobal.com/articles/28236/silver-lake-and-saudi-pif-hold-talks-to-buy-unity-at-about-25bn",
     "https://www.invenglobal.com/articles/28237/dplus-kia-eliminated-in-quarterfinals-after-falling-to-blg",
-    "https://www.invenglobal.com/articles/28235/blg-wins-game-2-behind-vi-on-duo-dk-on-the-brink-at-0-2"
+    "https://www.invenglobal.com/articles/28235/blg-wins-game-2-behind-vi-on-duo-dk-on-the-brink-at-0-2",
+    "https://insider-gaming.com/nyt-strands-hints-answers-november-5-2026/",
+    "https://insider-gaming.com/aonuma-nintendo-zelda-legacy/",
+    "https://insider-gaming.com/nintendo-making-more-remakes/",
+    "https://insider-gaming.com/amazon-luna-november-2026-games/",
+    "https://www.vlr.gg/785298/alfajer-leaves-fnatic-ending-a-four-year-run"
   ],
   "title_hashes": [
-    "a10efc56ca0628a5fcb2a93cdbc9bd7a",
-    "62aad798e068e4447f2f2edc15c6d93b",
-    "9f1897ba3f3c24bb179e37adcc1ff134",
-    "07f51fad1162b330e6b887c38c9e183a",
-    "70d2e72234c57ca76dbba9153cbd2b5a",
     "0f0271b2d397025ea73c059ad7ce937d",
     "0683f3fc106d3ce39e06264ac841151c",
     "497cfc74a610645afe78176d22b0bf89",
@@ -16001,7 +15996,12 @@
     "032777bc97c1859f1b3f6f7137906cd4",
     "4c4d8a6c8b5ca5c5e62aa2354869769e",
     "c299f719a03ee0e412de392e07602306",
-    "805aa8c6ceeb6ed0a8170d3226b68df7"
+    "805aa8c6ceeb6ed0a8170d3226b68df7",
+    "a8d7d0fde75c66d13db478bb01b40074",
+    "84c44f54b45d9fc05446b002d0af9528",
+    "3769cb001040d2b475f915762be1d553",
+    "391fe5a41c1f92d64d5696d5e1286f27",
+    "6deacf75577330b9df7746436ae58fdb"
   ],
   "transfers": {
     "pages": {
@@ -21356,6 +21356,26 @@
     {
       "t": "0 1 2 behind blg brink defeat dplus dropped duo elimination following game good got kia off pushing start their them well wins",
       "ts": 1793934170.293326
+    },
+    {
+      "t": "2026 5 977 answers appeared game hints its november nyt post puzzle reveal six solve spangram strands stuck theme these use words",
+      "ts": 1793934175.4341462
+    },
+    {
+      "t": "aonuma developers discussion does eiji experience explains how knowledge lega legacy new nintendo pass post preserves role shared staff veteran zelda",
+      "ts": 1793934179.098412
+    },
+    {
+      "t": "8217 after big came claim claimed could fox had has isn more nintendo post remakes star stopping that there where year zelda",
+      "ts": 1793934182.8167732
+    },
+    {
+      "t": "2026 27 about adds amazon available claims game learn lineup luna madden mixtape more nba nfl november now post prime run standard subscribers",
+      "ts": 1793934186.2800343
+    },
+    {
+      "t": "alfajer ending find fnatic four home kid leaves new off run year",
+      "ts": 1793934189.9251206
     }
   ]
 }
