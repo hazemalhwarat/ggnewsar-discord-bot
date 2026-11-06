@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27283/smilegate-stove-officially-launches-luv-place",
-    "https://www.invenglobal.com/articles/27282/riot-games-to-hold-lol-music-worlds-pop-up-in-jamsil-and-seongsu-starting-oct-23",
-    "https://www.invenglobal.com/articles/27281/come-to-my-party-releases-demo-20-on-steam",
-    "https://www.invenglobal.com/articles/27280/2027-valorant-masters-to-be-held-in-seoul-on-february-20",
-    "https://www.invenglobal.com/articles/27279/sd-gundam-g-generation-eternal-launches-new-story-event",
     "https://www.invenglobal.com/articles/27265/reviews-are-mixed-but-concurrent-players-hit-400k-the-peculiar-success-of-aion-2",
     "https://www.invenglobal.com/articles/27255/com2us-platform-hosts-b2b-game-industry-seminar-in-tokyo",
     "https://www.invenglobal.com/articles/27254/warframe-launches-epoch-operation-taubound-community-event",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28260/earth-defense-force-6-korean-version-launches-january-28-2027",
     "https://www.invenglobal.com/articles/28259/nexon-recruits-participants-for-talesweaver-mobile-offline-fgt-on-december-12",
     "https://www.invenglobal.com/articles/28258/tencent-says-nikke-hack-does-not-apply-to-other-games",
-    "https://www.invenglobal.com/articles/28257/dk-siwoo-the-eventful-2026-season-will-be-a-great-foundation"
+    "https://www.invenglobal.com/articles/28257/dk-siwoo-the-eventful-2026-season-will-be-a-great-foundation",
+    "https://esports-news.co.uk/2026/11/06/weibo-gaming-beat-dplus-in-blast-r6-major-osaka-upper-bracket-opener/",
+    "https://insider-gaming.com/tarkov-pve-split-versus-pvp/",
+    "https://insider-gaming.com/contexto-hints-answer-for-november-6-2026/",
+    "https://insider-gaming.com/the-walking-dead-ip-offered-to-more-chinese-developers/",
+    "https://insider-gaming.com/mass-effect-merchandise-electronic-arts-tone-deaf/"
   ],
   "title_hashes": [
-    "248e17e74de8ec3baebce51002957a8d",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "bf28cc542dfaf933752cc88f2de6b80f",
-    "86590997be88995db5435754ce40f37b",
-    "6fa06491f248217d57d734e6fd6d8deb",
     "701de3ca846de527161c87789952d6ff",
     "48bc50c55a5e9ede40ad56ea5b184b56",
     "6a5f9438cf207a78bb347d0c1c5abbcd",
@@ -16001,7 +15996,12 @@
     "928fe6e509dc587ca89b9abe8cb1e419",
     "69dda18181b9036321d493d3cf4be6f8",
     "c14882280a89b388aa605fdf1fcfbe78",
-    "76fb33c8c3cb8953c0df017a22445177"
+    "76fb33c8c3cb8953c0df017a22445177",
+    "d27a16d3498ff3855df261213542f479",
+    "4684fddbbda16cdcd899882ad721c2e5",
+    "88c0167985f459e0e9a414527e876428",
+    "fbd683c5952c332330e0c002e7443b68",
+    "4a931f2aaa4bb0644a596ab37ffcad61"
   ],
   "transfers": {
     "pages": {
@@ -21316,6 +21316,26 @@
     {
       "t": "2026 6 after allen blg center championship credit dplus eliminated event eventful foundation great kia kst lol losing november quarterfinals season siwoo texas union will world",
       "ts": 1793961518.226986
+    },
+    {
+      "t": "1 beat blast bracke bracket continue dplus end four gaming major match opener osaka power quarterfinal r6 ranked rankings reading run second side take upper weibo",
+      "ts": 1793961523.2771916
+    },
+    {
+      "t": "base buyanov escape favour has incredible more nikita now officially player post pve pvp revealed revelation right split tarkov than that which",
+      "ts": 1793961526.789832
+    },
+    {
+      "t": "2026 6 amp answer appeared contexto first full gamin get guess hints insider november post stuck today trying you",
+      "ts": 1793961530.2593544
+    },
+    {
+      "t": "8217 amc bring chinese dead developers firm global has including its media mobile more offered out partnered post publishing there walking",
+      "ts": 1793961533.6926143
+    },
+    {
+      "t": "after arts brand cancelling cashing day effect electronic franchise has ill just killed mass media merch n7 post promotes social timed tried weeks",
+      "ts": 1793961537.149542
     }
   ]
 }
