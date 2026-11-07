@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/counter-strike/news/betboom-reach-thunderpick-world-championship-2026-playoffs",
     "https://www.hotspawn.com/league-of-legends/news/mvk-chika-ranks-his-anime-rom-com-tier-list",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lQmxIZE82NC1oY2hhcHFGT2ZIWXVEWVJCWWotY0w2dmVPQ2RZR25JakM5R1BjeXRJWnp0eEdlbUV4SnBjVUJoVUEwb0hkU1luVnJrTkhGTmV5UWtiN1A0b2JxeHNSM2p1VWtsSUpfX0JhOE5QOFE5R0w3R084dWs?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FMDRKMnpIQnpyRTl1RlhPVU9QQnFmRy11N2RQNEs4RzZES0RTSzIwUnBrejg3eU5jd183MGNCbmFaZUJfdjlkSjlaSGNrTUZlUmdqbGplSXdHU3dBdm84?oc=5",
@@ -7999,10 +7998,10 @@
     "https://pley.gg/cs2/bc-game-submit-a-new-name-for-the-singapore-major-as-betting-brands-face-a-ban/",
     "https://pley.gg/valorant/sentinels-sign-canezerra-after-riot-cut-his-ban-short/",
     "https://pley.gg/valorant/boaster-on-leaving-fnatic-the-journey-is-not-over/",
-    "https://pley.gg/cs2/mongolz-sweep-navi-as-blitz-leads-them-into-beijing-final/"
+    "https://pley.gg/cs2/mongolz-sweep-navi-as-blitz-leads-them-into-beijing-final/",
+    "https://pley.gg/cs2/spirit-part-ways-with-major-winning-captain-chopper/"
   ],
   "title_hashes": [
-    "fd9eb9967847617b0726c7e1aec58a22",
     "6daf16a3ec4ede836ce19c27f5138470",
     "1dc358bbeef7e69ac803510a3b930648",
     "1bb46bbb03203241b0e19c1729ebc078",
@@ -16001,7 +16000,8 @@
     "95f116c344d6d75504cb12d2a8bd8d38",
     "4f2760f13a06261296860e9d2843436c",
     "fcc3004ec3ff4d811683f30a03770399",
-    "6b5a99a2753dd11c8bbfa93296889a38"
+    "6b5a99a2753dd11c8bbfa93296889a38",
+    "96fdf7c5b71e9d9ef57a6ede62a91558"
   ],
   "transfers": {
     "pages": {
@@ -21032,6 +21032,10 @@
     {
       "t": "0 10 11 13 2 2026 beat beijing blitz cache final grand iem inferno into leads mongolz navi reach sweep them",
       "ts": 1794064453.2997146
+    },
+    {
+      "t": "major part spirit ways",
+      "ts": 1794064458.382686
     }
   ]
 }
