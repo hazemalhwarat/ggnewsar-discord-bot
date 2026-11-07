@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczBjN3RySF9TcFVURHQzd2xkNnlEWUhzeHNjYTNzbEl6Z2xIVm9yMFVqdWJkVTUtOV9oUG9OdzlFcEEyLUswb20wZEpzbk1DbUxrRVZjUVBOUlVZenQzR1JYQTJaSC1acG9rRl9PajJQQ2ZfWnI3Y2pneldJVTdfaUdJMHg3SEZFUVB0X1I1M0VmVUJMd3lPN1BCbWt6VnBEc280SDhrT0o3N2lQSkZmdHJleWg3dHUwOGNuTFNKMVRpYzQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNXy1DOUJGdmtsZ3Q2Q0VuTDQ1Qy1RdlBnZkc2NEZYanVYN1BuVV9yNXRfUUpNdDQtRk1qMGphQW5VWHhBNEhWaEtaWHMxUHBqZHRuZS1YMjl1LXFycDREaHRPNzl2ZUJ6NVhEbGVxV0JleVRtbHEza3pKeG5LXy1zamNFSi1xWmxFZHo2UklhYmRqT19sQU5VVHhIRFU2TkpqUy1v?oc=5",
-    "https://news.google.com/rss/articles/CBMilgJBVV95cUxPemNKMXpNXzZRLXFhVXcyRGdMMWJmX0FQQ3c4Q196OV9zTE52Q0NRS2d6RXdLMkl4ZTBST1R5QlBmY0U0WmRHSVZ2TGJoR0wwb0Z0ZkVnci1QTEpwdG1tNmNYX3M4VXlMT2JGNDljcFJveHZPVW9GUHJhcjRTOC0xck5ieWd2M1RNLXMyYXdpSkVqOEp3UWZiTlBNdWEtaXVtYmNMNHlJM2R3SjF1d3JWUUhxZXJ5YXNoRFQwbm1DRFhXLTJqa2Jhd0t6UWVyZF81WDhIQllKTEFoQUZTa0xrQ0VBMmhvU2NvcUZRWHhMbXVXMngtWUpqWWtPMjVHWTF1NnNjSkl2bzFHTkJBb01kSmNCU212dw?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAzZ0xBZHhiZG13SFZLM29lSWhlUExwamoxYWlVREhNTzZkQ0IwR1BBMkY0bzdROWRvX2hZZXRjUVVCbjN5OHc?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKQmQtRmhHLWk3a0t6RnRMSEd2LUpQSkt4cHNaS2hmMW9leG1ucmxjNlgybDFWVFBXQWp0TU1pejhienQ5aGtTRm5zekZ2TFUxNy1yN3M3dlV6U3JLMnVldGNqbWw5b2dVbXhJbVI1VXc?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3aW5XTW1NLUxhMmJESXNlQTFSUTBrVU5adHQwSFMzWHFseUlySWVGRHBCWHZDNjE0ZXlpTzFJZFBRci1MRldGMWQ2TVB5cnJXSGZVX3RLb0pxemkyNndidHFVNW9OZ3JMZmxOTnpoNl8zbG5MUzhoUHRpMFhGdw?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMmpIV2dmSGtHdG5wdV9mWTgxeTduWElwV3dBa0hmSjluZURlV2dIb1JJTmg1QUlUb251cDZOcktfZ2E1NXZIcWNKNWNCRDZoMzVpbXN2emsxUTFadDN0UlEydnRzNG13NHJnY1VfczBpSzhiZHFfenUtbnJ4OHM?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DdS1FOXRkZ1MzTWhibV9CZkwxTDFtTV9kVFFXS0pfeWVac2RYRm1UVHFMb3M4SVRJenpUa25pQVROZTNYZEVBcER3VlVRd2ttUmJNNi1OS3Q5VmlXenlsckc2eUFhN0dtN1pqSFNqMzFNQl9paVpMNUJjcWZkN0E?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTc0E1NUJGZmlROWdVWkdSdzNJVWxzbHpIVXl6cjN2LWkyS0Juc3FJb1pacU1mS3NiRUFNZEJBUFNXcFA5UTBEZ2dEbWlGcFZrcXExSXdKanRlb0UwdDZqRnJWNXc5c3RQT052WGFaNi0xYzZNb1JfSXVR?oc=5",
@@ -7999,14 +7993,15 @@
     "https://www.hltv.org/news/45932/iem-beijing-semi-finals-as-they-happened",
     "https://www.hltv.org/news/45936/mouz-ease-past-betboom-into-beijing-final",
     "https://www.hltv.org/news/45935/nin9-were-still-getting-used-to-each-other",
-    "https://www.hltv.org/news/45933/the-mongolz-beat-navi-to-secure-first-big-event-grand-final-appearance-in-14-months"
+    "https://www.hltv.org/news/45933/the-mongolz-beat-navi-to-secure-first-big-event-grand-final-appearance-in-14-months",
+    "https://esports-news.co.uk/2026/11/07/betboom-team-end-furias-winning-run-against-them-in-iem-beijing-quarter-final/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-week-9-tight-end-rankings-and-updates/2026/11/06/",
+    "https://thegamehaus.com/nfl/nfl-trade-targets-defense/2026/11/06/",
+    "https://thegamehaus.com/nfl/nfl-trade-targets-offense/2026/11/06/",
+    "https://gameriv.com/wardogs-bans-185000-accounts-ahead-of-season-3-launch/",
+    "https://gameriv.com/gears-of-war-e-day-november-6-patch-notes/"
   ],
   "title_hashes": [
-    "d3e5675262edb966193eea6f5e637ec5",
-    "d3e5675262edb966193eea6f5e637ec5",
-    "225d675229938894f2eaa4795408d754",
-    "2aa1fbf056acf39762229d020d1adf21",
-    "2156659d36a4887cb73150b70fc190a8",
     "244422bcd765ba271bc70e9fd44ba3c1",
     "adf8506259779b08d4adee408220326a",
     "fd710c0f96feefe1b404a53a8b361625",
@@ -16001,7 +15996,12 @@
     "419c4159b24d73f9d6437167d28587a8",
     "1c8cba4f05fa467da43644a6a6108f53",
     "0ae41cdf9aade059f52ef21f8fb7d173",
-    "5998ab3d95d94b3f835b1f1a931258cb"
+    "5998ab3d95d94b3f835b1f1a931258cb",
+    "6241c78ee0ce80a22f87f4fbcd7ba69d",
+    "bf1fe78a52653e5cab7460f7cf750b07",
+    "b3ae2af7c99cc7419e031ef67b398e47",
+    "5ca1be1bc4ce4ed283ed9a91be473639",
+    "662c5659342f68863fa3bdf2a938b68b"
   ],
   "transfers": {
     "pages": {
@@ -20932,6 +20932,26 @@
     {
       "t": "14 2 appearance beat big chance event fight final first fissure get grand last mongolians mongolz months navi playground secure september since their title will",
       "ts": 1794064359.4548342
+    },
+    {
+      "t": "8217 against another beijing betboom continue decider earn end final furia higher iem knock map mouz off opening quarter rated reading run shot team them took winning",
+      "ts": 1794064364.6640267
+    },
+    {
+      "t": "2026 9 already approaching best books continued eight end fantasy football has its landscape midpoint nfl options rankings season team tight updates week weeks your",
+      "ts": 1794064368.0698102
+    },
+    {
+      "t": "10 ahead approaching contender deadline defense fortify fut heating looking make mill moves nfl nov quickly rumor sell targets teams trade whether",
+      "ts": 1794064371.4596088
+    },
+    {
+      "t": "000 12 185 2026 3 accounts address ahead bans big bulkhead changes comeback complaints developer gearing launch launches major making november officially player season some upcoming wardogs",
+      "ts": 1794064374.8415265
+    },
+    {
+      "t": "6 balance been coalition day gears gut has have hit its lancer latest major nerfs new notes november out patch powerful puncher receive received retro rolled several significant str striga targeting tuning update war weapon weapons",
+      "ts": 1794064378.305606
     }
   ]
 }
