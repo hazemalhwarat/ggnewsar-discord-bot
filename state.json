@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMmpIV2dmSGtHdG5wdV9mWTgxeTduWElwV3dBa0hmSjluZURlV2dIb1JJTmg1QUlUb251cDZOcktfZ2E1NXZIcWNKNWNCRDZoMzVpbXN2emsxUTFadDN0UlEydnRzNG13NHJnY1VfczBpSzhiZHFfenUtbnJ4OHM?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DdS1FOXRkZ1MzTWhibV9CZkwxTDFtTV9kVFFXS0pfeWVac2RYRm1UVHFMb3M4SVRJenpUa25pQVROZTNYZEVBcER3VlVRd2ttUmJNNi1OS3Q5VmlXenlsckc2eUFhN0dtN1pqSFNqMzFNQl9paVpMNUJjcWZkN0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTc0E1NUJGZmlROWdVWkdSdzNJVWxzbHpIVXl6cjN2LWkyS0Juc3FJb1pacU1mS3NiRUFNZEJBUFNXcFA5UTBEZ2dEbWlGcFZrcXExSXdKanRlb0UwdDZqRnJWNXc5c3RQT052WGFaNi0xYzZNb1JfSXVR?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdG52c3pLTDBqLS1SeFNXTnlPVTMzNmg0VTgySGNMSHpnWTJwQkR3UXRQY094LU9TVk1WTHlXYWdPWGV2aEJHcnVvWmJmVzlwV09kWHc4V2ZuRDRPZlFaUVpXUFN0SG9RaUFlazBfUEFnd1JScUJEZk94ckFmd21FZEMyZ0pRRnhMVUNlb2FCUnB1b21iZGcwM3dYWXB6WlZHVUxrMQ?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPckk4OVV4VUY5Q3ZJRVI0MXJucXJXTGlMTHZpdE9JQ3o5b2VtUTNMZ1lrZHBaZXNUMi1vbGpSU1lCMXpzRzNtXzZZTktnRXhMcXliQ3RxdElPdlhSaEJHRHpPUWpqcXRBMGxmdlhPZkU2UDVNSm12Y0FVcnpPaWdFUU56OFQ0QU10LVIzYVd2OUQ2Nm9CdEVfeDdyb3R0Vm9kbGJyY0lvV3F4ZmNvbUt2SDFtVFk?oc=5",
-    "https://g2esports.com/blogs/news/g2-partners-with-wizards-of-the-coast-to-launch-new-rotating-game-inspired-counter-strike-jersey",
     "https://g2esports.com/blogs/news/g2-l-one-piece",
     "https://g2esports.com/blogs/news/g2-announces-g2-performance-lab-to-support-performance-development-of-esports-and-sports-athletes",
     "https://g2esports.com/blogs/news/mcdonald-s-germany-partners-with-esports-giant-g2-to-fuel-emerging-talent-and-women-in-esports",
@@ -7999,15 +7993,15 @@
     "https://thegamehaus.com/nfl/nfl-trade-targets-defense/2026/11/06/",
     "https://thegamehaus.com/nfl/nfl-trade-targets-offense/2026/11/06/",
     "https://gameriv.com/wardogs-bans-185000-accounts-ahead-of-season-3-launch/",
-    "https://gameriv.com/gears-of-war-e-day-november-6-patch-notes/"
+    "https://gameriv.com/gears-of-war-e-day-november-6-patch-notes/",
+    "https://gameriv.com/valorant-patch-13-10-leak-reveals-sentinel-buffs-for-cypher-killjoy-vyse-and-sage/",
+    "https://insider-gaming.com/microsoft-ai-use-your-gpu/",
+    "https://insider-gaming.com/jynxzi-rainbow-six-siege-esports-ownership/",
+    "https://insider-gaming.com/rainbow-six-siege-blast-osaka-agreement/",
+    "https://www.hotspawn.com/counter-strike/news/mouz-demolish-betboom-and-head-to-iem-beijing-2026-grand-final",
+    "https://www.hotspawn.com/counter-strike/news/the-mongolz-reach-iem-beijing-2026-grand-final"
   ],
   "title_hashes": [
-    "244422bcd765ba271bc70e9fd44ba3c1",
-    "adf8506259779b08d4adee408220326a",
-    "fd710c0f96feefe1b404a53a8b361625",
-    "4b781edc61b1aa4d0e49564e3aaeff84",
-    "571b7c30d890a84b89ef63d91a5de111",
-    "846703809a325b2a5cd908301c4016b6",
     "850d1d695ede7a8ff8904a779f7082ca",
     "81eaecff9cf2d436eba06e861661de16",
     "decccf6be26043ed8c3e0a7e6b1cd151",
@@ -16001,7 +15995,13 @@
     "bf1fe78a52653e5cab7460f7cf750b07",
     "b3ae2af7c99cc7419e031ef67b398e47",
     "5ca1be1bc4ce4ed283ed9a91be473639",
-    "662c5659342f68863fa3bdf2a938b68b"
+    "662c5659342f68863fa3bdf2a938b68b",
+    "4183709b75565b56025c4eea39848611",
+    "d2ac8512fc2ece767f96009e1b689522",
+    "5f29f5d3623391372f3a8605360a24b0",
+    "20aebe76a366665cc59af62947a77989",
+    "c387b94a76891249ce4f52aadb02b0b3",
+    "bd992e9ec6fdeb896d31a40a0a668d4a"
   ],
   "transfers": {
     "pages": {
@@ -20952,6 +20952,26 @@
     {
       "t": "6 balance been coalition day gears gut has have hit its lancer latest major nerfs new notes november out patch powerful puncher receive received retro rolled several significant str striga targeting tuning update war weapon weapons",
       "ts": 1794064378.305606
+    },
+    {
+      "t": "company could earn gpu gpus idle lending let microsoft money new patent post soon suggests traini training using you your",
+      "ts": 1794064383.4522424
+    },
+    {
+      "t": "acquiring appeared campfyr esports first fyr has insider jynxzi now ownership owns post rainbow roster secured siege six squad strays t2 team",
+      "ts": 1794064386.860283
+    },
+    {
+      "t": "8217 agreement blast combination during engage gentlemen has issue major noor osaka post prompting r6 surfaced teams tubarão",
+      "ts": 1794064390.3330033
+    },
+    {
+      "t": "2026 8217 8220 8221 been beijing berth betboom boombl4 demolish easy final grand have head hot iem kirill lackluster late locked mikhailov mouz over streak team their victory while",
+      "ts": 1794064393.669309
+    },
+    {
+      "t": "2026 8211 8220 8221 after anarbileg back beijing bringing cobrazera fans few final grand iem into just lineup making mongolz more moves navi picking reach roster slam starting two uuganbayar veteran weeks",
+      "ts": 1794064397.077152
     }
   ]
 }
