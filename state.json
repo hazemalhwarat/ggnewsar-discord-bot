@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/cody-rhodes-wwe-street-fighter-tournament-picks/",
-    "https://insider-gaming.com/karmine-corp-sweep-mvk-lol-worlds-play-ins/",
-    "https://insider-gaming.com/wordle-hints-answer-october-17-2026-1946/",
-    "https://insider-gaming.com/heartsong-seraphine-lol-skin-raises-3-7m-for-charity/",
-    "https://esportsinsider.com/2026/10/team-liquid-roster-malr1ne",
-    "https://www.hotspawn.com/counter-strike/news/thunderpick-world-championship-2026-semi-preview",
     "https://www.hotspawn.com/counter-strike/news/betboom-reach-thunderpick-world-championship-2026-playoffs",
     "https://www.hotspawn.com/league-of-legends/news/mvk-chika-ranks-his-anime-rom-com-tier-list",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lQmxIZE82NC1oY2hhcHFGT2ZIWXVEWVJCWWotY0w2dmVPQ2RZR25JakM5R1BjeXRJWnp0eEdlbUV4SnBjVUJoVUEwb0hkU1luVnJrTkhGTmV5UWtiN1A0b2JxeHNSM2p1VWtsSUpfX0JhOE5QOFE5R0w3R084dWs?oc=5",
@@ -7999,15 +7993,15 @@
     "https://www.talkesport.com/news/cs2/faceit-knife-round-vote-season-10/",
     "https://www.talkesport.com/news/valorant/godlike-valorant-roster-vct-2027-open-qualifiers-rvk-azys-sayoo/",
     "https://www.talkesport.com/news/wardogs-season-3-release-date/",
-    "https://www.talkesport.com/news/gaming/avatar-the-last-airbender-quest-for-balance-delisted-gamemill/"
+    "https://www.talkesport.com/news/gaming/avatar-the-last-airbender-quest-for-balance-delisted-gamemill/",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMXhmRnM2ZlU2ZDJadERTY3FzVTZvc3JEUzFCTjJVcTBLMmNmVnlDVENUR3I0c1ZBOW85Y0c1Smh0dElmdGUxNllWeEpiTjkyQU5NNE5ueG9pdXZJX0VOSU9VbGtLY3FXcHUxWk0yZDFYNDNxMUNjOTdGR3NEV1ZPMlhfaW9kOFdxWjU5eXlWTHlMWXhTSU1KeDVDUzZPVEpENmdvN1UtNFFPeG44dWVPUmJxZUhCOE0xTzRUYklpajdkRTRMOVhSdXNraw?oc=5",
+    "https://pley.gg/cs2/xertion-goes-40-20-as-mouz-book-the-beijing-final/",
+    "https://pley.gg/cs2/bc-game-submit-a-new-name-for-the-singapore-major-as-betting-brands-face-a-ban/",
+    "https://pley.gg/valorant/sentinels-sign-canezerra-after-riot-cut-his-ban-short/",
+    "https://pley.gg/valorant/boaster-on-leaving-fnatic-the-journey-is-not-over/",
+    "https://pley.gg/cs2/mongolz-sweep-navi-as-blitz-leads-them-into-beijing-final/"
   ],
   "title_hashes": [
-    "2f5f7d59c06444dc35d3030614c0103e",
-    "1d3732bad82622e8d165453d8a8c08c4",
-    "71b342977ce826cc50f0a86507d86ff5",
-    "b3be345d346c30f5248d3cfdbbbdbe01",
-    "7f5da690e9e266c8885fda0ec6de836f",
-    "3fe3c3aeea7f75451ffd75151998adb8",
     "fd9eb9967847617b0726c7e1aec58a22",
     "6daf16a3ec4ede836ce19c27f5138470",
     "1dc358bbeef7e69ac803510a3b930648",
@@ -16001,7 +15995,13 @@
     "cd2e64426b384a72cbf6bd58b2d01eba",
     "1bf3a861a51e74bac479cbdb720c9d30",
     "6e8132e6719f092701ad257b48ab9468",
-    "ccd7d0c5f6862e095b747aa98dc5bf04"
+    "ccd7d0c5f6862e095b747aa98dc5bf04",
+    "3085feca2d124c579dec5ba3e48bd726",
+    "3f5568cdd089bfa4cef9361f741eb6cf",
+    "95f116c344d6d75504cb12d2a8bd8d38",
+    "4f2760f13a06261296860e9d2843436c",
+    "fcc3004ec3ff4d811683f30a03770399",
+    "6b5a99a2753dd11c8bbfa93296889a38"
   ],
   "transfers": {
     "pages": {
@@ -21012,6 +21012,26 @@
     {
       "t": "2026 airben airbender avatar balance december delist end ends gamemill here its know last licence need owners post pulling quest sale what will",
       "ts": 1794064434.1984122
+    },
+    {
+      "t": "0 13 2 20 2026 40 7 8 ancient beat beijing betboom book final goes grand iem mirage mouz reach xertion",
+      "ts": 1794064439.686305
+    },
+    {
+      "t": "ban betting brands face game major name new singapore submit",
+      "ts": 1794064443.0643046
+    },
+    {
+      "t": "after ban canezerra cut his riot sentinels short sign",
+      "ts": 1794064446.462992
+    },
+    {
+      "t": "behind boaster cloud ends five fnatic game howlett international jake journey kaajak leader leaving not only over titles two years",
+      "ts": 1794064449.8373396
+    },
+    {
+      "t": "0 10 11 13 2 2026 beat beijing blitz cache final grand iem inferno into leads mongolz navi reach sweep them",
+      "ts": 1794064453.2997146
     }
   ]
 }
