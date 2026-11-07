@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYl9TUkhacFFIb241UTBuUmFmcE5NcWpxYTZNWUZxVFY5R0dtbFA0a09MQTJRLXh2OTBFa2ZFMGpMbEVZRmZ6UFpDQ2xxR1JFaTJZY2kxWkZIN3pYSkRQTS1UNk9JblhDdEM0OW9XZVZjeWI1aGpCMDFyb1dnU1VRN3ZsakVfMGlObFpSWk5BOWhEQUU0MkdzMFB6c09OZlVHalpmR1lqX01vQdIBrwFBVV95cUxNRlgwaTFWeGUtczB5bWNYUDJzaHExWFY0d3JNWXBrb1BlcVRUanh1RkNYV1ExMFBYTkk5RTZEVFBUeGtXQmp4czlhOTloZGdHM0Fjbl9oVUhCS1loRUpTTG1WRWJQM1I3azlEb3BsUXVLZTZPNV93Szc2X2JoY1NEMmgwVHZoU2MybENyRkRGSHBfVFZTaUlnMkstRVI2WWFUa3pLTHQyU19Nd2I1V3Rz?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc05UVDFUZFQ5d193aUNlYmFSc3hqRGJEb1lDQV9ibVJKSk00T0xoTW93NWxkWmxtRXRDYktUVTZ0UXZJVWVrOWxkYUlZaGZ3blNUNmNLeTUzanhYQmJrcjdNWHJhVjVQakg5cFlEQkllRWpYUWRGTTYtU05fdTBxLW1jTHdQU2MzazFMVDQyV2Vpb3RDN2c1Mm8wOG1Ld2c?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1M5WVI4Y2dhdHJfcGxQRzRUSDRlTkdTZTR3N0FRSzl1VTk4WTdtWkJaMTRVSUU0bWI3R1JfcU1DX2R6ckNXb0EzZW1wVGtBUGNkcUVxbWM5NU0ycmdWYllOc1JwOWdZbnNpVW1vMm1NdTFwTHkyaDFvbWJWV2FjZ3pWbXlDSmlvMHVib2xUU0Z2a2huUmthRjhkeWJ2QVZuTXh3cnVzMFlKOUJCSWQ1bWtxZ01kUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHRaOWUxYmNDa0pYbTdfWllMYTRlWUNOM01CQW1rMDJjd05PX1Z6VWI0SDdOUlVDUV9pQVdTOS1PT3VpM0tvVXJQSXpyLXkyZXhzRUI3NnJhQkEtSzdKUjR3R3h2Wkw2NGEzNHJGdXRPMTdSVWlUYnlvemR4S1hHRU5DWFdBeTlIN0ZCZVNsUXBuaEhvOVRYYzZOLUNrUHdialZRc05oZzJabkE?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmpiWHNyczU5S29aMmJ1TlZKZXJFcnQzVlo3djgyamZ6MEFreXRUNDNRR1VlTERjSVBEdkxtMHpyWjVodkdXOU0zVmlXLUdrLUdJdHNHQ1dSOENsMHkzMlhnWlRrQ0ZCZ0ZWNEF3SHFqUEVMUGlXcklvQS1uVkVsTWZSMy01OU0tSVZicHhaX2FaYkpMTnNfLWpXRDJxNnp5TmwzTg?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGpGUVpYa1ZxMGRHVHNFUl83WXNHWm1OTmFOcEFoaGMtU3VKbXhxLWt5S1Z2Tlc3NW1pMlV5dW9Ub3pUVUVVeVBqR3VhS3k5bDQ1ZHlsMGpkRE9DMzh4dWhuX0x3OThMWGVySGlzcUpfWm5tMVF4V2l3UDQ5dTJoYUlua0pnaUEwT1JLN3lPUzhFZk1DYmJhNGs4U2FQc2VXTmtDTG5Vd0FrRUVjRkJ1WjZ5MEUtcWtlSWNURmJXeW5CeGtmNlBYNVVqeFp4RUlkaHR1X1NR?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczBjN3RySF9TcFVURHQzd2xkNnlEWUhzeHNjYTNzbEl6Z2xIVm9yMFVqdWJkVTUtOV9oUG9OdzlFcEEyLUswb20wZEpzbk1DbUxrRVZjUVBOUlVZenQzR1JYQTJaSC1acG9rRl9PajJQQ2ZfWnI3Y2pneldJVTdfaUdJMHg3SEZFUVB0X1I1M0VmVUJMd3lPN1BCbWt6VnBEc280SDhrT0o3N2lQSkZmdHJleWg3dHUwOGNuTFNKMVRpYzQ?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNXy1DOUJGdmtsZ3Q2Q0VuTDQ1Qy1RdlBnZkc2NEZYanVYN1BuVV9yNXRfUUpNdDQtRk1qMGphQW5VWHhBNEhWaEtaWHMxUHBqZHRuZS1YMjl1LXFycDREaHRPNzl2ZUJ6NVhEbGVxV0JleVRtbHEza3pKeG5LXy1zamNFSi1xWmxFZHo2UklhYmRqT19sQU5VVHhIRFU2TkpqUy1v?oc=5",
     "https://news.google.com/rss/articles/CBMilgJBVV95cUxPemNKMXpNXzZRLXFhVXcyRGdMMWJmX0FQQ3c4Q196OV9zTE52Q0NRS2d6RXdLMkl4ZTBST1R5QlBmY0U0WmRHSVZ2TGJoR0wwb0Z0ZkVnci1QTEpwdG1tNmNYX3M4VXlMT2JGNDljcFJveHZPVW9GUHJhcjRTOC0xck5ieWd2M1RNLXMyYXdpSkVqOEp3UWZiTlBNdWEtaXVtYmNMNHlJM2R3SjF1d3JWUUhxZXJ5YXNoRFQwbm1DRFhXLTJqa2Jhd0t6UWVyZF81WDhIQllKTEFoQUZTa0xrQ0VBMmhvU2NvcUZRWHhMbXVXMngtWUpqWWtPMjVHWTF1NnNjSkl2bzFHTkJBb01kSmNCU212dw?oc=5",
@@ -7999,15 +7993,15 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaU1MTkVKM1lENmdKb2NKdXBTay05aFNidkhqajc4VnROY1BDNU1idHI2TnNLMHo3OWJPLVFkWUxKcWxtbThLeEtFazdlNEZWSTVvYjlaM0tzaG1GRDd0dzFaTWd5NEQ2ZUdpZndDdENIbDFGWm1QSlQ0Zk1IeGVQXzlZb1JiZWM2Q1lJNTMwdG94X0tsUWc?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CTmNzTFUwT2hqdDJTU2VuNURTVmRfbXN0VmdiQ0VQbm5aMXFYZk40M2RrbEcyY18xVC1KdVE4bm5BQWhjeEdScDZlUHZ3em5SRjNPRHY1TnUzQTNXVVFLM3NxRVcweTl5OTlF?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2I3T255b1VkSGFyeENfeW00dDNnMUE2TVJCdXRzcDRyWmhLcTBIMHFlaWY4MmduUFV3b21iNEpQckR3amUwQ0VOeVEzQ0pDWjJEeGNiVGJzYUxhS2g3NE9ES3pDaWFIQUw0c0RwTnFpdC00NzdLVVZnVmM3T3RVLWk5M2F2NkNlOVI0eEJ0VUV2RU9MeEJzZ0E3T09zLWtXZWhXMzlQT0xPUG8zSmI4?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1ZMeFVfN2ZuUUxaMDZ0RllWTTRCbTAxVlB0Ym9heXIyNkFHYUhFcU1UbktnVG9VaWVlMUJLVFJzT09hR0U2cnMxTnl3VjdvWGNpZmQxZU5aLThrRWVsbHM2VGZzSW1LRUJCdTBFemp1YlItSnBHRTBVZG1pbml2YmstRzhFVm8zSFBMbFotdHRXbU83VGJTdDU3eDZnS19LYmw4cTBSbHJyam04VE80?oc=5"
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1ZMeFVfN2ZuUUxaMDZ0RllWTTRCbTAxVlB0Ym9heXIyNkFHYUhFcU1UbktnVG9VaWVlMUJLVFJzT09hR0U2cnMxTnl3VjdvWGNpZmQxZU5aLThrRWVsbHM2VGZzSW1LRUJCdTBFemp1YlItSnBHRTBVZG1pbml2YmstRzhFVm8zSFBMbFotdHRXbU83VGJTdDU3eDZnS19LYmw4cTBSbHJyam04VE80?oc=5",
+    "https://www.invenglobal.com/articles/28306/fategrand-order-hosts-global-simultaneous-campaign-to-celebrate-100-million-downloads",
+    "https://www.hltv.org/news/45937/nbk-joins-phantom-as-head-coach",
+    "https://www.hltv.org/news/45932/iem-beijing-semi-finals-as-they-happened",
+    "https://www.hltv.org/news/45936/mouz-ease-past-betboom-into-beijing-final",
+    "https://www.hltv.org/news/45935/nin9-were-still-getting-used-to-each-other",
+    "https://www.hltv.org/news/45933/the-mongolz-beat-navi-to-secure-first-big-event-grand-final-appearance-in-14-months"
   ],
   "title_hashes": [
-    "eafe7040a6cbf1af4de9afdf7939239c",
-    "10bce42711d714631a0e541464b9278f",
-    "8d40ac76b4828668b32df66ac2304ff8",
-    "7036fc3b52baac7ac414507126a2f392",
-    "985f4e247e92f2eab67a38b86e1a8e74",
-    "82f7d4a6edcead7522b508fc0484ef55",
     "d3e5675262edb966193eea6f5e637ec5",
     "d3e5675262edb966193eea6f5e637ec5",
     "225d675229938894f2eaa4795408d754",
@@ -16001,7 +15995,13 @@
     "1a3c64624e61b11e16f2832f5a9f1380",
     "012ec12d11fa73865bf9707355420d18",
     "917e39e55688b0d3f11fce9680978b94",
-    "890bd92c419c6a691282a020d8e9aa94"
+    "890bd92c419c6a691282a020d8e9aa94",
+    "589696b1fbedc23e4640c44c6a7bce1f",
+    "e26aed7a439a8d400da87abc40e17897",
+    "419c4159b24d73f9d6437167d28587a8",
+    "1c8cba4f05fa467da43644a6a6108f53",
+    "0ae41cdf9aade059f52ef21f8fb7d173",
+    "5998ab3d95d94b3f835b1f1a931258cb"
   ],
   "transfers": {
     "pages": {
@@ -20710,226 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "2021 6 archive blue ceo change decision detailing executive february future games hengda japan kim launched nexon nov originally producer publisher released service talk today transfer under upcoming video yongha yostar",
-      "ts": 1793986939.9356594
-    },
-    {
-      "t": "3 6 8 ahead broadcast end event federation games hosted its kuro new november open preview soul special teases train update version waves wuthering year",
-      "ts": 1793986943.3789544
-    },
-    {
-      "t": "1 4 6 8th 9 anniversary ark broadcast byung content director following former friday goal held helm hosted hosts lee lost mark newly november player progression single special stream tak took who",
-      "ts": 1793986946.8146937
-    },
-    {
-      "t": "12 60 across adjusted all atlus cut cuts digital edition getting massive metaphor november platforms previou price refantazio regular standard starting will",
-      "ts": 1793986950.2028031
-    },
-    {
-      "t": "after alfajer ali beder emir ending european fnatic four has more organisation parted parts player spell than turkish valorant ways years",
-      "ts": 1793986953.667379
-    },
-    {
-      "t": "atlanta b1t back big counter enjoying event final first good lot navi playing semi since strike their time title when",
-      "ts": 1793986958.8796103
-    },
-    {
-      "t": "anlelele astralis expected lineup major play player register singapore sources team vietnamese",
-      "ts": 1793986962.4795165
-    },
-    {
-      "t": "another beijing betboom face final finals four furia made mouz over reach runners semi semis twc will",
-      "ts": 1793986966.0399923
-    },
-    {
-      "t": "add added anti create done events fines has more out pgl professional pulling romanian rulebook scene set teams their this withdrawal",
-      "ts": 1793986969.5411828
-    },
-    {
-      "t": "10 already also based book champions few gods invented its league legend lifted lol met mythology older ours own picks real runeterra shopping straight ten than that thousand went years you",
-      "ts": 1793986972.9842982
-    },
-    {
-      "t": "2026 9 already approaching best books continued eight fantasy football has its landscape midpoint nfl options rankings receiver season team updates week weeks wide your",
-      "ts": 1793986978.2321453
-    },
-    {
-      "t": "00 2026 22 6 best champions closes corp crush defending europe faces friday karmine last november quarterfinals standing t1 team tonight utc why will world worlds",
-      "ts": 1793986981.805796
-    },
-    {
-      "t": "10 2026 alongside americans ballot counter fame first four frod hall inducted kim ksharp nominee one rambo ronald strike three time will",
-      "ts": 1793986985.1994958
-    },
-    {
-      "t": "3water after cards club esports haodong lucas muggle parts rebuild seems titan",
-      "ts": 1793986988.6182773
-    },
-    {
-      "t": "2000 362 60 acquired appeared declined details down either first game have here more new one post report reveals shut shuttered since studios that third",
-      "ts": 1793986992.0309503
-    },
-    {
-      "t": "366 accidentally address appeared automata devs first fix has huge latest nier post requirement space temporary there they update while work workaround",
-      "ts": 1793986997.0792797
-    },
-    {
-      "t": "18 accounts after all appeared dying had has his league legends lol playing post streamer support suspended swedish thebausffs times twitch",
-      "ts": 1793987001.0277977
-    },
-    {
-      "t": "1s 6 air buy can customized ever extremely force gta has his limited might nike not post sale scott shoe sneakers that travis unveiled you",
-      "ts": 1793987004.404661
-    },
-    {
-      "t": "8217 about associated bethesda company former good has him howard like opened post reason reveals todd veteran what working",
-      "ts": 1793987007.839517
-    },
-    {
-      "t": "6 8217 auto black but cameo explained famous florida game grand gta kodak latest named post rapper screenshots seem suggest that theft true",
-      "ts": 1793987011.3237796
-    },
-    {
-      "t": "2027 8220 about applying ceo circuit critic criticize didn down esports even everything fallout founder future gaming get goossens insider liquid monetization partnership post speaks team tear valorant vct victor wouldn",
-      "ts": 1793987016.5836833
-    },
-    {
-      "t": "38 65 8217 after again aim best bioware ceo closure compensation creating creator criticized designer deus direct exec following game has known legendary million once publisher shutdown slams spector taking this time warren",
-      "ts": 1793987020.0446491
-    },
-    {
-      "t": "60 anno app company faster gamers giving improved insiders interface launches microsoft much navigation needed performance promising significantly smoother startup times upgrade windows xbox",
-      "ts": 1793987023.5005646
-    },
-    {
-      "t": "8217 absolutely adds apparently brutal combat combine dec elden gear happens has incredible insane looks metal modder over revengeance ring rising something sword swordplay talented top what when you",
-      "ts": 1793987026.8625712
-    },
-    {
-      "t": "290mb addressing among announced app biggest company complaints desktop discord excessive finally gamers guessed has its just money one ram rebuilding right rust slashing that then usage you",
-      "ts": 1793987030.2393064
-    },
-    {
-      "t": "again anti artificial being cam campaigns ceo claiming claims controversy driven epic fueling games has hate influence intelligence much once online opposition organized over paid sparked sweeney that this tim time",
-      "ts": 1793987035.4210067
-    },
-    {
-      "t": "1 18 2026 4 6 activision confirmed gear hajin has launcher maps midnight modern modes moved new not november onto perks season three two warfare warzone what zipline zodiac",
-      "ts": 1793987039.0597694
-    },
-    {
-      "t": "2026 against becoming beijing betboom both continuing faced finals form furia good iem matches navi needed parivision progress run semi swiftly teams through what",
-      "ts": 1793987042.4864466
-    },
-    {
-      "t": "8 8217 become both central crosshair depended falcons have inability increasingly kyousuke m0nesy much perform pillars playoffs problem russian stars team wins yet",
-      "ts": 1793987045.8329356
-    },
-    {
-      "t": "30 38 5 after below blue close company cowboys dallas esports falls family fanengine faze fund gamesquare holdings holds investment issued its jones longer owner owns silver that vehicle ventures",
-      "ts": 1793987049.2255607
-    },
-    {
-      "t": "action barry big but call captain currently decision duty games has hasn hollywood hoping land live made movie now play played price role screen sloane too wants years yet",
-      "ts": 1793987054.3848736
-    },
-    {
-      "t": "8217 8230 after all backers betfred britain british classics ends five flat gambling higher how leaves looking most move new post prestigious races rises shows sponsorship tax taxes",
-      "ts": 1793987057.8726127
-    },
-    {
-      "t": "business can creative cultural dare decision election elections even ignore industry irrelevant largely logical look ndash opinion perfectly result say seismic shifts signal that there truly way which you",
-      "ts": 1793987061.2661638
-    },
-    {
-      "t": "actors aftra agreement allowing creators demos development devs earlier enabling funding game has hire introduced launches more new pitches pre professional read sag slices use vertical video",
-      "ts": 1793987064.7016845
-    },
-    {
-      "t": "appoints can ceo cfo comings compile difficult games goings halldórsdóttir industry jobs keeping kröyer nordisk november roundup semi stefanía them track various which why ásgeir",
-      "ts": 1793987068.0756705
-    },
-    {
-      "t": "2026 331 6 business driven exceed exceeded expectations have income its machines more operating pachinko pachislot q2 quarter read results second sega surge",
-      "ts": 1793987073.3713806
-    },
-    {
-      "t": "16 2026 ahli esports market nbsp november prediction robinhood xcity",
-      "ts": 1793987076.8017213
-    },
-    {
-      "t": "2004 adds azeroth blizzard but cities dodged empty feel fix forever ghost has its launch launched now players plus post queues say short towns tweaking warcraft what world wow",
-      "ts": 1793987080.172733
-    },
-    {
-      "t": "038 1 2027 21 cancelled cancels clank down free has its leaves may mobile november play post ranger ratchet rumble shooter shuts sony stores",
-      "ts": 1793987083.5115855
-    },
-    {
-      "t": "000 2027 30 adds appeare costs cs2 events fine its pgl plus post replacement rulebook teams that travel will withdraw withdrawing",
-      "ts": 1793987086.9206772
-    },
-    {
-      "t": "2026 8217 advance back beijing betboom clashes ensured exciting finals following giving has heading iem its made navi next quarterfinals reached recap reverse semi semifinals stage sweep teams that they two will",
-      "ts": 1793987092.1044655
-    },
-    {
-      "t": "30th camp celebration chartres collection contents dates day early fans fnac french outside pokémon post premium prices queued release ultra",
-      "ts": 1793987095.4774225
-    },
-    {
-      "t": "2 2026 22 adding all aspects changed completely cs2 drop dust game implementing major map mirage mode new out pick rates reintroducing reloads rolled rush september silent some system that update valve weapons",
-      "ts": 1793987098.9333575
-    },
-    {
-      "t": "bgmi building but finger fingers has his improve jonathan layout memory moved muscle play post says shotgun switches take three time two will",
-      "ts": 1793987102.541673
-    },
-    {
-      "t": "12 4 activision after apologizes but crowd crush footage game itaewon korea matter modern moves not november post real regulator remove says settled trim unimpressed warfare will",
-      "ts": 1793987105.8857205
-    },
-    {
-      "t": "agreement announced blast championships company competitive daigon esports game has independent international leagues partners partnership platform production runs school schools sponsor that under video world",
-      "ts": 1793987111.308507
-    },
-    {
-      "t": "2026 broadcast commercial community compliance content cs2 establishing framework guidelines has independent its major non official operator pgl released sets singapore strict tournament",
-      "ts": 1793987114.778625
-    },
-    {
-      "t": "38 announced appointed appoints brandes company distribution efg esl esports faceit georg group has its linkedin media move new post president production rights saying through vice",
-      "ts": 1793987118.1550224
-    },
-    {
-      "t": "2 2026 24 about been change companies counter cs2 esports force gambling given have hours logos major names pgl prop rebrand reportedly rules singapore sponsored stickers strike teams their told",
-      "ts": 1793987121.5900311
-    },
-    {
-      "t": "14 16 25 36 62 7 ancient beat beijing betboom comeback finally first five furia goes holding iem meetings nuke off overtime reach round series six time went win zorte",
-      "ts": 1793987124.9518657
-    },
-    {
-      "t": "000 2027 30 adds costs event fine fixed main paying pgl reimbursing replacement rulebook team teams that top withdraw withdrawals",
-      "ts": 1793987130.233762
-    },
-    {
-      "t": "2027 dambi gen mako masters mvp sign veteran",
-      "ts": 1793987133.645437
-    },
-    {
-      "t": "0 1 10 13 18 2 3 4 7 after ancient before beijing carries down iem inferno into leading lost mirage mongolz navi own parivision past pick semi sent their them w0nderful",
-      "ts": 1793987137.0462074
-    },
-    {
-      "t": "2027 esports fut join nbsp set sheep wo0t",
-      "ts": 1793987140.465351
-    },
-    {
-      "t": "brokenblade esports exploring future g2 nbsp options sheep sources uncertain",
-      "ts": 1793987143.8596132
-    },
-    {
       "t": "100 12 12th 3 announced brings bulkhead first fps have lands launch map new november person player publisher season shooter steam tactical team17 that update urban wardogs will",
       "ts": 1794003883.1325183
     },
@@ -21132,6 +20912,26 @@
     {
       "t": "2027 agreement canezerra esports nbsp reaches sentinels sheep sources verbal",
       "ts": 1794041181.5066478
+    },
+    {
+      "t": "100 7 aniplex broadcast campaign celebrate cumulative downloads fate global grand hosted hosts million nov order reaching simultaneous special today worldwide",
+      "ts": 1794064345.5381517
+    },
+    {
+      "t": "coach counter first head joins legend nbk phantom role scene strike takes time",
+      "ts": 1794064348.9836464
+    },
+    {
+      "t": "beijing betboom breeze drop ease final into limp map mouz past they yet",
+      "ts": 1794064352.5176423
+    },
+    {
+      "t": "calling contribution despite down each earlier getting his mongolz nin9 other played praise rifler still techno used week",
+      "ts": 1794064355.9971302
+    },
+    {
+      "t": "14 2 appearance beat big chance event fight final first fissure get grand last mongolians mongolz months navi playground secure september since their title will",
+      "ts": 1794064359.4548342
     }
   ]
 }
