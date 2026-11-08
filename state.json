@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFlIcy1oR3hWZGxJY01DNldEamdURk5oX1dJc2hDSndPUlpJYzd4Q0F6ZXJteFFoUDBGaF82MHE0bXdyNnhPZUFVMGh2YWJxU0hlTG1IcXRxZ1RwNE9RUjAzR3BERmZEVGNnY1VvNGJuUWQtRUhaRzFCcWtpMjFUM0JWakRYUXVmZW9SR3p0VGVEY1k?oc=5",
-    "https://www.invenglobal.com/articles/27318/the-era-of-zerg-continues-soulkey-wins-5th-career-title",
-    "https://www.invenglobal.com/articles/27317/asl-reaches-season-22-keeping-starcraft-1-esports-alive-out-of-a-sense-of-duty",
-    "https://www.invenglobal.com/articles/27316/yoo-young-jin-seeking-first-title-takes-2-1-lead-over-iron-wall-kim-min-chul",
-    "https://www.hltv.org/news/45740/pgl-adjusts-2028-calendar",
     "https://thegamehaus.com/deadlock/deadlock-violet-abilities-breakdown-first-look/2026/10/16/",
     "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-tes-going-into-week-6/2026/10/16/",
     "https://www.dexerto.com/overwatch/team-liquid-drops-overwatch-pro-after-using-a-racial-slur-3336237/",
@@ -7999,14 +7994,14 @@
     "https://www.dbltap.com/news/europa-universalis-5-pc-release-times?utm_source=RSS",
     "https://insider-gaming.com/gta-6-55-trophies-achievements-mythic-platinum/",
     "https://insider-gaming.com/roblox-roll-fisherman-codes/",
-    "https://insider-gaming.com/roblox-build-kill-zombies-codes/"
+    "https://insider-gaming.com/roblox-build-kill-zombies-codes/",
+    "https://www.vlr.gg/786658/brothers-for-meteor-and-tenten-team-up-on-qt-dig",
+    "https://www.vlr.gg/786622/loud-bids-farewell-to-tkzin",
+    "https://www.vlr.gg/786620/shopify-rebellion-black-unveils-new-roster",
+    "https://www.vlr.gg/786615/pcific-releases-full-roster",
+    "https://www.vlr.gg/786593/cloud9-adds-alym-derrek-nightz-to-complete-2027-roster"
   ],
   "title_hashes": [
-    "8470ee45c6becde1dc364cb66655bdd3",
-    "625d69d053916d80fff62985adc219cb",
-    "a1e14ad5d54252fb8f6e442d32a90246",
-    "305560351aea5101a27a2b6e283aa968",
-    "db7333aa0da941b32cfd57a4521626a3",
     "8434468c9922557d39e542551c7c1477",
     "3c44f269f46b461e60560a87a243f34a",
     "70b9bf7ba02f162f57ba688e4ab49ede",
@@ -16001,7 +15996,12 @@
     "039883675b0db4cd3960e9460c705ab3",
     "b8b9434c7ae6188f696c4a78ef725618",
     "a09a25be182deb3da749be608b2c32ba",
-    "b283feaabb6fe4c4fe710cac931a768f"
+    "b283feaabb6fe4c4fe710cac931a768f",
+    "a95d51d858b26d6405c2fafa213ea318",
+    "d0559cc92c9f949bf2391e8289544790",
+    "5af210a6d91341dc4765fa659e4e6584",
+    "c4de04a1d2b3c84535dbc5494fd10f9e",
+    "eb884622fd4303c004d6d20f85b9697f"
   ],
   "transfers": {
     "pages": {
@@ -21008,6 +21008,26 @@
     {
       "t": "2026 appeared build cash codes currency event free get kill like monthly november parts post redeem rewards special these use vehicle weapons zombies",
       "ts": 1794127206.5671551
+    },
+    {
+      "t": "brothers dig kim meteor team tenten",
+      "ts": 1794127212.154967
+    },
+    {
+      "t": "bids duelist farewell goodbye loud says their tkzin",
+      "ts": 1794127215.6710196
+    },
+    {
+      "t": "2027 americas black core m80 new open picks plus qualifier rebellion roster shopify smoke unveils vct zander",
+      "ts": 1794127219.0791235
+    },
+    {
+      "t": "ahead clean emea full has kickoff outfit pcific qualifiers releases roster slate turkish türkiye",
+      "ts": 1794127222.4694939
+    },
+    {
+      "t": "2027 adds ahead alym c9 cloud9 complete completes derrek its nightz roster season",
+      "ts": 1794127225.9822493
     }
   ]
 }
