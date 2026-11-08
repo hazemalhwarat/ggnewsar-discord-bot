@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kaTRGcmdjNWs2cTl4OUNiTjk3cnBhMWdXZThRMDBJLVA2aDBIREhCUy1IVmRpYk5taFdwNUx1TGJsYWdUSmJBNHYtZk5XaVdSY0RNbnBSdy1HLUlLU1VUaEt6aktqWFc4?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWm10cl81VDJBRFJEQk9UeEI3eDJtT195bHZmX2c5YmgzSEhCajBnMnQ4dWZ1cUxLaUhrd0hUWmM3dXhIU21tajBEOHpReWRwTzE4SnVPUHVESXJHTHlyd2ZoRjgtSDdtYVBOOGVlWDcwd3EyQlNQaWhBTWhZdEJqbU9sX21rcEF5MUJMN0JEZmU3YTBLa3VGVg?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdTlnbkVwTUExN2RfNzZ4eTROVXZENXJTZUdEcl9SUjdzQ2VDZ2lpdE5UelM1WmRCM2NidTdPOHNvanVxNXVYV1hhYktDckQwSWlYeGNGXzFMMW9kUDRGR1NLVkd5NjVXbWM3X0VYZ3RRN05PUXdwdzZDUFZGMVp3QVFUUnNLbFFJdUtB?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxORUNJQkJyRE9IN3BMOExsREU4UHQ3N2FtRjFZVE5PUHVGMXdvVkloQnBkZWFTSHRJQnZQaWZ6cU5jMTRqb1MyYlNaZkxPLVI0OFg4V0Zkb1g0RmJZbDN2Umg1YU5DS2tNN0Z4SlNaWmY0SDVrVThEanozOUNVV0NSeQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMll4N3FWZGNsTFMtLUlTOEthYmVIOWNwVl8tYTJyeGlwVndwZTlnSmdPOWducElONEdDT1FHN3l1S1ZUaDQ0ZVJGWnk3WjM1RzVKUmtxR2d1WUVoM096azlodTFuN3A2NzZJR0FJaTBUZjF3aXNmemY2a2FHQnFCcjBnbGRTT0daZ0E?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMV96TDBsNVh1QXRtTzd1bXc3cTctYjZLTUNvaVQwUGJ3V244ZXd6cjZhUzJCZmwyTndfa3NJZ2g2YklDMF82QUFqZl9ZcTV6TEJ2azVjaEY1M003bWUtQmhERkdJX3cxMm8xT0NuZm9OMWlXdVJKTnQ5T0k0NzdIemZGZk9Rc1l4TmlJenItbWxKRmpPLVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMU5zRjZqZjJTVk1yT2gwVUU5NzB6eHpSMFFNbWhtZ0ZwRDlRLUFEZVpFdlotdlhWS2swb3ZaYXp4eWUtT0ZWT2dTZDNmZHJGX1h4QUY5dk1kT29HajVISXZpb2I3MEVVSEQ3NTlORk1qMUc0YTIxdnN0NUpyWHptQ2Z2VkVLckp3WFBwSEc2UE9WQ2l2RFhkSXEzX3ZoWkRYOFhBMHpYbjEwcUVQRFFOT0g5VE9INE40RWc?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS0p2MExwWktOc1dacDd2bGFtZ05Cekw1S3V5cV9xNExhWk5WNTFhUjVLTGh6aWd0c2RFMjNyakMxRHk3ald4MllvRXhQUEx6RVY0S1A4Uk1OcUZXbVJiRG1zQzFMZDRxYXpTbVNIX3RQLXJsOU5Sb1pQMTJESUtNTTFsUVlMQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWFPUmRxOFFNMnNMdk1BTzEyWkhpeEpoWkxpY0hHMTVqTHlHaG5HWEl5RTBZbExtdU5YRDJSMlJjdlJJeDVoemZ6Z2Z2RHRZbXBENE1TVjNXZUV2U1AyeGM2WW5UeXh5eGw1SHVWUmFwQlM3OWxOMlZzX3p6UXkwd3c5R3FUVllSeE02NFZKRzJENm9MNzdSZ256QWRyamJv?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqVzJhVGlQZi1nbFd5NUhSWEFwQlp6VEZQVm9qdVg1WS10UUl2X2tsV2l6MndCUzAtZGVBalpDYTFMMVIxdEdlcnpSaEUyaGROXy1sVEY4WmJXdURFWEthSEQ0SDVRNkdKa3J3RmtRTlREV1lQNkxqemRFeWV6ZTg?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRUhKN3dfWDQ0RTlhbWFXMjJ6bGRDTzROX3hwS3I0ODNpazdaUE5KcGd0Q3Y3RzN3aTZOMms2YzZ1aFdxZnU1Q082ejd0QndPM2xPVVR4ZUJIX3Nvck1iQVQweG9KMWJKS3JHT21ISGZMajhXVmx3SmZWTEthUEN2Z3J4UWFkWUttYmQwYk55ZTVMU21BMElLeDRWNWlORjRWSVdWNjcyNkJ0NjQ4Q3UybEIyTQ?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmxuUmhHODdBZzk0X3VHM1BLeHlWZGxwTWFPMnBLS3F5R0x2bGpEaDJzVEJqc1lCQ2pKTjdrb01ocDdBazVJdTR0NVNfenJGc0FIRTF3UFdqa2g3QXl1NUtpaENSc3ZMUDItZFJZU1FCU3AyWTF1b3cwNzFDWkRGMUI1aFFvazkzYVhJSEtmaWpzT2RkczlJ?oc=5",
@@ -7999,18 +7990,18 @@
     "https://www.dexerto.com/esports/thai-esports-player-and-her-boyfriend-arrested-for-cheating-after-he-played-instead-3318750/",
     "https://www.hotspawn.com/counter-strike/news/mouz-win-iem-beijing-2026",
     "https://theloadout.com/g2-part-ways-with-league-of-legends-coach-perkz-who-then-deletes-his-x-account",
-    "https://gameriv.com/the-legend-of-zelda-ocarina-of-time-all-100-gold-skulltula-locations/"
+    "https://gameriv.com/the-legend-of-zelda-ocarina-of-time-all-100-gold-skulltula-locations/",
+    "https://gameriv.com/apex-legends-black-friday-sale-2026-leaked/",
+    "https://www.nerfplz.com/2026/11/lol-boots-guide-every-pair-ranked-and.html",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGdtMEhKTlVYeWlsRmVibUJWdEktaGczamhIVTVPYU5Ea01hLWpMRG81X2s4YTZrT01PVUg5bG9MZHBMZjFsS0VrdC1lOVBuREk4eTVhcFlaV2ljNzVMclpBSHJZcWc1aVh3UkxLOTZGQThpMkphRTByTlpoVkhSODctdXlRRU11MmlB?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjX3dMLWw3Wk5YMWF4R0hNUHU1eHd1UlRPYV8xcTVoZVc2cWFldHNHY2cyb3JKSXRMbUFJWGNXLUVDTHhHRFB2Vlk3ZTdiWVlCN0Q4?oc=5",
+    "https://news.google.com/rss/articles/CBMinwJBVV95cUxPU0w1VGF6VzNyaHhBQlJHeFR4SWlrYkczYVlLV1pucEo3N2haSGJEUDFTZU91OGVaMjdTV2ZlVzE3aGRQZ05NRG9Cd1MweEM3WVg1Zk50NkxjSzZCM0JaN2R6eUV6dHdhTXJHUFhWRVowZU5qa1VNcXIxSDB5YWZfSUhJRHZzU1E4VllvQlBla2NYNXBzbS1kMmF5SXpwUEFwYVdMUjZnd3BTSFJzbmlaMXdVMnNkRkNCd3lwTU5NUVhjOHNydkxlOGxveGxTU19iOFhlaTNjdmRBRXhKYzBNRmcxTXY4WFVfVGpEZmpwN05SOGpmaXlMY3E3NmJjS1d3RjNsNzlIdHdRa0xCejRLTmpwOFVfbm5XRFNCTjFMa9IBpAJBVV95cUxQT2RSRTdfTEpEMnIzUmE3Z3pSY3FNdDRpTlNHTEdEZFBRYXZnWnlQbEgyQmJKTjItQThaTlpzMjNnSTlEaTd4YnJZRGxUNnhjXzlra2s4VFVUSFBlVzA0OUVXVkRDZEtkLUE0bHBRTml3YW5SRFZHWmpWODU0RWV4NVgxV0ExbG9CNjcxQnFEdGZwNnNIR08zSDRQczBQdkxwcV96ekNpQTVYZXBYRl9WVjBxb3BzOEZ4aU5sajZYMG9qT3RRcE9CLWdqN1ZFQVlDWXZ5OTg4ZnJqU1NQcFFuSlJDUS11MkFObnI3RHVWSjNPLU5YTjUxRVlMUUVZRjFJdWIwUkxjN3d5V1Z3eUZoOGx1SjBhMG9yWmpva2xPTmhhVVNR?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaHh3UEZwd0lwajJreDVBbFhXWjl4RXU2YUczQzJYLUNpQ2NtMHVsOTh1RENmdWpMVFJ0SGFUQUhKNUFnQkRCNDEyOVBjQXNMc01XWGVUcXY4WWpURXNmNDFkLVpiOVNIV0plX3cwVnJsYkJEb056WHl5Z0xsaGphN2p6YlRLeFJSRmdkb0liOEhpaUoxTG54NExVMldGZThjSkxncFJ3Nzl4R0lzV3k0TXNjQUVWeWVxU0RIaE42Y1dVN1R2VVVkYUtDSkxUUEtEZnc?oc=5",
+    "https://www.talkesport.com/news/microsoft-patent-ai-alter-speech-lip-movements-live-video/",
+    "https://www.talkesport.com/news/valorant/team-bonk-disqualified-cheating-vct-emea-kickoff-europe-qualifier/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/indian-esports-disputes-livestream-editorial/"
   ],
   "title_hashes": [
-    "09b0eab971f1d9b67d6698656136568c",
-    "2f8a6bf31f3bd67bd2d9720c58b19c9a",
-    "e9fdbd91e04a2ef6547975549dda425e",
-    "192ee6a279cdec34d0f0b46159e3109e",
-    "bfb1b03d5ce657d4b98510ac87fa4bf7",
-    "7f86c153faff1fc62ec6ce960962b1e6",
-    "c0a4b5b65af29649d838b959ece9f366",
-    "2bd68b71e1b87e81a577fce596373eb6",
-    "c0fa3b042b54eb2777f9f59313e8b2b8",
     "9261a28ff8742f307accc13f375b9836",
     "27ee5bb0b44cb07b78dbb7c6efdcbed1",
     "8b1642ea9adf6dcf6b0e5b05f712fecb",
@@ -16001,7 +15992,16 @@
     "42f50fc95e15c3d2533eed865063683b",
     "dfdf191f9e834a57249e79c6ec3aec7a",
     "41da5a6a54ef95eb48dace8db60e227f",
-    "28e25d7c32020459de6c9d37b3edf2a3"
+    "28e25d7c32020459de6c9d37b3edf2a3",
+    "e547f12a39e9ff425a160a707ef53aa4",
+    "298bf0a46236ac0858b0b3c617fb80d4",
+    "d4941dce132b2607e706499c5a55c4db",
+    "8df358eebbbb64bf19235a902db73505",
+    "bcc5e3e4fc101bff85199330aa9cb30a",
+    "421c4850052ec87ecb88837a985b25bb",
+    "a8a70b826e2694452dac01b42fc41302",
+    "19bf4271e1a0f003892e8147921a9dec",
+    "33a6119aee05080f700687928b616e81"
   ],
   "transfers": {
     "pages": {
@@ -20896,6 +20896,26 @@
     {
       "t": "100 aiming all biggest challenges completion every finding gold golden hyrul legend locations ocarina one players remake rewards scattered skulltula spiders these throughout time zelda",
       "ts": 1794152252.292218
+    },
+    {
+      "t": "150 2 2026 50 able according apex black bundle discounts friday has heirloom heirlooms leak leaked legends major off packs players purchase reportedly revealing sale shards special two upcoming will",
+      "ts": 1794152257.1219242
+    },
+    {
+      "t": "about actually all boo boots buy each every game guide how lol most now one pair pairs players ranked really same seven slot them thinking three tier upgrades what when without work",
+      "ts": 1794152260.75154
+    },
+    {
+      "t": "change could describes each edits lip live microsoft movements new patent people post redraws say swaps tailored that use video viewer what words",
+      "ts": 1794152264.4175882
+    },
+    {
+      "t": "1 bonk cheati cheating day disqualified disqualifies emea europe has its kickoff ordered orders players post qualifier rare replays riot same software suspended team vct",
+      "ts": 1794152267.8437192
+    },
+    {
+      "t": "101 change disputes esports fans fights fir first has indian its keeps kronten livestream minute nobody post scene seen settles stream taking talkesport that trial view what why youtube",
+      "ts": 1794152271.3099551
     }
   ]
 }
