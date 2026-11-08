@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27319/five-time-champion-kim-min-chul-the-player-im-most-wary-of-is-jjapjae-park-sang-hyeon",
-    "https://www.invenglobal.com/articles/27318/the-era-of-zerg-continues-kim-min-chul-claims-5th-career-title",
-    "https://insider-gaming.com/modern-warfare-4-emerges-best-steam-rating-decade/",
-    "https://insider-gaming.com/wardogs-wipe-issues-bring-season-3-earlier/",
-    "https://esportsinsider.com/2026/10/2xplayn-lifetime-ban",
     "https://www.hltv.org/news/45742/fissure-playground-4-to-take-place-in-georgia",
     "https://www.hltv.org/news/45741/boombl4-this-tournament-were-playing-better-and-i-feel-the-progress",
     "https://blog.grid.gg/three-major-events-in-chengdu-one-unified-data-powerhouse-behind-721bd9e431af?source=rss----1134b813b9b---4",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTW9UeHQtdWw4bmMtbmJkUmtWTGtna1lzSDVpVDllVVZlckw2ZU1KRS1POThzVVZ1VGU2TlYzLXRXNzU1YnlUeWg5bVAtV3RYeE9pUUFXbHZlV05hZ01yWG4zOGwzeDZQVnJEdF9nbjZDajcxa2c0clhGdUZna1VzQ2dOMXdOcDZnTy1QY094VlFZNDdlZHZqUDNZX3dvS1Ztc0Jtb0VEN3RLOGt5cFE?oc=5",
     "https://pley.gg/valorant/zellsis-returns-to-sentinels-as-sixth-man-for-a-second-time/",
     "https://pley.gg/valorant/xavi8k-set-to-lead-xi-lai-gaming-in-2027-sheep-esports-reports/",
-    "https://pley.gg/cs2/how-xertion-took-mouz-from-11th-to-the-top-of-the-vrs/"
+    "https://pley.gg/cs2/how-xertion-took-mouz-from-11th-to-the-top-of-the-vrs/",
+    "https://pley.gg/cs2/mouz-beat-mongolz-3-0-to-win-iem-beijing-without-losing-a-map/",
+    "https://pley.gg/valorant/cloud9-finish-their-rebuild-with-alym-derrek-and-nightz/",
+    "https://pley.gg/valorant/tkzin-set-to-stay-at-loud-after-farewell-post-sheep-esports-reports/",
+    "https://pley.gg/cs2/9z-bench-meyern-and-bring-in-history-for-the-singapore-major/",
+    "https://pley.gg/cs2/faceit-let-players-vote-on-scrapping-the-knife-round/"
   ],
   "title_hashes": [
-    "7677180edb82dc90319377c98403c6a8",
-    "a4344b13b5d2503b008e5714849b26fb",
-    "707a10ca907ba6cadaf7daffdaabcf9e",
-    "c2758177ac4ae642c674085ff378fa07",
-    "e25eeff4de1c4ce985f33952f935bdc9",
     "9213789256406feb0b799a191abc5caa",
     "ca06bcdff3ff938ea58f4d3d4e790c37",
     "955fa4956866c1f99508fb140169633e",
@@ -16001,7 +15996,12 @@
     "caa4463e253a53646e964fb3bd249441",
     "49deac9766ca1d83720fc2754ef4da58",
     "0d3cb40abead83e5ffaef5d9dc6fd46f",
-    "50a3191a40756e14290334338274ec2f"
+    "50a3191a40756e14290334338274ec2f",
+    "62b33aa2177072c298722bc8740d3e3a",
+    "49a33f3d313fd6e19d04686624884cbc",
+    "b28cfe1dedb9a6e9b5b307f3849ef4fb",
+    "33afd20f4241c1fdc8da1b47077ca019",
+    "4de1573ac25acb0d2a36f8d9d788e4b9"
   ],
   "transfers": {
     "pages": {
@@ -20956,6 +20956,26 @@
     {
       "t": "11th 18 april became climbed first have his how igl maps more mouz numbers own seen since took top vrs won xertion",
       "ts": 1794152309.0527775
+    },
+    {
+      "t": "0 13 2026 3 4 5 6 beat beijing dropping dust2 iem inferno losing map mirage mongolz mouz mvp named win without xertion",
+      "ts": 1794152313.884658
+    },
+    {
+      "t": "2027 alongside alym cloud9 completed derrek finish fireballops glyph have nightz rebuild roster their valorant",
+      "ts": 1794152317.3835728
+    },
+    {
+      "t": "after esports farewell loud post reports set sheep stay tkzin",
+      "ts": 1794152320.8347495
+    },
+    {
+      "t": "9z awper bench benched brazilian bring have history major meyern pgl play singapore stand will",
+      "ts": 1794152324.3021717
+    },
+    {
+      "t": "faceit knife let players round scrapping vote",
+      "ts": 1794152327.767329
     }
   ]
 }
