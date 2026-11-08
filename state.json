@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.dexerto.com/apex-legends/apex-legends-dev-built-his-mom-a-memorial-inside-the-game-after-she-died-3390632/",
-    "https://www.dexerto.com/apex-legends/apex-legends-x-cyberpunk-collab-turns-players-into-cyberpsychos-if-they-abuse-new-implants-3383950/",
-    "https://www.dexerto.com/apex-legends/apex-legends-player-hits-masters-rank-while-playing-on-a-unicycle-3360545/",
-    "https://www.dexerto.com/apex-legends/apex-legends-season-29-patch-notes-3358938/",
-    "https://www.dexerto.com/apex-legends/apex-legends-x-gundam-event-release-date-skins-rewards-3328213/",
-    "https://www.dexerto.com/apex-legends/apex-legends-season-28-patch-notes-3313418/",
     "https://www.dexerto.com/apex-legends/hatsune-miku-makes-surprise-appearance-at-apex-legends-global-series-finals-3306259/",
     "https://www.dexerto.com/apex-legends/apex-legends-calls-anti-cheat-a-cat-and-mouse-game-after-security-incident-3303123/",
     "https://www.dexerto.com/gaming/remembering-vince-zampella-a-video-game-titan-3297256/",
@@ -7999,15 +7993,15 @@
     "https://www.dbltap.com/news/vampire-survivors-co-op-mode-balatro-crossover?utm_source=RSS",
     "https://www.dbltap.com/guides/ck3-all-under-heaven-how-to-become-shogun-by-having-lots-of-babies?utm_source=RSS",
     "https://www.dexerto.com/valorant/valorant-team-disqualified-for-cheating-after-knocking-out-masters-champion-derke-3425832/",
-    "https://gameriv.com/riot-disqualifies-bonk-for-cheating-in-vct-emea-2027-qualifier/"
+    "https://gameriv.com/riot-disqualifies-bonk-for-cheating-in-vct-emea-2027-qualifier/",
+    "https://www.hotspawn.com/valorant/news/vct-emea-open-qualifiers-bonk",
+    "https://www.talkesport.com/news/gta-6-trophies-achievements-list/",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GUkp5RjlhY01pNzNpN0FpS0tBaDhEXzdMU2F0Qk96aWkwZXRKYzc4dC1kT0Z2ZmJac0xROEtIN2h5ekV1M2FKNmcyWlU1RnA2RUpzN3BydmotbWhxNGQ2U3NQclNqalAxb3c?oc=5",
+    "https://pley.gg/valorant/riot-throws-bonk-out-of-kickoff-qualifier-over-cheating-software/",
+    "https://pley.gg/cs2/bad-news-eagles-tease-a-return-to-counter-strike/",
+    "https://pley.gg/valorant/wo0t-returns-to-turkey-with-fut-esports/"
   ],
   "title_hashes": [
-    "6f43d4b307046cfead93073181e56d49",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "508c75c8507a2ae5223dfd2faeb98122",
-    "4b91df843ce9e86f9dfbac601714f400",
-    "f21c6cbb895cee1d4579511b2efe4624",
-    "5ed14940bcc24e192cc418c64aba4b70",
     "a3609c8d8992e404f8ed4c768271a717",
     "35fcfa9f98ba5816e704a14032ddb73b",
     "10eff48071b6acd1f96efb181deb029b",
@@ -16001,7 +15995,13 @@
     "b5064eb68e60550aee2ac8a154e956c5",
     "27b1549334644cfd219a599e5ba8028d",
     "8fcc6889f41400cc583baebc2eb0eef9",
-    "7636b031819de0083b5ee224f0f74fa8"
+    "7636b031819de0083b5ee224f0f74fa8",
+    "c39c31f5f027f07f4a6ca04f1fff8485",
+    "e82df689883e0bd03ce049b781a68d8b",
+    "a31766084133beedeefacf37c151b714",
+    "f0c15b30a08d6c052ef96314303e24c4",
+    "a7577f82f6825169fc8411f1b3bc7a80",
+    "64843987ac0fe0fad2e94632e4c7236c"
   ],
   "transfers": {
     "pages": {
@@ -20988,6 +20988,26 @@
     {
       "t": "1 2027 after been bonk cheating confirmed disqualified disqualifies emea europe events games has its kickoff one participants qualifier riot shocking team that turn unauthoriz using valorant vct",
       "ts": 1794167972.4016988
+    },
+    {
+      "t": "after announced aurora bans beating been bonk cheating derke detection developer disqualified eliminated emea following gam games gaming had has just open qualifier qualifiers riot software team that unauthorised vct",
+      "ts": 1794167978.467741
+    },
+    {
+      "t": "55 6 achievements but confirmed expect gta has here hidden how list many not post released reportedly rockstar still there trophies what when why",
+      "ts": 1794167981.939684
+    },
+    {
+      "t": "1 after bonk cheating confirming disqualified emea europe followed games has kickoff matches out over participant qualifier replaying riot software that throws used vct",
+      "ts": 1794167985.3180723
+    },
+    {
+      "t": "after bad coming counter disbanded eagles have kosovar more news post return soon strike team tease teased than year",
+      "ts": 1794167988.7099614
+    },
+    {
+      "t": "2027 benjyfishy esports fut have heretics him leaving only returns reuniting riens signed team turkey wo0t yetujey",
+      "ts": 1794167992.2002432
     }
   ]
 }
