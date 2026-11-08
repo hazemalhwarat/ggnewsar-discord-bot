@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.dbltap.com/news/japan-patent-office-rejects-nintendo-monster-capturing-patent?utm_source=RSS",
-    "https://www.dbltap.com/news/build-a-rocket-boy-wants-to-save-mindseye-with-ugc-tools?utm_source=RSS",
-    "https://www.dbltap.com/news/hsr-3-7-new-planar-ornament-set-is-a-win-for-archer-imbibitor-lunae-qingque?utm_source=RSS",
-    "https://www.dbltap.com/news/pokemon-tcg-pocket-promo-card-reissue-event?utm_source=RSS",
-    "https://www.dbltap.com/guides/pokemon-tcg-pocket-mega-rising-card-list?utm_source=RSS",
-    "https://www.dbltap.com/guide/outer-worlds-2-best-build?utm_source=RSS",
-    "https://www.dbltap.com/guide/outer-worlds-2-change-appearance-hide-helmet?utm_source=RSS",
-    "https://www.dbltap.com/news/pioneers-of-pagonia-has-released-its-in-house-map-making-tools-for-free?utm_source=RSS",
     "https://www.dbltap.com/guides/outer-worlds-2-pursuit-purloined-propaganda-locations?utm_source=RSS",
     "https://www.dbltap.com/news/mount-and-blade-2-bannerlord-war-sails-release-date-pc-ps5-and-xbox?utm_source=RSS",
     "https://www.dbltap.com/news/animal-crossing-new-horizons-release-date-nintendo-switch-2?utm_source=RSS",
@@ -7999,16 +7991,17 @@
     "https://www.esports.net/news/gaming/gen-g-sweep-ig-3-0-to-reach-first-worlds-final-since-2017-as-samsung-galaxy/",
     "https://www.hotspawn.com/league-of-legends/news/blg-vs-t1-worlds-2026-preview",
     "https://www.talkesport.com/news/gaming/call-of-duty-warzone-nintendo-switch-2-free/",
-    "https://www.talkesport.com/news/fortnite/fortnite-pirate-shop-token-odds-release-the-odds/"
+    "https://www.talkesport.com/news/fortnite/fortnite-pirate-shop-token-odds-release-the-odds/",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KVDZVRXdUX08yWVpTVjdoT3dLSjBFdVE5V0Joc2l4VXNpT3VxOG15Tl93bUVhMUFxekUwcEJ4Z1N2Q2Y3dHdwY0lOMHBEdVo4VUtvRGNfaWdMWmJWLTI3MWZEcXlSOV8tbzZhTWlGMFU?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOWtVVmlmYnBjZ2hMUWlWbVBNYTFQUENVNEZrMEp4YXM4NUZ2bmo3dHBibHZ5T1hWLU82S1RXalNmWWd5d0NhZVQyZ0podVBRYlZnMTVoWExVTDlCNFJ2ZG1oYUFWNFl1UjlGa2E0b2JwTWJELXprMnNRRDJGemJjaC1OQThGSDdmdFhsS1JaZTVjZmdQU0RRY3ZhdFA4aUJhX3plVE5Nd3kxNWFLOHhQay01eXRrSk8yZTh4d3p3WWJqLVJXSUhDd1oycFU?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUjdESmJnRzRYUXA1ZDNWcDEwNWVZRHNDaFhmVHZkNlZ5akZJWmVpUEJ4VTFHdktOZG1vSHU0ckFyVjF2M3I0TVkwZ21lNVdBdTNFRTI1bWFkQzNnUVFJbEE0QmlvMXp0ajc2aENfcHZEYXNLTk5jRnFUc3RhTkxhOEhQaXdzRVhlWnNDRkM4NFhJYlhIdEZIU3l4Mm1nZS1fNUY4cWhSN1ptUWsxNG1hMHpSdjFyalpYNm5uX3dZREtkRVBVUk12anMtUnpaYmRSdUZETWdB?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE40RDMwcUo0NFk2TUUxM0VEUzZqOW8wMTFCQUxFaER0bzZTZGE4dTJNdGMtUWRrRkFYa25DM3dkbFRCX0JTQ2l5RVdJMzhxX3V4Z0dqV3ljaVN4Nkxwc1FiSGVkSmlHSHpHa3dFNVpsWWxKaTN1ZWNsVw?oc=5",
+    "https://europeangaming.eu/portal/interviews/2026/11/08/217629/casino-entertainment-trends/",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFRtZEU0bmZTbVhGYm1va0Z3OGJqbHlIVW1HYWxWSDBrNXc2dkZOdi1PNjJ6VVdTOC1rcURZd1V0LVBBX0J0NDVQYTBCTjNGU0V2TVhCZ09NYnpwQkN1MVBvX0dMMDgtOFRBYUpZalZicXVlRk1zYXE0ZXduM1k0V3ZvMnowcEtiUzlndUNwTU5IT2JHSFNLeHJZVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdHMyY2UyUk92T3VEQlN2dWJhS0toVVhUdEQ1RF9qcTBla2RFU24zSUN4bmpGaC02cG5DVkkzOW14VlUwNVB4S1ZvOEtCNl9Bb2tkN1ktMVYxY3RRM2ZJWUFwYU8xaHVocm16NXZKM2k5VUpib2VzUC13YjEwa09FazIzM2RnYXVoODRQeFdmZGtaZw?oc=5",
+    "https://pley.gg/cs2/navi-avenge-bucharest-loss-to-take-third-in-beijing/"
   ],
   "title_hashes": [
-    "4440e300c9e49cd9d456bdbe2fe4d2a2",
-    "3c7235ac077876c2b3e90f92a32976a5",
-    "0ab3a842f6ebd1c45614ed7b93672917",
-    "079edbd8d191e30933bacafc1bd60ee4",
-    "37a1084abefecf2dc019175015000669",
-    "0d1661ca2eecb92d474f262ba0e7d5e6",
-    "f986bbdff0ce040938a611abe680f014",
     "7e3623348c5f2407b38f2901a4b3d5e3",
     "b7fd5354635b3cf6fd13c2ce046570ea",
     "6d2a485be340c744d56eb1652628dcb6",
@@ -16001,7 +15994,14 @@
     "489e2cb46e0c2ddb725d23e97715cbc9",
     "d20a479b2d7bbe30ab4edd9513d3c017",
     "7e88a44690a489670a1ccdd221ce82ac",
-    "577de09e9990bfc9594fa1f984068709"
+    "577de09e9990bfc9594fa1f984068709",
+    "4a6bc09bc190b903ffb220d0eb3adb53",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "62ac6aab0dd3b11a8ec10fdee3781463",
+    "49f4fdc64da08e0cbac132fa06062d2d",
+    "9bf3dcc38501449179a364abfbbda6d7",
+    "b54b62f229e89223725ec13da11ec394",
+    "f425fb94c7f6c50e52ec42858858e431"
   ],
   "transfers": {
     "pages": {
@@ -21048,6 +21048,22 @@
     {
       "t": "145 demand epic fortnite grows have hours hunting jynxzi now odds pirate players post publish releasetheodds reveal ronaldo shop spent stable token want",
       "ts": 1794127244.7732923
+    },
+    {
+      "t": "0 1 2026 egypt enc esports lebanon sheep",
+      "ts": 1794127249.965092
+    },
+    {
+      "t": "algeria esports nbsp sheep",
+      "ts": 1794127253.4190369
+    },
+    {
+      "t": "2027 8230 agree but casino community entertainment five game immersion inside only play post social split stay suppliers that they trends when work",
+      "ts": 1794127256.85747
+    },
+    {
+      "t": "0 13 2 2026 6 9 after ancient avenge beat beijing betboom bucharest finish iem losing loss mirage navi take them third two weeks",
+      "ts": 1794127260.395512
     }
   ]
 }
