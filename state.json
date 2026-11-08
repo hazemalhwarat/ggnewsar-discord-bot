@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.dexerto.com/apex-legends/hatsune-miku-makes-surprise-appearance-at-apex-legends-global-series-finals-3306259/",
     "https://www.dexerto.com/apex-legends/apex-legends-calls-anti-cheat-a-cat-and-mouse-game-after-security-incident-3303123/",
     "https://www.dexerto.com/gaming/remembering-vince-zampella-a-video-game-titan-3297256/",
     "https://www.dexerto.com/apex-legends/apex-legends-season-27-patch-notes-movement-updates-olympus-rework-legend-buffs-nerfs-3277061/",
@@ -7999,10 +7998,10 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GUkp5RjlhY01pNzNpN0FpS0tBaDhEXzdMU2F0Qk96aWkwZXRKYzc4dC1kT0Z2ZmJac0xROEtIN2h5ekV1M2FKNmcyWlU1RnA2RUpzN3BydmotbWhxNGQ2U3NQclNqalAxb3c?oc=5",
     "https://pley.gg/valorant/riot-throws-bonk-out-of-kickoff-qualifier-over-cheating-software/",
     "https://pley.gg/cs2/bad-news-eagles-tease-a-return-to-counter-strike/",
-    "https://pley.gg/valorant/wo0t-returns-to-turkey-with-fut-esports/"
+    "https://pley.gg/valorant/wo0t-returns-to-turkey-with-fut-esports/",
+    "https://pley.gg/apex-legends/apex-legends-season-31-cipher-everything-new/"
   ],
   "title_hashes": [
-    "a3609c8d8992e404f8ed4c768271a717",
     "35fcfa9f98ba5816e704a14032ddb73b",
     "10eff48071b6acd1f96efb181deb029b",
     "291e50e5aec031df1f41d3b6cc06155d",
@@ -16001,7 +16000,8 @@
     "a31766084133beedeefacf37c151b714",
     "f0c15b30a08d6c052ef96314303e24c4",
     "a7577f82f6825169fc8411f1b3bc7a80",
-    "64843987ac0fe0fad2e94632e4c7236c"
+    "64843987ac0fe0fad2e94632e4c7236c",
+    "05c71f7831ace631c0da7e58e295756e"
   ],
   "transfers": {
     "pages": {
@@ -21008,6 +21008,10 @@
     {
       "t": "2027 benjyfishy esports fut have heretics him leaving only returns reuniting riens signed team turkey wo0t yetujey",
       "ts": 1794167992.2002432
+    },
+    {
+      "t": "31 akimbo apex bans burst change cipher crypto every everything first hemlok legend legends new ranked rewired season wingman",
+      "ts": 1794167997.461779
     }
   ]
 }
