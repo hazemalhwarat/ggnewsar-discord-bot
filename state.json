@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45742/fissure-playground-4-to-take-place-in-georgia",
-    "https://www.hltv.org/news/45741/boombl4-this-tournament-were-playing-better-and-i-feel-the-progress",
     "https://blog.grid.gg/three-major-events-in-chengdu-one-unified-data-powerhouse-behind-721bd9e431af?source=rss----1134b813b9b---4",
     "https://gameriv.com/destiny-2-recruitment-hopes-fade-as-job-listing-switches-to-marathon/",
     "https://gameriv.com/father-of-playstation-ken-kutaragi-understands-the-disc-backlash-but-says-physical-games-arent-economically-reasonable/",
@@ -7999,11 +7997,11 @@
     "https://pley.gg/valorant/cloud9-finish-their-rebuild-with-alym-derrek-and-nightz/",
     "https://pley.gg/valorant/tkzin-set-to-stay-at-loud-after-farewell-post-sheep-esports-reports/",
     "https://pley.gg/cs2/9z-bench-meyern-and-bring-in-history-for-the-singapore-major/",
-    "https://pley.gg/cs2/faceit-let-players-vote-on-scrapping-the-knife-round/"
+    "https://pley.gg/cs2/faceit-let-players-vote-on-scrapping-the-knife-round/",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUjhfdmdvV0NBcUl3T2RrQ0NKYk9SY1AyZGNkdVVob1c0NFF3c191Y0dOZmgyRkltemtXNXREcy14YTc0YWdSdTlJbFhjSmJGRERsWjZnelVaRi1QVVFCc3RZVjJfTzdDYlpQaXkzd3VSZjRnSHFaVzB1OUlud0ZXc0tVcXN1STlrSDhDRF9ybklxZFVGdWJFV04zMzhHT2hqRUVWNy1LYw?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTVTVmNURk9fQ096TGZVUFJhLUdScmYzVllQN2lTdzB5XzNtTFptM0YwU01zRllRM2JOaXFiY3ppcDV5a1VINks1MjVtQXh0andZZWlRQzhPS2doQy15M1YxY0pMd2U2TlJFY3pxZUxreThxX0hGQVZLYW5lLXh0azBHNDNDa3UyNzRKN1lnTTBFSVNGREVuUW1McjFqd01jSEdsRVkzd05GNHgxd3p4MWwwRkc?oc=5"
   ],
   "title_hashes": [
-    "9213789256406feb0b799a191abc5caa",
-    "ca06bcdff3ff938ea58f4d3d4e790c37",
     "955fa4956866c1f99508fb140169633e",
     "a81e9298c1e3837ec604698f07451dda",
     "a059a1280afaba105a3c0963f8d592f1",
@@ -16001,7 +15999,9 @@
     "49a33f3d313fd6e19d04686624884cbc",
     "b28cfe1dedb9a6e9b5b307f3849ef4fb",
     "33afd20f4241c1fdc8da1b47077ca019",
-    "4de1573ac25acb0d2a36f8d9d788e4b9"
+    "4de1573ac25acb0d2a36f8d9d788e4b9",
+    "2049d139a2a9bd85a043975d4d4ad826",
+    "edf361e58d3ee66a6450d21f36681e79"
   ],
   "transfers": {
     "pages": {
@@ -20976,6 +20976,14 @@
     {
       "t": "faceit knife let players round scrapping vote",
       "ts": 1794152327.767329
+    },
+    {
+      "t": "2027 esports gaming join lai nbsp season set sheep sources xavi8k",
+      "ts": 1794152332.764218
+    },
+    {
+      "t": "2027 aace crazy esports join nbsp pacific raccoon season set sheep sources vct",
+      "ts": 1794152336.2011652
     }
   ]
 }
