@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTzFKS2VGcl9BUmtSc3Ewd3ZfQXB5T204U3gxUnVLVXV3VDJwX0JXeVJYWWV5ZHFBbGYzM0VIb0hrMVpXWkVXS0dQaXFocTlTR1NaX2poRURPQnJrQnFJZ080bk9PZHUwNWM1VlRTeW45YmJoSWNUS1IwS0d4bmZ2ZlVIaGlGWEJ4a3B3cjVxS3E0U1NLMmRUdTR2eGFVWWRIdHlfSVd1OGFHaDNBU2F1QkJDcw?oc=5",
-    "https://pley.gg/cs2/all-top-five-teams-confirmed-for-blast-rivals-season-2-in-hong-kong/",
-    "https://pley.gg/valorant/loud-one-series-from-becoming-the-first-two-time-valorant-champions-winners/",
-    "https://www.invenglobal.com/articles/27325/raptor-dominates-tournament-bfx-defeats-we-to-claim-title",
-    "https://www.invenglobal.com/articles/27324/ghost-of-y%C5%8Dtei-sales-estimated-at-54-million-copies-revenue-rivals-predecessor",
-    "https://www.invenglobal.com/articles/27323/zoo-management-planet-zoo-players-more-active-in-wildlife-conservation",
-    "https://www.invenglobal.com/articles/27322/from-5th-to-1st-place-major-upsets-during-the-blind-phase",
-    "https://www.invenglobal.com/articles/27321/fearing-ai-copycats-indie-developers-pull-public-demos",
-    "https://www.invenglobal.com/articles/27320/424-of-steam-users-play-pc-games-exclusively",
     "https://www.invenglobal.com/articles/27319/five-time-champion-kim-min-chul-the-player-im-most-wary-of-is-jjapjae-park-sang-hyeon",
     "https://www.invenglobal.com/articles/27318/the-era-of-zerg-continues-kim-min-chul-claims-5th-career-title",
     "https://insider-gaming.com/modern-warfare-4-emerges-best-steam-rating-decade/",
@@ -7999,17 +7990,18 @@
     "https://www.talkesport.com/hardware/ram-altman-script-emails-sam-altman-unused-ram/",
     "https://www.talkesport.com/mobile-gaming/bgmi/kronten-full-stream-fir-hades-proof-godlike-spy-claims/",
     "https://www.talkesport.com/news/cs2/mouz-defeats-mongolz-to-win-iem-beijing-2026/",
-    "https://www.talkesport.com/news/gaming/share-ps5-games-ps-plus-family-console-sharing/"
+    "https://www.talkesport.com/news/gaming/share-ps5-games-ps-plus-family-console-sharing/",
+    "https://www.talkesport.com/gta-6/gta-6-cero-z-rating-japan-censorship/",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMFB4dkhZbmdYRGUtcGpyUDdsa2wtTXRzM2xBYU5MLWFGWW4yRldQWlZQT05vYmJQYzNCZmY5UTJVOXRNZHVabll3Y1VIX0ZLV2NMVkpMcmZHSnZKaldIdHNGX0NkWUFvZVNOaHU1dDZIZGlFQW1iaTVEeTE1SnZZYg?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPejZVNmNEMXh1NlBBWm9selJtaS11eWJFRF9jR2pvSUtHbXVWaTBuQkFRQUtYcmpSaGJQQU92SzlBLTdJS1lYMTF3ZlIzbmVxOUNMSEtac19tYWVjMXNWRGJHbWtjYW0tTUpXTzZkMEZQNE0tWVA1OUtodWFrUmJkYjFpcGJ2eTZURGlYNExmTm9ZUW5SMmVvd2hjcFVvNjAwTTFQYQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOXU4bVB1cDF2aGhSSFAxZEV6Tkwxd3NHYWdaTjBEbDdkeXoyQkhSdXNlOWJLYVp3dDRYVDdoTm15YjZHV0Y0SGFuTGwyVllKTjluZUFqLTVSLURnLUVxQkRQSlNodzNEcTVyY2piSDk2SlUzbDlUSUZBZ21Eb3RRMU1KZXAwX3FSN1FRclFJcjJ3MkhvZmpnRGhzMjV0T1ZVUkpSTkRPeXhjZlNqejlZaWdpSUl4V1lqZ2E3bnRMdDR4Zmk0LTJhWl9yenp3WHpqTWRKaWJoSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOUZBQ1NHMWtvX3FmNFRoNzh6VHQyVTNtVFlmUFJJNENEeWdHMWZPbmNMSExhc1kxdEQ4LWdpejhWRlBmNjdCSFJwMjJGQmQ4bTVjczZ1R0JZS2NYYWRYMnJJWVpWU0FpdFVtRXBCUzlZNU9lcWUxSWJVZU9HVXVxWnl6b1RRX2hRVmJZbVJwcUlySmZlalRYS3Y5WUxzTWpDelpzZ0xKY2Y2RUZ5?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTW9UeHQtdWw4bmMtbmJkUmtWTGtna1lzSDVpVDllVVZlckw2ZU1KRS1POThzVVZ1VGU2TlYzLXRXNzU1YnlUeWg5bVAtV3RYeE9pUUFXbHZlV05hZ01yWG4zOGwzeDZQVnJEdF9nbjZDajcxa2c0clhGdUZna1VzQ2dOMXdOcDZnTy1QY094VlFZNDdlZHZqUDNZX3dvS1Ztc0Jtb0VEN3RLOGt5cFE?oc=5",
+    "https://pley.gg/valorant/zellsis-returns-to-sentinels-as-sixth-man-for-a-second-time/",
+    "https://pley.gg/valorant/xavi8k-set-to-lead-xi-lai-gaming-in-2027-sheep-esports-reports/",
+    "https://pley.gg/cs2/how-xertion-took-mouz-from-11th-to-the-top-of-the-vrs/"
   ],
   "title_hashes": [
-    "dea01c45eeee1145692806a7a1909974",
-    "7bee69d44d1d1bd25d37628c82007367",
-    "091af96b1cf282319804cdb6c5ca5def",
-    "1650b9b43de8c0851d717dcbcdacd6b8",
-    "4aaeaec27ae70aaa7d664eef1ec82464",
-    "561135d37927e1b058b0981832c8bc38",
-    "ac36f823c42fa040f4746f829ed7e52c",
-    "b4ef0a5e81b674ea236f10ebe127a006",
     "7677180edb82dc90319377c98403c6a8",
     "a4344b13b5d2503b008e5714849b26fb",
     "707a10ca907ba6cadaf7daffdaabcf9e",
@@ -16001,7 +15993,15 @@
     "9f93ea2d4bee5d2385c73ce8e633e99e",
     "95b793aea60a33766aafa89c61494e24",
     "3873b7685c6694943add394d7da0460b",
-    "fc1689250b30c3b6f40c9ba75a9b84d5"
+    "fc1689250b30c3b6f40c9ba75a9b84d5",
+    "8db7b6bf275d034f9f5d12c8a65adb72",
+    "95d91403f7f048d4c0464e56c8620cb8",
+    "66c695901c80c1cdec5e5a9fdd20160c",
+    "e1c9129f16d2236c041b98eb7d2aa88a",
+    "caa4463e253a53646e964fb3bd249441",
+    "49deac9766ca1d83720fc2754ef4da58",
+    "0d3cb40abead83e5ffaef5d9dc6fd46f",
+    "50a3191a40756e14290334338274ec2f"
   ],
   "transfers": {
     "pages": {
@@ -20936,6 +20936,26 @@
     {
       "t": "console family fre free games here how limits offline play plus post ps5 share shared sharing steps use what your",
       "ts": 1794152290.3111
+    },
+    {
+      "t": "6 8217 adults age been but censored cero cuts fans fear gets gta has highest japan japanese know now only players post rated rating version want will",
+      "ts": 1794152295.2031415
+    },
+    {
+      "t": "animated arcane beyond discoveries esports future games hint nbsp new riot sheep",
+      "ts": 1794152298.6689694
+    },
+    {
+      "t": "2023 2027 cloud9 have his man mirroring move returns season second sentinels signed sixth their time vct zellsis",
+      "ts": 1794152302.1040769
+    },
+    {
+      "t": "2 2027 alongside champion d4v41 esports expected gaming lai lead pacific reports set sheep sources stage that told vct xavi8k zmjjkk",
+      "ts": 1794152305.543839
+    },
+    {
+      "t": "11th 18 april became climbed first have his how igl maps more mouz numbers own seen since took top vrs won xertion",
+      "ts": 1794152309.0527775
     }
   ]
 }
