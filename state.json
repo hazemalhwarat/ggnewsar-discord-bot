@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://estnn.com/overwatch-2-6v6-returns-in-season-14/",
-    "https://estnn.com/overwatch-2-maps-guide-the-best-heroes-for-every-map/",
-    "https://estnn.com/overwatch-2-world-of-warcraft-skins-revealed/",
-    "https://estnn.com/overwatch-2-midseason-patch-armor-nerfs-balance-changes-competitive-drives/",
-    "https://estnn.com/overwatch-2-best-crosshair-settings-for-every-hero/",
     "https://estnn.com/owcs-2024-world-finals-tickets-details/",
     "https://estnn.com/overwatch-2-season-12-patch-notes-balance-changes-group-respawn-more/",
     "https://estnn.com/overwatch-2-season-12-adds-juno-new-maps-6-free-skins/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28337/15-vendor-discounts-and-diablo-clone-spawns-diablo-30th-anniversary-event-announced",
     "https://www.invenglobal.com/articles/28336/dragon-quest-monsters-4-physical-pre-orders-begin-nov-11",
     "https://www.invenglobal.com/articles/28335/webzen-hosts-r2match-2026-championship-for-pc-mmorpg-r2",
-    "https://www.invenglobal.com/articles/28334/neowiz-to-showcase-2-indie-games-at-game-culture-festival"
+    "https://www.invenglobal.com/articles/28334/neowiz-to-showcase-2-indie-games-at-game-culture-festival",
+    "https://www.invenglobal.com/articles/28333/steelseries-brings-sensei-pro-rival-pro-to-14-emart-stores",
+    "https://www.invenglobal.com/articles/28332/asus-launches-zenbook-14-ai-laptop-with-new-colors",
+    "https://www.invenglobal.com/articles/28331/t1-stopped-short-of-3-peat-end-of-a-three-year-red-dynasty",
+    "https://www.invenglobal.com/articles/28330/tooniverse-to-host-toonivoice-festa",
+    "https://www.invenglobal.com/articles/28329/soulframe-open-alpha-opens-to-pc-players-worldwide"
   ],
   "title_hashes": [
-    "fecc474057c89458b5584afeb203cbaf",
-    "5c99c652fc4c92d71b59a6f16d59ae00",
-    "336088ddd7708a089a2ff2f7d8ba1e08",
-    "f709bf1493b7c2572ff6ccaafdc58b36",
-    "16830be06c46ef8bba1cce544bb47006",
     "d2090f48397e30ffa806d5a54f364bf1",
     "548548886e7ff3ce4aa50ff895b6d2c9",
     "24785eaddb583fb50bb15aabc6336584",
@@ -16001,7 +15996,12 @@
     "701a77ca6ce6b96b58f371a544ad91a4",
     "c4865b4dddce419a96e2e52626e71f3a",
     "eed6eefa00cbd92131fb11a1a826a742",
-    "714f9cc1d204658ab648b1c25806e195"
+    "714f9cc1d204658ab648b1c25806e195",
+    "78545844df4233c1c49f67f0a0f48bb3",
+    "ab4fd957130fb9363d0020601a2728a3",
+    "3296edf8729cc4673c0b3f013c177d5d",
+    "79788c14048ec29eac403a50fb52637f",
+    "b53237db7db3fad694d11c7e88639a9a"
   ],
   "transfers": {
     "pages": {
@@ -20932,6 +20932,26 @@
     {
       "t": "19 2 2026 22 9 announced bexco busan center culture exhibition festival game games held indie neowiz november showcase that two will",
       "ts": 1794192766.1537836
+    },
+    {
+      "t": "14 9 across announced brings electromart emart gaming has its launched locations mouse november pro rival sensei series steelseries stores that wireless",
+      "ts": 1794192771.2674875
+    },
+    {
+      "t": "1 14 2kg 30 9th achieves asus battery colors depending design featuring hours inch its laptop lasts launches model new released two weight zenbook",
+      "ts": 1794192774.8341055
+    },
+    {
+      "t": "2026 3 after bringing championship dynasty end exits falling lol peat red semifinals short stopped t1 their three world year",
+      "ts": 1794192778.485653
+    },
+    {
+      "t": "21 22 28 29 across actor actors bringing daily days enm event fan fans festa four host hosting meet november run together tooniverse toonivoice twice voice will",
+      "ts": 1794192782.065003
+    },
+    {
+      "t": "alpha can digital dungeons explore extremes form four has open opened opens overworld parties players soulframe test together windows worldwide",
+      "ts": 1794192785.6646545
     }
   ]
 }
