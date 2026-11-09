@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://blog.grid.gg/introducing-the-enhanced-grid-stats-feed-api-faster-smarter-and-more-powerful-170fa423351b?source=rss----1134b813b9b---4",
-    "https://blog.grid.gg/hands-on-building-a-live-esports-commentary-bot-leveraging-a-local-llm-and-grid-esports-data-eb76985c4797?source=rss----1134b813b9b---4",
-    "https://blog.grid.gg/unlocking-the-power-of-esports-statistics-6c489e8536fd?source=rss----1134b813b9b---4",
-    "https://blog.grid.gg/league-of-legends-msi-chengdu-2024-how-grid-tracks-every-heartbeat-of-the-game-aee4e62e0676?source=rss----1134b813b9b---4",
-    "https://blog.grid.gg/dive-into-the-game-understanding-telemetry-data-23953aafc0b9?source=rss----1134b813b9b---4",
-    "https://gameriv.com/wardogs-devs-admit-faster-season-2-progression-was-the-wrong-call-consider-early-season-3/",
-    "https://gameriv.com/bloodborne-fans-take-matters-into-their-own-hands-with-native-pc-release/",
     "https://esportswales.org/astana-is-the-esports-capital-for-2027-in-the-world-of-esports/?utm_source=rss&utm_medium=rss&utm_campaign=astana-is-the-esports-capital-for-2027-in-the-world-of-esports",
     "https://g2g.news/esports/red-bull-snakes-ladders-hosts-indias-top-gaming-creators-esports-athletes/",
     "https://www.hotspawn.com/league-of-legends/news/we-struggle-a-lot-in-the-early-game-furyz-on-what-went-wrong-for-furia-at-worlds",
@@ -7999,15 +7992,16 @@
     "https://www.invenglobal.com/articles/28353/mouz-wins-iem-beijing-2026-without-dropping-a-map",
     "https://www.invenglobal.com/articles/28352/james-gunn-and-peter-safran-step-down-at-dc-studios-marvel-veteran-jeremy-latcham-takes-over",
     "https://www.invenglobal.com/articles/28351/motorsport-manager-marks-10-years-on-pc-with-trailer-80-steam-sale-and-livery-contest",
-    "https://www.invenglobal.com/articles/28350/koei-tecmo-america-releases-atelier-karia-story-trailer-ahead-of-february-25-launch"
+    "https://www.invenglobal.com/articles/28350/koei-tecmo-america-releases-atelier-karia-story-trailer-ahead-of-february-25-launch",
+    "https://www.hltv.org/news/45934/fallen-i-dont-really-know-the-other-version-of-myself-someone-who-has-time-to-actually-do-other-things",
+    "https://www.hltv.org/news/45952/mouz-claim-no1-in-world-rankings-after-beijing-title",
+    "https://www.hltv.org/news/45948/the-evps-and-all-stars-of-iem-beijing-2026",
+    "https://www.hltv.org/news/45951/las-vegas-targets-blast-partnership-for-2028-major",
+    "https://www.hltv.org/news/45950/pgl-reveals-singapore-major-rosters",
+    "https://www.nerfplz.com/2026/11/formerly-op-22-old-akali.html",
+    "https://www.vlr.gg/787826/full-sense-allows-jitboys-killua-sushiboys-to-explore-options"
   ],
   "title_hashes": [
-    "a21f6145c335993421552dc856807405",
-    "11386f5feedd286f19d1f54434fa5889",
-    "bc78a1f8a235b04be26e9cd30a0c0d57",
-    "45d2dbd90a96a955f2d9929156383121",
-    "bd4cd9901a20f0932b0836908c1bb7a8",
-    "2b4619245a1c4ccc01aa8b8db3d292fd",
     "9b6964e5cab5df4beaa5cbed93116c1a",
     "bce455def158484255a3a3c70d76d9a9",
     "1309087cb00858ef25d260da480545a3",
@@ -16001,7 +15995,13 @@
     "7a1dd958b56e6c08e669247c915dea3b",
     "57bb477edbb4dbb5785d3a95295dff91",
     "b5923be7b6db1bff7183e12096819ded",
-    "0f8e917480706b1a9a67a96fb86d157f"
+    "0f8e917480706b1a9a67a96fb86d157f",
+    "36d35cfd652bc2c5cd57945be93b4efe",
+    "548fc7a9d92ee0f21175d74686af9508",
+    "60e6db8ae8b6f6e50b27871068ddef06",
+    "09898bad977b382c03a0c2138460e985",
+    "5f1fa430f3440483d63f03017de42f1d",
+    "cd761389dfe036683d7e49a9638d9e7f"
   ],
   "transfers": {
     "pages": {
@@ -20888,6 +20888,26 @@
     {
       "t": "2027 25 25th ahead america amp atelier developer february guide gust have karia kingdom koei launch memories new night nintendo released releases set story swit tecmo trailer which",
       "ts": 1794258448.1713881
+    },
+    {
+      "t": "actually before brazilian continue counter deciding don fallen family has his how know legend more myself other really someone things time version wants who work",
+      "ts": 1794258453.4613168
+    },
+    {
+      "t": "1 after beijing claim european first mouz over pile rankings sitting team time title top two world years",
+      "ts": 1794258456.8531628
+    },
+    {
+      "t": "2028 austin blast first host its las looks major partnership set since states targets united vegas",
+      "ts": 1794258460.3246806
+    },
+    {
+      "t": "32 asian competing major now pgl reveals rosters set singapore teams",
+      "ts": 1794258463.8218243
+    },
+    {
+      "t": "allows entering explore full jitboys killua looks offseason options ready rebuild sense squad sushiboys thai",
+      "ts": 1794258467.2182856
     }
   ]
 }
