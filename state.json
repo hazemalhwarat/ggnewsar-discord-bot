@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.dbltap.com/guides/outer-worlds-2-persuade-westport-citizens?utm_source=RSS",
-    "https://www.dbltap.com/guides/outer-worlds-2-double-jump?utm_source=RSS",
-    "https://www.dbltap.com/guides/battlefield-6-season-1-everything-we-know?utm_source=RSS",
-    "https://www.dbltap.com/guides/pokemon-legends-za-goomy-location-evolution?utm_source=RSS",
-    "https://www.dbltap.com/news/fallout-4-is-coming-to-nintendo-switch-2-in-2026?utm_source=RSS",
     "https://www.dbltap.com/news/factorio-switch-2-upgrade-space-age-dlc-aiming-for-december-release-date?utm_source=RSS",
     "https://www.dbltap.com/news/hsr-3-7-release-date-events-features-revealed?utm_source=RSS",
     "https://www.hltv.org/news/45744/yuurih-wed-be-very-happy-to-win-this-event-especially-if-its-against-falcons-were-trying-to-beat-the-best-teams",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28348/football-manager-27-arrives-for-just-one-more-match-all-nighters",
     "https://www.invenglobal.com/articles/28347/department-store-management-mobile-game-my-chic-mall-officially-launches-november-5",
     "https://www.invenglobal.com/articles/28346/family-friendly-brawl-winter-festa-to-be-held-in-gwangju-on-nov-28",
-    "https://www.invenglobal.com/articles/28345/smilegate-to-showcase-miresi-at-japans-comic-market-in-december"
+    "https://www.invenglobal.com/articles/28345/smilegate-to-showcase-miresi-at-japans-comic-market-in-december",
+    "https://www.invenglobal.com/articles/28344/lindel-3-reclaims-1-in-nine-consumption-new-guild-unconditional-neutral-emerges-on-caltheon-3",
+    "https://www.invenglobal.com/articles/28342/the-log-pc-bang-usage-time-down-08-in-first-week-of-november",
+    "https://www.invenglobal.com/articles/28343/incheon-wave-wins-kel-eternal-return-grand-finals",
+    "https://www.invenglobal.com/articles/28341/shadowverse-worlds-beyond-launches-godzilla-collaboration",
+    "https://www.invenglobal.com/articles/28340/six-games-from-5th-bigem-cohort-wrap-up-exhibition-at-thailand-game-show"
   ],
   "title_hashes": [
-    "67bcf7aec51f8120c767acbaaed1be45",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "c80c7d5e801ff686643a20b33710d3ec",
-    "00c39a694e473f3c70579a18939affaa",
-    "d790221573c5c3e88dcca098d1796e89",
     "c75be6efb93095eab25371fa4dce40ce",
     "8f2265ef1deb2084db60dd1f7996ace8",
     "00c612a67650132b3333bee16fc5a97a",
@@ -16001,7 +15996,12 @@
     "afd99ca5da78ea0e8cbca0f01c98878a",
     "a03ffeb1f08ed76599d26c1202a74d5c",
     "d0279c61541fafa406fece257faa7f4a",
-    "38d000354c04dd71d3875579230ebd05"
+    "38d000354c04dd71d3875579230ebd05",
+    "b2470751a9f3cf1be231e0416f305bd9",
+    "bf65d97477a9dca25a726846dfafbd26",
+    "ad36fad824c2688d3f7b18ae379d6262",
+    "0e2a436fe1d863774684a20cc5efb503",
+    "4a3896db3076b59ab2590f033e518522"
   ],
   "transfers": {
     "pages": {
@@ -20896,6 +20896,26 @@
     {
       "t": "109 29 31 9 announced big comic comiket days december future held invisible japan market miresi november showcase sight smilegate that three tokyo will",
       "ts": 1794221052.7676878
+    },
+    {
+      "t": "1 1st 2nd 3 9 across caltheon clo consumption dropped emerges enchant guild held last lindel monday neutral new nine november place reclaims rose servers sol streamer trailing unconditional week which",
+      "ts": 1794221057.8751035
+    },
+    {
+      "t": "0 13 2026 8 9 according approximately bang down first hours log million nationwide november recorded released report time total usage week weekly",
+      "ts": 1794221061.2241027
+    },
+    {
+      "t": "10 2026 after bringing close comes esports eternal finals grand incheon kel korea league million prize return rounds season second seven victory wave wins won",
+      "ts": 1794221064.6264555
+    },
+    {
+      "t": "9 along announced beyond card collab collaboration cygames dungeon event featuring godzilla holding introduces launches limited mini november sets shadowverse style that time worlds",
+      "ts": 1794221068.0441375
+    },
+    {
+      "t": "2026 5th asia b2c bic bigem cohort completed exhibition expansion game games gamescom global indie marketing selected show six thailand their wrap",
+      "ts": 1794221071.4423213
     }
   ]
 }
