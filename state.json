@@ -1,18 +1,5 @@
 {
   "urls": [
-    "https://nesthq.ca/why-most-esports-teams-need-a-business-plan-before-a-logo/?utm_source=rss&utm_medium=rss&utm_campaign=why-most-esports-teams-need-a-business-plan-before-a-logo",
-    "https://nesthq.ca/esports-plan-beyond-one-game/?utm_source=rss&utm_medium=rss&utm_campaign=esports-plan-beyond-one-game",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Gbk1qeUdWVDV5WUlRMExmRndvemJfNUcyRmZ6NFlacG9mV2EwaFYwS0VCcTBlSkNvYUdETjl1YzBBOGUxdVZaVUd1QnVhQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUZYc0IxdnRnd1dBRTRlZE9pOXVBdXB3ekNHRElRQjhXdlBUNHJJMVhpRzNlNFJCY0xIZG5NVFZNUEFncXc0QmJ4dm4zT0hmMjRtZkRaYUw0LUk3RXgzQVd2OVB6TW1vVXAyaV9xaXExaG1VRWxBSXBrRTdpbE5UQk9ZVUptczc5REpqTUl3?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15OVI1OVdrOUxyNjVDNm5lYm1PNEhvMmk4R0lkUlBnLUx0SmptMm5qZEJPSElTejhKZmE4NXZwcndHMy1HZUE3T2x6VUh0OE4xeFE?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Nmt6eFF4MUVseHZKQTQzYTBielY0eWxDeHZSVnJhSml1UHpDSFB2WURQRWRmeFpESC1tZE44LVBxVk9YM3BVd1JDalJPYXVxa1VEczdaY09aMnBmT3ZhLWh2TTBCZHg3MXRpWkNxem5BQ0Rna2QxSGdWdERoY2s?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNbjBJTDMzVTBFZ2Q2Vk8zazh0aTFrWVBWbHdIUnVNQ1RWWVpnb0tsQVdERVJRbjVhdmVXVU9Md1pkNlplN3dnSlVrMlZlWDYwSk9kTGNMV1RnUjFUSFVkVElKNnl6dTdseEZvcnhOaExPZ285NWMwb0J4dlJMLXBvSUU0NGE4bjNJOEo5alJ0QmlVVXNGa245N3NZYnZWZw?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3ZyeFR6d1JLOEZuRkRlMGZRZVFSR1BQNDBkY1pzdzg2cy0tYkFiS3p1WVU1clZOZWs2OGZCcXI1NUJMR0lMYWprQlpBWFAxeUswTUUyb1dzNjQ4UFVLNWZmM3dWZ1FHLTRBeFNhd1V4SzRKZ01waV92NkVkWXE5WFVFbTFYakN3TlE5bHZJMWN1cU5hMEtadUNB?oc=5",
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNX085WmszY2U0NFRaWEc5cUljNVdyS3lKRGNUMThBUUl1cmtOSjdGcWtqVXBJV2xlOG91N3FzXzJib3lfdUVWR0VZejZRTXFNQmEwajNRTnlnSWJvcmsyWEFJZWpFanNxdFptaUV1VG13Q0xmSF81X2M5a2t5ZW9DVVlldXNJb2Y4eXdBYVJob2VlUHZzX2VKSUhWdFR2akpYRURGRE5zS2hCOWRVZGpkOWtlT3I5YXdrZmduQ2sxdl85bU5LeE14S0hGdlhTQUhseWRUN1R0SFFnOTBadHpGaGVRbzJjRWw5RXhaMA?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUhhZHBqc3Eyamdjb3RHU0Q0Q05OaWQ0TUhrdlA5X2hwN3lzT0NBcHlGakVPd1BuZTdnVGZodTRTZDBQLVU5cUR4d29IQW1XT0cwUHJtQzlFaWZ2dG93NEJBdXM1eDRpNHhaSnRZQW1ZQzRmMVVab25WZHB4Y01MaERYcTQtUmcxNDcw?oc=5",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tZC15NGw1bmp4cDRpdVMxdEQtMUE0bWNhNmtseVpqeWJZUlZmS3loaXVqQXYxU1hldGZuUHFGWkd3VlhVSlNhNzZkV2Fya0x2bzFsOW1sUVo?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxONnpRaWRQQkdMT0p3cVlnRkVybzdVZWE2YzJfY0R6d0Jhd3oxV1BGMlBEOFh5WVJLUGhuemtiZUZObk5EaVBwTUtibXRDS1l4dDdBXy1TeHZqTHVkbDVKR19kV01YTHRHVjF1dzU5Qmhncnp4TW5UcUZnNzFLNENjZmNhTmFNRWZjdDBrd2JPM3o2VUhTUndZaHlB?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMndsOG9Gd3dYcEYtNEVwZHVPd0tZZzBwMlpwWWJZVWRQVGg0NW5BakJhdFVETTRLWGE5QU4zdF84Ty15QXBpYnlCSFBwbHA2d2lmLVdHdElOQUVfbUUzTlhocDZsU2RYTmM2czFnMG5qS0x5bFVBR2E3UlNDOC1BY0pWWnRoN28zV09lczRkUVJpcVNXbEtR?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2FKRDBlSFNia2piVmhpQlViQ2d1NDdSRnQxdklBcGNwYm5VdklkT3RGNXFSMEp5QUE2SVVIa2d3NVZyb2g3dWJ0dDlDN2I3VDB6QXB6emxDeDRwNTlJTktMSkJnT2JGcFk3UTAyZVhMOWp0UFRuMnVfazQyRFphazJtNF90d0lkZjlOcnoyZ2hfNEJzMHpyckdKcFh0SUlu?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQalZUbGZydm1xR3lTMG56aVFYYnZNUWdYeGY0aGc3cEk2OW5tcFdKVlZvekFTRGlQUjFXLU1KNTZHSUtTZGl3NFZTNTQxMTdLTlhLeDNlcUhxWlFha1RFS1JraHhGWUJQVC13TUpXNHNfQkxJR1NRTVFyRzBlN092ak9YWHc0dGlMRlhNc2ZLZGtWMEg0WWNUQkk4VndnNWJoNmo2LWdVRjI1N2NlaVhwR1I0cw?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkJtOVFuRDdWNTN1OEN0dXhlV2ZaMDg3UTQ1ZU1TMWl0ak9rVnNiSkFLaXB4Y1dkdDlYTXBXWjBMZG9Lb0pkY1ZFallPSFQ0a3RUd1VWVnVMVkZYMGc4QnI0S1VFM09XX0lGNFlicWUxQktkZTFGN29mLUMxaU53T1JHUEFEWUUwN2l1REZydnpBUHJKTGsxRFFTaTVwamNfQ3haV05fX3loRUR2OWc?oc=5",
@@ -7999,19 +7986,22 @@
     "https://www.esportsgroup.net/the-marketers-guide-to-game-experiences-part-one/",
     "https://www.esportsgroup.net/gaming-marketing-dictionary/",
     "https://theloadout.com/valorant-wo0t-returns-to-turkey-with-fut-after-three-years-at-heretics",
-    "https://www.hotspawn.com/fortnite/news/master-monday-fortnite"
+    "https://www.hotspawn.com/fortnite/news/master-monday-fortnite",
+    "https://esportsadvocate.net/2026/11/tencent-golden-spatula-150m-annual-championship/",
+    "https://esportsadvocate.net/2026/11/iesf-busan-rent-secretariat-relocation/",
+    "https://mp1st.com/news/call-of-duty-warzone-getting-operator-skin-toggle-season-1-launch-modern-warfare-4",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HdDlBRVFrN1ktb3VIWHdJamwyNHUwTGtFVXFEaGp6MnVtck5mWDJHd1Y5cmpNUDc2MzEzMUowdTdrS2VPR2wxT1NPNUJmc2FFQnJHT25vVGxfQlJ0WTgyald3UmFJSXN4VHhKV2gxRWpxUkU?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBUmtVQmpVWk0ycTUzcDJ0MFUwaWk3MkQtQ1lzQ3M4bVdBRHlXUEhSQ3FLdTg0aEthQ1VlUmhwYTU3QXpCVGFMSEllZEM0dzc0M3c?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaG5VSkpSZjhMdXpiYVZpUkV6YmhsWUk4TmxXZUpudFMxNG9nSVkxazhIX1dJRTZXcGZtZmJHSFJSTGRKbURISzBvNF9CV1A4aEhLa0xjQVFjNkVHa0c3Um9hZHhCVDVqT0Z2c1hBanZscktoQTRoRW9GaHhZQll0S2J3UExQdllsX0dJTDROMnktTE82RWxiTEhNOG1wX2NNd3BVVjV5T1dBLTlGNlUwR05kNHhHQ2xxcFRTNTJTaw?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV1VRb0d4NlhYLU41dWxZZDh5X1ptNk9EZEdUWTFnamhCSnhZOG4zTlBocnVfcUlDblJnOWJ3ekpHa1pOV3VoNHRkMC0tM1dPZ0tldFJMNG9Say12aXNBNjVObDJQRE5UODltX09jcWRZd1JwZG1GQzBwcUJLNW9LRDI5a2NRUkxwa0VRWjFKLTh6TWdQakxaU1QxNl93a2dyekFGdUNvTnl6UGt3VEVEdG5RSmNNQzZTRjlnenZvQXJlVDZZdlVpb0RJbGJzWGl6eWEyMQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQmRXVUlzVnN4bXVYRjYxR0pzWWM1ZmoyU21QZGVTYVVXdnAyU3JmX2hnVkZFUFVLLWhjRFdtUGtHMXNXeENCM3g2Y1RsQkhyRkQ3NmJjMVNQQ0NzMnViYzNhQkhWTlhOMWk4cFpPYkc1OGx2QXVDWGlmTHNvRkJJem5XTExueGw3YUQ3RC1KTm9XSVlnRjl6VXBHNHN1Yy00S21oNVJvRzU3eWgyV1BHQ2J3T2Uzdm9HckZYWUtjcjE1YVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmV3MlA2MXFjRU9nV3VHeDRFZHdTS2FmQ3UzeG9YN2pTTG8zQVhmRDUxOEtxTElaNWpmazZlMVJrVUxnSWdYVlJlYldMWWVwM2pCR29qbUFzaFpYRVR3UWt1aEwyT2tYblJ2OE1ha2g2Q3p3LTdKRU5QSk9ReG1OTjQ4bVY2RTVZcGVjV1dwdnhJWlJJcExmZ055U0pGcUZtQVhzRlpHcUlPYjlHSi1uOHFHYkZMckg4azVF?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEJUYVpReFhzY2Fld3A4MkxvOVJ6VFZTRXZfV3lkUTAySElhbFg5TTdEWGd0Wl9OSVR0YXhfUndUR19hSmVKdlpDZ0lOTlJVVFl3LXZqR0lHVjMtWlF3TXMwYWxPQmtNUzlQSDlBTmd2VWhQSHJBclJrTGQ2RnBBSzZUWWRXMnU2OEcwd2J2VjBFN0UwNGk4SzQtZm5EemFZTXc0Sml1bXcwYkFFMGN2SU5iMA?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTE5tMkNEcVNaTXBLRDR3WExzNXlpVldKQk8wZGkzTTlua1dldDlIWFluTmR0ODcxUUN1YlBrRUdzWGxZNTRaRTZqSThuUm85Nm9qQzdXQzJpcTktR0k4TlFlWWZQRXh1OTQzX2dVNl9OS3ZFaHM3a3B2aGVpdW1uR0tHTGZHNlVUZDh0RDhZTDlPdkw3RlZDb0ZkM1k1NGJsdEFKNmsyVEU0WWFLbEE?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT09BYVhZYTQ3ZW1YZDFJdmR0Nk5BMXNwYmItUkdEeFVTMmdNUFdlcngzdnA1NlhZMGx0YzhJU1dNR0lUenVnREs4c1ltZE1aSllodXN0c3cxZmlHM1c2M2xzX3ZzVldPTUlZMWwzQktuTGNOQV84QlJLWWtJd1lWTXU5TXJubjlJS1hjZmxWMkd5azNjOUdwcndGbUp2NUpua3pZbXF2SGhDaWE4SWZua1JXQ0hNaTJsS19R?oc=5",
+    "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36"
   ],
   "title_hashes": [
-    "ea0f22d957027dc8785949ce2af1de02",
-    "17211fd3a9a8cfb37377915b7230eb84",
-    "edeb25aa56d4eecc4f1cc1ffd9e9ffdf",
-    "0cc71e81025f610814ce1d39c99bdc51",
-    "2cc652b905ec6ec64261d7d6d22b1ffc",
-    "61d7e67698ebf14da2ed2b815b851adb",
-    "41311127517caf87cd67a853f392551a",
-    "db3c4bdd608304b68ee39100872a01ba",
-    "d06b701b080c056727a0246de78fd0c8",
-    "c507c39494bc9c01e0885c913ec046f0",
     "2de59415f8ea955c69995116cfba347e",
     "c5d8d5e2fd9a7182a2033e28829fbda4",
     "402265daa00028673cee9f4a7a7f8990",
@@ -16001,7 +15991,17 @@
     "b824ed068e0447be3aab26ef3223ab54",
     "1c7c84c81862f2952d51ec31dcf02d3e",
     "56a9e06102d305c3c6224807db426fb0",
-    "159b96dbe4ecb8e5ddfcdac299974865"
+    "159b96dbe4ecb8e5ddfcdac299974865",
+    "8dd14fa6f32b8883d4ee79c93e153dd0",
+    "03e3f7460ce4ac7b3777d48bb36b056c",
+    "0b8a41c24f1921e79cc08178166e4848",
+    "8df358eebbbb64bf19235a902db73505",
+    "0a6973bb920c3ccbe8c557ec540679b7",
+    "67f34d1859299f3bb516fa6caa0c39a1",
+    "d07b35231c1fb21b48fa23c01403eaa8",
+    "650c4e074a626f282d5e75f7ddc0be4d",
+    "dcb46e9b40722e8d1476f5b62706acbb",
+    "19722824e8be328fa0e96a6095a215a2"
   ],
   "transfers": {
     "pages": {
@@ -20968,6 +20968,26 @@
     {
       "t": "aren been big but clear especially event far fortni fortnite half has held mastery monday players regular seasons some still they this two weren what",
       "ts": 1794258524.047271
+    },
+    {
+      "t": "1 150 150m 5m 8217 according annual billion championship china cny further game games golden invest million mobile new next only over pledges riot spatula tactics teamfight tencent three usd version will years",
+      "ts": 1794258529.2306619
+    },
+    {
+      "t": "agency busan charging directors ending ends esports federation free government iesf international its january metropolitan move news offices push rent reported reportedly secretariat start sunday will yonhap",
+      "ts": 1794258532.652574
+    },
+    {
+      "t": "1 584 agency brand drive esports increase media nbsp partnerships q2 quadrant quantisnow revenue segg veloce",
+      "ts": 1794258536.0413141
+    },
+    {
+      "t": "140 chinese commits develop ecosystem esports million nbsp sheep tencent tft",
+      "ts": 1794258539.4106138
+    },
+    {
+      "t": "36 developer floor has interactive killing laid lays maneater more off read staff tripwire",
+      "ts": 1794258542.8396719
     }
   ]
 }
