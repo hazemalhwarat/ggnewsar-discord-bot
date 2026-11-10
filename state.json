@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGY1dWxJaU43R0t3dTNLeDkzX04yUEtVYy14VGV3aTVlclNoTlNQcTduLTlMZm5FbWRubFZwQ052V1VmWnljSHlOUkFLajRPZ1RfcU90ZGZnbi14aUJfcW5KaGJpeklQS2FHeVRYNXowcWRFSnNuZl8yS19Ec0RoczNsYkotWE1lSHRqTjNTSTJvaDJOY3dBS1FSUHRRSUx6ZEw3TjB1RWJRZHVPaXgxTlhGY0YzMDA?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZWkJyTTFtXzRuQUwwSGE4dzg4YWZtTzhHQUVpUkZXWmQ4eDdhbzg2VzhobGxDc0tlYktTTmN5Z1h4Vl9tdEdrY1plZnZYRzYzRVFR?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWlRQ1duLXlwUTlqY1hUVE90dkJVWUdLTzlsbHNLMHJfSWpSd2lZVUpKT0FFR2xMYUtiWTVnNy1HazFmLTdmTkEwOTVNZS10R01XNzV5ekhMc2JIcmlXcVFNYUVVdkVDNUlldUFKaWlxZndOMkVZWnpSb3M3UFpDbWVGZWhPWmg5bHc2MTlreHBGanp5TEdIOGZqcUI3NGVOTkdpYzF5R19hUm9yS0Uw0gGzAUFVX3lxTE1qSFFuX2I3dWtQb2NIeVQ5bE0xNlkzUWhUNHNESGxsdkQtMEpLdnB3OVZ2SUFsMUZWR3NJUGo1MEJ3Y3k4Ujc5dmh3TVFvVFJ0OGZ6QXd2MjFVZVRia1d1UWtySk5lc3czRHJFLWFqenY5dHVUcWxjWGRSQWJVMmtYVlFlZEJXZUVDdDJlc2RwMzMwZWdiMXZTcDg4c1pHWEllQTBkSXFfb1JsYjhkZlZuems0?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWYzbS1iVWVFV1dlQ3JiOUpERk9IUm1sM3dRV2xDWXJPTHNGNFhrZ0tQanRSRUJ5Sk9mcDhlbFNwcUp6RHM5WVFPMktFekhYXzl0VnJ2WUc3X3MtZVB1NjZFMkxaZVpUSTl4VlRFWTNROTR0RlVBRmpjNzNMV0x6UEZ2WVVXcjRzMWxlTXJmYnZyekdQVk5BamxNX254S3lZZlhnR0F3LXk5X1R6YjBYdTJ1VdIBtwFBVV95cUxNeXc4cG9abnJvTEJmdThleDdvQU91QUVzaF83Y1U4bnhQZ3UzUW1PNjFjSkpMRzd1MnR3ek1jak82OXBIMFNFMEkwb1FXLTNmYzdOWVh1WFZ5aUVNaU1zUVBHTFkyeGpPTmhSNXZlRWJaRndCYTIyRF9vU1UxdnlheVlrb3p0ZWVPQkhENk1YOVJtbXo2c0lZTjJDNTRrT0JPaVVmb0ZIZFlkS1FseVhobHJ4OFF5aXM?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NZjZoMnhESHFRNXB4SEJaOE53SFdzWjRpSmFYZVhjY0JwYl9nbFd4RTJoSzJ3bFhYQkRheEJJQzAxaUthOHpyM0hESy1sWGZJN2E4NGF0dzNQc1dhVE5aUk55VU9wb3BZNXZTWk50QzNBX1E?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0VTQWxxSWdOVG9nU3B2b0dhX192M3VoZTZaUmxaRUQxYXV4OTVMSE9GWTYybHB3dDF5VmV6ZkRxdndrZGlTblExTnpDYVJDSUtkYld3LUdnYzFJRFljc1VqSndhWGJ2RFNXb1c4Y2s1ZGVYU1FKR1gwaWZMQTJINDJLSVM2Tm0zTXVvSDV6ZHRDNEdXMl8ydGNNeWJvbVp0ZWdlX1VyUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM1Uyc2k4UTIzandMWXhfRlRKc1hubXRoYzFXWE9va1dKTWVxU2txckJ6ZW9JNXQ0UTNOMURrNDRUcVRjN1dXd0NjTmhFNUZBQzF0dXdRYlZiSjVMV3FCeDVUSFE1WFNra1pWTUFUMXpfbTY0N2R0NnJtSENCSDExT2FfT0s3cUlMbFE?oc=5",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpZTFxNmJ6ZTh3aTkxUHRGLWs0Mlc4M0E3dmJ2WjZmbV9xc2htQlFIWjFsRDViWURBTHVoWnJReEpMc0ZVZjZLQ2M3S2c5ME5FSWxvMmpwOVB4QVozeW9HMFRCWQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWW1GOFEzeWhObnBLVFozdkNTc0I2clpIZEQ2Yi12TTc5eGxoT0pmZml3VUdQRDJrVGEwYURha2FSVUJSYWVTdFVsS3pZWXpWR0V6eTY1VXNQNVdweG1CY0lMNUhHb3hiRHpHb3dEUWx6Ujd2Rk9LcTY1YXE2cnJuRHg1T2Q5aEJXWmZjVlROUW1NYVNnTVJfUjl0TGdDWFZHeGVfcHI5TU4?oc=5",
     "https://pley.gg/valorant/sheep-esports-gam-line-up-crazyguy-as-their-first-valorant-signing/",
     "https://pley.gg/cs2/las-vegas-weighs-2-million-blast-deal-to-host-a-2028-major/",
-    "https://pley.gg/cs2/pgl-lock-the-singapore-rosters-apex-in-for-jl-bntet-at-gosh/"
+    "https://pley.gg/cs2/pgl-lock-the-singapore-rosters-apex-in-for-jl-bntet-at-gosh/",
+    "https://www.invenglobal.com/articles/28390/who-is-asias-best-overwatch-team-owcs-asia-finals-to-be-held-during-g-star",
+    "https://www.invenglobal.com/articles/28389/take-two-q2-net-bookings-drop-18-projected-to-double-next-quarter-driven-by-gta-vi",
+    "https://www.invenglobal.com/articles/28388/paramount-games-studio-hit-by-layoffs-skydance-says-some-projects-scaled-down",
+    "https://www.invenglobal.com/articles/28386/game-days-2026-bridges-console-development-experience-and-creative-passion",
+    "https://www.invenglobal.com/articles/28385/shuhei-yoshidas-advice-for-indie-game-development-in-the-ai-era"
   ],
   "title_hashes": [
-    "d52a5fb55a15595ce61eca199c3d15a5",
-    "8db777174c613b84d3dc4e62c8e3c3e6",
-    "a8899fe44582dbdb471f315b6b979708",
-    "48041d2df72ab381da88b49e3c321ee3",
-    "0870ee53934ae9cd1d2bb1fb482b4a90",
     "78040336fb4602e19b4d6e25e74bb2d8",
     "77b867f22e0e71f7fb0d96aa2cf4e849",
     "6fcf5e7d1e46c9d9b518d296f0093d8f",
@@ -16001,7 +15996,12 @@
     "4fc75da43e2009a430c34beaab831083",
     "2c59433d6aaa260d7c883331d5b69ff8",
     "22a7f6abd57be88794bfde73dd41dcd8",
-    "a303724caa9126ff8540e7650e8bdfcf"
+    "a303724caa9126ff8540e7650e8bdfcf",
+    "1032786653b1b5f513837464fc9394c1",
+    "e20c23737a7665c3c111de5919e539b3",
+    "6c7ad6bfca47ea709707e454bd493624",
+    "2a8f894131e711dbacdc6689f85afdf6",
+    "443be29c90e19cb07792023e7572c502"
   ],
   "transfers": {
     "pages": {
@@ -21056,6 +21056,26 @@
     {
       "t": "anlelele apex astralis bntet cmtry four fut gosh ins jabbi ksloks legacy lock locked major n1ssim name pgl registe rosters singapore stand sunpayus vitality while",
       "ts": 1794258608.39827
+    },
+    {
+      "t": "20 2026 22 asia auditorium best bexco blizzard busan champions during entertainment finals held host november overwatch owcs series star team who will",
+      "ts": 1794281604.662968
+    },
+    {
+      "t": "18 2026 2027 9 bookings double driven drop fell fiscal gta interactive its july local net next november projected q2 quarter reported second september take that time two year",
+      "ts": 1794281608.2966654
+    },
+    {
+      "t": "business company disclosing down employees following games has have hit its layoffs paramount parts projects publicly reorganized says scaled skydance some stated studio terminations that their under",
+      "ts": 1794281611.75077
+    },
+    {
+      "t": "2026 9 bridges conference console convention creative days developers development entry experience experiences game global held lotte market narrative november passion platform sharing sky31",
+      "ts": 1794281615.1894872
+    },
+    {
+      "t": "action advice barrier bic busan but connect could development due enjoy era festival found fully game indie korean language liked not recalled shuhei that this year yoshida",
+      "ts": 1794281618.5952969
     }
   ]
 }
