@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.sk-gaming.com/news/a-new-lec-year-begins-with-a-new-sk-gaming-roster",
-    "https://www.sk-gaming.com/news/nhow-gaming-studio-at-nhow-berlin-certified-by-sk-gaming",
-    "https://www.sk-gaming.com/news/sk-gaming-and-recaro-gaming-announce-strategic-partnership",
-    "https://www.sk-gaming.com/news/gaming-rooms-at-nhow-berlin-certified-by-sk-gaming",
-    "https://www.sk-gaming.com/news/amaran-to-light-up-sk-content-and-live-productions-through-a-new-partnership",
     "https://www.sk-gaming.com/news/new-valorant-team",
     "https://www.sk-gaming.com/news/sk-gaming-unveils-2024-league-of-legends-rosters",
     "https://www.sk-gaming.com/news/sk-gaming-enters-the-esports-association-nrw-and-esbd",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28378/co-op-roguelite-fps-guns-dragons-begins-3rd-playtest",
     "https://www.invenglobal.com/articles/28377/44th-golden-joystick-awards-to-announce-winners-at-3-am-kst-on-november-12",
     "https://www.invenglobal.com/articles/28376/janatdae-26-roblox-main-event-begins-nov-12-with-3-day-multi-game-competition",
-    "https://www.invenglobal.com/articles/28375/daewon-cts-launches-hp-omen-g3-gaming-monitors-in-korea"
+    "https://www.invenglobal.com/articles/28375/daewon-cts-launches-hp-omen-g3-gaming-monitors-in-korea",
+    "https://www.invenglobal.com/articles/28374/netmarbles-new-title-pearl-in-blue-to-attend-japans-comic-market",
+    "https://www.invenglobal.com/articles/28373/hot-wheels-monster-trucks-animated-series-season-1-released",
+    "https://www.invenglobal.com/articles/28372/atelier-karia-unveils-story-trailer-and-new-game-details",
+    "https://www.invenglobal.com/articles/28371/geng-and-blg-to-clash-in-lol-world-championship-finals",
+    "https://www.invenglobal.com/articles/28370/mobile-idle-game-ghost-online-idle-officially-launches-november-24"
   ],
   "title_hashes": [
-    "0b8a41c24f1921e79cc08178166e4848",
-    "71b1f359362d456953220e68ca1149f8",
-    "71b1f359362d456953220e68ca1149f8",
-    "71b1f359362d456953220e68ca1149f8",
-    "421e6a9d3b33f37dec5fb5dd8939e30c",
     "421e6a9d3b33f37dec5fb5dd8939e30c",
     "421e6a9d3b33f37dec5fb5dd8939e30c",
     "870d70b61e4a4d407da3a6d9587a555e",
@@ -16001,7 +15996,12 @@
     "50ec130d433a2a3de8c73c952db7170f",
     "195aac0692d0d96bc7e1fdafc0635c23",
     "a172aa2e6ed56f631f488109a304e688",
-    "e83fef00a7c08cdca6d3b5f7ea10875e"
+    "e83fef00a7c08cdca6d3b5f7ea10875e",
+    "30f9524904d3204cf4319a73ca18907e",
+    "5590fc34fea918125440d01e6666398c",
+    "f3160a2553ce956e9ab886ae5f346b89",
+    "8830b712e30bfb61cc5f2029fc91c0f3",
+    "7710b30494b46f7aa3ba6d717f663c11"
   ],
   "transfers": {
     "pages": {
@@ -21116,6 +21116,26 @@
     {
       "t": "10th 320hz announced cts daewon dwcts g3 gaming has korea launches monitor monitors omen rates refresh released series south supporting that",
       "ts": 1794281656.8971941
+    },
+    {
+      "t": "109th 10th announced attend blue c109 comic its japan market netmarble new pearl showcase that title will",
+      "ts": 1794281661.9786956
+    },
+    {
+      "t": "1 6 animated camp channel crush domestic episode garage hot korea monster november official operated released season series trucks wheels youtube",
+      "ts": 1794281665.4702964
+    },
+    {
+      "t": "alchemy amp atelier details digital game games guide has karia kingdom koei latest memories new night released rpg story tecmo touch trailer unveils",
+      "ts": 1794281669.1665566
+    },
+    {
+      "t": "15 2026 4 barclays bilibili blg center championship clash face finals gaming gen league legends lol new november off place take will world york",
+      "ts": 1794281672.7287045
+    },
+    {
+      "t": "10 24 6 announced arts developed game ghost idle its launch launches martial mgame mobile november officially online pre rpg self that will",
+      "ts": 1794281676.303593
     }
   ]
 }
