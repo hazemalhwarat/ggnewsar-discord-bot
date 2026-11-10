@@ -1,13 +1,5 @@
 {
   "urls": [
-    "http://www.surrenderat20.net/2022/10/104-pbe-update-preseason-2023.html",
-    "http://www.surrenderat20.net/2022/10/pbe-preview-bewitching-2022-three.html",
-    "http://www.surrenderat20.net/2022/10/red-post-collection-preseason-2023.html",
-    "https://www.invenglobal.com/articles/27339/americas-representative-loud-becomes-first-two-time-champion-at-champions-shanghai",
-    "https://www.invenglobal.com/articles/27338/lenovo-korea-officially-launches-yoga-pro-9n-in-south-korea",
-    "https://www.invenglobal.com/articles/27337/steelseries-launches-four-fortnite-collaboration-gear-products-in-korea",
-    "https://www.invenglobal.com/articles/27336/flyff-universe-to-host-fwc-grand-finals-on-october-24",
-    "https://www.invenglobal.com/articles/27335/rain98-releases-first-steam-demo-featuring-3-hours-of-content",
     "https://insider-gaming.com/dan-houser-red-dead-bully-development/",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLUY5TFhvalZxYjVFVXF6bjd5OFpNQWs1czhlMnF5QlprYTNjUW5XSFR2X185Z3N5a2hQZU9tVHNqUXowaDU5cEJNckhqd0gxaWVZZUppejU5d3dMQzFfNkxfMGlkWjNkYXN6aWMwaFp4YUpzTi1odElPQnlPRTljWnVDNTViNEg5OUE2M3FxWkI?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RMnVpV3JxMkFaa21XRXBCc256eUdaNFFUbmduSi1HR25xSTZFbEZjSDEyRVBhcnNkNDBTYlFxVVMtbmVfdng3ZkZrWVNpXzFPOGQ3WlhMX3VIZTJ2UFhHTVVSejVONXctNXM5TVZiU0J2NDlaU3RhZ3UxV0g?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.hltv.org/news/45962/official-fluxo-pauses-cs-division",
     "https://www.hltv.org/news/45961/apex-tops-the-fantasy-pick-chart-for-his-return-at-blast-rivals",
     "https://www.hltv.org/news/45960/sources-fluxo-to-put-cs-division-on-hold",
-    "https://www.hltv.org/news/45946/economy-filters-added-to-stats-pages"
+    "https://www.hltv.org/news/45946/economy-filters-added-to-stats-pages",
+    "https://www.hltv.org/news/45955/try-we-felt-way-too-comfortable-when-we-got-to-the-top",
+    "https://estnn.com/pgl-major-singapore-2026-results-standings-tracker/",
+    "https://estnn.com/the-finals-update-12-2-0-medium-weapon-buffs-fcar-akm-chimera/",
+    "https://estnn.com/helldivers-2-noxious-terminids-poison-spewer-bug-caves/",
+    "https://estnn.com/space-marine-2-patch-15-chaos-siege-crucible-thunder-hammer/",
+    "https://insider-gaming.com/lol-patch-26-23-preview-buffs-nerfs/",
+    "https://insider-gaming.com/devolver-digital-reveals-its-first-aaa-game/",
+    "https://insider-gaming.com/gta-6-most-pre-ordered-game-playstation-xbox/"
   ],
   "title_hashes": [
-    "89327b43c595696216594f367f39dec1",
-    "845af9647c0df1201b841a67a74eb66d",
-    "93a121d10f3b96ad3c7deaacdef2f9f8",
-    "1dbbf30d36bb9b70f57ced6ed7ce1381",
-    "d7071415b42f161de338ac4c7094a4ba",
-    "4aeccf1220e92a24361cb164d797fa8e",
-    "7458a66353203646d5d2c8a4543c8aab",
-    "96a48d4feb2e55b857e18360ccc5628a",
     "5ef1f4a14c82c6e1566bd5e7beb7b55f",
     "7f86c153faff1fc62ec6ce960962b1e6",
     "4b6225020506205530ad514d2b7ed117",
@@ -16001,7 +15993,15 @@
     "90a3ac146b2d3f300c739bc549f5821e",
     "c74f86f208c466b66e5057a3c347cf78",
     "9d62a7b1e338e043b07a4e1624a46cbf",
-    "a728533bdac7173982d6692e62c181af"
+    "a728533bdac7173982d6692e62c181af",
+    "a79ce5de353ec7f8043d219e1f724a31",
+    "d08eed82f04f1df724e9e3f5da64b775",
+    "dbe61bc2d5b14520e5bb6c0380f810b5",
+    "beb11d3329757f23b1690b85fa8a2251",
+    "12780a3332d79c04152ba3c9e5a54b87",
+    "740e593d2d01e8ecee5928b47c11f138",
+    "5a284c895e03f835856a1f801a8bf210",
+    "2882ec40b2cd0d53be4041a691e31b8e"
   ],
   "transfers": {
     "pages": {
@@ -21140,6 +21140,26 @@
     {
       "t": "across added advanced anti can economy filters hltv out pages rating rolling round see stats you",
       "ts": 1794337821.472799
+    },
+    {
+      "t": "about awper back comfortable felt get got his how legacy recent speaks struggles team they too top track try trying way when",
+      "ts": 1794337826.422
+    },
+    {
+      "t": "13 2026 24 added after dates december each format major money november pgl prize results round schedule singapore standings teams tracker",
+      "ts": 1794337829.8864594
+    },
+    {
+      "t": "2 2026 29 3 added biomes bug caves fixes helldivers more november noxious october poison scavenger spewer spot spots stages terminids weak weapon",
+      "ts": 1794337833.440001
+    },
+    {
+      "t": "8220 8221 aaa after announcement appeared devolver digital first game insider its made new post release reveals teasing their title",
+      "ts": 1794337837.045282
+    },
+    {
+      "t": "6 ahead become confirming game gta has history launch microsoft most ordered playstation post pre record sony store xbox",
+      "ts": 1794337840.4674077
     }
   ]
 }
