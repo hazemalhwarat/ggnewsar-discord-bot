@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUkwTUdTNy1lUHQ2UjQ4UDR6Y19NZ3ZJUkZSQ05DWktWTUFRV2FGUmtlWEtacFhYS05nS1NmbXM3a2FVNDB2RTZNbFZLamVBWWFjVVpwZTJiVmZGTmlzbGZ0UkNfR1BpREU3c3dEY1UwclppZG4wVFFXRjRuREVudzNjdGpTcHd0QXZsbGs1MTA3MXVHOGlyQS1uRFdqdEk?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVXVrVmFmRUNQLUdHNFlxWHFUbXpIbmFqN0lYSnVMaGRwYlJSVDdGNzNzQmk0UHRIMXpBOTF2UGZkVlkydTdoVWxJamgzZGZUbTRNazA3TXluNEJzVmhwMkIwS0hNNV9xNGZYT3g2QllNWmdTMHdrNmR2bFJlRGZhX04xOVJmVVVFRjBXTFZDRG5hMjRvVUlMcEN2WEpvQklFcWVxdERrbE41YTFBbTdFdlFzemg?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVZXU1hLMm9QYV9UWDdyc0dRdDQ0WGxfeGRqWUkwenFDUEtId00tdW50bjlMN2dUdmc3ZUpnd005MldzTjk3STVSMjBibFVFVzRRZkdJbU9BWVpOWjhMaTdXUjE5UFVyZ0JFSVVvVEJkeXRacGExWjhVcjVLa3V2ZUtXeFFzYUlENXZSSzI0MWZHNU03NHQ5b21FenRwZDVxd2d3WUZua0FlYkdSaWJaRkh1U2x1VXPSAVpBVV95cUxObWFzd1JTYkVxY21yT25vX3dMVW5Odl9HdHZ4cFFJOFBKOGVmbnNlMGkyX2w5Sk9oMnktREx5NVlYZkIxU2VxZVkxVkVKN1ZiX29TNDc3WTVNTEE?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVJRc0d6b2FfcVBfZnpTV1RCaW9wNWRTVkkxMGxOa3hCaDNpRVZCNFRicjRoZGdhNkhuOHhYVUs2WHhINUZDTk4ybHRjWDItZl9zZ21PbEo2ZHdSUjRJbUdkdlN3VldjNk9PYkpOdkRKNzAySklPYV90R19ZSTBBa1Z3VWc0N1ZTQks2a2ZQTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT2VzVmFqSndNTWFLdnNMY1pzTWE2WUdNVzdDeW1sdGNIeWNMNWNiYXZwdGxIQTZOSmxrMTNEX3VHampsWFdob08yamExZ2JsZDhyY3lwUDRyTDdpcmpvVGg2MnhBaVQ0WDlncG5EcFl6aElhZjAzVTRuSEFtVUdLaEJmM3RNa1hmRXc3VFVfQTR6TEFNS0VFR2Rfb2E1WTJ2T090dTVKYXRaWmEtOHVEXzFwQmhXc2o1dW5OY1FaV0wyWE5fS0RXVFp5MDg2Z0RpWVlWYV9mYnRJS0lKS2gyTk5GekRBYi1Kb3ZZ?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlp2VTNVRkVrbS05TkswVEhBVDJtV1hlWUVxMUhKZmdiOUZicXpxOGVjODdlVFFVMXpuOHVnTWtxbjViR3I4QnVSYWozRnBSTmt3WGlWZDZYREVRMGVaaW1IeG1KYU9XQkdlQ0VfVTF0T1J4Wjl0OGY1QlBQRjZDN3JSSnB3X081Vmd3U3hqQWp2aXhqcndHUVVLUk5YMjZ4d1dpTkRzQThHVm9tR25aRUs1U0x3WUtETkhj?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHZiS0VrV19SalRZRmFUUWM5ZzJDWkhWbDNFVHBlQmtDVVg1OXVLNUZjcHBId0x1dzJBcEtHN0hQYWx2VnZnTVZjMkJLYlBxR3k0VFpwQUJqajVtX1JqemlrZDlzSkR6ZE4xRVJfSkhXd0RYN1FoUXE4M1AwZFNITHBWZUdwbUJCOC1rVzRwYkMyUGZIYVlEVUpWRmRQV3Bw?oc=5",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODM2b3FVeGhMM2Yybm9kMVdmbnJvdFpCNWUzbUhZZGJQWExDTkUxMXBnd0stc25STEptRzcxZ05saGpic3hSREl3akZ0VW5mN2J4dnBUY2UyV2ktNlJsemdTNldUeWRRTlliczQ1OVkxTldCbGJsY3lkUlJfbm1ZSEE1UTRlcFcyYldKVGxYdkdlclJ2azA0OERPZDVFWFJfMVp1aWtYS1FydERybk40NnZ6ZVlwZTUtSDN3?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1pXbUNINjFZbXJnTTNGWkpBRmdxaHVLa3ZkajFkZ09yU2dZd2pKNHl2YWtpeERqSzlOX05Jd2FYckg1MVBSWGltS0hMVnZLZ25fODBhRmc5eFdTdTlSNWp5QjVRTGd3Sm1nNUlTTjJaY01vOE5HVWlXcW1CLWlPYXgxNUREcHhrSEJPbHZTMEZCZmpWMTF1SndibXhPcmo2WXBPNk0zR3A3Yk1OSlF30gG0AUFVX3lxTE1DVkowMFBzbkZ4TmdvZkwya1A0a0VQZWVHTXNqc0E4SmFWQmhwblJsN0JFTEU2TmRILWpQTGFZZnZKLVg0a3pKSlJnVkdPQkxxclJEQTJnYWJtMkp0Q3N3XzBwd1AtMnExUUdDUlZodVI5X05QY2JRRkwtbUdUcm14bGhlVkdDb1dTRnRhak1HYTZOMDFuNXJlM0dGSXRrdWlaSFA3cy1GUFd4NjYxRmJ3QWMwZQ?oc=5",
@@ -7999,15 +7993,15 @@
     "https://thegamehaus.com/fantasy-football/fantasy-football-players-to-add-week-10/2026/11/09/",
     "https://thegamehaus.com/college-football/5-things-to-watch-in-college-football-week-11/2026/11/08/",
     "https://traxion.gg/tommi-hallman-wins-fia-esports-global-rally-tour-european-shootout/",
-    "https://gameriv.com/valorant-patch-notes-13-10/"
+    "https://gameriv.com/valorant-patch-notes-13-10/",
+    "https://g2g.news/esports/krafton-announces-bgmi-4-7-update-for-18th-november/",
+    "https://gameriv.com/apex-legends-crypto-gets-more-buffs-as-worlds-edge-loot-vaults-are-removed/",
+    "https://gameriv.com/youtuber-typical-gamer-spends-80-hours-hunting-fortnites-rarest-reward-then-misses-it-after-quitting-one-match/",
+    "https://gameriv.com/marathon-symbiosis-open-play-week/",
+    "https://www.hotspawn.com/valorant/news/valorant-patch-notes-13-10",
+    "https://www.hotspawn.com/deadlock/news/c9-deadlock-team-melee-creeps"
   ],
   "title_hashes": [
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "80b28b33592b910044affd111d65d4e9",
-    "a31766084133beedeefacf37c151b714",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "eee0677c3d1749c7fd4b37d740623318",
-    "1a52c3e7cf976eb0c5d71a6b2f5923e4",
     "850d1d695ede7a8ff8904a779f7082ca",
     "850d1d695ede7a8ff8904a779f7082ca",
     "a4fccb9beb09c1f149cce4e44acf27aa",
@@ -16001,7 +15995,13 @@
     "8f583692f6dab9a2d0af83e372739b2d",
     "9014f977c9bb48abfc5fde685000593a",
     "39ff6ed76cad130db3f2342418115dab",
-    "8218cd426534ad26e18475be7730ebda"
+    "8218cd426534ad26e18475be7730ebda",
+    "3d075e143f1788ad7a17af7d9cdfb3c5",
+    "1cb98cc67f7088ae652a75191e23e5de",
+    "2c1a4cab3ed4f0f5e9e67b93bfde5c78",
+    "1733cc57e5b594a972318b24b68b79c1",
+    "d1f6aabc89c6ec0d105eff5c7a69b875",
+    "5fd2cad9670975ff5a7b2acb66b91e0b"
   ],
   "transfers": {
     "pages": {
@@ -21200,6 +21200,26 @@
     {
       "t": "10 13 agents bookmarking bookmarks bringing buffs changes collection cypher feature games gauntlet has killjoy massive new notes patch released replay riot sentinel some valorant vyse welcome",
       "ts": 1794337878.4942672
+    },
+    {
+      "t": "18th 4 7 announced announces atmosphere battlegrounds bgmi bringing chilly has india krafton mobile november officially out release roll scheduled screens upcoming update",
+      "ts": 1794337883.3849535
+    },
+    {
+      "t": "31 8217 also another apex buffs changes crypto edge entertainment gets giving has improvements lates legends loot more much needed out removed removing respawn rolled round season some vaults while world",
+      "ts": 1794337886.9177065
+    },
+    {
+      "t": "80 8217 after because decided exactly fortnite gamer happened hours hunting imagine joke leave match miss misses one only popular quitting rarest reward rewards searching spending spends that then typical what you youtuber",
+      "ts": 1794337890.3789356
+    },
+    {
+      "t": "2026 8 able access announced another bungie chance crew december entire event everyone exclusive free full game giving inc into jump marathon open play players rewards starting symbiosis try upcoming update week will",
+      "ts": 1794337893.8061326
+    },
+    {
+      "t": "access announced been burgeoning but c9 deadlock early easier entering esports get getting has into invites just new org popular roster scene signing stepping still team title valve",
+      "ts": 1794337897.2680342
     }
   ]
 }
