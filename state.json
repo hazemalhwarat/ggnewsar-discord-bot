@@ -1,17 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mZDE0TE9mT1BhRE9TMHNENWU5MWpjRzhlU1QwRDltaFhVOU1YRE9tcTFKN0tvV2tRZFg3amxOX0pNck1pdWpHX0tuaUhqU3g0NTdDTg?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03NVhZNlZ2X1ZSSGNvOFJtSVd2VEV0ckc4dERwN21PeUtfVlJtbXRWNnNXMlVQUnlOSnNmVVh5RUFhT29YT0lfMlN5WVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NeXFBM2VFUExIc0IyWkFxczVYM05wOER0ZTQ4S2EzNVpmVVRXb0RDVm1tVkZCaGVnN3YxcmRSMXk2WmRkNjNxeTdR?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWFnRFRpQlRwMnkxMlQ2V3FQTkFKSWlKU043U0t6UktsdFpoc3NaMmtING5aRmtvOVFhTW5ueGtNZUd3Y3N3SFhndzBnN09WaEhLZDN5eUR1clpSOGRiT19kV2pCWE5scDAxSlJtWFI2NmFvSEVhd1dfYmlUTTRKQkRObGlfa1FCWWdCOVhyd0ppZ183ZVlWbWlqMHA3TlRBSmxNc1ZUOXhiWUNvS0pLRUVGR0pHOC1HM0lIbWpBTWFYSXB2SEJB?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NU0IwblIxNWRXWkI2VHRlVW9qNUdPQmZlcVlIQ2VoUEhraS10OVlJZVV0M19sSXgzN1FnaFN6SUxNdlE3NWw5YkY2TFpWV2kxY3EzVGcxVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83VVF3LXcycFBoUmRTVXo3WlViZlp3STc3eHBSSmFiUVpWRHFzcXVjUng1R1dQWE5QTHpuaFB0ME5Tc1VyeWl1YVNDUi1HMGMzeDhWdEdOV2c?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ydk5sV2FkUlc5UE0xN25XSFFzM3BrVFc5SEtkdEVYQmkxRGhkTTZlN1NldU5HM2EzSjBxY3lWS2hnR0FXS3c0N1B5cVQtVERabHQ4eU5GdDV3alhJeXl5Nld2UzBaWUpmMG53RThTQk9jdzRFWXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBncWpEQ3ZGLWoweDdhS3pYUkJzN1NWR2oxQ1VIOUxXM1NtY0ZScjBVWW42LTVVYzlDVTZKc3l0d3o0RldSLTNLS0l3UFhPTHk5S0hNS3c2SUtSZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSUJHcHNjSnVpOW15ZnEtLXZOQmllSEJiNjJ4WjBxZzNaelVVN1hPeUotTnAzeExQS25VN3RBZ0pzazlXN2FaNUFvZEJaNk5aWGlFQnktcE01dUpkSkdJeXR6VHExbmlJRzlKYkhldGc0cDRZOFdWaXdtZmFJdkVqVS1KcExrQWx2?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EZXRtakg3MnJFZlpRcnZWWFppS2VFZ1FYMUxjc1VJd0ZfMXI5VFloZnV6Qkc3WHRuQzlCUTV5RDZDbUZKWHhSQ0ZPTnF1QjFSOTB2bldPbUNqT2dRLTFHVVUtOHh4SjBGMmI2VVZUWGhGVGwwWVE?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaV9KQVkwMVJSZjd5TmxQcXp6NWlTS3Z0dS1nSE9KVGJfUzd6S0ZsU3VOdVFYZlZ6Uk5DblN2YklWelhuUG1IWTNUOWZPamRCOUMyVW9LMkplcXJoVkJlRnNyUHk4TGNKV2VkSlkwTU5kX0ZUMEpDVVBlemw5Y21CN3p3SmtscV9tVjVlS3VKdTh3Y0lhaUM0aA?oc=5",
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa1JSMEtXbS1Bd0pjUTJaY2UxdTlCak5PeGFwelNLb0RhZmliLTRIdEppY216YkY0NzBqVDNvTFJwbWhHVEkwZjh4aTlCMHZ5S1Jud1J6SEVIbi1XMFN5ZjZFbXpHMlNqNW0tVHJJS3A5emNENllESVViSVM0X2k3S2pjMmpOZUJ4ZU1JajVvYnJTMUh3ZDJkWTBoamRzTGdhcjFXX2otUE1qS3NpTTNnNWV3NXZKMnd2b3lIVHp3dnhPWE9mZlpPRkRVbDZhTnh4M3dHVGI2cFpidDjSAeIBQVVfeXFMUGVDZk90MXFvai1JaXN1QVFILTNSWVVPeTB1eDByOGJvLWlKTW1wbmdVNVNCYUd6ZEdQc1BBSXBaMjU0akFLaWdmUUw0RW5jTFp4dGQxc21BX1BUUDNwX1BqZHNxdUhFY25oUE5MTTRlUkpjSmNRQTlqMjFMbFhRTnEzbU1iMkNxNlQxTEdMMnVoQVZTMnpyQmZ1M2tYVmdfakVIV0xlOGJyZFk2SEJLazh3T0JvNWZUNThKRTRjaV9IaTNrd1pBdGtCbGZtVFVJSHkwUno4YXJaRFpWYXQ3ZVhIdw?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUkwTUdTNy1lUHQ2UjQ4UDR6Y19NZ3ZJUkZSQ05DWktWTUFRV2FGUmtlWEtacFhYS05nS1NmbXM3a2FVNDB2RTZNbFZLamVBWWFjVVpwZTJiVmZGTmlzbGZ0UkNfR1BpREU3c3dEY1UwclppZG4wVFFXRjRuREVudzNjdGpTcHd0QXZsbGs1MTA3MXVHOGlyQS1uRFdqdEk?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVXVrVmFmRUNQLUdHNFlxWHFUbXpIbmFqN0lYSnVMaGRwYlJSVDdGNzNzQmk0UHRIMXpBOTF2UGZkVlkydTdoVWxJamgzZGZUbTRNazA3TXluNEJzVmhwMkIwS0hNNV9xNGZYT3g2QllNWmdTMHdrNmR2bFJlRGZhX04xOVJmVVVFRjBXTFZDRG5hMjRvVUlMcEN2WEpvQklFcWVxdERrbE41YTFBbTdFdlFzemg?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVZXU1hLMm9QYV9UWDdyc0dRdDQ0WGxfeGRqWUkwenFDUEtId00tdW50bjlMN2dUdmc3ZUpnd005MldzTjk3STVSMjBibFVFVzRRZkdJbU9BWVpOWjhMaTdXUjE5UFVyZ0JFSVVvVEJkeXRacGExWjhVcjVLa3V2ZUtXeFFzYUlENXZSSzI0MWZHNU03NHQ5b21FenRwZDVxd2d3WUZua0FlYkdSaWJaRkh1U2x1VXPSAVpBVV95cUxObWFzd1JTYkVxY21yT25vX3dMVW5Odl9HdHZ4cFFJOFBKOGVmbnNlMGkyX2w5Sk9oMnktREx5NVlYZkIxU2VxZVkxVkVKN1ZiX29TNDc3WTVNTEE?oc=5",
@@ -7999,21 +7987,21 @@
     "https://insider-gaming.com/caedrel-denies-lec-los-ratones-rumours-shifters/",
     "https://insider-gaming.com/playstation-plus-cloud-streaming-pc-app-being-retired/",
     "https://insider-gaming.com/playstation-plus-games-catalog-lineup-for-november-revealed/",
-    "https://insider-gaming.com/gta-6-ps5-vs-xbox-specs/"
+    "https://insider-gaming.com/gta-6-ps5-vs-xbox-specs/",
+    "https://insider-gaming.com/xbox-ceo-announces-10-year-take-two-partnership/",
+    "https://thegamehaus.com/los-angeles-chargers/potential-trade-destinations-for-khalil-mack/2026/11/09/",
+    "https://thegamehaus.com/jacksonville-jaguars/eagles-to-trade-dt-jordan-davis-to-jaguars/2026/11/09/",
+    "https://thegamehaus.com/college-basketball/college-basketball-picks-week-of-november-9/2026/11/09/",
+    "https://thegamehaus.com/jacksonville-jaguars/falcons-to-trade-jessie-bates-to-jaguars/2026/11/09/",
+    "https://thegamehaus.com/college-football/college-football-week-11-picks-against-the-spread/2026/11/09/",
+    "https://thegamehaus.com/college-football/college-football-week-11-picks/2026/11/09/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-defenses-to-stream-week-10/2026/11/09/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-players-to-add-week-10/2026/11/09/",
+    "https://thegamehaus.com/college-football/5-things-to-watch-in-college-football-week-11/2026/11/08/",
+    "https://traxion.gg/tommi-hallman-wins-fia-esports-global-rally-tour-european-shootout/",
+    "https://gameriv.com/valorant-patch-notes-13-10/"
   ],
   "title_hashes": [
-    "d61f1652fd3fdf3b798c2da9992aad4b",
-    "70f51263da87a395a2842b5b03d75c4f",
-    "4e7919603322bc3219636dd5d4a0c203",
-    "005fedb187c4c6defe6a2a2bb8188e5f",
-    "8df358eebbbb64bf19235a902db73505",
-    "248e17e74de8ec3baebce51002957a8d",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
     "850d1d695ede7a8ff8904a779f7082ca",
     "80b28b33592b910044affd111d65d4e9",
     "a31766084133beedeefacf37c151b714",
@@ -16001,7 +15989,19 @@
     "79b1cb72607f9fbd0b5f91b8eb2513d5",
     "4a0c5f25384c49bdf9c48b21d2587003",
     "8e648c9e657fbef6bf362d463eca89d8",
-    "0de2496b28bf324db764d1e51cc93ed1"
+    "0de2496b28bf324db764d1e51cc93ed1",
+    "88ded8cbd487e8066a683adf9af9058e",
+    "b80d0637258c4afe62d306c578ce1f6c",
+    "4b56fd3c2e3d1202219332560728a8dc",
+    "07b324be13353d95013d9008d4dcf349",
+    "b03e0db2a54780335e84cdeb07e3e256",
+    "c6a12f487fd1c085e489d1702d3dfef7",
+    "adc57d66d8849fb060f484789592fe1d",
+    "4000a1a1ba471573150436bb6ef3ea20",
+    "8f583692f6dab9a2d0af83e372739b2d",
+    "9014f977c9bb48abfc5fde685000593a",
+    "39ff6ed76cad130db3f2342418115dab",
+    "8218cd426534ad26e18475be7730ebda"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,26 @@
     {
       "t": "124 6 amp appear between come comparison difference features gta guide huge place post ps5 right series specs there wondering xbox you",
       "ts": 1794337859.3877969
+    },
+    {
+      "t": "10 8216 asha between ceo firm her interactive media new partnership post revealed reveals sharma social strategic take two xbox year",
+      "ts": 1794337864.4064107
+    },
+    {
+      "t": "10 approaching buyers coming could days deadline destinations khalil mack move nfl november numerous players plenty potential rapidly sellers talented teams there trade whether",
+      "ts": 1794337867.8741307
+    },
+    {
+      "t": "2027 2029 8217 according adam davis defensive eagles espn exchange first jacksonville jaguars jordan philadelphia pick round schef second tackle trade trading",
+      "ts": 1794337871.4278996
+    },
+    {
+      "t": "9 basketball big college games has here november overall picked picks plenty record season started that there this week will year",
+      "ts": 1794337874.9650009
+    },
+    {
+      "t": "10 13 agents bookmarking bookmarks bringing buffs changes collection cypher feature games gauntlet has killjoy massive new notes patch released replay riot sentinel some valorant vyse welcome",
+      "ts": 1794337878.4942672
     }
   ]
 }
