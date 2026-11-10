@@ -1,11 +1,5 @@
 {
   "urls": [
-    "http://www.surrenderat20.net/2022/10/ksante-champion-teaser.html",
-    "http://www.surrenderat20.net/2022/10/1012-pbe-update-loot-assets-tentative.html",
-    "http://www.surrenderat20.net/2022/10/1011-pbe-update-splash-tweaks-tentative.html",
-    "http://www.surrenderat20.net/2022/10/1010-pbe-update-borders-balance-changes.html",
-    "http://www.surrenderat20.net/2022/10/worlds-2022-event-spirit-blossom-skins.html",
-    "http://www.surrenderat20.net/2022/10/106-pbe-update-icon-tweaks-tentative.html",
     "http://www.surrenderat20.net/2022/10/104-pbe-update-preseason-2023.html",
     "http://www.surrenderat20.net/2022/10/pbe-preview-bewitching-2022-three.html",
     "http://www.surrenderat20.net/2022/10/red-post-collection-preseason-2023.html",
@@ -7999,14 +7993,15 @@
     "https://www.invenglobal.com/articles/28406/fully-overhauled-fm27-its-time-to-make-the-switch-85",
     "https://www.invenglobal.com/articles/28405/kda-and-true-damage-teased-for-worlds-finals-opening-ceremony",
     "https://www.invenglobal.com/articles/28404/starsavior-1st-anniversary-200-free-pulls-for-season-1-ending-more-rewards-by-year-end",
-    "https://www.invenglobal.com/articles/28403/deny-my-leave-and-i-quit-uk-workers-book-83000-days-off-for-gta-6"
+    "https://www.invenglobal.com/articles/28403/deny-my-leave-and-i-quit-uk-workers-book-83000-days-off-for-gta-6",
+    "https://www.invenglobal.com/articles/28402/1110-tue-seven-knights-rebirth-live-recap-previewing-awakened-eve-and-accessory-restoration-ticket",
+    "https://www.hltv.org/news/45963/coolio-to-stand-in-for-krabeni-at-blast-rivals",
+    "https://www.hltv.org/news/45962/official-fluxo-pauses-cs-division",
+    "https://www.hltv.org/news/45961/apex-tops-the-fantasy-pick-chart-for-his-return-at-blast-rivals",
+    "https://www.hltv.org/news/45960/sources-fluxo-to-put-cs-division-on-hold",
+    "https://www.hltv.org/news/45946/economy-filters-added-to-stats-pages"
   ],
   "title_hashes": [
-    "0f4c59ebf2072afc1e9839af3972b5c6",
-    "cb8f6d860c272c093f107c21cb26ddde",
-    "0f7e33cdecee80efa60ac72e59443c83",
-    "ddc3e6d0866145e56d2599aa29f13745",
-    "51c7de50e0d7f099035baae8443a68f4",
     "89327b43c595696216594f367f39dec1",
     "845af9647c0df1201b841a67a74eb66d",
     "93a121d10f3b96ad3c7deaacdef2f9f8",
@@ -16001,7 +15996,12 @@
     "104bf373c0fde44c278fd5bffd375828",
     "df33805e99ce96cb0398418e56cd0f47",
     "9bdbc8015b724690235b348f5ba5ed0e",
-    "7c3da126920a539c853716e48fdbe496"
+    "7c3da126920a539c853716e48fdbe496",
+    "57f103fbfab0f549511b9be462c58112",
+    "90a3ac146b2d3f300c739bc549f5821e",
+    "c74f86f208c466b66e5057a3c347cf78",
+    "9d62a7b1e338e043b07a4e1624a46cbf",
+    "a728533bdac7173982d6692e62c181af"
   ],
   "transfers": {
     "pages": {
@@ -21120,6 +21120,26 @@
     {
       "t": "000 6 83 actual annual book company couch days deny gta leave off quit reason submitted their this underwear week worker workers",
       "ts": 1794337801.7824602
+    },
+    {
+      "t": "1 10 11 5 accessory anniversary awakened birth broadcast channel eve knights live november official previewing recap restoration seven stream ticket tue tuesday year youtube",
+      "ts": 1794337806.8658094
+    },
+    {
+      "t": "blast coolio event hong issues kong krabeni mean miss rivals stand visa will",
+      "ts": 1794337810.4196553
+    },
+    {
+      "t": "division fluxo majority official pause pauses players reassess releasing their they",
+      "ts": 1794337814.369963
+    },
+    {
+      "t": "apex blast chart fantasy french his igl most pick picked player return rivals tops",
+      "ts": 1794337817.8841527
+    },
+    {
+      "t": "across added advanced anti can economy filters hltv out pages rating rolling round see stats you",
+      "ts": 1794337821.472799
     }
   ]
 }
