@@ -1,18 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27350/dark-fantasy-turn-based-rpg-billy-the-hero-releases-demo-at-steam-next-fest",
-    "https://www.invenglobal.com/articles/27349/kocca-to-hold-game-culture-festival-2026-at-bexco-exhibition-center-2-during-g-star",
-    "https://www.invenglobal.com/articles/27348/justdan-enters-steam-next-fest-with-in-house-action-roguelike-dinghai-the-ocean-pillar",
-    "https://www.invenglobal.com/articles/27347/call-of-duty-modern-warfare-4-begins-campaign-early-access",
-    "https://www.invenglobal.com/articles/27346/nc-officially-launches-new-mobile-casual-title-tiny-cat-assemble-survivors-in-6-regions",
-    "https://www.invenglobal.com/articles/27345/seal-m2-opens-pre-downloads-ahead-of-october-22-launch",
-    "https://www.invenglobal.com/articles/27344/elementa-joins-agf-2026-as-official-sponsor-showcases-silver-palace-demo",
-    "https://www.invenglobal.com/articles/27343/lunosoft-officially-launches-soul-legion-idle-rpg",
-    "https://www.invenglobal.com/articles/27342/beastfolk-barber-to-participate-in-october-steam-next-fest",
-    "https://www.invenglobal.com/articles/27341/wuthering-waves-collaborates-with-20-lotte-cinema-locations-nationwide",
-    "https://www.invenglobal.com/articles/27340/kda-returns-after-6-years-unveils-new-song-firestarter",
-    "https://www.vlr.gg/777408/vct-china-teams-announced-ahead-of-partnership-shift",
-    "https://www.vlr.gg/777336/vct-pacific-organizations-announce-partner-status",
     "https://www.vlr.gg/777321/vct-emea-partner-teams-revealed-for-2027",
     "https://www.vlr.gg/777300/vct-americas-teams-revealed-ahead-of-next-partnership-cycle",
     "https://www.vlr.gg/777318/global-esports-exits-esports-to-begin-anew-as-ai-studio",
@@ -7999,19 +7986,22 @@
     "https://www.talkesport.com/entertainment/marvel-binary-code-message-visionquest-finale-decoded/",
     "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-air-everything-we-know-so-far/",
     "https://www.talkesport.com/gta-6/gta-6-most-pre-ordered-game-9-69-million-sensor-tower-cyberpunk-2077/",
-    "https://www.talkesport.com/news/overwatch/overwatch-6v6-role-queue-competitive-mini-season-6/"
+    "https://www.talkesport.com/news/overwatch/overwatch-6v6-role-queue-competitive-mini-season-6/",
+    "https://www.talkesport.com/entertainment/how-to-rob-a-bank-clip-gta-john-wick-david-leitch/",
+    "https://www.talkesport.com/business/china-samr-approves-savvy-games-moonton-acquisition-bytedance/",
+    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jTHhMbHBPVm9rTnFnYjNoRUdxREFfVVFtQV9kc1JrRGs3czhnemExYnF1N1RLVjVKMURqQ3lJUC1TUGF5NE44?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlVVhTWHZ1LTBRV3NaaWxFR2FTeTgwM0swckVzQ0tVTlhMTF9EQTlRNjhXTU5hRGZ4eTh1VzV1cVFONG13SVIxckhYMEZhS3BZV3dUZDNwdUNyYi1qUmdtTENhVlgyZzh5dS00?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmTFg5SEZBczZXV1FHNjdFQ1ZsQTB0WUFXbllnS2xzM3JXbnpoT0hXcXJDZ01kVmJ6aTM3LWZRWGQ2Y2k0N0w4RHIzU3E?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE84cXY3bjJ4Q3JxdlFESWV6ZlN0MlgyT1ZsLUxVQ3RESDFRaUdQNDBKM1NXUmpkV0FrZTRmOFJSS0pPRjJjZVRTZHpPMGd6elBGU3JBVWI2YkpjN2pKMWJpUmpKYkR6ZXRPNXZjYi1vVW9oSDQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nQ0dETFpnTE5Db09ZMUxFSldvVGc2TFZoRGIzd3hZNzRQbC15ZHlJc1p5T0RvSDYtbGtPV1RaT0ktVEo1R3pVRUV3?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KY2llZ1JGc2lVVTY0WlpDRTdRVWo2aEF4YWJSekJrYWxGRUUxOGQtMkljTndqdjZxSzlwcUNfcEVIdEE1NEoyaFJwaGMtVHBuMzIzeEZEbEdKYmM?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2JqWk56QVdnYnZiOGpBNmlPal8wc2E0VUU5RTZpc0dmSFM0MV8yOVF2LTJocmJGTEpjNWRNV0pUTXpKMUNvMnN0cDhxS1dUU0pieElrZk1tbnNmMUwzajl5d1ZZN2FOaW9ieF9ZQl9zVGctWHJiVjZjMjBrUmcwQzU4ZXFJck9EaDEtZ3RyMA?oc=5",
+    "https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments",
+    "https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMGpSMWtKN3MtX2VHUHNCVENqN2xoOTM3YmQ4Wmo1SHpqSThBWWVDZnBfZEdTNkdtVzRnMVdCSWxhdlVkM0Z2TjhqTTF0cFg1REpMTFMtLTM5T3QtSWlsdWx5MURGV1djaFNDbUFaSG5DVEZ6bnBSTkpVQzBRZ3F5VWx5MndmUFhYTG1SUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ18wRnVjaG9OMzZIQ3dvdzJFQ3J6UXNLeFBIQUhnVlNCOHpQTF9iNi1jUDNfTlpLSjRXUHdJZHNienNINXk5M2RhT2Jvdk5RWmNZbHdxZkl4RHI3dVV0NGRWeE85VU5IMGoxaV9ZSzZRQjVmY3Ixa1NjYlJQREdiOVltTEctSGVSZkJ2akxuVkFkenlqeDVNX09QVk5OTWpTYW5JOA?oc=5"
   ],
   "title_hashes": [
-    "12eeab18adaef2cb6350383402fb48dd",
-    "c8e4ab29a825dcd58e88467129c69507",
-    "67158531d1cf4ccc1bc20f936a7a9306",
-    "fda9669872a613317ec2ce7b27be1452",
-    "3f37694eebbafa5705a6b637fadc169c",
-    "73618c834126ad4ac834552dcf90674e",
-    "c64931ab154cecd14498956d15872e80",
-    "65a0b9efbb8ee58ff8b16e01717b6c7a",
-    "61bf9e4a915d01b8a07dfa412b3b6bad",
-    "7ad11fa02e9eb5227a2855adb9619f85",
     "9d7e0ffa89502c67b5069d57d3675d3d",
     "5bc8c4cef6233c41f63b7bca7cb52887",
     "06d8a65bc13b08781a6289e80e449e35",
@@ -16001,7 +15991,17 @@
     "df18627d185b114f444bbe3297bccfae",
     "5e4553033a4e16d21486379e8abbca89",
     "01cdaa7f78e2125063e5844999e0eff3",
-    "0a9470331371e91cfbc809bdbc3ba232"
+    "0a9470331371e91cfbc809bdbc3ba232",
+    "ee4bee60517ee105e9dda4d16cccf1e0",
+    "ef2d7f001d8d31346961b99dd5d307d8",
+    "cd00d50d0eac02a1e188013d0c828fd2",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "7210449248c3ccd4c1f7053c4141394e",
+    "073a07a55a8ce47f8ed7af52491c732a",
+    "5ea1266cbdc333dde3d2eef4cd3c8817",
+    "e786865c93933551c5c923c76496527b",
+    "7043c5258299096b26a61fc77217e0f9",
+    "ab7048c5bacf9a36ede302604e946bf9"
   ],
   "transfers": {
     "pages": {
@@ -21320,6 +21320,26 @@
     {
       "t": "2 6 6v6 adding back balance brings changes competitive first four matchmaking mini overwatch patch post queue role season week weeks",
       "ts": 1794337992.8168137
+    },
+    {
+      "t": "13 6 8220 8221 auto bank before car cast chase clip compares david days driving getaway grand gta how its john leitch link meets new november opens plot post release rob theft wick",
+      "ts": 1794337998.3999805
+    },
+    {
+      "t": "6b after approval approved bytedance china closer games group has legends market mobile moonton moves owned ownership post purchase regulator saudi savvy studio unconditional unconditionally",
+      "ts": 1794338001.8909438
+    },
+    {
+      "t": "1 11 168 225 35 5 6 activiti associated attributed billion console costs decreases despite drop gamescom has its krafton million operating other participation profit q3 quarter reported revenue rises segments third which",
+      "ts": 1794338005.4937434
+    },
+    {
+      "t": "21m 9 awakening bandai closes closing developer entertainment expects loss more namco post q3 read reflector result unknown",
+      "ts": 1794338009.006933
+    },
+    {
+      "t": "business clubs connections esports forging gurus igaming nbsp pusulabet serie sponsorship teams through transfer",
+      "ts": 1794338012.4663146
     }
   ]
 }
