@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DWktzVmp6WkJVV1FJbnNJSVczc1RlaFJVczYzeG94S0FJQlhCVWhZNkVJdWRueFlOd3JLWmtlaWlZa3NWV0FBMmRKbjk?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZamprTXZUZlp4Z2JkT0NlQVFKaWF0aGlnZjlFaU9lZVNTVFVlN21wTDRkazdBSElqdmhPYlJQUmpjLWJCd1BXSFF0N3VmWlhJRHBVdjZZejJWNUdXdTE2QXhadEdtZw?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OUGV4T0VQSXhSTHhOUjdBckhuSmQ5bklCN1lOaklVdGxsdnFGQXRVMlpHR1ctc0FGa2tzYVRhNHp3d1ppNjFSbnRZWUkyRFczN01PN2wwT0NFMzVDQURlS0g4R2VxQXVqLUFBelhhci1TVXFMajRz?oc=5",
-    "https://www.invenglobal.com/articles/27353/smash-giant-fruit-with-forks-to-make-jam-stick-a-fork-launches-october-28",
-    "https://www.invenglobal.com/articles/27352/kakao-games-holds-han-river-otter-conservation-trip-with-employees-and-families-to-preserve-biodiversity",
-    "https://www.invenglobal.com/articles/27351/nexon-holds-player-invitation-event-for-maplestory-m-10th-anniversary",
     "https://www.invenglobal.com/articles/27350/dark-fantasy-turn-based-rpg-billy-the-hero-releases-demo-at-steam-next-fest",
     "https://www.invenglobal.com/articles/27349/kocca-to-hold-game-culture-festival-2026-at-bexco-exhibition-center-2-during-g-star",
     "https://www.invenglobal.com/articles/27348/justdan-enters-steam-next-fest-with-in-house-action-roguelike-dinghai-the-ocean-pillar",
@@ -7999,15 +7993,15 @@
     "https://esportsradar.gg/pgl-partners-with-revolut-for-cs2-major-singapore-2026/",
     "https://esportsradar.gg/pgl-launches-its-first-ever-cs2-tournament-in-mongolia-with-1-million-prize-pool/",
     "https://www.talkesport.com/news/valorant/vitality-valorant-scutt-head-coach-2027-pal-slk-szed/",
-    "https://www.talkesport.com/news/gaming/cyberpunk-2077-battle-net-release-price-edgerunners-2-update/"
+    "https://www.talkesport.com/news/gaming/cyberpunk-2077-battle-net-release-price-edgerunners-2-update/",
+    "https://www.talkesport.com/business/alice-huang-shanghai-century-litong-nvidia-chips-china-report/",
+    "https://www.talkesport.com/news/lol/sjokz-laure-valee-harassment-perkz-vitality-statement/",
+    "https://www.talkesport.com/entertainment/marvel-binary-code-message-visionquest-finale-decoded/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-air-everything-we-know-so-far/",
+    "https://www.talkesport.com/gta-6/gta-6-most-pre-ordered-game-9-69-million-sensor-tower-cyberpunk-2077/",
+    "https://www.talkesport.com/news/overwatch/overwatch-6v6-role-queue-competitive-mini-season-6/"
   ],
   "title_hashes": [
-    "7a951559bdc2c216277452868a9e7885",
-    "837c1414955083a87853a4bb66e9ecc0",
-    "eb40a7f3fc0741cdedd015b5784a55d8",
-    "a15849c8d515b45bda923b5a3feb4672",
-    "a18c858edc7b904c3c340e00c7e38a76",
-    "b0bc4324e234d6f151bee62e6e9f1958",
     "12eeab18adaef2cb6350383402fb48dd",
     "c8e4ab29a825dcd58e88467129c69507",
     "67158531d1cf4ccc1bc20f936a7a9306",
@@ -16001,7 +15995,13 @@
     "847dd3bddc2c75b3cec76918d55109fd",
     "1a5283aadb3d77b197d356c48a99e0f3",
     "089e3afefa01fc0d97e3bbf8d9ea3793",
-    "66a256ba8cef2e9d610535e8236d9e52"
+    "66a256ba8cef2e9d610535e8236d9e52",
+    "2ffbedfbadd09ba318f6f96969348087",
+    "8ee3c33806356705b1ab7ef8d5fb8fb8",
+    "df18627d185b114f444bbe3297bccfae",
+    "5e4553033a4e16d21486379e8abbca89",
+    "01cdaa7f78e2125063e5844999e0eff3",
+    "0a9470331371e91cfbc809bdbc3ba232"
   ],
   "transfers": {
     "pages": {
@@ -21300,6 +21300,26 @@
     {
       "t": "16 2 2077 battle cyberpunk discount edgerunners get has here introductory launch launched liberty net november now phantom post prices until update what you",
       "ts": 1794337973.9554837
+    },
+    {
+      "t": "2023 5 5b 7 alice billion century china chips claims firm helped huang information into least linked litong moved nvidia post report says shanghai ship since that tied what which",
+      "ts": 1794337978.8680565
+    },
+    {
+      "t": "abortion abuse after backed backs both comments criticising debate face faced firing has his hosts laure online over perkz post said sjokz team they valée vitality what",
+      "ts": 1794337982.446794
+    },
+    {
+      "t": "before binary code decode decoded fans finale here hours how marvel means message post posted posts says studios think visionquest what",
+      "ts": 1794337985.8891833
+    },
+    {
+      "t": "2077 6 69 69m 9 942m ahead copies cyberpunk estimated estimates game gta microsoft million most now ordered orders passing post pre say sensor sony stores their tower worth",
+      "ts": 1794337989.294682
+    },
+    {
+      "t": "2 6 6v6 adding back balance brings changes competitive first four matchmaking mini overwatch patch post queue role season week weeks",
+      "ts": 1794337992.8168137
     }
   ]
 }
