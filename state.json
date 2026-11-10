@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTG54RGNyMHdibnM1UGlUS0J3Yi01QUg2c1Fuenl4VXJPZDYtRVU5NGtTZzdaVkJHbGphWEdYbXliclhRQU1ZaTI5bG5RRDhHTG1nMGtYa09IZUw5aWJ1azZWZU9SaE5BRk9rc2gtVUtUTW04V2pscldLcEFKNnhnUXdIRV9Tem10N3FORWZvejhYdEJwUmNOYk5xeXhhUXJ1VEppSFQtQkxjcW8tcmpJRkdYNVM0Umw2d056MmJRRW0?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOVdWX0I2SWtfWXh5YnNkR1gxWHM3YzMteWdwSDBWRmQwT1NLRHVUSkVRX1cxWEU2OEFFa29vektQZW5Ra1Q2Q00xNGxZYklWYkQxcDR3SHR0X1M1TXNiaXNpcC1PSElQWlJhdmtIRGlBZU5vVUR1eVBLQU54MzZKZnB2MmRWN2FFMTI4elFkWHo1XzhFV3BCcmVxOU5yd2hIVmx6dVJSYTRWVms?oc=5",
-    "https://nesthq.ca/nest-lol-1v1-rec-series-pre-registration/?utm_source=rss&utm_medium=rss&utm_campaign=nest-lol-1v1-rec-series-pre-registration",
-    "https://nesthq.ca/before-signing-esports-contract/?utm_source=rss&utm_medium=rss&utm_campaign=before-signing-esports-contract",
-    "https://nesthq.ca/how-to-look-more-professional-in-esports-before-youre-famous/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-look-more-professional-in-esports-before-youre-famous",
-    "https://www.sk-gaming.com/news/sk-gaming-ventures-into-eva-esports-with-the-launch-of-eva-pro-league",
     "https://www.sk-gaming.com/news/a-new-lec-year-begins-with-a-new-sk-gaming-roster",
     "https://www.sk-gaming.com/news/nhow-gaming-studio-at-nhow-berlin-certified-by-sk-gaming",
     "https://www.sk-gaming.com/news/sk-gaming-and-recaro-gaming-announce-strategic-partnership",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/28383/harada-reveals-how-tekken-survived-30-years",
     "https://www.invenglobal.com/articles/28384/shift-ups-polishing-records-how-a-485-boss-fight-reached-86",
     "https://www.invenglobal.com/articles/28382/building-rimworld-on-the-seventh-attempt-after-six-failures",
-    "https://www.invenglobal.com/articles/28381/cd-projekt-red-reveals-the-blueprint-for-masterpiece-quests"
+    "https://www.invenglobal.com/articles/28381/cd-projekt-red-reveals-the-blueprint-for-masterpiece-quests",
+    "https://www.invenglobal.com/articles/28380/aion-2-raises-level-cap-to-55-in-1st-anniversary-update",
+    "https://www.invenglobal.com/articles/28379/devsisters-returns-to-profitability-in-q3-with-72-billion-won-operating-profit",
+    "https://www.invenglobal.com/articles/28378/co-op-roguelite-fps-guns-dragons-begins-3rd-playtest",
+    "https://www.invenglobal.com/articles/28377/44th-golden-joystick-awards-to-announce-winners-at-3-am-kst-on-november-12",
+    "https://www.invenglobal.com/articles/28376/janatdae-26-roblox-main-event-begins-nov-12-with-3-day-multi-game-competition",
+    "https://www.invenglobal.com/articles/28375/daewon-cts-launches-hp-omen-g3-gaming-monitors-in-korea"
   ],
   "title_hashes": [
-    "69aa0d8a371ac5b172255797ca33037f",
-    "ee3d1cfbf6928b613d411e35f351262f",
-    "f77388cba099b557ca1c168348e00be7",
-    "c86e0b9362d235577ebdd1fffda224c6",
-    "761e6c36c2df00dbc4312a763077860d",
-    "3554e82a65a973e6dbea6329f7dc542c",
     "0b8a41c24f1921e79cc08178166e4848",
     "71b1f359362d456953220e68ca1149f8",
     "71b1f359362d456953220e68ca1149f8",
@@ -16001,7 +15995,13 @@
     "3ed125e2a8f889c5a9f71869d140dacf",
     "de5a97b6bdbf993123f66fdfed4fca92",
     "ff5d92d1922ee83d0ee596370088ccce",
-    "cf79e3c4456da1187093b77b004c3c7b"
+    "cf79e3c4456da1187093b77b004c3c7b",
+    "3901c4a3a54e82bf02e97a3c63a64946",
+    "45b1a41f75ebd04980216bd2e5c18118",
+    "50ec130d433a2a3de8c73c952db7170f",
+    "195aac0692d0d96bc7e1fdafc0635c23",
+    "a172aa2e6ed56f631f488109a304e688",
+    "e83fef00a7c08cdca6d3b5f7ea10875e"
   ],
   "transfers": {
     "pages": {
@@ -21096,6 +21096,26 @@
     {
       "t": "analyzing become blueprint completely criticism emotion feel immersed instead into logically masterpiece moment players projekt quests red reveals scrutinizing seep start stops story they",
       "ts": 1794281637.8240585
+    },
+    {
+      "t": "11 1st 2 50 55 aion anniversary cap com company dungeon dungeons introduce its level new november overhaul plans raise raises regions structures unveiled update will",
+      "ts": 1794281643.1027374
+    },
+    {
+      "t": "2 2026 48 7 81 billion devsisters increased operating over period profit profitability q3 recorded returning returns revenue same won year",
+      "ts": 1794281646.598272
+    },
+    {
+      "t": "00 12 25 3 44th across announce awards categories ceremony golden joystick kst november place revealed take this total will winners year",
+      "ts": 1794281650.0117753
+    },
+    {
+      "t": "1 12 14 20 26 3 across begins competing competition day enchant entertainment event four game hosted janatdae main multi nov november participate players pool prize roblox run teams total will",
+      "ts": 1794281653.5158834
+    },
+    {
+      "t": "10th 320hz announced cts daewon dwcts g3 gaming has korea launches monitor monitors omen rates refresh released series south supporting that",
+      "ts": 1794281656.8971941
     }
   ]
 }
