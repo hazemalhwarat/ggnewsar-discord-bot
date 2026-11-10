@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TekxUcmk4Ympud2J6Y2diQ05odGtySnNGb0NnVFJTa0N6WGRzZ3JSMVJSNG10VW9DMDJLV09tVkxXREpHYU1wRlVR?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtWC1xck5za3lOclRreXZjV3kwQ0tfdGpvYUhtYlVWVzdrTV9tWThKWWNHTXUyY0MxeGZKUVNxS0xyV0d2V3c?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE13X2V0UHdJdDJnVU4zR0dGUkZCT2lGYU1PNUdKb1hMVnRwUXlhMkNhN3I2LVhrUWk4Q3FqVzBnZmFtaDR3TXZWUzJDa3Jhcm9aNUxZVXBJTW5TYVg0OFBQN0Y0MzYyeER1Q2p2TmJSei0yMnc?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9McWpHMlRUVEdYY2RSNG5qSG90c0l5Qkk4dURtLTZMbThyeXczcUdpSVNzMmRxT3BKWlZQaHlRYXpFdHE1MWIwdVhaRXhHRi15LW53TE1nUHFoYmZYSjd5OEladGxPbmhia1JMYjF6ZlYyNzVnWWNLVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBDZVJ4di1kM0luYTc1cnhUOTdIOU5Ua2t3TF80SzlDSkJHZXBJVEhnaG8ybWhjY1BSb1ljanI0aXJCbDVQVjJB?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzWmdycE1mWktjLU1IbDdEbWNUWVlMMVZMVXJ1QVBEZmlxbzBMZ1JvbklvTVBSOXlwdVFwaDd3QUwydnZBbkY0LXFKbWtPTWlnWkR4WkJuWm1rQ1JBR3lXVnMwdWExRXhaS1Nr?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lNlRvaTc3RTNTRUt1RHdpaUpnbkZ6OHZDaGhxY09VYVg3QWpxd1U3WGtSU1pKY3BCYTBwOS05UnhIRXdvZjJkOHJMendJQnR1Qm5zaXVvRQ?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYjJSRWFYb0JESVNwRnVnVUNGVU1QZjZ0M3VWOGo1S1FaRDNsUzdPU3hiYXJCV3RoTWRHU3NodjVfVDQ0aldaZUl5YmJQRzFYSDNDdWFiekdiVmd1TjZsanhMUF81R0ZTelhrQm9hdkNqakZiLU5qenNhQ0wyc2Y1WUZ1ay0tQlp0ay1BOXlB?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.hotspawn.com/league-of-legends/news/biggest-upsets-in-lol-worlds",
     "https://www.hotspawn.com/mlbb/news/aurora-gaming-turkiye-dominate-mtc",
     "https://www.hotspawn.com/counter-strike/news/r1nkle-blast-rivals-hong-kong-2026-interview",
-    "https://www.hotspawn.com/mlbb/news/bigetron-by-vitality-mpl-back-to-back"
+    "https://www.hotspawn.com/mlbb/news/bigetron-by-vitality-mpl-back-to-back",
+    "https://www.hotspawn.com/counter-strike/news/xelex-blast-rivals-hong-kong-2026-interview",
+    "https://www.hotspawn.com/valorant/news/vct-new-generation",
+    "https://esportsadvocate.net/2026/11/pgl-singapore-major-betting-team-names/",
+    "https://esportsadvocate.net/2026/11/china-clears-savvy-games-group-moonton-purchase/",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSXZfTmJfS21fMWpwYTMzYldKTTBWNWdtNmVMUndIVVYzb040V2NLa0pmYUUzdm0xWjI2cFZjX2h6bVFfb1JMRFZBc1d6V0RBMVo4eGlDQmxnZjRDOS1jT3YzbC1va3BMNzJSWXVneGhMUFZJNHRobkZjcVlhUjM1TEUxZlczdUxfYmNmdkZya09SQklRczlUMGJSYThhOVZ4cXpMekV3?oc=5"
   ],
   "title_hashes": [
-    "d9f16561c405a3bbf84793dd61b30132",
-    "a0b2a308fe72cd74a6f402e4a4d40d4f",
-    "f2ab5fb218da8b84623f45579aa4ba11",
-    "2f24a2c52fcf8f843ee6a93b6ef33185",
-    "7107d1438917c75509e53062755e57f7",
     "e258739d6e59a7778d9fa6f970a0df4b",
     "73c145a041f4ae6fcd08e818d384260a",
     "109fef79e891ab07201b5d6771fb772f",
@@ -16001,7 +15996,12 @@
     "36d09c331bb9465b2fd36d247a16cda6",
     "b06b6ecfd2cbad44df8b79f2efd61cc6",
     "71d049e27470ef02c227427e89e9274a",
-    "e54e79a9cd4498f077de4232cc45ef3f"
+    "e54e79a9cd4498f077de4232cc45ef3f",
+    "f81b466ebf49e527a3e2594562e9a71b",
+    "d2ed4a5d69e560bbafed1d29cb442ec1",
+    "92f52c5d500cb13d5ed64201980006cd",
+    "b74426aafd2515444353b91dc91f8291",
+    "b016ee4057cff15c2f5235ecfb04dc3c"
   ],
   "transfers": {
     "pages": {
@@ -21240,6 +21240,26 @@
     {
       "t": "18 3 4 after back battle bigetron championship defeating defend during finals grand history inconsistent indonesia lower makes mpl natus regular s18 season their they title tough victory vincere vitality",
       "ts": 1794337916.1475
+    },
+    {
+      "t": "1 arrived been beijing blast bully can counter donk dropping earlier fresh has him hong how iem joined know kong least lot main map mouz only rise rivals roster team this way where who winning without world xelex year",
+      "ts": 1794337921.2640908
+    },
+    {
+      "t": "2026 beginning each generation has how international leviatán loud march masters new nongshim only over redforce rosters santiago seen some that this took trophy valorant vct won youngest",
+      "ts": 1794337924.7181833
+    },
+    {
+      "t": "2 8217 9 according betting brands companies compete counter four gambling graphics lineups list major names neutral nov pgl published singapore strike team teams tied under vanish will",
+      "ts": 1794337928.2022395
+    },
+    {
+      "t": "6b 8217 acquisition administration approved bang behind china clears company conditions developer games gro group has holding legends market mobile moonton purchase regulation saudi savvy state unconditionally without",
+      "ts": 1794337931.6601093
+    },
+    {
+      "t": "competitive cs2 esports fragster has more nbsp scene shooter tactical valorant which",
+      "ts": 1794337935.1239793
     }
   ]
 }
