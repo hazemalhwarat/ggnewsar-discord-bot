@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1ZGa2w3bWxSVWg4WEVYTUV3ak1LSUVEY2R4WVFmWFQ1ZW1kMlEzdVgyM085M1hwM2VQbnVYM0tIanpLcnFZN1QxMlJmR3N5Y3drUUpsWjZDWWV6Y29PVVBEaFFCU2hCWUlCeFBBdTl6RXdGdDhYYWZsY0Q1b05BY0UzTUlDNW1ESUp5WjF4RnYyMncxVnRBT052dF9QYmFJaUItd1R4M3dKZ1ExU2E3TVFhZw?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVUsyOTdKSEsyUHFyblhHd1Fmazl6OTZXbUxyVl9ydWhVTFRwSDZUX1VlQ1Q2N0lvWGU3VXNhQTBDdUxERTctd05Ob19LWDFVSHBuMHZPNVZxTU9TT25hZDRVVlV4RVQwZHNaWGo0T0syTnBkNGlvLTBfOU1RR3JuQzBPTVhTaXNFRUp3ZEh4UlNBeG1RTkJZ?oc=5",
-    "https://www.hltv.org/news/45750/aurora-pass-falcons-in-the-vrs-after-third-place-decider-victory-at-twc",
-    "https://traxion.gg/trak-racer-enters-budget-sim-wheel-market-with-fanatec-based-equipment/",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE50ZEJWM0FJNW9TeWZ6Q2V6TVZObTJyT1EzWXJ6bWpXSS1uSDZOSGt4YXdSSmxia3RiTWVHZmMxcnFQbTl0c1pjdXFtWkIzb2pMU2JxWE1zVTNlaWdfclZLT1I3bHZPWUVKY1RCZU01dFZKclJ0TnVkczNQQnI?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMThKRU9WMzk5S1NPR1N5b1Z5WkNGNUJKSnhJV1NfRXFvMFpzd2dDTTl6TXZyNGNKMUhHQ2I3UjdpMHlHZ2ZEaUhDTEJYd3RKc2MyaDkwZFJCUVhURC1tLVpJQ045Y1M1TVJZRjhBQUZwWjhnRDc2bzhCR25pYzRpcURCY0xCMWFBcVlwME1OZVluQQ?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTFYbWlpWVB0LUhtdy0xVGpPV1ZzdE12bUlTakVzYW11Q1VsSmtZU0xabmZkRllfdk5VcW5rT21YUE0teTB6TE4yY05nbGFXal9mTnhwOW9CNjJFOG90WFhXS3YzbGkxYUtJRHpjRDNUd040ejdDSXE0bVU3czJjalRScHJjcGI3b2hEZ3RXZ3J6REdOQTYyU2w3YTRVX0g3N1RXdjlZVQ?oc=5",
     "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5CWU1Tb0RrR09yQ3I0WEF0QUJSTTYzZ1lCMHh0dzNOUlVuU2NqY1FfVmx0czZsdkhkQ1VnUFhDUUZzQQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28395/nexon-q3-revenue-up-17-to-12-trillion-won",
     "https://www.invenglobal.com/articles/28394/komodo-to-attend-g-star-host-steam-deck-demo-zone-featuring-18-games",
     "https://www.invenglobal.com/articles/28393/sesisoft-officially-launches-wild-girls-rebirth",
-    "https://www.invenglobal.com/articles/28392/bhaptics-wins-ces-2027-innovation-award-in-ai-category"
+    "https://www.invenglobal.com/articles/28392/bhaptics-wins-ces-2027-innovation-award-in-ai-category",
+    "https://www.invenglobal.com/articles/28391/peeling-potatoes-in-potato-please-75",
+    "https://www.invenglobal.com/articles/28369/soop-unveils-virtual-streamer-lineup-for-agf-2026",
+    "https://www.invenglobal.com/articles/28368/zhitai-partners-with-phantom-blade-zero-at-g-star",
+    "https://www.invenglobal.com/articles/28367/godzilla-meets-lego-setting-record-for-highest-piece-count-in-ideas-series-history",
+    "https://www.invenglobal.com/articles/28366/supercat-integrates-infrastructure-of-3-games-including-grow-stone-into-oci"
   ],
   "title_hashes": [
-    "83bab51136057449ba6488b119baefef",
-    "a8f03ae9b77ec9ee55841078ac508046",
-    "be3a932a8377ae4e8dec502e3eda6dfa",
-    "f1f0f07454630ac1dc84f6b3be013acc",
-    "312a97fcea225db02cc65406b3f426b8",
     "64e51f86d6deb00a38abb3e56430e7c9",
     "25ade5cd242aeb0acd1d55d93aea1b89",
     "cd00d50d0eac02a1e188013d0c828fd2",
@@ -16001,7 +15996,12 @@
     "341eac1fc465b80ce32012ece08d08ad",
     "91df7d01fd3a9e9bcb98d45dc333f836",
     "98af778fd67af0343642e71b9a9e0f39",
-    "0e3ef1b14be290d3db21d6e4cb293031"
+    "0e3ef1b14be290d3db21d6e4cb293031",
+    "54436e4ce9a0c10cf99bcfe264a2d2fd",
+    "8f40b2d4ad56b224ffed30456f5129a8",
+    "eaaa0b3c44c43df409ca974178a15ae5",
+    "4593870cc81f1af8f9d719ae142766bc",
+    "eceebb904f804a7b618cbf34087198a4"
   ],
   "transfers": {
     "pages": {
@@ -21052,6 +21052,26 @@
     {
       "t": "10th 2027 announced artificial audio award awards bhaptics category ces device engine haptic innovation intelligence its selected that winner wins",
       "ts": 1794311324.7481902
+    },
+    {
+      "t": "5 7 another blockbuster builds busy charting crimson desert global legend ocarina others peeling playing please potato potatoes remain review shall that time unknown unnamed while zelda",
+      "ts": 1794311329.9192188
+    },
+    {
+      "t": "2026 28 agf anime festival full game groups idol includes isegye ivnit lineup participating revealed roster soop streamer streamers unveils virtual",
+      "ts": 1794311333.4422007
+    },
+    {
+      "t": "19 2026 22 bexco blade booth busan collaborative demos featuring game held november operating participate partners phantom star visitor will zero zhitai",
+      "ts": 1794311336.8279572
+    },
+    {
+      "t": "21375 27th 363 5 bricks built count first godzilla group highest history ideas its leg lego marks meets piece record release series set setting themed total will",
+      "ts": 1794311340.7505925
+    },
+    {
+      "t": "10 3 announced cloud games granny grow has house inc including infrastructure integrates into its migrated november oci oracle stone supercat that three",
+      "ts": 1794311344.8533225
     }
   ]
 }
