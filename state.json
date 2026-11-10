@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2FZOU04QnZwVWJ5ZjJOZUNocVFrUHdhcnlWTFQwQ0tFaWtvOV9JaVNZNFdkdHQzcjU1dzR5NVR0dEVYWThVcGNkTnFFY3E1dWg3NXk5emJHMGhYRFRuTG83SEhiQ0M4VHZBU2p0Wkg5SVZfbFNXM3V5blo2cHhjN0o0cXpNNEhvR21GZ09id3k?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcDNRaWJ2NnNKdV9MLVdfZG9oZ2NjNWY2NmgyaWJwNlJtRjBocEprY3lBV2Q0RE9qSEtqYlc3YUt0aDBsZ3plTDlrVlBIWHc5bTBVTDZ3NGNtVXZPWmZaUFJxREk3dEg4dkJfaUxSQmF0bEhfSjlTcDNTXzVsdHFQRW82VmdMRkREWjdQVUs2eFJpWW8?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTjZkUlpzbFBfLWtmUzRfMXh4MVJtSmxJa054eEY5Yk5DdTkwRUtzQWF1NkRPaEthTGZjOFU0UWhnY0IzYjlQRmF5cGRDQUgtNFRiWmplazQzeDhpYXFxWVg2VWd5cUpiTE0zaUVsdUxGbDBzRnZMc1F1WFdXSTNPOW5BM2g4YVFkS1E3QTAyRXRiaVZQWmxybi1mTTlRV3BjekV0SWpB?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEJIaktJa0NndUpOYW0ySExqOC1VNHEySmhFVmpwdmpXT1hBRjdPLVRiazZ5dllzeFpZUDFrMGpYLS1hTk15MjIycnFpeGIwZ1liOVB3Sm45d2N5bDZGT1ZOWUVLMUYzaVRlcDNhZkpzeXBxV3lMY2ZZWDVuV2Jza3ltM1pvY29QNi1ST0o3YlNBLWZZRmxWSVhqQUVQUDQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0NvSTZtSElTZ2VFQkR2b0FQMVA5RlRLZlA4M2pSdnAwMEt0d0M5VkFzZzdDRWt4VC15YjZVVW83Wk5STTYyQWEtOUFUS1lmeVdENDRRSFJqRnBuckhGcjNWaGZ2Mzl6YVpHN0hjaENPTFdvekVTcldINm1SS2hqWlBRNUdMT0NFSFE?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHRyLXlUNGl1Z0l4LUdkem5RT2hGS3RSdlV6Ml94MG1hR2swZHRHUXhzUXpkeWRYYUtSQVZnTzg2YnhLaWt4a3lEMFJOSzl5UmRyTmg4bVV1RlBDenBUMERJZ2pFOWFzQkZ6RGgzNlpmUjdoeEVFcnpaalczRVBMb0tDbnR3UHhOS1ZPcW5nX3dLTUhQbUdyQw?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzJ4b2l6R0ZtRE5fUTZTTnVxWlo3RV9TWDNfTWktdmlBTUhCZlpaamp3VFFmb1F0d1B3cUNXSTM2Tkc5dnV6cXk4ZjJHSHIxREY2RDBobGRGU19EdlpTZnZ4ekJBaW1wdXRXQTF6dGhFTWdEZTRLVUFQNTgzbndEazNkU3Fwc1hPRkZnQ2lmb2lmcVhLeFRKMkc5WkxQTHlLVHNUUEpuQWdsQQ?oc=5",
     "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSzFRTW10YjNQV0t0b0tOc3R2Z0p4dTktaG1RWm4xQl9vN3hOSjQ0ODFFVTBxVDUwcW5tZ3JvaGJTOGhlRGpLZzFaeDhTLUFydUdtNXB1SUgzR2VUd3hkQ2RNZFZmSkJOYmFjc3R6bFRKNUZlNmhUTzg5ZU1GbXAzWk40OXFJbEN0aVBvT19Xd1R5SE91X0NyOVh6Y3JCN0wyVVFvTXFGalFNYWtRLVFMSTB2d3p5ZUNMdmktY01tU01QSHR4WEVVTE9JV091MENCajVfUXhoOTlUQ01uVGpmUjlSUXI0ajhkYXJaNGNuTnpuZmJnMHR6cXh6Q3hnYnpvWkdQeEF2el9wX0dWWkE?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVlVXN1h3T1p1R3RDZW8tZ0UtRUx0TnQ1Yk5IRzNkTEVSZmpPdWMwZ1l4enZGcFd0c3NMNFFReHZFcUtzN2N6eVJzQlBUNXFhT3R4a3ZxZ0hjY0VhTFJsYUxQdkQ1NVNkWnNENUxRc3ZxUkFsenA0ajlRWF9wbHo3M2tjMVdjcTRZc290Sm9GSmpNSWRpNVc5SDVB?oc=5",
@@ -7999,15 +7993,15 @@
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rSGxFU2wwUV93YXBUYmZXdHBCV0RLQWxjdE5GZnItSUJBYnVuWmUweGV0MmZNWWh6SGVSbEpycGQzY2xZQnAzNWlBSmZ5bmZScUFJ?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zOGRBbXlqUlZlZnpaRzZ2UlJTM180UHhEbHlXV2tlblRQLUVuLThLdlhzREtZdWNOeVhhdFh6Y09Pa3dhcFRRdHFFN2ZwVktnaGc?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44U3hVdU1lTHV5bUQyOHNEMnJjd2tCYWlkdW45WGxHQlRmanYyN1FrTi1EMDh4WklHamk4Zjd3el9ZQTRlMGRhYnhSVDRGQkNZYmFLN25aV1E0WmJ1NUw1aUh5eHR2dw?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3d3djLWE5eWhmOGNOMlVucU8tamJzM25YMnNLYy1FUEN2cXM0OWRrM3pKd3JEUHVGY2hETjVGdVEtVEJXSUhDbUY3cG85aFJhUTBkV0hIRS1yQ3k1U3pvNzkwT0szaEFWVHdPUDhjbU14RDY1?oc=5"
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3d3djLWE5eWhmOGNOMlVucU8tamJzM25YMnNLYy1FUEN2cXM0OWRrM3pKd3JEUHVGY2hETjVGdVEtVEJXSUhDbUY3cG85aFJhUTBkV0hIRS1yQ3k1U3pvNzkwT0szaEFWVHdPUDhjbU14RDY1?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aQ2g4QjBkUk1hOFkwSEpXMmNOQ0VsYk56dWRxclpocVMzQjNpckpJXzliU194T0FaSlBzbkNFX3hma2NuNElUcDhhVk5CVTNwLVJkUm5COW9RcERDM2VEZEdrTEw?oc=5",
+    "https://europeangaming.eu/portal/press-releases/2026/11/10/217742/degen-studios-book-of-dizzy-slot/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/10/217734/allwyn-austria-online-gambling-timeline-tris/",
+    "https://europeangaming.eu/portal/press-releases/2026/11/10/217729/blask-ask-blask-ai-assistant-igaming-market/",
+    "https://europeangaming.eu/portal/press-releases/2026/11/10/217725/ela-games-best-game-studio-sigma-world-awards/",
+    "https://europeangaming.eu/portal/press-releases/2026/11/10/217718/spribe-aviator-uk-injunction-colombia-romania-serbia/"
   ],
   "title_hashes": [
-    "7ae0209b51684e350ebbefc10c3726f8",
-    "391403af26e7e977dd974aac611c4229",
-    "a658daa46471e505c51613b7b6d8474f",
-    "cc88a8f5997e0801a7e3af185e645734",
-    "dcf587228423917c2281449bb7ee9b1d",
-    "2ed8d8760836c07f684232f4d474e857",
     "121d477d9ac74918d960276bb73a0880",
     "5fa837b49fcfcc284714aac66bba9d08",
     "1ad7e3a85d3c8b98d2d7445663eba269",
@@ -16001,7 +15995,13 @@
     "8df358eebbbb64bf19235a902db73505",
     "8df358eebbbb64bf19235a902db73505",
     "bf9ed39a13c9afa52f3e2707d0694ad4",
-    "5ea1266cbdc333dde3d2eef4cd3c8817"
+    "5ea1266cbdc333dde3d2eef4cd3c8817",
+    "b016f48d898c745be5ef382254224582",
+    "e4333c626504a6e9b41884f9942a48fb",
+    "4ca785e41fa7c527d798ef087102c984",
+    "03342b36b6f32798673fa789899f2ae0",
+    "12c2a7003a20e33172a4f16e41d49a2f",
+    "5b5134c7e2379cef0f85f76910209a39"
   ],
   "transfers": {
     "pages": {
@@ -21192,6 +21192,26 @@
     {
       "t": "amp esports lcp lol nbsp",
       "ts": 1794311459.1112106
+    },
+    {
+      "t": "8217 8230 bonus book changing degen dizzy expanding gamble its keeps latest launches layout lets mid own players post pre reels release risk round spin studios their",
+      "ts": 1794311464.7952037
+    },
+    {
+      "t": "8216 8217 8230 allwyn austria both brussels end extremely holders make market monopoly online post shareholder tight timeline urges wants weigh",
+      "ts": 1794311468.1832542
+    },
+    {
+      "t": "8230 analytical answer ask assistant blask conversation dashboards every figures igaming intelligence into its launches mark market moving post showing",
+      "ts": 1794311471.6258614
+    },
+    {
+      "t": "12 2026 8230 appear awards best developer ela game games international its keeping months named off post reach recognition rounds sigma slot studio which while widened world",
+      "ts": 1794311474.9921153
+    },
+    {
+      "t": "8217 8230 against aviator brings built business crash expansion freezes game injunction interim its markets order post rival spribe three where wins",
+      "ts": 1794311478.5008664
     }
   ]
 }
