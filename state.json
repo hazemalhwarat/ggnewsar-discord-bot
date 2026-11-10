@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zbG5fcEduTDRfbjdNWFg1ZkRLQXFWN1huNHRCUG43ak9FNFU1eDE1MTA2THBEWUx3dzluTmhlTFhSbVN6cDFaekM0aFU4ZDYzSVNQZy1jeFJIQks1RG80ZzFB?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnZIRXN0V0pLcnpqWFcxQURtelB4OWtqRjc5N2JPQkZjZGVkTGV5MFJNRElpVnRWZUxfOW45Zzl4Z3gwcjlhSG5fX2taUFl1b0RRcXVhdHgzS3JyaWxTWWY1U3FOQmhGeHV4TkRWbXlkUGRLWThhVWpMRVFrb241UkdSODctbkZIV3pnbFBBczlvcUhYZGx3T3ZWczZCY09WUkVnRw?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUGpRcTY1NWdISkp4V19ZZXF6UVZKZV9NUXhCWGFwWUNlY2lEUldyUDhCYTgxYUk5UlZJNTM4Ni02RXNNemJSc0M2cDZoVnRzZXR1SEVqRnNZOE9LRjdKTmVJYkd5dDlD?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxVTBFamVLQS04bzR4UjF6SFJsZU1mQzVYaHlRMFdXbUVDSXVKQnJ4Qlc1N3p6c2FyQW9odzBvNFl1SXhnd1JpSHk0R3RsRndFdGNOWGpGZ2Q4SkxfVUFRLTRsNW1mMl85RGs4?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UQlNxYnhoVlR4ckxQS0s5cERYZVRReUltNVNRMVhhUkVoMFlfWWZFOTRHdXZJVms2ZGoyd05sUGhJZl9jV2U0LVVwWUlvY3NvMkJqQzBUSVdla3Q4MFFpTHZCYllZMEJuTS04?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XOFlYb0dNMVNxR0FvaE50R3RXa0dUODBSTm9VSWh2YTZXUlM0T3ZrYVZEU0QxV1dvd1c1R1NNbHFfa2hvaGJuVGZOaEFOY0JYSUc2WW5HR2JJNGVZaWpBWjRaT0FpVkVha0VhbEFvS1RsczJvVm1B?oc=5",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nZW0wU0xCVGM4Yzg0cllzcDNYeDNqT3k3RFRKc3dLYVVqSHFUNlVKVk55d1o0RkoyU2ZuNUFPeXRSSXNhUlVUN3dUU2FscFNF?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13NWNLelc4Q0Zsbkd2RG9HSGFhdmZjcTRTNGtBdTZyM2FmNTEzWHFpa1lDRlAzNnA1WDU5TXFSODNoY0ViQkl0Z2h6MnJqMlg1ejF2dG1qUGpUOFptdE9vS0wwdnN5akpK?oc=5",
@@ -7999,14 +7994,14 @@
     "https://pley.gg/valorant/valorant-patch-13-10-notes/",
     "https://pley.gg/cs2/eight-major-teams-get-one-last-test-at-blast-rivals-in-hong-kong/",
     "https://pley.gg/valorant/aspas-set-to-join-fut-for-2027-after-turning-down-china-offer/",
-    "https://pley.gg/apex-legends/apex-legends-legend-bans-explained-how-ranked-voting-works/"
+    "https://pley.gg/apex-legends/apex-legends-legend-bans-explained-how-ranked-voting-works/",
+    "https://pley.gg/cloud9-ventures-into-deadlock-by-purchasing-melee-creeps/",
+    "https://pley.gg/cs2/ulaanbaatar-gets-a-second-2027-event-as-pgl-drop-china/",
+    "https://pley.gg/cs2/quiz-can-you-name-all-major-mvps-in-cs-history/",
+    "https://pley.gg/cs2/esl-release-140-minute-falcons-film-with-b1ad3s-navi-timeout/",
+    "https://pley.gg/cs2/keydrop-review/"
   ],
   "title_hashes": [
-    "c2561fe5704755f0e12c2f673c3a9909",
-    "6f0077b9728cbb5f494677c39e9d6006",
-    "ae2cca5b20773d43b369dfba0a18d63e",
-    "0e5e06d2bb4ab572f365e86c444853d7",
-    "1eb4696a32473a75daeb1e6d3c915323",
     "33b5dab6b2914c7788eb40843e5aa3b6",
     "593287a3bfbb672d385267266a89f77e",
     "d8514aef00a5ae86d183395b2749621b",
@@ -16001,7 +15996,12 @@
     "b574c7d79bc42b876223c5d9cb897eda",
     "2cb6b7433a5dd38602776b91431711a5",
     "49671f2ca0e8a42fabcb55266a77cf15",
-    "b695e5dfb171091c0acf9a71060a058f"
+    "b695e5dfb171091c0acf9a71060a058f",
+    "b4960a371c54bef8636b1f3a34bfea1e",
+    "0359167291962aa561517f9c4e00be93",
+    "1ed5052cc411818fd33abaec81f08f0b",
+    "f5abbc87b2e007a4f79765016540e524",
+    "ab38e555ee118f2a70e5194e16f6a319"
   ],
   "transfers": {
     "pages": {
@@ -21360,6 +21360,26 @@
     {
       "t": "31 apex ban bans diamond draw explained how legend legends most phase picks ranked risk runs season two votes voting weighted when who works",
       "ts": 1794338031.6161633
+    },
+    {
+      "t": "cloud9 creeps deadlock into melee purchasing ventures",
+      "ts": 1794338036.5550482
+    },
+    {
+      "t": "000 1 16 2027 april before blast capital china drop event gets have keeping mongolian moved pgl pool prize second teams their two ulaanbaatar visit weeks",
+      "ts": 1794338040.013185
+    },
+    {
+      "t": "all can counter history major mvps name quiz test you your",
+      "ts": 1794338043.4935708
+    },
+    {
+      "t": "11 140 6 afraid asking b1ad3 before cologne decider esl falcons field film iem karrigan major minute navi niko release shows spirit talk they timeout view warning win winning",
+      "ts": 1794338047.1914027
+    },
+    {
+      "t": "keydrop review",
+      "ts": 1794338050.669894
     }
   ]
 }
