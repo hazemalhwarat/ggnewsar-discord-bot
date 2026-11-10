@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMThKRU9WMzk5S1NPR1N5b1Z5WkNGNUJKSnhJV1NfRXFvMFpzd2dDTTl6TXZyNGNKMUhHQ2I3UjdpMHlHZ2ZEaUhDTEJYd3RKc2MyaDkwZFJCUVhURC1tLVpJQ045Y1M1TVJZRjhBQUZwWjhnRDc2bzhCR25pYzRpcURCY0xCMWFBcVlwME1OZVluQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTFYbWlpWVB0LUhtdy0xVGpPV1ZzdE12bUlTakVzYW11Q1VsSmtZU0xabmZkRllfdk5VcW5rT21YUE0teTB6TE4yY05nbGFXal9mTnhwOW9CNjJFOG90WFhXS3YzbGkxYUtJRHpjRDNUd040ejdDSXE0bVU3czJjalRScHJjcGI3b2hEZ3RXZ3J6REdOQTYyU2w3YTRVX0g3N1RXdjlZVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5CWU1Tb0RrR09yQ3I0WEF0QUJSTTYzZ1lCMHh0dzNOUlVuU2NqY1FfVmx0czZsdkhkQ1VnUFhDUUZzQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YLXVyZ1pGeHdXVjh3b3NHNHpJZEY0SnZCM3dlUm8zSDNxVkl4QmxINXEyVFpaa3RGZjU3d1lqYmsxUExiWkpRV19wd2xabF9TMVBNYTRuaDF5R3A0R0hQVGFGaUJNWUJZT0NYdmo5VjFxZms?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PRUkwTGIwSXh2QkNtcWpqdXRCamNtcWdqSnE2QmdOdV9TblhfR2xJbkd3aEd3cnc3TFR1M0hBbFp5UlJPVEU1VHQzcExjQjc2UHhZMXBtVDBsZzc1dUE?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRcTZCaWh1VTh1bFVMYWhncmdNaHc3WXhhTDlZOGtFTHBMcUNzZURlSnJXNHhlQXFlc05VOGdMVE4xYVVESVlRLUtRaVMxWldMdmNaNG1LZ2lBU3l0MTBvQWdhQmFkWHJ1TnJOSncxWmZFR2pxXzZjVUh3?oc=5",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmTFg5SEZBczZXV1FHNjdFQ1ZsQTB0WUFXbllnS2xzM3JXbnpoT0hXcXJDZ01kVmJ6aTM3LWZRWGQ2Y2k0N0w4RHIzU3E?oc=5",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2REYyV0tOWk93Yk1mcGhxejhhakxrTGxBUExCMlZ4c2lHaXlnTVVFOUFwLXh2d1M2azVrazJmaHg2dWtIU241RGhITExNc0lndFNXTk1jM2pNRUdX?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28369/soop-unveils-virtual-streamer-lineup-for-agf-2026",
     "https://www.invenglobal.com/articles/28368/zhitai-partners-with-phantom-blade-zero-at-g-star",
     "https://www.invenglobal.com/articles/28367/godzilla-meets-lego-setting-record-for-highest-piece-count-in-ideas-series-history",
-    "https://www.invenglobal.com/articles/28366/supercat-integrates-infrastructure-of-3-games-including-grow-stone-into-oci"
+    "https://www.invenglobal.com/articles/28366/supercat-integrates-infrastructure-of-3-games-including-grow-stone-into-oci",
+    "https://www.invenglobal.com/articles/28365/monsters-banknotes-opens-steam-store-page",
+    "https://www.invenglobal.com/articles/28364/sega-unveils-deluxe-edition-content-for-stranger-than-heaven",
+    "https://www.invenglobal.com/articles/28363/nhn-posts-q3-revenue-of-7583-billion-won-operating-profit-up-113",
+    "https://www.invenglobal.com/articles/28362/skydance-games-confirms-layoffs-after-warner-bros-paramount-merger-scales-down-some-projects",
+    "https://www.invenglobal.com/articles/28361/epic-says-unreal-engine-59-preview-was-built-mostly-by-ai-agents"
   ],
   "title_hashes": [
-    "64e51f86d6deb00a38abb3e56430e7c9",
-    "25ade5cd242aeb0acd1d55d93aea1b89",
-    "cd00d50d0eac02a1e188013d0c828fd2",
-    "29ec2cfbc2fc7bfd10a19ecca35565ca",
-    "799855594adc0f2bd7302c69d3234b5a",
     "5fc95371e60932bdcbe6d9267a78fbbd",
     "2ab8fe94aa0ccc1368020a5d531a2266",
     "e0ed2393d31bae0179482ec3d3b355c1",
@@ -16001,7 +15996,12 @@
     "8f40b2d4ad56b224ffed30456f5129a8",
     "eaaa0b3c44c43df409ca974178a15ae5",
     "4593870cc81f1af8f9d719ae142766bc",
-    "eceebb904f804a7b618cbf34087198a4"
+    "eceebb904f804a7b618cbf34087198a4",
+    "cf037cfa5b290bdf77142f1c9e79061c",
+    "4fa2ca3cd7363fc4233a112f8a833b8b",
+    "757c7eedd33162ab17050d00c998dd87",
+    "ea295ffeb88c5f69f3a49258d73d7215",
+    "8c0870a6009ca62c5f7485f9ac8c23ba"
   ],
   "transfers": {
     "pages": {
@@ -21072,6 +21072,26 @@
     {
       "t": "10 3 announced cloud games granny grow has house inc including infrastructure integrates into its migrated november oci oracle stone supercat that three",
       "ts": 1794311344.8533225
+    },
+    {
+      "t": "2 9 accepting additions amp banknotes began developer game games indie its monsters new november opened opens page q1 release sasoriken steam store targeted title wishlist",
+      "ts": 1794311350.0970075
+    },
+    {
+      "t": "15 2027 content deluxe details edition has heaven january korea publishing release scheduled sega stranger than unveiled unveils",
+      "ts": 1794311353.5508301
+    },
+    {
+      "t": "10 113 2026 2026attendees 3 758 agenda ahn amp billion ceo cfo chung cloud date donghoon earnings executive future hyunsik kim nhn november operating posts profit q3 revenue strategy summar tuesday ujin won",
+      "ts": 1794311357.1666183
+    },
+    {
+      "t": "across after bros brought confirmed confirms division down game games has its just layoffs merger month over paramount projects roof same scales skydance some that under video warner",
+      "ts": 1794311360.9391768
+    },
+    {
+      "t": "5 9 agentic agents built described engine epic first games has megajam mostly preview primarily release released says unreal which workflows",
+      "ts": 1794311364.3757732
     }
   ]
 }
