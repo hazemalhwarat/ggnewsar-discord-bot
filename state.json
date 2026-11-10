@@ -1,23 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWWHAxUURSTEVjOVdDUVpBSkJlbFJyRXdRVEU3Z05SRzhsMFk4aFp2Zm53bHA0LUN0QlVIcHB5Y2tRNm44REpSbElUcTg0dUNEaHVBZnNn?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1pEMUdFQklOYm5BUHVuNXZCLTlvcEVOR2tDOGgyS3JraDhZeDZvdzNuaTRUWnJfeHZrLUxXeFlsOFA3c0dpbk9jbzduREl3UWNVNVdKMDY3N1NLNU10eWRpemdLU1NJY2JySmxtT0lyN2lSRDN3bEpUS1NwSy03bkp6Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RMlFIWjFTV1QxVWZ2VzRsejRKTTIwSnhFajEwak15ZmtHMnFTdUNZelRSb2RNTnJmNmZETmdGR3VXcTRfOG1xUVhPa3pkaWg5SGpFc3czT09aNU9lOHg1dms5VUg5dzdSTEtRemFmUld5RU5oRnk2dlZB?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT05GMV9saW1LLUNzNXYtaU5XNjVVc2NOM1p1N3plS0paeEk5RFY4US1EQ1lvT0dJMm1vN21sVGJBRXpYOHpEekJvV2RNR1pibmt5NzQ5UHpBM0R5NlhIbG1pZlJVemtKb3g2ZVdSdjl2RkVDY2c3eHh3MUJMbXhCbzBFZHJDZkdHUnoyUXlTbWNwQWNSN251RGkzLUh5VUlidzNaTkhmdUdzeElma3Y1R0NIb05LMGduTEViZUYydnU?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FaWZ2RFNzX1dOWjVqN0syaTFXMkVRTE5Gemdpc0xQYjdGdnNQUWdYdjBWSkYtZURXUnZiZVRtel80SnZnT2xZME52ZWJ4QXEyVnotUFJrVTVvZEdYeVFvbVVpaw?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2VOX2lqSlZQNTNUTm1BVlE5djFfSTJCSWFjQzVxeExoTm5EVDNweEQxNm8zN2xTU0JWRExvUldyOHRZMEl6Wkc5MFZGUE5GVklfb2RPc0M4eWZpdFdoSlpNWDIzUUt0cS1SNS1vZVBrTi0zVFdna21lRFlaRDlyNlYxWHdaU21HZFVVNDBncVlJTUFIMDEwMm1SRktBV0tmWURNdm53VnpoalRUckNSdEJJUG9WQlYwbHFjRkRheGp6Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXRkRmFqLXJka2ZxR0E0U3pVMTRmOTJKVEpsbFZhdk84bGpoU3BpQ3VNS1hSVUY3c0YzNnBQeXFTTFFsVHVEUHlBSVFmMmNmYVhaSmNrRG5NMzFEUC12XzNYRExRdEFta3FRQ2k1eDE3RGNET05VUzJtdlhac2J1aVZlY3BPNGVxWmJz?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE9uZlFrRlV0azFDdUwwU3FiZzN5ZWlScWRHUnppbG1IUTQ0Wld5cGlXTi1VTHUxWkhLUDFJRjVZelJMOTZTaUtTbHViczY0VWtTRHl1YnZJOHYzTkRNd0pqV1RRRmw4TE92T3FkbzRDalFnQQ?oc=5",
-    "https://pley.gg/cs2/furia-edge-out-betboom-to-win-thunderpick-world-championship/",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVUQySWYydHdFT0NrNkl6RWNHUDJNNFFjanpWc2k0TGVMTjFMWkM5aWptcGdJa2doMjM1Zy1wa2lmSXN1M3hsZlM1MnpyRGJsdHdiNmJHZDdBczZSYVVEU1ZDQW8xM1d0UG1teUk4RHVVN3c1OWRuTUVfZERscVhLb01kdlJHV3hqb1dZ?oc=5",
-    "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWnhIVXo2RjF0M3ZUeml5NG8yTnVqUkF3MGJTS1VlRXJzdHVtd3RyRlRwVnRwTGpnTFc2RXdUaVF3aHhtZnVPak5zdXVkOGJYaVd5N2JPaktIekxGU01XSjdxdVMzQVNwRmFGcVh0aEhhODlPVXBTdzdZUDM5ZHV0ZHRHRjFTQ1ZITnRyM3QwNWtnVmM3MjhYbEFkUVhuSnNBVkhxSlpZWXd4YkUwMHQzc21oX0Q2Tl9JWU9McG1wRXl4WVBSS3lMT0JTWjV1OVpkeDc5ZF9JLTFHaC0wajhsQ3lzbjNhbm02NEp5SDlrem1NRzAwV3lIaWNIY3F1ZjRlNTFiWXB2QmFDRkx60gGSAkFVX3lxTE9wd2dlU0pDeVRlWEl0SG5qOE5DNTVWenk1Z095LTlCQTF1S1FDcXdBdkpVeHNDb2ZMNl9jbDZTZHhGdW10U25EYXgzYUx2VnlfY2dDUkFpc3h6bS1KSHdiV1hDcllLemdEdk1ycy11SUdNNUZkSlZHeC0yS2pmVUltZnhGT195bFFMQUk4SGhHaXk2S0dleU1TU2pzczNpMFN3czhrUmVtRHpVSElMUjE3b1dPTmxmSUNCR01sUmxEZ2V1NEVtYk5iRTMzb05KYWdnZnQ5SzZweEJTUEFwYzVmTzBnVk1scG1OSUlPeElLYjlkOE11blBZWUI2b25FS0U2dGYybFY5OUZINklBNjF4Tmc?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTVWaThNbG5xZ1RlazhJZ2loblREMklNOUVmd3NzUTN2MHdwZ1ZJSVB6SmNTOTlWY0NwUFRGajI3RDlSUzc0Wl95ZThxQ2xnOEVuVXhJeVJoSGpLRzJJSUZCdWtRYnN6OUdNbFFQb0VrS05wR2hYNGlkZmFJVGpHZkxHQjhKVUVGRTV2TlYwZnUyNDlqUnh1MXNlU0w0cUdvdmN5YmxYSDJnV1hCb2Uw?oc=5",
-    "http://www.surrenderat20.net/2022/11/winter-skin-splash-preview.html",
-    "http://www.surrenderat20.net/2022/11/red-post-collection-patch-notes-making.html",
-    "http://www.surrenderat20.net/2022/11/113-pbe-update-loot-assets-icon-tweaks.html",
-    "http://www.surrenderat20.net/2022/11/worlds-2022-event-empyrean-skins.html",
-    "http://www.surrenderat20.net/2022/11/ksante-pride-of-nazumah-now-available.html",
-    "http://www.surrenderat20.net/2022/11/112-pbe-update-splash-arts-assets.html",
     "http://www.surrenderat20.net/2022/11/111-pbe-update-space-groove-2022.html",
     "http://www.surrenderat20.net/2022/11/pbe-preview-space-groove-2022.html",
     "http://www.surrenderat20.net/2022/10/1025-pbe-update-loot-assets-balance.html",
@@ -7999,26 +7981,27 @@
     "https://esportstower.com/news/from-game-room-to-pro-team-navigating-competitive-esports-careers/",
     "https://esportstower.com/news/key-stats-about-esports-pro-contracts-and-earnings/",
     "https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-division-following-111bn-merger",
-    "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development"
+    "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWp5S19vRGc0dXdBd0kyRjdhc3ZSQU01ZGlybXpkc000OE9URXk4ekVfckQ2YU54QlhDT2FqckZPRGJ4bDkxNTRQQ3pzR1UxX0JGbDBTRUswVTd4c0JtVEI2dEZhR1dFSXI0aVZDTzhfWG9USm1NRGRLWGdUNXg1XzZwNEtOOEpzc1kyLThROVJxTVJ4NGhPRndTWWVFRDRISWxnNw?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPU0VoVi1qZXRvRDhYeUNaV08xajNyQ2d6ME9PaEx1NnZrV2JvdThFcURYMk9PTU1uX3VaNDJPUGFlNERXM3pFOWY5NWVBZ3ZvTjNQT1JNOHpSSXF2T2xJMGl0bHJ4c0M0R05UeXptUUF4U1NjQTNsNmxsNE51S1Y0X2FKV0NpM0NJd0gtVkZGR0lQbFNlQTlzSGhOclgyd9IBsgFBVV95cUxPU3ZzbXRwM0lyc0sxTXprcFBwSmFsUGNlSkRRX0pIaGRfc0V0SEY2MFZyRGNhNXFYVDRHX0dEU2g5dkt1R3FLbzltQUZXaUFDcmFMR0k1dk1RWmM2UFU0TGxlX2haaHMwNGYxU0pVNTdYVE9kZmZQaDNvQ0N3NnpHb29aVDg4Ql9ZMktqZ3UzYUFXQzFGS2JDTzVRQk41dG1pLVpXSzkzZ0toNnQ5R1F3YmtB?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFB1cHRhRW42WklWMkNFRjA1V090WlFXSlNHcVJLZTF2VE5SVVMydlJmUW8tdk9ZaUI5U3F1bEZKRjRDMzFQYlpDSnI5NGN3dGUtbmJMZms3QURNSzd0T2ZSM0pndXZDUGxwbDFSRk4tZzV4QllHSzlvNkMxR1ppQjJITC04VndpWDI5Tkh5Y19TaXdhYjAyV2ZOb1Jmc1o3OHd5cDNGR3BWVHBfVWc?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmFsbFI3a1VCM0JnUFNER3ZQVDZqOEo1OUMtOHlxelZ1aVRCei1KdnVtdHdGcW5pUDFMemVIa3oyQ1NZUmRkQkN5WklHUUtMQUlpdXhNa2FOR2lSc0JiMXFTR2VmRGxOVkxGdC1rdldTS25UTXFnZENmaEpzdDRQVFFuSmVkMFJMbU1qMWhEcTDSAVdBVV95cUxPUnV6QlJieWVtR0RQUXlHZS1naXJCcnJvUGR0WDNJR0lyWXNFemtNbnJ5QUtNWGJCYi1EUmtUeWxEZkZoYWRKWU9Sb0Z5bndPa3hHclJHUWM?oc=5",
+    "https://pley.gg/cs2/virtus-pro-make-stand-in-patsi-permanent-with-f0r3ver-inactive/",
+    "https://pley.gg/cs2/all-five-mouz-players-collect-hltv-awards-from-beijing/",
+    "https://pley.gg/cs2/pgl-confirm-cluj-napoca-teams-with-fnatic-in-qualifier-and-nip-absent/",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0dPTDhtODlia1RmekNpbUVXTFc4cUZnU1k2X2FqMXFVanY2UHRxZXN4V2xWOTNCeXFQTHh4Zk9BUC1KSHhWUlpmUm8tZDJWdEJ1cGxTUVRHZ3FYR25zNjFRU0x4X1RqeF9SZm5lTzJFeFhvTFZFekJUUjhObXhKZ0hDMzloczdlc3JDU2VHeXVJWXBFaGMtNHlnT3ViRDhfYnJ2RnRjTTlNeEpqVnVDOA?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQnNGOFgxOXBJQzNWb0c2TGE2WXMxQ19YaDB1TFZYLWNoNjBlUnE0RmJjczJqV2Rta0VQYU4xM0FXc25qMlJqMzd6eG9MZVdiZ3A5NDVXZm1jYjZDaDBRU2R1VjhqdmFJaHJoOVBLQlZxRmRzcExocmZwaF9MWENCSFdGOVdRdzYtOVdzZFBCVW9mUTQ3bVE?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnpQTE1zOHdLbW5RdnBSZDRtZGRHek8ta2tnbUxkZXlnbDBUekczWDVrSTNPNDFNRno4UVBNYVQ2elY5VHE1bnlEc0VoSzFqWUxWbjd1Yjl1WUU3S1dHQ2pMREgtUnZHUjlHcGdXQk5EM3JXNlB2a19nVmJNTFA5aW9qWlI?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSUN5Y2xGdVpfbDBlVkZNcEY4bzhqR2tLcWVjWm4zRlJpUkh6bjhSUjByU0paVTFYTjhmY256WS1QUE9tYTdWSnVnRnFlc0hrZXAxVGh3SnU5LVExWXVnUnV3WVd4b0dmeV9CZldqTE15TzV4ZVJFeFdhcC1DU21NVzRkVGtDN2xONW9HZTkxN2tHenZjdXdkTEJpNUctV3lWTlhlaFZTLTZUOVZ0ekxJVzJ1S2wtZw?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGY1dWxJaU43R0t3dTNLeDkzX04yUEtVYy14VGV3aTVlclNoTlNQcTduLTlMZm5FbWRubFZwQ052V1VmWnljSHlOUkFLajRPZ1RfcU90ZGZnbi14aUJfcW5KaGJpeklQS2FHeVRYNXowcWRFSnNuZl8yS19Ec0RoczNsYkotWE1lSHRqTjNTSTJvaDJOY3dBS1FSUHRRSUx6ZEw3TjB1RWJRZHVPaXgxTlhGY0YzMDA?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWR4eHFpYW9lMlVmakhQMEZaVFJUUVdhRlhXb0V0bDR2UmNRMG90R1RZMnUwMWpHclhiX2lxOXl1XzhGZmV2QUVlZ01SZm9IUWFiUlVXZ3M2SnNSd0hUT29ZWkljcFFDLVNleGtwYjlZTDRma1pncDdsOU1ZaTVVRjZiU3FsZkFBR3c?oc=5",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDQtdjlVcHhMZWJYTDlOTFFxTFA0RWozVm02N0hrTk81bmNVMG9JZFcwYnpwS3RENTFpRHJPRHFZdm9nZGxxMFBJTHhpTnJzb1RZNFRJOHVoTUQtQnJjYnZ3bC1UNVFoM3lFQkNVN0x1dDZrcVhwelVJSEV0ZmQxaWFiYWdEMjlmb0czajZRdy1GdWgxbGs4ZVN2dG5lUmhWQ0FsRGZMOUJmaGttNmw1WWtfNWcyRWIyZVN5T0Z2ZnQ2bEdvZXBnckJWSzJVZXNRNjN0Q0Y1UXZONjl5U2ZpdnFR?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZW0ySUszU1l6WWRKNmg0ckdQbW5POXlEX2ZSLXBwX1RqSUFBVFd5N2w5S3U4cnF2S1lPSDdsNHVjajVSNkF5WWp6dW1uX2NCQXRpZ1hBMUVOMDVtMTBoTUJvejhHTGdXTUg4MTRQYUFEb2tYbGdDX1QxemdtTlJ3emdBS0NLaExTNWpIOGpmUVpzWlBkYWxIVXZfRjF3bDMwOXU1QTZqbGZabnZhWV9zelNjajM?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE12UXVWcmNnLTllMHMzMl9IOWdwalpYdEYwZlNyZmdtMGh0aElEdmZIVVoyYkxyX2VJLWk1bW5GbmhlRXUwd2NOV09JTHlQLTFGR2ZfUzJwdk1FV3JzWnVVRDJ5dkdKSkROVC15cGxWeElnVXVlLUp4aUgzdHYwQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzF5ZHp6MDU4TlpwU3A0Y28xS1JhRkxGdkEtZmwyVVpKZU9MTmVKS1VoOVM5QlhoTnZYbjBxcGxDNDJqRWN1QjlTWlZQN2puTnpCY2dkbDVlcHR6YnNaNy1CTDhuV1laZGhEVjNOU2NtSGVIVDdrUWUtSWdocVBMVGstWjI?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQdjNlaGtrS0dCQzAwU05wXzN3OVVrcXE2NldRVGg5dWZXbGxKbTRIbGVHUXA3bUE3MVVTb29LWVFGQy1KeE1hS1BxNzk5NVFYTXAxdDRfdGJFbkdleC1ISUMya1RsRTlSWmNMdzFtQjd3eTFRQTBkQmlDSF92dGJlNHMwa192Slhpa0NxOVRQcVFMc2dhVXVFbkpZMzZCZw?oc=5"
   ],
   "title_hashes": [
-    "c40de27656357955c91f25f0d6b61923",
-    "44cae4ac95cab364d4380970ce093006",
-    "3c908d8c864e1750b1f175ad640bf9df",
-    "d4f6c73d47d5d893801875465cc9e311",
-    "860006ccc7c27ad8441e7a358527ffd7",
-    "01284a657a91c83d6429e6fcf1675e49",
-    "d6c5a82c8d9aedb4e7b30a89ea570874",
-    "3a8e51ffa74bc777f461017cea68a9fb",
-    "d74995cf936eebed76298d320f438a6b",
-    "a4cfcec6876d25175baf185c86de28aa",
-    "74e2a0bedfa74bf5a93992520031f4bc",
-    "9e6313353bc359cc2d2b019c7374edd6",
-    "8d16922c6dd38fa67ca6a2b60760a323",
-    "b016f48d898c745be5ef382254224582",
-    "a0795802821a3f1a7ca902e5718e9507",
-    "575c1bf70afe60c5d89c8e429d988bd2",
-    "ca131f89056076ac5665ffdb1cdb1310",
     "8700645391ff9d41a3bcd7dca08f64f3",
     "cd00d50d0eac02a1e188013d0c828fd2",
     "4855e665012e56a1fa051d897b44efa4",
@@ -16001,7 +15984,24 @@
     "9e6313353bc359cc2d2b019c7374edd6",
     "8d16922c6dd38fa67ca6a2b60760a323",
     "b69e23fdaee341cf4c0fe1b5c626c338",
-    "e074831cf4fce8386c830730134c99a7"
+    "e074831cf4fce8386c830730134c99a7",
+    "5925bb6fbe25b27c540d8ec1038c2323",
+    "f80ecb034ff588e297c47d06b55a881e",
+    "38e40cbb8ec951ec8e2ce78915f9e9eb",
+    "fc9c526c2965258e973108f19fa89a9f",
+    "4e76aba53083573f08a9f4161440f792",
+    "14f83bd65563df54fa0bd2ff4f4b7bff",
+    "39f20103e31cd6d07ba9a049c3ff2cc7",
+    "33d497530d6810a2acea583f4005bb47",
+    "9cb003a9c87c954feec2e4d39f6785ef",
+    "83dcff308c51f1b7e0b9d9cbf89ee348",
+    "8849b698f4791c27e987c1661788cfc7",
+    "cb8f6d860c272c093f107c21cb26ddde",
+    "ca131f89056076ac5665ffdb1cdb1310",
+    "2c0718ba07c27cb568a5af893270f7b6",
+    "c4dc707ba61f1c6dc04b0742dbd733f1",
+    "b28f99b40aad5082a541c5a2ee5c0767",
+    "9b1fef8c93b51b2465a97c08d9839384"
   ],
   "transfers": {
     "pages": {
@@ -21252,6 +21252,22 @@
     {
       "t": "address big bugs challenges clarified clarifies development difficult during final has house more read sparingly stage stretch technical tools use used walk",
       "ts": 1794311516.0727065
+    },
+    {
+      "t": "2 2028 considers deal esports fox5 lvcva million nbsp tournaments two vegas",
+      "ts": 1794311521.5290282
+    },
+    {
+      "t": "after cis f0r3ver have health his inactive lan make moves mpkbk patsi permanent permanently pro reasons roster signed stand title virtus while winline",
+      "ts": 1794311524.883826
+    },
+    {
+      "t": "after all among award awards beijing collect every evps fill five has hltv iem its mouz mvp named player players seven spinx three torzsi xelex xertion",
+      "ts": 1794311528.2245138
+    },
+    {
+      "t": "14 2027 absent all but closed cluj confirm fnatic have invite invited match named napoca nip our pgl projection qualifier sixth take teams vrs",
+      "ts": 1794311531.6812303
     }
   ]
 }
