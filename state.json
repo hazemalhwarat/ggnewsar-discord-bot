@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XOFlYb0dNMVNxR0FvaE50R3RXa0dUODBSTm9VSWh2YTZXUlM0T3ZrYVZEU0QxV1dvd1c1R1NNbHFfa2hvaGJuVGZOaEFOY0JYSUc2WW5HR2JJNGVZaWpBWjRaT0FpVkVha0VhbEFvS1RsczJvVm1B?oc=5",
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nZW0wU0xCVGM4Yzg0cllzcDNYeDNqT3k3RFRKc3dLYVVqSHFUNlVKVk55d1o0RkoyU2ZuNUFPeXRSSXNhUlVUN3dUU2FscFNF?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13NWNLelc4Q0Zsbkd2RG9HSGFhdmZjcTRTNGtBdTZyM2FmNTEzWHFpa1lDRlAzNnA1WDU5TXFSODNoY0ViQkl0Z2h6MnJqMlg1ejF2dG1qUGpUOFptdE9vS0wwdnN5akpK?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5YmNiVU4wNmI4bXM4SFhBYTUxN3QzUS1ONHNKVXkwTko1Sms0M3JvRFhxRWcyRzE2eXgydEswd3dvakp4dW8yYzg3SDF5bk9PQmRkLVQ1Q1FMajZFWXhuQ2dWbU90aGFKeHlBQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nLTlwQ0x1TElsblZlZnV5cWwyNEtiS0QtQUpWbUxLOGI0US1aOUQzZ3F1dVBqUlFNekQyNW9ZWWR1SWVFN1Rtejd0amRsdVoxdjZ5Mjk0cktqdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fRGJuWUd0aXhhaVNrOWZuQWRKOWwyQW9hSjB0RlVqdlExNTBlUE9FMzBBOS1VNEtQYVhDREJEZV9hYm16VHYwaXB2b2VrYnJGVVotOF9LeW83a1RZSk1nUGw2Z0d4NEJJ?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KU3BLQk9tYTN4U0RFZjhfYm5tX2JJMWhybjFNNldEbmVWa05QYWFOQ3ctbHlrYVcybEtVaGRRekRzenhYNE1JQ2lybmk1djJzcVJ2ajlsb3RrUVRvRThwMU5hTzFyQ0pu?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Uc05qOV8welA3WHdhZWxkMnkxN2xUNjFWVkcyWkJfRy1CTlZlSXo1T0RUQ3NtSnRIMHJET1d2dTVaVkExM2hZckVzbm1xS3FHcTNWbF9kcXRhLUtoQVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDExSkoxOEVYTEhxUGx1NmVTUXZZc1BXY0hGb3VKR0R1UVpvUjMzTVJ6S0V1WVh3YWtlVk9xQUVvRmFqczlOejhBRk82ZThxdnhhLURUTVhadU4tRk9kVjNNZnZodGpIT3l3bGhGeGlGMjJUY2VBTzgyRUFOOHlxaWp0eV9NaXRJclhlUmltTjBmOVVDZ1FVSUpKU09VaFVvLWJsOFRwYmI?oc=5",
-    "https://esportsafricanews.com/africas-esports-triangle-why-athletes-teams-and-tournament-organisers-must-grow-together/",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ESG82cFBNWm01U2tuYmc4THJKSEV5U0xfei1kX0R6TC0yVU9fQUYyRUVUcHpNZFliUUZjdlRVVXVleXdKT1d4MDBPeGVZXzlVcF9YWElZSzFtRFdyVmd1NzBCTQ?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRTQyYmdOMTROa0dET1F4STh2WTVSTTNFRndYUFNpcEl6cE8wcmJTcEZWVVhKZndzWmoyVDM1V2xsSHA0WU52NjIyRmJWZjd1QnNVMzRkUW1kQ0pCRDB1VU00SktxSDVHUDR1eldVLVV2eVRIMEQ2Z25Yb2dNT2RZZzNhMy0?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QNTFDbjMweVNMU2JYVEhtR3NnSjZHM2V6OTZSdG1ZeUl4NDZXS0F4X0FjRGdKWG4xd0FPemZNRkFqa0hWWmtPZmJSelFCMUlZcGhF?oc=5",
@@ -7999,17 +7989,19 @@
     "https://pley.gg/cs2/ulaanbaatar-gets-a-second-2027-event-as-pgl-drop-china/",
     "https://pley.gg/cs2/quiz-can-you-name-all-major-mvps-in-cs-history/",
     "https://pley.gg/cs2/esl-release-140-minute-falcons-film-with-b1ad3s-navi-timeout/",
-    "https://pley.gg/cs2/keydrop-review/"
+    "https://pley.gg/cs2/keydrop-review/",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUnBZRXRoZGQzRk1NdkZPTXlUaDN1b1RzZkY5YlBlSkY1N0JpM2FQWjZFeFA2WGo3V2t1TzFUX2p2cl9VY19Ca2hETW1IMW15MXJIMFNDM2xKeC1DWW1XMk8xN2ZURU9tcXl5V1gteF95eUtXRUt4djgwTUpHblNxcVM3Q3NNN1B1N0hNbm5EMktPdlpqYkpxYnkyMWpRZklhSmdWSm5BNi1ISy16?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1BQMHREdThkU3F4NkZUWm5DQlB1VUF1cTRxbVV6ZjRwSXp4aVVaVld3Y2ZUcmtGRWJuYUxXbnBxSEJjSDRhb2xOZkRiSlVueG15ckNOemRQTXVEVUw4RjFBZ1RFNTk2VWJ5N1RSSmVpRDhFUWRZOUNKVDk4QjBsZFA1em8xeGdFSzd3S0E2bVZCbzIy?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd2dvNC1LeG9BMmZDVHRYVlhXUWFoQU9HNVR5MzF3eDRHNHFGMG5ueGRnNFR1WS16QnBLVHRXU2VMeFBWWmM1eV8tMEJMTEp0bFNValV2SXBKRkFka0pIRld1M0tvcVc0R1JiRDFZaFgtd3hzMlNPRjFMcERYRnZFX0VQMVppY2pnb2c2eHBqbkc?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnlBYnlXWnJpcUhtX2RQaF9rNldBMG1wSk9BZTE3dUJBeDhib1YzalFyRjhOQUlTVHBUOTZXYWZSOWdyWGc1dEh3RURjR3h3NHY3dlp2ZWNkNmlKS1NiYzdwQ0JyYU5aUDdzNW1FOEszYlRYby1WWTZZUkVlVllFX1JETEFTeHBYdThfdldtNmd5Q0xOU25uSk9ncTJKNWpSWWh2ag?oc=5",
+    "http://www.surrenderat20.net/2022/11/winter-skin-splash-preview.html",
+    "http://www.surrenderat20.net/2022/11/red-post-collection-patch-notes-making.html",
+    "http://www.surrenderat20.net/2022/11/113-pbe-update-loot-assets-icon-tweaks.html",
+    "http://www.surrenderat20.net/2022/11/worlds-2022-event-empyrean-skins.html",
+    "http://www.surrenderat20.net/2022/11/ksante-pride-of-nazumah-now-available.html",
+    "http://www.surrenderat20.net/2022/11/112-pbe-update-splash-arts-assets.html"
   ],
   "title_hashes": [
-    "33b5dab6b2914c7788eb40843e5aa3b6",
-    "593287a3bfbb672d385267266a89f77e",
-    "d8514aef00a5ae86d183395b2749621b",
-    "d6518ec1f3734d98067e5d669051d321",
-    "cbadaaa5935888667801090eaa64a9af",
-    "c064937ad48c4972bbd821c195106862",
-    "df8a9170cedf48c948a2c0f935533ab8",
-    "37ad7401425d59bcd68663539f04c997",
     "3f039689f5171f9cf5c6bae1950f639e",
     "79061a9cdf119abd3aa95cd10b96f709",
     "4e42f03dd78076c1af9c7928ef80bde8",
@@ -16001,7 +15993,15 @@
     "0359167291962aa561517f9c4e00be93",
     "1ed5052cc411818fd33abaec81f08f0b",
     "f5abbc87b2e007a4f79765016540e524",
-    "ab38e555ee118f2a70e5194e16f6a319"
+    "ab38e555ee118f2a70e5194e16f6a319",
+    "6f2ab48401e31a30a2c510d856c06ade",
+    "9a116a4eed86f39a1182e295f8b01501",
+    "10630b177c54da08584ba00a073204ca",
+    "253f0be014f3dce336b6e92531ebee94",
+    "0107a42ddf30e2da9afc1dd6969d2fd7",
+    "9d211d48147a8435c22e9fc47162a9dd",
+    "7a914dc04753972bf96b19d517a4f954",
+    "4862c8730bb1dec43bb12d51057bd973"
   ],
   "transfers": {
     "pages": {
@@ -21380,6 +21380,10 @@
     {
       "t": "keydrop review",
       "ts": 1794338050.669894
+    },
+    {
+      "t": "2027 crazy esports join nbsp pacific raccoon set sheep sources sugarz3ro vct",
+      "ts": 1794338055.66061
     }
   ]
 }
