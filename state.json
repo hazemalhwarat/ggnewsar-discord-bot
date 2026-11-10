@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlNyUDBvT1doRVhqc0FqSGN5TS1MNDBBLTd3ejlNYlN4c2dxNF9rLXdWMEZJRWRzWnFBdVFaVThWUm0yaU1hcjJZSDJMUmdmUkZTY2kzWTFRek11VzFCV0pfRW1qVHVydUdVdHFWQ3FmbkgtRzRscWg3R3FFaGoxX0NjeHFOTDQ?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNEVFd3FVODVMdzJMY2xvV1AybTByZ25KVEIxaW02cGpCVUZhdWpMZ0I0cExTOE1mQ1oxX1J6U2lQRzV6T2paUUtMOUJXRmFlZE1GS0VXRUxjcko0X0pXc2JiOWxOUnozZkNhcl8zX3ZoUmV4UUNVZmNESlRFX0paUw?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMFAtNWF3aU8xdDNKRXJjaTVtelRiSnltTjVlVFp6blRwRFZJUC00OWZsY21wVXRxcEYzWFEtNTU2ZGlIYzhfcDJ4ZXp4dVJCYW5mbllTOVoxakNBaEpNWmszQlV6TkE3WjM4cmFMcld2NXZPTVROcmxfX0lWYndVdWp0YWwxRkl5MkJXTGl2Y3RxTTJzRmVSNFdwbi0?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdjl3azJXN2xraWl6ZkVrYnQzRUlkRC1QMDVjcl8zREJhTGU0ZXJ1dGVJXzBTd1hPZk42YXo3d3hmSWFTVDVhNm00MUF4NElnWERRLUVncU1HTnJhVmlRUGlfaHloNW5UcDI0QXRaZFp0WFNQRW50R3BYNDYwR3d2aG9WQnlteHN6bXk4TkNjSkw4YzRPN1V1c3RUZmo?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWpVVXg3dzFuZlpPUzJaa1lkN256eHRKY1FZbUJ0eWFWUU9WbXdSZmctTERCZjZJd2Q1bG9MeEhYLVFuZ0ZVX3ZIbDVJWXN1NUlTRHNveGtpR3dUWDVSM2ttQ1ZpM0hFX3A2NTl3emJ1aUR1YkRnOUkwMnFITFVQb2wtSGxfSGFvS2hWTnhyN2gwYktzalVyZ1ZmZEdQOTFrYm1mRjM3Q1lSZGs?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaVhPd1Nid2NldFVFeDNodDM3elNCWVRyTU1oc2F0MnlrcUZRNWsyY3g1U2xMeFNZS0FVSWdGVWtvaU9XMEZGY3RnamFNZjdDMEtMT3J1ZFJFb3dSeVloZnpBci1IMDZKMy0ySG5ubmlXYmhmNFQ4ZnB5VGF1a1Y2cElRYnNfMGhnTHE0?oc=5",
-    "https://news.google.com/rss/articles/CBMihwJBVV95cUxNc01BM0pIbUNaUXBiS0NWU2pMYzZvU2QxNGxLanRRa0ZHMmlsYjFwbmFqTHBVNE1iQWtOalM4OE1DM2FmVUR6bV90eVVmMWZ4d3MxMHhtY05XTkhGM0kxVEtKajBRNG5PQWdkLVNmQWZYbW1OMWJPTE1iMktTeFBSNDZiZUVvSXB6cGtRMVNHZERhUUYwdWYydG1CZnkzZ0N2NENOcnJyMkZlcWdubXpEOVVHOFRyYm1fUGJubGNXcnpJMFhyTGJCV21vZHVTTW4ySk05Ql9NMW1jb0UxSVF4dERaS2t4RmdRMkdTMEZRODZkM2EyY0R2ek5aRjV1V2NOWU5EdV9iSQ?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa19nWEpYazdDX2h1TXZpM25sWS1fQlMtdTd4dWhKbzZhZkFtNVpXZkpRZnptSHFFZ1U4aVRvdGtkeGlQRUEwZkl0dVNiVU1SQVdqQUxGSTFBOW50cmY5eDc1YjM1YVRVMDVRRS01VWdmZE1fSDZnMEp1bUJ1VTZFR3dvMnBMaGRPb1JyVl9aSmRLcHM?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ0U3SUNwVnMzRFgyeEZzNlBleVVINFU1SmM5ak9YbnZ4d003bmRBajdZRDBaOHdpQXc3QTBfTElDRkFidG56aWFYdVNOMDRfWXppYnBLak1SV2cwUDZqenpwWTR0anY4dC1sNVZHZkNTQWxCUmV3ekdZY2xwZF8wNlBSZm9sVknSAYwBQVVfeXFMTXRxWVpNUjJZcVFRbmtxQU5YWWExSkNXUE9VeEtGS3I2WXd4VFF1WHRJVkxyNzZNUlNfRHYzaTBCcENySmFwcC1FRTBJcmsxR3M2ZmMxREVRRnNUb2syRWpZcl92MFRGV2JJWTB3ekVUOEFBVGh1dlkxRlk3OHNQaGJET0ZqR1I1WkwzWDE?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFpib212SjVwa1dmbGFMbzhUQWxjSFJEbDR0d1h6NmZlUEp2Y3EzakhvcmR3bzRIblhBdmRhcE9nNy1vRGpMVzliWm0xNHFXaUhEZ3RSWm90eHpzc0ZjVS1DRFRMYnhjQTlzUHFkRVNVY3luYlBGbnc4OGNPbFRLV25sbko2X2lkRjJlNzJVVFR6VkRyOEp1eHNONmt4ZDl6QTFVZ0ZlbmR2MTZkZ0Zz?oc=5",
@@ -7999,16 +7992,16 @@
     "https://insider-gaming.com/bandai-namco-announces-reflector-entertainment-liquidation/",
     "https://insider-gaming.com/genshin-impact-novokitezhgrad-wingspan-peak-undetectable-chests/",
     "https://insider-gaming.com/big-walk-devs-issue-statement-regarding-ai-usage-following-award-controversy/",
-    "https://insider-gaming.com/nintendo-switch-2-system-update-adds-support-for-gifting-feature/"
+    "https://insider-gaming.com/nintendo-switch-2-system-update-adds-support-for-gifting-feature/",
+    "https://insider-gaming.com/tarkov-season-2-modifiers-revealed-nikita/",
+    "https://insider-gaming.com/arc-raiders-sales-performance-drop/",
+    "https://www.esports.net/news/gaming/mouz-sweep-iem-beijing-without-dropping-a-map-as-xertion-takes-mvp-ahead-of-singapore-major/",
+    "https://gameriv.com/nintendo-switch-update-introduces-digital-game-gifting-with-one-big-catch/",
+    "https://gameriv.com/nintendo-is-hiring-a-digital-archivist-to-preserve-decades-of-gaming-history/",
+    "https://gameriv.com/league-of-legends-patch-26-23-preview/",
+    "https://gameriv.com/killing-floor-and-maneater-developer-tripwire-interactive-announces-layoffs-36-employees-affected/"
   ],
   "title_hashes": [
-    "2b710b9537f57365f3356cb45bb089d2",
-    "3a3f0372437d21e1edcd1fed98c79537",
-    "90c1fbcd94d5855dd81d01ecde7d24dc",
-    "3ce9704e1beef880c946c0ed68171e77",
-    "dc7403b3cf867f883a482c77fdcd0635",
-    "d9f3ba408b4e95541da9544e878f7056",
-    "be6f9cabd0f37c0357f74f7123bb3590",
     "df736116d2ef0ddd0e5fe9797a8c0a10",
     "599c5d6883bf02d2de757eda3acc6f51",
     "09206e70f2ce869537575b212685cc64",
@@ -16001,7 +15994,14 @@
     "6633d2c92c791b61d2cb4e1bfa3ca2ea",
     "4f3012fe7b7e20645af90bcb9490f7c5",
     "dcd4b0a52b122f7990a39817170d5968",
-    "d2e91990e0d31a7c066a61b2ecde5ceb"
+    "d2e91990e0d31a7c066a61b2ecde5ceb",
+    "5193fafc86a1133014f2a04a1b3c84e9",
+    "a6f82804694a3c55aafb557cc13305aa",
+    "a88589a43cb8a9fbdbd1c2a1789e244c",
+    "116b6fd4510a3132d35b50673aef2540",
+    "24c8823dd6389968350e3c6afa295828",
+    "abe08a0dacda2482866a9ffe2520ac64",
+    "4cc0b0040a0ae85f4e5ca66a6cce7996"
   ],
   "transfers": {
     "pages": {
@@ -21132,6 +21132,26 @@
     {
       "t": "2 adds been featu feature foundation gifting has lays new nintendo post support switch system unveiled upcoming update",
       "ts": 1794311401.9850674
+    },
+    {
+      "t": "2 appeared buyanov coming escape first has ins media modifiers nikita post revealed season second slate social tarkov",
+      "ts": 1794311407.1792238
+    },
+    {
+      "t": "17 arc but decline declining has million nexon over performance post raiders reported reports sees sells sold that through units year",
+      "ts": 1794311410.5526297
+    },
+    {
+      "t": "0 2026 3 against ahead beijing campaign capped contender dropping ends final iem leading long major makes map mongolz mouz mvp perfect pgl singapore sweep takes their them title trophy wait without xertion",
+      "ts": 1794311413.9233916
+    },
+    {
+      "t": "8217 archivist decades development digital disappear documents don ensure gaming giant hiring historical history japanese nintendo preserve steps taking tech time",
+      "ts": 1794311417.3145473
+    },
+    {
+      "t": "36 across affected affecting announced announces another behind company confirmed developer employees floor franchise has interactive killing layoffs maneater popular round studio tripwire",
+      "ts": 1794311420.6565926
     }
   ]
 }
