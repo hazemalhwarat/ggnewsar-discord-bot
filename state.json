@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzJ4b2l6R0ZtRE5fUTZTTnVxWlo3RV9TWDNfTWktdmlBTUhCZlpaamp3VFFmb1F0d1B3cUNXSTM2Tkc5dnV6cXk4ZjJHSHIxREY2RDBobGRGU19EdlpTZnZ4ekJBaW1wdXRXQTF6dGhFTWdEZTRLVUFQNTgzbndEazNkU3Fwc1hPRkZnQ2lmb2lmcVhLeFRKMkc5WkxQTHlLVHNUUEpuQWdsQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSzFRTW10YjNQV0t0b0tOc3R2Z0p4dTktaG1RWm4xQl9vN3hOSjQ0ODFFVTBxVDUwcW5tZ3JvaGJTOGhlRGpLZzFaeDhTLUFydUdtNXB1SUgzR2VUd3hkQ2RNZFZmSkJOYmFjc3R6bFRKNUZlNmhUTzg5ZU1GbXAzWk40OXFJbEN0aVBvT19Xd1R5SE91X0NyOVh6Y3JCN0wyVVFvTXFGalFNYWtRLVFMSTB2d3p5ZUNMdmktY01tU01QSHR4WEVVTE9JV091MENCajVfUXhoOTlUQ01uVGpmUjlSUXI0ajhkYXJaNGNuTnpuZmJnMHR6cXh6Q3hnYnpvWkdQeEF2el9wX0dWWkE?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVlVXN1h3T1p1R3RDZW8tZ0UtRUx0TnQ1Yk5IRzNkTEVSZmpPdWMwZ1l4enZGcFd0c3NMNFFReHZFcUtzN2N6eVJzQlBUNXFhT3R4a3ZxZ0hjY0VhTFJsYUxQdkQ1NVNkWnNENUxRc3ZxUkFsenA0ajlRWF9wbHo3M2tjMVdjcTRZc290Sm9GSmpNSWRpNVc5SDVB?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRWNXY2U5bmY0bkhOXzJzVWhSX05TcHhBaDlxWDJWS1hjR1NLXzlndHZWME1zSHhVZmxIX25hV21zMkdSZy1BcWxBazF0eXlwckh3SWs2TGxZbExvV1FiRHBPVmQ5aHdlRzV5VHh4Y255VHBJbFJscDQxeGhBS2psTjREaGFHcHZ3ak5RbUR3?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmJ4VjZEYXRKbjR1QTc4a0huelEteXNmZ05CYV8xYm9RbGJYNWlMa0k2WGswRGZFQzJjR3lzQVpFd2ctTjBpdHY2S1BQMUh1bkllZ1dzbTNJUEZIODE3Ul9YbWR6MzFiOTI2V19iVnZpVUcyVHJEWDhIczViREZ5QlFTMUFwX2UzdDVWak1wLU5rbV9mZ2IzYkxFUkJ5akl3b3BmMzZUdnlUU21FMTNnS1ZnVjdIZE9Nank1MF9senIxSkNa?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmhIZ0FWS3U3dzJXTTQ1Qzl4TVZLaFI0Zzg0cVlNWGl3YkFGMXhSTHNMVEZZS3pkZ0g4aTdab1NYRmpwbGdqOTNEbFR4elFxc0pDZlRMeXh1clJjT0ZvTWt0dTRkTUljRDRnNjgyTkxjelVXdUR1VHZHMmc0OGI5clVVUk1HbkdFbWRHMnpZRlJaMEJUVlJ4cFZ5c2twTDFMOUNXbHpWNWZCRGRvNnhPaWZR?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTVEZRM2hobzdGYWdzMlFuV25qa3lHekY0Mm9FSlpicjBYMDB3TDNUZExLWXZzdk9mbE5Ob1BidzVwWFRYSG1QalVRSnhVQWdkMzNqcHgzUTRKOEloejVQZWNTZU9lcUc4NUhhd0FlbEM5VFNjNzRn?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQkF3UWZSZXE3azdTTnNJSUZkRlNGb004Qkh2TWlwZWJLRVZkRlpZQXlkYWZwdFA5dUg4Y0hVdld0cnVTRWZHSExHeE9HYUFWSjVDc2hRUEtMc25kQmVPbWxuaFlPMUNfOGdTeU1Oc2VFVDhNcHYwUlM5cjZMY2pJem5vNzd2OFFOdHhXcTR3?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGhMdS0yaGF5T1NsRU5CN3lYeU4xN3U0X0ZlR1lMNGszelFhSVhnY0ZfWVF4Z1FXNDJBSUM3YWU3U2RxTW1jWnZMZlJuNWxFYVpmX0NObTltS1l5aXBfV01ZU3dhNkljbnVzLUpqUUlNc3pYa0g4WWx4OWxWeElXaWN4SzM?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnpURWF1ZFBldmpUTklXcXl0a1ZvNlNoRHhkOVV6dTdiRHVKNjAzMTdJdEpkeXlnR25vV09hdmpiam50WVM1SmNaeHZKcXBfWld1WkM5aVlRM3RJQUg3Sm9GZ1Fia2lBQU10ZlplYmVHVEZrandJUnEtN0Q1c29UaDFKMzRRVktXTU9jQkE2ZVNNcXdqcTB4Zm1YOGkxY0xSQnNyTTVLUmpjWENFcERn?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVRVdVp0T21lUHl6dkhLQWlHQ2ZBaFgtUGV1ZVdQb1Bvd3FMMDNNTlhsVTZSVU9wVVNaNjFqcmdpT2MzWlNiSVdRV3ZHOVdMcU10QWJlN0o4cmNaZ3VwVTZFZUdsNWFib3dTRVBTVzFCdzJlV3MyTDNac19saHZtVzdZX2I1YUdMQ2h2LUlSM0tmZFFxMm5XTUhlaG1pQkEwbUhwUWpDWkhMTzRCQ1Q0MWRVM1B4dkUyRk45anF0R3plQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVDk0N1NjX1E4U3FzNTFicnRGMzVnX1dST1ZhOTVaNGVWZXBmZ1ZyeXBIX181QXgzSEUyUmZkNjBuRHdDTmF2a05XTEVwbm1wMmJpS0NVbVhNekFDTmhUaGI5X0VpSi1vYUZINDd1cmlQLW93N2t4ZEl1Nm91ZVcxOTlJMjc4Q2V1MUJIQllEWjVaTDJZNjRoRzdOcTh2OFpMTmtsOUo3bFJESWNnLU1FWVRsckNhRkU?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSENqODYtYkhVbzVQMkRnZjRLaTIyU1FVYnlfcGtUdVBqU1RWTHdOTnlvUWhVVnN6THVMbmpMZWFIblF6RFRiNWdDWDJwdk5KTGsyVzhhcEpZeGxxbDAyZXd0emF0Q0NJejU3eFQ0T3FodGMyNDA3TGloZVlMcV9DdkpOOFRRX1laMUVybGJR?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1otQ2F3TG51ekNLTUJMbThSdGFRakZnMTJESzRha0U3ZXRXWUdSTFVCdU84TEJFc0FLZ0hIYzFYa2tzaVBFdmZ1M1o1eHhLX2Z3UlJyblRnaTRvSHdGUjZyZldCLXZ5V3NDMDZ5MU5CVHpCNmY0Q3MzMlpuZGJVRkw5R09teDZFTm1Va1diTGZaeXBkVE1VYTl1a195Yld6R2JEWG1zeXZVR0c5RGUyVmpLQ01YYkZaelR6bFJqenNYcU5qWUM1QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZDRwN0pVckRLMjk4Q0RZYThaYzZlSGtkd3MtcUd3cUphSmdqUnBiUHR1V0o0dklGQjBWUUFzeWJ1SUNCMVo3MEwweEh5NWNsMXk0Z1dnaDBZSUNIVGZhSmF0VHJDVlR6T01STy1rRVE3WU9KUS02bXRibkphcGpyWEhMMmZHZ2w4MndONzV3?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcm0xUUFwUnVpMzBfdVI2RVRCcGwyVDZTOGlmbWUxcDZTRXpxRTNVVElvQy1mc0lTSGloZm9VRHl6dTZrMGpHaXFBdEhNOEk2VF91cGhEUkZrazJ1b25QZ3JqUW9lUWxTZjA3M1lkUW5oR2lWSnMxM0FTOVVCU1JSeHlJVXA1TDhlbmFXaEpLa2VtZzVPaTNGWDNfS3NLM2M?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE05VTYxaVUtSC0tQzNMQ1VBdjEtbk04VExBVWNOeFA3MktITFRyMmVxREF4WTgwODZCQ3REQTFGR01heUZqbmFiZ1RwMmwtdWRjQTZ1cGR4RkxXbjhoRjl4TW0yMGRoaTRhVS1GTmxBQWtpVkp4OWc?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDJvUUdMTnhCeGVYRVU4OXMzOWtRbFB4US1iWFVTY0RJaTlSVE5EZ0c2ZjFHOGJRTXVBS1B1dzRhbDIwVUQ5OHFieGZ4YlJSSkxva19waFNyX0xhaGMyLVlPRktEcWZlTU5pUjhIek5fRGxWVXcyel9hX0x4c1R0MGs3dDV2dXdSTmNzeWVaV1BtMGp0Vlpvb1hwRQ?oc=5",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DRUYyNXcwZHRDVktrTEZzSXpCcndSaEd4ZVdlZmt4X0dSZmMxakVfVktPSFlMa2d2OElWMkNQTUVsc0dOcUlYLTZDd2JjUEV1blpuVThhWEhrdklIeHNB?oc=5",
@@ -7999,25 +7983,25 @@
     "https://europeangaming.eu/portal/latest-news/2026/11/10/217734/allwyn-austria-online-gambling-timeline-tris/",
     "https://europeangaming.eu/portal/press-releases/2026/11/10/217729/blask-ask-blask-ai-assistant-igaming-market/",
     "https://europeangaming.eu/portal/press-releases/2026/11/10/217725/ela-games-best-game-studio-sigma-world-awards/",
-    "https://europeangaming.eu/portal/press-releases/2026/11/10/217718/spribe-aviator-uk-injunction-colombia-romania-serbia/"
+    "https://europeangaming.eu/portal/press-releases/2026/11/10/217718/spribe-aviator-uk-injunction-colombia-romania-serbia/",
+    "https://nesthq.ca/nest-lol-1v1-rec-series-pre-registration/?utm_source=rss&utm_medium=rss&utm_campaign=nest-lol-1v1-rec-series-pre-registration",
+    "https://nesthq.ca/before-signing-esports-contract/?utm_source=rss&utm_medium=rss&utm_campaign=before-signing-esports-contract",
+    "https://nesthq.ca/how-to-look-more-professional-in-esports-before-youre-famous/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-look-more-professional-in-esports-before-youre-famous",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWlRQ1duLXlwUTlqY1hUVE90dkJVWUdLTzlsbHNLMHJfSWpSd2lZVUpKT0FFR2xMYUtiWTVnNy1HazFmLTdmTkEwOTVNZS10R01XNzV5ekhMc2JIcmlXcVFNYUVVdkVDNUlldUFKaWlxZndOMkVZWnpSb3M3UFpDbWVGZWhPWmg5bHc2MTlreHBGanp5TEdIOGZqcUI3NGVOTkdpYzF5R19hUm9yS0Uw0gGzAUFVX3lxTE1qSFFuX2I3dWtQb2NIeVQ5bE0xNlkzUWhUNHNESGxsdkQtMEpLdnB3OVZ2SUFsMUZWR3NJUGo1MEJ3Y3k4Ujc5dmh3TVFvVFJ0OGZ6QXd2MjFVZVRia1d1UWtySk5lc3czRHJFLWFqenY5dHVUcWxjWGRSQWJVMmtYVlFlZEJXZUVDdDJlc2RwMzMwZWdiMXZTcDg4c1pHWEllQTBkSXFfb1JsYjhkZlZuems0?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWYzbS1iVWVFV1dlQ3JiOUpERk9IUm1sM3dRV2xDWXJPTHNGNFhrZ0tQanRSRUJ5Sk9mcDhlbFNwcUp6RHM5WVFPMktFekhYXzl0VnJ2WUc3X3MtZVB1NjZFMkxaZVpUSTl4VlRFWTNROTR0RlVBRmpjNzNMV0x6UEZ2WVVXcjRzMWxlTXJmYnZyekdQVk5BamxNX254S3lZZlhnR0F3LXk5X1R6YjBYdTJ1VdIBtwFBVV95cUxNeXc4cG9abnJvTEJmdThleDdvQU91QUVzaF83Y1U4bnhQZ3UzUW1PNjFjSkpMRzd1MnR3ek1jak82OXBIMFNFMEkwb1FXLTNmYzdOWVh1WFZ5aUVNaU1zUVBHTFkyeGpPTmhSNXZlRWJaRndCYTIyRF9vU1UxdnlheVlrb3p0ZWVPQkhENk1YOVJtbXo2c0lZTjJDNTRrT0JPaVVmb0ZIZFlkS1FseVhobHJ4OFF5aXM?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NZjZoMnhESHFRNXB4SEJaOE53SFdzWjRpSmFYZVhjY0JwYl9nbFd4RTJoSzJ3bFhYQkRheEJJQzAxaUthOHpyM0hESy1sWGZJN2E4NGF0dzNQc1dhVE5aUk55VU9wb3BZNXZTWk50QzNBX1E?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0VTQWxxSWdOVG9nU3B2b0dhX192M3VoZTZaUmxaRUQxYXV4OTVMSE9GWTYybHB3dDF5VmV6ZkRxdndrZGlTblExTnpDYVJDSUtkYld3LUdnYzFJRFljc1VqSndhWGJ2RFNXb1c4Y2s1ZGVYU1FKR1gwaWZMQTJINDJLSVM2Tm0zTXVvSDV6ZHRDNEdXMl8ydGNNeWJvbVp0ZWdlX1VyUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM1Uyc2k4UTIzandMWXhfRlRKc1hubXRoYzFXWE9va1dKTWVxU2txckJ6ZW9JNXQ0UTNOMURrNDRUcVRjN1dXd0NjTmhFNUZBQzF0dXdRYlZiSjVMV3FCeDVUSFE1WFNra1pWTUFUMXpfbTY0N2R0NnJtSENCSDExT2FfT0s3cUlMbFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpZTFxNmJ6ZTh3aTkxUHRGLWs0Mlc4M0E3dmJ2WjZmbV9xc2htQlFIWjFsRDViWURBTHVoWnJReEpMc0ZVZjZLQ2M3S2c5ME5FSWxvMmpwOVB4QVozeW9HMFRCWQ?oc=5",
+    "https://www.talkesport.com/news/nintendo-eshop-gifting-release-date-how-it-works/",
+    "https://www.talkesport.com/news/cloud9-deadlock-roster-melee-creeps/",
+    "https://www.talkesport.com/news/cs2/jimpphat-responds-ex-girlfriend-douyin-allegations-statement/",
+    "https://www.talkesport.com/news/cs2/pgl-ulaanbaatar-2027-cs2-mongolia-china-move/",
+    "https://www.talkesport.com/gta-6/gta-7-release-take-two-ceo-zelnick-faster-than-gta-6/",
+    "https://www.talkesport.com/news/gaming/cricket-07-unreal-engine-5-port-dhaiwat-playtest/",
+    "https://www.talkesport.com/gta-6/gta-6-real-cost-india-ps5-xbox/"
   ],
   "title_hashes": [
-    "121d477d9ac74918d960276bb73a0880",
-    "5fa837b49fcfcc284714aac66bba9d08",
-    "1ad7e3a85d3c8b98d2d7445663eba269",
-    "377e133c3a63fc785a8c76fe16f4e680",
-    "587018939cd63007840522b386c73984",
-    "9f7b304c5c1e3ef088ffc4d07b7ed9ff",
-    "dcdb69b6b37a8a0904f5f7b8c2a9bea0",
-    "91ca9a02166dd430b5219b9d43c1bdaa",
-    "98a3e69f8b3b39e6e63bd473e2a971a8",
-    "7c08de7a20cd3a05d072015365bf7d20",
-    "198d1ce8acef34b62c4d36e895b18a6a",
-    "bf5dbb170616471fc9cbb38f500b0add",
-    "aa1d6fbabf4e3052828bcef189c32064",
-    "c5e3287d955bb4316b0e9a16047eaa31",
-    "b0af51dd6523af1e2805c221f6ed9dd7",
-    "a57ed65b4b4797e22067556951e61814",
     "879f5db8448f6e5b88a40d1218dce306",
     "1e1e41038b631e3843a950b3ce359760",
     "b2cc99e0d3f5a65f598fac2c95a0d9e1",
@@ -16001,7 +15985,23 @@
     "4ca785e41fa7c527d798ef087102c984",
     "03342b36b6f32798673fa789899f2ae0",
     "12c2a7003a20e33172a4f16e41d49a2f",
-    "5b5134c7e2379cef0f85f76910209a39"
+    "5b5134c7e2379cef0f85f76910209a39",
+    "587018939cd63007840522b386c73984",
+    "9f7b304c5c1e3ef088ffc4d07b7ed9ff",
+    "dcdb69b6b37a8a0904f5f7b8c2a9bea0",
+    "7ae0209b51684e350ebbefc10c3726f8",
+    "391403af26e7e977dd974aac611c4229",
+    "a658daa46471e505c51613b7b6d8474f",
+    "cc88a8f5997e0801a7e3af185e645734",
+    "dcf587228423917c2281449bb7ee9b1d",
+    "2ed8d8760836c07f684232f4d474e857",
+    "25955db679ce437b444c8b2f1b65f3e9",
+    "7fd86e9e2e5f93161b9385978f26cfab",
+    "f23778a6efac47f26dbedc39fc6c5607",
+    "95f56b96af983dafb51515d0e4ad687a",
+    "9cec6a651e80c1eed54847684560b7cc",
+    "7d8226597f21c650736975dc0be83155",
+    "09b0256c47ade117a80420b13ee3701f"
   ],
   "transfers": {
     "pages": {
@@ -21212,6 +21212,26 @@
     {
       "t": "8217 8230 against aviator brings built business crash expansion freezes game injunction interim its markets order post rival spribe three where wins",
       "ts": 1794311478.5008664
+    },
+    {
+      "t": "after announced been cloud9 competitive creeps deadlock enters entry has hero hybrid into its making melee moba officially roster shooter signing space that unaware valve",
+      "ts": 1794311483.776123
+    },
+    {
+      "t": "16 aurora bombing claims denied denies douyin girlfriend has his jimpphat love post racism said slide statement unverified what",
+      "ts": 1794311487.1128888
+    },
+    {
+      "t": "1 14 1m 2027 26 300k after april bonus china cs2 dates event invites its million mongolia moved moves pgl post qualifiers runs ulaanbaatar vrs",
+      "ts": 1794311490.5068147
+    },
+    {
+      "t": "13 7 8217 8220 about another ceo confirmed content decade different dramatically gta look next over post said says signals strauss take two wait what will won year zelnick",
+      "ts": 1794311493.8612142
+    },
+    {
+      "t": "000 55 6 71 appeared bgmi compare consoles costs emi free getting gta india into play post really storage subscriptions total what",
+      "ts": 1794311497.210817
     }
   ]
 }
