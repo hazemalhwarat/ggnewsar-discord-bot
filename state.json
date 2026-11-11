@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ndklTUlJxUl9YYTJvcTdBa01GRENkWTFmY0lLY0tEWkVoYW0xc1g1dFliSW5ySlZpRTJKdllHN3o5NmtpR1VKam8xaDNKaGxuU1VSVWlLYVFadzZ4VGlYRnZiQmE2RGQ1?oc=5",
-    "https://pley.gg/cs2/pgl-cut-2028-calendar-to-six-events-as-fissure-head-to-georgia/",
-    "https://pley.gg/cs2/nip-all-but-safe-as-the-singapore-major-race-heads-to-bucharest/",
-    "https://pley.gg/cs2/five-events-no-final-falcons-post-major-slump-deepens-as-aurora-pass-them-in-the-vrs/",
-    "https://pley.gg/cs2/prosecutor-seeks-suspended-sentence-for-aleksib-over-undeclared-valve-sticker-income/",
-    "https://pley.gg/valorant/valorant-champions-2026-final-sets-new-2026-viewership-peak/",
-    "https://pley.gg/valorant/loud-become-the-first-two-time-valorant-champions-winners/",
     "https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based-system-publishers-and-devs-can-now-submit-games-for-consideration",
     "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues",
     "https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-to-keep-that-half-holiday-half-work-feeling-of-reboot-develop",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/28436/black-desert-holds-november-is-shakatus-month-event",
     "https://www.invenglobal.com/articles/28435/marvel-rivals-season-11-doomsday-begins-november-13",
     "https://www.invenglobal.com/articles/28434/neowiz-posts-1105-billion-won-in-q3-revenue",
-    "https://www.invenglobal.com/articles/28433/team42-to-unveil-new-title-project-mecha-doge-for-the-first-time-at-g-star"
+    "https://www.invenglobal.com/articles/28433/team42-to-unveil-new-title-project-mecha-doge-for-the-first-time-at-g-star",
+    "https://www.invenglobal.com/articles/28423/euro-truck-simulator-2-releases-iceland-dlc",
+    "https://www.hltv.org/news/45965/molodoy-we-can-see-now-the-problems-we-have-before-the-major",
+    "https://www.hltv.org/news/45964/furia-beat-legacy-in-blast-rivals-opener",
+    "https://www.dexerto.com/counter-strike-2/cs2-pro-aleksib-facing-suspended-prison-sentence-over-alleged-tax-fraud-3419952/",
+    "https://insider-gaming.com/finding-richard-zelda-ocarina-of-time-remake/",
+    "https://www.vlr.gg/788401/sentinels-release-cortezia-and-reduxx",
+    "https://www.vlr.gg/788394/funplus-phoenix-parts-ways-with-head-coach-legija"
   ],
   "title_hashes": [
-    "b367cef3c69eb2882f7cabe8d1fd4a0d",
-    "c4aaac7f9f1744c50c9baa460c23fb72",
-    "dc4ade379de491adad20156c120e7bf4",
-    "7ea045304294e221b8d1738634e4d565",
-    "a17553fa9bd6f0eb6c7afc18c24e38b5",
-    "adc4cdf836255eaeb0faecc09064afa4",
-    "e5edf6e1882dc85ad8f46c746a3f1d62",
     "f9b17fc544dd5b27f5e49df8ea7c252a",
     "ce8c094dc2b1ba2f27c5e04c53a1dc57",
     "2f20cd777006e720c4d4eafcd57c4af3",
@@ -16001,7 +15994,14 @@
     "a13db91acebd679a1c380f7415a28676",
     "c763c7b4e3a6dfeb3d78230e69d49603",
     "7395d6328884050d5a0f2a7d5e2ead93",
-    "298356a76a55263f15129009ab845689"
+    "298356a76a55263f15129009ab845689",
+    "b48427e47fe85f401489ff4b9c1981f8",
+    "e005e1a34e2b7435a30605084434c99d",
+    "8876d76f653c962429f259a8440c9267",
+    "a8f25ce4018138199f894d753e2b9b98",
+    "ee4c01b24c1df9b762888172caf2c5d5",
+    "c598d4ac35b605aee4989a092ad072ab",
+    "05a00e6e963c497c8e6b8ece35c2a581"
   ],
   "transfers": {
     "pages": {
@@ -21204,6 +21204,26 @@
     {
       "t": "19th 2026 bexco booth busan developer doge first game its lineup mecha new opens project revealed star team42 time title unveil which",
       "ts": 1794377359.8483229
+    },
+    {
+      "t": "about act awper before blast can furia good have how major measuring molodoy now problems rivals see stick talks what will work",
+      "ts": 1794377364.8493145
+    },
+    {
+      "t": "beat blast fallen furia hong kong last legacy off opener ride rivals start strong",
+      "ts": 1794377368.3771703
+    },
+    {
+      "t": "different dog has here him his how now ocarina off owner post quest remake return richard run time which zelda",
+      "ts": 1794377371.8414142
+    },
+    {
+      "t": "after city cortezia duo leaves one reduxx release sen sentinels service year",
+      "ts": 1794377375.3783798
+    },
+    {
+      "t": "after coach fpx funplus half head leaving legija parts phoenix team ways year",
+      "ts": 1794377378.9996521
     }
   ]
 }
