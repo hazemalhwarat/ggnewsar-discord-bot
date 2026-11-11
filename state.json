@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45757/vrs-fans-come-here-ft-mischief",
-    "https://www.hltv.org/news/45756/krasnal-enters-free-agency",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43U2xNZU1zaWxBUzB5SU1maXlQTDNyaGZJY0pBMzZOUUVWa3IzbUxWV2pUc2xmOGhOYVJ0NFZpNVYybml0aEpwLW1LQnhCaE50dzdj?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwUTNZNzdHbzh1Z1J6WVdEcnBWUVAzRXllZ2NMWmM3Q1BQVUJNQzJiRDJ1RDdPT1ZtN0RkUVc1MGJzcHgwVi1FTmJETHc2VmhDV2l0RU13ZEgxNlhRMjVySlBoZm1HZm1YdkFDOVlTWE5SdVR6eHc?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTNWbkxfaXRfbkotWlBVNDJXeGFYQTAydDFzaER4bTU4SExJaFJlaDJYZEszdGphTDFrYlN5RVpjX1Blak51TTlkU05Ra1JFdFpnb09JaVU2VTBodEZOM1M0XzRFRHJiUGJ3aDhxSVBSNDdnOTRPYlYxaEwtTnc3NFRnUXMybVlURUpIdjhBQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWRjbnUtUFpFY1lGR3dSMEszWmFKNDJ4V2RzSDFfR21fcGpzQU1TcU9RQTVLYUVnOEkyZWY4dVNTM0JsaS1rZFJyMUJqUEpVUWdlX3RLYlQ2NnpOOUR2dHlHa0FiSWZxMmE5cWRfR1plc2VJRGVRN09UNThPTDFoQ0hQVEdNQVZxU0tjY3U2dW5wMEk3b3dacTA3eFZXdGowNG1xeVlpaF92bTg?oc=5",
     "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lYmZnM205cTBLc0xhT185NWdjbElYdWJGMXVYWGxYZHhiT1NKaUl3NG9yc1VHS1BJcG9lNERBdGdOTExQaFpaTA?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1peFpRZThJN2tKeWx3ek4zaGpQWk4zV1R1QURLNWtOOHg4cWo5c1Mtdjh1SlkzcEZPTUdsZEZIdnVBRUp4ejYzck91eHBGVV9jdnZn?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28466/become-a-football-manager-sega-officially-launches-fm27",
     "https://www.invenglobal.com/articles/28465/wemade-posts-q3-operating-profit-of-264-billion-won-returns-to-profitability",
     "https://www.invenglobal.com/articles/28463/the-legend-of-zelda-ocarina-of-time-sells-52-million-copies-in-first-4-days",
-    "https://www.invenglobal.com/articles/28464/nc-co-ceo-byung-moo-park-revenue-will-exceed-3-trillion-won-in-2027"
+    "https://www.invenglobal.com/articles/28464/nc-co-ceo-byung-moo-park-revenue-will-exceed-3-trillion-won-in-2027",
+    "https://www.invenglobal.com/articles/28462/now-mice-have-dual-sensors-too-pulsar-unveils-p1-supercaliber",
+    "https://www.invenglobal.com/articles/28461/nihon-falcom-records-422-billion-won-in-fy2026-revenue-sets-kai-no-kiseki-final-chapter-for-2027",
+    "https://www.invenglobal.com/articles/28460/who-to-put-on-your-wishlist-first-recommended-nikkes-for-new-and-returning-commanders",
+    "https://www.invenglobal.com/articles/28459/to-the-frontline-of-the-battlefield-how-the-dangyeol-bloodpledge-chooses-its-battles",
+    "https://www.invenglobal.com/articles/28432/three-kingdoms-tactics-unveils-annual-scenario-han-yan-zhang-ming-on-nov-14"
   ],
   "title_hashes": [
-    "db991575d392881a4ec069603600a7ea",
-    "d3bbe47a743bea4cb91924dbde6932ba",
-    "cd8425006e24acbb6911d9d40a0a25d1",
-    "eeb75f760226adbd9d06b233067f19c4",
-    "5d2ab249a76b682338527e3213460101",
     "359b064e4fd5ef0e8d8c5564eb9d615d",
     "288fb2c14d672e789ee7a0a0069df8bd",
     "cd02a1c3382604848593ad3666000b2a",
@@ -16001,7 +15996,12 @@
     "e3d4aadca569b17f354816b7804739a4",
     "c8d911a274cb0ed45ab15289a375e49e",
     "7856b183fce2e8b6ee61269311607ba0",
-    "609d0482b88e8b0f0a48e22bd2e1c07b"
+    "609d0482b88e8b0f0a48e22bd2e1c07b",
+    "6c8345823705f8ada8b4b319d7bc5f22",
+    "541e2687aeaa9cf9c28381e3699c7754",
+    "208d2f28561d373c14686a0a78b50776",
+    "bf2f5fedc4cc8b16f50fc1c39e52d960",
+    "f824624d266c3847d4bd5c16cc0558ff"
   ],
   "transfers": {
     "pages": {
@@ -20968,6 +20968,26 @@
     {
       "t": "00attendees 11 16 2026 2027 3 anel byung casual cemanagenda center ceo cfo date earnings exceed futur head hong june mobile moo november park q3 results revenue time trillion wed will won",
       "ts": 1794406479.4091651
+    },
+    {
+      "t": "any brand create desired dual gaming gear has have its mice mouse new now p1 position pulsar sensor sensors supercaliber too unveiled unveils user uses virtual which",
+      "ts": 1794406484.4323292
+    },
+    {
+      "t": "11th 2 2025 2026 2027 42 announced billion chapter disclosed ending falcom final financial fiscal full fy2026 its kai kiseki nihon october records release results revenue september sets that today will won year",
+      "ts": 1794406488.0414202
+    },
+    {
+      "t": "2 5 candidates commanders decide first focusing key manufacturer new nikkes per put recommendations recommended returning secondary strengths strictly struggling summarized top who wishlist your",
+      "ts": 1794406491.5556972
+    },
+    {
+      "t": "astair battlefield battles bloodpledge chooses combat continuously dangyeol force frontline gillian how its keeps ken move now one operating rauhel seeking small yet",
+      "ts": 1794406495.1343174
+    },
+    {
+      "t": "0 11 14 3 announced annual cross expedition games han kingdoms ming mode new nov qookka region release scenario tactics that three unveils ver will yan zhang",
+      "ts": 1794406498.655241
     }
   ]
 }
