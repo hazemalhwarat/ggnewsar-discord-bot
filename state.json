@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZdEFCb1djcmVPNDhLUHkxZmw4NmZyNkg0YTZJVEJFckVnVDVJQkw5aHpETkh3LW5BV2lERzBycThHSEVyYjFHeVRJVGdabzJZRkM5emRoRWg0T1hxSnczUGxQZkPSAWpBVV95cUxPR1ZUMmNLVUxLMkZfeGpwYTR3TThFRzNRcW56WE9ZWmVkc0dnbFBQdG9PZ1c2N0E3U3pDb1Y1bGVnVWdJQVNudlIwZmNHQ09fck5mQmJQRnlLbHRxUXRuX1NhQkxqMVY1WG9B?oc=5",
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT09CTTdVWDF1U2UzczZRbFcxdFMwcnlMTVc4RkF4S3BfeW9xLXdINDRWUkYtZ2RsWk44WFV1Mkc0Yml3ekZZZlJOUFZHTnRkdnJfNWhUZDY1Q2JsMWNfR3VZMVBlQmllMGFGM2Vib0xzbGJaN1BLMHhJMng5TUVGbWxqbnJtTkltcWZDcjExLTBxY1ZqTG04ZXR3YWxibGVybVN2YWwzRmNlWTVKRHNHODMtSVhfUmlER09TTTl1RTliX1pZNlA0TzJvb09QcWg4UHBDRi0wWFlyendCb0diR1JQMA?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zaFVqdXVQS0MyN014V3BIMmoxRUQ2SFRCZ3ZIUWs0NmQ3T1hyR21qOFdzd3I1VEdmZnNQOVkyVVVNaGp2d3NMRGVQV1p3Ui1nU3dNYXZoOGJxblZtd0V1ZXZsMks4MXp2b2ZfNkpZVnI?oc=5",
-    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRFlGd2xfSzhrUEF4N0h0TzJOUHFJbTJLRHRYY2hiZ3hDVlpYbkpkNUdNZGtteElqWmdqZ0t0cWZTaU5VNzVJTEdxR1Z3OE5yZEVxV2R5ZTllNTJ2ZU9YQjdWc08wMGhHVmYtbi02TXBoYUZ6V05zZE5ldzZqa2FDZmtOUGtEcFRWWWFnV3JmQzNQdFhsak1uRWpWMHR5dmViOEZYZHA5VGpUVWtUTXVsb3pLdl95M2l4UGZ0SG1zbHphUWRscG5BelFWSnU0YWY1UXNpd2lfdjctVkJTYk1hNlV1OXY5ZjBmZjlF?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVzlNMzhCa2JZTXNBSGxqUm5zdEhrSmpXVXhyNnl5dk1BM2dEZUF2QzFqZkJPNDVpSWFhWVpTRWN2ZU1PamtWUk1hY0hlUWhOOV9iSGdTTlA0UU9GTko5R2VkeF92YTJmc01uRHVMWXRSS1dib2c1MGFFbmtLT0RkaWFWZ29jT3lGZmcyMU1mOTlSZw?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUThxVTBrWkhYNk84blFDVFFGeEFjekZ3eWJCQjc1MWFMek94OTExTVBlckNXUTFrUDBQcWJBMHZta1hTbF8tTHhjM2tvSGNONXZBRkU2WkN1TlF4MWhfdVdiczB5ZzY4SzA5N0tYcFJwWTdJa1FLbWZld24yZDVtY2x5dDI?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmk4SEt5cncyaDFRNGZHeDJIXzZfVmpXOHVDZUdleFZnWlQ4eU9jWEQ0ajhDMTNWQ0ZMcW9ONTNRd1ZGdmQwRFRjNjE4Ny1TQndPM2NxTWZxTHhUNVUtdEZWRXR3aTQtTzg2VWtXVFFmV0NTM19xZXRndUdzNXptX0NRUy16TFdyeHJCbEV3ZHhhYkkxaEE?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3B4anAxVGpBWXVsMURlVU1BZ0NXTVBTWHJ6TXFWamZ2di16cGlzREVYX0NYRDNyVHp4T0l4dzJKV0FpeGhIU2Q5cXRiNTFpbldWSVltQi1XZkZkdTZlQU1vZUt2UzVkazFxZjNfd0hhektfMGZYQUlBNDNQWURhYXoxWkxDV3ZXbEFiUVlQcHI1OGxickJ0YXJwQ2RFZjdVa3Bv?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcXRsbDlXU25rbldRd2tPcF9qSk5hQzVjUFdlaTBmZHdiRDh5N1BtZGVsc0lnbzQ2MWpsMEJDQlVRQnNrbUNmYWxaWkpMTG9uakRVRDE3V3VjYUxjbFRMVFEtQTNfODNRRzVhRW0zNVZZVFZyQ1Y0ZlBpSC15Z1J0U1Fsa1ptUURMWkdDRVJNREF6dw?oc=5",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/elder-scrolls-sentinel-no-news-today-anniversary/",
     "https://insider-gaming.com/all-gta-6-radio-stations-songs-full-soundtrack/",
     "https://insider-gaming.com/how-to-play-gta-6-on-xbox-one/",
-    "https://insider-gaming.com/furia-vitality-spirit-and-g2-advance-blast-rivals-hong-kong-2026/"
+    "https://insider-gaming.com/furia-vitality-spirit-and-g2-advance-blast-rivals-hong-kong-2026/",
+    "https://insider-gaming.com/the-legend-of-zelda-majoras-mask-remake-not-in-development-its-claimed/",
+    "https://insider-gaming.com/gta-6-physical-edition-unboxing-videos-show-off-poster-and-discless-case/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-november-11-1249/",
+    "https://insider-gaming.com/pgl-singapore-major-2026-opening-matchups/",
+    "https://insider-gaming.com/genshin-impact-stygian-onslaught-7-2-november/",
+    "https://insider-gaming.com/blast-r6-major-osaka-playoff-bracket/"
   ],
   "title_hashes": [
-    "650e4a6fbd68e4ada7c10851be8a806a",
-    "ac17466141971731c184f23c4a39dc63",
-    "6a79f0f2b00d0503da809e27e4d65692",
-    "8cf3a7eaeae3a91c59646b0ec857083f",
-    "aa6704950171ca00575e741703647a54",
-    "1aeb85f2565233d261493608f65ab1e7",
     "22985e3ea44c1c2c22203fcda42a7d0a",
     "e1ab2d308628f8f405fed45b3288e7b6",
     "ee323842d5eceacb6de0e026938d5022",
@@ -16001,7 +15995,13 @@
     "9b5c1ea36b389f27ca7da29d88dbe591",
     "6773f44d9767a0188020f0a6b8cb7ba5",
     "53c6f3f7aa31be213501d63125ade233",
-    "85619cfee670d9d232f9222adbe6c4fc"
+    "85619cfee670d9d232f9222adbe6c4fc",
+    "21cd1c177d5481d7c6dc8a1f7fb43f75",
+    "dc6ee96342a0c5f403c29758bee01f99",
+    "64ae32011f72bed7153dbd4a61516907",
+    "2c10de7489731187b75a51d9c7de6906",
+    "fd8cb22ddad6f9f568ffcb7f3bb5db1b",
+    "ad3c96e5dddc087402097c61b84901d4"
   ],
   "transfers": {
     "pages": {
@@ -21068,6 +21068,26 @@
     {
       "t": "0 13 2026 advance after blast day event four furia g2 get hong kong opening playoffs post rivals saw shockingly six spirit spots vitality which",
       "ts": 1794406578.635206
+    },
+    {
+      "t": "about being case claimed claims development insider legend majora mask not post read remake stories that this you zelda",
+      "ts": 1794406583.904792
+    },
+    {
+      "t": "6 cas case check digital discless edition getting gta like looks most off out people physical post poster show unboxing version videos what",
+      "ts": 1794406587.727515
+    },
+    {
+      "t": "1 16 2026 been face have learning liquid major matchup matchups opening opponents pgl post released revealed s1mple singapore stage teams their",
+      "ts": 1794406591.2213557
+    },
+    {
+      "t": "2 7 best can complete comprehensive cycle genshin guide here how impact more november onslaught post strategy stygian teams you",
+      "ts": 1794406595.165542
+    },
+    {
+      "t": "after appeared been blast bracket conclusion dramatic first gaming has insider major osaka playoff post r6 set stage swiss",
+      "ts": 1794406598.780287
     }
   ]
 }
