@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb1VrYkdvSHRXUDZ6UUM4MzZGa3drbF92bHBqN29HamI0UUJPT3dWYXl1VkVWQWxCMUVxcEE0NmdUdWdkTGNLZHBxLTdHSnNKNFRFMVZWRFAzUzFrLUFKeU9TNnhtS1pWNDhnLTlaT2VoVFdRTTFiY3RGSV9Xd3RpUk9NTXk?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iZWtMWGlLWWpSQ1YwOVkxN1k1UVpKa1laMklKSlQyZ1B0Wk56VTVLaGF2dUNNUzh6N29RY1BLXzJmd0JiNldjNG1NRG1NRGNHa210YktLalZwZ3FUd1BzemxxeG15OGdSMDlzM0Npdw?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE45aDd6RC1tZ2E0UzdzVFNIeTFtb1VURkhIaTdaSFBBd2hWczF2STJPUVJfa1I2ZE5ZRDZzNzEzU1BkVzVCWXlick1EN3FMbV9fbHR0aHI2cGpkWHI1UXpYMHFfdG8teWFDR0JKR3AxZm1IcUl1RW1hdThzNNIBgAFBVV95cUxNZ1pXV3Ntc0doaGgxSmRzOXc1bGsxZHVFT1hXWVlySjR6OW5Vc0JOajNFS2ptY3VrRFV6bkpkSkhuQXBpNVRlWkp2dXQ5NGxkRVNhU2JVaktVeEFpdkRnUERncmFrNDZDN0s2THhiMEIwWDVKQUlGbXNUR25qWEpfYg?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GeDhKOS1KellJa3hTd29pN2pTQlBhclhLTTI2QWxucEt3WklPYTRMc2U5TlNadkRNeHdSc0NZa0pkLS1vajNvS1kycGs4a1dyWFdfeFFERnZkOFpmTmh6Y0hqU05fMlM1OVBBeG5ySjNzNFRmbjBDdg?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZTNhSDVzM01mRW5vZG82eU5aaHJxTnVXQnZJbmdHa1lfbG1YdFI2WFpiRldtWFd1NG9tTUlKdkUxclhmdjRldGVfN1BWSVd3RFNuX1ZKZlkyZklWdGlpbWxrdkJLcmVfWTNSb0lORmNxOExPYTNpOGhhT2xwRXljWEwwci1RUkJYcWRwSnA2YmctZjZ1UzJhSjJR?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnFLYWFxazFVM200eU5Kb0xhNmdDTko2T2RCYkQybjFWM1FQTG5jaEFrbFZ6eWxaYzAwVFAwZlpzYXIzeHJkeHBIejVWdUJZMTUtRjg1cHBuOThuc0ZDUVlMcGdnQnNSWmJEQzJvbnZrb19nS1l3Vm9udFZFMlN2WkgyRFZJSEV6NFU1cjJZMmZwSzBpQTJMUmI0cHpITjlhaTBYcDFZZG9yR09hd2JR?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFSldMSGNLZGJ4MUNmNEtXRTlSRU9ONTlVWnpSaHMydDlyczZKcFV6QXJSMi1fVlc4b1ZRd2lpWUo2Q1VfcllTY0pUbXFoWDVpdmowYTZSM3JXd0FacW12M0hUUlh3c0Rl?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QT2FzaVd5bkloSTdHNHJZZG1ubTFFWWpTSHVNSEpCQi16d0d0VlJXLUxmdFhyU3JtTldFY250TTh1dlRPWU54ckNmbkZscHB1ZEdXYjBxOXk5SmZrb1N2UEstQUtCbTdpZmJfcXNZbU8zWERGTWlCWmRyNloyVjA?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/45966/vitality-sweep-falcons-to-make-rivals-playoffs-on-apexs-return",
     "https://www.esports.net/news/gaming/cloud9-completes-2027-valorant-rebuild-and-skips-open-qualifiers-with-riot-invite/",
     "https://esports-news.co.uk/2026/11/11/magic-end-losing-run-with-2-0-win-over-pure-in-pgl-cluj-napoca-qualifier/",
-    "https://www.nerfplz.com/2026/11/champions-who-melt-tanks-in-lol-10.html"
+    "https://www.nerfplz.com/2026/11/champions-who-melt-tanks-in-lol-10.html",
+    "https://www.nerfplz.com/2026/11/weird-pick-176-jungle-darius.html",
+    "https://gameriv.com/apex-legends-leak-reveals-major-alter-changes-coming-in-season-31-split-2/",
+    "https://www.vlr.gg/788583/anaks-joins-titan-esports-club-following-blg-stint",
+    "https://www.vlr.gg/788578/smoggy-turns-the-page-on-edg-joins-bilibili-gaming",
+    "https://theloadout.com/gta-6-pre-orders-near-10-million-ps5-crushing-xbox"
   ],
   "title_hashes": [
-    "3ca4e5e2a0f7092e361bf192a3531820",
-    "f6a0291df30c7aa4690fdb69778a4749",
-    "502e377ae93ac112ae5ed176c8e2f386",
-    "3713ee5ea0f7edbcf2a6276ef93f3c85",
-    "ea9ded40d230c1c1a448eec73b2267fa",
     "bfca2c505f64abf593eaaf275d84cbc1",
     "5d248238218341355f8a3c152c530b9c",
     "9be1a1dcb93ff1712f26fba87d3a001b",
@@ -16001,7 +15996,12 @@
     "f5c6183c9de718945cac51bcd4f4fe5b",
     "98d49113de2271e2f55dc4367b89e84a",
     "7a19c0b13af3a34ce19adfdb18edc0e2",
-    "06ac93d1439f43a22194ab9c064fbbdb"
+    "06ac93d1439f43a22194ab9c064fbbdb",
+    "06f7ff502c448d10efd26474bca6dcd8",
+    "8eaacf0fe27b0e1ed43693e3d699adff",
+    "d224e3f186764a2fd0ff78f2455e5808",
+    "329579b69151e290743a8cba1c8b1bcb",
+    "72d6c975ef8c9499bc3111387143f638"
   ],
   "transfers": {
     "pages": {
@@ -21128,6 +21128,26 @@
     {
       "t": "10 about bar bars big bigger bought champions four full hea health him ignore lol melt page picks resistances seconds tanks target ten that thousand treat two who",
       "ts": 1794406638.1129282
+    },
+    {
+      "t": "176 anyway behind champions darius feared fight game get going jungle laner least most never now one pick standing start starts that them top weird your",
+      "ts": 1794406643.528091
+    },
+    {
+      "t": "2 31 acco alter apex both changes coming completely could entertainment getting her leak legend legends level major new plans replace respawn reveals season some split suggesting that upgrades",
+      "ts": 1794406647.2738624
+    },
+    {
+      "t": "anaks blg china club esports following joins stint stop third titan",
+      "ts": 1794406650.8695335
+    },
+    {
+      "t": "adds bilibili edg era gaming joins new page smoggy turns usher",
+      "ts": 1794406654.3928647
+    },
+    {
+      "t": "10 124 19 6 according ahead auto close crushing four grand gta has holds laun million near november orders other pre ps5 quarter sensor series taken theft them three tower xbox",
+      "ts": 1794406658.1176903
     }
   ]
 }
