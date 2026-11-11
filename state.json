@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5neDB3NVdrUlNKWG1wYnpYSlVNR0Y5OHNFdnp2TE52SUtJYXcwU1RqTGhyRHZpR3FnZ3ZsUThVUGI0ZkxjTnZ5YnJjV1BTbmVOSzQ1b2hGN1dxWHNwOHprRGcyTGRvM0lfRFBWMnloYw?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2gxRmpSdmdlMl92amJYTUhiSEwzYTVkSEk5UUtXYnVPamItLXMxdEpjU0daX2QybnRDN2VIZkg5RUZmR2RPTGNsM3VFTTlaWVQzcUNNbW8tQVNKMnJvblZvWHlZck92UzlTck5faUQ5NGlHemExUnhsdjk2bF9fdWl1ZWdrUmR3YjcwS3VRNkpaRVFpaU03RHpNTWFidUdiWVdoR0psZUNhVFJLeWpvcWlJcmw0dGt2eE8zMlBlQjJNdw?oc=5",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa1ZOamNfNTlKQWVZVXpzeG45Umh0WDhCX0ZKQy16bHA4WldHZTJjQXpTdDJzdURSakpmajREdnllSGM4OERkLVVPekpaMDVnSjJlbUJsZmlmeXZTLWdvRjdaTEZkU0pDWDZKZGlGVVhNanQ5RWREQzVvZ2N1bWVPQWJ6NURiUEQtY3RCdllNa3plN1hEMk03bm5MNDFuNXJEMEhmb25fV29GeTFrbWE1eUdzSzl3MmY4Q3JIejdlUUg2bjBFWEJqNUVTLXlpYUtLZ3c?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUWUF0ekR6MGtUa2N6NWZ3c2pPVGNuOFd2TXN1endKYlVNVkV4d04wb0ljR1BzV3k4clRTQWpRRzVGRElkS0xPbjdIMnVQWmsxbmpfSHljM3RZa3NvcVBwc2RMbTlOdFFXby00WnRR?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVS1sQTFLc0tPR1ZwMmc5RmZlcU8zWEd4WU95clNLX05IVnJ6Z1MzUFZiSVhXeGJmOHExb0pwOXB1QTBYYVktTVhDVWZUeGRHSWlJR3RhRmIwLTdQLW5UbDlNTVpqeVdRdHNvRUk0YS1RT1NLR3hCMVl4QjNGeGNPQlZjQ3BxZjI0RDhSRElHQWJ6SGxLNWx0YmRjbDBLYjJSUG9rbGZhcDNKZw?oc=5",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcmRzSUNxUHRtVzhKWUJGVjI4d2dJQklRRE53Ny1vcFNuMUJFV09ta1Q2Y2o0RFJmeWJ3eS1heXdCSDJVSm5FY2xNZHQxSno0UFV2YXV6MjFKZWh0aHBvWnJYcWJKYXBLRkwxdmJUSjV2LWpWS0pzRDk2dDVZVVRySWF5QnZ4NDNNNVNQQmJFMzRyai13RWs0MFRXU2t1NFc2V1dqYlM4bkpta01Eb00zSVRrcjdBZ2hka3pyS25JdXZjSndXNEJ6RGlOQTgtTnp3QUpz?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzRHQW9SQ3FoNWZrSkdKRXRsQWQ5V1BDX0s0aW0tU3g0Ynl5NGtVR1JrVW5QSXJ0Ql9fWnZQVG1qZHpuZHN0M2N2Z1dOQnVMYVYwUkYwSzBBd3lIeFV4LVY4S0xGR18tTWFpLVVwNmNQSjF4enRqTXkxZmluUDhqOWI1RnpaOHdiOExISF8yWmVxSU5DZVVULUhvT0FqTGlGMHUxWVIwWlkzOWRqOFU5QkpWeF80Y0U5SmpBQWlYLXhaVFZ4dkV1azhBdjRaUmFNdFF1QmF3?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNak9LRU1qQ0pTdHVWcmdzdS1BeVYtT2F2eHJaYWw2b2VKYTlnYlZ6ZUNyTkx6NFJiZlBTRnoxQTdWT3pLX09uQ01kOFB2SmI3QTUwbHpmSG5GR3oxTi1CODBMTkpyTXFEY0dmODg2X2REN1NCNnZKU0NQQ1hhS0xSa0lnLVhoZC1RQTZldVMzdFhXM1lwOGx2MkFKTTNhcXRSa2pYTnlETmFWZ2ktSmpmdHpNeU16aFlDYmE5Ni1LekhYd0VGY0N6UFhLbUE?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFdkcFNNeXE4XzdKc2d3cjVueF84WDdQVzRXSzJKMnZqOFBsVkhHTmY1ZXdTSlJPT055Rll4Wk5qYXpjYVUzSTQ4eTIwU1hzYmkzWkFRei0xZTI4elpNbU50a2Q4VXlnVl9NdjBmNW0xazNEbkpTLVljeVpDcmh5SGtqYTZaUnhFX3FxcWI5bko5OXcwdzNKMEZUUzRZazBCTFFiZDk0OHJtTF9vMFFJOXpQS3NzS25kczJtaFdaS004bmw0YVVv?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSWlFNGRzazFYNDRaNGpCdUplLVVzUUR0cTI4MXZUN092VnU4aUpkb3dzY3VjdmFrd1BSSkF0QlMyVGp0QXI4bUZYbGd6Z3VLVnpoRjE3TDdGNW5CUkpEWnVUb2pWUk1wMHRkMGp1RkVGX2pjLWhLZklhTnVoM0ZHLVVoMnNXM0kwYVpsaw?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVG8yZGQ3ZzJwZVJ3ckJaZXlRdm55Z3VlR3M1amFBdlhQRnJlR2puRVF5TGhYbEtoZnZ4RlNuWC1Yclg1WmZtdUxMYVBycXFtWDAtT2hwOG53elFRVG00WkN3RFZZSzVKSmotZngwbGJueTdCN3NrT2l2UkFsN1lfaFRlbnFnM3hyNVNUM0dtM3k4MW0zQ0dkMA?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaGh5Q01JVF9GOGpNQmpybWxReWtFNWpHSU9mTldhZWwxekdFenhXbzhBczFVdmhzYnkwRkxHTlJXc0xMSjMtMkVDNzh0cDFOMjZXTW9Ga2FnVjFKbGZabHRIdy1pc0hpSW5FbjZWWGJXNmItMV85TUk2TldjcVlNZTlxTGV6Qk41NlE?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVZaMGphT3B2cUhhU0tpQzBmVGRhMk9iT1cxSEg0eXdQSkVJRWpidm1qNUpWQ3JISmFaa0NYVDQ4c3J2RGtVZmJzTHZfMTNHT2NDYVlwMklEeUNkT2R6YjVaZ1pQZi16S3MzRzl3NDdGdG5rRlF5UldoaC1iWWt0bTZMT3dmYkFxUVE?oc=5",
@@ -7999,17 +7989,19 @@
     "https://gameriv.com/amazon-games-officially-hands-throne-and-liberty-back-to-nc/",
     "https://gameriv.com/marvel-rivals-season-11-roadmap/",
     "https://gameriv.com/gta-6-already-beats-gta-5s-1-billion-sales-milestone-report-claims/",
-    "https://insider-gaming.com/rockstar-gta-outside-america/"
+    "https://insider-gaming.com/rockstar-gta-outside-america/",
+    "https://insider-gaming.com/rockstar-games-unreal-gta-6-clip-social-media-first-person/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-november-12-1250/",
+    "https://insider-gaming.com/resident-evil-requiem-wins-2026-golden-joystick/",
+    "https://insider-gaming.com/former-tekken-director-feels-xbox-series-s-is-extra-work-for-a-slightly-weaker-child/",
+    "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/",
+    "https://insider-gaming.com/witcher-3-geralt-polish-voice-ai/",
+    "https://insider-gaming.com/lol-patch-26-23-preview-mel-buffed/",
+    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UVkloeUFYMFBqZ2pzaWJpNVFxYVpkNEUyc3RjWmRlSFpwT01wQmpVbzBleHpCSnV0VjhhM1FoVVpEWTVDRzBv?oc=5",
+    "https://www.hotspawn.com/valorant/news/team-vitality-jawgemo-scuttt",
+    "https://www.hotspawn.com/fortnite/news/kasane-teto-fortnite-music-pass"
   ],
   "title_hashes": [
-    "cba1a05342d1b4320aa2ae569d01d697",
-    "f7f4ad29783a3e51c830b7a4e76f0100",
-    "5358647e3d5a99e25fd877a6eb2a3243",
-    "8e10a6191fe4706856af720f5961d6c1",
-    "086ae91d51a47ce6cd99449314abbdd9",
-    "807970d9159b4b877c391c5d6c538e15",
-    "bd405698f459a3fc13899b290c610f01",
-    "979bf9b1ce9ac4ccdbba2364db3497f6",
     "acf30bda3a4cca6bcfe3424476c4c1d2",
     "10a46f3e8d649012c0e94ecba54bd605",
     "1cde8d125618781c00e1de055a8b4021",
@@ -16001,7 +15993,15 @@
     "c671138b2c00f729aa3c9dc5ddd95502",
     "a97e5a00d49ed9ef5a6e0390b8a32d0f",
     "90870b981e4a33cc43e5133666cb2dd7",
-    "65116ea3610ff6231b507f8143a391ea"
+    "65116ea3610ff6231b507f8143a391ea",
+    "dd0ada6d5c2fdfeb4e7802907d636e64",
+    "1eb3dc9f646fc648c31eedbdd69072f0",
+    "574ace0a2e33fe12b9abb9d72c0c87ba",
+    "82d59d9dc086c732a162db84485351ae",
+    "a5d6b11b37a1a3ca6e7bd95930a3d5c0",
+    "dea01c45eeee1145692806a7a1909974",
+    "31c2dead10309b07bdc670c726865cb9",
+    "6016f416c7a173d88db7c32bf4c552a4"
   ],
   "transfers": {
     "pages": {
@@ -21192,6 +21192,26 @@
     {
       "t": "america appeared but explore future games gta has leaves more nelson open outside possibility post returning rob rockstar says set",
       "ts": 1794432433.320015
+    },
+    {
+      "t": "6 appear beautiful clip first games gta has instagram person perspective post posted rockstar sequence showcases that unreal uploaded",
+      "ts": 1794432438.4838274
+    },
+    {
+      "t": "17 2026 awards evil game golden joyst joystick post public requiem resident ultimate vote wins year",
+      "ts": 1794432442.028826
+    },
+    {
+      "t": "8220 any back child didn director extra feelings feels former front harada his hold katsuhiro official post punches senior series sharing slightly tekken weaker when work xbox",
+      "ts": 1794432445.5265548
+    },
+    {
+      "t": "8220 8221 alexander american champions coach derke emea esports fill former g2 has head jawgemo joined joins left mor player promoted runner scuttt side spot team valorant vct vitality who",
+      "ts": 1794432449.1734333
+    },
+    {
+      "t": "announced coming epic everything fortnite getting has improvised items its just kasane little mini music new one out own pas pass season teto that this turns week",
+      "ts": 1794432452.7711692
     }
   ]
 }
