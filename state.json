@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmakZ1bHBjUTdKY0VhLUNMZmpOQ0pRbV9IYlZvT3BSQjdHa0FQODdTLXNzT05vSzFaLUIzQ3lUWTlvZF9Na3RPQ0trVWxEc0hJWGpMQWlqR01OZHQtcjR2aW44SU9LQmJjYnZwNFhhZTVCLWs?oc=5",
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUEN1Qk83elZGZElOcWJMUGx0UjBJT2NMZGdBbThBVmdRSGE0S3ZldVM4WHY1bjZqcDQ1c0RkVEhhcWg0cmo1eHFYeUx2WVZVdmFEYjhMR19TeDQxSGlxSU1vcFgwaklMMF9DTl92eS1Pa0hGTDB1THhnWm13aUVXYkNFRGpVdERZUGRtUlZRMFV1WVNaYm10QnJwQkdkWmUyYXBZakNVREI3cDJQVmpRS0dzV2FtQ3JwSndySEdybFQxVGFkVHl4TWszYzRMTllhWjJ1bXJENWZVWHEzMVRF0gHkAUFVX3lxTE5FcHBzVFVEUFJKbGttSzR0bWYzOEk1RERQY1dNS1pOUFFvdUZrRldwaF9lMlltYUR6MXBvSGxPOGl6cmFZR0dJOGpyNG9RTjYza3RBTXVlcm1zUHFPY2NXQWJlOXZsQUFlc09DYWk2cXNieWZTUEZnMFc0VWFDZ0pET2pjbVZnbVNlZy01aTRRNXNGb3lMNFdkREhwYlFYNnpZTmhDNFlzSmNSbnQ0eGFCVlBoRnRsZjJZNTZDcmc1aF9hbmJmZG5TRlZxbzMtZkM5UWJuNzBBUWJXTkN4c1ktdlJCUA?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa1lrcXZhZm5zZXVNZjJzZWNUS0FESHp3b0VYb3NibmJfLVZaU29VeUMxbGZpQVNxbXRZbndyVGJPbVdERzVKemE3V3lpUV9xYTdZVlpoTmZ0VUctN2s2YmU4VmRzYktiOE54aHhpR05LcFU4NXZRQ1V2UmZjZ2JmMW9QekJ5NHFQN3dmZ0dDeTV3eldscmVLQVJrd3QwNWth?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE11S04zRGZjTlIyeFJSdXNvTmRGQTRFRlV3WkFMbS1JbHJOcXdRMF9Za2E2bjZSVWd4b0RaVF9yY3JINVIyQXpZcnd2UHNYRjRQMXZLOHJMNldnT3RNQzdEZlRiNEE2dXdQTE5QMDhmSTFQanRKS0E5TjB2SzY?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JbzVxX1RobS1sUVdybFVKSUVSXzcxRDNxbGx4Y3pELVZmLWpCVGRVelJvb3RPTHhWSjBsZGhVdkdwRmdVaTBiZ1Y4aVpib0hxdWF2YmlKblZzQkpBb3NhNnZ4NHJncl9sRE82ckpHOHlQTkRS?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEpTQ1BBVlp3cm1udlRuSW5uZkdzMmxVTk9FMHhyVDRzdHpZa0NBTTdhZXIyY2Z1OXh5WnBWUkZIT05QSThHNmhyVmxDMWVQX3FaV3djTHBPMEI4ZzNZcFZwU3NvWHNqRHMySDdaNUVmeXN2RnFaeV82SEprNV9SbU5MWjJCeFpUZTVaZUIyd1llT25oWERXenNsbjdNOEx4QnpIcDA3MHdDcFVaRDRDOElGYVRtU080?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlh2OEEybWppc2xxZHRSMUNaSFJUNUFaeTVyT1puTVpxU1Q2UUhLdTdMVTl6NHR5bXJiaW1TcVAzcm53eDh5TnAwVDdCVjNWWkRQY1l0NUtTTXpjR0tXU2NkdG9ZRUI5eWNwWHl1SXlFc1JjbjJfU2UzWkZCNWxzZ0h6Z210c0c2eHdEMjZiWF9jdXN2Ry1lcVlsazEzN2JlQUVyR2gzYm1fTEFmLTdWMENFYjF4TmE2T2h0LTJWRWV6RC01aDJubXRPbXd5WmM?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3R6Vzh3RklOa0h5cXVqY1BYcURsZmtPczNDODd3d1NYTUxBSnpsTV9hSFphSkFCbVhrWDROQ1lGNElLcGEtOGdPR0lFR3R1RUw1N19Va3RnRnJzcklhZzUwTWlrVUlFV3NHc21yaGZKTFFNaGJCNXpiWDloWDgyXy00czlEbHhHV000aElJb2t4cGdnOVdqODJQbFhBMnpDMjA5S3hR?oc=5",
@@ -7999,14 +7994,14 @@
     "https://pley.gg/cs2/spirit-recover-from-a-13-0-on-nuke-to-beat-fut-2-1/",
     "https://pley.gg/valorant/crashies-on-t1-return-back-where-it-all-started/",
     "https://pley.gg/cs2/fluxo-pause-their-cs-team-and-point-to-valves-new-major-model/",
-    "https://pley.gg/cs2/vitality-outgun-falcons-2-0-on-apexs-first-day-back/"
+    "https://pley.gg/cs2/vitality-outgun-falcons-2-0-on-apexs-first-day-back/",
+    "https://www.invenglobal.com/articles/28468/how-10-lines-of-ai-debugging-code-led-to-an-indie-game-awards-boycott",
+    "https://esportsinsider.com/2026/11/aurora-gaming-overturn-f9-eicars-opening-map-to-win-the-europe-qualifier-grand-final",
+    "https://estnn.com/league-of-legends-worlds-winners-list/",
+    "https://www.vlr.gg/788702/the-dawg-joins-the-hive-team-vitality-signs-jawgemo",
+    "https://www.vlr.gg/788631/team-vitality-finalizes-its-2027-coaching-staff"
   ],
   "title_hashes": [
-    "12f500390f8855fb067277af62ec022e",
-    "5cad43e9676f08d627a8a3cc68f9798a",
-    "a43c233be18e67cdfcbf7165a15db384",
-    "e1e0dfac5d4d90deb2d596174f4d4f39",
-    "daa29407dcc2f31ca6d4351c1ad9efcf",
     "a0d64fb89768dbfc0c7cf071e55e6af9",
     "5857e57e5a6bce048a5ca07fedd1a75a",
     "9fb7a024c8dcaab0968b254830fd15c7",
@@ -16001,7 +15996,12 @@
     "db62e98d562fb05507ccfee8bc4ddf65",
     "3c514578f14e85112616e95502301fe4",
     "89814023ba0e75d166374b5523fee045",
-    "9316b490c5a349d6b8e22c7cbbcf43b7"
+    "9316b490c5a349d6b8e22c7cbbcf43b7",
+    "0b6f659ca2b073452b6985d4d84068a7",
+    "7b3b6a8cb69e9520d30b08ff0f3baa05",
+    "bc60a8ebb603442eb6eea03c815c774c",
+    "065b8cf891082c69ba7b1d0139dcced1",
+    "4ad60872c4b04bd1bfb8ec8dc2e08a38"
   ],
   "transfers": {
     "pages": {
@@ -20710,118 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "2023 after been before cancelled cancels competitive developing entertainment fairgame had has haven heist interactive its may mixed playstation playtest ps5 results reveal shooter since sony studios that",
-      "ts": 1794355401.5248256
-    },
-    {
-      "t": "10th ability app cloud computers december ending entertainment games interactive members playstation plus premium retire retiring sony stream streaming their will",
-      "ts": 1794355405.199339
-    },
-    {
-      "t": "2 6 6v6 back blizzard bringing brings classic competitive entertainment format four launches mini overwatch play queue ranked role run season team test week weeks when will",
-      "ts": 1794355408.6462047
-    },
-    {
-      "t": "30 30fps 5 6 all auto available confirmed confirms consoles every exclusive frames games grand gta has only per platform playstation pro ps5 ray rockstar second shadows target targets that theft traced will",
-      "ts": 1794355412.4616957
-    },
-    {
-      "t": "10 6 according announces asha ceo cloud company developer entered games gta has interactive new parent partnership rockstar sharma starting strategic take two xbox year",
-      "ts": 1794355415.9229388
-    },
-    {
-      "t": "adjusting between blockers blue clear environments esports gaming high lenses light lighting managing marathon means new play players pro pros recovery rounds sessions stakes standard streamers sustaining swapping tinted tournament visua why",
-      "ts": 1794355420.9479945
-    },
-    {
-      "t": "act ban boxes dfa digital draft european fairness leaked loot mechanics minors off paid pay switch union win would",
-      "ts": 1794355424.507616
-    },
-    {
-      "t": "amazon boost character developed firstspark formerly free game games get global has its liberty mmorpg ncsoft over players publishing studio studios taken takes throne ticket",
-      "ts": 1794355428.0538676
-    },
-    {
-      "t": "2 8217 anti blade came celebrate crowd eve fire game latest new nintendo post real release released stellar switch triggered under",
-      "ts": 1794355431.510594
-    },
-    {
-      "t": "broadcast date explained find here operation out place post preparing rainbow reveal siege signal six taking time ubisoft uncover vital when",
-      "ts": 1794355435.142356
-    },
-    {
-      "t": "another apex big bull december event featuring hosts imperialhal inn legends names nicewigg other post red returning showmatch tournament",
-      "ts": 1794355440.4691322
-    },
-    {
-      "t": "2027 4 8217 after cdl esports event expectations first gave hosted invitational just look massive massively modern monster official post saw season shifted shocking this warfare weekend",
-      "ts": 1794355444.039417
-    },
-    {
-      "t": "amp appeared been book books chief compilation edition first gaming get halo has insider master new novel novels omnibus post released schuster simon three",
-      "ts": 1794355447.4806628
-    },
-    {
-      "t": "440 appeared approximately company decision down employees expected following fortis games jobs lose lost post shuts shutting their",
-      "ts": 1794355451.0549486
-    },
-    {
-      "t": "8217 canceled cancels disappointing fairgames feedback following has haven live player playstation post results retention service shooter sony studios",
-      "ts": 1794355454.6009889
-    },
-    {
-      "t": "0 1 2 after aurora beat bonk cheating days decides disqualification disqualified europe final gaming had knocked lumina out pixel qual qualifier reach seeding side sweep that them",
-      "ts": 1794355459.6421316
-    },
-    {
-      "t": "contenders events falcons finish hard have hong hope kong lackluster m0nesy now off otherwise say season singapore strong that title two",
-      "ts": 1794355463.2127874
-    },
-    {
-      "t": "back being believes bounce can despite g2 his hong kong losing match matter nertz rifler season six start streak team tragedy what",
-      "ts": 1794355466.6601543
-    },
-    {
-      "t": "1 13th 14th 3 cutoff field how legacy major not parivision ranked regional seeding shaped singapore skip stage start vrs while",
-      "ts": 1794355470.1470737
-    },
-    {
-      "t": "according afterwards banned banning big current fortnite getting gotten has mean one pirate player prize probably season shop someone they which who will winners won",
-      "ts": 1794355473.5680795
-    },
-    {
-      "t": "2 2028 2m agreement approved approves aps authority blast board bring convention counter event las major million sponsorship strike summer tournament tuesday vegas visitors",
-      "ts": 1794355478.485994
-    },
-    {
-      "t": "acting attorney board comes former hires huang investigation jensen joo joon kim lead lipton next nvidia post prosecutor this top wachtell week what who",
-      "ts": 1794355482.0004425
-    },
-    {
-      "t": "452 8217 about affair all averages billion but ceo charts costliest could discount fair find has huang jensen letter lost love moving not nvidia post rsi scandal since street wall war yields",
-      "ts": 1794355485.4512503
-    },
-    {
-      "t": "changes citing contract cs2 fluxo has its lost made major mistakes org over partner paused pauses plays post said says stays still taco team too under val valve w7m what who",
-      "ts": 1794355488.8825507
-    },
-    {
-      "t": "124 30fps 6 60fps 8217 backlash but defence first fuming gta hard has impressed many not playe players post ps5 reveal rockstar says series targets why xbox",
-      "ts": 1794355492.3936875
-    },
-    {
-      "t": "6 8217 behind can day employee employees every game games get giving gta list logitech off play post research staff take tops what when why",
-      "ts": 1794355497.497927
-    },
-    {
-      "t": "2027 agents brazil ceo clearing cortez cortezia far free moore now post reduxx release return rob roster says sentinels unrestricted why",
-      "ts": 1794355501.439383
-    },
-    {
-      "t": "2 29 6 99 before days four gta here how new nine now out player post ps5 remastered requirements shrek switch what works xbox",
-      "ts": 1794355504.9339297
-    },
-    {
       "t": "11 119 2 20 2026 5 6 686 8 announced annual billion consolidated financial its ncsoft net november operating profit q3 quarter raises reporting reports results revenue target third trillion won",
       "ts": 1794377287.2364466
     },
@@ -21264,6 +21152,26 @@
     {
       "t": "0 10 13 2 2026 25 40 anubis apex back beat blast day dust2 falcons final first furia group hong kong meet outgun return rivals ropz season upper vitality",
       "ts": 1794406770.555315
+    },
+    {
+      "t": "0 1 10 assist awards boycott bug code codebase critical debugging developer development during entire excluded game generative how indie led lines representing resolve roughly should that under uses",
+      "ts": 1794432399.9346728
+    },
+    {
+      "t": "1 2 after aurora back beat bonk bracket came days down eicar emea europe f9 first gaming into kickoff map open put qualifier reinstated team they valorant vct when win",
+      "ts": 1794432403.5049806
+    },
+    {
+      "t": "15 2011 2025 before bilibili brooklyn champion championships every finals full gaming gen has league legends list meet six t1 venues winners won world worlds",
+      "ts": 1794432407.0278733
+    },
+    {
+      "t": "2027 dawg hive its jawgemo joins out roster rounds signs team vitality",
+      "ts": 1794432410.5389652
+    },
+    {
+      "t": "2027 booth coaching enter finalizes its scutt slk staff szed team vitality",
+      "ts": 1794432414.0573585
     }
   ]
 }
