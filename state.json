@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based-system-publishers-and-devs-can-now-submit-games-for-consideration",
-    "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues",
-    "https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-to-keep-that-half-holiday-half-work-feeling-of-reboot-develop",
-    "https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months",
-    "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development",
     "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tSTlSQkxuVzJtLUtJc1JtUEFxZ2MwYTA4VWNVVGVETFhsMHRONW1lMVZ4V1hJZDhza0xIdkcwdG44bE9wMGJRTXZZTlFsbjdGc3ZFQlN6NjRyamFtVXNscXdpbk80Zzhta0N1aGxvejNjWTM5bUE?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1JqNzVxR2NxRXdZQUN6UGVqN3ZfSzlGWjVUQzZIeHFmVEpaMFRmWVp4MnNRMEoyRDlvU0lyY0JhbGd4MzJ1ck1JVmJJZkJEbW84YzRYby1DbGgyN3ZkM3RfaWkxbUhsVHpCcjZDUzNWR0JXOTE4SVd5Nm1DWTlXNnozd2M1QlRUc1hUcDNWT1QzMl9Tb0liWDNB?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.dexerto.com/counter-strike-2/cs2-pro-aleksib-facing-suspended-prison-sentence-over-alleged-tax-fraud-3419952/",
     "https://insider-gaming.com/finding-richard-zelda-ocarina-of-time-remake/",
     "https://www.vlr.gg/788401/sentinels-release-cortezia-and-reduxx",
-    "https://www.vlr.gg/788394/funplus-phoenix-parts-ways-with-head-coach-legija"
+    "https://www.vlr.gg/788394/funplus-phoenix-parts-ways-with-head-coach-legija",
+    "https://www.vlr.gg/788383/eternal-fire-completes-roster-with-badrex",
+    "https://www.vlr.gg/788378/turning-back-t1me-crashies-returns-to-t1",
+    "https://gameriv.com/playstation-cancels-another-live-service-game-fairgame-after-3-years-of-developement/",
+    "https://gameriv.com/lanterns-reportedly-canceled-as-dc-studios-shake-up-puts-season-2-in-jeopardy/",
+    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-players-never-won-worlds"
   ],
   "title_hashes": [
-    "f9b17fc544dd5b27f5e49df8ea7c252a",
-    "ce8c094dc2b1ba2f27c5e04c53a1dc57",
-    "2f20cd777006e720c4d4eafcd57c4af3",
-    "01715b1b3c2e51ac5f9e789079a903f1",
-    "bcb234824755bf47c370a15cd1ddce30",
     "9eaf09b482989361bd5f8278e66c3dfd",
     "4b4b8be65a218697476f2baf03c0ce65",
     "6c8e37adb3a86de8e1ca0ba7f1ecc277",
@@ -16001,7 +15996,12 @@
     "a8f25ce4018138199f894d753e2b9b98",
     "ee4c01b24c1df9b762888172caf2c5d5",
     "c598d4ac35b605aee4989a092ad072ab",
-    "05a00e6e963c497c8e6b8ece35c2a581"
+    "05a00e6e963c497c8e6b8ece35c2a581",
+    "b01ffab124fc648ef96e3957acde7ab5",
+    "cdac322af41de70d645e0753a3a9810e",
+    "16271a8d931d0aa378f965419f1c45b0",
+    "320d32e29bb709f8750782fb97d7fe73",
+    "48a2cc786d2d0f781d068a53b4a79f16"
   ],
   "transfers": {
     "pages": {
@@ -21224,6 +21224,26 @@
     {
       "t": "after coach fpx funplus half head leaving legija parts phoenix team ways year",
       "ts": 1794377378.9996521
+    },
+    {
+      "t": "badrex completes eternal fire its roster",
+      "ts": 1794377384.0448372
+    },
+    {
+      "t": "2026 back crashies returns t1 t1me turning",
+      "ts": 1794377387.603196
+    },
+    {
+      "t": "3 after another been cancellation cancels developement development fairgame game had has haven heist live marks multiplayer officially playstation plug pulled service setback several shooter sony studios that years",
+      "ts": 1794377391.3678243
+    },
+    {
+      "t": "2 8217 attracting audience canceled despite following hbo jeopardy lanterns leadership major positive puts receiving reportedly return reviews season second shake sizable studios won",
+      "ts": 1794377395.0613403
+    },
+    {
+      "t": "10 14 2026 best bilibili championship coming end ending esports event final grand have league legends most never new november players prestigious see tournament who will won worlds york",
+      "ts": 1794377398.5541902
     }
   ]
 }
