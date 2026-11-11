@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTBWaWkwZkFqWVhhVzZ0eFc5ZHZObGlPaWxrd0xGdE50VmVCSklTR3Q5VkNDQTlEUEQ2MGJuNlFiZEF0T2EzSU91eHBWZlVoSlNCYWZkYzdXVHhPdXNXTUJ3WWZHOEZzdjBDcHJpeGdKaEtqU0hjQ0poSEpxVTY4MHZsRjk?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUJUb3Y2YlNEY3ROTVg4Q2xDc05tX2JKa3B1Umk4RHhTTVJ2QnBpYmk2QmZxSXVKM2ZSZ2E5SUxjcGRUWWx5RzdYTGRyRGxxcWp4eDlCLVdXUmFmaXRkSHdHNVhkYUZOOXozU0U2OTRZUk9haTBfVXYxVUFqSFliZEpwcDFGZTduUmRiQTNxWXpEMGVvVjJUVnhJNERycjZOa0xGMGMwUTNLUWdmQVRRZlhKeU52bGl3dG1CN0h1bENuWVJV?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tb0hBdWhUUUxmdzlUenpJSWZQejlOb0NCSW1taEN0VUdMWUhwTjlSa1VHaWlHbHEzQVQ3ejE4ckNGRUxsRUw3SFhRMXZLNHNSeUNPRVRR?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEVVTy1xVmw2NG5JNDFDVXFDWVBSRDc5M2xkQVcxR2VzTjNDVHhpZ3ZJQ3hOVzlEdWUxNFMyTHZjUXlMNmJPREpBNno0MzVjb2dVR1J3aFUzZmIzZFhpaXJnSlc4YXcxWjRBWUlYNHVubnQzYk92dXZOTDZQMlU3a0QtVE1EVmVaUFFORDRnYnliWGNLcVlzbkVKWVdpVFNPWnJLLVU5WW4tM2YwZ2F6Yw?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xT05yRGdCTERqc3JfQjZpNWtFdGdORjVaTDZxN3MxbkdsNTZwSTZFZl9uSkl4aWVRNWtJbXRmWDUyRkduYTZGRFJuNnl0eld0YXFsU3BxNjYzc1V2cjc4XzJoRi0wQVU?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ndklTUlJxUl9YYTJvcTdBa01GRENkWTFmY0lLY0tEWkVoYW0xc1g1dFliSW5ySlZpRTJKdllHN3o5NmtpR1VKam8xaDNKaGxuU1VSVWlLYVFadzZ4VGlYRnZiQmE2RGQ1?oc=5",
     "https://pley.gg/cs2/pgl-cut-2028-calendar-to-six-events-as-fissure-head-to-georgia/",
     "https://pley.gg/cs2/nip-all-but-safe-as-the-singapore-major-race-heads-to-bucharest/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28441/devolver-digital-unveils-new-auto-battler-all-army-attack",
     "https://www.invenglobal.com/articles/28440/sword-x-staff-officially-launches-collaboration-with-webtoon-return-of-the-blossoming-blade",
     "https://www.invenglobal.com/articles/28439/two-new-pc-titles-from-line-games-reach-100000-wishlists",
-    "https://www.invenglobal.com/articles/28438/eclipse-the-awakening-conducts-first-server-transfer-since-launch"
+    "https://www.invenglobal.com/articles/28438/eclipse-the-awakening-conducts-first-server-transfer-since-launch",
+    "https://www.invenglobal.com/articles/28437/ncsofts-aion-holds-event-celebrating-day-of-the-daeva",
+    "https://www.invenglobal.com/articles/28436/black-desert-holds-november-is-shakatus-month-event",
+    "https://www.invenglobal.com/articles/28435/marvel-rivals-season-11-doomsday-begins-november-13",
+    "https://www.invenglobal.com/articles/28434/neowiz-posts-1105-billion-won-in-q3-revenue",
+    "https://www.invenglobal.com/articles/28433/team42-to-unveil-new-title-project-mecha-doge-for-the-first-time-at-g-star"
   ],
   "title_hashes": [
-    "5cf9e49060f3df1ef7177fbbe22df7e6",
-    "c696e946b8c151fa7bc8bf5a2368d61a",
-    "a080359436c6e63016ce82218937fc3b",
-    "b88d8de34b9a99ed8f2445206d8acc34",
-    "b916ea887d6a74adc09201bd6d859e0f",
     "b367cef3c69eb2882f7cabe8d1fd4a0d",
     "c4aaac7f9f1744c50c9baa460c23fb72",
     "dc4ade379de491adad20156c120e7bf4",
@@ -16001,7 +15996,12 @@
     "89d501eb47d942690f674ac75750fe83",
     "b1e67b4ddd3633234285c222ee296fe3",
     "5143b069e52fd4bbdeb3e8cd2b352fb9",
-    "9b61296400343656ed7e331f4490681a"
+    "9b61296400343656ed7e331f4490681a",
+    "fc28387695ff399a12e87e670eafe994",
+    "a13db91acebd679a1c380f7415a28676",
+    "c763c7b4e3a6dfeb3d78230e69d49603",
+    "7395d6328884050d5a0f2a7d5e2ead93",
+    "298356a76a55263f15129009ab845689"
   ],
   "transfers": {
     "pages": {
@@ -21184,6 +21184,26 @@
     {
       "t": "11th 12 15 announced awakening conduct conducts developed eclipse first hereinafter launch mmorpg november npixel server since smilegate that transfer will",
       "ts": 1794377340.375229
+    },
+    {
+      "t": "11th 25th aion anniversary celebrating celebration daeva day deva event holding holds its mmorpg moment ncsoft",
+      "ts": 1794377345.481709
+    },
+    {
+      "t": "000 11 16 2 abyss alongside announced black cron desert event holding holds including login month november offers pearl rewards shakatu stones that three",
+      "ts": 1794377349.047203
+    },
+    {
+      "t": "11 13 18v18 26 added begins being doomsday dracula introduce launch marvel mode new nightcrawler november rivals season will",
+      "ts": 1794377352.683696
+    },
+    {
+      "t": "110 11th 2026 5 6 9 announced billion consolidated neowiz operating posts profit q3 quarter recorded revenue that third won",
+      "ts": 1794377356.309383
+    },
+    {
+      "t": "19th 2026 bexco booth busan developer doge first game its lineup mecha new opens project revealed star team42 time title unveil which",
+      "ts": 1794377359.8483229
     }
   ]
 }
