@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE11R3h2ZlBUR3J3QVVhV2NmdlhUbGd6bTdqWkJ3UGRpOXpveTU3SE9qcUZhR0EwOVA4N2pTVDdSN3NvYUJsbXVsTE5lbTh6TW9ZZ3owR1RWbGEyd19ydk9TRm5TY3lhTWxhdkE?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemNGR2xuVWEzdTJNWGlOOFdOc0VJT1dKbko0anJBVml6SVA2T3p2d2R5ZTQxSFI1bXNjLU1lR3pCZVR5TzBPamJwSlZ2TmhXNHZCYlpraHdlYXNlRnNzZU9DcC1oOWNFQVZvdzMyeWdSOVZrR1BBbFV2bUZmd1FGellwNDRnS3c2U2FiSm1jNU8?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ0UxQVFnZFNXSkpwek1jeUQtTlRPa3BnMlhYX2tBWFVJY2hWRmdqOGFydGp2elFlTnpudXY3NUpyYUgzeWhJMC1UTTFkTGg0My1nQ1VBell3OHk3elJRZEt6SW9rWlNxV0traklYQkxUdTlPNlNkS28yU3c4MWtrVVVKMXFEcVBhLWc?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjSkQ4Szd3RWp0dzExZV9qbFJUX2RlN0d1VHdXZmRNczJqN1VJU2RrZmNhMExBNGQ4RTUzZWlJeF9KWW5DUXVjNHE0aUxadUQ3WjFUY1l3dkRBdlZXYXVQc3RURGtHc2VCemlINW5rVkd0WmPSAXhBVV95cUxNblBEZTY3Vko5c0VvTHp2aEpoX09BS05oSFctT0tGYmc0MkVZMnpKV0pGMWZGV1B3OU85REgzVTl6THNWNmVGSGVGRDRHSjNDU3Y2ZzhxcEFNOUlQVlBJWkRrcUtGN1lxanNyM3dPQjBzVklPZ2NMd2I?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTVJoUHEtVFE0NGE1RXJDUzYzT3h3XzA4TVNUSnB2UmNtZXdLX0YydzVCY0JqWTgzWTV6VEJWcGxhNzJvUUJLVXFOR1dHcG96XzVDM3hHeWVTNG5qUXRPeWpxSmFtdmV1aXRXWE1jbEFxUGhNWGg2cGZ1LXFaWkJrRTVCLTVQYTTSAYwBQVVfeXFMUEtTeVdYRnZtNnhFN2hOc1lpTVYzMzVMMlZkRmZPaTFFWDJjMFRHRGxyeGd0S2RqZnZ0cndCdE44WmVLWGZZc0FLYWQzQ3hHN2d4UlE1bVFGWWMtZ2hmVEptSFN3X0Y5cUIzY1pEQUpfTE1aY3M5Y0twZFJFZ0FWOHFPa0dSQVdCTnh4Y1I?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDRQRUhRUTlwSmI2V2RYMTBTWjE1TzI4Z0g5WVAwdmNtYThlc0l2NWdSZW5IclpVLW5fSUhYdUk2Ql8tTTZNMUQ5VFJja3VsZmxhVDJmR281UjRETTE4ZTJkNWZEODYyVEowcnM4ODVMSGdQS3ZzMFZra3hZak91cG5CN3BSOTRiMkdKdzQ1SFZ3clNuVFZjMXo3WDI1Y08wd0xUcQ?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HcUVrMGFZT0F1bnVHQ2tRcmQzQVVUYVg4SlVmTWhULUp3MTVnalhCZEttZzZxY09uRGczTlBIT0dNNG5qQ1lKYWRSVGY5MldoQ3I5TGNpbjI0TTRsM1pXNHJneEN6enhiS1ZFUnpOYUlWTHpIT3BN?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSzFJMW9qM2dTV3VtdldUcUJfb1lGQy1fd0hFWUtwU0N5WndUTFNQc0l0d25ZYV9HY1MwWkF0MXZNRmwyYy1CZUE5RW1GRUVXclJKLXEwRmgtaXM5R3RzYlhEdUlmM0tGM2VMLTdoS0hURXFJdkNnQ1d6bEVLZ05MNGpIaXlwSkFicDFUSF9iTzZRSmZjYlRLdW5JMnNhTFdOeVdaal9DdkdJRHI4d3lpcmMzZXpLcmxPYUdoS2N1VdIBxAFBVV95cUxORUc4OTExYzBiUDJtRXpNbUxxMkRCWWNCU2RmSHlZQnByMU9SUm1fcDYzYW5lcEx3RmxhMkcyVXotZzdXZXk1cmNVd0hLSkJoLTJSejRBWGJFdGRsdWdmTGFPSWVQbTRJYjM4YmRLRjl3eWZiUnRkeGd5TE1mTnJNcFpBN2plWXZxZE94M0JVZnlOQXBWOXR0WTRNaEpGdHZkQTU2OEQ5UEI4TDVkWVdwU1Q2TUpIbk1LaW9iYnBFeVNCcWZ5?oc=5",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON185cUZ5S2lEMlh6ZkpmU3dseHV0eE0zMWZQS2kyRGtHeHNGOW5ZQk5jTkFpeEZhb2J2V2lyRndLSEpFRWdNUGFNUHpEWkwzM1dTajJEQnpHSFJpaWtkRkpaM2dBNVV1ajl4MEU0am9VOTI0aXlkMURvZVkyS0M2Q0FjUTRHN3N1XzNrQmlvT0dSaFU4Nk9WeTIzcUNWRVRfUmFaTXEteGRtSTRqQy1sU1p2V3hBaFA4VWJYMG9nZllRc3FXSTMtbW9lUnRraEItX1o3UQ?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oUlpKUUZQbzFjdUNRTDIwQWN4VVctMU94LUY4ZDRKTEdmWEozdHV5Uy1RQ214UDlUajBCWHY2d0k4LTk4TEd1b1BfNUNRcjNNczVoVWR5TkxfRVg2elRLVU1SRVBxVTNhcFhCWEJxWHBBdEVhdFBXYQ?oc=5",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaUZsUHJIYm52YnBtNDNpajFOcHFCNGlqaFBRMzJ5UXNoQkpQZlVnbWZhdkh2VUE3MTFhQU1jZ2wzaGxxTUlqc0VsN1V3cDktT2xBMlB0d20zZ29QVEF2eUg0SFhWdnVvZU90aXhKREE2NnB2c0traXNwVHYwZUt3OUNDR0pNOXNuek9GZHdQMjJyWk55YW5mbHN4Q0xsZ1pFUktCZVRNX0ZSeERzNjQ4OGpJZTk1LXhieV9BemMwT2hmSlYwQ3JhNw?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Cb21SYnR3RDdZRnVMMjAyOTJMMkVSaVhjcUFxdDFnaE01S3J2RjRtRHJOZWFxdTZYZURiZlAyZlJkVnRBUDZqQ2w3Z2oyUUZ4aHhBSV9LRjZkbmN5V3pHSElIRWlUQ2VoV0E?oc=5",
@@ -7999,18 +7990,18 @@
     "https://www.talkesport.com/mobile-gaming/bgmi/snax-becomes-most-watched-bgmi-streamer/",
     "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-air-pre-registration-ios-app-store/",
     "https://www.talkesport.com/mobile-gaming/bgmi/soul-goblin-pmgc-2026-visa-update/",
-    "https://www.talkesport.com/business/nvidia-jensen-huang-returns-office-apology-executives/"
+    "https://www.talkesport.com/business/nvidia-jensen-huang-returns-office-apology-executives/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/destro-bmic-2026-ns-redforce-indian-teams-korean-teams/",
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ1hjSmRZcG0zZWg1V2kyTEMyU0hKdG1nYks4TmMyYXhjbW5DbkFEeXRXMm1HMTBfUWdiNUVZUGZEZy0tZEIzcEF1dXpoUXdJSXg3ZHJwUksyTW9ZckY3SmF4VGZSRmhvUHVTTVRaSlFocjhjNnNvMTh3aEhIdFVPbWNkYXhCMy04WUZJdG9IajNuQ29BcGFjbzlpdkVEWF80cG1xTmZqTjBMTlV2RDZmQ1JxOTRwckNLYzg4NHphdkVyZHV0dl9KTWdkdFl3TUlDQjJiaUJWamM4bWNoSHFzc2tQSkQ?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUG4zTEU3ZXBPZFN5TldlbmoxaU81NTBITWFmX0JPRHFjUmllV0U4aXo2RDVTdkZKR2Zab0UzbE4tSlBQSUpGVHUxNWNZcFM1a0VBZDY3NnJybzh0TjFsYjgwVG5hUFZ0R0JWNjhEb1lJcjVNNFExREVnaEtmNUowdDBKRGJoTmxJd0VxVC1XY2Y2WVE0NXBKUzdNRFc1WUY3UndPbWdLdGtqcGxqRlZrZFlkTW1lWExDeTV2TldB0gFaQVVfeXFMTWZpYmZFd0F6STRzQUFGcTRNZi1mY3pPY1ktM05ocXdKTmI5TEJnSzYta0xtY3dLUlU2UEd6emNVN25fcGRxSWdPUGgxd2hBZ2R4Z3l2RXB5TFJR?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2I3SVVIWFRQakNrMmJGY0x1eUUtdlFaVmI3TWprMWxrOF8yOXptWlJvaWgyMm44RmFQRm9yQzllM0VMVGtMVnBXUGJWZFJVSGJZTVB6ZWlHNUltTDhneFdyTzVTSDlvQWxLMFVBR0dXZTNLU1RmN2JZelZTbW1QQW80d1FOUExRYkI0ZVpiSUlrMDJkMWRoU1FWb2dLdnBHb3RudF9wTGM2ZUV2cjZEZVVWM3o0RGcwUkxEbnhyN3hhMTTSAVpBVV95cUxQd2NycVVXT1pxeDliQ21zME0ySl9kVDJlWnBwQ2RzdDRHU2VTNkhDdHgwR3NIMzc2TXRzYlctWlI5MHlmQ3Fpb0pSUzI0RXlEZHdlWlNDaUpPalE?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRFBzUjl0TW5XUFVZMENWNHF5eWQ5TFZ3N2FrdTkwSGlKYjEtRkZTaFAzSWdrWVBYcUMzLWpZNkhObmJoQm9IZXhVOUpkcUNESGJ6bFpCOUx2clRHOWVUb3BMYlNZVm5MVms3ZVRGbUFBc0xaUEp6bWI1eGQ1dERpV1pDdjdsR3k2NWxSY1BGRmVwbDhMendGbmwwOC1QOEd6UUNj0gFaQVVfeXFMTS1PQ3M1RXFzbzRZRllTZG9CakNfUVhwZXVkVk8yZ1NaU1V6bjEyWlh3UnNrVWJtQXc1dHB2alJoNkVfU1QyYUJaSVp1U0xYajlJd1IxdHlwOXNB?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd214WGpuZFJISDZKTjl2OFdCV2lQbmQ2RFYxUWlhNGlZSEtnZHdIdG5VMnpvaHJ4LWYwVGJOMVotRlJHQWZOUGswX0RmaVRfZU9CeTNiT0dYeXhfVFBSU0NrVVFmWGJ6LWZfZVhPM2dueVZWMnRZazZzQWs0YnNXcUlXalJPMTVCQzhKYnZjd1FHUnVz0gFXQVVfeXFMTzZDN0NvR1JFY09MeE1OQVNMUFh1MklVallEb2hFU0VUc1JQdVR1bkw3eUxrOHlQSXNydGMwZzIxMmkySzNFMm5JNmlRZ2I5WHNVc2o4NFk4?oc=5",
+    "https://europeangaming.eu/portal/latest-news/2026/11/11/217826/gibraltar-prediction-markets-summit-europe/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/11/217818/playtech-trading-update-2026-ebitda-guidance/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/11/217795/romania-fedbet-local-licensing-slot-machines/"
   ],
   "title_hashes": [
-    "dfadca396dd5db102087e5d3d467c712",
-    "f8591a0f9d80a81e783ec445b30b49ec",
-    "358a7dc07cfa6202373dd03a04669ded",
-    "9ab905320673348b0b33ea2982f92b88",
-    "8c5f59ba5a6a43de7b2135fbed356a37",
-    "92c8c443dc3106517311d87eaaf22079",
-    "74cdbf4165a5fffe125e1fc70542bba7",
-    "c4a4156b8a5b7ddb77b47f493cae6c59",
-    "737b4c4b280107cc8cdab30f7022aad1",
     "ba01c4ef5a5cce38d91b3fcfe84562b7",
     "c2d508362d6c66ba08a10adfcba72d3b",
     "23724385c67f220881b36d428d63c6fc",
@@ -16001,7 +15992,16 @@
     "bd8a593252cabad7171ebe6d95c533e3",
     "147ab2c33472a59276d16381e6b13850",
     "a3dbbdf30bd49d04c31371cf8a1a8d63",
-    "bbae68addb69452db664ebeed12728e3"
+    "bbae68addb69452db664ebeed12728e3",
+    "4167eb2235c38cbf3291f12e9f965b23",
+    "2b87f14c35c44e5e3d613019424065c1",
+    "f8591a0f9d80a81e783ec445b30b49ec",
+    "358a7dc07cfa6202373dd03a04669ded",
+    "9ab905320673348b0b33ea2982f92b88",
+    "54b87c227af8e0b24418ec8fd4eeeecc",
+    "5240558febd8d4d682430acea437a991",
+    "197b55662c71b4e98519103ef00e2e13",
+    "dde7f0f182a68f1235f9b45b95bf5c98"
   ],
   "transfers": {
     "pages": {
@@ -21188,6 +21188,26 @@
     {
       "t": "8217 9 affair after apologised apologises cnbc disclosure executives his huang jensen led meeting morning november nvidia office over post regular reported returns",
       "ts": 1794406697.255545
+    },
+    {
+      "t": "2026 about believes bgmi bmi bmic but claims destro esports except field gap gladiators indian korean league most much not nsr own par post redforce says skill south talks teams their there",
+      "ts": 1794406702.333212
+    },
+    {
+      "t": "american announce british business esports events express federation global multi nbsp partnership sunderland travel year",
+      "ts": 1794406705.8993776
+    },
+    {
+      "t": "8217 8230 attract back elsewhere europe first gibraltar hosts markets now operators post prediction push regulators rulebook summit territory that trying wrote",
+      "ts": 1794406709.396172
+    },
+    {
+      "t": "2026 2027 300m 8230 above appear but earnings flags four full guidance has its lifts months now out outlook playtech post raised same spells supplier tougher twice update year yet",
+      "ts": 1794406712.9356554
+    },
+    {
+      "t": "80 8217 8230 adopted based because close could councils decisions fast fedbet gambling have land local market most not now operators permits post romania shrinking slot stall venues warns",
+      "ts": 1794406716.401783
     }
   ]
 }
