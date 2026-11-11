@@ -1,23 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnFLYWFxazFVM200eU5Kb0xhNmdDTko2T2RCYkQybjFWM1FQTG5jaEFrbFZ6eWxaYzAwVFAwZlpzYXIzeHJkeHBIejVWdUJZMTUtRjg1cHBuOThuc0ZDUVlMcGdnQnNSWmJEQzJvbnZrb19nS1l3Vm9udFZFMlN2WkgyRFZJSEV6NFU1cjJZMmZwSzBpQTJMUmI0cHpITjlhaTBYcDFZZG9yR09hd2JR?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFSldMSGNLZGJ4MUNmNEtXRTlSRU9ONTlVWnpSaHMydDlyczZKcFV6QXJSMi1fVlc4b1ZRd2lpWUo2Q1VfcllTY0pUbXFoWDVpdmowYTZSM3JXd0FacW12M0hUUlh3c0Rl?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QT2FzaVd5bkloSTdHNHJZZG1ubTFFWWpTSHVNSEpCQi16d0d0VlJXLUxmdFhyU3JtTldFY250TTh1dlRPWU54ckNmbkZscHB1ZEdXYjBxOXk5SmZrb1N2UEstQUtCbTdpZmJfcXNZbU8zWERGTWlCWmRyNloyVjA?oc=5",
-    "https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-games-with-loot-boxes-up-to-a-16-rating",
-    "https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntarily-recognize-dd-and-studio-x-union-drive",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUxfX3ZnYkszTmhIWUdLZU5OTVB5RG1HakV6R2s2ekVKS1NkWTg3TUlwTzRkU1I5b0I4YkdzVHh1MHFCOTFfVm9xWnFCVWowSGVfSVpkbXVuTW5KaHJFS2o5YXhldlNLQXpEdkRsclFCX0NQZ3o4Wl9ZWUNMSXlnN01ZbDBvYXpDNzhEa2hRODM1dnl6RUZrM2p4Q3VvQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oN1BaNml2Rk5yVVBsbDJoVU9oZEdBb2JGZ01OU0MzODdxRkFWa0VOaFROQkNKMk90RUk4RHRHY01iU3ZRYTVYMmdaZWtWbUlLZjNxb1FyRVM3RDVRNzdpMFozNWJVWGM1TzQzNC1Ec1FYb21I?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdTFHTGFEdUM0RFRpYVo3U0h2TXJCVmRPWUhWYVViMDFSRmdMNkluYXhuMXYtaldrdGl4ekVGMGZGYzVZS2xsWWQwV2ZUblA1a3VTaUpRSU9DbDZYUlNXakxRVVNoZ2tvUy1RUXo5akdYUVBrSkhFOGwxZ21FM1lPVjFUUUJDRExET3FuVVphRUNNZ2Q1VGpGMzhfOA?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUwwV1MtVVQ4MHpjd2tDZEdkQU42Nm9VVTZ3TFN2WERMQkpGeXJNSDRPalRRS1ZjQkE3RjhQN01BQnhkRjJPS3VoakhYNmVUZU5TaXJMVGl1RnJSX04yb0w0YWpENU0wOXB3UGtOX0Jfc1FORVltTjl1MmlxWG1pM1BKNVNvd1FyVlNrUDRCODFKR1Y4Y1lMV2dvMlZlVGdmT3FBTndKODBoa0U?oc=5",
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ3hpRFRIYXkwWUQzcVJoSHBWWUhlSXp0OUpZb3V5VWZ4cFBKQ1k1Y2lUN2pteDU2SzFrUTlBUEdJdnNTdG1mOHE0VmY3MGNka01PV3Vzb0t0X3hBbThlNEE4OHAtRWgzUXpYcjdBQjBRQUFNV3FGOXhqbFQ2MjVfUGF6cEdkV0Y1bGVlSXhMNFRScFJiRy1QMzZCLUJsTm01WUNYODJnTTJCVktReGlQRXZ3a1RjOVp4QTJkY1M0LUg5VzE4R0JfdGZRQ0lJQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZENJWnBGWXpuMWU3TTYxaWx2bTZkQUR2QUl1TTBxOTBFX1RVMzNreklwdTMyV0pQcENtOVA4VkpFcktraE4xVE5LZVk3UGUweXhTMzBGWmRUNFd4NjFRQ24xVEdkZmE3Tk9iR3RmUlVFTUpmbnR3eTVFMkV0WG1rRTIwYWlFTWVJUmpHTXlQSGwtc2xGVXAwamlRNFZvdkRIeWwxRXRYZWs0X3h0TUhj?oc=5",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVHBnb0ZNYUprVmtFaHNmNGo2NEtkLU42Y19JY2w3Q0hpR1ZqTExLTTUxTWVoaWRwYWxuZ3hmcUI1ZEdyZG1KTWxPOGVVZEVCeUduMHA5Uk9NcEdOREJ4Rzk3MDNnaWEzM0pic2UxX0F2cUFpVnJlb2FsaXdwUll3c0lsenhVVHVBYi03Rm51LXhoTld2dGlqbExoLWJqR2o4anhOMjQ5VFF6UFIxckxJSXRRdm9UWjc0RjYwTTF4aW5ESlN1NFlPSjVYYnVOc1VMRkVTcQ?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUFwdDhjaTU5aHRUVDFTTkFFd0pJbk14YWtrRUFHclRhcTlsTmlWWndsR2hrVFBzVkxma183XzBwODRYWVFNVlNjUUpNOFFzRW5fc1NfZ1ZZdlJlSWlORXp3T0ZwS2JkdnNCNFd5cjZsbnZ0N2h6RHlCblhCdWo4VDJtcmFJN0tiUVF5WFJoVXh4R1J3b2N3aE1IOEN3X1RIeXlxemZJQVhtbEtYbHNIaFRmeFRwRmNVeVNGbzhLVW16X04wVkE?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRnlyZzNGUTY3RGF4UkVyRXQzblNEanlFUXJxSUxqeVFoZnFPdW5rVGhmajU1cjR1alZSai1tT0g4NnVoMlpxRWFhTEcxXzA2MkRKYnpzYWx3LWxMRmlWYlg2QjVQaVNuSnRYWVJCU2pSX2RDczJGY05iTzZhV0J4UkEzZ2VzbjBOVVpIRnVfbW5pX05LRzd2Mk9Ybw?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYllIbjllWmJQbUJOYXR3TzRjTVo3UE5Felo2QXdsSGhPamIyMVhta1RncEJSWTh4bVpZT0lPV0ZvOS0taHFqNVhqWVY1OURLNy1jNlUzWW1QekhOck45NjZody00LUVDd2s4MUQ3ZzFmYnQtM2l5OG1sLURtTm1CcDVhYUNoU3c?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDBlN3VETzZIWC1MWWx5cFM2dmE0Y3hKbEdNV2RfRzlaOWUxNGJHM0lMYlhqNTdia2Y4a3lqODdrSUs2QVFhdHZLOUdkcVp4em42elNNSFY2TExGMjgyWUJUOVJyX3dfdmQ3d3RHc2wyWkQ5RVI1T3czVFJKTEtvckxLdFNOTUVhRTA0WWpESlRjeTV0UG4za1lVZjdYYUllTUloWXR3?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ0pnUkhBUzJOaEp1NGNlakJ5Wk54VUFJM0ZCVl9nQ0tGZVgwVDdNeTROMzNtQkg1MXhpaWJ1SVkySEpoVWJkamtqMkF5TG04ZEtUSGd4RlFCTnFoN0dMYVNrc2ZnQmlWRlhWVlRoaGZRNVdBU05xUGNMUnNDR3ZPeEhlemVNem1EVTg5R3YyLTdyM2dKbEVlb1NkdV9nR2FsNVlpQi1HdWE?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSczlwRzhvTXRmYWpSXzdUVzZRTmZCS0VaYlhNOWF1VjViR1RVWlQxdS1acXRQeDhReDdGcndfUE9Ua0RqMEJyNWFNaW1ZblAwWVh3dFFZUU5KSWUxMnMwZF9GVUVUakE?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEFINGRMQVhJbFRsVEs3a3d3R2pCQVhQQk1JN2xsN056UHYzS0JLWDdPNE5UVlo5dWI2a1FCaHlQS0hiNzhHWjR5MUQwWE5lMU9hNzd1bTVoOHp0clNGQjMwN0lvckFMUVVsT2ZHLVlUTXMzTkNfVldYNmdCY2hMQlZrZGhvOHVvR0dBajBPTERaZzNDNjRqNnBvLXhrMVNCYlZPZG5B?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MQUFhc0k1aXRoWGhPZjE1YlFJV2hiMnRuaWxEbE41UGE4TTZrVlQxeXM2QnM3aFVkc01uNklBZDVOY21ZX0RkQlN3N2huUlYydDN6UjRPdVQzSDVCWkpLcF92WGxfOXR5R1RMYVBQWjlNaERpSE5EcFd4RG9Fdw?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pbElLR0drVk5lZTctSmdKbGIyeDdQcWNwRFhKMlh4bTNYbW53bXgyUW5SRGpGenJKOEM0Wjhhcm1JWnBDNHo4LXczT0FjcW9sWU4yWGlxb1NYemVVeHNndjgxM2t2OHh2aFBwRUl2X1lMWWlUVEVLemNn?oc=5",
@@ -7999,27 +7981,27 @@
     "https://gameriv.com/apex-legends-leak-reveals-major-alter-changes-coming-in-season-31-split-2/",
     "https://www.vlr.gg/788583/anaks-joins-titan-esports-club-following-blg-stint",
     "https://www.vlr.gg/788578/smoggy-turns-the-page-on-edg-joins-bilibili-gaming",
-    "https://theloadout.com/gta-6-pre-orders-near-10-million-ps5-crushing-xbox"
+    "https://theloadout.com/gta-6-pre-orders-near-10-million-ps5-crushing-xbox",
+    "https://theloadout.com/fortnite-pirate-token-odds-are-1-in-137500-worth-10k",
+    "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-hotfixes-november-11",
+    "https://www.hotspawn.com/counter-strike/news/coolio-blast-rivals-hong-kong-2026-interview",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdVE3cUh5aS05MGVGUkdpYm95MWdYd3puR1I3c2tZaHAxNWpOdlF4bEg5NWlKX1hONmdaSXVidW1fcXhTYm1NenBJVTh4OVdBWGYwMW5DYlhGMjBrUFNNVUxYZ0hZdGlIUG02UGltZ1BpY2tCY3UwUnJBYkdMcHZUOE9va3hTTWFWdVFpOUdPdlIwZXc?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRTBjOHJkMmNPUDBzcG9aZXlnZGFNZnlRUWFBVU1NQkxVNlY5eFF0S3kxc0w4SDBLckJadU4zZnFMaWpzZVY4ZFBDM0U0RGJiTXlvelNuVTduQTRuX2RUMC0xSkdmVFlTR3F4RFhVY1NrZ0JIREpRRW9jTVJBei1GaklkeXl0ZjR1dXZsczZSb05UR0hvSjBsM2VJVDBYS1E3MHN1TlVXYVd3VjIyRzdFenRvQmNxRmZRR3JZcFRnbTgwRzZ0?oc=5",
+    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5CWU1Tb0RrR09yQ3I0WEF0QUJSTTYzZ1lCMHh0dzNOUlVuU2NqY1FfVmx0czZsdkhkQ1VnUFhDUUZzQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE13ZE5qcXNpUkMyWmhJQi1GYzdoc2REUXZFdkQtM3FvZ2JXSkNtWXZhTjAxbDRsWUg2M2I5Q21hQ1hsQlFlVFFWcUdJUHhrM3JNNkttcnUxZHRsYlQxd2tLaFZQVnd4YnVxOUxRdnZPWVc?oc=5",
+    "https://traxion.gg/raceroom-to-host-alpine-sim-racing-series-with-gt4-test-drive-prize/",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52M2ZGZkxMVEViLWNEWXhMejNzaHFod2lQQmU5eXNGbXlxUjlkLTZnTkNSdmJjd3dXeThvUTRlTWY4bWlxWWl6czlxRUxaQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlVXJ3eUxNOFAzdUtac3Q2dlM1QzNKWHh6aEZOc1g4aFNNU3BfSVAtZ1FQVDhQMFcyV0MyYkk4SjNsdTV0NXVpY2h6ZXpUUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GeWQtVW9aWnpORmVRZjZVY0tkamMxTDBDOFpLenlXdkNsU3F6Z2VhRU0tT05ZNjJlNWJXMDRXd28zQktjX09ZUFBSMnZjaVNjdFp0WlVn?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ublQyZnNRenN2Ql9YMzlVV3hfN19LOEtfNWdKUmZEcXFsc0dIcS15cEpnUEJUdndxYmh2V1doeFNnT1FXUUlDeEpibExmWC1PV0szV3Vmem1CQWNXYkxQcDNodXBnRVJ0LTZndExocE1tLThfVkE?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xYXduSTgwSzdlUE9IUThaUVBMYlVYd1JueXA0QkpqeHdvTGI3bkxZSVJfRVZJWnFqNlRLS0dwbWlHRFlwbU9wWUR0TDdsNmhaaWFEaDNIUlc4VzNVRERoZktFU1JMVXVkUVIwX2JTRjY?oc=5",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yMTcxblk0MjFvalp5eDVBbFppQkYyRTlfQkJmZ2c4NGc1djkydTRVbjNsU1h1enBGdDhyX2FaeVBCbG12SjFjbkdoY3E1ODJNRWludUNpYWhXdVUxRkRlbjNyM1RMZVVKOFlDZmpB?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSNFlmRlB5RHdVMngxM3p6d05XQlFYaVFZc3pKVmR5SmtlbE14RU9laS1saUFqVXpuUGp3N1lrNGt0NlRfYWIyb1BtdTJodjNqVzM2LUFwbEp1VFBWUVlEcV9kOTF6M3RkLUNZ?oc=5",
+    "https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts",
+    "https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry",
+    "https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames"
   ],
   "title_hashes": [
-    "bfca2c505f64abf593eaaf275d84cbc1",
-    "5d248238218341355f8a3c152c530b9c",
-    "9be1a1dcb93ff1712f26fba87d3a001b",
-    "1acf3137caf3868f73837500b55d37c3",
-    "eaadeca07eb131da4b714d20ec17d8b7",
-    "2da6f2829a7cdfdf3454a70103952c2a",
-    "032ef4b76ebc77e85d0d6d29c925d3fc",
-    "8d793aa7f791e0a5ec85447cd508cbd2",
-    "ef94b05f4e5696b8f55a80f7251fab7d",
-    "019e973547050a3930558fce7c1bbe52",
-    "6738c5736cf2e6c57fcbbbbc4638122d",
-    "4c6857ddf11bf97ddcfdb6d8a63a688a",
-    "d1235322477abf015c9117b1bb51c564",
-    "e484e9fd7a7dd1f9a752f7eca3b4d673",
-    "d884baccf823d6f7d352babbda352d68",
-    "912f9c56d5e27cca0fe9e461905f3c0e",
-    "2cbbcaf964aae378bb441b21bba76aca",
-    "2a54f03092599f396ceeb80a2bb6e194",
     "c5b4c552395013e51d833b48237cbe66",
     "e4642ab2a6f2ab080ab7a35e11500eb2",
     "01fb36f5f8207a88a955bf3689ef08ef",
@@ -16001,7 +15983,25 @@
     "8eaacf0fe27b0e1ed43693e3d699adff",
     "d224e3f186764a2fd0ff78f2455e5808",
     "329579b69151e290743a8cba1c8b1bcb",
-    "72d6c975ef8c9499bc3111387143f638"
+    "72d6c975ef8c9499bc3111387143f638",
+    "f322f677c32ee18130361a4b60e5f44a",
+    "41e4c0a92c920038f8bb519fe7d2ac94",
+    "9c3248369e77c3fab7bc12af9e786ef4",
+    "7996045de4ac354f48e39eb25469d2e2",
+    "d7e12f3f7634204d6e30a6008896ecb2",
+    "e80a44ec349d672da401006cb03cde4f",
+    "e3ab5f8cda6c8af4860ca0d68759b8ef",
+    "09eb3aacb207ee755d1a7c23ef98d6cb",
+    "5aa7b8be7de31ec366e957803d8adae5",
+    "2fc4f1550204ef54a00b1476d9df38b8",
+    "98ded198ba3a0a30e7cc64e4a6a93f45",
+    "f3657cd69cef17a232da51a1cc6c4c57",
+    "98b54d148c249d900946c45024a3d6d6",
+    "38eabf14903530cd0fadf50c857bccc5",
+    "a475033ebf9a25e721e2d1d89f42329d",
+    "745fe2b9224c94ce0266e7a982fbdeef",
+    "6901292f068164e3e760b2b53d2ccb08",
+    "92ffa8fd252277aea9e47416ae4e47b2"
   ],
   "transfers": {
     "pages": {
@@ -21148,6 +21148,26 @@
     {
       "t": "10 124 19 6 according ahead auto close crushing four grand gta has holds laun million near november orders other pre ps5 quarter sensor series taken theft them three tower xbox",
       "ts": 1794406658.1176903
+    },
+    {
+      "t": "000 1 10 10k 137 500 access between chance chest claim fortnite item odds one pirate players shop some stands that token what worth you",
+      "ts": 1794406663.458007
+    },
+    {
+      "t": "8216 about arrival blast calls changes coach coolio fut handles hong hotspawn how just kong mid missed needs rivals role roster round second spoke still sunpayus team voice what xfl0ud young",
+      "ts": 1794406667.1245403
+    },
+    {
+      "t": "6 auto become becomes game grand gta has microsoft more most ordered playstation pre read store storefronts theft xbox",
+      "ts": 1794406670.7086701
+    },
+    {
+      "t": "act adopted after commission digital draft earlier european fairness formally games has have impact industry its leaked massive means presented sector this today week what will",
+      "ts": 1794406674.27234
+    },
+    {
+      "t": "based cancelled cancels development fairgames has haven its live montreal more playstation previously read service shooter studios subsidiary",
+      "ts": 1794406677.8925252
     }
   ]
 }
