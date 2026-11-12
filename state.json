@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/league-of-legends-mel-midscope-rework-removes-her-reflect/",
-    "https://insider-gaming.com/nyt-connections-hints-solutions-october-21-1228/",
-    "https://www.hotspawn.com/fortnite/news/street-fighter-6-tifa-release",
-    "https://www.hotspawn.com/league-of-legends/news/mel-midscope",
-    "https://www.nerfplz.com/2026/10/patch-2621-tier-list-predictions-our.html",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeE80YjZaajhENE1tWDMxMkVDNTVETFFkeEYtT3RKLUkzSnlwMEJ5RjZrUjdVMG9jdmtFS05DSVVOTzdKcnVQTm81S25UTnFZSFh6WkEzRFNXT0hNS19ZT2tKeGllWFhubEdQNjJBWGpqX1o1d3J4cDVWaU8yOU0ySjZjQmpvX29Da3pz?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwZXhVV18wakFhU3R1QUFkbUN3X2JyZzlWQV9kaUNnRWJhNFpmSndVeml5XzVuRXg0bUtpWGtKNE91Wk16RVN0N2xYYmNGeEoxVTdMTkZaU3lWVldzTTczaXV0RlRVQ2NTTDdsMDlRQXY?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFUxZWI5UzRiMmFpYXJoSk9TY2w1YVdyTFVMUjFDWl9kRjRFNWx3b3M2TkJnMllIWmM0ZXpBXy1HQXpNNmROUFRVMU8zNXhqdV9hTWYtdU5FXzZPUGYzc2xRMzVKUDgzYTdjT09NTVE4bFRzT3E4UTZpc1FwZFFkdzQ3OV9wMVdFdi10NzM1VTJ3VWVYOUNqNmxBd3lKS3M?oc=5",
-    "https://www.talkesport.com/news/pubg/pubg-pc-india-region-2027-krafton-teaser/",
-    "https://mp1st.com/news/call-of-duty-modern-warfare-4-review-campaign-putting-ground-back-under-our-feet",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwN3VkSzhJQjJtMnMyNkRSeVg4bFhFNlhFc3Bja2dFVFl1eS1ET3hUbTlfbkY3QUcybXFUcGhoZHNWczRWa1RJdy1CMWNwXzFDLUE0VUc2Z1lfVExsZlNqaVdwbw?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXhzWFBFUE9PSldabDRRY09VX1dUWEI3MnUwd0tOY0loUklWVkQ5SFQ4clZxRGlpUlhYS1FQamR2NU02WklpX1dwZUlVenRoS3UxOFBwRFNWWmpCX3ZUbE5TbkdDTXdWY01yU2R3R0IwSFV3YjI2MXdjOEV0ZGRDbw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVDdreXpoVFl5TUNQcUxrTVZkV2NpdGktRFNncEgxUHRIVVdmenlOeU9VWlZvOUlUUk5tR3k4M0RnZVJYOHQtM3c5cWQtVXBVTk85cHUtbE1ycDZZcDRqZXJqcUQyRGVTczRVQ1VfNzVJM2ZnTl9BY1NHZWtBbGVJenRXT0hRODg2Q3ZyMFdYNDE2R2oxbXZTRE94LUVZbHRXMmdrSGlsVUpwUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekcyNWl1S0FaQ0NMSDVXdV8ydWZUQ000YzVZWUV3YUhEcUY0amZjUkxvT2JSQkNJQ3doVC1Gb2d0VF9VNzhvT1pxVmZEeTBxYWJjeVVIVnVIZFdfRHlrUktkX0pqbjhTTDBDUEplZG9tMHgzNjBSVjNxUGlOZ2JxY1FBRGgzUE80V0ZYQw?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUVURFZWcHJvRHo3Q2xyQlVndzlMeGExeHpCY1dFV3ZOMzJjd3JtSlNiU0trZnd5ZFBrYWoxdmJqZGFlem9jV0dMamxpLXRFcktYZThYbUlNd2lKdExFLTlZSW5BOGY4cEp2aFZpYmZla2VRRjlkMFdtQzFZaU50WllNZzN3LUREU1Vr?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04R0RteGlsNHVmMnZkVWNrYlBoOVRmVjczRXBIb3h1a2JNY3Zmb2NPWGw2TWN4Y0VfQk90RGVQdkNqejdMX1oxZEItaWJNTGs1NmVuRkliNA?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKUGRSS1B6RUlxRXpJZXUxMHZaam81QUNvcU1VYWdSbTZ3czVHd0g3MzZ3aFVCb1VfWmtfMXdrM0p0YnJ2LWVwS2FZLTRyNzRzTEtoNUpZU25zeC1jNXVwb0lRNEdDTHc4VjB4c0xxQmtGOVBtc3dEZzI3VjRIWGs?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc3I4X29zbzRMZnBBQlpOV1Uyb2ZmazYyOTN6d3VQYjFjRG5OSDV1ZGpEOFFCVU5PVWVqY2pYYkR6dDYzUDJqMmFkVDhvY1p3QmQ5M3Z4TDhWbTlUa3pwanZOWE5DSG9ISnM2VTFLT2V0eHVqTjI4SGJSRTdSYTdBdmpoZEkzNk5aRGJWSVl3?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWU9JUHBUS2JmN085cEhySlhhQ05uOGIwbGRFSDBWbFN1dkI0SnJ3LUd2UFlnbFBRX085ck9lbnJpV1V5aVZxYkxPeVRPT1VwanhHeVY4TGlWd3hFN0pWZ3BITXU4TktTV3FlS1hYR19pRjRXclhUeEJkdUpnUGM3UkxxeV81alBfYUpkM3hRSFM0YzBhMTExcE52UWdPTTE2d216MnR1RjBGbkllVUhoTkx2cXg?oc=5",
@@ -7999,25 +7983,25 @@
     "https://www.gamesindustry.biz/its-about-giving-more-great-games-a-chance-why-launchable-thinks-it-can-help-more-independent-studios-reach-the-market-with-its-shared-success-model",
     "https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty",
     "https://www.gamesindustry.biz/german-games-industry-association-warns-digital-fairness-act-could-cause-double-regulation-and-legal-uncertainty",
-    "https://www.gamesindustry.biz/eve-online-maker-fenris-creations-is-adding-a-rendering-technique-to-its-open-source-carbon-engine-that-promises-more-accurate-shading-and-greater-depth"
+    "https://www.gamesindustry.biz/eve-online-maker-fenris-creations-is-adding-a-rendering-technique-to-its-open-source-carbon-engine-that-promises-more-accurate-shading-and-greater-depth",
+    "https://www.gamesindustry.biz/black-forest-games-spins-out-from-thq-nordic-co-founds-indie-studio-group-third-signal",
+    "https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN1dGUXg1R3gza0Z1MU9kbE1lLUwzeDlWYzd5Yi1lUVVJc1V1cmRyMVdHMkhSWGp6VF9NS2stNVhQdndEQWxWd2FLazFWUTdrenpRNWlRUnNyeEgtMG42VnkwVVpkbEdnNGwyaFMtLUhtWEpvWkpyMmNTY2VucjEzbXlDMWxWLVhpNzBHSzYtdkJZemV1OVdKNmdn?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2VSX2VHcnhoRXVhNTJaY2RkYzQ0UzNjQ2diakpvUjM2dDZhSU9jMzlYXy1yNUM1MFlOS19rbnY1VDc2YV9EV09RTXduNHhBaEl3MVM5OUR4WFVscy1rRjJQSWtRY2t2QktKTlVVdmJBRy11eENBQWQ2RHRWTmN3VjVLd0F6LXJhYkVpY25RSEJ6UXpYTXdaV25Pa3c0cjNMMEotaENn?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZU1pTG12QzZ5WlVRMWlwZ1RmNDRQZnZfUmdCWkNJV3VKUVZ0VHEyVERXNWxZenZBQUc1em1rNmVPTjkzVEJRZ2NoWmVncW5FVGFZVTdJblBQNmpyYmlwa1pOVzZaTk0xdFNlajdzNU9LOUlkQi1uSzNHQ3JKNHpObzJZanQxRmtxaEhsWUJCVXp3Ukh4Y3MzM0hsNHAwMUtldk1BS0JZRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUFwdDhjaTU5aHRUVDFTTkFFd0pJbk14YWtrRUFHclRhcTlsTmlWWndsR2hrVFBzVkxma183XzBwODRYWVFNVlNjUUpNOFFzRW5fc1NfZ1ZZdlJlSWlORXp3T0ZwS2JkdnNCNFd5cjZsbnZ0N2h6RHlCblhCdWo4VDJtcmFJN0tiUVF5WFJoVXh4R1J3b2N3aE1IOEN3X1RIeXlxemZJQVhtbEtYbHNIaFRmeFRwRmNVeVNGbzhLVW16X04wVkE?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE54NkR1VHpJOUw4Q0pDN25HWEt3MWk2TWFuT0liaUFDeVQ3YmNXaGFhOWQ2Rkh1LUc2QnQwel80MHd4M2tYd1FKNnFVLWpsdnpiR3l0LUh0UDEzRklNMjJiVHVNZkx1QWtrR3pLNHlGelM?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajhENVQ1WllXeURjMzJiZWNmd19aWHBpRFpjSzFtN1JFUllDR1A2am9FajZ2b25DNmhaeHZNSEhQc1hmN0xwTE5qRDhHQkY4M3kxX2QyMGVYRUFnSzNYWWhjcFE5SDk1WHVvMFVBeDZsNTFOR28zRWM4WUQxMHBiMmFqdUtjXzNNemI1RVotVDBpNXBR?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVFkWFJMdndEX3UtMUdLdGFKQzVNYVNkU1Y2aXBycUxDdTBaM0I0RDF6akpGRnRVQk5xUGx5eDNvWEdmLWhySVVOM1pzNXVLTTNsc0o5RlU5RktmTVhEazE2eHlhNmFmUDFDQXNPUXh6UG5GVjludlJEUGRaRnl4aXVLeVlWTzVnNEpQa1hGUkRYUlIwdEtOX1Bxbjd6ZjR6Rjg2TDhmekhYVERXeWo4STBn?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDhKQ0J3dXpjMGFpZ2FvTUdhMFQySXdBdEU0Y2tEcV8ySC1CSXNkSTNRYVpWTlExNURTSmNXUnhLektoVjJMVHBvRlk2bWs5Mk4zSERDT1ZqV19vS2VQWHZwa1diM1ROY1ZCbE53bl8tU1FZM1BQei1rVERxbUV1TlhybnExMVphZTNPMlJnaHBCZ0V1NFUwMWZxczRlenVScE9lSXV3?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaDZtMWZkVXZSdWRpaU1hM0RlY1UtRWlGV21weGN2MlRfbVo5RC1vUEowWnF5MW1BLTVmQXpqanY5SC0wSEx5UEZxdXZQLU1tQ3BNNTVVWUlNRWNpN3ZlMFhMeVVST2tsckxRSjJLZ1ZYODVDdmxWNmFFQlFYbXNnSTVPejI1YkU3eE9jYy1ZVl83eGp0aDZmdDBDY1BuUXFLTUE?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcC1QS0hYNzVaTGxVQ1p2UXZER0lib3pQZ1gyelVSM2paMEJBNm5TZkpPVVdKOUYxOE9HdUZLc05nOWh5aFU2Rmh1M3F0MEZyYWh6NHlBUHVXcHZsNmlhQWRPcE9uQnRNcDRxcHprQlZkMXoyVmhVUlZjbUlsOVVsOHVQdkJCRS1aaHdBOHdSTE1QVnpqbDQzNWFZNjBfZFJjUEZySHUtdU9wZw?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE01dC02TXF1Q21ERDA4bXBEdGlOVkVkYVZnUWtEekV5S1lNdWpJdFFmUlN1MmNQY0tWY1Rla0pKT2pjTHA1ZXREdVNudW9HaHdXVW8zX3hUVkkwWURQZEdHZ1J6Y21vR3pOUU5BQ041RTBiNHptbWFUMWVkai0xSWNTQ3kxcWFKWm9vRFpzLTBqLW5X?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmFzUTY2V2NVQWxHM0poai1kQTl2bGQydmo1bEV6ZG9qNUtkbHRnZmFXMmE5akFCaExBM0VRa21qN2xla1c5QlJweDQwZFkwQjgwQUJGdjRBNHZHdTNpTkFqQjVFSXp1eDUzVUtwVDdmNUhweEZla09iaHZkdW9UX3JEMG9lbk1HSFdlTXd4a21HWGZ0TEo3SXVCZjl5TmozVTJmRU5QUGN4ODA?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEVNU05VY1BFYlFLek5HbEhMN1h4UXZhY0txcGpWdDNUTUZraXVROE9FcXE5bGZLVkszSV8yRl9YUjNtdkFvWE9CZE82Y1ZxUlVZeGhQMjk5UTVhbmQxSGJqdGVTMzVVdVlNakc3LTRkNGx2aXVMMzUxUmpRQXpoUnM4ajZfRVNXR3RKTHVRd1BleG1PWVRuVFY2QU9STDNSMU9mV1VQSTRnM2FkUmk4Y0Q4NA?oc=5",
+    "https://upcomer.com/gta-6-features-gameplay-and-everything-rockstar-has-officially-revealed/"
   ],
   "title_hashes": [
-    "1fc8daaa1779e5b84b62c1de2c1564a2",
-    "35a92d32f4e3a4f7c573dfaa2ec4a6f4",
-    "c0db194906d823558ffd2fe12bac4460",
-    "14c10b860e7ec0584ab1c28b861ae9ab",
-    "4be7b4e8e4c935b095b59b624685bee2",
-    "7530d4ba13ab9b14dd579597e3c64d97",
-    "821cfad1cdf00848e2beff6d00679be0",
-    "988ae42552e837cccd1b498e1f87f6b6",
-    "77a558d980d8852f265de3b81c61ea48",
-    "f8e27b7ddba53a6046507a2f344276be",
-    "6570a319da809ee1793654bac39769cf",
-    "f3bec108bba49e102361a59d531204c0",
-    "ed0526e8de2d2651eb7ebe0c882d63e3",
-    "66d7f554951725ecdff934fd7fc760b6",
-    "b755398f4432d3b4367a4b3056733b0d",
-    "eb330ff885ebe59ff0dcdf86df64be7c",
     "7ad2c442e23fd48e5dc3fe4ff2d9565f",
     "e3b6539e0bf1499866ccff6594a3fb69",
     "cedbe2cd9accc96de0096fd9e029c78e",
@@ -16001,7 +15985,23 @@
     "67c7ebb30ddd0c70d7f0377ab586e81d",
     "3e84f99e6c4d67e8b75bdb9bbe8fe4c2",
     "23c3a0c89a8c01deaca0e0cce3185478",
-    "82b46794939bc211bd66246782db8a58"
+    "82b46794939bc211bd66246782db8a58",
+    "231ab14d497920b9282e411067af0264",
+    "111dad2fda737f9dcb9da8c75cd8401b",
+    "a1bc3e2ddafe9334c253a6961b58a771",
+    "7f5dc2730fbb75e355bdad319ca68ca0",
+    "4e4f1e7a115a2bf4d4aab1caaa294492",
+    "79e419fdf6e38092674829ecaf18f3f5",
+    "0813946d5fe895be84eb8affa04ecb64",
+    "67ec058127f623a61dafc319c7883878",
+    "ef32714cf09e53edbd537d9689c7d3d7",
+    "bdfa6a60f91cc3065ac60f47b7cc68b1",
+    "eee17d02174c3d8863b830c17d416210",
+    "324697b9cd415f498a82bbab863420fa",
+    "f2ab5fb218da8b84623f45579aa4ba11",
+    "2f04212211d1f26acc3e3e30b20efbdc",
+    "184e13648ec4fec1673ce6aa03e7a302",
+    "d22d56c54edb58c3aae2d8cfcf54ca24"
   ],
   "transfers": {
     "pages": {
@@ -21336,6 +21336,26 @@
     {
       "t": "accurate adding addition carbon cortao creations creator depth earlier engine eve fenris form greater having its maker making more online open promises read rendering shading sizeable source sourced tech technique that this year",
       "ts": 1794506874.3274238
+    },
+    {
+      "t": "black buyout forest founded founds game games group has independent indie management more nordic out read separated signal spins studio third thq through",
+      "ts": 1794506879.6222708
+    },
+    {
+      "t": "affected called developers devs employee form formed group have hidden horses independent laid layoffs mass more off owned read software studio xbox",
+      "ts": 1794506883.194795
+    },
+    {
+      "t": "2027 ahead bnk esports fearx join lck nbsp noah season set sheep sources",
+      "ts": 1794506886.7545311
+    },
+    {
+      "t": "apex bgmi disbandment dismisses gaming legend nbsp roster rumour shreeman talkesport team",
+      "ts": 1794506890.2183092
+    },
+    {
+      "t": "6 everything features gameplay gta has officially revealed rockstar tips",
+      "ts": 1794506893.768113
     }
   ]
 }
