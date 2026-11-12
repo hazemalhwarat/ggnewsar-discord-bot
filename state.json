@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27405/korean-indie-game-spookitchen-pulls-demo-over-ai-copycat-concerns",
-    "https://www.invenglobal.com/articles/27404/emtek-launches-2-slot-geforce-rtx-5060",
-    "https://www.invenglobal.com/articles/27402/archeage-chronicles-tops-next-fest-demo-charts",
-    "https://www.invenglobal.com/articles/27401/solo-developed-mobile-defense-shooter-fingerlaserx-launches-globally-on-october-20",
-    "https://www.invenglobal.com/articles/27399/lionheart-studio-establishes-sports-team-for-athletes-with-disabilities",
     "https://www.invenglobal.com/articles/27400/duet-night-abyss-releases-version-17-update-towards-the-dawn",
     "https://www.invenglobal.com/articles/27398/golden-joystick-awards-2026-nominees-revealed-featuring-crimson-desert-and-dave-the-diver",
     "https://www.invenglobal.com/articles/27380/visitors-underground-world-of-warcraft-forevers-new-dungeon-hall-of-thanes",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28517/gta-6-came-close-to-rating-refusal-in-south-korea",
     "https://www.invenglobal.com/articles/28516/winter-events-grant-epic-to-primeval-gear-cutscene-skips-added-to-engraved-nightmare",
     "https://www.invenglobal.com/articles/28515/g-star-2026-to-hold-online-showcase-on-the-eve-of-opening",
-    "https://www.invenglobal.com/articles/28514/mystery-adventure-killa-to-participate-in-g-star-2026-indie-showcase"
+    "https://www.invenglobal.com/articles/28514/mystery-adventure-killa-to-participate-in-g-star-2026-indie-showcase",
+    "https://www.invenglobal.com/articles/28513/talesweaver-launches-pre-event-to-celebrate-maplestory-m-collaboration",
+    "https://www.invenglobal.com/articles/28512/seven-knights-rebirth-adds-new-hero-eve-in-15th-anniversary-update",
+    "https://www.invenglobal.com/articles/28511/nc-reveals-astrae-oratio-booth-layout-render-for-agf",
+    "https://www.invenglobal.com/articles/28510/end-game-cals-seal-of-survival-appears-exchange-market-price-overview",
+    "https://www.invenglobal.com/articles/28509/girls-frontline-2-celebrates-2nd-anniversary-with-koleda-asteria-and-djmax-collaboration"
   ],
   "title_hashes": [
-    "4edbb26280eea5ab4efb7a3fbcf64f30",
-    "4ef0569575cfefe27b645c7851a5b653",
-    "df64ff52184cf85d7723e1c640688f05",
-    "6b88ec683828dd664298f98a16635b30",
-    "7f7b1c47697bdc8ffe24a07936ddcf9d",
     "e3e1375ee251a34fb1011901f137c411",
     "557cd9bbd8122d2f9b7b26241b95211c",
     "e4837a661464ad852af93b3977ef26ca",
@@ -16001,7 +15996,12 @@
     "4bdaad1772357cf895717d04679a9a2b",
     "5459ec9bc75c76ab3a17db9f304cfce4",
     "ddc304a73f46e06194e94d6db8ec4db6",
-    "86580e18b7bd6328d249639e30556b3b"
+    "86580e18b7bd6328d249639e30556b3b",
+    "cd468ce437e25875f20cad8d9757beb5",
+    "d4e8213ead2c6b14c150b7682124cc76",
+    "f2fd947e9b3be1c03c885c8e582f381f",
+    "08f27b61a2ccdacc8919b8ca2da2764c",
+    "f51a749a885b2538d02b0c3d001bf477"
   ],
   "transfers": {
     "pages": {
@@ -20964,6 +20964,26 @@
     {
       "t": "2026 adventure black development game indie killa mystery participate showcase star tangerine will",
       "ts": 1794477759.5141306
+    },
+    {
+      "t": "alongside announced between celebrate celebrating ceos collaboration dae event hosting hyun its jung kang kim launches maplestory mmorpg mobile nexon online pre rpg talesweaver that wook",
+      "ts": 1794477764.639873
+    },
+    {
+      "t": "1 12 5th adds anniversary announced birth collectible day eve festival grand has hero knights netmarble new november released rpg seven that update",
+      "ts": 1794477768.6313376
+    },
+    {
+      "t": "150 2026 agf all among anime asora astrae booth booths companies festival game has hereinafter largest layout operate oratio participating render reveals scale unveiled will",
+      "ts": 1794477773.0360076
+    },
+    {
+      "t": "11 appears both cal changed cores darkness difficulty drop enchant end exchange exp game hereinafter increased kill locations market monsters nine november overview price sanctuary seal sol survival unstable wednesday",
+      "ts": 1794477776.4912663
+    },
+    {
+      "t": "12 128226 2 2026 2nd anniversary asteria celebrates collaboration date djmax elmo event exilium frontline girls global haoplay koleda live nov november presenters preview producer revealed stream today yuzhong",
+      "ts": 1794477779.9442196
     }
   ]
 }
