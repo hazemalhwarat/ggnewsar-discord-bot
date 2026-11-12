@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://esportsinsider.com/2026/10/blast-payment-delays",
-    "https://www.hltv.org/news/45765/navi-sign-up-for-hyperx-retake-season-13-despite-pgl-masters-bucharest-and-iem-beijing-conflicts",
-    "https://www.hltv.org/news/45764/fazes-grind-continues-and-luminositys-major-chances-fade-as-draculan-playoffs-begin",
-    "https://www.hltv.org/news/45763/big-get-a-lifeline-alliances-major-odds-crater-and-liquid-exit-after-day-two-of-1win-private-club-s2",
-    "https://insider-gaming.com/k-da-is-releasing-a-new-four-song-ep-with-new-lineup/",
     "https://insider-gaming.com/next-gen-xbox-could-cost-as-much-as-1800-says-new-report/",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkdYb1Bnc0xwUHl3VEpfdzl0b1NiektrekMyT1pvcWpuZUNHem93WFlJblZuU2k3bFpVcHNCcGk4N0hTbERTSXI3VUhEYkdSRkdQX0ZycEtQSzBNekVaVXVxdi01SDBYUkc1SFVsaFdINm1lNkpyUE40cExlVkZTd0VMZWY0M3hHY2lQVw?oc=5",
     "https://www.hotspawn.com/street-fighter/news/street-fighter-6-tifa-release-date",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/take-two-ceo-gta-movie-tv-show/",
     "https://insider-gaming.com/exclusive-tarkov-console-version-announce-2027/",
     "https://insider-gaming.com/seoul-bids-lol-worlds-2027-final/",
-    "https://insider-gaming.com/strauss-zelnick-arrogance-continued-success/"
+    "https://insider-gaming.com/strauss-zelnick-arrogance-continued-success/",
+    "https://insider-gaming.com/slay-the-spire-2-new-character-modes/",
+    "https://estnn.com/blast-rivals-playoffs-november-13-what-is-at-stake/",
+    "https://estnn.com/worlds-2026-final-gen-g-vs-bilibili-gaming-preview/",
+    "https://estnn.com/blast-rivals-2026-season-2-results-bracket-tracker/",
+    "https://gameriv.com/marathons-new-expedition-pve-mode-explained/"
   ],
   "title_hashes": [
-    "6a23cedaf1ff051a99cc35c01c804675",
-    "1a9b983306b86dce50e4299a3943c4d3",
-    "1bad06c9933b55e7d8cc1abeb26b4563",
-    "c016ff7dc5f9913479ee3a6ee89b6e1c",
-    "ee4f1fd0ade496cd518cf03a5858967a",
     "e91a838bcb85c329c06f14c277c9e0ff",
     "1270f68c8a6a45f2a370bf907fa1c6a9",
     "636590dd129bca367bf5bba9fa2da64c",
@@ -16001,7 +15996,12 @@
     "bf9bcf6119b87c8138a86bd385d86a93",
     "94448c29110b7d379f856d3353ad2270",
     "b5c341787e09a166d3388de6a8b721c8",
-    "54584b6eb44619af91fb9a2c6ff0a4e5"
+    "54584b6eb44619af91fb9a2c6ff0a4e5",
+    "59a5674338387b08e32704e687f3cefc",
+    "4d9ee6ae7cbfb5d767b987e3a815b337",
+    "0b3d13d6377b7c93505a80c83879b318",
+    "6a43874e0fb888e3f5fb73c270466acb",
+    "ad1b2953937db42a60136e7e3ce2e04a"
   ],
   "transfers": {
     "pages": {
@@ -21324,6 +21324,26 @@
     {
       "t": "acknowledging arrogance believes bet continued enemy every invests new not post says strauss success take that threatens two while will work zelnick",
       "ts": 1794526578.0552988
+    },
+    {
+      "t": "2 access adding additional appeared character during early first insider major making modes new now post releases slay spire two updates",
+      "ts": 1794526582.981059
+    },
+    {
+      "t": "13 blast each falcons g2 mouz november open paris playoffs plays rivals round stake start times vitality what who worth",
+      "ts": 1794526586.4747694
+    },
+    {
+      "t": "14 2 2026 8 bilibili brooklyn date ended final format gaming gen meet november paris preview route semifinal t1 that time worlds",
+      "ts": 1794526590.0292017
+    },
+    {
+      "t": "11 15 2 2026 blast bracket hong kong november paris results rivals schedule scores season start times tracker",
+      "ts": 1794526593.602345
+    },
+    {
+      "t": "2026 8 8217 boosts bungie coming december detailed expedition experience explained extraction flash game has look marathon mode more new permanent pve rewards run series shared symbiosis traditional unlike update",
+      "ts": 1794526597.051939
     }
   ]
 }
