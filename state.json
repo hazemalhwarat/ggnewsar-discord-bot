@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27411/lets-write-a-happy-ending-together-the-story-of-nikkes-old-tales",
-    "https://www.invenglobal.com/articles/27410/just-days-before-event-uma-musume-la-tour-canceled-due-to-visa-issues",
-    "https://www.invenglobal.com/articles/27409/indiecraft-hosts-awards-ceremony-for-this-years-k-indie-games",
-    "https://www.invenglobal.com/articles/27408/the-ruins-of-lordaeron-arthass-homeland-above-the-undercity",
-    "https://www.invenglobal.com/articles/27407/pok%C3%A9mon-2027-korean-league-season-1-kicks-off-october-24",
-    "https://www.invenglobal.com/articles/27406/the-genesis-war-mobile-introduces-new-character-beta",
     "https://www.invenglobal.com/articles/27405/korean-indie-game-spookitchen-pulls-demo-over-ai-copycat-concerns",
     "https://www.invenglobal.com/articles/27404/emtek-launches-2-slot-geforce-rtx-5060",
     "https://www.invenglobal.com/articles/27402/archeage-chronicles-tops-next-fest-demo-charts",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/28523/vindictus-updates-forsaken-isle-of-the-war-god-for-up-to-8-players",
     "https://www.invenglobal.com/articles/28522/romancing-saga-3-destinies-united-to-launch-12-days-earlier",
     "https://www.invenglobal.com/articles/28521/counter-strike-online-adds-new-transcendence-class-airi",
-    "https://www.invenglobal.com/articles/28520/pearl-abyss-q3-operating-profit-drops-70-qoq-to-207b-won-as-new-title-boost-fades"
+    "https://www.invenglobal.com/articles/28520/pearl-abyss-q3-operating-profit-drops-70-qoq-to-207b-won-as-new-title-boost-fades",
+    "https://www.invenglobal.com/articles/28519/com2us-holdings-swings-to-profit-in-q3-with-operating-profit-of-48-billion-won",
+    "https://www.invenglobal.com/articles/28518/eve-added-judas-adjusted-plus-summon-and-growth-support-events",
+    "https://www.invenglobal.com/articles/28517/gta-6-came-close-to-rating-refusal-in-south-korea",
+    "https://www.invenglobal.com/articles/28516/winter-events-grant-epic-to-primeval-gear-cutscene-skips-added-to-engraved-nightmare",
+    "https://www.invenglobal.com/articles/28515/g-star-2026-to-hold-online-showcase-on-the-eve-of-opening",
+    "https://www.invenglobal.com/articles/28514/mystery-adventure-killa-to-participate-in-g-star-2026-indie-showcase"
   ],
   "title_hashes": [
-    "f2d470744ad121890d5f6edc6afc0233",
-    "ecc0fc91ca0e33a48fa2d24d7b3a6fcf",
-    "999a14794a91a1cf2bdaf8bd451de8f0",
-    "3a09443d76ef54ca69be2e9ccd492871",
-    "6d614dd6113b30541071885d97d4610b",
-    "8ba8b5acf001f1b027b06f8468d1f538",
     "4edbb26280eea5ab4efb7a3fbcf64f30",
     "4ef0569575cfefe27b645c7851a5b653",
     "df64ff52184cf85d7723e1c640688f05",
@@ -16001,7 +15995,13 @@
     "a43faaf4f7f0f4f2fa44585a4dd5b45f",
     "db661fdcc68e6e0087fd060498b50482",
     "392345f8952674e1e0118713380f896b",
-    "3ddc65534a6cfa3f95f6f584761a1f58"
+    "3ddc65534a6cfa3f95f6f584761a1f58",
+    "b9a1f9f8690a49ebef827da31b3b9ef9",
+    "ce8e41e8e23acb15d3629d99e3430697",
+    "4bdaad1772357cf895717d04679a9a2b",
+    "5459ec9bc75c76ab3a17db9f304cfce4",
+    "ddc304a73f46e06194e94d6db8ec4db6",
+    "86580e18b7bd6328d249639e30556b3b"
   ],
   "transfers": {
     "pages": {
@@ -20944,6 +20944,26 @@
     {
       "t": "12 20 2026 2026topic 70 7b abyss amp boost current date drops fades financial future new november operating pearl profit q3 qoq results status strategy summary thursday title won",
       "ts": 1794477739.74249
+    },
+    {
+      "t": "1 12 2026 25 4 8 announced billion com2us consolidated disclosure holdings november operating profit public q3 quarter recorded revenue swings that third through won",
+      "ts": 1794477744.9145515
+    },
+    {
+      "t": "6 auto been came classification close confirmed during grand gta has hereinafter its korea rating refusal review south that theft",
+      "ts": 1794477748.4101026
+    },
+    {
+      "t": "added cutscene engraved epic events gear grant nightmare nov primeval skips thursday winter",
+      "ts": 1794477752.5636098
+    },
+    {
+      "t": "12th 18 2026 announced before committee day eve has hold naver november one online opening organizing premier selected showcase star stream that will",
+      "ts": 1794477756.0072846
+    },
+    {
+      "t": "2026 adventure black development game indie killa mystery participate showcase star tangerine will",
+      "ts": 1794477759.5141306
     }
   ]
 }
