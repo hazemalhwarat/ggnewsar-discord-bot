@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/mortal-shell-2-free-seasonal-update-rotten-autumn-adds-photo-mode-new-dungeons-and-more/",
-    "https://insider-gaming.com/pokemon-tcg-pocket-dual-fusion-set-revealed/",
-    "https://insider-gaming.com/modern-warfare-4-campaign-plot-walkthrough-ending-post-credits-scene-explained/",
-    "https://insider-gaming.com/gta-5-among-10-games-leaving-playstation-plus-in-november/",
-    "https://gameriv.com/marathon-update-1-1-9-5-brings-vault-breaker-economy-changes-armory-updates-and-c-a-r-r-i-s-return/",
     "https://gameriv.com/ps5-firmware-14-10-reportedly-jailbroken-days-after-sony-made-it-mandatory-for-psn/",
     "https://esportsadvocate.net/2026/10/virtual-bundesliga-ultimate-team-pegi-16/",
     "https://www.hotspawn.com/counter-strike/news/best-duct-tape-gloves-knife-combos-in-cs2",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28536/jensen-huang-resigns-as-nvidia-ceo",
     "https://www.invenglobal.com/articles/28542/paradox-announces-hearts-of-iron-iv-expansion-pass-3-with-us-rework-the-giant-wakes",
     "https://www.invenglobal.com/articles/28541/warhammer-40000-dark-heresy-gets-physical-editions-for-ps5-and-switch-2-on-april-30th-2027",
-    "https://www.invenglobal.com/articles/28540/umamusume-pretty-derby-becomes-first-founding-partner-of-the-2027-f1-japanese-grand-prix"
+    "https://www.invenglobal.com/articles/28540/umamusume-pretty-derby-becomes-first-founding-partner-of-the-2027-f1-japanese-grand-prix",
+    "https://www.invenglobal.com/articles/28539/wuthering-waves-version-38-is-out-now-with-new-resonator-lily",
+    "https://www.invenglobal.com/articles/28538/cinder-city-sets-december-4th-steam-closed-alpha-with-a-larger-open-world-and-two-new-dungeons",
+    "https://www.invenglobal.com/articles/28535/azur-lane-launches-25-dimensional-seduction-collab-with-two-free-super-rare-shipgirls",
+    "https://www.invenglobal.com/articles/28534/sky-esports-win-g2-x-pubg-mobile-community-tournament-on-a-dust-ii-inspired-map",
+    "https://www.invenglobal.com/articles/28533/nc-to-hold-closed-alpha-test-for-cinder-city-dec-46"
   ],
   "title_hashes": [
-    "7ccb76a4a57bcecc623064334e93d89d",
-    "74ff656c657e6d68b4e3c63afba5afec",
-    "a37f4caa0371483b0872bb71714baddd",
-    "39d58852661628c7d9448f533826d74e",
-    "f7ea0d28d71852a951a8a797e932c4e3",
     "a6d19384e7abd24bc858359edabd475f",
     "add20b683e3d457014bf67399f481f61",
     "5ec0a44cf8c3b4e941b2a835f6c9131b",
@@ -16001,7 +15996,12 @@
     "c025d240cc2711eb6b41947855c65b68",
     "d69357bc12f47ed322592f45f7c3bb8a",
     "f623c56e480e7ed720e7c48682b731b3",
-    "5e73fb997dcc28e9f8f4ec3c04a41c0f"
+    "5e73fb997dcc28e9f8f4ec3c04a41c0f",
+    "dba629d517178302bc4444480cd59d82",
+    "89fa8187fcf848369de2f2de2494a452",
+    "c597275133cbff6e006c51bb406225bb",
+    "5b859595c4690020c925a2da2ff55c3e",
+    "669e4260fbbe587970aa86c7a0c9a8ea"
   ],
   "transfers": {
     "pages": {
@@ -21076,6 +21076,26 @@
     {
       "t": "1 2027 announced becomes bought cygames derby f1 fia first formula founding game girl grand has horse its japanese lenovo naming partner pretty prix racing righ that umamusume",
       "ts": 1794506608.1926472
+    },
+    {
+      "t": "3 8 action adds challenge dream dying free games has hologram its kuro launched lilies lily major new now open out play resonator rpg tactical that update version waves world wuthering",
+      "ts": 1794506613.8039153
+    },
+    {
+      "t": "4th 6th adds alpha announced big build cinder cinematic city closed december dungeons fire four games has its larger new open sci second set sets shooter steam test times two upcoming world",
+      "ts": 1794506617.320152
+    },
+    {
+      "t": "2 5 angels anime azur called collab crossover dimensional event free games has its lane launched launches manga mobile naval rare seduction series shipgirls shoot showtime stage styled super two yostar",
+      "ts": 1794506620.838676
+    },
+    {
+      "t": "125 500 amateur amazon card cash community dust esports g2 gift has home inspired map mobile pubg sky taking team tournament win won",
+      "ts": 1794506624.3959975
+    },
+    {
+      "t": "12th 4 6 accepting alpha announced cinder city closed dec have hold its officially opened page sign steam test that upcoming ups via",
+      "ts": 1794506628.1366227
     }
   ]
 }
