@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27400/duet-night-abyss-releases-version-17-update-towards-the-dawn",
-    "https://www.invenglobal.com/articles/27398/golden-joystick-awards-2026-nominees-revealed-featuring-crimson-desert-and-dave-the-diver",
-    "https://www.invenglobal.com/articles/27380/visitors-underground-world-of-warcraft-forevers-new-dungeon-hall-of-thanes",
-    "https://www.invenglobal.com/articles/27403/archetype-blue-a-korean-deckbuilding-rpg-heading-to-steam-next-fest-with-intricate-pixel-art",
-    "https://gameriv.com/ludwig-says-shopify-rebellion-should-abandon-valorant-completely-after-vct-partnership-rejection/",
     "https://www.vlr.gg/777970/cloud9-allows-v1c-to-explore-options",
     "https://gameriv.com/revamp-developer-calls-public-playtest-too-big-a-risk-amid-ai-cloning-fears/",
     "https://gameriv.com/halo-burn-the-road-home-cover-revealed-new-novella-arrives-in-2027/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28512/seven-knights-rebirth-adds-new-hero-eve-in-15th-anniversary-update",
     "https://www.invenglobal.com/articles/28511/nc-reveals-astrae-oratio-booth-layout-render-for-agf",
     "https://www.invenglobal.com/articles/28510/end-game-cals-seal-of-survival-appears-exchange-market-price-overview",
-    "https://www.invenglobal.com/articles/28509/girls-frontline-2-celebrates-2nd-anniversary-with-koleda-asteria-and-djmax-collaboration"
+    "https://www.invenglobal.com/articles/28509/girls-frontline-2-celebrates-2nd-anniversary-with-koleda-asteria-and-djmax-collaboration",
+    "https://www.invenglobal.com/articles/28508/nexon-to-hold-steam-test-for-new-mmorpg-embers-of-the-uncrowned",
+    "https://www.invenglobal.com/articles/28507/continuing-the-witchspring-universe-first-trailer-released-for-new-rpg-shade-of-the-marionette",
+    "https://www.invenglobal.com/articles/28483/lineage-m-2nd-week-of-november-limited-weekend-special-crafting-info",
+    "https://www.invenglobal.com/articles/28481/eikichi-iwai-bassist-of-final-fantasy-xiv-band-the-primals-has-died",
+    "https://www.invenglobal.com/articles/28480/crashies-rejoins-t1-for-the-2027-valorant-season"
   ],
   "title_hashes": [
-    "e3e1375ee251a34fb1011901f137c411",
-    "557cd9bbd8122d2f9b7b26241b95211c",
-    "e4837a661464ad852af93b3977ef26ca",
-    "2d5963f9604de54b87e23608e771cad0",
-    "1cf1102a614fcf786828f47834b1b33c",
     "7f4f9981a8fe9985078ffadd2eab5b7c",
     "818120705195104d0b78764ddf3c0602",
     "bbb2453bf71b24b5119a1f5fcdd0b583",
@@ -16001,7 +15996,12 @@
     "d4e8213ead2c6b14c150b7682124cc76",
     "f2fd947e9b3be1c03c885c8e582f381f",
     "08f27b61a2ccdacc8919b8ca2da2764c",
-    "f51a749a885b2538d02b0c3d001bf477"
+    "f51a749a885b2538d02b0c3d001bf477",
+    "caade71e6c69ca47bf15f2ff733b15f4",
+    "028f3665cc56bffa74a3a58ceee9af6b",
+    "56100e60f6c0ebe9f8b8aa70f9598f49",
+    "bd1fa4bca72455a8c8d699de802b8855",
+    "7b55127a220478be14f395f846e1493e"
   ],
   "transfers": {
     "pages": {
@@ -20984,6 +20984,26 @@
     {
       "t": "12 128226 2 2026 2nd anniversary asteria celebrates collaboration date djmax elmo event exilium frontline girls global haoplay koleda live nov november presenters preview producer revealed stream today yuzhong",
       "ts": 1794477779.9442196
+    },
+    {
+      "t": "11 12 4 able announced cla december embers experience four global hold kst mmorpg new nexon november players regions six steam test that this uncrowned will",
+      "ts": 1794477784.9977114
+    },
+    {
+      "t": "continuing first has kiwiwalks marionette new released rpg shade trailer universe witchspring",
+      "ts": 1794477788.5855594
+    },
+    {
+      "t": "00 04 11 13 18 2nd 30 crafting features info legacy limited lineage morph november pick special supreme wed week weekend world",
+      "ts": 1794477792.0346024
+    },
+    {
+      "t": "band bassist died eikichi enix fantasy final game has iwai official online playing primals rock role square suddenly xiv",
+      "ts": 1794477795.6036894
+    },
+    {
+      "t": "2027 after american austin back bringing crashies has him its organisation player rejoins released roberts roster season signed six t1 valorant years",
+      "ts": 1794477799.1376882
     }
   ]
 }
