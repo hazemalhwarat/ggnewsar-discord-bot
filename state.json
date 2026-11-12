@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd3hIN3Exb0REX0hOTW9ESzNpYUFTTEJ3R3NUR2RFd3BFclhTeEVQaVpHSEdHWVR6TjNPNGh3Rk52eFJMMzFFdHZaWUdwb0drakRJR0VYdExIX2xUSTFZSVNGOEtNOFdWbmdoT3g4OUdaMEFkSGliU1V6UHd5S0UtVDJVVDJKd0tNcVplNERKY0dPMTFl?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE03T0xGMENZamh4Z08wbG5FdFBFWTZIdFlHZWtoem13MUpjSlRkVlhhTXF4MWNibF9jNFVnT1lvZmFrYW1nb18yNFVYVi1ja0RGODhyTVZna0tqTnNlaFh1MDlZR0doV2tzNmo1S3lNUlBmdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkFQWU9BcDRpMDVFbEVldWw1OUlERW1vdnlsMk5XRy1iekJSN2RySTVMY1BqRDJEaTFtaVJGbnc2YXdpMEEzOWlrdDA4VVZ0VU5nbzZ0Ny1aRW1QcGxtMElGSy1CSElhakdYS2xUODE5U2EzRlVPb2Q5U2JHWFZUbmowT281U3h3a0RBWG9MREN1LUs1aE1jcjB1cnRwTG5IejQ3VGw1dGZPdw?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEM1M21aR010c0ptYWFQelpPS29uRG95YjRldGpvUDlCUVJraEp1U05sVWctVVRsbWY3blQwR0hKR0lMRlNueUJjMGRtdmQxNVdlQ1JEdWNlak5GZXVhQlQ5Y1IzVkxSX1J0WjU0RGhEOTFGV1JlZjJHTXNrbFhBOVhZeFpoVVdjUEVXUFpGamRhNXFNMWJV?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbXpHMDIxQ3U1Ym0yYzJ4T29EOFpXS2dHa1J2cXFfNzd5U3lYOTB0Rlp4V0lKc2tUdEthdGZleFFuVGQzbDhpdEJBZ2o2WlRFckFQM3BTM2ZZNFpHQ3p3Q1JtWVlLOXlsSlhTUm5KREFEMTUtTGpWSEhYdUtWeTNaaDZaaUFVMElOWTRFQXoyNXZwanhWMnNvX1VFNkZadjU5WWlwQ2lRajZWQ0dsTWE2OGRvNkxkWF9vS05WRkxuOHJhSWtJcENhMzJKWFo?oc=5",
     "https://www.gamesindustry.biz/japan-actors-union-announces-guidelines-addressing-unauthorised-use-of-generative-ai-for-voice-acting",
     "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
     "https://www.gamesindustry.biz/gdc-festival-of-gaming-2027-moves-to-four-day-format-to-create-a-higher-quality-more-focused-and-valuable-experience",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/mobile-gaming/garena-free-fire/booyah-premier-league-season-2-teams-owners-auction/",
     "https://www.talkesport.com/news/pubg/pic-2026-league-stage-groups-pubg-india-challenge/",
     "https://www.talkesport.com/news/cs2/cs2-update-frost-mechanic-snowy-cobblestone-patch-notes/",
-    "https://www.talkesport.com/business/nvidia-employees-blind-survey-jensen-huang-stay-ceo/"
+    "https://www.talkesport.com/business/nvidia-employees-blind-survey-jensen-huang-stay-ceo/",
+    "https://www.talkesport.com/news/cs2/m0nesy-forbes-russia-most-valuable-personal-brands-2026/",
+    "https://www.talkesport.com/business/nvidia-elevenlabs-nemotron-summit-jensen-huang/",
+    "https://www.talkesport.com/news/gaming/katsuhiro-harada-xbox-series-s-criticism/",
+    "https://www.talkesport.com/gta-6/gta-6-realistic-footage-miami-only-in-dade-rockstar/",
+    "https://www.talkesport.com/news/gaming/x-android-screenshot-button-gaming-news/"
   ],
   "title_hashes": [
-    "d719bd2c49b85db8b91e000cb2636e4e",
-    "876055905d1e2d1198f841ea33493f86",
-    "0aeb81a3a7cdd3de3cbc092bb3d074fc",
-    "4a27b109971498412242b43feae8a53f",
-    "97cafc6a12be9dd974895083b9f00231",
     "56d0cff01d6bdabd0c092cb79c554555",
     "004b87fa56d043c4022e05af393c20c2",
     "f692a3b35fa4845368850438f68b4071",
@@ -16001,7 +15996,12 @@
     "96276f1a0ac775feb218d77d693984fa",
     "6d3edfc27c88b5a18db9e9b386fa5de8",
     "d370bb2ee1e12f03bb6a45538fb9f9fb",
-    "12feacb52eaaa15a89efc2c3609c5ee0"
+    "12feacb52eaaa15a89efc2c3609c5ee0",
+    "9e0cad9002cecbfe3b819f151b0803a4",
+    "2eb9b4e7352baa68455cbac7d76c4ecf",
+    "64abdd94d35209059f9d971d1686cb1b",
+    "7b75e630786301ac6561d39cfa201f70",
+    "ec09febf34f8a041a336a78837768244"
   ],
   "transfers": {
     "pages": {
@@ -21124,6 +21124,26 @@
     {
       "t": "88 affair before blind but came ceo could employees him huang jensen nvidia poll post replace report second stay survey want who",
       "ts": 1794477914.189398
+    },
+    {
+      "t": "14th 2026 24th 30 among athlete brand brands esports falcons forbes islam led list m0nesy makhachev most names only player post ranks russia star valuable",
+      "ts": 1794477919.2560334
+    },
+    {
+      "t": "agents announced before deal elevenlabs expands game hours huang into its jensen matters models nemotron nvidia ouster post put report skipped summit voice voices what why",
+      "ts": 1794477922.7272115
+    },
+    {
+      "t": "another asks been criticising director former had harada its katsuhiro make microsoft never performance post released said series tekken veteran weaker wishes xbox",
+      "ts": 1794477926.1836805
+    },
+    {
+      "t": "30fps 6 actuall actually clip dade fans fooled gta into just means miami only post posted real rockstar shared shows street thinking this until video viral what",
+      "ts": 1794477929.697701
+    },
+    {
+      "t": "andro android any button can fake gaming has hidden how leaks menu news not notes patch perfect post roster saving screenshot share stop use why will",
+      "ts": 1794477936.924505
     }
   ]
 }
