@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xOVFLYm83YVZNSjV1V2RIby1HMUZIakdYUUtmbFB6b3YzYS1YczJYWm9UNllKaDROY3RDZ1NiOGZjT08yRkdmRkg1SGJpZU5qT1pvRzFoMUtiYzUxWFlfcWtXSHBZRGNXY1Vv?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBxS2xRR0Y2NXdfczRBajZ6QlhLQXJTb0lfVG1nWjZCWGdtcThuRFNfU3kyN21Vb1cxUjZmR3pPWVp4bmxLQ0toRHVQVDRjM05hdy1mZXVNZ05vNVZJY3ktVHZjdEpGbUlBT3I5b0NLV2xVQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVmN5YmpvWWpYazdFa0ExWVlrQ0dLYU4yeFgzRElTTG1sODA1V05FUTlQTEhYMFlpcTZWSE9FQjBHTWtQaWluTkRGdk9NWF9EN3BYRjNSajFvR1M5cF9Fb2h3a0hRelRSRndLemFkMTZQSDl6MllNMG8xcGVFS1NKT3M1N2RJV3dQLVd5YXc0VDk2bmxwUk9CVHNHSHlvRDdSWnhjcjdHS3E1SUt5a21HeWdn?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiaUpoVk96SVI2SHFBcjQzRF80aHBOTjVlaGg5RVNXeTdzSzdsM283WGRqWVlNVWVhSWkxRW5Fa3dCd1NkdUpxcEdMNjZhNlh0OGQ3cFB6X2VBX0lMTXZhVE5MdkFpRjdqMTAwSUQxV1RxVHFj?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWExoLXdVeFItdkF6Z1A0em1PRWFNTHNpamFlNkx4WnlhU1kxaVZHTE1NN2JWTXpRRjhJZ3UtS2pWaWJIX0JWMkp5RTRUU192Z0IwbGlVa1BLY2lsb18wbW15OE5zWG43SFF5SjBqVVBXMkVDYTBCZW0tak0teWRfbnhjbFY5dDBURTRtV19SRlhjQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbThYVThoN0ROSzdPb091SjNGdFVabzNmQTIxNmcwMlBTQjlwd2htN0syR3FSSXJPcWUyRF9mRWF0UEZjcDFxb3IxdnlvQ3ZjdHQ4YUlsYWxjV1lPYUdBRzdwazdfNk1qV2xRS0ZkUkg0MV9JZU5mVVZZUDg0aXpCeUt5cGg4M0VSaHM2WjBiMGFDcWIyMlpHWFNpalA5SlNya0JFRA?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVo3bmM4RUR2QktfdjBBT2hQSFQtUThRYkExVE5zcHlYNzlqNjA0Yk1MbVBDU3FoSXFVQlhxRjNyUHJ3WjQ2dlRoSHNRVUhNbXRIRC1rS2JHTDJURVA4S1BNanNnUTE5aG10ZElRRi14MTM5Qk5CekZGWG5nelV3SUIxY0xBTm5VLVZJdkpGV0VYTG5kdzRfelhKQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDNmNzVmalJpcmRUS0E1MFloMlpQeFVtTXN6cGRLNW1fbU9FaFFBMzlkbVFhVmp2MjVtcGVRNnkxbmVpVVFzSHdqTzNFdnFEbllQdmY3OGNTc0NFbUxWODF5MDFrZHoyTE1YRm9vOER0ZVBiZVAyZ3ZwcUQzZTQtVE9nQ0pVU0gtM2h4cG40RXg1LU9iSzc5VGlWMFI4WTVv?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0MzWmplRHpuQkgxRXIwRlB3X21HWFlWWnlhU05wSTlWZTc2UTk0cW9Kb3hMSU9naWlzSTJDRzM5WDhKbmpWRXh3MTFJaG1yX241ckZrdkJaUTBuRjVkcV8zSVBhTDQxeUViMV91R2VEdGNCM2JOU2JpUTBlbUNHdGpvNTgzZXpidGpIUk9Ca2E0elBmeGc?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmloRlhTaWFfV0ZEV2VNdzZNaEpMeWJYd2N3Y1pVdGYtSDRQY0NnZ3RrSUp5eTVMOTBRdVNNd1pMSEY1WnhNQm1kMUVqOXBhWkRka2JnR1FMbXJSdG9KQjlsZlhwOFZBWjZIaEt6MS05WVdJVHpqT01mT3U5VmRRZGNoMklxVUFiYi1oVVh1d3VTSE13TFhnVjdCZVNOdw?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3BtekdSa2xXeU5yeklJamwtMk1US0VzZzhiWmhYc2I4RnJhUE5mQ0R5ODR3OU1YWmdfOTlSUHpUbnd3aTdNQ21pV0lqMHFRbnZDYWJwVFpXS2w5emdoOEY1LWhtTzZnYTl1YkdEQ1pIajlkMzMtQjY5MzFzRUJZTEl1ejZiT2FmQjViMi1UcExQUm8?oc=5",
@@ -7999,17 +7991,17 @@
     "https://theloadout.com/solary-just-signed-toffe-and-only-one-seat-is-still-empty",
     "https://www.hotspawn.com/valorant/news/t1-tenz-crashies-sacy-2027",
     "https://www.hotspawn.com/dota2/news/1win-essence-iii-power-rankings-back-to-back-tournaments-for-spirit-or-not",
-    "https://www.hotspawn.com/dota2/news/1win-essence-iii-play-in-results-which-four-teams-made-the-main-event"
+    "https://www.hotspawn.com/dota2/news/1win-essence-iii-play-in-results-which-four-teams-made-the-main-event",
+    "https://g2g.news/online-gaming-laws/forged-high-court-orders-used-to-block-129-illegal-betting-websites-in-india-reveals-reuters-investigation/",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLUY5TFhvalZxYjVFVXF6bjd5OFpNQWs1czhlMnF5QlprYTNjUW5XSFR2X185Z3N5a2hQZU9tVHNqUXowaDU5cEJNckhqd0gxaWVZZUppejU5d3dMQzFfNkxfMGlkWjNkYXN6aWMwaFp4YUpzTi1odElPQnlPRTljWnVDNTViNEg5OUE2M3FxWkI?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TU2wycmltMlRMVEZGRVNPZHV5eEZObG9pTmZqVUNxTkJBUWNyNWN5NnBkeDZVblRxekJMQWlLSnBNdVVOQkVySmNfTzJyc1lYZlZr?oc=5",
+    "https://europeangaming.eu/portal/latest-news/2026/11/12/217875/isle-of-man-gsc-aml-guidance-b2b/",
+    "https://europeangaming.eu/portal/press-releases/2026/11/12/217869/booming-buffalo-hold-and-win-extreme-2/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/12/217863/ballys-intralot-q3-2026-results/",
+    "https://europeangaming.eu/portal/press-releases/2026/11/12/217858/feedconstruct-dbbl-data-streaming-rights/",
+    "https://esportsafricanews.com/africas-comic-revolution-celebrating-the-artists-bringing-african-stories-to-life/"
   ],
   "title_hashes": [
-    "6726a7787a9b06efb84646ede496509c",
-    "78b8271e5c28177d585a394e62fb1d94",
-    "4047242fcfafb9b6ac394e0e7b6e6ba1",
-    "37edf78e4f8b19a5dbc587cd5685e17d",
-    "bc40b2a67fa1ae61eedcab04f0dc2836",
-    "a3963e4e52d01c69d25f6cd7763f530c",
-    "d25388a731ba737ff32d82818860ef05",
-    "2dfa0be21abf7931995d17521f7e5d58",
     "0c3fbfe14e37f7adcbddbdca6142de8b",
     "7480e0c8cd376ecb7b957a8356724eb3",
     "cecc6d7c77a346fddcc7f7ed678c4a7c",
@@ -16001,7 +15993,15 @@
     "5cd7bb610fdbcfd4df68bbeebaefaa95",
     "9843c86ef6379b0d6c6c373b213822e1",
     "33c8e187b7dc3f3b16b2aa8021e8cc21",
-    "a43900dab4b5202bc1fd0c70847b718e"
+    "a43900dab4b5202bc1fd0c70847b718e",
+    "d3634d67b83f5be6cc660009a7567def",
+    "9ce725807d3936c8e1a3337c2334f64d",
+    "5ea1266cbdc333dde3d2eef4cd3c8817",
+    "73a4739646024416149d7ca7d0ca9709",
+    "2518aec778c8c5d408ae34dcf577f38b",
+    "022e27ef925b9f34cbdf34d884b87b89",
+    "6f6b2e979c2df55822b6ea4527e7557c",
+    "7787426cbea7e225d739c82fc0dc136e"
   ],
   "transfers": {
     "pages": {
@@ -21064,6 +21064,26 @@
     {
       "t": "000 1win 250 all currently determine essence event four iii instead inviting made main ongoing online play results squads system teams this tournament used which woul",
       "ts": 1794477856.224716
+    },
+    {
+      "t": "129 across allahabad basis betting block blocked cou court few forged high illegal india investigation issued judicial least months online orders over past purportedly rajasthan reuters reveals used websites",
+      "ts": 1794477861.2698913
+    },
+    {
+      "t": "8217 8230 aml b2b come corporate focus group groups gsc guidance island isle look man operators partners post regulator risks structures suppliers that through updates wants",
+      "ts": 1794477864.6660604
+    },
+    {
+      "t": "12 2 40 8217 8230 after appeared bally bidder britain despite duty evoke faster growing growth hill intralot its online post posts q3 rise still takeover tax william",
+      "ts": 1794477868.0925145
+    },
+    {
+      "t": "2026 8217 8230 continents data dbbl exclusive feedconstruct germany global has joins league leagues post rights secures several signing spent streaming supplier that top women",
+      "ts": 1794477871.7135682
+    },
+    {
+      "t": "africa african artists book bringing but celebrating comic creative global life redefining revolution stage stories storytelling zimbabwe",
+      "ts": 1794477875.1645977
     }
   ]
 }
