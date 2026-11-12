@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZdE5CNXJsMko4Q2pDc0VhSlEyNmdCUzN0czZFUzJOb09SY0EyWUVQVVNIZHNQMWlQdlprdWo3ZDgxd3NyaFNqTnE0Vkd3ZXBDdDFtSGZGcGU5dzlfS2V0c2VBTWxaNDdENWRvSmdLT1I?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOODl5eFRIQl9QNFpoNWVQUDBsSnZQWGZFOUtOSUJQMFVaVktHdlFFQWl3SkJxT29NQkJSVjhnZFVwaVhhTEtJbXBTc1I2U1NiNlpnTzhBTnI5TlkwVkQ1bGVJTmpjT0V1Vm1ZU0lDNGIwVm4wMmxBMDJZdGxhdTB0VHpTYjZsNUFrWUl1N3VXTmR1Nzg?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZjZjel8wa1pZRU94RHZRWDZpOW56MEhxMnNIT3RXQ3BQbG00ZnJhV093dTVFZE5BTlVaTWFlRXlWRll2dk5sb18tQjE3ZzA4RGR5UEhWZUFHWEF3cE5kc1ZFTER0aUlzbVNYLUgzWW4zUHVBMWZITUtGa095bnV0M0J3WGNXMFU?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2tuRlBnczgtM1pTbEFBNl9zbllFZ1Rkcy02b1Ric2hDcU5mb2FqOUJVQ3p4Wm9JcDdQaHBLb1BVcGhXMXVnRVNtSklFaXpRWTUyUVZleFZwSUphYXJwUDNQSG0yWW5GYkVDMmt5UENxTDlDU3BhQTVieC1heU95MkxHTzA5bk9QZzVhbnRRTVlvZ3BZOEt5aE5pQVU?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVzBFV3hWUGxnT2NVdWVnQTNfdjRwMXRzSllTZEFQZ3AzS3hGemFLcDdCallSOE9QVnRUSFlJd21UcDZQdDFkZlZjTjhLaEVjWUxvQXBWdVlHUDc4cFFYY1AxZm1hal9FSjVNaGpOWHJDeUlXWXI3YmVPSzdTQURRWEJBaw?oc=5",
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TeEk0SmRiMmlUQm5iaVFFMElCQTBzdW9vWGRKVVQ3eUN1Zm5NWnpEWEVmTWJ4WGZzS19yVk5GSXlXNUlGNGc0OERrRWhYaDNFdTY3d3VCazFTV0Z1RE00Vw?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wQUFvdWJyaU5TYmcyMlNyZFRXV2NtMUlaU09UeWZyQTZCUGlSaDBseWl3eFZpSkNvdTRGUEZYbFlyNXF4QkZOa0wxcWFtakpYS2MwTFZfUHJzTFJob1NtYU9Lc1ZFd1c4?oc=5",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb0o4dzRpLXhlZ3J4LWZiZUpfWDNncF9xOE5GcjNHLXpoYk1DcElZeTdhbHZENk51WE9wY1JJcTR3aC1UWmpVNmtqWmhxMFBGd3k3S1JuZ2JHLU5sZFo1U0pXbkF6eFhFQmU2RlEwSmZrTVFhZkVGNFdXT3NEN0ZnYVFqaEY4WjJrLVNJTTVHSll2RU9xX2I3QVV0bEhLNTZ3Q3lxZFdtak96eGVhZUNQbFBSa0dtNF9hZjNPaU4yN0RIcjg?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZERBUnp4Q0Nna3dPRklFeWhieHg3eE51WUtPXzBoT2dEMXRtdlFza2lmMnlsclpEQ1VjcmFQNUdMdm91VGZ4R1FTcjNXUlhzQ1lFREVIZEZqRkhfRVN5a09CUWhINWNHaFkyRk9TVWdrcXJJWTlCcWRWb2Ixa18tUExzV2NpNFFWU0NPeDlLdTN4WENYOGJpcFlYV081R2NELWZlX0NWSzE1cE1yZ3dSTnl1ZUJhb0xsc2U1S0JRQTRjc3d0MTNlM0N3?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xOVFLYm83YVZNSjV1V2RIby1HMUZIakdYUUtmbFB6b3YzYS1YczJYWm9UNllKaDROY3RDZ1NiOGZjT08yRkdmRkg1SGJpZU5qT1pvRzFoMUtiYzUxWFlfcWtXSHBZRGNXY1Vv?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTFBxS2xRR0Y2NXdfczRBajZ6QlhLQXJTb0lfVG1nWjZCWGdtcThuRFNfU3kyN21Vb1cxUjZmR3pPWVp4bmxLQ0toRHVQVDRjM05hdy1mZXVNZ05vNVZJY3ktVHZjdEpGbUlBT3I5b0NLV2xVQQ?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVmN5YmpvWWpYazdFa0ExWVlrQ0dLYU4yeFgzRElTTG1sODA1V05FUTlQTEhYMFlpcTZWSE9FQjBHTWtQaWluTkRGdk9NWF9EN3BYRjNSajFvR1M5cF9Fb2h3a0hRelRSRndLemFkMTZQSDl6MllNMG8xcGVFS1NKT3M1N2RJV3dQLVd5YXc0VDk2bmxwUk9CVHNHSHlvRDdSWnhjcjdHS3E1SUt5a21HeWdn?oc=5",
@@ -7999,18 +7990,18 @@
     "https://gameriv.com/the-legend-of-zelda-ocarina-of-time-water-temple-walkthrough/",
     "https://gameriv.com/apex-legends-winter-express-may-finally-return-with-a-new-format/",
     "https://gameriv.com/tenz-officially-joins-t1-valorant-roster-returns-to-pro-play-after-two-years/",
-    "https://www.vlr.gg/789198/the-king-returnz-tenz-returns-to-competitive-play-with-t1"
+    "https://www.vlr.gg/789198/the-king-returnz-tenz-returns-to-competitive-play-with-t1",
+    "https://www.vlr.gg/789186/paura-retires-from-competitive-play",
+    "https://www.vlr.gg/788631/team-vitality-finalizes-2027-coaching-staff",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0hnMHZCTlZCNVJ4QVdnQUpXUS1uakJqM21MT0F1WllhUWJEMm9KYks2SThWTmpsX1FZQ01uZFM3MGJLdjNCNHAxcG9RMDJmcjdPaFBQclJYQUtybFpEQ3NaOHJRNjM4cnJZZ0RBQ1l2YmpDMk53dVROd21vNmlELUpZSzlOLWdwMlM3WmtJUTJScms?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXpUaHVaM1NEY1Q1dUVyXzJlREZpa1UyeWlHc1dWNlVrTHdhUTJMY3RfX2RvZVNiSVZDOVF1LWg0NmF1OXVlYlJEV180aEJScFNFUU1fOXVaWXRhaXZZWE93MWZHbzRJQlNpeUppRWJTaUN4UnhzZHpQamNia25QWEhfUnNfRVllRmpjQ0pn?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGVIMF9veFFPdmU5MWp3dWhhLXg5UDlUdWhXd0k4UEpQNmlVMnJxNmJBWWZlVk5vamQyMDVIY3Qwc3c3bUtJVGlSamdGXzI5bkx3Z1h4UFVtYXhYZjZrQ05udi1icVJLTFhaRmtwX2RfUHRHa1o3Q0VoVEJtYS1xOWc5emR5LVhnak5hYQ?oc=5",
+    "https://theloadout.com/solary-just-signed-toffe-and-only-one-seat-is-still-empty",
+    "https://www.hotspawn.com/valorant/news/t1-tenz-crashies-sacy-2027",
+    "https://www.hotspawn.com/dota2/news/1win-essence-iii-power-rankings-back-to-back-tournaments-for-spirit-or-not",
+    "https://www.hotspawn.com/dota2/news/1win-essence-iii-play-in-results-which-four-teams-made-the-main-event"
   ],
   "title_hashes": [
-    "8233e62151f2d0778c0e7909071b55af",
-    "7e074ea95c614f4b4f924abd1b1ffb65",
-    "32fd4a4d94b92815015c2208cc48059d",
-    "1a52c3e7cf976eb0c5d71a6b2f5923e4",
-    "8fe77870f28a7beadbd3e6227db2b960",
-    "62107df34557acbe45f0d3a074c54559",
-    "3e428ed15a003049ef45d3e1f4afa937",
-    "3d0dfefbeb43cf5e8df9e831ca30a7d7",
-    "02469f9252cbec96ccf0652e51d9ab82",
     "6726a7787a9b06efb84646ede496509c",
     "78b8271e5c28177d585a394e62fb1d94",
     "4047242fcfafb9b6ac394e0e7b6e6ba1",
@@ -16001,7 +15992,16 @@
     "dbbc780be8051cd08862c48b64734b54",
     "18756f7e0b039fc7c5643223ad46e1ab",
     "ecb59278bfa3baea5cbc1779d6b29ec5",
-    "4885ab014b87bc59ba0127fedd6b0215"
+    "4885ab014b87bc59ba0127fedd6b0215",
+    "c17ee5d423858bd6740d28397a31a9bb",
+    "da6df410428a4662168f6729e35dafd6",
+    "a44687b736326b191046e863ae94d6dd",
+    "2684fbe8ef20100a5f6fc2cd2055b72c",
+    "7f86c153faff1fc62ec6ce960962b1e6",
+    "5cd7bb610fdbcfd4df68bbeebaefaa95",
+    "9843c86ef6379b0d6c6c373b213822e1",
+    "33c8e187b7dc3f3b16b2aa8021e8cc21",
+    "a43900dab4b5202bc1fd0c70847b718e"
   ],
   "transfers": {
     "pages": {
@@ -21044,6 +21044,26 @@
     {
       "t": "competitive king play real returns returnz t1 tenz this time",
       "ts": 1794477837.273159
+    },
+    {
+      "t": "boots competitive hanging igl paura play retires turkish",
+      "ts": 1794477842.3991864
+    },
+    {
+      "t": "2027 empty exactly found has have just leaving lfl lithuanian midlaner now one only pirates roster seat side signed solary still their tln toffe",
+      "ts": 1794477845.908287
+    },
+    {
+      "t": "2027 8220 8221 austin coach crashies expected field gustavo imports international joining ngo pacific rebuild roberts roster sacy season set shock sign t1 tenz tyson unbelievable vct",
+      "ts": 1794477849.3208413
+    },
+    {
+      "t": "000 1win 2 250 about action attendance back begin but dota essence iii like missing most not officially out power rankings some spirit team teams top tournament tournaments world yandex",
+      "ts": 1794477852.7568235
+    },
+    {
+      "t": "000 1win 250 all currently determine essence event four iii instead inviting made main ongoing online play results squads system teams this tournament used which woul",
+      "ts": 1794477856.224716
     }
   ]
 }
