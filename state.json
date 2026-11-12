@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xRTM0SF9YRlI4QmV3MHQtdHlST3NDSi1oc2RzckttMjFiYkVmOWE1N0k5bjRwd3NhakdUdGtKTmFYdTJScXhEWFdKbVQ5RzJTV0xz?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTGpLY2FLUzEwVHhjb1ZhTDNOOEJLM09ERkhvbi1YNmRLdlBkQ1huSDRJRTNSOTgzRVhVaXRmRlBWWHkwcjExeGhZdVB5QTBOejMxYlBLQUtYSWZDN2h3N3VrQnNQSUFoY1RteFdMd0ZHRUZUV0tKUGhlM19fMnA2Vw?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SSm9Hc3ZDNE52cU00S04tZnlBWUd6TVZ4dkJraUlHeU5lUGR3YVdad3M0cG1vcmNTNDU2bUl6TFN4c0tNVVJtLXFBckRoeDBtUmNGQUtOanFBdUd6Qkg5Z3dUVUlYVnBULVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEs1OUF1cnZlZXdid2VZSEdIdVJJdDNabHZjbTlrdmIzbDdVSlBIQnNOdzdOZWc2UzBORnlFczNjMHpQb1ZuY05OOFZnMUJUY0IzUFljN1NjWnljSl9xc2t4NFlydFdBZlJyczNHXzliVUJKRmdBUkNhc3ZzeE1ieWQxZFJxeXlX?oc=5",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tOWJkWkNINDJnV1d0ZjlvbGhSMkRhNjZUdVNTdDFWaHJ1enpidDJfcUZ6NTlXNVg0VjBFNzlzb0o1M2I0QnBSTXdGQU5VczFfbkdqaEREalZGbUlB?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCY0E2Wm9FdzZHX0tQMWxJeU5ZN29GMDBLT2pjekpSdVdWWEw4QVc1dkNUdE5jeDhlM2FybHJuQlJWVzJXREJvNW9mSlpaNFl4bEFqci1lUFZOTThvUlltQzNBRTk3NnNpUHFvcXhRdlc5WXNIVmlyVg?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UdTkxSUdDdmhfTkxkWE9yMGp4U1RrX3NrTlpCWDZVbXp2VHpYS0JZZ1JmTnc2VzNxWVZkQVZTQzVtMmFhWXc2N2ZIVUtxWXNtdWJKTGpMVExqRFRMZnlGelpibHRtb0RB?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lUXVhMnRTb29VbGllbTZMeXV0UmJDbVEyWnhVeUlrZWlncG9qR21uQV9pTVlPWmU3NHBEYTdpU1hLOHBFakVjM1AtdUNfRTlLZDNCSDFubjc5UQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/kicks-gta-6-promotion-is-giving-away-thousands-of-free-copies/",
     "https://insider-gaming.com/the-game-awards-2026-disney-plus/",
     "https://insider-gaming.com/halo-campaign-evolved-firefight-update-adds-4-player-pve-mode/",
-    "https://insider-gaming.com/hunger-game-both-pve-and-pvp-players-entertained/"
+    "https://insider-gaming.com/hunger-game-both-pve-and-pvp-players-entertained/",
+    "https://insider-gaming.com/shiny-xerneas-yveltal-pokemon-legends-z-a/",
+    "https://insider-gaming.com/final-fantasy-7-revelation-age-rating-t/",
+    "https://insider-gaming.com/gta-6-youtube-collaborate-for-big-24-hour-livestream/",
+    "https://insider-gaming.com/xbox-playback-announced/",
+    "https://insider-gaming.com/gta-6-full-map-leak-online-from-collectors-box/"
   ],
   "title_hashes": [
-    "d070bba9af875a21c505c577fe6d7765",
-    "c35159124b12ebe37907d6477f32be66",
-    "177c89150402da508629cd3a0b5f7cf0",
-    "56335cb6117708d6577ccef3c2661529",
-    "a221181027fe0e6eca9be615fa935ad3",
     "c60a12774e6f280ad9147ceade1af6c3",
     "9e2c6b36464c31b813cd2b31f7644d5c",
     "7f8f073fb9068dd93a120defb2b4ce19",
@@ -16001,7 +15996,12 @@
     "0ce3f1921303fea761c4262a8984a926",
     "d1f0b88cee30c1a2319a5150d7c3802e",
     "57f842286171094855e51fc3a541c1e2",
-    "b35908d35542a23639d79c89f339001c"
+    "b35908d35542a23639d79c89f339001c",
+    "feea130015903c7708c76654c002ffde",
+    "e8bbffac65b53af04df58ca6c2568baa",
+    "a4abf9e1591e52174b603421b45f7b2f",
+    "c7bcba2af0eb3a20c73c63fc0a05485c",
+    "394b3f0ceff8f80e4f50bc1bff0dbe6c"
   ],
   "transfers": {
     "pages": {
@@ -21156,6 +21156,26 @@
     {
       "t": "accommodate apocalyptic appeared best both entertain extraction firs focused hunger players post preparing pve pvp rpg upcoming way will",
       "ts": 1794506688.1195734
+    },
+    {
+      "t": "30 celebrating company legends pokémon post shiny way xerneas years yveltal",
+      "ts": 1794506693.7535381
+    },
+    {
+      "t": "15 7 age also been board did esrb fantasy final get has its korean leaked mature not post rated rating received revelation teen which",
+      "ts": 1794506697.2163353
+    },
+    {
+      "t": "24 6 almighty amp big collaborate collision content deliver games get gta hour livestream mammoth post ready rockstar youtube",
+      "ts": 1794506703.5811977
+    },
+    {
+      "t": "all announced appeared back beginning first has history look microsoft new playback post replacement review very way xbox year your",
+      "ts": 1794506707.1288493
+    },
+    {
+      "t": "6 8217 appeared being box collector doing full gta has images leaked map online physical post posted rounds within",
+      "ts": 1794506710.692254
     }
   ]
 }
