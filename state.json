@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOGFXNjRXR00wbm9lQno3WTR6YnY0T2p1bkdyWlpuTU5nam9PMzlxSFNwbWoyNjlCMHB5NFNWQTU1YTY3X0F3ZXRtSF9hVUR4QnJGZnp4b0FKdURtaGlYRlJsM3lRZ1dOZHh3eFF0TXJOelpqdDY2TEhEci1USTZUQThNTDd2azg4TkJjMENTSWZjYjl1N2ZkcW9kZjE5SkpKNnU0X2NOLW13VmlVUDA3YU00ZXpFM3JXbkV6SmdvNFgzY3Y3dllWWW53Z0k1UHhJck4xSHQxdUhhN0VR?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2tjaDFnSmhXVVhUSVNlZWlTT2VBdnRuQ3gxamE5UHh5NHJKdnhDOXRHX2Nudktqcjd0VHQwVnV5eFZiaV9heno2a2d2bERKVmp5SWdNWWs0cmV5aUhvTmlhMExTQW9qMnZTMHNia3RGNGZORjFSeVh2Q01zOVVYeW5hakFjNkNVSHc?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWTlOcGVjZWxrZ05YUEt5NmI2QlE2b2FXQU43cGxGQmtDaGxtMW5fTDNsN05MQ05PZ3BjR1pnNklJcGlyUWJldHAybVlUajZDRDlfdFF3T2tjOS02UVZ5RkdXU2NwZWVlV1ZNUWpERTBSU3hUNHE0Z0NkZk9OOFNVM3JVT1lKaXZELWpfaDY1VmhNZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSXF6OF9EbV85XzkyMGJ1NlB0Z19XUi1yUzFScTZxSktqSERaWUFYNDZNaHV2OVFUWlJ0N0hDN3EyZG1RMWJMckxQUVUxY0ktd2ktZElQMlJyX2NKakx0ZTU2UFFYLWt0cENzeGJFb1RlbHEyOGE5ekRWZG5QZ3huUFNvSXJFMWIxdXNKWTUtZjZBQmRicTlYNHpycDVUM294Y2l3LXdqNEY?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcXFjLVJwcTBvdmJwTzEyeHJOem5fcFZsNlpFaHp1V1ptbHVUOFlLZ0dlNzJIVU5wUm9Da1BLMG56b2dQWGVlVlZPUEoxc1NlNTZkTDRraG1tUGhRdWtlZDh0dDdPOTNSUk9ubGhjYTVqUFdZQkVQYzYyaEhqbWR5ZDQtTjlxc2F1WkFj?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU2t6WGN6SDFLTERrY0xkTmZSZUNucHpXY3RaSllNNHViY2J0NWg3dkxNNGV6UHdMWTdSNEpLNjdjX0t2RjAzVDZ0a2ROT05LaGxxNjNLeDlHeW9BcjdfUWd5dV9nMUYwTjk0UnZGdkpocFMwckRzZkJYS05ock5mRmxOTndqWXdka0E?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYml6OFByakswbzBzU1RTYXlpQ0pDekJWYWd6ZlVJSUh5OVFuc2pTamNpN2tTRVc2SkRWVzR6cTBkMWxFOFAzTU50OTFGY0Vrd0xwck5NUGYtbTd4RnpNLW5kejU2UnhQV2Vfb3lDYnplOUl6ZTMyY3N3OWw3NlhvaVZsa1IxWlp0T2xmZzlmaVpVTWFDNS1RMW5JN29BcHV5dlMxaEo2Z1FOZ05TbUNOUVU2NzV5QWp2cHNldGdBSHVLRFlQ?oc=5",
-    "https://news.google.com/rss/articles/CBMigwJBVV95cUxOT1psSENOUWxQN0ZmdklWQkdZcEh6VXE3eC1CdUdrMmhxcGVPVHFsZ2pyQ0x0SFZyaFBOa3ItN1JzeEdoY2hlUXBoZEQzWE9UMG9OdFNIRGJFRFYxTFNDV0IyRUREVVFrYTBzZ2p0QzBQeFNqX1VGZmk0eHVNb2JyX05lNENZZ0JfWFo0RnBIbGwxcnJqd3JYOER3SHl2SDhYSlFjSmJadU5yZkhBdHZQbFllM2pwM3NCYUpfSFlQYjhTMUlvSXJLVFdsWnpTVTRUTnc4a1YwRDc1N1U2MElidjBxV0NocnlkNmVZWXMzOXA2cFpkRzJOZXpWeVAzcVVyTDZn?oc=5",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb05HSGNxOWhKOTBiTnVqc0oyZnlzWk1aemxncDVRSG1tRGswa0ZfQ2t1WENuUDhXZW9LeThUaUxVWWxBWXJqc3Zya0pKOEVuQzVrQXkyNmhCb1JxMXlqQUsxNDJqZGRDZmF2Yjl6ZFY1aTllc0JkWGMwSi1pTDhNelVwTS1lRGJrLXFVQ1BXWVJCQnRka0Vwa29Xdk1KU2lsb0s3bjZ3SGZISll0TGdYazQ1bFlEWUtvQkRoQVRDd0h3RnJocU5pbQ?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUjZIVk5GQlYweDQ0Q3NRUUxTdk1LRmVNZ0lBSWgxOFpMYmYtUTdtb0c4NTRRUDd2RWVCNjFKTDRmZWNVTVdDNGJjUjlKb1NsR05WSkd2M1l4VWgza29aejNoRHduR3pVb0Y2WTg0V1ktQ1hOdlhPUFJJcmdrNGM1cw?oc=5",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jZFVxN1hHeEd1RmhsV0dTVGlmbVJhSzN0eWI3cWtWZXU4d1NyRlhCaHhYN2ZXMEJNVnRDMEZVVEUxVXZlNXVSbzVSZFBjcVBZMVAtcmpHakxMcWVZNjUzSGhlZk0tZUM2VmdQV0FR?oc=5",
@@ -7999,16 +7991,17 @@
     "https://www.invenglobal.com/articles/28488/subnautica-2-wins-best-early-access-game-at-golden-joystick-awards",
     "https://www.invenglobal.com/articles/28487/webzen-r2-origin-adds-remote-control-support-via-webzen-link",
     "https://www.invenglobal.com/articles/28484/nvidia-board-prepares-to-oust-ceo-jensen-huang",
-    "https://www.invenglobal.com/articles/28500/crimson-desert-wins-pc-game-of-the-year-at-golden-joystick-awards-resident-evil-requiem-takes-goty"
+    "https://www.invenglobal.com/articles/28500/crimson-desert-wins-pc-game-of-the-year-at-golden-joystick-awards-resident-evil-requiem-takes-goty",
+    "https://www.invenglobal.com/articles/28476/wardogs-teams-up-with-movember-for-2-charity-dlc-on-november-12",
+    "https://www.invenglobal.com/articles/28477/resident-evil-requiem-wins-ultimate-game-of-the-year-at-the-2026-golden-joystick-awards",
+    "https://www.invenglobal.com/articles/28464/nc-co-ceo-byung-moo-park-annual-revenue-to-exceed-3-trillion-won-in-2027",
+    "https://insider-gaming.com/jak-and-daxter-cited-as-intergalactic-influence/",
+    "https://insider-gaming.com/intergalactic-the-heretic-prophet-gameplay-and-story-will-be-revealed-in-2027/",
+    "https://insider-gaming.com/nyt-strands-hints-answers-november-11-2026/",
+    "https://insider-gaming.com/nintendo-digital-archivist-listing/",
+    "https://insider-gaming.com/square-enix-profits-nearly-triple-1h-fy2027/"
   ],
   "title_hashes": [
-    "4c88e21a3c818b3834290e431322cad7",
-    "469fbde1f9a12f432065ff300020c13f",
-    "cee9150bf838e79a24e299dbaca1b15c",
-    "c295d130274dd8c5f82643d3c001931d",
-    "4d329c7481c2af09138c278f9cb502fb",
-    "8b278d84f53c7a477c9c41f30bd1d825",
-    "ca5c54d83212f23b0aa12b6f83d816ad",
     "b723623ff13529d7983fe36fe034cbfa",
     "174caa737e28c8aee826c5b9fccce865",
     "be92cde96fdb95af87e38dc60b9c9e3a",
@@ -16001,7 +15994,14 @@
     "f84a479ca158248cd2c0c5605ab48d56",
     "18d06d49a1ca7040653e99fa02ace7cf",
     "804f29fab219db8132c7f00280eca09f",
-    "fff4c42b7b9e42e944024bed8903f5cc"
+    "fff4c42b7b9e42e944024bed8903f5cc",
+    "b9c1ffe3798341442480f729d45708ce",
+    "27477964722784125137f2b9d53e9e8a",
+    "ffc0b306282a8dea612dcd79e1309678",
+    "a73d36248bfcd8833c48b9e675d05351",
+    "168a4c1edbbc104f6bb09e5f5b5c0fb9",
+    "fc96dd70aaa48be20218e5a14cd6571c",
+    "e0642432943a434fa89fa9945be74e0e"
   ],
   "transfers": {
     "pages": {
@@ -21208,6 +21208,26 @@
     {
       "t": "abyss awards crimson desert evil game golden goty has joystick pearl requiem resident takes wins won year",
       "ts": 1794450273.9185367
+    },
+    {
+      "t": "but cites classic daxter druckmann has haven helped heretic influence intergalactic jak long neil post prophet says seen shape time",
+      "ts": 1794450279.1041484
+    },
+    {
+      "t": "2027 about according announcement been but dog druckmann gameplay has heretic inform intergalactic interview its major more much naughty neil not prophet recent revealed shared since story title upcoming will",
+      "ts": 1794450282.6213393
+    },
+    {
+      "t": "11 2026 6 8 983 answers appeared game hints its november nyt post puzzle reveal solve spangram strands stuck theme these use words",
+      "ts": 1794450286.127004
+    },
+    {
+      "t": "archivist contract documents engineering hiring history its legacy materials nintendo organize post preserve records related source systems technical",
+      "ts": 1794450289.6577086
+    },
+    {
+      "t": "0 1 10 163 1h 22 28 5 8217 appeared billion climbed enix first fy2027 nearly net post profit profits rose sales square triple",
+      "ts": 1794450293.0980544
     }
   ]
 }
