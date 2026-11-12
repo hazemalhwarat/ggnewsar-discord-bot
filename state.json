@@ -1,27 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/next-gen-xbox-could-cost-as-much-as-1800-says-new-report/",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkdYb1Bnc0xwUHl3VEpfdzl0b1NiektrekMyT1pvcWpuZUNHem93WFlJblZuU2k3bFpVcHNCcGk4N0hTbERTSXI3VUhEYkdSRkdQX0ZycEtQSzBNekVaVXVxdi01SDBYUkc1SFVsaFdINm1lNkpyUE40cExlVkZTd0VMZWY0M3hHY2lQVw?oc=5",
-    "https://www.hotspawn.com/street-fighter/news/street-fighter-6-tifa-release-date",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHlMX096d3A5R3Fsd1JHb2NWZTVYUWNab2xXNjkzbDR5bV9tVVJMMENoQnNtQlp0d2xRdnRiQVVMdjg3UTJ5RVVhUk01czZFZ3lnRkd6djNoRXBDWG1jS3lVcXRUcGZvZHF5emRPdG5NWkJreFF4bnRaT0k4a3pOTFJqYVRMc1pKQU5ZRWFSTjdKZDc1bXNFQVVTUTRKdE9PSkJZRHVEU0ppWkk?oc=5",
-    "https://www.talkesport.com/news/arc-raiders-pve-test-30-million-rounds/",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lb21aS1ZoNmNRZ2hzSG5QMjZCaUdsOExIMGc1S0twS2wzczFiV0tSSzRRai1obkZqYV9ZMUl2OERIOUZXcU40OE8tX2c3OF91Q2Jnb2tlMDZuVzFSSDZ2SnpMcjNpZEJ1MjkxNTYxSVVkTy1OQmJmamlMVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ed0RMWGx5MFd0RTluSElPVHplNllCbXZfc3gtanVwdzRjdTE5azZLNmhPOWVxOG05MnF5YU4zLUMzQ0t3dUY3UGJTMHQ0VWZxVW5hckdBOA?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDAxM2VaRXFYNlpJbzMwa25ZY2hGVHkwSVZtQVpDSDB4bU9xNTl1UTJ2OVdKYklBN1dSNkl6bUhiTnltNFZ4NWZobndKdWRrZEFabkkwZlZINHgybE1WZE5FWVBINkVwNW0xdHl0ZFY1a01LQ25NQ0lpa0k5Q1ByWG5WWVlkU21zRHdGRy1jOA?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mODRsaW1fWnZxWWpOdzRpLWlTVlRKT2lueFIxaHBFMlBvbmJtendtQUN1VW5XaUt6X3lJdlhMZ09rbE1UTmRMV01OSjRKdGVWSTNfUm9heEdTOWZIak85SDJtWjJiRXJpT2c?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1pTX29OZFo5TXd1YW5DMVJSVHFaaDJ3QWxiZFlRLVNfYVZndzlpVWZnLVVSVUJ0YkVzRFRWZFg4TXk2SjI1WkxaYzRZeEd1dFhlbTdyM2ZMS0V5N2hQWU9EV1RhSEhmVDFZRHVWVmp3ODVUZ2JXWjJfejBXdzh1N0RWZkQ2OWxucVl0UHY5bTQ3NTRyQmcwMDE2dW1aWVhiRWFELVJfNV95ZWw3cXc?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaW9wb3BXcHRfUFhyR2Vnc1lxNlFES2stSGNxcnNweWtBN182R3FkcnNCMlNTeGcyakRYTTYxZHV6RXktM3Q2eXlMU3ZRczYxRE0zWGFiYmg1d2YwNDdnNy1FWmhYQUJVWUo3c1c1LWlnT2hhMnV1ZkRFckFGZGVYaEdPYk0tbEttOXNjdTVMYVZUdw?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQkpWSjRMSlN0azhtM2ZSUmpKWGZOVHVuUGFFLXBRM1BQcmQ3am90S1YzTXZDdDRxZ24wVFgzMzJCUThwdXFvQ2QyWWphc0hiTkFwRTBQRnAyV0hkYnVhZzVKZE9yUElIZ2kxSzV4dEZtSkg2ODVfVWJfRnI1S3UtNmFCcGd5a21wVDc4cHprdWtLVTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY09LLVNfUnQ2VkhZaUtlem1aLXhHWEw4amtheVhQdFZfMnVOTGxjRzhqVFY3NmZYVFBoWDBRNDJkVlotZ1RkbVhBVmlvaUxtcV9PZVNvTk00d2JHdEswejhRcjhUa1RTZlpFMUZ3eTBlTDZmQVZjVW9jSlo2S3BFbk1vR0pQckhsVGJnMENPQlBHNHJjWTU1NUNDUmMzUEk?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE5pSVNUb256UFVaUWQ5X1N4ZmtScEtzTFJhdW9LTU9lYVREMzNocGNRd2o4Q21uaHZMN05YWFZQZkhPc1dnWEI3N1o2MGlIRlhvQlZZM0l1ZlZVZUIxcGl2VHB0YjVzUXFNTTlFaVdXOE44QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LUk1NNHowSkVreFV0OHhzWGViUHJFWUMtQWhyYVZRZlpXckRCaElGT1RhM09GM09pMnUycHViN2ZPaTM5YTFBVUU0b0pVVlRBdTdJSmFoY2VFUHZMWnZVN01WNFJ4eklyaE5UaG52NDd6Z3JwVzdsWjVFanY?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXhhbDhITmNYTFhsMlNiNzRvTEJ6T2d3cmc0bzZoaXpGODZfV1NEc1N1MFBpamdNX1dhcXFDUEEyQXBZX3ZVRXNPZnBEZXowcnFJOTEyZkNoOVMwVVFfWUc4OUkteURGMjAwU21kblZ0VzNVWkVCT1NVOEhpSVltQURjOUcyT0NObHlzT2x0Q3d2QjlQTUQ3STJ0dFRiX1NVWVFHRTVWcFRzMXNNMllKUDlYNA?oc=5",
-    "https://www.invenglobal.com/articles/27444/arriving-with-that-song-neverness-to-everness-adds-akane-rin-and-reveals-god-knows-cover",
-    "https://www.invenglobal.com/articles/27443/foundation-galactic-frontier-hosts-astral-alignment-festival",
-    "https://www.invenglobal.com/articles/27442/aion-launches-drakan-world-and-holds-growth-gear-support-event-on-october-21",
-    "https://www.invenglobal.com/articles/27441/seorin-ci-hosts-event-to-celebrate-refine-2-launch",
-    "https://www.invenglobal.com/articles/27440/hearthstone-launches-new-expansion-reign-of-the-black-empire",
-    "https://www.invenglobal.com/articles/27439/now-its-kazeros-lost-ark-updates-finale-extreme",
     "https://www.invenglobal.com/articles/27437/evil-geniuses-to-cease-operations-after-more-than-25-years",
     "https://www.invenglobal.com/articles/27436/pandemic-dystopian-adventure-rustown-set-to-officially-launch-on-june-30-2027",
     "https://www.invenglobal.com/articles/27434/smilegate-hope-studio-and-daesang-partner-to-support-underserved-youth-and-small-business-owners",
@@ -7999,30 +7977,31 @@
     "https://estnn.com/blast-rivals-playoffs-november-13-what-is-at-stake/",
     "https://estnn.com/worlds-2026-final-gen-g-vs-bilibili-gaming-preview/",
     "https://estnn.com/blast-rivals-2026-season-2-results-bracket-tracker/",
-    "https://gameriv.com/marathons-new-expedition-pve-mode-explained/"
+    "https://gameriv.com/marathons-new-expedition-pve-mode-explained/",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTnRwTkxmbHo1ZFU0Zlk4VlhIbUVRUENBci1lT0l4ZHFKeUxRTVhjVjE5RkhZQ1pxaEZRUDBXVzhDQ2FBOEZoanU5aWJMd2J1cUpTNVFwSm5YbGZFeDV2cGhubEpDcFNVYkkzOWEwaDVOMDZBcDBuaEd2Vy13V2VobHIzTlJlXzlteGc?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbjlSRXFEWFRUeC1VeUdXa0Npc25zb0RpNHlrSlpRNlhYNzdMMlpFMHI1RXdwdEIxQVc2QlZlNU82NFhZQVR5R0EwaGo1R1pLenN3Q1NMWmxCdUF3dlhaUkU3S3gxeFAzMzI0R0ExMlpKdVZoUkZEU29yZ2tTWGozSg?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/lol-worlds-records",
+    "https://www.hotspawn.com/league-of-legends/news/cblol-future-2027",
+    "https://mp1st.com/news/call-of-duty-modern-warfare-4-review-campaign-putting-ground-back-under-our-feet",
+    "https://news.google.com/rss/articles/CBMiREFVX3lxTE1wRXljdXBBLXdVSkJMQkx6RkkxUWN0YmZYM1pCYXNRb2tvTmc2bU85NjhhcEJrOG9TT09GM3hfT3hCcEh2?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SSm9Hc3ZDNE52cU00S04tZnlBWUd6TVZ4dkJraUlHeU5lUGR3YVdad3M0cG1vcmNTNDU2bUl6TFN4c0tNVVJtLXFBckRoeDBtUmNGQUtOanFBdUd6Qkg5Z3dUVUlYVnBULVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tOWJkWkNINDJnV1d0ZjlvbGhSMkRhNjZUdVNTdDFWaHJ1enpidDJfcUZ6NTlXNVg0VjBFNzlzb0o1M2I0QnBSTXdGQU5VczFfbkdqaEREalZGbUlB?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCY0E2Wm9FdzZHX0tQMWxJeU5ZN29GMDBLT2pjekpSdVdWWEw4QVc1dkNUdE5jeDhlM2FybHJuQlJWVzJXREJvNW9mSlpaNFl4bEFqci1lUFZOTThvUlltQzNBRTk3NnNpUHFvcXhRdlc5WXNIVmlyVg?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiaTk4TGVtdkdrcFNhcEJxSUJQZE11TXczZ0VOd0ljZ0VfbTJCODFrN25PMTRGRld4N1VzdmxuTUdxVWRua0lJMnozQ2UtdWRNQnNlR3NseU5GRDJyNkFRVnVObVJMRmly?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVXVKWFRRWFpPWnFBMmpVRGdnZVVDaUdNbk01UDZaVjN6a2hLcEFQcGp6Zlo1MjdHSHdjWFE3U0htRkpxQV9MSFZ1UFBBcTVCV3E3dDE5WXFja3IwdlBySF84VmdVczM3OXp4V19rU0cyamxsT28xenc1VlNVWldvYnNJczFKVmNYU1AyQ0VFRGZ1MmJFZjRJQkVTWkVzWUVvVVZSM3QtV2dLcTA?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQUVza0RSMzVOMHJOaFBWcC1LZEJJWUM4TlduZmdmWV83b19JWjlPMWJYZi1kMktWR19ibDRfdVBzV0pnNXZGVlFIVnEtTVNoWGJ3VDJJS1RIbkFzdThzaHNDMnQ3bGEtQjd2STZQMGRBVXo0UkFuY05MbFc1VVJrNg?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaS1LTG5vdzVzeWtMai13QzdWWHVjc085bF9QckRvNFFKRzU5RllCcXhDc194bU1qQXpzYmlEYmw4MFRLSV9BY0dwUTNKd3dtd3hkTUkzc0xUQlZla1FyOE5OR01uWDZ5YUtzRTFKNkZZSnlCRmRmTEJBNjBBMGlJdVBSQUQybmV4cDEzRTJLY3Bjd1Itc3VabGxBOFVMaG9ZTXVaNTNxYw?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjd0MnhaWGdvRUdELW16VzZKbU9jbzludEw5ak9feEJmQ085d0JzMlpIY25hOTZuN3RVSDdrMVhpTTdZOF93RGN6Y2RsVHM3NnlaR1NCRExSb25vbTU4aFhxUDA1SFVvTGpwX3htdzh5SDRJektNdEZrelZFUGFJVnRpeXFyZ3dqV3JuNDg1QnA5b3VlYUNFYVNvV1BRSG9fLUpBWmxhckdkRE9VVEE?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XbGlORzhDVDFhd2I3MVdPalRjZmV1dVA4ZlZ4RXgxWk4xbG43RlI4SUpzWWl2cXNIUkxucHEwc2JRREg4amZKZXFpTi04VzNyQkE?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KZWVydlpWV05kN0IzRU93NlFyM1NZeWVrZ3pyQmxVSTc2a1ZWbXhoekl4MzRZOG1FY21ldWZOLV9aM2tmVVBSNlFkZ2szeTRfYzlZ?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTHlpWnJUZnF5M3lvWkkwTU1HeW0xaVlyelR2TEVFeGtBNGhfSjdYcGhfMHdmUW9tcHdqUGg1bEpINERocGlZVUtvTDFCQW85YnpkSEx4VnJzX1hJRjRpczNuWGZLemRRWk9pNFRHQ0xBeC1EY01YUngyQ1V3bE5tbTlwVnF4SmY5M2ZCc3FaUTFTaGhubFJnaVhMTjlrRTJYak1YVm1JU0RlaC1JR3h6RlpObmd5Qnd2OW5sZERhRC1qcjJobG1GRTctRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRU9LZHV6MUtIa1I3dnUtczd1QU9WdkhoVXNadDBNd2RxTkdZYWRqcmIwcTJGaF9acXZQTjItanZqZHRKZWJjTXBzX3Q4NWkyMHNrZEVRUnY2b1VNWmIzS0kzMlRTOGdHZ3VlbU1QSTlxVTRKVGlpc21qMGpQUVAtV1BPXzdkQkdTYktSdm5HN0RET2J2N3Q0bzdfRFRzTERTUHBOTFEtdHdjZVp3alY5MnNiZGROMDZGZUpCbGtDSVZFR0JO?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWU4d2hCRFZ4VWlwcW9fRHBTbE1DZHZyYmJ0RzN5dWd4a3VUeUVZaEVTazZtMlQzY3lnbWhVM2tnck1Qb3J1clNUV2xkbHdqbzY4U04wMEZuMHdVc2VZTEhuVk9UU3pvX1dHbDFSWWFMc2l5eTlXWkZFWFpESjdOLWZBS04yZGVkWkVaYzBqSkZTd3pFdE5mNlJuRWc2WW4yOWJQdFRha21GcTFyQ2FV?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXhzWFBFUE9PSldabDRRY09VX1dUWEI3MnUwd0tOY0loUklWVkQ5SFQ4clZxRGlpUlhYS1FQamR2NU02WklpX1dwZUlVenRoS3UxOFBwRFNWWmpCX3ZUbE5TbkdDTXdWY01yU2R3R0IwSFV3YjI2MXdjOEV0ZGRDbw?oc=5",
+    "https://www.talkesport.com/news/total-gaming-payal-gaming-sharkshe-youtube-24-hour-gta-6-livestream/",
+    "https://www.talkesport.com/news/gaming/genshin-impact-cheater-paid-carry-arrested-stygian-onslaught/"
   ],
   "title_hashes": [
-    "e91a838bcb85c329c06f14c277c9e0ff",
-    "1270f68c8a6a45f2a370bf907fa1c6a9",
-    "636590dd129bca367bf5bba9fa2da64c",
-    "e11eb0551688a32a381048856f9fe2c6",
-    "90ef419c3edd0f8d589bfe8ef3ae8c22",
-    "f0639639eb3f35b984203f2f5eae96e0",
-    "7f5dc2730fbb75e355bdad319ca68ca0",
-    "f1d669e63992fb51acd8f62bdff7c35a",
-    "5fbc23518cff9444982d4fc52b5b769c",
-    "daf41b2ca789d95e2359b6be96c725cb",
-    "fff82f93f2904509a565f78723ab3451",
-    "1d95a645b0796ddd05d2da8429e06d42",
-    "1ed4f6d7b33e6e909776e33f55e9d3d5",
-    "7bcee2fb8d9c2833528fa4f3bbc0a6c8",
-    "7553b226cec9234f511a7541da3bdfbf",
-    "21c354208b66a150ada10e37dbadc24c",
-    "52e6d0f3baad0f1ab4b248e8fd31fb21",
-    "5c95dfd21690faa7deee14d2fef553fe",
-    "cd16407f71ef7852764ca25cf4479ef7",
-    "763069cdfda3e2d1a50c9a5081500213",
-    "6936337c5e0ee55b396b193f03356679",
     "c9a1128bc66f4d00522b094631a3afc5",
     "8ee1dbb1ba2270988f04743fad5e2363",
     "24587c3ba5035ffa3e2f1313aba0024c",
@@ -16001,7 +15980,28 @@
     "4d9ee6ae7cbfb5d767b987e3a815b337",
     "0b3d13d6377b7c93505a80c83879b318",
     "6a43874e0fb888e3f5fb73c270466acb",
-    "ad1b2953937db42a60136e7e3ce2e04a"
+    "ad1b2953937db42a60136e7e3ce2e04a",
+    "56fffc62ed456ae73a005a6ac92309fa",
+    "db74bbcf1d2f7d377064bec3cca8f8b7",
+    "9c97d9bd620b91fb5075d002acd58707",
+    "00e66f6c073e6641113c0dfe1d25a44a",
+    "10ea86996ca38b41cb539bdecff5e22b",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "4ea0ea9bf010270dd368928332ff178f",
+    "5695fd47c728de55b28c1e049207638a",
+    "6e9aa71b9a32c1fa269dad297069275f",
+    "46abd923c25c427712579bf75c0b14c6",
+    "48b783c8b1f86024033c79eef5a7c1f9",
+    "b8e4856df31d8f16c26236f1904fa91d",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "b8dd4416c9de43790d7ebdac5b094b6d",
+    "fcf82753c94cf089a48875b278987317",
+    "da29a8943efca18600f592177afd863a",
+    "f6f375182ed969e48cbcae710a106fa7",
+    "9e0805a0465c22dd32c0ef3db63667e6"
   ],
   "transfers": {
     "pages": {
@@ -21344,6 +21344,26 @@
     {
       "t": "2026 8 8217 boosts bungie coming december detailed expedition experience explained extraction flash game has look marathon mode more new permanent pve rewards run series shared symbiosis traditional unlike update",
       "ts": 1794526597.051939
+    },
+    {
+      "t": "2011 8220 8221 achievements broken championship countless emerged faker fifteen first have league lee legends lol may never over past played records ridiculous san t1 that while world worlds years",
+      "ts": 1794526601.945824
+    },
+    {
+      "t": "0 13 2026 8217 after almost bright cblol failure full furia future highs identity its loss lows lta making merge returned seeing stars streak team year",
+      "ts": 1794526605.467743
+    },
+    {
+      "t": "about accountability brand casino cryptodaily cs2 deals esports nbsp reveal sponsorships team web3 what",
+      "ts": 1794526608.9992301
+    },
+    {
+      "t": "19 24 30 6 among creators gaming gta hour join launch livestream november payal plus post sharkshe starts stream total which youtube",
+      "ts": 1794526612.4393399
+    },
+    {
+      "t": "allegedly arrested based carries cheat cheater chinese clears clothing customers detained genshin impact meeting onslaught paid player police post reportedly selling sold store stygian while who",
+      "ts": 1794526615.9016533
     }
   ]
 }
