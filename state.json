@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uM1JKSmZlSTNOZkhKbVdmN2NKTlIyOVR0T3M2REs0Wk1XM05lMW5OMkpMQ3V3T29KalZYbkN1ZDY0ckFicmNSWVRQeEZsZGJJSWdaZWQzU3Z4VVdWRnVEWUZ6dDczS2w2QXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44dlE0ajlDQXFqbG1tSEpiTjQxMjB3dXhRUkVnWWlrRmpRajN5em0wRzRJY0xidFdBQzhYMXlPTUR0TXdpYUUwQl8wSjBiMEExNFVaZlZ4Y0V1aVFtMnFVd3NhakRlc1d5?oc=5",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0NjZtVkI3T1dHbHlYcElFVUZhbXpManE2ZUJDUjhvMzVXUFZJOHl2ZjI0RGFmZ2daaXF2RjJTTTRNaVpBYnVjejhhZHEyZ244N1ZvcmY3d2Q?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDRHloYk15M2pwb0picElzU25lbXNrNno2dXdtWFA4d1dneE5qMGxVTUhPamlDYnRVMUlaNm5UZC14ZnB4dy01cTRINlRTOGNIVFNra2xrQ1pDbGR6RjNtbjRDWDR6d25sMEZaek1OSE83N2NHYjFfcFRn?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOMUh3d3Z1bjdpeWJRQ0VtLTM1WFp4VzBHZVVxU1V4LXlhcjdOQ3FhYTZHbUo0cV9mbHl6empJSU5LOXNaRVF1ejlqSzd1V1dMbGVWUmF2U2lOZndEbThEV1hRbnFtTXR4MFJ5M3RvdmtmRXNlRWhBeDNNNjRJMlNtWXNTbE5sQ3g2bjV3QW96NWRKVTVCaWRDODByZVA2Zw?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xRTM0SF9YRlI4QmV3MHQtdHlST3NDSi1oc2RzckttMjFiYkVmOWE1N0k5bjRwd3NhakdUdGtKTmFYdTJScXhEWFdKbVQ5RzJTV0xz?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTGpLY2FLUzEwVHhjb1ZhTDNOOEJLM09ERkhvbi1YNmRLdlBkQ1huSDRJRTNSOTgzRVhVaXRmRlBWWHkwcjExeGhZdVB5QTBOejMxYlBLQUtYSWZDN2h3N3VrQnNQSUFoY1RteFdMd0ZHRUZUV0tKUGhlM19fMnA2Vw?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SSm9Hc3ZDNE52cU00S04tZnlBWUd6TVZ4dkJraUlHeU5lUGR3YVdad3M0cG1vcmNTNDU2bUl6TFN4c0tNVVJtLXFBckRoeDBtUmNGQUtOanFBdUd6Qkg5Z3dUVUlYVnBULVE?oc=5",
@@ -7999,14 +7994,14 @@
     "https://thegamehaus.com/teamfight-tactics/tft-set-19-prismatic-tour-pbe/2026/11/11/",
     "https://thegamehaus.com/college-football/college-football-week-11-news-and-notes/2026/11/11/",
     "https://www.hltv.org/news/45976/yekindar-today-we-were-better-but-also-luckier-to-some-degree",
-    "https://www.hltv.org/news/45978/spirit-through-to-hong-kong-semis-as-blast-rivals-bracket-is-set"
+    "https://www.hltv.org/news/45978/spirit-through-to-hong-kong-semis-as-blast-rivals-bracket-is-set",
+    "https://www.hltv.org/news/45977/mouz-narrowly-escape-last-place-elimination-at-blast-against-fut",
+    "https://insider-gaming.com/kicks-gta-6-promotion-is-giving-away-thousands-of-free-copies/",
+    "https://insider-gaming.com/the-game-awards-2026-disney-plus/",
+    "https://insider-gaming.com/halo-campaign-evolved-firefight-update-adds-4-player-pve-mode/",
+    "https://insider-gaming.com/hunger-game-both-pve-and-pvp-players-entertained/"
   ],
   "title_hashes": [
-    "e30996d0da72d60bed32bbbeaf866ff0",
-    "ce8d53301726f623a3028466964928ee",
-    "44b44a83b3ff8f731729e86871b1cd05",
-    "6014abb600a04132ab81a45cc7ed5a05",
-    "f211446cf127e363795f8ef2a2f08f8a",
     "d070bba9af875a21c505c577fe6d7765",
     "c35159124b12ebe37907d6477f32be66",
     "177c89150402da508629cd3a0b5f7cf0",
@@ -16001,7 +15996,12 @@
     "20887f37bbae006691b8886fcd999b38",
     "ba5b6124c6523eef6ff51c9fc3063086",
     "f953bb4fbecb593bdabbb0200ecf1486",
-    "fb2c6984bcd64b73228faedca1837563"
+    "fb2c6984bcd64b73228faedca1837563",
+    "3ef95b465e9ee40872af913b3d0101ec",
+    "0ce3f1921303fea761c4262a8984a926",
+    "d1f0b88cee30c1a2319a5150d7c3802e",
+    "57f842286171094855e51fc3a541c1e2",
+    "b35908d35542a23639d79c89f339001c"
   ],
   "transfers": {
     "pages": {
@@ -21136,6 +21136,26 @@
     {
       "t": "blast bracket giants hong kong mouz rivals russian saturday semis set spirit take through vitality will winner",
       "ts": 1794506667.7628672
+    },
+    {
+      "t": "6 against back blast came company down elimination escape fut last map mouz narrowly place xertion",
+      "ts": 1794506673.6439533
+    },
+    {
+      "t": "6 8216 8217 away copies free game getting giving gta hype its kick new offering post promotion thousands",
+      "ts": 1794506677.3548617
+    },
+    {
+      "t": "10 2026 air also appeared awards december disney fir game geoff including keighley live places plus post says show stream usual will youtube",
+      "ts": 1794506680.8796787
+    },
+    {
+      "t": "2026 4 adds arriving back campaign evolved excuse firefight giving halo into jump mode new player post pve update xbox you",
+      "ts": 1794506684.3864353
+    },
+    {
+      "t": "accommodate apocalyptic appeared best both entertain extraction firs focused hunger players post preparing pve pvp rpg upcoming way will",
+      "ts": 1794506688.1195734
     }
   ]
 }
