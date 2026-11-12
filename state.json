@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmxpMS1FdkJLRElweF8wbzQtdktLdmRINDRrU192VUJ2M21rcTN2dFVIRHY3dWFWUHVwMDlieURRNmRmWGdTZjJhQ2lEOTZ5S19WVnl2b3R6bHZwdS1BQ0g5SnVzODA5LWdJQnViSTNiYWNXVlVYWE04b2pRa1pmN05Pb0xHNjcwaUg2R1BBWnBnbkoxdFE?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWJvd3NiRWNHc1RQRzY3dGxnYS1iV1FsU1ozSV95ekVFTWpaRGJoTTduVXcwTkNMcHlhM09qdGpJbDFveGVrQW9Ic0IwTUIyVUI0VzMxaE1xeFJZUS1HVDNIVGFpV1VHX2NxSUJYTHVUbUdla2duQnBLazA3UWZPV2dkdzE?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdW13WUF0VHpST2R0ZmFaMWdEc1dGendzSTBfVXctR0h4S2h5dVNoVHVxOXY5Vk8td2QyU0dFOFhnREF2czhnWXJxTFBRNnB6VTVscXFCWEdKNGhtWUZpVGV0UXhHN1RfNFRueG95NmJTX1RNdjBkN0xucjRHVDJFSGh2R3pUNElXU0F5TjdnUEI?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalMwX2R0R2pkS3daQVJZeFRjS1ZpQUlDV0FQdkY2WFJQOTBIUWR4R1RxRlFhai1ldWpsN0RIRHBxZlRPNkFpc1lWUlRRVDdyZ2pPbDhXQUVpM3lQcXMyUlNOeE10cFBEZU55VldtNVRtRjlWbzVvUzVuc19aaUtDSG9CR0diV0My?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzZZMFYxUDdzN0prU3N2bWEtbDF5Slc3QVViYXlaWlMtS0RxRnZzNjFnYmx1YUhEQU95SHR3ejZoUE5SdkNFc3JqTmVtbGtkSEx4WWxMSFY0WEJlcDFjVlNjNTZ3X0hyWm9NVnl3T3lLLWRWeWxNWXRoMm50dGxGbnBacGp0SHpDVW44T1l0eW9XVjN0cGl1VEJR?oc=5",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSldQSEVEMzJraFBXOFhKQ09pTG5LamQxa1lnRmdWUzBFT2xNUW5KM0J2b3NqOFdZVnpBQW55UXk2UGh1b0l1aG9GblJfVVlsaWREajN3STFJM3FvVXFHWGI0c3U5Mkd0VlJ2U0gwRXhYSnlJZXlRTGJpdndfZDdWUHNMaWozQ29kTXhiejk3M21aOXhVRGE3Y19Nekx5NDlZSUVtYXVPUnItS0NnVnhiM3ZBZHVHMjhyUjlwaWFsSThaSGt4VmZKSUJPUWRxbldkN2ZF?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVh1TlNWWVZLOC1VQXRLRm9IME90SmdTRjcxZVExYVoyR1lyemRDQnlRcXNqYW5IbVVTRGVIZWxoMkZNemhSZU1XMGY5eUJXbkltRFpWTTVFZ0t5RC1mSW1zWUZZZXBfdU02d2RCdVcyTWR4NlRJT2VyZ3hxR3NhenlaU2ptMFczR0lPYnVQTEN0cmcxUEk0eEhtZF9aLWptZzhmdmxvNA?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWJCakNLX1NGS25xNklCNlQtRm5OdHJXZ1o4Q3laTzNSMkhXbjhpVGJSNGFjcVpLcnJMeFFlQkMyQ3VqZ0pyZGgtbWZyeTJyUmJabUdVTmczUW9EUmlKekkzc050aENVYmFmSE5vaWFlWjZpbVdqLVR6MkR6UjVqVDhSRWhiS2U2aUxRdE5DdEJUazRwRnEtb094Q1dXbUx4YlRJ?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc01UcUcyR2p3c0I1MkVuZ0VKa2NDYWVRMWpkZWxFTmFrSThkTmUyOGp5VkNHYWRzdlU4TUNhT3ZoclZ5eUhoRTMzMy1leENVOW1zYkFKeU9SQkFLdTV6NlVLSVBYOUxwTlRhYmZ4OTllZ0lESDNfNjNDcF9NdU5GT283aHJmN3QyZmc?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Qd05BeDJ4UllHdFN4c01heldYaldoMEJrN0JOY3FGNDgtbWpzekhJUEZQRHk5RFY2Z0lpbGRSNWxmY1QtRWZPcHhiREZRR2xXa0w0TUFlaXAtdWZGbGlIdFJ4NC1EREpLajg0M1VETzg5TjVoYUFCTWE4UjZHTlU?oc=5",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3M0RTN5eGxvcXYwcUc1ZHBQVTFyRHRrRTctOHhhdGFoSlhSWG51SW1lQm9GNjBhcmtmUHN4bmhXV3premd4bVJQUFFjZ2tTZzc4R1JWU1plN3MwOW50QlByZFJmRVhfZ205YVpjbVptSHlBdVlpZk5iYk02T2FEX1NtTXRGOW11d0Z2bTRwekNUMWMyeDhIV1g1elEtTXdUcnJvZVByNVQ1S3htck40d0s4T09vanJnSzJfZWJqd2VYaVZBa2ZWQ0RCVTVobzVO?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/28551/haz-studio-releases-free-steam-demo-of-deckbuilding-dungeon-crawler-crawlgan",
     "https://www.invenglobal.com/articles/28550/g-star-main-sponsor-wrtn-to-showcase-ai-creations-host-qwer-concert",
     "https://www.invenglobal.com/articles/28549/netflix-releases-league-of-legends-music-video-collection-with-kda-true-damage-and-heartsteel",
-    "https://www.invenglobal.com/articles/28547/paradox-interactive-names-mattias-lilja-ceo-as-fredrik-wester-steps-down"
+    "https://www.invenglobal.com/articles/28547/paradox-interactive-names-mattias-lilja-ceo-as-fredrik-wester-steps-down",
+    "https://www.invenglobal.com/articles/28546/tenz-returns-to-pro-valorant-with-t1",
+    "https://www.invenglobal.com/articles/28545/fable-shows-new-quest-gameplay-for-xboxs-25th-anniversary",
+    "https://www.invenglobal.com/articles/28544/raw-fury-announces-dungeon-automata-release-date-and-kingdom-two-crowns-dlc-in-first-unshowcase",
+    "https://www.invenglobal.com/articles/28543/supermarket-simulator-launches-on-ps5-and-nintendo-switch-2-physical-edition-due-december-4th",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5bU5vN1VMMHZqY3FYb1lmMnNJVGJ5NVRDRURKMXVHal9DcWFNcV9qeDh6UXlQbGhmaUMwSlVvQkpqSXJkWGphSkJvZl9fc3VraENGUkRJWkZMMUpXS1RVUnJaMkxKdw?oc=5",
+    "https://www.hltv.org/news/45716/who-are-2026s-rookies",
+    "https://insider-gaming.com/xbox-first-party-games-free-new-pc/",
+    "https://insider-gaming.com/nyt-strands-hints-answers-november-12-2026/"
   ],
   "title_hashes": [
-    "6749d4f47b5cf58dc92d31c4bebf8b53",
-    "1ac4953e892857f8e8f5072966b4f64b",
-    "ff89947ab47ca1416921e9bb7ad026db",
-    "accfadf4e636bb5c3df15f6a61858b16",
-    "209f9f7974a149e115971e225eee990b",
-    "b6c3520f700403149909c09daffba023",
-    "7149987601057905f2dc16306d0492a5",
-    "23356459af41fda0e560642802ab4770",
     "cd00d50d0eac02a1e188013d0c828fd2",
     "c8a2d278dee5d8c0408972093318886c",
     "ff3b9b842355ed5c502e0f8f57176c7f",
@@ -16001,7 +15993,15 @@
     "f236b798b1900c8651939c0fb3c471e5",
     "a8f0dd779fa343093fe654f6f53eddd5",
     "c68c56791926db690729421d9afd027b",
-    "81dfb013aa472b2c5434d26a2ed50835"
+    "81dfb013aa472b2c5434d26a2ed50835",
+    "29b7ddb29e1b78bdb646c9d94e4dbced",
+    "20e878896a5aad35901ab1dbca0ca4d0",
+    "d42f70d2938ba272045f2eaf005ff7da",
+    "0acdb78c2cd5ac07b46de277bcefabe8",
+    "63d82b72bd95d6524a313bf400f7d9cb",
+    "6241e225719a28580ce09c75eb0f0215",
+    "9c6ba633318340b5cb4f86e3bdcd14de",
+    "015d6357e4a0d5ef449ba49a6dd1dfbd"
   ],
   "transfers": {
     "pages": {
@@ -21284,6 +21284,26 @@
     {
       "t": "2027 4th appointed ceo deputy down fredrik has interactive its january lilja mattias names new paradox replacing steps wester",
       "ts": 1794526538.8233018
+    },
+    {
+      "t": "2027 23rd 25th anniversary before fable february gameplay games has launches look months new playground quest reboot released shows three xbox",
+      "ts": 1794526544.2850828
+    },
+    {
+      "t": "2 4th 5 acco december developer digital due edition games has interactive launched launches lining management nintendo nokta physical playstation ps5 release shop silver simulation simulator supermarket switch turkish",
+      "ts": 1794526547.7980862
+    },
+    {
+      "t": "2026 ahead awards been criteria have january rookie rookies simplified who",
+      "ts": 1794526551.9257317
+    },
+    {
+      "t": "2026 25 anniversary appeared celebrate first free games great new offer offering party post purchase sales their xbox year",
+      "ts": 1794526555.5233462
+    },
+    {
+      "t": "12 2026 6 984 answers find game hints its november nyt post puzzle reveal solve spangram strands stuck theme these use words",
+      "ts": 1794526559.104231
     }
   ]
 }
