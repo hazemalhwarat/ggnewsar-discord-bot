@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.esports.net/news/gaming/mvk-esports-furia-play-in/",
-    "https://www.esports.net/news/gaming/cloud9-worlds-2026-exit/",
-    "https://www.esports.net/news/gaming/bet365-sweden-fines/",
-    "https://www.esports.net/news/gaming/worlds-2026-play-in-cloud9-eliminated/",
-    "https://gameriv.com/evil-geniuses-to-shut-down-after-25-years-following-valorant-partnership-setback/",
-    "https://gameriv.com/lol-mel-ability-overhaul-all-changes-and-patch-26-22-release-date/",
-    "https://gameriv.com/league-of-legends-patch-26-21-notes-all-buffs-nerfs-and-more/",
     "https://gameriv.com/apex-legends-ranked-overhaul-season-31-legend-bans-season-32-new-ranks-and-pro-am-league/",
     "https://www.hotspawn.com/league-of-legends/news/lol-worlds-2026-predictions",
     "https://www.hotspawn.com/counter-strike/news/roster-radar-3",
@@ -7999,16 +7992,16 @@
     "https://insider-gaming.com/new-gta-6-macca-friends-in-game-trailer-revealed/",
     "https://insider-gaming.com/5-big-ps5-games-will-receive-qssr-update/",
     "https://traxion.gg/jarschel-claims-victory-in-alpine-sim-racing-series-opener/",
-    "https://www.nerfplz.com/2026/11/lol-champions-who-changed-game-forever.html"
+    "https://www.nerfplz.com/2026/11/lol-champions-who-changed-game-forever.html",
+    "https://www.hotspawn.com/counter-strike/news/mouz-and-falcons-progress-to-blast-rivals-hong-kong-2026-semi-finals",
+    "https://www.hotspawn.com/counter-strike/news/apex-blast-rivals-hong-kong-2026-exit-interview",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDlkN0JuUXdMUFBXa2oySWR0VF80VnpacnpGVms4bjRuNU02NGV4NFJ4UWh0QWl4al9KLXdPLVRhdWgtVFhlelVUbktnREdiUGdLbUc1T1lmeGZsM1Q3bXhrTGExNVJtZklOZHU0T0Vid0s3VU90NG1WR215S1czQ3pkalM2YlNuY1VEeU1BQ01SWFQ5eGc?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxORGlEdlRPTnlwTmZZT0ZWVVNxcWdranRvMjZROTM2Z1ZFVjNTT2N2bGsweVlxRUhac200d0k2LWtQX081enJycGhwNlM2Y2pmLUVvSXRQT2pZVGFvZ0ZxOG9hSGlDaDhBVFVpTmdSTzBDZDB1M3RCbEw2S0FqTHYxM1AxSVpJUWdoVHFhbkprLS1VajlXR3ZmSVhn?oc=5",
+    "https://esportsradar.gg/sportradar-boosts-esports-offering-across-cs2-dota-2-and-lol/",
+    "https://esportsradar.gg/esports-sector-pushes-back-as-italy-puts-lan-halls-under-gambling-regulator/",
+    "https://esportsradar.gg/msi-renews-red-bull-deal-as-official-pc-and-laptops-partner-for-2026/"
   ],
   "title_hashes": [
-    "8c0010a61682b193506971e6e653f659",
-    "dbaf78ad8b21204e1a63187585138876",
-    "713c96090ecff6201e7c568f7cb93147",
-    "863ff1b338ea561a41ca807efea078b7",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "834f8a92829ebd8c0b74ff131876f6ad",
     "b1d420b598eaa2d1653c20d2ea9a6756",
     "a1a2d8ea3e64adf3bb651491d1bc7701",
     "0c24aeb66e5f417dcb68cfc2349b596f",
@@ -16001,7 +15994,14 @@
     "45d2298b2663b0e07697297715b26dd4",
     "053cfad67149769933c31c563053b3fd",
     "e094e3722a1499b072ee958c7403e150",
-    "ddd652dacff909b016c7c641155dd161"
+    "ddd652dacff909b016c7c641155dd161",
+    "c2f21a03e7083ff809eaa02dc29f74cb",
+    "e7b593b4fff74a99b8cceca2394977e5",
+    "9e5fa844deb2df8b9d250dca49e844b2",
+    "65d9fdaeb66bc0422ae7e9a527fcf364",
+    "699e077c6544744cd5afe8f896576fdd",
+    "c67230cfcad55af2719c146ce7569ce1",
+    "95888821cd7fa0b7b5cc0f38b141c969"
   ],
   "transfers": {
     "pages": {
@@ -21052,6 +21052,26 @@
     {
       "t": "10 about back balanced champions changed edit existence forever game get itself lol made ones picks rewrote riot rulebook rules some something ten these who whose",
       "ts": 1794595705.794612
+    },
+    {
+      "t": "2026 8217 blast defeated doing falcons finals furia g2 have head hong kong matches mouz progress respectively rivals semi set spirit they tomorrow vitality",
+      "ts": 1794595710.7831845
+    },
+    {
+      "t": "0 2 2026 about after apex blast cache caller difficulties dust2 final following his hong kong loss mouz over picking player quarter rivals season shit talked team three vitality",
+      "ts": 1794595714.4322004
+    },
+    {
+      "t": "2 across addition based bet betting boosts company cs2 data dota esports esportsb expanded feed group has its lol nasdaq odds offering party proprietary sportradar sports srad suppliers swiss technology third through unified",
+      "ts": 1794595718.2854893
+    },
+    {
+      "t": "2027 across area back bill budget domestic draft esports gambling gaming halls has italy lan local manovra network placing pushes puts regulator regulatory renewed sector supervision triggered turmoil under venues",
+      "ts": 1794595721.7659998
+    },
+    {
+      "t": "2026 agreement announced bull company deal drink energy event gaming hardware has its known laptops maker msi new official organiser partner partnership pcs red renewing renews taiwanese that under",
+      "ts": 1794595725.2373736
     }
   ]
 }
