@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45QnVFemV0SXZqSy1EeTFncEpMWVBIWkFZcDltRjRjMjhTaTNzNnZWcVM4TXhvc1lUcU9GY2Fad0FfUVhMTlkwb004Vko4UEF6ZGlTb3FiVWRMLWE1WlQyQ1Eyc0tCX0hw?oc=5",
-    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbUtTRV9tc2lya3AxaF9nbVVXOGU3dHlpYzVkSnAtbHVuekhpdV9XeUx0SW9GaHZqbmZzRno5VHVKUkhfTm5Vd0kwMGM0a3ZjekRlNmJwLUk2WWZxZlFMR2RHSUh2aXhxMVBQRVoyYTEzNHZXVFdZTkFyeVdvRlBrcGZsdVdaMk5TWW91MS0wdkxNUlljZkczbkhlbUs4X18tUmprNkM0NXY5SW1jQTdJc2VwRFlDN1NBT25NMXlsRDlYYkpmXzlyNGtZYzFpWDRCWVpQRG5JRTI0eWdmbE8yMjd3TzBpTXpzYlB0ZjVXV0VDa2JfN3RZSXFJVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMX1o4THJRVUhHMXlRVDVpMzRWTXFETG5FSWxaNGktSVh1MmdqWnY1aDFTNVl6OEs3SXNtcVp0Z1BRTUlkTjU1QlY3ZHZWYXJuQnF4YmNYaHdBdVZtd2FCay1OQ1pwVG1ja2ZV?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Vc0xnbFlEbkw4Vi1SakxkSzhwVHUwa3JQWFl4bHBBMGZuRW5BNnRkZ1B0b3F5eHVGVVNLUUhXLU13eEFVbHI5N1FTZ1lOZlVfd2x5Y01VQ0w5UGpDZzVGMmpWWUNpZWJab3dB?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nNm1xMU5YbWlSRGdNdkE3cWYxdF9fZW0wVk9yQm8tRXlCblB6WE1PcE8yRlVMeE14emU5LUJKT0RtSDdqeTgyN2tKNWFSdGZidlI3UFZEb0dBamtIb2dkRms5UGlaSk1kZVBZ?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IbEo1dTFKUDRFcG9EZVQ4M1B2bDhlSHFmcGQ5T1RfbHEwR1BwVWl0b2tFdUZBWnp3ZENHQlJTSU1zRzlOek9UNVgzVzFtUDNwc08yeC1QcFF3SEplczBGU2FYZEhpT2RZYWFWeg?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPci0tRUp1eGkyTDhQazhEQl9NQ0ZiNFhEYzlwOElUMXM1OE5XWTM3Z0ZhcmhPWjlyLTRBMGRwVUttalRGcmlYSVBtS04wY0lzNnZNbkV6MC1HbTZGNG9CRWd6TElPRTIwYjRfNW5iNUxsdHprbl9HNktYSnJXVmVLWXNUV3VaYXYxaXp0eWVxQTNodGRlMS1KQ05CRzlaZXhJZF9NRnFMWHpHaEEyeGJqSF9VRE9hNmZ3Wm8yQjcyRmJ5bWJ6?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zUFRZRVE5bXlVampVb2FNWnVSNXNvN3lGRVk1WnlEUWM5Z0ZHTUJuZEYtSlFMSzFDb3FuZXUxVXlPQVVLUXkzanpBYXVBYkVuR1VLeE1rYjVidTg2TklMbjNKajBLSnlhZG5j?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzZSZlZ1Wm9hZDBhbktfM0RveUtrZzhsWmJzY3NpbFpYNjZ5Z2ZlLXF0cFBGemtNOUFLenBCZmFya0NWemdWZmxubm5VSWVnZHNpcjNlRXRKTVEwNnlRWHp2eDVGQVE5bGxqRkI0R2lTaTJtRndxMHNfWUNOWWdiQXZuaXptaUhvRGJhX2FKRi1vSVZQcS1Kcg?oc=5",
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fSWE5R0lsNmpYRDVNcDhFM1RyREZBY0trMDJUUU0xUGhqSUdpeWdBWFhNcVNfUG5sNTdWQnlhV3gzZGhpcldBWml3OA?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzN6TGVLX2tOd2dfeDNWRFQ3M29NbE5ZVmY3MTBuT2tkSjJPZ01nWGtoRmJEN0hDWDEyRlk3Q0VXckRPNEw4RFVsWVNRWVRrZ2R1S0tLWVZpQkJvT2E0Ukk3Qkc2YkVNbHZEVVFPdXhFUFZXYWJ1bk5GREZONy0yeUpOd3pLQWIy?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWEFKdlEtQVhyX2ZSM2NCVlpfVUdRNk8ycTlMd0lXLUdHSVA3VHpKMS11TnlHdTZhMFBQYmJGQnJlcWR6QzVHeVFLb1RyMXJpMTNfYWFPVzBSbXpHTFVPdUxHZnhaZ0RRMmlfb0VsR21CUnRSZkdUdGdwbDBvX3l4U2dsX3VmWjBod3VXR0c5aXhLSFFtVm9Wb1J6bw?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUndzLUxneVJrRUtLdmVLTXNaSUxYWTlMWVQwQlBnNFJ4VGpfYVQ2V1QxdVNiUHgyMTRqRjVSN19QWmx1RzNrd0NLd212d2tSVndUdHY5TDFNWk50T0VIaUZFbnRSb2FBeXNfM1NINk9EWXF5akNqM01ZVWwzMjY3Qm9aa3Jvbzhk?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXRmODZNSFBTZ3NaVGtZekNwVlJLcDRMVkNoeWZPWVBNZG5qa0FsTEVabE1tQW5uRk9lOS1HVFJLTlEwZ2Nzc0hEcXhVbWNGakViUHBUelNuWHg4bkhwcVh6SlFHWl9ZQWdyOGtvcERDUHpPOVhLSVpUQzRBazR1eHB3RzB2eXo2cF9rX19zdzBHeTY2azJKQg?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2NseWVkQ3Bra3I2ek4zR1M5OWNxcTQ2eG1UdDB1dkIycGZyc1RsZUdlajAtS1pUM1BIakpWWmdYTTlBVE11blVsYkYzM2tTY3FaeUczdFMxXzA2NG9LYk8zQjFoc1hWRHVuMzZqLVhkRWFQZGVNTjRCOVV5YnY3RDRLaWhFa0ZKbWNRZ3E1TUZpMFBlWWYxNE9CU0FkRDJIelNOTDhjLTNUZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFpnTldoTVpSZ2l2dkhDbjF1YXZqYmZGNW9KMDBBTXNWOF9BNTA5U3VWT1lCVExad1RWenZVR0xOdWtuOEM5SkVDT1FtOWZ0N0NDMkxoUlI4UG1CUmxHSXh0c01VSTU5ZFZUd1VEaUlPWnVTTGlVZHBIYV9Tc2hyNlJLdWxtbjBQM2RFUDl1dlBSX2tlSFFsdER2YzBobzA5NFI5RTNIeDM?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmU4TUgwazFRczg5QkF0SjViVEdPVjNMcnNKYUpjQmtmUkg0WGg2NzloZ2hSRnV2MmZCcktNT1FVWjJkTWhUaDhoSkVFdEgtdEdHSkJ3UkdQYmhEQVQyZkpFMURKdkg1SlF0ZndkVkIxRVlWMS1QSmxHbEwwWElRTlZfdU5hY3g0aEtpeXFSNnk4ZUxJRWdVdDE5OWVKSmpzNmJRMTkzanRuZ2Nl?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXJTQWVXM3hvQjJSTG9EQl9OcHlMT0pBUmFvcGt4TTdhUHFwcUNpMFpFQXJaY2V3WWg3M0ZJMzZlb1EwQlF0U2xPV1p2VEc0enBnbWpmNHVjM25nR0E0LVhVN3ByLXJkSW1qcHJNR18yb0N3aG1TZjg1WklVR25wZVJ5bGFPUWs0dnNhTEdReFFFak1CR1FTUThEdXBLZlpVM3VQYXhYcENoQkJ6dFdBMkQ2OA?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlhazVoQVRGRjZjQ1lyV2ctWFRmOTlGZURfTXV0bnpBOTVSTzB4dXlTaFdTR29NaTZ1NkZRejdzb2NoeXBxTTU0RnNCczdNZUNsY1lsMS1hWFhTMGMxZFR1OHdua0hHU1lRd3NBYWhCdk4zYXdBNlI4NHc3ZU5vX1ZWaDdKWURzaE5fVngtSmoxNUYzbmhJblBYSDgyUm9ibjAtM0lkOGxJZw?oc=5",
@@ -7999,24 +7983,25 @@
     "https://gameriv.com/respawn-cracks-down-on-controller-cheating-in-apex-legends-with-new-detection-tools-and-permanent-bans/",
     "https://www.hotspawn.com/league-of-legends/news/all-eligible-worlds-2026-skins",
     "https://www.hotspawn.com/dota2/news/stariy_bogs-pro-debut-ruined-by-team-spirit-1win-essence-iii-day-1-recap",
-    "https://esportsadvocate.net/2026/11/motorsport-games-le-mans-virtual-series-plan-dropped/"
+    "https://esportsadvocate.net/2026/11/motorsport-games-le-mans-virtual-series-plan-dropped/",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xRTM0SF9YRlI4QmV3MHQtdHlST3NDSi1oc2RzckttMjFiYkVmOWE1N0k5bjRwd3NhakdUdGtKTmFYdTJScXhEWFdKbVQ5RzJTV0xz?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTjZLV1N1amVUUnFPNlpNdWRjejFEak1WN3pHc2xET2tKa2Y2ZjVvT2JGN0J6Qmd0bU5uc21ybVgtVHRnTWlidXFtY3JlV294am1oMGtITnFvc0JPTEc1eE94bGxsZDdvRlpBVjRHYVJ2UVdkUnU2OVl6TEhHZnR6UmN3TzZBLTYxWFdDMEZ5UVI4V2E3V0Z1MGNITDByNGg4VlJ2dDVUNnNwaHg5MnJrY2xfZzlpMkZSMFhlc0dQQTU1SUVtOE1uUVFlQVo?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRENjdlF5NUtRS2FseDE1T2pKYnlUQjFIYnZxdl9EcDdDdnNKb0xPS2RlUXR6WDRfM1A4aF9uS1ozWTQxRWxDeENKdGtWNXlTSmRHdnNJOVdfS1lpMDJKWlFxTjN0NWZUbXJrdzNxMTVhTkpsbUx5WlZ5UUVocTJ0WVBUcl9qaHl6Tk9JTDZGTHFHTXY2REsxS2pfc2VTLTRZVEtPeFpxY04zbWtQei1PMXJhQy0weW11bjkza0F6UFg3Tnh1cnU3a2tLbmg?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVmk2WVF5X1EyYmx3bTZfZndDVjZVRGxYLXBsYlM5RmFXUjhXY0xFVGlVRU4xWTFBNGVHR0RnY1BFMHBCTl9GUTQ0dUZnS2JJYzN0Y3pscFYzRXZNa1NTT0s0ODl1SzVieVpRekROWXN3enl5S2ZmOUh1NFIwenlyNmNEcW9sOXI4YnV1WlRoQ3JmQUVjYzNXdmE1Y2J2OXRKZW1ZXzkzckx6Q0drb25lMzZlQkR6LUk2NVM5cGJKeFoxY1p5?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53NEpXdmZqa0xXcWZtaW5SS1pLMUl3dFRJUGtuUVVFYlpvb3MzWDBORElES0R1LThMRWtoc2NSWGNYbDFrcFRVLTktNXBfNlRraGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVTRmc3JMTVhIeWRIeVRzUjhnaWFHOVZPelJqeEJIX214emdJUjg5VHlzVmgtY1FtT2x6cEVISTQ3NnJQUmwtWW5FU1hqek1XME5Sazkta2xhS0huZzlSU2JfTGpXNHd0dmlQRERhWE1rU1ROaXFHdTR0MGI0LUJXWC1ZSW16WVRERUtDLUxPczA0MjduUFMzQVdBY0lUbnFnd2hpSFJPb21DM1FjS00xZXJsS3IxS25MdmNrbFZfZDFkQU8wbUdKbmlDbw?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mODRsaW1fWnZxWWpOdzRpLWlTVlRKT2lueFIxaHBFMlBvbmJtendtQUN1VW5XaUt6X3lJdlhMZ09rbE1UTmRMV01OSjRKdGVWSTNfUm9heEdTOWZIak85SDJtWjJiRXJpT2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pSGZTeTg2VnpyTWg5RjRaMXF0aTIyT1VLNm9nMDJjb1BLa2JQcFpGQms5d3JDWGt1SFFCZ0ItX0ZndnJZeS11S0trWFE3V25tMjk0NWNSdm84NWFUMGZtdFRKX3ZERW5k?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSWw1Z1RuNXMyenBEX2JYQXlmVTZsc0NPOXJVcnJnbmhDWll5dEpEU05HRDc1UlRGUzBITXdtZnE2Rmw5X2w2eDRBZVBiTVRTN0N4NmhoWm9NbmVablRVbVlnNU1JbVhhU3JDX2FjODdRMklSVGtHSjBGTUZJOU5NeFlQaw?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXBObUFiaGtidUJtb0ZSR1NJcUZyWWtrRG9LcVhqb1ZNSGF5YTcxVFBwNmlHLUVSMEFtZ3VXRlhtTVhoRTR0QXFkajh2WHdMMXlkX2l3VmJ1a3N4ZXhLbXlhaWpGR1dOZVk4azROZXhNRW82c3A2ZkpNcDVNc3dZQjhLRXNtVEkwRVFNN0I2dzUtam8?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFRCSVVXT3hCTm9WeGU5bkp3NGhTS3MwNTA4eUhxb2NTTk1GSU1MYVE3aVgxcVd0M1BZWUtabWVnaFFVUElRUUJ0WGpDMi10SWQwU1prY3ZWM1BlQlg2S3E2eTBSemlPOGhTOVg2a0haaG9uTHdqS05DRzdodjVIM3JvTVhlWTdhNEswVkJ0WUNwbENqUXQ4UTBYT3Z0NDkzUXhUb2FkZlYzcFpxemt3WFRCaU0?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlJ1UlRJRGdldXhyWnU1MllzNjFEQkdRWnZmQmtXZktPc0NUdGhwZEVFTXRtVDB3QlBFVC1EZGVJVEdtM18yQWhEbHRaOFNULXFXTEJWZHk0VThMZGI1WEQ4WmdocWJycjhZa1RfTjhKamRhc2N3MWJTS0JnZUR0NGIyN1Fva3J4Y3ctaGVjNEpOdDB3NmRjWWFITC1Oai04STBQOVFyQjVqUzhYZVdPR0p4aDIxSFRaeUhCRWRn?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalMwX2R0R2pkS3daQVJZeFRjS1ZpQUlDV0FQdkY2WFJQOTBIUWR4R1RxRlFhai1ldWpsN0RIRHBxZlRPNkFpc1lWUlRRVDdyZ2pPbDhXQUVpM3lQcXMyUlNOeE10cFBEZU55VldtNVRtRjlWbzVvUzVuc19aaUtDSG9CR0diV0My?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbmlRLVl5Y2RmNlVhN3VXTlY2bTBCdzY4WFVYZTA3cDVUY09GU2I1bk9lYlAwVVNKcUNpNUxzaDF2T1c4V3NfRVFSOXY3RzZOci1TTEpMYkRyU25aN3gtdVIwTHlWSEVXdGVBS0dBUXF0eVZicjh1RVBLbG55ZktCbWt0N2F2UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3M0RTN5eGxvcXYwcUc1ZHBQVTFyRHRrRTctOHhhdGFoSlhSWG51SW1lQm9GNjBhcmtmUHN4bmhXV3premd4bVJQUFFjZ2tTZzc4R1JWU1plN3MwOW50QlByZFJmRVhfZ205YVpjbVptSHlBdVlpZk5iYk02T2FEX1NtTXRGOW11d0Z2bTRwekNUMWMyeDhIV1g1elEtTXdUcnJvZVByNVQ1S3htck40d0s4T09vanJnSzJfZWJqd2VYaVZBa2ZWQ0RCVTVobzVO?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RYnlhRXhPdVFpSEZhUHpEbHIyXzJCVkhESDhadDVPRnZlVkE0WUxZS0RadWFoeXF0aFc5NGR1NlFid004dm1XeGFMeGQ2LXNvR0VUbEZpRGxCbWZ4SkJIMkpxbGZlNVJtMWJRcTVOUEt6bnFQOW5wU1pMYnJ3dw?oc=5"
   ],
   "title_hashes": [
-    "5aad37027d49335086a3f5bf299a4d9c",
-    "732968b0103edeb2b68fdbb3b9527ad6",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "bb685f45da960a8f05061b093229259b",
-    "767004fb8e5729adbcd01d4dd6ebb330",
-    "7b371c033e7dbf23e7e25ded5867457b",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "18df8267d523dba24a771d611dbc1874",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "c514afe16d030c0a938bca1e392bae6e",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "c8e1b85e36378c5d9a5befc9a0147feb",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "4ea0ea9bf010270dd368928332ff178f",
     "2762bacd51a194ecf612b01ba18fe768",
     "c2ca158a054f888b0c2988ac6b98cebf",
     "850d1d695ede7a8ff8904a779f7082ca",
@@ -16001,7 +15986,22 @@
     "a6b69bec0d3076cc93b32b1f7f0b2a67",
     "96d80680fae8fc3b2e5fba6748247f59",
     "e05dcdc93a004de902373151c7385112",
-    "56de6374caa3ac026e2140fd14899ea7"
+    "56de6374caa3ac026e2140fd14899ea7",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "b1d420b598eaa2d1653c20d2ea9a6756",
+    "c77b3a340006f4656bbe1735512fb250",
+    "0356ae70afe9ac73789246c1dc025c54",
+    "19732f36b934e2e6f0e2a0dbd62304f0",
+    "8aa6a8cf19c53ce561d31d75156bbfba",
+    "55083211edc48329efd4815ba9c2b2f0",
+    "b3e3f53905ed2f843e7d7cd5b148af63",
+    "9d142c1d86acf784f8f15bbf5d4e110c",
+    "0b4f4e7142833a90532a0b727b7ba97a"
   ],
   "transfers": {
     "pages": {
@@ -21428,6 +21428,14 @@
     {
       "t": "dropping drops every filing game games had has its listed mans motorsport nasdaq periodic plan publisher quarterly racing removed repeated report revival revive series statement virtual",
       "ts": 1794541076.3665977
+    },
+    {
+      "t": "bull deal esports exposure gains hoc msi nbsp news red renewed stock through",
+      "ts": 1794541081.443955
+    },
+    {
+      "t": "2027 adds brokenblade carzzy core dot esports existing its mkoi nbsp",
+      "ts": 1794541085.0310087
     }
   ]
 }
