@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://esportsinsider.com/2026/10/wolves-esports-sweep-a-team-to-open-vct-threshold-china-campaign",
-    "https://www.hltv.org/news/45768/snax-moves-off-gamerlegions-active-roster",
-    "https://www.hltv.org/news/45766/evil-geniuses-to-cease-operations",
-    "https://www.esports.net/news/gaming/worlds-2026-swiss-stage/",
-    "https://www.esports.net/news/gaming/worlds-2026-play-in-viewership/",
-    "https://www.esports.net/news/gaming/navi-tie-team-liquid-id-at-12-4-in-mpl-id-season-18-and-sit-two-series-wins-from-m8/",
-    "https://www.esports.net/news/gaming/sansan-looks-back-on-worlds-debut-and-mvks-kc/",
-    "https://www.esports.net/news/gaming/valorant-champions-loud-second-title/",
-    "https://www.esports.net/news/gaming/thunderpick-world-championship-title/",
     "https://www.esports.net/news/gaming/mvk-esports-furia-play-in/",
     "https://www.esports.net/news/gaming/cloud9-worlds-2026-exit/",
     "https://www.esports.net/news/gaming/bet365-sweden-fines/",
@@ -7999,18 +7990,18 @@
     "https://gameriv.com/genshin-impact-cheater-reportedly-arrested-for-selling-paid-boosting-services/",
     "https://insider-gaming.com/pioner-shutting-down-gfa-games/",
     "https://insider-gaming.com/vindictus-defying-fate-new-trailer-2027-release/",
-    "https://insider-gaming.com/former-nintendo-minute-hosts-claim-the-company-had-to-do-something-dramatic-for-zelda/"
+    "https://insider-gaming.com/former-nintendo-minute-hosts-claim-the-company-had-to-do-something-dramatic-for-zelda/",
+    "https://insider-gaming.com/rainbow-six-vegas-3/",
+    "https://insider-gaming.com/the-blood-of-dawnwalker-update-1-2-adds-new-game-gameplay-balance-changes/",
+    "https://insider-gaming.com/backloggd-gamings-version-of-letterboxd-gets-first-mobile-app-closed-beta/",
+    "https://insider-gaming.com/god-of-war-sons-of-sparta-ps4-new-game-modes/",
+    "https://insider-gaming.com/playstation-wrapped-2026/",
+    "https://insider-gaming.com/new-gta-6-macca-friends-in-game-trailer-revealed/",
+    "https://insider-gaming.com/5-big-ps5-games-will-receive-qssr-update/",
+    "https://traxion.gg/jarschel-claims-victory-in-alpine-sim-racing-series-opener/",
+    "https://www.nerfplz.com/2026/11/lol-champions-who-changed-game-forever.html"
   ],
   "title_hashes": [
-    "9d142c1d86acf784f8f15bbf5d4e110c",
-    "f2ab5fb218da8b84623f45579aa4ba11",
-    "2b56d8d6c3e012753afac09c2d01c24a",
-    "80e5e1946fd0342798ed2c361d3840c8",
-    "902e7d443fb616fc574672b44f704833",
-    "fdc40fc1ab3b703cb403848e5f836da6",
-    "6fe56aa9eff4e37a11c5e71313cee9de",
-    "4283eaa088bb4419f20c04bf2f57493c",
-    "e99248769125d7285a3fcb8c1c049a07",
     "8c0010a61682b193506971e6e653f659",
     "dbaf78ad8b21204e1a63187585138876",
     "713c96090ecff6201e7c568f7cb93147",
@@ -16001,7 +15992,16 @@
     "5c283aeb1102a756051c081e43ed8671",
     "244dd31cf0f4a4b6569d33ca65d205df",
     "49a5ac8229c8c4efc6e1ecb810473a16",
-    "15fb9683774774f09cd5bc685af6d8ce"
+    "15fb9683774774f09cd5bc685af6d8ce",
+    "57d23a120d82d0bca38827dce567bb4a",
+    "9dbfff54608f9c8f7fd1851f5a44dde4",
+    "dd263ed8442ac861525796f3356e2100",
+    "6eb91cf670e9d5f02d8ca5848f4b4290",
+    "7af495efe164a9007236ff9bdcabffa2",
+    "45d2298b2663b0e07697297715b26dd4",
+    "053cfad67149769933c31c563053b3fd",
+    "e094e3722a1499b072ee958c7403e150",
+    "ddd652dacff909b016c7c641155dd161"
   ],
   "transfers": {
     "pages": {
@@ -21032,6 +21032,26 @@
     {
       "t": "8220 audience breath claim company dramatic former had hosts insights kit krystal legend minute nintendo post prior share something their time wild zelda",
       "ts": 1794595686.5612588
+    },
+    {
+      "t": "after appeared decades development early exclusive first gaming has insider learned nearly new post rainbow return series set six that title two ubisoft vegas",
+      "ts": 1794595691.7219415
+    },
+    {
+      "t": "38 6 8216 8217 amp animated auto been feature friends game grand gta has macca new post revealed set show theft trailer",
+      "ts": 1794595695.2516677
+    },
+    {
+      "t": "5 another appeared arc big control first five games gaming including insider playstation post ps5 qssr raiders receive resonant support update will",
+      "ts": 1794595698.7325985
+    },
+    {
+      "t": "alpine appeared claimed claims first francorchamps jarschel opener opening paying points post racing round series sim spa tim traxion victory",
+      "ts": 1794595702.3143444
+    },
+    {
+      "t": "10 about back balanced champions changed edit existence forever game get itself lol made ones picks rewrote riot rulebook rules some something ten these who whose",
+      "ts": 1794595705.794612
     }
   ]
 }
