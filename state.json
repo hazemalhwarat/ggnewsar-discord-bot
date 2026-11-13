@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1l6cUhnc2w2ejlMcWpLdW1yS1pWSk9YVUJDWk4tTmxKR1d3dEdNeFdpQTF1VF9EVVNKbEhZb3VlcG9qdWNjUzNkcFJvY2ZUUFE1ZHFfcV9QS2xVVTZKbzA0eUk3TXVVTkhXWFpJODdxTlpxZTJWN0M1eDl4SlAwYQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaElidEljUmtiQVhqbHVPTTFkNU5QaGhha3J0aWFVMVNVeC1RRTJCcEpkVFdYUDFzZ0l4enFDNktHaU1NcjRWdEpjdXpkMUdHUFluczdHTU5idlh3MHlpRmNsdFdBUXJUbWJGOVJfVVJKclRYbGFDNWNRanI4RTN6X1pKOVJKMDBNQzIyVGhsZTlhNlU?oc=5",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5TS2NSczFBdEJHTVVpU0h5c2hBV1NhMjBRVE1yZEU1QVlPWHVtcVAyT1NCNHFIMXhodGlCMjNiZTc1VXQwd0ZoRG5n?oc=5",
-    "https://gamerstyle.com.mx/2026/06/08/campeonato-internacional-pokemon/",
-    "https://gamerstyle.com.mx/2026/06/04/yu-gi-oh-master-duel-inicia/",
-    "https://gamerstyle.com.mx/2025/09/23/snk-world-championship-2025-premios/",
-    "https://gamerstyle.com.mx/2025/06/18/borregos-vs-tigres-telcel-university/",
-    "https://gamerstyle.com.mx/2025/06/18/hideo-kojima-estara-brasi-game-show/",
-    "https://gamerstyle.com.mx/2025/06/10/rainbow-six-siege-x-se-hace-gratuito/",
     "https://gamerstyle.com.mx/2025/06/06/pokemon-international-championship/",
     "https://gamerstyle.com.mx/2025/06/04/cobertura-ccxp-2025-ciudad-de-mexico/",
     "https://gamerstyle.com.mx/2025/03/06/maksym-krippa-esports-broadcasting/",
@@ -7999,17 +7990,18 @@
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVhDd1FxX2F2T1ZaMkE3SlNXUEw3ZkRFU2w5Q2RTdHU3ZEVyd0dKV3FISDlBMG9fN3RkX1p5RklLaFRVTzBEaFhzQnNNNkdZSk5qTVcxY0F3RC1HYTBONVB5ZDRCNG5yNFB5TTVCT3A3b1JwcHV1OGk3OUM1UWlvcDF2YUU?oc=5",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTNzE3UlNWWm5ya1Axck96REVvVHJueHFWTkp2UEczSDFXM1FzRmV5ck9OaFVpLWlFOHdtY2NFN0RTc3FLLXp4b3NVdmlyREc4dngydmlQSU9pbFJOSDJ0cXgtWVpfRjQtSzJwcnNB?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUzd1eEkwTk1aSU9EWUpjcHJPcjFEMk16Qy1EOFJIeFpDV1M0aVR5RkRGUzQ2UnZ4LWVGU3BnNHM2VFhvSEhPTVJkSVltaE9HN05TZUxPeVZYUVBTdUNicEpWS3pKMjNvWno2ZkVkN3FzR0xDYUdHcTV5cndVSDFlSFdKTnZVdXloVkhBdmdpQ2YteEJfcWllRHU4VEdsVWY0czVackp0TENuRnB2RXpTaEZQcw?oc=5",
-    "https://www.talkesport.com/news/razer-soma-pro-soma-sensa-hd-haptics-gaming-chairs-price-features/"
+    "https://www.talkesport.com/news/razer-soma-pro-soma-sensa-hd-haptics-gaming-chairs-price-features/",
+    "https://www.talkesport.com/news/the-game-awards-2026-nominees-date-time/",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE85ajNBaC1hZmJnOXVNQ1lzRFB3bVNIeHQybVp5bFkzcTBEeDNaN0ZzZ05oLVRjLXhabjNweXducjEyWDFzYWpFWUc1VkQ0RTItOUVHdmRDVXhtY20zTllhdU1vem1ZVFI4eTdieEhHdEVhTGRWTjA4UVd1NA?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE91WFJBNmIzeHNDZTZvd2J5cFdmT1YzY1NwTTZydHBVN05TVzNuY2NnS0tGYVVENWRKVzMxUVVjZUFYUHE5SGROVmQ0RXdKeWptbjRUbVdHaVFzaWVxdmNxQThMaE1xQURBalNfdEdUWTZYTDRXel9UNFlIUjA?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1pMU0hjbXFtTF9lcXp0LUNVREhVQzN2OEtmVGhBRlhtZGpDeWVMSmptMEh2U0tEQTQ3aXRLdEJMejdlcWNYY2N5U0Z5YkhiRi1mNkFPa3c4UUVsNzhiQnpRc1o2MVVKTXhtRGJjX1JLWkNSWnJLSV8zQTJ0bUwyRnRaRjM5WnhtTzc1T0JxZU9tWWh1ZG9DT2c3dlNZTnViTWVvNTlBUjdDbDhYeEE?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVmN5YmpvWWpYazdFa0ExWVlrQ0dLYU4yeFgzRElTTG1sODA1V05FUTlQTEhYMFlpcTZWSE9FQjBHTWtQaWluTkRGdk9NWF9EN3BYRjNSajFvR1M5cF9Fb2h3a0hRelRSRndLemFkMTZQSDl6MllNMG8xcGVFS1NKT3M1N2RJV3dQLVd5YXc0VDk2bmxwUk9CVHNHSHlvRDdSWnhjcjdHS3E1SUt5a21HeWdn?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGRpYWdscnlEeW1qX29zUHRabV9WUEt4WUlQN0FsWDdOMnJwV0RvaHZlUzMtVVllXzVZYnFEaU9aRzlSXzlEbXhfNThjbEdhMFlnOTBBOHR6UmIwVjhuOTUxNmNWLUk3ZG4ySko3U0wxQ1h1TXlRbkR6RVcyay1SR0FmMC1DNXRQQ1hOUkItTzByZG9fRlVpd2Z6c05RcVBhblJFTHJ0eFV0Tmc?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlpER180UWpBTmpxYS1ueDBTRXNSSmE4ZC1xS2J0STk0V3NKa2thdWE2ZU1NUjg5WUlTTHZoZW9JWE5zQnhnYVFRamNKb0FWQWhRWnV1X1A1QzhwX3VQQmotbFZfT2JMOFlHUlhubVpVNTV5YlNjZXdkQVNFbE9JcE1zZWVBUWJxbGJLTHpXbE95MEJ0aTJfc25obHIzR3k5TnFGaA?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWEV0X0RvNGFST3dlTHRtSjdySHZuQW9sR2hKaFFLNXJyaEVqS1UzbktiTk5wbzJBNGtfS2pDaXV6bUpZeXJuSE80cTBFNDYzZ2hzM3ZZZWlKeF9pYVZaVDhvNVNVRFdoTlJ3S1BtSnQyT2FyeDlaOGc5V2RzSDFqZkxmeTlfcWlXRzNndnk2am5iQWpRb3c?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSW5fRTlyVGFYRkZmQnhzamJVVDdJYTNHN29IM280SmhrSHRLOGhaOWJvNjdCeDJBVEtlcTlPMXNyZTU0UjM0d3dWTkhQdm9yOTh1VHJsUURNNVgtallfeWFhMFV3T0xLVEMzM3hMbWpTdTJMbGY2dURPd3F3TVFxb2ktd2tkSXlWOUlmVWhsVUhKdEJPQV9FMkFpTQ?oc=5"
   ],
   "title_hashes": [
-    "9edee60b8dcb0bfe36a3a612d9671e0e",
-    "4d5578dd77c37c039a5a3a2173e0b6da",
-    "d5e78afa0e68c60ca7672a3acd64759c",
-    "91416ffbb445277a18bb351fc518f8a3",
-    "3bcc0925c17535c04e88ef80e68266e9",
-    "42cae9920d2aca8113a32cd8cd5ef505",
-    "6830e50610a78951ce8f40f3da8f8896",
-    "804e4e84f5f9c20c7c4c5afdfcb1596c",
     "f899139df5e1059396431415e770c6dd",
     "c642ce993a13c1b847d21abe055b66d1",
     "4de05acbf14b24146bead31cb0a05f0b",
@@ -16001,7 +15993,15 @@
     "48d3a77766bf40618c1ac04d2196c10b",
     "9285e09c8d5d7ec68806e733c62b35aa",
     "31c433a8b728eae0767fd6419bdabf10",
-    "dd43cc31df78c9e1f7484328e4ded1d9"
+    "dd43cc31df78c9e1f7484328e4ded1d9",
+    "15f299aab31ec6c77958a4b0ed7ef961",
+    "cb6410d29406d20aba015230a6d31cc2",
+    "9c0d7f9de7e7ab278ddf5bc3fb01e19b",
+    "39101d59c6cdb67867b76b4970d4bac9",
+    "1dc31ecdb0a3c281e24525272bdcae94",
+    "750b48c2b0a1e334ed3f8addb79663ef",
+    "56be0bb961a279bb93c01ce94fb73657",
+    "332a6df584d44b5df7274520a1b24853"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,22 @@
     {
       "t": "actually adds alongside announced built chair cheaper crash every feel gaming gunshot haptic haptics lets lighting model motors new one pro razer reactive rgb seat sensa soma speakers that this you",
       "ts": 1794614302.8579834
+    },
+    {
+      "t": "13 17 2026 announced awards confirm date eve game geoff hosted how keighley livestream nominees november revealed time tuesday watch will",
+      "ts": 1794614307.9263728
+    },
+    {
+      "t": "2027 ahead esports join jopa lec nbsp season set sheep sources team vitality",
+      "ts": 1794614311.3484998
+    },
+    {
+      "t": "2027 ahead blue corp esports join karmine myrtus nbsp set sheep sources",
+      "ts": 1794614314.7666242
+    },
+    {
+      "t": "2027 esports join lec natus nbsp set sheep sources vincere zest",
+      "ts": 1794614318.2181954
     }
   ]
 }
