@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtdEV6emY1dk92dmdhM1FJU1lMU1JEQnJTM19DYURaS1FPb3VkWnF3V3RQVUcwVDFJeS1VTU8tWWh2TmtPM0MwamJWR1VXNzQ5bHo4WU5xM0pJaXBXNDFJbDNmdS15YktMQkxN?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2pCLXZ5QUttVXFzV01uS3M5WUg0bUFRN1J1aXdqSHFjNlFXSmJrZ0IwNDZGOWFLXzUyOUxoSXgwWnhyQkRNYzhKTVJUR1FZWi1vcWFTTk5RN204WHBUX01mOVRhMmNWYTFBVTBTd21FMEo5b25fb2hUbG1nLWt4QmQzeWF2QmNFNlIyTHZfNDlZNWFXVDdhMGFjNDdLNmU1QVVsUHVTa0Z4eUhiUGJTZVE4bU8yVVBDYzZLRG93?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUE0Y1d3b1VsdFM3WmJDcnNSWDZKOU5XcmtRR2N6b21mU25iQnNYR2x5N1pXeDRNRTFtb3ctdUVFOHZ6dHJQRnJRbi1yVThscGR6OGhaVHdwZERHV1RTak96aFY0QkxMZGZUMFkzd0Nrck53SjRERzdnblhnZU1xcVhIVTBEZXNuMUQ1dk02MzFLbmNFaVNjejF2V2pXbWtsb1ZaUC1sV2RXVzctbVBZQ3lBMA?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNblFRX29DcmpOSUpOMDh6MkQxbWkxaTFsSm5TVnRKbGFYd0RKRmxOa2hpTGI0aFZ6V3ZkbXpPejBYZ0lwelRLRUc4RjFqTm9ZdEU1OTJ0emRrdXZ0bnlhV2cyQXdJY21LMEZ4cHdSY254QzNiZnlQV2dZbGZPRElWRl83d0RYZjc2YmRYMml0TTZTSG1jOGRPeWVNb25lNjF0dktzbmVLVHRRRW1qZE5YSHpUUWR4dzA1ajlj?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2lQODBJYTBDcXV0ZHFTdnplc01qeUVQa1JxcXNSbFd6SlgwMmJxdHhIQW83RXY1dDJjZjJEcEtIRmJSeDhfYVZ5Z2tBNzh5Qzc5T25wdHVaNlZPcWx0VHVsZ3oyZVd6VlFMampOU2pOQkg5VlpuaEtQSE1Pd3ZzcGV3RW1PRmcyVEpSSU9WRE1pSVllQ05fMHMwUzdhZm54bkNEeEU0cEhSMzA1Vi1vNzFR?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUFYbFJzWVV4OHdMNllsOGl5bFpMcDV1N05FVTRFYkFRZU1kU0xjWHhwV0Z4alpORzNJXy16ZzVOUE9UTVVldmFoQ3VvZm9rRmphMllrNW5yenktbGZibTR4VnpITjVWTmFBbTJVaENWVW5TVE1WREpuT0s0bWZscmlTSklxaVpQSDBVMWFvbWstX2xGNUZKdFZBc2w?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdEFfc1JraE8yMnZkcll2ZnBnYTB6dTVHbGZLRE96LWh6a0s4WWc0cE44bHVvM0VjZHZhVHBSSE03WmRrZUJiR3ZCVVlUUjFZRU5nck9VYklkMkZ3d0xBNXBDeEQybjExdGlkOFBLVUNSZ2ZWRHVmZ3dQWXJ3ZUlITlpEUGZMNzJQeEs2eExTU2hEZldETEJRWVNqX1Yxb1ctYkZTVkFDSlZjUWdvdmdUdktzR20wNHFzdUFN?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM21mZHRTa2gzUGhhSzE4cGxfemJCYWV5cU5YeVpPR1ZaM25QSERSS3lCRGV5WnhZRlVpNFhpRm9wUkdyQ0tlWWlyUk94RmdIYU9hNUoyZ0VaV1BsSjhnTXlHaWVVVVo1cUpnelc0dTEtZVk4dTRORk8waThmU1ZScjE3MDhvUmk0bHJFV3J6Zm1HeXZmVkRpazNpMUFPc3JPZ0JNVUIxUmQ2WXNy?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVNtcmhZd2FtTFQyVmVMVmZqclpXbzQwa0hleVF1dmdWVmk3MFBMVTdjMEhCOUZ5bURuOUdwM0I5MUJxNG5WUXRocTlyTTAtRTg2MkRfTVFiNk5yT0NTQ2xObFZrV3JyZk1iMzg5T1VyWFpEU0MwVDRTUkJld0Q2NXEwVjB4c0ZQQ3liLTlkaVNUTDl1akJ5ZFk2d2dkcUU?oc=5",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2hoVXEzSDM4ZkJyaWxPcjVSOVItLURtcUtKaENqVmx4RHdyZGx6cTZDc1FscU4zLWp3VjhIX3RyalpEdkp4U0w5RmJPbDVlWGJ4Um5IRWhJY0Q5OUVTNEctVk8wMUtVMExpal8xS2t6LVQ2OVBDZ3FJb21qQ3pvSHFTd29tYUpDQUVZS2c5WXVaOWxtRHN5eU9fenBOel9yRFhQaFFVWGhMSHNQTzEzVkpjdE9Td3RrZFlKWlpuX1dMdw?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxObWtCcnI5Yzl1UHMzSkg1bW83STcxNXdEdG1WNEM3VnZBaW52RTJIb0RRY1lkRUhLZTdPVEx4cFZWd0U5c2tYZnNpYnRuZFBLQU50SGk5XzVBM3FqSExkcHFlUlNmMTEta2drTDREbzFTQmZ0UWZtNUdVdks0ZThJdUxmeHRRM2hlMXJPenpHdVl2ZnpGa1BUNmg3cEFsS2M4SENXRkl6TDBHTERF?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon",
     "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT2VPYTgzYWlta0dRd3lKRmxGNzJ0VFBldXVybGkzVGRjWV9MaU5KdEozNEUwcFJwQ3BjaUIxNVpQMmx2VHg4c1NjeEhoZmtNVW9wUWJScUJMV09NeEhtbHVSZ2V2bWdsT0pUMjhKcHRXc2djQVlvNGNxS0RHVXZIVlJHeEkxeG1McFQ1VzRIQ1NmblNGRmJobm05N0xoMlRTbi01VGxCaU5mcGVSa2Y4b09wVWEyclJHaEhDUExrRFYwNGdsSW1mZ1dYdFR5MU9qaDZla2VfbXA?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpaEl3OVdXd2NFSk5LUDRWSk5KNHpuSXZsSTJ0a0ZpbmpqdjdDSzY0QUhZbnp4Y3BicFhIcHdnSktiNnhCdzYxeVdvaVJCeFZBWXVYNV9yS3RMNnpfWGhSblN6LUxiVUI5MzFkVmdxWE4wX1Z3T2c?oc=5"
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpaEl3OVdXd2NFSk5LUDRWSk5KNHpuSXZsSTJ0a0ZpbmpqdjdDSzY0QUhZbnp4Y3BicFhIcHdnSktiNnhCdzYxeVdvaVJCeFZBWXVYNV9yS3RMNnpfWGhSblN6LUxiVUI5MzFkVmdxWE4wX1Z3T2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUhhZHBqc3Eyamdjb3RHU0Q0Q05OaWQ0TUhrdlA5X2hwN3lzT0NBcHlGakVPd1BuZTdnVGZodTRTZDBQLVU5cUR4d29IQW1XT0cwUHJtQzlFaWZ2dG93NEJBdXM1eDRpNHhaSnRZQW1ZQzRmMVVab25WZHB4Y01MaERYcTQtUmcxNDcw?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjZwTUdjQWMzeUxNdnY3YUtzUC1PWWppUUw4SzM0eW1ZcU1vQTQ3b051cGdLQWNtNGYtTlpiTUd6ZjBReFJhSFFGVFRXMUVyZkR3NFNGQ0NQQ2w1bkV4ZW9nN3RRMVk3VTdoSmxQRUFLVkxTbnZlVWEwT3Q0UHd4Tzg4SQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sZ1hlY2E1RmRPTlh3VWdkR2VwMHF5MTRFalhsU2J0bzF4MHlkY29KTTZ4V2pWazlDVng0Z1pFaGplakU1RjZBLWFVN1VaOUdnT1h2UTBqakZYS3VzM0E?oc=5",
+    "https://www.talkesport.com/news/streamer-awards-2026-winners/",
+    "https://www.talkesport.com/tech/microsoft-outage-xbox-outlook-teams-16-hours/",
+    "https://www.talkesport.com/business/culper-research-nvidia-short-china-analysis/",
+    "https://www.talkesport.com/business/nvidia-employee-letter-jensen-huang-openai-copy-fact-check/",
+    "https://www.talkesport.com/business/openai-anthropic-chip-export-controls-jensen-huang-exit/"
   ],
   "title_hashes": [
-    "0421d0f71eff6045ee2ce72dbf1a40d5",
-    "d3162a9c8e966dc88b5ebdb009a34d6f",
-    "9f9f09da163824aaddcde075ee3a2f00",
-    "734d2dd59e024a005db218dbf5cf94b2",
-    "2a769f69675d1b6ea3e8964857ad1ce4",
-    "7ab9617582ef0a05c12ee5a45ee2ddb7",
-    "2ad143f0ac7beb3bda4b6fd6bf6894bb",
-    "e9f8e1760b625bd6ff2aaed901de4850",
     "389cc09e455e9e4894c3b1d733b6dc22",
     "ee5e122d4f61c5e17051c6bd8f7257f2",
     "f5d7e2532cc9ad16bc2a41222d76f269",
@@ -16001,7 +15993,15 @@
     "06290f2702dbc2307f85b9a094a48e92",
     "1b3f130178e9bed2fd7792aa204580cc",
     "b93488690a116248f2c49ed68e5d17f4",
-    "7ae768fc8c50261696eb7494eb20d92c"
+    "7ae768fc8c50261696eb7494eb20d92c",
+    "c0a2b78f4325155ab4ff66f7502e8e98",
+    "1ed97c219c7535b7ba0ede969081ee29",
+    "4ab98d50bd6e85e2cb8c8f303b12531b",
+    "3181f3da8cf273014a5b4b5cceb1cf36",
+    "403fce5c6b2b5205e814d644be2071d6",
+    "3fbea68eb1e42b5b0c4f6f3a771971ee",
+    "4b6dd16aa2ace4d17f77db9ac1783011",
+    "d639c28ac256c2b9c77bb67021d68621"
   ],
   "transfers": {
     "pages": {
@@ -21340,6 +21340,26 @@
     {
       "t": "applications biggo esports finance gross imaging lift margin mice nbsp next outlook pixart q4 rising sees taiwan unmanned vehicle year",
       "ts": 1794569779.244024
+    },
+    {
+      "t": "12 2026 across all alongside annual awards biggest caroline categories come creators end event has host hosted kwan list november place qtcindrella saw sixth some streamer took which winners",
+      "ts": 1794569784.5279765
+    },
+    {
+      "t": "16 behind but cuts down has holding hou hours job microsoft outage outlook page passed passes post says shows status still teams what xbox",
+      "ts": 1794569788.026125
+    },
+    {
+      "t": "26 asia china culper demand down here hidden may nvidia over post research routed says shorted since southeast stock thesis through what",
+      "ts": 1794569791.5544965
+    },
+    {
+      "t": "2023 8216 8217 actually copies copy demanding employees here huang hundreds jensen letter nvidia openai post return said staff viral what",
+      "ts": 1794569795.1332288
+    },
+    {
+      "t": "anthropic backs but calls china chip claim curbs does exits here hold huang jensen lawmakers left not nvidia openai post record shows takedown targeted told viral what",
+      "ts": 1794569798.692572
     }
   ]
 }
