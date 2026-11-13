@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27475/horizon-walker-releases-new-character-mu-yingying-on-october-22",
-    "https://www.invenglobal.com/articles/27474/smilegate-adds-new-hunting-ground-erbanok-and-equipment-to-lordnine",
-    "https://www.invenglobal.com/articles/27473/netmarble-runs-raven-2-halloween-dungeon-until-november-11",
-    "https://www.invenglobal.com/articles/27472/keeping-muramasa-true-to-muramasa-the-revenant-blades-developers-answer",
-    "https://www.invenglobal.com/articles/27471/curbing-the-stone-meta-and-improving-black-shrine-black-desert-oct-21-patch-summary",
     "https://www.invenglobal.com/articles/27470/not-your-average-budget-gear-complete-breakdown-of-the-blue-and-dark-blue-pirate-sets",
     "https://www.invenglobal.com/articles/27469/lineage-w-adds-1-new-mythic-spell-opens-battlefield-zone-13",
     "https://www.invenglobal.com/articles/27468/mcst-steps-back-on-game-tax-credits-prioritizing-public-discussion",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28564/path-of-exile-launches-new-league-covens-of-umbra",
     "https://www.invenglobal.com/articles/28562/the-game-awards-2026-to-stream-on-disney",
     "https://www.invenglobal.com/articles/28563/soops-starcraft-tournament-kevin-scrim-kicks-off-nov-16",
-    "https://www.invenglobal.com/articles/28561/pearl-abyss-opens-applications-for-2027-hiring-linked-winter-internship"
+    "https://www.invenglobal.com/articles/28561/pearl-abyss-opens-applications-for-2027-hiring-linked-winter-internship",
+    "https://www.esports.net/news/gaming/t1-pulls-tenz-out-of-retirement-pairs-him-with-crashies-and-its-masters-bangkok-core/",
+    "https://www.hltv.org/news/45982/apex-probably-my-worst-calling-in-a-long-time",
+    "https://www.hltv.org/news/45981/mouz-sweep-vitality-as-zywoo-confirms-career-worst-lan-event",
+    "https://www.hltv.org/news/45979/live-updates-from-the-blast-rivals-quarter-finals",
+    "https://esports-news.co.uk/2026/11/13/state-sweep-saw-to-avenge-september-loss-in-pgl-cluj-napoca-open-qualifier-2/"
   ],
   "title_hashes": [
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "fcf82753c94cf089a48875b278987317",
-    "3a9e4ce5e2f08c76bfdbef45eb9523f5",
     "3b642b3034a146f12e661e6bbcca4b0c",
     "9bcb783bf74ee130bc6cf515bf835460",
     "5695fd47c728de55b28c1e049207638a",
@@ -16001,7 +15996,12 @@
     "3d63e25ded149286beba386ff2fc4ee6",
     "8662abe0e9759f5973c2301f4163ee0b",
     "a671d76b1deec6e41d23aac3d357a16c",
-    "a2a18b2fc24787bc8e4d1b9c843d803e"
+    "a2a18b2fc24787bc8e4d1b9c843d803e",
+    "f4a947812607465095712c28cb4ec07a",
+    "3b6413023f97bd5cf5c3afbc16de3e94",
+    "8696c0ffd296cf089ca18c8ebc0754e7",
+    "c38fbb0b0df9623501d22e7f6b577baa",
+    "009cacc02b7c1379699da158a9de7b0b"
   ],
   "transfers": {
     "pages": {
@@ -21240,6 +21240,26 @@
     {
       "t": "11 2027 8 abyss applicants applications conversion employment full hiring internship its january linked offers opens opportunity pearl recruiting run time total weeks which will winter",
       "ts": 1794569679.9975686
+    },
+    {
+      "t": "2025 2027 bangkok both champion confirmed core crashies fill five has him import its korean masters next ngo out pacific pairs pulls retirement slots starting t1 tenz that time two tyson vct won",
+      "ts": 1794569685.4472444
+    },
+    {
+      "t": "apex calling captain focus french his hong kong long losses major now part probably responsibility shifts singapore team time took vitality worst",
+      "ts": 1794569689.0224266
+    },
+    {
+      "t": "after books career confirms event lan mouz quarter sweep vitality worst zywoo",
+      "ts": 1794569692.6932862
+    },
+    {
+      "t": "all battle best blast catch finals hong kong live moments quarter rivals updates world",
+      "ts": 1794569696.2455373
+    },
+    {
+      "t": "0 2 avenge bbl beat cluj continue face final finals first loss napoca open pgl qualifier quarter reading saw semi september state sweep will",
+      "ts": 1794569699.8049402
     }
   ]
 }
