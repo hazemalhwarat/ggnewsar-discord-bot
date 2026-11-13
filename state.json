@@ -1,20 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZkNNamV2NFZIOXQ0LTZuY3FxNGY5ZGc4MjFmREo5SDJEQUFERWlySWtMaTVkdUVvc1F0cmEwSkcyUlM3d1hUaUxMdUpLM1BJZGJ4dXFGZnNQXzZFNkd6dkJPSUlYQ3lVRmp3ZDNKemxaTXdPbUVEQW9QdjM3cGRrZlV1bUVIVlBKQUpQdDQ0bVJwdnFfQTVFMkU0NDAyclU?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQQjgxc1ZHZ3hRcmotWEdBUmNfaWdWak5lenVwY2UtM3c5NXZaaGxiNl9PT2VERU41YVg4TnNGUXZ4TllWbklkN1Q0NDh3RGV6LXlIaWZLa2NNRG5XZXF3NDNkMGVLLUNrZHppUGtMMGRCODRn?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HT2w5SHZRWmZJcVpXMkRpNFdzR0RmUHNod2xEVHBRQnEybHltUV9zSnhhNDZ2ZUl0TGVZTm1wSUFnamRyZEV1MWV1U3Z5NW5JUEE4?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSVFPYW5SWkRTMjBCMllCZ2JEd0M4TTFwNWs4N19uYmNPUkRVYTFkM3U4Qi1sazRPbWJDOTM5cGVDVk5oRjlEOG9ZYVpCejZJSjR2bDZDcTczcEUwS29NTk9PQ1U3V0JxbHJfS0dVY2Y2MzM3ckhrbjZESWpieDNqcUhZT1ZON2M2SUE?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3B6cGJsSGI5WHVFTVJFOUtJTVU5SXplYms0N0VUTmVuZHQ2Mm5tTW5BNFpoWkFCNXc0aU9YMVN0TWNpVGtSTGxKZllzWHUzSlRPRDJ4LUc0NjQ0ZXZhZHRmaE13S1ZGci1JZXlQSXo0aklocThaenJNSDRROEJmbFF3VnJiQmlXbTg4?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSFBFNDRqb1pUTjhzQ2h1RENRVWRiLVMxWjQ5VUlkZ3k5X2M2UXZrdjdEbGppdXpXUG5tNnNiWVJnYUV6Qk8tbE9EbHpiVEdLVEd6SlFPcXM1SFdnTTFFdDNOaFh4MHp6alVqRC1ua2NwWUtQQ2p0Wk9IbXdfdGtCTUQwQmpablc0MXlWLVJKSC0?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE15OG5KNVBXV25iWENCTkU2T1NrYmpqdmpFZk96SWZwcmlkWHh5RTRKTHBQOWZCeVNhcnc3OWZlZjFpSXNfZHgzclVVVTN0ZVpMdEhUcnlRZ3hCY0plVDBSWnBMY25kcVhuaWkxUWVKYVUxN0drNldLWGljRUFDT1U?oc=5",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONlY5aVZVQ09YTjRoNGVWUjJkbXZ0VkVMNkltZEFxU0xnTWh4VVM4eHJuRS1yQkQwSFdzNFR0b0xhTFh1VEc3RHFBdHdqX1dTS0lUUkJUWXc3MFVEdWxINVl2TE5OcG9ySnd4bk5NTE1RRVlrZEthWTE4MlQ4VWRvRkdVMXpzQ2tvTFM3bnVCcmY1WTFxOEpGa1c3RG9SN1QwendTZ3M2MTgzSTFoRUE0X1MzMlR2VnJ5c1NVS3EzV3hUTlQ2YXFFcFRKTVBBdHVBLWw5eTVhQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RRFFZTTJ2aldyNm5xNXZaYTZHSWV1YkdzOHh6T1ZJR3FZbGliVUVoYm4waklrOVdDYUxRUjZIQ3gxNFMyODVka1hIR3c2dElFTlZRQTlXYjU5bU93VER2MVRsM0E5UHB1?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxONTIyVzQzRTNBU2tnb0x5U1hqMGNUSG51RWJFVDU3U0dNZ2oweEx1V0pkR0U3RkNnNHFTXzJaQnN4MGtaZDdnb3U0aTItTTVoVFpFZnd5ZXZnQk15RnQ2T2NZRkVOVFphdU5OY3NHZDN2VWZyVU5raUNjYTdmNWVZanhqdFVpU01LVV9TNWE5b2d6NS03dlR1cWlnVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaU3hxeVRmYU5id1RLRzcwM3ZCQVdUV3R2aTVvOXBtWi05VUNqdG1KSDU1SVRfN2N5M3JVY1BzOWQ1OXRoY2VETjNVcm9lMVJIQnBNa19mNVBnLUdQTVhNVzl1UDJCOHBVNl9PU1NUUmY?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVjlRNklBanRWakdZQnRILTUwM081QmxPX19XTTAzdEpLanpmSFlkTzFWVW1Fb1FHTjlfTWdmaDVhS2VqQmZ3UHd3V3o0MDdMdHNXbU9yZ08yOWpKZExvSHBrSHJ5Q2NSLWVDSXRpUnRjUDVyRzZiWlowTHVEM3pEeENGRmZ1MVFkMWNZTGhnY0FteWd4bFBmbHZmUl9ZY0xHb25KdEx6djY1ekNpUnVZREQ1NEwwSm95?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mOVl0ZGRFSk84R1dWT3poXzlGc1lSdnFseFhpSFJFU1RhN1FwQzVHeU1fMXljbUVGUml1enF0ck8za0VvTUlMd1J3X1dmV29GbnFZZzNXd3JrR1cxUjltcmw2NWt5eVlSb1doNnptZzA2OHUwaWRZdE5EdHc0aVE?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMG42R0NTb3dsVV9obUlKU1pGbUR5T0hJdVNrVlpjc1ZuVzBhREp0SGVDd2taeVJ3aVRzYjhlM1BZSFBldUJLR25zYTdRQjl1dFl4SXd1VnQ0dVV3TVUwb2w5dFlOUEpfc3JkWlZmYVpIWGVhZU5IVlFqdlBCdzFybUNJUHhsOS1iZUs5bF9WTGU4d1pZc2ZNNHZhTThCV1pDeXBqWS1vYW5sU2pYSjhyNQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbHRndFRsZ2RqX2J5aE1KcEt2TlRwcV9vaGM5dDUxbXlwcl9hN01hM3JOSkxfZ3l4SHg3UkIxMnJUbFVteTFFc21wWGxuTnRMa1NLVmJ1NnhQdjhKT2hPWmFHMFFjRWZtQTlZRG44T1dpVkp4SHBSX21YakJNVDNjTlFDVmJDOGRvVlo5eWtrQlRoNkFMTlE?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtdEV6emY1dk92dmdhM1FJU1lMU1JEQnJTM19DYURaS1FPb3VkWnF3V3RQVUcwVDFJeS1VTU8tWWh2TmtPM0MwamJWR1VXNzQ5bHo4WU5xM0pJaXBXNDFJbDNmdS15YktMQkxN?oc=5",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2pCLXZ5QUttVXFzV01uS3M5WUg0bUFRN1J1aXdqSHFjNlFXSmJrZ0IwNDZGOWFLXzUyOUxoSXgwWnhyQkRNYzhKTVJUR1FZWi1vcWFTTk5RN204WHBUX01mOVRhMmNWYTFBVTBTd21FMEo5b25fb2hUbG1nLWt4QmQzeWF2QmNFNlIyTHZfNDlZNWFXVDdhMGFjNDdLNmU1QVVsUHVTa0Z4eUhiUGJTZVE4bU8yVVBDYzZLRG93?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUE0Y1d3b1VsdFM3WmJDcnNSWDZKOU5XcmtRR2N6b21mU25iQnNYR2x5N1pXeDRNRTFtb3ctdUVFOHZ6dHJQRnJRbi1yVThscGR6OGhaVHdwZERHV1RTak96aFY0QkxMZGZUMFkzd0Nrck53SjRERzdnblhnZU1xcVhIVTBEZXNuMUQ1dk02MzFLbmNFaVNjejF2V2pXbWtsb1ZaUC1sV2RXVzctbVBZQ3lBMA?oc=5",
@@ -7999,24 +7984,24 @@
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QM01EWm1RLVRPVDV0cXNUSEx6ZWlmYXlRSmExcGZLWmFUZUZkcFpyd3JPZ3Z3cHN5aEYtczAxUExnNXFTWVNwcktZc0lDS1ZhRlBWY2dVSW1WYzBBdXk1eDlCQnEzRWgyUTNKVjNtbG5ucC1uQUhUNEhB?oc=5",
     "https://europeangaming.eu/portal/press-releases/2026/11/13/217954/betby-esic-cpu-gold-standard/",
     "https://europeangaming.eu/portal/latest-news/2026/11/13/217930/bulgaria-gambling-ad-ban-bill/",
-    "https://europeangaming.eu/portal/press-releases/2026/11/13/217922/boyle-casino-thrillpots-jackpot/"
+    "https://europeangaming.eu/portal/press-releases/2026/11/13/217922/boyle-casino-thrillpots-jackpot/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/13/217917/codere-online-q3-2026-results/",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlo5YTNaRzBSU2lUcXRXLWhLbkg5RFhKaTNaVkpoVFY1N2VRVVBxQ0tiY2VPLWN0WHJhNmVWUnRhY0VUREZha1JxVEF0Y2JWRkd4bTI1UUFia2RFYkhGZnlrUEVuN3M5RDlzNEVUTnFUaHNkcnY1VE9CSG9wdVlyNU1GcVpNMjFjcmVXUjBHVmUyeHdENlBxRlB3ZE9KMnJpZlRkcUppMEVtS1VmWmt6a2RMODZhYkk3ZE1j?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3Q0NENXSklqa2VDQXY2b2xLdC14UjgxT1FRNkZ6RWNSMl9LX19HU0F2N1ZfR1NyMXJzYlpNTllxcGhVb1MwWUg1Rm9QTGY1MThkWGRCYm85YUxRaWVGODJ0cEdGQlIwR29kdGV4VHA5RUxWU2ZhZXFiTlMxQlVvUFlnMDhoLVAxeWNiZUtSbTlfYWtuREIzYjRnUnB4SEJaNXZjLWpINTc1amtpMTNWcHZ3?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV19fQ1pkQ3VRUGFvaEhHMGpIVl9DdzFHTTNKWWVWdnRRMEtOSDBxMVAyaDI4SjIyYkJEWlVxUkstMzQ4NTFuaTl6UHpHUjlGZldzdExSWlZJUW9sWllMckowbk1VWkhqazctRl83enhESmJkWWtRMUNyejZsYlA4RVBvSXlYZ3VfYjR3QUIxWGdkdDlyTjA5M0E2aUVBcjNnSE5Ib3VPZ2l3Vzd6TlVCS2wtU0JMcVRXSktzM0ZZUXM?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1YxWFMtcEpuQTNsT0JHTWp2d1pXd1VmNVN1N3NjdklVNGJJaDFhOV9ucmlwWm5WWEdkNEtpUVlKUnlqekYtbllYaVVramtFdTlDSFpXY0VmYnF3bkFqczdqMjBycDBjZXdyMjMxR1VmN05RUlkzelltX09uTkxCNVhSMm1xNkhHZ2FzVGJBX0dFTWPSAZgBQVVfeXFMTUhmWklxN3c1ZFJHQXJ2alhKMFZndnRKT042TEdWb09WZGNVSXVycWNfX2MyMFZYTW1RTmcyMGFIUGN2Vld6WnRaRnU2UDk2Y3FpU0xlYjZfcHhCUTBZSnVsYURmeTdVM0FtT0U4QWlmVUZ1UjhzbGNQVnhvb3AzUnpRbXB1YmZnWk14My02WTZFWUctbDBpZng?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMeTZkeXEtYXp1eVVRSDBFZ3FySGNoRFFDalRtamQ2X1AyR2NaeWlzUFNDYi0zd2FneTc2VUtEdVI1Z1dwOXNMcE1SWi0wWlZvcjE2bXJoX1h6ME1pM2ZxY29JbUh4TzlSWjRBTTdJMDJWWS1kS1NNZzFqX1BQdw?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE9VZ2lBVnpJOG9SZDgxUTBVUTVHREltZWd0TkRoa0h5UGx5cHp2UC1hMXBQUXlRT3EzMW51RWJmMWRYYjJVQ25sOG96am5XWnJaZXJQSmdZeHc0dThBWDd2OEEtdU1VVzVYOXpyYnIwYW0tdw?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gJBVV95cUxObzBEemt4WFJjOVFkdlF6cm5RUVZMbURyaC1PZUl4a21IOUU4SkRnWmRPUlJsQUhqanJfSEUtWmxCQmlpUXYwWWlLOEpGX0NqVXVOYWtCQkZfNC0yb0dWdWV3ODlxZ0hMdExMN2VOZk0zMm5lN1VadGhLWHhVUWRscHBuaWU4aHloQ0txcGVlMXNEaVZDY3ZaWDhjdHFvdDdSNWNFVGYzWWpIYXA0R1BrOVJ3RXJlNmxPME1fN1ZwSlBnRTNseXpDanEzb2gyWUMwMVJVVmRJdUFrSm5fVXktaXVFWWlkb1piMXZRLU9zbk1mbGdfWk1ER2R5UlZqNG11Y0VuaVJVeGVUVWZqUTFCMVlsN01SeHhJWml3VDlSZWlRNVcwRFc2WGhfbF9laUY2T3p5U1Z6WVFmZkpnN3FDQ21acDVlMVRaeFVmOVdRbXhrZXNKV3c?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ka3ZIVUlVRHlWa1ZxTXZYV0dPaWxGUk54ZlNTNHVXb1pnU2ZKRHA5Ymo0d2wzM3hJMVRvSXlNU0xjcHVFak9pZ0o0TGx6NlJ3ZTNTNWdKTDY2cXVPWm8zSDc5eE11TFFfWDFXdw?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVJUQkZwTWpZSUhOTm15M2F1RlRpc2lWckNCaWkzeGJHb0hNa3JlVGtSMFUzZ1UteVVyMW5BRFd3R3pGWVdRRUpVc0x1RkVVU3RxM0UzRGxPUlh2NWFZZS1YT2YwZ21uc21hRERsSEluQWhNMTlvcFA2dDR2MmpJMTdLMDlUVE1ReGJQamV3?oc=5",
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXN0p2MU5yWFFoU3l6b29DY1h5UE5XdnNaMjFwbFJwX0llemZ3TXB4aE5WbVEyekR5N2FzRnFzMHdVWEZuVG9JQ09fRFN1aWR6?oc=5",
+    "https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon",
+    "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT2VPYTgzYWlta0dRd3lKRmxGNzJ0VFBldXVybGkzVGRjWV9MaU5KdEozNEUwcFJwQ3BjaUIxNVpQMmx2VHg4c1NjeEhoZmtNVW9wUWJScUJMV09NeEhtbHVSZ2V2bWdsT0pUMjhKcHRXc2djQVlvNGNxS0RHVXZIVlJHeEkxeG1McFQ1VzRIQ1NmblNGRmJobm05N0xoMlRTbi01VGxCaU5mcGVSa2Y4b09wVWEyclJHaEhDUExrRFYwNGdsSW1mZ1dYdFR5MU9qaDZla2VfbXA?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpaEl3OVdXd2NFSk5LUDRWSk5KNHpuSXZsSTJ0a0ZpbmpqdjdDSzY0QUhZbnp4Y3BicFhIcHdnSktiNnhCdzYxeVdvaVJCeFZBWXVYNV9yS3RMNnpfWGhSblN6LUxiVUI5MzFkVmdxWE4wX1Z3T2c?oc=5"
   ],
   "title_hashes": [
-    "9e7e6752a4d06d38e0595ccdc192546e",
-    "c88ca8cf9628a3cdfa01e1eeb8c482fe",
-    "0c720ac76656e190f426f7c44574d8fd",
-    "c7f2c296486c6c770ee34d07d93c81e7",
-    "28226d4d72c6cf386fba7da5b355ebde",
-    "6d67a7472fbb3919bdcbc08429a06881",
-    "c81747012534a1447b4283066b524432",
-    "d2faa52b6191bdbb5fa565a492b9324f",
-    "cced47490a446fc01f24eaa300bd2e62",
-    "26600efca4ac2f46f44b2e09b5d23c39",
-    "06e39b8f02beac117013575823773756",
-    "01ab39bdd6ade6e611076a83ebe5d8fd",
-    "698b24bf98197bef45980d32d71466d0",
-    "f6d85b021acf85dd6878fb656bf85fb8",
-    "a5710b2db812dbef5563c6efd769bc61",
     "0421d0f71eff6045ee2ce72dbf1a40d5",
     "d3162a9c8e966dc88b5ebdb009a34d6f",
     "9f9f09da163824aaddcde075ee3a2f00",
@@ -16001,7 +15986,22 @@
     "3534dc55c8112472927d5776af2a16ed",
     "bb3ef93b2dc3aa776f181e40abf96d0d",
     "cbb489d9487debbd1a1d559ceb0f9e10",
-    "f548c679e62622af2a10e40f1a7dafd8"
+    "f548c679e62622af2a10e40f1a7dafd8",
+    "a1391a59cea02fd946d0e1a9a9caafde",
+    "5143429e9e0c4fd58359e3c300c623b2",
+    "f89901a2fc64c71251bebfe2c7bdf62e",
+    "08beb87f18ae26a0bccf36ccba41b92a",
+    "c0386dc13503358b300c6b75e861221a",
+    "02f779df9edda1ac55b46f3c0a7ae51d",
+    "f5541cba0de814a22680e65c0298c7a8",
+    "f39db2a2de5bac710492f25188525937",
+    "917e23c0589370b924d1d7f192b74c3e",
+    "d93bce937437ea3be610dcb11dafc9dd",
+    "237c71b995b179ec076fe8c4b5ca10b7",
+    "06290f2702dbc2307f85b9a094a48e92",
+    "1b3f130178e9bed2fd7792aa204580cc",
+    "b93488690a116248f2c49ed68e5d17f4",
+    "7ae768fc8c50261696eb7494eb20d92c"
   ],
   "transfers": {
     "pages": {
@@ -21320,6 +21320,26 @@
     {
       "t": "000 30p 324 8230 added boyle casino customer feature funded irish its jackpot largest one operator opt payout player post thrillpots wins yet",
       "ts": 1794569759.4234881
+    },
+    {
+      "t": "30 39 8230 american but carried climbs codere full gaming its kept latin mexico online operator post posts q3 quarter rise spanish targets warned which win year",
+      "ts": 1794569764.7833998
+    },
+    {
+      "t": "72 above across all board company drives during franchise growth increases its maplestory more nexon outlook overall period q3 quarter read reported revenue rises third which",
+      "ts": 1794569768.416579
+    },
+    {
+      "t": "affairs alleged amid board ceo chinese employees founder has huang jensen member more nvidia president read reports resigned resigns spy two",
+      "ts": 1794569772.1740417
+    },
+    {
+      "t": "2027 4 awards esports february nbsp partnership return saudi vanguard zawya",
+      "ts": 1794569775.678065
+    },
+    {
+      "t": "applications biggo esports finance gross imaging lift margin mice nbsp next outlook pixart q4 rising sees taiwan unmanned vehicle year",
+      "ts": 1794569779.244024
     }
   ]
 }
