@@ -1,19 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE04X19tRmFCblFHV2hRWXc0SlVsUXpPbWxzM25pVmI4dktwaW82WkFPSXRZWUU5Wi1zQThyVXl5Z2QwcXZDUWI5YlNUeVpGLWNXeVN6VGM4amVMRXJubDNfRlBZbDdVdWZ3UTJuT19DZVRsTEhSNVdGUWlzVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWQ1cWc4d2ZHcDdYd09GMkZnWU1QUy1YVl9ZS1JYUFoyZmtVQms1Zk9kUlRuQjRCYm1YTFhpQzZQZ2tfVmNlamlPZmhPd0FDQ0xqVjVSX0ktTFRlR1dUY3Vsd20xOFZtWHVnQkllQmhlVDBsREEydkhNcTRjM3hIOEtleEpzSVFSaHJB?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYnNmXzFZc0R4b1R6LWh2NEVTSWxldUN4NDBCOTZiUWp4Mk1rU3ZpN3BoRG9pUkc5czRYNGNhUk9vSl9zVjRCYm1tLUsxUWlqZWxPaEduempNazU2bEltQTREb3ZvWDhhY3J2dzdsNjEzb240aUMxZVh3dXFUQjBKUUZfODZnb2lkVE1lQzBWX3VHbjNW?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaktPZGdjdDB6ZlJ2aVA1d3Y0UHQxekM4WmFLd1pieUhpWXNMUHR4QTBEX2dnUnJCVHhUa0R1aWhhMmNlemU5YWhmVTVsNmkyd3lJQzJiN3RLUk1HRktSSDhzN0VVZXh0U3pnUVBUMGhpUWpZTnJ5TC1nenY3bUJwU2FwQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONm12VEp5TzZxX1dEZ0NBT1hzZTRNRzRXTHlZUDVpS0RBUGRPRlJEYmM3ZW1xSjFSNXVtZnV4NnFEWnhrc241ejJUMnlyWFdjek9SZHZFb09sMTdhNFNUbnBzWS1Ld2Y1NzNHcnowc2hPOFNPSTA3MEl0UUptbklmVWxXLW9EWFdVWnBweEMwbjNoWGVVR0VBOS12RS1CZlNFT2VpUUt5X01jOENjSjhjLW5qdXZVS1ZQYmh1cE51Z1M3WnM5NzFMU1NWcmU5YUFUYXhBcjNPUGJkT1Uxa3BZdUl1NF91VFIwZDJJQW9ScTVyT3RGclZEbGdn0gH_AUFVX3lxTE1IUzBYVWt3ak9IOS1WbGFHMWg3cmlaT2QzelBmX1BvT3pQNE1rQ0IzNFNJOXRuNzRwNU51b3pRcGU4QTJFT256S1NCV2VETkh5U2VZbnB6YUU3WTlqQlJtNHRub2x0Y3J6ZmlJUUtwdHRfN0tFR0hKWEVzYmVzdjl3U2xpRUl4Q25OSzM2eDgwQS0zbjkwY3cxSVpkMFN0VzRZbllIdXYxdC1jRk9uS0pQVnVsTHZFVGZXTnZtSTFYQm5jeXdZZ0NhdE5Ta2Q0OXgweFdlWUxoeVRldDFCVWVzdGhCckFsOEgtNmUybGpmZ0J0RjlpNmRpQ2pSUVhDVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3A5ek9tbTY2LU9Pb3lqcGhNQTZyc0VsY1VYZFdSTkpYSDNaMlZoVmJCR0cwcHEwbG1FcV9xUjVRdlA0ZjBnRXJNcG9aS3h4VXJNNHZYWnlESVNfdWtZWlBiVXBWRmp1aUhFdFBDWlFYUXNfN21ZMGZ4dzE2S0VIV0VqOGtqdnZRdkNrYTdTd20wdlhXaFZBd0pOVEJfQ1hPS2ttYUNxMXBKb2hvdkc3cnJB?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNTEwck9QZ21mUEZnSU9ON2c1WERVemIzaDJSWW5SVjNhd2ItUUNvUE5LMTVWNFhCcWJVRER0dmt2Y1lKTmVrU29XV0h5aUhtTmRMSzhieExYN3Nma2l5Wm5QeXBvVW14VmE5Rnh0Y2VfM1d0ZVpuYlcxMUZWZnFNQ1lXN1U3NktfVjloYmgwMzVUSmVIRzZv?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12WGt6b2E2Tkw0d1dkR2VyRk5rWEhnQi1FU2huYkNEdGNXalVBck5RYlRldGlJcGhhamtQcEV4eEoxWUV4MmpMQmI5bDhYakxSd014Yg?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjZ5OXhkNzRtWUdaNnhwTGJGQmtYZDZMbHphekFaYWgxUm1yVVViLUhyeXlMZV94dlJ4ZnQxTk5HRjY1SGhwRk9nZEI4V1JDTGtDNjRuaUtZZk5YdDlKaHgwN2h4V3g2d0pQQnhodGlSVVFwRENyalJMZzJ2R3YySmtqMlhab3IwbWFFeXhzakHSAZcBQVVfeXFMT1lBcWlEeTN2cVZwVFJ6ZlVMdVdJYzA2SzdhQVd6eHlFbUg4YzNQb0dkYkh4TmFzSkZMU3BLcWFXZmZSYjZ5elRLWmdiS2lqaWgwMHVkNjg2Q3pELXJmWnVLMm81Z0JNdFF3UFR0dmlwZjFuSkVvUlFyRS1ENktZSVBPNnU4MzJFa3pUTjVRLURnWUwtZXNzaw?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE15eEx0VnR5cWxDQTJjNS1qUHc1NC1ORDVZVUc5YXZXd3FuRFZDWWpOUGdEZkNXd3FsRkRqWWJNei1lSHVlbEZmTUZvN3FHSjVWVzVKUUtfZTVJUUZCOF9JN29tdXhrU2NJMWh1VXA0WHpNTEszX2kxZWFR?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNak10MHNzNVZwcFIxTlh0RXZzb1UzcDVBLTdnaXNrY0NrbExkMGl5TE5HNGVEcXQ3TFJBUDZLZV9sNV81TmxwbnpsOWc1by12M1lZU2gwR3BSRGtiU1JKRlFTUGFHSGhkU0JYUUNMc1lhZ2M4UGE1NUwtZjFleUFZNnJOb1JieUVuQ2poclU4dUp0VFJEaFFBS18ySUswa3BWaVFsQmUzWDR5eDZOc2Z0QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU2NOdnBmOUZja2x0X0lJTDZ3amhtNlJZMEtlMUF6dS1JNmNYZ3R3TTluV2tXT2kyaS1HSFRLSkw3U2lfMWtiMU1UYjh5ZzlPYTNTbTVUUlFOU0ZQX011d3JpSXBCM3BTS0ppUDg1M0VpeC0wNlIteUMtb2RlcWduZElJeEQ5aENEbG1FZWNEXzFjWEdOMFlia09fOHZwTHZCYWxfVjFmYlQtcG1pOWc?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3ZBUFVHRkNwVjd6eHA1alVBc1Jra1dadm9GLUZ3NVdEYWloUC1sWEtObXdxTE5hdExmS2RHckRSV0ZLZ0cwR0pCLW5VcjUxa1preGtWaDgzQ0xEUWI3ZnRJUlN4VUhKZmEyME1BaThNbzN1Vi1XLThjcWpGN1RnT3loOVFOakxuOFZNSGxFbnBhN0lsN2F4MGVn?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDVfUEVKckZnVnZUMW11ZjNRdkxCRW1rRjNoeDRtUUwtVl9EYzdQVHN1WlhJeENNQjJWajZaak82bnk5V3VjT1JaaUYxRUFyaElzWkRVejR5Mmh4U19RcmtxWUVJZXVNTjNwZGEtbllDT0JUVVl2WnNYZG9QWHloRjEtalJ6SG9KWk04aVRaN3YtZlMwdTJwQQ?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1l6cUhnc2w2ejlMcWpLdW1yS1pWSk9YVUJDWk4tTmxKR1d3dEdNeFdpQTF1VF9EVVNKbEhZb3VlcG9qdWNjUzNkcFJvY2ZUUFE1ZHFfcV9QS2xVVTZKbzA0eUk3TXVVTkhXWFpJODdxTlpxZTJWN0M1eDl4SlAwYQ?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaElidEljUmtiQVhqbHVPTTFkNU5QaGhha3J0aWFVMVNVeC1RRTJCcEpkVFdYUDFzZ0l4enFDNktHaU1NcjRWdEpjdXpkMUdHUFluczdHTU5idlh3MHlpRmNsdFdBUXJUbWJGOVJfVVJKclRYbGFDNWNRanI4RTN6X1pKOVJKMDBNQzIyVGhsZTlhNlU?oc=5",
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5TS2NSczFBdEJHTVVpU0h5c2hBV1NhMjBRVE1yZEU1QVlPWHVtcVAyT1NCNHFIMXhodGlCMjNiZTc1VXQwd0ZoRG5n?oc=5",
@@ -7999,23 +7985,23 @@
     "https://gameriv.com/marathon-vault-breaker-speed-challenge-results-revealed-fastest-crew-finishes-in-just-12-minutes/",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE43bkNvQXVtSGl1aWNlZFp5eWowSXh6OURJNHlybmZabnU4eGlVekVSclhmTlNlVm9TVzBvUWR0Z0haV2pfemVCWU5KZUFsZndvSEhLWFJSdm1zV0VwSTF6SXZIQVVFQmtHeXJTYUtXYnY0UVVySU9Wckk3TQ?oc=5",
     "https://www.hotspawn.com/league-of-legends/news/lol-esports-2027",
-    "https://www.hotspawn.com/fortnite/news/fortnite-treasure-hour"
+    "https://www.hotspawn.com/fortnite/news/fortnite-treasure-hour",
+    "https://www.hotspawn.com/dota2/news/saberlight-and-rincyq-spotted-in-astra-invicta-for-blast-slam-9-upgrades-or-downgrades",
+    "https://www.hotspawn.com/counter-strike/news/blast-rivals-hong-kong-2026-semi-finals-preview",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxONE1PbTV0RlBNUTY3NzZ2SVZEUnlCTXBzcnQwcUhRZFBUbzVTTHN6U3JJNmJ3bVo1N3Y3TG1UODIxbUpmZEx5SVpWalBWM2NEWmwySmlfMTJVQUJ0X0t6R0piZjJXRDFJWGc4VTFRYlpCLUNHYmw0aG1aVFB4aVBRYmdCbDlxNzJRTGMwR1hn?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM3Y5S3lVSGU2Q0FqeWw0TnZPV0NPQnpDcHFQRTd0MDBXNlAyMU4tZnpmcGZqNi1rb0FJLWF3QWVpVnIybHVON2hpUzRYR3lsRVNqY0pYdEQ4NUJESmpKRi1jUHQ0NjNFWEhjVV9VLUdNSHZKWXJqdzhicEFVLXF0YzdwQVpNVWdKUHQyRnRRWER2bUxBNUE?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxNkptU1VCWGd0SEZvWkRrRGItdmVWWnpBTVNlQTk0MlhSdExDZjF2cEdSVWJfS21QaFNtakdMWExCYkRwZkxMeUVsaTZuOEpwMFd0R1gyaTQtQ05lYUMtU2dwamtmMHFSUXdNbzJ5VW1FY0lLcGdFUw?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxObmU3UW9KZFltTTZTNzBTdTR0djFrWFdZa1UwTjlGZ1VET1F4a3JrSGhGUlVsd0tERXUwMjNtNUpGMTdERUhzbGl3SVBaTTlra0FXNjZsZTJKdEl5cUhLS2lNUE5ycF96ak9ZeDFUbjlBeWpHYnJJZUFxWFZVbXZLRkpzSzZnYkJFWHhGb2tiNA?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLNjgwV3l1UnZvNHE4MFpQNnFEQzhGbG9pc3N5cUlHa3czLVVfSnhLaVNleTd6TnktVmlpcGhDd2xrdGhsN0FET21rcTd2WHNCMTBB?oc=5",
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XVkRyN1VzVG90dmdsdzVvYS1LS2l1Zk1kbndzVENfZDNfMTdZMnVmc1RZRXNYT19oV1lLem1uMjl2bTZ1RVgtcVY3czRKZkVIUkE?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oY2ZpSGVyaVNNOFUwWFRyOEhfUGtwRVFuYlZ5c2psY1RFM3VlR1J1aUcxdWtPNGVRcTI1RlNtWjA0M2VUWjB6eE4yTnhNUnRkR2xWM19nTTVEQUJBMDJqOS1ZWkxDNjBSaVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2wwaFVMN2laanlvdGxYTnJvMFVrcjJJbDMtel91cGVENXREMVgzUDQxcDdoZDY0SS1TbkJ3VTZDX1hnOHFldVpHT3NkbTN5SEExcE5IQUI0aHZBRElsbG9BTTczOURzaVEzODAzLXIxZndtN1RVcjlJQk1PelRCRjBJOWhWa0UtWVE4?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVhDd1FxX2F2T1ZaMkE3SlNXUEw3ZkRFU2w5Q2RTdHU3ZEVyd0dKV3FISDlBMG9fN3RkX1p5RklLaFRVTzBEaFhzQnNNNkdZSk5qTVcxY0F3RC1HYTBONVB5ZDRCNG5yNFB5TTVCT3A3b1JwcHV1OGk3OUM1UWlvcDF2YUU?oc=5",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTNzE3UlNWWm5ya1Axck96REVvVHJueHFWTkp2UEczSDFXM1FzRmV5ck9OaFVpLWlFOHdtY2NFN0RTc3FLLXp4b3NVdmlyREc4dngydmlQSU9pbFJOSDJ0cXgtWVpfRjQtSzJwcnNB?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUzd1eEkwTk1aSU9EWUpjcHJPcjFEMk16Qy1EOFJIeFpDV1M0aVR5RkRGUzQ2UnZ4LWVGU3BnNHM2VFhvSEhPTVJkSVltaE9HN05TZUxPeVZYUVBTdUNicEpWS3pKMjNvWno2ZkVkN3FzR0xDYUdHcTV5cndVSDFlSFdKTnZVdXloVkhBdmdpQ2YteEJfcWllRHU4VEdsVWY0czVackp0TENuRnB2RXpTaEZQcw?oc=5",
+    "https://www.talkesport.com/news/razer-soma-pro-soma-sensa-hd-haptics-gaming-chairs-price-features/"
   ],
   "title_hashes": [
-    "f2ab5fb218da8b84623f45579aa4ba11",
-    "cde4fcb5e4185f10000d0661576eb7ff",
-    "643abe1f5dd952b2fabfc5577a58e9c8",
-    "7ad1e9bf5d4d249a13ec77ddf11cdb37",
-    "fa128361fe201241a17869c29caab51b",
-    "f5bd25bd52f46ef65421691ca8545e40",
-    "4c88f3f0e0c9d770edee1e9ea67a8b30",
-    "9423ed9faa93aba59c6003a0e95b8c0f",
-    "1d5395bca0f340f41d996039fadd4346",
-    "aa5af5a8a75f8e4a34a4ecedc97dd34f",
-    "2fb22da732354fc1b719df63f3546a6d",
-    "d78490987cf78131f186705d2c55c8bf",
-    "23c26b5022bacb3ffceac42a64925818",
-    "7639dac1e34b02d5ca53b8a49963e304",
     "9edee60b8dcb0bfe36a3a612d9671e0e",
     "4d5578dd77c37c039a5a3a2173e0b6da",
     "d5e78afa0e68c60ca7672a3acd64759c",
@@ -16001,7 +15987,21 @@
     "a469960dc739931e725912a1b5dafec1",
     "66752052d1d39561b38cb97d5ef09a64",
     "2d144ffc5c0183354509f30d3a4b3678",
-    "28a1496a40aa992317da651681c6fa09"
+    "28a1496a40aa992317da651681c6fa09",
+    "91cfc6bb4d5ba6aaf543a5d733b3b4a1",
+    "f51e3c1769d5f11ace5297c583ccb4ff",
+    "70ce11179d6236a85e4694b68d8e9443",
+    "630dbadfbb5c076658a3b45012bf189c",
+    "22b3427df4bf844e10e7026fc5eb6aea",
+    "b2ccd77274158bce43d34c820b57fb76",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "20e9bb0f1cd9ef3f2f84db8cdf6ac80d",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "48d3a77766bf40618c1ac04d2196c10b",
+    "9285e09c8d5d7ec68806e733c62b35aa",
+    "31c433a8b728eae0767fd6419bdabf10",
+    "dd43cc31df78c9e1f7484328e4ded1d9"
   ],
   "transfers": {
     "pages": {
@@ -21160,6 +21160,26 @@
     {
       "t": "about all anticipated but chance chest current fortnite games give hotly hour normal open season special still treasure unlock when whenever while you",
       "ts": 1794614284.1992927
+    },
+    {
+      "t": "9 announcements appears astra blast confirmations downgrades first former galaxy invicta making move new nigma now official rincyq roster saberlight season since slam spotted stack started tag their there though under upgrades",
+      "ts": 1794614289.130722
+    },
+    {
+      "t": "2026 8217 although best blast both call can down enter fight final finals four fray furia games going have hong kong left one preview relatively rivalry rivals semi sided some spirit teams them",
+      "ts": 1794614292.4984865
+    },
+    {
+      "t": "2027 beyond esports lol nbsp",
+      "ts": 1794614295.9291787
+    },
+    {
+      "t": "6b acquisition approves china developer esports games group legends mobile moonton nbsp savvy",
+      "ts": 1794614299.3627112
+    },
+    {
+      "t": "actually adds alongside announced built chair cheaper crash every feel gaming gunshot haptic haptics lets lighting model motors new one pro razer reactive rgb seat sensa soma speakers that this you",
+      "ts": 1794614302.8579834
     }
   ]
 }
