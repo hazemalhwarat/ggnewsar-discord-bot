@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27470/not-your-average-budget-gear-complete-breakdown-of-the-blue-and-dark-blue-pirate-sets",
-    "https://www.invenglobal.com/articles/27469/lineage-w-adds-1-new-mythic-spell-opens-battlefield-zone-13",
-    "https://www.invenglobal.com/articles/27468/mcst-steps-back-on-game-tax-credits-prioritizing-public-discussion",
-    "https://www.invenglobal.com/articles/27467/str-mp-recovery-gloves-are-here-pirate-island-new-item-guide",
-    "https://www.invenglobal.com/articles/27466/netmarble-updates-vampir-with-new-boss-zone-forbidden-zone-of-sacred-grace",
-    "https://www.invenglobal.com/articles/27465/indie-game-culture-festival-beaverrocks-2026-begins-advance-ticket-sales",
     "https://www.invenglobal.com/articles/27464/generational-shift-in-top-weapons-how-strong-are-daggers",
     "https://www.invenglobal.com/articles/27463/square-enix-launches-dragon-quest-smashgrow-half-anniversary-campaign",
     "https://www.invenglobal.com/articles/27462/nc-launches-major-2nd-anniversary-update-for-blade-soul-neo",
@@ -7999,15 +7993,15 @@
     "https://www.hltv.org/news/45982/apex-probably-my-worst-calling-in-a-long-time",
     "https://www.hltv.org/news/45981/mouz-sweep-vitality-as-zywoo-confirms-career-worst-lan-event",
     "https://www.hltv.org/news/45979/live-updates-from-the-blast-rivals-quarter-finals",
-    "https://esports-news.co.uk/2026/11/13/state-sweep-saw-to-avenge-september-loss-in-pgl-cluj-napoca-open-qualifier-2/"
+    "https://esports-news.co.uk/2026/11/13/state-sweep-saw-to-avenge-september-loss-in-pgl-cluj-napoca-open-qualifier-2/",
+    "https://insider-gaming.com/all-marvel-rivals-season-11-twitch-drops-how-to-get-them/",
+    "https://insider-gaming.com/microsoft-xbox-outage-global/",
+    "https://insider-gaming.com/contexto-hints-answer-for-november-13-2026/",
+    "https://insider-gaming.com/honkai-star-rail-not-xbox-or-switch-soon/",
+    "https://insider-gaming.com/genshin-ties-2-tool-maps-every-character-in-game-map/",
+    "https://insider-gaming.com/when-will-marvel-rivals-servers-be-back-up-marvel-rivals-season-11-november-13-downtime/"
   ],
   "title_hashes": [
-    "3b642b3034a146f12e661e6bbcca4b0c",
-    "9bcb783bf74ee130bc6cf515bf835460",
-    "5695fd47c728de55b28c1e049207638a",
-    "7a834c1c99575ac144f54661a4f4a335",
-    "b0eb574ae2a2171cf644497393f8ecaf",
-    "75bbde21c391acb9cc1c10457b4ccba5",
     "c385fcfa20e7893c6f87e4d8596363d8",
     "cebb7c4b2eb78ae1d7b67fde5a4327ab",
     "6e373659f3c93670f67f66279ce312f1",
@@ -16001,7 +15995,13 @@
     "3b6413023f97bd5cf5c3afbc16de3e94",
     "8696c0ffd296cf089ca18c8ebc0754e7",
     "c38fbb0b0df9623501d22e7f6b577baa",
-    "009cacc02b7c1379699da158a9de7b0b"
+    "009cacc02b7c1379699da158a9de7b0b",
+    "88b2562e884f2ce24cfbc67fbfe985ac",
+    "74590760cae8966d3994df728199c4a6",
+    "f8b4f840f6339ac557047bc8f75e5766",
+    "18dd467cb5f0b2d58dd15fa60f414a36",
+    "b1f583c59418e287932aa374391c2b57",
+    "a973141cc5db1d1d1347fbee30107280"
   ],
   "transfers": {
     "pages": {
@@ -21260,6 +21260,26 @@
     {
       "t": "0 2 avenge bbl beat cluj continue face final finals first loss napoca open pgl qualifier quarter reading saw semi september state sweep will",
       "ts": 1794569699.8049402
+    },
+    {
+      "t": "365 also get global has here impacted latest microsoft outage post services situation suffering suffers tech that worldwide xbox",
+      "ts": 1794569704.909151
+    },
+    {
+      "t": "13 2026 amp answer appeared contexto first full gam get guess hints insider november post stuck today trying you",
+      "ts": 1794569708.4184194
+    },
+    {
+      "t": "come honkai just launch little longer might nintendo post rail shows sign star still switch waiting while xbox you",
+      "ts": 1794569711.9501104
+    },
+    {
+      "t": "0 2 character characters connection ever every further genshin have impact introduced look maps post single than ties tool which wondered you",
+      "ts": 1794569715.5148077
+    },
+    {
+      "t": "11 13 about all back details downtime including know marvel need novemb november post rivals season server servers when will you",
+      "ts": 1794569719.1055002
     }
   ]
 }
