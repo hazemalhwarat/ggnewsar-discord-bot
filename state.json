@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27480/35-new-augments-kda-and-pentakill-arrive-in-lol-aram-mayhem",
-    "https://www.invenglobal.com/articles/27479/start-with-the-adventurers-path-seven-knights-rebirth-new-returning-player-settlement-guide",
-    "https://www.invenglobal.com/articles/27478/nexon-hosts-fc-mobile-family-cup-featuring-12-k-league-clubs",
-    "https://www.invenglobal.com/articles/27477/architect-land-of-exiles-introduces-1st-anniversary-celebration-and-dual-class-system",
-    "https://www.invenglobal.com/articles/27476/dokkaebis-world-receives-first-major-update-adding-secret-realm-of-myriad-ghosts",
     "https://www.invenglobal.com/articles/27475/horizon-walker-releases-new-character-mu-yingying-on-october-22",
     "https://www.invenglobal.com/articles/27474/smilegate-adds-new-hunting-ground-erbanok-and-equipment-to-lordnine",
     "https://www.invenglobal.com/articles/27473/netmarble-runs-raven-2-halloween-dungeon-until-november-11",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28569/surviving-a-fairy-tale-forest-lost-in-a-fairytale-launches-in-early-access",
     "https://www.invenglobal.com/articles/28568/chovy-vs-knight-the-ultimate-showdown-to-complete-perfection",
     "https://www.invenglobal.com/articles/28567/legend-of-ymir-launches-special-events-to-celebrate-ymir-cup-season-3",
-    "https://www.invenglobal.com/articles/28566/pikku-adventure-targets-q2-2027-steam-release"
+    "https://www.invenglobal.com/articles/28566/pikku-adventure-targets-q2-2027-steam-release",
+    "https://www.invenglobal.com/articles/28565/wolfenstein-3-enters-production-xbox-25th-anniversary-announcements-revealed",
+    "https://www.invenglobal.com/articles/28564/path-of-exile-launches-new-league-covens-of-umbra",
+    "https://www.invenglobal.com/articles/28562/the-game-awards-2026-to-stream-on-disney",
+    "https://www.invenglobal.com/articles/28563/soops-starcraft-tournament-kevin-scrim-kicks-off-nov-16",
+    "https://www.invenglobal.com/articles/28561/pearl-abyss-opens-applications-for-2027-hiring-linked-winter-internship"
   ],
   "title_hashes": [
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "6982d7538c38abf68c2d2b2c0a433ecf",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "7efeb6c9df93d8d8b518ffdff3fb5732",
     "850d1d695ede7a8ff8904a779f7082ca",
     "850d1d695ede7a8ff8904a779f7082ca",
     "850d1d695ede7a8ff8904a779f7082ca",
@@ -16001,7 +15996,12 @@
     "7264b98dc72443a88086203a78afabad",
     "7896a5240d770c91af1e8d84a101fb23",
     "5767c239e074d38866ce9b9af729f643",
-    "fadd4acd31a3ac8a6f7e6dec54f7fc53"
+    "fadd4acd31a3ac8a6f7e6dec54f7fc53",
+    "c1290410914ff46ddd3d0f4a1408fc28",
+    "3d63e25ded149286beba386ff2fc4ee6",
+    "8662abe0e9759f5973c2301f4163ee0b",
+    "a671d76b1deec6e41d23aac3d357a16c",
+    "a2a18b2fc24787bc8e4d1b9c843d803e"
   ],
   "transfers": {
     "pages": {
@@ -21220,6 +21220,26 @@
     {
       "t": "2027 3d adventure announced currently decryption development games has language pikku puzzle q2 release revealing shochiku steam targeting targets that title",
       "ts": 1794569658.6477253
+    },
+    {
+      "t": "25th 3 anniversary announced announcements classic enters fanfest games its ports production revealed wolfenstein xbox",
+      "ts": 1794569665.5588942
+    },
+    {
+      "t": "14 24 announced character content covens endgame exile games includes its kakao launches league new november path progression season system that this umbra update will",
+      "ts": 1794569669.2809267
+    },
+    {
+      "t": "2026 also announcements awards ceremony disney during game games its live new regarding reveals stream surprise teased tga this will year",
+      "ts": 1794569672.901851
+    },
+    {
+      "t": "16 18 host kevin kicks nov off scrim soop starcraft tournament will",
+      "ts": 1794569676.4479237
+    },
+    {
+      "t": "11 2027 8 abyss applicants applications conversion employment full hiring internship its january linked offers opens opportunity pearl recruiting run time total weeks which will winter",
+      "ts": 1794569679.9975686
     }
   ]
 }
