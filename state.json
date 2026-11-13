@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27464/generational-shift-in-top-weapons-how-strong-are-daggers",
-    "https://www.invenglobal.com/articles/27463/square-enix-launches-dragon-quest-smashgrow-half-anniversary-campaign",
-    "https://www.invenglobal.com/articles/27462/nc-launches-major-2nd-anniversary-update-for-blade-soul-neo",
-    "https://www.invenglobal.com/articles/27461/a-100-inch-screen-from-just-19cm-away-xgimi-mira-pro",
-    "https://esports-news.co.uk/2026/10/21/wolves-esports-sweep-a-team-2-0-to-open-vct-threshold-china-2026/",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdkdLNlBrenZmbWVHczUyTDVUdEl5UUVLUEhUeGJBRkloT0xtT1BVNnVOaHRoOEYyMlViZ18wLXhKWFROa3RlMzJaZDIteXZsVkhUN0R1d0hTU2g3QnRieHJvSW1feGxSS0x0SXI1VTBYckJqRzk4N0VJZnl0Y19Ua2I4M3hHSDdUWl93a0FB?oc=5",
     "https://esportsradar.gg/esl-faceit-group-extends-logitech-g-partnership-to-iem-beijing/",
     "https://esportsradar.gg/evil-geniuses-to-shut-down-its-esports-business-after-more-than-25-years/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/contexto-hints-answer-for-november-13-2026/",
     "https://insider-gaming.com/honkai-star-rail-not-xbox-or-switch-soon/",
     "https://insider-gaming.com/genshin-ties-2-tool-maps-every-character-in-game-map/",
-    "https://insider-gaming.com/when-will-marvel-rivals-servers-be-back-up-marvel-rivals-season-11-november-13-downtime/"
+    "https://insider-gaming.com/when-will-marvel-rivals-servers-be-back-up-marvel-rivals-season-11-november-13-downtime/",
+    "https://www.vlr.gg/790068/gen-g-completes-roster-with-ray",
+    "https://www.vlr.gg/790063/t1-goes-all-in-on-fusion-roster-welcoming-sacy-as-head-coach",
+    "https://www.vlr.gg/790052/kingg-tips-his-crown-says-farewell-to-leviat-n",
+    "https://www.vlr.gg/789983/fut-continues-rebuild-adding-batujnax-and-hezacoil",
+    "https://www.vlr.gg/789977/murash-finalizes-roster-with-caedye-seoldam-xdll-and-mltdwn"
   ],
   "title_hashes": [
-    "c385fcfa20e7893c6f87e4d8596363d8",
-    "cebb7c4b2eb78ae1d7b67fde5a4327ab",
-    "6e373659f3c93670f67f66279ce312f1",
-    "8e0aa20eea54b35ee65c2aa639a1c144",
-    "d14c8f75c68c3a44b97aca9e17fcc1e5",
     "0c24aeb66e5f417dcb68cfc2349b596f",
     "fdac28f8930c840340e382236ad3295e",
     "61d7f16ab4c668f1f03673ac1cdc60de",
@@ -16001,7 +15996,12 @@
     "f8b4f840f6339ac557047bc8f75e5766",
     "18dd467cb5f0b2d58dd15fa60f414a36",
     "b1f583c59418e287932aa374391c2b57",
-    "a973141cc5db1d1d1347fbee30107280"
+    "a973141cc5db1d1d1347fbee30107280",
+    "fe221a336ec86a7c67c046bd5fc6f1f6",
+    "f518abe67b8a60dbde0833f9c42c21b7",
+    "773b692e362c19aed9df15d6c1b15ccb",
+    "00c24181c59aa2cfc44adb8b1e6af0c0",
+    "c3fd4ec48eab6f07799b62b94869cb04"
   ],
   "transfers": {
     "pages": {
@@ -21280,6 +21280,26 @@
     {
       "t": "11 13 about all back details downtime including know marvel need novemb november post rivals season server servers when will you",
       "ts": 1794569719.1055002
+    },
+    {
+      "t": "completes debut gen his joins nation one professional ray removed roster tiger year",
+      "ts": 1794569724.2415915
+    },
+    {
+      "t": "all brazilian coach coaching fusion goes head roster sacy t1 welcoming",
+      "ts": 1794569727.918
+    },
+    {
+      "t": "after crown farewell find five his home kingg lev leviatán new off says tips years",
+      "ts": 1794569731.7851722
+    },
+    {
+      "t": "2027 adding batujnax continues fut hezacoil look new rebuild set stage take",
+      "ts": 1794569735.2739046
+    },
+    {
+      "t": "caedye finalizes japan later mltdwn month murash qualifiers roster seoldam set take this xdll",
+      "ts": 1794569738.797576
     }
   ]
 }
