@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdThSM3FTMjc3b3hlYW56S2NLLWlTS0ppZjJNbjQ2TkY1ZHAxMDI2dU9fdWZtV201aWx6YmJyTWVOb0M1VkdlZFpNZjNUVml6TnhNZ01KMmNVeXB2alZNbDY1Ym44U3Zoem1mTE8xUkxZU1hMdXdZQ1hQUXZXYzhwVy1oTXBWUC1sOWtmWTNnSTY?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qYThubGg3d0xxNzVWbEI2Vmp4aGJ2NXhVYkZZTG03MWlWV0xmSlQ3dmNJblVwY29VUll5cDZhaTJ1LUFEY3FXWGlVM2V6b3FvTWkzN25GOGk0M1FPeTE2czA0endQeDVhU3ZjSzBnQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QbHJjc3JaSjNJZkR3dzBiRW10VHVyZmFFalZmTm5TQjhuTU53YnVvZlQ3UDk3U2NrelYwQ3ZtMVBCTk5nVW5CdlRBUjhSTTBqMjV6Mjl5RFJCVmE0cmd5VV9SMzUxcHFmRUdQSnhWd2p6RVU?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jby01Z1F2RDV6T1JoSXU1aHdybWJOS1dSSWIzdS0weXhra2hQTUJMT2V5Y0s5QktjaFFBRmZFaE15a1pZNmU0UGpqM3hmbWtYdGh5MU02eXF6cG8?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaktfd1QyNWlmSnZ0RnFiNU5xdGUwR2E2SmgyME9VT2F1NXM3VUNIc2ZvczNXenNrV2J4YWFvVlpkS0FXZjVSME1pSy1UdWJaSGNqWm5NNU9La056c0lGNHNCeVVjb0wxWHJ5dWN5Y2MwWnVfc210N0w0TFpvMGtUQU5lOWx5NG8?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yNDl0UXIyVXRmczBqWmticVFSNVV3Mkd4Um5kS05vWXV1MlNKQ0lYZEs5Ynd6Y3l1eFdiemF0eFM0aXlZRUpMQm1UUUFlcXNzSXF5akRjcGFCU2g5UmVXdTBiNmRaRjFNMkJOYlRR?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE04X19tRmFCblFHV2hRWXc0SlVsUXpPbWxzM25pVmI4dktwaW82WkFPSXRZWUU5Wi1zQThyVXl5Z2QwcXZDUWI5YlNUeVpGLWNXeVN6VGM4amVMRXJubDNfRlBZbDdVdWZ3UTJuT19DZVRsTEhSNVdGUWlzVQ?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWQ1cWc4d2ZHcDdYd09GMkZnWU1QUy1YVl9ZS1JYUFoyZmtVQms1Zk9kUlRuQjRCYm1YTFhpQzZQZ2tfVmNlamlPZmhPd0FDQ0xqVjVSX0ktTFRlR1dUY3Vsd20xOFZtWHVnQkllQmhlVDBsREEydkhNcTRjM3hIOEtleEpzSVFSaHJB?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYnNmXzFZc0R4b1R6LWh2NEVTSWxldUN4NDBCOTZiUWp4Mk1rU3ZpN3BoRG9pUkc5czRYNGNhUk9vSl9zVjRCYm1tLUsxUWlqZWxPaEduempNazU2bEltQTREb3ZvWDhhY3J2dzdsNjEzb240aUMxZVh3dXFUQjBKUUZfODZnb2lkVE1lQzBWX3VHbjNW?oc=5",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/interview-azur-promilia-goes-beyond-ambitions-azur-lane/",
     "https://insider-gaming.com/kda-riot-games-interview-kpop-demon-hunters-influence/",
     "https://insider-gaming.com/the-game-awards-nominees-to-be-announced-ahead-of-gta-6-release/",
-    "https://www.hltv.org/news/45973/the-highs-and-lows-of-the-major-qualification-rollercoaster"
+    "https://www.hltv.org/news/45973/the-highs-and-lows-of-the-major-qualification-rollercoaster",
+    "https://www.hltv.org/news/45986/saw-bench-nopeej-and-promote-jayy2s",
+    "https://estnn.com/blast-rivals-semifinals-spirit-mouz-furia-falcons-preview/",
+    "https://gameriv.com/marathon-vault-breaker-speed-challenge-results-revealed-fastest-crew-finishes-in-just-12-minutes/",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE43bkNvQXVtSGl1aWNlZFp5eWowSXh6OURJNHlybmZabnU4eGlVekVSclhmTlNlVm9TVzBvUWR0Z0haV2pfemVCWU5KZUFsZndvSEhLWFJSdm1zV0VwSTF6SXZIQVVFQmtHeXJTYUtXYnY0UVVySU9Wckk3TQ?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/lol-esports-2027",
+    "https://www.hotspawn.com/fortnite/news/fortnite-treasure-hour"
   ],
   "title_hashes": [
-    "d6fd083fd6aa4a0349104b4196769e75",
-    "4190bcdbb32917e454cf261a86a57be6",
-    "238c8f300f2e6a5fcbff2c40f684ecdd",
-    "f934b32562d548f177303062f1f2845b",
-    "33e286c2d86619b8e8b3843044cf5327",
-    "c8c2afc8939099052b070c55ea34fa2f",
     "f2ab5fb218da8b84623f45579aa4ba11",
     "cde4fcb5e4185f10000d0661576eb7ff",
     "643abe1f5dd952b2fabfc5577a58e9c8",
@@ -16001,7 +15995,13 @@
     "001347066190fad2bf49e5842b0f6489",
     "dbf3820f526e8b0b44f512e2bcb59054",
     "73d08ce01e0c02cbadd97b71ffa099fd",
-    "6981dcf0eb42529aea537ff33f890de9"
+    "6981dcf0eb42529aea537ff33f890de9",
+    "35fd3e1022a0995afa77b72487dcdfe6",
+    "9d996300a51ae215dce2e22d8654358c",
+    "a469960dc739931e725912a1b5dafec1",
+    "66752052d1d39561b38cb97d5ef09a64",
+    "2d144ffc5c0183354509f30d3a4b3678",
+    "28a1496a40aa992317da651681c6fa09"
   ],
   "transfers": {
     "pages": {
@@ -21140,6 +21140,26 @@
     {
       "t": "coveted fell highs invites line lows major most occasion others qualification rollercoaster rose season some teams wayside whilst",
       "ts": 1794614265.0782075
+    },
+    {
+      "t": "after ago bench coach continues dismissal jayy2s nopeej overhaul portuguese promote roster saw team two weeks",
+      "ts": 1794614270.3024702
+    },
+    {
+      "t": "13 14 blast falcons furia hltv hong kong mouz november paris preview quarterfinals rivals saturday scores semifinals spirit times won",
+      "ts": 1794614273.7260165
+    },
+    {
+      "t": "12 8217 activity breaker bungie challenge clear competition completion crew crews fastest finishes has impressive just managed marathon minutes officially results revealed some speed time times vault which",
+      "ts": 1794614277.2972844
+    },
+    {
+      "t": "2027 announces announcing calendar changes china esports expanded fir first games has heading international its japan korea lol major msi plans riot south spain stand tournament unveiled worlds",
+      "ts": 1794614280.7256794
+    },
+    {
+      "t": "about all anticipated but chance chest current fortnite games give hotly hour normal open season special still treasure unlock when whenever while you",
+      "ts": 1794614284.1992927
     }
   ]
 }
