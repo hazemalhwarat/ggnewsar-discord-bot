@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27487/steel-dagger-is-pure-ambiguity-comparing-budget-one-handed-swords-and-daggers",
-    "https://www.invenglobal.com/articles/27486/psychoflux-unveils-demos-for-two-new-titles-at-steam-next-fest",
-    "https://www.invenglobal.com/articles/27485/without-season-1s-lingering-impact-cyberpunk-edgerunners-2-still-delivers",
-    "https://www.invenglobal.com/articles/27484/la-tale-releases-realm-of-taste-update-and-hosts-halloween-event",
     "https://www.invenglobal.com/articles/27483/two-point-museum-adds-little-kitty-big-city-collaboration-content",
     "https://www.invenglobal.com/articles/27460/sky-island-renewal-live-new-lancer-class-teased",
     "https://www.invenglobal.com/articles/27459/smilegate-introduces-pc-payments-and-points-system-to-eclipse-the-awakening",
@@ -7999,13 +7995,13 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUxfX3ZnYkszTmhIWUdLZU5OTVB5RG1HakV6R2s2ekVKS1NkWTg3TUlwTzRkU1I5b0I4YkdzVHh1MHFCOTFfVm9xWnFCVWowSGVfSVpkbXVuTW5KaHJFS2o5YXhldlNLQXpEdkRsclFCX0NQZ3o4Wl9ZWUNMSXlnN01ZbDBvYXpDNzhEa2hRODM1dnl6RUZrM2p4Q3VvQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUndzLUxneVJrRUtLdmVLTXNaSUxYWTlMWVQwQlBnNFJ4VGpfYVQ2V1QxdVNiUHgyMTRqRjVSN19QWmx1RzNrd0NLd212d2tSVndUdHY5TDFNWk50T0VIaUZFbnRSb2FBeXNfM1NINk9EWXF5akNqM01ZVWwzMjY3Qm9aa3Jvbzhk?oc=5",
     "https://pley.gg/cs2/hltv-lists-70-candidates-for-2026-rookie-of-the-year/",
-    "https://pley.gg/cs2/mouz-outclass-vitality-in-hong-kong-to-emerge-as-singapore-major-contenders/"
+    "https://pley.gg/cs2/mouz-outclass-vitality-in-hong-kong-to-emerge-as-singapore-major-contenders/",
+    "https://pley.gg/cs2/one-emoji-has-cs2-players-expecting-a-snowy-cobblestone/",
+    "https://pley.gg/cs2/faceit-add-four-north-american-server-locations-for-season-10/",
+    "https://pley.gg/valorant/sacy-becomes-t1-head-coach-i-wont-let-that-opportunity-slip-away/",
+    "https://pley.gg/cs2/m0nesy-on-falcons-season-you-dont-want-to-always-lose-the-same-way/"
   ],
   "title_hashes": [
-    "7a328de6c306bc137cd63ba5d079e3dc",
-    "b3d47328928dd56d5a84f53a8474a0d9",
-    "561135d37927e1b058b0981832c8bc38",
-    "799855594adc0f2bd7302c69d3234b5a",
     "12274846d34732e1f229f78ae563108a",
     "20560473fe4ee0b40ff309ccfe92d93c",
     "7e3a1da86c36f5a7113cbf81b3816598",
@@ -16001,7 +15997,11 @@
     "def850ede469b740c2152721a14c0a0a",
     "d9adb252b7096acb4f7d57b36b874391",
     "9a01a6f421016bd19aaa38a92f66ef1f",
-    "45abba3df3329066143c58e5f60b0110"
+    "45abba3df3329066143c58e5f60b0110",
+    "2aacb64adba41e3be065f1d20236657c",
+    "943532a404143b7b030ec4d0e64493d7",
+    "caad88eb2dba4383e30b9f7adcf250a2",
+    "1e3f1fe224f426f9789d45dd62b4c13b"
   ],
   "transfers": {
     "pages": {
@@ -21380,6 +21380,22 @@
     {
       "t": "contenders emerge hong kong major mouz outclass singapore vitality",
       "ts": 1794569817.974291
+    },
+    {
+      "t": "all but cache cobblestone cs2 emoji expecting files game has last letter night one players returned snowy swapped there this time valve",
+      "ts": 1794569823.524215
+    },
+    {
+      "t": "10 9 add american angeles atlanta cities december faceit first four have live locations los named new north october promised season seattle server servers since they york",
+      "ts": 1794569826.9463959
+    },
+    {
+      "t": "2027 away becomes champions coach coaching crashies first gustavo have head his job let masters named opportunity rossi sacy slip t1 takes tenz that winner won",
+      "ts": 1794569830.4800866
+    },
+    {
+      "t": "after always but don falcons freely know legacy lose m0nesy major mistakes more mvp officials over play practice repeat said same season team than that their them want way win you",
+      "ts": 1794569834.0479553
     }
   ]
 }
