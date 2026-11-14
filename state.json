@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUVZJZkFOU3dNVlNrRlBzX1c5b0NudmtMX0IweWxxRy02QVNfOWI2bTRDWGFyXzVhbkU2RmU4azhpaHFXSjZuSGJDNGszTGVLTFBQWjlkYXVST3hwSGd5RWx5SG9aOEZuRjVqSmhKdWx5VC1SZWQ3R2JvRFFaeUlWNEtxMUc4YzZuaU5TNVlER3VlVlFoTnRSYkpJWUZVR2RibU1jUFZBLU51Y2lOYkZYX0hhTExGWG5wQ1pR?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHgzT2xmZGMyMmVSV2FubEVpOXFGdnpDV2VSRlU3TzhNSW9XOW8xMnZRNV84ZDMyOTZQbl9WaFRiOU1hR21nVS1NWXEwTDRKLVBkd2p2ZGtwY0NqZ0VFWUk5T2MyTzk2T0dJN3dTVlk2Z0Z2Q05XN0VHcENxbXE4bWMxZ3pLcTNXNGFNYklyRQ?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUdBVldGUkswRGdhNFJVSEQwcWxWeUQ0TnFUcWRVTlpyVFRZLXIwSE13aXdLRkx3aENnWURZb2JoaXhTV2theEdPbzY1bzNldXk4V2ZEZGFyWXpyZk82R0pFQjh3OVo4YWMtakR6Y0tveWUxRlBJVkEzTVN5TEJseGJvLVZtSi1rbXBN?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TdzBkcEdKQ05RRXYyeUFtMjUwZFduVTFDa2RETS1nRV9xT1h0OUc1U2N2eWJYaDUzM3ptbjlTVHJoSTd2Z041MUZ6ZUVsbEhkUUJ3QU9mMHVTQQ?oc=5",
@@ -7999,10 +7998,10 @@
     "https://pley.gg/cs2/apex-blames-his-own-calling-as-vitality-reset-for-singapore/",
     "https://pley.gg/valorant/kingg-leaves-leviatan-after-five-years-and-a-masters-title/",
     "https://pley.gg/valorant/sacy-on-joining-t1-im-basically-here-because-of-my-dad/",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlpuNzVSWktheDFxdncyUWVySUNTVVI4SVlWd1pfdjhraTNfS0lwNklBV2cxYllnM1ZxU04tUVRndm9BaWdIMkZtZXFkaURsS1pFUFNQOXZKTzhpRUlWc2hoTGwyM1k2SExsVW9CUlBfTzVrQkd1X0ltdnhHU2tPOGdn?oc=5"
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlpuNzVSWktheDFxdncyUWVySUNTVVI4SVlWd1pfdjhraTNfS0lwNklBV2cxYllnM1ZxU04tUVRndm9BaWdIMkZtZXFkaURsS1pFUFNQOXZKTzhpRUlWc2hoTGwyM1k2SExsVW9CUlBfTzVrQkd1X0ltdnhHU2tPOGdn?oc=5",
+    "https://upcomer.com/godzilla-destroy-all-monsters-melee-is-back/"
   ],
   "title_hashes": [
-    "693332f21042fa68eeabeb37271bf5e7",
     "c1795c8a77599ac6fd896f51d9d7671f",
     "70ce11179d6236a85e4694b68d8e9443",
     "66752052d1d39561b38cb97d5ef09a64",
@@ -16001,7 +16000,8 @@
     "7d623d4bef03fc5047d54136931e5f3a",
     "1d040aaaee188a2f97735c5884862c3f",
     "712fa581db0fd85b2a03bdb238f3ad13",
-    "6e94bffda7e05d65d12a201c987221d0"
+    "6e94bffda7e05d65d12a201c987221d0",
+    "1b7a841d2b7d64635082aec7b64d2892"
   ],
   "transfers": {
     "pages": {
@@ -21168,6 +21168,10 @@
     {
       "t": "2027 brings dot esports fnatic labrov lec nbsp reportedly season yike",
       "ts": 1794656600.4838877
+    },
+    {
+      "t": "all back classic destroy godzilla its kaiju long makes melee monsters",
+      "ts": 1794656605.1705222
     }
   ]
 }
