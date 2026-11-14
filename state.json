@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSWRtSGJ3LXd2RzRGWUZXWUxMUVk1NlNBb1V4azJxTlROazBvV2QxY3MzUHprTGZxMjVhelNkNF92UGh0d3N0YWJERUxwb0JKZlhJbDJaSVlDbGJ5dVJqSGJING0xbTM0UDB1c1o1SjNVRU9mcDNYLXd4OTh1dV9MQ1Fma1JybEVTY3FHdUhPREhLendHQ1FxbmVWbmExYUE3ckZmZE9nelVCQ3lsRWtMUnc0djFaeUpqbVU5STFxOWVmSWd0enc?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3doNW53bnc1YTZYSFlEU1hVMW9wNGp2ZWl2WTZ4MEhPSW9oQ0tCcmhpLWdjTG1PVktocldNRGlnM2FYdllfR19rWUl6TDN1Vk5zckNhdEU4SUlaajZqYXJoYmdWU1JVQU1yRlc1d1BpSExZT0dqanhkSHUtcjJON1psZFE0U3BLcHRYV1NlMEMwQmIyNy1FODdNWWFoaTRIcjZIRENlNFFJN1ZMVUE?oc=5",
-    "https://www.invenglobal.com/articles/27497/the-pok%C3%A9mon-company-to-open-its-first-permanent-store-outside-asia-in-london-by-2029",
-    "https://www.invenglobal.com/articles/27498/the-apothecary-diaries-the-false-imperial-brother-launches-march-18th-2027",
-    "https://www.invenglobal.com/articles/27499/cyberpunk-2077-to-release-edgerunners-2-update-on-oct-22-featuring-new-side-quests",
     "https://www.invenglobal.com/articles/27496/poppy-playtime-spin-off-escape-from-playtime-launches-in-steam-early-access",
     "https://www.invenglobal.com/articles/27495/video-game-history-foundation-adds-over-300-unseen-photos-of-japans-game-scene",
     "https://www.invenglobal.com/articles/27494/gta-6-switch-2-port-rumors-sparked-by-job-listing-from-red-dead-redemption-port-developer",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28586/10-years-of-korean-mobile-esports-summoners-war-concludes-successfully-in-seoul",
     "https://www.invenglobal.com/articles/28585/magic-the-gathering-animated-series-planeswalker-coming-to-netflix-in-2027",
     "https://www.invenglobal.com/articles/28582/10-year-duo-heo-jun-and-sim-yang-hong-the-power-lies-in-accessibility-for-everyone",
-    "https://esportsinsider.com/2026/11/msi-2027-heads-to-valencia-as-riot-reshapes-split-1-with-first-stand-all-in-in-china"
+    "https://esportsinsider.com/2026/11/msi-2027-heads-to-valencia-as-riot-reshapes-split-1-with-first-stand-all-in-in-china",
+    "https://www.hltv.org/news/45989/spirit-defeat-mouz-to-make-blast-rivals-final",
+    "https://www.hltv.org/news/45988/live-updates-from-blast-rivals-semi-finals",
+    "https://gameriv.com/valorant-all-agents-relationships/",
+    "https://gameriv.com/valorant-could-get-agent-themed-skin-bundles-in-the-future-riot-confirms/",
+    "https://gameriv.com/valorant-devs-admit-hush-may-be-overpowered-ultimate-nerf-could-be-coming/"
   ],
   "title_hashes": [
-    "74c8c60b9a3744002902784fdc82b72b",
-    "ebf6f66e2921451f239ffff8b55641e1",
-    "e2b13f3177c66bcd7c8c44fc98409c0e",
-    "74ee66a9983c2e48ee52f703da0645d5",
-    "127b92f3b2dd763536dd10942325c03d",
     "816fd679bf2c4e14a8faec679f0bb903",
     "bbff9c98814c94cf390602abf271c11b",
     "9d22d0b2da64b4177f403e78e5a6bb87",
@@ -16001,7 +15996,12 @@
     "21e08d51eb30794a81a8e7ee5d0cc86c",
     "c872b487e531c0cec4b4401802183b74",
     "51cdd27279927140b7f08456f8d285a6",
-    "586b8ea4f8b5b996c826dc49a28efee9"
+    "586b8ea4f8b5b996c826dc49a28efee9",
+    "c38686821ddf913ca530ab50228f1a55",
+    "58ce7f5fed0a7f78bdb154b3b2ce1ce0",
+    "3bb487924cce44d3dc909a62a5cc4ada",
+    "ccee06b4666817391794585557d28e01",
+    "882f058dc709d09e082221626689b79e"
   ],
   "transfers": {
     "pages": {
@@ -21048,6 +21048,26 @@
     {
       "t": "1 2024 2027 all back bringing china europe event final first heads invitational its league legends london mid msi one reshapes riot season since spain split stand take tier time top valencia will worlds",
       "ts": 1794656489.3860915
+    },
+    {
+      "t": "blast defeat effort final hong kong make mouz netted rivals shot spirit team them trophy",
+      "ts": 1794656494.3218203
+    },
+    {
+      "t": "all blast catch finals highlights live rivals semi top updates",
+      "ts": 1794656497.8410296
+    },
+    {
+      "t": "agents all between cannot close complicated crush during each few friends genuinely going has hates have histories its likes line lot match more occasional othe others relationships some stand than valorant voice who whom",
+      "ts": 1794656501.1705406
+    },
+    {
+      "t": "8217 agent agents based bundles collections confirmed confirms considering could creating dedicated eventually favorite future games get has idea inspired might players riot skin that their themed valorant weapon",
+      "ts": 1794656504.4963603
+    },
+    {
+      "t": "about admit admitted already ama become been but coming concerned could developers devs duelist during few games has how hush may might nerf new only overpowered powerful recent reddit riot she sho that ultimate valorant weeks",
+      "ts": 1794656507.8115203
     }
   ]
 }
