@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWNPUjRZNWdBd2k1LXNXU1FIMUpkZTdJSEtfZWVtTDI5UGZ2NmxaamNvWXpzckpmZUc1a3RwT2gwRXJJRl9kRzhlZ01PMW1IdHZ4cmRxRlVlUjdCNEZ2YjBVd0MzSGs0dlRYbDF0dVdpTFg5RnAwRU9oUXBDcVo2UTVxREJTOG8?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DR2VSUF9WSzdqSGE2c0kwc251eVlGWVBhMHl5NllxUU12dlV6cm9MTWFCTXlrQTNmYkFvWWJWVWw3U1NGeUZLaGtwVm5kQXBPMlpCS2VzdGRSck9XU0FtRVRaVkI3SGRhOEt4cmNzNzN4cS1zSjVkeVJicw?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxObHJzZ25xT19wcnZ6YVM5eXhOZ2Z0clVBWmVPM21mWTJpYWw5YWg1cjNFOTZEOHZoOFJVdE5LUWx2UmZqdTFVSU0xbkk1UlRtaU9jYm1mWWVBNmxxRHV2VE5wVzY3TWFqRG5SR3ZCdUNLaThacWlnYXZJMjU1OXZEOQ?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmhrWXpzY1hiLXNITnRuelhpZEUyVjBHVXdxS1ZHUlpWQXpVN21OVkw5OXpNQUtPVV9EMDBfaUFZZlhYVUhMRlIybXVDaXlOdUplQzRNcGFjVzZiQnhFYmJKNzF0MllhVUM2MkR5dV9Zbm56YTl4bVhvRzdBdy1kWmJyRmtCVjFhNnlSbHlrMVdHUQ?oc=5",
@@ -7999,10 +7998,10 @@
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFZKbU9LVUZYSXBSSFQyVVFkOVh2REROLW1jdU5VQ3NoR1RDT1JodHRQcHgzMlZZeDFSVVoxLUlSQmNMcDc2eW1POVpWR0sxVnBxeFBoRnh2TU9Tc0tmQnFHazRQamdPR2NUZHpERWYxN0QwdVRaelN3aUlGMDcySnFCRk5pSnNUMG93UFk5RUt5YjFFcVFjX0lOTVdZVzZoX0hMZ3VVVl8?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb1d4ay1QaTQ5LW4tNEZEb04xcXI1RlowMGZYczhndEFVR1hwVXNmZ1FxRk84VVRfbVQzMXBkMWhlNmhVZFhrVWlKRnRQeWhTclU0WEwxeF9Kbzdwck5uUUxEREp6NnktRHZrY0p5Mlc4VEtoZmxTQzBjeF85UFNsdXRyTEd6SEdfWjlYVUV3QmZZQWl6?oc=5",
     "https://pley.gg/cs2/furia-end-falcons-five-series-streak-to-book-a-spirit-final/",
-    "https://pley.gg/cs2/only-fnatic-nip-and-navi-remain-from-csgos-first-major/"
+    "https://pley.gg/cs2/only-fnatic-nip-and-navi-remain-from-csgos-first-major/",
+    "https://pley.gg/valorant/zekken-still-without-a-2027-team-three-weeks-after-mibr-benched-him/"
   ],
   "title_hashes": [
-    "8e8c0d529872f051df57a6b262bf9541",
     "06f01129a26ebe11735525ef3bd704f4",
     "4b3047ec1764f04ab992ef06c1ecfe6e",
     "21050d50ea5c10d23577f4982c39eb78",
@@ -16001,7 +16000,8 @@
     "98420aad9b301afad25259831d44cce0",
     "370409f3afd0f8a31fa575a8eacd6bed",
     "b9b2776baf11d30caad3344b6c5f6218",
-    "1514c5706d18af7bf203630780903736"
+    "1514c5706d18af7bf203630780903736",
+    "37b27943c4994be3a70d3ed19127a40f"
   ],
   "transfers": {
     "pages": {
@@ -21076,6 +21076,10 @@
     {
       "t": "2013 after dreamhack first fnatic have major navi nip only rankings remain still team thirteen valve winter years",
       "ts": 1794676868.6202009
+    },
+    {
+      "t": "2027 after benched filled has have him inactive lineup list mibr moved roster sentinels still team their three weeks without zekken",
+      "ts": 1794676873.7684793
     }
   ]
 }
