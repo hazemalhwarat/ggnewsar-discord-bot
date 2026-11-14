@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27496/poppy-playtime-spin-off-escape-from-playtime-launches-in-steam-early-access",
-    "https://www.invenglobal.com/articles/27495/video-game-history-foundation-adds-over-300-unseen-photos-of-japans-game-scene",
-    "https://www.invenglobal.com/articles/27494/gta-6-switch-2-port-rumors-sparked-by-job-listing-from-red-dead-redemption-port-developer",
-    "https://www.invenglobal.com/articles/27493/stellaris-expansion-willpower-turns-ethics-into-ideologies-on-november-23rd",
-    "https://www.invenglobal.com/articles/27491/private-equity-firms-reportedly-explored-xbox-acquisition-valuation-up-to-200-trillion-won",
-    "https://www.invenglobal.com/articles/27492/will-next-gen-xbox-helix-launch-at-24-million-won",
     "https://www.invenglobal.com/articles/27490/dragon-ball-xenoverse-3-a-world-where-you-aim-for-the-top-with-your-own-super-warrior",
     "https://www.invenglobal.com/articles/27501/complete-guide-to-pirate-island-quests-essential-for-entering-drakes-room",
     "https://www.hltv.org/news/45771/qikert-pivots-to-coaching-joins-spirit-academy",
@@ -7999,15 +7993,15 @@
     "https://www.hltv.org/news/45988/live-updates-from-blast-rivals-semi-finals",
     "https://gameriv.com/valorant-all-agents-relationships/",
     "https://gameriv.com/valorant-could-get-agent-themed-skin-bundles-in-the-future-riot-confirms/",
-    "https://gameriv.com/valorant-devs-admit-hush-may-be-overpowered-ultimate-nerf-could-be-coming/"
+    "https://gameriv.com/valorant-devs-admit-hush-may-be-overpowered-ultimate-nerf-could-be-coming/",
+    "https://esports-news.co.uk/2026/11/14/faze-clan-sweep-yuzus-falcons-to-reach-blast-r6-major-osaka-final-against-darkzero/",
+    "https://www.esports.net/news/gaming/worlds-2027-heads-to-japan-and-korea-msi-goes-to-spain-and-first-stand-moves-to-china/",
+    "https://insider-gaming.com/contexto-hints-answer-for-november-14-2026/",
+    "https://insider-gaming.com/how-to-get-gta-6-twitch-drops-explained/",
+    "https://insider-gaming.com/gta-6-twitch-drops-campaign-surfaces-on-site/",
+    "https://insider-gaming.com/gta-6-jason-and-lucia-start-basic-criminals/"
   ],
   "title_hashes": [
-    "816fd679bf2c4e14a8faec679f0bb903",
-    "bbff9c98814c94cf390602abf271c11b",
-    "9d22d0b2da64b4177f403e78e5a6bb87",
-    "967ef2eb34634ba418db94dab610ba6f",
-    "d83e2af07f88d01d7597db7e8b9e8c5f",
-    "18edd897ae40f6f118fb2f6416433d7c",
     "18b7bf130a9d4ff392a4eb2710a9d06a",
     "64cdc2efdc0b842435d2b612b3c86b18",
     "b6df97ee6b9b1e43fa251d4d30f5d473",
@@ -16001,7 +15995,13 @@
     "58ce7f5fed0a7f78bdb154b3b2ce1ce0",
     "3bb487924cce44d3dc909a62a5cc4ada",
     "ccee06b4666817391794585557d28e01",
-    "882f058dc709d09e082221626689b79e"
+    "882f058dc709d09e082221626689b79e",
+    "5011e818ee564f6165263b052ee0e408",
+    "3413bf341d7d2986fd1d630a45cf3988",
+    "3a6d5e649b5d92878e50041cc46837d0",
+    "79132eeefea80b141ab0fc5d7abd711d",
+    "adb729f61a94f6d5c31a2c2fb2613e9f",
+    "669c3f28649da8d1aceece32f68b5e7b"
   ],
   "transfers": {
     "pages": {
@@ -21068,6 +21068,26 @@
     {
       "t": "about admit admitted already ama become been but coming concerned could developers devs duelist during few games has how hush may might nerf new only overpowered powerful recent reddit riot she sho that ultimate valorant weeks",
       "ts": 1794656507.8115203
+    },
+    {
+      "t": "0 2 2026 3 8 against beat blast clan continue darkzero defeat earlier esport falcons faze final major osaka playoffs r6 reach reading reversing round second semi sweep their week yuzus",
+      "ts": 1794656513.0737176
+    },
+    {
+      "t": "2027 all also china events expanded firs first games goes going has heads hosts international japan korea league legends moves msi new plan riot set spain stand starting three time worlds",
+      "ts": 1794656516.5499895
+    },
+    {
+      "t": "14 2026 amp answer appeared contexto first full gam get guess hints insider november post stuck today trying you",
+      "ts": 1794656520.0377486
+    },
+    {
+      "t": "6 appeared auto but campaign drops firs getting grand gta have hoping juice launch might post site streaming surfaces that theft twitch won you",
+      "ts": 1794656523.40806
+    },
+    {
+      "t": "6 8217 abilities acts approach auto basic being crime criminals first grand gta have jason limited lucia post small start story theft tiered time will",
+      "ts": 1794656526.8297706
     }
   ]
 }
