@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.vlr.gg/778820/gentle-mates-to-part-with-head-coach-kundikundi",
-    "https://esportsinsider.com/2026/10/dragon-ranger-gaming-sweep-rare-atom-on-opening-day-of-vct-threshold-china",
-    "https://insider-gaming.com/modern-warfare-4-launch-patch-notes-explained/",
-    "https://gameriv.com/arc-raiders-free-weekend-helps-drive-nearly-3-million-in-new-sales/",
-    "https://gameriv.com/wardogs-developers-introduce-175ms-ping-cap-and-region-locking-to-fight-cheating/",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNjJGSVhwM1VtUkdjWWZMdFU0OHVkaUVxOVVIWWJWeTlmbEhScDNwSDVWNVYtdlY2U0xTSmNCTmp2RDUzS3hDMjZyOFRXQWY3YUE5LTRfV1VfYXVGQWJMcGJvQVpUMlg4UUF1eU9GcDlqUk8yRlVhU2ZOeG5jc29nN2hBRi10UVc3?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVlKa3dTM3dHSDRJN2I4YkJTWVRnWDBzd3dDaFB6TFE5U3FMT0h4cUJ6Qkt1MHhLV3pjVGlYTUlleFU3ckhWcjJWUklFdWN5ak5XYzRicUwwaTh0a1lVcWhMY0xIMVFZcDhWNWVzZm5LTzJDR3NQeGlhcHJrLTlQTF9mNEVNdw?oc=5",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jcmhOSUlsZUdtem5VR3A1VTlET1dhNzdIbFlndktScnlTY3R2dl83U0s0VVM2Z0swOXJjNVRidC1hV2hTdVZWUUJ3S3hxNVZtNHBkS29BcHNrWTBqMFV0NllkRDQtbzZvdFRfRU1B?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/business/megaspeed-12-billion-chips-china-congress-ai-chip-export-bills/",
     "https://www.talkesport.com/business/jensen-huang-misled-nvidia-general-counsel-alice-huang-reuters-photos/",
     "https://www.talkesport.com/mobile-gaming/bgmi/kronten-fir-tag-manager-jonathan-2-crore-home-recording/",
-    "https://www.talkesport.com/gta-6/gta-6-physical-copy-code-missing-already-redeemed/"
+    "https://www.talkesport.com/gta-6/gta-6-physical-copy-code-missing-already-redeemed/",
+    "https://www.talkesport.com/gta-6/gta-6-pre-orders-1-18-billion-sensor-tower-console-prices/",
+    "https://www.talkesport.com/gta-6/gta-6-empathy-criminal-profile-rockstar-rob-nelson/",
+    "https://www.talkesport.com/news/gaming/steam-average-fps-data-steam-deck-desktop-pc/",
+    "https://www.talkesport.com/news/lol/league-of-legends-new-dawn-league-next-2027-client-summoners-rift/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/team-apex-gaming-new-bgmi-roster-omega-cegc-2026/"
   ],
   "title_hashes": [
-    "77a7452754cb0c374009d742273ec402",
-    "536c70d9e4e2b54229a8d0f615ed0bd5",
-    "d6356ef3557897a523fa87503d041c53",
-    "29bc963d4f5fd0ab669c1b22915b33a3",
-    "30070d37919ff729ece8533379be5b2a",
     "5111f028c03ccceaa8f3a81703ff8cb2",
     "ea7ae2012a89bf84ccc3166ec3965b8d",
     "3d94031e0f19b7780ca923f95d70c2a9",
@@ -16001,7 +15996,12 @@
     "4c58e540fe266aabc00abc64462e180e",
     "e9bb84c38c3209e208b394e2830d60ec",
     "7907fc9cbaebc477b0e5ee0464d25828",
-    "ac5d008a42cf502c4c5c5f031f0b8992"
+    "ac5d008a42cf502c4c5c5f031f0b8992",
+    "3f13cc7aa707e34eef123cbc1d650ac0",
+    "31d2df0c1bc8b44ac4cf3a8dfa4e6cdf",
+    "91471ce620c5fc382013b35aa003d8fd",
+    "8e0d327264975810be45072ba57843db",
+    "507556eedcc4653e77252a2576e65448"
   ],
   "transfers": {
     "pages": {
@@ -21028,6 +21028,26 @@
     {
       "t": "6 already arriving back boxes buyers code codes copies copy disc download fall gta have how know one ones physical post protect reportedly say some there used what without your",
       "ts": 1794757320.9648166
+    },
+    {
+      "t": "1 12 18 18b 1m 6 analysts before billion can console costs doubt driven estimated gta has launch lift made may memory not orders post pre prices push sales save still taken worth yet",
+      "ts": 1794757325.9436
+    },
+    {
+      "t": "6 adds criminal dates empathy encourage first gta hand holding needless nelson north optional post profile rob rockstar says systems that track tracks violence will your",
+      "ts": 1794757329.4289792
+    },
+    {
+      "t": "average collecting data deck desktop fps games get has histogram next now pages pcs players post real same show shows started steam store thousands valve",
+      "ts": 1794757333.7477837
+    },
+    {
+      "t": "2026 client dawn due full january league legends new next now post rebuilt renamed reveal rift riot summoner worlds",
+      "ts": 1794757337.2504926
+    },
+    {
+      "t": "2026 8217 after apex bgmi cegc close final gaming jelly jonathan leave line new omega post reportedly roster set talks team",
+      "ts": 1794757340.7596087
     }
   ]
 }
