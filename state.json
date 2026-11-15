@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27545/football-manager-27-to-host-free-trial-starting-october-30",
-    "https://www.invenglobal.com/articles/27544/gravity-files-trademark-for-ragnarok-castle",
-    "https://www.invenglobal.com/articles/27543/extreme-limbo-baldrix-added-plus-world-leap",
-    "https://www.invenglobal.com/articles/27542/demons-night-fever-korean-version-releases-on-october-22",
-    "https://www.invenglobal.com/articles/27541/the-winds-of-wow-blow-again-as-autumn-esports-kicks-off-taiwans-september-game-market-trends",
-    "https://www.invenglobal.com/articles/27539/wuthering-waves-version-37-phase-ii-adds-new-5-star-resonator-suoming",
-    "https://www.invenglobal.com/articles/27540/shamshir-cutlass-are-the-new-one-handed-swords-worth-using",
-    "https://www.invenglobal.com/articles/27538/the-era-of-yeongroti-has-begun-world-first-clear-of-kazeros-extreme-achieved",
     "https://www.invenglobal.com/articles/27537/line-games-releases-official-demo-for-new-co-op-horror-game-quiet",
     "https://www.invenglobal.com/articles/27536/dungeon-fighter-mobile-launches-inuyasha-collaboration-update",
     "https://www.invenglobal.com/articles/27535/maplestory-launches-4-chapter-maple-escape-event",
@@ -7999,16 +7991,17 @@
     "https://www.invenglobal.com/articles/28604/rainbow-six-siege-x-how-does-the-feedback-process-work",
     "https://www.invenglobal.com/articles/28605/how-rainbow-six-siege-creates-an-operator",
     "https://www.invenglobal.com/articles/28601/director-christopher-budgen-in-rainbow-six-siege-maps-will-continuously-evolve",
-    "https://www.invenglobal.com/articles/28603/r6s-x-completes-map-modernization-interview-with-creative-director-joshua-mills"
+    "https://www.invenglobal.com/articles/28603/r6s-x-completes-map-modernization-interview-with-creative-director-joshua-mills",
+    "https://www.invenglobal.com/articles/28602/rainbow-six-siege-x-y11s4-update-preview",
+    "https://www.invenglobal.com/articles/28600/blg-wins-worlds-our-patch-interpretation-is-ahead-of-the-lck",
+    "https://www.invenglobal.com/articles/28595/blg-complete-4-0-lck-sweep-defeat-geng-3-1-to-win-worlds-title",
+    "https://esportsinsider.com/2026/11/bilibili-gaming-beat-all-four-lck-teams-to-win-worlds-2026-and-end-korean-title-run",
+    "https://www.hltv.org/news/45993/live-updates-from-blast-rivals-grand-final",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-november-15-1253/",
+    "https://insider-gaming.com/blg-lol-worlds-2026-skins-possibilities/",
+    "https://www.vlr.gg/790662/another-one-bites-the-dust-loud-parts-ways-with-darker"
   ],
   "title_hashes": [
-    "f62ad262be2b339fa6c77487e11713fc",
-    "55ecc9fe23fbc9fffeadb68ae3d4ee4c",
-    "8f5656299a7039e8a8b8afec577876d4",
-    "6432a1aa0aa4afa6cc726977d9ac96fc",
-    "13926c377cbe987e7c2925553c560300",
-    "1a5e146857cdbb13cfcd3522b998b727",
-    "ab26932733198007a229db534b94b824",
     "cd41138b31701fdb547c1341ab63e19d",
     "cdf9ccb8b1c2add0a4136575fadbdd6c",
     "4743561acb09b1ddd086152b85c2fb2c",
@@ -16001,7 +15994,14 @@
     "3915b10ed22a0d4517e2d4a256410614",
     "a099fbf868401c3c4192e61b4cf44c35",
     "738f788a70d64c42e72b54fa10b8bf02",
-    "b9ddd8b9d7ce3153824f38399026ef39"
+    "b9ddd8b9d7ce3153824f38399026ef39",
+    "cdeada1d22d320d1add499c8dd9ee8a4",
+    "4cbfe2a2097429878632d03029f99500",
+    "4ef48ea34516627240daf48386b636f6",
+    "b7e0206b9ae9b21913df49c89b59e7d7",
+    "b3f8c732ae5a28acf14d69af77970b49",
+    "8712fba331387a170f468eec01fa5617",
+    "3f791edcd621055983316217c110a2f0"
   ],
   "transfers": {
     "pages": {
@@ -20932,6 +20932,26 @@
     {
       "t": "11th abandons before completes content creative development director entering even evolving features interview introduces its joshua launch map mills modernization new old r6s rainbow reworking right service siege six sometimes still systems while year",
       "ts": 1794729917.4535618
+    },
+    {
+      "t": "15 2026 3 ahead barclays blg center championship defeated final gen held interpretation kst lck lol morning new november our patch usa wins world worlds york",
+      "ts": 1794729922.601941
+    },
+    {
+      "t": "2021 2026 added all beat bilibili brooklyn championship chinese end first four gaming gen gives korean lck league legends lpl result run side since stand teams their title trophy win world worlds",
+      "ts": 1794729926.116099
+    },
+    {
+      "t": "action blast final furia grand keep live penultimate rivals season spirit storylines take trophy updates",
+      "ts": 1794729929.7238908
+    },
+    {
+      "t": "2026 appeared blg champion each eligible every first gaming here insider list lol might pick player post skins their who will worlds",
+      "ts": 1794729933.3346455
+    },
+    {
+      "t": "another bites champions darker dust loud one parts ways",
+      "ts": 1794729936.8626616
     }
   ]
 }
