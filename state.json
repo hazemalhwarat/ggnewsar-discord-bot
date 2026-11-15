@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9VLW42T3BwVlZJYUJKTHZyaUlZSmdaWURKVkFjYlpqTVBrMFFBckFvY0ZuMlpBNi1uN0tHU3JteVhLQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TaF8xMXR1cnNybWZQTFU1NDVsTktRaHFMemRfaGJ1dEZNc1ktR1VGM1B2S0RfV282aHhva2NYVWpDTHdib1lKWmVVOUo2eGl6WXdaaXZKNzAtU3FwblFXUjhTZHR3Mk1o?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWjhSZk5kdHpTdnlIXy1nRmM1UlYxNUZSb0M3dUJ4Nm9jR1o0d19OS1hraFBueUVleVVwSXJuVW1FUDZnc2c4NXVnTkEtS2NBazVHbTdqMXdfZVVhSVl2aGhwdFVkMTRSQzhyMkpFaGwwb3o4NU11cXA5UjA2X0VNUEJGc0x4LXNvOTU2dlh0dE9rRklHc1lHSE9n?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdkwtNW41QnRJTERkS0tVV2piS1NjeXBTRW9pREJSOFNuMEJSbzBkSHVlRXVPQml4NEJ1c2JxQWQ0QUtlcWRRMElJZkxvb0dTbnFmNENTUjlFdmhSbDFYTV9iSFRvSXUtaEsxU0c4dHdjNDc0WER4M1M0czcyLXJVZUNkMktfT2JaU1JoUUZHSzRObENPNkNSeFRkU1J3Qm83cGtjN2hCdGl6RXM?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtRHQxRUZ5LUtILVFBbXpTMWREUFVnNkJOeFVlNUNhSEY5cU5ObF8ta2VnZEI4ZHJuUU5IUkFUeEc1RzhyZVpaTXdQalBLcWNZNTBnb0NlODhCZmM5WVhrdFk2VQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zc3d6Ty14MHZrNTFNbkxGdnJTUmNLV2xjdnh6SW82akw0YldsbjVqWS14eEdtR2E0ZWNZTkZGNnFpanpwb0xsQWZIVkpVUFhVaTJr?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zc1lxd0ZCRnY4R1l1Rlk5cEUza1RJQ1ZQdlMxUXhieUdlczVWZFlPV0RTVEduczlPTU9YZC0yVURZb0tzVzQ3NUJWbXBHeWtpR0dOWG9vVE41ajBuSl9tYkhXRmUyRTNObWc?oc=5",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fRWpwbDY0QzFCSTNMblFMejhWTWlpekp5SFF6ZDNvaE1ZaU1Dem5YLUhGR3FTVjNldURfVGtaQ25Lc2txSW1sN3V5Tm8wQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fQmNnZFFlZkNSSDhhZ2J2SXB4aWF1LVY4Y2JKSE9icHZFYmZzOVM3Z0FKRXkxYWxVOVB1aHZQakU1SWYzck9VNw?oc=5",
@@ -7999,15 +7993,15 @@
     "https://pley.gg/valorant/loud-part-ways-with-darker-a-month-after-their-champions-title/",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXozdTNKQ2hRNlhHcjEzN2tjUXpoNVR6SHN3VTNkQWxqNHM1c1NSZ0s1V2FDdndFMnNiNGduODdlU05rdnRJTUxzajRudk1BLUdaREVzV0VDZXFuZVIwWnZxeW05NlF2SlhadVVsV3hoaXZDc1loYVRWQ0VHUG10NEZSUmk2MWlIblBhdkRBMy1yMm5OQ3lzRTdiZzdfU0VER0U3UW5FWQ?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1BQZ0JFaGhjZ1Z5ZUlpWnF2VzlJd1JXYlU5MTNBZU8tVVRTSDE2YkFfRW9GUHhQVzlwR0J1ZUk5d0phNWtic0FkWnp2V1JhZEJiV3JSVVUzaUVQSzRNZEVFNzhnZWF2b3gzRXlaRU9WT2NwM3ZSc3JOWWdqNTM4OVIyMlR6cV91eldaamF1LVNLUW4wMHg4NXI2dGVUUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOek4tNzhlSzMyTUtKa2dfTFJBQl9COWQxV3ZjeHJFRTR2M25VNllOc1NlTHVTSTNRaEJsd3BHSWdBcGlxdWdBZXRCRzlWWmpNUGNrVExmVTlUZElCSEhRblhvQmkzdW5DQi1WbGlqRVZzSWk2cGVqUk9ZVzRLX1lsbFhpX181Vk92NERNRXF0eHhJdXlpbFE?oc=5"
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOek4tNzhlSzMyTUtKa2dfTFJBQl9COWQxV3ZjeHJFRTR2M25VNllOc1NlTHVTSTNRaEJsd3BHSWdBcGlxdWdBZXRCRzlWWmpNUGNrVExmVTlUZElCSEhRblhvQmkzdW5DQi1WbGlqRVZzSWk2cGVqUk9ZVzRLX1lsbFhpX181Vk92NERNRXF0eHhJdXlpbFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VYmJQOEJacTJiR0J2b3RZVGNteUV1UkFCMW9uR2F0dG96X3ZMcHBhNlZva0VPQk1GZ0JoN09qRWcxQ2ppcXEtci14c1ZYaUE?oc=5",
+    "https://www.hltv.org/news/45987/ksharp-solo-neo-and-dupreeh-to-enter-hall-of-fame",
+    "https://insider-gaming.com/xbox-project-helix-neural-rendering/",
+    "https://insider-gaming.com/xbox-project-helix-console-first-not-pc/",
+    "https://gameriv.com/riot-games-mmo-gameplay-details-reportedly-leaked/",
+    "https://gameriv.com/final-fantasy-xiv-x-final-fantasy-xvi-crossover-returns-with-free-torgal-mount/"
   ],
   "title_hashes": [
-    "bd06908bd7f2615c16695ab6c283860c",
-    "a4d9ab37a8da9febdaa9e6d02a519c0c",
-    "4bfa0bcdffc0f91f1a709a49b0419080",
-    "368e926b2f6a91d312982956b19b4d96",
-    "5346680e39c7f5d0f6eeead490649e74",
-    "bd3f4063c1e4b1859a97a10b79efcf32",
     "88666fb545d5b6fb8b9f220ea6b5c852",
     "850d1d695ede7a8ff8904a779f7082ca",
     "a2bbabfe7b1dd886a0c32b57bd8a94f9",
@@ -16001,7 +15995,13 @@
     "2e5406954b4268ae972de5c87b083185",
     "f86a67a7c8ae8f2f7ce7b8d0d1f9eb3c",
     "e7e24cd293ecf5194f633d804e7d0278",
-    "5baa5bda2d0ba343b02c197e15f5af86"
+    "5baa5bda2d0ba343b02c197e15f5af86",
+    "513c061175ca51edb894c23249fe744a",
+    "7c9ca63d02176147c94a1c2efe980d7c",
+    "ae91209424f4f9a6542438112025374e",
+    "33cdb7cb7592f5e6f82e7a6a7aa75f87",
+    "cde6d7f987b33dfc592b543db9e22401",
+    "7b83977f13e319ec009eb03a5b6fd321"
   ],
   "transfers": {
     "pages": {
@@ -20710,126 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "1 15 2026 after barclays blg center championship claimed early finals game gen held kst lol major morning new november overpowers peak phase probing prowess teamfight teamfighting usa victory world york",
-      "ts": 1794692370.4270477
-    },
-    {
-      "t": "13 2026 8 beaten beats event has japanese old philippines pinya player pro tekken thaiger tour uppercut world year",
-      "ts": 1794692373.9650795
-    },
-    {
-      "t": "8217 anime brand embracing fortnite has his icon inspir inspired ishowspeed love new obvious officially one outfit piece pirate popular revealed reveals series skin speedy streamer takes this time",
-      "ts": 1794692377.5183198
-    },
-    {
-      "t": "6 8217 after always blizzard but character damage designed detective hero hudson joining officially omnic originally overwatch plan reveals roster season support switching that upcoming wasn",
-      "ts": 1794692381.3680487
-    },
-    {
-      "t": "allowing amid arrangements buying came center companies concerns continue data expensive facing finance fresh funded gpus helped its keep nvidia operators over purchasing reportedly reports scrutiny startups supply that them",
-      "ts": 1794692385.0372705
-    },
-    {
-      "t": "2027 fragster heads japan korea nbsp worlds",
-      "ts": 1794692391.3913789
-    },
-    {
-      "t": "00 15 2 2026 3 9 best blast both final five furia grand meet november paris preview reached rivals season spirit sunday time",
-      "ts": 1794692394.985448
-    },
-    {
-      "t": "after arrested building gunfire hit housing hurt injuries inxile motive office one post remains reported struck studio suspect tustin unclear xbox",
-      "ts": 1794692398.5855103
-    },
-    {
-      "t": "34 6 according album del dua gta has impala includes instagram jennie lana larsson leak lipa list lists post posted reportedly rey tame tracks video vinyl zara",
-      "ts": 1794692402.2599132
-    },
-    {
-      "t": "6 about asked ceo cloning companies everyone financial game gta intellectual just not own post property protect says should strauss take their threat two when zelnick",
-      "ts": 1794692405.7983453
-    },
-    {
-      "t": "2026 after blast broken consecutive day defeated exciting final finally first furia got grand has hearts hong kong led losing mouz preview rivals spirit streaks their three times very victory while",
-      "ts": 1794692411.9818788
-    },
-    {
-      "t": "2027 ago asia bid calendar champio china cities costs first games giving has international japan korean league legends moving opening out puts redrawn riot set southeast splits stage stand two venue world worlds years",
-      "ts": 1794692415.5577638
-    },
-    {
-      "t": "daily esports first gold international muscat nbsp omani win women",
-      "ts": 1794692419.0242426
-    },
-    {
-      "t": "entry has henderson including montréal nbsp new off projects rainbow return says six spun third three tom ubisoft vegas wccftech",
-      "ts": 1794692422.6015396
-    },
-    {
-      "t": "2 after decades developing game nbsp nearly new rainbow reportedly six tech4gamers ubisoft vegas",
-      "ts": 1794692426.0652683
-    },
-    {
-      "t": "7th attempt but came closer dream end ends ever gen just out reach remained runner seventh than their they",
-      "ts": 1794705613.5155172
-    },
-    {
-      "t": "1 ahead but championship chovy confidence disappointed fell finals finish first gen lol looks nine reached remains runner time unchanged world worlds years",
-      "ts": 1794705616.9493525
-    },
-    {
-      "t": "award breaks championship claimed curse debut earning finals first his knight mvp named simultaneously since titleless victory while worlds",
-      "ts": 1794705620.417874
-    },
-    {
-      "t": "2021 5 after again comes cup first five has hyeon lifted once park second stood summoner title top viper wins worlds years",
-      "ts": 1794705624.0363963
-    },
-    {
-      "t": "0 1 15 2026 3 4 barclays blg capturing center championship defeated defeats esports finals first gen held kst lck lol morning new november sweeps their win world worlds york",
-      "ts": 1794705627.5261428
-    },
-    {
-      "t": "17th 2026 adds adrienne ahead announced arsht arts awards bentley beyerdynamic center ceremony esports has its miami november partners performing place takes which",
-      "ts": 1794705632.4467995
-    },
-    {
-      "t": "1 2 3 away blg championship crisis game gen incredible just lead one putting setup takes them victory win",
-      "ts": 1794705635.855402
-    },
-    {
-      "t": "15th 2026 championship client dawn details during finals further games league legends lol new riot teaser unveiled unveils video world worlds",
-      "ts": 1794705639.293879
-    },
-    {
-      "t": "18th 19th 2pm 9pm back based clackpot demo developer free gamjadeulkkae has kst launch live marble marbles november now players pull release roguelike seoul sets steam through where will",
-      "ts": 1794705642.7776897
-    },
-    {
-      "t": "1 50 blg boring delivering far final fit lasted match minute minutes nail over series though thriller tie wins",
-      "ts": 1794705646.2556744
-    },
-    {
-      "t": "1 2026 3 after appeared blg chinese crowned defeated final first gami gen grand insider knight lol midlaner mvp post victory worlds",
-      "ts": 1794705651.1356554
-    },
-    {
-      "t": "1 2026 3 after beating blg champions dawn era final games gen last league legends lol lpl new now old outclass revealed riot team win world worlds",
-      "ts": 1794705654.548474
-    },
-    {
-      "t": "client dawn during final games has its league legends moba modernise new next post released revealed revealing riot that trailer update will worlds year",
-      "ts": 1794705658.0453272
-    },
-    {
-      "t": "2026 2027 dawn during fresh future games glimpse has into its league legends massive massively moba new offering officially overhaul players popular promises revealed reveals riot teaser unveiled worlds",
-      "ts": 1794705661.672913
-    },
-    {
-      "t": "10 2026 8220 8221 all backed blue bull cinemas club corp december documentary film french history hit karmine longtime partner phénomène red retraces retracing set",
-      "ts": 1794705664.978212
-    },
-    {
       "t": "abilities accomplish battlefield cooperate core different enemy entry envisions gunplay having isn lies new objectives operators positions rainbow routes scouting securing series simple six tactics",
       "ts": 1794729902.1511612
     },
@@ -21080,6 +20960,26 @@
     {
       "t": "after champions colombian controller darker goodbye have helped less loud month part said shanghai than their them title valorant ways win",
       "ts": 1794757372.6141613
+    },
+    {
+      "t": "1xbet 2026 class dupreeh enter fame hall hltv ksharp meet neo presented solo",
+      "ts": 1794774945.969672
+    },
+    {
+      "t": "8217 accessible affordability affordable can could frames generate hardware helix help helping jason keep more neural post power project rendering ronald says without xbox",
+      "ts": 1794774949.6441822
+    },
+    {
+      "t": "console design first games goal helix here jason more not plays post project ronald says that xbox",
+      "ts": 1794774953.1393266
+    },
+    {
+      "t": "8217 about according approach combat death details factions featuring gameplay games have league leaked legends loot loss mmo mmorpg new now pvpve rather reportedly revealing riot series surfaced three traditional unusual upcoming",
+      "ts": 1794774957.370993
+    },
+    {
+      "t": "8217 adventure another back bringing clive crossover enix event exclusive fantasy final free giving inspired mount opportunity players returns rewards rosfield square torgal unlock xiv xvi",
+      "ts": 1794774960.8772917
     }
   ]
 }
