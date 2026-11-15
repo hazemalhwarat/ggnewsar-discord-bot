@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VYmJQOEJacTJiR0J2b3RZVGNteUV1UkFCMW9uR2F0dG96X3ZMcHBhNlZva0VPQk1GZ0JoN09qRWcxQ2ppcXEtci14c1ZYaUE?oc=5",
-    "https://www.invenglobal.com/articles/27563/archetype-blue-wins-jury-award-at-shiba-game-award-in-japan",
-    "https://www.invenglobal.com/articles/27562/shutting-down-because-we-cant-fix-it-critical-php-vulnerability-sparks-aftershocks-in-japanese-game-industry",
-    "https://www.invenglobal.com/articles/27561/9-cals-seal-of-survival-appears-on-caltheon-exchange-market-price-analysis",
-    "https://www.invenglobal.com/articles/27560/supporting-defense-decks-with-back-row-protection-and-healing-how-to-use-awakened-giyu",
-    "https://www.invenglobal.com/articles/27559/elven-dagger-surge-performance-comparison-of-undead-specialized-weapons",
     "https://www.invenglobal.com/articles/27557/epic-seven-e7wc-2026-knockout-stage-kicks-off-on-october-24",
     "https://www.invenglobal.com/articles/27558/solo-leveling-arise-launches-25th-anniversary-beyond-update",
     "https://www.invenglobal.com/articles/27556/supporting-battle-with-healing-and-harassment-awakened-shinobu-overview",
@@ -7999,14 +7993,15 @@
     "https://insider-gaming.com/fragmentary-order-might-revisit-tarkov-200-years-future/",
     "https://insider-gaming.com/contexto-hints-answer-for-november-15-2026/",
     "https://insider-gaming.com/faze-clan-wins-rainbow-six-blast-r6-major-osaka/",
-    "https://thegamehaus.com/college-football/5-things-to-watch-in-college-football-week-12/2026/11/15/"
+    "https://thegamehaus.com/college-football/5-things-to-watch-in-college-football-week-12/2026/11/15/",
+    "https://thegamehaus.com/nfl-draft/nfl-draft-prospects-to-watch-in-college-football-week-11-recap/2026/11/15/",
+    "https://thegamehaus.com/college-football/5-things-learned-from-college-football-week-11/2026/11/15/",
+    "https://thegamehaus.com/college-football/college-football-playoff-bracketology-november-15/2026/11/15/",
+    "https://thegamehaus.com/league-of-legends/league-of-legends-new-dawn-everything-revealed-so-far/2026/11/14/",
+    "https://www.vlr.gg/790759/chichoo-and-nobody-exit-edward-gaming-after-five-years",
+    "https://www.nerfplz.com/2026/11/lol-consumables-guide-potions-elixirs.html"
   ],
   "title_hashes": [
-    "eafeff37124b9512309f21b98bdc84fd",
-    "7b4c9fa6fdbc5a0994243d14f0e017fb",
-    "5affb8ff81de09a37118992a43565993",
-    "86ee95b2831284cdc0af60bcbd486ee0",
-    "879ab78d4c3e621da67bfd3a574b6ffe",
     "759e9e2c3da10484c18e78ca0705a3dd",
     "a078cb6e3be94b6ad97a269de0e4951f",
     "524ab1df3ac5f31b29a69733f6fe85db",
@@ -16001,7 +15996,12 @@
     "1f953d4940443237383418cd09c934a0",
     "ca131ce40aaa74c508db69fa6414f645",
     "05e422e6321e81331133b99659b4d178",
-    "32c69412e6533d251da70dc593f8e59e"
+    "32c69412e6533d251da70dc593f8e59e",
+    "4b65bcd7dd1788ab245459b0ceee5e83",
+    "26c560ceb0de80a53680096a797b473b",
+    "12114a7834fc2b7eab8b7fa57dc3a89a",
+    "2f806f21da43bf37ed10eb36b37599a9",
+    "725ee8d9645d665a2e6c4909d5d11d31"
   ],
   "transfers": {
     "pages": {
@@ -20948,6 +20948,26 @@
     {
       "t": "1 12 5 always back college every football full here lost lsu season swing tennessee texas there things watch week",
       "ts": 1794757242.3982484
+    },
+    {
+      "t": "11 2027 college different distance draft drafted each early far field football matchups nfl now off players presents prospects recap still this unique watch week while who will",
+      "ts": 1794757247.5358078
+    },
+    {
+      "t": "10 11 5 after away books can college every fans field football happened here learned related take things week what",
+      "ts": 1794757251.1225033
+    },
+    {
+      "t": "15 already bracketology but college defeated each effort fighting football have make matters most november played playoff position ranked teams they week what who will",
+      "ts": 1794757254.6550431
+    },
+    {
+      "t": "after chichoo edward exit five gaming its look nobody rebuild roster years",
+      "ts": 1794757258.3742003
+    },
+    {
+      "t": "actually bought cheapest consumable consumables die elixirs ever every explained guide has holding inventory items leave lol nobody one ones people potions rift shop summoner them they until wards what",
+      "ts": 1794757262.2214227
     }
   ]
 }
