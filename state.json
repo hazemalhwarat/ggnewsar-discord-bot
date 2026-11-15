@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Wa01sVFM0SXd4TWN1NWJCV3IzbnI0Z1FzYWtxdUtyeE4yMENjTmJsY25IWkNMNGxseVVPTFhYTVF6dw?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90d1Bfb3RVYlFQTUtnMTNkbHFCRDc0Q3Z0NHk5RHlRTEJjc3NjYTVhcjBjdS1zZk13blR5aEFWMEUtckVjZ2wxSzBnTWcyaW5JMXdhbjVkZ3BpOFpmaVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVMtaTNDY3pIRVBSNkwwN1l1NnJvWnBZaTVXVU5IRnQ0ZGpBbjFvWVFUbktYMlZtVFV3WTFESThtem0yOGxPcGY4cU56T3pjX0xJcnVLeTM2VU9TRWtaWTVya2xXcVp0UjhDTUNVZWgzV3NkWTNYaTB4WmdnRnVqUGU5eVpIMlFLR3pSM1d5b3BPOVlaYkRmendEWDlNWVlBTUtMY0d1M3oxQVg3dnJHVmJwZEttUGJXRG5Fdi1JOWdqQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOczA2emZSRGRJWEwtMUxaeWs2RkQ0MjN2THpoUWlzQ2N6czlGcTM2Zlh2RTdGYlppX3hsOUZndlVmVTN1SnJXbHUzZEtrT0Y5SHUyZmxYWkFDYkRscU5aN1g0R1YxUmJQLVNzbDNNeFBGVDV3Vlo0NU1JTXk2VXl2cS1tOXBaMk4xSVYzZThjWVhRRkpVaEtCdlRJWXE2U0JMR3MyT0RhRFNqNG9uQ0JVcm84am9RZXJpT05OZlZsaVlrX2M?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc01OXzJ3R3V4VFdpbndjWEM5cXJ3RXprUHlnQ3FIUnRsci1ucWtSeDEtalA2NTkycUhZQnl4MDFkdThfcldBY0VrdHFMRVZWck93VW1pX1NVdnhJMjVUU3lsS2RRNGpxQ2FLbjUxUzZYNHNaY3hSM2FFbUhFLXpzMTlNLXFmMC0zVnI5RUEtd011RjA?oc=5",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VYmJQOEJacTJiR0J2b3RZVGNteUV1UkFCMW9uR2F0dG96X3ZMcHBhNlZva0VPQk1GZ0JoN09qRWcxQ2ppcXEtci14c1ZYaUE?oc=5",
     "https://www.invenglobal.com/articles/27563/archetype-blue-wins-jury-award-at-shiba-game-award-in-japan",
     "https://www.invenglobal.com/articles/27562/shutting-down-because-we-cant-fix-it-critical-php-vulnerability-sparks-aftershocks-in-japanese-game-industry",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/45994/blast-to-return-to-hong-kong-in-2027",
     "https://www.esports.net/news/gaming/bilibili-gaming-beat-gen-g-3-1-to-win-worlds-2026-after-knocking-out-all-four-lck-teams/",
     "https://esportswales.org/18-years-of-uniting-the-world-through-esports-iesf-celebrates-its-legacy-and-looks-ahead/?utm_source=rss&utm_medium=rss&utm_campaign=18-years-of-uniting-the-world-through-esports-iesf-celebrates-its-legacy-and-looks-ahead",
-    "https://esports-news.co.uk/2026/11/15/furia-sweep-team-falcons-to-set-up-blast-rivals-fall-2026-final-with-spirit/"
+    "https://esports-news.co.uk/2026/11/15/furia-sweep-team-falcons-to-set-up-blast-rivals-fall-2026-final-with-spirit/",
+    "https://insider-gaming.com/how-long-to-complete-gta/",
+    "https://insider-gaming.com/fragmentary-order-might-revisit-tarkov-200-years-future/",
+    "https://insider-gaming.com/contexto-hints-answer-for-november-15-2026/",
+    "https://insider-gaming.com/faze-clan-wins-rainbow-six-blast-r6-major-osaka/",
+    "https://thegamehaus.com/college-football/5-things-to-watch-in-college-football-week-12/2026/11/15/"
   ],
   "title_hashes": [
-    "9f390d3c7eca88d5b8db183d23d2b4f0",
-    "8b87b9ea7b9ce58d338513c8fa32187a",
-    "e155e1bb4a9c38e3baf90637ab7865df",
-    "074fb777cbfdfea6436f902497661b9f",
-    "2a451e49981862bc042be89acd13e117",
     "eafeff37124b9512309f21b98bdc84fd",
     "7b4c9fa6fdbc5a0994243d14f0e017fb",
     "5affb8ff81de09a37118992a43565993",
@@ -16001,7 +15996,12 @@
     "02c2e9b93598887a6dbed51540826b31",
     "1ffcfbfbdeb8854e6dd283ea9b733077",
     "f800ff573fb6a5c815f601da8a19d89b",
-    "3eff6f3c2452dbfff1af98690470180b"
+    "3eff6f3c2452dbfff1af98690470180b",
+    "7f7c7d61291954c6feaf2bd162232403",
+    "1f953d4940443237383418cd09c934a0",
+    "ca131ce40aaa74c508db69fa6414f645",
+    "05e422e6321e81331133b99659b4d178",
+    "32c69412e6533d251da70dc593f8e59e"
   ],
   "transfers": {
     "pages": {
@@ -20928,6 +20928,26 @@
     {
       "t": "2026 blast booked clean continue falcons fall final furia over place reading rivals semi set spirit sweep team their win",
       "ts": 1794757222.7879584
+    },
+    {
+      "t": "6 achievement auto complete explained gaming grant gta has hours how insider long many mythic platinum post stats take theft time trophy will",
+      "ts": 1794757227.9050589
+    },
+    {
+      "t": "200 buyanov during escape exclusive fragment fragmentary future interview learned make might nikita order post reality recent revisit tarkov that years",
+      "ts": 1794757231.4588096
+    },
+    {
+      "t": "15 2026 amp answer appeared contexto first full gam get guess hints insider november post stuck today trying you",
+      "ts": 1794757235.263044
+    },
+    {
+      "t": "appeare beaten blast clan clean darkzero event faze final flawless grand has historical major osaka post producing r6 sweep win wins",
+      "ts": 1794757238.8195128
+    },
+    {
+      "t": "1 12 5 always back college every football full here lost lsu season swing tennessee texas there things watch week",
+      "ts": 1794757242.3982484
     }
   ]
 }
