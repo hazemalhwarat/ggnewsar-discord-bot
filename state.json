@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWtJdWhKUjZGX2hLTVNtZGJheEZ2aWVoZW94UUw0cnFIWGM2SkdJX29XZlJ6QzRzbmszVG55TUU0bm9kV2o0M1k5VFV3Zm5LaWx1ZnR5NzgtNjdiR3BiY1Z3ektmRHdpYUloR0x1RFVoNXlxM2ZJaG1PWUVpbDVTMVNkY3JjalpxVTZockRaNThIcWVQQkRFbGNDZmhBSnNId0dfNkl6Skx1c09UampkbnRuTHM4bGhlWjRBeDNZOEoxMzZyZWQ2dTUwbkJ6b2RWb19qag?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSU1CaktfX2pjUXpSVzZxSC1udWZieXVDYU0ybkVHbDNKNnBuMlEyZHU0dUh1TWFtUG1Dalc1LTVVN05lc1lSZDlMTERfY0hvTWdTNWltWWFlYW9mdUFWR01MTEZhTVdJcjdrdWtoM0tqYXNUOFRRQzY3Nnppel9tUHFlbkw3WnpkMGZ3Zk84T1BjMlB3YW9UZl9wMUcyZjNZMWxWd1lJbw?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LYlhtX3FEYnhjVnFfR3RudzFGSzhISWNLcWJqcTNGbzQtT1NYc3o0NlpJM0kxNmFQMlg3OE5vcUNJc0xxV2tpeDh0bC1xR2JINlRVQkczM0h0c3ZFWlp5VjB5WWNKMjE3Z2gwcW9ZdDQzM2Ix?oc=5",
-    "https://pley.gg/cs2/valve-widen-vacnet-labeling-invites-and-credit-players-for-better-match-quality/",
-    "https://pley.gg/cs2/faze-meet-s1mples-bc-game-with-a-major-spot-within-reach-after-a-nine-map-day-in-bucharest/",
     "https://pley.gg/cs2/electronic-im-not-a-former-pro-player-i-really-want-to-come-back/",
     "https://pley.gg/valorant/valorant-game-changers-championship-begins-with-fennel-against-mibr/",
     "https://www.invenglobal.com/articles/27567/solo-developed-cozy-game-restoration-launches-on-steam-november-4th-for-1499",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/news/gaming/zombies-arent-real-steam-strategy-game-real-cities/",
     "https://www.talkesport.com/guides/minecraft/minecraft-2-rumour-mojang-plans-sift/",
     "https://www.talkesport.com/business/jensen-huang-considering-return-nvidia-ceo-ft-war-room/",
-    "https://www.talkesport.com/news/lol/worlds-2026-viewership-peak-viewers-lowest-since-2020-blg-gen-g/"
+    "https://www.talkesport.com/news/lol/worlds-2026-viewership-peak-viewers-lowest-since-2020-blg-gen-g/",
+    "https://www.talkesport.com/news/valorant/tenz-valorant-pro-view-pov-lol-knight-worlds/",
+    "https://www.talkesport.com/news/gaming/punch-the-walls-steam-prison-escape-game/",
+    "https://www.talkesport.com/mobile-gaming/garena-free-fire/tsg-pros-eliminated-ffws-2026-global-finals/",
+    "https://www.talkesport.com/editorials/xbox-25th-anniversary-milestones-launch-dates-charts/",
+    "https://www.talkesport.com/business/megaspeed-alice-huang-left-august-2025-internal-investigation/"
   ],
   "title_hashes": [
-    "7a7fdd3a43ed123ccc14cfa76f349832",
-    "cceb32f2cd43680d4ed2a888055c951b",
-    "c303bf216dc10d6154c06e4085a8146e",
-    "f1ee8a6d53dbd1f55141675c304a7378",
-    "8ca26324f27632c4286fd1e520dd10c2",
     "52f5f604d28edc73503e5dc9eb69e173",
     "698a8154f1de636a787d9148edfe3174",
     "d6cc13bcb4348c6196781139736f6415",
@@ -16001,7 +15996,12 @@
     "4219d4ce02bae4c2651549a9b1e42c03",
     "b6ffdcb2ffdfb1216d27d8c1b15c14a6",
     "eaa668225cf5d27cfbb03b9be0312bee",
-    "210595b14ccccb130d3ae1f9f2e97b49"
+    "210595b14ccccb130d3ae1f9f2e97b49",
+    "7e90bf2d7e4d69beb3d40e2f2e26e3aa",
+    "fcf650bd1b530d6ca89c571be7470776",
+    "cd27b9981fcced2ff2ad07bf7483634f",
+    "11d08e75f19e0206c18eabc615d2a8db",
+    "617c257bd418dbb7d3cc1505a15040f8"
   ],
   "transfers": {
     "pages": {
@@ -21000,6 +21000,26 @@
     {
       "t": "1 2020 2026 3 4 6 98 blg data explain final gen its just korea lowest million over peak peaked post recorded since start t1 viewers why win worlds years",
       "ts": 1794774980.280237
+    },
+    {
+      "t": "after can copy esports full knight league learn lol lot matter post pov pro said shared tenz valorant vct view wants what why winning worlds would",
+      "ts": 1794774985.414139
+    },
+    {
+      "t": "2 99 alikes already escape fight fist has how lets look out plays post prison punch punching queuing specs steam through walls way you your",
+      "ts": 1794774988.93305
+    },
+    {
+      "t": "1 2026 21st 315 behind chance eliminated esport ffws finals finished global knockout last phase place points post pros short stellar tsg two",
+      "ts": 1794774992.620325
+    },
+    {
+      "t": "15 2028 25 360 beat charts console each every how lasted launched long magazine milestones needs november our own post series show turned until xbox",
+      "ts": 1794774996.1302094
+    },
+    {
+      "t": "2025 30 after alice aug august came date exit has her holding huang internal left megaspeed months opened passport police post probe says singapore took two while",
+      "ts": 1794774999.8411932
     }
   ]
 }
