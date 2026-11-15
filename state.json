@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://pley.gg/cs2/electronic-im-not-a-former-pro-player-i-really-want-to-come-back/",
-    "https://pley.gg/valorant/valorant-game-changers-championship-begins-with-fennel-against-mibr/",
-    "https://www.invenglobal.com/articles/27567/solo-developed-cozy-game-restoration-launches-on-steam-november-4th-for-1499",
-    "https://www.invenglobal.com/articles/27566/astrae-oratio-closed-beta-logs-nearly-80000-hours-of-play-nc-says",
     "https://www.invenglobal.com/articles/27565/demons-night-fever-from-disgaea-creator-sohei-niikawa-launches-on-ps5-switch-and-steam",
     "https://www.invenglobal.com/articles/27564/capcom-cyberattack-exposes-1177-million-capcom-id-records-including-emails",
     "https://www.invenglobal.com/articles/27520/nexus-and-lepor-games-open-pre-registration-for-astellia-2",
@@ -7999,13 +7995,13 @@
     "https://www.talkesport.com/news/gaming/punch-the-walls-steam-prison-escape-game/",
     "https://www.talkesport.com/mobile-gaming/garena-free-fire/tsg-pros-eliminated-ffws-2026-global-finals/",
     "https://www.talkesport.com/editorials/xbox-25th-anniversary-milestones-launch-dates-charts/",
-    "https://www.talkesport.com/business/megaspeed-alice-huang-left-august-2025-internal-investigation/"
+    "https://www.talkesport.com/business/megaspeed-alice-huang-left-august-2025-internal-investigation/",
+    "https://www.talkesport.com/hardware/project-helix-not-a-pc-component-crisis-xbox-25th-anniversary-magazine/",
+    "https://pley.gg/cs2/dupreeh-and-neo-head-hltvs-hall-of-fame-class-as-kennys-misses-out/",
+    "https://pley.gg/valorant/zmjjkk-is-the-last-seoul-champion-left-as-nobody-and-chichoo-exit-edg/",
+    "https://pley.gg/cs2/molodoy-on-fallen-every-day-he-says-hes-leaving-for-sure/"
   ],
   "title_hashes": [
-    "52f5f604d28edc73503e5dc9eb69e173",
-    "698a8154f1de636a787d9148edfe3174",
-    "d6cc13bcb4348c6196781139736f6415",
-    "49bd252a4688135b5dc951418aa195f7",
     "1544f7e2d321babafff8b7ccad08ed9b",
     "3185d73ee0cb196d7c469d478a9160ef",
     "0cb4c37ec6c28b84531d34448d41e341",
@@ -16001,7 +15997,11 @@
     "fcf650bd1b530d6ca89c571be7470776",
     "cd27b9981fcced2ff2ad07bf7483634f",
     "11d08e75f19e0206c18eabc615d2a8db",
-    "617c257bd418dbb7d3cc1505a15040f8"
+    "617c257bd418dbb7d3cc1505a15040f8",
+    "ed11b85c27fc1f2576dce53ba825996d",
+    "170c308a9f1e4545b3889b2b6ea2cb22",
+    "f242538ae09541475992d240c0f0408c",
+    "36febdd41863ba670a0d9eae8dca4609"
   ],
   "transfers": {
     "pages": {
@@ -21020,6 +21020,22 @@
     {
       "t": "2025 30 after alice aug august came date exit has her holding huang internal left megaspeed months opened passport police post probe says singapore took two while",
       "ts": 1794774999.8411932
+    },
+    {
+      "t": "25th 821 8216 admits anniversary component console crisis games helix magazine next not now plays post project says shaping that xbox",
+      "ts": 1794775004.8340971
+    },
+    {
+      "t": "2026 2027 9 again belgrade class dupreeh fame hall head hltv inducted january kennys ksharp make misses neo out solo while",
+      "ts": 1794775008.552702
+    },
+    {
+      "t": "2024 champion champions chichoo edg edward exit gaming have last leaving left nobody only parted player seoul their ways zmjjkk",
+      "ts": 1794775012.0744867
+    },
+    {
+      "t": "after anyone blast considering day every fallen furia his hong kong leaving molodoy not rivals says spot sure team tells that winning",
+      "ts": 1794775015.722865
     }
   ]
 }
