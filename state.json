@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQME1QekpUVlo5c3k3OVpNLTBRTGNIc2RjcGh4RDVxcEhhSjJQSkJzSms2WTNjYnpkT3VxeHdjdEpCSzVTQk1pc1ZUcURkckJPWExKTk5Kc0wwdjVqZGRJRU8zOGZKcW1OVVI3a1FqRVBibDNKeU9ETUZhbm54U3luUTdNcldyM09OZlY1eGdVMUwxeVY3TEppSHhKRHBiX2YzbWgtNnhKZDNRVWVYSUVNQVNmTGhPTnduczZ6RHp6elIzblNIU3c4?oc=5",
-    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNUtFNlA2dEtFTEN4a2gwbnRTWU9xX3B1NUxzQXM3UDI4SkpQOER1SWFNTGRTUWgyQ0lSN0ZmU2NZU2FYNkphZ2xPZEtrWDd0RnA4bGhobFhpVnBpUlN6M094d3pvLVZESTR5V1JPYTlqV1gyRUhUaUMySWY5dGUtMzMtdnR2cTVtMUNiMEg5eHR4aDd0S0R6c3pIdzBYR1A1YUxrZnY5RUUxVTFuQS14bm1kM0xBV0lXdmZ2bFlUdV90elpwNzRjelBiZjM1OGpaVVBJc3BqRWJxTThiU1pWdEFR?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZV83cW5abFpZRHJOZmp4UGUtbEV4MGpfVjZscWVvX25Mc05HbnpDWV9JY090NExyWG56aEVnVDdaYmtrY1BuYldvcUVpbUtadmxaekMwd1Q1TWJrdE1PNllVdlIxTXRFRlU2NE1ZVUZiWXdJT2poWE9BdDlGeHVEemh6R2JnR29VQXhiLVN3?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWJ3SzdtOTNJSHk2NVhhVE96b2xqX2ZLWmtVWks4TUxVQ1pQNjhFLXBrWVZRcVpreDZuczYyXzJfcC01OV8yaUV2MTRPaXhXZEllbGxjaG9od1hZVnBSV3gyeXIxRkZvbkdncG5Yb3VvNWowZ0F4bDhNM1BHX096cmVsN2RIdUpMcGN4bWJVR3hCOU55MlFNWUlLM0NQQkZwbmVFVW9DQnFaQ1Ezank0ZVpKUjljVmZ20gG-AUFVX3lxTFA0SHFTdVR6TEJjaGFGZ0xTbGVlc3Npd2J0NUhKcXhfLVhxd1RVREV1NVlNdXI1VHBYUllxd0VkNGxzcnZxQm1LamVEemRzX0daeGlDZDg1WGo0ZURyamphUmxEYXktcUhTcFZjc3lUc2ZtZTczb2NlejlKSy05S3M5bWJtVUppVDI0eHhteE5SdjVyTXptZ1NzNUs0b1oyR2tkODNoRDBIeVhzSEtmUTlESTdEcmVTcFBmV2J5Nnc?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWs4UTlVeFBxblVDODR5QjI5RnBLbDZDV0k0aHd5YnpuOVk4cHBPUW1fSnRIY0l2aWhsbEVqRmhVSGF0S2tYSTg1OWdGT0dfTno5d1hoOEtQT2VQSmZTV3hWa0tGV2tHVlIyN21CZ0hVLXF1QVU4Vnp4ZzViYTVrOU9wWUpSMmpERlVtWG8xMWFNcnNQY0plT0dBMFZTM0tydmZZSTVoSTlJbmsxNGM5VG1YbUlQNVQ1dEl5WjB3?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMEhpSFhkLW9fLXhKbjRDNTM5WTZlR2pqbXhCMkwtamx3ZWg0bGlGMkxZZ25LWlN2d1hfNEVxQTFzbldEVmMtWl9KRlV1czh1UHFnMHV1dEUzcTVVZW9oWXRaMC14Y2QxdUVJcG03eFg5Rk5xb1pjVHZER2g4bF9mX2JKWUpoaFNlYkdN?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaF81Z0t6WjVSb0VDdmNITnh3dGpCVmZUTk9TZWxyMXgtbXRlLW4wRGdpYmMxT2Zpbi1GczlMdmNiTjB3V2VSSnFsQi1fVjREQWtRWF9JZl9wRXZ0aDNLXzFmbEJQZkJhaHVqMmJDMkhmLUpBaEVUN3VOM0hBTmQ3OHNRak04cENXMGxr?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWtDbkp2WWpBVUxCY3ZWRmdTdUFqRF9rZnh4S3VibF9FYXNqTmVoNTFUdDA0ODNHekI4aXNuQXhsZDU3Z3pYbTRjOGl4ZmZfN1FSNU9TTmFVM2drUEdsQ3NZOEVyNUJqM2NSaTdFcHZ1eDhNUjVqWHZadER3RjNleUYxcXk2Z0hfMWJn?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVBEVEZHSWdBOGNPYlpFU2ZueGRsdDZLUnd2NGlPelBHakQxRnQ2SWIyU2RIaXF1LXAybVdDN096clhhMXdiRFRWalBsTWxmVUhCUnU0OWFoZG5VVWlYeW9QTk55QlVWZk5UMXlRd1R0bHZTd1h4VktYVExrVm05VmxxZ3hsV3FzY3ln?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0lncG12aEJodXhCT2hSWm1YOVBrV1kzX2tWdURqOHFWNFVTaW84YzdMLVFlZXgzTU5oSGhOY1R3YWlrdXBnRk5nMG1PUlExQ1E4RkgzamdqRmc2TFAtY0t6YWE1aVphY3lUeXZhUHVCYnFic0w2cVc1bjJMdHBfOXpSZ2d5NmM2OUlJ?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSEtkbDRPTmV2S2t4d01hWjNNZjJDVHhaWWNXZU1jQk1BRVlhTk9uUjFSWG9iZ1E5NFIzQU10SWtpU1NFYUpZUWJHZ2NlRGlSekxXT2lNa1pMSGduempzUjl4bGljOTAxS1BBWEp1aDFvTkg4eXo5WDZtWDRZaXVVVmxvYlBkTkRxMkRRTlMwRVFselJf?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/28594/blgs-incredible-setup-takes-game-3-for-a-2-1-lead",
     "https://www.invenglobal.com/articles/28592/riot-games-unveils-new-league-of-legends-client-new-dawn",
     "https://www.invenglobal.com/articles/28591/marble-roguelike-clackpot-sets-steam-launch-for-november-18th-with-free-demo-live-now",
-    "https://www.invenglobal.com/articles/28590/a-50-minute-thriller-fit-for-a-final-blg-wins-to-tie-series-1-1"
+    "https://www.invenglobal.com/articles/28590/a-50-minute-thriller-fit-for-a-final-blg-wins-to-tie-series-1-1",
+    "https://insider-gaming.com/knight-crowned-lol-worlds-2026-mvp-after-blg-victory/",
+    "https://insider-gaming.com/blg-wins-lol-worlds-2026-and-first-summoners-cup/",
+    "https://insider-gaming.com/league-of-legends-new-dawn-update-revealed-worlds/",
+    "https://insider-gaming.com/genshin-impact-mitya-nerf-controversy/",
+    "https://gameriv.com/riot-games-reveals-league-of-legends-new-dawn/",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxObHJzZ25xT19wcnZ6YVM5eXhOZ2Z0clVBWmVPM21mWTJpYWw5YWg1cjNFOTZEOHZoOFJVdE5LUWx2UmZqdTFVSU0xbkk1UlRtaU9jYm1mWWVBNmxxRHV2VE5wVzY3TWFqRG5SR3ZCdUNLaThacWlnYXZJMjU1OXZEOQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWY5bVhkZGg0X2QzSWdWVkhzY3Rxd0YtQTFzVmFPMncyN0MxQ1VqVkVwVXZpbUVoM19Pa2JjY2h0MzlIRzBXSnpDaWp2RDgxX0JZbmsxMEFBU1JWNVRqbDJ5bFQtU09JZHpBaVNHQmlITWxqVUVxaVp2NmhCN1MtM1pMR3RwTWRzVzgyNy0wTjIwQQ?oc=5",
+    "https://www.hotspawn.com/league-of-legends/news/karmine-corp-documentary"
   ],
   "title_hashes": [
-    "6eda878416241065230d7fbfdb0113fd",
-    "f4727a0b11e2c411e6bc4a4d4e1bca75",
-    "b71d9c60d64185587efc5f5898cde93d",
-    "6f64ecd0e76fdccf6dc08c3671440b7e",
-    "b0faf6261d5fbeb3ffc2ea91bf3d7767",
-    "057278525d5b56afa8f3e26eb65a2f6a",
-    "5a175ba3c472ff86eddbc77541b2506d",
-    "981ee33e96a7f6cbf2535bb9d1d05548",
     "b0c8be23a0b5dade281893691831f423",
     "9366d1fe8e8aa1764899074b3d415776",
     "1616ea834ab04e5e3dea255ae3e8508e",
@@ -16001,7 +15993,15 @@
     "ef8aa0711cf4bb1c0b81ee52dd846100",
     "8ad49789aed02c82b4b8f9ef87415fe3",
     "45f2c70c1bda37b9e12ca35f10464c5f",
-    "eabf4b3faf612bc0c241e3007dab0dad"
+    "eabf4b3faf612bc0c241e3007dab0dad",
+    "2a9973b84d9192d6fed9767f3e62ef09",
+    "f52c83fc0e6838a1579a307e4dedc86a",
+    "3267c9cf29bf8ff4b572a594acfe9874",
+    "e700ba82763765111119391331613e33",
+    "fcf51b16c128d605c7d1a95082cb2168",
+    "368e926b2f6a91d312982956b19b4d96",
+    "e99ccd9888120df0e8ceb1e6720bf6f9",
+    "76baa4e1b4c24bab7861cae34c25a616"
   ],
   "transfers": {
     "pages": {
@@ -21036,6 +21036,26 @@
     {
       "t": "1 50 blg boring delivering far final fit lasted match minute minutes nail over series though thriller tie wins",
       "ts": 1794705646.2556744
+    },
+    {
+      "t": "1 2026 3 after appeared blg chinese crowned defeated final first gami gen grand insider knight lol midlaner mvp post victory worlds",
+      "ts": 1794705651.1356554
+    },
+    {
+      "t": "1 2026 3 after beating blg champions dawn era final games gen last league legends lol lpl new now old outclass revealed riot team win world worlds",
+      "ts": 1794705654.548474
+    },
+    {
+      "t": "client dawn during final games has its league legends moba modernise new next post released revealed revealing riot that trailer update will worlds year",
+      "ts": 1794705658.0453272
+    },
+    {
+      "t": "2026 2027 dawn during fresh future games glimpse has into its league legends massive massively moba new offering officially overhaul players popular promises revealed reveals riot teaser unveiled worlds",
+      "ts": 1794705661.672913
+    },
+    {
+      "t": "10 2026 8220 8221 all backed blue bull cinemas club corp december documentary film french history hit karmine longtime partner phénomène red retraces retracing set",
+      "ts": 1794705664.978212
     }
   ]
 }
