@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zc1lxd0ZCRnY4R1l1Rlk5cEUza1RJQ1ZQdlMxUXhieUdlczVWZFlPV0RTVEduczlPTU9YZC0yVURZb0tzVzQ3NUJWbXBHeWtpR0dOWG9vVE41ajBuSl9tYkhXRmUyRTNObWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fRWpwbDY0QzFCSTNMblFMejhWTWlpekp5SFF6ZDNvaE1ZaU1Dem5YLUhGR3FTVjNldURfVGtaQ25Lc2txSW1sN3V5Tm8wQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fQmNnZFFlZkNSSDhhZ2J2SXB4aWF1LVY4Y2JKSE9icHZFYmZzOVM3Z0FKRXkxYWxVOVB1aHZQakU1SWYzck9VNw?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDRCWUMxYl81ZjNHVC0tYTdNaU1ZOVZxUEZwZ0FKZGpXbGhySndoZnExUlU2WTJjaGxmeEg4TEpoVkJvQXlRZ1BUYWlZcFBpbFdoWVphX2RDZnhuZ1BIU2c0eXNsMWNyNVBYUjktcVd3MmRQc3NVYWpvTy1QLVdNUmZJRHpXbXc5SlVWRUpzRkx3amVkdTNpWWhWNFpBN0gxVFQ0THlfTFJnMmRrYWdCSGM0bG45aW4wNmQwQnBET1ljOURSeUFmcmV3?oc=5",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUmNhWU1mYU1HeDRFX0lwbUxHckduWkdtbkJKRkwybURuSlZ3ZlNXNGpsRGtQaG5pdUNRTUc1V0JMM1AxcUV0RXlxc0tCZFAtYlh6QVVIRG1XdWw4eGVGS3NqLTh0Z1FQVHFXRXpWMmFyWGY4czFqalNqVzlQQ3ctN0YzXy1pTzI2Wi1XT2M0NkJDZ0dyazJ6TlhhOXlBZHNFLVZDTmJOTkNwQTVsTzFvYjJsOHppVHJuZkxkZWVrSW5wdDQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IS2xKalNmRVJtdHl3Z2lXOFBWZjI2TjJKR2tjcFlNSEM3bFNuanZtejNtcUQ4NGpVbjdrOUtnMGljNWdwVHNHSy1Ob3hUQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhZmd4dHBsVG4yMVpXdFh4aXFFQzFtLW85Z3plUHU3Vmc3MVpzNXYzQzJrNDRFSG8wNk9HU2VHN0hLZWk5bHdGYnRaTGJrb3NVUHhpRzZRQzdpQkwyTlduOHFxc05tSUxFa3VZ?oc=5",
-    "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-survivor-league-prize-pool-dates-creators/",
-    "https://www.talkesport.com/news/gta-6-tv-ad-shower-scenes-cut-xbox-logo/",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDR4WXRnQVhJVkQzelQ0NlY0dDhQcnpXWDJ6eG03Yzl0ZnFDZ0xxM3hGNzBiSHgzX3B4Rkw0V3NSVnBzRFdMLS1kdWpuWVBVSWVZby05emRFRU12RFhVUDhNVWswRDU1NHdPV3dxR05XeUN6X0s3R1lFaEhOUFJvMTRreVFUaC1RMEZGT28xZnVidw?oc=5",
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56emdnQzJwLW96bVdGejl4UDFORmxHaWVQNDZ4d0JhVm9sUUhYU0lJOGNNUWtUcE9SSVFwSmIwVlE5R0pZWk1ZalpoR2JZVm9VLWtrRTlRWlJSMDNCUVJBag?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE83M1hPeHVlc0ZCVlpKZVc2ajl3QXg5X0VlRTJVQVM4OWpPdW1NV0V5ZGtnWmlCdDRvVW9GcjRJWXVzZXVObHZRd05Xc0lXcFNPY0NwWTViWWFyUTZLUUdua3FlNVE0cDdnSFRSLdIBckFVX3lxTE1kb3ppNU15TXlvNWNqZVFpWmF3bzlmdEc5X1l2YkYzaDVyRllaNFpiLTdfNlRESGNxb25GOUtOc3puZGlsYk5HT01SWTZCREw1VmxNNkpxMWZReEFYRWFHX3VtNFBjN3VvLVlTbGs1U3FjUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpbDZPa0NPNHh0UGpKSnZxYTRVa3RzNzR2Zk5PSmc0Q09RelRqcjZIVXhOV1ZSY3JnUEFvdHFLWXdNRTlLYlc2N21NREdUdlF3WjJFWGptQk1TN1hsQktGYTRLNEpZb3lUZE5vVw?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWOG9FVXozcjUyTF9fV2IzVEIteGxVZGFyS2V5aTNyYmNQZHpyMmZab3lmaGMtai0yMzlqRDdkTDNOVFlhcFR2OUZQLTJHNTVTNU5QWjBCV1pvMUF6QjNCOTZFcnBoN3p6?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeThGV3pHOTZfS3J4R3QwU3BCcWktd0NvRnlmVzVwNmR6SWNUU1hCMXJqTDlXUUZ3cGI0UHVqcC1zUFNMakpBNUI1UGk1NS0zRnM0YV82ckZTZUpqT3pINlBQUEV5dUl5R3RlQklpcnhoME5Mb2xrWjZCZWl0QmNNc0lTMjM3YV96ZllGR2ZxeGE5M3pIVXp1bWdtQ3ZyWk42RjNWMDBmMGFNa3AxNTRzblZn?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1lka3dJUjVWZlNVd1AxMTRaRnFwNnR4OE80a2NfS1NEUjN1bGlBN2ZrMjJiVGNOM1ViZHdfZWEzZ1hLdVhZWjRPT25xSVZDSlpWN2RfdHBhdnEwcXdyUUphV0tNYlc3QzZTa1VYamVtOE9IVlE0VDR3TnM0NUxZUG5raTVtY1J2?oc=5",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWtJdWhKUjZGX2hLTVNtZGJheEZ2aWVoZW94UUw0cnFIWGM2SkdJX29XZlJ6QzRzbmszVG55TUU0bm9kV2o0M1k5VFV3Zm5LaWx1ZnR5NzgtNjdiR3BiY1Z3ektmRHdpYUloR0x1RFVoNXlxM2ZJaG1PWUVpbDVTMVNkY3JjalpxVTZockRaNThIcWVQQkRFbGNDZmhBSnNId0dfNkl6Skx1c09UampkbnRuTHM4bGhlWjRBeDNZOEoxMzZyZWQ2dTUwbkJ6b2RWb19qag?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSU1CaktfX2pjUXpSVzZxSC1udWZieXVDYU0ybkVHbDNKNnBuMlEyZHU0dUh1TWFtUG1Dalc1LTVVN05lc1lSZDlMTERfY0hvTWdTNWltWWFlYW9mdUFWR01MTEZhTVdJcjdrdWtoM0tqYXNUOFRRQzY3Nnppel9tUHFlbkw3WnpkMGZ3Zk84T1BjMlB3YW9UZl9wMUcyZjNZMWxWd1lJbw?oc=5",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LYlhtX3FEYnhjVnFfR3RudzFGSzhISWNLcWJqcTNGbzQtT1NYc3o0NlpJM0kxNmFQMlg3OE5vcUNJc0xxV2tpeDh0bC1xR2JINlRVQkczM0h0c3ZFWlp5VjB5WWNKMjE3Z2gwcW9ZdDQzM2Ix?oc=5",
@@ -7999,25 +7983,25 @@
     "https://insider-gaming.com/xbox-project-helix-neural-rendering/",
     "https://insider-gaming.com/xbox-project-helix-console-first-not-pc/",
     "https://gameriv.com/riot-games-mmo-gameplay-details-reportedly-leaked/",
-    "https://gameriv.com/final-fantasy-xiv-x-final-fantasy-xvi-crossover-returns-with-free-torgal-mount/"
+    "https://gameriv.com/final-fantasy-xiv-x-final-fantasy-xvi-crossover-returns-with-free-torgal-mount/",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aM2VtYk1NSk9Ea28yQ0Z3SlIzdUQ4SXd4LVg0OVdRQXhGNkY1eHhIaWQ4Sy1PdXVDOVNiZzNiSFNPaEhvU3pNWnoxc053UWdYUWx2alozX1RRajBNUE1KNXEyY0x1b2hIckNUS2VSbkRKUnZKSkVTNWJHeDA?oc=5",
+    "https://www.hotspawn.com/counter-strike/news/scrawny-blast-rivals-hong-kong-2026-interview",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlQkRRWmxMUzNNeS1aWDhGc0haRGMzbTF2RURJVTFUeXJVdlBlYzdsLVZrelljb2VraURiNXF4Y0NLbVRsWWVsT0ZSU2RFZ0tIb1Vrb01FczlVd3dYVXhyTEkxeUdFT2o1Wmd4eEpNeWFrM3FqM0ZBZWdxZGZCZw?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxONDFqaE9qOW9Rdkx2Rjc2c0RXQm5VYnphS2lESVlPM1JNNWNnNWFFTUJ6RGdoZW5WRXAySDFCbm5KUlhqSGF4UnhLSEM2QkJYQXFHR3F6VWZKQ2VkczEwcG9IQ3dtZmNCbzRRSXVTa2lpTC1yS0NMdDgtMGo3ekFIUVM4ZFNKOXhTZkljd2RoZjlrQlZiVFVfRV93?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTDhibTZsZ1o2Q0duOWhsQ3RqNFg2M0EzWDAtd1hkRV9PcmpYdi1XVGlLOTVuYVo0cEMzbDhYaWpTaElyazIweVVTNDNBa011V00wVmNMcEVwdnhjMVRJSV8ybzlKQlBkMHhId2F1cDBHbXhjbHhtV1hmZldROS1ZcXNOUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVJhbFM1RVI3NWVJaGRtLUppaGVUaVJLaXRyNVc3ZDRZZ2tIaXRKenFPOHJYWU1zb3JYNFhOWkFkRXFEczIwaHBEenNUUmxQY2VIaUVLZGJadU5VM0tGcjdpekVpcVZPWG5iWW9iMlBOVVBsR2VSNDNvSXB2ajZMT1d3RmJ2OUdkcTNvS2UwMFVSb2RsMnpIZG83R2cxNDh5Nlp2ZnpZWEFzM3FxdTFoaWN0WlAyU285X3NJUUxnVkhSRXds?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejZvdGdUY1I2ZG1xZ0d4ZHpBWU42RG1FbmpkSFFoWTNBUEZ5UXNOUDJzb2twZ1l0M3VVM0VwTjRmNlJ5OGI4czh2Qm13dXhneVBIOGVTTXE1bXBjd3ZqeDN5eVlNQ3R5bldyS28tMDFvTXVJWEhpT0NVaEVGZTZEbWNUa2s3c3hsWFBmNUlMcE4yc1JBalVjWUp1c3RhcE1nRjJvSVZIZXMtSFNhV2pz?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZU1nWnZVMi1qdXZKcmNxc2UxSTYxNXF6NkE1MTlUM0Z2YmVYQWFrV0V0QjlCejVGM1hrdURvRWxKZTlKVjdWQzlXWGVWZE9YUG0zdFpWNHFrRDlnQ3lvSVc2WWZwZDJXSl83dHo0a1hRenRaa09IcDVLZ1pTb2lmNVNJMzhnSXJpZTJHMEdYZzBrWVhvOGtGaHZLRElNQXZiamVFQVFnN2t3d3c?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRMmt6NC1LLWhRNmhFa2l5ZzVNS0JZdDh0Tl9vOHdnV1FzaVA4STE1SGtPSHhXMTBPT2FLbnUtU0g4T3ZScFlGUzFYNnV2Mk96QmJxazZvN051dHpyaGR4Nk9YWUhPMFdiWFhMVg?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlFfcWhNRnRNczQtYVBHeWl3SjZidzVoZnJRYTVqVzZNUUZId05fd2p0X3lIZkFnT2czM0dxblRiRk9IakstVUVidjdscTFVa20xZ1VxU01FVTRUVHlaZzI2Tzk4cDdzYmU4ZTkwRHI2ZFJkRktkaWFfUlFmLWY2Y1Q4MlgyMHZoWnN2WUREQ2xQUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDJlS2FSeEtBYkxuaVRKdzlQVVo2WnZmTHZHODF1c2ZQTW4wZWRad0hMeVdrVHo1eDdTX0EwUDJnU1Nka01GT1VHWjM0QkhQUkNqaklJNFdGaG9FSE5FYktJVEd3MlBRUGxyZFpmZ3NGZUpod3V6d2tqZGlHUDJkRDRXaFQzOVMwVmJ0M1FjcVhELXIw?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc0VjVHliODVseGhmeXNPV3hhc056NDBzZFd4Rm45OVhZaW5XNWF4ZXZCc0FMbXNqd2RJdjFycHB5RzF6WDFwUlFoYWNIb2xHOG5MeTBhS2pzVEVmamQ5OExSUXU4aHR1bWJ4dkdyeDZpeTlQYmFyWEYycENydXdUVTlJYXl4Q1dWcGNMRQ?oc=5",
+    "https://www.talkesport.com/news/gaming/zombies-arent-real-steam-strategy-game-real-cities/",
+    "https://www.talkesport.com/guides/minecraft/minecraft-2-rumour-mojang-plans-sift/",
+    "https://www.talkesport.com/business/jensen-huang-considering-return-nvidia-ceo-ft-war-room/",
+    "https://www.talkesport.com/news/lol/worlds-2026-viewership-peak-viewers-lowest-since-2020-blg-gen-g/"
   ],
   "title_hashes": [
-    "88666fb545d5b6fb8b9f220ea6b5c852",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "a2bbabfe7b1dd886a0c32b57bd8a94f9",
-    "5e35e6eff862b45db51d74f5e7c8b057",
-    "235f8670efcc96b0bfde8655a7e5f0ab",
-    "78e4259082bdfd2d93dc052da28090e5",
-    "002056a7ad355d8eb64c1542cb0b0db3",
-    "8c5c146ad913ec157b05dda30ecca9c7",
-    "d30293104e11643bdbc5fee5f2fd310f",
-    "33c2c77960ec121f395cb46ed063629f",
-    "e1ce0a6fb2ab4c5607e87af05804af98",
-    "f9f1d3b14f53eb91c81fd84b29915e29",
-    "c55656d5e02876c2e984b718aed38d0c",
-    "da7e277dd75bca053169c8bf9a531db5",
-    "2454742d63051c554a919365d96012c4",
-    "c8742693527c3db888b1f2293242a6a2",
     "7a7fdd3a43ed123ccc14cfa76f349832",
     "cceb32f2cd43680d4ed2a888055c951b",
     "c303bf216dc10d6154c06e4085a8146e",
@@ -16001,7 +15985,23 @@
     "ae91209424f4f9a6542438112025374e",
     "33cdb7cb7592f5e6f82e7a6a7aa75f87",
     "cde6d7f987b33dfc592b543db9e22401",
-    "7b83977f13e319ec009eb03a5b6fd321"
+    "7b83977f13e319ec009eb03a5b6fd321",
+    "19722669a053acb6ff16e042a9536308",
+    "d7b122b9988d914f43b1389fff08a9e8",
+    "28ca761e7d048808b519815f946663fd",
+    "bd7dbd8b6dd3bdae3320fc59e5295cbe",
+    "1b6c41d4a4f4cee11b5c2843d2a9842c",
+    "7a834c1c99575ac144f54661a4f4a335",
+    "f9d1b13e5c8a3f91cf99eb375c529d00",
+    "60889ce191111832ede90a8bf6607e03",
+    "a72b8cb41a0782c869411b50747b81f3",
+    "9f390d3c7eca88d5b8db183d23d2b4f0",
+    "8ba04c3e2eb2a2a10c705d85c2068b94",
+    "0ce2b9860bb88f46807818a3164d89c6",
+    "4219d4ce02bae4c2651549a9b1e42c03",
+    "b6ffdcb2ffdfb1216d27d8c1b15c14a6",
+    "eaa668225cf5d27cfbb03b9be0312bee",
+    "210595b14ccccb130d3ae1f9f2e97b49"
   ],
   "transfers": {
     "pages": {
@@ -20980,6 +20980,26 @@
     {
       "t": "8217 adventure another back bringing clive crossover enix event exclusive fantasy final free giving inspired mount opportunity players returns rewards rosfield square torgal unlock xiv xvi",
       "ts": 1794774960.8772917
+    },
+    {
+      "t": "back blast caught commentator competitive conner counter discuss faze get girvan his hong improvement kong let lifting likely more project recent rivals scene scrawny some strike takes this trophies twistzz wants would xertion",
+      "ts": 1794774966.018242
+    },
+    {
+      "t": "0 1 8217 9 99 aren cities game how lets love outbreak overwhelmingly plan players plays positive post real set specs steam stop strategy you zombie zombies",
+      "ts": 1794774969.5986972
+    },
+    {
+      "t": "2 about building claims different gen here its itself just laid minecraft mojang names next out plans post ps6 real said source this very viral week what xbox",
+      "ts": 1794774973.0830863
+    },
+    {
+      "t": "after allies board ceo days discussed form has house huang jensen lobby nvidia post reports resigning return returning room war weighing white",
+      "ts": 1794774976.6026025
+    },
+    {
+      "t": "1 2020 2026 3 4 6 98 blg data explain final gen its just korea lowest million over peak peaked post recorded since start t1 viewers why win worlds years",
+      "ts": 1794774980.280237
     }
   ]
 }
