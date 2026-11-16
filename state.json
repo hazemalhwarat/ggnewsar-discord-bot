@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS3JkbnZOSHY4OXVoSzRJRTZmMi1Qak9ndnVmemhReFFPd2oxN0JLVnN3dFlsSDNLaERVN1cxYTZ5R0RVSFNfSk12b3hiY0tTa2pQNXBOcXYzSEJhOVNUU3VfbklRU2l6LU9VVkMwYWR6enhsYXRsMVpXbnBuMHVkRUJtMUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE42Q21sV0ppQmJGcDFrZWtEWXlYZDRjV0liLTdiTjZJRnp1UzM2UlNIMDk1R0pJM0xCMmxySDJ1VlpaeUN1YkItZEhfUGJMNjRnU2NZM0liYXJCNVoyYjJ0emlVdW9tdHNKaEhuUzF3cnlRY2RGOS1Sc0tENA?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXBDZkhrUlAxcHJkZnZrdGJHY3ZrM1dCUFkyR1FWcWN0LUxvamZJU2FWNTREUWI2MkhCNFM3NnFTSlBOT3k0dXVnXzljNGdUQlIyVl8xZjVBbVpYVV83WWYtZVRwR0h4T1NoUlYxV0h3X1VOdTdaSWNLNDdwbkM3cFBRc2t3WTN6ak1Ga0RMWFVpTXNiTnBZMDdsX21LTEY3b1h3ZjRGcw?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81cnppZ0RHRTBUZWVMbTZuZW4xcHgtQUVLQWNlRFNWdGlzeEdmMHg3XzFGOExleFRYVF9GaEV2WnhNa2FMZURLZm1INml0ZGhTUElhR0VSWjVQd0ZkSy16SlYtZXM1dEU?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOanEwLU8xbzdVVWFDVTQ4cW5VMlJ2SERIM0ZMcGFvSEFFMi1sMDlSUDVDLWhhMng3a1hmTV9ON2JsVVNtWm9rbmJLTkYwU2VhXzJ5OGdVdy1IVV9qQVBid1pxS0ZUT0RNbUo3U2ZJUXZ2NVNsclVBV01TMWtnSU83RjYyamlpT2p4R2lyS043VlR4SFp4UXktWVZsVXI2bmZfYW5V?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hc0tMcmZkSkRDT1dsc09waHNEd1hzeDQzb0JsZG1tanR4V244M0tSZ05WOWt4VTFRdk9XYmJFSlJjM05jVkUzV0NMU3hXLVlKcFJmS0JuZw?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ySWlUcUxJbDZYWmwtUGp3MUVvalE5SlBrRE9vcllRNE5HR3AtNG1IdmVTbjBLakZLMFBnVXRscXh3WU9RUWY2SDJrT1dFRUZ3X0tLRFBUTl9pdFQ1b1VCbE1mQkZQdnk4N3hFU2hVREpXRjNx?oc=5",
     "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPUXVjV3J3VkJidDFSMWxjWjk5TmY3QlFCMDFrbEhnbzlEXzZOUG1pY3NlVFVsVjFxR2R0YVlNTWRKVGVtSmNER1JQd09BMnZUaXpHVmgzdWdRWGk4WENiYlhaN2RZMUNyVHprZHYtRC1vN1ZNSXlzUTFSVXhLSDRNWEIwTnNOZEx1dU5uS3dmOG9SNkpBNkZiR1R2dF9EQk16SHhadWZ6bTJ1aXdHWXdPZi1wb2dsbDEzM0V4b1I0WUFBSFZQYXdMRVN4S1VNeFFnNmcyMkJYN3Z1VWhZd0F1MElOdFh6T0Nobl9sMnk1YUZKc19NcF8wUUxCWHpSd2tnMXVyaHY0TDJja0VsOGZfMnB5Mi1XZ1ZlNkNFTWYtSFd1eU1hNGQ2Q09IU1g0UTFGT2N0cU82UkFMbk9IZXNVVA?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0hEOFkzRXhhVWQybFdBTmxfTEJWbnc4MjlsU0lHTEJ3OGxiT3BvZ0JnOUpyZ21IS0FEQVFCV3FIRWRtNW9hVlNSbGRvQXN6SEVxc2VSLXc5YUNkOFBBSld5dDIzZW9EY2FtMFhqcmVBVHFfRS1jRDN0TUhtdzA1UTZRcjJNRG4wSHNzbGVqWXYxdWJabFVKMU9OcTNEdw?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPODQtV1dNQ1JoRmRQRDZLdGxrd0M3Q2JTLWdNRFMwMXpPU3dscDNuUHkzNzhySkFIOC1qOU80UUh2WUowOEVpa3JwNHNEV0hOdnFfQ0pXRkhzaGtGdFVUU1UtUW5NT3I3NnFSRXBSM3gyWnBiaFBhbEhPVGhPZ05EZA?oc=5",
@@ -7999,15 +7992,16 @@
     "https://www.invenglobal.com/articles/28631/arc-system-works-asia-runs-black-friday-sale-through-nov-30",
     "https://www.invenglobal.com/articles/28632/game-generation-hosts-2nd-cultural-criticism-symposium",
     "https://www.invenglobal.com/articles/28630/xsolla-to-operate-networking-lounge-xsolla-clubhouse-at-g-star-2026",
-    "https://www.invenglobal.com/articles/28629/assassins-creed-symphonic-concert-scheduled-for-nov-29-canceled-postponed-to-july-2027"
+    "https://www.invenglobal.com/articles/28629/assassins-creed-symphonic-concert-scheduled-for-nov-29-canceled-postponed-to-july-2027",
+    "https://www.hltv.org/news/45999/short-news-week-45",
+    "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
+    "https://esportsinsider.com/2026/11/edward-gaming-part-with-chichoo-and-nobody-as-champions-core-breaks-up-before-2027",
+    "https://thegamehaus.com/nfl-draft/nfl-draft-prospects-in-college-football-week-12/2026/11/15/",
+    "https://www.esports.net/news/gaming/furia-sweep-spirit-to-retain-blast-rivals-hong-kong-title-before-fallens-farewell-major/",
+    "https://gameriv.com/league-of-legends-2027-season-1-update/",
+    "https://gameriv.com/robert-pattinson-confirmed-as-the-next-james-bond-in-denis-villeneuves-bond-26/"
   ],
   "title_hashes": [
-    "53288a2008e05a0ba37daa5349036020",
-    "ec25b68cd92276e26996aead0fd45728",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "ca41e0bda7232f062ff79275a051bcea",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "43f6f96f30ab71be45bd07a260eff1fb",
     "a3f948c4708f86c4c456cf7733729d77",
     "51b2b5f1dc5087b6d5346d22cb85f5e0",
     "513c061175ca51edb894c23249fe744a",
@@ -16001,7 +15995,13 @@
     "987b03a550066b683b683a347c79a044",
     "68f95d18d8036038500dec7655fd611b",
     "72c9ef5256ba570469e2a308c86604c4",
-    "769083ad9cf77ef80297dd47b8a3368f"
+    "769083ad9cf77ef80297dd47b8a3368f",
+    "09a474106b29367256dca1161d108b6e",
+    "a0ad5ef52cd6135249e8d97f1754efd0",
+    "511d462dd664cb387fe33a2ca08b7431",
+    "1a1325a51ec9f34d789138035d59442a",
+    "0b838c04dd6b56e8e01aa74caecff0c2",
+    "3f91cf73c2f0f0158c8d4ee8171a6738"
   ],
   "transfers": {
     "pages": {
@@ -20896,6 +20896,26 @@
     {
       "t": "16 2027 29 announced assassin been canceled concert creed hall has its july lotte nov november official originally place postponed scheduled symphonic take that through today website",
       "ts": 1794847696.6637187
+    },
+    {
+      "t": "after alliance berth change coach form have hawk head major make miss opted part poor run saw them ways",
+      "ts": 1794847702.0630896
+    },
+    {
+      "t": "2027 after before bilibili breaks captain champions chichoo china core days edward gaming hangzhou have january kickoff lost must nobody now part partner rebuild releasing smoggy team two vct",
+      "ts": 1794847705.5803325
+    },
+    {
+      "t": "after back before blast champions did drop fallen farewell furia hong into kong major not pgl premier retain retiring rivals sends series singapore single spirit sweep them they title week which",
+      "ts": 1794847709.2534494
+    },
+    {
+      "t": "1 2027 8217 adjustments aram changes coming experience games has including item january keystone league legends major more new ranked revamped revealed reveals riot runes rush season update what",
+      "ts": 1794847712.697797
+    },
+    {
+      "t": "007 26 after been bond cast confirmed craig daniel den denis directed finally has james know movie next officially pattinson playing replacing robert speculation upcoming villeneuve who will years",
+      "ts": 1794847716.1367903
     }
   ]
 }
