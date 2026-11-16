@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUGhvV2dsaUhZS2xGaktham5lODN4RU4wNWFFMHVhdFd0T3NWeHl4UENWNXBiM3MzTk9XRFF2SExUVUhTeGhWZ0tkR2pXM2QwNzV1UWFEMTRILWh3Ml8taWNvaVYzZzFpbmpTdGctcFFueFUzbDJxdDE0V0x3YkhyTWU2cW5wSzRmUDdJSg?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWmtxUEh6UWNsVDVNZ2VGYUEtNnJEOHZURHZHcDlsbkVPWnJVYkE1NGVQNlkwN3ZHbFFsLXRjY1NEMmpXTnJEM2xUb2tramdOeFZWdDNvaXpSUFJBbFZPdG5RUndpLU9sQjNoVlhtZDMtSjZidXdzckJJUWV5VF9jSmQtV1UwczVwU1o0SnpUd2JINFlaaEh1STZIRzA1V3J6dVhXeDg0MTlMUVFqX09yQ3plVXVjNnd4b1Z4anZCcWdzX0ZsclRZ?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OaUhvUjNCdVlEb190Mk90NHVoUnFXd3RhLUF4SllZelVnN3VFb2JoWDZKZmt2bGFpYXhHVHFXZkVDWS0wZHN4b2xvRXNEVF8zQUcxNDF0eEplcTJHOXEyQlVYYXhLLW85eDdfbTZQMlRNWUdrX1l4ZW5R?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMFpSRjlmTzl2ay00MDZlQnhTQ2ptUEM5NjlwTl9uZGdtbUJDX0dCVXhPczhSb2otZ21ydEVkblFfYUlxYmxMUG9wZk1WY1FXQXpRZDRkTFZURjRnX095RjFhWjlzUWFqUzZHSEhNQmhwdw?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OMTFyNkJZODZSWUdlTDVHalNsNUZIYkY5R2FvdVIyc2RzaVFNVXlsVV9HYmVBWjBPR2hrS3ZESWxWMGN2cHZZeFEteGJ3ODlRQV9uTjVLTTNkZGExYkhvTE5xcElwV01JRnVmUE9LYzQ?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX011ZEY3dXo5MTRnVUZrb3h0Y091REw2S0w5RXpXZGNRVzd6d2NEWWJ6UUdia1VyYzhKWU90ZURfbTVLUmRUUW1hU2ppLTJrejBlSEZsck1vWi1xS1ZIYi1yOHg2SDIwS3V3WVYzYnJvNHlFeF9IMGItUGhoSWZDVDdSMmlHT244UmJzN1hNd2RwV1QxWkxYUVA1Y3p4eXN0bW4zcUJxRUhJZDBPZjBVSEYwZUpqSFRVQkl3eEEyZEwyZU9s?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUU1Ja2FzVUotZlNNaFlCUUdoTUFvd3NkMDdad2FOd0htY0kzdFUzNG55Yk9qb1FJX2laYVlVdXRkc1JqRV9Xb3BVVkg1b1JoeTN6VmQ5TnlyTXM1S3N3ODVCcWp4bzJjXzZKOUQxU0ZyTDZLdzhtMDA4ZlE1cXlQSGVmWExiZWh3S19kdFF6N2VZV0lMNlNhUmpQdVVsX2xsdkZnSTJPemlySkU?oc=5",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZTVOZXZMbE1JZVZIbkxVRDdUdm9CTktjaGUxdEdiR0tTMm4tSkdqSVQ2ODhwQVFSdkhvZV8tQnJuSTA5RmRWQVZNdlBWRzBZSllTeW1WUEwzNkFwTktNNkwtT3VXcVo1UTV4N1lfYVotcGpZdTBnYTRkM1hONmV0WU90REo1UV9XVFVDRmFacDQ3dWtaNE9rUERYMlBqVGNFNmRRNElSYjJEY3BWRWtWVF9qVVJ2c1YzM1BUZzREbkNUeTdhNFFMeE5ZWGVlM2VI?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fRUpYeXdaczBYN2FZbG8xLUItTXZsUlNRYkpaRTNzUnFYQ21fa3NmcVhnZlVBQS12VnNMZ191Q2R3MEJ1LVg0WENjS25xQWQxd2g4QlB0UVpGdnZYMUJ4TGUwT1p6VEFOUm9QX1RCZjhEc19JU2R5d1lqYw?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcktIb2hmMEY3cmdLYmJhM0ZrQWh1SUJxRk1ocFZkVTl1ejczUURhbFBVSXc0M1VGbHVGMTA4NWRLajRMQkE2RTIyS01xYXZFMU91WTBXMm1zeFNGUmR6c2N0R0FHVkN4bE1yenljVTNJQ3BSd2RFWFdmeEVyWW9sVUkwUXA?oc=5",
@@ -7999,15 +7992,16 @@
     "https://theloadout.com/gta-6-has-already-made-1-5-billion-and-nobody-has-played-it-yet",
     "https://theloadout.com/cryogen-staying-at-flyquest-is-only-half-the-story",
     "https://theloadout.com/league-of-legends-new-dawn-riot-just-dropped-a-bombshell",
-    "https://esportsradar.gg/moonton-games-and-toshiba-tv-partner-for-2026-mlbb-sea-championship-tour/"
+    "https://esportsradar.gg/moonton-games-and-toshiba-tv-partner-for-2026-mlbb-sea-championship-tour/",
+    "https://esportsradar.gg/hong-kong-to-host-blast-premier-rivals-again-in-2027/",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PdGJWSEM3Z3hUbmlIR2xhdlN0MXltQjJrcXFDbkV6S1c5Y01TWE42Z185ZUtFSVVmT2VUMTV3LXQ1TXllaWZ0TkU5cXdkQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ja1h0N2lxSVBWN0pDZml4SkhKMmZRT2lvR2hGME5taEJwRDFpUnhXVXRjXzZqQmxEWm1GVFBITTdfMFR0c0VDeHpoMDlGZw?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzdnFFTlZ1WWxJTGNyZVBwUHdZZW50a2Fqb3RPMGNiSm1hTlExOUJ1VjJ1ekJVVDZoclBBRDcySXc4YTRrMS04MUxjWmhFTWJJdmNmQUM2ZFByNWtmc29CWU5zQ0FDZmltTUR1VElndkxUZVQ3RXc?oc=5",
+    "https://www.talkesport.com/news/gaming/nba-2k27-gta-plus-free-vice-city-bonus-pack/",
+    "https://www.talkesport.com/business/jensen-huang-reinstate-petition-175000-signatures/",
+    "https://www.talkesport.com/gta-6/how-long-to-beat-gta-6/"
   ],
   "title_hashes": [
-    "703c74a8831ddb760a3a198e88986a8d",
-    "68f6e8e64dd1136bb12ab798478dec7c",
-    "d4b79dca1386cabcdf06187d8d6b655d",
-    "b004592c2d0272d8ed21cd503f660622",
-    "06e15d57f22ea6463a5a04a54e751041",
-    "defa5fb55d03b81b3de2c38920d7895a",
     "875cdc4d82014180b37738c050a7f648",
     "64e90c3d482e5a68d85d898f01db1f63",
     "e215fc0f7cc07291270f65cd95c292be",
@@ -16001,7 +15995,13 @@
     "6a743b7209e672667c61324c0f0b106f",
     "3bd817332807520513a162845a5c14de",
     "860ac54171b03c9a681f8b882fa2b533",
-    "74c1994c3a8518ca8464b0ed2a257261"
+    "74c1994c3a8518ca8464b0ed2a257261",
+    "7e5be96faf4d513275b6f0327f953fb1",
+    "9e0394ef4c5dd482cafe870dba60bea6",
+    "aa7c6cf2069bcd26c4f36238a4e4903c",
+    "4c74eb3332ecfcdb64e715015a220dfa",
+    "e5755f6e26ed6cbe572b39d5a78ce902",
+    "fced304a254acb870e80c8eb3fd09fab"
   ],
   "transfers": {
     "pages": {
@@ -20976,6 +20976,26 @@
     {
       "t": "2026 asia bang become brand championship first games global has inaugural legends mct mlbb mobile moonton official partner premium sea southeast teamed television time toshiba tour",
       "ts": 1794847773.292675
+    },
+    {
+      "t": "14 2027 8 again announcement blast company confirmed edition esports has hong host its kong november premier production return rivals set that third tournament will year",
+      "ts": 1794847778.3456342
+    },
+    {
+      "t": "2026 com finals grand nbsp pgc pubgesports sale tickets",
+      "ts": 1794847781.7581694
+    },
+    {
+      "t": "124 15 17 27 2k27 bonus can city cost december edition extra gta january joins members nba november pack play post ps5 series standard vice xbox",
+      "ts": 1794847785.1677406
+    },
+    {
+      "t": "000 175 8 800 about asking ceo has huang jensen nvidia passed passes people petition post reinstate say signatures stand they who work",
+      "ts": 1794847788.578083
+    },
+    {
+      "t": "6 80 before below days differs emerged estimate gta his hours how launch length long main nelson new playthrough post puts rob rockstar spent sto story",
+      "ts": 1794847792.121481
     }
   ]
 }
