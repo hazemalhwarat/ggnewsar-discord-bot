@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPUXVjV3J3VkJidDFSMWxjWjk5TmY3QlFCMDFrbEhnbzlEXzZOUG1pY3NlVFVsVjFxR2R0YVlNTWRKVGVtSmNER1JQd09BMnZUaXpHVmgzdWdRWGk4WENiYlhaN2RZMUNyVHprZHYtRC1vN1ZNSXlzUTFSVXhLSDRNWEIwTnNOZEx1dU5uS3dmOG9SNkpBNkZiR1R2dF9EQk16SHhadWZ6bTJ1aXdHWXdPZi1wb2dsbDEzM0V4b1I0WUFBSFZQYXdMRVN4S1VNeFFnNmcyMkJYN3Z1VWhZd0F1MElOdFh6T0Nobl9sMnk1YUZKc19NcF8wUUxCWHpSd2tnMXVyaHY0TDJja0VsOGZfMnB5Mi1XZ1ZlNkNFTWYtSFd1eU1hNGQ2Q09IU1g0UTFGT2N0cU82UkFMbk9IZXNVVA?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0hEOFkzRXhhVWQybFdBTmxfTEJWbnc4MjlsU0lHTEJ3OGxiT3BvZ0JnOUpyZ21IS0FEQVFCV3FIRWRtNW9hVlNSbGRvQXN6SEVxc2VSLXc5YUNkOFBBSld5dDIzZW9EY2FtMFhqcmVBVHFfRS1jRDN0TUhtdzA1UTZRcjJNRG4wSHNzbGVqWXYxdWJabFVKMU9OcTNEdw?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPODQtV1dNQ1JoRmRQRDZLdGxrd0M3Q2JTLWdNRFMwMXpPU3dscDNuUHkzNzhySkFIOC1qOU80UUh2WUowOEVpa3JwNHNEV0hOdnFfQ0pXRkhzaGtGdFVUU1UtUW5NT3I3NnFSRXBSM3gyWnBiaFBhbEhPVGhPZ05EZA?oc=5",
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcUwxUUMzaUJYanY2TkwtRVd3dUlidDd0Z0dYdzU1dFk5b2lGRkxzdHRsRlhEVE53MC1heDFNaDRHVlYzbHFkVG9hZ2dIQXNYbDk1cUJGQWVaV2hZNDR1S2xNVktTY21PdkI0czhFdWNIYThudzgxd29FSkRTSHJSb3dlb29XT215YUlMQVlSOU9zcVR4eWk3RjFhckJSNkxqMVZNeFBGYTJXN0ZzVW51X2FBR0xRWWNfZDAwQ3NOZ0JLN2pZcTgxMmlyVHBrSmVuc2VPR1FoWmRwNzQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUzhBaEgzQkVYcGNzczR2dTllQl8xYWRzQ04xclg1SWdrbXMwTlh4VFg2QkNQVFBSSUVjN0xQaEJINkFuck4yeTBfZEtaSlhkQ0l5R1kxdkNkM3UyaV9RTEF6MlVDT1lpUU5QYWVGSnpGLWpCU2NUdVNubDhMNXJtTFlrMWdBamFyVEN4a0dMazdrN2NvRHdLTndRbzZZUHJTNXIxVEU0cTdic3RWODd3b3hjakNRZ1EyUllaQlR0azBUS0xMX2ZReQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmtwcWR4N1d6dXkza0pqbVhmdGRpZmVCQzRXMVAyT1ZlZUROTVM1dmZqNVdKZHhqMlNGTlNTTzM4b0VicXA4ZXVTYkQzdnZXUlVtVHZlUHpVWl8wc2M5d1lURmotZ1JhMnVyX0gtTnA0YkVoa0JzaFdhVjF1cFZvQUhvbUZkNURMNDFxamg2dkYySmtmcXc?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iRllWU1lQd1pIMjVRN2stV05LMlJScEZleUtwamJBUE1xZnVubEhXQzdiWV9RNk81T21QV0Q1TDlFVkZCVmxFQmNIbG02anFibzI0cmVPbTlqekFiNUoxU05WQlVicDFXMHN3Y0ZBZ29PbmZvZEVrQUlZZm8?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjdHpxMHM5dXBHWUJ2c1Q2VjFGVDRYX0Y1V1kxMWNXMHVjTEpxY0UwMnZRX0dSZjZRdlNkR2lxaUhISTkzYk0wSmUwUjdSV3dhdWdaWkdkZHltWGUwWFZrTUtoMlVleDlBMHR0RUln?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxObndMdVdDUUc1dkdTWkJHS1hNZnVMbGRYOXlPdjlfZy1GVXh3VWJVUFp6WmdrZkRkb20wNTZfeUtYRmNabUxKUDlWQlN6R3NZam55NkZOVHh5SUlYLWZNaWVUUHV2cTJsaE5VYlFyak8zNkN4dTNMQmtkYUZjWk0yREtubkw?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CVXB5UHVpMVcwZVd0M0hadXlkeGNVd0g0dVhIeTR1U0YzTlZXUndPRkVDay0wX1Q2Zml1X21TaXlsTEFJWXhmWFFwT2swVXEwRGJnZzFQUkZpOURiaW4wTEhzZDh0eVhRcGp5ZENn?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeV9GWkY0UnF2RmU5NmI3OXIyT0tGclVWREVXdHNuRXdmdFNWVFBFamxEVjVKYzY1OGxiaEoyWWl6N0d5RlFJY2FLU2l1enh4bmhkODFYWk9yRElWX1BhLUZoRW1EVmViZGxLV0xjOG1QQWE2MmdFRmdGWDNUZTRXa0pja3lPODQzVWpuNGF5RDROMHJPM19DZnNPbkMtLWFCMzRr?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DanZNUXJnS1lvbGNfVkNJbi1zSUJBa2ctdXRBOU5SVVROSlRkdTJkU3dXNHIyVjU4OEYwZWJuOVFVOGlwSVJkUktXMmtLVElLbC04Tg?oc=5",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmx5aFFObXpGa09Vb2tyWUJFTVEwQTE4a09rNUV3aS14eEJQeVh6b3BFbmluN1liQ0k4aEt5MU1IMXNTaWF2eC1qTGxSalpUUklva2lMWEZ5aldqajJ1WXVZVngzWXJOSjFYMVFFRlBYZV9vSnpyUkU5aExEdDVuMW0zVTBPbzhXZWxlT0FWa29YQTQ1d1Z6Ym9zc3pPZUhCSGtfMzc1dUVfUGpxMl9jMDhRcVJkTmhGX3RTbmxPeV9vc1BjeC1xRXNSdFFuYXNxbWdRWA?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUExUnV0Y3A5SHB4SjZWb3hSSk93N3R6RHJ6bkJLNFpBTHVOWm5NVUNMejM3ekJMZUlXa3dwWWk0Q2tVNVAtMFB5MGROeXRHWUItRW04U0FBb01PZEF1cy1jYVFjSk5mRVBoWkdrYmVJUTVxb3prRi1vWXhVYUgzMFVoODdQMzJpbEtLUjVCQldsX1lBY01tNzJXNWJjeVBfLWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjhXNzlUWUJhdjNkTlVfdFhIbU9TaU5Ra3cyS2tlMVhlMzI2V1hlNVdDWHlia2JYQkIzcWU4Zk5IcFRPcEJ6b2JpQVVzSVhwSmRHNkRQMjRNb3VKS3BkbzRqd1lRZ28wemFLZlgtZjd1RnMxSHhpZXphTFpCR0hMUW5YSlFkX01fcktrcG5qYm5KaWhNWFNEU0E2Y1ZhakFzX01sS1VVUWMxcGRqLWZLODdNaw?oc=5",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWTBXeXY4OTRLUTE1WncxdERJRUU5bjR1M3dJelM4VVdyWlFCYWhZeTkzM3ItS2xLYWN3SE05UmIyTzg1c1BTaHZxVnBqUjRwNWJBRF93cjBZSlZtV1dDNEdjaEM2cHFycTc5YjlOdFo2dFJuMHBPUThlTUVfNzluMzByS3FmR3I2emZfRzNEbC1TQWpsZkRQa01aZDVMZmViMnp3NHdLNkVfbVAtMHJjYldfZ2Rfei1wcmROTTRyeFE5TVB3SFJMdEpQa0J3T0Y1a2g0?oc=5",
     "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fdGNSdUI2QTllbnlPYy16YmZDdXZ4WUFwcDE2SWwyTlh2bFZxSjUwOEdvTU5lcllSWUdzTlI5bGo5bnp4dkFORG5oOEdMeTJo?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVWVWc1JKQUFhazVJaGtPd2dJSEgtMjZIY2lfUTZlRnQ4R3lxQkdCcUVfSm9Xa2dXLUN0c1E0d0dnbkJSMllITDJVWVh4eDZnc0RpZjVvSHRWMS1DanFtSmxwVE03X1N4Tk1KVmVieHM1bU1wMHNBMkZFb0dsN2RBTi1JNkdWY2w0S1doS0VtVW5mb3RuMkFWVEJURnA4aXN0cThQaVJsM0g?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MRVRoZU45eWI4THVnN0lVYkU3OVpIa2ZibXlvTjRxaU15NUdiZGoweDZHcjFJblVkOVhSbmFkbnRqQVA5OXYtVmdVVXlkVmdoNHFz?oc=5",
@@ -7999,25 +7983,25 @@
     "https://thegamehaus.com/nfl-draft/nfl-draft-prospects-in-college-football-week-12/2026/11/15/",
     "https://www.esports.net/news/gaming/furia-sweep-spirit-to-retain-blast-rivals-hong-kong-title-before-fallens-farewell-major/",
     "https://gameriv.com/league-of-legends-2027-season-1-update/",
-    "https://gameriv.com/robert-pattinson-confirmed-as-the-next-james-bond-in-denis-villeneuves-bond-26/"
+    "https://gameriv.com/robert-pattinson-confirmed-as-the-next-james-bond-in-denis-villeneuves-bond-26/",
+    "https://gameriv.com/apex-legends-leak-reveals-upcoming-rampart-buff/",
+    "https://gameriv.com/save-mass-effect-campaign-shifts-focus-away-from-fundraising-after-surpassing-330000-signatures/",
+    "https://gameriv.com/riot-meddler-confirms-league-of-legends-new-dawn-will-keep-runes-skins-and-hextech-engine/",
+    "https://esports-news.co.uk/2026/11/16/100-thieves-fight-back-to-beat-parivision-and-reverse-esports-world-cup-defeat/",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaDdGbUh2bDN6U1c2TkVRcEdYZUNkOEtLOHBxTnowaFFwNFV1aGc5bnJWWHRtTmh1TWlqSXoxeEN4XzhTVUlDeTBGekRjS0ZlaG9mMlM3a0U2VW11MUxCR0VnU0RhSS1lRWJvZEZjcjZPcHlpQkJJOW9Gd21jNXU3WHRtbHY2UHBoRnlSYg?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2VuejNxSkI4aFFyaHZvMjdnRUxER1VVakx1YTV2OEZ0NnB0QlZYeGVTd0tPU1pUUnhPZ3NRMlBOSHlsN180X1FTU19TTGplcGFQNHdfdDI1aE5HQUQ0UTJ2c0RCa1d3Q1cyX0w0YUFQd3BkR1YzTnhraGF3Yk9pcEktRTdaWDN2ZDBGUGpmeERldFE?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YUlI5dkxvMkpZVjNBQWFKSTk3el9nUlVpNTN5QmFicXkzZExoZkdtUzBFX1BNTE9rNFNoNFBtTGNPOUttUkFXRndYNlBKUnhJNmd4THhVT3BXSEgyR19RbmMtMlRCeDJ4Sm1iOVdFaDJ5aUZldlE?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjNuYnFqX0dhbFBTY0hlOGdGVDNkNlh5T3JuMlkyODNqUHdITnVCMl80UW9WR1MwcGs5OHdiOXBlRGFKSTg2X2ZxR3hxVDVqWHhrdGg3MWVEYXlITEx5TU40OFUxT3U0SEJ6c3puOHo3MnpoWGUwaU5NSEFvejZhUGVFaEM?oc=5",
+    "https://www.nerfplz.com/2026/11/formerly-op-23-old-mordekaiser.html",
+    "https://www.hotspawn.com/league-of-legends/news/lec-2027-format-revealed",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kLXMxSmZxSHRVTVQzZ1p3TExRS1J2TVlmYXZCeUVXbDNLQVVuZzdMZi0zLXpNQ3VEQ0VYZmhwNTBneEotYnl6ZEV6RVF6dl9Ld1JER2NJbDdCdk1ZUFV4b2JFUjJJeVhSTlF2NUpXcmg1M0piWEZHcg?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnM2anZTa20wb0NHaTRwVVZmSWNtQUZ2NmxSbG5kY3lqQWpQbmdFVkhOUF9YWU9PTXNrdktSUEhqNG5ncnhRRTVIWHVFdGxTNXVqQ1p5VHBwX0xEcnZSMjdhanlUOG1yZF9sd21xejI1Q1k0OUdTVHRmMUxHaHFkZ0ZjX2lmd1N1OHFyZ1Zn?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd0xsZ3g2aUFQdWswNGxzVG9fQy15Nk1GTG1YYWkwYW9HVU5PS3NQT1ZWcVNSMlJzdi1BME9uWXdKWGdXQzllaHpPYU83TXFadzNTTWpCVFRrajRPMVlBV01MV0tkMUpoSlpSc3liLVRkQXZHMERHYXpZMU5hNmVucUJLM3JCQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XUGs1Z2lYLXZjUi1hSjNfNThoWUdGSkJkdExPWkVHbDY0ZDRrRmlOaXdtWGdzN050MzU1SHl3bXZUcWFZRG9PVDlKUFhQN3pwVUl1MkNFa3cwNnJGUDZZVHFtRmtfTzFhUVFtaXpHV0N1YVZh?oc=5",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-november-16-1254/",
+    "https://insider-gaming.com/escape-from-tarkov-gta-6-hype-new-campaign/"
   ],
   "title_hashes": [
-    "a3f948c4708f86c4c456cf7733729d77",
-    "51b2b5f1dc5087b6d5346d22cb85f5e0",
-    "513c061175ca51edb894c23249fe744a",
-    "82715798c6e2dd31470ae120a83ffb13",
-    "c68af5deeef59635a63d2c80f1501473",
-    "66e36d606c49383b6294ed4bec0c66b9",
-    "984b34bcdf27a884a823701b39ba88df",
-    "3f31f618e50f59e63387b1d514c7dc09",
-    "785650711a1a5dc71b9dddc39b70c91c",
-    "068735b509a65da958255ec7867bfdd5",
-    "774ccff05bf4e694ca37e8ff7aad4a51",
-    "ac864135fb2ba481ef78305fd7d73a8c",
-    "19c3dcafed20264ea83dc730bd4e97f1",
-    "ac8a053bc041dbd4f47a42618ff1e92d",
-    "c815715dd4f2d5c67e05ab1abf71dde6",
-    "7c1b6f45ef0644197a53fb3cbe3e2fe4",
     "7a5e80752f085c5ebe1782b21626e297",
     "8fe0e017beb433050001e8c3ab4095ea",
     "c597dfb0eada388c4fed9fb2bdb0179c",
@@ -16001,7 +15985,23 @@
     "511d462dd664cb387fe33a2ca08b7431",
     "1a1325a51ec9f34d789138035d59442a",
     "0b838c04dd6b56e8e01aa74caecff0c2",
-    "3f91cf73c2f0f0158c8d4ee8171a6738"
+    "3f91cf73c2f0f0158c8d4ee8171a6738",
+    "c6df199c6a991445976fb557d605027c",
+    "d3d262710d190d2273a6b9114f74bb0c",
+    "2b7dac6e33213c3cedd32f9f52fdf2a5",
+    "13149ad530028779fcfc765f2d76f200",
+    "a0fa06205790235d5559723e95509f85",
+    "0c06d02dfeedac0289d7f7896edc54d2",
+    "83fbaf5a58164f1f44926e343c985599",
+    "1e2e010e051879cfce28b784b25c611d",
+    "cd33d60a4502bc52058584aaa50d34ff",
+    "6cadd5315f8de3d096b50e1dd093ff59",
+    "f466d6a4362b0bd8e1112f9db77f62aa",
+    "7f86c153faff1fc62ec6ce960962b1e6",
+    "d61d17325ce548a5d26365839ac0fdc9",
+    "21bfec421ce0ed871c82f4ef8129e604",
+    "e3c8e18273447e454f30ffe1f9657833",
+    "0dfe225dd2a75c93e61fef0e897c8663"
   ],
   "transfers": {
     "pages": {
@@ -20916,6 +20916,26 @@
     {
       "t": "007 26 after been bond cast confirmed craig daniel den denis directed finally has james know movie next officially pattinson playing replacing robert speculation upcoming villeneuve who will years",
       "ts": 1794847716.1367903
+    },
+    {
+      "t": "000 330 8217 after annou away behind billboards bioware campaign closure community effect entering focus following fundraising have initiatives mass new organizers petitions phase save savemasseffect shifts signatures surpassing weeks",
+      "ts": 1794847721.1794927
+    },
+    {
+      "t": "100 back beat bracket but closed cluj continue cup defeat dropped esports fight final gizmy map napoca opening parivisio parivision pgl qualifier reading recovered reverse semi thieves upper world",
+      "ts": 1794847724.6322038
+    },
+    {
+      "t": "23 about afterward did fight formerly four him killed made mordekaiser old once scariest then thing wasn what years you",
+      "ts": 1794847728.155183
+    },
+    {
+      "t": "2027 all best feature format lec ones out plans regular return revealed roadtrips same seasons splits spring staying summer three will winter",
+      "ts": 1794847731.5287921
+    },
+    {
+      "t": "6 action around campaign can earn escape exclusive fan game gta items joins new participate post tarkov themed you",
+      "ts": 1794847735.1963098
     }
   ]
 }
