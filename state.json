@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.vlr.gg/778872/meteor-to-leave-t1-with-contract-set-to-expire",
-    "https://www.nerfplz.com/2026/10/tft-avatar-trait-explained-how-lux.html",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwUjE0YTd5dWk0eF9HVmR4YVN6MFo1b0dfTk9MOVVnVG5Cc0RHX1pDS3d6X3VlcW9jd2J5ZzJRMzlGbGlZRHdjM1VBS05ISjEtZEdiN04xTFZrSk8xMWdzWXRJQ19zamYtU1E?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OTzJxektQd3dhb2piSHRNdDJHQVg5OVRiWVhUZy00U2V3LWtjdFppR0RNS1hreGswVjR5cm53TnRqOHpjbW5uNlZRLUpCcWRQWkRIb3pIUUdtTDdWUks0WlQ5VWJheWEzUzNXd2RoTFV0em82YkppMXBB?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NaWVqRjRKNmxFMEhubGZ4N3B1Xzc1V3ZxRDJlREx0dGtJcnhySDJCUXJBQkhtY3pnMTQtOXV6U0VJMV9lbkJabzhWdDUyekRjZmVFSzZmRlM5MW5NQXNGQjcxd25paFBzVncwX2lMZ2U?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ0Yzd1RZaF90TjNWLWVwVEtJTXZSdHBaMVBWVVhoNHJQMDMxQUhMNGVkR1NDa2ZocXFqNFpiaEtpSG55cS1mTU5JZWl1WkZUUzZvYlAwWlJwbU5DZlNHQnVYMmJYOWFHanJkQ1lfTFBpbDFIbnV0cjhTNG5DMVljNm94RzBMbzJHc3g1Z2FmNHVybUk5eHZXVW5LTTN0dFRFcjNOd1VmWFM?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YUlI5dkxvMkpZVjNBQWFKSTk3el9nUlVpNTN5QmFicXkzZExoZkdtUzBFX1BNTE9rNFNoNFBtTGNPOUttUkFXRndYNlBKUnhJNmd4THhVT3BXSEgyR19RbmMtMlRCeDJ4Sm1iOVdFaDJ5aUZldlE?oc=5",
     "https://europeangaming.eu/portal/latest-news/2026/10/22/216575/ai-resolution-rates-igaming-player-support/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28625/dplus-kia-ceases-fc-online-team-operations-what-about-lol",
     "https://www.invenglobal.com/articles/28624/gravity-officially-launches-casual-title-ro-lite-match-based-on-ragnarok-ip",
     "https://www.invenglobal.com/articles/28623/ascend-to-zero-releases-first-skin-dlc-sweet-kiss",
-    "https://www.invenglobal.com/articles/28622/emtek-releases-new-rtx-5060-white-graphics-card"
+    "https://www.invenglobal.com/articles/28622/emtek-releases-new-rtx-5060-white-graphics-card",
+    "https://www.invenglobal.com/articles/28620/webzen-unveils-cosplay-photoshoot-for-g-star-2026-lineup",
+    "https://www.invenglobal.com/articles/28621/g-star-2026-unveils-birds-eye-showcase-renderings-for-exhibition-center-2",
+    "https://www.invenglobal.com/articles/28619/krafton-hosts-better-ground-university-outcome-sharing-event",
+    "https://www.invenglobal.com/articles/28618/century-games-to-operate-booth-featuring-3-titles-at-g-star-2026",
+    "https://www.invenglobal.com/articles/28615/zotac-launches-promotion-on-three-rtx-5080-cooler-bundles"
   ],
   "title_hashes": [
-    "bff71938439950f0e5764e3c9c1c7614",
-    "8c4adf38bf06d2dc1da15d1ed7359b41",
-    "c14c5e03fa5eda384316a55f664cc946",
-    "1659b2ca4b902f728d42d2455b5755de",
-    "9832209ea9bf655b4183796c6dde492c",
     "47fffb9548a0d4eb9b5fa12e1f089cd7",
     "6852ae14c8f03f3fd707775bc24d0455",
     "1ff03f16ef1ce5e44fc4193f7f2c75b1",
@@ -16001,7 +15996,12 @@
     "1333dfa2bce882032100519a61afe10e",
     "c30f46f4a041f515850525d50803c109",
     "62df17fc212a700f13a4220e2f321ecb",
-    "00535911ce7b596e1812f628168d66c7"
+    "00535911ce7b596e1812f628168d66c7",
+    "afd6c642f0cd8bfc08c86fc0f54c8c11",
+    "a31d69539c8f4e9caeb17bc8d808f9be",
+    "0f3ae69500942977cda16edeb842397b",
+    "f38315c54a3c5d88c7b7f3f76bf06fe5",
+    "7d3aa79e2e5c06c1e664a4854bf09395"
   ],
   "transfers": {
     "pages": {
@@ -21020,6 +21020,26 @@
     {
       "t": "16 5060 8gb 90mm announced card color cooling d7 dual emtek fans features geforce graphics has hereinafter inc launched miracle new november releases rtx scheme that v1 white",
       "ts": 1794812395.4740746
+    },
+    {
+      "t": "16 19 2026 company cosplay host its lineup november performances photoshoot revealed stage star unveils webzen will",
+      "ts": 1794812400.7667775
+    },
+    {
+      "t": "16 2 2026 bird booths center committee exhibition eye game global hereinafter indie layouts november organizing renderings showcase spatial star unveiled unveils view",
+      "ts": 1794812404.9041657
+    },
+    {
+      "t": "14 better clubs development event final game ground hosted hosts inc jump krafton non november organization outcome profit program sharing support university",
+      "ts": 1794812408.4877758
+    },
+    {
+      "t": "16 2026 3 35 booth century detailed event featuring games interactive its november operate program rendering showcasing space star three titles unveiled will",
+      "ts": 1794812412.6529846
+    },
+    {
+      "t": "00 10 17 5080 bundles cards continue cooler coolers exh featuring geforce graphics korea launches limited november promotion rtx run starting stock sudokoo three until will zotac",
+      "ts": 1794812418.2386684
     }
   ]
 }
