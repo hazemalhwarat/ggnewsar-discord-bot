@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ0Yzd1RZaF90TjNWLWVwVEtJTXZSdHBaMVBWVVhoNHJQMDMxQUhMNGVkR1NDa2ZocXFqNFpiaEtpSG55cS1mTU5JZWl1WkZUUzZvYlAwWlJwbU5DZlNHQnVYMmJYOWFHanJkQ1lfTFBpbDFIbnV0cjhTNG5DMVljNm94RzBMbzJHc3g1Z2FmNHVybUk5eHZXVW5LTTN0dFRFcjNOd1VmWFM?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YUlI5dkxvMkpZVjNBQWFKSTk3el9nUlVpNTN5QmFicXkzZExoZkdtUzBFX1BNTE9rNFNoNFBtTGNPOUttUkFXRndYNlBKUnhJNmd4THhVT3BXSEgyR19RbmMtMlRCeDJ4Sm1iOVdFaDJ5aUZldlE?oc=5",
-    "https://europeangaming.eu/portal/latest-news/2026/10/22/216575/ai-resolution-rates-igaming-player-support/",
-    "https://europeangaming.eu/portal/latest-news/2026/10/22/216552/freaks-pirates-vampires-and-spirits-four-new-halloween-slots/",
-    "https://europeangaming.eu/portal/latest-news/2026/10/22/216527/betsson-q3-2026-results-record-revenue-ebit/",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc2taU01CbEZrUm96THdYeTVJRDZZYktQNUExdzNFZG5oUENUdGVQbV9seVRtU09fUVZRcE0yMWJDVGEwdHpENnZEei1pNFVjaXZFNlhUUzVaQjJGSk1SQzAydTZXWE9ZTl9yTWVFTzVTUURrTHM0LWFvQi1iVm9ZZ29jUmhuRUJXMmw1ektvNldlVHU3VTMyRjhQdmwxOTRhY2N3RElBWFZPbDBqaks4ajQwUGlXU3NfSlVjblhJMWM1ZzJr?oc=5",
     "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
     "https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28621/g-star-2026-unveils-birds-eye-showcase-renderings-for-exhibition-center-2",
     "https://www.invenglobal.com/articles/28619/krafton-hosts-better-ground-university-outcome-sharing-event",
     "https://www.invenglobal.com/articles/28618/century-games-to-operate-booth-featuring-3-titles-at-g-star-2026",
-    "https://www.invenglobal.com/articles/28615/zotac-launches-promotion-on-three-rtx-5080-cooler-bundles"
+    "https://www.invenglobal.com/articles/28615/zotac-launches-promotion-on-three-rtx-5080-cooler-bundles",
+    "https://www.invenglobal.com/articles/28617/targeting-q2-2027-global-launch-archeage-s-releases-developer-qa-video",
+    "https://www.invenglobal.com/articles/28614/pearl-abyss-releases-second-official-ost-album-for-crimson-desert",
+    "https://www.invenglobal.com/articles/28616/maplestory-m-releases-collaboration-update-with-talesweaver",
+    "https://www.invenglobal.com/articles/28613/playstation-launches-black-friday-promotion",
+    "https://www.invenglobal.com/articles/28612/bnk-fearx-promotes-rather-shin-hyeong-seop-to-head-coach-edo-park-jun-seok-named-head-director"
   ],
   "title_hashes": [
-    "47fffb9548a0d4eb9b5fa12e1f089cd7",
-    "6852ae14c8f03f3fd707775bc24d0455",
-    "1ff03f16ef1ce5e44fc4193f7f2c75b1",
-    "2c792975a76c70ef6304f56ed4e9a9aa",
-    "d3efa269e4a7e1e0e74013f2f663c570",
     "0e352ad19ad80f9dbcae6c102a9676cb",
     "b4d5d5ec4356b1e2f1849eb63162ac74",
     "456850766564aadd869609db1e60a6df",
@@ -16001,7 +15996,12 @@
     "a31d69539c8f4e9caeb17bc8d808f9be",
     "0f3ae69500942977cda16edeb842397b",
     "f38315c54a3c5d88c7b7f3f76bf06fe5",
-    "7d3aa79e2e5c06c1e664a4854bf09395"
+    "7d3aa79e2e5c06c1e664a4854bf09395",
+    "4dad6f7a7f87f4e3c6090b1fbd13ce46",
+    "273675f68ea4ba17b45db3bcd343b30d",
+    "7bd3e44e1ba6ec00b7b87714c3dcbecd",
+    "12eef703c6a40336c66865601222855b",
+    "6ebbeab2aa0f4dc921f70787e433c4bd"
   ],
   "transfers": {
     "pages": {
@@ -21040,6 +21040,26 @@
     {
       "t": "00 10 17 5080 bundles cards continue cooler coolers exh featuring geforce graphics korea launches limited november promotion rtx run starting stock sudokoo three until will zotac",
       "ts": 1794812418.2386684
+    },
+    {
+      "t": "16 2027 align amp announced archeage currently developer development freedom games global has hereafter kakao launch mmorpg new november q2 released releases strait studio targeting that video",
+      "ts": 1794812425.0358477
+    },
+    {
+      "t": "42 abyss album crimson desert features has official original ost pearl released releases second soundtrack total tracks",
+      "ts": 1794812428.696318
+    },
+    {
+      "t": "16 announced applied collaboration featuring has its maplestory mmorpg mobile nexon november online releases rpg talesweaver that update",
+      "ts": 1794812432.482862
+    },
+    {
+      "t": "16 3 audio black controllers covers december devices friday gam launches november peripherals playstation products promotion ps4 ps5 range running sale such through wide",
+      "ts": 1794812436.0345
+    },
+    {
+      "t": "been bnk coach director edo fearx former has head hyeong jun named park player professional promoted promotes rather seok seop shin turned",
+      "ts": 1794812439.6322348
     }
   ]
 }
