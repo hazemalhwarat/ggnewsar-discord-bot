@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27625/archeage-chronicles-adopting-b2p-model-will-not-sell-pay-to-win-items",
-    "https://www.invenglobal.com/articles/27624/faker-commemorative-stamps-virtually-sell-out-on-first-day-of-sale",
-    "https://www.invenglobal.com/articles/27623/a-well-made-game-a-disappointing-successor-castlevania-belmonts-curse-82",
-    "https://www.invenglobal.com/articles/27622/msi-launches-white-gaming-desktop-codex-r2",
-    "https://www.invenglobal.com/articles/27621/minister-responds-to-political-cod-controversy-no-prior-censorship",
     "https://www.invenglobal.com/articles/27620/not-seen-as-a-controversy",
     "https://www.invenglobal.com/articles/27619/guide-to-last-epochs-3-key-dungeons",
     "https://www.invenglobal.com/articles/27617/webzen-hosts-appreciation-event-for-mu-monarchs-3rd-anniversary",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28687/unity-launches-unity-fellowship-to-support-indie-developers",
     "https://www.invenglobal.com/articles/28686/playwith-korea-unveils-roadmap-for-h1-2027",
     "https://www.invenglobal.com/articles/28684/vicla-lee-dae-kwang-to-lead-bfx-as-captain-in-2027",
-    "https://www.invenglobal.com/articles/28683/roach-kim-kang-hee-set-to-return-to-former-team-t1-as-head-coach"
+    "https://www.invenglobal.com/articles/28683/roach-kim-kang-hee-set-to-return-to-former-team-t1-as-head-coach",
+    "https://www.hltv.org/news/46007/100-thieves-and-fnatic-qualify-for-pgl-cluj-napoca-2027",
+    "https://www.hltv.org/news/46006/stake-announces-six-ranked-events-with-open-qualifiers-and-150000-prize-pool-for-2027",
+    "https://www.hltv.org/news/46005/bcgame-tyloo-headline-zowie-extremesland-asia-open-team-list",
+    "https://www.hltv.org/news/46004/iem-beijing-to-return-for-2027-and-2028",
+    "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design"
   ],
   "title_hashes": [
-    "b511e742b9adb8d9ba8ceccc8c837434",
-    "569a3c55eafb3206ee9d9cc317aee411",
-    "424f99dd5362970048ccd0eba6fa63e8",
-    "28e3898a67b61e7467a7d58cfe042e8d",
-    "457fde658918a541e5f9133a1ed9dec2",
     "f2ab5fb218da8b84623f45579aa4ba11",
     "f2ab5fb218da8b84623f45579aa4ba11",
     "5bdfdda746e178fab424e9ba34bcb775",
@@ -16001,7 +15996,12 @@
     "868154b5cb5ee1055d952baeae630997",
     "5d21a6a864d1365b8dbcdd17d5379b69",
     "166dd48d1049dccf84423756aff9e5d7",
-    "66c27bb9334a8cd2e3b13d59a4a4d9e8"
+    "66c27bb9334a8cd2e3b13d59a4a4d9e8",
+    "53c7c989c5bbe2d77844680e2b851c60",
+    "69ea2faa7a15f30f5cc98cbedd09126f",
+    "4e47752bde47619a03cbfca0688fed3c",
+    "e8369802a5a861c7fced441f1bde4042",
+    "d43420c52a2c313d0e1c530b9a286945"
   ],
   "transfers": {
     "pages": {
@@ -21108,6 +21108,26 @@
     {
       "t": "appears appointing coach earnest former head hee its kang kicking kim off preparations return roach season set t1 team upcoming",
       "ts": 1794937615.4057226
+    },
+    {
+      "t": "000 1 100 2027 cluj event finalized fnatic list napoca now pgl qualify team thieves",
+      "ts": 1794937621.5561833
+    },
+    {
+      "t": "000 12 150 2027 across announces belgrade days events fighting format new open over pool prize qualifiers ranked return six stake teams tournament upgraded will",
+      "ts": 1794937625.0973911
+    },
+    {
+      "t": "000 150 asia best extremesland feature game headline lan list open regional set squads team tyloo zowie",
+      "ts": 1794937628.5760093
+    },
+    {
+      "t": "2027 2028 beijing calendar capital chinese feature iem more return two will years",
+      "ts": 1794937632.1425433
+    },
+    {
+      "t": "1xbet again cast chance community counter design has history hltv influence major medal mvp once piece strike thanks vote your",
+      "ts": 1794937635.6172986
     }
   ]
 }
