@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2ZQQlkwSE9kUzlXMWJrUmo3WjV4V18ycWgzaEdGYnRMamxhWjR4alh1b3lIZ0l3cmQ0WmtEdXpnajNtMmd6Tk10WmNLZmRmMHVCdk1DQzU2UjJWZWVvSGhMclZhUE5zU3I2S2wxck5MZS1wbnphT1NGSHhELXBjMjFmV2d6Mk1sZFFYVGtFeWFzaENCLXhrdkEzdk5jZzUyNXNuXzVBQkJ0WmZUZzFZY2ZsTG1zbDZiWDA4TkNwWQ?oc=5",
-    "https://www.invenglobal.com/articles/27634/8bitdo-brings-its-modular-ultimate-3e-xbox-controller-to-europe-for-13999",
-    "https://www.invenglobal.com/articles/27633/aion-2-players-log-over-108-million-hours-in-the-games-first-18-days",
-    "https://www.invenglobal.com/articles/27632/pmgo-2026-season-2-grand-finals-set-as-16-teams-chase-500000-in-lahore",
-    "https://www.invenglobal.com/articles/27631/overwatch-meets-stellar-blade-collaboration-eve-protocol-revealed",
-    "https://www.invenglobal.com/articles/27630/professor-layton-and-the-new-world-of-steam-to-support-korean-voice-acting",
     "https://www.invenglobal.com/articles/27629/new-ghost-in-the-shell-anime-announced",
     "https://www.invenglobal.com/articles/27628/extreme-limbo-and-baldrix-world-first-clears-achieved-by-kang-eun-ho-and-pangiyo-parties",
     "https://www.invenglobal.com/articles/27627/rep-kim-seung-soo-urges-support-for-esports-minister-promises-i-will-personally-see-to-it",
@@ -7999,15 +7993,15 @@
     "https://www.talkesport.com/gta-6/gta-6-weather-channel-leonida-forecast-new-screenshots/",
     "https://www.talkesport.com/news/valorant/jioblast-vct-south-asia-qualifier-schedule-bracket-change/",
     "https://www.talkesport.com/business/nvidia-national-security-export-control-oversight-committee/",
-    "https://www.talkesport.com/news/cs2/techgirl-legacy-orgs-quit-cs2-majors-sticker-money/"
+    "https://www.talkesport.com/news/cs2/techgirl-legacy-orgs-quit-cs2-majors-sticker-money/",
+    "https://www.talkesport.com/gta-6/gta-6-launch-day-marathons-list-of-biggest-streamers-to-watch/",
+    "https://www.talkesport.com/news/cs2/iem-beijing-2027-2028-dates-confirmed/",
+    "https://www.talkesport.com/news/valorant/sentinels-sign-keiko-to-complete-a-rebuilt-2027-valorant-roster/",
+    "https://www.talkesport.com/gta-6/indian-companies-gta-6-holiday/",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93Skk0YkNJdUdVbVlXZV9aUGp3YnVGNWdiWG9neGxmbVFMLXBpRWFjV2ZNUDRfZjJuT2VQM1haeUdLazhWWC1zQ3lNaFhDVUFOUkRXZmZyMVZQN0FyTFJzdFNUVGFNQUU4?oc=5",
+    "https://europeangaming.eu/portal/latest-news/2026/11/17/218146/veikkaus-two-apps-vedot-icasino-lotot-arvat/"
   ],
   "title_hashes": [
-    "0f17a617f9af0ffbb289f07b736a791d",
-    "1c9ca3e9b563aeaa16262ada83f5c89c",
-    "6b7e305ae4dfc1a0bf6c226ac48cdd08",
-    "88e2103bdd715ec336e623c443c5d114",
-    "e3e9c4e89ef4c74cccdda4156909fa6d",
-    "b0a415288e260518a866503910e6e6ed",
     "63b3f8d3cf76c3f7c6b74463f96ce057",
     "23726dca9783031533ce46a77178c418",
     "f2ab5fb218da8b84623f45579aa4ba11",
@@ -16001,7 +15995,13 @@
     "f3aed236cce291a6f5f2363d79afda39",
     "a23d33f559c2c07e9d75dac6446aac7b",
     "e2ea414c6127cd9d58f10959fbb4bd42",
-    "901902b2a6d45f72ad1f9dadd6b51d11"
+    "901902b2a6d45f72ad1f9dadd6b51d11",
+    "e0f53675347b75f24d2f9d8beee0496f",
+    "b0402d25269b42916b454d52ad85cb5c",
+    "0eb50370587cbf2bcd005f80860030c2",
+    "6077e19253b2b8e476df48e729d7eacc",
+    "3caaf67cd2c743dc88bde86f8fcb311c",
+    "78153a1fa379df9803a84e9b5af8ce91"
   ],
   "transfers": {
     "pages": {
@@ -21328,6 +21328,26 @@
     {
       "t": "changes could cs2 dries income keep legacy majors miss missing money organisations orgs out post pull quit sam squeeze sticker team techgirl that they valve warned warns wright",
       "ts": 1794937831.0490928
+    },
+    {
+      "t": "6 after anticipated arguably auto away biggest day delays few finally global grand gta hours launch leaks list marathons most only release stand streamers theft trailers two upon watch what years",
+      "ts": 1794937836.3684258
+    },
+    {
+      "t": "1 2027 2028 21 29 3 7 also beijing both confirmed dates esl events faceit fall group has iem november october organizer run set under will",
+      "ts": 1794937839.88815
+    },
+    {
+      "t": "2027 americas announced complete confirm fifth final georgio has its keiko officially piece rebuilt roster sanassy season sentinels sign signing upcoming valorant vct",
+      "ts": 1794937843.4512057
+    },
+    {
+      "t": "19 6 across anticipated audience auto boundaries companies crossed employees excitement gaming gear giving grand gta has highly holidays indian list millions november reached release surrounding theft workplaces world",
+      "ts": 1794937847.0138595
+    },
+    {
+      "t": "8217 8230 across apps before exclusive face finland games its keeps licensed market opens operator post rivals separating splits state that those two under veikkaus will",
+      "ts": 1794937850.5110824
     }
   ]
 }
