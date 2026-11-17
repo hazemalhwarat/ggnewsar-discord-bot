@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://europeangaming.eu/portal/latest-news/2026/10/23/216605/fdj-united-q3-2026-revenue-targets-lowered/",
-    "https://europeangaming.eu/portal/press-releases/2026/10/23/216590/degaming-lucky-coin-crypto-casino-launch/",
-    "https://www.talkesport.com/mobile-gaming/bgmi/slug-bmic-2026-japan-korea-teams-players/",
-    "https://www.talkesport.com/news/can-drx-defend-their-bmic-title-a-look-at-their-new-roster-and-2026-performance/",
-    "https://www.talkesport.com/news/esports/orangutan-bgmi-roster-update-bmsd-2026/",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmak16UklvUzhuY2hoaXhJY2Rtd2V1UmNlSzYzMlp3ekVMYXNZQUdyeE5MNlQ2dTV4d0ExcFhxaUJPNk1ObWR5RlBzQkxhek5zeWpv?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmlTQmRzQ1BmVm54OWRoQzY4ZUc4c3pUR0ZfRzVtdVg1TVZncGszWngwNDFSRGstY1I1QThUdXZCaDR5TExkeHBsOHYwYVAyTlV6cy16X2xVWlk1LTYyZkNuX1FBZlFNeG1XZ29QV3FEdnJJODlLTnNNUmRCUnFqZFlNRHNsMU5pSDhsanRwRzBnYWR3ZVh3dXFkX3FFam8?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fTzQzSzJSSUJEbGVtZ0loSVk0WFVJTjJHd0FUYWZQXzJtbExpRFNJLVpRdnJhNm4xa1FXanNRQ2ZicUdZcDRGWWhIZEhaWkxmb2NDakdyMFF1RTZ2S3ZwNFFJdVh3SmNxcDlfaVlpTmpYdWNzdmc?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXNfUHpMVE44dFJGcmZmemRrZlM5cHhxcUwwejM0R3RVMk1wTGZsU3VYTUdJRGdOVTVxQ0lNb3BaSmp0Xzhya3AzMTkxT3A2VV9mZ0J3RldqUzhYazJEajRYQU9QdWxadm4zSmFmemhlYW5MYnV1cEZwcGxkLVgzUHJXYlpFSXBoYmtSdVpUaTV2UDJydXJiWmZxdXZwU3hCUGt3ZENTVUNPQkxqVGc?oc=5",
@@ -7999,14 +7993,15 @@
     "https://www.nerfplz.com/2026/11/champions-with-most-skins-in-lol-10.html",
     "https://www.nerfplz.com/2026/11/top-team-comps-147-from-both-sides.html",
     "https://www.hotspawn.com/counter-strike/news/100-thieves-and-fnatic-qualify-for-pgl-cluj-napoca-2027-via-closed-qualifier",
-    "https://www.hotspawn.com/league-of-legends/news/blg-daeny-draft-worlds-2026"
+    "https://www.hotspawn.com/league-of-legends/news/blg-daeny-draft-worlds-2026",
+    "https://www.hotspawn.com/other/news/how-to-watch-esports-awards-2026",
+    "https://www.hotspawn.com/fortnite/news/see-how-many-chests-youve-opened-in-fortnite",
+    "https://www.hotspawn.com/valorant/news/crws-full-sense-2027",
+    "https://esportsradar.gg/stake-and-starladder-extend-cs2-partnership-into-2027-with-six-event-belgrade-lan-series/",
+    "https://esportsradar.gg/optic-gaming-returns-to-the-lcs-in-2027-as-a-partner-team-replacing-dignitas/",
+    "https://esportsradar.gg/efg-signs-three-year-deal-to-anchor-iem-in-beijing-through-2028/"
   ],
   "title_hashes": [
-    "868fd55c39f038906487773e4647105c",
-    "bd94cd179329e5fd354b58933013e79e",
-    "42fdc8d280e33930dcf633ff9ab618c7",
-    "df46c4fc4964928f9f932c766f6cde64",
-    "8c418be3781675e04572fcd18722ef57",
     "b29c932bd1a7176338fb62e23656cc69",
     "64afbc37f01742bc9c6276cc8b926d16",
     "5feb1de99e801529b22e7b18cbd004fb",
@@ -16001,7 +15996,12 @@
     "f6940853587fbd14732bcd5a7d3019b0",
     "6b08dba77d54230dcb2ab8da1d03c111",
     "96c15d7720e16c720f80b35dfba16b9c",
-    "2f82f5a86d759c0b9b1f2749c01d4fd7"
+    "2f82f5a86d759c0b9b1f2749c01d4fd7",
+    "e21421982439be3699ee08be328a2c01",
+    "f990d0fa20788e3035c54bbb9a116dd6",
+    "904dce54f37c01cfe969ab10922c5362",
+    "5e0e78e8039b829227abf202b66aa87b",
+    "93f4615b940362671903c10613c68990"
   ],
   "transfers": {
     "pages": {
@@ -21248,6 +21248,26 @@
     {
       "t": "2026 8217 after beyond bilibili blg bringing daeny draft drafts findi first five gameplay gaming glory helped history how impressive long lpl out rift stood their time unusual win won worlds years",
       "ts": 1794937752.8391826
+    },
+    {
+      "t": "about all battle can changed check chest chests count cracking entire fortnite gameplay get has how loop many now open opened player possible right royale they you your",
+      "ts": 1794937757.954571
+    },
+    {
+      "t": "8220 8221 again coach coaching crws end following former full has his last mahatthananuyut once play player pro regains retirement returned returns role season sense team thanamethk",
+      "ts": 1794937761.3445356
+    },
+    {
+      "t": "2027 additional belgrade betting commercial confirming counter cs2 episodes event extend extended have into lan organiser partnership platform ranked series six stake starladder their tournament",
+      "ts": 1794937764.8281384
+    },
+    {
+      "t": "2027 america american announced championship dignitas esports gaming has its lcs league legends north officially optic organisation partner place replacing return returns riot series taking team what",
+      "ts": 1794937768.3849673
+    },
+    {
+      "t": "2028 agreement anchor association beijing cooperation deal development efg esl esports establishing extreme faceit framework group has iem industry intel masters operator signed signs three through tournament year",
+      "ts": 1794937771.9181776
     }
   ]
 }
