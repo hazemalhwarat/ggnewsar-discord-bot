@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNdnVLc2pyS1gyMUE5TXRhZ1NVZTBWSmpfZ21DTXlPZ1JQU1JrUmhRb2tYQjJDNHRxOVRYQmZXWTZ6WXRDMHQzWmQ5em13Z1B6amxmQjVRZGVRTVdpMGdMVl91bDdOaTAtamVFZDRQZjFQZERKeVFzdEdpcHpiUzcwZW9ISXcxdFBLdHNIZW85MlkxekRxeVpLQXA4d2Z6Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeWJuTnE5djk1SWpCM1RvNzVrMVdqSnBUcTdmbGxQUG5iZFpMRlNnUHVpV1F5NW5BZHZiSUl5MzJSQ013MzcwVDdqdF9IM0dkclhBQ05PV0sxMGRhTVA3aVBJUWoyVXROVW9hNmdoenhfMTVJdUxaZUhMd19PN1VsemlCd2JKeFB6?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGdBXzJUeUdiUk94UVM5MEFZaDJBR2dON3ZRemVEYXhIelExMjZkYmUxbVZMQ2p6Mlc3VFVWU2tOMmozdXFVMmp5TWg2WWlzRW5HWE1sUlZrbERhNVJ5MlNBc1ZfVl9PR3lwbDdiRkdvRzRvUnNLTHJOZzRzT2NyQ21vbXFMX25OQ0RrMUZIUDRLeVhHbWZiblV3RDVtSi1Z?oc=5",
-    "https://www.invenglobal.com/articles/27615/edge-of-memories-korean-edition-launches-december-3",
-    "https://www.invenglobal.com/articles/27614/call-of-duty-modern-warfare-4-returns-with-a-second-korean-war-83",
     "https://www.invenglobal.com/articles/27613/simple-controls-precise-firepower-survivor-ace",
     "https://www.invenglobal.com/articles/27612/dungeon-inn-officially-launches-after-nearly-2-years-in-early-access",
     "https://www.invenglobal.com/articles/27611/gorilla-studio-officially-launches-aerial-shooter-survivor-ace",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28701/line-games-to-showcase-code-exit-at-g-star-2026",
     "https://www.invenglobal.com/articles/28702/10000-lineage-festival-tickets-sell-out-additional-sale-set-for-nov-18",
     "https://www.invenglobal.com/articles/28700/com2us-holdings-opens-steam-store-page-for-cartoon-wars",
-    "https://www.invenglobal.com/articles/28699/knight-online-hits-263-million-in-revenue-on-first-day-of-new-server"
+    "https://www.invenglobal.com/articles/28699/knight-online-hits-263-million-in-revenue-on-first-day-of-new-server",
+    "https://www.invenglobal.com/articles/28698/ironmace-to-operate-dark-and-darker-hands-on-booth-at-g-star",
+    "https://www.invenglobal.com/articles/28697/nuguri-jang-ha-gwon-explores-return-to-pro-play-after-4-years",
+    "https://www.invenglobal.com/articles/28695/head-coach-sung-young-homme-yoon-leaves-hanwha-life-esports",
+    "https://www.invenglobal.com/articles/28694/kt-rolster-part-ways-with-ghost-and-effort",
+    "https://www.invenglobal.com/articles/28692/dplus-kia-youth-sweeps-both-first-and-second-half-lck-academy-league-titles"
   ],
   "title_hashes": [
-    "8ee71a5c03e64759cf074f175d11e015",
-    "734e6aa7e094a307a59f3a35ed77ab46",
-    "2ffd95e32a8c856f75685d95706d8e07",
-    "c64796938b9d858fa2e96e5fbd515456",
-    "62441d820e5dfba794a7954304f687b8",
     "04658437adf7bd5e355fe16c13c77238",
     "41c2df835f89ede3b64992343917f11e",
     "2da5120f634b9ecd003a2d8cc4138fc7",
@@ -16001,7 +15996,12 @@
     "62fae3294b6cfe9f8eb49c6c94a0e272",
     "471d7b31c138c7f5005a609f48b2ebbd",
     "fbf53e2ca3809e712d60990048ee2ca6",
-    "8c0011f162b562f350fd1901cafdeb7e"
+    "8c0011f162b562f350fd1901cafdeb7e",
+    "dbd4949c5c57fb578c99c937fa9c5bae",
+    "48c97000976daf39906450df9ef364a9",
+    "6b0fcdf4482266065ab92c10fc54bea0",
+    "87762996a97559c16d450869c6154234",
+    "19cc3028d58486713029114eb2cc07a7"
   ],
   "transfers": {
     "pages": {
@@ -21224,6 +21224,26 @@
     {
       "t": "17 2 63 announced approximately daily day ever first generating global highest hits its knight launching local mgame million new november online recorded revenue server since that",
       "ts": 1794903859.2034912
+    },
+    {
+      "t": "17 19 2026 22 announced bexco booth busan dark darker hands held ironmace ltd november operate participate star that will",
+      "ts": 1794903864.1407347
+    },
+    {
+      "t": "4 after attempting comeback defined era explores gwon jang laner legendary nuguri once play pro professional return scene top who years",
+      "ts": 1794903867.6653945
+    },
+    {
+      "t": "17th announced channels coach contract down esports hanwha head homme its leaves life media official social stepping sung that via yoon young",
+      "ts": 1794903871.1462653
+    },
+    {
+      "t": "announced contracts effort ghost jang jeong jiwoo jun lee part rolster sang seung sylvie termination ways woo yong",
+      "ts": 1794903874.737042
+    },
+    {
+      "t": "2026 academy achieved back both championships dplus first half kia lck league second series sweeps titles winning youth",
+      "ts": 1794903878.2155452
     }
   ]
 }
