@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45779/nin9-i-had-that-confidence-in-me-that-i-could-be-the-piece-they-needed-to-win-games",
-    "https://www.hltv.org/news/45778/xenn-we-need-to-reset-mentally-because-this-was-damage-basically-it-was-a-huge-loss-for-us",
-    "https://thegamehaus.com/fantasy-football/fantasy-football-week-7-running-back-rankings/2026/10/22/",
-    "https://thegamehaus.com/fantasy-football/fantasy-football-week-7-quarterback-rankings-6/2026/10/22/",
-    "https://thegamehaus.com/college-football/5-potential-head-coach-candidates-for-the-maryland-terrapins/2026/10/21/",
-    "https://thegamehaus.com/college-football/college-football-coaching-changes/2026/10/21/",
     "https://thegamehaus.com/college-football/college-football-week-8-news-and-notes/2026/10/21/",
     "https://insider-gaming.com/nyt-connections-hints-solutions-october-23-1230/",
     "https://insider-gaming.com/hunger-game-extraction-rpg-cant-be-missed/",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/fable-bowerstone-map-revealed/",
     "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
     "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
-    "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2"
+    "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2",
+    "https://www.dotabuff.com/blog/2026-09-29-designs-that-should-never-make-a-comeback",
+    "https://gameriv.com/bungie-is-shutting-down-destiny-2-twitch-extension-and-private-messages-on-december-15/",
+    "https://www.hotspawn.com/dota2/news/gamerlegion-and-do-konca-bow-eliminated-spirit-prevail-at-1win-essence-iii-playoffs",
+    "https://www.hotspawn.com/league-of-legends/news/league-of-legends-new-dawn-2027",
+    "https://www.hotspawn.com/league-of-legends/news/dignitas-hiatus-optic-gaming-lcs",
+    "https://www.hotspawn.com/valorant/news/sentinels-2027-keiko-canezerra"
   ],
   "title_hashes": [
-    "bd4242e971b1eaff60f5a1be5f3b25c7",
-    "70fd9e263375ba200a6e0b592d6e11c4",
-    "06930505326c776a827d41a569293a6f",
-    "8d6de09ab36731bfa725f1d1e17cca01",
-    "b672c137fc027ae4a0b147b3e74de357",
-    "f5ec11b95993b6107e83f88c7f7db644",
     "52d98d40a5cac62cb4f88d2fed125da9",
     "c79220f111c80067472fb192d263f53b",
     "e9eb6b91f74c64ea7f837d6e6f22203d",
@@ -16001,7 +15995,13 @@
     "053b2e7c727fc954100db91f083e19fa",
     "234d8f26a03aceb29522c9d57e2c525b",
     "36279447a543070162f84b2eac30150c",
-    "aa3b289c48fc8fe8c74ecafdb48cc1ff"
+    "aa3b289c48fc8fe8c74ecafdb48cc1ff",
+    "d696164fefeddb47eb787946a4240218",
+    "81dc686eb2b0f5a1ba6930c0e1d31f91",
+    "7eb50bdd5d95ba99453cb697c581fad8",
+    "bb58afa358508725118de340ded047ac",
+    "2baddcddafcfdc2025a1c7c0dc31ac2a",
+    "10c24070e985cce0e6ec04a35f1574ca"
   ],
   "transfers": {
     "pages": {
@@ -21200,6 +21200,26 @@
     {
       "t": "2 2026 all blast danils evp evps headline list penultimate rivals season stars two year",
       "ts": 1794875645.9958818
+    },
+    {
+      "t": "15 2 announced bungie compa connected december destiny discontinuing down extension features has including its messages messaging net official private services several shutting that twitch will",
+      "ts": 1794875651.0838108
+    },
+    {
+      "t": "1win bid bow competitors day eliminated ended essence farewell first gamerlegion had has here iii just konca meaningful missed playoffs prevail secured spirit spot teams three top two what while you",
+      "ts": 1794875654.692062
+    },
+    {
+      "t": "2026 2027 but community dawn details during everyone final finally first following games given has iron league legends like look more new released riot starting taste teaser way what will worlds",
+      "ts": 1794875658.1670074
+    },
+    {
+      "t": "2027 announced announces besides dig dignitas distancing gaming hiatus itself lcs league media operate optic organization partnership place slot social take their they through will",
+      "ts": 1794875661.646777
+    },
+    {
+      "t": "2027 8220 8221 americas brawk british brock canezerra complete field final georgio join keiko lineup piece player rebuilt roster sanassy season sentinels set signings vct would",
+      "ts": 1794875665.1651893
     }
   ]
 }
