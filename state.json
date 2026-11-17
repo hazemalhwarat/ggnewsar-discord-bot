@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27579/gray-zone-warfare-enters-alpha-with-free-rogue-ops-update-on-pc",
-    "https://www.invenglobal.com/articles/27578/epic-games-announces-2026-epic-ai-megajam-with-up-to-50000-in-grants",
-    "https://www.invenglobal.com/articles/27577/saint-dreams-of-swapping-jerseys-with-faker-i-want-to-face-lck-mids-and-absorb-their-strengths",
-    "https://www.invenglobal.com/articles/27576/dead-by-daylight-gives-first-look-at-terrifiers-art-the-clown-ptb-on-october-27th",
-    "https://www.invenglobal.com/articles/27575/g2-hans-sama-coach-perkz-someone-who-radiates-great-energy",
-    "https://www.invenglobal.com/articles/27574/assassins-creed-black-flag-resynced-is-getting-new-game-next-week",
     "https://www.hltv.org/news/45779/nin9-i-had-that-confidence-in-me-that-i-could-be-the-piece-they-needed-to-win-games",
     "https://www.hltv.org/news/45778/xenn-we-need-to-reset-mentally-because-this-was-damage-basically-it-was-a-huge-loss-for-us",
     "https://thegamehaus.com/fantasy-football/fantasy-football-week-7-running-back-rankings/2026/10/22/",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/new-gta-6-screenshots-showcase-intense-weather-systems/",
     "https://insider-gaming.com/league-of-legends-returns-esports-world-cup-2027/",
     "https://insider-gaming.com/nyt-connections-hints-solutions-november-17-1255/",
-    "https://insider-gaming.com/optic-gaming-replaces-dignitas-lcs-2027/"
+    "https://insider-gaming.com/optic-gaming-replaces-dignitas-lcs-2027/",
+    "https://insider-gaming.com/riot-meddler-confirms-lol-new-dawn-will-have-runes/",
+    "https://insider-gaming.com/nba-2k-season-3-brings-in-vice-city/",
+    "https://insider-gaming.com/fable-bowerstone-map-revealed/",
+    "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
+    "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
+    "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2"
   ],
   "title_hashes": [
-    "83fbaf5a58164f1f44926e343c985599",
-    "5d8f164c4d49fb1d7ff202b0fd0b627f",
-    "1a5e72916257a55fd438e71c753d1aff",
-    "3d4e9e577662e9c9059d4f4cb2fa71e6",
-    "eff59f7eff9ab46f1b60bce57c807137",
-    "6708a48f16d335a5bdf92ae031ce61bc",
     "bd4242e971b1eaff60f5a1be5f3b25c7",
     "70fd9e263375ba200a6e0b592d6e11c4",
     "06930505326c776a827d41a569293a6f",
@@ -16001,7 +15995,13 @@
     "a8c85e6873e28d865eca8abc74457bff",
     "63ce89c18f3c1673b1281e61824454de",
     "d26cdfaea696dd366ded886321c5cfdc",
-    "4b99ac17696f190ca438ca95bacad8f8"
+    "4b99ac17696f190ca438ca95bacad8f8",
+    "ae4e7036e6eb8f6e255c1c00e756944b",
+    "d15d8b37c94e6cf92d3cc2caae62809d",
+    "053b2e7c727fc954100db91f083e19fa",
+    "234d8f26a03aceb29522c9d57e2c525b",
+    "36279447a543070162f84b2eac30150c",
+    "aa3b289c48fc8fe8c74ecafdb48cc1ff"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,26 @@
     {
       "t": "2027 after appeared dignitas first games gaming has help insider lcs league legends optic post replaces returned riot spot taking",
       "ts": 1794875626.9595964
+    },
+    {
+      "t": "appeared changing confirms dawn down engine first has have insider lol meddler moved new post removing riot rumors runes shut that update will",
+      "ts": 1794875632.0977397
+    },
+    {
+      "t": "2027 25th anniversary appeared bowerstone can fable fans february first insider magazine map new now post reboot releasing revealed view xbox",
+      "ts": 1794875635.5774748
+    },
+    {
+      "t": "22nd awards community favorites listening nominate nominations november open people populi until voice vox your",
+      "ts": 1794875639.0238934
+    },
+    {
+      "t": "after announce astralis dane departure jabbi leaves organization service three years",
+      "ts": 1794875642.4651077
+    },
+    {
+      "t": "2 2026 all blast danils evp evps headline list penultimate rivals season stars two year",
+      "ts": 1794875645.9958818
     }
   ]
 }
