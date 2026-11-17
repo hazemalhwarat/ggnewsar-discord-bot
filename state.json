@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmlTQmRzQ1BmVm54OWRoQzY4ZUc4c3pUR0ZfRzVtdVg1TVZncGszWngwNDFSRGstY1I1QThUdXZCaDR5TExkeHBsOHYwYVAyTlV6cy16X2xVWlk1LTYyZkNuX1FBZlFNeG1XZ29QV3FEdnJJODlLTnNNUmRCUnFqZFlNRHNsMU5pSDhsanRwRzBnYWR3ZVh3dXFkX3FFam8?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fTzQzSzJSSUJEbGVtZ0loSVk0WFVJTjJHd0FUYWZQXzJtbExpRFNJLVpRdnJhNm4xa1FXanNRQ2ZicUdZcDRGWWhIZEhaWkxmb2NDakdyMFF1RTZ2S3ZwNFFJdVh3SmNxcDlfaVlpTmpYdWNzdmc?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXNfUHpMVE44dFJGcmZmemRrZlM5cHhxcUwwejM0R3RVMk1wTGZsU3VYTUdJRGdOVTVxQ0lNb3BaSmp0Xzhya3AzMTkxT3A2VV9mZ0J3RldqUzhYazJEajRYQU9QdWxadm4zSmFmemhlYW5MYnV1cEZwcGxkLVgzUHJXYlpFSXBoYmtSdVpUaTV2UDJydXJiWmZxdXZwU3hCUGt3ZENTVUNPQkxqVGc?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwVFlyRGJUckZlUDhicmp4TzV2eEhXOGFPWW80aVZnbXljYjVUdlFwNTh5bnZuWHJBS0c5RGJFRWhjeGVESTdtRHhrcThuVVZzVTZqdkxWcjBjMERNYmd0czViX3JxWmRpSGlGbDI1NVFnTUlKMnU5Y1NWMFo0YU0?oc=5",
-    "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus",
     "https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdk1NLWIyRF9qMm9BTFctOHU2bFJCcThVUlJmeEFnRWQtRG9yeEQ3Y1lpQk1lSndvM1VwVTlXTGVxM1JSLWl2MjNQYzkwQ2Exblh1dXpuREFzZi00MHVxbU5jZDVHdTVIb3B6SjV4Sm9PRFZlYXlzQUxpMlhKNzhWNlFWYS1NTTNjNjdGQmdnVThxZDQ4N1RCRkNnemdpdFMtSmVKQjlsQXFpQ0xiZ1l6UHE0c25vdEhOdTNveUVydjFVRjQ?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUG92ZWFtc3M0LUZSZnIyVEtsQ2hoWG45NEMzQjQzWVp1YWNhOC1meDJqSFFYUUZRSHFPc3VOOEhsa1gwSXdpZ0g1N2o2QUplb2pQTHZxY3dVQW5QaWNpLUZBcFZWSUhsSVpNOXI0TE04N25OM0I5MkZrX18?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.hotspawn.com/valorant/news/crws-full-sense-2027",
     "https://esportsradar.gg/stake-and-starladder-extend-cs2-partnership-into-2027-with-six-event-belgrade-lan-series/",
     "https://esportsradar.gg/optic-gaming-returns-to-the-lcs-in-2027-as-a-partner-team-replacing-dignitas/",
-    "https://esportsradar.gg/efg-signs-three-year-deal-to-anchor-iem-in-beijing-through-2028/"
+    "https://esportsradar.gg/efg-signs-three-year-deal-to-anchor-iem-in-beijing-through-2028/",
+    "https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-third-of-its-staff-following-development-difficulties-with-xcom-sequel",
+    "https://www.gamesindustry.biz/meet-the-company-that-finds-chinese-game-developers-to-work-on-western-ip",
+    "https://www.gamesindustry.biz/uk-tribunal-dismisses-2bn-playstation-class-action-suit-which-alleged-unfair-pricing-over-30-cut-on-playstation-store",
+    "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free",
+    "https://www.gamesindustry.biz/tanuki-pons-summer-is-hoping-to-be-a-lovely-little-underdog-between-ocarina-of-time-and-gta-6"
   ],
   "title_hashes": [
-    "b29c932bd1a7176338fb62e23656cc69",
-    "64afbc37f01742bc9c6276cc8b926d16",
-    "5feb1de99e801529b22e7b18cbd004fb",
-    "0d74848924b59c79be8b331096a31f2f",
-    "2c94fd251c90575fb1b4e3db14f581f5",
     "b0a820011e6febbb70ac75c2a5cd6ebf",
     "e68a1b7feee447a510af08bb6f515795",
     "86cc090555fab3bbcc1c71f31251a298",
@@ -16001,7 +15996,12 @@
     "f990d0fa20788e3035c54bbb9a116dd6",
     "904dce54f37c01cfe969ab10922c5362",
     "5e0e78e8039b829227abf202b66aa87b",
-    "93f4615b940362671903c10613c68990"
+    "93f4615b940362671903c10613c68990",
+    "900968aed2ca528ca691395825122255",
+    "af9d8c2d3a353daad43e882b97b4e496",
+    "dd18044081fa25e1d7413ebb3a8b8b1f",
+    "99b055714b622845fd5432ed67d3339d",
+    "e3f75fe47a6bbef6647ead4d51d96068"
   ],
   "transfers": {
     "pages": {
@@ -21268,6 +21268,26 @@
     {
       "t": "2028 agreement anchor association beijing cooperation deal development efg esl esports establishing extreme faceit framework group has iem industry intel masters operator signed signs three through tournament year",
       "ts": 1794937771.9181776
+    },
+    {
+      "t": "30 60 behind bloomberg civilization dev firaxis franchises head heather its jason laying lays off old people report reported schreier staff studio third totalling xcom year",
+      "ts": 1794937777.1043823
+    },
+    {
+      "t": "amc american anne announced behind chinese company dead developers digital earlier finds firm game games global licensing media meet month partnership rice series strategic such television that this walking western which work yodo1",
+      "ts": 1794937780.5573962
+    },
+    {
+      "t": "2bn 30 action alleged alleging authorities been behaviour class competition cut dismissed dismisses engaged fixing followin games has lawsuit long monopolistic over playstation price pricing running sony store suit that tribunal unfair which",
+      "ts": 1794937784.173356
+    },
+    {
+      "t": "bring convert creator developers devs existing free games has its launched launches lets more new platform program read roblox that",
+      "ts": 1794937788.599918
+    },
+    {
+      "t": "6 between debut denkiworks fled gta have hoping little lovely middle most ocarina opted period pon release remake right rolling summer tanuki their this time title titles underdog week while",
+      "ts": 1794937792.097967
     }
   ]
 }
