@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27589/korean-edition-of-official-league-of-legends-music-collectors-book-headliners-unveiled-on-oct-23",
-    "https://www.invenglobal.com/articles/27588/webzen-hosts-r2spect-festival-for-r2-20th-anniversary",
-    "https://www.invenglobal.com/articles/27587/cult-of-the-lamb-launches-on-nintendo-switch-2",
-    "https://www.invenglobal.com/articles/27585/belkin-operates-product-experience-booth-at-disney-run-2026",
-    "https://www.invenglobal.com/articles/27584/tbh-task-bar-hero-launches-halloween-update",
     "https://www.invenglobal.com/articles/27586/micronics-launches-classic-ii-ev-80plus-gold-atx31-series",
     "https://esports-news.co.uk/2026/10/23/nova-esports-recover-from-map-1-loss-to-beat-any-questions-gaming-2-1/",
     "https://esportsinsider.com/2026/10/mibr-gc-beat-fennel-female-to-win-game-changers-championship-playoff-opener",
@@ -7999,14 +7994,14 @@
     "https://esports-news.co.uk/2026/11/17/inner-circle-x-insanity-edge-froglings-in-51-minute-dreamleague-division-2-decider/",
     "https://www.vlr.gg/791594/back-in-the-booth-full-sense-signs-crws-as-head-coach",
     "https://www.vlr.gg/791589/eternal-fire-brings-back-krostaly-in-fut-centric-rebuild",
-    "https://www.vlr.gg/791580/sen-citys-worst-kept-secret-is-out-keiko-joins-sentinels"
+    "https://www.vlr.gg/791580/sen-citys-worst-kept-secret-is-out-keiko-joins-sentinels",
+    "https://www.vlr.gg/791572/jd-gaming-brings-in-glacier-from-wolves",
+    "https://gameriv.com/sony-releases-another-ps5-security-update-amid-fresh-jailbreak-claims-ahead-of-gta-6/",
+    "https://gameriv.com/arc-raiders-update-2-6-0-patch-notes/",
+    "https://gameriv.com/fortnite-hotfix-buffs-devil-fruits-nerfs-usopps-slingshot-and-increases-exotic-weapon-spawn-rates/",
+    "https://gameriv.com/the-game-awards-2026-nominations/"
   ],
   "title_hashes": [
-    "e3f470cb56a2c7c0ec1bc5c2bd948703",
-    "ee2f9a78a8b646561abf7c2d0bad1901",
-    "48506124bb4420399b91f0092396610d",
-    "05afad7b7b5f0b54bf01989c086b785d",
-    "2b781b4e4b77182744823c7ad917a39d",
     "2c6d0123498c10693df9924f5d29be72",
     "c6365ffd43be68e6c1565ee671f105b8",
     "f9329740445e20ad974c806c6deaffcc",
@@ -16001,7 +15996,12 @@
     "ab7c14e9041621897871912be545c819",
     "6e2f094aaf4e699485fc00124e64c358",
     "993c28f2538f2b1e7a5cfc3339721304",
-    "4eb04a6a926f53880496fccf5efad55a"
+    "4eb04a6a926f53880496fccf5efad55a",
+    "a3ac6df9ede4ccc3bb59cbc20589e37b",
+    "479ba3240789e4db54a1f2570360eddb",
+    "3b8bf0c044d74d5b28e39a728164c00c",
+    "142c89cadc86a875ed83c16486391747",
+    "637635ece4f3552e6c7190e4bdb96393"
   ],
   "transfers": {
     "pages": {
@@ -21168,6 +21168,26 @@
     {
       "t": "bag cat city joins keiko kept officially out secret sen sentinels worst",
       "ts": 1794937675.3112018
+    },
+    {
+      "t": "after brings duelist gaming glacier jdg joins org remember wolves year young",
+      "ts": 1794937680.4949045
+    },
+    {
+      "t": "07 26 5 6 ahead amid another anticipated auto before claims days firmware fresh grand gta has highly jailbreak just launch new playstation ps5 released releases security software sony system theft two update version",
+      "ts": 1794937683.940062
+    },
+    {
+      "t": "0 17 2 2026 6 also arc bringing buff bug cold customization embark fixes gameplay has improvements latest major marks new notes november patch raiders released return returns set several snap stencils stiletto studios update weapon",
+      "ts": 1794937687.4448671
+    },
+    {
+      "t": "balance both bringing buffs changes devil epic exotic flame fortnite fruits games has hotfix increases loot major nerfs new one out piece pool rates rolled slingshot some spawn update usopp weapon weapons",
+      "ts": 1794937690.9418638
+    },
+    {
+      "t": "2026 8217 almost award awards competing coveted date game games geoff here including keighley major nominations nominees predictions preparing reveal six this time year",
+      "ts": 1794937694.4161947
     }
   ]
 }
