@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3paVWM0ZVNPQUxjUThSMjlDQ3RUcF9TQ1BPWDNaLUVXT0hNZjEyaFVkdEJudE1WUklBMGdUdGtGY2EteWZ6Y3lRMlVyNGxxcmVWYU5pZG5zVF8yZmlQT1h1T1IzY1ZoanYtUDdvSHdPR2FQUDc0Q040T0VJMHcwZmY0dS0wM1ZzOUhOZFMxZXVJN1NtRlJUYVBfLTI1T0Nwck9UN19n?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GMDVxV2NYWUV3cEU3dkhRdGlLTUw4b2hVMkFuOE56SHFPd2w0cmR3QTRlbWs0R3JwYk9HcFJrTG11U25GMC1QMS1HYUhPYUhaSUltMDFySmNwTl9ybTg0MV85U3Qyb2Fr?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0am5NbTN6X2JCVmFqV2psUno3ZGxtX1ZhYjExX0hvSjNKMU8xQ2VFbFE2MHZOcmJXUVJYQ2l5M2Q1cXJyVHBJQWpjUmtDeVB4MGhHUTdFdVZhdTZSLWVtdTBvUWlGZDY0RFM2MGpTR2pvMHh0REJhUHZyNFlYQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZkRWSGExS2R3M0FGM05ET0g2d1ZHd2pueEtEcklONmc1Xzh1NXZwLUZlTEFYOWxXNmQzcjBfMHFUVC1ta0J4Mmh0TkY0c0VSdGV2QkhVc0h6bVNuTVc4?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUX185UkNjcTlTUktEOXgyT0xBRVhOTm5hLVIzVmFpWXVUZ2dfZzFoMXJHYTFjLWY1QmFTa2o3VEZUWjZMUHFwek0temxVMi1RbktPMjMwRTVTU3dXNmpNNktOZXl2ZzNPU1QwNzVKZXBYQ2FBNHdZeGpub0w?oc=5",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SblVGZjVTZ20xVHBPZlplUzNCdmNDUXMtZVMyZXJLeldLLV9kX01BOFZtaFE1VDJfeTA4ckZJY2xDLU44S0E?oc=5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05cEFVeHZDYURGQmU3THRGelk3VXBuMkhqVFA0MDZaUUdQaWJwSnJWSEtWT0lQS1ltN3lVUjlseTJHRzU4cnpDdGFFS0otcTBtWFJoWGN5blljaW9FblBpb0t3?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42X2M0WXdpNjdwUmM2YTgzT1o0aXRsU3Z2V05UcFJVMmhpTDFLQWhaSFdCdGxKdjQ4YnpOVUZoTHAzLWZwT3hVWXVyVkRKWFlFNGRfcl95elBuQUE?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28674/optic-joins-the-lcs-as-a-partner-team-for-2027-dignitas-steps-away",
     "https://www.invenglobal.com/articles/28678/bnk-fearx-part-ways-with-clear-raptor-taeyoon-and-kellin",
     "https://www.invenglobal.com/articles/28669/tomb-raider-documentary-celebrates-30-years-at-derby-fan-event",
-    "https://www.invenglobal.com/articles/28668/faze-esports-sweeps-darkzero-to-win-the-blast-r6-osaka-major"
+    "https://www.invenglobal.com/articles/28668/faze-esports-sweeps-darkzero-to-win-the-blast-r6-osaka-major",
+    "https://www.invenglobal.com/articles/28667/gta-6-hacker-arion-kurtaj-pleads-guilty-to-rockstar-games-breach",
+    "https://www.invenglobal.com/articles/28666/jensen-huang-discusses-return-as-nvidia-ceo-ft-reports",
+    "https://www.invenglobal.com/articles/28665/grammys-2027-007-first-light-ghost-of-y%C5%8Dtei-and-marvels-wolverine-up-for-best-video-game-score",
+    "https://www.invenglobal.com/articles/28664/netease-to-shut-down-harry-potter-magic-awakened-in-march-2027-as-licence-expires",
+    "https://www.invenglobal.com/articles/28675/league-of-legends-2027-season-to-start-all-players-in-iron-iv"
   ],
   "title_hashes": [
-    "cfea3ead7c954c5f8088edbdf0940fd3",
-    "52623346683ef804cf064732d9e675e7",
-    "e382c1a43f0583bc033d53372622c0e7",
-    "d017777f7564426f638591607a16d140",
-    "da55bf4f117bf893eb00613b3ca80dde",
     "c4cdca0d7582f73789d944635c33fac9",
     "c6a15cfaef0daf91e04750190a6948b9",
     "54924187afdbbeb429f98438044ce509",
@@ -16001,7 +15996,12 @@
     "7ccd08d46d0a1021d2761e6b1dc670a2",
     "a9f0c91067e1c9ffc4ce736c9ec1583c",
     "0c2773b022bf15159d340ca68d435766",
-    "fc61c88bf2c44200d28d477a5e263b14"
+    "fc61c88bf2c44200d28d477a5e263b14",
+    "aa4c8803a00b80e128cb7471a87a4a7b",
+    "a1e6152e93835e7d4d9acc98c5691307",
+    "8bd6da1a363018c5c87d7ff85992b537",
+    "10d421934852cfaa20dfbaf8a0df1fa4",
+    "d217ace47ab63168443dbe6bc7e30972"
   ],
   "transfers": {
     "pages": {
@@ -21100,6 +21100,26 @@
     {
       "t": "2026 3 after beating blast darkzero esports faze has major osaka r6 sweeps win won",
       "ts": 1794875549.4112415
+    },
+    {
+      "t": "2022 6 90 arion auto before breach clips cyberattacks days games grand gta guilty hack hacker just kurtaj lapsus leaked monday other pleaded pleads rockstar string theft three who",
+      "ts": 1794875554.78067
+    },
+    {
+      "t": "after ceo close company confidants days discussed discusses financial founded has huang jensen nvidia reported reports resigning return returning times",
+      "ts": 1794875558.2882955
+    },
+    {
+      "t": "007 20 2027 ashes avatar best company first five frontiers game games ghost grammys light marvel nominees pandora score soundtrack star video wars wolverine yōtei zero",
+      "ts": 1794875561.753346
+    },
+    {
+      "t": "2027 3rd about agreement awakened down expire expires game harry its licence magic march netease potter saying shut studio will",
+      "ts": 1794875565.2492647
+    },
+    {
+      "t": "17th 2027 all announced event every games iron january league legends lol new part player players rank ranked reset riot rush season start that visual will",
+      "ts": 1794875568.7428145
     }
   ]
 }
