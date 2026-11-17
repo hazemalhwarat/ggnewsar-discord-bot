@@ -1,19 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27599/wo-long-2-wings-of-ember-to-get-stronger-martial-arts-after-alpha-demo-feedback",
-    "https://www.invenglobal.com/articles/27598/herrscher-of-time-arrives-honkai-impact-3rd-releases-version-91-newly-shining-time-update",
-    "https://www.invenglobal.com/articles/27597/lol-based-tcg-riftbound-releases-three-limited-editions-featuring-kda-worlds-and-t1",
-    "https://www.invenglobal.com/articles/27595/legend-of-mir-2-red-knight-hosts-1st-anniversary-event",
-    "https://www.invenglobal.com/articles/27596/reel-fishing-days-of-summer-releases-nintendo-switch-2-edition",
-    "https://gameriv.com/valve-developer-mentions-hlx-rumored-half-life-3-codename-during-public-panel/",
-    "https://www.hotspawn.com/league-of-legends/news/los-duduhh-worlds-2026-interview",
-    "https://www.hotspawn.com/league-of-legends/news/los-zest-this-team-feels-like-friends-and-family",
-    "https://www.hotspawn.com/league-of-legends/news/lyon-saint-worlds-2026-interview",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hQm4zQVhHanAyTFRadjF0U1JjT0RoZ2ZvUjlHTHc3MEdGaXBvTkpiWDljMTdPVjJrcW1JUmU3X3B5WkpZZkZGMXRBb1ZXWC1MSjFUcFJxZ3RteGtQcEpYY1JJS203Q19rUFdkalNHQ2lNYk42YW5jVHhn?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVk4zT1lMTHNWeXQ3S3RpR1daTGE0TF9VZG5rN1M2UF9CTXlBLXdNaEtKa3VKZUF4WjJOdE9uZUhBLTkwUE92T3ZIbEFEYkhIaE5CNzU3X3N5WThZX05rajZzV2Q3NHJPcm56RHJYMFl5N2xpbERSVVhka3JsWC1RN1pfazlxOHc?oc=5",
-    "https://www.talkesport.com/guides/fc-27-season-2-fc-heritage-pass-rewards/",
-    "https://www.talkesport.com/mobile-gaming/quordle-answers-today-hints-october-23-2026/",
-    "https://www.talkesport.com/guides/play-modern-warfare-4-multiplayer-early/",
     "https://www.talkesport.com/news/cs2/cs2-october-22-update-map-scripting-hostages-gamerules/",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSHlxNnBmdXotSXRXN2xnYnFCN2Voc3J1dnRRV09QVzc5djFaTURTN1ZfRkJkam1CcUpxWmQ5ekRDNzhIeW9BeFl6NkY0UFFBRUJiUUVZcV9za1pGdXh0M3V3NkZXNWxfNEstMlNORkVoekRoQ3VYR2Jwcmt2dEJOMnFxZmhVeUhwS0hn?oc=5",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ta0RMVWJzb2NlTHpIRFFvXzBGaXVpYXFlbjgxUEhySGlIckh0NkdOYWRJZTN2a1FEUkNJYnRHaENHcHlDNWhuQjJzY2dMc3pkQ3dzWjNPR2hlSlE0V2hwTk4xNG1XcE9lSk10bThScHdGWkda?oc=5",
@@ -7999,23 +7985,23 @@
     "https://www.talkesport.com/editorials/microsoft-365-outage-cost-9-billion-who-paid/",
     "https://www.talkesport.com/business/megaspeed-commerce-doj-joint-statement-nvidia-no-sell-list/",
     "https://www.talkesport.com/streaming/youtube-public-view-counts-co-views-tv/",
-    "https://www.talkesport.com/mobile-gaming/bgmi/pmgc-2026-team-souls-international-tournament-history-and-past-results/"
+    "https://www.talkesport.com/mobile-gaming/bgmi/pmgc-2026-team-souls-international-tournament-history-and-past-results/",
+    "https://www.talkesport.com/business/jensen-huang-legacy-nvidia-cuda-mellanox-bets/",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTEkwN2N3bk5ETHpmbXljQjhHQTVuaU9XZGQ4Z3N1QXpEU1hwelJCamhpRkNsbGJpdkRKTXBLZmlRcW0yQmM2SE1Fb0pCdWFDbzdnVWlYZGRuSURmSDFjc3BfLVNlMHVfLUlCVWswYXNzQzRLaDN4RTRDbVNOMGtlM1F5cnRoMzMwQzVBRmI1YjVQMkRzSVUzU2taVzZ0SnVJaTcxOEFJZk05VHNXUy1oNFdCT1dZZV9Ldm01ZlQwT1ZFcGt3Sl91bTdSUFAzRlJZ?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmx5aFFObXpGa09Vb2tyWUJFTVEwQTE4a09rNUV3aS14eEJQeVh6b3BFbmluN1liQ0k4aEt5MU1IMXNTaWF2eC1qTGxSalpUUklva2lMWEZ5aldqajJ1WXVZVngzWXJOSjFYMVFFRlBYZV9vSnpyUkU5aExEdDVuMW0zVTBPbzhXZWxlT0FWa29YQTQ1d1Z6Ym9zc3pPZUhCSGtfMzc1dUVfUGpxMl9jMDhRcVJkTmhGX3RTbmxPeV9vc1BjeC1xRXNSdFFuYXNxbWdRWA?oc=5",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWTBXeXY4OTRLUTE1WncxdERJRUU5bjR1M3dJelM4VVdyWlFCYWhZeTkzM3ItS2xLYWN3SE05UmIyTzg1c1BTaHZxVnBqUjRwNWJBRF93cjBZSlZtV1dDNEdjaEM2cHFycTc5YjlOdFo2dFJuMHBPUThlTUVfNzluMzByS3FmR3I2emZfRzNEbC1TQWpsZkRQa01aZDVMZmViMnp3NHdLNkVfbVAtMHJjYldfZ2Rfei1wcmROTTRyeFE5TVB3SFJMdEpQa0J3T0Y1a2g0?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVWVWc1JKQUFhazVJaGtPd2dJSEgtMjZIY2lfUTZlRnQ4R3lxQkdCcUVfSm9Xa2dXLUN0c1E0d0dnbkJSMllITDJVWVh4eDZnc0RpZjVvSHRWMS1DanFtSmxwVE03X1N4Tk1KVmVieHM1bU1wMHNBMkZFb0dsN2RBTi1JNkdWY2w0S1doS0VtVW5mb3RuMkFWVEJURnA4aXN0cThQaVJsM0g?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUExUnV0Y3A5SHB4SjZWb3hSSk93N3R6RHJ6bkJLNFpBTHVOWm5NVUNMejM3ekJMZUlXa3dwWWk0Q2tVNVAtMFB5MGROeXRHWUItRW04U0FBb01PZEF1cy1jYVFjSk5mRVBoWkdrYmVJUTVxb3prRi1vWXhVYUgzMFVoODdQMzJpbEtLUjVCQldsX1lBY01tNzJXNWJjeVBfLWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05cEFVeHZDYURGQmU3THRGelk3VXBuMkhqVFA0MDZaUUdQaWJwSnJWSEtWT0lQS1ltN3lVUjlseTJHRzU4cnpDdGFFS0otcTBtWFJoWGN5blljaW9FblBpb0t3?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LQmg3cl9VXzFwTnNXNTY1Ty01TEdFSkFwZXFOaWV3S0VrSjJZTEJqTEpJVkZJZFFfNmloVDhWaThZV29NUVU5LUFSTkdmX01ndDBWak5yMU5SWGZsbkZXT3pZUWxVeEpzNXdRdmJybjJuVDRT?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KSDM2Ung4azFSbUZfQkc3c25kOXJibVlYUTNOUkF4QUlrT3NoVEpHYm93clU0OGZkSEVBX29kMWVlRF9CX3YzemtPOEstQ25PYWI4?oc=5",
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1naXdlYkFTdGZ0UGNBdUlmbUMyLXp1UE9aQ2N6NkUxeVg1ZTEza2c2VWNDQV9yWGFaM2ZYTEpYV1JlenNRMFJZOXVn?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUE0Y1d3b1VsdFM3WmJDcnNSWDZKOU5XcmtRR2N6b21mU25iQnNYR2x5N1pXeDRNRTFtb3ctdUVFOHZ6dHJQRnJRbi1yVThscGR6OGhaVHdwZERHV1RTak96aFY0QkxMZGZUMFkzd0Nrck53SjRERzdnblhnZU1xcVhIVTBEZXNuMUQ1dk02MzFLbmNFaVNjejF2V2pXbWtsb1ZaUC1sV2RXVzctbVBZQ3lBMA?oc=5",
+    "https://europeangaming.eu/portal/marketing-affiliates/2026/11/17/218115/flowspredicts-loyalty-prediction-markets-launch/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/17/218106/safer-gambling-week-2026-deposit-limits-ohid/",
+    "https://europeangaming.eu/portal/press-release/2026/11/17/218100/kendoo-softgamings-partnership-aggregator/"
   ],
   "title_hashes": [
-    "696e39fb836ba812a7307d2017b81659",
-    "de1e87931ad9b44c63e0b4e3f23bcc44",
-    "4a79a97c2d3aa8e667678546766c929f",
-    "45edb084c7e545a7d6babb6b64e6d9c0",
-    "f003a7008f4641e4a73527e8e459c247",
-    "93525bd0c5d324a220de35b0a9a05a57",
-    "5164d1329013d99b5a721c5e4f2518af",
-    "ae7d65a68025ce28bfe425c7abe9cfed",
-    "f86c187f100f63f459d02aacec6950d9",
-    "dee40ebdc35eecbb5096e64433d031b3",
-    "41dc906859879f83c70bd05dd0917912",
-    "07079f87255ba7c04f883b5732ca975b",
-    "9a84b5c7c27b21d7fe6640c4c69a2ab5",
-    "015be5a9e55ccd7040157ae7183c2dd9",
     "767a6d053fb4e1003121931609900129",
     "b10860d8bd134a24df6aed4f8a908171",
     "25d15c9dd0b9b0a51ca3cd9b7db780d1",
@@ -16001,7 +15987,21 @@
     "4c4028ca6363ef541d8cc2f4fa4bedd6",
     "694dc50b8fbe0308a70763f8cd964bc5",
     "2d556fe51ba852fe589f233a866af782",
-    "5867dd21bc04e2773331fd373839137b"
+    "5867dd21bc04e2773331fd373839137b",
+    "5868302ed03d5850f5fa30a13f74e3f1",
+    "9b18a3797d9895a0034e91b4fe74e355",
+    "b70267b801ceb3704df39dad8c14e2e5",
+    "ca5883dd2f58bdf2768a088296dc815b",
+    "60e9c43acd3ada6cd7506a1c9ec5c073",
+    "65b3566c41804d2ff22262c70c369a15",
+    "799855594adc0f2bd7302c69d3234b5a",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "8df358eebbbb64bf19235a902db73505",
+    "16310a34aa2e153c875b85ccf7bff873",
+    "18b7bf130a9d4ff392a4eb2710a9d06a",
+    "6e2b08a89e7f1a063e30c62cd973499b",
+    "26fc0ff0830fd887285f7ddf013e4835",
+    "c7594c94ff2121b90dee08c42ba9507e"
   ],
   "transfers": {
     "pages": {
@@ -21284,6 +21284,26 @@
     {
       "t": "2026 26 championship global history however india international istanbul notably november only past pmgc represent representative results set soul starting team this tournament turkey",
       "ts": 1794903916.2808557
+    },
+    {
+      "t": "5 97 behind bets business centre cuda data failed how huang into jensen mellanox million nvidia one post sid side sideline that trillion turned",
+      "ts": 1794903921.6311667
+    },
+    {
+      "t": "2026 com event live nbsp now page pubg pubgesports united",
+      "ts": 1794903925.646539
+    },
+    {
+      "t": "8230 active appeared behind exchanges fir flows flowspredicts give keep launches loyalty market markets once post prediction system team traders wants way",
+      "ts": 1794903929.1668587
+    },
+    {
+      "t": "821 8230 behind body campaign decade deposit edition first gambling industry its limits million one over player players post reaches record run safer set tenth tools trade use week while",
+      "ts": 1794903932.5598326
+    },
+    {
+      "t": "8217 8230 adds aggregator casino catalogue clients deal front games isle its jackpot kendoo led man operator post puts slot slots softgamings studio through",
+      "ts": 1794903936.0569685
     }
   ]
 }
