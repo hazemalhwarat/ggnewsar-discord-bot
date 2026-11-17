@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sNjdRS3F2Z2NPMTUyMjU1Zl9maE9TQUJJN3lHYWh1aXJOdnpzT1llNVpBNW5ZQVRNcmVFRDR1ZGhUeFZheFhDVXYwbm1yOUVjaE1fZUhGQ0dZNm9YQldmcEtrODdFSG1qQy1fOUdpNDItMGhua3VTS1pER0h6UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTV6c2I4WjF6Nzh0RXh3YWcxRmoycUgyMFAxOXd1MlVicVRzdFRDa0duSzJDRWpSWUt0aUlycUtxTmozU0RMQXdic1Z4N1NyejJzeDAtVEZpa3NoSUkwQlBhUnB5TkNJdVdQejJTVUxsMUxleTZ4cVpKM0NrbGl1TFh2LXpfQ1VOOW50ZExscXlfRzdC?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmp2eXRxVWZUa0NHR2dBbzBVbmU2Q1V4Nl96TG9saHR3MS1lOHBwOEhfekhnQWxiaDRiVnpjTHpWajVLVTJYUDgtN0ItVmpFV21wWDlObC15d08zYkpRTE1LLXRObjhfLTkxWVJxODlKRTlkdk0td2ZralZrdjZSbUZCRDQyZ1JQRzB1S2ZJY2hfUDhTXzk4RnY2TlFwdmNhbDJMWDhpMTFtXzVkMnk5T0JnQkkwUjBaWEHSAboBQVVfeXFMTVJqdnl0cVVmVGtDR0dnQW8wVW5lNkNVeDZfekxvbGh0dzEtZThwcDhIX3pIZ0FsYmg0YlZ6Y0x6Vmo1S1UyWFA4LTdCLVZqRVdtcFg5TmwteXdPM2JKUUxNSy10Tm44Xy05MVlScTg5SkU5ZHZNLXdma2pWa3Y2Um1GQkQ0MmdSUEcwdUtmSWNoX1A4U185OEZ2Nk5RcHZjYWwyTFg4aTExbV81ZDJ5OU9CZ0JJMFIwWlhB?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdzdVVkNUNFZ1Sk43c2s2STJhVHktWDU3S0JVbWxMVXJuZkg5b0lOeDJaMWlTbFV4cDdRM0xIZE95RS04SFQ4Zl94QmE1WXhCWDFBejhlUnFvZGFJenNyUGpCSDl0ZW4teUpkTm45VmlVZFNaQjhJYWpzN0Y3UGkwZ1JB?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzR5bnBncFdOc29OTmtQcGpObU9Qblk0QlhPeUVlcWtuaFdYMGhVUDl1Q1doWjhxOW82eXJNZl92WUJZTDJTMks2VG9pNmVlSW51S1VRYXZQY1lIY1M0X3Z0bzVMWTFKbHBFWGZGNTRqQTA4SUtQX1l0cGJvZ1pmZnljRWQ?oc=5",
-    "https://pley.gg/cs2/co-streams-now-draw-almost-half-of-esports-viewing-as-official-broadcasts-slip/",
-    "https://pley.gg/cs2/fluxo-s-major-hopes-collapse-in-curitiba/",
-    "https://pley.gg/cs2/jijiehao-chase-a-major-miracle-on-draculan-final-day-after-beating-faze-and-knocking-out-s1mple-s-bc-game/",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2ZQQlkwSE9kUzlXMWJrUmo3WjV4V18ycWgzaEdGYnRMamxhWjR4alh1b3lIZ0l3cmQ0WmtEdXpnajNtMmd6Tk10WmNLZmRmMHVCdk1DQzU2UjJWZWVvSGhMclZhUE5zU3I2S2wxck5MZS1wbnphT1NGSHhELXBjMjFmV2d6Mk1sZFFYVGtFeWFzaENCLXhrdkEzdk5jZzUyNXNuXzVBQkJ0WmZUZzFZY2ZsTG1zbDZiWDA4TkNwWQ?oc=5",
     "https://www.invenglobal.com/articles/27634/8bitdo-brings-its-modular-ultimate-3e-xbox-controller-to-europe-for-13999",
     "https://www.invenglobal.com/articles/27633/aion-2-players-log-over-108-million-hours-in-the-games-first-18-days",
@@ -7999,16 +7991,17 @@
     "https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark",
     "https://www.gamesindustry.biz/lisbon-based-studio-bravarda-closes-down-after-failing-to-recoup-dev-costs-on-its-most-recent-title-extremely-powerful-capybaras",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Mc29JRzRFQW54UHNOS1R1U3RIaGp4V29pRDRhc2xaLTJrTzVkZDJ5T2FIUDR5ZXpDVFpsTkhrT1IySGQtYno2ZHp5TVJ6aUkteWg2U2ZfaXZSdFNnT2NlOFFyazRFejY2YllvSWJ1MVVEYUxMQk5PRW9qM08?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hanRSRE12WEtsM1ZEQXJlTU9zT2xqWDhreXlnVUdHbDFQekljVmxBSFUzOUNwbXJGMnhaYkR5WXVDV2htWThWQTZmQU1BUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hanRSRE12WEtsM1ZEQXJlTU9zT2xqWDhreXlnVUdHbDFQekljVmxBSFUzOUNwbXJGMnhaYkR5WXVDV2htWThWQTZmQU1BUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44TEY4WWVjbVNLdjdBZjhaRjdlb2NRZDJoOUZZUG9vQ3F0eXkwNTVGc3NuR3pZOWY1eGEzZmR2V28wU0taVkplYUhHRWFYQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HYXFwX3otazFPVHVkQ3d5RGdEOUphNEFjS2YwWXMtUHEwZVB3b3dQSFZlYnJFeEE3LTdnc2d0OEZGVzdaUmM4Z1RIam9kMnJqT1V0RWZEMTVzVHVXa0lLZVdpcklneEdqdFoyRHg5UGxnakZHRnc?oc=5",
+    "https://www.talkesport.com/editorials/tenz-gamble-t1-2027-roster-could-struggle/",
+    "https://www.talkesport.com/gta-6/travis-scott-gta-6-air-force-1-low-price-release-date/",
+    "https://www.talkesport.com/gta-6/gta-6-weather-channel-leonida-forecast-new-screenshots/",
+    "https://www.talkesport.com/news/valorant/jioblast-vct-south-asia-qualifier-schedule-bracket-change/",
+    "https://www.talkesport.com/business/nvidia-national-security-export-control-oversight-committee/",
+    "https://www.talkesport.com/news/cs2/techgirl-legacy-orgs-quit-cs2-majors-sticker-money/"
   ],
   "title_hashes": [
-    "65cda0bea5900eb99b39168e1acdd855",
-    "a8481e6f2837a66ee7928e5e140262ad",
-    "d312723a69e5b056ca85726699ef01cf",
-    "9a079cc47567973b075b2e7282a126d0",
-    "77f5ecb89a68515110c83457c5342d1c",
-    "e9eb6b91f74c64ea7f837d6e6f22203d",
-    "7210449248c3ccd4c1f7053c4141394e",
     "0f17a617f9af0ffbb289f07b736a791d",
     "1c9ca3e9b563aeaa16262ada83f5c89c",
     "6b7e305ae4dfc1a0bf6c226ac48cdd08",
@@ -16001,7 +15994,14 @@
     "b5cceb2b14da9f3a6344e02bf59a22ae",
     "b6f05b3a1c4464961f2f46664c6f71d0",
     "0f17a617f9af0ffbb289f07b736a791d",
-    "d32e67f39dceb2039f98e9032fb70cf7"
+    "d32e67f39dceb2039f98e9032fb70cf7",
+    "8df358eebbbb64bf19235a902db73505",
+    "9688311f84fd9c2d2bbd9a95a73c81be",
+    "f241f091be6418b2b2f5ed734c9bc160",
+    "f3aed236cce291a6f5f2363d79afda39",
+    "a23d33f559c2c07e9d75dac6446aac7b",
+    "e2ea414c6127cd9d58f10959fbb4bd42",
+    "901902b2a6d45f72ad1f9dadd6b51d11"
   ],
   "transfers": {
     "pages": {
@@ -21308,6 +21308,26 @@
     {
       "t": "2026 champion com did nbsp pgc pick pubgesports who",
       "ts": 1794937811.845368
+    },
+    {
+      "t": "2027 back but coach could crashies gamble has head hold language league missing mixed overlap pacific post project role roster sacy struggle t1 tenz title why",
+      "ts": 1794937817.0191453
+    },
+    {
+      "t": "6 8217 across channel close florida fog forecast gets got gta how its leonida mist new post real rockstar screenshots sea shows six storms swamp teases weather wild",
+      "ts": 1794937820.5228338
+    },
+    {
+      "t": "8217 asia before bracket change changed day first hosted hour jioblast last left lobbies matches minute one opens own players post qualifier say self set south teams their vct while",
+      "ts": 1794937823.9699786
+    },
+    {
+      "t": "answers board china chips committee compliance controls created creates directly directors export has its national now nvidia oversee post presses reporting sec security teams three washington",
+      "ts": 1794937827.5897622
+    },
+    {
+      "t": "changes could cs2 dries income keep legacy majors miss missing money organisations orgs out post pull quit sam squeeze sticker team techgirl that they valve warned warns wright",
+      "ts": 1794937831.0490928
     }
   ]
 }
