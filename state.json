@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/best-m4-loadout-modern-warfare-4/",
-    "https://insider-gaming.com/best-vel-46-loadout-modern-warfare-4/",
-    "https://insider-gaming.com/best-han-86-loadout-modern-warfare-4/",
-    "https://www.hltv.org/news/45775/independent-in-one-year-i-definitely-see-us-competing-consistently-at-tier-one-events",
-    "https://www.vlr.gg/779170/mibr-gc-sk-nebula-draw-first-blood-at-gcc-2026",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ISG9rSmZscmpkaUxBY3hSNDQ4cjFhZnZUMVV6LWxON2FTNkprdUt3U2V4WkVnQmRpVTdIWDU5WTdMLVNzSnVRRlp5SWtzdFJ1NE1GT1ZtLUdWY2dadXZ5RnNKLVZyWUY2bHlveHYyQU05M21FYk9xMVZvcXRVUQ?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RRlJMQTN2WlRWanM0Wm1mUzNoSXEyMTZlbmVRNEI1QTFlOXdFOG1fM2ZzY3BQRTJfWi1YZS11OC1uaGJiS3ZnanNHUGtkdzJJMDdQQW80WmEzWnBWY1lzd3gzc3ljNWp6ckVwZC1qT1hLTjJLVk91U3FMUDhBQQ?oc=5",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SVm14d3oyMFdoLWNqcnVTSEJuRkVOMmRmbVlJenBYcFQwNWwzWVM2eTZWa3VOcTdCeWhRV1BpbHFHcjVUeUhoRXFONzBsdy1XU2FTOURZRzZNQjUwcFZ5U0xUR3p2b2JMMmo0djNCVmhGcWFm?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWlGellQRjRaY3EzN0RNdnoyVFcybFpYcEFGc29EZGFOWDg1aFlkTkxrZmExZGNQRVlsbThrZVdobEl0ci1EZTd2eldHVUFkSEpaYmoxZzJ5UzV6NWtrWUR6QmVXVm8xRS1QaWtxOEZyeUtpVi04b3lWMXhiYjdRVTFoc0I?oc=5",
     "https://estnn.com/rainbow-six-siege-y11s4-operation-vital-signal/",
     "https://insider-gaming.com/the-game-awards-2026/",
-    "https://insider-gaming.com/the-game-awards-2026-all-award-nominees/"
+    "https://insider-gaming.com/the-game-awards-2026-all-award-nominees/",
+    "https://insider-gaming.com/civilization-and-xcom-studio-firaxis-lays-off-a-third-of-staff/",
+    "https://insider-gaming.com/duolingo-and-pokemon-go-crossover-event/",
+    "https://insider-gaming.com/gta-6-lucia-actress-officially-revealed-during-2026-game-awards-nominations/",
+    "https://insider-gaming.com/gta-6-the-game-awards-nominations/",
+    "https://insider-gaming.com/sentinels-completes-vct-2027-roster-with-keiko-signing/"
   ],
   "title_hashes": [
-    "c01c82321210df021087f69c89fe4f27",
-    "79c0cd9140d07e2895cb6bed68525504",
-    "749d9473f410b2824217c475d084f815",
-    "c9daa402ac602739e604c54ce09c7464",
-    "c151ef67e43a27e61f3961b59d873fb5",
     "5efacff83a22b18ab62e9b2df4a92a70",
     "c80c7d5e801ff686643a20b33710d3ec",
     "850d1d695ede7a8ff8904a779f7082ca",
@@ -16001,7 +15996,12 @@
     "eede85e24aaa59618bf762cabfe6f5a0",
     "a797630bd9ba448005cef27be30f53db",
     "f407182f4e05b52b26beaa6781543ede",
-    "9c46625bc36719daba25ae2422183a77"
+    "9c46625bc36719daba25ae2422183a77",
+    "fa9a82565e84c361de6737ad9f84513a",
+    "48ad8c88a51c7d6847525409ae5498ce",
+    "e6c50b5ea12976643d054b8e3a4dd43b",
+    "1f5b5dab3922f82ed6a560ba4d4f8adb",
+    "ab72a959def186aa33b67f540dc08394"
   ],
   "transfers": {
     "pages": {
@@ -21208,6 +21208,26 @@
     {
       "t": "10 2026 all award awards before but can check december game nominated nominees out place post set take titles",
       "ts": 1794937714.3955348
+    },
+    {
+      "t": "60 appeared around behind civilization employees firaxis first laid lays off post recenter restructure staff studio third xcom",
+      "ts": 1794937719.6281211
+    },
+    {
+      "t": "17 2026 appeared apps crossover duolingo event first insider limited november offering part partnership pokémon post rewards starting time",
+      "ts": 1794937723.093258
+    },
+    {
+      "t": "2026 6 actors actress auto awards been during finally game grand gta have jason lucia nominations officially post protagonists revealed theft two",
+      "ts": 1794937726.5966146
+    },
+    {
+      "t": "6 auto awards game grand gta has incl including massive nominations post potential received receives representing several slate theft this wins year",
+      "ts": 1794937730.0447738
+    },
+    {
+      "t": "2027 after announced british completes controller departure georgio has his its keiko nrg player post roster sanassy sentinels signing valorant vct",
+      "ts": 1794937733.6243598
     }
   ]
 }
