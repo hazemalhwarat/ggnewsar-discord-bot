@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ2lRLVJBMFZ3bkdPZ1dWQ0hzVVpDN3R5NFV2OTM1WWgyVGpGakFKYUx0VTE5TWRwX0J5OXhhOGw4T2xrb2dSNjNYZXQ1SUZRUjhPdHZybFJNd1hZbnFWY2o2YmVsOVBRNkRTM3BvMmZXeC1BYi1lbWtzUER4d1h3WGdaS3lrOW5RalRsMjE2MWhCbG0zazliaHFIUQ?oc=5",
-    "https://pley.gg/valorant/hush-valorant-broken-analysis/",
-    "https://www.invenglobal.com/articles/27581/rep-joo-jin-woo-urges-swift-action-on-game-censorship-law-constitutional-appeal",
     "https://www.invenglobal.com/articles/27580/netmarble-marks-one-year-of-raven2-with-dominions-coin-and-guild-dungeon-stage-6",
     "https://insider-gaming.com/epic-ai-megajam-50k-grants-unreal/",
     "https://insider-gaming.com/playstation-ken-kutaragi-ai-could-end-game-consoles/",
@@ -7999,12 +7996,12 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmtwcWR4N1d6dXkza0pqbVhmdGRpZmVCQzRXMVAyT1ZlZUROTVM1dmZqNVdKZHhqMlNGTlNTTzM4b0VicXA4ZXVTYkQzdnZXUlVtVHZlUHpVWl8wc2M5d1lURmotZ1JhMnVyX0gtTnA0YkVoa0JzaFdhVjF1cFZvQUhvbUZkNURMNDFxamg2dkYySmtmcXc?oc=5",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjdHpxMHM5dXBHWUJ2c1Q2VjFGVDRYX0Y1V1kxMWNXMHVjTEpxY0UwMnZRX0dSZjZRdlNkR2lxaUhISTkzYk0wSmUwUjdSV3dhdWdaWkdkZHltWGUwWFZrTUtoMlVleDlBMHR0RUln?oc=5",
     "https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks",
-    "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards"
+    "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards",
+    "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQjBWR08tcDZsb1JHNjIxY1Q3cjJBSUVwSFR5NzBYckhCLWxVUkgxSzdvOWMyWHJxVmFpRjA3TTdjdW5qUFgyNXBFeTVfaE51Y1dHaGdGYUtCWnVmTXVjVUNsdWQwQ2dnN1J0VV8tOGh5MENhWVRJdjdQVHpTLVk?oc=5",
+    "https://pley.gg/cs2/jabbi-leaves-astralis-after-three-years-and-one-lan-title/"
   ],
   "title_hashes": [
-    "64c646d03fd1ac8a0adadd202a186c01",
-    "b8cdfa22432f843186ceaeae9eedf079",
-    "1d7b3fb483e41365ee9c7a45a74488dc",
     "bc476d2fe1bb6fd10e9ddc5015a18cbc",
     "cdae0a105852052d8359ae5e8883818a",
     "e18fac1026519621c65099eedf8a2a6b",
@@ -16001,7 +15998,10 @@
     "cdae0a105852052d8359ae5e8883818a",
     "f7f1cce45005d90705a5d8fa5810a9b2",
     "c7c6f513e5fba2042865c0ec0a735138",
-    "10ee3ba98d5097e1698094e302f0cff6"
+    "10ee3ba98d5097e1698094e302f0cff6",
+    "34b70fa2c28779ab6f54e21fb03bbdd6",
+    "eab5c71aa22b7482e5b5a9b14bdc4e12",
+    "df93b71d92ef348c729775c5446abe71"
   ],
   "transfers": {
     "pages": {
@@ -21240,6 +21240,14 @@
     {
       "t": "30th academy arts award awards dice first inaugural interactive legend miyamoto more new nintendo read receive recipient sciences shigeru will",
       "ts": 1794875685.4674242
+    },
+    {
+      "t": "acquire acquires agreed assets bankrupt bankruptcy chronicles coffee estate games group has medieval more power publisher raw read related rights satisfactory stain",
+      "ts": 1794875690.793251
+    },
+    {
+      "t": "after already anlelele announced astralis before days departure eight have his jabbi lan leaves list major one pgl place play singapore three title where years",
+      "ts": 1794875694.2880218
     }
   ]
 }
