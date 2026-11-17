@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWXFYUmVHTjRXajRqUEZaZUYwQ3B2emNRd0JEQUNQS0dFYjFDYUhHS0ZsdTc3aTYyNGg1V1VJU2I2eW5GV0Vic2tUQS13RUR0LU1lUm0zVGhvdGpKZE14MF9RZEJwQXlPOE4xTnEwb2dReHIwVFk0cHVKSThnLTJxT2JoR2R2dF9wNjYzZXhKd25sdw?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FbkJsSDc3d1N4Nm1iUUdQVEwxNlBPY054MnBubzdYeExpWnlnR1RNMUl2VjVVQkgtOEhYWTRkVHhKbG1SeVdSSldmQUNIVkMybkh1blZYb2NtbzFvLUhITC1ZekRGdEtFUDhtQjJxLTBTdm1aV05z?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3F2ZzB4bEY1dXlOSUR1MERoZXhaR0FnT1RFdVJGZzJoTGlPSXQ2TnB2a1paRkxYNmxqZjBtVi02cUlNQVl1QThyUHlLb2EyVi1CNDk0ZnR5Rzh6NXNDZnhWU2pmNE5UbUtMUlBlTWVaWEV4dFN2cWl4MU5SdzdOTi02X0pwZHVhc1c3cGd0dklIMi1ZSDZz?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2VtSWd0c1FlX3NRRDZWRVVrMzJ1V2JySlhwVkpwVzBObzRENnB3Yjg3V0tLY3Rhb1ZQd3g3VHN5UlhvcWxHZy0tdERZOVZMSjlRUEgzU1R2cHNsSUFuTEtBV2tZbnNmc1FGbC1rUXl2Nkx5VllEYS1hSE1GbWk4RDg4eXd4ZDBXR01fN2FYeXU?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SemlRNnkwZ2lHcXNRcEY3RDVZZjd1NmNvdlJHQTlHN2hneTVkT3RHMHR4LVlNTTA0Qm52Ml9FVzBreGs5Z3EyOExBOXFrcExwR1ppUnNFQU9JYThyNTJXZzBVaGw5OUZ4d3lKbDBjZVJBSnUwNGRxTjBwaVo?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX0lfYUNqQzdicV9CcHhQYVE0bDBGdVpDX1VpUzNDeTl1X3FXODFtTzgxQlZucDBnUHUteDFUaXNKVEoxZjRSZ19nRGs3OExoR2dmU3ZIM19sbHhLV3ZlN2VPdXU2MWJZM244U25BZHJaVWpiRmRlOTFYdHdNMUZqVTY3WHp0Zw?oc=5",
@@ -7999,12 +7996,12 @@
     "https://pley.gg/cs2/twins-susp-and-adamb-share-a-company-pgls-major-conflict-list-shows/",
     "https://pley.gg/cs2/iem-beijing-stays-on-the-cs2-calendar-until-2028/",
     "https://pley.gg/cs2/spunj-says-he-will-never-forgive-richard-lewis-despite-apology/",
-    "https://pley.gg/cs2/striker-on-blast-vs-pgl-we-already-know-the-result-of-next-year/"
+    "https://pley.gg/cs2/striker-on-blast-vs-pgl-we-already-know-the-result-of-next-year/",
+    "https://pley.gg/cs2/furia-retake-hltvs-no-1-spot-as-kscerato-collects-a-third-mvp/",
+    "https://pley.gg/cs2/singapore-major-stickers-still-missing-a-week-before-stage-1/",
+    "https://pley.gg/valorant/sentinels-sign-keiko-to-finish-a-four-player-rebuild/"
   ],
   "title_hashes": [
-    "a04fe54bc632cd064066ebbd24c14435",
-    "4ed50bce4b7c88a6cd6ba883afcc84f3",
-    "fe3071b15caff836e58fd2d331a29972",
     "01fcddfdadd837120b1cffabe0f9255a",
     "3791359ee6d4457686ad26396145c651",
     "3caaf67cd2c743dc88bde86f8fcb311c",
@@ -16001,7 +15998,10 @@
     "b1918702efcc328f64989f8675c0f32a",
     "6b4e9905a2e218575aff596c76f2e64f",
     "da8b644018fa9fc5517d7dfd5cb6be7f",
-    "01ccecb61ef18f03650def65f464a53c"
+    "01ccecb61ef18f03650def65f464a53c",
+    "de2917a71eff46b8c4e358cbe10ef2ae",
+    "d1c6645251a9bf5113454b9edc9e190b",
+    "c2fcfa86c03101b34caaf8de7dba83d3"
   ],
   "transfers": {
     "pages": {
@@ -21408,6 +21408,18 @@
     {
       "t": "2027 already blast events four hltv know lost next overlap pgl result says six striker talks teams top tournament year",
       "ts": 1794937909.279401
+    },
+    {
+      "t": "1 152 960 after ahead collects first furia hltv hong kong kscerato lead major mouz mvp points puts ranking retake run seeding spot still third valve",
+      "ts": 1794937914.2184398
+    },
+    {
+      "t": "1 11 12 24 austin before budapest cologne copenhagen days got hub major missing november out seven shanghai singapore stage stickers still theirs three week yet",
+      "ts": 1794937917.768832
+    },
+    {
+      "t": "2026 2027 finish four have johnqt keiko leaving left lineup nrg only player rebuild season sentinels sign signed their vct",
+      "ts": 1794937921.2471375
     }
   ]
 }
