@@ -1,17 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUzNNSXJveXRpM2NXeGZiRGJQSzlNcV92UnZoeWRwMmhKQmJEZ2JKbUZfTDBtQWVNaTVveWV4MHQzV2doZGFyOTIwbGhEdG1WNmVPaktMOThhenM5eEQ4OXdtd2E1YmozaGhUWFZQZ1JNT0lYUVI0N2FRQkZGcnpSM0taZU10UmZ0cEMzN3VPQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa2tENVBqSmpMSlI4cGp4ZjcyVUFRZUR4Qk85S3BqZklnMUVIb0xMeG5rZmJON0VFTHFaWW16UjF4U0J4ZEpaTjRvSmFRcDI2bDFKeTd0aGM1bWFMTERoZUd0Rk9FZnR1bzJROWc3REpHWHZQVkhyN3djR25kclRJYkg5dUlETFFlZVppZVNiQXdsTk1wX0J3Y2dPOEU?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLUlNYXBkUzlsMVJhdzVrb29RMmRFcmNUby0zVXRvR1FYbzJwZFNrdnB2bHotUzFJVlkxT3VGaG1QYnJiS0pUcnRkTXJhaHZyT0hmVTNmb0p0T0kzTzZTSXFXOTZpTVg2UGF1LVRtdFBkWnlKcHZVQkp3RU5UVmFHc0Q3QXlCSVJaUzlieVJVMU1sR2pYZ1Fz?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWndSTW9wT0xKZ213TkZkYngtdm9ZMnZsalFNaEotRllPTFJQZW9mWXh0eEtFQ01LaWE3LUhNQk4zcWdUSFFwTDh1a0NCNjZZODRuN1BMUjQ5RXdhRmdoYU54MWtuZjZMcTAwZjd2YWxXZ3RWNHduX3J3cEJWMmNjOWJlUVdXMGU2Wnc?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR09qemVMOEVXcWlJRG5CUlZkdEk1aWs4ZmFYOG45RjJiWlNSQjE1OXJMRFFZS2tVMllmbDBqVEJKVk10WWlUUmFqUlVob3hNZXF5aU52eGJPYU1vTEtldGF0cDl5TnN1SlNZb1pLZlVldTNDcVF1bmxOMkRlOEJiT2d6X2Q3NkU?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTF9oMVM4RnBTUDFGRHY3M2Z2R3dpVXVvOGZCUV9wako3RVpnRHk2NW1sWVJmX1NKcjhrN0FhYmJQM3NCLVYwQTFWWDB1TUY5UVZZOUFxamM0MmdsSDJpWGp5b0ZCMXpJZGlSbVJ2cVlVZUdpVTZYN0E2MU42d2kwWGhTM3QyZy1nWkNteQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWlJiODVYRFIwTDAza0I5M0dtbkxEZ3NfOC1BaDVjNG5MYXZmYWJra2ZlS2VQNTRFa3VkTTRMN1BvTDZMa1UwNjZzcnZndkJBMnVJYnhyLUtoVVZfX0FBbC1tVUtWUkYtZXo4R19QTmVleG8yaUh3MWlnXzU5ME9nY2d2VE5pUXJJY2s2dktZcXQ4UFgydUtZ?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xNGIyTEMxb0h0bC02dThlOUtWTDJIZWNPX0s4RjlPSEEzT0YyTV9Yd2cyMUxiZGEyNmxqZXVGNXVkMlNrUjZ5a1pBa1h3dXViaHdRaExoU1J2Ym1ZS0MzUHFCbExOUDBNQnFZY2dCaXZ0dEJJanVlR0d1V0lmQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ21ULUppemZmWmpDTUd3WU1TcmlSd2hNdEE4TTRubHhQaFFqT19HOXlpWHVNZFhWd2RUQjJSVDNkZ1B2Ulk3Sld5Vk5LNm8xbDBXWTBvUHU2XzZ4SWplbTh2ZkkwRV96RWpsc1JYWGhnUHhYaTJpeFhBMnFtM3c1aVlVTW1PTExsbUxnOHJweGFVdw?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE9lMy01QVMyTDYybThpYmwyMFg2MWRzMUpGaUIxQzM5TUJTUDZnZWVQTU5VMGFSVlV3QmFCT1YtX0Q5SUJkUUwyOXpUcElZRVExWmR3YldrS1dPYkdrYVF1OUgzLXRONFd3R05FRW8xTEJPQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BWjBqTURodTVLclFCc05wYVltWGhFYUNEUkU2aEhIQnZBdDdGWTNwUEw0TEk4MVJWSmFCZEd1dGpOTFV0d1RpUEFlX291VDhnTkl1VVVkY0U4enh3bXpnbmo3djRiRHh2dDlWd1ZzS044SDdKQk1kOUIwNA?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFJVdnVZNzFVM3AwVnd2Um5OV19qVjBNVzBsTFE4eTRBRDF2SGtyenN0MmZQb2puQTRsNWFTNUd6cjE0QXhUaFRBRFRKbFFDTjV0TDJhalZFWHdUZmJicmVDX3hkQnJQbDZ2ZExfU0NVMTZUWE44bFRrRDJXNThWY293OHlaWGJFdE9KVElMY3RMZ0RWQVE?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUTQwN2JRMGVXME1kV0R4c2hVc2M3TUxfMGh6anNYa08tWmJucXJpUEdXdDB2UG1MV3pISFhGLUU4Vm9qdGpSVWZibGlaT2pUTTZOcmhSSm5DdG5OMGs5Q1FjeVVrdk5YbTNKYjRqX1J6NnRNa0tOSVBXazI4SzhJVDJxLTRWZ3NiM25yZ0t4OHBjSlJKM2c?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVZDbG9ndTFxMDVfYl9UOEl0T09jdGJFMXY3dGZzcmR1anMtSlpOQW1md19ZU1ZtMTZOc3JHNU8wd2ZVRDhLWm5jbTJRQ25nMG5oVzhuS09pc2g2NXctNHliWWN6aW53dFVGY0VBRFB0eEU0dy1mampRZW9qdHVVbVRFQkJLUWhMeGcwWg?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMDZTeTBhdGZmZXdsOHZZaVJJZENoaG5OYmZJY0puMHp2a1BLY1ZDT3JDNkFzaW84dzNGZmd3U1dfZDVNX1VhazVSd3dmQ1JMVWVGVlVMazJyZkVhQTBzOTlZendUSmtHTVNYQ1AzU2NGTklrVGc5Z0hwNW10QXlxdDUwSVNEZ3dUSUROYVVyZkd1eF9TcGc?oc=5",
@@ -7999,21 +7987,21 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX3FKZUFaMUQ2MU1ydDRJWjQxdUxnUEJvTWllNnBKUnlqZENRc1pjelZUbVdidHRmOTNzSEN4VGwzVlM2TE0yMTNRejBlZTd3dzJVaWhpaW5VVHFablpiZDMwLVJlVHhrR1l3M0ZUekw5NUFKT3MtanRzVnJqaHU4U1RfenpMSTVpSi1QZzdrVG05U0ljQVE?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnFkOGctaVd3VS1kU1pMUFEtV3QzUVhTMmluX1R1aG9FRVZUSF9kdDZyNnN1cFcycGplQllrQ0FwaHloZU5VWEl0d2VrZTI0TTJLRU03aGFwNWlfdGpMbS16TkI3YWcxSmlwQUZUNlFVVUJTMGkwVmVGQXZpVUhyX0VkYTZhdFFYeVNkeDR1Q3djMkxkWk1qSDBB?oc=5",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTdVTXdzNktaZzZubFJEU0I2WnhLWEtVVEhfMHMzWU1vMTdsRXJNVC1PZXI4Zmx5YkZsSmx1WXlCZ3ducF91XzBlZHZrQzg5bWNzQ1htM2pPSEtaLUN0MlpTblJDaW5yaS1SMEFGd2E5ZVVGekV3VUJPR2EwcEFRRlZ3dVlXQzVxVWRsbndpUXM3aG81NE9N?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdTU4bmtKTDJ2bGVFbXp3Tm45R0F4VFI4bkpJYkpqX1AzVDFlWU1PTlVCOVAwOEdodFY2UmNLZS1CZ2xWcV83U3Y4NXlsZzRXZTlzV1FhZUxNY3N3Nk4tWFVISFNXX0Zvelc3Z1hpMndBcnZ4YTZfSjhSbFBrUVZ1VU1pNWNLdVFYUndDcGpDLXlpSGRiMUg1a0E3YkdiUHZ0TExCeVpn?oc=5"
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdTU4bmtKTDJ2bGVFbXp3Tm45R0F4VFI4bkpJYkpqX1AzVDFlWU1PTlVCOVAwOEdodFY2UmNLZS1CZ2xWcV83U3Y4NXlsZzRXZTlzV1FhZUxNY3N3Nk4tWFVISFNXX0Zvelc3Z1hpMndBcnZ4YTZfSjhSbFBrUVZ1VU1pNWNLdVFYUndDcGpDLXlpSGRiMUg1a0E3YkdiUHZ0TExCeVpn?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNWNwRXpIT2pCektIRkVvWjBveGQ1akJfZk9TcXFLS1dJdGQ0aUVjT2oxLVVpSDlVT3BsYlhLTjJpM2V6aDJ6QWhLMlp0ZTVETERFVklBQmIyd2NMLTVDTnF1MW9jbTUyNFB3anRZZGFkQ18wcEFFME1nQjBYNXJ0aHB2VE5qVGJreUltb1NCSktETUtrVGNLNHdfdjhNQ0tSOW54UVhpMVpzU0FvVlV1ag?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa29yd1BzRU9nM1FEQnQzUDV0c3p2QkVvOEt4UWRDX1FteUxrUEMzYjBLNU5UYlVJLTZVM0RfWUtJN3RXT2JDYktfdEwxQkkxYUtxYVEwWWNsY2VBZ0YtbldzekNDYWZ3T2FjU0g4bWhsNm9OaFNReU5fS1F1RjJVX0JvTTBlWkNVdUpoVTFLZlpfQzc3M1NiT3NsYlJtdV9fMUpXUGt5bmpjSTdfR0pndFhDb1FSeUlwdHV0NmxDcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fSE5QTm5fa3Ftal93ckFyanpLY0ZydE5HS0t0UTRFTDJQdnkwZVFNelpRNGlYM1FJakRLc0lqV09qa0NVXzlsMk9XTnlZSndqRFFJTkFEVjI?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVRIU1FfdUZBdjB3NnpqTElEVHVXaFpoSGt4Vmw3MGduQWVIZDVqcWlfbDhyQUN5M0gzYVg3N0tETjVPbHJRWmNXYVhWU0Z2ZXZSOE5iNG5aWmZKVUFfSHpROUp3VENLUHUyMUJnR1dnQ3FNRFRMeDdmMGs5ejMzSUJST0I?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkoyYVU1V0pjcEhmYTU4TEJuMGdIcVg1Q19OZ2NjOWI3dENSRF9YNDIyY0EwNXVQbkxhT0pIM3J5eVZULWlCaG1sa1JkdFNONFlkUXI2T05iTUl4ZWVQMkV6UXNCdVhORFBzeTJYUktNRk9vV3pCM2FWMGNFNEFqbEwyMkhVQm4zU1FXaElFaWROWmZXbGZiLTlTVkNha3diRXFjRWRMNE9YOFd0cVEtbnpoMnRMWWc?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeW0zSDRhWGlTRVJoQUpmSVkwZmxUNUs1YzhFTHh0VXNXMDFWRVVtOU5ZWnRsX2l5MXFHSXVNUV9VT2NwTHFRRGEzOXdObUZXTG1jR2NSZE85TmRQdHFvV3JBRU9MRWtDVFdfeXNTcVZvSTZaQ2tsMkZaTkF0XzRsVEhzZ2VZX2hvZ0NxVW5vdDNZNjFrTEZ2ZHlxR3djMWNtQU50UWEtQkwxeVVYVm8zc2pnZVVVVEk?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTRrX1VmNG56c1NtZkRKajJGM1N0QUJzeGh1V1FKOTVWbXVSd2ppVEUtdGYxaGdFbUUxb1h4cnliQ3ZjZkgwa0JFZlg2WHRMaHV3bEt4RG15U3RNcmZlVmJzcGpNbGZnWkJ1dzMxMU03aG9uRHdsY0p3S3I3NUFHUlY3RjFxZkUtTEpZUWl0YjRTMUp5QldMelQ1Yjg5dDVuUGk2THdaOUJ0UzJWaDdJSmtIMVhWQWM?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEE2eHlCZ0FHWG5OMU5KQzlrWWgtdElwWllkZVM0aHkxWlpTZUVBMTJhVlRYeG03RzdXNnEzMF9OM1A4WGFnWTM0ZkUzUnBOUmpiNDNTSldZU2dNRWRiNlBwS0NHcUw1MGFtWUJ1OUtFNWxOV01lTzZ3Z3MyTEt2bEpIeXIzUXJVQmJnZ3B2TnNib2YyeHFKQg?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGM5djQwU1NYQzNEUWZ0QUFqNHNtYTFicmJ1V1VFNW1WUXI0dktJcWZKaXJZNFJ1aVBTMmR6bE1vRDBjZzg2dFJTNWp2TEFzVGVjUVRMTVRudnh5U3c5YXRRVGJiZXM3T2NzeDZJWDJMN0V4ZmR4c0I0eTFBbWZHRm9MNTJ6eEs1d2F4QmFzSmgwX0FkUFdlVDMtcWpBbUZt?oc=5",
+    "https://upcomer.com/call-of-duty-black-ops-re-releases-made-millions-while-original-developers-received-nothing/",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3drUkJyRm53Wl92d1pKbDM5TXlOVUVmOWZTMk1xNG40MGdxNGFxb29PajgzQWNvaU5uLWRnMGVKUkhNRHJLbGJpMDNDc0FfSVFvSWhiYWtnejQwcndNalZvSV9LSzZnbVRsbGYxUXFOR2JJUTFXWlpENFJSRlQxdFRmclZUVmt1Rm9wdDk3Wkw3NHo5SHFCNHVTRmwyRGJqcDVyTS1RYw?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1B0bXBtWFZrLUdWay16WjkwQUdldHNIUDAyQVJpS3gyUXVaVDdGNGM2TGNpUlFqWkVRSmRVTnpod0xrLXVjMXlWNUFlNHp2cUE0NzRKMzBaTXpiYU1nNlFmQzZ6c3ZMRm4ycGQ1OFF1NDA5YWphc0VYUWQ2dG9iRWpuZ2pYcTN0N3EzU2x6Z05RTjNOQV9vM3RDUQ?oc=5"
   ],
   "title_hashes": [
-    "996f4ddbb66af75fea869a9fd38ceebf",
-    "a5e01656cf7a8b2dc5d9b2549b73adda",
-    "a4a25849ab8d782fb46af675a60d971f",
-    "52d4b40eda5dc18e1d5947d0e1ed238e",
-    "1d2b063224489cef7636c4dea69a1e90",
-    "f92afa2f743eff58651d92a98cac9e4e",
-    "276ff5f6db139fc319d98e10ae48f39e",
-    "6cc92fe51a72537057dc5c500481f00b",
-    "73beb644dfba90eab5f53ce5b46a3ed4",
-    "da6f326d85171193bfea8243bb80d24a",
-    "4a4e96a5dd7406baf5fdad49f574cc99",
-    "3d71abbf86b778c65461520ce23bb4ab",
     "9d485834b1c811a7a0368c90e158aa13",
     "9bf7d8658e8943ff71c9c7c533bcea96",
     "caf2357a5f5dc5ffd4d9d4e7e802f09a",
@@ -16001,7 +15989,19 @@
     "c259e5efdbabc682f7ad1c70a02b2612",
     "f0cef660bb6105cb23dd3eb4f0c8c402",
     "21931a040735a12404d51856e3582881",
-    "97d7bd81e8f8fc2b2a08b083572aba34"
+    "97d7bd81e8f8fc2b2a08b083572aba34",
+    "1b671207081f8b7fabc3e978acfb5664",
+    "0a34e1cb713ba377343b3e98a455bf9e",
+    "75cd6a3aa0b42026a81e950fdab672c7",
+    "e3e9c4e89ef4c74cccdda4156909fa6d",
+    "2b00d4052c99a49dfac538639c0bbca3",
+    "51c7de50e0d7f099035baae8443a68f4",
+    "3ed10758c5a55d3d79af5a6432e656b6",
+    "90431e559912e6931fb0d3b1311347e6",
+    "fc2cca326b317caa6ab50bc2b3e902ea",
+    "5405fd40fa0c384b7d4d4ce4ff8c988d",
+    "495cc270a707cd28d1f2d4f2cde242b8",
+    "a77e2c1966e0e6e7e1d8f63b5ec8c191"
   ],
   "transfers": {
     "pages": {
@@ -21368,6 +21368,26 @@
     {
       "t": "2027 bahrain cup esports league legends markin nbsp news return will world",
       "ts": 1794937869.5174627
+    },
+    {
+      "t": "2027 ahead coach esports head lck nbsp rejoin reportedly roach season set sheep t1",
+      "ts": 1794937874.9890144
+    },
+    {
+      "t": "4 7 character enjou genshin impact leaked more nbsp noy roadmap sportskeeda",
+      "ts": 1794937878.4458919
+    },
+    {
+      "t": "black call developers duty made millions nothing ops original received releases says veteran while",
+      "ts": 1794937881.9171503
+    },
+    {
+      "t": "2027 ahead esports flyquest join lcs nbsp season set sheep sources yukino",
+      "ts": 1794937886.240211
+    },
+    {
+      "t": "2027 brance cblol esports fluxo join nbsp set sheep sources w7m",
+      "ts": 1794937889.7590063
     }
   ]
 }
