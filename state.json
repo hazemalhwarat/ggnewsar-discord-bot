@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27586/micronics-launches-classic-ii-ev-80plus-gold-atx31-series",
-    "https://esports-news.co.uk/2026/10/23/nova-esports-recover-from-map-1-loss-to-beat-any-questions-gaming-2-1/",
-    "https://esportsinsider.com/2026/10/mibr-gc-beat-fennel-female-to-win-game-changers-championship-playoff-opener",
-    "https://insider-gaming.com/modern-warfare-4-twitch-drops/",
-    "https://insider-gaming.com/best-kastov-762-loadout-modern-warfare-4/",
-    "https://insider-gaming.com/best-iso-nightshade-loadout-modern-warfare-4/",
     "https://insider-gaming.com/best-m4-loadout-modern-warfare-4/",
     "https://insider-gaming.com/best-vel-46-loadout-modern-warfare-4/",
     "https://insider-gaming.com/best-han-86-loadout-modern-warfare-4/",
@@ -7999,15 +7993,15 @@
     "https://gameriv.com/sony-releases-another-ps5-security-update-amid-fresh-jailbreak-claims-ahead-of-gta-6/",
     "https://gameriv.com/arc-raiders-update-2-6-0-patch-notes/",
     "https://gameriv.com/fortnite-hotfix-buffs-devil-fruits-nerfs-usopps-slingshot-and-increases-exotic-weapon-spawn-rates/",
-    "https://gameriv.com/the-game-awards-2026-nominations/"
+    "https://gameriv.com/the-game-awards-2026-nominations/",
+    "https://gameriv.com/warframe-black-friday-sale-2026/",
+    "https://www.esports.net/news/gaming/optic-returns-to-the-lcs-in-2027-taking-over-dignitas-slot-after-a-winless-summer/",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWlGellQRjRaY3EzN0RNdnoyVFcybFpYcEFGc29EZGFOWDg1aFlkTkxrZmExZGNQRVlsbThrZVdobEl0ci1EZTd2eldHVUFkSEpaYmoxZzJ5UzV6NWtrWUR6QmVXVm8xRS1QaWtxOEZyeUtpVi04b3lWMXhiYjdRVTFoc0I?oc=5",
+    "https://estnn.com/rainbow-six-siege-y11s4-operation-vital-signal/",
+    "https://insider-gaming.com/the-game-awards-2026/",
+    "https://insider-gaming.com/the-game-awards-2026-all-award-nominees/"
   ],
   "title_hashes": [
-    "2c6d0123498c10693df9924f5d29be72",
-    "c6365ffd43be68e6c1565ee671f105b8",
-    "f9329740445e20ad974c806c6deaffcc",
-    "eab794336bd357d0b49579e44b73f9de",
-    "bfe9f19caba51c71522e2095506209a1",
-    "97384ef354f59a7762c767a222758ffd",
     "c01c82321210df021087f69c89fe4f27",
     "79c0cd9140d07e2895cb6bed68525504",
     "749d9473f410b2824217c475d084f815",
@@ -16001,7 +15995,13 @@
     "479ba3240789e4db54a1f2570360eddb",
     "3b8bf0c044d74d5b28e39a728164c00c",
     "142c89cadc86a875ed83c16486391747",
-    "637635ece4f3552e6c7190e4bdb96393"
+    "637635ece4f3552e6c7190e4bdb96393",
+    "820cb1570a29297f07cacfb85513a2be",
+    "e23fc0a8b2284d3aca7ccd2374302461",
+    "eede85e24aaa59618bf762cabfe6f5a0",
+    "a797630bd9ba448005cef27be30f53db",
+    "f407182f4e05b52b26beaa6781543ede",
+    "9c46625bc36719daba25ae2422183a77"
   ],
   "transfers": {
     "pages": {
@@ -21188,6 +21188,26 @@
     {
       "t": "2026 8217 almost award awards competing coveted date game games geoff here including keighley major nominations nominees predictions preparing reveal six this time year",
       "ts": 1794937694.4161947
+    },
+    {
+      "t": "2026 50 8217 black bringing bundles collections cosmetics discounts expand friday items looking off officially premium sale select tennogen underway warframe whether you",
+      "ts": 1794937699.8717768
+    },
+    {
+      "t": "2027 after america back best brands brings compete dignitas esports gaming into known lcs league leave leaving move north one optic over returning returns slot summer taking vacates will winless",
+      "ts": 1794937703.3556113
+    },
+    {
+      "t": "1 11 2026 30 4 date dated december doc duo flex level mbz new operation playlists rainbow ranked remastered rework season siege signal six solo ubisoft vital weapon y11s4 year",
+      "ts": 1794937706.8238575
+    },
+    {
+      "t": "2026 all awards been categories find game get have how involved night nominees out post prestigious revealed this vote year",
+      "ts": 1794937710.6669917
+    },
+    {
+      "t": "10 2026 all award awards before but can check december game nominated nominees out place post set take titles",
+      "ts": 1794937714.3955348
     }
   ]
 }
