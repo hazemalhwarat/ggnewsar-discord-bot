@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNFNJa2FfU0RzS2U2SUNwc3Zfa2ZTalhHSzRUTmpBeE1RNkU5Ny15MkFtSGVLS1FnS29rTTF2b1hsS01hSXZQT1lQUlBUUzBrMUhRdS1uUDNaMldUMDVaV3NPU1ZyZVR0S1dSUExJN0dXeGc5Q3pVVU1RM2EzdGFCWTBFTURybFliT3ZCT3dvT3BQeFdqYUcteWlpMkNIZkZidnZ0MFZBRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNZW9FRk1GbmV2QTBJRHMwWnlzejhpRldpQkhIVXlYOEUzemJFWFdXNXRnVmRESm1qUXNhT2dES3BJRDg1ZUdvVWJlZmxObVNFaUxGblpVYXJvYmQ5Ui1QX2JWLXUzS2VxNTJoQ1VTcFY2WDc5a0N1TFZoS09LR0l3TVRiX04zd2RnUnpMSUNfeTVHcklIZ0kwa1FMTklWQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJc1dNNjdUaC1nc1hUbEJBTHQtZlBQNjJyY1BlTGlyS29RYzE3SWR6TndQOExwMm0xS1FhR3IwNlk5cVJNa0swRzc0YkE5Ylp1U1hnbGxhY3BPWVZEODJfb3VnN0pGX1RFLU00Q1Vhdk4?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DTGt5bjhzcjBmTlRJS1hZT0xBckRVYTB4aWh3QmI5SXlMZzRxTndFcWZYbGFPZEdtQU5iX0hFM3o5NFkyU0plODZBNTl6X0hZbENqNzdKc0UxOWZwLUVmR0h3TXNQMmgwM3F4RkJFRDQxWFVocWV2Yg?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXNzWmFDSDZrcTliM21KX0ZZYk5jNlhidEpDWmQ2SlktSGVuSlk4NnZVQVQxSlRHZzdkZnRncU9ab0k3ZVU5WmFubFVfWlJUUWgwS1ZLcWJvVU5jZUxIT3ZuRlBHNGphZmxrV0M3ZUg3X18zVm00V2xaT2ZkMElDTlBnZGs3MzRCb09kNXpR?oc=5",
     "https://www.invenglobal.com/articles/27625/archeage-chronicles-adopting-b2p-model-will-not-sell-pay-to-win-items",
     "https://www.invenglobal.com/articles/27624/faker-commemorative-stamps-virtually-sell-out-on-first-day-of-sale",
     "https://www.invenglobal.com/articles/27623/a-well-made-game-a-disappointing-successor-castlevania-belmonts-curse-82",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28693/elder-dragon-amatsu-makes-in-game-debut-at-monster-hunter-now-carnival-2026-osaka",
     "https://www.invenglobal.com/articles/28691/tank-z-nintendo-switch-version-launches-globally-on-november-26",
     "https://www.invenglobal.com/articles/28690/digimon-super-rumble-to-launch-4th-anniversary-update-on-november-19",
-    "https://www.invenglobal.com/articles/28688/micronics-launches-panoramic-case-coolmax-trendy"
+    "https://www.invenglobal.com/articles/28688/micronics-launches-panoramic-case-coolmax-trendy",
+    "https://www.invenglobal.com/articles/28677/sentinels-completes-valorant-roster-for-2027-with-british-player-keiko",
+    "https://www.invenglobal.com/articles/28687/unity-launches-unity-fellowship-to-support-indie-developers",
+    "https://www.invenglobal.com/articles/28686/playwith-korea-unveils-roadmap-for-h1-2027",
+    "https://www.invenglobal.com/articles/28684/vicla-lee-dae-kwang-to-lead-bfx-as-captain-in-2027",
+    "https://www.invenglobal.com/articles/28683/roach-kim-kang-hee-set-to-return-to-former-team-t1-as-head-coach"
   ],
   "title_hashes": [
-    "8df358eebbbb64bf19235a902db73505",
-    "a3142c00cd899b643c13d71b738f19f9",
-    "03bb3227d9f7aeb447a672ad6705c85b",
-    "eac458bf87396004e5a74235f3bf8e78",
-    "a7c5a896026ed7ef6ebb7646a9df699e",
     "b511e742b9adb8d9ba8ceccc8c837434",
     "569a3c55eafb3206ee9d9cc317aee411",
     "424f99dd5362970048ccd0eba6fa63e8",
@@ -16001,7 +15996,12 @@
     "cca9fdb349651bac71e20a0df258dcc6",
     "cea361dee439097934f437c6ec86e7cb",
     "41c5398160c76cdd3e7995f4ff5f3a27",
-    "689568af9b1aae4b81a4d67ff30aaf2c"
+    "689568af9b1aae4b81a4d67ff30aaf2c",
+    "d931f39de2650520ce538e90dc310d68",
+    "868154b5cb5ee1055d952baeae630997",
+    "5d21a6a864d1365b8dbcdd17d5379b69",
+    "166dd48d1049dccf84423756aff9e5d7",
+    "66c27bb9334a8cd2e3b13d59a4a4d9e8"
   ],
   "transfers": {
     "pages": {
@@ -21088,6 +21088,26 @@
     {
       "t": "120mm 17 case comes cooling coolmax design equipped fans featuring full hanmi hereinafter launches micronics november out panoramic product released rgb three trendy",
       "ts": 1794937596.0831766
+    },
+    {
+      "t": "2027 americas british champions completes completing five has its keiko player roster season sentinels signed tour valorant vct",
+      "ts": 1794937601.3535047
+    },
+    {
+      "t": "16 announced developers fellowship indie launches launching local november program studios support that time unity",
+      "ts": 1794937604.9273286
+    },
+    {
+      "t": "2027 around centered first global h1 half has its korea launch m2 new online playwith product project revealed roadmap rohan seal unveils",
+      "ts": 1794937608.430887
+    },
+    {
+      "t": "2027 also bfx bnk captain continue cup dae demacia fearx kwang lead lee memory out said season set stands team vicla will winning",
+      "ts": 1794937611.881784
+    },
+    {
+      "t": "appears appointing coach earnest former head hee its kang kicking kim off preparations return roach season set t1 team upcoming",
+      "ts": 1794937615.4057226
     }
   ]
 }
