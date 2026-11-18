@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EQTBFRWs0VXYycUh2bURyWnVqa2tLT0YwdHB6NDM3LTVMTlFYZlo5RHUzbmpxUzk2U1gyYTBEWGRPYjZBV0FBN2RDRThXV2E2eHh1X1VtNGczeGM2cjR1a1R0SkQ1RmNOdjBZX2kwdWhuTnV3UmlEZ0Y2eXA?oc=5",
-    "https://www.talkesport.com/news/gaming/clear-endpoints-gaming-routines/",
-    "https://www.talkesport.com/featured/digital-rewards-esports-tournaments-unmissable/",
-    "https://www.talkesport.com/featured/game-subscription-services-esports-tournaments/",
-    "https://www.talkesport.com/featured/esports-teams-communication-platforms/",
     "https://www.talkesport.com/featured/esports-tournaments-not-just-hardcore-gamers/",
     "https://www.talkesport.com/featured/digital-rewards-amateur-esports-tournaments/",
     "https://www.talkesport.com/featured/real-reasons-teams-win-csgo-tournaments/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28786/gta-6-ties-ocarina-of-time-for-highest-metacritic-score-ever-with-99",
     "https://www.invenglobal.com/articles/28765/kingen-hwang-seong-hoon-re-signs-with-nongshim",
     "https://www.invenglobal.com/articles/28764/crimson-desert-wins-8-awards-at-2026-korea-game-awards",
-    "https://www.invenglobal.com/articles/28763/jungler-ha-vincenzo-seung-min-joins-bfx"
+    "https://www.invenglobal.com/articles/28763/jungler-ha-vincenzo-seung-min-joins-bfx",
+    "https://www.invenglobal.com/articles/28762/nongshim-redforce-extends-contract-with-calix-seon-hyeon-bin-through-2028",
+    "https://www.invenglobal.com/articles/28761/china-promises-most-favored-nation-treatment-for-games-in-fta-follow-up-negotiations",
+    "https://www.invenglobal.com/articles/28760/nongshim-extends-contract-with-coach-kim-bono-gi-beom-through-2028",
+    "https://www.invenglobal.com/articles/28758/wemade-connect-opens-pre-registration-for-lost-sword-in-japan",
+    "https://www.invenglobal.com/articles/28757/cookie-run-kingdom-releases-angel-of-doom-update"
   ],
   "title_hashes": [
-    "9f855daf6c50501ddb21f81a7056cbc6",
-    "c20e9b145f1ad1a2ecbae06fa03560b9",
-    "edfa64fb8e474e3ac82e2101dcefa157",
-    "8db1aad762a9fbb455b4b0d49da7aaf2",
-    "69c4667344d20c80ad85ca9b488b194d",
     "76420bfcd22f2fd8629ec1a32d5e148e",
     "e2b13f3177c66bcd7c8c44fc98409c0e",
     "218568a5462b621247f8aae724519ac4",
@@ -16001,7 +15996,12 @@
     "5fc69441086b55c688db1c51847008e3",
     "e7394445bf5e450c76dfd44549375f76",
     "959fa9d5d3382ae25761d3a859ce77c9",
-    "98f04d41617cf34d37e09428bfdd9868"
+    "98f04d41617cf34d37e09428bfdd9868",
+    "c78563205618ee0e692b6a7d856125cb",
+    "8b68ddb42528963813a17d3c0bf59d6d",
+    "da47d581461acda9dc5d8fe81c7d5d1b",
+    "c7285dc692eb22b0bc175d20654c3321",
+    "776030a1831ade366ad48e23f838a7ef"
   ],
   "transfers": {
     "pages": {
@@ -21108,6 +21108,26 @@
     {
       "t": "18th addition afternoon announced bfx bnk contract fearx joining joins jungler media min official period runs seung social their through via vincenzo",
       "ts": 1795041845.6690357
+    },
+    {
+      "t": "18th 2028 announced bin calix contract extended extends has hyeon its nongshim redforce seon through",
+      "ts": 1795041851.9941342
+    },
+    {
+      "t": "china countries ensuring favorably favored film follow fta games gaming has korea less mfn most nation negotiations not promised promises sectors south than third treated treatment",
+      "ts": 1795041855.525178
+    },
+    {
+      "t": "2028 beom bono coach coaching contract extends kim lck main nongshim redforce served team through transition who will",
+      "ts": 1795041859.0102494
+    },
+    {
+      "t": "000 150 18 connect japan lost mobile november opened opens pre published reaching registration rpg subculture sword upon wemade",
+      "ts": 1795041862.5497024
+    },
+    {
+      "t": "18 angel cookie doom eighth exploration fate its kingdom november opened releases run theme timeline update world",
+      "ts": 1795041866.10515
     }
   ]
 }
