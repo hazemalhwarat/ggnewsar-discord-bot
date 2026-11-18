@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TaWRtaEFMRmpkdk5kZFRJSnJkY21qMFhzVHJGaEZwRkdaRjFTbVJDWktwYTVhcjE1aEVONERyTGwxRV9Sb2RJMU5NN2txMXdnd0RaRmdCdTh3X1dCNTVGSUgyNng0SE00WWJr?oc=5",
-    "https://www.invenglobal.com/articles/27653/lck-goes-4-0-lpl-goes-0-4-contrasting-fortunes-on-day-1",
-    "https://www.invenglobal.com/articles/27651/zest-kim-dong-min-on-facing-t1-in-first-worlds-a-great-opportunity-but-deeply-disappointing",
-    "https://www.invenglobal.com/articles/27650/t1-defeats-brazils-1st-seed-los-in-24-minutes",
-    "https://www.invenglobal.com/articles/27649/fallout-t-60-helmet-and-power-fist-replicas-launch-for-great-war-anniversary",
     "https://www.invenglobal.com/articles/27648/lara-croft-meets-gi-joe-and-joins-the-crew-motorfest-for-tomb-raiders-30th",
     "https://www.invenglobal.com/articles/27647/fallout-76-passes-25-million-players-as-it-nears-its-eighth-anniversary",
     "https://www.invenglobal.com/articles/27646/xbox-coo-helen-chiang-leaves-microsoft-months-after-taking-the-role",
@@ -7999,14 +7994,14 @@
     "https://esports-news.co.uk/2026/11/18/100-thieves-come-from-a-map-down-to-beat-fnatic-in-pgl-cluj-napoca-upper-final/",
     "https://thegamehaus.com/nfl/nfl-week-10-overreactions/2026/11/18/",
     "https://thegamehaus.com/nfl/who-will-win-the-nfc-north/2026/11/18/",
-    "https://thegamehaus.com/gta-6/does-gta-6-have-a-physical-disc-code-in-box-explained/2026/11/17/"
+    "https://thegamehaus.com/gta-6/does-gta-6-have-a-physical-disc-code-in-box-explained/2026/11/17/",
+    "https://thegamehaus.com/gta-6/how-to-preload-gta-6-on-ps5-and-xbox-series-xs/2026/11/17/",
+    "https://www.hltv.org/news/45953/ence-through-the-years-success-setbacks-and-reinvention",
+    "https://estnn.com/cs2-cobblestone-returns-map-pool-singapore-major-shop/",
+    "https://gameriv.com/marvel-rivals-2nd-anniversary-event/",
+    "https://gameriv.com/valorant-vp-prices-to-increase-by-24-in-japan-starting-december-9-double-bonus-campaign-announced/"
   ],
   "title_hashes": [
-    "33799375d4fbb8f07bbc79c45376792d",
-    "d7d50717602bd99b3fea7bd79a3b2360",
-    "f3d6bc42cf96e919c8b351643c56794f",
-    "bc11f84380fe3d544e6dec98638d76aa",
-    "5f13514dfb7c9ec0a9a1b8b9cbe86c7e",
     "a562c16c6e965e554a88c97e186a57bd",
     "299dfc0881efef8f8b88560aab0f57a7",
     "f716df1defd44f7898042b8a6a120229",
@@ -16001,7 +15996,12 @@
     "05ccb483cf09e55f37caf946259de41c",
     "bcb7ad1c85c056c1ab4349e4b23b31e6",
     "969d46e9bd05de09495373755c9e5cac",
-    "aaac2bfb7a3a2562d05a2dee9a99168e"
+    "aaac2bfb7a3a2562d05a2dee9a99168e",
+    "a9c0318d25c31f3395208ea007973090",
+    "01ccb05449bb79fcae76549c9a45f5e1",
+    "8740e6fe0ed4c97ece0cdc811dc5a573",
+    "bb9ab1734400b511bd018aca1374b609",
+    "d95e92f3f05646fac68389053cb627c8"
   ],
   "transfers": {
     "pages": {
@@ -20976,6 +20976,26 @@
     {
       "t": "6 8217 add auto bad box code collectors copy disc does explained game games good grand growing gta have hoping library news physical releasing rockstar sequels that theft their there",
       "ts": 1795016231.6655278
+    },
+    {
+      "t": "6 8217 ahead anticipated around can corner download enough game gone gta has how its just launch long most players preload ps5 release scheduled scre series skip title wait xbox",
+      "ts": 1795016236.8696628
+    },
+    {
+      "t": "back closes counter doors ence finnish highs its look lows organization reinvention setbacks success through time years",
+      "ts": 1795016240.3649082
+    },
+    {
+      "t": "17 2026 boulder changes cobblestone cs2 fachwerk fixed major map matchmaking november opened pool removed returned returns shelter shop singapore valve",
+      "ts": 1795016243.7857356
+    },
+    {
+      "t": "19 2 2026 2nd 500 anniversary celebrating celebration costume deadpool event featuring free including its kicks legendary login marvel november off offers plenty rewards rivals second skin units",
+      "ts": 1795016247.2075422
+    },
+    {
+      "t": "2026 24 9 aka announced average bonus campaign chance change december double games has have however increase japan major players points prices pricing riot starting valorant will",
+      "ts": 1795016250.637507
     }
   ]
 }
