@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWVHd2RReDhudHBJdDlhaDBrVkdYU2pQYmNQY0N0YVROZnRtT1l4Ry05LXlHRzEtSnpLYi03eG1zTjNScjVQTG9MSjlNNWdoTTlHbVB1MUxjSmh3TGpqR1M1TkZYWnZkelFtMFMtLTJGZ3BUUG5VV2FWWmFvLWJyYmhiNzJfUk1sclFVSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmtvd0hQZ25VREJnMUR5OGZZb3ljWnZmd0NQdEF1LTNBdTl0OF81eUJjMkYzSmlPdEwwYWxmaklNcTJaLVk0U0FiUGRTc0ZKUFVacDBHb2R6Zmk4Zjg1MWNLMFpoUVJpTW9CNHFqbDhVazlwdkZTcWtNWE9VaHN3cmVwMVlWclJCbXhhcE9fbGhtMzA3Wld6R3ZwbTZMTnM3anJpLVd4N1ZpZUlVNElXVWNIYlZ1bHBY0gG8AUFVX3lxTE5meUhIMmlVRXJYRkFmTkp6VzJzQkRha0JjOXVmb3I0WlZsdjVfb1BMdEY0TzNBWV9vQzNJTDFBU1hYR1BHakhHSE11bjkteUtGY2RiTnh6eVJjYTA0Qml4VG04VlEtaTRYTlVYMHREd25JSlY4WVA0TEJfRDRvWE5XOHVaLVhvUlpFSFRTTnhSMGpOTkVxbkItTHZKZ24tT0YtZkFIUDJmT2FiQS1wc0wwVVFQWXN5eDM2ZmNL?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZXzYzdmJyZVZuc3hBSmZCbUpZZFpYVzNzZ09aWTdaSmN3Vmpham9lWDRISmJabTMtWDdLNEQ0dndHTmNhdGlKVi14aTQzenRRNGNZQy00SW1feTFIY2M2dmZwSE5jZzhuQ0FuUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3JmQUcyaTVKOUs1YjBTZTEwY0dUNlFDNmpzM0tCNFpCTENqTHVUQS1IR3U0d0N2NkVSWE8zRnlYMUNNUTREdEtNNEw3Nk9NYnlLZ2MyS3NYR3g5cUZGai1uVjlIUnRGaEw3ZXg3c3c0bFJndi05RHpFdE1FYnFzVml1YXhrazFkYVE?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmZPV3QyZkNzUlRjNm9DWjR2V1dvSk5OYnRyYXlSZnVJaUZqRVBtS2RiUFlzUWFxdmQtLU5BeElsVVRCeXZJc0xTbWQtdHhmeXg3b01aem43eHd4RldPU1BrdERxaXNPRFQySHctaHNGNTNxemtpZWY1R1Q5cE1IVFFfdlZZRFpzYnM1UldQc2EtbU5aODNkWU5SYUc?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmaEUtMkptbzBtVTc0Z1E2NW4yd3FZcjRpelk2T3k2Y2kwbWUyekhKMGQ4NUd1dnBKYXNfMk4yLUZjWDNaYlhTRFR5b3JnZDhid0Z2WHI4SVFYYzlhYm56MFBJRUJfeEJkb19BNUl5SHRXX3lDYUZNdWJR?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXVQdllWZDBzQU5FTjhoT05FS3gxMEdZRUI2M1ctWFFLWmw1ZDdYWWJkUDZ0R0YyanU5eWgyM0l0NzEwWDZja1pJMEdWQXRFSVNSd1V1SGVkMExudkFwalo5dHV6c09JRGpjS0RiYjBlY2N5bm0tcFN0dFdrdUNBX3Y3cU10ODE4eEw4?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEtuVF9DWEVmbkhkLVZULWVBVjNHM0Q5TlpzY3pPN0oyazVJSURJWTRKNVpYSmd1NFk4Wkc2N0FkTDllZklTUWlRbkR1Z3JhcE5udHpMRkFySThGcWNuUU5RUTZFVHRteXBwRFhYUXBxVGhZUFMyQ2h0SDBjMkh6ZzBRenMtX1o5RTVXVWlZelNSSW9sbmV0Y1N6VzdQdWdCUDJ4eDhpdUg1blh5UWE3OGZObF9JOTZfSEE?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVRJQU9iUnZ4aE50TWFfeEU5MDItY05RQURjbEFybmQ3UElSakRjWnVTb1V1RHBXRUg4b1JaV1U4VkxVT241TUdtZ2tyUlFLTGlSdGhBWC14dGY5MmZLQXFSaUNQRm1nY2VENTZvYVo5dnQ0cFlWZU9YUUlrX1Y3UmhvRXRNZw?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOblBJVjZVeXJHMkVBVEdLcktHXzlpbTZnUTZFdDU3elZPLUNNdkd3VHBkdEZGMUtXVVZ6cUh6aW9sSUxPYW9wUjRnaFM1M0sxVkdYNlZRNTNCajNqRmU0UWhGRmt5eTBYeE5WZDNURWtKOExZeHFOYWhVZzNRU3E1S056dEhXUFJMZEZGTWNSZFplVWE5Q0p5QVMxTkRDb0U?oc=5",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGNqTFVHSUdXamlBRW5ZN3EzeWhvZ2pGNkt5UERzN3l6TGNrTWtUbVB0Y3lKOUE3bWNNNzV3MW1sakx2REdXNEV4c1lCb2NQZWFuNk9LU2JXTE5SSGdTZk1xdGZteHRDTVhkblNId0JFel9OYzJiTTk0Q0RhdFBvMHVKMDZuUjBkSXctd1JKVzdHREVrUloya0REQWY2cDZTUXB3RFE2Zk9Cblh1RTN2U0MwQTllQ0R1UVdYZE1vWnNGQQ?oc=5",
@@ -7999,17 +7991,17 @@
     "https://insider-gaming.com/g2-esports-umbro-football-streetwear/",
     "https://gameriv.com/gta-6-how-to-get-a-free-focus-boost-by-feeding-dolores-the-snake/",
     "https://gameriv.com/gta-6-how-to-find-buildings-you-can-enter-using-the-map/",
-    "https://gameriv.com/gta-6-how-to-store-money-safely-before-unlocking-a-bank-account/"
+    "https://gameriv.com/gta-6-how-to-store-money-safely-before-unlocking-a-bank-account/",
+    "https://gameriv.com/gta-6-dont-miss-this-secret-lucia-activity-in-chapter-1/",
+    "https://gameriv.com/gta-6-how-long-to-beat/",
+    "https://gameriv.com/all-confirmed-gta-6-cheats/",
+    "https://gameriv.com/embark-studios-faces-backlash-after-replacing-the-finals-esports-casters-with-ai-commentators/",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxONl9fTEpMU01uNl9UVFUwOXVSaDhfaW5MMzdteXpQZUVvVzN4NGxBYXNRS0VGQTBnNkdCUkpmcVlaUkxWRVhjc3lVNUJYZUhhb3ZRLXJobnYwcDNBRDQtY3B2anZFX2dGajFQQ25aMWFpVkpYa1A5am9YU1JxbF9GWmRCMVhVNlF3a1E?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblRhdzhkUFRjLXh4d0tYWDFyekdfZGoyOUZSM0RlTEs2MlBtNW8zVmt0dC1wQ01tMWJacV8tMVFiX0F6OFpEekV4UHRaY3paLWxzV2JjRDdWRkI4ZXVGYnJTeTQtMXp2M2Q5YTZoOUUyNXZJUDhnd2JsRFVmRk4zQ2l0bmJqcTVJUVZvWDFmUTZ6VFU?oc=5",
+    "https://www.hotspawn.com/dota2/news/valve-drops-new-dota-2-patch-7-42-one-day-before-record-length-is-broken",
+    "https://www.hotspawn.com/other/news/esports-team-of-the-year-2026"
   ],
   "title_hashes": [
-    "6505cb68b2498aa873937f53236b7161",
-    "04752cc46603570dd596380636ce4e27",
-    "dd5827eec8390ed87301771e293d1dd0",
-    "d5b8496d0165fc2da325ed018b8afaef",
-    "04a71d202bcfb70ebe20769df37ab910",
-    "80e56c81597d787cdcdb6007eb24c31c",
-    "fb14760953d6882e34663e257b17844a",
-    "e8943965ef6ee7e506993c22a13889b4",
     "7f9f2afbbcbdeb63124910761dfefb24",
     "a048e8babe141dc555a4df8293ed04a7",
     "50cb0055e3650e6054de1006cc2700e2",
@@ -16001,7 +15993,15 @@
     "871971817cc5777a4bec8bb865b47d81",
     "05f106c595cc90f84063ad11a9a233b5",
     "c6e870469e18cb94beca042e49854fd4",
-    "8f630e7aa116f00fea8e1077bb3352d8"
+    "8f630e7aa116f00fea8e1077bb3352d8",
+    "4882ef3fdcbc6fcdf13647542d54f23e",
+    "ccdfd14aec3f94dc4581b4fabbc8b402",
+    "09f9df43096acb7335812c8e1c99ed1b",
+    "63e4d7748fdd484e7f35ae4169f6e578",
+    "ab0d5ae940cda2421c6038cd8322b607",
+    "617d55a304d7d4a269f359fd73c54eb7",
+    "ada3510e5f723740fcbd39fd0e0f570d",
+    "fb3a020c7398511875d0ebddc16c7931"
   ],
   "transfers": {
     "pages": {
@@ -21208,6 +21208,26 @@
     {
       "t": "5 6 8217 access account all away bank before cash during earn especially expect gta have hours how important lot meaning might money more opening right safely store than unlike unlocking won you",
       "ts": 1795041943.3316593
+    },
+    {
+      "t": "1 6 8217 activities activity before but chapter complete don finishing gta interaction jaso lucia meditation miss one optional packed particular players secret session should small that there this",
+      "ts": 1795041948.286914
+    },
+    {
+      "t": "100 6 8217 auto available average beat bett biggest completion easily everything explained finally finishing first games grand gta have how leonida long now one quite reviews rockstar some take theft time will yet",
+      "ts": 1795041951.773005
+    },
+    {
+      "t": "6 8217 all back brings but button changed cheat cheats code codes combinations confirmed entering every few finish games gta has have how instead main players ps5 rockstar story them unlock use want whenever working xbox you",
+      "ts": 1795041955.3063478
+    },
+    {
+      "t": "8217 after casters commentators criticism embark esports facing feat finals generated grand highlight major official outrage real replaces replacing sparks studios tournament video voices which",
+      "ts": 1795041958.7254462
+    },
+    {
+      "t": "17 2026 after awards been call crowned duty earning esports great has miami named november optic recognition season team texas wins year",
+      "ts": 1795041962.158553
     }
   ]
 }
