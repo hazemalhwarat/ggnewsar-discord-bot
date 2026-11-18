@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/ea-sports-project-gridiron/",
-    "https://insider-gaming.com/mkoi-shock-blg-lol-worlds-2026-swiss-stage/",
-    "https://estnn.com/pgl-masters-bucharest-2026-teams-format-schedule/",
-    "https://estnn.com/fortnite-chapter-7-season-4-end-date-mini-season-chapter-8/",
-    "https://www.hotspawn.com/league-of-legends/news/mkoi-elyoya-worlds-2026-interview",
     "https://mp1st.com/news/xbox-aggressive-marketing-campaign-modern-warfare-4",
     "https://www.talkesport.com/genshin-impact/genshin-impact-7-2-release-date-mitya-valeriy/",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OVkJ1Ri1WSkEyZ3ktMWNxSjQ5YjhaMUwzSGFKbkhGNnJwRjQ4TTJlRnZFVHU4WmtjV09IckUyeGpNdm43SFhSN3RYU2VOeG9GZ0ctd2NESXBwczdSRWlNSFV0OXhGZFowZEs5YzY3dGw?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28785/arkheron-to-launch-into-early-access-live-at-dreamhack-stockholm-on-november-27th",
     "https://www.invenglobal.com/articles/28784/world-of-warcraft-legends-of-azeroth-box-set-of-pixel-art-collectibles-opens-pre-orders-december-11th",
     "https://www.invenglobal.com/articles/28783/ishowspeed-counter-strike-2-and-team-vitality-among-winners-at-2026-esports-awards",
-    "https://www.invenglobal.com/articles/28782/unity-openai-and-meshy-ai-gather-for-unity-ai-game-jam"
+    "https://www.invenglobal.com/articles/28782/unity-openai-and-meshy-ai-gather-for-unity-ai-game-jam",
+    "https://www.invenglobal.com/articles/28781/mimesis-wins-excellence-award-at-2026-korea-game-awards",
+    "https://www.invenglobal.com/articles/28780/100-out-of-100-a-perfect-score-gta-vi-10",
+    "https://www.invenglobal.com/articles/28779/ucal-son-woo-hyeon-joins-dn-supers-looking-forward-to-the-2027-season-with-new-teammates",
+    "https://www.invenglobal.com/articles/28778/2026-korea-game-awards-crimson-desert-sweeps-8-awards-including-technical-creative-categories",
+    "https://www.invenglobal.com/articles/28775/lord-nine-expands-arena-matching-pool-and-adds-mastery-change-system"
   ],
   "title_hashes": [
-    "2d11c900d5dc5ccd63bda1be27beb93c",
-    "4626c353caa6867f5ccf6acb1341f8f6",
-    "3bbe48de6c4fe75f0c3bb196d0eb06fd",
-    "4aff56c07ce3ab8c6cf210a7f5a53755",
-    "29e89f45eb3df17943e413aef897d3de",
     "b09ddf2306ec55d90d8a440c9b42dc49",
     "2f20cd777006e720c4d4eafcd57c4af3",
     "a8543283c16beb58b1efff94cde46b34",
@@ -16001,7 +15996,12 @@
     "c6a050a8d75e2f9c2faf81324d2f7bd7",
     "4cf1eb44e64ab3778f08d86c42f7f982",
     "42a8da6419528851cdea591ab6bd8575",
-    "42352f7ca6a7b1a7d7de074fd0b491d1"
+    "42352f7ca6a7b1a7d7de074fd0b491d1",
+    "eb13e2d2447824549cbf42ab250c5a3c",
+    "7fffc96e06c94ca34e77a98dbe544849",
+    "c61e89cace304e6dd3c57557f6d84482",
+    "07bd8ee7a86a6d1df1de1b055352cbdf",
+    "8bfb91c36fda415f9e6d5af04102fb71"
   ],
   "transfers": {
     "pages": {
@@ -20896,6 +20896,26 @@
     {
       "t": "18 2 bringing center datesnovember exhibition full game gather jam jama locationbexco meshy openai scale together unity",
       "ts": 1795016149.9151294
+    },
+    {
+      "t": "2 2026 4 award awards copies cumulative excellence game games global has its korea million mimesis november relu sales surpassed wins won",
+      "ts": 1795016155.6758142
+    },
+    {
+      "t": "10 100 2013 back enjoying exceedingly exchange first game gaming glorious gta journalist launched opportunity out perfect ps3 rare relatively review score student when young",
+      "ts": 1795016159.1167617
+    },
+    {
+      "t": "18th 2027 announced channels evening forward has hyeon joined joins looking media new official season signing social son supers teammates their through ucal woo",
+      "ts": 1795016162.500466
+    },
+    {
+      "t": "18 2026 8 achievements awards bexco busan categories celebrating ceremony creative crimson desert game gaming including industry korea korean november place sweeps technical this took year",
+      "ts": 1795016166.1076283
+    },
+    {
+      "t": "18 across added adds announced arena change expanded expands groups has lord mastery matching mmorpg nine november pool smilegate system that three world",
+      "ts": 1795016169.6416972
     }
   ]
 }
