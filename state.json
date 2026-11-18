@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://mp1st.com/news/xbox-aggressive-marketing-campaign-modern-warfare-4",
-    "https://www.talkesport.com/genshin-impact/genshin-impact-7-2-release-date-mitya-valeriy/",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OVkJ1Ri1WSkEyZ3ktMWNxSjQ5YjhaMUwzSGFKbkhGNnJwRjQ4TTJlRnZFVHU4WmtjV09IckUyeGpNdm43SFhSN3RYU2VOeG9GZ0ctd2NESXBwczdSRWlNSFV0OXhGZFowZEs5YzY3dGw?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rbzdHMWtiWW41REJtSFdRMm1ZQk9wWHhSS0oyRmlFcWtfSzNIQ3dEUUJORUVkOVNWTzI3SnpmS2pCSU5oLU9XZVZuQ2xlZF9TeUE?oc=5",
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xSGhrRjVaTlZWTG1OLWIxOTZGYkFDdi0wQWlSVl8xWlpRcl9zdWRhXzNfVU5JaHVRR3BMdUxQX1RSZw?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PTFhiV0JTOGtUNWN2OVRrZmpMQ0l1dVNpZzZ0Sm9WV05iNFBwVDVVS1JLaDlCblR0bGIxcldGUXZwb3d5TXljUnlTMWprOXp6Y2locDBNVTJONkk?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfNWxGQnRZZVdKWjlscmxBUE01VTFhY1M5SmRTXzlZWEgxNEZPZXBnWV9pWUVFajI1N1NpQktlSTdpUjAxM2lJSzVwTzlXell0bXFhRGd2cXBoQ1Q1cDlTbUd6OUNtVXg1UUhzajJFMFc?oc=5",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11ejVZSGhVQjM2bTVqQW42MG1JSXZjeWU1SndYWmFBbkRpRG01SXhqMEMtWS1iUEZqYkJKVXROblVhRVJCS2Vjc0s1T0lYSEk?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28780/100-out-of-100-a-perfect-score-gta-vi-10",
     "https://www.invenglobal.com/articles/28779/ucal-son-woo-hyeon-joins-dn-supers-looking-forward-to-the-2027-season-with-new-teammates",
     "https://www.invenglobal.com/articles/28778/2026-korea-game-awards-crimson-desert-sweeps-8-awards-including-technical-creative-categories",
-    "https://www.invenglobal.com/articles/28775/lord-nine-expands-arena-matching-pool-and-adds-mastery-change-system"
+    "https://www.invenglobal.com/articles/28775/lord-nine-expands-arena-matching-pool-and-adds-mastery-change-system",
+    "https://www.invenglobal.com/articles/28776/horizon-walker-to-add-dorothea-and-chapter-5-on-nov-19",
+    "https://www.invenglobal.com/articles/28777/crimson-desert-fully-deserved-its-8-crown-sweep-at-the-korea-game-awards",
+    "https://www.invenglobal.com/articles/28774/fategrand-order-runs-9th-anniversary-campaign-for-korean-service-until-december-10",
+    "https://www.invenglobal.com/articles/28773/archeage-war-balances-4-magic-classes",
+    "https://www.invenglobal.com/articles/28772/aion-2-wins-two-awards-at-korea-game-awards-takes-home-excellence-award-and-popular-game-award"
   ],
   "title_hashes": [
-    "b09ddf2306ec55d90d8a440c9b42dc49",
-    "2f20cd777006e720c4d4eafcd57c4af3",
-    "a8543283c16beb58b1efff94cde46b34",
-    "74243d0bce31c1b40c0c5aa1db09e949",
-    "8251cc9353c8a58d4a7ff22bb3468cc0",
     "595ec08a06e3bc82bf5f982a23af298c",
     "4e66974125fd65a2896631a4dc7c6351",
     "95cee1609025ae9cfeb91f9d45f717a2",
@@ -16001,7 +15996,12 @@
     "7fffc96e06c94ca34e77a98dbe544849",
     "c61e89cace304e6dd3c57557f6d84482",
     "07bd8ee7a86a6d1df1de1b055352cbdf",
-    "8bfb91c36fda415f9e6d5af04102fb71"
+    "8bfb91c36fda415f9e6d5af04102fb71",
+    "5673576d9190ad9ee0dadc482c7cced9",
+    "ee3bc5a4f8a1644312639038d06c81d3",
+    "c213a543e53b474c7b0fe03378e2f243",
+    "7f5f66c85ccc2f7c2376530efe594761",
+    "6920b1781a6746e4227489a9a3ce85b0"
   ],
   "transfers": {
     "pages": {
@@ -20916,6 +20916,26 @@
     {
       "t": "18 across added adds announced arena change expanded expands groups has lord mastery matching mmorpg nine november pool smilegate system that three world",
       "ts": 1795016169.6416972
+    },
+    {
+      "t": "19 5 add awakening chapter character covers dorothea gentlemaniac horizon inc its leading main mobile new nov november past real srpg story strategy walker will",
+      "ts": 1795016174.979998
+    },
+    {
+      "t": "8 abyss analogy awards been bleeding crimson crown desert deserved developer fully game gaming had its korea pearl straight sweep three use veteran years",
+      "ts": 1795016178.5426562
+    },
+    {
+      "t": "10 19 9th anniversary announced campaign celebrating december during fate grand korean mobile netmarble november order period players rpg run runs service that until will",
+      "ts": 1795016182.000278
+    },
+    {
+      "t": "18 4 announced archeage balances classes content four games has introduced its kakao magic mmorpg new november rebalanced that type war",
+      "ts": 1795016185.922716
+    },
+    {
+      "t": "2 2026 aion award awards claimed excellence game home korea mmorpg popular takes two winning wins",
+      "ts": 1795016189.466086
     }
   ]
 }
