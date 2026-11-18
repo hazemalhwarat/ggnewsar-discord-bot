@@ -1,19 +1,5 @@
 {
   "urls": [
-    "https://www.esports.net/news/gaming/worlds-2026-swiss-stage-round-1-results/",
-    "https://estnn.com/worlds-2026-results-standings-tracker/",
-    "https://esports-news.co.uk/2026/10/24/movistar-koi-stun-bilibili-gaming-in-worlds-2026-group-stage-round-1/",
-    "https://www.talkesport.com/mobile-gaming/bgmi/why-is-everyone-scared-of-ns-redforce-at-bmic-2026/",
-    "https://www.talkesport.com/mobile-gaming/bgmi/goblin-bmic-2026-team-soul-mumbai/",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM1ptVjktZ3Q0dF9lNzBkZVhmUDF2bzhYbHRQaUptQlFSLXdmMVVLY21WZVRDWmt6eHlEbXQzcXRkUjhGZlFDajBQeElVZjhMY1Q5RFdPYVlsMG9TcE14NlhhM2U2MXhVUXh2alBTaEpJS2dJZ2k5QTZEVXFQQ0syYkhTV082ZFE3XzNCYjdyZUx5VDBmRFlzVVpGR3I0TVNwbXY2WTVrdnd5WURIS182Q3JpdXhtZ20xcF80QlYxUGE0NUdibV84?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ic3FfRjBNMWcwSGk5dTc2UUM4cG5JZVktS2lDNFNicG5IYzRacXhCYzRKVjJhcGZ0ZFRsYmRweWNfblNTOGdYeGw1RmIyQkdIVEtoMTFreUpmN1NZdFNVbnlR?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CdFc0QjRMcldTQWhQNE1qZHJxX255bXBQcTN5RDA0R2NGNmFyWXkxUWU5WC10azlRZHFaVmZvYmV6aWRMX1M3UWlpWDZialFmLXR1MFJIcVZrT3hvY01GX2pPZkVvWXVnQTFJZHoyM254Q2V5RXhHUVdB?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wX1h3YllKWGR1Y1hVNVdyaDA1UVZOanJyVnB5ZmczX280TWJHZWZ3M2FvX0VnbGNFSHYxTERlQ2YwSHRvRDlkVUdwd2QwNlRpR2l5aDBxNHQ1aFptVTNFQU05MF9WVURxY1pFWTVNM3JLV3I5dkFB?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbTA4Y1VwazRTaUJ6MHZWZFFyc3o4b2dITV9BVHVuVFg4bGpra0pEcm5VUlRaLVVqVC1tczNvMnltd1U0ZTlwcDJpOEtBRW9xS2M3Vm1wcEJMcFB0d3VPeWNzZDVIdkZVbnJUdHhvYnBBMFNhUnY0dWJIcEhTNzM0bnlfMm5wWkREV3Q3d3N3eEFhRExWa2p5R3VTMHNyV0JSd3I2dVRlaEJrREZyRjJteGRNeFRYV09wMUVOTnN6VzJ5RWxRaDhJTkYyaHo?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3EwQkFxWUZhYlY1R3Uwb0ZBd3Rodm5ERFBpb0ZxaTRXQWlVeFBoYl9pWUI0VWQtSUY4UlZBd0R5cW1oUXVNTGtEU0RDUUVCSlFveXMtOVRpaDZPT2YwZEtranlUNjFXc1lwd1YzUXlRbUtjR3VmcmdaR2JoTW1rMF9MbXYyZlN2RnZzQU9zRHk3Mi1aUUR1azlJRWwxZjNaTXp0WnFuaXp3a2Jo0gGyAUFVX3lxTE9nNk9obHMtcWctdzFvcDlkX1pKZmlYUlpzV2s0YVRtd2ZyZWZaa1FscEp0amFESEdEZzlkcDVIY3BNU1ZsRzlLb29DMjZ0TzhxdGMtQ04yZU40UGdxUmNjYVRzX2YtVmdaLVA2OGhKMGp1ZmNPekV2Ty1qcXg5T25wZkoyOGhPWmY0STZrRE1hNjR0aUdOYi1Za0NVMmVqYzhBN0hBLVFYdnV1cGxsYWo2WHc?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiLUltNjJjR3FFQlVEZGt4Vm9lQU9va2lvdmliU0JYTlhQMUlwUEZTNl9nampZRTlyYzE2YXFSVjVXNGZwYXNoNlBuMmlQVkZYR2c?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lcWh4S1VVWTBlbkVLb1FTbmFNQ1F6UFU3cE9JUk85OGZEQWNnMkVmZkptc2E2Mkd2Z3QyQVhfRTJ4Qmd0OHVWOUcwNEFrYnFzV2E1UVpyN2dLOFdxNDRxMVlB?oc=5",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBROEFudXZxYjhleThJdGg5SW9HYm1wR09jb0l4c3ROZGlmZnFXcmlxYTd0R2hUeXh4bW5WSzdmV3JEOTBhcHZQOEVHUWJIa2ZqbmtpVHQ4SkZWckhs?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqOEEtSXdNWDQycGlSR3gwRzBSOVJ6Zl9iNFM0UDFDeEJ6RHdmdWJzWHktV25hLXUwd19uaGtEejQ2NWplRFNNalQ0R1dZMHdMMktDSUU5NzFSOGc?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb1N5aDQySjNRN05aYkFILWNyc3M3UE1pUldVdTc4XzljUWROdTU4R3JjajgyZS1QSF9xMnhSNFZKVlRHR2dyVnNuNEEyTE1mc1p5aEF2cnZKR1BrR2E4c3ZyQW9hVDZQWDN0X0VDNTdyRkpIR282d2VvZ05aR1A0dkQ2RWxQUnowZXI4?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FM2xfRkl0V3FKUjkwaDUwblhtYm4ya0xoTU5FeUVLdXVHYjJWby1tWnl5NGFyWloxaklJWnFiWXNXTklDQU1XMTUzVS03M0o4ZEVrNWVnNG9OUnlDX0lETEI4WklYMmV4RGtVd0tqM0tJTVBfWE8wcGJvaGM0Zw?oc=5",
@@ -7999,23 +7985,23 @@
     "https://www.talkesport.com/business/take-two-stock-gta-6-reviews-rebound/",
     "https://www.talkesport.com/gta-6/gta-6-cheat-codes-unlock-story/",
     "https://www.talkesport.com/guides/how-to-play-cobblestone-in-cs2/",
-    "https://www.talkesport.com/gta-6/gta-6-replay-missions-manual-save/"
+    "https://www.talkesport.com/gta-6/gta-6-replay-missions-manual-save/",
+    "https://www.talkesport.com/business/nvidia-the-gentlemen-ransomware-attack-claim/",
+    "https://www.talkesport.com/gta-6/all-gta-6-chapters-missions-list/",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmFKWmpGWHA5ZjhoZXdSOWNDb0dXX3pjb2RxV2JoRTdPTDc1emtYUFRONTVnSU8xR3g5bE1FX05CX0dPZTZvODlCeDRGdzIzeEVCd01DWFNXOXpyVElRV01uWGJVNmNJZy1peHVpdG5nSjl0MVdHcUhKWS1lZ2U1SGZIZFFMZHh5N3c?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmFCdVV1ZE1TMU94eUdmV243b0c0ZEdHTy1nbUc4MDV2VmdZVDJjY09jRlpvSjNNelJ1cFA4THo5MDN4ektOS2xrekpMS0RDbGQwdVB2a29ieVBCZzlSdDBaY3dLLWM2LTg2STFlTFliSEJZQlpvNU1fMy1oMTM5WGFZdWhvNnpDOFhhVjNaSHBWbWdTbG50NnlMR256dTFablhUelVpUEw1c1cxWjhSWGNQVUZNN3lRcTMyUWVNU2ctNllKNEhFMGt4Yk80QU9TeUdKTElB?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUUzcENuSFczOVNWM1BJWmktVUQtaHMxYS1NMWRtdVp1LXg3R1VscktEdENHcmNCcGR3YmdEUFB0WlJ5ZTR3S0RTU2F5ajFnbGJfZnIxZlJHbm16V2VKY1hCei1NYjc4SzlCQWRvVFBBTlVyY3k5N1FtSHlwX1RvWU4xR3hFWFFuTWxUNkJwY2dNdHlIVmE0UDByTURMMmpGSEh5WDBMMEdKQmJ3OVlJek1lRl9tdXRfT2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90YUEwVmFmUDkzZ2ZBM0xwazg4dWJhYXVvYUtzWldOQkZwU2U3VElYXzRsRFRUVWZmN3pOT3F1TlpWQzFqN29qTDVrNnVTWmQtakFqd1NXWGhOS0l3dHR1Z0lR?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLUxRdTBCcFVUNnROMUlNZF93cTZPYTdPTVlVYmN2R2dYaHVydDdOYm9LbXNxT3ZRdDA4S1lHY0ZmcklOUlFMQzdaOGN3NW5mblJUVGpDV211ZlNWd1BheDN5QmViLUlTZ2R6WmZFZFpxWGwzTWxBX2VITnowZ1lDMWUwZHF5dWlZQkhqSWE0RQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0l4SjFTOU5tVmtWMGRYdklZaDNvdkVQSXNuMTZhNU45OHlzNGJFOU1hcWVhLTRiUi15d2hINkZoRGVaUzVlUzhuMENCYlc3Y2ZNQXotWmg5YWp6TnhpZjBVa2x6aTlNRjRRSmMxY1BVWDJ2a2xTTTdVbzJreXdpVi00aENLajFMVGtRcWx3?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUl9nRFlYNUdMcFp2Wmx0QndHSmxFcG9tVnlaTmRjUUtKejhpR2t4blZIWFN4dkJZdEp5cTNsQ29yYVo4V2lxangySmdtci1OSGV0b0REMFZjMHpqVkFZYzBNdFdaYU1aVWxmM0wxdC1BTGo3Ml9NLXVPTFN1Sm9MNjdaZTBrTGxBMGtKbXBfNGJnREw2NUhXNE82TmZGTzVTVEJj?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWjNJMmlSdURTaXJWOTBFQjFZaFYzUFFleHpTZVlQeXlwdXc4akYtRnNGdDNVZF8tR1BJNjNKa2ZLcy1JdzdwNjBQRzd4WE5LZTM3STZmSV9UMkh6MmI5dmRuX2tfajJfQXhvM0tSVktYSWVCUjZVZWY1SnBMbXpQenpzTG8zOXUzbk1va1hWbDQ2MXlfZjZwWEhXSGtvUjZZb21RR0l2bDRrYkdSN0tNSVNEdTd0Ty00SFpyRWdyN3k4M1A0N1lOM1R3?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXBDZkhrUlAxcHJkZnZrdGJHY3ZrM1dCUFkyR1FWcWN0LUxvamZJU2FWNTREUWI2MkhCNFM3NnFTSlBOT3k0dXVnXzljNGdUQlIyVl8xZjVBbVpYVV83WWYtZVRwR0h4T1NoUlYxV0h3X1VOdTdaSWNLNDdwbkM3cFBRc2t3WTN6ak1Ga0RMWFVpTXNiTnBZMDdsX21LTEY3b1h3ZjRGcw?oc=5",
+    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU29KcVRFYVlsMUdEMXN5NmlLUGl0SFVSa3RuYzR3S1JJbWtPT2FIMnRXZHdyLV92VGYtYW1ybHVKZVBaLUQtbVBfeHlzaDh1blY1TEVIVmc0RU5DdVFaVEVLR21hVk94NkFkN0pQN0xLTzl5OHVYQWFwREVlYTJUcUpHc1pGRHBwNnRRMU5xMFJwbEUwbC1VcmhqMXdyck42Nl94MnZnQlFXaGpXSTVZNGVOSW1kUkE4VVliZC1xbkgwejdqX0ljaHRJaHBXS1YyZ3lzaUYtTWFiQ3I5eUtvdHgzWGVyQjVKbC1BME5tRUNjUXROemFxdURWYw?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWZMQUhOa1FLQzhuWF9wRFJBV1VFS0Jja2ZKcE9ZMXRRbEJkXy1BZTZkcXdWbHllWHF4c3ZnNXBBeG9PZnI1QW93RjVIT0V3cmxHcUNGeEFTaWxYcGZFY3dQWktPdm5wcnhreWRKMDFxMmpwblVyMTJLZElXbWE3Q09WcXdpSzBrSWcxd1hn?oc=5",
+    "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences"
   ],
   "title_hashes": [
-    "7a14ab69dc23f5db21fe7cf2622c03de",
-    "8aa82cf3a36e3d35ad968595960454ca",
-    "c5e17496f118ce0e6dfd05723dcda3c7",
-    "5abca4ae3cc7778dd0056cba5a7c32f2",
-    "08244d470b3b3550452e075e863d3a5d",
-    "d81982de9f7070998ae722b1165c0ef7",
-    "a97ac2ac5ce8f25921a119f9da30f531",
-    "b5246d82cd677a5d7f30470c694773d2",
-    "e8707477bec3126804a20ee5f95978b3",
-    "1a6ea957a8bb98fe96f2a45438cbceef",
-    "c3af0f7dfcaaaa1ee6d9dad91368d631",
-    "b05f5ac7fc4961be2d43a0ad564c1bf3",
-    "44ce544c2b47bdb53a9b810006e5a8c9",
-    "c1f6b636344f550cea23f76eb31343c5",
     "a6c53f06978e15efe948b0718bbd97a9",
     "ced4b16dc797bcfb95c01151bf0ec2d0",
     "4cb2d263433389cd668b6ef853159c7b",
@@ -16001,7 +15987,21 @@
     "565c7e5a3007ec03c1ef7a5a0967eb2f",
     "e47c70ff14c4cf3184c5f858a205b47d",
     "2c84804c8bf267b00d0f3385f8ab2f3c",
-    "0c5826597394b4b506abeaaf2f1e9cc3"
+    "0c5826597394b4b506abeaaf2f1e9cc3",
+    "b43f479224bdc600e2b4ab1e4be7b886",
+    "a93c0f3e446e49bc17ae925b94d1f87f",
+    "9d485834b1c811a7a0368c90e158aa13",
+    "db9bd8320693491f68b3313ae5d21ae3",
+    "e83043d56269e02edf8e9214c1823ee7",
+    "e9091dfb2047731a80fc215d83799687",
+    "299ddcaaf702753fcab92e4c072724bf",
+    "eca2bbce1ba27f0a2c5e7950eaf5bfd4",
+    "19f51bf81c6eccfb80887764e3c2f4d1",
+    "9539164c14664c739120a6dc2a99746d",
+    "f2d8f4bfedabc1852bde1f9808db3348",
+    "21d73f2069bc563a412b1b4a0d03314d",
+    "363ede56432179fa632f2aacdf2d8bec",
+    "849802a806ef5a6e9c73e2b186f307ac"
   ],
   "transfers": {
     "pages": {
@@ -21116,6 +21116,26 @@
     {
       "t": "15 5 6 available back can gta has loading manual mission missions only option players post replay save slots story unlike you",
       "ts": 1795016367.2279344
+    },
+    {
+      "t": "10 attack breach but cla claims confirmed countdown days gentlemen group has its leak listed not nvidia post proof ransomware sets shown site timer under",
+      "ts": 1795016372.6959941
+    },
+    {
+      "t": "6 93 across all chapter chapters every five full gta has here hidden list mission missions names order post spoiler story",
+      "ts": 1795016376.1668658
+    },
+    {
+      "t": "2027 chances compete cup esports fans follow gives matches more national nations nbsp newswire road teams",
+      "ts": 1795016379.6450965
+    },
+    {
+      "t": "2027 dot enc esports existing expands nbsp protects qualifiers slots team",
+      "ts": 1795016383.2294486
+    },
+    {
+      "t": "6 already arrives audience audiences before critical europe even formally globe gta has including more much read record records releasing response review scores set streaming usa",
+      "ts": 1795016386.690179
     }
   ]
 }
