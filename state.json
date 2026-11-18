@@ -1,17 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMa294RnRBdWFLNFpnR3RrMTZaLXV0XzFnQjM5QzEtNDZNaHpxeGlBYnhfcEZYUEs5Q0FZU050THZ0NmtrZUtGdDVVdm9JSnZCeWh5X1NGXzVnYW8?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14c3A3OUFmazlvS0k4OWNhNEZsN0RRc2pzVU1MRG5STkt4R0p2NXpHV2JfSkJJV1pLc0pfUnloNkJfQ0NuV1lTQ1JxMUcxMm8?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jUU02M0hJcHBrMmo0RzZSRjdqLWtMSGZwSVJSUWZhTUk2S3pZYm1NRkRESm92cVh4R2c0U25WbWpzeHFUQnBWRzlUSTNHZWR4Tnc?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42WEZRNEJPc3BZa28ybjlwYTU0aE54dll3eXpDRDd4U1h4S0s5X0o3OHBRLVVjNnVxZ2ktSXdaLXA2WTdEengtaERRMldqLW1lU0VkY1h5VGp5c2lORVg5VEZn?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JETEtBNVNBT3A4eUNCVzNnZVdJX0cyNWdPVEJQRDI0Qy1qYUM2cmVGR1dNek5vSC04SkJhaTRuV2NONk9yUTJISEZwcE9yVHF3aHBwb2JOYUxoN0x4RTdUTWZKcGZaRTRpTEUzdlBtQXVCRDFhNHoxeFBtcFR6MzlBTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzV3NVZFckxYVzhWTFI5SDNpQlpuNHJ1U0RmMEhDcm4xOUllYWZ4RFpqTDY3WkRfa1N1RUttT0R5OUF3TFZXWEtRc2l4dmJqa1ZxVElxRjkwcWlzQy1DX19KTkJsUEZtdEh3RUVkTGtBb1M3dzZSSEFPakE3d1hPZEp4Z3cydDBHM01tbQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQjd0OVpXd3YzWk16R19lbHhLZG1ZWklaVXlrdDFLLURfRjJrX2EzY0FjQy1OdXBDWC1qdHVnRDZhdFNXbmdYWmxSU1NJYkI0RzlqT2JvbUZ5NEt3Rzc4TkhYel9USzJMLWlhM0hTQVE3bmp6M2ZrdHBUaWU3ckRuYkNSMlFfQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oWHNnOXh2UjZQbVVMWjNZdm1KWWlDU0QyMWJrQnFtUklvTGZpTFYtaXhzQktHcTBELUl2aFFGZWd0S0x5TTdKQUhZSV9vNk5hSEVrUWRmdE5hYjA?oc=5",
-    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yc0xoelIyZkVPOUU3elVYdzdSNUNCa0dZdlJ6TTdTQW9sNk1OTUVNTFhORm5vZ0ZTUVlBcmZPcFFDbkk?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZeXBNY1RmSW0zS3ozbk9mTFNPRzFNTGVlbGYtOTluR0psai0xN1psc0xFSmh4Vk9NVWZFRnVodV90ZjA0ZXF4RHMzaW9udkxYMC1QWDBISm5ZTE0?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSZTNWNEpJRnBfdWVNSEdlOEtaRzFUU2ZMUlZKUnZDUE5DX2x6N1dzb3RCR25KeGJFbXNwU0lMY2c2eXV6VVE4YUdDVXVSUVZRbkI4ZVlwd3BXSGcyeExENlJNSzNEQVBFcC1z?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90Sm5LS0VULXZiLWZQTWplVThNdTBlMC1IZGZpOTlRUmJkS2FoRnhOQ29NTG1hTHBmRE5YY3FsQTVFTHlIZTluNTFRNmVMTUxYVzM3Uk9SMHp5OG9oLXNQUXYwVQ?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRm9fUHZpT1psTU5oWDFmUzJHMEN0SlVXenNuZUFiMDlZSkQ1OW5TVkR5enE4MU01UEpEbnk1ZEktcUd3ZE1wTXpxTkl6bTAtWDRjVlFUcmdmcXM3TUNiNXhVNk5SZENXczBUX1JaMl9lbVA1QWJhSS1EU1BxNE1Zdk1JblIyNWVXUXpoYnBna0dCQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBdnY4TndYNGlvTXdxRXEzY2d2eXJoaDYzSzhZbDVoaVRWZ09IbGZVWHRUbEgydUpqa29NazljclY2akdVOTQ5Mw?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmV5cWx5TU5vdTl3MU9pcHJmLVRmRlY0SE5uX0pTTmVwR0dpYlNvSlRPZmVBWVJfVlVCMUNWcGJQLTF3dmdfT0FtaWhKQ09xZXl4ekswcC1odW1ENHJnTDVQUDEyZFhPd3lNb2xzcnBYZk4xa0tQZXhuR3VESEFXRV9MdjZMb0ZxVTEyNA?oc=5",
@@ -7999,21 +7987,21 @@
     "https://www.hotspawn.com/other/news/esports-nations-cup-2027-retain-qualified-teams",
     "https://www.hotspawn.com/valorant/news/fut-esports-aspas-2027",
     "https://theloadout.com/skewmond-karmine-corp-lec-2027",
-    "https://theloadout.com/valorant-jd-gaming-sign-glacier-from-wolves"
+    "https://theloadout.com/valorant-jd-gaming-sign-glacier-from-wolves",
+    "https://theloadout.com/kai-cenat-and-ludwig-wont-sleep-when-gta-6-drops",
+    "https://www.nerfplz.com/2026/11/weird-pick-177-top-lane-vex.html",
+    "https://www.nerfplz.com/2026/11/hardest-champions-to-play-in-lol-10.html",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jMFh6LWY3NVl2d0h5b3ZZdFhkZ1Vjb1ljbU83MWRJVURtajU2MGEwU296N25QSWQ4NnlCX3UydjM2a2hiRXFXMElDWWlmS0hMTXRpLXdsSk1Meng2eEQxbkFNbHFkZFhuUXF3QVFxR29LZGs?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2dsUWRKbTFHQldGel9sM0JFTnRFNlVjdVNDSDAxeGZCMFFFdGY0WTBxMjRlWXJOWllQdDQxQWlqM0YyelBRcklZVVowR0l3MmhydjlmVWdWT2E1SHBiTkFqSWhfSHc1RzRtRzVhS0xoT0RpNUt2NnFhT29JWHhxR1pTMDVpb00?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZdWtVT2JMNFhvNEpmZWRnWGpjRTFLYTBhTXZIRldpWERacTNaazk2WkMzX3J4WE82OUtNZGQ3VEk4ZUhZUVVQelk4XzA1VGREblFGbmZ6TllxSUtGWUhUWFN3aUhMb3RnNjdPeHY1djdlcU1qR0k1OFFlQkNXV1E?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHJmdzVncENfMUhNNXlKWko0R3lrcEdyanZBMl9ob1NocG9XTUZIWFFYZG04R0VPeTdiN18zclIxSFpEWGt4ZXNmcmotclN2Q2RwTFl4d3FURWd3OVJFWTAycFpvTDlBOFlHTVEwckRiNjFLbjVodDZyb3c1cTN2OWJ1RmdZSWtFdmhfRGNB?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDZklZVDhvTlJrZThEYUJZX1pEQmdscVBhQktzOTBuRmZiRlJORVhiMEZKVUtYMUFGZkZTakR3SjJkMGpTSHRFWHc4UmUxSWdtQ1ZoNDBHQkFUTDlxc1pCUG1yRjVESzF5c3o5UmJIX1gzakNESHBsT3dFUDR0MHc?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMDM3VGR1cnN5b2lBUWhKYS1sS3JnSFMybmhXaEtsMGQ0RFBzOXY5NHdZcGN0bVNoZHVwV1ZOTjUzMXNEVGlIdVhrSGtUZG5pMGxEcW81T2pQNUxIaTFmSkhUQndNZkRUTGdWMF9mUWxfYmJBTThkaDJJSE4tRGRZdmhUMUFaREE?oc=5",
+    "https://europeangaming.eu/portal/latest-news/2026/11/18/218190/slovakia-urhh-set-your-limits-teachers-programme/",
+    "https://europeangaming.eu/portal/casino-games/2026/11/18/218184/maxxi-labs-bad-company-master-baiter-slot/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/18/218178/banijay-9m-2026-results-betclic-tipico/"
   ],
   "title_hashes": [
-    "1873f696df6da1df314eecc1c4e135c8",
-    "4400c8f3551d28fb55cde2fd0e32443c",
-    "aa5e39337fdadf0eb39f2e2063e2f66d",
-    "b30ad0420a8689822b344c8c61d38b52",
-    "941cf3eb3721713a6f4a2103fba6c5fa",
-    "3650de208c5ef0148d09d8ad348fb749",
-    "4d73611f1d455b2c7cecbb5931644adb",
-    "6bc9d1e6701896e40d62bb9863b55a3a",
-    "bc2c716b7bde501d3edde020b14428ee",
-    "522db1e8df57d067395e7836b176bf58",
-    "b5f15ad891880f389cc99a3094f4e89c",
-    "0f747b6a77bf3dad155cfbe0c5f818d1",
     "f349d7bb8151fd96e82c53cd18e19665",
     "394f48646e56581073e4276ccf373552",
     "ca18ddc9da75acc276168e924071ddb2",
@@ -16001,7 +15989,19 @@
     "4864d7e35f5eb298eb96113a266da48e",
     "99bcb637e458fb7944edcd8af1d8e5c4",
     "fd5eb7c2cdd4e1d7095a36fd84b2abbf",
-    "cd0435868e5f6b25a92e9ed37095abc5"
+    "cd0435868e5f6b25a92e9ed37095abc5",
+    "e9da612e6151a0241c3f8ecc65d4d0fb",
+    "271c711690524623dc1d98c516c91ff6",
+    "be6c7258f2e316e91a7f26f0761d19b2",
+    "6a96ab35c592bb20832d9f2bb4e01388",
+    "da1700b9314bc03e776d1b0197ff67a6",
+    "6fbff550ea62e382706dd04f3b719813",
+    "1ca70e943237cbf4d4342a2e86b66cda",
+    "1bb88b88790d402a029c1fe7cd308d5c",
+    "e62ef64be3cb6490161c1ad6e6f197c1",
+    "20cb72ef951a7827db7e53cc8bf19db7",
+    "2983cd479be05492f9d276c591a22f7c",
+    "a0654acf3795f87b35fcad14201d2e8f"
   ],
   "transfers": {
     "pages": {
@@ -21036,6 +21036,26 @@
     {
       "t": "18 2027 according change could duelist esports first gaming glacier has its jdg liang made move offseason old out plays push signed signing team valorant vlr who wolves year zhekai",
       "ts": 1795016289.2882526
+    },
+    {
+      "t": "177 agrees button champions charges dash doesn entire everyone full have lane laner mid off pick plan problem room she that top vex weird whose you",
+      "ts": 1795016295.125701
+    },
+    {
+      "t": "10 bad between care champion champions decision difference don floor game hands hard hardest having highest how lol play punish skill slow some ten there these they understand well who you",
+      "ts": 1795016298.5992806
+    },
+    {
+      "t": "8230 alongside building cover gambling gaming into its lectures network now post pupils regulator slovak spot teachers trained trains turns where",
+      "ts": 1795016302.0269752
+    },
+    {
+      "t": "000x 15 8217 8230 bad baiter collective company fishing game high labs latest launched launches master max maxxi post six slot title volatility which win",
+      "ts": 1795016305.374016
+    },
+    {
+      "t": "12 7 8230 appeared arm banijay betclic betting but force friendly gaming guidance its owner post punter quarter results revenue saw speed sports third tipico wider",
+      "ts": 1795016308.757729
     }
   ]
 }
