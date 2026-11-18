@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeUxNUUNPRHVteEhRQ3FBWVlIbXNLcGtVWnA4dXhxYUlwWmpkYUlHSUwwTkJDVDR6UG9PRnF4emdKczAwLVUyVC1Ud2RKcjYzaVpGMU5wU2xqeUdGMXlVcHlyZE92dnBWSF84QnB3TE9LWldDaFZfeEJ5V2Y0eml2TzRTaWtNWVF2UnVySEVzeFZWU2RGMXc?oc=5",
-    "https://theloadout.com/nintendo-pulls-smilebasic-4-as-tethered-switch-2-jailbreak-ns2jb-appears",
-    "https://esportsradar.gg/google-play-and-nodwin-launch-mobile-esports-circuit-in-india/",
-    "https://esportsradar.gg/riot-extends-2xko-community-tournament-support-despite-development-halt/",
-    "https://www.talkesport.com/news/valorant-13-09-update-patch-notes/",
-    "https://www.talkesport.com/guides/cyberpunk-2077-free-witcher-3-items/",
-    "https://www.talkesport.com/news/india/google-play-arena-official-ms-dhoni-mahi-clutchers/",
     "https://www.talkesport.com/news/esports/pmgo-2026-season-2-grand-finals-teams-dates-where-to-watch/",
     "https://www.talkesport.com/news/cs2/moscow-international-game-week-2026-dates-cs2-finals/",
     "https://www.talkesport.com/news/valorant-clove-nerfs/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/28737/why-limited-edition-collectibles-are-so-appealing-to-fans",
     "https://www.invenglobal.com/articles/28736/jordan-brand-brings-space-jam-celebration-to-twitchcon-2026",
     "https://www.invenglobal.com/articles/28735/7-days-to-die-reveals-bandits-update-its-long-promised-human-enemies-for-early-2027",
-    "https://www.invenglobal.com/articles/28734/civilization-studio-firaxis-cuts-a-third-of-its-staff-as-studio-head-heather-hazen-departs"
+    "https://www.invenglobal.com/articles/28734/civilization-studio-firaxis-cuts-a-third-of-its-staff-as-studio-head-heather-hazen-departs",
+    "https://www.invenglobal.com/articles/28733/thehunter-call-of-the-wild-gets-texas-hunting-reserve-dlc-on-december-8th",
+    "https://www.invenglobal.com/articles/28732/arknights-launches-monster-hunter-collaboration-with-limited-sidestory-thunder-in-the-azure-dream",
+    "https://www.invenglobal.com/articles/28730/crusader-kings-iii-silk-silver-expansion-launches-with-merchant-companies-and-playable-republics",
+    "https://www.invenglobal.com/articles/28729/line-games-sets-december-4th-steam-launch-for-amazing-slot-survivor-after-review-delay",
+    "https://www.invenglobal.com/articles/28726/unreleased-gta-6-leads-nominations-the-game-awards-2026-nominees-revealed",
+    "https://www.invenglobal.com/articles/28731/gta-vi-007-first-light-and-ocarina-of-time-lead-the-game-awards-2026-game-of-the-year-nominees",
+    "https://www.invenglobal.com/articles/28728/sony-defeats-2bn-uk-playstation-store-class-action"
   ],
   "title_hashes": [
-    "7a834c1c99575ac144f54661a4f4a335",
-    "70abfeecd5df9882c82d0e5b29fa08f6",
-    "c43106a28f930897bd165963541c4f65",
-    "1b671207081f8b7fabc3e978acfb5664",
-    "95830085564a7173a846add4f24464b5",
-    "4668d923d20fd85773f2b32c96f8b35a",
-    "8e9b1eb3c19f9b4bdcc8761448ba6819",
     "b91fbc4d129a35c7ad4623b8b436a012",
     "ba939ed21c68a67cb8a3c627ac26dfc7",
     "9086b9ee63ae3c31d6a1ccb0500172bd",
@@ -16001,7 +15994,14 @@
     "7d8f56635a31e7484ac774bca9042ef3",
     "31a698372fc429ed4568dfd2409da26c",
     "3256c0072848e1d01515151096ce8210",
-    "bf9057a94ee0eadac2ad5683d0d966fa"
+    "bf9057a94ee0eadac2ad5683d0d966fa",
+    "ad167c1c7a141b50f7d6617e60e58874",
+    "8ba6ebea0e1e536f1c99012bb68e3f9b",
+    "06c30a3e789418e6657d3bd906ce0735",
+    "1b4535c4a0b1c1a7139090e5783846e6",
+    "ddcde2f6b411526766958afe6dd81a99",
+    "c2f0190350fd238ee22eed0436f9e24a",
+    "bbb98547292f9c186fce363d7804d07f"
   ],
   "transfers": {
     "pages": {
@@ -21272,6 +21272,26 @@
     {
       "t": "17 60 around behind bloomberg civilization cuts departs developer firaxis games hazen head heather its laying meier november off owned people reported roughly sid staff studio take third two workforce xcom",
       "ts": 1794960011.7347283
+    },
+    {
+      "t": "adding arknights azure between called capcom collaboration dream franchise game games has hunter its launched launches lim limited mobile monster sidestory strategy thunder time two yostar",
+      "ts": 1794960016.6571715
+    },
+    {
+      "t": "adds companies crusader expansion families game governme grand has iii interactive its kings launched launches major medieval merchant paradox playable playing republic republics role rpg silk silver strategy that",
+      "ts": 1794960020.0492985
+    },
+    {
+      "t": "2026 6 awards been earned eight even game gta hasn including leads most nominations nominees release released revealed scored set that this tomorrow unreleased year",
+      "ts": 1794960023.5528736
+    },
+    {
+      "t": "007 2026 auto awards blade control evil first game grand gta has its lead legend light nominees ocarina phantom requiem resident resonant revealed theft time year zelda zero",
+      "ts": 1794960026.9154937
+    },
+    {
+      "t": "12 2 2bn accused action add around class company defeated defeats digital games has million overcharging playstation sony store that users",
+      "ts": 1794960030.567623
     }
   ]
 }
