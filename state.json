@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYVNjRGF5RTdTVUZsVG1ZMXVvLUVEcHpIWUJiZ1poTG1YTENEVy1NLTJDYlAzaE5yX3ZLWVpkT01HNzFCZl9KNHluX29EU1NFa2p4cnpBa3NmUDJtQ0Q3Z05wX2VsWjFnbFNGZFlKNjFTS1BwSFoyNTVaZGFQUFNUYzdIQzRNZ2ZvUEdn?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlRxYk5KOGtWdUdfbDVHYVJVdGhjOURzaHVTZDlBUmVnV0lKNUdzX0owdFdOYnJCX2pZWWZUa0h2MThHb05iUkljOHE0NzgtdXlYdkVLbWJJR1ZqOWZuRjgtTGNFbWZiV2NITDZ6UUFrdkZWOGptUm1jZXZWSXN1Zk1hQUx4VDJtS3c?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTm5qak5QWnE2WUluTzQybzdhemprSy1KbWxwR2RrQWhMZlBKY0RHVE5UUmwzMGh6ZnNHT2tfUjBTM0FsWmNGRFI0elcxMk5ZZS02YUVlWnAwMWV4ZzdLbWd6bjhSY044bmwta1IzQ3NLNVF6NVNETEtXZC1UQ2ZQOVpocEs0RW5HeG1XSw?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxObjNNUGJQb09zdTJWS3Uybk1FUnZ4aVR4d3lTZHNoWXNyb3pTQjkxUU02Z1lNUG90SnN2RFV2OXAwRXRzYUUzdVlIeE5yZnIxV3kzNkUzRWFqamMwTGNnZmlxODUyY2VOc0hPc2Zsb0NwdDMtdEl4TXFxNkRVMkM5cFk5NXo2RnFZYmJ0ZVhvalFxYjNBalhfOEpRWU1wOE5OVGV3Q0VhN0tsYXNDcVNDUzJSazc0bHhUY3VoUFppcTMyVUNY?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE81ZWNzMUJJSHdtWDFweGhYUjlHSVNZU045MDZ3Zjk3YTZfNGUyVmdjbmVuQk5PRjNVT2VlNWhOTkROZFVxbm1TczFROHZhWlhuREN1Zks5WjlMYXNsRGVaUHotXzBGbWpQMkZ0RUtxemFQM0VuXzVhNERFQ28?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdURXbGZoT0dtS24zeTRuZ0tTTTF2WnBiRVFZQnJraDBITC1SNFpIQ3ZFaXdTVlFnZ3cwdlBVUUdNOXZWUTZkbkpIQWFsM19NeXRtYmtLanJpVUJxeEVzanJ6Q1pGRnQ2UU9BdWlSbHZNWUltVmkwcW15Y0RORWIwbHRfTzVlal80WDBKMzhwdl9jaG1LN3dXRUdHbFJ5TEU4dXBWcUE3b0FmSkRZRk5rNEstcTNodw?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWVHd2RReDhudHBJdDlhaDBrVkdYU2pQYmNQY0N0YVROZnRtT1l4Ry05LXlHRzEtSnpLYi03eG1zTjNScjVQTG9MSjlNNWdoTTlHbVB1MUxjSmh3TGpqR1M1TkZYWnZkelFtMFMtLTJGZ3BUUG5VV2FWWmFvLWJyYmhiNzJfUk1sclFVSQ?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmtvd0hQZ25VREJnMUR5OGZZb3ljWnZmd0NQdEF1LTNBdTl0OF81eUJjMkYzSmlPdEwwYWxmaklNcTJaLVk0U0FiUGRTc0ZKUFVacDBHb2R6Zmk4Zjg1MWNLMFpoUVJpTW9CNHFqbDhVazlwdkZTcWtNWE9VaHN3cmVwMVlWclJCbXhhcE9fbGhtMzA3Wld6R3ZwbTZMTnM3anJpLVd4N1ZpZUlVNElXVWNIYlZ1bHBY0gG8AUFVX3lxTE5meUhIMmlVRXJYRkFmTkp6VzJzQkRha0JjOXVmb3I0WlZsdjVfb1BMdEY0TzNBWV9vQzNJTDFBU1hYR1BHakhHSE11bjkteUtGY2RiTnh6eVJjYTA0Qml4VG04VlEtaTRYTlVYMHREd25JSlY4WVA0TEJfRDRvWE5XOHVaLVhvUlpFSFRTTnhSMGpOTkVxbkItTHZKZ24tT0YtZkFIUDJmT2FiQS1wc0wwVVFQWXN5eDM2ZmNL?oc=5",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZXzYzdmJyZVZuc3hBSmZCbUpZZFpYVzNzZ09aWTdaSmN3Vmpham9lWDRISmJabTMtWDdLNEQ0dndHTmNhdGlKVi14aTQzenRRNGNZQy00SW1feTFIY2M2dmZwSE5jZzhuQ0FuUQ?oc=5",
@@ -7999,15 +7993,15 @@
     "https://insider-gaming.com/gta-6-streaming-launch-record/",
     "https://insider-gaming.com/t1-zeus-g2-rooster-hle-kiin-lol-esports-roster-changes/",
     "https://insider-gaming.com/where-to-find-bigfoot-gta-6/",
-    "https://insider-gaming.com/g2-esports-ceo-reassures-lec-fans/"
+    "https://insider-gaming.com/g2-esports-ceo-reassures-lec-fans/",
+    "https://insider-gaming.com/gta-6-money-making/",
+    "https://insider-gaming.com/gta-6-devs-didnt-feel-the-internet-was-necessary/",
+    "https://insider-gaming.com/g2-esports-umbro-football-streetwear/",
+    "https://gameriv.com/gta-6-how-to-get-a-free-focus-boost-by-feeding-dolores-the-snake/",
+    "https://gameriv.com/gta-6-how-to-find-buildings-you-can-enter-using-the-map/",
+    "https://gameriv.com/gta-6-how-to-store-money-safely-before-unlocking-a-bank-account/"
   ],
   "title_hashes": [
-    "cddb0e1aa7ed63ccdd25f59017efeb27",
-    "ee98efc398c699904301d89ee6d3eeba",
-    "8977cca6142c785b25b574d43bbf02dd",
-    "4651d638016d9f3ce717d876612f67cd",
-    "00cdc293ee959a1613e600f55c6d4a7e",
-    "0e97188af52fd6ef9c071d6017741573",
     "6505cb68b2498aa873937f53236b7161",
     "04752cc46603570dd596380636ce4e27",
     "dd5827eec8390ed87301771e293d1dd0",
@@ -16001,7 +15995,13 @@
     "adeb514bd769fb9cf00cc5049e90834d",
     "dd9b5a506f920a7978d72eec63fe72f1",
     "b107ce5c02d1a869a744c3ae516fe825",
-    "49a1049106843cfe9a1c2ed55791c4b9"
+    "49a1049106843cfe9a1c2ed55791c4b9",
+    "85d38cce7abfe7531dcca6022752b6e4",
+    "2d74f27294f1d38034424b0ca6492be3",
+    "871971817cc5777a4bec8bb865b47d81",
+    "05f106c595cc90f84063ad11a9a233b5",
+    "c6e870469e18cb94beca042e49854fd4",
+    "8f630e7aa116f00fea8e1077bb3352d8"
   ],
   "transfers": {
     "pages": {
@@ -21188,6 +21188,26 @@
     {
       "t": "after build ceo difficult esports fans g2 has league lec legends offseason org post reassure roster still strong team that tried tries will",
       "ts": 1795041924.183957
+    },
+    {
+      "t": "6 appear auto best can earn ever grand gta guide have here making money much need post quickest theft ways you",
+      "ts": 1795041929.3732219
+    },
+    {
+      "t": "6 8216 8217 apps details devs didn ditched favour feel gta has here internet meaningful more necessary post progression revealed rockstar that",
+      "ts": 1795041932.9019175
+    },
+    {
+      "t": "clothing collection edition esports football g2 has inspired limited long more partnered partners polos post release shirts sleeve streetwear umbro",
+      "ts": 1795041936.350458
+    },
+    {
+      "t": "6 across actually buildings can city enter enterable features find finding frustr gta how however hundreds leonida map massive open rest scattered such using vice which world you",
+      "ts": 1795041939.8307607
+    },
+    {
+      "t": "5 6 8217 access account all away bank before cash during earn especially expect gta have hours how important lot meaning might money more opening right safely store than unlike unlocking won you",
+      "ts": 1795041943.3316593
     }
   ]
 }
