@@ -1,24 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTZZcXZMM2VFREhOeEJ6YzZ3c3F2Y3loXzFCTHNFS2NibmpxdTBBb285bklUWW1HV3FLTUt5bU5iS2hVWUUybzZvNWZjTWVGV19UWWh6dlZuNmNqV0lueklSN0VvU083LU1CbjhxMDF1TVNDR3gwUDFWNXJXYUo5ZDdkenJRMFNoVVJNay1sYw?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTk1raWo2WEhzOHpWNi11d0haSUtMOEFzMlFia3lfa2JzeVM4MGxqUmdNQVZfdHpyNWpUZS1VWU5ra3BpcjBqbThPQVhISGlPbEs0MXF0UTVoT1ZSZlNadDkwTG9rWFJzVjYtVHk0TXRQR1J2NDEwdmNla2QzMG1OZm9lcjF3Qjg?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRlE3a01Hck9uOE96dTRvNHlqMWlheE9fRmVuQ3hUZkh1aHlBcTlqUEZaMkZGeGhFRU4wX1llNjd0SmpkdkhRVS1BRWxDRWVGWjRkUjZ0QUtGV2NEbC1kbVA4X2IxX0lScy1wV000ejlYRWVYOHhvcElieEdFN2Q0bFlCSjlPUWxxWkotRUUyZHE?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGFaUHJRZHVRM2FYWTd2RlY0OFBuLUNsM3hXX3pNSTBKWmFxZExERUFfZmluMzlNSmZfUDdGZ1A4S0dSbmZTeUZ2REViVFFseGN4cWFFcFVHb21OQWNaTzJzMGtzR1JOYV9xcEtFWURzZ0lKT1VEbV9MWHdFTFVscWs1WUJGaVpvNFRhN0ctQm41UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMDh4N2JrTVAxeVpYSGE3bGM0RWR2V3ZXQk11VXFsTkgwbjNHNlRxS0VaT2VnLTBnQWR5MW5RUklBVnhMQV8ySzgzSFBTZzJpM3pVdm1DbVRWYkhZcEMzU1ZFSHBYVjJZTDJ6bjhmbUJCVnE3UjA4a0ptMUhYeVNYc3psTkhiQlE?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oVUttaWtWa2RsN081TEFwclBtTDk4Tkd0Wm1haU1LY2IySng0bHp0U2NtbjVuVTlNR2JORHNjUGxwdlVpNVVlcWg2WThIX1lVS0hSSGNFT01fUzQtSjE1aUpENkU4aHFkNjJLZEFsX0VEWnM0djRPMlJwOUoydw?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xNGlfWjhsZU5zM1J5aGxSWGtadndwQ2R1eFV0X1ZjRmpaVDh6ZXFmUXFjQWN6c0R3eE1SRDB5ZlJUdG0xR1R6N0dJNXBRM3NFbS1STk5DZFN1aUUzaXRUZU1PMGN1MUpWYnZvN3k5bVVvUkRIa0hZb3Fn?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd1FqQ0pRUm9KUlFfRVB6ZTRDU3MtMnNUdjFVUmo3MWI4X3Y3OHNRVzNMNi1JNWs1RGtSemlMcE5PeEd1cjBhS1JtcFRaS3pWNTNUaE1QNHl5VTZSQjFWcjJCTjlnVGp2UlE3VDctdTVuYXhnbjB3OGxydUJmR01DcDJOaTZfSG9MMFJkbVVJMVA?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3NIN2szV214TF9BczFDdkJuMFUyeTIwaF9RM2pjWURhVFZtTjlsVXp0aWlZYUJkVEVRaXNwaHlrdU5DU2s4V1BVcE5xY040WjZMeXgxSTNUVHFJWFVkakFaN1NvQUtuWFVKeVFsQ0hZa1k4U3ZZeVJhUDY3cXZPdVV3NnlEWU1LN1FFdzdR?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVdMdW5aNkRpZFlwYkUtM3p5SXg5MnZMbjV3RGdITmlrZWM3czJITXppZ2VHTXNqM3U3MElqbFlBWjJpZHdRNVhLQ2tVamRmYlVXcm5jaE9WYl9oQnlST3dzUE9KLTNMdFBYVUV6dUhmQ2VqZlR6eEdSc0U2Z1o4c1piZE9UZ2dFbkM4Qk9Qd3lTUERh?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1YxOE5lVXRySVR1bUthYktvTVVFMnllQ0t3Nk92MUNiSVRLbGQ0SVVTNHhqaVkzaXhLTjhTQzdZY1Q2V0lUV2lHZ3d3NTFlazZGVGkxS1k5YlpGeVJZX1kzUURhU05ZMWhNb1J6YUt3eGlObXZIZkZtV1hYazhMa203Uzg5ZURJMkZj?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2tTZVdTcFBfRWF4NDBjSENESzhhVEZ6NmpHLU9RMHhjRlI2VE1pcHU2Rjh3aGRNTm9nS041cWx4YUdBNFdJZWRlYVYtNmp4MmpkaXNLQ29YcTRvSDlBZjNlQUdWM2xmVURTeFhNalBYU3FJWlAyUWdOdVhMT3FOSk9wazBaLTFBVmVPSEgwUk02dw?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xU3J2RW5PQTFZUjBrV0EwYTVsN091TG1MZnZKZ3BuWFlIUFYxbTA0QUEtem9ldkNXeVhHWk45Vl82ZzZEOHZVaF92NV9PcS1uQXQzMTVrN2dLeGZuYklsMEQ0S19adkNrWUlEdlZTa0g1VUVYM1pPeQ?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2FkTnhrYzIzY29fejM4cnZhcnJfbFNmU0tIckVYV1hGanM3RHlsMGVzYzZRb04zY3cyOXIwY1E4Q3ZCRzZiLUttY0UyUmdJVmxaU3V2OTVrc3BlZFZYRGM3cWZjeTh4MFU4RzVZWjNZR0NVMjhWT0lfQ1JFUF80UA?oc=5",
-    "https://www.hotspawn.com/league-of-legends/news/los-feisty-worlds-2026-interview",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUMyNlFxNG45OVBzM0VlMVRPeDNReWpRcTRSd0t5WHNad0ZuWGkwaXpzWWJnT1BlMG5jSTh4Nk5YVmcxWmNFeHpPeE9kYnloQTNXT0d5WVpVQk9nY2MxVV9ZMDFjbHNrYmRhTHh2dEtpdGFGM0I0QUYxVzBIMV9DZ0RHU1JqWUtxZUE?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wVjNNWTV2RFlRX0FYLXV0bi1oa25CSE1ncml3RFA2MzFKT2Y2YlU3c2EwUWJRaVBodWFqb0VqaGs1eXp5a3ZOdEFndTdObkhnaFh5MEdROVFpV1pPdWh4Y29ZYkVGTGRt?oc=5",
-    "https://www.talkesport.com/news/aion-2-ludra-raid-return-november-4/",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNDctTDJ1cWNoUjNENHo5N2xYTXRaamZ6RXZLNUpCQV92SmJYS1VkeVJMOUhmbzNudU1aMkJiR1JJRmdYLXVUMkdmVF9KcVRSZldBaW15ajZQcjdXaTZyWHZrdHlNUVRvZnNYT0YyajNCd2RL?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTRMTWlfXzMtM1pQOERaTU1rU2tKOGNITVZaeFd3Z3gzV2xiTGlWTEIyMUI2NDFoTlQyWS0zckNlLTczOHlMYVVxTTd5TG9IZ2dzdi1ET2x4NVh6VlR5eTZsS0pLLUh3X1drSkdoaEhWblNZNlo5cTJXWHZTNmZwYVpEX2JOQ0hfV1M2V3huSlZpWTE3dF9HaDRWUlg4bUNNb0NiOEk1QXA?oc=5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxNFdXeElmb0dlRUU4bHdvNGtabWw5N1VTSDg5M19SMlRfeVh1U3hQVkp3MGtrTTBfck5PUmZQYTlSbldnSXh2UHVpT18tSUtxbUU2bVNSVU5LTUswcWRCY3ln?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wYmlFZTQtWkttM0dPWGhBTzE0c1lDaTNvYncwS3pRb1AxWVJXMFBwV05rbGo5Sm9mbkFHMWJOekNfZjhGdnl2cDBSMjN6SVMyNEdzQnlUeENyLUE3SU1nckVTNmNOLXQ0ei1BdXl2REhVTDVaUTF5bHhNaUV4dGs?oc=5",
@@ -7999,25 +7980,28 @@
     "https://www.talkesport.com/gta-6/gta-6-lucia-trailer-vs-final-game-comparison/",
     "https://www.talkesport.com/gta-6/how-to-increase-max-health-gta-6/",
     "https://www.talkesport.com/news/is-psn-down-playstation-network-outage-gta-6-launch/",
-    "https://www.talkesport.com/gta-6/how-to-change-time-of-day-gta-6/"
+    "https://www.talkesport.com/gta-6/how-to-change-time-of-day-gta-6/",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxONE1tTGZvWnRIckFjWXRGb0FJZno2YWJ6NWdVZktOWDY0MURQV0dfcy1yR3dELUtJcTJVM293dzhGZEQzLW1GRjhOcEp0aUZkYmZvMEpjdEZFbzhCaUNTZnREckhsV29QRTdYSnVrMGJGWk1Yc2E0OGM4eldlN1hYOElxYTYxa3BvTlZFU0p0aGlQN3d0VUlHT1NUb05Nc0t4VEpwRjM2V3BiVGpKUGtKb05EYzc?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWFVb282UTA4c2RUaHowU1N5Wl9uMzQyd1oxWUpUUmRWZ1RhZldNVl93YmpTSldoMlhQN2NaQjFYU2t2aVEwcUZwd3pidnhHN2MzNGh1T3hteWJrcE1mWnVLZzAwNXhSbmc3MDc0WFQtc3YwU1otWmJ5elo1UndTTTFtT0pIemNzQTNKQnZiUzdFdElGRXNaZ3A2MDZEVHdHM1F6dDhya3ZVM3FCMWRlUEJpY2JVUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWZPdGJCbDlzdGZrbVl6SkpkaG54RlpnU1VWSlJUWjdSNngwYWRRT0I4Skd3ZkVDcU1DN1dWSnJYc1p2VTFLWFB1SU9uaFZBSkJxVlBiLXpqdnNYWEc2ZllvdUxKRG56WlNUTS1wMzJkY1N3RTR0b0VuWlZsQTVGNHNuZGw0aWhNdGRUZUJmcHpKM2ZvM2hfU09JcEQ2NjNoWU9fYTVPdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb3NzOVBFelFuNGtJVlhmeXk3RHZmRjJCS0NYZWFXSnN1NXFOZHI0cmRCX0NoU1FMcmVCb3QwU0p5aFpEY204UFV1QXNPb0RlYkJoUjFCekVqRmZILUVaazlmV1hqcmRkZ00tVk5BaUhTeXkwNndkaS1QZmZiWmZzQnd3aTBSY0pXdG9sNmhERHA0RDV2YW95R2hHZFYyNGt5SHlFV3lqSlJKWUw3aVROOFc5cExnc1pGcXI4?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTW9wQ3Z5d1UyWUFyYy1EMTJEQktiY241RzdUUmV2emQyRVJFVzlQclR5Vm5OVGo1cEYwSDZhV0U5UjBUQXFXcVZWNFFSeWRudVYzZXV3dU40Y21hU0xqemNWRDVrNGlDcEtNWFp4V0wtUzVIWTZQLW52dDJocXEwR0NZcw?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pVFc0LU54ZElwRWRma2dZNGNsNVZQSld4U192WGdDZDBtcUxsWW5QOWZDQWtScDFnRDY4Uy1FQ1RoQl94WmQ4QThGVWVzSjZaSHFiRzhVanF6MnhLdEYyUzE3UTNVZjNkQ0FVb0stUHVPN2Q3X1E?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRMjg0dHNTNjNfNktmemV0VzBaTEMxQWhnSW9fckdzLUdTbkRYX0ttbzhJVURCektua3NNS1BhRFA5dURBWGdqb0lUX25TWDZuNnhnQXViNVF6bzRBcWxydV9uRFhodnh1Q18w?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FWEJzQzI5LWZybHRBYTZVc2Jta25pUzM4WkdCeXNVWUx4U2VseWVCSHk3cF9xVHIxQVdoaHVjeHg2YmdoSU4yREI3QlpzdGNzX0dCWTJVVEpkclZEMTVROXVYQ2hoQVE2aGxrcDZtZ3Y?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeU1nTWFONml2WjJ4N01la0pvSnIwcVV2OU5GZnExbDNFRjUyNWd1bnpCeUhUYW5MX0FVUVRVVTk0Z0l1eE83Z3ZaM2JvUnhSV0l4N0FLMzcwY1loaUNvZnhBZzFhN1ZYYkRqM2s2LTk1RG1NS3N0WTQ3UXBhNzBhN0REenFna1lRMEVySElkdWRIMGktS24yY1BpR1lDZW5QWWluVkFIdi14X0pvN0FsVHBKb2l4M2QyOGF5dXNDV3BiV3BLR1ZsaDUtSkZoZUdCclE?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEJ0WHpERkhuMWhPNkRJQ2RRWnJ0aDdDUHVvbkp0QkVhZC10M3RLdzV2SEpZU1U5S2hpMlhQNlp6QXpqbGxGaTQ5c0ZDTnB2bE80QzhxbEstMlNUazJGMUFEYTNqY0xhUThBbkt3clBPWUthaHlHeDRhS2d4NzZpcnNlcFVIUGt1SGlV?oc=5",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZzVfRnE4SGV4TnN2QXV0RGFzYUVKMG40THZTTE5SNTBBMFJPaDBuTFlNX1R2YTMyRWFNX3ItLWhxQUJyZkY1QUc1M050WE1Zdm1CbHZUYjZCZjJmemdEUFRJR004QlY1bGhObFRZUEZkUHRjWFAxdlR1aDJjb1JHd0R4T2tlN0hYUlp6anVUaVNLeXUtSjhSR0RmS3hGeVBYb0Z3WFNoZUdFU3BCV0kwZkh3a2Z5clhOR0ZGa1dUODNtUmNRNEc2SjdpcGtZemtfUHZCZW9TUngwZW5vNG52dV9MbGZQdlpOSm9sRjV3SVRMbUNmRUtrSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUjltdFZBS3prZjVVeWZ1QkZwcVlSZC1qck9zMTYxaC02a2dWbmJzajk5V0FYaDY3dkd1bHNMZnc3emJaRXN2WVUzUTlvdTFRZkdWN2gxdTZDeUpiMUJxdm5iRmZLTzFTd0F6NkVkWm82U0F1Sk5SZGFlZ2Z3Sk5MNEx1ZzgzSkdUS3JqTkdrLXQ1MWpCeUZJTUtSU2o5RWRWYzhsWC1hQjZKX0JaTXdaek1GTVBucnVUSVUtYVdDR0lna0p4TFMyN0JyQ19iLVp2WHJGTW50WUVHejB4MTBZ?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRi00c1pEQkNtaDJyRERRWTdWQ0p4WERaaXhpVlNoM0ZkeGFFQWFxZTNjN28tOWFIb2JJZGlHMWpfelRubnQ2YlltMEk3c3JwSE03WmllZlFFbmY1dVJnOC0wamRNVWg3ZEZJYlhpVGk3ZjBDdVY3SFFUM2dxa094MW13YmE5LWh3cUxBZWpB?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0NXVlS1l2djJ5SVFwQTg3Zk1vZ2NCWGo1TnMwdmNWTk5BRmZES3BmWXU0N1VIbS1yWlNlRUxiQXdrVmx4TUVLV0FJVmVWanA0UFpZZFFnaG5kc3FQdmYtQUZrVUtSVExWbmlMVUduTTNaSWhwMDFSbg?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxORjRGWjJUQXlKWENDeTYtU25SbHBRcjNiRjV0ZkxXNEl1TEhUOTJuT2kwQTRnXzhGc2ZzMHpLMnFwRlFfMGl1WmxTVW5KN3VyVDVUcWhycGh1TTJRdEZTaU12TzJoQ2dnT0NyVW9mYXVpeHBIMzdIdnVtS19EQlhIUmdtR0FpZW5LTll2aXc5QUdpRGlXRUNQTGs3Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1FBSDFDNElWb1JKemh2RVc0ZEhtM1BaWFRwRnFkTXlaZllTV2l0cktPOTVGelAzZk1SUFFpZ0drbXRNR2JvRzJLU2dJNHhLMmRxSGE2NjdCZmVlNHU4VndFZWt0S2NfU1YwRU5yOHh4YzZIdjVlSjRBMDFSNUw1QWREWXVxVlZqNTZwdE9xczZyTjNiS0pV?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVJSUTctcHRfVTJHZGtuTzdBUml5ZVVrNm1yTzI2bk9jUWRiTWs0VGpycDNaUm45bHpFR2ZjRS1ZRmF6YVQ2WERHWlBDSU1kcWFTSk5VLTFzajNjQU5RZU1VQzE2dzB3Wk42MEFlVGZxUC1uQ0xqUmtYdTRmazN5QUFDN3Y4RFAtUmxjUFIwVEZ1NU5m?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3BCczlFa255Y01sMEtWZTY0eDNQWFdFcGtsNkRQSHRKb0RuN3o2MlM4TWZMdVVCYldXaE9WZ29mdmZjOUNGNW5nN1ZYZDZUd041Y29XRFRmb19zZE5UXzJsSk5Ld3JseER5WnFpbmo2Y25acGZQMktsQjZxRGVLQmRaQllLaEJHQ3NQeWpaa1ZXV210S0lmbFd3eHhHOGk3cTlrT2pwSFVUNHBwWVZ4U2huMA?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0ZLU2d1ZnIyQ2I0UjRTYUlwS3JmVlBWeVg3WHpTSGhtTnMxWE9Id3ZobW9nZVBfaVZrVkVUN3ZMakxaSXJLemNoOERyS0dWUjBpMzh2NmdxOVp0WldzcXowejg1OUJrTVNWZU93LV9HT1o3ZWo2Qmp0OThKc1VrMlQ2cDMtTDNmNl9nVDRBMnRwQ1QzT1ZvdUdTNzVpN28?oc=5"
   ],
   "title_hashes": [
-    "8233e62151f2d0778c0e7909071b55af",
-    "10ea86996ca38b41cb539bdecff5e22b",
-    "d7fcc44fa2454f082e8c91f4f60e7358",
-    "d56b699830e77ba53855679cb1d252da",
-    "dea871783c8101f1c40fdc999e9c39d8",
-    "23fd87c430c93a05cca93e04737788c5",
-    "dadcbf10b185d1f6d859cab1369cd751",
-    "dbb86134749e94b0f13cb357bef7e9bd",
-    "bee299da8a58adf56affb9d981c6f718",
-    "47289b4c42f9c5e09b1151e3180db8f8",
-    "d469bded8f8d612f4f32011c0eb174bf",
-    "d9c832d148bced3f8275e0fdd50f08d6",
-    "3161d6d9be3cabfaf4bf206ab2149bd7",
-    "073a07a55a8ce47f8ed7af52491c732a",
-    "248e17e74de8ec3baebce51002957a8d",
-    "850d1d695ede7a8ff8904a779f7082ca",
     "433661770d9de2c9bea26a751bbc64e4",
     "e79e6fd40fb0f517dd5c58bf3514aff4",
     "c5a21635ac7a215a1e05e1fb6cc1620f",
@@ -16001,7 +15985,23 @@
     "841f7ebd2c4465cffd6592e0234b7f4a",
     "2f2b2354ab185a065327f754186bb17a",
     "580243de45a5db70d4c0ae6c925c5ed3",
-    "3f6746cdc46ce46bc26330962adb5c32"
+    "3f6746cdc46ce46bc26330962adb5c32",
+    "ec77861ac024f88447016500467df819",
+    "5b5536616f96bc9da0ee8a17763c62e6",
+    "54b904e31f5c8f3f216d4f85ef1cc165",
+    "68b35da645c59f9dfdd025d1305fabca",
+    "7e582aa2621389ffa4bea6c1b435fd43",
+    "5650ee6ee9db1fadd93c0b9975a556b3",
+    "89c8743532a5afa657261c7fd03fa6d2",
+    "722f6d6989fca42e110fcbbb679c81a8",
+    "93c97435e6b450d032f73cff9664eef8",
+    "d1a3ce669b3b8785c9384d2ba832af24",
+    "9cfee8a0394536d99d1594c7bd94829a",
+    "448f8f3a05ffd9436c5501071c41861b",
+    "65bd8eaa704a1989995206febafcdbc2",
+    "651ebbe55b494f8b21750cd0acea02b5",
+    "e4e47d67cc8ee0a0f9d16f51d26e556a",
+    "5d460991b58b695cea3dbed79c2b0559"
   ],
   "transfers": {
     "pages": {
@@ -21308,6 +21308,26 @@
     {
       "t": "6 appeared change city day first full gta here how lasts long night now post safehouse sleeping time vice want",
       "ts": 1795042039.3286846
+    },
+    {
+      "t": "2027 announced cup esports expanded nations nbsp new qualifiers regional road rosters sheep",
+      "ts": 1795042044.3980546
+    },
+    {
+      "t": "2027 but cup esports keep nations nbsp places player qualified safe talkesport their",
+      "ts": 1795042047.9197443
+    },
+    {
+      "t": "2027 esports g2 join lec nbsp rooster set sheep sources",
+      "ts": 1795042051.3727465
+    },
+    {
+      "t": "clear esports join lcs nbsp rebellion set sheep shopify sources",
+      "ts": 1795042054.894862
+    },
+    {
+      "t": "esports g2 join league nbsp nord prime set sheep sources zoelys",
+      "ts": 1795042058.3846314
     }
   ]
 }
