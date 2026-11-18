@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWFlJMk1KbjBXNklzUXFBUW1RLXVvVTlKUF9VRmdXT19Md2N4STY4V0FiRUlyVkk1dzBBSWJ6TG9nQmVncEhKZTdBTEpDNGNXbktsM05mNkNyYXFtUE9jcjdvd09uTHlPdVdUQU1CeHFTTXBSUGJ3bzlKbVh5bUlNaXV6cDJNcU1EaWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1Yxc3hvbVpKS1BJZEUyZ1huU2thSU04czNjLUNlNGY2QTloVDFLXzc1Zk1INFNDdDZlYU9jWno0YVVTTEhlcGtORXU0NkFUdzhLQ0ZDUk5GTXQxTTlTaDU1b0JUVGM2U05VUDRlSE00ZXBGaGQ5TkU3SDQ5LXJMRzlBd3JabzlRVGtyQ202Zmp1aWM0RE54eEEyOEFIbVRPM2pjUnhDaEFoa0NQYmJEdlVVQ0hsYmVwa1Uw?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYk9HYzlZbzdIZ3VMeUo1dUs3ajZLc0ljMlc4U1E4M25nbmZtbkhSc0Fpb1d2Y2dKMW91RnE3ZVRlUktzXzk4b3g5d01ERU1pSUdNUkVLZk1zQnBMbXkxeHowMktYbG1zNHowOFQwVDhkczY1VUtZNGYtMFJSZ3dwRmxUU0Y3SExFVXhCY3RLV1NNUG9BRDkwcHlmd1Y3QVJvT1JwUWtJU2NDb2g1R0NOQ1pR?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdTJhZ0RBeF9qZ3hKSkhTZU9IaVhKOVlsaTRTUXFuakYzcE9SblhqdHZ5MFFUQUt5SHY0U2h1VTVBbnYtT2lLMmtqdHVMb2N6N1ByWW13bTRYNlU3OG5zZHl3R3l2c1FjM3NUT3dvTHk4YzhrWUhyVkdDaldURVZyM3hkbzJPMDBaUm50OHAxV0hoYXJxWnRGeG55NHg3VS1qekE?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYVkFTLTEwYzBudGF2VFRCYjduVl9GZjNjcGNxRURwamFIZ0lMZ3RDNXR6QU80dXJkZEhIbkFacVp5WHFOWVpkRlk0MFV6RWFuTlU1WUFSaGQtZkdpa2F3X0hpczVodW1sbXE4WThwNl8?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9memFGWUJ4eDNVQ0hjeENBcFl4TzVwN2ZsY0JHcWQ4djN2MXZENzRFOHpWY1JDMGxhaXNZbXY0UFV0UkJxRHRfWnNuZ01kYzg3MDhiNjRLTjFFaUVfUDBSME41a196V0dVOFFaaFcxbWt5NVNXUHJJMi1zSzVwTmc?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WbDJjb1VnVUpDa1gxTE1EMUdFQWd2S1ZGeURNRzRtSElVYkpSbC04MEMyT0NnU1phakdQc2NBVXRUSmRMS0lnNGpsTmduci1ObmFzdmN6UW9xRFlGZVM2M2d4Rk03SUlI?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdFp2QWNxemRlZWxqNTBrOTE4ZnBCT3h4NUJtT1cxVFd4bUw4SGJmX1RWTTREUGQ2YzA3OXh2LU5NUmxKQVd4NkFBbW5PQ3g5bl8yMDN6ZmNBZnJ5RjhqU3FoejlIVHJaOWQtamxXS2pJbE1fZEFSVFV1WEFRY25wYXlTZVFWTFZ5ZWJfVlh2NnY5c1hzN2RJTXZ0R2ZHVHl4cE1ObEZLUHdZMkxyTnUtWkR5WEtNdW5FMlFfaFRrQzFIRWFmWEE0SS13?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0o3VHpLeTJOU05yWWppMEYwU2EwZEdqZHdBUHlVT2ljT0VhdVdEdVFKS2hURW9LU0hHdWhZZnZrMV8tYk9JWTRnMTVxSmtfQk81ejBBR2I0MDRIaGJNU2NjRU5JWEVqUmlWc0pIQUMySE1UcnZGbjRMNDQ3WFI3WjkwUlVMdmdfZTZCZ0dncmZabE9EWGVLOQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUV9sWHQtZXNLMlM0OGZRNzFWd3JSWHJLcE1YZ1J3eU9LNE5rblhYZWNVd2dVcGhxWG51Wm16RHpTUDRDNkh5S05iMzhZZl8wRm03U2lRQmVRMGh4WEhBUXp1MC10Y3Q0Rk40bEkzakp3Vk1xMDZXOVpHczJSRjJrbkZfdG50eFl2LXBSNXpYc2Jjc2FjaENjVEg4dk5LX3kxV2RGdFc1SFZrbjV4T2l2WHBBWURpU0tjbWZoUUlhdVowczRrWnBNVHBXeS02S2EzdkdjbndTazJzUQ?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTU5LeFBDdjdkSTM1dGFyTlhmNi1lM3B2NEE2MzVtUzVaX0R5Tk9kelFrZ3FFekNTYm93NHVDV2xyUFRWdWFmdGRZQUNCZmM4WGFaTmNfYW9mM016MXFESkNsYkhDRE1aZENyMWk2NmRMbzBzUXp2aHA1YTBCcG5zblJKazFwdExNdmlpZXpqVDZfdDhMZTE5UkpDYXc?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHBQb0JzZ1l4SzV0a2NvOTM5QndTN3pOZTZjQk90blpZNzRfUnU3VlBjaEJkdk83RW1BZGFxN0JoaW1kZjlQdmp6NllsVFc3c3dIQUFCR3ptUUFlS05pbTM5b1FtV1o2ZUdUYXdIb0dEZTVnLXNKaWFSdXJGQk9ma0VxZkVtVktPajlzSDVHTjFrVnFOYlhZSXdYYU9yLTltNWRhVFktdHRCTHBWenhr?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNkh5a1JUV2ZDLTRtaWlOSGo3NnpJWFVyeWVUNUszOWVwbUt6cXBUVGpxcURBeDZEa2U3U291RS01RDIzaXhoTTZqVGpsQjZIbFFLak5fM2FpeS1pUnZyRHNMY3d6VGs5Q0pGckxlQ1pEZUEybFhCUFhWLVU4bWNWTkxHNDVJTHRWT0xPUVRYenJXaHd0V0RfdlVtdVl2bGdkdFVqRVhhYUlTWHFsakozdHhFVFlyS3JZcndDYjJkRGxWLWk1QWNFWEFn?oc=5",
@@ -7999,18 +7989,19 @@
     "https://www.invenglobal.com/articles/28745/hanjin-brion-signs-mid-laner-setab-song-kyeong-jin",
     "https://www.invenglobal.com/articles/28744/riot-games-and-grid-open-official-lol-and-valorant-esports-data-to-the-community-for-free",
     "https://www.invenglobal.com/articles/28743/immortal-wraith-gauntlets-distributed-free-throne-and-liberty-adjusts-archboss-core-acquisition-requirements",
-    "https://www.invenglobal.com/articles/28742/what-to-see-at-g-star-2026-what-to-watch-from-home"
+    "https://www.invenglobal.com/articles/28742/what-to-see-at-g-star-2026-what-to-watch-from-home",
+    "https://www.invenglobal.com/articles/28741/chronomancer-nerfed-and-supports-improved-in-nov-18-balance-update",
+    "https://www.invenglobal.com/articles/28739/league-of-legends-team-voice-goes-live-in-na-and-oce-after-delay",
+    "https://www.hltv.org/news/46011/cobblestone-overhaul-and-major-stickers-arrive-in-new-cs-update",
+    "https://insider-gaming.com/black-friday-2026-gaming-deals-costco/",
+    "https://insider-gaming.com/gta-6-screenshots-surface-social-media/",
+    "https://www.dexerto.com/fortnite/fortnite-pro-huty-kicked-from-org-days-after-flipping-off-camera-at-fncs-globals-3414261/",
+    "https://www.dexerto.com/rocket-league/rocket-league-pro-kofyr-banned-from-rlcs-until-2027-after-allegations-of-inappropriate-touching-3414253/",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZldQeDNVWnNaeEd5cWVRTEhWTGROeUR5UjZyWXFsTG54VUpyLUQ0QnMwc2cySTUyRElIaWJWQTBjMjZ3VV9NRGtIejNLR2R1UlYtSXhUSlpITGw3aEJTYU9XX3NjOVJ4UmprSFJqVUZGVVpoX3RCb0cteEpKem50d3RVSC0?oc=5",
+    "https://www.hotspawn.com/dota2/news/can-anyone-stop-the-dragons-1win-essence-iiii-grand-final-predictions",
+    "https://www.hotspawn.com/counter-strike/news/best-cs2-pickems-for-pgl-major-singapore-2026"
   ],
   "title_hashes": [
-    "46c1be242ac524e9f538f8e19d651220",
-    "f2218948907e5b55c4f3f68d008a0a79",
-    "4f0f399de7d0bac1c1256f4b0061a314",
-    "9b495f29320165c6fc18000307af006f",
-    "3de88442dee51c73d548d6c8f6283b36",
-    "eb40a7f3fc0741cdedd015b5784a55d8",
-    "24dc9f7c88c239cf330d5694567d2997",
-    "ac2d6d89d827a35aa835885331fa73f7",
-    "0a6e06705b8cf68c0c684316c15a7322",
     "a2c544e0171d4f71cd0028b2290a241a",
     "dec411a68b3b49a89f688cb74b7fe67c",
     "f2a03565026efdb3c27c661e6bbcb883",
@@ -16001,7 +15992,16 @@
     "c95d3f283c8d238fed6d02441c5c88d5",
     "9fdc87667ee344676cf5ee3621e158d3",
     "dd078d48e1a98201d659a10c545a2876",
-    "bd10cebf6ea86eaa7e5f1948cc14ed2b"
+    "bd10cebf6ea86eaa7e5f1948cc14ed2b",
+    "8e4b73d686c98b0566b46c40ac475cd2",
+    "3a77b10a1904c3aed43183612f72037e",
+    "0b52d4ab495b5bd3515cfd1c5d72c751",
+    "8aec0319e77d0ed2f1e186efd6435a90",
+    "edf264cc1e4ffbd315c01abb4150a3f1",
+    "3ceee4608d60be3e20a2f7c322541188",
+    "0a72044308170262790dc0dc309c36f6",
+    "c18bdae0651d765633380137de9f692a",
+    "effa18fd42761665ddc29b4a4af91e6e"
   ],
   "transfers": {
     "pages": {
@@ -21240,6 +21240,26 @@
     {
       "t": "19 2026 22 bexco busan days exhibition four game home international november run see star watch what will",
       "ts": 1794982043.8659134
+    },
+    {
+      "t": "18th after america cha delay each every game games goes league legends letting live north november oce oceania other own player riot switching talk team through voice",
+      "ts": 1794982048.7945004
+    },
+    {
+      "t": "arrive been changed cobblestone completely has major new overhaul reworked sticker stickers system update",
+      "ts": 1794982052.132919
+    },
+    {
+      "t": "6 been datamined gta have having insider media new online post reportedly reputable rockstar scenes screenshots showing six social surface surfaced weapons",
+      "ts": 1794982055.7443016
+    },
+    {
+      "t": "11 1win anyone but can capable contending day dragons essence final grand have headed iii iiii let myself playoff predictions pretty see stop surprised teams three title very",
+      "ts": 1794982059.0675485
+    },
+    {
+      "t": "2026 8211 8217 best bringing can choices cs2 each easy ems enough every game here major make next now pgl pick play right set singapore step team that through you your",
+      "ts": 1794982062.4864993
     }
   ]
 }
