@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/news/esports/pmgo-2026-season-2-grand-finals-teams-dates-where-to-watch/",
-    "https://www.talkesport.com/news/cs2/moscow-international-game-week-2026-dates-cs2-finals/",
-    "https://www.talkesport.com/news/valorant-clove-nerfs/",
-    "https://www.talkesport.com/news/south-korea-culture-ministry-gaming-support-2027/",
-    "https://www.talkesport.com/news/epic-ai-megajam-2026/",
-    "https://www.talkesport.com/news/discord-nitro-upload-limit-1gb/",
-    "https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion",
     "https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027",
     "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
     "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/28729/line-games-sets-december-4th-steam-launch-for-amazing-slot-survivor-after-review-delay",
     "https://www.invenglobal.com/articles/28726/unreleased-gta-6-leads-nominations-the-game-awards-2026-nominees-revealed",
     "https://www.invenglobal.com/articles/28731/gta-vi-007-first-light-and-ocarina-of-time-lead-the-game-awards-2026-game-of-the-year-nominees",
-    "https://www.invenglobal.com/articles/28728/sony-defeats-2bn-uk-playstation-store-class-action"
+    "https://www.invenglobal.com/articles/28728/sony-defeats-2bn-uk-playstation-store-class-action",
+    "https://www.invenglobal.com/articles/28727/european-game-unions-publish-joint-manifesto-against-generative-ai",
+    "https://www.vlr.gg/791646/back-to-stanbul-aspas-steps-fut-in-emea",
+    "https://www.hltv.org/news/46010/bad-news-eagles-relaunch-with-academy-project",
+    "https://www.hltv.org/news/46008/cmtry-out-of-astralis-after-one-month",
+    "https://traxion.gg/watch-2027s-most-exciting-sim-racing-equipment/",
+    "https://insider-gaming.com/lol-patch-26-23-gifts-players-huge-buffs-and-winter-map/",
+    "https://insider-gaming.com/no-sony-game-of-the-year-nominations/"
   ],
   "title_hashes": [
-    "b91fbc4d129a35c7ad4623b8b436a012",
-    "ba939ed21c68a67cb8a3c627ac26dfc7",
-    "9086b9ee63ae3c31d6a1ccb0500172bd",
-    "389a83fc80d554f63eff681cff7d695e",
-    "2558a8c08773ed98f078b24fbc2d6fbf",
-    "5c4c284f99e9b85ecc23618c9abff451",
-    "6bc8edb80bb7af1dfc1b63d08fd9dd08",
     "dad24a7d2b4eceffc34a2b66d54c5a4d",
     "12338484a1c16eab978d543d32fc59a9",
     "ba614ae1d11e184c486618a467686502",
@@ -16001,7 +15994,14 @@
     "1b4535c4a0b1c1a7139090e5783846e6",
     "ddcde2f6b411526766958afe6dd81a99",
     "c2f0190350fd238ee22eed0436f9e24a",
-    "bbb98547292f9c186fce363d7804d07f"
+    "bbb98547292f9c186fce363d7804d07f",
+    "9753ef91f917c44d701bef9eae47af46",
+    "f63d12de850dfda49983034f2ff12c7f",
+    "333aaac0b79e74ea1224e9413274f3d9",
+    "b6e9d46d941db4ce9e7507819a8f7379",
+    "29e89f45eb3df17943e413aef897d3de",
+    "a704b02d8d234936dedbb119181b994d",
+    "dd06401b509eeca9f883a486b3acec1c"
   ],
   "transfers": {
     "pages": {
@@ -21292,6 +21292,26 @@
     {
       "t": "12 2 2bn accused action add around class company defeated defeats digital games has million overcharging playstation sony store that users",
       "ts": 1794960030.567623
+    },
+    {
+      "t": "against development employers european game genai generative group has joint manifesto players publish published reject unions urging video workers",
+      "ts": 1794960035.4482484
+    },
+    {
+      "t": "another aspas back city emea first fut his hopes international lifted lifting one stanbul steps trophy where",
+      "ts": 1794960038.864026
+    },
+    {
+      "t": "academy albanian back bad eagles esports famous kosovar news organization project proper relaunch tag",
+      "ts": 1794960042.2954953
+    },
+    {
+      "t": "after astralis cmtry fut had month one only out three",
+      "ts": 1794960045.6839368
+    },
+    {
+      "t": "11 2014 appeared conversation doesn first game has have mainstays nods nominee post since sony time typical year years",
+      "ts": 1794960049.1578867
     }
   ]
 }
