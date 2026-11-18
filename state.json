@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3RQMk02RzA2VnJpMk0yaG9PSDBoUE1QWE5iZlh0bFJvbjJ3bThwMzdPTG1nM1ZjYm4zWUpGbEJmcnFlSDJobVdnaHA3RXVhdUZycHJ3NlBrR2RFLUpNYzVWb3ZfWHZvSHEzTUJES3lDRWt1NTZWV3cwNk90cThJMlU5RTJ6MENtRUlJ?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3lRX0hYVzl3UTVrblU0Nkh0ZWFJVC05cFZYZ3hjTXNxZ0dSOHd5M2dLMUoxUGpqc084VWNVQ2prVG9KU25hVHZ6aXkwZ0JJbTI0R2d2NGxVbHdBQ1hrUGxlMlYweEhVeHpvaHNUYVVkRmJVNVRCbmZ6SXJDZ2lMLTZ3cWJqZnBWbHFMc21NWlJpNEtZTGRxTS1Hay03TTgwX3NsVjdyUlFmUjdkaEFQMHdSMnVhVHNiRlQxcEZB?oc=5",
-    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNamtXMEdpTmhZWkdUQUZCbzd1dU1neF9hV3RTa1JHczBWS01tTkNWQWc5UjIyNk5mb09uaWJtdEpDR0hkQlJaWG90cWpRRjdsZE9lUGFQWU90WUJuRFBLUVdfM1Q1VVhJMjEySTFCM1h0SWtUVHdLZXNXcTYxb19JU3k3SXgyVW0yazZ1Y1IxamlPQS1LZDV6akgyZnMxeDEwWWtVcGpnanRDTjEtU1dId2tHdW5sTG01TXFZZkVldVBHaVdwT1llZFR6dGNuZ1h5UHdxcEp5VEN4YW1KTWkxSDlfX1JTOUhGdEZlY2wwS1FCNkRPY28wa1kzUmfSAYICQVVfeXFMTUNlZUZzQ0xvUDlCcGM4WVFVbkUxVUFVSFlzTWFNa1RvcDF1RlJhamZBeW9iejdmYnJjWXhKbjBVWFgzMWhoZ3pJMW53TnRrUkhLV056LUJIYndSS0xVM0UtMENWOEt6eXNTS2Q1c3lhaENDRFE4UGgzaC1oN0VOUjRvMGdBcE4yWkdERDVSelpxZlBZTXo4MTlFdDVER1NZby1jdVVIdnVWRWdUV0lLbHp0RmEyREhhQTFmb0gxaTZ0bWdmNnJUa3hkcER2NEJrWVVvUEtEczFtbC04MEpPSThBRUFiV0FCSmFLMTdxalNVcHRJYkhHWjhoalFaend0V2RB?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanIzQUlZMVI2NDJ4STFlR2I3T0VBUTIyREVlR1BReGlXT3lYNkFTbGNYYmx1VTVGY1VUS3BSUXRHejVSQzliNF8wdy1JbjF5Z2dpeVZjeXpTZ0o1ZDJJNHBWYnNTeWE3OHNCcEhsVDBTTE5CNHU5ZmdPNDM2UDZvcTl5MVlXdmpHVDZoMg?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHZ2endhOXNQTWNBaGtjNGhaRnpsYXBMX3pzWVJ3YXFHaWh6cmJjMDFoOENDRks1blRJb2RNMC1kVjc1QzhtVXZ3UVJyNDBTaGVTU0MyOE80YkhKc0dza1c2akZyQ0pKZExKVDhuSHp0blNLM1RCQUs3X1JOOC1TN1YwbW1Qd2NZN1QtUw?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE02dUpVaXNfcDc2QmxBUXUyakItSHJSbmx0Ulo2VU5HQ3hhOGRXNmY3MklJVjB0Y1c0NExlenFJQzByNTRRVmdrQnZMRTdVMWpvTVg3cEtxczVGbVhTZmdYbzJnbHRsRF9TRXJCeHhqQ0gyWkdvODBsZEZGTFg?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFhlOXFSelNnbml2UGp3MTNfYk1qMER0SmVLNW80bWc0VDMzUUZ5ckp4cHJtVjlCNkJwVzJJRERtd2ZGemVwUmZqaDYzbkZUOGVQVThCRkJiX0Q5Z2ZjXzhkVjVtYmJUVE5zbnp0Tkh6X1JqX2FFQXd3YktNUXhSU0pnYWVhZWdtcFRudlVHSzZRT29NVGEyVQ?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVpIYjhhRFBLMWxVMkxIR0NwZWdXMTFURjJCM0J5Nzhlc0diT3RMbnNydmxUR2NGcWFCYkZoeE5aaWZ1eGphNmU1SlhJOFRhb0VMX1NkbUliU05NS1VYRUFaVzEzcTdHMFFMQkFCbkplVjJ4STk0XzQyXzNBM2xRek95VHVRQ1NNb1V6MDM0aGFTUDFpZk1EN3FIdG1pTVlEemJzOUIyMXk3UHkzTjcxRG5B?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMEFISmdxUTF0Q29ZRksxUUhCN0FORF9wV1VPQTJHYnk3UmgzNGJtRzZ0RGxxdVVOSmxwNkFBQlNfb0tGdl9ZZnpOcDRJdjJ2ekNRb2FDQmJwNkZ0SHR6MlFvYXNKUnVkZHVxNnk0SzI4cmpxTGh4S2ZGS1Y1b1BWWUowZ0JxaXkwT1k4SzFGRG9tak9Ud3pKSVRNVjNPaU9TZmhVbXNrMkZNTDRtempISTRwcVVMeFYyLUdCeEVISkpENkdlZmJv?oc=5",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/28756/mcst-minister-choi-hwi-young-i-will-persuade-relevant-ministries-on-game-production-tax-credits",
     "https://www.invenglobal.com/articles/28755/the-first-descendant-adds-time-manipulating-descendant-monet",
     "https://www.invenglobal.com/articles/28754/microsoft-kicks-off-ignite-unveils-new-ai-technologies",
-    "https://www.invenglobal.com/articles/28752/30th-dice-awards-to-be-held-in-las-vegas-next-february-summit-registration-opens"
+    "https://www.invenglobal.com/articles/28752/30th-dice-awards-to-be-held-in-las-vegas-next-february-summit-registration-opens",
+    "https://www.invenglobal.com/articles/28751/cookierun-crumble-wins-best-casual-game-in-8-overseas-regions",
+    "https://www.invenglobal.com/articles/28750/minister-choi-hwi-young-hearing-concerns-over-g-star-participation-will-discuss-ways-to-build-flagship-game-show",
+    "https://www.invenglobal.com/articles/28749/rapid-growth-and-a-chance-for-blessed-scrolls-aden-royal-autumn-hunt",
+    "https://esportswales.org/welsh-club-s-e-a-dragons-crowned-bfbs-pro-league-champions/?utm_source=rss&utm_medium=rss&utm_campaign=welsh-club-s-e-a-dragons-crowned-bfbs-pro-league-champions",
+    "https://insider-gaming.com/when-can-switch-lucia-gta-6-fastest-method/",
+    "https://insider-gaming.com/gta-6-metacritic-score-maintains-goat-status/"
   ],
   "title_hashes": [
-    "45b583e46c19896dafa9683999a3f7c9",
-    "2a841b3c42402bb7a2bb7d8db9b666b2",
-    "0211572cf8d493a939bef015e853234b",
-    "70fd10792f805b78ba26b8f7f4a69ea2",
-    "20bc7078bcb639f50f65eb85572755af",
-    "30b0c479c38f7dc8904c75defa4e1941",
     "04cfc1b3f5c9d77d1ba00b1180c25cd2",
     "81ec02b3d6a493c882d315eb2a335bf3",
     "e53de873bdee455230d3528622d89474",
@@ -16001,7 +15995,13 @@
     "1d38ddafbef920515c632b65dbed5ab9",
     "8a836c4d137f16f8383918af91cca8f0",
     "8f4e1105589b3d98079ab377209af94d",
-    "58e52aad5981a64ee707d15f33da4a96"
+    "58e52aad5981a64ee707d15f33da4a96",
+    "4983b0b5a8dd4c99192c8950d9b60c26",
+    "8c1b7633e7b42a402729f3e09eb848ce",
+    "dc358e5990e212e6c9ee73c7fed51ba0",
+    "ce25fc8152b0aa3013786214346367ce",
+    "42aee1e503a8ef2a02c23dba0a2c05eb",
+    "606d67c3e56ae8f67e6c0c2952069d3a"
   ],
   "transfers": {
     "pages": {
@@ -21148,6 +21148,26 @@
     {
       "t": "2027 30th academy aias amp arts awards conference february game has held hosted industry interactive las next officially opened opens registration sciences summit vegas video",
       "ts": 1795041885.3981605
+    },
+    {
+      "t": "2026 8 amp been best casual cookierun crumble eight game google has overseas pick play regions selected wins",
+      "ts": 1795041890.5128548
+    },
+    {
+      "t": "18 addressed build choi concerns culture directly discuss find flagship game hearing hwi industry low minister november over participation show solutions sports star stating tourism ways will work young",
+      "ts": 1795041894.090263
+    },
+    {
+      "t": "aden autumn begun blessed chance classic event growth has hunt lineage rapid royal scrolls",
+      "ts": 1795041897.5857284
+    },
+    {
+      "t": "6 appeared auto between can explained fastest fir grand gta guide how jason learn lucia method now out post switch theft this when which you",
+      "ts": 1795041901.228222
+    },
+    {
+      "t": "6 8217 after dropped embargo ever flooded goat gta had highest like looks maintains metacritic post rating record review score scores status stays stick that",
+      "ts": 1795041904.7309937
     }
   ]
 }
