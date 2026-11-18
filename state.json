@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYUlTcVNmSWFXQ0IzXy10RzVCVzJOQjFEaGxMWnFaVHBsQmg4WHoyVnFSSUZtN19RaHlBRWZyazAwdkdjZHZNYlBwb3VZdndUNVd2SzFDVW9rLVNoWElSb2hBb3RIc01RZkVnWkxzTFBHTHZYMElUN1lWQUROU0dIZnExc3JHLW9iSXpIZ0ZFZ0N1bThMdDhad1IyQ1VzbXYxR0F4d1IyNHZyTXFzQ1FpRW1uZGpiY0Vfem1qTQ?oc=5",
-    "https://www.invenglobal.com/articles/27656/the-boy-who-played-flyff-builds-universe",
-    "https://www.invenglobal.com/articles/27655/hands-that-heal-meeting-the-national-esports-team-physical-therapists",
-    "https://www.invenglobal.com/articles/27654/dk-vs-t1-hanwha-life-vs-geng-all-lck-matchups-set-for-round-2",
-    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-swiss-stage-day-1",
-    "https://esportswales.org/welsh-club-s-e-a-dragons-crowned-bfbs-pro-league-champions/?utm_source=rss&utm_medium=rss&utm_campaign=welsh-club-s-e-a-dragons-crowned-bfbs-pro-league-champions",
     "https://www.invenglobal.com/articles/27658/2000-global-fans-gather-flyff-universe-world-championship-on-site-scene-%E2%91%A0",
     "https://www.invenglobal.com/articles/27657/making-fwc-2026-a-global-festival-for-fans-wemade-connect-ceo-lee-ho-dae-gala-lab-ceo-kim-hyun-soo",
     "https://insider-gaming.com/roblox-backseat-rally-codes/",
@@ -7999,15 +7993,15 @@
     "https://esportsradar.gg/ef-reveals-expanded-road-to-enc-2027-addresses-possible-relocation/",
     "https://esportsradar.gg/g2-esports-and-umbro-launch-football-inspired-streetwear-collection/",
     "https://esportsradar.gg/pain-gaming-names-ready-as-master-sponsor-and-launches-revenue-sharing-visa-card/",
-    "https://esportsradar.gg/blast-appoints-fever-as-global-ticketing-partner-through-2029/"
+    "https://esportsradar.gg/blast-appoints-fever-as-global-ticketing-partner-through-2029/",
+    "https://esportsradar.gg/margaret-li-joins-nodwin-gaming-to-lead-publisher-partnerships-across-europe/",
+    "https://esportsradar.gg/cloud9-and-jetbrains-renew-ai-coding-partnership/",
+    "https://esportsradar.gg/team-vitality-blast-and-razer-lead-commercial-honours-at-2026-esports-awards-in-miami/",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFppWUF0OGN3dndSb1JtRUR6N3dUcU52NUFfbWRXd3FNS0FBUnhqWGNUc1RjTWxLdUN3d1BpTHJhZE96dENpdWMzSmNJR3pncHFFQk1YVWMxVEVCRHhlUmprdWNNN3lPYjFua0F1bEduMk44Y1dxdU5zOGZIMVBaU0c0UV9TelQyeGZnT3ZlbkU0NWtqQVdGaDR4V3l6cGxtQS1FdlVubw?oc=5",
+    "https://www.talkesport.com/gta-6/sam-houser-gta-6-launch-statement/",
+    "https://www.talkesport.com/news/fortnite/fortnite-creator-portal-publishing-down/"
   ],
   "title_hashes": [
-    "b1dc818ec2a28f7b03f11aeb824b792c",
-    "ca62c4c436cc3fe3eb6eca5cb24646a7",
-    "9a89e365508252dcd905c2d2668197a2",
-    "a4fccee71d3972fe109573cb337060ab",
-    "75798d57eaac742ddb343d30a5748f42",
-    "7a239c98f7bf2773c7d7f7c69cd7dc06",
     "1efa82bd5a8b94961a67f5c101cb7b08",
     "03afb292993c7fe8ef54b90ae6f8d1e6",
     "b7e6712fe254fbf9839aad7beba6104b",
@@ -16001,7 +15995,13 @@
     "36a28a516af608994d0b5ffd2c406373",
     "77e134b17f458bedecdd040aad4307fb",
     "eaea6b21dbe070038cfc9496872b3895",
-    "46d77c3679f5588fac873595edbc99fa"
+    "46d77c3679f5588fac873595edbc99fa",
+    "e2b0868e0d61062aa7cc952ddb9b6197",
+    "d54b0d6349bc1d9154dc9594d6fc30d6",
+    "b888e89b142c108ca4e2a32927389754",
+    "9015fdadfe0b561bc56ef8de952a9c4c",
+    "5e3d2755bf2db241548ff734bd572b73",
+    "b5c45c94e255abba9c4b2e79695c82ad"
   ],
   "transfers": {
     "pages": {
@@ -21076,6 +21076,26 @@
     {
       "t": "2029 agreement appointing appoints blast commercial company discovery entertainment esports exclusive fever global has its live multi partner platform production signed through ticketing year",
       "ts": 1795016328.4414012
+    },
+    {
+      "t": "across appointed company esports europe expand game gaming has head indian international its joins lead looks margaret markets new nodwin partnerships publisher publishers relationships",
+      "ts": 1795016334.0044582
+    },
+    {
+      "t": "8217 american amsterdam cloud9 coding commercial designati development esports extending firm have headquartered jetbrains north organisation partnership renew renewed software technical their",
+      "ts": 1795016337.4676132
+    },
+    {
+      "t": "17 2026 adrienne among arsht awards blast center commercial emerged esports held honours institutional lead miami november performing presented primary razer team thunderpick vitality winners",
+      "ts": 1795016340.989622
+    },
+    {
+      "t": "6 breaks calling founder fun grateful gta has have his hope houser incredibly issued launch launches post rare rockstar sam silence statement studio week you",
+      "ts": 1795016344.5126877
+    },
+    {
+      "t": "backend blocked can creator creators epic error fix fortnite given has islands live not portal post publish publishing says through time update",
+      "ts": 1795016347.9158418
     }
   ]
 }
