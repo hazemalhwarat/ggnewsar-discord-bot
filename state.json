@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqOEEtSXdNWDQycGlSR3gwRzBSOVJ6Zl9iNFM0UDFDeEJ6RHdmdWJzWHktV25hLXUwd19uaGtEejQ2NWplRFNNalQ0R1dZMHdMMktDSUU5NzFSOGc?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb1N5aDQySjNRN05aYkFILWNyc3M3UE1pUldVdTc4XzljUWROdTU4R3JjajgyZS1QSF9xMnhSNFZKVlRHR2dyVnNuNEEyTE1mc1p5aEF2cnZKR1BrR2E4c3ZyQW9hVDZQWDN0X0VDNTdyRkpIR282d2VvZ05aR1A0dkQ2RWxQUnowZXI4?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FM2xfRkl0V3FKUjkwaDUwblhtYm4ya0xoTU5FeUVLdXVHYjJWby1tWnl5NGFyWloxaklJWnFiWXNXTklDQU1XMTUzVS03M0o4ZEVrNWVnNG9OUnlDX0lETEI4WklYMmV4RGtVd0tqM0tJTVBfWE8wcGJvaGM0Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE42MVRzSDRnQnpzLURUbDkwN1lkSVdTWHJabW9vQThSd1o1YzBVTllDbXhRbWk2UGdzYmhJSEpvWGYzX0ZXRmlNa1lZQmNPSmMzVE5KSXI1UDJZMUFZSHV1a3hLMzAzM2JGVGZnWW5MYmlEdw?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE01RnRSSFd0Z3JoX1BSRWJpZUtCRDltNjBoeC1kbjg0clJ1TDc4cHplM2ZNQWplWWd3TEJtZmRySXlXcTVmQjExWVR5djc4UDM4Z2xmdmt0UUlhbXFzTlctYWNoZnRxZk83Skl2S3lraW9icUZlMHliMnJBcHNDTXc?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakJXWnlYamlVdS1JdVlFcDFHVHdjUDhtX0R6dnJPd3ZmQ215LVBEMUJRQ1g5b3J5dENmVnNvTlNDZFpBVDRzUXJCWVlnYmNqX3FtMm1LSUFJck5jMV84ZnhPNGpfTkRBR3J3Y1N4Y0hSdVhqMmRyeG52azBwcVlLRms4YnNVV21PZmRocXViU1BWS01LcDVfblNBUVdYNi0wRVo4aEpDc2pxQm9HdFpiY0ZMREU?oc=5",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRmt6Q0tGUzkteXdmc0t6c3JjbF96RjZicFlpdUgzcUFFNVdmMXVUNTFPcE93MzhTcEZLQ0VCVThReVg0S2RZcHBsak5fWHF6M2p6RlJXTzRtTFNsQnNVM3FYT3VBaXVuN0c1UGZMQTdmeGh3Vm5BUkx2NEJSY29EY0xYcDZCWFFzR3lGU3pLNUV6b05DUy1vU3JydmlZSFVRYnFIZk93?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Cazk4NWpBdkgzMFlTamh6LVBFWS00TXpVVFFrWkk0MkpyQ1BXUUpFNnVIanFTYnNlejgxeWJpVzlsVklOaGRXMThkM2h6OHNuUk14SEdDSU9hOVdXTTc5X0tqYTlGUThTSmt5R1U4TkdrWm8?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXBDZkhrUlAxcHJkZnZrdGJHY3ZrM1dCUFkyR1FWcWN0LUxvamZJU2FWNTREUWI2MkhCNFM3NnFTSlBOT3k0dXVnXzljNGdUQlIyVl8xZjVBbVpYVV83WWYtZVRwR0h4T1NoUlYxV0h3X1VOdTdaSWNLNDdwbkM3cFBRc2t3WTN6ak1Ga0RMWFVpTXNiTnBZMDdsX21LTEY3b1h3ZjRGcw?oc=5",
     "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU29KcVRFYVlsMUdEMXN5NmlLUGl0SFVSa3RuYzR3S1JJbWtPT2FIMnRXZHdyLV92VGYtYW1ybHVKZVBaLUQtbVBfeHlzaDh1blY1TEVIVmc0RU5DdVFaVEVLR21hVk94NkFkN0pQN0xLTzl5OHVYQWFwREVlYTJUcUpHc1pGRHBwNnRRMU5xMFJwbEUwbC1VcmhqMXdyck42Nl94MnZnQlFXaGpXSTVZNGVOSW1kUkE4VVliZC1xbkgwejdqX0ljaHRJaHBXS1YyZ3lzaUYtTWFiQ3I5eUtvdHgzWGVyQjVKbC1BME5tRUNjUXROemFxdURWYw?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWZMQUhOa1FLQzhuWF9wRFJBV1VFS0Jja2ZKcE9ZMXRRbEJkXy1BZTZkcXdWbHllWHF4c3ZnNXBBeG9PZnI1QW93RjVIT0V3cmxHcUNGeEFTaWxYcGZFY3dQWktPdm5wcnhreWRKMDFxMmpwblVyMTJLZElXbWE3Q09WcXdpSzBrSWcxd1hn?oc=5",
-    "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences"
+    "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences",
+    "https://www.gamesindustry.biz/build-a-rocket-boy-pursuing-litigation-against-alleged-saboteurs-to-repay-617m-in-debt",
+    "https://www.gamesindustry.biz/grand-theft-auto-6-critical-consensus",
+    "https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases",
+    "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations",
+    "https://www.gamesindustry.biz/how-to-build-a-welcoming-company-culture-in-times-of-turmoil"
   ],
   "title_hashes": [
-    "a6c53f06978e15efe948b0718bbd97a9",
-    "ced4b16dc797bcfb95c01151bf0ec2d0",
-    "4cb2d263433389cd668b6ef853159c7b",
-    "047ae754317f392f4f8f1a445aeae23e",
-    "2469fb327e04a9d8b4be8c6c686face2",
     "0810c1064c0bc5ee21132f7634ba3a9a",
     "edf264cc1e4ffbd315c01abb4150a3f1",
     "3ceee4608d60be3e20a2f7c322541188",
@@ -16001,7 +15996,12 @@
     "f2d8f4bfedabc1852bde1f9808db3348",
     "21d73f2069bc563a412b1b4a0d03314d",
     "363ede56432179fa632f2aacdf2d8bec",
-    "849802a806ef5a6e9c73e2b186f307ac"
+    "849802a806ef5a6e9c73e2b186f307ac",
+    "c92339e7977a7b77efbfb7a2ada006ab",
+    "1e5ed5c01f14a79d3fff82f4d32a51c8",
+    "a23bb6494b2cca6324b02ef00f47fdea",
+    "7ce41d99e0975998acfc01f50b355ccb",
+    "af51eb1f2f3fb7b2e11a8bd5e0bd7a4c"
   ],
   "transfers": {
     "pages": {
@@ -21136,6 +21136,26 @@
     {
       "t": "6 already arrives audience audiences before critical europe even formally globe gta has including more much read record records releasing response review scores set streaming usa",
       "ts": 1795016386.690179
+    },
+    {
+      "t": "61 7 7m against alleged boy build debt developer litigation million mindseye more owes plans pound pursuing read recoup repay rocket saboteurs which",
+      "ts": 1795016392.1813068
+    },
+    {
+      "t": "13 17 6 acclaim after auto been consensus critical delays despite grand grown has hype lead leaks marred met million only over pre theft universal wait year",
+      "ts": 1795016395.7026289
+    },
+    {
+      "t": "36 4 4m 5 6 according amp analyst console drop during fell global intelligence kagan major market million more q3 quarter read releases run shipments third units year",
+      "ts": 1795016399.2606277
+    },
+    {
+      "t": "2026 6 auto awards eight game grand gta including leads more nominations read received theft year",
+      "ts": 1795016402.773097
+    },
+    {
+      "t": "about build building but can company culture easy everything games going happening how industry inside more outside positive rema spend studio than time times today turmoil welcoming what worrying your",
+      "ts": 1795016406.242885
     }
   ]
 }
