@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45799/betboom-overcome-nemiga-to-go-2-0-in-bucharest",
-    "https://www.vlr.gg/780118/wendler-to-leave-paper-rex-after-nearly-one-year",
-    "https://www.vlr.gg/780109/g2-esports-allows-assistant-coach-shhhack-to-explore-options",
-    "https://www.vlr.gg/780100/ara-set-to-leave-giantx-after-two-seasons",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE44Tzk1cGJMY0VUd295Y0NjSTdyUlJUeFBMTEgyQWhISEo5MkRKektxaXcyNnRRa1NaQzNmeUZxanZxRTI5VnBBWXFyazV4bGJlZlRoZWY3VWRIbGZXNGYyYlR6RHR5M2J3X3hCbWRXTTVjTlp1TXlIMUUtaEM?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE51M0R1RkU3NG5QSGQ3WDRMbTVyNXZia0YtUmJSbVhBdmlMTkVTY294WVV5cjZ6VWpVcEx4dnowYkRVQlp0dU82Y2lzVkc2a1Rlb3BET0I0ZFA0UVRXaUN5ZVZYanE1QURCN3MwSTlKQW5wQ3pMRVRXTw?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdG15ZXROei1RNjZVVVZKRVpDSEFfZXlxQ0Q3aE4yeDFHeVozN2JJUi1Fd0dNTVBjN1FCWTlUZF9jeU1oVFVsTnhYU3lOTjYzbmd0OXBWVWF6RnpIcnBSQzd5emVDSXFrUTRJby1SdHc2UExvUzZHU2xELXNUQ01EOW1ZTFBVUDBZNmNTaVZvWl9DVXpUdUNaTDZHLXNlNWluUHJ6TkxZeUFLUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE41UTE0Qzd1NFVaWXFUbVlzTmVKR3hLcUZEdlpYdEtXVUw4eFp1YVR4YzEzRTR2ZXNsWENsU2pudjl4bkZOUF92aFpkQXZWVGN0bThIYTVWblVuaEs5T3ptZWtpMThSVkhVSGc?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28857/cookierun-crumble-update-adds-crumb-clash-mode",
     "https://www.invenglobal.com/articles/28856/78-minutes-after-the-ending-alone-gta-6-credits-by-the-numbers",
     "https://www.invenglobal.com/articles/28855/10-consecutive-years-of-participation-kraftons-g-star-2026-booth",
-    "https://www.invenglobal.com/articles/28854/gta-vi-sets-livestreaming-records-with-791m-peak-viewers-on-launch-day"
+    "https://www.invenglobal.com/articles/28854/gta-vi-sets-livestreaming-records-with-791m-peak-viewers-on-launch-day",
+    "https://www.invenglobal.com/articles/28853/phantom-blade-zero-collaboration-at-zhitais-g-star-2026-booth",
+    "https://www.invenglobal.com/articles/28852/ubisoft-lays-off-166-staff-in-montreal-and-quebec-city",
+    "https://www.invenglobal.com/articles/28851/not-even-cold-weather-can-stop-it-on-the-floor-for-day-1-of-g-star-2026",
+    "https://www.invenglobal.com/articles/28850/wrtn-ceo-seyoung-lee-crack-ip-can-expand-into-games-with-specialized-partners",
+    "https://www.invenglobal.com/articles/28849/whether-it-succeeds-or-flops-its-by-my-own-hand-jang-hang-jun-and-lee-byeong-heon-on-the-flavor-of-dialogue-in-the-ai-era"
   ],
   "title_hashes": [
-    "dc62e040eb1c5bdec972e81c75e78ab4",
-    "b59b33baedd7511f8113b961335b3f16",
-    "8838e2f2a133785c16d148948247ded5",
-    "b39e58d46a488cb2cd17635304a46ed7",
-    "0d4818426d7b48523bc7cd5b6d0d9a6d",
     "39653cab3ecb25b3e71e42517da70017",
     "d34b684ce54c93759a75ba52d330c66d",
     "7cf1e224f0c9c866f6f14ba0a8c6117d",
@@ -16001,7 +15996,12 @@
     "d0375e66f21ee762e922af7d164cbb29",
     "2daca0168c661ed36c3ef3e4af612113",
     "97bedcf92def6eade80cd1f952dee9d0",
-    "561b340f6b578187570520c247fab5d9"
+    "561b340f6b578187570520c247fab5d9",
+    "88bb6b98e2d740f858af18992273cbd3",
+    "503b711c673cd1da5c66523b77ac84fc",
+    "cabc61c3ac029c2142cb85fa119cb90b",
+    "edeead3f441e957fd967374188f66ac0",
+    "f47789d42f58d9375118b60693dc0508"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "125 24 47 7 91 91m according analytics auto charts concurrent day drew firm first grand gta hours its launch livestream livestreaming million peak records sets streams theft viewers watched",
       "ts": 1795121635.2939017
+    },
+    {
+      "t": "1 19 2026 22 blade booth boothg brand center collaboration datesnovember demosproduct displaysitcollaborationevents exhibition locationbexco phantom showc ssdphantom star storage zero zerogame zhitai",
+      "ts": 1795121640.0714386
+    },
+    {
+      "t": "128 166 38 across affected canada city employees has its laid lays montreal off quebec staff studios ubisoft",
+      "ts": 1795121643.5844228
+    },
+    {
+      "t": "1 19 2 2026 2026g 22 amp can centers cold datesnovember day demoslecturesinteractive even eventsmerchandiseindiesmajor exhibition floor game locationbexco not publisherscosplay star stop weather",
+      "ts": 1795121646.9246747
+    },
+    {
+      "t": "2026 background behind business can ceo company conference crack direction disclosed expand games hereinafter into lee main participating partners press seyoung specialized sponsor star technologies wrtn",
+      "ts": 1795121650.318968
+    },
+    {
+      "t": "2026 byeong conference dialogue director directors era film flavor flops hand hang heon jang jun king lee out own pours sentences stage star succeeds took two warden where whether",
+      "ts": 1795121653.6452029
     }
   ]
 }
