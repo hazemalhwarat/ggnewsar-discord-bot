@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxON2dhVXpvWHZROVNfSjdaZzRYdzk2cFIzRDI0ekRvT0lUOWpqcERYZXhUcjFjUDA4eldfaHJqTGtQQlRRMWlnYjM0cVhwaGZsR1dVR0REZTZNUEZ2UG54RmJCc1BEb0RmZlZZeTFTX21YUXdHcFhPa2lPaDRiSFBnNFlR?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aS2Y0OTExYzduSDVraXNSaENEbFdqekxMUjR3WkI5VU12R2Y2cllSeEdSTWZlaU1MdU5JRWVRNUotQV96UlVYQW9wMHRXaURiVWNMSGRFVkZvekxvbW56U092aHhpTHZJbXpaT0dtcmJWU0hLWTAzSw?oc=5",
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV2Y3X3RldHFFUU5OV2hfSlBocmRpeDctenhycUctR1ktMnFEeEF5ejdHNHdwMmJXZTdublJKQk9hSUpveDA4N3NKUnd2QUYydjZQdExGUHN3TzFzd0dMUl9leVVEOTJxUmRaUGh0dGhTM1BCdHBVVm1KbzlIQ0dRNHRLXzMzU2tLZTNrbWctX1lLSzNiUGRDSWMxZWVzZmNVcHdwYjhQV185NmlPQ1FBUzRNc0RDZFRfeDVmb0hiYTFkZFFINThWRXBwdjRtSThtM0hkQ0VsUzIyV2RQTnAw0gHkAUFVX3lxTE81MkFZU2k5cmNmVEc2REFuRkNLeEdlUTYzSThHd3VLbVQxQkt4WUhlRTVJdnZPQkhYVTVJc0liOFVaY0l1eEF5RGNaN1JCTkR6VHlCNldJSEpPWm5IQ2lkZXhqbmFMQWZOOS1qWGRGUEFhYWhfV2ZZUlB0cWZZMjZJeTJWZi1GTXNVZ25iVTNWZEh2ZnFoWUFNMnpMcGpmRTUzd3lCckFFY00yeHFuY0Z4WFhDVmtfZU1fYV9hbnhOLTZWOTNOZjFmbHprVGhBSmY3NGVRamNpWk1EOEVHaFJCNlNHYw?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPbS1nbWtSeEhvUVV0djZGTk1zTmdKdGNJbG5PWU44TmdkOGlSUUI2bE1XN0gya09kM2VadE9odHFQaXNneDQzQS10Q2EtTk83TTAzem5GdWp0WnRNck9ta0t0QVk5TzBITlJDODcxUTN2dHhZT3Z1dzB2a29mZ3NDVERHRDR1bDhCSjRsRUlwU0d1bnJwZkNEOWRZX1JOU2xSVWt3a2lWUm9UVURIRS14eHJwemwzeXR4T3NaSjNuM3ViWHd4TWd6QlRySFJ2dEdOak5oMG1hX01rbDFuZWFQeU5ZZUxEeXZoZG0yaHBQZ09JQmpZSExDci1XUTBkVjkzcDVDRHFzVk50UWFrSUkteHhmck8wMWZfdDJMUjFLRGdJYjNKaGZKeUMzbV94b3lyeHBQMkF4ODlMLW00azlDS2pB?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjlVVDJKVUF0QmZkTWFyMDJOc3loVXNuLUEyM2R6ZFRTVkpvNmF5cEtYdDd0bmVPa01IZlFTZG9QVjh3TGU0ZFNYYXVLQnBrSDBWeldJVTZTRGtvZ1pweC1wMU5mNVBHOEJsb0FKUXZ5WXVrc1JjbzNGM0hLYWJhV2VKUmUzbVVDWkx6c0twOGl2UWNxaDUxY0w4MXRuenpYMkdubkV2djE4em1mSmFPZGFETk0?oc=5",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TNzV0UUp5Q3ZoUU9tRGFpaEp2eVRfS1hydVpqTGU4YnA0dGZ0MmI2OWx3OWxnVGRMZG5tbVlxQjRaeWFnRGZVSWhqenc1Z0lEN1dZc3czWnZjWFFs?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXZSbmlvZzdwT3JaVWoycENyLXp5UlBOYkgwNFluT1VEVEVrUFcxYTNQTHNXaVpmYW5DVVh5YjlVQkZDSjFJNHNVTFdyZ0ZtM19CWFJpOFZfdHVOY3dlVkZva1VJMWEyalZ0RnNaQ2g3X2cyVmFPNVlhYk1xZHNqdC1xS195ZUJUVGZLSUItV0tYMWRSTllEVVRKbHpGNEVUNUtZMHNqQ2hHZi0xVlNjNEZRSDBram5TUEtVZWs1R1VOUl8t?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ySDBBOTdEWldqbjlxLVF3bVhaVDR6NmpCeVpXZFdGdXBPSE5FajhGa1NQMEtrY285aTFMRjNkQnNmZUgtYlQ3Smg1aGRtZnVEelBKZVFsbkI5NGtGT1hRakgya3NvWENRT2RfX0RJLUhsZHUybnF3?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHc0TWxPT2RkM1RybzBXR0lFYzIzend0OHZZOU1GRlNDOXFkYVltQ2xRNl9SeGF3U3otVmgxazlPcTFhX1pabGIwVkpYdGdNZzdzbFhVbE5iZTc3dFdnTERiRG5nVkk1M3prMjJwSU9pY29hdnE1TWx4N3VUczJQaldmVEs4UG43aWtKbXdPZ3hIODhCMkE?oc=5",
@@ -7999,14 +7993,15 @@
     "https://www.invenglobal.com/articles/28813/kanavi-parts-ways-with-hanwha-life-esports-after-one-season",
     "https://www.invenglobal.com/articles/28809/zeus-parts-ways-with-hanwha-life-esports-after-two-seasons",
     "https://www.invenglobal.com/articles/28810/13-tips-i-wish-i-knew-before-starting-gta-6",
-    "https://www.invenglobal.com/articles/28795/zeus-choi-woo-je-ends-contract-with-hanwha-life-will-he-return-to-t1"
+    "https://www.invenglobal.com/articles/28795/zeus-choi-woo-je-ends-contract-with-hanwha-life-will-he-return-to-t1",
+    "https://www.invenglobal.com/articles/28790/disney-expands-investment-in-korean-content-unveils-live-esports-broadcasts-and-new-original-lineup",
+    "https://www.vlr.gg/792308/9z-globant-unveils-roster-ahead-of-latam-south-qualifier-playoffs",
+    "https://www.vlr.gg/792301/yfp-announces-new-look-roster-ahead-of-na-qualifiers",
+    "https://www.vlr.gg/792292/bao-to-step-away-from-competing-after-rookie-year-with-eg",
+    "https://www.vlr.gg/792272/fluxo-w7m-completes-roster-with-qck",
+    "https://insider-gaming.com/bohemia-interactive-arma-4-new-engine/"
   ],
   "title_hashes": [
-    "5481258d5d85f88a5b12f83ef1107b6d",
-    "17d297f43eb93da908a732e7297fa25d",
-    "b7ad2201492b5e0f3c73c0386b7f5066",
-    "11bc8c53fab6db1f695fa3247e55b6d1",
-    "4026b13e153d8d209633d849b393773e",
     "8469f09b0d57c797ee1750acab2cbaf0",
     "abdc1fa49791f42a2ed5b3a1d6cd67bc",
     "42fdc8d280e33930dcf633ff9ab618c7",
@@ -16001,7 +15996,12 @@
     "3714fb5e0de87cdd40d98f6233e0334e",
     "9f3b0af6a6e9b8de665f48261ff4b833",
     "b6f8ba613e8fa8387ee0b23591695cd7",
-    "5039f989c3f8996dce3f50a7f12bd1d3"
+    "5039f989c3f8996dce3f50a7f12bd1d3",
+    "bfd3b334c09ebc4132e2406fca8c8e6f",
+    "7299b8728559e09b9c4b6321edf3e88a",
+    "9ec678623efde84ad92082556b3ade5d",
+    "8a7ac5a8efddc7b9fcc77d61a1a61d2d",
+    "b8475f8f9cd6594dd1b0a2926e98818a"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "agents biggest briefly choi concluding contract ends esports free hanwha has life market officially one our parted player return stated t1 this transfer ways will woo zeus",
       "ts": 1795091071.5701103
+    },
+    {
+      "t": "9z ahead globant latam new playoffs qualifier roster south unveils",
+      "ts": 1795091076.3687966
+    },
+    {
+      "t": "ahead announces favorite look new players qualifiers roster set yfp your",
+      "ts": 1795091079.6367037
+    },
+    {
+      "t": "after away bao competing completing his rookie season set step year",
+      "ts": 1795091083.04433
+    },
+    {
+      "t": "alumni completes fluxo lead loud qck roster set three w7m",
+      "ts": 1795091086.3445559
+    },
+    {
+      "t": "4 arma bohemia build devs enfusion engine further hinting hiring interactive major make new post tools updates",
+      "ts": 1795091089.6483507
     }
   ]
 }
