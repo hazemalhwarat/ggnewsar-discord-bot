@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fMXlSejk0T2FMbWZLUW12WTBjXy0wazlET0pVVDYwTkI2WXpzV21JcFNKUkRVOGdRYnl2b0ozdnY4VXEwanBGazJ5aThYSHM4MGE1WVJXc24zNkJkMGtMSmp3?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXQ4VkF3dFd0WjUzbzNzaUhlTUlFb0VFRDFqMmxfd2Y2YVZZSVdiNTk3dWhKS0lsRjRTc19sNjRsMkdLMWdlYTNKYnRNMlRfaG8tV0tqSGkxZ2VSQzkzeTkzZUZMTlRidU5IZWUtSmFkZkI5WURMY19WeWVoN2M2SlZDZk1WV3B4WTBpcFp3VWhXSVo4WDhrLU5RbkhHSUVFMl9wQUswa25vVnNYTEE?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEhGRUZfb3NueXNiY3pidTdySHdvajBDellXaWpsbW1zbFFjUzBfRENhUVpxaW1WQ3FuVFAwUWlpSzBSMENkYlE3ZHpVNnZ5UE5CVUhTMVpfSjBRRTJiZEdJUmJvVTZJU1M0TXc0SWx5LXBtajZQd3oxaGw0ajIxaC1VZnB3R1FjZEd5ZjRvdWsySV9rcW9JVTFPeEZtY0Z0NThjMWx3SW9CR1c1dl94cXVGTdIBuAFBVV95cUxNSER3azA3dEU0a3Z1V0k0cFlzc2tzcm1Cc0NWX1R5djgwZklSdDh4U1lRSHpPeUdNaU9kc0V5REN3eXJaNlh6NUtYSVEwRTh5ZDg2Y3I2QkRtb0R6YkFiZTBXU2w5RkkxaG9EVjVZSzAxYU9RWkItTTFPOFdEZHlIYjdfMDlaZ3ZEa01JeGZ2Z2tJb1Z3VTdXdHRJdktMclVIWW9ZbElkU3lQUUNTZDR3OU5RRUhXUEpV?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzRYSzBfRkFkb1loNlEzUzEteHBOVm1QLTZ2N2Z2aHFZS2ZWQnBqU1BCaFJhQUtkY0pNU3ZEc0pNa1hoMExpTXM3N0pZaW9TN25EdzViNFJNSnExUjJLZlhSRG5xdUs3OVJNUllIV0R4SUcxMlNHT3hlek9XTGZ1LTJoYWZKa3VmSTktUURYSmc0dlhXYVE?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFRRUEc0N3ZpMklTd2FrNzgxQUhYZnRPOV9NV1ZicENMejNSUHFHWl9pVUtMcmxZNmx6MkwxUnBsekRHTHhJdV91WDhycWp3THFfTGQyTE81RmprMHFYRkhOdWdGTU8zOHphb084MTYwczdhVXNTS0VDbzhsSGQ0U2VTRzVFNDFoZlNtTjFjeE5rUURnRHFLbFhvcGh6SThE?oc=5",
     "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQk83TFVIMzZPbHNkTHFWQ0RXZVF6Nm1oTE9QNllXdURGSzZsMGxUV2xHNTdGamYzSlBZNDg4Tk5tMGo0dkp0TmJfQWhScEFZZFJ4Uld5NzMyUzhsQS1pc21oZDBxTnJGTHZ1enFOWUJ3dHlRUldlVFdFdi03Y3ZMR2lRV1VfMUVaQkRGZHgyX0JyOVU4a0ZRWDE3WTEtbVltQU10Uk5MbTRHR0xOZVZzejVQVjNjWXBvMXdDVkNkTW5PM3FXZVd5NnQyLXFLUXdSTWYwYUI1dnFmWExWWjFWR05vTDM5OVNTZG14QlJlYVVKMjVMVDUxZ2c2eWRvOVNzZFp2REVIN2dTMW8?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxObElZTlFqYU0yb25UdTUxVDhuYVpMVkR3S2ZZNkZIQkVHYTloVXlMLU44WWhhSThjNFJpUHpCYWFQdEo5TFVRSkJhbVp6eWFjdmtyQWNIcGZpOVMtSWhEcTBpQWZVNEhpM2JHcV93elBsczREd0FUOGdVT29HRDMzUTY4MFZ6cnNjeWNTSW9xSGVPRmZnSlFzWVA5dTRvZw?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kX2F1YkVLdl9JZmFNMU9zN0FVRTBHWUp5WU5mR21IcjFlMEJxR0I3eW1XTkhiRS1DUDB0N3J2NVdtNG9PdE5vSzlObko5YmdmZW1UaHRaVnNYS1pNeVBQb3Vya3llUm5rbnZGcTdJeFVwSXZaczB3c0xPYTNRWUHSAYQBQVVfeXFMT3NQWVZQemhoWl9xbDU0VzFGd1FwalJxOHR6cTJxblRPZWxtUDBTMXdOS3h0QjVzUi0zY0FlUVZtR09maWNUdExjWGpCM3JfLUxNTk53aGFXQnY5TU5mVENqWlZBQklFNUE3LVptWWw3OEJxQkJyWWRQRFRVck16Y2RfTE5u?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28820/maplestory-x-blue-archive-collab-november-19-update-at-a-glance",
     "https://www.invenglobal.com/articles/28818/ive-to-attend-krafton-unveils-fan-engagement-events-for-g-star-2026",
     "https://www.invenglobal.com/articles/28816/one-store-signs-mou-to-support-busan-games-and-webtoons",
-    "https://www.invenglobal.com/articles/28817/ncsoft-wins-social-contribution-excellence-award-at-korea-game-awards"
+    "https://www.invenglobal.com/articles/28817/ncsoft-wins-social-contribution-excellence-award-at-korea-game-awards",
+    "https://www.invenglobal.com/articles/28815/rom-kicks-off-1000-day-global-service-anniversary-event",
+    "https://www.invenglobal.com/articles/28814/ghost-online-m-launches-8-events-to-celebrate-2nd-anniversary",
+    "https://www.invenglobal.com/articles/28819/dragonfly-voted-for-delisting-after-1-year-8-month-trading-suspension",
+    "https://www.invenglobal.com/articles/28812/g-star-2026-opens-minister-choi-hwi-young-attends-and-pledges-support-for-game-industry",
+    "https://www.invenglobal.com/articles/28811/over-1516-million-characters-created-in-wow-forever-as-weekly-active-players-hit-15-year-high"
   ],
   "title_hashes": [
-    "d01dd5eabaf2ff0ee5eab11a685eef80",
-    "dfdc93500b3453a390ae1932eccc8c16",
-    "56b43a2ad3ea67dd13bb7a67c3267598",
-    "4d0965782852faab5c8b8ee670664e1d",
-    "630e4fae91ed77a5a57281a135aaf9e9",
     "ba78cfbfd261fdc8740d95cd703a86ef",
     "ce25fc8152b0aa3013786214346367ce",
     "47393629648e97790023f8589e56d399",
@@ -16001,7 +15996,12 @@
     "e837f5e2c641632d1af93737d1fd4f37",
     "c3c4467efd2144f021f5c914f1aae9e9",
     "663193a8c7b6fefe69873a6d0a863e3b",
-    "0ca74ee97251ac7e3b39115281075180"
+    "0ca74ee97251ac7e3b39115281075180",
+    "c0e024136cb9e0df7021c71da6762ea9",
+    "41bb1f3ed753a8e9ff68404c947bafd0",
+    "483560655377cc634f654af7fd73f79c",
+    "d222e918797fe5a7d59dc3b226d0cbfe",
+    "a86c094dc552725ee2a7230ca2e479dd"
   ],
   "transfers": {
     "pages": {
@@ -21300,6 +21300,26 @@
     {
       "t": "2026 award awards commendation contribution culture excellence game hereinafter korea minister ncsoft received social sports tourism wins",
       "ts": 1795060413.0914068
+    },
+    {
+      "t": "000 000th 1 19th anniversary celebrate day days event games global hereinafter inc its kicks majesty off reaches redlab remember rom running service starting",
+      "ts": 1795060418.6153643
+    },
+    {
+      "t": "19 2nd 8 adding anniversary announced arts celebrate commemorative content eight events ghost holding its launches mark martial mgame mmorpg mobile new november online second starting that",
+      "ts": 1795060422.3934324
+    },
+    {
+      "t": "1 8 after being crossroads delisting developer dragonfly force kosdaq market month ousted special standing suspension trading voted year",
+      "ts": 1795060426.273161
+    },
+    {
+      "t": "19 2026 22nd anniversary attends bexco busan celebrating choi connecting days four game gaming hwi industry its kicked minister november off opens over pledges star support theme through under visitors welcome will young",
+      "ts": 1795060429.9417648
+    },
+    {
+      "t": "15 16 5 active been characters created first forever gameplay have hereinafter high hit launched million november over players revealed statistics thursday warcraft week weekly which world wow year",
+      "ts": 1795060433.6994655
     }
   ]
 }
