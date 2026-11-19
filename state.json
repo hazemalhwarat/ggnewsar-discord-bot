@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQk83TFVIMzZPbHNkTHFWQ0RXZVF6Nm1oTE9QNllXdURGSzZsMGxUV2xHNTdGamYzSlBZNDg4Tk5tMGo0dkp0TmJfQWhScEFZZFJ4Uld5NzMyUzhsQS1pc21oZDBxTnJGTHZ1enFOWUJ3dHlRUldlVFdFdi03Y3ZMR2lRV1VfMUVaQkRGZHgyX0JyOVU4a0ZRWDE3WTEtbVltQU10Uk5MbTRHR0xOZVZzejVQVjNjWXBvMXdDVkNkTW5PM3FXZVd5NnQyLXFLUXdSTWYwYUI1dnFmWExWWjFWR05vTDM5OVNTZG14QlJlYVVKMjVMVDUxZ2c2eWRvOVNzZFp2REVIN2dTMW8?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxObElZTlFqYU0yb25UdTUxVDhuYVpMVkR3S2ZZNkZIQkVHYTloVXlMLU44WWhhSThjNFJpUHpCYWFQdEo5TFVRSkJhbVp6eWFjdmtyQWNIcGZpOVMtSWhEcTBpQWZVNEhpM2JHcV93elBsczREd0FUOGdVT29HRDMzUTY4MFZ6cnNjeWNTSW9xSGVPRmZnSlFzWVA5dTRvZw?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kX2F1YkVLdl9JZmFNMU9zN0FVRTBHWUp5WU5mR21IcjFlMEJxR0I3eW1XTkhiRS1DUDB0N3J2NVdtNG9PdE5vSzlObko5YmdmZW1UaHRaVnNYS1pNeVBQb3Vya3llUm5rbnZGcTdJeFVwSXZaczB3c0xPYTNRWUHSAYQBQVVfeXFMT3NQWVZQemhoWl9xbDU0VzFGd1FwalJxOHR6cTJxblRPZWxtUDBTMXdOS3h0QjVzUi0zY0FlUVZtR09maWNUdExjWGpCM3JfLUxNTk53aGFXQnY5TU5mVENqWlZBQklFNUE3LVptWWw3OEJxQkJyWWRQRFRVck16Y2RfTE5u?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGZsa1lWbzM2bmZ3Z3pZZVRuVTFkM3hiWkg3aElIcFhGSWxYLVdRQnoydnJqNXZfYjNzVUZRcnRVMnhCOVFYclNqb19kWVdiYm1FRnNxSExINktvSE5rcVlBNTJuMlQtSXBrMEE2NVlNUXJTeHYzRkVZUEM0QnhIRDdpbzYyLUp5V3hQQ0kzZ3IzaFkzVVBVZ1YtbjVTMEdFeGp2bXJ6TmFhcWE1cXhfN3pVZ18xdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMXVQMjZTTGlrTHFqaS1jRlBnaWVuZ3ZQdGExYUQwdHM0NFlOVEwxRE8xM0Mza0laMDE1NV9Ca0N5aGxDVThMTW9UNG5FNVVTenVxc3JWY0thUXhGbTg4VFZoODE1MW1Jbnp4X1pIVWtidzNhLVIwNmJFaEd5VEJBTGlHT1lpcFdkYnZGamw5dm5qM1Via0xaM0JSRnRuWHRsRlBFWXJYRnBOZw?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOci1jTVVCQ2FrTFpVYVZ5R2cyYmN4SmQ5T2VCYmxKM3g3LVMxMFdoZUdBako0NVVwTjVEeEtBU0Nsd0h4X1VXWDhJRTJWSTVCSmhLWWY1NGNiUDdQTVdvX0lSNU90Z3k1NWRzdnRxVXhTeUFYSkFPVWhNaTlEdFNNOGlxQ3ZPUGFoT3ZvTERmem5OQ0dLeGhDOFR2Wk3SAaIBQVVfeXFMTTJQRkFuOUp4ejdDOU9jTVhBQllpbDlzV3F0cUl1ZjlVU0QydGxyXzEwYjhVck80cTYzajRpc0RKRDk0QlpSMXVKTlZYYkgtZkxWZ19IYVJUR2lIUkMtN0xlVUZfVWVhUWxldzVvNWt5akhRWVdCQmF2bTN0UTZmVlZ0U3FaU19GVGNXcHVwc1JOSDYwNWFSd0M2NUotUTllRy13?oc=5",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE44TlQtMWt3ZUxfWGQxSXc3QVhEQ05nT250cmVVOTRyYnpzbTdSZjJKNUpGbHFuLUd5dVZoY0xhNXhDUTVqaE5DRk4taF9wMXBYRjlPb1VQenJNTFNqSU9yeUZiNnF6N0ZoMk11Sg?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LUUdvdHBLc1J3aXlUb1hOS2hwNDR5OXgxMEZtdlh2VGU1dXlGV1hsREZTTGVuaUE0Ri12SVBNYVFaeWpWTTBnVjlDZnk2ZFd5ZHc2bTFSWjNrT0NfTXpGVkZQWGlEbmg0RzBUTGxMOTZrWUdZa1JGZUx5RVU?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FTUZ3aDZmYzJpRG1fMmdvWWlsQVVGYmlVX2RLaVVwbGloTm5pMlN4OEYwMFk2N1NXVVRZVlhDY2RtUWRUQzE4ODRrNW5RdG9taElXX0NybmdrNDdEZDZ1b2V3NXhBSWs?oc=5",
@@ -7999,14 +7993,15 @@
     "https://www.invenglobal.com/articles/28814/ghost-online-m-launches-8-events-to-celebrate-2nd-anniversary",
     "https://www.invenglobal.com/articles/28819/dragonfly-voted-for-delisting-after-1-year-8-month-trading-suspension",
     "https://www.invenglobal.com/articles/28812/g-star-2026-opens-minister-choi-hwi-young-attends-and-pledges-support-for-game-industry",
-    "https://www.invenglobal.com/articles/28811/over-1516-million-characters-created-in-wow-forever-as-weekly-active-players-hit-15-year-high"
+    "https://www.invenglobal.com/articles/28811/over-1516-million-characters-created-in-wow-forever-as-weekly-active-players-hit-15-year-high",
+    "https://www.invenglobal.com/articles/28810/13-beginner-tips-for-gta-6-i-wish-i-knew-from-the-start",
+    "https://www.invenglobal.com/articles/28808/hanwha-life-esports-parts-ways-with-kanavi-seo-jin-hyeok-as-well",
+    "https://www.invenglobal.com/articles/28807/esports-community-games-playoffs-kick-off-on-nov-21",
+    "https://www.invenglobal.com/articles/28806/hivelab-unveils-game-cx-strategy-at-g-star-2026",
+    "https://www.invenglobal.com/articles/28805/goddess-of-victory-nikke-adds-new-ssr-nikke-sky",
+    "https://www.invenglobal.com/articles/28804/esports-foundation-expands-road-to-enc-2027"
   ],
   "title_hashes": [
-    "ba78cfbfd261fdc8740d95cd703a86ef",
-    "ce25fc8152b0aa3013786214346367ce",
-    "47393629648e97790023f8589e56d399",
-    "fbeccbddb1321d1c3d4e5acec326e2bf",
-    "798e7ad53adde2421278836ac5f2a7d9",
     "07536852603c02e0aecdbca6f26b1fe2",
     "6bb33c5912bdd3aeade3b78ee4af2dc9",
     "b8bf9b57c950b21c1b000e8ededf1ecd",
@@ -16001,7 +15996,12 @@
     "41bb1f3ed753a8e9ff68404c947bafd0",
     "483560655377cc634f654af7fd73f79c",
     "d222e918797fe5a7d59dc3b226d0cbfe",
-    "a86c094dc552725ee2a7230ca2e479dd"
+    "a86c094dc552725ee2a7230ca2e479dd",
+    "3c78b2e66309fc864e510b5698577132",
+    "fed7c0c157299013f7ce67f47212c65b",
+    "47c1040cacb19b856dc4b5ae0927f397",
+    "b5eb18ede38e617faf5996d1d86218ab",
+    "5768120dc7294673a9b9fd3b9d0ebe03"
   ],
   "transfers": {
     "pages": {
@@ -21320,6 +21320,26 @@
     {
       "t": "15 16 5 active been characters created first forever gameplay have hereinafter high hit launched million november over players revealed statistics thursday warcraft week weekly which world wow year",
       "ts": 1795060433.6994655
+    },
+    {
+      "t": "13 6 aren auto beginner but city expanded features finally grand gta has head knew launched leonida made more most much ready some start state theft there tips useful vice wish you",
+      "ts": 1795060439.1149514
+    },
+    {
+      "t": "19th announced concluded contract departed esports hanwha has hyeok its jin kanavi life media morning official parts seo social that via ways well",
+      "ts": 1795060442.754521
+    },
+    {
+      "t": "19 2026 21 announced association community ecg esports games hold kespa kick korea nov november off playoffs sports that will",
+      "ts": 1795060446.4484437
+    },
+    {
+      "t": "19 2026 announced customer experience game hivelab integrated its marketing november participate proprietary solutions star strategy that unveil unveils using will",
+      "ts": 1795060450.149013
+    },
+    {
+      "t": "19 2027 announced enc esports expanded expands foundation four including initiatives introduction key national november plan pursuing road support teams",
+      "ts": 1795060453.7560463
     }
   ]
 }
