@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://gameriv.com/s0m-leads-valorant-superteam-into-vct-americas-kickoff-qualifiers/",
-    "https://gameriv.com/marvels-blade-developer-arkane-lyon-faces-november-13-deadline-amid-closure-threat/",
-    "https://gameriv.com/a24-reportedly-bets-nearly-200-million-on-alex-garlands-elden-ring-movie/",
-    "https://gameriv.com/mass-effect-fans-rally-with-100000-signatures-to-save-franchise-after-cancellation/",
-    "https://gameriv.com/some-ps5-disc-games-reportedly-require-firmware-updates-to-play/",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE50akQzOC1JbUhDUXh3QmF1Zl84NWNxVXBic2ZTalBpREJ6ZHUxQmRfVmpBZnpWUGF3WHdhc1lyZWJCNGJib3I5STRLclZyUXJVZlZCN2d0OHBWMkU0Tl9ESGtackkxVzl0MFFFajJSX2dlUXB4?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXdTXzQyWmpoVk5Ja0NPYXFwMWh5RTktVmlZVExjeTVuMW9kV1BWSG9mVVBDcksyaE9CcUxxVFJSQW0xRHptQXE5YXZQTF9tWGlQS2dwdmZLenRyLTRiaDBIVVkzMlVCWlRqRnFSZDZOYTdZY3FaRFJ3Ul9RNmVjM2QzSnJXelUtLVMtT3dnUVVDUEQwdWNTNEt0WEtHcDMzNEJVN1UxX2VjSm1rejcyQzd3VQ?oc=5",
     "https://www.global-esports.news/call-of-duty/the-system-requirements-for-call-of-duty-modern-warfare-4-are-here-but-one-important-piece-of-information-is-missing/",
@@ -7999,14 +7994,14 @@
     "https://europeangaming.eu/portal/latest-news/2026/11/19/218272/new-christmas-slots/",
     "https://europeangaming.eu/portal/latest-news/2026/11/19/218274/finland-gambling-licence-register-25-holders/",
     "https://europeangaming.eu/portal/press-release/2026/11/19/218263/yggdrasil-xmas-dreams-christmas-slot/",
-    "https://europeangaming.eu/portal/latest-news/2026/11/19/218259/better-collective-q3-2026-results/"
+    "https://europeangaming.eu/portal/latest-news/2026/11/19/218259/better-collective-q3-2026-results/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/19/218253/estonia-online-gambling-tax-bill-first-reading/",
+    "https://pley.gg/cs2/dominoes-hearts-and-rejected-tributes-on-the-singapore-major-stickers/",
+    "https://pley.gg/cs2/inner-circle-play-on-after-owner-slobozhenko-is-detained-in-italy/",
+    "https://pley.gg/apex-legends/hypermyst-leak-dates-apex-legends-quads-for-15-december/",
+    "https://pley.gg/valorant/paper-rex-land-primmie-and-bring-patmen-back-for-2027/"
   ],
   "title_hashes": [
-    "e329fccae3f5495d498631878b21840f",
-    "4edcfce249f77e5f91dfcb03ec70f256",
-    "3402721939677e4f8ed6dec620844ec3",
-    "3f11148fd7b51c31ed4d9c0aca094a71",
-    "cb62ffd52450dabfdd108e834ceb8f9a",
     "1d365c45560a690fb144e357f08994ad",
     "b383022acae1e424f9adab9056fb3356",
     "9dc96ba1f59c65f41b100f17a79fc603",
@@ -16001,7 +15996,12 @@
     "95d419945731c35c32f60794725119a4",
     "6cc21665fa5f26bfafadc03b3ed0d9ee",
     "f5a604490f409522aeef7b341f8b8b19",
-    "e2d6e50482d568a492cfaaa6c4b303ef"
+    "e2d6e50482d568a492cfaaa6c4b303ef",
+    "4b7e1c1d5c4b6758d216a891beab3e64",
+    "0667c1f0400a04dd1b602141197a92e6",
+    "9d2d677c1c74dd30cb9e4408e80b41a3",
+    "3efb09f7757627dd10ee73ed23599edb",
+    "e75a191f4e59a778bd8ed067f2fdd201"
   ],
   "transfers": {
     "pages": {
@@ -21324,6 +21324,26 @@
     {
       "t": "28 8217 8230 america american ban better betting brazil business collective danish group grow grows its leaned markets media north post posts prediction q3 record revenue sports",
       "ts": 1795091216.7408364
+    },
+    {
+      "t": "7 8217 8230 betting bill casinos challenge cle clears cut estonia estonian faces first gambling ministers now online opposition parliament post reading restore stepped tax though want",
+      "ts": 1795091222.046344
+    },
+    {
+      "t": "000 3 autographs cost designs dominoes down gold got hearts kscerato major mezii rejected show singapore stickers their through tokens tributes turned valve vini while xfl0ud",
+      "ts": 1795091225.3004355
+    },
+    {
+      "t": "0 2 after been circle detained face gamerlegion had hours inner italy lost oleksandr owner play reports sangal slobozhenko that thursday",
+      "ts": 1795091228.533357
+    },
+    {
+      "t": "15 21 apex arrived dataminer dates december double event expected first hypermyst leak legends live quads says season take which",
+      "ts": 1795091231.8245995
+    },
+    {
+      "t": "19 2027 back beside bring f0rsaken full invy land november paper patmen primmie returning revealed rex roster sense something their",
+      "ts": 1795091235.0225432
     }
   ]
 }
