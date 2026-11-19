@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX0hlTzRPWDhtaU1LQUJFVk1SelRjcUhrc3M2bU5HUmpVSDVPSlZncm1SS2VudTVlbV85OUt6dHBsRGJhdlRmbmM5eHJ2ZjZjbkNZMmhobGpJZmxLcERhSloxV09jWlkxeng3WndzMFVyM0RCVFdHaDIyWmNwNE1ycUluNnJGd2t4QVBzd1p6dFM1em50X3hKS1l6bw?oc=5",
-    "https://www.invenglobal.com/articles/27672/lpls-first-seed-facing-early-elimination-al-tarzan-i-wont-give-up-until-the-end",
-    "https://www.invenglobal.com/articles/27671/automated-factory-building-game-factorio-receives-final-major-update",
-    "https://www.invenglobal.com/articles/27670/astroneer-developer-lays-off-over-30-staff-following-underperformance-of-new-title",
-    "https://www.invenglobal.com/articles/27669/why-is-it-always-the-makers-who-pay-the-price-industry-luminaries-express-anger-over-bioware-closure",
-    "https://insider-gaming.com/shigeru-miyamoto-ai-creativity/",
-    "https://insider-gaming.com/a24-elden-ring-movie-budget/",
-    "https://estnn.com/vct-2027-free-agency-t1-tenz-roster-changes/",
     "https://estnn.com/valorant-game-changers-championship-2026-bracket-results/",
     "https://www.hotspawn.com/league-of-legends/news/tsw-eddie-worlds-2026-interview",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2FwWUNzV2pHV3FUOUxhS3dfSzJXa284dmJ1WkhlUS1RczZ2d2EtZUxUZkQya3Rlc1ZQRjdLVGZEQnhNeXRNVW9QV3RZaFBDa2pDbjhxZXBpRXFUVjI0U3lRX1pPSGIzN05TUk8xZ1NJMVVQQzBSZXdaczRoUnpQaWkxSjBQWVdHUno1cDd3WQ?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/28800/com2us-zeus-god-of-arrogance-wins-excellence-award-at-korea-game-awards",
     "https://www.invenglobal.com/articles/28799/soop-to-exclusively-broadcast-two-international-starcraft-ii-tournaments",
     "https://www.invenglobal.com/articles/28798/witch-the-showdown-launches-in-steam-early-access",
-    "https://www.invenglobal.com/articles/28797/keystone-marketing-company-attends-g-star-for-4th-consecutive-year"
+    "https://www.invenglobal.com/articles/28797/keystone-marketing-company-attends-g-star-for-4th-consecutive-year",
+    "https://www.invenglobal.com/articles/28780/10-out-of-10-perfect-score-gta-6-10",
+    "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
+    "https://www.dexerto.com/call-of-duty/call-of-duty-pro-temp-arrested-on-domestic-violence-aggravated-assault-charge-3421439/",
+    "https://insider-gaming.com/clair-obscur-expedition-33-writer-left-sandfall/",
+    "https://insider-gaming.com/gta-6-ultimate-edition-vintage-city/",
+    "https://insider-gaming.com/gta-6-voice-actors/",
+    "https://insider-gaming.com/workers-taking-time-off-gta-6/",
+    "https://insider-gaming.com/how-to-take-drugs-in-gta-6/"
   ],
   "title_hashes": [
-    "7f41637c6bc144769e325e8947ea9d28",
-    "d7ff18c9a1a6e834574afcfa98655825",
-    "4ed50bce4b7c88a6cd6ba883afcc84f3",
-    "b9dd7ca6c2746f0bd37f0a422e04d00c",
-    "daacdcbc1dd613f44dcd780edff72338",
-    "8ed916ec9c77d3fb81a47a97c1bbee51",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "e09fc569cad2248b20a230fcdbe545c4",
     "98824aa42949dfb06420b6f4ff832d2d",
     "e09fc569cad2248b20a230fcdbe545c4",
     "850d1d695ede7a8ff8904a779f7082ca",
@@ -16001,7 +15993,15 @@
     "333096ff353638bd89681d5bf65f7e32",
     "67fddf021f4c7289aabb08a4a0c9b592",
     "0362156616722c6b2d799bc65b14a0f9",
-    "da9e1c866ee5ab8699e5e8905acc03d9"
+    "da9e1c866ee5ab8699e5e8905acc03d9",
+    "bc38cbce1fc2ebf4e22e92865dacebb6",
+    "62933a2951ef01f4eafd9bdf4d3cd2f0",
+    "4e13ab4812248308b101708dc990b49e",
+    "7c43e64679b260c032313588583e847a",
+    "c884390e4ad181030ff5eee189815b13",
+    "64f9fc59ddb8705d56bd1c5588401d7c",
+    "ab58e19ffade03eab103e25d052fdac3",
+    "62da8829f5c35447da6e4b657d610d05"
   ],
   "transfers": {
     "pages": {
@@ -21360,6 +21360,26 @@
     {
       "t": "19th 2023 4th announced attends company consecutive fourth game global its keystone marketing participating showcase since star strategies that year",
       "ts": 1795060473.8711512
+    },
+    {
+      "t": "arrested been charges circle detained evasion has inner italy media oleksandr owner reports say slobozhenko tax that ukraine",
+      "ts": 1795060479.2325346
+    },
+    {
+      "t": "33 clair expedition has her jennifer lead left mentor narrative obscur own planning post projects pursue sandfall svedberg writer writers yen",
+      "ts": 1795060482.9350722
+    },
+    {
+      "t": "6 act actors assembled cast confirmed games gta has hugely list many out pieced post rockstar story talented together voice",
+      "ts": 1795060486.6026082
+    },
+    {
+      "t": "6 8217 according claimed company data excuse five get good gta new off one planning play post ready seems solid take taking time work workers you",
+      "ts": 1795060490.3187056
+    },
+    {
+      "t": "6 ability adds appeared auto can consume drugs explained find fir grand guide how learn post take that theft this where will you",
+      "ts": 1795060494.1522224
     }
   ]
 }
