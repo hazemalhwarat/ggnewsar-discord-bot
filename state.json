@@ -1,16 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmZpd2VudmwzeWRvamR0ZlR1V0s1b0w0UjcteU9CLXU0NzV5MnNmaDFuempBMHFLUi0yYkJEdTV5a3dLS1hzZVBIelBCbV9fdmdmM2g5aEI2UWVXT0lkWVNVM2VTMmFmREFRSmFaTkstR2xJZzVCS1FnNlZ2YmNHS3hUbTBkWjNWYkstMDR5Rkc?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wcDVJNkE0dU9SRUFqRm41dUUweWMxdTlkeXFyd1RDQnNqZ2xpeXNaQ2tGS3ZyMms0SmN0NUtJR0VVZXI5TDJkN3pPSzlUZ0YyenYyaXNQRlQtbFhRYUxRcTRYOVVUNEZsTVJRUnByRjJwS3V6bU9CdVExMF9XUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzJsaUNyTng2Wk1TSEtDSHlLUTloYUtxOE53dnJDUVZZVWhSN2IzNHRpVGV5b2pvanJCTU1oUmcyVExvRG9MOGlxbGZCdGh2TUZabEJqMzNjdFhCLWRtZ2VjWWlMTWtXVHRDVEZxS0l0eXlvWFRKZDZxQTNIOHlXTjZobjZoZkFOWlBLUEpmOUtPU0tiUmk3X2E3N09FZTVmRkE?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2hEa2RGRXgzOFcxdHpsaXJxeTdBMVRHbGR1OUtmc1gwM1I5cklSU3RyRkNINEgteW9sVC1PQ0pmRm1ITnFKNDk5Zklzb2d0LUYtb25BLVpFWWQyOUlmLW5RdFZ4Q1ZWU185b2hzNVgxaHNzVkRuOVk3UnV6bFVreDh2WWVKS2M1NWFvYS1sSU94SnlJNDJkWVFFaG9ENkZyX3c?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNHFPYTFIWGFfemJrNlRYM1R2Y2xaVG02Q09QNk9oV3FzYk41dDZrLUlJMTRIYmxva2ExNURVWlBIbnhvWWJYYlRQVFRqVUNPM01IWUJmaWJWUjZoaHpMemZCY2loa3AxREFScm5DTkdRV0xJZjlSZll0WHZWNEE2dHhseDF1MnBXTFk3UGp5LTVRZw?oc=5",
-    "https://www.talkesport.com/news/black-ops-ii-best-selling-games-2026/",
-    "https://www.talkesport.com/mobile-gaming/pmgo-2026-season-2-prize-pool-distribution-mvp/",
-    "https://www.talkesport.com/mobile-gaming/wolves-esports-win-pmgo-2026-season-2/",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE95UkxKZjM5YTk5cU95aU8tdDdQWUdJTmdrS0RaQmtHTU82WDViRXZXODFGOWNESFpfdmtZQ2xvQkE4WTNtRG5uM3VseVBFVkdmLUJVdTk5ZmpNUmlwT1BwcS1BZFo1YThqcHkw?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMX2Zwd2FmYnBTdDB4MXZidDFoMFFJZjV3WUx4dk1zU2lJcUNrZm1GdUF0bmp2YjM1NEI4WlUzUlExb2RzeWktUkFTRWVyemFqb05YNDFQTFZmSS1nTXdCa3hBTUR1QmNLVW80?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fOExTYUxueWt2ei1sbDBlWWJpSUJ4emNVTjBPeHlmN2NsWkxldHlsTENrVl9LUHc4dVczTkFTMFBCdzdxVWRjZVFTNU1SZlYxc242YWFZR2JfQnhUbV9YZk1aTkZ1YUk0U3I0?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlYwbkZtYThYMHJ2Y2huQXNWY3l5SVFKZXpkcWxETU1sODYzVzRQMVQzQmExWDBsSkFpTUEyUnF1WlhxbmNnWndtb3RwamNGMW9malN5V3oxM0NvWERBQXFDUkExUUt2TlhtMXR3Q0RCMWwwUDR6NzZkaXFWeUdGMmhQY0huOXhGaFdqOFhYX3N5WWRkSWpJdDIwaFFNMHdDMjdFNGcwNGtUWGhMTm1fZ0ZhaUlXVHVfc0E?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFoydHQyRjREYkFucldFdlU0YUZ2Q3RJV2JNWDl3TkZpY2I2VmFHaktwY0VEZzhwN1JqMmZ5ZWFrNXZQVUZsdHdLY0otcTJYUXNybjdpZzEwcTNjNjBET0pqX1VaakRDYVhsUzQzZWFWdm5wcWVBam9LMlFZUDdGSnktN1M5aWpT?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MVgzVFgxcEpjNkJLRDNneFU3MnZXTDRDTmNqWkc3OFJ0ZndmMDNMY001V0xtU1hvWXdqUE5iUHdUekNGOE4wUDVwUlpHVng4dm1QMDdyLUpjcTA?oc=5",
@@ -7999,20 +7988,20 @@
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RWW1oclBYeU1yZUVUcHRJVmZDa3ZyRmhXUFhMNHlPYW0tVFNEdE5MekhPMWZPOXJfWVNCWDdUUGVsS29KdkJkN0pyV1MyTU5tNzJabUs3YXhJUWE5RE50aGpuZjFrUlRTY2syTWhoMHlwcG5YWUE?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XbDkxc2pXS2Y0Qk5PNDBnWTh5MVhpZ01CYUpYWlFZSTlsRUxWSkJqY3RVSkNCUlpQYmJXXy00ZWdZYjNucGVZT3IxZ1JGNnZJOFpiaS04SmRPZ3BZODFLSXFaTkotZF9RV29ObmlreDVxbU0?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmZBNTB5MjNQMjRNOFB4ZE8wS2kwdDYxU3lxUGtTNEZSdURGYnRRM2pOOTgxb0ZSbE1uejd3X3hYcVN2dDhHZXM2aUhFU05JdHQ4Q1U2T2xzWjdyc3RoSFBJMVV3Qkx1VllOYUFuWWJnemx1M1NHTEtpblFoS21yNEM1ZVdnN09pbVVsVTgyWmVsZHZnT3RzMmE5enozME5JakZhb2RlNG5VU0Rvb1NpaUZrc25XYWpBQ0FfNzQxT0UydUpKb3JKRzZUZ0xNNUk?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zUDRvTkFEVFRyZGNJSE5mMFdfdm1lbkt3M3JGYWZYNEJtdFJ0ODIzYXpSSkZ5bko1bDJDUUZLSHh4cFBNVnFPb0ZEZjUzTm9xUk01MWdjYW5LYk1FSktWZ3VB?oc=5"
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zUDRvTkFEVFRyZGNJSE5mMFdfdm1lbkt3M3JGYWZYNEJtdFJ0ODIzYXpSSkZ5bko1bDJDUUZLSHh4cFBNVnFPb0ZEZjUzTm9xUk01MWdjYW5LYk1FSktWZ3VB?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDBmbVlyVDZ4Z3dPeEdqVE9kM0ExRTFBZ25rdm9jSTJqZjd3T290MWRPcmI1Y2ZuYkZOVmk3S0lCME9QNVIyN2ZaV3RvZFhaSk5qdEkwSElCenRuR3BhX2JVcU1BeFBCS3VseGJqQi1LQWdieDRlTFRxT3FYOC1oTA?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRS1LVklsXzV4dUtrRHhjbXhJd1pwUnIyS2ZqVVFIZE55TFhYbG5hUHktcC03aVg0V1VvM3hZYXRjUVBsUTNPeGxiUENtcjc4UHVjcHpNWloyX2NpV1ctMXNLRWF0X3BaQmoyR3lLcXYtQWJvWU1wQjJwcDE1OFBEcm1iX2VGMDVwV1dJeUVqMTJzNXJIanNkZjBOeGdDeUZMb0V1cFdhN0VyT1FzZ3ROODJRU21meUdjM2dMZnFhR2JvSUIwdkplUQ?oc=5",
+    "https://www.hotspawn.com/valorant/news/100t-timotino-interview",
+    "https://www.hotspawn.com/valorant/news/radiant-international-invitational-2026",
+    "https://www.hotspawn.com/dota2/news/valve-is-pushing-for-a-faster-meta-in-dota-2-patch-7-42-heres-why",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1ZlZHQ3YkJzV1YzMlpwSjZHbFFhcmtiQWd5NzJ6eUlFM0tydnNtWGQteG9uTGx6VEU5RnhPR2xja3U1Qk5ScXdLc21Yd0pObWdqbzlhZV9jRGF2d25WTDNyV25JQWthdnJyZE93N1RqOEFGdFVSVVhLc3VYNUl2d2VFei16Sk1VS0hmdnJ1RUtMckhZbkhSekI3bzZ5UXMtbkh3VmJIenVhTDZQbE8wOElaQk5VU3hQZjcxX1FqbzlEeGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGVxdWVyYlljTDE0Nm9HbkV1clowdW9JVEltdnc5UlZjSWNiZWJuclF0YTViTDgwb0hRa0hINUZxVENUMm1YVXdtbUs0SmFvSm5oeVhfMTJrNHNjWjd1YTVIeWJvSGlqMHF1YW9PU2RVcUhmdkJmeHlFak1rOTVjSUFmbjJDOWJEOVE?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OX3NBaVQ4bkw5cDdOWWo5aGxVN1gwbWhCcXUtLTlDQWNpeUg3UjNKY0xWTDdLTzZPRVFNV1lLQm96VHZ4Z0pOX2RoY2xSWmFGcWlidTBUcUQ4Si01MEs0ZkhxaXZOUG16SHNOUw?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yY2k5bDhiVnZOQkl0c2JscUhqRjhrLURYYzdjNDloalhlT2hBZXJYMktzbGJnR2FORFpLTWhrMzZta2Mta3NONWxRVlVESWdqbzNDVzhGS2JxUFMwVXZ2blR0TUYtQjlWVTR5QjRFYlRvRnA5Tjl5V3VVSQ?oc=5",
+    "https://pley.gg/cs2/shaq-gets-his-own-cs2-music-kit-as-dj-diesel/",
+    "https://pley.gg/cs2/stake-ranked-moves-to-belgrade-with-six-bigger-events-in-2027/"
   ],
   "title_hashes": [
-    "63dfcd179b4e0adddf7d95d73f94182b",
-    "8d2e8fe12f8a1d028fa99f7f3c60a100",
-    "0c69e4a6ed6aac4d7a504e5062873756",
-    "d471900842822a76a9025cae58d14af9",
-    "238cb5a0df8828c732608d86ae801b1c",
-    "f0182dc47b7770e97228239f591b6582",
-    "b9318e951d0d1dc875d228f17620d322",
-    "3d121e2c58474e616c659678b8544599",
-    "dada573481fe5094ab0e4ccacd9795be",
-    "55dc46a47dc3fc8a3b8cb70c56b2da01",
-    "ce7d2d8e0adcb8a7df18abef24233095",
     "89745cde8fa80ac20b4d2aadf8c5f2b2",
     "3151ebfb5f26190a36f3e8e35243028e",
     "6a2521f3fa2de14adcc557090fc15ebc",
@@ -16001,7 +15990,18 @@
     "c9d97d3b3e9d0384d88012aeb783471b",
     "368b43943f340e077e500b42b5d12e75",
     "236a67f9761e21a2d8455b931ea07519",
-    "ba9cc779b8aceb178a927a99f359511b"
+    "ba9cc779b8aceb178a927a99f359511b",
+    "1e80b376ef42c8a9ba64c172e519510c",
+    "11049db118d4d75df1f2ca40a6945a2b",
+    "903f1e42eacea2e08aa01f04c7501d13",
+    "437f01f796b65e95f65a4a09522b52f7",
+    "9cb4a9acb93d164ba122faf646c97ec2",
+    "6d3b6b8c7102dd3b5241deceb8249e3e",
+    "dd9b5a506f920a7978d72eec63fe72f1",
+    "793403688e6135e494575626d62ad33d",
+    "1d9eccd0dbbd9cb0b1bc60ad88d746ff",
+    "88abf537c5650642a93c974aad826528",
+    "aa897bccfe2c6abd1cbd76576c0624fd"
   ],
   "transfers": {
     "pages": {
@@ -21364,6 +21364,26 @@
     {
       "t": "2027 cup esports expands group media nations nbsp qualification technosports",
       "ts": 1795121821.6593287
+    },
+    {
+      "t": "100 100t 8220 8221 after anything capped champions down dupont finish hotspawn how improved intervie lavigne more much off people place remember rewarding sat season shanghai than thieves third timothée timotino valorant want",
+      "ts": 1795121826.4594738
+    },
+    {
+      "t": "12 2026 6 announced bring china december event feature format international invitational offseason radiant representatives scheduled six teams valorant will xiamen",
+      "ts": 1795121829.7588758
+    },
+    {
+      "t": "after departure doran dot esports nbsp reportedly reunite set t1 zeus",
+      "ts": 1795121833.0692208
+    },
+    {
+      "t": "038 17 added bang cs2 diesel eight gets hairitage head his kit kits monstercat music november one own shaq sold standard stattrak valve your",
+      "ts": 1795121836.3316324
+    },
+    {
+      "t": "000 12 14 150 2027 23 belgrade bigger days each events february moves november over ranked six stake teams",
+      "ts": 1795121839.6124487
     }
   ]
 }
