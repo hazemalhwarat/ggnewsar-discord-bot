@@ -1,20 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVkNFU0dMRGpxLUM4NGZDOGlQYk1aMW5ja3I3U183SnRmRzdockdZLVBRekdlcFJaRzQtejZKZGcxWWhBUzV6c3o2bVMwckttbWljZEhvZktKSkNoVzdOYXN4eDhSSUlIR2pINW9XM3VlVmZ5OXB2STdMaVI0M2JvRGoydw?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zT2FWdHFxRXNRZ2dyZXcxYWxoYWpxYTNxTGttWXE3SjJxZTBsVVNUUUZRQVFoM3p2Zm93a0swVkZFZnQtREl6dlg3cHh5WE56Ql9BRC1NS0tpNV9fUmZibkV5NTZjSVFiUThyMExjMUowLUx6TGlOZHBaWEtPMkk?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlpuTXZPa3FObVdyVUR5dkRkTEtSOGVGU1VaUjJwUDlRVnBSNVd0MmRfY0tUV1hHajlpRjkyM0F6UEx1QnNsaFJnMzFKcHVHYmUtR0dVanRaS2xrTEhkRld2Q2hzYVBQUEdaZnpMTnNRbS1rOFBVblFad1MyZThnVmp4YlZFbDhTcy03QnlEUy1GdHFkbFE?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2FaVFJuYVgyUXRKN1VkbjZQV3hJNHRGcmZPRjd6V1cxMkR3ODFxLXpfVUJqc1YzTk52cmo5dkYwdVZ5c3huLWZsX3VTWWhweTlTYjhXaEdFUmNrc0lUaXlrcmt0ZU9NU1hFbU45VTl0R0VTdzFUT2RyRE5YdF83M21jdTlra1ozM3B4eHR3?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWJKdnZqMXBtREY4WlRXUlV2UWFFQ2J3Sk5RdXRSQTR1TjhGQzBFTDFLOWs4RHJ2VkZVNzR4TmROS25GMmx0RFgtanN6Q3F1UDdGa2d0bkF1MWhHSmVERGFjRXNvSmd1anltRHVsd3FBMDlYVVFHdXotangzQlVJNU9hVjVqMldGM0wyUTZ2dXFEYlNtaU9RMjlhTFp5OTNPU2RsZktFOGhUU2M?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NHVOYkpTclIzSHlyckVCeW15VUkzSmJEZHZ1Y0Y5azVPSnd4TDJ5Q093RWVxM2pBaGtSVm5ybFJ6VkVuRm56ZUNFdHlBMXZ0OVlLU05hRV9fOG16LWR1ZF9jRXRPS1JJYmxhYQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ1dMNUhuX2U0elltUGoyNHJPOTJJZ3Q3VDBRb1o2a0RfOE9SMXdXS2xPMlZWWnpEX1ZRdm5iOVlUbGRRWnRLd3lYUWQzRWx4LVpxajFFOWVlS3NCVG5fMmpfLWppMmo4T1M0R3dOQTJMMnJNOU1zT05mNkw3WXpzbXJHWU1fbGlUV2NUX001Sm5BX244OHJN?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE40WlotUGJMM1pqX2tGcHFDOGhtcDFrVHZPT2o1QzBPdG5iY3NNY2dOejcxcWNKd2h3SHQ3aTg5WWY2aTNQb0tIQVE5M2ZXWWdKc2wycHVxYkxjemhhVmdjWThwcmtFVkRMaEJuUHZKUHVKRk9BXzBHanRHRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdU9RTzliZWFyLVF3Z0g4bDJJNENxUUpOanZFQVZBcFY4c3U3NXN6X0RyenlCcVhfZ180MnVEV2Zza3EzVFFlLTJ4YW1KYXpOWlQxOHZzbDVycFBzTVV0VXdIdkZmcXo2RWsxQWZLd19zTzVCcXZsWGxlVUFubkY5Z0RIbnJndjg?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ITFVjemtSXzJDVzhoR1NCRUVIWXVuMW04VDdUelYyYXN4RUJEaXo5ZlpFSjE4eXlzVWYzMG9Md20tT0JKeTN4bWM1bkhrMU1oSmlTc3dWRnVjR0d5ajJpUjNaaE9sQUVNTTN5aTlRRTUzT3A3Z3k4NUdVZjM5cms?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mcUhjUVJfSzJUejNLbnZ1YW1OMjlfM1N0QVgwNWZlMVpTeWJxc3pnbkZNMGZSbEhGeWlFWlBZMHZoRTZocGxJSXRUdUJFdGI5TWJoRmRLWlZaNlA4cTZQVnVZY2thNjNSaVcyeWxQcmJrRTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ3ZaeDVOdlVia01Mc01MSWMxUFcwNVVrZVNZVHl0MzFCSlNXLTlmTjdCTTlSUFFoVktlbTUzTHdxdFB4dXhqUTFaVTh4T01DMHhESk9TSEp2S29iRlZVQTJEbGxVdWNKeHlWRmFxYlhMb05tRTZ5LTNmbVBKS0diVjBtMUxoQmszUTBha19WNi1ibEE?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU194dGVpVFpkNjhoWU1qRWxOMDQzLU42V1ZiNXhPcTZwbDNHMTVEWGRpa0wtWHZKMl9ocFlrb081cmpIYjNjSmJNN1l6bDZuTzNJWGxuQzlmTng0cU92Q012a0syNGUxM2lWR005YzRCWHBfaFRpZUoxb3FLY1RGUE5Pcy13R0pweGxvSHdEZXhhUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkpuaV81WERDZVlCeFdZc2c2Ykl3THNkNU9RaDVIbkVHQzhjRHBvbC1JX1VGOHhIS0ZOVU5ZZmdPMnJnaDFRS09TUWUwLUhuYWxraVJTbF9oR0lCMVg0OTlEenBELWhocTBoNHhqWHFVQUR4b2pZRWszRHVOOERLaWRB?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5M1ZxY0NmN2t0bTB4S0lCWldPajlKQ0ZsLXZlbE1hLV9OMG8wamhFU29nZlBpRlVha1JTT1NLb1BnOVZHdDBaM2Jodk1PTXhCVGU0VWFQOHMxazVaMW1hbV9KaGt2T0xpYWhDQ2gzaXhYek9QMTdlTFM5VHFyUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVzNFRXlINW5HS0g4N0hnWUFVbzZhbmdqMHVlN2FjZVhhRXc2YzFKTlBySFpJOUVKXzlyN1l2MTQ0WHZmQzdYcDYzQWZYQk9MTDdwRjAwU0NITXhnZlE0dXVpQXJLR0Y3ZmhOR1lIT0N5X1JDZW52ekpJSmJLd3Y4QU1HcWdjTHJRZEVHMy1wTDRrUGc5UkY0WklCNTlnZ2JEZUFPNlBXVDhtQUV1Y2lhVXFIQTNYRGd1QXc?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdV8wOWJwV1dUQ2RTb25lQWwxV3VKaXNlXzNjWHRRdFNlTENVZUQ2T3B3a3djd0FOelowNGpjcHZUdzRPbFoybFlqN1prWGVUWHRfZ05QRi00MnZiQm1KdkJRY1A0QW1aSmNib0dPQ19SQUg1V0N3dXBUT3NtNUdGZ3FRWjQ?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeGx5UXhMWGZ5MWp5MjlCZEEtOW54YkVsQ2F5ZVdpaTlNZVYxd0N5NUIxa25mS0hqQzJZQXh1aWJIT09FZUVwX1R3LVZ4aUZDYUFpcHFMLXRDSUEtOXVJRTl1cnhnMlhlc3FjeWluTkxjdnpRTXlGc05rcU00cExqaw?oc=5",
@@ -7999,24 +7984,24 @@
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WblNsNFZxeGI1Y0I1NkcwT1hsY2p2bkZGQ1Zja1g0Ri1reFlVN3lPd3hhdjdRVGlFY1RsNXlSd2ZvMGdENVVoTkFwc0RZUQ?oc=5",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Jb3FBWXVvSjNuMkJoQWJ4bExGUkg4UF9NSHF5V3JJa25qUHpCbUNlbV9YRk9HWFJXME5SVVlDdHgxbDkyTV94OEkwOTBta0JrN1k5VXBvZ0ZoLURkak1oSkNhaWlOc21zcTZFSmcybTlCQkV1X3RMaDdrSHk?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42a2NKQTVvekFqWVBUMmNoTTFSaEJRVWQ1TDdFVTJBS2NSN3laaDlYc01Qc2ZDNWFKVDFXdFV5ZXFELXI1SFpmRGFCOVQ1dUNuNU42TEJMYWQtQQ?oc=5",
-    "https://www.talkesport.com/gta-6/gta-6-internet-traffic-record-de-cix-33-tbps/"
+    "https://www.talkesport.com/gta-6/gta-6-internet-traffic-record-de-cix-33-tbps/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/cegc-2026-upper-bracket-concludes-8-teams-qualify-for-grand-finals/",
+    "https://www.talkesport.com/news/cs2/esl-pro-tour-2027-schedule/",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUHBwYWotNlVYMlNmczJvR3V2MHdrSzdKYUJnSlhBWHhYajN4a3RMTmFnQmlLNUY1cVczTklDeGZjNW1xLXlKRUEtcXo4eHBxVXE2S2xIMzhpcWlMck1ET3FjdUdPTVdGTGhkU2lJV3R4UXZmV25NNDZTUjR2cjJNaGxXVHRoR2R5OGR0Snp3?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSUR0MjBzbXV1UzNzWXgyei1XQm1uUjBsQ0FhdC1DNjBqVExrZ0hGNWdMOTRGNnhOWF9nbUQzMTZRV2RKeUtkV1p1VVppZ0xtX2pVWUZfRFNodWZwdndNMC1aeFlXemViODlCUXRxbVVPNVM2UEtlaGdjZVd5RXl5YU1qOXdTZw?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtY2hpX0t5ZlY1YTFPRjVhdTJRWUlQS1Y4d29jWE04Z2tyVzZ0U05ZeDBPQ0drZWNKZXYweDkxbzNhSXZTclNkZTVHLS11U0pKYVZSZzJHZWt3bUxjbFBtU2J3U29RSkdXNGNxaVFxTWpDdC1Ja1E?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEZaajVMejBqLVdpeVVHMFR0UlVNRUNucUpvcl8yVFRQUzNWRmQyQkxnZU9oSVJZblRnREJDRGpoOER4aDMzX0tKU0hSLXpGOHNCeXhsdWxMbE1yRTFFRmtlbnEwem9QUjZtbFdZU0F1SVlTZVRLSXJldmNJcWVzaFg0NWlMY1g1RU9xOEpabktwSUpxdG0tUA?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZQmpudTB3a2hUNlViUTU4OXJHV1BsRk91VHd2N3JyVnctWTM0YUExdVFoRlV6bDlueXBUdmE2QlVFOG1hdGN2RUtiUnJQN3B2aS1JR2o3NUZjcENUTms4UHM4TkxwWXBGNHZ1NWVscW5oeDBRVnBpQm9nYlNvQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TNzV0UUp5Q3ZoUU9tRGFpaEp2eVRfS1hydVpqTGU4YnA0dGZ0MmI2OWx3OWxnVGRMZG5tbVlxQjRaeWFnRGZVSWhqenc1Z0lEN1dZc3czWnZjWFFs?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE93S1c2YW1EVHBVZnI3SUU4OEpWTGZ1ejBSMld1b05qWnUtZVo1VGJXOWRsSUxSRWoySm1nMFprZFRXMnJpVzlUR0VpQjhKSG9YVURTcUQzZFM1blpRZ05Zb28wMHV6NXFLLVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNk11bzQ3eGJlcjFJVWFyQ1pOd3dWU3JMQjU1a0hLbWs1VkFFWHJnODRwWGFFNXZyOWJJU05IcXBneXhzSlZSaXdEQ2wzVWRSLW51dVNIY0ZLbTVGT0lGb3ktR1FUZGszeUNSLWpTOEZjaWpTb1EtMDVpcFlobEZzZHlvSlZib2xxT1V0MmhiX3Q5QWZFcEFqRmQ4OG5Wc25GbzdOemp3bXp5Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGNKb3g4RUZ6TF85Q3E1OEpjSldNZlR2eHJ3dGd4c0tvME53TWpLcUhMM3p6VTFScEhZNm95cm90Q0pkOEdtckRWaFdQWWZJcEZGX1N2emlpSXRZNDlBYmw0NkhITkxpN21YY1hYLUVPaHhmQjB6T2VHaDZaN2ktOXpfYnZfbnMxWlc0WkMteVlIbHNPREw4Y0hMak13WXkxN3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU1BdjMxaDAzVGZHQjNkLTR1cVFKTV9CTWNOX3o4UnNLMmt2Z21SZjRlekFFcGVqV3Uzdko4ZVJHb0xnZEhCNHJPLTJVd2JrRTg2dUhhVmF4b2RRWjVGYVRSRUljM1VYZlBJSm1SX1pRMG5fTUkzTFkzNEU4U2lBTWxDOU5uMFN0NXBxak9ZTC1VcXE1ejJVdHJGOXdraGEtcjN6TXdHNmw?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VMThsTnFzRTFsWURScFVaR1VuRlVUMGNlX0pvcXFGaHMtLUFMUDlJdmJ3MkJBMnNucjIybHdfOWpUMDdIZDR2YzdCNXFOdjVHbXdhdXZwTGIyMjVxNHBpcnhBa2tsRW9mbTVfemhfalIxLTd2RlFRVTl3Mkw?oc=5",
+    "https://europeangaming.eu/portal/latest-news/2026/11/19/218325/gta-vi-pegi-rating-gambling-descriptor/",
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMEN1TTBhekc1aDhFZkJQNUc5UnBtTFVQbi1NblozNnNUaHplVWRUUW1oV1BaeXRDRzhualZ0UUtGWndxbk1vQnNVNUNZemt4OWY3aklHeU5PbUdJUW9JaVVVaG51U2Z0ak5RMXA5OVFsTGZpT01idnk4dHNpUmdJdTFVamMwbEw4RmxRTXNZdENYWXZoVmFKakVrcWl0TzF4WW05WlcwMW1XU1QxUDhNVmhqVVpKQ1ZadFAzNVB0SnZrVWp3RWJ6dDZsUU52cEtkRW80ZF9uU2VSS2g0TmlabmlULXZFYnBuSEgxVA?oc=5"
   ],
   "title_hashes": [
-    "d7f403157a434392d4af82971add2bd5",
-    "adf44ebc370622abc6c5fc7cca09543a",
-    "e775314efa1815bfd571ffa3a52d6067",
-    "9dd2e3f984c2bfb47b367a25c1c2b6a1",
-    "5298acd35eba86c20a2830f2cd3502e4",
-    "e4aed2276ed582c5f71bfe4ddf701774",
-    "8ebe55db6c97539008c7261e964623f5",
-    "a2a93690faf7ee9c37e5cba0dd003d0f",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "280025ec7f8ddf07cc6de17a014cf7bb",
-    "a4a21e48b147e415c53a1a9a33fb0c7f",
-    "e215e32b6f94d52998d08981702c6ac7",
-    "570ce3f45b6432c51e72ad09588ccec1",
-    "a18c858edc7b904c3c340e00c7e38a76",
-    "352fe5abfae7c9a09e4b7d0f0bc3f605",
     "6a66c2bf60f947cd8f586ba8c949137c",
     "ce1bdc76910d9671120737b078ee82a1",
     "b409fd395a10dcfdf5d6d3a95a873fad",
@@ -16001,7 +15986,22 @@
     "7a834c1c99575ac144f54661a4f4a335",
     "846703809a325b2a5cd908301c4016b6",
     "c80c7d5e801ff686643a20b33710d3ec",
-    "cbbc4f23312a9586949a7972c1c27ed8"
+    "cbbc4f23312a9586949a7972c1c27ed8",
+    "6478e5004140d5c75f84734697c6364f",
+    "ded460000f4619f0703e5dd6e8a870a5",
+    "8abf940f4f019386003278ffcd6484bc",
+    "d5ffdc53ce496dd81fdba2d26d5a0454",
+    "7c3c82a28014cdf0ae2f5007d3bba40a",
+    "174595741469df7253a1f4cebbe30714",
+    "e215e32b6f94d52998d08981702c6ac7",
+    "6340a8e1597df2f108c200f40190d318",
+    "eed4aefc3df581d2da66014f5543ac23",
+    "e4aed2276ed582c5f71bfe4ddf701774",
+    "8ebe55db6c97539008c7261e964623f5",
+    "a2a93690faf7ee9c37e5cba0dd003d0f",
+    "e20ee14d9790d0536ac6c0fa5eade4bb",
+    "43416b19a6b551bac4a43ce9071b5109",
+    "43dc17510630cb6da37b000ca734ed3d"
   ],
   "transfers": {
     "pages": {
@@ -21324,6 +21324,26 @@
     {
       "t": "03 33 6 broke but cix claim data ever exchanges gta highest internet not one per post pushed record second seeing shows stretches terabits traffi traffic usage viral what you",
       "ts": 1795121782.651715
+    },
+    {
+      "t": "2026 8 among big bracket cegc comes concludes direct eight end esports finals godlike grand heading names orangutan qualification qualify secure teams top upper vasista",
+      "ts": 1795121787.5697095
+    },
+    {
+      "t": "2 2026 2027 all anticipated beijing building calendar competitive counter cs2 esl featuring has highly iem its planned revealed revealing reveals schedule season strike tournament tournaments",
+      "ts": 1795121790.8910003
+    },
+    {
+      "t": "dot esports game global industry nbsp platform region revenue statistics video",
+      "ts": 1795121794.3216734
+    },
+    {
+      "t": "18 8217 8230 age arrives biggest boxes casino content descrip descriptor entertainment europe gambling gta just labels launch launches loot pegi post rating style year",
+      "ts": 1795121797.5614793
+    },
+    {
+      "t": "2027 cup esports expands foundation group larger national nations nbsp new qualifiers rankings road rosters sports video",
+      "ts": 1795121801.1049328
     }
   ]
 }
