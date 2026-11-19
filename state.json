@@ -1,20 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZklLMGdyb0szaThfR0pLbHF0TUxGZ3lhUU8wNGFyczhHOWVQaFF3QVV0bHdqYlZvRkpSSXFjeXNRRTlqTVpBT2Q5TlYyOVRDcEVLSjBPSklXMUN4YXV2b0pSczlrMV9nS2NUZkdreEljR3loVWdGNjViOVRxcHRtVmRodXc0YWJ0UlpHUGVMNU43V25xOHdsVXlR?oc=5",
-    "https://www.invenglobal.com/articles/27677/what-on-earth-is-happening-to-diablo-ii",
-    "https://www.vlr.gg/780035/yatsuka-enters-restricted-free-agency",
-    "https://www.vlr.gg/780001/mibr-gc-sr-gold-forge-ahead-in-upper-bracket",
-    "https://esports-news.co.uk/2026/10/25/shopify-rebellion-gold-beat-sk-nebula-2-0-to-set-up-kru-blaze-clash-at-game-changers-championship/",
-    "https://theloadout.com/ea-shuts-bioware-down-and-ends-early-work-on-the-next-mass-effect",
-    "https://theloadout.com/1-5-million-us-workers-plan-to-skip-19-november-for-gta-6-estimate",
-    "https://www.hotspawn.com/league-of-legends/news/tl-josedeodo-worlds-2026-interview",
-    "https://www.hotspawn.com/league-of-legends/news/worlds-2026-swiss-stage-day-2",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQUJrMWpJNUpkekl2Q0lNN1I5TDBnbEtGUmVNVEdBWXBVdWZ6OUVJeWR5YWpmNmVMSXdROHZrdlgzTi1PQ2JrZzR5UFBqd250bHNDc3BENDREZTVMUGRFbi01QkN6SlR0ZlVWTmRKT2Y5M2VSTW94QWI3b0tKc3M0NWVIeG9zS2t1SkE?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDRMdlZjc0JOLVNkYlV3cEhlMjJHUHhVanlwTWFFWlVuN0M5N09lLWx2c0Mtd05XXzlCeHk1SERicmpfcUdCVkswbVJlV2xqUW1seldfT0ZUZS1pV2lSaHIwSDJJNzdxakpoa25TV1VoVmtZdERmd3I5X2ZBVTBnb1pJTW4tSU44b0tFZjVhRHU?oc=5",
-    "https://mp1st.com/news/modern-warfare-4-weird-washed-out-graphics-fix-pc-after-recent-update",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVk53Q3RWV0swX2VuNFYwY0F6elY1Tzd3TEZrcThzQjRhWFRhWlZiRDhCSE5nd01xckx3dllDRXJOYzRfWTl2bExYdC1XYXpXeXdKSWNQcXVqYURSNjRQUXdTN2NtODUzQkVaMGtEYV9EOHl0ZmlTVTBVZEVtSjB3Z1YxaEZ4eUgwZUNIR0FJWHFJT19tX0xwNUJOWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNk11bzQ3eGJlcjFJVWFyQ1pOd3dWU3JMQjU1a0hLbWs1VkFFWHJnODRwWGFFNXZyOWJJU05IcXBneXhzSlZSaXdEQ2wzVWRSLW51dVNIY0ZLbTVGT0lGb3ktR1FUZGszeUNSLWpTOEZjaWpTb1EtMDVpcFlobEZzZHlvSlZib2xxT1V0MmhiX3Q5QWZFcEFqRmQ4OG5Wc25GbzdOemp3bXp5Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGNKb3g4RUZ6TF85Q3E1OEpjSldNZlR2eHJ3dGd4c0tvME53TWpLcUhMM3p6VTFScEhZNm95cm90Q0pkOEdtckRWaFdQWWZJcEZGX1N2emlpSXRZNDlBYmw0NkhITkxpN21YY1hYLUVPaHhmQjB6T2VHaDZaN2ktOXpfYnZfbnMxWlc0WkMteVlIbHNPREw4Y0hMak13WXkxN3c?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU1BdjMxaDAzVGZHQjNkLTR1cVFKTV9CTWNOX3o4UnNLMmt2Z21SZjRlekFFcGVqV3Uzdko4ZVJHb0xnZEhCNHJPLTJVd2JrRTg2dUhhVmF4b2RRWjVGYVRSRUljM1VYZlBJSm1SX1pRMG5fTUkzTFkzNEU4U2lBTWxDOU5uMFN0NXBxak9ZTC1VcXE1ejJVdHJGOXdraGEtcjN6TXdHNmw?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXlSVkY4a2tOVkprdmRONC1wa1FkSFBqaFBXR2hfLUZFVHZzdUhjbVZsVk80dWhFNFp3Wk5uWjhicnUzUlZqTTRFV2pMRlNVeFZoYlFFZW02bHk5aG8tUm9wNXhnR1hmM2JlNEdDT29UeUxlZzBCVjQtZU9zMmV5TE43WWtxSjUyRXRscktGV1h4XzVEbWlEa2ZqVHJKQVhCMFJXN0E3YmhaeU9aUkpBR2hVc0I3UExoVDJQeXhRSmJpMlE?oc=5",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIdDVCR0NxUUxkOXc5S1kyTVlseWl0aHFieFRJSG82eVNjeVFSQl82MmJFUHBkR2YyekdMQmh0dHJETm9SZDVLQ2dWZnFPcXQ2OUt3VnJoRTZrR3dn?oc=5",
@@ -7999,24 +7984,24 @@
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE13alBDY2pES3BweWdiTW05Yl83LUtKWXRJMXRsZThUVExVbVp0Ym94bW1Gam9JY0N2UjJBQzdZRV9uZkw5eEcyZUYwa2xXcm9RVXA5aVh2X2V0Q3lVa09fZll5OWhZM0ZyamVsczlZMjFMYmtfMWoxZktEUkw?oc=5",
     "https://www.hotspawn.com/valorant/news/paper-rex-primmie-patmen",
     "https://www.hotspawn.com/league-of-legends/news/nongshim-redforce-deft",
-    "https://theloadout.com/counter-strike-2-brings-back-snowy-cobblestone-and-sets-fixed"
+    "https://theloadout.com/counter-strike-2-brings-back-snowy-cobblestone-and-sets-fixed",
+    "https://www.gamesindustry.biz/us-senate-hearing-examines-child-safety-on-roblox-considers-bipartisan-bill-to-bypass-forced-arbitration",
+    "https://www.gamesindustry.biz/the-future-of-british-gaming-is-more-than-just-games-opinion",
+    "https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arguments-following-conclusion-of-employment-tribunal",
+    "https://gamingonphone.com/news/mobile-legends-bang-bang-takes-home-mobile-esports-game-of-the-year-at-gamingonphone-awards-2026/",
+    "https://gamingonphone.com/news/mlbb-m8-world-championship-heads-to-bangkok-and-istanbul-with-a-1-million-prize-pool/",
+    "https://gamingonphone.com/esports/pubg-mobile-global-open-pmgo-2026-season-2-schedule-format-teams/",
+    "https://gamingonphone.com/esports/efootball-championship-2027-kicks-off-with-konami-tripling-prize-pool-to-300000-as-world-finals-expand-to-24-players/",
+    "https://gamingonphone.com/esports/pubg-mobile-pro-series-2026-season-2-schedule-format-teams/",
+    "https://gamingonphone.com/esports/king-pro-league-grand-finals-2026-schedule-format-teams/",
+    "https://gamingonphone.com/esports/mobile-esports-in-asian-games-2026-results-updates-and-more/",
+    "https://gamingonphone.com/news/free-fire-max-india-cup-ffmic-fall-2026-grand-finals-results-and-updates/",
+    "https://gamingonphone.com/news/indias-asian-games-efootball-run-ends-in-controversial-group-stage-exit/",
+    "https://gamingonphone.com/news/call-of-duty-mobile-garena-battle-royale-cup-2026-announced-with-a-40000-prize-pool-taking-place-in-manila-this-november/",
+    "https://esportsradar.gg/blast-and-supercell-partner-with-thomas-lyte-for-2026-brawl-stars-world-finals-trophy/",
+    "https://esportsradar.gg/finnish-esports-federation-elects-otto-takala-as-chairman-for-2027-2028/"
   ],
   "title_hashes": [
-    "889ab978e1642baed6d65211047d8392",
-    "98dc1777c4b488e870f62794632555d3",
-    "957492c7d6cbe855701e17cfbb909e1a",
-    "a443aef414ee8076ab73b5d384e0b4db",
-    "65e3d075d2c740c7f0e81cc3f904937b",
-    "c80532ba2f1f8ac29cad493f27e70737",
-    "8b7a6e7c1e611dc5e4942fcb5b58f664",
-    "4278047b79c2f56d1dc4a94b0e35a0de",
-    "36303cd825e88dc073c350ba6f563a57",
-    "7edcb47e80906cb541603bd5035f3ccc",
-    "6087845d80004f1d9de9399604a7e993",
-    "f41c4666a32468082144b05031aa6488",
-    "b50c5fe5980ff0c79d18f556efcfa530",
-    "d8ee122e7e729a04d24daa22c3e4ccd5",
-    "e7a3c4247846c88b500256cc154ea583",
     "a1293826d212923cd6a4adb137de8e43",
     "d92fc6486c074bb80fcf94bae1c60cb6",
     "6d9c21756f46b32057b2002741b123be",
@@ -16001,7 +15986,22 @@
     "946eb70078e2f98aebf0cd019d2de85e",
     "7345174f25c0f260223a97de1e9c1e86",
     "da1195ccda36cf4a51381c26e17d065a",
-    "692bf62425e10cffc3e79325f333a790"
+    "692bf62425e10cffc3e79325f333a790",
+    "5cd5c6570fd68ee741b8d5dfb2d9c31d",
+    "ed0bb9b31906708f5df83ce0a6cfaf80",
+    "585967caac6b1963506ae371492783a5",
+    "0586093e0f26c9fc5f25a07e894c602e",
+    "ffce2a6cfdced38246b1185528c311b2",
+    "fbc2adce00028ed44e831c7bca91058f",
+    "487cffdda0c3ead865fee93fc7169503",
+    "addeb76fca0ef3bbbb8ec7bda8f1f102",
+    "60eb488ae7f0aced4b256c6bd823a2fc",
+    "0fba3358bcee8ec082425455d8ce2034",
+    "69fec1845adca2e780d7a4ad47067c4c",
+    "f36c0b03b0a96a181cf397d9b660e1d2",
+    "90ea85e816639d6102676de9fb7464f8",
+    "21937f818ad78d6a444c9471f69474cf",
+    "0926d8bebdc1fd5ebef226003f12602d"
   ],
   "transfers": {
     "pages": {
@@ -21244,6 +21244,26 @@
     {
       "t": "17 2 8 adds brings cobblestone counter cs2 fixed kits major matchmaking music nov price prices sells singapore snowy stickers strike update valve",
       "ts": 1795091144.870146
+    },
+    {
+      "t": "allow arbitration bill bipartisan bypass child consider considers counterterrorism crime examine examines families forced hearing held judiciary roblox safety senate subcommittee that this victims week would",
+      "ts": 1795091149.6864576
+    },
+    {
+      "t": "british businesses creating creative developing established franch future games gaming globally has ideas independent industries innovative just more most one opinion original recognised studios than video world",
+      "ts": 1795091153.0242589
+    },
+    {
+      "t": "arguments between both britain closing concluded conclusion employment following great has independent issue issuing iwgb members more parties read rockstar their tribunal union workers",
+      "ts": 1795091156.3000019
+    },
+    {
+      "t": "2026 blast brawl british company esports finals finnish game goldsmiths have lyte mobile named official partner production publisher silversmiths silverware stars supercell thomas tournament trophy world",
+      "ts": 1795091159.6265802
+    },
+    {
+      "t": "2027 2028 body central chairman competitive elected elects esports federation finland finnish gaming governing has officially otto seul takala",
+      "ts": 1795091162.9149017
     }
   ]
 }
