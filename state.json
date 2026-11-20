@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.global-esports.news/call-of-duty/runescape-4-is-coming-first-teaser-for-the-sequel-to-the-cult-mmo-series/",
-    "https://esportsradar.gg/major-public-private-partnerships-signed-at-beijing-west-esports-festival/",
-    "https://esportsradar.gg/razer-named-controller-partner-for-the-fuse-cup-finals/",
-    "https://www.talkesport.com/news/steam-outage-login-issues/",
-    "https://www.talkesport.com/news/psn-account-hacked-unknown-child-accounts-family-list/",
-    "https://www.talkesport.com/news/lol/lauri-cyanide-happonen-dies-at-31/",
     "https://www.talkesport.com/news/fortnite/fortnite-mastery-monday-start-time-and-bonuses-for-october-26/",
     "https://www.talkesport.com/news/dota2/dota-2-player-count-nears-1-million-2026/",
     "https://www.talkesport.com/mobile-gaming/garena-free-fire/free-fire-india-to-launch-soon-desi-gamers-confirms-the-highly-anticipated-release/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/28880/segas-g-star-booth-decked-out-with-total-war-warhammer-40000",
     "https://www.invenglobal.com/articles/28879/three-kingdoms-battle-for-the-realm-to-launch-beacon-of-nanjun-season-on-nov-21",
     "https://www.invenglobal.com/articles/28877/black-desert-to-select-korean-representatives-for-master-class-world-finals-nov-2122",
-    "https://www.invenglobal.com/articles/28878/nexon-begins-pre-downloads-for-overgeared-on-november-20"
+    "https://www.invenglobal.com/articles/28878/nexon-begins-pre-downloads-for-overgeared-on-november-20",
+    "https://www.invenglobal.com/articles/28876/path-of-exile-2-concludes-pre-launch-showcase",
+    "https://www.invenglobal.com/articles/28875/2026-national-middle-and-high-school-esports-championship-main-event-kicks-off-november-21",
+    "https://www.invenglobal.com/articles/28874/asus-launches-proart-gr1x-ai-mini-pc",
+    "https://www.invenglobal.com/articles/28873/from-stunning-cosplay-to-tyrant-of-a-defense-game-demo-webzen-at-g-star-2026",
+    "https://www.invenglobal.com/articles/28872/bursting-with-personality-standout-indie-games-to-watch-at-g-star",
+    "https://insider-gaming.com/where-to-find-ufo-in-gta-6-explained/"
   ],
   "title_hashes": [
-    "f4b947f5d56a9bf4aa593ffdfd5eaedc",
-    "9c28d32df234037773be184dbdafc274",
-    "6f43d4b307046cfead93073181e56d49",
-    "a5ccbf836bffc98a93067ef192207366",
-    "5adcf2a08be2b77fe6bc43ca4083dc12",
-    "a7e992dee456f40e625e5ee9b3a91097",
     "c5a21635ac7a215a1e05e1fb6cc1620f",
     "16908b0605f2645dfcb4c3a8d248cef3",
     "3cf96a61da8ba81f8293651f292961a0",
@@ -16001,7 +15995,13 @@
     "c402b0c12d9eebbb6ed94c51a6cf1515",
     "367f6584c6645981489d48a3b1900494",
     "6c16c46e349ddd37a5fc4b004626782c",
-    "fea2641911cec192582560698c373830"
+    "fea2641911cec192582560698c373830",
+    "16ca1ab100b209f8ee9f49f9c6b3858d",
+    "fe37a70ec258c87ad888e64d28c72cef",
+    "7ebcff195181ff38d8b113c4ddad3470",
+    "1ee53e524c7a10d429d8a12b00b34e66",
+    "6d5984f970aba348e6fef1afbf2baa10",
+    "3e044eabf725c1eee29767a9784addc5"
   ],
   "transfers": {
     "pages": {
@@ -21120,6 +21120,26 @@
     {
       "t": "20 26 began begins developed downloads games gray hong kong korea launch macau midnight mmorpg nexon november official overgeared pre service south taiwan will",
       "ts": 1795167985.2601004
+    },
+    {
+      "t": "100 19 2 20 ahead announced approximately busan concludes exile games gwangalli host invited kakao launch november official offline path players pre showcase that",
+      "ts": 1795167990.1451073
+    },
+    {
+      "t": "20 2026 21 announced association championship esports event high kespa kicks korea main middle national november off online place school sports take that will",
+      "ts": 1795167993.550051
+    },
+    {
+      "t": "1 asus compute delivers designed gr1x has hereafter korea launched launches local mini nvidia performance petaflop platform powered proart rtx spark suppor system tasks",
+      "ts": 1795167996.9631634
+    },
+    {
+      "t": "0 19 2 2026 22 bexco bursting busan exhibition experience game games indie international november personality place showcase standout star takes watch",
+      "ts": 1795168000.2950666
+    },
+    {
+      "t": "6 abduction alien encounter event explained find gta guide how learn life other planets post scene this trigger trying ufo where you",
+      "ts": 1795168003.6482885
     }
   ]
 }
