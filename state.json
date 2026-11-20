@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://traxion.gg/florian-lebigre-takes-2026-porsche-esports-supercup-title-amid-controversy/",
-    "https://g2g.news/esports/google-partners-with-nodwin-to-launch-mobile-gaming-championship-in-india/",
-    "https://g2g.news/online-gaming-laws/supreme-court-dismisses-review-petitions-challenging-its-junglee-games-ruling/",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHBYRjJLbnVFMmVPcVpEekxOLVMxUExweFlNaHI1OTFfbzBtekJ0YUthQUUtVnBGb0Y3MGUzalJ1dEEzMFE5Yy1IWTFOS3hRR2NlMDQ3dVBnMmo2SGduVE0tRkcwTDV5WnpjOVJRNml5ZkpXMzFCN2JkWE1YZkdSREhaOA?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EWElZcWtNOGJUenFwMUNvcGFnckxpR0M0SlBuOGhDNF9jM2Rfai1DdlNnaWJNdTg5MXF4WGlhSWtJYXE0MjNxektHaHh4Yy12clhYNEpSdmEzX28xU2RCWHpMTEphMWtUUmFLVFNfaFV5Tms?oc=5",
     "https://www.hotspawn.com/counter-strike/news/vitality-jl-stickers-pgl-major-singapore",
     "https://www.hotspawn.com/league-of-legends/news/cyanide-passed-away",
     "https://www.hotspawn.com/2xko/news/last-2xko-update",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28892/mecha-design-legend-shoji-kawamori-and-producer-yong-ha-kim",
     "https://www.invenglobal.com/articles/28891/once-a-game-is-out-in-the-world-half-of-it-belongs-to-the-fans-yoshinori-kitase-on-ff7",
     "https://www.invenglobal.com/articles/28890/from-god-of-war-to-wolverine-world-class-art-directors-share-their-perspectives-on-game-art",
-    "https://www.invenglobal.com/articles/28889/why-cant-you-climb-on-torii-cultural-respect-embedded-in-ghost-of-y%C5%8Dtei"
+    "https://www.invenglobal.com/articles/28889/why-cant-you-climb-on-torii-cultural-respect-embedded-in-ghost-of-y%C5%8Dtei",
+    "https://www.invenglobal.com/articles/28888/luck-inflation-placement-and-guts-the-roguelike-dopamine-of-high-roller-penny",
+    "https://www.invenglobal.com/articles/28887/lucid-choi-yong-hyeok-likely-to-leave-former-team-for-kiwoom-drx",
+    "https://www.invenglobal.com/articles/28886/making-3d-modeling-easy-for-everyone-tripo-ai-expands-reach-to-b2c",
+    "https://www.invenglobal.com/articles/28885/from-crimson-desert-to-sanabi-game-culture-festival-2026-at-g-star",
+    "https://www.invenglobal.com/articles/28884/play-games-and-unwind-at-komodos-steam-deck-hands-on-zone"
   ],
   "title_hashes": [
-    "ada83edf6a5296cc8b4b4b9456ca344c",
-    "ef3a562728e63cc4307ba703d0c4fd33",
-    "a7a333884325429ee43c6dab2d460547",
-    "34d8481049bb8dd01b20931790bcb2e2",
-    "98e7d82f4694dabd14b237c08905fdfb",
     "4b73e04314b5ec0150035040c81187ab",
     "cb6515d7c7b1edbb8f2d072e8a54a3a5",
     "d4de2db3485ca3648f82e7c73ecfdeeb",
@@ -16001,7 +15996,12 @@
     "6cedf942ae1ee0789824a1f6f3c2a46b",
     "e1a255cc1901b4b38e6e4f20a59d38e6",
     "48d21ada309fb30ec828aa4da82a871e",
-    "8b0666f2ab832b3aea3b20797f6e56ba"
+    "8b0666f2ab832b3aea3b20797f6e56ba",
+    "9c9eda0f0daa4466a2817ba5f180d34a",
+    "195369f515871395a8e5f22a0ccc875d",
+    "a3ac93e0dac4025ba2033e5cca62dfcb",
+    "dad817377479a80ad5911b78fd37a45a",
+    "a47f8c43ae878b30c415178bff6f63af"
   ],
   "transfers": {
     "pages": {
@@ -21080,6 +21080,26 @@
     {
       "t": "another beyond bringing can climb considerations country cultural culture embedded game ghost history into reproduction requires respect simple torii why you yōtei",
       "ts": 1795167948.678308
+    },
+    {
+      "t": "anime but commonly dopamine encountered guts high inflation japanese korea luck manga pachinko penny placement rarely roguelike roller subject touched upon",
+      "ts": 1795167953.8079002
+    },
+    {
+      "t": "2027 20th according choi don drx expected former hyeok inven jersey jungler kiwoom leave likely lucid poised reporting season sign team their upcomin yong",
+      "ts": 1795167957.1888926
+    },
+    {
+      "t": "3d among b2c become been consistently developers easy everyone expands gaming generation has hot industry making mentioned model modeling name one over platform reach recent service topic tripo years",
+      "ts": 1795167960.5053222
+    },
+    {
+      "t": "19 2 2026 2026g 22 busan center crimson culture datesnovember desert desertmongil divesanabi exhibition festival game locationbexco sanabi star",
+      "ts": 1795167963.8074355
+    },
+    {
+      "t": "19 2 2026 22 busan center datesnovember deck decklounge demossteam exhibition games hands has komodo locationbexco play set star steam unwind zone zoneg",
+      "ts": 1795167967.106206
     }
   ]
 }
