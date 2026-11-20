@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQk1iUVJnUlR4bTZ2LWhtNU14UVVYMTNocjh1REdDQkkyQzZsWTlqd2lGblc5TU91U2NWbHpWSjBCQ285T3dkdmg0Ni1xSlZFbi1EYVNkdUloTVE?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbWpaZ2dod0xMaU4xOHlQU2RjdkRzYzdINENvMUNoWW9yc1hoaTlwOTZXc2Jfa0FZWXc4VWVfejVXbzJZUHVaRk5aZzYxTEl5TVJ4TzkwcDZFWllIR2p3Vk5KS25wWVF3NTUxNmdTOU9za3ZuYlFfRl80SGhEdFpva1BEVUdKeVFoMWlUYjdCQms2YUlVQ1N5Q0lQQ1lBeGZkU1dtU0Zpcw?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejFBbnUySTladHcxelo0TDZwelFqaS1LenBkZGlheXdsS2hjT1BQODF1VE8wdEVyOUFlOElzeGJNM3ZOUDgxWVVrbnNTM2hGeEw5dFBWSkRvR1BpTHJ0Q09VRWpkeVE4OUNwV2kyaHYtdXYtODJySzRXU3U1Yi1sNG80UXM5T1FTYXBOMQ?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DVEc4cEc2UVk2WFRHczhaQnExRTlGLWZORFNEM3R1RlJmRVFURUpmd0FTZTlNejg3d1d2UUs4WHEteWlyUVQtMUhXTjNyWFlmLTQ4dTRWd0xPdnlKVEQ0cVFBMlpOUFo2RDMwRw?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xalg5cFdYU01JeUI1LVEtM2VNaGthano0aWM0YlhYUUh0cWZCTl81ajdmVC1FSGhSNnAwM3JGelFyT2psRGVMcDlTZkhJQjI3OVJWRjNqOHBETmlUWG5GckxZYUJJNmdy?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02eUJjcFdtLWJkUmRESUJaa3FlVGU3ZTM0c2lVZ2hpdkRCcGF2RTZ4ck1GZ2VPOHNORnpDV09pU1FRNXBsMzRTNTJxSDE0dmVvZWs5UHExdVZ5MnRNb2pNckt1UFVUd0NM?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yNVpqZ05OMk1NMDZFWGtKdGhpd2stUWdkQklUeGFfa3o4M2JQQzkwTGlORTV4bUZmc3l1c0lMVEVNRUVtRl9BYS0wU1dkUWg2MjdXSjFyU3JTSUo0anl5dGxWbTJqdTVu?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSndaUTg4dWZYRjJ0UzdpcEJiVEU5c1dUcmNaanVyZVRHU2VoRDdDempub0hSR1RwUVhiVktRekg3R29HTlBEMV95R0xOZW50eDlTVHp0YTlnNHluVzdNMTY1X1ZkQms4Mzhyb3RLd2V2ZHZxMHdqYllIdkZMVFlmWm5BZjhNY3c0VEUtSzRQY2tTV2NycG1ReTVoYw?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/news/ubisoft-establishes-motherbrain-a-studio-dedicated-to-generative-ai-in-games/",
     "https://www.talkesport.com/news/steam-machine-price-increase-2tb-waitlist-closed/",
     "https://www.talkesport.com/news/cs2/faceit-istanbul-server-test/",
-    "https://www.talkesport.com/mobile-gaming/bgmi/team-soul-pmgc-2026-visas-secured-8bit-thug/"
+    "https://www.talkesport.com/mobile-gaming/bgmi/team-soul-pmgc-2026-visas-secured-8bit-thug/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/sid-explains-team-souls-worst-case-scenario-amid-visa-delays/",
+    "https://www.talkesport.com/news/pubgm/south-asia-at-pmgc-2026-can-4thrives-soul-and-horaa-bring-the-trophy-home/",
+    "https://www.talkesport.com/gta-6/cyberleek-gta-6-xbox-build-leak/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/bgmi-new-season-is-now-live-check-season-32-tier-reset-and-other-details/",
+    "https://www.talkesport.com/mobile-gaming/garena-free-fire/ffws-2026-gf-knockout-phase-2-day-2-match-timings-teams-format-and-more/"
   ],
   "title_hashes": [
-    "ae30717eb752f1e8d5f136c921af954f",
-    "cc8cc7f9317640ec5ad9115ea5eba988",
-    "4cceed18014814d50b2397f5dd84849b",
-    "6ddddacd5765579f6b11e2697e03ca17",
-    "120dccfee9d436f49d64ac482f330d40",
     "d69040f44715a87ccf28b9d16616b74f",
     "50828b5eabb7500fd8655c79ac3d9711",
     "d706737182bdba7434bc8bd92f620325",
@@ -16001,7 +15996,12 @@
     "2d8b4aa04a7d53e653ffca9904054de3",
     "b8a7fd3cdc0f20ab71718fa8922eeda1",
     "67f39f4cc6b7d446ec6453d67cabcddf",
-    "1427657c9b489705c681f535539e2bbe"
+    "1427657c9b489705c681f535539e2bbe",
+    "f09f3f1fe8ac83131c8ecc14dd2a0db3",
+    "981362f963495bd942672679202cf239",
+    "e35e1e7f319b6eb36827901d1c54314c",
+    "947ef5bb3f856fff57e13c5850970b50",
+    "6fbc72b14539c18aa7f33d486ed1f2bd"
   ],
   "transfers": {
     "pages": {
@@ -21172,6 +21172,26 @@
     {
       "t": "2026 8bit after all confirmed confirms day delay have participation pmgc post risk s8ul secure secured sid soul team their thug turkey visas warned",
       "ts": 1795198020.33729
+    },
+    {
+      "t": "according amid applications approved been case deadline delays delhi explains fixed given has have later mumbai not pending remain says scenario sid soul team travel visa whereas worst",
+      "ts": 1795198025.3299904
+    },
+    {
+      "t": "13 2026 26 39 4thrives asia bring can championshi compete december four global home horaa november participating played pmgc soul south teams this time title top trophy turkey where will",
+      "ts": 1795198028.6634965
+    },
+    {
+      "t": "15 23 6 8217 behind build but claims coin crypto cyberleek executable file full gta hits holding its key leaked locked meme million november post says token torrent until xbox",
+      "ts": 1795198032.0870855
+    },
+    {
+      "t": "20 2026 32 7 8217 anew begin bgmi can check details live new november now other players previous progress redeem released reset rewards season their tier today",
+      "ts": 1795198035.3447375
+    },
+    {
+      "t": "1 2 2026 all day esports ffws finals format gamers global grand here knockout match more overall phase places qualified securing similarly teams timings top",
+      "ts": 1795198038.9221787
     }
   ]
 }
