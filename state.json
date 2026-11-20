@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27731/no-gacha-no-p2w-open-world-creature-catching-rpg-roco-kingdom",
-    "https://www.invenglobal.com/articles/27730/with-2-losses-hanwha-life-esports-faces-elimination-match-against-g2-t1-vs-movistar-koi",
-    "https://www.invenglobal.com/articles/27729/call-of-duty-passes-40bn-in-lifetime-revenue-says-xbox-ceo-asha-sharma",
-    "https://www.invenglobal.com/articles/27727/madison-horror-game-is-getting-a-feature-film-from-sonic-producer-story-kitchen",
-    "https://www.invenglobal.com/articles/27728/apple-addresses-iphone-duo-screen-cracks-contact-applecare-for-replacement",
-    "https://www.invenglobal.com/articles/27726/journey-composer-austin-wintory-shares-20-minutes-of-music-he-wrote-for-the-next-mass-effect",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6UE02V1Uyc251YlN2OXkxSTlURzdSalFVSTdtNjVEeVo5SnR1bVlPSWxmQXRuVnZDbHkxVzVDeEhqZmhhdmtxWWU4RkRfV0cxaGZKbWM1RXM4cjF0MnQxcGdzalBqYjNrdmgzbUR3Z1NHTWdTdkM4?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX21EODFRUWhLakhDR0wzelVYYVlwRjNGM0QtTTNuckZob0trT3ZxOTlhaWthX0J2Y002NHJUcEFXVHg1X2Y0VmxBcFFxV0VTelY3cmh1a2dmOEJDR1N4Q1VDdTBSdkVVN0VlZDZ6TVc3OWcwSHdzTDBoeFctNHJZb3FRMlBzWEU?oc=5",
     "https://www.hotspawn.com/league-of-legends/news/worlds-2026-swiss-stage-day-4",
     "https://www.hotspawn.com/league-of-legends/news/tlaw-yeon-worlds-2026-interview",
     "https://www.hotspawn.com/fortnite/news/fncs-solos-day-1",
@@ -7999,17 +7991,17 @@
     "https://thegamehaus.com/gta-6/gta-6-how-to-sprint-and-change-to-classic-gta-5-controls/2026/11/19/",
     "https://thegamehaus.com/pokemon/pokemon-winds-and-waves-leaks-reveal-new-battle-system-gimmick-more/2026/11/19/",
     "https://thegamehaus.com/gta-6/how-does-the-gta-6-wanted-level-work-tips-to-lose-the-cops/2026/11/19/",
-    "https://traxion.gg/12-drivers-to-take-on-first-gran-turismo-womens-trophy-in-tokyo/"
+    "https://traxion.gg/12-drivers-to-take-on-first-gran-turismo-womens-trophy-in-tokyo/",
+    "https://traxion.gg/verstappen-sim-racing-handed-imsa-esports-win-after-grid-and-gos-disconnection-woes/",
+    "https://traxion.gg/florian-lebigre-takes-2026-porsche-esports-supercup-title-amid-controversy/",
+    "https://esportswales.org/team-wales-ready-to-represent-cymru-at-the-hado-world-cup-in-shanghai/?utm_source=rss&utm_medium=rss&utm_campaign=team-wales-ready-to-represent-cymru-at-the-hado-world-cup-in-shanghai",
+    "https://gameriv.com/gta-6-how-to-unlock-first-person-mode-on-ps5-and-xbox/",
+    "https://gameriv.com/gta-7-could-feature-the-entire-world-take-two-ceo-has-a-hilarious-response/",
+    "https://gameriv.com/apex-legends-reverses-1000-false-bans-after-anti-cheat-update-fixes-hardware-ban-issue/",
+    "https://estnn.com/rainbow-six-siege-y11s4-events-winter-rewards-ranked/",
+    "https://estnn.com/solo-leveling-arise-thalia-de-rossi-kamish-weapons/"
   ],
   "title_hashes": [
-    "a60386477a2b54c62b0010887436d411",
-    "f47bf623cd7efa9d86e6423b51fa3f3b",
-    "a84821d9364709ee026a0e939fe959d6",
-    "69a00bb13b6dfdd4470623841841a62e",
-    "1f544f7be468e35c836a9cf003184288",
-    "2b8bbb96c7ef030a1f772d6b59d88f84",
-    "ddf83cd6c2adbb907c667a9934d0267d",
-    "6b0a685238486f39bb531a3beca3141b",
     "70e89d1aa219069b2a17f3265dd7809e",
     "c1fa35d7e82bedcec262aaf39ecb2894",
     "f892cbce21f390f51dd65fa2269bad76",
@@ -16001,7 +15993,15 @@
     "f031e8e395c8964444373e359ef8cc05",
     "858c30d4df46918de07995c331e15a46",
     "5025e5b5286eeedc5a7f9206efd449cb",
-    "6e527741aa8af0b03db495dbbef38ee3"
+    "6e527741aa8af0b03db495dbbef38ee3",
+    "15ac0af5de7c9185687be8313307a293",
+    "bba628de95e9977fb78a4bce28744c7b",
+    "07585b983d282e13434458c6b9200287",
+    "344c406f9f666832af7ab75d2ebd5ad9",
+    "d264e20d02f7ba84b271350695733899",
+    "1dccedf45a6cb251a9386eab073b3d28",
+    "e9089964c423a71c9639256cd7d003c6",
+    "26b0539088d2cb6aa250d046b3b85e80"
   ],
   "transfers": {
     "pages": {
@@ -21052,6 +21052,26 @@
     {
       "t": "12 7 8217 appeared drivers event finals first gran lan month next part post series take tokyo trophy turismo utilising will women world",
       "ts": 1795197908.6538148
+    },
+    {
+      "t": "20 2026 8230 available compete coverage cup cymru euan hado huw international nathan november post ready represent ryan s4cchwaraeon shanghai squad stage take team wales welsh will world youtube",
+      "ts": 1795197914.0003064
+    },
+    {
+      "t": "6 7 about already asking auto barely been caught ceo could day during entire feature grand gta guard has hilarious host interactive interview off out people recent response strauss sugges take theft two when world zelnick",
+      "ts": 1795197917.2372644
+    },
+    {
+      "t": "000 1 accidentally after already anti apex approximately ban banned bans cheat confirmed developer entertainment false fixed fixes hardware has innocent issue legends players recent respawn reversed reverses sep that those update",
+      "ts": 1795197920.6238704
+    },
+    {
+      "t": "1 15 20 brings calendar december duo february flex grand january ladder larceny login operation permafrost rainbow ranked reward rewards siege signal six solo split through vital winter y11s4",
+      "ts": 1795197923.9815273
+    },
+    {
+      "t": "200 arise battle calamity cap class dark jinwoo joins kamish leveling nera power rework rosa rossi skills solo sung supporter thalia weapon weapons wrath",
+      "ts": 1795197927.3334312
     }
   ]
 }
