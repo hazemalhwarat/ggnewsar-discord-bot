@@ -1,19 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3B5cXVUblU3YjA3VXRNUUprOG9DSi1veFJvT0V0dTFmcDZPcTVZclkwd0tCWEdZVUktb2xuNC1xbmdMZnJXVzBqSVlOdzB5bm8tVFY4WklDT3NZX243aFMwQ01DYmpUZXlNY2VaTzVMcXZyNkM3Y05DOFM0QWJBRXJGTlRrQmpGQzR2VjhXLXA1Z0hpd1R5QzUyUlZhd0JhV0tOdmhYWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa2NmRkVRSFhDVW9DX0Z5Z0FYSTBFT1JYRFhrc2JQYjllQU55SFItV29lTUgwX3d5Zm5PZnhGRVZnMlNfdlg3UldTT19nZW5FWFhqU0UtUVM0SVYtaldDUlFST3BxT1dSREM3M3BxeTRaNWwtRVNHb2IxWFFZQjVLTDUtTTRvNGNOb1hXdUVOOGp4a2Fib2pMc3JTM0pKSEpHMHlJczJhRWZ6S3dTbHZIbTBmRkY1UktiRmF2V0pSem1ubVRnSlpQM29iZG5GR3pkTkhF?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFB3MG1mdUUzTHl6Y0Z0NUprZ01BU1drOS1oa1lSZ2lrWTRCRFhCb1VnQW1DbUxtUVd0UDhiSVFjcG5faUhIWFY2VjVxemlUc2o1MDdOMTc3Nng4b09XdVRTd1FVeGc2aXlkWmRBajI2d1VGQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS0Itc2k4cTFkM1c4Z3lyejlZQUdPOHI4WG83cDJFcVY0SlN1YWZ4d3FMUUdxVy0tVFBzSDBPdkQ1b3ZNVHM4YjhxbEJUUlJ2U1hVNm9OcVVZRmpDdHN1TVo2THZmUHhIUDhWV2l1aW9neDk4Zml5a1Nia0pqNEF6UUNLTEFDejJ6MmfSAVdBVV95cUxPTUlQQWx5VlNpUkdvaC1tWmY4Zi15U3padGpQcEIwOU1LX0JIZFh4aE5RRm9tMUhDSXFoakJLWF9mRzZncmtNRmNaZW1ZTVB6WW5hT0hOajg?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0tScV9QNzJ5R1hFazFMUm9pTHhibG5palRBU1BLZFo5YkxOZDM0dTEtdVlqcXVMOUxmdnVRSjJtQkRKd2Vfb2pKekZVbjRwT041RS1GRUE1bFZCTFU5RHFtcDUyR1RKWEtIbDEwbkRmTFlwZFExdVg4UkRJalF2ejFSZ9IBVkFVX3lxTFBtaXM5X1Y3MkZhMlFiQ1pyZnAxT3czMWRmRFU4aklXMGZiR2RJcHozZE1SMWQxVTJZZnRBVEJRUUFRbVhweTY0STlQY1VVWmpMODdDdFBR?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlR3cnI1N25FY1U4cXVLRUUxT05yRGIyZGNaeGFKTFVQUzd6a0U4UFVZeDVoM1dhOFA2M01ZMTJ1bFlxcS03U0FJcVBlZ3JhZ3FDSFY5eHFjRG5za2tkRGVrcGtqNHIxbEhWY0J3bnllX2FNU01pYUxDOTJrV3l1Zkhn0gFXQVVfeXFMUHl0dVE1LTVfaTljb3A1TmUxUlV4a0w3bS1VcVpBUHJ6WjJyNFhnLTJ6NnJBLTdzWXRscFoybGRvaDYzSEZTZW9BbVZZeUg4VUY1dGFXRlZv?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZEpIWjJNOGZySkZqSHFMazJMOTJldmZoQk5aTkZRb1htU3hKX0lzLTRBUGhhTXo0bUx5YTlweEdvZGdmUkc2NXM1V1E2M2J1U3dWZkVwZVdadUU3MmRKSDhDemlzcUpWaTZnS3FPc3NuQTEwNDYwcVZVNzdveFNqSnRUNnJTWXZxb3A2OGFJeGgyYm44a3Z2VzZRa9IBV0FVX3lxTE9uV1IxRmJ4bzhocGFmOXFweDJxcXktLWpTXzBfbVBVUjBmcHlZTzJkR0hzMVBTZ19BZW5FRGVjUVhGZGVpYUxkMWN2MDlqR1RNXzl1OGxjSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0plU2E5MGw0elh5aWo0ZFFNSmhfNlBRY01YUnQ1cUpiYWx5b3pCY1RXRlpCX3hOVVd0ZEFEWGt1Nm9pc1BEQUpkXzVES1ltX2VPTzctRVNfVXdnT1hYbGtWMGl3YmoyNnJVWE5uNl91SGVlZ21zSGRia3lDWlFqX1FTdGZGMXl3dFZOZGxQRFRWTFJNd3NDUWl1elQ4cTBiaVpqZ0tXRmhyRkNI?oc=5",
-    "https://www.invenglobal.com/articles/27758/unity-cli-surpasses-200-million-executions-coding-agents-drive-98-of-all-activity",
-    "https://www.invenglobal.com/articles/27757/teasing-a-comeback-for-10th-anniversary-com2us-opens-teaser-site-for-destiny-child-assemble",
-    "https://www.invenglobal.com/articles/27756/how-to-increase-corruption-in-last-epoch-fast-farming-tips",
-    "https://www.invenglobal.com/articles/27755/113-hour-story-library-of-ruina-recognized-by-guinness-world-records",
-    "https://www.invenglobal.com/articles/27754/call-of-duty-said-to-be-bigger-than-marvel-cinematic-universe-mcu-reaches-53-trillion-won-in-lifetime-revenue",
-    "https://www.invenglobal.com/articles/27753/once-an-official-asian-games-medal-event-pok%C3%A9mon-unite-to-end-service-in-march-2027",
     "https://www.invenglobal.com/articles/27751/stoneage-idle-adventure-adds-server-transfer-and-new-spirit-growth-system",
     "https://www.invenglobal.com/articles/27752/line-games-quiet-hits-1-in-top-demos-on-opening-day-of-steam-scream-fest-5",
     "https://www.invenglobal.com/articles/27750/world-of-dokkaebi-teases-monthly-content-expansions-through-next-january",
@@ -7999,23 +7985,23 @@
     "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m",
     "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983",
     "https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation",
-    "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6"
+    "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
+    "https://www.gamesindustry.biz/phonopolis-from-amanita-design-wins-grand-prize-at-the-devgamm-awards",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lZGQ5bW5VU0hqdmVkM1J1YklWLVZrNTN5aXJzcXBoU2R1Mk0xVmhfNFZQYzRCUWdqMjJiTC1PQUxZamljSGFfNVMxVWluZTVXZjZYWHhnR0p4bXdYcDJZ?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE4yVGlWU1Z4YjkzV1RQM2hhdU9jYXVKM2YwR0VnOEJUQ3hvTUhYOTJ1TXgxQW5PWkhKd2dhX2ZsQUFBOFdRSTY5QzZmbHJpbmRybHhDcmIxV0JaZXVLZW1sNzVkajVralN2WHdPMkZfSnNLdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wbE5LSDdOMVFVam1BMzZka3hMYmMwUUxlRGpVaks1dWkxX3d2VWVjR05qbE5KYl9fbk9yN0N5TkJyeEotbG5JNXN6MDRReWxjZXdr?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPclA5NThWWktVVjgwMVY0cVpXUFlxY2xwRTF3bGlzaGRzYktTdUhYc1pUOUVVRWNCQmVza1ctcjZQd2JzcExZTkZGUFQ1dDZ0MEpJV3NiYl9uRUVIZHVLRkZURGFzTTYtbENZNHpBTDRNT2QwX1haMGdOUzFpT0Q4LQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHFQM0owNnF4N2wyQ05IVll5UUZuc3pkeGxlLXZScURoa0txbm5kTUQydTBxM0ZXMlBRYl9jMVFUc0lFa1NYeE5SOEp3cnZzcE9MNU83cDd1eHpHeHNUMzBmQ0lRMmpJaWFYTTZlYUtBNUVfZXhlVS13b0FmNGJPME1TRlhhU2tBT0QzOERyU0MyelpxREo0?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNlFBY2h6dm4yT3hwOUxCV29HRmZ4NUNaaFhFZlpmeVhieV9ZaUtWalpiN05nbTFmWGEzM0hJaktjMEtlak9Nck4yVE5RdFVYNlhQRlN5dUtmYXRMc0RBV2k2ck00YzJkdzNTbVA1Y1JVZ3FEc1BibE1WNzV2UjNKcmh6cXhvaTdGMzBzOUI5Y2IwZ18tRTJ6MGdBZGRmTm1jMllFVU05MHM?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNEVFd3FVODVMdzJMY2xvV1AybTByZ25KVEIxaW02cGpCVUZhdWpMZ0I0cExTOE1mQ1oxX1J6U2lQRzV6T2paUUtMOUJXRmFlZE1GS0VXRUxjcko0X0pXc2JiOWxOUnozZkNhcl8zX3ZoUmV4UUNVZmNESlRFX0paUw?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3FocE5HMjlSTi12VVYwNVphRFZSMHYweXlKSWZEb2huVnhSMVlyS1ctN0VteEJtQVo1dXI3SDI3NEowakdETlRMUjBDdHR6bjN5UDE4ODBKZTkzSHRyMnlaZ2tUZzFnSW9Xd2lnNS1BZUZqUS1UMldaNjA3UDQzdVFZdFlONG1zWTM4ZzhoczlmVHRSdFE?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHBaR2VMUm44ZktYZG92Y0lHVXVQUnhhSHJ0OU5RaWFGc05memIzaDJrQ1Z1SVZzU0swM3pFQlJVTkdsbnFPYXJYYWlNOTRhTFJLMHNubWJ5b2VBeWhUUkpOV3hXaDIySC03MXl1cFVkTmFyWmdjQ0kzaTFpRy1WcVpkMlpQM21yQUZueGdBRndqU2dtNHZ5X243bkdHaFh3VnlMWTlxVTlyZ0NnbjQ4?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGVYaHRVSnFUVVVfQzRsWGZ3M184dFM2ekdISlJvNksxWGFaNUlGWmdSVkdOWDR1MjdmYUFBZ0hSTjQxTnpDb0pLTVRJRUdMY2NBa0VWVUlXMzhRdHIweUpvUlFEbEdEUzBNT0VyYXlsWlVCb3UyOGZfdVlsaDRJTkJVRWtoaUFQSHFBc0RCS3N0SG83ODZoU3U3WkxzVlJEVGM0QVhSYTZVYXJIeVNncjc1a1c?oc=5",
+    "https://europeangaming.eu/portal/latest-news/2026/11/20/218400/germany-q3-2026-gambling-stakes-ggl/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/20/218384/ksa-joi-gaming-jacks-follow-up-licence/",
+    "https://europeangaming.eu/portal/recent-slot-releases/2026/11/20/218378/popok-gaming-trigger-tree-joker-ace-slots/"
   ],
   "title_hashes": [
-    "182bb7eeb45661fdd9398baed1c40c92",
-    "8b0db2321c7e32db8d9c9d89e131a53d",
-    "a0b5a52706389e1cdde35edcd652d7cc",
-    "4dbd4437002ae8f1c3a87b1492fb459c",
-    "75448fb0545d9e85c685e8c189fbc79c",
-    "c0e3bc65dbd930a933739ac178abd06b",
-    "97f5b7403d4fdb62f576c64300f8dd91",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "3791359ee6d4457686ad26396145c651",
-    "9c28d32df234037773be184dbdafc274",
-    "c8aea5f416dcc0e4610e913807e5f6e1",
-    "8df358eebbbb64bf19235a902db73505",
-    "6f452dc0eaafad6effa3afd861d77244",
-    "9066b871e655f0f95fe998284ea3906d",
     "db795a8f00297b9b46609908b787a73b",
     "0f706d9d6424da24ab01a30ff8bb1886",
     "8e60577673f00329c4cf7bad3d349dc0",
@@ -16001,7 +15987,21 @@
     "f78c6660698e1971222e78c234d17360",
     "02f48b32e953b4e6bff678b687e8c71e",
     "d257095a1fa6b4f6440d9f974f230c11",
-    "5efb629109b268782c60f79bf5a94a71"
+    "5efb629109b268782c60f79bf5a94a71",
+    "2f5b60bde2b2c6bbc7e7714e3eb4b934",
+    "850d1d695ede7a8ff8904a779f7082ca",
+    "787f2cfa4c63db9f580f00529d24da41",
+    "ac60d44918d7aabbc589efc9a6209899",
+    "78847c832766550f93c8e2cc2b4e9a3f",
+    "e2ead5bd6fac2a0225aaab805ec59017",
+    "60889ce191111832ede90a8bf6607e03",
+    "67158531d1cf4ccc1bc20f936a7a9306",
+    "c896473b1ccc576377d81fefb4c652ee",
+    "3f5d749a71a5e446b9ffee817e95f0a1",
+    "028e3122abccdbe924fb55a92b9e88cc",
+    "8e6f4d5b34cc55f33573fc562ae9de74",
+    "e39b92f34258e85f56d7ac5e7062ee78",
+    "f788f6f7a7c98f5367942f5f57bb6046"
   ],
   "transfers": {
     "pages": {
@@ -21132,6 +21132,26 @@
     {
       "t": "6 biz collaboration company created direct entertainment free games gamesindustry gta guide has host ign official online parent partners publ released rockstar strategy through which",
       "ts": 1795197982.0143564
+    },
+    {
+      "t": "amanita awards central conference design devgamm evening finale grand held lisbon more new phonopolis place prize this took venue wednesday which wins year",
+      "ts": 1795197987.116103
+    },
+    {
+      "t": "bahrain bull charts cup esports nbsp overview pool prize red viewership wings",
+      "ts": 1795197990.4509523
+    },
+    {
+      "t": "16 28 3 6 74bn 8217 8230 did gambling germany jump kept lifting losing market most online over poker post q3 regulated rise slots stakes summer virtual while",
+      "ts": 1795197993.7141497
+    },
+    {
+      "t": "2031 8217 8230 after can dutch first gaming jacks joi lice licence licences market more netherlands one online operator passing post regulator renews stay wave",
+      "ts": 1795197997.0231197
+    },
+    {
+      "t": "8230 ace adds appeared around built card features fir gaming gift its joker multiplier one other popok portfolio post random reel slot symbols that title tree trigger",
+      "ts": 1795198000.3444526
     }
   ]
 }
