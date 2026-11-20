@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27738/warhammer-40000-boltgun-2-developer-lays-off-25-of-staff-despite-critical-success",
-    "https://www.invenglobal.com/articles/27737/cookie-run-ovenbreak-10th-anniversary-5408-million-players-ran-38-billion-minutes",
-    "https://www.invenglobal.com/articles/27734/just-dance-decades-of-hits-pre-orders-begin-for-switch-2",
-    "https://www.invenglobal.com/articles/27735/pubg-teases-collaboration-with-ive-dive-begins-november-4",
-    "https://www.invenglobal.com/articles/27736/cats-soup-magic-recipe-holds-spirit-festival-event-to-celebrate-6-month-anniversary",
-    "https://www.invenglobal.com/articles/27732/ncsoft-marks-10th-anniversary-of-startup-sponsorship-supporting-superjoy-and-geniesoft-at-g-star",
-    "https://www.invenglobal.com/articles/27733/digimon-masters-hosts-growth-support-event-to-celebrate-17th-anniversary",
     "https://www.invenglobal.com/articles/27731/no-gacha-no-p2w-open-world-creature-catching-rpg-roco-kingdom",
     "https://www.invenglobal.com/articles/27730/with-2-losses-hanwha-life-esports-faces-elimination-match-against-g2-t1-vs-movistar-koi",
     "https://www.invenglobal.com/articles/27729/call-of-duty-passes-40bn-in-lifetime-revenue-says-xbox-ceo-asha-sharma",
@@ -7999,16 +7992,16 @@
     "https://insider-gaming.com/military-base-gta-6-mile-zero-air-station/",
     "https://www.vlr.gg/792609/wildcard-plays-its-hand-unveils-valorant-roster",
     "https://www.vlr.gg/792604/patmen-returns-primmie-arrives-as-paper-rex-reload",
-    "https://esports-news.co.uk/2026/11/20/cyberhero-fight-back-to-knock-froglings-out-of-dreamleague-division-2/"
+    "https://esports-news.co.uk/2026/11/20/cyberhero-fight-back-to-knock-froglings-out-of-dreamleague-division-2/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-week-11-tight-end-rankings-and-updates/2026/11/20/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-week-11-wide-receiver-rankings-and-updates/2026/11/19/",
+    "https://thegamehaus.com/gta-6/gta-6-how-to-fast-travel/2026/11/19/",
+    "https://thegamehaus.com/gta-6/gta-6-how-to-sprint-and-change-to-classic-gta-5-controls/2026/11/19/",
+    "https://thegamehaus.com/pokemon/pokemon-winds-and-waves-leaks-reveal-new-battle-system-gimmick-more/2026/11/19/",
+    "https://thegamehaus.com/gta-6/how-does-the-gta-6-wanted-level-work-tips-to-lose-the-cops/2026/11/19/",
+    "https://traxion.gg/12-drivers-to-take-on-first-gran-turismo-womens-trophy-in-tokyo/"
   ],
   "title_hashes": [
-    "288426a82a6406051ea8a5bc9deb8e0e",
-    "182fb8d3e14864ad9da1c1cc4f787aca",
-    "ec6f8941b2228206d5d091f16da98ae9",
-    "b7b53a568964a11c940a0ea67c12087c",
-    "68189c7423436452d86cc413ad310888",
-    "65f2ba87434ed58ff78a43e71b232ae5",
-    "15ac0af5de7c9185687be8313307a293",
     "a60386477a2b54c62b0010887436d411",
     "f47bf623cd7efa9d86e6423b51fa3f3b",
     "a84821d9364709ee026a0e939fe959d6",
@@ -16001,7 +15994,14 @@
     "c542c7856089a98290f9988e68781026",
     "629db79488a227bfe0cf9a3ab739f1b1",
     "3db06d168be53fff16496ffcf5d5f461",
-    "c5d72e0301efaa17c735053e940f62d7"
+    "c5d72e0301efaa17c735053e940f62d7",
+    "37376af59a5813d2f41c6ed77277f441",
+    "ab2393cca21f4fa4248c355a21be39a0",
+    "cbee469b28e341cd12f7f51453c581e1",
+    "f031e8e395c8964444373e359ef8cc05",
+    "858c30d4df46918de07995c331e15a46",
+    "5025e5b5286eeedc5a7f9206efd449cb",
+    "6e527741aa8af0b03db495dbbef38ee3"
   ],
   "transfers": {
     "pages": {
@@ -21032,6 +21032,26 @@
     {
       "t": "1 2 after back beat bracket continue cyberhero division dreamleague dropping fight final froglings knock lower map opening out reading",
       "ts": 1795197890.0418248
+    },
+    {
+      "t": "11 2026 best books continued end fantasy football has its landscape midpoint nfl officially options passed rankings season team ten tight updates week weeks your",
+      "ts": 1795197894.9338732
+    },
+    {
+      "t": "6 8217 city cost end explained fast faster get gta have hour how just luckily many massive much not one other over place rydeme takes taxis that there they time travel vice waste ways well",
+      "ts": 1795197898.4594889
+    },
+    {
+      "t": "5 6 about auto been change clamoring classic controls finally game grand gta guide have here how learn longtime missing more one out players quick sprint theft their things",
+      "ts": 1795197901.859531
+    },
+    {
+      "t": "after battle day fraud gimmick images known leaked leaker leaks more new off pokémon reveal rumored showed shown system these twitter waves winds",
+      "ts": 1795197905.1349137
+    },
+    {
+      "t": "12 7 8217 appeared drivers event finals first gran lan month next part post series take tokyo trophy turismo utilising will women world",
+      "ts": 1795197908.6538148
     }
   ]
 }
