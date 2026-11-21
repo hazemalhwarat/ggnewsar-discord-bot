@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkJqVTBOWGFOQ1hKemFmeE5QVDdzRHN6WUpZTlh5ZDBIUTNMbHBxZHlBams1UElnSjlnY2ZNcU1NNVdXQXU2NWNxaWV3bTJuUGJ6WXhBUnNzcklnZU9QMk00N3loV1RRYXNRRS1MdTd2bTgyX0ptN2QyM2dxdThzcTd1TEdZbzBBUkpNekpONEdyakZzWTI4?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUVVaThrVzFMbEpEYldaaThCczN0NF9TNTMxRnppRHQ1Q0R0TTBiRXJkdHdQSHY4SlhxZ0ZFX3JXRmw2N2FaWm9sVDZ6SktuTHktMXpwcXh4OG5sZTV4QXR4VEFrdjFBclB2OThJSzU5R1JweTJYZkRYdjgwQnFEYjBGQUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSndZUnBnTU9LRmhwLUdzQl91QXNuWHA3OUt0TnhfcXZuWGlpZ2MzUDY3cFNELXd4SlhZYkp6S1RXS3N6aUlQLWdNcEp5Sm5XelhmbnlkSldVZUR5UkhrT2FFOEQ5QlhzMkpzeVVZV2VNOHhZLUg3bG5XYXVwbURXMlg4UU9XaWFZRG1JaFhBWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVZfY0pPY0tPbkEwbFYyS0J2VFdGS2o3Q0tkWmVQMGtkWjEtLUp2TUxDU1lvR2lrbXhVbGJ5bFlfa29UZHpYTzJGS0h2MWp2MHRtNDZscENvYXNfdHRVZXhPQklKdm0tdzdMUlBDcjlYb0JRelFhVU1nZkRsSW9lYVRLaWdkRFFBX1hiNDAyV3BkdEs1eFdKdUNEWFQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmlXNWVPc2JKUUlSeVRFQks1Z19KTHVwbXNfYXFNTjZWamtaWlg1V2tTcUZTaEthWnFlZGtXLXdweEQzeVZjZkl2OWpnVUVMd2JySTY2NDhtanBScWVhNllLbDhjOVZWXzBLN05ybERZNERzWkRMYW5WSkp3ZkR0cEQ1cTJyYmJmM0JvYVdoYWVIaFVNR3ltdVJRMA?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSURFd3JHR3RybUYya3VhMmR6dzA1MzNtSHN6M2RqaHU1MlZvX2tKYUZHZGVMZ3Q3UGwtUTlBYjEwMzluOGdxWW1MVUVZaFBUYlhrZUhLZjkyU1l0YlVoamJMVEJDM184LXpmRmd1UUdCUGxSdXd1Yy1xR0g?oc=5",
     "https://esportsradar.gg/pokemon-unite-to-shut-down-in-march-2027/",
     "https://esportsradar.gg/corinthians-faces-potential-520000-liability-from-30-esports-labor-lawsuits/",
     "https://www.gamesindustry.biz/developers-need-to-treat-early-access-like-a-real-launch-because-players-do-early-access-games-are-on-the-rise-but-so-are-player-expectations",
@@ -7999,15 +7993,15 @@
     "https://www.vlr.gg/792724/envy-enters-next-era-with-exa-xeppaa-ion-v1c-paincakes",
     "https://www.vlr.gg/792668/qor-announces-core-roster-ahead-of-na-qualifier-playoffs",
     "https://insider-gaming.com/gta-6-fast-travel/",
-    "https://insider-gaming.com/nyt-strands-hints-answers-november-20-2026/"
+    "https://insider-gaming.com/nyt-strands-hints-answers-november-20-2026/",
+    "https://insider-gaming.com/gta-6-review-bombed/",
+    "https://insider-gaming.com/gta-6-best-graphics-settings/",
+    "https://insider-gaming.com/gta-6-best-aim-controller-settings/",
+    "https://insider-gaming.com/gta-6-best-sound-settings/",
+    "https://insider-gaming.com/deltarune-chapter-6-playable-start-to-finish/",
+    "https://insider-gaming.com/sega-black-friday-deals-2026/"
   ],
   "title_hashes": [
-    "69b63b1e4b1016bc425a5f459fcdea86",
-    "d0a12dc07774f898973f206247b4b5c5",
-    "dfb2a1222a54ab5f943481f2368dba74",
-    "a9843369e84249778fb81bf783c42012",
-    "0a9768eef3a78d469cf1d93e5389e49e",
-    "214f83101dd5cfa976ea68a29029321c",
     "e1aeaedc0b127398a03a71bf58e69827",
     "1d00170fe98fe822aa41893d88fe786b",
     "d4941dce132b2607e706499c5a55c4db",
@@ -16001,7 +15995,13 @@
     "27fcae32043a5a0254cd2de0084ec51c",
     "01e352aa9e44e70c45ce2b80e872d637",
     "f83b6a04c9f7817af31c1bde3a28bc8f",
-    "d01f82e50cbc8e933ed361f71e9f9180"
+    "d01f82e50cbc8e933ed361f71e9f9180",
+    "bceb90dcf1972107936726a284f36d30",
+    "c97e7ca4c2615a7699e61b684e0d8455",
+    "9a1cd324593da94235fe431b1bbcbf29",
+    "4cc434754dd03ceca48195e4c8b0331a",
+    "a5e7f57a28a1b03964473bb2200541ae",
+    "506acae0b85e41da9955bb4ccd4c9ef3"
   ],
   "transfers": {
     "pages": {
@@ -21192,6 +21192,26 @@
     {
       "t": "20 2026 992 answers find game hints its november nyt post puzzle reveal solve spangram strands stuck theme these use various words",
       "ts": 1795219253.6905158
+    },
+    {
+      "t": "6 after already anticipated appeared becoming bombed bombing day first gaming getting gta highly insider next players post release review seems victim",
+      "ts": 1795219258.6767673
+    },
+    {
+      "t": "6 adjust aim all amp appeared best can check controller details experience get gta here more out players possible post settings use",
+      "ts": 1795219262.1934223
+    },
+    {
+      "t": "6 adjust all appeared best can check detailed experience first get gta guide here ins options out players post settings sound use",
+      "ts": 1795219265.7819538
+    },
+    {
+      "t": "6 7 after chapter deltarune developers finish finishing fox have more moved needs playable polish post says some start their toby while work",
+      "ts": 1795219269.2095003
+    },
+    {
+      "t": "2026 appeared before black christmas deals first franchises friday gam gone insider more now pick post sale sega sonic they top yakuza",
+      "ts": 1795219272.7375674
     }
   ]
 }
