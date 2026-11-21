@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1leVlMRHZLYUQ4bW1JdGlFcjFBRVVPdG1uYXM5cTRNSFY5Vk5GSnVQeml3b2VZUnZEcDhIcm1zS1MxSnNua1V0T1U2Y2lialhYWGh2OHVYVWtWT1JCd3BJaEpsanlrekJXZG14dGVoUnZDZTlxWnlGZk5XcjFmUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCXzJ4ZXZqRW1SdHBIbGFHbkJfbGJvRDB5c3NNUDhFSHNyWGtqVjBhZ3JFMTFVclVTRHVfRm90dWRjd1pRU3pRMEFEcUxBNmtIM2hHQzZXVmdYdWJYTGt1cUxudzZZdlZieTVNZ2hHT3ZpSms?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdE1PVUtRcXVRd2lCbFFFeXRZcV9tTjZyak9mQmFkVGg1Nlp6bVM5ejNJSXIzU1NXMTVXcXZ6SXUtM1IzTE11Q2h5M1VDcGZ5X2hWb3V3NHBfVDZvZ21CR19wU2V4cm9IanRuREtTWnZ4ZGcwb2lUeHRjOVVnQXByMnJjS1g1Vk9pR1V4cllrdERwcl96ZDZr?oc=5",
-    "https://www.hotspawn.com/deadlock/news/deadlock-access",
-    "https://www.hotspawn.com/valorant/news/valorant-patch-notes-13-09",
-    "https://www.hotspawn.com/pokemon-unite-championship-series/news/pokemon-unite-shutting-down-2027",
-    "https://www.hotspawn.com/fortnite/news/fortnite-treasure-hunters-trailer",
-    "https://www.global-esports.news/call-of-duty/fallout-new-vegas-remastered-can-hardly-compete-with-what-fans-have-already-achieved/",
     "https://www.global-esports.news/call-of-duty/modern-warfare-4-dmz-players-are-furious-over-the-new-self-respawn-perk/",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQThDdVJVYkpJaUlqbHdJanVxTktTQ2JQNWxscjBSN2tfX1JkTF9Ub1l3aVRUaUtuTi1RN3hfWUIxTE1fSUxuaGJ5VGs2NnpYNjFzVXJ6bk5Fb3dfS2FteHE3azI3QktuYkxlMkpTcEJKUmlOLUw2RnpuWnhnQUZyUVBFci1VdnNzd2g4V0JwWlE4MTEtbDFJ?oc=5",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IRnZxLWR5ZWQ5Q1gxSVdja1hxNzAtS0g5TnBZVzQwSlhCUm1GaENXRHpKZ2NwTGEtTm9ob2lMSUxvLXJoaGpjQnRuSjRzZ3huYTNscHJKVmh3aVNkRlVSdEg2bk9qNWdPWjV3b1RqNUpUYmFjUUdxdnpsN1JRUQ?oc=5",
@@ -7999,17 +7991,17 @@
     "https://insider-gaming.com/gta-6-copies-money/",
     "https://insider-gaming.com/gta-6-where-to-find-the-pegassi-tempesta-supercar/",
     "https://insider-gaming.com/gta-6-prostitutes/",
-    "https://insider-gaming.com/contexto-hints-answer-for-november-21-2026/"
+    "https://insider-gaming.com/contexto-hints-answer-for-november-21-2026/",
+    "https://insider-gaming.com/gta-6-xbox-auto-upload-ban-explained/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-november-21-1259/",
+    "https://www.dotabuff.com/blog/2026-10-06-is-offlane-fun-again",
+    "https://www.vlr.gg/793026/flyquests-time-to-fly-they-sign-kess-tonza-sacred-gorilla-zelo",
+    "https://dotablast.com/international-2018-favourites/",
+    "https://gameriv.com/gta-6-pipework-mission-crash/",
+    "https://gameriv.com/gta-6-pelican-valley-secret-puzzle/",
+    "https://gameriv.com/gta-6-how-to-get-donnies-secret-revolver-before-its-gone-forever/"
   ],
   "title_hashes": [
-    "b577d84b286ab896ec9b18a58f990435",
-    "5dfade5d95404eeeeb2b2bef1f10712e",
-    "d01f1bb9ccf9a838b1029afc65e79a69",
-    "9e3747a69285bcf6dc38c08b95853ba1",
-    "f353634876d8375d23661d13c9e18553",
-    "ac7f96912e7b0bf9e161e6138aa89abf",
-    "2b635dbcf3e0dfaa80c838b6631cd2c6",
-    "bc89cf8a3b19f336b259fb10445562bd",
     "1684ccf4a144a8e8c41030c4791413f4",
     "7aa4ecf4d36f56eb33129c2fd894f32f",
     "cc1c61e69ca8fa9d26a8f3f0d596f680",
@@ -16001,7 +15993,15 @@
     "21aff2db6161591eb14858cf126abc9a",
     "5e892700376fe2bd8b5eda284946a45c",
     "237c5acc7a3bd08a68b792bda7be0957",
-    "cb3025a548338c42868597abef8b60c7"
+    "cb3025a548338c42868597abef8b60c7",
+    "e29533b27f27c106bfb8d8db62ed8928",
+    "4c1c6da305b261a31f766f625d4a3d89",
+    "41e33173b29760f9df8371d08de8a893",
+    "d4e394835b5070c562c4fd96aac4df58",
+    "cb80c2fd6e939b282dcefde326bef418",
+    "c16b227aca22caa5f6fa3abaf8d33f32",
+    "dda3bb5d99fa45b18e0056ced9793bda",
+    "bf2f3a5aa780342d2905ae171c347bd3"
   ],
   "transfers": {
     "pages": {
@@ -20940,6 +20940,26 @@
     {
       "t": "2026 21 amp answer appeared contexto first full gam get guess hints insider november post stuck today trying you",
       "ts": 1795269595.1643915
+    },
+    {
+      "t": "6 appeared auto automatically banned bans can find get going gta here network nudity out post sex upload uploading what xbox you",
+      "ts": 1795269600.0396883
+    },
+    {
+      "t": "2027 coaching duo fly flyquest gorilla join kess new sacred season sign solada sorex they time tonza trio zelo",
+      "ts": 1795269603.4573462
+    },
+    {
+      "t": "1 108255 5 6 8217 but crash error finally fixes frustrating gta has have into launched mission pipework players playstation possible preventing problem progressing ps5 repeate reported running several some story that them through",
+      "ts": 1795269606.9111483
+    },
+    {
+      "t": "6 abandoned all codes contains deep discoveries facility gta hidden interesting involves location more mysterious one outpost packed passwords pelican puzzle research safe secret secrets smg swamps this valley",
+      "ts": 1795269610.504818
+    },
+    {
+      "t": "38 6 8217 attention before but can collectibles disappear donnie easiest forever get gone gta has hidden how miss not one paying permanently plenty revolver secret some uniqu weapons you",
+      "ts": 1795269614.0974512
     }
   ]
 }
