@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZanFVMVJ4S0g5RGc5M3VNejVsSHN1SFRPcW5kbkVXOVZLMWxNeXh3M1h0SjNBRmVPMUxJTHlrX0lKdkJwM1lRV29B?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFowbFdNcFlwazgzcnFUT3hCQ2Q3ZVpPUUNsdG55ZHBDVXZaMU5BdnM4T0VRVkJYclFib1htVU05cjlGOXJMYjQ5LXVrQWdFSTZGQjYtRUhUbTZOZnF2QU8zY3RlSVhONWdDWkVRamhpQ3NyZXpmMmFZQWdqVjk5MnZQYW9UcC15V1VCUHFRM25HY2x0YVdvVzBiR1RjQ3F3WS1ENVgzVGVNbk1MVk9lLWtLanVSQVVsV29oNGhscw?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SRzZGQk84T2V2UHV3Y3g1eFVlcGVUNDJQQjFVNzJWdG16R1RtaFdQVHhpbTRkbjFDaG93Q0ZpZ1N6eDF6Rmw4YTFELTI5amM3bnc?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xYzNqY2JjNndsWTZUQVRUNlAtaElDcWRLbzNhdWJlZDJJRDhPWGpBbnBxaWdDVDJkc3hMdnBDdVdJNXg3U3lWX1dSTER2dHY0LU1XT0JobTVVRXRsMVZVN2FvbkhSVDlUOExYSmdpbWRwME9vSzIyMnB3?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HVHk4Ykp5elQ1R19heTRzdmdkTkYtQ0RlREx5SkcyLWRtaDZuN1BfdmprMnk0bUlIcTk5Um85YWlsaExJVFo1ZWltM21mcG9HZkF2TnF5N0cxRVMzOWNZZi1FX0J2V1FxOGc?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyVjlPQVdfS3hQMGJxU1VqenkzZG9GeHNkQ2o5bVp1a2VwSWNCWE5vOXhhZU96REpicG9sMHN5UUV1Y0lJeUl5X2dfbV9VbVk1RXF4dWVJemJKR0xKSk1LNnU3eDdZVE9CNG0xbzVHZTg?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY216ZVJQRlpkc011c2xoazM0dnRuN2Rna3ZqT3lrTEdVMXJHMjRpZXlMa0NnR3dKaU03OHpwUkxaYm9Ka1pmYVB6XzI4dHhndkFHRi1TMnF1ZGpDM0E2U2QybTY1QVFOTnNhb3g0c1pQdTNOZGZCVTRoSHA1S3QwSmhVbTFvVXRIQzRONlVPWEVXTlNjLVdGcXNUYTA3YU16QUppQS1zQTdCbWc2NUlYUEFBbERBOTVWS0VGaXlGSzFWaC1jdXB5SF96eTLSAVpBVV95cUxOcnVELTJObHVsTzc2MkZyamdYVzJ6cnNLMTNFQjIwV1NIX21ET09VdEJidm5fN1pBN0JNRGxIZGdzM3NNMTR4VXNWenhHQnRjNDVFVVBPbHpRRkE?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUlkZkU3UV8zVjRXVjVvR29SZWtidmZwUUdKVk9ZZHdnclNHZW9XOGpJMFVHcHVWNTJtQTgyWlNhUHpXU01fVF9pdC1xVGVGYVA5SWZLeFlXU3prUUk3OUdZekg4dW5qYkhKeTd2UTdqNWFvYmcwT3hqN1BYcHVQetIBV0FVX3lxTE00M0JCR1Y3Y2QwRnhoaFBGSWFzejF1LXpXVG5CZmRtZmt0ZFVWOTNndGFRdzRhWDRLb0pybnRZaFpjNFBQOFF6Q1VkR1loUDlxbXBXem9UMA?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY2pqMDVOSm9tT1hKb3d0dVUxYTd2NjZGeWRpeC1SWnhpRFl4MGRENmJZb2RIbEQ3R1dpaWJVSDdud29pN0RZdjc1NGlNSENmZ24yRnVFRDVhclVxQnBudXJTUXk1Q3FpVVppQ3lDWHJYNzh0NHVQdUo3YVZpQzAzWnZ6cnVIZnBWVE9uZ18zYw?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkNRR0lWRXZzZGF6YmI3bEhfbS1XZkg0cE9Mcmd3c2JhZHYzRnJOaS1Lb3VFSVV5YnFHUllKVTVrMmMtU2IxdmRLOUJXVUM3cmdCVy1Gb0VpNGJHd1dIOWNkdll5WTI0TDU0bFdkZGczUTM1RW5pVkxWcTFmYW1FRWxOR1JFNFVnaXppR0EtaFdrQlpuVV9QQlZ5cWdaZ0l5OFBHZUdsQXM?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlJka3pleUU3ZXlWaVZqajdFdkpPbUdQalZLX0pjMEtPNnFEbFJoelpiLTg4Y0ZmTWJPVDY4d1RMWnh2NTZwY2FpeWdyRDh0TDNSbE1PSDVmLXJESkVFX1V5dkdrNXVEZHltMWVrdUFIS09nbE1xdmZZSDZ5eFNMQlNMSnBBSHk0Vl95dnpCOTd5UmRNSkNEcWhFWUJSYWo2?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTBXT1lMbUxwaHl1Z0l2Nm5jUVhpemlKblF0cW85c1dJbnB6ei1CQ2FwUFRodTdjRlNmWWZDQkt2em5KdHMxSm1EeWZoLVd3U01mWlhiQ0tMRERuc1M4b2R4S2hKbWdKSTFDZzV0RS1PcE9WMnJzbGxiMnZKdjlzYURURFhJdGVhc2FoeGF1VzM5LWpBRGhhZzFUbEs4VVg5Q2c?oc=5"
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTBXT1lMbUxwaHl1Z0l2Nm5jUVhpemlKblF0cW85c1dJbnB6ei1CQ2FwUFRodTdjRlNmWWZDQkt2em5KdHMxSm1EeWZoLVd3U01mWlhiQ0tMRERuc1M4b2R4S2hKbWdKSTFDZzV0RS1PcE9WMnJzbGxiMnZKdjlzYURURFhJdGVhc2FoeGF1VzM5LWpBRGhhZzFUbEs4VVg5Q2c?oc=5",
+    "https://www.invenglobal.com/articles/28928/tarae-the-unbound-a-familiar-yet-strikingly-different-action-rpg",
+    "https://www.invenglobal.com/articles/28927/gyeonggi-game-meister-high-school-showcases-graduation-projects-at-g-star",
+    "https://www.invenglobal.com/articles/28926/g-star-2026-what-gaming-gear-is-on-display",
+    "https://www.invenglobal.com/articles/28925/a-trinity-of-events-fun-and-relaxation-crack-attends-g-star-as-main-sponsor",
+    "https://www.invenglobal.com/articles/28923/red-brick-house-showcases-8-indie-games-from-emerging-korean-developers-at-g-star-2026"
   ],
   "title_hashes": [
-    "ac87b98ce288f030acb2f5cece666381",
-    "b8ee224ab3320558dfa5c022e122076b",
-    "c0ceba961d032cb59939d6a74e85acdc",
-    "6133f2847a0cd8fbeda9a3c06c1ae06b",
-    "b63f280a9b4f7e8a23c8a94fd6e4dd7a",
     "eb4f9595ba2fdac98d0344ccb5e91490",
     "6e85de70f55303394502072e41b4c040",
     "f1726a8be2576da549e43f52532b836f",
@@ -16001,7 +15996,12 @@
     "8962769c7a8e865d9f935526d431e489",
     "38d6fd5f7049e7109f80b29df1a7c4bc",
     "b3d0dd84578629568a0ede2f6221fc34",
-    "37ca7f758bed795d63409956f508fa0e"
+    "37ca7f758bed795d63409956f508fa0e",
+    "a652f8d669558e68977f956788855e20",
+    "e861077c1b4b7c7bf7c027b1cd569de4",
+    "b2f5ff47436671b6e533d8dc3614845d",
+    "405092e6997f8244f2b80933ec1fb17c",
+    "63d4d72ed0fe475d543de557616a9fd7"
   ],
   "transfers": {
     "pages": {
@@ -20710,150 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "20 according appears delig delight dplus esports find hanwha highly home hwan inven investigation join joong kia leave life likely new november partnering set sign smash support yoo",
-      "ts": 1795167935.3936238
-    },
-    {
-      "t": "1982 animation debuting design dimension first fortress history holds japanese kawamori kim legend macross mecha place producer shoji super unique yong",
-      "ts": 1795167938.6925304
-    },
-    {
-      "t": "1997 belongs can discussing fans fantasy ff7 final game half history japanese kitase never omitted once out released rpgs that title vii when world yoshinori",
-      "ts": 1795167942.0152879
-    },
-    {
-      "t": "alter art assets between building camera can character class completely creating directors distance far figure game games god how just more perspectives players pose share texture than their video visual wall war wolverine world",
-      "ts": 1795167945.3746824
-    },
-    {
-      "t": "another beyond bringing can climb considerations country cultural culture embedded game ghost history into reproduction requires respect simple torii why you yōtei",
-      "ts": 1795167948.678308
-    },
-    {
-      "t": "anime but commonly dopamine encountered guts high inflation japanese korea luck manga pachinko penny placement rarely roguelike roller subject touched upon",
-      "ts": 1795167953.8079002
-    },
-    {
-      "t": "2027 20th according choi don drx expected former hyeok inven jersey jungler kiwoom leave likely lucid poised reporting season sign team their upcomin yong",
-      "ts": 1795167957.1888926
-    },
-    {
-      "t": "3d among b2c become been consistently developers easy everyone expands gaming generation has hot industry making mentioned model modeling name one over platform reach recent service topic tripo years",
-      "ts": 1795167960.5053222
-    },
-    {
-      "t": "19 2 2026 2026g 22 busan center crimson culture datesnovember desert desertmongil divesanabi exhibition festival game locationbexco sanabi star",
-      "ts": 1795167963.8074355
-    },
-    {
-      "t": "19 2 2026 22 busan center datesnovember deck decklounge demossteam exhibition games hands has komodo locationbexco play set star steam unwind zone zoneg",
-      "ts": 1795167967.106206
-    },
-    {
-      "t": "2 advance ahead announcement arise available change class concerns episode equipment following lancer mage next only players prepared ranger skills some swap that transfer week would",
-      "ts": 1795167971.9397273
-    },
-    {
-      "t": "19 2 2026 22 ascendancemega booth boothg capcom center datesnovember demospragmatamonster dual exhibition hunter locationbexco man mega override playable star wilds",
-      "ts": 1795167975.2761788
-    },
-    {
-      "t": "21 battle beacon bilibili game its kingdoms launch nanjun nov open realm season strategy three w2 will",
-      "ts": 1795167978.5411932
-    },
-    {
-      "t": "21 22 288 abyss across adventurers black class desert finals holding inclu korean master nine nov november pearl qualifiers regions representative representatives select selected total will world",
-      "ts": 1795167981.9814951
-    },
-    {
-      "t": "20 26 began begins developed downloads games gray hong kong korea launch macau midnight mmorpg nexon november official overgeared pre service south taiwan will",
-      "ts": 1795167985.2601004
-    },
-    {
-      "t": "100 19 2 20 ahead announced approximately busan concludes exile games gwangalli host invited kakao launch november official offline path players pre showcase that",
-      "ts": 1795167990.1451073
-    },
-    {
-      "t": "20 2026 21 announced association championship esports event high kespa kicks korea main middle national november off online place school sports take that will",
-      "ts": 1795167993.550051
-    },
-    {
-      "t": "1 asus compute delivers designed gr1x has hereafter korea launched launches local mini nvidia performance petaflop platform powered proart rtx spark suppor system tasks",
-      "ts": 1795167996.9631634
-    },
-    {
-      "t": "0 19 2 2026 22 bexco bursting busan exhibition experience game games indie international november personality place showcase standout star takes watch",
-      "ts": 1795168000.2950666
-    },
-    {
-      "t": "6 abduction alien encounter event explained find gta guide how learn life other planets post scene this trigger trying ufo where you",
-      "ts": 1795168003.6482885
-    },
-    {
-      "t": "2027 ahead completed flyquest gold melya rebellion red roster season shopify signs srg",
-      "ts": 1795168008.3014028
-    },
-    {
-      "t": "2022 2026 after again back blg brought champion club comes days deft drx eighth ended follows have him kingen lck military move nongshim paired place pyosik redforce reuniting service sign title trio world",
-      "ts": 1795168011.6374497
-    },
-    {
-      "t": "2022 2026 2027 after americas aspas champions emea erick esports first fut has leaves mibr missing mvp never now out partner rebuilt santos signed taking team time trophy turkish vct will won",
-      "ts": 1795168014.930202
-    },
-    {
-      "t": "2 42 7 ago also best blast but days dota feature ladder likely new next not only patch played power rankings released shake slam still teams tier tournament will world",
-      "ts": 1795168018.2126694
-    },
-    {
-      "t": "000x 5 8217 8230 bigger crash drone falling fire game latest launches lets moment multipl multiplier payout pick players post strike studio themed title trading veliplay",
-      "ts": 1795168021.571438
-    },
-    {
-      "t": "2027 8217 8230 ahead cover finland gaming licensed look new newest online opening operators post regulator requirements room rules session technical there webinar whether will",
-      "ts": 1795168026.293778
-    },
-    {
-      "t": "8230 appeared bonus changes cost done european exercise first gaming have its learning moment only player post right spend what without worth would wrong",
-      "ts": 1795168029.576074
-    },
-    {
-      "t": "10x 5 8217 8230 about affiliate bonus cap care casino comparasino data favour figures how more much must new offers players post rules shows suggest they under wagering",
-      "ts": 1795168032.8230608
-    },
-    {
-      "t": "2027 announced bringing cup enc esports ign india more nations nbsp new qualification road tournaments",
-      "ts": 1795168036.083182
-    },
-    {
-      "t": "19 2027 after agreement confirmed eeiu esports far first goodbye hour lion mibr november nrg only reaches reported reports said signing verbal zekken",
-      "ts": 1795168039.3042505
-    },
-    {
-      "t": "2027 25 6 7 arabia beijing brazil but calendar cologne cs2 esl event events fill has iem january kraków league major none november pro saudi season seven unnamed usa",
-      "ts": 1795168044.0849574
-    },
-    {
-      "t": "156 4 8k build builds but deadlock dozen explained handful has items need only rules shop spike understand well you",
-      "ts": 1795168047.327847
-    },
-    {
-      "t": "after animation awp bug clip cs2 falling find gave had half hour its latest new out own players plea reload s1mple shadow slow sync update valve within",
-      "ts": 1795168050.7130501
-    },
-    {
-      "t": "2027 drx esports join kiwoom lck lucid nbsp season set sheep sources",
-      "ts": 1795168053.9690325
-    },
-    {
-      "t": "alongside canyon esports former gen hle join kiin nbsp set sheep sources teammate",
-      "ts": 1795168057.2591462
-    },
-    {
-      "t": "bnk esports fearx join lck nbsp set sheep sources thanatos",
-      "ts": 1795168061.989257
-    },
-    {
       "t": "12th 2025 2027 20th acc adding adds announced battle bentley brand british carmaker collaboration game has january luxury mobile models november pubg royale running three until",
       "ts": 1795197802.9607563
     },
@@ -21248,6 +21104,26 @@
     {
       "t": "2027 cblol esports gaming join nbsp pain set sheep sources trymbi",
       "ts": 1795219308.232754
+    },
+    {
+      "t": "2026 action debut different familiar first gamescom have hereafter its live months night opening passed place revealed roughly rpg since stage strikingly tarae three took unbound world yet",
+      "ts": 1795240245.8856697
+    },
+    {
+      "t": "2026 all also attended event field first game graduation gyeonggi high its meister part projects school second showcases star students third trip unveiled year",
+      "ts": 1795240249.3338218
+    },
+    {
+      "t": "1 19 2 2026 22 amp bexco brands centers datesnovember display exhibition featured gaming gear gearkeyboardsmonitorsheadsetsssdscontrollers star venuebusan what which",
+      "ts": 1795240252.7925043
+    },
+    {
+      "t": "1 19 2026 22 appearance attends boothg center character chat crack demophoto events exhibition first fun locationbexco main makes platform relaxation schedulenovember sponsor star trinity zonemerchcosplay",
+      "ts": 1795240256.3008807
+    },
+    {
+      "t": "1st 2 2026 8 area bexco block brick center developers eight emerging exhibition floor game games house indie korean red set showcase showcases showcasing star",
+      "ts": 1795240259.7980313
     }
   ]
 }
