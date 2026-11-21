@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.vlr.gg/781105/gentle-mates-gc-sr-gold-continue-upper-bracket-warpaths",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaE81MmJYZzNMRXZTTDBhN3ZWNUNBZmZIY0lEZ19aMnFMMVh6MmVqZThYLWJOczVyRFc3eWpuZlFIU0FmRkFiNmREZTN4MzBfM1VoWUNhMzRwc2xkVTRsaDBjbFlDZVVFNDc3YnhqNEFocnFwdXlrUkF5Z3ZueEF2b0I3YU9ackw0ampj?oc=5",
     "https://www.hotspawn.com/league-of-legends/news/league-of-legends-patch-26-22-preview-mel-rework-and-item-changes",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjNZZU5ZRTQ1XzRiMDEtZDdvS2F4NjIxNlZvSFF3Vk94MERsNXhrSG5tRWpzV3AzT3FrNXp4b2EzT1d0TzJfUVVkWVRiTVVqYUd5MmZRbzZkRmNxNHpYc0Etd3M2c3ZGOFhzX0Yxc0R5X3AzTE1rSzItYUhPSkhpMFZ0azZac0NSclhjUWJrbE1lRkd1NlN0MDVsalloMm9sYTduVWFB?oc=5",
@@ -7999,10 +7998,10 @@
     "https://pley.gg/cs2/pimp-i-think-we-have-seen-the-last-of-broky/",
     "https://pley.gg/cs2/cs2-major-simulator/",
     "https://pley.gg/cs2/sofia-backs-pgls-2027-cs2-event-with-up-to-e250000/",
-    "https://pley.gg/cs2/cs2-major-format-explained/"
+    "https://pley.gg/cs2/cs2-major-format-explained/",
+    "https://pley.gg/cs2/jason-lake-to-receive-hltvs-first-lifetime-achievement-award/"
   ],
   "title_hashes": [
-    "ba954b5a84d50158e322c8e264ba58be",
     "6a5724167daf380f5d4b74930d69fcad",
     "6233eb2bcb2f058cfc99d2678f464d52",
     "463f4ad545b8f70a8109859a48ed9ba1",
@@ -16001,7 +16000,8 @@
     "178374db4bfee181e92e4deb9d6e70e1",
     "0d78d2886288db3b12de5aa86ad8b876",
     "156e1da556547cd334d6db2413ba980e",
-    "b31afe882a4201d996f2a80811b53756"
+    "b31afe882a4201d996f2a80811b53756",
+    "8da5045b5eed57bbe87dcb990d0f8424"
   ],
   "transfers": {
     "pages": {
@@ -20976,6 +20976,10 @@
     {
       "t": "16 2013 2026 32 bo5 cs2 explained final format grand grew has how major pgl singapore stages swiss teams three today works",
       "ts": 1795292657.1492507
+    },
+    {
+      "t": "9 achievement award belgrade complexity first founder hltv january jason lake lifetime receive will",
+      "ts": 1795292661.6977487
     }
   ]
 }
