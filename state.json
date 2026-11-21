@@ -1,20 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VTEFEOHN6NEZhb1YzV2p1ZF8zVXJjMEZnSkZDNDdMYlVmb1dJbG1qOVhPNmMzVjdFU0s0akFyMzNKOGM4UHNTa0NDcFRmQ1d6UFc1aUdLbEpfRjh0Y3M1S1Z3bDIzdGw1OGNQSVRGZGxVMllka3V6ekJhR1JlUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0bTBHeVJMcTNON0RqZ3F3b05ITUd5ZDlYZUJFMmdiNGdaaG1CRUJJSlNLVkx6WFhHaXE5U2ZUaWNlbFRBZ0VQSERxSlpNUzB4bVJ0eUZzTFE4QzI3allmc3Nzb2J3eFN4Z2x2enQwQXA?oc=5",
-    "https://www.talkesport.com/gta-6/gta-6-review-embargo-november-18/",
-    "https://www.talkesport.com/news/modern-warfare-4-korea-controversy-president-lee/",
-    "https://www.talkesport.com/news/valorant-13-09-patch-notes/",
-    "https://www.talkesport.com/guides/fortnite-override-recap/",
-    "https://www.talkesport.com/news/gaming/valve-steam-ai-slop-ai-clones-next-fest/",
-    "https://www.talkesport.com/news/dmz-duplication-glitch-infinity-ward-enforcement-mw4/",
-    "https://www.talkesport.com/mobile-gaming/hok-diwali-lit-fest-honor-of-kings/",
-    "https://www.talkesport.com/streaming/what-happened-to-skylinetv-adam-wolke/",
-    "https://www.talkesport.com/news/pokemon-unite-shutdown-date/",
-    "https://www.talkesport.com/news/call-of-duty-40-billion-revenue/",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0VRcXU4NUxxMmZUWWVIaTBxaUo0eXlnLWoxOF9ORjZwOWxkZ00ycmR2aHROdUZDTlBCekFJZkE1TkMtMTlJbGJRdVM3a1gtNTJTMlh2TTFtMHJaN3FaTUZjRWVFb1loanVDdjBRR3NqdGM5LUN1ZGFrWS1hX3VzX1dRQTZUNktaVnV1eGRQQTcxRDhLNHZWUGxhMGE?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXREeDY3OE9MT1JSVUF4UjJ5VUNSRUx5NlZ2UnBYUVhrUjVXM2xnamMxbDBJazNkeUdhVWlublhST09iMlo4YVRMS3VfOFNab09sejBOQk1NUllMN3dGNW8yd0NabWNNTlo3ZlE4Ym9KSXJkdTdrQnhaQmZpak42aHdTblF5cVp0ZVpaSXNkLW4yVFRSNDNNZFVzd0tiYmljaDNNV3dNa3Z0NkJCZk9vVm9R?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XejJxaHBOeURXb1Uzc0gxMURyN0ZLRzdXNmJaMEM4czhiOHZvY1R4c1p6TGxJcFhqVlVkRG9PbmRleVFZT2FmOC1oUHdPLVdVcTlYRXk0bXVJZ2dqS3p0ME5kdS05b1ZxcHhaRF9Ycw?oc=5",
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZanFVMVJ4S0g5RGc5M3VNejVsSHN1SFRPcW5kbkVXOVZLMWxNeXh3M1h0SjNBRmVPMUxJTHlrX0lKdkJwM1lRV29B?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFowbFdNcFlwazgzcnFUT3hCQ2Q3ZVpPUUNsdG55ZHBDVXZaMU5BdnM4T0VRVkJYclFib1htVU05cjlGOXJMYjQ5LXVrQWdFSTZGQjYtRUhUbTZOZnF2QU8zY3RlSVhONWdDWkVRamhpQ3NyZXpmMmFZQWdqVjk5MnZQYW9UcC15V1VCUHFRM25HY2x0YVdvVzBiR1RjQ3F3WS1ENVgzVGVNbk1MVk9lLWtLanVSQVVsV29oNGhscw?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SRzZGQk84T2V2UHV3Y3g1eFVlcGVUNDJQQjFVNzJWdG16R1RtaFdQVHhpbTRkbjFDaG93Q0ZpZ1N6eDF6Rmw4YTFELTI5amM3bnc?oc=5",
@@ -7999,21 +7984,24 @@
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3RKM0J4WDBvb3daMlpRVFU1d0xiRzl4Z01IWWt2b0QycDByekI4TzNYNDZpT1o5bkg5YkF0TWRjNkxwLTFXN0lIMExrT3o3c190cmVJMDdLaGxlY09TN2k2X2lWQjRjaUU1WGtJMVJ6WXF4TGp4anVUX0RDZEh3WGVqQkdQVHg3dVk3akxZZ1M3VjhWUW1vLWxkTFA2OHY3UW5XbjNrNA?oc=5",
     "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZFB0bnlVWjZhNjBHUEdHb3hYNl95MDF6ZURXUGdjZkNOczNkbFB3TWNRZFJuX3hYODJnVlVWa1NUakwyQjM2NHNRYWk1aUlmMzkzWXFIUFZ0emdQVml4SjFmY01fY3lSU1E5OFJsMEV5Ty15bkRHSXdFakNhdWJZRGdyVUhnY2pOU0xwV014SUZUUllf?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEFrSk1CMllsZF9pbWx3R1JQV1IxX0lDRUI1dXA4NnRDMmZ2YnU5TV9PbldMMDVqRHMzTWMxWnBNamNhNnRUeV9sV2lYSXpuYlRuUDFFb2w3NkJrbGZXaU1MWWcwNk1lSWxmanJqZFl2UV9TZVNnM29jUFNmTlZ4RmFVazVSNFV6dndleFZFX0tyTG5uNUdGVmNYaGdiUU5fNkFCN3BOS2NIeGZ0bkIxaGw5Q3ZZTkRZU1BxWWQwc3pHd0M0ck0tejI3WQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEFrSk1CMllsZF9pbWx3R1JQV1IxX0lDRUI1dXA4NnRDMmZ2YnU5TV9PbldMMDVqRHMzTWMxWnBNamNhNnRUeV9sV2lYSXpuYlRuUDFFb2w3NkJrbGZXaU1MWWcwNk1lSWxmanJqZFl2UV9TZVNnM29jUFNmTlZ4RmFVazVSNFV6dndleFZFX0tyTG5uNUdGVmNYaGdiUU5fNkFCN3BOS2NIeGZ0bkIxaGw5Q3ZZTkRZU1BxWWQwc3pHd0M0ck0tejI3WQ?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdlhBaFpLWm5RV3NJbm1YRGdtVTBlWGVUWDNfU1pFWUxkUjBLSWhUaW1WdVJpbGFXd0FoZHpyMEV2Yi1NQzhXWXI2aFU2aktZdUVBeWRPaGZiOC1pS2wwOWhOdW9HOG9NSU03TTlfb05KWDBNZTBuQTVTXzVKTTMxbzVoSnl0UG40enM3V1FlWmtXN3c0SFlzS0tEOHpKY2tCcmZJdjFPYTNDeUxWaTZoNDFQREtwZ1czX2E0M2tn?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0dfdm9QYkh2YkZMWUFFQlpMaTQwY3NkV3d1aXd6MnVMWmpTRnZWVWtHaFhxcXBObWZuZW8xMFU3dTl4MVdKakVoa1V5S3RyX3pQVERwNG5JUlJfVXZ0LUg5M0FjN21UdGhXZ3p1SkIwbS1pUGlYTXQtWExNeFhNM2JmZnowdVZTeDVMdnM1VHBSXzBoeEs3T0JR?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOU5ZcFNuX2VwWWEwdlJoaFhZQi1UMm02SjFoalRKblZBYUkzcTB1MVlEVWt3Tzd0Q3dkdHIyZ0NYQVd3ODMyTElSYUlHLURZdHFOSkUwMktDdU84ZlJGYzdOLXRjSnBmN2Q1anVLNlBUZnI2eVhDcGNMdGJfVWdDWUxDeUxKaE1OLWw4LWozMUk1ZXZLN3dsSDVfMXZaYTFWanVkMUViUm9oU25Xd2l1Nkpxd0RyWXFnVmNQN1dhNmZsLVpLdnY00gHMAUFVX3lxTE56SEllLVhXUF9xZHdsSG5ZUWJLUjlNczFDSXlqaVpja3c5SkRBOG15aktfQVdwNkhnb2Nla1VXVUxGOFVhRkFSd0wxOEhJZnlubWpkdWdXWkZCZFQ3V2RjUWdkWDJXdGNrdHJTWGhZVDByS3daWjhOT05saGVpNUFJUkdoNm4yMlpZbTdJem10OXp4YjBVSWt5cnF2a0pzYjBzWXBPMGxpNENlSmZKSEVVeWpMbG5yczNHUnZ2dThBUlBvREo5UVBTUWJ3Zg?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFB3MG1mdUUzTHl6Y0Z0NUprZ01BU1drOS1oa1lSZ2lrWTRCRFhCb1VnQW1DbUxtUVd0UDhiSVFjcG5faUhIWFY2VjVxemlUc2o1MDdOMTc3Nng4b09XdVRTd1FVeGc2aXlkWmRBajI2d1VGQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxZjRWZHN0WHVFMS1XU2FYdWxWNU9PcDk0UGYyRElPVWdiSHE4eVNTaVA5a2VkZDlRTWFTR0g4Qk9JWTNlblFDV2RPWkFZaEY5cnVNQ1h6R0gzUFVIZ011ci1yWTBzQTR0enU4U1ZfT0l5eU84bEdnbkR1TQ?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGRXNDBVb1hPMXhpc2NxQm5wejFDR3AwVldZV2tTZDNJT01UMGlNYk94WDlhWGFGZnFzTXBhLXV3NVJrRTZfR2o1RFNVV0lRa0FrUG9EQ2VPaVA1SWpaZmZZWEduMENNcWs3TzJ5UFM2TVYxM2ZuLVBPaDhtekk0aGdudlVCUGMwczdaWUdMQ3JXbGlSQ2ViRGsyTmpDT0g1bEhtWg?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wNUxpUV9MYnVneTlLYXBEZmRja01Jb1ZNa0xGczlQbjAzTUk3bXh5WTEtZ2N0Vkoxem9xMjRrVmp1OUhNMXRUel82U1BfbS1UVk5BRTRhcHJrS1ZyV184ZHp3?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZklLMGdyb0szaThfR0pLbHF0TUxGZ3lhUU8wNGFyczhHOWVQaFF3QVV0bHdqYlZvRkpSSXFjeXNRRTlqTVpBT2Q5TlYyOVRDcEVLSjBPSklXMUN4YXV2b0pSczlrMV9nS2NUZkdreEljR3loVWdGNjViOVRxcHRtVmRodXc0YWJ0UlpHUGVMNU43V25xOHdsVXlR?oc=5",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa2NmRkVRSFhDVW9DX0Z5Z0FYSTBFT1JYRFhrc2JQYjllQU55SFItV29lTUgwX3d5Zm5PZnhGRVZnMlNfdlg3UldTT19nZW5FWFhqU0UtUVM0SVYtaldDUlFST3BxT1dSREM3M3BxeTRaNWwtRVNHb2IxWFFZQjVLTDUtTTRvNGNOb1hXdUVOOGp4a2Fib2pMc3JTM0pKSEpHMHlJczJhRWZ6S3dTbHZIbTBmRkY1UktiRmF2V0pSem1ubVRnSlpQM29iZG5GR3pkTkhF?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWNWRnJwd2tjT2xTVnJwTnBqVXVkUWVDaXVMeFZwWFBIWHpSaFBlTmhNSHRIT2s0VjloTDFITEljWnRVMlB4YTF0N2tkWWhrSXEwaGhaX1BwVk04cHFyS0hLeWEzdUxPMWNZM2lTWkhjRWV6ZDhybDkxSnM2aXVuQS1Sd3RwTndmRnk2aElSWTJFSVUtajY4b013NmwyUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUZ4UG9rWUZjTlh3QXhYYkg2bGpFQVh0VTNQcmoxZFpNZUZJeHF1NkRCR2w3U3VUSDd5ZXlXSTk2VUY5bFBTOWJZeS0ySUtrNmE4ZFVRWmhqZUxuWEhPcVVWN1VhRUlQTThfTkxzY1JjNmY4WXRfYjl6TDBBVnlpRTdkTU8taXpIV1VIZ1o0TjV0eVE?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY2pqMDVOSm9tT1hKb3d0dVUxYTd2NjZGeWRpeC1SWnhpRFl4MGRENmJZb2RIbEQ3R1dpaWJVSDdud29pN0RZdjc1NGlNSENmZ24yRnVFRDVhclVxQnBudXJTUXk1Q3FpVVppQ3lDWHJYNzh0NHVQdUo3YVZpQzAzWnZ6cnVIZnBWVE9uZ18zYw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkNRR0lWRXZzZGF6YmI3bEhfbS1XZkg0cE9Mcmd3c2JhZHYzRnJOaS1Lb3VFSVV5YnFHUllKVTVrMmMtU2IxdmRLOUJXVUM3cmdCVy1Gb0VpNGJHd1dIOWNkdll5WTI0TDU0bFdkZGczUTM1RW5pVkxWcTFmYW1FRWxOR1JFNFVnaXppR0EtaFdrQlpuVV9QQlZ5cWdaZ0l5OFBHZUdsQXM?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlJka3pleUU3ZXlWaVZqajdFdkpPbUdQalZLX0pjMEtPNnFEbFJoelpiLTg4Y0ZmTWJPVDY4d1RMWnh2NTZwY2FpeWdyRDh0TDNSbE1PSDVmLXJESkVFX1V5dkdrNXVEZHltMWVrdUFIS09nbE1xdmZZSDZ5eFNMQlNMSnBBSHk0Vl95dnpCOTd5UmRNSkNEcWhFWUJSYWo2?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTBXT1lMbUxwaHl1Z0l2Nm5jUVhpemlKblF0cW85c1dJbnB6ei1CQ2FwUFRodTdjRlNmWWZDQkt2em5KdHMxSm1EeWZoLVd3U01mWlhiQ0tMRERuc1M4b2R4S2hKbWdKSTFDZzV0RS1PcE9WMnJzbGxiMnZKdjlzYURURFhJdGVhc2FoeGF1VzM5LWpBRGhhZzFUbEs4VVg5Q2c?oc=5"
   ],
   "title_hashes": [
-    "9fc748def24676fc43f17cd3faecb86b",
-    "d7fd12f3d6bdd6eccf84e6c64d4e5cfc",
-    "8437dc0d0c43d3484417c560ffd8ef64",
-    "49ba5f21ad9df98902c3cf36efaaf682",
-    "59b08518fe90ae3482a49ee54c615b66",
-    "e3049227689e9714f889207f5e61ecdb",
-    "b4af2b8e26f0ea2764f88186742d748a",
-    "7fa12a501463d76220902f9d1652dc90",
-    "f8fa0f37945aabff6ff139d393d26135",
-    "e8c17aa80d9983f6fedc70fb32c5173a",
-    "bfdb26a5acf5e3719d7bb231ca7b2bc8",
-    "f1dd227f5962f1098f8483d0dcbee4f5",
     "ac87b98ce288f030acb2f5cece666381",
     "b8ee224ab3320558dfa5c022e122076b",
     "c0ceba961d032cb59939d6a74e85acdc",
@@ -16001,7 +15989,19 @@
     "badd263096b464e96a7fb59d2b645c4c",
     "d822807d6cae8aabf9fb109342d42d60",
     "b8fb66c8fa4180462429e30f038ccd8e",
-    "f3adc8f98202eafc3645890cc54c273f"
+    "f3adc8f98202eafc3645890cc54c273f",
+    "ec5a885e1beda9d8fa914b5790037171",
+    "588ef50b6942c3c7c8f75a953b0af37c",
+    "52c1699e536e08e6eaf225faf7b61f2e",
+    "c0330b67144e34e190a62f13f10ae6b4",
+    "97cafc6a12be9dd974895083b9f00231",
+    "22679aea4812db7b27675620f47ff4e8",
+    "13447e642d6f39b664466e4f71de434c",
+    "c0ddb933aff0c4d6f47e54105498c26e",
+    "8962769c7a8e865d9f935526d431e489",
+    "38d6fd5f7049e7109f80b29df1a7c4bc",
+    "b3d0dd84578629568a0ede2f6221fc34",
+    "37ca7f758bed795d63409956f508fa0e"
   ],
   "transfers": {
     "pages": {
@@ -21232,6 +21232,22 @@
     {
       "t": "2027 brazil cup esports expands igaming national nations nbsp opportunities qualification teams",
       "ts": 1795219291.57946
+    },
+    {
+      "t": "2027 cup esports expands foundation larger mill nations nbsp new news qualifiers road teams",
+      "ts": 1795219296.8221097
+    },
+    {
+      "t": "2027 ahead com cup esports expand india nations nbsp prameyanews push set",
+      "ts": 1795219300.9905543
+    },
+    {
+      "t": "2027 asianet cup esports expanded foundation nations nbsp newsable road unveils",
+      "ts": 1795219304.5045416
+    },
+    {
+      "t": "2027 cblol esports gaming join nbsp pain set sheep sources trymbi",
+      "ts": 1795219308.232754
     }
   ]
 }
