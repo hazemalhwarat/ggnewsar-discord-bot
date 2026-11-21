@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVEVqZ0VCTUVaOW9jeHNkMmZJUE9zV1JWMmdubkR6Vm8xUmNKanhEYTdUWkh3QWJvRVZOblI1QTUwOWl4dmlrd295eE9UeVdzek5kY000RGpxakFBVmhVc3NqRHppRXdFS0Z0emdyM1c1dzEyQmhjcS1zN0N0bmdJWGJB?oc=5",
-    "https://g2g.news/esports/free-fire-india-to-go-live-again-from-28th-october/",
-    "https://www.hotspawn.com/mlbb/news/pokemon-unite-shutting-down",
-    "https://www.hotspawn.com/valorant/news/pal-derke-team-vitality",
-    "https://theloadout.com/phantom-blade-zero-wins-praise-for-combat-stumbles-on-story-and-frame-rate",
-    "https://www.nerfplz.com/2026/10/top-team-comps-144-point-and-click-vex.html",
-    "https://www.nerfplz.com/2026/10/champion-families-in-lol-10-pairs-lore.html",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkJqVTBOWGFOQ1hKemFmeE5QVDdzRHN6WUpZTlh5ZDBIUTNMbHBxZHlBams1UElnSjlnY2ZNcU1NNVdXQXU2NWNxaWV3bTJuUGJ6WXhBUnNzcklnZU9QMk00N3loV1RRYXNRRS1MdTd2bTgyX0ptN2QyM2dxdThzcTd1TEdZbzBBUkpNekpONEdyakZzWTI4?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUVVaThrVzFMbEpEYldaaThCczN0NF9TNTMxRnppRHQ1Q0R0TTBiRXJkdHdQSHY4SlhxZ0ZFX3JXRmw2N2FaWm9sVDZ6SktuTHktMXpwcXh4OG5sZTV4QXR4VEFrdjFBclB2OThJSzU5R1JweTJYZkRYdjgwQnFEYjBGQUQ?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSndZUnBnTU9LRmhwLUdzQl91QXNuWHA3OUt0TnhfcXZuWGlpZ2MzUDY3cFNELXd4SlhZYkp6S1RXS3N6aUlQLWdNcEp5Sm5XelhmbnlkSldVZUR5UkhrT2FFOEQ5QlhzMkpzeVVZV2VNOHhZLUg3bG5XYXVwbURXMlg4UU9XaWFZRG1JaFhBWQ?oc=5",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/28910/gta-6-makes-379bn-on-day-one-the-biggest-entertainment-launch-ever",
     "https://www.invenglobal.com/articles/28909/beyond-b2b-reaching-players-directly-head-of-xsolla-apac-juyeon-lee-outlines-the-companys-next-level",
     "https://www.invenglobal.com/articles/28908/regulations-and-new-opportunities-xsolla-outlines-potential-for-retention-and-user-acquisition",
-    "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch"
+    "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch",
+    "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
+    "https://www.dotabuff.com/blog/2026-09-15-next-patch-wishlist-chaotic-edition",
+    "https://www.dotabuff.com/blog/2026-09-08-next-patch-wishlist-the-melee-carry-conundrum",
+    "https://www.vlr.gg/792724/envy-enters-next-era-with-exa-xeppaa-ion-v1c-paincakes",
+    "https://www.vlr.gg/792668/qor-announces-core-roster-ahead-of-na-qualifier-playoffs",
+    "https://insider-gaming.com/gta-6-fast-travel/",
+    "https://insider-gaming.com/nyt-strands-hints-answers-november-20-2026/"
   ],
   "title_hashes": [
-    "8bc1aa06e02638d5ac90a103c5385c0e",
-    "289e2a186ca93879fbf485d1fa25a067",
-    "ee1fc431cacda2b27e7e88791fbecfe5",
-    "c5d8df2ab96d156330e317a96ed18b52",
-    "88bb996955e49f4429ac52027453f3dc",
-    "9e16358119cd64d2d21e6dca354edb5c",
-    "12776aaea5c336e3e7c3e21e69c960f3",
     "69b63b1e4b1016bc425a5f459fcdea86",
     "d0a12dc07774f898973f206247b4b5c5",
     "dfb2a1222a54ab5f943481f2368dba74",
@@ -16001,7 +15994,14 @@
     "468e47a8e180e762b214e4f0448c525b",
     "343f14a369384f3bcf9ad55c2d80ae2d",
     "c315b290b0fcc64fa3aa14a5331b3ff0",
-    "baff965dc3032fdddbe58ee53a51ca65"
+    "baff965dc3032fdddbe58ee53a51ca65",
+    "ac4c0ff4cb1f9621a20da175c2f074da",
+    "c333d17ec0b4842f1113258cd02f90bb",
+    "c333d17ec0b4842f1113258cd02f90bb",
+    "27fcae32043a5a0254cd2de0084ec51c",
+    "01e352aa9e44e70c45ce2b80e872d637",
+    "f83b6a04c9f7817af31c1bde3a28bc8f",
+    "d01f82e50cbc8e933ed361f71e9f9180"
   ],
   "transfers": {
     "pages": {
@@ -21172,6 +21172,26 @@
     {
       "t": "6 back charm episode first had international lan lift luminosity ranked relaunch since stake team third time trophy which win",
       "ts": 1795219234.0826364
+    },
+    {
+      "t": "achievement award awards contributions counter his hltv immense jason lake lifetime receive recognized strike will",
+      "ts": 1795219239.514566
+    },
+    {
+      "t": "enters envy era exa ion new next paincakes v1c xeppaa",
+      "ts": 1795219243.0048678
+    },
+    {
+      "t": "ahead announces core playoffs qor qualifier roster signs tier two upstarts",
+      "ts": 1795219246.5295217
+    },
+    {
+      "t": "6 appeared aren around but can city fast first gamin get gta here insider little looking more options post quickly speedy there ton travel vice what you",
+      "ts": 1795219250.2318115
+    },
+    {
+      "t": "20 2026 992 answers find game hints its november nyt post puzzle reveal solve spangram strands stuck theme these use various words",
+      "ts": 1795219253.6905158
     }
   ]
 }
