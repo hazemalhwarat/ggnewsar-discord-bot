@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://gameriv.com/lol-patch-26-22-preview-all-changes-release-date-and-mel-update/",
-    "https://esportswales.org/tempezt-joins-esports-wales-as-new-member-club/?utm_source=rss&utm_medium=rss&utm_campaign=tempezt-joins-esports-wales-as-new-member-club",
-    "https://esportswales.org/welsh-esports-league-returns-for-season-12/?utm_source=rss&utm_medium=rss&utm_campaign=welsh-esports-league-returns-for-season-12",
-    "https://esportswales.org/banten-welcomes-160-national-teams-as-indonesia-hosts-theworld-esports-championship-for-third-time/?utm_source=rss&utm_medium=rss&utm_campaign=banten-welcomes-160-national-teams-as-indonesia-hosts-theworld-esports-championship-for-third-time",
-    "https://www.esports.net/news/gaming/gentle-mates-valorant-roster-release/",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVEVqZ0VCTUVaOW9jeHNkMmZJUE9zV1JWMmdubkR6Vm8xUmNKanhEYTdUWkh3QWJvRVZOblI1QTUwOWl4dmlrd295eE9UeVdzek5kY000RGpxakFBVmhVc3NqRHppRXdFS0Z0emdyM1c1dzEyQmhjcS1zN0N0bmdJWGJB?oc=5",
     "https://g2g.news/esports/free-fire-india-to-go-live-again-from-28th-october/",
     "https://www.hotspawn.com/mlbb/news/pokemon-unite-shutting-down",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28915/neuralink-shows-a-trial-participant-playing-gta-vi-with-its-brain-implant",
     "https://www.invenglobal.com/articles/28914/promotion-law-or-criminal-code-academia-highlights-excessive-criminal-penalties-in-game-industry-act",
     "https://www.invenglobal.com/articles/28913/mr-magpies-harmless-card-game-launches-february-18th-2027-with-game-pass-day-one",
-    "https://www.invenglobal.com/articles/28912/imitation-disputes-shift-from-like-games-to-ai-cloning"
+    "https://www.invenglobal.com/articles/28912/imitation-disputes-shift-from-like-games-to-ai-cloning",
+    "https://www.invenglobal.com/articles/28911/upset-leaves-fnatic-ending-his-second-stint-with-the-lec-side",
+    "https://www.invenglobal.com/articles/28910/gta-6-makes-379bn-on-day-one-the-biggest-entertainment-launch-ever",
+    "https://www.invenglobal.com/articles/28909/beyond-b2b-reaching-players-directly-head-of-xsolla-apac-juyeon-lee-outlines-the-companys-next-level",
+    "https://www.invenglobal.com/articles/28908/regulations-and-new-opportunities-xsolla-outlines-potential-for-retention-and-user-acquisition",
+    "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch"
   ],
   "title_hashes": [
-    "e0d59f2d12267db90294b9f06cb58987",
-    "748fb2f1f99c6860a2d64a4d74391d8b",
-    "ff23719c5afa4629f343cde93e2b9b84",
-    "bf968adda2f7aaae6b63287c8d72f94a",
-    "0505afbe98c8b911030f3340e045baf4",
     "8bc1aa06e02638d5ac90a103c5385c0e",
     "289e2a186ca93879fbf485d1fa25a067",
     "ee1fc431cacda2b27e7e88791fbecfe5",
@@ -16001,7 +15996,12 @@
     "0b59a916f94b7698e474c97be03f4ed3",
     "1a2292b6bffd3f16dbdd4261706fcf02",
     "6e27779b2fd12798624c3b43e141b4e1",
-    "886da72d6e3da1a30d4cb7530b37c579"
+    "886da72d6e3da1a30d4cb7530b37c579",
+    "8c0ecf12555f42c87884c6a2d3e5ea8e",
+    "468e47a8e180e762b214e4f0448c525b",
+    "343f14a369384f3bcf9ad55c2d80ae2d",
+    "c315b290b0fcc64fa3aa14a5331b3ff0",
+    "baff965dc3032fdddbe58ee53a51ca65"
   ],
   "transfers": {
     "pages": {
@@ -21152,6 +21152,26 @@
     {
       "t": "artificial cloning copy disputes entirety focal game games genres imitation intelligence like point replicate rules shift shifting their uses which",
       "ts": 1795219214.1329758
+    },
+    {
+      "t": "carry elias ending fnatic has his leaves lec lipp london parted second side spell stint upset ways",
+      "ts": 1795219219.984316
+    },
+    {
+      "t": "3 6 79bn according auto biggest company day entertainment ever games grand gta its launch made makes one parent retail rockstar sales take theft",
+      "ts": 1795219223.4631793
+    },
+    {
+      "t": "2026 apac b2b bexco beyond booth busan business clubhouse company directly during exhibition grand haeundae head hosting instead its josun juyeon lee level lounge next opened outlines players reaching star traditional xsolla",
+      "ts": 1795219227.0401566
+    },
+    {
+      "t": "acquisition behind blowing change changes compared development even fact gaming high industries industry inside lag live monetization never new operations opportunities other out outlines potential regulations retention tech user winds xsolla",
+      "ts": 1795219230.5231824
+    },
+    {
+      "t": "6 back charm episode first had international lan lift luminosity ranked relaunch since stake team third time trophy which win",
+      "ts": 1795219234.0826364
     }
   ]
 }
