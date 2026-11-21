@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://dotablast.com/china-kiev-major-qualifiers/",
-    "https://dotablast.com/sa-kiev-major-qualifiers/",
-    "https://dotablast.com/na-kiev-major-qualifiers/",
-    "https://dotablast.com/eu-kiev-major-qualifiers/",
-    "https://estnn.com/worlds-2026-swiss-round-4-schedule-stakes/",
-    "https://estnn.com/valorant-patch-13-09-notes-hush-warden-clove/",
-    "https://estnn.com/pgl-masters-bucharest-round-4-spirit-mouz-vitality-navi/",
     "https://gameriv.com/valorant-patch-notes-13-09-hush-arrives-warden-gets-buffed-and-clove-takes-a-nerf/",
     "https://gameriv.com/arc-raiders-update-2-3-0-patch-notes-heavy-shield-buff-souls-offering-project-and-loot-changes/",
     "https://gameriv.com/marathon-update-1-1-9-6-fixes-solo-and-duo-contract-rewards-adds-sponsored-perimeter-date/",
@@ -7999,16 +7992,16 @@
     "https://www.invenglobal.com/articles/28934/kocca-showcases-17-console-games-and-11-graduate-projects-at-g-star",
     "https://www.invenglobal.com/articles/28933/from-mafia42s-present-to-future-new-titles-we-visited-team42",
     "https://www.invenglobal.com/articles/28932/is-30-fps-okay-answering-readers-questions-about-gta-6",
-    "https://www.invenglobal.com/articles/28931/kim-seong-hoe-in-whiteout-survival-fishing-showdown-on-century-games-stage-at-g-star"
+    "https://www.invenglobal.com/articles/28931/kim-seong-hoe-in-whiteout-survival-fishing-showdown-on-century-games-stage-at-g-star",
+    "https://www.invenglobal.com/articles/28930/the-witcher-3-and-cyberpunk-2077-at-cdprs-g-star-booth",
+    "https://www.invenglobal.com/articles/28929/the-witcher-4-a-new-protagonist-but-the-essential-witcher-identity-remains",
+    "https://www.invenglobal.com/articles/28921/unity-and-openai-in-the-era-of-ai-gaming-the-role-and-capabilities-of-developers-become-even-more-crucial",
+    "https://blog.counter-strike.net/2022/12/40648/",
+    "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
+    "https://www.esports.net/news/gaming/dplus-kia-signs-doran-and-kanavi-a-day-after-their-t1-and-hanwha-life-exits/",
+    "https://esports-news.co.uk/2026/11/21/parivision-beat-legion-2-0-again-to-open-blast-slam-season-9-group-c/"
   ],
   "title_hashes": [
-    "f9c5c074c4098ac44b30646d93e7fbd9",
-    "7ee92084aec241e3946410ca0e165432",
-    "43aced5cf665177a6be83a05b9479c8b",
-    "54486739a899a01530e541a809e5832c",
-    "4f2942551e6dae85e23a5b5b11112d92",
-    "b11987b2190e578e1e02ed6c5638a806",
-    "cd2ecc42071a0a429a321b154fded300",
     "b717bbc8092d9d2072e81a185942f7e4",
     "c333d17ec0b4842f1113258cd02f90bb",
     "c333d17ec0b4842f1113258cd02f90bb",
@@ -16001,7 +15994,14 @@
     "e00c7119ab6cc70945996650e592bc96",
     "f7131690c77ee7e12e1eea7524d516ec",
     "7c70ff17ae73cd180a33c24af38110c5",
-    "011bc84810eab2945b65edce1d271f2e"
+    "011bc84810eab2945b65edce1d271f2e",
+    "ce55a6970626751237849f51fb070216",
+    "63f97c08792f4e04a8f657757672d53e",
+    "09674d63152198b2c2170d7db6e143b5",
+    "5e46bd253be5629980cc76e5cd26525c",
+    "785fe1337fbfda0a34b73cebe37b4762",
+    "9f01a72d96143c430bffc4baca43e073",
+    "d82f4cd7cc19bb0f4fa773ee99b7cab0"
   ],
   "transfers": {
     "pages": {
@@ -20900,6 +20900,26 @@
     {
       "t": "1 bexco booth broadcaster btc center century championship encyclopedia exhibition fishing games gaming hall held hoe kim part seong showdown sik stage star survival took whiteout",
       "ts": 1795269557.60971
+    },
+    {
+      "t": "19 2 2026 2077 2077demoseventsmerchandise 22 3 bexco booth boothg cdpr center cyberpunk datesnovember exhibition has joined locationbusan projekt red remasteredcyberpunk star witcher",
+      "ts": 1795269562.6416078
+    },
+    {
+      "t": "10 3 4 been behind but characters come countless essential etched firmly games gone has have hunt identity left more new protagonist released remain remains since story than wild witcher years",
+      "ts": 1795269566.143567
+    },
+    {
+      "t": "1 100 ahead asia bcg every flights goes major microscope parivision pgl singapore southeast stage team their thieves under visualized",
+      "ts": 1795269569.5854855
+    },
+    {
+      "t": "20 2027 after ahead champions day doran dplus exits former hanwha kanavi kia lck left life moves msi november reshape rosters signed signs t1 their they three top world",
+      "ts": 1795269573.0685685
+    },
+    {
+      "t": "0 2 9 again against beat blast continue dota event first group legion open pari parivision rated reading repeat scoreline season series slam team their top universe",
+      "ts": 1795269576.5305812
     }
   ]
 }
