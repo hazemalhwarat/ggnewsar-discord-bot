@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://pley.gg/cs2/legacy-bench-n1ssim-and-bring-in-ksloks-for-the-singapore-major/",
-    "https://pley.gg/cs2/valve-explain-who-keeps-a-player-listed-on-two-major-rosters-and-jabbi-rushes-back-to-astralis/",
-    "https://pley.gg/cs2/jl-has-no-score-to-settle-with-navi-and-no-contract-for-2027/",
-    "https://pley.gg/cs2/csgoroll-review/",
-    "https://pley.gg/cs2/finnish-court-convicts-aleksib-of-aggravated-tax-fraud-a-day-before-navis-elimination-match-with-spirit/",
-    "https://pley.gg/valorant/g2-and-valyn-split-after-eight-straight-international-events/",
-    "https://pley.gg/cs2/spirit-lean-on-donk-and-navi-hunt-for-a-t-side-before-their-bucharest-decider/",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUlNuSEN1c0RIc3lHYVV6UnE5TXo3U3ZUeHliRkEwNnVibG1WZ3ZSaXJyR2s0anFsVl9vN1dIVG9VUWF3emdrYmQ2UTRwSmhaUWszdV8tQTZucGxRRDg5dDNXbzNGVzBHWjQ5eEJWbkhkMnhFZDB0T0hiUDVhUFJ1TEVTSXhhamJ3LUFuTU1jTUNvbzhRUVdyQUxrdXhXeHNIRmRWVTdJeHlVVlU3Q2JBU0lCYVh1N2ZTY3pnbQ?oc=5",
     "https://www.invenglobal.com/articles/27841/star-trek-voyager-across-the-unknown-gets-q-focused-delta-chronicles-2-dlc",
     "https://www.invenglobal.com/articles/27840/europa-universalis-v-gets-spain-themed-chronicle-pack-across-the-pillars",
     "https://www.invenglobal.com/articles/27839/relic-announces-company-of-heroes-3-operation-torch-campaign-dlc-for-november-25th",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/28941/heartopia-x-my-little-pony-phase-2-event-is-live-through-december-27th",
     "https://www.invenglobal.com/articles/28940/proving-ground-after-3rd-transfer-key-highlights-of-the-23rd-siege-warfare",
     "https://www.hltv.org/news/46021/no-longer-a-stepping-stone-for-players-dendele-are-on-an-upward-path",
-    "https://www.hltv.org/news/46027/sinners-beat-envy-to-win-tipsport-rush-brno"
+    "https://www.hltv.org/news/46027/sinners-beat-envy-to-win-tipsport-rush-brno",
+    "https://www.hltv.org/news/46026/s1mple-tops-picks-for-singapore-stage-1-fantasy",
+    "https://insider-gaming.com/gta-3-music-budget-soundtrack-deal/",
+    "https://insider-gaming.com/gta-6-sex-romance-rockstar-explained/",
+    "https://insider-gaming.com/where-to-find-the-ascot-paragon-in-gta-6/",
+    "https://insider-gaming.com/week-4-sprites-fortnite-treasure-hunters/",
+    "https://insider-gaming.com/where-to-find-the-gallivanter-baller-st-d-in-gta-6/",
+    "https://insider-gaming.com/where-to-find-the-buckingham-windsor-drop-gta-6/",
+    "https://insider-gaming.com/the-tigers-eye-map-fragment-fortnite-treasure-hunters-week-4/"
   ],
   "title_hashes": [
-    "799855594adc0f2bd7302c69d3234b5a",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "799855594adc0f2bd7302c69d3234b5a",
-    "1a0cfe6b17c82dc70a5f66bc71aee6a6",
-    "9cf44b521404edf4850be6d880dc07b4",
-    "9c6ba0c281e984c9f6e439fd15461329",
     "7b3fc307edd1dbf50d07374e03f488b7",
     "8f9e047ebd768f5555b18f4e59156f55",
     "cd89e7b776eadacf17f5dc30e76eb5a0",
@@ -16001,7 +15993,15 @@
     "895ae6af1c810a07f0fe5f4d90b0683b",
     "84311591c73029bc48c91819de5275f0",
     "e2f9f713a4bb071377f73fe0850901c0",
-    "489d6bbc87f5d2253a3451f90c3df86d"
+    "489d6bbc87f5d2253a3451f90c3df86d",
+    "83343b08fe954f40db6bfa3aac5f9557",
+    "639ac4cbf6598c05b364a26ae44f144d",
+    "f4a293eb1be88d31073cb8e0b20dac00",
+    "519cb91a963b240f4bc25e82e56a3aec",
+    "49285956e509c3cb4e330507e2452041",
+    "852aaeb6bff5ffdbf50d154a1f7e001e",
+    "d802921addc5cef61a3c257b03b05666",
+    "5febe3c836d5f603752fd03e85e94424"
   ],
   "transfers": {
     "pages": {
@@ -20856,6 +20856,26 @@
     {
       "t": "1 13 33 averaged beat brno envy home lead maps modo over rating rush sinners tipsport turf victory win",
       "ts": 1795382275.9283257
+    },
+    {
+      "t": "1 every fantasy game lineup major other picks roughly s1mple singapore stage tops",
+      "ts": 1795382281.4318793
+    },
+    {
+      "t": "000 3 600 appe budget ceo former gta had its kelly music never post rights rockstar says secured spent sumner take trading two using without",
+      "ts": 1795382285.1854217
+    },
+    {
+      "t": "6 animations balance choice explains gta intimacy iteration jason lucia mark partner post relationship responses rockstar says scenes sex tennant thought took why",
+      "ts": 1795382288.8463805
+    },
+    {
+      "t": "17 4 all amp brought find fortnite game has here how hunters list new post sprites them these tips treasure week where",
+      "ts": 1795382292.5310936
+    },
+    {
+      "t": "4 8217 eye find fortnite fragment guide here hunters map post step tiger treasure week where",
+      "ts": 1795382297.0526276
     }
   ]
 }
