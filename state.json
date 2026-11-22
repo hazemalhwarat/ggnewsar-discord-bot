@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOajZiQUVDTXQ5dEdTMmZhaUNzeDBTV2FIb1lEN3dic212bi02SHBRcS1fVkQzbjF1Q2tRcjVxc2ZzVGFVVFpuX3ViekpJZ1h3NVVaLXVjSklicGZKWlJHcnVZYXVBeW5UdjVROV8zeFpPSWlhQ3U0Xzk5dDJEencwNjQ0TmxmN2xwRXJhZHRHM0JJQmZ6TzYzUkJn?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE5tZDZqaUZQQkI4TTM5QUF2V09MTGpKNWVhZzdtaGlqTnhSV0RNcEMzaDh1SzltaWNBb09WRV9vUnMyOFRRNFdJX05LbTdWTlVqY0lOU0lCRzN0VDVtb2lIUEp0enVhR3hDaUhiSlFPQU1QQQ?oc=5",
-    "https://esportsradar.gg/moonton-games-and-qiddiya-sign-five-year-deal-to-host-mpl-mena-grand-finals/",
-    "https://esportsradar.gg/scarz-signs-partnership-with-space-management-firm-j-front-prime-space/",
-    "https://esportsradar.gg/riot-confirms-financial-support-for-non-partnered-teams-in-vct-pacific-restructure/",
     "https://www.talkesport.com/news/gamingcon-bharat-2026-18-527-visitors/",
     "https://www.talkesport.com/news/discord-messages-searchable-on-google/",
     "https://www.talkesport.com/news/india/lets-game-now-raises-rs-30-crore-anand-mahindra-isgl/",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
     "https://thegamehaus.com/college-football/5-things-to-watch-in-college-fotoball-week-13/2026/11/22/",
     "https://thegamehaus.com/nfl-draft-prospects-to-watch-in-college-football-week-12-recap/2026/11/22/",
-    "https://thegamehaus.com/college-football/5-things-learned-from-college-football-week-12/2026/11/22/"
+    "https://thegamehaus.com/college-football/5-things-learned-from-college-football-week-12/2026/11/22/",
+    "https://thegamehaus.com/college-football/college-football-playoff-bracektology-november-22/2026/11/22/",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-qbs-going-into-week-11/2026/11/21/",
+    "https://thegamehaus.com/mlb/grading-the-biggest-moves-of-the-mlb-offseason/2026/11/21/",
+    "https://www.esports.net/news/gaming/nongshim-redforce-reunites-three-drx-2022-champions-as-deft-returns-from-military-service/",
+    "https://esports-news.co.uk/2026/11/22/1w-team-make-it-three-straight-sweeps-of-lgd-gaming-at-blast-slam-season-9/"
   ],
   "title_hashes": [
-    "98824aa42949dfb06420b6f4ff832d2d",
-    "87aab7fe1a6ab91b2ef2023bf24945ef",
-    "08beb87f18ae26a0bccf36ccba41b92a",
-    "a9b6235f3bef19cea25a184abc12d885",
-    "17b461c8a863cf0424b408a0b1168280",
     "45a9e6e7a3536eb32cc0585076c11f25",
     "1b5883eff90db37b58ad52d193772e1c",
     "d162b5b2cb45d5e5c4894fac1eeeaa82",
@@ -16001,7 +15996,12 @@
     "b65b33383118b52a71db06509a51b239",
     "4de61c85b90a945fc2c650784191fd6b",
     "27c7151759d84fc20fb90f1f4dd142aa",
-    "bc6fda870040a0e396124489f86062dd"
+    "bc6fda870040a0e396124489f86062dd",
+    "a470d1788fe19ecd8580f67ed23f1a5e",
+    "0a358e94370f3c91ac87459af89c5161",
+    "532f9f7c8ae1954274224c4ce470a71f",
+    "69b779af709642a53d2170e934e51c62",
+    "1e0c39d51f841212baf8bf9d6a404e36"
   ],
   "transfers": {
     "pages": {
@@ -20784,6 +20784,26 @@
     {
       "t": "12 5 after away books can college every fans field football happened here learned related take things week what",
       "ts": 1795361579.5600095
+    },
+    {
+      "t": "22 already bracektology but college defeated each effort fighting football have make matters most november played playoff position ranked teams they week what who will",
+      "ts": 1795361585.8562257
+    },
+    {
+      "t": "11 8217 also can check fantasy football full going heading into let look nfl options out qbs quarterback rankings risky season some take underrated week you",
+      "ts": 1795361589.4107103
+    },
+    {
+      "t": "after agent beginning biggest blockbuster break contracts deals down far first free grading heat here mlb moves offseason reactions slow some start trades",
+      "ts": 1795361593.0746944
+    },
+    {
+      "t": "2022 2027 andil back champions club coming complete day deft drx has its lck members military moves nongshim one put pyosik redforce returns reunites roster service signed starting team three together winning worlds",
+      "ts": 1795361596.7706244
+    },
+    {
+      "t": "0 1w 2 9 ari beat before blast closing continue far gaming group higher lgd make marathon more opener out quickly rated reading season series slam straight sweeps team three winning",
+      "ts": 1795361600.319094
     }
   ]
 }
