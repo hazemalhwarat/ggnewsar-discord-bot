@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T14:03:29.707117+03:00",
-  "count": 658,
+  "generated_at": "2026-11-22T14:22:07.417443+03:00",
+  "count": 660,
   "players": [
     {
       "name": "Ninjas",
@@ -1703,6 +1703,16 @@
       "url": "https://liquipedia.net/valorant/Johnqt"
     },
     {
+      "name": "Khunja",
+      "wiki": "valorant",
+      "game": "VALORANT",
+      "country": "المغرب",
+      "year": 2005,
+      "month": 5,
+      "day": 7,
+      "url": "https://liquipedia.net/valorant/Khunja"
+    },
+    {
       "name": "Kim",
       "wiki": "valorant",
       "game": "VALORANT",
@@ -2761,6 +2771,16 @@
       "month": 1,
       "day": 28,
       "url": "https://liquipedia.net/leagueoflegends/Astrai"
+    },
+    {
+      "name": "Dettol",
+      "wiki": "leagueoflegends",
+      "game": "League of Legends",
+      "country": "المغرب",
+      "year": 2004,
+      "month": 9,
+      "day": 1,
+      "url": "https://liquipedia.net/leagueoflegends/Dettol"
     },
     {
       "name": "Krest",
