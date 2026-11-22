@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/news/gamingcon-bharat-2026-18-527-visitors/",
-    "https://www.talkesport.com/news/discord-messages-searchable-on-google/",
-    "https://www.talkesport.com/news/india/lets-game-now-raises-rs-30-crore-anand-mahindra-isgl/",
-    "https://www.talkesport.com/news/valorant/vct-pacific-2027-format-kickoff-cups-qualifiers/",
-    "https://www.talkesport.com/news/cs2/who-is-aleksib-navi-igl-convicted-of-aggravated-tax-fraud/",
-    "https://www.talkesport.com/news/pubg/pubg-india-challenge-2026/",
     "https://www.talkesport.com/mobile-gaming/bgmi/bgmis-jibe-on-a-game-with-striking-similarity-to-free-fire-india/",
     "https://www.gamesindustry.biz/taking-several-years-with-several-thousand-people-its-almost-impossible-playstation-creator-ken-kutaragi-on-the-current-state-of-gaming",
     "https://www.gamesindustry.biz/wardogs-leads-newzoos-september-pc-revenue-charts",
@@ -7999,15 +7993,15 @@
     "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-qbs-going-into-week-11/2026/11/21/",
     "https://thegamehaus.com/mlb/grading-the-biggest-moves-of-the-mlb-offseason/2026/11/21/",
     "https://www.esports.net/news/gaming/nongshim-redforce-reunites-three-drx-2022-champions-as-deft-returns-from-military-service/",
-    "https://esports-news.co.uk/2026/11/22/1w-team-make-it-three-straight-sweeps-of-lgd-gaming-at-blast-slam-season-9/"
+    "https://esports-news.co.uk/2026/11/22/1w-team-make-it-three-straight-sweeps-of-lgd-gaming-at-blast-slam-season-9/",
+    "https://insider-gaming.com/skunk-ape-effigy-tree-locations-gta-6/",
+    "https://insider-gaming.com/robberies-snapmatic-gta-6/",
+    "https://insider-gaming.com/where-to-find-the-guantlet-hellfire-gta-6/",
+    "https://insider-gaming.com/backyard-wrestling-gta-6/",
+    "https://insider-gaming.com/where-to-find-the-piccia-furia-in-gta-6/",
+    "https://insider-gaming.com/roblox-be-a-soccer-manager-codes/"
   ],
   "title_hashes": [
-    "45a9e6e7a3536eb32cc0585076c11f25",
-    "1b5883eff90db37b58ad52d193772e1c",
-    "d162b5b2cb45d5e5c4894fac1eeeaa82",
-    "5d0019c41d32ed840701caa1bd29e46c",
-    "8ca0388e963abb0b3ae0e81ad1e8dee4",
-    "ca5e2c24289388863521995795a92f70",
     "25a2cca7dad8ce812f84e2f7f963806d",
     "d14c8f75c68c3a44b97aca9e17fcc1e5",
     "4cbb80b18f01348e99235a8a453bd276",
@@ -16001,7 +15995,13 @@
     "0a358e94370f3c91ac87459af89c5161",
     "532f9f7c8ae1954274224c4ce470a71f",
     "69b779af709642a53d2170e934e51c62",
-    "1e0c39d51f841212baf8bf9d6a404e36"
+    "1e0c39d51f841212baf8bf9d6a404e36",
+    "d078634e5ee42bc6492f8e74628aa421",
+    "27ca42905d1e2bcc9c57794401c81861",
+    "a13e61adc62ce9c8c6588ac45028eea8",
+    "b22213b9655956eda746b8b2ad9a6894",
+    "3e5485541107acf9e4665b38b08391c4",
+    "c8b42ec4aff10437db67b6698d687fea"
   ],
   "transfers": {
     "pages": {
@@ -20804,6 +20804,26 @@
     {
       "t": "0 1w 2 9 ari beat before blast closing continue far gaming group higher lgd make marathon more opener out quickly rated reading season series slam straight sweeps team three winning",
       "ts": 1795361600.319094
+    },
+    {
+      "t": "6 all along ape appeared detailed effigy find first gta guide here how locations post screenshots skunk three tree",
+      "ts": 1795361605.7252185
+    },
+    {
+      "t": "6 allows gta guide here how location more perform pin players post rob robberies scope scrolling snapmatic system targets them this through works",
+      "ts": 1795361609.4404328
+    },
+    {
+      "t": "6 appeared car find first gaming gaunlet gauntlet gta guide hellfire how insider locations post quick randy where wishlist",
+      "ts": 1795361613.117722
+    },
+    {
+      "t": "6 backyard defeat find gentrifier get gta guide here how location luchador mask more post wrestling",
+      "ts": 1795361616.7815902
+    },
+    {
+      "t": "2026 build claim codes free get great hands help like manager money monthly not november only packs provided redeem rewards soccer these use will you your",
+      "ts": 1795361620.3713717
     }
   ]
 }
