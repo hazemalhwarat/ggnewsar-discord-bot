@@ -1,19 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Tb2ZoVFZMb3dhd2ljQ1h2ZjhjTkVoMnNPU1h4U1lJQy15RExTczRtWXVFV3B0a01iTW1pY3pvTzhzdFRZZllEWGJJQ21KSVJVU0c3MDZn?oc=5",
-    "https://esportsradar.gg/atk-gear-joins-hltv-awards-2026-as-official-peripheral-partner/",
-    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LbGh1UzBrTnFaS2hBYVpOd0hLNDNBRXlxOUN3OXNqeXdNSGYxRXBTTHFmV2JSSXQ4U19SdS1idUpnaVpfbFlVeQ?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUEZDNEpMaGk5dEJUNjE0WUthTjdUWkJtM2Zrd2k3VDdiU2RwbkVEUmxBUkN5UHVmMGZKSnlOTVVJV0V0T0k0UXFzVjM1QmVxcjNiSGhGdEJUZFN1NXJjXzV4Nzg3eUtSUzVsc1hZZw?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE02dlpJNmVCT2k4bDZWUG5DSTJEcTBfMDExMTZJanJMX19wbnNfV3dFU2tLV2d4WEFtcjFOdUIxVmxMSXM5LWJ0WlpHZU5hNzdXaWNpV3d5M0htVzIzeVRqSzJaOGp4dl9WcElBUnJLWFVGYVRIbzBhUg?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnhKR1N2aDEtTFFSa0NWS0swT01zbkFXb3lRNS1rTndmd1g0a2dSZm1ZR05nR1pBYUlSb0ItcHFpaW50eHZGTHMwTHNzellNUmVPdkZtSk9JbTgzdlVHTjVjMDVHYms1V1pCdU00Vm1Ua2tGU2dQWDR3STdSbkoyXzFTVFpHU3Q1Sm1vMU00czdKN3p0WXlB?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWZzemlRWVVKdUx4VUloQnR2bDZ5UUQtY1NtLTI3cHBlNUowOFNmWjVrMUYyUlV5aWdTOTExbldVQzdfaVluQzJnZ2djbWY0RmZWc2NsRWFnSzZRc3lLQmEtSl9PUkM0SXA0eTNNUC0xRlVrWGtsYlhQMC14UlIzU3UzdXhxQ1hUVWZiYXBLZS1OMWxzVE9fZTF1WHB5WWU4aHNacHlEX2VTbDRoVl9RdlRDbU9GVUFzUHV3U05n?oc=5",
-    "https://news.google.com/rss/articles/CBMioAJBVV95cUxQWUNFTUhXNnNINEFfU2hOTVdla253V1RRNV9wNlFtZmZmUXNFcHo3ZVZ5b3NqeTJHSE1rZ0YxRWx0ZkZMQzJ1MWJ3X01FZXFTOTE2RExxVXZ2U2dIWGVUdF9oNVlzc3BPdHd2ZThJN1J5RHZVQllOUjRFSDJ5VENveUd3eDJPVmh0VXFXcUZtcWR1aUZzUWl3dnNaeUZjUVNlNFR2dU1iQ2NRUzJZNUN1eXB0SXpKdDFCOWg2Z0Z2b1NpcWdXbmdJVk5MZ0lmeTlYS2RXOTVVSThRdFZXTURIX2tWU2tER0J5ZS1VV0YtNFlCaDlmLXdaTjVpaFRFelpTYV9wa1dlRnVQaUpVcTNIQlRSZVJTY2s5WnpQS1RyaF8?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaFFLUlFRYll0djhFa2hOQ3RXekZzeUoxWDBBRzA0ZW9WcEROMHl1NVF5QkoyRVJoSW92cTVGUGY1aVlhTEtWeDNWVEs4YzFRLTQwVXZ1UjdUdGNBXzdSQWo5LXAtanIyWm9NdU1qRUx3czFlNWtBZy1xNnpHTEVKLXNreS1famVyRTRUWXZ5ZnBEdTFncFE?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeE52REcxOTgxcTdVeE83Z2ZLUVRTWjdSbjVocWRxT3dTRExnZmJOMlRKc0ZLd1NNVGd6S2luRHdSZmtOTVpPY3JXdmQ5WGphV3dIdDRIa0ttWGMxMXR1WGpna2YwVWZZX2FQd29jd09LVDNMX1lmMkNCZklzZUI4OEpnRWRVczB2cVlIb1NhZ2tEX2lzdkx6WEM2aFpPVGN2dmdvZ21B?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd0JMcjBjelp5ZGt0UUdLZUV0Z2FEcHJDRkZZMFJycDVWZ1U2MFJnUFRFeTROVXNPVWlaZE5FLS1CSWVzX09QeWpyOVpWcEZ3Vm9mWU5Zam92YXJJUmVhRVBPeU9QZHdrcVRVTDZHU015YlkyY3pMbGZ2ek9ad2lKcnFSa3ZtS0JFcWxZU05penpGTHJ3SFHSAaoBQVVfeXFMT0x2bERBckx0b1dWNHpqVDA2aGlud1gxWXNTYU5Wb3Rrak1yS1p5Vmg1cklBMDJsVUlRXzYzbFUyczBiU195c19XcmdBekROd3ZEZkphWXVUMmdBeUloX1RTUXM4UVBBYXFzQ3V3bkxCSGhmYm9LaWo5d3NZSTFSVTk0WTRyYzR3eTRtcmZ5eFdnb2NjeE1iaTFiQjhDTzBTMHdEME43WWctZ1E?oc=5",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NTktsRGVXWWVKMUtYM0wxN2RXRWo5ZXV2M2x6SDB1T3RVZmtRSUphTjJsS3lhcm0weVJrTWVZb3UybWx0SWZ1VHNJeWtWTVJ3UzJQZjN5M2lQczhT?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVB6WXFNT1BjMnVGX2NqUnZ3MVJwQXhGNnhxWUMxTTV6a0pUYUNBSFBLaXJ4cDVGZzBhQXhGRTlFMUV1bTJWanFzZ09WSEhpQkQ0N25pa3dYWmdjZnA4bWpJUTl0NFJxZTNGRmxIc2hTeWpyNlhMWWpFeDJzZzdDcjZqZy1QOERKMXRDMklxTU9sR01Kd1RHMWFQV3ZDcVk?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSE42akFNTHpUeFRhZFhiZ1RFRVdPaVFYb3ZSbm1CWjlaYU9Ta2xNdExRZGlyRzVkZEFsczYtV0lwdS1KR2pld1ZDRHo4RmFQc3NONHd4NkZWUjNpZS1IQldFTGQxdXFnbktHRk1TYXV0S3lDMFhWZG1XRnFkajJwYWt3VHVWSG9nS0ZQR1BOWTNvMzYzd1VpYm1XR08?oc=5",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOWxqSFNJVlZmNnRna1c2QWlvdkVOWjZwUmRPZTBhcmx3ekowR3ZtWXQySDZhOTJxdlNSVkdUUW1yb3NXdHJVYWFTQ1BZQzNrWEFhTUlMdWdtRE03WEFVTHlLcHVTVHFyZ2hmQWQxcDdLSzN4TlRPQnFqNl9CTnB2WlNuMkZHX0hjUGtFWV9yOWFvTHJqM05iZy1peE5GWVI1LTBUbjNlTWlhb3ZxZHp6ajJ1aDd0ZnI0NVpv?oc=5",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJWXNNWHdXMFo1TFhJYm5hNUZLanpsd2RNWHNRQWVnUUkxb2lSZEduZHNBenhZS1NxSFlaekxPajBzVFZWdlZ5UHEzNWdDTXZ3dHRyMlBlUjdfVURKc2dwZURJSE9HWFhoUTNBMng3SXk?oc=5",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQejhxRXl3b0ZBM0pHMEZyOXlHSEIxTDRNdHZxc2ZwOF8tYVdiemxOay1HNHhmbjQ0SXY1TDJHWE1Odi15MWhwTjNHelF1XzhBNWUwYzZaUDQ5ZlVMeVNTQ1A5R25oSldUZzJBVkVhN2lxUDZFVDRtZGtpVTBQVlF3X0hRT1JzUGZOUTdxVkpfeHliTTI1YXhqeU1Ha19wU3NxQnBzM2ExXzZ1cG93N19mbkZWMnVOTjZzMlpzdHE1cTc4cV93bTBadk5uMWVrNkhSVVBr?oc=5",
@@ -7999,23 +7985,23 @@
     "https://www.vlr.gg/793834/trace-esports-outlines-rebuild-with-chichoo-nobody-nicc",
     "https://www.vlr.gg/793828/zekken-departs-mibr-in-offseason-of-exits",
     "https://www.vlr.gg/793823/rex-regum-qeon-allows-kushy-to-explore-options",
-    "https://www.vlr.gg/793822/mibr-gc-allows-bstrdd-to-explore-options"
+    "https://www.vlr.gg/793822/mibr-gc-allows-bstrdd-to-explore-options",
+    "https://www.vlr.gg/793817/giantx-announces-first-roster-of-post-partnership-era",
+    "https://www.dexerto.com/counter-strike-2/kscerato-on-furias-major-heartbreak-fallens-influence-and-chasing-his-dream-3407176/",
+    "https://www.dexerto.com/esports/gothamchess-joins-basilisk-with-goal-of-helping-its-players-take-down-magnus-carlsen-3402177/",
+    "https://www.dexerto.com/esports/10-year-old-street-fighter-player-goes-viral-after-incredible-tournament-performance-3401122/",
+    "https://www.dexerto.com/fortnite/fortnite-at-ewc-2026-streams-schedule-teams-3399711/",
+    "https://www.dexerto.com/apex-legends/apex-legends-star-imperialhal-says-the-game-sucks-now-and-has-lost-its-identity-3399139/",
+    "https://www.dexerto.com/league-of-legends/faker-and-chovy-signed-chessboard-is-being-sold-after-league-icons-played-with-it-3397522/",
+    "https://insider-gaming.com/mini-golf-locations-gta-6/",
+    "https://insider-gaming.com/gamestop-black-friday-2026/",
+    "https://insider-gaming.com/how-to-get-key-cloner-gta-6-advanced-trackers/",
+    "https://insider-gaming.com/gta-6-chapter-3-mission-list-in-order/",
+    "https://insider-gaming.com/gta-6-chapter-2-mission-list-in-order/",
+    "https://insider-gaming.com/gta-6-chapter-1-mission-list-in-order/",
+    "https://insider-gaming.com/easy-method-randy-supercars-advanced-trackers/"
   ],
   "title_hashes": [
-    "91aa5756f532ffc48c67ca7f53beaa4d",
-    "557fdd8787a9995c659d4c1ebe49a8f6",
-    "685a8a8673ae4348c606625bbd6a8829",
-    "df3b93448ce5046cfe818902022122d6",
-    "f266d6b15b33abdb9629b7cb8d5acb16",
-    "d38ac4704b5386345076fde663fa66d0",
-    "4f06848d123160991796b9b55b4c920a",
-    "d21b4fb640a5692684adb09d16e6375f",
-    "c45c204b76535045fc51b25166f3bed9",
-    "93120e3d457307217eda773e4db51538",
-    "1ad97423152f1d8a6a1bf4c314263939",
-    "66e0c33d93823b0f778a14a6b5635e31",
-    "253306fcc00a11a912ba4c7712443ad6",
-    "3191adb4319077416829442c167efa2d",
     "d55c2f22602ddbbd0971eb2865081e23",
     "f94a718e7ccf006559356a2e752eced2",
     "5228b3130d608dee03bc521a60a2611c",
@@ -16001,7 +15987,21 @@
     "c870c977d31975e316f6c729b3c9e064",
     "48929b68f5b895dc87150c7edf905d97",
     "3014366a66c66f03b44f8451931042af",
-    "2fa0b4e3aab6c403fc6b3e7f9e6fde79"
+    "2fa0b4e3aab6c403fc6b3e7f9e6fde79",
+    "54fbca011d7b10b25b75f07124869737",
+    "f94a718e7ccf006559356a2e752eced2",
+    "5228b3130d608dee03bc521a60a2611c",
+    "a28b238927403fdf1361a1265c1765db",
+    "a15849c8d515b45bda923b5a3feb4672",
+    "bef9df4d0dbb22cae3e71ee42a3188e2",
+    "99f857e6e4ca38e33daf3b577e9ba658",
+    "67fbf267465e48e881d6babbc9305af7",
+    "16762b6310975776943d9c4b6b50d956",
+    "3c0f612870c68ae9a56b7832e91e42d8",
+    "cb8acdcc38ea1d21f50bbdc626eac30e",
+    "3e700682f0a1af56801e29e64140d54f",
+    "fb54713ab2abe5e3ec883c93fa575111",
+    "1714d520f55a8c608e799c0aa9be5971"
   ],
   "transfers": {
     "pages": {
@@ -20976,6 +20976,26 @@
     {
       "t": "after allows bstrdd explore half leave looks mibr options set year",
       "ts": 1795471501.2893925
+    },
+    {
+      "t": "2 announces era first five giantx group journeymen new partnership post roster starts tier",
+      "ts": 1795471506.8114645
+    },
+    {
+      "t": "6 all appeared course downtime every find firs gives golf gta here hit how links location locations looking mini plenty post things those you your",
+      "ts": 1795471510.6579666
+    },
+    {
+      "t": "2026 8211 accessories black collectibles consoles controllers deals early friday games gamestop has headsets help more post save started these will you",
+      "ts": 1795471514.438115
+    },
+    {
+      "t": "3 6 8211 appeared chapter complete every first gaming gta insider list mission order post",
+      "ts": 1795471519.0263603
+    },
+    {
+      "t": "6 8217 advanced beat easy gta his how hunting method might plagued post randy supercars them this trackers wishlist you",
+      "ts": 1795471522.6933317
     }
   ]
 }
