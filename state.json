@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://theloadout.com/pubg/update-new-map-neon-6th-anniversary",
-    "https://theloadout.com/pubg/twitch-drops-rivals-6th-anniversary-showdown",
-    "https://theloadout.com/pubg/extraction-shooter-project-black-budget-tarkov",
-    "https://theloadout.com/pubg/giveaway-codes",
-    "https://theloadout.com/pubg/security-key-location-deston",
-    "https://theloadout.com/pubg/bluechip-detector-deston",
     "https://theloadout.com/pubg/deston-pitch",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nVHdvS3R4TlZ5VEVSMXZDUkRncnBlVVRsUFZnazQ2a0xXNElXZ2JKWTVCcnVQY0dUa0tzYWh4TElkSHZ1V0VBeFNiOGRMTGNrNS1TQUFIRVptRVgzOW10MDluTU5xM29qLVlXS1dQWGUwYzM1ZzRv?oc=5",
     "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/28989/stellaris-willpower-expansion-launches-on-pc-with-new-ideology-system",
     "https://www.invenglobal.com/articles/28988/world-of-slime-opens-mobile-pre-registration-with-an-exclusive-outfit-and-starter-pack",
     "https://www.invenglobal.com/articles/28994/binding-of-isaac-creator-edmund-mcmillen-to-remove-ai-generated-music-from-repentance-daily-run",
-    "https://www.invenglobal.com/articles/28993/skewmond-leaves-g2-esports-and-joins-karmine-corp-for-2027"
+    "https://www.invenglobal.com/articles/28993/skewmond-leaves-g2-esports-and-joins-karmine-corp-for-2027",
+    "https://www.invenglobal.com/articles/28987/team-liquid-and-friendly-fire-launch-team-liquid-cafe-gaming-cafe-network-in-europe",
+    "https://www.invenglobal.com/articles/28986/wuthering-waves-version-40-gameplay-reveals-the-strider-mechsuit-and-new-resonators",
+    "https://www.invenglobal.com/articles/28985/pubg-mobile-names-16-gauntlet-teams-as-2026-global-championship-heads-to-istanbul",
+    "https://www.invenglobal.com/articles/28984/sovereign-tower-sets-january-14th-2027-release-date-on-nintendo-switch",
+    "https://www.invenglobal.com/articles/28983/this-is-the-real-x-men-leader-avengers-doomsday-releases-main-trailer",
+    "https://www.invenglobal.com/articles/28992/sjokz-to-step-away-from-the-lec-and-hosting-at-the-start-of-2027"
   ],
   "title_hashes": [
-    "19c3e1f263b8beabc1a38d294f26b541",
-    "f781c1682fe0227b48216a69ee9b6019",
-    "387464d459f3158b8e8141185c1fcee2",
-    "513c061175ca51edb894c23249fe744a",
-    "a6f454f36c10e62cb6d74c80c8318cea",
-    "92b1cd9c4c9f5be91bb64e5478d54b18",
     "8a1592b7a4ef5c407594d01be64d080b",
     "c447430f735f9eeb44d98b91831d1367",
     "61de80355d479505de9c731f12460625",
@@ -16001,7 +15995,13 @@
     "47319a89a949dff7659e3e678e310116",
     "296c3ad2d3f87cf203c858e2651345ea",
     "583c0382756684d2956185a019bc16d3",
-    "aa6ad478db66d06baee778b7283e21da"
+    "aa6ad478db66d06baee778b7283e21da",
+    "14dd55dc3f7292e8a46b78803ad0518d",
+    "08667a7f72757f8baf4abeaf9572c701",
+    "7f17edc4bdf14edba10dfd4436f7b3ff",
+    "8e7487eb49854d3cce235bf0413f26e9",
+    "35e925018e593dabc36c38d5cdede60c",
+    "deb82c96440cf9cdc603b9f6cbcbf932"
   ],
   "transfers": {
     "pages": {
@@ -20896,6 +20896,26 @@
     {
       "t": "2027 championship corp emea esports g2 has joins jungler karmine league leaves lec legends rudy season semaan signed skewmond",
       "ts": 1795471418.6911192
+    },
+    {
+      "t": "22 according across cafe cafes esports europe fire franchise friendly gaming have launch launched liquid network organization pay play rebranded release six team venues",
+      "ts": 1795471424.2795622
+    },
+    {
+      "t": "0 22nd 4 brings called december embers everbright first footage gameplay games has kuro launches mech mechsuit new resonators revealed reveals strider version waves wearable which wuthering",
+      "ts": 1795471427.9921641
+    },
+    {
+      "t": "16 2026 26th championship esports gauntlet global has heads istanbul mobile named names november open pmgc pubg teams that thirty türkiye",
+      "ts": 1795471431.8510091
+    },
+    {
+      "t": "avengers cyclops doomsday features has james korea leader main marsden marvel men notably real released releases scene shouts this trailer where",
+      "ts": 1795471435.5024614
+    },
+    {
+      "t": "2027 all announced away break broadcast championship depoortere eefje european extended has host hosting league lec legends she sjokz start step take will work",
+      "ts": 1795471439.6290905
     }
   ]
 }
