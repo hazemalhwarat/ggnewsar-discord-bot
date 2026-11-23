@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYV9EUHU5QzZRbUpZeExvV2RCdU1yOGNGT1llUEUzUUo3TEpkeFNaOFdZZ2RXWmNNZlpYSkZOTTJFYkJjQWhxMWtscW1ZY3JHX2dhdVZlTy0xZlM0ZkFTWF9YaXlTdlRBeW9zdThEaVpBS1VSRW51SnFfMnAxZFVkWEU1RE5vZw?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVlYZVVGeHVsNlZWWTViell5bkttS2pVQnYtcnhWalRGZU5YTU5VWHM1YXBMRVlPVjNodG5XU19rc2hiRzN2ckFaX3pYUnV0YkRwY09scE1HcDU1TE5WV1JBVDc5RHdTY2tJcHhoOGM1RjhPTFhKYU41NzN6ampTdA?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjEwdjkzRU9vSEdRbTRaRHhvYnhvWHAwMUNzcy1pbGhtRDZSUG9mTXpOVDhCdlNwNmtUa29Bak9jdUpHdGoxcjh1VnFBZkN1UFM1RXM1MGhLMGJmMmhidXZYVFpVLS1WMGJMXzlseWI3YlQwUm40b1g1d3B0RE1qcFJIYnRkYnh3eEdjTEVUQm1pdndSWW1nR0trOUM?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DakdRaWNibG0zSThkcW5oMVlnWjktME9fQlJXV2tERTBad1pOYzVVX25hZFdETFBEaTNCM1pkZFpCTXgwbHc3a21JNEJ3bEt0Yy1XV1lyOUV2XzU3azVxXzhaWVBSVWh5bUlsbUdld2l1dnI5ZWh1MDZJVUI?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV05GM0l3YVdQanVFMGhjY0JpcjJKRThONGswN3YwZWoweXhWSUw0UVlJcktoY0tsNFFLajNyNG1hYnNuVG5aNExKWlljZUp2YXRrN2NBWGUtWm1IaFZWOGZlZzRycHkxTlFLcVJTanhla3c4dDlZUWduaWpnTGE3Mkg0aENKM19KWTdEM3VvUzQyUFFRWVIwNUxCS1VLU1piZDc1UTR3ZDc0SHRvZUJB?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcV8zVjdCdGkwbGt5bzUzNnlTazhoM3I1MVFZSU1Id3pnQ1NwNjhsZG83dDdab29ocnJRWlFDMzhmWERmNUNHUUtqOXhLWW1BUF8xMVdlb3lKeThvd2dybU0tZ1dYM1V5dlhPSW9vSVdIMTgzSHFVZUhkQTBpNE1nRzR1am40c01KSDJTTFRTenhjOEd0MkxSd2MyLW1UY2dTVHlPM3E3WHQzRjA?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDBpRmNuSkRlTDdEYklGWEtCNUtOWnVQOXFoaGpKblBGd1pCNTh6YzNIaHI2NjVLZUpTTDgxckN6MkhuREVPSDU4RE9Pd2N3YVYxTDlpMm9FSmlqNEl0SDJjTzk1dlJWZUVra0VjQ05XUTNqWTh3LWZoZEllbnRCREFSbnZjZ2RsVmhGemF2WVR3TWtCOXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMlhyTWhMTmhqTFBtNEtqbk9vUXVoVUxKNW5aNjJQc0tzQWd0M0ZvRVdEX2l1S1l0cUdsSmd1dE5admg5d3hxLTdET001NExKMFl2WWpqZUhBZGM1RVVIQ2QtMG5rbjdYdGxZb29sMnVOa1J4R1ZSQVhnSGU2d0g5RlRaTHZmMm0zbHBhQnZtU1o3NWFnWVV3UHQ2MDQ1NFJhWUx2MXhMZTZsblc4b2hlWEdtbw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSU5KMWs2QjI3aU1mWVg0MVU2aXVnc2NoYlhLc0cyZWRyOEhpZUxQU3o0aU9HVjhVRXY3UjZFMXFCQ3JJZkViMDkyRWkzMTd5T0tHYWNZOEMxajk5Y3hKTkRXY090VVhteVktemZRMzlPMjZIdFIxdmtBR2poemlwR1NpS1BMUnFBQWVhLU84ZWtMNGZaQ0ZEX3Q1eWdXY0pSbkV5ZThaVzY?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZTdRN1JBcVpmaS1ONW9kVkIySGNoMmpNMnVkam43elA1ak5UY1RudmoyRTdlc1EzVGdVdl9HTW1QWVd3UlBOZW95cnpSelc4YmJReFV0TzQwSGZVR240TzdfRWZJWjkxTExmYWZqMWxzNS0tOTJfcnZhUDFyTjFRQ3NWMFpGS3NLdjRubkNHTXoxUWJhN0MyVHFoVDU3WmtBbmFKOWhaVjlDY3ZpaEV0Ym13?oc=5",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYzVTQ0JTMW9aYXlDdEdpUFdxTEVwNlM3V20zeEhjM1BuSC1xNmZCd1FUaTJQazkzeS15V2lNNjhLZ0E5aEthckJjTFYwNThQczFGcW5UMHlKQlRLZVNSQm80aDVVSGZyUEdnOUJSMnB0QWdMNnlFV2R2NmZEcVRjX252T3gtVWNVUVNPbFZoZDlKVjhDTTZ4WEU3ei1MeUpfaWpJ?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlcwZDBBUmZHR1hxMEpwNUhvYjN6aWVCT1pmLWUzZUx6TzliZjRNZ2FKYTQ0M01Xa1ZOYUtnb09xRU5NR3UwdTdyMUdWS1cwQnZiQXRxUHNwX2hvcFF5QS1XMm9URjFKM0Q2WDB1a2swV1J3MXI0WjNQbTVoeXRrNDd4bzVfbm9MUnc?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFM2VEx0cE1RNzg4RDR4UFFQOURzSjVMcXVHS2dKX25EejdEZXlseUtlcXJjNVZ2YkpzcWtvcUR6dXZhODI5a1ZNNDRhUzZ0QWVMa2F2WlVNYS12cTk3WnhKc1pwREE1R0Rrb2lXMWpaazdDN1JCeG1tOXVKME1LLWpoU0Y1ajR3Y2Q5bEI0UE5RLTljelN4cXdtbWp5dWpNVFpPS1N2TjU4ZVk?oc=5",
@@ -7999,19 +7989,19 @@
     "https://www.invenglobal.com/articles/28960/girls-frontline-blue-covenant-to-participate-in-agf-2026",
     "https://www.dexerto.com/call-of-duty/call-of-duty-caster-maven-quits-after-admitting-relationship-with-co-commentators-ex-wife-3416394/",
     "https://esportsinsider.com/2026/11/qor-sweep-maryville-university-for-second-straight-win-at-vct-americas-kickoff",
-    "https://esportswales.org/team-wales-finishes-6th-in-the-world-at-hado-world-cup-in-shanghai/?utm_source=rss&utm_medium=rss&utm_campaign=team-wales-finishes-6th-in-the-world-at-hado-world-cup-in-shanghai"
+    "https://esportswales.org/team-wales-finishes-6th-in-the-world-at-hado-world-cup-in-shanghai/?utm_source=rss&utm_medium=rss&utm_campaign=team-wales-finishes-6th-in-the-world-at-hado-world-cup-in-shanghai",
+    "https://www.vlr.gg/793815/dplus-announces-new-peri-led-roster-with-estrella-hermes-flora-wolverine",
+    "https://insider-gaming.com/fns-reflects-on-vct-qualifier-exit-im-sorry-that-we-didnt-do-everything-in-our-power-to-win/",
+    "https://insider-gaming.com/navi-wins-brawl-stars-world-finals-2026/",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOel9pT2l6cFN4SXNMTng0dDVzSGxrbVdPZWMzNXNabVFzTlFPUVNzRXpoNjJVV1BnbzJEbVhyMVpoRm1TbHJoR1JUUGpnV0ZqazV0dF9xWEYxbHI0SjQwcW5nWVlCako2LTZPVGZDQ0hPV25haVNScXF1RHB5Z21oLQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdldHQk4welUyWE5rVWZpOGs2eGIyOHZndnpLRk0zYkFRaWpWNXlOejcwWjI0a1h0VHY4RlVIYkNzTnV3MG9wMUdJWTZpY1Vnd3F2SEFFTW1XVEJzSm02VVFMeGc5bVJDQkRGeXJURzl6SWhyOHJPcks5OC16bTVrVF83dmpEdHc?oc=5",
+    "https://www.dotabuff.com/blog/2026-08-24-dotabuff-is-partnering-with-statlocker",
+    "https://www.dotabuff.com/blog/2026-08-23-the-international-2026-champions",
+    "https://www.dotabuff.com/blog/2026-08-22-the-first-four-to-go",
+    "https://www.esports.net/news/gaming/paper-rex-break-up-2021-core-bring-back-patmen-and-add-primmie-for-vct-pacific-2027/",
+    "https://www.hotspawn.com/dota2/news/blast-slam-ix-group-stage-decider-predictions-whos-going-home"
   ],
   "title_hashes": [
-    "088da2d77aec6963b080278ab8527129",
-    "2e60b23a784cc797aca7185b53e2a589",
-    "1ecbdc97b0dd1a3882b4be0dda6749ab",
-    "575c84a7d568821f5b40d6936103c582",
-    "e81ad9b5327ce3b9694518b35db52b0c",
-    "7d7f606dbdfe9b0022bc7035314f045e",
-    "b58fabd0d93d5ae5bccfacd526296551",
-    "57d4119ee0e6fb7196b5cb70ee3991b0",
-    "fc453a04dfd7a9f3247fcd615e8b1549",
-    "017de91dbc0581f1e64e51bba4d6a770",
     "83829599d70ac0c58746e8f118ad8e10",
     "22b3e27ab83e40d1f8c479eab3e46ca7",
     "e76e330b0f9bfcdaf938640d68baad55",
@@ -16001,7 +15991,17 @@
     "60fed155c51428666399ebee96a8436f",
     "d55c2f22602ddbbd0971eb2865081e23",
     "2f9acadeba4dbf5613d8495033bbe141",
-    "647b30c578fabd0013e6a24443464716"
+    "647b30c578fabd0013e6a24443464716",
+    "86f688c87d62965f223b93087b7d9553",
+    "9199529ac803da791e10c64f691d8b36",
+    "063e50b85bf95e09fedc11e2c1b44ff8",
+    "e0e65e76baf718eda800badeabc41fac",
+    "588fabfe9f90820267b15bd38afb2a82",
+    "4f06848d123160991796b9b55b4c920a",
+    "d21b4fb640a5692684adb09d16e6375f",
+    "c45c204b76535045fc51b25166f3bed9",
+    "b9452da0447d5fd1b7fe2abcb9614a6e",
+    "afdeb64edf9a408ee6933f9028817f49"
   ],
   "transfers": {
     "pages": {
@@ -20920,6 +20920,26 @@
     {
       "t": "160 2026 6th 8230 achieved among cup establishing finish finishes hado has leading nations outstanding place shanghai sixth squad team wales welsh world",
       "ts": 1795428342.7141626
+    },
+    {
+      "t": "announces dplus estrella flora hermes led new offseason peri rebuild return roster three wolverine",
+      "ts": 1795428348.2591364
+    },
+    {
+      "t": "0 2 2027 8217 8220 americas didn everything exit fns kickoff masterclass our post power qualifier qualifiers reflected reflects sorry stream that vct win",
+      "ts": 1795428351.7768533
+    },
+    {
+      "t": "2026 after appeared brawl claimed competition finals first gaming has insider japan navi post remarkable run stars tokyo wins world",
+      "ts": 1795428355.2877567
+    },
+    {
+      "t": "2 2021 2027 add back break bring core d4v41 f0rsaken full has jinggg last leaves long masters overhaul pacific paper patmen player players primmie replaced returning rex sense star thai time toronto vct winner",
+      "ts": 1795428358.7359896
+    },
+    {
+      "t": "2 4 42 7 already blast crucial day decider dota elimination four going group have here home matches new patch play predictions rages results set slam stage unexpected unfolded who",
+      "ts": 1795428362.149931
     }
   ]
 }
