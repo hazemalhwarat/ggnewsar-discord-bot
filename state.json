@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQWhraXdkR2Q4WC0xS2FGdERCdV9vY1hkTUw4d3pKOG1NYlkyVlNSNTk0WjQ0MHFRek5fTzVWYk5MODdkbW9QaHV1QjEyQ2t6TTFFdUhYMTFZdjVBR3hmNTZieFh5Rm96WFlFOEF4ZGhULW5zcWY2V0NHbXBFVFJQcG5LZFg4eF96akJ4REhIc1hmMVhGVmtZQ01hRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5QjdKRW10RVJrWnU1ZHNJcEFWZzEta0xVRTVRUXdvdkZOWDZGNEw0bnF1aU9VTXN3aVd1YlNJVkpJOG1xVENON0ZjQXFrWk4zNWtLU2V3RVVmQUktS3g5R25EZmZmV1BseDlfd0h5WjRnVlpLd0lpajF0QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE82TkZKZ2ZGM0ZDaUJOTjV2VlF1OThMRklGTDl6Q1NlRHBaOERiSnBQSVVVc21QbkwtQ2tyWFVmOVZlU09JRHdmT01mQk5IWFFET1BJWi1YMWxnaExncTJaTW1JT2lxdWg3Wk9vZ2JTUDNVR1d4RnEwLUhWcm1meDA?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fb2ZfTVJIb0RYVDlwVkJkaVF5NlRLMVd3UDhOZTJzSlBzMzltbzVITnkwaTlCQ3hPNFdfWkxhZnp2TGFfVVRnQXN6WEdzV3BoclNnRkdPdm5KZU1fRFM4emprVlNYc3ZoQTBfYzdtZ0c?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXA4ZzdzZHVFUVBUNjF2T1NZUzU5WTY2NjB1SmVmanJpXzNZbHlJdDJOcWR0R3BTNUg3NHN0aVhNTFdoM252Z1RaS2JqNmRqRGNqQWEtTE9YR3ZDd0lKc3NyV3Q3bVNCN08xanNlZEoxOGFFV0x5dTlRN0VtM3V4M09CcnVJQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQmJsWGNSM0oteHpUMC0weWRRbDR1R3JIbi11cXR0U3ljWlBFNkIxcjI0M2tTbFE5RmZpRW1FN0wzVmRMSGpoanU1UDNsVjB5YnZfV3BoM3pfZHJwV2ZYLVdlRjU1bURwQlE2OVpfNXNtSlpKZkxMNUFnVWF3eHozZWNqMThRd0JsYXZRRDk2Sm5ZaGZBd2ZfQnB3WFA?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMVNJRTFnc0hURnBxbHdmc0VsSFhyU2xwa0FWbkxDa0UzS21tLU5mQmZfbS01emhTR3VZTkVwV290R0VhVV9fOW5MVUVtRzdOOXpqQU5HcldZb2lVZDF5azVtWTdLUXJtdTdOQkVVSFVqV1RmeE50dVYtLV9jU1ExZS1ROTBhcTRYUXJv?oc=5",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczhQbWFUYS1EMHRJMXMteTE1WnFuOGN0UUI5M3E1QkNVZGhMNXZnOVR2UE9Fb3UtRW1INWRrNEFSQURKdGotVmpEMy1HaERublRQMVBGaEFvcTBPMVV0endEWlhNUHBFX2pISHk4UEZHTXByTUVPZlljTGJMY1RsUF9KbnhWSnB1NXpBd0NLV1FsNXljaXc?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KTEFkNWQ3NmdqZmxqZ05VX3JJZ1JQQzZPeEdYT3BBS3pxZlVTM05lU0JKYTM2Tk5sN2h2Y182M243OWZHT3JfeFFrZFlkZDdFNmlhUFlNRjRkX2JfbHNDb0xfNHRQcUJNbTBrRGpTSi1jQnYtZVBKMDFDQVVSdEU?oc=5",
@@ -7999,14 +7993,15 @@
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2T1U4RnhjVFRmWE5MNjQ4TVkxOTI5eFFuZ1FhSXdvNFBSTlh1Tk1PWVMzN0lKel9YeXBCQjRyRlFwbGY4a2o1QVdHOXl4SUZpS1BrdXZZTXRQZw?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUJUb3Y2YlNEY3ROTVg4Q2xDc05tX2JKa3B1Umk4RHhTTVJ2QnBpYmk2QmZxSXVKM2ZSZ2E5SUxjcGRUWWx5RzdYTGRyRGxxcWp4eDlCLVdXUmFmaXRkSHdHNVhkYUZOOXozU0U2OTRZUk9haTBfVXYxVUFqSFliZEpwcDFGZTduUmRiQTNxWXpEMGVvVjJUVnhJNERycjZOa0xGMGMwUTNLUWdmQVRRZlhKeU52bGl3dG1CN0h1bENuWVJV?oc=5",
     "https://pley.gg/cs2/singapore-major-pickem-picks-pros-creators/",
-    "https://pley.gg/cs2/who-can-win-the-singapore-major-five-teams-one-favourite/"
+    "https://pley.gg/cs2/who-can-win-the-singapore-major-five-teams-one-favourite/",
+    "https://pley.gg/valorant/trace-esports-sign-chichoo-nobody-and-nicc/",
+    "https://pley.gg/cs2/rare-atoms-childking-admits-drinking-before-qualifier-semi-final/",
+    "https://pley.gg/cs2/navi-take-largest-share-of-esls-2026-club-incentive/",
+    "https://pley.gg/valorant/rrq-let-kushy-test-the-market-after-stage-2-benching/",
+    "https://pley.gg/cs2/pgl-major-singapore-trophy-design-leaked/",
+    "https://pley.gg/cs2/faceit-keep-half-time-voice-chat-for-season-10/"
   ],
   "title_hashes": [
-    "25f378b8fa670b6d05a4461f30293b3a",
-    "01ed019163cea041a5efe03ebea6f305",
-    "4443938ddbcaefeac7adafb3d9d68dea",
-    "416a75e16e1ea5e416ca0ee887d1d72f",
-    "b60c7c679f70a11707b96670c5797b5a",
     "484935ad6f30a7d92ae27889db85c0eb",
     "2c113f8c1a67b9e1b9aa2b9687e79d86",
     "f017f0f93f8ae2d13509f8e8472101cd",
@@ -16001,7 +15996,12 @@
     "94704b7f5022f79ba69d11bf283fdc79",
     "39d367e0148ab37c34c0d7523d5c7a20",
     "a2c597cdd8694a489a56bb1d9f899d1f",
-    "9610eb7991cf3b0b48959b6b54ac8e8a"
+    "9610eb7991cf3b0b48959b6b54ac8e8a",
+    "6f9c3ac1224a7c2aa3a08a15886b92b2",
+    "02fa4704555b9b40b04cd50f7a973b4f",
+    "f65c3f3a25898eb5c90c859a8139784c",
+    "460f2dad0aeb970422076e2db5e3f15f",
+    "36167d619b6d9613e9a2d7a184093af8"
   ],
   "transfers": {
     "pages": {
@@ -21156,6 +21156,26 @@
     {
       "t": "2026 against can case each falcons favourite five furia major mouz one order our pgl singapore spirit teams that vitality who win",
       "ts": 1795471687.9856157
+    },
+    {
+      "t": "2024 2027 champions chichoo dragon edg esports gaming have nicc nobody plus ranger season sign signed trace vct winners",
+      "ts": 1795471693.7167711
+    },
+    {
+      "t": "2026 admits after apologised atom before childking chinese drinking extremesland final has leaving qualifier rare semi teamspeak",
+      "ts": 1795471697.4071238
+    },
+    {
+      "t": "000 2026 460 behind club esl furia g2 incentive largest navi qualified share take trailing",
+      "ts": 1795471702.3511422
+    },
+    {
+      "t": "2 after benching club first helped initiator kushy let market rrq stage still talks test their title vct who",
+      "ts": 1795471706.0943918
+    },
+    {
+      "t": "10 9 between chat december faceit half keep matchmaking part season standard starts teams time voice when will",
+      "ts": 1795471709.8477447
     }
   ]
 }
