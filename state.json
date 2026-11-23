@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://theloadout.com/pubg/karakin/drop",
-    "https://theloadout.com/pubg/arcade-mode-riviera",
-    "https://theloadout.com/pubg/clan-system-update",
-    "https://theloadout.com/pubg/in-game-sales-all-time-high-battle-royale",
-    "https://theloadout.com/pubg/the-big-score-survivor-pass-update",
     "https://theloadout.com/pubg/update-new-map-neon-6th-anniversary",
     "https://theloadout.com/pubg/twitch-drops-rivals-6th-anniversary-showdown",
     "https://theloadout.com/pubg/extraction-shooter-project-black-budget-tarkov",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28996/deborah-ann-woll-to-reprise-faye-in-prime-videos-god-of-war-series",
     "https://www.invenglobal.com/articles/28997/tiny-bookshop-passes-1-million-copies-sold-as-arts-crafts-dlc-gets-december-5th-date",
     "https://www.invenglobal.com/articles/28995/navi-beat-fut-4-3-to-win-the-brawl-stars-world-finals-2026",
-    "https://www.invenglobal.com/articles/28991/vr-forever-awards-return-december-3rd-alongside-a-steamvr-festival-of-220-games"
+    "https://www.invenglobal.com/articles/28991/vr-forever-awards-return-december-3rd-alongside-a-steamvr-festival-of-220-games",
+    "https://www.invenglobal.com/articles/28990/sandfall-opens-official-expedition-33-merch-store-sandfall-boutique",
+    "https://www.invenglobal.com/articles/28989/stellaris-willpower-expansion-launches-on-pc-with-new-ideology-system",
+    "https://www.invenglobal.com/articles/28988/world-of-slime-opens-mobile-pre-registration-with-an-exclusive-outfit-and-starter-pack",
+    "https://www.invenglobal.com/articles/28994/binding-of-isaac-creator-edmund-mcmillen-to-remove-ai-generated-music-from-repentance-daily-run",
+    "https://www.invenglobal.com/articles/28993/skewmond-leaves-g2-esports-and-joins-karmine-corp-for-2027"
   ],
   "title_hashes": [
-    "f7508c28b2a1dc7294717e7b3c326eae",
-    "6b993eeee6fe488efc20aeb7cd8d3500",
-    "b3eff852ac5f9ef0668674698bde985e",
-    "01245fa36c4190df25d3a0cb7db3ac9e",
-    "20e5a4e569590f11a5604e9d04f756ae",
     "19c3e1f263b8beabc1a38d294f26b541",
     "f781c1682fe0227b48216a69ee9b6019",
     "387464d459f3158b8e8141185c1fcee2",
@@ -16001,7 +15996,12 @@
     "b9284a15f57fb0c1fcc619673ceab974",
     "7fae6397515819b1cea3539d20f5a7d7",
     "6fa15857f0e45b84fba3006518ccc61a",
-    "0a1c1ebee0a1361b12cd77a1e9add859"
+    "0a1c1ebee0a1361b12cd77a1e9add859",
+    "1c1fd1c5c651d60cc3c7ffc08f220b2b",
+    "47319a89a949dff7659e3e678e310116",
+    "296c3ad2d3f87cf203c858e2651345ea",
+    "583c0382756684d2956185a019bc16d3",
+    "aa6ad478db66d06baee778b7283e21da"
   ],
   "transfers": {
     "pages": {
@@ -20876,6 +20876,26 @@
     {
       "t": "150 220 3rd alongside announced awards both creature december developers events festival forever friends future games have more nearly online return run second steam steamvr than which will",
       "ts": 1795471398.2785892
+    },
+    {
+      "t": "33 america behind boutique clair developer digital europe expedition fans has independent interactive launched merch merchandise north obscur official opens sandfall store",
+      "ts": 1795471403.7789016
+    },
+    {
+      "t": "abrakam adds ambition developed expansion game grand has ideology interactive its latest launches new paradox released sci stellaris strategy system willpower",
+      "ts": 1795471407.5142848
+    },
+    {
+      "t": "around built capturing casual collecting exclusive game has korean massively mmorpg mobile multiplayer online opened opens outfit pack playing pre registration role slime slimes starter team42 version world",
+      "ts": 1795471411.264603
+    },
+    {
+      "t": "after binding creator daily edmund found game generated has isaac mcmillen music players recent remove repentance run said update will",
+      "ts": 1795471414.9271386
+    },
+    {
+      "t": "2027 championship corp emea esports g2 has joins jungler karmine league leaves lec legends rudy season semaan signed skewmond",
+      "ts": 1795471418.6911192
     }
   ]
 }
