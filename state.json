@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27906/ubisoft-confirms-no-other-assassins-creed-remake-is-in-development",
-    "https://www.invenglobal.com/articles/27905/netflix-developing-live-action-pubg-series-with-donald-glover",
-    "https://www.invenglobal.com/articles/27904/escape-from-playtime-adds-public-lobbies-in-week-one-update-reveals-content-roadmap",
-    "https://www.invenglobal.com/articles/27902/phantom-blade-zero-passes-680000-concurrent-players-on-steam",
-    "https://www.invenglobal.com/articles/27901/aurora-gaming-enters-valorant-with-derke-boo-and-trexx",
     "https://www.hltv.org/news/45856/fallen-i-like-the-way-boombl4-thinks-about-the-game",
     "https://www.hltv.org/news/45857/hotus-major-chances-soar-after-tesla-cup-win",
     "https://www.hltv.org/news/45847/pgl-masters-bucharest-quarter-finals-as-they-happened",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSURGdkNOR0U2X2JJampmM3BmUHktZUZBMEVYdXEwdzN4dUEtRndCOXlwOEt3NFAxRWZOZ2taZFFQUFdxR3pGUmp1Wm0zN1E5aF9qUTJxUndjbHdXV213QnNuV19Dak13anJSX19BWFZGUll1ZUVITnZENkxNZnU3TEV6UzR3enZSNTN2cERtMHlELVU2YkM0Q3QwUnppN01tZmNVRUJ2NDE1ZzFXRjhqOEpWdnc?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2dGdWwweGtfZE5SeW5Scldfb1drZXp2MFhCc2E4SS1ZdGg3bFh6OTJKNC03NF85Sk9BRG5ZNXpZd3NWUFBmQWhGLVVNMGxtRWNlclF1OUVyb0owbVdtamFOMFo0SFFsWXlSS3U1dk1tb3B1bjEwNmtXb1d0QnA2RU9CY2tkMDJRZnc5WVF5UnY3OGhSeTlBTjJqYVFUTzFPRnROZGl0RQ?oc=5",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zclNSTFh1RGVJRWxsbTBxMXd6UkwzVXJTdzhUNHVjc1VFTTg5SDZJSE0xSUZ3ZUtCRnpkUUlvMXA1N3MyLWRnZk8wMjFlYlByZHJVSG5BQXY0U1pHZVN6Y0JFYw?oc=5",
-    "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash"
+    "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash",
+    "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
+    "https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act",
+    "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market",
+    "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat",
+    "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch"
   ],
   "title_hashes": [
-    "95a5552d68af022097c6789c58503bf1",
-    "54aaa762fd7973b0d3fccc032784253a",
-    "3d0198d8d4e9246fee5c3894f07c9184",
-    "80a567c1602cb370b1c6f8f1b6e97926",
-    "2607582387198190328db01ea8f0fa2c",
     "ac35c02f75445884938d7e2769094c65",
     "ab4542e63c84f7570ab70811cb523db3",
     "d97541c59322ac1a7106222740a97dca",
@@ -16001,7 +15996,12 @@
     "7c44aee98ff87d753404922d0172baf8",
     "a33ddbe0337d975b523e7460c35791ca",
     "7314f445e32be7bd51daad43a809b6a9",
-    "e99a3a520a2349fb0b064cfc6cd1a0d0"
+    "e99a3a520a2349fb0b064cfc6cd1a0d0",
+    "18832a677ce35b0c6b8fb40496837e4a",
+    "845d9e3bc3c4d0138f0ccc56f537ff76",
+    "5c9176c382fa59d80d76dc1dd9230160",
+    "086040368aa8352c914b84e5f7fb39b9",
+    "9b4eed296e0457a3b8682545fc0e5f20"
   ],
   "transfers": {
     "pages": {
@@ -21096,6 +21096,26 @@
     {
       "t": "after backlash binding discovered game generated has isaac latest more music negative nicalis player players prompting pulled read removes repentance reviews steam update wave",
       "ts": 1795471626.3989053
+    },
+    {
+      "t": "6 build concern could cyberleek executable file follow game gta has leaked leaker more needed port prompting read released releases reportedly run that unofficial xbox",
+      "ts": 1795471631.9248478
+    },
+    {
+      "t": "act boxes commission consultation currencies dfa digital european fairness feedback introduce inviting its loot new opens proposed public rules virtual which would",
+      "ts": 1795471635.7073605
+    },
+    {
+      "t": "acquired acquires asmodee based boardgame compete competitive creating digital distributor division formerly french group has highly indie interactive market new news paris plug publisher publishing sails tower twin",
+      "ts": 1795471639.4086664
+    },
+    {
+      "t": "activision chat filed files game has language large llms models more network neural npcs patent read train using voice",
+      "ts": 1795471643.0548358
+    },
+    {
+      "t": "afraid alex announcement between biggest clones copies devs games gap going half head how launch market minimise next nichiporchik now off one over point says stave talking their think time tinybuild way year",
+      "ts": 1795471646.8155513
     }
   ]
 }
