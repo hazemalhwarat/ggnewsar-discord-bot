@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/gta-6-features-a-fully-functional-public-transport-system/",
-    "https://insider-gaming.com/shopify-rebellion-2027-rocket-league-roster/",
     "https://insider-gaming.com/aurora-enters-valorant-with-derke-and-boo/",
     "https://www.dotabuff.com/blog/2026-10-29-gameplay-mechanics-that-could-fit-dota",
     "https://www.nerfplz.com/2026/10/best-halloween-skins-in-lol-10.html",
@@ -7999,11 +7997,11 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZkdSVlI3NDVVWFhDQWQ2MlNHT0xDN0JqRkVqRENyZjh0M0s1T0N4T2dVVUZ5ckx6SXFTLTJvalpoMjJkSnk0TWxsa2pVeHVOU1pkTTBPSk03YlhuMnc3Vi1OUWtmVThWVVhIWXZvT0ZZLUdGOXV2bk80Y0g5Qi1WN1dtM2pVRWRDTmtXemZNT2VDdXM2UFE?oc=5",
     "https://pley.gg/apex-legends/dns-arran-claims-false-ban-as-lcq-sends-eight-to-sapporo/",
     "https://pley.gg/cs2/quiz-can-you-name-every-team-that-has-lost-a-cs-major-final/",
-    "https://pley.gg/cs2/cs2-heads-for-a-ninth-straight-monthly-player-drop-as-the-major-begins/"
+    "https://pley.gg/cs2/cs2-heads-for-a-ninth-straight-monthly-player-drop-as-the-major-begins/",
+    "https://pley.gg/cs2/ultimate-hits-free-agency-as-betclic-turn-to-brain47/",
+    "https://pley.gg/valorant/counterfeit-knock-masterclass-out-of-vct-kickoff-qualifier/"
   ],
   "title_hashes": [
-    "9492c20cba5edb37572600507693199d",
-    "f56002a3da53a8ffd7aa2ec07d7fd7d4",
     "d0444c89931325378469e7e1bbdba4f9",
     "7f482609074a2da1b4a7eb8916177576",
     "63ea83d864b077ad3cd8a9dfb76e0134",
@@ -16001,7 +15999,9 @@
     "63ea83d864b077ad3cd8a9dfb76e0134",
     "d065720713024ca2ac60d9119176d030",
     "9bc58c315d0650ddbf9b0b69d01f57a3",
-    "631e39956d4fe514a2071d2d19b247cf"
+    "631e39956d4fe514a2071d2d19b247cf",
+    "e9590e9a40058015a844610c65517801",
+    "2d2f8d4f0799248776c40d5f95e96b3c"
   ],
   "transfers": {
     "pages": {
@@ -20980,6 +20980,14 @@
     {
       "t": "000 910 around average begins cs2 drop falling heads major month monthly need ninth november player players rest steam stop straight would",
       "ts": 1795428400.5378952
+    },
+    {
+      "t": "academy after agency awper betclic brain47 brought free have hits loan months parted phantom three turn ultimate ways",
+      "ts": 1795428405.781622
+    },
+    {
+      "t": "0 2 2027 3 9 americas counterfeit ending fell kickoff knock lead lost masterclass out qualifier run sunset their vct",
+      "ts": 1795428409.356758
     }
   ]
 }
