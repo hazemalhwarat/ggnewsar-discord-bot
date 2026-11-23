@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://theloadout.com/pubg/deston-pitch",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nVHdvS3R4TlZ5VEVSMXZDUkRncnBlVVRsUFZnazQ2a0xXNElXZ2JKWTVCcnVQY0dUa0tzYWh4TElkSHZ1V0VBeFNiOGRMTGNrNS1TQUFIRVptRVgzOW10MDluTU5xM29qLVlXS1dQWGUwYzM1ZzRv?oc=5",
-    "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
-    "https://www.gamesindustry.biz/the-five-golden-rules-of-external-development",
-    "https://europeangaming.eu/portal/press-releases/2026/10/29/217045/evoplay-winter-season-legends-prize-pool/",
     "https://europeangaming.eu/portal/latest-news/2026/10/29/217015/entain-machine-games-duty-25m-cost/",
     "https://europeangaming.eu/portal/press-releases/2026/10/29/217009/paf-joins-rahapeliala-ry-finland/",
     "https://europeangaming.eu/portal/latest-news/2026/10/29/216995/sportradar-borussia-dortmund-integrity-partnership/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28985/pubg-mobile-names-16-gauntlet-teams-as-2026-global-championship-heads-to-istanbul",
     "https://www.invenglobal.com/articles/28984/sovereign-tower-sets-january-14th-2027-release-date-on-nintendo-switch",
     "https://www.invenglobal.com/articles/28983/this-is-the-real-x-men-leader-avengers-doomsday-releases-main-trailer",
-    "https://www.invenglobal.com/articles/28992/sjokz-to-step-away-from-the-lec-and-hosting-at-the-start-of-2027"
+    "https://www.invenglobal.com/articles/28992/sjokz-to-step-away-from-the-lec-and-hosting-at-the-start-of-2027",
+    "https://www.invenglobal.com/articles/28982/jensen-huang-returns-as-nvidia-ceo-in-unanimous-board-vote",
+    "https://www.invenglobal.com/articles/28981/dk-completes-5-man-roster-with-final-piece-delight-yoo-hwan-joong",
+    "https://www.invenglobal.com/articles/28980/nongshim-redforce-signs-andil-moon-gwan-bin-and-pyosik-hong-chang-hyeon",
+    "https://www.invenglobal.com/articles/28979/sol-enchant-devs-share-the-story-behind-episode-2-changes",
+    "https://www.hltv.org/news/46025/sunpayus-opens-up-about-early-struggles-in-cs2-what-didnt-work-in-g2-and-signing-with-fut"
   ],
   "title_hashes": [
-    "8a1592b7a4ef5c407594d01be64d080b",
-    "c447430f735f9eeb44d98b91831d1367",
-    "61de80355d479505de9c731f12460625",
-    "e7dee5c0f2a20a2a52c828d7642f02e3",
-    "67f1ba3d3a00b1596426e4324f747fb5",
     "5e2ecc81494b4c9f06b50e0f85f63f8d",
     "48853f35365d3af03d0ca30a0cf82e14",
     "ff22c111f3e32ad5afa0b9b675bd9d7a",
@@ -16001,7 +15996,12 @@
     "7f17edc4bdf14edba10dfd4436f7b3ff",
     "8e7487eb49854d3cce235bf0413f26e9",
     "35e925018e593dabc36c38d5cdede60c",
-    "deb82c96440cf9cdc603b9f6cbcbf932"
+    "deb82c96440cf9cdc603b9f6cbcbf932",
+    "2fa0bf5f64ba831e4d6ce88d7e3da3bc",
+    "1f10343f7bfef7bc6e40af7f2079ccda",
+    "fd30255033514ccc9b17697117eb2128",
+    "6f978da80a276a120876e4f0f8a698de",
+    "b41dc56cc8bde6ee4f50f1506ba40b78"
   ],
   "transfers": {
     "pages": {
@@ -20916,6 +20916,26 @@
     {
       "t": "2027 all announced away break broadcast championship depoortere eefje european extended has host hosting league lec legends she sjokz start step take will work",
       "ts": 1795471439.6290905
+    },
+    {
+      "t": "board ceo directors founder has huang immediately jensen member nvidia reinstate returns unanimous unanimously vote voted",
+      "ts": 1795471445.2388034
+    },
+    {
+      "t": "5 accumulated alongside based championship completes create delight dplus expect experience final has him his hwan joong kia man piece play rift roster signed smash stated strong synergy yoo",
+      "ts": 1795471448.9690835
+    },
+    {
+      "t": "andil bin chang gwan has hong hyeon jungler moon nongshim pyosik redforce signed signs",
+      "ts": 1795471453.1034777
+    },
+    {
+      "t": "2 25 after arrive august behind changes coming december devs enchant episode first game late later major months new november roughly serve share sol story three update wednesday week will",
+      "ts": 1795471456.7573793
+    },
+    {
+      "t": "about awper bench better cs2 deal despite didn during early financial fut g2 having his longer offers opens perspective reveals signing spanish struggles sunpaypal sunpayus that through time waited what work",
+      "ts": 1795471460.5292501
     }
   ]
 }
