@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWhqSzkzRl9qOTFJWE9veEMwVjJmaHJIZWlKNTdRRnliWk5oS2hTc1BnY0EtWHg0WGpydjMxWjdLSE5nZDRVdEVaUlU4VVpuaGFOQjVua1p6UlJCU3JpMXk2QTVjMThGaHgtSzZkNnc1aDRldnE4dWV0cVI0QUdSSy1mdmVNSzhRWlpWUEZMTGVWSmpN?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvZENIZ0hOemdFX2FlQ2dNMk5hTTBMRGJJTVpRbVd3V2pNTzMxRGR0RWNtRGRmVEt4V2pNWG1PRWpkYURCcDBER0dpRXZjdUR5cWxpUFpYRGRHR3c?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Cd2xaYmtHOHFvYXNmM21lNkpPU3pkVFRaSjVRdk1ma2dNdVFnSVV2b3lqN0dmLW1SS0pid1l6dmdiX1hBOEpiSmd3Q1pJeE1ZZUM0Z0k0cWJLMjk1MzROWjQ5S0lGN09OS1pGNkZJcmVkRmc?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DbzRwYmdza3Rxb1I1NHdiYjRjZmZMZTZZRXVteENKT1lJNHB0Q1R0NDh0TFAwQkdtVllXeWFXVGJxMHkwR25TaDVKZ3pJR2JKREFZU1JmNDRIT0kyYXJzY1dNTnV5blNDZ3lFWEY3M2lpU096YWFGMmM0RGc?oc=5",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ReTc4LUNhMFdPRHpuMGhEWGlfZ2hUeGd4WE80SVl4RjlRNFY0QTJkWEtvRUFwOG9RWmhoRFdITExSUGFzbVdlS0VVTWZTS0N2dXc?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56VG02Ym9YWUVKYW5EZ3lEUEhqTWU2Xy1HTEJKa1BaVGQwYkVYQTU5TUQ0UTRQY20xQ2V4QWxNLVE4YzBSTGhER1pCMVVjUk5icmc?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kQmtPUHVRbV9uYy0zUDZzS1VySlF2UE1kSEFramlTRFd3VlB6X29HU3otT002SFhYaUQ5WU1WcS1peTBhY0ZjN0NKa0FENzRZdHUyWHZES2NmTkdPeFhHSGNhTTFsZw?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVREMDd0OFZqQXVIWmVHVXhMc0tYYS0wRmVlU0pLX21tUTQxRlBrdU16MlczV3N6SE9TZUVSRzFTQUYwdzBDZlZoRFN4RFdNMUljc01jUEhuRlVSOU0yRmI0dnVEN0xhUXg1VldzVnlrUVJIS01QdV9vVHdBTlFBY3NvUlJGYWpFYW5LZ1Q5TzhGeVVzMTVoWXdKVUNXXzR3SWc?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/28977/tokusatsu-otaku-magician-clan-nakano-tokusatsu-research-society",
     "https://www.invenglobal.com/articles/28976/neoplayer-2027-everything-about-neoples-conversion-internship",
     "https://www.invenglobal.com/articles/28975/fategrand-order-unveils-agf-booth-and-program-details",
-    "https://www.invenglobal.com/articles/28974/nikke-teases-main-story-season-2-starting-in-2027"
+    "https://www.invenglobal.com/articles/28974/nikke-teases-main-story-season-2-starting-in-2027",
+    "https://www.invenglobal.com/articles/28973/gta6-lives-up-to-the-hype-proving-to-be-in-a-class-of-its-own",
+    "https://www.invenglobal.com/articles/28971/the-log-pc-bang-playtime-rises-82-in-3rd-week-of-november",
+    "https://www.invenglobal.com/articles/28970/first-wild-rift-smash-in-korea-draws-around-3000-attendees",
+    "https://www.invenglobal.com/articles/28969/astrae-oratio-unveils-agf-2026-on-site-program",
+    "https://www.invenglobal.com/articles/28968/lindel-3-leads-nine-consumption-with-485-billion-spent-caltheon-3-takes-level-lead-by-reaching-level-70"
   ],
   "title_hashes": [
-    "b52662c6fcac3e4307ccea42d909a10e",
-    "139def17a360ad96f7dc4ba856b9153a",
-    "94704b7f5022f79ba69d11bf283fdc79",
-    "a468943c331373cfbc1560abc731be6d",
-    "46c5e73950e6a23c01291a8decbc3c11",
     "879354555a088f8adb7bfe6673717c54",
     "596591c3758a8ad5f39b8bb36cf4552a",
     "103949fc7a162a9de3859945613567e8",
@@ -16001,7 +15996,12 @@
     "805e4a64b71329964bb5ea5080ca0297",
     "3bedd134570aa5e1ce9dae70b6d0cb93",
     "f536f5e57db1146aed3432c5d2163e38",
-    "481fd7e4c23ae0b460e324b98a93a089"
+    "481fd7e4c23ae0b460e324b98a93a089",
+    "93929107627b433fd2e1c5aec959c6aa",
+    "753f9285e95a67db616446d8d43514fd",
+    "c9555f57497c3fd0dc2ffe6efdd3517c",
+    "699600229cef9f5dcb9ca0d7357b2bae",
+    "1bb635cddc84d02a617fe104f1bfecfa"
   ],
   "transfers": {
     "pages": {
@@ -20860,6 +20860,26 @@
     {
       "t": "2 2027 50 between campaign changes chapter coming connection continuing field gameplay main narrative nikke past progression season starting starts story strengthening teases",
       "ts": 1795428283.3655787
+    },
+    {
+      "t": "1 1gta6 2 2world 3call 4overgeared 5 5the 6path 7 class duty exile forever game gta6 hype its legend lives modern ocarina own proving rankings remake time top warcraft warfare weekly zelda",
+      "ts": 1795428288.8722286
+    },
+    {
+      "t": "15 2 2026 3rd 8 according approximately bang hours log million nationwide november playtime reached released report rises third total week weekly",
+      "ts": 1795428292.3933508
+    },
+    {
+      "t": "000 3 approximately around attended attendees community days draws event ever first games global held hereinafter korea league legends over people rift riot smash two wild",
+      "ts": 1795428295.9205647
+    },
+    {
+      "t": "2026 agf astrae build cbt characters demo feature first has its magic not oratio previous program rpg seen shindenki showcasing site six time unveiled unveils will",
+      "ts": 1795428299.3833964
+    },
+    {
+      "t": "1st 23 3 48 5 70 across approximately billion caltheon consumption enchant lead leads level lindel maintained monday nine november place rankings reaching servers sol spent streamer takes",
+      "ts": 1795428302.9239042
     }
   ]
 }
