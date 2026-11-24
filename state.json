@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aWllNVUVibDVaNmJQQlVSbTZqTThDV1JaWktYZUFwS3dkVUdVam9laDNMTGF0ZWJraVJrYmE3Y2xaUU9EVzlNaExQUEpINXZNQVVWMHd4R0d2YzQ1czk5b3NKMA?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzLWFESFpzYlVGM2M0d1NxemJFMG5uckxvbzlvM2NoVmxibjZScHhLSlRHTTQzOG1hRlJSV1JWb0hiNFpjVVJsVzE4MzNBVFl2QzZ3THc0UmhXYjB3OGZCZi13V2FyZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SVUo5RFNjR214S0thTzRNbVVXTU9YTDBjRm1uQ0pSR0tQTGdkbHlZZEtUYmQtRVJjSGNGUkxoVV9NWGtRSmRBTjRwazFoWms?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zV05WSUFnZ2RiX19RRlJEcDktQjJ0NUNGWUtNMWx3WTJaUUhPVHlIM0QxOFg2cFlKR2Vob3U0cXJkb2NVWGpjb3JkUXhKeFBSdlh1d0xPMEh0XzB5QnNPRDJqODBXZ19HQjdSbVlxWFBaUWdDdmc?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRSUFlbFVnYmZEVU1scTRTQkxCM29VaHB0WTc0WnBRSWpkQ0ZsSEhsQWwzR24yN1lZM082QWFHSVJMWXRhWF9CV1pBOHhTb2hfelliVkk1MUt1VmlhSHc5ekJoZVZPd1pNc0g1dmllNkJCT1pMOE1J?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1Z6S09laUxrWHZUOTRKT0xvcmRuWTQwUGtjX3R6Y2VtQTJYYnRzQ1ZRTlo4UkdCNzM3WG8xRXQtZkQ1SnFzX1l5dUpycmdhWTFEYkk5cUZvLWN4QURMZEU3bDRZTHF1NzgtOENCcmhPX2g2cVJrdWdxRU5ZX3hjYWRoMWVQMFUwQ1hxOWpkOGw5NU0?oc=5",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SOVNqT0xDc2lCQmRad0k1MjA4ajRZNk5aMXk0cGR4VFRUVEU2VEVmLXg5RHVlV0JxbWtpZWdHel9tS2VCeWNGVTI0MmdxYnNqMXlfdmQxck9kdDdVSElCNkprdw?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWxScTJjcGJjYjdYNW5ONFRZLThtU2NzN1V2ZHowUndrYnEtVE1DN1otSjFDQ0N5Zl9ZRno1YmtwbGtZcVk1RUZzclRHNERwcjdsWjFJRnFCQ252OEM3eGFMYmdlblVGOXIxUHg3Uy1scDhoUVJoRjJ6cUFBRzhlOXZDbEpUeTNrM2VFQmotbE5RMHNhcThFb0FyaG5RclBsdHFDVjJ0Tjh3YU54dFRIOXRscHU?oc=5",
@@ -7999,14 +7994,14 @@
     "https://thegamehaus.com/pokemon/pokemon-countdown-november-30/2026/11/23/",
     "https://thegamehaus.com/college-basketball/college-basketball-picks-week-of-november-23/2026/11/23/",
     "https://thegamehaus.com/college-football/college-football-week-13-picks-against-the-spread/2026/11/23/",
-    "https://www.hotspawn.com/league-of-legends/news/lcs-2027-roster-tracker"
+    "https://www.hotspawn.com/league-of-legends/news/lcs-2027-roster-tracker",
+    "https://www.hotspawn.com/counter-strike/news/pgl-major-singapore-2026-results-day-1",
+    "https://www.hotspawn.com/valorant/news/team-bonk-banned-vct-emea",
+    "https://esportsadvocate.net/2026/11/team-liquid-friendly-fire-cafe-brand-license/",
+    "https://esportsadvocate.net/2026/11/lg-display-vct-emea-partner/",
+    "https://www.nerfplz.com/2026/11/top-team-comps-148-feet-on-ground-nasus.html"
   ],
   "title_hashes": [
-    "82c2e10e9a1e659307214ba9d3bfa0e6",
-    "657fb9b92dca8da185602074391b5a47",
-    "198e9fbd01528516f49f7f8f745d8ca3",
-    "9fc6af1e6f071e839c601b430d19b8cb",
-    "63bf08183c7d3c5fd8beeea074d36a96",
     "6a572faa2eb2fdc9b5ae868b64e13f17",
     "738a143db967382c914ff055bbaa44ee",
     "949ad7194ed32d4e0aea1e1c6febaeb0",
@@ -16001,7 +15996,12 @@
     "87cbc70af1b76e1c27e31e365b69491e",
     "41156ff958aae64a84d0b01bb80acb13",
     "6f5c658b908a08c02ff21c79af123dbb",
-    "5ffbcdcea5e38a20c81a3c3f09d2d50a"
+    "5ffbcdcea5e38a20c81a3c3f09d2d50a",
+    "37a3343e47b4ad19bf3e148b6465bc43",
+    "5bb8a182781c1e96b51c6682738d865c",
+    "41470e7498734d2d7afc5fe76b415eed",
+    "904445565477b196cd0455a5f0a1be3d",
+    "36d7821ec27097b3227322ec2253ac8c"
   ],
   "transfers": {
     "pages": {
@@ -21036,6 +21036,26 @@
     {
       "t": "2026 2027 already based being big built coming end every exciting have involved lcs lineups many most moves names offseason rating roster rosters season shaped team teams their this tracker",
       "ts": 1795540034.5385914
+    },
+    {
+      "t": "1 2026 action after begins best day elimination first have just major matches officially one our pgl requiring results rounds singapore some teams two underway verge well",
+      "ts": 1795540040.2463052
+    },
+    {
+      "t": "4 48 after all bans bonk cheating coach competit confirmed emea five following formal games has have into investigation members month open players qualifier received riot scandal team that their vct years",
+      "ts": 1795540044.7399218
+    },
+    {
+      "t": "10 22 8217 best brand cafe cafes croatian esports existing fire franchisor friendly gaming has into its licensed licenses liquid name one putting team turning venues years",
+      "ts": 1795540048.407641
+    },
+    {
+      "t": "2027 28 720hz 8217 arena berlin brings changers cup display emea front game games has its official oled panels partner players putting riot season signed stage vct",
+      "ts": 1795540052.0925868
+    },
+    {
+      "t": "148 aphelios arrives blink champion comps dash does draft every feet foot ground make middot nasus not one other owns plan sure team them this too top whole",
+      "ts": 1795540055.8364973
     }
   ]
 }
