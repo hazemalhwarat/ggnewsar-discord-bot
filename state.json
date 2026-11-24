@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2FTcjRodU1YVjlQcDdqVW1HVGF5MGQyMWJvNldVaUNnYi1BdWFQVUE5NXNMVnlwVDVKV2FmRG05OXhROGlGdnM0aEw5cmxrdGlJRW9paG5PdEc5dlhuR0lqd2lJTzFIZk5FczVkN1ZVamtTTTlxazcxckEzSkFlQmxnYw?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ES1Jlc2ZaUzBqM3pDWER4M3dXNU1RUmwyOVF6Mm4zUml1UDRiQ1NGMnZOY2c5b1E3cmd3RVVkdUZoY3cxV3Z2OTlKbnBVQUhadkFuR0R3?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSS05ScjZtbDVUWGRGNlZ1UzFnQmVBVTlCdHZjZFkzd1JCVUVpNUVLT2JIc0RBTUx5ZUlXZWdXbThsTmszLXY1eG9OLW9iLWdPODc2emF6WFh0UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jRHU3bGlXclZMOVZrQnQ3cnNrbUhyVWxfSDlMVFRBblJDRWoycTRtbm9vYmlJdkEwQk1YSzhvYk52bTE2QzVzUVYtSklwaGdvcUhMS281aHNxMlpDMlE?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BdW9tRE1PVWduaEgzMVg0UTEyM01DMWN1S3dyd0JaMWdyVkdXRjhSR25lak96cC03eDctVUVtWmsxREhLRmFoT0hldDFFQlQ4Y1NCZG5maVVEZGpzNlYyV1p6VVB3ZmRTMU9OY3JjNkI?oc=5",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54WW9GLTdndjRxUzFLaXRieVR4elQydzNKUnRWUkNhZ1dmNXN2UXJ3WFlEZW9SdEVPN0x3U2t4R0VENDhJeDJXMmdGcVEzelY4ZnpJOHBpN1RkUHRCY2huZUNVM0s?oc=5",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53WUpLYzFKcU9vNk9mRWpDS0dIbHlMelhxQVk1Vk5EZWlwcE5nRVdFVF9qdTdWTzl2dTJTNjRKd0hjNEdNRkdwWnlpdld1TzNyVXEtYWIzUkduQi1IazV0OURSV0s2NE0?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sTHlDZTJIQTlVRy15d1YtVnBxM3RDaXhmOXJTU01zMlNHdFBHZGg3RnZqOWJjeFVHQ2lJZGxNQ3YxbnJPNnZ2VjlZYjFKN0MtZlFsS1JXTTBJZWpiMWlkUjJZOGpya0lPbktfN25TNA?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/29053/attack-on-titan-3-gameplay-video-shows-life-inside-the-walls-of-paradis-as-pc-specs-are-revealed",
     "https://www.invenglobal.com/articles/29052/stardust-wish-of-witch-confirmed-for-ps5-and-switch-2-on-december-14th-with-physical-editions-in-2027",
     "https://www.invenglobal.com/articles/29050/aion-2-adds-rudra-challenge-introduces-negative-kinah-to-combat-bot-farms",
-    "https://www.invenglobal.com/articles/29049/geng-completes-2027-roster-with-signings-of-siwoo-sharvel-and-cloud"
+    "https://www.invenglobal.com/articles/29049/geng-completes-2027-roster-with-signings-of-siwoo-sharvel-and-cloud",
+    "https://www.invenglobal.com/articles/29048/farland-tactics-farland-saga-announces-30th-anniversary-project",
+    "https://www.invenglobal.com/articles/29047/the-polar-bear-embraces-orange-canyon-joins-hanwha-life-esports",
+    "https://www.invenglobal.com/articles/29046/2027-t1-coaching-staff-under-head-coach-kim-roach-kang-hee-easyhoon-retained-umti-acquired",
+    "https://www.invenglobal.com/articles/29045/how-dk-landed-doran-and-kanavi-after-losing-3-starters",
+    "https://www.invenglobal.com/articles/29044/bitsummit-high-announces-collaborative-game-music-stage"
   ],
   "title_hashes": [
-    "2eaac9145acc1a9d62f1739c9306ca04",
-    "03a6d02a379bd667e8d88fe571fa6fa3",
-    "225f83f5a095b038d191cc7c4d7cb7e0",
-    "9c5fa853c7f897518565386bb1ad1124",
-    "3c58a4402fa0ca9243c8b453e7a3eb9a",
     "63e1ec3bcd9cb6779935b60ace2710e0",
     "d5b02053090423c1d8181a87c2a7d873",
     "e4e22be386caf142e02f94eab5d7d53c",
@@ -16001,7 +15996,12 @@
     "2151706facb6bc571b223ddf8dd9b176",
     "ad080813099ab5cffc5accd6c9fec731",
     "156a3969601f34126293ffec181244a6",
-    "852de1684181c68aa5bbb7df7a3c5dbf"
+    "852de1684181c68aa5bbb7df7a3c5dbf",
+    "ab888840079f8ee930f08d69be03a9bd",
+    "8b742359d3a060ac9da4e6e9b4d53f61",
+    "1ca2ef2cef568a50bb127e47eaac9a7d",
+    "255d95b767ac7efd35ac7a1b611bd2c8",
+    "95d73f2e6776c152decc59bbf29582f6"
   ],
   "transfers": {
     "pages": {
@@ -20876,6 +20876,26 @@
     {
       "t": "2027 24 announced channels cloud completes dan esports gen has its jeon jungler kim laner media november official roster sharvel signed signings siwoo social that top via woo",
       "ts": 1795539861.824229
+    },
+    {
+      "t": "30th anniversary announces beloved classic farland has its jrpg korea mark new project saga south tactics teased title under",
+      "ts": 1795539867.8894684
+    },
+    {
+      "t": "24th announced bear canyon channel embraces esports geon hanwha has its joins kim life official orange polar signed signing that via youtube",
+      "ts": 1795539871.6202831
+    },
+    {
+      "t": "2027 acquired appointing coach coaching easyhoon finalized has head hee its kang kim lck lead retained roach season staff t1 team umti under",
+      "ts": 1795539875.259498
+    },
+    {
+      "t": "2027 23rd 3 after announcement completed delight doran dplus how hwan joong kanavi kia landed losing roster showmaker signing smash starters yoo",
+      "ts": 1795539878.9167902
+    },
+    {
+      "t": "announced announces association bitsummit collaborative committee events executive first game games have high independent information japan jiga music official regarding stage supporters wave",
+      "ts": 1795539882.6124403
     }
   ]
 }
