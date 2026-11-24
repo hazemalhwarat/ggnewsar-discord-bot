@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWJHSzBIZ3ZPcXhSN2RmNkdNOTRlR2ZtX0JneU9JT3c5WnYzNjZIM0FDYmU3bFN2cDdrMmhISkNKX3NfUDIyMi1OTUNCZ215aExZNHhwUm9tTmZaejdyamx3b0M0enVjWnZfQTN2TXdNZWZJbHl1Z09xdS0xcl9ndmZZVDc1UnhRV0RrYVlCcHYyQkNaZ2U0MHRmQVlkR0d6eWlsLV9HWmFoOFZWTlE?oc=5",
-    "https://www.invenglobal.com/articles/27974/gumayusi-on-facing-blg-has-the-swiss-stage-always-been-this-tough",
-    "https://www.invenglobal.com/articles/27973/zest-with-a-nothing-to-lose-mindset-our-performance-improved",
-    "https://www.invenglobal.com/articles/27972/hanwha-life-esports-eliminates-g2-heads-to-2-2-decider-match",
-    "https://www.invenglobal.com/articles/27971/hanwha-life-esports-takes-game-1-against-g2-behind-zeus-on-the-brink",
-    "https://www.vlr.gg/782275/fnatic-parts-ways-with-veqaj",
     "https://www.vlr.gg/782222/gentle-mates-gc-reaches-finals-kr-blaze-lives-on",
     "https://insider-gaming.com/star-fox-inspired-wild-blue-skies-is-out-now-on-switch/",
     "https://insider-gaming.com/for-fun-tyler-interview-algs-split-2-2026/",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/29016/uncharted-waters-origin-officially-launches-on-one-store",
     "https://www.invenglobal.com/articles/29015/maplestory-escape-surpasses-10000-visitors",
     "https://www.invenglobal.com/articles/29014/hp-omnibook-ultra-16-launches-in-south-korea",
-    "https://www.invenglobal.com/articles/29013/terminus-day-zero-short-zombie-survival-game-launches-on-steam"
+    "https://www.invenglobal.com/articles/29013/terminus-day-zero-short-zombie-survival-game-launches-on-steam",
+    "https://insider-gaming.com/red-dead-redemption-developer-reportedly-open-to-selling-tv-rights/",
+    "https://insider-gaming.com/how-to-find-complete-tractor-revenge-encounter-in-gta-6/",
+    "https://insider-gaming.com/gellhorns-missing-tourists-gta-6/",
+    "https://insider-gaming.com/rockstar-shuts-down-discord-server-trying-to-port-gta-6-to-pc/",
+    "https://insider-gaming.com/gta-6-arcade-game/",
+    "https://insider-gaming.com/where-to-find-the-thrax-in-gta-6/"
   ],
   "title_hashes": [
-    "bbcb469fd2eef19196d66c24f9ade701",
-    "4941052088ce92ede324fb5feda57b19",
-    "d340b704aac15e6f613b962ab1cec6e5",
-    "15cc4a4854fa3f3fa4c80e89fb334be3",
-    "c5a21635ac7a215a1e05e1fb6cc1620f",
-    "c09ed324ecc80b688b686e921fc7b28f",
     "eacea704f3d8c6e60d8bbe5c4c44c056",
     "a95ed538c5f2260d4c6caf9e89bedcd2",
     "b8423ff912cefb727ed9eaedd5d63a16",
@@ -16001,7 +15995,13 @@
     "7950d7dc01e9201d8ed47db586413a60",
     "e93b4a9f2f4077cf188c4bde71aa57be",
     "dc0fd1cc448b10e5c050e5e69cc8949a",
-    "439d73eada92e47f501f066f3b31346a"
+    "439d73eada92e47f501f066f3b31346a",
+    "ba8bfc3ad8a0f85d15a331f401b5ff9f",
+    "828fe6f18264faab5a990d65332e494e",
+    "4a6c9054b0fbc99a4138e4c25abc6cdc",
+    "dff603ade02a3bab2abb862237ac82fc",
+    "52e65a60958899a7a83d4f5e56c860d2",
+    "dea88e80d6a44ee669438e8f548b723a"
   ],
   "transfers": {
     "pages": {
@@ -20936,6 +20936,26 @@
     {
       "t": "24th adventure can day finish game hour launches longplay played released short standalone start steam story studios survival terminus that under zero zombie",
       "ts": 1795539926.1059997
+    },
+    {
+      "t": "appea dead game games interested its licensing open popular post red redemption reportedly rights rockstar selling series",
+      "ts": 1795539931.8937485
+    },
+    {
+      "t": "6 amp appear complete detailed encounter find gta guide here house how manure over post revenge spray tractor where you",
+      "ts": 1795539935.4762135
+    },
+    {
+      "t": "6 appeared discord down first games gta have port post rockstar server shut shuts take that trying two unauthorized working",
+      "ts": 1795539939.1547756
+    },
+    {
+      "t": "6 amp appeared arcade city every find fir game games gta guide has how locations made out play post rockstar them throughout vice within",
+      "ts": 1795539942.9175308
+    },
+    {
+      "t": "6 appeared car find first gaming gta guide how hypercar insider locations post quick randy thrax where wishlist",
+      "ts": 1795539946.6300716
     }
   ]
 }
