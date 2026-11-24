@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUnNxTU1zeEtpVF96SUd2eDF4ZThRZlZ6U2pxZ3djQTVmOV9WeUc4VGNuWmt6N2ZLS2pNQmpIdEx1NXpmODFhS0I4UG1vRE5UZ1NpaklUQTNhcE1WZVZxVHljdmpOcHVQRmRfNFRwSjNuQXZ6R1dYNVdrQUhOaUtFVg?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UTVNrTTZjcEFfSlQ4c1JyRDVfTndtQkRTYTl5YVF1YlBBYm8xdVNiNDhUZDBNMGF0VV80N1Y1Z0pydGdlNF9sSUxkb0s3S0Vnd3ViQkswOFJUcC1LYWNkZlVzbHVXUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1taE8tZmZlTC04UVIwZnFETF9uZm1DOElvOTNwX1Q1Z3dMZ2NPZHpLQ2ZSeThUN3lKTXpmY3BKWWpVQUVRZ1dlb0NmaVlBSjRYd2ZtVC1MTktUb0FnZWFkSXkxVUx4UVJI?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwRzFzTWlPdWRBNHlrVGdBZmJqR0VfWG5jSFl0VnoxSXhXeUZDeTdhVGZZRmRMVVFiXzlBQk94NTkxVkN4NEthUDRLU1RqTi0wdlFjZl9oaDRmdzVmdl9OQUM1NjFNR3o2?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZZlozeVNtd3U3NXJvUVNENUFnWWJvckRvYjJPOVk2U0s0NGgyeTF0TGtOS2tLdENxZzA5QmNBSWZVQWFNcUdOMUxVX0JzN25hU3l3RFcwMTNkVjVKMWFIZ2lNd3FiYTg2?oc=5",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Wb2FsbHFJMjRwWnhOT3JkTFlubHJNd194U0wyQVc0TWxsNGlfMFdrWkhYZVFiRk44MGtvVWRJNy1NUldZNzZsR1JYVm1PUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Pb2t4RFF1WVhaV292UzJUaDNwWk1IZTR5M0pTV3Q5WW0yS1RUR0QwQ2FCQXlicmgwQ040bldYTVFvM2VJeDJsVDdRcmtvYkg2dlJDUjlKcEY0ZVpTRXFBS0RHc3pmUndu?oc=5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2Y2RyZWF6bGUtZFc3OGRfRTNxV0ZYbFdmY2hhRVdxZFZfbDJidzMzZy1wVktJSExRYTFWQlBXZlpQeVJJY1ZtRW94SkNTRVN4OUNkSFdWbzRYRHYzYzB4T0h3?oc=5",
@@ -7999,14 +7994,14 @@
     "https://mp1st.com/title-updates-and-patches/black-ops-1-update-1-04-1-004-pushed-out-fixes-ps4-ps5",
     "https://esportsradar.gg/mount-aloysius-college-expands-esports-arena-in-student-recruitment-push/",
     "https://esportsradar.gg/banco-do-brasil-and-asics-secure-in-game-exposure-through-fluxo-w7ms-ea-fc-27-kit-launch/",
-    "https://esportsradar.gg/imperial-features-ferjees-social-project-gamecraft-on-major-singapore-jersey/"
+    "https://esportsradar.gg/imperial-features-ferjees-social-project-gamecraft-on-major-singapore-jersey/",
+    "https://esportsradar.gg/lg-joins-valorant-esports-emea-for-2027-2028-seasons/",
+    "https://esportsradar.gg/team-liquid-and-friendly-fire-ink-10-year-gaming-cafe-licensing-deal/",
+    "https://www.gamesindustry.biz/you-are-still-taking-100-of-the-risk-why-cairn-dev-the-game-bakers-backs-self-publishing-for-all-but-the-smallest-developers",
+    "https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors",
+    "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever"
   ],
   "title_hashes": [
-    "17c1ecfd750dbe73f5726e85132f8858",
-    "2cac1760cf158ce456622eb041f13f54",
-    "9f43d824a77e589bf1785260e0f4851e",
-    "04881b066bd2d7625164ff3ee808e837",
-    "7632533f2e65e745208fdd24ee664e7d",
     "0ba3022f9b21bafd9a87982ecd9eba53",
     "a209bda7e0dd48fd8f83bf7e23197d3c",
     "503742bc56fa5f8e4ff9bf9e65afc4dc",
@@ -16001,7 +15996,12 @@
     "1bbc0e2a6a1af45cb333d15e52013946",
     "b1f9e736a646b20151a048f1ffeea5ef",
     "0e8990db19809c7ee0cfcd9989715e23",
-    "6d881924c272b637596e9dc97cdccbad"
+    "6d881924c272b637596e9dc97cdccbad",
+    "0e6c372eff77e33a04131964e30139f2",
+    "7ce4bb038d98caa63af6366aacc6bfd6",
+    "f2585e5eea9360a4647f786d283fa682",
+    "eba6d2b1650bfa6dbfb25fb81875bf21",
+    "0383f602d6c2843258f43977cab472a8"
   ],
   "transfers": {
     "pages": {
@@ -21076,6 +21076,26 @@
     {
       "t": "13 2026 24 branding brazilian competitive december esports features featuring ferjee gamecraft has imperial jersey major november organisation pgl project running singapore social unveiled",
       "ts": 1795540076.6090138
+    },
+    {
+      "t": "2027 2028 agreement become competitive display emea esports games has joins korean manufacturer official partner partnership riot seasons signed south two valorant year",
+      "ts": 1795540083.065239
+    },
+    {
+      "t": "10 agreement brand cafe deal entered esports european fire franchise friendly gaming has ink international launch licensing liquid network organisation pay team venue year",
+      "ts": 1795540086.7170415
+    },
+    {
+      "t": "100 all backs bakers based but cairn chiefly conve dev developers established firmly game help indie issues looking many market marketing ndash now only publishers publishing risk route self smallest specific still taking viable why you",
+      "ts": 1795540090.461146
+    },
+    {
+      "t": "accommodation applications conference croatia develop developers fill free games gap has includes industry investors its left looking new offers official opened packages publishers reboot seeking selection showcase splitcreen splitscreen travel unreleased which",
+      "ts": 1795540094.0559556
+    },
+    {
+      "t": "6 biggest but came christmas close come concurrent declared did driving early ever firm game gta has highest history its largest launch not number platform players playstation record sony that",
+      "ts": 1795540097.6725774
     }
   ]
 }
