@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/phantom-blade-zero-trophy-achievement-guide/",
-    "https://estnn.com/valorant-agents-list-release-dates/",
-    "https://estnn.com/phasmophobia-ghost-types-and-evidence/",
-    "https://www.nerfplz.com/2026/10/the-harrowing-in-lol-10-facts-about.html",
-    "https://www.hotspawn.com/dota2/news/who-are-the-greatest-dota-players-of-all-time",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zSzk5aE9HVDNEOFNpU1lRdFViUGlGbVFUTlV0dW1MWE8tUjdhRUc5WGJLT0RQUkFJaTk1dE16MHVaaWVNLTVQQTlfLTU3WmJjTTlWRVNKYXhiQzV2bXowN1R0OExWM1pCaDQ0aW1raHl0bDBxd1Njb3hPYTM?oc=5",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91NHRnQjlFRFJJQTFKM3J5NkRYS2RGZHVtNlBVaGZ4c2VqMUdjV0lGdW9BZmw1a2ZyclpPVkRGN0gwQVhiYWNocF8zWmYtTWxWN2V0T1pB?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGJsN0R6RnVITTJTa2JULV92TUtsMC1WeXZHalNjZlFWUnpxWnp2QWo0MU96NkN4MFpUZXpvRmNWNlVSeEFZeG10OFFpSDRGTW1ZdDFIRG1sUkV3azg2dDNWOTB6R292SHF3Y3Fyek03NWs4cWk5UWFyZVYxVHk3eTRDcV8?oc=5",
@@ -7999,14 +7994,14 @@
     "https://pley.gg/cs2/gosh-four-rounds-two-maps-facing-elimination-singapore-major/",
     "https://pley.gg/cs2/spirit-top-esports-charts-pre-major-popularity-ranking/",
     "https://pley.gg/cs2/flyquest-upset-pvision-one-win-from-stage-2/",
-    "https://pley.gg/valorant/riot-ban-bonk-players-and-coach-for-four-years-after-cheating-investigation/"
+    "https://pley.gg/valorant/riot-ban-bonk-players-and-coach-for-four-years-after-cheating-investigation/",
+    "https://pley.gg/cs2/singapore-major-sticker-sales-trail-cologne-saw-manager-claims/",
+    "https://pley.gg/cs2/imperials-chelo-plays-major-opener-hours-after-vacnet-flag/",
+    "https://pley.gg/cs2/zywoo-cs2-settings/",
+    "https://pley.gg/apex-legends/algs-championship-2027-sapporo-format-teams-and-prize-pool/",
+    "https://pley.gg/cs2/day-one-in-numbers-s1mples-second-worst-major-map-and-wildcards-debut-win/"
   ],
   "title_hashes": [
-    "5305a84bcae1d1aa24948e6d0d1f8a7d",
-    "a945f6874b76c7d1b4ef49dc189188b1",
-    "da095bddf84213bedde05f6af2541e40",
-    "a945e3a16c038f5975bf2e1a097ea7fc",
-    "f754df622270854b13fa4b1cb8827482",
     "c4790c888b76dc0d7e1c70fb8b87ca25",
     "03342e874b335c11132be8543c15c004",
     "addec426932e71323700afa1911f8f1c",
@@ -16001,7 +15996,12 @@
     "9d013e278784e29eeab62f76c7ace3d8",
     "1a54efe39811624026837cdb69d78593",
     "86a917994f7a7d6942df97624c89ffa1",
-    "a06568a59edd46b21a721593f4b61867"
+    "a06568a59edd46b21a721593f4b61867",
+    "40f3cb61b30509bd21b9fd8e0a8921b1",
+    "a71dae26479ceb8e55fc9f5846e0ccbd",
+    "226480ac3121e4554cb46c6a0c8eac71",
+    "0cce712df82bd630c676d75e6a068ad0",
+    "9155128ce0d844286ebcb05cfab6efb4"
   ],
   "transfers": {
     "pages": {
@@ -21196,6 +21196,26 @@
     {
       "t": "after all ban bonk cheating coach enemy five found four head investigation kickoff knowingly part players positions qualifier ran riot showing software that took years",
       "ts": 1795540205.4767551
+    },
+    {
+      "t": "below claims cologne ever him major manager marinhas off pgl point sales same saw says singapore start sticker team their told trail worst",
+      "ts": 1795540211.215545
+    },
+    {
+      "t": "13 after around beat cancelled chelo flag heroic hours imperial later major match monday opener plays posted premier server vacnet",
+      "ts": 1795540214.8039048
+    },
+    {
+      "t": "1 1280x960 2026 400 9 crosshair cs2 current cyan dpi gear his plays sensitivity settings small stretched zywoo",
+      "ts": 1795540218.441928
+    },
+    {
+      "t": "2027 algs championship sapporo",
+      "ts": 1795540222.0099661
+    },
+    {
+      "t": "day debut eight four his lower major map numbers one opening posted ranked round s1mple second side went wildcard win wins worst",
+      "ts": 1795540225.7405567
     }
   ]
 }
