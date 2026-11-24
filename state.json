@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zSzk5aE9HVDNEOFNpU1lRdFViUGlGbVFUTlV0dW1MWE8tUjdhRUc5WGJLT0RQUkFJaTk1dE16MHVaaWVNLTVQQTlfLTU3WmJjTTlWRVNKYXhiQzV2bXowN1R0OExWM1pCaDQ0aW1raHl0bDBxd1Njb3hPYTM?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91NHRnQjlFRFJJQTFKM3J5NkRYS2RGZHVtNlBVaGZ4c2VqMUdjV0lGdW9BZmw1a2ZyclpPVkRGN0gwQVhiYWNocF8zWmYtTWxWN2V0T1pB?oc=5",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGJsN0R6RnVITTJTa2JULV92TUtsMC1WeXZHalNjZlFWUnpxWnp2QWo0MU96NkN4MFpUZXpvRmNWNlVSeEFZeG10OFFpSDRGTW1ZdDFIRG1sUkV3azg2dDNWOTB6R292SHF3Y3Fyek03NWs4cWk5UWFyZVYxVHk3eTRDcV8?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVDV0a0FGdmk1ZzNRODNFbmNzdm9ZSno1ZVZqU242Uy1VRFUwaUpfU0N6eEVSeGw1TldkaHdFYjRxajBEOGdpbGk5S2JiR1VXLTdiWWRONENRRmtwMmhHWW1GVzJyTmxGWGxCbFhjbDk5OHJyRTlzQXZpREY3UlU?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGdGNllpR2h2T0hTN0wzX09hY0d4MzRWendSckFNUDFYSE1yU1Y5Q2Fyd0ZsT3Mydk02QzlTblZja0ZDWXRYQjYydm4wTW1INDZGUEhOTFJRQTFwSnlJMVcwQWZTbThIOEc0LXJ1dVU5SEcyUUNUQUpNU183UjBsRkV4enA3SHZVYkphNUhhODdnT3doUjl6b2x1OGlpWW1aQXFhdUlvWW9Ea1FjRWdB?oc=5",
@@ -7999,11 +7997,11 @@
     "https://pley.gg/cs2/imperials-chelo-plays-major-opener-hours-after-vacnet-flag/",
     "https://pley.gg/cs2/zywoo-cs2-settings/",
     "https://pley.gg/apex-legends/algs-championship-2027-sapporo-format-teams-and-prize-pool/",
-    "https://pley.gg/cs2/day-one-in-numbers-s1mples-second-worst-major-map-and-wildcards-debut-win/"
+    "https://pley.gg/cs2/day-one-in-numbers-s1mples-second-worst-major-map-and-wildcards-debut-win/",
+    "https://upcomer.com/nintendo-gives-pikmin-4-a-second-life-on-switch-2-with-dandori-academy-and-voice-controls/",
+    "https://upcomer.com/the-witcher-3-remastered-is-out-heres-what-actually-changed/"
   ],
   "title_hashes": [
-    "c4790c888b76dc0d7e1c70fb8b87ca25",
-    "03342e874b335c11132be8543c15c004",
     "addec426932e71323700afa1911f8f1c",
     "16c7f4d87982d982ef833803f02c5ded",
     "4be5aa752692896d9da892ecd63f48b3",
@@ -16001,7 +15999,9 @@
     "a71dae26479ceb8e55fc9f5846e0ccbd",
     "226480ac3121e4554cb46c6a0c8eac71",
     "0cce712df82bd630c676d75e6a068ad0",
-    "9155128ce0d844286ebcb05cfab6efb4"
+    "9155128ce0d844286ebcb05cfab6efb4",
+    "2ca64ae9fc25466eade38a9ef85991f0",
+    "8a831059affde33e116f7c3090747895"
   ],
   "transfers": {
     "pages": {
@@ -21216,6 +21216,10 @@
     {
       "t": "day debut eight four his lower major map numbers one opening posted ranked round s1mple second side went wildcard win wins worst",
       "ts": 1795540225.7405567
+    },
+    {
+      "t": "2 4 academy controls dandori gives life nintendo pikmin second switch voice",
+      "ts": 1795540232.569347
     }
   ]
 }
