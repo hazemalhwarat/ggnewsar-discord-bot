@@ -1,21 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PbkhxNFdHc1FmY2FCUHhOS19uSFdJdVU3UW1BcS1LWE1ZaE5Ndl91OHNuNjgxakk4dGhTa2xaN1g4ZGcwNVRnMw?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zSUhGWVFKMDdSalZKQlItV0tqNjNhX3AwVnN1RFF3QTF2aVdHbzEwb044X0R6akZJdHhmc0JJaDNlZ1lvVU9ILVpRME9pQ2lwdmxqVA?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5SHFJN3JaWkwxVGg4UGl1TjBaNjJCNzRSWmFoRmhFam5nMDV5djhETGJvYllBTVpaWGtzQ2t6a1RPaDVscUZRM0ZBNGpQS3M?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NaTZzVWVOLW4zcWxqOFFMaTlOTU9LNUR2NVBxeHJEM1hSZW9zNnNNODhxR0FvMURuNjB4RXBDelJyd2R1cm9idWd2T0lxcjJKMkVpM1U0Nk8xOGIwbHh3NnVPQ0NlRHVZdjY3Wm4wUng3c2xx?oc=5",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyUkVjTHNVNEVXaTM0NF9iYkJCc2s2VFBSWGM0bWFVSE5qOGJTbmE0Sk1tdDNPUVlJVHJXRmE2ZU84SG9FWkRWamJSLUN0MWFJZnM0c3RFQktPS3VkYXR0UWk2OVg?oc=5",
-    "https://news.google.com/rss/articles/CBMiREFVX3lxTFBQWVI4eXhiWUg0WFpQbENYOU05NVRFVzUwaFNENXY0QUlFTHlDcllQTjN0aXMtOTdIcHQ2SFJUVERwemdH?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yOTZqTjVkMno3emxUZ3otYnJ0dDloT3dXXzI3dWVwTkhtMVNoR0RhVzZabnFXNm1qZ2diZDcxYlVHU005ZUlTTk1OZXFoZ2Zvb1h4QzdKUnY1X05LNGNQdVB6WVFIQVkyWFZuWVVR?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kX212QzFtRnZHRmZFVEY2X3dsZzZZVlVjWU95R1gxZm5UamlzZTh1OWhHVzV6TXl6M1R5ZE04UFJFUXhkYUxnNHZjbjdtemZaYWNNdk9ZOW42Y3hsYWkzaVBxZGlqVEc3cURuOHlhMzhqc1E?oc=5",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQanpCVzlGMklVMVFQSW11ZWh2NW45Mm5FcHNHRVdyeV9idEh6LVdza0RZY3JhM2Q5UDF1SmR3MzVsREFNUHY1ZE5DZTNCTHBXUGNUNllxN2t2NkxkbldpZ01CU2dFVDFwMTdRelExa3lVVEZuM1VwOGM1UHZJS3ZEQjhiUjBRUWplOEVubXdFcVh6enpUaVliWXY3RHNrMmh1YVh6QV8zaVpqRUxyVzBfemlXU0xqZzUwMm85NHZpejRWR3Brbm9wYVN0dXZNeEJQX0sw?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aY0RRSTd5SmZIT0F5UHJsY3RVa0RETGdxZ2tHeTU0cXZ2OTVrd1p2ZVFRZmRPOEVWWW1Fc1FrUjN5ZloxRW5palhOSHQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01V2tfckJNdmFKblA1eEhYRU5EM19MT05JbUV0UzBOdHA3WGNod1JQZGNJNWEtYTFoLTZHWVd4NFVScFhLRmpoRkZBeFR4Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sY3BwT2xqYUFlZFFiS2M3cUwxXzU1UjA2cW50c09wbzMzRHRRWjBQMVd1YnVLdlNRYi1XSFlITkpyOXNRUnIwUV9Nd3MwODMwM2l0ZlJZSDhkb2F6SmFwbGo5WQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaWwwbEdMR3hjX2p1N0ZwX1FGc3JTdk1LREtObDVaTk90N3NoMDBwamc1NU50bmRsT0lOdy1sNDl6LWh1UVVtRGlLcXoxQ001YlBRa1hvYm5yTWs1MXVFdHVMRmYta0R0NlM2V1lTRW5qVUdoV21VTW1vS3V2ejM3ZVZB?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LUDNfZzhZQUFMb3V2dlJseURNbFh6Y3BpZU90OE1fUFVqY3JVekJiVXNtV1FwYU1sSWVoU3VOZy1JZmV0TlgzNzdFcDZ0ZDZEU1g5Y0hYQTd6cDNRbVdyaW1FSDNRdlI5SzZ3OHN4dG5PeEVheG81Z1FhTHdZaGs?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UZUpsT0VOV3pzVS1uS280cVdsRDdSZ0cwVk5yRDluNXhLM3Z0aUlVMXE3ZG9oM0V5WFoyTFJCVVBhU1FzdVdMTGh5MGF2ODQyRnNDOUhfT2QwSzBzdXI1THFkQ2pLbllmbVFRaUJR?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kc2laUENtdFdQb2lOTktLUW42X2tWWkJUV2pobUlBdE94NGtCejlLR01kaXRGaEdMdWhTWk03TXdVLTZROWJxLWNZdkNIT0hBZXJsUzln?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hN1pER3VXU1pBU096aHNWd09sSm81UWFucUc5QzNxT0NhUk9RcVVYRzBNMFVOY3JhX2ZHdS1MdkZxYTVOd3JKY0pzX1R4NmVBdmc?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05UXA0d01LTHBXaU85M1ZocW96MnJtT19POXdEdFBFNzdMZk9GUkNxTzJVRjZOQzF6bHRNNHVRRTVwOW92WG9qNTlFYzdWV2ViVGYzWFMxLURlTlpSZGs0Tng4dU1ydzJ0?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXc1R3RzeDh3bUpaZjQwX2ZIR01GcmVJNWVfemNRWEZIWVUtTURvSlB4cG45ZGRQcHNUZWJvdG5LUFRaQkdnMmxxM1N4RDlMMVR0MVZYQW1lRUZ2VG5HQWdxSHoycFFyeU93QUw3QkxpY3FXQlItNnQxRS01OE1SRW9DNzQ1T3ItaGNR?oc=5",
@@ -7999,25 +7983,25 @@
     "https://www.hltv.org/news/46038/wildcard-send-faze-to-0-1-pool",
     "https://www.hltv.org/news/46037/liquid-annihilate-bcgame-13-1-in-singapore",
     "https://www.esports.net/news/gaming/spirits-420550-forfeit-shrinks-esls-2026-club-incentive-as-navi-tops-the-standings/",
-    "https://esports-news.co.uk/2026/11/24/imperial-end-100-thieves-five-match-winning-run-at-pgl-major-singapore/"
+    "https://esports-news.co.uk/2026/11/24/imperial-end-100-thieves-five-match-winning-run-at-pgl-major-singapore/",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQW1fd2JQLXBwdE5WN2tna1pyOVVmZ3pLaV9OUWVyUENZWGxCMGthbUFZMlNDY0dWMHNhT1V2QkFUaU1VaTdndy1UTGtBVmwtYS1IZFE5WGZCUF9jYjE3VXJiU1F2b3R6QjVBZzhYZjVIOVVNLW5kYWlEdHYtRFpCRjhFalJFYjc1NF8wREg1QjhhSGlBcFZxeHBB?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcThGNWJRRGtuZTBJNjZCaVQwempsVXd5aWNrNzRkYnp3ZzhKNVdMa1lERTdqbXh0VG9HUmd6N2JKcGVrWVJfME1TdUwwdXJremstNjlROFpzQjhQNGQ4Z2xLSGs1RVVPNks0X3lGNVB6aldncXZSQi1MQ2xXZTVSdV9sT2FUWC1VQm0tclZUaw?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNREtrTEx1MnN2RHl6OG4xQjJGZy05cHp5RUJMMkN5d080dGZZaEZhWkFCVnVjNTBYQURrSWxXMFQ5dVhfc2VFWktrSzZGWlV6dXY3Znk1UDR3dGUzMXBNajM4dGhFUnVVX2pzRlFyd213Vlc2VEJPUFJuQkZrdzRjRl84d19WeDJJZk5OQ3lXZTFYODExanE4MV9xMEE?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWdoOFBWWXNuUEtXZ0k4QVlzSjcxM1hwYlBIbnU3bGFFdzdrZk5iSDNNQjFEeGI3TDBYaVVpSFZYSFRETWVfX0RjSUt6MkVCb3JqZXR2MnAzWTZpOHVfYUZXNmNzWmxjN1BGWVFEMTJGT2x2cXB6dVRwcXNDYms2cjRfempwSE9xY1J3d3o1RzZJZTdUVk91bUlNRzBlcDh4QlJGZHRUb2Q4U1FuZmN1eWpaTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNXUzeEZoUjNjbV9ibzZwby1xMFJKd3BXZF9qN2tOeWRLc1lqeUg5dXJrczcwdDdoMkh5RmxwWHJVbFE2UVpGYlpTaHg3WTVwWHlzWndKTUdEQTQ4TDFoYktoakNjai1sQ3hMb1FxWkJsbjY3V1k0LTM1OHlxd1ZMVmNrcUZRMUVpeHRBV1phbDdIQnFERUNFMldxaXBubmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiREFVX3lxTE9tQllPU2drZGZwWThiWU82Y25IcUhiYVZlSlUzc042aUZ4VWYwcFVUd3IxSFBydGJ4TjBTenhteVNHR3Mw?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX21EODFRUWhLakhDR0wzelVYYVlwRjNGM0QtTTNuckZob0trT3ZxOTlhaWthX0J2Y002NHJUcEFXVHg1X2Y0VmxBcFFxV0VTelY3cmh1a2dmOEJDR1N4Q1VDdTBSdkVVN0VlZDZ6TVc3OWcwSHdzTDBoeFctNHJZb3FRMlBzWEU?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0xoZzVYeUg0R051NVRpZTN2bjdjLXdReWdrZHlsUGZ4Umtjc0RFOGdDNmdydDh5YWJ0ZElpZFd2VmZYQk9QT0VSTGtEb1J5YUJyRVFpQl9ybmFsaHI1YWc5bkRray15djBheTB0MGgzVl9acEROQjc5alVHYXV1eFNxZUpfTUdwWnBvZGtWdktoUDg?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE15YUc5SnZWaXA0R3JOZnVlaDRaQzEyTmJJVWZVT25tZjFCUzRWV0Joc3ZMc1ZySjBPUERUWGxlS05Rd0ZkREdHRkxtY3VFTTJmcWtxMlhET01EOU04WF95dDlXWU55ZnZMblQ4azRURnQwVHo0VlFFWVlJOA?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV0dNSG83MFd5VzJmendiU0xiNFZRX25oRmdZWTRDYlYyNVZMek9URXljN2VWNjdrN0UwQ1VlZzR6ZmpseHEwTVpTZFF2b3JFQURJV2NGS2VQdTB4YVQxSUVVaVR2M1lra00yM3M3THVpTks4SjdsVDA1X3NLTkg3eDV5NVg2dTlaV2psN0FwemVzTjQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmhmNUlVY0JJTzZRZEhkMUJoUXdEUzFwY2w2ekhtU19xbm5SMUducXN0UWh6UWNWWEFMRm9ZWnZWUDFRQ2Q1RERkNkxiUG51Z29Sdlc5dk1BX1I1NVRveW9TVjNmSmwwRGZ4dmIydXVPcVRxdnByd2NXVUlzOWhOVEVFV3FuY3pZRVhMRlpQRQ?oc=5",
+    "https://www.vlr.gg/794054/zeta-division-parts-ways-with-ryota-mini-and-sugarz3ro",
+    "https://www.vlr.gg/794050/bonk-handed-four-year-ban-following-oq-cheating-investigation",
+    "https://thegamehaus.com/college-football/college-football-week-13-news-and-notes/2026/11/24/",
+    "https://thegamehaus.com/nfl/nfl-week-12-picks-against-the-spread/2026/11/24/",
+    "https://thegamehaus.com/nfl/nfl-week-12-picks/2026/11/24/"
   ],
   "title_hashes": [
-    "b45ece093aca7de025a1174a9d587816",
-    "248e17e74de8ec3baebce51002957a8d",
-    "073a07a55a8ce47f8ed7af52491c732a",
-    "bf4d52fcfeff0a7cf1a602a7a2ad8d97",
-    "45f1f651aeb2d1ae803d99c56d97123e",
-    "be5c52b8cf90ab6c330952f4a92b00c0",
-    "feaabd5225299a20c18af9cc4aada286",
-    "11bfd1ce55d6ef2f5d60cef6a86177dc",
-    "8857b59127d9d74c5c04e0f8f9e0c659",
-    "1ee4576233049a5479cd32587948a879",
-    "ccb2f64f1417ded22bf352cbeb119343",
-    "0d846a5e2d61e995264496c604976434",
-    "2bec6ad3d6a3e03a77d73b642f59032d",
-    "6663521a9625fb628076a879b074e5f6",
-    "02c8b73efd8dd033f07c4f3b42110ffa",
-    "0ff5c9f99fd31962667163b4e8c6b9fd",
     "eb401ebda65a196b7b41ba60c585807f",
     "77ba90783cb0c48858df49612a950836",
     "5b980bf5fc1b070a953c4787630bd841",
@@ -16001,7 +15985,23 @@
     "2cf0d4ad7f839a32d6ef6f18a53dd8a9",
     "05c9ccd75062ee09ae8214898806056c",
     "5e9146cc55964c225062dbf6879cd999",
-    "43b115fe81140f129d6fe5b3a5ad0dd6"
+    "43b115fe81140f129d6fe5b3a5ad0dd6",
+    "a7687454e2c35473f2eee37222e3f422",
+    "83b9b5156f2ff8f67815f149793f8709",
+    "1265f666fbec30ba5ae5cc96042a774d",
+    "8b380ca0735d5e03e102b76f2c1b1278",
+    "3f6f730d614819ef25934fecb7b717df",
+    "262f0c5a1fad977df94014e6027f4b3e",
+    "9e16358119cd64d2d21e6dca354edb5c",
+    "a1c49695bbfd0c24c295463b4196d6bd",
+    "54309846325eb0cbdc05426282abf870",
+    "51faf28da5360128aece892f65861482",
+    "c3c9099edab01bdafb1abc10fff20eac",
+    "f79e3039c7514484f68f66879c7c6143",
+    "502b65718cb1bd1fd37eb346f3dfde50",
+    "c71eaddd832265cc6f1566bd4df21518",
+    "c88dc11218668c663454ed36ac3eba90",
+    "fb408b11d9f0feb3cbbd5bc87dd5f1a3"
   ],
   "transfers": {
     "pages": {
@@ -20996,6 +20996,26 @@
     {
       "t": "1 100 2 2026 8217 best continue end five imperial major match meeting one pgl reading round run singapore stage take thieves winning",
       "ts": 1795539987.90583
+    },
+    {
+      "t": "2026 clears division exiting house its members mini nearly out parts ryota sugarz3ro team three ways zeta",
+      "ts": 1795539993.68173
+    },
+    {
+      "t": "ban bonk cheating following four handed into investigation out year",
+      "ts": 1795539997.4486306
+    },
+    {
+      "t": "13 around changes college conference country date developments football including injuries latest news notes other playoff quarterback stay updates week",
+      "ts": 1795540001.74313
+    },
+    {
+      "t": "12 against but enough even games hard here nfl picking picks season spread spreads straight tallysight tougher week",
+      "ts": 1795540006.0596838
+    },
+    {
+      "t": "12 articles can ditullio each even games here his joe make more nfl our page picking picks season straight tough updates week will",
+      "ts": 1795540010.528998
     }
   ]
 }
