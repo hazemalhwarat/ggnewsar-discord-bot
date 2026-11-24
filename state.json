@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27931/aniimo-launches-s1-part-2-update-adding-4-new-regions-and-51-monsters",
-    "https://www.invenglobal.com/articles/27929/lck-academy-series-second-half-league-playoffs-kick-off-oct-31",
-    "https://www.invenglobal.com/articles/27928/fatal-claw-adds-free-dlc-introducing-10-new-fusion-skills-and-3-difficulty-options",
-    "https://www.invenglobal.com/articles/27927/wemade-play-equips-anipang-4-with-proprietary-smart-match-3-engine",
-    "https://www.invenglobal.com/articles/27925/smilegate-hope-studio-to-host-5th-play-fungood-forum",
     "https://www.invenglobal.com/articles/27926/nexus-signs-agreement-with-dubai-media-council-to-foster-gaming-industry",
     "https://insider-gaming.com/new-mass-effect-was-canceled-in-favor-of-star-wars-battlefront-3/",
     "https://insider-gaming.com/the-legend-of-zelda-ocarina-of-time-remake-release-date-start-times/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/29029/tenebris-somnia-wins-three-horror-game-awards",
     "https://www.invenglobal.com/articles/29028/konami-group-to-host-the-lpgas-konami-championship-from-2027",
     "https://www.invenglobal.com/articles/29027/nioh-3-dlc-bloody-insurrection-launches-december-17",
-    "https://www.invenglobal.com/articles/29026/crimson-desert-enhanced-wins-at-tiga-awards-2026"
+    "https://www.invenglobal.com/articles/29026/crimson-desert-enhanced-wins-at-tiga-awards-2026",
+    "https://www.invenglobal.com/articles/29025/haksan-to-hold-winter-festa-at-agf-2026",
+    "https://www.invenglobal.com/articles/29024/k-games-hosts-forum-to-designate-game-content-as-national-strategic-assets",
+    "https://www.invenglobal.com/articles/29023/smilegate-unveils-booth-programs-for-agf-2026",
+    "https://www.invenglobal.com/articles/29022/t1-wins-owcs-asia-finals-4-1",
+    "https://www.invenglobal.com/articles/29032/lineage-classic-unveils-season-2-tria-new-rogue-class-and-naval-occupation-battles-introduced"
   ],
   "title_hashes": [
-    "625c29b3edca4a5d4eba68ea85c5ed82",
-    "25db148f31cab03a9f0d721647e40386",
-    "21200c6760e4727f6252c62e0e943889",
-    "f99a5cf0a260e12d92e36bc17b15f957",
-    "0f9e8c41f211a8bebb5bddb1c0c83873",
     "392042a761634612376b3d870dca3065",
     "04441b5829c6c4e23c6e9cfe4ad92701",
     "785545effc2f7d232efcaa22052fa985",
@@ -16001,7 +15996,12 @@
     "a6c7f78616439069c466df4b6ad50395",
     "acfa5559d2415f17d1a5822addfc30bc",
     "9cd6639eb8c21fa9e7deb17f1a00a844",
-    "c49c781ac2f4274dd12646e734400317"
+    "c49c781ac2f4274dd12646e734400317",
+    "f166dd93cf4b3feefb356486d3f06cee",
+    "c3cc278ee79e4007281254c3fb6f596d",
+    "7dce7d66c854fb99b5c8cd2ab2c1df09",
+    "d4ad3bef3c3e3b393a56a269af2b2ac8",
+    "733841c6106f06fa238bd80be895c19e"
   ],
   "transfers": {
     "pages": {
@@ -21076,6 +21076,26 @@
     {
       "t": "2026 abyss action adventure awards best crimson desert developers enhanced experts game games has hereafter industry judges pearl served tiga wins won",
       "ts": 1795500045.959842
+    },
+    {
+      "t": "1 2026 4 6 agf anime center company cultural december exhibition festa festival game haksan held hold ilsan kintex participate will winter",
+      "ts": 1795500051.5476227
+    },
+    {
+      "t": "aimed assembly assets association content designate designating exhibition forum game games hoe host hosts industry kim korea member national policy strategic sung together will",
+      "ts": 1795500055.1275017
+    },
+    {
+      "t": "2026 24 4 6 agf anime announced booth december festival game its november operate pavilion programs site smilegate unveils will",
+      "ts": 1795500058.6995459
+    },
+    {
+      "t": "1 2026 4 asia champions crazy defeating finals has opponent overwatch owcs raccoon score series set t1 their wins won",
+      "ts": 1795500062.3333144
+    },
+    {
+      "t": "2 battles class classic content has introduced its lineage mmorpg naval ncsoft new occupation rogue season set through tria unveiled unveils",
+      "ts": 1795500065.982787
     }
   ]
 }
