@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27926/nexus-signs-agreement-with-dubai-media-council-to-foster-gaming-industry",
-    "https://insider-gaming.com/new-mass-effect-was-canceled-in-favor-of-star-wars-battlefront-3/",
-    "https://insider-gaming.com/the-legend-of-zelda-ocarina-of-time-remake-release-date-start-times/",
-    "https://insider-gaming.com/original-call-of-duty-modern-warfare-2-rated-in-australia/",
-    "https://insider-gaming.com/chronicles-medieval-developer-at-risk-of-closure-before-release/",
     "https://insider-gaming.com/xbox-disc-to-digital-games-list/",
     "https://insider-gaming.com/gta-6-release/",
     "https://insider-gaming.com/the-bachelor-second-chance-video-game/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/29024/k-games-hosts-forum-to-designate-game-content-as-national-strategic-assets",
     "https://www.invenglobal.com/articles/29023/smilegate-unveils-booth-programs-for-agf-2026",
     "https://www.invenglobal.com/articles/29022/t1-wins-owcs-asia-finals-4-1",
-    "https://www.invenglobal.com/articles/29032/lineage-classic-unveils-season-2-tria-new-rogue-class-and-naval-occupation-battles-introduced"
+    "https://www.invenglobal.com/articles/29032/lineage-classic-unveils-season-2-tria-new-rogue-class-and-naval-occupation-battles-introduced",
+    "https://www.invenglobal.com/articles/29021/kiwoom-drx-signs-kof-national-team-player-lee-madkof-gwang-no",
+    "https://www.invenglobal.com/articles/29020/monmon-masters-tops-charts-on-both-major-app-stores",
+    "https://www.invenglobal.com/articles/29017/aion-2-addresses-player-feedback-and-reveals-season-2-roadmap",
+    "https://www.invenglobal.com/articles/29018/doomsday-last-survivors-collaborates-with-dune-part-three",
+    "https://www.invenglobal.com/articles/29019/tower-of-fantasy-releases-version-65-update"
   ],
   "title_hashes": [
-    "392042a761634612376b3d870dca3065",
-    "04441b5829c6c4e23c6e9cfe4ad92701",
-    "785545effc2f7d232efcaa22052fa985",
-    "a533bc583771b08cf8b6f7a3d11b1246",
-    "10d7703d421b407e71206565e2fb6354",
     "9d92861efab3dd5b75c863413ed4c42f",
     "7c4108a581cd00b839779a2725311f6e",
     "e0f986236788636115a69442130cba3d",
@@ -16001,7 +15996,12 @@
     "c3cc278ee79e4007281254c3fb6f596d",
     "7dce7d66c854fb99b5c8cd2ab2c1df09",
     "d4ad3bef3c3e3b393a56a269af2b2ac8",
-    "733841c6106f06fa238bd80be895c19e"
+    "733841c6106f06fa238bd80be895c19e",
+    "906f9385be2348f699f920b159474cf8",
+    "d16cc538892fc48420d8c518dce2d841",
+    "b3a078f458ec33db99cddf9d21bfc96b",
+    "0a76c8b2ff8a5a981ffd1c6b680b7609",
+    "8fa8498e832c633f2cc68241b0b95620"
   ],
   "transfers": {
     "pages": {
@@ -21096,6 +21096,26 @@
     {
       "t": "2 battles class classic content has introduced its lineage mmorpg naval ncsoft new occupation rogue season set through tria unveiled unveils",
       "ts": 1795500065.982787
+    },
+    {
+      "t": "2026 23 aichi announced asian drx games gold gwang has kiwoom kof lee madkof medal nagoya national november player representative signed signs team that who won",
+      "ts": 1795500071.505691
+    },
+    {
+      "t": "1 24 announced app apple both charts collecting foll game google its major masters mobile monmon monster neptune november play playhard popular reached rpg store stores subsidiary that top tops",
+      "ts": 1795500075.1743598
+    },
+    {
+      "t": "16th 2 addresses aion america arrives biggest complaints confirmed crackdown december feedback fixes has including laid money out player real reveals rmt roadmap season several that trading",
+      "ts": 1795500078.7902172
+    },
+    {
+      "t": "24 announced between collaborates collaboration doomsday dune igg last november part survivors that three",
+      "ts": 1795500082.4411364
+    },
+    {
+      "t": "5 6 behind chapter content event fantasy featuring four has introduces its limited main modes new released releases riddle simulacrum story theme time titled tower update version",
+      "ts": 1795500085.991487
     }
   ]
 }
