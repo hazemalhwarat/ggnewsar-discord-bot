@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27958/attack-on-titan-3-opens-digital-pre-orders-on-nintendo-switch-2-with-new-trailer",
-    "https://www.invenglobal.com/articles/27957/hunter-the-reckoning-deathwish-trailer-shows-off-its-character-creator",
-    "https://www.invenglobal.com/articles/27956/void-diver-closed-beta-test-begins-nov-2-adds-new-character-and-chapter-3",
-    "https://www.invenglobal.com/articles/27955/what-will-arthas-deathwing-and-sylvanas-look-like-in-forever",
-    "https://www.invenglobal.com/articles/27953/the-legend-of-zelda-40th-anniversary-edition-i-fall-in-love-with-the-switch-2-all-over-again",
-    "https://www.invenglobal.com/articles/27933/justices-gta-vi-original-score-featuring-30-tracks-releasing-december-11",
     "https://www.invenglobal.com/articles/27931/aniimo-launches-s1-part-2-update-adding-4-new-regions-and-51-monsters",
     "https://www.invenglobal.com/articles/27929/lck-academy-series-second-half-league-playoffs-kick-off-oct-31",
     "https://www.invenglobal.com/articles/27928/fatal-claw-adds-free-dlc-introducing-10-new-fusion-skills-and-3-difficulty-options",
@@ -7999,15 +7993,15 @@
     "https://www.invenglobal.com/articles/29036/tfts-ionic-spark-to-release-sparkle-on-december-1",
     "https://www.invenglobal.com/articles/29035/soop-launches-ai-search-feature-to-locate-specific-vod-scenes",
     "https://www.invenglobal.com/articles/29034/2026-steam-awards-celebrates-10th-anniversary-open-for-nominations-until-december-1",
-    "https://www.invenglobal.com/articles/29033/lineage-classic-exceeds-expectations-cbo-sung-gu-lee-says-season-2-is-where-it-truly-begins"
+    "https://www.invenglobal.com/articles/29033/lineage-classic-exceeds-expectations-cbo-sung-gu-lee-says-season-2-is-where-it-truly-begins",
+    "https://www.invenglobal.com/articles/29030/mgame-officially-launches-martial-arts-idle-rpg-ghostsoul-idle-rpg",
+    "https://www.invenglobal.com/articles/29031/eos-black-unveils-new-boss-dungeon-temple-of-chaos",
+    "https://www.invenglobal.com/articles/29029/tenebris-somnia-wins-three-horror-game-awards",
+    "https://www.invenglobal.com/articles/29028/konami-group-to-host-the-lpgas-konami-championship-from-2027",
+    "https://www.invenglobal.com/articles/29027/nioh-3-dlc-bloody-insurrection-launches-december-17",
+    "https://www.invenglobal.com/articles/29026/crimson-desert-enhanced-wins-at-tiga-awards-2026"
   ],
   "title_hashes": [
-    "690b2163a23bfd32f27cbb2da64a4c27",
-    "6ac887346dc5e1fa0d7eb787a107b8d3",
-    "ed48771a3b240213cb47b3aae8aabb92",
-    "9382b9bf040b9bd7dde79740b3c9d240",
-    "740a2e7a045340570c994d4e0af679b7",
-    "1cad03b8f13bcd7cbd7acd94935a3430",
     "625c29b3edca4a5d4eba68ea85c5ed82",
     "25db148f31cab03a9f0d721647e40386",
     "21200c6760e4727f6252c62e0e943889",
@@ -16001,7 +15995,13 @@
     "045069a0e560b9b0e5d626346ebb66a9",
     "e5411ac42d60b615ed001011e0c2b1cc",
     "ba9cb4b070887cd19075a23d5618eadf",
-    "adecb833fea3244906f449217364a533"
+    "adecb833fea3244906f449217364a533",
+    "cc01883790e2b0f1cce38529b0a6f8c3",
+    "e56003094c55d42f9cf8c8d7485bec36",
+    "a6c7f78616439069c466df4b6ad50395",
+    "acfa5559d2415f17d1a5822addfc30bc",
+    "9cd6639eb8c21fa9e7deb17f1a00a844",
+    "c49c781ac2f4274dd12646e734400317"
   ],
   "transfers": {
     "pages": {
@@ -21056,6 +21056,26 @@
     {
       "t": "2 23 ago begins cbo classic exceeds expectations has lee lineage original records says season set sung surpassed truly where years",
       "ts": 1795500025.7739205
+    },
+    {
+      "t": "00 1 24th app apple arts developed ghostsoul google idle its launched launches martial mgame million officially one over participated play players pre rpg self store",
+      "ts": 1795500031.3464556
+    },
+    {
+      "t": "24th added announced black blomics blue boss chaos dungeon eos games has jointly mmorpg new potion serviced temple that unveils",
+      "ts": 1795500034.9653552
+    },
+    {
+      "t": "2026 argentine art awards best direction game horror including indie prizes somnia survival tenebris three wins won",
+      "ts": 1795500038.705988
+    },
+    {
+      "t": "2027 association championship event golf group host japan konami ladies lpga official only professional serve special sponsor will",
+      "ts": 1795500042.3269968
+    },
+    {
+      "t": "2026 abyss action adventure awards best crimson desert developers enhanced experts game games has hereafter industry judges pearl served tiga wins won",
+      "ts": 1795500045.959842
     }
   ]
 }
