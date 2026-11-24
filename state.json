@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hN1pER3VXU1pBU096aHNWd09sSm81UWFucUc5QzNxT0NhUk9RcVVYRzBNMFVOY3JhX2ZHdS1MdkZxYTVOd3JKY0pzX1R4NmVBdmc?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05UXA0d01LTHBXaU85M1ZocW96MnJtT19POXdEdFBFNzdMZk9GUkNxTzJVRjZOQzF6bHRNNHVRRTVwOW92WG9qNTlFYzdWV2ViVGYzWFMxLURlTlpSZGs0Tng4dU1ydzJ0?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXc1R3RzeDh3bUpaZjQwX2ZIR01GcmVJNWVfemNRWEZIWVUtTURvSlB4cG45ZGRQcHNUZWJvdG5LUFRaQkdnMmxxM1N4RDlMMVR0MVZYQW1lRUZ2VG5HQWdxSHoycFFyeU93QUw3QkxpY3FXQlItNnQxRS01OE1SRW9DNzQ1T3ItaGNR?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUNSRjEwaG1fT2FueDJZQVowZTV0RVZ5ay01T1ZXbUZiVWs5NV9YUFFBZHNDbzB6elVqeU9uNHRmQkpnUU5ab2swR0ZRcGoxTEhjMGRXeWVvZUlHLTJpaFBhWXJMMmJNb0V5OEN2QmtiTjlQTDZuTkItVENZbzBwTGFKZFVFUlRicHZYcQ?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzRERjhNZER6ektXNk5UTEdRWFFCUkhaaDRvVVVNNWpES1kzM0xRc1B5eTVoSmtEbjZQNjRuSWxUanFFTTVKOFJrWDlEc0ZfbGNaZWxmMzJ6ZUxDcjI4UGc4VFAxRmw4bXRJM01GT2pBSlhMNjhwclVGSmtxVEZ6VUVzNzhvbW1VX2xDbENHVXJlb1dRWVNfcjJjNmljMDA2OHphMlhlZWUwSWJ0NnU5N0stcFBhNkU?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTlc0Q3I0cVJGYmk5UTZIYXlxOWVYNFg2d2VSeG82TVM0Q1pRVjNCNUpta2pvaHMxWmhBbUZqMmdRY1RVWmtuZFJXVjJqSHRSdERhSXU1TjY1Z0U2c2xpcVdaMFJidkhfZ2NrTWYzem1wUEh0Y2ZBS1JScGN3aVdCUWpYRWdVZjdQME1HSWxvZzRoTmZCQmc?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbWdoZTRVVkc4dEpoWFo3ZGR1dzF1aXM5MXZtbHB6SkEwYXB3MkVTNnByT2FBQ0N4ZHc1VldnQkZNNmpua2ZNRG11eVpOVDUzNHdTLTBsNzRuSWRmZ3g1dFptdm1LN0VQalo0bFkzeXNUT3YtVVdTNEJLY3lCVW9Edk01R2JIMmJySi0zZWxaeFlkZDhvRGxESnBiY2VSbFV0MlJKaWp1d2RGS3lBYVBGUkkxUnVDYU5lS3l1NGs5VWLSAcQBQVVfeXFMTkIxa1hWOXpGQ3lvQy1nQmk2MldkLXpBdkFfWGstN05xQkpMLVRyX1FPYWljOTd4elhqTjBtTGFDUEJ0OEZpdmJaMC1CYzhueUhoUmgzWXlDaHlxckNXaTJPYzhkR2JETTY4QmFmOXNHU1NLUTdYR3dwcl9UZHVDU0xSemVrbUtoMmlXOEJFcXNSMVhYSDlGWkFBb2Z1VFk5T1U1YWFmaG44c0NFS1NXRTRTMnQzcllkU0tQNWZUR19scFA2aA?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlY1YUZkY1NoQVZLRTFrT0tIUTg1Q2hocFNFc3NiN3RmRHhjUUxSMDZzMkhNR3pZNlJTdV84bW5JQzhZWE94VWd6TVZZWnJ0UXZCcWhnU1JmV2lhVllGdUpFbGoyd1pOdVdrRXVySElvRlRGdGhDcWVGTjhxSU1jNjQzUlh0QVQ5Q0IyeE1QUXE?oc=5",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aWllNVUVibDVaNmJQQlVSbTZqTThDV1JaWktYZUFwS3dkVUdVam9laDNMTGF0ZWJraVJrYmE3Y2xaUU9EVzlNaExQUEpINXZNQVVWMHd4R0d2YzQ1czk5b3NKMA?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzLWFESFpzYlVGM2M0d1NxemJFMG5uckxvbzlvM2NoVmxibjZScHhLSlRHTTQzOG1hRlJSV1JWb0hiNFpjVVJsVzE4MzNBVFl2QzZ3THc0UmhXYjB3OGZCZi13V2FyZw?oc=5",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SVUo5RFNjR214S0thTzRNbVVXTU9YTDBjRm1uQ0pSR0tQTGdkbHlZZEtUYmQtRVJjSGNGUkxoVV9NWGtRSmRBTjRwazFoWms?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.vlr.gg/794050/bonk-handed-four-year-ban-following-oq-cheating-investigation",
     "https://thegamehaus.com/college-football/college-football-week-13-news-and-notes/2026/11/24/",
     "https://thegamehaus.com/nfl/nfl-week-12-picks-against-the-spread/2026/11/24/",
-    "https://thegamehaus.com/nfl/nfl-week-12-picks/2026/11/24/"
+    "https://thegamehaus.com/nfl/nfl-week-12-picks/2026/11/24/",
+    "https://thegamehaus.com/gta-6/best-gta-6-graphics-settings-for-ps5-and-ps5-pro/2026/11/23/",
+    "https://thegamehaus.com/gta-6/best-gta-6-graphics-settings-for-xbox-series-xs/2026/11/23/",
+    "https://thegamehaus.com/gta-6/all-gta-6-unique-weapons-locations-how-to-find-them/2026/11/23/",
+    "https://thegamehaus.com/deals/pokemon-30th-celebration-ultra-premium-collection-day-vs-night-which-should-you-buy/2026/11/23/",
+    "https://thegamehaus.com/pokemon/pokemon-countdown-november-30/2026/11/23/",
+    "https://thegamehaus.com/college-basketball/college-basketball-picks-week-of-november-23/2026/11/23/",
+    "https://thegamehaus.com/college-football/college-football-week-13-picks-against-the-spread/2026/11/23/",
+    "https://www.hotspawn.com/league-of-legends/news/lcs-2027-roster-tracker"
   ],
   "title_hashes": [
-    "eb401ebda65a196b7b41ba60c585807f",
-    "77ba90783cb0c48858df49612a950836",
-    "5b980bf5fc1b070a953c4787630bd841",
-    "c5389b25ff0e504ddc3966c998fe8416",
-    "eb2d394bc396a61e6786ee69c08e8531",
-    "2e408c00e90824199d0ab405a5c5a75c",
-    "db56f8d64d15ec267dddcef89b71771d",
-    "96b6b8d86668e7471bc7ceeaf8783796",
     "82c2e10e9a1e659307214ba9d3bfa0e6",
     "657fb9b92dca8da185602074391b5a47",
     "198e9fbd01528516f49f7f8f745d8ca3",
@@ -16001,7 +15993,15 @@
     "502b65718cb1bd1fd37eb346f3dfde50",
     "c71eaddd832265cc6f1566bd4df21518",
     "c88dc11218668c663454ed36ac3eba90",
-    "fb408b11d9f0feb3cbbd5bc87dd5f1a3"
+    "fb408b11d9f0feb3cbbd5bc87dd5f1a3",
+    "5e63d29727455d8a38072e02c580f990",
+    "cfc936e1b067da47f21f0b4a8ae7135e",
+    "ee8a0e35f75918376e1733f8937432a4",
+    "e59e2cfaa35067f30c014f78a8ad9341",
+    "87cbc70af1b76e1c27e31e365b69491e",
+    "41156ff958aae64a84d0b01bb80acb13",
+    "6f5c658b908a08c02ff21c79af123dbb",
+    "5ffbcdcea5e38a20c81a3c3f09d2d50a"
   ],
   "transfers": {
     "pages": {
@@ -21016,6 +21016,26 @@
     {
       "t": "12 articles can ditullio each even games here his joe make more nfl our page picking picks season straight tough updates week will",
       "ts": 1795540010.528998
+    },
+    {
+      "t": "6 all brutal cash different enforcement feature find grinding gta has how into law locations more much new off pulling recognition six star system thanks them turned unique vastly weapons world",
+      "ts": 1795540018.7144177
+    },
+    {
+      "t": "30th alike anniversary best bring buy celebration collection collectors continues day ever have night openers out pack pokémon premium products seen set should some tcg ultra which you",
+      "ts": 1795540023.5107274
+    },
+    {
+      "t": "10 2026 30 30th anniversary ash been between countdown dropping exact follow gen going has hit hours images ketchum november number numbers pokémon posting posts presents that these zero",
+      "ts": 1795540027.1288557
+    },
+    {
+      "t": "23 basketball big college games has here november overall picked picks plenty record season started that there this week will year",
+      "ts": 1795540030.8299475
+    },
+    {
+      "t": "2026 2027 already based being big built coming end every exciting have involved lcs lineups many most moves names offseason rating roster rosters season shaped team teams their this tracker",
+      "ts": 1795540034.5385914
     }
   ]
 }
