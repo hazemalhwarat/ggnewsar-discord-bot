@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/xbox-disc-to-digital-games-list/",
-    "https://insider-gaming.com/gta-6-release/",
-    "https://insider-gaming.com/the-bachelor-second-chance-video-game/",
-    "https://insider-gaming.com/is-the-gta-6-south-park-gameplay-footage-real/",
-    "https://insider-gaming.com/golden-joystick-awards-2026-all-award-nominees/",
-    "https://insider-gaming.com/modern-warfare-4-devs-have-secretly-increased-pvp-in-dmz-its-claimed/",
-    "https://esportsinsider.com/2026/10/karmine-corp-sweep-ctbc-flying-oyster-to-end-two-defeat-run-at-worlds-2026",
-    "https://gameriv.com/planning-your-fractured-archive-progress-in-osrs/",
-    "https://gameriv.com/thumbs-instead-of-mice-how-big-screen-games-learned-to-fit-in-a-pocket/",
     "https://www.hltv.org/news/45861/nemiga-stun-vitality-2-0-to-reach-pgl-bucharest-final",
     "https://www.hltv.org/news/45859/live-updates-from-pgl-masters-bucharest-semi-finals",
     "https://www.hltv.org/news/45851/maka-we-had-like-1-hope-and-i-truly-believed",
@@ -7999,18 +7990,18 @@
     "https://www.invenglobal.com/articles/29020/monmon-masters-tops-charts-on-both-major-app-stores",
     "https://www.invenglobal.com/articles/29017/aion-2-addresses-player-feedback-and-reveals-season-2-roadmap",
     "https://www.invenglobal.com/articles/29018/doomsday-last-survivors-collaborates-with-dune-part-three",
-    "https://www.invenglobal.com/articles/29019/tower-of-fantasy-releases-version-65-update"
+    "https://www.invenglobal.com/articles/29019/tower-of-fantasy-releases-version-65-update",
+    "https://www.invenglobal.com/articles/29009/webzen-adds-new-legendary-equipment-for-9-classes-in-mu-online",
+    "https://www.dotabuff.com/blog/2026-10-29-gameplay-mechanics-that-could-fit-dota",
+    "https://blog.counter-strike.net/2022/12/40704/",
+    "https://blog.counter-strike.net/2022/12/40708/",
+    "https://www.hltv.org/news/46035/saadzin-against-eu-teams-its-a-chess-game",
+    "https://www.hltv.org/news/46036/lynn-vision-prevail-as-9z-losing-streak-continues",
+    "https://www.hltv.org/news/46034/imperial-upset-heroic-in-singapore-major-opener",
+    "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
+    "https://www.hltv.org/news/46032/pgl-major-singapore-stage-1-day-1-highlights"
   ],
   "title_hashes": [
-    "9d92861efab3dd5b75c863413ed4c42f",
-    "7c4108a581cd00b839779a2725311f6e",
-    "e0f986236788636115a69442130cba3d",
-    "3c55f9e9fe89c99e1d8645f838596dda",
-    "bb7c99091be18d8d57c2c0183549cd61",
-    "0d2aaf06a0e53a73c44c180e64697ea2",
-    "ff15998f8ca1a2539a8deaacfad8c83f",
-    "200b6b879dd6c8a32d7dac39763bd734",
-    "af77eebe00aa0a3b21f0b485ce594b30",
     "12cd3e0f2e557e52e1041a6116e32498",
     "262f0c5a1fad977df94014e6027f4b3e",
     "d610ecb00183c1f2dfd703881fc10bd8",
@@ -16001,7 +15992,16 @@
     "d16cc538892fc48420d8c518dce2d841",
     "b3a078f458ec33db99cddf9d21bfc96b",
     "0a76c8b2ff8a5a981ffd1c6b680b7609",
-    "8fa8498e832c633f2cc68241b0b95620"
+    "8fa8498e832c633f2cc68241b0b95620",
+    "685acdf6805977a4fe0454ea4ad9e37e",
+    "609c03eb03378ae43eed93792adc4322",
+    "e0f986236788636115a69442130cba3d",
+    "3c55f9e9fe89c99e1d8645f838596dda",
+    "373d77ef569b0d311065db89c5a61598",
+    "63819147c92bea5f27b0f6a6911cc33c",
+    "b52d75da0bb8904819d57a402667b8e7",
+    "fa90e505fa3f95bb7f8746408337e8f9",
+    "19b71b574a803ee2055bb94738668e7c"
   ],
   "transfers": {
     "pages": {
@@ -21116,6 +21116,26 @@
     {
       "t": "5 6 behind chapter content event fantasy featuring four has introduces its limited main modes new released releases riddle simulacrum story theme time titled tower update version",
       "ts": 1795500085.991487
+    },
+    {
+      "t": "against available awper chess company europeans experience game given imperial playstyle saadzin suits teams their thinks vini wealth",
+      "ts": 1795500091.6443138
+    },
+    {
+      "t": "0 1 8 9z after american continues losing loss lynn major narrow now opening pgl prevail round side singapore south stage streak vision",
+      "ts": 1795500095.2257502
+    },
+    {
+      "t": "0 12 fall heroic imperial lost major opener rounds row singapore upset",
+      "ts": 1795500098.852
+    },
+    {
+      "t": "1 action behind ground home major our pgl scenes singapore stage welcome",
+      "ts": 1795500102.5812352
+    },
+    {
+      "t": "1 all best broadcast check day highlights major one opening out pgl place plays singapore stage",
+      "ts": 1795500106.178328
     }
   ]
 }
