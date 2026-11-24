@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Wb2FsbHFJMjRwWnhOT3JkTFlubHJNd194U0wyQVc0TWxsNGlfMFdrWkhYZVFiRk44MGtvVWRJNy1NUldZNzZsR1JYVm1PUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Pb2t4RFF1WVhaV292UzJUaDNwWk1IZTR5M0pTV3Q5WW0yS1RUR0QwQ2FCQXlicmgwQ040bldYTVFvM2VJeDJsVDdRcmtvYkg2dlJDUjlKcEY0ZVpTRXFBS0RHc3pmUndu?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2Y2RyZWF6bGUtZFc3OGRfRTNxV0ZYbFdmY2hhRVdxZFZfbDJidzMzZy1wVktJSExRYTFWQlBXZlpQeVJJY1ZtRW94SkNTRVN4OUNkSFdWbzRYRHYzYzB4T0h3?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54SGV0RlVlUEd0SU9RN0JxS1FTeThSLS1rZjBpeGZWMy1EMnhhTHRvWllGRzg3MmZETkQ0bG40VlNTZWRveHFEdVU1eVM?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jOWJQQ01EdkdoWjM0dXY4d0JES0JkeHNoSHhmRWF4SEI0N3VWdDBVeFdlYkNVUzd0bGtoZzhuT2xOdkVLc0ZPWFF2SmhfT3loY25JdExtd3RNZw?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFA3WlZ0Mm1OckhJMFl3LVNiR2ZIU0pGYkJxd2VOVV9nSDhQanlRYmJFVGVDZWxJdGE0LUptS1JWWGNnUDJVcVZEaktvZXFJZFJMcE1kYmJjNV9iUzYwTGppUjNHTkFhTk9qZl8xeXJKSWREQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11ZkFaVWQybGFwb05KdkE2elBnZldmZ21RY0E1RGhyTURTXzJNVWZySnIzNjJkZmJZT1VBY1ZQSmFvbHVwZ1ByQjdaTDZ6YUI0WVhqeg?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Mb2EwbWN2N0VWSWx5YzlNZ1lJcnhGcWkxNDJ3ZmlBTGd2MXhPVzBWOW0zR3Mwc2VDQlJsY01EYl9RNDlMUTJOdzFfMi1mRmQ0TkF3b25JQ0Q5bGZTV1BjRmthQThPWV8yNmExY1NoR1VBUjZEb1ZZNA?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE9jSFJsSUt1NHA3cWUyS0lrdVZkV1R5ZmZ6UzhlaGl4dUpmNFBoeGRsZF9qZ3Rsa0tyTmp2Sm0xRHpjNTBuY1FLQnJKczFWZGFrSjROQXB1STN6THBSQVlQRWNKODVOY2wtbGJQWEhIVnFBZw?oc=5",
@@ -7999,14 +7993,15 @@
     "https://esportsradar.gg/team-liquid-and-friendly-fire-ink-10-year-gaming-cafe-licensing-deal/",
     "https://www.gamesindustry.biz/you-are-still-taking-100-of-the-risk-why-cairn-dev-the-game-bakers-backs-self-publishing-for-all-but-the-smallest-developers",
     "https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors",
-    "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever"
+    "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
+    "https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oTlN2OHd4T0NVbDZ3OXpQU1A4SlVTZDhyRWJieENFMTNFNnJ2RlpkQjdfX1pEYUt4cWszdEsxRV9uU2pnY1AwMThQSGszTklsVGNDdG5OV0JsRGx4bF9waQ?oc=5",
+    "https://europeangaming.eu/portal/latest-news/2026/11/24/218718/bulgaria-gambling-ad-ban-consolidated-bill/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/24/218709/evenbeter-headshot-state-of-igaming-teams-2027/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/24/218700/portugal-online-gambling-winnings-tax-rejected/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/24/218679/christmas-slots-greentube-evoplay-bgaming-familiar-features/"
   ],
   "title_hashes": [
-    "0ba3022f9b21bafd9a87982ecd9eba53",
-    "a209bda7e0dd48fd8f83bf7e23197d3c",
-    "503742bc56fa5f8e4ff9bf9e65afc4dc",
-    "3e201c7346a918f705af637cea230380",
-    "54a2098555d675576705a9eb72b564c3",
     "a7ec183e2eee077b7886a8be12775948",
     "bdc245c9ab02dabb5c56b0a447a9bc7c",
     "ec14e5d18c4467b2fe21fae6944ba5a8",
@@ -16001,7 +15996,12 @@
     "7ce4bb038d98caa63af6366aacc6bfd6",
     "f2585e5eea9360a4647f786d283fa682",
     "eba6d2b1650bfa6dbfb25fb81875bf21",
-    "0383f602d6c2843258f43977cab472a8"
+    "0383f602d6c2843258f43977cab472a8",
+    "beb1bcd4f1d0d0b25600faedc7b3ef38",
+    "2addad7bcd5cf05b0a7f6c8f87fdd735",
+    "945584291fe812dc48be98f963d457a8",
+    "8c0a69d76b586182a1513acfa6d6cbfc",
+    "514da1f16bb3dfc03f976b4be70c575c"
   ],
   "transfers": {
     "pages": {
@@ -21096,6 +21096,26 @@
     {
       "t": "6 biggest but came christmas close come concurrent declared did driving early ever firm game gta has highest history its largest launch not number platform players playstation record sony that",
       "ts": 1795540097.6725774
+    },
+    {
+      "t": "2018 2026 260 action agreed apply apps august between can claim class content developers games google july million mobile now play pound released settlement share store their who",
+      "ts": 1795540106.3253498
+    },
+    {
+      "t": "8217 8230 advertising ban becomes bill bulgaria choose gambling have keeps law lawmakers make merged mps now one option post settle three versions which wording would",
+      "ts": 1795540109.8980424
+    },
+    {
+      "t": "burnout evenbeter finds headshot igaming keeps manager mos most offers open pay plans poor post professionals relationship rise staff stay study tempts their weaker while",
+      "ts": 1795540113.5316253
+    },
+    {
+      "t": "8217 8230 after bettors blocked casino coalition free gambling keep licensed livre online parliament plan players portugal portuguese post rejects ruling sites tax their winnings",
+      "ts": 1795540117.1248307
+    },
+    {
+      "t": "8230 around bgaming booster build character christmas evoplay familiar features festive format greentube have post releases series slot slots studios their three wrapped",
+      "ts": 1795540120.7415829
     }
   ]
 }
