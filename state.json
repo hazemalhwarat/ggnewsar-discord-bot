@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE80MVozYVhGQnBlQkFtcVpLUGY2eVdpclIxYUM4ZjJyZkt5OGFqbnRYTVRBUXJyQTVJTGRVMzZZeXJHSXJLUkRydlVjZU5FSjlUdDlBZXdyNXNUejBldEtYQjhROUZaXzJHWHFkZ2RhUGh3a2FHVy11Z24zUXExNms?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZGJLdFhQeUFQV0p3Q25pS1NJY1RJd2txcnc4WU82RWdtWERwZm9ranZacUgtWDlUN2hvTHQ5a1dNblB4YzV4bzZYSThSRkRXMHI2LUQ2dElfcWxBelhUam9KdUl2RDhqaTI3SDk4T1FOOFJIMm9TcnhzaUlsT3ZLemJHcnl4OW42aUdGNg?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBUdzVBUVUwX2pQUXFucGtnZm1WaUFac2RIZFFFclBLM0psRlNOa19rWHI3clpiYXJneWpsMy1YUlBFeTItQ3lGN3prZldCVk11MDhVYWhxZkFBeTU2QmlIdmpSNUEwbHBkazMyekJYRmMzQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9peHdrREZkZWlxVmZUY1lHT3BiN2d1QjdLalVrb05oeEpLOXBKVnNyVGpyb1AyNjNROGlwaUlvSXRuMHB6UlVfTGpwMVZNUTgxU250bEZ2WGRQZ0owbnBreGJR?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkdVdU5XeF9FTlJxNldzejJhWjkycnJTMUlRWUtBU1RJdnhhSW5Ob19tUk9yUnUybzRmNFhIUDI5LWxrdWtoVVE0SWxtN2VDdU9QTTRaM3VuWjJRNkR1clkzNWEtb3VfNERwNFhPM3RCYzBQUElTNml0SlRJSUZ4eExSYlFvZw?oc=5",
     "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PbkhxNFdHc1FmY2FCUHhOS19uSFdJdVU3UW1BcS1LWE1ZaE5Ndl91OHNuNjgxakk4dGhTa2xaN1g4ZGcwNVRnMw?oc=5",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zSUhGWVFKMDdSalZKQlItV0tqNjNhX3AwVnN1RFF3QTF2aVdHbzEwb044X0R6akZJdHhmc0JJaDNlZ1lvVU9ILVpRME9pQ2lwdmxqVA?oc=5",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5SHFJN3JaWkwxVGg4UGl1TjBaNjJCNzRSWmFoRmhFam5nMDV5djhETGJvYllBTVpaWGtzQ2t6a1RPaDVscUZRM0ZBNGpQS3M?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/46043/singapore-major-stage-1-day-2-matchups-set",
     "https://www.hltv.org/news/46044/twistzz-leads-the-way-in-fazes-drubbing-of-bcg",
     "https://www.hltv.org/news/46041/m80-extend-9zs-woes-to-move-into-1-1-pool",
-    "https://www.hltv.org/news/46040/chr1zn-its-the-first-time-we-have-the-pieces-to-push-for-a-little-more-than-just-being-at-events"
+    "https://www.hltv.org/news/46040/chr1zn-its-the-first-time-we-have-the-pieces-to-push-for-a-little-more-than-just-being-at-events",
+    "https://www.hltv.org/news/46039/faze-to-play-bcgame-as-round-1-ends",
+    "https://www.hltv.org/news/46038/wildcard-send-faze-to-0-1-pool",
+    "https://www.hltv.org/news/46037/liquid-annihilate-bcgame-13-1-in-singapore",
+    "https://www.esports.net/news/gaming/spirits-420550-forfeit-shrinks-esls-2026-club-incentive-as-navi-tops-the-standings/",
+    "https://esports-news.co.uk/2026/11/24/imperial-end-100-thieves-five-match-winning-run-at-pgl-major-singapore/"
   ],
   "title_hashes": [
-    "5200e2347f74205ec6c3fa8f3022b50f",
-    "8a831059affde33e116f7c3090747895",
-    "2de9498a716f40366c91f998fc45a542",
-    "44e46bc2b38dffe3f49cad070f1f6278",
-    "cf5691257c57457140b58a7f94b084bd",
     "b45ece093aca7de025a1174a9d587816",
     "248e17e74de8ec3baebce51002957a8d",
     "073a07a55a8ce47f8ed7af52491c732a",
@@ -16001,7 +15996,12 @@
     "5bcb200c303f99ee0f2d763e97d910ce",
     "431ec3bb7d45494a383f7cbbbe77d9d8",
     "5e9a0a476d416c3bea390d366e62c6ad",
-    "d9b89cb57eb251a8b4ca6998900156a7"
+    "d9b89cb57eb251a8b4ca6998900156a7",
+    "a286ea68010ef377d8960e14b794386e",
+    "2cf0d4ad7f839a32d6ef6f18a53dd8a9",
+    "05c9ccd75062ee09ae8214898806056c",
+    "5e9146cc55964c225062dbf6879cd999",
+    "43b115fe81140f129d6fe5b3a5ad0dd6"
   ],
   "transfers": {
     "pages": {
@@ -20976,6 +20976,26 @@
     {
       "t": "against back being bounced chinggis chr1zn events first getting have heroic imperial just little loss more pieces push than time track warriors",
       "ts": 1795539967.2347558
+    },
+    {
+      "t": "1 day elimination end ends enter fan favorites faze game one play round singapore two will zone",
+      "ts": 1795539973.1578834
+    },
+    {
+      "t": "0 1 against both but convert failed faze force pistols pool send wildcard won",
+      "ts": 1795539976.90898
+    },
+    {
+      "t": "1 12 13 1v3 annihilate clutch death didn game left liquid naf record round singapore until",
+      "ts": 1795539980.616939
+    },
+    {
+      "t": "2026 420 550 annual club declining esl events faceit final finished first forfeit group incentive its kept lost many money navi out pool projected share shrinks spirit standings team that too tops while",
+      "ts": 1795539984.2868397
+    },
+    {
+      "t": "1 100 2 2026 8217 best continue end five imperial major match meeting one pgl reading round run singapore stage take thieves winning",
+      "ts": 1795539987.90583
     }
   ]
 }
