@@ -1,15 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11ZkFaVWQybGFwb05KdkE2elBnZldmZ21RY0E1RGhyTURTXzJNVWZySnIzNjJkZmJZT1VBY1ZQSmFvbHVwZ1ByQjdaTDZ6YUI0WVhqeg?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Mb2EwbWN2N0VWSWx5YzlNZ1lJcnhGcWkxNDJ3ZmlBTGd2MXhPVzBWOW0zR3Mwc2VDQlJsY01EYl9RNDlMUTJOdzFfMi1mRmQ0TkF3b25JQ0Q5bGZTV1BjRmthQThPWV8yNmExY1NoR1VBUjZEb1ZZNA?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE9jSFJsSUt1NHA3cWUyS0lrdVZkV1R5ZmZ6UzhlaGl4dUpmNFBoeGRsZF9qZ3Rsa0tyTmp2Sm0xRHpjNTBuY1FLQnJKczFWZGFrSjROQXB1STN6THBSQVlQRWNKODVOY2wtbGJQWEhIVnFBZw?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xVXlEMkk3NTJJZThyUnVzMkpEaktOczJlVnQwLUo4Y1hBcVZLdGRMTU10RWFWZWUwOVdGTVFqbzNXeWZBQ0dFWDBiMXp2VjRzNHNkZnRnc2x6ZlNnb25JaXB0QXlHMTdwaXl3?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hb0RqMUE0R2tEb250V0YySWp2aWMzNFgtUVVGVm0tOFVHcVlnQ0FTUTNWNkp1Z2M0YWdjZlJfdmVHWE5URURNWWJZLXZGbDVqekNfUUM0MlI5Qk1iVWkxTy1tQ25VS1lhWmYxQkdB?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hSVZVS3FUbXlLeHJVV2luTGlwS0M0ODNqbTlJZS15UGtUczk2U2RXaVQ1NEVXLW9ZVm9uNzRQU1Nkb2VLX0xoRUVXbV9vM1BPZEdUTy1NN25zOXFTSkpLMFRSM2hYbXluNWhjZUphLVkyNDFjNVE?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYNGJTb1RtVi1faEtkc1VVVDh2SEcyYWFzUEhpVW5hTzROVS1tSjZKcVBTbHVObXctVGFseXo5YVpVQzZsUU1zNjFvMmNPTE1DVXpyRUI5UllITDFrcEFMZDlpZlVWQ09ZTmF1R0ZJQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUh3TXJNaGFIZnRpc3VySHNNZlk3SG5zTF9VeFQxbmQ2VFdocVM2OUVxRHAwSTc3VjF5MTFfWDNTOG5naUwyNkQyNEY2TFRvVVRWT0dsZFNBUURFUndYdkUtekx5cExiRlk2aDZiTzNsbm04LU1OMlp0VTdhQS1ZOTJSdHE?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlYXhnMFJmSkg3QUdINE9OMFZobFBkdXp2aTFmYXltMG9XaUFLcFpwaTFJTG1TWnoyQ1dHVU9keGgwbXNYOHpjUERNY0NhN3JzQThPbm1rRWlYS3JCdzBtdk9XUWNHbG5Q?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBblJIdF9JalVubWdSdE5OSjhzU2p0NXZaUWFPTmw2TEhjWmdaS3gxUlBUcW9RTThBMElYTGRuY0NYR2otVWlJYXktbGdQd1JQOUJFU3g0bzd4RzU4QlNWU1lFUmlJOXlfU0ZfREZsOGtFalVuSjliTF9R?oc=5",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NRS11NFZ2RzM3c1BUajVkclFTNFpuUEp2a3AzakxGSmtYX04xbDFkRmVWVE5VQ2htNjlmYWFtSUVvd0pqUmZ2SU9ObFhTSzZGamt2RHk0S1E?oc=5",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHRTc0ZmVZWU53Z18tVmtIQ1JhY3FPUmdhYlF6RXZRWHp4N1J2dF95el9iZ29xMjNPNnQ4aW9tYUJDMm8yYkhVZUd5bkpQZ21JRkplYmk1WGdEMDVyR09lMGthMktmblpSdVdLbGtR?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5MVNxdTN3cGVPdF9wVlQyNEw4djZWdnJVSzJfendnbER5dkNBSjZhWGhIUXNZRmVpMTA4THNQd0NwRlo5RzJLbnptY0lnVGk5YlluNUtoYVNidEdVSnphajFEVmhCOWtWX1ZISDRRcFk2a05MSG9RcQ?oc=5",
@@ -7999,19 +7989,19 @@
     "https://europeangaming.eu/portal/latest-news/2026/11/24/218718/bulgaria-gambling-ad-ban-consolidated-bill/",
     "https://europeangaming.eu/portal/latest-news/2026/11/24/218709/evenbeter-headshot-state-of-igaming-teams-2027/",
     "https://europeangaming.eu/portal/latest-news/2026/11/24/218700/portugal-online-gambling-winnings-tax-rejected/",
-    "https://europeangaming.eu/portal/latest-news/2026/11/24/218679/christmas-slots-greentube-evoplay-bgaming-familiar-features/"
+    "https://europeangaming.eu/portal/latest-news/2026/11/24/218679/christmas-slots-greentube-evoplay-bgaming-familiar-features/",
+    "https://europeangaming.eu/portal/casino-games/2026/11/24/218657/iconic21-all-seasons-blackjack/",
+    "https://europeangaming.eu/portal/casino-games/2026/11/24/218652/pragmatic-play-keno-plus-arcade-game/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/24/218640/lithuania-gambling-revenue-9m-2026/",
+    "https://europeangaming.eu/portal/latest-news/2026/11/24/218633/lottomatica-cirsa-merger-shareholder-vote/",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcXdIbVROY3h3ZDduejFBNmctNHlrR3QzVGROTUs0ZkloOVdvSkRCQzN6dWhlUFpIR3A2RnEzcWlsSDJJdjI3Mm8wM1cwX0xfbkZaVkJabTBSM0dvYXpYMTRvclJyd2swbk5kSXcwTzNsNk5VWGNFVjVUZHN3Y2pFaUZ6Z2JrVzdpLUw1bjRaOGhIRlBlMGl3dEwtempqVEhhRzdFSGFBVHM0MUQ0bGk4TzhUMWtNc3B6WXRTeFZialZpNHN2NE8wOU5BUWhtN2ZVVFQwMWppWV8yMUhpZUgyN2Fn?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjc3ZkRfaWx1VkRqQ2xMeHdBN1F0aFg5VWxEb19UVFM4Sndva01VSUlldFBYMHZ6ZXphQkNRUXRCRXZzNEU3QklYY05pTThoNWZrQkpVM0ZLSmJCYUMtWF9LMFBYaDM4MDNvalBXcm1IbjU2RGRwUDhNSmFTbGhoMUpyR2NjblV3TXd4eFkxcXg0MTU2LVV5YlBHR2lJWEhFbmtwclpCMm1pa1Ita2NtY0JSUEtXUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93enkyUDltWGZPc0UzWTNKUlN0OGY4eDR6VFNIQkotaExkWWFGMlBhdlA2cFpzREUzV1dCUjh0dmxHUU1UdzVGbmkzX2ljWkU?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUNGZFpySzlBOXF0aHBrYWYwc19xMUVDRHFIUGV2dV8xZ1JweWVjQjZ6cUppOTcyMV9maURuQVJXSUw0TEJtNDAydXY1N3Z6UV9abG1mY1RFRDV2QWM3T21MY2Zaa0dzWFhBVDBzVFlHS2Q4dVB0akNxR1kwdXRTN1dFMllhMFQ3Q01zajhB?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaEh5QjlBRHY3ZjNoaFBISktGTmFqRDVFcU5RLUtyYnFYUWFQQlU3cVVGZl9JMVd6Mll4X29HQWJJWWVqbjdLX1lQZkVHdUc0X0QyYk9LZzFNcHh1UXFIOF9Ib3J0RVFycmZKY1dtZVVZcFRSUDU2RDFTd3FXQ0pKLUwtaU13amE1MEE?oc=5",
+    "https://www.talkesport.com/mobile-gaming/bgmi/krafton-q3-2026-results-inr-krafton-india-bgmi-air/"
   ],
   "title_hashes": [
-    "a7ec183e2eee077b7886a8be12775948",
-    "bdc245c9ab02dabb5c56b0a447a9bc7c",
-    "ec14e5d18c4467b2fe21fae6944ba5a8",
-    "27cb8f3e7c73d57e7361449d8fc77eab",
-    "844dd44cd8ce13d1065ffbe19140701f",
-    "6f707f15e3ee3d996cecae958e1bac4a",
-    "58da8c7deba7b886c5e4efb9df8dc637",
-    "cd0a0ce632316cdf226055a93eb4d384",
-    "d657705ecf66d78b85cb72cf9407dc1d",
-    "959539128b47175a1fd9eceeea3f2e2b",
     "61c32b19dee391f97a04ecfed8ce840d",
     "e1671797c52e15f763380b45e841ec32",
     "c5a21635ac7a215a1e05e1fb6cc1620f",
@@ -16001,7 +15991,17 @@
     "2addad7bcd5cf05b0a7f6c8f87fdd735",
     "945584291fe812dc48be98f963d457a8",
     "8c0a69d76b586182a1513acfa6d6cbfc",
-    "514da1f16bb3dfc03f976b4be70c575c"
+    "514da1f16bb3dfc03f976b4be70c575c",
+    "750c740a24d5f3ea0f8eb9b689bb08a2",
+    "5e5e7a216083c0f2a728b9ce44f832ab",
+    "bd3235f176842d2f5ab56f9315e6a24e",
+    "36ca399715f0cd89784161d74a196675",
+    "d657705ecf66d78b85cb72cf9407dc1d",
+    "959539128b47175a1fd9eceeea3f2e2b",
+    "eb40a7f3fc0741cdedd015b5784a55d8",
+    "5e39564564eb06955cf7e2ebbc3dc9c0",
+    "c5a21635ac7a215a1e05e1fb6cc1620f",
+    "c8c877408b67aa7ed6161c534e1ac4fb"
   ],
   "transfers": {
     "pages": {
@@ -21116,6 +21116,26 @@
     {
       "t": "8230 around bgaming booster build character christmas evoplay familiar features festive format greentube have post releases series slot slots studios their three wrapped",
       "ts": 1795540120.7415829
+    },
+    {
+      "t": "all appe backdrop blackjack campaigns follow holiday iconic21 instead its keeping launches led live look newest one operators post seasonal seasons supplier table wants year",
+      "ts": 1795540126.407471
+    },
+    {
+      "t": "000x 1 8230 adds appeared arcade change draw first game how its keno launches lottery multipliers play post pragmatic prizes range risk settings style supplier that",
+      "ts": 1795540130.147079
+    },
+    {
+      "t": "14 229m 3 30 8230 based betting carried every gambling game grow growth land lithuania lost online post revenue rises slipped slots type venues while",
+      "ts": 1795540133.8648472
+    },
+    {
+      "t": "8217 8230 99 absorb approve cast cirsa cleared deal group has italy its leader leaving lottomatica market merger post shareholders side spain spanish votes",
+      "ts": 1795540138.2457027
+    },
+    {
+      "t": "2026 500 6 728 840 about air bet bgmi breakdown crore did earned here hype india inr investments krafton million new post q3 results revenue usd what",
+      "ts": 1795540142.4070888
     }
   ]
 }
