@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHcGhWUG5abkliY0c1VzdrXzk0Rk5TT1N1MTI4ZEpYY3BSRkFsMXFVQ2dUQjBzZ01JV3QzU3Q5SkVqTkh3blpCTHdXeUVRUFVZTGV6R1dIU0FYZVJl?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GNVVYczZVX2ZqYVlDNjVVUXJ3T0lobmNTR3ZLUExCLUZDS1pnaTVJMU1ERkNua3hLT2Y2dFg2Z1pVd2c4SHA5WUxfb19tSHc1Y251SlRWTzFsTmFJUUlEaFhKdzZxTDJqUWs2Rk4wZUlhTGwx?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqZ09GZHlUWEJ5Qzk5amU2MUpZeWNmWW81TGJWTkpoWUlMMGZCZW1kYUswVVI2QV9xRWYtV3F6bUFOcjRsS3RRX3JDYUZCVDZJNGNqSEdmMFJSSkNXcndONkp3bGI5NUh6dWc?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE40aTl5S0pwZGtvMWszaHEwSVBJbjFrX083MEFYSmxWZzhqaEc3em9FOHhrc3haTkVlQ09uaEdiQ1EtTG5RYWFoWE0wYlYwVkNQSGw0cUdDVGtpcVNCRThPUmRoc1I4dGFsa0JaOVZTLVRCTkE?oc=5",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RM2ZXcHRuTFNoeHFLQkFHczc0MjBvbGRmVmgtSW1wVzVIUXRUWjJybEZqVEc0elY4SGpXYnBlQ3liSXIzYVZQb3N4bUpzUHZKemsxZGZzWmc?oc=5",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwamlwZVB1ZVFobWlPWWUzYlZESWlJT1Q1clVHSWEzTUlsZkg4bmZSbFFkQ0VyYWdHTFdONlNZbkowVnJPaks4Ym9uTQ?oc=5",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sUzJBTXdEMENYSnBoYnVjcGdqdXRVQUxxa29rbFNwM29xa2E4dTFOeGZxSVVKUEd4M2Y4UVlaUjZxdEpCSFFIby1lSjEyTGxNZ01ZeVdpOE9jdmZfVmZDLWlsMA?oc=5",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xcXRkUnUyRDNfSFFqQWF4WGlRWXRfTmphZFREaTVTLTQxNFlIQ3J5bV9lR29VRW1zeEROYUd2cW5wWm5vcXhrR3pUSEdHUQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/viper-leaves-blg-drx-lck-return/",
     "https://insider-gaming.com/top-20-fastest-cars-in-gta-6-all-locations-how-to-get-them/",
     "https://insider-gaming.com/the-witcher-4-partnership-between-sony-and-cd-projekt-red-announced/",
-    "https://insider-gaming.com/gen-g-announces-lck-2027-roster-with-siwoo-sharvel-and-cloud/"
+    "https://insider-gaming.com/gen-g-announces-lck-2027-roster-with-siwoo-sharvel-and-cloud/",
+    "https://gameriv.com/take-two-takes-down-unofficial-gta-6-pc-port-leonida-and-its-3006-github-forks/",
+    "https://gameriv.com/gta-6s-lucia-is-apparently-causing-real-life-breakups/",
+    "https://gameriv.com/cd-projekt-red-reveals-the-witcher-4-and-cyberpunk-2-have-712-developers-working-on-them/",
+    "https://gameriv.com/bungie-reveals-new-samurai-inspired-bishop-runner-shell-for-marathon/",
+    "https://gameriv.com/apex-legends-new-anti-cheat-is-banning-51-more-cheaters-respawn-reveals/"
   ],
   "title_hashes": [
-    "2f70234c21bdbbfd23d36073ca3883c0",
-    "08beb87f18ae26a0bccf36ccba41b92a",
-    "08f49fce18090bc1a42541d81d1fb154",
-    "7c4ab2635bc11858c6c26ccbadba065b",
-    "f9070f9269fb0b724fa3d997b05bf62f",
     "407844d94e99b373495ac5014fc06ce4",
     "6288afb3758d71798cd934f232088a65",
     "552b842b84debbf39fe8ce3e495d6b20",
@@ -16001,7 +15996,12 @@
     "4524cd850947b4d90ca9236dfb83fe17",
     "7ab6c405be6f10301a01a20f19e79ab9",
     "75159775f5ea0e7bed2f3072898f8360",
-    "4626ff3a6da03ec298ac9bfd79c9c12f"
+    "4626ff3a6da03ec298ac9bfd79c9c12f",
+    "221a8d0213f0ce5665ea45e4ee747c48",
+    "07a4bf1a03d6fb92ef74b0f45349b3e1",
+    "247b5c4b28bce7e64878ee45e72ce2b3",
+    "39e6876afec1b79d924c53497738d7f8",
+    "984d44174b72eab84e3066a948862212"
   ],
   "transfers": {
     "pages": {
@@ -21132,6 +21132,26 @@
     {
       "t": "2027 announces appeared cloud confirmed first gen has its lck new post roster season sharvel signing siwoo teenagers three",
       "ts": 1795570054.8758538
+    },
+    {
+      "t": "006 3 6 against attempting bring community complaint copyright dmca down forks github gta has interactive issued its leonida most notice one port project projects prominent resulted take takedown takes two unofficial",
+      "ts": 1795570060.4723136
+    },
+    {
+      "t": "6 already appa apparently been breakups busy caminos causing center drama exploring finding gta has herself leonida less life lucia most others out players real relationship some than week while",
+      "ts": 1795570063.8939676
+    },
+    {
+      "t": "2 2026 4 712 combin currently cyberpunk developers development financial has have its look part projekt q3 red results revealing reveals shared teams that them updated witcher working",
+      "ts": 1795570067.314214
+    },
+    {
+      "t": "8217 bishop blade bungie cinematic decem game has inspired join marathon new released reveals robot roster runner samurai set shell showcasing symbiosis trailer upcoming update wielding",
+      "ts": 1795570070.6454668
+    },
+    {
+      "t": "51 8217 according anti apex banning cheat cheaters developer entertainment has javelin legends month more new progress promising report respawn results revealing reveals shared some two",
+      "ts": 1795570073.9727094
     }
   ]
 }
