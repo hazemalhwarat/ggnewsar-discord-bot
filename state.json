@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSUmR6bXFyVkQ2RGlaZ2U3TUYwNHNZTVZraHBjT0wxYmxnb09ERWFVUlVaYnpTMnFGRXp2eEhLM3Foc0pFOGhhUXBrZnhnNE50MjVn?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6cGFydXNqLVFRN0dUMHl5Q1gySzBQTlNXek0zbFdoRFc3YXV4UDN4MkFmTWd4U25KdmdSR2NxeWRnWmVYaFZQaWNEdmdqdENQY0dF?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FcHk3aVZKMzl4c3lzUEttY25TNUxXZFFPenM3Mi1VeFQ4ejJmRGo3ZmM3Zm95WC1yVldFYkR2dkRTNUdVX0RZM0wtZUhVUW90Nmdr?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZSkJ1aGk3YlRTZFpQeDBldUZURHJZN29FM0l0SF9XZU9VUFJDRUZiSkdMQTV0dGdYb2JBTjNjbkl0aFoxSmFiaE03cFVrMkhhQ1M0?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03cGVyLWxSUEhrUkxaX1VDT1J6eS0zLWtUQUZlS3h5c0N1UnZlOVdqbWdHb3JLdjdCTUx4dFcyTUUtalFGZEZxcTI3WWFFREpjMDZn?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PTURPSng2dUhEU0d1dkVLVWVGblVMUGhLRExHb2I1c0xadmV5Y3d4UGIyYmZqT3ROOXp1SkllSmc5QWlFSEdnNV94RlN6NHZVemE0?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qcjFIMVdScDN2aHMwdHI1MnVQcHBjMEpFenBtckJwaTNKY2xqX2pqam04ZndCY1NKUlZvUXFEazBNZFdEZ0p6R2x5Q29RMjJRZVE?oc=5",
     "https://europeangaming.eu/portal/latest-news/2026/11/01/217180/eu-igaming-weekly-machine-games-duty-finland-licences-dutch-ggr/",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXJCUnYwajdZcG9vV0lZLXFHc1VRTV94X09pMnd4aXRFdnRyenhIWkRsS2oxZFJvRlI3OTdIa2F5TXJUb3hkNzlsWEx3bUNxU1lUNDFyU1ptMTZjQXFqVENsbC1UYlVSX2loLUcwenVNTlR0cW1URVdJNzBSMkdxc0ZieURPbnZBaExnWDFsNDl3TkJZWVkzdTQ5Zw?oc=5",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zS3VFS2ZTWXRnRk1YVXI2TUNibkEzVzVHdzNtMmFkYjZMaGhqRldlY0Nlb2pCaG1reVVPYzFtZlRiYldvVVJGQThGcllfX1hhdEJzYkNLdE9PU1lvUEJydXJuaWx4WXVIYzFiQw?oc=5",
     "https://pley.gg/valorant/fnatic-sign-marteen-for-vct-emea-2027/",
-    "https://pley.gg/valorant/demon1-settings/"
+    "https://pley.gg/valorant/demon1-settings/",
+    "https://pley.gg/cs2/s1mple-out-singapore-major-gosh-0-3-chinggis-warriors/",
+    "https://pley.gg/cs2/krimbo-interview-nip-3-0-singapore-major-kasper-chill/",
+    "https://pley.gg/cs2/stavn-and-krimbo-carry-nip-into-stage-2-at-3-0/",
+    "https://pley.gg/cs2/cs2-skin-market-loses-8-of-its-value-in-a-week/",
+    "https://pley.gg/cs2/faceit-add-free-scrims-for-cs2-teams-from-9-december/"
   ],
   "title_hashes": [
-    "e0f1c0f263c273806219c545e1813014",
-    "dafb7c7040fe912836542d25b5f33c40",
-    "a4ee064a9e9defa465802cecc470ad33",
-    "707d0acb31941ff57c42b4c6baede1b3",
-    "f6b9084e8258d12b7da7462a68964833",
     "0a88a2f44425afe0651ce7ec4f0f2db1",
     "7dd4127bb2162b73a1a2a4b55a9d9cb3",
     "f68dca1cf395916d121d92e6d8d76a1d",
@@ -16001,7 +15996,12 @@
     "ac60d44918d7aabbc589efc9a6209899",
     "7163e4dbe38008d84996feb2933b333a",
     "3e1febbfed36375720b4f120461e1f27",
-    "548f377f2561aeb59f8813d7466cf701"
+    "548f377f2561aeb59f8813d7466cf701",
+    "31d5283822e8debddc9858e43cd39d01",
+    "2b306d6d0935219eaadcb64fb2a43d8a",
+    "4cf2d58cef70066965b5bc841080c01c",
+    "8a2c26e4896b2b75e65ee3f40a0553ea",
+    "60cf36ff49ed767828f592be1bf8ebda"
   ],
   "transfers": {
     "pages": {
@@ -21176,6 +21176,26 @@
     {
       "t": "0 1 1600 2026 code crosshair current demon1 dpi gear his plays sensitivity settings thin valorant white",
       "ts": 1795636818.407114
+    },
+    {
+      "t": "0 1 2 3 after austin back beat came chinggis end first gosh major matches out s1mple since singapore three warriors",
+      "ts": 1795636823.5911171
+    },
+    {
+      "t": "0 3 after calmer chill coaching credits have his job kacper krimbo nip part run say says staff team telling xkacpersky",
+      "ts": 1795636826.9376485
+    },
+    {
+      "t": "0 2 3 carry inferno into krimbo liquid nip picked rounds stage stavn three won",
+      "ts": 1795636830.3214142
+    },
+    {
+      "t": "1 4 40 74 8 9 billion cs2 csmarketcap down its loses market skin value values week year",
+      "ts": 1795636833.6963437
+    },
+    {
+      "t": "10 9 add anti cs2 december every faceit free matches open practice scrims season servers team teams",
+      "ts": 1795636837.1669173
     }
   ]
 }
