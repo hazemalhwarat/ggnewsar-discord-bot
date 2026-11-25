@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/27985/openai-ceo-calls-keeping-ram-in-personal-pcs-terrible-shifting-blame-to-consumers-vs-a-reasonable-point",
-    "https://www.invenglobal.com/articles/27984/persona-1-remake-leaks-on-day-of-30th-anniversary-collab-teaser-fueling-speculation",
-    "https://www.hltv.org/news/45874/zhoking-we-had-no-choice-but-to-play-in-that-retake-event",
-    "https://esports-news.co.uk/2026/11/01/mouz-beat-vitality-2-0-to-finish-third-at-pgl-masters-bucharest/",
-    "https://insider-gaming.com/how-to-pre-register-petit-planet-launch/",
     "https://insider-gaming.com/petit-planet-coming-december/",
     "https://insider-gaming.com/xbox-game-pass-games-november-2026/",
     "https://insider-gaming.com/escape-from-tarkov-zombies-standalone-game-teased/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/29125/team-cherry-sets-cherry-time-presentation-with-silksong-sea-of-sorrow-update",
     "https://www.invenglobal.com/articles/29124/capcom-to-shut-down-exoprimal-in-september-2027",
     "https://www.invenglobal.com/articles/29123/star-trek-voyager-across-the-unknown-gets-final-expansion-pass-dlc-year-of-hell-on-december-9th",
-    "https://www.invenglobal.com/articles/29122/figgyz-reveals-diablo-iv-sanctuary-box-set-with-four-pixel-art-collectibles"
+    "https://www.invenglobal.com/articles/29122/figgyz-reveals-diablo-iv-sanctuary-box-set-with-four-pixel-art-collectibles",
+    "https://www.invenglobal.com/articles/29121/new-class-rogue-and-tria-lineage-classic-season-2-unveiled-at-lineage-festival",
+    "https://www.invenglobal.com/articles/29120/nc-holds-first-ever-lineage-festival",
+    "https://www.invenglobal.com/articles/29119/ncsoft-unveils-2027-vision-for-lineage-m-aiming-for-true-lineage-spirit-ahead-of-10th-anniversary",
+    "https://www.invenglobal.com/articles/29118/goddess-of-victory-nikke-to-strengthen-pc-launcher-security-on-nov-26-outlines-recovery-expense-support-process",
+    "https://www.invenglobal.com/articles/29117/zeus-signs-three-year-deal-with-t1-it-was-time-for-change-free-agency-is-mentally-draining"
   ],
   "title_hashes": [
-    "ba252e6e5ce43c159406b92c01d53999",
-    "2757c4dd3db9a2fd01a9419c8e6573d8",
-    "e64c01ab5e3ee6c5e79fd2d114661a78",
-    "a207b25f3cc0053a613eb5086d796176",
-    "2119ba304e6ed7735af20638d15af603",
     "0009bee6d228f7de4a70e6c4b92fd74d",
     "04b29480233f4def5c875875b6bdc3b1",
     "f7ad61a2114196ff57af7a5fc2fb6808",
@@ -16001,7 +15996,12 @@
     "047dc713ac5d637526effae14e94e4c6",
     "4f388c851db5e8633c04c30ac07d627d",
     "d56757f90d71c0df4f081685916a6b31",
-    "4636d1a36da41f1a9692fa4606d2775f"
+    "4636d1a36da41f1a9692fa4606d2775f",
+    "d07fac51cb391869599a367391729e80",
+    "8d4b26f607955550231f005395a57257",
+    "545de0ab6d6a276715dfd7c151113366",
+    "267624ed8fd86e65c392ac7964d20ff0",
+    "faa78fbae1220b6c4d7bbef3078a2a8e"
   ],
   "transfers": {
     "pages": {
@@ -20956,6 +20956,26 @@
     {
       "t": "4 around art behind box built characters collectibles collector diablo figgyz figures first four game has line numbered pixel pre revealed reveals sanctuary set team",
       "ts": 1795636608.7181022
+    },
+    {
+      "t": "2 25 city class classic during festival first giran lineage located new northwest november rogue season special stage talk tria unveiled water wednesday",
+      "ts": 1795636614.0708427
+    },
+    {
+      "t": "2 25 aden center ever exhibition festival first future games held holds ilsan invitation kintex lineage november roadmap three unveiled update",
+      "ts": 1795636617.5994012
+    },
+    {
+      "t": "10th 2027 25 ahead aiming anniversary beyond its lineage long ncsoft november spirit term true unveiled unveils vision",
+      "ts": 1795636621.05955
+    },
+    {
+      "t": "25 26 announced deploy enhancement expense goddess launcher nikke nov november operations outlines process provide recovery security separate strengthen support team that update victory will",
+      "ts": 1795636624.6706178
+    },
+    {
+      "t": "2027 25 agency announcement basecamp change conference deal draining free gangnam general held hoi jeong manager mentally november press seoul signs site t1 three time year zeus",
+      "ts": 1795636628.15998
     }
   ]
 }
