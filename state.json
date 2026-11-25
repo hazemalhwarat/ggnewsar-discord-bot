@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tdUotTHB2dVVkNnBNVEFlVVFHLWlib2JJVEtpYWJKb2gyZk8wNml3WURVOXEzZ3U0NFJQaWhETHBoUlJKbGFBcHJGQTVMMlJrQ2t3d3lpWW0yaTF0V1BQMUl2NXNzU0lUZVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WekloRU96SUpCMU1JSm9UZ1BPcmpNQkVNY2d4YVRtRFh1Tm43NjdJd21vUHZ5MnB2ak1zU1VKWUJHaGpMbGVPaGVhc1ZMb3JVZHRv?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcDFHTmE2WHpXSFZjV0d1UTVJakg1UzJkWjVFOHVZRWZ1ZF9SWExUZDhKbFpYWVhFcjdLNTNNUXhvRlhoNkp4d0JqbmQ3Q1Z2aG00VjFmTWtFUXdfMFhXNV9rS0dOUnlPM3VaSVQxa0Q5TDdXZ0hlR0NfNkFZR3UxYWRn?oc=5",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zNDZ6SHQ1bXVOTnY4cWNsa0pueXc0b1U4QUMxNHBGWnRTcVM3eHNvSkVhZC10VE8wNUhNM3dnZ3hqTU95bGxyUFpUZEZnUFFiVUthTzFnb0xTcHRmSk13U1J0Mk5QY2R0?oc=5",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdDZDX2pSbmpfcGlZTG4tcnZkYXdzcExnMm0tWnBIN3hQNVpkb0pYRVVBUS1ORFlqbmFmTm1UZ3pFOTJVQjVCQlVueXBGcUN2TG5xV2w5NU1VSEpoVmJCdEZzT1BWa0FFaTZEdjlKemhMQW9OTGJVUkUtZXcxSU5JNlBQWHZBbWtHbnhKSW1CczN5QURSYXQ2YWdLMDdqQ3M1UGxQOW5CeGdhb1NOcHVYTzUxNWR2aGppZ2VyaEtkVloyODQ2YVBadHltOVNEQ1nSAdQBQVVfeXFMUG5jQkFPUmpFRmJRcjZkbDBZM3lPajVIYkVTWFlsUnhKVWYxMGw2VE1BakQtMlBfdE9SU1JnVnFDLTBXWldXa1M0S0R4SVZLWldXQldkRWw3cGd0TXNwbFkyX1ZBZXgtR1pkZUc4OWVFQnFDT0NtTndLS3E0NE9icGxUQmRYN0tNSnNWZEhuU3gwOHRMRExrVGhtazkxZHdwSi1ELVRXWlUwMFh4MWNJdFZSY052ZVVRSnBRaGp0WExtOHl5Yk9sN1NLSHQ2cnloNWlfLTE?oc=5",
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNak1YTE9KMW5LVXVTS3c5dVFKNExMTXF3LXJ5WkFqWDkxd3RDZDA4VzlnS0xBRmxIRTM2SGctbmc4My1ncGpzaTE2cDlUa01IS05LNThKeDU2eW9xc0JISUxsdjl1LTMxMHVoYjN3M0t0R1dxejdfOVA3ek1ZSzRKMjRxWnhjdjc4TVF1SElmVERMYmVlR1pTZEZHU2RfYXlKYXBBaHBscW9CR19pbUM5bUdiV19EVFZxUmFtRTdkZTlkeGhBX1gwWXhLRmMwdEk0RGxQSU1zU1c4REx4cDQ3LXJoY3DSAeoBQVVfeXFMTWlJRHktdmFJVTRvbEVyQ29kRkdtckoyWXlvYTNnWS02bjRBN2w4NG1FeUFGNUwwQXZhOUJELWlzbGF3M1hTVDZ2VDQ4VEhaM2NRdU5BWXRyQVJsWml2NHFXaXNOT2Zfb2tKMkxMTmJHVFFncWUwMmdnLWdMMnpTNXBfQzREZEVPWUdSRGdSN3J5a0hIdjI2amgzNHRaSDJQVTdwblhrb0V1amRHeWFFSFJIT2VXaXNFQnJITUhUZ1VqODZmZDZpczRkamhvWXA1ZjVlWEJud05sS1FaQnA5SU1NU2ZZUWd4X0tn?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmExYVBuOVVkTXJDdlRNQWl1R3V6VlAyYnJkQVJwXzJ2TEhxVHJGamRfaHZqUXJLRmZvVkItN0xuVVNEbVJsRTdEZUtwbTFPc0lEak9sZGpGN1IwSFBsUVNaSWhZT0V3QXVoYkZyWUZ2MEg2ZkVUaTZQNDcyUmlBOG91N202SHJmM1plT2c1OFFTelA3?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoUUQ3YzRxTWI4bFU2T1Q2WkZMWmtRN3lWU21acXlzS3FwY0Ryb0hkMFIyaFRtVlc3NEU0RmdfczBtdEgweUsta21BN2NQcEtwRnE5Q2RTRHVHVWdwWjVMc1NrMDAwNkJVVm9fSVd0aUd0ZTdpRjNsRTFrZGM?oc=5",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHcGhWUG5abkliY0c1VzdrXzk0Rk5TT1N1MTI4ZEpYY3BSRkFsMXFVQ2dUQjBzZ01JV3QzU3Q5SkVqTkh3blpCTHdXeUVRUFVZTGV6R1dIU0FYZVJl?oc=5",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GNVVYczZVX2ZqYVlDNjVVUXJ3T0lobmNTR3ZLUExCLUZDS1pnaTVJMU1ERkNua3hLT2Y2dFg2Z1pVd2c4SHA5WUxfb19tSHc1Y251SlRWTzFsTmFJUUlEaFhKdzZxTDJqUWs2Rk4wZUlhTGwx?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqZ09GZHlUWEJ5Qzk5amU2MUpZeWNmWW81TGJWTkpoWUlMMGZCZW1kYUswVVI2QV9xRWYtV3F6bUFOcjRsS3RRX3JDYUZCVDZJNGNqSEdmMFJSSkNXcndONkp3bGI5NUh6dWc?oc=5",
@@ -7999,17 +7991,17 @@
     "https://blog.counter-strike.net/2022/12/40701/",
     "https://blog.counter-strike.net/2022/12/40702/",
     "https://insider-gaming.com/proximity-chat-coming-to-skate/",
-    "https://insider-gaming.com/gta-6-runs-better-xbox-series-x/"
+    "https://insider-gaming.com/gta-6-runs-better-xbox-series-x/",
+    "https://insider-gaming.com/jason-lucia-relationship-max-gta-6/",
+    "https://insider-gaming.com/tyler1-receives-lol-voice-chat-ban-after-just-one-week/",
+    "https://insider-gaming.com/showa-american-story-releasing-october-2027/",
+    "https://insider-gaming.com/gta-6-la-cascara-motel-key-valuables/",
+    "https://insider-gaming.com/viper-leaves-blg-drx-lck-return/",
+    "https://insider-gaming.com/top-20-fastest-cars-in-gta-6-all-locations-how-to-get-them/",
+    "https://insider-gaming.com/the-witcher-4-partnership-between-sony-and-cd-projekt-red-announced/",
+    "https://insider-gaming.com/gen-g-announces-lck-2027-roster-with-siwoo-sharvel-and-cloud/"
   ],
   "title_hashes": [
-    "df0c8151709af6a454744f184d083296",
-    "42c24d6cc494617e9b798f30030132e4",
-    "93f8c48797122830e04c01dd1feed4c0",
-    "e3503d830675a7f846af11d9e6a302d0",
-    "0c59c0232d8aafe20c6c8d154b57a1fc",
-    "04995ad5189773cd68816a2e97aa9956",
-    "d7ff18c9a1a6e834574afcfa98655825",
-    "a5077b4708d0c89f2b2ce366bebea086",
     "2f70234c21bdbbfd23d36073ca3883c0",
     "08beb87f18ae26a0bccf36ccba41b92a",
     "08f49fce18090bc1a42541d81d1fb154",
@@ -16001,7 +15993,15 @@
     "3e1793f0c308dd14ba97985a8bf0828a",
     "8c3536d2b900042df5b1fc40593c5be7",
     "9b260b3ee19f58d514fe7d5a761b06c5",
-    "3fe71c4423f29054d0f632ff29b66f6c"
+    "3fe71c4423f29054d0f632ff29b66f6c",
+    "5bae7e71d73635380feebc866d714c8a",
+    "c1fdf7aa03e3bb99f9eb90b156eef0b2",
+    "a1456d8c1ae8bcdf495b6a820e3cc11f",
+    "094f14e510f8f21ec33501a38cb3cc16",
+    "4524cd850947b4d90ca9236dfb83fe17",
+    "7ab6c405be6f10301a01a20f19e79ab9",
+    "75159775f5ea0e7bed2f3072898f8360",
+    "4626ff3a6da03ec298ac9bfd79c9c12f"
   ],
   "transfers": {
     "pages": {
@@ -21112,6 +21112,26 @@
     {
       "t": "6 after appeared base been better compared digital extensive first found foundry gta performs post ps5 runs series testing than that xbox",
       "ts": 1795570036.0067022
+    },
+    {
+      "t": "after ban chat feature game has himself his just kill lol multiple new one post punishments received receives streamer teammate tell tyler1 using voice week",
+      "ts": 1795570041.29134
+    },
+    {
+      "t": "6 all cascara complete fastest find grab gta guide help how illegal key motel operation post this valuables way will you",
+      "ts": 1795570044.720357
+    },
+    {
+      "t": "8217 able been blg champions claimed drx haven hold join korea lck leaves lol onto post reports return suggest that viper who will world",
+      "ts": 1795570048.0593822
+    },
+    {
+      "t": "4 announced appeared between fir game has its marketing officially partnership post projekt promote red release sony upcoming witcher",
+      "ts": 1795570051.4494479
+    },
+    {
+      "t": "2027 announces appeared cloud confirmed first gen has its lck new post roster season sharvel signing siwoo teenagers three",
+      "ts": 1795570054.8758538
     }
   ]
 }
