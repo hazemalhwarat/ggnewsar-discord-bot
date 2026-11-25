@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tSWxDNXdXR1FrVWtocEptaXZnc2IzM0lVMHFkU0F3RW50dkhJanZLQWE1clhBYVFra2taWjIyWXM0dXNSMDNwWEFUS3VqeG1wYnJwTy1wMEhyZExTb19rZ3lUUUpBSUt6Z3liZEhpWWlfSHpEMHVqLUhkanJEazA?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNeUF5eG5Zcm9OQU1OcUt0dWhQQlBpQldIVUhiSVhpSFhHWVFudHFHT0FUVTBGZ1NQZ1V5ZVUtTk5yZnNkbkczZndFeUVmZnBVRGlpMUNfWjMyaFgxTVNoSld3cGtiSGdnM2F6UzJNZHB6UE10bmVxTEluNUI?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWTNSTGJNQjFmeXJJQ1l1ZjNPNjYwcmdQenZUY1k3a2VSNEd6Q3ktd3YzNTNfSnNmRjRwSF9ENHU1WXd3SzBEOWxsUUhBVVRvNGhvdzZjZXdFaWZEUm1sRmd0MC1BcWdKZFlNX3BZWHBvSC1xdDhuRVBwTUw2dUJiVVR3?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRWnQyQlVUdlFtb3RIcFByeU9RX1dHRWgyVUdiUUxYc2lmNjlnZWluZk43dFJHZlFVWlpfdHVDb25hRHZYdDBoTWZ1UjY2NUxKTE5paVdYNnc0Vzl5ZWM5MkxLOXowbERUQkpDdGdUNjloa2phLWpIckxIOVpJR0E?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxeXNoZllSRHpHYl9wdTI2SE9ibGFadjkzVFNUZ1NUSHE4WmZsZWFYZkFCMlpWUTJYb2lDZ0RPY3p6WVdyUWxvYkdyc1YyLWFBMmNFOGktMS1LVTNzeVVmWXVPMUx6eFNRTmZHSGw4cV93Y0p5TXoxZzZDNjktQ3c?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjhVUWloV1R1SHRNOGpJdXZOcnZwdDNEY3d5SEIxcS1pbGFWUmhxaHpUZVRqY2FoMThrMGp6ZHpFemhRZ2wyY29JaE14VTNpN0ZyRW1RT1NRNkdiTFktWHFaVnZRN1JYVGlFaTBYZ2lMUGYtYlEyVzZXNkQtRHZTWWsyMWM5bmExc2cyTzVmalhtazJNaE5oX0ZKa1RmbjBFUEh5ekp5VkUxNkJiSDVVaw?oc=5",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa2RPa0JpLVlLaW1LTC1WQ05BRGxlOW5adkRaVFNCUmRYdU1iQS1WZERzdmhuM0s4REtGclJkQkZHWGpOeVZhYjExLVRydEFxb25LMEphREdKR3JpTjh5M1ZqcjR3NmNPSUt1amhUTWNxekNwd21lcVU2NGNmZjNuMjJhTEQwT25PRllsbmNRbFcxdVVqcFdSMjQwcHg3LURBU1NMOWRncmVUN1REOUZib3k1cEVUSmhzWW9KMkgyTlliZE02a1FjVHlYdFBVbnk5Yk53c0RqNUZGQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTHFOdGZQSVI2bFJuUS0yOUlLX2luQ2dja1dSeDZXb29BbkZybEp4NGNwZkpWMERXeVRaU0RxNWxVZ0JiSGpRbGY4UllmZ29tRUlnbzhyMmlaZExRQTYwUTNCTkJuTGdmekZvREs5ZmRKaDRGR1lsR2RCTHhBN0FWREhJNi1SZzF4QTVabkJMZEhfLWhnN3FGc2NYMzFPY01Cd25ESnRRdlMxVjNZU24wdzVvb3lSZEtfVjROM0dBVm5sa0VRbWxITg?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOSzZLZWxIT0ZWX2FTUDloNW1Ha0lSS1NoZi1xcjh6b2ZDRW9BVHplVm1XYkRFemt5b1Nra0VWUExYQmhnTWNONUNMRFVydUJZMnFrYUxFakhhQjI2TWNLbjd4OTZUUHZqTVF6SU1WTnk1dHJtMF9PNldJSHBzOTh3cERpTHJPYnI4YWF0Uk5MWGtQZUVGNC1uRUJEVXZYUdIBowFBVV95cUxQeFFGWkxZNGI2aUFYVWJ1SXRzNHdmWmdtQUxRQ2luQ2x6dWUtdEs3Ymx1bXhCUjhDdW85eXhVak5wV28wNkJ2UTdxQ3F3aHU5ZDJ4MUh1Z2ZVVnNENnpEMkVBNzlWVXRjSkZBS1NHU1VFS3FaQ2wyc1hMWjE3NFJ4Z1g2alY5N2h3SGd3ZDBTYjN0SUdtdG1nTEJrV21hU1hPU1d3?oc=5",
@@ -7999,15 +7993,15 @@
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tZFBrZDU3RUhWenlCSGtjdzlRWjRzRXpPZ1dNWk1FekhBQlFUajV0VDlpLWFyQkxDY0NiNWxiQ2lwZ3I2RlhDQTdlNmZ1NW9NS0dlNUppNmVxV2FOdFNBbjJ1VGZaaFp3?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmphcVFaYWJNcG83UWxjeVFXZVY2SHMwWUJDMTZ1bWJfQnctaFJlSy1ZU2FvdDV3dy1xTnBQWkZSdUhXSGx1M3VZclR2TjM0YWxtd2tWbnBKRTg0REFnbDNobm9YOGRKU3hCUVZfQXlXZXZTU000SnZ4MU8zLWZhd190WXR0bU0?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbUpJY0s3bk93NE9ZUFIxNTdSdG9PMzZDRHpTdGdpNUZtZVJnT0pjY1RqOTg2VVdXTGU0NWVuMFA1enJmWnhPLW12VXY5S2ZuR0o0NG1UejNRUTNVWEJOMVdrMzdodEpHUTNvY2ZJTWhELVFvSVRzQWZJbnZIbnpJeG5Oc1Ezc2xwcXd5SThWNjFPLUdkMlRsWkhoUHloSi0weldOdlpHemVwNWM?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVpuYXl6R2xYZHd6Y3NncndLOXZTaEhIa1U5Tk5WdThzekN2dGM0dkJxZ2ZRNV9uTVI4ZGFES2FYUmxvcDZoV1ljelg3RTRQa3FrQ0RxRDdBcmV1YmZpMTVORXNNTFBoQzdteVppR2NkeE1tNXdVNW5zYnBYVHpiYWM4ckhud1lMbFFrVXc0a1NDQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVpuYXl6R2xYZHd6Y3NncndLOXZTaEhIa1U5Tk5WdThzekN2dGM0dkJxZ2ZRNV9uTVI4ZGFES2FYUmxvcDZoV1ljelg3RTRQa3FrQ0RxRDdBcmV1YmZpMTVORXNNTFBoQzdteVppR2NkeE1tNXdVNW5zYnBYVHpiYWM4ckhud1lMbFFrVXc0a1NDQQ?oc=5",
+    "https://www.invenglobal.com/articles/29133/company-of-heroes-3-gets-its-first-single-player-dlc-with-operation-torch",
+    "https://www.invenglobal.com/articles/29132/dreamhack-stockholm-returns-november-27th-with-marvel-rivals-delta-force-and-snk-finals",
+    "https://www.invenglobal.com/articles/29131/surviving-mars-relaunched-gets-machine-utopia-robots-and-trains-expansion-on-december-9th",
+    "https://www.invenglobal.com/articles/29130/apex-legends-veterans-studio-gravity-well-goes-into-hibernation-without-releasing-a-game",
+    "https://www.invenglobal.com/articles/29129/cd-projekt-red-signs-sony-deal-covering-playstation-plus-and-the-witcher-4-marketing",
+    "https://www.invenglobal.com/articles/29128/ea-adds-ai-recreated-john-motson-commentary-to-ea-sports-fc-27"
   ],
   "title_hashes": [
-    "3354053b93f330e5354188e4a9bd5a34",
-    "21ac77b52d2f44c9d7299099fede82d3",
-    "41f6e0de55180a04dea2d8fcd995978b",
-    "1de9a5fab2c2435348b4609cdef68939",
-    "0cfddb13c6b4a6a248def602ffcbec80",
-    "b841b53977ec478f050142a11317fa84",
     "d5648f6a7618672492ad4f2138129009",
     "f12775c38272b68d9b693793b12ae9e6",
     "c22016c2b714b7bddaee89a81ce15baf",
@@ -16001,7 +15995,13 @@
     "e60710e8562d042252cd59b8bd33cd02",
     "40b2ca2b305db997e051053754114190",
     "b65eee3121153602760898c41d38413f",
-    "f2ab5fb218da8b84623f45579aa4ba11"
+    "f2ab5fb218da8b84623f45579aa4ba11",
+    "abd02f9d09ee1e3895234b90140adff4",
+    "4046741bc806a5d13b544dba61a56dd6",
+    "568c55038c6a2ffa00acd424919277a9",
+    "d67e71b83a97f936aeef25ebd6fcef93",
+    "4bd2e3e9d896b7abf2ded661ba58116e",
+    "54ae112a24f4b5cbad4075940a653d35"
   ],
   "transfers": {
     "pages": {
@@ -20710,482 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "30 30th 6 alive america anniversary celebrates dead developer doa6 fighting free game global have kicked koei last new ninja off round series team tecmo tournament trailer update years",
-      "ts": 1795539846.5344496
-    },
-    {
-      "t": "3 ahea along america attack developer force game gameplay have inside koei life looks new omega paradis released requirements revealed shows specs system tecmo that titan video walls",
-      "ts": 1795539850.7497392
-    },
-    {
-      "t": "14th 2 2027 5 announced art based confirmed december developer digitally editions have interactive kniv launch lining nintendo physical pixel playstation ps5 rpg silver stardust strategy studio switch that turn will wish witch",
-      "ts": 1795539854.4414492
-    },
-    {
-      "t": "2 abyssal adds aion bot broadcast challenge combat content difficulty during expedition farms forge high improvements introduces kinah mode ncsoft negative plans preview revealed rudra solo transcendence tuesday update",
-      "ts": 1795539858.1102004
-    },
-    {
-      "t": "2027 24 announced channels cloud completes dan esports gen has its jeon jungler kim laner media november official roster sharvel signed signings siwoo social that top via woo",
-      "ts": 1795539861.824229
-    },
-    {
-      "t": "30th anniversary announces beloved classic farland has its jrpg korea mark new project saga south tactics teased title under",
-      "ts": 1795539867.8894684
-    },
-    {
-      "t": "24th announced bear canyon channel embraces esports geon hanwha has its joins kim life official orange polar signed signing that via youtube",
-      "ts": 1795539871.6202831
-    },
-    {
-      "t": "2027 acquired appointing coach coaching easyhoon finalized has head hee its kang kim lck lead retained roach season staff t1 team umti under",
-      "ts": 1795539875.259498
-    },
-    {
-      "t": "2027 23rd 3 after announcement completed delight doran dplus how hwan joong kanavi kia landed losing roster showmaker signing smash starters yoo",
-      "ts": 1795539878.9167902
-    },
-    {
-      "t": "announced announces association bitsummit collaborative committee events executive first game games have high independent information japan jiga music official regarding stage supporters wave",
-      "ts": 1795539882.6124403
-    },
-    {
-      "t": "24 26 according azure began begins downloads fantasy global its mobile new nexon november official pre promilia release rpg scheduled world",
-      "ts": 1795539888.3151274
-    },
-    {
-      "t": "24 4 announces character cross crossover details dies event final game host korea meanwhile never new november party persona publishing revealed reveals revival rumble sega shared sonic stupid system trailer will",
-      "ts": 1795539892.5794184
-    },
-    {
-      "t": "10 2026 based catgirl december developer fantasy game indie jrpg korean launch launches minimum night nintendo oath player simultaneously single sky steam studio switch turn will",
-      "ts": 1795539896.19421
-    },
-    {
-      "t": "18 2026 24 announced cfs compete crossfire esports finals flagship grand hereinafter kick kicks november off record smilegate stars teams that tot tournament will wuhan",
-      "ts": 1795539899.851011
-    },
-    {
-      "t": "16 24 addition change class corp december dual games host introduce its kakao mmorpg new november odin plans rising season shooter teases unveiled update valhalla will",
-      "ts": 1795539904.6741028
-    },
-    {
-      "t": "000 200 copies course created debut developed developer development experience first game has over release sells slotbound sold solo steam surpassed that time title week within zero",
-      "ts": 1795539910.843635
-    },
-    {
-      "t": "23rd 24th added announced began corporation games has launches line lineup official officially one origin platform service store that uncharted waters",
-      "ts": 1795539914.5248153
-    },
-    {
-      "t": "000 10 24th announced based cafe cumulative escape its maplestory months nexon opening reached room surpasses that two visitors within",
-      "ts": 1795539918.6207922
-    },
-    {
-      "t": "128gb 16 24th featuring korea launched launches memory omnibook south ultra unified",
-      "ts": 1795539922.3754745
-    },
-    {
-      "t": "24th adventure can day finish game hour launches longplay played released short standalone start steam story studios survival terminus that under zero zombie",
-      "ts": 1795539926.1059997
-    },
-    {
-      "t": "appea dead game games interested its licensing open popular post red redemption reportedly rights rockstar selling series",
-      "ts": 1795539931.8937485
-    },
-    {
-      "t": "6 amp appear complete detailed encounter find gta guide here house how manure over post revenge spray tractor where you",
-      "ts": 1795539935.4762135
-    },
-    {
-      "t": "6 appeared discord down first games gta have port post rockstar server shut shuts take that trying two unauthorized working",
-      "ts": 1795539939.1547756
-    },
-    {
-      "t": "6 amp appeared arcade city every find fir game games gta guide has how locations made out play post rockstar them throughout vice within",
-      "ts": 1795539942.9175308
-    },
-    {
-      "t": "6 appeared car find first gaming gta guide how hypercar insider locations post quick randy thrax where wishlist",
-      "ts": 1795539946.6300716
-    },
-    {
-      "t": "0 2 asia asian beat bracket chance esports godlike kickoff last only pacific pla point qualifier reach sides single south stay sweep trigger two unbeaten upper vct where will",
-      "ts": 1795539952.589071
-    },
-    {
-      "t": "1 2 chinggis day game headline liquid major matchups nip set singapore stage two warriors wednesday",
-      "ts": 1795539956.2541378
-    },
-    {
-      "t": "bcg best day drubbing faze four kept leads match rounds second their three total twistzz two way",
-      "ts": 1795539960.0246344
-    },
-    {
-      "t": "1 9z after american day disappointing elimination extend facing into m80 move office pool south team woes",
-      "ts": 1795539963.614044
-    },
-    {
-      "t": "against back being bounced chinggis chr1zn events first getting have heroic imperial just little loss more pieces push than time track warriors",
-      "ts": 1795539967.2347558
-    },
-    {
-      "t": "1 day elimination end ends enter fan favorites faze game one play round singapore two will zone",
-      "ts": 1795539973.1578834
-    },
-    {
-      "t": "0 1 against both but convert failed faze force pistols pool send wildcard won",
-      "ts": 1795539976.90898
-    },
-    {
-      "t": "1 12 13 1v3 annihilate clutch death didn game left liquid naf record round singapore until",
-      "ts": 1795539980.616939
-    },
-    {
-      "t": "2026 420 550 annual club declining esl events faceit final finished first forfeit group incentive its kept lost many money navi out pool projected share shrinks spirit standings team that too tops while",
-      "ts": 1795539984.2868397
-    },
-    {
-      "t": "1 100 2 2026 8217 best continue end five imperial major match meeting one pgl reading round run singapore stage take thieves winning",
-      "ts": 1795539987.90583
-    },
-    {
-      "t": "2026 clears division exiting house its members mini nearly out parts ryota sugarz3ro team three ways zeta",
-      "ts": 1795539993.68173
-    },
-    {
-      "t": "ban bonk cheating following four handed into investigation out year",
-      "ts": 1795539997.4486306
-    },
-    {
-      "t": "13 around changes college conference country date developments football including injuries latest news notes other playoff quarterback stay updates week",
-      "ts": 1795540001.74313
-    },
-    {
-      "t": "12 against but enough even games hard here nfl picking picks season spread spreads straight tallysight tougher week",
-      "ts": 1795540006.0596838
-    },
-    {
-      "t": "12 articles can ditullio each even games here his joe make more nfl our page picking picks season straight tough updates week will",
-      "ts": 1795540010.528998
-    },
-    {
-      "t": "6 all brutal cash different enforcement feature find grinding gta has how into law locations more much new off pulling recognition six star system thanks them turned unique vastly weapons world",
-      "ts": 1795540018.7144177
-    },
-    {
-      "t": "30th alike anniversary best bring buy celebration collection collectors continues day ever have night openers out pack pokémon premium products seen set should some tcg ultra which you",
-      "ts": 1795540023.5107274
-    },
-    {
-      "t": "10 2026 30 30th anniversary ash been between countdown dropping exact follow gen going has hit hours images ketchum november number numbers pokémon posting posts presents that these zero",
-      "ts": 1795540027.1288557
-    },
-    {
-      "t": "23 basketball big college games has here november overall picked picks plenty record season started that there this week will year",
-      "ts": 1795540030.8299475
-    },
-    {
-      "t": "2026 2027 already based being big built coming end every exciting have involved lcs lineups many most moves names offseason rating roster rosters season shaped team teams their this tracker",
-      "ts": 1795540034.5385914
-    },
-    {
-      "t": "1 2026 action after begins best day elimination first have just major matches officially one our pgl requiring results rounds singapore some teams two underway verge well",
-      "ts": 1795540040.2463052
-    },
-    {
-      "t": "4 48 after all bans bonk cheating coach competit confirmed emea five following formal games has have into investigation members month open players qualifier received riot scandal team that their vct years",
-      "ts": 1795540044.7399218
-    },
-    {
-      "t": "10 22 8217 best brand cafe cafes croatian esports existing fire franchisor friendly gaming has into its licensed licenses liquid name one putting team turning venues years",
-      "ts": 1795540048.407641
-    },
-    {
-      "t": "2027 28 720hz 8217 arena berlin brings changers cup display emea front game games has its official oled panels partner players putting riot season signed stage vct",
-      "ts": 1795540052.0925868
-    },
-    {
-      "t": "148 aphelios arrives blink champion comps dash does draft every feet foot ground make middot nasus not one other owns plan sure team them this too top whole",
-      "ts": 1795540055.8364973
-    },
-    {
-      "t": "2018 2026 32 42 42m between bilibili blg enough final fnatic gen has history its league legends match million most now pass reached record replay sets viewed views worlds",
-      "ts": 1795540061.6305504
-    },
-    {
-      "t": "2027 around background clear coach flyquest full gryffinn head lcs lineup massu quad reapered rebellion rebuild rebuilt shopify trio under vulcan",
-      "ts": 1795540065.2287202
-    },
-    {
-      "t": "12 26 aloysius arena capacity college competitive completed cresson doubling esports expands expansion facility footprint full has its mount pennsylvania physical push recruitment scale station student varsity",
-      "ts": 1795540068.8368218
-    },
-    {
-      "t": "27 asics banco brand brasil brazilian debut direct exposure financial fluxo following game have inside institution japanese kit launch lotus manufacturer new pink secure secured sportswear through w7m",
-      "ts": 1795540072.9198058
-    },
-    {
-      "t": "13 2026 24 branding brazilian competitive december esports features featuring ferjee gamecraft has imperial jersey major november organisation pgl project running singapore social unveiled",
-      "ts": 1795540076.6090138
-    },
-    {
-      "t": "2027 2028 agreement become competitive display emea esports games has joins korean manufacturer official partner partnership riot seasons signed south two valorant year",
-      "ts": 1795540083.065239
-    },
-    {
-      "t": "10 agreement brand cafe deal entered esports european fire franchise friendly gaming has ink international launch licensing liquid network organisation pay team venue year",
-      "ts": 1795540086.7170415
-    },
-    {
-      "t": "100 all backs bakers based but cairn chiefly conve dev developers established firmly game help indie issues looking many market marketing ndash now only publishers publishing risk route self smallest specific still taking viable why you",
-      "ts": 1795540090.461146
-    },
-    {
-      "t": "accommodation applications conference croatia develop developers fill free games gap has includes industry investors its left looking new offers official opened packages publishers reboot seeking selection showcase splitcreen splitscreen travel unreleased which",
-      "ts": 1795540094.0559556
-    },
-    {
-      "t": "6 biggest but came christmas close come concurrent declared did driving early ever firm game gta has highest history its largest launch not number platform players playstation record sony that",
-      "ts": 1795540097.6725774
-    },
-    {
-      "t": "2018 2026 260 action agreed apply apps august between can claim class content developers games google july million mobile now play pound released settlement share store their who",
-      "ts": 1795540106.3253498
-    },
-    {
-      "t": "8217 8230 advertising ban becomes bill bulgaria choose gambling have keeps law lawmakers make merged mps now one option post settle three versions which wording would",
-      "ts": 1795540109.8980424
-    },
-    {
-      "t": "burnout evenbeter finds headshot igaming keeps manager mos most offers open pay plans poor post professionals relationship rise staff stay study tempts their weaker while",
-      "ts": 1795540113.5316253
-    },
-    {
-      "t": "8217 8230 after bettors blocked casino coalition free gambling keep licensed livre online parliament plan players portugal portuguese post rejects ruling sites tax their winnings",
-      "ts": 1795540117.1248307
-    },
-    {
-      "t": "8230 around bgaming booster build character christmas evoplay familiar features festive format greentube have post releases series slot slots studios their three wrapped",
-      "ts": 1795540120.7415829
-    },
-    {
-      "t": "all appe backdrop blackjack campaigns follow holiday iconic21 instead its keeping launches led live look newest one operators post seasonal seasons supplier table wants year",
-      "ts": 1795540126.407471
-    },
-    {
-      "t": "000x 1 8230 adds appeared arcade change draw first game how its keno launches lottery multipliers play post pragmatic prizes range risk settings style supplier that",
-      "ts": 1795540130.147079
-    },
-    {
-      "t": "14 229m 3 30 8230 based betting carried every gambling game grow growth land lithuania lost online post revenue rises slipped slots type venues while",
-      "ts": 1795540133.8648472
-    },
-    {
-      "t": "8217 8230 99 absorb approve cast cirsa cleared deal group has italy its leader leaving lottomatica market merger post shareholders side spain spanish votes",
-      "ts": 1795540138.2457027
-    },
-    {
-      "t": "2026 500 6 728 840 about air bet bgmi breakdown crore did earned here hype india inr investments krafton million new post q3 results revenue usd what",
-      "ts": 1795540142.4070888
-    },
-    {
-      "t": "24 added additions adds available buy four fresh game games has hit including microsoft more new november pass releases separate series store titles today two xbox",
-      "ts": 1795540149.5021722
-    },
-    {
-      "t": "0 2 2026 24 7 adds alongside arc brand cent complete cosmetics embark flames flickering has introducing nessuno new november out players project raider raiders set shipped studios update",
-      "ts": 1795540153.0770848
-    },
-    {
-      "t": "1 2026 action been bo1 bringing commenced counter day festival has having long major matches month opening pgl recap singapore stacked stage straight strike teams",
-      "ts": 1795540156.656548
-    },
-    {
-      "t": "6 955214 appeared city code find firs gta here hotel how inside location marbelle post reveal safe vice what where",
-      "ts": 1795540160.354437
-    },
-    {
-      "t": "0 1 13 2 3 8217 day defeat elimination fall faze gosh into leaving liquid lost major nightmare one pgl post return s1mple singapore them turns",
-      "ts": 1795540163.9188738
-    },
-    {
-      "t": "6 after already booting boots build cyberleek executable file gta its leaked leaks missing modders none now post progress released say though verified windows xbox",
-      "ts": 1795540170.3932078
-    },
-    {
-      "t": "8217 answers back backed board both bring demand democrats does end his huang jensen lawmakers not nvidia parties post questions recommended republicans return say says that their trump while",
-      "ts": 1795540174.4448977
-    },
-    {
-      "t": "10 22 brand cafes european fire franchisor friendly gaming has into its licence licenses liquid post rebranding signed stake taking team turning year",
-      "ts": 1795540178.1769283
-    },
-    {
-      "t": "39 6 auto becomes between biggest confirmed game grand gta history launch million more numbers out played players playstation ps5 record sony than that theft unique",
-      "ts": 1795540181.7514133
-    },
-    {
-      "t": "2027 about all biggest cup esports know nations nbsp need sports tiger tournament you",
-      "ts": 1795540185.440463
-    },
-    {
-      "t": "0 2026 4 800 aspas code crosshair current dot dpi gear his plays sensitivity settings valorant white",
-      "ts": 1795540191.1112735
-    },
-    {
-      "t": "1 13 3 30 after bo3 chinggis defeats elimination face facing four gosh have leave major maps pgl rounds s1mple singapore survive two warriors won",
-      "ts": 1795540194.6501632
-    },
-    {
-      "t": "2 3 ahead biggest but charts december draws esports falcons lead major not play popularity pre ranking spirit stage three top until viewership vitality",
-      "ts": 1795540198.2709308
-    },
-    {
-      "t": "13 2 2026 9 beat dust2 flyquest major move one pgl pvision singapore stage upset win",
-      "ts": 1795540201.8685305
-    },
-    {
-      "t": "after all ban bonk cheating coach enemy five found four head investigation kickoff knowingly part players positions qualifier ran riot showing software that took years",
-      "ts": 1795540205.4767551
-    },
-    {
-      "t": "below claims cologne ever him major manager marinhas off pgl point sales same saw says singapore start sticker team their told trail worst",
-      "ts": 1795540211.215545
-    },
-    {
-      "t": "13 after around beat cancelled chelo flag heroic hours imperial later major match monday opener plays posted premier server vacnet",
-      "ts": 1795540214.8039048
-    },
-    {
-      "t": "1 1280x960 2026 400 9 crosshair cs2 current cyan dpi gear his plays sensitivity settings small stretched zywoo",
-      "ts": 1795540218.441928
-    },
-    {
-      "t": "2027 algs championship sapporo",
-      "ts": 1795540222.0099661
-    },
-    {
-      "t": "day debut eight four his lower major map numbers one opening posted ranked round s1mple second side went wildcard win wins worst",
-      "ts": 1795540225.7405567
-    },
-    {
-      "t": "2 4 academy controls dandori gives life nintendo pikmin second switch voice",
-      "ts": 1795540232.569347
-    },
-    {
-      "t": "1 24 4 alongside announced charity december developer dlc fair fireshine free games jam jingle launch major necesse november panda publisher refined release that they update version will worlds",
-      "ts": 1795570002.86447
-    },
-    {
-      "t": "30 blue exlix fishing game its launch launches life mechanics november orion reworked simulation steam via will",
-      "ts": 1795570006.2616534
-    },
-    {
-      "t": "70 acting announced chopchopstudio confirming confirms crowdfunding cumulative developer full game has indie its million passed producti raising storytelling surpasses that tumblbug vividoor voice vtuber won",
-      "ts": 1795570009.703247
-    },
-    {
-      "t": "adding adds advent collectible event fug game god grade has highest its limited netmarble new one released rpg story summon teammate tiers tower update world",
-      "ts": 1795570013.0915122
-    },
-    {
-      "t": "000 10 2027 24th 5 about arena august capacity cologne doubling fans first gamescom germany its lanxess live more move night onl opening over place room site take than time will",
-      "ts": 1795570016.5104203
-    },
-    {
-      "t": "10 2027 announced announces collaboration concert enix eorzean fantasy final first has july live march orchestra promax runs soho square symphony takes tour world xiv",
-      "ts": 1795570021.9817038
-    },
-    {
-      "t": "1xbet 2027 9 accor achievement announced award awards belgrade complexity ever first founder has hltv january jason lake lifetime presented receive serbia that will",
-      "ts": 1795570025.4851375
-    },
-    {
-      "t": "4th ahead bookings december experience family first focused free hand has its jumanji latency launch launches levels lost opened opens reality roam that tracked venues virtual worldwide zero",
-      "ts": 1795570028.9291236
-    },
-    {
-      "t": "0 1 33 addition appeared chat coming exciting features first includes insi most new one post proximity skate soon tons update which",
-      "ts": 1795570032.3415208
-    },
-    {
-      "t": "6 after appeared base been better compared digital extensive first found foundry gta performs post ps5 runs series testing than that xbox",
-      "ts": 1795570036.0067022
-    },
-    {
-      "t": "after ban chat feature game has himself his just kill lol multiple new one post punishments received receives streamer teammate tell tyler1 using voice week",
-      "ts": 1795570041.29134
-    },
-    {
-      "t": "6 all cascara complete fastest find grab gta guide help how illegal key motel operation post this valuables way will you",
-      "ts": 1795570044.720357
-    },
-    {
-      "t": "8217 able been blg champions claimed drx haven hold join korea lck leaves lol onto post reports return suggest that viper who will world",
-      "ts": 1795570048.0593822
-    },
-    {
-      "t": "4 announced appeared between fir game has its marketing officially partnership post projekt promote red release sony upcoming witcher",
-      "ts": 1795570051.4494479
-    },
-    {
-      "t": "2027 announces appeared cloud confirmed first gen has its lck new post roster season sharvel signing siwoo teenagers three",
-      "ts": 1795570054.8758538
-    },
-    {
-      "t": "006 3 6 against attempting bring community complaint copyright dmca down forks github gta has interactive issued its leonida most notice one port project projects prominent resulted take takedown takes two unofficial",
-      "ts": 1795570060.4723136
-    },
-    {
-      "t": "6 already appa apparently been breakups busy caminos causing center drama exploring finding gta has herself leonida less life lucia most others out players real relationship some than week while",
-      "ts": 1795570063.8939676
-    },
-    {
-      "t": "2 2026 4 712 combin currently cyberpunk developers development financial has have its look part projekt q3 red results revealing reveals shared teams that them updated witcher working",
-      "ts": 1795570067.314214
-    },
-    {
-      "t": "8217 bishop blade bungie cinematic decem game has inspired join marathon new released reveals robot roster runner samurai set shell showcasing symbiosis trailer upcoming update wielding",
-      "ts": 1795570070.6454668
-    },
-    {
-      "t": "51 8217 according anti apex banning cheat cheaters developer entertainment has javelin legends month more new progress promising report respawn results revealing reveals shared some two",
-      "ts": 1795570073.9727094
-    },
-    {
-      "t": "ball bottle brings cap childhood city counters eyecraft favourite football game ghana giiks has into rahamani screen turned yuba",
-      "ts": 1795570079.2511916
-    },
-    {
-      "t": "2026 24 6 america announced card cards collection coming contents date december first games gta gtavi licen november officially pack panini rarities release rockstar shelves sports trading",
-      "ts": 1795570082.9641643
-    },
-    {
-      "t": "100 100m 2026 24 dead games million more movie november offer open priced red redemption report reportedly rights rockstar said says surfaced than them want",
-      "ts": 1795570086.363412
-    },
-    {
-      "t": "10 2 2026 250 after bgmi bmic esports here how india krafton lead points post rankings soul team teams top work",
-      "ts": 1795570089.7347426
-    },
-    {
-      "t": "esports forces games global joins lgd market nbsp riot targets 파이낸셜뉴스",
-      "ts": 1795570094.0382257
-    },
-    {
-      "t": "after com faces fastbreak issues minds mpl nbsp salary seasons still twisted two unpaid",
-      "ts": 1795570099.6142335
-    },
-    {
-      "t": "2027 ahead daglas esports join nbsp set sheep shifters sources",
-      "ts": 1795570103.1226773
-    },
-    {
-      "t": "2027 cblol esports join jojo løs nbsp season set sheep sources",
-      "ts": 1795570106.896203
-    },
-    {
       "t": "00 2 27 30 4 black crafting dec details fri friday legacy lineage midnight nov opens special wed world",
       "ts": 1795601019.5901806
     },
@@ -21392,6 +20916,26 @@
     {
       "t": "100 13 6 against both did eternal fire lost map mistem pistols quick regali rest set side still their thieves tone turn weakest won",
       "ts": 1795601220.1077743
+    },
+    {
+      "t": "2026 27th 29th brand delta detailed dreamhack efg esl esports faceit festival finals force group has lineup marvel november returns rivals runs snk stockholm stockholmsmässan sweden which",
+      "ts": 1795636575.300991
+    },
+    {
+      "t": "5 9th announced colony december expansion game gets has interactive launches machine management mars new paradox playstation ps5 relaunched robots series surviving trains utopia xbox",
+      "ts": 1795636578.9516835
+    },
+    {
+      "t": "after apex drew failing former founded funding game goes gone gravity has hibernation into its jon leads legends lost mccoy releasing replace shiring studio veterans well without",
+      "ts": 1795636582.336606
+    },
+    {
+      "t": "4 agreements campaign covering deal entertainment has including interactive marketing new partnership playstation plus projekt red signed signs sony tie witcher",
+      "ts": 1795636585.8380952
+    },
+    {
+      "t": "27 adds archival arts back bringing commentary commentator electronic football generative john late motson recordings recreated sports using voice",
+      "ts": 1795636589.3522484
     }
   ]
 }
