@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGZMYUpOeF9tTUM4dmFnWEhhYmg1aS1HN1p4Z0hBdHh6OE1hNkhZR1diSXI5aFdDZi00cmFjbVlGVWUzZEhDMkI5MTEwekJoN3RhRTNGcHpjUnFpc3pNX1lmVFdDRHhZQno3dmE1N01sa0Z2LXRoZGJubkdubFctT2FCR1l1RC1KeGRiRHF1S21kQ0ljSy1zdmJR?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTUFJTVlwNUc3TFdIQ2xUMmRwYUM4TzV2MFMyTjZ1WDFPckdIaEpTRkl0b1A1TDdWeWZaeFpiRmd2MHVqRjFGMWVVckJwWkYtSjQtTEJhNk5lUnA4Q1RZdGFfdElCWTFWNzBlRnk3TnNYdHkzSzRLRE9JMlNQN0RDRnI5Q0x2UXBzR2pwNTZldVdfMVE4MGc?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzA1c2dHLW54Q29Tc2NzU05haURXN19VMUh3Y2pwZ24wcDJGYU0xRnlyeTZsTmdFSUNJYll5WVBKVlExS2licElHZlV6Mk83d0hGM0diNkxHVjIzbG1Tc2I4QWVFa1BRX2FidXJPc1l1cmw1TnhLZlRDVkNzYXoxTHJOR2hfWDBJWVlhSW5XRmYwdw?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVozTUZ3UmlaY3o5TFRBdXhlNjNVZThLUW50Uks4bFFCelh1QXFEZXYxd2lXQTVpeWl3YnhmbjlRRWpKR0VBNE8teGhlN2dYb2ZCS2pCZWR0Qi05WUVveG5QYlNhcFRmOHFhVUlJWjhmaUdoeFJhMG5PRU5GNm94MS11UjR1dG43YmJocktTMlR4N0kzdnBMRXRVZkE1RGVuSEtRb1A0U3ZSc0FUMkZLSUhhMVBnRjhjVDlGMnNNZXFDUllo?oc=5",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQUdLLUVnYU5ueUFsNURpa1FxUWRQNlJLSGgzbGVkaVh6NWxPTlk4a1N6aHgwUkxCT2ZFQVI0NldjQlJCTUo3bkNuTzVjMzNtTTZpeWI1cWs0dHMwUXM2THBySk5MTkNqQnlOYW9RaXpURm1FZE5VOWt4czFKX2ducWpReUF2TWg5UHd0cVFTTWJFbHdHV25iQzl2M1A3QmpRVUtQS2tPV2l0UDUtQjJyUmJNcXJqTXVzQUZndDMzWDdaMWVVYlRrck12WlFwdlNqZnU4OVNSOA?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTW9UZDZMZlRERk0tUHhDWnlNZ0hjcWUxNG5yRENGMHI5MGVUT3JIOF94QTZCeGpTVHQxTUNudjNQaVFSMk1lWEFZUzBIU3ZFb21Fb3luMDY0eXVqT2gyOE5SbG1QTnAwb1ZZd0JoZDN2aUF1b0dHZkJySF96aGwyc2ROUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbFNodE04RzE3ODhySFROckpnY2JGamt1RGpRZGZfN2JhTDI3T211d3NhVlJXVll5VDNVdVB1UnpwX3JEQjQ5dEQ3ZkhyQnQtNDNBc3hhS3M5Vkx2MmJDZ3hkWEk1UmhiaUx4UWNDNUo3QUFkVk5FQ2wySGF3b0xJN0FWcU9ndVRnT19XTklKaTJmd1d3blI4d29TeXlIN2RmaTRVZXg2eHJ2UFA1Zk1qNElYZ3NpZGFSVlNoTDhPZFM3TVRFV3VGMkxJX3J3djVpTVFfVTNJdDlfa2NzUU1lRUtzZUhkdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1BpMmtKeXZHaDJBUXFuVHNzakFyNkxwNDM1ZFpBQTNjMml5NlA1WW9HMS15VG1ySzI0RThpZGxrbU5hRjJ5dUtvWFpSaFhPSktYRUJDYmZJaUI5Qmp4SmNtdkNSX1JGY0hXdkJqbF9KZTlqM1V0ZHNUSWN3VWdNY3k1TzhfYzFoaEtLeDdvR2F5NmwyQXpsVXNrZlQwRGZ6R3piRmd5Nm96OFRmdVBNekNWUQ?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNldJRER0bmN0S1lER3c3V2wyVXM3ck43SmVNMGU2blZwNzdOTGpwZXJZUmZEaU5vVkxpUzVRNUgzaXRORVkyOEhOckIyLW9iNUFyQnF5Q0taMWx3S25aUVBjRWhXcFBQM1VJR2xDa1gyQmFIcW9GZ3VWVWpFcFdRTkJBbFdnTnhrU2x1em1lMzRzTkVWb1lTZUVSREFJdURw?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLW9lZ3RBQTc4ejF6SW02a3hqWTEyTkx4NzlnX2t0RHRUN2k0QmdabnJLMEpndDI4U0dtNE1iQVdLVnl3UXY4Z21VRVhEWlVfR1hLOXkycG1xRzFLaW53ZFdGZTZrdHVRMjVvSkFPWURBbHpzdjNsdDBjYUVVamlFc2Y0TlQ2dWFJWnl3?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbUt2V1dfZzg0RnlxRXZma2lZZDFMV1dJSlRLRy1WNGtfZE5ZcVJxeFFWSjk4ZU9kUG5aamhWbkVBQUtIS3NZSHh1b2ZkREFDRTF3OWhsbnBLa1ZwcjV3RW8yYWlPNFdGVVlFT0ZGSWVUX1p4NzlLUGZFcVBRZi1mLTJhckdEMFg1R1djamc3S2pMZXQ1X29ob2NNQjJ4R0lVenNIb0hfR2czQQ?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.hltv.org/news/46047/tyloo-bench-moseyuh",
     "https://www.hltv.org/news/46046/lake-we-play-best-when-were-most-energetic",
     "https://www.hltv.org/news/46045/jba-comes-up-clutch-in-m80-win-over-heroic",
-    "https://www.hltv.org/news/46042/soulfly-full-of-praise-for-fabre-as-you-can-see-he-arrived-and-we-qualified-for-the-major"
+    "https://www.hltv.org/news/46042/soulfly-full-of-praise-for-fabre-as-you-can-see-he-arrived-and-we-qualified-for-the-major",
+    "https://www.hltv.org/news/46032/pgl-major-singapore-stage-1-highlights",
+    "https://blog.counter-strike.net/2022/12/40705/",
+    "https://blog.counter-strike.net/2022/12/40706/",
+    "https://blog.counter-strike.net/2022/12/40649/",
+    "https://www.vlr.gg/794166/sato-and-leviat-n-close-a-chapter-part-ways-ahead-of-2027",
+    "https://insider-gaming.com/faze-pgl-singapore-major-2026/",
+    "https://www.esports.net/news/gaming/gen-g-rebuilds-around-chovy-and-ruler-with-three-teenagers-as-canyon-joins-hanwha-life/",
+    "https://www.hotspawn.com/league-of-legends/news/lck-2027-roster-tracker"
   ],
   "title_hashes": [
-    "cdde45fe3c5811840804514e1b53cf61",
-    "734e6aa7e094a307a59f3a35ed77ab46",
-    "734e6aa7e094a307a59f3a35ed77ab46",
-    "b1d420b598eaa2d1653c20d2ea9a6756",
-    "a930bd2e7a4ef29cc485a14ee4e7151e",
-    "272cec1614952dde673d33f7e861adeb",
-    "0f17a617f9af0ffbb289f07b736a791d",
-    "02469f9252cbec96ccf0652e51d9ab82",
     "8754c3d63ffa4a7534355d7ca0935bb9",
     "5dedd219171a5dc9623b8018058f92ca",
     "7f6f6f3228537be9869bdfe87deff530",
@@ -16001,7 +15993,15 @@
     "9b6e6d2893387c6befc535b2733d5033",
     "97d986e2afa2c72986972e6433fbeaf9",
     "5c77b333fe08349928c4329d3ba75527",
-    "3a99b8d00ebc6f28a97ccacb101277fd"
+    "3a99b8d00ebc6f28a97ccacb101277fd",
+    "89856dc1dec3014daf53f6c690d13a1d",
+    "0044170188e75cf359ec853d415430ed",
+    "5e46bd253be5629980cc76e5cd26525c",
+    "e0f986236788636115a69442130cba3d",
+    "7d7235b74465935e8997497b0f05e852",
+    "821acd1d24081e56bc95258090418125",
+    "943ed4f6cab1f47de7822f099d3b6ce3",
+    "7602353a4ace08c1ec6d2614b7353cf9"
   ],
   "transfers": {
     "pages": {
@@ -21284,6 +21284,26 @@
     {
       "t": "ability according arrived can care coach come fabre full game him ideas inside major makes outside players praise qualified see server soulfly special tactical take you",
       "ts": 1795601112.412363
+    },
+    {
+      "t": "1 all best broadcast check highlights major one opening out pgl place plays singapore stage",
+      "ts": 1795601117.8473477
+    },
+    {
+      "t": "2027 ahead both chapter close fresh lev leviatán part sato start ways",
+      "ts": 1795601121.1975694
+    },
+    {
+      "t": "1 2 20 2026 after away defeat elimination faze left loss major one parivision pgl post record series singapore them",
+      "ts": 1795601124.6637168
+    },
+    {
+      "t": "24 around canyon chovy experience five gen gone hanwha have its joins kiin lck lead life little must november rebuilds replaced ruler runners starters teenagers three two unteste whom worlds",
+      "ts": 1795601128.0784862
+    },
+    {
+      "t": "2026 2027 after back been best biggest busy changing gen had has heading int its lck league lost members names offseason out particularly roster several stove teams this tracker two which worlds year yearly",
+      "ts": 1795601131.4118721
     }
   ]
 }
