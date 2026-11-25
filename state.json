@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3czZEV4cElWV2FObUk5YTJLY2o5elg5V0tUSkQ4VGhtOG1pLWxNbUdUVkRpV1Z0TnFYdnoyRlM4RU83cmlaZVRIZkVjYXd0X2FuOFVnZVJoRl9oc2VHcDdKZ0pFMFY5V0xzVUNvNG5URXNTRFJwcWo1UGZGQi1nMHM5MXNFbWk2cjNXNVBlaTVybTRzbTVaWmg3aUhIbjlQMGFETTFGVkJmbVXSAbABQVVfeXFMTzNfYWVNQmFjUHVOQkdOMDQ0X2xqZWN4NWxsTFJxRHFwaDlRb0J1aU1hZ2o0bEJnQkJrX3drWV9wQVJnWmlTWmxzMG5SRjZHUXM5amtrckdra2JyZHk2V2Z1bzIyN0gwLXdvcXpOTDN1WUxTUmJ4S2xlbnU4NE5LNGFIN2VFT29Sa0NLQXZCQ2ZWb3pQMDVWLVB6RXNZd2dUUmtSTy1ySzlBUDNOYmNCVG0?oc=5",
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2k1QnJqSEpVQmFkNmtNMk1VeUl4MGEyTnpTRFJkbUdXTm5YOGVnejdxZVRRRFJQTnJVOUtJZFI0cldtbi1sM0twT2RxZmhuTHRRcFdPQkNjMHAzV2lNTG9lcFRpaHAyNlBBOXdNM3hfRUlMdVFuUUhPSEhFcUxkZVlhT0ZtS19NRFZSTlh2VmtwZkJfSXZrMnh3b0R4R09QSnVOQWdpdFQ5em4zY29TejZOdTFUektUdTFIQ2I5Q2pNb0Q4YjhnanRLQS1ZQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQekVpM0p5UHdFdWZVbUJMZjEyS2gwSlpvQU15S1o2cEdaV0stbThPR2p4Z1NfUnp2dGM2THUtazE5ZUk0OXpfQ0FkZUppWDNLZURtNzdSZWFlQUZzRGp2MjBjdU5wSk5qeGZTR1R0dWhBbFpJejkyQVU0cWJtMlhiVWttTDBHcGtkcUVWQ2dNM0Z4WUl2M0hNb3FxWTRSdzBEVWJDTUtlMHFHSHNpQi1Oak04ZzNXdHp5dm5xOGMwNDJKN3Y1ZG55c1hGb9IB0AFBVV95cUxPZ1hhS3JCcGxvbjVOSmRJby1ERF8yOVRlUnNseEZhWm9wMU4walZkTFdKenh6SlpRWUdJVk9iZzUzV3FyZlFBakx5VFFLMnpGYmotOHhoS2RyYW44VmV6RlItejd2S25sNjl6UEFQUmhRTkF5d3VLdFBaNlh2WXV1UGtReVZ3SDZBOVpBbWVYWmgxU2M1SkYwYVEwY3BqcHdMVWxvSUJUdFE4OUpFdlBWcHhZRWtFamJudUR6Mzk4Z0ZiWmtOSzRiQ01Gd29NN0hZ?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWJrb2FjclIxQUlhTjd1UnZhNlQxb2x3V2ZNTnN1WnBtRDhEelpZTTVjSmhLSEIzRGxPbGV0azQwZjFBaTRtbVQ5bVBNeUU4a1hkMUVlelRHQWV3Y1E3eFBYY0FZUlpfR2w5MGNkM2lhMVNfYjEyemVGZ21jamV1WGhYWVZTTXRHcmViblJZcnhrTHFObjN0QkhtWVFEeFU5Ukg4NjY3d2VHN0hwMFlWMVR3WThlX2_SAbwBQVVfeXFMTkdJOThXSkxUVWp6Zmc1MTRSTi1IR2dtektMWW9nNHI1NzRsSFZlOEJEdzQyaWVqWDBkYjV5ZEFDX0RBVng5bnhwRmpScUJQcmhNdy1kd3lOQnJZVlRMYWpLWk96UzlFeGJqS0pfN0s1V1VPUkFPS21LOG5DbzBrazBCWVhMV2R0S3p5czhnbV9TV0lpcEtQNFRtcW44Qy1XdDhDZlNxbEh3WU9nQzlvc1pJbXR2WlhteFluREo?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWVF4d0ZqTWU5X2hhNTZwR01DejRSZXo2RE9raUhfYjNHSmlXcHlHMXZuOTQ2YjB0amJOSGZoT0FYVmxwOC13S0JOYTN2VmdBeXFZOWNsTG95R2VNbE9sN0ZGdnQwN1h3d1BYd2pVWWRjT0RPcllvQ0ZHZWQzcUFTaUVud2kwUFVMZVdmQ0RQZWRPMFJGR3U0Ynd3?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWwyUngydy1DU25oMW05UjdLNTZqNzJXVHB0UzFtOWtTckl4aE9jOUY2RHNkdlVEaVFYV3J1REt1ZWhrMEZuQXQ0NzQzV2s3MkhZTzFJNkRvMzhOVm93cE0xRzNWOVlzbFBpYnctMFFIalJQcUd2dEtNVDE5MG04dEdxQXNERWZkWG9jYQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUVNSzVlM3NEZVRLVm12bk5hdlRvZzdjSlYtRF9ZMkVSZzI1eW1HYVZlZDBSRnZDVUdtLWU1dXpickp4MW94QlRCUW56bklMdFJBLS1PSjh2ZmlsVXJ3X0NPb25ucnZkZzRZWHkzczRULVJrWkp6REk4dkhDemJMOTNpTXJzS1dld2FhTVpzYnRKRU01SGE5Q0VLU243NUhPUzF2SGpkNzNiRXRtbmxQX3NaamVBWlFyMDRr0gHAAUFVX3lxTE1lVlFYeDJ1bUlXMFJmWnNGaXozSGJxdTBCV0F1RzFxb0VkX1dVYVlaS3BMUUZnZVVfNGYzcEhMSDNzNjg1Nmdta1o4RDNycjRFYWx5enBOZTVSblBFLW90S3NZWXpCSjQ4MWpsaGg0d2FsV3VnOW4yc3FaNFUxdG9GcW1ZbjBSbGQ5NTdsNG9jbWswX3NaMGh6Z1hYYlhhM2xhbVFGeHpubm5rNkxhREJGN3ZNSWVnNlZCaVcxRnBzOA?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU0NhWXNMc2FOTTFqbWhIc294bGNyZ0N1WkRTekxLVnBRUTJtRFNSREJFNVpHYW44R1VHNWdpeGdMbjdMcjlLMDR1YlRiZmhwZnRtMTJZRXNrWWp6M25sR0ZOc2RqX0luVllLajVFdEplUG4yclNjd2NRWTJmcjEwOTRSTl9ZV194NEFIeUk4WDY0b3poUHk5Y255N3JvM3N2VUJ1MHVNQkNfN0tTN2hoc0FWcFpieGlQUi1yMGdBUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVFRaW9lV29veTk3ZW9UMzl2MDVqZkwzY2ZXOGR1OUYxSFFONHp5UWpTRFhsSmxzemx2NjhEVmxRaEpVLWM3X2ZKZXg2M1pSVFJ5aXBFS2JkT3JuUEFXMzVMbWlBcURNLXFyVE9hTlhhSnNKakxPNjVUNE01U3RvZzNCcXlxVm94NzVz0gGQAUFVX3lxTE5WQ1dLbmFSa2JnQllKWGg5b19GQ2JLYWlkR2pTOUJxYXM4QjU3UFdZRUFzVXBmc2R5VzZ0U2tkOHV6SUEzc3hkZGpVbTNVU0hDZjNJX2dfbXhya3JmcDlFMW5vS2ZCZy11UWdKaFJTOVpGZ2NncWVhemJQa2VDQTRrLUpEQVE1WVFFQjZCRWNReg?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLWpBeEs1TkxJVjY0RmFWVWFNRDJfUExuSmFYRDFSMllUYUswdkpiaVdBQXFuWE5mSG9DRWxzS0E2NmJQZDdRRFdDMTFLZEZtM3AyM2JGdTZLNEJmTFFiOUZFZHdDcmdNWS11SmhnNUFPRjdQdm56UmFfZkk5ajRUUE9DZzM0Wkg5cHR5T2g4djc3UVpnOXZfeEZULUM0X090b2hHYUtyem9oeVFwSHBR?oc=5",
@@ -7999,16 +7992,16 @@
     "https://esportsradar.gg/worth-the-trouble-how-esports-is-becoming-a-major-win-for-hotels/",
     "https://esportsradar.gg/redmagic-inks-pubg-mobile-global-championship-sponsorship/",
     "https://www.nerfplz.com/2026/11/best-team-comps-in-lol-10-full-drafts.html",
-    "https://www.nerfplz.com/2026/11/weird-pick-178-mid-lane-gragas.html"
+    "https://www.nerfplz.com/2026/11/weird-pick-178-mid-lane-gragas.html",
+    "https://www.nerfplz.com/2026/11/red-post-roundup-10-runes-stay-team.html",
+    "https://www.talkesport.com/news/aion-2-pay-to-win-stigma-shards-backlash/",
+    "https://www.talkesport.com/news/aion-2-november-25-update-patch-notes/",
+    "https://www.talkesport.com/news/cs2/pgl-singapore-major-2026-stage-1-day-2-recap/",
+    "https://www.talkesport.com/news/cs2/cs2-esports-world-cup-2027-2028-riyadh/",
+    "https://www.talkesport.com/news/pubgm/pubg-mobile-4-7-patch-notes-november-24-fixes-metro-royale/",
+    "https://www.talkesport.com/gta-6/gta-6-woke-backlash-afp-cbc-wired-jason-lucia-romance/"
   ],
   "title_hashes": [
-    "8072fbd67e37f688afea95d77e64aa9b",
-    "65f5b8426c7dd7aa8d7f5ac3d3aa3c24",
-    "56c2ab2ed31f3fb6c9da2895133508aa",
-    "9be886546bcc37687e04fe1cb2945cbb",
-    "218393266f7010d2ad07057b1d0b98d2",
-    "f7afc6ab86a15e7380735225da954325",
-    "5375cc5b9a0f348936630271b867ec2c",
     "28ce9a85f7ce720d044a6b5cf1ee3a3f",
     "647ee362892f82c109bce8c12bce6d7d",
     "edd04d1cfe6db829a5dfe8ba7909be78",
@@ -16001,7 +15994,14 @@
     "161d2834adc8d20d658c864b3c325302",
     "1d72cf7f8a79e261da9d2b805a807619",
     "b68b5cdf15cc97dfac453a0ff2767315",
-    "b06f4e34c5bb6dde93fe0c557e58163b"
+    "b06f4e34c5bb6dde93fe0c557e58163b",
+    "a6ecfb88031089ab8d12d012c17a2fee",
+    "459a4c2072e7d4f67965dce1e3511977",
+    "dd002122eab87dec5198783360d02b7e",
+    "3ac773c4ecae5b6b5686838080b1d257",
+    "6a3a6419a6acd8343e595511575d8eb4",
+    "7c37f492fbc6df59d2543d69ab8cad8d",
+    "5e1093e9d7ab8e57c19bfce33209080f"
   ],
   "transfers": {
     "pages": {
@@ -21116,6 +21116,26 @@
     {
       "t": "178 back before didn generation got gragas him jungler lane lose mid moved nobody now pick players somewhere stopped support that there thinking weird",
       "ts": 1795636760.52228
+    },
+    {
+      "t": "10 after also answered arrives champion comes dawn day engine every head inside loudest new own post questions red riot roundup runes skin stay stays studio team teaser voice you",
+      "ts": 1795636765.6802197
+    },
+    {
+      "t": "2 5 aion been between but crossed ever fine free game global has have its just launch line might october over pay play players since slam today update walking win",
+      "ts": 1795636769.3665648
+    },
+    {
+      "t": "1 2 2026 along back bow day eight epic first following given has major out pgl qualify recap singapore stage teams tournament",
+      "ts": 1795636772.808575
+    },
+    {
+      "t": "000 1 2 20 2027 2028 32 700 august champions counter cs2 cup esports event july million post returns riyadh starting strike team world",
+      "ts": 1795636777.0221665
+    },
+    {
+      "t": "6 8216 8217 afp backlash breaking cbc game gta has honour jason keeps lucia missing over post reached records relationship romance row sales sex system while wired woke workers",
+      "ts": 1795636780.440042
     }
   ]
 }
