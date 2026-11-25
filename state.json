@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPakxqWTFpaTQ4OWtic1BmM3BjNlNPMUNXbENOZ3dWcWhKSUtTTXN6bzdKTFZnLXJ5dFNFYTNPQVBidVlDUWRMZEdwVlFlcGJWVkgybXRPbEJZdUljSWh3NTYycXJYeFNNa3VrRmVITjhYOWFZaGRka0hEZnlQNUtQMDBUcU1aaEUwUmJkQ2ZpcFU0N2tEWTRqVU5USHA4VW1wbDNXT0U3MzVDUWdvR1B3RjJKRDA3SUZIQXRN?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE93MGdoYll5WTg0U0hVMGFmdEdORnBiV1hwTEVjbXltblNhSlRvYWNnZlh5WDhWbjBTY3V0aUpPN00xOS05RU9DSHpsVmRUME9BaU9adC04cmlZVmdvMTBzSjRTMjR3QmRlZjdtRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR3Ayb2wxQW90RTBVUl9ldjJDcVJWM3QzRk1JWTVHSWxLWjh5ZjEyNmhWLUtBby1UVE14MVc4LTBSV0Q4cE8tOU9ZRGtHeDNYcVNkdVpzS0hlOVUwT0lGZUJSWkFvYW1NbDZkUGZPZEFNWXBubXgydnhxRVVhUXVzRXZScVBWbzJRNDhjaFd2Wm9wbEZ1d0xiWHJMbnIwNGRRb0ZidzR0RmZPcTVHcEw1SGN0TUoxek91MkJCTm5fMU9FLVVoeUYxelRodXlCT0VVREc3bWoyWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OdURGNkhhdmRXczI5V2s0eVVWZTk4aHBUeDZzUm5xUnpkOG84RFNCejBDWEVMSTA4MFg3WVhHZkZNblRneGhwQnRvSDFmSVFXMzcxQTJ6aU9PMDJ6cDJNMF96aG5FNlRsN05LVjVfMnNHYXc?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE80Wm9tVzVGMVlvTExhMFNabEhmMHpISmVybEJ3a2xkMVJqc0JxQUFPOEJHX1lHd3hMODE2Rno3OGxvYnVMRWV1UV9Sb3AyYWx6MThEc2hIQXgtZmV1bzVSUUMxanRMTDROQ0JWcGRvMHE?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRlY1U3pVb09UTVJoSzREMVpFblB1RENyY0tQM2hDeEVBSzRrNS1nRHFmX0lCa1Jqb1JyYWE3MnFCRlllZmIybll1aTh2T21aTXdGdndJeUk3SEFHSjNpZkZ1TDBBUjZfUUxkYWp5NFNHRERlZ0E?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGlMWUtGaHZ6QmlGLTI4U2o3eWFoaXNkOFFWbVJIYWhfVDdJZG5xcUdnZlhhLVJCa0JjcVYwbk1qN29lWmhqT1BGMjc1YnZ3emg0cEg1SXF3Tm5CSFVteTNVV2pWUHNDYnA2WHZGTzVNTXZLbUpNd1hzbjZmZFVyNHdGQTZqdkYwR1N0V1pmTGNoWG0tVEE?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEpnTUVISG1XNUZialhuQlFibGJDOC1ZREs4Y0EtT3dOMk5ETWlER0laNWJMYVcxcldRVWpkMHlqSV9CM0hWbExpc2xKd196cFM3QkVJa3FhRGdUZzBDMV9ZRmdUSHNYNnJLd1Z3bHVzcl9wVjhwUzhrR004d012S0JVbFRUeG50SENCLUlXTlhvYnFwZnFTeld3?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGh3anhMaHpzX3JWbWQ5SkpDclhkQ1NlNFZweHZzNW9BSFNad1JxakczSnRDSDhzOXBuMXk3T2RzZFU4N05ZMVdNdV9EVkV0UzZjV1lETVVRVnJxVUNha2hnYzZldGNLRGZvWkozWUVITlk3Q3J6ZUc2TDlOVnVIcDRIT3FjMTA0Uzc3VHJldVptajVuV0Q5cjlaNDFxaVV2NlJhUzkwZ1dEZnh4V3JIag?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTFBOa2VidVBPMTh4ODcyYURvVk4tUkN1TnNiU1hZSWF1clRGakVBaG5EeVV2MVhlaHJLLXpNb2FPanNpMXFjWF9MRExUYzdPUDBZeVhwRWxWeUVkU3ZRSzMyTVpJaXhneHU0YThqdHEyeGhsUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TdzNRbHJPV0tmeVRqZEdhUDh6RE1JZWlWaXZaanRYeTExdnJObUx5OTh2MU03WS1nN1JMU2gxRm9IZ0xDRFJrS3BrVlc3eXhlelBqMVgxRDBwZ3dYR19KWjRqdW9EY2tXcVE?oc=5",
@@ -7999,16 +7991,17 @@
     "https://www.invenglobal.com/articles/29099/star-sailors-updates-new-3-star-partner-gerbil",
     "https://www.invenglobal.com/articles/29098/pit-of-the-undying-and-black-shrine-revamped-black-desert-nov-25-patch-highlights",
     "https://www.invenglobal.com/articles/29097/gravity-expands-business-with-three-new-platforms",
-    "https://www.invenglobal.com/articles/29096/lineage-w-updates-new-blood-pledge-content-and-lab-feature"
+    "https://www.invenglobal.com/articles/29096/lineage-w-updates-new-blood-pledge-content-and-lab-feature",
+    "https://www.invenglobal.com/articles/29095/krafton-officially-launches-in-house-llm-raon-1-mini",
+    "https://www.invenglobal.com/articles/29094/odin-valhalla-rising-overhauls-tower-of-infinity",
+    "https://www.invenglobal.com/articles/29104/azur-promilia-reaches-no-2-on-app-store-one-day-ahead-of-launch",
+    "https://www.invenglobal.com/articles/29092/eos-red-opens-siege-warfare-focused-server-vepar",
+    "https://www.invenglobal.com/articles/29093/astrae-oratio-opens-special-webpage-for-agf-2026",
+    "https://www.invenglobal.com/articles/29091/tower-of-god-new-world-adds-fug-grade-teammate-v",
+    "https://www.invenglobal.com/articles/29090/lancer-debut-legendary-gear-at-level-70-nov-25-patch-recap",
+    "https://www.invenglobal.com/articles/29089/cheonma-the-avengers-unveils-teaser-site-and-first-cg-trailer"
   ],
   "title_hashes": [
-    "36cc727101ae53275c7e979f8091089c",
-    "850d1d695ede7a8ff8904a779f7082ca",
-    "13d0fec19a0fe99364d8c8bbac5164c0",
-    "073a07a55a8ce47f8ed7af52491c732a",
-    "45a9e6e7a3536eb32cc0585076c11f25",
-    "37416ad14f6cb7dd6ac42f4c01688e68",
-    "0f17a617f9af0ffbb289f07b736a791d",
     "bac49efce1060c6a375c3631396e6e67",
     "734e6aa7e094a307a59f3a35ed77ab46",
     "734e6aa7e094a307a59f3a35ed77ab46",
@@ -16001,7 +15994,14 @@
     "ff97ca823f482a783c444c9cc79e16e0",
     "eb4d634a1229b328468285f0cfc8e6bb",
     "f2f51fd69a78e3c9c77127bbc7fe3e40",
-    "ca1806c90cdee551552d43717abbffec"
+    "ca1806c90cdee551552d43717abbffec",
+    "e255e0f5cbcb28a6cac3bcad7c833b63",
+    "2cc3076fbea46917ee9ca902f9b5a44e",
+    "c0762260ad33ec667fd852ee971bb275",
+    "3736c20e92fab463d85a59ba4004cf6f",
+    "9eb9ea79cbf60b6f81fea89f8d965b2d",
+    "23e17b7a74307c7f0b793a37727a67c5",
+    "683c0893ee4cd53ed5a0498db0d258aa"
   ],
   "transfers": {
     "pages": {
@@ -21244,6 +21244,26 @@
     {
       "t": "25 blood content feature lab lineage ncsoft new november pledge released update updates wednesday",
       "ts": 1795601073.5182006
+    },
+    {
+      "t": "1 30 30b billion developed full has house inc its krafton language large launches llm mini model officially parameter raon released self version",
+      "ts": 1795601079.1199496
+    },
+    {
+      "t": "25 announced completely corp games has infinity kakao november odin overhauls revamped rising that tower valhalla",
+      "ts": 1795601082.610741
+    },
+    {
+      "t": "2 ahead app azur charts day free game has korean launch one promilia reached reaches store",
+      "ts": 1795601086.1795654
+    },
+    {
+      "t": "20 2026 25 agf anime artbooks asora astrae award event festival game hereinafter launch mark november opened opens oratio page special teaser webpage will win",
+      "ts": 1795601089.5540247
+    },
+    {
+      "t": "25 avengers cheonma company dark first its mmo network november official officially opened published rays revealed showcasing site teaser trailer unveiled unveils wuxia",
+      "ts": 1795601092.9526606
     }
   ]
 }
