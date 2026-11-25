@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://insider-gaming.com/petit-planet-coming-december/",
-    "https://insider-gaming.com/xbox-game-pass-games-november-2026/",
-    "https://insider-gaming.com/escape-from-tarkov-zombies-standalone-game-teased/",
-    "https://insider-gaming.com/gta-6-save-you-5000-according-to-millionaire/",
-    "https://insider-gaming.com/gta-protagonists-ranked/",
-    "https://insider-gaming.com/how-to-get-free-bgmi-uc/",
-    "https://insider-gaming.com/mecha-arena-codes-latest-rewards-confirmed/",
     "https://insider-gaming.com/stalzone-promo-codes-stalcraft-codes/",
     "https://esportsinsider.com/2026/11/d4v41-and-jinggg-leave-paper-rex-after-7th-8th-champions-finish-pacific-place-secure",
     "https://estnn.com/fortnite-treasure-hunters-season-release-date-one-piece/",
@@ -7999,15 +7992,16 @@
     "https://www.invenglobal.com/articles/29120/nc-holds-first-ever-lineage-festival",
     "https://www.invenglobal.com/articles/29119/ncsoft-unveils-2027-vision-for-lineage-m-aiming-for-true-lineage-spirit-ahead-of-10th-anniversary",
     "https://www.invenglobal.com/articles/29118/goddess-of-victory-nikke-to-strengthen-pc-launcher-security-on-nov-26-outlines-recovery-expense-support-process",
-    "https://www.invenglobal.com/articles/29117/zeus-signs-three-year-deal-with-t1-it-was-time-for-change-free-agency-is-mentally-draining"
+    "https://www.invenglobal.com/articles/29117/zeus-signs-three-year-deal-with-t1-it-was-time-for-change-free-agency-is-mentally-draining",
+    "https://www.invenglobal.com/articles/29116/removal-of-grace-of-immortality-and-world-pve-siege-complete-2027-roadmap-summary",
+    "https://www.invenglobal.com/articles/29115/ncsoft-cbo-lee-sung-gu-next-years-lineage-festival-will-be-longer-held-on-a-weekend",
+    "https://www.invenglobal.com/articles/29114/zeus-choi-woo-je-returns-to-t1",
+    "https://www.invenglobal.com/articles/29113/lineage-m-4th-week-of-november-individual-world-limited-crafting-info",
+    "https://www.invenglobal.com/articles/29100/lineage-festival-the-whole-family-enjoys-a-spacious-comfortable-aden",
+    "https://www.invenglobal.com/articles/29087/will-games-become-the-first-national-strategic-asset-rep-kim-sung-hoe-proposes-special-bills",
+    "https://www.invenglobal.com/articles/29086/esports-world-cup-2027-reveals-first-five-titles"
   ],
   "title_hashes": [
-    "0009bee6d228f7de4a70e6c4b92fd74d",
-    "04b29480233f4def5c875875b6bdc3b1",
-    "f7ad61a2114196ff57af7a5fc2fb6808",
-    "bfe9e2ca692c59bda9c66d172dcabcc8",
-    "11e93ced189c516d3afce0d65085f2df",
-    "3caaf67cd2c743dc88bde86f8fcb311c",
     "8c0b26030fef4ecf2b088f4e12af9de9",
     "214f83101dd5cfa976ea68a29029321c",
     "8f64a3d6ac4d13293964bf5590540984",
@@ -16001,7 +15995,13 @@
     "8d4b26f607955550231f005395a57257",
     "545de0ab6d6a276715dfd7c151113366",
     "267624ed8fd86e65c392ac7964d20ff0",
-    "faa78fbae1220b6c4d7bbef3078a2a8e"
+    "faa78fbae1220b6c4d7bbef3078a2a8e",
+    "ecd023a7e5d9be9078fa0c2c1224ec06",
+    "4cc7c4abc3e10505d1d3b9173ee5ac03",
+    "220ea3787d123e5480f8fa3939e7815b",
+    "b7887a01687490ea24a9e6e845bd3493",
+    "a3601e362d4f3f3019ae0e3fe6f3d0f9",
+    "c8458b3f8e92ea7eee885baa487fe0e9"
   ],
   "transfers": {
     "pages": {
@@ -20976,6 +20976,26 @@
     {
       "t": "2027 25 agency announcement basecamp change conference deal draining free gangnam general held hoi jeong manager mentally november press seoul signs site t1 three time year zeus",
       "ts": 1795636628.15998
+    },
+    {
+      "t": "2027 25 complete during festival grace immortality its lineage master november plan pve remastered removal roadmap siege special summary talk unveiled update wednesday world",
+      "ts": 1795636633.1962862
+    },
+    {
+      "t": "2 25 aden brought cbo center encompassing entire event exhibition festival games held ilsan invitation kintex lee lineage longer ncsoft next november offline sung three together weekend will year",
+      "ts": 1795636636.6278896
+    },
+    {
+      "t": "00 04 11 12 13 2 25 3 30 4th 64 attempt aurakia boxes costs crafting each growth individual info legacy limited lineage november pandora per potions types wed week world",
+      "ts": 1795636639.995857
+    },
+    {
+      "t": "25 asset assets become bills content democratic designate directly enable first foster games hoe kim korea national november party proposed proposes rep representative special state strategic sung two will",
+      "ts": 1795636643.5929208
+    },
+    {
+      "t": "2027 25th announced cup esports ewc first five foundation place reveals summer take titles tournament will world",
+      "ts": 1795636647.0433943
     }
   ]
 }
