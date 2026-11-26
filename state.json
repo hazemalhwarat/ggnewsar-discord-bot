@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVa3JYckRZX0NqSHV2cXFtMHVDMFgzeDc5RFlsSE0tNjdMOVJuLWVmZzUwVkFLS253Si04RHRtbmxEeUdCRV84REFqWHlYZlJld1g4?oc=5",
-    "https://www.gamesindustry.biz/a-vital-message-to-people-in-hr-protecting-our-own-wellbeing-is-paramount",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4RC16VTVBSzFRU3JSa0F6eW9Tb0FEOW9sR3drX09fWkNBUGI2YWFscV9HTHJGcjRKbTdzdVJfVE84TjZTc1pHampGSHVhRnA2ZFNyekROY3dxVzVRc01WM18wRWpfQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMktaeFN3eV94MlhtcmtuSGlxdlVra2RHekV5ZzA1TXRLczJQSGg0Qlp5VnBlMUlDbUNyRmZuS3d3Y0YwM1NXMkVOTlVBbkNXbjlwSWJFUVZ6TkIzbzYyaVBtcW5OZ3h6SFpPZ19RbHIwQVh0cVJJNTBJNDRNYUNoMUVkY3pTVUR5S1ZZdw?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTlRRmFISFo1c05scV9fb3VuRUV6NHJfRHBiMzdCb1FqeHE2NVhSNUE3MDJxNERMazMtSFR6d1NzdndINmVSV3JqaVFjclY4alBUQkd0X1hHOEN5R2RtSjhjc2xGYXBEWmZULWZrSHR4X1otNHJ3OUhyLXBSYVdjT0VwNjBWN0ZMaUo2cmpXN1c2VVJwUVkzdnNZNkU0ZU1wLUlOemh1ZVNTMmhDc3pZRkZiN2Rndw?oc=5",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbmduZ3psZDNzWmRRUjMzMXhCbmFaQ254NlJCQ1JzdHdxeW85bVliRVVrZ05TcFhKdkhhbG82cTV5dHpSRHZITWUzOUVRNGhoVVRITkxtcG9JclgwM0pqQklRYi1HT0l4dFlSTg?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdmNYa3J0T1d3QTR6b1hPRzg0bm9xSHMxcFdZTXk3NzVNbUNFV0VheWxsc3dDTlBFTjJGdnU5cjBvU2pVRl96LTdQYUpPRXU5b05RQWJ6NFljUENnVU9XeXdkR05heW53c2hZbHZpa29FVmxLYUNxSXA0YkNmdVFJMHJab2xRbzRa?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelREUFVOVlFzOHFBZi1UVk1LSk8yZEpMbjdiZTRPT3NVS2cyMmIzWko3eHJ3V0VicmdZRnp2ZERoVVNra3J0bzd2Mmt5TzNQMHUyMk4xUjRLMWJ2VHlwSHVTVUJZZWJwcUNRbEJyOUJwcUstek1ldHA2UnVHQy1xUUx3VjVzV2lreVVVb1pObw?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRGhDNlVfTGlmNTV4bzNsMU5pNldCRzlydlc5M3J1VW1qdmlSdmhQRjhsVFFHbnZsc200NmJKMVY5Nmg3cnFPTU9ydjM3TDdId3M1UzFnNE8zbXpvRHpRMDV2US03ZWhOdldCMnVGaEc3bzhJNlExcGlpUHBaS2Z6VU05OHBuUDhzR21xN2V1Zk1hOUczeldWem9DdDR5SVMza3hkbmtpR1lFY3R6ekdUYnlsQVJLM3dQWkdzVjZwUHdEN3hySzRFVHV3?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmxpN1NrenJhTHMtZlVfU3U5V1k2S1pTcTlTcG1wNFZPeXY1UnBRNUJXRlJxVzAxVEJFUGJKeXU3V0E4OVM4emxmZmU5QmthNFFwcU1VU2swT014NkhxcDZPeHR6WUZKMWRHQWFueGVvc1IzTTc0MzlOeV9KVGg3cy00TWFsVGxOSTItam1Ea3M1WFUta3c5NXlXUFJYVTVSTndnSjdvaUxtQjZzVjAweHhyb0pIX3h5dTg5dGwyTElMaGRBUEM4?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjItdWlQeXliQzJybjBRZVJwU2lrMVZTUzBWYnEwTjhhRHRaSy1Sb25RX2s2YVd6UEd4VmNnUm1IS2poM0ZyenpCZENFbkVWdlVyQk9aUjQwV0cxQVR2QkZ4SjJhbFFtdVcyblg1NmFqWVpaYjJOYlg1MC0wcHc3bTZzWG9LYlgxRjlVNWlwMXNfdjg4bkhBdVNyV255T0txTTJfNXg2aExNUkEweEdnV1BydVR4Qk9QNkNjYnB5OW1aaHhNUFltTjlfQ1A?oc=5",
@@ -7999,17 +7991,17 @@
     "https://www.invenglobal.com/articles/29141/ncsoft-lineage-festival-attracts-16734-attendees",
     "https://www.invenglobal.com/articles/29140/neowiz-to-participate-in-agf-2026-with-two-games-including-browndust2",
     "https://www.invenglobal.com/articles/29139/eternal-return-releases-92nd-character-meissa",
-    "https://www.invenglobal.com/articles/29138/melty-blood-twi-lumina-reveals-new-playable-characters-and-main-trailer"
+    "https://www.invenglobal.com/articles/29138/melty-blood-twi-lumina-reveals-new-playable-characters-and-main-trailer",
+    "https://blog.counter-strike.net/2022/12/40696/",
+    "https://blog.counter-strike.net/2022/12/40699/",
+    "https://esportsinsider.com/2026/11/fnatic-open-valorant-rebuild-with-marteen-who-set-a-kill-record-against-them",
+    "https://insider-gaming.com/fix-weather-bug-gta-6-rain-storms/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-november-26-1264/",
+    "https://insider-gaming.com/11-hottest-gta-6-characters-from-mandy-to-andy-and-beyond/",
+    "https://insider-gaming.com/contexto-hints-answer-for-november-26-2026/",
+    "https://esports-news.co.uk/2026/11/26/enterprise-esports-open-vct-emea-kickoff-qualifier-with-sweep-of-masterpromegateam/"
   ],
   "title_hashes": [
-    "147b2614f53ff15b57858488f2a8af73",
-    "516179341f4650f623b33d2df7a146ce",
-    "0007e77726ff9c92170b25da9813ce6a",
-    "f0c14674f558384f6c1a6b73f0a8995b",
-    "321830c270c55bb9aa404a498836e896",
-    "377e133c3a63fc785a8c76fe16f4e680",
-    "125093fcb9593e49aa38dc182a1cc670",
-    "a1288ab1b2d4e309b4dd1b00b1e03df0",
     "12d54928ff60781c97222b091d35f608",
     "aee229719b2bb5b46e8babb1899ffea3",
     "0cd42f869d5f809fb5c7fb4b7a45b9bf",
@@ -16001,7 +15993,15 @@
     "517e97e8410d3abab00887d6dc3ff62d",
     "b85b15b7ad7565dce422bfa4f29d4873",
     "5f59a3238271addbcba7d819c0dbfe7c",
-    "6b95118220e7c8fd284c2b62769a7701"
+    "6b95118220e7c8fd284c2b62769a7701",
+    "a2acb0625139c71d21d9dc130aaaae2d",
+    "3eaeab6b937adf3e3523e7b76e22d42f",
+    "8128f1d789d3b8d96c1ea2079558c7a9",
+    "07850c49549e0f79e6de4c88a3a9cd9a",
+    "0125fb74b0ed554a632745003ac010f8",
+    "03866f5a9da3685ba71b185fd65d2107",
+    "bae64ded1ae0386b7f2d0816afa59f8c",
+    "07b5e332bc57aa50d53e13ba2d7d04b5"
   ],
   "transfers": {
     "pages": {
@@ -21240,6 +21240,26 @@
     {
       "t": "25th aniplex announcing blood character characters entry hereinafter inc key lumina main melty new playable reveals satsuki trailer twi unveiled visual yumizuka",
       "ts": 1795692710.3868356
+    },
+    {
+      "t": "2027 after against champions club czech duelist emea first fnatic gentle have kill london marteen martin mates missing new open player pátek rebuild rebuilding record set signed their them time valorant vct who",
+      "ts": 1795692715.9773004
+    },
+    {
+      "t": "6 allowing auto bug dynamic fix grand gta here how more occur one plaguing post rain seems storms tackle that theft way weather",
+      "ts": 1795692720.3751888
+    },
+    {
+      "t": "11 6 andy attractive beyond break characters down folks gta hottest know mandy might post ranking stacks there this you",
+      "ts": 1795692723.785475
+    },
+    {
+      "t": "2026 26 amp answer appeared contexto first full gam get guess hints insider november post stuck today trying you",
+      "ts": 1795692727.4719048
+    },
+    {
+      "t": "2 after back based british continue czech defeats emea enterprise esports featuring kickoff lime made masterpromegateam open player qualifier reading roster stage start sweep swiss vct winning",
+      "ts": 1795692730.7875836
     }
   ]
 }
