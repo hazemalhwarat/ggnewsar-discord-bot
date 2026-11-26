@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zNXItVVhCdXpDM1UwVkYxTjJxa2dDLVdFNWhWY1lyYlVRdy1sM1hQYjF4QWVJTmJIZkJTOWFRa0tra1NtczZvd2dlQW9qTzRrXzV4c1BZNkRDVVVWeVZsVGN2X1hYRmptT3BpMHAwOGpSRE5KalIydm13?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE1fWmtXTGlVcnpRdFl3ZENZblp4Nld4WEkzUUNBUkhMZi03Zl9pSXNJZ0ZxM0ljeWpUTUJKcWtFa21qM0k4Qm9pUl9Pa0JldXBzamFpWEd2WllEU3JjamdKNXEzV1ZCN1lYeDVWSFI3RW5Rdw?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVdvNklQZmRGTmsxNkFnZ2diWFdPakNSTTdZNVFFZjZYTjBiMElFYkZTeW1pX2wxbW01elFQd3J3TnZmYktTMkJoSkVJSlVrcXRCNVpMbElfRFZvdnpzZnFQc2NBQXhZOFhqTVpDb0MzV1J3V28zQWl6a0dGdzBNODBCVEhkaWZIWFBseGgzdkZtUG5YTWRCRWRqbHhWNzFaMHhVMl9fRTgxRU5vODJhNg?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02RUVQZTlmMXNVd2NuRmszaWdOZHExSHROZkpDSXlKTWluM0Z0U0RNUmw5NmNySlU1Yk1EdGloMURobmpZbTQxZ000ZFoxalFBN3ZTZ0FBdmhxZDJGRWhwQVdfYw?oc=5",
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdXZnNEdJU2c4ZjZqei1ucXFsZG5wYl80NWZ5X3JxVTFjN1FBMFd2WVdZVUR4QW81TnRKN2cxckY5aWVIRjUzLWxhbVROZGU5TXNNelBwZ3RDMHhDQ3BwYV9GMWhISmFZS0ZJSFhHbmJWV19UQnU2THNWZTVvNDVvb1hybU5sZ3dBSzUxSlhSU2hlRWM1d2ZRWTh3NWcwUFRGMTZLVF84UkxQSGtRbFZrdUQ4Sjl3N3BkZFloZG5KTks3ZHdvRGNIUDNjbFhsaXppWnIyd1lENnVkc2pPQ1M40gHkAUFVX3lxTE9udThlOThpZzRjN2RSTXJIYV9fSjdGd1M1SlZPTWRURi1VeVNEcVhZdGt0UXlqVW5jQVY0OGt4UnMxal96bVhLbDQ2cHFRWGlqNXJYc3pGMUR3RVI4OVFfbXY1RmJSNlMwMjg5N0VtaXktbURveDFCRVZmWGRseHJnWHhyVFFRa09BeGEzWmRLM2xQSW84YnFLR1REVVNiSER5MVExMERzRExRV29ETXluc1I4RjktM0xZMTFwZUd5MF9Oem1NdmJDeG00UnltY3hjd1YtdGZmVFFOWXpjUHlRWnVPVw?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zQUtHekxCTWZjdW9Edll4Y2RwelVTOW9reXJVNndJcEZXNnVZNjY0SjhoSTgtVEZsZWNIRzB6WmNwSTBZeEd2ZlNtWjRrMDRCMnI4QUdxYmZxZTViWEZSX3NXQzVrNnRJTkE?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTVlRTEd0SVFuRjFaRVJxM0NwdGdDV0ljMkJSWGVrWVBsX2VpN1ZlX09yaGFMbGV2YXRhQVZPMVVoX1pEaGNLMlZRM1BSR25TdDZkajBtYk1vb19YakJROHlkbEwtNDFvYU1RUFhIYTF1T0gtMVVLWTFHb0Z5SUE2T2lYVGVfeFl2cmsxMmMwYkQtZEpqanRLTUo2UTQ4SmM?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0h2VGtMaUZRUmJqejdDQjFvY3BpNmNZMGFPMUNHTjJKNnpIbHN2NTBWYmpsWlR5RkgyX3lnYUdveGNlbWc1OGI3U3h6Y0xHV1pKY3dXX3VZSU1ObHFtNUdzYTFjcHJPRUNzMGRObEJZS0FNY1J0MzhVb3MtTXYxN3B5T3VxaDJweXdCalpYSQ?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWTd2aWZBcHRYVWhYRnEyQWJoZjg0clVfVUdMeHNhV2pLVDd6MTF0MkJBZW5ZNzdiakhRMHZnTXRleW12VTVYVzc0Tng4enN6eUF0TDdOZW9TMkRFMW1BRlo4cjdHVzQwTV9PRkMyc0dLRnU5UlFWdmkxTHBlZklEb2FnNXBXb3VEcklLX0g0Vk9HS0RVVkNZZE1UWS13ZDhLdHhoSDZpR2c3TGdsYmhPNndUbjRWbXdpRHJ3RXN5Zw?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWVcxVk4zWEQycHhrbmxZN2RHSGhRN3ZDMVdIZjlES3lFTEk1UzRXWFl2dnE4NU9xNElJYzJFQlZJUWNtVnBFaEI5UlpGWVFaQVV3b0VDeEFlZ09mbDJqa3RFX3pFX0JkMkNTWVJWMkFEaW1jTHpIRzdJdjRHQkU?oc=5",
@@ -7999,15 +7992,16 @@
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUh0LWhIX0NIMElFMTRjS3NZZkNQZzl2TU5MNE0yMFBwaEdiV0x3QktvTFJYSXhDY0VxOWNkUURkNDl6d3lPQnpFRllBbG54M3VHbldYbmstSFZselluSEMxMF9pSXdkd2JhaUNRTHZTSkFpM2k3b25PNWZZMVA5NXczNDIwdmk3cHN0dlZB?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUE02dE5lZXBYV2FWN01Gc1V3V2ZxcUN5SjRYYVRrS3NwVEJSc2lSeFJhNDkza08tN1lETXBlaEhJY3FaNlBlQVoyckdrUzJURl9CZlhla1pXSlVqcXJPUlpNa0x4VXN3cUhfMTZZMjUyemZ6LThnRnE3MGhsT1pYOElpeUs5OU4x?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdE5CcWxsRy15aE9MSTl3U2xkUGg3NjRaX3QzbUpCRVdvTURyQlBsMHBpemJfa2ZvOEJsc3pnTkp0bDBiLWxHdldDRTJRVTFicXpWekY5Vjc3WDg4WTBxeUVRdExKZjhPZVBWSVNxNXhoNzRrdkM5WWFUNW41bktPd2NibkI5N3RRNV9iengwUTZsZ0M0VXU0MmhIRUxBQ1BmZ3Nieg?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWhkOG05WFg4dVhwOVFWZ3I1bzdaajAzVEhmU21KSkQtV1lOY1ByOV9XdkJQNmVMSU9LNENrazF3RVpBRXlRNTRtbGRJQWw1alhQOEFhS3ZDLWhYcGVFcjBBOVdjTEpXSXk4QWJ0cDZRNnl5ZG53dzI0MzFWZ3ZUQzZ6Zmp5dl9xekZQQ3dDR3BPMnhjMnZTUg?oc=5"
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWhkOG05WFg4dVhwOVFWZ3I1bzdaajAzVEhmU21KSkQtV1lOY1ByOV9XdkJQNmVMSU9LNENrazF3RVpBRXlRNTRtbGRJQWw1alhQOEFhS3ZDLWhYcGVFcjBBOVdjTEpXSXk4QWJ0cDZRNnl5ZG53dzI0MzFWZ3ZUQzZ6Zmp5dl9xekZQQ3dDR3BPMnhjMnZTUg?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjIxamFaYzk2VVZtVzQyd3BiYkljVTYxd3BnMUZxVmk1Yk9CWFZiYU01ODIxcG9PekI4M0tJTm03RkZUUmdKZzNxdTlCaHJwSjFhRHhiaV8zaFlwSDV2MUFjWG95SFRvVzlTMVpGRHI2VXpPaEo3eEplNEJKTXgzUk5aZzVDX3psX0RR?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QNjJQT0FLLTczUm9NOFZoa1M4Z3ZfRTRuTEZ5b0VjTndVTl81b2FfcDZPN0hIaktfUEtZTE55bG5mYXkwNjRCZ2EyX0ZqY2Ixbjk1RkNvaDdhSzZNNGlOY3BuQ0NSMDd5OXd4OXNXSFNjWEpTb3ZkMkVmTQ?oc=5",
+    "https://pley.gg/best-gaming-pc/",
+    "https://pley.gg/cs2/fr3nd-rescues-wildcard-from-elimination-in-double-overtime/",
+    "https://pley.gg/valorant/nats-settings/",
+    "https://pley.gg/cs2/liquid-outlast-imperial-in-overtime-to-clinch-stage-2/",
+    "https://pley.gg/cs2/100-thieves-send-9z-home-2-1-after-rains-dust2-revival/"
   ],
   "title_hashes": [
-    "ddd5f88d912f199cf27e65b0c38c019a",
-    "9583a78998fe9e787c608d501cee12f7",
-    "cb680e43cfd4d4cfb1e34aec2a58c321",
-    "cfe16e93b2e0f2c3094f61f8412b134e",
-    "e62dfae020ff172563c4b1c29a3d2a3e",
-    "603d461b2e03a05b7389c37613e81071",
     "232cc847933a665b1a907314e9af0dc1",
     "52a9392d98d744e8882fad95966abe0d",
     "c0a85567250c3a2147f544c62e582a32",
@@ -16001,7 +15995,13 @@
     "44038900a2f007ea55522b56038e11a0",
     "c7b422602c357549acc7181b406268c3",
     "cd4d796f536891128cbc2836daebed55",
-    "78e652a8af650f4f5a63a585d9429155"
+    "78e652a8af650f4f5a63a585d9429155",
+    "46b708edd50f25ab5ef0a954b345fea5",
+    "ab05bfa89296c40a647f1914ee43cd1e",
+    "66443cc7e570b4e776e0e7b04b147a7e",
+    "66ceab9ffce8b8ff08c969e7bee138f5",
+    "22160b7c1c978596f13e289658c6d431",
+    "2ad0d17faa1e470827e0175fada1c160"
   ],
   "transfers": {
     "pages": {
@@ -21264,6 +21264,26 @@
     {
       "t": "2027 esports horder join lcs nbsp sentinels set sheep sources",
       "ts": 1795725012.2706823
+    },
+    {
+      "t": "000 1 100 2026 3 apex best budget cs2 every five gaming lab legends pcs picked picks prebuilt valorant",
+      "ts": 1795725017.1095965
+    },
+    {
+      "t": "away chinggis double elimination first fr3nd one overtime rescues round warriors wildcard",
+      "ts": 1795725020.3485293
+    },
+    {
+      "t": "0 1280x960 2026 49 800 code crosshair current dpi gear green his nats plays sensitivity settings small stretched valorant",
+      "ts": 1795725023.673528
+    },
+    {
+      "t": "2 cache clinch day first imperial liquid lost major outlast overtime own pick running second stage their this time",
+      "ts": 1795725026.942689
+    },
+    {
+      "t": "1 100 2 9z after best dust2 his home major map nuke rain revival send thieves worst",
+      "ts": 1795725030.2120507
     }
   ]
 }
