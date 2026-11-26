@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hltv.org/news/45881/the-best-highlights-from-iem-beijing-group-stage",
-    "https://www.hltv.org/news/45876/woxic-after-some-time-the-trophy-is-not-looking-so-far-away",
-    "https://www.vlr.gg/783167/t1-parts-ways-with-meteor-munchkin-dh-kdg-and-cheonggak",
-    "https://www.esports.net/news/gaming/eternal-fire-seal-pgl-major-singapore-stage-1-spot-after-stake-ranked-comeback/",
-    "https://insider-gaming.com/arc-raiders-players-16-million-raids-a-day/",
     "https://insider-gaming.com/algs-split-2-playoffs-winner-sikezz-interview/",
     "https://insider-gaming.com/dave-bautista-god-of-war-kratos-muscle/",
     "https://insider-gaming.com/warzone-shutdown-ps4-and-xbox-one/",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/29179/lancer-leveling-praised-class-change-demands-caution-episode-2-reactions",
     "https://www.invenglobal.com/articles/29178/who-specializes-in-derby-matches-dr-class-added-alongside-26kb-update",
     "https://www.invenglobal.com/articles/29177/o2jam-adds-5-new-tracks-by-emerging-artist",
-    "https://www.invenglobal.com/articles/29176/talesweaver-adds-emotion-isolation-chamber-and-maplestory-m-collaboration"
+    "https://www.invenglobal.com/articles/29176/talesweaver-adds-emotion-isolation-chamber-and-maplestory-m-collaboration",
+    "https://www.invenglobal.com/articles/29175/msi-gaming-desktops-join-black-friday-promotion",
+    "https://www.invenglobal.com/articles/29174/the-king-of-fighters-afk-adds-king-and-kicks-off-black-friday-events",
+    "https://www.invenglobal.com/articles/29173/nexon-opens-ticket-sales-for-2026-dnf-festival",
+    "https://www.invenglobal.com/articles/29172/nexon-foundation-donates-300-million-won-in-operating-funds-to-childrens-rehabilitation-hospital",
+    "https://www.invenglobal.com/articles/29171/pubg-mobile-2026-pmgc-kicks-off"
   ],
   "title_hashes": [
-    "7969bbe0ce124346a9dd2745f16864f0",
-    "75b6aec3d05a2be07bebbec51ffcbef9",
-    "e07c89b3d46800c2153958c332010d1f",
-    "f4064d8254b6350368a1877380a33140",
-    "19bce724d075adf822e4312b25b9be12",
     "3ec539a307e504ce9ec572a1df1d07ca",
     "698f267fd88f90d080915f3682f80eee",
     "57edb000836a90c656f747cfe2ed37fe",
@@ -16001,7 +15996,12 @@
     "2e53008932dcc3211093c42f1ddc92ce",
     "37ccbd69200187ac1f8b1f28341754e6",
     "18906d1580fa497b782503f319e7c489",
-    "24b7809e1f73b6447740f0f7d64c1abb"
+    "24b7809e1f73b6447740f0f7d64c1abb",
+    "6b6701db0a8c584ffa347bf449defaf4",
+    "4ec65d6504d7151faac0b944f0525697",
+    "e3719b42ced46db20a8a283f8a413137",
+    "16af643f44338d878b509a28e2e541b9",
+    "a1d409f019813b8c94fc5590495ea5cf"
   ],
   "transfers": {
     "pages": {
@@ -21180,6 +21180,26 @@
     {
       "t": "26 added adds boss chamber collaboration content emotion event isolation kicked maplestory mmorpg mobile new nexon november off online player rpg single talesweaver",
       "ts": 1795692655.1737602
+    },
+    {
+      "t": "26th 30th a17 a18 announced b7nvl b9nvr black codex desktops featured friday gaming join korea mag msi participating products promotion running that z2",
+      "ts": 1795692660.1163702
+    },
+    {
+      "t": "26 added adds afk announced black events fighter fighters friday has kicks king kof netmarble new november off that xiii",
+      "ts": 1795692663.5180166
+    },
+    {
+      "t": "18 20 2026 26th amp announced begin days december dnf dungeon event festival fighter nexon offline opens over place sales take that three ticket will",
+      "ts": 1795692666.9139974
+    },
+    {
+      "t": "26th 300 announced children donated donates foundation funds hospital million nexon operating purme rehabilitation that won",
+      "ts": 1795692670.266477
+    },
+    {
+      "t": "2026 26th 39 announced around compete esports inc international istanbul kicks krafton mobile off opens pmgc pool premier prize pubg teams that total tournament türkiye will world",
+      "ts": 1795692673.649449
     }
   ]
 }
