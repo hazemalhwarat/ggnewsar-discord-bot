@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRGhDNlVfTGlmNTV4bzNsMU5pNldCRzlydlc5M3J1VW1qdmlSdmhQRjhsVFFHbnZsc200NmJKMVY5Nmg3cnFPTU9ydjM3TDdId3M1UzFnNE8zbXpvRHpRMDV2US03ZWhOdldCMnVGaEc3bzhJNlExcGlpUHBaS2Z6VU05OHBuUDhzR21xN2V1Zk1hOUczeldWem9DdDR5SVMza3hkbmtpR1lFY3R6ekdUYnlsQVJLM3dQWkdzVjZwUHdEN3hySzRFVHV3?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmxpN1NrenJhTHMtZlVfU3U5V1k2S1pTcTlTcG1wNFZPeXY1UnBRNUJXRlJxVzAxVEJFUGJKeXU3V0E4OVM4emxmZmU5QmthNFFwcU1VU2swT014NkhxcDZPeHR6WUZKMWRHQWFueGVvc1IzTTc0MzlOeV9KVGg3cy00TWFsVGxOSTItam1Ea3M1WFUta3c5NXlXUFJYVTVSTndnSjdvaUxtQjZzVjAweHhyb0pIX3h5dTg5dGwyTElMaGRBUEM4?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjItdWlQeXliQzJybjBRZVJwU2lrMVZTUzBWYnEwTjhhRHRaSy1Sb25RX2s2YVd6UEd4VmNnUm1IS2poM0ZyenpCZENFbkVWdlVyQk9aUjQwV0cxQVR2QkZ4SjJhbFFtdVcyblg1NmFqWVpaYjJOYlg1MC0wcHc3bTZzWG9LYlgxRjlVNWlwMXNfdjg4bkhBdVNyV255T0txTTJfNXg2aExNUkEweEdnV1BydVR4Qk9QNkNjYnB5OW1aaHhNUFltTjlfQ1A?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnhDNE1RcnBGWlQydW1Fc09GQkFwMnFiZFY2MkY4SnJnQ0RSSmptOXNicWxhN0ZtRWh2OXpsOTJHZHFlcHlZbmp0LXdBeG5QcnlRSVJHMDZXSWZCR2pHdUd2U0syMW1wandUUFdxLXBvcWpOWDhLNllOTHB4eUZ2WGlHTVNHMjZjR296M2RNVl9hcE4yLWdpZ0pwRk5qZ0tkbWxQYlNjaEpFQzljZnFBNjBlMkx6a1QyOFhHV1FkMk5tbjVKX3Fqc3ln?oc=5",
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWG5rRTZTa19XQ2RuclA4WDUwM3k2dUNnRVd2MnZyYVhrT2dlWkl3dFpkUk1BTlZUR1M0cUljWnZoMlJuNFVxQUo2eUN0ME5fQmljQk1kcTBiekI4WHV2WmpTY3FyZXRHSTdTMGdmdDVnVm9lLWJIQlVscjdJa1dyTjVHSnVWUVh2akY5eEUwWktYamFrTzVYelZaZ0ZqcTNjV2pRN0YwYy1WUjE1dm5VNXFESldHcF9IcEdfdzJLeDJYSkJxV21qTzhIWXJYRUFleHlVUmlqNUtYTHhXTVRfMEN6QQ?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEFjR3hOd3ZPaWFEUlJWMDJjZnB6SnhJSWZrT1ZCek8yV2QwQjl1T0wzeGFTRmdDVXNfS193aHRVeTVweU8td2hPR2lJLTJDTmVzRVFmcGNnWkkxbjFVdDBBRmYzNVp6d2E0M0d6Rjd0VENHdkJMeWJVbWU1QnBMczE4dGIzWWo3TUM2LW9hdHJvMHlxc1lrRHFjbmtObWI4ZXdBV2txMy1yVUZnbVhJcm1LY0ZyZw?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcjJaV2QzajJjTWRVcHFSZHhVWDl0cXhQMkVvajhmWGw0dTMtbXRoZWV6Y3lWYk1LNlpDRl9FWHVmc3QyLW9EMTlqb2p3eDVrSF9uSjNyUVZLNEhyVVZ0b0Nwbk1GN0tMd2dESzRJeWdkbEZUbGhoQXo1SEtMTzJFSw?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYk9wTE4wNmM4bGc2X1lxM0U1d21aTVJjYjRCOTAxQmE3VVZXd0pjSG5tMlEzU0F3ZVVfOEV6TG1Hb3hjbklTbVVVX0Y2S1Q0bUFfTVhmU0JuQjZVOUNsemZzZnB6ak5OMnF1czdHNEVaeU9kcFpUOXhTbXdldTQ1YnJZVFJPZkgtZ1I1TUpSRmJobTktdldJM3kyOHVJQ1YzbjRua1NHYzhuTlZQNXhZMEQwaUQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/nyt-connections-hints-solutions-november-26-1264/",
     "https://insider-gaming.com/11-hottest-gta-6-characters-from-mandy-to-andy-and-beyond/",
     "https://insider-gaming.com/contexto-hints-answer-for-november-26-2026/",
-    "https://esports-news.co.uk/2026/11/26/enterprise-esports-open-vct-emea-kickoff-qualifier-with-sweep-of-masterpromegateam/"
+    "https://esports-news.co.uk/2026/11/26/enterprise-esports-open-vct-emea-kickoff-qualifier-with-sweep-of-masterpromegateam/",
+    "https://www.dexerto.com/gaming/103-year-old-grandmother-competing-in-tekken-8-tournament-but-doesnt-actually-want-to-win-3431406/",
+    "https://www.hltv.org/news/46059/parivision-dispatch-lynn-vision-to-make-stage-2",
+    "https://www.hltv.org/news/46058/heroic-dump-faze-out-of-singapore",
+    "https://www.hltv.org/news/46057/eternal-fire-beat-m80-to-qualify-for-stage-2",
+    "https://www.dotabuff.com/blog/2026-11-26-one-week-of-742"
   ],
   "title_hashes": [
-    "12d54928ff60781c97222b091d35f608",
-    "aee229719b2bb5b46e8babb1899ffea3",
-    "0cd42f869d5f809fb5c7fb4b7a45b9bf",
-    "3575a17ec5dd6fe37e6d47308c03ae87",
-    "59d3799ed8383e200bcab6d50399e6a1",
     "42fdc8d280e33930dcf633ff9ab618c7",
     "377e133c3a63fc785a8c76fe16f4e680",
     "d526b399a201e063d35be20e62c13327",
@@ -16001,7 +15996,12 @@
     "0125fb74b0ed554a632745003ac010f8",
     "03866f5a9da3685ba71b185fd65d2107",
     "bae64ded1ae0386b7f2d0816afa59f8c",
-    "07b5e332bc57aa50d53e13ba2d7d04b5"
+    "07b5e332bc57aa50d53e13ba2d7d04b5",
+    "868eff226835e42415c6ac03de07d102",
+    "b8950eb1201349cf3ff3a5f379cf2094",
+    "77520a35144b427dec31f28c09b7fb32",
+    "2fbf207dd7e91ab797cf760c7a6ebb53",
+    "d4c88586c74387908b1483c16e30611c"
   ],
   "transfers": {
     "pages": {
@@ -21260,6 +21260,26 @@
     {
       "t": "2 after back based british continue czech defeats emea enterprise esports featuring kickoff lime made masterpromegateam open player qualifier reading roster stage start sweep swiss vct winning",
       "ts": 1795692730.7875836
+    },
+    {
+      "t": "103 8 95 actually also being but closest competing doesn gaming grandmother her old one part rivals taking tekken tournament want win year years",
+      "ts": 1795692736.0889592
+    },
+    {
+      "t": "2 comfortably dispatch expectations lynn make met opening parivision progress russian squad stage through vision",
+      "ts": 1795692739.4788532
+    },
+    {
+      "t": "28th disappointing dump ends exit faze heroic major out season singapore they whimper",
+      "ts": 1795692742.8542004
+    },
+    {
+      "t": "2 beat continue eternal fairytale fire international m80 major qualify run set squad stage",
+      "ts": 1795692746.2264469
+    },
+    {
+      "t": "42 7 ago biggest changes community considered economy generally introducing level massive new one over patch progression released slightly these week",
+      "ts": 1795692749.6084087
     }
   ]
 }
