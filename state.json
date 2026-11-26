@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3h0c19uNGlxel9KWTVYaEl3LWNieUZINGExa1h2elRLVDl5QU9nZkstbWdkT052QXZSYXlsa2pwSkpUcEVvQTk2MnQwVGlKN0FQMS1KTl9aelBJY0xXNF9HU0x1Qk1iWi1Ub2FBbzJ1aXRlM2ljRHNrS2dsQ3B5N0JBVWc4NGo5c0RabWl0MDNLaGRmb2JoWA?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1Jkc0c4NFY5X0JPTDlIM1Rkb1ZLTGdvV3A4c1d5S3JqUE5BYTR1eGZTRzNSMko2UEhDY1RVWXRMR1pCZjVlcEsxUGYzVDJ4RTlaQk5pbXpqbHFTaHNlaGJmZ1FfVmEzMmp2dGl5aldXYnVwaUpIUnRMVzVHN2NLVi1UVjBfOFo1WXFZamhxbDdPcGFaa3lQSTdIYkRHNTZLaXlta2NBYXZ4b0U?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZXpZSjJwQ01wakVFdnpmSGU2T3Rod0VrNEdrWWVSdEtsVC1FMXpWbDhvQUlPM0dqZWhKRXhKV2NkbkFsUk5aNldxczZuc0RhSUhhTTNkV3U1bEpzQU5HY2k4a3EzQ2ZWU3V3ZlppdmtMTEpBZXpTUUdMMER5T3FtU0k4UXl5R1B4bEZTZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU0JuaEw1SkZBWk8wdGdjNmEwRFFXdDUzR2htbUNJeWRHV2p3bnlDRms1UGhZZ0J5QnFyWHF6QktqNC16cWRnYlZ4QUJTaWhrdm5WZ2dVNDB2X3FTcjFJSC1mN2VtVF9xSFlVdkNNeFY5NmhJMzdhS0tZOXdScGwwblBHOGlDck1PTFRZUE9vNWNhOFRIYzlrWXhYN05wOF9rWUg4?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2ZUTTRiUXg3TEpfRUF2X1BXNktXeExpT3RvRHVWcFd4TzVibE53bklsbU9RQUdDaG9BZGlkaHlKZVA4bHlueUF4bEpwRlNpOWhhWGRScTA5eE13eUt1Wm0yRm5hQ21IZDhOM2JlVjZUZFlGa2NpamE5UTZZaFFlR0pfWnpMRmtacHFyalpKSnVnOTA?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjl5MUJpQmtERksyLW9ONC1HOUFiZW0yWEJiaS1LN2xSYTNGcmRkWVUwdms5R3lObDFsdjBZRUN2NHlrNlJZRDJ0cE5vWkJFaEJfMzhPN0Y1UkVsRzFlQ1Z6NF9yZXZocUpLc2h1ZndLbjdVNUp5cG42Z3JwakNvcUhaOV9IVnh4VTVYenJpdUp0R2ZucE5jZWtaMDU?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMnNZRThJUXpNbjhqc1g5dVNPeGpVQ0hfTnZyV0RYcENfbm1TTklfQ2JhcUloY1oxZmdkeVZ2dFhhSGFnM2huU2hSSjFzWnhpX3I0YkhSMEV4WUFDSFJXZXdPMWJsRkxNc2JQU2hPcmY1QXNSMWg0eHpTOWxZUHp0eTVzTEFhdy16M2c?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa21WbGo0RFlZR1NUNU5qak91eVlkT1FLSUY3ZGJXT2p0SFN3T0llY3VLa3BVTnZUTlNiN1N6LUluMjdEbVRSYjBnMWRuU2FKYnB4ckZLTGxPS2JhSDcwMWFpdnZfVkl1UkdNVGxkN3BZOUdVLTVRZi1jQzlLRWZ2b25qci1JSUd2UXg4dGs5SDFzTmlpbzBGWG9hcWRYYkFCc2REbDZIc2plUnFlR1p3?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGRyR3JBSkpmQnRVcnk0YURJNDhIZEIxV2FBYi1KTElfYU1SYlhMSEhhc0UxYXdNSWJPVzhhVVhBcHJsOFhrSk9oWXM3MFJLSm5vcUh3U2J5eWRoWTNONlZuTFlEbWxaSXY2aHRlU3JweV82ZXNxbWRmTzVSVTlEcmFBb1JHQkJsN1E4Rkh2OGk1YnlENVFwM25XRUZiQTdsX1BjaDNJMHRkd0FDSzVhSXJB?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnFwclh0MjRWdmpsMUpJa1c5MkpmS19MWkRmVXRfMXBmeFdyMTViRTZzcExZbHc1TENITlBNcHVULUtISl9MMmotendncXBTZ3ZueEVZRDdJR1hGc01Cc1VHSlByZTgxcVNxYklXSjVIU2dMQmpHTmpsSHlDYVg3NFpTbkJhS2JPSzdabUFoQQ?oc=5",
@@ -7999,16 +7992,16 @@
     "https://www.hltv.org/news/46061/hobbit-if-dastan-was-on-level-five-when-i-played-with-him-now-he-is-level-10",
     "https://www.hltv.org/news/46063/liquid-battle-past-imperial-into-stage-2",
     "https://www.hltv.org/news/46060/100t-eliminate-9z-from-pgl-major",
-    "https://insider-gaming.com/whats-the-easiest-bank-to-rob-in-gta-6/"
+    "https://insider-gaming.com/whats-the-easiest-bank-to-rob-in-gta-6/",
+    "https://insider-gaming.com/esports-team-furia-takes-over-top-brazilian-football-club/",
+    "https://insider-gaming.com/top-10-fastest-motorcycles-gta-6-all-locations/",
+    "https://insider-gaming.com/kiin-reunites-canyon-hle-lck-2027/",
+    "https://insider-gaming.com/mandy-scenes-gta-6/",
+    "https://insider-gaming.com/the-witcher-3-update-5-02-patch-notes-photo-mode-improvements-bug-fixes-and-more/",
+    "https://insider-gaming.com/the-lec-2027-fewest-rookies-ever/",
+    "https://insider-gaming.com/rockstar-workers-vote-against-unionization/"
   ],
   "title_hashes": [
-    "ef95b6ff96b3ea03bdbb46774b5c60cd",
-    "05b7de1c2d97db198d22c9ada83b1769",
-    "baa875ebc31edcf5f1608531a479b91e",
-    "ee32459b899cbaced27a5434cc1bba6e",
-    "c538b420b500db4535967141c09e2566",
-    "4c9df3fa0e3d204c09b7bf8640b8b9ba",
-    "4f867c0c922fc639cf1626a67e65f810",
     "e9531ef518540bb14bf447d798ece332",
     "860ff09c12f714e87faacce33ebe1a76",
     "7515a5a966efc2c4eb8543a31dfe5f3f",
@@ -16001,7 +15994,14 @@
     "8dd8b935146d8aa6db2a26511c096377",
     "39e4fa8cb21cd6a26fb261d81581bf10",
     "f7deb0bef3bd22c3f0729a92480ce8e2",
-    "2313d6387a68d955d47643ac4ebcc7d4"
+    "2313d6387a68d955d47643ac4ebcc7d4",
+    "dd5a72672eaa796579e3724f81437afd",
+    "3830a63dfe2b94c130055883d17f14ce",
+    "4940156bd14f9f5db7d876239c3dfbe8",
+    "f0dce6a81d28c4ed12090cd9eb3737a6",
+    "ac7332de93ed15184c5a46638ea46e2c",
+    "fbcd5c3e4e9028487b83452d7356bfb9",
+    "a194ef8db9920c0edb26f20ae701f9a7"
   ],
   "transfers": {
     "pages": {
@@ -21124,6 +21124,26 @@
     {
       "t": "000 200 6 8217 appeared around bank easiest firs get gta heist location per post right rob robbery what will you your",
       "ts": 1795724886.0346694
+    },
+    {
+      "t": "branding brazil brazilian club division esports football furia grêmio has its lead marketing more novorizontino over partnered post renames sponsorships takes team top",
+      "ts": 1795724890.8749993
+    },
+    {
+      "t": "2027 ahead appeared canyon delayed esports firs gen hanwha has his hle join kiin lck life mandatory military post reunites season service swapping",
+      "ts": 1795724894.2129898
+    },
+    {
+      "t": "6 about all amp appeared appears chance even few first game good gta heard interactions mandy not played post scenes she there throughout times you",
+      "ts": 1795724897.5429235
+    },
+    {
+      "t": "2027 all appeared debut ever fewest first four gami have insider its league lec locked next only post reportedly rookies rosters season set",
+      "ts": 1795724900.8504968
+    },
+    {
+      "t": "75 against appeared details games has have here majority more new post revealed rockstar that unionization update vote voted workers",
+      "ts": 1795724904.1791415
     }
   ]
 }
