@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblVMMFRsUi1NNmhWNG5yR2h4ZW9Pc292SGhDVmZCWmc2ckRjZE9yZVhyVTBkNDR1bVJpZTZwT2xqWEhENE9wRkdHSUdQT3FiT2diSTFUR2dPem9YS3FsbUpaekVUYzhjUHMwQUp0RXRSYk5kSEJGTFYwblRmOVlrRUV3aU1rQlowbThhZHdDbnRDZEhhUThOM0w4akJOeFQxbnZoZm1XSnBGX1pYUnJRQ243RTJCZ0F5dFE?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3QkYtRDN5bXVqYmNVY29rQU5UR195aTRJYlY5N1pzSHRYck1XQVg5TDJiMTc0UlBKZUcxdUN0WGVzeDdGVHUwVlNycDBQWUg4Wnh5SlVfSmJtNlM5U2ptQTBuVW9tQkdqMUtOS0pZQTBmbnc?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHk2WjhpdjQ4M21vZE51QWtzOUtuaEtEa3U0SzJGb1lDMzRhZDczdUU3OVpkMmlrOVNoQjVyVnVTZFU1V09ZMEphd3k1OWduNTJwelozZ1dVbVJnM3FRLWpMdEluNkZJYjFVby1XYW9HbjBDYWlvcWJRR0pYMEhYdlVlTmZkUi01Nnl3VkJZT3ByWEJpZEhCMTdDcFlpZlV3ZVZsc3pzRnlrY0xONFE?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX0FfQnNQeElpRXg2eWx3N1VNaGl3Y1FTWVNhVlVISEdVc1lqUGhjRjJXdnZRcWV3X3NaMFJ6OUtoV2g3azhJM0F1U3F3dkl5Sk5Wc2ZDanF3ZlR0UTk5TkRQelZDMDRjcmR4YTNJeVJzczhmLWNjMGJKb0ljeENYb2lfRWstQ0dSajJTeWRxdlV3SXU4Mm9jWHI5aFVMaVBpX0hBQ2V4elJncDFha0JORndoeWJPalJ4?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBURmhDWGhKNm1JYjk0X2dXOW1kWEFHMnBZNnhwSGczc0NsdjliM0lHaDF4XzNSQUI2RHRycGRvYVI3VXpRZ2E2OWZWMk1YY25CT1hRejhMMHpsVjYxcVBGTFdvX3R1MUkzanN1aHZnOGMtc3JXRTlzc0c0WjFXQQ?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEVvdUkzallIVWZTT2hLVVN0WWZ4TmFvRkdicFdKeVZ3R1hZaXpWTnRIVkRseUIxUE5wNGUwQm1nSE9IU0VSai1Gc3lTRG9Xbi1ZSVUyNXdlOE5nRVAySGN5bDVVV0ZhZ3FlUlg3VWxjdE5mZ1BlVTdSWC05anpxZmZFZ2xKVlpHVWR2RjZwWDZibmlsT2dwQ1ZZaXdVUFc5RDQ1TFNYMXFmdWRBTHhYRFZKUkhkYUZvWEFweUlpTGVzdlRT?oc=5",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFg4NkpESGdCSzlaMGZKNF9LN3R6SW5zUXpGUm1Mc3UwTlc2RG1uOXlxWllIRjl4TElaU0ROYU4ycTU1QnpZUDVJV0EtZkFJY1JPRG4xQm9yRE1MRDNjem81M1BXQWJxWmNkZ05IZnRuanlndGhBY19Wc1lLTTVkRV9jNnNYTWxPWF9PTkxxZWRDZGQ2d2ZQQmFGZmdDbkU4UWFZWkU2a1c4eWZBNnlYZXp4UzRrTkZhRmU2M3Z3dzJpSmV5ZFE?oc=5",
     "https://news.google.com/rss/articles/CBMimgJBVV95cUxQX293cDhQaXd3LWlKUEJyaXhTelBmbmNzdWhCZmY3b0Y5WVVrMmpnYlZraV9TUXl1RmFaYmFHbmVlMkxrbVpvMEN6TTlWMk92YTBtb0tXRlhOZWtiZVMydTBhTFpjeGp2U3BJOGJFaVJYVUx6ank1ZjB4aGh6R0J3Ml9odWxzMHBuQjFhd3lUR0hpRGYxdVRaX1B2a1dGTnNYWlhKQ2doM2VCVW56Zm93Z0ZrUUZFZC1lUXVrcFV0SlZhU1Q3RU91YldNMVM4V1RldTZvUXUtRmdMVVktbE4wN0FEX0VXWEZOdkNhSzNqMWZ0NktBaV9mNjVnckNFc2FxdGxLb2NxeDQ2anVDMnQtYmdDblNvUnRhYnfSAZ8CQVVfeXFMTWFFOWd2RXdLM0s3WVlraF9DMWNlR3ZlWHA1YktIc2hZbXVXYTYtZEh4OUFvSjV4aWJobndob0stbjc1YnFQV3NJcTVfdmNDUDlkSjloU0tFVUxSTWZPYUwtcXA5czRzSDBnLWRmQWdVV05qVVZGUEdweHExeHZRaWMzbnNQSHVwZ0ZiY19qNW1ablJMWGxlN0tVZWhWQUtBektmTUduQmlEQ0JtVGo2dW1kVlc3djFtOFEtZ0lmWVFDdG9qQko5b0NJWnYwX0hoWnU0ZGdnYmd6U0U5V2wtUTdWUUJ3Yko1RUt0eENXUjVBNG94UlNOZVNSb0FjOG5XSEJweHJSdWhIUHNwRTBSZ2ZUcGQtWFRoa1NNdUNRYjg?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/29135/nvidia-agrees-to-290m-settlement-over-crypto-mining-gpu-sales",
     "https://www.invenglobal.com/articles/29134/corejj-parts-ways-with-team-liquid-after-eight-years",
     "https://g2esports.com/blogs/news/g2-talks-skins-things-get-heated",
-    "https://www.vlr.gg/794813/fnatic-finds-its-igl-signs-valyn"
+    "https://www.vlr.gg/794813/fnatic-finds-its-igl-signs-valyn",
+    "https://www.vlr.gg/794801/all-gamers-introduces-jinggg-and-spring",
+    "https://www.hltv.org/news/46062/gizmy-on-leading-veterans-you-just-need-a-strong-personality-and-trust-and-you-can-earn-trust-by-showing-class-and-good-stuff-in-game",
+    "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
+    "https://www.hltv.org/news/46068/matchups-set-for-final-day-of-stage-1",
+    "https://www.hltv.org/news/46065/wildcard-outlast-chinggis-warriors-to-stay-alive-in-singapore"
   ],
   "title_hashes": [
-    "fa4b7a4eacda49ab0b4f93d505122856",
-    "fe5ee19af24865adcc1dae45dc8f8ec8",
-    "fc5ebf589a02bd1c54a08643d6d97d1f",
-    "e6e2ec8a07f9ed23ebe827e76f306954",
-    "1ba26587b1909088795a984e8d86d5eb",
     "4ab70edeb220f1cc15ed40772dd9e81f",
     "440d3881c9d604331e7febf5737dbd80",
     "4ea63f27d91e2537d2efacd7a1f9e4d4",
@@ -16001,7 +15996,12 @@
     "04a10b48719e2ffe45f2cc591424cc44",
     "fdca1e6b412991c87e478b7c3e944e99",
     "89f5f98c4e64a9506f24d0cdcd84b72e",
-    "2bb0cb9b36b9695f7bbf4c5dcb6b7d9e"
+    "2bb0cb9b36b9695f7bbf4c5dcb6b7d9e",
+    "fdb7ec01b239968bd0e4405630420787",
+    "041853649f1e36f8f47bc2d324aa52cc",
+    "2fe9f6a7cdadc84f8992da51a499096f",
+    "a8fd8d59a86786ffc54894bda407d9bf",
+    "8bc976440814c81d0c22f0b238aa4ce3"
   ],
   "transfers": {
     "pages": {
@@ -21084,6 +21084,26 @@
     {
       "t": "american atlantic crosses finds fnatic igl its join signs valyn",
       "ts": 1795724844.4445643
+    },
+    {
+      "t": "2027 additions ahead all gamers introduces jinggg new spring two",
+      "ts": 1795724850.423068
+    },
+    {
+      "t": "100 9z after can class earn eliminating five game gizmy good into just leading need personality round showing singapore strong stuff thieves trust veterans you",
+      "ts": 1795724856.223268
+    },
+    {
+      "t": "close enjoy fun games get help his important learning level liquid lurker naf need next people pressure realize team teammates that thinks veteran where will",
+      "ts": 1795724859.688771
+    },
+    {
+      "t": "1 2 berths day fight final left matchups set six stage teams three",
+      "ts": 1795724862.9908147
+    },
+    {
+      "t": "2 alive chinggis clash double imperial nuke outlast overtime sets singapore spot stage stay warriors wildcard win",
+      "ts": 1795724867.8279374
     }
   ]
 }
