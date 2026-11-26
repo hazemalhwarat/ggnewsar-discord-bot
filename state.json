@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/28022/honkai-star-rail-to-release-version-47-update-on-november-11",
-    "https://www.invenglobal.com/articles/28021/the-battle-cats-holds-river-city-ransom-collaboration",
-    "https://www.invenglobal.com/articles/28020/lego-korea-opens-dragon-ball-pop-up-store-in-yongsan",
-    "https://www.invenglobal.com/articles/28019/trickcal-revive-named-no-1-premium-brand-by-forbes-korea",
-    "https://www.invenglobal.com/articles/28018/zeus-choi-woo-je-fails-to-reach-agreement-on-contract-renewal-with-hanwha-life-prior-to-worlds",
     "https://www.invenglobal.com/articles/28017/sensor-tower-analyzes-shifting-monetization-trends-in-korean-mobile-games",
     "https://www.invenglobal.com/articles/28016/monster-hunter-outlanders-early-impressions-hunting-mechanics-pass-but-gacha-and-overheating-draw-doubts",
     "https://www.invenglobal.com/articles/28015/game-days-2026-opens-on-november-9",
@@ -7999,14 +7994,14 @@
     "https://www.talkesport.com/news/delta-force-metal-gear-solid-collab/",
     "https://www.talkesport.com/mobile-gaming/bgmi/live-pmgc-2026-points-table-for-gauntlet-day-1-check-pmgc-standings/",
     "https://www.talkesport.com/news/cs2/faze-eliminated-pgl-major-singapore-2026-stage-1-heroic/",
-    "https://www.talkesport.com/news/valorant/jinggg-all-gamers-vct-china-2027/"
+    "https://www.talkesport.com/news/valorant/jinggg-all-gamers-vct-china-2027/",
+    "https://www.talkesport.com/interviews/reignite-interview-pubg-mobile-japan-bmic-2026/",
+    "https://www.talkesport.com/gta-6/gta-6-pc-port-take-two-dmca-github-3007-repositories-leonida/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/jelly-not-part-of-team-apex-gaming-s-new-bgmi-roster-confirms-jonathan/",
+    "https://www.talkesport.com/editorials/cs2-sticker-money-crisis-teams-skip-majors-esports-finances/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/krafton-india-bgmi-transfer-window-november-december-2026/"
   ],
   "title_hashes": [
-    "3c905b901de6052f6eae24c126d55db2",
-    "662ab16974ce3cb38167ef342c0c1374",
-    "de5ed23fb4ba64092c5597e1f910d1de",
-    "4d8cbe20a246c40a364b9f1ff552d2a9",
-    "a4284a218df38189770cc85cd537ba17",
     "80a87ecd488e6169123a4f6b49afb12f",
     "6ec947fb2cfca972c5d6e7afe04da06c",
     "68b66434face3ca1195ee06e902e24c3",
@@ -16001,7 +15996,12 @@
     "795a48cdd33149781a14a22b4215c9b1",
     "8dc988e1d3de4830b61fd517079c83d9",
     "4411818893b8fc9bb6e80b5f772ae150",
-    "706ab9d0578cbbbd4e24cc6dd84d3ae5"
+    "706ab9d0578cbbbd4e24cc6dd84d3ae5",
+    "c20f8459746b9546dbde2a0469990a1e",
+    "83efd4d3647f57df5b497683b1d5a1d0",
+    "077cfbff7f43eafb294c28d0e34d9e0d",
+    "0edf47d4d4b86bea8969db2855abb77e",
+    "ab46ee23985eb3517e5a8e7c94ad08cd"
   ],
   "transfers": {
     "pages": {
@@ -21320,6 +21320,26 @@
     {
       "t": "2027 all china confirmed duelist ending five gamers have heads jinggg paper player post rex sign singaporean star starting vct years",
       "ts": 1795692786.146814
+    },
+    {
+      "t": "2026 anything bmic crowd energy ever felt had indian interview japan japanese level mobile mumbai needs next post pubg reach reignite scene still team their trip unlike what",
+      "ts": 1795692791.05061
+    },
+    {
+      "t": "007 3 6 behind biggest build copyright down github gta leonida notice one port post project repositories says stolen take tied took two xbox",
+      "ts": 1795692794.3680418
+    },
+    {
+      "t": "2026 apex bgmi bmps confirms during fifth gaming helped his jelly joined jonathan may new not part place roster secure stint team true upcoming will",
+      "ts": 1795692797.652899
+    },
+    {
+      "t": "8217 become cannot choices crisis cs2 esports finances fragile have how longer major money pays post publishers say scraps show skins sticker stickers survive teams that trip valve warning",
+      "ts": 1795692800.9746792
+    },
+    {
+      "t": "2026 26 30 bgmi changes check clubs dates days december finalise giving has india inside krafton november opened opens player post roster transfer window",
+      "ts": 1795692804.355047
     }
   ]
 }
