@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/counter-strike/news/pgl-major-singapore-2026-invites-set",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdXZVMy1COWJkM1l2V2hUVTAwVUx2b0Zmb1B2eHo4UlZBX0c3Qy1wRXhieFQyYlJpTmh0cENXZV85TG9ObkN0Uk1LUW1qeTdya1RFMWhZd1dITUpEZHl6M3RUVVpWRTZJM1VUVS1fdDV1LXRLb0RBVGU2aVpfV2VXbElFRFlsUVM5Z1E?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1FwZjNidVRSb2tXaGRVdU5LZEk0a3YxOUFyUDVxTzk0aXRUQWh4bEczc1RERDBJTXFXY0NwdU9qMjd1aTFwdjlWZHdIM1IyXzgyUXJ2U0Z4bV9lOFNIampKWDRWR2FOcUdyOHJMdEhfcEpnZ2FNQVBsT2QwcUJvOHp6UTJULU9lWmtKSnprUHFFS2dwMlMxX0JpOS1IZw?oc=5",
-    "https://esportsradar.gg/lets-game-now-raises-3-million-to-build-franchise-based-esports-league/",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jMXNYekhqTzRDNEowRDJHdEV2UE11RnRPbU15NHVTNkN6MWhMQUZIUm5JQTFkdFV3YUhRWTVSdEhfYzRKZzM1S2ZGMW1VUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVa3JYckRZX0NqSHV2cXFtMHVDMFgzeDc5RFlsSE0tNjdMOVJuLWVmZzUwVkFLS253Si04RHRtbmxEeUdCRV84REFqWHlYZlJld1g4?oc=5",
     "https://www.gamesindustry.biz/a-vital-message-to-people-in-hr-protecting-our-own-wellbeing-is-paramount",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4RC16VTVBSzFRU3JSa0F6eW9Tb0FEOW9sR3drX09fWkNBUGI2YWFscV9HTHJGcjRKbTdzdVJfVE84TjZTc1pHampGSHVhRnA2ZFNyekROY3dxVzVRc01WM18wRWpfQQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/29167/new-head-coach-kim-roach-kang-hee-i-will-enjoy-the-pressure-of-leading-t1",
     "https://www.invenglobal.com/articles/29143/nexon-officially-launches-temppal-overgeared-on-pc-and-mobile",
     "https://www.invenglobal.com/articles/29145/seal-m2-merges-servers-and-unveils-content-roadmap",
-    "https://www.invenglobal.com/articles/29144/pubg-mobile-adds-3-bentley-vehicles"
+    "https://www.invenglobal.com/articles/29144/pubg-mobile-adds-3-bentley-vehicles",
+    "https://www.invenglobal.com/articles/29142/micronics-receives-geumcheon-district-mayors-commendation-as-outstanding-sponsor",
+    "https://www.invenglobal.com/articles/29141/ncsoft-lineage-festival-attracts-16734-attendees",
+    "https://www.invenglobal.com/articles/29140/neowiz-to-participate-in-agf-2026-with-two-games-including-browndust2",
+    "https://www.invenglobal.com/articles/29139/eternal-return-releases-92nd-character-meissa",
+    "https://www.invenglobal.com/articles/29138/melty-blood-twi-lumina-reveals-new-playable-characters-and-main-trailer"
   ],
   "title_hashes": [
-    "a746dbd4624d07973aa83e0be94283c5",
-    "d22d24c4c86a87ac6b833b8f35e7f188",
-    "cdf6ecb42ae719b8df4291fe9ba90ee3",
-    "9719b0b8184bf9adb4c48507909765ac",
-    "dab6b428ba18d0b9d5b15a305d012db7",
     "147b2614f53ff15b57858488f2a8af73",
     "516179341f4650f623b33d2df7a146ce",
     "0007e77726ff9c92170b25da9813ce6a",
@@ -16001,7 +15996,12 @@
     "6cee8e1a3500fcd5fb3532307551937c",
     "cab0ecccc12c2445a286134d5edb0fc2",
     "f9bf2dce281720c9ce117b54f4781c92",
-    "cec3b4020caa3599a35cfb802955b823"
+    "cec3b4020caa3599a35cfb802955b823",
+    "8a4a6f75e24339cae693572b7dd1682b",
+    "517e97e8410d3abab00887d6dc3ff62d",
+    "b85b15b7ad7565dce422bfa4f29d4873",
+    "5f59a3238271addbcba7d819c0dbfe7c",
+    "6b95118220e7c8fd284c2b62769a7701"
   ],
   "transfers": {
     "pages": {
@@ -21220,6 +21220,26 @@
     {
       "t": "3 9 accessories added adds bentley collaboration content exclusive finishes has inc introducing krafton mobile pubg runs seven themed three until vehicles",
       "ts": 1795692692.0312743
+    },
+    {
+      "t": "25th after announced being commendation district geumcheon hanmi hereinafter mayor micronics named outstanding received receives sponsor that volunteer",
+      "ts": 1795692696.8878233
+    },
+    {
+      "t": "16 25 734 according aden attended attendees attracts event festival held ilsan integrated intellectual invitation kintex lineage ncsoft november players property",
+      "ts": 1795692700.2462919
+    },
+    {
+      "t": "2026 26th agf announced browndust2 games including neowiz participate that two will",
+      "ts": 1795692703.66298
+    },
+    {
+      "t": "26th 92nd adding also announced character company developed eternal four game introduces its meissa neptune neuron new nimble releases return self subsidiary that update",
+      "ts": 1795692707.0198545
+    },
+    {
+      "t": "25th aniplex announcing blood character characters entry hereinafter inc key lumina main melty new playable reveals satsuki trailer twi unveiled visual yumizuka",
+      "ts": 1795692710.3868356
     }
   ]
 }
