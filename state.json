@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://esportsradar.gg/dhl-expands-its-esports-recruitment-program-to-china/",
-    "https://esportsradar.gg/max-titanium-becomes-official-sponsor-of-louds-esports-and-football-squads/",
-    "https://esportsradar.gg/drinkctrl-named-official-partner-of-the-2026-esports-awards/",
-    "https://esportsradar.gg/backstreet-boys-enter-esports-ggl-ceo-tells-us-why/",
-    "https://www.nerfplz.com/2026/11/formerly-op-21-old-skarner.html",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ3BkY3d0eEdHN09ySzluV2Y2WGd0OTVwcDFsZjdHMUJqR2FPc3MyUWg4NlBmWlE2eGs2OU94d0tXTmtvQ1Z2UnJNMDNwZ01weHhlb2xWYzctOU1fRlFYYnlOU3VBdmNHaWZEMlZmQWhQX0hSRkU4NlpGTW8za2RjbnZDNDl4RjhvYXJ6U184OXZoeEE4Wlln?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHVMek03RGNNQ0dUSmxtRkZCVU03dU5kWW5kbWlZaVhQdFF2X3pGY0Y5cW1rU0tIcnFfaFQ3SWM4T0cwRGZZMFZ3b0gzZkhvVTBDa05PTUJleV9lcFNjLTJ6dTFrLThLMC15d0E3aFB5TzhSVU5CUTZSNm1KdzRlMEVhcmF3VEVWZFlyVzdkd1JyWTE2ZTNGdHlpb1paZlNGT0E?oc=5",
     "https://www.talkesport.com/mobile-gaming/bgmi/bmic-2026-winners-and-losers/",
@@ -7999,14 +7994,14 @@
     "https://pley.gg/cs2/pvision-win-their-worst-map-to-sweep-lynn-vision-into-stage-2/",
     "https://pley.gg/valorant/ara-set-to-join-full-sense-for-2027-sheep-esports-reports/",
     "https://pley.gg/cs2/xantares-cs2-settings/",
-    "https://pley.gg/valorant/less-could-start-2027-on-krus-bench-as-mibr-pause-talks/"
+    "https://pley.gg/valorant/less-could-start-2027-on-krus-bench-as-mibr-pause-talks/",
+    "https://pley.gg/cs2/s1mples-last-series-draws-526k-singapore-majors-peak-so-far/",
+    "https://pley.gg/cs2/heroic-end-faze-major-two-13-3-maps/",
+    "https://pley.gg/cs2/eternal-fire-reverse-sweep-m80-to-reach-stage-2/",
+    "https://pley.gg/valorant/gentle-mates-reunite-boaster-and-alfajer-in-2027-rebuild/",
+    "https://pley.gg/cs2/falcons-to-hand-niko-the-calls-after-singapore-krl-reports/"
   ],
   "title_hashes": [
-    "c77b3a340006f4656bbe1735512fb250",
-    "6b4080467d6c5016b30577e5453d2e01",
-    "bf9ed39a13c9afa52f3e2707d0694ad4",
-    "d30e1c6e7c0787230b502065c9aeacd0",
-    "a73b6aa9be23651f16679866049a30d9",
     "6094e8146db7221c176734a7813050db",
     "827ad284f21310ef43872b82bf0c065b",
     "45d4e42c4bccb5d4f72868fda8f7ed07",
@@ -16001,7 +15996,12 @@
     "b23a45b370020fccaacbad93040aff1c",
     "6702b29dc2aaa25f2184f992b51de71d",
     "e742e8bda83e36fac6020174a88290e9",
-    "ab2a5ca41d169450e05984adfbd2be2d"
+    "ab2a5ca41d169450e05984adfbd2be2d",
+    "c3c0d370c94d146521b196a76a33ddb7",
+    "2149eff5070b6ca205259d1a16f44e6c",
+    "1572c6953e252cd5b7be7111377bb0fc",
+    "db4c9359eaf2764d2c6922b900e40e2f",
+    "4f67dc3f3ce616f13b3c51898bef5d8b"
   ],
   "transfers": {
     "pages": {
@@ -21360,6 +21360,26 @@
     {
       "t": "2027 bench brasil contract could end have krü less mibr not pause paused reports sell start talks thespike they told under until who will",
       "ts": 1795692822.851459
+    },
+    {
+      "t": "1 2 526 526k 834 chinggis day draws during ended far gosh last major over peak peaked run s1mple series singapore that two viewers warriors win",
+      "ts": 1795692827.78241
+    },
+    {
+      "t": "13 3 ancient between bought end faze heroic major map maps more one them two won",
+      "ts": 1795692831.0950902
+    },
+    {
+      "t": "2 7 eternal fire kvem m80 reach reverse stage sweep went",
+      "ts": 1795692834.4102988
+    },
+    {
+      "t": "2027 alfajer approval boaster coach confirmed gentle have head kaplan kozzy magnum mates pending rebuild reunite riot ruxic",
+      "ts": 1795692837.6849859
+    },
+    {
+      "t": "25 after bench calls confirm falcons hand hltv igl its karrigan krl major make niko november pgl reported reports says set singapore sources their",
+      "ts": 1795692840.962175
     }
   ]
 }
