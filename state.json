@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEVvdUkzallIVWZTT2hLVVN0WWZ4TmFvRkdicFdKeVZ3R1hZaXpWTnRIVkRseUIxUE5wNGUwQm1nSE9IU0VSai1Gc3lTRG9Xbi1ZSVUyNXdlOE5nRVAySGN5bDVVV0ZhZ3FlUlg3VWxjdE5mZ1BlVTdSWC05anpxZmZFZ2xKVlpHVWR2RjZwWDZibmlsT2dwQ1ZZaXdVUFc5RDQ1TFNYMXFmdWRBTHhYRFZKUkhkYUZvWEFweUlpTGVzdlRT?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFg4NkpESGdCSzlaMGZKNF9LN3R6SW5zUXpGUm1Mc3UwTlc2RG1uOXlxWllIRjl4TElaU0ROYU4ycTU1QnpZUDVJV0EtZkFJY1JPRG4xQm9yRE1MRDNjem81M1BXQWJxWmNkZ05IZnRuanlndGhBY19Wc1lLTTVkRV9jNnNYTWxPWF9PTkxxZWRDZGQ2d2ZQQmFGZmdDbkU4UWFZWkU2a1c4eWZBNnlYZXp4UzRrTkZhRmU2M3Z3dzJpSmV5ZFE?oc=5",
-    "https://news.google.com/rss/articles/CBMimgJBVV95cUxQX293cDhQaXd3LWlKUEJyaXhTelBmbmNzdWhCZmY3b0Y5WVVrMmpnYlZraV9TUXl1RmFaYmFHbmVlMkxrbVpvMEN6TTlWMk92YTBtb0tXRlhOZWtiZVMydTBhTFpjeGp2U3BJOGJFaVJYVUx6ank1ZjB4aGh6R0J3Ml9odWxzMHBuQjFhd3lUR0hpRGYxdVRaX1B2a1dGTnNYWlhKQ2doM2VCVW56Zm93Z0ZrUUZFZC1lUXVrcFV0SlZhU1Q3RU91YldNMVM4V1RldTZvUXUtRmdMVVktbE4wN0FEX0VXWEZOdkNhSzNqMWZ0NktBaV9mNjVnckNFc2FxdGxLb2NxeDQ2anVDMnQtYmdDblNvUnRhYnfSAZ8CQVVfeXFMTWFFOWd2RXdLM0s3WVlraF9DMWNlR3ZlWHA1YktIc2hZbXVXYTYtZEh4OUFvSjV4aWJobndob0stbjc1YnFQV3NJcTVfdmNDUDlkSjloU0tFVUxSTWZPYUwtcXA5czRzSDBnLWRmQWdVV05qVVZGUEdweHExeHZRaWMzbnNQSHVwZ0ZiY19qNW1ablJMWGxlN0tVZWhWQUtBektmTUduQmlEQ0JtVGo2dW1kVlc3djFtOFEtZ0lmWVFDdG9qQko5b0NJWnYwX0hoWnU0ZGdnYmd6U0U5V2wtUTdWUUJ3Yko1RUt0eENXUjVBNG94UlNOZVNSb0FjOG5XSEJweHJSdWhIUHNwRTBSZ2ZUcGQtWFRoa1NNdUNRYjg?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT0JCazN6XzdMWDlRek9mTWppQ1h2Mm9yOWo5X0wwYk5hTzBQN3pveWNXQnNhMWQyYTRpc0JpSHpOV1F4LVlvbTNvOXJlN212LWcyYnNhSE9PM3k1UHdOSHlTcHlUU252WnFzZC1GeldUMlpDUUZmVjNJSndUX3hLdTFDNm03ZkprbncyVGNqRkFhd0NockI0SXFSUjFrX28?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcldvdmVQTXd3YmtVS2dpaEsybUY3QVVOT2Jza1hOOFY2VUc2aWlkaWRqSkItRlZEUDhPbmQtTFBSTnZrcDhCb1hkWngxc0d0TGpQRzJjSWlqbE41YVJRblpYRGVXTnJWeF93Q3ZtZnRobUt2bENlSWhiYktsVUhqWFI0TkEyNHJaRnMzdUdCaS1BVXZDRzFScUcya29ObkFC?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3h0c19uNGlxel9KWTVYaEl3LWNieUZINGExa1h2elRLVDl5QU9nZkstbWdkT052QXZSYXlsa2pwSkpUcEVvQTk2MnQwVGlKN0FQMS1KTl9aelBJY0xXNF9HU0x1Qk1iWi1Ub2FBbzJ1aXRlM2ljRHNrS2dsQ3B5N0JBVWc4NGo5c0RabWl0MDNLaGRmb2JoWA?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1Jkc0c4NFY5X0JPTDlIM1Rkb1ZLTGdvV3A4c1d5S3JqUE5BYTR1eGZTRzNSMko2UEhDY1RVWXRMR1pCZjVlcEsxUGYzVDJ4RTlaQk5pbXpqbHFTaHNlaGJmZ1FfVmEzMmp2dGl5aldXYnVwaUpIUnRMVzVHN2NLVi1UVjBfOFo1WXFZamhxbDdPcGFaa3lQSTdIYkRHNTZLaXlta2NBYXZ4b0U?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZXpZSjJwQ01wakVFdnpmSGU2T3Rod0VrNEdrWWVSdEtsVC1FMXpWbDhvQUlPM0dqZWhKRXhKV2NkbkFsUk5aNldxczZuc0RhSUhhTTNkV3U1bEpzQU5HY2k4a3EzQ2ZWU3V3ZlppdmtMTEpBZXpTUUdMMER5T3FtU0k4UXl5R1B4bEZTZw?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.hltv.org/news/46062/gizmy-on-leading-veterans-you-just-need-a-strong-personality-and-trust-and-you-can-earn-trust-by-showing-class-and-good-stuff-in-game",
     "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
     "https://www.hltv.org/news/46068/matchups-set-for-final-day-of-stage-1",
-    "https://www.hltv.org/news/46065/wildcard-outlast-chinggis-warriors-to-stay-alive-in-singapore"
+    "https://www.hltv.org/news/46065/wildcard-outlast-chinggis-warriors-to-stay-alive-in-singapore",
+    "https://www.hltv.org/news/46067/blast-announces-invited-teams-for-bounty-2027",
+    "https://www.hltv.org/news/46061/hobbit-if-dastan-was-on-level-five-when-i-played-with-him-now-he-is-level-10",
+    "https://www.hltv.org/news/46063/liquid-battle-past-imperial-into-stage-2",
+    "https://www.hltv.org/news/46060/100t-eliminate-9z-from-pgl-major",
+    "https://insider-gaming.com/whats-the-easiest-bank-to-rob-in-gta-6/"
   ],
   "title_hashes": [
-    "4ab70edeb220f1cc15ed40772dd9e81f",
-    "440d3881c9d604331e7febf5737dbd80",
-    "4ea63f27d91e2537d2efacd7a1f9e4d4",
-    "98c400d91f4cfe2f01344a3291bbc72b",
-    "2bd13e2a5a849e76aa25b138db0c3819",
     "ef95b6ff96b3ea03bdbb46774b5c60cd",
     "05b7de1c2d97db198d22c9ada83b1769",
     "baa875ebc31edcf5f1608531a479b91e",
@@ -16001,7 +15996,12 @@
     "041853649f1e36f8f47bc2d324aa52cc",
     "2fe9f6a7cdadc84f8992da51a499096f",
     "a8fd8d59a86786ffc54894bda407d9bf",
-    "8bc976440814c81d0c22f0b238aa4ce3"
+    "8bc976440814c81d0c22f0b238aa4ce3",
+    "74e05de80ba2e2793dd719f93e9785ed",
+    "8dd8b935146d8aa6db2a26511c096377",
+    "39e4fa8cb21cd6a26fb261d81581bf10",
+    "f7deb0bef3bd22c3f0729a92480ce8e2",
+    "2313d6387a68d955d47643ac4ebcc7d4"
   ],
   "transfers": {
     "pages": {
@@ -21104,6 +21104,26 @@
     {
       "t": "2 alive chinggis clash double imperial nuke outlast overtime sets singapore spot stage stay warriors wildcard win",
       "ts": 1795724867.8279374
+    },
+    {
+      "t": "2027 announces appear blast bounty bucharest clash due event few invited pgl teams top will",
+      "ts": 1795724872.5989795
+    },
+    {
+      "t": "10 come dastan five has him hobbit level long now played since way when",
+      "ts": 1795724875.9474328
+    },
+    {
+      "t": "2 allowed battle cache elige impact imperial into late liquid map past seal series some stage victory",
+      "ts": 1795724879.2509985
+    },
+    {
+      "t": "100t 9z after all breaking eliminate flash just losing major pan pgl streak",
+      "ts": 1795724882.7791312
+    },
+    {
+      "t": "000 200 6 8217 appeared around bank easiest firs get gta heist location per post right rob robbery what will you your",
+      "ts": 1795724886.0346694
     }
   ]
 }
