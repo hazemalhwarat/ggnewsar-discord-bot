@@ -1,23 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjB1VDJld2wzblNPdWN4bFlLcWZpemN1THRBVXBGM2FSLUk0Q0VtZlRPenBtUzdJY3Q5MFJFanI2Wi10UVc2TzBDREJaMkdldUxrbUZJZWFzX0N5S3BzQ3BqRDVsMUNkVkxjSVRFRklWeEhobUljeGJJY3ZMN0hiLWhxMlc2TGpnMGVNWVp0MHVjOFNfc1NIbUdjYnh0Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLUdpTE1DY2xieHh6Rk90R1cwdW5zMWpMd190cEVSbV9vOUpqVUx4MFU5QWJ0Uk5TWVFtNTdnWEY4Wm00VVB5VU9OQ2dRZTBHZmx2TXZBN1Jqb2R0UjQ5UF9jVnZDWGR5Nl85bjRITE9pbS13MlpfQ3ZmVlo4Vml6UlU5dFIyajV0WnFsNnEyQlNIOGM?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFYxZTRUNTVWN1FFUUFTLXRzUWF6NC12UzdKNGxVSDBFYW00SXhRWS1kYkI4UDF0dUNBbHcxTE8yaFBPVS10NTVtd1Zfd2YtWTFJalNpZkNoZENEb0ZyemxZa29fSkxqY0Z4eWR0T3kycDVaRVd1YTVNd1Mta3RuTTFSSHhFbkIxN2tnaXEtR2Ria2RTX1FNRXJHWkFIb2tRQmF2X0xhamQ5TURmSVptS2JzbFFGQXRIMVd2eGxKQUFiQnpBakZKbW5tdw?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkdTTWpMbjNQcGxmTS1yN1V0LTlIWjg2SGFPMjJ3bEMwcC1UWS1CaTNReURTZ0lWYkVwaUNFelB3bUZvc1ItSkNLLXJtVjdqQ08xVElEbEtGMVVyU1J2X3ZzamFSR0FXM3dacW4tOEhxVWpDUWtkUFVCRzVkNHp0d3Yxa3hOZjIwSV9aSnFNYi1pb3U1OXpkX2I5MTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUW9oaFp6WDc0dlo5enh2RE42NU8tOWFFWjlrTzR5RExHTE9kdTRYdE12bUUyczNMOEw4VUZ3STlQbzVrQThIZ0o1SHhRcFdHUFhUSHdQdlQ3eDFwZHQ3MXRKbWo0X0pFemx4bTlVWExxN01xLVFTSWVLUGdvU2FnbU14UTZ2VXkteHc?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMkRNOXAzY3psOWp2TVQtdzBxcThla3JQRlYtTmhlZUt3MkxQck5lSVdob1JlVms5VGlFaGhHVVRwRVlGa0JGSXRqcjJhb01uUGJ2WGc2djg4WHlwdnRsZVN5WmVTUmhrNHVlSU1XcHl3Wnk4MnFPU0tGQm00MUJsbkdsVWlrYWVuUDFLbnllUkpaZGhNNW5uN1RyX044Nnl2UXR4MWJfUFkzZTduR1E5ZW9EYjNVU1o2Rm5LdzhwVkp2NDdmX3gwTA?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3MtM0hGRXpLSXIyR24zR3E4a1QwQUV5NDFsMnVsLXFLalNuNjRmU1d6NkRPUW5pbXoxQTZVNFZiSGR1X2sybnZlYWoyN1hJelpiYWx4Qnh5TUYtTkNIT3BsaHRQRTJVNDA4YjJ4Rk9UVWxicGI1T3dMOEgzVE5OZmdaSDFEdmRSVngyUXROUWJrTE14d0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVTc4QkRsYmltRG9YWUotTkRqcVIzR3ZWWnRTM1l4NDAxemUwU1g4WGJvSkxTaVhidzhVOW93RlpZWnlTTWhMd20zVnZCUk0yTTZndTMxRWk4NGh0eUFKUC1JOGFSal93VnJxX0RFRmpFRjdmNlBHSHBRM3lxZWx6QzZmYUdEdVZXck9GNFVxRGktZ3p0OWctemdrRGhzSEt6MUE?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQjNVekItZS12ZXJFQk1aSUduOG5aRUFkTkV2VGhsZm91bEt5NUlsTm1sS09BczN2R3g0S2RfVVpKMnhvbEdGakFRRGV6NklicXNaWWd4WVhMOFllWDBySVJmaEtoNGhETHpmem1jQkwybFJmM3oxbHpkcjItT0RtMEdwREVZRnVrakow?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0hGck5hRGRobll4V29iWWxJTnNzbnFVMFh6cl81bEZQOHRFX2hYQVdyZzR0Qk9pbnhqdlJEUW5EWW1IWUNJVXY2Wk5XM0FrMmtFZkE0TnJGb0ZubXRpdUZLTXZRTVpfYm1YWmxRUHRBRVhTbnFQWFpqcUFiRmpTNFppTEgyTmhoMkp0dF9hOA?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVBOdmlIeTF6WnNmVHduOGdWQVBIb1p2WlFYWW1WY1djNlBuTE9kLWx1NDdEcVQxaFRrbGxGSmtsc3hrVEhWVHljN1ltcUQ4SDhxcjVLX0g1QTdzR3RhYVp0a0ZWYUJ1R1FKTmNuYWRCZ1lwREtWY0R4VjVRMGZReWJTeEV4YmZsUWEtNFczSVlMdHdhc1o0a0JQbmpjaDFJNTRjdG1kN3Q4bGloR1oyUURyNHE?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnVGbXk5OVJTQkd2RUw3VkRYanpBaC1lNkRTanoyLXdwUzJ1Wmp5a0RiRGtoVEJ4TDNqMXVWbVJFZ3FmNXJnYUs4ZEp6VTJrQlVseGt1Wkc3alVfekM5RGNOdlFEMTVjMEdLY29IREdFc3FvY2JKbVZjNmg4cWJlcWdlOWpWdTRxSW9kNS1fbEMwN0xKckJEMnNQOE1PdVdYS1dhYWszOTk?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXYmFXN2pub2lRQUpYUl9YLXpzWTdmU3ZTU1lrVF9fYmpxS3dCMkl6a21LU0NFLUwxWXJJLVJSUWo1ZUhNRmtqUE1WX0d1VTJNWFVYaGxjT0VHbkRobnMtRlZiYnoxQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTC1FT0lzUW9XdVdCc3paZEZjdDdmUnZ3NGM5QS1QakFDM1VUTzFYN1dYcUZxSE5pSjNxQlRZalB1WVRkeFFFTXkzSDdwYmZWS0R2WWR1SHp0bGhieElYaG0wSnJtT1JDR2hLRlBxTFkxNmtXSkJfc0w4aUV0NnhHZTB4QnZuM3pMeHd0eVZ5M3BSSnE2WmdyaTV0ZnQ2TlctZklpemdrUnpJMldfby1r?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEFxRXY4RGtoVlpnZlRjWWQwT1E3QzV2enlnekNDclhlRHlfODVsSVQ0TEhJeERjZVF5b3JsREdnMURkQnRNYnQ0V2ttTjk4RjVxQjc2YldPZnB3YWtXSzIwOVF2X3kyN0NrM0VYS3huR2ZzUWN5QVd2b2ZuUjRRbGVCVWNDdDg2NlctdFpEZTFHSGNOU21iMmlFd3cwSXg1OEVnRl9EeUxLc2s?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzc2THNlb0pteUtmYUo4eEJaWXFRbVJyZnI3ZGRZQ1YxbzQxOTdkOVpRSWFPOVZ5aWp2eE9FSFF6aGRnLWJSdFN0QTBUWXVPUnZEUmgycTl2X3ZJcURZRUhBLWRhdWlFSkNtTjVrTzduLUp4NC1nc2llTldvVWJGNUtOZjRpLUxDV3VwX2Z2dEVIVkM2cENuek9MX1o1TEFrZVNZeVJnb0tURHM?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSWdlejdnVTRnNF9pS2hCamxJc2QyWG10T01OZHV3VmtRNmlHdTdwZGhDS1VrMGFGMUY1T05nSnl4NjZhenA1QmM1QkVwd3NyRE9QY3VwaTNXaVNQbFA0Q1dvRVlWNzNQZnBrX0NaUFdORlpkQ1pCQy02ODJ5bVU2eTctNzVOSVJqLTlOLUxDdUZFUjhlWUx0b3lhbV90MTJTRTNFNkhmNmNhZ2c2aVB3?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjZrcWdpd3QtSUVNa05rT2tyY3ZSaGdhRzEzQW5RRW81anBydTN0cDlaRGcwZVNtSXN5UHlEaFJNWE1iRHFDNk9SdmxlUDg0clIxR2hDbXdDOGpPUWF0Q1d4RWtOY25ucDh3aWJHb005Y0VfRk5pS3pzOUY4LVFlT0cwN1dhYk9nRWRDWWJUUjI5dmxoSjR0OUtaWjlpWG5YYnluZFBHTGx4bHFKVWc?oc=5",
     "https://www.invenglobal.com/articles/28142/nextframe-studios-hell-n-slash-takes-cues-from-hades-and-devil-may-cry",
     "https://www.invenglobal.com/articles/28141/what-nikke-announcement-missed-so-what-are-we-supposed-to-do",
     "https://www.invenglobal.com/articles/28140/judas-joins-the-defense-deck-meta-character-overview-and-strategies",
@@ -7999,27 +7981,27 @@
     "https://www.talkesport.com/news/team-soul-71-finishes-second-most-pmgc-2026-gauntlet/",
     "https://www.talkesport.com/news/cs2/rain-most-opening-kills-major-history-passes-niko/",
     "https://www.talkesport.com/news/team-soul-s8ul-qualify-pmgc-2026-grand-finals-gauntlet-day-2-recap/",
-    "https://www.talkesport.com/news/cs2/pgl-singapore-major-2026-stage-1-results/"
+    "https://www.talkesport.com/news/cs2/pgl-singapore-major-2026-stage-1-results/",
+    "https://www.talkesport.com/news/team-spirit-seven-nation-army-anthem-pgl-major-singapore/",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcjJaV2QzajJjTWRVcHFSZHhVWDl0cXhQMkVvajhmWGw0dTMtbXRoZWV6Y3lWYk1LNlpDRl9FWHVmc3QyLW9EMTlqb2p3eDVrSF9uSjNyUVZLNEhyVVZ0b0Nwbk1GN0tMd2dESzRJeWdkbEZUbGhoQXo1SEtMTzJFSw?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkdnSGk0cnZuUWFicmNRVG94ZlZoeGViS0lTR3FXTVcyRXRfX1Zlc0tFOHNoVzFoMnNKVDlIQXJBZDRzRHlMRUdzZ2xfdEphTWIxUnZCQno5a1VZVVgtNHZoVF9ubGlNQTFWQ3RseDE3QWh2TWFtNGgxLUJuUUxzaE95UGVWOTJJcGtIWUo4LUhLTUppMlRNamY3MWFaVldLTUlRN25ZSlB5Tk5T?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaF9KeTA1UlR5cGlEcWFDRk5SRVBOcmNtOUdpT0gxdXFJTWx2MmRCaWlITFphdWplOThuQ2tQU0dHR08wdHp5YmxaQktOVWNTeVg4eXFHMWxpbFBJdWY2WnAxVFRDa1lwVnJLRXd0UmFRZzFKUFAwNjliQUNvcFZwNE9FSjBDNmhUZ3Y3OWJBV1I3Qkd3?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NVmNxazl3UFJFYkhRSnhIX1FFN3NZOHFQTmFSQ25mazZzS1lFZ1NYVVFvdnFieUNZcmRZZmEwUkNoXzJKSVFkWTdoYlU2WV9WUEYwZ3U2Q25nMTFKUWdQcXI3Y0FOaHVIY0d2X0MtVTVYN19w?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxeUFiZUpBaFBfemtQUmsxR1NCN2duNXJ1ZVVTYTRLY0U4MXpmMGdsM1NiTlJCUkcteHFzUFRqNFM2bHhaMmVEbWxHTVpLbm13VkxTNDNiaGxOQ25WVHI0ZTJxa3Z5SVFSRVN4ckY5bXJuMUllaVE?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVExmNjhFZEdOVHBrLU8tV1NfNDU5dG5UMUktclJOUmg3UGZMa2M1Z3lJZ3AtNkFBNGxYVm4tUHI2MWtVTTdqX1FpQmFpMWo4c055Ny1uWjdUM0xiUzVGZkU3VUUzNDd0UUhZcDNSX0FwcTBReWYyblg0VHowM3otUVJqeHVZUjlKVXJwWkxJYk50Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNDBZZHZPN2l3YXFXTUQ5QmJpVWVHSm5jaUdkM2wtMS1BaUcwVXl1ODdudGJoSl9ZRWpvNDVvTElMQVBJUjZDazZraVNmeTNnek1wMHpQRzlORFk3ZGJNYXhsOVJtLTBlQWNoS0ZMVno2MVZ5ZGtKamtSNHlGaGk1LWd0b052RE9vQkdiMHRJS3Z3aktuRERqV3FBTWh5QkxkYUcyczNXbWpDaHc?oc=5",
+    "https://news.google.com/rss/articles/CBMilAJBVV95cUxNXy1yZW4zT3FzUEEyVEV2OGRldjE1bmd2d1BzWjdvZnM5MW9kdVFLOVJPbV8zcVdyQml0dTNQM205dkJUZ09aa1lJdENrbGVUYmgtckRzLXZyYjgzdy05YnFMSUZvdHFnOVR1cFI1Q3pxcGR4NXdGS2JhcE1KRXVOZ1BmUmZfc25adEpZNmlkQ0xXV0JTY2JGbW1VMDZ5RXkzcVppUVAyZGxSbk53TVhoWmljdEIzbHI1OXRleVFnS25KQ01lcDJ1eFJpMVpZUTM0U3JERG4tNGdZWkZESG82dG1FQzJnZHBxVUQteHR4LWxXV3MySmRCdzE3VVZwcmEzSl80MkdmSUFsQk1pbFQxU1dESVA?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM1lid29ZTXpRX2VfYzRJNE1EQ0JMbHdabHgwNl9Mak5GZXNZNEZMQWRSNmZ2ZEczT3phRjZZai1MMXppNWEwN3czazI2TXBSX0ZsNFFDZnJ5UVhmVDdFQS1STm9QZTNIdktaV2FwdWJycFJVVjJralN3bE5KUkpaOEVKOTJWQmpYZnJfYVlSdC1iemx3cmJJZ2l5dWxkNGdzak5oT2dOU3RpS0REUnIzSGNMZGVBeHBVa3BsdzJyeW0?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JQUppZXhXbVdHcHBydVVQTTRDbktvTDNVd3dCX0hncHc4YzZkYVo1R1hKU21LenZZRXo2R1J4VXVlNmp2WTJqcjMxMXU3RkFHazZEYWJvM3hOMVRHZmdHOWpzcw?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWpoTERLZi14T0pyU3Q4WEVHWjgwdURzRUNLSlc5bnNTV0tRQWVtb1NOcV8wZXZ0N3NwWTM3dFlZSlhtN1B6aDRLc29tUzc3RjFBWFpHZnZGVHNHbGkzZjIydzZFMzUtRU40LUlDSU5XYUtfd1V6d25PUTZVQXNaNjY2d2xWckRIQlNMdFhYZGsxT3hKamVPTTdjRzQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY2RvOWVGby1FRVVyZ29MUkpleW9wT2FTZ2Q5MGxxUm9fa1lFM1R3RGNYYWdVY3ZqWVVxTjFQTHhUc0R6WTJCaDRYOEtyLTd2WlV0X09PS092Q3BWbGptYnZzVXBaWVllamlQTkxsY0xZd2stYVpKbVcyYW1yVmFEZFNIbjI2S2hvcXJ0eF9GSThyTG4yclJfNzkwdFpMeHhPNmxEUTNhQVZoOXlDR3lrOEhmQmFZR3VqZmlMWnczbFdLX1FoVGpyMHQ1QVJIUWxvZThqcVV2a2NROEs0VGVNZDlqX3VmZWFkTU5fdQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT09CTTdVWDF1U2UzczZRbFcxdFMwcnlMTVc4RkF4S3BfeW9xLXdINDRWUkYtZ2RsWk44WFV1Mkc0Yml3ekZZZlJOUFZHTnRkdnJfNWhUZDY1Q2JsMWNfR3VZMVBlQmllMGFGM2Vib0xzbGJaN1BLMHhJMng5TUVGbWxqbnJtTkltcWZDcjExLTBxY1ZqTG04ZXR3YWxibGVybVN2YWwzRmNlWTVKRHNHODMtSVhfUmlER09TTTl1RTliX1pZNlA0TzJvb09QcWg4UHBDRi0wWFlyendCb0diR1JQMA?oc=5",
+    "https://www.gamesindustry.biz/one-week-on-heres-the-impact-gta-6s-launch-had-on-the-industry-so-far",
+    "https://www.gamesindustry.biz/gta-6s-pirate-pc-ports-new-tools-old-problem-opinion",
+    "https://www.gamesindustry.biz/story-of-seasons-studio-marvelous-offering-voluntary-resignations-to-reduce-headcount-by-65-roles",
+    "https://www.gamesindustry.biz/indie-puzzle-adventure-rhell-beats-gta-6-to-win-best-game-made-in-the-north-at-the-game-republic-awards"
   ],
   "title_hashes": [
-    "896afe7d192dbd28131a255403e0dd3e",
-    "6b124e2814f3d4fc015b1738d95514f4",
-    "be8839e1306f520aaa472042312480cc",
-    "15c152ac09be96539f48970356c1e9ee",
-    "17b3c97243be9f78e271d982a424d69b",
-    "3adff89a7516d82ed05e1faa513403e5",
-    "e46dc1eb43f613d8a8e0c174e3ca835b",
-    "e9edab489af604836e45395dbf5f5640",
-    "19f78659f81b5af0aea8fc3dcaa3e1e9",
-    "759862b0bc2841a6fbdebca27cfa85c9",
-    "6e9d8f62057360ee1991827d298f20af",
-    "0d263ccf2c122b2a787b1d54f94eab46",
-    "b0f43fd34a212eb6fed8bad79124b43f",
-    "1cb704d5f9945cd9e34e86992bbe48d5",
-    "a86aea095d6ab3b2a784925722c9c91e",
-    "3aa507b53f4b8dffb0817c4200428465",
-    "181f09cf5165fa93fef788234180fad9",
-    "eef51b31c55ba377464fd2d1a13c58a5",
     "9041524f4dce7c2b62be56ed7cd29fee",
     "af84b468def259d8274fcde411dd7d03",
     "b9323d571e793d5f00c942bf7bb57ce9",
@@ -16001,7 +15983,25 @@
     "18bd67ccc8a59d425077a7f6121b80e3",
     "7dca94aba991fa095bb462e1f75275b7",
     "86e4155bf79389f721be0342c6421314",
-    "a1049b206b0acdcb2c3b61cca60c762e"
+    "a1049b206b0acdcb2c3b61cca60c762e",
+    "5890f3acd9cf062bd71c32014755546d",
+    "0cf79ce3bdd1e8b9ba666b33448d71c8",
+    "0ef0f620811f635b4c5c0bd9740d5885",
+    "833dc18cb3f6b57d80a1fbd7a919aa94",
+    "e6623224b32f5db7b810cce715936873",
+    "661b038ff59596148f4e03413916aaf5",
+    "4e5070e4dd88cc38da44e5389c8c83d0",
+    "86df715a463871e2aa1506155459b2af",
+    "0e3499dfd8ec2e2ea8af457412585b91",
+    "a659e5da81722a7ba753497e6ff930b6",
+    "5abc445e677c3f1563e8923a0d49c7b7",
+    "e130b74d32dcc3730527a1cc5ad1e8ad",
+    "ea3eca236c3dd3947fa24bdef98e7750",
+    "8b278d84f53c7a477c9c41f30bd1d825",
+    "c08ea298fe18e93375a738ffabbcd5f8",
+    "fb156798743d6c556459a5a191f30120",
+    "b88f908b68830cf97d9da6c6585cf859",
+    "5686f2ee036a7e2902b44050f85495dc"
   ],
   "transfers": {
     "pages": {
@@ -21244,6 +21244,26 @@
     {
       "t": "1 2026 3 4 come day draw end fan favorites final following has major making next over pgl recap several shocking singapore stage through tricky underdogs",
       "ts": 1795811815.7865477
+    },
+    {
+      "t": "2026 about anthem army dragon fan fans has into its logo lyrics major nation new pgl post released seven singapore spirit team turns",
+      "ts": 1795811820.9453275
+    },
+    {
+      "t": "6 across admittedly america been dominant due far game games gta had has here hol impact industry launch ndash news one point quiet remained sale supported talking thanksgiving week",
+      "ts": 1795811824.493044
+    },
+    {
+      "t": "6 about advance all another around city column dystopia far game gta know new old opinion our pirate ports prefer problem rather reading running soaked sorry spending sun than this time tools vice week yet",
+      "ts": 1795811827.9198241
+    },
+    {
+      "t": "65 developer headcount its marvelous more offering positions read reduce resignations roles seasons story studio voluntary workforce",
+      "ts": 1795811831.3108342
+    },
+    {
+      "t": "6 adventure auto awards batman beat beats best competition game grand gta indie last lego likes made night north off puzzle republic rhell theft times troubled wakefield warped win worlds",
+      "ts": 1795811834.9637175
     }
   ]
 }
