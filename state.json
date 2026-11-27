@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0h2VGtMaUZRUmJqejdDQjFvY3BpNmNZMGFPMUNHTjJKNnpIbHN2NTBWYmpsWlR5RkgyX3lnYUdveGNlbWc1OGI3U3h6Y0xHV1pKY3dXX3VZSU1ObHFtNUdzYTFjcHJPRUNzMGRObEJZS0FNY1J0MzhVb3MtTXYxN3B5T3VxaDJweXdCalpYSQ?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWTd2aWZBcHRYVWhYRnEyQWJoZjg0clVfVUdMeHNhV2pLVDd6MTF0MkJBZW5ZNzdiakhRMHZnTXRleW12VTVYVzc0Tng4enN6eUF0TDdOZW9TMkRFMW1BRlo4cjdHVzQwTV9PRkMyc0dLRnU5UlFWdmkxTHBlZklEb2FnNXBXb3VEcklLX0g0Vk9HS0RVVkNZZE1UWS13ZDhLdHhoSDZpR2c3TGdsYmhPNndUbjRWbXdpRHJ3RXN5Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWVcxVk4zWEQycHhrbmxZN2RHSGhRN3ZDMVdIZjlES3lFTEk1UzRXWFl2dnE4NU9xNElJYzJFQlZJUWNtVnBFaEI5UlpGWVFaQVV3b0VDeEFlZ09mbDJqa3RFX3pFX0JkMkNTWVJWMkFEaW1jTHpIRzdJdjRHQkU?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUx5Y3dwT2dQRmFfMFdPOU4zT1luWHdFelJYemVyLTdXUGtucjh5TWwzN0k0R0NFNWo4WWdDWVNjdVFiamJvaUNqT0NzRTFJT3MzT2FkYVR3S3h5VW5BNzZGNC1jTFFaS0s5cEExdUpzSDRYeUNKYUE0TXdmaVd1ZXBpMHBxck05WFVPM1lJUXRkMTZ0SkE?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc09Zc1VGSE51cVlWVWNYZ1c5cmpHQW1PczJuLUYwdVkwNnBfR3RESVNFdlRQS0tmUER6bmgyb1RqR3ZJbWk5cHpaakVnWm9oMldScHU2TUlMU1I1Ulg0RmQyYTZrVC1NdWVyQUpxc2o3SjdCLVJENXFjYURwYnZQdlMzYmVndVU4V05VQXA1RU9XTU1GTUlVZ3J6cUZteHh5WmpaNm5qTzJMa0d4NzRMQTFnQTUzWFlOV2hxWg?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWI5WWhvWVBjUkpOYVlwWnV3a3RqQ3dXczhzenpWUGJtOXVGc2ZYb1pBeFlQZU5EaElkRXVsemxoMUNRbV9KTzAzTDFGVjd1ak1PZDBIeE1Oa3BCT21pX1JURHc5WUs0OE5BN3RPbTdKcUhvc2NHSm5MT09iVURyYmtrZXFOS2IycTBKM2RwdFdrMWVJdmpsbg?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2V1dKbVhzN2s2alNwR0NiX0Z2R1pUdGhzZVpnN01GcnFfUF8zMGRZV1V0V2VVRG5yZ2k1eFZMVmtYSlV0S3lfbjVEaHR6N2d0cGJPeVpONjFtUjJZU1l3NVFVVGxTTXpSTHBrcWdNY1B0eDduVVdhdERaSQ?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc01pMkcxRE81X1NTbm53c0tBaXcwTUwxei1ST3hoRjktWWZzbWdIS2NwS0k3dV9OUUx6ZUdfOE5ITnM2cUUxWmFRaXF1T1VPNWw3OXJldF9TMHJXSEJnSjJ5eEQzbHBTWDdvOTZCMzRRTXBkWFRYa2IzMmFveVA5QU5hNGRneTJSOUU4Q0c0UmFuV2ZRU3hUSXBTdmhNZzU0cWNQVHBKOA?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOanF5SWItbWJLMFgwR2VHMTlIYTZSOGdXQ1cyYlhzUHJfUXlnWnB0Y3BSNXdoRU1WMUdEaTZNbERVcmpsenFaWGpVOXhJaW9kMVNHekxWdVFKb2xhNEpjRDlTWC1fUWFKcWJPNUNSUzVOa1pBYnFhTDhoWmc0bE1JNi1KRF9abmJRRHFnWE1SUVZ6UkpORlkwa2Y4WnVQNVNaUVVqSnA1dFVEdGlQ?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE00ODRJWThoMmFEYmI0ZDYyOXVwTmM1dU02NjM1bENLMHRWN1gtMkV4UmZ0Y2xVUzZURXA3UDlyVnh6ZDFFYkNiTkp4cjdVQkJxMmpCNFlsb0RheS1oNEZmOEUyNVREQkxnQnN3Y3hGWQ?oc=5",
@@ -7999,16 +7992,16 @@
     "https://pley.gg/cs2/fr3nd-rescues-wildcard-from-elimination-in-double-overtime/",
     "https://pley.gg/valorant/nats-settings/",
     "https://pley.gg/cs2/liquid-outlast-imperial-in-overtime-to-clinch-stage-2/",
-    "https://pley.gg/cs2/100-thieves-send-9z-home-2-1-after-rains-dust2-revival/"
+    "https://pley.gg/cs2/100-thieves-send-9z-home-2-1-after-rains-dust2-revival/",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2NVVVBrNlg4MUFzRUhvYmxSclU4cU9sazFZWmZnd09JTy1ocmZTQzNibE9mUHh3OUFIRE8wd280cGpNdFN1elE2M1gzM3RpSkZuUEk4TE5nUmNSY3UwS216STRWaE9DdGJudnBQeFlfZG9DaWhjeG5lREtGUDlrYl9IYU41bkpuWkNiRFpzaWZnSHFITk9Dc1JJczU0dm8?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaU1vbWZ1dzZRWnhHYWFKUHlYLWhlUGY4QWpheFJIRzFnd0dqZVBkMVAxRDk0TTdtS3NVRzl2bmlJNlhQMVc4bTR5eEJpREh4SXNnelR3c1FtWWtBS240czFRRXRTOVhIeVpPYzI3NmtDLU5pOHFOU3VfUGk2UGZnTnZ0MUtTTkdvRy1hMXlGamZsWm1MZWc?oc=5",
+    "https://www.invenglobal.com/articles/29213/elancia-mobile-begins-pre-character-creation",
+    "https://www.invenglobal.com/articles/29212/attack-on-titan-3-korean-edition-pre-orders-begin-nov-27",
+    "https://www.invenglobal.com/articles/29211/ruler-of-the-land-it-is-really-ending-this-time",
+    "https://www.invenglobal.com/articles/29208/colorful-launches-b850m-plus-pro-v14-motherboard",
+    "https://www.invenglobal.com/articles/29210/sword-x-staff-launches-that-time-i-got-reincarnated-as-a-slime-collaboration-on-december-1"
   ],
   "title_hashes": [
-    "232cc847933a665b1a907314e9af0dc1",
-    "52a9392d98d744e8882fad95966abe0d",
-    "c0a85567250c3a2147f544c62e582a32",
-    "fc8bd899febf5607dcac1f9ffab4c57e",
-    "41108d0505b1d7178e9fb41d5a98c2dc",
-    "9458fed6f43c3baa9c981eec75858aff",
-    "41bf33741a1c346a124b151bb7e76962",
     "cf4b31d860ff905b7c7b6885bb7da5ed",
     "5980b87f581bdd6603ac0566007a7046",
     "17435517231c3618185c1d21db3ef0d7",
@@ -16001,7 +15994,14 @@
     "66443cc7e570b4e776e0e7b04b147a7e",
     "66ceab9ffce8b8ff08c969e7bee138f5",
     "22160b7c1c978596f13e289658c6d431",
-    "2ad0d17faa1e470827e0175fada1c160"
+    "2ad0d17faa1e470827e0175fada1c160",
+    "a6f454f36c10e62cb6d74c80c8318cea",
+    "e9662b8503bd72121be3af7f73b87723",
+    "9986620300aea884c3b60329907bddaf",
+    "bf91956da1c58ff7fe305d57d2720d83",
+    "707328ed3dfd11680d17013a651b6b4d",
+    "f858a0b64461b823857f0bd072d17b54",
+    "a6b6b3dc27051bab5447a2ebb110a961"
   ],
   "transfers": {
     "pages": {
@@ -20710,142 +20710,6 @@
   ],
   "recent_fingerprints": [
     {
-      "t": "00 11 120 202 26 announced battle begins cats collaboration downloads event held limited man million november october pac ponos starting surpassed that time will",
-      "ts": 1795660556.6128664
-    },
-    {
-      "t": "26 5th 7 anniversary announced celebrate corp crimson cross deadly grand has its launched mobile netmarble nov radiance releases rpg seven sins that update",
-      "ts": 1795660560.2268999
-    },
-    {
-      "t": "26 30 azur fantasy game games global korea launched launches manjuu million mobile new nexon november officially platforms pre promilia registrations rpg south supports surpassing world",
-      "ts": 1795660563.7331443
-    },
-    {
-      "t": "000 100 2026 26 8 according accumulated developer emberfish game games hadean has launch launches nintendo november over positive publisher sales steam switch tactics very will",
-      "ts": 1795660567.250831
-    },
-    {
-      "t": "26 30 76 announced black day days event features friday gaming global held its mark november platform running runs season six smilegate stove that through titl",
-      "ts": 1795660570.7674854
-    },
-    {
-      "t": "00 10 26th 80 announced collect collectible features game idle includi kniv kst languages launched launches monster monsters nine rpg steam studio supports taskbar that traymon world",
-      "ts": 1795660575.864118
-    },
-    {
-      "t": "26th branded card cards credit game hyundai launch launched maplestory nexon online partnership players tailored two",
-      "ts": 1795660579.3066308
-    },
-    {
-      "t": "8 based broaden company content eight expand expands five game games global globally gravity has its lineup major plans ragnarok regions service services through unveiled upcom",
-      "ts": 1795660582.7743225
-    },
-    {
-      "t": "15 4 can cross december escape featuring game games launches nuts online played players puzzle releasing solo you",
-      "ts": 1795660586.2492728
-    },
-    {
-      "t": "10 2026 25 announced anticipated award awards been category finalists fishing game gamemaker has most nominated normal november one pocketpair publishing selected that",
-      "ts": 1795660589.703544
-    },
-    {
-      "t": "2026 26 announced concluded concludes dark darker esports has ironmace its ltd november participated program support that title which",
-      "ts": 1795660594.7770216
-    },
-    {
-      "t": "2 about alongside class classes december detailed has information introduc knight lineage mage ncsoft reboot reboots revealed scheduled unbreakable upcoming update will",
-      "ts": 1795660598.1658604
-    },
-    {
-      "t": "10 26th 28th announced away campaign carnival celebrate celebrates days event explore giving global hunter monster now promotion promotional run running scopely scopes that tracker two will",
-      "ts": 1795660601.5956283
-    },
-    {
-      "t": "26th after announced app arts both charts days developed ghost idle its launch martial mgame online popularity reached rpg self stores that tops two",
-      "ts": 1795660605.0805898
-    },
-    {
-      "t": "2026 26 action adventure agf booth contents detailed elementa its mystery november open palace programs rpg schedule silver unveiled unveils upcoming world",
-      "ts": 1795660608.4847605
-    },
-    {
-      "t": "1 26 5 alongside aran character frostflower hermits hirano introduces its main new november out persona phantom released requiem rolls star update version",
-      "ts": 1795660613.534211
-    },
-    {
-      "t": "2026 26 28 announced arena association begin busan college esports finals kespa korea league national nov place sports take that will",
-      "ts": 1795660617.0181715
-    },
-    {
-      "t": "26th 540 adventure announced bpmg cooking game has launches officially released simulation stages steam that",
-      "ts": 1795660620.6299934
-    },
-    {
-      "t": "26th adds announced apostle boss com2us global has holdings idle introducing recon released rpg season second soul strike that update",
-      "ts": 1795660624.0447085
-    },
-    {
-      "t": "26th added dungeon fourth gebrah its mmorpg origin otherworld r2 reign revolution roots shallow transcendence updates webzen",
-      "ts": 1795660627.5138545
-    },
-    {
-      "t": "after again benched bosnian captaincy falcons game hand his karrigan leader media new niko over set singapore take try will year",
-      "ts": 1795660632.6506631
-    },
-    {
-      "t": "2027 alfajer been boaster gentle has kozzy magnum mates new revealed roster ruxic set unveil",
-      "ts": 1795660636.1050565
-    },
-    {
-      "t": "2027 begins era fnatic lands marteen new",
-      "ts": 1795660639.5818362
-    },
-    {
-      "t": "crazyguy part qeon regum rex rrq separate ways",
-      "ts": 1795660643.0942848
-    },
-    {
-      "t": "about after collaboration days delta eater event force gear goes its just lengthy live metal post postponement ready snake solid two",
-      "ts": 1795660646.611961
-    },
-    {
-      "t": "8217 about against creator explains fell ken kutaragi loves never nintendo partnership playstation post ps1 reve revenge says that through wasn why",
-      "ts": 1795660651.8185058
-    },
-    {
-      "t": "30 again appeared bad component cut cutting fir front gaming gpu more news nvidia post producer production quarter reportedly set this",
-      "ts": 1795660655.2604136
-    },
-    {
-      "t": "30 6 appeared controller far first gaming gta have here hidden insider locations might missed post secret settings that things you",
-      "ts": 1795660659.0405726
-    },
-    {
-      "t": "0 1 2026 24 9 adds choices course fixes just kart knockout many mario new november picks post rallies received released replay replays tour two update version world",
-      "ts": 1795660662.4726377
-    },
-    {
-      "t": "2026 ahead already amazon appeared best black deals first friday gam gaming has holidays insider live perfect pick post some time",
-      "ts": 1795660665.9195843
-    },
-    {
-      "t": "about big end event expect finale fortnite happening how huge know live new next planned season this what when will work",
-      "ts": 1795660670.8669715
-    },
-    {
-      "t": "2027 8220 8221 aionitoaei alfajer ali around beder boaster build denis emea emir field gentle güç howlett jake kozzy mag martin mates roster ruxic set shock stefan uğur vct",
-      "ts": 1795660674.2642655
-    },
-    {
-      "t": "asked being claims detailed don explain faster games generative give have help how justify make must new not pitches pitching plan projects reason report reportedly staff teams them they ubisoft use using why would",
-      "ts": 1795660677.7382574
-    },
-    {
-      "t": "can change country course esports india nbsp playing times",
-      "ts": 1795660681.175728
-    },
-    {
       "t": "1 26 5th abyss added allies anniversary apostles arrive attack awakened bael buffs corridor enemy events fai feast grand hero join legendary magic mode new november power reduces restores roster stacks thread thursday type",
       "ts": 1795692641.6239033
     },
@@ -21284,6 +21148,26 @@
     {
       "t": "1 100 2 9z after best dust2 his home major map nuke rain revival send thieves worst",
       "ts": 1795725030.2120507
+    },
+    {
+      "t": "000 22 27 300 begins character creation downloads elancia five gameduo midnight mobile november october opened opening players pre registrations roughly since surpassed weeks",
+      "ts": 1795748518.50442
+    },
+    {
+      "t": "27 3 action attack begin digital edition game games hunting koei korean nov november open orders physical pre starting tactical tecmo titan touch will",
+      "ts": 1795748522.0018966
+    },
+    {
+      "t": "1994 approaching arts beginning champ comic conclusion ending final iconic its korea land longest manhwa martial really ruler running serialization serialized this time young",
+      "ts": 1795748525.3658574
+    },
+    {
+      "t": "192gb 600mhz 7 b850m battle capacity colorful company has hereinafter launched launches limited memory motherboard plus pro speeds supports technology v14",
+      "ts": 1795748528.7129116
+    },
+    {
+      "t": "1 anime announced boltray collaboration december event games got hereafter host its launches light reincarnated rpg series slime staff sword tensura that time will",
+      "ts": 1795748532.0999737
     }
   ]
 }
