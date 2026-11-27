@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS0tEZ1ZaV0FJY1FZTm9ZbG1ySHZPNjhDYk0yQU9xNlp3b041NVQ2ajBFZGZaQ2dXaVlBeU85YlljS19DdXlLWlBwYVpwdG9RODhkRFNRdktRYUIzZ0hJbGk2c0N4aHgyeHdlbDBod2xjZFVDUHVXNzBZNm8xdWlkcFBoWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MY19TZkxDejU1SlpVbEpIVmtkR1M5ZF8zQ2Jld2RGZ3R1N1M0N0ZYYWozVzFNeVBHUEtBUlE5U3VWNXB4ZWNKdDhwR3YwckpveWY5TEx3aTBraFFabXFDQlBwNUJBejdZSEJRVnlHVnNBZ1lPR2Zfc2VR?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HTDZiQWhwTDJCSzhNZXhSRUc2QUZwTngySWFUTXg3ZTZJM01wYVg0R0VjZWI4ZjBNc0JJVmF2TVJvQ1NxdHN5ZTZKUnBCa1k?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeEJmdGpNT0psNTZJb29sWVEyOVpfMl9zSGQzTmh6SjEzUkxrTzBWU2VhcFhhU2pHQkR0dTdZRXRJUmQtNkhnTTVfUnI5Skl3TnhVb2hIQWdFUy1SSTNLTk16Ui1DUWpLQktEMU9jbFN0R0Y3bVJOam9VUV81em5rOFZqOVp1V0QyVkM2X3BJLV8?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBza1ZBR01QNGRfX24wTGdSVUllN0t1MXFpZ3ltNEl5c0hVcmZSNHYwbWdmNk5iY19mV21QTU9yT2lkNi1kYWdfVUpQYXB4SXR6MjZrZVFfT2VMeVdaWk53aDR3ZUxpdw?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczAya3hROWYzeUw3bWY2N1Z2aG5vTEV5OWsxOUdONkhXU0N5eEtnRFZkRVd2MWdCOXh6bFZqaW5NU3YwS0RmQmVHUzF5Vkh0TVd3bGNwRGx6TllkdDJ3S0JFOVRwWkFQUVRmbXVsWXhDYnBqMlRKZGVoaEtadEwzOGtzQzlxREp0Z2RPTkJlZzlDazZOT2VaRWljXzJwWk0?oc=5",
-    "https://www.global-esports.news/call-of-duty/call-of-duty-modern-warfare-4-early-access-start-time-and-preload-for-campaign-and-dmz/",
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0dERvVE9YRHhJdGc5VWpkampjSEljclZvX1ZfOS1lZlZ4UlJOb2o2M2RTekFOUEhnNm9HbG1DcXRacnVZS2NiV0FCYmVLVHVpeWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQWdqQkNEblZPZUFlSVNJUlItZFpwS3NpaDlqd2ZCeUZLOXdNaWtTNnBtSWlqeTdlcDlrWUVWZ1ZQSnhGR1J3QWwtWFZhdnVWLVhNX1BQM0JWdEVwbEluR05EYzNFM19xNndfd3YzZk9BWWYybHY0T05TMkpaYnlFSGVTSERTV2tmMTlrVEtnRTY5RGI2Z2VCMXR5aVFRWlFTeWFLaWd1cTdnbjd2VVBGVXVhV0Vzdkhjd1Q2X1JKVngxVWs?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQW9LdmZJV0U2Ukl0ME1OR0VSQWhfbWtMT3NpMmU4aVViSUM5MzIyZXcxMWdpb0Q3VWZOZU9SYXdzYnFMOWlOSGVzVnRmVGhWcktZUThaV0IwZFJWYzJEREdLSDRUelRGdVd1WHZCdi03c2JzYUJqR0tmcHphUFZoVzR3RTBGVGc?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTFBBXzFVcnhwSE93Wl90OTMxeE9qT2piWThmZlIzS05tSHRlLU92NXlVckxXMm1DX3VPMngzOE8xNjJCVDh2WHVUdE9ySjB1RDY4WVIzSlNhbkFfRVl0UTZZcXR1Tm5RZlk1cDRyOXNSMl9TUQ?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2loWUwtU3FFZVlWTnlTaXNmVV9tb2ZpWUhjdU42X2tjdExMM2djSVBJcjBYbHRDUjJXNnE1cEozM3huc2NZd3ZLXzUwQi1CaklQa3c4cGJ6VWlZdTNDbjVtZ2lkcEFhNF9FVFZxMk04a1FQUExKeTZHY0k5YUxYV3d6RlhtNzF5cnBsb0lqWVlFWFE0eVZQSlFjem5XcFJ3Tk43QU15MlZmQWJQeHNKZGY1MlDSAboBQVVfeXFMUE4zMlgxOEhIbnpnNlFlUGxrQzdWVG93STZJZ3prVkhCUFlwXzBBNTFOOE5Rbmxma1RDWmpndFR5ODl1cUMzYlFleVNzS3hLdGczNzBKNVZQdFVJdlVoOWRDR25XUFJDLVJhd0VXR192RXdnLWtJLXdCa1hTak1fU0dzcUlZMzYyQk93UnRaS0JlYm9CcTlFbFNJM1lBOGQtRkxaNHhzRWU3MmxWcGpGNWhfcVFSLVY4TzZn?oc=5",
@@ -7999,18 +7990,18 @@
     "https://www.hotspawn.com/fortnite/news/doki-doki-literature-club-in-fortnite",
     "https://www.hotspawn.com/counter-strike/news/pgl-major-singapore-2026-day-4-results",
     "https://www.hotspawn.com/league-of-legends/news/red-bull-league-of-its-own-2026-guide",
-    "https://www.hotspawn.com/fortnite/news/when-is-the-next-fncs-major"
+    "https://www.hotspawn.com/fortnite/news/when-is-the-next-fncs-major",
+    "https://www.hotspawn.com/valorant/news/fnatic-superteam-valyn-marteen-minny",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2xUbUhHNXpwNWwyUGpWdWJnTEFETUZ1SDVDLWlEVVRIV2xWdjV4TUZXUGV1ZUlONXozMm1ERFF0VGZtRWJHeWNJbTJ3aVdPaFJVSFdpUmhFVC1FdWJPS1FRejdPMVpuVzktS1U5TVFwZzgyUlZTMDFPcTg3eGdFWmtHYlg0N0VtWFhVRzZpRGhydw?oc=5",
+    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51OXYzWG5hLU9tYTF4ejZtZFhaUzhwZ0FNRkxVYkNIaGlHMlVuV3ZnRllwZWk4SkFsZ00yZ1BCXzJkZ201R3Zr?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qZlVBcE1nYVVSRDJlMkV0T0syd0VxNjdCc3RFRy1IQTh5M180bXktckpCRlFPcGFtWG9kYXgtMWVTSEZHdFIwbzhpQmhSb1VoS2RaN2FQVGI2NGhodV9OTHFtR25jcE1Eb0w4bUV2c2VSaUNOb3ZPS29zLXcwQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUW01ZkV3dC1vNVp6QlNBek9KZWdzWDFCZTRnTWZ2SEswQUtqREQwU2xOTGtOa0duS1hnWU1tQlJyNXkyQ2hJNUpYcjQwdGJ4bVVCYUNLUnFtS1dXaWZPd1N6Vk1iUzRiYTlqUWpacHA4NUxrSUZBY1BwN2FjZWR1OVhxN2hFZUhGeEljNHB5cGRocUtNYnR6NF90M1hnM1JhbGRxNDlJMFY2cHNQVlBYbEhKdUFlT3B5T0dyQkdTc1hKQQ?oc=5",
+    "https://esportsradar.gg/blast-promotes-bethanie-stoker-to-director-of-ecosystem-operations/",
+    "https://esportsradar.gg/south-korea-reportedly-hits-lpl-player-with-2-65m-tax-ruling/",
+    "https://esportsradar.gg/reject-reports-2-61-million-net-loss-for-fiscal-year-ended-july-2026/",
+    "https://esportsradar.gg/sports-it-solution-expands-ea-sports-fcs-asia-27-esports-tournament-to-nine-countries/"
   ],
   "title_hashes": [
-    "70082db8b6ad7c3b4cbae4d9ea14ef98",
-    "51da7e5339dac34fd8755feb2dcdca8a",
-    "233c0647c6ce97a909abe53e1c661597",
-    "06d6b4adde6c66b0476e2d444054629b",
-    "0160b58f3a070bd3704de068a3474653",
-    "a6caef68de559ec2c8ab8f85ec878ea9",
-    "0cc181da2d12a12c50c47e953086e39d",
-    "be22d1c6e9199fb6e304393c52929872",
-    "7e974980ac72ab391b57515119b4df3d",
     "f8bc03c8847eb00f70fa16b2f7a83a1e",
     "b6239d3b149fcf514a714dee4a4f04a9",
     "346fc933a2d16895116129921f0527ae",
@@ -16001,7 +15992,16 @@
     "f6b4271a228df779c4c63ae4c8b02cc2",
     "430a1f060f9ab61915bd296f2b433782",
     "4e1defcb962ce9bff31029903a0939f4",
-    "305df1e921621e4b9293a19fc6f3a768"
+    "305df1e921621e4b9293a19fc6f3a768",
+    "907eed26aa6a11901639cb04725ead70",
+    "ba7038c1cb17ac54807927b6aa2e9165",
+    "027fe220385f2d448300f791e23f6fa9",
+    "e536d95051e9f7caf47acc931f36ef4f",
+    "9bf7d8658e8943ff71c9c7c533bcea96",
+    "906d234fa075beaffb0a6077810d3892",
+    "d5b8bee4e5571a5e3b0685fca86517b1",
+    "a6d4670225e148225375b36f469e5c03",
+    "4b5fc03602089315b2b35c23cbcde7d4"
   ],
   "transfers": {
     "pages": {
@@ -21184,6 +21184,26 @@
     {
       "t": "1 2 all championship events fncs global going have lcq major much mult next now place plus quicker schedule seperate solos take two when wrapped",
       "ts": 1795811757.7657466
+    },
+    {
+      "t": "2027 8220 8221 batio emea field finalize fnatic hušek international jacob join marteen martin minny patrik pátek revamped roster season set signing superteam valyn vct",
+      "ts": 1795811762.8327694
+    },
+    {
+      "t": "across bethanie blast company director ecosystem esports expanding has her international leadership operations operator production promoted promotes publisher remit stoker tournament",
+      "ts": 1795811766.1895316
+    },
+    {
+      "t": "2 3 54bn 65m 8220 8221 against assessment comprehensive has hits income issued korea korean krw league lee legends lpl national nts player professional reportedly ruling service south tarzan tax",
+      "ts": 1795811769.5627472
+    },
+    {
+      "t": "1 187 2 2026 31 416 61 about based double eighth ended esports fiscal inc its july loss million more net organisation reject reported reports term than tokyo which year",
+      "ts": 1795811772.9378743
+    },
+    {
+      "t": "27 announced asia based community company countries esports expanding expands fcs has its licensed nine officially series solution sports technology that tokyo tournament",
+      "ts": 1795811776.4476333
     }
   ]
 }
