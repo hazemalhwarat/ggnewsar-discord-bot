@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/28081/lily-becomes-dva-eve-protocol-collab-concept-art-revealed",
-    "https://www.invenglobal.com/articles/28079/call-of-duty-warzone-reveals-korea-set-map-for-season-1",
-    "https://www.invenglobal.com/articles/28080/the-genesis-war-mobile-unveils-catarina-medici",
-    "https://www.invenglobal.com/articles/28078/france-pushes-proposal-for-0055-per-gb-traffic-tax",
-    "https://www.invenglobal.com/articles/28077/6000-new-itchio-game-pages-created-daily-but-gamers-arent-buying",
     "https://www.invenglobal.com/articles/28076/take-two-issues-legal-warning-to-nba-2k27-build-site-forcing-shutdown",
     "https://www.invenglobal.com/articles/28075/vrchat-skips-ai-exclusion-filters-to-prioritize-world-ratings",
     "https://www.invenglobal.com/articles/28074/quarterfinals-kick-off-with-lpl-civil-war-followed-by-gen-dk-and-t1",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/29207/dnf-mobile-updates-new-elite-dungeon-twisted-settlement",
     "https://www.invenglobal.com/articles/29205/palworld-and-dune-awakening-steam-bundle-released",
     "https://www.invenglobal.com/articles/29206/ragnarok-online-to-host-q4-user-meetup-on-nov-28",
-    "https://www.invenglobal.com/articles/29204/star-savior-opens-1st-anniversary-collaboration-cafe"
+    "https://www.invenglobal.com/articles/29204/star-savior-opens-1st-anniversary-collaboration-cafe",
+    "https://www.invenglobal.com/articles/29203/2026-lck-photo-exhibition-opens-dec-1-at-chzzk-lol-park",
+    "https://www.invenglobal.com/articles/29202/girls-frontline-blue-covenant-unveils-6-cosplayers-for-agf",
+    "https://www.invenglobal.com/articles/29201/dead-account-two-blue-flames-pre-launches-in-4-countries",
+    "https://www.invenglobal.com/articles/29200/pikmin-bloom-to-introduce-secret-caves-feature-on-december-9",
+    "https://www.invenglobal.com/articles/29198/wemade-kicks-off-ymir-cup-world-championship-season-3"
   ],
   "title_hashes": [
-    "6d2189da121ee8e3c65c5e212cb01ded",
-    "e281e250ec4acd32717e19b89c369a79",
-    "0eba17dd3b548ee56c8b5c6f81fe1bb4",
-    "15b51a4884abc23f6564ebd48a39bdf4",
-    "3e7fd82e7998059e394c13029f1a6cf8",
     "d14c80b86921a5f2d1c7a400ed45b802",
     "cc9348539f0fe6c82253b79999893aee",
     "dd43bd8b8752f62d706cdeade3ad3fbb",
@@ -16001,7 +15996,12 @@
     "a3852c3662a98f73d37d3d330e701b96",
     "50933f1bf0240cd4546fea0fd8a13e88",
     "f36be9b8ac048f4147d7db9a033b68ed",
-    "338925a5fa24c37a37ace06db4c1d55d"
+    "338925a5fa24c37a37ace06db4c1d55d",
+    "7c41a70b975e44fa595f968beccf9029",
+    "b4c501f5454ee236d63fc4d7b33c07ef",
+    "f73efe549299754f17c86579a8df54c9",
+    "ffcf5254c64b72844aa439978502fdc3",
+    "ec6c709eb33a1966f45e1b58d84f15fc"
   ],
   "transfers": {
     "pages": {
@@ -21188,6 +21188,26 @@
     {
       "t": "12th 1st 27 3 anniversary being cafe celebrate collaboration december depa event floor held hyundai illustar november opens operating savior star studiobside",
       "ts": 1795748550.522175
+    },
+    {
+      "t": "1 2026 25 chzzk dec december exhibition fifth games gran host installment jongno lck leave lol mark opens park photo riot seoul titled will your",
+      "ts": 1795748555.3581934
+    },
+    {
+      "t": "2026 27th 6 agf blue cosplayers covenant day during each events four frontline girls lineup participate photo revealed sessions site six sunborn unveils will",
+      "ts": 1795748558.687423
+    },
+    {
+      "t": "27th 4 account action announced asian blue countries dead developed flames four games ian launch launches mobile pre roguelite rpg smilegate southeast team that two will",
+      "ts": 1795748562.005493
+    },
+    {
+      "t": "2 20 9 available bloom called caves content december explore feature form game introduce least level must new open pikmin players real scopely secret squad starting walking will world",
+      "ts": 1795748565.3826294
+    },
+    {
+      "t": "28 29 3 championship cup esports global hosting its kicks november off season tournament wemade world ymir",
+      "ts": 1795748568.7115266
     }
   ]
 }
