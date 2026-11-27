@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHlGTGQ3T19HcW5LbHoxYjBKWVMzamRHZGFBLXRhaDZWNWszbndsRGZYemxybjBwNTJUenpCa1lqODFLODBfVm9WanZhTlpmTmhVeEYxSk55di1pV2otZ1BDaHFlbXRZVW80d3pQVGhSYTY5QkRFQUpTdjdjbFlFQ0VTRjAtVkM2RzBzRlFWd2hVUVdnWk9XYU5lcVJBRWs4aFF0eFFJR2h2dXFJaTJVR2dia3g?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQlA0aW5ndlpJSkswU290Yy1VU3k3OEU1SW0zbHA3V3JOSm1zYVZYRVF5OW13cXhCVHlhWmViZ2Y4aXg5NHpRVi1DODdHdU54RnFRZ2lsMFpla1dDUm9RQTZ6U2lBYnh3N1daVlZ2M19vVk5PbnBsTml5STdnREZLVW12TnNlQU5FQlJpOHNPSmlpTU0?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tbUhkVGpXeEUxWjNKaVRESUtQc2VPazZWdWViamxqNTkxcGYtOWZ2SGtwQTdOckdsRUV0dXNOWFl6WmZXend2UkxuXy1vOUY1RC1nV1ZlUmFQcE5vbDAtVDBfZ3JsSmlWcjFwaTV4bDdFQ0NSei1RUTZFVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3FwRFlmaDlnTURBZUxiaTB1OXRtSkNpWERVRTFRbk0tbnQtS0diUDdMYWtXaDQ4Mkl2LTJKUFdKSEV4RG5YbjUzUmFfeThtMFRpSTM4OHYwUXRPbDNXdlZOSDEzZXlnRzVyNlRtQTYzMVctdHNKZ1FzOC0wR0lwOFVxRHFjLWp6MnhRaFRSWjBLb0g5elNTZg?oc=5",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yZUl5TXZSOUlraGZaMjVFVzRYcUVNMGRKaTlHejNuQi0tdHd1WVpsZ1NpR21sYjF2WXBXV2NlRVhjLUxqTHFyNDdXVWIyaTRzM0lFVWVyVTA?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON2ZOTk5wdVNhMXJzUHNBRmJ0OUlORl9OaGYtRE9jeTdYQzJoTWk0dHBmQ0ZCa2pkMjVoaHZCMG1rWHA0OVg0VzUzQXZGWENUZVFZaUNFT2JqTXpoa0w0R0ZGUDlMc0l1dnRjUExqZU9ULU9PQW1GTlZfeWJGYnNPVUotWGZBMFVCNjlPZzNXOFAxdENhN0hxdm1wRWQ2RWh1LURVUV9TT1liSEZpRGxicWtoOE5mdFREb0tZQXl4NXM4MUdoS1RhetIBzwFBVV95cUxNMklLNGxJTkFWSjh1TGl0dW5ISDFnY1d0SzBkUWxhWmVRaEN2R2dqNVlLSUxZLTZidGRUR3J1a1padEU1b3l1d0o0SEIwUUdNc0JqcjNTM0lxQ1VERlBiNTlucmhSQ1NDVVF4TDROY2dISlRBZkRpRlZOWXBJTTdxaU5VOFprM1l1a01vOU5nX2Y0SzZaNE9pZmRmdFZSYnFLMlhaNU1UTjAxS0MwWnNzOHFyWFU5SG5SdDNpVlJ3QjJsbzNmelJFS1ZYdTlxdkU?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2pVcnVwWGt6M0VqVlVGTG0wenFNOS1CSExPaUtlZHlqUlVjSHZmYW1iT2hyOEJBZzBqc1EwSV9BQkdWQVRHQkNOdi1sRjk5T01kYkc1Z1JiQi1oYmM5WDhJSm10eThESF9QNHNlNzR1UFU3Z0QtdmdmVnN3a1k1eDVVVGYwNkpHb09oMS1zSjBBdnotV1ZzaGdid2dmRUFDQXhYMkp3?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOENpR3dueEU3Uk5oQktPaWhPakQtYzdEV0s2WVc1cmQzSHppV2FtTzdFNk44T3h1cG9FUTlKMUNsSGZMcERFZGhuaGNQc1FXa2kwc0JvYnJQMU1yLWF6akx4MWg2S0xxdjhHNW9Tc1VnU3NzSWlLSkJUb0VoTXR3N0ozUGZKb21uc3lQSFJwQm9yX0dSSnZPamVVMUk?oc=5",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU1JHMUpVZWR3UmFySXFjM25GUHBMRGdMcndFc3hReUl1TzlVN1g3RTJQazZiaHhyOU5zQkt0RWRXc1k5NjB4SWJKZkRES0Rod0dBUG54YnpCcGVxWWlRYnZCNmZVQVA3NVBsVDA1YV8tRkJYVG9CbUdMWXMydklLalQyY3dUQQ?oc=5",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaNzI3akZWUVNkVGtYMmFiaXhPOWl0Z0hzTTRMbmJxdmRheElCWWRXREJyT3lpaXl6THFzSDF5WjRqRFRVUmNtdHc0UWxLNEhYWEx4UXVMSjN5SE9RUXZZRGFiSk83dnZ1LWxPQkFjOTN5b3U3RGhiYW5KOU9QdVU?oc=5",
@@ -7999,16 +7992,16 @@
     "https://esports-news.co.uk/2026/11/27/lynn-vision-sweep-heroic-to-reach-three-wins-in-pgl-major-singapore-stage-1/",
     "https://www.vlr.gg/795017/eintracht-frankfurt-adds-foe-bipo-amcar-assistant-coach-fields",
     "https://www.vlr.gg/795014/lukxo-and-erde-leave-loud-as-champions",
-    "https://www.vlr.gg/795010/enterprise-completes-near-clean-slate-rebuild-with-iluri-returning"
+    "https://www.vlr.gg/795010/enterprise-completes-near-clean-slate-rebuild-with-iluri-returning",
+    "https://www.vlr.gg/795006/bbl-esports-adds-oroni-comeback-in-offseason-rebuild",
+    "https://www.vlr.gg/794974/onside-rebrands-to-tobe-announces-full-roster",
+    "https://www.vlr.gg/794930/fire-flux-unveils-new-look-roster-ahead-of-2027-season",
+    "https://insider-gaming.com/nagasaki-hung-carbon-rs-gta-6/",
+    "https://insider-gaming.com/nagasaki-smokescreen-carbon-rs-gta-6/",
+    "https://insider-gaming.com/principe-emilios-lectro-gta-6/",
+    "https://insider-gaming.com/gta-6-online-multiplayer-release/"
   ],
   "title_hashes": [
-    "c6663d4ab57979930c233be68381e3cd",
-    "7265f849d66b7575ecdce3d4e846adf5",
-    "8fe20cd7b09736802f68b5773af70af9",
-    "a67daa3b4f68f8ea18d78cd518dcfcab",
-    "5f85f221d407bd55830e8574fd44263b",
-    "4aad7afa471f322212c5c26ce0f8994b",
-    "d9d2b119f998d1efed120dee94f9f88b",
     "75b64d111f974edb9e4f800d388c21ed",
     "500f3fed556ab9a293634b6827d4188e",
     "dfd12effda23e0f32f38327820d5eb34",
@@ -16001,7 +15994,14 @@
     "9f912c3c1785d518aa5b9a023174daa8",
     "1e39c5f58acacaa4a107c521a76ad723",
     "174cece40044b30907d316e29006df84",
-    "0c6ea90b0bd33b8397fdffc0beebc4b9"
+    "0c6ea90b0bd33b8397fdffc0beebc4b9",
+    "802008759f5ea265b57a681ffb8a98bd",
+    "c34e92cad19fb59e2f7822316427ddb7",
+    "664038d6b8702f9c12134040a33779e9",
+    "42f5237975770809b80f527e4325ea0a",
+    "d9393ce6f087559d937db56db1e25820",
+    "cc234014f1c8a61fc7c7c1663d6ed6da",
+    "0ae6550c83d4f4e5639fa72caa0e82bd"
   ],
   "transfers": {
     "pages": {
@@ -21140,6 +21140,26 @@
     {
       "t": "clean completes enterprise iluri near new rebuild returning slate",
       "ts": 1795780773.5525424
+    },
+    {
+      "t": "adds bbl come comeback esports offseason oroni out rebuild two",
+      "ts": 1795780778.5991797
+    },
+    {
+      "t": "announces full not onside rebrands roster tobe",
+      "ts": 1795780782.0716586
+    },
+    {
+      "t": "2027 ahead campaign fire flux look new roster season unveils",
+      "ts": 1795780785.506713
+    },
+    {
+      "t": "6 auto carbon detailed fastest find grand gta here hung location look motorcycle motorcycles nagasaki post stats theft well where",
+      "ts": 1795780788.9696188
+    },
+    {
+      "t": "6 about come doesn find game gta have launch might missing mode more multiplayer noticed one online out post release that thing when will window you",
+      "ts": 1795780792.335171
     }
   ]
 }
