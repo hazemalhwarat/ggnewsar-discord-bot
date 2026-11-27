@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOENpR3dueEU3Uk5oQktPaWhPakQtYzdEV0s2WVc1cmQzSHppV2FtTzdFNk44T3h1cG9FUTlKMUNsSGZMcERFZGhuaGNQc1FXa2kwc0JvYnJQMU1yLWF6akx4MWg2S0xxdjhHNW9Tc1VnU3NzSWlLSkJUb0VoTXR3N0ozUGZKb21uc3lQSFJwQm9yX0dSSnZPamVVMUk?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU1JHMUpVZWR3UmFySXFjM25GUHBMRGdMcndFc3hReUl1TzlVN1g3RTJQazZiaHhyOU5zQkt0RWRXc1k5NjB4SWJKZkRES0Rod0dBUG54YnpCcGVxWWlRYnZCNmZVQVA3NVBsVDA1YV8tRkJYVG9CbUdMWXMydklLalQyY3dUQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaNzI3akZWUVNkVGtYMmFiaXhPOWl0Z0hzTTRMbmJxdmRheElCWWRXREJyT3lpaXl6THFzSDF5WjRqRFRVUmNtdHc0UWxLNEhYWEx4UXVMSjN5SE9RUXZZRGFiSk83dnZ1LWxPQkFjOTN5b3U3RGhiYW5KOU9QdVU?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTM1QWI3Z2dUX3pRbWp0NUF1QkZGZzVmZURvYXd3aXpnWURvS3ZFaFJoVktnWlE0ZGtJX1p5VXFMMks0dExXM1d3WEtPV1g2aGJNRlBCbEpyQmxkUUYyN0dnUVczTEhNWW9wamNfUnlCTFdacmNhMjJiVG1maW5qOTY0VTFtR3dRNWNDWDhsVVVDaWhfSjY5WUZLNTBmSlVxT3ExQmYzV1A0THUtNDBCVk4zTXlZTTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZEJpQW9ZNDQ1ek9aX3pYTU1kMHFHbWpzdmpEYkNEdTg3UU1wZVQ4RTM4aXotemhKQXVBTGozWW5pTVZZNU0zdWZtOVBsRW1acHVmMnVyMExZQU9udnZtbkkzSjFacXB2dWs4cW5WZVlaXzdxd0x3SGIyZ3NrdFJrYkxpT082Qk52R2JMeUp3VGlWaWJnVGhwcFJQWG1wMVlhV2pyS2oyM3BkU2E1aldsLWxXSm5yaURzUjI2MzFXV1VxeTRsVW1iUXA4NGo?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OcFdyZ0ZmWTRqRkdVZVpJNFh3Vklwdkx1bGNidTlrT25GRzgtR2lIRmRoaEthNkNlRjBFVndFYkt1MWJNSzJtWVpHR0xONE4xMjNpanBBYVZuM1k2X0tlUU9EMWRBdmFCRndfem14eGJ1cVRocE5IWUpvOGI?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUZYR2VLamZKaFJLb1cxQTc1dUJJWmlqTzRqRVo0Q3QtNTNYdXhKUlZKQ3JSYTVJX3BrMzlXSm92aGRueV9XMjNCTVNuYjJDcnFWUlRRc2NsYmtrX3RORHlkNlNlOU5yQXhZd3VaMU5BQnh5elBnd1VLVElGRGZaZlN2Z2RaZHd6TnJwR25FeGtuSDlJUjVQTC1B?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTVdobDFQWEZEc0l4TFRDMkJLdG9vOUdKWkNnVjRaR01yeXdhU0hUbHZGdGRJWFFvQ0U4a3dXT3B4anl5MWU1dVFHTFVpNDJ5M0ROS0NvOUY0cVV2T05jWnA4WEQyb0tFOXdJLXljaTBlQ1hPbzZFUkp2OG9uNHdGREFFRmgwdENvZXJURjhRUjAzQXpNSU80MUtaNGJMX1JkQUNaTEptNW04d003NXd6Z3hXMlRzNDFScl83WkVCOU9DaEtCVUE?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTlRbTVJYkE5M3hRYkstRE5fRUxQd3dtU0hsOUdTZ19nZXhnQ01SdGJ4TW81Z3ZOdjBzQWFldXlYNnRaSUZnOTN2dW41Y29KOW45UTltZXZjQ3NZUHI1eU4weEswbWYxU25oR05NRmlCTzRoSDZUamhfS2tuQV9kYmJJRWFBUkExMkxLV3dHVEVTd0JmNUwtWVFDTQ?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVXRsZ3JXVi1kRmxoUHdnV3NaWmNIVVFWUUwtLTJtUHRkUXFCMG5qcGFnQlFIUGc3Sl9DN3dMV0ZTS1Y2eW11dXJVaGthdjc0UjFxM0pUbVdvMmVlaVIyT2p6UzBpamZlc0RYRzlzc092X1dPcGtQY25uRldaeTZLdngxSkxFeDE4c3Jj?oc=5",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmt2T08xcU4wdHI3T2VTWjFlTjhpakZOVjhDQ011ZTNfaldaY2pha0ktYjBPY1J0Rlo4dTJrcjJ4RU5vS3hyaG8wX1JJcUpja2pyVHdJV3FjTEZTT0lqSFAtcDVNdEk0Y1Y1c0dDMmozS201WGNyTzJrNXVWV2RyUlpn?oc=5",
@@ -7999,17 +7991,17 @@
     "https://insider-gaming.com/nagasaki-hung-carbon-rs-gta-6/",
     "https://insider-gaming.com/nagasaki-smokescreen-carbon-rs-gta-6/",
     "https://insider-gaming.com/principe-emilios-lectro-gta-6/",
-    "https://insider-gaming.com/gta-6-online-multiplayer-release/"
+    "https://insider-gaming.com/gta-6-online-multiplayer-release/",
+    "https://insider-gaming.com/principe-burnished-alvino-gta-6/",
+    "https://insider-gaming.com/contexto-hints-answer-for-november-27-2026/",
+    "https://insider-gaming.com/simpsons-hit-and-run-canceled/",
+    "https://insider-gaming.com/nyt-connections-hints-solutions-november-27-1265/",
+    "https://estnn.com/marvel-rivals-ignite-2026-grand-finals-bracket-teams-results/",
+    "https://estnn.com/the-finals-grand-major-2026-teams-format-schedule-tracker/",
+    "https://traxion.gg/conspit-showcases-upcoming-innovations-at-record-breaking-simracing-expo-frankfurt/",
+    "https://www.hotspawn.com/league-of-legends/news/tarzan-tax-dispute"
   ],
   "title_hashes": [
-    "75b64d111f974edb9e4f800d388c21ed",
-    "500f3fed556ab9a293634b6827d4188e",
-    "dfd12effda23e0f32f38327820d5eb34",
-    "5dbfa6175cd97e382409144747491220",
-    "4b10da74e8dcaeac663f544802df9c2d",
-    "66f186673c7e335bbc0558e798e8224c",
-    "36ed60404767ccffe6e80258b9cc8b48",
-    "f2ab5fb218da8b84623f45579aa4ba11",
     "7b0294bef376732324c347e20b008762",
     "3bbc6fa84d2cb00834bd5466ffe35330",
     "60a3aaa4a77c15f1f9bd3197d0b025b5",
@@ -16001,7 +15993,15 @@
     "42f5237975770809b80f527e4325ea0a",
     "d9393ce6f087559d937db56db1e25820",
     "cc234014f1c8a61fc7c7c1663d6ed6da",
-    "0ae6550c83d4f4e5639fa72caa0e82bd"
+    "0ae6550c83d4f4e5639fa72caa0e82bd",
+    "a7ffeae4cb2f82dfce018fb977822c25",
+    "d4331ea69720e46b10d4d3223a02385b",
+    "6003de35f53cb61d9052e049ceb46712",
+    "3430279b9d4baabd95b1d7a3a9417d17",
+    "60e884e8956ce903522a2386cc6f68b9",
+    "ca3cb289602402fc120d17906866c1ce",
+    "42518f1023a2a3e22b4dd4c294e711b9",
+    "d416fa633b9589c3a8cf99a7d8912cae"
   ],
   "transfers": {
     "pages": {
@@ -21160,6 +21160,26 @@
     {
       "t": "6 about come doesn find game gta have launch might missing mode more multiplayer noticed one online out post release that thing when will window you",
       "ts": 1795780792.335171
+    },
+    {
+      "t": "2026 27 amp answer appeared contexto first full gam get guess hints insider november post stuck today trying you",
+      "ts": 1795780797.3567462
+    },
+    {
+      "t": "038 according amp canceled developer entertainment game had have hit just media one post prototype radical run simpsons social studio their took unannounced who",
+      "ts": 1795780800.7632802
+    },
+    {
+      "t": "2026 27 29 bracket event finals grand ignite main marvel november qualified results rivals stockholm teams",
+      "ts": 1795780804.5710454
+    },
+    {
+      "t": "2026 27 29 championship drops finals format grand major november results schedule stockholm teams tracker twitch world",
+      "ts": 1795780808.03982
+    },
+    {
+      "t": "2 3 40 54 63 63m bill billion case faces him income korea korean league legends lol lpl million national personal playing points pro proposed resident service south tax that treated",
+      "ts": 1795780811.4456818
     }
   ]
 }
