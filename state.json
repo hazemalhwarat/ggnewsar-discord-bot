@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkdtdTZkbHRKSEc4T1hmRk5NdmMtVlc5bXZ6cXY2NEJmZ1hYLWV4UnUzMHlSNVFjWFM1dW9qRlZCWTBMVW1RUUw3V1pFNnNhZDJ6QUNoVWwxa3EwejhmU1ZLcFJTR2hQWU9TM21tSEg5TXh0MjBLRG55S3p0QmpmWHVkbGl1U1haUWFsMUo2T091b3RCeVhydFNDWjVfNFIybEFabw?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZXg1VWhsemFMZEpTRTJ2VFNJSE5ZbFJnSGVKZXNIQ3lmRW1uQW9mSVFEUnRTTEcwTFZZa2NqeWRyZ1dtWVVFMnhLYV83LUJMcno4WlgzcVZIbVhhRWVjN3hnMnFOZzhZb1F3dkVUM3cta1VuR0hwRl82bzJpaU1hN0lEblR3NEdvcVFvU3VKQWJLV3fSAVdBVV95cUxNdnlUVzJ6Tl92UWdlS1B4TkVTdXdpWlh6aFJXRGdZUzRoVUxHUDhTSHU3Yk9qU0xlRHBfdG55OVlULUNwOGRVWjdHWnRZSXZfajdZN1REM2s?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3B0bGllZ3pwNm1VUHRvS1NtYjZPTW1KX1NSR0ExVTFHb0RKcXV6aGRvS09BY016STgwcG5paThnT1p2UWduVXNXaFN5WVlXakU5cWoxVjZ5TnlZcFNmQ3R5S0FpQW5HWU96cTFwMjBVaGRzeGM2azJfQVVHa1ZqSXEzWGxCWTBhdUFaRWNpN0NfQllGV1hMRzZiU0J6bWQ4b2Y3US01cjBab2lkTFE?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0lJV09vemhaRFIwOHg0eXJPN2pfTkFhNlAySFRtelpfUU9wbHRPclFfZ2huRVpSTzZ2LWtVR1lzTVpPeEVGU2ZwMUJubGJpMWFweVVQWnNzcHMwdEhMSTQ5VlctcEtxb3F0bUJRZ2NBQ3ZLbEtCcElUeC1hSVVKOWdlblR5VE1wbFNzekpCS1VidWFaUjgya05qN045blhLQmFV0gGwAUFVX3lxTE5Kd2VOM18zbF9wd0VLZHZGVDcydXdyQTFjeVFXQnNvSldUS1JDUS1fejd3eXVEWnZxU1hjUnMyOGlvVXhrQzM1bFViOTRTUVNyS2p0bjJLQVB5aVRXM1ExUy1RMGhkZnVoNUdhVTItaC1PUjNvN1VUWmxKMVJrUWYzS3lwODhHWkhhcVY1QTJ6ZTRucEpVS2paaHhhc1FZNjNxTTQ1VWd0b1dzR1Zrb1VI?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNDBZZHZPN2l3YXFXTUQ5QmJpVWVHSm5jaUdkM2wtMS1BaUcwVXl1ODdudGJoSl9ZRWpvNDVvTElMQVBJUjZDazZraVNmeTNnek1wMHpQRzlORFk3ZGJNYXhsOVJtLTBlQWNoS0ZMVno2MVZ5ZGtKamtSNHlGaGk1LWd0b052RE9vQkdiMHRJS3Z3aktuRERqV3FBTWh5QkxkYUcyczNXbWpDaHc?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxeUFiZUpBaFBfemtQUmsxR1NCN2duNXJ1ZVVTYTRLY0U4MXpmMGdsM1NiTlJCUkcteHFzUFRqNFM2bHhaMmVEbWxHTVpLbm13VkxTNDNiaGxOQ25WVHI0ZTJxa3Z5SVFSRVN4ckY5bXJuMUllaVE?oc=5",
     "https://news.google.com/rss/articles/CBMilAJBVV95cUxNXy1yZW4zT3FzUEEyVEV2OGRldjE1bmd2d1BzWjdvZnM5MW9kdVFLOVJPbV8zcVdyQml0dTNQM205dkJUZ09aa1lJdENrbGVUYmgtckRzLXZyYjgzdy05YnFMSUZvdHFnOVR1cFI1Q3pxcGR4NXdGS2JhcE1KRXVOZ1BmUmZfc25adEpZNmlkQ0xXV0JTY2JGbW1VMDZ5RXkzcVppUVAyZGxSbk53TVhoWmljdEIzbHI1OXRleVFnS25KQ01lcDJ1eFJpMVpZUTM0U3JERG4tNGdZWkZESG82dG1FQzJnZHBxVUQteHR4LWxXV3MySmRCdzE3VVZwcmEzSl80MkdmSUFsQk1pbFQxU1dESVA?oc=5",
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSXMwU2xQbExvNG9KUU9EdTlEaTlGSkxKSWJhM2ZCS3BRUUpnTk0yS2pPT3A3UjF6TjNxUGFnZ3M3aWdXRVI1bUl5RlRxRkRuRDZGRFNVUXhJcXpNX0pWM2hHSjFCa3VjajlZeHF5aGpYTmJYU1lRMFVXT3hYSEtPamUzM1k3ZFJjN3ZrV2pETGxFUEdkS2RQM2FwOWh1X05lM2dFdHZZbS1qWF9URGhaUURNQzBlQXFGM0xvQVlfRVhmc3R0MlJTXzE3NTlJR1FWRm5CMlpDamxsRER1eEpNcE5B?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT0R6SkFTaC1HbWZjYmlMMHJtLXBzXzNhdEZaTktyeEZQcFJmWkhhUDRkWHlfZ1hLdldmZG9ZeTdNbG95U09yWl9EZEhQQWotMWFOWFFDVlEzS0hvcm5fOFVqdTFQSnhqT1M0RUZ3VnRLd3VEYUtMYVF6aVdFY0xqcXRwcldkc25abzlpSHRzYnhRRmdHLV9lRDhfLUVjaFY3eDlTUVpMdmZyYVJuYnhJcXpGeW53emNCeTY5QQ?oc=5",
@@ -7999,15 +7993,15 @@
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGlpS0c4Mzgxc1VZMjAtRXVfRXotMUM4Q2lDOEVQWDNNUWQtN3AzY2taa2JYYUk1SjVETTZ3bGZudWl5M2VFcExBNVVXbkhmcUVCZTBIYUFjTTAwZ0ljYkFWM1ZRcVplUUJfdFZ1RHVrcHZ6dzQ3cm5ZTmNtZkpDd3FqQ0VOdGFZaEN6X1FVb3V2Z0k?oc=5",
     "https://pley.gg/cs2/third-time-on-cache-takes-imperial-into-stage-2/",
     "https://pley.gg/valorant/fnatic-hand-boasters-calls-to-american-igl-valyn/",
-    "https://pley.gg/cs2/blast-bounty-2027-invites-pgl-bucharest-clash/"
+    "https://pley.gg/cs2/blast-bounty-2027-invites-pgl-bucharest-clash/",
+    "https://pley.gg/cs2/furia-put-their-name-on-serie-a-newcomers-novorizontino/",
+    "https://pley.gg/cs2/niko-cs2-settings/",
+    "https://pley.gg/cs2/twistzz-on-faze-we-unfortunately-just-dont-have-it/",
+    "https://pley.gg/valorant/loud-sell-lukxo-in-the-biggest-sale-in-louds-history/",
+    "https://pley.gg/cs2/faceit-put-cobblestone-on-the-ballot-for-season-10s-eighth-map/",
+    "https://pley.gg/cs2/lynn-vision-go-10-2-twice-to-put-heroic-out-of-the-major/"
   ],
   "title_hashes": [
-    "53fef915812345ba9d9c3a1448672fd6",
-    "88f232bae7539df152b635621aac3dc7",
-    "a785846f31b44fbaa63fc391e534a9ee",
-    "1c585a02a65a308a6ae2b2001b43ee8a",
-    "f6da10e943d2b2a93d28910e74d2df74",
-    "c488321dab7b270294cd0ffd175fa598",
     "6ceb412e29cc9d279e2c922f527f25d0",
     "994a42ffaa62cbf21d9e8aa347ce01ce",
     "39901d29f9319c5e36b3279a9067c720",
@@ -16001,7 +15995,13 @@
     "9dc1db87f0f9873daf002fd56d9de9eb",
     "d892de4f9bff55c2212fc375ff7f744d",
     "7dabc9d1f53163bca71374bfb1b0c3c3",
-    "d2fdb9f75cb4c2a336fabce93fd1e1b0"
+    "d2fdb9f75cb4c2a336fabce93fd1e1b0",
+    "4f47d54123c6eb5b79b63bd5cd9c2026",
+    "9645490634c8ce430a2d7af11e5f63a0",
+    "49f0015f6c15f3d028058fb0d624826f",
+    "668c1ae34c7ae18336d1fe32e27ec62f",
+    "f91d26467eed4b28d7bc3f062ad3644e",
+    "c4dd36a13e5018963d50da459dc9bed6"
   ],
   "transfers": {
     "pages": {
@@ -21260,6 +21260,26 @@
     {
       "t": "100 14 1win 24 26th 9z blast bounty bucharest clash down eternal faze fire heroic hotu invited invites january liquid m80 malta navi nip parivision pgl place play pushes teams thieves top while",
       "ts": 1795780887.5449717
+    },
+    {
+      "t": "2027 brand champions furia grêmio january marketing name newcomers novorizontino play put running sponsors série their will",
+      "ts": 1795780893.0882719
+    },
+    {
+      "t": "break captain don faze future had have his just leaves now organisation planned twistzz unfortunately",
+      "ts": 1795780896.3996277
+    },
+    {
+      "t": "after biggest calls club day erde farewell history left loud lukxo sale sell video",
+      "ts": 1795780899.7052708
+    },
+    {
+      "t": "10 3 9 ballot cobblestone december eighth faceit joins map matchmaking optional overpass players put season that train until vertigo vote",
+      "ts": 1795780903.0600424
+    },
+    {
+      "t": "10 13 2 82 dust2 had heroic lost lynn major maps months nuke out put their they three twice vision won",
+      "ts": 1795780906.3710966
     }
   ]
 }
