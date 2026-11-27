@@ -1,19 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUlWbE80bnJWV08tUW5ydmE3Wkw1ZERtd19SOHV3aUhMSGNzZ1RxUFN3VFhfdUtBMnVKU0RNejE3WW5DM2pNMkRpOC1vbGEzREx5Ym9WaXhPUDJLdUUwS21wRUMtT1lfeEk2LTBkUDQxSUQ5cmlIMlRzcTdCRjd5WDFMeEs1azRKNFVfbXp6b0VJS0RGWFE?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0xwUmtUZGtOX3hXMENkVGs5Ty1CeG5VaTJOMFJUQ2t6eXdQbVBLMEFvTUQtOTNPR1hjeUMwUDhDV3F0MGVoUTl4MGxKQXFsNzdPMDk3cEtZbmM1elFtdGxmZFpCZnk3TEo3bzN1dHU3T3hxSTBpN2FHMVBiVnBreXY2dUExU29YYlpuVnFubkp4WHl6U2Uwd2E3b1hqUm5KQ1d3U0pPLVZqS3NTaVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd3Q0T2hPMF9NbGwyQW5mR2RzR05vNFN0QnVUZ0x5OHVrckdKaGZnWnhCTmZtVFJZVkRDLWd5OXFwNEcybWFNaHVuaFlJSHFUZ1JqT1BFRnVLZE5YcEVFTUl1OHlDS3YzMWQ5d096THBKb3lVczlFUmZsaXFTTW42R28zdVQyVGtucFE?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUpyX2NDVndET19xOHdJdGFOMlRTUnVwN29TcHNYYkU2TTVuMkc2dS1UdVhLSjJFUnk2cGVWTl9mRDhOWFRMazRQSHhiY2hQcERvOVk0bTZoMml2OUljU2JsVy1LTTJKMDgxQUJjdEc0REhwTU1DUTJpQWpUaHZRR21RU1R6VlFDSjdFRGNLZVo?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWUyZ0Rmbm1vSlZnRERMM05aN0xRSV85TThjWEV1S3MyMUZEWWNPVVlLdU1vZEdoZVFsU05NczlxeEZVSGEtTzl6MjBhRlVfcTY2VGNHTTFlMXd6a1BoZGV1YjVwRExQVXZwbUlVcmh1MjBob1k4RjA3Tk9fR3hIa29DNXh0VjhHY0NUSHNoUkFxaEZLY3BzZ0tiUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU19senZuNVFja0k2WlNjTk9Zb3RhV0FmWXlvTjdmX3Q0TUhRQzVCdGJOM0R0LU9QODJvUmhLdFNXODlRVkxhb2JNVVliMUJ4Vkx5MHFobUZWSUpqcjc3Y2VCS25YYWRWWktFeWlwU3I1X2hyLUNQcXlEeEM1YUN0dE9GLXphMHZNamY0OUZySU4?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkQzR2NyZ0JvX2JSRmRxODNkQ0NKOV9JaWlTYlF5aENxNnBkMkVvdHVhQzRoSWh3VV81WmhfeFg4Q1g5c2RNVTkxVmpwRjB0d2VIdHQ2U2lMOVVKS0JzbUNETGhvY1RtRnJzS25CNjBEUEFtMDl0b3lFN2tNU3lnTHZhcVBWeF9XM1pZMXVKR3F3MUZpMm5V?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jVS13S2MzYzVqLUpIeVdDei0xdXZFS1NjZXVqQlFIUUh6U0ZBeVZaMzk3cGVWbGdhckVYZ0xUYkhTV0x6QWF0UzRQUkFHZHNWbXVmMlZRVk5ZYk1MWVVpLXNuMmJRLW5OX2c?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWZ2dXpIZnVMWEtwTVJKWU9LTHVXZTRrYUQtNEtJVVRySEtwZmpBY213RWQ5eUVGZXNnNWdJb0s5MkF4QnVqa2xfbXNLdVNuTjNwR2NiYm9CY2RkN3lTcWlWSUdod0F5LTk3RkoxQ0lnQ010S2dfVkllYnBxcGV3TnRJdnA1QUR3NnBF?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWG1SaldHRnBOWmo5bXJnZTJOSU5mUHlFTWowUmpjTThIcHBWMVVLaG9WZjJyMWlPVDVzcURSbW1LMWlpQlVET1RycVpXVHBuNDBxUGlxekJGRHhoTmQtWjVIeWlIc2l1V0lXOWNGYkd1aVdob2FmSTRLZjcxaWQxa2QwOThQTWdJX3hFTG5Gb2pMa2haM2NJWA?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LZmVkenlCX1ZEYjlwUTBqSFRhbFVHNHp0VE1SN0lBRUlBeFEtQmhRbHZBS0RZTGdvbk5waEZiSVo1ak4yRFF6dmp3OVhSYzhFX01HY0lxT0c0QVlXYWxXVFlYUUp6aVlQdkRpc3VreDEwUktCakg4?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Wd2ZGSWl2eERSa0IwTnowRHR0MnNZamozcnkxZG1zREtnSW5WVThSdGNqVVNHV284RHQzU0s3MzZoWlFJVVhuVHZBREJ2eGFXUVU2OGJiQXR2Q1dOQ3RQMmw4d184N1FqTTd5dVRGZ3luUFgtc1J3?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQUxZbEN2a2hiSUQyUnlhaVdlY182STQ3UC03RkpQMkxOb0dVdm84dVl4d2dtQTJreDktWEQtSldnX3cxVmJ4VXh3ek9uelhJelNTWjJxLWlZbkw3NmlrYXprSUpMZWlxN2tFVVc5VDR1TGRNN1hobk4weXVsV0lOVkRFYS0zTTlJOFVVd2NIbw?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4MkdzaVF2UkpVWHpiOEhDaHVNa3pUZElwOVRmZkx4MWpMVmgxdGh3NzdiQVNuQVBuNUJqbXZLc3JjWTN4UHlEYVd4bmtEZjFZWkZnaTVQQkwtUzhEWDN3eWMtV1hZcnVocnBXeFQ3Mm5mN2s?oc=5",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS0tEZ1ZaV0FJY1FZTm9ZbG1ySHZPNjhDYk0yQU9xNlp3b041NVQ2ajBFZGZaQ2dXaVlBeU85YlljS19DdXlLWlBwYVpwdG9RODhkRFNRdktRYUIzZ0hJbGk2c0N4aHgyeHdlbDBod2xjZFVDUHVXNzBZNm8xdWlkcFBoWQ?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MY19TZkxDejU1SlpVbEpIVmtkR1M5ZF8zQ2Jld2RGZ3R1N1M0N0ZYYWozVzFNeVBHUEtBUlE5U3VWNXB4ZWNKdDhwR3YwckpveWY5TEx3aTBraFFabXFDQlBwNUJBejdZSEJRVnlHVnNBZ1lPR2Zfc2VR?oc=5",
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HTDZiQWhwTDJCSzhNZXhSRUc2QUZwTngySWFUTXg3ZTZJM01wYVg0R0VjZWI4ZjBNc0JJVmF2TVJvQ1NxdHN5ZTZKUnBCa1k?oc=5",
@@ -7999,23 +7985,23 @@
     "https://estnn.com/space-marine-2-patch-16-vanguard-rework-heroic-weapons/",
     "https://gameriv.com/you-can-buy-a-house-that-looks-like-jasons-gta-6-starter-home-for-739000/",
     "https://gameriv.com/cs2-drama-kassad-calls-s1mple-washed-overpaid-and-entitled/",
-    "https://gameriv.com/denuvo-cracker-voices38-responds-to-lawsuit-says-he-has-no-plans-to-stop/"
+    "https://gameriv.com/denuvo-cracker-voices38-responds-to-lawsuit-says-he-has-no-plans-to-stop/",
+    "https://traxion.gg/alpine-sim-racing-series-jarschel-wins-again-at-zandvoort/",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrV21LS25CbEt2OC1Ua2tadnB1OE8xSHNLbFRuN3hIRTN3MHlkZkt1b0NpY2lCemFmQ0pyVTFZY1E2LUhoaGFaVHZfR3I5Z0tjSWd0MU5HYWpQaGVnMjNrelp3?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUprZElsMkk1RWx4cElJUEdEMkR5eENrSHFnY3duc3R4d3V6RlhTZWRkNEhMcGM0a25LZl9JbnVzRUltWENsUTRXbVFGUWw0RXVtNjdOVkNNSFFockI0NE1IdTFsVTc3MHFBV1E3UmV5TC1TR285R3JfYzE3SWNhc1ROam1KQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mWXJIM3dremJBY2V4MTNBVDZCTmdzNTNzU2dKcm40Y3VOeVAzZU1FSWk4Y01rSW9YcmtMbkxORTVySnZLUnRQZks2a3BMcVU1OXlhNkJXZ285YVhrZXNtejhVS0VINHd6OTZQQ2JOcm5meFlZZmJReFZB?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZmtmSG1TUFRpd3ZWdGFBUnpLUHliblliUGl4WGNkMWRNbjhvOV9WaTYzUEhldVIzamdIZXF0a05kLWlLT1lCbGd0ZmNkMWNvTnV2SzJZVTktRDR2Y3RRVFhJVlVQaGRQMndGSUxHVDFkbWlsYzdHd3BiQzNaLUJkT1BtWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemhmaktKMWJUNHpBcndVbmszWUo1ZEEtMzNqT3pFN3RRN0QxWVpSanc5RlRJbkd4NjhwWDcwYkc4RXQwWjl6eWk3ZF9lUm9XVEZOemw3XzJLanBMQl96RkplWm90Tk1fa0VOX2N4Z2FyVlRYSU1TeG5TWFJuNzZORkFIdURSV3FKTWc?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlRMTzlZM2hVaDlmVEVaLVVIOXpJYl83SUQzNUcxem1aMEZralM5ZFh6Sm55ajJKR3NzUTg0eFhtWTMwV05vUE54UTFwcUVmdm1IWjN3VnFja0wwUkZyY3JlS3JrUnB2TWNvd18yVGVLYlItQnBZSXA3djIxdHV5MU1Vb1ptSWs?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTlyTUlCQnl0QVRFdnJwYXlLY0RqT2RYYlM5SDZhUW9LNFNmUWtaMnZ4NHFoWjg3OVBKaTBTcVBPNVRMSVRSNGQyRVRLN3YzTURwTkQwUGdEU3EzcE0xTm1WdXlDNDI1SE1oRTFKcWZWaWRxY0NnZm1yN2Q0aGRLY2ZnaHpjZ3B0N2J3aTQyQkF1dGZQY05laXdjVk1kUk50QVJv?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE82T2lFUW9RNlFHVTFXbHI5WlE4UHZLb2dFY18wRVVUNGIyV2d5VHNROWMyYU1SSnFPb3lpNzBTaFVuMzNmYzNSVUxwaUlLdVhSaWtibzBfUWV4NFF2d2otZmFHZzBVSzEtWWEybzdhNm9FMENDR2VVVkVQcVE?oc=5",
+    "https://www.hotspawn.com/dota2/news/9class-calls-out-kaori-as-aurora-and-gamerlegion-are-eliminated-from-blast-slam-ix",
+    "https://www.hotspawn.com/fortnite/news/doki-doki-literature-club-in-fortnite",
+    "https://www.hotspawn.com/counter-strike/news/pgl-major-singapore-2026-day-4-results",
+    "https://www.hotspawn.com/league-of-legends/news/red-bull-league-of-its-own-2026-guide",
+    "https://www.hotspawn.com/fortnite/news/when-is-the-next-fncs-major"
   ],
   "title_hashes": [
-    "afd66351e02821f9ce9f622318e6c315",
-    "20d1c76f9b108b7a201207581cd92ecd",
-    "78e4ef96ce308ef9ece2e9b057cf99ae",
-    "bba623f927b3444e6ee68562a00785bd",
-    "a0819508333b89a06f97b55f8f3a04fd",
-    "014deedb6be6309c1b1ab3246a2a1c73",
-    "b76df1e29053618bb2586c322d4ce3b4",
-    "5eb6a68bfb29c6556567cf4d4dade782",
-    "47b9af532bbbdc30ed90e35c91e7f510",
-    "6426108b99c3d53ac237b9cf242c0724",
-    "e83a76ee18c0e31cb7e99dfb9b8fe7db",
-    "3ff295b07a115deb1643f63344b475e2",
-    "ecfd68012af6685d7bea4fc15b7751e8",
-    "bef49170f35deac94fbaaee5f549d4fd",
     "70082db8b6ad7c3b4cbae4d9ea14ef98",
     "51da7e5339dac34fd8755feb2dcdca8a",
     "233c0647c6ce97a909abe53e1c661597",
@@ -16001,7 +15987,21 @@
     "6f285bedea41f2be5f29759eefe9513a",
     "de86b8f657a3895b7aa342642f0e8052",
     "b90a6d17181dad16f691967a08add3f7",
-    "c1ff5eab8309915f8552340e8ace0ce8"
+    "c1ff5eab8309915f8552340e8ace0ce8",
+    "018c1a63dad918d862299296ad0c4ca2",
+    "056cb1c7bba3462454702454351c2184",
+    "888c022d0a060fd01aaa1fbaaffe7d77",
+    "b76df1e29053618bb2586c322d4ce3b4",
+    "f5317096021c2047761618b1eba71063",
+    "e83a76ee18c0e31cb7e99dfb9b8fe7db",
+    "5eb6a68bfb29c6556567cf4d4dade782",
+    "96a48d4feb2e55b857e18360ccc5628a",
+    "47b9af532bbbdc30ed90e35c91e7f510",
+    "32aa838220da97e2b0374afe1891c8d8",
+    "f6b4271a228df779c4c63ae4c8b02cc2",
+    "430a1f060f9ab61915bd296f2b433782",
+    "4e1defcb962ce9bff31029903a0939f4",
+    "305df1e921621e4b9293a19fc6f3a768"
   ],
   "transfers": {
     "pages": {
@@ -21164,6 +21164,26 @@
     {
       "t": "8217 anonymous anti company cracker denuvo despite efforts game has his identity information lawsuit legal obtaining ongoing personal piracy plans real regarding responded responds says stop uncover valve voices38",
       "ts": 1795811739.1635432
+    },
+    {
+      "t": "40 again aggressive alpine circuit difficulty driving dutch famous grand its jarschel known made notable overcome overtaking passes prix racing series sim style three well wins zandvoort",
+      "ts": 1795811744.3711598
+    },
+    {
+      "t": "9class all aurora bit blast calls day first gamerlegion gave goodbye had kaori little meaningful out over playoffs remaining say six slam spicy teams two upsets where",
+      "ts": 1795811747.7332234
+    },
+    {
+      "t": "1 100 2 2026 4 8211 8217 after all below check day done dusted final finish finished line major pgl picked quite results singapore spots stage survive teams thieves three today upsets weren",
+      "ts": 1795811751.0912395
+    },
+    {
+      "t": "2026 5 8217 arena badalona barcelona bull corp december edition esports g2 how its karmine league lec near olímpic own place red saturday schedule see takes teams this three top watch will year",
+      "ts": 1795811754.4495602
+    },
+    {
+      "t": "1 2 all championship events fncs global going have lcq major much mult next now place plus quicker schedule seperate solos take two when wrapped",
+      "ts": 1795811757.7657466
     }
   ]
 }
