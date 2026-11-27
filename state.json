@@ -1,20 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ2ZMYnFIbGM0TUtfSkVVZHBWT2RrT3pzZFR5YmJaSEZFNmtNenFuMXVPTGdYOGRTaUt1TF9XRHUzSVNfXzVjRTQ3V1JjeGFYSnIwamRtSjlQMHBaNWRWaFhScTJwNU16d0ZJdHRQN0htVG5DYnJaVF93UWg0bHZqTlZuUFdZSkZDQXNhMnpaYVJTWUZoRktxaTFuUU9zUFo4QUUzRDJHUGNjMFNXaEhla1VNOE15TmJidEd6ZTNQdjRwVGhsTG9mMWlrb2k?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jVkdGNHdVX010Wlo2Qk8yN3ctUXg0ZW9wUy1ZX3NwM2YxV3o0OWxBU1dSUXBNUEQ2d1pCYlhGX19QajhKRlJaQkJmQWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MYWJnNWt1ZHk5MkxkNTVYMDJ4SFlXQVpWR0ZSVXhiT0xoWHlnaUY1ekNnZ09IcVdIalBiNi1nNnlOQUpNNDNBS1doa3k?oc=5",
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbWpBSW5kc3NQVnYtZUs2QzJWVmZiOGdybDNCUi13S0NnYnlDaTlNbTRJaFZ4d2JLZUNRa3R6OG9NR0c5bDl6OE9vUDJUUmVRdjl2ekVnT0xtOF9STUFXRlFUdWJZa1N1Z3hkSjBPN2FXZHU5YWk1SVEwdVprYzY4a1lraU5CdmRUbXMzaHRIWldCcEpPWkE?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vTUtTRVR2dUpkUVhoU3JoUmcyLTlIOG1mb0E2ejFubGxYZmhyaHJIN051c1NDWDZoU0xIU2txaGpILUtLWDZLWGRqdlRRUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkdnSGk0cnZuUWFicmNRVG94ZlZoeGViS0lTR3FXTVcyRXRfX1Zlc0tFOHNoVzFoMnNKVDlIQXJBZDRzRHlMRUdzZ2xfdEphTWIxUnZCQno5a1VZVVgtNHZoVF9ubGlNQTFWQ3RseDE3QWh2TWFtNGgxLUJuUUxzaE95UGVWOTJJcGtIWUo4LUhLTUppMlRNamY3MWFaVldLTUlRN25ZSlB5Tk5T?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NVmNxazl3UFJFYkhRSnhIX1FFN3NZOHFQTmFSQ25mazZzS1lFZ1NYVVFvdnFieUNZcmRZZmEwUkNoXzJKSVFkWTdoYlU2WV9WUEYwZ3U2Q25nMTFKUWdQcXI3Y0FOaHVIY0d2X0MtVTVYN19w?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVExmNjhFZEdOVHBrLU8tV1NfNDU5dG5UMUktclJOUmg3UGZMa2M1Z3lJZ3AtNkFBNGxYVm4tUHI2MWtVTTdqX1FpQmFpMWo4c055Ny1uWjdUM0xiUzVGZkU3VUUzNDd0UUhZcDNSX0FwcTBReWYyblg0VHowM3otUVJqeHVZUjlKVXJwWkxJYk50Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM1lid29ZTXpRX2VfYzRJNE1EQ0JMbHdabHgwNl9Mak5GZXNZNEZMQWRSNmZ2ZEczT3phRjZZai1MMXppNWEwN3czazI2TXBSX0ZsNFFDZnJ5UVhmVDdFQS1STm9QZTNIdktaV2FwdWJycFJVVjJralN3bE5KUkpaOEVKOTJWQmpYZnJfYVlSdC1iemx3cmJJZ2l5dWxkNGdzak5oT2dOU3RpS0REUnIzSGNMZGVBeHBVa3BsdzJyeW0?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbTlXalZhaE1TaWlucFNKMUU2Sk9FQjJyQWVTeGxSSzA2VGJIMW5ZbzFHejNsbXlVeFBXWkJfZ1htcW1wRjM4SURxTE9EVlRKek9ISlRVMlZrY1hLdUVsSG9LbUxJeDZkVGdrRmc0bVh5cF9jWk5aRGR2emZGUEpnazc1SGNBTnY2dGc?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE02eE11WVNhSU9TSy1Ka1c0T1hPTkszcTJqU0RPZl9ybTlPOXBvYzBpWE5kNHl2dFNaOTlLVnZvVU9HcGQyT3FJVm9jQmpkYl9JZldXUDBLRTJSa0doSG54TUdoUXpTaWpydkFRWGhB0gFuQVVfeXFMTTZ4TXVZU2FJT1NLLUprVzRPWE9OSzNxMmpTRE9mX3JtOU85cG9jMGlYTmQ0eXZ0U1o5OUtWdm9VT0dwZDJPcUlWb2NCamRiX0lmV1dQMEtFMlJrR2hIbnhNR2hRelNpanJ2QVFYaEE?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNFR0MnBuMVN2UnJEWXQ4THhpNnM1M0ExYVhPc0Njdy0weXJQQ0MzMEJhMVhFNy1hUV9Ec1pyYmF2cm1wbkFaYkJBWkxNenRjSEJIOHEzZGlxMTlPaXh3YXYtaFNxaEVrdTdEcFVadzZsaUNkbUM3NUFWUER6Y21Ibmp4RURIUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KLTF1RWF4SXdkdnE4ZjdhN1hDaC1ZVC1pSVZKcGF6Qk1panNZWFluSVFwUWVsc1dpUW9vTDZ1S1UwUHRtNF9BVlNObU55NlNDNlJBNUcwemhpOWxnc29HZ2RTZVEyMVZFWEpjbHVuWElCQXRvNFE?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vTmZ6ZGxpZ3ptajNfV1BmaGNaMVF2MkliV3c3Rl90ZGFGbnI5bl9vODJVX2JKRHRydkpJZ1dVUGhxRW52NlNLTmVBeTF3VlBaVzFKa1hNQ2hsdjlwckczT3pKWElMTkJ1QlByU2tvXzB2cFVRNVE?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2phZTF6eURhdzNnX2JQeU43bFZIMjZEQ0MzNEtqY1NyZkpPMnBYeXJqMTZsakNlZFBiTWJwS3ZrNFVkUmlHMFdwT0pLTU5walZfcTgtVDNVbTFHalZxc29XeWI5R3UzQ0t4M3VaSWNjb25pVVZSalFGcUJidm9HNnlvdGJLR3hnYXdkakJ3bnRhbklGRDYxRTNB?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHlGTGQ3T19HcW5LbHoxYjBKWVMzamRHZGFBLXRhaDZWNWszbndsRGZYemxybjBwNTJUenpCa1lqODFLODBfVm9WanZhTlpmTmhVeEYxSk55di1pV2otZ1BDaHFlbXRZVW80d3pQVGhSYTY5QkRFQUpTdjdjbFlFQ0VTRjAtVkM2RzBzRlFWd2hVUVdnWk9XYU5lcVJBRWs4aFF0eFFJR2h2dXFJaTJVR2dia3g?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQlA0aW5ndlpJSkswU290Yy1VU3k3OEU1SW0zbHA3V3JOSm1zYVZYRVF5OW13cXhCVHlhWmViZ2Y4aXg5NHpRVi1DODdHdU54RnFRZ2lsMFpla1dDUm9RQTZ6U2lBYnh3N1daVlZ2M19vVk5PbnBsTml5STdnREZLVW12TnNlQU5FQlJpOHNPSmlpTU0?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tbUhkVGpXeEUxWjNKaVRESUtQc2VPazZWdWViamxqNTkxcGYtOWZ2SGtwQTdOckdsRUV0dXNOWFl6WmZXend2UkxuXy1vOUY1RC1nV1ZlUmFQcE5vbDAtVDBfZ3JsSmlWcjFwaTV4bDdFQ0NSei1RUTZFVQ?oc=5",
@@ -7999,24 +7984,24 @@
     "https://www.hltv.org/news/46072/imperial-outlast-wildcard-to-progress-to-stage-2",
     "https://www.hltv.org/news/46071/snappi-major-pressure-maybe-hit-us",
     "https://www.hltv.org/news/46070/lynn-vision-qualify-for-stage-2-over-heroic",
-    "https://www.hltv.org/news/46066/l1hang-joins-tyloo-on-trial"
+    "https://www.hltv.org/news/46066/l1hang-joins-tyloo-on-trial",
+    "https://www.esports.net/news/gaming/faze-exit-pgl-major-singapore-in-stage-1-after-heroic-win-elimination-series-2-1/",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-rbs-going-into-week-12/2026/11/25/",
+    "https://thegamehaus.com/fantasy-football/underrated-and-risky-fantasy-qbs-going-into-week-12/2026/11/25/",
+    "https://thegamehaus.com/pokemon/pokemon-pokopia-dlc-part-2/2026/11/25/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-week-12-tight-end-rankings-and-updates/2026/11/25/",
+    "https://thegamehaus.com/teamfight-tactics/tft-set-19-prismatic-quests/2026/11/25/",
+    "https://thegamehaus.com/gta-6/all-gta-6-randys-wishlist-all-car-locations/2026/11/25/",
+    "https://thegamehaus.com/fantasy-football/fantasy-football-week-12-wide-receiver-rankings-and-updates/2026/11/25/",
+    "https://thegamehaus.com/pittsburgh-steelers/steelers-to-release-quarterback-aaron-rodgers/2026/11/25/",
+    "https://thegamehaus.com/mlb/grading-the-mlb-offseason-part-2/2026/11/25/",
+    "https://thegamehaus.com/nfl/nfl-week11-overreactions/2026/11/25/",
+    "https://esports-news.co.uk/2026/11/27/lynn-vision-sweep-heroic-to-reach-three-wins-in-pgl-major-singapore-stage-1/",
+    "https://www.vlr.gg/795017/eintracht-frankfurt-adds-foe-bipo-amcar-assistant-coach-fields",
+    "https://www.vlr.gg/795014/lukxo-and-erde-leave-loud-as-champions",
+    "https://www.vlr.gg/795010/enterprise-completes-near-clean-slate-rebuild-with-iluri-returning"
   ],
   "title_hashes": [
-    "631e19763ed5ba449950b013eb0e821e",
-    "507fbe64d6e252d0a8d7598dc6011b06",
-    "45141ec062a589c532cd12500e8d405e",
-    "746ac744b1d904e6e7b2f1111b78dea4",
-    "b9d249b890da30f48cf7404c0ce1550b",
-    "02a90d03a188c58c2c8c57b72102e258",
-    "35fe17f20cae61f6c232890dbcd255b3",
-    "fd13025a417105a4b9621c92b7d8b656",
-    "6bce5fa85567e79af50f6826025d540a",
-    "9a47bd197bfe17557e7f33b30fc2bb77",
-    "1d3224c12c46b4b2c4dbc3935675532c",
-    "110635e33a100bb17ae4e9e8eba1ed8b",
-    "add9ac6003dbbca97f751c749e995644",
-    "7d2cf52cd3ca8d7c41d31a9447cd080a",
-    "72a031ede5cb3a07f15e46bacadffe62",
     "c6663d4ab57979930c233be68381e3cd",
     "7265f849d66b7575ecdce3d4e846adf5",
     "8fe20cd7b09736802f68b5773af70af9",
@@ -16001,7 +15986,22 @@
     "d6489771a3b0793809ece62540353259",
     "109c5d32da087d9d1205839f623c69a9",
     "78f972f0cfb3931b418484347fddd267",
-    "6a0e26928c927ba47dd13f348b21c6e2"
+    "6a0e26928c927ba47dd13f348b21c6e2",
+    "69f4374c03ab9f6950ead09e848de4e5",
+    "8b06af6245690d7f8c4f337df444c5b0",
+    "aa334bf8f7648a24a9c9022d957547b4",
+    "1d90e98beeef42cd4644cea6ef6398b9",
+    "36a1d2c3412fd6691c6afb7b480a0df6",
+    "264e7af2884efad0a3623c3d8e684732",
+    "ffe7d5cf63c56fe0069b2219fde0ca25",
+    "74b66d5845e3d9f14e6d07b9ef4ed5f1",
+    "b966e74243a07d850be878a7b43cbe21",
+    "efebdf0f6c92a642048f7bc7fa1c4334",
+    "a45d0b5e2c9fc51b4481ddc87818c58f",
+    "9f912c3c1785d518aa5b9a023174daa8",
+    "1e39c5f58acacaa4a107c521a76ad723",
+    "174cece40044b30907d316e29006df84",
+    "0c6ea90b0bd33b8397fdffc0beebc4b9"
   ],
   "transfers": {
     "pages": {
@@ -21120,6 +21120,26 @@
     {
       "t": "after attendee bench comes joins l1hang major moseyuh moved time trial two tyloo",
       "ts": 1795780754.842081
+    },
+    {
+      "t": "1 2 after biggest brands captain closes cs2 decider defeat eliminated elimination exit faze heroic major one pgl season series singapore stage twistzz weak win",
+      "ts": 1795780760.1371202
+    },
+    {
+      "t": "1 5 beaten both chinese continue danish have heroic lynn major majors maps met now org pgl reach reading round side singapore stage sweep they this three took vision where wins year",
+      "ts": 1795780763.432849
+    },
+    {
+      "t": "adds amcar assistant bipo coach eintracht fields foe frankfurt six",
+      "ts": 1795780766.8177302
+    },
+    {
+      "t": "champions depart erde highest leave loud lukxo players rated shanghai two",
+      "ts": 1795780770.1947253
+    },
+    {
+      "t": "clean completes enterprise iluri near new rebuild returning slate",
+      "ts": 1795780773.5525424
     }
   ]
 }
