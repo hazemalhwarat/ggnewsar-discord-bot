@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.talkesport.com/news/ea-fc-27/rntx-vanshaj-sharma-ea-fc-pro-global-qualifier/",
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRXBTcVVab2J6WEljVmEzX1dlM0ZabXRzMVNXckZqNVRCc1VYOWt1MGpGcHdEV0lmSmJ2dGNzZGcwa2JlNllhRlJNNVZteXk1dEI0QjFxZjZhczR1WDN6NXg2bDNqc3BLRXk2NXBBY3lRdFk1WExfeUNtdkh5LWJ1aUxtSUVSNEhCRHFBUkpSWnV1aVVUSldvVll3eUdXTWRlQ1hGaXd3M0pDTG5ETUl2YUU3c0JrVDZHalpZMHFVZFExLTBwVk81Uk9ZRXpFc2k0Q2xCUU5vNjdXWVVCMHhSbTJZTWVyWUJB0gHfAUFVX3lxTE5DQTd5TDlyRS1xQ0pNa1o1VHJacnZVWkh5LVBURHNjZEdHVk9Oa19iN2hRMDR5TVR1NDlZTkFTSzhlQlBEUENEZTlDNzdiclJuRTd1MVFqWDN2SXF5ejAxUEdud0l2MU5TeTl4d1lQSG1UVWROSldFd19FUUxyVnBLWThVZk9KV3UxbmhuTnhyUHo5cG1tR3NjaFVoTlVFbXRiQTUwMzlKcTVuYjlWMDBUbnUxdGsyVDlNcWdSelBwUmlKWlRxeTBzS045eV82N2Q1a3p2SjJncHljUFFCck0?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTllVZHJLUldJVUZqN2ZxamJqZU1CMmd6V05sT01YSU85eUtjTkp2RHNvQkpPSmFJX2tRcEJrSExwY2x4X0VzT1lyVVotZVQyVUdzOC02Mk1CWU1XQV9sVjdiM3BITS1TXzBCR29EQW9EVC1PQW80MFZtNW55cXI3QTM3Q3EzV0RN0gFXQVVfeXFMTjVsdHNBVE8xa3YtNXMzbTNRZmZqTC1GVldWNjJKYW1zZUtlQWJHY3RfcEdmS1JkdnQxUjBfQjJXdDBHWlNiV2diQWs4dnlXV3BNcUd4aU04?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXpWT0NDV1Z5QTlzbEdBTk9kcmlTUC1uTXp4bUVuTjNreDZ2MWZyRW9vY0xHR1d0YkFURm5QMlp6RDlBcXdhQUN2Sm8xcTRfaHpCVlhJbVlVbTRuZ1NxQjB6ZUhfYjFIQmU2bFBhREctbm1FX1p6dWZobHFrS1ZWemZJdktZUk16Z2JwRzREVzdHeW91YW9id2ZCcVPSAVdBVV95cUxQZDh0aGJYMXUxaXNMWkVlQU8zSFhpVUMtdzJCWXJBcC1QTndHcDlfRTRwR3d2WmN0TkI3dG9TU25vbGFZTDNVMERhUG82MkJQbW54X05IRzg?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE44QW9XVTBhUzdYaDk3VUNSVjF3aWhmSXotekc5YVVrV3hzMU9OOXFIYmhBQzMyUVZpYW5YeTFwcjNLaHA2WVNBcmdub3llQ2l0czFqWW9JRWJtaEd5cXNnNEhFNE5MVGM0M0xqaU42ekRMX3lsYlFz?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tWDRZYmJUcC1uVDlKQktDQXFCX285b2FRQkFWaEtMVmpZbDVUMFAwX2doM3ViZnJIbHBubTd2bTJBY2tpUk1WN0xnc3hLdGpGXzFZWG8xUHBUV3NZa0R1bmM3QmxtYWpwYWhZUWVLRQ?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOThBcUhRUmxxQUFiWjVPNzd4cFdOU093VXM3dlR2aThjdFhMTFNVODFRYmVROTRyUFU1d2ZUVlJBWHBOSHg5Mmd3R1dwVkFjOHRJaDlMcmVtb1pWT3RTMi1jaVZxaHd3bm5oN2ZXdGdJbm85ZTRSZVZjQWRVcy1yLUpOTG1jcER3VjUxUVA3SnhWXzVaVkhxUWN3N1RTeEVPSzU4ZzJlQktWN1lwM3NZVg?oc=5",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYnVpbXQyYU5lbzd2TjFUVGJoQTNZRTc5TTBKTE4xTnQyYVZZUG5JVlZJVWM1S0pIbTZIVy1mcGpWY3pmVFVXbW9NMXlfblVuM0VuRkZrRUs0UktRbWlhWHJVWlJkcVlWQTVSN3AxZjFGbURPd0FPY2QxdFVKUzY5WmFJVFk5bjhPWFg2U2xyXzVVaUo3ZXB3el8xM25TMjhlR2dCS0JYOEpfZFhRdk1XV0ZpV3VQcjQzLTdLVjFMeHY0QQ?oc=5",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYk9lY05wOU1ycU5mRExfZVQ0SjhKU3dfcUdWYXFvRnJCdnpMcXZjUjFIb2JHcHgzX0UwajZsSV9UUFk5SDdpZEw0QWhXTjd5MXZEcUxxeW96a3FxTHRZUVV5U3ctaXYxTDVMcW5Kd0tCSmFBSWM3QlFKZDV6aXZJWmlrR3otckVKYV9NQlZkbw?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LZmVkenlCX1ZEYjlwUTBqSFRhbFVHNHp0VE1SN0lBRUlBeFEtQmhRbHZBS0RZTGdvbk5waEZiSVo1ak4yRFF6dmp3OVhSYzhFX01HY0lxT0c0QVlXYWxXVFlYUUp6aVlQdkRpc3VreDEwUktCakg4?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVZXenJQem1wYzlHTjFyV1FoRjA5VFhNWlVERU5nNmdBQm1CTmpWcnZVMlFBMjA3djJTN0xzTWVBalJJMm9YZUJJdm9QNUZaUkFSeC1qdHlTREY0QWY0MDk0MndTdXNFdEU5RVgyRVV6Mk1xb0dyNDRSVWxYT3Q5T19HTC1pV3N6aURnTFFFNWo0VnNNRGtqNQ?oc=5",
-    "https://www.talkesport.com/mobile-gaming/bgmi/krafton-india-awards-2026-categories-voting-date/"
+    "https://www.talkesport.com/mobile-gaming/bgmi/krafton-india-awards-2026-categories-voting-date/",
+    "https://www.talkesport.com/mobile-gaming/bgmi/how-team-soul-went-toe-to-toe-with-the-worlds-best-in-pmgc-2026-gauntlet/",
+    "https://www.talkesport.com/business/supermicro-delaware-books-records-grand-jury-subpoena-pension-fund/",
+    "https://www.talkesport.com/gta-6/take-two-macca-the-gator-rockstar-trademarks-gta-6/",
+    "https://www.talkesport.com/business/gamestop-3-5-million-mootness-fee-ryan-cohen-lawsuit/",
+    "https://www.talkesport.com/business/nvidia-taiwan-end-customer-estimate-missing-sec-filings/"
   ],
   "title_hashes": [
-    "ecc2b35f1d6bbb4264fc83b429ea583d",
-    "e6663c1abe9888d8b8b46204cc12bf97",
-    "22001200370898af59af55b16450592e",
-    "8479ec1ce0281955b4ab9709086c256b",
-    "df09fb7237c6b1aeefb9a6906c504ac3",
     "b0b612559593b2f3384b66df2852b13c",
     "af73ed973e7ef188ce274be8a9c1624f",
     "4452a20e63c44a67ed450934ec7061d7",
@@ -16001,7 +15996,12 @@
     "c86e0b9362d235577ebdd1fffda224c6",
     "45014418efb0ebf4babe107e70121f92",
     "f16f4cf7ba663ee9f2fff1e9cee5a0a6",
-    "5e4de8f924e05248040861e371dfcf43"
+    "5e4de8f924e05248040861e371dfcf43",
+    "fbc69f06c39a90b009dc694612a7f4be",
+    "f817680706a3dcd06a8df1d0efa607cf",
+    "035d7f713ef66081b98da0673e7c3f20",
+    "bb8c255eb01baac588f13b22595bc0d1",
+    "60b714997fc9faf64c1f0933c87a2dff"
   ],
   "transfers": {
     "pages": {
@@ -21064,6 +21064,26 @@
     {
       "t": "18 2026 7 all awards categories data december decided esports fan four has india krafton only opening opens post revealed voting",
       "ts": 1795864944.56282
+    },
+    {
+      "t": "11th 2026 45 58 best day direct finals four gauntlet grand how last matches pmgc points rose scored second sixth soul spot taking team them three toe went world",
+      "ts": 1795864949.63088
+    },
+    {
+      "t": "audit chicago conditions delaware fund give grand hand has its jury magistrate minutes must new orders pension post ruled subpoena supermicro that under york",
+      "ts": 1795864952.978409
+    },
+    {
+      "t": "26 29 30 6 filed files filings gator gta including logo macca more musi music october post rockstar second take trademarks two vinyl wave",
+      "ts": 1795864956.28232
+    },
+    {
+      "t": "3 5 8 award billion cohen delaware dollar end fees gamestop its lawsuit lawyers million option over pay pays post ryan shows stock will withdrawn",
+      "ts": 1795864959.7020411
+    },
+    {
+      "t": "3 30 30b billion centre chips customers data disclos disclosure dropped end estimate has hit hits its just key nvidia post quarter record revenue sales taiwan vanishes where",
+      "ts": 1795864963.6029947
     }
   ]
 }
