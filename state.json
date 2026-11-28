@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/28214/runescape-dragonwilds-ps5-physical-edition-released-in-korea",
-    "https://www.invenglobal.com/articles/28215/korean-edition-of-re-volt-launches-simultaneously-on-ps5-and-nintendo-switch",
-    "https://www.invenglobal.com/articles/28213/zotac-korea-launches-rtx-5070-series-promotion",
-    "https://www.invenglobal.com/articles/28204/netmarble-reports-q3-revenue-of-6347b-won-operating-profit-of-504b-won-focusing-on-quality-of-new-titles",
-    "https://www.invenglobal.com/articles/28190/honkai-nexus-anima-opens-recruitment-for-final-beta-test",
     "https://www.invenglobal.com/articles/28188/2026-lck-awards-to-be-held-on-december-16",
     "https://www.invenglobal.com/articles/28187/maplestory-idle-rpg-launches-1st-anniversary-salon-event",
     "https://www.invenglobal.com/articles/28186/astellia-sequel-astellia2-launches-worldwide-as-the-first-game-on-nexuss-one-platform",
@@ -7999,14 +7994,14 @@
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc1BfdkZTRi1JZ1F3UHNGZWVmLUlFZmlWWC1HZ0NsZ2hCRUtsZENMZDlSLUV5M09ibGpnX25PQzdMNEhWQXYwTjNhTU9TQlFael83RWNleURjVG5PbG9NcmpCdWdkV2RtU0ZfSkJLaF9WengxYkRINTZ5RU9NTEpoVHFkR3ZHRllNSWZVedIBkgFBVV95cUxPQkRzSi1CYkNGSkhYa2w2Q25DUGVFcElxNzVLMXpEVFRpejdwX0VQUld1cHRjY3FlZ016OGV6dzdiTDUtVFptcUR2ZmJqemxiVjlkUHIzZTF0YUFCWFJqOVBrZWxOTFQzZVFpUWdOVzlDbHJSakZNTFFIU21DeGxhNnBFbFlLTEtWbFdJU3o5NVZZUQ?oc=5",
     "https://pley.gg/cs2/r1nkle-24-10-g2-nip-13-10-ancient/",
     "https://pley.gg/cs2/nemigas-major-debutants-crush-lynn-vision-13-1-on-ancient/",
-    "https://pley.gg/cs2/s1mple-cs2-settings/"
+    "https://pley.gg/cs2/s1mple-cs2-settings/",
+    "https://pley.gg/valorant/mandatory-end-derkes-kickoff-hopes-as-miniboo-beats-big-brother/",
+    "https://pley.gg/cs2/100-thieves-mibr-13-11-cache-sirah/",
+    "https://pley.gg/cs2/makazze-ancient-navi-parivision-13-10/",
+    "https://pley.gg/cs2/nafany-28-kills-the-one-cache-eternal-fire-13-10/",
+    "https://pley.gg/cs2/nertz-haunts-old-team-liquid-as-g2-win-13-8/"
   ],
   "title_hashes": [
-    "cb568d26c3c87fca98774882bc0a97b4",
-    "816e031ed771347393fc4dd439647c4e",
-    "85751a38c4c7acdf16e2caa380fba132",
-    "63ec0bba94cd16907d20cb078bc9bcab",
-    "53e59e5fc06184c2c62909e2480e3dd5",
     "b935b01e3d0ee527d9618c8ad7192faa",
     "e72934332992afcfb9a6dacce10a62b3",
     "7f2da1b5b54c215bc35b75775372e7bc",
@@ -16001,7 +15996,12 @@
     "b3eb13b0ed721bdc81d00ea0a94921f9",
     "65111125b4473075c1ea1bf4d1804b8b",
     "0a1fe135bf10778a947e8588ac9da5ab",
-    "3dde194bc8e5a8ff9ad65c013419b759"
+    "3dde194bc8e5a8ff9ad65c013419b759",
+    "c962c0a06207307a9365b46be8298807",
+    "e1ff99064c816a4605e155911b3659bf",
+    "1f90e4f247ce731379d8572a2fcb929f",
+    "038e349d446b9e45eaa9cfc3e5a77faa",
+    "d3637ec6ba9e909a67b273e479ccbd70"
   ],
   "transfers": {
     "pages": {
@@ -21124,6 +21124,26 @@
     {
       "t": "09 1280x960 2026 3 400 crosshair cs2 current dpi gear his plays s1mple sensitivity settings small static stretched",
       "ts": 1795865001.6794302
+    },
+    {
+      "t": "0 1 2 2027 3 aurora beats big brother derke emea end esports europe hopes junior kickoff losing mandatory miniboo miss navi playoffs qualifier vct went will wip",
+      "ts": 1795865006.887125
+    },
+    {
+      "t": "10 100 11 13 cache finds first form his hold last lead lost mibr off rounds server sirah six thieves took topped two won",
+      "ts": 1795865010.2827141
+    },
+    {
+      "t": "10 12 13 6 ancient before clutch edge finish led long makazze map mid navi needed player pvision rules that their w0nderful won",
+      "ts": 1795865013.6188211
+    },
+    {
+      "t": "10 13 28 5 become best cache eternal fire gamble kills lead left make map nafany one pay saw still veto won",
+      "ts": 1795865016.9522843
+    },
+    {
+      "t": "12 13 8 9 beaten g2 had haunts july liquid map nertz old previous series team their them two win won",
+      "ts": 1795865020.3537645
     }
   ]
 }
