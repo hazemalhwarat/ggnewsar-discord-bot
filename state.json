@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.hotspawn.com/league-of-legends/news/tes-zhuos-message-to-his-future-self-after-worlds-2026-dont-bottle-things-up",
-    "https://www.hotspawn.com/fortnite/news/fortnute-og-is-shutting-down",
-    "https://www.hotspawn.com/fortnite/news/fortnite-crew-changes",
-    "https://www.hotspawn.com/other/news/esports-awards-2026-nominees",
-    "https://www.hotspawn.com/valorant/news/nongshim-redforce-udotan-dambi",
     "https://esportsadvocate.net/2026/11/ukraine-esportsbattle-fixing-beter-esic-gold-standard/",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXFtU25TV0ZZa3hVcXBjMjdCc0JWXzZNdmxPU1pBTFF2VFV0RVhKdGprcmUyWEJvUEpvcFNFYkdYYWJJbHotYm8wT0s3ZEpaYTlwVjdqd3loYm9NSWpyQVRlcmZ0SHJFV1lhVjUyZEZLYWFPdk1xU2hEZlExZm5nS0NaZkJ3d2hFS3dtV3otYzF4dw?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1dhbERXMmJ5OEFGOFJVcGRrRnBvbXNKRmJfSWx6QTZMRlEyMkI0anFrSENaN1ZoZ081WU1zOEgzZVg2ZGNianVOZlpIUG1XOWhpT1o2dVo0NVZQLXlHWXpOU09jRkQ4V210ek5fWG9ibEZtVVp0ajB1OEhxbFp4WDhobkdwZzRMMVFHMWhvdGlSNnJTT3dQNlpGelFtZFVXaXZQdTItV0xOYmU3d1JlV19OUnhiVzM4QTJFbnNaRDdDYzA?oc=5",
@@ -7999,14 +7994,14 @@
     "https://www.invenglobal.com/articles/29245/azure-promilia-greets-starborn-on-its-launch-weekend",
     "https://www.invenglobal.com/articles/29244/epic-seven-world-championship-2026-a-festival-of-heirs-colors-jamsil-lotte-cinema",
     "https://www.dotabuff.com/blog/2026-10-14-items-in-dire-need-of-rework",
-    "https://www.hltv.org/news/46083/heavygod-and-r1nkle-power-g2-into-2-0-pool"
+    "https://www.hltv.org/news/46083/heavygod-and-r1nkle-power-g2-into-2-0-pool",
+    "https://www.hltv.org/news/46082/round-1-ends-with-100t-taking-down-mibr-g2-to-play-nip-in-round-2",
+    "https://www.hltv.org/news/46079/best-highlights-from-pgl-major-singapore-stage-2",
+    "https://www.hltv.org/news/46080/on-the-ground-at-pgl-major-singapore-stage-2",
+    "https://esportsinsider.com/2026/11/fut-win-major-debut-match-13-10-on-cache-ending-flyquests-12-map-streak-in-singapore",
+    "https://www.vlr.gg/795486/varrel-adds-ash-jinboong-raxcal-jovi-in-offseason-rebuild"
   ],
   "title_hashes": [
-    "1824e4cf8e760fe2606abbdba7a301ec",
-    "fd55fad8ea3b54e831735ebeb4a6d90f",
-    "3d447e3c15dd7b014cf88b59755d0e41",
-    "baebeebeaae674af4dd7c7bb1c02d1a2",
-    "d485dab1a305216e28527ffcb5127a78",
     "57b715eabef447d1fd42b398f3a66355",
     "60a6aa33ee351875f807dcc6ad628c66",
     "9170dbc64d4eaad88b9699a5683e26f5",
@@ -16001,7 +15996,12 @@
     "8b182050921f36060570db2e820c8fa9",
     "cbb98188bede969900dbf8a18f9d754e",
     "baebeebeaae674af4dd7c7bb1c02d1a2",
-    "c5a1507794da15eab5e6851793591277"
+    "c5a1507794da15eab5e6851793591277",
+    "dbdfc813f8fb6ddef156f9792c0526a5",
+    "5c45bd79c6d6f105c312fb216d729852",
+    "b1852161532f3d43de2452bad7e8ab6a",
+    "b5519fae5fbf4ae66dcc359b89c33715",
+    "a921a3352651495bd92d79b3db2ff405"
   ],
   "transfers": {
     "pages": {
@@ -21024,6 +21024,26 @@
     {
       "t": "0 2 day duo firepower flawless g2 heavygod into kept one pool power r1nkle",
       "ts": 1795864906.2206867
+    },
+    {
+      "t": "1 100t 2 down ends first free g2 major mibr nip opened play round singapore stage taking upset",
+      "ts": 1795864911.4650047
+    },
+    {
+      "t": "2 best catch clips highlights major next pgl singapore stage",
+      "ts": 1795864914.8791249
+    },
+    {
+      "t": "1 2 action behind ground home major our pgl scenes singapore stage welcome",
+      "ts": 1795864918.289477
+    },
+    {
+      "t": "0 1 10 12 13 2 2026 beat behind cache came debut debutants ending flyquest fut into invited major map match opening pgl qualifier result round sends singapore stage streak unbeaten win",
+      "ts": 1795864921.7218585
+    },
+    {
+      "t": "adds ash but coach faces four head its jinboong jovi large new offseason players raxcal rebuild returns two varrel",
+      "ts": 1795864925.164625
     }
   ]
 }
