@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.vlr.gg/784188/crashies-desmo-szed-depart-fnatic",
-    "https://www.vlr.gg/784135/for-a-bar-a-pa1ze-monsteerr-proxh-and-purp0-become-culers",
-    "https://www.vlr.gg/784127/t1-adds-sungmin-to-its-coaching-booth",
-    "https://www.vlr.gg/784108/nongshim-redforce-signs-udotan",
-    "https://www.vlr.gg/784105/giantx-parts-ways-with-ara-flickless-and-westside",
     "https://www.vlr.gg/784099/eternal-fire-strengthens-turkish-fut-hold-with-sociablee-s0pp",
     "https://thegamehaus.com/nfl-draft/2027-nfl-mock-draft-november-4/2026/11/04/",
     "https://thegamehaus.com/new-york-giants/new-york-giants-greg-newsome-agree-to-3-year-46-million-extension/2026/11/03/",
@@ -7999,14 +7994,14 @@
     "https://insider-gaming.com/stranger-than-heaven-controls-common-sense/",
     "https://insider-gaming.com/gta-6-chapter-5-mission-list-every-mission-in-gta-6-chapter-5-in-order/",
     "https://insider-gaming.com/how-to-enter-cheats-in-gta-6/",
-    "https://insider-gaming.com/pokemon-winds-and-waves-plushies/"
+    "https://insider-gaming.com/pokemon-winds-and-waves-plushies/",
+    "https://insider-gaming.com/yooka-laylee-team-skips-xbox/",
+    "https://www.vlr.gg/795374/fnatic-completes-its-rebuild-by-signing-minny",
+    "https://www.vlr.gg/795371/gam-esports-kicks-off-valorant-venture-by-signing-crazyguy",
+    "https://gameriv.com/denis-villeneuve-james-bond-movie-traditional-take/",
+    "https://gameriv.com/gta-6-project-portheon-developer-claims-unofficial-pc-port-is-finished/"
   ],
   "title_hashes": [
-    "f30560c77dce38c6011680827ff30bba",
-    "4a0b6d4fee32a2df82c9b04d64df383b",
-    "647cde03732154ddb83d620035a76ad7",
-    "ab24e5f3d48c7daeb9de20185cea492f",
-    "d506aadbe4b525a5bee2b3e17bb4221b",
     "25044a9a8978a9e7360044e30dc8c562",
     "0d030da8a9e7a289dee8e3ec0cc514e4",
     "cbb19f6cc89280b0a6207035d0d6f33e",
@@ -16001,7 +15996,12 @@
     "c52623f2c15ea14e094d1861249241d0",
     "97562323c8bbd8636e6a25abcaa56a74",
     "eb5b2ecc2cb28181424a8926084116f1",
-    "a77195dbb8b7d0814842712b98178176"
+    "a77195dbb8b7d0814842712b98178176",
+    "a9586f5603731a522d340996042f613f",
+    "7b584be900d883b79bf4b17ecc6f36bc",
+    "92a0bc3a379dacbc6d81dc0c13f21d6d",
+    "d95288ad582ae6831d0bcec2de8d6f87",
+    "e9ef967cc04c3ebfd216516425df5878"
   ],
   "transfers": {
     "pages": {
@@ -21232,6 +21232,26 @@
     {
       "t": "about almost announced been but get least little new news official plushies pokémon post revealed since waves winds year",
       "ts": 1795834755.5724168
+    },
+    {
+      "t": "appeared definitive edition first free getting impossible just lair laylee not owners post previous second skips team title xbox yooka",
+      "ts": 1795834760.9995873
+    },
+    {
+      "t": "completes fnatic its marteen minny rebuild reunite signing",
+      "ts": 1795834764.4759107
+    },
+    {
+      "t": "crazyguy esports gam his hometown kicks off organization signing signs valorant venture",
+      "ts": 1795834768.018057
+    },
+    {
+      "t": "007 about bond british change denis details director dna dune embrace has his iconic james movie pattinson promises promising robert says shared some spy starring traditional traditions upcoming villeneuve wants won",
+      "ts": 1795834771.5549612
+    },
+    {
+      "t": "6 another approval auto awaits bring claims community developer finished grand gta has interesting led one port portheon project projects race reached release reportedly several taken theft turn unofficial working",
+      "ts": 1795834775.2910054
     }
   ]
 }
