@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.invenglobal.com/articles/28188/2026-lck-awards-to-be-held-on-december-16",
-    "https://www.invenglobal.com/articles/28187/maplestory-idle-rpg-launches-1st-anniversary-salon-event",
     "https://www.invenglobal.com/articles/28186/astellia-sequel-astellia2-launches-worldwide-as-the-first-game-on-nexuss-one-platform",
     "https://www.invenglobal.com/articles/28185/six-companies-including-nintendo-ea-and-riot-display-common-accessibility-tags-in-us",
     "https://www.invenglobal.com/articles/28184/first-game-released-since-acquiring-one-store-nexus-launches-global-service-for-astellia-2",
@@ -7999,11 +7997,11 @@
     "https://pley.gg/cs2/100-thieves-mibr-13-11-cache-sirah/",
     "https://pley.gg/cs2/makazze-ancient-navi-parivision-13-10/",
     "https://pley.gg/cs2/nafany-28-kills-the-one-cache-eternal-fire-13-10/",
-    "https://pley.gg/cs2/nertz-haunts-old-team-liquid-as-g2-win-13-8/"
+    "https://pley.gg/cs2/nertz-haunts-old-team-liquid-as-g2-win-13-8/",
+    "https://pley.gg/cs2/astralis-imperial-13-9-inferno-staehr-ryu/",
+    "https://pley.gg/cs2/no-weak-link-as-nip-down-nemiga-13-7-on-mirage/"
   ],
   "title_hashes": [
-    "b935b01e3d0ee527d9618c8ad7192faa",
-    "e72934332992afcfb9a6dacce10a62b3",
     "7f2da1b5b54c215bc35b75775372e7bc",
     "2c38d5ad8549be9b5250f33b58eac6a6",
     "abcfc02bc5c44c44935924f6368fe8c8",
@@ -16001,7 +15999,9 @@
     "e1ff99064c816a4605e155911b3659bf",
     "1f90e4f247ce731379d8572a2fcb929f",
     "038e349d446b9e45eaa9cfc3e5a77faa",
-    "d3637ec6ba9e909a67b273e479ccbd70"
+    "d3637ec6ba9e909a67b273e479ccbd70",
+    "6ab8bb3e2f5515ccff0e78b53653062b",
+    "b5d338bfca16d2db81faa4f874a30846"
   ],
   "transfers": {
     "pages": {
@@ -21144,6 +21144,14 @@
     {
       "t": "12 13 8 9 beaten g2 had haunts july liquid map nertz old previous series team their them two win won",
       "ts": 1795865020.3537645
+    },
+    {
+      "t": "13 9 anlelele astralis first imperial lead led left look map match new official past played ryu staehr their them they",
+      "ts": 1795865025.59014
+    },
+    {
+      "t": "12 13 4 7 8 against all bucharest down finalists finished five half held kills link mirage more nemiga nip players weak",
+      "ts": 1795865028.8986216
     }
   ]
 }
